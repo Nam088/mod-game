@@ -1,52 +1,31 @@
 import os
-import csv
-import json
 import zipfile
 
-def extract_en_directly_from_game(game_dir=r"C:\Users\nam\Downloads\Compressed\Timberborn-AnkerGames"):
+def extract_exact_en_files_timberborn(game_dir=r"C:\Users\nam\Downloads\Compressed\Timberborn-AnkerGames"):
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    output_csv = os.path.join(base_dir, "enUS_extracted.csv")
-    output_json = os.path.join(base_dir, "en.json")
-    
+    output_dir = os.path.join(base_dir, "Extracted_EN")
+    os.makedirs(output_dir, exist_ok=True)
+
     zip_path = os.path.join(game_dir, "Timberborn", "Timberborn_Data", "StreamingAssets", "Modding", "Localizations.zip")
     
     if not os.path.exists(zip_path):
         print(f"Error: {zip_path} not found!")
         return
 
-    en_dict = {}
+    print(f"Extracting separate English files from game zip: {zip_path}")
+    en_files = ["enUS.csv", "enUS_names.csv", "enUS_donottranslate.csv", "enUS_wip.csv"]
     
-    print(f"Extracting English files directly from game zip: {zip_path}")
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-        for file_name in ["enUS.csv", "enUS_names.csv", "enUS_donottranslate.csv", "enUS_wip.csv"]:
+        for file_name in en_files:
             if file_name in zip_ref.namelist():
-                content = zip_ref.read(file_name).decode("utf-8-sig")
-                lines = content.splitlines()
-                reader = csv.reader(lines)
-                count = 0
-                for row in reader:
-                    if row and len(row) >= 2:
-                        key = row[0].strip()
-                        val = row[1].strip()
-                        if key and key != "ID":
-                            en_dict[key] = val
-                            count += 1
-                print(f"Extracted from {file_name}: {count} keys")
+                zip_ref.extract(file_name, output_dir)
+                print(f"  -> Extracted: {os.path.join(output_dir, file_name)}")
+            else:
+                # Create empty file if not in zip
+                open(os.path.join(output_dir, file_name), 'w', encoding='utf-8').close()
+                print(f"  -> Created empty placeholder: {file_name}")
 
-    # Save to en.json
-    with open(output_json, "w", encoding="utf-8") as f:
-        json.dump(en_dict, f, ensure_ascii=False, indent=2)
-
-    # Save to enUS_extracted.csv
-    with open(output_csv, "w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(["ID", "Text"])
-        for k, v in en_dict.items():
-            writer.writerow([k, v])
-
-    print(f"\nSuccessfully extracted all Timberborn English keys!")
-    print(f"  -> JSON: {output_json} ({len(en_dict)} keys)")
-    print(f"  -> CSV:  {output_csv} ({len(en_dict)} keys)")
+    print(f"\nSuccessfully extracted exact individual English CSV files to: {output_dir}")
 
 if __name__ == "__main__":
-    extract_en_directly_from_game()
+    extract_exact_en_files_timberborn()
