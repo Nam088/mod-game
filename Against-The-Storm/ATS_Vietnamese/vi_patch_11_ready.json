@@ -378,7 +378,7 @@
   "Order_ISalt_Name": "Thợ Mỏ Muối",
   "Order_IStartEngines_Name": "Khởi Động Động Cơ",
   "Order_IThePurge_Name": "Thanh Tẩy",
-  "Order_ITOBatResolve_Logic_Desc": "Giữ Ý Chí tộc Dơi.",
+  "Order_ITOBatResolve_Logic_Desc": "Giữ Ý Chí tộc Dơi. {1} {0} {2}",
   "Order_ITOBatResolve_Name": "Tộc Dơi Kiên Cường",
   "Order_ITOBeaverResolve_Name": "Tộc Hải Ly Vui Vẻ",
   "Order_ITODangerous Relics_Name": "Trinh Sát Hăng Hái",

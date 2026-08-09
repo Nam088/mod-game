@@ -493,7 +493,7 @@
   "GameUI_TrendsPopup_Operations_Pick": "Chọn Bất Kỳ Phân Đoạn Gần Đây Nào",
   "GameUI_TrendsPopup_Outflow": "Dòng Ra",
   "GameUI_TrendsPopup_Recent": "Gần Đây",
-  "GameUI_TrendsPopup_Recent_Tooltip_Desc": "Đồ thị tương tác hiển thị sự thay đổi số lượng hàng hóa trong nhà kho chính theo khoảng thời gian 10 giây.",
+  "GameUI_TrendsPopup_Recent_Tooltip_Desc": "Biểu đồ tương tác hiển thị sự thay đổi số lượng hàng hóa trong nhà kho chính theo khoảng thời gian 10 giây. <b>{0}</b> vào bất kỳ phân đoạn nào để xem chi tiết các hoạt động đã diễn ra trong khoảng thời gian đó.",
   "GameUI_TrendsPopup_UpdateIndicator_Desc": "Các hoạt động và giá trị được cập nhật mỗi 10 giây.",
   "GameUI_TrendsPopup_UpdateIndicator_Header": "Cập Nhật Tiếp Theo",
   "GameUI_TwitchHUD_Forest_Header": "Người Gác Rừng",

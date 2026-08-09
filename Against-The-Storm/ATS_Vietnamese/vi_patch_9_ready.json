@@ -96,7 +96,7 @@
   "Lake_ToxicSlugLake_Desc": "Ao sâu bất thường nối với các đường hầm ngầm rộng lớn.",
   "Lake_ToxicSlugLake_Name": "Ao Sâu",
   "Lakes_MinGradeRequired": "Yêu cầu chòi đánh cá có công thức {0} trở lên.",
-  "LowerHostilityPerGlades_HearthEffect_Fox_Desc": "Người giữ lửa tộc Cáo có khả năng bất thường làm dịu khu rừng.",
+  "LowerHostilityPerGlades_HearthEffect_Fox_Desc": "Người giữ lửa tộc Cáo có khả năng bất thường làm dịu khu rừng. Độ Thù Địch từ mỗi vùng rừng được mở sẽ giảm đi {0}.",
   "LowerHostilityPerGlades_HearthEffect_Fox_Name": "Sự Thân Thiện Với Rừng",
   "LowResolve_LeavingOrDeath_Prompt": "Đang Mất Dân Làng",
   "Magnitude_Range_01": "Rất Có Lợi",

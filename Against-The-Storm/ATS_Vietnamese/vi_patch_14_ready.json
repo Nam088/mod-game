@@ -334,7 +334,7 @@
   "Reward_ReplaceRainpunkEngineEffect_Altar_Desc": "Một thiết bị mỏng manh trích xuất năng lượng từ nước mưa tích điện. Tiền thưởng sản xuất trong Động Cơ Mưa mạnh hơn ({0} tốc độ sản xuất, {1} cơ hội x2 sản lượng).",
   "Reward_ReplaceRainpunkEngineEffect_Desc": "Một thiết bị mỏng manh trích xuất năng lượng từ nước mưa tích điện. Tiền thưởng sản xuất trong Động Cơ Mưa mạnh hơn ({0} tốc độ sản xuất, {1} cơ hội x2 sản lượng), nhưng U Độc Blightrot sẽ xuất hiện nhanh hơn {2} khi dùng Động Cơ Mưa.",
   "Reward_ReplaceRainpunkEngineEffect_Name": "Catot Tinh Thể",
-  "Reward_ReputationForLuxury_Desc": "Bia có gia vị thậm chí còn ngon hơn bia thường. {2}",
+  "Reward_ReputationForLuxury_Desc": "Bia có gia vị thậm chí còn ngon hơn bia thường. {2} {0} {1}",
   "Reward_ReputationForLuxury_Name": "Bia Và Khỏe Mạnh",
   "Reward_ReputationFromTrade_Desc": "Khu định cư nổi tiếng là trung tâm thương mại lớn trong vùng. Nhận {0} Điểm Uy Tín mỗi khi bạn bán hàng hóa trị giá {1} Hổ Phách, nhưng hoàn thành Đơn Hàng thưởng ít hơn {2} Uy Tín.",
   "Reward_ReputationFromTrade_Name": "Trung Tâm Thương Mại",
