@@ -1,0 +1,9 @@
+{
+  "Name": "Tiếng Việt (Vietnamese Localization)",
+  "Version": "1.0.0",
+  "Id": "VietnameseLanguageMod",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "Bản dịch Tiếng Việt đầy đủ và dễ hiểu cho Timberborn (Phát triển bởi AI Assistant).",
+  "RequiredMods": [],
+  "OptionalMods": []
+}
