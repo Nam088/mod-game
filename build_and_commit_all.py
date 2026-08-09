@@ -28,14 +28,14 @@ def main():
     tb_dir = os.path.join(root_dir, "Timberborn")
     if os.path.exists(tb_dir):
         print("\n--- Extracting EN & Deploying Timberborn ---")
-        run_cmd("python export_en_json.py", cwd=tb_dir)
+        run_cmd("python export_en_from_game.py", cwd=tb_dir)
         run_cmd("python export_csv_mod.py", cwd=tb_dir)
         run_cmd("python deploy_to_game.py", cwd=tb_dir)
 
     # 3. Git Add & Commit
     print("\n--- Staging & Committing to Git ---")
     run_cmd("git add .", cwd=root_dir)
-    msg = "Add export_csv_mod.py for Timberborn CSV Mod generation"
+    msg = "Update Timberborn direct English CSV & JSON extraction script export_en_from_game.py"
     run_cmd(f'git commit -m "{msg}"', cwd=root_dir)
     
     print("\nLocal Git commit completed for all game mods!")
