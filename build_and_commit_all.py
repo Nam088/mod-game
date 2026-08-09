@@ -35,7 +35,7 @@ def main():
     msg = "Update full build, export, and deploy scripts for Against The Storm & Timberborn"
     run_cmd(f'git commit -m "{msg}"', cwd=root_dir)
     
-    print("\n✅ Local Git commit completed for all game mods!")
+    print("\nLocal Git commit completed for all game mods!")
     print("To push to your remote GitHub repository, run:")
     print("  cd /d D:\\mod-game")
     print("  git remote add origin <your-github-repo-url>")
