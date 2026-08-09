@@ -1,0 +1,13 @@
+# Ignore C# build directories
+**/bin/
+**/obj/
+
+# Ignore python caches
+__pycache__/
+*.pyc
+
+# Ignore all extracted files by default (we will force-add only files we are translating)
+extracted_locales/
+
+# Ignore temporary installers
+*.exe

@@ -35,7 +35,7 @@ def main():
     # 3. Git Add & Commit
     print("\n--- Staging & Committing to Git ---")
     run_cmd("git add .", cwd=root_dir)
-    msg = "Update Timberborn direct English CSV & JSON extraction script export_en_from_game.py"
+    msg = "Add WorldBox Vietnamese Mod to repository"
     run_cmd(f'git commit -m "{msg}"', cwd=root_dir)
     
     print("\nLocal Git commit completed for all game mods!")
