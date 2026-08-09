@@ -34,8 +34,8 @@ def main():
 
     # 3. Git Add & Commit
     print("\n--- Staging & Committing to Git ---")
-    run_cmd("git add .", cwd=root_dir)
-    msg = "Add WorldBox Vietnamese Mod to repository"
+    run_cmd("git add -A", cwd=root_dir)
+    msg = "Clean up temporary scripts and consolidate project structure"
     run_cmd(f'git commit -m "{msg}"', cwd=root_dir)
     
     print("\nLocal Git commit completed for all game mods!")
