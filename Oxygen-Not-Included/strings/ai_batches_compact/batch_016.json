@@ -66,7 +66,7 @@
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.EFFECT": "Kết nối vào lưới <link=\"LOGIC\">Tự Động Hóa</link> để tự động ngắt dòng vận chuyển vật liệu khi đã đạt đủ số lượng chỉ định.",
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_OUTPUT": "Đã Đạt Giới Hạn",
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET": "Đặt Lại Bộ Đếm",
-  "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME": "<link=\"SOLIDLIMITVALVE\">Van Định Lượng Băng Chuyền</link>",
+  "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME": "<link=\"SOLIDLIMITVALVE\">Bộ Định Lượng Băng Chuyền</link>",
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE": "Gửi <b><style=\"logic_on\">Tín hiệu Xanh</style></b> nếu đã đạt đến giới hạn",
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE": "Nếu không, gửi <b><style=\"logic_off\">Tín hiệu Đỏ</style></b>",
   "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_ACTIVE": "<b><style=\"logic_on\">Tín hiệu Xanh</style></b>: Đặt lại số lượng",
