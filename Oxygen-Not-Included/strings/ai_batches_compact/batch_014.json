@@ -57,7 +57,7 @@
   "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.LOGIC_PORT": "Kích Hoạt Xả",
   "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.LOGIC_PORT_ACTIVE": "<b><style=\"logic_on\">Tín hiệu Xanh</style></b>: Xả toàn bộ vật liệu lưu trữ",
   "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.LOGIC_PORT_INACTIVE": "<b><style=\"logic_off\">Tín hiệu Đỏ</style></b>: Lưu trữ vật liệu",
-  "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.NAME": "<link=\"OBJECTDISPENSER\">Máy Phân Phối Tự Động</link>",
+  "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.NAME": "<link=\"OBJECTDISPENSER\">Thùng Xả Đồ Tự Động</link>",
   "STRINGS.BUILDINGS.PREFABS.OILCHANGER.DESC": "Một nguồn cung dầu mới giữ cho các khớp xương cũ không bị kêu răng rắc cọt kẹt.",
   "STRINGS.BUILDINGS.PREFABS.OILCHANGER.EFFECT": "Sử dụng <link=\"LUBRICATINGOIL\">Dầu Hộp Số</link> để giữ cho các bộ phận sinh học bionic của Đệ vận hành êm ái.",
   "STRINGS.BUILDINGS.PREFABS.OILCHANGER.NAME": "<link=\"OILCHANGER\">Trạm Tra Dầu Bôi Trơn</link>",
