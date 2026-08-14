@@ -223,7 +223,7 @@
   "STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.NAME": "<link=\"LEADSUITMARKER\">Cửa Kiểm Soát Đồ Chống Xạ Lead</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.DESC": "Trạm đóng chai cho phép các Đệ vận chuyển chất lỏng thủ công từ nơi này sang nơi khác.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.EFFECT": "Tự động nạp <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> dẫn qua đường ống vào chai để vận chuyển thủ công.",
-  "STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.NAME": "<link=\"LIQUIDBOTTLER\">Trạm Đóng Chai Chất Lỏng</link>",
+  "STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.NAME": "<link=\"LIQUIDBOTTLER\">Trạm Nạp Bình Nước</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.DESC": "Các Đệ sẽ nạp đầy khoang chở chất lỏng bằng bất kỳ tài nguyên nào họ tìm thấy trong các sứ mệnh không gian.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.EFFECT": "Cho phép các Đệ lưu trữ bất kỳ tài nguyên <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> nào tìm thấy trong các sứ mệnh không gian.\n\nTài nguyên lưu trữ sẽ sẵn sàng cho thuộc địa sử dụng khi tên lửa quay trở về.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.NAME": "<link=\"LIQUIDCARGOBAY\">Bình Chở Chất Lỏng</link>",
