@@ -215,7 +215,7 @@
   "STRINGS.BUILDINGS.PREFABS.RUBBERTILE.NAME": "<link=\"RUBBERTILE\">Gạch Cao Su</link>",
   "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.DESC": "Gỉ sét và muối đi vào, oxy tươi mát đi ra.",
   "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.EFFECT": "Chuyển đổi <link=\"RUST\">Gỉ Sét</link> thành <link=\"OXYGEN\">Oxy</link> và <link=\"CHLORINE\">Khí Clo</link>.\n\nSẽ tạm ngừng khi khu vực xung quanh đạt áp suất tối đa.",
-  "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME": "<link=\"RUSTDEOXIDIZER\">Máy Khử Oxy Từ Gỉ Sét</link>",
+  "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME": "<link=\"RUSTDEOXIDIZER\">Máy Tách Oxy Từ Gỉ Sét</link>",
   "STRINGS.BUILDINGS.PREFABS.SAUNA.DESC": "Một phòng xông hơi ngập tràn hơi nước xoa dịu mọi cơn đau nhức.",
   "STRINGS.BUILDINGS.PREFABS.SAUNA.EFFECT": "Sử dụng <link=\"STEAM\">Hơi Nước</link> để tạo bầu không khí thư giãn.\n\nTăng <link=\"MORALE\">Đạo đức</link> cho Đệ và mang lại cảm giác ấm áp dễ chịu kéo dài.",
   "STRINGS.BUILDINGS.PREFABS.SAUNA.NAME": "<link=\"SAUNA\">Phòng Xông Hơi</link>",

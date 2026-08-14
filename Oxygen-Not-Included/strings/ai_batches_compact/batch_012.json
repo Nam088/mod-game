@@ -16,7 +16,7 @@
   "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME": "<link=\"LIQUIDVALVE\">Van Tiết Lưu Nước</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC": "Lỗ xả là điểm thoát của chất lỏng ra khỏi hệ thống cấp thoát nước.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.EFFECT": "Xả <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> từ <link=\"LIQUIDPIPING\">Ống Dẫn Nước</link> ra ngoài môi trường.",
-  "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME": "<link=\"LIQUIDVENT\">Lỗ Xả Nước</link>",
+  "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME": "<link=\"LIQUIDVENT\">Cổng Xả Nước</link>",
   "STRINGS.BUILDINGS.PREFABS.LITTERBOX.DESC": "Thu gom những thứ lưu trữ bên trong thật chẳng dễ chịu gì, nhưng thành quả thì rất xứng đáng.",
   "STRINGS.BUILDINGS.PREFABS.LITTERBOX.EFFECT": "Cung cấp nơi cho <link=\"CREATURES\">Sinh Vật</link> xả thải phụ phẩm từ hệ tiêu hóa.\n\nĐệ phải xúc dọn để thu gom các tài nguyên đã tích tụ.",
   "STRINGS.BUILDINGS.PREFABS.LITTERBOX.NAME": "<link=\"LITTERBOX\">Khay Vệ Sinh Cho Sinh Vật</link>",
