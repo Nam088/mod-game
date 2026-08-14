@@ -48,7 +48,7 @@
   "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME": "<link=\"MASSAGETABLE\">Bàn Mát-Xa</link>",
   "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.DESC": "",
   "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT": "Một cỗ máy tự vận hành chạy bằng nguồn vật chất dường như là <link=\"UNOBTANIUM\">Neutronium</link> tinh chế.\n\nHấp thụ và triệt tiêu năng lượng <link=\"HEAT\">Nhiệt</link> khi được cấp <link=\"HYDROGEN\">Khí Hydro</link> qua đường ống.",
-  "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.NAME": "<link=\"MASSIVEHEATSINK\">Máy Triệt Nhiệt Cổ Đại AETN</link>",
+  "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.NAME": "<link=\"MASSIVEHEATSINK\">Máy Triệt Nhiệt AETN</link>",
   "STRINGS.BUILDINGS.PREFABS.MECHANICALSURFBOARD.DESC": "Những con sóng cơ học mang lại khoảng thời gian thư giãn cực đỉnh.",
   "STRINGS.BUILDINGS.PREFABS.MECHANICALSURFBOARD.EFFECT": "Tăng <link=\"MORALE\">Đạo đức</link> cho Đệ.\n\nMột lượng <link=\"WATER\">Nước</link> sẽ văng tung tóe ra sàn trong quá trình sử dụng.",
   "STRINGS.BUILDINGS.PREFABS.MECHANICALSURFBOARD.LEAK_REQUIREMENT": "Tràn nước: {amount}",

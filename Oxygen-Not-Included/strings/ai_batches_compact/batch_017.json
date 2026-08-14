@@ -31,7 +31,7 @@
   "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.WATER": "<link=\"WATER\">Nước</link>\nNước ngọt uống được thông thường",
   "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC": "Máy lọc không thể tiêu diệt vi trùng và sẽ chuyển bất kỳ mầm bệnh nào nhận được vào chất thải và đầu ra nước.",
   "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT": "Sản xuất <link=\"WATER\">Nước Sạch</link> từ <link=\"DIRTYWATER\">Nước Bẩn</link> bằng cách sử dụng <link=\"SAND\">Cát</link>.\n\nThải ra <link=\"TOXICSAND\">Đất Bẩn</link>.",
-  "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME": "<link=\"WATERPURIFIER\">Máy Lọc Nước Bẩn (Sieve)</link>",
+  "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME": "<link=\"WATERPURIFIER\">Máy Lọc Nước</link>",
   "STRINGS.BUILDINGS.PREFABS.WATERTRAP.DESC": "Cá mắc bẫy sẽ tự động được đóng túi sẵn sàng để vận chuyển.",
   "STRINGS.BUILDINGS.PREFABS.WATERTRAP.EFFECT": "Thu hút và bẫy các <link=\"CREATURES\">Sinh Vật</link> thủy sinh.\n\nChỉ những Đệ có kỹ năng <link=\"RANCHING1\">Chăn Nuôi Sinh Vật I</link> mới có thể gài bẫy này. Bẫy có thể tái sử dụng!",
   "STRINGS.BUILDINGS.PREFABS.WATERTRAP.NAME": "<link=\"WATERTRAP\">Bẫy Cá</link>",
