@@ -7,7 +7,7 @@
   "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME": "<link=\"LIQUIDPUMP\">Bơm Nước</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.DESC": "Bơm tay cho phép các Đệ đóng chai và vận chuyển chất lỏng từ nơi này sang nơi khác.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.EFFECT": "Bơm thủ công <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> vào các chai chứa để vận chuyển.\n\nCác Đệ chỉ có thể khuân vác chất lỏng khi đã đóng chai.",
-  "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.NAME": "<link=\"LIQUIDPUMPINGSTATION\">Bơm Nước Bằng Tay</link>",
+  "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.NAME": "<link=\"LIQUIDPUMPINGSTATION\">Máy Bơm Nước Thủ Công (Bơm Tay)</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC": "Bình chứa không thể tiếp nhận tài nguyên được vận chuyển thủ công.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT": "Lưu trữ mọi tài nguyên <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> được dẫn ống vào.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME": "<link=\"LIQUIDRESERVOIR\">Bình Chứa Nước</link>",
