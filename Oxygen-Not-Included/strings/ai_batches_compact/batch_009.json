@@ -64,7 +64,7 @@
   "STRINGS.BUILDINGS.PREFABS.DLC5POITECHUNLOCKS.NAME": "Cổng Nghiên Cứu",
   "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC": "Bệnh xá có thể đặt trong phòng bệnh viện để giảm nguy cơ lây lan dịch bệnh.",
   "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.EFFECT": "Cho phép các Đệ thực hiện các bước điều trị cơ bản cho Đệ bị ốm.\n\nCác Đệ phải có <link=\"ROLES\">Kỹ năng</link> Chăm Sóc Người Bệnh để điều trị cho đồng đội.",
-  "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME": "<link=\"DOCTORSTATION\">Bệnh Xá Cơ Bản</link>",
+  "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME": "<link=\"DOCTORSTATION\">Bệnh Xá</link>",
   "STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE": "phía trên",
   "STRINGS.BUILDINGS.PREFABS.DOOR.BELOW": "phía dưới",
   "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME": "Tự động",

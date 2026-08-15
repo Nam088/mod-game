@@ -280,7 +280,7 @@
   "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.DESC": "Bật/Tắt",
   "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.LOGIC_PORT_ACTIVE": "<b><style=\"logic_on\">Tín hiệu Xanh</style></b>: Bắt gom sinh vật dư thừa",
   "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.LOGIC_PORT_INACTIVE": "<b><style=\"logic_off\">Tín hiệu Đỏ</style></b>: Bỏ qua sinh vật dư thừa",
-  "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.NAME": "<link=\"CRITTERPICKUP\">Điểm Thu Gom Sinh Vật</link>",
+  "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.NAME": "<link=\"CRITTERPICKUP\">Điểm Bắt Sinh Vật</link>",
   "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.DESC": "Phào viền trần là một chi tiết trang trí thuần túy cho phần phía trên đầu.",
   "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.EFFECT": "Dùng để trang trí trần của các căn phòng.\n\nTăng <link=\"DECOR\">Trang trí</link>, đóng góp vào <link=\"MORALE\">Đạo đức</link>.",
   "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.DESC": "Phào viền trần là một chi tiết trang trí thuần túy cho phần phía trên đầu.",
