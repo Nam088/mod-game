@@ -183,7 +183,7 @@
   "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMERSMALL.NAME": "<link=\"POWERTRANSFORMERSMALL\">Máy Biến Áp</link>",
   "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC": "Cửa khóa khí cơ giới hóa đóng mở nhanh hơn các loại cửa khác.",
   "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT": "Chặn dòng <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> và <link=\"ELEMENTSGAS\">Khí</link>, duy trì áp suất giữa các khu vực.\n\nHoạt động như một <link=\"MANUALPRESSUREDOOR\">Cửa Khóa Khí Thủ Công</link> khi không có <link=\"POWER\">Điện</link>.\n\n<link=\"CREATURES\">Sinh Vật</link> hoang dã không thể đi qua cửa.",
-  "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME": "<link=\"PRESSUREDOOR\">Cửa Khóa Khí Cơ Giới Hóa</link>",
+  "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME": "<link=\"PRESSUREDOOR\">Cửa Khóa Khí Tự Động</link>",
   "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC": "Công tắc áp suất khí ngắt điện khi áp suất không khí xung quanh vượt quá ngưỡng thiết lập.",
   "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT": "Tự động bật hoặc tắt nguồn <link=\"POWER\">Điện</link> dựa trên <link=\"PRESSURE\">Áp Suất Khí</link> môi trường xung quanh.\n\nKhông ảnh hưởng đến mạch điện nằm trước công tắc.",
   "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.NAME": "<link=\"PRESSURESWITCHGAS\">Công Tắc Áp Suất Khí</link>",
