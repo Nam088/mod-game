@@ -17,8 +17,12 @@ def main():
         name = f"{res['name']} Việt Hóa v{res['version']}"
         zip_path = res["zip_path"]
         zip_name = res["zip_name"]
+        game_key = res["game_key"]
+        
+        raw_img_url = f"https://raw.githubusercontent.com/Nam088/mod-game/master/{game_key}/preview.png"
         
         body = f"### 🎮 Bản Việt Hóa {res['name']} - Phiên bản v{res['version']}\n\n"
+        body += f"<p align=\"center\"><img src=\"{raw_img_url}\" alt=\"{res['name']} Preview\" width=\"550\" /></p>\n\n"
         body += f"- 📦 **File cài đặt Mod**: `{zip_name}`\n"
         body += "- 🚀 Tự động build và đóng gói bởi GitHub Actions CI/CD.\n\n"
         body += "**Hướng dẫn cài đặt:**\n"
