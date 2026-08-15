@@ -186,7 +186,7 @@
   "STRINGS.ELEMENTS.BITUMEN.DESC": "Nhựa đường là một loại cặn dính nhớt còn lại sau quá trình sản xuất <link=\"PETROLEUM\">Dầu Mỏ</link>.",
   "STRINGS.ELEMENTS.BITUMEN.NAME": "<link=\"BITUMEN\">Nhựa Đường Bitumen</link>",
   "STRINGS.ELEMENTS.BLEACHSTONE.DESC": "Đá thuốc tẩy là một hợp chất không bền phát ra <link=\"CHLORINEGAS\">Khí Clo</link> không thở được.\n\nNó thường được sử dụng trong các quy trình <link=\"HANDSANITIZER\">Vệ Sinh Khử Khuẩn</link>.",
-  "STRINGS.ELEMENTS.BLEACHSTONE.NAME": "<link=\"BLEACHSTONE\">Đá Thuốc Tẩy</link>",
+  "STRINGS.ELEMENTS.BLEACHSTONE.NAME": "<link=\"BLEACHSTONE\">Đá Tẩy Trùng (Bleach Stone)</link>",
   "STRINGS.ELEMENTS.BOTTLEDWATER.DESC": "(H<sub>2</sub>O) <link=\"WATER\">Nước</link> sạch, được đóng chai để vận chuyển.",
   "STRINGS.ELEMENTS.BOTTLEDWATER.NAME": "<link=\"BOTTLEDWATER\">Nước Đóng Chai</link>",
   "STRINGS.ELEMENTS.BREATHABLEDESC": "<color=#{0}>({1})</color>",
@@ -298,5 +298,5 @@
   "STRINGS.ELEMENTS.GOLD.DESC": "(Au) Vàng là một loại <link=\"REFINEDMETAL\">Kim Loại</link> quý dẫn điện.\n\nNó thích hợp để xây dựng các hệ thống <link=\"POWER\">Năng Lượng</link>.",
   "STRINGS.ELEMENTS.GOLD.NAME": "<link=\"GOLD\">Vàng</link>",
   "STRINGS.ELEMENTS.GOLDAMALGAM.DESC": "Hỗn hống vàng là một hỗn hống dẫn điện giữa vàng và thủy ngân.\n\nNó thích hợp để xây dựng các hệ thống <link=\"POWER\">Năng Lượng</link>.",
-  "STRINGS.ELEMENTS.GOLDAMALGAM.NAME": "<link=\"GOLDAMALGAM\">Hỗn Hống Vàng</link>"
+  "STRINGS.ELEMENTS.GOLDAMALGAM.NAME": "<link=\"GOLDAMALGAM\">Quặng Vàng Thô</link>"
 }

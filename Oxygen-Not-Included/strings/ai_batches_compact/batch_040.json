@@ -38,7 +38,7 @@
   "STRINGS.ELEMENTS.WATER.DESC": "(H<sub>2</sub>O) <link=\"WATER\">Nước</link> sạch, thích hợp để tiêu thụ.",
   "STRINGS.ELEMENTS.WATER.NAME": "<link=\"WATER\">Nước</link>",
   "STRINGS.ELEMENTS.WOLFRAMITE.DESC": "((Fe,Mn)WO<sub>4</sub>) Wolframite là một nguyên tố kim loại đặc ở trạng thái <link=\"ELEMENTSSOLID\">Rắn</link>.\n\nNó là nguồn cung cấp <link=\"TUNGSTEN\">Vonfram</link> và thích hợp để xây dựng các hệ thống <link=\"POWER\">Năng Lượng</link>.",
-  "STRINGS.ELEMENTS.WOLFRAMITE.NAME": "<link=\"WOLFRAMITE\">Wolframite</link>",
+  "STRINGS.ELEMENTS.WOLFRAMITE.NAME": "<link=\"WOLFRAMITE\">Quặng Vonfram (Wolframite)</link>",
   "STRINGS.ELEMENTS.WOODLOG.DESC": "Gỗ là một nguồn cung cấp <link=\"HEAT\">Nhiệt</link> và <link=\"POWER\">Năng Lượng</link> tốt.\n\nĐặc tính cách nhiệt và điểm <link=\"DECOR\">Trang Trí</link> tích cực cũng giúp nó trở thành <b>Vật Liệu Xây Dựng</b> hữu ích.",
   "STRINGS.ELEMENTS.WOODLOG.NAME": "<link=\"WOOD\">Gỗ</link>",
   "STRINGS.ELEMENTS.YELLOWCAKE.DESC": "(U<sub>3</sub>O<sub>8</sub>) Bánh vàng là một phụ phẩm từ việc khai thác mỏ <link=\"URANIUM\">Urani</link>.\n\nNó rất hữu ích trong việc chuẩn bị nhiên liệu cho <link=\"NUCLEARREACTOR\">Lò Phản Ứng Nghiên Cứu</link>.\n\nLưu ý: Không được ăn.",

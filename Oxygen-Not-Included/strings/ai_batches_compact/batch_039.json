@@ -173,7 +173,7 @@
   "STRINGS.ELEMENTS.OXYGEN.DESC": "(O<sub>2</sub>) Oxy là một chất <link=\"ELEMENTSGAS\">Khí</link> có khối lượng nguyên tử siêu nhẹ và có thể hít thở được, cần thiết để duy trì sự sống.\n\nNó có xu hướng bay lên trên các loại khí khác.",
   "STRINGS.ELEMENTS.OXYGEN.NAME": "<link=\"OXYGEN\">Oxy</link>",
   "STRINGS.ELEMENTS.OXYROCK.DESC": "(Ir<sub>3</sub>O<sub>2</sub>) Đá Oxy (Oxylite) là một hợp chất hóa học từ từ tỏa ra <link=\"OXYGEN\">Oxy</link> thở được.\n\nKhai thác <link=\"OXYROCK\">Đá Oxy</link> sẽ làm tăng tốc độ thoát khí của nó, nhưng cũng làm hao hụt quặng nhanh hơn.",
-  "STRINGS.ELEMENTS.OXYROCK.NAME": "<link=\"OXYROCK\">Đá Oxy</link>",
+  "STRINGS.ELEMENTS.OXYROCK.NAME": "<link=\"OXYROCK\">Đá Oxy (Oxylite)</link>",
   "STRINGS.ELEMENTS.PALMWOOD.DESC": "Gỗ Cao Su có thể được xử lý tại <link=\"MILKPRESS\">Máy Nghiền Thực Vật</link> để thu được <link=\"LATEX\">Mủ Cao Su</link>, thành phần thiết yếu để sản xuất <link=\"RUBBER\">Cao Su</link>.\n\nNó cũng có thể được dùng tạo <link=\"HEAT\">Nhiệt</link> và <link=\"POWER\">Năng Lượng</link>, hoặc làm <b>Vật Liệu Xây Dựng</b>.",
   "STRINGS.ELEMENTS.PALMWOOD.NAME": "<link=\"PALMWOOD\">Gỗ Cao Su</link>",
   "STRINGS.ELEMENTS.PEARL.DESC": "Một viên ngọc hoàn hảo không tì vết.\n\nNó có thể làm thức ăn cho <link=\"SEAHORSESPECIES\">Cá Ngựa Seaquine</link> hoặc dùng làm <b>Vật Liệu Xây Dựng</b> đẹp mắt.",
