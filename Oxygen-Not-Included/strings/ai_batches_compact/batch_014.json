@@ -122,7 +122,7 @@
   "STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME": "<link=\"PETROLEUMGENERATOR\">Máy Phát Điện Dầu Hỏa</link>",
   "STRINGS.BUILDINGS.PREFABS.PHONOBOX.DESC": "Nhảy múa giúp các Đệ bộc lộ những cảm xúc sâu kín nhất trong lòng.",
   "STRINGS.BUILDINGS.PREFABS.PHONOBOX.EFFECT": "Phát nhạc cho các Đệ nhảy múa giải trí trong giờ nghỉ.\n\nTăng <link=\"MORALE\">Đạo đức</link> cho Đệ.",
-  "STRINGS.BUILDINGS.PREFABS.PHONOBOX.NAME": "<link=\"PHONOBOX\">Máy Phát Nhạc Tự Động Jukebot</link>",
+  "STRINGS.BUILDINGS.PREFABS.PHONOBOX.NAME": "<link=\"PHONOBOX\">Máy Phát Nhạc Jukebot</link>",
   "STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.DESC": "Đưa một Đệ đổ bộ xuống Tiểu Hành Tinh từ một <link=\"PIONEERMODULE\">Mô-đun Tiên Phong</link> trên quỹ đạo.",
   "STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.NAME": "<link=\"PIONEERMODULE\">Tàu Đổ Bộ Tiên Phong</link>",
   "STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.DESC": "Đó là một bước đi nhỏ của các Đệ.",

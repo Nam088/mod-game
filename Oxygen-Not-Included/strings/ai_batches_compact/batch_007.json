@@ -252,7 +252,7 @@
   "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.NAME": "<link=\"ARTIFACTCARGOBAY\">Mô-đun Vận Chuyển Cổ Vật</link>",
   "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.DESC": "Các Đệ phải hoàn thành khóa huấn luyện phi hành gia mới có thể lái tên lửa vũ trụ.",
   "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT": "Huấn luyện các Đệ trở thành <link=\"ROCKETPILOTING1\">Phi công Vũ trụ</link>.\n\nCác Đệ phải sở hữu đặc tính <link=\"ROCKETPILOTING1\">Phi công Vũ trụ</link> để tiếp nhận huấn luyện.",
-  "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME": "<link=\"ASTRONAUTTRAININGCENTER\">Máy Ly Tâm Huấn Luyện Phi Hành Gia</link>",
+  "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME": "<link=\"ASTRONAUTTRAININGCENTER\">Máy Ly Tâm Huấn Luyện</link>",
   "STRINGS.BUILDINGS.PREFABS.AUTOMINER.DESC": "Tầm đào của robot có thể xem bất cứ lúc nào bằng cách chọn vào công trình.",
   "STRINGS.BUILDINGS.PREFABS.AUTOMINER.EFFECT": "Tự động đào bới toàn bộ vật liệu trong phạm vi thiết lập.",
   "STRINGS.BUILDINGS.PREFABS.AUTOMINER.NAME": "<link=\"AUTOMINER\">Máy Đào Robot</link>",

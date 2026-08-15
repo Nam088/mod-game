@@ -65,7 +65,7 @@
   "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.LOGIC_PORT": "Cảm Biến Chuyển Động Của Đệ",
   "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.LOGIC_PORT_ACTIVE": "Gửi <b><style=\"logic_on\">Tín hiệu Xanh</style></b> khi có Đệ nằm trong phạm vi các ô của cảm biến",
   "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.LOGIC_PORT_INACTIVE": "Nếu không, gửi <b><style=\"logic_off\">Tín hiệu Đỏ</style></b>",
-  "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.NAME": "<link=\"LOGICDUPLICANTSENSOR\">Cảm Biến Chuyển Động Của Đệ</link>",
+  "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.NAME": "<link=\"LOGICDUPLICANTSENSOR\">Cảm Biến Chuyển Động Đệ</link>",
   "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.DESC": "Các cảm biến này có thể phát hiện sự hiện diện của một loại khí cụ thể và phản hồi hệ thống tương ứng.",
   "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.EFFECT": "Gửi <b><style=\"logic_on\">Tín hiệu Xanh</style></b> khi phát hiện loại <link=\"ELEMENTSGAS\">Khí</link> đã chọn trên ô cảm biến này.\n\nGửi <b><style=\"logic_off\">Tín hiệu Đỏ</style></b> khi không có loại <link=\"ELEMENTSGAS\">Khí</link> đã chọn.",
   "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.LOGIC_PORT": "Sự Hiện Diện <link=\"ELEMENTSGAS\">Khí</link> Cụ Thể",

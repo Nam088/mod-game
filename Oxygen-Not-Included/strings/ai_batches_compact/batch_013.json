@@ -183,7 +183,7 @@
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.NAME": "<link=\"MODULARLAUNCHPADPORTGASUNLOADER\">Cổng Dỡ Khí Tên Lửa</link>",
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.DESC": "Tên lửa phải hạ cánh mới có thể nạp hoặc dỡ tài nguyên.",
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT": "Nạp <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> vào khoang chứa của tên lửa đã kết nối.\n\nTự động kết nối khi xây dựng cạnh một <link=\"LAUNCHPAD\">Bệ Phóng Tên Lửa</link> hoặc một <link=\"MODULARLAUNCHPADPORTSOLID\">Cổng Nạp Tên Lửa</link> khác.\n\nSử dụng bộ lọc chất lỏng đã thiết lập trên khoang chứa của tên lửa.",
-  "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME": "<link=\"MODULARLAUNCHPADPORTLIQUID\">Cổng Nạp Chất Lỏng Cho Tên Lửa</link>",
+  "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME": "<link=\"MODULARLAUNCHPADPORTLIQUID\">Cổng Nạp Chất Lỏng Tên Lửa</link>",
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.DESC": "Tên lửa phải hạ cánh mới có thể nạp hoặc dỡ tài nguyên.",
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.EFFECT": "Dỡ <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> khỏi khoang chứa của tên lửa đã kết nối.\n\nTự động kết nối khi xây dựng cạnh một <link=\"LAUNCHPAD\">Bệ Phóng Tên Lửa</link> hoặc một <link=\"MODULARLAUNCHPADPORTSOLID\">Cổng Nạp Tên Lửa</link> khác.\n\nSử dụng bộ lọc chất lỏng được thiết lập trên máy dỡ hàng này.",
   "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME": "<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Cổng Dỡ Chất Lỏng Tên Lửa</link>",

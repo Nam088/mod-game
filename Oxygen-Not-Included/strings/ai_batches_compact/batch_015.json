@@ -94,7 +94,7 @@
   "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME": "<link=\"REFRIGERATOR\">Tủ Lạnh</link>",
   "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.DESC": "Đó là bến đỗ cho bản sao nhân tạo của một Đệ.",
   "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.EFFECT": "<link=\"REMOTEWORKERDOCK\">Trạm Sạc Robot Công Nhân Từ Xa</link> triển khai các robot tự động vận hành máy móc dựa trên hướng dẫn nhận được từ một <link=\"REMOTEWORKTERMINAL\">Bộ Điều Khiển Từ Xa</link> được kết nối.\n\nPhải đặt trong tầm hoạt động của công trình mục tiêu.",
-  "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME": "<link=\"REMOTEWORKERDOCK\">Trạm Sạc Robot Công Nhân Từ Xa</link>",
+  "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME": "<link=\"REMOTEWORKERDOCK\">Trạm Sạc Robot Đệ (Remote)</link>",
   "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME_FMT": "Trạm Sạc {ID}",
   "STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.DESC": "Bộ điều khiển từ xa giúp cắt giảm thời gian di chuyển của thuộc địa.",
   "STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.EFFECT": "Cho phép các Đệ vận hành máy móc từ xa thông qua một <link=\"REMOTEWORKERDOCK\">Trạm Sạc Robot Công Nhân Từ Xa</link> được kết nối.",
@@ -300,5 +300,7 @@
   "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.NAME": "<link=\"SMALLSCULPTURE\">Khối Điêu Khắc Nhỏ</link>",
   "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.POORQUALITYNAME": "Tượng Điêu Khắc \"Trừu Tượng\"",
   "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP": "Gửi <b><style=\"logic_on\">Tín hiệu Xanh</style></b> khi bình chứa dưới <b>{0}%</b> dung tích, cho đến khi đạt <b>{1}% (Ngưỡng Cao)</b>",
-  "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.NAME": "Tủ Chứa Đồ Kẻ Sọc Đỏ Trắng"
+  "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.NAME": "Tủ Chứa Đồ Kẻ Sọc Đỏ Trắng",
+  "STRINGS.BUILDINGS.PREFABS.WARPPORTAL.NAME": "Cổng Dịch Chuyển Đệ (Gửi)",
+  "STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.NAME": "Cổng Dịch Chuyển Đệ (Nhận)"
 }
