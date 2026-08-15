@@ -1,10 +1,34 @@
 [
   {
+    "game_key": "Against-The-Storm",
+    "name": "Against The Storm",
+    "version": "1.0.2",
+    "zip_name": "Against-The-Storm-Vietnamese-Mod-v1.0.2.zip",
+    "zip_path": "/home/runner/work/mod-game/mod-game/Against-The-Storm/dist/Against-The-Storm-Vietnamese-Mod-v1.0.2.zip",
+    "tag": "ats-v1.0.2"
+  },
+  {
     "game_key": "Oxygen-Not-Included",
     "name": "Oxygen Not Included",
+    "version": "1.0.2",
+    "zip_name": "Oxygen-Not-Included-Vietnamese-v1.0.2.zip",
+    "zip_path": "/home/runner/work/mod-game/mod-game/Oxygen-Not-Included/dist/Oxygen-Not-Included-Vietnamese-v1.0.2.zip",
+    "tag": "oni-v1.0.2"
+  },
+  {
+    "game_key": "WorldBox",
+    "name": "WorldBox",
     "version": "1.0.1",
-    "zip_name": "Oxygen-Not-Included-Vietnamese-v1.0.1.zip",
-    "zip_path": "/home/runner/work/mod-game/mod-game/Oxygen-Not-Included/dist/Oxygen-Not-Included-Vietnamese-v1.0.1.zip",
-    "tag": "oni-v1.0.1"
+    "zip_name": "WorldBox-Vietnamese-Mod-v1.0.1.zip",
+    "zip_path": "/home/runner/work/mod-game/mod-game/WorldBox/dist/WorldBox-Vietnamese-Mod-v1.0.1.zip",
+    "tag": "wb-v1.0.1"
+  },
+  {
+    "game_key": "Timberborn",
+    "name": "Timberborn",
+    "version": "1.0.1",
+    "zip_name": "Timberborn-Vietnamese-Mod-v1.0.1.zip",
+    "zip_path": "/home/runner/work/mod-game/mod-game/Timberborn/dist/Timberborn-Vietnamese-Mod-v1.0.1.zip",
+    "tag": "tb-v1.0.1"
   }
 ]
