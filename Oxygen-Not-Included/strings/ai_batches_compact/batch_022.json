@@ -103,7 +103,7 @@
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.CODEX_NAME": "Thử Thách Hoàn Thành",
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.DESCRIPTION": "Thành công rồi! Đã thu thập đủ số lượng mẫu vật.\n\nGiờ đây tôi có thể kích hoạt các phân nhánh đột biến gen ở các biến thể gốc bằng cách đưa chúng qua buồng quét.\n\nCác biến thể hiện tại cũng có thể đem quét, nhưng cấu trúc di truyền của chúng quá kém ổn định để chịu đựng thêm bất kỳ sự can thiệp biến đổi nào nữa.",
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME": "Hoàn Thành Đặc Điểm Cốt Truyện: Máy Biến Đổi Sinh Vật",
-  "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME": "Máy Biến Đổi Sinh Vật",
+  "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME": "Máy Đột Biến Sinh Vật (Flux-O-Matic)",
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.CONTAINER1": "<indent=5%>Một bộ cần gạt nước kính chắn gió bị nhai nát khác đã được phát hiện tại Bãi Đỗ Xe D sau sự cố chuồng nuôi sinh vật của Phòng Kỹ Thuật Sinh Học bị vỡ vào tuần trước.\n\nNhân viên được khuyến khích mạnh mẽ cắm sạc xe của họ tại các bãi đỗ xe A-C cho đến khi có thông báo mới.\n\nVui lòng không gọi cho đội kiểm soát động vật của thành phố - tất cả các trường hợp nhìn thấy sinh vật nên được báo cáo trực tiếp cho Tiến sĩ Byron.</indent>",
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.EMAILHEADER1": "<smallcaps>Đến: <b>TẤT CẢ</b><alpha=#AA><size=12></size></color>\nTừ: <b>BAN QUẢN TRỊ</b><alpha=#AA><size=12> <admin@gravitas.nova></size></color></smallcaps>\n------------------\n",
   "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.SIGNATURE1": "\nXin cảm ơn,\n-Ban Quản Trị\n<size=11>Cơ Sở Gravitas</size>\n------------------\n",
