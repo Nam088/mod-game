@@ -298,5 +298,6 @@
   "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.DESC": "Cho phép <style=\"KKeyword\">Tinh Chỉnh</style> máy phát điện, tạm thời cải thiện sản lượng <style=\"KKeyword\">Điện Năng</style>",
   "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME": "Có Sẵn Kỹ Năng: <link=\"TECHNICALS2\">Kỹ Thuật Điện</link>",
   "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC": "Bắt đầu với <b>Kỹ Năng</b> Cấp 2",
-  "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC_TOOLTIP": "Đệ này nhận được một <style=\"KKeyword\">Kỹ Năng</style> miễn phí mà không phải chịu bất lợi tăng <style=\"KKeyword\">Yêu Cầu Tinh Thần</style>"
+  "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC_TOOLTIP": "Đệ này nhận được một <style=\"KKeyword\">Kỹ Năng</style> miễn phí mà không phải chịu bất lợi tăng <style=\"KKeyword\">Yêu Cầu Tinh Thần</style>",
+  "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME": "Đào Bới"
 }
