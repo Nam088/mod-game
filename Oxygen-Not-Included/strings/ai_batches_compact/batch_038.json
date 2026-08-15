@@ -226,7 +226,7 @@
   "STRINGS.ELEMENTS.COBALTITE.NAME": "<link=\"COBALTITE\">Quặng Coban</link>",
   "STRINGS.ELEMENTS.COMPOSITION.DESC": "Hỗn hợp của hai hay nhiều nguyên tố.",
   "STRINGS.ELEMENTS.COMPOSITION.NAME": "<link=\"COMPOSITION\">Hợp Chất</link>",
-  "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC": "(O<sub>2</sub>) Oxy Ô Nhiễm là không khí bẩn, chưa qua lọc.\n\nNó vẫn có thể hít thở được.",
+  "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC": "(O<sub>2</sub>) Oxy Bẩn là không khí bẩn, chưa qua lọc.\n\nNó vẫn có thể hít thở được.",
   "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME": "<link=\"CONTAMINATEDOXYGEN\">Oxy Bẩn</link>",
   "STRINGS.ELEMENTS.COPPER.DESC": "(Cu) Đồng là một loại <link=\"METAL\">Kim Loại</link> dẫn điện.\n\nNó thích hợp để xây dựng các hệ thống <link=\"POWER\">Năng Lượng</link>.",
   "STRINGS.ELEMENTS.COPPER.NAME": "<link=\"COPPER\">Đồng</link>",

@@ -293,7 +293,7 @@
   "STRINGS.CREATURES.SPECIES.FILAMENTPLANT.DOMESTICATEDDESC": "Cây này cải thiện điểm <link=\"DECOR\">Trang Trí</link> xung quanh.",
   "STRINGS.CREATURES.SPECIES.FILAMENTPLANT.NAME": "<link=\"FILAMENTPLANT\">Cây Phấn Bông Petta Pouf</link>",
   "STRINGS.CREATURES.SPECIES.FILTERPLANT.DESC": "Xương Rồng Lọc Nước Hydrocactus hoạt động như bộ lọc <link=\"WATER\">Nước</link> tự nhiên khi được cung cấp <link=\"SAND\">Cát</link>.",
-  "STRINGS.CREATURES.SPECIES.FILTERPLANT.DOMESTICATEDDESC": "Cây này sử dụng <link=\"SAND\">Cát</link> để lọc <link=\"DIRTYWATER\">Nước Ô Nhiễm</link> thành <link=\"WATER\">Nước Sạch</link>.",
+  "STRINGS.CREATURES.SPECIES.FILTERPLANT.DOMESTICATEDDESC": "Cây này sử dụng <link=\"SAND\">Cát</link> để lọc <link=\"DIRTYWATER\">Nước Bẩn</link> thành <link=\"WATER\">Nước Sạch</link>.",
   "STRINGS.CREATURES.SPECIES.FILTERPLANT.NAME": "<link=\"FILTERPLANT\">Xương Rồng Lọc Nước Hydrocactus</link>",
   "STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.DESC": "Cây Bẫy Lura là loài thực vật ăn thịt chuyên bắt các sinh vật bay, chẳng hạn như <link=\"MOSQUITO\">Muỗi Gnit</link>.\n\nQuá trình tiêu hóa của cây sẽ tạo ra các khối <link=\"AMBER\">Hổ Phách</link> có thể thu hoạch.",
   "STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.DOMESTICATEDDESC": "Cây này sản xuất <link=\"NATURALRESIN\">Nhựa Cây Resin</link>.",
