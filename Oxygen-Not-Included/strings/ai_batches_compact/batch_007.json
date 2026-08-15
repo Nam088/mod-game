@@ -238,7 +238,7 @@
   "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.SIDESCREEN_TITLE": "Ngưỡng dọn <link=\"DIRTYWATER\">Nước bẩn</link>",
   "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC": "Một số loại thuốc giúp ngăn ngừa bệnh tật, trong khi các loại khác nhằm xoa dịu các chứng bệnh hiện có.",
   "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT": "Sản xuất <link=\"MEDICINE\">Thuốc</link> để chữa hầu hết các loại <link=\"DISEASE\">Mầm bệnh</link> cơ bản.\n\nCác Đệ phải có <link=\"ROLES\">Kỹ năng</link> Bào Chế Thuốc để chế tạo dược phẩm.\n\nCác Đệ sẽ không chế tạo vật phẩm trừ khi có công thức trong hàng đợi.",
-  "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME": "<link=\"APOTHECARY\">Bàn Bào Chế Thuốc</link>",
+  "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME": "<link=\"APOTHECARY\">Bàn Chế Thuốc</link>",
   "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.DESC": "Đại Chiến Sao Băng!\nDành cho tối đa hai người chơi.",
   "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.EFFECT": "Cho phép các Đệ chơi điện tử trong giờ nghỉ ngơi.\n\nTăng <link=\"MORALE\">Đạo đức</link> cho Đệ.",
   "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.NAME": "<link=\"ARCADEMACHINE\">Máy Chơi Game Thùng</link>",

@@ -253,7 +253,7 @@
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.LOGIC_PORT": "Sự Hiện Diện <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> Trong Ống",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE": "Gửi <b><style=\"logic_on\">Tín hiệu Xanh</style></b> nếu phát hiện đúng loại Chất Lỏng đã thiết lập trong ống",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.LOGIC_PORT_INACTIVE": "Nếu không, gửi <b><style=\"logic_off\">Tín hiệu Đỏ</style></b>",
-  "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.NAME": "<link=\"LIQUIDCONDUITELEMENTSENSOR\">Cảm Biến Nguyên Tố Ống Nước</link>",
+  "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.NAME": "<link=\"LIQUIDCONDUITELEMENTSENSOR\">Cảm Biến Loại Nước Trong Ống</link>",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.DESC": "Van xả tràn có thể dùng để ưu tiên công trình nào sẽ được nhận tài nguyên quý giá trước.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.EFFECT": "Chỉ chuyển <link=\"ELEMENTSLIQUID\">Chất Lỏng</link> sang đầu ra phụ khi đầu ra chính bị tắc nghẽn.",
   "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.NAME": "<link=\"LIQUIDCONDUITOVERFLOW\">Van Xả Tràn Nước</link>",

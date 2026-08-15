@@ -55,7 +55,7 @@
   "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME": "<link=\"DISTILLATIONCOLUMN\">Cột Chưng Cất</link>",
   "STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.DESC": "Nhà mô phỏng vũ trụ cho phép mô phỏng việc thám hiểm các địa điểm được ghi lại trong <link=\"ORBITALRESEARCHDATABANK\">Ngân Hàng Dữ Liệu</link>.",
   "STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.EFFECT": "Tiến hành <link=\"RESEARCH\">Nghiên Cứu Phân Tích Dữ Liệu</link> để mở khóa các công nghệ mới.\n\nTiêu thụ <link=\"ORBITALRESEARCHDATABANK\">Ngân Hàng Dữ Liệu</link> thu được từ thám hiểm.",
-  "STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.NAME": "<link=\"DLC1COSMICRESEARCHCENTER\">Nhà Mô Phỏng Vũ Trụ</link>",
+  "STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.NAME": "<link=\"DLC1COSMICRESEARCHCENTER\">Trạm Dữ Liệu Vũ Trụ</link>",
   "STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.DESC": "Một máy giải mã nghiên cứu còn hoạt động với một lượt truyền tin cuối cùng.\n\nNó được thiết kế để hỗ trợ sự sinh tồn của thuộc địa.",
   "STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.NAME": "Cổng Nghiên Cứu",
   "STRINGS.BUILDINGS.PREFABS.DLC4POITECHUNLOCKS.DESC": "Một máy giải mã nghiên cứu còn hoạt động với một lượt truyền tin cuối cùng.\n\nNó được thiết kế để hỗ trợ sự sinh tồn của thuộc địa.",
