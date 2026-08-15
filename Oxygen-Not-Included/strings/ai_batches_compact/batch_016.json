@@ -151,7 +151,7 @@
   "STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME": "<link=\"STORAGETILE\">Gạch Chứa Đồ</link>",
   "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC": "Thăng hoa là quá trình kỳ diệu mà chất rắn chuyển hóa trực tiếp thành chất khí.",
   "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.EFFECT": "Tăng tốc độ chuyển hóa <link=\"TOXICSAND\">Đất Bẩn</link> thành <link=\"CONTAMINATEDOXYGEN\">Oxy Bẩn</link>.\n\nSẽ tạm dừng khi khu vực xung quanh đạt áp suất tối đa.",
-  "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.NAME": "<link=\"SUBLIMATIONSTATION\">Trạm Thăng Hoa</link>",
+  "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.NAME": "<link=\"SUBLIMATIONSTATION\">Trạm Bốc Hơi Bùn (Sublimation Station)</link>",
   "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.DESC": "Không phải cách sành điệu nhất để du hành vũ trụ, nhưng chắc chắn là ngon lành nhất.",
   "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT": "Đốt cháy <link=\"SUCROSE\">Đường (Sucrose)</link> để đẩy tên lửa cho các chuyến thám hiểm không gian tầm ngắn.\n\nĐộng Cơ Đường có giới hạn chiều trên cao hơn <link=\"CO2ENGINE\">Động Cơ Khí CO2</link>, nhưng di chuyển chậm hơn.\n\nĐộng cơ phải xây qua <link=\"LAUNCHPAD\">Bệ Phóng Tên Lửa</link>, và cần có <link=\"OXIDIZERTANKCLUSTER\">Bình Chứa Chất Oxy Hóa Thể Rắn Lớn</link>.\n\nKhi động cơ đã được xây dựng, có thể lắp thêm các mô-đun khác.",
   "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME": "<link=\"SUGARENGINE\">Động Cơ Đường</link>",

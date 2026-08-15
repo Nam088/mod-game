@@ -282,9 +282,9 @@
   "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC": "Một loại hạt lương thực không vị và gần như không bao giờ tự ngọ nguậy.",
   "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME": "<link=\"BASICPLANTFOOD\">Bọ Gạo Meal Lice</link>",
   "STRINGS.ITEMS.FOOD.BEAN.DESC": "Hạt đậu giòn từ một cây <link=\"BEANPLANT\">Đậu Mầm Nosh Sprout</link>.\\n\\nMỗi miếng cắn đều mang lại cảm giác tươi ngon tự nhiên và bổ dưỡng.",
-  "STRINGS.ITEMS.FOOD.BEAN.NAME": "<link=\"BEAN\">Hạt Đậu Nosh Bean</link>",
+  "STRINGS.ITEMS.FOOD.BEAN.NAME": "<link=\"BEAN\">Hạt Đậu Băng</link>",
   "STRINGS.ITEMS.FOOD.BEANPLANTSEED.DESC": "Một loại hạt đậu không thể ăn trực tiếp nhưng có thể chế biến thành các món ăn ngon miệng.",
-  "STRINGS.ITEMS.FOOD.BEANPLANTSEED.NAME": "<link=\"BEANPLANTSEED\">Hạt Đậu Nosh Bean</link>",
+  "STRINGS.ITEMS.FOOD.BEANPLANTSEED.NAME": "<link=\"BEANPLANTSEED\">Hạt Đậu Băng</link>",
   "STRINGS.ITEMS.FOOD.BERRYPIE.DEHYDRATED.DESC": "Khẩu phần <link=\"BERRYPIE\">Bánh Nướng Dâu Hỗn Hợp</link> đã sấy khô. Phải ngâm hoàn nước để được xem là <link=\"FOOD\">Thực Phẩm</link>.\\n\\nKhẩu phần khô không có hạn sử dụng.",
   "STRINGS.ITEMS.FOOD.BERRYPIE.DEHYDRATED.NAME": "<link=\"BERRYPIE\">Bánh Nướng Dâu Sấy Khô</link>",
   "STRINGS.ITEMS.FOOD.BERRYPIE.DESC": "Một món bánh nướng làm chủ yếu từ <link=\"WORMSUPERFRUIT\">Quả Sâu Grubfruit</link> và <link=\"PRICKLEFRUIT\">Dâu Gai Gristle Berries</link>.\\n\\nSự kết hợp giữa các loại quả mọng tạo nên phần nhân đầy màu sắc, thơm ngát và bùng nổ vị ngọt ngào.",
@@ -299,5 +299,6 @@
   "STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.NAME": "<link=\"BUTTERFLYFOOD\">Kê Bướm Mimillet Nướng</link>",
   "STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.RECIPEDESC": "Một hạt <link=\"BUTTERFLYPLANTSEED\">Kê Bướm Mimillet</link> nướng nhẹ.",
   "STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.DESC": "Hạt không thể ăn trực tiếp từ <link=\"BUTTERFLYPLANT\">Nụ Bướm Mimika</link>.\\n\\nCó thể đem gieo trồng để nhân giống cây, hoặc chế biến thành <link=\"FOOD\">Thực Phẩm</link>.\\n\\nĐào các Vật Chôn Vùi có thể phát hiện ra Hạt Kê Bướm Mimillet.",
-  "STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.NAME": "<link=\"BUTTERFLYPLANTSEED\">Hạt Kê Bướm Mimillet</link>"
+  "STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.NAME": "<link=\"BUTTERFLYPLANTSEED\">Hạt Kê Bướm Mimillet</link>",
+  "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME": "<link=\"FARMSTATIONTOOLS\">Phân Bón Vi Lượng</link>"
 }
