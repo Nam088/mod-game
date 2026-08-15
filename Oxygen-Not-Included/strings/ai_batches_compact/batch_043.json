@@ -277,7 +277,7 @@
   "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC": "Một loại củ quả không hạt với hậu vị nhạt nhẽo đến khó chịu.\\n\\nKhông thể đem trồng lại.\\n\\nĐào các Vật Chôn Vùi có thể phát hiện ra <link=\"BASICFORAGEPLANT\">Củ Bùn Muckroot</link>.",
   "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME": "<link=\"BASICFORAGEPLANT\">Củ Bùn Muckroot</link>",
   "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC": "<link=\"BASICPLANTFOOD\">Bọ Gạo Meal Lice</link> được nén thành một khối bánh đặc quánh, bất động.",
-  "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME": "<link=\"BASICPLANTBAR\">Bánh Mì Bọ Gạo Liceloaf</link>",
+  "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME": "<link=\"BASICPLANTBAR\">Bánh Mì Bọ Gạo</link>",
   "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC": "<link=\"BASICPLANTFOOD\">Bọ Gạo Meal Lice</link> được nén thành một khối bánh đặc quánh, bất động.",
   "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC": "Một loại hạt lương thực không vị và gần như không bao giờ tự ngọ nguậy.",
   "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME": "<link=\"BASICPLANTFOOD\">Bọ Gạo Meal Lice</link>",

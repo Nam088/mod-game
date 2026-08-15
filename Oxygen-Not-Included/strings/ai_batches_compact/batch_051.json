@@ -106,7 +106,7 @@
   "STRINGS.ROOMS.TYPES.LABORATORY.TOOLTIP": "Các công trình khoa học trong Phòng Thí Nghiệm hoạt động hiệu quả hơn\n\nPhòng Thí Nghiệm cho phép sử dụng Máy Tinh Chỉnh Địa Nhiệt và Trạm Kiểm Soát Không Gian",
   "STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION": "Một bước tiến vượt bậc so với việc giải quyết nỗi buồn ngay trước mắt cả thuộc địa.\n\nSử dụng nhà vệ sinh trong phòng kín sẽ cải thiện Tinh Thần của các Đệ.",
   "STRINGS.ROOMS.TYPES.LATRINE.EFFECT": "- Thưởng Tinh Thần",
-  "STRINGS.ROOMS.TYPES.LATRINE.NAME": "Nhà Vệ Sinh Tạm",
+  "STRINGS.ROOMS.TYPES.LATRINE.NAME": "Phòng Vệ Sinh Thô Sơ",
   "STRINGS.ROOMS.TYPES.LATRINE.TOOLTIP": "Sử dụng nhà vệ sinh trong phòng kín sẽ cải thiện Tinh Thần của các Đệ",
   "STRINGS.ROOMS.TYPES.MACHINE_SHOP.DESCRIPTION": "Thoang thoảng mùi dầu mỡ và mồ hôi công sức.\n\nCác Đệ làm việc trong Xưởng Cơ Khí có thể bảo dưỡng công trình và tăng tốc độ chế tạo của chúng.",
   "STRINGS.ROOMS.TYPES.MACHINE_SHOP.EFFECT": "- Tăng hiệu suất chế tạo",

@@ -6,7 +6,7 @@
   "STRINGS.ITEMS.FOOD.CAVIAR.DESC": "Trứng bảo quản lâu ngày từ một sinh vật thủy sinh.\n\nCó thể thêm vào <link=\"FOOD\">Thực Phẩm</link> tại <link=\"DININGTABLE\">Bàn Ăn</link> để tăng <link=\"MORALE\">Đạo Đức</link>.\n\nCác Đệ sẽ tự động dùng Trứng Cá Muối khi ngồi ở <link=\"DININGTABLE\">Bàn Ăn</link> trong giờ ăn.",
   "STRINGS.ITEMS.FOOD.CAVIAR.NAME": "<link=\"CAVIAR\">Trứng Cá Muối</link>",
   "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC": "Một chiếc bánh mì đơn giản nướng từ <link=\"COLDWHEATSEED\">Hạt Lúa Mì Băng Sleet Wheat</link>.\n\nMỗi miếng cắn để lại cảm giác mát lạnh nhẹ trong miệng, ngay cả khi bánh còn ấm.",
-  "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME": "<link=\"COLDWHEATBREAD\">Bánh Mì Lúa Mì Băng Frost Bun</link>",
+  "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME": "<link=\"COLDWHEATBREAD\">Bánh Mì Lúa Mì Băng</link>",
   "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC": "Một chiếc bánh mì đơn giản nướng từ <link=\"COLDWHEATSEED\">Hạt Lúa Mì Băng Sleet Wheat</link>.",
   "STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC": "Một loại hạt ngũ cốc ăn được mang lại cảm giác mát lạnh trên đầu lưỡi.",
   "STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME": "<link=\"COLDWHEATSEED\">Hạt Lúa Mì Băng Sleet Wheat</link>",
