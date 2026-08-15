@@ -165,7 +165,11 @@ def build_game_mod(game_key, auto_bump=False, bump_type="patch"):
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(src_mod_dir):
             for file in files:
-                if file.endswith(".zip") or file.endswith(".tmp"): continue
+                # Loại bỏ file rác, file tạm, file test không cần thiết cho người chơi
+                ext = os.path.splitext(file)[1].lower()
+                fname = file.lower()
+                if ext in ['.zip', '.tmp', '.py', '.log', '.bak', '.ds_store'] or fname.startswith('check_') or 'patch_' in fname:
+                    continue
                 file_path = os.path.join(root, file)
                 arcname = os.path.join(folder_name_in_zip, os.path.relpath(file_path, src_mod_dir))
                 zipf.write(file_path, arcname)
