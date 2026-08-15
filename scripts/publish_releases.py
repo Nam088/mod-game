@@ -14,11 +14,11 @@ def main():
         
     for res in results:
         tag = res["tag"]
-        name = f"{res[name]} Việt Hóa v{res[version]}"
+        name = f"{res['name']} Việt Hóa v{res['version']}"
         zip_path = res["zip_path"]
         zip_name = res["zip_name"]
         
-        body = f"### 🎮 Bản Việt Hóa {res[name]} - Phiên bản v{res[version]}\n\n"
+        body = f"### 🎮 Bản Việt Hóa {res['name']} - Phiên bản v{res['version']}\n\n"
         body += f"- 📦 **File cài đặt Mod**: `{zip_name}`\n"
         body += "- 🚀 Tự động build và đóng gói bởi GitHub Actions CI/CD.\n\n"
         body += "**Hướng dẫn cài đặt:**\n"
