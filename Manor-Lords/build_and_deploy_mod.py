@@ -41,19 +41,26 @@ def get_repak_exe():
     with urllib.request.urlopen(req) as resp:
         release = _json.loads(resp.read())
 
-    keyword = "windows-msvc" if is_windows else "linux-musl"
+    # Windows: tìm .zip, Linux: tìm linux-gnu .tar.xz hoặc .tar.gz
     asset_url = None
+    asset_name = None
     for asset in release.get("assets", []):
-        if keyword in asset["name"]:
+        n = asset["name"]
+        if is_windows and "windows-msvc" in n and n.endswith(".zip"):
             asset_url = asset["browser_download_url"]
+            asset_name = n
+            break
+        if not is_windows and "linux" in n and (n.endswith(".tar.xz") or n.endswith(".tar.gz")):
+            asset_url = asset["browser_download_url"]
+            asset_name = n
             break
 
     if not asset_url:
         raise RuntimeError(f"Không tìm thấy repak binary cho {platform.system()} trong release {release.get('tag_name')}")
 
-    print(f"[*] Đang tải {asset_url}...")
+    print(f"[*] Đang tải {asset_name}...")
     os.makedirs(TOOLS_DIR, exist_ok=True)
-    ext = ".zip" if is_windows else ".tar.gz"
+    ext = ".zip" if asset_name.endswith(".zip") else (".tar.xz" if asset_name.endswith(".tar.xz") else ".tar.gz")
     archive = os.path.join(TOOLS_DIR, f"repak{ext}")
     urllib.request.urlretrieve(asset_url, archive)
 
@@ -65,9 +72,10 @@ def get_repak_exe():
                     with open(repak_path, 'wb') as f:
                         f.write(data)
     else:
-        with tarfile.open(archive, 'r:gz') as t:
+        mode = 'r:xz' if ext == ".tar.xz" else 'r:gz'
+        with tarfile.open(archive, mode) as t:
             for m in t.getmembers():
-                if m.name.endswith("repak") and not m.name.endswith(".d"):
+                if m.isfile() and os.path.basename(m.name) == "repak":
                     m.name = repak_name
                     t.extract(m, TOOLS_DIR)
         os.chmod(repak_path, os.stat(repak_path).st_mode | stat.S_IEXEC)
@@ -75,6 +83,7 @@ def get_repak_exe():
     os.remove(archive)
     print(f"[✓] Đã tải repak thành công: {repak_path}")
     return repak_path
+
 
 def ensure_fonts_downloaded():
     import urllib.request
@@ -194,7 +203,7 @@ def compile_datatables():
     if os.path.exists(converter_proj) and shutil.which("dotnet"):
         try:
             print("[*] Đang tự động biên dịch 39 DataTables sang binary UE5.5...")
-            subprocess.run(["dotnet", "run", "--project", converter_proj], cwd=CURRENT_DIR, check=True)
+            subprocess.run(["dotnet", "run", "--project", converter_proj, "--configuration", "Release"], cwd=CURRENT_DIR, check=True)
             print("[✓] Đã biên dịch DataTables thành công!")
         except Exception as e:
             print(f"[!] Cảnh báo biên dịch DataTables: {e}")
