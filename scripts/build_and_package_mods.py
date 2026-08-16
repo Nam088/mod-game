@@ -180,28 +180,32 @@ def build_game_mod(game_key, auto_bump=False, bump_type="patch"):
         dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
         os.makedirs(dist_dir, exist_ok=True)
         pak_path = os.path.join(dist_dir, "pakchunk99-Vietnamese_P.pak")
-        
-        converter_proj = os.path.join(ml_dir, "tools", "DataTableConverter", "DataTableConverter.csproj")
-        if os.path.exists(converter_proj) and shutil.which("dotnet"):
+
+        # Build pak trực tiếp qua build_and_deploy_mod.py (CI mode: skip deploy to game)
+        build_script = os.path.join(ml_dir, "build_and_deploy_mod.py")
+        if os.path.exists(build_script):
             try:
-                subprocess.run(["dotnet", "run", "--project", converter_proj], cwd=ml_dir, check=True)
-                subprocess.run([sys.executable, os.path.join(ml_dir, "build_and_deploy_mod.py")], cwd=ml_dir, check=True)
-                print("[✓] Đã recompile và build pak cho Manor Lords")
+                env = os.environ.copy()
+                env["CI"] = "true"  # signal: skip deploy to local game path
+                subprocess.run([sys.executable, build_script], cwd=ml_dir, check=True, env=env)
+                print("[✓] Đã build pak cho Manor Lords")
             except Exception as e:
                 print(f"[!] Cảnh báo build PAK: {e}")
-        
+
         zip_name = cfg["zip_prefix"] + "-v" + target_ver + ".zip"
         zip_path = os.path.join(dist_dir, zip_name)
         if os.path.exists(zip_path): os.remove(zip_path)
-        
+
         readme_path = os.path.join(dist_dir, "Huong_Dan_Cai_Dat.txt")
         banner_path = os.path.join(ml_dir, "banner.jpg")
-        
+
         print(f"[*] Đóng gói Manor Lords Mod ZIP vào {zip_path}...")
         with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
             if os.path.exists(pak_path):
                 zipf.write(pak_path, "pakchunk99-Vietnamese_P.pak")
-                zipf.write(pak_path, "ManorLords/Content/Paks/~mods/pakchunk99-Vietnamese_P.pak")
+                print(f"    [+] pakchunk99-Vietnamese_P.pak ({os.path.getsize(pak_path)//1024} KB)")
+            else:
+                print(f"    [!] WARN: pak không tìm thấy tại {pak_path}")
             if os.path.exists(banner_path):
                 zipf.write(banner_path, "preview_banner.jpg")
             if os.path.exists(readme_path):

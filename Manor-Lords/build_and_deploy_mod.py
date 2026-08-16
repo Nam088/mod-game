@@ -182,4 +182,7 @@ def deploy_to_game(pak_path):
 if __name__ == "__main__":
     pak = pack_mod()
     if pak:
-        deploy_to_game(pak)
+        if os.environ.get("CI"):
+            print("[CI] Bỏ qua bước deploy vào game (CI mode)")
+        else:
+            deploy_to_game(pak)
