@@ -2,8 +2,11 @@
 build/
 dist/
 
-# Game assets extracted (không commit vì quá nặng)
+# Game assets extracted (không commit vì quá nặng) - ngoại trừ DataTables cần cho CI
 extracted/
+!extracted/ManorLords/Content/Translation/
+!extracted/ManorLords/Content/Translation/HoodedHorse/
+!extracted/ManorLords/Content/Translation/HoodedHorse/**
 
 # Custom fonts downloaded at build time
 custom_fonts/
