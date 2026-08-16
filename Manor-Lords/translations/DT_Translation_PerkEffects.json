@@ -9,7 +9,7 @@
   {
     "key": "Smallholdings_desc",
     "en": "Enables converting <img id=\"house\"/><h>Burgage Plots (Lv1)</> with <img id=\"extension\"/><h>Backyard Extensions</> into <h>Smallholdings</>. Like Artisans, Smallholding Families treat their backyards as a permanent job, increasing their <h>Yield</>.",
-    "vi": "Cho phép chuyển đổi <img id=\"house\"/><h>Nhà dân (Cấp 1)</> có <img id=\"extension\"/><h>Xưởng/vườn sân sau</> thành <h>Hộ làm nông chuyên trách</>. Giống như Thợ thủ công, các hộ này sẽ làm việc toàn thời gian tại vườn sân sau để tăng mạnh <h>Sản lượng</>.",
+    "vi": "Cho phép chuyển đổi <img id=\"house\"/> <h>Nhà dân (Cấp 1)</> có <img id=\"extension\"/> <h>Xưởng/vườn sân sau</> thành <h>Hộ làm nông chuyên trách</>. Giống như Thợ thủ công, các hộ này sẽ làm việc toàn thời gian tại vườn sân sau để tăng mạnh <h>Sản lượng</>.",
     "offset": 918,
     "length": 249
   },
@@ -23,7 +23,7 @@
   {
     "key": "IncreasedExportValueMinorTrades_desc",
     "en": "All <h>Minor Trades</> base <img id=\"ItemID_0\"/><h>Export Value</> is increased by +50%.",
-    "vi": "Tất cả <h>Hàng hóa nhỏ</> có <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> cơ bản tăng +50%.",
+    "vi": "Tất cả <h>Hàng hóa nhỏ</> có <img id=\"ItemID_0\"/> <h>Giá trị xuất khẩu</> cơ bản tăng +50%.",
     "offset": 10985,
     "length": 89
   },
@@ -37,7 +37,7 @@
   {
     "key": "UnlockKennelsAndDogs_desc",
     "en": "Enables ordering a <h>Hunting Hound</> for the <h>Hunting Camp</>. Hunting Hounds provide +1 <img id=\"ItemID_330\"/><h>Small Game</> and +1 <img id=\"ItemID_9\"/><h>Pelts</> on every successful hunt.",
-    "vi": "Cho phép mua <h>Chó săn</> cho <h>Trại thợ săn</>. Chó săn mang lại +1 <img id=\"ItemID_330\"/><h>Thịt thú nhỏ</> và +1 <img id=\"ItemID_9\"/><h>Da lông thú</> sau mỗi chuyến săn thành công.",
+    "vi": "Cho phép mua <h>Chó săn</> cho <h>Trại thợ săn</>. Chó săn mang lại +1 <img id=\"ItemID_330\"/> <h>Thịt thú nhỏ</> và +1 <img id=\"ItemID_9\"/> <h>Da lông thú</> sau mỗi chuyến săn thành công.",
     "offset": 15154,
     "length": 197
   },
@@ -51,7 +51,7 @@
   {
     "key": "ForagedGoodsCapacityBoost_desc",
     "en": "<img id=\"berries\"/><h>Wild Berries</> and <img id=\"MushroomDeposit\"/><h>Mushroom</> Deposits have doubled capacity.",
-    "vi": "Các bụi <img id=\"berries\"/><h>Quả mọng hoang</> và bãi <img id=\"MushroomDeposit\"/><h>Nấm hoang</> có trữ lượng tăng gấp đôi.",
+    "vi": "Các bụi <img id=\"berries\"/> <h>Quả mọng hoang</> và bãi <img id=\"MushroomDeposit\"/> <h>Nấm hoang</> có trữ lượng tăng gấp đôi.",
     "offset": 23472,
     "length": 116
   },
@@ -65,7 +65,7 @@
   {
     "key": "FarmingYieldPenalty_desc",
     "en": "<h>Fields</> and <h>Vegetable Gardens</> <img id=\"efficiency\"/><h>Efficiency</>: -25%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Cánh đồng</> và <h>Vườn rau</>: -25%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Cánh đồng</> và <h>Vườn rau</>: -25%.",
     "offset": 28477,
     "length": 87
   },
@@ -79,7 +79,7 @@
   {
     "key": "ExtraApprovalFromFoodVariety_desc",
     "en": "<img id=\"Approval\"/><h>Approval</> from bonus <img id=\"Stall\"/><h>Food Variety</>: +10%.",
-    "vi": "<img id=\"Approval\"/><h>Lòng dân</> từ điểm cộng <img id=\"Stall\"/><h>Đa dạng món ăn</>: +10%.",
+    "vi": "<img id=\"Approval\"/> <h>Lòng dân</> từ điểm cộng <img id=\"Stall\"/> <h>Đa dạng món ăn</>: +10%.",
     "offset": 32945,
     "length": 89
   },
@@ -121,7 +121,7 @@
   {
     "key": "SkilledWoodworkers_desc",
     "en": "<h>Bowyers</> and <h>Joiners</> <img id=\"efficiency\"/><h>Efficiency</>: +20%. Warbows, Crossbows, Small Shields and Large Shields <img id=\"ItemID_0\"/><h>Export Value</>: +30%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ làm cung</> và <h>Thợ làm đồ gỗ</>: +20%. <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Cung chiến, Nỏ, Khiên nhỏ và Khiên lớn: +30%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Thợ làm cung</> và <h>Thợ làm đồ gỗ</>: +20%. <img id=\"ItemID_0\"/> <h>Giá trị xuất khẩu</> của Cung chiến, Nỏ, Khiên nhỏ và Khiên lớn: +30%.",
     "offset": 45467,
     "length": 176
   },
@@ -149,7 +149,7 @@
   {
     "key": "HalfFuelCosts_desc",
     "en": "All <img id=\"Fuel\"/><h>Fuel</> consumption: -50%.",
-    "vi": "Mức tiêu thụ mọi loại <img id=\"Fuel\"/><h>Chất đốt</>: -50%.",
+    "vi": "Mức tiêu thụ mọi loại <img id=\"Fuel\"/> <h>Chất đốt</>: -50%.",
     "offset": 56209,
     "length": 50
   },
@@ -163,7 +163,7 @@
   {
     "key": "MiningCraftingSpeedMalus_desc",
     "en": "<h>Mining Pit</>, <h>Deep Mine</>, <h>Stone Gatherer Camp</> and <h>Quarry</> <img id=\"productivity\"/><h>Labor Speed</>: -20%.",
-    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>, <h>Trại nhặt đá</> và <h>Mỏ đá</>: -20%.",
+    "vi": "<img id=\"productivity\"/> <h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>, <h>Trại nhặt đá</> và <h>Mỏ đá</>: -20%.",
     "offset": 59297,
     "length": 127
   },
@@ -177,7 +177,7 @@
   {
     "key": "IncreasedPassiveIncome_desc",
     "en": "All occupied <img id=\"house\"/><h>Burgage Plots</> produce +1 <img id=\"ItemID_0\"/><h>Regional Wealth</> per month.",
-    "vi": "Mỗi căn <img id=\"house\"/><h>Nhà dân</> có người ở đóng góp thêm +1 <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi tháng.",
+    "vi": "Mỗi căn <img id=\"house\"/> <h>Nhà dân</> có người ở đóng góp thêm +1 <img id=\"ItemID_0\"/> <h>Tài sản vùng</> mỗi tháng.",
     "offset": 65673,
     "length": 114
   },
@@ -191,7 +191,7 @@
   {
     "key": "CheaperBurgageUpgrades_desc",
     "en": "Upgrading a <img id=\"house\"/><h>Burgage Plot</> to the next Level requires half the Construction Materials and any <img id=\"ItemID_0\"/><h>Regional Wealth</> cost is removed.",
-    "vi": "Nâng cấp <img id=\"house\"/><h>Nhà dân</> lên cấp tiếp theo tốn ít hơn 50% Vật liệu xây dựng và miễn phí hoàn toàn chi phí <img id=\"ItemID_0\"/><h>Tài sản vùng</>.",
+    "vi": "Nâng cấp <img id=\"house\"/> <h>Nhà dân</> lên cấp tiếp theo tốn ít hơn 50% Vật liệu xây dựng và miễn phí hoàn toàn chi phí <img id=\"ItemID_0\"/> <h>Tài sản vùng</>.",
     "offset": 70982,
     "length": 174
   },
@@ -205,7 +205,7 @@
   {
     "key": "SaltAndIronImportDiscount_desc",
     "en": "<h>Salt</> and <h>Iron Slab</> <img id=\"ItemID_0\"/><h>Import Value</>: -30%.",
-    "vi": "<img id=\"ItemID_0\"/><h>Giá nhập khẩu</> của <h>Muối</> và <h>Thỏi sắt</>: -30%.",
+    "vi": "<img id=\"ItemID_0\"/> <h>Giá nhập khẩu</> của <h>Muối</> và <h>Thỏi sắt</>: -30%.",
     "offset": 78397,
     "length": 77
   },
@@ -219,7 +219,7 @@
   {
     "key": "TaxApprovalGeneralPenalty_desc",
     "en": "<h>Land Tax</> <img id=\"Approval\"/><h>Approval</> severity: +20%.",
-    "vi": "Mức độ sụt giảm <img id=\"Approval\"/><h>Lòng dân</> do <h>Thuế đất</>: +20%.",
+    "vi": "Mức độ sụt giảm <img id=\"Approval\"/> <h>Lòng dân</> do <h>Thuế đất</>: +20%.",
     "offset": 82345,
     "length": 66
   },
@@ -233,7 +233,7 @@
   {
     "key": "LivestockYieldPenalty_desc",
     "en": "Backyard Animal Pens, Chicken Coops and Pastures <img id=\"efficiency\"/><h>Efficiency</>: -20%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của Chuồng gia súc sân sau, Chuồng gà và Đồng cỏ: -20%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của Chuồng gia súc sân sau, Chuồng gà và Đồng cỏ: -20%.",
     "offset": 85920,
     "length": 95
   },
@@ -247,7 +247,7 @@
   {
     "key": "MilitiaApprovalBonus_desc",
     "en": "Receive a small amount of <img id=\"Approval\"/><h>Approval</> for every full and equipped Footmen or Spear Militia company.",
-    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/><h>Lòng dân</> cho mỗi Đại đội Dân quân cầm kiếm hoặc Dân quân cầm giáo đủ quân số và trang bị sẵn sàng.",
+    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/> <h>Lòng dân</> cho mỗi Đại đội Dân quân cầm kiếm hoặc Dân quân cầm giáo đủ quân số và trang bị sẵn sàng.",
     "offset": 91544,
     "length": 124
   },
@@ -275,7 +275,7 @@
   {
     "key": "MilitiaEquipmentApprovalGain_desc",
     "en": "Gain a small amount of <img id=\"Approval\"/><h>Approval</> for each Militia Footmen or Militia Spear Unit at full strength and with their necessary equipment ready.",
-    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/><h>Lòng dân</> cho mỗi Đại đội Dân quân Kiếm khiên hoặc Dân quân Giáo đủ quân số và trang bị sẵn sàng.",
+    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/> <h>Lòng dân</> cho mỗi Đại đội Dân quân Kiếm khiên hoặc Dân quân Giáo đủ quân số và trang bị sẵn sàng.",
     "offset": 93556,
     "length": 164
   },
@@ -289,7 +289,7 @@
   {
     "key": "WeaponExportValueIncrease_desc",
     "en": "Spears, Sidearms & Polearms <img id=\"ItemID_0\"/><h>Export Value</>: +30%.",
-    "vi": "<img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Giáo, Kiếm ngắn & Vũ khí cán dài: +30%.",
+    "vi": "<img id=\"ItemID_0\"/> <h>Giá trị xuất khẩu</> của Giáo, Kiếm ngắn & Vũ khí cán dài: +30%.",
     "offset": 99887,
     "length": 74
   },
@@ -303,7 +303,7 @@
   {
     "key": "BlacksmithYieldIncrease_desc",
     "en": "<h>Blacksmith</> <img id=\"efficiency\"/><h>Efficiency</>: +20%",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ rèn</>: +20%",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Thợ rèn</>: +20%",
     "offset": 103755,
     "length": 62
   },
@@ -317,7 +317,7 @@
   {
     "key": "ImprovedStonemasonsStation_desc",
     "en": "<h>Stone Mason's Station</> <img id=\"efficiency\"/><h>Efficiency</>: +30%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Trại thợ đẽo đá</>: +30%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Trại thợ đẽo đá</>: +30%.",
     "offset": 106885,
     "length": 74
   },
@@ -359,7 +359,7 @@
   {
     "key": "HuntingAndFishingProductivityPenalty_desc",
     "en": "<img id=\"productivity\"/><h>Labor Speed</> for <h>Hunting Camp</> and <h>Fisherman's Hut</>: -20%.",
-    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Trại thợ săn</> và <h>Lán đánh cá</>: -20%.",
+    "vi": "<img id=\"productivity\"/> <h>Tốc độ làm việc</> của <h>Trại thợ săn</> và <h>Lán đánh cá</>: -20%.",
     "offset": 113524,
     "length": 98
   },
@@ -373,7 +373,7 @@
   {
     "key": "OxHandlerSpeedBuff_desc",
     "en": "<h>Ox Handlers</> and their <img id=\"Ox\"/><h>Oxen</> move with +10% increased speed when assigned to <h>Hitching Posts</> or <h>Stables</>.",
-    "vi": "<h>Người dắt bò</> và đàn <img id=\"Ox\"/><h>Bò kéo</> di chuyển nhanh hơn +10% khi được phân công vào <h>Cọc buộc gia súc</> hoặc <h>Chuồng gia súc</>.",
+    "vi": "<h>Người dắt bò</> và đàn <img id=\"Ox\"/> <h>Bò kéo</> di chuyển nhanh hơn +10% khi được phân công vào <h>Cọc buộc gia súc</> hoặc <h>Chuồng gia súc</>.",
     "offset": 118019,
     "length": 140
   },
@@ -387,7 +387,7 @@
   {
     "key": "ArmorerArtisanBuff_desc",
     "en": "<h>Armorer</> <img id=\"efficiency\"/><h>Efficiency</>: +20%. Helmets, Mail Armor & Plate Armor <img id=\"ItemID_0\"/><h>Export Value</>: +20%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ rèn giáp</>: +20%. <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Mũ sắt, Giáp xích & Giáp tấm: +20%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Thợ rèn giáp</>: +20%. <img id=\"ItemID_0\"/> <h>Giá trị xuất khẩu</> của Mũ sắt, Giáp xích & Giáp tấm: +20%.",
     "offset": 123502,
     "length": 140
   },
@@ -415,7 +415,7 @@
   {
     "key": "MiningTradeDiscounts_desc",
     "en": "<h>Trade Routes</> for Iron Ore and Salt are free to establish. Iron Ore and Salt <img id=\"ItemID_0\"/><h>Import Value</>: -30%.",
-    "vi": "Miễn phí mở <h>Tuyến giao thương</> cho Quặng sắt và Muối. <img id=\"ItemID_0\"/><h>Giá nhập khẩu</> Quặng sắt và Muối: -30%.",
+    "vi": "Miễn phí mở <h>Tuyến giao thương</> cho Quặng sắt và Muối. <img id=\"ItemID_0\"/> <h>Giá nhập khẩu</> Quặng sắt và Muối: -30%.",
     "offset": 136238,
     "length": 128
   },
@@ -429,7 +429,7 @@
   {
     "key": "RetinueHireCostPenalty_desc",
     "en": "<h>Retinue</> <img id=\"Treasury\"/><h>Treasury</> cost is doubled.",
-    "vi": "Chi phí tuyển dụng <h>Đội cận vệ</> từ <img id=\"Treasury\"/><h>Ngân khố</> tăng gấp đôi.",
+    "vi": "Chi phí tuyển dụng <h>Đội cận vệ</> từ <img id=\"Treasury\"/> <h>Ngân khố</> tăng gấp đôi.",
     "offset": 141903,
     "length": 66
   },
@@ -443,7 +443,7 @@
   {
     "key": "EfficientElevationFarming_desc",
     "en": "<img id=\"efficiency\"/><h>Efficiency</> when Farming on <h>Elevation</>: +20%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> khi làm nông trên <h>Địa hình cao</>: +20%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> khi làm nông trên <h>Địa hình cao</>: +20%.",
     "offset": 145595,
     "length": 78
   },
@@ -457,7 +457,7 @@
   {
     "key": "LivestockImportDiscounts_desc",
     "en": "All Animals (Oxen, Mules, Horses, Sheep, Lambs, Goats, Pigs and Chickens) <img id=\"ItemID_0\"/><h>Import Value</>: -20%.",
-    "vi": "<img id=\"ItemID_0\"/><h>Giá nhập khẩu</> mọi loại Gia súc (Bò, La, Ngựa, Cừu, Cừu non, Dê, Lợn và Gà): -20%.",
+    "vi": "<img id=\"ItemID_0\"/> <h>Giá nhập khẩu</> mọi loại Gia súc (Bò, La, Ngựa, Cừu, Cừu non, Dê, Lợn và Gà): -20%.",
     "offset": 149324,
     "length": 120
   },
@@ -471,7 +471,7 @@
   {
     "key": "MiningSpeedIncrease_desc",
     "en": "<h>Mining Pit</>, <h>Deep Mine</> <img id=\"productivity\"/><h>Labor Speed</>: +20%.",
-    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>: +20%.",
+    "vi": "<img id=\"productivity\"/> <h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>: +20%.",
     "offset": 154620,
     "length": 83
   },
@@ -485,7 +485,7 @@
   {
     "key": "ArtisanEfficiencyPenalty_desc",
     "en": "All <h>Artisan</> Workshops <img id=\"efficiency\"/><h>Efficiency</>: -20%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của mọi Xưởng <h>Thợ thủ công</>: -20%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của mọi Xưởng <h>Thợ thủ công</>: -20%.",
     "offset": 158950,
     "length": 74
   },
@@ -527,7 +527,7 @@
   {
     "key": "IncreasedHunterYield_desc",
     "en": "<h>Hunting Camp</> <img id=\"efficiency\"/><h>Efficiency</>: +50%.",
-    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Trại thợ săn</>: +50%.",
+    "vi": "<img id=\"efficiency\"/> <h>Hiệu suất</> của <h>Trại thợ săn</>: +50%.",
     "offset": 167854,
     "length": 65
   },
@@ -555,7 +555,7 @@
   {
     "key": "ImprovedStoneGathering_desc",
     "en": "<h>Stone Gatherer Camp</> <img id=\"productivity\"/><h>Labor Speed</>: +30%",
-    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Trại nhặt đá</>: +30%",
+    "vi": "<img id=\"productivity\"/> <h>Tốc độ làm việc</> của <h>Trại nhặt đá</>: +30%",
     "offset": 173888,
     "length": 74
   },
@@ -653,7 +653,7 @@
   {
     "key": "SmokedFishProduction_desc",
     "en": "Enables the production of <img id=\"itemID_323\"/><h>Smoked Fish</> by combining <img id=\"itemID_30\"/><h>Fish</> and <img id=\"itemID_145\"/><h>Salt</>.",
-    "vi": "Cho phép chế biến <img id=\"itemID_323\"/><h>Cá hun khói</> bằng cách ướp <img id=\"itemID_30\"/><h>Cá tươi</> với <img id=\"itemID_145\"/><h>Muối</>.",
+    "vi": "Cho phép chế biến <img id=\"itemID_323\"/> <h>Cá hun khói</> bằng cách ướp <img id=\"itemID_30\"/> <h>Cá tươi</> với <img id=\"itemID_145\"/> <h>Muối</>.",
     "offset": 199499,
     "length": 149
   },
@@ -821,7 +821,7 @@
   {
     "key": "DecreasedLoggerSpeed_desc",
     "en": "Increase the time taken to turn <img id=\"itemID_16\"/><h>TIMBER</> into <img id=\"itemID_17\"/><h>PLANKS</>",
-    "vi": "Tăng thời gian xẻ <img id=\"itemID_16\"/><h>GỖ CÂY</> thành <img id=\"itemID_17\"/><h>VÁN GỖ</>",
+    "vi": "Tăng thời gian xẻ <img id=\"itemID_16\"/> <h>GỖ CÂY</> thành <img id=\"itemID_17\"/> <h>VÁN GỖ</>",
     "offset": 244108,
     "length": 105
   },
@@ -919,7 +919,7 @@
   {
     "key": "LebkuchenProduction_desc",
     "en": "Enables the production of <img ID=\"itemID_326\"/><h>Lebkuchen</> in bakeries. A form of bread.",
-    "vi": "Cho phép nướng bánh gừng <img ID=\"itemID_326\"/><h>Lebkuchen</> tại lò bánh mì.",
+    "vi": "Cho phép nướng bánh gừng <img ID=\"itemID_326\"/> <h>Lebkuchen</> tại lò bánh mì.",
     "offset": 266412,
     "length": 94
   },
@@ -933,7 +933,7 @@
   {
     "key": "CiderProduction_desc",
     "en": "Enabled the production of <img ID=\"itemID_327\"/><h>Cider</> in breweries. A form of drink for the <h>Tavern</>",
-    "vi": "Cho phép ủ rượu táo <img ID=\"itemID_327\"/><h>Cider</> tại xưởng bia phục vụ <h>Quán bia</>",
+    "vi": "Cho phép ủ rượu táo <img ID=\"itemID_327\"/> <h>Cider</> tại xưởng bia phục vụ <h>Quán bia</>",
     "offset": 269959,
     "length": 111
   },

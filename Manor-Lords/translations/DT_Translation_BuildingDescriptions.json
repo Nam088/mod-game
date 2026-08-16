@@ -2,210 +2,210 @@
   {
     "key": "buildingID_3_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for 1 <img id=\"Worker\"/><h>Family</>.{br}{br}If the plot is wide enough, <img id=\"LivingSpace\"/><h>Living Space</> can be expanded. If the plot is long enough, a <img id=\"Extension\"/><h>Backyard Extension</> can be built.",
-    "vi": "Cung cấp <img id=\"LivingSpace\"/><h>Chỗ ở</> cho 1 <img id=\"Worker\"/><h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/><h>Chỗ ở</> đón hộ thứ hai. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/><h>Xưởng/vườn sân sau</>.",
+    "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho 1 <img id=\"Worker\"/> <h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/> <h>Chỗ ở</> đón hộ thứ hai. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/> <h>Xưởng/vườn sân sau</>.",
     "offset": 24,
     "length": 273
   },
   {
     "key": "buildingID_4_descr",
     "en": "Workers fell nearby trees to produce <img id=\"ItemID_16\"/><h>Timber</> which is then stored on site.{br}{br}<i>Deforestation may cause nearby Wild Animals to migrate or Wild Berries and Mushrooms to be destroyed. Limit the Work Area in the Advanced Tab to specify which trees to cut down.</>",
-    "vi": "Thợ đốn gỗ chặt cây quanh vùng để lấy <img id=\"ItemID_16\"/><h>Gỗ cây</> và cất giữ tại chỗ.{br}{br}<i>Chặt phá rừng quá mức có thể khiến Thú hoang bỏ đi hoặc làm mất nguồn Quả mọng và Nấm. Hãy giới hạn Vùng làm việc trong mục Nâng cao để chọn đúng khu vực cần chặt cây.</>",
+    "vi": "Thợ đốn gỗ chặt cây quanh vùng để lấy <img id=\"ItemID_16\"/> <h>Gỗ cây</> và cất giữ tại chỗ.{br}{br}<i>Chặt phá rừng quá mức có thể khiến Thú hoang bỏ đi hoặc làm mất nguồn Quả mọng và Nấm. Hãy giới hạn Vùng làm việc trong mục Nâng cao để chọn đúng khu vực cần chặt cây.</>",
     "offset": 9253,
     "length": 292
   },
   {
     "key": "buildingID_5_descr",
     "en": "Space to grow various <img id=\"Crops\"/><h>Crops</>.{br}Workers must be assigned via the <h>Farmhouse</>.",
-    "vi": "Đất canh tác các loại <img id=\"Crops\"/><h>Nông sản</>.{br}Cần phân công người làm việc thông qua <h>Nông trang</>.",
+    "vi": "Đất canh tác các loại <img id=\"Crops\"/> <h>Nông sản</>.{br}Cần phân công người làm việc thông qua <h>Nông trang</>.",
     "offset": 19651,
     "length": 105
   },
   {
     "key": "buildingID_6_descr",
     "en": "Allows for the import and export of Goods via <h>Trade</> with <h>Travelling Merchants</>, <img id=\"Tradepoint\"/><h>Tradepoints</> and other occupied <h>Regions</>.{br}{br}<img id=\"ItemID_0\"/><h>Regional Wealth</> is the currency used for trade.{br}{br}<i>When assigned, 1 Family member travels to nearest possible destination to conduct trade, while other Family members help manage the inventory.</>",
-    "vi": "Cho phép xuất nhập khẩu Hàng hóa thông qua <h>Giao thương</> với <h>Thương nhân</>, <img id=\"Tradepoint\"/><h>Điểm giao thương</> và các <h>Vùng đất</> khác bạn đang kiểm soát.{br}{br}<img id=\"ItemID_0\"/><h>Tài sản vùng</> là tiền dùng để mua bán trao đổi.{br}{br}<i>Khi được phân công, 1 người trong hộ sẽ đánh xe đi buôn, các thành viên còn lại sẽ quản lý hàng hóa trong kho.</>",
+    "vi": "Cho phép xuất nhập khẩu Hàng hóa thông qua <h>Giao thương</> với <h>Thương nhân</>, <img id=\"Tradepoint\"/> <h>Điểm giao thương</> và các <h>Vùng đất</> khác bạn đang kiểm soát.{br}{br}<img id=\"ItemID_0\"/> <h>Tài sản vùng</> là tiền dùng để mua bán trao đổi.{br}{br}<i>Khi được phân công, 1 người trong hộ sẽ đánh xe đi buôn, các thành viên còn lại sẽ quản lý hàng hóa trong kho.</>",
     "offset": 23538,
     "length": 402
   },
   {
     "key": "buildingID_7_descr",
     "en": "Workers mine:{br}<img id=\"ItemID_14\"/><h>Iron Ore</> from <img id=\"IronDeposit\"/><h>Iron Deposits</>.{br}<img id=\"ItemID_146\"/><h>Clay</> from <img id=\"ClayDeposit\"/><h>Clay Deposits</>.{br}<img id=\"ItemID_145\"/><h>Salt</> from <img id=\"SaltDeposit\"/><h>Salt Deposits</>.{br}{br}<i>Rich Deposits may be upgraded to a Deep Mine, allowing for indefinite mining.</>",
-    "vi": "Thợ mỏ khai thác:{br}<img id=\"ItemID_14\"/><h>Quặng sắt</> từ <img id=\"IronDeposit\"/><h>Mỏ sắt</>.{br}<img id=\"ItemID_146\"/><h>Đất sét</> từ <img id=\"ClayDeposit\"/><h>Mỏ đất sét</>.{br}<img id=\"ItemID_145\"/><h>Muối</> từ <img id=\"SaltDeposit\"/><h>Mỏ muối</>.{br}{br}<i>Mỏ trữ lượng lớn có thể nâng cấp thành Mỏ sâu để khai thác vô hạn.</>",
+    "vi": "Thợ mỏ khai thác:{br}<img id=\"ItemID_14\"/> <h>Quặng sắt</> từ <img id=\"IronDeposit\"/> <h>Mỏ sắt</>.{br}<img id=\"ItemID_146\"/> <h>Đất sét</> từ <img id=\"ClayDeposit\"/> <h>Mỏ đất sét</>.{br}<img id=\"ItemID_145\"/> <h>Muối</> từ <img id=\"SaltDeposit\"/> <h>Mỏ muối</>.{br}{br}<i>Mỏ trữ lượng lớn có thể nâng cấp thành Mỏ sâu để khai thác vô hạn.</>",
     "offset": 37614,
     "length": 363
   },
   {
     "key": "buildingID_8_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for 1 <img id=\"Worker\"/><h>Family</>.{br}{br}If the plot is wide enough, <img id=\"LivingSpace\"/><h>Living Space</> can be expanded. If the plot is long enough, a <img id=\"Extension\"/><h>Backyard Extension</> can be built.",
-    "vi": "Cung cấp <img id=\"LivingSpace\"/><h>Chỗ ở</> cho 1 <img id=\"Worker\"/><h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/><h>Chỗ ở</> đón hộ thứ hai. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/><h>Xưởng/vườn sân sau</>.",
+    "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho 1 <img id=\"Worker\"/> <h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/> <h>Chỗ ở</> đón hộ thứ hai. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/> <h>Xưởng/vườn sân sau</>.",
     "offset": 51338,
     "length": 273
   },
   {
     "key": "buildingID_10_descr",
     "en": "Provides <img id=\"WoodenFence\"/><h>Pasture Space</> for <h>Livestock</>.",
-    "vi": "Tạo khu <img id=\"WoodenFence\"/><h>Đồng cỏ chăn thả</> cho <h>Gia súc</>.",
+    "vi": "Tạo khu <img id=\"WoodenFence\"/> <h>Đồng cỏ chăn thả</> cho <h>Gia súc</>.",
     "offset": 60567,
     "length": 73
   },
   {
     "key": "buildingID_13_descr",
     "en": "Provides space for <img id=\"stall\"/><h>Market Stalls</>, which when supplied by an active <img id=\"Pantry\"/><h>Granary</> and <img id=\"GenericStorage\"/><h>Storehouse</>, will distribute Goods to the <img id=\"house\"/><h>Burgage Plots</>.{br}{br}<i>Increase the amount of Granary and Storehouse Workers to raise the Market Supply Capacity, reaching more Burgage Plots.</>",
-    "vi": "Khu đất dựng các <img id=\"stall\"/><h>Sạp chợ</>. Khi được <img id=\"Pantry\"/><h>Kho lương thực</> và <img id=\"GenericStorage\"/><h>Kho vật tư</> tiếp tế, các sạp sẽ tự động phân phối hàng hóa đến từng <img id=\"house\"/><h>Nhà dân</>.{br}{br}<i>Hãy tăng thêm thủ kho để nâng cao năng lực cung ứng chợ, giúp hàng hóa đến được nhiều nhà dân hơn.</>",
+    "vi": "Khu đất dựng các <img id=\"stall\"/> <h>Sạp chợ</>. Khi được <img id=\"Pantry\"/> <h>Kho lương thực</> và <img id=\"GenericStorage\"/> <h>Kho vật tư</> tiếp tế, các sạp sẽ tự động phân phối hàng hóa đến từng <img id=\"house\"/> <h>Nhà dân</>.{br}{br}<i>Hãy tăng thêm thủ kho để nâng cao năng lực cung ứng chợ, giúp hàng hóa đến được nhiều nhà dân hơn.</>",
     "offset": 62888,
     "length": 370
   },
   {
     "key": "buildingID_14_descr",
     "en": "Workers hunt <img id=\"Animals\"/><h>Wild Animals</>, and place <h>Traps</> in nearby <h>Woodland</> producing <img id=\"ItemID_330\"/><h>Small Game</> and <img id=\"ItemID_9\"/><h>Pelts</>.{br}{br}<i>Setting a Reserve will avoid overhunting and depleting the Deposit completely.</>",
-    "vi": "Thợ săn săn bắt <img id=\"Animals\"/><h>Thú hoang</> và đặt <h>Bẫy</> trong <h>Rừng</> để thu hoạch <img id=\"ItemID_330\"/><h>Thịt thú nhỏ</> cùng <img id=\"ItemID_9\"/><h>Da lông thú</>.{br}{br}<i>Nên đặt Mức dự trữ thú tối thiểu để tránh săn bắt cạn kiệt cả bầy.</>",
+    "vi": "Thợ săn săn bắt <img id=\"Animals\"/> <h>Thú hoang</> và đặt <h>Bẫy</> trong <h>Rừng</> để thu hoạch <img id=\"ItemID_330\"/> <h>Thịt thú nhỏ</> cùng <img id=\"ItemID_9\"/> <h>Da lông thú</>.{br}{br}<i>Nên đặt Mức dự trữ thú tối thiểu để tránh săn bắt cạn kiệt cả bầy.</>",
     "offset": 75568,
     "length": 277
   },
   {
     "key": "buildingID_18_descr",
     "en": "Workers refine <img id=\"ItemID_16\"/><h>Timber</> into <img id=\"ItemID_17\"/><h>Planks</>.",
-    "vi": "Thợ xẻ gỗ xẻ <img id=\"ItemID_16\"/><h>Gỗ cây</> thành <img id=\"ItemID_17\"/><h>Ván gỗ</>.",
+    "vi": "Thợ xẻ gỗ xẻ <img id=\"ItemID_16\"/> <h>Gỗ cây</> thành <img id=\"ItemID_17\"/> <h>Ván gỗ</>.",
     "offset": 85780,
     "length": 89
   },
   {
     "key": "buildingID_20_descr",
     "en": "Workers mill:{br}<img id=\"ItemID_1\"/><h>Wheat Grain</> into <img id=\"ItemID_5\"/><h>Wheat Flour</>.{br}<img id=\"ItemID_1\"/><h>Rye Grain</> into <img id=\"ItemID_33\"/><h>Rye Flour</>.{br}{br}<i>Works most efficiently on clear land, unobstructed by buildings or trees.</>",
-    "vi": "Cối xay bột nghiền:{br}<img id=\"ItemID_1\"/><h>Hạt lúa mì</> thành <img id=\"ItemID_5\"/><h>Bột lúa mì</>.{br}<img id=\"ItemID_1\"/><h>Hạt lúa mạch đen</> thành <img id=\"ItemID_33\"/><h>Bột lúa mạch đen</>.{br}{br}<i>Hoạt động đón gió hiệu quả nhất ở nơi đất trống, không bị nhà cửa hay cây cối che khuất.</>",
+    "vi": "Cối xay bột nghiền:{br}<img id=\"ItemID_1\"/> <h>Hạt lúa mì</> thành <img id=\"ItemID_5\"/> <h>Bột lúa mì</>.{br}<img id=\"ItemID_1\"/> <h>Hạt lúa mạch đen</> thành <img id=\"ItemID_33\"/> <h>Bột lúa mạch đen</>.{br}{br}<i>Hoạt động đón gió hiệu quả nhất ở nơi đất trống, không bị nhà cửa hay cây cối che khuất.</>",
     "offset": 88890,
     "length": 268
   },
   {
     "key": "buildingID_21_descr",
     "en": "Provides <img id=\"Water\"/><h>Drinking Water</> to 15 <img id=\"house\"/><h>Burgage Plots</>.Enables <h>Firefighting</>.{br}{br}<i>Must be built over Underground Water</>.",
-    "vi": "Cung cấp <img id=\"Water\"/><h>Nước uống</> cho tối đa 15 <img id=\"house\"/><h>Nhà dân</>. Cho phép dân <h>Dập lửa chữa cháy</>.{br}{br}<i>Bắt buộc phải xây ngay trên Mạch nước ngầm</>.",
+    "vi": "Cung cấp <img id=\"Water\"/> <h>Nước uống</> cho tối đa 15 <img id=\"house\"/> <h>Nhà dân</>. Cho phép dân <h>Dập lửa chữa cháy</>.{br}{br}<i>Bắt buộc phải xây ngay trên Mạch nước ngầm</>.",
     "offset": 99044,
     "length": 169
   },
   {
     "key": "buildingID_25_descr",
     "en": "Workers refine:{br}<img id=\"ItemID_35\"/><h>Iron Slabs</> into <img id=\"ItemID_6\"/><h>Tools</>.{br}{br}Requires <img id=\"Fuel\"/><h>Fuel</> to function.",
-    "vi": "Rèn <img id=\"ItemID_35\"/><h>Thỏi sắt</> thành <img id=\"ItemID_6\"/><h>Công cụ</>.{br}{br}Cần <img id=\"Fuel\"/><h>Chất đốt</> để nổi lửa.",
+    "vi": "Rèn <img id=\"ItemID_35\"/> <h>Thỏi sắt</> thành <img id=\"ItemID_6\"/> <h>Công cụ</>.{br}{br}Cần <img id=\"Fuel\"/> <h>Chất đốt</> để nổi lửa.",
     "offset": 104956,
     "length": 151
   },
   {
     "key": "buildingID_26_descr",
     "en": "Workers use:{br}<img id=\"ItemID_5\"/><h>Wheat Flour</> to bake <img id=\"ItemID_172\"/><h>Wheat Bread</>.{br}<img id=\"ItemID_33\"/><h>Rye Flour</> to bake <img id=\"ItemID_170\"/><h>Rye Bread</>.",
-    "vi": "Lò nướng bánh mì:{br}<img id=\"ItemID_5\"/><h>Bột lúa mì</> thành <img id=\"ItemID_172\"/><h>Bánh mì lúa mì</>.{br}<img id=\"ItemID_33\"/><h>Bột lúa mạch đen</> thành <img id=\"ItemID_170\"/><h>Bánh mì lúa mạch đen</>.",
+    "vi": "Lò nướng bánh mì:{br}<img id=\"ItemID_5\"/> <h>Bột lúa mì</> thành <img id=\"ItemID_172\"/> <h>Bánh mì lúa mì</>.{br}<img id=\"ItemID_33\"/> <h>Bột lúa mạch đen</> thành <img id=\"ItemID_170\"/> <h>Bánh mì lúa mạch đen</>.",
     "offset": 110472,
     "length": 190
   },
   {
     "key": "buildingID_28_descr",
     "en": "Workers tan <img id=\"ItemID_3\"/><h>Hides</> to produce <img id=\"ItemID_4\"/><h>Leather</>.",
-    "vi": "Thuộc <img id=\"ItemID_3\"/><h>Da thô</> thành <img id=\"ItemID_4\"/><h>Da thuộc</> chất lượng cao.",
+    "vi": "Thuộc <img id=\"ItemID_3\"/> <h>Da thô</> thành <img id=\"ItemID_4\"/> <h>Da thuộc</> chất lượng cao.",
     "offset": 117223,
     "length": 90
   },
   {
     "key": "buildingID_30_descr",
     "en": "Provides 1 <img id=\"stable\"/><h>Stable Space</>. Assigned families become permanent <h>Ox Guides</>, speeding up logistics.",
-    "vi": "Cung cấp 1 <img id=\"stable\"/><h>Chỗ buộc gia súc</>. Hộ phân công vào đây sẽ trở thành <h>Người dắt bò</> chuyên trách, giúp kéo gỗ và vận chuyển nhanh hơn.",
+    "vi": "Cung cấp 1 <img id=\"stable\"/> <h>Chỗ buộc gia súc</>. Hộ phân công vào đây sẽ trở thành <h>Người dắt bò</> chuyên trách, giúp kéo gỗ và vận chuyển nhanh hơn.",
     "offset": 120249,
     "length": 124
   },
   {
     "key": "buildingID_31_descr",
     "en": "Workers shear <img id=\"ItemID_23\"></><h>Wool</> from grazing <img id=\"Sheep\"/><h>Sheep</>.{br}{br}<i>Sheep must first be imported via the Livestock Trader.</>",
-    "vi": "Xén <img id=\"ItemID_23\"></><h>Len</> từ đàn <img id=\"Sheep\"/><h>Cừu</> đang gặm cỏ.{br}{br}<i>Cần mua cừu từ Chợ gia súc trước.</>",
+    "vi": "Xén <img id=\"ItemID_23\"></><h>Len</> từ đàn <img id=\"Sheep\"/> <h>Cừu</> đang gặm cỏ.{br}{br}<i>Cần mua cừu từ Chợ gia súc trước.</>",
     "offset": 124923,
     "length": 159
   },
   {
     "key": "buildingID_32_descr",
     "en": "Workers refine <img id=\"ItemID_216\"/><h>Firewood</> into <img id=\"ItemID_13\"/><h>Charcoal</> increasing fuel efficiency.",
-    "vi": "Đốt <img id=\"ItemID_216\"/><h>Củi sưởi</> thành <img id=\"ItemID_13\"/><h>Than củi</> giúp tiết kiệm và tăng gấp đôi hiệu suất chất đốt.",
+    "vi": "Đốt <img id=\"ItemID_216\"/> <h>Củi sưởi</> thành <img id=\"ItemID_13\"/> <h>Than củi</> giúp tiết kiệm và tăng gấp đôi hiệu suất chất đốt.",
     "offset": 130859,
     "length": 121
   },
   {
     "key": "buildingID_33_descr",
     "en": "Workers weave:{br}<img id=\"ItemID_23\"/><h>Wool</> into <img id=\"ItemID_148\"/><h>Yarn</>.{br}<img id=\"ItemID_11\"/><h>Flax</> into <img id=\"ItemID_12\"/> <h>Linen</>.",
-    "vi": "Xưởng dệt vải:{br}<img id=\"ItemID_23\"/><h>Len thô</> thành <img id=\"ItemID_148\"/><h>Sợi len</>.{br}<img id=\"ItemID_11\"/><h>Cây lanh</> thành <img id=\"ItemID_12\"/> <h>Vải lanh</>.",
+    "vi": "Xưởng dệt vải:{br}<img id=\"ItemID_23\"/> <h>Len thô</> thành <img id=\"ItemID_148\"/> <h>Sợi len</>.{br}<img id=\"ItemID_11\"/> <h>Cây lanh</> thành <img id=\"ItemID_12\"/> <h>Vải lanh</>.",
     "offset": 135548,
     "length": 164
   },
   {
     "key": "buildingID_34_descr",
     "en": "Provides <img id=\"Faith\"/><h>Faith</> and <h>Hallowed Ground</> for the burial of the deceased villagers. Assigned <img id=\"Worker\"/><h>Families</> become <h>Gravediggers</>.",
-    "vi": "Mang lại <img id=\"Faith\"/><h>Đức tin</> và <h>Đất thánh</> để chôn cất dân làng qua đời. <img id=\"Worker\"/><h>Hộ dân</> phân công vào đây sẽ làm <h>Phu đào mộ</>.",
+    "vi": "Mang lại <img id=\"Faith\"/> <h>Đức tin</> và <h>Đất thánh</> để chôn cất dân làng qua đời. <img id=\"Worker\"/> <h>Hộ dân</> phân công vào đây sẽ làm <h>Phu đào mộ</>.",
     "offset": 141515,
     "length": 175
   },
   {
     "key": "quarry_descr",
     "en": "Deep mining for <img id=\"ItemID_27\"/><h>Rough Stone</> and <img id=\"ItemID_15\"/><h>Rubble Stone</> underground reserves at <img id=\"richDeposit\"/><img id=\"StoneDeposit\"/><h>Rich Stone Deposits</>.",
-    "vi": "Đào sâu vào lòng đất để khai thác <img id=\"ItemID_27\"/><h>Đá tảng</> và <img id=\"ItemID_15\"/><h>Đá vụn</> vô hạn tại <img id=\"richDeposit\"/><img id=\"StoneDeposit\"/><h>Mỏ đá trữ lượng lớn</>.",
+    "vi": "Đào sâu vào lòng đất để khai thác <img id=\"ItemID_27\"/> <h>Đá tảng</> và <img id=\"ItemID_15\"/> <h>Đá vụn</> vô hạn tại <img id=\"richDeposit\"/><img id=\"StoneDeposit\"/> <h>Mỏ đá trữ lượng lớn</>.",
     "offset": 45453,
     "length": 196
   },
   {
     "key": "buildingID_36_descr",
     "en": "Workers gather:{br}<img id=\"ItemID_171\"/><h>Berries</> from nearby <img id=\"Berries\"/><h>Wild Berries</>.{br}<img id=\"ItemID_279\"/><h>Mushrooms</> from nearby <img id=\"MushroomDeposit\"/><h>Wild Mushrooms</>.",
-    "vi": "Hái lượm:{br}<img id=\"ItemID_171\"/><h>Quả mọng</> từ <img id=\"Berries\"/><h>Bụi quả mọng</>.{br}<img id=\"ItemID_279\"/><h>Nấm</> từ <img id=\"MushroomDeposit\"/><h>Bãi nấm</> gần đó.",
+    "vi": "Hái lượm:{br}<img id=\"ItemID_171\"/> <h>Quả mọng</> từ <img id=\"Berries\"/> <h>Bụi quả mọng</>.{br}<img id=\"ItemID_279\"/> <h>Nấm</> từ <img id=\"MushroomDeposit\"/> <h>Bãi nấm</> gần đó.",
     "offset": 152734,
     "length": 208
   },
   {
     "key": "buildingID_37_descr",
     "en": "Workers supply <img id=\"ItemID_28\"/><h>Ale</> to up to 15 <img id=\"house\"/><h>Burgage Plots</>.",
-    "vi": "Phục vụ <img id=\"ItemID_28\"/><h>Bia Ale</> cho tối đa 15 <img id=\"house\"/><h>Nhà dân</> quanh vùng.",
+    "vi": "Phục vụ <img id=\"ItemID_28\"/> <h>Bia mạch nha</> cho tối đa 15 <img id=\"house\"/> <h>Nhà dân</> quanh vùng.",
     "offset": 159799,
     "length": 96
   },
   {
     "key": "buildingID_39_descr",
     "en": "A natural terrain feature where a <h>Shoal of Fish</> is likely to thrive. Consider building a <h>Fisherman's Hut</> nearby to catch <img id=\"ItemID_30\"/><h>Carp</>.",
-    "vi": "Khu vực nước tự nhiên nơi <h>Đàn cá</> sinh sống. Hãy xây <h>Lán đánh cá</> gần đó để câu <img id=\"ItemID_30\"/><h>Cá chép</>.",
+    "vi": "Khu vực nước tự nhiên nơi <h>Đàn cá</> sinh sống. Hãy xây <h>Lán đánh cá</> gần đó để câu <img id=\"ItemID_30\"/> <h>Cá chép</>.",
     "offset": 163100,
     "length": 166
   },
   {
     "key": "buildingID_41_descr",
     "en": "Workers use <img id=\"ItemID_29\"/><h>Malt</> to brew <img id=\"ItemID_28\"/><h>Ale</>.",
-    "vi": "Nấu <img id=\"ItemID_29\"/><h>Mạch nha</> thành <img id=\"ItemID_28\"/><h>Bia Ale</> phục vụ quán bia.",
+    "vi": "Nấu <img id=\"ItemID_29\"/> <h>Mạch nha</> thành <img id=\"ItemID_28\"/> <h>Bia mạch nha</> phục vụ quán bia.",
     "offset": 168861,
     "length": 84
   },
   {
     "key": "buildingID_42_descr",
     "en": "Workers gather <img id=\"ItemID_15\"/><h>Rubble Stone</> from the surface of nearby <img id=\"StoneDeposit\"/><h>Stone Deposit</>.",
-    "vi": "Nhặt nhạnh <img id=\"ItemID_15\"/><h>Đá vụn</> trên mặt đất quanh <img id=\"StoneDeposit\"/><h>Mỏ đá</> lộ thiên.",
+    "vi": "Nhặt nhạnh <img id=\"ItemID_15\"/> <h>Đá vụn</> trên mặt đất quanh <img id=\"StoneDeposit\"/> <h>Mỏ đá</> lộ thiên.",
     "offset": 171887,
     "length": 127
   },
   {
     "key": "buildingID_43_descr",
     "en": "Workers smelt <img id=\"ItemID_14\"/><h>Iron Ore</> into <img id=\"ItemID_35\"/><h>Iron Slabs</>.{br}{br}Requires <img id=\"Fuel\"/><h>Fuel</> to function.",
-    "vi": "Nung <img id=\"ItemID_14\"/><h>Quặng sắt</> thành <img id=\"ItemID_35\"/><h>Thỏi sắt</>.{br}{br}Cần <img id=\"Fuel\"/><h>Chất đốt</> để vận hành lò.",
+    "vi": "Nung <img id=\"ItemID_14\"/> <h>Quặng sắt</> thành <img id=\"ItemID_35\"/> <h>Thỏi sắt</>.{br}{br}Cần <img id=\"Fuel\"/> <h>Chất đốt</> để vận hành lò.",
     "offset": 175847,
     "length": 150
   },
   {
     "key": "buildingID_50_descr",
     "en": "Use this tool to lay out the <h>Castle Walls</>.{br}{br}<h>Gates</> are created automatically when a wall is placed over a road. Every gate adds 1 <img id=\"ItemID_16\"/><h>timber</> to the construction cost.",
-    "vi": "Dùng công cụ này để vẽ quy hoạch <h>Tường thành</>.{br}{br}<h>Cổng thành</> sẽ tự động hình thành khi tường thành cắt qua đường đi. Mỗi cổng tốn thêm 1 <img id=\"ItemID_16\"/><h>Gỗ cây</> để thi công.",
+    "vi": "Dùng công cụ này để vẽ quy hoạch <h>Tường thành</>.{br}{br}<h>Cổng thành</> sẽ tự động hình thành khi tường thành cắt qua đường đi. Mỗi cổng tốn thêm 1 <img id=\"ItemID_16\"/> <h>Gỗ cây</> để thi công.",
     "offset": 181283,
     "length": 207
   },
   {
     "key": "buildingID_51_descr",
     "en": "Workers collect <img id=\"ItemID_141\"/><h>Honey</>. {br}{br}<i>Every region can sustain up to 2 Apiaries by default, placing more will not increase the yields.</>",
-    "vi": "Nuôi ong thu hoạch <img id=\"ItemID_141\"/><h>Mật ong</>.{br}{br}<i>Mỗi vùng mặc định chỉ nên đặt tối đa 2 Trại ong, xây thêm sẽ không tăng thêm sản lượng.</>",
+    "vi": "Nuôi ong thu hoạch <img id=\"ItemID_141\"/> <h>Mật ong</>.{br}{br}<i>Mỗi vùng mặc định chỉ nên đặt tối đa 2 Trại ong, xây thêm sẽ không tăng thêm sản lượng.</>",
     "offset": 188767,
     "length": 162
   },
   {
     "key": "buildingID_52_descr",
     "en": "Workers will indefinitely mine:{br}<img id=\"ItemID_14\"/><h>Iron Ore</> from <img id=\"IronDeposit\"/><h>Iron Deposits</>.{br}<img id=\"ItemID_146\"/><h>clay</> from <img id=\"ClayDeposit\"/><h>Clay Deposits</>.{br}<img id=\"ItemID_145\"/><h>Salt</> from <img id=\"SaltDeposit\"/><h>Salt Deposits</>.",
-    "vi": "Khai thác vô hạn:{br}<img id=\"ItemID_14\"/><h>Quặng sắt</> từ <img id=\"IronDeposit\"/><h>Mỏ sắt</>.{br}<img id=\"ItemID_146\"/><h>Đất sét</> từ <img id=\"ClayDeposit\"/><h>Mỏ đất sét</>.{br}<img id=\"ItemID_145\"/><h>Muối</> từ <img id=\"SaltDeposit\"/><h>Mỏ muối</>.",
+    "vi": "Khai thác vô hạn:{br}<img id=\"ItemID_14\"/> <h>Quặng sắt</> từ <img id=\"IronDeposit\"/> <h>Mỏ sắt</>.{br}<img id=\"ItemID_146\"/> <h>Đất sét</> từ <img id=\"ClayDeposit\"/> <h>Mỏ đất sét</>.{br}<img id=\"ItemID_145\"/> <h>Muối</> từ <img id=\"SaltDeposit\"/> <h>Mỏ muối</>.",
     "offset": 194562,
     "length": 290
   },
@@ -226,42 +226,42 @@
   {
     "key": "buildingID_59_descr",
     "en": "Workers catch:{br}<img id=\"ItemID_30\"/><h>Carp</> from <img id=\"FishDeposit\"/><h>Shoal of Fish</> in Ponds.{br}<img id=\"ItemID_32\"/><h>Eel</> from <img id=\"FishDeposit\"/><h>Shoal of Fish</> in Rivers.{br}{br}<i>Overfishing will slow birth rates and could cause a permanent loss of the deposit.</>",
-    "vi": "Đánh bắt:{br}<img id=\"ItemID_30\"/><h>Cá chép</> từ <img id=\"FishDeposit\"/><h>Đàn cá</> trong ao.{br}<img id=\"ItemID_32\"/><h>Cá chình</> từ <img id=\"FishDeposit\"/><h>Đàn cá</> trên sông.{br}{br}<i>Đánh bắt quá mức sẽ làm cá không kịp sinh sản và có thể làm cạn kiệt vĩnh viễn nguồn cá.</>",
+    "vi": "Đánh bắt:{br}<img id=\"ItemID_30\"/> <h>Cá chép</> từ <img id=\"FishDeposit\"/> <h>Đàn cá</> trong ao.{br}<img id=\"ItemID_32\"/> <h>Cá chình</> từ <img id=\"FishDeposit\"/> <h>Đàn cá</> trên sông.{br}{br}<i>Đánh bắt quá mức sẽ làm cá không kịp sinh sản và có thể làm cạn kiệt vĩnh viễn nguồn cá.</>",
     "offset": 208194,
     "length": 297
   },
   {
     "key": "buildingID_60_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for 2 <img id=\"Worker\"/><h>Families</>.{br}{br}If the plot is wide enough, <img id=\"LivingSpace\"/><h>Living Space</> can be expanded. If the plot is long enough, a <img id=\"Extension\"/><h>Backyard Extension</> can be built.",
-    "vi": "Cung cấp <img id=\"LivingSpace\"/><h>Chỗ ở</> cho 2 <img id=\"Worker\"/><h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/><h>Chỗ ở</> đón thêm hộ dân. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/><h>Xưởng/vườn sân sau</>.",
+    "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho 2 <img id=\"Worker\"/> <h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/> <h>Chỗ ở</> đón thêm hộ dân. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/> <h>Xưởng/vườn sân sau</>.",
     "offset": 219107,
     "length": 275
   },
   {
     "key": "buildingID_61_descr",
     "en": "Workers refine <img id=\"ItemID_165\"/><h>Barley</> to into <img id=\"ItemID_29\"/><h>Malt</>.{br}{br}Requires <img id=\"Fuel\"/><h>Fuel</> to function.",
-    "vi": "Ủ <img id=\"ItemID_165\"/><h>Đại mạch</> thành <img id=\"ItemID_29\"/><h>Mạch nha</>.{br}{br}Cần <img id=\"Fuel\"/><h>Chất đốt</> để sấy mạch nha.",
+    "vi": "Ủ <img id=\"ItemID_165\"/> <h>Đại mạch</> thành <img id=\"ItemID_29\"/> <h>Mạch nha</>.{br}{br}Cần <img id=\"Fuel\"/> <h>Chất đốt</> để sấy mạch nha.",
     "offset": 228362,
     "length": 147
   },
   {
     "key": "buildingID_68_descr",
     "en": "Workers collect, store, and distribute goods using the <img id=\"Pantry\"/><h>Pantry</>. Reduces <h>Food Spoilage</> significantly. {br}{br}<i>They may also set up stalls on the Marketplace to distribute the stored goods to the Burgage Plots.</>",
-    "vi": "Thu gom, bảo quản và phân phối thực phẩm tại <img id=\"Pantry\"/><h>Kho lương thực</>. Giúp giảm mạnh nguy cơ <h>Thực phẩm ôi thiu</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ ăn cho các Nhà dân.</>",
+    "vi": "Thu gom, bảo quản và phân phối thực phẩm tại <img id=\"Pantry\"/> <h>Kho lương thực</>. Giúp giảm mạnh nguy cơ <h>Thực phẩm ôi thiu</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ ăn cho các Nhà dân.</>",
     "offset": 233438,
     "length": 244
   },
   {
     "key": "buildingID_69_descr",
     "en": "Employs <img id=\"Worker\"/><h>Families</> on nearby <h>Fields</>.{br}After the Harvest, crops are transported here, where Farmers thresh:{br}<img id=\"ItemID_217\"/><h>Wheat Sheaves</> into <img id=\"ItemID_1\"/><h>Wheat Grain</>.{br}<img id=\"ItemID_298\"/><h>Rye Sheaves</> into <img id=\"ItemID_299\"/><h>Rye Grain</>.",
-    "vi": "Điều phối <img id=\"Worker\"/><h>Hộ dân</> ra các <h>Cánh đồng</> canh tác.{br}Sau vụ gặt, nông sản được chở về đây để Nông dân đập lúa:{br}<img id=\"ItemID_217\"/><h>Bó lúa mì</> thành <img id=\"ItemID_1\"/><h>Hạt lúa mì</>.{br}<img id=\"ItemID_298\"/><h>Bó lúa mạch đen</> thành <img id=\"ItemID_299\"/><h>Hạt lúa mạch đen</>.",
+    "vi": "Điều phối <img id=\"Worker\"/> <h>Hộ dân</> ra các <h>Cánh đồng</> canh tác.{br}Sau vụ gặt, nông sản được chở về đây để Nông dân đập lúa:{br}<img id=\"ItemID_217\"/> <h>Bó lúa mì</> thành <img id=\"ItemID_1\"/> <h>Hạt lúa mì</>.{br}<img id=\"ItemID_298\"/> <h>Bó lúa mạch đen</> thành <img id=\"ItemID_299\"/> <h>Hạt lúa mạch đen</>.",
     "offset": 241669,
     "length": 313
   },
   {
     "key": "buildingID_72_descr",
     "en": "Workers collect, store, and distribute goods using <img id=\"GenericStorage\"/><h>Generic Storage</>.{br}{br}<i>They may also set up stalls on the Marketplace to distribute the stored goods to the Burgage Plots.</>",
-    "vi": "Thu gom, cất giữ và phân phối tài nguyên tại <img id=\"GenericStorage\"/><h>Kho vật tư</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ dùng/củi sưởi cho các Nhà dân.</>",
+    "vi": "Thu gom, cất giữ và phân phối tài nguyên tại <img id=\"GenericStorage\"/> <h>Kho vật tư</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ dùng/củi sưởi cho các Nhà dân.</>",
     "offset": 252506,
     "length": 213
   },
@@ -275,21 +275,21 @@
   {
     "key": "buildingID_77_descr",
     "en": "Provides <img id=\"Faith\"/><h>Church Access (Small Stone)</> and <h>Hallowed Ground</> for the burial of the deceased villagers. Assigned <img id=\"Worker\"/><h>Families</> become <h>Gravediggers</>.",
-    "vi": "Cung cấp <img id=\"Faith\"/><h>Đức tin (Nhà thờ đá nhỏ)</> và <h>Đất thánh</> để an táng người chết. <img id=\"Worker\"/><h>Hộ dân</> làm việc tại đây sẽ làm nhiệm vụ <h>Phu đào mộ</>.",
+    "vi": "Cung cấp <img id=\"Faith\"/> <h>Đức tin (Nhà thờ đá nhỏ)</> và <h>Đất thánh</> để an táng người chết. <img id=\"Worker\"/> <h>Hộ dân</> làm việc tại đây sẽ làm nhiệm vụ <h>Phu đào mộ</>.",
     "offset": 261635,
     "length": 197
   },
   {
     "key": "buildingID_79_descr",
     "en": "Enables trading <img id=\"Livestock\"/><h>Livestock</> with <img id=\"Tradepoint\"/><h>Tradepoints</> and other settled regions.",
-    "vi": "Giao dịch mua bán <img id=\"Livestock\"/><h>Gia súc</> (bò, ngựa, cừu, dê) với các <img id=\"Tradepoint\"/><h>Điểm giao thương</> và các vùng lân cận.",
+    "vi": "Giao dịch mua bán <img id=\"Livestock\"/> <h>Gia súc</> (bò, ngựa, cừu, dê) với các <img id=\"Tradepoint\"/> <h>Điểm giao thương</> và các vùng lân cận.",
     "offset": 267699,
     "length": 125
   },
   {
     "key": "buildingID_80_descr",
     "en": "Workers collect, store, and distribute goods using the <img id=\"Pantry\"/><h>Pantry</>. Reduces <h>Food Spoilage</>.{br}{br}<i>They may also set up stalls on the Marketplace to distribute the stored goods to the Burgage Plots.</>",
-    "vi": "Thu gom, bảo quản và phân phối thực phẩm tại <img id=\"Pantry\"/><h>Kho lương thực</>. Giúp chống <h>Thực phẩm ôi thiu</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ ăn cho các Nhà dân.</>",
+    "vi": "Thu gom, bảo quản và phân phối thực phẩm tại <img id=\"Pantry\"/> <h>Kho lương thực</>. Giúp chống <h>Thực phẩm ôi thiu</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ ăn cho các Nhà dân.</>",
     "offset": 272028,
     "length": 229
   },
@@ -324,28 +324,28 @@
   {
     "key": "buildingID_89_descr",
     "en": "Workers fell nearby trees, then split the logs producing <img id=\"ItemID_216\"/><h>Firewood</>.",
-    "vi": "Đốn cây và chẻ thành <img id=\"ItemID_216\"/><h>Củi sưởi</> cho dân dùng mùa đông.",
+    "vi": "Đốn cây và chẻ thành <img id=\"ItemID_216\"/> <h>Củi sưởi</> cho dân dùng mùa đông.",
     "offset": 292141,
     "length": 95
   },
   {
     "key": "buildingID_91_descr",
     "en": "Stocks a variety of <img id=\"Food\"/><h>Food</> to fulfill <img id=\"Requirements\"/><h>Residential Requirements</>.",
-    "vi": "Bày bán các loại <img id=\"Food\"/><h>Thực phẩm</> để đáp ứng <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</>.",
+    "vi": "Bày bán các loại <img id=\"Food\"/> <h>Thực phẩm</> để đáp ứng <img id=\"Requirements\"/> <h>Nhu cầu của Dân làng</>.",
     "offset": 295606,
     "length": 114
   },
   {
     "key": "buildingID_92_descr",
     "en": "Stocks <img id=\"Fuel\"/><h>Fuel</> to fulfill <img id=\"Requirements\"/><h>Residential Requirements</>.",
-    "vi": "Bày bán <img id=\"Fuel\"/><h>Chất đốt & Củi sưởi</> để đáp ứng <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</>.",
+    "vi": "Bày bán <img id=\"Fuel\"/> <h>Chất đốt & Củi sưởi</> để đáp ứng <img id=\"Requirements\"/> <h>Nhu cầu của Dân làng</>.",
     "offset": 299401,
     "length": 101
   },
   {
     "key": "buildingID_93_descr",
     "en": "Stocks <img id=\"itemID_149\"/><h>Clothing</> and <img id=\"Fuel\"/><h>Fuel</> to fulfill <img id=\"Requirements\"/><h>Residential Requirements</>.",
-    "vi": "Bày bán <img id=\"itemID_149\"/><h>Quần áo</> và <img id=\"Fuel\"/><h>Chất đốt</> để đáp ứng <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</>.",
+    "vi": "Bày bán <img id=\"itemID_149\"/> <h>Quần áo</> và <img id=\"Fuel\"/> <h>Chất đốt</> để đáp ứng <img id=\"Requirements\"/> <h>Nhu cầu của Dân làng</>.",
     "offset": 302916,
     "length": 142
   },
@@ -359,21 +359,21 @@
   {
     "key": "buildingID_97_descr",
     "en": "Provides <img id=\"stable\"/><h>Stable Space</> for your <h>Work Livestock</> to rest between tasks.",
-    "vi": "Cung cấp thêm <img id=\"stable\"/><h>Chỗ chuồng trại</> để <h>Gia súc làm việc</> nghỉ ngơi.",
+    "vi": "Cung cấp thêm <img id=\"stable\"/> <h>Chỗ chuồng trại</> để <h>Gia súc làm việc</> nghỉ ngơi.",
     "offset": 308690,
     "length": 99
   },
   {
     "key": "buildingID_98_descr",
     "en": "Where you and your <h>Retinue</> reside. Enables various forms of <h>Taxation</>.{br}{br}Grants 250 <img id=\"Influence\"/><h>Influence</> on first construction and provides a starting <h>Retinue</> for free.{br}{br}Assigns <img id=\"Worker\"/><h>Families</> to be Servants, where they both live and work the Manor.",
-    "vi": "Nơi ở của bạn và <h>Đội cận vệ</>. Mở khóa các chính sách <h>Thu thuế</>.{br}{br}Tặng ngay 250 <img id=\"Influence\"/><h>Uy danh</> khi xây dựng và cấp miễn phí một <h>Đội cận vệ</> khởi đầu.{br}{br}Phân công <img id=\"Worker\"/><h>Hộ dân</> làm Gia nhân phục vụ trong Dinh thự.",
+    "vi": "Nơi ở của bạn và <h>Đội cận vệ</>. Mở khóa các chính sách <h>Thu thuế</>.{br}{br}Tặng ngay 250 <img id=\"Influence\"/> <h>Uy danh</> khi xây dựng và cấp miễn phí một <h>Đội cận vệ</> khởi đầu.{br}{br}Phân công <img id=\"Worker\"/> <h>Hộ dân</> làm Gia nhân phục vụ trong Dinh thự.",
     "offset": 312385,
     "length": 312
   },
   {
     "key": "buildingID_99_descr",
     "en": "Workers collect, store, and distribute goods using <img id=\"GenericStorage\"/><h>Generic Storage</>.{br}{br}<i>They may also set up stalls on the Marketplace to distribute the stored goods to the Burgage Plots.</>",
-    "vi": "Thu gom, cất giữ và phân phối tài nguyên tại <img id=\"GenericStorage\"/><h>Kho vật tư</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ dùng/củi sưởi cho các Nhà dân.</>",
+    "vi": "Thu gom, cất giữ và phân phối tài nguyên tại <img id=\"GenericStorage\"/> <h>Kho vật tư</>.{br}{br}<i>Thủ kho cũng sẽ ra mở sạp ngoài Chợ để bán đồ dùng/củi sưởi cho các Nhà dân.</>",
     "offset": 323045,
     "length": 213
   },
@@ -387,14 +387,14 @@
   {
     "key": "buildingID_102_descr",
     "en": "A permanent <h>Market Stall</>, which provides passive <img id=\"ItemID_216\"/><h>Firewood</>, as long as the region has enough <img id=\"ItemID_0\"/><h>Regional Wealth</> to acquire it. Must be placed on the <img id=\"stall\"/><h>Marketplace</>.",
-    "vi": "Một <h>Sạp chợ</> cố định tự động cung cấp <img id=\"ItemID_216\"/><h>Củi sưởi</> thụ động miễn là trong vùng có đủ <img id=\"ItemID_0\"/><h>Tài sản vùng</> để chi trả. Phải đặt trên <img id=\"stall\"/><h>Khu chợ</>.",
+    "vi": "Một <h>Sạp chợ</> cố định tự động cung cấp <img id=\"ItemID_216\"/> <h>Củi sưởi</> thụ động miễn là trong vùng có đủ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> để chi trả. Phải đặt trên <img id=\"stall\"/> <h>Khu chợ</>.",
     "offset": 331733,
     "length": 241
   },
   {
     "key": "buildingID_103_descr",
     "en": "A permanent <h>Market Stall</>, which provides passive <img id=\"ItemID_172\"/><h>Bread</>, as long as the region has enough <img id=\"ItemID_0\"/><h>Regional Wealth</> to acquire it. Must be placed on the <img id=\"stall\"/><h>Marketplace</>.",
-    "vi": "Một <h>Sạp chợ</> cố định tự động cung cấp <img id=\"ItemID_172\"/><h>Bánh mì</> thụ động miễn là trong vùng có đủ <img id=\"ItemID_0\"/><h>Tài sản vùng</> để chi trả. Phải đặt trên <img id=\"stall\"/><h>Khu chợ</>.",
+    "vi": "Một <h>Sạp chợ</> cố định tự động cung cấp <img id=\"ItemID_172\"/> <h>Bánh mì</> thụ động miễn là trong vùng có đủ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> để chi trả. Phải đặt trên <img id=\"stall\"/> <h>Khu chợ</>.",
     "offset": 339585,
     "length": 238
   },
@@ -422,7 +422,7 @@
   {
     "key": "buildingID_108_descr",
     "en": "Workers refine <img id=\"ItemID_146\"/><h>Clay</> into <img id=\"ItemID_269\"/><h>Rooftiles</>. {br}{br}Requires <img id=\"Fuel\"/><h>Fuel</> to function.",
-    "vi": "Nung <img id=\"ItemID_146\"/><h>Đất sét</> thành <img id=\"ItemID_269\"/><h>Ngói lợp</>.{br}{br}Cần <img id=\"Fuel\"/><h>Chất đốt</> để vận hành lò.",
+    "vi": "Nung <img id=\"ItemID_146\"/> <h>Đất sét</> thành <img id=\"ItemID_269\"/> <h>Ngói lợp</>.{br}{br}Cần <img id=\"Fuel\"/> <h>Chất đốt</> để vận hành lò.",
     "offset": 355635,
     "length": 149
   },
@@ -457,56 +457,56 @@
   {
     "key": "buildingID_114_descr",
     "en": "Provides <img id=\"Water\"/><h>Drinking Water</> to 50 <img id=\"house\"/><h>Burgage Plots</>. Enables <h>Firefighting</>. {br}{br}<i>Must be built over Underground Water</>.",
-    "vi": "Cung cấp <img id=\"Water\"/><h>Nước uống</> dồi dào cho tối đa 50 <img id=\"house\"/><h>Nhà dân</>. Cho phép dân <h>Dập lửa chữa cháy</>.{br}{br}<i>Bắt buộc phải xây ngay trên Mạch nước ngầm</>.",
+    "vi": "Cung cấp <img id=\"Water\"/> <h>Nước uống</> dồi dào cho tối đa 50 <img id=\"house\"/> <h>Nhà dân</>. Cho phép dân <h>Dập lửa chữa cháy</>.{br}{br}<i>Bắt buộc phải xây ngay trên Mạch nước ngầm</>.",
     "offset": 382248,
     "length": 171
   },
   {
     "key": "buildingID_116_descr",
     "en": "Workers supply <img id=\"ItemID_28\"/><h>Ale</> to up to 50 <img id=\"house\"/><h>Burgage Plots</>.",
-    "vi": "Phục vụ <img id=\"ItemID_28\"/><h>Bia Ale</> cho tối đa 50 <img id=\"house\"/><h>Nhà dân</>.",
+    "vi": "Phục vụ <img id=\"ItemID_28\"/> <h>Bia mạch nha</> cho tối đa 50 <img id=\"house\"/> <h>Nhà dân</>.",
     "offset": 388147,
     "length": 96
   },
   {
     "key": "buildingID_117_descr",
     "en": "Workers cut <img id=\"ItemID_27\"/><h>Rough Stone</> into <img id=\"ItemID_283\"/><h>Dressed Stone</>.",
-    "vi": "Đẽo gọt <img id=\"ItemID_27\"/><h>Đá thô</> thành <img id=\"ItemID_283\"/><h>Đá đẽo</> chuẩn quy cách dùng xây dựng.",
+    "vi": "Đẽo gọt <img id=\"ItemID_27\"/> <h>Đá thô</> thành <img id=\"ItemID_283\"/> <h>Đá đẽo</> chuẩn quy cách dùng xây dựng.",
     "offset": 391442,
     "length": 99
   },
   {
     "key": "buildingID_118_descr",
     "en": "Workers burn <img id=\"ItemID_15\"/><h>Rubble Stone</> into <img id=\"ItemID_329\"/><h>Mortar</>.",
-    "vi": "Nung nướng <img id=\"ItemID_15\"/><h>Đá vụn</> thành <img id=\"ItemID_329\"/><h>Vữa xây</> dùng cho công trình đá.",
+    "vi": "Nung nướng <img id=\"ItemID_15\"/> <h>Đá vụn</> thành <img id=\"ItemID_329\"/> <h>Vữa xây</> dùng cho công trình đá.",
     "offset": 394700,
     "length": 94
   },
   {
     "key": "buildingID_472_descr",
     "en": "Provides 10 <img id=\"Garrison\"/><h>Garrison Space</>. Garrisoned units and villagers shoot projectiles at approaching enemies.",
-    "vi": "Chứa được 10 <img id=\"Garrison\"/><h>Lính đồn trú</>. Binh lính và dân làng bên trong sẽ bắn tên xối xả vào kẻ địch tiến đến gần.",
+    "vi": "Cung cấp 10 <img id=\"Garrison\"/> <h>Chỗ đóng quân</>. Binh lính và dân làng bên trong sẽ bắn đạn vào kẻ địch tiến đến gần.",
     "offset": 397800,
     "length": 127
   },
   {
     "key": "buildingID_473_descr",
     "en": "Workers refine <img id=\"ItemID_171\"/><h>Berries</> into <img id=\"ItemID_302\"/><h>Dyes</>.",
-    "vi": "Chiết xuất <img id=\"ItemID_171\"/><h>Quả mọng</> thành <img id=\"ItemID_302\"/><h>Thuốc nhuộm</> dùng may quần áo.",
+    "vi": "Chiết xuất <img id=\"ItemID_171\"/> <h>Quả mọng</> thành <img id=\"ItemID_302\"/> <h>Thuốc nhuộm</> dùng may quần áo.",
     "offset": 402142,
     "length": 90
   },
   {
     "key": "buildingdescriptions_11776",
     "en": "<img id=\"warn\"/>Work in Progress.{br}{br}Placing nearby friendly units allows utilizing <h>Siege Equipment</>.",
-    "vi": "<img id=\"warn\"/>Tính năng đang hoàn thiện.{br}{br}Bố trí quân lính gần đó để sử dụng <h>Khí cụ công thành</>.",
+    "vi": "<img id=\"warn\"/> Tính năng đang hoàn thiện.{br}{br}Bố trí quân lính gần đó để sử dụng <h>Khí cụ công thành</>.",
     "offset": 405137,
     "length": 111
   },
   {
     "key": "buildingID_484_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for 3 <img id=\"Worker\"/><h>Families</>.{br}{br}If the plot is wide enough, <img id=\"LivingSpace\"/><h>Living Space</> can be expanded. If the plot is long enough, a <img id=\"Extension\"/><h>Backyard Extension</> can be built.",
-    "vi": "Cung cấp <img id=\"LivingSpace\"/><h>Chỗ ở</> cho 3 <img id=\"Worker\"/><h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/><h>Chỗ ở</> đón thêm hộ dân. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/><h>Xưởng/vườn sân sau</>.",
+    "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho 3 <img id=\"Worker\"/> <h>Hộ dân</>.{br}{br}Nếu thửa đất đủ rộng, có thể mở rộng thêm <img id=\"LivingSpace\"/> <h>Chỗ ở</> đón thêm hộ dân. Nếu thửa đất đủ dài, có thể xây thêm <img id=\"Extension\"/> <h>Xưởng/vườn sân sau</>.",
     "offset": 409287,
     "length": 275
   }

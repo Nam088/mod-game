@@ -37,7 +37,7 @@
   {
     "key": "pollination_descr",
     "en": "<i>Fertility drifts on breeze and wing.</>{br}{br}<img id=\"Crops\"/><h>Crop</>, <img id=\"Fruits\"/><h>Orchard</> and <img id=\"Vegetables\"/><h>Vegetable</> yields are increased by an amount equal to 30% of the combined <img id=\"env_meadow\"/><h>Meadow Environment</> and <img id=\"Affinity_Apiation\"/><h>Apiation Affinity</> values.",
-    "vi": "<i>Độ phì nhiêu lan tỏa theo làn gió và cánh ong.</>{br}{br}Sản lượng <img id=\"Crops\"/><h>Mùa màng</>, <img id=\"Fruits\"/><h>Vườn cây</> và <img id=\"Vegetables\"/><h>Rau củ</> tăng thêm một lượng tương đương 30% tổng giá trị <img id=\"env_meadow\"/><h>Môi trường Đồng cỏ</> và <img id=\"Affinity_Apiation\"/><h>Đặc tính Nuôi ong</>.",
+    "vi": "<i>Độ phì nhiêu lan tỏa theo làn gió và cánh ong.</> {br}{br}Sản lượng <img id=\"Crops\"/> <h>Mùa màng</>, <img id=\"Fruits\"/> <h>Vườn cây</> và <img id=\"Vegetables\"/> <h>Rau củ</> tăng thêm một lượng tương đương 30% tổng giá trị <img id=\"env_meadow\"/> <h>Môi trường Đồng cỏ</> và <img id=\"Affinity_Apiation\"/> <h>Đặc tính Nuôi ong</>.",
     "offset": 2472,
     "length": 328
   },
@@ -65,7 +65,7 @@
   {
     "key": "pannage_descr",
     "en": "<i>The swine grow fat on mast and acorn.</>{br}{br}<img id=\"ItemID_321\"/><h>Pigs</> time to yield decreases by an amount equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
-    "vi": "<i>Đàn lợn béo mầm nhờ quả sồi và hạt dẻ rừng.</>{br}{br}Thời gian xuất chuồng của <img id=\"ItemID_321\"/><h>Lợn</> giảm một lượng tương đương chỉ số <img id=\"env_woodland\"/><h>Môi trường Rừng rậm</>.",
+    "vi": "<i>Đàn lợn béo mầm nhờ quả sồi và hạt dẻ rừng.</> {br}{br}Thời gian xuất chuồng của <img id=\"ItemID_321\"/> <h>Lợn</> giảm một lượng tương đương chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
     "offset": 25654,
     "length": 186
   },
@@ -79,7 +79,7 @@
   {
     "key": "teeming_descr",
     "en": "<i>A thriving ecosystem hums beneath the trees.</>{br}{br}Adds a chance for <img id=\"Animals\"/><h>Wild Animals</> to produce two offspring instead of one, and for <img id=\"Berries\"/><h>Berries</> and <img id=\"MushroomDeposit\"/><h>Mushrooms</> to grow one resource more per clump, equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
-    "vi": "<i>Hệ sinh thái trù phú sinh sôi rộn rã dưới những tán cây.</>{br}{br}Tăng tỷ lệ <img id=\"Animals\"/><h>Thú hoang</> sinh đôi thay vì sinh một con non, đồng thời <img id=\"Berries\"/><h>Quả mọng</> và <img id=\"MushroomDeposit\"/><h>Nấm</> mọc thêm một đơn vị mỗi bụi, tương đương chỉ số <img id=\"env_woodland\"/><h>Môi trường Rừng rậm</>.",
+    "vi": "<i>Hệ sinh thái trù phú sinh sôi rộn rã dưới những tán cây.</> {br}{br}Tăng tỷ lệ <img id=\"Animals\"/> <h>Thú hoang</> sinh đôi thay vì sinh một con non, đồng thời <img id=\"Berries\"/> <h>Quả mọng</> và <img id=\"MushroomDeposit\"/> <h>Nấm</> mọc thêm một đơn vị mỗi bụi, tương đương chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
     "offset": 32633,
     "length": 345
   },

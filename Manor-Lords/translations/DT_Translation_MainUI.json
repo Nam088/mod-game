@@ -51,7 +51,7 @@
   {
     "key": "unassigned_descr",
     "en": "<img id=\"Worker\"/><h>Families</> without assignment will work on <img id=\"Builders\"/><h>Construction</>, including guiding an <img id=\"OX\"/><h>Ox</> to transport <img id=\"ItemID_16\"/><h>Timber</>.",
-    "vi": "<img id=\"Worker\"/><h>Gia đình</> chưa phân công sẽ phụ trách <img id=\"Builders\"/><h>Xây dựng</>, bao gồm cả việc dắt <img id=\"OX\"/><h>Bò kéo</> để chở <img id=\"ItemID_16\"/><h>Gỗ tròn</>.",
+    "vi": "<img id=\"Worker\"/> <h>Gia đình</> chưa phân công sẽ phụ trách <img id=\"Builders\"/> <h>Xây dựng</>, bao gồm cả việc dắt <img id=\"OX\"/> <h>Bò kéo</> để chở <img id=\"ItemID_16\"/> <h>Gỗ tròn</>.",
     "offset": 3570,
     "length": 197
   },
@@ -65,7 +65,7 @@
   {
     "key": "assigned_descr",
     "en": "<img id=\"Worker\"/><h>Families</> with assignment will primarily focus on tasks related to their workplace.",
-    "vi": "<img id=\"Worker\"/><h>Gia đình</> được phân công sẽ tập trung làm việc tại nơi làm việc của họ.",
+    "vi": "<img id=\"Worker\"/> <h>Gia đình</> được phân công sẽ tập trung làm việc tại nơi làm việc của họ.",
     "offset": 10980,
     "length": 107
   },
@@ -79,7 +79,7 @@
   {
     "key": "living_space_descr",
     "en": "How many additional <img id=\"Worker\"/><h>Families</> the Settlement can support. To increase it, build or expand your <img id=\"house\"/><h>Burgage Plots</>.",
-    "vi": "Số <img id=\"Worker\"/><h>Gia đình</> mới mà Khu định cư có thể tiếp nhận thêm. Để tăng chỗ ở, hãy xây mới hoặc mở rộng các <img id=\"house\"/><h>Nhà dân</>.",
+    "vi": "Số <img id=\"Worker\"/> <h>Gia đình</> mới mà Khu định cư có thể tiếp nhận thêm. Để tăng chỗ ở, hãy xây mới hoặc mở rộng các <img id=\"house\"/> <h>Nhà dân</>.",
     "offset": 15404,
     "length": 156
   },
@@ -310,7 +310,7 @@
   {
     "key": "supplies_descr",
     "en": "<img id=\"Worker\"/><h>Families</> consume 1 <img id=\"Food\"/><h>Food</> per month. {br}<img id=\"house\"/><h>Burgage Plots</> consume 1 <img id=\"Fuel\"/><h>Fuel</> per month.{br}Additionally, some workplaces require <img id=\"Fuel\"/><h>Fuel</> in order to function.",
-    "vi": "<img id=\"Worker\"/><h>Gia đình</> tiêu thụ 1 <img id=\"Food\"/><h>Lương thực</> mỗi tháng.{br}<img id=\"house\"/><h>Nhà dân</> tiêu thụ 1 <img id=\"Fuel\"/><h>Chất đốt</> mỗi tháng.{br}Ngoài ra, một số xưởng làm việc cũng cần <img id=\"Fuel\"/><h>Chất đốt</> để hoạt động.",
+    "vi": "<img id=\"Worker\"/> <h>Gia đình</> tiêu thụ 1 <img id=\"Food\"/> <h>Lương thực</> mỗi tháng.{br}<img id=\"house\"/> <h>Nhà dân</> tiêu thụ 1 <img id=\"Fuel\"/> <h>Chất đốt</> mỗi tháng.{br}Ngoài ra, một số xưởng làm việc cũng cần <img id=\"Fuel\"/> <h>Chất đốt</> để hoạt động.",
     "offset": 41660,
     "length": 260
   },
@@ -723,7 +723,7 @@
   {
     "key": "visit_mode_descr",
     "en": "<r>Very early in development. Expect glitches.</> {br}{br}Click to walk around your town in third-person mode.",
-    "vi": "<r>Tính năng đang trong giai đoạn phát triển ban đầu, có thể phát sinh lỗi.</>{br}{br}Nhấn để trực tiếp hóa thân thành Lãnh chúa dạo bước quanh thị trấn ở góc nhìn người thứ ba.",
+    "vi": "<r>Tính năng đang trong giai đoạn phát triển ban đầu, có thể phát sinh lỗi.</> {br}{br}Nhấn để trực tiếp hóa thân thành Lãnh chúa dạo bước quanh thị trấn ở góc nhìn người thứ ba.",
     "offset": 124062,
     "length": 111
   },
@@ -800,7 +800,7 @@
   {
     "key": "regional_wealth_descr",
     "en": "Amount of wealth owned by the residents of this <h>Region</>. It is the primary currency used in the <h>Trading Post</>, can be spent on a <img id=\"Extension\"/><h>Backyard Extension</> or converted to <img id=\"Treasury\"/><h>Treasury</> via the <h>Manor</> Taxes Panel.",
-    "vi": "Tổng của cải thuộc sở hữu của người dân trong <h>Vùng</> này. Đây là tiền tệ chính dùng tại <h>Trạm giao thương</>, có thể dùng để đầu tư <img id=\"Extension\"/><h>Tiện ích sân sau</> hoặc chuyển đổi thành <img id=\"Treasury\"/><h>Ngân khố Lãnh chúa</> qua Bảng thuế <h>Dinh thự</>.",
+    "vi": "Tổng của cải thuộc sở hữu của người dân trong <h>Vùng</> này. Đây là tiền tệ chính dùng tại <h>Trạm giao thương</>, có thể dùng để đầu tư <img id=\"Extension\"/> <h>Tiện ích sân sau</> hoặc chuyển đổi thành <img id=\"Treasury\"/> <h>Ngân khố Lãnh chúa</> qua Bảng thuế <h>Dinh thự</>.",
     "offset": 137045,
     "length": 269
   },
@@ -982,7 +982,7 @@
   {
     "key": "royal_tax_descr",
     "en": "This Tax will be collected from <img id=\"Treasury\"/><h>Treasury</>. Enable <h>Taxes</> via the <h>Manor</> to increase <img id=\"Treasury\"/><h>Treasury</>.",
-    "vi": "Thuế này sẽ được trích từ <img id=\"Treasury\"/><h>Ngân khố</>. Hãy ban hành <h>Thuế</> qua <h>Dinh thự</> để gia tăng <img id=\"Treasury\"/><h>Ngân khố</>.",
+    "vi": "Thuế này sẽ được trích từ <img id=\"Treasury\"/> <h>Ngân khố</>. Hãy ban hành <h>Thuế</> qua <h>Dinh thự</> để gia tăng <img id=\"Treasury\"/> <h>Ngân khố</>.",
     "offset": 184136,
     "length": 155
   },
@@ -1101,7 +1101,7 @@
   {
     "key": "tax_land_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</>.",
-    "vi": "Được trích thu từ <img id=\"ItemID_0\"/><h>Tài sản vùng</>.",
+    "vi": "Được trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</>.",
     "offset": 196557,
     "length": 58
   },
@@ -1115,7 +1115,7 @@
   {
     "key": "tax_tithe_descr",
     "en": "Percentage of surplus <img id=\"Food\"/><h>Food</> that is given to the <h>Church</> in return for <img id=\"Influence\"/><h>Influence</>.",
-    "vi": "Tỷ lệ phần trăm thặng dư <img id=\"Food\"/><h>Lương thực</> dâng cho <h>Giáo hội</> để đổi lấy <img id=\"Influence\"/><h>Uy danh</>.",
+    "vi": "Tỷ lệ phần trăm thặng dư <img id=\"Food\"/> <h>Lương thực</> dâng cho <h>Giáo hội</> để đổi lấy <img id=\"Influence\"/> <h>Uy danh</>.",
     "offset": 198915,
     "length": 135
   },
@@ -1129,7 +1129,7 @@
   {
     "key": "tax_merc_descr",
     "en": "Amount raised from <img id=\"ItemID_0\"/><h>Regional Wealth</> to cover hiring of <h>Mercenary Companies</> . Won't cause loss of <img id=\"Approval\"/><h>APPROVAL</> as long as mercenaries are actually employed.",
-    "vi": "Khoản tiền trích từ <img id=\"ItemID_0\"/><h>Tài sản vùng</> để trang trải chi phí thuê <h>Lính đánh thuê</>. Sẽ không làm giảm <img id=\"Approval\"/><h>LÒNG DÂN</> miễn là lính đánh thuê thực sự đang được sử dụng.",
+    "vi": "Khoản tiền trích từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> để trang trải chi phí thuê <h>Lính đánh thuê</>. Sẽ không làm giảm <img id=\"Approval\"/> <h>LÒNG DÂN</> miễn là lính đánh thuê thực sự đang được sử dụng.",
     "offset": 203497,
     "length": 209
   },
@@ -1143,7 +1143,7 @@
   {
     "key": "tax_trade_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> for every transaction with a visiting <h>Travelling Merchant</>.",
-    "vi": "Trích thu từ <img id=\"ItemID_0\"/><h>Tài sản vùng</> cho mỗi giao dịch với <h>Thương nhân</>.",
+    "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> cho mỗi giao dịch với <h>Thương nhân</>.",
     "offset": 211362,
     "length": 122
   },
@@ -1157,7 +1157,7 @@
   {
     "key": "tax_mill_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> every time the mill grounds 100 <img id=\"ItemID_1\"/><h>Grain</> into <img id=\"ItemID_5\"/><h>Flour</>.",
-    "vi": "Trích thu từ <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi khi cối xay nghiền 100 <img id=\"ItemID_1\"/><h>Hạt ngũ cốc</> thành <img id=\"ItemID_5\"/><h>Bột mì</>.",
+    "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> mỗi khi cối xay nghiền 100 <img id=\"ItemID_1\"/> <h>Hạt ngũ cốc</> thành <img id=\"ItemID_5\"/> <h>Bột mì</>.",
     "offset": 215894,
     "length": 159
   },
@@ -1178,14 +1178,14 @@
   {
     "key": "tax_citizen_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</>, calculated only per <h>Burgage Plot of Lvl3 and above</>.",
-    "vi": "Trích thu từ <img id=\"ItemID_0\"/><h>Tài sản vùng</>, chỉ tính trên mỗi <h>Nhà dân Cấp 3 trở lên</>.",
+    "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</>, chỉ tính trên mỗi <h>Nhà dân Cấp 3 trở lên</>.",
     "offset": 222724,
     "length": 116
   },
   {
     "key": "tax_war_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> if the player is in an official state of <h>War</>.",
-    "vi": "Trích thu từ <img id=\"ItemID_0\"/><h>Tài sản vùng</> nếu người chơi đang trong tình trạng <h>Chiến tranh</> chính thức.",
+    "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> nếu người chơi đang trong tình trạng <h>Chiến tranh</> chính thức.",
     "offset": 226821,
     "length": 109
   },
@@ -1395,7 +1395,7 @@
   {
     "key": "fuel_reserves_descr",
     "en": "Workers will deliver <img id=\"Fuel\"/><h>Fuel</> equal to the Fuel Stockpile, mitigating the need to wait for a delivery when it runs out, increasing efficiency.",
-    "vi": "Nhân công sẽ chuyển <img id=\"Fuel\"/><h>Chất đốt</> tích lũy sẵn vào kho, tránh việc phải đợi vận chuyển khi cạn kiệt, giúp tăng năng suất.",
+    "vi": "Nhân công sẽ chuyển <img id=\"Fuel\"/> <h>Chất đốt</> tích lũy sẵn vào kho, tránh việc phải đợi vận chuyển khi cạn kiệt, giúp tăng năng suất.",
     "offset": 255996,
     "length": 161
   },
@@ -2333,7 +2333,7 @@
   {
     "key": "stat_missileBlock",
     "en": "Shield",
-    "vi": "Chắn khiên",
+    "vi": "Khiên chắn",
     "offset": 386695,
     "length": 7
   },
@@ -2648,21 +2648,21 @@
   {
     "key": "threshing_priority_0_descr",
     "en": "Assigned <img id=\"Worker\"/><h>Families</> will prioritize all other tasks over threshing.",
-    "vi": "<img id=\"Worker\"/><h>Gia đình</> sẽ ưu tiên mọi việc khác trước khi đập lúa.",
+    "vi": "<img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên mọi việc khác trước khi đập lúa.",
     "offset": 442307,
     "length": 90
   },
   {
     "key": "threshing_priority_1_descr",
     "en": "A quarter of assigned <img id=\"Worker\"/><h>Families</> will prioritize threshing over plowing or sowing.",
-    "vi": "Một phần tư số <img id=\"Worker\"/><h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
+    "vi": "Một phần tư số <img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
     "offset": 445541,
     "length": 105
   },
   {
     "key": "threshing_priority_2_descr",
     "en": "All assigned <img id=\"Worker\"/><h>Families</> will prioritize threshing over plowing or sowing.",
-    "vi": "Toàn bộ <img id=\"Worker\"/><h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
+    "vi": "Toàn bộ <img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
     "offset": 449336,
     "length": 96
   },
@@ -2753,7 +2753,7 @@
   {
     "key": "allow_stalls_descr",
     "en": "Allow <h>Assigned</> <img id=\"Worker\"/><h>Families</> to set up <img id=\"Stall\"/><h>Market Stalls</> to distribute resources from their <h>Workplace</>.",
-    "vi": "Cho phép các <img id=\"Worker\"/><h>Gia đình</> được <h>Phân công</> mở <img id=\"Stall\"/><h>Sạp hàng</> để phân phối hàng hóa từ <h>Nơi làm việc</> của họ.",
+    "vi": "Cho phép các <img id=\"Worker\"/> <h>Gia đình</> được <h>Phân công</> mở <img id=\"Stall\"/> <h>Sạp hàng</> để phân phối hàng hóa từ <h>Nơi làm việc</> của họ.",
     "offset": 466009,
     "length": 153
   },
@@ -2795,7 +2795,7 @@
   {
     "key": "market_supply_descr",
     "en": "Each <img id=\"worker\"/><h>Family</> assigned to a <img id=\"GenericStorage\"/><h>Storehouse</> or <img id=\"Pantry\"/><h>Granary</> will create one <img id=\"Stall\"/><h>Market Stall</> at an available <h>Marketplace</>, increasing it's <h>Supply Capacity</>. {br}{br}These <img id=\"worker\"/><h>Families</> fill their <img id=\"Stall\"/><h>Market Stalls</> with the goods required by nearby <img id=\"house\"/><h>Burgage Plots</>.",
-    "vi": "Mỗi <img id=\"worker\"/><h>Gia đình</> được phân công vào <img id=\"GenericStorage\"/><h>Kho vật tư</> hoặc <img id=\"Pantry\"/><h>Kho lương thực</> sẽ mở một <img id=\"Stall\"/><h>Sạp hàng</> tại một <h>Khu chợ</> khả dụng, giúp gia tăng <h>Năng lực cung ứng</>.{br}{br}Các <img id=\"worker\"/><h>Gia đình</> này sẽ chuyển hàng hóa cần thiết ra <img id=\"Stall\"/><h>Sạp hàng</> để cung cấp cho các <img id=\"house\"/><h>Nhà dân</> lân cận.",
+    "vi": "Mỗi <img id=\"worker\"/> <h>Gia đình</> được phân công vào <img id=\"GenericStorage\"/> <h>Kho vật tư</> hoặc <img id=\"Pantry\"/> <h>Kho lương thực</> sẽ mở một <img id=\"Stall\"/> <h>Sạp hàng</> tại một <h>Khu chợ</> khả dụng, giúp gia tăng <h>Năng lực cung ứng</>.{br}{br}Các <img id=\"worker\"/> <h>Gia đình</> này sẽ chuyển hàng hóa cần thiết ra <img id=\"Stall\"/> <h>Sạp hàng</> để cung cấp cho các <img id=\"house\"/> <h>Nhà dân</> lân cận.",
     "offset": 494359,
     "length": 421
   },
@@ -2872,7 +2872,7 @@
   {
     "key": "refuelling_descr",
     "en": "This building requires <img id=\"Fuel\"/><h>Fuel</> to be delivered once per month in order to function. Adding a <h>Fuel Stockpile</> mitigates the need to wait for a delivery when it runs out, increasing efficiency.",
-    "vi": "Công trình này cần được cung cấp <img id=\"Fuel\"/><h>Chất đốt</> mỗi tháng một lần để hoạt động. Thêm một <h>Kho dự trữ chất đốt</> sẽ giúp tránh tình trạng gián đoạn chờ vận chuyển khi hết củi, nâng cao hiệu suất.",
+    "vi": "Công trình này cần được cung cấp <img id=\"Fuel\"/> <h>Chất đốt</> mỗi tháng một lần để hoạt động. Thêm một <h>Kho dự trữ chất đốt</> sẽ giúp tránh tình trạng gián đoạn chờ vận chuyển khi hết củi, nâng cao hiệu suất.",
     "offset": 543755,
     "length": 216
   },
@@ -2942,7 +2942,7 @@
   {
     "key": "aleSupply",
     "en": "Entertainment Supply",
-    "vi": "Nguồn cung Giải trí (Bia Ale)",
+    "vi": "Nguồn cung Giải trí (Bia mạch nha)",
     "offset": 566647,
     "length": 21
   },
@@ -2963,7 +2963,7 @@
   {
     "key": "burgage_plots_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for <img id=\"Worker\"/><h>Families</>.{br}Consumes 1 <img id=\"Fuel\"/><h>Fuel</> per month when occupied.",
-    "vi": "Cung cấp <img id=\"LivingSpace\"/><h>Chỗ ở</> cho các <img id=\"Worker\"/><h>Gia đình</>.{br}Tiêu thụ 1 <img id=\"Fuel\"/><h>Chất đốt</> mỗi tháng khi có người ở.",
+    "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho các <img id=\"Worker\"/> <h>Gia đình</>.{br}Tiêu thụ 1 <img id=\"Fuel\"/> <h>Chất đốt</> mỗi tháng khi có người ở.",
     "offset": 568153,
     "length": 155
   },
@@ -2977,7 +2977,7 @@
   {
     "key": "overstock_amt_descr",
     "en": "Workers will deliver extra resources as if they were supplying more <img ID=\"house\"/><h>Burgage Plots</> than currently exist. This may help reduce supply fluctuations caused by lengthy logistics travel times in large towns.",
-    "vi": "Nhân công sẽ chuyển thêm hàng hóa vượt quá số lượng <img ID=\"house\"/><h>Nhà dân</> hiện có. Điều này giúp giảm thiểu biến động thiếu hụt hàng hóa do quãng đường vận chuyển xa trong các thị trấn lớn.",
+    "vi": "Nhân công sẽ chuyển thêm hàng hóa vượt quá số lượng <img ID=\"house\"/> <h>Nhà dân</> hiện có. Điều này giúp giảm thiểu biến động thiếu hụt hàng hóa do quãng đường vận chuyển xa trong các thị trấn lớn.",
     "offset": 574209,
     "length": 225
   },
@@ -3145,14 +3145,14 @@
   {
     "key": "trade_desired_surplus_no_traderoute",
     "en": "<h>Major Trades</> require a <img id=\"traderoute\"/><h>Trade Route</> to be established to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
-    "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/><h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/><h>Giao thương Ngoại bang</>.",
+    "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
     "offset": 598047,
     "length": 138
   },
   {
     "key": "trade_requires_established_route",
     "en": "<h>Major Trades</> require a <img id=\"traderoute\"/><h>Trade Route</> to be established to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
-    "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/><h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/><h>Giao thương Ngoại bang</>.",
+    "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
     "offset": 602932,
     "length": 138
   },
@@ -3187,7 +3187,7 @@
   {
     "key": "trade_allow_foreign_trade_descr",
     "en": "Allow <img id=\"Merchant\"/><h>Travelling Merchants</> to trade this resource in exchange for <img id=\"itemID_0\"/><h>Regional Wealth</>. {br}{br}<i>When unchecked, Trade will occur between your occupied Regions provided they have set the appropriate Trade Rule, Desired Surplus and have the required Regional Wealth.</>",
-    "vi": "Cho phép <img id=\"Merchant\"/><h>Thương nhân</> mua bán mặt hàng này để đổi lấy <img id=\"itemID_0\"/><h>Tài sản vùng</>.{br}{br}<i>Khi bỏ chọn, giao thương sẽ chuyển sang luân chuyển nội bộ giữa các Vùng đất dưới quyền của bạn (miễn là đã cài đặt Quy tắc giao thương và Thặng dư mong muốn tương ứng).</>",
+    "vi": "Cho phép <img id=\"Merchant\"/> <h>Thương nhân</> mua bán mặt hàng này để đổi lấy <img id=\"itemID_0\"/> <h>Tài sản vùng</>.{br}{br}<i>Khi bỏ chọn, giao thương sẽ chuyển sang luân chuyển nội bộ giữa các Vùng đất dưới quyền của bạn (miễn là đã cài đặt Quy tắc giao thương và Thặng dư mong muốn tương ứng).</>",
     "offset": 609900,
     "length": 318
   },
@@ -3264,14 +3264,14 @@
   {
     "key": "trade_goods_minor_descr",
     "en": "Does not require a <img id=\"traderoute\"/><h>Trade Route</> to be established.",
-    "vi": "Không yêu cầu phải mở <img id=\"traderoute\"/><h>Tuyến Giao thương</>.",
+    "vi": "Không yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</>.",
     "offset": 625929,
     "length": 78
   },
   {
     "key": "trade_goods_major_descr",
     "en": "Requires a <img id=\"traderoute\"/><h>Trade Route</> to be established{br}to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
-    "vi": "Yêu cầu phải mở <img id=\"traderoute\"/><h>Tuyến Giao thương</>{br}để kích hoạt <img id=\"merchant\"/><h>Giao thương Ngoại bang</>.",
+    "vi": "Yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> {br}để kích hoạt <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
     "offset": 628171,
     "length": 123
   },
@@ -3453,7 +3453,7 @@
   {
     "key": "transaction_offMap",
     "en": "</><img id=\"Tradepoint\"/> <b>Tradepoint</><h>",
-    "vi": "</><img id=\"Tradepoint\"/> <b>Điểm Giao thương</><h>",
+    "vi": "</> <img id=\"Tradepoint\"/> <b>Điểm Giao thương</><h>",
     "offset": 665454,
     "length": 46
   },
@@ -3544,7 +3544,7 @@
   {
     "key": "trade_route_establish_descr",
     "en": "After paying to establish a <img id=\"traderoute\"/><h>Trade Route</>, a dedicated <img id=\"merchant\"/><h>Travelling Merchant</> will regularly visit your <h>Region</> to <h>Trade</> this specific type of good, increasing the frequency of transactions. {br}{br}<img id=\"warn\"/>With each <img id=\"traderoute\"/><h>Trade Route</> established, the cost of additional routes are increased.{br}{br}<i>Goods considered Major Trades require a Trade Route to be established.</>",
-    "vi": "Sau khi chi tiền mở <img id=\"traderoute\"/><h>Tuyến Giao thương</>, một <img id=\"merchant\"/><h>Thương nhân</> chuyên trách sẽ thường xuyên ghé thăm <h>Vùng</> của bạn để <h>Giao thương</> riêng mặt hàng này, giúp tăng tần suất giao dịch.{br}{br}<img id=\"warn\"/>Với mỗi <img id=\"traderoute\"/><h>Tuyến Giao thương</> được mở, chi phí mở các tuyến tiếp theo sẽ gia tăng.{br}{br}<i>Các mặt hàng Giao dịch lớn yêu cầu phải mở Tuyến Giao thương mới có thể mua bán.</>",
+    "vi": "Sau khi chi tiền mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</>, một <img id=\"merchant\"/> <h>Thương nhân</> chuyên trách sẽ thường xuyên ghé thăm <h>Vùng</> của bạn để <h>Giao thương</> riêng mặt hàng này, giúp tăng tần suất giao dịch.{br}{br}<img id=\"warn\"/> Với mỗi <img id=\"traderoute\"/> <h>Tuyến Giao thương</> được mở, chi phí mở các tuyến tiếp theo sẽ gia tăng.{br}{br}<i>Các mặt hàng Giao dịch lớn yêu cầu phải mở Tuyến Giao thương mới có thể mua bán.</>",
     "offset": 672007,
     "length": 467
   },
@@ -3964,7 +3964,7 @@
   {
     "key": "tariff_warning",
     "en": "<i>Foreign Import price Tariff: +10 </><img id=\"ItemID_0\"/>.",
-    "vi": "<i>Thuế quan Nhập khẩu Ngoại bang: +10 </><img id=\"ItemID_0\"/>.",
+    "vi": "<i>Thuế quan Nhập khẩu Ngoại bang: +10</> <img id=\"ItemID_0\"/> .",
     "offset": 756306,
     "length": 61
   },

@@ -9,7 +9,7 @@
   {
     "key": "problemID_0_descr",
     "en": "People require <img id=\"Food\"/><h>Food</> or they might <r>starve</>.",
-    "vi": "Dân làng cần có <img id=\"Food\"/><h>Lương thực</>, nếu không họ sẽ <r>chết đói</>.",
+    "vi": "Dân làng cần có <img id=\"Food\"/> <h>Lương thực</>, nếu không họ sẽ <r>chết đói</>.",
     "offset": 252,
     "length": 70
   },
@@ -23,7 +23,7 @@
   {
     "key": "problemID_1_descr",
     "en": "People require <img id=\"Fuel\"/><h>Fuel</> and a <img id=\"house\"/><h>Burgage Plot</> to live in, or they might <r>freeze to death.</>",
-    "vi": "Dân làng cần <img id=\"Fuel\"/><h>Chất đốt</> và một căn <img id=\"house\"/><h>Nhà dân</> để ở, nếu không họ sẽ <r>chết cóng</>.",
+    "vi": "Dân làng cần <img id=\"Fuel\"/> <h>Chất đốt</> và một căn <img id=\"house\"/> <h>Nhà dân</> để ở, nếu không họ sẽ <r>chết cóng</>.",
     "offset": 2980,
     "length": 133
   },
@@ -86,7 +86,7 @@
   {
     "key": "problemID_18_descr",
     "en": "These people wait for more <img id=\"house\"/><h>Burgage Plots</>. {br}{br}Homeless Families cause a loss of <img id=\"Approval\"/><h>Approval</>, may potentially <r>freeze</> during Winter and may not be raised as part of Militia units.",
-    "vi": "Những người này đang chờ xây thêm <img id=\"house\"/><h>Nhà dân</>. {br}{br}Hộ dân vô gia cư sẽ làm tụt <img id=\"Approval\"/><h>Lòng dân</>, có nguy cơ <r>chết cóng</> vào mùa đông và không thể tòng quân vào Dân quân.",
+    "vi": "Những người này đang chờ xây thêm <img id=\"house\"/> <h>Nhà dân</>. {br}{br}Hộ dân vô gia cư sẽ làm tụt <img id=\"Approval\"/> <h>Lòng dân</>, có nguy cơ <r>chết cóng</> vào mùa đông và không thể tòng quân vào Dân quân.",
     "offset": 18567,
     "length": 234
   },
@@ -100,7 +100,7 @@
   {
     "key": "problemID_20_descr",
     "en": "By upgrading a <img id=\"house\"/><h>Burgage Plot</>, you increase the potential for more <h>Artisan Professions</>, <img id=\"ItemID_0\"/><h>Regional Wealth</>, <img id=\"LivingSpace\"/><h>Living Space</> and gain opportunities to increase <img id=\"Approval\"/><h>Approval</> by fulfilling more demanding <img id=\"Requirements\"/><h>Residential Requirements</>.",
-    "vi": "Nâng cấp <img id=\"house\"/><h>Nhà dân</> giúp mở khóa các <h>Xưởng thủ công</>, tăng <img id=\"ItemID_0\"/><h>Tài sản vùng</>, tăng <img id=\"LivingSpace\"/><h>Chỗ ở</> và có cơ hội nâng cao <img id=\"Approval\"/><h>Lòng dân</> khi đáp ứng các <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</> cao hơn.",
+    "vi": "Nâng cấp <img id=\"house\"/> <h>Nhà dân</> giúp mở khóa các <h>Xưởng thủ công</>, tăng <img id=\"ItemID_0\"/> <h>Tài sản vùng</>, tăng <img id=\"LivingSpace\"/> <h>Chỗ ở</> và có cơ hội nâng cao <img id=\"Approval\"/> <h>Lòng dân</> khi đáp ứng các <img id=\"Requirements\"/> <h>Nhu cầu của Dân làng</> cao hơn.",
     "offset": 27766,
     "length": 355
   },
@@ -114,7 +114,7 @@
   {
     "key": "problemID_22_descr",
     "en": "This settlement either needs more <img id=\"Food\"/><h>Food</>, or more <img id=\"Fuel\"/><h>Fuel</>. Check the <img id=\"Supplies\"/><h>Supplies</> tooltip for more details.",
-    "vi": "Khu định cư này đang thiếu <img id=\"Food\"/><h>Lương thực</> hoặc thiếu <img id=\"Fuel\"/><h>Chất đốt</>. Xem bảng chú giải <img id=\"Supplies\"/><h>Đồ tiếp tế</> để biết thêm chi tiết.",
+    "vi": "Khu định cư này đang thiếu <img id=\"Food\"/> <h>Lương thực</> hoặc thiếu <img id=\"Fuel\"/> <h>Chất đốt</>. Xem bảng chú giải <img id=\"Supplies\"/> <h>Đồ tiếp tế</> để biết thêm chi tiết.",
     "offset": 40408,
     "length": 169
   },
@@ -128,7 +128,7 @@
   {
     "key": "problemID_24_descr",
     "en": "People request a <h>Well</>. If not provided, it will cause a loss of <img id=\"Approval\"/><h>Approval</>.",
-    "vi": "Dân làng đang cần một chiếc <h>Giếng nước</>. Nếu không đáp ứng, điểm <img id=\"Approval\"/><h>Lòng dân</> sẽ bị tụt giảm.",
+    "vi": "Dân làng đang cần một chiếc <h>Giếng nước</>. Nếu không đáp ứng, điểm <img id=\"Approval\"/> <h>Lòng dân</> sẽ bị tụt giảm.",
     "offset": 47253,
     "length": 106
   },
@@ -170,7 +170,7 @@
   {
     "key": "problemID_27_descr",
     "en": "A <img id=\"extension\"/><h>Backyard Extension</> allows <img id=\"worker\"/><h>Families</> to produce additional resources, or specialize and become <h>Artisans</> with dedicated, highly skilled professions.",
-    "vi": "<img id=\"extension\"/><h>Xưởng/vườn sân sau</> cho phép <img id=\"worker\"/><h>Hộ dân</> sản xuất thêm tài nguyên hoặc chuyên môn hóa trở thành <h>Thợ thủ công</> lành nghề.",
+    "vi": "<img id=\"extension\"/> <h>Xưởng/vườn sân sau</> cho phép <img id=\"worker\"/> <h>Hộ dân</> sản xuất thêm tài nguyên hoặc chuyên môn hóa trở thành <h>Thợ thủ công</> lành nghề.",
     "offset": 58769,
     "length": 205
   },
@@ -212,7 +212,7 @@
   {
     "key": "problemID_31_descr",
     "en": "Excess goods need to be moved to a <img id=\"GenericStorage\"/><h>Storehouse</>. Otherwise, workers may stop production, and the overflowing storage is vulnerable to <r>weather damage</>.",
-    "vi": "Hàng hóa dư thừa cần chuyển vào <img id=\"GenericStorage\"/><h>Kho vật tư</>. Nếu không, thợ sẽ ngừng sản xuất và hàng để ngoài trời dễ bị <r>hư hại do thời tiết</>.",
+    "vi": "Hàng hóa dư thừa cần chuyển vào <img id=\"GenericStorage\"/> <h>Kho vật tư</>. Nếu không, thợ sẽ ngừng sản xuất và hàng để ngoài trời dễ bị <r>hư hại do thời tiết</>.",
     "offset": 73836,
     "length": 186
   },
@@ -226,7 +226,7 @@
   {
     "key": "problemID_32_descr",
     "en": "Excess food needs to be moved to a <img id=\"Pantry\"/><h>Granary</>. Otherwise, workers may stop production, and the overflowing storage is vulnerable to <r>weather damage</>.",
-    "vi": "Thức ăn dư thừa cần chuyển vào <img id=\"Pantry\"/><h>Kho lương thực</>. Nếu không, thợ sẽ ngừng sản xuất và thức ăn để ngoài trời dễ bị <r>hư hỏng, ôi thiu</>.",
+    "vi": "Thức ăn dư thừa cần chuyển vào <img id=\"Pantry\"/> <h>Kho lương thực</>. Nếu không, thợ sẽ ngừng sản xuất và thức ăn để ngoài trời dễ bị <r>hư hỏng, ôi thiu</>.",
     "offset": 81058,
     "length": 175
   },
@@ -240,7 +240,7 @@
   {
     "key": "problemID_33_descr",
     "en": "Goods stored here are vulnerable to <r>weather damage</> and need to be moved to a <img id=\"GenericStorage\"/><h>Storehouse</>.",
-    "vi": "Hàng hóa để ở đây dễ bị <r>hư hại do thời tiết</> và cần được chuyển gấp vào <img id=\"GenericStorage\"/><h>Kho vật tư</>.",
+    "vi": "Hàng hóa để ở đây dễ bị <r>hư hại do thời tiết</> và cần được chuyển gấp vào <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
     "offset": 88504,
     "length": 127
   },
@@ -254,7 +254,7 @@
   {
     "key": "problemID_34_descr",
     "en": "Goods stored here are vulnerable to <r>weather damage</> and may <r>spoil</> more easily. They need to be moved to a <img id=\"Pantry\"/><h>Granary</>.",
-    "vi": "Lương thực để ở đây dễ bị <r>hư hại do thời tiết</> và rất nhanh <r>ôi thiu</>. Cần chuyển gấp vào <img id=\"Pantry\"/><h>Kho lương thực</>.",
+    "vi": "Lương thực để ở đây dễ bị <r>hư hại do thời tiết</> và rất nhanh <r>ôi thiu</>. Cần chuyển gấp vào <img id=\"Pantry\"/> <h>Kho lương thực</>.",
     "offset": 93822,
     "length": 150
   },
@@ -303,7 +303,7 @@
   {
     "key": "problemID_39_descr",
     "en": "This <img id=\"house\"/><h>Burgage Plots</> is causing a loss of <img id=\"Approval\"/><h>Approval</>. Check it's <h>Residential Requirements</> for details.",
-    "vi": "<img id=\"house\"/><h>Nhà dân</> này đang làm sụt giảm <img id=\"Approval\"/><h>Lòng dân</>. Hãy kiểm tra mục <h>Nhu cầu của Dân làng</> để biết chi tiết.",
+    "vi": "<img id=\"house\"/> <h>Nhà dân</> này đang làm sụt giảm <img id=\"Approval\"/> <h>Lòng dân</>. Hãy kiểm tra mục <h>Nhu cầu của Dân làng</> để biết chi tiết.",
     "offset": 106635,
     "length": 154
   },
@@ -317,7 +317,7 @@
   {
     "key": "problemID_40_descr",
     "en": "Unassign at least one <img id=\"worker\"/><h>Family</> from their workplace so that they can take over the construction.",
-    "vi": "Hãy rút bớt ít nhất một <img id=\"worker\"/><h>Hộ dân</> khỏi chỗ làm việc để họ rảnh tay đi thi công công trình.",
+    "vi": "Hãy rút bớt ít nhất một <img id=\"worker\"/> <h>Hộ dân</> khỏi chỗ làm việc để họ rảnh tay đi thi công công trình.",
     "offset": 113565,
     "length": 119
   },
@@ -345,7 +345,7 @@
   {
     "key": "problemID_42_descr",
     "en": "Try assigning more <img id=\"worker\"><h>Families</> to <img id=\"GenericStorage\"/><h>Storehouse</> or <img id=\"Pantry\"/><h>Granary</>  to improve your <h>Marketplace</> logistics.",
-    "vi": "Hãy phân công thêm <img id=\"worker\"><h>Hộ dân</> vào <img id=\"GenericStorage\"/><h>Kho vật tư</> hoặc <img id=\"Pantry\"/><h>Kho lương thực</> để cải thiện việc cung ứng hàng hóa ra <h>Khu chợ</>.",
+    "vi": "Hãy phân công thêm <img id=\"worker\"><h>Hộ dân</> vào <img id=\"GenericStorage\"/> <h>Kho vật tư</> hoặc <img id=\"Pantry\"/> <h>Kho lương thực</> để cải thiện việc cung ứng hàng hóa ra <h>Khu chợ</>.",
     "offset": 120138,
     "length": 178
   },

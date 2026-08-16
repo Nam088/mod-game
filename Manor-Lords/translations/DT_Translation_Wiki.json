@@ -23,7 +23,7 @@
   {
     "key": "family_descr",
     "en": "<img id=\"worker\"/>Families are the backbone of your Settlement. They live mainly in <img id=\"house\"/>Burgage Plots and work as a single unit, though members may take on different tasks. For example, at a Trading Post, one member handles trades while others manage the stock.{br}{br}Each Family consumes 1 <img id=\"food\"/>Food per month. Depending on the level of their Burgage Plot, they may also consume Clothing, and if sick, they will consume <img id=\"ItemID_18\"/>Herbs.{br}{br}With a <img id=\"extension\"/>Backyard Extension, <img id=\"worker\"/>Family Members split their time between their <h>workplace</> and the backyard.{br}{br}Only Male members (husbands and sons) serve in the Militia.{br}{br}Families may also turn to Banditry if <img id=\"PublicOrder\"/>Public Order is low.",
-    "vi": "<img id=\"worker\"/>Các hộ gia đình là rường cột trong khu định cư của bạn. Họ sống chủ yếu trong các <img id=\"house\"/>Nhà dân và làm việc như một đơn vị thống nhất, dù các thành viên có thể đảm nhiệm những công việc khác nhau. Ví dụ, tại Trạm giao thương, một người phụ trách mua bán trong khi người khác quản lý kho bãi.{br}{br}Mỗi gia đình tiêu thụ 1 <img id=\"food\"/>Lương thực mỗi tháng. Tùy theo cấp độ Nhà dân, họ cũng có thể tiêu thụ Quần áo, và nếu đau ốm, họ sẽ dùng <img id=\"ItemID_18\"/>Thảo dược.{br}{br}Khi có <img id=\"extension\"/>Tiện ích sân sau, các <img id=\"worker\"/>Thành viên gia đình sẽ phân chia thời gian giữa <h>nơi làm việc</> và khu sân sau.{br}{br}Chỉ có nam giới (chồng và con trai) mới tham gia Dân quân.{br}{br}Các gia đình cũng có thể tha hóa đi làm Thảo khấu nếu <img id=\"PublicOrder\"/>Trật tự công cộng xuống thấp.",
+    "vi": "<img id=\"worker\"/> Các hộ gia đình là rường cột trong khu định cư của bạn. Họ sống chủ yếu trong các <img id=\"house\"/> Nhà dân và làm việc như một đơn vị thống nhất, dù các thành viên có thể đảm nhiệm những công việc khác nhau. Ví dụ, tại Trạm giao thương, một người phụ trách mua bán trong khi người khác quản lý kho bãi.{br}{br}Mỗi gia đình tiêu thụ 1 <img id=\"food\"/> Lương thực mỗi tháng. Tùy theo cấp độ Nhà dân, họ cũng có thể tiêu thụ Quần áo, và nếu đau ốm, họ sẽ dùng <img id=\"ItemID_18\"/> Thảo dược.{br}{br}Khi có <img id=\"extension\"/> Tiện ích sân sau, các <img id=\"worker\"/> Thành viên gia đình sẽ phân chia thời gian giữa <h>nơi làm việc</> và khu sân sau.{br}{br}Chỉ có nam giới (chồng và con trai) mới tham gia Dân quân.{br}{br}Các gia đình cũng có thể tha hóa đi làm Thảo khấu nếu <img id=\"PublicOrder\"/> Trật tự công cộng xuống thấp.",
     "offset": 14370,
     "length": 783
   },
@@ -51,7 +51,7 @@
   {
     "key": "storage_descr",
     "en": "There are 3 types of storage: <img id=\"GenericStorage\"/>Generic Storage for Materials, <img id=\"pantry\"/>Pantry for Foods and <img id=\"log\"/>Timber Storage. Different buildings have different storage limits for each category. {br}{br}When storage reaches its limits in Production Buildings, labor stops. If storage exceeds limits, Weather Damage may destroy resources. To avoid reaching or exceeding storage limits, make sure you have enough Storage buildings with enough Assigned Families.{br}{br}For <img id=\"GenericStorage\"/>Generic Storage Logistics, you need a <h>Storehouse</>. For <img id=\"pantry\"/>Pantry Storage Logistics, a <h>Granary</>, and for storing <img id=\"log\"/>Timber, a <h>Logging Camp</>.",
-    "vi": "Có 3 loại kho chứa: <img id=\"GenericStorage\"/>Kho chứa vật tư cho nguyên vật liệu, <img id=\"pantry\"/>Kho lương thực cho thực phẩm và <img id=\"log\"/>Bãi chứa gỗ cho gỗ khúc. Mỗi công trình có giới hạn sức chứa khác nhau cho từng loại.{br}{br}Khi kho chứa trong các công trình sản xuất bị đầy, nhân công sẽ ngừng làm việc. Nếu vượt quá sức chứa, thời tiết xấu có thể phá hủy tài nguyên. Để tránh tình trạng này, hãy đảm bảo bạn có đủ công trình kho bãi với đủ số gia đình được phân công.{br}{br}Để lưu trữ <img id=\"GenericStorage\"/>Vật tư, bạn cần <h>Kho vật tư</>. Để lưu trữ <img id=\"pantry\"/>Lương thực, bạn cần <h>Kho lương thực</>, và để chứa <img id=\"log\"/>Gỗ khúc, bạn cần <h>Trại đốn gỗ</>.",
+    "vi": "Có 3 loại kho chứa: <img id=\"GenericStorage\"/> Kho chứa vật tư cho nguyên vật liệu, <img id=\"pantry\"/> Kho lương thực cho thực phẩm và <img id=\"log\"/> Bãi chứa gỗ cho gỗ khúc. Mỗi công trình có giới hạn sức chứa khác nhau cho từng loại.{br}{br}Khi kho chứa trong các công trình sản xuất bị đầy, nhân công sẽ ngừng làm việc. Nếu vượt quá sức chứa, thời tiết xấu có thể phá hủy tài nguyên. Để tránh tình trạng này, hãy đảm bảo bạn có đủ công trình kho bãi với đủ số gia đình được phân công.{br}{br}Để lưu trữ <img id=\"GenericStorage\"/> Vật tư, bạn cần <h>Kho vật tư</>. Để lưu trữ <img id=\"pantry\"/> Lương thực, bạn cần <h>Kho lương thực</>, và để chứa <img id=\"log\"/> Gỗ khúc, bạn cần <h>Trại đốn gỗ</>.",
     "offset": 54853,
     "length": 710
   },
@@ -121,7 +121,7 @@
   {
     "key": "population_growth_descr",
     "en": "New <img id=\"worker\"/>Families may join the settlement if there is enough <img id=\"LivingSpace\"/>Living Space and <img id=\"Approval\"/>Approval is high enough. Conversely, they will leave the settlement if <img id=\"Approval\"/>Approval is low enough.",
-    "vi": "Các <img id=\"worker\"/>Gia đình mới có thể gia nhập khu định cư nếu có đủ <img id=\"LivingSpace\"/>Chỗ ở và <img id=\"Approval\"/>Lòng dân đủ cao. Ngược lại, họ sẽ rời bỏ khu định cư nếu <img id=\"Approval\"/>Lòng dân xuống quá thấp.",
+    "vi": "Các <img id=\"worker\"/> Gia đình mới có thể gia nhập khu định cư nếu có đủ <img id=\"LivingSpace\"/> Chỗ ở và <img id=\"Approval\"/> Lòng dân đủ cao. Ngược lại, họ sẽ rời bỏ khu định cư nếu <img id=\"Approval\"/> Lòng dân xuống quá thấp.",
     "offset": 104296,
     "length": 249
   },
@@ -163,7 +163,7 @@
   {
     "key": "region_descr",
     "en": "The game map is divided into multiple Regions. Each region is a separate economic entity that has it's own <img id=\"itemID_0\"/>Regional Wealth, Stock, Buildings, Taxes and <img id=\"worker\"/>Families. Regions can only exchange goods by Trade, either via the Pack Station or Trading Post. {br}{br}Neutral Regions may be claimed via <img id=\"Influence\"/>Influence and settled with the Settler's Camp and <img id=\"Treasury\"/>Treasury. Each Region can only be owned by a single Lord. Occupied Regions may be Claimed only after declaring War. If the Claim is successful, Lords have the option to defend their territory on the Battlefield.",
-    "vi": "Bản đồ trò chơi được chia thành nhiều Vùng đất. Mỗi vùng là một thực thể kinh tế độc lập có <img id=\"itemID_0\"/>Tài sản vùng, Tồn kho, Công trình, Thuế khóa và các <img id=\"worker\"/>Gia đình riêng. Các vùng chỉ có thể trao đổi hàng hóa qua Giao thương, thông qua Trạm đổi hàng hoặc Trạm giao thương.{br}{br}Các Vùng trung lập có thể được xác lập chủ quyền bằng <img id=\"Influence\"/>Uy danh và thành lập khu định cư bằng Trại định cư cùng <img id=\"Treasury\"/>Ngân khố. Mỗi Vùng chỉ có thể thuộc sở hữu của một Lãnh chúa duy nhất. Các Vùng đã có chủ chỉ có thể bị chiếm đoạt sau khi Tuyên chiến. Khi có yêu sách chủ quyền, các Lãnh chúa có thể lựa chọn bảo vệ lãnh thổ của mình trên Chiến trường.",
+    "vi": "Bản đồ trò chơi được chia thành nhiều Vùng đất. Mỗi vùng là một thực thể kinh tế độc lập có <img id=\"itemID_0\"/> Tài sản vùng, Tồn kho, Công trình, Thuế khóa và các <img id=\"worker\"/> Gia đình riêng. Các vùng chỉ có thể trao đổi hàng hóa qua Giao thương, thông qua Trạm đổi hàng hoặc Trạm giao thương.{br}{br}Các Vùng trung lập có thể được xác lập chủ quyền bằng <img id=\"Influence\"/> Uy danh và thành lập khu định cư bằng Trại định cư cùng <img id=\"Treasury\"/> Ngân khố. Mỗi Vùng chỉ có thể thuộc sở hữu của một Lãnh chúa duy nhất. Các Vùng đã có chủ chỉ có thể bị chiếm đoạt sau khi Tuyên chiến. Khi có yêu sách chủ quyền, các Lãnh chúa có thể lựa chọn bảo vệ lãnh thổ của mình trên Chiến trường.",
     "offset": 128911,
     "length": 633
   },
@@ -177,7 +177,7 @@
   {
     "key": "artisans_descr",
     "en": "Artisans are a type of <img id=\"worker\"/>Family who are permanently assigned to work at their home. {br}{br}A <img id=\"worker\"/>Family becomes an Artisan when a <img id=\"extension\"/>Workshop is built in the <h>Extension Slot</> of a Burgage Plot. {br}{br}Artisans can not be assigned to any other <h>workplace</> other than their own home, even if production in their home is paused.",
-    "vi": "Thợ thủ công là một dạng <img id=\"worker\"/>Gia đình được chỉ định làm việc vĩnh viễn tại nhà của họ.{br}{br}Một <img id=\"worker\"/>Gia đình trở thành Thợ thủ công khi một <img id=\"extension\"/>Xưởng thủ công được xây dựng trong <h>Ô Tiện ích</> của Nhà dân.{br}{br}Thợ thủ công không thể được phân công sang bất kỳ <h>nơi làm việc</> nào khác ngoài chính ngôi nhà của họ, ngay cả khi xưởng tại nhà tạm dừng sản xuất.",
+    "vi": "Thợ thủ công là một dạng <img id=\"worker\"/> Gia đình được chỉ định làm việc vĩnh viễn tại nhà của họ.{br}{br}Một <img id=\"worker\"/> Gia đình trở thành Thợ thủ công khi một <img id=\"extension\"/> Xưởng thủ công được xây dựng trong <h>Ô Tiện ích</> của Nhà dân.{br}{br}Thợ thủ công không thể được phân công sang bất kỳ <h>nơi làm việc</> nào khác ngoài chính ngôi nhà của họ, ngay cả khi xưởng tại nhà tạm dừng sản xuất.",
     "offset": 152136,
     "length": 384
   },
@@ -191,7 +191,7 @@
   {
     "key": "extension_slot_descr",
     "en": "Space in the backyard of any large <img id=\"house\"/>Burgage Plot which can be used to build a <img id=\"extension\"/>Backyard Extension or <img id=\"extension\"/>Workshop.",
-    "vi": "Không gian sân sau của các <img id=\"house\"/>Nhà dân có diện tích đủ lớn, dùng để xây <img id=\"extension\"/>Tiện ích sân sau hoặc <img id=\"extension\"/>Xưởng thủ công.",
+    "vi": "Không gian sân sau của các <img id=\"house\"/> Nhà dân có diện tích đủ lớn, dùng để xây <img id=\"extension\"/> Tiện ích sân sau hoặc <img id=\"extension\"/> Xưởng thủ công.",
     "offset": 165588,
     "length": 168
   },
@@ -205,7 +205,7 @@
   {
     "key": "retinue_descr",
     "en": "Professional soldiers in service of the Ruler and bound to the Region's <h>Manor</>. Usually lower nobles, Lord's family members or other member of the court. As long as the Manor has enough space (check <h>Manor<h> modules), you can hire new retainers using either <img id=\"Treasury\"/>Treasury, or buy required equipment from your settlement at a large discount.",
-    "vi": "Những chiến binh chuyên nghiệp phục vụ Lãnh chúa và gắn liền với <h>Dinh thự</> của Vùng. Họ thường là quý tộc cấp thấp, thành viên gia đình Lãnh chúa hoặc cận thần. Miễn là Dinh thự còn đủ chỗ (kiểm tra các mô-đun <h>Dinh thự<h>), bạn có thể chiêu mộ thêm lính cận vệ bằng <img id=\"Treasury\"/>Ngân khố, hoặc mua trang bị cần thiết từ khu định cư với giá ưu đãi lớn.",
+    "vi": "Những chiến binh chuyên nghiệp phục vụ Lãnh chúa và gắn liền với <h>Dinh thự</> của Vùng. Họ thường là quý tộc cấp thấp, thành viên gia đình Lãnh chúa hoặc cận thần. Miễn là Dinh thự còn đủ chỗ (kiểm tra các mô-đun <h>Dinh thự <h>), bạn có thể chiêu mộ thêm lính cận vệ bằng <img id=\"Treasury\"/> Ngân khố, hoặc mua trang bị cần thiết từ khu định cư với giá ưu đãi lớn.",
     "offset": 171644,
     "length": 364
   },
@@ -282,7 +282,7 @@
   {
     "key": "tradepoints_descr",
     "en": "<img id=\"Tradepoint\"/>Tradepoints are located on the edge of the playable game area. Your assigned <img id=\"worker\"/>Families at the Trading Post will export their goods to, or purchase goods from, their nearest <img id=\"Tradepoint\"/>Tradepoint. Imports through <img id=\"Tradepoint\"/>Tradepoints are subject to a tariff of 10 <img id=\"ItemID_0\"/>Regional Wealth.",
-    "vi": "<img id=\"Tradepoint\"/>Điểm giao thương nằm ở rìa khu vực bản đồ có thể chơi được. Các <img id=\"worker\"/>Gia đình được phân công tại Trạm giao thương sẽ xuất khẩu hàng hóa đến, hoặc mua hàng hóa từ <img id=\"Tradepoint\"/>Điểm giao thương gần nhất. Nhập khẩu qua các <img id=\"Tradepoint\"/>Điểm giao thương sẽ chịu mức thuế quan là 10 <img id=\"ItemID_0\"/>Tài sản vùng.",
+    "vi": "<img id=\"Tradepoint\"/> Điểm giao thương nằm ở rìa khu vực bản đồ có thể chơi được. Các <img id=\"worker\"/> Gia đình được phân công tại Trạm giao thương sẽ xuất khẩu hàng hóa đến, hoặc mua hàng hóa từ <img id=\"Tradepoint\"/> Điểm giao thương gần nhất. Nhập khẩu qua các <img id=\"Tradepoint\"/> Điểm giao thương sẽ chịu mức thuế quan là 10 <img id=\"ItemID_0\"/> Tài sản vùng.",
     "offset": 203165,
     "length": 363
   },
@@ -310,7 +310,7 @@
   {
     "key": "backyard_extension_descr",
     "en": "A <img id=\"extension\"/>Backyard Extension allows the <img id=\"worker\"/>Family living in the <img id=\"house\"/>Burgage Plot to produce additional resources. The <img id=\"worker\"/>Family living here will take additional time away from their Assigned Work when tending to their extension.{br}{br}<img id=\"vegetables\"/>Vegetable Gardens and <img id=\"fruits\"/>Orchards have increased Yield proportional to their <img id=\"extension\"/>Backyard Extension size, but will require more <img id=\"ItemID_0\"/>Regional Wealth to purchase, and more <img id=\"worker\"/>Families living at the residence to be able to work the plot sufficiently.{br}{br}Artisan Workshops such as a Baker or Blacksmith require the <img id=\"house\"/>Burgage Plot to be at least Lvl 2.",
-    "vi": "<img id=\"extension\"/>Tiện ích sân sau cho phép <img id=\"worker\"/>Gia đình sống trong <img id=\"house\"/>Nhà dân sản xuất thêm tài nguyên phụ. <img id=\"worker\"/>Gia đình sống tại đây sẽ phải dành thêm thời gian chăm sóc sân sau ngoài công việc chính được phân công.{br}{br}<img id=\"vegetables\"/>Vườn rau và <img id=\"fruits\"/>Vườn cây ăn quả sẽ tăng sản lượng tỷ lệ thuận với diện tích <img id=\"extension\"/>Sân sau, nhưng sẽ tốn nhiều <img id=\"ItemID_0\"/>Tài sản vùng hơn để đầu tư ban đầu, đồng thời cần nhiều <img id=\"worker\"/>Gia đình cùng sinh sống để canh tác hiệu quả.{br}{br}Các Xưởng thủ công như Lò bánh mì hay Lò rèn yêu cầu <img id=\"house\"/>Nhà dân phải đạt tối thiểu Cấp 2.",
+    "vi": "<img id=\"extension\"/> Tiện ích sân sau cho phép <img id=\"worker\"/> Gia đình sống trong <img id=\"house\"/> Nhà dân sản xuất thêm tài nguyên phụ. <img id=\"worker\"/> Gia đình sống tại đây sẽ phải dành thêm thời gian chăm sóc sân sau ngoài công việc chính được phân công.{br}{br}<img id=\"vegetables\"/> Vườn rau và <img id=\"fruits\"/> Vườn cây ăn quả sẽ tăng sản lượng tỷ lệ thuận với diện tích <img id=\"extension\"/> Sân sau, nhưng sẽ tốn nhiều <img id=\"ItemID_0\"/> Tài sản vùng hơn để đầu tư ban đầu, đồng thời cần nhiều <img id=\"worker\"/> Gia đình cùng sinh sống để canh tác hiệu quả.{br}{br}Các Xưởng thủ công như Lò bánh mì hay Lò rèn yêu cầu <img id=\"house\"/> Nhà dân phải đạt tối thiểu Cấp 2.",
     "offset": 270123,
     "length": 744
   },
@@ -352,7 +352,7 @@
   {
     "key": "public_order_descr",
     "en": "<img id=\"PublicOrder\"/>Public Order is a measure of the stability of your population in the Region. It may fall due to increased <img id=\"home\"/>Homelessness, Unemployment, lack of Administration and low <img id=\"Approval\"/>Approval. When it falls, it increases the chances of Residents turning to Banditry.",
-    "vi": "<img id=\"PublicOrder\"/>Trật tự công cộng là thước đo sự ổn định của người dân trong Vùng. Chỉ số này có thể sụt giảm do tình trạng <img id=\"home\"/>Vô gia cư, Thất nghiệp, thiếu năng lực Quản lý hành chính và <img id=\"Approval\"/>Lòng dân thấp. Khi trật tự giảm, nguy cơ dân làng biến thành Giặc cướp sẽ tăng cao.",
+    "vi": "<img id=\"PublicOrder\"/> Trật tự công cộng là thước đo sự ổn định của người dân trong Vùng. Chỉ số này có thể sụt giảm do tình trạng <img id=\"home\"/> Vô gia cư, Thất nghiệp, thiếu năng lực Quản lý hành chính và <img id=\"Approval\"/> Lòng dân thấp. Khi trật tự giảm, nguy cơ dân làng biến thành Giặc cướp sẽ tăng cao.",
     "offset": 305394,
     "length": 308
   },
@@ -366,7 +366,7 @@
   {
     "key": "living_space_descr",
     "en": "How many <img id=\"worker\"/>Families this Region can currently accommodate. To increase it, build or expand your <img id=\"house\"/>Burgage Plots.",
-    "vi": "Số lượng <img id=\"worker\"/>Gia đình mà Vùng này có thể tiếp nhận hiện tại. Để tăng sức chứa, hãy xây mới hoặc mở rộng các <img id=\"house\"/>Nhà dân.",
+    "vi": "Số lượng <img id=\"worker\"/> Gia đình mà Vùng này có thể tiếp nhận hiện tại. Để tăng sức chứa, hãy xây mới hoặc mở rộng các <img id=\"house\"/> Nhà dân.",
     "offset": 316372,
     "length": 144
   },
@@ -380,7 +380,7 @@
   {
     "key": "res_requirements_descr",
     "en": "Fulfilling <img id=\"Requirements\"/>Residential Requirements raises <img id=\"Approval\"/>Approval and allows for upgrading once all <img id=\"Requirements\"/>Requirements have been fulfilled. Upgrading a <img id=\"house\"/>Burgage Plot can increase <img id=\"ItemID_0\"/>Regional Wealth, unlock more types of <img id=\"extension\"/>Backyard Extensions and expand <img id=\"LivingSpace\"/>Living Space. {br}{br}The Amenities category can be considered optional to sustain your existing population, but failure to meet the Requirements of the Food and Commodities categories for too long can lead to <r>starvation</> and <r>freezing</>.",
-    "vi": "Đáp ứng các <img id=\"Requirements\"/>Nhu cầu nhà ở sẽ làm tăng <img id=\"Approval\"/>Lòng dân và cho phép nâng cấp khi đã thỏa mãn mọi <img id=\"Requirements\"/>Nhu cầu. Nâng cấp <img id=\"house\"/>Nhà dân giúp tăng <img id=\"ItemID_0\"/>Tài sản vùng, mở khóa thêm nhiều loại <img id=\"extension\"/>Tiện ích sân sau và mở rộng <img id=\"LivingSpace\"/>Không gian cư trú.{br}{br}Nhóm Tiện ích công cộng có thể xem là không bắt buộc để duy trì dân số hiện tại, nhưng nếu để thiếu hụt Nhu cầu Lương thực và Nhu yếu phẩm quá lâu sẽ dẫn đến việc dân làng bị <r>chết đói</> và <r>chết cóng</>.",
+    "vi": "Đáp ứng các <img id=\"Requirements\"/> Nhu cầu nhà ở sẽ làm tăng <img id=\"Approval\"/> Lòng dân và cho phép nâng cấp khi đã thỏa mãn mọi <img id=\"Requirements\"/> Nhu cầu. Nâng cấp <img id=\"house\"/> Nhà dân giúp tăng <img id=\"ItemID_0\"/> Tài sản vùng, mở khóa thêm nhiều loại <img id=\"extension\"/> Tiện ích sân sau và mở rộng <img id=\"LivingSpace\"/> Không gian cư trú.{br}{br}Nhóm Tiện ích công cộng có thể xem là không bắt buộc để duy trì dân số hiện tại, nhưng nếu để thiếu hụt Nhu cầu Lương thực và Nhu yếu phẩm quá lâu sẽ dẫn đến việc dân làng bị <r>chết đói</> và <r>chết cóng</>.",
     "offset": 322062,
     "length": 623
   },
@@ -394,7 +394,7 @@
   {
     "key": "travelling_merchants_descr",
     "en": "<img id=\"Merchant\"/>Travelling Merchants and <img id=\"LivestockMerchant\"/>Livestock Merchants will periodically enter the lands via <img id=\"Tradepoint\"/>Tradepoints and arrive at your Trading Post or Livestock Trading Post to exchange goods for <img id=\"ItemID_0\"/>Regional Wealth.",
-    "vi": "<img id=\"Merchant\"/>Thương nhân và <img id=\"LivestockMerchant\"/>Thương nhân gia súc sẽ định kỳ tiến vào lãnh thổ qua các <img id=\"Tradepoint\"/>Điểm giao thương và ghé vào Trạm giao thương hoặc Trạm buôn gia súc để trao đổi hàng hóa lấy <img id=\"ItemID_0\"/>Tài sản vùng.",
+    "vi": "<img id=\"Merchant\"/> Thương nhân và <img id=\"LivestockMerchant\"/> Thương nhân gia súc sẽ định kỳ tiến vào lãnh thổ qua các <img id=\"Tradepoint\"/> Điểm giao thương và ghé vào Trạm giao thương hoặc Trạm buôn gia súc để trao đổi hàng hóa lấy <img id=\"ItemID_0\"/> Tài sản vùng.",
     "offset": 343564,
     "length": 283
   },
@@ -408,7 +408,7 @@
   {
     "key": "taxation_descr",
     "en": "Taxation provides unique opportunities to earn <img id=\"Treasury\"/>Treasury and <img id=\"Influence\"/>Influence from your Residents and Economy. Tax Collection occurs at the beginning of the month and can have lasting negative effects.{br}{br}The Land Tax is collected from <img id=\"ItemID_0\"/>Regional Wealth. The higher the percentage taken, the more severe the loss of <img id=\"Approval\"/>Approval. However, fulfilling <img id=\"Requirements\"/>Residential Requirements can lessen the impact of the Land Tax on <img id=\"Approval\"/>Approval. Your Residents will not forget easily and will carry the negative to <img id=\"Approval\"/>Approval for several months, so it's advised to Tax a small amount more consistently, rather than a large one-off sum.{br}{br}The Tithe takes a percentage of your <h>Surplus</> <img id=\"Food\"/>Food and gives it to the Church in return for <img id=\"Influence\"/>Influence. It does not impact <img id=\"Approval\"/>Approval under normal circumstances.",
-    "vi": "Chính sách Thuế mang lại cơ hội tạo ra <img id=\"Treasury\"/>Ngân khố và <img id=\"Influence\"/>Uy danh từ Thần dân và Nền kinh tế của bạn. Việc thu thuế diễn ra vào đầu mỗi tháng và có thể để lại những ảnh hưởng tiêu cực kéo dài.{br}{br}Thuế đất được trích từ <img id=\"ItemID_0\"/>Tài sản vùng. Tỷ lệ phần trăm thu càng cao thì mức giảm <img id=\"Approval\"/>Lòng dân càng nghiêm trọng. Tuy nhiên, việc đáp ứng các <img id=\"Requirements\"/>Nhu cầu nhà ở có thể giảm bớt tác động tiêu cực của Thuế đất lên <img id=\"Approval\"/>Lòng dân. Thần dân sẽ không dễ dàng quên đi và sẽ bị giảm <img id=\"Approval\"/>Lòng dân trong nhiều tháng, vì vậy bạn nên đánh thuế ở mức vừa phải và đều đặn thay vì thu một khoản lớn đột ngột.{br}{br}Thuế Thập phân trích một phần trăm <h>Lương thực Thặng dư</> <img id=\"Food\"/> dâng cho Giáo hội để đổi lấy <img id=\"Influence\"/>Uy danh. Thuế này trong điều kiện bình thường không làm ảnh hưởng đến <img id=\"Approval\"/>Lòng dân.",
+    "vi": "Chính sách Thuế mang lại cơ hội tạo ra <img id=\"Treasury\"/> Ngân khố và <img id=\"Influence\"/> Uy danh từ Thần dân và Nền kinh tế của bạn. Việc thu thuế diễn ra vào đầu mỗi tháng và có thể để lại những ảnh hưởng tiêu cực kéo dài.{br}{br}Thuế đất được trích từ <img id=\"ItemID_0\"/> Tài sản vùng. Tỷ lệ phần trăm thu càng cao thì mức giảm <img id=\"Approval\"/> Lòng dân càng nghiêm trọng. Tuy nhiên, việc đáp ứng các <img id=\"Requirements\"/> Nhu cầu nhà ở có thể giảm bớt tác động tiêu cực của Thuế đất lên <img id=\"Approval\"/> Lòng dân. Thần dân sẽ không dễ dàng quên đi và sẽ bị giảm <img id=\"Approval\"/> Lòng dân trong nhiều tháng, vì vậy bạn nên đánh thuế ở mức vừa phải và đều đặn thay vì thu một khoản lớn đột ngột.{br}{br}Thuế Thập phân trích một phần trăm <h>Lương thực Thặng dư</> <img id=\"Food\"/> dâng cho Giáo hội để đổi lấy <img id=\"Influence\"/> Uy danh. Thuế này trong điều kiện bình thường không làm ảnh hưởng đến <img id=\"Approval\"/> Lòng dân.",
     "offset": 353358,
     "length": 977
   },
@@ -429,7 +429,7 @@
   {
     "key": "approval_descr",
     "en": "<img id=\"Approval\"/>Approval is a measure of how your people feel towards your rule. It is primarily increased by fulfilling <img id=\"Requirements\"/>Residential Requirements, and is decreased by allowing your villagers to go hungry, become cold or die. As <img id=\"Approval\"/>Approval increases or decreases your status amongst the people changes, and with it comes positive or negative effects for your Settlement, such as increased Growth or a reduction in Taxes.",
-    "vi": "<img id=\"Approval\"/>Lòng dân là thước đo cảm nhận của thần dân đối với sự cai trị của bạn. Chỉ số này chủ yếu tăng lên khi đáp ứng các <img id=\"Requirements\"/>Nhu cầu nhà ở, và giảm đi khi để dân làng chịu đói, chịu rét hoặc tử vong. Khi <img id=\"Approval\"/>Lòng dân thay đổi, vị thế của bạn trong lòng dân chúng cũng thay đổi theo, mang lại các hiệu ứng tích cực hoặc tiêu cực cho Khu định cư như Tăng trưởng dân số nhanh hơn hoặc được giảm bớt gánh nặng tiền thuế.",
+    "vi": "<img id=\"Approval\"/> Lòng dân là thước đo cảm nhận của thần dân đối với sự cai trị của bạn. Chỉ số này chủ yếu tăng lên khi đáp ứng các <img id=\"Requirements\"/> Nhu cầu nhà ở, và giảm đi khi để dân làng chịu đói, chịu rét hoặc tử vong. Khi <img id=\"Approval\"/> Lòng dân thay đổi, vị thế của bạn trong lòng dân chúng cũng thay đổi theo, mang lại các hiệu ứng tích cực hoặc tiêu cực cho Khu định cư như Tăng trưởng dân số nhanh hơn hoặc được giảm bớt gánh nặng tiền thuế.",
     "offset": 412223,
     "length": 466
   },
@@ -450,7 +450,7 @@
   {
     "key": "regional_wealth_descr",
     "en": "<img id=\"itemID_0\"/>Regional Wealth represents the amount of wealth owned by the residents of a Region. It is the primary currency used in the Trading Post, can be spent on a <img id=\"Extension\"/>Backyard Extension or converted to <img id=\"Treasury\"/>Treasury via the Manor Taxes Panel.{br}{br}It's earned by exporting goods via the Trading Post, destroying Bandit Camps or passively earned monthly from <img id=\"house\"/>Burgage Plots (Lvl 2 or better).",
-    "vi": "<img id=\"itemID_0\"/>Tài sản vùng đại diện cho tổng của cải thuộc sở hữu của người dân trong Vùng. Đây là đơn vị tiền tệ chính dùng tại Trạm giao thương, có thể dùng để đầu tư <img id=\"Extension\"/>Tiện ích sân sau hoặc chuyển đổi thành <img id=\"Treasury\"/>Ngân khố Lãnh chúa qua Bảng thuế Dinh thự.{br}{br}Tài sản vùng kiếm được từ việc xuất khẩu hàng hóa qua Trạm giao thương, triệt phá Trại cướp hoặc tự động thu nhập hàng tháng từ <img id=\"house\"/>Nhà dân (từ Cấp 2 trở lên).",
+    "vi": "<img id=\"itemID_0\"/> Tài sản vùng đại diện cho tổng của cải thuộc sở hữu của người dân trong Vùng. Đây là đơn vị tiền tệ chính dùng tại Trạm giao thương, có thể dùng để đầu tư <img id=\"Extension\"/> Tiện ích sân sau hoặc chuyển đổi thành <img id=\"Treasury\"/> Ngân khố Lãnh chúa qua Bảng thuế Dinh thự.{br}{br}Tài sản vùng kiếm được từ việc xuất khẩu hàng hóa qua Trạm giao thương, triệt phá Trại cướp hoặc tự động thu nhập hàng tháng từ <img id=\"house\"/> Nhà dân (từ Cấp 2 trở lên).",
     "offset": 454180,
     "length": 454
   },
@@ -464,7 +464,7 @@
   {
     "key": "treasury_descr",
     "en": "<img id=\"Treasury\"/>Treasury is your personal wealth, which can be earned by collecting Taxes via the Manor Taxes Panel, or by destroying Bandit Camps. It can be used for Diplomacy, hiring Retinue and Mercenaries, as well as Settling a new Region.",
-    "vi": "<img id=\"Treasury\"/>Ngân khố là tài sản cá nhân của bạn, kiếm được qua việc thu Thuế tại Bảng thuế Dinh thự hoặc triệt phá Trại cướp. Ngân khố được dùng cho Ngoại giao, thuê Cận vệ và Lính đánh thuê, cũng như Thành lập một Vùng định cư mới.",
+    "vi": "<img id=\"Treasury\"/> Ngân khố là tài sản cá nhân của bạn, kiếm được qua việc thu Thuế tại Bảng thuế Dinh thự hoặc triệt phá Trại cướp. Ngân khố được dùng cho Ngoại giao, thuê Cận vệ và Lính đánh thuê, cũng như Thành lập một Vùng định cư mới.",
     "offset": 470262,
     "length": 248
   },
@@ -478,7 +478,7 @@
   {
     "key": "influence_descr",
     "en": "<img id=\"Influence\"/>Influence represents your political power. It is used for Diplomacy and pressing Claims. It is earned by increasing the <h>Settlement Level</>, building influential buildings such as the <h>Manor</> or Church, enabling the Tithe <h>Taxation</> via the <h>Manor</> Taxes Panel and winning Battles.",
-    "vi": "<img id=\"Influence\"/>Uy danh đại diện cho quyền lực chính trị của bạn. Uy danh được dùng cho Ngoại giao và đưa ra Yêu sách chủ quyền. Uy danh kiếm được nhờ tăng <h>Cấp độ Định cư</>, xây dựng các công trình tầm cỡ như <h>Dinh thự</> hoặc Nhà thờ, ban hành <h>Thuế Thập phân</> qua Bảng thuế <h>Dinh thự</> và Chiến thắng trên sa trường.",
+    "vi": "<img id=\"Influence\"/> Uy danh đại diện cho quyền lực chính trị của bạn. Uy danh được dùng cho Ngoại giao và đưa ra Yêu sách chủ quyền. Uy danh kiếm được nhờ tăng <h>Cấp độ Định cư</>, xây dựng các công trình tầm cỡ như <h>Dinh thự</> hoặc Nhà thờ, ban hành <h>Thuế Thập phân</> qua Bảng thuế <h>Dinh thự</> và Chiến thắng trên sa trường.",
     "offset": 479792,
     "length": 318
   },
@@ -499,7 +499,7 @@
   {
     "key": "deposit_wild_animals_descr",
     "en": "Resources: <img id=\"itemID_330\"/>Small Game <img id=\"itemID_9\"/>Pelts{br}Acquired by: <h>Hunting Camp</>{br}{br}Wild Animals repopulate throughout the year, with frequency determined by the size of their existing population. The Teeming Affinity also provides a chance for animals to produce an additional offspring.{br}{br}By default, each Wild Animal hunted yields 1 <img id=\"itemID_330\"/>Small Game and 1 <img id=\"itemID_9\"/>Pelts. Hunters will also place up to five traps in nearby woodland; these are checked every 90 days and may produce 1 <img id=\"itemID_330\"/>Small Game, determined by the strength of the Teeming Affinity.{br}{br}Constructing buildings within an area inhabited by Wild Animals will cause them to migrate to another forested location within the Region.",
-    "vi": "Tài nguyên: <img id=\"itemID_330\"/>Thịt thú nhỏ <img id=\"itemID_9\"/>Da thú{br}Thu hoạch bởi: <h>Trại săn bắn</>{br}{br}Thú hoang sinh sôi trở lại trong suốt cả năm với tần suất phụ thuộc vào quy mô bầy đàn hiện có. Đặc tính Trù phú cũng mang lại cơ hội để thú sinh thêm con non.{br}{br}Mặc định, mỗi con thú hoang bị săn sẽ cho 1 <img id=\"itemID_330\"/>Thịt thú nhỏ và 1 <img id=\"itemID_9\"/>Da thú. Thợ săn cũng sẽ đặt tối đa 5 bẫy trong rừng lân cận; các bẫy này được kiểm tra mỗi 90 ngày và có thể thu được 1 <img id=\"itemID_330\"/>Thịt thú nhỏ, tùy thuộc vào độ mạnh của Đặc tính Trù phú.{br}{br}Xây dựng công trình trong phạm vi sinh sống của Thú hoang sẽ khiến chúng di cư sang một cánh rừng khác trong Vùng.",
+    "vi": "Tài nguyên: <img id=\"itemID_330\"/> Thịt thú nhỏ <img id=\"itemID_9\"/> Da thú{br}Thu hoạch bởi: <h>Trại săn bắn</> {br}{br}Thú hoang sinh sôi trở lại trong suốt cả năm với tần suất phụ thuộc vào quy mô bầy đàn hiện có. Đặc tính Trù phú cũng mang lại cơ hội để thú sinh thêm con non.{br}{br}Mặc định, mỗi con thú hoang bị săn sẽ cho 1 <img id=\"itemID_330\"/> Thịt thú nhỏ và 1 <img id=\"itemID_9\"/> Da thú. Thợ săn cũng sẽ đặt tối đa 5 bẫy trong rừng lân cận; các bẫy này được kiểm tra mỗi 90 ngày và có thể thu được 1 <img id=\"itemID_330\"/> Thịt thú nhỏ, tùy thuộc vào độ mạnh của Đặc tính Trù phú.{br}{br}Xây dựng công trình trong phạm vi sinh sống của Thú hoang sẽ khiến chúng di cư sang một cánh rừng khác trong Vùng.",
     "offset": 511004,
     "length": 778
   },
@@ -527,7 +527,7 @@
   {
     "key": "deposit_stone_descr",
     "en": "Resources: <img id=\"itemID_15\"/>Rubble Stone, <img id=\"itemID_27\"/>Rough Stone{br}Acquired by: <h>Stone Gatherer Camp</>, <h>Quarry</>{br}{br}A normal Stone Deposit can be cleared by a <h>Stone Gatherer Camp</>, yielding <img id=\"itemID_15\"/>Rubble Stone used in basic construction and in the production of <img id=\"itemID_329\"/>Mortar.{br}{br}<img id=\"richDeposit\"/>Rich Stone Deposits act like normal Stone Deposits, but also sit atop deep, <img id=\"UndergroundDeposit\"/>Endless Reserves that require a <h>Quarry</> to access. Once constructed, a <h>Quarry</> produces both <img id=\"itemID_15\"/>Rubble Stone and <img id=\"itemID_27\"/>Rough Stone indefinitely, the latter being essential for more advanced construction.",
-    "vi": "Tài nguyên: <img id=\"itemID_15\"/>Đá vụn, <img id=\"itemID_27\"/>Đá tảng{br}Khai thác bởi: <h>Trại thu gom đá</>, <h>Mỏ đá</>{br}{br}Mỏ đá thông thường có thể thu gom bằng <h>Trại thu gom đá</>, cho ra <img id=\"itemID_15\"/>Đá vụn dùng trong xây dựng cơ bản và sản xuất <img id=\"itemID_329\"/>Vữa.{br}{br}<img id=\"richDeposit\"/>Mỏ đá trữ lượng lớn có thêm <img id=\"UndergroundDeposit\"/>Trữ lượng vô tận nằm sâu trong lòng đất, yêu cầu phải xây <h>Mỏ đá</> để đào tới. Khi được xây dựng, <h>Mỏ đá</> sẽ sản xuất vô hạn cả <img id=\"itemID_15\"/>Đá vụn lẫn <img id=\"itemID_27\"/>Đá tảng — loại đá thiết yếu cho các công trình cao cấp.",
+    "vi": "Tài nguyên: <img id=\"itemID_15\"/> Đá vụn, <img id=\"itemID_27\"/> Đá tảng{br}Khai thác bởi: <h>Trại thu gom đá</>, <h>Mỏ đá</> {br}{br}Mỏ đá thông thường có thể thu gom bằng <h>Trại thu gom đá</>, cho ra <img id=\"itemID_15\"/> Đá vụn dùng trong xây dựng cơ bản và sản xuất <img id=\"itemID_329\"/> Vữa.{br}{br}<img id=\"richDeposit\"/> Mỏ đá trữ lượng lớn có thêm <img id=\"UndergroundDeposit\"/> Trữ lượng vô tận nằm sâu trong lòng đất, yêu cầu phải xây <h>Mỏ đá</> để đào tới. Khi được xây dựng, <h>Mỏ đá</> sẽ sản xuất vô hạn cả <img id=\"itemID_15\"/> Đá vụn lẫn <img id=\"itemID_27\"/> Đá tảng — loại đá thiết yếu cho các công trình cao cấp.",
     "offset": 564465,
     "length": 720
   },
@@ -541,7 +541,7 @@
   {
     "key": "deposit_clay_descr",
     "en": "Resources: <img id=\"itemID_146\"/>Clay{br}Acquired by: <h>Mining Pit</>{br}{br}The <h>Mining Pit</> provides access to a Clay Deposit. If the deposit is <img id=\"richDeposit\"/>Rich, it can be upgraded to a <h>Deep Mine</>, allowing <img id=\"itemID_146\"/>Clay to be extracted indefinitely. Additional Mining Pits can be placed on the same deposit, however this increases the chance of collapse. <img id=\"itemID_146\"/>Clay is primarily used in the production of <img id=\"itemID_269\"/>Roof Tiles.",
-    "vi": "Tài nguyên: <img id=\"itemID_146\"/>Đất sét{br}Khai thác bởi: <h>Hầm mỏ</>{br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ đất sét. Nếu là mỏ <img id=\"richDeposit\"/>Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_146\"/>Đất sét vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_146\"/>Đất sét chủ yếu dùng để sản xuất <img id=\"itemID_269\"/>Ngói lợp mái.",
+    "vi": "Tài nguyên: <img id=\"itemID_146\"/> Đất sét{br}Khai thác bởi: <h>Hầm mỏ</> {br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ đất sét. Nếu là mỏ <img id=\"richDeposit\"/> Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_146\"/> Đất sét vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_146\"/> Đất sét chủ yếu dùng để sản xuất <img id=\"itemID_269\"/> Ngói lợp mái.",
     "offset": 590052,
     "length": 493
   },
@@ -555,7 +555,7 @@
   {
     "key": "deposit_iron_descr",
     "en": "Resources: <img id=\"itemID_14\"/>Iron Ore{br}Acquired by: <h>Mining Pit</>{br}{br}The <h>Mining Pit</> provides access to an Iron Deposit. If the deposit is <img id=\"richDeposit\"/>Rich, it can be upgraded to a <h>Deep Mine</>, allowing <img id=\"itemID_14\"/>Iron Ore to be extracted indefinitely. Additional Mining Pits can be placed on the same deposit, however this increases the chance of collapse. <img id=\"itemID_14\"/>Iron Ore is used in the production of <img id=\"itemID_6\"/>Tools and Armaments.",
-    "vi": "Tài nguyên: <img id=\"itemID_14\"/>Quặng sắt{br}Khai thác bởi: <h>Hầm mỏ</>{br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ quặng sắt. Nếu là mỏ <img id=\"richDeposit\"/>Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_14\"/>Quặng sắt vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_14\"/>Quặng sắt được dùng để sản xuất <img id=\"itemID_6\"/>Dụng cụ và Vũ khí & Giáp.",
+    "vi": "Tài nguyên: <img id=\"itemID_14\"/> Quặng sắt{br}Khai thác bởi: <h>Hầm mỏ</> {br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ quặng sắt. Nếu là mỏ <img id=\"richDeposit\"/> Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_14\"/> Quặng sắt vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_14\"/> Quặng sắt được dùng để sản xuất <img id=\"itemID_6\"/> Dụng cụ và Vũ khí & Giáp.",
     "offset": 607314,
     "length": 500
   },
@@ -569,7 +569,7 @@
   {
     "key": "deposit_salt_descr",
     "en": "Resources: <img id=\"itemID_145\"/>Salt{br}Acquired by: <h>Mining Pit</>{br}{br}The <h>Mining Pit</> provides access to a Salt Deposit. If the deposit is <img id=\"richDeposit\"/>Rich, it can be upgraded to a <h>Deep Mine</>, allowing <img id=\"itemID_145\"/>Salt to be extracted indefinitely. Additional Mining Pits can be placed on the same deposit, however this increases the chance of collapse. <img id=\"itemID_145\"/>Salt is primarily used as a trade commodity and by the <h>Butcher</> as a food preservative.",
-    "vi": "Tài nguyên: <img id=\"itemID_145\"/>Muối{br}Khai thác bởi: <h>Hầm mỏ</>{br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ muối. Nếu là mỏ <img id=\"richDeposit\"/>Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_145\"/>Muối vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_145\"/>Muối chủ yếu dùng làm hàng hóa giao thương và được <h>Thợ mổ thịt</> dùng để ướp bảo quản thực phẩm.",
+    "vi": "Tài nguyên: <img id=\"itemID_145\"/> Muối{br}Khai thác bởi: <h>Hầm mỏ</> {br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ muối. Nếu là mỏ <img id=\"richDeposit\"/> Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_145\"/> Muối vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_145\"/> Muối chủ yếu dùng làm hàng hóa giao thương và được <h>Thợ mổ thịt</> dùng để ướp bảo quản thực phẩm.",
     "offset": 625140,
     "length": 508
   }

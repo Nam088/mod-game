@@ -1717,7 +1717,7 @@
   {
     "key": "requirement4_tier0",
     "en": "A <h>Tavern</> in the region with available <img id=\"ItemID_28\"/> <h>Ale</>.",
-    "vi": "Có một <h>Quán bia</> trong Vùng và luôn sẵn <img id=\"ItemID_28\"/> <h>Bia Ale</> để phục vụ dân chúng.",
+    "vi": "Có một <h>Quán bia</> trong Vùng và luôn sẵn <img id=\"ItemID_28\"/> <h>Bia mạch nha</> để phục vụ dân chúng.",
     "offset": 272723,
     "length": 77
   },
@@ -2123,28 +2123,28 @@
   {
     "key": "cropID_1_descr",
     "en": "<img id=\"itemID_217\"/><h>Wheat Sheaves</> are threshed into <img id=\"itemID_1\"/><h>Wheat Grain</> at the <h>Farmhouse</>.{br}After that it can be processed further into <img id=\"itemID_5\"/><h>Wheat Flour</> and baked into <img id=\"itemID_172\"/><h>Wheat Bread</>.",
-    "vi": "<img id=\"itemID_217\"/><h>Bó lúa mì</> được đập lấy <img id=\"itemID_1\"/><h>Hạt lúa mì</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_5\"/><h>Bột mì</> và nướng thành <img id=\"itemID_172\"/><h>Bánh mì</>.",
+    "vi": "<img id=\"itemID_217\"/> <h>Bó lúa mì</> được đập lấy <img id=\"itemID_1\"/> <h>Hạt lúa mì</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_5\"/> <h>Bột mì</> và nướng thành <img id=\"itemID_172\"/> <h>Bánh mì</>.",
     "offset": 324152,
     "length": 263
   },
   {
     "key": "cropID_2_descr",
     "en": "<img id=\"ItemID_11\"/><h>Flax</> can be woven into <img id=\"ItemID_12\"/><h>Linen</>.",
-    "vi": "<img id=\"ItemID_11\"/><h>Cây lanh</> có thể dệt thành <img id=\"ItemID_12\"/><h>Vải lanh</>.",
+    "vi": "<img id=\"ItemID_11\"/> <h>Cây lanh</> có thể dệt thành <img id=\"ItemID_12\"/> <h>Vải lanh</>.",
     "offset": 332635,
     "length": 84
   },
   {
     "key": "cropID_3_descr",
     "en": "<img id=\"itemID_165\"/><h>Barley</> can be processed into <img id=\"ItemID_29\"/><h>Malt</> and then into <img id=\"ItemID_28\"/><h>Ale</>.",
-    "vi": "<img id=\"itemID_165\"/><h>Đại mạch</> có thể chế biến thành <img id=\"ItemID_29\"/><h>Mạch nha</> rồi nấu thành <img id=\"ItemID_28\"/><h>Bia Ale</>.",
+    "vi": "<img id=\"itemID_165\"/> <h>Đại mạch</> có thể chế biến thành <img id=\"ItemID_29\"/> <h>Mạch nha</> rồi nấu thành <img id=\"ItemID_28\"/> <h>Bia mạch nha</>.",
     "offset": 335452,
     "length": 135
   },
   {
     "key": "cropID_7_descr",
     "en": "<img id=\"itemID_298\"/><h>Rye Sheaves</> are threshed into <img id=\"itemID_299\"/><h>Rye Grain</> at the <h>Farmhouse</>.{br}After that it can be processed further into <img id=\"itemID_33\"/><h>Rye Flour</> and baked into <img id=\"itemID_170\"/><h>Rye Bread</>.",
-    "vi": "<img id=\"itemID_298\"/><h>Bó lúa mạch đen</> được đập lấy <img id=\"itemID_299\"/><h>Hạt mạch đen</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_33\"/><h>Bột mạch đen</> và nướng thành <img id=\"itemID_170\"/><h>Bánh mì đen</>.",
+    "vi": "<img id=\"itemID_298\"/> <h>Bó lúa mạch đen</> được đập lấy <img id=\"itemID_299\"/> <h>Hạt mạch đen</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_33\"/> <h>Bột mạch đen</> và nướng thành <img id=\"itemID_170\"/> <h>Bánh mì đen</>.",
     "offset": 340065,
     "length": 258
   },

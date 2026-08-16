@@ -37,7 +37,7 @@
   {
     "key": "policyID_12_descr",
     "en": "Citizens skip every 5th meal. Reduces <h>FOOD</> consumption, decreases <H>APPROVAL</>.",
-    "vi": "Dân làng nhịn 1 trong mỗi 5 bữa ăn. Giảm tiêu thụ <h>LƯƠNG THỰC</>, nhưng làm giảm <H>LÒNG DÂN</>.",
+    "vi": "Dân làng nhịn 1 trong mỗi 5 bữa ăn. Giảm tiêu thụ <h>LƯƠNG THỰC</>, nhưng làm giảm <h>LÒNG DÂN</>.",
     "offset": 10751,
     "length": 88
   },
