@@ -1,0 +1,121 @@
+[
+  {
+    "key": "perk_origins",
+    "en": "Origins",
+    "vi": "Nguồn cội",
+    "offset": 24,
+    "length": 8
+  },
+  {
+    "key": "perk_origins_descr",
+    "en": "We carry the weight of our past, but it is the promise of these lands that will define us.",
+    "vi": "Chúng ta mang trên vai gánh nặng quá khứ, nhưng chính tương lai nơi mảnh đất này mới định hình nên chúng ta.",
+    "offset": 307,
+    "length": 91
+  },
+  {
+    "key": "perk_local_expertise",
+    "en": "Local Expertise",
+    "vi": "Bản sắc & Kinh nghiệm địa phương",
+    "offset": 3422,
+    "length": 16
+  },
+  {
+    "key": "perk_local_expertise_descr",
+    "en": "We toil not just to survive, but to thrive. Craft is taking root, and with it, a sense of who we are.",
+    "vi": "Chúng ta làm lụng không chỉ để sinh tồn, mà còn để vươn lên thịnh vượng. Nghề thủ công bén rễ và khẳng định chỗ đứng của chúng ta.",
+    "offset": 3935,
+    "length": 102
+  },
+  {
+    "key": "perk_market_rights",
+    "en": "Market Rights",
+    "vi": "Đặc quyền thương mại & chợ",
+    "offset": 8062,
+    "length": 14
+  },
+  {
+    "key": "perk_market_rights_descr",
+    "en": "Where craft meets coin, familiar faces trade tall tales.",
+    "vi": "Nơi hàng hóa gặp đồng tiền, những gương mặt thân quen cùng nhau trao đổi những câu chuyện làm giàu.",
+    "offset": 8530,
+    "length": 57
+  },
+  {
+    "key": "perk_rural_festivities",
+    "en": "Rural Festivities",
+    "vi": "Lễ hội nông thôn",
+    "offset": 11002,
+    "length": 18
+  },
+  {
+    "key": "perk_rural_festivities_descr",
+    "en": "The seasons shape us. In hardship, we endure. In bounty, we rejoice.",
+    "vi": "Bốn mùa trôi qua nhào nặn nên chúng ta. Gian khó cùng vượt qua, mùa màng bội thu cùng chung vui.",
+    "offset": 11563,
+    "length": 69
+  },
+  {
+    "key": "perk_town_guilds",
+    "en": "Town Guilds",
+    "vi": "Phường hội thị trấn",
+    "offset": 14232,
+    "length": 12
+  },
+  {
+    "key": "perk_town_guilds_descr",
+    "en": "Craft becomes culture; tradition hones skill.",
+    "vi": "Tay nghề thành văn hóa, truyền thống tôi luyện nên kỹ năng điêu luyện.",
+    "offset": 14664,
+    "length": 46
+  },
+  {
+    "key": "perk_town_militia",
+    "en": "Town Militia",
+    "vi": "Dân quân thị trấn",
+    "offset": 16574,
+    "length": 13
+  },
+  {
+    "key": "perk_town_militia_descr",
+    "en": "We fight not for coin, but for craft, kin, and home.",
+    "vi": "Chúng ta chiến đấu không vì tiền bạc, mà vì xưởng nghề, gia đình và quê hương.",
+    "offset": 17019,
+    "length": 53
+  },
+  {
+    "key": "perk_craftsmen_rights",
+    "en": "Craftsmen Rights",
+    "vi": "Đặc quyền thợ thủ công",
+    "offset": 19244,
+    "length": 17
+  },
+  {
+    "key": "perk_craftsmen_rights_descr",
+    "en": "When a trade becomes vital, it earns more than coin.",
+    "vi": "Khi một nghề trở nên thiết yếu, nó sẽ mang lại nhiều hơn cả bạc vàng.",
+    "offset": 19855,
+    "length": 53
+  },
+  {
+    "key": "perk_church_advancement",
+    "en": "Church Advancement",
+    "vi": "Phát triển giáo hội",
+    "offset": 22067,
+    "length": 19
+  },
+  {
+    "key": "perk_church_advancement_descr",
+    "en": "The Church shepherds our settlement, offering comfort, counsel, and purpose.",
+    "vi": "Nhà thờ dẫn dắt khu định cư, mang lại niềm an ủi, lời khuyên bảo và mục đích sống.",
+    "offset": 22603,
+    "length": 77
+  },
+  {
+    "key": "perk_urban_festivities",
+    "en": "Urban Festivities",
+    "vi": "Lễ hội đô thị",
+    "offset": 25058,
+    "length": 18
+  }
+]

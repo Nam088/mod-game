@@ -9,6 +9,7 @@ on:
       - "Timberborn/**"
       - "Against-The-Storm/**"
       - "WorldBox/**"
+      - "Manor-Lords/**"
       - "!**/dist/**"
       - "!**/*.md"
   workflow_dispatch:
@@ -25,6 +26,7 @@ on:
           - Timberborn
           - Against-The-Storm
           - WorldBox
+          - Manor-Lords
       bump_version:
         description: "Tự động tăng Version (Patch)?"
         required: true
@@ -49,9 +51,14 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Set up .NET 8.0
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
       - name: Install Build Dependencies
         run: |
-          pip install polib pandas openpyxl
+          pip install polib pandas openpyxl fonttools
 
       - name: Detect Changes & Build Mod ZIPs
         id: build_step

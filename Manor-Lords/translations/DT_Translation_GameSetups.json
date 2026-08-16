@@ -1,0 +1,100 @@
+[
+  {
+    "key": "baron",
+    "en": "Restoring the Peace",
+    "vi": "Lập lại Hòa bình",
+    "offset": 24,
+    "length": 20
+  },
+  {
+    "key": "baron_setup",
+    "en": "An illegitimate Baron who resides in the safety of his Castle off-map has unlawfully laid claim to several Regions. Bandits in the neutral Regions continue to harass the locals and launch unprovoked raids. {br}{br}Build and expand your settlement. Pacify the neutral Regions and stop the ever increasing aggression of the Baron by challenging him directly.",
+    "vi": "Một tên Nam tước tiếm quyền đang nấp sau bức tường lâu đài kiên cố ngoài bản đồ và mưu đồ chiếm đoạt trái phép các vùng đất lân cận. Lũ cướp tại các vùng trung lập liên tục quấy nhiễu dân lành và cướp phá bừa bãi.{br}{br}Hãy xây dựng khu định cư, dẹp yên các vùng trung lập và ngăn chặn dã tâm bành trướng của Nam tước bằng cách đánh bại hắn trên chiến trường.",
+    "offset": 568,
+    "length": 357
+  },
+  {
+    "key": "baron_goal",
+    "en": "Conquer every Region.",
+    "vi": "Chinh phục toàn bộ các Vùng đất.",
+    "offset": 12523,
+    "length": 22
+  },
+  {
+    "key": "survival",
+    "en": "On the Edge ",
+    "vi": "Bên bờ Vực thẳm",
+    "offset": 13262,
+    "length": 13
+  },
+  {
+    "key": "survival_setup",
+    "en": "Grow your city and raise forces as quickly as you can. The lands are pestered by raiders and undefended settlements will quickly perish.",
+    "vi": "Phát triển thị trấn và chiêu mộ quân đội nhanh nhất có thể. Vùng đất này liên tục bị giặc cướp tràn vào tấn công, nếu không lo phòng thủ thị trấn sẽ nhanh chóng diệt vong.",
+    "offset": 13686,
+    "length": 137
+  },
+  {
+    "key": "survival_goal",
+    "en": "Survive all the attacks and reach the \"Large Town\" Settlement Level.",
+    "vi": "Sống sót qua mọi đợt tấn công và phát triển đạt cấp độ \"Thị trấn Lớn\".",
+    "offset": 18458,
+    "length": 69
+  },
+  {
+    "key": "peaceful_citybuilding",
+    "en": "Rise to Prosperity",
+    "vi": "Vươn tới Thịnh vượng",
+    "offset": 20765,
+    "length": 19
+  },
+  {
+    "key": "peaceful_citybuilding_setup",
+    "en": "Fulfill the requirements of your citizens, plan and rule your medieval town as you see fit, without worrying about combat.",
+    "vi": "Tập trung chăm lo đời sống dân chúng, quy hoạch và xây dựng thị trấn Trung Cổ trong mơ của bạn mà không cần bận tâm về chiến tranh hay cướp bóc.",
+    "offset": 21418,
+    "length": 123
+  },
+  {
+    "key": "peaceful_citybuilding_goal",
+    "en": "Reach the \"Large Town\" Settlement Level. After that, you may choose to continue in endless mode.",
+    "vi": "Phát triển đạt cấp độ \"Thị trấn Lớn\". Sau khi hoàn thành, bạn có thể tiếp tục chơi ở chế độ vô tận.",
+    "offset": 25392,
+    "length": 97
+  },
+  {
+    "key": "duel",
+    "en": "A Duel",
+    "vi": "Quyết đấu",
+    "offset": 28626,
+    "length": 7
+  },
+  {
+    "key": "duel_goal",
+    "en": "Conquer your Rival.",
+    "vi": "Đánh bại Lãnh chúa đối địch.",
+    "offset": 33005,
+    "length": 20
+  },
+  {
+    "key": "fractured_realm",
+    "en": "Fractured Realm",
+    "vi": "Vương quốc Phân tranh",
+    "offset": 33583,
+    "length": 16
+  },
+  {
+    "key": "fractured_realm_setup",
+    "en": "Four major Noble Families were granted rights to settle these lands. With too many claims and too little space, ambition brews. Alliances will form, betrayals will sting, and war seems inevitable.",
+    "vi": "Bốn Đại gia tộc Quý tộc cùng được trao quyền khai khẩn vùng đất này. Đất chật người đông, tham vọng bắt đầu trỗi dậy. Liên minh sẽ thành lập, phản bội sẽ xảy ra, và chiến tranh giành giật bờ cõi là điều không thể tránh khỏi.",
+    "offset": 34126,
+    "length": 197
+  },
+  {
+    "key": "fractured_realm_goal",
+    "en": "Conquer all rivals",
+    "vi": "Đánh bại tất cả các đối thủ",
+    "offset": 41178,
+    "length": 19
+  }
+]

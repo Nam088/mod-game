@@ -1,0 +1,44 @@
+[
+  {
+    "key": "collapse_chance",
+    "en": "Collapse Chance",
+    "vi": "Tỷ lệ sập công trình",
+    "offset": 24,
+    "length": 16
+  },
+  {
+    "key": "proximity",
+    "en": "Building Proximity",
+    "vi": "Khoảng cách giữa các công trình",
+    "offset": 572,
+    "length": 19
+  },
+  {
+    "key": "maintenance",
+    "en": "Failed Maintenance",
+    "vi": "Bảo trì không đạt yêu cầu",
+    "offset": 1238,
+    "length": 19
+  },
+  {
+    "key": "chance_daily",
+    "en": "Chance per day",
+    "vi": "Tỷ lệ mỗi ngày",
+    "offset": 1838,
+    "length": 15
+  },
+  {
+    "key": "chance_per_craft",
+    "en": "Chance per Work Task",
+    "vi": "Tỷ lệ mỗi lượt làm việc",
+    "offset": 2396,
+    "length": 21
+  },
+  {
+    "key": "affectedBy",
+    "en": "Affected by",
+    "vi": "Bị ảnh hưởng bởi",
+    "offset": 3155,
+    "length": 12
+  }
+]

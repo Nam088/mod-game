@@ -1,0 +1,366 @@
+[
+  {
+    "key": "welcome_positive",
+    "en": "It's a pleasure to meet you.",
+    "vi": "Rất hân hạnh được diện kiến ngài.",
+    "offset": 24,
+    "length": 29
+  },
+  {
+    "key": "welcome_negative",
+    "en": "Ah, yet another dog has crawled here.",
+    "vi": "Ái chà, lại thêm một con chó bò đến đây.",
+    "offset": 848,
+    "length": 38
+  },
+  {
+    "key": "welcome_hildebolt_open_positive",
+    "en": "Greetings, Hildebolt von Bereneute, the rightful lord of Selbitz and Hofstetten.",
+    "vi": "Kính chào Hildebolt von Bereneute, lãnh chúa hợp pháp của Selbitz và Hofstetten.",
+    "offset": 2108,
+    "length": 81
+  },
+  {
+    "key": "welcome_hildebolt_open_positive_followup_peaceful",
+    "en": "I am interested in knowing more about you and your plans, for I share your desire to bring peace and stability to these regions, which have been plagued by war and turmoil.",
+    "vi": "Ta rất muốn tìm hiểu thêm về ngài và những dự định tương lai, bởi ta cũng chung nguyện vọng mang lại thái bình thịnh trị cho các vùng đất vốn đã chịu quá nhiều đau thương vì khói lửa chiến tranh này.",
+    "offset": 4682,
+    "length": 173
+  },
+  {
+    "key": "diplomacy_2",
+    "en": "I believe that we can work together for the common good, and that we can achieve great things.",
+    "vi": "Ta tin rằng chúng ta có thể chung tay vì lợi ích chung và cùng nhau làm nên những đại nghiệp lớn lao.",
+    "offset": 10062,
+    "length": 95
+  },
+  {
+    "key": "welcome_hildebolt_open_positive_followup_flatter",
+    "en": "I write to you with admiration and curiosity, for I have heard much about you and your deeds.",
+    "vi": "Ta viết thư này gửi ngài với lòng ngưỡng mộ và sự quan tâm sâu sắc, bởi ta đã được nghe rất nhiều về danh tiếng và chiến công hiển hách của ngài.",
+    "offset": 12878,
+    "length": 94
+  },
+  {
+    "key": "diplomacy_2",
+    "en": "You have risen to power and glory, despite the obstacles and enemies that stood in your way.",
+    "vi": "Ngài đã vươn lên đỉnh cao quyền lực và vinh quang, bất chấp muôn trùng gian nan cùng vô số kẻ thù cản lối.",
+    "offset": 16194,
+    "length": 93
+  },
+  {
+    "key": "diplomacy_3",
+    "en": "You have my admiration and curiosity, and I hope to earn yours.",
+    "vi": "Ta luôn dành cho ngài sự kính trọng, và hy vọng cũng nhận lại được sự trân quý tương tự từ ngài.",
+    "offset": 19018,
+    "length": 64
+  },
+  {
+    "key": "welcome_hildebolt_open_negative",
+    "en": "I write to you with disdain and suspicion, for I have heard much about you and your crimes.",
+    "vi": "Ta viết thư này gửi đến ngươi với sự khinh miệt và nghi kỵ tột cùng, bởi ta đã nghe quá nhiều về những tội ác ghê tởm của ngươi.",
+    "offset": 21586,
+    "length": 92
+  },
+  {
+    "key": "welcome_hildebolt_open_negative_followup",
+    "en": "You have seized power and wealth, despite the laws that forbade you. ",
+    "vi": "Ngươi đã chiếm đoạt quyền lực và của cải một cách bất minh, chà đạp lên mọi luật lệ phép tắc.",
+    "offset": 24667,
+    "length": 70
+  },
+  {
+    "key": "diplomacy_2",
+    "en": "You have shown yourself to be an unworthy occupant of these lands, and a bastard of lowly origin.",
+    "vi": "Ngươi đã tự chứng minh mình là một kẻ tiếm quyền đê tiện trên mảnh đất này, một đứa con hoang với dòng máu thấp hèn.",
+    "offset": 27069,
+    "length": 98
+  },
+  {
+    "key": "diplomacy_3",
+    "en": "I am concerned about you and your actions, for I fear that you will bring more trouble and violence to these regions, which have been ravaged by war and chaos. ",
+    "vi": "Ta vô cùng lo ngại trước những hành động bừa bãi của ngươi, bởi ta e rằng ngươi sẽ gieo rắc thêm tai ương và đổ máu xuống những vùng đất vốn đã tan hoang vì loạn lạc.",
+    "offset": 29904,
+    "length": 161
+  },
+  {
+    "key": "diplomacy_4",
+    "en": "You have my contempt and distrust, and I hope to inspire yours.",
+    "vi": "Ta chỉ có sự khinh bỉ và cảnh giác cao độ dành cho ngươi, và mong ngươi cũng hiểu rõ điều đó.",
+    "offset": 34748,
+    "length": 64
+  },
+  {
+    "key": "welcome_from_hildebolt",
+    "en": "I have heard of your renown. I only seek to defend my rights and my honour against those who would wrong me. {br}{br}I hope you will not judge me by the rumours and slanders that some may spread about me.",
+    "vi": "Ta đã nghe danh tiếng của ngươi. Ta chỉ mưu cầu bảo vệ quyền lợi và danh dự chính đáng của mình trước những kẻ toan tính xâm phạm.{br}{br}Ta mong ngươi sẽ không phán xét ta qua những lời đồn thổi ác ý và gièm pha đặt điều.",
+    "offset": 37347,
+    "length": 205
+  },
+  {
+    "key": "welcome_response_positive",
+    "en": "Thank you for your hearty welcome.",
+    "vi": "Đa tạ lời đón tiếp nồng hậu của ngài.",
+    "offset": 44073,
+    "length": 35
+  },
+  {
+    "key": "welcome_response_negative",
+    "en": "Who the hell are you, sausage breath?",
+    "vi": "Ngươi là cái thớ gì thế hả, đồ mồm thối mùi xúc xích?",
+    "offset": 45111,
+    "length": 38
+  },
+  {
+    "key": "welcome_response_mediating",
+    "en": "I'm sorry, have I wronged you somehow?",
+    "vi": "Xin thứ lỗi, liệu ta có điều gì đắc tội với ngài chăng?",
+    "offset": 46374,
+    "length": 39
+  },
+  {
+    "key": "welcome_response_escalating",
+    "en": "Nice to meet you too, you filthy bastard.",
+    "vi": "Rất hân hạnh được gặp mặt ngươi, đồ khốn nạn bẩn thỉu.",
+    "offset": 47719,
+    "length": 42
+  },
+  {
+    "key": "welcome_response_peace",
+    "en": "I hope our fiefdoms grow in prosperity together.",
+    "vi": "Ta hy vọng lãnh địa của đôi bên sẽ cùng nhau phát triển hưng thịnh.",
+    "offset": 49073,
+    "length": 49
+  },
+  {
+    "key": "welcome_response_to_hildebolt_positive",
+    "en": "You have proven yourself to be a true leader of Selbitz and Hofstetten.",
+    "vi": "Ngài đã chứng tỏ mình là một bậc minh chủ đích thực của Selbitz và Hofstetten.",
+    "offset": 50791,
+    "length": 72
+  },
+  {
+    "key": "diplomacy_2",
+    "en": "I have no doubt that you are the rightful heir of these lands, and that your bloodline is pure and noble.",
+    "vi": "Ta không hề mảy may nghi ngờ việc ngài là người thừa kế hợp pháp của những vùng đất này, với dòng dõi cao quý và thuần khiết.",
+    "offset": 52885,
+    "length": 106
+  },
+  {
+    "key": "diplomacy_11776",
+    "en": "You have no rightful claim to Selbitz and Hofstetten.",
+    "vi": "Ngươi không hề có chút tư cách pháp lý nào đối với Selbitz và Hofstetten.",
+    "offset": 55898,
+    "length": 54
+  },
+  {
+    "key": "peace_offer",
+    "en": "Let there be peace and prosperity between us.",
+    "vi": "Mong rằng hòa bình và thịnh vượng sẽ ngự trị giữa đôi bên.",
+    "offset": 57678,
+    "length": 46
+  },
+  {
+    "key": "peace_offer_accept",
+    "en": "I accept. Let there be peace between our fiefdoms.",
+    "vi": "Ta chấp thuận. Mong cho nền hòa bình giữa hai thái ấp mãi bền lâu.",
+    "offset": 59061,
+    "length": 51
+  },
+  {
+    "key": "peace_offer_reject",
+    "en": "I apologise, but I do not feel like a peace treaty would benefit my cause.",
+    "vi": "Xin thứ lỗi, nhưng ta thấy một hòa ước lúc này chẳng đem lại lợi ích gì cho ta.",
+    "offset": 60566,
+    "length": 75
+  },
+  {
+    "key": "antagonism",
+    "en": "I hope your fiefdom rots to hell, and soon.",
+    "vi": "Ta mong lãnh địa của ngươi sớm mục rữa xuống địa ngục.",
+    "offset": 62955,
+    "length": 44
+  },
+  {
+    "key": "insult",
+    "en": "Your mother was a hamster, and your father smelt of elderberries.",
+    "vi": "Mẹ ngươi là loài chuột chù, còn cha ngươi thì nặc mùi quả cơm cháy.",
+    "offset": 64597,
+    "length": 66
+  },
+  {
+    "key": "diplomacy_3",
+    "en": "You are a bastard and a fraud, and your bloodline is tainted and cursed.",
+    "vi": "Ngươi là một tên con hoang lừa đảo, với dòng máu nhơ nhuốc mang đầy lời nguyền rủa.",
+    "offset": 66367,
+    "length": 73
+  },
+  {
+    "key": "diplomacy_4",
+    "en": "You are a tyrant and a coward, and you have no vision or honor.",
+    "vi": "Ngươi là một tên bạo chúa hèn nhát, không tầm nhìn cũng chẳng có chút danh dự.",
+    "offset": 68567,
+    "length": 64
+  },
+  {
+    "key": "competitive",
+    "en": "This letter is a warning and a challenge. I will not rest until I see you defeated and dethroned.",
+    "vi": "Bức thư này là một lời cảnh cáo và thách thức đanh thép. Ta sẽ không dừng tay cho đến khi nhìn thấy ngươi đại bại và mất sạch ngôi vị.",
+    "offset": 70670,
+    "length": 98
+  },
+  {
+    "key": "competitive_01",
+    "en": " I will be the one to bring justice and order to these lands and to restore their rightful owners. ",
+    "vi": "Chính ta sẽ là người lập lại công lý, trật tự và trao trả vùng đất này về cho những chủ nhân đích thực.",
+    "offset": 74048,
+    "length": 100
+  },
+  {
+    "key": "competitive_02",
+    "en": "Prepare yourself for war, for I am coming for you. ",
+    "vi": "Hãy chuẩn bị nghênh chiến đi, ta đang kéo quân đến tìm ngươi đây.",
+    "offset": 77160,
+    "length": 52
+  },
+  {
+    "key": "signature_default",
+    "en": "Signed and sealed by my own seal, ",
+    "vi": "Ký tên và đóng ấn triện của ta, ",
+    "offset": 78677,
+    "length": 35
+  },
+  {
+    "key": "write_back",
+    "en": "Write back",
+    "vi": "Hồi âm",
+    "offset": 79816,
+    "length": 11
+  },
+  {
+    "key": "end_conversation",
+    "en": "End conversation",
+    "vi": "Kết thúc đối thoại",
+    "offset": 80213,
+    "length": 17
+  },
+  {
+    "key": "peace_silver_offer",
+    "en": "I can make it worthwhile if you drop all your claims.",
+    "vi": "Ta có thể đền bù một khoản hậu hĩnh nếu ngài từ bỏ mọi yêu sách chủ quyền.",
+    "offset": 80792,
+    "length": 54
+  },
+  {
+    "key": "peace_silver",
+    "en": "We can end this squabble - for a small payment.",
+    "vi": "Chúng ta có thể chấm dứt cuộc tranh chấp này — chỉ bằng một khoản bạc nhỏ.",
+    "offset": 82834,
+    "length": 48
+  },
+  {
+    "key": "claim_press",
+    "en": "I declare myself the true liege of...",
+    "vi": "Ta tuyên bố ta mới là Lãnh chúa hợp pháp của...",
+    "offset": 84723,
+    "length": 38
+  },
+  {
+    "key": "peace_silver_offer_accept",
+    "en": "I may withdraw my claims for such a price.",
+    "vi": "Với mức giá đó, ta có thể chấp thuận rút lại các yêu sách của mình.",
+    "offset": 86216,
+    "length": 43
+  },
+  {
+    "key": "peace_silver_offer_accept_descr",
+    "en": "Accept the offer to withdraw claims in exchange for payment.",
+    "vi": "Chấp nhận đề nghị rút lại yêu sách chủ quyền để đổi lấy tiền bạc bồi thường.",
+    "offset": 88019,
+    "length": 61
+  },
+  {
+    "key": "peace_silver_offer_refuse",
+    "en": "My claims are non negotiable.",
+    "vi": "Yêu sách chủ quyền của ta là điều không thể thương lượng.",
+    "offset": 89991,
+    "length": 30
+  },
+  {
+    "key": "peace_silver_offer_refuse_descr",
+    "en": "Decline offer to withdraw claims in exchange for payment.",
+    "vi": "Từ chối đề nghị rút lại yêu sách để lấy tiền bạc.",
+    "offset": 91152,
+    "length": 58
+  },
+  {
+    "key": "letter_start_prefix_optional",
+    "en": "Dear",
+    "vi": "Kính gửi",
+    "offset": 93090,
+    "length": 5
+  },
+  {
+    "key": "letter_start_suffix_optional",
+    "en": " ",
+    "vi": " ",
+    "offset": 863,
+    "length": 3
+  },
+  {
+    "key": "antagonism",
+    "en": " ",
+    "vi": " ",
+    "offset": 93385,
+    "length": 2
+  },
+  {
+    "key": "antagonism",
+    "en": "No influence cost",
+    "vi": "Không tốn Uy danh",
+    "offset": 93467,
+    "length": 18
+  },
+  {
+    "key": "paragraph_greetingsOnly",
+    "en": "<img id=\"Warn\"/> <r>Available only on greeting</>",
+    "vi": "<img id=\"Warn\"/> <r>Chỉ khả dụng khi chào hỏi ban đầu</>",
+    "offset": 94114,
+    "length": 50
+  },
+  {
+    "key": "need_silver",
+    "en": "I require silver for my endeavours.",
+    "vi": "Ta cần một khoản bạc cho các kế hoạch sắp tới.",
+    "offset": 95741,
+    "length": 36
+  },
+  {
+    "key": "war_surprise",
+    "en": "Your time has come!",
+    "vi": "Ngày tàn của ngươi đã điểm!",
+    "offset": 96908,
+    "length": 20
+  },
+  {
+    "key": "raider_greeting",
+    "en": "We've heard stories of hoards of coin and crop, and see they're ripe for the taking!  Pray tell, will you meet us in the field?  Or maybe grease our palms?",
+    "vi": "Bọn ta nghe đồn làng này vàng bạc đầy rương, lúa đầy kho, rất đáng để cướp một mẻ lớn! Khôn hồn thì vác tiền ra đút lót, bằng không thì hẹn gặp nhau trên sa trường!",
+    "offset": 97524,
+    "length": 156
+  },
+  {
+    "key": "raider_suggestSettle",
+    "en": "Perhaps Silver will convince you to join us",
+    "vi": "Có lẽ một khoản bạc hậu hĩnh sẽ thuyết phục các ngươi về dưới trướng của ta",
+    "offset": 103216,
+    "length": 44
+  },
+  {
+    "key": "raider_acceptSettle",
+    "en": "Your offer is generous - let us lay down our arms and put aside our differences - we're stronger together",
+    "vi": "Lời đề nghị của ngài rất hào phóng — hãy cùng buông vũ khí gác lại ân oán, đoàn kết lại chúng ta sẽ mạnh hơn",
+    "offset": 104951,
+    "length": 106
+  }
+]

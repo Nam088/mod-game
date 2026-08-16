@@ -1,0 +1,65 @@
+[
+  {
+    "key": "DT_Translation_Crops",
+    "en": "Crop Type",
+    "vi": "Loại cây trồng",
+    "offset": 24,
+    "length": 10
+  },
+  {
+    "key": "crops_1",
+    "en": "Fallow",
+    "vi": "Nghỉ hoang (Phục hồi đất)",
+    "offset": 448,
+    "length": 7
+  },
+  {
+    "key": "crops_2",
+    "en": "Wheat",
+    "vi": "Lúa mì",
+    "offset": 734,
+    "length": 6
+  },
+  {
+    "key": "crops_3",
+    "en": "Flax",
+    "vi": "Cây lanh",
+    "offset": 979,
+    "length": 5
+  },
+  {
+    "key": "crops_4",
+    "en": "Barley",
+    "vi": "Đại mạch",
+    "offset": 1174,
+    "length": 7
+  },
+  {
+    "key": "crops_8",
+    "en": "Rye",
+    "vi": "Lúa mạch đen",
+    "offset": 1412,
+    "length": 4
+  },
+  {
+    "key": "crops_11",
+    "en": "Carrots",
+    "vi": "Cà rốt",
+    "offset": 1642,
+    "length": 8
+  },
+  {
+    "key": "crops_12",
+    "en": "Cabbages",
+    "vi": "Bắp cải",
+    "offset": 1924,
+    "length": 9
+  },
+  {
+    "key": "crops_13",
+    "en": "Beetroots",
+    "vi": "Củ dền",
+    "offset": 2195,
+    "length": 10
+  }
+]

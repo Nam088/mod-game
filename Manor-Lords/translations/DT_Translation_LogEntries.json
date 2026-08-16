@@ -1,0 +1,492 @@
+[
+  {
+    "key": "family_joins",
+    "en": "Family members join one of the settlers.",
+    "vi": "Thành viên gia đình chuyển đến sống cùng một người định cư.",
+    "offset": 24,
+    "length": 41
+  },
+  {
+    "key": "no_free_oxen",
+    "en": "Wild Animals have migrated.",
+    "vi": "Thú hoang đã di cư sang nơi khác.",
+    "offset": 1468,
+    "length": 28
+  },
+  {
+    "key": "exposed_stocks_damaged_by_weather",
+    "en": "Stocks damaged by weather.",
+    "vi": "Hàng hóa lộ thiên bị hư hại do thời tiết.",
+    "offset": 2399,
+    "length": 27
+  },
+  {
+    "key": "construction_finished",
+    "en": "Construction finished.",
+    "vi": "Xây dựng hoàn tất.",
+    "offset": 3568,
+    "length": 23
+  },
+  {
+    "key": "no_recent_events",
+    "en": "No recent events.",
+    "vi": "Không có sự kiện gần đây.",
+    "offset": 4313,
+    "length": 18
+  },
+  {
+    "key": "stocks_getting_soaked",
+    "en": "Exposed stocks are getting soaked.",
+    "vi": "Hàng hóa lộ thiên đang bị ướt sũng.",
+    "offset": 5107,
+    "length": 35
+  },
+  {
+    "key": "bandit_camp_sighted",
+    "en": "A Bandit Camp was sighted.",
+    "vi": "Phát hiện một Trại cướp.",
+    "offset": 6346,
+    "length": 27
+  },
+  {
+    "key": "army_sighted",
+    "en": "Another Ruler's Army was sighted.",
+    "vi": "Phát hiện quân đội của một Lãnh chúa khác.",
+    "offset": 7300,
+    "length": 34
+  },
+  {
+    "key": "enemy_squad_spotted",
+    "en": "Enemy Unit has been spotted!",
+    "vi": "Đã phát hiện đơn vị quân địch!",
+    "offset": 8559,
+    "length": 29
+  },
+  {
+    "key": "tip_winter",
+    "en": "Winter is approaching.",
+    "vi": "Mùa đông đang đến gần.",
+    "offset": 9496,
+    "length": 23
+  },
+  {
+    "key": "new_family",
+    "en": "A new Family started moving in.",
+    "vi": "Một hộ gia đình mới bắt đầu dọn đến ở.",
+    "offset": 10056,
+    "length": 32
+  },
+  {
+    "key": "upgrade_complete",
+    "en": "Construction Upgrade complete.",
+    "vi": "Nâng cấp công trình hoàn tất.",
+    "offset": 11144,
+    "length": 31
+  },
+  {
+    "key": "claiming_region",
+    "en": "A Region is being claimed!",
+    "vi": "Một Vùng đất đang bị xác lập chủ quyền!",
+    "offset": 12230,
+    "length": 27
+  },
+  {
+    "key": "fire_started",
+    "en": "A fire broke out!",
+    "vi": "Hỏa hoạn bùng phát!",
+    "offset": 13244,
+    "length": 18
+  },
+  {
+    "key": "missing_stall_slot",
+    "en": "Family requests more Market Area for their stall.",
+    "vi": "Gia đình yêu cầu mở rộng Khu chợ để dựng thêm sạp hàng.",
+    "offset": 13903,
+    "length": 50
+  },
+  {
+    "key": "drought",
+    "en": "The lands are stricken by a drought!",
+    "vi": "Vùng đất đang phải hứng chịu nạn hạn hán!",
+    "offset": 15741,
+    "length": 37
+  },
+  {
+    "key": "logentries_8448",
+    "en": "Het land wordt getroffen door droogte!",
+    "vi": "Vùng đất đang phải hứng chịu nạn hạn hán!",
+    "offset": 16664,
+    "length": 39
+  },
+  {
+    "key": "drought_crops_died",
+    "en": "Crop yields were damaged by drought!",
+    "vi": "Sản lượng cây trồng bị thiệt hại nặng nề do hạn hán!",
+    "offset": 16752,
+    "length": 37
+  },
+  {
+    "key": "pantry_full",
+    "en": "Pantry is full",
+    "vi": "Tủ đựng thức ăn đã đầy",
+    "offset": 18078,
+    "length": 15
+  },
+  {
+    "key": "storage_full",
+    "en": "Storage is full",
+    "vi": "Kho chứa đã đầy",
+    "offset": 18705,
+    "length": 16
+  },
+  {
+    "key": "approval_critically_low",
+    "en": "Approval is critically low!",
+    "vi": "Lòng dân giảm xuống mức báo động!",
+    "offset": 19277,
+    "length": 28
+  },
+  {
+    "key": "no_room_to_produce_goods",
+    "en": "Production halted because storage is full",
+    "vi": "Tạm ngừng sản xuất vì kho chứa đã đầy",
+    "offset": 20342,
+    "length": 42
+  },
+  {
+    "key": "warn_supplies_food",
+    "en": "Running out of Food!",
+    "vi": "Sắp cạn kiệt Lương thực!",
+    "offset": 21847,
+    "length": 21
+  },
+  {
+    "key": "warn_supplies_fuel",
+    "en": "Running out of Fuel!",
+    "vi": "Sắp cạn kiệt Chất đốt!",
+    "offset": 22539,
+    "length": 21
+  },
+  {
+    "key": "no_room_to_produce_good",
+    "en": "No storage space left for production",
+    "vi": "Hết chỗ chứa cho sản phẩm mới tạo ra",
+    "offset": 23326,
+    "length": 37
+  },
+  {
+    "key": "no_builders",
+    "en": "Unassigned Families needed for construction work!",
+    "vi": "Cần gia đình chưa phân công việc để tham gia xây dựng!",
+    "offset": 24564,
+    "length": 50
+  },
+  {
+    "key": "hunger",
+    "en": "A family is hungry!",
+    "vi": "Một gia đình đang bị đói!",
+    "offset": 26358,
+    "length": 20
+  },
+  {
+    "key": "cold",
+    "en": "A family is cold!",
+    "vi": "Một gia đình đang bị rét!",
+    "offset": 27045,
+    "length": 18
+  },
+  {
+    "key": "crop_rotated",
+    "en": "Crops rotated",
+    "vi": "Đã luân canh cây trồng",
+    "offset": 27754,
+    "length": 14
+  },
+  {
+    "key": "death_hunger",
+    "en": "Death from starvation",
+    "vi": "Có người chết vì đói",
+    "offset": 28440,
+    "length": 22
+  },
+  {
+    "key": "death_cold",
+    "en": "Death from freezing cold",
+    "vi": "Có người chết vì giá rét",
+    "offset": 29010,
+    "length": 25
+  },
+  {
+    "key": "import_failed",
+    "en": "Not enough funds for import",
+    "vi": "Không đủ tiền để nhập khẩu hàng",
+    "offset": 29590,
+    "length": 28
+  },
+  {
+    "key": "no_free_ox_guide",
+    "en": "No unassigned families to guide the ox.",
+    "vi": "Không có gia đình rảnh rỗi để dắt bò kéo.",
+    "offset": 30576,
+    "length": 40
+  },
+  {
+    "key": "harvest_season_started",
+    "en": "Harvest season started",
+    "vi": "Mùa thu hoạch bắt đầu",
+    "offset": 32061,
+    "length": 23
+  },
+  {
+    "key": "harvest_season_ended",
+    "en": "Harvest season ended",
+    "vi": "Mùa thu hoạch kết thúc",
+    "offset": 32880,
+    "length": 21
+  },
+  {
+    "key": "field_unplowed_before_winter",
+    "en": "A field wasn't fully plowed before the Winter",
+    "vi": "Một thửa ruộng chưa kịp cày xong trước mùa đông",
+    "offset": 33699,
+    "length": 46
+  },
+  {
+    "key": "field_unsowed_before_winter",
+    "en": "A field wasn't fully sown before the Winter",
+    "vi": "Một thửa ruộng chưa kịp gieo hạt xong trước mùa đông",
+    "offset": 35340,
+    "length": 44
+  },
+  {
+    "key": "resources_added_to_inventory",
+    "en": "Resources added to the inventory",
+    "vi": "Tài nguyên đã được chuyển vào kho",
+    "offset": 37003,
+    "length": 33
+  },
+  {
+    "key": "goods_stolen",
+    "en": "Resource stolen by the nearby bandits",
+    "vi": "Tài nguyên bị giặc cướp lân cận lấy mất",
+    "offset": 38063,
+    "length": 38
+  },
+  {
+    "key": "policy_available",
+    "en": "Policies available",
+    "vi": "Đã có Chính sách mới",
+    "offset": 39324,
+    "length": 19
+  },
+  {
+    "key": "livestock_ordered",
+    "en": "Livestock order placed",
+    "vi": "Đã đặt mua gia súc",
+    "offset": 40005,
+    "length": 23
+  },
+  {
+    "key": "treasury_changed",
+    "en": "Treasury change registered",
+    "vi": "Biến động Ngân khố Lãnh chúa đã ghi nhận",
+    "offset": 40838,
+    "length": 27
+  },
+  {
+    "key": "no_free_oxen",
+    "en": "Unassigned Oxen are needed for construction",
+    "vi": "Cần Bò kéo chưa phân công để phục vụ xây dựng",
+    "offset": 41819,
+    "length": 44
+  },
+  {
+    "key": "mercenary_company_paid",
+    "en": "Mercenary Company paid",
+    "vi": "Đã trả lương cho Bang hội Đánh thuê",
+    "offset": 43381,
+    "length": 23
+  },
+  {
+    "key": "region_ownership_changed",
+    "en": "Region ownership changed",
+    "vi": "Chủ quyền Vùng đã thay đổi",
+    "offset": 44315,
+    "length": 25
+  },
+  {
+    "key": "unit_morale_broken",
+    "en": "Soldiers flee!",
+    "vi": "Binh lính tháo chạy vỡ trận!",
+    "offset": 45314,
+    "length": 15
+  },
+  {
+    "key": "mercenaries_available",
+    "en": "New Mercenary Companies available",
+    "vi": "Có thêm Bang hội Đánh thuê mới",
+    "offset": 45949,
+    "length": 34
+  },
+  {
+    "key": "influence_increased",
+    "en": "Influence increased!",
+    "vi": "Uy danh tăng lên!",
+    "offset": 46975,
+    "length": 21
+  },
+  {
+    "key": "animal_ran_away",
+    "en": "An animal ran away",
+    "vi": "Một con vật nuôi đã bỏ chạy mất",
+    "offset": 47705,
+    "length": 19
+  },
+  {
+    "key": "monthly_taxes_collected",
+    "en": "Monthly Taxes collected",
+    "vi": "Đã thu thuế hàng tháng",
+    "offset": 48328,
+    "length": 24
+  },
+  {
+    "key": "regional_wealth_gained",
+    "en": "Regional Wealth gained",
+    "vi": "Nhận thêm Tài sản vùng",
+    "offset": 49249,
+    "length": 23
+  },
+  {
+    "key": "band_of_raiders_seen_near",
+    "en": "A Band of Raiders was seen nearby",
+    "vi": "Phát hiện một toán cướp ở gần đây",
+    "offset": 50195,
+    "length": 34
+  },
+  {
+    "key": "goods_looted",
+    "en": "Goods looted!",
+    "vi": "Hàng hóa đã bị cướp phá!",
+    "offset": 51493,
+    "length": 14
+  },
+  {
+    "key": "fire_ended",
+    "en": "A fire has ended",
+    "vi": "Đám cháy đã được dập tắt",
+    "offset": 52079,
+    "length": 17
+  },
+  {
+    "key": "tithe_paid_goods_given",
+    "en": "Tithe paid, goods given away <img id=\"Food\"/>",
+    "vi": "Đã nộp Thuế Thập phân, chuyển lương thực đi <img id=\"Food\"/>",
+    "offset": 52714,
+    "length": 46
+  },
+  {
+    "key": "deforestation_killed_berries",
+    "en": "Deforestation removed Wild Berry bushes!",
+    "vi": "Nạn phá rừng làm biến mất bụi quả mọng hoang!",
+    "offset": 54393,
+    "length": 41
+  },
+  {
+    "key": "cant_find_space_for_weapon_storage",
+    "en": "Can't find a Storehouse for excess weapon storage",
+    "vi": "Không tìm thấy Kho vật tư để cất vũ khí dư thừa",
+    "offset": 55911,
+    "length": 50
+  },
+  {
+    "key": "mule_required_for_barter",
+    "en": "A mule is required for high value barter",
+    "vi": "Cần có La để thực hiện các chuyến đổi hàng giá trị cao",
+    "offset": 57619,
+    "length": 41
+  },
+  {
+    "key": "log_retinue_arrived",
+    "en": "A new retinue has formed!",
+    "vi": "Đội cận vệ mới đã tập hợp!",
+    "offset": 45187,
+    "length": 26
+  },
+  {
+    "key": "new_retinue_assembled",
+    "en": "New Retinue assembled!",
+    "vi": "Đội cận vệ mới đã tập hợp!",
+    "offset": 59239,
+    "length": 23
+  },
+  {
+    "key": "family_left_town",
+    "en": "A Family has left the town",
+    "vi": "Một hộ gia đình đã rời bỏ thị trấn",
+    "offset": 60019,
+    "length": 27
+  },
+  {
+    "key": "family_turned_to_banditry",
+    "en": "A Family has turned to Banditry!",
+    "vi": "Một hộ gia đình đã tha hóa đi làm giặc cướp!",
+    "offset": 60958,
+    "length": 33
+  },
+  {
+    "key": "not_enough_money_for_royal_taxes",
+    "en": "Not enough Treasury for the Annual Royal Tax!",
+    "vi": "Không đủ Ngân khố để nộp Thuế Hoàng gia hàng năm!",
+    "offset": 62086,
+    "length": 46
+  },
+  {
+    "key": "royal_tax_paid",
+    "en": "Annual Royal Taxes paid",
+    "vi": "Đã nộp Thuế Hoàng gia hàng năm",
+    "offset": 64017,
+    "length": 24
+  },
+  {
+    "key": "no_appropriate_storage_for_barter",
+    "en": "No valid storage for barter in this Region",
+    "vi": "Không có kho chứa phù hợp cho việc trao đổi hàng ở Vùng này",
+    "offset": 64998,
+    "length": 43
+  },
+  {
+    "key": "royal_tax_unpaid",
+    "en": "In debt to the King!",
+    "vi": "Đang nợ nần Nhà vua!",
+    "offset": 66705,
+    "length": 21
+  },
+  {
+    "key": "crushed",
+    "en": "A worker has been crushed in a collapsing building!",
+    "vi": "Một thợ làm việc bị đè chết do công trình sập đổ!",
+    "offset": 67530,
+    "length": 52
+  },
+  {
+    "key": "sheep_death",
+    "en": "A sheep grazing at high elevation was found dead of the cold.",
+    "vi": "Một con cừu gặm cỏ trên đồi cao bị chết cóng vì rét buốt.",
+    "offset": 69111,
+    "length": 62
+  },
+  {
+    "key": "crafting_botched_missing_maintenance",
+    "en": "Botched",
+    "vi": "Chế tác hỏng",
+    "offset": 71264,
+    "length": 8
+  },
+  {
+    "key": "crafting_botched_missing_maintenance_descr",
+    "en": "Crafting botched due to missing maintenance.",
+    "vi": "Chế tác bị hỏng do công trình thiếu bảo trì.",
+    "offset": 71592,
+    "length": 45
+  }
+]

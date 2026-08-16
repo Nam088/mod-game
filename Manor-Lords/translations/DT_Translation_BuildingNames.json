@@ -1,0 +1,604 @@
+[
+  {
+    "key": "buildingnames_4",
+    "en": "Burgage Plot (Level 1)",
+    "vi": "Nhà dân (Cấp 1)",
+    "offset": 24,
+    "length": 23
+  },
+  {
+    "key": "buildingnames_5",
+    "en": "Logging Camp",
+    "vi": "Trại đốn gỗ",
+    "offset": 754,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_6",
+    "en": "Field",
+    "vi": "Cánh đồng",
+    "offset": 1237,
+    "length": 6
+  },
+  {
+    "key": "buildingnames_7",
+    "en": "Trading Post",
+    "vi": "Trạm giao thương",
+    "offset": 1480,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_8",
+    "en": "Mining Pit",
+    "vi": "Mỏ khai khoáng",
+    "offset": 1891,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_9",
+    "en": "Burgage Plot (Level 2)",
+    "vi": "Nhà dân (Cấp 2)",
+    "offset": 2261,
+    "length": 23
+  },
+  {
+    "key": "buildingnames_11",
+    "en": "Pasture",
+    "vi": "Đồng cỏ chăn thả",
+    "offset": 2991,
+    "length": 8
+  },
+  {
+    "key": "buildingnames_14",
+    "en": "Marketplace",
+    "vi": "Khu chợ",
+    "offset": 3271,
+    "length": 12
+  },
+  {
+    "key": "buildingnames_15",
+    "en": "Hunting Camp",
+    "vi": "Trại săn bắn",
+    "offset": 3547,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_19",
+    "en": "Sawpit",
+    "vi": "Xưởng xẻ ván gỗ",
+    "offset": 4019,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_21",
+    "en": "Windmill",
+    "vi": "Cối xay gió",
+    "offset": 4382,
+    "length": 9
+  },
+  {
+    "key": "buildingnames_22",
+    "en": "Well",
+    "vi": "Giếng nước",
+    "offset": 4755,
+    "length": 5
+  },
+  {
+    "key": "buildingnames_26",
+    "en": "Smithy",
+    "vi": "Lò rèn",
+    "offset": 4994,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_27",
+    "en": "Communal Oven",
+    "vi": "Lò Bánh Mì",
+    "offset": 5341,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_29",
+    "en": "Tannery",
+    "vi": "Xưởng thuộc da",
+    "offset": 5794,
+    "length": 8
+  },
+  {
+    "key": "buildingnames_31",
+    "en": "Hitching Post",
+    "vi": "Cọc buộc gia súc",
+    "offset": 6118,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_32",
+    "en": "Sheep Farm",
+    "vi": "Trại nuôi cừu",
+    "offset": 6572,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_33",
+    "en": "Charcoal Kiln",
+    "vi": "Lò than củi",
+    "offset": 6953,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_34",
+    "en": "Weaver's Workshop",
+    "vi": "Xưởng dệt",
+    "offset": 7406,
+    "length": 18
+  },
+  {
+    "key": "buildingnames_35",
+    "en": "Wooden Church",
+    "vi": "Nhà thờ gỗ",
+    "offset": 7863,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_36",
+    "en": "Quarry",
+    "vi": "Mỏ đá",
+    "offset": 8323,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_37",
+    "en": "Forager Hut",
+    "vi": "Lán hái lượm",
+    "offset": 8644,
+    "length": 12
+  },
+  {
+    "key": "buildingnames_38",
+    "en": "Small Tavern",
+    "vi": "Quán bia nhỏ",
+    "offset": 9171,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_40",
+    "en": "Fishing Pond",
+    "vi": "Ao cá",
+    "offset": 9597,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_43",
+    "en": "Stone Gatherer Camp",
+    "vi": "Trại nhặt đá",
+    "offset": 9954,
+    "length": 20
+  },
+  {
+    "key": "buildingnames_44",
+    "en": "Bloomery",
+    "vi": "Lò luyện sắt",
+    "offset": 10546,
+    "length": 9
+  },
+  {
+    "key": "buildingnames_51",
+    "en": "Walls and Gates",
+    "vi": "Tường và Cổng",
+    "offset": 10861,
+    "length": 16
+  },
+  {
+    "key": "buildingnames_52",
+    "en": "Apiary",
+    "vi": "Trại ong",
+    "offset": 11330,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_53",
+    "en": "Deep Mine",
+    "vi": "Mỏ sâu",
+    "offset": 11633,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_58",
+    "en": "Garrison Tower",
+    "vi": "Tháp đồn trú",
+    "offset": 12037,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_59",
+    "en": "Tax Office",
+    "vi": "Phòng thu thuế",
+    "offset": 12513,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_61",
+    "en": "Burgage Plot (Level 3)",
+    "vi": "Nhà dân (Cấp 3)",
+    "offset": 13448,
+    "length": 23
+  },
+  {
+    "key": "buildingnames_62",
+    "en": "Malthouse",
+    "vi": "Nhà ủ mạch nha",
+    "offset": 14178,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_69",
+    "en": "Large Granary",
+    "vi": "Kho lương thực lớn",
+    "offset": 14516,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_70",
+    "en": "Farmhouse",
+    "vi": "Nông trang",
+    "offset": 15013,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_73",
+    "en": "Storehouse",
+    "vi": "Kho vật tư",
+    "offset": 15341,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_76",
+    "en": "Rubble",
+    "vi": "Đống đổ nát",
+    "offset": 15624,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_78",
+    "en": "Small Stone Church",
+    "vi": "Nhà thờ đá nhỏ",
+    "offset": 15891,
+    "length": 19
+  },
+  {
+    "key": "buildingnames_80",
+    "en": "Livestock Trading Post",
+    "vi": "Chợ gia súc",
+    "offset": 16452,
+    "length": 23
+  },
+  {
+    "key": "buildingnames_81",
+    "en": "Granary",
+    "vi": "Kho lương thực",
+    "offset": 17189,
+    "length": 8
+  },
+  {
+    "key": "buildingnames_85",
+    "en": "Shrine",
+    "vi": "Miếu thờ",
+    "offset": 17501,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_87",
+    "en": "Forester's Hut",
+    "vi": "Lán trồng rừng",
+    "offset": 17776,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_88",
+    "en": "Homeless People's Tents",
+    "vi": "Lều người vô gia cư",
+    "offset": 18286,
+    "length": 24
+  },
+  {
+    "key": "buildingnames_89",
+    "en": "Supplies",
+    "vi": "Nhu yếu phẩm",
+    "offset": 18882,
+    "length": 9
+  },
+  {
+    "key": "buildingnames_90",
+    "en": "Woodcutter's Lodge",
+    "vi": "Trại đốn củi",
+    "offset": 19210,
+    "length": 19
+  },
+  {
+    "key": "buildingnames_92",
+    "en": "Food Stall",
+    "vi": "Sạp đồ ăn",
+    "offset": 19733,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_93",
+    "en": "Firewood Stall",
+    "vi": "Sạp củi sưởi",
+    "offset": 20195,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_94",
+    "en": "Common Goods Stall",
+    "vi": "Sạp đồ dùng",
+    "offset": 20729,
+    "length": 19
+  },
+  {
+    "key": "buildingnames_96",
+    "en": "Gatehouse",
+    "vi": "Cổng thành",
+    "offset": 21410,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_98",
+    "en": "Small Stable",
+    "vi": "Chuồng ngựa nhỏ",
+    "offset": 21735,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_99",
+    "en": "Manor",
+    "vi": "Dinh thự Lãnh chúa",
+    "offset": 22173,
+    "length": 6
+  },
+  {
+    "key": "buildingnames_100",
+    "en": "Large Storehouse",
+    "vi": "Kho vật tư lớn",
+    "offset": 22483,
+    "length": 17
+  },
+  {
+    "key": "buildingnames_101",
+    "en": "Bandit Camp",
+    "vi": "Trại cướp",
+    "offset": 22968,
+    "length": 12
+  },
+  {
+    "key": "buildingnames_103",
+    "en": "Firewood Cart",
+    "vi": "Xe củi sưởi",
+    "offset": 23461,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_104",
+    "en": "Food Cart",
+    "vi": "Xe đồ ăn",
+    "offset": 23994,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_105",
+    "en": "Destroyed Windmill",
+    "vi": "Cối xay gió đổ nát",
+    "offset": 24460,
+    "length": 19
+  },
+  {
+    "key": "buildingnames_107",
+    "en": "Granary Remains",
+    "vi": "Tàn tích kho lương",
+    "offset": 25086,
+    "length": 16
+  },
+  {
+    "key": "buildingnames_108",
+    "en": "Settlers Camp",
+    "vi": "Trại định cư",
+    "offset": 25663,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_109",
+    "en": "Clay Furnace",
+    "vi": "Lò nung đất sét",
+    "offset": 26165,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_111",
+    "en": "Erase Shrubbery",
+    "vi": "Dọn bụi rậm",
+    "offset": 26537,
+    "length": 16
+  },
+  {
+    "key": "buildingnames_112",
+    "en": "Worker Camp",
+    "vi": "Trại công nhân",
+    "offset": 27056,
+    "length": 12
+  },
+  {
+    "key": "buildingnames_113",
+    "en": "Pack Station",
+    "vi": "Trạm thồ hàng",
+    "offset": 27552,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_114",
+    "en": "Corpse Pit",
+    "vi": "Hố chôn xác",
+    "offset": 28054,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_115",
+    "en": "Stone Well",
+    "vi": "Giếng đá",
+    "offset": 28464,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_117",
+    "en": "Large Tavern",
+    "vi": "Quán bia lớn",
+    "offset": 28876,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_118",
+    "en": "Stonemason's Station",
+    "vi": "Xưởng đẽo đá",
+    "offset": 29305,
+    "length": 21
+  },
+  {
+    "key": "buildingnames_119",
+    "en": "Lime Kiln",
+    "vi": "Lò nung vôi",
+    "offset": 29874,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_120",
+    "en": "Construction Yard",
+    "vi": "Công trường",
+    "offset": 30271,
+    "length": 18
+  },
+  {
+    "key": "buildingnames_473",
+    "en": "Outer Tower",
+    "vi": "Tháp canh ngoài",
+    "offset": 30756,
+    "length": 12
+  },
+  {
+    "key": "buildingnames_474",
+    "en": "Dyer's Workshop",
+    "vi": "Xưởng nhuộm",
+    "offset": 31145,
+    "length": 16
+  },
+  {
+    "key": "buildingnames_484",
+    "en": "Siege Camp",
+    "vi": "Trại công thành",
+    "offset": 31690,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_485",
+    "en": "Burgage Plot (Level 4)",
+    "vi": "Nhà dân (Cấp 4)",
+    "offset": 32172,
+    "length": 23
+  },
+  {
+    "key": "BuildingID",
+    "en": "Borgerlod (niveau 4)",
+    "vi": "Nhà dân (Cấp 4)",
+    "offset": 32599,
+    "length": 21
+  },
+  {
+    "key": "buildingnames_2",
+    "en": "Chicken Coop",
+    "vi": "Chuồng gà",
+    "offset": 32702,
+    "length": 13
+  },
+  {
+    "key": "buildingnames_3",
+    "en": "Goat Shed",
+    "vi": "Chuồng dê",
+    "offset": 33034,
+    "length": 10
+  },
+  {
+    "key": "buildingnames_4",
+    "en": "Blacksmith",
+    "vi": "Lò rèn",
+    "offset": 33424,
+    "length": 11
+  },
+  {
+    "key": "buildingnames_5",
+    "en": "Bakery",
+    "vi": "Lò bánh mì",
+    "offset": 33702,
+    "length": 7
+  },
+  {
+    "key": "buildingnames_6",
+    "en": "Brewery",
+    "vi": "Xưởng ủ bia",
+    "offset": 34020,
+    "length": 8
+  },
+  {
+    "key": "buildingnames_7",
+    "en": "Tailor's Shop",
+    "vi": "Tiệm may",
+    "offset": 34326,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_8",
+    "en": "Cobbler's Shop",
+    "vi": "Tiệm đóng giày",
+    "offset": 34776,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_9",
+    "en": "Vegetable Garden",
+    "vi": "Vườn rau",
+    "offset": 35219,
+    "length": 17
+  },
+  {
+    "key": "buildingnames_10",
+    "en": "Joiner's Shop",
+    "vi": "Xưởng đồ gỗ",
+    "offset": 35623,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_11",
+    "en": "Armorer's Shop",
+    "vi": "Xưởng rèn giáp",
+    "offset": 36049,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_12",
+    "en": "Bowyer's Shop",
+    "vi": "Xưởng làm cung",
+    "offset": 36541,
+    "length": 14
+  },
+  {
+    "key": "buildingnames_14",
+    "en": "Butcher's Shop",
+    "vi": "Tiệm thịt",
+    "offset": 37021,
+    "length": 15
+  },
+  {
+    "key": "buildingnames_15",
+    "en": "Smallholding",
+    "vi": "Trang trại nhỏ",
+    "offset": 37411,
+    "length": 13
+  }
+]

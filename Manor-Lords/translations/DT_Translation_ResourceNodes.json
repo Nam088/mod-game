@@ -1,0 +1,72 @@
+[
+  {
+    "key": "resNode_stone",
+    "en": "Stone",
+    "vi": "Mỏ đá",
+    "offset": 24,
+    "length": 6
+  },
+  {
+    "key": "resNode_berries",
+    "en": "Wild Berries",
+    "vi": "Bụi quả mọng",
+    "offset": 266,
+    "length": 13
+  },
+  {
+    "key": "res_wildAnimals",
+    "en": "Wild Animals",
+    "vi": "Bầy thú hoang",
+    "offset": 677,
+    "length": 13
+  },
+  {
+    "key": "resNode_iron",
+    "en": "Iron",
+    "vi": "Mỏ sắt",
+    "offset": 1066,
+    "length": 5
+  },
+  {
+    "key": "resNode_clay",
+    "en": "Clay",
+    "vi": "Mỏ đất sét",
+    "offset": 1301,
+    "length": 5
+  },
+  {
+    "key": "travelling_merchant",
+    "en": "Travelling Merchant",
+    "vi": "Thương nhân",
+    "offset": 1542,
+    "length": 20
+  },
+  {
+    "key": "resNode_fish",
+    "en": "Shoal of Fish",
+    "vi": "Đàn cá",
+    "offset": 2047,
+    "length": 14
+  },
+  {
+    "key": "resNode_eel",
+    "en": "Shoal of Fish",
+    "vi": "Đàn cá chình",
+    "offset": 2396,
+    "length": 14
+  },
+  {
+    "key": "resNode_salt",
+    "en": "Salt",
+    "vi": "Mỏ muối",
+    "offset": 2745,
+    "length": 5
+  },
+  {
+    "key": "resNode_mushrooms",
+    "en": "Mushrooms",
+    "vi": "Bãi nấm",
+    "offset": 2949,
+    "length": 10
+  }
+]

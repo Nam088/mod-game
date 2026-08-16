@@ -1,0 +1,30 @@
+[
+  {
+    "key": "restoring_the_peace",
+    "en": "Restoring the Peace",
+    "vi": "Lập lại Hòa bình",
+    "offset": 24,
+    "length": 20
+  },
+  {
+    "key": "I_will_restore_peace",
+    "en": "I vow to restore peace and prosperity to this land.",
+    "vi": "Ta xin thề sẽ đem lại hòa bình và thịnh vượng cho mảnh đất này.",
+    "offset": 14281,
+    "length": 52
+  },
+  {
+    "key": "weapons_delivery",
+    "en": "Armament delivery",
+    "vi": "Chuyến hàng quân nhu",
+    "offset": 16283,
+    "length": 18
+  },
+  {
+    "key": "weapons_delivery_descr",
+    "en": "A strong militia is paramount to the survival of any settlement. Luckily, a shipment of weapons has just arrived, and you will now be able to create your first militia banners to serve you and protect your people. {br}{br}However, we will need more weapons to equip all the people as the settlement grows, either by making them or importing them from other lands.",
+    "vi": "Một đội dân quân hùng mạnh là yếu tố sống còn cho sự tồn vong của bất kỳ khu định cư nào. May mắn thay, một chuyến hàng vũ khí vừa mới cập bến, giúp bạn lập nên những toán Dân quân đầu tiên phụng sự lãnh chúa và bảo vệ xóm làng.{br}{br}Tuy nhiên, khi khu định cư ngày một lớn mạnh, bạn sẽ cần thêm nhiều vũ khí hơn nữa bằng cách tự rèn đúc hoặc nhập khẩu từ các vùng đất khác.",
+    "offset": 16794,
+    "length": 364
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "key": "current_effect",
+    "en": "Current Effect",
+    "vi": "Hiệu ứng hiện tại",
+    "offset": 24,
+    "length": 15
+  },
+  {
+    "key": "effect_inactive",
+    "en": "Inactive (no workers assigned)",
+    "vi": "Chưa kích hoạt (Chưa phân công thợ)",
+    "offset": 451,
+    "length": 31
+  },
+  {
+    "key": "affinities_10496",
+    "en": "Inativo (sem trabalhadores designados)",
+    "vi": "Chưa kích hoạt (Chưa phân công thợ)",
+    "offset": 766,
+    "length": 39
+  },
+  {
+    "key": "connected_affinities",
+    "en": "Connected Affinities",
+    "vi": "Đặc tính liên kết",
+    "offset": 1448,
+    "length": 21
+  },
+  {
+    "key": "pollination",
+    "en": "Pollination",
+    "vi": "Thụ phấn hoa",
+    "offset": 2100,
+    "length": 12
+  },
+  {
+    "key": "pollination_descr",
+    "en": "<i>Fertility drifts on breeze and wing.</>{br}{br}<img id=\"Crops\"/><h>Crop</>, <img id=\"Fruits\"/><h>Orchard</> and <img id=\"Vegetables\"/><h>Vegetable</> yields are increased by an amount equal to 30% of the combined <img id=\"env_meadow\"/><h>Meadow Environment</> and <img id=\"Affinity_Apiation\"/><h>Apiation Affinity</> values.",
+    "vi": "<i>Độ phì nhiêu lan tỏa theo làn gió và cánh ong.</>{br}{br}Sản lượng <img id=\"Crops\"/><h>Mùa màng</>, <img id=\"Fruits\"/><h>Vườn cây</> và <img id=\"Vegetables\"/><h>Rau củ</> tăng thêm một lượng tương đương 30% tổng giá trị <img id=\"env_meadow\"/><h>Môi trường Đồng cỏ</> và <img id=\"Affinity_Apiation\"/><h>Đặc tính Nuôi ong</>.",
+    "offset": 2472,
+    "length": 328
+  },
+  {
+    "key": "wilding",
+    "en": "Wilding",
+    "vi": "Tự nhiên hoang dã",
+    "offset": 13655,
+    "length": 8
+  },
+  {
+    "key": "apiation",
+    "en": "Apiation",
+    "vi": "Nuôi ong lấy mật",
+    "offset": 19983,
+    "length": 9
+  },
+  {
+    "key": "pannage",
+    "en": "Pannage",
+    "vi": "Thả lợn ăn quả rừng",
+    "offset": 25233,
+    "length": 8
+  },
+  {
+    "key": "pannage_descr",
+    "en": "<i>The swine grow fat on mast and acorn.</>{br}{br}<img id=\"ItemID_321\"/><h>Pigs</> time to yield decreases by an amount equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
+    "vi": "<i>Đàn lợn béo mầm nhờ quả sồi và hạt dẻ rừng.</>{br}{br}Thời gian xuất chuồng của <img id=\"ItemID_321\"/><h>Lợn</> giảm một lượng tương đương chỉ số <img id=\"env_woodland\"/><h>Môi trường Rừng rậm</>.",
+    "offset": 25654,
+    "length": 186
+  },
+  {
+    "key": "teeming",
+    "en": "Teeming",
+    "vi": "Sinh sôi nảy nở",
+    "offset": 32313,
+    "length": 8
+  },
+  {
+    "key": "teeming_descr",
+    "en": "<i>A thriving ecosystem hums beneath the trees.</>{br}{br}Adds a chance for <img id=\"Animals\"/><h>Wild Animals</> to produce two offspring instead of one, and for <img id=\"Berries\"/><h>Berries</> and <img id=\"MushroomDeposit\"/><h>Mushrooms</> to grow one resource more per clump, equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
+    "vi": "<i>Hệ sinh thái trù phú sinh sôi rộn rã dưới những tán cây.</>{br}{br}Tăng tỷ lệ <img id=\"Animals\"/><h>Thú hoang</> sinh đôi thay vì sinh một con non, đồng thời <img id=\"Berries\"/><h>Quả mọng</> và <img id=\"MushroomDeposit\"/><h>Nấm</> mọc thêm một đơn vị mỗi bụi, tương đương chỉ số <img id=\"env_woodland\"/><h>Môi trường Rừng rậm</>.",
+    "offset": 32633,
+    "length": 345
+  },
+  {
+    "key": "barkGathering",
+    "en": "Bark Gathering",
+    "vi": "Thu hoạch vỏ cây sồi",
+    "offset": 44642,
+    "length": 15
+  },
+  {
+    "key": "localHandymen",
+    "en": "Local Handymen",
+    "vi": "Thợ thủ công địa phương",
+    "offset": 51182,
+    "length": 15
+  },
+  {
+    "key": "---ENVIRONMENTS----",
+    "en": "Meadow",
+    "vi": "Đồng cỏ",
+    "offset": 58999,
+    "length": 7
+  },
+  {
+    "key": "meadow_descr",
+    "en": "Gently rolling grasslands dotted with wildflowers vital for grazing, haymaking and healthy bee populations.",
+    "vi": "Những triền cỏ thoai thoải điểm xuyết hoa dại, rất quan trọng cho việc chăn thả gia súc, phơi cỏ khô và nuôi dưỡng các đàn ong khỏe mạnh.",
+    "offset": 59249,
+    "length": 108
+  },
+  {
+    "key": "woodland",
+    "en": "Woodland",
+    "vi": "Rừng rậm",
+    "offset": 63202,
+    "length": 9
+  },
+  {
+    "key": "woodland_descr",
+    "en": "Dense and shadowed, the forest teems with animal life and resources.",
+    "vi": "Rừng rậm rạp và râm mát, tràn đầy các loài thú hoang dã và tài nguyên dồi dào.",
+    "offset": 63445,
+    "length": 69
+  },
+  {
+    "key": "farmland",
+    "en": "Farmland",
+    "vi": "Đất nông nghiệp",
+    "offset": 65438,
+    "length": 9
+  },
+  {
+    "key": "farmland_descr",
+    "en": "Divided strips of soil, toiled to provide food, drink and clothing.",
+    "vi": "Những luống cày chia ô, được dày công canh tác để cung cấp lương thực, đồ uống và sợi may mặc.",
+    "offset": 65804,
+    "length": 68
+  },
+  {
+    "key": "rural",
+    "en": "Rural",
+    "vi": "Nông thôn",
+    "offset": 68185,
+    "length": 6
+  },
+  {
+    "key": "rural_descr",
+    "en": "Life here is shaped by the rhythm of harvests, lordly dues, and the slow churn of age-old customs.",
+    "vi": "Cuộc sống nơi đây xoay quanh nhịp điệu của các vụ mùa thu hoạch, nghĩa vụ thuế khóa của lãnh chúa và những phong tục tập quán lâu đời.",
+    "offset": 68506,
+    "length": 99
+  },
+  {
+    "key": "urban",
+    "en": "Urban",
+    "vi": "Thành thị",
+    "offset": 71522,
+    "length": 6
+  },
+  {
+    "key": "urban_descr",
+    "en": "Bustling city streets echo with the clang of the forges and the chatter of traders.",
+    "vi": "Đường phố thị trấn nhộn nhịp rộn vang tiếng búa đe của lò rèn và tiếng râm ran ngã giá của các thương nhân.",
+    "offset": 71814,
+    "length": 84
+  }
+]

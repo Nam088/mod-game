@@ -1,0 +1,44 @@
+[
+  {
+    "key": "barter_warning",
+    "en": "Both Regions must offer something for barter to work",
+    "vi": "Cả hai Vùng đều phải đưa ra hàng hóa trao đổi thì mới có thể tiến hành đổi hàng",
+    "offset": 24,
+    "length": 53
+  },
+  {
+    "key": "market_supply_descr",
+    "en": "This view shows the <h>Availability</> of Goods and Services provided by this building to the <h>Burgage Plots</>.{br}{br}By hovering over the type of Good or Service below, an overlay will indicate the <h>Burgage Plots</> level of access to that type. The <h>Availability</> of goods and services always reaches the nearest <h>Burgage Plots</> first.{br}{br}Additionally, the tooltip shows how many <h>Burgage Plots</> are currently supplied, and how much of the Good or Service is in surplus.",
+    "vi": "Giao diện này hiển thị <h>Mức độ Sẵn có</> của Hàng hóa và Dịch vụ mà công trình này cung cấp cho các <h>Nhà dân</>.{br}{br}Khi rê chuột qua loại Hàng hóa hoặc Dịch vụ bên dưới, một lớp phủ sẽ hiển thị mức độ tiếp cận của từng <h>Nhà dân</>. <h>Hàng hóa và Dịch vụ</> sẽ luôn được ưu tiên phân phối tới những <h>Nhà dân</> ở gần nhất trước.{br}{br}Ngoài ra, bảng thông tin cũng cho biết hiện có bao nhiêu <h>Nhà dân</> đã được cung ứng đủ và lượng Hàng hóa/Dịch vụ còn thặng dư là bao nhiêu.",
+    "offset": 2049,
+    "length": 495
+  },
+  {
+    "key": "market_limits",
+    "en": "Supply limits",
+    "vi": "Giới hạn cung ứng",
+    "offset": 18332,
+    "length": 14
+  },
+  {
+    "key": "current_town_size",
+    "en": "Settlement size",
+    "vi": "Quy mô định cư",
+    "offset": 18901,
+    "length": 16
+  },
+  {
+    "key": "load_custom_coat",
+    "en": "Load a custom texture",
+    "vi": "Tải họa tiết huy hiệu tùy chỉnh",
+    "offset": 19489,
+    "length": 22
+  },
+  {
+    "key": "load_custom_coat_descr",
+    "en": "Go to Drive/Users/Username/AppData/Local/ManorLords/Saved/SaveGames/ and place your square custom_coat.png file to import your custom graphic for the coat of arms and the banner.",
+    "vi": "Truy cập thư mục Drive/Users/Username/AppData/Local/ManorLords/Saved/SaveGames/ và đặt file custom_coat.png hình vuông vào đó để nhập hình ảnh huy hiệu và cờ hiệu cá nhân của bạn.",
+    "offset": 20291,
+    "length": 179
+  }
+]

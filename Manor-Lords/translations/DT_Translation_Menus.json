@@ -1,0 +1,3670 @@
+[
+  {
+    "key": "game_paused",
+    "en": "Game Paused",
+    "vi": "Đã tạm dừng trò chơi",
+    "offset": 24,
+    "length": 12
+  },
+  {
+    "key": "continue",
+    "en": "Continue",
+    "vi": "Tiếp tục chơi",
+    "offset": 505,
+    "length": 9
+  },
+  {
+    "key": "new_game",
+    "en": "New Game",
+    "vi": "Chơi mới",
+    "offset": 824,
+    "length": 9
+  },
+  {
+    "key": "save_game",
+    "en": "Save Game",
+    "vi": "Lưu game",
+    "offset": 1150,
+    "length": 10
+  },
+  {
+    "key": "load_game",
+    "en": "Load Game",
+    "vi": "Tải bản lưu",
+    "offset": 1540,
+    "length": 10
+  },
+  {
+    "key": "settings",
+    "en": "Settings",
+    "vi": "Cài đặt",
+    "offset": 1965,
+    "length": 9
+  },
+  {
+    "key": "credits",
+    "en": "Credits",
+    "vi": "Đội ngũ phát triển",
+    "offset": 2327,
+    "length": 8
+  },
+  {
+    "key": "restart",
+    "en": "Restart",
+    "vi": "Chơi lại từ đầu",
+    "offset": 2674,
+    "length": 8
+  },
+  {
+    "key": "main_menu",
+    "en": "Main Menu",
+    "vi": "Menu chính",
+    "offset": 3038,
+    "length": 10
+  },
+  {
+    "key": "quit_game",
+    "en": "Quit Game",
+    "vi": "Thoát trò chơi",
+    "offset": 3442,
+    "length": 10
+  },
+  {
+    "key": "close",
+    "en": "Close",
+    "vi": "Đóng",
+    "offset": 3866,
+    "length": 6
+  },
+  {
+    "key": "return",
+    "en": "Return",
+    "vi": "Quay lại",
+    "offset": 4128,
+    "length": 7
+  },
+  {
+    "key": "create_new_save",
+    "en": "Create New Save",
+    "vi": "Tạo bản lưu mới",
+    "offset": 4404,
+    "length": 16
+  },
+  {
+    "key": "overwrite_save",
+    "en": "Overwrite Save",
+    "vi": "Ghi đè bản lưu",
+    "offset": 5047,
+    "length": 15
+  },
+  {
+    "key": "save_game_no",
+    "en": "Save Game No.",
+    "vi": "Bản lưu số",
+    "offset": 5683,
+    "length": 14
+  },
+  {
+    "key": "scenario_baron",
+    "en": "Restoring the Peace",
+    "vi": "Khôi phục Hòa bình",
+    "offset": 6208,
+    "length": 20
+  },
+  {
+    "key": "scenario_baron_descr",
+    "en": "Reclaim the lands from the illegitimate Lord and clear all regions of banditry.",
+    "vi": "Đoạt lại các vùng đất từ tay tên Lãnh chúa tiếm quyền và quét sạch toàn bộ các trại cướp khỏi bản đồ.",
+    "offset": 6752,
+    "length": 80
+  },
+  {
+    "key": "scenario_conquest",
+    "en": "Conquest",
+    "vi": "Chinh phục Lãnh thổ",
+    "offset": 9445,
+    "length": 9
+  },
+  {
+    "key": "scenario_conquest_descr",
+    "en": "Due to a tangled  history, there are multiple claimants to these disputed lands. Use economy, diplomacy, and warfare to your advantage to become the sole ruler.",
+    "vi": "Vùng đất đang xảy ra tranh chấp gay gắt giữa nhiều thế lực Lãnh chúa. Hãy kết hợp sức mạnh kinh tế, tài ngoại giao và binh lực quân sự để thống nhất toàn cõi dưới sự thống trị của bạn.",
+    "offset": 9782,
+    "length": 161
+  },
+  {
+    "key": "scenario_sandbox",
+    "en": "Rise to Prosperity",
+    "vi": "Vươn tới Phồn vinh (Xây dựng)",
+    "offset": 15240,
+    "length": 19
+  },
+  {
+    "key": "scenario_sandbox_descr",
+    "en": "You are the first lord to settle these lands. Start from nothing and build a prosperous medieval city.",
+    "vi": "Bạn là vị Lãnh chúa đầu tiên đặt chân đến khai phá vùng đất này. Hãy bắt đầu từ con số không và xây dựng nên một đại đô thị thời trung cổ trù phú, yên bình.",
+    "offset": 15871,
+    "length": 103
+  },
+  {
+    "key": "scenario_battle_bandits",
+    "en": "Battle challenge: The ambush",
+    "vi": "Thử thách chiến trận: Bị phục kích",
+    "offset": 19365,
+    "length": 29
+  },
+  {
+    "key": "scenario_battle_bandits_descr",
+    "en": "You've raised a small force, intending to put an end to the local bandit lord and his troops. Unfortunately, they knew you were coming.",
+    "vi": "Bạn đã tập hợp một cánh quân nhỏ nhằm tiêu diệt tên đầu sỏ giặc cướp và sào huyệt của hắn. Không may thay, chúng đã đánh hơi thấy bạn từ trước và giăng bẫy phục kích.",
+    "offset": 20185,
+    "length": 136
+  },
+  {
+    "key": "scenario_battle_field",
+    "en": "Battle challenge: The open field",
+    "vi": "Thử thách chiến trận: Huyết chiến đồng hoang",
+    "offset": 24571,
+    "length": 33
+  },
+  {
+    "key": "scenario_battle_field_descr",
+    "en": "You've waited a long time to see your rival face-to-face. Now you get a chance to finally put him and his army in their place.",
+    "vi": "Đã đến lúc bạn đối đầu trực diện với tên Lãnh chúa thù địch. Hãy dẫn dắt đạo quân của bạn nghiền nát kẻ thù trên bãi chiến trường rộng lớn!",
+    "offset": 25528,
+    "length": 127
+  },
+  {
+    "key": "player_name",
+    "en": "Name",
+    "vi": "Tên Lãnh chúa",
+    "offset": 29702,
+    "length": 5
+  },
+  {
+    "key": "game_setup_header",
+    "en": "Game Setup",
+    "vi": "Thiết lập Trò chơi",
+    "offset": 29916,
+    "length": 11
+  },
+  {
+    "key": "coat_of_arms",
+    "en": "Coat of Arms",
+    "vi": "Gia huy Lãnh chúa",
+    "offset": 30432,
+    "length": 13
+  },
+  {
+    "key": "field_A",
+    "en": "Field A",
+    "vi": "Ô mảng A",
+    "offset": 30745,
+    "length": 8
+  },
+  {
+    "key": "field_B",
+    "en": "Field B",
+    "vi": "Ô mảng B",
+    "offset": 31046,
+    "length": 8
+  },
+  {
+    "key": "field_C",
+    "en": "Field C",
+    "vi": "Ô mảng C",
+    "offset": 31347,
+    "length": 8
+  },
+  {
+    "key": "field_D",
+    "en": "Field D",
+    "vi": "Ô mảng D",
+    "offset": 31648,
+    "length": 8
+  },
+  {
+    "key": "field_E",
+    "en": "Field E",
+    "vi": "Ô mảng E",
+    "offset": 31949,
+    "length": 8
+  },
+  {
+    "key": "coat_bg",
+    "en": "Background",
+    "vi": "Màu nền",
+    "offset": 32250,
+    "length": 11
+  },
+  {
+    "key": "coat_fg",
+    "en": "Symbol",
+    "vi": "Biểu tượng",
+    "offset": 32520,
+    "length": 7
+  },
+  {
+    "key": "portrait",
+    "en": "Portrait",
+    "vi": "Chân dung",
+    "offset": 32780,
+    "length": 9
+  },
+  {
+    "key": "color_primary",
+    "en": "Primary Color",
+    "vi": "Màu sắc chính",
+    "offset": 33081,
+    "length": 14
+  },
+  {
+    "key": "color_secondary",
+    "en": "Secondary Color",
+    "vi": "Màu sắc phụ",
+    "offset": 33529,
+    "length": 16
+  },
+  {
+    "key": "num_instances",
+    "en": "Number of instances",
+    "vi": "Số lượng biểu tượng",
+    "offset": 34040,
+    "length": 20
+  },
+  {
+    "key": "symbol_scale",
+    "en": "Scale",
+    "vi": "Kích cỡ",
+    "offset": 34447,
+    "length": 6
+  },
+  {
+    "key": "pattern_tiling",
+    "en": "Tiling",
+    "vi": "Lặp hoa văn",
+    "offset": 34701,
+    "length": 7
+  },
+  {
+    "key": "pattern_angle",
+    "en": "Angle",
+    "vi": "Góc xoay",
+    "offset": 35068,
+    "length": 6
+  },
+  {
+    "key": "game_settings",
+    "en": "Game Settings",
+    "vi": "Tùy chỉnh Thế giới",
+    "offset": 35305,
+    "length": 14
+  },
+  {
+    "key": "gameSetting_supplies",
+    "en": "Starting Supplies",
+    "vi": "Đồ tiếp tế ban đầu",
+    "offset": 35832,
+    "length": 18
+  },
+  {
+    "key": "gameSetting_tutorialQuests",
+    "en": "Tutorial Quests",
+    "vi": "Nhiệm vụ Hướng dẫn",
+    "offset": 36405,
+    "length": 16
+  },
+  {
+    "key": "gameSetting_resourceRandomness",
+    "en": "Resource Deposits",
+    "vi": "Phân bổ Mỏ tài nguyên",
+    "offset": 36992,
+    "length": 18
+  },
+  {
+    "key": "gameSetting_startingSeason",
+    "en": "Starting Season",
+    "vi": "Mùa bắt đầu chơi",
+    "offset": 37536,
+    "length": 16
+  },
+  {
+    "key": "gameSetting_raiders",
+    "en": "Raider Frequency",
+    "vi": "Tần suất Giặc cướp tấn công",
+    "offset": 38099,
+    "length": 17
+  },
+  {
+    "key": "gameSetting_raiderFreeTime",
+    "en": "Raider Free Years",
+    "vi": "Số năm bình yên (Không có cướp)",
+    "offset": 38750,
+    "length": 18
+  },
+  {
+    "key": "gameSetting_approval",
+    "en": "Approval",
+    "vi": "Độ khó Lòng dân",
+    "offset": 39486,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_weather",
+    "en": "Weather Events",
+    "vi": "Thiên tai & Thời tiết",
+    "offset": 39873,
+    "length": 15
+  },
+  {
+    "key": "menus_1",
+    "en": "None",
+    "vi": "Không có",
+    "offset": 40444,
+    "length": 5
+  },
+  {
+    "key": "menus_2",
+    "en": "Balanced",
+    "vi": "Cân bằng",
+    "offset": 40658,
+    "length": 9
+  },
+  {
+    "key": "menus_3",
+    "en": "Difficult",
+    "vi": "Khó khăn",
+    "offset": 41034,
+    "length": 10
+  },
+  {
+    "key": "gameSetting_well",
+    "en": "Well Placement",
+    "vi": "Vị trí đào Giếng nước",
+    "offset": 41326,
+    "length": 15
+  },
+  {
+    "key": "menus_1",
+    "en": "Unconstrained",
+    "vi": "Đào tự do mọi nơi",
+    "offset": 41896,
+    "length": 14
+  },
+  {
+    "key": "menus_2",
+    "en": "Underground Water",
+    "vi": "Chỉ đào trên mạch nước ngầm",
+    "offset": 42320,
+    "length": 18
+  },
+  {
+    "key": "gameSetting_consumption",
+    "en": "Consumption",
+    "vi": "Mức tiêu thụ tài nguyên",
+    "offset": 42819,
+    "length": 12
+  },
+  {
+    "key": "gameSetting_AI",
+    "en": "AI behavior",
+    "vi": "Trí tuệ nhân tạo (AI)",
+    "offset": 43151,
+    "length": 12
+  },
+  {
+    "key": "gameSetting_banditCamps",
+    "en": "Random Bandit Camp spawn limit",
+    "vi": "Giới hạn số Trại cướp ngẫu nhiên",
+    "offset": 43631,
+    "length": 31
+  },
+  {
+    "key": "gameSetting_baron",
+    "en": "Off Map Adversary",
+    "vi": "Lãnh chúa đối địch (Ngoài bản đồ)",
+    "offset": 44862,
+    "length": 18
+  },
+  {
+    "key": "gameSetting_AI_opponents",
+    "en": "AI Opponents",
+    "vi": "Số lượng Đối thủ AI",
+    "offset": 45575,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_victoryCondition",
+    "en": "End Goal",
+    "vi": "Mục tiêu Chiến thắng",
+    "offset": 46127,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_victoryCondition_0_descr",
+    "en": "Endless Play",
+    "vi": "Chơi tự do vô tận (Không đặt điều kiện thắng)",
+    "offset": 46509,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_victoryCondition_1_descr",
+    "en": "Claim all Regions to win.",
+    "vi": "Chiếm quyền kiểm soát toàn bộ các Vùng đất trên bản đồ để chiến thắng.",
+    "offset": 47016,
+    "length": 26
+  },
+  {
+    "key": "gameSetting_victoryCondition_3_descr",
+    "en": "Eliminate all the other Lords by claiming their territory.",
+    "vi": "Đánh bại tất cả các Lãnh chúa khác bằng cách chiếm sạch toàn bộ lãnh thổ của họ.",
+    "offset": 49877,
+    "length": 59
+  },
+  {
+    "key": "gameSetting_victory_endless",
+    "en": "None",
+    "vi": "Tự do vô tận",
+    "offset": 51764,
+    "length": 5
+  },
+  {
+    "key": "gameSetting_victory_conquest",
+    "en": "Conquest",
+    "vi": "Chinh phục (Chiếm hết bản đồ)",
+    "offset": 51990,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_victory_growth",
+    "en": "Growth",
+    "vi": "Phát triển (Lên Thị trấn Lớn)",
+    "offset": 52323,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_victory_domination",
+    "en": "Domination",
+    "vi": "Thống trị (Đánh bại Lãnh chúa khác)",
+    "offset": 52623,
+    "length": 11
+  },
+  {
+    "key": "gameSetting_off",
+    "en": "Off",
+    "vi": "Tắt",
+    "offset": 52967,
+    "length": 4
+  },
+  {
+    "key": "gameSetting_armamentDelivery",
+    "en": "Armament Delivery",
+    "vi": "Viện trợ Vũ khí & Giáp ban đầu",
+    "offset": 53188,
+    "length": 18
+  },
+  {
+    "key": "menus_1",
+    "en": "No",
+    "vi": "Không",
+    "offset": 53692,
+    "length": 3
+  },
+  {
+    "key": "menus_2",
+    "en": "Yes",
+    "vi": "Có",
+    "offset": 53879,
+    "length": 4
+  },
+  {
+    "key": "gameSetting_AI_opponents_0_descr",
+    "en": "Number of competing Lords on the map <i>Work In Progress</>",
+    "vi": "Số lượng Lãnh chúa cạnh tranh trên bản đồ <i>(Đang phát triển)</>",
+    "offset": 54055,
+    "length": 60
+  },
+  {
+    "key": "gameSetting_AI_opponents_1_descr",
+    "en": "Number of competing Lords on the map <i>Work In Progress</>",
+    "vi": "Số lượng Lãnh chúa cạnh tranh trên bản đồ <i>(Đang phát triển)</>",
+    "offset": 55910,
+    "length": 60
+  },
+  {
+    "key": "gameSetting_AI_opponents_2_descr",
+    "en": "Number of competing Lords on the map <i>Work In Progress</>",
+    "vi": "Số lượng Lãnh chúa cạnh tranh trên bản đồ <i>(Đang phát triển)</>",
+    "offset": 57765,
+    "length": 60
+  },
+  {
+    "key": "gameSetting_AI_opponents_3_descr",
+    "en": "Number of competing Lords on the map <i>Work In Progress</>",
+    "vi": "Số lượng Lãnh chúa cạnh tranh trên bản đồ <i>(Đang phát triển)</>",
+    "offset": 59620,
+    "length": 60
+  },
+  {
+    "key": "gameSetting_baron_0_descr",
+    "en": "No adversary",
+    "vi": "Không có kẻ thù nào",
+    "offset": 61475,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_baron_1_descr",
+    "en": "Adds an AI opponent located off map. They start with a number of Regions under their control, and will use military force to both expand and defend their territory.",
+    "vi": "Kích hoạt một Lãnh chúa AI đóng quân ngoài bản đồ. Hắn khởi đầu với sẵn một vài Vùng đất nắm quyền kiểm soát, và sẽ dùng quân đội để bành trướng xâm lấn cũng như bảo vệ lãnh thổ.",
+    "offset": 61951,
+    "length": 165
+  },
+  {
+    "key": "menus_1",
+    "en": "None",
+    "vi": "Không có",
+    "offset": 67336,
+    "length": 5
+  },
+  {
+    "key": "menus_2",
+    "en": "Medium",
+    "vi": "Vừa phải",
+    "offset": 67545,
+    "length": 7
+  },
+  {
+    "key": "menus_3",
+    "en": "Frequent",
+    "vi": "Thường xuyên",
+    "offset": 67843,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_raiders_0_descr",
+    "en": "No Random Raids",
+    "vi": "Không có các đợt cướp phá ngẫu nhiên",
+    "offset": 68128,
+    "length": 16
+  },
+  {
+    "key": "gameSetting_raiders_1_descr",
+    "en": "No more than a single raid every 2 years.",
+    "vi": "Tối đa chỉ có 1 đợt cướp phá mỗi 2 năm một lần.",
+    "offset": 68976,
+    "length": 42
+  },
+  {
+    "key": "gameSetting_raiders_2_descr",
+    "en": "Possibly less than a year between each raid.",
+    "vi": "Các đợt cướp phá có thể diễn ra dồn dập, cách nhau chưa đầy 1 năm.",
+    "offset": 70306,
+    "length": 45
+  },
+  {
+    "key": "gameSetting_raiderFreeTime_1_descr",
+    "en": "Raids start to happen after a year.",
+    "vi": "Giặc cướp bắt đầu tấn công sau năm đầu tiên.",
+    "offset": 71914,
+    "length": 36
+  },
+  {
+    "key": "gameSetting_raiderFreeTime_2_descr",
+    "en": "Two years before raids start happening.",
+    "vi": "Hai năm bình yên ban đầu trước khi giặc cướp kéo đến.",
+    "offset": 73279,
+    "length": 40
+  },
+  {
+    "key": "gameSetting_raiderFreeTime_3_descr",
+    "en": "Three years before raids start happening.",
+    "vi": "Ba năm bình yên ban đầu trước khi giặc cướp kéo đến.",
+    "offset": 74644,
+    "length": 42
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_0_descr",
+    "en": "No Bandit Camps present when the game begins.",
+    "vi": "Không có Trại cướp nào trên bản đồ khi khởi đầu game.",
+    "offset": 76027,
+    "length": 46
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_1_descr",
+    "en": "One Bandit Camp present when the game begins.",
+    "vi": "Khởi đầu với 1 Trại cướp trên bản đồ.",
+    "offset": 77410,
+    "length": 46
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_2_descr",
+    "en": "Two Bandit Camps present when the game begins.",
+    "vi": "Khởi đầu với 2 Trại cướp trên bản đồ.",
+    "offset": 78822,
+    "length": 47
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_3_descr",
+    "en": "Three Bandit Camps present when the game begins.",
+    "vi": "Khởi đầu với 3 Trại cướp trên bản đồ.",
+    "offset": 80196,
+    "length": 49
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_4_descr",
+    "en": "Four Bandit Camps present when the game begins.",
+    "vi": "Khởi đầu với 4 Trại cướp trên bản đồ.",
+    "offset": 81581,
+    "length": 48
+  },
+  {
+    "key": "gameSetting_initialBanditCamps_5_descr",
+    "en": "Five Bandit Camps present when the game begins.",
+    "vi": "Khởi đầu với 5 Trại cướp trên bản đồ.",
+    "offset": 82993,
+    "length": 48
+  },
+  {
+    "key": "gameSetting_banditCamps_0_descr",
+    "en": "No random Bandit Camps spawning during play.",
+    "vi": "Không tự động sinh thêm Trại cướp trong suốt quá trình chơi.",
+    "offset": 84445,
+    "length": 45
+  },
+  {
+    "key": "gameSetting_banditCamps_3_descr",
+    "en": "Random Bandit Camps stop spawning if there are already 3 of them.",
+    "vi": "Ngừng sinh thêm Trại cướp mới nếu trên bản đồ đã có sẵn 3 trại.",
+    "offset": 86309,
+    "length": 66
+  },
+  {
+    "key": "gameSetting_banditCamps_5_descr",
+    "en": "Random Bandit Camps stop spawning if there are already 5 of them.",
+    "vi": "Ngừng sinh thêm Trại cướp mới nếu trên bản đồ đã có sẵn 5 trại.",
+    "offset": 88619,
+    "length": 66
+  },
+  {
+    "key": "menus_1",
+    "en": "Winter",
+    "vi": "Mùa đông",
+    "offset": 90927,
+    "length": 7
+  },
+  {
+    "key": "menus_2",
+    "en": "Spring",
+    "vi": "Mùa xuân",
+    "offset": 91147,
+    "length": 7
+  },
+  {
+    "key": "menus_3",
+    "en": "Summer",
+    "vi": "Mùa hạ",
+    "offset": 91405,
+    "length": 7
+  },
+  {
+    "key": "menus_4",
+    "en": "Autumn",
+    "vi": "Mùa thu",
+    "offset": 91630,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_startingSeason_61_descr",
+    "en": "A balanced start with available Seasonal Deposits, room to start farming early, but frequent rains.",
+    "vi": "Khởi đầu cân bằng với nhiều Mỏ tài nguyên theo mùa, thời tiết thuận lợi để gieo trồng sớm, nhưng mưa khá nhiều.",
+    "offset": 91882,
+    "length": 100
+  },
+  {
+    "key": "gameSetting_startingSeason_152_descr",
+    "en": "More difficult start with no time to start farming and average Seasonal Deposits, but less frequent rains.",
+    "vi": "Khởi đầu khó khăn hơn: không kịp vào vụ mùa gieo cấy và tài nguyên theo mùa ở mức trung bình, bù lại trời ít mưa hơn.",
+    "offset": 95734,
+    "length": 107
+  },
+  {
+    "key": "gameSetting_startingSeason_244_descr",
+    "en": "Challenging start with an approaching Winter, dwindling Seasonal Deposits and frequent rains.",
+    "vi": "Khởi đầu gian nan: Mùa đông lạnh giá cận kề, tài nguyên theo mùa cạn kiệt và mưa gió thất thường.",
+    "offset": 100064,
+    "length": 94
+  },
+  {
+    "key": "gameSetting_startingSeason_336_descr",
+    "en": "Challenging start with no Seasonal Deposits, risk of Freezing and decaying supplies due to snowfall.",
+    "vi": "Khởi đầu vô cùng khắc nghiệt: không có thức ăn theo mùa, nguy cơ dân làng chết cóng và tuyết rơi làm hỏng đồ tiếp tế.",
+    "offset": 103064,
+    "length": 101
+  },
+  {
+    "key": "gameSetting_startingSeason_-1_descr",
+    "en": "A random day of the year.",
+    "vi": "Bắt đầu vào một ngày ngẫu nhiên trong năm.",
+    "offset": 106731,
+    "length": 26
+  },
+  {
+    "key": "menus_1",
+    "en": "Nothing",
+    "vi": "Không có gì",
+    "offset": 107635,
+    "length": 8
+  },
+  {
+    "key": "menus_2",
+    "en": "Standard",
+    "vi": "Tiêu chuẩn",
+    "offset": 107846,
+    "length": 9
+  },
+  {
+    "key": "menus_3",
+    "en": "Double",
+    "vi": "Gấp đôi",
+    "offset": 108167,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_supplies_0_descr",
+    "en": "Just some barebones construction material.",
+    "vi": "Chỉ có một lượng tối thiểu vật liệu xây dựng ban đầu.",
+    "offset": 108463,
+    "length": 43
+  },
+  {
+    "key": "gameSetting_supplies_1_descr",
+    "en": "A balanced amount of starting supplies.",
+    "vi": "Lượng vật tư và lương thực tiếp tế ban đầu ở mức cân bằng.",
+    "offset": 109822,
+    "length": 40
+  },
+  {
+    "key": "gameSetting_supplies_2_descr",
+    "en": "More starting supplies for a more relaxed experience.",
+    "vi": "Dồi dào đồ tiếp tế ban đầu, phù hợp cho trải nghiệm xây dựng thư thả, nhẹ nhàng.",
+    "offset": 111151,
+    "length": 54
+  },
+  {
+    "key": "gameSetting_armamentDelivery_0_descr",
+    "en": "No free weapon delivery.",
+    "vi": "Không được viện trợ vũ khí miễn phí.",
+    "offset": 112925,
+    "length": 25
+  },
+  {
+    "key": "gameSetting_armamentDelivery_1_descr",
+    "en": "A free weapon delivery for militia as soon as the player builds a Storehouse and 5 Residential Plots.",
+    "vi": "Được gửi tặng một lô vũ khí & giáp miễn phí cho dân quân ngay khi bạn xây xong 1 Kho vật tư và 5 Nhà dân.",
+    "offset": 113828,
+    "length": 102
+  },
+  {
+    "key": "gameSetting_resourceRandomness_0_descr",
+    "en": "Starting Regions get 2 guaranteed Food Deposits, 1 small Iron Deposit, 1 small Stone Deposit and 1 random bonus Deposit. Other Regions get 3 random Deposits.",
+    "vi": "Vùng đất khởi đầu chắc chắn có 2 Mỏ lương thực, 1 Mỏ sắt nhỏ, 1 Mỏ đá nhỏ và 1 Mỏ tài nguyên thưởng ngẫu nhiên. Các Vùng khác có 3 Mỏ ngẫu nhiên.",
+    "offset": 116880,
+    "length": 158
+  },
+  {
+    "key": "gameSetting_resourceRandomness_1_descr",
+    "en": "Every Region starts with 4 random Deposits. Advanced setting - early trade might be required if no Food is present!",
+    "vi": "Mỗi Vùng bắt đầu với 4 Mỏ ngẫu nhiên. Tùy chọn nâng cao — có thể phải mở tuyến buôn bán từ sớm nếu vùng đất không có sẵn mỏ lương thực!",
+    "offset": 122565,
+    "length": 116
+  },
+  {
+    "key": "gameSetting_resourceRandomness_2_descr",
+    "en": "Every Region starts with from 0 to 4 Random Deposits. This can be unfair and is for advanced players only.",
+    "vi": "Mỗi Vùng bắt đầu từ 0 đến 4 Mỏ ngẫu nhiên. Thiết lập này có thể tạo ra độ khó bất công, chỉ dành cho game thủ kỳ cựu.",
+    "offset": 127060,
+    "length": 107
+  },
+  {
+    "key": "gameSetting_resourceRandomness_3_descr",
+    "en": "Starting Regions get 2 nearby Food Deposits, 1 far Food Deposit,  1 Iron, 1 Clay and 1 Stone Deposit. Other Regions get 3 random Deposits.",
+    "vi": "Vùng khởi đầu có 2 Mỏ lương thực gần, 1 Mỏ lương thực xa, 1 Mỏ sắt, 1 Mỏ đất sét và 1 Mỏ đá. Các Vùng khác có 3 Mỏ ngẫu nhiên.",
+    "offset": 131295,
+    "length": 139
+  },
+  {
+    "key": "gameSetting_requirements_0_descr",
+    "en": "Town will not grow if requirements are unfilled.",
+    "vi": "Thị trấn sẽ không tăng dân số nếu các nhu cầu nhà ở không được đáp ứng.",
+    "offset": 136887,
+    "length": 49
+  },
+  {
+    "key": "gameSetting_requirements_1_descr",
+    "en": "Requirements triggering loss of Approval are shifted by 1 level to be less demanding.",
+    "vi": "Mức đòi hỏi nhu cầu làm giảm Lòng dân được nới lỏng thêm 1 cấp giúp bạn dễ thở hơn.",
+    "offset": 138765,
+    "length": 86
+  },
+  {
+    "key": "gameSetting_requirements_-1_descr",
+    "en": "Requirements triggering loss of Approval are shifted by 1 level to be more demanding.",
+    "vi": "Mức đòi hỏi nhu cầu làm giảm Lòng dân bị thắt chặt thêm 1 cấp khiến dân làng khó tính hơn.",
+    "offset": 141470,
+    "length": 86
+  },
+  {
+    "key": "gameSetting_approval_0.5_descr",
+    "en": "Approval factors have a low impact on population growth.",
+    "vi": "Lòng dân ít tác động đến tốc độ tăng trưởng dân số mới.",
+    "offset": 144238,
+    "length": 57
+  },
+  {
+    "key": "gameSetting_approval_1.0_descr",
+    "en": "Approval factors have an average impact on population growth.",
+    "vi": "Lòng dân tác động ở mức độ vừa phải đến tốc độ tăng trưởng dân số.",
+    "offset": 146274,
+    "length": 62
+  },
+  {
+    "key": "gameSetting_approval_2.0_descr",
+    "en": "Approval factors have a significant impact on population growth.",
+    "vi": "Lòng dân tác động cực kỳ mạnh mẽ đến quyết định nhập cư của các gia đình mới.",
+    "offset": 148375,
+    "length": 65
+  },
+  {
+    "key": "gameSetting_well_0_descr",
+    "en": "Players may place wells everywhere without constraints.",
+    "vi": "Bạn có thể đào giếng nước ở bất cứ đâu trên bản đồ mà không cần tìm mạch nước ngầm.",
+    "offset": 150482,
+    "length": 56
+  },
+  {
+    "key": "gameSetting_well_1_descr",
+    "en": "Players may only place wells on top of Underground Water.",
+    "vi": "Chỉ có thể đào giếng tại những vị trí có mạch nước ngầm dưới lòng đất.",
+    "offset": 152318,
+    "length": 58
+  },
+  {
+    "key": "gameSetting_weather_0_descr",
+    "en": "Weather is cosmetic only and won't do any harm.",
+    "vi": "Thời tiết chỉ là hiệu ứng hình ảnh, không gây hư hại đến công trình và tài nguyên.",
+    "offset": 154232,
+    "length": 48
+  },
+  {
+    "key": "gameSetting_weather_1_descr",
+    "en": "Players get a warning if supplies get soaked, and when the next rain comes, they may get destroyed. A chance of random Droughts in the summers which may kill crops. Rare fires caused by thunderstrikes.",
+    "vi": "Tài nguyên để ngoài trời sẽ bị mưa làm ướt và hỏng. Mùa hè có nguy cơ hạn hán làm chết hoa màu, sấm sét có thể gây hỏa hoạn.",
+    "offset": 156120,
+    "length": 202
+  },
+  {
+    "key": "gameSetting_weather_2_descr",
+    "en": "Droughts may happen in the summers, thunderstrikes cause fires and rain instantly damages exposed supplies.",
+    "vi": "Thời tiết khắc nghiệt: Hạn hán gay gắt, sấm sét gây cháy và nước mưa lập tức phá hủy tài nguyên phơi ngoài trời.",
+    "offset": 163661,
+    "length": 108
+  },
+  {
+    "key": "gameSetting_kingsTax",
+    "en": "Royal Tax",
+    "vi": "Thuế Hoàng gia hàng năm",
+    "offset": 167552,
+    "length": 10
+  },
+  {
+    "key": "menus_1",
+    "en": "No tax",
+    "vi": "Miễn thuế",
+    "offset": 167991,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_kingsTax_0_descr",
+    "en": "Royal Taxes will not be collected.",
+    "vi": "Nhà vua sẽ không thu thuế hàng năm.",
+    "offset": 168326,
+    "length": 35
+  },
+  {
+    "key": "menus_2",
+    "en": "Normal",
+    "vi": "Bình thường",
+    "offset": 169455,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_kingsTax_1_descr",
+    "en": "Royal Taxes are collected annually, starting in year 6 at 1 Treasury per resident. This increases by 1 Treasury every 5 years until year 16.",
+    "vi": "Thuế Hoàng gia thu mỗi năm một lần, bắt đầu từ năm thứ 6 với mức 1 Ngân khố/người dân. Sau đó cứ 5 năm lại tăng thêm 1 Ngân khố cho đến năm thứ 16.",
+    "offset": 169712,
+    "length": 141
+  },
+  {
+    "key": "menus_3",
+    "en": "Double",
+    "vi": "Gấp đôi",
+    "offset": 174796,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_kingsTax_2_descr",
+    "en": "Royal Taxes are collected annually, starting in year 6 at 1 Treasury per resident. This increases by 1 Treasury every 5 years until year 16. {br}{br}The Royal Tax due is doubled.",
+    "vi": "Thuế Hoàng gia thu mỗi năm một lần, bắt đầu từ năm thứ 6 với mức 1 Ngân khố/người dân và tăng dần.{br}{br}Mức thuế Hoàng gia phải nộp bị nhân đôi.",
+    "offset": 175080,
+    "length": 179
+  },
+  {
+    "key": "settings_default",
+    "en": "Default",
+    "vi": "Mặc định",
+    "offset": 181879,
+    "length": 8
+  },
+  {
+    "key": "settings_limited",
+    "en": "Limited",
+    "vi": "Giới hạn",
+    "offset": 182252,
+    "length": 8
+  },
+  {
+    "key": "settings_off",
+    "en": "Off",
+    "vi": "Tắt",
+    "offset": 182575,
+    "length": 4
+  },
+  {
+    "key": "settings_on",
+    "en": "On",
+    "vi": "Bật",
+    "offset": 182796,
+    "length": 3
+  },
+  {
+    "key": "settings_low",
+    "en": "Low",
+    "vi": "Thấp",
+    "offset": 183009,
+    "length": 4
+  },
+  {
+    "key": "settings_med",
+    "en": "Medium",
+    "vi": "Trung bình",
+    "offset": 183232,
+    "length": 7
+  },
+  {
+    "key": "settings_high",
+    "en": "High",
+    "vi": "Cao",
+    "offset": 183488,
+    "length": 5
+  },
+  {
+    "key": "settings_ultra",
+    "en": "Ultra",
+    "vi": "Tối đa (Ultra)",
+    "offset": 183717,
+    "length": 6
+  },
+  {
+    "key": "settings_custom",
+    "en": "Custom",
+    "vi": "Tùy chỉnh",
+    "offset": 183947,
+    "length": 7
+  },
+  {
+    "key": "settings_windowed",
+    "en": "Windowed",
+    "vi": "Cửa sổ",
+    "offset": 184289,
+    "length": 9
+  },
+  {
+    "key": "settings_fullscreen",
+    "en": "Fullscreen",
+    "vi": "Toàn màn hình",
+    "offset": 184607,
+    "length": 11
+  },
+  {
+    "key": "settings_borderless",
+    "en": "Borderless Fullscreen",
+    "vi": "Toàn màn hình không viền",
+    "offset": 185037,
+    "length": 22
+  },
+  {
+    "key": "settings_performance",
+    "en": "Performance",
+    "vi": "Ưu tiên Hiệu năng",
+    "offset": 185722,
+    "length": 12
+  },
+  {
+    "key": "settings_balance",
+    "en": "Balance",
+    "vi": "Cân bằng",
+    "offset": 186073,
+    "length": 8
+  },
+  {
+    "key": "settings_quality",
+    "en": "Quality",
+    "vi": "Ưu tiên Chất lượng",
+    "offset": 186423,
+    "length": 8
+  },
+  {
+    "key": "settings_unlimited",
+    "en": "Unlimited",
+    "vi": "Không giới hạn",
+    "offset": 186720,
+    "length": 10
+  },
+  {
+    "key": "settings_smooth",
+    "en": "Smooth",
+    "vi": "Mượt mà",
+    "offset": 187094,
+    "length": 7
+  },
+  {
+    "key": "settings_sharp",
+    "en": "Sharp",
+    "vi": "Sắc nét",
+    "offset": 187364,
+    "length": 6
+  },
+  {
+    "key": "settings_dlaa",
+    "en": "DLAA",
+    "vi": "NVIDIA DLAA",
+    "offset": 187625,
+    "length": 5
+  },
+  {
+    "key": "settings_auto",
+    "en": "AUTO",
+    "vi": "TỰ ĐỘNG",
+    "offset": 187806,
+    "length": 5
+  },
+  {
+    "key": "settings_nativeaa",
+    "en": "Native AA",
+    "vi": "Native AA",
+    "offset": 188051,
+    "length": 10
+  },
+  {
+    "key": "settings_antialiasing",
+    "en": "Anti-aliasing",
+    "vi": "Khử răng cưa",
+    "offset": 188573,
+    "length": 14
+  },
+  {
+    "key": "settings_dlss_framegen",
+    "en": "DLSS Framegen",
+    "vi": "Tạo khung hình DLSS (Frame Generation)",
+    "offset": 189054,
+    "length": 14
+  },
+  {
+    "key": "settings_fsr_framegen",
+    "en": "FSR Framegen",
+    "vi": "Tạo khung hình FSR (Frame Generation)",
+    "offset": 189665,
+    "length": 13
+  },
+  {
+    "key": "settings_xess_framegen",
+    "en": "XeSS Framegen",
+    "vi": "Tạo khung hình XeSS (Frame Generation)",
+    "offset": 190248,
+    "length": 14
+  },
+  {
+    "key": "settings_aa",
+    "en": "Anti-aliasing",
+    "vi": "Khử răng cưa",
+    "offset": 190861,
+    "length": 14
+  },
+  {
+    "key": "setting_day_night_cycle",
+    "en": "Cosmetic Day & Night cycle",
+    "vi": "Hiệu ứng Ngày & Đêm (Hình ảnh)",
+    "offset": 191342,
+    "length": 27
+  },
+  {
+    "key": "settings_mouse_lock",
+    "en": "Lock cursor inside the Game Window",
+    "vi": "Khóa chuột trong cửa sổ game",
+    "offset": 192219,
+    "length": 35
+  },
+  {
+    "key": "settings_edge_scroll",
+    "en": "Edge Panning",
+    "vi": "Cuộn camera bằng mép màn hình",
+    "offset": 193244,
+    "length": 13
+  },
+  {
+    "key": "settings_cascade",
+    "en": "Soft",
+    "vi": "Bóng mềm (Cascade)",
+    "offset": 193971,
+    "length": 5
+  },
+  {
+    "key": "settings_vsm",
+    "en": "Sharp",
+    "vi": "Bóng sắc nét (VSM)",
+    "offset": 194237,
+    "length": 6
+  },
+  {
+    "key": "options_camera",
+    "en": "Camera",
+    "vi": "Góc nhìn (Camera)",
+    "offset": 194498,
+    "length": 7
+  },
+  {
+    "key": "options_language",
+    "en": "Language & Accessibility",
+    "vi": "Ngôn ngữ & Hỗ trợ",
+    "offset": 194756,
+    "length": 25
+  },
+  {
+    "key": "options_gameplay",
+    "en": "Gameplay",
+    "vi": "Lối chơi & Trải nghiệm",
+    "offset": 195506,
+    "length": 9
+  },
+  {
+    "key": "options_key_bindings",
+    "en": "Key bindings",
+    "vi": "Gán phím điều khiển",
+    "offset": 195843,
+    "length": 13
+  },
+  {
+    "key": "options_graphics",
+    "en": "Graphics",
+    "vi": "Đồ họa",
+    "offset": 196299,
+    "length": 9
+  },
+  {
+    "key": "options_controls",
+    "en": "Controls",
+    "vi": "Phím bấm & Điều khiển",
+    "offset": 196579,
+    "length": 9
+  },
+  {
+    "key": "options_audio",
+    "en": "Audio",
+    "vi": "Âm thanh",
+    "offset": 196881,
+    "length": 6
+  },
+  {
+    "key": "setting_language",
+    "en": "Language",
+    "vi": "Ngôn ngữ",
+    "offset": 197104,
+    "length": 9
+  },
+  {
+    "key": "setting_ui_scale",
+    "en": "Interface Scale",
+    "vi": "Tỷ lệ kích thước Giao diện",
+    "offset": 197330,
+    "length": 16
+  },
+  {
+    "key": "setting_fake_gi",
+    "en": "Bounced light approximation",
+    "vi": "Giả lập ánh sáng nảy (Fake GI)",
+    "offset": 197909,
+    "length": 28
+  },
+  {
+    "key": "label_development",
+    "en": "Development",
+    "vi": "Nhánh Phát triển",
+    "offset": 198829,
+    "length": 12
+  },
+  {
+    "key": "label_production",
+    "en": "Production",
+    "vi": "Sản xuất",
+    "offset": 199167,
+    "length": 11
+  },
+  {
+    "key": "label_policies",
+    "en": "Policies",
+    "vi": "Chính sách Lãnh địa",
+    "offset": 199499,
+    "length": 9
+  },
+  {
+    "key": "label_diplomacy",
+    "en": "Diplomacy",
+    "vi": "Ngoại giao",
+    "offset": 199839,
+    "length": 10
+  },
+  {
+    "key": "label_trade",
+    "en": "Trade",
+    "vi": "Giao thương",
+    "offset": 200143,
+    "length": 6
+  },
+  {
+    "key": "label_environment",
+    "en": "Environment",
+    "vi": "Môi trường & Sinh thái",
+    "offset": 200404,
+    "length": 12
+  },
+  {
+    "key": "you_own_this_region",
+    "en": "You control this region",
+    "vi": "Bạn đang nắm quyền kiểm soát Vùng đất này",
+    "offset": 200736,
+    "length": 24
+  },
+  {
+    "key": "claim_influence",
+    "en": "Claim with Influence",
+    "vi": "Đòi đất bằng Uy danh",
+    "offset": 201550,
+    "length": 21
+  },
+  {
+    "key": "claim_favor",
+    "en": "Claim with King's Favor",
+    "vi": "Đòi đất bằng Ân huệ của Vua",
+    "offset": 202337,
+    "length": 24
+  },
+  {
+    "key": "new_quest_objectives",
+    "en": "New Objectives",
+    "vi": "Mục tiêu nhiệm vụ mới",
+    "offset": 203326,
+    "length": 15
+  },
+  {
+    "key": "total_population",
+    "en": "Total Population",
+    "vi": "Tổng dân số",
+    "offset": 203741,
+    "length": 17
+  },
+  {
+    "key": "pop_and_housing",
+    "en": "Housing and Population",
+    "vi": "Nhà ở & Dân cư",
+    "offset": 204338,
+    "length": 23
+  },
+  {
+    "key": "families_lv0",
+    "en": "Homeless Families",
+    "vi": "Gia đình vô gia cư",
+    "offset": 205005,
+    "length": 18
+  },
+  {
+    "key": "families_lv1",
+    "en": "Level 1 Families",
+    "vi": "Gia đình Cấp 1",
+    "offset": 205526,
+    "length": 17
+  },
+  {
+    "key": "families_lv2",
+    "en": "Level 2 Families",
+    "vi": "Gia đình Cấp 2",
+    "offset": 206075,
+    "length": 17
+  },
+  {
+    "key": "families_lv3",
+    "en": "Level 3 Families",
+    "vi": "Gia đình Cấp 3",
+    "offset": 206624,
+    "length": 17
+  },
+  {
+    "key": "families_lv4",
+    "en": "Level 4 Families",
+    "vi": "Gia đình Cấp 4",
+    "offset": 207173,
+    "length": 17
+  },
+  {
+    "key": "add_worker",
+    "en": "Assign Family",
+    "vi": "Phân công Gia đình",
+    "offset": 207728,
+    "length": 14
+  },
+  {
+    "key": "remove_worker",
+    "en": "Unassign Family",
+    "vi": "Hủy phân công Gia đình",
+    "offset": 208220,
+    "length": 16
+  },
+  {
+    "key": "tip_refueling",
+    "en": "Refueling",
+    "vi": "Tiếp nhiên liệu sưởi",
+    "offset": 208806,
+    "length": 10
+  },
+  {
+    "key": "tip_refueling_descr",
+    "en": "Work and Residential Buildings need 1 unit of <img id=\"fuel\"/> <h>FUEL</> per month to function.",
+    "vi": "Nhà dân và các xưởng làm việc cần 1 đơn vị <img id=\"fuel\"/> <h>CHẤT ĐỐT</> mỗi tháng để sưởi ấm và hoạt động.",
+    "offset": 209411,
+    "length": 97
+  },
+  {
+    "key": "build_extension",
+    "en": "Construct a Backyard Extension",
+    "vi": "Xây Tiện ích sân sau",
+    "offset": 212913,
+    "length": 31
+  },
+  {
+    "key": "build_extension_descr",
+    "en": "Extensions add extra production functionality to the Residential Buildings.",
+    "vi": "Tiện ích sân sau bổ sung thêm chức năng sản xuất chuyên biệt cho Nhà dân (nuôi gà, trồng rau, đóng giày...).",
+    "offset": 213841,
+    "length": 76
+  },
+  {
+    "key": "approval_will_fall_if_not_fulfilled",
+    "en": "Approval will fall if not fulfilled",
+    "vi": "Lòng dân sẽ giảm nếu không được đáp ứng",
+    "offset": 216081,
+    "length": 36
+  },
+  {
+    "key": "hire_mercenaries",
+    "en": "Hire Mercenaries",
+    "vi": "Thuê Lính đánh thuê",
+    "offset": 217616,
+    "length": 17
+  },
+  {
+    "key": "armour_upgrades",
+    "en": "Armor Upgrades",
+    "vi": "Nâng cấp Giáp trụ",
+    "offset": 218197,
+    "length": 15
+  },
+  {
+    "key": "retinue_defeatedFoes",
+    "en": "Defeated foes",
+    "vi": "Kẻ địch đã tiêu diệt",
+    "offset": 218805,
+    "length": 14
+  },
+  {
+    "key": "retinue_personalization",
+    "en": "Personalization",
+    "vi": "Tùy biến diện mạo",
+    "offset": 219301,
+    "length": 16
+  },
+  {
+    "key": "retinue_expertise",
+    "en": "Expertise",
+    "vi": "Kinh nghiệm chiến đấu",
+    "offset": 219732,
+    "length": 10
+  },
+  {
+    "key": "recruit_ministerialis",
+    "en": "Recruit Ministerialis",
+    "vi": "Chiêu mộ Cận vệ Thân tín",
+    "offset": 220091,
+    "length": 22
+  },
+  {
+    "key": "recruit_ministerialis_descr",
+    "en": "Promote one of your citizens to your retinue (Locked in Early Access).",
+    "vi": "Cất nhắc một người dân tài giỏi gia nhập Đội cận vệ (Khóa trong bản Early Access).",
+    "offset": 220712,
+    "length": 71
+  },
+  {
+    "key": "recruit_men_at_arms",
+    "en": "Recruit Man-at-Arms",
+    "vi": "Chiêu mộ Võ sĩ Cận vệ",
+    "offset": 222934,
+    "length": 20
+  },
+  {
+    "key": "recruit_men_at_arms_descr",
+    "en": "Offer payment for whoever may seek to enter your service, from lower nobles to distant relatives.",
+    "vi": "Dùng Ngân khố trả lương để tuyển mộ các võ sĩ chuyên nghiệp sẵn sàng vào biên chế Đội cận vệ chiến đấu vì bạn.",
+    "offset": 223449,
+    "length": 98
+  },
+  {
+    "key": "retinue_numbers",
+    "en": "Size of this retinue",
+    "vi": "Quân số Đội cận vệ",
+    "offset": 226783,
+    "length": 21
+  },
+  {
+    "key": "retinue_numbers_descr",
+    "en": "You can increase your maximum retinue size by expanding your Manor.",
+    "vi": "Bạn có thể tăng giới hạn quân số Cận vệ tối đa bằng cách xây thêm các công trình phụ trợ quanh Dinh thự.",
+    "offset": 227405,
+    "length": 68
+  },
+  {
+    "key": "market_supply_demand",
+    "en": "Supply & Demand",
+    "vi": "Cung & Cầu",
+    "offset": 229650,
+    "length": 16
+  },
+  {
+    "key": "marketSupply_fuel",
+    "en": "Fuel",
+    "vi": "Chất đốt",
+    "offset": 230201,
+    "length": 5
+  },
+  {
+    "key": "marketSupply_clothing",
+    "en": "Garments",
+    "vi": "Trang phục",
+    "offset": 230521,
+    "length": 9
+  },
+  {
+    "key": "marketSupply_food_variety",
+    "en": "Food Variety",
+    "vi": "Đa dạng Lương thực",
+    "offset": 230807,
+    "length": 13
+  },
+  {
+    "key": "supply_slash_demand",
+    "en": "Supply / Demand",
+    "vi": "Cung / Cầu",
+    "offset": 231333,
+    "length": 16
+  },
+  {
+    "key": "no_demand",
+    "en": "No demand",
+    "vi": "Không có nhu cầu",
+    "offset": 231862,
+    "length": 10
+  },
+  {
+    "key": "production_focus",
+    "en": "Production focus",
+    "vi": "Trọng tâm sản xuất",
+    "offset": 232274,
+    "length": 17
+  },
+  {
+    "key": "x_days_until_harvest",
+    "en": "days",
+    "vi": "ngày",
+    "offset": 232834,
+    "length": 5
+  },
+  {
+    "key": "menus_2",
+    "en": "Lowest",
+    "vi": "Thấp nhất",
+    "offset": 233026,
+    "length": 7
+  },
+  {
+    "key": "menus_3",
+    "en": "Very Low",
+    "vi": "Rất thấp",
+    "offset": 233338,
+    "length": 9
+  },
+  {
+    "key": "menus_4",
+    "en": "Low",
+    "vi": "Thấp",
+    "offset": 233706,
+    "length": 4
+  },
+  {
+    "key": "menus_5",
+    "en": "Medium",
+    "vi": "Trung bình",
+    "offset": 233934,
+    "length": 7
+  },
+  {
+    "key": "menus_6",
+    "en": "High",
+    "vi": "Cao",
+    "offset": 234196,
+    "length": 5
+  },
+  {
+    "key": "menus_7",
+    "en": "Very High",
+    "vi": "Rất cao",
+    "offset": 234431,
+    "length": 10
+  },
+  {
+    "key": "menus_8",
+    "en": "Highest",
+    "vi": "Cao nhất",
+    "offset": 234807,
+    "length": 8
+  },
+  {
+    "key": "residential_requirements",
+    "en": "Requirements",
+    "vi": "Nhu cầu Nhà ở",
+    "offset": 235127,
+    "length": 13
+  },
+  {
+    "key": "market_supply",
+    "en": "Market Availability",
+    "vi": "Mặt hàng sẵn có tại Chợ",
+    "offset": 235463,
+    "length": 20
+  },
+  {
+    "key": "requirement_fuelStalls",
+    "en": "Fuel Stall Supply",
+    "vi": "Nguồn cung Sạp chất đốt",
+    "offset": 236122,
+    "length": 18
+  },
+  {
+    "key": "requirement_foodStalls",
+    "en": "Food Stall Supply",
+    "vi": "Nguồn cung Sạp thực phẩm",
+    "offset": 236848,
+    "length": 18
+  },
+  {
+    "key": "menus_26368",
+    "en": "Clothing Stall Supply",
+    "vi": "Nguồn cung Sạp quần áo",
+    "offset": 237483,
+    "length": 22
+  },
+  {
+    "key": "requirement_water",
+    "en": "Water Access",
+    "vi": "Nguồn cấp nước",
+    "offset": 238140,
+    "length": 13
+  },
+  {
+    "key": "requirement_faith",
+    "en": "Church Level",
+    "vi": "Cấp độ Nhà thờ",
+    "offset": 238613,
+    "length": 13
+  },
+  {
+    "key": "requirement_entertainment",
+    "en": "Tavern Supply",
+    "vi": "Nguồn cung Quán bia",
+    "offset": 239068,
+    "length": 14
+  },
+  {
+    "key": "requirement0_tier0",
+    "en": "Access to a <h>Well</> in the Region.",
+    "vi": "Được tiếp cận một <h>Giếng nước</> trong Vùng.",
+    "offset": 239531,
+    "length": 38
+  },
+  {
+    "key": "requirement1_tier0",
+    "en": "At least <h>1 Type</> of <img id=\"Food\"/> <h>Food</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Có ít nhất <h>1 Loại</> <img id=\"Food\"/> <h>Lương thực</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 240780,
+    "length": 107
+  },
+  {
+    "key": "requirement1_tier1",
+    "en": "At least <h>2 Types</> of <img id=\"Food\"/> <h>Food</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Có ít nhất <h>2 Loại</> <img id=\"Food\"/> <h>Lương thực</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 243976,
+    "length": 108
+  },
+  {
+    "key": "requirement1_tier2",
+    "en": "At least <h>3 Types</> of <img id=\"Food\"/> <h>Food</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Có ít nhất <h>3 Loại</> <img id=\"Food\"/> <h>Lương thực</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 247213,
+    "length": 108
+  },
+  {
+    "key": "requirement1_tier3",
+    "en": "At least <h>4 Types</> of <img id=\"Food\"/> <h>Food</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Có ít nhất <h>4 Loại</> <img id=\"Food\"/> <h>Lương thực</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 250452,
+    "length": 108
+  },
+  {
+    "key": "requirement1_tier4",
+    "en": "At least <h>5 Types</> of <img id=\"Food\"/> <h>Food</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Có ít nhất <h>5 Loại</> <img id=\"Food\"/> <h>Lương thực</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 253691,
+    "length": 108
+  },
+  {
+    "key": "requirement2_tier0",
+    "en": "Enough <img id=\"Fuel\"/> <h>Fuel</> available at the <img id=\"Stall\"/> <h>Marketplace</>.",
+    "vi": "Đủ lượng <img id=\"Fuel\"/> <h>Chất đốt</> sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>.",
+    "offset": 256940,
+    "length": 89
+  },
+  {
+    "key": "requirement3_tier0",
+    "en": "Enough of any of the following materials available at the <img id=\"Stall\"/> <h>Marketplace</>: <img id=\"ItemID_12\"/> <h>Linen</>, <img id=\"ItemID_4\"/> <h>Leather</>, <img id=\"ItemID_148\"/> <h>Yarn</>.",
+    "vi": "Đủ một trong các loại chất liệu sau sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>: <img id=\"ItemID_12\"/> <h>Vải lanh</>, <img id=\"ItemID_4\"/> <h>Da thuộc</>, <img id=\"ItemID_148\"/> <h>Len sợi</>.",
+    "offset": 259776,
+    "length": 201
+  },
+  {
+    "key": "requirement3_tier1",
+    "en": "Enough of any of the following materials available at the <img id=\"Stall\"/> <h>Marketplace</>: <img id=\"ItemID_10\"/> <h>Shoes</>, <img id=\"ItemID_149\"/> <h>Clothes</>, <img id=\"ItemID_8\"/> <h>Cloaks</>.",
+    "vi": "Đủ một trong các mặt hàng trang phục sau sẵn bán tại <img id=\"Stall\"/> <h>Khu chợ</>: <img id=\"ItemID_10\"/> <h>Giày da</>, <img id=\"ItemID_149\"/> <h>Quần áo</>, <img id=\"ItemID_8\"/> <h>Áo choàng</>.",
+    "offset": 266374,
+    "length": 203
+  },
+  {
+    "key": "requirement4_tier0",
+    "en": "A <h>Tavern</> in the region with available <img id=\"ItemID_28\"/> <h>Ale</>.",
+    "vi": "Có một <h>Quán bia</> trong Vùng và luôn sẵn <img id=\"ItemID_28\"/> <h>Bia Ale</> để phục vụ dân chúng.",
+    "offset": 272723,
+    "length": 77
+  },
+  {
+    "key": "requirement5_tier0",
+    "en": "Access to a <h>Wooden Church</> or better.",
+    "vi": "Được đi lễ tại <h>Nhà thờ gỗ</> hoặc cấp cao hơn.",
+    "offset": 275202,
+    "length": 43
+  },
+  {
+    "key": "requirement5_tier1",
+    "en": "Access to a <h>Small Stone Church</> or better.",
+    "vi": "Được đi lễ tại <h>Nhà thờ đá nhỏ</> hoặc cấp cao hơn.",
+    "offset": 276658,
+    "length": 48
+  },
+  {
+    "key": "armaments",
+    "en": "Armaments",
+    "vi": "Vũ khí & Giáp",
+    "offset": 278195,
+    "length": 10
+  },
+  {
+    "key": "amenities",
+    "en": "Amenities",
+    "vi": "Tiện ích dân sinh",
+    "offset": 278520,
+    "length": 10
+  },
+  {
+    "key": "keep_settings",
+    "en": "Keep Settings?",
+    "vi": "Lưu các thiết lập này?",
+    "offset": 278897,
+    "length": 15
+  },
+  {
+    "key": "settings_keep",
+    "en": "Yes",
+    "vi": "Có",
+    "offset": 279640,
+    "length": 4
+  },
+  {
+    "key": "settings_dont_keep",
+    "en": "No",
+    "vi": "Không",
+    "offset": 279812,
+    "length": 3
+  },
+  {
+    "key": "new_militia_units",
+    "en": "Form Militia",
+    "vi": "Thành lập Dân quân",
+    "offset": 279997,
+    "length": 13
+  },
+  {
+    "key": "pasture_space",
+    "en": "Pasture Space",
+    "vi": "Đồng cỏ chăn thả",
+    "offset": 280500,
+    "length": 14
+  },
+  {
+    "key": "pasture_space_descr",
+    "en": "Space for your sheep and lambs to graze. Without enough space the animals may run away.",
+    "vi": "Diện tích đồng cỏ cho cừu và cừu non gặm cỏ. Thiếu không gian chăn thả, đàn gia súc có thể sẽ chạy mất.",
+    "offset": 280963,
+    "length": 88
+  },
+  {
+    "key": "stable_space",
+    "en": "Stable Space",
+    "vi": "Sức chứa Chuồng trại",
+    "offset": 284136,
+    "length": 13
+  },
+  {
+    "key": "stable_space_descr",
+    "en": "Space for your hardworking Oxen and Horses. Animals may run away if not enough space is provided.",
+    "vi": "Chỗ che mưa che nắng cho Bò kéo và Ngựa làm việc. Gia súc có thể bỏ chạy mất nếu không có chuồng che chở.",
+    "offset": 284598,
+    "length": 98
+  },
+  {
+    "key": "saving_finished",
+    "en": "Saving Complete",
+    "vi": "Lưu game thành công",
+    "offset": 287852,
+    "length": 16
+  },
+  {
+    "key": "save_new",
+    "en": "Save",
+    "vi": "Lưu mới",
+    "offset": 288338,
+    "length": 5
+  },
+  {
+    "key": "save_overwrite",
+    "en": "Overwrite",
+    "vi": "Ghi đè",
+    "offset": 288596,
+    "length": 10
+  },
+  {
+    "key": "load_savefile",
+    "en": "Load",
+    "vi": "Tải bản lưu",
+    "offset": 288972,
+    "length": 5
+  },
+  {
+    "key": "save_delete",
+    "en": "Delete",
+    "vi": "Xóa",
+    "offset": 289252,
+    "length": 7
+  },
+  {
+    "key": "delete_save_confirmation",
+    "en": "Delete this Save File?",
+    "vi": "Bạn có chắc muốn xóa bản lưu game này?",
+    "offset": 289512,
+    "length": 23
+  },
+  {
+    "key": "menus_16132",
+    "en": "Cancellare questo file di salvataggio?",
+    "vi": "Bạn có chắc muốn xóa bản lưu game này?",
+    "offset": 290007,
+    "length": 39
+  },
+  {
+    "key": "living_space",
+    "en": "Residing Families",
+    "vi": "Gia đình đang sinh sống",
+    "offset": 290366,
+    "length": 18
+  },
+  {
+    "key": "claim_confirmation",
+    "en": "Press Claim towards this Region?",
+    "vi": "Bạn có chắc muốn đưa ra Yêu sách chủ quyền với Vùng này?",
+    "offset": 290914,
+    "length": 33
+  },
+  {
+    "key": "claim_yes",
+    "en": "Yes",
+    "vi": "Đồng ý",
+    "offset": 291979,
+    "length": 4
+  },
+  {
+    "key": "claim_no",
+    "en": "No",
+    "vi": "Hủy",
+    "offset": 292151,
+    "length": 3
+  },
+  {
+    "key": "upgrade_armor_local",
+    "en": "Upgrade armor - buy locally",
+    "vi": "Nâng cấp giáp — Mua của thợ trong làng (Giảm 50%)",
+    "offset": 292336,
+    "length": 28
+  },
+  {
+    "key": "menus_10496",
+    "en": "Melhorar armadura - Comprar localmente",
+    "vi": "Nâng cấp giáp — Mua của thợ trong làng (Giảm 50%)",
+    "offset": 292688,
+    "length": 39
+  },
+  {
+    "key": "upgrade_armor_local_descr",
+    "en": "Pay half price buying from the local armorers. The treasury funds will get transfered to the regional wealth.",
+    "vi": "Chỉ tốn nửa giá khi mua từ thợ rèn giáp trong vùng. Tiền Ngân khố Lãnh chúa chi ra sẽ được chuyển vào Tài sản của vùng.",
+    "offset": 293429,
+    "length": 110
+  },
+  {
+    "key": "upgrade_armor_import",
+    "en": "Upgrade armor - import",
+    "vi": "Nâng cấp giáp — Nhập khẩu từ bên ngoài",
+    "offset": 297046,
+    "length": 23
+  },
+  {
+    "key": "upgrade_armor_import_descr",
+    "en": "Pay the full price to import the armor set for this retainer.",
+    "vi": "Trả đủ giá tiền để nhập trọn bộ giáp từ bên ngoài cho người cận vệ này.",
+    "offset": 297976,
+    "length": 62
+  },
+  {
+    "key": "upgrade_armor_current_price",
+    "en": "Treasury Cost",
+    "vi": "Chi phí Ngân khố",
+    "offset": 300071,
+    "length": 14
+  },
+  {
+    "key": "minimum_house_level",
+    "en": "Minimum House Level required",
+    "vi": "Yêu cầu cấp độ Nhà dân tối thiểu",
+    "offset": 300596,
+    "length": 29
+  },
+  {
+    "key": "difficulty_custom",
+    "en": "Custom",
+    "vi": "Tùy chỉnh",
+    "offset": 301451,
+    "length": 7
+  },
+  {
+    "key": "difficulty_low",
+    "en": "Relaxing",
+    "vi": "Thư giãn (Dễ)",
+    "offset": 301811,
+    "length": 9
+  },
+  {
+    "key": "difficulty_medium",
+    "en": "Default",
+    "vi": "Mặc định (Vừa)",
+    "offset": 302129,
+    "length": 8
+  },
+  {
+    "key": "difficulty_high",
+    "en": "Challenging",
+    "vi": "Thử thách (Khó)",
+    "offset": 302484,
+    "length": 12
+  },
+  {
+    "key": "gameSetting_adversaryOn",
+    "en": "Present",
+    "vi": "Có mặt (Bật)",
+    "offset": 302804,
+    "length": 8
+  },
+  {
+    "key": "gameSetting_adversaryOff",
+    "en": "Absent",
+    "vi": "Không có (Tắt)",
+    "offset": 303094,
+    "length": 7
+  },
+  {
+    "key": "gameSetting_requirements",
+    "en": "Residential Requirements",
+    "vi": "Nhu cầu Nhà ở",
+    "offset": 303407,
+    "length": 25
+  },
+  {
+    "key": "menus_2",
+    "en": "Tolerant",
+    "vi": "Dễ tính",
+    "offset": 303965,
+    "length": 9
+  },
+  {
+    "key": "menus_1",
+    "en": "Balanced",
+    "vi": "Cân bằng",
+    "offset": 304271,
+    "length": 9
+  },
+  {
+    "key": "requirementOffset_-1",
+    "en": "Demanding",
+    "vi": "Khắt khe",
+    "offset": 304647,
+    "length": 10
+  },
+  {
+    "key": "approvalPenaltyLow",
+    "en": "Low Penalty",
+    "vi": "Phạt nhẹ Lòng dân",
+    "offset": 304980,
+    "length": 12
+  },
+  {
+    "key": "approvalPenaltyMedium",
+    "en": "Medium Penalty",
+    "vi": "Phạt vừa Lòng dân",
+    "offset": 305456,
+    "length": 15
+  },
+  {
+    "key": "approvalPenaltyHigh",
+    "en": "High Penalty",
+    "vi": "Phạt nặng Lòng dân",
+    "offset": 305997,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_initialBanditCamps",
+    "en": "Initial Bandit Camps",
+    "vi": "Số Trại cướp ban đầu",
+    "offset": 306457,
+    "length": 21
+  },
+  {
+    "key": "game_presets",
+    "en": "Scenario Templates",
+    "vi": "Kịch bản Trò chơi",
+    "offset": 307246,
+    "length": 19
+  },
+  {
+    "key": "mode_setup",
+    "en": "Premise",
+    "vi": "Bối cảnh ban đầu",
+    "offset": 307742,
+    "length": 8
+  },
+  {
+    "key": "game_difficulty",
+    "en": "Template Difficulty",
+    "vi": "Độ khó Kịch bản",
+    "offset": 308088,
+    "length": 20
+  },
+  {
+    "key": "mode_goals",
+    "en": "Victory Conditions",
+    "vi": "Mục tiêu Chiến thắng",
+    "offset": 308719,
+    "length": 19
+  },
+  {
+    "key": "coming_soon",
+    "en": "More coming soon - AI City-Building is still under rework.",
+    "vi": "Sắp ra mắt — Tính năng xây dựng thành phố của AI đang được phát triển lại.",
+    "offset": 309253,
+    "length": 59
+  },
+  {
+    "key": "storage_accept_all_from_category",
+    "en": "Accept all goods from this category",
+    "vi": "Nhận toàn bộ hàng hóa thuộc nhóm này",
+    "offset": 311536,
+    "length": 36
+  },
+  {
+    "key": "storage_reject_all_from_category",
+    "en": "Reject all goods from this category",
+    "vi": "Từ chối toàn bộ hàng hóa thuộc nhóm này",
+    "offset": 312649,
+    "length": 36
+  },
+  {
+    "key": "export_price_import_price",
+    "en": "Export Price / Import Price",
+    "vi": "Giá Xuất khẩu / Giá Nhập khẩu",
+    "offset": 313795,
+    "length": 28
+  },
+  {
+    "key": "export_price",
+    "en": "Export Price",
+    "vi": "Giá Xuất khẩu",
+    "offset": 314633,
+    "length": 13
+  },
+  {
+    "key": "import_price",
+    "en": "Import Price",
+    "vi": "Giá Nhập khẩu",
+    "offset": 315088,
+    "length": 13
+  },
+  {
+    "key": "crop_rotation",
+    "en": "Crop Rotation",
+    "vi": "Luân canh Cây trồng",
+    "offset": 315540,
+    "length": 14
+  },
+  {
+    "key": "cropRotation_descr",
+    "en": "Helps bring back lost <h>Fertility</>.{br}Crop rotation triggers after the Harvest Season ends. {br}Keeping the field Fallow regenerates the most Fertility.",
+    "vi": "Giúp phục hồi <h>Độ phì nhiêu</> của đất sau mỗi vụ mùa.{br}Cây trồng sẽ tự động chuyển đổi sau khi thu hoạch xong.{br}Để ruộng Nghỉ hoang (Fallow) sẽ hồi phục độ phì nhiêu nhanh nhất.",
+    "offset": 316034,
+    "length": 157
+  },
+  {
+    "key": "cropID_0_descr",
+    "en": "Fallow fields regenerate all types of <h>Fertility</>, but yield nothing.",
+    "vi": "Cho ruộng nghỉ hoang giúp hồi phục <h>Độ phì nhiêu</> cho mọi loại cây, nhưng vụ đó sẽ không có thu hoạch.",
+    "offset": 321556,
+    "length": 74
+  },
+  {
+    "key": "cropID_1_descr",
+    "en": "<img id=\"itemID_217\"/><h>Wheat Sheaves</> are threshed into <img id=\"itemID_1\"/><h>Wheat Grain</> at the <h>Farmhouse</>.{br}After that it can be processed further into <img id=\"itemID_5\"/><h>Wheat Flour</> and baked into <img id=\"itemID_172\"/><h>Wheat Bread</>.",
+    "vi": "<img id=\"itemID_217\"/><h>Bó lúa mì</> được đập lấy <img id=\"itemID_1\"/><h>Hạt lúa mì</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_5\"/><h>Bột mì</> và nướng thành <img id=\"itemID_172\"/><h>Bánh mì</>.",
+    "offset": 324152,
+    "length": 263
+  },
+  {
+    "key": "cropID_2_descr",
+    "en": "<img id=\"ItemID_11\"/><h>Flax</> can be woven into <img id=\"ItemID_12\"/><h>Linen</>.",
+    "vi": "<img id=\"ItemID_11\"/><h>Cây lanh</> có thể dệt thành <img id=\"ItemID_12\"/><h>Vải lanh</>.",
+    "offset": 332635,
+    "length": 84
+  },
+  {
+    "key": "cropID_3_descr",
+    "en": "<img id=\"itemID_165\"/><h>Barley</> can be processed into <img id=\"ItemID_29\"/><h>Malt</> and then into <img id=\"ItemID_28\"/><h>Ale</>.",
+    "vi": "<img id=\"itemID_165\"/><h>Đại mạch</> có thể chế biến thành <img id=\"ItemID_29\"/><h>Mạch nha</> rồi nấu thành <img id=\"ItemID_28\"/><h>Bia Ale</>.",
+    "offset": 335452,
+    "length": 135
+  },
+  {
+    "key": "cropID_7_descr",
+    "en": "<img id=\"itemID_298\"/><h>Rye Sheaves</> are threshed into <img id=\"itemID_299\"/><h>Rye Grain</> at the <h>Farmhouse</>.{br}After that it can be processed further into <img id=\"itemID_33\"/><h>Rye Flour</> and baked into <img id=\"itemID_170\"/><h>Rye Bread</>.",
+    "vi": "<img id=\"itemID_298\"/><h>Bó lúa mạch đen</> được đập lấy <img id=\"itemID_299\"/><h>Hạt mạch đen</> tại <h>Nông trang</>.{br}Sau đó có thể xay thành <img id=\"itemID_33\"/><h>Bột mạch đen</> và nướng thành <img id=\"itemID_170\"/><h>Bánh mì đen</>.",
+    "offset": 340065,
+    "length": 258
+  },
+  {
+    "key": "transported_goods",
+    "en": "Transported construction goods",
+    "vi": "Vật liệu xây dựng đang vận chuyển đến",
+    "offset": 348600,
+    "length": 31
+  },
+  {
+    "key": "tooltip_log_reserve",
+    "en": "Reserve will never be used for crafting, so that {br}enough raw resources are left for construction.",
+    "vi": "Mức dự trữ này sẽ không bao giờ bị đem đi xẻ ván hay làm đồ,{br}đảm bảo luôn có sẵn gỗ tròn để xây nhà.",
+    "offset": 349504,
+    "length": 101
+  },
+  {
+    "key": "planner_placing_walls_and_roads",
+    "en": "Placing Roads & Walls",
+    "vi": "Đặt Đường sá & Tường bao",
+    "offset": 352894,
+    "length": 22
+  },
+  {
+    "key": "pasture_space",
+    "en": "Add Point",
+    "vi": "Thêm điểm mốc",
+    "offset": 353651,
+    "length": 10
+  },
+  {
+    "key": "remove_point",
+    "en": "Remove Point",
+    "vi": "Xóa điểm mốc",
+    "offset": 354131,
+    "length": 13
+  },
+  {
+    "key": "adjust_curvature",
+    "en": "Adjust Curvature",
+    "vi": "Chỉnh độ uốn cong",
+    "offset": 354567,
+    "length": 17
+  },
+  {
+    "key": "planner_editing_walls",
+    "en": "Wall Editing",
+    "vi": "Chỉnh sửa Tường thành",
+    "offset": 355109,
+    "length": 13
+  },
+  {
+    "key": "drag_wall_point",
+    "en": "Drag Wall Point",
+    "vi": "Kéo điểm tường",
+    "offset": 355606,
+    "length": 16
+  },
+  {
+    "key": "insert_new_wall_point",
+    "en": "Insert Wall Point",
+    "vi": "Chèn thêm điểm tường",
+    "offset": 356256,
+    "length": 18
+  },
+  {
+    "key": "remove_wall_point",
+    "en": "Remove Wall Point",
+    "vi": "Xóa điểm tường",
+    "offset": 356895,
+    "length": 18
+  },
+  {
+    "key": "planner_placing_new_buildings",
+    "en": "Building Placement",
+    "vi": "Đặt vị trí công trình",
+    "offset": 357485,
+    "length": 19
+  },
+  {
+    "key": "planner_editing_buildings",
+    "en": "Building Editing",
+    "vi": "Chỉnh sửa công trình",
+    "offset": 358123,
+    "length": 17
+  },
+  {
+    "key": "drag_placed_module",
+    "en": "Drag to Relocate",
+    "vi": "Kéo để dời vị trí",
+    "offset": 358744,
+    "length": 17
+  },
+  {
+    "key": "select_placed_module",
+    "en": "Select Module",
+    "vi": "Chọn cấu trúc",
+    "offset": 359528,
+    "length": 14
+  },
+  {
+    "key": "rotate_selected_module",
+    "en": "Rotate Selected",
+    "vi": "Xoay cấu trúc được chọn",
+    "offset": 360066,
+    "length": 16
+  },
+  {
+    "key": "remove_placed_module",
+    "en": "Remove Module",
+    "vi": "Xóa cấu trúc",
+    "offset": 360709,
+    "length": 14
+  },
+  {
+    "key": "place_module",
+    "en": "Place Module",
+    "vi": "Đặt cấu trúc",
+    "offset": 361205,
+    "length": 13
+  },
+  {
+    "key": "hold_to_rotate_when_placing",
+    "en": "Hold to Rotate before placement",
+    "vi": "Giữ chuột để xoay trước khi đặt",
+    "offset": 361742,
+    "length": 32
+  },
+  {
+    "key": "no_construction_cost",
+    "en": "No Construction Cost",
+    "vi": "Miễn phí chi phí xây dựng",
+    "offset": 362962,
+    "length": 21
+  },
+  {
+    "key": "camera_movement_speed",
+    "en": "Camera Panning Speed",
+    "vi": "Tốc độ rê góc nhìn (Camera)",
+    "offset": 363623,
+    "length": 21
+  },
+  {
+    "key": "camera_rotation_speed",
+    "en": "Camera Rotation Speed",
+    "vi": "Tốc độ xoay góc nhìn",
+    "offset": 364501,
+    "length": 22
+  },
+  {
+    "key": "camera_zoom_speed",
+    "en": "Camera Zoom Speed",
+    "vi": "Tốc độ thu phóng (Zoom)",
+    "offset": 365332,
+    "length": 18
+  },
+  {
+    "key": "camera_smoothness",
+    "en": "Camera Smoothing",
+    "vi": "Độ mượt mà của góc nhìn",
+    "offset": 366198,
+    "length": 17
+  },
+  {
+    "key": "camera_shake",
+    "en": "Camera Shake",
+    "vi": "Rung lắc màn hình (Camera Shake)",
+    "offset": 366891,
+    "length": 13
+  },
+  {
+    "key": "settings_3d_resolution_scale",
+    "en": "3D Resolution Scale",
+    "vi": "Tỷ lệ độ phân giải 3D",
+    "offset": 367443,
+    "length": 20
+  },
+  {
+    "key": "settings_v-sync",
+    "en": "V-Sync",
+    "vi": "Đồng bộ dọc (V-Sync)",
+    "offset": 368262,
+    "length": 7
+  },
+  {
+    "key": "setting_ambientVoices",
+    "en": "Ambient Voices",
+    "vi": "Tiếng dân làng trò chuyện",
+    "offset": 368756,
+    "length": 15
+  },
+  {
+    "key": "open_castle_planner",
+    "en": "Open the Castle Planner",
+    "vi": "Mở Bản quy hoạch Lâu đài",
+    "offset": 369222,
+    "length": 24
+  },
+  {
+    "key": "gameSetting_aggressiveness",
+    "en": "Modules",
+    "vi": "Gian kiến trúc",
+    "offset": 370018,
+    "length": 8
+  },
+  {
+    "key": "autosave_minutes",
+    "en": "Autosave",
+    "vi": "Tự động lưu",
+    "offset": 370305,
+    "length": 9
+  },
+  {
+    "key": "autosave_off",
+    "en": "Off",
+    "vi": "Tắt",
+    "offset": 370794,
+    "length": 4
+  },
+  {
+    "key": "menus_6",
+    "en": "5 min.",
+    "vi": "5 phút",
+    "offset": 371033,
+    "length": 7
+  },
+  {
+    "key": "menus_11",
+    "en": "10 min.",
+    "vi": "10 phút",
+    "offset": 371275,
+    "length": 8
+  },
+  {
+    "key": "menus_16",
+    "en": "15 min.",
+    "vi": "15 phút",
+    "offset": 371544,
+    "length": 8
+  },
+  {
+    "key": "autosave",
+    "en": "Autosave",
+    "vi": "Tự động lưu (Autosave)",
+    "offset": 371813,
+    "length": 9
+  },
+  {
+    "key": "quicksave",
+    "en": "Quicksave",
+    "vi": "Lưu nhanh (Quicksave)",
+    "offset": 372302,
+    "length": 10
+  },
+  {
+    "key": "HEADER_WIKI",
+    "en": "Help Subjects",
+    "vi": "Cẩm nang & Trợ giúp",
+    "offset": 372774,
+    "length": 14
+  },
+  {
+    "key": "wiki_economy",
+    "en": "Economy",
+    "vi": "Kinh tế & Thị trường",
+    "offset": 373279,
+    "length": 8
+  },
+  {
+    "key": "wiki_buildings",
+    "en": "Buildings",
+    "vi": "Công trình kiến trúc",
+    "offset": 373580,
+    "length": 10
+  },
+  {
+    "key": "wiki_resources",
+    "en": "Resources",
+    "vi": "Tài nguyên & Hàng hóa",
+    "offset": 373893,
+    "length": 10
+  },
+  {
+    "key": "wiki_deposits",
+    "en": "Deposits",
+    "vi": "Mỏ tài nguyên thiên nhiên",
+    "offset": 374163,
+    "length": 9
+  },
+  {
+    "key": "wiki_upgrades",
+    "en": "Upgrades",
+    "vi": "Nâng cấp & Tiện ích",
+    "offset": 374517,
+    "length": 9
+  },
+  {
+    "key": "wiki_military",
+    "en": "Military",
+    "vi": "Quân sự & Chiến tranh",
+    "offset": 374889,
+    "length": 9
+  },
+  {
+    "key": "confirm_demolish",
+    "en": "Are you sure?",
+    "vi": "Bạn có chắc chắn không?",
+    "offset": 375184,
+    "length": 14
+  },
+  {
+    "key": "refund_info",
+    "en": "Construction Materials will be refunded.",
+    "vi": "Vật liệu xây dựng sẽ được hoàn trả lại.",
+    "offset": 375639,
+    "length": 41
+  },
+  {
+    "key": "demolish",
+    "en": "Demolish",
+    "vi": "Phá dỡ",
+    "offset": 376946,
+    "length": 9
+  },
+  {
+    "key": "cancel",
+    "en": "Cancel",
+    "vi": "Hủy bỏ",
+    "offset": 377215,
+    "length": 7
+  },
+  {
+    "key": "confirm",
+    "en": "Confirm",
+    "vi": "Xác nhận",
+    "offset": 377502,
+    "length": 8
+  },
+  {
+    "key": "trade_route_establish",
+    "en": "Establish a Trade Route",
+    "vi": "Mở Tuyến Giao thương",
+    "offset": 377834,
+    "length": 24
+  },
+  {
+    "key": "trade_route_establish_descr",
+    "en": "After paying to establish a <h>TRADE ROUTE</>, a dedicated <h>FREE MERCHANT</> will regularly visit your <h>REGION</> to <h>TRADE</> only this specific type of good.",
+    "vi": "Sau khi chi tiền mở <h>TUYẾN GIAO THƯƠNG</>, một <h>LÁI BUÔN TỰ DO</> chuyên trách sẽ thường xuyên ghé thăm <h>VÙNG ĐẤT</> của bạn để <h>MUA BÁN</> riêng mặt hàng này.",
+    "offset": 378575,
+    "length": 166
+  },
+  {
+    "key": "establish_trade_route_confirm",
+    "en": "Pay to establish a Trade Route?",
+    "vi": "Chi tiền để mở Tuyến Giao thương này?",
+    "offset": 384613,
+    "length": 32
+  },
+  {
+    "key": "essential_commodities",
+    "en": "Essential commodities",
+    "vi": "Hàng hóa thiết yếu",
+    "offset": 385884,
+    "length": 22
+  },
+  {
+    "key": "settlement_setup",
+    "en": "Settlement Options",
+    "vi": "Tùy chọn Khu định cư",
+    "offset": 386545,
+    "length": 19
+  },
+  {
+    "key": "tooltip_outpost_mother_region",
+    "en": "The new outpost will become an extension of this town and you will be able to assign families from the town to work here without having to build <h>BURGAGE PLOTS</> to accomodate them. They will also consume resources like <h>FOOD</> and <h>FIREWOOD</> from their home in this town.",
+    "vi": "Tiền đồn mới sẽ trở thành một phần mở rộng của thị trấn này và bạn có thể phân công các gia đình từ thị trấn sang đây làm việc mà không cần xây thêm <h>NHÀ DÂN</> cho họ. Họ cũng sẽ tiêu thụ các tài nguyên như <h>LƯƠNG THỰC</> và <h>CỦI SƯỞI</> từ ngôi nhà chính của họ trong thị trấn.",
+    "offset": 387157,
+    "length": 283
+  },
+  {
+    "key": "game_victory",
+    "en": "Victory!",
+    "vi": "Chiến thắng vẻ vang!",
+    "offset": 395922,
+    "length": 9
+  },
+  {
+    "key": "game_defeat",
+    "en": "You have been defeated.",
+    "vi": "Bạn đã bị đánh bại.",
+    "offset": 396264,
+    "length": 24
+  },
+  {
+    "key": "summary_daysTotal",
+    "en": "Days passed",
+    "vi": "Số ngày đã trôi qua",
+    "offset": 396790,
+    "length": 12
+  },
+  {
+    "key": "summary_buildings_constructed_total",
+    "en": "Constructions finished",
+    "vi": "Công trình đã hoàn thành",
+    "offset": 397256,
+    "length": 23
+  },
+  {
+    "key": "summary_endgame_population",
+    "en": "Endgame population total",
+    "vi": "Tổng dân số cuối game",
+    "offset": 397936,
+    "length": 25
+  },
+  {
+    "key": "summary_challenges_won",
+    "en": "Challenges won",
+    "vi": "Số trận thách đấu đã thắng",
+    "offset": 398774,
+    "length": 15
+  },
+  {
+    "key": "summary_challenges_lost",
+    "en": "Challenges lost",
+    "vi": "Số trận thách đấu thất bại",
+    "offset": 399350,
+    "length": 16
+  },
+  {
+    "key": "summary_enemies_killed",
+    "en": "Enemies killed",
+    "vi": "Quân địch đã tiêu diệt",
+    "offset": 399902,
+    "length": 15
+  },
+  {
+    "key": "summary_soldiers_lost",
+    "en": "Soldiers lost",
+    "vi": "Binh sĩ tử trận",
+    "offset": 400415,
+    "length": 14
+  },
+  {
+    "key": "summary_work_in_progress",
+    "en": "Work in progress! Expect more cool data here in the future.",
+    "vi": "Tính năng đang hoàn thiện! Sẽ có thêm nhiều số liệu chi tiết trong các bản cập nhật tới.",
+    "offset": 400939,
+    "length": 60
+  },
+  {
+    "key": "villagers_dead",
+    "en": "Dead villagers",
+    "vi": "Dân làng tử nạn",
+    "offset": 403059,
+    "length": 15
+  },
+  {
+    "key": "hire_confirm",
+    "en": "Sign the contract",
+    "vi": "Ký hợp đồng thuê quân",
+    "offset": 403571,
+    "length": 18
+  },
+  {
+    "key": "hire_cancel",
+    "en": "Rethink this",
+    "vi": "Suy nghĩ lại",
+    "offset": 404090,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_aggressiveness",
+    "en": "AI Aggressiveness",
+    "vi": "Độ hung hăng của AI",
+    "offset": 404598,
+    "length": 18
+  },
+  {
+    "key": "menus_1",
+    "en": "Reactive",
+    "vi": "Phản ứng (Chỉ tự vệ)",
+    "offset": 405182,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_aggressiveness_0_descr",
+    "en": "AI Lords don't press Claims towards the player's Regions, but they will protect their own.",
+    "vi": "Lãnh chúa AI sẽ không bao giờ đòi đất của người chơi, nhưng sẽ quyết liệt tự vệ để bảo vệ đất của họ.",
+    "offset": 405481,
+    "length": 91
+  },
+  {
+    "key": "menus_2",
+    "en": "Balanced",
+    "vi": "Cân bằng",
+    "offset": 408437,
+    "length": 9
+  },
+  {
+    "key": "gameSetting_aggressiveness_1_descr",
+    "en": "AI Lords may press a Claim towards the player's Regions after they run out of neutral Regions to claim.",
+    "vi": "Lãnh chúa AI có thể đưa ra Yêu sách chiếm đất của người chơi sau khi không còn vùng đất trung lập nào.",
+    "offset": 408812,
+    "length": 104
+  },
+  {
+    "key": "menus_3",
+    "en": "Aggressive",
+    "vi": "Hung hăng",
+    "offset": 412432,
+    "length": 11
+  },
+  {
+    "key": "gameSetting_aggressiveness_2_descr",
+    "en": "AI Lords may press Claims towards the player Regions at will.",
+    "vi": "Lãnh chúa AI hiếu chiến, có thể tùy ý đưa ra Yêu sách đòi chiếm đất của bạn bất cứ lúc nào.",
+    "offset": 412755,
+    "length": 62
+  },
+  {
+    "key": "setting_tutorials",
+    "en": "Tutorial popups",
+    "vi": "Cửa sổ hướng dẫn",
+    "offset": 415121,
+    "length": 16
+  },
+  {
+    "key": "setting_display_mode",
+    "en": "Display mode",
+    "vi": "Chế độ màn hình",
+    "offset": 415700,
+    "length": 13
+  },
+  {
+    "key": "setting_resolution",
+    "en": "Resolution",
+    "vi": "Độ phân giải",
+    "offset": 416214,
+    "length": 11
+  },
+  {
+    "key": "setting_dlss",
+    "en": "DLSS",
+    "vi": "NVIDIA DLSS",
+    "offset": 416643,
+    "length": 5
+  },
+  {
+    "key": "setting_dlss_quality",
+    "en": "DLSS quality",
+    "vi": "Chất lượng DLSS",
+    "offset": 416824,
+    "length": 13
+  },
+  {
+    "key": "setting_dlss_dynamic",
+    "en": "Dynamic DLSS",
+    "vi": "DLSS động",
+    "offset": 417285,
+    "length": 13
+  },
+  {
+    "key": "setting_vsync",
+    "en": "VSync",
+    "vi": "Đồng bộ dọc (VSync)",
+    "offset": 417742,
+    "length": 6
+  },
+  {
+    "key": "setting_framerate_cap",
+    "en": "Max framerate",
+    "vi": "Giới hạn khung hình (FPS)",
+    "offset": 418185,
+    "length": 14
+  },
+  {
+    "key": "setting_sharpening",
+    "en": "Sharpening",
+    "vi": "Độ sắc nét hình ảnh",
+    "offset": 418821,
+    "length": 11
+  },
+  {
+    "key": "setting_aa_type",
+    "en": "Anti-aliasing",
+    "vi": "Khử răng cưa",
+    "offset": 419193,
+    "length": 14
+  },
+  {
+    "key": "setting_taa_sharpness",
+    "en": "TAA filtering",
+    "vi": "Bộ lọc TAA",
+    "offset": 419676,
+    "length": 14
+  },
+  {
+    "key": "setting_specular",
+    "en": "Specular shine",
+    "vi": "Độ phản chiếu bóng bẩy (Specular)",
+    "offset": 420136,
+    "length": 15
+  },
+  {
+    "key": "setting_shaderQuality",
+    "en": "Shader quality",
+    "vi": "Chất lượng Shader",
+    "offset": 420628,
+    "length": 15
+  },
+  {
+    "key": "setting_shadowQuality",
+    "en": "Shadow quality",
+    "vi": "Chất lượng bóng đổ",
+    "offset": 421186,
+    "length": 15
+  },
+  {
+    "key": "setting_contactShadows",
+    "en": "Screen space shadows",
+    "vi": "Đổ bóng tiếp xúc (Screen Space)",
+    "offset": 421692,
+    "length": 21
+  },
+  {
+    "key": "setting_xess_quality",
+    "en": "XeSS quality",
+    "vi": "Chất lượng Intel XeSS",
+    "offset": 422368,
+    "length": 13
+  },
+  {
+    "key": "setting_postprocess",
+    "en": "Postprocess quality",
+    "vi": "Chất lượng hậu kỳ",
+    "offset": 422837,
+    "length": 20
+  },
+  {
+    "key": "setting_volumetricClouds",
+    "en": "Volumetric clouds",
+    "vi": "Mây 3D chân thực (Volumetric)",
+    "offset": 423555,
+    "length": 18
+  },
+  {
+    "key": "setting_terrainTextureQuality",
+    "en": "Terrain texture resolution",
+    "vi": "Độ chi tiết mặt đất (Địa hình)",
+    "offset": 424105,
+    "length": 27
+  },
+  {
+    "key": "setting_viewDistance",
+    "en": "View distance",
+    "vi": "Tầm nhìn xa",
+    "offset": 425072,
+    "length": 14
+  },
+  {
+    "key": "setting_grassDensity",
+    "en": "Grass density",
+    "vi": "Mật độ thảm cỏ",
+    "offset": 425607,
+    "length": 14
+  },
+  {
+    "key": "setting_grassDistance",
+    "en": "Grass distance",
+    "vi": "Khoảng cách hiển thị cỏ",
+    "offset": 426129,
+    "length": 15
+  },
+  {
+    "key": "setting_treeDetail",
+    "en": "Foliage quality",
+    "vi": "Độ chi tiết cây cối (Tán lá)",
+    "offset": 426713,
+    "length": 16
+  },
+  {
+    "key": "setting_ambientVoicelines",
+    "en": "Ambient voicelines",
+    "vi": "Tiếng dân làng trò chuyện",
+    "offset": 427302,
+    "length": 19
+  },
+  {
+    "key": "setting_notifications",
+    "en": "Alerts and notifications",
+    "vi": "Âm báo & Thông báo",
+    "offset": 427810,
+    "length": 25
+  },
+  {
+    "key": "setting_ambience",
+    "en": "Ambience",
+    "vi": "Âm thanh môi trường",
+    "offset": 428476,
+    "length": 9
+  },
+  {
+    "key": "setting_UI",
+    "en": "Interface",
+    "vi": "Âm thanh giao diện",
+    "offset": 428767,
+    "length": 10
+  },
+  {
+    "key": "setting_voiceCommands",
+    "en": "Command voicelines",
+    "vi": "Giọng hô khẩu lệnh quân đội",
+    "offset": 429123,
+    "length": 19
+  },
+  {
+    "key": "setting_sfx",
+    "en": "Sound effects",
+    "vi": "Hiệu ứng âm thanh (SFX)",
+    "offset": 429632,
+    "length": 14
+  },
+  {
+    "key": "setting_music",
+    "en": "Music",
+    "vi": "Nhạc nền",
+    "offset": 430032,
+    "length": 6
+  },
+  {
+    "key": "setting_globalVolume",
+    "en": "Master volume",
+    "vi": "Âm lượng tổng",
+    "offset": 430272,
+    "length": 14
+  },
+  {
+    "key": "setting_shadowMethod",
+    "en": "Shadow method",
+    "vi": "Phương thức đổ bóng",
+    "offset": 430735,
+    "length": 14
+  },
+  {
+    "key": "setting_cascade",
+    "en": "Legacy",
+    "vi": "Bóng thường (Cascade)",
+    "offset": 431231,
+    "length": 7
+  },
+  {
+    "key": "setting_vsm",
+    "en": "Virtual Shadow Maps",
+    "vi": "Bóng chi tiết cao (Virtual Shadow Maps)",
+    "offset": 431582,
+    "length": 20
+  },
+  {
+    "key": "allow_squad_assignment_to_multiple_control_groups",
+    "en": "Allow assignment to multiple control groups",
+    "vi": "Cho phép gán đạo quân vào nhiều nhóm phím số (Control Groups)",
+    "offset": 432186,
+    "length": 44
+  },
+  {
+    "key": "enemy_spotted_reaction",
+    "en": "Reaction when enemy was spotted",
+    "vi": "Phản ứng khi phát hiện quân địch",
+    "offset": 433536,
+    "length": 32
+  },
+  {
+    "key": "menus_1",
+    "en": "Do nothing",
+    "vi": "Không làm gì",
+    "offset": 434532,
+    "length": 11
+  },
+  {
+    "key": "menus_2",
+    "en": "Slow down",
+    "vi": "Tự động giảm tốc độ game",
+    "offset": 434972,
+    "length": 10
+  },
+  {
+    "key": "menus_3",
+    "en": "Pause",
+    "vi": "Tự động tạm dừng game",
+    "offset": 435326,
+    "length": 6
+  },
+  {
+    "key": "show_resource_icons",
+    "en": "Always display deposit icons",
+    "vi": "Luôn hiển thị biểu tượng mỏ tài nguyên",
+    "offset": 435630,
+    "length": 29
+  },
+  {
+    "key": "settings_cameraForward",
+    "en": "Camera forward",
+    "vi": "Di chuyển góc nhìn tiến",
+    "offset": 436621,
+    "length": 15
+  },
+  {
+    "key": "settings_cameraLeft",
+    "en": "Camera left",
+    "vi": "Di chuyển góc nhìn sang trái",
+    "offset": 437147,
+    "length": 12
+  },
+  {
+    "key": "settings_cameraBackward",
+    "en": "Camera backward",
+    "vi": "Di chuyển góc nhìn lùi",
+    "offset": 437654,
+    "length": 16
+  },
+  {
+    "key": "settings_cameraRight",
+    "en": "Camera right",
+    "vi": "Di chuyển góc nhìn sang phải",
+    "offset": 438167,
+    "length": 13
+  },
+  {
+    "key": "settings_cameraRotate",
+    "en": "Camera rotate",
+    "vi": "Xoay góc nhìn",
+    "offset": 438703,
+    "length": 14
+  },
+  {
+    "key": "settings_cameraRotate_right",
+    "en": "Camera rotate right",
+    "vi": "Xoay góc nhìn sang phải",
+    "offset": 439221,
+    "length": 20
+  },
+  {
+    "key": "settings_cameraRotate_left",
+    "en": "Camera rotate left",
+    "vi": "Xoay góc nhìn sang trái",
+    "offset": 439996,
+    "length": 19
+  },
+  {
+    "key": "settings_jumpToTown",
+    "en": "Cycle between towns",
+    "vi": "Chuyển nhanh qua lại giữa các thị trấn",
+    "offset": 440772,
+    "length": 20
+  },
+  {
+    "key": "settings_pause",
+    "en": "Pause",
+    "vi": "Tạm dừng",
+    "offset": 441489,
+    "length": 6
+  },
+  {
+    "key": "settings_speed_slower",
+    "en": "Slower game speed",
+    "vi": "Giảm tốc độ game",
+    "offset": 441745,
+    "length": 18
+  },
+  {
+    "key": "settings_speed_faster",
+    "en": "Faster game speed",
+    "vi": "Tăng tốc độ game",
+    "offset": 442414,
+    "length": 18
+  },
+  {
+    "key": "settings_road",
+    "en": "Road placing mode",
+    "vi": "Chế độ rải đường sá",
+    "offset": 443092,
+    "length": 18
+  },
+  {
+    "key": "settings_construction",
+    "en": "Construction tab",
+    "vi": "Mở tab Xây dựng",
+    "offset": 443857,
+    "length": 17
+  },
+  {
+    "key": "settings_army",
+    "en": "Army tab",
+    "vi": "Mở tab Quân đội",
+    "offset": 444355,
+    "length": 9
+  },
+  {
+    "key": "settings_map",
+    "en": "Map view",
+    "vi": "Mở Bản đồ tổng quan",
+    "offset": 444775,
+    "length": 9
+  },
+  {
+    "key": "settings_housingPlot",
+    "en": "Quick burgage plot",
+    "vi": "Đặt nhanh Nhà dân",
+    "offset": 445129,
+    "length": 19
+  },
+  {
+    "key": "settings_prev_constr_cat",
+    "en": "Previous construction category",
+    "vi": "Danh mục xây dựng trước",
+    "offset": 445719,
+    "length": 31
+  },
+  {
+    "key": "settings_next_constr_cat",
+    "en": "Next construction category",
+    "vi": "Danh mục xây dựng tiếp theo",
+    "offset": 446614,
+    "length": 27
+  },
+  {
+    "key": "settings_fire_worker",
+    "en": "Unassign a single family",
+    "vi": "Bớt 1 gia đình làm việc",
+    "offset": 447538,
+    "length": 25
+  },
+  {
+    "key": "settings_hire_worker",
+    "en": "Assign a single family",
+    "vi": "Thêm 1 gia đình làm việc",
+    "offset": 448315,
+    "length": 23
+  },
+  {
+    "key": "settings_more_UI_info",
+    "en": "Show more information",
+    "vi": "Hiện thêm thông tin chi tiết",
+    "offset": 448992,
+    "length": 22
+  },
+  {
+    "key": "settings_cinematicMode",
+    "en": "Cinematic mode",
+    "vi": "Chế độ quay phim (Ẩn toàn bộ giao diện)",
+    "offset": 449722,
+    "length": 15
+  },
+  {
+    "key": "settings_group1",
+    "en": "Control group 1",
+    "vi": "Nhóm đạo quân 1",
+    "offset": 450244,
+    "length": 16
+  },
+  {
+    "key": "settings_group2",
+    "en": "Control group 2",
+    "vi": "Nhóm đạo quân 2",
+    "offset": 450727,
+    "length": 16
+  },
+  {
+    "key": "settings_group3",
+    "en": "Control group 3",
+    "vi": "Nhóm đạo quân 3",
+    "offset": 451210,
+    "length": 16
+  },
+  {
+    "key": "settings_group4",
+    "en": "Control group 4",
+    "vi": "Nhóm đạo quân 4",
+    "offset": 451693,
+    "length": 16
+  },
+  {
+    "key": "settings_group5",
+    "en": "Control group 5",
+    "vi": "Nhóm đạo quân 5",
+    "offset": 452176,
+    "length": 16
+  },
+  {
+    "key": "settings_group6",
+    "en": "Control group 6",
+    "vi": "Nhóm đạo quân 6",
+    "offset": 452659,
+    "length": 16
+  },
+  {
+    "key": "settings_group7",
+    "en": "Control group 7",
+    "vi": "Nhóm đạo quân 7",
+    "offset": 453142,
+    "length": 16
+  },
+  {
+    "key": "settings_group8",
+    "en": "Control group 8",
+    "vi": "Nhóm đạo quân 8",
+    "offset": 453625,
+    "length": 16
+  },
+  {
+    "key": "settings_group9",
+    "en": "Control group 9",
+    "vi": "Nhóm đạo quân 9",
+    "offset": 454108,
+    "length": 16
+  },
+  {
+    "key": "setting_fsr_quality",
+    "en": "FSR quality",
+    "vi": "Chất lượng AMD FSR",
+    "offset": 454591,
+    "length": 12
+  },
+  {
+    "key": "no_save_games_found",
+    "en": "No save games found",
+    "vi": "Không tìm thấy tập tin lưu game nào",
+    "offset": 455008,
+    "length": 20
+  },
+  {
+    "key": "send_letter",
+    "en": "Send",
+    "vi": "Gửi thư",
+    "offset": 455718,
+    "length": 5
+  },
+  {
+    "key": "letter_sent",
+    "en": "Letter Sent",
+    "vi": "Đã gửi thư",
+    "offset": 455989,
+    "length": 12
+  },
+  {
+    "key": "diplo_rethoric",
+    "en": "Rhetoric",
+    "vi": "Hùng biện",
+    "offset": 456464,
+    "length": 9
+  },
+  {
+    "key": "diplo_negotiation",
+    "en": "Negotiation",
+    "vi": "Đàm phán",
+    "offset": 456783,
+    "length": 12
+  },
+  {
+    "key": "diplo_declaration",
+    "en": "Declaration",
+    "vi": "Tuyên cáo & Tuyên chiến",
+    "offset": 457169,
+    "length": 12
+  },
+  {
+    "key": "camera_zoomToCursor",
+    "en": "Move to cursor when zooming",
+    "vi": "Thu phóng hướng theo vị trí con trỏ chuột",
+    "offset": 457571,
+    "length": 28
+  },
+  {
+    "key": "game_begin",
+    "en": "Begin",
+    "vi": "Bắt đầu hành trình",
+    "offset": 458593,
+    "length": 6
+  },
+  {
+    "key": "early_access_msg",
+    "en": "This game is still in development",
+    "vi": "Trò chơi đang trong giai đoạn Early Access (Phát triển thử nghiệm)",
+    "offset": 458866,
+    "length": 34
+  },
+  {
+    "key": "early_access_msg_xbox",
+    "en": "Manor Lords - Game Preview",
+    "vi": "Manor Lords - Bản thử nghiệm Game Preview",
+    "offset": 459991,
+    "length": 27
+  },
+  {
+    "key": "early_access_msg_descr",
+    "en": "Manor Lords is an indie passion project and even though it's been 7 years, the game still needs more time to be fully complete. {br}{br}Certain game or platform features aren't available yet, and you will probably encounter bugs. Feel free to drop feedback on our Discord channel where I try to respond every day. {br}{br}Thank you for understanding as I continue work on the game,{br}{br}Greg, Manor Lords lead dev",
+    "vi": "Manor Lords là một dự án indie đầy tâm huyết và dù đã trải qua 7 năm phát triển, trò chơi vẫn cần thêm thời gian để hoàn thiện trọn vẹn.{br}{br}Một số tính năng trong game và nền tảng vẫn chưa sẵn sàng, và bạn có thể sẽ bắt gặp các lỗi phát sinh. Đừng ngần ngại đóng góp ý kiến trên kênh Discord, nơi tôi luôn cố gắng phản hồi mỗi ngày.{br}{br}Cảm ơn sự thấu hiểu và ủng hộ của bạn khi tôi tiếp tục phát triển trò chơi,{br}{br}Greg, Nhà phát triển trưởng Manor Lords",
+    "offset": 460927,
+    "length": 416
+  },
+  {
+    "key": "early_access_msg_descr_xbox",
+    "en": "Manor Lords is an indie passion project, currently a Game Preview title, and even though it's been 7 years, the game still needs more time to be fully complete.{br}{br}Certain game or platform features might not work as expected, and you will probably encounter bugs or crashes. {br}{br}Feel free to drop feedback on our Discord server, and for support please contact support@hoodedhorse.com{br}{br}Thank you for understanding as I continue work on the game,{br}Greg, Manor Lords lead dev",
+    "vi": "Manor Lords là một dự án indie đầy tâm huyết, hiện đang ở dạng Game Preview, và dù đã trải qua 7 năm, trò chơi vẫn cần thêm thời gian để hoàn thiện đầy đủ.{br}{br}Một số tính năng có thể hoạt động chưa như mong đợi và bạn có thể gặp lỗi hoặc văng game.{br}{br}Hãy thoải mái gửi góp ý trên máy chủ Discord, và để được hỗ trợ xin gửi thư về support@hoodedhorse.com{br}{br}Cảm ơn bạn đã luôn thấu hiểu và đồng hành cùng tôi,{br}Greg, Nhà phát triển trưởng Manor Lords",
+    "offset": 475911,
+    "length": 489
+  },
+  {
+    "key": "coat_of_arms_saved",
+    "en": "Coat of arms saved",
+    "vi": "Đã lưu gia huy thành công",
+    "offset": 493874,
+    "length": 19
+  },
+  {
+    "key": "coat_of_arms_loaded",
+    "en": "Coat of arms loaded",
+    "vi": "Đã tải gia huy thành công",
+    "offset": 494463,
+    "length": 20
+  },
+  {
+    "key": "coat_of_arms_save_button",
+    "en": "Save coat of arms",
+    "vi": "Lưu gia huy",
+    "offset": 495071,
+    "length": 18
+  },
+  {
+    "key": "coat_of_arms_save_button_descr",
+    "en": "Press to save. Note: You will not be able to edit it further it's loaded again (Work in progress).",
+    "vi": "Nhấn để lưu. Lưu ý: Bạn sẽ không thể chỉnh sửa thêm sau khi tải lại gia huy này (Tính năng đang hoàn thiện).",
+    "offset": 495602,
+    "length": 99
+  },
+  {
+    "key": "coat_of_arms_load_button",
+    "en": "Load coat of arms",
+    "vi": "Tải gia huy",
+    "offset": 498992,
+    "length": 18
+  },
+  {
+    "key": "coat_of_arms_load_button_descr",
+    "en": "Press to load. Note: You will not be able to further edit it after loading (Work in progress).",
+    "vi": "Nhấn để tải. Lưu ý: Bạn sẽ không thể chỉnh sửa thêm sau khi đã tải gia huy (Tính năng đang hoàn thiện).",
+    "offset": 499535,
+    "length": 95
+  },
+  {
+    "key": "coat_of_arms_load_custom",
+    "en": "Load a custom texture",
+    "vi": "Tải hình ảnh gia huy tự chọn (Custom)",
+    "offset": 502791,
+    "length": 22
+  },
+  {
+    "key": "coat_of_arms_load_custom_descr",
+    "en": "Go to C:/Users/AppData/ManorLords/Saved/SavedGames and place a custom_coat.png file to have your own custom symbol in the game.",
+    "vi": "Truy cập đường dẫn C:/Users/AppData/ManorLords/Saved/SavedGames và đặt một tập tin tên custom_coat.png để sử dụng hình ảnh biểu trưng của riêng bạn trong game.",
+    "offset": 503593,
+    "length": 128
+  },
+  {
+    "key": "confirm_rename",
+    "en": "Confirm",
+    "vi": "Xác nhận",
+    "offset": 508431,
+    "length": 8
+  },
+  {
+    "key": "confirmation_yes",
+    "en": "Yes",
+    "vi": "Có",
+    "offset": 508763,
+    "length": 4
+  },
+  {
+    "key": "confirmation_no",
+    "en": "No",
+    "vi": "Không",
+    "offset": 508935,
+    "length": 3
+  },
+  {
+    "key": "census_assigned",
+    "en": "Assigned Families",
+    "vi": "Gia đình đã có việc làm",
+    "offset": 509120,
+    "length": 18
+  },
+  {
+    "key": "census_unassigned",
+    "en": "Unassigned Families",
+    "vi": "Gia đình chưa phân công (Xây dựng)",
+    "offset": 509675,
+    "length": 20
+  },
+  {
+    "key": "census_retinue",
+    "en": "Retinue",
+    "vi": "Đội cận vệ Lãnh chúa",
+    "offset": 510274,
+    "length": 8
+  },
+  {
+    "key": "census_artisans",
+    "en": "Artisan Families",
+    "vi": "Gia đình thợ thủ công",
+    "offset": 510552,
+    "length": 17
+  },
+  {
+    "key": "census_livestock",
+    "en": "Livestock",
+    "vi": "Đàn gia súc",
+    "offset": 511121,
+    "length": 10
+  },
+  {
+    "key": "saves_disabled_game_over",
+    "en": "You have been defeated.",
+    "vi": "Bạn đã bị đánh bại.",
+    "offset": 511415,
+    "length": 24
+  },
+  {
+    "key": "transaction_list",
+    "en": "Transaction list",
+    "vi": "Nhật ký Giao dịch",
+    "offset": 511945,
+    "length": 17
+  },
+  {
+    "key": "no_recent_transactions",
+    "en": "No recent transactions",
+    "vi": "Không có giao dịch nào gần đây",
+    "offset": 512447,
+    "length": 23
+  },
+  {
+    "key": "tradelog_unknown_trader",
+    "en": "Foreign trader",
+    "vi": "Thương nhân ngoại bang",
+    "offset": 513202,
+    "length": 15
+  },
+  {
+    "key": "menus_1",
+    "en": "None",
+    "vi": "Không có",
+    "offset": 513775,
+    "length": 5
+  },
+  {
+    "key": "export_price_import_price_local",
+    "en": "Export Price / There is no import cost with Regional Trade",
+    "vi": "Giá Xuất khẩu / Miễn phí nhập khi Giao thương Nội bộ",
+    "offset": 513975,
+    "length": 59
+  },
+  {
+    "key": "import_price_local",
+    "en": "There is no import cost with Regional Trade",
+    "vi": "Không tốn phí nhập khẩu khi Giao thương Nội bộ",
+    "offset": 515851,
+    "length": 44
+  },
+  {
+    "key": "export_price_local",
+    "en": "Export Price",
+    "vi": "Giá Xuất khẩu",
+    "offset": 517271,
+    "length": 13
+  },
+  {
+    "key": "gameSetting_spoilageMultiplier",
+    "en": "Food Spoilage",
+    "vi": "Tốc độ Lương thực hỏng",
+    "offset": 517734,
+    "length": 14
+  },
+  {
+    "key": "spoilage_none",
+    "en": "No spoilage",
+    "vi": "Không hỏng",
+    "offset": 518262,
+    "length": 12
+  },
+  {
+    "key": "spoilage_half",
+    "en": "50% slower",
+    "vi": "Hỏng chậm (50%)",
+    "offset": 518776,
+    "length": 11
+  },
+  {
+    "key": "spoilage_normal",
+    "en": "Standard",
+    "vi": "Mặc định (Chuẩn)",
+    "offset": 519276,
+    "length": 9
+  },
+  {
+    "key": "spoilage_double",
+    "en": "Double rate",
+    "vi": "Hỏng nhanh gấp đôi",
+    "offset": 519592,
+    "length": 12
+  },
+  {
+    "key": "gameSetting_spoilageMultiplier_0_descr",
+    "en": "Food will never spoil as long as its stored properly",
+    "vi": "Lương thực không bao giờ bị hỏng miễn là được cất gọn trong Kho thực phẩm",
+    "offset": 520100,
+    "length": 53
+  },
+  {
+    "key": "gameSetting_spoilageMultiplier_1_descr",
+    "en": "Food will spoil slowly even when stored properly",
+    "vi": "Lương thực sẽ hỏng dần dần với tốc độ chậm ngay cả khi để trong kho",
+    "offset": 521903,
+    "length": 49
+  },
+  {
+    "key": "gameSetting_spoilageMultiplier_2_descr",
+    "en": "Food will spoil at its standard rate even when stored properly",
+    "vi": "Lương thực hỏng theo tốc độ tiêu chuẩn mặc định ngay cả khi cất giữ trong kho",
+    "offset": 523828,
+    "length": 63
+  },
+  {
+    "key": "gameSetting_spoilageMultiplier_3_descr",
+    "en": "Food will spoil at a double rate even when stored properly",
+    "vi": "Lương thực hỏng nhanh gấp đôi ngay cả khi đã cất giữ trong kho",
+    "offset": 526171,
+    "length": 59
+  },
+  {
+    "key": "map_selection_menu",
+    "en": "Map Selection",
+    "vi": "Chọn Bản đồ",
+    "offset": 528552,
+    "length": 14
+  },
+  {
+    "key": "burgage_plots_occupied",
+    "en": "Occupied",
+    "vi": "Đã có người ở",
+    "offset": 529049,
+    "length": 9
+  },
+  {
+    "key": "burgage_plots_constructed",
+    "en": "Plots Constructed",
+    "vi": "Số Nhà dân đã xây",
+    "offset": 529326,
+    "length": 18
+  },
+  {
+    "key": "burgage_plots_under_construction",
+    "en": "Under Construction",
+    "vi": "Đang thi công",
+    "offset": 529894,
+    "length": 19
+  },
+  {
+    "key": "wiki_tutorials",
+    "en": "Tutorials",
+    "vi": "Hướng dẫn Tân thủ",
+    "offset": 530374,
+    "length": 10
+  },
+  {
+    "key": "preset_quality",
+    "en": "Graphics quality",
+    "vi": "Chất lượng Đồ họa",
+    "offset": 530724,
+    "length": 17
+  },
+  {
+    "key": "overwrite_save_confirmation",
+    "en": "Overwrite this Save File?",
+    "vi": "Bạn có chắc muốn ghi đè lên bản lưu game này?",
+    "offset": 531277,
+    "length": 26
+  },
+  {
+    "key": "label_records",
+    "en": "Records",
+    "vi": "Biểu đồ & Nhật ký",
+    "offset": 532291,
+    "length": 8
+  },
+  {
+    "key": "label_week",
+    "en": "Past 7 Days",
+    "vi": "7 ngày qua",
+    "offset": 532568,
+    "length": 12
+  },
+  {
+    "key": "label_month",
+    "en": "Past 30 Days",
+    "vi": "30 ngày qua",
+    "offset": 533064,
+    "length": 13
+  },
+  {
+    "key": "label_year",
+    "en": "Past 12 Months",
+    "vi": "12 tháng qua",
+    "offset": 533591,
+    "length": 15
+  },
+  {
+    "key": "Stock_list",
+    "en": "Region Stock",
+    "vi": "Tổng tồn kho trong Vùng",
+    "offset": 534211,
+    "length": 13
+  },
+  {
+    "key": "Tooltip_addToGraph",
+    "en": "Add To Graph",
+    "vi": "Thêm vào biểu đồ",
+    "offset": 534719,
+    "length": 13
+  },
+  {
+    "key": "Tooltip_removeFromGraph",
+    "en": "Remove From Graph",
+    "vi": "Bỏ khỏi biểu đồ",
+    "offset": 535328,
+    "length": 18
+  },
+  {
+    "key": "label_showProductionGraph",
+    "en": "Production",
+    "vi": "Sản lượng",
+    "offset": 535921,
+    "length": 11
+  },
+  {
+    "key": "label_showConsumptionGraph",
+    "en": "Consumption",
+    "vi": "Tiêu thụ",
+    "offset": 536253,
+    "length": 12
+  },
+  {
+    "key": "label_showBothGraphs",
+    "en": "Balance",
+    "vi": "Cân bằng Cung-Cầu",
+    "offset": 536585,
+    "length": 8
+  },
+  {
+    "key": "label_showStockGraph",
+    "en": "Stock",
+    "vi": "Tồn kho",
+    "offset": 536885,
+    "length": 6
+  },
+  {
+    "key": "label_clearFilters",
+    "en": "Clear Filters",
+    "vi": "Xóa bộ lọc",
+    "offset": 537177,
+    "length": 14
+  },
+  {
+    "key": "label_resources",
+    "en": "Resources",
+    "vi": "Tài nguyên",
+    "offset": 537618,
+    "length": 10
+  },
+  {
+    "key": "rename_save_file",
+    "en": "Rename Save File",
+    "vi": "Đổi tên bản lưu",
+    "offset": 537888,
+    "length": 17
+  },
+  {
+    "key": "options_Accessibility",
+    "en": "Accessibility",
+    "vi": "Trợ năng & Hỗ trợ",
+    "offset": 538604,
+    "length": 14
+  },
+  {
+    "key": "label_timespan_seasonal",
+    "en": "Last 30 Days",
+    "vi": "30 ngày gần nhất",
+    "offset": 539105,
+    "length": 13
+  },
+  {
+    "key": "label_timespan_yearly",
+    "en": "Last 365 Days",
+    "vi": "365 ngày gần nhất",
+    "offset": 539642,
+    "length": 14
+  },
+  {
+    "key": "ea_coming_soon",
+    "en": "Coming Soon",
+    "vi": "Sắp ra mắt",
+    "offset": 540211,
+    "length": 12
+  },
+  {
+    "key": "search",
+    "en": "Search",
+    "vi": "Tìm kiếm",
+    "offset": 540676,
+    "length": 7
+  }
+]

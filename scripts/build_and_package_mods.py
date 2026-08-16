@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import os, sys, json, zipfile, shutil, subprocess, re
 
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 GAMES_CONFIG = {
@@ -74,6 +77,24 @@ GAMES_CONFIG = {
         "dist_dir": "WorldBox/dist",
         "mod_package_dir": "WorldBox/steam_workshop_mod",
         "zip_prefix": "WorldBox-Vietnamese-Mod",
+    },
+    "Manor-Lords": {
+        "name": "Manor Lords",
+        "slug": "manor-lords",
+        "tag_prefix": "ml",
+        "dir": "Manor-Lords",
+        "version_files": [
+            {
+                "type": "json",
+                "path": "Manor-Lords/version.json",
+                "key": "version",
+                "create_if_missing": True,
+                "default_version": "1.0.0"
+            }
+        ],
+        "dist_dir": "Manor-Lords/dist",
+        "mod_package_dir": "Manor-Lords/dist",
+        "zip_prefix": "Manor-Lords-Vietnamese-Mod",
     }
 }
 
@@ -153,6 +174,49 @@ def build_game_mod(game_key, auto_bump=False, bump_type="patch"):
             print("[✓] Đã biên dịch strings.mo cho Oxygen Not Included")
         except Exception as e:
             print("[!] Cảnh báo biên dịch MO: " + str(e))
+
+    if game_key == "Manor-Lords":
+        ml_dir = os.path.join(BASE_DIR, "Manor-Lords")
+        dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
+        os.makedirs(dist_dir, exist_ok=True)
+        pak_path = os.path.join(dist_dir, "pakchunk99-Vietnamese_P.pak")
+        
+        converter_proj = os.path.join(ml_dir, "tools", "DataTableConverter", "DataTableConverter.csproj")
+        if os.path.exists(converter_proj) and shutil.which("dotnet"):
+            try:
+                subprocess.run(["dotnet", "run", "--project", converter_proj], cwd=ml_dir, check=True)
+                subprocess.run([sys.executable, os.path.join(ml_dir, "build_and_deploy_mod.py")], cwd=ml_dir, check=True)
+                print("[✓] Đã recompile và build pak cho Manor Lords")
+            except Exception as e:
+                print(f"[!] Cảnh báo build PAK: {e}")
+        
+        zip_name = cfg["zip_prefix"] + "-v" + target_ver + ".zip"
+        zip_path = os.path.join(dist_dir, zip_name)
+        if os.path.exists(zip_path): os.remove(zip_path)
+        
+        readme_path = os.path.join(dist_dir, "Huong_Dan_Cai_Dat.txt")
+        banner_path = os.path.join(ml_dir, "banner.jpg")
+        
+        print(f"[*] Đóng gói Manor Lords Mod ZIP vào {zip_path}...")
+        with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
+            if os.path.exists(pak_path):
+                zipf.write(pak_path, "pakchunk99-Vietnamese_P.pak")
+                zipf.write(pak_path, "ManorLords/Content/Paks/~mods/pakchunk99-Vietnamese_P.pak")
+            if os.path.exists(banner_path):
+                zipf.write(banner_path, "preview_banner.jpg")
+            if os.path.exists(readme_path):
+                zipf.write(readme_path, "Huong_Dan_Cai_Dat.txt")
+                
+        zip_size_mb = os.path.getsize(zip_path) / (1024 * 1024)
+        print(f"[✓] Đã tạo thành công: {zip_name} ({zip_size_mb:.2f} MB)")
+        return {
+            "game_key": game_key,
+            "name": cfg["name"],
+            "version": target_ver,
+            "zip_name": zip_name,
+            "zip_path": zip_path,
+            "tag": cfg["tag_prefix"] + "-v" + target_ver
+        }
 
     dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
     os.makedirs(dist_dir, exist_ok=True)

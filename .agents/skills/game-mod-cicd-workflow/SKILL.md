@@ -19,6 +19,7 @@ Repository quản lý nhiều tựa game độc lập. Mỗi game có thư mục
 | **Timberborn** | `Timberborn/Mods/VietnameseLanguage` | `Timberborn/dist` | `tb-v*` | `manifest.json` |
 | **Against The Storm** | `Against-The-Storm/ATS_Vietnamese` | `Against-The-Storm/dist` | `ats-v*` | `version.json` |
 | **WorldBox** | `WorldBox/steam_workshop_mod` | `WorldBox/dist` | `wb-v*` | `mod.json` |
+| **Manor Lords** | `Manor-Lords/dist` | `Manor-Lords/dist` | `ml-v*` | `version.json` |
 
 ---
 

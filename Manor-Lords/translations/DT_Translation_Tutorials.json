@@ -1,0 +1,821 @@
+[
+  {
+    "key": "controls_move",
+    "en": "Move",
+    "vi": "Di chuyển",
+    "offset": 24,
+    "length": 5
+  },
+  {
+    "key": "controls_rotate",
+    "en": "Rotate",
+    "vi": "Xoay",
+    "offset": 329,
+    "length": 7
+  },
+  {
+    "key": "controls_zoom",
+    "en": "Zoom",
+    "vi": "Thu phóng",
+    "offset": 600,
+    "length": 5
+  },
+  {
+    "key": "controls_place_building",
+    "en": "Place",
+    "vi": "Đặt vị trí",
+    "offset": 922,
+    "length": 6
+  },
+  {
+    "key": "controls_hold_to_rotate",
+    "en": "Rotate",
+    "vi": "Xoay hướng",
+    "offset": 1244,
+    "length": 7
+  },
+  {
+    "key": "controls_cancel",
+    "en": "Cancel",
+    "vi": "Hủy bỏ",
+    "offset": 1515,
+    "length": 7
+  },
+  {
+    "key": "controls_show_labels",
+    "en": "Show Labels",
+    "vi": "Hiện nhãn tên",
+    "offset": 1802,
+    "length": 12
+  },
+  {
+    "key": "controls_adjust_curvature",
+    "en": "Adjust Curvature",
+    "vi": "Chỉnh độ cong",
+    "offset": 2323,
+    "length": 17
+  },
+  {
+    "key": "controls_place_roadpoint",
+    "en": "Place Road Point",
+    "vi": "Đặt điểm nối đường",
+    "offset": 2865,
+    "length": 17
+  },
+  {
+    "key": "controls_extension_slot",
+    "en": "Extension Slot",
+    "vi": "Ô Tiện ích sân sau",
+    "offset": 3539,
+    "length": 15
+  },
+  {
+    "key": "controls_remove_road",
+    "en": "Remove Road",
+    "vi": "Xóa đường đi",
+    "offset": 4073,
+    "length": 12
+  },
+  {
+    "key": "controls_town_centers",
+    "en": "Town Centers",
+    "vi": "Trung tâm thị trấn",
+    "offset": 4523,
+    "length": 13
+  },
+  {
+    "key": "controls_set_work_area",
+    "en": "Set Work Area",
+    "vi": "Đặt phạm vi làm việc",
+    "offset": 4975,
+    "length": 14
+  },
+  {
+    "key": "controls_adjust_size",
+    "en": "Adjust Size",
+    "vi": "Chỉnh kích thước",
+    "offset": 5691,
+    "length": 12
+  },
+  {
+    "key": "confirm_button",
+    "en": "Skip all future Tutorials",
+    "vi": "Bỏ qua toàn bộ hướng dẫn sau này",
+    "offset": 6283,
+    "length": 26
+  },
+  {
+    "key": "tutorials_11776",
+    "en": "Passer tous les didacticiels suivants.",
+    "vi": "Bỏ qua toàn bộ hướng dẫn sau này",
+    "offset": 6569,
+    "length": 39
+  },
+  {
+    "key": "tutorial_tradingPost_descr",
+    "en": "Got it",
+    "vi": "Đã hiểu",
+    "offset": 7247,
+    "length": 7
+  },
+  {
+    "key": "PLACE_AREA_POINT",
+    "en": "Place Plot Point",
+    "vi": "Đặt mốc ranh giới thửa đất",
+    "offset": 7564,
+    "length": 17
+  },
+  {
+    "key": "house_position",
+    "en": "House Location",
+    "vi": "Vị trí nhà ở",
+    "offset": 8235,
+    "length": 15
+  },
+  {
+    "key": "tutorials_1",
+    "en": "House Location",
+    "vi": "Vị trí nhà ở",
+    "offset": 8691,
+    "length": 15
+  },
+  {
+    "key": "road_connection_point",
+    "en": "Road Connection Point",
+    "vi": "Điểm nối ra đường",
+    "offset": 9147,
+    "length": 22
+  },
+  {
+    "key": "tutorial_beginnings",
+    "en": "Getting Started",
+    "vi": "Khởi đầu định cư",
+    "offset": 9859,
+    "length": 16
+  },
+  {
+    "key": "tutorial_beginnings_descr",
+    "en": "<img id=\"Worker\"/><h>Families</> require <img id=\"Supplies\"/><h>Supplies</> and <img id=\"LivingSpace\"/><h>Living Space</>.",
+    "vi": "<img id=\"Worker\"/><h>Gia đình</> cần có <img id=\"Supplies\"/><h>Nhu yếu phẩm</> và <img id=\"LivingSpace\"/><h>Chỗ ở</>.",
+    "offset": 10291,
+    "length": 123
+  },
+  {
+    "key": "tutorial_beginnings_tss_supplies",
+    "en": "<h>Supplies</> consist of <img id=\"Food\"/><h>Food</> and <img id=\"Fuel\"/><h>Fuel</> and can be monitored in the Region Panel at the top of the UI.",
+    "vi": "<h>Nhu yếu phẩm</> bao gồm <img id=\"Food\"/><h>Lương thực</> và <img id=\"Fuel\"/><h>Chất đốt</>, có thể theo dõi ở Bảng thông tin Vùng trên đầu giao diện.",
+    "offset": 14398,
+    "length": 147
+  },
+  {
+    "key": "tutorial_beginnings_tss_livingspace",
+    "en": "<h>Living Space</> is primarily increased by building or expanding <img id=\"house\"/><h>Burgage Plots</>.",
+    "vi": "<h>Chỗ ở</> chủ yếu tăng lên bằng cách xây mới hoặc mở rộng các <img id=\"house\"/><h>Nhà dân</>.",
+    "offset": 19439,
+    "length": 105
+  },
+  {
+    "key": "tutorial_beginnings_tss_spoilage",
+    "en": "<img id=\"Food\"/><h>Food</> will <r>spoil</> rapidly if not stored in a <img id=\"Pantry\"/><h>Granary</>. Similarly, exposed goods may take <r>weather damage</> if not stored in a <img id=\"GenericStorage\"/> <h>Storehouse</>.",
+    "vi": "<img id=\"Food\"/><h>Lương thực</> sẽ bị <r>thối rữa</> nhanh chóng nếu không được cất giữ trong <img id=\"Pantry\"/><h>Kho lương thực</>. Tương tự, hàng hóa lộ thiên có thể bị <r>hư hại do thời tiết</> nếu không lưu trữ trong <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
+    "offset": 23060,
+    "length": 223
+  },
+  {
+    "key": "tutorials_11776",
+    "en": "Placing Buildings",
+    "vi": "Đặt công trình xây dựng",
+    "offset": 31323,
+    "length": 18
+  },
+  {
+    "key": "tutorial_buildings_descr",
+    "en": "When considering what to build, you can check all of your Region's <img id=\"Animals\"/><h>Resource Deposits</> and investigate the <h>Soil Fertility</> using the <h>Overlays</> on the right side of the screen.{br}{br}To start, construct a <h>Logging Camp</> to ensure the production of <img id=\"ItemID_16\"/> <h>Timber</>.",
+    "vi": "Khi cân nhắc xây dựng, bạn có thể kiểm tra toàn bộ các <img id=\"Animals\"/><h>Mỏ tài nguyên</> trong Vùng và xem <h>Độ màu mỡ của đất</> bằng các lớp phủ <h>Overlays</> ở cạnh phải màn hình.{br}{br}Để bắt đầu, hãy dựng một <h>Trại đốn gỗ</> để đảm bảo việc sản xuất <img id=\"ItemID_16\"/> <h>Gỗ khúc</>.",
+    "offset": 31994,
+    "length": 321
+  },
+  {
+    "key": "tutorial_roads",
+    "en": "Roads & Carts",
+    "vi": "Đường sá & Xe kéo",
+    "offset": 42790,
+    "length": 14
+  },
+  {
+    "key": "tutorial_roads_descr",
+    "en": "Some Workplaces allow Workers to use <h>Handcarts</> to transport up to ten goods at once. {br}{br}However, pulling a handcart off-road is extremely slow, so make sure to connect your buildings to <h>Roads</>.",
+    "vi": "Một số nơi làm việc cho phép nhân công dùng <h>Xe kéo tay</> để chở tối đa mười món hàng cùng lúc.{br}{br}Tuy nhiên, kéo xe ngoài bãi đất trống cực kỳ chậm chạp, vì vậy hãy luôn kết nối công trình của bạn với mạng lưới <h>Đường sá</>.",
+    "offset": 43312,
+    "length": 210
+  },
+  {
+    "key": "tutorial_fieldPlacing",
+    "en": "Flexible Plots",
+    "vi": "Thửa đất tùy biến",
+    "offset": 51213,
+    "length": 15
+  },
+  {
+    "key": "tutorial_fieldPlacing_descr",
+    "en": "Some Buildings have <img id=\"Area\"/><h>Flexible Borders.</>{br}Place four <h>Plot Points</> to designate an area.{br}{br}1. The cursor will snap to Roads and Buildings helping create an organic shape.{br}2. Increasing the area allows for a <img id=\"Extension\"/><h>Backyard Extension</>. {br}3. The first two <h>Plot Points</> indicate the facing direction of the Building.",
+    "vi": "Một số công trình có <img id=\"Area\"/><h>Ranh giới linh hoạt.</>{br}Đặt 4 <h>Điểm mốc</> để khoanh vùng diện tích.{br}{br}1. Con trỏ sẽ tự hít vào Đường sá và Công trình giúp tạo hình tự nhiên.{br}2. Tăng diện tích đất sẽ tạo thêm không gian cho <img id=\"Extension\"/><h>Tiện ích sân sau</>.{br}3. Hai <h>Điểm mốc</> đầu tiên sẽ xác định hướng mặt tiền của Công trình.",
+    "offset": 51745,
+    "length": 373
+  },
+  {
+    "key": "tutorial_construction",
+    "en": "Construction",
+    "vi": "Xây dựng",
+    "offset": 65504,
+    "length": 13
+  },
+  {
+    "key": "tutorial_construction_descr",
+    "en": "When placing a new Building, the required Construction Materials need to be physically brought to the Construction Site.",
+    "vi": "Khi đặt một công trình mới, vật liệu xây dựng cần thiết phải được chuyển trực tiếp đến công trường.",
+    "offset": 65873,
+    "length": 121
+  },
+  {
+    "key": "tutorial_construction_tss_unassigned_families",
+    "en": "<h>Unassigned Families</> will perform Construction Tasks until the Building is fully constructed.",
+    "vi": "<h>Gia đình chưa phân công</> sẽ đảm nhiệm thi công cho đến khi công trình hoàn tất.",
+    "offset": 69230,
+    "length": 99
+  },
+  {
+    "key": "tutorial_construction_tss_oxen",
+    "en": "<h>Oxen</> are necessary to haul heavy materials such as <img id=\"ItemID_16\"/><h>Timber</>.",
+    "vi": "<h>Bò kéo</> là bắt buộc để kéo các vật liệu nặng như <img id=\"ItemID_16\"/><h>Gỗ khúc</>.",
+    "offset": 72407,
+    "length": 92
+  },
+  {
+    "key": "tutorial_construction_tss_order_oxen",
+    "en": "You can purchase more <img id=\"ox\"/><h>Oxen</> directly from the <h>Hitching Post</> with <img id=\"ItemID_0\"/><h>Regional Wealth</> to speed up logistics.",
+    "vi": "Bạn có thể mua thêm <img id=\"ox\"/><h>Bò kéo</> trực tiếp từ <h>Cọc buộc gia súc</> bằng <img id=\"ItemID_0\"/><h>Tài sản vùng</> để đẩy nhanh tiến độ vận chuyển.",
+    "offset": 75751,
+    "length": 155
+  },
+  {
+    "key": "tutorial_construction_workers",
+    "en": "Unassigned Families",
+    "vi": "Gia đình chưa phân công việc",
+    "offset": 81301,
+    "length": 20
+  },
+  {
+    "key": "tutorial_construction_workers_descr",
+    "en": "<img id=\"Builders\"/> Unassigned Families work on construction automatically.",
+    "vi": "<img id=\"Builders\"/> Các gia đình chưa phân công việc sẽ tự động tham gia xây dựng.",
+    "offset": 81900,
+    "length": 77
+  },
+  {
+    "key": "tutorial_timber",
+    "en": "Blocking Construction",
+    "vi": "Cạn kiệt gỗ xây dựng",
+    "offset": 84753,
+    "length": 22
+  },
+  {
+    "key": "tutorial_timber_descr",
+    "en": "Make sure you have a <h>Logging Camp</> constructed before placing more buildings, otherwise, you may block yourself permanently.",
+    "vi": "Hãy chắc chắn bạn đã xây xong một <h>Trại đốn gỗ</> trước khi đặt thêm nhiều công trình khác, nếu không bạn có thể bị kẹt và không thể tiếp tục xây dựng.",
+    "offset": 85324,
+    "length": 130
+  },
+  {
+    "key": "DEPRECATED_tutorial_ox_transport",
+    "en": "Timber Transport",
+    "vi": "Vận chuyển gỗ khúc",
+    "offset": 89664,
+    "length": 17
+  },
+  {
+    "key": "DEPRECATED_tutorial_ox_transport_descr",
+    "en": "<img id=\"ox\"/> <h>OXEN</> require either an <img id=\"Builders\"/> <h>UNASSIGNED FAMILY</> to guide them, or a <h>FAMILY</> that is <img id=\"Assigned\"/> <h>ASSIGNED</> to their <h>HITCHING POST</> or <h>STABLE</>.{br}{br}You can purchase more <img id=\"ox\"/> <h>OXEN</> directly from the <h>HITCHING POST</> or <h>STABLE</> with <img id=\"ItemID_0\"/> <h>REGIONAL WEALTH</> to speed up logistics.",
+    "vi": "<img id=\"ox\"/> <h>BÒ KÉO</> cần có một <img id=\"Builders\"/> <h>GIA ĐÌNH CHƯA PHÂN CÔNG</> để dắt đi, hoặc một <h>GIA ĐÌNH</> được <img id=\"Assigned\"/> <h>PHÂN CÔNG</> làm việc tại <h>CỌC BUỘC GIA SÚC</> hoặc <h>CHUỒNG GIA SÚC</>.{br}{br}Bạn có thể mua thêm <img id=\"ox\"/> <h>BÒ KÉO</> trực tiếp tại <h>CỌC BUỘC GIA SÚC</> hoặc <h>CHUỒNG GIA SÚC</> bằng <img id=\"ItemID_0\"/> <h>TÀI SẢN VÙNG</> để tăng tốc hậu cần.",
+    "offset": 90184,
+    "length": 392
+  },
+  {
+    "key": "tutorial_no_labour",
+    "en": "Workforce",
+    "vi": "Lực lượng lao động",
+    "offset": 104050,
+    "length": 10
+  },
+  {
+    "key": "tutorial_no_labour_descr",
+    "en": "For a Building to start production, you must assign a <img id=\"Worker\"/><h>Family</> to it. Once assigned, <img id=\"Worker\"/><h>Families</> perform work related tasks and fetch any required crafting materials.",
+    "vi": "Để công trình bắt đầu sản xuất, bạn phải phân công một <img id=\"Worker\"/><h>Gia đình</> vào đó. Sau khi phân công, các <img id=\"Worker\"/><h>Gia đình</> sẽ làm việc và đi gom nguyên liệu chế tác cần thiết.",
+    "offset": 104443,
+    "length": 210
+  },
+  {
+    "key": "tutorial_livestock_workforce",
+    "en": "Livestock Workforce",
+    "vi": "Sức kéo gia súc",
+    "offset": 111994,
+    "length": 20
+  },
+  {
+    "key": "tutorial_livestock_workforce_descr",
+    "en": "While human workforce must be assigned manually, livestock workforce is shared between workplaces. {br}{br}You can assign livestock to a specific workplace permanently in the <h>Advanced</> tab of the building. This can help speed up production but will prevent the livestock from doing other jobs, including construction.",
+    "vi": "Trong khi lao động con người phải phân công thủ công, sức kéo gia súc lại được chia sẻ chung giữa các công trình.{br}{br}Bạn có thể chỉ định cố định một con gia súc vào một công trình cụ thể trong tab <h>Nâng cao</> của công trình đó. Việc này giúp tăng tốc sản xuất nhưng gia súc sẽ không làm các việc khác (kể cả kéo gỗ xây dựng).",
+    "offset": 112564,
+    "length": 323
+  },
+  {
+    "key": "tutorial_animal_space",
+    "en": "Livestock Accomodation",
+    "vi": "Chuồng trại cho gia súc",
+    "offset": 123528,
+    "length": 23
+  },
+  {
+    "key": "tutorial_animal_space_descr",
+    "en": "Your <h>Livestock</> needs accomodation or might run away. Ensure you have enough <img id=\"stable\"/><h>Stable Space</> and <img id=\"WoodenFence\"/><h>Pasture Space</> needed for your animals.",
+    "vi": "<h>Gia súc</> của bạn cần có chuồng trại che chở, nếu không chúng có thể bỏ chạy mất. Hãy đảm bảo bạn có đủ <img id=\"stable\"/><h>Sức chứa chuồng</> và <img id=\"WoodenFence\"/><h>Đồng cỏ</> cho đàn vật nuôi.",
+    "offset": 124186,
+    "length": 191
+  },
+  {
+    "key": "tutorial_gameSpeed",
+    "en": "Seasons & Game Speed",
+    "vi": "Bốn mùa & Tốc độ trò chơi",
+    "offset": 130773,
+    "length": 21
+  },
+  {
+    "key": "tutorial_gameSpeed_descr",
+    "en": "<h>Seasons</> can affect the availability of <img id=\"Animals\"/><h>Resource Deposits</> around your Settlement and the jobs your Residents can perform.{br}{br}You can view the current <h>Season</> and its effects, as well as adjust the <h>Game Speed</> in the bottom right of the screen.",
+    "vi": "<h>Bốn mùa</> ảnh hưởng đến sự sẵn có của các <img id=\"Animals\"/><h>Mỏ tài nguyên</> quanh khu định cư và công việc mà dân làng có thể làm.{br}{br}Bạn có thể xem <h>Mùa</> hiện tại và tác động của nó, cũng như chỉnh <h>Tốc độ trò chơi</> ở góc dưới bên phải màn hình.",
+    "offset": 131643,
+    "length": 288
+  },
+  {
+    "key": "DEPRECATED_tutorial_Growth",
+    "en": "Growth",
+    "vi": "Tăng trưởng dân số",
+    "offset": 141230,
+    "length": 7
+  },
+  {
+    "key": "DEPRECATED_tutorial_Growth_descr",
+    "en": "To attract new <img id=\"Worker\"/><h>Families</> to your settlement, you need to provide additional <img id=\"LivingSpace\"/><h>Living Space</> and reach at least 55% <img id=\"Approval\"/><h>Approval</>.",
+    "vi": "Để thu hút thêm các <img id=\"Worker\"/><h>Gia đình</> mới đến định cư, bạn cần mở rộng <img id=\"LivingSpace\"/><h>Chỗ ở</> và duy trì mức <img id=\"Approval\"/><h>Lòng dân</> từ 55% trở lên.",
+    "offset": 141534,
+    "length": 200
+  },
+  {
+    "key": "tutorial_animals",
+    "en": "Ecosystem",
+    "vi": "Hệ sinh thái tự nhiên",
+    "offset": 148327,
+    "length": 10
+  },
+  {
+    "key": "tutorial_animals_descr",
+    "en": "When your workers enter the forest, they might scare the <img id=\"animals\"/> <h>WILD ANIMALS</> away and destroy <img id=\"Berries\"/> <h>BERRY DEPOSITS</>. Consider it when placing the logging camps.",
+    "vi": "Khi dân làng đi vào rừng đốn gỗ, họ có thể làm kinh động khiến <img id=\"animals\"/> <h>THÚ HOANG</> bỏ chạy và phá hủy các <img id=\"Berries\"/> <h>BỤI QUẢ MỌNG</>. Hãy cân nhắc kỹ khi đặt vị trí các trại đốn gỗ.",
+    "offset": 148686,
+    "length": 199
+  },
+  {
+    "key": "tutorial_sustainability",
+    "en": "Sustainability",
+    "vi": "Phát triển bền vững",
+    "offset": 155540,
+    "length": 15
+  },
+  {
+    "key": "tutorial_sustainability_descr",
+    "en": "Berries and hunting are good for a starting village, but eventually you'll need a more stable source of <img id=\"Food\"/> <h>FOOD</>. Consider <h>FARMING</> or setting up a <h>TRADE ROUTE</>.",
+    "vi": "Hái quả mọng và săn thú chỉ đủ cho một ngôi làng ban đầu, về lâu dài bạn cần nguồn <img id=\"Food\"/> <h>LƯƠNG THỰC</> ổn định hơn. Hãy tính đến việc <h>LÀM NÔNG</> hoặc thiết lập <h>TUYẾN GIAO THƯƠNG</>.",
+    "offset": 156047,
+    "length": 191
+  },
+  {
+    "key": "tutorial_seasonal",
+    "en": "Seasonal Resources",
+    "vi": "Tài nguyên theo mùa",
+    "offset": 163360,
+    "length": 19
+  },
+  {
+    "key": "tutorial_seasonal_descr",
+    "en": "Some resources disappear when it's getting cold and reappear again in the spring.",
+    "vi": "Một số tài nguyên sẽ biến mất khi thời tiết trở lạnh vào mùa đông và chỉ xuất hiện trở lại vào mùa xuân.",
+    "offset": 163953,
+    "length": 82
+  },
+  {
+    "key": "tutorial_pops",
+    "en": "Burgage Plots",
+    "vi": "Nhà dân",
+    "offset": 166604,
+    "length": 14
+  },
+  {
+    "key": "tutorial_pops_descr",
+    "en": "<img id=\"Home\"/><h>Homeless</> people move into available <img id=\"house\"/><h>Burgage Plots</> immediately.",
+    "vi": "Người <img id=\"Home\"/><h>Vô gia cư</> sẽ dọn vào các <img id=\"house\"/><h>Nhà dân</> còn trống ngay lập tức.",
+    "offset": 167008,
+    "length": 108
+  },
+  {
+    "key": "tutorial_pops_tss_requirements",
+    "en": "<h>Residential Requirements</> increase <img id=\"Approval\"/><h>Approval</> when fulfilled.",
+    "vi": "Đáp ứng các <h>Nhu cầu nhà ở</> sẽ giúp tăng <img id=\"Approval\"/><h>Lòng dân</>.",
+    "offset": 170801,
+    "length": 91
+  },
+  {
+    "key": "tutorial_pops_tss_growth",
+    "en": "New <h>Families</> join your settlement when <img id=\"Approval\"/><h>Approval</> is over 55% and there is available <img id=\"LivingSpace\"/><h>Living Space</>.",
+    "vi": "Các <h>Gia đình</> mới sẽ gia nhập làng khi <img id=\"Approval\"/><h>Lòng dân</> đạt trên 55% và có sẵn <img id=\"LivingSpace\"/><h>Chỗ ở</> trống.",
+    "offset": 173805,
+    "length": 158
+  },
+  {
+    "key": "tutorial_pops_tss_market",
+    "en": "A <h>Marketplace</> is necessary to provide variety to the <img id=\"house\"/><h>Burgage Plots</>.",
+    "vi": "<h>Khu chợ</> là bắt buộc để cung cấp nhiều loại mặt hàng đa dạng cho các <img id=\"house\"/><h>Nhà dân</>.",
+    "offset": 179642,
+    "length": 97
+  },
+  {
+    "key": "tutorial_market",
+    "en": "Supply & Demand",
+    "vi": "Cung & Cầu thị trường",
+    "offset": 182993,
+    "length": 16
+  },
+  {
+    "key": "tutorial_market_descr",
+    "en": "A well-supplied Marketplace is the lifeblood of your Settlement.{br}{br}1. Place the <img id=\"Area\"/><h>Flexible Plot</> of the <h>Marketplace</>.{br}2. <img id=\"Pantry\"/><h>Granary</> and <img id=\"GenericStorage\"/><h>Storehouse</> Workers will set up <img id=\"Stall\"/><h>Market Stalls</> automatically.{br}3. Select the <h>Marketplace</> to check your <h>Supply & Demand</> and <h>Supply Capacity</>.{br}4. <img id=\"house\"/><h>Burgage Plots</> closest to the <h>Marketplace</> get their <img id=\"Requirements\"/><h>Residential Requirements</> fulfilled first.{br}{br}You can prohibit goods from being supplied to the <h>Marketplace</> in the <h>Advanced</> tab.{br}Increase your <h>Supply Capacity</> by assigning more <img id=\"Worker\"/><h>Families</> to a <img id=\"Pantry\"/><h>Granary</> or <img id=\"GenericStorage\"/><h>Storehouse</>.",
+    "vi": "Một Khu chợ được cung ứng đầy đủ là mạch sống cho Khu định cư của bạn.{br}{br}1. Khoanh vùng <img id=\"Area\"/><h>Thửa đất linh hoạt</> để dựng <h>Khu chợ</>.{br}2. Người làm việc tại <img id=\"Pantry\"/><h>Kho lương thực</> và <img id=\"GenericStorage\"/><h>Kho vật tư</> sẽ tự động mở các <img id=\"Stall\"/><h>Sạp hàng</>.{br}3. Chọn <h>Khu chợ</> để theo dõi <h>Cung & Cầu</> và <h>Năng lực cung ứng</>.{br}4. Những <img id=\"house\"/><h>Nhà dân</> ở gần <h>Khu chợ</> nhất sẽ được đáp ứng <img id=\"Requirements\"/><h>Nhu cầu nhà ở</> trước.{br}{br}Bạn có thể cấm một số mặt hàng đưa ra <h>Khu chợ</> trong tab <h>Nâng cao</>.{br}Tăng <h>Năng lực cung ứng</> bằng cách phân công thêm <img id=\"Worker\"/><h>Gia đình</> vào <img id=\"Pantry\"/><h>Kho lương thực</> hoặc <img id=\"GenericStorage\"/><h>Kho vật tư</>.",
+    "offset": 183544,
+    "length": 836
+  },
+  {
+    "key": "tutorial_earlyFood",
+    "en": "Low on Food?",
+    "vi": "Thiếu thốn Lương thực?",
+    "offset": 211583,
+    "length": 13
+  },
+  {
+    "key": "tutorial_earlyFood_descr",
+    "en": "Try building a <h>Hunting Camp</> near <img id=\"Animals\"/><h>Wild Animals</>, a <h>Fishing Hut</> near a <img id=\"FishDeposit\"/><h>Shoal of Fish</> or a <h>Forager Hut</> near <img id=\"Berries\"/><h>Wild Berries</> or <img id=\"MushroomDeposit\"/><h>Mushrooms</>. {br}{br}Ensure you have a <img id=\"Worker\"/><h>Family</> assigned to a <img id=\"Pantry\"/><h>Granary</> to transport, store and distribute the Food.",
+    "vi": "Hãy thử dựng một <h>Trại săn bắn</> gần bầy <img id=\"Animals\"/><h>Thú hoang</>, một <h>Chòi câu cá</> gần <img id=\"FishDeposit\"/><h>Đàn cá</> hoặc một <h>Chòi hái lượm</> gần bụi <img id=\"Berries\"/><h>Quả mọng</> hoặc bãi <img id=\"MushroomDeposit\"/><h>Nấm rừng</>.{br}{br}Hãy đảm bảo đã phân công một <img id=\"Worker\"/><h>Gia đình</> vào <img id=\"Pantry\"/><h>Kho lương thực</> để vận chuyển, lưu trữ và phân phối đồ ăn.",
+    "offset": 212139,
+    "length": 409
+  },
+  {
+    "key": "tutorial_disease",
+    "en": "Disease",
+    "vi": "Bệnh tật & Ốm đau",
+    "offset": 226804,
+    "length": 8
+  },
+  {
+    "key": "tutorial_disease_descr",
+    "en": "People suffering from disease may stop working. Access to <img id=\"ItemID_18\"/><h>Herbs</> may help speed up their recovery, while a varied diet increases disease resistance.",
+    "vi": "Người dân bị đau ốm sẽ ngừng làm việc. Được dùng <img id=\"ItemID_18\"/><h>Thảo dược</> sẽ giúp hồi phục nhanh hơn, trong khi chế độ ăn uống đa dạng sẽ tăng sức đề kháng chống lại bệnh tật.",
+    "offset": 227080,
+    "length": 175
+  },
+  {
+    "key": "tutorial_fuel",
+    "en": "Fuel Reserves",
+    "vi": "Dự trữ Chất đốt",
+    "offset": 233518,
+    "length": 14
+  },
+  {
+    "key": "tutorial_fuel_descr",
+    "en": "Lack of fuel doesn't have immediate consequences until the Winter hits, then it might cause people to freeze. It's wise to store reserves for the winter.",
+    "vi": "Thiếu chất đốt sẽ chưa gây hậu quả ngay cho đến khi Mùa đông tràn về, lúc đó người dân có thể bị chết cóng. Bạn nên tích trữ sẵn củi sưởi cho mùa đông.",
+    "offset": 234073,
+    "length": 154
+  },
+  {
+    "key": "tutorial_development",
+    "en": "Specializing Regions",
+    "vi": "Chuyên môn hóa Vùng đất",
+    "offset": 239230,
+    "length": 21
+  },
+  {
+    "key": "tutorial_development_descr",
+    "en": "Here you can view detailed information about this <h>Region</>.",
+    "vi": "Tại đây bạn có thể xem thông tin chi tiết về <h>Vùng đất</> này.",
+    "offset": 239888,
+    "length": 64
+  },
+  {
+    "key": "tutorial_development_tss_perks",
+    "en": "With each <h>Settlement Level</> reached, you will be granted a <h>Development Point</> to spend on a permanent upgrade to your <h>Region</>.",
+    "vi": "Mỗi khi đạt thêm một <h>Cấp độ Định cư</>, bạn sẽ được cấp một <h>Điểm Phát triển</> để mở khóa nâng cấp vĩnh viễn cho <h>Vùng đất</>.",
+    "offset": 241783,
+    "length": 142
+  },
+  {
+    "key": "tutorial_development_tss_environment",
+    "en": "The <h>Environment</> tab gives you a breakdown of this Region's environmental strengths and how <h>Affinities</> affect your buildings.",
+    "vi": "Tab <h>Môi trường</> cung cấp chi tiết thế mạnh sinh thái của Vùng và cách các <h>Đặc tính</> tác động lên công trình của bạn.",
+    "offset": 246410,
+    "length": 137
+  },
+  {
+    "key": "tutorial_development_tss_records",
+    "en": "The <h>Records</> tab details your <h>Trade History</> as well as the <h>Production</> and <h>Consumption</> of all goods in your Region.",
+    "vi": "Tab <h>Hồ sơ</> ghi lại chi tiết <h>Lịch sử Giao thương</> cũng như mức <h>Sản xuất</> và <h>Tiêu thụ</> của toàn bộ hàng hóa trong Vùng.",
+    "offset": 251005,
+    "length": 138
+  },
+  {
+    "key": "tutorial_regionView",
+    "en": "Region View",
+    "vi": "Góc nhìn Tổng quan Vùng",
+    "offset": 255221,
+    "length": 12
+  },
+  {
+    "key": "DEPRECATED_tutorial_region_strengths",
+    "en": "Region Strengths",
+    "vi": "Thế mạnh của Vùng",
+    "offset": 263375,
+    "length": 17
+  },
+  {
+    "key": "DEPRECATED_tutorial_region_strengths_descr",
+    "en": "Be sure to check all the <h>RESOURCE DEPOSITS</> as well as investigate the <h>SOIL FERTILITY</> before deciding on the direction of your town. If your Region has weak <h>FERTILITY</>, consider setting up <h>TRADE</> early.",
+    "vi": "Hãy kiểm tra kỹ mọi <h>MỎ TÀI NGUYÊN</> cũng như <h>ĐỘ MÀU MỠ CỦA ĐẤT</> trước khi quyết định hướng phát triển của thị trấn. Nếu Vùng có <h>ĐỘ MÀU MỠ</> kém, hãy tính đến việc thiết lập <h>GIAO THƯƠNG</> từ sớm.",
+    "offset": 264064,
+    "length": 224
+  },
+  {
+    "key": "tutorial_region_cycle",
+    "en": "Multi-Region Management",
+    "vi": "Quản lý nhiều Vùng đất",
+    "offset": 271987,
+    "length": 24
+  },
+  {
+    "key": "tutorial_region_cycle_descr",
+    "en": "You can quickly cycle between your commanded Regions by pressing \"T\".",
+    "vi": "Bạn có thể chuyển đổi nhanh giữa các Vùng đất dưới quyền bằng cách nhấn phím \"T\".",
+    "offset": 272772,
+    "length": 70
+  },
+  {
+    "key": "tutorial_production_balance",
+    "en": "Advanced Production",
+    "vi": "Sản xuất Nâng cao",
+    "offset": 275209,
+    "length": 20
+  },
+  {
+    "key": "tutorial_production_balance_descr",
+    "en": "Gain greater control over your Production by selecting the <h>Advanced</> tab of a Production Building or Artisan's Workshop.",
+    "vi": "Kiểm soát quy trình Sản xuất chặt chẽ hơn bằng cách chọn tab <h>Nâng cao</> trong Công trình Sản xuất hoặc Xưởng Thủ công.",
+    "offset": 275821,
+    "length": 126
+  },
+  {
+    "key": "tutorial_production_balance_tss_reserve",
+    "en": "<h>Reserve</>: Workers will not work until you have <h>more</> of the resource in surplus in the Region.",
+    "vi": "<h>Dự trữ tối thiểu</>: Thợ sẽ không làm việc cho đến khi Vùng có <h>nhiều hơn</> lượng thặng dư tài nguyên này.",
+    "offset": 279828,
+    "length": 105
+  },
+  {
+    "key": "tutorial_production_balance_tss_production_limit",
+    "en": "<h>Production Limit</>: Workers will only work if you have <h>less</> of that resource in surplus in the Region.",
+    "vi": "<h>Hạn mức sản xuất</>: Thợ chỉ làm việc nếu lượng thặng dư của tài nguyên này trong Vùng còn <h>ít hơn</> mức quy định.",
+    "offset": 283605,
+    "length": 113
+  },
+  {
+    "key": "tutorial_production_balance_tss_production_focus",
+    "en": "<h>Artisan Workshops</> often have a <h>Production Focus</> that allows you to change the input and output of their Workshop to suit your economy.",
+    "vi": "<h>Xưởng Thủ công</> thường có <h>Trọng tâm sản xuất</> cho phép thay đổi nguyên liệu đầu vào và sản phẩm đầu ra sao cho phù hợp với nền kinh tế của bạn.",
+    "offset": 287602,
+    "length": 147
+  },
+  {
+    "key": "DEPRECATED_tutorial_production_focus",
+    "en": "Production Focus",
+    "vi": "Trọng tâm Sản xuất",
+    "offset": 292719,
+    "length": 17
+  },
+  {
+    "key": "DEPRECATED_tutorial_production_focus_descr",
+    "en": "<h>Artisan Workshops</> can sometimes produce multiple types of goods. To select what good is being produced, check the <h>Advanced</> tab in the <h>Building Panel</>.",
+    "vi": "<h>Xưởng Thủ công</> đôi khi có thể chế tác nhiều loại hàng hóa khác nhau. Để chọn mặt hàng sản xuất, hãy mở tab <h>Nâng cao</> trong <h>Bảng Công trình</>.",
+    "offset": 293279,
+    "length": 168
+  },
+  {
+    "key": "tutorial_tradingPost",
+    "en": "Trading Post",
+    "vi": "Trạm Giao thương",
+    "offset": 298525,
+    "length": 13
+  },
+  {
+    "key": "tutorial_tradingPost_descr",
+    "en": "The <h>Trading Post</> allows for the import and export of most Goods in exchange for <img id=\"itemID_0\"/><h>Regional Wealth</>.",
+    "vi": "<h>Trạm Giao thương</> cho phép xuất nhập khẩu hầu hết các loại Hàng hóa để đổi lấy <img id=\"itemID_0\"/><h>Tài sản vùng</>.",
+    "offset": 298936,
+    "length": 129
+  },
+  {
+    "key": "tutorial_tradingPost_tss_trade_rule",
+    "en": "Use the <h>Trade Rule</> drop-down menu to set a Good to <h>Export</> or <h>Import</>.",
+    "vi": "Sử dụng menu thả xuống <h>Quy tắc giao thương</> để cài đặt mặt hàng ở chế độ <h>Xuất khẩu</> hoặc <h>Nhập khẩu</>.",
+    "offset": 302895,
+    "length": 87
+  },
+  {
+    "key": "tutorial_tradingPost_tss_trade_work",
+    "en": "Assigned <h>Families</> will stock the <h>Trading Post</>, and walk to the nearest <img id=\"Tradepoint\"/><h>Tradepoint</> to exchange goods based on its <h>Desired Surplus</>.",
+    "vi": "Các <h>Gia đình</> được phân công sẽ gom hàng vào <h>Trạm Giao thương</> và đi bộ đến <img id=\"Tradepoint\"/><h>Điểm giao thương</> gần nhất để trao đổi dựa trên mức <h>Thặng dư mong muốn</>.",
+    "offset": 306256,
+    "length": 176
+  },
+  {
+    "key": "tutorial_tradingPost_tss_trade_merchant",
+    "en": "<h>Travelling Merchants</> will periodically arrive to exchange Goods. By <h>Establishing a Trade Route</> they will arrive more frequently, and allow you to exchange <h>Major Trades</>.",
+    "vi": "<h>Thương nhân</> sẽ định kỳ ghé qua để mua bán. Bằng cách <h>Mở Tuyến Giao thương</>, họ sẽ ghé thường xuyên hơn và cho phép bạn thực hiện các <h>Giao dịch lớn</>.",
+    "offset": 312930,
+    "length": 187
+  },
+  {
+    "key": "tutorial_tradingPost_tss_trade_foreign",
+    "en": "By toggling <h>Allow Foreign Trade</> to <h>off</>, <img id=\"Worker\"/><h>Workers</> will instead exchange Goods between your occupied <h>Regions</>.",
+    "vi": "Bằng cách gạt <h>Cho phép Giao thương Ngoại bang</> sang <h>tắt</>, <img id=\"Worker\"/><h>Người lao động</> sẽ chuyển sang luân chuyển hàng hóa giữa các <h>Vùng đất</> nội bộ của bạn.",
+    "offset": 319168,
+    "length": 149
+  },
+  {
+    "key": "tutorial_farming",
+    "en": "Farming",
+    "vi": "Nông nghiệp & Trồng trọt",
+    "offset": 324526,
+    "length": 8
+  },
+  {
+    "key": "tutorial_farming_descr",
+    "en": "In order to begin Farming, you'll need both a <h>Field</> and a <h>Farmhouse</>.{br}{br}<img id=\"Worker\"/><h>Families</> assigned to the <h>Farmhouse</> work the <h>Fields</> in accordance with the <h>Field's</> set <h>Priority</> level.{br}{br}When crops are growing, they absorb nutrients from the soil, lowering its <h>Fertility</> and thus diminishing yields over time. To combat this, consider utilising <img id=\"cropRotation\"/><h>Crop Rotation</> or leaving the <h>Field</> fallow for a year to help it recover.",
+    "vi": "Để bắt đầu làm nông, bạn cần cả <h>Ruộng lúa</> và <h>Nông trang</>.{br}{br}<img id=\"Worker\"/><h>Gia đình</> được phân công vào <h>Nông trang</> sẽ canh tác trên các <h>Ruộng lúa</> theo mức độ <h>Ưu tiên</> đã đặt của <h>Ruộng</>.{br}{br}Khi cây trồng phát triển, chúng hút chất dinh dưỡng từ đất, làm giảm <h>Độ màu mỡ</> và giảm dần sản lượng qua các năm. Để khắc phục, hãy áp dụng <img id=\"cropRotation\"/><h>Luân canh cây trồng</> hoặc cho <h>Ruộng</> nghỉ hoang một năm để phục hồi.",
+    "offset": 324862,
+    "length": 518
+  },
+  {
+    "key": "tutorial_fieldsize",
+    "en": "Field Plots",
+    "vi": "Thửa ruộng",
+    "offset": 342862,
+    "length": 12
+  },
+  {
+    "key": "tutorial_fieldsize_descr",
+    "en": "Fields in Manor Lords need to be quite large to be effective, (about 1 morgen) but also take long to plow by hand. {br}{br}Remember to check the ground <h>Fertility</> as not all <h>Crop Types</> behave the same.",
+    "vi": "Ruộng lúa trong Manor Lords cần diện tích đủ lớn để đạt hiệu quả cao (khoảng 1 morgen), nhưng ruộng lớn cũng tốn nhiều thời gian cày bằng tay.{br}{br}Đừng quên kiểm tra <h>Độ màu mỡ</> của đất vì mỗi <h>Loại cây trồng</> lại phù hợp với loại đất khác nhau.",
+    "offset": 343334,
+    "length": 213
+  },
+  {
+    "key": "tutorial_farm_cycles",
+    "en": "Farming Cycles",
+    "vi": "Chu kỳ Canh tác",
+    "offset": 351746,
+    "length": 15
+  },
+  {
+    "key": "tutorial_farm_cycles_descr",
+    "en": "Provided the <h>Field</> is not set to <h>Fallow</>, workers will plow it and sow the crop as soon as possible. The <h>Yield</> will increase as it grows and it will be harvested during the <img id=\"Autumn\"/><h>Harvest Season</>.",
+    "vi": "Miễn là <h>Ruộng</> không bị để <h>Nghỉ hoang</>, nông dân sẽ cày xới và gieo hạt sớm nhất có thể. <h>Sản lượng</> sẽ tăng dần khi lúa lớn và sẽ được gặt trong <img id=\"Autumn\"/><h>Mùa thu hoạch</>.",
+    "offset": 352244,
+    "length": 230
+  },
+  {
+    "key": "tutorial_castle_planner",
+    "en": "Castle Planner",
+    "vi": "Quy hoạch Lâu đài & Dinh thự",
+    "offset": 359866,
+    "length": 15
+  },
+  {
+    "key": "tutorial_castle_planner_descr",
+    "en": "Here you can edit the layout of your Castle and plan the construction of new wings and towers.{br}{br}When you press commit, the old layout will disappear and the new one will be constructed. The cost is fixed.",
+    "vi": "Tại đây bạn có thể chỉnh sửa bố cục Lâu đài và thiết kế thêm các gian phòng, tháp canh mới.{br}{br}Khi bạn nhấn xác nhận, cấu trúc cũ sẽ biến mất và cấu trúc mới sẽ được xây dựng. Chi phí được tính cố định.",
+    "offset": 360378,
+    "length": 211
+  },
+  {
+    "key": "tutorial_taxation",
+    "en": "Taxation",
+    "vi": "Chính sách Thuế",
+    "offset": 366922,
+    "length": 9
+  },
+  {
+    "key": "tutorial_taxation_descr",
+    "en": "Activate the \"Taxes\" tab after selecting your Manor to set levels of taxation. Taxes can boost your <img id=\"Treasury\"/><h>Treasury</> and <img id=\"Influence\"/><h>Influence</> at the cost of making your population poorer.",
+    "vi": "Mở tab \"Thuế\" sau khi chọn Dinh thự để thiết lập các mức thuế. Thuế giúp gia tăng <img id=\"Treasury\"/><h>Ngân khố</> và <img id=\"Influence\"/><h>Uy danh</> của bạn nhưng sẽ khiến thần dân nghèo đi.",
+    "offset": 367284,
+    "length": 222
+  },
+  {
+    "key": "tutorial_militia_descr",
+    "en": "The male villagers will be evenly distributed between all militia units. {br}{br}They will then try to find the <h>Required Armaments</> - the weapon and shield depends on the unit type, while the maximum quality of body armor and helmet depends on the villager's <h>Residential Level</>. {br}{br}After bringing all the necessary equipment home, the unit recruits are marked as ready to rally. {br}{br}Only then you will be able to <h>Rally Your Unit</>!",
+    "vi": "Đàn ông trong làng sẽ được phân bổ đều vào tất cả các đơn vị dân quân.{br}{br}Họ sẽ tự tìm <h>Trang bị bắt buộc</> — vũ khí và khiên tùy theo loại đơn vị, trong khi phẩm chất tối đa của áo giáp và mũ sắt phụ thuộc vào <h>Cấp độ Nhà ở</> của người đó.{br}{br}Sau khi mang đủ đồ về nhà, tân binh sẽ ở trạng thái sẵn sàng triệu tập.{br}{br}Chỉ khi đó bạn mới có thể <h>Huy động Đơn vị xuất quân</>!",
+    "offset": 375446,
+    "length": 455
+  },
+  {
+    "key": "tutorial_squads_descr",
+    "en": "<h>The combat strength of your units depends on many factors:</>{br}{br}<h>Stances</>. Check the army tab below to set them, all have pros and cons. {br}{br} <img id=\"Morale\"/><h>Morale</> is the willingness to fight. If it reaches critical points, some stances become unavailable, and eventually the unit will flee from battle.{br}{br}<img id=\"Fatigue\"/><h>Fatigue</>. Soldiers become tired when running and fighting, when exhausted, they can no longer run or fight well. {br}{br}<h>Effectiveness</> is the attack and defense multiplier. The unit might have a hard time fighting uphill, or archers struggle while shooting in the rain. Hold <h>TAB</> to inspect the details.",
+    "vi": "<h>Sức mạnh chiến đấu của đơn vị phụ thuộc vào nhiều yếu tố:</>{br}{br}<h>Thế trận</>. Kiểm tra tab quân đội bên dưới để điều chỉnh, mỗi thế trận đều có ưu nhược điểm riêng.{br}{br}<img id=\"Morale\"/><h>Tinh thần</> là ý chí chiến đấu. Nếu tinh thần xuống mức báo động, một số thế trận sẽ bị vô hiệu và đơn vị có thể vỡ trận tháo chạy.{br}{br}<img id=\"Fatigue\"/><h>Thể lực</>. Lính sẽ thấm mệt khi chạy và đánh nhau, khi kiệt sức họ không thể chạy hay giao tranh hiệu quả.{br}{br}<h>Hiệu quả</> là hệ số nhân công thủ. Đơn vị sẽ gặp bất lợi lớn khi đánh lên dốc, hoặc cung thủ bị giảm tầm bắn và độ chính xác khi trời mưa. Giữ phím <h>TAB</> để xem chi tiết.",
+    "offset": 390560,
+    "length": 675
+  },
+  {
+    "key": "tutorial_armyMovement_descr",
+    "en": "<img id=\"LMB\"/> Select units with the <h>Left Mouse Button</>. Hold and drag <img id=\"LMB\"/> to select multiple units. {br}{br}<img id=\"RMB\"/> Command selected units with the <h>Right Mouse Button</>. {br}{br}Hold and drag <img id=\"RMB\"/> to form a line. Hold <h>ALT</> while dragging to keep the formation when multiple units are commanded. Hold <h>CTRL</> and <img id=\"RMB\"/> to draw waypoints for a single squad.",
+    "vi": "<img id=\"LMB\"/> Chọn đơn vị bằng <h>Chuột trái</>. Nhấn giữ và kéo <img id=\"LMB\"/> để chọn nhiều đơn vị.{br}{br}<img id=\"RMB\"/> Ra lệnh cho đơn vị được chọn bằng <h>Chuột phải</>.{br}{br}Nhấn giữ và kéo <img id=\"RMB\"/> để dàn hàng ngang. Giữ <h>ALT</> trong khi kéo để giữ nguyên đội hình khi điều khiển nhiều đơn vị. Giữ <h>CTRL</> và <img id=\"RMB\"/> để vẽ lộ trình di chuyển cho một đạo quân.",
+    "offset": 415846,
+    "length": 416
+  },
+  {
+    "key": "tutorial_friendlyFire_descr",
+    "en": "Ranged units might stop shooting if there is a risk that they might hit their friends. This risk lowers if the shooter is very close to the enemy and has unobstructed line of sight.",
+    "vi": "Các đơn vị bắn xa có thể dừng bắn nếu có nguy cơ bắn trúng quân mình. Rủi ro này sẽ giảm đi nếu xạ thủ ở cự ly rất gần địch và có tầm nhìn thông thoáng không bị che khuất.",
+    "offset": 432977,
+    "length": 182
+  },
+  {
+    "key": "tutorial_fatigue_descr",
+    "en": "Your men will get tired and might be unable to fight effectively. Consider marching instead for long travels. Use the <img id=\"Sprint\"/> <h>Run to positions</> button to cycle between marching and running.",
+    "vi": "Quân của bạn sẽ mệt mỏi và không thể chiến đấu hiệu quả. Hãy cân nhắc cho quân hành quân bộ khi đi xa. Sử dụng nút <img id=\"Sprint\"/> <h>Chạy nhanh vào vị trí</> để chuyển đổi qua lại giữa đi bộ và chạy nhanh.",
+    "offset": 439567,
+    "length": 206
+  },
+  {
+    "key": "tutorial_logistics_worker",
+    "en": "Worker Logistics",
+    "vi": "Hậu cần & Vận chuyển",
+    "offset": 446829,
+    "length": 17
+  },
+  {
+    "key": "tutorial_logistics_worker_descr",
+    "en": "Like all Workers, <img id=\"GenericStorage\"/> <h>Storehouse</> and <img id=\"Pantry\"/><h>Granary</> workers collect goods for their own Workplace. Unlike other Workers, they may use Handcarts to transport goods in bulk.{br}{br}If connected to a <h>Marketplace</>, they will also distribute goods to their <img id=\"Stall\"/><h>Market Stalls</>.",
+    "vi": "Như mọi thợ khác, thợ ở <img id=\"GenericStorage\"/> <h>Kho vật tư</> và <img id=\"Pantry\"/><h>Kho lương thực</> sẽ đi thu gom hàng về kho của mình. Khác với người khác, họ có thể dùng Xe kéo tay để chở hàng số lượng lớn.{br}{br}Nếu được kết nối với <h>Khu chợ</>, họ cũng sẽ tự mang hàng ra bày bán tại các <img id=\"Stall\"/><h>Sạp hàng</>.",
+    "offset": 447428,
+    "length": 341
+  },
+  {
+    "key": "tutorial_yard",
+    "en": "Advanced Construction",
+    "vi": "Xây dựng Nâng cao",
+    "offset": 460098,
+    "length": 22
+  },
+  {
+    "key": "tutorial_yard_descr",
+    "en": "A <h>Construction Yard</> is necessary to complete construction of <h>Advanced Structures</>, while also greatly improving logistics.",
+    "vi": "Một <h>Công trường</> là bắt buộc để hoàn thành thi công các <h>Công trình Cao cấp</>, đồng thời nâng cao đáng kể năng lực hậu cần.",
+    "offset": 460723,
+    "length": 134
+  },
+  {
+    "key": "tutorial_yard_tss_logistics",
+    "en": "Workers both retrieve and distribute <img id=\"ConstructionCategory\"/><h>Construction Material</>.",
+    "vi": "Nhân công vừa thu gom vừa phân phối <img id=\"ConstructionCategory\"/><h>Vật liệu Xây dựng</>.",
+    "offset": 464952,
+    "length": 98
+  },
+  {
+    "key": "tutorial_yard_tss_oxen",
+    "en": "Assigned <h>Oxen</> will use wagons, greatly increasing carrying capacity of <img id=\"ItemID_16\"/><h>Timber</>.",
+    "vi": "<h>Bò kéo</> được chỉ định sẽ dùng xe chở hàng lớn, tăng mạnh sức chở <img id=\"ItemID_16\"/><h>Gỗ khúc</>.",
+    "offset": 468082,
+    "length": 112
+  },
+  {
+    "key": "tutorial_yard_tss_construction",
+    "en": "Workers complete construction faster on all building sites.",
+    "vi": "Nhân công hoàn thành việc xây dựng nhanh hơn trên mọi công trường.",
+    "offset": 472294,
+    "length": 60
+  }
+]

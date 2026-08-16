@@ -1,0 +1,401 @@
+[
+  {
+    "key": "falcon",
+    "en": "Has a pet falcon that he uses for hunting and scouting",
+    "vi": "Nuôi một con chim ưng chuyên dùng để đi săn và thám thính",
+    "offset": 24,
+    "length": 55
+  },
+  {
+    "key": "smith",
+    "en": "Afraid of horses",
+    "vi": "Sợ ngựa",
+    "offset": 1848,
+    "length": 17
+  },
+  {
+    "key": "relic",
+    "en": "Wears a relic around his neck",
+    "vi": "Luôn đeo thánh tích trước ngực",
+    "offset": 2341,
+    "length": 30
+  },
+  {
+    "key": "devout",
+    "en": "A devout follower of a particular saint",
+    "vi": "Tín đồ sùng đạo của một vị thánh linh",
+    "offset": 3204,
+    "length": 40
+  },
+  {
+    "key": "musician",
+    "en": "A skilled musician and often entertains his comrades with his lute or flute",
+    "vi": "Một nhạc công tài hoa, thường gảy đàn lute hoặc thổi sáo góp vui cho đồng đội",
+    "offset": 4446,
+    "length": 76
+  },
+  {
+    "key": "gambler",
+    "en": "A notorious gambler",
+    "vi": "Một tay cờ bạc khét tiếng",
+    "offset": 6801,
+    "length": 20
+  },
+  {
+    "key": "bookmaker",
+    "en": "Takes bets on the outcome of battles",
+    "vi": "Chuyên nhận kèo cá cược kết quả các trận đánh",
+    "offset": 7519,
+    "length": 37
+  },
+  {
+    "key": "scarred",
+    "en": "Has a scar on his bottom that he claims was inflicted by a dragon",
+    "vi": "Có vết sẹo ở mông và luôn huênh hoang là do rồng cắn",
+    "offset": 8595,
+    "length": 66
+  },
+  {
+    "key": "clean",
+    "en": "Obsessed with cleanliness",
+    "vi": "Mắc bệnh sạch sẽ thái quá",
+    "offset": 11863,
+    "length": 26
+  },
+  {
+    "key": "vegetarian",
+    "en": "Refuses to eat vegetables",
+    "vi": "Nhất quyết không chịu ăn rau",
+    "offset": 12610,
+    "length": 26
+  },
+  {
+    "key": "monk",
+    "en": "Left the monastery in pursuit of adventure",
+    "vi": "Bỏ tu viện trốn đi tìm kiếm phiêu lưu",
+    "offset": 13388,
+    "length": 43
+  },
+  {
+    "key": "scholar",
+    "en": "A collector of rare books",
+    "vi": "Kẻ đam mê sưu tầm sách cổ quý hiếm",
+    "offset": 14617,
+    "length": 26
+  },
+  {
+    "key": "animal_lover",
+    "en": "Loves animals",
+    "vi": "Yêu động vật",
+    "offset": 15390,
+    "length": 14
+  },
+  {
+    "key": "quirks_11776",
+    "en": "Enjoys playing jokes on his fellow warriors",
+    "vi": "Thích chơi khăm các chiến hữu",
+    "offset": 15898,
+    "length": 44
+  },
+  {
+    "key": "joker",
+    "en": "Always has a good anecdote",
+    "vi": "Luôn có sẵn những giai thoại thú vị để kể",
+    "offset": 17198,
+    "length": 27
+  },
+  {
+    "key": "thinker",
+    "en": "A fan of riddles and puzzles",
+    "vi": "Mê mẩn những câu đố mẹo và giải mã",
+    "offset": 18262,
+    "length": 29
+  },
+  {
+    "key": "quirks_25600",
+    "en": "Een liefhebber van raadsels en puzzels",
+    "vi": "Mê mẩn những câu đố mẹo và giải mã",
+    "offset": 19143,
+    "length": 39
+  },
+  {
+    "key": "polyglot",
+    "en": "Can speak several languages fluently",
+    "vi": "Nói trôi chảy nhiều thứ tiếng",
+    "offset": 19250,
+    "length": 37
+  },
+  {
+    "key": "berserker",
+    "en": "Goes into a frenzy when he fights",
+    "vi": "Hóa cuồng loạn mỗi khi lao vào chiến đấu",
+    "offset": 20277,
+    "length": 34
+  },
+  {
+    "key": "quirks_29440",
+    "en": "Verliest de controle tijdens gevechten",
+    "vi": "Hóa cuồng loạn mỗi khi lao vào chiến đấu",
+    "offset": 21074,
+    "length": 39
+  },
+  {
+    "key": "twin",
+    "en": "Has an evil twin",
+    "vi": "Có một người anh em sinh đôi tà ác",
+    "offset": 21191,
+    "length": 17
+  },
+  {
+    "key": "poet",
+    "en": "Often recites his verses before or after a fight",
+    "vi": "Thường ngâm thơ trước hoặc sau mỗi trận đánh",
+    "offset": 21901,
+    "length": 49
+  },
+  {
+    "key": "pagan",
+    "en": "Secretly pagan",
+    "vi": "Bí mật theo dị giáo",
+    "offset": 23376,
+    "length": 15
+  },
+  {
+    "key": "keen_eye",
+    "en": "Has great eyesight and can hit even a small target from a long distance",
+    "vi": "Mắt sáng như chim ưng, bắn trúng mục tiêu nhỏ từ khoảng cách cực xa",
+    "offset": 24065,
+    "length": 72
+  },
+  {
+    "key": "thief",
+    "en": "Steals anything that catches his eye",
+    "vi": "Thó trộm mọi thứ lọt vào mắt xanh",
+    "offset": 26454,
+    "length": 37
+  },
+  {
+    "key": "charmer",
+    "en": "Charms every woman he meets",
+    "vi": "Đốn tim mọi cô gái mà hắn bắt gặp",
+    "offset": 27523,
+    "length": 28
+  },
+  {
+    "key": "drunkard",
+    "en": "Always carries a flask of wine or ale with him",
+    "vi": "Lúc nào cũng thủ sẵn một bầu rượu bên mình",
+    "offset": 28713,
+    "length": 47
+  },
+  {
+    "key": "coward",
+    "en": "Always tries to avoid danger",
+    "vi": "Luôn tìm cách lủi trốn nguy hiểm",
+    "offset": 30149,
+    "length": 29
+  },
+  {
+    "key": "prosthetic",
+    "en": "Has a prosthetic eye from a previous battle",
+    "vi": "Lắp mắt giả sau một trận tử chiến trong quá khứ",
+    "offset": 31178,
+    "length": 44
+  },
+  {
+    "key": "chess",
+    "en": "A master of chess",
+    "vi": "Kỳ thủ cờ vua bậc thầy",
+    "offset": 32671,
+    "length": 18
+  },
+  {
+    "key": "philosopher",
+    "en": "Loves getting into arguments with priests",
+    "vi": "Thích tranh luận đấu khẩu với các giáo sĩ",
+    "offset": 33256,
+    "length": 42
+  },
+  {
+    "key": "glutton",
+    "en": "Eats more than anyone else, often leaving nothing for his comrades",
+    "vi": "Ăn khỏe như voi, nhiều lúc chẳng thèm chừa lại chút gì cho đồng đội",
+    "offset": 34290,
+    "length": 67
+  },
+  {
+    "key": "mute",
+    "en": "Is a mute and communicates with gestures",
+    "vi": "Bị câm và chỉ giao tiếp bằng cử chỉ tay",
+    "offset": 36282,
+    "length": 41
+  },
+  {
+    "key": "wanderer",
+    "en": "Never stays in one place for long",
+    "vi": "Chân đi không bao giờ chịu ở yên một chỗ lâu",
+    "offset": 37521,
+    "length": 34
+  },
+  {
+    "key": "healer",
+    "en": "Knows how to treat wounds and diseases with herbs",
+    "vi": "Biết dùng thảo dược để chữa lành vết thương và trị bệnh",
+    "offset": 38681,
+    "length": 50
+  },
+  {
+    "key": "storyteller",
+    "en": "Knows many legends and myths from different cultures and regions",
+    "vi": "Thuộc lòng vô số truyền thuyết và huyền thoại từ khắp các xứ sở",
+    "offset": 40142,
+    "length": 65
+  },
+  {
+    "key": "prophet",
+    "en": "Claims to have prophetic dreams",
+    "vi": "Tự nhận mình có những giấc mơ tiên tri báo mộng",
+    "offset": 41970,
+    "length": 32
+  },
+  {
+    "key": "quirks_25856",
+    "en": "Beweert voorspellende dromen te hebben",
+    "vi": "Tự nhận mình có những giấc mơ tiên tri báo mộng",
+    "offset": 42881,
+    "length": 39
+  },
+  {
+    "key": "artist",
+    "en": "Studied various arts",
+    "vi": "Từng học qua nhiều bộ môn nghệ thuật",
+    "offset": 42996,
+    "length": 21
+  },
+  {
+    "key": "sinner",
+    "en": "Tormented by sins of the past",
+    "vi": "Bị dày vò bởi những tội lỗi trong quá khứ",
+    "offset": 43895,
+    "length": 30
+  },
+  {
+    "key": "miracle",
+    "en": "Claims he performed a miracle once",
+    "vi": "Tuyên bố mình từng làm nên một phép màu hiển linh",
+    "offset": 44905,
+    "length": 35
+  },
+  {
+    "key": "betrayer",
+    "en": "Betrayed his former Lord",
+    "vi": "Từng phản bội lại Lãnh chúa cũ của mình",
+    "offset": 46144,
+    "length": 25
+  },
+  {
+    "key": "quirks_29184",
+    "en": "Heeft zijn voormalige heerser verraden",
+    "vi": "Từng phản bội lại Lãnh chúa cũ của mình",
+    "offset": 46897,
+    "length": 39
+  },
+  {
+    "key": "veteran",
+    "en": "Fought in many battles",
+    "vi": "Dạn dày kinh nghiệm qua hàng chục trận chiến",
+    "offset": 47016,
+    "length": 23
+  },
+  {
+    "key": "bastard",
+    "en": "Of an illegitimate birth",
+    "vi": "Con ngoài giá thú (con hoang)",
+    "offset": 47895,
+    "length": 25
+  },
+  {
+    "key": "foreigner",
+    "en": "A foreigner from a distant land",
+    "vi": "Một kẻ ngoại bang đến từ xứ sở xa xôi",
+    "offset": 48760,
+    "length": 32
+  },
+  {
+    "key": "arrogant",
+    "en": "Acts arrogant and privileged",
+    "vi": "Tính tình kiêu căng, thích lên mặt quý tộc",
+    "offset": 49651,
+    "length": 29
+  },
+  {
+    "key": "peasant",
+    "en": "Comes from a peasant family",
+    "vi": "Xuất thân từ một gia đình bần nông",
+    "offset": 50731,
+    "length": 28
+  },
+  {
+    "key": "bandit",
+    "en": "Was a bandit once and robbed travellers",
+    "vi": "Từng làm thảo khấu chặn đường cướp bóc khách bộ hành",
+    "offset": 51480,
+    "length": 40
+  },
+  {
+    "key": "mercenary",
+    "en": "A former mercenary, often changing sides",
+    "vi": "Từng làm lính đánh thuê, thường xuyên đổi phe theo tiền",
+    "offset": 52904,
+    "length": 41
+  },
+  {
+    "key": "chivalrious",
+    "en": "Follows the code of chivalry",
+    "vi": "Tuân thủ nghiêm ngặt tinh thần hiệp sĩ đạo",
+    "offset": 54359,
+    "length": 29
+  },
+  {
+    "key": "pilgrim",
+    "en": "Traveled to many sacred sites",
+    "vi": "Từng hành hương qua nhiều vùng đất thánh",
+    "offset": 55311,
+    "length": 30
+  },
+  {
+    "key": "hunter",
+    "en": "Excells at hunting and tracking animals",
+    "vi": "Bậc thầy săn bắn và lần theo dấu vết thú rừng",
+    "offset": 56239,
+    "length": 40
+  },
+  {
+    "key": "smith",
+    "en": "Forged his own weapons",
+    "vi": "Tự tay rèn lấy vũ khí xung trận của chính mình",
+    "offset": 57423,
+    "length": 23
+  },
+  {
+    "key": "engineer",
+    "en": "Worked as an engineer on siege equipment construction",
+    "vi": "Từng làm kỹ sư chế tạo khí tài công thành",
+    "offset": 58213,
+    "length": 54
+  },
+  {
+    "key": "brewer",
+    "en": "Makes his own beer",
+    "vi": "Tự tay ủ lấy bia cho mình uống",
+    "offset": 59651,
+    "length": 19
+  },
+  {
+    "key": "no_quirks",
+    "en": "No quirks",
+    "vi": "Không có tật riêng",
+    "offset": 60370,
+    "length": 10
+  }
+]

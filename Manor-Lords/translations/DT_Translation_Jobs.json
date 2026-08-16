@@ -1,0 +1,310 @@
+[
+  {
+    "key": "jobs_1",
+    "en": "Unassigned",
+    "vi": "Nhàn rỗi",
+    "offset": 24,
+    "length": 11
+  },
+  {
+    "key": "jobs_2",
+    "en": "Woodcutter",
+    "vi": "Thợ đốn gỗ",
+    "offset": 435,
+    "length": 11
+  },
+  {
+    "key": "jobs_3",
+    "en": "Builder",
+    "vi": "Thợ xây",
+    "offset": 745,
+    "length": 8
+  },
+  {
+    "key": "jobs_4",
+    "en": "Hunter",
+    "vi": "Thợ săn",
+    "offset": 1061,
+    "length": 7
+  },
+  {
+    "key": "jobs_9",
+    "en": "Miller",
+    "vi": "Thợ xay bột",
+    "offset": 1354,
+    "length": 7
+  },
+  {
+    "key": "jobs_10",
+    "en": "Tanner",
+    "vi": "Thợ thuộc da",
+    "offset": 1672,
+    "length": 7
+  },
+  {
+    "key": "jobs_11",
+    "en": "Tailor",
+    "vi": "Thợ may",
+    "offset": 1977,
+    "length": 7
+  },
+  {
+    "key": "jobs_12",
+    "en": "Cobbler",
+    "vi": "Thợ đóng giày",
+    "offset": 2261,
+    "length": 8
+  },
+  {
+    "key": "jobs_13",
+    "en": "Herder",
+    "vi": "Người chăn gia súc",
+    "offset": 2547,
+    "length": 7
+  },
+  {
+    "key": "jobs_14",
+    "en": "Charcoal Burner",
+    "vi": "Thợ đốt than",
+    "offset": 2806,
+    "length": 16
+  },
+  {
+    "key": "jobs_15",
+    "en": "Weaver",
+    "vi": "Thợ dệt",
+    "offset": 3215,
+    "length": 7
+  },
+  {
+    "key": "jobs_16",
+    "en": "Miner",
+    "vi": "Thợ mỏ",
+    "offset": 3488,
+    "length": 6
+  },
+  {
+    "key": "jobs_17",
+    "en": "Blacksmith",
+    "vi": "Thợ rèn",
+    "offset": 3766,
+    "length": 11
+  },
+  {
+    "key": "jobs_18",
+    "en": "Carpenter",
+    "vi": "Thợ mộc",
+    "offset": 4019,
+    "length": 10
+  },
+  {
+    "key": "jobs_19",
+    "en": "Forager",
+    "vi": "Người hái lượm",
+    "offset": 4301,
+    "length": 8
+  },
+  {
+    "key": "jobs_21",
+    "en": "Joiner",
+    "vi": "Thợ làm đồ gỗ",
+    "offset": 4608,
+    "length": 7
+  },
+  {
+    "key": "jobs_23",
+    "en": "Brewer",
+    "vi": "Thợ nấu bia",
+    "offset": 4919,
+    "length": 7
+  },
+  {
+    "key": "jobs_24",
+    "en": "Stonecutter",
+    "vi": "Thợ đẽo đá",
+    "offset": 5219,
+    "length": 12
+  },
+  {
+    "key": "jobs_25",
+    "en": "Smelter",
+    "vi": "Thợ luyện sắt",
+    "offset": 5540,
+    "length": 8
+  },
+  {
+    "key": "jobs_30",
+    "en": "Butcher",
+    "vi": "Thợ xẻ thịt",
+    "offset": 5830,
+    "length": 8
+  },
+  {
+    "key": "jobs_31",
+    "en": "Beekeeper",
+    "vi": "Người nuôi ong",
+    "offset": 6107,
+    "length": 10
+  },
+  {
+    "key": "jobs_34",
+    "en": "Malthouse Worker",
+    "vi": "Thợ làm mạch nha",
+    "offset": 6397,
+    "length": 17
+  },
+  {
+    "key": "jobs_256",
+    "en": "Baker",
+    "vi": "Thợ làm bánh",
+    "offset": 6879,
+    "length": 6
+  },
+  {
+    "key": "jobs_43",
+    "en": "Farmer",
+    "vi": "Nông dân",
+    "offset": 7143,
+    "length": 7
+  },
+  {
+    "key": "jobs_45",
+    "en": "Granary Worker",
+    "vi": "Thủ kho lương thực",
+    "offset": 7415,
+    "length": 15
+  },
+  {
+    "key": "jobs_46",
+    "en": "Warehouse Worker",
+    "vi": "Thủ kho vật tư",
+    "offset": 7926,
+    "length": 17
+  },
+  {
+    "key": "jobs_49",
+    "en": "Trader",
+    "vi": "Thương nhân",
+    "offset": 8438,
+    "length": 7
+  },
+  {
+    "key": "jobs_51",
+    "en": "Forester",
+    "vi": "Người trồng rừng",
+    "offset": 8761,
+    "length": 9
+  },
+  {
+    "key": "jobs_52",
+    "en": "Ox Guide",
+    "vi": "Người dắt bò",
+    "offset": 9115,
+    "length": 9
+  },
+  {
+    "key": "jobs_53",
+    "en": "Firewood Cutter",
+    "vi": "Thợ đốn củi",
+    "offset": 9553,
+    "length": 16
+  },
+  {
+    "key": "jobs_54",
+    "en": "Tavern Keeper",
+    "vi": "Chủ quán bia",
+    "offset": 9988,
+    "length": 14
+  },
+  {
+    "key": "jobs_57",
+    "en": "Armorer",
+    "vi": "Thợ rèn giáp",
+    "offset": 10331,
+    "length": 8
+  },
+  {
+    "key": "jobs_58",
+    "en": "Bowyer",
+    "vi": "Thợ làm cung",
+    "offset": 10688,
+    "length": 7
+  },
+  {
+    "key": "jobs_61",
+    "en": "Servant",
+    "vi": "Gia nhân",
+    "offset": 11041,
+    "length": 8
+  },
+  {
+    "key": "jobs_62",
+    "en": "Tilemaker",
+    "vi": "Thợ làm ngói",
+    "offset": 11300,
+    "length": 10
+  },
+  {
+    "key": "jobs_27",
+    "en": "Retainer",
+    "vi": "Cận vệ",
+    "offset": 9979,
+    "length": 9
+  },
+  {
+    "key": "jobs_64",
+    "en": "Dyer",
+    "vi": "Thợ nhuộm",
+    "offset": 11929,
+    "length": 5
+  },
+  {
+    "key": "jobs_65",
+    "en": "Pack Station Worker",
+    "vi": "Phu thồ hàng",
+    "offset": 12227,
+    "length": 20
+  },
+  {
+    "key": "jobs_66",
+    "en": "Gravedigger",
+    "vi": "Phu đào mộ",
+    "offset": 12764,
+    "length": 12
+  },
+  {
+    "key": "jobs_67",
+    "en": "Fisherman",
+    "vi": "Ngư dân",
+    "offset": 13088,
+    "length": 10
+  },
+  {
+    "key": "jobs_68",
+    "en": "Quarry Worker",
+    "vi": "Thợ khai thác đá",
+    "offset": 13360,
+    "length": 14
+  },
+  {
+    "key": "jobs_69",
+    "en": "Stone Mason",
+    "vi": "Thợ đẽo đá",
+    "offset": 13872,
+    "length": 12
+  },
+  {
+    "key": "jobs_70",
+    "en": "Lime Kiln Worker",
+    "vi": "Thợ nung vôi",
+    "offset": 14203,
+    "length": 17
+  },
+  {
+    "key": "jobs_71",
+    "en": "Smallholder",
+    "vi": "Chủ nông trang",
+    "offset": 14735,
+    "length": 12
+  }
+]

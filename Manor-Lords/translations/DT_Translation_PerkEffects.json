@@ -1,0 +1,1318 @@
+[
+  {
+    "key": "Smallholdings",
+    "en": "New Upgrade: Smallholding",
+    "vi": "Nâng cấp mới: Nông trang gia đình",
+    "offset": 24,
+    "length": 26
+  },
+  {
+    "key": "Smallholdings_desc",
+    "en": "Enables converting <img id=\"house\"/><h>Burgage Plots (Lv1)</> with <img id=\"extension\"/><h>Backyard Extensions</> into <h>Smallholdings</>. Like Artisans, Smallholding Families treat their backyards as a permanent job, increasing their <h>Yield</>.",
+    "vi": "Cho phép chuyển đổi <img id=\"house\"/><h>Nhà dân (Cấp 1)</> có <img id=\"extension\"/><h>Xưởng/vườn sân sau</> thành <h>Hộ làm nông chuyên trách</>. Giống như Thợ thủ công, các hộ này sẽ làm việc toàn thời gian tại vườn sân sau để tăng mạnh <h>Sản lượng</>.",
+    "offset": 918,
+    "length": 249
+  },
+  {
+    "key": "IncreasedExportValueMinorTrades",
+    "en": "Increased Export Price on Minor Trades",
+    "vi": "Tăng giá xuất khẩu hàng hóa nhỏ",
+    "offset": 9588,
+    "length": 39
+  },
+  {
+    "key": "IncreasedExportValueMinorTrades_desc",
+    "en": "All <h>Minor Trades</> base <img id=\"ItemID_0\"/><h>Export Value</> is increased by +50%.",
+    "vi": "Tất cả <h>Hàng hóa nhỏ</> có <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> cơ bản tăng +50%.",
+    "offset": 10985,
+    "length": 89
+  },
+  {
+    "key": "UnlockKennelsAndDogs",
+    "en": "New Upgrade: Hunting Hound",
+    "vi": "Nâng cấp mới: Chó săn",
+    "offset": 14318,
+    "length": 27
+  },
+  {
+    "key": "UnlockKennelsAndDogs_desc",
+    "en": "Enables ordering a <h>Hunting Hound</> for the <h>Hunting Camp</>. Hunting Hounds provide +1 <img id=\"ItemID_330\"/><h>Small Game</> and +1 <img id=\"ItemID_9\"/><h>Pelts</> on every successful hunt.",
+    "vi": "Cho phép mua <h>Chó săn</> cho <h>Trại thợ săn</>. Chó săn mang lại +1 <img id=\"ItemID_330\"/><h>Thịt thú nhỏ</> và +1 <img id=\"ItemID_9\"/><h>Da lông thú</> sau mỗi chuyến săn thành công.",
+    "offset": 15154,
+    "length": 197
+  },
+  {
+    "key": "ForagedGoodsCapacityBoost",
+    "en": "Increased Capacity for Foraged Goods Deposits",
+    "vi": "Tăng trữ lượng sản vật hái lượm",
+    "offset": 21955,
+    "length": 46
+  },
+  {
+    "key": "ForagedGoodsCapacityBoost_desc",
+    "en": "<img id=\"berries\"/><h>Wild Berries</> and <img id=\"MushroomDeposit\"/><h>Mushroom</> Deposits have doubled capacity.",
+    "vi": "Các bụi <img id=\"berries\"/><h>Quả mọng hoang</> và bãi <img id=\"MushroomDeposit\"/><h>Nấm hoang</> có trữ lượng tăng gấp đôi.",
+    "offset": 23472,
+    "length": 116
+  },
+  {
+    "key": "FarmingYieldPenalty",
+    "en": "Decreased Agriculture Efficiency",
+    "vi": "Giảm hiệu suất nông nghiệp",
+    "offset": 27478,
+    "length": 33
+  },
+  {
+    "key": "FarmingYieldPenalty_desc",
+    "en": "<h>Fields</> and <h>Vegetable Gardens</> <img id=\"efficiency\"/><h>Efficiency</>: -25%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Cánh đồng</> và <h>Vườn rau</>: -25%.",
+    "offset": 28477,
+    "length": 87
+  },
+  {
+    "key": "ExtraApprovalFromFoodVariety",
+    "en": "Increased Approval from Food Variety",
+    "vi": "Tăng Lòng dân từ sự đa dạng món ăn",
+    "offset": 31556,
+    "length": 37
+  },
+  {
+    "key": "ExtraApprovalFromFoodVariety_desc",
+    "en": "<img id=\"Approval\"/><h>Approval</> from bonus <img id=\"Stall\"/><h>Food Variety</>: +10%.",
+    "vi": "<img id=\"Approval\"/><h>Lòng dân</> từ điểm cộng <img id=\"Stall\"/><h>Đa dạng món ăn</>: +10%.",
+    "offset": 32945,
+    "length": 89
+  },
+  {
+    "key": "TitheApprovalPenalty",
+    "en": "Tithe Approval malus",
+    "vi": "Mất lòng dân do Thuế Thập phân",
+    "offset": 36334,
+    "length": 21
+  },
+  {
+    "key": "TitheApprovalPenalty_desc",
+    "en": "Enabling the <h>Tithe</> causes a loss of <h>Approval</> similar to <h>Land Tax</>.",
+    "vi": "Kích hoạt <h>Thuế Thập phân</> sẽ làm giảm <h>Lòng dân</> tương tự như <h>Thuế đất</>.",
+    "offset": 37319,
+    "length": 84
+  },
+  {
+    "key": "IncreasedForesterSuccessRate",
+    "en": "Increased Success Chance for Tree Planting",
+    "vi": "Tăng tỷ lệ ươm cây thành công",
+    "offset": 40474,
+    "length": 43
+  },
+  {
+    "key": "IncreasedForesterSuccessRate_desc",
+    "en": "The base chance of failure (50%) when planting <h>Trees</> no longer applies.",
+    "vi": "Xóa bỏ tỷ lệ thất bại cơ bản (50%) khi trồng <h>Cây non</>.",
+    "offset": 41855,
+    "length": 78
+  },
+  {
+    "key": "SkilledWoodworkers",
+    "en": "Improved Bowyers & Joiners",
+    "vi": "Cải thiện Thợ làm cung & Thợ đồ gỗ",
+    "offset": 44495,
+    "length": 27
+  },
+  {
+    "key": "SkilledWoodworkers_desc",
+    "en": "<h>Bowyers</> and <h>Joiners</> <img id=\"efficiency\"/><h>Efficiency</>: +20%. Warbows, Crossbows, Small Shields and Large Shields <img id=\"ItemID_0\"/><h>Export Value</>: +30%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ làm cung</> và <h>Thợ làm đồ gỗ</>: +20%. <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Cung chiến, Nỏ, Khiên nhỏ và Khiên lớn: +30%.",
+    "offset": 45467,
+    "length": 176
+  },
+  {
+    "key": "MilitiaImprovedMaintenance",
+    "en": "Increased Militia Combat Effectiveness",
+    "vi": "Tăng hiệu quả chiến đấu của Dân quân",
+    "offset": 51890,
+    "length": 39
+  },
+  {
+    "key": "MilitiaImprovedMaintenance_desc",
+    "en": "<h>Militia</> rallied from this Region <h>Combat Effectiveness</>: +10%.",
+    "vi": "<h>Hiệu quả chiến đấu</> của <h>Dân quân</> triệu tập từ vùng này: +10%.",
+    "offset": 52966,
+    "length": 73
+  },
+  {
+    "key": "HalfFuelCosts",
+    "en": "Reduced Fuel Consumption",
+    "vi": "Giảm tiêu thụ chất đốt",
+    "offset": 55322,
+    "length": 25
+  },
+  {
+    "key": "HalfFuelCosts_desc",
+    "en": "All <img id=\"Fuel\"/><h>Fuel</> consumption: -50%.",
+    "vi": "Mức tiêu thụ mọi loại <img id=\"Fuel\"/><h>Chất đốt</>: -50%.",
+    "offset": 56209,
+    "length": 50
+  },
+  {
+    "key": "MiningCraftingSpeedMalus",
+    "en": "Decreased Mining Labor Speed",
+    "vi": "Giảm tốc độ khai thác khoáng sản",
+    "offset": 58182,
+    "length": 29
+  },
+  {
+    "key": "MiningCraftingSpeedMalus_desc",
+    "en": "<h>Mining Pit</>, <h>Deep Mine</>, <h>Stone Gatherer Camp</> and <h>Quarry</> <img id=\"productivity\"/><h>Labor Speed</>: -20%.",
+    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>, <h>Trại nhặt đá</> và <h>Mỏ đá</>: -20%.",
+    "offset": 59297,
+    "length": 127
+  },
+  {
+    "key": "IncreasedPassiveIncome",
+    "en": "Increased Regional Wealth from Burgage Plots",
+    "vi": "Tăng Tài sản vùng từ Nhà dân",
+    "offset": 64236,
+    "length": 45
+  },
+  {
+    "key": "IncreasedPassiveIncome_desc",
+    "en": "All occupied <img id=\"house\"/><h>Burgage Plots</> produce +1 <img id=\"ItemID_0\"/><h>Regional Wealth</> per month.",
+    "vi": "Mỗi căn <img id=\"house\"/><h>Nhà dân</> có người ở đóng góp thêm +1 <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi tháng.",
+    "offset": 65673,
+    "length": 114
+  },
+  {
+    "key": "CheaperBurgageUpgrades",
+    "en": "Reduced Burgage Plot Upgrade cost",
+    "vi": "Giảm chi phí nâng cấp Nhà dân",
+    "offset": 69762,
+    "length": 34
+  },
+  {
+    "key": "CheaperBurgageUpgrades_desc",
+    "en": "Upgrading a <img id=\"house\"/><h>Burgage Plot</> to the next Level requires half the Construction Materials and any <img id=\"ItemID_0\"/><h>Regional Wealth</> cost is removed.",
+    "vi": "Nâng cấp <img id=\"house\"/><h>Nhà dân</> lên cấp tiếp theo tốn ít hơn 50% Vật liệu xây dựng và miễn phí hoàn toàn chi phí <img id=\"ItemID_0\"/><h>Tài sản vùng</>.",
+    "offset": 70982,
+    "length": 174
+  },
+  {
+    "key": "SaltAndIronImportDiscount",
+    "en": "Salt & Iron Ore Import Value reduction",
+    "vi": "Giảm giá nhập khẩu Muối & Thỏi sắt",
+    "offset": 76975,
+    "length": 39
+  },
+  {
+    "key": "SaltAndIronImportDiscount_desc",
+    "en": "<h>Salt</> and <h>Iron Slab</> <img id=\"ItemID_0\"/><h>Import Value</>: -30%.",
+    "vi": "<img id=\"ItemID_0\"/><h>Giá nhập khẩu</> của <h>Muối</> và <h>Thỏi sắt</>: -30%.",
+    "offset": 78397,
+    "length": 77
+  },
+  {
+    "key": "TaxApprovalGeneralPenalty",
+    "en": "Land Tax Approval malus",
+    "vi": "Mất lòng dân do Thuế đất",
+    "offset": 81256,
+    "length": 24
+  },
+  {
+    "key": "TaxApprovalGeneralPenalty_desc",
+    "en": "<h>Land Tax</> <img id=\"Approval\"/><h>Approval</> severity: +20%.",
+    "vi": "Mức độ sụt giảm <img id=\"Approval\"/><h>Lòng dân</> do <h>Thuế đất</>: +20%.",
+    "offset": 82345,
+    "length": 66
+  },
+  {
+    "key": "LivestockYieldPenalty",
+    "en": "Decreased Livestock Efficiency",
+    "vi": "Giảm hiệu suất chăn nuôi",
+    "offset": 85000,
+    "length": 31
+  },
+  {
+    "key": "LivestockYieldPenalty_desc",
+    "en": "Backyard Animal Pens, Chicken Coops and Pastures <img id=\"efficiency\"/><h>Efficiency</>: -20%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của Chuồng gia súc sân sau, Chuồng gà và Đồng cỏ: -20%.",
+    "offset": 85920,
+    "length": 95
+  },
+  {
+    "key": "MilitiaApprovalBonus",
+    "en": "Equipped Militia increases Approval",
+    "vi": "Dân quân đủ trang bị giúp tăng Lòng dân",
+    "offset": 90708,
+    "length": 35
+  },
+  {
+    "key": "MilitiaApprovalBonus_desc",
+    "en": "Receive a small amount of <img id=\"Approval\"/><h>Approval</> for every full and equipped Footmen or Spear Militia company.",
+    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/><h>Lòng dân</> cho mỗi Đại đội Dân quân cầm kiếm hoặc Dân quân cầm giáo đủ quân số và trang bị sẵn sàng.",
+    "offset": 91544,
+    "length": 124
+  },
+  {
+    "key": "LocalHandymenAffinityBonus",
+    "en": "Affinity: Local Handymen Bonus",
+    "vi": "Tăng hiệu quả Thợ đa năng địa phương",
+    "offset": 89153,
+    "length": 31
+  },
+  {
+    "key": "LocalHandymenAffinityBonus_desc",
+    "en": "<h>Affinity \"Local Handymen\"</> strength: +300%.",
+    "vi": "Độ hiệu quả của <h>Bản sắc \"Thợ đa năng địa phương\"</>: +300%.",
+    "offset": 90437,
+    "length": 49
+  },
+  {
+    "key": "MilitiaEquipmentApprovalGain",
+    "en": "Equipped Militia provide Approval",
+    "vi": "Dân quân đủ trang bị giúp tăng Lòng dân",
+    "offset": 92353,
+    "length": 34
+  },
+  {
+    "key": "MilitiaEquipmentApprovalGain_desc",
+    "en": "Gain a small amount of <img id=\"Approval\"/><h>Approval</> for each Militia Footmen or Militia Spear Unit at full strength and with their necessary equipment ready.",
+    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/><h>Lòng dân</> cho mỗi Đại đội Dân quân Kiếm khiên hoặc Dân quân Giáo đủ quân số và trang bị sẵn sàng.",
+    "offset": 93556,
+    "length": 164
+  },
+  {
+    "key": "WeaponExportValueIncrease",
+    "en": "Increased Weapon Export Value",
+    "vi": "Tăng giá xuất khẩu vũ khí",
+    "offset": 98855,
+    "length": 30
+  },
+  {
+    "key": "WeaponExportValueIncrease_desc",
+    "en": "Spears, Sidearms & Polearms <img id=\"ItemID_0\"/><h>Export Value</>: +30%.",
+    "vi": "<img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Giáo, Kiếm ngắn & Vũ khí cán dài: +30%.",
+    "offset": 99887,
+    "length": 74
+  },
+  {
+    "key": "BlacksmithYieldIncrease",
+    "en": "Increased Blacksmith Efficiency",
+    "vi": "Tăng hiệu suất Thợ rèn",
+    "offset": 102759,
+    "length": 32
+  },
+  {
+    "key": "BlacksmithYieldIncrease_desc",
+    "en": "<h>Blacksmith</> <img id=\"efficiency\"/><h>Efficiency</>: +20%",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ rèn</>: +20%",
+    "offset": 103755,
+    "length": 62
+  },
+  {
+    "key": "ImprovedStonemasonsStation",
+    "en": "Improved Stonemason's Station",
+    "vi": "Cải thiện Trại thợ đẽo đá",
+    "offset": 105984,
+    "length": 30
+  },
+  {
+    "key": "ImprovedStonemasonsStation_desc",
+    "en": "<h>Stone Mason's Station</> <img id=\"efficiency\"/><h>Efficiency</>: +30%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Trại thợ đẽo đá</>: +30%.",
+    "offset": 106885,
+    "length": 74
+  },
+  {
+    "key": "CastleCostReduction",
+    "en": "Reduced Castle Planner Cost",
+    "vi": "Giảm chi phí Quy hoạch Lâu đài",
+    "offset": 109404,
+    "length": 28
+  },
+  {
+    "key": "perkeffects_29696",
+    "en": "Menor custo no planificador de castelo",
+    "vi": "Giảm chi phí Quy hoạch Lâu đài",
+    "offset": 109755,
+    "length": 39
+  },
+  {
+    "key": "CastleCostReduction_desc",
+    "en": "<h>Castle Planner</> construction cost: -30%.",
+    "vi": "Chi phí xây dựng <h>Quy hoạch Lâu đài</>: -30%.",
+    "offset": 110429,
+    "length": 46
+  },
+  {
+    "key": "perkeffects_11776",
+    "en": "Bouwkosten <h>kasteelplanner</>: -30%.",
+    "vi": "Chi phí xây dựng <h>Quy hoạch Lâu đài</>: -30%.",
+    "offset": 111989,
+    "length": 39
+  },
+  {
+    "key": "HuntingAndFishingProductivityPenalty",
+    "en": "Decreased Labor Speed for Hunting and Fishing",
+    "vi": "Giảm tốc độ săn bắn và câu cá",
+    "offset": 112095,
+    "length": 46
+  },
+  {
+    "key": "HuntingAndFishingProductivityPenalty_desc",
+    "en": "<img id=\"productivity\"/><h>Labor Speed</> for <h>Hunting Camp</> and <h>Fisherman's Hut</>: -20%.",
+    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Trại thợ săn</> và <h>Lán đánh cá</>: -20%.",
+    "offset": 113524,
+    "length": 98
+  },
+  {
+    "key": "OxHandlerSpeedBuff",
+    "en": "Ox Handler speed increase",
+    "vi": "Tăng tốc độ Người dắt bò",
+    "offset": 117023,
+    "length": 26
+  },
+  {
+    "key": "OxHandlerSpeedBuff_desc",
+    "en": "<h>Ox Handlers</> and their <img id=\"Ox\"/><h>Oxen</> move with +10% increased speed when assigned to <h>Hitching Posts</> or <h>Stables</>.",
+    "vi": "<h>Người dắt bò</> và đàn <img id=\"Ox\"/><h>Bò kéo</> di chuyển nhanh hơn +10% khi được phân công vào <h>Cọc buộc gia súc</> hoặc <h>Chuồng gia súc</>.",
+    "offset": 118019,
+    "length": 140
+  },
+  {
+    "key": "ArmorerArtisanBuff",
+    "en": "Improved Armorers",
+    "vi": "Cải thiện Thợ rèn giáp",
+    "offset": 122836,
+    "length": 18
+  },
+  {
+    "key": "ArmorerArtisanBuff_desc",
+    "en": "<h>Armorer</> <img id=\"efficiency\"/><h>Efficiency</>: +20%. Helmets, Mail Armor & Plate Armor <img id=\"ItemID_0\"/><h>Export Value</>: +20%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Thợ rèn giáp</>: +20%. <img id=\"ItemID_0\"/><h>Giá trị xuất khẩu</> của Mũ sắt, Giáp xích & Giáp tấm: +20%.",
+    "offset": 123502,
+    "length": 140
+  },
+  {
+    "key": "ImprovedMineMaintenance",
+    "en": "Improved Mine Integrity",
+    "vi": "Tăng độ bền vững hầm mỏ",
+    "offset": 129007,
+    "length": 24
+  },
+  {
+    "key": "ImprovedMineMaintenance_desc",
+    "en": "Proximity of <h>Mines</> are no longer a factor for <h>Collapse Chance</>. <h>Maintenance Durability</> of all <h>Mines</>: +30%. (Applies on delivery).",
+    "vi": "Khoảng cách giữa các <h>Hầm mỏ</> không còn làm tăng <h>Nguy cơ sập hầm</>. <h>Độ bền bảo trì</> của mọi <h>Hầm mỏ</>: +30%.",
+    "offset": 129810,
+    "length": 153
+  },
+  {
+    "key": "MiningTradeDiscounts",
+    "en": "Mining Import discounts",
+    "vi": "Giảm chi phí thương mại khoáng sản",
+    "offset": 135320,
+    "length": 24
+  },
+  {
+    "key": "MiningTradeDiscounts_desc",
+    "en": "<h>Trade Routes</> for Iron Ore and Salt are free to establish. Iron Ore and Salt <img id=\"ItemID_0\"/><h>Import Value</>: -30%.",
+    "vi": "Miễn phí mở <h>Tuyến giao thương</> cho Quặng sắt và Muối. <img id=\"ItemID_0\"/><h>Giá nhập khẩu</> Quặng sắt và Muối: -30%.",
+    "offset": 136238,
+    "length": 128
+  },
+  {
+    "key": "RetinueHireCostPenalty",
+    "en": "Increased Retinue cost",
+    "vi": "Tăng chi phí Cận vệ",
+    "offset": 141042,
+    "length": 23
+  },
+  {
+    "key": "RetinueHireCostPenalty_desc",
+    "en": "<h>Retinue</> <img id=\"Treasury\"/><h>Treasury</> cost is doubled.",
+    "vi": "Chi phí tuyển dụng <h>Đội cận vệ</> từ <img id=\"Treasury\"/><h>Ngân khố</> tăng gấp đôi.",
+    "offset": 141903,
+    "length": 66
+  },
+  {
+    "key": "EfficientElevationFarming",
+    "en": "Efficient Farming at Elevation",
+    "vi": "Canh tác hiệu quả trên vùng đất cao",
+    "offset": 144589,
+    "length": 31
+  },
+  {
+    "key": "EfficientElevationFarming_desc",
+    "en": "<img id=\"efficiency\"/><h>Efficiency</> when Farming on <h>Elevation</>: +20%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> khi làm nông trên <h>Địa hình cao</>: +20%.",
+    "offset": 145595,
+    "length": 78
+  },
+  {
+    "key": "LivestockImportDiscounts",
+    "en": "Cheaper Animal Imports",
+    "vi": "Giảm giá mua gia súc",
+    "offset": 148423,
+    "length": 23
+  },
+  {
+    "key": "LivestockImportDiscounts_desc",
+    "en": "All Animals (Oxen, Mules, Horses, Sheep, Lambs, Goats, Pigs and Chickens) <img id=\"ItemID_0\"/><h>Import Value</>: -20%.",
+    "vi": "<img id=\"ItemID_0\"/><h>Giá nhập khẩu</> mọi loại Gia súc (Bò, La, Ngựa, Cừu, Cừu non, Dê, Lợn và Gà): -20%.",
+    "offset": 149324,
+    "length": 120
+  },
+  {
+    "key": "MiningSpeedIncrease",
+    "en": "Increased Mining Labor Speed",
+    "vi": "Tăng tốc độ khai thác mỏ",
+    "offset": 153456,
+    "length": 29
+  },
+  {
+    "key": "MiningSpeedIncrease_desc",
+    "en": "<h>Mining Pit</>, <h>Deep Mine</> <img id=\"productivity\"/><h>Labor Speed</>: +20%.",
+    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Hố mỏ</>, <h>Mỏ sâu</>: +20%.",
+    "offset": 154620,
+    "length": 83
+  },
+  {
+    "key": "ArtisanEfficiencyPenalty",
+    "en": "Artisan Efficiency malus",
+    "vi": "Giảm hiệu suất Thợ thủ công",
+    "offset": 157890,
+    "length": 25
+  },
+  {
+    "key": "ArtisanEfficiencyPenalty_desc",
+    "en": "All <h>Artisan</> Workshops <img id=\"efficiency\"/><h>Efficiency</>: -20%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của mọi Xưởng <h>Thợ thủ công</>: -20%.",
+    "offset": 158950,
+    "length": 74
+  },
+  {
+    "key": "ReducedClothingConsumption",
+    "en": "Clothing Durability increase",
+    "vi": "Tăng độ bền quần áo",
+    "offset": 161840,
+    "length": 29
+  },
+  {
+    "key": "ReducedClothingConsumption_desc",
+    "en": "Consumption of all Clothing Goods: -50%",
+    "vi": "Mức tiêu hao mọi loại Quần áo: -50%",
+    "offset": 162650,
+    "length": 40
+  },
+  {
+    "key": "ResilientSheep",
+    "en": "Sheep are more resilient",
+    "vi": "Cừu dẻo dai chịu rét",
+    "offset": 163951,
+    "length": 25
+  },
+  {
+    "key": "ResilientSheep_desc",
+    "en": "<h>Sheep</> no longer die at <h>High Elevation</> during Winter months.",
+    "vi": "<h>Cừu</> không còn bị chết trên <h>Vùng núi cao</> trong những tháng mùa đông.",
+    "offset": 164736,
+    "length": 72
+  },
+  {
+    "key": "IncreasedHunterYield",
+    "en": "Efficient Hunting Camps",
+    "vi": "Trại thợ săn hiệu quả cao",
+    "offset": 167039,
+    "length": 24
+  },
+  {
+    "key": "IncreasedHunterYield_desc",
+    "en": "<h>Hunting Camp</> <img id=\"efficiency\"/><h>Efficiency</>: +50%.",
+    "vi": "<img id=\"efficiency\"/><h>Hiệu suất</> của <h>Trại thợ săn</>: +50%.",
+    "offset": 167854,
+    "length": 65
+  },
+  {
+    "key": "TradeRouteCostPenalty",
+    "en": "Trade Routes are more costly",
+    "vi": "Tăng chi phí mở Tuyến giao thương",
+    "offset": 170347,
+    "length": 29
+  },
+  {
+    "key": "TradeRouteCostPenalty_desc",
+    "en": "Establishing a <h>Trade Route</> cost: +20%.",
+    "vi": "Chi phí mở <h>Tuyến giao thương</> mới: +20%.",
+    "offset": 171275,
+    "length": 45
+  },
+  {
+    "key": "ImprovedStoneGathering",
+    "en": "Improved Stone Gatherer Camp",
+    "vi": "Cải thiện Trại nhặt đá",
+    "offset": 172987,
+    "length": 29
+  },
+  {
+    "key": "ImprovedStoneGathering_desc",
+    "en": "<h>Stone Gatherer Camp</> <img id=\"productivity\"/><h>Labor Speed</>: +30%",
+    "vi": "<img id=\"productivity\"/><h>Tốc độ làm việc</> của <h>Trại nhặt đá</>: +30%",
+    "offset": 173888,
+    "length": 74
+  },
+  {
+    "key": "---DEPREC---",
+    "en": "Bonus Crop Yields",
+    "vi": "Tăng sản lượng nông sản",
+    "offset": 176849,
+    "length": 18
+  },
+  {
+    "key": "FertilityBonus_desc",
+    "en": "All fields in this region gain a Fertility bonus for each different crop in the region",
+    "vi": "Tất cả cánh đồng trong vùng được cộng thêm Độ màu mỡ cho mỗi loại cây trồng khác nhau có trong vùng",
+    "offset": 177632,
+    "length": 87
+  },
+  {
+    "key": "ForestArcherBonus",
+    "en": "Increased Archer Damage",
+    "vi": "Tăng sát thương cho Cung thủ",
+    "offset": 180679,
+    "length": 24
+  },
+  {
+    "key": "ForestArcherBonus_desc",
+    "en": "Archers gain a major damage bonus in forests",
+    "vi": "Cung thủ nhận được lượng lớn sát thương cộng thêm khi đứng trong rừng",
+    "offset": 181516,
+    "length": 45
+  },
+  {
+    "key": "BackyardAgricultureBonus",
+    "en": "Improved Backyard Agriculture and Husbandry",
+    "vi": "Cải thiện Vườn và Chuồng trại sân sau",
+    "offset": 183279,
+    "length": 44
+  },
+  {
+    "key": "BackyardAgricultureBonus_desc",
+    "en": "Animal Husbandry and Backyard Agriculture has a higher yield",
+    "vi": "Chăn nuôi và trồng trọt ở sân sau mang lại sản lượng cao hơn",
+    "offset": 184570,
+    "length": 61
+  },
+  {
+    "key": "Lv1BurgagePlotBuff",
+    "en": "Lvl1 Burbage Plots Approval Bonus",
+    "vi": "Cộng điểm Lòng dân cho Nhà dân Cấp 1",
+    "offset": 186524,
+    "length": 34
+  },
+  {
+    "key": "Lv1BurgagePlotBuff_desc",
+    "en": "Living in a Lv1 Burgage Plot applies a small amount of bonus passive <h>APPROVAL</> per family",
+    "vi": "Sống trong Nhà dân Cấp 1 mang lại một lượng nhỏ điểm <h>LÒNG DÂN</> thụ động mỗi hộ",
+    "offset": 187843,
+    "length": 95
+  },
+  {
+    "key": "DoubleStallStorage",
+    "en": "Double stall storage",
+    "vi": "Gấp đôi sức chứa sạp chợ",
+    "offset": 191189,
+    "length": 21
+  },
+  {
+    "key": "DoubleStallStorage_Desc",
+    "en": "Double the storage size in each stall",
+    "vi": "Tăng gấp đôi sức chứa hàng hóa trong mỗi sạp chợ",
+    "offset": 192051,
+    "length": 38
+  },
+  {
+    "key": "ZweibackProduction",
+    "en": "Zweiback Production",
+    "vi": "Sản xuất bánh mì khô Zweiback",
+    "offset": 193496,
+    "length": 20
+  },
+  {
+    "key": "ZweibackProduction_desc",
+    "en": "Enables the production of <img id=\"itemID_324\"/> <h>Zweiback</> in <h>Bakeries</>, a more durable, spoil resistant form of bread.",
+    "vi": "Cho phép nướng <img id=\"itemID_324\"/> <h>Bánh mì khô Zweiback</> tại <h>Lò bánh mì</>, một loại bánh để được rất lâu và chống ôi thiu.",
+    "offset": 194143,
+    "length": 130
+  },
+  {
+    "key": "SmokedFishProduction",
+    "en": "Smoked Fish Production",
+    "vi": "Chế biến cá hun khói",
+    "offset": 198706,
+    "length": 23
+  },
+  {
+    "key": "SmokedFishProduction_desc",
+    "en": "Enables the production of <img id=\"itemID_323\"/><h>Smoked Fish</> by combining <img id=\"itemID_30\"/><h>Fish</> and <img id=\"itemID_145\"/><h>Salt</>.",
+    "vi": "Cho phép chế biến <img id=\"itemID_323\"/><h>Cá hun khói</> bằng cách ướp <img id=\"itemID_30\"/><h>Cá tươi</> với <img id=\"itemID_145\"/><h>Muối</>.",
+    "offset": 199499,
+    "length": 149
+  },
+  {
+    "key": "WinterFishing",
+    "en": "Winter Fishing",
+    "vi": "Đánh bắt cá mùa đông",
+    "offset": 204423,
+    "length": 15
+  },
+  {
+    "key": "WinterFishing_desc",
+    "en": "Fishermen are able to fish during the Winter",
+    "vi": "Ngư dân có thể đục băng câu cá xuyên suốt mùa đông",
+    "offset": 204894,
+    "length": 45
+  },
+  {
+    "key": "RegionMoraleBoost",
+    "en": "Regional Morale Boost",
+    "vi": "Tăng tinh thần quân đội toàn vùng",
+    "offset": 205979,
+    "length": 22
+  },
+  {
+    "key": "RegionMoraleBoost_desc",
+    "en": "Troops in this Region will fight with improved Morale",
+    "vi": "Binh lính tại Vùng này sẽ chiến đấu với Tinh thần cao hơn",
+    "offset": 206748,
+    "length": 54
+  },
+  {
+    "key": "FlatRegionApprovalBuff",
+    "en": "Improved Regional Approval",
+    "vi": "Tăng Lòng dân toàn vùng",
+    "offset": 208502,
+    "length": 27
+  },
+  {
+    "key": "FlatRegionApprovalBuff_desc",
+    "en": "All <h>Families</> in this region provide a small amount of passive <h>Approval</>",
+    "vi": "Mọi <h>Hộ dân</> trong vùng mang lại một lượng nhỏ điểm <h>Lòng dân</> thụ động",
+    "offset": 209452,
+    "length": 83
+  },
+  {
+    "key": "ApprovalAndInfluenceFromCombatDeaths",
+    "en": "Regional victories provide <h>INFLUENCE</> and <h>APPROVAL</>",
+    "vi": "Chiến thắng vùng đem lại <h>UY DANH</> và <h>LÒNG DÂN</>",
+    "offset": 212233,
+    "length": 62
+  },
+  {
+    "key": "ApprovalAndInfluenceFromCombatDeaths_desc",
+    "en": "This region will recieve <h>APPROVAL</> and <h>INFLUENCE</> for every foreign troop defeated on it's soil",
+    "vi": "Vùng này sẽ nhận được <h>LÒNG DÂN</> và <h>UY DANH</> cho mỗi tên lính ngoại bang bị tiêu diệt trên mảnh đất này",
+    "offset": 214151,
+    "length": 106
+  },
+  {
+    "key": "Lv1BurgagePlotWealthBuff",
+    "en": "Increase Lvl1 Burgage Plot Wealth Generation",
+    "vi": "Tăng thu nhập từ Nhà dân Cấp 1",
+    "offset": 217729,
+    "length": 45
+  },
+  {
+    "key": "Lv1BurgagePlotWealthBuff_desc",
+    "en": "Lvl1 Burgage Plots generate an increased amount of passive wealth",
+    "vi": "Nhà dân Cấp 1 tạo ra thêm của cải thụ động hàng tháng",
+    "offset": 219307,
+    "length": 66
+  },
+  {
+    "key": "BackyardAgricultureNerf",
+    "en": "<r>Decreased Backyard Agriculture and Husbandry yields</>",
+    "vi": "<r>Giảm sản lượng vườn và chuồng trại sân sau</>",
+    "offset": 221523,
+    "length": 58
+  },
+  {
+    "key": "BackyardAgricultureNerf_desc",
+    "en": "Decrease the amount of goods produced from backyard crops, orchards and animal pens",
+    "vi": "Giảm lượng hàng hóa thu hoạch từ cây trồng, vườn cây ăn quả và chuồng gia súc ở sân sau",
+    "offset": 223328,
+    "length": 84
+  },
+  {
+    "key": "CheaperLv2BurgagePlots",
+    "en": "Cheaper Lv2 Burgage Plots",
+    "vi": "Giảm chi phí nâng cấp lên Nhà dân Cấp 2",
+    "offset": 226066,
+    "length": 26
+  },
+  {
+    "key": "CheaperLv2BurgagePlots_desc",
+    "en": "Cost to upgrade to Lv2 Burgage Plots is drastically reduced",
+    "vi": "Chi phí nâng cấp lên Nhà dân Cấp 2 giảm mạnh",
+    "offset": 227127,
+    "length": 60
+  },
+  {
+    "key": "ImprovedUpHillSpeed",
+    "en": "Increased up hill walk speed",
+    "vi": "Tăng tốc độ leo dốc",
+    "offset": 229278,
+    "length": 29
+  },
+  {
+    "key": "ImprovedUpHillSpeed_desc",
+    "en": "Decrease the uphill walk penalty for animals and villagers in this region",
+    "vi": "Giảm mức phạt tốc độ khi đi lên dốc cho gia súc và dân làng trong vùng",
+    "offset": 230387,
+    "length": 74
+  },
+  {
+    "key": "IncreasedMoveSpeed",
+    "en": "Increase villager and animal walk speed",
+    "vi": "Tăng tốc độ di chuyển của dân làng và vật nuôi",
+    "offset": 233056,
+    "length": 40
+  },
+  {
+    "key": "IncreasedMoveSpeed_desc",
+    "en": "Villager and animals in this region walk marginally faster",
+    "vi": "Dân làng và vật nuôi trong vùng di chuyển nhanh hơn một chút",
+    "offset": 234526,
+    "length": 59
+  },
+  {
+    "key": "DecreasedApprovalLossFromTaxation",
+    "en": "Less <h>APPROVAL</> loss from Taxation",
+    "vi": "Giảm mất <h>LÒNG DÂN</> khi thu thuế",
+    "offset": 236677,
+    "length": 39
+  },
+  {
+    "key": "DecreasedApprovalLossFromTaxation_desc",
+    "en": "Decrease the amount of Approval lost by means of Taxation",
+    "vi": "Giảm lượng điểm Lòng dân bị sụt giảm do các chính sách Thu thuế",
+    "offset": 238114,
+    "length": 58
+  },
+  {
+    "key": "IncreaseBasicItemPrices",
+    "en": "Increase basic item prices",
+    "vi": "Tăng giá bán hàng hóa cơ bản",
+    "offset": 240026,
+    "length": 27
+  },
+  {
+    "key": "IncreaseBasicItemPrices_desc",
+    "en": "Increase the trade prices of basic, Minor trade items",
+    "vi": "Tăng giá giao thương của các mặt hàng cơ bản và hàng hóa nhỏ",
+    "offset": 241033,
+    "length": 54
+  },
+  {
+    "key": "perkeffects_11776",
+    "en": "<r>Decreased logger speed</>",
+    "vi": "<r>Giảm tốc độ xẻ gỗ</>",
+    "offset": 242896,
+    "length": 29
+  },
+  {
+    "key": "DecreasedLoggerSpeed_desc",
+    "en": "Increase the time taken to turn <img id=\"itemID_16\"/><h>TIMBER</> into <img id=\"itemID_17\"/><h>PLANKS</>",
+    "vi": "Tăng thời gian xẻ <img id=\"itemID_16\"/><h>GỖ CÂY</> thành <img id=\"itemID_17\"/><h>VÁN GỖ</>",
+    "offset": 244108,
+    "length": 105
+  },
+  {
+    "key": "IncreasedPlowSpeed",
+    "en": "Increase manual plowing speed",
+    "vi": "Tăng tốc độ cày ruộng thủ công",
+    "offset": 247542,
+    "length": 30
+  },
+  {
+    "key": "IncreasedPlowSpeed_desc",
+    "en": "Increase the speed at which plants are tilled by means of manual plowing",
+    "vi": "Tăng tốc độ cày xới đất trồng bằng tay",
+    "offset": 248629,
+    "length": 73
+  },
+  {
+    "key": "DecreasedRaiderBribaryCost",
+    "en": "Decreased Raider bribary cost",
+    "vi": "Giảm tiền hối lộ giặc cướp",
+    "offset": 250555,
+    "length": 30
+  },
+  {
+    "key": "DecreasedRaiderBribaryCost_desc",
+    "en": "Decrease the cost of bribing an attacking force",
+    "vi": "Giảm lượng tiền cần thiết để đút lót lui quân một đạo quân cướp phá",
+    "offset": 251642,
+    "length": 48
+  },
+  {
+    "key": "IncreaseRegionWealthFromTrade",
+    "en": "Increased Region Wealth generation from Trade",
+    "vi": "Tăng Tài sản vùng từ Giao thương",
+    "offset": 253122,
+    "length": 46
+  },
+  {
+    "key": "IncreaseRegionWealthFromTrade_desc",
+    "en": "Increase the amount of Regional Wealth generation from trade",
+    "vi": "Tăng lượng Tài sản vùng thu được từ các hoạt động buôn bán",
+    "offset": 254508,
+    "length": 61
+  },
+  {
+    "key": "DecreasedDeepMineCollapseChance",
+    "en": "Decreased Deep Mine Collapse Chance",
+    "vi": "Giảm nguy cơ sập Mỏ sâu",
+    "offset": 256408,
+    "length": 36
+  },
+  {
+    "key": "DecreasedDeepMineCollapseChance_desc",
+    "en": "Decrease the chance of deep mine collapsing when multiple mines are within a radius of one another",
+    "vi": "Giảm nguy cơ sập mỏ sâu khi có nhiều hầm mỏ đặt gần nhau",
+    "offset": 257693,
+    "length": 99
+  },
+  {
+    "key": "ReduceMineUpkeep",
+    "en": "Reduce Mine Upkeep",
+    "vi": "Giảm chi phí bảo trì hầm mỏ",
+    "offset": 260813,
+    "length": 19
+  },
+  {
+    "key": "ReduceMineUpkeep_desc",
+    "en": "Decrease the rate in which supplies are needed for maintenance.",
+    "vi": "Giảm tần suất cần vật tư để bảo dưỡng hầm mỏ.",
+    "offset": 261727,
+    "length": 64
+  },
+  {
+    "key": "MeadProduction",
+    "en": "Mead Production",
+    "vi": "Nấu rượu mật ong (Mead)",
+    "offset": 263702,
+    "length": 16
+  },
+  {
+    "key": "MeadProduction_desc",
+    "en": "Enables the production of Mead in brewerys.",
+    "vi": "Cho phép nấu Rượu mật ong tại các xưởng ủ bia.",
+    "offset": 264296,
+    "length": 44
+  },
+  {
+    "key": "LebkuchenProduction",
+    "en": "Lebkuchen Production",
+    "vi": "Làm bánh gừng Lebkuchen",
+    "offset": 265778,
+    "length": 21
+  },
+  {
+    "key": "LebkuchenProduction_desc",
+    "en": "Enables the production of <img ID=\"itemID_326\"/><h>Lebkuchen</> in bakeries. A form of bread.",
+    "vi": "Cho phép nướng bánh gừng <img ID=\"itemID_326\"/><h>Lebkuchen</> tại lò bánh mì.",
+    "offset": 266412,
+    "length": 94
+  },
+  {
+    "key": "CiderProduction",
+    "en": "Cider Production",
+    "vi": "Nấu rượu táo Cider",
+    "offset": 269413,
+    "length": 17
+  },
+  {
+    "key": "CiderProduction_desc",
+    "en": "Enabled the production of <img ID=\"itemID_327\"/><h>Cider</> in breweries. A form of drink for the <h>Tavern</>",
+    "vi": "Cho phép ủ rượu táo <img ID=\"itemID_327\"/><h>Cider</> tại xưởng bia phục vụ <h>Quán bia</>",
+    "offset": 269959,
+    "length": 111
+  },
+  {
+    "key": "AdditionalPollinationBonus",
+    "en": "Additional Pollination Bonus",
+    "vi": "Tăng hiệu quả thụ phấn",
+    "offset": 273579,
+    "length": 29
+  },
+  {
+    "key": "AdditionalPollinationBonus_desc",
+    "en": "Apiaries provide an additional pollination bonus to Berries and Orchards in this region.",
+    "vi": "Trại nuôi ong mang lại thêm điểm thưởng thụ phấn cho Quả mọng và Vườn cây ăn quả trong vùng.",
+    "offset": 274421,
+    "length": 89
+  },
+  {
+    "key": "TradeRoutesImprovesApproval",
+    "en": "Trade Routes increase Approval",
+    "vi": "Tuyến giao thương giúp tăng Lòng dân",
+    "offset": 277182,
+    "length": 31
+  },
+  {
+    "key": "TradeRoutesImprovesApproval_desc",
+    "en": "Approval is gained from each dedicated Trade Route",
+    "vi": "Nhận thêm điểm Lòng dân cho mỗi Tuyến giao thương chuyên dụng được thiết lập",
+    "offset": 278391,
+    "length": 51
+  },
+  {
+    "key": "GainInfluenceFromTrading",
+    "en": "Gain Influence From Trading",
+    "vi": "Nhận Uy danh từ Giao thương",
+    "offset": 280178,
+    "length": 28
+  },
+  {
+    "key": "GainInfluenceFromTrading_desc",
+    "en": "The flourishing market and its profits have not gone unnoticed in the empire and put you in a more favorable negotiating position. But be warned, your rule is not set in stone.",
+    "vi": "Khu chợ sầm uất và lợi nhuận dồi dào thu hút sự chú ý khắp đế chế, giúp nâng cao vị thế đàm phán và mang lại thêm Uy danh.",
+    "offset": 281032,
+    "length": 177
+  },
+  {
+    "key": "IncreaseImmigrationRate",
+    "en": "Increased immigration Rate",
+    "vi": "Tăng tốc độ di dân nhập cư",
+    "offset": 286922,
+    "length": 27
+  },
+  {
+    "key": "IncreaseImmigrationRate_Desc",
+    "en": "Increase the rate at which families move into empty homes",
+    "vi": "Tăng tốc độ các hộ dân mới dọn vào những căn nhà còn trống",
+    "offset": 287798,
+    "length": 58
+  },
+  {
+    "key": "ForagingHutSupportsExtraFamilies",
+    "en": "Foraging Hut Supports Extra Families",
+    "vi": "Lán hái lượm chứa thêm Hộ dân",
+    "offset": 289625,
+    "length": 37
+  },
+  {
+    "key": "ForagingHutSupportsExtraFamilies_desc",
+    "en": "Extra families able to inhabit foraging huts when perk is active.",
+    "vi": "Cho phép thêm hộ dân làm việc tại Lán hái lượm khi kích hoạt đặc quyền.",
+    "offset": 290905,
+    "length": 66
+  },
+  {
+    "key": "PasturesGainAnElevationBonus",
+    "en": "Pastures Gain An Elevation Bonus",
+    "vi": "Đồng cỏ nhận điểm thưởng địa hình cao",
+    "offset": 293457,
+    "length": 33
+  },
+  {
+    "key": "PasturesGainAnElevationBonus_desc",
+    "en": "This is the value for how much more sheep yield you will receive when the New Horizon perk is active, also removes the risk of sheep dying in winter months.",
+    "vi": "Tăng sản lượng thu được từ cừu khi kích hoạt đặc quyền Chân trời mới, đồng thời loại bỏ nguy cơ cừu chết vì giá rét trong mùa đông.",
+    "offset": 294510,
+    "length": 157
+  },
+  {
+    "key": "InterestOnRegionalWealth",
+    "en": "Interest On Regional Wealth",
+    "vi": "Lãi suất sinh sôi từ Tài sản vùng",
+    "offset": 299518,
+    "length": 28
+  },
+  {
+    "key": "InterestOnRegionalWealth_desc",
+    "en": "Increase regional wealth on a monthly basics by a percentage increase with the market rights perk active.",
+    "vi": "Tài sản vùng tự động sinh lãi hàng tháng theo tỷ lệ phần trăm khi kích hoạt đặc quyền Đặc quyền thương mại.",
+    "offset": 300485,
+    "length": 106
+  },
+  {
+    "key": "GainInfluenceFromRegionalWealth",
+    "en": "Gain Influence From Regional Wealth",
+    "vi": "Nhận Uy danh khi chi tiêu Tài sản vùng",
+    "offset": 303808,
+    "length": 36
+  },
+  {
+    "key": "GainInfluenceFromRegionalWealth_desc",
+    "en": "After spending Regional Wealth, gain Influence equal to a proportion of its cost",
+    "vi": "Sau khi chi tiêu Tài sản vùng, nhận được điểm Uy danh tương ứng với tỷ lệ số tiền đã bỏ ra",
+    "offset": 304988,
+    "length": 81
+  },
+  {
+    "key": "BurgagePlotProduceMoreRegionalWealthWhenApprovalIsHigh",
+    "en": "Burgage Plot Produce More Regional Wealth When Approval Is High",
+    "vi": "Nhà dân tạo thêm của cải khi Lòng dân cao",
+    "offset": 307674,
+    "length": 64
+  },
+  {
+    "key": "BurgagePlotProduceMoreRegionalWealthWhenApprovalIsHigh_desc",
+    "en": "Your rule is not taken for granted, but means daily negotiations with your subjects. Stable and prospective times are only possible if they are satisfied with you as their ruler.",
+    "vi": "Sự ủng hộ của dân chúng giúp thúc đẩy kinh tế. Khi thần dân hài lòng, các căn nhà dân sẽ đóng góp nhiều Tài sản vùng hơn.",
+    "offset": 309962,
+    "length": 179
+  },
+  {
+    "key": "ProficiencyApprovalBuff",
+    "en": "Flat Proficiency Boost",
+    "vi": "Tăng độ thành thạo chung",
+    "offset": 316028,
+    "length": 23
+  },
+  {
+    "key": "ProficiencyApprovalBuff_Desc",
+    "en": "Gain a flat amount of Proficiency in all buildings, that decays as you get further away from 50% approval",
+    "vi": "Nhận lượng lớn Độ thành thạo cho tất cả công trình, mức thưởng sẽ giảm dần nếu điểm Lòng dân chênh lệch xa mốc 50%",
+    "offset": 316832,
+    "length": 106
+  },
+  {
+    "key": "CombatHillEffectiveness",
+    "en": "Incrase Combat Effectiveness on Hills",
+    "vi": "Tăng hiệu quả chiến đấu trên đồi núi",
+    "offset": 320688,
+    "length": 38
+  },
+  {
+    "key": "CombatHillEffectiveness_desc",
+    "en": "Soldiers from this region go uphill faster, and gain a damage bonus when fighting on a hill.",
+    "vi": "Binh lính từ vùng này di chuyển lên dốc nhanh hơn và được tăng sát thương khi giao chiến trên đồi cao.",
+    "offset": 321903,
+    "length": 93
+  },
+  {
+    "key": "DoubleMushroomCapacity",
+    "en": "Double Mushroom Capacity",
+    "vi": "Gấp đôi sản lượng Bãi nấm",
+    "offset": 325327,
+    "length": 25
+  },
+  {
+    "key": "DoubleMushroomCapacity_Desc",
+    "en": "Double the amount of mushrooms avaliable in each clump",
+    "vi": "Gấp đôi lượng nấm có thể thu hoạch trong mỗi bãi nấm",
+    "offset": 326166,
+    "length": 55
+  },
+  {
+    "key": "RuralBuildingProficiencyBuff",
+    "en": "Rural Buildings Proficiency buff",
+    "vi": "Tăng độ thành thạo công trình nông thôn",
+    "offset": 327889,
+    "length": 33
+  },
+  {
+    "key": "RuralBuildingProficiencyBuff_Desc",
+    "en": "Rural Buildings gain a flat amount of Proficiency",
+    "vi": "Các công trình nông thôn nhận thêm một lượng Độ thành thạo cố định",
+    "offset": 329102,
+    "length": 50
+  },
+  {
+    "key": "EfficiencyFromCraftsmanNetwork",
+    "en": "Gain efficiency from neighbouring regions",
+    "vi": "Nhận thêm hiệu suất từ các vùng lân bang",
+    "offset": 330943,
+    "length": 42
+  },
+  {
+    "key": "EfficiencyFromCraftsmanNetwork_Desc",
+    "en": "Industries in this Region gain efficiency for each adjacent Region with a settlement level of 3 or lower",
+    "vi": "Các ngành nghề trong Vùng nhận thêm hiệu suất cho mỗi Vùng lân cận có cấp độ định cư từ 3 trở xuống",
+    "offset": 332235,
+    "length": 105
+  },
+  {
+    "key": "CraftmenWithFilledAdditionalLivingSpaceOperateWithExtraProficiency",
+    "en": "Craftmen With Filled Additional Living Space Operate With Extra Proficiency",
+    "vi": "Thợ thủ công ở chung nhà làm việc với độ thành thạo vượt trội",
+    "offset": 335971,
+    "length": 76
+  },
+  {
+    "key": "CraftmenWithFilledAdditionalLivingSpaceOperateWithExtraProficiency_desc",
+    "en": "Extra Proficiency given to craftsmen with filled additional living space and work in the same building.",
+    "vi": "Cộng thêm Độ thành thạo cho các thợ thủ công ở cùng trong một thửa đất mở rộng và làm việc tại cùng một xưởng.",
+    "offset": 338103,
+    "length": 104
+  },
+  {
+    "key": "BuildingsNearRiverGainRegionWealth",
+    "en": "Buildings Near River Gain Region Wealth",
+    "vi": "Công trình ven sông sinh thêm Tài sản vùng",
+    "offset": 341430,
+    "length": 40
+  },
+  {
+    "key": "BuildingsNearRiverGainRegionWealth_desc",
+    "en": "Region wealth generation increased for all buildings close to rivers.",
+    "vi": "Tăng khả năng tạo ra Tài sản vùng cho tất cả công trình xây dựng gần bờ sông.",
+    "offset": 343002,
+    "length": 70
+  },
+  {
+    "key": "RegionalWealthGainedFromChurch",
+    "en": "Regional Wealth Gained From Church",
+    "vi": "Nhận Tài sản vùng từ Nhà thờ",
+    "offset": 345450,
+    "length": 35
+  },
+  {
+    "key": "RegionalWealthGainedFromChurch_desc",
+    "en": "Region wealth is gained from having a church in your region. The higher level the church, the more regional wealth this will generate.",
+    "vi": "Nhận thêm Tài sản vùng khi xây dựng Nhà thờ trong vùng. Cấp độ Nhà thờ càng cao thì của cải sinh ra càng nhiều.",
+    "offset": 346609,
+    "length": 135
+  },
+  {
+    "key": "UpgradeBurgagePlotsToTier1Industries",
+    "en": "Upgrade Burgage Plots To Tier-1 Industries",
+    "vi": "Nâng cấp Nhà dân thành Cơ sở tiểu thủ nghiệp Cấp 1",
+    "offset": 350826,
+    "length": 43
+  },
+  {
+    "key": "UpgradeBurgagePlotsToTier1Industries_desc",
+    "en": "Burgage plots can be upgraded into dedicated tier-1 industries (vegetable patches, chicken coops, etc)",
+    "vi": "Nhà dân có thể nâng cấp thành các cơ sở chuyên trách cấp 1 (vườn rau, chuồng gà, v.v.)",
+    "offset": 352482,
+    "length": 103
+  },
+  {
+    "key": "TenPercentTaxIncrease",
+    "en": "+10% Taxes",
+    "vi": "+10% Tiền thuế",
+    "offset": 355762,
+    "length": 11
+  },
+  {
+    "key": "TenPercentTaxIncrease_desc",
+    "en": "-10% decrease to regional wealth when perk is active.",
+    "vi": "-10% Tài sản vùng khi kích hoạt đặc quyền.",
+    "offset": 356278,
+    "length": 54
+  },
+  {
+    "key": "TenPercentRegionWealthDecrease",
+    "en": "-10% Regional Wealth",
+    "vi": "-10% Tài sản vùng",
+    "offset": 358170,
+    "length": 21
+  },
+  {
+    "key": "TenPercentRegionWealthDecrease_desc",
+    "en": "+10% increase to tax when perk is active.",
+    "vi": "+10% Tiền thuế thu được khi kích hoạt đặc quyền.",
+    "offset": 358992,
+    "length": 42
+  },
+  {
+    "key": "CraftsmenDoNotRequireAnyChurchLevel",
+    "en": "Craftsmen Do Not Require Any Church Level",
+    "vi": "Thợ thủ công không yêu cầu Cấp độ Nhà thờ",
+    "offset": 360581,
+    "length": 42
+  },
+  {
+    "key": "CraftsmenDoNotRequireAnyChurchLevel_desc",
+    "en": "Craftsmen do not require any Church level but -25% Influence from this settlement.",
+    "vi": "Thợ thủ công không đòi hỏi Cấp độ Nhà thờ nhưng giảm -25% Uy danh từ khu định cư này.",
+    "offset": 361824,
+    "length": 83
+  },
+  {
+    "key": "ProficiencyBonusForWeaponCraftsmen",
+    "en": "Proficiency Bonus For Weapon Craftsmen",
+    "vi": "Thưởng độ thành thạo cho thợ rèn vũ khí",
+    "offset": 364671,
+    "length": 39
+  },
+  {
+    "key": "ProficiencyBonusForWeaponCraftsmen_desc",
+    "en": "+25% Proficiency for weapon craftsmen",
+    "vi": "+25% Độ thành thạo cho thợ chế tạo vũ khí",
+    "offset": 365905,
+    "length": 38
+  },
+  {
+    "key": "DecreasedApproval",
+    "en": "Decreased Approval",
+    "vi": "Giảm Lòng dân",
+    "offset": 367150,
+    "length": 19
+  },
+  {
+    "key": "DecreasedApproval_desc",
+    "en": "-10 Approval",
+    "vi": "-10 điểm Lòng dân",
+    "offset": 367761,
+    "length": 13
+  },
+  {
+    "key": "RawResourcesPriceDeducation",
+    "en": "Raw Resources Price Deducation",
+    "vi": "Giảm giá mua tài nguyên thô",
+    "offset": 368272,
+    "length": 31
+  },
+  {
+    "key": "RawResourcesPriceDeducation_desc",
+    "en": "Raw resources (iron, leather, berries, etc) are paid for with 50% of the usual Regional Wealth cost",
+    "vi": "Tài nguyên thô (sắt, da, quả mọng, v.v.) chỉ tốn 50% chi phí Tài sản vùng thông thường",
+    "offset": 369185,
+    "length": 100
+  },
+  {
+    "key": "TaxGenerationReduction",
+    "en": "Tax Generation Reduction",
+    "vi": "Giảm nguồn thu thuế",
+    "offset": 372292,
+    "length": 25
+  },
+  {
+    "key": "TaxGenerationReduction_desc",
+    "en": "Tax generation reduced by 50%",
+    "vi": "Lượng tiền thuế thu được giảm đi 50%",
+    "offset": 373118,
+    "length": 30
+  },
+  {
+    "key": "DoubleBerryCapacity",
+    "en": "Double Berry Capacity",
+    "vi": "Gấp đôi trữ lượng Bụi quả mọng",
+    "offset": 374320,
+    "length": 22
+  },
+  {
+    "key": "DoubleBerryCapacity_desc",
+    "en": "Double the amount of berries avaliable in each clump",
+    "vi": "Gấp đôi số lượng quả mọng có sẵn trong mỗi bụi quả",
+    "offset": 375143,
+    "length": 53
+  },
+  {
+    "key": "ForestersPlantTreesAllYearRound",
+    "en": "Foresters Plant Trees All Year Round",
+    "vi": "Người trồng rừng ươm cây quanh năm",
+    "offset": 376800,
+    "length": 37
+  },
+  {
+    "key": "ForestersPlantTreesAllYearRound_desc",
+    "en": "Foresters can plant trees all year round.",
+    "vi": "Người trồng rừng có thể gieo trồng cây non vào mọi mùa trong năm.",
+    "offset": 377911,
+    "length": 42
+  }
+]

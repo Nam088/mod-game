@@ -1,0 +1,114 @@
+[
+  {
+    "key": "settlement_intro",
+    "en": "Establishing a Foothold",
+    "vi": "Xác lập chỗ đứng",
+    "offset": 24,
+    "length": 24
+  },
+  {
+    "key": "settlement_intro_descr",
+    "en": "There is a fire at the heart of every settlement: a bastion of safety and light against the darkness of the world.{br}{br}As you watch the flames of the camp's fireplace dwindle in the early morning mist, you can almost hear the ring of anvils, the tolling of bells, the cries of the marketplace. Possibilities.",
+    "vi": "Luôn có một đốm lửa bập bùng nơi trung tâm của mọi khu định cư: một pháo đài bình yên và ánh sáng chống lại màn đêm của thế giới.{br}{br}Khi bạn nhìn ngọn lửa của đống lửa trại lụi dần trong làn sương sớm mai, bạn như nghe thấy tiếng búa đập trên đe, tiếng chuông giáo đường ngân vang và tiếng hò reo nhộn nhịp nơi khu chợ. Những triển vọng tươi sáng đang mở ra trước mắt.",
+    "offset": 637,
+    "length": 312
+  },
+  {
+    "key": "manor_quest",
+    "en": "My Home is my Castle",
+    "vi": "Nhà ta là Lâu đài của ta",
+    "offset": 10297,
+    "length": 21
+  },
+  {
+    "key": "manor_quest_descr",
+    "en": "Good craftsmanship marries form and function. It is solid and reliable, but it dreams of perfection, just like good leadership. {br}{br}Perhaps that is why you've insisted that your servants bring your favorite chair with you. Covered in exquisite carvings of unicorns and griffons, the well-worn arms feel secure. But the chair is heavy, and it looks out of place in your temporary quarters, lavish as they may be. It deserves a place of honor in a great hall. {br}{br}You have provided homes and comforts for your people. Now it's time to plan your own residence.",
+    "vi": "Tay nghề thủ công thượng thừa luôn kết hợp hài hòa giữa vẻ đẹp và công năng. Vừa vững chãi, đáng tin cậy, lại vừa hướng tới sự hoàn mỹ — hệt như phẩm chất của một bậc minh quân.{br}{br}Có lẽ đó là lý do bạn kiên quyết yêu cầu gia nhân mang theo chiếc ghế yêu thích của mình. Được chạm khắc tinh xảo hình kỳ lân và điểu sư, tay vịn đã sờn bóng mang lại cảm giác an tâm lạ kỳ. Nhưng chiếc ghế quá nặng và trông lạc lõng trong khu lều tạm bợ này, dù nó có xa hoa đến đâu. Nó xứng đáng được đặt ở vị trí trang trọng trong một đại sảnh nguy nga.{br}{br}Bạn đã chăm lo nhà cửa và cuộc sống ấm no cho thần dân. Giờ là lúc quy hoạch dinh thự cho chính mình.",
+    "offset": 10952,
+    "length": 566
+  },
+  {
+    "key": "residential_quest",
+    "en": "The Humble Beginnings",
+    "vi": "Khởi đầu khiêm tốn",
+    "offset": 30397,
+    "length": 22
+  },
+  {
+    "key": "residential_quest_descr",
+    "en": "Your supplies are dry and secure, and the first stage of work is done. {br}{br}The stories your people tell around the fire are of the many dangers in the world, from beasts to blights. Soon, they'll teach these stories to their own children. {br}{br}It's time to bring more people to the settlement, now that they can take shelter in proper homes. {br}{br}For your lands to prosper and grow, you'll need not only workers, but families.",
+    "vi": "Hàng hóa dự trữ của bạn đã được che chắn khô ráo, an toàn, và giai đoạn đầu của công cuộc khai hoang đã hoàn tất.{br}{br}Những câu chuyện thần dân kể quanh đống lửa đêm là về muôn vàn hiểm nguy ngoài thế giới, từ thú dữ cho đến dịch bệnh. Chẳng bao lâu nữa, họ sẽ truyền lại những câu chuyện này cho con cháu.{br}{br}Đã đến lúc đón thêm người về khu định cư, khi họ đã có những mái nhà đàng hoàng để che mưa che nắng.{br}{br}Để lãnh địa sinh sôi và phát triển, bạn không chỉ cần nhân công, mà cần cả những hộ gia đình sum vầy.",
+    "offset": 31055,
+    "length": 437
+  },
+  {
+    "key": "lv2_quest",
+    "en": "Comforts and Conveniences",
+    "vi": "Tiện nghi và Đủ đầy",
+    "offset": 45983,
+    "length": 26
+  },
+  {
+    "key": "lv2_quest_descr",
+    "en": "As you walk the perimeter, surveying your village with pride, a woman walks past you, her back bent nearly double under a sturdy wattle basket. {br}{br}You ask how long she's been walking, and she tells you it's half a day now to get all the food she needs for her family from the huts surrounding the village. {br}{br}If only there was a marketplace where your people could acquire food, clothing, and firewood, they would be happier and have more time for other matters.",
+    "vi": "Khi bạn rảo bước quanh làng và tự hào ngắm nhìn thành quả, một người phụ nữ đi ngang qua, lưng còng gập dưới chiếc giỏ đan nặng trĩu.{br}{br}Bạn hỏi bà đã đi bộ bao lâu, bà đáp phải mất nửa ngày trời mới gom đủ thức ăn cho gia đình từ các lán nhỏ quanh làng.{br}{br}Giá như có một khu chợ tập trung nơi dân làng có thể mua lương thực, áo quần và củi sưởi, họ sẽ hạnh phúc hơn và có thêm thời gian lo việc khác.",
+    "offset": 46659,
+    "length": 473
+  },
+  {
+    "key": "royal_tax",
+    "en": "The Prince Demands",
+    "vi": "Sắc lệnh của Hoàng tử",
+    "offset": 62488,
+    "length": 19
+  },
+  {
+    "key": "royal_tax_descr",
+    "en": "To the region of {homeRegion}, you are hereby on omission of debt for the lands on which the royal crown has granted stewardship to the honorable {playerName}.  A tax is to be levied upon the land to be paid in precious wealth or labor.  Failure to submit payment will find the lands forfeit the governance under the stewards and returned to the crown.  ",
+    "vi": "Gửi đến vùng đất {homeRegion}, nay ban sắc lệnh truy thu nghĩa vụ nợ đối với vùng đất mà hoàng gia đã ban quyền quản lý cho {playerName} tôn kính. Thuế đất sẽ được đánh vào lãnh địa và phải nộp bằng của cải quý giá hoặc công lao động. Nếu không nộp đủ thuế, quyền cai trị vùng đất sẽ bị bãi bỏ và thu hồi về cho hoàng gia.  ",
+    "offset": 63064,
+    "length": 355
+  },
+  {
+    "key": "events_introduction_2",
+    "en": "Settlement Level Reached: Small Village",
+    "vi": "Đạt Cấp độ Định cư: Làng Nhỏ",
+    "offset": 74327,
+    "length": 40
+  },
+  {
+    "key": "events_introduction_3",
+    "en": "Settlement Level Reached: Medium Village",
+    "vi": "Đạt Cấp độ Định cư: Làng Vừa",
+    "offset": 75522,
+    "length": 41
+  },
+  {
+    "key": "events_introduction_4",
+    "en": "Settlement Level Reached: Large Village",
+    "vi": "Đạt Cấp độ Định cư: Làng Lớn",
+    "offset": 76728,
+    "length": 40
+  },
+  {
+    "key": "events_introduction_5",
+    "en": "Settlement Level Reached: Small Town",
+    "vi": "Đạt Cấp độ Định cư: Thị trấn Nhỏ",
+    "offset": 77947,
+    "length": 37
+  },
+  {
+    "key": "events_introduction_6",
+    "en": "Settlement Level Reached: Medium Town",
+    "vi": "Đạt Cấp độ Định cư: Thị trấn Vừa",
+    "offset": 79205,
+    "length": 38
+  },
+  {
+    "key": "events_introduction_7",
+    "en": "Settlement Level Reached: Large Town",
+    "vi": "Đạt Cấp độ Định cư: Thị trấn Lớn",
+    "offset": 80417,
+    "length": 37
+  }
+]

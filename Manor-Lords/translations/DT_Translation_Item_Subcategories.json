@@ -1,0 +1,191 @@
+[
+  {
+    "key": "EItemSubcategory::Vegetables",
+    "en": "Vegetables",
+    "vi": "Rau củ",
+    "offset": 24,
+    "length": 11
+  },
+  {
+    "key": "EItemSubcategory::Meats",
+    "en": "Meats",
+    "vi": "Thịt tươi",
+    "offset": 324,
+    "length": 6
+  },
+  {
+    "key": "EItemSubcategory::Grains",
+    "en": "Grains",
+    "vi": "Ngũ cốc",
+    "offset": 551,
+    "length": 7
+  },
+  {
+    "key": "EItemSubcategory::Preserves",
+    "en": "Preserves",
+    "vi": "Đồ bảo quản",
+    "offset": 815,
+    "length": 10
+  },
+  {
+    "key": "EItemSubcategory::AnimalProduce",
+    "en": "Animal Produce",
+    "vi": "Sản phẩm chăn nuôi",
+    "offset": 1173,
+    "length": 15
+  },
+  {
+    "key": "EItemSubcategory::Fruits",
+    "en": "Fruits",
+    "vi": "Hoa quả",
+    "offset": 1678,
+    "length": 7
+  },
+  {
+    "key": "EItemSubcategory::ForagedGoods",
+    "en": "Foraged Goods",
+    "vi": "Đồ hái lượm",
+    "offset": 1917,
+    "length": 14
+  },
+  {
+    "key": "EItemSubcategory::Fishes",
+    "en": "Fishes",
+    "vi": "Cá",
+    "offset": 2358,
+    "length": 7
+  },
+  {
+    "key": "EItemSubcategory::Fuels",
+    "en": "Fuels",
+    "vi": "Chất đốt",
+    "offset": 2579,
+    "length": 6
+  },
+  {
+    "key": "EItemSubcategory::Ingredients",
+    "en": "Ingredients",
+    "vi": "Nguyên liệu",
+    "offset": 2904,
+    "length": 12
+  },
+  {
+    "key": "EItemSubcategory::Textiles",
+    "en": "Textiles",
+    "vi": "Vải vóc & Len",
+    "offset": 3265,
+    "length": 9
+  },
+  {
+    "key": "EItemSubcategory::Minerals",
+    "en": "Minerals",
+    "vi": "Khoáng sản",
+    "offset": 3564,
+    "length": 9
+  },
+  {
+    "key": "EItemSubcategory::Metalworks",
+    "en": "Metalworks",
+    "vi": "Đồ kim khí",
+    "offset": 3874,
+    "length": 11
+  },
+  {
+    "key": "EItemSubcategory::Crops",
+    "en": "Crops",
+    "vi": "Nông sản",
+    "offset": 4284,
+    "length": 6
+  },
+  {
+    "key": "EItemSubcategory::Woodworks",
+    "en": "Woodworks",
+    "vi": "Đồ gỗ",
+    "offset": 4610,
+    "length": 10
+  },
+  {
+    "key": "EItemSubcategory::Stoneworks",
+    "en": "Stoneworks",
+    "vi": "Đồ đá",
+    "offset": 5026,
+    "length": 11
+  },
+  {
+    "key": "EItemSubcategory::Maintenance",
+    "en": "Maintenance",
+    "vi": "Bảo trì",
+    "offset": 5421,
+    "length": 12
+  },
+  {
+    "key": "EItemSubcategory::Roofing",
+    "en": "Roofing",
+    "vi": "Ngói lợp",
+    "offset": 5784,
+    "length": 8
+  },
+  {
+    "key": "EItemSubcategory::Clothing",
+    "en": "Garments",
+    "vi": "Quần áo",
+    "offset": 6092,
+    "length": 9
+  },
+  {
+    "key": "EItemSubcategory::Shoes",
+    "en": "Footwear",
+    "vi": "Giày dép",
+    "offset": 6379,
+    "length": 9
+  },
+  {
+    "key": "EItemSubcategory::Beverage",
+    "en": "Beverage",
+    "vi": "Đồ uống",
+    "offset": 6639,
+    "length": 9
+  },
+  {
+    "key": "EItemSubcategory::MeleeWeapons",
+    "en": "Melee Weapons",
+    "vi": "Vũ khí cận chiến",
+    "offset": 6903,
+    "length": 14
+  },
+  {
+    "key": "EItemSubcategory::RangedWeapons",
+    "en": "Ranged Weapons",
+    "vi": "Vũ khí tầm xa",
+    "offset": 7484,
+    "length": 15
+  },
+  {
+    "key": "EItemSubcategory::Armor",
+    "en": "Armor",
+    "vi": "Áo giáp",
+    "offset": 7986,
+    "length": 6
+  },
+  {
+    "key": "EItemSubcategory::Shields",
+    "en": "Shields",
+    "vi": "Khiên",
+    "offset": 8249,
+    "length": 8
+  },
+  {
+    "key": "EItemSubcategory::ChurchAccess",
+    "en": "Church Access",
+    "vi": "Nhà thờ",
+    "offset": 8494,
+    "length": 14
+  },
+  {
+    "key": "EItemSubcategory::WaterAccess",
+    "en": "Water Access",
+    "vi": "Nguồn nước",
+    "offset": 9013,
+    "length": 13
+  }
+]

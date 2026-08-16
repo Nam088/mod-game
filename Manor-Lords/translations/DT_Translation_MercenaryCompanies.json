@@ -1,0 +1,142 @@
+[
+  {
+    "key": "brotherhood_of_the_forest",
+    "en": "The Brotherhood of the Forest",
+    "vi": "Huynh đệ Rừng thiêng",
+    "offset": 24,
+    "length": 30
+  },
+  {
+    "key": "brotherhood_of_the_forest_descr",
+    "en": "Those men seem to pride themselves on stealing from the rich and giving to the poor. They also seem to wear extremely tight hosen.",
+    "vi": "Những gã này luôn tự hào về việc cướp của người giàu chia cho người nghèo. Trông họ cũng khá bảnh bao với những chiếc quần bó sát đặc trưng.",
+    "offset": 630,
+    "length": 131
+  },
+  {
+    "key": "crazy_goose",
+    "en": "Flock of Crazy Geese",
+    "vi": "Đàn Ngỗng Điên",
+    "offset": 4472,
+    "length": 21
+  },
+  {
+    "key": "crazy_goose_descr",
+    "en": "The origin of the goose is vague. A lot of members used to be broke farmers. Practically anyone can join this company as long as they do not fear death.",
+    "vi": "Nguồn gốc cái tên Ngỗng Điên khá mơ hồ. Đa phần thành viên là những nông dân khánh kiệt. Hầu như ai cũng có thể gia nhập bang hội này, miễn là không sợ chết.",
+    "offset": 5067,
+    "length": 153
+  },
+  {
+    "key": "brigands",
+    "en": "Brigands for Hire",
+    "vi": "Toán cướp Đánh thuê",
+    "offset": 10064,
+    "length": 18
+  },
+  {
+    "key": "brigands_descr",
+    "en": "A large pack of baddies, lead by the biggest and the toughest of them all.",
+    "vi": "Một toán cướp đông đảo, được dẫn dắt bởi tên đầu sỏ to khỏe và hung bạo nhất.",
+    "offset": 10650,
+    "length": 75
+  },
+  {
+    "key": "brigands_small",
+    "en": "Local Thugs",
+    "vi": "Du côn Địa phương",
+    "offset": 13007,
+    "length": 12
+  },
+  {
+    "key": "brigands_small_descr",
+    "en": "A small pack of local misfits and troublemakers.",
+    "vi": "Một nhóm nhỏ những kẻ bất hảo và chuyên gây rối trong vùng.",
+    "offset": 13516,
+    "length": 49
+  },
+  {
+    "key": "wayward_sons",
+    "en": "The Wayward Sons",
+    "vi": "Những Đứa con Lầm lạc",
+    "offset": 14987,
+    "length": 17
+  },
+  {
+    "key": "wayward_sons_descr",
+    "en": "New to the region, hailing from far in the west: the region of Francia. Their customs and tongue are strange, and they rarely mix with the locals, spending what money they acquire in taverns and retreating to nurse their drinks in the deep woods.",
+    "vi": "Mới đặt chân đến vùng đất này từ miền đất Francia xa xôi phía tây. Phong tục và ngôn ngữ của họ rất kỳ lạ, hiếm khi giao du với dân địa phương, thường ném sạch số tiền kiếm được vào các quán bia rồi lui về rừng sâu giải sầu.",
+    "offset": 15575,
+    "length": 247
+  },
+  {
+    "key": "greencaps",
+    "en": "Greencaps",
+    "vi": "Băng Mũ Xanh",
+    "offset": 23441,
+    "length": 10
+  },
+  {
+    "key": "greencaps_descr",
+    "en": "A reformed band of outlaws, sporting fashionable green hats for which they are known.",
+    "vi": "Một toán thảo khấu đã hoàn lương, nổi tiếng với những chiếc mũ xanh lục thời thượng.",
+    "offset": 23899,
+    "length": 86
+  },
+  {
+    "key": "vultures",
+    "en": "The Ravenous Vultures",
+    "vi": "Bầy Kền kền Há đói",
+    "offset": 26750,
+    "length": 22
+  },
+  {
+    "key": "vultures_descr",
+    "en": "Well disciplined fighters. For an unknown reason they discarded the sword and only use maces and axes as weapons of choice.",
+    "vi": "Những chiến binh kỷ luật thép. Vì lý do nào đó, họ vứt bỏ gươm kiếm và chỉ dùng chùy gai cùng rìu chiến làm vũ khí xung trận.",
+    "offset": 27284,
+    "length": 124
+  },
+  {
+    "key": "battle_brothers",
+    "en": "Battle Brothers",
+    "vi": "Huynh đệ Đồng cam",
+    "offset": 31042,
+    "length": 16
+  },
+  {
+    "key": "battle_brothers_descr",
+    "en": "Story tells they all lost a bet with their former liege in a brothel, leading them to abandoning their former lives and joining him as fighters. They decided to stick to this life.",
+    "vi": "Tương truyền tất cả họ đều thua cược với lãnh chúa cũ trong một tửu điếm, dẫn đến việc phải từ bỏ cuộc sống cũ để theo chân ông ta làm lính chiến. Họ quyết định gắn bó luôn với nghiệp binh đao.",
+    "offset": 31567,
+    "length": 181
+  },
+  {
+    "key": "hildebolts_army",
+    "en": "Hildebolt von Bereneute",
+    "vi": "Hildebolt von Bereneute",
+    "offset": 37802,
+    "length": 24
+  },
+  {
+    "key": "hildebolts_army_large",
+    "en": "Hildebolt von Bereneute",
+    "vi": "Hildebolt von Bereneute",
+    "offset": 38416,
+    "length": 24
+  },
+  {
+    "key": "huntsmen",
+    "en": "The Huntsmen",
+    "vi": "Biệt đội Thợ săn",
+    "offset": 39030,
+    "length": 13
+  },
+  {
+    "key": "huntsmen_descr",
+    "en": "For the right coin, this infamous band of poachers will hunt just about anything... or anyone.",
+    "vi": "Chỉ cần đủ tiền, toán săn trộm khét tiếng này sẵn sàng săn đuổi bất cứ thứ gì... hoặc bất cứ ai.",
+    "offset": 39376,
+    "length": 95
+  }
+]

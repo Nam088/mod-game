@@ -1,0 +1,121 @@
+[
+  {
+    "key": "quest_completed",
+    "en": "Mission completed",
+    "vi": "Nhiệm vụ hoàn thành",
+    "offset": 24,
+    "length": 18
+  },
+  {
+    "key": "quest_failed",
+    "en": "Mission failed",
+    "vi": "Nhiệm vụ thất bại",
+    "offset": 593,
+    "length": 15
+  },
+  {
+    "key": "objective_construct",
+    "en": "Construct",
+    "vi": "Xây dựng",
+    "offset": 1159,
+    "length": 10
+  },
+  {
+    "key": "objective_control_region",
+    "en": "Control region",
+    "vi": "Kiểm soát vùng",
+    "offset": 1441,
+    "length": 15
+  },
+  {
+    "key": "objective_collect",
+    "en": "Have a surplus:",
+    "vi": "Dự trữ thặng dư:",
+    "offset": 2049,
+    "length": 16
+  },
+  {
+    "key": "objective_claim_all_of_the_regions",
+    "en": "Claim every Region",
+    "vi": "Xác lập chủ quyền toàn bộ các Vùng đất",
+    "offset": 2715,
+    "length": 19
+  },
+  {
+    "key": "objective_reach_large_town",
+    "en": "Reach settlement level: Large Town",
+    "vi": "Đạt cấp độ định cư: Thị trấn Lớn",
+    "offset": 3570,
+    "length": 35
+  },
+  {
+    "key": "questrelated_30976",
+    "en": "Bereik nederzettingsniveau: grote stad",
+    "vi": "Đạt cấp độ định cư: Thị trấn Lớn",
+    "offset": 4753,
+    "length": 39
+  },
+  {
+    "key": "objective_conquer_all",
+    "en": "Hold claim to all of the regions",
+    "vi": "Nắm giữ chủ quyền toàn bộ các Vùng đất",
+    "offset": 4870,
+    "length": 33
+  },
+  {
+    "key": "pay_mercenaries",
+    "en": "Mercenary payment",
+    "vi": "Trả lương lính đánh thuê",
+    "offset": 5777,
+    "length": 18
+  },
+  {
+    "key": "quest_respond_to_letter",
+    "en": "Respond to the letter",
+    "vi": "Hồi âm thư tín",
+    "offset": 6379,
+    "length": 22
+  },
+  {
+    "key": "quest_send_promised_cash",
+    "en": "Send promised funds",
+    "vi": "Chuyển số tiền đã hứa",
+    "offset": 7012,
+    "length": 20
+  },
+  {
+    "key": "settlement_level_increased",
+    "en": "Settlement level increased",
+    "vi": "Cấp độ định cư đã tăng lên",
+    "offset": 7683,
+    "length": 27
+  },
+  {
+    "key": "questrelated_29696",
+    "en": "Ha aumentado el nivel del asentamiento",
+    "vi": "Cấp độ định cư đã tăng lên",
+    "offset": 7848,
+    "length": 39
+  },
+  {
+    "key": "new_development_point",
+    "en": "New development point",
+    "vi": "Nhận Điểm phát triển mới",
+    "offset": 8544,
+    "length": 22
+  },
+  {
+    "key": "claim_all_opponents_regions",
+    "en": "Claim all opponent's Regions",
+    "vi": "Chiếm toàn bộ các Vùng đất của đối thủ",
+    "offset": 9173,
+    "length": 29
+  },
+  {
+    "key": "respond_to_letter",
+    "en": "Respond to correspondence",
+    "vi": "Phúc đáp thư tín ngoại giao",
+    "offset": 10249,
+    "length": 26
+  }
+]

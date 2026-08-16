@@ -1,0 +1,198 @@
+[
+  {
+    "key": "unitroles_1",
+    "en": "Husband",
+    "vi": "Chồng",
+    "offset": 24,
+    "length": 8
+  },
+  {
+    "key": "unitroles_2",
+    "en": "Wife",
+    "vi": "Vợ",
+    "offset": 265,
+    "length": 5
+  },
+  {
+    "key": "unitroles_3",
+    "en": "Son",
+    "vi": "Con trai",
+    "offset": 525,
+    "length": 4
+  },
+  {
+    "key": "unitroles_4",
+    "en": "Daughter",
+    "vi": "Con gái",
+    "offset": 726,
+    "length": 9
+  },
+  {
+    "key": "unitroles_5",
+    "en": "Retainer",
+    "vi": "Cận vệ",
+    "offset": 955,
+    "length": 9
+  },
+  {
+    "key": "unitroles_6",
+    "en": "Soldier",
+    "vi": "Binh lính",
+    "offset": 1243,
+    "length": 8
+  },
+  {
+    "key": "unitroles_7",
+    "en": "Free Merchant",
+    "vi": "Thương nhân tự do",
+    "offset": 1484,
+    "length": 14
+  },
+  {
+    "key": "unitroles_8",
+    "en": "Free Livestock Merchant",
+    "vi": "Thương nhân gia súc tự do",
+    "offset": 1964,
+    "length": 24
+  },
+  {
+    "key": "unitroles_9",
+    "en": "Deer",
+    "vi": "Hươu",
+    "offset": 2698,
+    "length": 5
+  },
+  {
+    "key": "unitroles_10",
+    "en": "Chicken",
+    "vi": "Gà",
+    "offset": 2909,
+    "length": 8
+  },
+  {
+    "key": "roleID_9_plural",
+    "en": "Chickens",
+    "vi": "Đàn gà",
+    "offset": 3129,
+    "length": 9
+  },
+  {
+    "key": "unitroles_11",
+    "en": "Sheep",
+    "vi": "Cừu",
+    "offset": 3371,
+    "length": 6
+  },
+  {
+    "key": "roleID_10_plural",
+    "en": "Sheep",
+    "vi": "Đàn cừu",
+    "offset": 3582,
+    "length": 6
+  },
+  {
+    "key": "unitroles_12",
+    "en": "Lamb",
+    "vi": "Cừu non",
+    "offset": 3800,
+    "length": 5
+  },
+  {
+    "key": "roleID_11_plural",
+    "en": "Lambs",
+    "vi": "Đàn cừu non",
+    "offset": 4040,
+    "length": 6
+  },
+  {
+    "key": "unitroles_13",
+    "en": "Ox",
+    "vi": "Bò kéo",
+    "offset": 4311,
+    "length": 3
+  },
+  {
+    "key": "roleID_12_plural",
+    "en": "Oxen",
+    "vi": "Đàn bò kéo",
+    "offset": 4509,
+    "length": 5
+  },
+  {
+    "key": "unitroles_14",
+    "en": "Goat",
+    "vi": "Dê",
+    "offset": 4733,
+    "length": 5
+  },
+  {
+    "key": "roleID_13_plural",
+    "en": "Goats",
+    "vi": "Đàn dê",
+    "offset": 4946,
+    "length": 6
+  },
+  {
+    "key": "unitroles_15",
+    "en": "Hound",
+    "vi": "Chó săn",
+    "offset": 5178,
+    "length": 6
+  },
+  {
+    "key": "roleID_14_plural",
+    "en": "Hounds",
+    "vi": "Đàn chó săn",
+    "offset": 5429,
+    "length": 7
+  },
+  {
+    "key": "unitroles_16",
+    "en": "Horse",
+    "vi": "Ngựa",
+    "offset": 5702,
+    "length": 6
+  },
+  {
+    "key": "roleID_15_plural",
+    "en": "Horses",
+    "vi": "Đàn ngựa",
+    "offset": 5916,
+    "length": 7
+  },
+  {
+    "key": "unitroles_17",
+    "en": "Mule",
+    "vi": "La",
+    "offset": 6145,
+    "length": 5
+  },
+  {
+    "key": "roleID_16_plural",
+    "en": "Mules",
+    "vi": "Đàn la",
+    "offset": 6366,
+    "length": 6
+  },
+  {
+    "key": "unitroles_18",
+    "en": "Bandit",
+    "vi": "Giặc cướp",
+    "offset": 6605,
+    "length": 7
+  },
+  {
+    "key": "unitroles_20",
+    "en": "Pig",
+    "vi": "Lợn",
+    "offset": 6873,
+    "length": 4
+  },
+  {
+    "key": "roleID_19_plural",
+    "en": "Pigs",
+    "vi": "Đàn lợn",
+    "offset": 7096,
+    "length": 5
+  }
+]

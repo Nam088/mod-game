@@ -1,0 +1,135 @@
+[
+  {
+    "key": "policies_3",
+    "en": "Hunting grounds",
+    "vi": "Khu vực săn bắn đặc quyền",
+    "offset": 24,
+    "length": 16
+  },
+  {
+    "key": "policyID_2_descr",
+    "en": "<h>WILD ANIMALS</> on <h>RICH DEPOSITS</> breed twice as fast, at the cost of 50% reduced yields from <h>CROPS</>.",
+    "vi": "<h>THÚ HOANG</> tại <h>MỎ TRỮ LƯỢNG LỚN</> sinh sản nhanh gấp đôi, nhưng làm giảm 50% sản lượng từ <h>NÔNG SẢN</>.",
+    "offset": 449,
+    "length": 115
+  },
+  {
+    "key": "policies_12",
+    "en": "Small land tax",
+    "vi": "Thuế đất nhỏ",
+    "offset": 4955,
+    "length": 15
+  },
+  {
+    "key": "policyID_11_descr",
+    "en": "Converts <img id=\"ItemID_0\"/> <h>REGIONAL WEALTH</> to <img id=\"Treasury\"/> <h>TREASURY</> at a rate of 1 silver per <h>FAMILY</>, per month.",
+    "vi": "Chuyển <img id=\"ItemID_0\"/> <h>TÀI SẢN VÙNG</> thành <img id=\"Treasury\"/> <h>NGÂN KHỐ LÃNH CHÚA</> với mức 1 đồng bạc mỗi <h>HỘ DÂN</> mỗi tháng.",
+    "offset": 5551,
+    "length": 142
+  },
+  {
+    "key": "policies_13",
+    "en": "Strict fasting",
+    "vi": "Ăn chay nghiêm ngặt",
+    "offset": 10338,
+    "length": 15
+  },
+  {
+    "key": "policyID_12_descr",
+    "en": "Citizens skip every 5th meal. Reduces <h>FOOD</> consumption, decreases <H>APPROVAL</>.",
+    "vi": "Dân làng nhịn 1 trong mỗi 5 bữa ăn. Giảm tiêu thụ <h>LƯƠNG THỰC</>, nhưng làm giảm <H>LÒNG DÂN</>.",
+    "offset": 10751,
+    "length": 88
+  },
+  {
+    "key": "policies_15",
+    "en": "Tithe",
+    "vi": "Thuế Thập phân (Thuế 1/10)",
+    "offset": 14229,
+    "length": 6
+  },
+  {
+    "key": "policyID_14_descr",
+    "en": "Every month, the region gives away 10% of the surplus <img id=\"Food\"/> <h>FOOD</>  to the church and converts it to <img id=\"Influence\"/> <h>INFLUENCE</>.",
+    "vi": "Hàng tháng, vùng sẽ trích 10% lượng <img id=\"Food\"/> <h>LƯƠNG THỰC</> dư thừa nộp cho Nhà thờ để đổi lấy <img id=\"Influence\"/> <h>UY DANH</>.",
+    "offset": 14539,
+    "length": 155
+  },
+  {
+    "key": "locked_in_ea",
+    "en": "Locked in early access",
+    "vi": "Khóa trong giai đoạn Early Access",
+    "offset": 19326,
+    "length": 23
+  },
+  {
+    "key": "policies_29184",
+    "en": "Bloqueado durante el acceso anticipado",
+    "vi": "Khóa trong giai đoạn Early Access",
+    "offset": 19537,
+    "length": 39
+  },
+  {
+    "key": "policies_16",
+    "en": "Coinage",
+    "vi": "Đúc tiền riêng",
+    "offset": 20269,
+    "length": 8
+  },
+  {
+    "key": "policyID_15_descr",
+    "en": "+10% Taxes, -10% Regional Wealth",
+    "vi": "+10% Tiền thuế thu được, -10% Tài sản vùng",
+    "offset": 20665,
+    "length": 33
+  },
+  {
+    "key": "policies_11780",
+    "en": "+10 % skatter, -10 % regional velstand",
+    "vi": "+10% Tiền thuế thu được, -10% Tài sản vùng",
+    "offset": 21795,
+    "length": 39
+  },
+  {
+    "key": "policies_17",
+    "en": "Guild Brotherhoods",
+    "vi": "Hội Ái hữu Phường hội",
+    "offset": 21934,
+    "length": 19
+  },
+  {
+    "key": "policyID_16_descr",
+    "en": "Craftsmen do not require any Church Level -25% Influence from this settlement",
+    "vi": "Thợ thủ công không yêu cầu Cấp độ Nhà thờ, -25% Uy danh từ khu định cư này",
+    "offset": 22507,
+    "length": 78
+  },
+  {
+    "key": "policies_18",
+    "en": "Public Weapons Ban",
+    "vi": "Cấm vũ khí nơi công cộng",
+    "offset": 25058,
+    "length": 19
+  },
+  {
+    "key": "policyID_17_descr",
+    "en": "+25% Proficiency for weapon craftsmen, -10 Approval",
+    "vi": "+25% Năng suất cho thợ rèn vũ khí, -10 Lòng dân",
+    "offset": 25887,
+    "length": 52
+  },
+  {
+    "key": "policies_19",
+    "en": "Purchase Privilage",
+    "vi": "Đặc quyền mua nguyên liệu",
+    "offset": 27633,
+    "length": 19
+  },
+  {
+    "key": "policyID_18_descr",
+    "en": "Raw resources (iron, leather, berries, etc) are paid for with 50% of the usual Regional Wealth cost. Tax generation reduced by 50%",
+    "vi": "Tài nguyên thô (sắt, da, quả mọng...) chỉ tốn 50% Tài sản vùng khi mua. Giảm 50% tiền thuế thu được",
+    "offset": 28229,
+    "length": 131
+  }
+]

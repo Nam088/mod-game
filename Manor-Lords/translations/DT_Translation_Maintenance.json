@@ -1,0 +1,121 @@
+[
+  {
+    "key": "EMaintenanceRateModifier::MaintenanceRate_Double",
+    "en": "Maintenance Rate: Double",
+    "vi": "Tốc độ bảo trì: Gấp đôi",
+    "offset": 24,
+    "length": 25
+  },
+  {
+    "key": "EMaintenanceRateModifier::MaintenanceRate_Half",
+    "en": "Maintenance Rate: Half",
+    "vi": "Tốc độ bảo trì: Một nửa",
+    "offset": 861,
+    "length": 23
+  },
+  {
+    "key": "EMaintenanceRateModifier::Affinity_LocalHandymen",
+    "en": "Affinity: Local Handymen",
+    "vi": "Đặc tính: Thợ thủ công địa phương",
+    "offset": 1683,
+    "length": 25
+  },
+  {
+    "key": "maintenance_25856",
+    "en": "Affiniteit: plaatselijke klusjesmannen",
+    "vi": "Đặc tính: Thợ thủ công địa phương",
+    "offset": 2506,
+    "length": 39
+  },
+  {
+    "key": "EMaintenanceRateModifier::Perk_ImprovedMineMaintenance",
+    "en": "Perk: Nuremberg Prospectors",
+    "vi": "Đặc quyền: Dân đãi khoáng xứ Nuremberg",
+    "offset": 2593,
+    "length": 28
+  },
+  {
+    "key": "maintenance_slider_half",
+    "en": "Half Maintenance",
+    "vi": "Bảo trì mức thấp (50%)",
+    "offset": 3639,
+    "length": 17
+  },
+  {
+    "key": "maintenance_slider_normal",
+    "en": "Normal Maintenance",
+    "vi": "Bảo trì bình thường (100%)",
+    "offset": 4225,
+    "length": 19
+  },
+  {
+    "key": "maintenance_slider_double",
+    "en": "Double Maintenance",
+    "vi": "Bảo trì tối đa (200%)",
+    "offset": 4790,
+    "length": 19
+  },
+  {
+    "key": "Botching",
+    "en": "Chance to Botch Crafting",
+    "vi": "Tỷ lệ hỏng khi chế tác",
+    "offset": 5382,
+    "length": 25
+  },
+  {
+    "key": "CollapseChance",
+    "en": "Chance of Collapse",
+    "vi": "Tỷ lệ sập đổ",
+    "offset": 6388,
+    "length": 19
+  },
+  {
+    "key": "InjuryChance",
+    "en": "Chance of Injury",
+    "vi": "Tỷ lệ tai nạn lao động",
+    "offset": 6967,
+    "length": 17
+  },
+  {
+    "key": "LaborSpeedDecreaseAndBotching",
+    "en": "Decreased Labor Speed & Possible Botched Crafting",
+    "vi": "Giảm tốc độ lao động & Nguy cơ hỏng đồ khi chế tác",
+    "offset": 7580,
+    "length": 50
+  },
+  {
+    "key": "LaborSpeedDecrease",
+    "en": "Decreased Labor Speed",
+    "vi": "Giảm tốc độ lao động",
+    "offset": 9499,
+    "length": 22
+  },
+  {
+    "key": "LaborSpeedIncrease",
+    "en": "Increased Labor Speed",
+    "vi": "Tăng tốc độ lao động",
+    "offset": 10258,
+    "length": 22
+  },
+  {
+    "key": "InfluenceLoss",
+    "en": "Loss of Influence",
+    "vi": "Mất Uy danh",
+    "offset": 11049,
+    "length": 18
+  },
+  {
+    "key": "InfluenceGain",
+    "en": "Influence Gain",
+    "vi": "Nhận thêm Uy danh",
+    "offset": 11595,
+    "length": 15
+  },
+  {
+    "key": "NoEffect",
+    "en": "None",
+    "vi": "Không có",
+    "offset": 12138,
+    "length": 5
+  }
+]

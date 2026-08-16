@@ -1,0 +1,625 @@
+[
+  {
+    "key": "broken",
+    "en": "<img id=\"retreat\"/> BROKEN",
+    "vi": "<img id=\"retreat\"/> VỠ TRẬN",
+    "offset": 24,
+    "length": 27
+  },
+  {
+    "key": "stance_balanced",
+    "en": "Balanced",
+    "vi": "Cân bằng",
+    "offset": 940,
+    "length": 9
+  },
+  {
+    "key": "stance_balanced_descr",
+    "en": "Default stance with no bonus and no penalties",
+    "vi": "Thế trận mặc định, không cộng thêm và không bị phạt chỉ số",
+    "offset": 1351,
+    "length": 46
+  },
+  {
+    "key": "stance_giveGround",
+    "en": "Give ground",
+    "vi": "Vừa đánh vừa lùi",
+    "offset": 2753,
+    "length": 12
+  },
+  {
+    "key": "stance_giveGround_descr",
+    "en": "Slowly pushes the formation line backward, luring the enemy to follow.",
+    "vi": "Từ từ lùi đội hình về phía sau nhằm dụ kẻ địch đuổi theo vào bẫy.",
+    "offset": 3208,
+    "length": 71
+  },
+  {
+    "key": "stance_standGround",
+    "en": "Stand your ground",
+    "vi": "Tử thủ",
+    "offset": 5451,
+    "length": 18
+  },
+  {
+    "key": "stance_standGround_descr",
+    "en": "Soldiers try to stand their ground. Defense is doubled, but attack frequency is halved.",
+    "vi": "Binh lính kiên quyết bám trụ vị trí. Phòng thủ tăng gấp đôi, nhưng tần suất tấn công giảm một nửa.",
+    "offset": 5922,
+    "length": 88
+  },
+  {
+    "key": "stance_push",
+    "en": "Push forward",
+    "vi": "Đột kích dồn ép",
+    "offset": 9192,
+    "length": 13
+  },
+  {
+    "key": "stance_push_descr",
+    "en": "Soldiers try to push forward with their full force.",
+    "vi": "Binh lính dồn toàn lực lao lên phía trước để đè bẹp phòng tuyến đối phương.",
+    "offset": 9573,
+    "length": 52
+  },
+  {
+    "key": "stance_missile_alert",
+    "en": "Missile alert",
+    "vi": "Phòng ngự tên bắn",
+    "offset": 11089,
+    "length": 14
+  },
+  {
+    "key": "stance_missile_alert_descr",
+    "en": "Soldiers watch for enemy missiles. Chance to avoid or block enemy missiles is doubled, but melee defense is halved.",
+    "vi": "Binh lính cảnh giác quan sát mưa tên. Tỷ lệ né và đỡ tên tăng gấp đôi, nhưng phòng thủ cận chiến bị giảm một nửa.",
+    "offset": 11620,
+    "length": 116
+  },
+  {
+    "key": "stance_shieldwall",
+    "en": "Shieldwall",
+    "vi": "Tường khiên",
+    "offset": 16486,
+    "length": 11
+  },
+  {
+    "key": "stance_shieldwall_descr",
+    "en": "Soldiers form a tight defensive formation. The block value of immediately adjacent allies is added to each soldier's own block value. Slows the unit down significantly.",
+    "vi": "Binh lính dàn đội hình phòng ngự ken đặc. Chỉ số đỡ đòn của đồng đội liền kề được cộng dồn vào bản thân. Làm giảm đáng kể tốc độ di chuyển của đơn vị.",
+    "offset": 16857,
+    "length": 169
+  },
+  {
+    "key": "disband",
+    "en": "Disband unit",
+    "vi": "Giải tán đơn vị",
+    "offset": 22793,
+    "length": 13
+  },
+  {
+    "key": "disband_descr",
+    "en": "Militia and retainers will return to their daily lives as civilians.  Mercenaries will leave your service. ",
+    "vi": "Dân quân và lính cận vệ sẽ trở về cuộc sống đời thường. Lính đánh thuê sẽ rời khỏi hợp đồng phục vụ.",
+    "offset": 23329,
+    "length": 108
+  },
+  {
+    "key": "release_at_will",
+    "en": "Shoot at will",
+    "vi": "Tự do bắn",
+    "offset": 26645,
+    "length": 14
+  },
+  {
+    "key": "release_at_will_descr",
+    "en": "Instead of shooting a volley, soldiers fire aiming directly at the enemy. Increases accuracy up close, but decreases accuracy at half the maximum range or more.",
+    "vi": "Thay vì bắn theo loạt đồng loạt, lính sẽ tự ngắm bắn mục tiêu. Tăng độ chính xác khi bắn gần, nhưng giảm độ chính xác khi bắn ở cự ly xa hơn một nửa tầm bắn tối đa.",
+    "offset": 27204,
+    "length": 161
+  },
+  {
+    "key": "friendly_fire",
+    "en": "Friendly fire",
+    "vi": "Bắn vào đồng minh",
+    "offset": 33023,
+    "length": 14
+  },
+  {
+    "key": "friendly_fire_descr",
+    "en": "Order unit to shoot even if there's a chance to hit their allies",
+    "vi": "Ra lệnh cho đơn vị bắn ngay cả khi có nguy cơ bắn trúng quân mình",
+    "offset": 33490,
+    "length": 65
+  },
+  {
+    "key": "stop",
+    "en": "Hold",
+    "vi": "Dừng lại",
+    "offset": 35723,
+    "length": 5
+  },
+  {
+    "key": "stop_descr",
+    "en": "Stop movement and reform the formation.",
+    "vi": "Dừng di chuyển và chỉnh đốn lại đội hình.",
+    "offset": 36014,
+    "length": 40
+  },
+  {
+    "key": "run_toggle",
+    "en": "Run to positions",
+    "vi": "Chạy nhanh vào vị trí",
+    "offset": 37367,
+    "length": 17
+  },
+  {
+    "key": "run_toggle_descr",
+    "en": "Cover more ground at the cost of fatigue.",
+    "vi": "Băng nhanh qua quãng đường dài nhưng sẽ bị tiêu hao thể lực.",
+    "offset": 37867,
+    "length": 42
+  },
+  {
+    "key": "rally",
+    "en": "Rally",
+    "vi": "Triệu tập xuất quân",
+    "offset": 39656,
+    "length": 6
+  },
+  {
+    "key": "rally_descr",
+    "en": "Pick a Rallying Spot and mobilize this unit for combat.",
+    "vi": "Chọn một Điểm tập kết và huy động đơn vị này sẵn sàng tham chiến.",
+    "offset": 39968,
+    "length": 56
+  },
+  {
+    "key": "spread_out",
+    "en": "Spread out",
+    "vi": "Tản rộng đội hình",
+    "offset": 41954,
+    "length": 11
+  },
+  {
+    "key": "spread_out_descr",
+    "en": "Makes soldiers harder to hit with missiles and makes the unit run slightly faster. Far less effective in melee.",
+    "vi": "Giúp binh lính khó bị trúng tên hơn và chạy nhanh hơn một chút. Giảm mạnh hiệu quả khi đánh giáp lá cà.",
+    "offset": 42305,
+    "length": 112
+  },
+  {
+    "key": "remove_unit",
+    "en": "Remove unit",
+    "vi": "Xóa phiên hiệu đơn vị",
+    "offset": 46708,
+    "length": 12
+  },
+  {
+    "key": "remove_unit_descr",
+    "en": "All the assigned recruits will return to the recruitment pool.",
+    "vi": "Tất cả tân binh trong đơn vị sẽ trở lại danh sách nguồn tuyển quân.",
+    "offset": 47193,
+    "length": 63
+  },
+  {
+    "key": "hire_mercenaries",
+    "en": "Hire Mercenaries",
+    "vi": "Thuê Lính đánh thuê",
+    "offset": 49130,
+    "length": 17
+  },
+  {
+    "key": "customize_retinue",
+    "en": "Retinue customization",
+    "vi": "Tùy biến Đội cận vệ",
+    "offset": 49711,
+    "length": 22
+  },
+  {
+    "key": "customize_retinue_descr",
+    "en": "Press to open the retinue customization panel",
+    "vi": "Nhấn để mở bảng tùy chỉnh trang bị và diện mạo đội cận vệ",
+    "offset": 50316,
+    "length": 46
+  },
+  {
+    "key": "add_new_militia_squad",
+    "en": "New militia unit",
+    "vi": "Lập đơn vị Dân quân mới",
+    "offset": 51987,
+    "length": 17
+  },
+  {
+    "key": "units_arrive_in_region",
+    "en": "Arrive in",
+    "vi": "Đến nơi sau",
+    "offset": 52608,
+    "length": 10
+  },
+  {
+    "key": "estimated_arrival_time",
+    "en": "Estimated time of arrival",
+    "vi": "Thời gian đến dự kiến",
+    "offset": 52975,
+    "length": 26
+  },
+  {
+    "key": "mercenaries_not_enough_treasury",
+    "en": "Treasury funds insufficient",
+    "vi": "Không đủ Ngân khố Lãnh chúa",
+    "offset": 53735,
+    "length": 28
+  },
+  {
+    "key": "mercenaries_hire",
+    "en": "Hire this company",
+    "vi": "Ký hợp đồng thuê toán quân này",
+    "offset": 54593,
+    "length": 18
+  },
+  {
+    "key": "total_advantage",
+    "en": "Effectiveness",
+    "vi": "Hiệu quả chiến đấu",
+    "offset": 55199,
+    "length": 14
+  },
+  {
+    "key": "total_advantage_descr",
+    "en": "Effectiveness of the unit may depend on the situation and acts as a multiplier to the soldiers <h>ATTACK</>, <h>BLOCK</> and <h>DEFENSE</>. Effectiveness factors may include: <h>FATIGUE</>, <h>COHESION</>, <h>SURROUNDED</>, <h>SOAKING</>, <h>CLIMBING</>.",
+    "vi": "Hiệu quả chiến đấu của đơn vị thay đổi theo tình huống và nhân với chỉ số <h>TẤN CÔNG</>, <h>ĐỠ ĐÒN</> và <h>PHÒNG THỦ</> của lính. Các yếu tố ảnh hưởng gồm: <h>THỂ LỰC</>, <h>TÍNH LIÊN KẾT ĐỘI HÌNH</>, <h>BỊ BAO VÂY</>, <h>ƯỚT SŨNG</>, <h>LEO DỐC</>.",
+    "offset": 55585,
+    "length": 255
+  },
+  {
+    "key": "fatigue",
+    "en": "Fatigue",
+    "vi": "Thể lực",
+    "offset": 64908,
+    "length": 8
+  },
+  {
+    "key": "tiredness",
+    "en": "Fatigue",
+    "vi": "Mệt mỏi",
+    "offset": 65217,
+    "length": 8
+  },
+  {
+    "key": "cohesion",
+    "en": "Cohesion",
+    "vi": "Liên kết đội hình",
+    "offset": 65526,
+    "length": 9
+  },
+  {
+    "key": "morale",
+    "en": "Morale",
+    "vi": "Tinh thần chiến đấu",
+    "offset": 65906,
+    "length": 7
+  },
+  {
+    "key": "low_ground",
+    "en": "Low ground",
+    "vi": "Địa hình thấp (Bất lợi)",
+    "offset": 66160,
+    "length": 11
+  },
+  {
+    "key": "high_ground",
+    "en": "High ground",
+    "vi": "Địa hình cao (Ưu thế)",
+    "offset": 66554,
+    "length": 12
+  },
+  {
+    "key": "uphill",
+    "en": "Climbing",
+    "vi": "Leo dốc",
+    "offset": 66989,
+    "length": 9
+  },
+  {
+    "key": "downhill",
+    "en": "Moving downhill",
+    "vi": "Xuống dốc",
+    "offset": 67380,
+    "length": 16
+  },
+  {
+    "key": "factor_raining",
+    "en": "Soaking wet",
+    "vi": "Ướt sũng",
+    "offset": 67906,
+    "length": 12
+  },
+  {
+    "key": "recent_losses",
+    "en": "Recent losses",
+    "vi": "Tổn thất gần đây",
+    "offset": 68313,
+    "length": 14
+  },
+  {
+    "key": "army_power_balance",
+    "en": "Army power balance",
+    "vi": "Tương quan lực lượng",
+    "offset": 68799,
+    "length": 19
+  },
+  {
+    "key": "melee_with_bows",
+    "en": "Archers in melee",
+    "vi": "Cung thủ cận chiến",
+    "offset": 69516,
+    "length": 17
+  },
+  {
+    "key": "factor_home",
+    "en": "In home Region",
+    "vi": "Chiến đấu trên quê nhà",
+    "offset": 70295,
+    "length": 15
+  },
+  {
+    "key": "EEquipmentSlot::Body",
+    "en": "Body",
+    "vi": "Giáp thân",
+    "offset": 70826,
+    "length": 5
+  },
+  {
+    "key": "EEquipmentSlot::Weapon",
+    "en": "Weapon",
+    "vi": "Vũ khí",
+    "offset": 71054,
+    "length": 7
+  },
+  {
+    "key": "EEquipmentSlot::Shield",
+    "en": "Block",
+    "vi": "Khiên đỡ",
+    "offset": 71283,
+    "length": 6
+  },
+  {
+    "key": "EEquipmentSlot::Helmet",
+    "en": "Helmet",
+    "vi": "Mũ sắt",
+    "offset": 71515,
+    "length": 7
+  },
+  {
+    "key": "EEquipmentSlot::Accessory",
+    "en": "Accessory",
+    "vi": "Phụ kiện",
+    "offset": 71751,
+    "length": 10
+  },
+  {
+    "key": "status_missing_equipment",
+    "en": "Equipment missing!",
+    "vi": "Thiếu trang bị chiến đấu!",
+    "offset": 72109,
+    "length": 19
+  },
+  {
+    "key": "status_waiting",
+    "en": "Awaiting orders",
+    "vi": "Đang chờ lệnh",
+    "offset": 72708,
+    "length": 16
+  },
+  {
+    "key": "status_moving",
+    "en": "Moving",
+    "vi": "Đang hành quân",
+    "offset": 73195,
+    "length": 7
+  },
+  {
+    "key": "status_rallying",
+    "en": "Rallying",
+    "vi": "Đang tập hợp quân",
+    "offset": 73557,
+    "length": 9
+  },
+  {
+    "key": "status_ready_to_rally",
+    "en": "Ready to rally",
+    "vi": "Sẵn sàng triệu tập",
+    "offset": 73945,
+    "length": 15
+  },
+  {
+    "key": "status_missing_recruits",
+    "en": "Recruits missing!",
+    "vi": "Thiếu tân binh!",
+    "offset": 74532,
+    "length": 18
+  },
+  {
+    "key": "status_collecting_equipment",
+    "en": "Collecting equipment",
+    "vi": "Đang thu gom trang bị",
+    "offset": 75071,
+    "length": 21
+  },
+  {
+    "key": "status_fighting",
+    "en": "In combat",
+    "vi": "Đang giao tranh",
+    "offset": 75701,
+    "length": 10
+  },
+  {
+    "key": "status_shooting",
+    "en": "Shooting",
+    "vi": "Đang bắn tên",
+    "offset": 75990,
+    "length": 9
+  },
+  {
+    "key": "combat_experience",
+    "en": "Experience",
+    "vi": "Kinh nghiệm",
+    "offset": 76286,
+    "length": 11
+  },
+  {
+    "key": "surrounded_by_trees",
+    "en": "Surrounded by trees",
+    "vi": "Rừng rậm vây quanh",
+    "offset": 76609,
+    "length": 20
+  },
+  {
+    "key": "engaged",
+    "en": "Can't use when already engaged",
+    "vi": "Không thể dùng khi đang giáp lá cà",
+    "offset": 77241,
+    "length": 31
+  },
+  {
+    "key": "too_fatigued",
+    "en": "Too fatigued to run",
+    "vi": "Quá mệt mỏi không thể chạy tiếp",
+    "offset": 78392,
+    "length": 20
+  },
+  {
+    "key": "squad_in_forest",
+    "en": "Not available in dense forests",
+    "vi": "Không thể dùng trong rừng rậm",
+    "offset": 79257,
+    "length": 31
+  },
+  {
+    "key": "only_available_when_disbanded",
+    "en": "Only available when disbanded",
+    "vi": "Chỉ khả dụng khi đã giải tán",
+    "offset": 80212,
+    "length": 30
+  },
+  {
+    "key": "minimum_5_recruits",
+    "en": "A minimum of 5 equipped recruits is required. Make sure you have enough Recruits and appropriate Weapons in the Region.",
+    "vi": "Cần tối thiểu 5 tân binh có đủ trang bị. Hãy đảm bảo trong vùng có đủ người và đủ vũ khí thích hợp.",
+    "offset": 81249,
+    "length": 120
+  },
+  {
+    "key": "only_available_when_rallying_finished",
+    "en": "Only available when rallying finished",
+    "vi": "Chỉ khả dụng sau khi tập hợp quân xong",
+    "offset": 84876,
+    "length": 38
+  },
+  {
+    "key": "not_in_origin_region",
+    "en": "Can't disband outside of the home Region",
+    "vi": "Không thể giải tán bên ngoài Vùng quê hương",
+    "offset": 86078,
+    "length": 41
+  },
+  {
+    "key": "corpses_near",
+    "en": "Corpses near",
+    "vi": "Thi thể gần bên",
+    "offset": 87543,
+    "length": 13
+  },
+  {
+    "key": "friendly_fire_mode",
+    "en": "Allow friendly fire",
+    "vi": "Cho phép bắn trúng quân mình",
+    "offset": 88149,
+    "length": 20
+  },
+  {
+    "key": "friendly_fire_mode_descr",
+    "en": "Disciplined troops can shoot at the enemy even if friendly units are engaged.",
+    "vi": "Những đạo quân kỷ luật cao có thể bắn vào kẻ địch ngay cả khi đồng đội đang giao chiến giáp lá cà.",
+    "offset": 88850,
+    "length": 78
+  },
+  {
+    "key": "militia",
+    "en": "Militia",
+    "vi": "Dân quân",
+    "offset": 91768,
+    "length": 8
+  },
+  {
+    "key": "militia_descr",
+    "en": "Each male villager may be called to fight for their lord if the need arises. Militias can be formed into different <h>UNIT TYPES</>, each type has different strengths and weaknesses. A minimum of 5 equipped recruits are needed to <h>RALLY$RALLYING</> the unit. A villager is considered equipped when a weapon and shield (if applicable) is assigned to him. The helmet and body armor levels are optional and depend on each recruit's <h>RESIDENTIAL LEVEL</> and availability of goods in the region.",
+    "vi": "Mỗi người đàn ông trong làng đều có thể được kêu gọi tòng quân khi hữu sự. Dân quân có thể lập thành nhiều <h>LOẠI ĐƠN VỊ</> khác nhau với điểm mạnh và điểm yếu riêng. Cần tối thiểu 5 tân binh trang bị đầy đủ để <h>TRIỆU TẬP</> đơn vị. Một dân làng được coi là đủ trang bị khi có vũ khí và khiên (nếu có). Mũ sắt và áo giáp là trang bị bổ sung tùy thuộc vào <h>CẤP ĐỘ NHÀ Ở</> của từng tân binh và nguồn hàng sẵn có trong vùng.",
+    "offset": 92036,
+    "length": 496
+  },
+  {
+    "key": "mercenaries",
+    "en": "Mercenaries",
+    "vi": "Lính đánh thuê",
+    "offset": 108194,
+    "length": 12
+  },
+  {
+    "key": "mercenaries_descr",
+    "en": "These soldies can be hired from the <h>Mercenary Pool</> which is global and resets each month. A <h>Mercenary Company</> can come with one or multiple units. If one of the unit is disbanded, the whole company gets disbanded. Companies are paid upfront for each month of service.",
+    "vi": "Có thể thuê những người lính này từ <h>Thị trường Đánh thuê</> chung toàn cục (làm mới mỗi tháng). Một <h>Bang hội Đánh thuê</> có thể bao gồm một hoặc nhiều đơn vị. Nếu một đơn vị bị giải tán thì cả bang hội sẽ rời đi. Tiền thuê phải trả trước theo từng tháng phục vụ.",
+    "offset": 108528,
+    "length": 280
+  },
+  {
+    "key": "rallying",
+    "en": "Rallying",
+    "vi": "Huy động xuất quân",
+    "offset": 118420,
+    "length": 9
+  },
+  {
+    "key": "rallying_descr",
+    "en": "When created, each unit is disbanded and villagers go about their daily business. After calling them to rally and picking a rallying point, they run to their homes to equip their war gear and rush to the rallying point. Only then the unit is ready for combat. After the battles are over, units can get disbanded again, villagers go back to work and retainers go back to the <h>MANOR</>.",
+    "vi": "Khi vừa tạo, đơn vị ở trạng thái giải tán và dân làng vẫn làm ăn bình thường. Khi phát lệnh triệu tập và chọn điểm tập kết, họ sẽ chạy về nhà mặc giáp, cầm vũ khí rồi tức tốc chạy ra điểm hẹn. Sau khi trận chiến kết thúc, đơn vị có thể được giải tán để dân trở về làm việc và lính cận vệ trở về <h>DINH THỰ</>.",
+    "offset": 118742,
+    "length": 387
+  },
+  {
+    "key": "backstabbing",
+    "en": "Backstabbing",
+    "vi": "Đánh úp sau lưng",
+    "offset": 131997,
+    "length": 13
+  },
+  {
+    "key": "backstabbing_descr",
+    "en": "When attacking the enemy, attack power is doubled if the enemy is facing backwards to the attacker, and enemies <h>BLOCK</> is no longer counted. This works both for melee and ranged attacks.",
+    "vi": "Khi đánh úp từ phía sau lưng kẻ địch, sức tấn công tăng gấp đôi và chỉ số <h>ĐỠ ĐÒN</> của kẻ địch bị vô hiệu hóa hoàn toàn. Áp dụng cho cả cận chiến lẫn tấn công tầm xa.",
+    "offset": 132397,
+    "length": 192
+  },
+  {
+    "key": "military_11776",
+    "en": "Not equipped for melee",
+    "vi": "Không có trang bị cận chiến",
+    "offset": 138787,
+    "length": 23
+  },
+  {
+    "key": "skill_braced",
+    "en": "Shieldwall",
+    "vi": "Tường khiên",
+    "offset": 139728,
+    "length": 11
+  },
+  {
+    "key": "skill_ladder",
+    "en": "Build siege ladders",
+    "vi": "Dựng thang công thành",
+    "offset": 140099,
+    "length": 20
+  }
+]

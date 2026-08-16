@@ -1,0 +1,541 @@
+[
+  {
+    "key": "tasks_1",
+    "en": "Waiting",
+    "vi": "Đang chờ",
+    "offset": 24,
+    "length": 8
+  },
+  {
+    "key": "tasks_2",
+    "en": "Constructing",
+    "vi": "Đang thi công",
+    "offset": 302,
+    "length": 13
+  },
+  {
+    "key": "tasks_3",
+    "en": "Bringing resources",
+    "vi": "Đang chuyển vật tư",
+    "offset": 664,
+    "length": 19
+  },
+  {
+    "key": "tasks_4",
+    "en": "Felling a tree",
+    "vi": "Đang đốn cây",
+    "offset": 1164,
+    "length": 15
+  },
+  {
+    "key": "tasks_5",
+    "en": "Transporting",
+    "vi": "Đang vận chuyển",
+    "offset": 1683,
+    "length": 13
+  },
+  {
+    "key": "tasks_11",
+    "en": "Plowing",
+    "vi": "Đang cày ruộng",
+    "offset": 2069,
+    "length": 8
+  },
+  {
+    "key": "tasks_12",
+    "en": "Sowing",
+    "vi": "Đang gieo hạt",
+    "offset": 2398,
+    "length": 7
+  },
+  {
+    "key": "tasks_13",
+    "en": "Harvesting",
+    "vi": "Đang gặt lúa",
+    "offset": 2691,
+    "length": 11
+  },
+  {
+    "key": "tasks_18",
+    "en": "Going somewhere",
+    "vi": "Đang di chuyển",
+    "offset": 3057,
+    "length": 16
+  },
+  {
+    "key": "tasks_19",
+    "en": "Hunting",
+    "vi": "Đang săn bắn",
+    "offset": 3527,
+    "length": 8
+  },
+  {
+    "key": "tasks_21",
+    "en": "Getting Resources",
+    "vi": "Đang lấy tài nguyên",
+    "offset": 3811,
+    "length": 18
+  },
+  {
+    "key": "tasks_23",
+    "en": "Transporting",
+    "vi": "Đang vận chuyển",
+    "offset": 4325,
+    "length": 13
+  },
+  {
+    "key": "tasks_24",
+    "en": "Gathering",
+    "vi": "Đang hái lượm",
+    "offset": 4711,
+    "length": 10
+  },
+  {
+    "key": "tasks_25",
+    "en": "Fighting",
+    "vi": "Đang chiến đấu",
+    "offset": 5062,
+    "length": 9
+  },
+  {
+    "key": "tasks_26",
+    "en": "Crafting",
+    "vi": "Đang chế tác",
+    "offset": 5375,
+    "length": 9
+  },
+  {
+    "key": "tasks_27",
+    "en": "Peddling",
+    "vi": "Đang bán hàng sạp",
+    "offset": 5748,
+    "length": 9
+  },
+  {
+    "key": "tasks_28",
+    "en": "Mining",
+    "vi": "Đang khai khoáng",
+    "offset": 6113,
+    "length": 7
+  },
+  {
+    "key": "tasks_31",
+    "en": "Waiting",
+    "vi": "Đang chờ",
+    "offset": 6479,
+    "length": 8
+  },
+  {
+    "key": "tasks_41",
+    "en": "Getting an Animal",
+    "vi": "Đang dắt vật nuôi",
+    "offset": 6757,
+    "length": 18
+  },
+  {
+    "key": "tasks_42",
+    "en": "Following",
+    "vi": "Đang đi theo",
+    "offset": 7287,
+    "length": 10
+  },
+  {
+    "key": "tasks_43",
+    "en": "Importing",
+    "vi": "Đang nhập hàng",
+    "offset": 7620,
+    "length": 10
+  },
+  {
+    "key": "tasks_47",
+    "en": "Plowing by hand",
+    "vi": "Đang cày ruộng bằng tay",
+    "offset": 8092,
+    "length": 16
+  },
+  {
+    "key": "tasks_48",
+    "en": "Dropping Resources",
+    "vi": "Đang dỡ hàng hóa",
+    "offset": 8674,
+    "length": 19
+  },
+  {
+    "key": "tasks_49",
+    "en": "Using the Furnace",
+    "vi": "Đang đốt lò luyện",
+    "offset": 9227,
+    "length": 18
+  },
+  {
+    "key": "tasks_50",
+    "en": "Fighting fire",
+    "vi": "Đang chữa cháy",
+    "offset": 9756,
+    "length": 14
+  },
+  {
+    "key": "tasks_51",
+    "en": "Getting an item",
+    "vi": "Đang lấy vật phẩm",
+    "offset": 10240,
+    "length": 16
+  },
+  {
+    "key": "tasks_52",
+    "en": "Torching",
+    "vi": "Đang phóng hỏa",
+    "offset": 10808,
+    "length": 9
+  },
+  {
+    "key": "tasks_53",
+    "en": "Praying",
+    "vi": "Đang cầu nguyện",
+    "offset": 11214,
+    "length": 8
+  },
+  {
+    "key": "tasks_54",
+    "en": "Going Home",
+    "vi": "Đang về nhà",
+    "offset": 11504,
+    "length": 11
+  },
+  {
+    "key": "tasks_55",
+    "en": "Exiting",
+    "vi": "Đang rời đi",
+    "offset": 11903,
+    "length": 8
+  },
+  {
+    "key": "tasks_57",
+    "en": "Trapping",
+    "vi": "Đang đặt bẫy",
+    "offset": 12222,
+    "length": 9
+  },
+  {
+    "key": "tasks_58",
+    "en": "Planting",
+    "vi": "Đang ươm cây",
+    "offset": 12672,
+    "length": 9
+  },
+  {
+    "key": "tasks_60",
+    "en": "Mounting a Horse",
+    "vi": "Đang cưỡi ngựa",
+    "offset": 13003,
+    "length": 17
+  },
+  {
+    "key": "tasks_61",
+    "en": "Stocking up",
+    "vi": "Đang bổ sung hàng",
+    "offset": 13499,
+    "length": 12
+  },
+  {
+    "key": "tasks_62",
+    "en": "Trading",
+    "vi": "Đang buôn bán",
+    "offset": 13938,
+    "length": 8
+  },
+  {
+    "key": "tasks_63",
+    "en": "Flattening ground",
+    "vi": "Đang san phẳng đất",
+    "offset": 14284,
+    "length": 18
+  },
+  {
+    "key": "tasks_65",
+    "en": "Getting the Mule",
+    "vi": "Đang dắt la",
+    "offset": 14855,
+    "length": 17
+  },
+  {
+    "key": "tasks_66",
+    "en": "Mining",
+    "vi": "Đang khai khoáng",
+    "offset": 15350,
+    "length": 7
+  },
+  {
+    "key": "free_time",
+    "en": "Temporary job",
+    "vi": "Công việc tạm thời",
+    "offset": 15717,
+    "length": 14
+  },
+  {
+    "key": "task_restingAtHome",
+    "en": "Resting at Home",
+    "vi": "Đang nghỉ ngơi ở nhà",
+    "offset": 16235,
+    "length": 16
+  },
+  {
+    "key": "task_grabBasket",
+    "en": "Getting a basket",
+    "vi": "Đang lấy giỏ đan",
+    "offset": 16717,
+    "length": 17
+  },
+  {
+    "key": "task_debranchLog",
+    "en": "Debranching a Tree",
+    "vi": "Đang tỉa cành cây",
+    "offset": 17200,
+    "length": 19
+  },
+  {
+    "key": "task_refillingHomeSupplies",
+    "en": "Refilling Home Supplies",
+    "vi": "Đang lấy nhu yếu phẩm về nhà",
+    "offset": 17784,
+    "length": 24
+  },
+  {
+    "key": "task_waitingForGuide",
+    "en": "Waiting for a Guide",
+    "vi": "Đang chờ người dẫn dắt",
+    "offset": 18585,
+    "length": 20
+  },
+  {
+    "key": "task_dead",
+    "en": "Dead",
+    "vi": "Đã chết",
+    "offset": 19129,
+    "length": 5
+  },
+  {
+    "key": "task_guideOx",
+    "en": "Guiding an Ox",
+    "vi": "Đang dắt bò kéo",
+    "offset": 19421,
+    "length": 14
+  },
+  {
+    "key": "task_gettingFuelSupplies",
+    "en": "Getting Fuel Supplies",
+    "vi": "Đang lấy củi sưởi",
+    "offset": 19919,
+    "length": 22
+  },
+  {
+    "key": "task_fetchingWater",
+    "en": "Fetching Water",
+    "vi": "Đang gánh nước",
+    "offset": 20692,
+    "length": 15
+  },
+  {
+    "key": "task_rest_until_healed",
+    "en": "Resting until healed",
+    "vi": "Đang dưỡng thương",
+    "offset": 21122,
+    "length": 21
+  },
+  {
+    "key": "waiting_storageFull",
+    "en": "Waiting (storage full)",
+    "vi": "Đang chờ (Kho đã đầy)",
+    "offset": 21792,
+    "length": 23
+  },
+  {
+    "key": "task_lookingForPlantingSpot",
+    "en": "Looking for a Planting Spot",
+    "vi": "Đang tìm vị trí trồng cây",
+    "offset": 22484,
+    "length": 28
+  },
+  {
+    "key": "task_backToHitchingPost",
+    "en": "Going back to rest",
+    "vi": "Đang về chuồng nghỉ ngơi",
+    "offset": 23209,
+    "length": 19
+  },
+  {
+    "key": "task_movesExportGoodsToTradingPost",
+    "en": "Stocks goods for sale",
+    "vi": "Đang xếp hàng lên sạp bán",
+    "offset": 23797,
+    "length": 22
+  },
+  {
+    "key": "task_guide_is_coming",
+    "en": "Waiting, a Guide is coming",
+    "vi": "Đang chờ người đến dắt đi",
+    "offset": 24535,
+    "length": 27
+  },
+  {
+    "key": "task_topplingTree",
+    "en": "Felling a Tree",
+    "vi": "Đang đốn cây",
+    "offset": 25321,
+    "length": 15
+  },
+  {
+    "key": "task_inter_region_barter",
+    "en": "Bartering",
+    "vi": "Đang trao đổi hàng hóa",
+    "offset": 25840,
+    "length": 10
+  },
+  {
+    "key": "task_inter_region_barter_return",
+    "en": "Bartering, returns Home",
+    "vi": "Đang đổi hàng, trở về nhà",
+    "offset": 26255,
+    "length": 24
+  },
+  {
+    "key": "tasks_27904",
+    "en": "Aan het handelen, gaat terug naar huis",
+    "vi": "Đang đổi hàng, trở về nhà",
+    "offset": 26999,
+    "length": 39
+  },
+  {
+    "key": "task_bring_mule_home",
+    "en": "Taking the Mule back",
+    "vi": "Đang dắt la về chuồng",
+    "offset": 27120,
+    "length": 21
+  },
+  {
+    "key": "task_going_home",
+    "en": "Returning Home",
+    "vi": "Đang về nhà",
+    "offset": 27794,
+    "length": 15
+  },
+  {
+    "key": "task_importLivestock",
+    "en": "Imports livestock",
+    "vi": "Đang nhập gia súc",
+    "offset": 28298,
+    "length": 18
+  },
+  {
+    "key": "task_goingForADrink",
+    "en": "Going for a drink",
+    "vi": "Đang đi uống bia",
+    "offset": 28852,
+    "length": 18
+  },
+  {
+    "key": "task_gatheringBerries",
+    "en": "Gathering Berries",
+    "vi": "Đang hái quả mọng",
+    "offset": 29393,
+    "length": 18
+  },
+  {
+    "key": "task_gatheringMushrooms",
+    "en": "Gathering Mushrooms",
+    "vi": "Đang hái nấm",
+    "offset": 29866,
+    "length": 20
+  },
+  {
+    "key": "task_waitingForTraderToArrive",
+    "en": "Waiting to be imported",
+    "vi": "Đang chờ người đến dắt đi",
+    "offset": 30313,
+    "length": 23
+  },
+  {
+    "key": "task_run_to_shelter",
+    "en": "Runs to shelter",
+    "vi": "Đang chạy tìm nơi trú ẩn",
+    "offset": 30978,
+    "length": 16
+  },
+  {
+    "key": "task_herdsheep",
+    "en": "Herding Sheep",
+    "vi": "Đang chăn đàn cừu",
+    "offset": 31529,
+    "length": 14
+  },
+  {
+    "key": "waiting_noDeerInRange_or_HuntingLimitReached",
+    "en": "No Game in range or Hunting Limit reached",
+    "vi": "Hết thú trong tầm hoặc đã đạt giới hạn săn",
+    "offset": 31960,
+    "length": 42
+  },
+  {
+    "key": "barter_for",
+    "en": "for",
+    "vi": "đổi lấy",
+    "offset": 33545,
+    "length": 4
+  },
+  {
+    "key": "task_mounted",
+    "en": "Carrying a rider",
+    "vi": "Đang chở người cưỡi",
+    "offset": 33724,
+    "length": 17
+  },
+  {
+    "key": "task_noGuideAvailable",
+    "en": "No Guide available!",
+    "vi": "Không có người dắt gia súc!",
+    "offset": 34227,
+    "length": 20
+  },
+  {
+    "key": "collecting_body",
+    "en": "Collecting a dead body",
+    "vi": "Đang thu gom thi thể",
+    "offset": 34975,
+    "length": 23
+  },
+  {
+    "key": "task_fishing",
+    "en": "Fishing",
+    "vi": "Đang câu cá",
+    "offset": 35550,
+    "length": 8
+  },
+  {
+    "key": "task_transportLimitReached",
+    "en": "Access Limits reached",
+    "vi": "Đạt giới hạn người ra vào",
+    "offset": 35883,
+    "length": 22
+  },
+  {
+    "key": "task_gettingMaintenanceSupplies",
+    "en": "Getting Maintenance Supplies",
+    "vi": "Đang lấy vật tư bảo trì",
+    "offset": 36703,
+    "length": 29
+  },
+  {
+    "key": "task_run_from_attackers",
+    "en": "Run From Attackers",
+    "vi": "Đang tháo chạy khỏi kẻ thù",
+    "offset": 37667,
+    "length": 19
+  },
+  {
+    "key": "fishing_limit_reached",
+    "en": "Fishing Limit reached",
+    "vi": "Đã đạt giới hạn câu cá",
+    "offset": 38301,
+    "length": 22
+  }
+]

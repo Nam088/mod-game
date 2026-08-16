@@ -1,0 +1,114 @@
+[
+  {
+    "key": "Mission01_ROBBER",
+    "en": "Germanic Valley",
+    "vi": "Thung lũng Germanic",
+    "offset": 24,
+    "length": 16
+  },
+  {
+    "key": "Mission01_ROBBER_descr",
+    "en": "A fairly open area with rolling hills, meadows, forests and a stream.",
+    "vi": "Một vùng đất khá thoáng đãng với những ngọn đồi thoai thoải, đồng cỏ xanh mướt, rừng cây rậm rạp và dòng suối hiền hòa.",
+    "offset": 508,
+    "length": 70
+  },
+  {
+    "key": "High_Peaks",
+    "en": "High Peaks",
+    "vi": "Đỉnh Núi Cao",
+    "offset": 2845,
+    "length": 11
+  },
+  {
+    "key": "High_Peaks_descr",
+    "en": "Dramatic valley surrounded on the two sides by impassable steep mountains.",
+    "vi": "Thung lũng hùng vĩ được bao bọc hai bên bởi những dãy núi non hiểm trở, cheo leo khó vượt qua.",
+    "offset": 3273,
+    "length": 75
+  },
+  {
+    "key": "Winding_River",
+    "en": "Winding River",
+    "vi": "Dòng Sông Uốn Lượn",
+    "offset": 5545,
+    "length": 14
+  },
+  {
+    "key": "Winding_River_descr",
+    "en": "Mostly flat landscape divided by a wide river.",
+    "vi": "Địa hình phần lớn bằng phẳng bị chia cắt bởi một con sông lớn uốn quanh.",
+    "offset": 6012,
+    "length": 47
+  },
+  {
+    "key": "Foothills",
+    "en": "Devil's Hill",
+    "vi": "Đồi Quỷ",
+    "offset": 7649,
+    "length": 13
+  },
+  {
+    "key": "Foothills_descr",
+    "en": "Dominated by a huge, central hill which overlooks the surrounding regions.",
+    "vi": "Nổi bật với một quả đồi khổng lồ ở trung tâm có thể bao quát toàn bộ các vùng lân cận.",
+    "offset": 8127,
+    "length": 75
+  },
+  {
+    "key": "Jagged_Cliffs",
+    "en": "Jagged Cliffs",
+    "vi": "Vách Đá Lởm Chởm",
+    "offset": 10594,
+    "length": 14
+  },
+  {
+    "key": "Jagged_Cliffs_descr",
+    "en": "Filled with rocky cliffs and valleys.",
+    "vi": "Địa hình hiểm trở với những vách đá dựng đứng và thung lũng sâu.",
+    "offset": 11085,
+    "length": 38
+  },
+  {
+    "key": "Divided",
+    "en": "Divided",
+    "vi": "Chia Đôi",
+    "offset": 12192,
+    "length": 8
+  },
+  {
+    "key": "Divided_descr",
+    "en": "A small mountain range divides this map in two, with multiple regions on each side.",
+    "vi": "Một dãy núi nhỏ chia đôi bản đồ thành hai nửa, mỗi bên bao gồm nhiều vùng lãnh thổ.",
+    "offset": 12517,
+    "length": 84
+  },
+  {
+    "key": "LargeLake",
+    "en": "Lake Lemm",
+    "vi": "Hồ Lemm",
+    "offset": 15447,
+    "length": 10
+  },
+  {
+    "key": "LargeLake_descr",
+    "en": "A large lakes covers the center of this area, with many regions surrounding it.",
+    "vi": "Một hồ nước lớn bao phủ toàn bộ khu vực trung tâm, xung quanh là nhiều vùng lãnh thổ trù phú.",
+    "offset": 15800,
+    "length": 80
+  },
+  {
+    "key": "TwinLakes",
+    "en": "Twin Lakes",
+    "vi": "Hồ Song Sinh",
+    "offset": 18107,
+    "length": 11
+  },
+  {
+    "key": "TwinLakes_descr",
+    "en": "A pair of lakes dominate an open area with low rolling hills",
+    "vi": "Hai hồ nước song song ngự trị giữa một vùng đất thoáng đãng với những triền đồi trập trùng",
+    "offset": 18531,
+    "length": 61
+  }
+]

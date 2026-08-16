@@ -1,0 +1,632 @@
+[
+  {
+    "key": "upgrades_3",
+    "en": "Upgrade: Burgage Plot Level 2",
+    "vi": "Nâng cấp: Nhà dân Cấp 2",
+    "offset": 24,
+    "length": 30
+  },
+  {
+    "key": "upgradeID_2_descr",
+    "en": "Level 2 <img id=\"house\"/><h>Burgage Plots</> generate 1 <img id=\"ItemID_0\"/><h>Regional Wealth</> per month. {br}{br}Unlocks new <h>Backyard Extensions</>, including <h>Artisan Workshops</>.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Residential Requirements</> will increase!",
+    "vi": "<img id=\"house\"/><h>Nhà dân</> Cấp 2 đóng góp 1 <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi tháng.{br}{br}Mở khóa các <h>Phần mở rộng sân sau</> mới, bao gồm các <h>Xưởng thủ công</>.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</> sẽ tăng lên!",
+    "offset": 1036,
+    "length": 285
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Upgrade: Burgage Plot Level 3",
+    "vi": "Nâng cấp: Nhà dân Cấp 3",
+    "offset": 11084,
+    "length": 30
+  },
+  {
+    "key": "upgradeID_4_descr",
+    "en": "Level 3 <img id=\"house\"/><h>Burgage Plots</> generate 2 <img id=\"ItemID_0\"/><h>Regional Wealth</> per month and Increase <img id=\"LivingSpace\"/><h>Living Space</> by 1. {br}{br}Unlocks new <h>Backyard Extensions</>.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Residential Requirements</> will increase!",
+    "vi": "<img id=\"house\"/><h>Nhà dân</> Cấp 3 đóng góp 2 <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi tháng và tăng thêm 1 <img id=\"LivingSpace\"/><h>Chỗ ở</>.{br}{br}Mở khóa thêm các <h>Phần mở rộng sân sau</> cao cấp.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</> sẽ tăng lên!",
+    "offset": 12096,
+    "length": 310
+  },
+  {
+    "key": "upgrades_6",
+    "en": "Upgrade: Burgage Plot Level 4",
+    "vi": "Nâng cấp: Nhà dân Cấp 4",
+    "offset": 23086,
+    "length": 30
+  },
+  {
+    "key": "upgradeID_5_descr",
+    "en": "Level 4 <img id=\"house\"/><h>Burgage Plots</> generate 3 <img id=\"ItemID_0\"/><h>Regional Wealth</> per month and Increase <img id=\"LivingSpace\"/><h>Living Space</> by 1. {br}{br}Unlocks new <h>Backyard Extensions</>.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Residential Requirements</> will increase!",
+    "vi": "<img id=\"house\"/><h>Nhà dân</> Cấp 4 đóng góp 3 <img id=\"ItemID_0\"/><h>Tài sản vùng</> mỗi tháng và tăng thêm 1 <img id=\"LivingSpace\"/><h>Chỗ ở</>.{br}{br}Mở khóa thêm các <h>Phần mở rộng sân sau</> cao cấp.{br}{br}<img id=\"Warn\"/> <img id=\"Requirements\"/><h>Nhu cầu của Dân làng</> sẽ tăng lên!",
+    "offset": 24096,
+    "length": 310
+  },
+  {
+    "key": "upgrades_7",
+    "en": "Upgrade: Small Stone Church",
+    "vi": "Nâng cấp: Nhà thờ đá nhỏ",
+    "offset": 35112,
+    "length": 28
+  },
+  {
+    "key": "upgradeID_6_descr",
+    "en": "Fulfills 2 <h>Church Level</> Requirements for Burgage Plots.",
+    "vi": "Đáp ứng yêu cầu <h>Nhà thờ Cấp 2</> cho các Nhà dân.",
+    "offset": 35954,
+    "length": 62
+  },
+  {
+    "key": "upgrades_8",
+    "en": "Upgrade: Large Storehouse",
+    "vi": "Nâng cấp: Kho vật tư lớn",
+    "offset": 37939,
+    "length": 26
+  },
+  {
+    "key": "upgradeID_7_descr",
+    "en": "Increases the <img id=\"GenericStorage\"/><h>Generic Storage</> of this building to 2500, and allows up to 6 Families to be Assigned as Storehouse Workers.",
+    "vi": "Tăng sức chứa <img id=\"GenericStorage\"/><h>Kho vật tư</> lên 2.500 và cho phép phân công tối đa 6 hộ dân làm Thủ kho vật tư.",
+    "offset": 38732,
+    "length": 154
+  },
+  {
+    "key": "upgrades_9",
+    "en": "Upgrade: Large Granary",
+    "vi": "Nâng cấp: Kho lương thực lớn",
+    "offset": 43354,
+    "length": 23
+  },
+  {
+    "key": "upgradeID_8_descr",
+    "en": "Increases the <img id=\"Pantry\"/><h>Pantry</> of this building to 2500 and further reduces <h>Food Spoilage</>. Allows up to 6 Families to be Assigned as Granary Workers.",
+    "vi": "Tăng sức chứa <img id=\"Pantry\"/><h>Kho lương thực</> lên 2.500 và giảm tối đa nguy cơ <h>Thức ăn ôi thiu</>. Cho phép phân công tối đa 6 hộ dân làm Thủ kho lương thực.",
+    "offset": 44159,
+    "length": 170
+  },
+  {
+    "key": "upgrades_11",
+    "en": "Add Trading Wagons",
+    "vi": "Thêm Xe ngựa thồ hàng",
+    "offset": 49965,
+    "length": 19
+  },
+  {
+    "key": "upgradeID_10_descr",
+    "en": "Enables employing <h>Horses</> at the <h>Trading Post</>, allowing for up to 50 goods to be carried per trip and decreasing the time to reach <img id=\"Tradepoint\"/><h>Tradepoints</>.",
+    "vi": "Cho phép sử dụng <h>Ngựa</> kéo xe tại <h>Trạm giao thương</>, giúp chở tối đa 50 món hàng mỗi chuyến và rút ngắn thời gian di chuyển đến <img id=\"Tradepoint\"/><h>Điểm giao thương</>.",
+    "offset": 50698,
+    "length": 183
+  },
+  {
+    "key": "upgrades_12",
+    "en": "Upgrade: Plowing Station",
+    "vi": "Nâng cấp: Trạm cày bừa",
+    "offset": 56936,
+    "length": 25
+  },
+  {
+    "key": "upgrades_13",
+    "en": "Construction: Expansion",
+    "vi": "Mở rộng: Cất thêm nhà ở",
+    "offset": 66636,
+    "length": 24
+  },
+  {
+    "key": "upgradeID_12_descr",
+    "en": "Increases <img id=\"LivingSpace\"/><h>Living Space</> by 1, allowing an additional <img id=\"Worker\"/><h>Family</> to move in.",
+    "vi": "Tăng thêm 1 <img id=\"LivingSpace\"/><h>Chỗ ở</>, cho phép đón thêm 1 <img id=\"Worker\"/><h>Hộ dân</> vào ở chung thửa đất.",
+    "offset": 67310,
+    "length": 124
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Purchase Animal: Ox",
+    "vi": "Mua bò kéo",
+    "offset": 71794,
+    "length": 20
+  },
+  {
+    "key": "upgradeID_13_descr",
+    "en": "<h>Oxen</> are necessary to move <img id=\"ItemID_16\"/><h>Timber</>.{br}{br}<i>After placing an order, a Livestock Merchant will come to your Settlement and deliver the animal. Orders can be placed once per month per Region. For more frequent trading build a Livestock Trading Post.</>",
+    "vi": "<h>Bò kéo</> là bắt buộc để kéo <img id=\"ItemID_16\"/><h>Gỗ cây</> xây nhà.{br}{br}<i>Sau khi đặt mua, Thương nhân sẽ dắt bò đến giao tận nơi. Mỗi tháng chỉ được đặt mua 1 lần mỗi Vùng. Nếu muốn mua bán thường xuyên hơn hãy xây Chợ gia súc.</>",
+    "offset": 72420,
+    "length": 285
+  },
+  {
+    "key": "upgrades_15",
+    "en": "Upgrade: Small Stable",
+    "vi": "Nâng cấp: Chuồng ngựa nhỏ",
+    "offset": 82360,
+    "length": 22
+  },
+  {
+    "key": "upgradeID_14_descr",
+    "en": "Increases <img id=\"stable\"/><h>Stable Space</> by 1.",
+    "vi": "Tăng thêm 1 <img id=\"stable\"/><h>Chỗ buộc gia súc</>.",
+    "offset": 83098,
+    "length": 53
+  },
+  {
+    "key": "upgrades_16",
+    "en": "Construction: Herb Garden",
+    "vi": "Trồng: Vườn thảo mộc",
+    "offset": 84928,
+    "length": 26
+  },
+  {
+    "key": "upgradeID_15_descr",
+    "en": "Allows Forager Workers to grow <img id=\"ItemID_18\"/><h>Herbs</>.",
+    "vi": "Cho phép Người hái lượm gieo trồng <img id=\"ItemID_18\"/><h>Thảo mộc</> ngay tại lán.",
+    "offset": 85724,
+    "length": 65
+  },
+  {
+    "key": "upgrades_17",
+    "en": "Rebuild",
+    "vi": "Xây dựng lại",
+    "offset": 87993,
+    "length": 8
+  },
+  {
+    "key": "upgradeID_16_descr",
+    "en": "Reconstruct the demolished building.",
+    "vi": "Tái thiết lại công trình vừa bị phá hủy.",
+    "offset": 88365,
+    "length": 37
+  },
+  {
+    "key": "upgrades_18",
+    "en": "Construction: Fence",
+    "vi": "Làm: Hàng rào chuồng trại",
+    "offset": 89383,
+    "length": 20
+  },
+  {
+    "key": "upgradeID_17_descr",
+    "en": "Allows use of a <h>Fallow</> <h>Field</> as a <h>Pasture</>, improving <h>Fertility</> restoration.",
+    "vi": "Cho phép sử dụng <h>Cánh đồng</> đang <h>Nghỉ hoang</> làm <h>Đồng cỏ chăn thả</>, giúp hồi phục <h>Độ phì nhiêu</> nhanh hơn nhiều.",
+    "offset": 89923,
+    "length": 100
+  },
+  {
+    "key": "upgrades_19",
+    "en": "Upgrade: Deep Mine",
+    "vi": "Nâng cấp: Mỏ sâu",
+    "offset": 94002,
+    "length": 19
+  },
+  {
+    "key": "upgradeID_18_descr",
+    "en": "Enables indefinite resource extraction when placed over a <img id=\"richDeposit\"/><h>Rich Deposit</>.",
+    "vi": "Cho phép đào khoáng sản vô hạn không bao giờ cạn khi đặt trên <img id=\"richDeposit\"/><h>Mỏ trữ lượng lớn</>.",
+    "offset": 94716,
+    "length": 101
+  },
+  {
+    "key": "upgrades_20",
+    "en": "Purchase Animal: Horse",
+    "vi": "Mua ngựa",
+    "offset": 98457,
+    "length": 23
+  },
+  {
+    "key": "upgradeID_19_descr",
+    "en": "<h>Horses</> may be assigned to the <h>Trading Post</>, allowing for up to 50 goods to be carried per trip and decreasing the time to reach <img id=\"Tradepoint\"/><h>Tradepoints</>.{br}{br}<i>After placing an order, a Livestock Merchant will come to your Settlement and deliver the animal. Orders can be placed once per month per Region. For more frequent trading build a Livestock Trading Post.</>",
+    "vi": "<h>Ngựa</> có thể phân công cho <h>Trạm giao thương</>, giúp chở tối đa 50 món hàng mỗi chuyến và rút ngắn thời gian di chuyển đến <img id=\"Tradepoint\"/><h>Điểm giao thương</>.{br}{br}<i>Sau khi đặt mua, Thương nhân sẽ dắt ngựa đến giao tận nơi. Mỗi tháng chỉ được đặt mua 1 lần mỗi Vùng. Nếu muốn mua bán thường xuyên hơn hãy xây Chợ gia súc.</>",
+    "offset": 99099,
+    "length": 398
+  },
+  {
+    "key": "upgrades_21",
+    "en": "Upgrade to a Worker Camp",
+    "vi": "Nâng cấp thành Trại công nhân",
+    "offset": 112808,
+    "length": 25
+  },
+  {
+    "key": "upgradeID_20_descr",
+    "en": "Provides crude living space for 5 Families. Contrary to Burgage Plots, it cannot be upgraded or expanded and may cause a small loss of <h>APPROVAL</>. {br}{br} Best suited as Worker accomodation for <h>OUTPOSTS</>.",
+    "vi": "Chỗ ở tạm cho 5 hộ dân. Khác với Nhà dân, trại này không thể nâng cấp, không thể xây sân sau và có thể làm giảm nhẹ <h>LÒNG DÂN</>.{br}{br}Thích hợp nhất làm chỗ ở tạm cho thợ tại các <h>TIỀN ĐỒN</> khai thác xa.",
+    "offset": 113641,
+    "length": 215
+  },
+  {
+    "key": "upgrades_22",
+    "en": "Purchase Animal: Mule",
+    "vi": "Mua la thồ",
+    "offset": 121728,
+    "length": 22
+  },
+  {
+    "key": "upgradeID_21_descr",
+    "en": "<h>Mules</> may be assigned to the <h>Pack Station</>, allowing for up to 20 goods to be carried per trip.{br}{br}<i>After placing an order, a Livestock Merchant will come to your Settlement and deliver the animal. Orders can be placed once per month per Region. For more frequent trading build a Livestock Trading Post.</>",
+    "vi": "<h>La</> có thể phân công cho <h>Trạm thồ hàng</>, giúp chở tối đa 20 món hàng mỗi chuyến.{br}{br}<i>Sau khi đặt mua, Thương nhân sẽ dắt la đến giao tận nơi. Mỗi tháng chỉ được đặt mua 1 lần mỗi Vùng. Nếu muốn mua bán thường xuyên hơn hãy xây Chợ gia súc.</>",
+    "offset": 122383,
+    "length": 324
+  },
+  {
+    "key": "upgrades_23",
+    "en": "Upgrade: Stone Well",
+    "vi": "Nâng cấp: Giếng đá",
+    "offset": 133540,
+    "length": 20
+  },
+  {
+    "key": "upgradeID_22_descr",
+    "en": "Increases the capacity of the <h>Well</>, supplying up to 50 <img id=\"house\"/><h>BURAGE PLOTS</> with <img id=\"Water\"/><h>Drinking Water</>.",
+    "vi": "Tăng công suất <h>Giếng nước</>, cung cấp đủ <img id=\"Water\"/><h>Nước uống</> cho tối đa 50 <img id=\"house\"/><h>NHÀ DÂN</>.",
+    "offset": 134254,
+    "length": 141
+  },
+  {
+    "key": "upgrades_24",
+    "en": "Upgrade: Large Tavern",
+    "vi": "Nâng cấp: Quán bia lớn",
+    "offset": 138882,
+    "length": 22
+  },
+  {
+    "key": "upgradeID_23_descr",
+    "en": "With an increased <img id=\"Pantry\"/><h>Pantry</>, Workers can supply up to 50 <img id=\"house\"/><h>Burgage Plots</> with <img id=\"ItemID_28\"/><h>Ale</>.",
+    "vi": "Mở rộng <img id=\"Pantry\"/><h>Kho chứa</>, phục vụ <img id=\"ItemID_28\"/><h>Bia Ale</> cho tối đa 50 <img id=\"house\"/><h>Nhà dân</>.",
+    "offset": 139643,
+    "length": 152
+  },
+  {
+    "key": "upgrades_25",
+    "en": "Conversion: Smallholding",
+    "vi": "Chuyên môn hóa: Hộ làm nông",
+    "offset": 144996,
+    "length": 25
+  },
+  {
+    "key": "upgradeID_24_descr",
+    "en": "The residing <h>Families</> become permanently assigned to their <h>Backyard Extension</>, increasing its <h>Yield</>.",
+    "vi": "Cả <h>Hộ dân</> sẽ chuyên tâm làm việc toàn thời gian tại <h>Vườn sân sau</>, giúp tăng mạnh <h>Sản lượng</> thu hoạch.",
+    "offset": 145791,
+    "length": 119
+  },
+  {
+    "key": "upgrades_26",
+    "en": "Construction: Smoking Shed",
+    "vi": "Xây dựng: Lán hun khói",
+    "offset": 149639,
+    "length": 27
+  },
+  {
+    "key": "upgradeID_25_descr",
+    "en": "Enables the production of <img id=\"ItemID_323\"/><h>Smoked Fish</>.",
+    "vi": "Cho phép chế biến <img id=\"ItemID_323\"/><h>Cá hun khói</> để bảo quản được lâu hơn.",
+    "offset": 150398,
+    "length": 67
+  },
+  {
+    "key": "upgrades_27",
+    "en": "Purchase Animal: Hunting Hound",
+    "vi": "Mua chó săn",
+    "offset": 152612,
+    "length": 31
+  },
+  {
+    "key": "upgradeID_26_descr",
+    "en": "Provides +1 <img id=\"ItemID_330\"/><h>Small Game</> and +1 <img id=\"ItemID_9\"/><h>Pelts</> on every successful hunt.",
+    "vi": "Tăng thêm +1 <img id=\"ItemID_330\"/><h>Thịt thú nhỏ</> và +1 <img id=\"ItemID_9\"/><h>Da lông thú</> sau mỗi chuyến săn thành công.",
+    "offset": 153443,
+    "length": 116
+  },
+  {
+    "key": "upgrades_28",
+    "en": "Purchase Animals: Pigs",
+    "vi": "Mua lợn nuôi",
+    "offset": 157682,
+    "length": 23
+  },
+  {
+    "key": "upgradeID_27_descr",
+    "en": "Provides a strong passive yield of <img id=\"ItemID_334\"/><h>Pork</>.",
+    "vi": "Đem lại nguồn cung cấp <img id=\"ItemID_334\"/><h>Thịt lợn</> đều đặn.",
+    "offset": 158377,
+    "length": 69
+  },
+  {
+    "key": "upgrades_29",
+    "en": "Purchase Animals: Goats",
+    "vi": "Mua dê nuôi",
+    "offset": 160656,
+    "length": 24
+  },
+  {
+    "key": "upgrades_29184",
+    "en": "Provides a passive yield of <img id=\"ItemID_221\"/><h>Milk</>, and every third yield provides <img id=\"ItemID_333\"/><h>Chevon</> and <img id=\"ItemID_3\"/><h>Hides</>.",
+    "vi": "Đem lại nguồn <img id=\"ItemID_221\"/><h>Sữa</> đều đặn, và cứ mỗi 3 đợt sẽ thu được thêm <img id=\"ItemID_333\"/><h>Thịt dê</> cùng <img id=\"ItemID_3\"/><h>Da thô</>.",
+    "offset": 161334,
+    "length": 165
+  },
+  {
+    "key": "upgrades_30",
+    "en": "Purchase Seeds: Beetroots",
+    "vi": "Mua hạt giống: Củ dền",
+    "offset": 166696,
+    "length": 26
+  },
+  {
+    "key": "upgradeID_29_descr",
+    "en": "Provides a low yield of <img id=\"ItemID_339\"/><h>Beetroots</>, and takes roughly 10 weeks to grow.",
+    "vi": "Thu hoạch <img id=\"ItemID_339\"/><h>Củ dền</> (sản lượng ít, lớn nhanh trong 10 tuần).",
+    "offset": 167413,
+    "length": 99
+  },
+  {
+    "key": "upgrades_31",
+    "en": "Purchase Seeds: Carrots",
+    "vi": "Mua hạt giống: Cà rốt",
+    "offset": 170773,
+    "length": 24
+  },
+  {
+    "key": "upgradeID_30_descr",
+    "en": "Provides a medium yield of <img id=\"ItemID_337\"/><h>Carrots</>, and takes roughly 14 weeks to grow.",
+    "vi": "Thu hoạch <img id=\"ItemID_337\"/><h>Cà rốt</> (sản lượng vừa, lớn trong 14 tuần).",
+    "offset": 171470,
+    "length": 100
+  },
+  {
+    "key": "upgrades_32",
+    "en": "Purchase Seeds: Cabbages",
+    "vi": "Mua hạt giống: Bắp cải",
+    "offset": 174867,
+    "length": 25
+  },
+  {
+    "key": "upgradeID_31_descr",
+    "en": "Provides a high yield of <img id=\"ItemID_338\"/><h>Cabbages</>, and takes roughly 18 weeks to grow.",
+    "vi": "Thu hoạch <img id=\"ItemID_338\"/><h>Bắp cải</> (sản lượng nhiều, lớn trong 18 tuần).",
+    "offset": 175553,
+    "length": 99
+  },
+  {
+    "key": "upgrades_33",
+    "en": "Purchase Seeds: Quinces",
+    "vi": "Mua giống cây: Mộc qua",
+    "offset": 178849,
+    "length": 24
+  },
+  {
+    "key": "upgradeID_32_descr",
+    "en": "Provides a low yield of <img id=\"ItemID_46\"/><h>Quinces</>, and takes roughly 2 years to reach full maturity.",
+    "vi": "Trồng cây <img id=\"ItemID_46\"/><h>Mộc qua</> (sản lượng ít, mất khoảng 2 năm để cây trưởng thành).",
+    "offset": 179541,
+    "length": 110
+  },
+  {
+    "key": "upgrades_34",
+    "en": "Purchase Seeds: Apples",
+    "vi": "Mua giống cây: Táo",
+    "offset": 183152,
+    "length": 23
+  },
+  {
+    "key": "upgradeID_33_descr",
+    "en": "Provides a medium yield of <img id=\"ItemID_296\"/><h>Apples</>, and takes roughly 3 years to reach full maturity.",
+    "vi": "Trồng cây <img id=\"ItemID_296\"/><h>Táo</> (sản lượng vừa, mất khoảng 3 năm để cây trưởng thành).",
+    "offset": 183885,
+    "length": 113
+  },
+  {
+    "key": "upgrades_35",
+    "en": "Purchase Seeds: Pears",
+    "vi": "Mua giống cây: Lê",
+    "offset": 187558,
+    "length": 22
+  },
+  {
+    "key": "upgradeID_34_descr",
+    "en": "Provides a high yield of <img id=\"ItemID_45\"/><h>Pears</>, and takes roughly 4 years to reach full maturity.",
+    "vi": "Trồng cây <img id=\"ItemID_45\"/><h>Lê</> (sản lượng cao, mất khoảng 4 năm để cây trưởng thành).",
+    "offset": 188213,
+    "length": 109
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Chicken Coop",
+    "vi": "Chuồng gà",
+    "offset": 191859,
+    "length": 13
+  },
+  {
+    "key": "upgradeID_101_descr",
+    "en": "Provides a passive yield of <img id=\"ItemID_220\"/><h>Eggs</> and every fourth yield provides <img id=\"ItemID_336\"/><h>Chicken</>.{br}{br}<i>Chickens are paid for and arrive once the coop is complete.</>",
+    "vi": "Thu hoạch <img id=\"ItemID_220\"/><h>Trứng gà</> đều đặn, và cứ mỗi 4 đợt sẽ nhận được thêm <img id=\"ItemID_336\"/><h>Thịt gà</>.{br}{br}<i>Gà giống sẽ tự động được mang đến ngay sau khi xây xong chuồng.</>",
+    "offset": 192191,
+    "length": 203
+  },
+  {
+    "key": "upgrades_103",
+    "en": "Animal Pen",
+    "vi": "Chuồng gia súc sân sau",
+    "offset": 199381,
+    "length": 11
+  },
+  {
+    "key": "upgradeID_102_descr",
+    "en": "Allows for keeping either <h>Pigs</> or <h>Goats</> in the backyard.{br}{br}<h>Pigs</> provide <img id=\"ItemID_334\"/><h>Pork</>.{br}<h>Goats</> provide <img id=\"ItemID_221\"/><h>Milk</>, <img id=\"ItemID_333\"/><h>Chevon</> and <img id=\"ItemID_3\"/><h>Hides</>.{br}{br}<i>Animals may be purchased after the frame is built.</>",
+    "vi": "Cho phép nuôi <h>Lợn</> hoặc <h>Dê</> ở sân sau.{br}{br}<h>Lợn</> cho <img id=\"ItemID_334\"/><h>Thịt lợn</>.{br}<h>Dê</> cho <img id=\"ItemID_221\"/><h>Sữa</>, <img id=\"ItemID_333\"/><h>Thịt dê</> và <img id=\"ItemID_3\"/><h>Da thô</>.{br}{br}<i>Có thể mua vật nuôi sau khi dựng xong chuồng.</>",
+    "offset": 199718,
+    "length": 322
+  },
+  {
+    "key": "upgrades_104",
+    "en": "Blacksmith's Workshop",
+    "vi": "Xưởng thợ rèn",
+    "offset": 210869,
+    "length": 22
+  },
+  {
+    "key": "upgradeID_103_descr",
+    "en": "Enables production of <img id=\"ItemID_6\"/><h>Tools</>, <img id=\"ItemID_133\"/><h>Spears</>, <img id=\"ItemID_177\"/><h>Sidearms</> and <img id=\"ItemID_317\"/><h>Iron Parts</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Sản xuất <img id=\"ItemID_6\"/><h>Công cụ</>, <img id=\"ItemID_133\"/><h>Giáo</>, <img id=\"ItemID_177\"/><h>Kiếm ngắn</> và <img id=\"ItemID_317\"/><h>Linh kiện sắt</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 211342,
+    "length": 275
+  },
+  {
+    "key": "upgrades_15872",
+    "en": "Consente la produzione di <img id=\"ItemID_6\"/><h> attrezzi</>, <img id=\"ItemID_133\"/><h> lance</>, <img id=\"ItemID_177\"/><h> armi da fianco</> e <img id=\"ItemID_317\"/><h> parti in ferro</>.{br}{br}<i>Converte tutti gli abitanti in artigiani, ed evita che ricevano incarichi per altri lavori.</>",
+    "vi": "Sản xuất <img id=\"ItemID_6\"/><h>Công cụ</>, <img id=\"ItemID_133\"/><h>Giáo</>, <img id=\"ItemID_177\"/><h>Kiếm ngắn</> và <img id=\"ItemID_317\"/><h>Linh kiện sắt</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 216709,
+    "length": 295
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Bakery",
+    "vi": "Lò bánh mì",
+    "offset": 221506,
+    "length": 7
+  },
+  {
+    "key": "upgradeID_104_descr",
+    "en": "Enables production of <img id=\"ItemID_172\"/><h>Wheat Bread</> and <img id=\"ItemID_170\"/><h>Rye Bread</>.{br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Sản xuất <img id=\"ItemID_172\"/><h>Bánh mì lúa mì</> và <img id=\"ItemID_170\"/><h>Bánh mì lúa mạch đen</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 221820,
+    "length": 207
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Brewery",
+    "vi": "Xưởng ủ bia",
+    "offset": 229500,
+    "length": 8
+  },
+  {
+    "key": "upgradeID_105_descr",
+    "en": "Enables production of <img id=\"ItemID_28\"/><h>Ale</> from <img id=\"itemID_29\"/><h>Malt</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Nấu <img id=\"ItemID_28\"/><h>Bia Ale</> từ <img id=\"itemID_29\"/><h>Mạch nha</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 229824,
+    "length": 194
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Tailor's Workshop",
+    "vi": "Xưởng thợ may",
+    "offset": 237140,
+    "length": 18
+  },
+  {
+    "key": "upgradeID_106_descr",
+    "en": "Enables production of <img id=\"ItemID_149\"/><h>Clothes</>, <img id=\"ItemID_8\"/><h>Cloaks</> and <img id=\"ItemID_163\"/><h>Gambesons</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "May <img id=\"ItemID_149\"/><h>Quần áo</>, <img id=\"ItemID_8\"/><h>Áo choàng</> và <img id=\"ItemID_163\"/><h>Giáp vải chần</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 237680,
+    "length": 238
+  },
+  {
+    "key": "upgrades_108",
+    "en": "Cobbler's Workshop",
+    "vi": "Xưởng đóng giày",
+    "offset": 245538,
+    "length": 19
+  },
+  {
+    "key": "upgradeID_107_descr",
+    "en": "Enables production of <img id=\"ItemID_10\"/><h>Shoes</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Đóng <img id=\"ItemID_10\"/><h>Giày da</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 246076,
+    "length": 159
+  },
+  {
+    "key": "upgrades_109",
+    "en": "Vegetable Garden",
+    "vi": "Vườn rau sân sau",
+    "offset": 251317,
+    "length": 17
+  },
+  {
+    "key": "upgradeID_108_descr",
+    "en": "Allows growing <img id=\"Vegetables\"/><h>Vegetables</>.{br}{br}<img id=\"Yield\"/><h>Yield</> increases with plot size, but so does the <img id=\"ItemID_0\"/><h>Planting Cost</>. {br}{br}<i>Seeds may be chosen and planted after the frame is built.</>",
+    "vi": "Trồng các loại <img id=\"Vegetables\"/><h>Rau củ</>.{br}{br}<img id=\"Yield\"/><h>Sản lượng</> càng lớn khi vườn càng rộng, nhưng <img id=\"ItemID_0\"/><h>Chi phí gieo hạt</> ban đầu cũng tăng theo.{br}{br}<i>Có thể chọn hạt giống gieo trồng sau khi làm xong vườn.</>",
+    "offset": 251721,
+    "length": 246
+  },
+  {
+    "key": "upgrades_110",
+    "en": "Joiner's Workshop",
+    "vi": "Xưởng đồ gỗ",
+    "offset": 260562,
+    "length": 18
+  },
+  {
+    "key": "upgradeID_109_descr",
+    "en": "Enables production of <img id=\"ItemID_7\"/><h>Wooden Parts</> and <img id=\"ItemID_270\"/><img id=\"ItemID_271\"/><h>Shields</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Sản xuất <img id=\"ItemID_7\"/><h>Linh kiện gỗ</> và các loại <img id=\"ItemID_270\"/><img id=\"ItemID_271\"/><h>Khiên</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 261119,
+    "length": 227
+  },
+  {
+    "key": "upgrades_111",
+    "en": "Armorer's Workshop",
+    "vi": "Xưởng rèn giáp",
+    "offset": 268617,
+    "length": 19
+  },
+  {
+    "key": "upgradeID_110_descr",
+    "en": "Enables production of <img id=\"ItemID_273\"/><h>Helmets</>, <img id=\"ItemID_164\"/><h>Mail Armor</> and <img id=\"ItemID_293\"/><h>Plate Armor</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Rèn <img id=\"ItemID_273\"/><h>Mũ sắt</>, <img id=\"ItemID_164\"/><h>Giáp xích</> và <img id=\"ItemID_293\"/><h>Giáp tấm</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 269232,
+    "length": 246
+  },
+  {
+    "key": "---EXTENSIONS---",
+    "en": "Bowyer's Workshop",
+    "vi": "Xưởng làm cung",
+    "offset": 278505,
+    "length": 18
+  },
+  {
+    "key": "upgradeID_111_descr",
+    "en": "Enables production of <img id=\"ItemID_205\"/><h>Warbows</> and <img id=\"ItemID_206\"/><h>Crossbows</>. {br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Chế tạo <img id=\"ItemID_205\"/><h>Cung chiến</> và <img id=\"ItemID_206\"/><h>Nỏ</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 279087,
+    "length": 204
+  },
+  {
+    "key": "upgrades_113",
+    "en": "Orchard",
+    "vi": "Vườn cây ăn quả",
+    "offset": 285833,
+    "length": 8
+  },
+  {
+    "key": "upgradeID_112_descr",
+    "en": "Allows growing <img id=\"Fruits\"/><h>Fruits</>. {br}{br}<img id=\"Yield\"/><h>Yield</> increases with plot size, but so does the <img id=\"ItemID_0\"/><h>Planting Cost</>. {br}{br}<img id=\"Warn\"/> Trees take approximately 2 to 4 years to fully mature and reach their maximum yield potential. {br}{br}<i>Seeds may be chosen and planted after the frame is built.</>",
+    "vi": "Trồng các loại <img id=\"Fruits\"/><h>Hoa quả</>.{br}{br}<img id=\"Yield\"/><h>Sản lượng</> càng lớn khi vườn càng rộng, nhưng <img id=\"ItemID_0\"/><h>Chi phí cây giống</> ban đầu cũng tăng theo.{br}{br}<img id=\"Warn\"/> Cây ăn quả cần khoảng 2 đến 4 năm để lớn và cho sản lượng tối đa.{br}{br}<i>Có thể chọn cây giống sau khi làm xong vườn.</>",
+    "offset": 286113,
+    "length": 359
+  },
+  {
+    "key": "upgrades_114",
+    "en": "Butcher's Workshop",
+    "vi": "Xưởng xẻ thịt",
+    "offset": 299040,
+    "length": 19
+  },
+  {
+    "key": "upgradeID_113_descr",
+    "en": "Enables production of:{br}<img id=\"ItemID_332\"/><h>Mutton</> and <img id=\"ItemID_3\"/><h>Hides</> from surplus <h>Livestock</>, and <img id=\"ItemID_320\"/><h>Sausages</> from <img id=\"ItemID_145\"/><h>Salt</> and <img id=\"ItemID_147\"/><h>Meats</>.{br}{br}<i>Converts all inhabitants to Artisans, preventing them from being assigned to other jobs.</>",
+    "vi": "Xẻ thịt lấy <img id=\"ItemID_332\"/><h>Thịt cừu</> và <img id=\"ItemID_3\"/><h>Da thô</> từ lượng <h>Gia súc</> dư thừa, đồng thời làm <img id=\"ItemID_320\"/><h>Xúc xích</> từ <img id=\"ItemID_145\"/><h>Muối</> và <img id=\"ItemID_147\"/><h>Thịt tươi</>.{br}{br}<i>Biến cả gia đình thành Thợ thủ công chuyên nghiệp (sẽ không thể điều đi làm việc khác).</>",
+    "offset": 299495,
+    "length": 347
+  },
+  {
+    "key": "upgrades_115",
+    "en": "Apiary",
+    "vi": "Trại ong",
+    "offset": 311174,
+    "length": 7
+  },
+  {
+    "key": "upgradeID_114_descr",
+    "en": "Provides a passive yield of <img id=\"ItemID_141\"/><h>Honey</> and every third yield provides <img id=\"ItemID_142\"/><h>Wax</>.",
+    "vi": "Thu hoạch <img id=\"ItemID_141\"/><h>Mật ong</> đều đặn, và cứ mỗi 3 đợt sẽ nhận thêm <img id=\"ItemID_142\"/><h>Sáp ong</>.",
+    "offset": 311477,
+    "length": 126
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "key": "approval_None",
+    "en": "None",
+    "vi": "Không có",
+    "offset": 24,
+    "length": 5
+  },
+  {
+    "key": "effects_none",
+    "en": "No Effects",
+    "vi": "Không có hiệu lực",
+    "offset": 225,
+    "length": 11
+  },
+  {
+    "key": "approval_currentEffects",
+    "en": "Current Effects",
+    "vi": "Tác động hiện tại",
+    "offset": 607,
+    "length": 16
+  },
+  {
+    "key": "approval_currentFactors",
+    "en": "Current Factors",
+    "vi": "Yếu tố hiện tại",
+    "offset": 1062,
+    "length": 16
+  },
+  {
+    "key": "approval_recentFactors",
+    "en": "Recent Factors",
+    "vi": "Yếu tố gần đây",
+    "offset": 1554,
+    "length": 15
+  },
+  {
+    "key": "approval_pastFactors",
+    "en": "Lingering Memories",
+    "vi": "Dư âm trong quá khứ",
+    "offset": 2046,
+    "length": 19
+  },
+  {
+    "key": "approval_loss_triggered",
+    "en": "Causes a loss of Approval.",
+    "vi": "Làm giảm điểm Lòng dân.",
+    "offset": 2656,
+    "length": 27
+  },
+  {
+    "key": "approval_11776",
+    "en": "Zorgt voor een daling in populariteit.",
+    "vi": "Làm giảm điểm Lòng dân.",
+    "offset": 3505,
+    "length": 39
+  },
+  {
+    "key": "-------------",
+    "en": "Hunger",
+    "vi": "Đói khát",
+    "offset": 3706,
+    "length": 7
+  },
+  {
+    "key": "EApprovalFactorType::cold",
+    "en": "Cold",
+    "vi": "Rét buốt",
+    "offset": 3934,
+    "length": 5
+  },
+  {
+    "key": "EApprovalFactorType::death",
+    "en": "Death",
+    "vi": "Người chết",
+    "offset": 4158,
+    "length": 6
+  },
+  {
+    "key": "EApprovalFactorType::homelessness",
+    "en": "Homelessness",
+    "vi": "Vô gia cư",
+    "offset": 4397,
+    "length": 13
+  },
+  {
+    "key": "EApprovalFactorType::missingMarketFood",
+    "en": "Not enough Food Variety at the Marketplace",
+    "vi": "Thiếu đa dạng món ăn ngoài Chợ",
+    "offset": 4774,
+    "length": 43
+  },
+  {
+    "key": "EApprovalFactorType::missingMarketFuel",
+    "en": "Not enough Fuel at the Marketplace",
+    "vi": "Thiếu chất đốt & củi sưởi ngoài Chợ",
+    "offset": 6086,
+    "length": 35
+  },
+  {
+    "key": "EApprovalFactorType::missingMarketCloth",
+    "en": "Not enough Clothing Variety at the Marketplace",
+    "vi": "Thiếu đa dạng quần áo ngoài Chợ",
+    "offset": 7145,
+    "length": 47
+  },
+  {
+    "key": "EApprovalFactorType::noWaterAccess",
+    "en": "Missing Water Access",
+    "vi": "Thiếu nước sinh hoạt",
+    "offset": 8489,
+    "length": 21
+  },
+  {
+    "key": "EApprovalFactorType::missingChurch",
+    "en": "Church Level too low",
+    "vi": "Cấp độ Nhà thờ quá thấp",
+    "offset": 9200,
+    "length": 21
+  },
+  {
+    "key": "EApprovalFactorType::foodVarietyGood",
+    "en": "Market Food Variety",
+    "vi": "Đa dạng món ăn ngoài Chợ",
+    "offset": 9968,
+    "length": 20
+  },
+  {
+    "key": "EApprovalFactorType::churchLevelGood",
+    "en": "Church Level",
+    "vi": "Cấp độ Nhà thờ",
+    "offset": 10771,
+    "length": 13
+  },
+  {
+    "key": "EApprovalFactorType::clothSuppliesGood",
+    "en": "Market Clothing Variety",
+    "vi": "Đa dạng quần áo ngoài Chợ",
+    "offset": 11226,
+    "length": 24
+  },
+  {
+    "key": "EApprovalFactorType::lowApproval",
+    "en": "Low Approval",
+    "vi": "Lòng dân thấp",
+    "offset": 12064,
+    "length": 13
+  },
+  {
+    "key": "EApprovalFactorType::drinking",
+    "en": "Drinking",
+    "vi": "Uống rượu giải sầu",
+    "offset": 12642,
+    "length": 9
+  },
+  {
+    "key": "EApprovalFactorType::unemployment",
+    "en": "Unemployment",
+    "vi": "Thất nghiệp",
+    "offset": 12939,
+    "length": 13
+  },
+  {
+    "key": "EApprovalFactorType::patrols",
+    "en": "Patrols",
+    "vi": "Tuần tra an ninh",
+    "offset": 13332,
+    "length": 8
+  },
+  {
+    "key": "EApprovalFactorType::administration",
+    "en": "Administrative Buildings",
+    "vi": "Công trình hành chính",
+    "offset": 13627,
+    "length": 25
+  },
+  {
+    "key": "EApprovalFactorType::no_administration",
+    "en": "Lack of Administrative Buildings",
+    "vi": "Thiếu công trình hành chính",
+    "offset": 14265,
+    "length": 33
+  },
+  {
+    "key": "EApprovalFactorType::hardship",
+    "en": "Policies",
+    "vi": "Chính sách hà khắc",
+    "offset": 15266,
+    "length": 9
+  },
+  {
+    "key": "approval_29184",
+    "en": "Lack of Entertainment",
+    "vi": "Thiếu nơi giải trí (Quán bia)",
+    "offset": 15600,
+    "length": 22
+  },
+  {
+    "key": "EApprovalFactorType::unburied",
+    "en": "Unburied Bodies",
+    "vi": "Thi thể chưa chôn cất",
+    "offset": 16181,
+    "length": 16
+  },
+  {
+    "key": "EApprovalFactorType::taxation",
+    "en": "Taxation",
+    "vi": "Thuế vụ",
+    "offset": 16830,
+    "length": 9
+  },
+  {
+    "key": "EApprovalFactorType::SatisfiedMarketCommodities",
+    "en": "General Good Variety",
+    "vi": "Đa dạng hàng hóa tiêu dùng",
+    "offset": 17192,
+    "length": 21
+  },
+  {
+    "key": "EApprovalFactorType::SatisfiedMarketFood",
+    "en": "Satisfied Food Requirements",
+    "vi": "Đáp ứng đủ nhu cầu ăn uống",
+    "offset": 17940,
+    "length": 28
+  },
+  {
+    "key": "EApprovalFactorType::SatisfiedAmenities",
+    "en": "Amenities",
+    "vi": "Tiện ích dân sinh",
+    "offset": 18840,
+    "length": 10
+  },
+  {
+    "key": "EApprovalFactorType::MissingAmenities",
+    "en": "Missing Amenities",
+    "vi": "Thiếu tiện ích dân sinh",
+    "offset": 19217,
+    "length": 18
+  },
+  {
+    "key": "EApprovalFactorType::MissingMarketCommodities",
+    "en": "Missing Market Goods",
+    "vi": "Thiếu hàng hóa ngoài Chợ",
+    "offset": 19851,
+    "length": 21
+  },
+  {
+    "key": "EApprovalFactorType::ApprovalFromMilitiaEquipment",
+    "en": "Equipped Militia",
+    "vi": "Dân quân được trang bị Vũ khí & Giáp",
+    "offset": 20558,
+    "length": 17
+  },
+  {
+    "key": "-------------",
+    "en": "Reviled",
+    "vi": "Bị căm ghét tột cùng",
+    "offset": 21227,
+    "length": 8
+  },
+  {
+    "key": "approvalImpression_Despised",
+    "en": "Despised",
+    "vi": "Bị khinh ghét",
+    "offset": 21594,
+    "length": 9
+  },
+  {
+    "key": "approvalImpression_Disliked",
+    "en": "Disliked",
+    "vi": "Bị mất lòng dân",
+    "offset": 21896,
+    "length": 9
+  },
+  {
+    "key": "approvalImpression_Respected",
+    "en": "Respected",
+    "vi": "Được kính trọng",
+    "offset": 22222,
+    "length": 10
+  },
+  {
+    "key": "approvalImpression_Liked",
+    "en": "Liked",
+    "vi": "Được dân quý mến",
+    "offset": 22538,
+    "length": 6
+  },
+  {
+    "key": "approvalImpression_Admired",
+    "en": "Admired",
+    "vi": "Được ngưỡng mộ",
+    "offset": 22813,
+    "length": 8
+  },
+  {
+    "key": "approvalImpression_Revered",
+    "en": "Revered",
+    "vi": "Được tôn kính",
+    "offset": 23144,
+    "length": 8
+  },
+  {
+    "key": "-------------",
+    "en": "Cannot Form Militia",
+    "vi": "Không thể thành lập Dân quân",
+    "offset": 23589,
+    "length": 20
+  },
+  {
+    "key": "approvalEffect_Families",
+    "en": "Monthly Migration",
+    "vi": "Dân cư chuyển đến hàng tháng",
+    "offset": 24339,
+    "length": 18
+  },
+  {
+    "key": "approvalEffect_Influence",
+    "en": "Influence per Month",
+    "vi": "Uy danh mỗi tháng",
+    "offset": 24937,
+    "length": 20
+  },
+  {
+    "key": "approvalEffect_Morale",
+    "en": "Militia Morale",
+    "vi": "Tinh thần Dân quân",
+    "offset": 25520,
+    "length": 15
+  },
+  {
+    "key": "approvalEffect_PublicOrder",
+    "en": "Public Order",
+    "vi": "Trật tự trị an",
+    "offset": 26014,
+    "length": 13
+  },
+  {
+    "key": "approvalEffect_RegionalWealth_T4_T3",
+    "en": "Passive Income (Burgage Lv3 & Lv4)",
+    "vi": "Thu nhập thụ động (Nhà dân Cấp 3 & 4)",
+    "offset": 26524,
+    "length": 35
+  },
+  {
+    "key": "approvalEffect_RegionalWealth_T4_T3_T2",
+    "en": "Passive Income (Burgage Lv2, Lv3 & Lv4)",
+    "vi": "Thu nhập thụ động (Nhà dân Cấp 2, 3 & 4)",
+    "offset": 27764,
+    "length": 40
+  },
+  {
+    "key": "approvalEffect_RegionalWealth_all",
+    "en": "Passive Income (All Burgage Levels)",
+    "vi": "Thu nhập thụ động (Mọi cấp Nhà dân)",
+    "offset": 29148,
+    "length": 36
+  },
+  {
+    "key": "approvalEffect_TaxCollection",
+    "en": "Tax Collection Efficiency",
+    "vi": "Hiệu suất thu thuế",
+    "offset": 30389,
+    "length": 26
+  }
+]

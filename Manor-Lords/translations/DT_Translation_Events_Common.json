@@ -1,0 +1,268 @@
+[
+  {
+    "key": "popup_hunger",
+    "en": "Hunger!",
+    "vi": "Bị đói!",
+    "offset": 24,
+    "length": 8
+  },
+  {
+    "key": "popup_cold",
+    "en": "Cold!",
+    "vi": "Bị rét!",
+    "offset": 392,
+    "length": 6
+  },
+  {
+    "key": "raiders_near",
+    "en": "Raiders near!",
+    "vi": "Giặc cướp áp sát!",
+    "offset": 650,
+    "length": 14
+  },
+  {
+    "key": "raiders_near_descr",
+    "en": "We've received reports of a band of raiders roaming the nearby lands. Should we track their steps?",
+    "vi": "Chúng ta vừa nhận được tin báo một toán cướp đang lảng vảng quanh vùng lân cận. Chúng ta có nên theo dấu chúng không?",
+    "offset": 1361,
+    "length": 99
+  },
+  {
+    "key": "prepare_for_raids",
+    "en": "Prepare for the attack",
+    "vi": "Chuẩn bị nghênh chiến",
+    "offset": 4456,
+    "length": 23
+  },
+  {
+    "key": "track_them",
+    "en": "Track their movement",
+    "vi": "Theo dõi đường đi của chúng",
+    "offset": 5178,
+    "length": 21
+  },
+  {
+    "key": "ignore",
+    "en": "We'll be ready",
+    "vi": "Chúng ta sẵn sàng đón đầu",
+    "offset": 5731,
+    "length": 15
+  },
+  {
+    "key": "trade_route_unlocked",
+    "en": "Trade route unlocked",
+    "vi": "Đã mở khóa Tuyến giao thương",
+    "offset": 6288,
+    "length": 21
+  },
+  {
+    "key": "battle_started",
+    "en": "The battle begins",
+    "vi": "Trận chiến bắt đầu",
+    "offset": 6964,
+    "length": 18
+  },
+  {
+    "key": "battle_for",
+    "en": "Battle for",
+    "vi": "Trận chiến giành",
+    "offset": 7502,
+    "length": 11
+  },
+  {
+    "key": "battle_victorious",
+    "en": "Victory!",
+    "vi": "Chiến thắng rực rỡ!",
+    "offset": 7839,
+    "length": 9
+  },
+  {
+    "key": "peace_declared",
+    "en": "Peace declared",
+    "vi": "Đã lập lại Hòa bình",
+    "offset": 8181,
+    "length": 15
+  },
+  {
+    "key": "enemies_declared",
+    "en": "Enemies declared",
+    "vi": "Đã tuyên chiến kẻ thù",
+    "offset": 8729,
+    "length": 17
+  },
+  {
+    "key": "battle_challenge_initiated",
+    "en": "The gauntlet has been thrown",
+    "vi": "Lời thách đấu đã được đưa ra",
+    "offset": 9417,
+    "length": 29
+  },
+  {
+    "key": "battle_lost",
+    "en": "Battle Lost!",
+    "vi": "Thất trận!",
+    "offset": 10029,
+    "length": 13
+  },
+  {
+    "key": "region_claimed",
+    "en": "Region Claimed!",
+    "vi": "Đã xác lập chủ quyền Vùng!",
+    "offset": 10536,
+    "length": 16
+  },
+  {
+    "key": "region_settled",
+    "en": "Region Settled",
+    "vi": "Đã thành lập khu định cư mới",
+    "offset": 11206,
+    "length": 15
+  },
+  {
+    "key": "victory_growth",
+    "en": "Victory Condition: Growth",
+    "vi": "Điều kiện Thắng: Thịnh Vượng (Phát triển)",
+    "offset": 11803,
+    "length": 26
+  },
+  {
+    "key": "victory_growth_descr",
+    "en": "Where others see trouble, you see potential. These lands shall become rich and prosperous under your skillful management. {br}{br}Reach the <h>LARGE TOWN</> settlement level to achieve victory.",
+    "vi": "Nơi người khác thấy gian khó, bạn lại nhìn ra tiềm năng. Mảnh đất này sẽ trở nên giàu có và phồn vinh dưới sự lãnh đạo tài ba của bạn.{br}{br}Hãy nâng cấp khu định cư đạt cấp độ <h>THỊ TRẤN LỚN (LARGE TOWN)</> để giành thắng lợi chung cuộc.",
+    "offset": 12670,
+    "length": 194
+  },
+  {
+    "key": "victory_dominance",
+    "en": "Victory Condition: Dominance",
+    "vi": "Điều kiện Thắng: Thống Trị",
+    "offset": 19133,
+    "length": 29
+  },
+  {
+    "key": "victory_dominance_descr",
+    "en": "Build up your town, your manor, and when ready - press claims towards regions owned by your opponents. {br}{br}Once a claim has been pressed, be ready for battle.",
+    "vi": "Hãy xây dựng thị trấn, củng cố dinh thự và khi đã sẵn sàng — hãy đem quân đánh chiếm các vùng đất của những Lãnh chúa đối địch.{br}{br}Một khi đã đưa ra yêu sách đòi đất, hãy chuẩn bị tinh thần nghênh chiến!",
+    "offset": 19995,
+    "length": 163
+  },
+  {
+    "key": "victory_conquest",
+    "en": "Victory Condition: Conquest",
+    "vi": "Điều kiện Thắng: Chinh Phục Toàn Cục",
+    "offset": 25435,
+    "length": 28
+  },
+  {
+    "key": "victory_conquest_descr",
+    "en": "You were born for great things and if God wills it, great things you will achieve. {br}{br}Build up your <h>INFLUENCE</> and press <h>CLAIMS</> to all the territories on the map. Once claimed, victory will be yours.",
+    "vi": "Bạn sinh ra để làm nên nghiệp lớn và nếu Chúa ban ơn, bạn sẽ đạt được điều đó.{br}{br}Tích lũy điểm <h>UY DANH</> và tuyên bố <h>CHỦ QUYỀN</> đối với toàn bộ các vùng lãnh thổ trên bản đồ. Khi đã thâu tóm tất cả, chiến thắng tối thượng sẽ thuộc về bạn.",
+    "offset": 26301,
+    "length": 216
+  },
+  {
+    "key": "i_will_unite_these_lands_under_my_rule",
+    "en": "I'll unite these lands under my rule.",
+    "vi": "Ta sẽ thống nhất toàn bộ các vùng đất này dưới sự trị vì của ta.",
+    "offset": 33451,
+    "length": 38
+  },
+  {
+    "key": "events_common_11776",
+    "en": "Eu unirei estas terras sob meu comando",
+    "vi": "Ta sẽ thống nhất toàn bộ các vùng đất này dưới sự trị vì của ta.",
+    "offset": 33965,
+    "length": 39
+  },
+  {
+    "key": "prosperity_awaits",
+    "en": "Prosperity awaits!",
+    "vi": "Thịnh vượng đang đón chờ!",
+    "offset": 34911,
+    "length": 19
+  },
+  {
+    "key": "let_us_form_the_militia",
+    "en": "Let's form the militia",
+    "vi": "Hãy tập hợp Dân quân",
+    "offset": 35596,
+    "length": 23
+  },
+  {
+    "key": "policy_signed",
+    "en": "Policy Signed",
+    "vi": "Đã ban hành Chính sách",
+    "offset": 36313,
+    "length": 14
+  },
+  {
+    "key": "policy_unsigned",
+    "en": "Policy Unsigned",
+    "vi": "Đã bãi bỏ Chính sách",
+    "offset": 36930,
+    "length": 16
+  },
+  {
+    "key": "click_to_unsign",
+    "en": "Click to unsign this Policy",
+    "vi": "Nhấp để bãi bỏ Chính sách này",
+    "offset": 37587,
+    "length": 28
+  },
+  {
+    "key": "enemy_pressed_claim",
+    "en": "Enemy presses claim!",
+    "vi": "Kẻ địch yêu sách chủ quyền!",
+    "offset": 38753,
+    "length": 21
+  },
+  {
+    "key": "spoils_of_war",
+    "en": "Spoils of war",
+    "vi": "Chiến lợi phẩm",
+    "offset": 39651,
+    "length": 14
+  },
+  {
+    "key": "spoils_of_war_descr",
+    "en": "When searching through the enemy belongings, you find a stash of goods. They could be send to your people who surely need them, though, it is your right to keep it.",
+    "vi": "Khi lục soát hành lý của kẻ thù, bạn tìm thấy một kho báu vật và hàng hóa. Số của cải này có thể gửi về cho dân làng đang thiếu thốn, hoặc bạn có quyền giữ lại cho riêng mình.",
+    "offset": 40099,
+    "length": 165
+  },
+  {
+    "key": "return_resources_to_town",
+    "en": "Send resources to the nearest town",
+    "vi": "Chuyển tài nguyên về thị trấn gần nhất",
+    "offset": 45393,
+    "length": 35
+  },
+  {
+    "key": "keep_spoils_for_yourself",
+    "en": "This belongs to my Treasury now",
+    "vi": "Số của cải này nay thuộc về Ngân khố của ta",
+    "offset": 46669,
+    "length": 32
+  },
+  {
+    "key": "bandit_camps",
+    "en": "A Bandit Camp was sighted",
+    "vi": "Phát hiện Trại cướp",
+    "offset": 47589,
+    "length": 26
+  },
+  {
+    "key": "bandit_camps_descr",
+    "en": "These men are heedless of both sacred and secular laws and will become a nuissance to your people. {br}{br}However, if we were to form a military expedition, who knows what valuables they hide in their encampment?",
+    "vi": "Những kẻ này coi thường cả giáo luật lẫn phép nước và sẽ sớm trở thành mối họa cho dân làng.{br}{br}Tuy nhiên, nếu chúng ta mở một cuộc viễn chinh triệt hạ chúng, ai biết được chúng đang giấu những của cải quý giá gì trong trại?",
+    "offset": 48526,
+    "length": 214
+  },
+  {
+    "key": "popup_royal_tax_increase",
+    "en": "Royal Tax increased",
+    "vi": "Thuế Hoàng gia tăng lên",
+    "offset": 55458,
+    "length": 20
+  }
+]

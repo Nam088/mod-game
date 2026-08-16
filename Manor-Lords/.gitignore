@@ -1,0 +1,17 @@
+# Build output
+build/
+dist/
+
+# Game assets extracted (không commit vì quá nặng)
+extracted/
+
+# Custom fonts downloaded at build time
+custom_fonts/
+
+# .NET build artifacts
+tools/DataTableConverter/bin/
+tools/DataTableConverter/obj/
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,156 @@
+[
+  {
+    "key": "weather_and_seasons_2",
+    "en": "Jan",
+    "vi": "Thg 1",
+    "offset": 24,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_3",
+    "en": "Feb",
+    "vi": "Thg 2",
+    "offset": 216,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_4",
+    "en": "Mar",
+    "vi": "Thg 3",
+    "offset": 416,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_5",
+    "en": "Apr",
+    "vi": "Thg 4",
+    "offset": 621,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_6",
+    "en": "May",
+    "vi": "Thg 5",
+    "offset": 820,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_7",
+    "en": "Jun",
+    "vi": "Thg 6",
+    "offset": 1016,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_8",
+    "en": "Jul",
+    "vi": "Thg 7",
+    "offset": 1215,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_9",
+    "en": "Aug",
+    "vi": "Thg 8",
+    "offset": 1412,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_10",
+    "en": "Sep",
+    "vi": "Thg 9",
+    "offset": 1615,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_11",
+    "en": "Oct",
+    "vi": "Thg 10",
+    "offset": 1823,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_12",
+    "en": "Nov",
+    "vi": "Thg 11",
+    "offset": 2031,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_13",
+    "en": "Dec",
+    "vi": "Thg 12",
+    "offset": 2235,
+    "length": 4
+  },
+  {
+    "key": "weather_and_seasons_1",
+    "en": "Winter",
+    "vi": "Mùa đông",
+    "offset": 2444,
+    "length": 7
+  },
+  {
+    "key": "weather_and_seasons_2",
+    "en": "Spring",
+    "vi": "Mùa xuân",
+    "offset": 2664,
+    "length": 7
+  },
+  {
+    "key": "weather_and_seasons_3",
+    "en": "Summer",
+    "vi": "Mùa hạ",
+    "offset": 2922,
+    "length": 7
+  },
+  {
+    "key": "weather_and_seasons_4",
+    "en": "Autumn",
+    "vi": "Mùa thu",
+    "offset": 3147,
+    "length": 7
+  },
+  {
+    "key": "tooltip_seasons",
+    "en": "Seasons are deeply connected to people's lives and affect different jobs.",
+    "vi": "Bốn mùa gắn liền mật thiết với cuộc sống của dân làng và ảnh hưởng trực tiếp đến từng ngành nghề.",
+    "offset": 3399,
+    "length": 74
+  },
+  {
+    "key": "tooltip_spring",
+    "en": "<h>Spring</>  <i>(Mar-May)</> Frequent raining.",
+    "vi": "<h>Mùa xuân</>  <i>(Thg 3 - Thg 5)</> Mưa rào thường xuyên.",
+    "offset": 5760,
+    "length": 48
+  },
+  {
+    "key": "tooltip_summer",
+    "en": "<h>Summer</>  <i>(Jun-Aug)</> Crops grow. Possible droughts.",
+    "vi": "<h>Mùa hạ</>  <i>(Thg 6 - Thg 8)</> Nông sản phát triển. Có thể xảy ra hạn hán.",
+    "offset": 7303,
+    "length": 61
+  },
+  {
+    "key": "tooltip_autumn",
+    "en": "<h>Autumn</>  <i>(Sep-Nov)</>  Harvesting, plowing and sowing crops.",
+    "vi": "<h>Mùa thu</>  <i>(Thg 9 - Thg 11)</> Thu hoạch mùa màng, cày bừa và gieo hạt giống mới.",
+    "offset": 9764,
+    "length": 69
+  },
+  {
+    "key": "tooltip_winter",
+    "en": "<h>Winter</>  <i>(Dec-Feb)</> Sheep shearing forbidden. Wild Berry bushes become dormant.",
+    "vi": "<h>Mùa đông</>  <i>(Thg 12 - Thg 2)</> Cấm xén lông cừu. Bụi quả mọng hoang bước vào thời kỳ ngủ đông.",
+    "offset": 12189,
+    "length": 90
+  },
+  {
+    "key": "year",
+    "en": "Year",
+    "vi": "Năm",
+    "offset": 15305,
+    "length": 5
+  }
+]

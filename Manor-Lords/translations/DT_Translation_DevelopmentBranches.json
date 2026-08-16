@@ -1,0 +1,352 @@
+[
+  {
+    "key": "locked",
+    "en": "Work in Progress",
+    "vi": "Tính năng đang phát triển",
+    "offset": 24,
+    "length": 17
+  },
+  {
+    "key": "development_perk_unlocked",
+    "en": "Development Perk Unlocked",
+    "vi": "Đã mở khóa Điểm phát triển",
+    "offset": 549,
+    "length": 26
+  },
+  {
+    "key": "sheepbreeding",
+    "en": "Sheepbreeding",
+    "vi": "Nhân giống cừu",
+    "offset": 1435,
+    "length": 14
+  },
+  {
+    "key": "sheepbreeding_descr",
+    "en": "Sheep grazing on the pastures slowly multiply.",
+    "vi": "Cừu gặm cỏ trên đồng cỏ sẽ tự động sinh sản theo thời gian.",
+    "offset": 1915,
+    "length": 47
+  },
+  {
+    "key": "charcoal_burning",
+    "en": "Charcoal Burning",
+    "vi": "Đốt than củi",
+    "offset": 3597,
+    "length": 17
+  },
+  {
+    "key": "advanced_skinning",
+    "en": "Advanced Skinning",
+    "vi": "Kỹ thuật lột da nâng cao",
+    "offset": 4150,
+    "length": 18
+  },
+  {
+    "key": "advanced_skinning_descr",
+    "en": "Doubles the amount of <img id=\"ItemID_147\"/> <h>MEAT</> produced by Hunters, Butchers and the Animal Pen <h>BACKYARD EXTENSION</>.",
+    "vi": "Tăng gấp đôi lượng <img id=\"ItemID_147\"/> <h>THỊT TƯƠI</> thu được từ Thợ săn, Thợ xẻ thịt và <h>CHUỒNG GIA SÚC SÂN SAU</>.",
+    "offset": 4810,
+    "length": 131
+  },
+  {
+    "key": "fertilization",
+    "en": "Fertilization",
+    "vi": "Bón phân phục hồi đất",
+    "offset": 9366,
+    "length": 14
+  },
+  {
+    "key": "forest_management",
+    "en": "Forest Management",
+    "vi": "Quản lý rừng & cây bụi",
+    "offset": 9733,
+    "length": 18
+  },
+  {
+    "key": "forest_management_descr",
+    "en": "Doubles capacity of all <img id=\"ItemID_171\"/> <h>WILD BERRIES</>.",
+    "vi": "Tăng gấp đôi sản lượng trữ lượng của tất cả các <img id=\"ItemID_171\"/> <h>BỤI QUẢ MỌNG</>.",
+    "offset": 10193,
+    "length": 67
+  },
+  {
+    "key": "bakeries",
+    "en": "Bakeries",
+    "vi": "Lò bánh mì thương mại",
+    "offset": 12595,
+    "length": 9
+  },
+  {
+    "key": "herbalism_DEPREC",
+    "en": "Herbalism",
+    "vi": "Dược liệu học",
+    "offset": 12925,
+    "length": 10
+  },
+  {
+    "key": "brewing_DEPREC",
+    "en": "Brewing",
+    "vi": "Nấu bia",
+    "offset": 13337,
+    "length": 8
+  },
+  {
+    "key": "beekeeping",
+    "en": "Beekeeping",
+    "vi": "Nuôi ong lấy mật",
+    "offset": 13693,
+    "length": 11
+  },
+  {
+    "key": "heavy_plow",
+    "en": "Heavy plow",
+    "vi": "Cày nặng kéo bằng bò",
+    "offset": 14020,
+    "length": 11
+  },
+  {
+    "key": "orchardry",
+    "en": "Orchardry",
+    "vi": "Trồng cây ăn quả",
+    "offset": 14408,
+    "length": 10
+  },
+  {
+    "key": "advanced_beekeeping",
+    "en": "Advanced Beekeeping",
+    "vi": "Nuôi ong nâng cao",
+    "offset": 14771,
+    "length": 20
+  },
+  {
+    "key": "advanced_beekeeping_descr",
+    "en": "Enables the beekeepers to also collect  <img id=\"ItemID_142\"/> <h>WAX</>.",
+    "vi": "Cho phép người nuôi ong thu hoạch thêm cả <img id=\"ItemID_142\"/> <h>SÁP ONG</>.",
+    "offset": 15357,
+    "length": 74
+  },
+  {
+    "key": "basic_armormaking",
+    "en": "Basic Armormaking",
+    "vi": "Rèn giáp cơ bản",
+    "offset": 17838,
+    "length": 18
+  },
+  {
+    "key": "basic_armormaking_descr",
+    "en": "Enables blacksmiths to craft <img id=\"ItemID_273\"/> <h>HELMETS</>.",
+    "vi": "Cho phép thợ rèn chế tạo <img id=\"ItemID_273\"/> <h>MŨ SẮT</>.",
+    "offset": 18541,
+    "length": 67
+  },
+  {
+    "key": "irrigation",
+    "en": "Irrigation",
+    "vi": "Hệ thống tưới tiêu",
+    "offset": 20609,
+    "length": 11
+  },
+  {
+    "key": "irrigation_descr",
+    "en": "Dramatically lowers the amount of damage caused by <h>DROUGHTS</>.",
+    "vi": "Giảm đáng kể thiệt hại cho mùa màng khi xảy ra <h>HẠN HÁN</>.",
+    "offset": 20958,
+    "length": 67
+  },
+  {
+    "key": "rye_cultivation",
+    "en": "Rye Cultivation",
+    "vi": "Canh tác lúa mạch đen",
+    "offset": 22703,
+    "length": 16
+  },
+  {
+    "key": "rye_cultivation_descr",
+    "en": "Unlocks <img id=\"ItemID_298\"/> <h>RYE</> crop for <h>FIELDS</>. Similar to <img id=\"ItemID_217\"/> <h>WHEAT</>, <img id=\"ItemID_298\"/> <h>RYE</> can be processed into <img id=\"ItemID_5\"/> <h>FLOUR</>, but it's more resilient and therefore can be grown in places with lower fertility.",
+    "vi": "Mở khóa gieo trồng <img id=\"ItemID_298\"/> <h>LÚA MẠCH ĐEN</> trên <h>CÁNH ĐỒNG</>. Tương tự như <img id=\"ItemID_217\"/> <h>LÚA MÌ</>, <img id=\"ItemID_298\"/> <h>LÚA MẠCH ĐEN</> có thể xay thành <img id=\"ItemID_5\"/> <h>BỘT</>, nhưng cây có sức sống dẻo dai hơn nên trồng tốt trên đất cằn cỗi.",
+    "offset": 23185,
+    "length": 283
+  },
+  {
+    "key": "trapping",
+    "en": "Trapping",
+    "vi": "Đặt bẫy thú rừng",
+    "offset": 33085,
+    "length": 9
+  },
+  {
+    "key": "trapping_descr",
+    "en": "Enables hunters to skillfully lay traps in the forest, which give a passive income of <img id=\"ItemID_147\"/> <h>MEAT</>.",
+    "vi": "Cho phép thợ săn đặt bẫy trong rừng, liên tục thu được <img id=\"ItemID_147\"/> <h>THỊT TƯƠI</> thụ động.",
+    "offset": 33467,
+    "length": 121
+  },
+  {
+    "key": "basic_skinning_DEPREC",
+    "en": "Basic Skinning",
+    "vi": "Lột da cơ bản",
+    "offset": 37443,
+    "length": 15
+  },
+  {
+    "key": "basic_skinning_descr",
+    "en": "Hunters will also extract <img id=\"ItemID_3\"/> <h>HIDES</> from wild animals.",
+    "vi": "Thợ săn sẽ thu được thêm <img id=\"ItemID_3\"/> <h>DA THÔ</> khi săn thú hoang.",
+    "offset": 38048,
+    "length": 78
+  },
+  {
+    "key": "goatkeeping_DEPREC",
+    "en": "Goatkeeping",
+    "vi": "Nuôi dê",
+    "offset": 40688,
+    "length": 12
+  },
+  {
+    "key": "better_deals",
+    "en": "Better Deals",
+    "vi": "Thỏa thuận thương mại giá hời",
+    "offset": 41168,
+    "length": 13
+  },
+  {
+    "key": "better_deals_descr",
+    "en": "Reduces all foreign import tariffs by half at the <h>TRADING POST</>, effectively reducing foreign import prices by 5.",
+    "vi": "Giảm một nửa mức thuế nhập khẩu tại <h>TRẠM GIAO THƯƠNG</>, giúp giảm giá mua hàng ngoại xứ đi 5 đồng.",
+    "offset": 41697,
+    "length": 119
+  },
+  {
+    "key": "foreign_suppliers",
+    "en": "Foreign Suppliers",
+    "vi": "Nhà cung ứng ngoại xứ",
+    "offset": 45520,
+    "length": 18
+  },
+  {
+    "key": "pelt_extraction",
+    "en": "Pelt Extraction",
+    "vi": "Thu hoạch da lông từ bẫy",
+    "offset": 46193,
+    "length": 16
+  },
+  {
+    "key": "pelt_extraction_descr",
+    "en": "Hunters also collect <img id=\"ItemID_3\"/> <h>HIDES</> from traps.",
+    "vi": "Thợ săn thu được thêm cả <img id=\"ItemID_3\"/> <h>DA THÔ</> từ các bẫy thú.",
+    "offset": 46708,
+    "length": 66
+  },
+  {
+    "key": "trapping",
+    "en": "Advanced Armormaking",
+    "vi": "Rèn giáp nâng cao",
+    "offset": 49178,
+    "length": 21
+  },
+  {
+    "key": "advanced_armormaking_descr",
+    "en": "Enables blacksmiths to craft <img id=\"ItemID_164\"/> <h>MAIL ARMOR</>, which can be used to equip citizens of Burgage Plots of <h>LEVEL 3</> and above, or promoting new <h>RETINUE</>.",
+    "vi": "Cho phép thợ rèn chế tạo <img id=\"ItemID_164\"/> <h>GIÁP XÍCH</>, dùng để trang bị cho dân cư ở Nhà dân <h>CẤP 3</> trở lên hoặc nâng cấp <h>ĐỘI CẬN VỆ</>.",
+    "offset": 49924,
+    "length": 183
+  },
+  {
+    "key": "master_armormaking",
+    "en": "Master Armormaking",
+    "vi": "Rèn giáp bậc thầy",
+    "offset": 56428,
+    "length": 19
+  },
+  {
+    "key": "master_armormaking_descr",
+    "en": "Enables blacksmiths to craft <img id=\"ItemID_293\"/> <h>PLATE ARMOR</>, which can in turn be used to upgrade the <h>RETINUE</>.",
+    "vi": "Cho phép thợ rèn chế tạo <img id=\"ItemID_293\"/> <h>GIÁP TẤM</> cao cấp dùng để bọc giáp cho <h>ĐỘI CẬN VỆ</>.",
+    "offset": 57177,
+    "length": 127
+  },
+  {
+    "key": "trade_logistics",
+    "en": "Trade Logistics",
+    "vi": "Hậu cần giao thương",
+    "offset": 60970,
+    "length": 16
+  },
+  {
+    "key": "trade_logistics_descr",
+    "en": "The cost for establishing a new <img id=\"Traderoute\"/> <h>TRADE ROUTE</> is halved.",
+    "vi": "Giảm 50% chi phí mở một <img id=\"Traderoute\"/> <h>TUYẾN GIAO THƯƠNG</> mới.",
+    "offset": 61500,
+    "length": 84
+  },
+  {
+    "key": "deep_mining",
+    "en": "Deep Mining",
+    "vi": "Khai thác mỏ sâu",
+    "offset": 64252,
+    "length": 12
+  },
+  {
+    "key": "advanced_pondkeeping",
+    "en": "Advanced Pondkeeping",
+    "vi": "Nuôi cá nâng cao",
+    "offset": 64767,
+    "length": 21
+  },
+  {
+    "key": "advanced_pondkeeping_descr",
+    "en": "Doubles the maximum capacity of all Shoal of Fish in the Region. Additionally, Workers are able to cut holes in the ice of a <h>FISHING POND</> and use baited hooks to catch <img id=\"ItemID_30\"/> <h>FISH</> beneath the frozen surface. Allows for all year-round fishing.",
+    "vi": "Tăng gấp đôi trữ lượng của mọi Đàn cá trong Vùng. Ngoài ra, Ngư dân có thể đục băng trên mặt <h>AO CÁ</> để câu <img id=\"ItemID_30\"/> <h>CÁ</> vào mùa đông, cho phép đánh bắt cá quanh năm.",
+    "offset": 65492,
+    "length": 270
+  },
+  {
+    "key": "animal_pen_breeding_WIP",
+    "en": "Animal Pen Breeding",
+    "vi": "Nhân giống gia súc sân sau",
+    "offset": 74164,
+    "length": 20
+  },
+  {
+    "key": "animal_pen_breeding_descr",
+    "en": "Residents with an Animal Pen <h>BACKYARD EXTENSION</> will breed their animals and take them to the Butcher. Allows for <img id=\"ItemID_147\"/> <h>MEAT</> and <img id=\"ItemID_3\"/> <h>HIDES</> to be produced from Animal Pens.",
+    "vi": "Cư dân có <h>CHUỒNG GIA SÚC SÂN SAU</> sẽ tự nhân giống vật nuôi và đưa đến tiệm xẻ thịt. Cho phép thu hoạch <img id=\"ItemID_147\"/> <h>THỊT TƯƠI</> và <img id=\"ItemID_3\"/> <h>DA THÔ</> từ chuồng trại sau nhà.",
+    "offset": 74784,
+    "length": 224
+  },
+  {
+    "key": "development_points",
+    "en": "Development Points",
+    "vi": "Điểm phát triển",
+    "offset": 81894,
+    "length": 19
+  },
+  {
+    "key": "dev_unlocked",
+    "en": "Development Branch unlocked",
+    "vi": "Đã mở khóa Nhánh phát triển",
+    "offset": 82421,
+    "length": 28
+  },
+  {
+    "key": "unlock_building",
+    "en": "New Building",
+    "vi": "Công trình mới",
+    "offset": 83298,
+    "length": 13
+  },
+  {
+    "key": "unlock_upgrade",
+    "en": "New Upgrade",
+    "vi": "Nâng cấp mới",
+    "offset": 83746,
+    "length": 12
+  },
+  {
+    "key": "developmentbranches_201",
+    "en": "Locked in early access. Work in progress.",
+    "vi": "Khóa trong giai đoạn Early Access. Tính năng đang phát triển.",
+    "offset": 84216,
+    "length": 42
+  }
+]

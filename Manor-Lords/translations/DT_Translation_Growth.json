@@ -1,0 +1,30 @@
+[
+  {
+    "key": "pop_growth",
+    "en": "Monthly Migration",
+    "vi": "Di dân hàng tháng",
+    "offset": 24,
+    "length": 18
+  },
+  {
+    "key": "EGrowthModifier::NoBurgagePlotAvailability",
+    "en": "No Burgage Plots available",
+    "vi": "Hết Nhà dân trống",
+    "offset": 622,
+    "length": 27
+  },
+  {
+    "key": "EGrowthModifier::Approval",
+    "en": "Approval",
+    "vi": "Lòng dân",
+    "offset": 1482,
+    "length": 9
+  },
+  {
+    "key": "EGrowthModifier::Base",
+    "en": "Fresh Settlement",
+    "vi": "Khu định cư mới lập",
+    "offset": 1819,
+    "length": 17
+  }
+]

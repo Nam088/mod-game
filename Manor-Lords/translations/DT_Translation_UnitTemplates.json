@@ -1,0 +1,100 @@
+[
+  {
+    "key": "bowMilitia",
+    "en": "Archer Militia",
+    "vi": "Dân quân cầm cung",
+    "offset": 24,
+    "length": 15
+  },
+  {
+    "key": "militiaFoot",
+    "en": "Militia Footmen",
+    "vi": "Dân quân cầm kiếm",
+    "offset": 520,
+    "length": 16
+  },
+  {
+    "key": "spearMilitia",
+    "en": "Spear Militia",
+    "vi": "Dân quân cầm giáo",
+    "offset": 982,
+    "length": 14
+  },
+  {
+    "key": "militiaPole",
+    "en": "Polearm Militia",
+    "vi": "Dân quân Vũ khí cán dài",
+    "offset": 1490,
+    "length": 16
+  },
+  {
+    "key": "crossbowMilitia",
+    "en": "Crossbow Militia",
+    "vi": "Dân quân cầm nỏ",
+    "offset": 2070,
+    "length": 17
+  },
+  {
+    "key": "retinue_tier1",
+    "en": "Retinue",
+    "vi": "Đội cận vệ",
+    "offset": 2594,
+    "length": 8
+  },
+  {
+    "key": "retinue_tier3",
+    "en": "Retinue",
+    "vi": "Đội cận vệ",
+    "offset": 2872,
+    "length": 8
+  },
+  {
+    "key": "brigands",
+    "en": "Brigands",
+    "vi": "Toán cướp",
+    "offset": 3150,
+    "length": 9
+  },
+  {
+    "key": "mercenary_archers",
+    "en": "Light Mercenary Archers",
+    "vi": "Lính cầm cung đánh thuê",
+    "offset": 3469,
+    "length": 24
+  },
+  {
+    "key": "mercenary_spearmen",
+    "en": "Light Mercenary Spearmen",
+    "vi": "Lính cầm giáo đánh thuê",
+    "offset": 4274,
+    "length": 25
+  },
+  {
+    "key": "mercenary_infantry",
+    "en": "Light Mercenary Infantry",
+    "vi": "Lính cầm kiếm đánh thuê",
+    "offset": 5083,
+    "length": 25
+  },
+  {
+    "key": "mercenary_heavy_archers",
+    "en": "Heavy Mercenary Archers",
+    "vi": "Lính cung giáp nặng đánh thuê",
+    "offset": 5893,
+    "length": 24
+  },
+  {
+    "key": "brotherhood_of_the_forest",
+    "en": "Brotherhood of the Forest",
+    "vi": "Huynh đệ Rừng thiêng",
+    "offset": 6672,
+    "length": 26
+  },
+  {
+    "key": "mercenary_crossbowmen",
+    "en": "Light Mercenary Crossbowmen",
+    "vi": "Lính cầm nỏ đánh thuê",
+    "offset": 7261,
+    "length": 28
+  }
+]

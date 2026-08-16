@@ -1,0 +1,555 @@
+[
+  {
+    "key": "Perks",
+    "en": "Perks",
+    "vi": "Đặc quyền",
+    "offset": 24,
+    "length": 6
+  },
+  {
+    "key": "BambergSmallholders",
+    "en": "Bamberg Smallholders",
+    "vi": "Tiểu điền chủ xứ Bamberg",
+    "offset": 338,
+    "length": 21
+  },
+  {
+    "key": "OfTheVogtland",
+    "en": "Of the Vogtland",
+    "vi": "Dân cư vùng Vogtland",
+    "offset": 10554,
+    "length": 16
+  },
+  {
+    "key": "WoodwrightsOfFranconia",
+    "en": "Woodwright Journeymen",
+    "vi": "Thợ mộc lành nghề xứ Franconia",
+    "offset": 21115,
+    "length": 22
+  },
+  {
+    "key": "RegensburgGuildsmen",
+    "en": "Regensburg Guildsmen",
+    "vi": "Thợ phường hội xứ Regensburg",
+    "offset": 31699,
+    "length": 21
+  },
+  {
+    "key": "SmithsOfPassau",
+    "en": "Smiths of Passau",
+    "vi": "Thợ rèn xứ Passau",
+    "offset": 41419,
+    "length": 17
+  },
+  {
+    "key": "StrasburgMasons",
+    "en": "Strasburg Masons",
+    "vi": "Thợ đẽo đá xứ Strasburg",
+    "offset": 50621,
+    "length": 17
+  },
+  {
+    "key": "StrasburgMasons_desc",
+    "en": "Our hands were tempered on the spires of Strasburg, each cut of stone a step toward heaven. Though the work fell silent, our craft did not. With the same measure and the same will, we raise walls to endure for generations",
+    "vi": "Đôi tay chúng tôi từng tôi luyện bên những tòa tháp nhọn xứ Strasburg, mỗi nhát đẽo đá là một bước chạm tới thiên đường. Dù công trình xưa đã lặng tiếng, tay nghề của chúng tôi vẫn vẹn nguyên. Với sự chuẩn xác và ý chí kiên định ấy, chúng tôi dựng nên những bức tường trường tồn qua nhiều thế hệ.",
+    "offset": 51339,
+    "length": 222
+  },
+  {
+    "key": "NurembergProspectors",
+    "en": "Nuremberg Prospectors",
+    "vi": "Dân đãi khoáng xứ Nuremberg",
+    "offset": 59123,
+    "length": 22
+  },
+  {
+    "key": "NurembergProspectors_desc",
+    "en": "Our fathers struck their fortunes in Nuremberg, on iron veins and salt roads. But fortunes thin, and heirs grow many. We strike out to claim our own share, new seams and new trade, and from what we win shall come iron well-measured, and from that iron, armor fit for kings.",
+    "vi": "Cha ông chúng tôi từng làm giàu tại Nuremberg từ những mạch quặng sắt và con đường muối. Nhưng của cải vơi dần theo năm tháng, trong khi con cháu ngày một đông. Chúng tôi lên đường tìm kiếm cơ hội cho riêng mình — những vỉa quặng mới và những tuyến buôn mới — để từ nguồn sắt rèn chuẩn xác đó, tạo nên những bộ chiến giáp xứng tầm bậc đế vương.",
+    "offset": 59846,
+    "length": 274
+  },
+  {
+    "key": "WeidenHinterlanders",
+    "en": "Weiden Hinterlanders",
+    "vi": "Dân khai hoang xứ Weiden",
+    "offset": 69110,
+    "length": 21
+  },
+  {
+    "key": "WeidenHinterlanders_desc",
+    "en": "Along the Waldnaab lie steep fields and iron hills, where herds graze thin pastures and every harvest is hard won. Yet despite our resolve we could not guard against the greed of men, and so we were left with nothing. Still we journeyed on, carrying with us the craft of turning hard land into plenty.",
+    "vi": "Dọc bờ sông Waldnaab là những sườn đồi dốc và núi đá quặng sắt, nơi gia súc gặm cỏ trên đồng khô và mỗi mùa gặt đều phải đánh đổi bằng mồ hôi nước mắt. Dù kiên cường, chúng tôi vẫn không thể chống lại lòng tham của kẻ quyền thế và phải ra đi với hai bàn tay trắng. Nhưng chúng tôi vẫn vững bước tiến lên, mang theo bí quyết biến mảnh đất khô cằn thành chốn trù phú.",
+    "offset": 69751,
+    "length": 302
+  },
+  {
+    "key": "BornOfTheAlps",
+    "en": "Born of the Alps",
+    "vi": "Con người xứ Alps",
+    "offset": 80798,
+    "length": 17
+  },
+  {
+    "key": "BornOfTheAlps_desc",
+    "en": "We were raised where the slopes are steep and the valleys quiet. The cold takes what it can, so we keep what it cannot: clothes well-made, herds bred to endure, and wild country left rich enough to fill the pot when winter comes.",
+    "vi": "Chúng tôi lớn lên nơi sườn núi cheo leo và những thung lũng tĩnh lặng. Giá rét cướp đi mọi thứ có thể, vì vậy chúng tôi giữ lại những gì nó không thể chạm tới: áo ấm may khéo, đàn gia súc dẻo dai chịu rét, và vùng hoang dã trù phú đủ để nồi súp luôn đầy khi mùa đông về.",
+    "offset": 81315,
+    "length": 230
+  },
+  {
+    "key": "----DEPRECATED---",
+    "en": "Living Stories",
+    "vi": "Chuyện kể sống mãi",
+    "offset": 89622,
+    "length": 15
+  },
+  {
+    "key": "livingstories_desc",
+    "en": "Ancestors of our founders once settled in Hungarian lands, but their grandparents took their fortunes into their own hands and left their homeland for the West, where they hoped for a better life. In the firelight, our founders still tell each other the story that was once passed on to their parents and finally to them.",
+    "vi": "Tổ tiên của những người khai hoang từng định cư tại các vùng đất Hungary, nhưng ông bà họ đã tự nắm lấy vận mệnh và di cư về phương Tây với hy vọng đổi đời. Bên ánh lửa bập bùng, dân làng vẫn kể cho nhau nghe câu chuyện từng được truyền từ đời này sang đời khác.",
+    "offset": 90134,
+    "length": 322
+  },
+  {
+    "key": "perks_11776",
+    "en": "New Fortune",
+    "vi": "Vận may mới",
+    "offset": 99688,
+    "length": 12
+  },
+  {
+    "key": "newfortune_desc",
+    "en": "Our settlers suffered under their past lord, which is why they decided to turn their backs on him and left their farmsteads. A year and a day later, they were free and asked you for new patronage and permission to settle in your domain.",
+    "vi": "Những người định cư từng chịu nhiều khổ cực dưới ách lãnh chúa cũ, vì thế họ quyết định rời bỏ quê hương. Một năm lẻ một ngày sau, họ trở thành người tự do và tìm đến bạn xin được che chở và cho phép định cư trên lãnh địa mới.",
+    "offset": 100061,
+    "length": 237
+  },
+  {
+    "key": "pathsend",
+    "en": "Path's End",
+    "vi": "Cuối chặng đường",
+    "offset": 107341,
+    "length": 11
+  },
+  {
+    "key": "pathsend_desc",
+    "en": "The area is located on an important trade route, but the opportunity for a place of flourishing trade has so far remained untapped. To change this and to benefit financially from such settlements, the decision was made to found a new settlement with the intention of developing it into the trading center of the region. Settlers joined in the expectation that this would enable them to gain a foothold in trade and generate prosperity.",
+    "vi": "Khu vực này nằm trên một tuyến đường buôn quan trọng, nhưng tiềm năng thương mại xưa nay vẫn bị bỏ ngỏ. Để biến nơi đây thành trung tâm buôn bán phồn thịnh của cả vùng, một khu định cư mới đã được thành lập. Dân chúng kéo về với hy vọng làm ăn buôn bán và tạo dựng cơ nghiệp vững chắc.",
+    "offset": 107766,
+    "length": 436
+  },
+  {
+    "key": "fromthenorth",
+    "en": "From The North",
+    "vi": "Đến từ Phương Bắc",
+    "offset": 120745,
+    "length": 15
+  },
+  {
+    "key": "fromthenorth_desc",
+    "en": "The founders' grandparents once made a living from fishing, but the meagre harvest forced them to make do with what little they had and move south. Better times are ahead for our founders, who can still build on the experience passed down from their grandparents.",
+    "vi": "Ông bà của những người lập làng từng sống bằng nghề chài lưới, nhưng nguồn cá cạn kiệt buộc họ phải gom góp chút hành lý ít ỏi xuôi về phương Nam. Những ngày tháng tươi sáng hơn đang chờ đợi phía trước, nơi họ có thể phát huy vốn kinh nghiệm quý báu được tổ tiên truyền lại.",
+    "offset": 121156,
+    "length": 264
+  },
+  {
+    "key": "returntopeace",
+    "en": "Return To Peace",
+    "vi": "Trở lại nẻo thiện",
+    "offset": 129478,
+    "length": 16
+  },
+  {
+    "key": "returntopeace_desc",
+    "en": "The daily work of your settlers once consisted of looting and pillaging. But they grew tired of the unstable and dangerous living conditions beyond social acceptance and asked you for forgiveness. After careful consideration, you grant them a second chance, but they must first earn your trust by taking action against other troublemakers in the surrounding area.",
+    "vi": "Trước đây, công việc hàng ngày của những người này là cướp bóc và quấy phá. Nhưng họ đã quá mệt mỏi với cuộc sống bấp bênh ngoài vòng pháp luật và cầu xin bạn thứ tha. Sau khi cân nhắc, bạn cho họ cơ hội làm lại cuộc đời, với điều kiện họ phải chứng minh lòng trung thành bằng cách trấn áp những kẻ gây rối quanh vùng.",
+    "offset": 130017,
+    "length": 364
+  },
+  {
+    "key": "fromtheashes",
+    "en": "From The Ashes",
+    "vi": "Trỗi dậy từ tro tàn",
+    "offset": 141118,
+    "length": 15
+  },
+  {
+    "key": "fromtheashes_desc",
+    "en": "Your settlers' old village was repeatedly raided, looted and burned down by bandits. As if the loss of their livelihood wasn't enough, they also had to bury their loved ones time and again. To break out of the cycle, those who remained decided to make a new start in a foreign land. You took them in and granted them the right to build new homes and use the land.",
+    "vi": "Ngôi làng cũ của dân làng liên tục bị thảo khấu cướp bóc và phóng hỏa thiêu rụi. Đau đớn hơn cả việc mất nhà cửa là việc phải liên tục chôn cất người thân. Để thoát khỏi bi kịch, những người sống sót quyết định làm lại từ đầu nơi đất khách. Bạn đã cưu mang họ và trao cho họ quyền lập nghiệp trên mảnh đất này.",
+    "offset": 141589,
+    "length": 364
+  },
+  {
+    "key": "banished",
+    "en": "Banished",
+    "vi": "Lưu đày",
+    "offset": 153902,
+    "length": 9
+  },
+  {
+    "key": "banished_desc",
+    "en": "Misunderstandings led from one to the other and so people were expelled from their old urban suburb. They found refuge in your domain and are ready to leave their past behind and look to the future.",
+    "vi": "Những hiểu lầm liên tiếp đã khiến họ bị trục xuất khỏi vùng ngoại ô cũ. Họ tìm thấy nơi nương náu trên lãnh địa của bạn và sẵn sàng gác lại quá khứ để hướng tới tương lai.",
+    "offset": 154244,
+    "length": 199
+  },
+  {
+    "key": "newhorizon",
+    "en": "New Horizon",
+    "vi": "Chân trời mới",
+    "offset": 160468,
+    "length": 12
+  },
+  {
+    "key": "newhorizon_desc",
+    "en": "A rockslide ended in disaster and the mountain village in the Alpine landscape was destroyed. Forced to make a new start, the grandparents of our Founders seized the moment and moved to less steep terrain, where they were gladly accepted by the ruler for his settlement project. Their descendants still have the ability to cope well with ascents and descents in their blood today.",
+    "vi": "Một trận lở đá kinh hoàng đã phá hủy ngôi làng miền núi trên dãy Alps. Buộc phải làm lại từ đầu, ông bà của những người khai hoang đã chuyển xuống vùng đất thấp hơn và được lãnh chúa đón nhận. Dòng dõi con cháu ngày nay vẫn giữ trọn khả năng leo trèo và băng rừng vượt dốc trong huyết quản.",
+    "offset": 160887,
+    "length": 381
+  },
+  {
+    "key": "bravesluck",
+    "en": "Brave's Luck",
+    "vi": "May mắn của người dũng cảm",
+    "offset": 172752,
+    "length": 13
+  },
+  {
+    "key": "bravesluck_desc",
+    "en": "From a strategic point of view, it was only logical to push ahead with land reclamation in this region. Therefore, it was announced in your domains that people were free to participate, for which they were provided with suitable land. The result is a group of settlers who joined the venture for completely different reasons.",
+    "vi": "Xét về mặt chiến lược, việc khai hoang vùng đất này là điều vô cùng cần thiết. Vì vậy, lời hiệu triệu được ban bố khắp lãnh địa cho phép mọi người tham gia khai phá và được cấp đất đai. Kết quả là một nhóm người định cư tụ hội về đây với nhiều mục đích khác nhau.",
+    "offset": 173353,
+    "length": 326
+  },
+  {
+    "key": "naturesgifts",
+    "en": "Nature's Gift",
+    "vi": "Món quà của Mẹ Thiên Nhiên",
+    "offset": 183276,
+    "length": 14
+  },
+  {
+    "key": "naturesgifts_desc",
+    "en": "When our settlers were granted the right to found a new settlement in our region, they chose an area that was unusually rich in nature's gifts. The desire to be able to make use of these on an unbroken cycle requires the preservation of flora and fauna.",
+    "vi": "Khi được trao quyền lập làng mới, người dân đã chọn một mảnh đất được thiên nhiên ưu đãi khác thường. Để nguồn tài nguyên này không bao giờ cạn kiệt, việc giữ gìn và bảo vệ hệ sinh thái muôn loài là điều tối quan trọng.",
+    "offset": 183763,
+    "length": 254
+  },
+  {
+    "key": "strongertogether",
+    "en": "Stronger Together",
+    "vi": "Đoàn kết là sức mạnh",
+    "offset": 191633,
+    "length": 18
+  },
+  {
+    "key": "strongertogether_desc",
+    "en": "It is a reassuring feeling to know that the relationship with your trading partners is going well and that you can only benefit from each other. After all, we are stronger together than alone. This is also reflected in the satisfaction of the community.",
+    "vi": "Thật an tâm khi mối quan hệ với các đối tác thương mại luôn êm đẹp và đôi bên cùng có lợi. Rốt cuộc, đoàn kết sẽ tạo nên sức mạnh to lớn hơn đơn độc, và điều đó phản ánh rõ qua sự hài lòng của cả cộng đồng.",
+    "offset": 192248,
+    "length": 254
+  },
+  {
+    "key": "wisdombeneathstone",
+    "en": "Wisdom Beneath Stone",
+    "vi": "Trí tuệ dưới lòng đá",
+    "offset": 199652,
+    "length": 21
+  },
+  {
+    "key": "wisdombeneathstone_desc",
+    "en": "The miners deepened knowledge of extraction techniques fortifies the earth around them.",
+    "vi": "Kinh nghiệm khai khoáng ngày càng sâu sắc của thợ mỏ giúp gia cố và ổn định cấu trúc lòng đất xung quanh.",
+    "offset": 200269,
+    "length": 88
+  },
+  {
+    "key": "TerrainKnowledge",
+    "en": "Terrain Knowledge",
+    "vi": "Am hiểu địa hình",
+    "offset": 203288,
+    "length": 18
+  },
+  {
+    "key": "TerrainKnowledge_desc",
+    "en": "Living at higher altitudes may not always seem practical for everyday life, but in an emergency the villagers know the terrain better than your opponents.",
+    "vi": "Sống trên cao có thể hơi bất tiện trong sinh hoạt hàng ngày, nhưng khi có biến cố hiểm nguy, dân làng thông thuộc từng ngóc ngách địa hình hơn hẳn kẻ địch.",
+    "offset": 203832,
+    "length": 155
+  },
+  {
+    "key": "stickygold",
+    "en": "Sticky Gold",
+    "vi": "Vàng sánh ngọt ngào",
+    "offset": 208840,
+    "length": 12
+  },
+  {
+    "key": "stickygold_desc",
+    "en": "It is sweet and healthy and helps to heal wounds, especially when mixed with other herbs. It was often used in potions and ointments. Reason enough for our settlement to pay special attention to its production. Especially as it can also be used to make delicious little cakes.",
+    "vi": "Mật ong vừa ngọt ngào, bổ dưỡng lại có tác dụng chữa lành vết thương, đặc biệt khi kết hợp với các loại thảo mộc. Nó thường được dùng trong thuốc nước và thuốc mỡ, lại có thể làm thành những chiếc bánh ngọt thơm ngon — lý do quá đủ để khu định cư chú trọng phát triển nghề nuôi ong.",
+    "offset": 209265,
+    "length": 277
+  },
+  {
+    "key": "SeductiveTreeFruit",
+    "en": "Seductive Tree Fruit",
+    "vi": "Trái ngọt quyến rũ",
+    "offset": 218628,
+    "length": 21
+  },
+  {
+    "key": "SeductiveTreeFruit_Desc",
+    "en": "Rumor has it that the emperor sometimes holds an orb that looks like an apple with a cross on it for showing off. But what do you do with it if you can't eat it? Ours can not only be eaten, but also made into drinkable delicacies. We wonder who is better off here?",
+    "vi": "Nghe đồn Hoàng đế đôi khi cầm quả cầu vương quyền trông như trái táo cắm cây thánh giá để phô trương uy quyền. Nhưng không ăn được thì có ích gì? Hoa quả của chúng ta không chỉ ăn ngon mà còn ủ được thành những mẻ rượu tuyệt hảo. Ai hơn ai đã rõ!",
+    "offset": 219220,
+    "length": 265
+  },
+  {
+    "key": "UnknownSymbiosis",
+    "en": "Unknown Symbiosis",
+    "vi": "Cộng sinh kỳ diệu",
+    "offset": 228207,
+    "length": 18
+  },
+  {
+    "key": "UnknownSymbiosis_Desc",
+    "en": "According to observations, plants bear significantly more fruit when they are close to beehives. At the same time, even more of the bees' sweet nectar is produced. What might be the reason for this?",
+    "vi": "Theo quan sát, cây cối sai trĩu quả hơn hẳn khi được trồng gần các tổ ong. Đồng thời, ong cũng tạo ra nhiều mật ngọt hơn. Một sự hòa hợp kỳ diệu của tự nhiên!",
+    "offset": 228746,
+    "length": 199
+  },
+  {
+    "key": "highprofit",
+    "en": "High Profit",
+    "vi": "Lợi nhuận kếch xù",
+    "offset": 234464,
+    "length": 12
+  },
+  {
+    "key": "highprofit_desc",
+    "en": "The flourishing market and its profits have not gone unnoticed in the empire and put you in a more favorable negotiating position. But be warned, your rule is not set in stone.",
+    "vi": "Khu chợ sầm uất và nguồn lợi nhuận dồi dào thu hút sự chú ý của khắp đế chế, giúp bạn chiếm ưu thế lớn trên bàn đàm phán.",
+    "offset": 234922,
+    "length": 177
+  },
+  {
+    "key": "LearnedOfTheLand",
+    "en": "Learned Of The Land",
+    "vi": "Thấu hiểu đất trời",
+    "offset": 240806,
+    "length": 20
+  },
+  {
+    "key": "learnedoftheland_desc",
+    "en": "Living off the land also means understanding the land and learning from it. This not only brings variety to the table, but also refines what everyone likes and needs: food",
+    "vi": "Sống nhờ đất mẹ cũng đồng nghĩa với việc phải hiểu đất và học hỏi từ đất. Điều này không chỉ đem lại sự phong phú cho bữa ăn, mà còn nâng tầm chất lượng nguồn lương thực của cả làng.",
+    "offset": 241293,
+    "length": 172
+  },
+  {
+    "key": "compoundingprosperity",
+    "en": "Compounding Prosperity",
+    "vi": "Thịnh vượng tích lũy",
+    "offset": 247699,
+    "length": 23
+  },
+  {
+    "key": "compoundingprosperity_desc",
+    "en": "Citizen-held wealth gradually accrues interest over time, rewarding economic stability and pragmatic saving.",
+    "vi": "Tài sản của dân làng sinh sôi nảy nở theo thời gian, tưởng thưởng xứng đáng cho nền kinh tế ổn định và lối sống cần kiệm thực tế.",
+    "offset": 248308,
+    "length": 109
+  },
+  {
+    "key": "wisegovernance",
+    "en": "Wise Governance",
+    "vi": "Cai trị anh minh",
+    "offset": 252150,
+    "length": 16
+  },
+  {
+    "key": "wisegovernance_desc",
+    "en": "The communal assets are used wisely in the eyes of other rulers, which increases your reputation and influence among them. But do your subjects see it the same way?",
+    "vi": "Của cải công cộng được sử dụng khôn khéo trong mắt các lãnh chúa lân bang, giúp nâng cao danh tiếng và uy tín của bạn. Nhưng liệu thần dân của bạn có nghĩ như vậy không?",
+    "offset": 252651,
+    "length": 165
+  },
+  {
+    "key": "varietyofgoods",
+    "en": "Variety Of Goods",
+    "vi": "Hàng hóa phong phú",
+    "offset": 257770,
+    "length": 17
+  },
+  {
+    "key": "varietyofgoods_desc",
+    "en": "Giving up certain foods during Lent is one thing, but eating the same things all year round brings little joy to the household. So it's good that our market promises variety at the table.",
+    "vi": "Kiêng khem trong mùa Chay là một chuyện, nhưng quanh năm chỉ ăn mãi một món thì chẳng còn gì vui thú. Thật may là khu chợ của chúng ta luôn đem lại những bữa ăn đa dạng cho mọi nhà.",
+    "offset": 258329,
+    "length": 188
+  },
+  {
+    "key": "lordsfavour",
+    "en": "Lords Favour",
+    "vi": "Ân huệ của Lãnh chúa",
+    "offset": 264830,
+    "length": 13
+  },
+  {
+    "key": "lordsfavour_desc",
+    "en": "Villagers seek to please the Lord through industriousness, though disillusionment erodes their efforts",
+    "vi": "Dân làng chăm chỉ làm lụng để làm vui lòng Lãnh chúa, dẫu cho đôi lúc sự thất vọng có thể làm xói mòn nỗ lực của họ.",
+    "offset": 265312,
+    "length": 103
+  },
+  {
+    "key": "knowingwhatmatters",
+    "en": "Knowing What Matters",
+    "vi": "Hiểu rõ cội nguồn",
+    "offset": 268751,
+    "length": 21
+  },
+  {
+    "key": "knowingwhatmatters_desc",
+    "en": "The settlement is growing and prospering, but despite the development and progress, the residents do not lose sight of what is crucial for their well-being. Without the hard agricultural work of many of their fellow residents, they would not be where they are today.",
+    "vi": "Khu định cư ngày càng phát triển và thịnh vượng, nhưng dân làng không bao giờ quên điều gì là cốt lõi cho cuộc sống. Nếu không có những giọt mồ hôi trên đồng ruộng của bao người, làng sẽ không thể có được ngày hôm nay.",
+    "offset": 269348,
+    "length": 267
+  },
+  {
+    "key": "respectedruler",
+    "en": "Respected Ruler",
+    "vi": "Lãnh chúa được kính trọng",
+    "offset": 276589,
+    "length": 16
+  },
+  {
+    "key": "respectedruler_Desc",
+    "en": "Your rule is not taken for granted, but means daily negotiations with your subjects. Stable and prospective times are only possible if they are satisfied with you as their ruler.",
+    "vi": "Sự ủng hộ của dân chúng không phải tự nhiên mà có, mà là kết quả của việc lắng nghe thần dân mỗi ngày. Thời kỳ ổn định và phồn vinh chỉ đến khi người dân thực sự hài lòng về bạn.",
+    "offset": 277172,
+    "length": 179
+  },
+  {
+    "key": "craftsmennetwork",
+    "en": "Craftsmen Network",
+    "vi": "Mạng lưới thợ thủ công",
+    "offset": 282963,
+    "length": 18
+  },
+  {
+    "key": "craftsmennetwork_Desc",
+    "en": "There are many things that can severely disrupt a craft business, but two cases are particularly bad: too few workers and insufficient resources. Fortunately, the craftsmen have good relationships with their colleagues in neighboring villages, from whom they can not only obtain materials, but may also be able to rely on their help - if the payment is right.",
+    "vi": "Có nhiều thứ làm gián đoạn xưởng nghề, nhưng tệ nhất là thiếu thợ và thiếu nguyên liệu. May mắn thay, các thợ thủ công có mối giao hảo tốt với đồng nghiệp ở các làng lân cận, nơi họ có thể nhờ chi viện hoặc mua nguyên liệu — miễn là thù lao sòng phẳng.",
+    "offset": 283571,
+    "length": 360
+  },
+  {
+    "key": "OneBigFamily",
+    "en": "One Big Family",
+    "vi": "Một mái nhà chung",
+    "offset": 293967,
+    "length": 15
+  },
+  {
+    "key": "OneBigFamily_desc",
+    "en": "Hustle and bustle in the houses of the craftsmen who share the work and the workplace. This unites them and allows for greater productivity through the division of labor. At the same time, drama is inevitable, because where people live together in close quarters, things can't always go smoothly.",
+    "vi": "Khung cảnh tấp nập trong những ngôi nhà thợ thủ công vừa ở vừa làm việc. Sự gắn kết này giúp tăng năng suất lao động nhờ phân công công việc nhịp nhàng, dẫu đôi khi không tránh khỏi những xích mích nhỏ trong cuộc sống thường nhật.",
+    "offset": 294492,
+    "length": 297
+  },
+  {
+    "key": "WatersOfWorth",
+    "en": "Waters Of Worth",
+    "vi": "Dòng nước quý giá",
+    "offset": 303104,
+    "length": 16
+  },
+  {
+    "key": "WatersOfWorth_desc",
+    "en": "Homes that settle near the winding river flourish. Access to fresh water, fertile land, and trade routes enhances properity.",
+    "vi": "Những mái nhà bên dòng sông uốn lượn luôn phát triển trù phú. Nguồn nước mát lành, đất đai màu mỡ và tuyến giao thương đường thủy đem lại sự hưng thịnh vững bền.",
+    "offset": 303589,
+    "length": 125
+  },
+  {
+    "key": "Charity",
+    "en": "Charity",
+    "vi": "Lòng bác ái",
+    "offset": 307814,
+    "length": 8
+  },
+  {
+    "key": "Charity_desc",
+    "en": "Following Christ's example, we offer some of our earthly possessions to the poor, in order to reduce our time in Purgatory... and contribute to the city's prosperity.",
+    "vi": "Noi gương Chúa Cứu Thế, chúng ta chia sẻ của cải trần thế cho người nghèo khó để gột rửa tội lỗi nơi Luyện ngục... đồng thời góp phần vào sự thịnh vượng chung của thị trấn.",
+    "offset": 308227,
+    "length": 167
+  },
+  {
+    "key": "LifeAndLabour",
+    "en": "Life & Labour",
+    "vi": "Sống và Lao động",
+    "offset": 313553,
+    "length": 14
+  },
+  {
+    "key": "LifeAndLabour_desc",
+    "en": "A separation of living space and workplace may be useful or even necessary for some fields of work, but our settlers are not keen on traveling long distances to access their tools.",
+    "vi": "Việc tách biệt chỗ ở và nơi làm việc có thể cần thiết cho một số ngành nghề, nhưng dân làng của chúng ta thích bước chân ra khỏi cửa là có thể bắt tay ngay vào việc hơn.",
+    "offset": 314005,
+    "length": 181
+  },
+  {
+    "key": "Coinage",
+    "en": "Coinage",
+    "vi": "Đúc tiền riêng",
+    "offset": 319893,
+    "length": 8
+  },
+  {
+    "key": "GuildBrotherhood",
+    "en": "Guild Brotherhood",
+    "vi": "Hội Ái hữu Phường hội",
+    "offset": 326396,
+    "length": 18
+  },
+  {
+    "key": "GuildBrotherhood_desc",
+    "en": "From now on, brotherhoods will be permitted to establish foundations and donate to chapels or altars. This will promote the veneration of saints and altar services, thereby making the brotherhoods more visible and influential.",
+    "vi": "Từ nay các hội ái hữu được phép lập quỹ và công đức cho các nhà nguyện hoặc bàn thờ thánh. Điều này giúp tôn vinh các vị thánh và nâng cao uy tín của phường hội.",
+    "offset": 326957,
+    "length": 227
+  },
+  {
+    "key": "MansBestFriend",
+    "en": "Man's Best Friend",
+    "vi": "Người bạn trung thành",
+    "offset": 333602,
+    "length": 18
+  },
+  {
+    "key": "MansBestFriend_desc",
+    "en": "Whether fighting wolves or hunting deer, dogs are our loyal and eternal companions. As we provide for them, so too do they provide for us.",
+    "vi": "Dù đối đầu với bầy sói dữ hay đi săn hươu nai, đàn chó săn luôn là người bạn trung thành tuyệt đối. Chúng ta chăm sóc chúng, và chúng sẽ đền đáp cho chúng ta.",
+    "offset": 334242,
+    "length": 139
+  },
+  {
+    "key": "PublicWeaponsBan",
+    "en": "Public Weapons Ban",
+    "vi": "Cấm vũ khí nơi công cộng",
+    "offset": 338674,
+    "length": 19
+  },
+  {
+    "key": "PurchasePrivilage",
+    "en": "Purchase Privilage",
+    "vi": "Đặc quyền mua sắm",
+    "offset": 346186,
+    "length": 19
+  }
+]
