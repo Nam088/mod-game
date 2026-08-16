@@ -3,6 +3,11 @@ import sys
 import shutil
 import subprocess
 import json
+import platform
+import stat
+import urllib.request
+import zipfile as _zipfile
+import tarfile
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 sys.stderr.reconfigure(encoding='utf-8', errors='replace')
@@ -14,9 +19,54 @@ DIST_DIR = os.path.join(CURRENT_DIR, "dist")
 TRANS_DIR = os.path.join(CURRENT_DIR, "translations")
 EXTRACTED_DIR = os.path.join(CURRENT_DIR, "extracted")
 
-REPAK_EXE = os.path.join(TOOLS_DIR, "repak.exe")
 GAME_PAKS_DIR = r"C:\Users\nam\Downloads\Compressed\Manor-Lords-AnkerGames_2\Manor Lords\ManorLords\Content\Paks"
 MODS_SUBDIR = os.path.join(GAME_PAKS_DIR, "~mods")
+
+REPAK_VERSION = "0.2.3"
+
+def get_repak_exe():
+    """Trả về đường dẫn repak binary đúng theo platform, tự download nếu chưa có."""
+    is_windows = platform.system() == "Windows"
+    repak_name = "repak.exe" if is_windows else "repak"
+    repak_path = os.path.join(TOOLS_DIR, repak_name)
+
+    if os.path.exists(repak_path):
+        if not is_windows:
+            os.chmod(repak_path, os.stat(repak_path).st_mode | stat.S_IEXEC)
+        return repak_path
+
+    # Download đúng binary theo platform
+    print(f"[*] Đang tải repak v{REPAK_VERSION} cho {platform.system()}...")
+    base_url = f"https://github.com/trumank/repak/releases/download/v{REPAK_VERSION}"
+    if is_windows:
+        url = f"{base_url}/repak-x86_64-pc-windows-msvc.zip"
+        archive = os.path.join(TOOLS_DIR, "repak.zip")
+    else:
+        url = f"{base_url}/repak-x86_64-unknown-linux-musl.tar.gz"
+        archive = os.path.join(TOOLS_DIR, "repak.tar.gz")
+
+    os.makedirs(TOOLS_DIR, exist_ok=True)
+    urllib.request.urlretrieve(url, archive)
+
+    if is_windows:
+        with _zipfile.ZipFile(archive, 'r') as z:
+            for m in z.namelist():
+                if m.endswith("repak.exe"):
+                    z.extract(m, TOOLS_DIR)
+                    extracted = os.path.join(TOOLS_DIR, m)
+                    if extracted != repak_path:
+                        shutil.move(extracted, repak_path)
+    else:
+        with tarfile.open(archive, 'r:gz') as t:
+            for m in t.getmembers():
+                if m.name.endswith("repak"):
+                    m.name = repak_name
+                    t.extract(m, TOOLS_DIR)
+        os.chmod(repak_path, os.stat(repak_path).st_mode | stat.S_IEXEC)
+
+    os.remove(archive)
+    print(f"[✓] Đã tải repak thành công: {repak_path}")
+    return repak_path
 
 def ensure_fonts_downloaded():
     import urllib.request
@@ -149,7 +199,7 @@ def pack_mod():
     
     print("Packing mod files into pakchunk99-Vietnamese_P.pak...")
     cmd = [
-        REPAK_EXE,
+        get_repak_exe(),
         "pack",
         "--version", "V11",
         "--mount-point", "../../../",
