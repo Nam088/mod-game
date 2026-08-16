@@ -14,9 +14,18 @@ namespace DataTableConverter
     {
         static void Main(string[] args)
         {
-            string hoodDir = @"d:\mod-game\Manor-Lords\extracted\ManorLords\Content\Translation\HoodedHorse";
-            string transDir = @"d:\mod-game\Manor-Lords\translations";
-            string buildDir = @"d:\mod-game\Manor-Lords\build\ManorLords\Content\Translation\HoodedHorse";
+            // Dùng relative path từ thư mục chứa .csproj (tools/DataTableConverter) -> ../../
+            string projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "..", ".."));
+            // AppContext.BaseDirectory = bin/Debug|Release/net8.0/ -> lên 5 cấp = Manor-Lords/
+            // Fallback: nếu chạy qua dotnet run, dùng cwd
+            if (!Directory.Exists(Path.Combine(projectRoot, "translations")))
+            {
+                projectRoot = Directory.GetCurrentDirectory();
+            }
+
+            string hoodDir = Path.Combine(projectRoot, "extracted", "ManorLords", "Content", "Translation", "HoodedHorse");
+            string transDir = Path.Combine(projectRoot, "translations");
+            string buildDir = Path.Combine(projectRoot, "build", "ManorLords", "Content", "Translation", "HoodedHorse");
             Directory.CreateDirectory(buildDir);
 
             var jsonFiles = Directory.GetFiles(transDir, "DT_Translation_*.json");
