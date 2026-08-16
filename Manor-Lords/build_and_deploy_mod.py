@@ -88,16 +88,16 @@ def get_repak_exe():
 def ensure_fonts_downloaded():
     import urllib.request
     import re
-    
+
     custom_fonts_dir = os.path.join(CURRENT_DIR, "custom_fonts")
     os.makedirs(custom_fonts_dir, exist_ok=True)
-    
-    alegreya_upright = os.path.join(custom_fonts_dir, "Alegreya-SemiBold.ttf")
-    
-    # Chỉ tải font đứng thẳng, KHÔNG tải italic
+
+    alegreya_upright = os.path.join(custom_fonts_dir, "Alegreya-Medium.ttf")
+
+    # Chỉ tải font đứng thẳng Medium (500), KHÔNG tải italic
     if not os.path.exists(alegreya_upright):
-        print("[*] Đang tự động tải font Alegreya SemiBold (đứng thẳng) từ Google Fonts...")
-        url = "https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,600&subset=vietnamese"
+        print("[*] Đang tự động tải font Alegreya Medium (đứng thẳng) từ Google Fonts...")
+        url = "https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500&subset=vietnamese"
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
             with urllib.request.urlopen(req) as resp:
@@ -114,7 +114,7 @@ def inject_custom_fonts():
     ensure_fonts_downloaded()
 
     custom_fonts_dir = os.path.join(CURRENT_DIR, "custom_fonts")
-    alegreya_upright = os.path.join(custom_fonts_dir, "Alegreya-SemiBold.ttf")
+    alegreya_upright = os.path.join(custom_fonts_dir, "Alegreya-Medium.ttf")
 
     if not os.path.exists(alegreya_upright):
         alegreya_upright = os.path.join(custom_fonts_dir, "Alegreya-Bold.ttf")
