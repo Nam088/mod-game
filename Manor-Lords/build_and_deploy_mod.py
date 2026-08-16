@@ -22,8 +22,6 @@ EXTRACTED_DIR = os.path.join(CURRENT_DIR, "extracted")
 GAME_PAKS_DIR = r"C:\Users\nam\Downloads\Compressed\Manor-Lords-AnkerGames_2\Manor Lords\ManorLords\Content\Paks"
 MODS_SUBDIR = os.path.join(GAME_PAKS_DIR, "~mods")
 
-REPAK_VERSION = "0.2.3"
-
 def get_repak_exe():
     """Trả về đường dẫn repak binary đúng theo platform, tự download nếu chưa có."""
     is_windows = platform.system() == "Windows"
@@ -35,31 +33,41 @@ def get_repak_exe():
             os.chmod(repak_path, os.stat(repak_path).st_mode | stat.S_IEXEC)
         return repak_path
 
-    # Download đúng binary theo platform
-    print(f"[*] Đang tải repak v{REPAK_VERSION} cho {platform.system()}...")
-    base_url = f"https://github.com/trumank/repak/releases/download/v{REPAK_VERSION}"
-    if is_windows:
-        url = f"{base_url}/repak-x86_64-pc-windows-msvc.zip"
-        archive = os.path.join(TOOLS_DIR, "repak.zip")
-    else:
-        url = f"{base_url}/repak-x86_64-unknown-linux-musl.tar.gz"
-        archive = os.path.join(TOOLS_DIR, "repak.tar.gz")
+    # Tìm download URL từ GitHub API (latest release)
+    print(f"[*] Đang tìm repak binary cho {platform.system()} từ GitHub releases...")
+    import json as _json
+    api_url = "https://api.github.com/repos/trumank/repak/releases/latest"
+    req = urllib.request.Request(api_url, headers={"User-Agent": "mod-game-builder"})
+    with urllib.request.urlopen(req) as resp:
+        release = _json.loads(resp.read())
 
+    keyword = "windows-msvc" if is_windows else "linux-musl"
+    asset_url = None
+    for asset in release.get("assets", []):
+        if keyword in asset["name"]:
+            asset_url = asset["browser_download_url"]
+            break
+
+    if not asset_url:
+        raise RuntimeError(f"Không tìm thấy repak binary cho {platform.system()} trong release {release.get('tag_name')}")
+
+    print(f"[*] Đang tải {asset_url}...")
     os.makedirs(TOOLS_DIR, exist_ok=True)
-    urllib.request.urlretrieve(url, archive)
+    ext = ".zip" if is_windows else ".tar.gz"
+    archive = os.path.join(TOOLS_DIR, f"repak{ext}")
+    urllib.request.urlretrieve(asset_url, archive)
 
     if is_windows:
         with _zipfile.ZipFile(archive, 'r') as z:
             for m in z.namelist():
                 if m.endswith("repak.exe"):
-                    z.extract(m, TOOLS_DIR)
-                    extracted = os.path.join(TOOLS_DIR, m)
-                    if extracted != repak_path:
-                        shutil.move(extracted, repak_path)
+                    data = z.read(m)
+                    with open(repak_path, 'wb') as f:
+                        f.write(data)
     else:
         with tarfile.open(archive, 'r:gz') as t:
             for m in t.getmembers():
-                if m.name.endswith("repak"):
+                if m.name.endswith("repak") and not m.name.endswith(".d"):
                     m.name = repak_name
                     t.extract(m, TOOLS_DIR)
         os.chmod(repak_path, os.stat(repak_path).st_mode | stat.S_IEXEC)
