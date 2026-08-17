@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "goal_preference_name_CookingPreference",
+    "type": 0,
+    "en": "Cooking",
+    "vi": "Cooking"
+  },
+  {
+    "key": "goal_preference_name_TailoringPreference",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "goal_preference_name_ResearchPreference",
+    "type": 0,
+    "en": "Intellectual",
+    "vi": "Intellectual"
+  },
+  {
+    "key": "goal_preference_name_TendingPreference",
+    "type": 0,
+    "en": "Tend",
+    "vi": "Tend"
+  },
+  {
+    "key": "goal_preference_name_ArtPreference",
+    "type": 0,
+    "en": "Art",
+    "vi": "Art"
+  },
+  {
+    "key": "goal_preference_name_ViolencePreference",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "goal_preference_name_TradingPreference",
+    "type": 0,
+    "en": "Barter",
+    "vi": "Barter"
+  },
+  {
+    "key": "goal_preference_name_BardPreference",
+    "type": 0,
+    "en": "Bard Duties",
+    "vi": "Bard Duties"
+  },
+  {
+    "key": "goal_preference_name_PriestPreference",
+    "type": 0,
+    "en": "Chaplain Duties",
+    "vi": "Chaplain Duties"
+  },
+  {
+    "key": "goal_preference_name_ShamanPreference",
+    "type": 0,
+    "en": "Druid Duties",
+    "vi": "Druid Duties"
+  },
+  {
+    "key": "goal_preference_name_FirefightPreference",
+    "type": 0,
+    "en": "Firefight",
+    "vi": "Firefight"
+  },
+  {
+    "key": "goal_preference_info_FirefightPreference",
+    "type": 0,
+    "en": "Quench fires near your settlement. Extinguish flames while they are small by stomping on them.",
+    "vi": "Quench fires near your settlement. Extinguish flames while they are small by stomping on them."
+  },
+  {
+    "key": "goal_preference_name_GaolerPreference",
+    "type": 0,
+    "en": "Gaoler",
+    "vi": "Gaoler"
+  },
+  {
+    "key": "goal_preference_info_GaolerPreference",
+    "type": 0,
+    "en": "Prisoner care and management is the Gaoler's assignment. Gaolers also strip new prisoners of belongings and manage their release.",
+    "vi": "Prisoner care and management is the Gaoler's assignment. Gaolers also strip new prisoners of belongings and manage their release."
+  },
+  {
+    "key": "goal_preference_name_FishingPreference",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Fish"
+  },
+  {
+    "key": "goal_preference_info_FishingPreference",
+    "type": 0,
+    "en": "Catch fish for food by angling.",
+    "vi": "Catch fish for food by angling."
+  },
+  {
+    "key": "goal_preference_name_ConvalescePreference",
+    "type": 0,
+    "en": "Convalesce",
+    "vi": "Convalesce"
+  },
+  {
+    "key": "goal_preference_info_ConvalescePreference",
+    "type": 0,
+    "en": "Convalesce while wounds heal.",
+    "vi": "Convalesce while wounds heal."
+  },
+  {
+    "key": "goal_preference_name_TrainingPreference",
+    "type": 0,
+    "en": "Combat Train",
+    "vi": "Combat Train"
+  },
+  {
+    "key": "goal_preference_info_TrainingPreference",
+    "type": 0,
+    "en": "Practicing combat skills with ranged and melee weapons.",
+    "vi": "Practicing combat skills with ranged and melee weapons."
+  },
+  {
+    "key": "goal_preference_info_TradingPreference",
+    "type": 0,
+    "en": "Bartering with Merchants and Negotiating",
+    "vi": "Bartering with Merchants and Negotiating"
+  },
+  {
+    "key": "goal_preference_info_BardPreference",
+    "type": 0,
+    "en": "Performing at feasts and in the Great Hall during bard appointed hours",
+    "vi": "Performing at feasts and in the Great Hall during bard appointed hours"
+  },
+  {
+    "key": "goal_preference_info_PriestPreference",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "goal_preference_info_ShamanPreference",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "goal_preference_info_PhysicalLabourPreference",
+    "type": 0,
+    "en": "Non-specialist, physical work such as hauling and stewarding",
+    "vi": "Non-specialist, physical work such as hauling and stewarding"
+  },
+  {
+    "key": "goal_preference_info_MiningPreference",
+    "type": 0,
+    "en": "Digging and mining marked areas on the map.",
+    "vi": "Digging and mining marked areas on the map."
+  },
+  {
+    "key": "goal_preference_info_CraftingPreference",
+    "type": 0,
+    "en": "Non-skilled work crafting basic items, like bricks.",
+    "vi": "Non-skilled work crafting basic items, like bricks."
+  },
+  {
+    "key": "goal_preference_info_HuntingPreference",
+    "type": 0,
+    "en": "Hunting marked animals.",
+    "vi": "Hunting marked animals."
+  },
+  {
+    "key": "goal_preference_info_SmithingPreference",
+    "type": 0,
+    "en": "Making items out of metal",
+    "vi": "Making items out of metal"
+  },
+  {
+    "key": "goal_preference_info_CarpentryPreference",
+    "type": 0,
+    "en": "Making items and weapons out of wood.  Produces items at:",
+    "vi": "Making items and weapons out of wood.  Produces items at:"
+  },
+  {
+    "key": "goal_preference_info_CookingPreference",
+    "type": 0,
+    "en": "Producing meals and beverages. Preserving food. Butchering.",
+    "vi": "Producing meals and beverages. Preserving food. Butchering."
+  },
+  {
+    "key": "goal_preference_info_TailoringPreference",
+    "type": 0,
+    "en": "Creating clothing and hats with cloth and leather.",
+    "vi": "Creating clothing and hats with cloth and leather."
+  },
+  {
+    "key": "goal_preference_info_ResearchPreference",
+    "type": 0,
+    "en": "Contemplating and writing everything down so it can be used to advance the settlement.",
+    "vi": "Contemplating and writing everything down so it can be used to advance the settlement."
+  },
+  {
+    "key": "goal_preference_info_TendingPreference",
+    "type": 0,
+    "en": "Tend to the wounds of others. Carry unconscious settlers to beds.",
+    "vi": "Tend to the wounds of others. Carry unconscious settlers to beds."
+  },
+  {
+    "key": "goal_preference_info_ArtPreference",
+    "type": 0,
+    "en": "Create works of art.",
+    "vi": "Create works of art."
+  },
+  {
+    "key": "goal_preference_info_ViolencePreference",
+    "type": 0,
+    "en": "Combat with both ranged and melee weapon types",
+    "vi": "Combat with both ranged and melee weapon types"
+  },
+  {
+    "key": "research_name_agriculture_lvl3",
+    "type": 0,
+    "en": "Agriculture III",
+    "vi": "Agriculture III"
+  },
+  {
+    "key": "research_name_agriculture_lvl2",
+    "type": 0,
+    "en": "Agriculture II",
+    "vi": "Agriculture II"
+  },
+  {
+    "key": "research_name_agriculture_lvl1",
+    "type": 0,
+    "en": "Agriculture",
+    "vi": "Agriculture"
+  },
+  {
+    "key": "research_name_architecture_lvl1",
+    "type": 0,
+    "en": "Architecture",
+    "vi": "Architecture"
+  },
+  {
+    "key": "research_info_agriculture_lvl1",
+    "type": 0,
+    "en": "Unlock crop fields to ensure a steady supply of food for the upcoming winter",
+    "vi": "Unlock crop fields to ensure a steady supply of food for the upcoming winter"
+  },
+  {
+    "key": "research_name_axes_lvl2",
+    "type": 0,
+    "en": "Axes",
+    "vi": "Axes"
+  },
+  {
+    "key": "research_name_banners_lvl1",
+    "type": 0,
+    "en": "Decorative Banners",
+    "vi": "Decorative Banners"
+  },
+  {
+    "key": "research_name_blacksmithing_lvl1",
+    "type": 0,
+    "en": "Blacksmithing",
+    "vi": "Blacksmithing"
+  },
+  {
+    "key": "research_name_brewing_lvl1",
+    "type": 0,
+    "en": "Brewing",
+    "vi": "Brewing"
+  },
+  {
+    "key": "research_name_chemistry_lvl1",
+    "type": 0,
+    "en": "Chemistry I",
+    "vi": "Chemistry I"
+  },
+  {
+    "key": "research_name_chemistry_lvl2",
+    "type": 0,
+    "en": "Chemistry II",
+    "vi": "Chemistry II"
+  },
+  {
+    "key": "research_name_clay_brick_production_lvl1",
+    "type": 0,
+    "en": "Clay Brick Making",
+    "vi": "Clay Brick Making"
+  },
+  {
+    "key": "research_name_clothing_production_lvl1",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "research_name_cooking_lvl1",
+    "type": 0,
+    "en": "Cooking",
+    "vi": "Cooking"
+  },
+  {
+    "key": "research_name_crossbows_lvl2",
+    "type": 0,
+    "en": "Crossbows I",
+    "vi": "Crossbows I"
+  },
+  {
+    "key": "research_name_crossbows_lvl3",
+    "type": 0,
+    "en": "Crossbows II",
+    "vi": "Crossbows II"
+  },
+  {
+    "key": "research_name_defensive_traps",
+    "type": 0,
+    "en": "Defensive Traps",
+    "vi": "Defensive Traps"
+  },
+  {
+    "key": "research_name_decorations_lvl1",
+    "type": 0,
+    "en": "Decorative Structures",
+    "vi": "Decorative Structures"
+  },
+  {
+    "key": "research_name_decorations_lvl2",
+    "type": 0,
+    "en": "Decorative Structures II",
+    "vi": "Decorative Structures II"
+  },
+  {
+    "key": "research_name_destiling_01",
+    "type": 0,
+    "en": "Distilling",
+    "vi": "Distilling"
+  },
+  {
+    "key": "research_name_fermenting_lvl1",
+    "type": 0,
+    "en": "Fermenting",
+    "vi": "Fermenting"
+  },
+  {
+    "key": "research_name_fletchering_lvl2",
+    "type": 0,
+    "en": "Fletching II",
+    "vi": "Fletching II"
+  },
+  {
+    "key": "research_name_fletchering_lvl3",
+    "type": 0,
+    "en": "Fletching III",
+    "vi": "Fletching III"
+  },
+  {
+    "key": "research_name_iron_smelting_lvl1",
+    "type": 0,
+    "en": "Smelting",
+    "vi": "Smelting"
+  },
+  {
+    "key": "research_name_maces_lvl2",
+    "type": 0,
+    "en": "Maces",
+    "vi": "Maces"
+  },
+  {
+    "key": "research_name_preserving_food_lvl1",
+    "type": 0,
+    "en": "Preserving Food",
+    "vi": "Preserving Food"
+  },
+  {
+    "key": "research_name_preserving_food_lvl2",
+    "type": 0,
+    "en": "Preserving Food II",
+    "vi": "Preserving Food II"
+  },
+  {
+    "key": "research_name_research_tier_02",
+    "type": 0,
+    "en": "Research II",
+    "vi": "Research II"
+  },
+  {
+    "key": "research_name_research_tier_03",
+    "type": 0,
+    "en": "Research III",
+    "vi": "Research III"
+  },
+  {
+    "key": "research_name_shield_production_lvl2",
+    "type": 0,
+    "en": "Shields II",
+    "vi": "Shields II"
+  },
+  {
+    "key": "research_name_shield_production_lvl3",
+    "type": 0,
+    "en": "Shields III",
+    "vi": "Shields III"
+  },
+  {
+    "key": "research_name_steel_smelting",
+    "type": 0,
+    "en": "Steel",
+    "vi": "Steel"
+  },
+  {
+    "key": "research_name_stone_block_production_lvl1",
+    "type": 0,
+    "en": "Stone Block Cutting",
+    "vi": "Stone Block Cutting"
+  },
+  {
+    "key": "research_name_swords_lvl2",
+    "type": 0,
+    "en": "Swords",
+    "vi": "Swords"
+  },
+  {
+    "key": "research_name_woodwork_lvl2",
+    "type": 0,
+    "en": "Wooden Weaponry II",
+    "vi": "Wooden Weaponry II"
+  },
+  {
+    "key": "research_name_woodwork_lvl1",
+    "type": 0,
+    "en": "Wooden Weaponry",
+    "vi": "Wooden Weaponry"
+  },
+  {
+    "key": "research_name_cartography",
+    "type": 0,
+    "en": "Cartography",
+    "vi": "Cartography"
+  },
+  {
+    "key": "research_name_beekeeping_lvl1",
+    "type": 0,
+    "en": "Beekeeping",
+    "vi": "Beekeeping"
+  },
+  {
+    "key": "research_name_ice_production_lvl1",
+    "type": 0,
+    "en": "Ice Making",
+    "vi": "Ice Making"
+  },
+  {
+    "key": "research_name_trophy",
+    "type": 0,
+    "en": "Trophy Mounting",
+    "vi": "Trophy Mounting"
+  },
+  {
+    "key": "research_name_terraforming",
+    "type": 0,
+    "en": "Terraforming",
+    "vi": "Terraforming"
+  },
+  {
+    "key": "research_name_terraforming_alt",
+    "type": 0,
+    "en": "Landscaping",
+    "vi": "Landscaping"
+  },
+  {
+    "key": "research_name_training_equipment_lvl1",
+    "type": 0,
+    "en": "Combat Training Equipment",
+    "vi": "Combat Training Equipment"
+  },
+  {
+    "key": "research_name_painting_01",
+    "type": 0,
+    "en": "Painting",
+    "vi": "Painting"
+  },
+  {
+    "key": "research_name_tapestry_01",
+    "type": 0,
+    "en": "Tapestry",
+    "vi": "Tapestry"
+  },
+  {
+    "key": "research_name_statues_stone_01",
+    "type": 0,
+    "en": "Stone Carving",
+    "vi": "Stone Carving"
+  },
+  {
+    "key": "research_name_statues_wood_01",
+    "type": 0,
+    "en": "Wood Carving",
+    "vi": "Wood Carving"
+  },
+  {
+    "key": "research_name_art_metal",
+    "type": 0,
+    "en": "Metalwork",
+    "vi": "Metalwork"
+  },
+  {
+    "key": "research_name_metal_art_01",
+    "type": 0,
+    "en": "Silvering",
+    "vi": "Silvering"
+  },
+  {
+    "key": "research_name_art_metal_02",
+    "type": 0,
+    "en": "Gilding",
+    "vi": "Gilding"
+  },
+  {
+    "key": "research_name_rugs_01",
+    "type": 0,
+    "en": "Rugmaking",
+    "vi": "Rugmaking"
+  },
+  {
+    "key": "research_name_religious_structures_lvl1",
+    "type": 0,
+    "en": "Religious Structures",
+    "vi": "Religious Structures"
+  },
+  {
+    "key": "research_name_religious_structures_lvl2",
+    "type": 0,
+    "en": "Religious Structures II",
+    "vi": "Religious Structures II"
+  },
+  {
+    "key": "research_name_religious_structures_lvl3",
+    "type": 0,
+    "en": "Religious Structures III",
+    "vi": "Religious Structures III"
+  },
+  {
+    "key": "research_name_oil_press_lvl1",
+    "type": 0,
+    "en": "Oil Press",
+    "vi": "Oil Press"
+  },
+  {
+    "key": "research_name_barrels_lvl1",
+    "type": 0,
+    "en": "Barrels",
+    "vi": "Barrels"
+  },
+  {
+    "key": "research_name_war_machines_lvl1",
+    "type": 0,
+    "en": "Siege Engines I",
+    "vi": "Siege Engines I"
+  },
+  {
+    "key": "research_name_war_machines_lvl2",
+    "type": 0,
+    "en": "Siege Engines II",
+    "vi": "Siege Engines II"
+  },
+  {
+    "key": "research_name_incendiary_ammunition",
+    "type": 0,
+    "en": "Incendiary Ammunition",
+    "vi": "Incendiary Ammunition"
+  },
+  {
+    "key": "research_name_library_structures_01",
+    "type": 0,
+    "en": "Library Structures I",
+    "vi": "Library Structures I"
+  },
+  {
+    "key": "research_name_library_structures_02",
+    "type": 0,
+    "en": "Library Structures II",
+    "vi": "Library Structures II"
+  },
+  {
+    "key": "research_name_library_structures_03",
+    "type": 0,
+    "en": "Library Structures III",
+    "vi": "Library Structures III"
+  },
+  {
+    "key": "research_name_entertainment_structure_01",
+    "type": 0,
+    "en": "Entertainment I",
+    "vi": "Entertainment I"
+  },
+  {
+    "key": "research_name_entertainment_structure_02",
+    "type": 0,
+    "en": "Entertainment II",
+    "vi": "Entertainment II"
+  },
+  {
+    "key": "research_name_entertainment_structure_03",
+    "type": 0,
+    "en": "Entertainment III",
+    "vi": "Entertainment III"
+  },
+  {
+    "key": "research_name_strategy_equipment_lvl1",
+    "type": 0,
+    "en": "Strategic Structures I",
+    "vi": "Strategic Structures I"
+  },
+  {
+    "key": "research_name_strategy_equipment_lvl2",
+    "type": 0,
+    "en": "Strategic Structures II",
+    "vi": "Strategic Structures II"
+  },
+  {
+    "key": "game_event_type_visitor",
+    "type": 0,
+    "en": "Friendly Visit",
+    "vi": "Friendly Visit"
+  },
+  {
+    "key": "news_name_blight",
+    "type": 0,
+    "en": "Blighted crops",
+    "vi": "Blighted crops"
+  },
+  {
+    "key": "news_info_blight",
+    "type": 0,
+    "en": "Order your settlers to cut down spoiled crops before the blight spreads.",
+    "vi": "Order your settlers to cut down spoiled crops before the blight spreads."
+  },
+  {
+    "key": "game_event_agree",
+    "type": 0,
+    "en": "Agree",
+    "vi": "Agree"
+  },
+  {
+    "key": "game_event_reject",
+    "type": 0,
+    "en": "Reject",
+    "vi": "Reject"
+  },
+  {
+    "key": "game_event_type_new_worker",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "New Settler"
+  },
+  {
+    "key": "game_event_type_enviroment",
+    "type": 0,
+    "en": "Environmental",
+    "vi": "Environmental"
+  },
+  {
+    "key": "game_event_type_player_triggered",
+    "type": 0,
+    "en": "<village_name> Event",
+    "vi": "<village_name> Event"
+  },
+  {
+    "key": "game_event_type_influence",
+    "type": 0,
+    "en": "Renown",
+    "vi": "Renown"
+  },
+  {
+    "key": "game_event_name_influence_20",
+    "type": 0,
+    "en": "Influence rising",
+    "vi": "Influence rising"
+  },
+  {
+    "key": "game_event_description_influence_20",
+    "type": 0,
+    "en": "Flourishing <village_name> grows more influential in the region with each day that passes. This is sure to attract more settlers — and perhaps garner unwanted attention from other settlements.",
+    "vi": "Flourishing <village_name> grows more influential in the region with each day that passes. This is sure to attract more settlers — and perhaps garner unwanted attention from other settlements."
+  },
+  {
+    "key": "game_event_name_influence_100",
+    "type": 0,
+    "en": "Golden age",
+    "vi": "Golden age"
+  },
+  {
+    "key": "game_event_description_influence_100",
+    "type": 0,
+    "en": "<village_name> is now the most influential settlement, dominating the entire region. Pilgrims travel from far and wide to witness its splendour.",
+    "vi": "<village_name> is now the most influential settlement, dominating the entire region. Pilgrims travel from far and wide to witness its splendour."
+  },
+  {
+    "key": "game_event_season_spring",
+    "type": 0,
+    "en": "Spring",
+    "vi": "Spring"
+  },
+  {
+    "key": "game_event_description_season_spring",
+    "type": 0,
+    "en": "Spring arrived in <village_name>. As the sun warmed the sleeping ground, vegetation began to grow. It was the perfect time to sow crops for the coming year. ",
+    "vi": "Spring arrived in <village_name>. As the sun warmed the sleeping ground, vegetation began to grow. It was the perfect time to sow crops for the coming year. "
+  },
+  {
+    "key": "game_event_season_summer",
+    "type": 0,
+    "en": "Summer",
+    "vi": "Summer"
+  },
+  {
+    "key": "game_event_description_season_summer",
+    "type": 0,
+    "en": "Summer appeared like a warm blessing, coaxing the settlers to shed their warm clothing. Now was the time to build underground storage, to keep food fresh in the sunny days to come.",
+    "vi": "Summer appeared like a warm blessing, coaxing the settlers to shed their warm clothing. Now was the time to build underground storage, to keep food fresh in the sunny days to come."
+  },
+  {
+    "key": "game_event_season_autumn",
+    "type": 0,
+    "en": "Autumn",
+    "vi": "Autumn"
+  },
+  {
+    "key": "game_event_description_season_autumn",
+    "type": 0,
+    "en": "Autumn blustered in, with crisp mornings, and cooler days. It was the season to prepare for winter, tailoring warm clothing, and stocking up on food and supplies. ",
+    "vi": "Autumn blustered in, with crisp mornings, and cooler days. It was the season to prepare for winter, tailoring warm clothing, and stocking up on food and supplies. "
+  },
+  {
+    "key": "game_event_season_winter",
+    "type": 0,
+    "en": "Winter",
+    "vi": "Winter"
+  },
+  {
+    "key": "game_event_description_season_winter",
+    "type": 0,
+    "en": "Winter held <village_name> in its icy grip, so the settlers gathered around the fire on long, dark evenings. They needed to bundle up in warm clothing, and heat their chambers to beat the chill. ",
+    "vi": "Winter held <village_name> in its icy grip, so the settlers gathered around the fire on long, dark evenings. They needed to bundle up in warm clothing, and heat their chambers to beat the chill. "
+  },
+  {
+    "key": "game_event_type_season_start",
+    "type": 0,
+    "en": "New season",
+    "vi": "New season"
+  },
+  {
+    "key": "game_event_heat_wave_end",
+    "type": 0,
+    "en": "Heat wave has ended",
+    "vi": "Heat wave has ended"
+  },
+  {
+    "key": "game_event_cold_snap_end",
+    "type": 0,
+    "en": "Cold snap has ended",
+    "vi": "Cold snap has ended"
+  },
+  {
+    "key": "game_event_hailstorm_end",
+    "type": 0,
+    "en": "Hailstorm has ended",
+    "vi": "Hailstorm has ended"
+  },
+  {
+    "key": "game_event_thunderstorm_end",
+    "type": 0,
+    "en": "Thunderstorm has ended",
+    "vi": "Thunderstorm has ended"
+  },
+  {
+    "key": "game_event_type_end",
+    "type": 0,
+    "en": "The story comes to an end",
+    "vi": "The story comes to an end"
+  },
+  {
+    "key": "game_event_name_all_dead",
+    "type": 0,
+    "en": "All is lost",
+    "vi": "All is lost"
+  },
+  {
+    "key": "game_event_info_all_dead",
+    "type": 0,
+    "en": "Despite their valiant efforts, all of the settlers of <village_name> have perished. Yet the history of <village_name> lives on, inscribed on vellum: a testament for future generations. As we remember them, let us endeavour to learn from their manifold trials and misadventures.",
+    "vi": "Despite their valiant efforts, all of the settlers of <village_name> have perished. Yet the history of <village_name> lives on, inscribed on vellum: a testament for future generations. As we remember them, let us endeavour to learn from their manifold trials and misadventures."
+  },
+  {
+    "key": "game_event_name_all_dead_second_map",
+    "type": 0,
+    "en": "All is lost",
+    "vi": "All is lost"
+  },
+  {
+    "key": "game_event_info_all_dead_second_map",
+    "type": 0,
+    "en": "These denizens of <village_name> perished here on their mission. May their souls be at peace.",
+    "vi": "These denizens of <village_name> perished here on their mission. May their souls be at peace."
+  },
+  {
+    "key": "attack_outcome",
+    "type": 0,
+    "en": "<village_name>  settlers engaged their enemy in <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the attack.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> perished during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to their foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most grievous damage from the enemy.</if_most_damage_taken>\n<if_no_most_damage_taken>By good fortune, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>",
+    "vi": "<village_name>  settlers engaged their enemy in <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the attack.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> perished during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to their foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most grievous damage from the enemy.</if_most_damage_taken>\n<if_no_most_damage_taken>By good fortune, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>"
+  },
+  {
+    "key": "game_event_type_ambush",
+    "type": 0,
+    "en": "Ambush",
+    "vi": "Ambush"
+  },
+  {
+    "key": "game_event_type_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "dialogOptionEffect_NewWorker",
+    "type": 0,
+    "en": "<style=DefaultGreen>A new settler will join your settlement</style>",
+    "vi": "<style=DefaultGreen>A new settler will join your settlement</style>"
+  },
+  {
+    "key": "dialogOptionEffect_Spring",
+    "type": 0,
+    "en": "<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms.",
+    "vi": "<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms."
+  },
+  {
+    "key": "dialogOptionEffect_Summer",
+    "type": 0,
+    "en": "<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days. Days are longest at midsummer, when the sun is at its highest.",
+    "vi": "<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days. Days are longest at midsummer, when the sun is at its highest."
+  },
+  {
+    "key": "dialogOptionEffect_Autumn",
+    "type": 0,
+    "en": "<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms.",
+    "vi": "<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms."
+  },
+  {
+    "key": "dialogOptionEffect_Winter",
+    "type": 0,
+    "en": "<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts. The nights are the longest in midwinter, when the sun is low in the sky, offering less heat.",
+    "vi": "<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts. The nights are the longest in midwinter, when the sun is low in the sky, offering less heat."
+  },
+  {
+    "key": "dialogOptionEffect_error_build_map_table",
+    "type": 0,
+    "en": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region.",
+    "vi": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region."
+  },
+  {
+    "key": "dialogOptionEffect_AgentsLeaving",
+    "type": 0,
+    "en": "<style=DefaultRed>The following settlers will be forced to leave your settlement</style>",
+    "vi": "<style=DefaultRed>The following settlers will be forced to leave your settlement</style>"
+  },
+  {
+    "key": "eventOptionEffect_NewWorker",
+    "type": 0,
+    "en": "<style=DefaultGreen>A new settler will join your settlement</style>",
+    "vi": "<style=DefaultGreen>A new settler will join your settlement</style>"
+  },
+  {
+    "key": "eventOptionEffect_Spring",
+    "type": 0,
+    "en": "<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms. ",
+    "vi": "<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms. "
+  },
+  {
+    "key": "eventOptionEffect_Summer",
+    "type": 0,
+    "en": "<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days. Days are longest at midsummer, when the sun is at its highest. ",
+    "vi": "<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days. Days are longest at midsummer, when the sun is at its highest. "
+  },
+  {
+    "key": "eventOptionEffect_Autumn",
+    "type": 0,
+    "en": "<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms.",
+    "vi": "<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms."
+  },
+  {
+    "key": "eventOptionEffect_Winter",
+    "type": 0,
+    "en": "<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts. The nights are the longest in midwinter, when the sun is low in the sky, offering less heat.",
+    "vi": "<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts. The nights are the longest in midwinter, when the sun is low in the sky, offering less heat."
+  },
+  {
+    "key": "news_name_shakedown",
+    "type": 0,
+    "en": "Extortion",
+    "vi": "Extortion"
+  },
+  {
+    "key": "news_name_runaway",
+    "type": 0,
+    "en": "Violent extortionists ",
+    "vi": "Violent extortionists "
+  },
+  {
+    "key": "game_event_type_shakedown",
+    "type": 0,
+    "en": "Extortion",
+    "vi": "Extortion"
+  },
+  {
+    "key": "general_jump_to_location",
+    "type": 0,
+    "en": "Jump to Location",
+    "vi": "Jump to Location"
+  },
+  {
+    "key": "news_death_title",
+    "type": 0,
+    "en": "<style=DefaultRed>Death:</style> <name> ",
+    "vi": "<style=DefaultRed>Death:</style> <name> "
+  },
+  {
+    "key": "news_death_natural_death",
+    "type": 0,
+    "en": "<name> passed away peacefully in [his/her] sleep at the age of <age>.",
+    "vi": "<name> passed away peacefully in [his/her] sleep at the age of <age>."
+  },
+  {
+    "key": "news_death_unnatural_death",
+    "type": 0,
+    "en": "<name> met [his/her] untimely end at the age of <age>.",
+    "vi": "<name> met [his/her] untimely end at the age of <age>."
+  },
+  {
+    "key": "news_death_last_moments",
+    "type": 0,
+    "en": "These were [his/her] last moments:",
+    "vi": "These were [his/her] last moments:"
+  },
+  {
+    "key": "news_name_beggar",
+    "type": 0,
+    "en": "Beggar arrives",
+    "vi": "Beggar arrives"
+  },
+  {
+    "key": "loot_stash_hostile",
+    "type": 0,
+    "en": "<style=DefaultRed>This location seems to harbour hostile animals</style>",
+    "vi": "<style=DefaultRed>This location seems to harbour hostile animals</style>"
+  },
+  {
+    "key": "Player Triggered Events",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "estimated_event_quality",
+    "type": 0,
+    "en": "Estimated event quality",
+    "vi": "Estimated event quality"
+  },
+  {
+    "key": "player_triggered_event_duration",
+    "type": 0,
+    "en": "Duration of the event",
+    "vi": "Duration of the event"
+  },
+  {
+    "key": "player_triggered_event_note",
+    "type": 0,
+    "en": "Note that there is a chance that the event might be worse or better than estimated!",
+    "vi": "Note that there is a chance that the event might be worse or better than estimated!"
+  },
+  {
+    "key": "player_triggered_event_feast_name",
+    "type": 0,
+    "en": "Feast Event",
+    "vi": "Feast Event"
+  },
+  {
+    "key": "player_triggered_event_feast_info",
+    "type": 0,
+    "en": "After hours of preparation, a table groaning with food, fine wine and song greeted the settlers of <village_name>. The festivities lasted until dawn!",
+    "vi": "After hours of preparation, a table groaning with food, fine wine and song greeted the settlers of <village_name>. The festivities lasted until dawn!"
+  },
+  {
+    "key": "player_triggered_event_feast_description",
+    "type": 0,
+    "en": "All participants will have their hunger satiated. And, depending on the quality, their need for entertainment is also satisfied for several days. ",
+    "vi": "All participants will have their hunger satiated. And, depending on the quality, their need for entertainment is also satisfied for several days. "
+  },
+  {
+    "key": "player_triggered_event_sermon_name",
+    "type": 0,
+    "en": "Eucharist Event",
+    "vi": "Eucharist Event"
+  },
+  {
+    "key": "player_triggered_event_sermon_info",
+    "type": 0,
+    "en": "A solemn and prayerful observance of one of the Christian calendar's many holy days was held. They who wait for the Lord shall renew their strength",
+    "vi": "A solemn and prayerful observance of one of the Christian calendar's many holy days was held. They who wait for the Lord shall renew their strength"
+  },
+  {
+    "key": "player_triggered_event_sermon_description",
+    "type": 0,
+    "en": "All Restitutionist participants will have their religious needs fullfiled, depending on the quality, for several days. ",
+    "vi": "All Restitutionist participants will have their religious needs fullfiled, depending on the quality, for several days. "
+  },
+  {
+    "key": "player_triggered_event_ritual_name",
+    "type": 0,
+    "en": "Ritual Event",
+    "vi": "Ritual Event"
+  },
+  {
+    "key": "player_triggered_event_ritual_info",
+    "type": 0,
+    "en": "A seasonal rite was held, with the assistance of herbal guides and moonlight. Participants journeyed and shapeshifted into deeper harmony with Nature. Blessed be.",
+    "vi": "A seasonal rite was held, with the assistance of herbal guides and moonlight. Participants journeyed and shapeshifted into deeper harmony with Nature. Blessed be."
+  },
+  {
+    "key": "player_triggered_event_ritual_description",
+    "type": 0,
+    "en": "All Oak Brethren participants will have their religious needs fullfiled, depending on the quality, for several days. ",
+    "vi": "All Oak Brethren participants will have their religious needs fullfiled, depending on the quality, for several days. "
+  },
+  {
+    "key": "general_add_participant",
+    "type": 0,
+    "en": "Add Participant",
+    "vi": "Add Participant"
+  },
+  {
+    "key": "plan_event",
+    "type": 0,
+    "en": "Hold event",
+    "vi": "Hold event"
+  },
+  {
+    "key": "plan_event_disabled",
+    "type": 0,
+    "en": "You can't hold this event because the structure is not in: <room_name>",
+    "vi": "You can't hold this event because the structure is not in: <room_name>"
+  },
+  {
+    "key": "plan_event_disabled_other_event",
+    "type": 0,
+    "en": "You can't hold this event because there is another event active at the moment",
+    "vi": "You can't hold this event because there is another event active at the moment"
+  },
+  {
+    "key": "end_event",
+    "type": 0,
+    "en": "End event",
+    "vi": "End event"
+  },
+  {
+    "key": "end_event_confirm",
+    "type": 0,
+    "en": "Ending the event may yield negative mood modifiers for its participants. Are you sure you want to proceed?",
+    "vi": "Ending the event may yield negative mood modifiers for its participants. Are you sure you want to proceed?"
+  },
+  {
+    "key": "player_triggered_event_start",
+    "type": 0,
+    "en": "Settlers started gathering for a <event_name>",
+    "vi": "Settlers started gathering for a <event_name>"
+  },
+  {
+    "key": "player_triggered_event_ended",
+    "type": 0,
+    "en": "<event_name> ended with result: <quality_outcome>",
+    "vi": "<event_name> ended with result: <quality_outcome>"
+  },
+  {
+    "key": "player_triggered_event_cancelled",
+    "type": 0,
+    "en": "The <event_name> has been cancelled",
+    "vi": "The <event_name> has been cancelled"
+  },
+  {
+    "key": "end_event_general",
+    "type": 0,
+    "en": "The Event Has Ended",
+    "vi": "The Event Has Ended"
+  },
+  {
+    "key": "end_event_quality",
+    "type": 0,
+    "en": "The quality of this event was: <quality_outcome>",
+    "vi": "The quality of this event was: <quality_outcome>"
+  },
+  {
+    "key": "end_event_participants",
+    "type": 0,
+    "en": "Participants of the event were: <all_participants>",
+    "vi": "Participants of the event were: <all_participants>"
+  },
+  {
+    "key": "end_event_role_feast",
+    "type": 0,
+    "en": "The participants were entertained by: <all_roles>",
+    "vi": "The participants were entertained by: <all_roles>"
+  },
+  {
+    "key": "end_event_role_sermon",
+    "type": 0,
+    "en": "The service was led by: <all_roles>",
+    "vi": "The service was led by: <all_roles>"
+  },
+  {
+    "key": "end_event_role_ritual",
+    "type": 0,
+    "en": "The ritual was led by: <all_roles>",
+    "vi": "The ritual was led by: <all_roles>"
+  },
+  {
+    "key": "end_event_role_master",
+    "type": 0,
+    "en": "The participants were educated by: <all_roles>",
+    "vi": "The participants were educated by: <all_roles>"
+  },
+  {
+    "key": "end_event_role_training",
+    "type": 0,
+    "en": "The participants were trained by: <all_roles>",
+    "vi": "The participants were trained by: <all_roles>"
+  },
+  {
+    "key": "player_triggered_event_hanging_name",
+    "type": 0,
+    "en": "Execution by Hanging",
+    "vi": "Execution by Hanging"
+  },
+  {
+    "key": "player_triggered_event_hanging_info",
+    "type": 0,
+    "en": "A slow and public death for the poor devil at the end of the rope. A spectacle for those who gather to watch.",
+    "vi": "A slow and public death for the poor devil at the end of the rope. A spectacle for those who gather to watch."
+  },
+  {
+    "key": "player_triggered_event_hanging_description",
+    "type": 0,
+    "en": "Choose one of your prisoners to be executed. They have no say in the matter, so you can execute any prisoner you want. Settler reactions to witnessing the execution will vary.",
+    "vi": "Choose one of your prisoners to be executed. They have no say in the matter, so you can execute any prisoner you want. Settler reactions to witnessing the execution will vary."
+  },
+  {
+    "key": "no_participant_message",
+    "type": 0,
+    "en": "There are no eligible participants that can join the event. ",
+    "vi": "There are no eligible participants that can join the event. "
+  },
+  {
+    "key": "no_roleparticipant_message",
+    "type": 0,
+    "en": "There are no eligible role participants that can join the event. ",
+    "vi": "There are no eligible role participants that can join the event. "
+  },
+  {
+    "key": "no_prisonerparticipant_message",
+    "type": 0,
+    "en": "There are no eligible prisoners that can be added to the event. ",
+    "vi": "There are no eligible prisoners that can be added to the event. "
+  },
+  {
+    "key": "player_triggered_event_master_class_name",
+    "type": 0,
+    "en": "Study Group",
+    "vi": "Study Group"
+  },
+  {
+    "key": "player_triggered_event_master_class_info",
+    "type": 0,
+    "en": "The librarian bookmarks manuscripts and prepares to welcome settlers for a reading and, hopefully, lively discussion.",
+    "vi": "The librarian bookmarks manuscripts and prepares to welcome settlers for a reading and, hopefully, lively discussion."
+  },
+  {
+    "key": "player_triggered_event_master_class_description",
+    "type": 0,
+    "en": "Attending the Study Group buffs settlers in the skill detailed in the chosen textbook. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the librarian.",
+    "vi": "Attending the Study Group buffs settlers in the skill detailed in the chosen textbook. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the librarian."
+  },
+  {
+    "key": "player_triggered_event_training_name",
+    "type": 0,
+    "en": "Martial Training",
+    "vi": "Martial Training"
+  },
+  {
+    "key": "player_triggered_event_training_info",
+    "type": 0,
+    "en": "The sergeant sharpens blades and checks bowstrings are taut in anticipation of a martial training session.",
+    "vi": "The sergeant sharpens blades and checks bowstrings are taut in anticipation of a martial training session."
+  },
+  {
+    "key": "player_triggered_event_training_description",
+    "type": 0,
+    "en": "Attending Martial Training buffs settlers in the weapon skill selected. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the sergeant.",
+    "vi": "Attending Martial Training buffs settlers in the weapon skill selected. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the sergeant."
+  },
+  {
+    "key": "effector_info_AteHumanFlesh",
+    "type": 0,
+    "en": "I ate human flesh! <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>",
+    "vi": "I ate human flesh! <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCooked",
+    "type": 0,
+    "en": "Even though it was cooked, I can tell it's human flesh. <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>",
+    "vi": "Even though it was cooked, I can tell it's human flesh. <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>"
+  },
+  {
+    "key": "effector_info_AteLavishMeal",
+    "type": 0,
+    "en": "This meal was fantastic, fit for a king!",
+    "vi": "This meal was fantastic, fit for a king!"
+  },
+  {
+    "key": "effector_info_AteRawMeal",
+    "type": 0,
+    "en": "Raw food will have to do, if there is nothing else. <style=AltColor>Tip: cooked meals are more nutritious and some give positive mood modifiers</style>",
+    "vi": "Raw food will have to do, if there is nothing else. <style=AltColor>Tip: cooked meals are more nutritious and some give positive mood modifiers</style>"
+  },
+  {
+    "key": "effector_info_AteRawMeat",
+    "type": 0,
+    "en": "I ate raw meat, like an animal! <style=AltColor>Tip: Roasted meat is much better for the stomach and also won’t negatively affect mood.</style>",
+    "vi": "I ate raw meat, like an animal! <style=AltColor>Tip: Roasted meat is much better for the stomach and also won’t negatively affect mood.</style>"
+  },
+  {
+    "key": "effector_info_AteWell",
+    "type": 0,
+    "en": "A decent meal, my hunger is assuaged.",
+    "vi": "A decent meal, my hunger is assuaged."
+  },
+  {
+    "key": "effector_info_ChainedUp",
+    "type": 0,
+    "en": "Get these chains off me!",
+    "vi": "Get these chains off me!"
+  },
+  {
+    "key": "effector_info_Chilly",
+    "type": 0,
+    "en": "Feeling a bit chilly. I might need warmer clothes... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Feeling a bit chilly. I might need warmer clothes... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_Cold",
+    "type": 0,
+    "en": "It's getting pretty cold now. My teeth are chattering. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "It's getting pretty cold now. My teeth are chattering. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_DidJobWithPassion",
+    "type": 0,
+    "en": "Nothing beats the satisfaction of a job well done. <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>",
+    "vi": "Nothing beats the satisfaction of a job well done. <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>"
+  },
+  {
+    "key": "effector_info_ExtremeNeedSleep",
+    "type": 0,
+    "en": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>"
+  },
+  {
+    "key": "effector_info_ExtremeNeedSleepConLoss",
+    "type": 0,
+    "en": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>"
+  },
+  {
+    "key": "effector_info_FineClothing",
+    "type": 0,
+    "en": "Comfortable and stylish. No harm in looking fabulous, even if the world has ended...",
+    "vi": "Comfortable and stylish. No harm in looking fabulous, even if the world has ended..."
+  },
+  {
+    "key": "effector_info_Freezing",
+    "type": 0,
+    "en": "I'm frozen to my bones! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "I'm frozen to my bones! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_Hot",
+    "type": 0,
+    "en": "Feeling lightheaded, it might be sunstroke... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Feeling lightheaded, it might be sunstroke... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_Hungry",
+    "type": 0,
+    "en": "Pretty hungry now, I should eat something soon.",
+    "vi": "Pretty hungry now, I should eat something soon."
+  },
+  {
+    "key": "effector_info_NeedSleep",
+    "type": 0,
+    "en": "Can't wait to find a place to lay my head. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "Can't wait to find a place to lay my head. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>"
+  },
+  {
+    "key": "effector_info_SleptInLowQualityBed",
+    "type": 0,
+    "en": "Better than the ground, I guess.",
+    "vi": "Better than the ground, I guess."
+  },
+  {
+    "key": "effector_info_SleptOnRain",
+    "type": 0,
+    "en": "I'm soaking wet from sleeping in the rain. <style=AltColor>Tip: construct beds in rooms or in roofed areas.</style>",
+    "vi": "I'm soaking wet from sleeping in the rain. <style=AltColor>Tip: construct beds in rooms or in roofed areas.</style>"
+  },
+  {
+    "key": "effector_info_SleptOnSnow",
+    "type": 0,
+    "en": "I slept in the freezing snow! <style=AltColor>Tip: construct beds in rooms or in roofed areas.",
+    "vi": "I slept in the freezing snow! <style=AltColor>Tip: construct beds in rooms or in roofed areas."
+  },
+  {
+    "key": "effector_info_SleptOutside",
+    "type": 0,
+    "en": "I slept outside. <style=AltColor>Tip: construct beds in rooms.</style>",
+    "vi": "I slept outside. <style=AltColor>Tip: construct beds in rooms.</style>"
+  },
+  {
+    "key": "effector_info_SleptWithoutBed",
+    "type": 0,
+    "en": "Had to sleep on the ground.",
+    "vi": "Had to sleep on the ground."
+  },
+  {
+    "key": "effector_info_SlightNeedSleep",
+    "type": 0,
+    "en": "Feeling a bit tired, I should take a nap.",
+    "vi": "Feeling a bit tired, I should take a nap."
+  },
+  {
+    "key": "effector_info_SlightlyHungry",
+    "type": 0,
+    "en": "Could do with something to eat, if I can find the time.",
+    "vi": "Could do with something to eat, if I can find the time."
+  },
+  {
+    "key": "effector_info_StarvationLoosHP",
+    "type": 0,
+    "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
+    "vi": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything."
+  },
+  {
+    "key": "effector_info_Starving",
+    "type": 0,
+    "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
+    "vi": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything."
+  },
+  {
+    "key": "effector_info_Sweaty",
+    "type": 0,
+    "en": "It's a bit hot, I'm sweating. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "It's a bit hot, I'm sweating. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_UglyClothing",
+    "type": 0,
+    "en": "These rags are not fit for me. <style=AltColor>Tip: some settlers mind if their apparel is of poor quality. Tailor something nicer for them to avoid this mood modifier.</style>",
+    "vi": "These rags are not fit for me. <style=AltColor>Tip: some settlers mind if their apparel is of poor quality. Tailor something nicer for them to avoid this mood modifier.</style>"
+  },
+  {
+    "key": "effector_info_VeryHot",
+    "type": 0,
+    "en": "I might collapse from the heat! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "I might collapse from the heat! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>"
+  },
+  {
+    "key": "effector_info_VeryHungry",
+    "type": 0,
+    "en": "Can't hear anything over the sound of my growling stomach.",
+    "vi": "Can't hear anything over the sound of my growling stomach."
+  },
+  {
+    "key": "effector_name_2x",
+    "type": 0,
+    "en": "2X",
+    "vi": "2X"
+  },
+  {
+    "key": "effector_name_3x",
+    "type": 0,
+    "en": "3X",
+    "vi": "3X"
+  },
+  {
+    "key": "effector_name_4x",
+    "type": 0,
+    "en": "4X",
+    "vi": "4X"
+  },
+  {
+    "key": "effector_name_AteHumanFlesh",
+    "type": 0,
+    "en": "Consumed Human Flesh",
+    "vi": "Consumed Human Flesh"
+  },
+  {
+    "key": "effector_name_AteHumanFleshCooked",
+    "type": 0,
+    "en": "Consumed Cooked Human Flesh",
+    "vi": "Consumed Cooked Human Flesh"
+  },
+  {
+    "key": "effector_name_AteLavishMeal",
+    "type": 0,
+    "en": "Ate an Exquisite Meal",
+    "vi": "Ate an Exquisite Meal"
+  },
+  {
+    "key": "effector_name_AteRawMeal",
+    "type": 0,
+    "en": "Ate Raw Food",
+    "vi": "Ate Raw Food"
+  },
+  {
+    "key": "effector_name_AteRawMeat",
+    "type": 0,
+    "en": "Ate Raw Meat",
+    "vi": "Ate Raw Meat"
+  },
+  {
+    "key": "effector_name_AteWell",
+    "type": 0,
+    "en": "Ate a Nice Meal",
+    "vi": "Ate a Nice Meal"
+  },
+  {
+    "key": "effector_name_ChainedUp",
+    "type": 0,
+    "en": "Chained Up",
+    "vi": "Chained Up"
+  },
+  {
+    "key": "effector_name_Chilly",
+    "type": 0,
+    "en": "Chilly",
+    "vi": "Chilly"
+  },
+  {
+    "key": "effector_name_Cold",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Cold"
+  },
+  {
+    "key": "effector_name_DidJobWithPassion",
+    "type": 0,
+    "en": "Job Satisfaction",
+    "vi": "Job Satisfaction"
+  },
+  {
+    "key": "effector_name_ExtremeNeedSleep",
+    "type": 0,
+    "en": "Exhausted",
+    "vi": "Exhausted"
+  },
+  {
+    "key": "effector_name_ExtremeNeedSleepConLoss",
+    "type": 0,
+    "en": "Losing Consciousness",
+    "vi": "Losing Consciousness"
+  },
+  {
+    "key": "effector_name_FineClothing",
+    "type": 0,
+    "en": "Elegant Apparel",
+    "vi": "Elegant Apparel"
+  },
+  {
+    "key": "effector_name_Freezing",
+    "type": 0,
+    "en": "Freezing",
+    "vi": "Freezing"
+  },
+  {
+    "key": "effector_name_Hot",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Hot"
+  },
+  {
+    "key": "effector_name_Hungry",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "effector_name_NeedSleep",
+    "type": 0,
+    "en": "Moderately Tired",
+    "vi": "Moderately Tired"
+  },
+  {
+    "key": "effector_name_SleptOnRain",
+    "type": 0,
+    "en": "Slept in the Rain",
+    "vi": "Slept in the Rain"
+  },
+  {
+    "key": "effector_name_SleptOnSnow",
+    "type": 0,
+    "en": "Slept in the Snow",
+    "vi": "Slept in the Snow"
+  },
+  {
+    "key": "effector_name_SleptOutside",
+    "type": 0,
+    "en": "Slept Outside",
+    "vi": "Slept Outside"
+  },
+  {
+    "key": "effector_name_SleptWithoutBed",
+    "type": 0,
+    "en": "Slept on the Ground",
+    "vi": "Slept on the Ground"
+  },
+  {
+    "key": "effector_name_SlightNeedSleep",
+    "type": 0,
+    "en": "A little Tired",
+    "vi": "A little Tired"
+  },
+  {
+    "key": "effector_name_SlightlyHungry",
+    "type": 0,
+    "en": "Slightly Hungry",
+    "vi": "Slightly Hungry"
+  },
+  {
+    "key": "effector_name_StarvationLoosHP",
+    "type": 0,
+    "en": "Losing HP (Starving)",
+    "vi": "Losing HP (Starving)"
+  },
+  {
+    "key": "effector_name_Starving",
+    "type": 0,
+    "en": "Starving",
+    "vi": "Starving"
+  },
+  {
+    "key": "effector_name_Sweaty",
+    "type": 0,
+    "en": "Sweaty",
+    "vi": "Sweaty"
+  },
+  {
+    "key": "effector_name_UglyClothing",
+    "type": 0,
+    "en": "Ugly Apparel",
+    "vi": "Ugly Apparel"
+  },
+  {
+    "key": "effector_name_VeryHot",
+    "type": 0,
+    "en": "Overheated",
+    "vi": "Overheated"
+  },
+  {
+    "key": "effector_name_VeryHungry",
+    "type": 0,
+    "en": "Ravenous",
+    "vi": "Ravenous"
+  },
+  {
+    "key": "effector_name_StarvingStout",
+    "type": 0,
+    "en": "Starving (Stout)",
+    "vi": "Starving (Stout)"
+  },
+  {
+    "key": "effector_name_AteAtTable",
+    "type": 0,
+    "en": "Ate at a table",
+    "vi": "Ate at a table"
+  },
+  {
+    "key": "effector_name_AteSittingDown",
+    "type": 0,
+    "en": "Ate sitting down",
+    "vi": "Ate sitting down"
+  },
+  {
+    "key": "effector_name_ButcheredHuman",
+    "type": 0,
+    "en": "Butchered a human",
+    "vi": "Butchered a human"
+  },
+  {
+    "key": "effector_name_ButcheredHumanFriend",
+    "type": 0,
+    "en": "Butchered someone I knew",
+    "vi": "Butchered someone I knew"
+  },
+  {
+    "key": "effector_name_CookedHumanMeat",
+    "type": 0,
+    "en": "Cooked with human meat",
+    "vi": "Cooked with human meat"
+  },
+  {
+    "key": "effector_name_FaithFull",
+    "type": 0,
+    "en": "Religious needs fulfilled",
+    "vi": "Religious needs fulfilled"
+  },
+  {
+    "key": "effector_name_FaithNeed",
+    "type": 0,
+    "en": "Lacking in religious activities",
+    "vi": "Lacking in religious activities"
+  },
+  {
+    "key": "effector_name_FaithDeprived",
+    "type": 0,
+    "en": "Deprived of religious activities",
+    "vi": "Deprived of religious activities"
+  },
+  {
+    "key": "effector_name_SawDeadBody",
+    "type": 0,
+    "en": "Saw a dead body",
+    "vi": "Saw a dead body"
+  },
+  {
+    "key": "effector_name_SawDeadBodyFriend",
+    "type": 0,
+    "en": "Saw a friend's corpse",
+    "vi": "Saw a friend's corpse"
+  },
+  {
+    "key": "effector_info_AteAtTable",
+    "type": 0,
+    "en": "Eating at the table feels so civilized. It's positively grand compared to some of the places I've had to eat...it's quite heartening.",
+    "vi": "Eating at the table feels so civilized. It's positively grand compared to some of the places I've had to eat...it's quite heartening."
+  },
+  {
+    "key": "effector_info_AteSittingDown",
+    "type": 0,
+    "en": "Better than eating while standing.",
+    "vi": "Better than eating while standing."
+  },
+  {
+    "key": "effector_info_ButcheredHuman",
+    "type": 0,
+    "en": "It's an image I can't get out of my head. A person laid out, dead. The glint of the butchering knife. I feel horror and revulsion.",
+    "vi": "It's an image I can't get out of my head. A person laid out, dead. The glint of the butchering knife. I feel horror and revulsion."
+  },
+  {
+    "key": "effector_info_CookedHumanMeat",
+    "type": 0,
+    "en": "The odd thing was that it tasted like other meat. But recalling the horrible roasting smell makes me retch. It's sickening.",
+    "vi": "The odd thing was that it tasted like other meat. But recalling the horrible roasting smell makes me retch. It's sickening."
+  },
+  {
+    "key": "effector_info_FaithFull",
+    "type": 0,
+    "en": "I am content, my soul is at peace. I have no need for prayer at this time.",
+    "vi": "I am content, my soul is at peace. I have no need for prayer at this time."
+  },
+  {
+    "key": "effector_info_FaithNeed",
+    "type": 0,
+    "en": "I feel conflicted and disconnected. Some time in quiet contemplation and prayer would help.",
+    "vi": "I feel conflicted and disconnected. Some time in quiet contemplation and prayer would help."
+  },
+  {
+    "key": "effector_info_FaithDeprived",
+    "type": 0,
+    "en": "I fear I am losing faith, faltering in my devotion. I must pray! I must atone! <style=AltColor>Tip: Construct shrines, temples and chapels and give your settlers sufficient leisure hours to fulfil their religious needs.</style>",
+    "vi": "I fear I am losing faith, faltering in my devotion. I must pray! I must atone! <style=AltColor>Tip: Construct shrines, temples and chapels and give your settlers sufficient leisure hours to fulfil their religious needs.</style>"
+  },
+  {
+    "key": "effector_info_SawDeadBody",
+    "type": 0,
+    "en": "It was horrible, to see the body. It was rigid, just...staring. It didn't feel respectful, seeing them like that. <style=AltColor>Tip: Store dead bodies on stockpiles far away from your settlement, or bury the dead so others can't see the bodies.</style>",
+    "vi": "It was horrible, to see the body. It was rigid, just...staring. It didn't feel respectful, seeing them like that. <style=AltColor>Tip: Store dead bodies on stockpiles far away from your settlement, or bury the dead so others can't see the bodies.</style>"
+  },
+  {
+    "key": "effector_name_AlcoholNeedNone",
+    "type": 0,
+    "en": "Not drinking alcohol",
+    "vi": "Not drinking alcohol"
+  },
+  {
+    "key": "effector_name_AlcoholNeedLow",
+    "type": 0,
+    "en": "Fancies a tipple",
+    "vi": "Fancies a tipple"
+  },
+  {
+    "key": "effector_name_AlcoholNeedMed",
+    "type": 0,
+    "en": "Craving a stronger drink",
+    "vi": "Craving a stronger drink"
+  },
+  {
+    "key": "effector_name_AlcoholNeedHigh",
+    "type": 0,
+    "en": "Desperate for booze",
+    "vi": "Desperate for booze"
+  },
+  {
+    "key": "effector_name_DrankNiceDrink",
+    "type": 0,
+    "en": "Drank good ale",
+    "vi": "Drank good ale"
+  },
+  {
+    "key": "effector_name_DrankVeryNiceDrink",
+    "type": 0,
+    "en": "Drank good beer",
+    "vi": "Drank good beer"
+  },
+  {
+    "key": "effector_name_InebriatedLow",
+    "type": 0,
+    "en": "Tipsy",
+    "vi": "Tipsy"
+  },
+  {
+    "key": "effector_name_InebriatedMed",
+    "type": 0,
+    "en": "Drunk",
+    "vi": "Drunk"
+  },
+  {
+    "key": "effector_name_InebriatedHigh",
+    "type": 0,
+    "en": "Legless",
+    "vi": "Legless"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHigh",
+    "type": 0,
+    "en": "Totally paralytic",
+    "vi": "Totally paralytic"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHighLightweight",
+    "type": 0,
+    "en": "Totally paralytic (Lightweight)",
+    "vi": "Totally paralytic (Lightweight)"
+  },
+  {
+    "key": "effector_name_InebriatedLowPunchDrunk",
+    "type": 0,
+    "en": "Tipsy (Punch Drunk)",
+    "vi": "Tipsy (Punch Drunk)"
+  },
+  {
+    "key": "effector_name_InebriatedMedPunchDrunk",
+    "type": 0,
+    "en": "Drunk (Punch Drunk)",
+    "vi": "Drunk (Punch Drunk)"
+  },
+  {
+    "key": "effector_name_InebriatedHighPunchDrunk",
+    "type": 0,
+    "en": "Legless (Punch Drunk)",
+    "vi": "Legless (Punch Drunk)"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHighPunchDrunk",
+    "type": 0,
+    "en": "Totally paralytic (Punch Drunk)",
+    "vi": "Totally paralytic (Punch Drunk)"
+  },
+  {
+    "key": "effector_name_StomachHurtLow",
+    "type": 0,
+    "en": "Mild stomach pain",
+    "vi": "Mild stomach pain"
+  },
+  {
+    "key": "effector_name_StomachHurtMed",
+    "type": 0,
+    "en": "Severe stomach pain",
+    "vi": "Severe stomach pain"
+  },
+  {
+    "key": "effector_name_VomitAfter",
+    "type": 0,
+    "en": "Vomited",
+    "vi": "Vomited"
+  },
+  {
+    "key": "effector_info_AlcoholNeedNone",
+    "type": 0,
+    "en": "I don't need a drink.",
+    "vi": "I don't need a drink."
+  },
+  {
+    "key": "effector_info_AlcoholNeedLow",
+    "type": 0,
+    "en": "A drink sounds nice",
+    "vi": "A drink sounds nice"
+  },
+  {
+    "key": "effector_info_AlcoholNeedMed",
+    "type": 0,
+    "en": "I'm thirsty. A pint would really hit the spot",
+    "vi": "I'm thirsty. A pint would really hit the spot"
+  },
+  {
+    "key": "effector_info_AlcoholNeedHigh",
+    "type": 0,
+    "en": "I’d kill for a pint, or three <style=AltColor>Tip: Brew some alcoholic beverages for your settlers.</style>",
+    "vi": "I’d kill for a pint, or three <style=AltColor>Tip: Brew some alcoholic beverages for your settlers.</style>"
+  },
+  {
+    "key": "effector_info_DrankVeryNiceDrink",
+    "type": 0,
+    "en": "Ah, that beer really hits the spot. Lovely!",
+    "vi": "Ah, that beer really hits the spot. Lovely!"
+  },
+  {
+    "key": "effector_info_DrankNiceDrink",
+    "type": 0,
+    "en": "Not the finest of ales, I'll grant you. But it goes down well enough.",
+    "vi": "Not the finest of ales, I'll grant you. But it goes down well enough."
+  },
+  {
+    "key": "effector_info_InebriatedLow",
+    "type": 0,
+    "en": "It's nice to relax and have a couple of drinks for a change.",
+    "vi": "It's nice to relax and have a couple of drinks for a change."
+  },
+  {
+    "key": "effector_info_InebriatedMed",
+    "type": 0,
+    "en": "Hey, friends, look at me! I'd like to see those raiders try and come at me now!",
+    "vi": "Hey, friends, look at me! I'd like to see those raiders try and come at me now!"
+  },
+  {
+    "key": "effector_info_InebriatedHigh",
+    "type": 0,
+    "en": "C'mon, let's have another round. Yes, I really can drink you all under the table, and I'll prove it!",
+    "vi": "C'mon, let's have another round. Yes, I really can drink you all under the table, and I'll prove it!"
+  },
+  {
+    "key": "effector_info_InebriatedVeryHigh",
+    "type": 0,
+    "en": "Drunk? Pshhht. No, I did NOT soil myself! Please don't put me in the stocks again to sober up. Take me home, or let me sleep here on the floor... I'll stop crying.",
+    "vi": "Drunk? Pshhht. No, I did NOT soil myself! Please don't put me in the stocks again to sober up. Take me home, or let me sleep here on the floor... I'll stop crying."
+  },
+  {
+    "key": "effector_info_StomachHurtLow",
+    "type": 0,
+    "en": "Oh dear, my guts are grumbling. Wonder if it's something I ate or drank?",
+    "vi": "Oh dear, my guts are grumbling. Wonder if it's something I ate or drank?"
+  },
+  {
+    "key": "effector_info_StomachHurtMed",
+    "type": 0,
+    "en": "I've got a really bad stomach ache. It's pretty painful.",
+    "vi": "I've got a really bad stomach ache. It's pretty painful."
+  },
+  {
+    "key": "effector_info_VomitAfter",
+    "type": 0,
+    "en": "Better out than in. I feel a bit empty now though. Perhaps I should eat something to settle my stomach?",
+    "vi": "Better out than in. I feel a bit empty now though. Perhaps I should eat something to settle my stomach?"
+  },
+  {
+    "key": "effector_name_EntertainmentFull",
+    "type": 0,
+    "en": "Entertainment needs fulfilled",
+    "vi": "Entertainment needs fulfilled"
+  },
+  {
+    "key": "effector_name_EntertainmentNeed",
+    "type": 0,
+    "en": "Lacking in entertainment ",
+    "vi": "Lacking in entertainment "
+  },
+  {
+    "key": "effector_name_EntertainmentDeprived",
+    "type": 0,
+    "en": "Deprived of entertainment ",
+    "vi": "Deprived of entertainment "
+  },
+  {
+    "key": "effector_info_EntertainmentFull",
+    "type": 0,
+    "en": "I'm feeling grand! No need for entertainment at the minute.",
+    "vi": "I'm feeling grand! No need for entertainment at the minute."
+  },
+  {
+    "key": "effector_info_EntertainmentNeed",
+    "type": 0,
+    "en": "I'm pretty bored, truth be told. We could do with a little fun around here.",
+    "vi": "I'm pretty bored, truth be told. We could do with a little fun around here."
+  },
+  {
+    "key": "effector_info_EntertainmentDeprived",
+    "type": 0,
+    "en": "It's just one tough, dreary thing after another, isn't it? I'd even be cheered to watch mummers or an execution, I'm that fed up. <style=AltColor>Tip: Give your settlers some pastimes like a backgammon table and schedule some leisure hours for entertainment.</style>",
+    "vi": "It's just one tough, dreary thing after another, isn't it? I'd even be cheered to watch mummers or an execution, I'm that fed up. <style=AltColor>Tip: Give your settlers some pastimes like a backgammon table and schedule some leisure hours for entertainment.</style>"
+  },
+  {
+    "key": "effector_name_NewVillagerInitialOptimisam",
+    "type": 0,
+    "en": "Initial Optimism",
+    "vi": "Initial Optimism"
+  },
+  {
+    "key": "effector_info_NewVillagerInitialOptimisam",
+    "type": 0,
+    "en": "A new beginning. Nobody from my past life is here to tell me what I can or can't become...",
+    "vi": "A new beginning. Nobody from my past life is here to tell me what I can or can't become..."
+  },
+  {
+    "key": "effector_name_AteInGreatHall",
+    "type": 0,
+    "en": "Ate in great hall",
+    "vi": "Ate in great hall"
+  },
+  {
+    "key": "effector_name_AteInGreatHallAwful",
+    "type": 0,
+    "en": "Ate in great hall (Awful)",
+    "vi": "Ate in great hall (Awful)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallDull",
+    "type": 0,
+    "en": "Ate in great hall (Uninspiring)",
+    "vi": "Ate in great hall (Uninspiring)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallMediocre",
+    "type": 0,
+    "en": "Ate in great hall (Modest)",
+    "vi": "Ate in great hall (Modest)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallGood",
+    "type": 0,
+    "en": "Ate in great hall (Good)",
+    "vi": "Ate in great hall (Good)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallSlightlyImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Superior)",
+    "vi": "Ate in great hall (Superior)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallSomewhatImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Luxurious)",
+    "vi": "Ate in great hall (Luxurious)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallVeryImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Opulent)",
+    "vi": "Ate in great hall (Opulent)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallExtremelyImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Palatial)",
+    "vi": "Ate in great hall (Palatial)"
+  },
+  {
+    "key": "effector_info_AteInGreatHall",
+    "type": 0,
+    "en": "Nothing beats a good meal and a rousing tale among friends and neighbours in the great hall. Life is sweet!",
+    "vi": "Nothing beats a good meal and a rousing tale among friends and neighbours in the great hall. Life is sweet!"
+  },
+  {
+    "key": "effector_name_FrozenDeath",
+    "type": 0,
+    "en": "Losing HP (Freezing)",
+    "vi": "Losing HP (Freezing)"
+  },
+  {
+    "key": "effector_name_ImpairedMovementLow",
+    "type": 0,
+    "en": "Small Movement Impairment",
+    "vi": "Small Movement Impairment"
+  },
+  {
+    "key": "effector_name_ImpairedMovementMed",
+    "type": 0,
+    "en": "Significant Movement Impairment",
+    "vi": "Significant Movement Impairment"
+  },
+  {
+    "key": "effector_name_VisibilityFog",
+    "type": 0,
+    "en": "Visibility (Fog)",
+    "vi": "Visibility (Fog)"
+  },
+  {
+    "key": "effector_name_VisibilityRain",
+    "type": 0,
+    "en": "Visibility (Rain)",
+    "vi": "Visibility (Rain)"
+  },
+  {
+    "key": "effector_name_VisibilitySnow",
+    "type": 0,
+    "en": "Visibility (Snow)",
+    "vi": "Visibility (Snow)"
+  },
+  {
+    "key": "effector_name_SleepingHealing",
+    "type": 0,
+    "en": "Healing (sleeping)",
+    "vi": "Healing (sleeping)"
+  },
+  {
+    "key": "effector_name_RestingHealing",
+    "type": 0,
+    "en": "Healing (convalescence)",
+    "vi": "Healing (convalescence)"
+  },
+  {
+    "key": "effector_name_ConLoseMotor",
+    "type": 0,
+    "en": "Some Motor Function lost",
+    "vi": "Some Motor Function lost"
+  },
+  {
+    "key": "effector_name_ConLoseMotorHigh",
+    "type": 0,
+    "en": "Severe loss of Motor Function",
+    "vi": "Severe loss of Motor Function"
+  },
+  {
+    "key": "effector_name_DrankWeakAlcohol",
+    "type": 0,
+    "en": "Weak Alcohol",
+    "vi": "Weak Alcohol"
+  },
+  {
+    "key": "effector_name_DrankMediumAlcohol",
+    "type": 0,
+    "en": "Moderate Alcohol",
+    "vi": "Moderate Alcohol"
+  },
+  {
+    "key": "effector_name_DrankAlcohol",
+    "type": 0,
+    "en": "Regular Alcohol",
+    "vi": "Regular Alcohol"
+  },
+  {
+    "key": "effector_name_DrankHardAlcohol",
+    "type": 0,
+    "en": "Strong Alcohol",
+    "vi": "Strong Alcohol"
+  },
+  {
+    "key": "effector_name_StomachFoodInstaDmgVeryLow",
+    "type": 0,
+    "en": "Stomach upset",
+    "vi": "Stomach upset"
+  },
+  {
+    "key": "effector_name_StomachFoodInstaDmgLow",
+    "type": 0,
+    "en": "Bad stomach upset",
+    "vi": "Bad stomach upset"
+  },
+  {
+    "key": "effector_name_StomackRotDmg",
+    "type": 0,
+    "en": "The stench of rot",
+    "vi": "The stench of rot"
+  },
+  {
+    "key": "effector_name_StomackCarcassDmg",
+    "type": 0,
+    "en": "The sight of a dead body",
+    "vi": "The sight of a dead body"
+  },
+  {
+    "key": "hunger_effector",
+    "type": 0,
+    "en": "Hunger",
+    "vi": "Hunger"
+  },
+  {
+    "key": "sleep_effector",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Sleep"
+  },
+  {
+    "key": "carcass_effector",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Carcass"
+  },
+  {
+    "key": "death_effector",
+    "type": 0,
+    "en": "Death",
+    "vi": "Death"
+  },
+  {
+    "key": "cold_effector",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Cold"
+  },
+  {
+    "key": "hot_effector",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Hot"
+  },
+  {
+    "key": "clothing_effector",
+    "type": 0,
+    "en": "Clothing",
+    "vi": "Clothing"
+  },
+  {
+    "key": "passion_effector",
+    "type": 0,
+    "en": "Passion",
+    "vi": "Passion"
+  },
+  {
+    "key": "banished_effector",
+    "type": 0,
+    "en": "Banishment",
+    "vi": "Banishment"
+  },
+  {
+    "key": "ransom_help_effector",
+    "type": 0,
+    "en": "Helped someone",
+    "vi": "Helped someone"
+  },
+  {
+    "key": "ransom_no_help_effector",
+    "type": 0,
+    "en": "Help declined",
+    "vi": "Help declined"
+  },
+  {
+    "key": "faith_effector",
+    "type": 0,
+    "en": "Faith",
+    "vi": "Faith"
+  },
+  {
+    "key": "Inebriated_effector",
+    "type": 0,
+    "en": "Inebriated",
+    "vi": "Inebriated"
+  },
+  {
+    "key": "stomach_effector",
+    "type": 0,
+    "en": "Stomach",
+    "vi": "Stomach"
+  },
+  {
+    "key": "entertainment_effector",
+    "type": 0,
+    "en": "Entertainment",
+    "vi": "Entertainment"
+  },
+  {
+    "key": "effector_name_WhileFaintedEffector",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Unconscious"
+  },
+  {
+    "key": "effector_info_AteDubiousMeal",
+    "type": 0,
+    "en": "Not sure what was in that, and I never want to find out.",
+    "vi": "Not sure what was in that, and I never want to find out."
+  },
+  {
+    "key": "effector_name_AteRotten",
+    "type": 0,
+    "en": "Ate Something Rotten",
+    "vi": "Ate Something Rotten"
+  },
+  {
+    "key": "effector_name_AteDubiousMeal",
+    "type": 0,
+    "en": "Ate Tainted Food",
+    "vi": "Ate Tainted Food"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCanibal",
+    "type": 0,
+    "en": "Consumed Human Flesh",
+    "vi": "Consumed Human Flesh"
+  },
+  {
+    "key": "effector_name_AteHumanFleshCanibal",
+    "type": 0,
+    "en": "Eating this flesh imbues sacred power, so said the druids of yore.",
+    "vi": "Eating this flesh imbues sacred power, so said the druids of yore."
+  },
+  {
+    "key": "effector_name_AteHumanFleshCookedCanibal",
+    "type": 0,
+    "en": "Consumed Cooked Human Flesh",
+    "vi": "Consumed Cooked Human Flesh"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCookedCanibal",
+    "type": 0,
+    "en": "Each tasty morsel of this forbidden Eucharist helps me transcend mortality.",
+    "vi": "Each tasty morsel of this forbidden Eucharist helps me transcend mortality."
+  },
+  {
+    "key": "effector_name_DuringBattle",
+    "type": 0,
+    "en": "Let me at them!",
+    "vi": "Let me at them!"
+  },
+  {
+    "key": "effector_name_SleptInLowQualityBed",
+    "type": 0,
+    "en": "Slept in Uncomfortable Bed",
+    "vi": "Slept in Uncomfortable Bed"
+  },
+  {
+    "key": "effector_name_SleptInMedQualityBed",
+    "type": 0,
+    "en": "Slept in Nice Bed",
+    "vi": "Slept in Nice Bed"
+  },
+  {
+    "key": "effector_name_SleptInHighQualityBed",
+    "type": 0,
+    "en": "Slept in Comfortable Bed",
+    "vi": "Slept in Comfortable Bed"
+  },
+  {
+    "key": "effector_name_SleptInHighestQualityBed",
+    "type": 0,
+    "en": "Slept in Very Comfortable Bed",
+    "vi": "Slept in Very Comfortable Bed"
+  },
+  {
+    "key": "effector_info_SleptInMedQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A nice comfortable bed in these uncomfortable times."
+  },
+  {
+    "key": "effector_info_SleptInHighQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A nice comfortable bed in these uncomfortable times."
+  },
+  {
+    "key": "effector_info_SleptInHighestQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A nice comfortable bed in these uncomfortable times."
+  },
+  {
+    "key": "effector_name_AteSweet",
+    "type": 0,
+    "en": "Ate something sweet",
+    "vi": "Ate something sweet"
+  },
+  {
+    "key": "effector_info_AteSweet",
+    "type": 0,
+    "en": "When my craving for the sweeter things in life is satisfied, then so am I.",
+    "vi": "When my craving for the sweeter things in life is satisfied, then so am I."
+  },
+  {
+    "key": "effector_name_YoungAgeEffector01",
+    "type": 0,
+    "en": "Young",
+    "vi": "Young"
+  },
+  {
+    "key": "effector_info_YoungAgeEffector01",
+    "type": 0,
+    "en": "They all say I have much to learn. But time and energy are on my side. What I lack in experience, I make up for in enthusiasm!",
+    "vi": "They all say I have much to learn. But time and energy are on my side. What I lack in experience, I make up for in enthusiasm!"
+  },
+  {
+    "key": "effector_name_AdultAgeEffector01",
+    "type": 0,
+    "en": "Adult",
+    "vi": "Adult"
+  },
+  {
+    "key": "effector_info_AdultAgeEffector01",
+    "type": 0,
+    "en": "True, I have had a few setbacks. But I've learned how to handle myself, and that's what counts. I am in the prime of life, after all!",
+    "vi": "True, I have had a few setbacks. But I've learned how to handle myself, and that's what counts. I am in the prime of life, after all!"
+  },
+  {
+    "key": "effector_name_MidAgeEffector01",
+    "type": 0,
+    "en": "Middle Aged",
+    "vi": "Middle Aged"
+  },
+  {
+    "key": "effector_info_MidAgeEffector01",
+    "type": 0,
+    "en": "I may be older and wiser - others look to me for leadership. But honestly? Everything aches, and I'm not as nimble as I used to be.",
+    "vi": "I may be older and wiser - others look to me for leadership. But honestly? Everything aches, and I'm not as nimble as I used to be."
+  },
+  {
+    "key": "effector_name_SeniorAgeEffector01",
+    "type": 0,
+    "en": "Senior",
+    "vi": "Senior"
+  },
+  {
+    "key": "effector_info_SeniorAgeEffector01",
+    "type": 0,
+    "en": "I know a thing or two, if only they'd listen! And yes, I can still do things for myself. Just need more time, that's all. Respect your elders!",
+    "vi": "I know a thing or two, if only they'd listen! And yes, I can still do things for myself. Just need more time, that's all. Respect your elders!"
+  },
+  {
+    "key": "effector_name_GoodDream01",
+    "type": 0,
+    "en": "Good Dream",
+    "vi": "Good Dream"
+  },
+  {
+    "key": "effector_info_GoodDream01",
+    "type": 0,
+    "en": "I dreamed that I was comforted by a dear friend, and woke feeling safe and rested. Today is off to a great start!",
+    "vi": "I dreamed that I was comforted by a dear friend, and woke feeling safe and rested. Today is off to a great start!"
+  },
+  {
+    "key": "effector_name_GoodDream02",
+    "type": 0,
+    "en": "Wonderful Dream",
+    "vi": "Wonderful Dream"
+  },
+  {
+    "key": "effector_info_GoodDream02",
+    "type": 0,
+    "en": "My dream was so glorious I didn't want to wake up...how I soared around paradise! Let me hold onto that feeling.",
+    "vi": "My dream was so glorious I didn't want to wake up...how I soared around paradise! Let me hold onto that feeling."
+  },
+  {
+    "key": "effector_name_GoodDreamFood",
+    "type": 0,
+    "en": "Delicious Dream",
+    "vi": "Delicious Dream"
+  },
+  {
+    "key": "effector_info_GoodDreamFood",
+    "type": 0,
+    "en": "The most sumptuous, succulent banquet was laid before me in my dream last night. I could eat forever, my appetite was infinite!",
+    "vi": "The most sumptuous, succulent banquet was laid before me in my dream last night. I could eat forever, my appetite was infinite!"
+  },
+  {
+    "key": "effector_name_GoodDreamCanibal",
+    "type": 0,
+    "en": "Devouring Dream",
+    "vi": "Devouring Dream"
+  },
+  {
+    "key": "effector_info_GoodDreamCanibal",
+    "type": 0,
+    "en": "I was chewing this delicious, roasted arm, then I realised it was mine, and it was still attached! But I couldn't stop, I was ravenous...",
+    "vi": "I was chewing this delicious, roasted arm, then I realised it was mine, and it was still attached! But I couldn't stop, I was ravenous..."
+  },
+  {
+    "key": "effector_name_GoodDreamSpoiled",
+    "type": 0,
+    "en": "Opulent Dream",
+    "vi": "Opulent Dream"
+  },
+  {
+    "key": "effector_info_GoodDreamSpoiled",
+    "type": 0,
+    "en": "I bathed in asses milk and rose petals. Rising from the steaming vessel, handmaidens clothed me in silk and fed me sweetmeats. Alas, just a dream...",
+    "vi": "I bathed in asses milk and rose petals. Rising from the steaming vessel, handmaidens clothed me in silk and fed me sweetmeats. Alas, just a dream..."
+  },
+  {
+    "key": "effector_name_GoodDreamAscetic",
+    "type": 0,
+    "en": "Spartan Dream",
+    "vi": "Spartan Dream"
+  },
+  {
+    "key": "effector_info_GoodDreamAscetic",
+    "type": 0,
+    "en": "I dreamed of a solitary cliffside hermitage, where I sat for many hours on the cold floor, staring out at the crashing Atlantic waves. I woke refreshed.",
+    "vi": "I dreamed of a solitary cliffside hermitage, where I sat for many hours on the cold floor, staring out at the crashing Atlantic waves. I woke refreshed."
+  },
+  {
+    "key": "effector_name_GoodDreambloodlust",
+    "type": 0,
+    "en": "Killing Dream",
+    "vi": "Killing Dream"
+  },
+  {
+    "key": "effector_info_GoodDreambloodlust",
+    "type": 0,
+    "en": "I dreamed of a glorious battle, where we spilled a river of blood and fought until the sun rose upon our victory. I was brutal, and heroic!",
+    "vi": "I dreamed of a glorious battle, where we spilled a river of blood and fought until the sun rose upon our victory. I was brutal, and heroic!"
+  },
+  {
+    "key": "effector_name_BadDream01",
+    "type": 0,
+    "en": "Bad Dream",
+    "vi": "Bad Dream"
+  },
+  {
+    "key": "effector_info_BadDream01",
+    "type": 0,
+    "en": "I had one of those dreams where your teeth fall out, and you spend ages looking for them. Then you realise you are at the market, stark naked. ",
+    "vi": "I had one of those dreams where your teeth fall out, and you spend ages looking for them. Then you realise you are at the market, stark naked. "
+  },
+  {
+    "key": "effector_name_BadDream02",
+    "type": 0,
+    "en": "Night Terror",
+    "vi": "Night Terror"
+  },
+  {
+    "key": "effector_info_BadDream02",
+    "type": 0,
+    "en": "Paralysed as the water rose about me, I knew I was going to drown, in the dark. Something squatted on my chest, laughing. I woke gasping for breath...",
+    "vi": "Paralysed as the water rose about me, I knew I was going to drown, in the dark. Something squatted on my chest, laughing. I woke gasping for breath..."
+  },
+  {
+    "key": "effector_name_BadDreamFood",
+    "type": 0,
+    "en": "Nightmare",
+    "vi": "Nightmare"
+  },
+  {
+    "key": "effector_info_BadDreamFood",
+    "type": 0,
+    "en": "I was at an exotic banquet. The food came alive, writhing, scrabbling, and slithering about. I gagged, raising a spoonful to my mouth...then I awoke!",
+    "vi": "I was at an exotic banquet. The food came alive, writhing, scrabbling, and slithering about. I gagged, raising a spoonful to my mouth...then I awoke!"
+  },
+  {
+    "key": "effector_name_BadDreamSpoiled",
+    "type": 0,
+    "en": "Demeaning Dream",
+    "vi": "Demeaning Dream"
+  },
+  {
+    "key": "effector_info_BadDreamSpoiled",
+    "type": 0,
+    "en": "I was forced to sleep on a bed of nails at the bottom of a well, then put in the stocks and pelted with filth by peasants! Ugh! What a nightmare!",
+    "vi": "I was forced to sleep on a bed of nails at the bottom of a well, then put in the stocks and pelted with filth by peasants! Ugh! What a nightmare!"
+  },
+  {
+    "key": "effector_name_KilledBloodlustAtributes",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Killed someone"
+  },
+  {
+    "key": "effector_name_WeightLowEffector01",
+    "type": 0,
+    "en": "Thin",
+    "vi": "Thin"
+  },
+  {
+    "key": "effector_name_WeightHighEffector01",
+    "type": 0,
+    "en": "Large",
+    "vi": "Large"
+  },
+  {
+    "key": "effector_name_HeightLowEffector01",
+    "type": 0,
+    "en": "Short",
+    "vi": "Short"
+  },
+  {
+    "key": "effector_name_HeightHighEffector01",
+    "type": 0,
+    "en": "Tall",
+    "vi": "Tall"
+  },
+  {
+    "key": "effector_name_WearingMorbidItem",
+    "type": 0,
+    "en": "Wearing Morbid Item",
+    "vi": "Wearing Morbid Item"
+  },
+  {
+    "key": "effector_info_WearingMorbidItem",
+    "type": 0,
+    "en": "I am become an animated charnel house, rattling bones and chapless skulls mounted upon my own vital flesh.",
+    "vi": "I am become an animated charnel house, rattling bones and chapless skulls mounted upon my own vital flesh."
+  },
+  {
+    "key": "effector_name_WearingDeadManItem",
+    "type": 0,
+    "en": "Wearing the Items of the Dead",
+    "vi": "Wearing the Items of the Dead"
+  },
+  {
+    "key": "effector_info_WearingDeadManItem",
+    "type": 0,
+    "en": "It's ill waiting for dead men's shoes, they say. But if an item's not worn out, I suppose I must use it.",
+    "vi": "It's ill waiting for dead men's shoes, they say. But if an item's not worn out, I suppose I must use it."
+  },
+  {
+    "key": "effector_name_WearingHumanSkinItem",
+    "type": 0,
+    "en": "Wearing Human Skin",
+    "vi": "Wearing Human Skin"
+  },
+  {
+    "key": "effector_info_WearingHumanSkinItem",
+    "type": 0,
+    "en": "If I don another's skin, what aspect of them am I keeping alive? I look fearsome, but fear for my own soul.",
+    "vi": "If I don another's skin, what aspect of them am I keeping alive? I look fearsome, but fear for my own soul."
+  },
+  {
+    "key": "effector_name_BeingAroundHumanLeather",
+    "type": 0,
+    "en": "The sight of human leather",
+    "vi": "The sight of human leather"
+  },
+  {
+    "key": "effector_info_BeingAroundHumanLeather",
+    "type": 0,
+    "en": "Being around human leather makes my skin crawl. I can't pretend I like it.",
+    "vi": "Being around human leather makes my skin crawl. I can't pretend I like it."
+  },
+  {
+    "key": "effector_name_BeingAroundHumanLeatherItems",
+    "type": 0,
+    "en": "The sight of human leather items",
+    "vi": "The sight of human leather items"
+  },
+  {
+    "key": "effector_info_BeingAroundHumanLeatherItems",
+    "type": 0,
+    "en": "It's surely sacriledge to use human body parts. Are these things haunted?",
+    "vi": "It's surely sacriledge to use human body parts. Are these things haunted?"
+  },
+  {
+    "key": "effector_name_SurroundingsHorrible",
+    "type": 0,
+    "en": "Appalling surroundings",
+    "vi": "Appalling surroundings"
+  },
+  {
+    "key": "effector_name_SurroundingsUgly",
+    "type": 0,
+    "en": "Plain surroundings",
+    "vi": "Plain surroundings"
+  },
+  {
+    "key": "effector_name_SurroundingPretty",
+    "type": 0,
+    "en": "Pleasant surrounding",
+    "vi": "Pleasant surrounding"
+  },
+  {
+    "key": "effector_name_SurroundingBeautiful",
+    "type": 0,
+    "en": "Beautiful surrounding",
+    "vi": "Beautiful surrounding"
+  },
+  {
+    "key": "Awful",
+    "type": 0,
+    "en": "Awful",
+    "vi": "Awful"
+  },
+  {
+    "key": "Dull",
+    "type": 0,
+    "en": "Uninspiring",
+    "vi": "Uninspiring"
+  },
+  {
+    "key": "Mediocre",
+    "type": 0,
+    "en": "Modest",
+    "vi": "Modest"
+  },
+  {
+    "key": "Good",
+    "type": 0,
+    "en": "Good",
+    "vi": "Good"
+  },
+  {
+    "key": "SlightlyImpressive",
+    "type": 0,
+    "en": "Superior",
+    "vi": "Superior"
+  },
+  {
+    "key": "SomewhatImpressive",
+    "type": 0,
+    "en": "Luxurious",
+    "vi": "Luxurious"
+  },
+  {
+    "key": "VeryImpressive",
+    "type": 0,
+    "en": "Opulent",
+    "vi": "Opulent"
+  },
+  {
+    "key": "ExtremelyImpressive",
+    "type": 0,
+    "en": "Palatial",
+    "vi": "Palatial"
+  },
+  {
+    "key": "effector_name_expectationVeryLow",
+    "type": 0,
+    "en": "Very low expectation",
+    "vi": "Very low expectation"
+  },
+  {
+    "key": "effector_info_expectationVeryLow",
+    "type": 0,
+    "en": "To be honest, I'm lucky that I'm still standing. Plenty of others haven't made it this far.",
+    "vi": "To be honest, I'm lucky that I'm still standing. Plenty of others haven't made it this far."
+  },
+  {
+    "key": "effector_name_expectationLow",
+    "type": 0,
+    "en": "Low expectation",
+    "vi": "Low expectation"
+  },
+  {
+    "key": "effector_info_expectationLow",
+    "type": 0,
+    "en": "Life isn't easy. But I get by with what I have. Mustn't grumble.",
+    "vi": "Life isn't easy. But I get by with what I have. Mustn't grumble."
+  },
+  {
+    "key": "effector_name_expectationMedium",
+    "type": 0,
+    "en": "Medium expectation",
+    "vi": "Medium expectation"
+  },
+  {
+    "key": "effector_info_expectationMedium",
+    "type": 0,
+    "en": "We all need a little comfort in our lives, don't we? I'm not talking about anything fancy.",
+    "vi": "We all need a little comfort in our lives, don't we? I'm not talking about anything fancy."
+  },
+  {
+    "key": "effector_name_expectationHigh",
+    "type": 0,
+    "en": "High expectation",
+    "vi": "High expectation"
+  },
+  {
+    "key": "effector_info_expectationHigh",
+    "type": 0,
+    "en": "I've worked hard, so I reckon I deserve some of the finer things in life.",
+    "vi": "I've worked hard, so I reckon I deserve some of the finer things in life."
+  },
+  {
+    "key": "effector_name_expectationVeryHigh",
+    "type": 0,
+    "en": "Very high expectation",
+    "vi": "Very high expectation"
+  },
+  {
+    "key": "effector_info_expectationVeryHigh",
+    "type": 0,
+    "en": "I'm not ashamed to say that I want the very best. I'm worth it.",
+    "vi": "I'm not ashamed to say that I want the very best. I'm worth it."
+  },
+  {
+    "key": "effector_name_ComfortableLow",
+    "type": 0,
+    "en": "Very Uncomfortable",
+    "vi": "Very Uncomfortable"
+  }
+]

@@ -1,0 +1,1346 @@
+[
+  {
+    "key": "action_allow",
+    "type": 0,
+    "en": "Allow",
+    "vi": "Allow"
+  },
+  {
+    "key": "action_UrgentHaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Urgent Haul"
+  },
+  {
+    "key": "action_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "action_attack_disabled",
+    "type": 0,
+    "en": "Attack Disabled",
+    "vi": "Attack Disabled"
+  },
+  {
+    "key": "action_attacking",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "action_banish",
+    "type": 0,
+    "en": "Banish",
+    "vi": "Banish"
+  },
+  {
+    "key": "action_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Cancel"
+  },
+  {
+    "key": "action_abortgoal",
+    "type": 0,
+    "en": "Cancel Action",
+    "vi": "Cancel Action"
+  },
+  {
+    "key": "action_chopping",
+    "type": 0,
+    "en": "Chop",
+    "vi": "Chop"
+  },
+  {
+    "key": "action_cutallvegetation",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cut"
+  },
+  {
+    "key": "action_cutting",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cut"
+  },
+  {
+    "key": "action_deconstructing",
+    "type": 0,
+    "en": "Deconstruct",
+    "vi": "Deconstruct"
+  },
+  {
+    "key": "action_draft",
+    "type": 0,
+    "en": "Draft",
+    "vi": "Draft"
+  },
+  {
+    "key": "action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "action_activate",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Activate"
+  },
+  {
+    "key": "action_activateBell",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Activate"
+  },
+  {
+    "key": "action_deactivateBell",
+    "type": 0,
+    "en": "Deactivate",
+    "vi": "Deactivate"
+  },
+  {
+    "key": "action_equipping",
+    "type": 0,
+    "en": "Equip",
+    "vi": "Equip"
+  },
+  {
+    "key": "action_forbid",
+    "type": 0,
+    "en": "Forbid",
+    "vi": "Forbid"
+  },
+  {
+    "key": "action_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Harvest"
+  },
+  {
+    "key": "action_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Hunt"
+  },
+  {
+    "key": "action_list",
+    "type": 0,
+    "en": "Actions",
+    "vi": "Actions"
+  },
+  {
+    "key": "action_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "action_upgradeBuilding",
+    "type": 0,
+    "en": "Replace structure",
+    "vi": "Replace structure"
+  },
+  {
+    "key": "action_copybuilding",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Copy"
+  },
+  {
+    "key": "effect_reason_attribute_decomposespeed",
+    "type": 0,
+    "en": "Decaying because of",
+    "vi": "Decaying because of"
+  },
+  {
+    "key": "effect_reason_attribute_rottingspeed",
+    "type": 0,
+    "en": "Rotting because of",
+    "vi": "Rotting because of"
+  },
+  {
+    "key": "effect_reason_ground",
+    "type": 0,
+    "en": "Ground type",
+    "vi": "Ground type"
+  },
+  {
+    "key": "effect_reason_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Temperature"
+  },
+  {
+    "key": "effect_reason_time_decomposespeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">decomposes</link> in",
+    "vi": "Pile <LinkAlmanac=\"Systemdecomposition\">decomposes</link> in"
+  },
+  {
+    "key": "effect_reason_time_rottingspeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">rots</link> in",
+    "vi": "Pile <LinkAlmanac=\"Systemdecomposition\">rots</link> in"
+  },
+  {
+    "key": "effect_reason_weather",
+    "type": 0,
+    "en": "Unroofed",
+    "vi": "Unroofed"
+  },
+  {
+    "key": "action_ToggleForbid",
+    "type": 0,
+    "en": "Toggle allow/forbid",
+    "vi": "Toggle allow/forbid"
+  },
+  {
+    "key": "action_ToggleUrgent",
+    "type": 0,
+    "en": "Toggle Urgent haul",
+    "vi": "Toggle Urgent haul"
+  },
+  {
+    "key": "MoodAverage_title",
+    "type": 0,
+    "en": "Settler Mood",
+    "vi": "Settler Mood"
+  },
+  {
+    "key": "MoodAverage_info",
+    "type": 0,
+    "en": "Average mood through time",
+    "vi": "Average mood through time"
+  },
+  {
+    "key": "action_ExpandZone",
+    "type": 0,
+    "en": "Expand Zone",
+    "vi": "Expand Zone"
+  },
+  {
+    "key": "action_ShrinkZone",
+    "type": 0,
+    "en": "Shrink Zone",
+    "vi": "Shrink Zone"
+  },
+  {
+    "key": "action_caravan_return",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Go Back"
+  },
+  {
+    "key": "action_installbuilding",
+    "type": 0,
+    "en": "Install",
+    "vi": "Install"
+  },
+  {
+    "key": "action_uninstallbuilding",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Remove"
+  },
+  {
+    "key": "action_movebuilding",
+    "type": 0,
+    "en": "Relocate",
+    "vi": "Relocate"
+  },
+  {
+    "key": "action_back_home",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Go Back"
+  },
+  {
+    "key": "action_caravan",
+    "type": 0,
+    "en": "Send Caravan",
+    "vi": "Send Caravan"
+  },
+  {
+    "key": "action_trade",
+    "type": 0,
+    "en": "Barter",
+    "vi": "Barter"
+  },
+  {
+    "key": "action_gift",
+    "type": 0,
+    "en": "Gift",
+    "vi": "Gift"
+  },
+  {
+    "key": "action_trainAnimal",
+    "type": 0,
+    "en": "Train",
+    "vi": "Train"
+  },
+  {
+    "key": "action_slaughterAnimal",
+    "type": 0,
+    "en": "Slaughter",
+    "vi": "Slaughter"
+  },
+  {
+    "key": "action_releaseAnimal",
+    "type": 0,
+    "en": "Release",
+    "vi": "Release"
+  },
+  {
+    "key": "action_tameAnimal",
+    "type": 0,
+    "en": "Tame",
+    "vi": "Tame"
+  },
+  {
+    "key": "effect_reason_attribute_agingspeed",
+    "type": 0,
+    "en": "Aging because of",
+    "vi": "Aging because of"
+  },
+  {
+    "key": "effect_reason_time_agingspeed",
+    "type": 0,
+    "en": "Pile will become <LinkAlmanac=\"Systemdecomposition\">aged</link> in",
+    "vi": "Pile will become <LinkAlmanac=\"Systemdecomposition\">aged</link> in"
+  },
+  {
+    "key": "effect_reason_attribute_fermentingspeed",
+    "type": 0,
+    "en": "Fermenting because of",
+    "vi": "Fermenting because of"
+  },
+  {
+    "key": "effect_reason_time_fermentingspeed",
+    "type": 0,
+    "en": "Pile will <LinkAlmanac=\"Systemfermentation\">ferment</link> in",
+    "vi": "Pile will <LinkAlmanac=\"Systemfermentation\">ferment</link> in"
+  },
+  {
+    "key": "action_banish_failed_no_path",
+    "type": 0,
+    "en": "Banishment cancelled. This settler is not able to reach the edge in order to leave.",
+    "vi": "Banishment cancelled. This settler is not able to reach the edge in order to leave."
+  },
+  {
+    "key": "action_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Fish"
+  },
+  {
+    "key": "action_RecruitPrisoner",
+    "type": 0,
+    "en": "Recruit",
+    "vi": "Recruit"
+  },
+  {
+    "key": "action_RecruitPrisoner_info",
+    "type": 0,
+    "en": "A settler with the Prison Warden role will speak to the prisoner each day to try to convince them to join your settlement.",
+    "vi": "A settler with the Prison Warden role will speak to the prisoner each day to try to convince them to join your settlement."
+  },
+  {
+    "key": "action_releasePrisoner",
+    "type": 0,
+    "en": "Release",
+    "vi": "Release"
+  },
+  {
+    "key": "action_releasePrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be released. A settler with the Gaoler job will take the captive to the edge of the map and free them. This may increase friendliness with the prisoner's faction.",
+    "vi": "Mark a prisoner to be released. A settler with the Gaoler job will take the captive to the edge of the map and free them. This may increase friendliness with the prisoner's faction."
+  },
+  {
+    "key": "action_stripPrisoner",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Strip"
+  },
+  {
+    "key": "action_stripCarcass",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Strip"
+  },
+  {
+    "key": "action_stripPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be stripped of all their belongings",
+    "vi": "Mark a prisoner to be stripped of all their belongings"
+  },
+  {
+    "key": "action_shacklesOnPrisoner",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Place Shackles"
+  },
+  {
+    "key": "action_shacklesonprisonertoggled",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Place Shackles"
+  },
+  {
+    "key": "action_shacklesOnPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be shackled to use them as captive labourers or have them join a caravan ",
+    "vi": "Mark a prisoner to be shackled to use them as captive labourers or have them join a caravan "
+  },
+  {
+    "key": "action_shacklesOffPrisoner",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Remove Shackles"
+  },
+  {
+    "key": "action_shacklesoffprisonertoggled",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Remove Shackles"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedHoldGround",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedDefault",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Aggressive",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Aggressive"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Flee",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Flee"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Neutral",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "action_SiegeWeaponAttackContinuously",
+    "type": 0,
+    "en": "Attack Continuously",
+    "vi": "Attack Continuously"
+  },
+  {
+    "key": "action_SiegeWeaponAttack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "action_exittrebuchet",
+    "type": 0,
+    "en": "Exit Siege Engine",
+    "vi": "Exit Siege Engine"
+  },
+  {
+    "key": "leave_prompt_combat",
+    "type": 0,
+    "en": "Leaving mid-combat will result in you losing <resources_lost>",
+    "vi": "Leaving mid-combat will result in you losing <resources_lost>"
+  },
+  {
+    "key": "gameplay_tips_mood_info",
+    "type": 0,
+    "en": "- Mood represents your settlers' happiness.\\n- Check on your settlers' mood often, by selecting them and then the Mood category.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and leisure time can help keep your settlers' spirits high.",
+    "vi": "- Mood represents your settlers' happiness.\\n- Check on your settlers' mood often, by selecting them and then the Mood category.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and leisure time can help keep your settlers' spirits high."
+  },
+  {
+    "key": "gameplay_tips_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "life_event_type_Combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "combat_hit_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name><hit_description><with><weapon_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name><hit_description><with><weapon_name>"
+  },
+  {
+    "key": "combat_hit_unarmed_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_hit_beast_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_block_pattern",
+    "type": 0,
+    "en": "<defender_name>'s <armor_name> <block_description>",
+    "vi": "<defender_name>'s <armor_name> <block_description>"
+  },
+  {
+    "key": "health_wounding_pattern",
+    "type": 0,
+    "en": "<agent_name> <wounding> <wound_name>",
+    "vi": "<agent_name> <wounding> <wound_name>"
+  },
+  {
+    "key": "health_healing_pattern",
+    "type": 0,
+    "en": "<agent_name> <healing> <target_name>'s <wound_name>",
+    "vi": "<agent_name> <healing> <target_name>'s <wound_name>"
+  },
+  {
+    "key": "health_carrying_pattern",
+    "type": 0,
+    "en": "<agent_name> <carrying_verb> <carrying_adjective> <target_name>",
+    "vi": "<agent_name> <carrying_verb> <carrying_adjective> <target_name>"
+  },
+  {
+    "key": "action_verynegative_1",
+    "type": 0,
+    "en": "launched into a tirade about",
+    "vi": "launched into a tirade about"
+  },
+  {
+    "key": "action_verynegative_2",
+    "type": 0,
+    "en": "got into an altercation about",
+    "vi": "got into an altercation about"
+  },
+  {
+    "key": "action_verynegative_3",
+    "type": 0,
+    "en": "complained bitterly about",
+    "vi": "complained bitterly about"
+  },
+  {
+    "key": "action_negative_1",
+    "type": 0,
+    "en": "got pretty heated conversing about",
+    "vi": "got pretty heated conversing about"
+  },
+  {
+    "key": "action_negative_2",
+    "type": 0,
+    "en": "broached the topic of",
+    "vi": "broached the topic of"
+  },
+  {
+    "key": "action_negative_3",
+    "type": 0,
+    "en": "grumbled on about",
+    "vi": "grumbled on about"
+  },
+  {
+    "key": "action_negative_4",
+    "type": 0,
+    "en": "would have preferred to avoid discussing",
+    "vi": "would have preferred to avoid discussing"
+  },
+  {
+    "key": "action_neutral_1",
+    "type": 0,
+    "en": "started a discussion about",
+    "vi": "started a discussion about"
+  },
+  {
+    "key": "action_neutral_2",
+    "type": 0,
+    "en": "had ideas to share about",
+    "vi": "had ideas to share about"
+  },
+  {
+    "key": "action_neutral_3",
+    "type": 0,
+    "en": "wanted a debate about",
+    "vi": "wanted a debate about"
+  },
+  {
+    "key": "action_neutral_4",
+    "type": 0,
+    "en": "needed to talk about",
+    "vi": "needed to talk about"
+  },
+  {
+    "key": "action_neutral_5",
+    "type": 0,
+    "en": "chatted about",
+    "vi": "chatted about"
+  },
+  {
+    "key": "action_neutral_6",
+    "type": 0,
+    "en": "started a conversation about",
+    "vi": "started a conversation about"
+  },
+  {
+    "key": "action_neutral_7",
+    "type": 0,
+    "en": "had time for a chat about",
+    "vi": "had time for a chat about"
+  },
+  {
+    "key": "action_neutral_8",
+    "type": 0,
+    "en": "got around to the subject of ",
+    "vi": "got around to the subject of "
+  },
+  {
+    "key": "action_neutral_9",
+    "type": 0,
+    "en": "spoke about",
+    "vi": "spoke about"
+  },
+  {
+    "key": "action_neutral_10",
+    "type": 0,
+    "en": "had plenty to say about",
+    "vi": "had plenty to say about"
+  },
+  {
+    "key": "action_neutral_11",
+    "type": 0,
+    "en": "shared comments regarding",
+    "vi": "shared comments regarding"
+  },
+  {
+    "key": "action_positive_1",
+    "type": 0,
+    "en": "was keen to talk about",
+    "vi": "was keen to talk about"
+  },
+  {
+    "key": "action_positive_2",
+    "type": 0,
+    "en": "began a cordial discussion about",
+    "vi": "began a cordial discussion about"
+  },
+  {
+    "key": "action_positive_3",
+    "type": 0,
+    "en": "indulged in some light banter about",
+    "vi": "indulged in some light banter about"
+  },
+  {
+    "key": "action_verypositive_1",
+    "type": 0,
+    "en": "spoke warmly about",
+    "vi": "spoke warmly about"
+  },
+  {
+    "key": "action_verypositive_2",
+    "type": 0,
+    "en": "particularly appreciated chatting about",
+    "vi": "particularly appreciated chatting about"
+  },
+  {
+    "key": "action_verypositive_3",
+    "type": 0,
+    "en": "savoured little conversations about",
+    "vi": "savoured little conversations about"
+  },
+  {
+    "key": "action_verypositive_4",
+    "type": 0,
+    "en": "could while away hours discussing",
+    "vi": "could while away hours discussing"
+  },
+  {
+    "key": "difficulty_option_moodTarget_title",
+    "type": 0,
+    "en": "Settler Mood Value",
+    "vi": "Settler Mood Value"
+  },
+  {
+    "key": "difficulty_option_moodTarget_info",
+    "type": 0,
+    "en": "The base mood value of a settler. Smaller values will result in settlers rebelling more often. The default settler's mood is 50.",
+    "vi": "The base mood value of a settler. Smaller values will result in settlers rebelling more often. The default settler's mood is 50."
+  },
+  {
+    "key": "warning_message_info_MoodLow",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. "
+  },
+  {
+    "key": "warning_message_short_MoodLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are unhappy</style>",
+    "vi": "<style=DefaultRed>Settlers are unhappy</style>"
+  },
+  {
+    "key": "warning_message_short_MoodLowRevolt",
+    "type": 0,
+    "en": "<style=Rebellious>Rebellious</style>",
+    "vi": "<style=Rebellious>Rebellious</style>"
+  },
+  {
+    "key": "warning_message_info_MoodLowRevolt",
+    "type": 0,
+    "en": "Your settlers have had enough and for the next several hours will not follow your schedule or instructions.",
+    "vi": "Your settlers have had enough and for the next several hours will not follow your schedule or instructions."
+  },
+  {
+    "key": "worker_left_mood_message",
+    "type": 0,
+    "en": "<name> left your colony because they were unhappy!",
+    "vi": "<name> left your colony because they were unhappy!"
+  },
+  {
+    "key": "warning_message_short_MoodAnnoyed",
+    "type": 0,
+    "en": "Settlers are becoming annoyed",
+    "vi": "Settlers are becoming annoyed"
+  },
+  {
+    "key": "warning_message_info_MoodAnnoyed",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. "
+  },
+  {
+    "key": "worker_low_mood_message",
+    "type": 0,
+    "en": "<name> is rebellious now!",
+    "vi": "<name> is rebellious now!"
+  },
+  {
+    "key": "info_menu_mood",
+    "type": 0,
+    "en": "The settler's mood. If it reaches 0% the settler will leave.",
+    "vi": "The settler's mood. If it reaches 0% the settler will leave."
+  },
+  {
+    "key": "mood_treshold_00",
+    "type": 0,
+    "en": "Joyful",
+    "vi": "Joyful"
+  },
+  {
+    "key": "mood_treshold_01",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "mood_treshold_02",
+    "type": 0,
+    "en": "Annoyed",
+    "vi": "Annoyed"
+  },
+  {
+    "key": "mood_treshold_03",
+    "type": 0,
+    "en": "Disillusioned",
+    "vi": "Disillusioned"
+  },
+  {
+    "key": "mood_treshold_04",
+    "type": 0,
+    "en": "Rebellious",
+    "vi": "Rebellious"
+  },
+  {
+    "key": "mood_treshold_05",
+    "type": 0,
+    "en": "Broken",
+    "vi": "Broken"
+  },
+  {
+    "key": "menu_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "worker_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "health_treshold_01",
+    "type": 0,
+    "en": "Critical Condition",
+    "vi": "Critical Condition"
+  },
+  {
+    "key": "worker_action_EnemyCombatIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "action_AbortEventParticipation",
+    "type": 0,
+    "en": "Leave Event",
+    "vi": "Leave Event"
+  },
+  {
+    "key": "action_AllowFlammableProjectile",
+    "type": 0,
+    "en": "Use Fire Arrows",
+    "vi": "Use Fire Arrows"
+  },
+  {
+    "key": "action_FlammableProjectileAllowed",
+    "type": 0,
+    "en": "Stop Using Fire Arrows ",
+    "vi": "Stop Using Fire Arrows "
+  },
+  {
+    "key": "wound_blood_loss_rate",
+    "type": 0,
+    "en": "Blood loss rate",
+    "vi": "Blood loss rate"
+  },
+  {
+    "key": "wound_severity",
+    "type": 0,
+    "en": "Severity",
+    "vi": "Severity"
+  },
+  {
+    "key": "wound_severity_Critical",
+    "type": 0,
+    "en": "Critical",
+    "vi": "Critical"
+  },
+  {
+    "key": "wound_severity_Maximum",
+    "type": 0,
+    "en": "Maximum",
+    "vi": "Maximum"
+  },
+  {
+    "key": "wound_severity_Minor",
+    "type": 0,
+    "en": "Minor",
+    "vi": "Minor"
+  },
+  {
+    "key": "wound_severity_Moderate",
+    "type": 0,
+    "en": "Moderate",
+    "vi": "Moderate"
+  },
+  {
+    "key": "wound_severity_Serious",
+    "type": 0,
+    "en": "Serious",
+    "vi": "Serious"
+  },
+  {
+    "key": "wound_severity_Severe",
+    "type": 0,
+    "en": "Severe",
+    "vi": "Severe"
+  },
+  {
+    "key": "wound_tending_completed",
+    "type": 0,
+    "en": "Wounds tended",
+    "vi": "Wounds tended"
+  },
+  {
+    "key": "wound_tending_fail",
+    "type": 0,
+    "en": "Tending to wound failed",
+    "vi": "Tending to wound failed"
+  },
+  {
+    "key": "goal_preference_name_RangedCombatPreference",
+    "type": 0,
+    "en": "Ranged Combat",
+    "vi": "Ranged Combat"
+  },
+  {
+    "key": "goal_preference_name_MeleeCombatPreference",
+    "type": 0,
+    "en": "Melee Combat",
+    "vi": "Melee Combat"
+  },
+  {
+    "key": "goal_preference_info_RangedCombatPreference",
+    "type": 0,
+    "en": "Using Ranged Weapons like bows, crossbows or throwing weapons in combat and hunting",
+    "vi": "Using Ranged Weapons like bows, crossbows or throwing weapons in combat and hunting"
+  },
+  {
+    "key": "goal_preference_info_MeleeCombatPreference",
+    "type": 0,
+    "en": "Using Melee Weapons in combat",
+    "vi": "Using Melee Weapons in combat"
+  },
+  {
+    "key": "dialogOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>"
+  },
+  {
+    "key": "dialogOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>"
+  },
+  {
+    "key": "eventOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>"
+  },
+  {
+    "key": "eventOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>"
+  },
+  {
+    "key": "effector_info_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "There are too few of us already in this world. Not helping someone in need feels like betrayal.",
+    "vi": "There are too few of us already in this world. Not helping someone in need feels like betrayal."
+  },
+  {
+    "key": "effector_info_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "It's good that we are helping people in need.",
+    "vi": "It's good that we are helping people in need."
+  },
+  {
+    "key": "effector_name_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "Sanctuary Denied",
+    "vi": "Sanctuary Denied"
+  },
+  {
+    "key": "effector_name_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "Together we are strong",
+    "vi": "Together we are strong"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Stepped into an Oak Brethren temple"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Awful)",
+    "vi": "Stepped into an Oak Brethren temple (Awful)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusDull",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Uninspiring)",
+    "vi": "Stepped into an Oak Brethren temple (Uninspiring)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Modest)",
+    "vi": "Stepped into an Oak Brethren temple (Modest)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusGood",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Good)",
+    "vi": "Stepped into an Oak Brethren temple (Good)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Superior)",
+    "vi": "Stepped into an Oak Brethren temple (Superior)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Luxurious)",
+    "vi": "Stepped into an Oak Brethren temple (Luxurious)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Opulent)",
+    "vi": "Stepped into an Oak Brethren temple (Opulent)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Palatial)",
+    "vi": "Stepped into an Oak Brethren temple (Palatial)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Stepped into an Oak Brethren temple"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Entered a Church of Restitution chapel"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Awful)",
+    "vi": "Entered a Church of Restitution chapel (Awful)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusDull",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Uninspiring)",
+    "vi": "Entered a Church of Restitution chapel (Uninspiring)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Modest)",
+    "vi": "Entered a Church of Restitution chapel (Modest)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusGood",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Good)",
+    "vi": "Entered a Church of Restitution chapel (Good)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Superior)",
+    "vi": "Entered a Church of Restitution chapel (Superior)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Luxurious)",
+    "vi": "Entered a Church of Restitution chapel (Luxurious)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Opulent)",
+    "vi": "Entered a Church of Restitution chapel (Opulent)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Palatial)",
+    "vi": "Entered a Church of Restitution chapel (Palatial)"
+  },
+  {
+    "key": "effector_name_InChapelMoodMinus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Entered a Church of Restitution chapel"
+  },
+  {
+    "key": "effector_info_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "I feel a deep connection to the elements of the natural world here. My ancestors and all beings share the blessings of their wisdom freely. Within, I can find peace.",
+    "vi": "I feel a deep connection to the elements of the natural world here. My ancestors and all beings share the blessings of their wisdom freely. Within, I can find peace."
+  },
+  {
+    "key": "effecto_info_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "I feel uncomfortable here, in this heathen place. Our Creator shows us the true path. This old balderdash about trees and ponds is not for me!",
+    "vi": "I feel uncomfortable here, in this heathen place. Our Creator shows us the true path. This old balderdash about trees and ponds is not for me!"
+  },
+  {
+    "key": "effector_info_InChapelMoodPlus",
+    "type": 0,
+    "en": "The hope of restitution guides my path. By my faith, by our prayers, I am renewed and uplifted by the Creator. Wholeness and purity await the faithful. Praise be!",
+    "vi": "The hope of restitution guides my path. By my faith, by our prayers, I am renewed and uplifted by the Creator. Wholeness and purity await the faithful. Praise be!"
+  },
+  {
+    "key": "effector_info_InChapelMoodMinus",
+    "type": 0,
+    "en": "In this place, all believers look to the future, without care for the past, or for the Earth. The deep roots tended by our ancestors are left to wither. It saddens me to behold it.",
+    "vi": "In this place, all believers look to the future, without care for the past, or for the Earth. The deep roots tended by our ancestors are left to wither. It saddens me to behold it."
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedLow",
+    "type": 0,
+    "en": "Small Combat Speed Impairment",
+    "vi": "Small Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Combat Speed Impairment",
+    "vi": "Significant Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Combat Speed Impairment",
+    "vi": "Severe Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedLow",
+    "type": 0,
+    "en": "Small Ranged Combat Speed Impairment",
+    "vi": "Small Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Ranged Combat Speed Impairment",
+    "vi": "Significant Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Ranged Combat Speed Impairment",
+    "vi": "Severe Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_info_AgentMoodGood",
+    "type": 0,
+    "en": "I feel better than ever. ",
+    "vi": "I feel better than ever. "
+  },
+  {
+    "key": "effector_name_AgentMoodGood",
+    "type": 0,
+    "en": "Merry",
+    "vi": "Merry"
+  },
+  {
+    "key": "effector_name_KilledBloodlustMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Killed someone"
+  },
+  {
+    "key": "effector_info_KilledBloodlustMood",
+    "type": 0,
+    "en": "I finished them, good riddance! Nobody's going to want to mess with me now, are they?",
+    "vi": "I finished them, good riddance! Nobody's going to want to mess with me now, are they?"
+  },
+  {
+    "key": "effector_name_KilledPacifistMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Killed someone"
+  },
+  {
+    "key": "effector_info_KilledPacifistMood",
+    "type": 0,
+    "en": "I want to wash the blood away. I can't believe I did that...I...feel sick. What have I become?",
+    "vi": "I want to wash the blood away. I can't believe I did that...I...feel sick. What have I become?"
+  },
+  {
+    "key": "effector_name_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "We should have stood our ground",
+    "vi": "We should have stood our ground"
+  },
+  {
+    "key": "effector_info_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "Why didn't we refuse and smash their skulls instead of giving them our valuable resources!",
+    "vi": "Why didn't we refuse and smash their skulls instead of giving them our valuable resources!"
+  },
+  {
+    "key": "effector_name_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying presence",
+    "vi": "Annoying presence"
+  },
+  {
+    "key": "effector_info_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> brings me down (<perk_name>)",
+    "vi": "<settler_name> brings me down (<perk_name>)"
+  },
+  {
+    "key": "effector_name_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Annoying when working"
+  },
+  {
+    "key": "effector_info_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "It's painful to watch <settler_name> do anything (<perk_name>)"
+  },
+  {
+    "key": "effector_name_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Annoying when working"
+  },
+  {
+    "key": "effector_info_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "It's painful to watch <settler_name> do anything (<perk_name>)"
+  },
+  {
+    "key": "effector_name_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "Dullard presence",
+    "vi": "Dullard presence"
+  },
+  {
+    "key": "effector_info_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is so thick, being around #2[him/her] frustrates me! (<perk_name>)",
+    "vi": "<settler_name> is so thick, being around #2[him/her] frustrates me! (<perk_name>)"
+  },
+  {
+    "key": "worker_high_mood_message",
+    "type": 0,
+    "en": "<name> is feeling merry!",
+    "vi": "<name> is feeling merry!"
+  },
+  {
+    "key": "atb_info_CombatPerception",
+    "type": 0,
+    "en": "The range at which this settler will notice and engage with enemies when set to aggressive mode.",
+    "vi": "The range at which this settler will notice and engage with enemies when set to aggressive mode."
+  },
+  {
+    "key": "atb_info_MoodChangeSpeed",
+    "type": 0,
+    "en": "The speed this settler's mood stat changes.",
+    "vi": "The speed this settler's mood stat changes."
+  },
+  {
+    "key": "atb_info_MoodTarget",
+    "type": 0,
+    "en": "Mood target. This varies depending on positive and negative events. (Settlers with more optimistic perks will cope better with low mood than pessimists.)",
+    "vi": "Mood target. This varies depending on positive and negative events. (Settlers with more optimistic perks will cope better with low mood than pessimists.)"
+  },
+  {
+    "key": "atb_name_CombatPerception",
+    "type": 0,
+    "en": "Combat Perception",
+    "vi": "Combat Perception"
+  },
+  {
+    "key": "atb_name_MoodChangeSpeed",
+    "type": 0,
+    "en": "Mood Change Speed",
+    "vi": "Mood Change Speed"
+  },
+  {
+    "key": "atb_name_MoodTarget",
+    "type": 0,
+    "en": "Mood Target",
+    "vi": "Mood Target"
+  },
+  {
+    "key": "dev_menu_combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "dev_set_mood_minus_10",
+    "type": 0,
+    "en": "Mood -10",
+    "vi": "Mood -10"
+  },
+  {
+    "key": "dev_set_mood_plus_10",
+    "type": 0,
+    "en": "Mood +10",
+    "vi": "Mood +10"
+  },
+  {
+    "key": "dev_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggle Combat Numbers",
+    "vi": "Toggle Combat Numbers"
+  },
+  {
+    "key": "dev_tooltip_mood_plus",
+    "type": 0,
+    "en": "Add +10 to the Settler's mood stat on mouse click.",
+    "vi": "Add +10 to the Settler's mood stat on mouse click."
+  },
+  {
+    "key": "dev_tooltip_mood_minus",
+    "type": 0,
+    "en": "Removes 10 from the Settler's mood stat on mouse click.",
+    "vi": "Removes 10 from the Settler's mood stat on mouse click."
+  },
+  {
+    "key": "dev_tooltip_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggles combat numbers.",
+    "vi": "Toggles combat numbers."
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "key": "torch_state_on",
+    "type": 0,
+    "en": "On",
+    "vi": "On"
+  },
+  {
+    "key": "torch_state_off",
+    "type": 0,
+    "en": "Off",
+    "vi": "Off"
+  },
+  {
+    "key": "torch_on_info",
+    "type": 0,
+    "en": "This flame radiates heat and light while on",
+    "vi": "This flame radiates heat and light while on"
+  },
+  {
+    "key": "torch_off_info",
+    "type": 0,
+    "en": "No heat or light is emitted",
+    "vi": "No heat or light is emitted"
+  },
+  {
+    "key": "hud_info_hide_room",
+    "type": 0,
+    "en": "Show overlay of rooms detected.",
+    "vi": "Show overlay of rooms detected."
+  },
+  {
+    "key": "menu_furniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Furniture"
+  },
+  {
+    "key": "menu_nearby_furniture",
+    "type": 0,
+    "en": "Nearby furniture",
+    "vi": "Nearby furniture"
+  },
+  {
+    "key": "info_room",
+    "type": 0,
+    "en": "Inside room",
+    "vi": "Inside room"
+  },
+  {
+    "key": "room_types_legend",
+    "type": 0,
+    "en": "Room Types Legend",
+    "vi": "Room Types Legend"
+  },
+  {
+    "key": "bed_owner_cant_change",
+    "type": 0,
+    "en": "Cant change bed owner. Current owner is using it at the moment.",
+    "vi": "Cant change bed owner. Current owner is using it at the moment."
+  },
+  {
+    "key": "resource_tooltip_ice_room",
+    "type": 0,
+    "en": "<style=DefaultOrange>Cools down the area around it. Minimum temperature achievable is <zero_temp></style>",
+    "vi": "<style=DefaultOrange>Cools down the area around it. Minimum temperature achievable is <zero_temp></style>"
+  },
+  {
+    "key": "bed_temporary_owner",
+    "type": 0,
+    "en": "Settler's assigned bed too far away. They are temporarily using this one instead.",
+    "vi": "Settler's assigned bed too far away. They are temporarily using this one instead."
+  },
+  {
+    "key": "room_planning",
+    "type": 0,
+    "en": "Room planning",
+    "vi": "Room planning"
+  },
+  {
+    "key": "select_room_type",
+    "type": 0,
+    "en": "Select room type",
+    "vi": "Select room type"
+  },
+  {
+    "key": "animal_idle_in_rooms_allowed",
+    "type": 0,
+    "en": "Idle inside",
+    "vi": "Idle inside"
+  },
+  {
+    "key": "animal_idle_in_rooms_allowed_info",
+    "type": 0,
+    "en": "If 'off,' then the animal will prefer to idle outside. ",
+    "vi": "If 'off,' then the animal will prefer to idle outside. "
+  },
+  {
+    "key": "system_room_info",
+    "type": 0,
+    "en": "- Four walls, at least one door, and a roof or ceiling creates a 'spare' room. Fill that room with furniture and decorations to create other types of room.\\n- To see what rooms you currently have in your settlement, turn the room overlay on <sprite=\"room_overlay_text_icon\" index=t>.\\n- Take a look at the room type legend in the upper left corner to see what is needed for each room type, and what benefits that room offers.\\n- Some rooms are required for <LinkAlmanac=\"Eventypes\">events</link>, e.g. you will need a great hall to host a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> event.\\n\\n- Room types:\\n <room_type_list>",
+    "vi": "- Four walls, at least one door, and a roof or ceiling creates a 'spare' room. Fill that room with furniture and decorations to create other types of room.\\n- To see what rooms you currently have in your settlement, turn the room overlay on <sprite=\"room_overlay_text_icon\" index=t>.\\n- Take a look at the room type legend in the upper left corner to see what is needed for each room type, and what benefits that room offers.\\n- Some rooms are required for <LinkAlmanac=\"Eventypes\">events</link>, e.g. you will need a great hall to host a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> event.\\n\\n- Room types:\\n <room_type_list>"
+  },
+  {
+    "key": "system_room_name",
+    "type": 0,
+    "en": "Room Types",
+    "vi": "Room Types"
+  },
+  {
+    "key": "system_room",
+    "type": 0,
+    "en": "Room Types",
+    "vi": "Room Types"
+  },
+  {
+    "key": "warning_message_room_created",
+    "type": 0,
+    "en": "Room created: <room_type>",
+    "vi": "Room created: <room_type>"
+  },
+  {
+    "key": "tut_open_build_furniture",
+    "type": 0,
+    "en": "Open the Furniture panel",
+    "vi": "Open the Furniture panel"
+  },
+  {
+    "key": "effector_name_AffectionSleptInSameRoomPositive",
+    "type": 0,
+    "en": "An easy bedfellow",
+    "vi": "An easy bedfellow"
+  },
+  {
+    "key": "effector_name_AffectionSleptInSameRoomNegative",
+    "type": 0,
+    "en": "A nightmare to sleep near",
+    "vi": "A nightmare to sleep near"
+  },
+  {
+    "key": "ctrl_Furniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Furniture"
+  },
+  {
+    "key": "ctrl_ShowHideRooms",
+    "type": 0,
+    "en": "Rooms: Show/Hide",
+    "vi": "Rooms: Show/Hide"
+  },
+  {
+    "key": "resource_holder_info_mushroom_patch",
+    "type": 0,
+    "en": "Fungi of the field and forest. Many are edible, some are delicious.",
+    "vi": "Fungi of the field and forest. Many are edible, some are delicious."
+  },
+  {
+    "key": "resource_holder_name_mushroom_patch",
+    "type": 0,
+    "en": "Mushrooms",
+    "vi": "Mushrooms"
+  },
+  {
+    "key": "resource_holder_name_magic_mushroom",
+    "type": 0,
+    "en": "Liberty Cap Mushrooms",
+    "vi": "Liberty Cap Mushrooms"
+  },
+  {
+    "key": "resource_holder_info_magic_mushroom",
+    "type": 0,
+    "en": "A small fungus, easily missed. It wears a pointed hat and, if eaten, may cause visions or odd behaviour.",
+    "vi": "A small fungus, easily missed. It wears a pointed hat and, if eaten, may cause visions or odd behaviour."
+  },
+  {
+    "key": "warning_message_short_RoomNew",
+    "type": 0,
+    "en": "Room created",
+    "vi": "Room created"
+  },
+  {
+    "key": "research_name_furniture_lvl1",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Furniture"
+  },
+  {
+    "key": "research_name_furniture_lvl2",
+    "type": 0,
+    "en": "Furniture II",
+    "vi": "Furniture II"
+  },
+  {
+    "key": "research_name_furniture_lvl3",
+    "type": 0,
+    "en": "Furniture III",
+    "vi": "Furniture III"
+  },
+  {
+    "key": "research_name_furniture_lvl4",
+    "type": 0,
+    "en": "Furniture IV",
+    "vi": "Furniture IV"
+  },
+  {
+    "key": "player_triggered_event_furniture_info",
+    "type": 0,
+    "en": "Is used during: <event_name>",
+    "vi": "Is used during: <event_name>"
+  },
+  {
+    "key": "effector_name_SleptInBedroom",
+    "type": 0,
+    "en": "Slept in own quarters",
+    "vi": "Slept in own quarters"
+  },
+  {
+    "key": "effector_name_SleptInBedroomAwful",
+    "type": 0,
+    "en": "Slept in own quarters (Awful)",
+    "vi": "Slept in own quarters (Awful)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomDull",
+    "type": 0,
+    "en": "Slept in own quarters (Uninspiring)",
+    "vi": "Slept in own quarters (Uninspiring)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomMediocre",
+    "type": 0,
+    "en": "Slept in own quarters (Modest)",
+    "vi": "Slept in own quarters (Modest)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomGood",
+    "type": 0,
+    "en": "Slept in own quarters (Good)",
+    "vi": "Slept in own quarters (Good)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Superior)",
+    "vi": "Slept in own quarters (Superior)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Luxurious)",
+    "vi": "Slept in own quarters (Luxurious)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomVeryImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Opulent)",
+    "vi": "Slept in own quarters (Opulent)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Palatial)",
+    "vi": "Slept in own quarters (Palatial)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroom",
+    "type": 0,
+    "en": "Slept in shared quarters",
+    "vi": "Slept in shared quarters"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomAwful",
+    "type": 0,
+    "en": "Slept in shared quarters (Awful)",
+    "vi": "Slept in shared quarters (Awful)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomDull",
+    "type": 0,
+    "en": "Slept in shared quarters (Uninspiring)",
+    "vi": "Slept in shared quarters (Uninspiring)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomMediocre",
+    "type": 0,
+    "en": "Slept in shared quarters (Modest)",
+    "vi": "Slept in shared quarters (Modest)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomGood",
+    "type": 0,
+    "en": "Slept in shared quarters (Good)",
+    "vi": "Slept in shared quarters (Good)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Superior)",
+    "vi": "Slept in shared quarters (Superior)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Luxurious)",
+    "vi": "Slept in shared quarters (Luxurious)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomVeryImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Opulent)",
+    "vi": "Slept in shared quarters (Opulent)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Palatial)",
+    "vi": "Slept in shared quarters (Palatial)"
+  },
+  {
+    "key": "effector_info_SleptInBedroom",
+    "type": 0,
+    "en": "Ah, the luxury of a good night's sleep, undisturbed in my own bed! I feel refreshed.",
+    "vi": "Ah, the luxury of a good night's sleep, undisturbed in my own bed! I feel refreshed."
+  },
+  {
+    "key": "effector_info_SleptInSharedBedroom",
+    "type": 0,
+    "en": "There's something comforting about falling asleep surrounded by friends. I feel safe and cosy.",
+    "vi": "There's something comforting about falling asleep surrounded by friends. I feel safe and cosy."
+  },
+  {
+    "key": "bed_effector",
+    "type": 0,
+    "en": "Bed",
+    "vi": "Bed"
+  },
+  {
+    "key": "effector_name_InSmallRoom",
+    "type": 0,
+    "en": "The walls are closing in",
+    "vi": "The walls are closing in"
+  },
+  {
+    "key": "effector_name_InSpaciousRoom",
+    "type": 0,
+    "en": "Such a spacious room",
+    "vi": "Such a spacious room"
+  },
+  {
+    "key": "effector_name_JealousBedroom",
+    "type": 0,
+    "en": "Jealous due to inferior bedroom",
+    "vi": "Jealous due to inferior bedroom"
+  },
+  {
+    "key": "effector_info_JealousBedroom",
+    "type": 0,
+    "en": "Why does <other_name> have a better room than me? What makes them so special?",
+    "vi": "Why does <other_name> have a better room than me? What makes them so special?"
+  },
+  {
+    "key": "effector_name_WantsOwnRoom",
+    "type": 0,
+    "en": "A room of one's own",
+    "vi": "A room of one's own"
+  },
+  {
+    "key": "effector_info_WantsOwnRoom",
+    "type": 0,
+    "en": "I really can't stand sharing my chamber with anyone. I need my own space.",
+    "vi": "I really can't stand sharing my chamber with anyone. I need my own space."
+  },
+  {
+    "key": "effector_name_RoomTooImpressive",
+    "type": 0,
+    "en": "Unwanted room",
+    "vi": "Unwanted room"
+  },
+  {
+    "key": "effector_info_RoomTooImpressive",
+    "type": 0,
+    "en": "This room is a bit too luxurious for my taste. I prefer simplicity.",
+    "vi": "This room is a bit too luxurious for my taste. I prefer simplicity."
+  },
+  {
+    "key": "effector_name_RoleBardRoomEnter",
+    "type": 0,
+    "en": "Entertaining presence",
+    "vi": "Entertaining presence"
+  },
+  {
+    "key": "effector_info_RoleBardRoomEnter",
+    "type": 0,
+    "en": "Is anything sweeter than a lute, or more spellbinding than a story? Time flies when this <role> performs. ",
+    "vi": "Is anything sweeter than a lute, or more spellbinding than a story? Time flies when this <role> performs. "
+  },
+  {
+    "key": "effector_name_RoleShamanRoomEnter",
+    "type": 0,
+    "en": "Visionary presence ",
+    "vi": "Visionary presence "
+  },
+  {
+    "key": "effector_info_RoleShamanRoomEnter",
+    "type": 0,
+    "en": "When this <role> enters a grove, the deep magic of the land feels close. [He/She] is attuned to Nature.",
+    "vi": "When this <role> enters a grove, the deep magic of the land feels close. [He/She] is attuned to Nature."
+  },
+  {
+    "key": "effector_name_RolePriestRoomEnter",
+    "type": 0,
+    "en": "Pious presence",
+    "vi": "Pious presence"
+  },
+  {
+    "key": "effector_info_RolePriestRoomEnter",
+    "type": 0,
+    "en": "Be inspired to draw nearer to Christ by this <role>. [He/She] truly walks the path of faith with humility and grace.",
+    "vi": "Be inspired to draw nearer to Christ by this <role>. [He/She] truly walks the path of faith with humility and grace."
+  },
+  {
+    "key": "zone_name_cropfield",
+    "type": 0,
+    "en": "Cropfield",
+    "vi": "Cropfield"
+  },
+  {
+    "key": "zone_info_cropfield",
+    "type": 0,
+    "en": "Zone used for growing crops for food or other resources. ",
+    "vi": "Zone used for growing crops for food or other resources. "
+  },
+  {
+    "key": "general_room_requirements",
+    "type": 0,
+    "en": "Requires room type",
+    "vi": "Requires room type"
+  },
+  {
+    "key": "general_own_room_requirement",
+    "type": 0,
+    "en": "Settler has their own private chamber",
+    "vi": "Settler has their own private chamber"
+  },
+  {
+    "key": "general_room_furniture_requirements",
+    "type": 0,
+    "en": "Room should contain",
+    "vi": "Room should contain"
+  },
+  {
+    "key": "pte_needs_rooms",
+    "type": 0,
+    "en": "Can be held in",
+    "vi": "Can be held in"
+  },
+  {
+    "key": "must_have_in_rooms",
+    "type": 0,
+    "en": "Can be used for room type",
+    "vi": "Can be used for room type"
+  },
+  {
+    "key": "room_type_not_found_legend",
+    "type": 0,
+    "en": "No rooms found of this type: {type}",
+    "vi": "No rooms found of this type: {type}"
+  },
+  {
+    "key": "room_click_to_select",
+    "type": 0,
+    "en": "Click to select a room of this type.",
+    "vi": "Click to select a room of this type."
+  },
+  {
+    "key": "room_info_type",
+    "type": 0,
+    "en": "Room type:",
+    "vi": "Room type:"
+  },
+  {
+    "key": "room_in_selection",
+    "type": 0,
+    "en": "Room",
+    "vi": "Room"
+  },
+  {
+    "key": "room_info_temperature",
+    "type": 0,
+    "en": "Room temperature",
+    "vi": "Room temperature"
+  },
+  {
+    "key": "room_info_content",
+    "type": 0,
+    "en": "Room content",
+    "vi": "Room content"
+  },
+  {
+    "key": "room_info_heating",
+    "type": 0,
+    "en": "Heating",
+    "vi": "Heating"
+  },
+  {
+    "key": "room_info_floor_isolation",
+    "type": 0,
+    "en": "Floor Insulation",
+    "vi": "Floor Insulation"
+  },
+  {
+    "key": "room_info_wall_isolation",
+    "type": 0,
+    "en": "Wall Insulation",
+    "vi": "Wall Insulation"
+  },
+  {
+    "key": "room_info_roof_isolation",
+    "type": 0,
+    "en": "Roof Insulation",
+    "vi": "Roof Insulation"
+  },
+  {
+    "key": "room_info_total_isolation",
+    "type": 0,
+    "en": "Total Insulation",
+    "vi": "Total Insulation"
+  },
+  {
+    "key": "room_info_area",
+    "type": 0,
+    "en": "Area",
+    "vi": "Area"
+  },
+  {
+    "key": "room_minimum_area",
+    "type": 0,
+    "en": "Minimum grid space area",
+    "vi": "Minimum grid space area"
+  },
+  {
+    "key": "room_must_have",
+    "type": 0,
+    "en": "Must have",
+    "vi": "Must have"
+  },
+  {
+    "key": "room_cannot_have",
+    "type": 0,
+    "en": "Cannot have",
+    "vi": "Cannot have"
+  },
+  {
+    "key": "room_type_kitchen",
+    "type": 0,
+    "en": "Kitchen",
+    "vi": "Kitchen"
+  },
+  {
+    "key": "room_type_workshop",
+    "type": 0,
+    "en": "Workshop",
+    "vi": "Workshop"
+  },
+  {
+    "key": "room_type_library",
+    "type": 0,
+    "en": "Library",
+    "vi": "Library"
+  },
+  {
+    "key": "room_type_chapel_christian",
+    "type": 0,
+    "en": "Church of Restitution Chapel",
+    "vi": "Church of Restitution Chapel"
+  },
+  {
+    "key": "room_type_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren temple",
+    "vi": "Oak Brethren temple"
+  },
+  {
+    "key": "room_type_bedroom_single",
+    "type": 0,
+    "en": "Chamber",
+    "vi": "Chamber"
+  },
+  {
+    "key": "room_type_bedroom_individual",
+    "type": 0,
+    "en": "<name>`s Chamber",
+    "vi": "<name>`s Chamber"
+  },
+  {
+    "key": "room_type_bedroom_shared",
+    "type": 0,
+    "en": "Shared Chamber",
+    "vi": "Shared Chamber"
+  },
+  {
+    "key": "room_type_great_hall",
+    "type": 0,
+    "en": "Great hall",
+    "vi": "Great hall"
+  },
+  {
+    "key": "room_type_default",
+    "type": 0,
+    "en": "Spare room",
+    "vi": "Spare room"
+  },
+  {
+    "key": "room_info_kitchen",
+    "type": 0,
+    "en": "Knives glint in the glow cast by the hot stove. The kitchen is the heart of any home, where food is lovingly prepared. Meals are produced faster here than anywhere else.",
+    "vi": "Knives glint in the glow cast by the hot stove. The kitchen is the heart of any home, where food is lovingly prepared. Meals are produced faster here than anywhere else."
+  },
+  {
+    "key": "room_info_workshop",
+    "type": 0,
+    "en": "Every journeyman dreams of having a workshop where they can hone their craft and produce their finest work. This is where all workstations reach their full potential.",
+    "vi": "Every journeyman dreams of having a workshop where they can hone their craft and produce their finest work. This is where all workstations reach their full potential."
+  },
+  {
+    "key": "room_info_library",
+    "type": 0,
+    "en": "A special stillness gathers in this room, among the bookshelves laden with leather-bound tomes. The only sound is the scratching of quill on vellum, as scholars record what knowledge they have gleaned.",
+    "vi": "A special stillness gathers in this room, among the bookshelves laden with leather-bound tomes. The only sound is the scratching of quill on vellum, as scholars record what knowledge they have gleaned."
+  },
+  {
+    "key": "room_info_chapel_christian",
+    "type": 0,
+    "en": "Austere but beautiful, this room is made for prayer. Here a settler may beseech their maker for mercy, give thanks for a fine harvest, or contemplate eternity.",
+    "vi": "Austere but beautiful, this room is made for prayer. Here a settler may beseech their maker for mercy, give thanks for a fine harvest, or contemplate eternity."
+  },
+  {
+    "key": "room_info_chapel_pagan",
+    "type": 0,
+    "en": "A hallowed space, simply decorated with the gifts of Mother Earth. A place to connect with the seasons, to become one with plant and animal healers. To listen for the sacred in all things.",
+    "vi": "A hallowed space, simply decorated with the gifts of Mother Earth. A place to connect with the seasons, to become one with plant and animal healers. To listen for the sacred in all things."
+  },
+  {
+    "key": "room_info_bedroom_single",
+    "type": 0,
+    "en": "A rare private space. A haven to rest in solitude, and to dream and wake, alone, in peace.",
+    "vi": "A rare private space. A haven to rest in solitude, and to dream and wake, alone, in peace."
+  },
+  {
+    "key": "room_info_bedroom_shared",
+    "type": 0,
+    "en": "A communal room, where many lay down their heads to rest. There is warmth and comfort, but also occasional loud snoring and bad smells.",
+    "vi": "A communal room, where many lay down their heads to rest. There is warmth and comfort, but also occasional loud snoring and bad smells."
+  },
+  {
+    "key": "room_info_great_hall",
+    "type": 0,
+    "en": "A place for tales and music through the long nights, for feasting or plotting. Where the settlers gather to take their daily bread. ",
+    "vi": "A place for tales and music through the long nights, for feasting or plotting. Where the settlers gather to take their daily bread. "
+  },
+  {
+    "key": "room_info_default",
+    "type": 0,
+    "en": "A spare room, empty for now. Perhaps in time, its purpose will become apparent.",
+    "vi": "A spare room, empty for now. Perhaps in time, its purpose will become apparent."
+  },
+  {
+    "key": "room_effect_kitchen",
+    "type": 0,
+    "en": "Stoves and butchering tables boost production speed",
+    "vi": "Stoves and butchering tables boost production speed"
+  },
+  {
+    "key": "room_effect_workshop",
+    "type": 0,
+    "en": "Workstations boost production speed",
+    "vi": "Workstations boost production speed"
+  },
+  {
+    "key": "room_effect_library",
+    "type": 0,
+    "en": "Research tables give a speed bonus for writing books",
+    "vi": "Research tables give a speed bonus for writing books"
+  },
+  {
+    "key": "room_effect_grand_library",
+    "type": 0,
+    "en": "Research tables give a speed bonus for writing books",
+    "vi": "Research tables give a speed bonus for writing books"
+  },
+  {
+    "key": "room_effect_advanced_chapel_christian",
+    "type": 0,
+    "en": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so.",
+    "vi": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so."
+  },
+  {
+    "key": "room_effect_chapel_christian",
+    "type": 0,
+    "en": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so.",
+    "vi": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so."
+  },
+  {
+    "key": "room_effect_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much.",
+    "vi": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much."
+  },
+  {
+    "key": "room_effect_advanced_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much.",
+    "vi": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much."
+  },
+  {
+    "key": "room_effect_bedroom_single",
+    "type": 0,
+    "en": "Whoever sleeps here enjoys the peace and quiet of their own quarters.",
+    "vi": "Whoever sleeps here enjoys the peace and quiet of their own quarters."
+  },
+  {
+    "key": "room_effect_bedroom_shared",
+    "type": 0,
+    "en": "A small positive mood modifier is gained by whoever sleeps here.",
+    "vi": "A small positive mood modifier is gained by whoever sleeps here."
+  },
+  {
+    "key": "room_effect_great_hall",
+    "type": 0,
+    "en": "Every meal tastes a bit nicer when eaten in the great hall. A positive mood modifier is gained after each meal.",
+    "vi": "Every meal tastes a bit nicer when eaten in the great hall. A positive mood modifier is gained after each meal."
+  },
+  {
+    "key": "room_effect_default",
+    "type": 0,
+    "en": "Spare room gives no bonuses",
+    "vi": "Spare room gives no bonuses"
+  },
+  {
+    "key": "room_speed_multiplier_bonus",
+    "type": 0,
+    "en": "Room type production speed",
+    "vi": "Room type production speed"
+  },
+  {
+    "key": "room_kitchen_any_stove",
+    "type": 0,
+    "en": "Stove",
+    "vi": "Stove"
+  },
+  {
+    "key": "room_cant_have_shrine",
+    "type": 0,
+    "en": "Shrines",
+    "vi": "Shrines"
+  },
+  {
+    "key": "room_cant_have_beds",
+    "type": 0,
+    "en": "Beds",
+    "vi": "Beds"
+  },
+  {
+    "key": "room_cant_have_workstations",
+    "type": 0,
+    "en": "Workstations",
+    "vi": "Workstations"
+  },
+  {
+    "key": "room_cant_have_other_workstations",
+    "type": 0,
+    "en": "Other workstations",
+    "vi": "Other workstations"
+  },
+  {
+    "key": "room_cant_have_entertainment",
+    "type": 0,
+    "en": "Entertainment Structures",
+    "vi": "Entertainment Structures"
+  },
+  {
+    "key": "room_cant_have_practice",
+    "type": 0,
+    "en": "Practice Structures",
+    "vi": "Practice Structures"
+  },
+  {
+    "key": "room_new",
+    "type": 0,
+    "en": "Room created",
+    "vi": "Room created"
+  },
+  {
+    "key": "room_imp",
+    "type": 0,
+    "en": "Impressiveness",
+    "vi": "Impressiveness"
+  },
+  {
+    "key": "room_info_imp",
+    "type": 0,
+    "en": "Whether a room impresses depends upon its spaciousness, and the wealth and beauty it contains.",
+    "vi": "Whether a room impresses depends upon its spaciousness, and the wealth and beauty it contains."
+  },
+  {
+    "key": "room_imp_awful",
+    "type": 0,
+    "en": "Awful",
+    "vi": "Awful"
+  },
+  {
+    "key": "room_imp_dull",
+    "type": 0,
+    "en": "Uninspiring",
+    "vi": "Uninspiring"
+  },
+  {
+    "key": "room_imp_mediocre",
+    "type": 0,
+    "en": "Modest",
+    "vi": "Modest"
+  },
+  {
+    "key": "room_imp_good",
+    "type": 0,
+    "en": "Good",
+    "vi": "Good"
+  },
+  {
+    "key": "room_imp_slightly_Impressive",
+    "type": 0,
+    "en": "Superior",
+    "vi": "Superior"
+  },
+  {
+    "key": "room_imp_somewhat_impressive",
+    "type": 0,
+    "en": "Luxurious",
+    "vi": "Luxurious"
+  },
+  {
+    "key": "room_imp_very_impressive",
+    "type": 0,
+    "en": "Opulent",
+    "vi": "Opulent"
+  },
+  {
+    "key": "room_imp_extremely_impressive",
+    "type": 0,
+    "en": "Palatial",
+    "vi": "Palatial"
+  },
+  {
+    "key": "room_type_medical",
+    "type": 0,
+    "en": "Infirmary",
+    "vi": "Infirmary"
+  },
+  {
+    "key": "room_info_medical",
+    "type": 0,
+    "en": "Where suffering is constant and death close at hand, the infirmary is a refuge for healing, rest and prayer.",
+    "vi": "Where suffering is constant and death close at hand, the infirmary is a refuge for healing, rest and prayer."
+  },
+  {
+    "key": "room_effect_medical",
+    "type": 0,
+    "en": "Settlers heal faster in this room and tending has a higher chance of success",
+    "vi": "Settlers heal faster in this room and tending has a higher chance of success"
+  },
+  {
+    "key": "room_imp_free_space",
+    "type": 0,
+    "en": "Spaciousness",
+    "vi": "Spaciousness"
+  },
+  {
+    "key": "room_imp_free_space_info",
+    "type": 0,
+    "en": "The amout of free space in the room (excluding furniture and production stations) ",
+    "vi": "The amout of free space in the room (excluding furniture and production stations) "
+  },
+  {
+    "key": "room_imp_wealth",
+    "type": 0,
+    "en": "Total Wealth",
+    "vi": "Total Wealth"
+  },
+  {
+    "key": "room_imp_wealth_info",
+    "type": 0,
+    "en": "The cumulative value of all structures, items and resources",
+    "vi": "The cumulative value of all structures, items and resources"
+  },
+  {
+    "key": "room_imp_average_beauty",
+    "type": 0,
+    "en": "Average Aesthetic Value",
+    "vi": "Average Aesthetic Value"
+  },
+  {
+    "key": "room_imp_average_beauty_info",
+    "type": 0,
+    "en": "the average Aesthetic Value of every object in the room",
+    "vi": "the average Aesthetic Value of every object in the room"
+  },
+  {
+    "key": "room_type_prison_cell",
+    "type": 0,
+    "en": "Prison Cell",
+    "vi": "Prison Cell"
+  },
+  {
+    "key": "room_info_prison_cell",
+    "type": 0,
+    "en": "Housing for guests deprived of their liberty. Sturdy locks are essential.",
+    "vi": "Housing for guests deprived of their liberty. Sturdy locks are essential."
+  },
+  {
+    "key": "room_name_grand_library",
+    "type": 0,
+    "en": "Fellows' Library",
+    "vi": "Fellows' Library"
+  },
+  {
+    "key": "room_info_grand_library",
+    "type": 0,
+    "en": "A bustling hub of serious academic research, where collegiate fellows gather to read and exchange ideas that will shape the nation.",
+    "vi": "A bustling hub of serious academic research, where collegiate fellows gather to read and exchange ideas that will shape the nation."
+  },
+  {
+    "key": "room_type_advanced_chapel_christian",
+    "type": 0,
+    "en": "Reliquary Chapel",
+    "vi": "Reliquary Chapel"
+  },
+  {
+    "key": "room_info_advanced_chapel_christian",
+    "type": 0,
+    "en": "A sacred space dedicated to displaying holy relics. The chapel is a focal points for pilgrimage, inspiring the faithful through the lives of the saints.",
+    "vi": "A sacred space dedicated to displaying holy relics. The chapel is a focal points for pilgrimage, inspiring the faithful through the lives of the saints."
+  },
+  {
+    "key": "room_type_advanced_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren Sanctuary",
+    "vi": "Oak Brethren Sanctuary"
+  },
+  {
+    "key": "room_info_advanced_chapel_pagan",
+    "type": 0,
+    "en": "A haven of tranquility. Brethren can breathe deep and feel the earth beneath their feet, here in the blessed shade of the Mighty Oak. ",
+    "vi": "A haven of tranquility. Brethren can breathe deep and feel the earth beneath their feet, here in the blessed shade of the Mighty Oak. "
+  },
+  {
+    "key": "room_type_training",
+    "type": 0,
+    "en": "Training room",
+    "vi": "Training room"
+  },
+  {
+    "key": "room_info_training",
+    "type": 0,
+    "en": "By placing training equipment in this room, it has become a space settlers can visit to boost their training speed.",
+    "vi": "By placing training equipment in this room, it has become a space settlers can visit to boost their training speed."
+  },
+  {
+    "key": "room_type_treasury",
+    "type": 0,
+    "en": "Treasury",
+    "vi": "Treasury"
+  },
+  {
+    "key": "room_info_treasury",
+    "type": 0,
+    "en": "A place to house sturdy war chests and count money. Brokers often loiter within, gloating over the wealth on display.",
+    "vi": "A place to house sturdy war chests and count money. Brokers often loiter within, gloating over the wealth on display."
+  },
+  {
+    "key": "room_effect_prison_cell",
+    "type": 0,
+    "en": "Prison Cell gives no bonuses",
+    "vi": "Prison Cell gives no bonuses"
+  },
+  {
+    "key": "room_effect_training",
+    "type": 0,
+    "en": "Settlers will receive a slight speed boost when training inside this room",
+    "vi": "Settlers will receive a slight speed boost when training inside this room"
+  },
+  {
+    "key": "room_effect_treasury",
+    "type": 0,
+    "en": "Treasury gives no bonuses",
+    "vi": "Treasury gives no bonuses"
+  },
+  {
+    "key": "room_pte_requirement",
+    "type": 0,
+    "en": "Required for Event",
+    "vi": "Required for Event"
+  },
+  {
+    "key": "room_role_requirement",
+    "type": 0,
+    "en": "Requirement for Community Role",
+    "vi": "Requirement for Community Role"
+  },
+  {
+    "key": "bbt_new_room_unlocked",
+    "type": 0,
+    "en": "A new room type has been unlocked: ",
+    "vi": "A new room type has been unlocked: "
+  },
+  {
+    "key": "resource_name_mushroom",
+    "type": 0,
+    "en": "Mushroom",
+    "vi": "Mushroom"
+  },
+  {
+    "key": "resource_name_roasted_mushrooms",
+    "type": 0,
+    "en": "Grilled Mushrooms",
+    "vi": "Grilled Mushrooms"
+  },
+  {
+    "key": "resource_info_roasted_mushrooms",
+    "type": 0,
+    "en": "Sprouting mysteriously from the underworld, governed by evil and fairy folk. Yet curiously delicious. ",
+    "vi": "Sprouting mysteriously from the underworld, governed by evil and fairy folk. Yet curiously delicious. "
+  },
+  {
+    "key": "resource_info_mushroom",
+    "type": 0,
+    "en": "Wild food from fields and woodlands. Identify carefully to avoid toxic fungi. \n",
+    "vi": "Wild food from fields and woodlands. Identify carefully to avoid toxic fungi. \n"
+  },
+  {
+    "key": "resource_group_StructuresFurniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Furniture"
+  },
+  {
+    "key": "Furniture names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "Furniture info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "dev_particle_mushroom_death",
+    "type": 0,
+    "en": "Mushrooms Death",
+    "vi": "Mushrooms Death"
+  },
+  {
+    "key": "dev_unlock_all_room_types",
+    "type": 0,
+    "en": "Unlock All Room Types",
+    "vi": "Unlock All Room Types"
+  },
+  {
+    "key": "dev_tooltip_unlock_all_room_types",
+    "type": 0,
+    "en": "Unlocks All Room Types for room detection",
+    "vi": "Unlocks All Room Types for room detection"
+  },
+  {
+    "key": "dev_event_room_flood",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Cellar Flooded"
+  }
+]

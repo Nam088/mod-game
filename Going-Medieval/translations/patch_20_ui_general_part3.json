@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "tut_rotate_camera",
+    "type": 0,
+    "en": "[<sprite=\"ctrl_middle_click\" index=t>] and move mouse to tilt and rotate",
+    "vi": "[<sprite=\"ctrl_middle_click\" index=t>] and move mouse to tilt and rotate"
+  },
+  {
+    "key": "tut_zoom_camera",
+    "type": 0,
+    "en": "[<style=Shortcut>Mouse wheel</style>] to zoom in and out",
+    "vi": "[<style=Shortcut>Mouse wheel</style>] to zoom in and out"
+  },
+  {
+    "key": "tut_time_controls_title",
+    "type": 0,
+    "en": "Time Controls",
+    "vi": "Time Controls"
+  },
+  {
+    "key": "tut_time_controls_info",
+    "type": 0,
+    "en": "Pause, resume, and speed up the game",
+    "vi": "Pause, resume, and speed up the game"
+  },
+  {
+    "key": "tut_normal_speed",
+    "type": 0,
+    "en": "Normal speed [<style=Shortcut><input:GameSpeedNormal></style>]",
+    "vi": "Normal speed [<style=Shortcut><input:GameSpeedNormal></style>]"
+  },
+  {
+    "key": "tut_fast_speed",
+    "type": 0,
+    "en": "Fast speed [<style=Shortcut><input:GameSpeedFast></style>]",
+    "vi": "Fast speed [<style=Shortcut><input:GameSpeedFast></style>]"
+  },
+  {
+    "key": "tut_fastest_speed",
+    "type": 0,
+    "en": "Fastest speed [<style=Shortcut><input:GameSpeedFaster></style>]",
+    "vi": "Fastest speed [<style=Shortcut><input:GameSpeedFaster></style>]"
+  },
+  {
+    "key": "tut_pause_game",
+    "type": 0,
+    "en": "Pause [<style=Shortcut><input:GamePause></style>]",
+    "vi": "Pause [<style=Shortcut><input:GamePause></style>]"
+  },
+  {
+    "key": "tut_stockpile_title",
+    "type": 0,
+    "en": "Storing Resources",
+    "vi": "Storing Resources"
+  },
+  {
+    "key": "tut_stockpile_info",
+    "type": 0,
+    "en": "Build a Default Stockpile to store resources",
+    "vi": "Build a Default Stockpile to store resources"
+  },
+  {
+    "key": "tut_open_build_zone",
+    "type": 0,
+    "en": "Open the Zone panel",
+    "vi": "Open the Zone panel"
+  },
+  {
+    "key": "tut_select_stockpile",
+    "type": 0,
+    "en": "Select the Default Stockpile",
+    "vi": "Select the Default Stockpile"
+  },
+  {
+    "key": "tut_allow_name",
+    "type": 0,
+    "en": "Allowing Resources",
+    "vi": "Allowing Resources"
+  },
+  {
+    "key": "tut_allow_info",
+    "type": 0,
+    "en": "Your Settlers will only move allowed resources",
+    "vi": "Your Settlers will only move allowed resources"
+  },
+  {
+    "key": "tut_select_allow",
+    "type": 0,
+    "en": "Select Allow from the Orders menu",
+    "vi": "Select Allow from the Orders menu"
+  },
+  {
+    "key": "tut_drag_allow",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag across the resources marked with an <sprite=\"forbid_text_icon\" index=t>",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag across the resources marked with an <sprite=\"forbid_text_icon\" index=t>"
+  },
+  {
+    "key": "tut_wait_for_haul",
+    "type": 0,
+    "en": "Wait for your Settlers to haul items to the Stockpile",
+    "vi": "Wait for your Settlers to haul items to the Stockpile"
+  },
+  {
+    "key": "tut_walls_name",
+    "type": 0,
+    "en": "Build Walls",
+    "vi": "Build Walls"
+  },
+  {
+    "key": "tut_walls_info",
+    "type": 0,
+    "en": "Place building blueprints. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>You can place walls individually, or click + drag to place multiple </style>",
+    "vi": "Place building blueprints. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>You can place walls individually, or click + drag to place multiple </style>"
+  },
+  {
+    "key": "tut_open_build_base",
+    "type": 0,
+    "en": "Open the Base panel",
+    "vi": "Open the Base panel"
+  },
+  {
+    "key": "tut_select_build_wall",
+    "type": 0,
+    "en": "Select the Wooden Wall",
+    "vi": "Select the Wooden Wall"
+  },
+  {
+    "key": "tut_drag_place_walls",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place walls on the marked area",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place walls on the marked area"
+  },
+  {
+    "key": "tut_door_name",
+    "type": 0,
+    "en": "Build Door",
+    "vi": "Build Door"
+  },
+  {
+    "key": "tut_door_info",
+    "type": 0,
+    "en": "You can replace Wall blueprints with Doors and Windows.",
+    "vi": "You can replace Wall blueprints with Doors and Windows."
+  },
+  {
+    "key": "tut_select_build_door",
+    "type": 0,
+    "en": "Select the Wooden Door",
+    "vi": "Select the Wooden Door"
+  },
+  {
+    "key": "tut_place_door",
+    "type": 0,
+    "en": "Click on the marked area to replace this Wall with a Door",
+    "vi": "Click on the marked area to replace this Wall with a Door"
+  },
+  {
+    "key": "tut_wait_to_build",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_floor_name",
+    "type": 0,
+    "en": "Build Floors",
+    "vi": "Build Floors"
+  },
+  {
+    "key": "tut_floor_info",
+    "type": 0,
+    "en": "Place floor blueprints",
+    "vi": "Place floor blueprints"
+  },
+  {
+    "key": "tut_floor_build_base",
+    "type": 0,
+    "en": "Open the Base panel",
+    "vi": "Open the Base panel"
+  },
+  {
+    "key": "tut_select_build_floor",
+    "type": 0,
+    "en": "Select the Wooden Floor",
+    "vi": "Select the Wooden Floor"
+  },
+  {
+    "key": "tut_drag_place_floors",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place a floor in the marked area",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place a floor in the marked area"
+  },
+  {
+    "key": "tut_wait_to_build_floors",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_roof_name",
+    "type": 0,
+    "en": "Build Roofs",
+    "vi": "Build Roofs"
+  },
+  {
+    "key": "tut_roof_info",
+    "type": 0,
+    "en": "Roofs need at least two points on which to rest. Place them on Walls to complete building the house.",
+    "vi": "Roofs need at least two points on which to rest. Place them on Walls to complete building the house."
+  },
+  {
+    "key": "tut_roof_build_base",
+    "type": 0,
+    "en": "Open the Base panel",
+    "vi": "Open the Base panel"
+  },
+  {
+    "key": "tut_select_build_roof",
+    "type": 0,
+    "en": "Select the Thatched Roof",
+    "vi": "Select the Thatched Roof"
+  },
+  {
+    "key": "tut_drag_place_roofs",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place roofs on the marked area",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place roofs on the marked area"
+  },
+  {
+    "key": "tut_wait_to_build_roofs",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_beds_name",
+    "type": 0,
+    "en": "Build Furniture",
+    "vi": "Build Furniture"
+  },
+  {
+    "key": "tut_beds_info",
+    "type": 0,
+    "en": "Hide Roofs to see inside buildings. Place Hay Sleeping Spots.",
+    "vi": "Hide Roofs to see inside buildings. Place Hay Sleeping Spots."
+  },
+  {
+    "key": "tut_hide_roofs",
+    "type": 0,
+    "en": "Click highlighted toggle to Hide Roofs.",
+    "vi": "Click highlighted toggle to Hide Roofs."
+  },
+  {
+    "key": "tut_select_build_bed",
+    "type": 0,
+    "en": "Select the Hay Sleeping Spot",
+    "vi": "Select the Hay Sleeping Spot"
+  },
+  {
+    "key": "tut_place_beds",
+    "type": 0,
+    "en": "Place {0} Sleeping Spots inside marked area",
+    "vi": "Place {0} Sleeping Spots inside marked area"
+  },
+  {
+    "key": "tut_wait_to_build_beds",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_forage_name",
+    "type": 0,
+    "en": "Foraging",
+    "vi": "Foraging"
+  },
+  {
+    "key": "tut_forage_info",
+    "type": 0,
+    "en": "Collect some food by harvesting nearby Redcurrant Bushes.",
+    "vi": "Collect some food by harvesting nearby Redcurrant Bushes."
+  },
+  {
+    "key": "tut_select_harvest",
+    "type": 0,
+    "en": "Select Harvest from Orders menu [<style=Shortcut><input:Harvesting></style>]",
+    "vi": "Select Harvest from Orders menu [<style=Shortcut><input:Harvesting></style>]"
+  },
+  {
+    "key": "tut_drag_select_redcurrant",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select {0} Redcurrant Bushes",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select {0} Redcurrant Bushes"
+  },
+  {
+    "key": "tut_stockpile_redcurrant",
+    "type": 0,
+    "en": "Stockpile at least {0} Redcurrants",
+    "vi": "Stockpile at least {0} Redcurrants"
+  },
+  {
+    "key": "tut_campfire_name",
+    "type": 0,
+    "en": "Production Buildings",
+    "vi": "Production Buildings"
+  },
+  {
+    "key": "tut_campfire_info",
+    "type": 0,
+    "en": "Settlers can produce goods at Production buildings. For example, a Campfire is used for cooking meals.",
+    "vi": "Settlers can produce goods at Production buildings. For example, a Campfire is used for cooking meals."
+  },
+  {
+    "key": "tut_open_build_production",
+    "type": 0,
+    "en": "Open the Production panel",
+    "vi": "Open the Production panel"
+  },
+  {
+    "key": "tut_select_campfire",
+    "type": 0,
+    "en": "Select Campfire",
+    "vi": "Select Campfire"
+  },
+  {
+    "key": "tut_place_campfire",
+    "type": 0,
+    "en": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a Campfire blueprint",
+    "vi": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a Campfire blueprint"
+  },
+  {
+    "key": "tut_wait_to_build_campfire",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_production_name",
+    "type": 0,
+    "en": "Producing Goods",
+    "vi": "Producing Goods"
+  },
+  {
+    "key": "tut_production_info",
+    "type": 0,
+    "en": "Cook meals at the Campfire.",
+    "vi": "Cook meals at the Campfire."
+  },
+  {
+    "key": "tut_production_select_campfire",
+    "type": 0,
+    "en": "Click on the Campfire to select it and open the Products panel",
+    "vi": "Click on the Campfire to select it and open the Products panel"
+  },
+  {
+    "key": "tut_production_select_meal",
+    "type": 0,
+    "en": "Select Simple Meal",
+    "vi": "Select Simple Meal"
+  },
+  {
+    "key": "tut_production_set_amount",
+    "type": 0,
+    "en": "Set amount to {0}",
+    "vi": "Set amount to {0}"
+  },
+  {
+    "key": "tut_wait_to_produce_meals",
+    "type": 0,
+    "en": "Wait for your Settlers to complete production",
+    "vi": "Wait for your Settlers to complete production"
+  },
+  {
+    "key": "tut_research_table_name",
+    "type": 0,
+    "en": "Research I: Research Table",
+    "vi": "Research I: Research Table"
+  },
+  {
+    "key": "tut_research_table_info",
+    "type": 0,
+    "en": "Build a Basic Research Table",
+    "vi": "Build a Basic Research Table"
+  },
+  {
+    "key": "tut_open_production_panel",
+    "type": 0,
+    "en": "Open the Production Panel",
+    "vi": "Open the Production Panel"
+  },
+  {
+    "key": "tut_select_research_table",
+    "type": 0,
+    "en": "Select the Basic Research Table",
+    "vi": "Select the Basic Research Table"
+  },
+  {
+    "key": "tut_place_research_table",
+    "type": 0,
+    "en": "Place the Research Table inside the marked area",
+    "vi": "Place the Research Table inside the marked area"
+  },
+  {
+    "key": "tut_wait_to_build_table",
+    "type": 0,
+    "en": "Wait for your Settlers to finish building",
+    "vi": "Wait for your Settlers to finish building"
+  },
+  {
+    "key": "tut_jobs_name",
+    "type": 0,
+    "en": "Settler Job Priorities",
+    "vi": "Settler Job Priorities"
+  },
+  {
+    "key": "tut_jobs_info",
+    "type": 0,
+    "en": "Each Settler has their own Job Priority list. This affects the actions they'll take and the order they'll choose to undertake them. 5 is the lowest Priority, 1 is the highest.",
+    "vi": "Each Settler has their own Job Priority list. This affects the actions they'll take and the order they'll choose to undertake them. 5 is the lowest Priority, 1 is the highest."
+  },
+  {
+    "key": "tut_open_jobs",
+    "type": 0,
+    "en": "Click on the highlighted Jobs button",
+    "vi": "Click on the highlighted Jobs button"
+  },
+  {
+    "key": "tut_set_research_job_priority_1",
+    "type": 0,
+    "en": "Set the Research priority for {0} to 2 (high)",
+    "vi": "Set the Research priority for {0} to 2 (high)"
+  },
+  {
+    "key": "tut_set_research_job_priority_2",
+    "type": 0,
+    "en": "Set the Research priority for {0} to empty (Settlers won't perform this task)",
+    "vi": "Set the Research priority for {0} to empty (Settlers won't perform this task)"
+  },
+  {
+    "key": "tut_produce_books_name",
+    "type": 0,
+    "en": "Research II: Producing Tomes",
+    "vi": "Research II: Producing Tomes"
+  },
+  {
+    "key": "tut_produce_books_info",
+    "type": 0,
+    "en": "Settlers can produce Chronicles at the Research Table. Chronicles are used to unlock advanced knowledge and technology.",
+    "vi": "Settlers can produce Chronicles at the Research Table. Chronicles are used to unlock advanced knowledge and technology."
+  },
+  {
+    "key": "tut_select_books",
+    "type": 0,
+    "en": "Select Chronicle",
+    "vi": "Select Chronicle"
+  },
+  {
+    "key": "tut_produce_forever",
+    "type": 0,
+    "en": "Change the production mode to Forever",
+    "vi": "Change the production mode to Forever"
+  },
+  {
+    "key": "tut_wait_to_produce_books",
+    "type": 0,
+    "en": "Wait for Settlers to produce {0} Chronicles",
+    "vi": "Wait for Settlers to produce {0} Chronicles"
+  },
+  {
+    "key": "tut_research_name",
+    "type": 0,
+    "en": "Research III: Unlocking Research",
+    "vi": "Research III: Unlocking Research"
+  },
+  {
+    "key": "tut_research_info",
+    "type": 0,
+    "en": "Unlock new blueprints, technology, and products in the Research panel.",
+    "vi": "Unlock new blueprints, technology, and products in the Research panel."
+  },
+  {
+    "key": "tut_open_research",
+    "type": 0,
+    "en": "Click on the highlighted Research button",
+    "vi": "Click on the highlighted Research button"
+  },
+  {
+    "key": "tut_select_architecture",
+    "type": 0,
+    "en": "Select Architecture",
+    "vi": "Select Architecture"
+  },
+  {
+    "key": "tut_research_unlock",
+    "type": 0,
+    "en": "Unlock Architecture to obtain the blueprint for Wooden Beams",
+    "vi": "Unlock Architecture to obtain the blueprint for Wooden Beams"
+  },
+  {
+    "key": "tut_protect_stockpile_name",
+    "type": 0,
+    "en": "Protecting Resources",
+    "vi": "Protecting Resources"
+  },
+  {
+    "key": "tut_protect_stockpile_info",
+    "type": 0,
+    "en": "Resources will deteriorate faster when exposed to the elements.",
+    "vi": "Resources will deteriorate faster when exposed to the elements."
+  },
+  {
+    "key": "tut_build_floors",
+    "type": 0,
+    "en": "Build {0} Wooden Floors. Resources left on the ground deteriorate faster",
+    "vi": "Build {0} Wooden Floors. Resources left on the ground deteriorate faster"
+  },
+  {
+    "key": "tut_build_walls",
+    "type": 0,
+    "en": "Build {0} Wooden Walls",
+    "vi": "Build {0} Wooden Walls"
+  },
+  {
+    "key": "tut_build_beams",
+    "type": 0,
+    "en": "Attach {0} Wooden Beams to the walls to support a Roof",
+    "vi": "Attach {0} Wooden Beams to the walls to support a Roof"
+  },
+  {
+    "key": "tut_build_roofs",
+    "type": 0,
+    "en": "Build Thatched Roofs to provide cover for your resources",
+    "vi": "Build Thatched Roofs to provide cover for your resources"
+  },
+  {
+    "key": "tut_layers_name",
+    "type": 0,
+    "en": "Layers",
+    "vi": "Layers"
+  },
+  {
+    "key": "tut_layers_info",
+    "type": 0,
+    "en": "Each map has up to 16 vertical layers. Move your view to lower layers to see underground.",
+    "vi": "Each map has up to 16 vertical layers. Move your view to lower layers to see underground."
+  },
+  {
+    "key": "tut_change_layer_down",
+    "type": 0,
+    "en": "Click on the highlighted button or [<style=Shortcut><input:LayerDown></style>] to show Layer {0}",
+    "vi": "Click on the highlighted button or [<style=Shortcut><input:LayerDown></style>] to show Layer {0}"
+  },
+  {
+    "key": "tut_change_layer_up",
+    "type": 0,
+    "en": "Click on the highlighted button or [<style=Shortcut><input:LayerUp></style>] to show Layer {0} and go back to the surface",
+    "vi": "Click on the highlighted button or [<style=Shortcut><input:LayerUp></style>] to show Layer {0} and go back to the surface"
+  },
+  {
+    "key": "tut_digging_name",
+    "type": 0,
+    "en": "Digging",
+    "vi": "Digging"
+  },
+  {
+    "key": "tut_digging_info",
+    "type": 0,
+    "en": "Dig terrain to access underground areas or to mine resources.",
+    "vi": "Dig terrain to access underground areas or to mine resources."
+  },
+  {
+    "key": "tut_select_digging",
+    "type": 0,
+    "en": "Select Mine from the Orders menu",
+    "vi": "Select Mine from the Orders menu"
+  },
+  {
+    "key": "tut_place_dig_marker",
+    "type": 0,
+    "en": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a dig marker",
+    "vi": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a dig marker"
+  },
+  {
+    "key": "tut_wait_for_dig",
+    "type": 0,
+    "en": "Wait for a Settler to dig the hole",
+    "vi": "Wait for a Settler to dig the hole"
+  },
+  {
+    "key": "tut_ladders_name",
+    "type": 0,
+    "en": "Ladders",
+    "vi": "Ladders"
+  },
+  {
+    "key": "tut_ladders_info",
+    "type": 0,
+    "en": "Build ladders to allow Settlers to move between different layers",
+    "vi": "Build ladders to allow Settlers to move between different layers"
+  },
+  {
+    "key": "tut_build_wooden_ladders",
+    "type": 0,
+    "en": "Build {0} Wooden Ladders. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Move to layer 4 for a better view</style>",
+    "vi": "Build {0} Wooden Ladders. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Move to layer 4 for a better view</style>"
+  },
+  {
+    "key": "tut_wait_for_haul_stash",
+    "type": 0,
+    "en": "Wait for Settlers to haul the weapons you discovered to the Stockpile",
+    "vi": "Wait for Settlers to haul the weapons you discovered to the Stockpile"
+  },
+  {
+    "key": "tut_equip_name",
+    "type": 0,
+    "en": "Equipping Settlers",
+    "vi": "Equipping Settlers"
+  },
+  {
+    "key": "tut_equip_info",
+    "type": 0,
+    "en": "Equip Settlers with weapons so they can fight and defend themselves",
+    "vi": "Equip Settlers with weapons so they can fight and defend themselves"
+  },
+  {
+    "key": "tut_select_settler",
+    "type": 0,
+    "en": "Click on a Settler directly or on their icon to select them",
+    "vi": "Click on a Settler directly or on their icon to select them"
+  },
+  {
+    "key": "tut_right_click_order",
+    "type": 0,
+    "en": "When selected, Settlers can take direct orders. [<sprite=\"ctrl_right_click\" index=t>] on a Weapon and select Equip",
+    "vi": "When selected, Settlers can take direct orders. [<sprite=\"ctrl_right_click\" index=t>] on a Weapon and select Equip"
+  },
+  {
+    "key": "tut_equip_all_settlers",
+    "type": 0,
+    "en": "Equip each Settler with a weapon",
+    "vi": "Equip each Settler with a weapon"
+  },
+  {
+    "key": "tut_defense_name",
+    "type": 0,
+    "en": "Defensive Buildings",
+    "vi": "Defensive Buildings"
+  },
+  {
+    "key": "tut_defense_info",
+    "type": 0,
+    "en": "Build Merlons on the nearby hill to protect Settlers from incoming arrows.",
+    "vi": "Build Merlons on the nearby hill to protect Settlers from incoming arrows."
+  },
+  {
+    "key": "tut_build_merlons",
+    "type": 0,
+    "en": "Build {0} Wooden Merlons. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use [<style=Shortcut><input:RotateLeft></style>] and [<style=Shortcut><input:RotateRight></style>] to rotate blueprints before placing them</style>",
+    "vi": "Build {0} Wooden Merlons. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use [<style=Shortcut><input:RotateLeft></style>] and [<style=Shortcut><input:RotateRight></style>] to rotate blueprints before placing them</style>"
+  },
+  {
+    "key": "tut_drafting_name",
+    "type": 0,
+    "en": "Drafting Settlers",
+    "vi": "Drafting Settlers"
+  },
+  {
+    "key": "tut_drafting_info",
+    "type": 0,
+    "en": "Draft Settlers to control them directly and position them for combat.",
+    "vi": "Draft Settlers to control them directly and position them for combat."
+  },
+  {
+    "key": "tut_drafting_select",
+    "type": 0,
+    "en": "Select and Draft all Settlers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select multiple Settlers</style>",
+    "vi": "Select and Draft all Settlers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select multiple Settlers</style>"
+  },
+  {
+    "key": "tut_drafting_move_archers",
+    "type": 0,
+    "en": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move archers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Placing ranged units on higher ground boosts their range and precision</style>\n",
+    "vi": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move archers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Placing ranged units on higher ground boosts their range and precision</style>\n"
+  },
+  {
+    "key": "tut_drafting_move_spearman",
+    "type": 0,
+    "en": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move the spearman. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use melee units to block the enemy's path to your ranged units</style>\n",
+    "vi": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move the spearman. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use melee units to block the enemy's path to your ranged units</style>\n"
+  },
+  {
+    "key": "tut_drafting_hold_ground",
+    "type": 0,
+    "en": "Select your Drafted Settlers and change their stance to Hold Ground",
+    "vi": "Select your Drafted Settlers and change their stance to Hold Ground"
+  },
+  {
+    "key": "tut_final_name",
+    "type": 0,
+    "en": "Tutorial Finished",
+    "vi": "Tutorial Finished"
+  },
+  {
+    "key": "tut_final_info",
+    "type": 0,
+    "en": "Congratulations! You are now ready to start a new game and Go Medieval!",
+    "vi": "Congratulations! You are now ready to start a new game and Go Medieval!"
+  },
+  {
+    "key": "general_step",
+    "type": 0,
+    "en": "Step",
+    "vi": "Step"
+  },
+  {
+    "key": "more_info_show",
+    "type": 0,
+    "en": "Show more info",
+    "vi": "Show more info"
+  },
+  {
+    "key": "more_info_hide",
+    "type": 0,
+    "en": "Hide more info",
+    "vi": "Hide more info"
+  },
+  {
+    "key": "more_info_map",
+    "type": 0,
+    "en": "The <style=DefaultYellow>Valley</style> map type is recommended for new players. Basic resources like clay and wood are plentiful there, and the soil is fertile for growing crops. \\n\\nUse the Region view for a broad picture of where your settlement will be located within the surrounding region. The Map Type will determine the immediate terrain within your settlement.",
+    "vi": "The <style=DefaultYellow>Valley</style> map type is recommended for new players. Basic resources like clay and wood are plentiful there, and the soil is fertile for growing crops. \\n\\nUse the Region view for a broad picture of where your settlement will be located within the surrounding region. The Map Type will determine the immediate terrain within your settlement."
+  },
+  {
+    "key": "more_info_settlers",
+    "type": 0,
+    "en": "These are the diverse individuals you will start your settlement with. Take a moment to explore and perhaps reroll their characteristics. \\n\\n An ideal starting group has a good distribution of skill levels and job preferences, but there are no wrong answers for your first settlement.",
+    "vi": "These are the diverse individuals you will start your settlement with. Take a moment to explore and perhaps reroll their characteristics. \\n\\n An ideal starting group has a good distribution of skill levels and job preferences, but there are no wrong answers for your first settlement."
+  },
+  {
+    "key": "general_log",
+    "type": 0,
+    "en": "Log",
+    "vi": "Log"
+  },
+  {
+    "key": "life_event_type_Conversation",
+    "type": 0,
+    "en": "Conversation",
+    "vi": "Conversation"
+  },
+  {
+    "key": "life_event_type_Misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "life_event_type_Health",
+    "type": 0,
+    "en": "Health",
+    "vi": "Health"
+  },
+  {
+    "key": "show_full_log",
+    "type": 0,
+    "en": "Show full log",
+    "vi": "Show full log"
+  },
+  {
+    "key": "affection_level_0",
+    "type": 0,
+    "en": "Rival",
+    "vi": "Rival"
+  },
+  {
+    "key": "affection_level_1",
+    "type": 0,
+    "en": "Acquaintance",
+    "vi": "Acquaintance"
+  },
+  {
+    "key": "affection_level_2",
+    "type": 0,
+    "en": "Friend",
+    "vi": "Friend"
+  },
+  {
+    "key": "bbt_settler_not_available",
+    "type": 0,
+    "en": "Can't select this settler",
+    "vi": "Can't select this settler"
+  },
+  {
+    "key": "bbt_enemy_not_available",
+    "type": 0,
+    "en": "Can't select this enemy",
+    "vi": "Can't select this enemy"
+  },
+  {
+    "key": "most_recent_interactions",
+    "type": 0,
+    "en": "Most recent interactions",
+    "vi": "Most recent interactions"
+  },
+  {
+    "key": "Patterns",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "conversation_default_pattern",
+    "type": 0,
+    "en": "<agent_name> <action> <topic> with <target_name>, <who> <reaction_verb> <reaction>",
+    "vi": "<agent_name> <action> <topic> with <target_name>, <who> <reaction_verb> <reaction>"
+  },
+  {
+    "key": "log_who",
+    "type": 0,
+    "en": "who",
+    "vi": "who"
+  },
+  {
+    "key": "settled_together_pattern",
+    "type": 0,
+    "en": "<agent_name> arrived to <village_name>",
+    "vi": "<agent_name> arrived to <village_name>"
+  },
+  {
+    "key": "battled_together_pattern",
+    "type": 0,
+    "en": "<agent_name> battled with <target_name>",
+    "vi": "<agent_name> battled with <target_name>"
+  },
+  {
+    "key": "carried_to_bed_pattern",
+    "type": 0,
+    "en": "<agent_name> carried  unconciouss <target_name> to bed",
+    "vi": "<agent_name> carried  unconciouss <target_name> to bed"
+  },
+  {
+    "key": "tended_wounds_pattern",
+    "type": 0,
+    "en": "<agent_name> tended <target_name>'s wounds",
+    "vi": "<agent_name> tended <target_name>'s wounds"
+  },
+  {
+    "key": "died_rival_pattern",
+    "type": 0,
+    "en": "<agent_name> was happy that <target_name> was dead",
+    "vi": "<agent_name> was happy that <target_name> was dead"
+  },
+  {
+    "key": "died_neutral_pattern",
+    "type": 0,
+    "en": "<agent_name> was sad that <target_name> was dead",
+    "vi": "<agent_name> was sad that <target_name> was dead"
+  },
+  {
+    "key": "died_friend_pattern",
+    "type": 0,
+    "en": "<agent_name> was devastated that <target_name> was dead",
+    "vi": "<agent_name> was devastated that <target_name> was dead"
+  },
+  {
+    "key": "banished_rival_pattern",
+    "type": 0,
+    "en": "<agent_name> was happy that <target_name> was finally banished",
+    "vi": "<agent_name> was happy that <target_name> was finally banished"
+  },
+  {
+    "key": "banished_neutral_pattern",
+    "type": 0,
+    "en": "<agent_name> was sad that <target_name> was banished",
+    "vi": "<agent_name> was sad that <target_name> was banished"
+  },
+  {
+    "key": "banished_friend_pattern",
+    "type": 0,
+    "en": "<agent_name> was devastated that <target_name> was banished",
+    "vi": "<agent_name> was devastated that <target_name> was banished"
+  },
+  {
+    "key": "status_friend_start",
+    "type": 0,
+    "en": "<agent_name> now considers <target_name> a friend.",
+    "vi": "<agent_name> now considers <target_name> a friend."
+  },
+  {
+    "key": "status_friend_stop",
+    "type": 0,
+    "en": "<agent_name> no longer considers <target_name> a friend.",
+    "vi": "<agent_name> no longer considers <target_name> a friend."
+  },
+  {
+    "key": "status_rival_start",
+    "type": 0,
+    "en": "<agent_name> considers  <target_name> a rival.",
+    "vi": "<agent_name> considers  <target_name> a rival."
+  },
+  {
+    "key": "status_rival_stop",
+    "type": 0,
+    "en": "<agent_name> has calmed down and no longer sees <target_name> as a rival.",
+    "vi": "<agent_name> has calmed down and no longer sees <target_name> as a rival."
+  },
+  {
+    "key": "status_change_reason",
+    "type": 0,
+    "en": "The reason was: <event>",
+    "vi": "The reason was: <event>"
+  },
+  {
+    "key": "status_belief_change",
+    "type": 0,
+    "en": "<agent_name> has converted to <belief_status>. <previous_belief_status> no longer felt meaningful enough.",
+    "vi": "<agent_name> has converted to <belief_status>. <previous_belief_status> no longer felt meaningful enough."
+  },
+  {
+    "key": "bbt_has_become_item",
+    "type": 0,
+    "en": "<agent_name>'s remains have been crafted into a <item>",
+    "vi": "<agent_name>'s remains have been crafted into a <item>"
+  },
+  {
+    "key": "miss_description_default_1",
+    "type": 0,
+    "en": "<defender_name> was terrified, but <attacker_name> proved clumsy, and ineffective",
+    "vi": "<defender_name> was terrified, but <attacker_name> proved clumsy, and ineffective"
+  },
+  {
+    "key": "miss_description_default_2",
+    "type": 0,
+    "en": "<defender_name> heard <attacker_name> curse as the blow did not connect",
+    "vi": "<defender_name> heard <attacker_name> curse as the blow did not connect"
+  },
+  {
+    "key": "miss_description_default_3",
+    "type": 0,
+    "en": "<defender_name> was thankful that <attacker_name> was wide of the mark",
+    "vi": "<defender_name> was thankful that <attacker_name> was wide of the mark"
+  },
+  {
+    "key": "miss_description_default_4",
+    "type": 0,
+    "en": "Fortunately for <defender_name>, <attacker_name> bungled the attack",
+    "vi": "Fortunately for <defender_name>, <attacker_name> bungled the attack"
+  },
+  {
+    "key": "miss_description_default_5",
+    "type": 0,
+    "en": "<defender_name> was extremely lucky that <attacker_name> mistimed the attack",
+    "vi": "<defender_name> was extremely lucky that <attacker_name> mistimed the attack"
+  },
+  {
+    "key": "miss_description_default_6",
+    "type": 0,
+    "en": "<attacker_name>'s blow glanced off, and <defender_name> was unharmed.",
+    "vi": "<attacker_name>'s blow glanced off, and <defender_name> was unharmed."
+  },
+  {
+    "key": "miss_description_default_7",
+    "type": 0,
+    "en": "<attacker_name> roared, enfuriated that #2[he/she] missed <defender_name>.",
+    "vi": "<attacker_name> roared, enfuriated that #2[he/she] missed <defender_name>."
+  },
+  {
+    "key": "miss_description_default_8",
+    "type": 0,
+    "en": "<defender_name> berated <attacker_name>, mocking their terrible aim",
+    "vi": "<defender_name> berated <attacker_name>, mocking their terrible aim"
+  },
+  {
+    "key": "miss_description_default_9",
+    "type": 0,
+    "en": "<attacker_name> went astray, narrowly missing <defender_name>",
+    "vi": "<attacker_name> went astray, narrowly missing <defender_name>"
+  },
+  {
+    "key": "miss_description_default_10",
+    "type": 0,
+    "en": "<attacker_name>'s attempt was in vain. <defender_name> remained unscathed.",
+    "vi": "<attacker_name>'s attempt was in vain. <defender_name> remained unscathed."
+  },
+  {
+    "key": "evade_description_default_1",
+    "type": 0,
+    "en": "<defender_name> evaded <attacker_name> by leaping aside",
+    "vi": "<defender_name> evaded <attacker_name> by leaping aside"
+  },
+  {
+    "key": "evade_description_default_2",
+    "type": 0,
+    "en": "It was down to <defender_name>'s hasty retreat that <attacker_name> was thwarted",
+    "vi": "It was down to <defender_name>'s hasty retreat that <attacker_name> was thwarted"
+  },
+  {
+    "key": "evade_description_default_3",
+    "type": 0,
+    "en": "<defender_name> deftly gave <attacker_name> the slip, and survived",
+    "vi": "<defender_name> deftly gave <attacker_name> the slip, and survived"
+  },
+  {
+    "key": "evade_description_default_4",
+    "type": 0,
+    "en": "<defender_name> avoided <attacker_name>'s assault by ducking",
+    "vi": "<defender_name> avoided <attacker_name>'s assault by ducking"
+  },
+  {
+    "key": "evade_description_default_5",
+    "type": 0,
+    "en": "<defender_name> tripped over, and <attacker_name>'s blow failed to land",
+    "vi": "<defender_name> tripped over, and <attacker_name>'s blow failed to land"
+  },
+  {
+    "key": "evade_description_default_6",
+    "type": 0,
+    "en": "<defender_name> was amazed to be unscathed. <attacker_name> couldn't understand it either.",
+    "vi": "<defender_name> was amazed to be unscathed. <attacker_name> couldn't understand it either."
+  },
+  {
+    "key": "evade_description_default_7",
+    "type": 0,
+    "en": "More by accident than design, <defender_name> sent <attacker_name> flying.",
+    "vi": "More by accident than design, <defender_name> sent <attacker_name> flying."
+  },
+  {
+    "key": "evade_description_default_8",
+    "type": 0,
+    "en": "<defender_name> dodged aside and was spared",
+    "vi": "<defender_name> dodged aside and was spared"
+  },
+  {
+    "key": "evade_description_default_9",
+    "type": 0,
+    "en": "<defender_name> parried <attacker_name>'s attack with a flourish",
+    "vi": "<defender_name> parried <attacker_name>'s attack with a flourish"
+  },
+  {
+    "key": "evade_description_default_10",
+    "type": 0,
+    "en": "<defender_name> rapidly got out of <attacker_name>'s sightline",
+    "vi": "<defender_name> rapidly got out of <attacker_name>'s sightline"
+  },
+  {
+    "key": "last_words_pattern",
+    "type": 0,
+    "en": "<agent_name>'s last words were: \"<last_words>\"",
+    "vi": "<agent_name>'s last words were: \"<last_words>\""
+  },
+  {
+    "key": "Pattern Elements",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "topic_smalltalk_1",
+    "type": 0,
+    "en": "the weather",
+    "vi": "the weather"
+  },
+  {
+    "key": "topic_smalltalk_2",
+    "type": 0,
+    "en": "dog training",
+    "vi": "dog training"
+  },
+  {
+    "key": "topic_smalltalk_3",
+    "type": 0,
+    "en": "owning cats",
+    "vi": "owning cats"
+  },
+  {
+    "key": "topic_smalltalk_4",
+    "type": 0,
+    "en": "cattle",
+    "vi": "cattle"
+  },
+  {
+    "key": "topic_smalltalk_5",
+    "type": 0,
+    "en": "the cooking rota",
+    "vi": "the cooking rota"
+  },
+  {
+    "key": "topic_smalltalk_6",
+    "type": 0,
+    "en": "food storage",
+    "vi": "food storage"
+  },
+  {
+    "key": "topic_smalltalk_7",
+    "type": 0,
+    "en": "trees",
+    "vi": "trees"
+  },
+  {
+    "key": "topic_smalltalk_8",
+    "type": 0,
+    "en": "wild flowers",
+    "vi": "wild flowers"
+  },
+  {
+    "key": "topic_smalltalk_9",
+    "type": 0,
+    "en": "the habits of birds",
+    "vi": "the habits of birds"
+  },
+  {
+    "key": "topic_smalltalk_10",
+    "type": 0,
+    "en": "the merits of turnips",
+    "vi": "the merits of turnips"
+  },
+  {
+    "key": "topic_smalltalk_11",
+    "type": 0,
+    "en": "art and artists",
+    "vi": "art and artists"
+  },
+  {
+    "key": "topic_smalltalk_12",
+    "type": 0,
+    "en": "jousting",
+    "vi": "jousting"
+  },
+  {
+    "key": "topic_smalltalk_13",
+    "type": 0,
+    "en": "sword fighting",
+    "vi": "sword fighting"
+  },
+  {
+    "key": "topic_smalltalk_14",
+    "type": 0,
+    "en": "archery techniques",
+    "vi": "archery techniques"
+  },
+  {
+    "key": "topic_smalltalk_15",
+    "type": 0,
+    "en": "what was for supper",
+    "vi": "what was for supper"
+  },
+  {
+    "key": "topic_smalltalk_16",
+    "type": 0,
+    "en": "planting herbs",
+    "vi": "planting herbs"
+  },
+  {
+    "key": "topic_smalltalk_17",
+    "type": 0,
+    "en": "the strange smell",
+    "vi": "the strange smell"
+  },
+  {
+    "key": "topic_smalltalk_18",
+    "type": 0,
+    "en": "windmills",
+    "vi": "windmills"
+  },
+  {
+    "key": "topic_smalltalk_19",
+    "type": 0,
+    "en": "rats in the store again",
+    "vi": "rats in the store again"
+  },
+  {
+    "key": "topic_smalltalk_20",
+    "type": 0,
+    "en": "feast days",
+    "vi": "feast days"
+  },
+  {
+    "key": "topic_smalltalk_21",
+    "type": 0,
+    "en": "pilgrimages",
+    "vi": "pilgrimages"
+  },
+  {
+    "key": "topic_smalltalk_22",
+    "type": 0,
+    "en": "Saint Fiacre’s curse",
+    "vi": "Saint Fiacre’s curse"
+  },
+  {
+    "key": "topic_smalltalk_23",
+    "type": 0,
+    "en": "fleas and ticks",
+    "vi": "fleas and ticks"
+  },
+  {
+    "key": "topic_smalltalk_24",
+    "type": 0,
+    "en": "catching rabbits",
+    "vi": "catching rabbits"
+  },
+  {
+    "key": "topic_smalltalk_25",
+    "type": 0,
+    "en": "the best fishing spots",
+    "vi": "the best fishing spots"
+  },
+  {
+    "key": "topic_smalltalk_26",
+    "type": 0,
+    "en": "haymaking",
+    "vi": "haymaking"
+  },
+  {
+    "key": "topic_smalltalk_27",
+    "type": 0,
+    "en": "good dye plants",
+    "vi": "good dye plants"
+  },
+  {
+    "key": "topic_smalltalk_28",
+    "type": 0,
+    "en": "basket weaving",
+    "vi": "basket weaving"
+  },
+  {
+    "key": "topic_smalltalk_29",
+    "type": 0,
+    "en": "broken fences",
+    "vi": "broken fences"
+  },
+  {
+    "key": "topic_smalltalk_30",
+    "type": 0,
+    "en": "lumpy beds",
+    "vi": "lumpy beds"
+  },
+  {
+    "key": "topic_smalltalk_31",
+    "type": 0,
+    "en": "achey joints",
+    "vi": "achey joints"
+  },
+  {
+    "key": "topic_smalltalk_32",
+    "type": 0,
+    "en": "wrestling",
+    "vi": "wrestling"
+  },
+  {
+    "key": "topic_smalltalk_33",
+    "type": 0,
+    "en": "chess",
+    "vi": "chess"
+  },
+  {
+    "key": "topic_smalltalk_34",
+    "type": 0,
+    "en": "darning hose",
+    "vi": "darning hose"
+  },
+  {
+    "key": "topic_smalltalk_35",
+    "type": 0,
+    "en": "Shrovetide football",
+    "vi": "Shrovetide football"
+  },
+  {
+    "key": "topic_smalltalk_36",
+    "type": 0,
+    "en": "the great cattle plague",
+    "vi": "the great cattle plague"
+  },
+  {
+    "key": "topic_personal_1",
+    "type": 0,
+    "en": "appropriate outfit choices",
+    "vi": "appropriate outfit choices"
+  },
+  {
+    "key": "topic_personal_2",
+    "type": 0,
+    "en": "personal differences",
+    "vi": "personal differences"
+  },
+  {
+    "key": "topic_personal_3",
+    "type": 0,
+    "en": "bravery - or the lack of it - ",
+    "vi": "bravery - or the lack of it - "
+  },
+  {
+    "key": "topic_personal_4",
+    "type": 0,
+    "en": "who was more intelligent",
+    "vi": "who was more intelligent"
+  },
+  {
+    "key": "topic_personal_5",
+    "type": 0,
+    "en": "friendship",
+    "vi": "friendship"
+  },
+  {
+    "key": "topic_personal_6",
+    "type": 0,
+    "en": "sense of humour",
+    "vi": "sense of humour"
+  },
+  {
+    "key": "topic_personal_7",
+    "type": 0,
+    "en": "charitable actions",
+    "vi": "charitable actions"
+  },
+  {
+    "key": "topic_personal_8",
+    "type": 0,
+    "en": "curmudgeonly behaviour",
+    "vi": "curmudgeonly behaviour"
+  },
+  {
+    "key": "topic_personal_9",
+    "type": 0,
+    "en": "dishonesty",
+    "vi": "dishonesty"
+  },
+  {
+    "key": "topic_personal_10",
+    "type": 0,
+    "en": "forbearance and kindness",
+    "vi": "forbearance and kindness"
+  },
+  {
+    "key": "topic_personal_11",
+    "type": 0,
+    "en": "idleness and shirking duties",
+    "vi": "idleness and shirking duties"
+  },
+  {
+    "key": "topic_personal_12",
+    "type": 0,
+    "en": "keeping the noise down ",
+    "vi": "keeping the noise down "
+  },
+  {
+    "key": "topic_personal_13",
+    "type": 0,
+    "en": "some hurtful gossip",
+    "vi": "some hurtful gossip"
+  },
+  {
+    "key": "topic_personal_14",
+    "type": 0,
+    "en": "a recent argument",
+    "vi": "a recent argument"
+  },
+  {
+    "key": "topic_personal_15",
+    "type": 0,
+    "en": "spitefulness",
+    "vi": "spitefulness"
+  },
+  {
+    "key": "topic_personal_16",
+    "type": 0,
+    "en": "unfairness",
+    "vi": "unfairness"
+  },
+  {
+    "key": "topic_personal_17",
+    "type": 0,
+    "en": "acting grumpy",
+    "vi": "acting grumpy"
+  },
+  {
+    "key": "topic_personal_18",
+    "type": 0,
+    "en": "the importance of neatness",
+    "vi": "the importance of neatness"
+  },
+  {
+    "key": "topic_personal_19",
+    "type": 0,
+    "en": "being on edge",
+    "vi": "being on edge"
+  },
+  {
+    "key": "topic_personal_20",
+    "type": 0,
+    "en": "keeping things civil",
+    "vi": "keeping things civil"
+  },
+  {
+    "key": "topic_personal_21",
+    "type": 0,
+    "en": "how to improve one's popularity",
+    "vi": "how to improve one's popularity"
+  },
+  {
+    "key": "topic_personal_22",
+    "type": 0,
+    "en": "common courtesy",
+    "vi": "common courtesy"
+  },
+  {
+    "key": "topic_personal_23",
+    "type": 0,
+    "en": "selfishness",
+    "vi": "selfishness"
+  },
+  {
+    "key": "topic_personal_24",
+    "type": 0,
+    "en": "taking matters more seriously",
+    "vi": "taking matters more seriously"
+  },
+  {
+    "key": "topic_personal_25",
+    "type": 0,
+    "en": "tomfoolery",
+    "vi": "tomfoolery"
+  },
+  {
+    "key": "topic_personal_26",
+    "type": 0,
+    "en": "overcoming shyness",
+    "vi": "overcoming shyness"
+  },
+  {
+    "key": "topic_personal_27",
+    "type": 0,
+    "en": "constant daydreaming",
+    "vi": "constant daydreaming"
+  },
+  {
+    "key": "topic_personal_28",
+    "type": 0,
+    "en": "dull-witted blundering",
+    "vi": "dull-witted blundering"
+  },
+  {
+    "key": "topic_personal_29",
+    "type": 0,
+    "en": "the distinction between wisdom and hubris",
+    "vi": "the distinction between wisdom and hubris"
+  },
+  {
+    "key": "topic_personal_30",
+    "type": 0,
+    "en": "frequent drunkenness",
+    "vi": "frequent drunkenness"
+  },
+  {
+    "key": "topic_personal_31",
+    "type": 0,
+    "en": "an unpaid debt",
+    "vi": "an unpaid debt"
+  },
+  {
+    "key": "topic_personal_32",
+    "type": 0,
+    "en": "a painful incident",
+    "vi": "a painful incident"
+  },
+  {
+    "key": "topic_personal_33",
+    "type": 0,
+    "en": "hygiene and bathing",
+    "vi": "hygiene and bathing"
+  },
+  {
+    "key": "topic_personal_34",
+    "type": 0,
+    "en": "galantry",
+    "vi": "galantry"
+  },
+  {
+    "key": "topic_personal_35",
+    "type": 0,
+    "en": "geniality",
+    "vi": "geniality"
+  },
+  {
+    "key": "topic_beliefoakbrethren_1",
+    "type": 0,
+    "en": "avoiding religious indoctrination",
+    "vi": "avoiding religious indoctrination"
+  },
+  {
+    "key": "topic_beliefoakbrethren_2",
+    "type": 0,
+    "en": "allowing dissection",
+    "vi": "allowing dissection"
+  },
+  {
+    "key": "topic_beliefoakbrethren_3",
+    "type": 0,
+    "en": "the wizard Roger Bacon",
+    "vi": "the wizard Roger Bacon"
+  },
+  {
+    "key": "topic_beliefoakbrethren_4",
+    "type": 0,
+    "en": "whether baptism truly banishes evil",
+    "vi": "whether baptism truly banishes evil"
+  },
+  {
+    "key": "topic_beliefoakbrethren_5",
+    "type": 0,
+    "en": "polytheism and superstition",
+    "vi": "polytheism and superstition"
+  },
+  {
+    "key": "topic_beliefoakbrethren_6",
+    "type": 0,
+    "en": "the animism of the Celts",
+    "vi": "the animism of the Celts"
+  },
+  {
+    "key": "topic_beliefoakbrethren_7",
+    "type": 0,
+    "en": "druidic rites at the long barrow",
+    "vi": "druidic rites at the long barrow"
+  },
+  {
+    "key": "topic_beliefoakbrethren_8",
+    "type": 0,
+    "en": "dragons under the hills",
+    "vi": "dragons under the hills"
+  },
+  {
+    "key": "topic_beliefoakbrethren_9",
+    "type": 0,
+    "en": "nicor and other water spirits",
+    "vi": "nicor and other water spirits"
+  },
+  {
+    "key": "topic_beliefoakbrethren_10",
+    "type": 0,
+    "en": "blood sacrifices in public",
+    "vi": "blood sacrifices in public"
+  },
+  {
+    "key": "topic_beliefrestitution_1",
+    "type": 0,
+    "en": "obedience to divine authority",
+    "vi": "obedience to divine authority"
+  },
+  {
+    "key": "topic_beliefrestitution_2",
+    "type": 0,
+    "en": "adherence to religion ",
+    "vi": "adherence to religion "
+  },
+  {
+    "key": "topic_beliefrestitution_3",
+    "type": 0,
+    "en": "Francis of Assisi ",
+    "vi": "Francis of Assisi "
+  },
+  {
+    "key": "topic_beliefrestitution_4",
+    "type": 0,
+    "en": "Thomas Aquinas",
+    "vi": "Thomas Aquinas"
+  },
+  {
+    "key": "topic_beliefrestitution_5",
+    "type": 0,
+    "en": "the ecstasies of women mystics",
+    "vi": "the ecstasies of women mystics"
+  },
+  {
+    "key": "topic_beliefrestitution_6",
+    "type": 0,
+    "en": "whether priests should marry",
+    "vi": "whether priests should marry"
+  },
+  {
+    "key": "topic_beliefrestitution_7",
+    "type": 0,
+    "en": "the Dominican order",
+    "vi": "the Dominican order"
+  },
+  {
+    "key": "topic_beliefrestitution_8",
+    "type": 0,
+    "en": "the cost of the Children's Crusade",
+    "vi": "the cost of the Children's Crusade"
+  },
+  {
+    "key": "topic_beliefrestitution_9",
+    "type": 0,
+    "en": "the hope of salvation",
+    "vi": "the hope of salvation"
+  },
+  {
+    "key": "topic_beliefrestitution_10",
+    "type": 0,
+    "en": "the immanence of God, and stoicism",
+    "vi": "the immanence of God, and stoicism"
+  },
+  {
+    "key": "topic_beliefrestitution_11",
+    "type": 0,
+    "en": "the sin of bigamy ",
+    "vi": "the sin of bigamy "
+  },
+  {
+    "key": "topic_belief_1",
+    "type": 0,
+    "en": "Galen's teaching",
+    "vi": "Galen's teaching"
+  },
+  {
+    "key": "topic_belief_2",
+    "type": 0,
+    "en": "who really started the Crusades",
+    "vi": "who really started the Crusades"
+  },
+  {
+    "key": "topic_belief_3",
+    "type": 0,
+    "en": "the dialectical method of scholasticism",
+    "vi": "the dialectical method of scholasticism"
+  },
+  {
+    "key": "topic_belief_4",
+    "type": 0,
+    "en": "Avicenna's ideas on Aristotle",
+    "vi": "Avicenna's ideas on Aristotle"
+  },
+  {
+    "key": "topic_belief_5",
+    "type": 0,
+    "en": "reliance on astrology ",
+    "vi": "reliance on astrology "
+  },
+  {
+    "key": "topic_belief_6",
+    "type": 0,
+    "en": "demons causing sickness",
+    "vi": "demons causing sickness"
+  },
+  {
+    "key": "topic_belief_7",
+    "type": 0,
+    "en": "witchcraft and healing",
+    "vi": "witchcraft and healing"
+  },
+  {
+    "key": "topic_belief_8",
+    "type": 0,
+    "en": "reintroducing feudalism",
+    "vi": "reintroducing feudalism"
+  },
+  {
+    "key": "topic_belief_9",
+    "type": 0,
+    "en": "the ideal of courtly love",
+    "vi": "the ideal of courtly love"
+  },
+  {
+    "key": "topic_belief_10",
+    "type": 0,
+    "en": "the monarchy",
+    "vi": "the monarchy"
+  },
+  {
+    "key": "topic_belief_11",
+    "type": 0,
+    "en": "Piers Gaveston",
+    "vi": "Piers Gaveston"
+  },
+  {
+    "key": "topic_belief_12",
+    "type": 0,
+    "en": "cannibalism",
+    "vi": "cannibalism"
+  },
+  {
+    "key": "topic_belief_13",
+    "type": 0,
+    "en": "pagans inventing new rituals",
+    "vi": "pagans inventing new rituals"
+  },
+  {
+    "key": "reaction_verb_default_1",
+    "type": 0,
+    "en": "seemed",
+    "vi": "seemed"
+  },
+  {
+    "key": "reaction_verb_default_2",
+    "type": 0,
+    "en": "appeared",
+    "vi": "appeared"
+  },
+  {
+    "key": "reaction_verb_default_3",
+    "type": 0,
+    "en": "sounded",
+    "vi": "sounded"
+  },
+  {
+    "key": "reaction_verb_default_4",
+    "type": 0,
+    "en": "looked",
+    "vi": "looked"
+  },
+  {
+    "key": "reaction_verb_default_5",
+    "type": 0,
+    "en": "was unusually",
+    "vi": "was unusually"
+  },
+  {
+    "key": "reaction_verb_default_6",
+    "type": 0,
+    "en": "was",
+    "vi": "was"
+  },
+  {
+    "key": "reaction_verynegative_1",
+    "type": 0,
+    "en": "shocked",
+    "vi": "shocked"
+  },
+  {
+    "key": "reaction_verynegative_2",
+    "type": 0,
+    "en": "upset",
+    "vi": "upset"
+  },
+  {
+    "key": "reaction_verynegative_3",
+    "type": 0,
+    "en": "disturbed",
+    "vi": "disturbed"
+  },
+  {
+    "key": "reaction_verynegative_4",
+    "type": 0,
+    "en": "confrontational",
+    "vi": "confrontational"
+  },
+  {
+    "key": "reaction_verynegative_5",
+    "type": 0,
+    "en": "miserable",
+    "vi": "miserable"
+  },
+  {
+    "key": "reaction_verynegative_6",
+    "type": 0,
+    "en": "frustrated",
+    "vi": "frustrated"
+  },
+  {
+    "key": "reaction_negative_1",
+    "type": 0,
+    "en": "troubled",
+    "vi": "troubled"
+  },
+  {
+    "key": "reaction_negative_2",
+    "type": 0,
+    "en": "annoyed",
+    "vi": "annoyed"
+  },
+  {
+    "key": "reaction_negative_3",
+    "type": 0,
+    "en": "disapproving",
+    "vi": "disapproving"
+  },
+  {
+    "key": "reaction_negative_4",
+    "type": 0,
+    "en": "put out",
+    "vi": "put out"
+  },
+  {
+    "key": "reaction_negative_5",
+    "type": 0,
+    "en": "keen to argue",
+    "vi": "keen to argue"
+  },
+  {
+    "key": "reaction_negative_6",
+    "type": 0,
+    "en": "withdrawn",
+    "vi": "withdrawn"
+  },
+  {
+    "key": "reaction_negative_7",
+    "type": 0,
+    "en": "pathetic",
+    "vi": "pathetic"
+  },
+  {
+    "key": "reaction_negative_8",
+    "type": 0,
+    "en": "anxious to leave",
+    "vi": "anxious to leave"
+  },
+  {
+    "key": "reaction_neutral_1",
+    "type": 0,
+    "en": "mischievous ",
+    "vi": "mischievous "
+  },
+  {
+    "key": "reaction_neutral_2",
+    "type": 0,
+    "en": "confused about it",
+    "vi": "confused about it"
+  },
+  {
+    "key": "reaction_neutral_3",
+    "type": 0,
+    "en": "indifferent",
+    "vi": "indifferent"
+  },
+  {
+    "key": "reaction_neutral_4",
+    "type": 0,
+    "en": "distracted",
+    "vi": "distracted"
+  },
+  {
+    "key": "reaction_neutral_5",
+    "type": 0,
+    "en": "baffled",
+    "vi": "baffled"
+  },
+  {
+    "key": "reaction_neutral_6",
+    "type": 0,
+    "en": "nonchalant",
+    "vi": "nonchalant"
+  },
+  {
+    "key": "reaction_neutral_7",
+    "type": 0,
+    "en": "oblivious",
+    "vi": "oblivious"
+  },
+  {
+    "key": "reaction_neutral_8",
+    "type": 0,
+    "en": "at ease",
+    "vi": "at ease"
+  },
+  {
+    "key": "reaction_neutral_9",
+    "type": 0,
+    "en": "childish",
+    "vi": "childish"
+  },
+  {
+    "key": "reaction_neutral_10",
+    "type": 0,
+    "en": "unruffled",
+    "vi": "unruffled"
+  },
+  {
+    "key": "reaction_positive_1",
+    "type": 0,
+    "en": "entertained ",
+    "vi": "entertained "
+  },
+  {
+    "key": "reaction_positive_2",
+    "type": 0,
+    "en": "coy",
+    "vi": "coy"
+  },
+  {
+    "key": "reaction_positive_3",
+    "type": 0,
+    "en": "hopeful ",
+    "vi": "hopeful "
+  },
+  {
+    "key": "reaction_positive_4",
+    "type": 0,
+    "en": "thankful",
+    "vi": "thankful"
+  },
+  {
+    "key": "reaction_positive_5",
+    "type": 0,
+    "en": "appreciative",
+    "vi": "appreciative"
+  },
+  {
+    "key": "reaction_positive_6",
+    "type": 0,
+    "en": "interested",
+    "vi": "interested"
+  },
+  {
+    "key": "reaction_verypositive_1",
+    "type": 0,
+    "en": "enthusiastic ",
+    "vi": "enthusiastic "
+  },
+  {
+    "key": "reaction_verypositive_2",
+    "type": 0,
+    "en": "excited",
+    "vi": "excited"
+  },
+  {
+    "key": "reaction_verypositive_3",
+    "type": 0,
+    "en": "amused",
+    "vi": "amused"
+  },
+  {
+    "key": "reaction_verypositive_4",
+    "type": 0,
+    "en": "flirtatious",
+    "vi": "flirtatious"
+  },
+  {
+    "key": "reaction_verypositive_5",
+    "type": 0,
+    "en": "spellbound",
+    "vi": "spellbound"
+  },
+  {
+    "key": "hit_action_default_1",
+    "type": 0,
+    "en": "attacked",
+    "vi": "attacked"
+  },
+  {
+    "key": "hit_action_default_2",
+    "type": 0,
+    "en": "came at",
+    "vi": "came at"
+  },
+  {
+    "key": "hit_action_default_3",
+    "type": 0,
+    "en": "struck",
+    "vi": "struck"
+  },
+  {
+    "key": "hit_action_default_4",
+    "type": 0,
+    "en": "advanced upon",
+    "vi": "advanced upon"
+  },
+  {
+    "key": "hit_action_default_5",
+    "type": 0,
+    "en": "assailed",
+    "vi": "assailed"
+  },
+  {
+    "key": "hit_action_default_6",
+    "type": 0,
+    "en": "assaulted",
+    "vi": "assaulted"
+  },
+  {
+    "key": "hit_action_default_7",
+    "type": 0,
+    "en": "beset",
+    "vi": "beset"
+  },
+  {
+    "key": "hit_action_default_8",
+    "type": 0,
+    "en": "lay into",
+    "vi": "lay into"
+  },
+  {
+    "key": "hit_action_default_9",
+    "type": 0,
+    "en": "set upon",
+    "vi": "set upon"
+  },
+  {
+    "key": "hit_action_default_10",
+    "type": 0,
+    "en": "surprised",
+    "vi": "surprised"
+  },
+  {
+    "key": "hit_action_default_11",
+    "type": 0,
+    "en": "ambushed",
+    "vi": "ambushed"
+  },
+  {
+    "key": "hit_action_default_12",
+    "type": 0,
+    "en": "hemmed in",
+    "vi": "hemmed in"
+  },
+  {
+    "key": "hit_action_default_13",
+    "type": 0,
+    "en": "rounded upon",
+    "vi": "rounded upon"
+  },
+  {
+    "key": "hit_action_default_14",
+    "type": 0,
+    "en": "flew at",
+    "vi": "flew at"
+  },
+  {
+    "key": "hit_action_default_15",
+    "type": 0,
+    "en": "blindsided",
+    "vi": "blindsided"
+  },
+  {
+    "key": "hit_action_ranged_1",
+    "type": 0,
+    "en": "shot at",
+    "vi": "shot at"
+  },
+  {
+    "key": "hit_action_ranged_2",
+    "type": 0,
+    "en": "targeted",
+    "vi": "targeted"
+  },
+  {
+    "key": "hit_action_ranged_3",
+    "type": 0,
+    "en": "unleashed missiles upon",
+    "vi": "unleashed missiles upon"
+  },
+  {
+    "key": "hit_action_ranged_4",
+    "type": 0,
+    "en": "fired upon",
+    "vi": "fired upon"
+  },
+  {
+    "key": "hit_action_ranged_5",
+    "type": 0,
+    "en": "shot down",
+    "vi": "shot down"
+  },
+  {
+    "key": "hit_action_ranged_6",
+    "type": 0,
+    "en": "bombarded",
+    "vi": "bombarded"
+  },
+  {
+    "key": "hit_action_ranged_7",
+    "type": 0,
+    "en": "launched at",
+    "vi": "launched at"
+  },
+  {
+    "key": "hit_action_ranged_8",
+    "type": 0,
+    "en": "opened fire on",
+    "vi": "opened fire on"
+  },
+  {
+    "key": "hit_action_ranged_9",
+    "type": 0,
+    "en": "aimed towards",
+    "vi": "aimed towards"
+  },
+  {
+    "key": "hit_action_ranged_10",
+    "type": 0,
+    "en": "set [his/her] sights upon",
+    "vi": "set [his/her] sights upon"
+  },
+  {
+    "key": "hit_action_ranged_11",
+    "type": 0,
+    "en": "loosed towards",
+    "vi": "loosed towards"
+  },
+  {
+    "key": "hit_action_sharp_1",
+    "type": 0,
+    "en": "pounced upon",
+    "vi": "pounced upon"
+  },
+  {
+    "key": "hit_action_sharp_2",
+    "type": 0,
+    "en": "chopped down",
+    "vi": "chopped down"
+  },
+  {
+    "key": "hit_action_sharp_3",
+    "type": 0,
+    "en": "sliced",
+    "vi": "sliced"
+  },
+  {
+    "key": "hit_action_sharp_4",
+    "type": 0,
+    "en": "hacked",
+    "vi": "hacked"
+  },
+  {
+    "key": "hit_action_sharp_5",
+    "type": 0,
+    "en": "hewed",
+    "vi": "hewed"
+  },
+  {
+    "key": "hit_action_sharp_6",
+    "type": 0,
+    "en": "impaled",
+    "vi": "impaled"
+  },
+  {
+    "key": "hit_action_sharp_7",
+    "type": 0,
+    "en": "gashed",
+    "vi": "gashed"
+  },
+  {
+    "key": "hit_action_sharp_8",
+    "type": 0,
+    "en": "slashed",
+    "vi": "slashed"
+  },
+  {
+    "key": "hit_action_sharp_9",
+    "type": 0,
+    "en": "jabbed",
+    "vi": "jabbed"
+  },
+  {
+    "key": "hit_action_sharp_10",
+    "type": 0,
+    "en": "shanked",
+    "vi": "shanked"
+  },
+  {
+    "key": "hit_action_sharp_11",
+    "type": 0,
+    "en": "tore at",
+    "vi": "tore at"
+  },
+  {
+    "key": "hit_action_pointy_1",
+    "type": 0,
+    "en": "lunged at",
+    "vi": "lunged at"
+  },
+  {
+    "key": "hit_action_pointy_2",
+    "type": 0,
+    "en": "charged into",
+    "vi": "charged into"
+  },
+  {
+    "key": "hit_action_pointy_3",
+    "type": 0,
+    "en": "rushed at",
+    "vi": "rushed at"
+  },
+  {
+    "key": "hit_action_pointy_4",
+    "type": 0,
+    "en": "harried",
+    "vi": "harried"
+  },
+  {
+    "key": "hit_action_pointy_5",
+    "type": 0,
+    "en": "impaled",
+    "vi": "impaled"
+  },
+  {
+    "key": "hit_action_pointy_6",
+    "type": 0,
+    "en": "gashed",
+    "vi": "gashed"
+  },
+  {
+    "key": "hit_action_pointy_7",
+    "type": 0,
+    "en": "gored",
+    "vi": "gored"
+  },
+  {
+    "key": "hit_action_pointy_8",
+    "type": 0,
+    "en": "pierced",
+    "vi": "pierced"
+  },
+  {
+    "key": "hit_action_pointy_9",
+    "type": 0,
+    "en": "spiked",
+    "vi": "spiked"
+  },
+  {
+    "key": "hit_action_pointy_10",
+    "type": 0,
+    "en": "skewered",
+    "vi": "skewered"
+  },
+  {
+    "key": "hit_action_pointy_11",
+    "type": 0,
+    "en": "punctured",
+    "vi": "punctured"
+  },
+  {
+    "key": "hit_action_blunt_1",
+    "type": 0,
+    "en": "lunged at",
+    "vi": "lunged at"
+  },
+  {
+    "key": "hit_action_blunt_2",
+    "type": 0,
+    "en": "bashed",
+    "vi": "bashed"
+  },
+  {
+    "key": "hit_action_blunt_3",
+    "type": 0,
+    "en": "beat",
+    "vi": "beat"
+  },
+  {
+    "key": "hit_action_blunt_4",
+    "type": 0,
+    "en": "pounced upon",
+    "vi": "pounced upon"
+  },
+  {
+    "key": "hit_action_blunt_5",
+    "type": 0,
+    "en": "clubbed",
+    "vi": "clubbed"
+  },
+  {
+    "key": "hit_action_blunt_6",
+    "type": 0,
+    "en": "pounded",
+    "vi": "pounded"
+  },
+  {
+    "key": "hit_action_blunt_7",
+    "type": 0,
+    "en": "battered",
+    "vi": "battered"
+  },
+  {
+    "key": "hit_action_blunt_8",
+    "type": 0,
+    "en": "cannoned into",
+    "vi": "cannoned into"
+  },
+  {
+    "key": "hit_action_blunt_9",
+    "type": 0,
+    "en": "mangled",
+    "vi": "mangled"
+  },
+  {
+    "key": "hit_action_blunt_10",
+    "type": 0,
+    "en": "felled",
+    "vi": "felled"
+  },
+  {
+    "key": "hit_action_blunt_11",
+    "type": 0,
+    "en": "ravaged",
+    "vi": "ravaged"
+  },
+  {
+    "key": "beast_hit_action_default_1",
+    "type": 0,
+    "en": "mauled",
+    "vi": "mauled"
+  },
+  {
+    "key": "beast_hit_action_default_2",
+    "type": 0,
+    "en": "savaged",
+    "vi": "savaged"
+  },
+  {
+    "key": "beast_hit_action_default_3",
+    "type": 0,
+    "en": "mangled",
+    "vi": "mangled"
+  },
+  {
+    "key": "beast_hit_action_default_4",
+    "type": 0,
+    "en": "brutalized",
+    "vi": "brutalized"
+  },
+  {
+    "key": "beast_hit_action_default_5",
+    "type": 0,
+    "en": "chased",
+    "vi": "chased"
+  },
+  {
+    "key": "beast_hit_action_default_6",
+    "type": 0,
+    "en": "harried",
+    "vi": "harried"
+  },
+  {
+    "key": "beast_hit_action_default_7",
+    "type": 0,
+    "en": "attacked",
+    "vi": "attacked"
+  },
+  {
+    "key": "beast_hit_action_clawed_1",
+    "type": 0,
+    "en": "clawed",
+    "vi": "clawed"
+  },
+  {
+    "key": "beast_hit_action_clawed_2",
+    "type": 0,
+    "en": "tore at",
+    "vi": "tore at"
+  },
+  {
+    "key": "beast_hit_action_clawed_3",
+    "type": 0,
+    "en": "ripped into",
+    "vi": "ripped into"
+  },
+  {
+    "key": "beast_hit_action_clawed_4",
+    "type": 0,
+    "en": "slashed at",
+    "vi": "slashed at"
+  },
+  {
+    "key": "beast_hit_action_clawed_5",
+    "type": 0,
+    "en": "scratched",
+    "vi": "scratched"
+  },
+  {
+    "key": "beast_hit_action_clawed_6",
+    "type": 0,
+    "en": "gouged",
+    "vi": "gouged"
+  },
+  {
+    "key": "beast_hit_action_hoofed_1",
+    "type": 0,
+    "en": "trampled",
+    "vi": "trampled"
+  },
+  {
+    "key": "beast_hit_action_hoofed_2",
+    "type": 0,
+    "en": "bit",
+    "vi": "bit"
+  },
+  {
+    "key": "beast_hit_action_hoofed_3",
+    "type": 0,
+    "en": "stomped on",
+    "vi": "stomped on"
+  },
+  {
+    "key": "beast_hit_action_hoofed_4",
+    "type": 0,
+    "en": "barged into",
+    "vi": "barged into"
+  },
+  {
+    "key": "beast_hit_action_hoofed_5",
+    "type": 0,
+    "en": "squashed",
+    "vi": "squashed"
+  },
+  {
+    "key": "beast_hit_action_hoofed_6",
+    "type": 0,
+    "en": "battered",
+    "vi": "battered"
+  },
+  {
+    "key": "beast_hit_action_bird_1",
+    "type": 0,
+    "en": "dug its sharp claws into",
+    "vi": "dug its sharp claws into"
+  },
+  {
+    "key": "beast_hit_action_bird_2",
+    "type": 0,
+    "en": "pecked",
+    "vi": "pecked"
+  },
+  {
+    "key": "beast_hit_action_bird_3",
+    "type": 0,
+    "en": "flew at",
+    "vi": "flew at"
+  },
+  {
+    "key": "beast_hit_action_bird_4",
+    "type": 0,
+    "en": "nipped",
+    "vi": "nipped"
+  },
+  {
+    "key": "beast_hit_action_bird_5",
+    "type": 0,
+    "en": "gouged",
+    "vi": "gouged"
+  },
+  {
+    "key": "beast_hit_action_bird_6",
+    "type": 0,
+    "en": "harassed",
+    "vi": "harassed"
+  },
+  {
+    "key": "block_description_default_1",
+    "type": 0,
+    "en": "mercifully blocked the blow",
+    "vi": "mercifully blocked the blow"
+  },
+  {
+    "key": "block_description_default_2",
+    "type": 0,
+    "en": "absorbed the damage",
+    "vi": "absorbed the damage"
+  },
+  {
+    "key": "block_description_default_3",
+    "type": 0,
+    "en": "repelled the force of the blow",
+    "vi": "repelled the force of the blow"
+  },
+  {
+    "key": "block_description_default_4",
+    "type": 0,
+    "en": "gave adequate protection",
+    "vi": "gave adequate protection"
+  },
+  {
+    "key": "block_description_default_5",
+    "type": 0,
+    "en": "proved its worth, saving [him/her] from certain death",
+    "vi": "proved its worth, saving [him/her] from certain death"
+  },
+  {
+    "key": "block_description_default_6",
+    "type": 0,
+    "en": "gave life-saving protection",
+    "vi": "gave life-saving protection"
+  },
+  {
+    "key": "block_description_default_7",
+    "type": 0,
+    "en": "averted the worst of the attack",
+    "vi": "averted the worst of the attack"
+  },
+  {
+    "key": "block_description_default_8",
+    "type": 0,
+    "en": "guarded [him/her] from injury",
+    "vi": "guarded [him/her] from injury"
+  },
+  {
+    "key": "block_description_default_9",
+    "type": 0,
+    "en": "allowed [him/her] to remain unscathed",
+    "vi": "allowed [him/her] to remain unscathed"
+  },
+  {
+    "key": "block_description_default_10",
+    "type": 0,
+    "en": "proved impregnable, saving [him/her]",
+    "vi": "proved impregnable, saving [him/her]"
+  },
+  {
+    "key": "block_description_default_11",
+    "type": 0,
+    "en": "miraculously deflected the attack",
+    "vi": "miraculously deflected the attack"
+  },
+  {
+    "key": "hit_description_fatal_1",
+    "type": 0,
+    "en": "brutally",
+    "vi": "brutally"
+  },
+  {
+    "key": "hit_description_fatal_2",
+    "type": 0,
+    "en": "relentlessly",
+    "vi": "relentlessly"
+  },
+  {
+    "key": "hit_description_fatal_3",
+    "type": 0,
+    "en": "furiously",
+    "vi": "furiously"
+  },
+  {
+    "key": "hit_description_fatal_4",
+    "type": 0,
+    "en": "forcefully",
+    "vi": "forcefully"
+  },
+  {
+    "key": "hit_description_fatal_5",
+    "type": 0,
+    "en": "powerfully",
+    "vi": "powerfully"
+  },
+  {
+    "key": "hit_description_fatal_6",
+    "type": 0,
+    "en": "fiercely",
+    "vi": "fiercely"
+  },
+  {
+    "key": "hit_description_fatal_7",
+    "type": 0,
+    "en": "ruthlessly",
+    "vi": "ruthlessly"
+  },
+  {
+    "key": "hit_description_fatal_8",
+    "type": 0,
+    "en": "ferociously",
+    "vi": "ferociously"
+  },
+  {
+    "key": "hit_description_fatal_9",
+    "type": 0,
+    "en": "skillfully",
+    "vi": "skillfully"
+  },
+  {
+    "key": "hit_description_default_1",
+    "type": 0,
+    "en": "spitefully",
+    "vi": "spitefully"
+  },
+  {
+    "key": "hit_description_default_2",
+    "type": 0,
+    "en": "deliberately",
+    "vi": "deliberately"
+  },
+  {
+    "key": "hit_description_default_3",
+    "type": 0,
+    "en": "purposefully",
+    "vi": "purposefully"
+  },
+  {
+    "key": "hit_description_default_4",
+    "type": 0,
+    "en": "methodically",
+    "vi": "methodically"
+  },
+  {
+    "key": "hit_description_default_5",
+    "type": 0,
+    "en": "enthusiastically",
+    "vi": "enthusiastically"
+  },
+  {
+    "key": "hit_description_default_6",
+    "type": 0,
+    "en": "cruelly",
+    "vi": "cruelly"
+  },
+  {
+    "key": "hit_description_default_7",
+    "type": 0,
+    "en": "competently",
+    "vi": "competently"
+  },
+  {
+    "key": "hit_description_default_8",
+    "type": 0,
+    "en": "adequately",
+    "vi": "adequately"
+  },
+  {
+    "key": "hit_description_default_9",
+    "type": 0,
+    "en": "admirably",
+    "vi": "admirably"
+  },
+  {
+    "key": "with_default_1",
+    "type": 0,
+    "en": "with",
+    "vi": "with"
+  },
+  {
+    "key": "with_default_2",
+    "type": 0,
+    "en": "with [his/her]",
+    "vi": "with [his/her]"
+  },
+  {
+    "key": "wounding_default_1",
+    "type": 0,
+    "en": "sustained a",
+    "vi": "sustained a"
+  },
+  {
+    "key": "wounding_default_2",
+    "type": 0,
+    "en": "received a",
+    "vi": "received a"
+  },
+  {
+    "key": "wounding_default_3",
+    "type": 0,
+    "en": "screamed for help with [his/her]",
+    "vi": "screamed for help with [his/her]"
+  },
+  {
+    "key": "wounding_default_4",
+    "type": 0,
+    "en": "became deranged over [his/her]",
+    "vi": "became deranged over [his/her]"
+  },
+  {
+    "key": "wounding_default_5",
+    "type": 0,
+    "en": "remained calm, despite [his/her]",
+    "vi": "remained calm, despite [his/her]"
+  },
+  {
+    "key": "wounding_default_6",
+    "type": 0,
+    "en": "was alarmed by [his/her]",
+    "vi": "was alarmed by [his/her]"
+  },
+  {
+    "key": "wounding_default_7",
+    "type": 0,
+    "en": "immediately felt [his/her]",
+    "vi": "immediately felt [his/her]"
+  },
+  {
+    "key": "wounding_default_8",
+    "type": 0,
+    "en": "sobbed uncontrollably, knowing [he/she] had a",
+    "vi": "sobbed uncontrollably, knowing [he/she] had a"
+  },
+  {
+    "key": "wounding_default_9",
+    "type": 0,
+    "en": "ended up with a",
+    "vi": "ended up with a"
+  },
+  {
+    "key": "wounding_default_10",
+    "type": 0,
+    "en": "realised [he/she] had a",
+    "vi": "realised [he/she] had a"
+  },
+  {
+    "key": "wounding_default_11",
+    "type": 0,
+    "en": "barely understood [he/she] had a",
+    "vi": "barely understood [he/she] had a"
+  },
+  {
+    "key": "wounding_default_12",
+    "type": 0,
+    "en": "suffered a",
+    "vi": "suffered a"
+  },
+  {
+    "key": "wounding_default_13",
+    "type": 0,
+    "en": "felt the searing pain of a",
+    "vi": "felt the searing pain of a"
+  }
+]

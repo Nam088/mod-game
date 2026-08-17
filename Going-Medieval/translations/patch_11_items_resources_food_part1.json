@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "resource_name_enemy",
+    "type": 0,
+    "en": "Enemy Corpse",
+    "vi": "Enemy Corpse"
+  },
+  {
+    "key": "resource_name_worker",
+    "type": 0,
+    "en": "Settler Corpse",
+    "vi": "Settler Corpse"
+  },
+  {
+    "key": "forbidden_resource",
+    "type": 0,
+    "en": "Forbidden",
+    "vi": "Forbidden"
+  },
+  {
+    "key": "forbidden_resource_info",
+    "type": 0,
+    "en": "This resource pile is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this resource by clicking 'allow' or by using the allow order.",
+    "vi": "This resource pile is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this resource by clicking 'allow' or by using the allow order."
+  },
+  {
+    "key": "crop_freeze_temperature",
+    "type": 0,
+    "en": "Plant death temperature",
+    "vi": "Plant death temperature"
+  },
+  {
+    "key": "crop_grow_time",
+    "type": 0,
+    "en": "Grow time",
+    "vi": "Grow time"
+  },
+  {
+    "key": "crop_grow_life_span",
+    "type": 0,
+    "en": "Life span",
+    "vi": "Life span"
+  },
+  {
+    "key": "crop_stop_temperature",
+    "type": 0,
+    "en": "Growth stop temperature",
+    "vi": "Growth stop temperature"
+  },
+  {
+    "key": "crop_min_sow_temperature",
+    "type": 0,
+    "en": "Minimum sow temperature",
+    "vi": "Minimum sow temperature"
+  },
+  {
+    "key": "dig_resource_health",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Hitpoints"
+  },
+  {
+    "key": "hud_info_resources",
+    "type": 0,
+    "en": "List of all the resources that are currently in stockpiles.",
+    "vi": "List of all the resources that are currently in stockpiles."
+  },
+  {
+    "key": "hud_lb_resources",
+    "type": 0,
+    "en": "Resource",
+    "vi": "Resource"
+  },
+  {
+    "key": "production_no_allowed_resources",
+    "type": 0,
+    "en": "No allowed resources",
+    "vi": "No allowed resources"
+  },
+  {
+    "key": "production_no_resources",
+    "type": 0,
+    "en": "Not enough resources",
+    "vi": "Not enough resources"
+  },
+  {
+    "key": "production_resource_select_desc",
+    "type": 0,
+    "en": "Choose what resources are allowed for this product",
+    "vi": "Choose what resources are allowed for this product"
+  },
+  {
+    "key": "resource_categories",
+    "type": 0,
+    "en": "Resource categories",
+    "vi": "Resource categories"
+  },
+  {
+    "key": "resource_group_FoodStimulants",
+    "type": 0,
+    "en": "Stimulants",
+    "vi": "Stimulants"
+  },
+  {
+    "key": "ResourceWealth_title",
+    "type": 0,
+    "en": "Resources Value",
+    "vi": "Resources Value"
+  },
+  {
+    "key": "ResourceWealth_info",
+    "type": 0,
+    "en": "Combined value of all resources through time",
+    "vi": "Combined value of all resources through time"
+  },
+  {
+    "key": "hud_info_resource_groups",
+    "type": 0,
+    "en": "Group resources in Resource Panel.",
+    "vi": "Group resources in Resource Panel."
+  },
+  {
+    "key": "ctrl_ShowHideResourceGroups",
+    "type": 0,
+    "en": "Resource Groups: Show/Hide",
+    "vi": "Resource Groups: Show/Hide"
+  },
+  {
+    "key": "plant_sow_time",
+    "type": 0,
+    "en": "Sow time",
+    "vi": "Sow time"
+  },
+  {
+    "key": "plant_grows_on",
+    "type": 0,
+    "en": "Grows on",
+    "vi": "Grows on"
+  },
+  {
+    "key": "plant_cultivable",
+    "type": 0,
+    "en": "Cultivable",
+    "vi": "Cultivable"
+  },
+  {
+    "key": "plant_dying",
+    "type": 0,
+    "en": "Plant Dying",
+    "vi": "Plant Dying"
+  },
+  {
+    "key": "extortion_animal_locked",
+    "type": 0,
+    "en": "This animal is not accessible",
+    "vi": "This animal is not accessible"
+  },
+  {
+    "key": "plant_roofed",
+    "type": 0,
+    "en": "Roofed",
+    "vi": "Roofed"
+  },
+  {
+    "key": "plant_dying_blight",
+    "type": 0,
+    "en": "Blight",
+    "vi": "Blight"
+  },
+  {
+    "key": "animal_type_wild",
+    "type": 0,
+    "en": "Wild",
+    "vi": "Wild"
+  },
+  {
+    "key": "animal_type_domestic",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Domestic"
+  },
+  {
+    "key": "animal_type_DomesticNpc",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Domestic"
+  },
+  {
+    "key": "animal_type_wildAggressive",
+    "type": 0,
+    "en": "Wild Aggresive",
+    "vi": "Wild Aggresive"
+  },
+  {
+    "key": "animal_type_pet",
+    "type": 0,
+    "en": "Pet",
+    "vi": "Pet"
+  },
+  {
+    "key": "animal_storage_capacity",
+    "type": 0,
+    "en": "Storage Amount",
+    "vi": "Storage Amount"
+  },
+  {
+    "key": "animal_life_phase",
+    "type": 0,
+    "en": "Age",
+    "vi": "Age"
+  },
+  {
+    "key": "animal_info_pet",
+    "type": 0,
+    "en": "Pets roam the settlement freely. They can pass through any door that a settler can. ",
+    "vi": "Pets roam the settlement freely. They can pass through any door that a settler can. "
+  },
+  {
+    "key": "animal_info_domestic",
+    "type": 0,
+    "en": "Domestic animals will roam around your settlement. Most domesticated animals can't go through doors or gates unless led while roped. ",
+    "vi": "Domestic animals will roam around your settlement. Most domesticated animals can't go through doors or gates unless led while roped. "
+  },
+  {
+    "key": "animal_info_domesticnpc",
+    "type": 0,
+    "en": "Domestic animals will roam around your settlement. They can't go through doors or gates unless led while roped. ",
+    "vi": "Domestic animals will roam around your settlement. They can't go through doors or gates unless led while roped. "
+  },
+  {
+    "key": "animal_info_wild",
+    "type": 0,
+    "en": "Wild animals roam around the map and try to avoid your settlement. They may enter occasionally when hungry.",
+    "vi": "Wild animals roam around the map and try to avoid your settlement. They may enter occasionally when hungry."
+  },
+  {
+    "key": "animal_info_wildaggressive",
+    "type": 0,
+    "en": "Aggressive wild animals will attack your settlers on sight. They may also attack other animals.",
+    "vi": "Aggressive wild animals will attack your settlers on sight. They may also attack other animals."
+  },
+  {
+    "key": "general_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "hud_info_animals",
+    "type": 0,
+    "en": "Manage your domesticated and wild animals.",
+    "vi": "Manage your domesticated and wild animals."
+  },
+  {
+    "key": "animals_domestic",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Domestic"
+  },
+  {
+    "key": "animals_wildlife",
+    "type": 0,
+    "en": "Wildlife",
+    "vi": "Wildlife"
+  },
+  {
+    "key": "animal_haul_info",
+    "type": 0,
+    "en": "Animals that are trained to haul piles around will randomly pick piles for hauling from time to time. ",
+    "vi": "Animals that are trained to haul piles around will randomly pick piles for hauling from time to time. "
+  },
+  {
+    "key": "cant_interact_sleeping_animal",
+    "type": 0,
+    "en": "Can't interact with sleeping animal",
+    "vi": "Can't interact with sleeping animal"
+  },
+  {
+    "key": "animal_is_domestic_message",
+    "type": 0,
+    "en": "<settler> has successfully domesticated: <animal> ",
+    "vi": "<settler> has successfully domesticated: <animal> "
+  },
+  {
+    "key": "animal_is_pet_message",
+    "type": 0,
+    "en": "<settler> has successfully trained: <animal>",
+    "vi": "<settler> has successfully trained: <animal>"
+  },
+  {
+    "key": "general_male_animal",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_female_animal",
+    "type": 0,
+    "en": "f",
+    "vi": "f"
+  },
+  {
+    "key": "animal_pen_panel_title",
+    "type": 0,
+    "en": "Animal Pen",
+    "vi": "Animal Pen"
+  },
+  {
+    "key": "animal_pen_panel_description",
+    "type": 0,
+    "en": "Choose what animal type to house in this pen.",
+    "vi": "Choose what animal type to house in this pen."
+  },
+  {
+    "key": "animal_pen_disabled_outside",
+    "type": 0,
+    "en": "This pen marker must be in an enclosed area to work.",
+    "vi": "This pen marker must be in an enclosed area to work."
+  },
+  {
+    "key": "menu_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "animal_type_with_name",
+    "type": 0,
+    "en": "<name> the <animal>",
+    "vi": "<name> the <animal>"
+  },
+  {
+    "key": "animal_pest_control",
+    "type": 0,
+    "en": "Vermin Control",
+    "vi": "Vermin Control"
+  },
+  {
+    "key": "animal_pest_control_info",
+    "type": 0,
+    "en": "Some animals can be trained to take care of pesky creatures, like rats, that cause damage around the settlement. ",
+    "vi": "Some animals can be trained to take care of pesky creatures, like rats, that cause damage around the settlement. "
+  },
+  {
+    "key": "trader_wont_sell_animal",
+    "type": 0,
+    "en": "This animal cannot be sold",
+    "vi": "This animal cannot be sold"
+  },
+  {
+    "key": "trade_animal_locked",
+    "type": 0,
+    "en": "This animal is not accessible",
+    "vi": "This animal is not accessible"
+  },
+  {
+    "key": "animal_roped_to",
+    "type": 0,
+    "en": "Roped to",
+    "vi": "Roped to"
+  },
+  {
+    "key": "plant_sunlight",
+    "type": 0,
+    "en": "Accumulated sunlight",
+    "vi": "Accumulated sunlight"
+  },
+  {
+    "key": "plant_sunlight_info",
+    "type": 0,
+    "en": "The amount of sunlight the plant has accumulated. A low level may lead to stunted growth. If the acumualted sunlight reaches 0, the plant will start losing hitpoints slowly.",
+    "vi": "The amount of sunlight the plant has accumulated. A low level may lead to stunted growth. If the acumualted sunlight reaches 0, the plant will start losing hitpoints slowly."
+  },
+  {
+    "key": "plant_receiving_light",
+    "type": 0,
+    "en": "Sunlight amount",
+    "vi": "Sunlight amount"
+  },
+  {
+    "key": "plant_receieving_light_info",
+    "type": 0,
+    "en": "The amount of sunlight cast on this object. This takes into consideration indirect sunlight as well. Plants in 0% sunlight will grow more slowly.",
+    "vi": "The amount of sunlight cast on this object. This takes into consideration indirect sunlight as well. Plants in 0% sunlight will grow more slowly."
+  },
+  {
+    "key": "plant_stunted",
+    "type": 0,
+    "en": "Stunted",
+    "vi": "Stunted"
+  },
+  {
+    "key": "plant_stunted_info",
+    "type": 0,
+    "en": "Stunted plants are smaller and yield fewer resources. Plants become stunted due to lack of sunlight.",
+    "vi": "Stunted plants are smaller and yield fewer resources. Plants become stunted due to lack of sunlight."
+  },
+  {
+    "key": "plant_stunted_tree_info",
+    "type": 0,
+    "en": "Trees become stunted growing in a crowded area. Having more than 2 walls or other trees adjacent to the growing tree causes stunted growth",
+    "vi": "Trees become stunted growing in a crowded area. Having more than 2 walls or other trees adjacent to the growing tree causes stunted growth"
+  },
+  {
+    "key": "plant_dying_low_sunlight",
+    "type": 0,
+    "en": "Insufficient Sunlight",
+    "vi": "Insufficient Sunlight"
+  },
+  {
+    "key": "plant_dying_water_level",
+    "type": 0,
+    "en": "In Water",
+    "vi": "In Water"
+  },
+  {
+    "key": "plant_dying_not_in_water",
+    "type": 0,
+    "en": "Not In Water",
+    "vi": "Not In Water"
+  },
+  {
+    "key": "animal_cant_attend_event_prompt",
+    "type": 0,
+    "en": "<animal_name> can't attend the <event_name> and this might have a negative influence to its outcome. Do you wish to cancel the event to avoid this penalty? ",
+    "vi": "<animal_name> can't attend the <event_name> and this might have a negative influence to its outcome. Do you wish to cancel the event to avoid this penalty? "
+  },
+  {
+    "key": "take_resources_tooltip",
+    "type": 0,
+    "en": "Take resources",
+    "vi": "Take resources"
+  },
+  {
+    "key": "filter_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "resource_pile_name_count_pattern",
+    "type": 0,
+    "en": "{1} {0} Pile",
+    "vi": "{1} {0} Pile"
+  },
+  {
+    "key": "animal_sleep_preference",
+    "type": 0,
+    "en": "Sleep Preference",
+    "vi": "Sleep Preference"
+  },
+  {
+    "key": "animal_sleep_preference_info",
+    "type": 0,
+    "en": "Set where this animal is allowed to sleep\nInside - animal will sleep in any room with a roof overhead, but not in any settler quarters or shared quarters.\nOutside - animal will choose a sleeping spot outside. If no outdoor spot is available, it will sleep in a random location (preferring roofed areas).\nIn Quarters - a pet will sleep in its owner's room, either on a sleeping spot or on the floor. If the pet has no owner, then it will sleep in any settler sleeping quarters.",
+    "vi": "Set where this animal is allowed to sleep\nInside - animal will sleep in any room with a roof overhead, but not in any settler quarters or shared quarters.\nOutside - animal will choose a sleeping spot outside. If no outdoor spot is available, it will sleep in a random location (preferring roofed areas).\nIn Quarters - a pet will sleep in its owner's room, either on a sleeping spot or on the floor. If the pet has no owner, then it will sleep in any settler sleeping quarters."
+  },
+  {
+    "key": "animal_sleep_Inside",
+    "type": 0,
+    "en": "Inside",
+    "vi": "Inside"
+  },
+  {
+    "key": "animal_sleep_Outside",
+    "type": 0,
+    "en": "Outside",
+    "vi": "Outside"
+  },
+  {
+    "key": "animal_sleep_Anywhere",
+    "type": 0,
+    "en": "Anywhere",
+    "vi": "Anywhere"
+  },
+  {
+    "key": "animal_sleep_InQuarters",
+    "type": 0,
+    "en": "In Quarters",
+    "vi": "In Quarters"
+  },
+  {
+    "key": "trade_deal_resources_needed",
+    "type": 0,
+    "en": "Trade deal requires resources <resources> with total value of <wealth>",
+    "vi": "Trade deal requires resources <resources> with total value of <wealth>"
+  },
+  {
+    "key": "gameplay_tips_wild_animals",
+    "type": 0,
+    "en": "Hunting Wild Animals",
+    "vi": "Hunting Wild Animals"
+  },
+  {
+    "key": "gameplay_tips_wild_animals_info",
+    "type": 0,
+    "en": "- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler must be equipped with a ranged weapon.",
+    "vi": "- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler must be equipped with a ranged weapon."
+  },
+  {
+    "key": "gameplay_tips_tame_animals",
+    "type": 0,
+    "en": "Taming Wild Animals",
+    "vi": "Taming Wild Animals"
+  },
+  {
+    "key": "gameplay_tips_tame_animals_info",
+    "type": 0,
+    "en": "- Some wild animals can be tamed.\\n- Beware: some animals may attack a settler who is trying to tame them.\\n- Taming can be a long process and cannot be done continually.",
+    "vi": "- Some wild animals can be tamed.\\n- Beware: some animals may attack a settler who is trying to tame them.\\n- Taming can be a long process and cannot be done continually."
+  },
+  {
+    "key": "gameplay_tips_domestic_animals",
+    "type": 0,
+    "en": "Domestic Animals",
+    "vi": "Domestic Animals"
+  },
+  {
+    "key": "gameplay_tips_domestic_animals_info",
+    "type": 0,
+    "en": "- Domestic animals live alongside settlers.\\n- Some animals may be kept in animal pens. \\n- To create a pen, place a <LinkAlmanac=\"Penmarker\">pen marker</link> in a fenced-off or enclosed area.\\n- Add a <LinkAlmanac=\"Trough\">trough</link> to your pen so that settlers will automatically bring food to the penned animals.\\n- Settlers can use their animal handling skill to gain food from some animals.\\n- Some domestic animals can also be slaughtered for meat.",
+    "vi": "- Domestic animals live alongside settlers.\\n- Some animals may be kept in animal pens. \\n- To create a pen, place a <LinkAlmanac=\"Penmarker\">pen marker</link> in a fenced-off or enclosed area.\\n- Add a <LinkAlmanac=\"Trough\">trough</link> to your pen so that settlers will automatically bring food to the penned animals.\\n- Settlers can use their animal handling skill to gain food from some animals.\\n- Some domestic animals can also be slaughtered for meat."
+  },
+  {
+    "key": "gameplay_tips_pet_animals",
+    "type": 0,
+    "en": "Pets",
+    "vi": "Pets"
+  },
+  {
+    "key": "gameplay_tips_pet_animals_info",
+    "type": 0,
+    "en": "- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement.",
+    "vi": "- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement."
+  },
+  {
+    "key": "bbt_animal_not_available",
+    "type": 0,
+    "en": "Can't select this animal",
+    "vi": "Can't select this animal"
+  },
+  {
+    "key": "prioritise_cut_all_vegetation_plant",
+    "type": 0,
+    "en": "Prioritise cutting:",
+    "vi": "Prioritise cutting:"
+  },
+  {
+    "key": "prioritise_chop_plant",
+    "type": 0,
+    "en": "Prioritise chopping:",
+    "vi": "Prioritise chopping:"
+  },
+  {
+    "key": "prioritise_harvest_plant",
+    "type": 0,
+    "en": "Prioritise harvesting:",
+    "vi": "Prioritise harvesting:"
+  },
+  {
+    "key": "prioritise_mine_resource",
+    "type": 0,
+    "en": "Prioritise mining/digging:",
+    "vi": "Prioritise mining/digging:"
+  },
+  {
+    "key": "missing_resource_for_production",
+    "type": 0,
+    "en": "Resource unavailable to deliver",
+    "vi": "Resource unavailable to deliver"
+  },
+  {
+    "key": "prioritise_animal_harvest",
+    "type": 0,
+    "en": "Prioritise Harvesting",
+    "vi": "Prioritise Harvesting"
+  },
+  {
+    "key": "prioritise_pet_animal",
+    "type": 0,
+    "en": "Pet an animal",
+    "vi": "Pet an animal"
+  },
+  {
+    "key": "options_resource_indicators",
+    "type": 0,
+    "en": "Show resource indicators",
+    "vi": "Show resource indicators"
+  },
+  {
+    "key": "options_resources_group_vew",
+    "type": 0,
+    "en": "Show resource groups",
+    "vi": "Show resource groups"
+  },
+  {
+    "key": "options_animal_names",
+    "type": 0,
+    "en": "Show animal names",
+    "vi": "Show animal names"
+  },
+  {
+    "key": "options_animal_names_1",
+    "type": 0,
+    "en": "All animals",
+    "vi": "All animals"
+  },
+  {
+    "key": "options_animal_names_2",
+    "type": 0,
+    "en": "Domestic only",
+    "vi": "Domestic only"
+  },
+  {
+    "key": "options_animal_names_3",
+    "type": 0,
+    "en": "Pets only",
+    "vi": "Pets only"
+  },
+  {
+    "key": "options_xray_animals",
+    "type": 0,
+    "en": "Show animals through walls",
+    "vi": "Show animals through walls"
+  },
+  {
+    "key": "ctrl_TameAnimal",
+    "type": 0,
+    "en": "Order: Tame",
+    "vi": "Order: Tame"
+  },
+  {
+    "key": "ctrl_TrainAnimal",
+    "type": 0,
+    "en": "Order: Train",
+    "vi": "Order: Train"
+  },
+  {
+    "key": "ctrl_SlaughterAnimal",
+    "type": 0,
+    "en": "Order: Slaughter",
+    "vi": "Order: Slaughter"
+  },
+  {
+    "key": "ctrl_ReleaseAnimal",
+    "type": 0,
+    "en": "Order: Release",
+    "vi": "Order: Release"
+  },
+  {
+    "key": "ctrl_Animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "difficulty_option_animalSpawnMultiplier_title",
+    "type": 0,
+    "en": "Animal Spawn Rate Multiplier",
+    "vi": "Animal Spawn Rate Multiplier"
+  },
+  {
+    "key": "difficulty_option_animalSpawnMultiplier_info",
+    "type": 0,
+    "en": "Determines speed at which new animals spawn on the map.",
+    "vi": "Determines speed at which new animals spawn on the map."
+  },
+  {
+    "key": "difficulty_option_plantYieldMultiplier_title",
+    "type": 0,
+    "en": "Plant Yield Multiplier",
+    "vi": "Plant Yield Multiplier"
+  },
+  {
+    "key": "difficulty_option_plantYieldMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the base value of plant resources yielded when harvested",
+    "vi": "Multiplies the base value of plant resources yielded when harvested"
+  },
+  {
+    "key": "difficulty_option_animalInfestationEvent_title",
+    "type": 0,
+    "en": "Animal Infestation in Cellar",
+    "vi": "Animal Infestation in Cellar"
+  },
+  {
+    "key": "difficulty_option_animalMiscSmallEvent_title",
+    "type": 0,
+    "en": "Small animal event",
+    "vi": "Small animal event"
+  },
+  {
+    "key": "difficulty_option_animalWildLargeEvent_title",
+    "type": 0,
+    "en": "Large animal event",
+    "vi": "Large animal event"
+  },
+  {
+    "key": "difficulty_option_animalBearSingleEvent_title",
+    "type": 0,
+    "en": "Bear visit",
+    "vi": "Bear visit"
+  },
+  {
+    "key": "difficulty_option_animalDomesticSingleEvent_title",
+    "type": 0,
+    "en": "Domestic Animal Event",
+    "vi": "Domestic Animal Event"
+  },
+  {
+    "key": "difficulty_option_animalDomesticSingleEvent_info",
+    "type": 0,
+    "en": "Allow domestic animals to appear on your map from time to time",
+    "vi": "Allow domestic animals to appear on your map from time to time"
+  },
+  {
+    "key": "TwitchAnimalSpawnBbt",
+    "type": 0,
+    "en": "{Animal} named {Twitch Name} has appeared!",
+    "vi": "{Animal} named {Twitch Name} has appeared!"
+  },
+  {
+    "key": "resource_holder_info_barley_patch",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry."
+  },
+  {
+    "key": "resource_holder_info_wild_barley_patch",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry."
+  },
+  {
+    "key": "resource_holder_info_beet_patch",
+    "type": 0,
+    "en": "An ancient and hardy root to grow in your garden, be that hovel or manor.",
+    "vi": "An ancient and hardy root to grow in your garden, be that hovel or manor."
+  },
+  {
+    "key": "resource_holder_info_cabbage_patch",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. A crop to sow all year round.",
+    "vi": "The humblest of wortes and a staple food. A crop to sow all year round."
+  },
+  {
+    "key": "resource_holder_info_carrot_patch",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_clay",
+    "type": 0,
+    "en": "Fine-grained, mineral-rich soil that sticks to the shoes. One of the oldest building materials.",
+    "vi": "Fine-grained, mineral-rich soil that sticks to the shoes. One of the oldest building materials."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_empty",
+    "type": 0,
+    "en": "Good soil is like black gold.",
+    "vi": "Good soil is like black gold."
+  },
+  {
+    "key": "resource_holder_name_dig_marker_coal",
+    "type": 0,
+    "en": "Coal seam",
+    "vi": "Coal seam"
+  },
+  {
+    "key": "resource_holder_info_dig_marker_coal",
+    "type": 0,
+    "en": "Black mineral remains of plants, buried before time began. Burns fiercely in hearth or forge.",
+    "vi": "Black mineral remains of plants, buried before time began. Burns fiercely in hearth or forge."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_gold",
+    "type": 0,
+    "en": "Buried treasure. Malleable, incorruptable metal for crowns and coin.",
+    "vi": "Buried treasure. Malleable, incorruptable metal for crowns and coin."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_iron",
+    "type": 0,
+    "en": "Iron-rich ore will yield metal for the forge. ",
+    "vi": "Iron-rich ore will yield metal for the forge. "
+  },
+  {
+    "key": "resource_holder_info_dig_marker_limestone",
+    "type": 0,
+    "en": "Building material, born of a million ancient, dead sea creatures. Use also to make quicklime.",
+    "vi": "Building material, born of a million ancient, dead sea creatures. Use also to make quicklime."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_salt",
+    "type": 0,
+    "en": "Precious salt for preserving food is a cornerstone of civilization. ",
+    "vi": "Precious salt for preserving food is a cornerstone of civilization. "
+  },
+  {
+    "key": "resource_holder_info_dig_marker_silver",
+    "type": 0,
+    "en": "A vein of fine, soft metal to be worked into coins or jewellery.",
+    "vi": "A vein of fine, soft metal to be worked into coins or jewellery."
+  },
+  {
+    "key": "resource_holder_info_wild_flax_patch",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen."
+  },
+  {
+    "key": "resource_holder_info_flax_patch",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen."
+  },
+  {
+    "key": "resource_holder_info_hay_patch",
+    "type": 0,
+    "en": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. ",
+    "vi": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. "
+  },
+  {
+    "key": "resource_holder_info_herbs_patch",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing."
+  },
+  {
+    "key": "resource_holder_info_shrub_generic",
+    "type": 0,
+    "en": "A Shrub. Can be harvested for wood but yields little to none.",
+    "vi": "A Shrub. Can be harvested for wood but yields little to none."
+  },
+  {
+    "key": "resource_holder_info_shrub_ivy",
+    "type": 0,
+    "en": "Hardy, climbing ivy scrambles up trees, walls and fences. It may weaken them in its tight embrace.",
+    "vi": "Hardy, climbing ivy scrambles up trees, walls and fences. It may weaken them in its tight embrace."
+  },
+  {
+    "key": "resource_holder_info_shrub_redcurrant",
+    "type": 0,
+    "en": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness.",
+    "vi": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness."
+  },
+  {
+    "key": "resource_holder_info_tree_birch",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine."
+  },
+  {
+    "key": "resource_holder_info_tree_oak",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings."
+  },
+  {
+    "key": "resource_holder_info_tree_pine",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots."
+  },
+  {
+    "key": "resource_holder_info_tree_plane",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments."
+  },
+  {
+    "key": "resource_holder_name_wild_barley_patch",
+    "type": 0,
+    "en": "Barley (Growing wild)",
+    "vi": "Barley (Growing wild)"
+  },
+  {
+    "key": "resource_holder_name_barley_patch",
+    "type": 0,
+    "en": "Barley",
+    "vi": "Barley"
+  },
+  {
+    "key": "resource_holder_name_beet_patch",
+    "type": 0,
+    "en": "Beets",
+    "vi": "Beets"
+  },
+  {
+    "key": "resource_holder_name_cabbage_patch",
+    "type": 0,
+    "en": "Cabbage",
+    "vi": "Cabbage"
+  },
+  {
+    "key": "resource_holder_name_carrot_patch",
+    "type": 0,
+    "en": "Carrots",
+    "vi": "Carrots"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_rocky",
+    "type": 0,
+    "en": "Rocky Soil",
+    "vi": "Rocky Soil"
+  },
+  {
+    "key": "resource_holder_info_dig_marker_rocky",
+    "type": 0,
+    "en": "Good soil is like black gold. But sometimes, rocky ground is all there is to work with.",
+    "vi": "Good soil is like black gold. But sometimes, rocky ground is all there is to work with."
+  },
+  {
+    "key": "resource_holder_name_dig_marker_clay",
+    "type": 0,
+    "en": "Clay Deposit",
+    "vi": "Clay Deposit"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_empty",
+    "type": 0,
+    "en": "Dirt",
+    "vi": "Dirt"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_gold",
+    "type": 0,
+    "en": "Gold Vein",
+    "vi": "Gold Vein"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_granite",
+    "type": 0,
+    "en": "Granite",
+    "vi": "Granite"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_iron",
+    "type": 0,
+    "en": "Iron Vein",
+    "vi": "Iron Vein"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_limestone",
+    "type": 0,
+    "en": "Limestone Deposit",
+    "vi": "Limestone Deposit"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_impurelimestone",
+    "type": 0,
+    "en": "Limestone Deposit (Impure)",
+    "vi": "Limestone Deposit (Impure)"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_salt",
+    "type": 0,
+    "en": "Salt Deposit",
+    "vi": "Salt Deposit"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_sand",
+    "type": 0,
+    "en": "Sand Deposit",
+    "vi": "Sand Deposit"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_silver",
+    "type": 0,
+    "en": "Silver Vein",
+    "vi": "Silver Vein"
+  },
+  {
+    "key": "resource_holder_name_wild_flax_patch",
+    "type": 0,
+    "en": "Flax (Growing wild)",
+    "vi": "Flax (Growing wild)"
+  },
+  {
+    "key": "resource_holder_name_flax_patch",
+    "type": 0,
+    "en": "Flax",
+    "vi": "Flax"
+  },
+  {
+    "key": "resource_holder_name_hay_patch",
+    "type": 0,
+    "en": "Tall Grass",
+    "vi": "Tall Grass"
+  },
+  {
+    "key": "resource_holder_name_herbs_patch",
+    "type": 0,
+    "en": "Herbs",
+    "vi": "Herbs"
+  },
+  {
+    "key": "resource_holder_name_shrub_generic",
+    "type": 0,
+    "en": "Shrub",
+    "vi": "Shrub"
+  },
+  {
+    "key": "resource_holder_name_shrub_ivy",
+    "type": 0,
+    "en": "Ivy Shrub",
+    "vi": "Ivy Shrub"
+  },
+  {
+    "key": "resource_holder_name_shrub_redcurrant",
+    "type": 0,
+    "en": "Redcurrant Shrub",
+    "vi": "Redcurrant Shrub"
+  },
+  {
+    "key": "resource_holder_name_tree_birch",
+    "type": 0,
+    "en": "Birch Tree",
+    "vi": "Birch Tree"
+  },
+  {
+    "key": "resource_holder_name_tree_oak",
+    "type": 0,
+    "en": "Oak Tree",
+    "vi": "Oak Tree"
+  },
+  {
+    "key": "resource_holder_name_tree_pine",
+    "type": 0,
+    "en": "Scots Pine",
+    "vi": "Scots Pine"
+  },
+  {
+    "key": "resource_holder_name_tree_plane",
+    "type": 0,
+    "en": "Field Maple",
+    "vi": "Field Maple"
+  },
+  {
+    "key": "resource_holder_name_tree_quince",
+    "type": 0,
+    "en": "Quince Tree",
+    "vi": "Quince Tree"
+  },
+  {
+    "key": "resource_holder_name_tree_walnut",
+    "type": 0,
+    "en": "Walnut Tree",
+    "vi": "Walnut Tree"
+  },
+  {
+    "key": "resource_holder_name_tree_damson",
+    "type": 0,
+    "en": "Damson Tree",
+    "vi": "Damson Tree"
+  },
+  {
+    "key": "resource_holder_name_tree_mulberrie",
+    "type": 0,
+    "en": "Mulberry Tree",
+    "vi": "Mulberry Tree"
+  },
+  {
+    "key": "resource_holder_info_tree_quince",
+    "type": 0,
+    "en": "Bears a legendary, tough fruit that welcomes spicing with nutmeg or cloves. ",
+    "vi": "Bears a legendary, tough fruit that welcomes spicing with nutmeg or cloves. "
+  },
+  {
+    "key": "resource_holder_info_tree_walnut",
+    "type": 0,
+    "en": "This ill-omened tree yet bears useful nuts and fine timber. Beware falling asleep in its shade, which is an invitation to malign spirits.",
+    "vi": "This ill-omened tree yet bears useful nuts and fine timber. Beware falling asleep in its shade, which is an invitation to malign spirits."
+  },
+  {
+    "key": "resource_holder_info_tree_damson",
+    "type": 0,
+    "en": "Was this damascene plum brought to England by a weary crusader? ",
+    "vi": "Was this damascene plum brought to England by a weary crusader? "
+  },
+  {
+    "key": "resource_holder_info_tree_mulberrie",
+    "type": 0,
+    "en": "Stained red since the tragic demise of Pyramus and Thisbe, this tree is often planted in the infirmary garden.",
+    "vi": "Stained red since the tragic demise of Pyramus and Thisbe, this tree is often planted in the infirmary garden."
+  },
+  {
+    "key": "resource_holder_name_shrub_blackberry",
+    "type": 0,
+    "en": "Bramble Bush",
+    "vi": "Bramble Bush"
+  },
+  {
+    "key": "resource_holder_name_shrub_sloe",
+    "type": 0,
+    "en": "Blackthorn Bush",
+    "vi": "Blackthorn Bush"
+  },
+  {
+    "key": "resource_holder_name_shrub_gooseberry",
+    "type": 0,
+    "en": "Gooseberry Bush",
+    "vi": "Gooseberry Bush"
+  },
+  {
+    "key": "resource_holder_info_shrub_blackberry",
+    "type": 0,
+    "en": "The Devil himself landed in a bramble when he was cast out of heaven. Prickly, but worth it for the prize of sweet blackberries.",
+    "vi": "The Devil himself landed in a bramble when he was cast out of heaven. Prickly, but worth it for the prize of sweet blackberries."
+  },
+  {
+    "key": "resource_holder_info_shrub_sloe",
+    "type": 0,
+    "en": "A thicket of wicked thorns, bearing bitter black sloes. The Cailleach strikes the ground with a blackthorn staff to initiate winter.",
+    "vi": "A thicket of wicked thorns, bearing bitter black sloes. The Cailleach strikes the ground with a blackthorn staff to initiate winter."
+  },
+  {
+    "key": "resource_holder_info_shrub_gooseberry",
+    "type": 0,
+    "en": "The damp and windy climate of the British Isles seems to favour this tart green fruit, also known as a fea-berry in some parts.",
+    "vi": "The damp and windy climate of the British Isles seems to favour this tart green fruit, also known as a fea-berry in some parts."
+  },
+  {
+    "key": "resource_holder_name_rose_patch",
+    "type": 0,
+    "en": "Rose Bush",
+    "vi": "Rose Bush"
+  },
+  {
+    "key": "resource_holder_info_rose_patch",
+    "type": 0,
+    "en": "The flower of love and a symbol of England. Fivefold petals represent the five wounds of Christ.",
+    "vi": "The flower of love and a symbol of England. Fivefold petals represent the five wounds of Christ."
+  },
+  {
+    "key": "resource_holder_name_belladonna_patch",
+    "type": 0,
+    "en": "Belladona",
+    "vi": "Belladona"
+  },
+  {
+    "key": "resource_holder_name_poppy_patch",
+    "type": 0,
+    "en": "Poppy Patch",
+    "vi": "Poppy Patch"
+  },
+  {
+    "key": "resource_holder_info_belladonna_patch",
+    "type": 0,
+    "en": "The veil between easing pain and death is slight with the berries from this potent plant. A witches' poison.",
+    "vi": "The veil between easing pain and death is slight with the berries from this potent plant. A witches' poison."
+  },
+  {
+    "key": "resource_holder_info_poppy_patch",
+    "type": 0,
+    "en": "In turmoil's wake, bright poppies grow. Yields seed for baking, and draughts to ease pain.",
+    "vi": "In turmoil's wake, bright poppies grow. Yields seed for baking, and draughts to ease pain."
+  },
+  {
+    "key": "resource_holder_name_tree_mighty_oak",
+    "type": 0,
+    "en": "Mighty Oak",
+    "vi": "Mighty Oak"
+  },
+  {
+    "key": "resource_holder_info_tree_mighty_oak",
+    "type": 0,
+    "en": "A doorway to the otherworld, this mighty oak bears witness to the great forests that once covered this land. Standing guard with roots in the underlands and branches in the heavens, to approach it is to seek wisdom, shelter, and rebirth.",
+    "vi": "A doorway to the otherworld, this mighty oak bears witness to the great forests that once covered this land. Standing guard with roots in the underlands and branches in the heavens, to approach it is to seek wisdom, shelter, and rebirth."
+  },
+  {
+    "key": "resource_holder_name_tree_mighty_oak_dead",
+    "type": 0,
+    "en": "Dying Mighty Oak",
+    "vi": "Dying Mighty Oak"
+  },
+  {
+    "key": "resource_holder_info_tree_mighty_oak_dead",
+    "type": 0,
+    "en": "A grove of mighty, sacred oak trees once flourished here. Now, the last one stands hollowed, overrun with mistletoe. As the Green Knight lost his head, so must this lord of the forest be felled to encourage new life.",
+    "vi": "A grove of mighty, sacred oak trees once flourished here. Now, the last one stands hollowed, overrun with mistletoe. As the Green Knight lost his head, so must this lord of the forest be felled to encourage new life."
+  },
+  {
+    "key": "resource_phase_fruitelss",
+    "type": 0,
+    "en": "Fruitless",
+    "vi": "Fruitless"
+  },
+  {
+    "key": "resource_phase_seeding",
+    "type": 0,
+    "en": "Going to seed",
+    "vi": "Going to seed"
+  },
+  {
+    "key": "resource_phase_growing",
+    "type": 0,
+    "en": "Growing",
+    "vi": "Growing"
+  },
+  {
+    "key": "resource_phase_ripening",
+    "type": 0,
+    "en": "Ripening",
+    "vi": "Ripening"
+  },
+  {
+    "key": "resource_phase_ripe",
+    "type": 0,
+    "en": "Ripe",
+    "vi": "Ripe"
+  },
+  {
+    "key": "resource_phase_young",
+    "type": 0,
+    "en": "Young",
+    "vi": "Young"
+  },
+  {
+    "key": "resource_phase_dead",
+    "type": 0,
+    "en": "Dead",
+    "vi": "Dead"
+  },
+  {
+    "key": "resource_phase_flowering",
+    "type": 0,
+    "en": "Flowering",
+    "vi": "Flowering"
+  },
+  {
+    "key": "resource_phase_budding",
+    "type": 0,
+    "en": "Budding",
+    "vi": "Budding"
+  },
+  {
+    "key": "resource_phase_mature",
+    "type": 0,
+    "en": "Mature",
+    "vi": "Mature"
+  },
+  {
+    "key": "resource_phase_sapling",
+    "type": 0,
+    "en": "Sapling",
+    "vi": "Sapling"
+  },
+  {
+    "key": "resource_phase_burned",
+    "type": 0,
+    "en": "Burnt",
+    "vi": "Burnt"
+  },
+  {
+    "key": "resource_holder_name_dig_marker_wetlandDirt",
+    "type": 0,
+    "en": "Marshy soil",
+    "vi": "Marshy soil"
+  },
+  {
+    "key": "resource_holder_info_dig_marker_wetlandDirt",
+    "type": 0,
+    "en": "A fertile soil, good for growing crops. It is waterlogged, however. Ground works, such as digging out cellars, will not succeed. ",
+    "vi": "A fertile soil, good for growing crops. It is waterlogged, however. Ground works, such as digging out cellars, will not succeed. "
+  },
+  {
+    "key": "animal_info_deer",
+    "type": 0,
+    "en": "Game forest creatures, favoured by nobles and even occasionally kept as pets. ",
+    "vi": "Game forest creatures, favoured by nobles and even occasionally kept as pets. "
+  },
+  {
+    "key": "animal_info_hare",
+    "type": 0,
+    "en": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur.",
+    "vi": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur."
+  },
+  {
+    "key": "animal_info_wolf",
+    "type": 0,
+    "en": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware.",
+    "vi": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware."
+  },
+  {
+    "key": "animal_name_deer",
+    "type": 0,
+    "en": "Deer",
+    "vi": "Deer"
+  },
+  {
+    "key": "animal_name_hare",
+    "type": 0,
+    "en": "Hare",
+    "vi": "Hare"
+  },
+  {
+    "key": "animal_name_wolf",
+    "type": 0,
+    "en": "Wolf",
+    "vi": "Wolf"
+  },
+  {
+    "key": "animal_name_boar",
+    "type": 0,
+    "en": "Boar",
+    "vi": "Boar"
+  },
+  {
+    "key": "animal_name_fox",
+    "type": 0,
+    "en": "Fox",
+    "vi": "Fox"
+  },
+  {
+    "key": "animal_name_rat",
+    "type": 0,
+    "en": "Rat",
+    "vi": "Rat"
+  },
+  {
+    "key": "animal_name_polecat",
+    "type": 0,
+    "en": "Polecat",
+    "vi": "Polecat"
+  },
+  {
+    "key": "animal_name_cow",
+    "type": 0,
+    "en": "Cattle",
+    "vi": "Cattle"
+  },
+  {
+    "key": "animal_name_goat",
+    "type": 0,
+    "en": "Goat",
+    "vi": "Goat"
+  },
+  {
+    "key": "animal_name_sheep",
+    "type": 0,
+    "en": "Sheep",
+    "vi": "Sheep"
+  },
+  {
+    "key": "animal_name_donkey",
+    "type": 0,
+    "en": "Ass",
+    "vi": "Ass"
+  },
+  {
+    "key": "animal_name_cat",
+    "type": 0,
+    "en": "Cat",
+    "vi": "Cat"
+  },
+  {
+    "key": "animal_name_dog",
+    "type": 0,
+    "en": "Dog",
+    "vi": "Dog"
+  },
+  {
+    "key": "animal_name_pheasant",
+    "type": 0,
+    "en": "Pheasant",
+    "vi": "Pheasant"
+  },
+  {
+    "key": "animal_name_chicken",
+    "type": 0,
+    "en": "Chicken",
+    "vi": "Chicken"
+  },
+  {
+    "key": "animal_name_pig",
+    "type": 0,
+    "en": "Pig",
+    "vi": "Pig"
+  },
+  {
+    "key": "animal_name_bear",
+    "type": 0,
+    "en": "Bear",
+    "vi": "Bear"
+  },
+  {
+    "key": "animal_info_bear",
+    "type": 0,
+    "en": "A mighty predator, once lost to these shores, but now resurgent and deadly. It must have escaped from a bear pit.",
+    "vi": "A mighty predator, once lost to these shores, but now resurgent and deadly. It must have escaped from a bear pit."
+  },
+  {
+    "key": "animal_name_badger",
+    "type": 0,
+    "en": "Badger",
+    "vi": "Badger"
+  },
+  {
+    "key": "animal_name_hound",
+    "type": 0,
+    "en": "Wild Hound",
+    "vi": "Wild Hound"
+  },
+  {
+    "key": "animal_name_london_pigs",
+    "type": 0,
+    "en": "London Pigs",
+    "vi": "London Pigs"
+  },
+  {
+    "key": "animal_info_boar",
+    "type": 0,
+    "en": "Grisly, and fearless in the face of death. A boar is a ferocious opponent fit for a knight in training.",
+    "vi": "Grisly, and fearless in the face of death. A boar is a ferocious opponent fit for a knight in training."
+  },
+  {
+    "key": "animal_info_wild_hound",
+    "type": 0,
+    "en": "Untended dogs will become a feral pack without a human master. Hungry, wild and vicious.",
+    "vi": "Untended dogs will become a feral pack without a human master. Hungry, wild and vicious."
+  },
+  {
+    "key": "animal_info_fox",
+    "type": 0,
+    "en": "Old Reynard the Fox is a sly trickster, who will steal your hens and worry your sheep.",
+    "vi": "Old Reynard the Fox is a sly trickster, who will steal your hens and worry your sheep."
+  },
+  {
+    "key": "animal_info_badger",
+    "type": 0,
+    "en": "These nocturnal creatures usually mind their own business, but eat everything and can be aggressive if confronted.",
+    "vi": "These nocturnal creatures usually mind their own business, but eat everything and can be aggressive if confronted."
+  },
+  {
+    "key": "animal_info_rat",
+    "type": 0,
+    "en": "The sound of scurrying and scratching, food and stores gnawed and spoiled. You smell a rat.",
+    "vi": "The sound of scurrying and scratching, food and stores gnawed and spoiled. You smell a rat."
+  },
+  {
+    "key": "animal_info_london_pigs",
+    "type": 0,
+    "en": "As London fell into ruins, feral hogs once belonging to St Anthony's hospital got a taste for human flesh. ",
+    "vi": "As London fell into ruins, feral hogs once belonging to St Anthony's hospital got a taste for human flesh. "
+  },
+  {
+    "key": "animal_info_pheasant",
+    "type": 0,
+    "en": "Best hunted with a trained hound. A pheasant is not an especially bright bird, but it is a tasty one.",
+    "vi": "Best hunted with a trained hound. A pheasant is not an especially bright bird, but it is a tasty one."
+  },
+  {
+    "key": "animal_info_sheep",
+    "type": 0,
+    "en": "Sheep turn England's grass into cash. Best kept for its valuable wool, it also yields meat, milk and hides.",
+    "vi": "Sheep turn England's grass into cash. Best kept for its valuable wool, it also yields meat, milk and hides."
+  },
+  {
+    "key": "animal_info_goat",
+    "type": 0,
+    "en": "Good for milk, meat and hides, a goat will eat almost anything, thriving even on poor land.",
+    "vi": "Good for milk, meat and hides, a goat will eat almost anything, thriving even on poor land."
+  },
+  {
+    "key": "animal_info_chicken",
+    "type": 0,
+    "en": "Our feathered friends kindly provide eggs and meat. They need regular care and guarding from predators.",
+    "vi": "Our feathered friends kindly provide eggs and meat. They need regular care and guarding from predators."
+  },
+  {
+    "key": "animal_info_cat",
+    "type": 0,
+    "en": "Useful for killing vermin, but possibly in league with the devil. Used in Cathar rites and familiar to witches.",
+    "vi": "Useful for killing vermin, but possibly in league with the devil. Used in Cathar rites and familiar to witches."
+  },
+  {
+    "key": "animal_info_dog",
+    "type": 0,
+    "en": "Whether guarding your home or at your side while hunting, a well-trained hound is justifiably a status symbol.",
+    "vi": "Whether guarding your home or at your side while hunting, a well-trained hound is justifiably a status symbol."
+  },
+  {
+    "key": "animal_info_pig",
+    "type": 0,
+    "en": "A fat hog should be fed on acorns in the forest. Can be executed for murder - mind your children.",
+    "vi": "A fat hog should be fed on acorns in the forest. Can be executed for murder - mind your children."
+  },
+  {
+    "key": "resource_holder_info_tree_apple",
+    "type": 0,
+    "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
+    "vi": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving."
+  },
+  {
+    "key": "resource_holder_name_tree_apple",
+    "type": 0,
+    "en": "Apple Tree",
+    "vi": "Apple Tree"
+  },
+  {
+    "key": "animal_info_polecat",
+    "type": 0,
+    "en": "Nocturnal predators that eat rabbits, rats and birds, these slender mammals kill with a swift bite to the neck.",
+    "vi": "Nocturnal predators that eat rabbits, rats and birds, these slender mammals kill with a swift bite to the neck."
+  },
+  {
+    "key": "animal_info_cow",
+    "type": 0,
+    "en": "Hoofy bovines reared for their meat and milk. A peasant's most prized possession.",
+    "vi": "Hoofy bovines reared for their meat and milk. A peasant's most prized possession."
+  },
+  {
+    "key": "animal_info_donkey",
+    "type": 0,
+    "en": "Obstinate, ubiquitous, hardworking. A humble beast of burden, used to carry heavy loads. ",
+    "vi": "Obstinate, ubiquitous, hardworking. A humble beast of burden, used to carry heavy loads. "
+  },
+  {
+    "key": "resource_holder_info_tree_willow",
+    "type": 0,
+    "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
+    "vi": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable."
+  },
+  {
+    "key": "resource_holder_name_tree_willow",
+    "type": 0,
+    "en": "Willow",
+    "vi": "Willow"
+  },
+  {
+    "key": "resource_holder_info_reed_patch",
+    "type": 0,
+    "en": "Growing in the shallows or on marshy ground, it blankets our lowlands with rippling gold.",
+    "vi": "Growing in the shallows or on marshy ground, it blankets our lowlands with rippling gold."
+  },
+  {
+    "key": "resource_holder_name_reed_patch",
+    "type": 0,
+    "en": "Water Reed",
+    "vi": "Water Reed"
+  },
+  {
+    "key": "animal_name_water_vole",
+    "type": 0,
+    "en": "Water Vole",
+    "vi": "Water Vole"
+  },
+  {
+    "key": "animal_info_water_vole",
+    "type": 0,
+    "en": "Bright eyes glimpsed in a tiny burrow at the water's edge. Splash! And he's gone.",
+    "vi": "Bright eyes glimpsed in a tiny burrow at the water's edge. Splash! And he's gone."
+  },
+  {
+    "key": "animal_name_mallard",
+    "type": 0,
+    "en": "Mallard",
+    "vi": "Mallard"
+  },
+  {
+    "key": "animal_info_mallard",
+    "type": 0,
+    "en": "Dabbling waterfowl. The females are brown, but the males are jewel-bright green and blue.",
+    "vi": "Dabbling waterfowl. The females are brown, but the males are jewel-bright green and blue."
+  },
+  {
+    "key": "animal_name_fish_pike",
+    "type": 0,
+    "en": "Pike",
+    "vi": "Pike"
+  },
+  {
+    "key": "animal_info_fish_pike",
+    "type": 0,
+    "en": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon.",
+    "vi": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon."
+  },
+  {
+    "key": "animal_name_fish_trout",
+    "type": 0,
+    "en": "Trout",
+    "vi": "Trout"
+  },
+  {
+    "key": "animal_info_fish_trout",
+    "type": 0,
+    "en": "Common enough where the waters are clear and small bugs plentiful. Delicious fried, stuffed with butter and lovage.",
+    "vi": "Common enough where the waters are clear and small bugs plentiful. Delicious fried, stuffed with butter and lovage."
+  },
+  {
+    "key": "animal_name_eel",
+    "type": 0,
+    "en": "Eel",
+    "vi": "Eel"
+  },
+  {
+    "key": "animal_info_eel",
+    "type": 0,
+    "en": "A staple for the pot at lent, our wriggly friend is also delicious fried, spiced and cooked in verjuice to create a tempting Saracen broth.",
+    "vi": "A staple for the pot at lent, our wriggly friend is also delicious fried, spiced and cooked in verjuice to create a tempting Saracen broth."
+  },
+  {
+    "key": "animal_color_albino",
+    "type": 0,
+    "en": "Albino",
+    "vi": "Albino"
+  },
+  {
+    "key": "animal_color_bear_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_bear_back_spot",
+    "type": 0,
+    "en": "Shoulder Stripe",
+    "vi": "Shoulder Stripe"
+  },
+  {
+    "key": "animal_color_bear_ginger",
+    "type": 0,
+    "en": "Cinnamon",
+    "vi": "Cinnamon"
+  },
+  {
+    "key": "animal_color_boar_default",
+    "type": 0,
+    "en": "Grizzled brown",
+    "vi": "Grizzled brown"
+  },
+  {
+    "key": "animal_color_boar_light",
+    "type": 0,
+    "en": "Tawny",
+    "vi": "Tawny"
+  },
+  {
+    "key": "animal_color_boar_pink",
+    "type": 0,
+    "en": "Pale",
+    "vi": "Pale"
+  },
+  {
+    "key": "animal_color_boar_spotted",
+    "type": 0,
+    "en": "Speckled",
+    "vi": "Speckled"
+  },
+  {
+    "key": "animal_color_boar_striped",
+    "type": 0,
+    "en": "Striped",
+    "vi": "Striped"
+  },
+  {
+    "key": "animal_color_cat_default",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_cat_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_cat_calico",
+    "type": 0,
+    "en": "Tortoiseshell-and-white",
+    "vi": "Tortoiseshell-and-white"
+  },
+  {
+    "key": "animal_color_cat_calico_gray",
+    "type": 0,
+    "en": "Soft Tortoiseshell",
+    "vi": "Soft Tortoiseshell"
+  },
+  {
+    "key": "animal_color_cat_eyebrows",
+    "type": 0,
+    "en": "Black Tortoiseshell",
+    "vi": "Black Tortoiseshell"
+  },
+  {
+    "key": "animal_color_cat_hoshi",
+    "type": 0,
+    "en": "Blue",
+    "vi": "Blue"
+  },
+  {
+    "key": "animal_color_cat_mico",
+    "type": 0,
+    "en": "Tabby-and-white",
+    "vi": "Tabby-and-white"
+  },
+  {
+    "key": "animal_color_cat_miki",
+    "type": 0,
+    "en": "Grey Piebald",
+    "vi": "Grey Piebald"
+  },
+  {
+    "key": "animal_color_cat_orange",
+    "type": 0,
+    "en": "Ginger",
+    "vi": "Ginger"
+  },
+  {
+    "key": "animal_color_cat_orange_white",
+    "type": 0,
+    "en": "Orange Piebald",
+    "vi": "Orange Piebald"
+  },
+  {
+    "key": "animal_color_cat_siamese",
+    "type": 0,
+    "en": "Colorpoint",
+    "vi": "Colorpoint"
+  },
+  {
+    "key": "animal_color_cat_tabby",
+    "type": 0,
+    "en": "Tabby",
+    "vi": "Tabby"
+  },
+  {
+    "key": "animal_color_cat_tiger",
+    "type": 0,
+    "en": "Orange tabby",
+    "vi": "Orange tabby"
+  },
+  {
+    "key": "animal_color_cat_tortie",
+    "type": 0,
+    "en": "Tortoiseshell",
+    "vi": "Tortoiseshell"
+  },
+  {
+    "key": "animal_color_cat_tuxedo",
+    "type": 0,
+    "en": "Black Piebald",
+    "vi": "Black Piebald"
+  },
+  {
+    "key": "animal_color_cat_van",
+    "type": 0,
+    "en": "Coloured tips",
+    "vi": "Coloured tips"
+  },
+  {
+    "key": "animal_color_cat_white",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_chicken_default",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_chicken_red",
+    "type": 0,
+    "en": "Red",
+    "vi": "Red"
+  },
+  {
+    "key": "animal_color_chicken_brown",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_chicken_buff",
+    "type": 0,
+    "en": "Buff ",
+    "vi": "Buff "
+  },
+  {
+    "key": "animal_color_chicken_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_chicken_speckled",
+    "type": 0,
+    "en": "Speckled",
+    "vi": "Speckled"
+  },
+  {
+    "key": "animal_color_chicken_black_and_white",
+    "type": 0,
+    "en": "Black tipped",
+    "vi": "Black tipped"
+  },
+  {
+    "key": "animal_color_chicken_light",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Silver"
+  },
+  {
+    "key": "animal_color_chicken_lightly_spotted",
+    "type": 0,
+    "en": "Light Speckled",
+    "vi": "Light Speckled"
+  },
+  {
+    "key": "animal_color_chicken_red_green",
+    "type": 0,
+    "en": "Green plumed",
+    "vi": "Green plumed"
+  },
+  {
+    "key": "animal_color_chicken_red_white",
+    "type": 0,
+    "en": "Red and white",
+    "vi": "Red and white"
+  },
+  {
+    "key": "animal_color_chicken_spotted",
+    "type": 0,
+    "en": "Dark Speckled",
+    "vi": "Dark Speckled"
+  },
+  {
+    "key": "animal_color_chicken_yellow",
+    "type": 0,
+    "en": "Golden",
+    "vi": "Golden"
+  },
+  {
+    "key": "animal_color_cow_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_cow_beige",
+    "type": 0,
+    "en": "Cream",
+    "vi": "Cream"
+  },
+  {
+    "key": "animal_color_cow_black_pattern",
+    "type": 0,
+    "en": "Charcoal",
+    "vi": "Charcoal"
+  },
+  {
+    "key": "animal_color_cow_black_and_white",
+    "type": 0,
+    "en": "Black and White",
+    "vi": "Black and White"
+  },
+  {
+    "key": "animal_color_cow_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_cow_brown_pattern",
+    "type": 0,
+    "en": "Belted",
+    "vi": "Belted"
+  },
+  {
+    "key": "animal_color_cow_brown_spotted",
+    "type": 0,
+    "en": "Speckled",
+    "vi": "Speckled"
+  },
+  {
+    "key": "animal_color_cow_spotted",
+    "type": 0,
+    "en": "Mottled grey",
+    "vi": "Mottled grey"
+  },
+  {
+    "key": "animal_color_cow_tortie",
+    "type": 0,
+    "en": "Striped",
+    "vi": "Striped"
+  },
+  {
+    "key": "animal_color_deer_default",
+    "type": 0,
+    "en": "Tan",
+    "vi": "Tan"
+  },
+  {
+    "key": "animal_color_deer_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_deer_dark",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_deer_spotted",
+    "type": 0,
+    "en": "Dappled",
+    "vi": "Dappled"
+  },
+  {
+    "key": "animal_color_deer_white",
+    "type": 0,
+    "en": "Menil",
+    "vi": "Menil"
+  },
+  {
+    "key": "animal_color_dog_default",
+    "type": 0,
+    "en": "Fawn",
+    "vi": "Fawn"
+  },
+  {
+    "key": "animal_color_dog_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_dog_black_mostly",
+    "type": 0,
+    "en": "Black and Tan",
+    "vi": "Black and Tan"
+  },
+  {
+    "key": "animal_color_dog_black_and_white",
+    "type": 0,
+    "en": "Black and White",
+    "vi": "Black and White"
+  },
+  {
+    "key": "animal_color_dog_black_and_yellow",
+    "type": 0,
+    "en": "Black and Golden",
+    "vi": "Black and Golden"
+  },
+  {
+    "key": "animal_color_dog_black_yellow_white",
+    "type": 0,
+    "en": "Mixed",
+    "vi": "Mixed"
+  },
+  {
+    "key": "animal_color_dog_bullenbeisser",
+    "type": 0,
+    "en": "Brindled",
+    "vi": "Brindled"
+  },
+  {
+    "key": "animal_color_dog_collie",
+    "type": 0,
+    "en": "Mottled",
+    "vi": "Mottled"
+  },
+  {
+    "key": "animal_color_dog_dalmatian",
+    "type": 0,
+    "en": "Spotted",
+    "vi": "Spotted"
+  },
+  {
+    "key": "animal_color_dog_greyhound",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_dog_greyhound_stripes",
+    "type": 0,
+    "en": "Grey stripes",
+    "vi": "Grey stripes"
+  },
+  {
+    "key": "animal_color_dog_red_white",
+    "type": 0,
+    "en": "Auburn and White",
+    "vi": "Auburn and White"
+  },
+  {
+    "key": "animal_color_dog_yellow_white",
+    "type": 0,
+    "en": "Tan and White",
+    "vi": "Tan and White"
+  },
+  {
+    "key": "animal_color_donkey_default",
+    "type": 0,
+    "en": "Dun",
+    "vi": "Dun"
+  },
+  {
+    "key": "animal_color_donkey_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_donkey_chestnut",
+    "type": 0,
+    "en": "Chestnut",
+    "vi": "Chestnut"
+  },
+  {
+    "key": "animal_color_donkey_cross",
+    "type": 0,
+    "en": "Jerusalem Cross",
+    "vi": "Jerusalem Cross"
+  },
+  {
+    "key": "animal_color_donkey_diamond",
+    "type": 0,
+    "en": "Starred brown",
+    "vi": "Starred brown"
+  },
+  {
+    "key": "animal_color_donkey_roan",
+    "type": 0,
+    "en": "Roan",
+    "vi": "Roan"
+  },
+  {
+    "key": "animal_color_donkey_rose",
+    "type": 0,
+    "en": "Sorrel",
+    "vi": "Sorrel"
+  },
+  {
+    "key": "animal_color_donkey_spotted",
+    "type": 0,
+    "en": "Spotted",
+    "vi": "Spotted"
+  },
+  {
+    "key": "animal_color_fox_default",
+    "type": 0,
+    "en": "Red",
+    "vi": "Red"
+  },
+  {
+    "key": "animal_color_fox_amber",
+    "type": 0,
+    "en": "Amber",
+    "vi": "Amber"
+  },
+  {
+    "key": "animal_color_fox_blonde",
+    "type": 0,
+    "en": "Blonde",
+    "vi": "Blonde"
+  },
+  {
+    "key": "animal_color_fox_red",
+    "type": 0,
+    "en": "Auburn",
+    "vi": "Auburn"
+  },
+  {
+    "key": "animal_color_fox_yellow",
+    "type": 0,
+    "en": "Rust",
+    "vi": "Rust"
+  },
+  {
+    "key": "animal_color_goat_alpine",
+    "type": 0,
+    "en": "Chamoisee",
+    "vi": "Chamoisee"
+  },
+  {
+    "key": "animal_color_goat_black_neck",
+    "type": 0,
+    "en": "Pied",
+    "vi": "Pied"
+  },
+  {
+    "key": "animal_color_goat_black_head",
+    "type": 0,
+    "en": "Dark Brown",
+    "vi": "Dark Brown"
+  },
+  {
+    "key": "animal_color_goat_grey",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_goat_brown",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_goat_brown_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_goat_brown_head",
+    "type": 0,
+    "en": "Tan",
+    "vi": "Tan"
+  },
+  {
+    "key": "animal_color_goat_default",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_goat_rove",
+    "type": 0,
+    "en": "Pied Blond",
+    "vi": "Pied Blond"
+  },
+  {
+    "key": "animal_color_hare_default",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_hare_blue",
+    "type": 0,
+    "en": "Blue",
+    "vi": "Blue"
+  },
+  {
+    "key": "animal_color_hare_brown",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_hare_lilac",
+    "type": 0,
+    "en": "Buff",
+    "vi": "Buff"
+  },
+  {
+    "key": "animal_color_hare_opal",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_hare_sable",
+    "type": 0,
+    "en": "Sable",
+    "vi": "Sable"
+  },
+  {
+    "key": "animal_color_hare_spotted",
+    "type": 0,
+    "en": "Countershaded",
+    "vi": "Countershaded"
+  },
+  {
+    "key": "animal_color_mallard_duck_female_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_mallard_duck_female_dark_wing",
+    "type": 0,
+    "en": "Bronze",
+    "vi": "Bronze"
+  },
+  {
+    "key": "animal_color_mallard_duck_female_white_wing",
+    "type": 0,
+    "en": "Mottled Auburn",
+    "vi": "Mottled Auburn"
+  },
+  {
+    "key": "animal_color_mallard_duck_male_default",
+    "type": 0,
+    "en": "Green Head",
+    "vi": "Green Head"
+  },
+  {
+    "key": "animal_color_mallard_duck_male_dark",
+    "type": 0,
+    "en": "Emerald Head",
+    "vi": "Emerald Head"
+  },
+  {
+    "key": "animal_color_mallard_duck_male_sepia",
+    "type": 0,
+    "en": "Thyme Head",
+    "vi": "Thyme Head"
+  },
+  {
+    "key": "animal_color_pheasant_female_default",
+    "type": 0,
+    "en": "Mottled Sandy",
+    "vi": "Mottled Sandy"
+  },
+  {
+    "key": "animal_color_pheasant_female_dark_tail",
+    "type": 0,
+    "en": "Mottled Pale",
+    "vi": "Mottled Pale"
+  },
+  {
+    "key": "animal_color_pheasant_female_grey",
+    "type": 0,
+    "en": "Mottled Grey",
+    "vi": "Mottled Grey"
+  },
+  {
+    "key": "animal_color_pheasant_female_white",
+    "type": 0,
+    "en": "Mottled White",
+    "vi": "Mottled White"
+  },
+  {
+    "key": "animal_color_pheasant_male_default",
+    "type": 0,
+    "en": "Cerulean Head",
+    "vi": "Cerulean Head"
+  },
+  {
+    "key": "animal_color_pheasant_male_green_plume",
+    "type": 0,
+    "en": "Emerald Head",
+    "vi": "Emerald Head"
+  },
+  {
+    "key": "animal_color_pheasant_male_white_tail",
+    "type": 0,
+    "en": "Green Head",
+    "vi": "Green Head"
+  },
+  {
+    "key": "animal_color_pheasant_male_white_tail_blue_plume",
+    "type": 0,
+    "en": "Blue Head",
+    "vi": "Blue Head"
+  },
+  {
+    "key": "animal_color_polecat_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_polecat_auburn",
+    "type": 0,
+    "en": "Tawny",
+    "vi": "Tawny"
+  },
+  {
+    "key": "animal_color_polecat_auburn_stripes",
+    "type": 0,
+    "en": "Banded",
+    "vi": "Banded"
+  },
+  {
+    "key": "animal_color_polecat_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_polecat_spots",
+    "type": 0,
+    "en": "Speckled",
+    "vi": "Speckled"
+  },
+  {
+    "key": "animal_color_rat_default",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_rat_brown",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_rat_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_rat_grey",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_rat_light",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Silver"
+  },
+  {
+    "key": "animal_color_rat_mangy",
+    "type": 0,
+    "en": "Speckled Grey",
+    "vi": "Speckled Grey"
+  },
+  {
+    "key": "animal_color_sheep_default",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_sheep_bersugget",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_sheep_bieslet",
+    "type": 0,
+    "en": "White-faced brown",
+    "vi": "White-faced brown"
+  },
+  {
+    "key": "animal_color_sheep_grey",
+    "type": 0,
+    "en": "Dark Grey",
+    "vi": "Dark Grey"
+  },
+  {
+    "key": "animal_color_sheep_iglet",
+    "type": 0,
+    "en": "White",
+    "vi": "White"
+  },
+  {
+    "key": "animal_color_sheep_katmoget",
+    "type": 0,
+    "en": "Black tipped",
+    "vi": "Black tipped"
+  },
+  {
+    "key": "animal_color_sheep_smirslet",
+    "type": 0,
+    "en": "Dark face white muzzle",
+    "vi": "Dark face white muzzle"
+  },
+  {
+    "key": "animal_color_sheep_yuglet",
+    "type": 0,
+    "en": "Pale-faced brown",
+    "vi": "Pale-faced brown"
+  },
+  {
+    "key": "animal_color_sheep_black",
+    "type": 0,
+    "en": "Black",
+    "vi": "Black"
+  },
+  {
+    "key": "animal_color_sheep_piebald",
+    "type": 0,
+    "en": "Piebald ",
+    "vi": "Piebald "
+  },
+  {
+    "key": "animal_color_water_vole_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_water_vole_dark",
+    "type": 0,
+    "en": "Dark Brown",
+    "vi": "Dark Brown"
+  },
+  {
+    "key": "animal_color_water_vole_light",
+    "type": 0,
+    "en": "Beige",
+    "vi": "Beige"
+  },
+  {
+    "key": "animal_color_water_vole_mangy",
+    "type": 0,
+    "en": "Dappled",
+    "vi": "Dappled"
+  },
+  {
+    "key": "animal_color_wolf_default",
+    "type": 0,
+    "en": "Brown",
+    "vi": "Brown"
+  },
+  {
+    "key": "animal_color_wolf_02",
+    "type": 0,
+    "en": "Grey",
+    "vi": "Grey"
+  },
+  {
+    "key": "animal_color_wolf_black_snout",
+    "type": 0,
+    "en": "Mixed",
+    "vi": "Mixed"
+  },
+  {
+    "key": "animal_color_wolf_grey_white",
+    "type": 0,
+    "en": "Buff",
+    "vi": "Buff"
+  },
+  {
+    "key": "animal_color_wolf_light",
+    "type": 0,
+    "en": "Beige",
+    "vi": "Beige"
+  },
+  {
+    "key": "animal_color_wolf_light_brown",
+    "type": 0,
+    "en": "Cream",
+    "vi": "Cream"
+  },
+  {
+    "key": "cannot_plant_on_edge",
+    "type": 0,
+    "en": "Cannot place crop field this close to edge of map",
+    "vi": "Cannot place crop field this close to edge of map"
+  },
+  {
+    "key": "plant_cut_failed",
+    "type": 0,
+    "en": "Plant reaping mishandled",
+    "vi": "Plant reaping mishandled"
+  },
+  {
+    "key": "warning_message_info_group_of_animals_start",
+    "type": 0,
+    "en": "A group of animals has arrived (<number> <animal>)",
+    "vi": "A group of animals has arrived (<number> <animal>)"
+  },
+  {
+    "key": "warning_message_info_group_of_animals_leave",
+    "type": 0,
+    "en": "The <animal> group has left ",
+    "vi": "The <animal> group has left "
+  },
+  {
+    "key": "warning_message_short_animals_hungry",
+    "type": 0,
+    "en": "<style=DefaultRed>Animals are hungry</style>",
+    "vi": "<style=DefaultRed>Animals are hungry</style>"
+  },
+  {
+    "key": "warning_message_info_animals_hungry",
+    "type": 0,
+    "en": "Your animals are hungry. Feed them, otherwise they might die of starvation. You can check each animal's diet in the almanac. Ensure that they can access piles of appropriate resources.",
+    "vi": "Your animals are hungry. Feed them, otherwise they might die of starvation. You can check each animal's diet in the almanac. Ensure that they can access piles of appropriate resources."
+  },
+  {
+    "key": "message_animal_died",
+    "type": 0,
+    "en": "<name> the <animal> has died",
+    "vi": "<name> the <animal> has died"
+  },
+  {
+    "key": "message_animal_birth",
+    "type": 0,
+    "en": "<name> the <animal> has given birth to",
+    "vi": "<name> the <animal> has given birth to"
+  },
+  {
+    "key": "food_treshold_00",
+    "type": 0,
+    "en": "Not Hungry",
+    "vi": "Not Hungry"
+  },
+  {
+    "key": "food_treshold_01",
+    "type": 0,
+    "en": "Slightly Hungry",
+    "vi": "Slightly Hungry"
+  },
+  {
+    "key": "food_treshold_02",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "food_treshold_03",
+    "type": 0,
+    "en": "Ravenous",
+    "vi": "Ravenous"
+  },
+  {
+    "key": "food_treshold_04",
+    "type": 0,
+    "en": "Starving",
+    "vi": "Starving"
+  },
+  {
+    "key": "worker_action_RelocateResourcePileGoal",
+    "type": 0,
+    "en": "Relocating piles",
+    "vi": "Relocating piles"
+  },
+  {
+    "key": "worker_action_delivercarpentryresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercarpentryresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercookingresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercookingresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercraftingresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercraftingresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_deliverresearchresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_deliverresearchresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_deliversmithingresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_deliversmithingresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivertailoringresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivertailoringresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercarcassdisposalresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_deliverchemistryresourcesgoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_plantcropsgoal",
+    "type": 0,
+    "en": "Gardening",
+    "vi": "Gardening"
+  },
+  {
+    "key": "worker_action_productionresourcecategorygoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_productionresourcegoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_delivercarpentryresourcedismantlegoal",
+    "type": 0,
+    "en": "Getting item to dismantle",
+    "vi": "Getting item to dismantle"
+  },
+  {
+    "key": "worker_action_deliversmithingresourcedismantlegoal",
+    "type": 0,
+    "en": "Getting item to dismantle",
+    "vi": "Getting item to dismantle"
+  },
+  {
+    "key": "worker_action_delivertailoringresourcedismantlegoal",
+    "type": 0,
+    "en": "Getting item to dismantle",
+    "vi": "Getting item to dismantle"
+  },
+  {
+    "key": "worker_action_delivercraftingresourcedismantlegoal",
+    "type": 0,
+    "en": "Getting item to dismantle",
+    "vi": "Getting item to dismantle"
+  },
+  {
+    "key": "worker_action_productionanimalgoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_deliveranimalresourcesGoal",
+    "type": 0,
+    "en": "Getting resources",
+    "vi": "Getting resources"
+  },
+  {
+    "key": "worker_action_slaughterAnimalGoal",
+    "type": 0,
+    "en": "Slaughtering Animal",
+    "vi": "Slaughtering Animal"
+  },
+  {
+    "key": "worker_action_tameAnimalGoal",
+    "type": 0,
+    "en": "Taming Animal",
+    "vi": "Taming Animal"
+  },
+  {
+    "key": "worker_action_trainAnimalGoal",
+    "type": 0,
+    "en": "Training Animal",
+    "vi": "Training Animal"
+  },
+  {
+    "key": "worker_action_ropeAnimalGoal",
+    "type": 0,
+    "en": "Roping Animal",
+    "vi": "Roping Animal"
+  },
+  {
+    "key": "worker_action_releaseAnimalGoal",
+    "type": 0,
+    "en": "Releasing Animal",
+    "vi": "Releasing Animal"
+  },
+  {
+    "key": "worker_action_harvestAnimalGoal",
+    "type": 0,
+    "en": "Harvesting Animal",
+    "vi": "Harvesting Animal"
+  }
+]

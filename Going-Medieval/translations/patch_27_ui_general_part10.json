@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "mountain_bandits_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  },
+  {
+    "key": "river_bandits_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  },
+  {
+    "key": "looters_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  },
+  {
+    "key": "non_partisan_nomads",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  },
+  {
+    "key": "mod_id",
+    "type": 0,
+    "en": "Mod Id",
+    "vi": "Mod Id"
+  },
+  {
+    "key": "mod_author",
+    "type": 0,
+    "en": "Author",
+    "vi": "Author"
+  },
+  {
+    "key": "mod_game_version",
+    "type": 0,
+    "en": "Game Version",
+    "vi": "Game Version"
+  },
+  {
+    "key": "mod_tags",
+    "type": 0,
+    "en": "Tags",
+    "vi": "Tags"
+  },
+  {
+    "key": "get_mods",
+    "type": 0,
+    "en": "Get Mods",
+    "vi": "Get Mods"
+  },
+  {
+    "key": "get_more",
+    "type": 0,
+    "en": "Get More",
+    "vi": "Get More"
+  },
+  {
+    "key": "general_upload",
+    "type": 0,
+    "en": "Upload",
+    "vi": "Upload"
+  },
+  {
+    "key": "create_new",
+    "type": 0,
+    "en": "Create New",
+    "vi": "Create New"
+  },
+  {
+    "key": "mod_delete",
+    "type": 0,
+    "en": "Delete/Unsubscribe",
+    "vi": "Delete/Unsubscribe"
+  },
+  {
+    "key": "mod_delete_info",
+    "type": 0,
+    "en": "Unsubscribe From this mod and delete if locally from your computer",
+    "vi": "Unsubscribe From this mod and delete if locally from your computer"
+  },
+  {
+    "key": "mod_edit",
+    "type": 0,
+    "en": "Edit",
+    "vi": "Edit"
+  },
+  {
+    "key": "mod_edit_info",
+    "type": 0,
+    "en": "As you are the author of this mod you can edit it",
+    "vi": "As you are the author of this mod you can edit it"
+  },
+  {
+    "key": "mod_open_local_directory",
+    "type": 0,
+    "en": "Open Folder",
+    "vi": "Open Folder"
+  },
+  {
+    "key": "mod_open_local_directory_info",
+    "type": 0,
+    "en": "Open the local folder where the mod is stored on your computer",
+    "vi": "Open the local folder where the mod is stored on your computer"
+  },
+  {
+    "key": "workshop_update",
+    "type": 0,
+    "en": "Update",
+    "vi": "Update"
+  },
+  {
+    "key": "workshop_update_info",
+    "type": 0,
+    "en": "As you are the author of this mod you can change it and upload the updated version",
+    "vi": "As you are the author of this mod you can change it and upload the updated version"
+  },
+  {
+    "key": "workshop_upload",
+    "type": 0,
+    "en": "Upload",
+    "vi": "Upload"
+  },
+  {
+    "key": "workshop_upload_info",
+    "type": 0,
+    "en": "This mod only exists local on your machine. Upload it to steam workshop to share it with others ",
+    "vi": "This mod only exists local on your machine. Upload it to steam workshop to share it with others "
+  },
+  {
+    "key": "workshop_open",
+    "type": 0,
+    "en": "Steam Workshop",
+    "vi": "Steam Workshop"
+  },
+  {
+    "key": "workshop_open_info",
+    "type": 0,
+    "en": "Open the Steam Workshop page of this mod",
+    "vi": "Open the Steam Workshop page of this mod"
+  },
+  {
+    "key": "steam_workshop_upload_prompt",
+    "type": 0,
+    "en": "This action will upload this item to the Steam Workshop, do you want to proceed?",
+    "vi": "This action will upload this item to the Steam Workshop, do you want to proceed?"
+  },
+  {
+    "key": "create_new_mod_loc_template",
+    "type": 0,
+    "en": "This action will create English version of localization ready for modding on your hard drive. Do you wish to proceed?",
+    "vi": "This action will create English version of localization ready for modding on your hard drive. Do you wish to proceed?"
+  },
+  {
+    "key": "create_new_mod_template",
+    "type": 0,
+    "en": "This action will create empty mod template on your hard drive. Do you wish to proceed?",
+    "vi": "This action will create empty mod template on your hard drive. Do you wish to proceed?"
+  },
+  {
+    "key": "delete_remote_mod_prompt",
+    "type": 0,
+    "en": "Are you sure you want to unsubscribe from this mod. doing so will delete it locally as well ",
+    "vi": "Are you sure you want to unsubscribe from this mod. doing so will delete it locally as well "
+  },
+  {
+    "key": "delete_local_mod_prompt",
+    "type": 0,
+    "en": "Are you sure you want to delete this mod from your computer?",
+    "vi": "Are you sure you want to delete this mod from your computer?"
+  },
+  {
+    "key": "mod_version",
+    "type": 0,
+    "en": "Mod Version",
+    "vi": "Mod Version"
+  },
+  {
+    "key": "new_mod_created",
+    "type": 0,
+    "en": "New mod template created at <path>",
+    "vi": "New mod template created at <path>"
+  },
+  {
+    "key": "general_show",
+    "type": 0,
+    "en": "Show",
+    "vi": "Show"
+  },
+  {
+    "key": "eula_accept_prompt",
+    "type": 0,
+    "en": "To use or create mods, please confirm you have read and accept the game's <link=\"web_eula_link\"><style=LinkWorker>Terms of Use</style></link> ",
+    "vi": "To use or create mods, please confirm you have read and accept the game's <link=\"web_eula_link\"><style=LinkWorker>Terms of Use</style></link> "
+  },
+  {
+    "key": "general_do _not_accept",
+    "type": 0,
+    "en": "Do Not Accept",
+    "vi": "Do Not Accept"
+  },
+  {
+    "key": "error_create_directory",
+    "type": 0,
+    "en": "Could not create new directory. Please check do you have necessary rights to write to Documents directory. ",
+    "vi": "Could not create new directory. Please check do you have necessary rights to write to Documents directory. "
+  },
+  {
+    "key": "and_more",
+    "type": 0,
+    "en": "And more...",
+    "vi": "And more..."
+  },
+  {
+    "key": "dev_activateAllResearch_off",
+    "type": 0,
+    "en": "Activate all research",
+    "vi": "Activate all research"
+  },
+  {
+    "key": "dev_activateAllResearch_on",
+    "type": 0,
+    "en": "Revert activated research",
+    "vi": "Revert activated research"
+  },
+  {
+    "key": "dev_autoprod_worker_off",
+    "type": 0,
+    "en": "Instant Production: Off",
+    "vi": "Instant Production: Off"
+  },
+  {
+    "key": "dev_autoprod_worker_on",
+    "type": 0,
+    "en": "Instant Production : On",
+    "vi": "Instant Production : On"
+  },
+  {
+    "key": "dev_damage_voxel",
+    "type": 0,
+    "en": "Damage Voxel",
+    "vi": "Damage Voxel"
+  },
+  {
+    "key": "dev_destroy_pile",
+    "type": 0,
+    "en": "Destroy Pile on Point",
+    "vi": "Destroy Pile on Point"
+  },
+  {
+    "key": "dev_dev",
+    "type": 0,
+    "en": "Dev",
+    "vi": "Dev"
+  },
+  {
+    "key": "dev_draw_effect_map",
+    "type": 0,
+    "en": "Draw Effect Map",
+    "vi": "Draw Effect Map"
+  },
+  {
+    "key": "dev_draw_map_mask",
+    "type": 0,
+    "en": "Draw Map Mask",
+    "vi": "Draw Map Mask"
+  },
+  {
+    "key": "dev_general_actions",
+    "type": 0,
+    "en": "General",
+    "vi": "General"
+  },
+  {
+    "key": "dev_instant_dig_off",
+    "type": 0,
+    "en": "Instant Dig: Off",
+    "vi": "Instant Dig: Off"
+  },
+  {
+    "key": "dev_instant_dig_on",
+    "type": 0,
+    "en": "Instant Dig: On",
+    "vi": "Instant Dig: On"
+  },
+  {
+    "key": "dev_map",
+    "type": 0,
+    "en": "Map",
+    "vi": "Map"
+  },
+  {
+    "key": "dev_mark_workers_for_attack",
+    "type": 0,
+    "en": "Attack Settlers",
+    "vi": "Attack Settlers"
+  },
+  {
+    "key": "dev_production_speed_max",
+    "type": 0,
+    "en": "Production Speed: Max",
+    "vi": "Production Speed: Max"
+  },
+  {
+    "key": "dev_production_speed_normal",
+    "type": 0,
+    "en": "Production Speed: Normal",
+    "vi": "Production Speed: Normal"
+  },
+  {
+    "key": "dev_remove_all_attack_marks",
+    "type": 0,
+    "en": "Remove Targets",
+    "vi": "Remove Targets"
+  },
+  {
+    "key": "dev_remove_worker",
+    "type": 0,
+    "en": "Remove Settler",
+    "vi": "Remove Settler"
+  },
+  {
+    "key": "dev_reset_workers",
+    "type": 0,
+    "en": "Reset Settlers",
+    "vi": "Reset Settlers"
+  },
+  {
+    "key": "dev_set_worker_hunger_1",
+    "type": 0,
+    "en": "Creature Hunger: Starving",
+    "vi": "Creature Hunger: Starving"
+  },
+  {
+    "key": "dev_set_worker_hunger_100",
+    "type": 0,
+    "en": "Creature Hunger: Full",
+    "vi": "Creature Hunger: Full"
+  },
+  {
+    "key": "dev_set_worker_hunger_50",
+    "type": 0,
+    "en": "Creature Hunger: Hungry",
+    "vi": "Creature Hunger: Hungry"
+  },
+  {
+    "key": "dev_set_worker_sleep",
+    "type": 0,
+    "en": "Set Creature Sleep",
+    "vi": "Set Creature Sleep"
+  },
+  {
+    "key": "dev_set_worker_sleep_1",
+    "type": 0,
+    "en": "Creature Sleep: Exhausted",
+    "vi": "Creature Sleep: Exhausted"
+  },
+  {
+    "key": "dev_set_worker_sleep_100",
+    "type": 0,
+    "en": "Creature Sleep: Well Rested",
+    "vi": "Creature Sleep: Well Rested"
+  },
+  {
+    "key": "dev_set_worker_sleep_50",
+    "type": 0,
+    "en": "Creature Sleep: Tired",
+    "vi": "Creature Sleep: Tired"
+  },
+  {
+    "key": "dev_spawn_enemy",
+    "type": 0,
+    "en": "Spawn 1x enemy",
+    "vi": "Spawn 1x enemy"
+  },
+  {
+    "key": "dev_spawn_worker_1",
+    "type": 0,
+    "en": "Spawn Settler",
+    "vi": "Spawn Settler"
+  },
+  {
+    "key": "dev_spawn_worker_10",
+    "type": 0,
+    "en": "Spawn 10 Settlers",
+    "vi": "Spawn 10 Settlers"
+  },
+  {
+    "key": "dev_start_planer",
+    "type": 0,
+    "en": "Start Planer",
+    "vi": "Start Planer"
+  },
+  {
+    "key": "dev_toggle_positionining_box",
+    "type": 0,
+    "en": "Toggle position box",
+    "vi": "Toggle position box"
+  },
+  {
+    "key": "dev_voxel_info",
+    "type": 0,
+    "en": "Show Voxel Info",
+    "vi": "Show Voxel Info"
+  },
+  {
+    "key": "dev_weather_view",
+    "type": 0,
+    "en": "Show weather info",
+    "vi": "Show weather info"
+  },
+  {
+    "key": "unique_id",
+    "type": 0,
+    "en": "Unique ID",
+    "vi": "Unique ID"
+  },
+  {
+    "key": "map_size_dev_100",
+    "type": 0,
+    "en": "dev 100",
+    "vi": "dev 100"
+  },
+  {
+    "key": "map_size_dev_512",
+    "type": 0,
+    "en": "dev 512",
+    "vi": "dev 512"
+  },
+  {
+    "key": "dev_delete_all",
+    "type": 0,
+    "en": "Delete All Saves",
+    "vi": "Delete All Saves"
+  },
+  {
+    "key": "dev_workers",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Settlers"
+  },
+  {
+    "key": "dev_toggle_altCamera_on",
+    "type": 0,
+    "en": "Alternative Camera: On",
+    "vi": "Alternative Camera: On"
+  },
+  {
+    "key": "dev_toggle_altCamera_off",
+    "type": 0,
+    "en": "Alternative Camera: Off",
+    "vi": "Alternative Camera: Off"
+  },
+  {
+    "key": "dev_toggle_ui_on",
+    "type": 0,
+    "en": "UI: Off",
+    "vi": "UI: Off"
+  },
+  {
+    "key": "dev_toggle_ui_off",
+    "type": 0,
+    "en": "UI: On",
+    "vi": "UI: On"
+  },
+  {
+    "key": "dev_event_interaction_chance_always",
+    "type": 0,
+    "en": "Event Int. chance: 100%",
+    "vi": "Event Int. chance: 100%"
+  },
+  {
+    "key": "dev_event_interaction_chance_default",
+    "type": 0,
+    "en": "Reset Event Int. chance",
+    "vi": "Reset Event Int. chance"
+  },
+  {
+    "key": "dev_spawn_fish",
+    "type": 0,
+    "en": "Spawn Fish on Point",
+    "vi": "Spawn Fish on Point"
+  },
+  {
+    "key": "dev_try_fish_spawn",
+    "type": 0,
+    "en": "Spawn a new Fish",
+    "vi": "Spawn a new Fish"
+  },
+  {
+    "key": "dev_spawn_item",
+    "type": 0,
+    "en": "Spawn Item on Point",
+    "vi": "Spawn Item on Point"
+  },
+  {
+    "key": "dev_force_exception",
+    "type": 0,
+    "en": "Force an Exception",
+    "vi": "Force an Exception"
+  },
+  {
+    "key": "dev_kill_all_piles",
+    "type": 0,
+    "en": "Destroy all Piles",
+    "vi": "Destroy all Piles"
+  },
+  {
+    "key": "dev_recount_piles",
+    "type": 0,
+    "en": "Recount Piles",
+    "vi": "Recount Piles"
+  },
+  {
+    "key": "dev_recount_haul_piles",
+    "type": 0,
+    "en": "Recount Haul Piles",
+    "vi": "Recount Haul Piles"
+  },
+  {
+    "key": "dev_crop_harvest",
+    "type": 0,
+    "en": "Force Crop Harvest Phase",
+    "vi": "Force Crop Harvest Phase"
+  },
+  {
+    "key": "dev_marketing_mode",
+    "type": 0,
+    "en": "Marketing Mode",
+    "vi": "Marketing Mode"
+  },
+  {
+    "key": "dev_spawn_blank_npc",
+    "type": 0,
+    "en": "Spawn Blank NPC",
+    "vi": "Spawn Blank NPC"
+  },
+  {
+    "key": "dev_set_npc_behaviour",
+    "type": 0,
+    "en": "Set NPC Behaviour",
+    "vi": "Set NPC Behaviour"
+  },
+  {
+    "key": "dev_wound_worker",
+    "type": 0,
+    "en": "Wound Settler",
+    "vi": "Wound Settler"
+  },
+  {
+    "key": "dev_set_health_100",
+    "type": 0,
+    "en": "Health = 100",
+    "vi": "Health = 100"
+  },
+  {
+    "key": "dev_set_health_1",
+    "type": 0,
+    "en": "Health = 1",
+    "vi": "Health = 1"
+  },
+  {
+    "key": "dev_set_health_0",
+    "type": 0,
+    "en": "Health = 0",
+    "vi": "Health = 0"
+  },
+  {
+    "key": "dev_set_freshness_100",
+    "type": 0,
+    "en": "Freshness = 100",
+    "vi": "Freshness = 100"
+  },
+  {
+    "key": "dev_set_freshness_1",
+    "type": 0,
+    "en": "Freshness = 1",
+    "vi": "Freshness = 1"
+  },
+  {
+    "key": "dev_set_freshness_0",
+    "type": 0,
+    "en": "Freshness = 0",
+    "vi": "Freshness = 0"
+  },
+  {
+    "key": "dev_set_worker_hunger_minus_100",
+    "type": 0,
+    "en": "Settler Hunger: Ravenous",
+    "vi": "Settler Hunger: Ravenous"
+  },
+  {
+    "key": "dev_set_worker_stats",
+    "type": 0,
+    "en": "Set Settler Stats",
+    "vi": "Set Settler Stats"
+  },
+  {
+    "key": "dev_faint_worker",
+    "type": 0,
+    "en": "Faint Settler",
+    "vi": "Faint Settler"
+  },
+  {
+    "key": "dev_unfaint_worker",
+    "type": 0,
+    "en": "Unfaint Settler",
+    "vi": "Unfaint Settler"
+  },
+  {
+    "key": "dev_kill_all_enemies",
+    "type": 0,
+    "en": "Kill All Enemies",
+    "vi": "Kill All Enemies"
+  },
+  {
+    "key": "dev_spawn_trebuchet",
+    "type": 0,
+    "en": "Spawn Trebuchet on Point",
+    "vi": "Spawn Trebuchet on Point"
+  },
+  {
+    "key": "dev_kill_all_fish",
+    "type": 0,
+    "en": "Kill All Fish",
+    "vi": "Kill All Fish"
+  },
+  {
+    "key": "dev_deal_damage",
+    "type": 0,
+    "en": "Deal 15 Damage on Point",
+    "vi": "Deal 15 Damage on Point"
+  },
+  {
+    "key": "dev_ladder_falldown",
+    "type": 0,
+    "en": "Push Settler off Ladder",
+    "vi": "Push Settler off Ladder"
+  },
+  {
+    "key": "dev_events",
+    "type": 0,
+    "en": "Events",
+    "vi": "Events"
+  },
+  {
+    "key": "dev_spawn_event",
+    "type": 0,
+    "en": "Trigger Event",
+    "vi": "Trigger Event"
+  },
+  {
+    "key": "dev_schedule_event_group",
+    "type": 0,
+    "en": "Schedule Event from Group",
+    "vi": "Schedule Event from Group"
+  },
+  {
+    "key": "dev_weather_time",
+    "type": 0,
+    "en": "Weather and Time",
+    "vi": "Weather and Time"
+  },
+  {
+    "key": "dev_water_debug",
+    "type": 0,
+    "en": "Toggle Water Debug UI",
+    "vi": "Toggle Water Debug UI"
+  },
+  {
+    "key": "dev_mining_speed_reset",
+    "type": 0,
+    "en": "Reset Mining Speed",
+    "vi": "Reset Mining Speed"
+  },
+  {
+    "key": "dev_mining_speed_10",
+    "type": 0,
+    "en": "Mining Speed: ×10",
+    "vi": "Mining Speed: ×10"
+  },
+  {
+    "key": "dev_crop_next_phase",
+    "type": 0,
+    "en": "Force Crop Next Phase on Point",
+    "vi": "Force Crop Next Phase on Point"
+  },
+  {
+    "key": "dev_set_low_fuel",
+    "type": 0,
+    "en": "Set Low Fuel on Point",
+    "vi": "Set Low Fuel on Point"
+  },
+  {
+    "key": "dev_toggle_player_voxel_info",
+    "type": 0,
+    "en": "Toggle Player Voxel Info",
+    "vi": "Toggle Player Voxel Info"
+  },
+  {
+    "key": "dev_thunder",
+    "type": 0,
+    "en": "Thunderstrike on Point",
+    "vi": "Thunderstrike on Point"
+  },
+  {
+    "key": "dev_toggle_regions",
+    "type": 0,
+    "en": "Toggle Regions",
+    "vi": "Toggle Regions"
+  },
+  {
+    "key": "dev_toggle_air_nodes",
+    "type": 0,
+    "en": "Toggle Air Grid Nodes",
+    "vi": "Toggle Air Grid Nodes"
+  },
+  {
+    "key": "dev_toggle_ground_nodes",
+    "type": 0,
+    "en": "Toggle Ground Grid Nodes",
+    "vi": "Toggle Ground Grid Nodes"
+  },
+  {
+    "key": "dev_toggle_pathing_lines",
+    "type": 0,
+    "en": "Toggle Pathing Lines",
+    "vi": "Toggle Pathing Lines"
+  },
+  {
+    "key": "dev_pathfining",
+    "type": 0,
+    "en": "Pathfinding",
+    "vi": "Pathfinding"
+  },
+  {
+    "key": "dev_refresh_nodes",
+    "type": 0,
+    "en": "Refresh All Nodes",
+    "vi": "Refresh All Nodes"
+  },
+  {
+    "key": "dev_update_node_visualizer",
+    "type": 0,
+    "en": "Update Node Visualizer",
+    "vi": "Update Node Visualizer"
+  },
+  {
+    "key": "dev_visual_debug",
+    "type": 0,
+    "en": "Visual Debug",
+    "vi": "Visual Debug"
+  },
+  {
+    "key": "dev_toggle_all_debug",
+    "type": 0,
+    "en": "Toggle All",
+    "vi": "Toggle All"
+  },
+  {
+    "key": "dev_toggle_recheability_debug",
+    "type": 0,
+    "en": "Toggle Reachability",
+    "vi": "Toggle Reachability"
+  },
+  {
+    "key": "dev_toggle_proximity_debug",
+    "type": 0,
+    "en": "Toggle Proximity",
+    "vi": "Toggle Proximity"
+  },
+  {
+    "key": "dev_toggle_relocate_debug",
+    "type": 0,
+    "en": "Toggle Relocate Pile",
+    "vi": "Toggle Relocate Pile"
+  },
+  {
+    "key": "dev_effects",
+    "type": 0,
+    "en": "Effects",
+    "vi": "Effects"
+  },
+  {
+    "key": "dev_spawn_particle_system",
+    "type": 0,
+    "en": "Spawn Particle System",
+    "vi": "Spawn Particle System"
+  },
+  {
+    "key": "dev_trading",
+    "type": 0,
+    "en": "Trading",
+    "vi": "Trading"
+  },
+  {
+    "key": "dev_spawn_trader",
+    "type": 0,
+    "en": "Spawn Trader",
+    "vi": "Spawn Trader"
+  },
+  {
+    "key": "dev_spawn_trader_with_bodyguards",
+    "type": 0,
+    "en": "Spawn Trader with Bodyguards",
+    "vi": "Spawn Trader with Bodyguards"
+  },
+  {
+    "key": "dev_mark_for_roping",
+    "type": 0,
+    "en": "Mark for Roping",
+    "vi": "Mark for Roping"
+  },
+  {
+    "key": "dev_domestic",
+    "type": 0,
+    "en": "Set Domestic",
+    "vi": "Set Domestic"
+  },
+  {
+    "key": "dev_pet",
+    "type": 0,
+    "en": "Set Pet",
+    "vi": "Set Pet"
+  },
+  {
+    "key": "dev_wild",
+    "type": 0,
+    "en": "Set Wild",
+    "vi": "Set Wild"
+  },
+  {
+    "key": "dev_wild_aggressive",
+    "type": 0,
+    "en": "Set Wild Agressive",
+    "vi": "Set Wild Agressive"
+  },
+  {
+    "key": "dev_pregnant",
+    "type": 0,
+    "en": "Set Pregnant Animal",
+    "vi": "Set Pregnant Animal"
+  },
+  {
+    "key": "dev_birth",
+    "type": 0,
+    "en": "Give Birth",
+    "vi": "Give Birth"
+  },
+  {
+    "key": "dev_structure_preset_panel",
+    "type": 0,
+    "en": "Structure Preset Panel",
+    "vi": "Structure Preset Panel"
+  },
+  {
+    "key": "dev_toggle_structure_preset_panel",
+    "type": 0,
+    "en": "Toggle Panel",
+    "vi": "Toggle Panel"
+  },
+  {
+    "key": "dev_traps",
+    "type": 0,
+    "en": "Traps",
+    "vi": "Traps"
+  },
+  {
+    "key": "dev_trigger_trap",
+    "type": 0,
+    "en": "Trigger Trap on Point",
+    "vi": "Trigger Trap on Point"
+  },
+  {
+    "key": "dev_reset_trap",
+    "type": 0,
+    "en": "Reset Trap",
+    "vi": "Reset Trap"
+  },
+  {
+    "key": "dev_tooltip_spawn_fish",
+    "type": 0,
+    "en": "Spawns Fish on Mouse Click",
+    "vi": "Spawns Fish on Mouse Click"
+  },
+  {
+    "key": "dev_tooltip_try_fish_spawn",
+    "type": 0,
+    "en": "Spawns another Fish somewhere on the map if possible.",
+    "vi": "Spawns another Fish somewhere on the map if possible."
+  },
+  {
+    "key": "dev_tooltip_spawn_item",
+    "type": 0,
+    "en": "Spawns item on mouse click",
+    "vi": "Spawns item on mouse click"
+  },
+  {
+    "key": "dev_tooltip_activate_all_research",
+    "type": 0,
+    "en": "Toggles unlocking of all research",
+    "vi": "Toggles unlocking of all research"
+  },
+  {
+    "key": "dev_tooltip_production_speed_normal",
+    "type": 0,
+    "en": "Sets Procution Speed multiplier to 1.",
+    "vi": "Sets Procution Speed multiplier to 1."
+  },
+  {
+    "key": "dev_tooltip_production_speed_max",
+    "type": 0,
+    "en": "Sets Production Speed Multiplier to 50.",
+    "vi": "Sets Production Speed Multiplier to 50."
+  },
+  {
+    "key": "dev_tooltip_force_exception",
+    "type": 0,
+    "en": "Forces an exception.",
+    "vi": "Forces an exception."
+  },
+  {
+    "key": "dev_tooltip_destroy_pile",
+    "type": 0,
+    "en": "Destroys pile on mouse click",
+    "vi": "Destroys pile on mouse click"
+  },
+  {
+    "key": "dev_tooltip_kill_piles",
+    "type": 0,
+    "en": "Destroys all piles on the map.",
+    "vi": "Destroys all piles on the map."
+  },
+  {
+    "key": "dev_tooltip_toggle_ui",
+    "type": 0,
+    "en": "Toggles the ingame UI on and off",
+    "vi": "Toggles the ingame UI on and off"
+  },
+  {
+    "key": "dev_tooltip_toggle_alt_camera",
+    "type": 0,
+    "en": "Changes the camera mode from standard to isometric.",
+    "vi": "Changes the camera mode from standard to isometric."
+  },
+  {
+    "key": "dev_tooltip_recount_piles",
+    "type": 0,
+    "en": "Recounts all piles on the map.",
+    "vi": "Recounts all piles on the map."
+  },
+  {
+    "key": "dev_tooltip_recount_haul_piles",
+    "type": 0,
+    "en": "Recounts all haul piles on the map.",
+    "vi": "Recounts all haul piles on the map."
+  },
+  {
+    "key": "dev_tooltip_force_crop_harvest_phase",
+    "type": 0,
+    "en": "Forces crops to harvest phase after planting.",
+    "vi": "Forces crops to harvest phase after planting."
+  },
+  {
+    "key": "dev_tooltip_marketing_mode",
+    "type": 0,
+    "en": "Turns on Marketing Mode",
+    "vi": "Turns on Marketing Mode"
+  },
+  {
+    "key": "dev_tooltip_set_interaction_event_chance_always",
+    "type": 0,
+    "en": "Sets Interaction Event chance to 100%.",
+    "vi": "Sets Interaction Event chance to 100%."
+  },
+  {
+    "key": "dev_tooltip_set_interaction_event_chance_default",
+    "type": 0,
+    "en": "Resets Interaction Event chance to default.",
+    "vi": "Resets Interaction Event chance to default."
+  },
+  {
+    "key": "dev_tooltip_spawn_worker_1",
+    "type": 0,
+    "en": "Spawns 1 Settler on mouse click.",
+    "vi": "Spawns 1 Settler on mouse click."
+  },
+  {
+    "key": "dev_tooltip_spawn_worker_10",
+    "type": 0,
+    "en": "Spawns 10 Settlers on mouse click.",
+    "vi": "Spawns 10 Settlers on mouse click."
+  },
+  {
+    "key": "dev_tooltip_remove_worker",
+    "type": 0,
+    "en": "Click on a Settler to kill them.",
+    "vi": "Click on a Settler to kill them."
+  },
+  {
+    "key": "dev_tooltip_wound_worker",
+    "type": 0,
+    "en": "Click on a Settler to Wound them",
+    "vi": "Click on a Settler to Wound them"
+  },
+  {
+    "key": "dev_tooltip_set_health_100",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 100.",
+    "vi": "Sets health level of creatures, plants or resources to 100."
+  },
+  {
+    "key": "dev_tooltip_set_health_1",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 1.",
+    "vi": "Sets health level of creatures, plants or resources to 1."
+  },
+  {
+    "key": "dev_tooltip_set_health_0",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 0.",
+    "vi": "Sets health level of creatures, plants or resources to 0."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_100",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 100.",
+    "vi": "Sets freshness of hauled piles and piles on the ground to 100."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_1",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 1.",
+    "vi": "Sets freshness of hauled piles and piles on the ground to 1."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_0",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 0.",
+    "vi": "Sets freshness of hauled piles and piles on the ground to 0."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_100",
+    "type": 0,
+    "en": "Set's creature's hunger to Full.",
+    "vi": "Set's creature's hunger to Full."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_50",
+    "type": 0,
+    "en": "Set's creature's hunger to Hungy.",
+    "vi": "Set's creature's hunger to Hungy."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_1",
+    "type": 0,
+    "en": "Set's creature's hunger to Starving.",
+    "vi": "Set's creature's hunger to Starving."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_-100",
+    "type": 0,
+    "en": "Set's creature's hunger to Ravenous.",
+    "vi": "Set's creature's hunger to Ravenous."
+  },
+  {
+    "key": "dev_tooltip_set_worker_stats",
+    "type": 0,
+    "en": "Change Settler stats by clicking on them.",
+    "vi": "Change Settler stats by clicking on them."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_100",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 100, if it has the stat.",
+    "vi": "Sets creature's Sleep stat to 100, if it has the stat."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_50",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 50, if it has the stat.",
+    "vi": "Sets creature's Sleep stat to 50, if it has the stat."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_1",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 1, if it has the stat.",
+    "vi": "Sets creature's Sleep stat to 1, if it has the stat."
+  },
+  {
+    "key": "dev_tooltip_faint_worker",
+    "type": 0,
+    "en": "Faints a Settler on mouse click",
+    "vi": "Faints a Settler on mouse click"
+  },
+  {
+    "key": "dev_tooltip_unfaint_worker",
+    "type": 0,
+    "en": "Wakes up Settler from loss of consciousness on mouse click.",
+    "vi": "Wakes up Settler from loss of consciousness on mouse click."
+  },
+  {
+    "key": "dev_tooltip_reset_workers",
+    "type": 0,
+    "en": "Resets the state of all Settlers (DOES NOTHING)",
+    "vi": "Resets the state of all Settlers (DOES NOTHING)"
+  },
+  {
+    "key": "dev_tooltip_hunt_workers",
+    "type": 0,
+    "en": "DOES NOTHING",
+    "vi": "DOES NOTHING"
+  },
+  {
+    "key": "dev_tooltip_spawn_enemy",
+    "type": 0,
+    "en": "Spawns an enemy on mouse click.",
+    "vi": "Spawns an enemy on mouse click."
+  },
+  {
+    "key": "dev_tooltip_kill_enemies",
+    "type": 0,
+    "en": "Kills all enemies on the map.",
+    "vi": "Kills all enemies on the map."
+  },
+  {
+    "key": "dev_tooltip_spawn_trebuchet",
+    "type": 0,
+    "en": "Spawns a trebuchet on mouse click.",
+    "vi": "Spawns a trebuchet on mouse click."
+  },
+  {
+    "key": "dev_tooltip_kill_all_fish",
+    "type": 0,
+    "en": "Kills all fish on the map.",
+    "vi": "Kills all fish on the map."
+  },
+  {
+    "key": "dev_tooltip_deal_damage",
+    "type": 0,
+    "en": "Damage anything you click on by 15 (except voxels).",
+    "vi": "Damage anything you click on by 15 (except voxels)."
+  },
+  {
+    "key": "dev_tooltip_ladder_falldown",
+    "type": 0,
+    "en": "Push a creature off of a ladder.",
+    "vi": "Push a creature off of a ladder."
+  },
+  {
+    "key": "dev_tooltip_spawn_event",
+    "type": 0,
+    "en": "Triggers selected event.",
+    "vi": "Triggers selected event."
+  },
+  {
+    "key": "dev_tooltip_schedule_event_group",
+    "type": 0,
+    "en": "Schedules a random event from a selected group.",
+    "vi": "Schedules a random event from a selected group."
+  },
+  {
+    "key": "dev_tooltip_weather_date_time",
+    "type": 0,
+    "en": "Modify weather and time.",
+    "vi": "Modify weather and time."
+  },
+  {
+    "key": "dev_tooltip_voxel_info",
+    "type": 0,
+    "en": "Display info of the currently selected voxel.",
+    "vi": "Display info of the currently selected voxel."
+  },
+  {
+    "key": "dev_tooltip_toggle_water_debug_ui",
+    "type": 0,
+    "en": "Toggles water editing and info UI.",
+    "vi": "Toggles water editing and info UI."
+  },
+  {
+    "key": "dev_tooltip_damage_voxel",
+    "type": 0,
+    "en": "Damage voxels around cursor in a range on mouse click.",
+    "vi": "Damage voxels around cursor in a range on mouse click."
+  },
+  {
+    "key": "dev_tooltip_weather_view",
+    "type": 0,
+    "en": "Toggles the weather info panel. It shows weather events for the entire season.",
+    "vi": "Toggles the weather info panel. It shows weather events for the entire season."
+  },
+  {
+    "key": "dev_tooltip_instant_dig",
+    "type": 0,
+    "en": "Toggles between instant and normal digging.",
+    "vi": "Toggles between instant and normal digging."
+  },
+  {
+    "key": "dev_tooltip_10_mining_speed",
+    "type": 0,
+    "en": "Sets mining speed to ×10",
+    "vi": "Sets mining speed to ×10"
+  },
+  {
+    "key": "dev_tooltip_revert_mining_speed",
+    "type": 0,
+    "en": "Resets the mining speed back to normal.",
+    "vi": "Resets the mining speed back to normal."
+  },
+  {
+    "key": "dev_tooltip_crop_next_phase",
+    "type": 0,
+    "en": "Advance the clicked crop to its next growth phase.",
+    "vi": "Advance the clicked crop to its next growth phase."
+  },
+  {
+    "key": "dev_tooltip_set_low_fuel",
+    "type": 0,
+    "en": "Sets fuel to very low on mouse click.",
+    "vi": "Sets fuel to very low on mouse click."
+  },
+  {
+    "key": "dev_tooltip_toggle_player_voxel_info",
+    "type": 0,
+    "en": "Toggles voxel info for the player.",
+    "vi": "Toggles voxel info for the player."
+  },
+  {
+    "key": "dev_tooltip_thunder",
+    "type": 0,
+    "en": "Click to spawn a thunderstrike (from Thunderstorm).",
+    "vi": "Click to spawn a thunderstrike (from Thunderstorm)."
+  },
+  {
+    "key": "dev_tooltip_toggle_regions",
+    "type": 0,
+    "en": "Toggles the debug visuals for Regions.",
+    "vi": "Toggles the debug visuals for Regions."
+  },
+  {
+    "key": "dev_tooltip_air_grid_nodes",
+    "type": 0,
+    "en": "Toggles debug visuals for Nodes",
+    "vi": "Toggles debug visuals for Nodes"
+  },
+  {
+    "key": "dev_tooltip_ground_grid_nodes",
+    "type": 0,
+    "en": "Toggles debug visuals for Air Nodes",
+    "vi": "Toggles debug visuals for Air Nodes"
+  },
+  {
+    "key": "dev_tooltip_pathing_lines",
+    "type": 0,
+    "en": "Toggles debug visuals for Pathing Lines.",
+    "vi": "Toggles debug visuals for Pathing Lines."
+  },
+  {
+    "key": "dev_tooltip_refresh_nodes",
+    "type": 0,
+    "en": "Refreshes all Nodes.",
+    "vi": "Refreshes all Nodes."
+  },
+  {
+    "key": "dev_tooltip_node_visualizer",
+    "type": 0,
+    "en": "Updates Node Visualizers.",
+    "vi": "Updates Node Visualizers."
+  },
+  {
+    "key": "dev_tooltip_toggle_all_visual_debug",
+    "type": 0,
+    "en": "Toggles all debug visuals. (if some of the later ones are off, you need to turn them on, this option does not reenable them.)",
+    "vi": "Toggles all debug visuals. (if some of the later ones are off, you need to turn them on, this option does not reenable them.)"
+  },
+  {
+    "key": "dev_tooltip_toggle_reachability",
+    "type": 0,
+    "en": "Toggles reachability debug visuals.",
+    "vi": "Toggles reachability debug visuals."
+  },
+  {
+    "key": "dev_tooltip_toggle_visual_proximity",
+    "type": 0,
+    "en": "Toggles proximity debug visuals.",
+    "vi": "Toggles proximity debug visuals."
+  },
+  {
+    "key": "dev_tooltip_toggle_relocate_piles",
+    "type": 0,
+    "en": "Toggle relocate piles debug visuals.",
+    "vi": "Toggle relocate piles debug visuals."
+  },
+  {
+    "key": "dev_tooltip_spawn_particle_system",
+    "type": 0,
+    "en": "Spawns selected Particle System (effect) on mouse click.",
+    "vi": "Spawns selected Particle System (effect) on mouse click."
+  },
+  {
+    "key": "dev_tooltip_spawn_trader",
+    "type": 0,
+    "en": "Spawns a random trader on mouse click.",
+    "vi": "Spawns a random trader on mouse click."
+  },
+  {
+    "key": "dev_tooltip_spawn_trader_bodyguards",
+    "type": 0,
+    "en": "Spawns a random trader with bodygurads on mouse click.",
+    "vi": "Spawns a random trader with bodygurads on mouse click."
+  },
+  {
+    "key": "dev_tooltip_mark_for_roping",
+    "type": 0,
+    "en": "Marks clicked animal for roping.",
+    "vi": "Marks clicked animal for roping."
+  },
+  {
+    "key": "dev_tooltip_set_domestic",
+    "type": 0,
+    "en": "Set animal as domestic on mouse click.",
+    "vi": "Set animal as domestic on mouse click."
+  },
+  {
+    "key": "dev_tooltip_set_pet",
+    "type": 0,
+    "en": "Set animal as a pet on mouse click.",
+    "vi": "Set animal as a pet on mouse click."
+  },
+  {
+    "key": "dev_tooltip_set_wild",
+    "type": 0,
+    "en": "Set animal as wild on mouse click.",
+    "vi": "Set animal as wild on mouse click."
+  },
+  {
+    "key": "dev_tooltip_set_wild_aggro",
+    "type": 0,
+    "en": "Set animal as aggressive and wild on mouse click.",
+    "vi": "Set animal as aggressive and wild on mouse click."
+  },
+  {
+    "key": "dev_tooltip_reset_taming_and_training",
+    "type": 0,
+    "en": "Resets Taming and Training timers for animal on mouse click.",
+    "vi": "Resets Taming and Training timers for animal on mouse click."
+  },
+  {
+    "key": "dev_tooltip_toggle_structure_preset_panel",
+    "type": 0,
+    "en": "Toggle Structure Preset Panel.",
+    "vi": "Toggle Structure Preset Panel."
+  },
+  {
+    "key": "dev_tooltip_trigger_traps",
+    "type": 0,
+    "en": "Trigger trap on mouse click.",
+    "vi": "Trigger trap on mouse click."
+  },
+  {
+    "key": "dev_tooltip_reset_traps",
+    "type": 0,
+    "en": "Reset trap on mouse click.",
+    "vi": "Reset trap on mouse click."
+  },
+  {
+    "key": "dev_tooltip_spawn_blank_npc",
+    "type": 0,
+    "en": "Spawns a blank NPC on mouse click.",
+    "vi": "Spawns a blank NPC on mouse click."
+  },
+  {
+    "key": "dev_tooltip_set_npc_behaviour",
+    "type": 0,
+    "en": "Sets NPC behaviour on mouse click.",
+    "vi": "Sets NPC behaviour on mouse click."
+  },
+  {
+    "key": "dev_npc_behaviour_select",
+    "type": 0,
+    "en": "Select an NPC behaviour type to set:",
+    "vi": "Select an NPC behaviour type to set:"
+  },
+  {
+    "key": "dev_behaviour_name_tooltip",
+    "type": 0,
+    "en": "After choosing the behaviour, click on the NPC you want to apply it to.",
+    "vi": "After choosing the behaviour, click on the NPC you want to apply it to."
+  },
+  {
+    "key": "dev_piles",
+    "type": 0,
+    "en": "Resources and Items",
+    "vi": "Resources and Items"
+  },
+  {
+    "key": "Seasons",
+    "type": 0,
+    "en": "Seasons",
+    "vi": "Seasons"
+  },
+  {
+    "key": "Set Spring",
+    "type": 0,
+    "en": "Set Spring",
+    "vi": "Set Spring"
+  },
+  {
+    "key": "Set Summer",
+    "type": 0,
+    "en": "Set Summer",
+    "vi": "Set Summer"
+  },
+  {
+    "key": "Set Autumn",
+    "type": 0,
+    "en": "Set Autumn",
+    "vi": "Set Autumn"
+  },
+  {
+    "key": "Set Winter",
+    "type": 0,
+    "en": "Set Winter",
+    "vi": "Set Winter"
+  },
+  {
+    "key": "dev_tooltip_set_season",
+    "type": 0,
+    "en": "Advance time to the selected season.",
+    "vi": "Advance time to the selected season."
+  },
+  {
+    "key": "Day Time",
+    "type": 0,
+    "en": "Time of Day",
+    "vi": "Time of Day"
+  },
+  {
+    "key": "Set Noon",
+    "type": 0,
+    "en": "Set Noon",
+    "vi": "Set Noon"
+  },
+  {
+    "key": "Set Dawn",
+    "type": 0,
+    "en": "Set Dusk",
+    "vi": "Set Dusk"
+  },
+  {
+    "key": "Set Midnight",
+    "type": 0,
+    "en": "Set Midnight",
+    "vi": "Set Midnight"
+  },
+  {
+    "key": "Set Dusk",
+    "type": 0,
+    "en": "Set Dawn",
+    "vi": "Set Dawn"
+  },
+  {
+    "key": "dev_tooltip_set_time_of_day",
+    "type": 0,
+    "en": "Change time of day to the selected one.",
+    "vi": "Change time of day to the selected one."
+  },
+  {
+    "key": "Weather",
+    "type": 0,
+    "en": "Weather",
+    "vi": "Weather"
+  },
+  {
+    "key": "Set rain",
+    "type": 0,
+    "en": "Starts raining",
+    "vi": "Starts raining"
+  },
+  {
+    "key": "Set fog",
+    "type": 0,
+    "en": "Fog",
+    "vi": "Fog"
+  },
+  {
+    "key": "Set snow",
+    "type": 0,
+    "en": "Starts snowing",
+    "vi": "Starts snowing"
+  },
+  {
+    "key": "dev_tooltip_set_weather_event",
+    "type": 0,
+    "en": "Triggers the selected precipitation.",
+    "vi": "Triggers the selected precipitation."
+  },
+  {
+    "key": "dev_inflict_wound",
+    "type": 0,
+    "en": "Select wound to inflict:",
+    "vi": "Select wound to inflict:"
+  },
+  {
+    "key": "dev_event_spawn",
+    "type": 0,
+    "en": "Select an event to spawn:",
+    "vi": "Select an event to spawn:"
+  },
+  {
+    "key": "dev_tooltip_inflict_wound",
+    "type": 0,
+    "en": "Inflicts selected wound on Settler on mouse click.",
+    "vi": "Inflicts selected wound on Settler on mouse click."
+  },
+  {
+    "key": "dev_gender_male",
+    "type": 0,
+    "en": "Gender: Male",
+    "vi": "Gender: Male"
+  },
+  {
+    "key": "dev_gender_female",
+    "type": 0,
+    "en": "Gender: Female",
+    "vi": "Gender: Female"
+  },
+  {
+    "key": "dev_tooltip_gender",
+    "type": 0,
+    "en": "Toggles gender of the enemy you are spawning.",
+    "vi": "Toggles gender of the enemy you are spawning."
+  },
+  {
+    "key": "dev_tooltip_enemy",
+    "type": 0,
+    "en": "Spawns the selected enemy on mouse click.",
+    "vi": "Spawns the selected enemy on mouse click."
+  },
+  {
+    "key": "dev_enemy_spawn",
+    "type": 0,
+    "en": "Select an NPC to spawn:",
+    "vi": "Select an NPC to spawn:"
+  },
+  {
+    "key": "dev_trebuchet_spawn",
+    "type": 0,
+    "en": "Select a trebuchet to spawn:",
+    "vi": "Select a trebuchet to spawn:"
+  },
+  {
+    "key": "dev_friendliness_minus",
+    "type": 0,
+    "en": "Alignment -10",
+    "vi": "Alignment -10"
+  },
+  {
+    "key": "dev_friendliness_plus",
+    "type": 0,
+    "en": "Alignment +10",
+    "vi": "Alignment +10"
+  },
+  {
+    "key": "dev_tooltip_friendliness_plus",
+    "type": 0,
+    "en": "Adds 10 Alignment to the selected Faction.",
+    "vi": "Adds 10 Alignment to the selected Faction."
+  },
+  {
+    "key": "dev_tooltip_friendliness_minus",
+    "type": 0,
+    "en": "Removes 10 Alignment to selected Faction.",
+    "vi": "Removes 10 Alignment to selected Faction."
+  },
+  {
+    "key": "dev_tooltip_particle",
+    "type": 0,
+    "en": "Spawns selected particle system (effect) on mouse click.",
+    "vi": "Spawns selected particle system (effect) on mouse click."
+  },
+  {
+    "key": "dev_particle_system",
+    "type": 0,
+    "en": "Select a particle system to spawn:",
+    "vi": "Select a particle system to spawn:"
+  },
+  {
+    "key": "dev_select_dropdown",
+    "type": 0,
+    "en": "Change skill by:",
+    "vi": "Change skill by:"
+  },
+  {
+    "key": "dev_select_item",
+    "type": 0,
+    "en": "Select item to spawn on mouse click",
+    "vi": "Select item to spawn on mouse click"
+  },
+  {
+    "key": "dev_select_item_quality",
+    "type": 0,
+    "en": "Select the item quality",
+    "vi": "Select the item quality"
+  },
+  {
+    "key": "dev_tooltip_spawn_item_quality",
+    "type": 0,
+    "en": "Spawns the item of the selected quality on mouse click.",
+    "vi": "Spawns the item of the selected quality on mouse click."
+  },
+  {
+    "key": "dev_random_item",
+    "type": 0,
+    "en": "Random Items",
+    "vi": "Random Items"
+  },
+  {
+    "key": "dev_tooltip_random_item",
+    "type": 0,
+    "en": "Spawns 10 random items on mouse click.",
+    "vi": "Spawns 10 random items on mouse click."
+  },
+  {
+    "key": "dev_tooltip_fish",
+    "type": 0,
+    "en": "Spawns chosen fish on mouse click",
+    "vi": "Spawns chosen fish on mouse click"
+  },
+  {
+    "key": "dev_select_fish",
+    "type": 0,
+    "en": "Choose fish to spawn:",
+    "vi": "Choose fish to spawn:"
+  },
+  {
+    "key": "dev_tooltip_stat_set",
+    "type": 0,
+    "en": "Set chosen stat to selected value of clicked on Settler.",
+    "vi": "Set chosen stat to selected value of clicked on Settler."
+  },
+  {
+    "key": "dev_stat_0",
+    "type": 0,
+    "en": "Stat = 0",
+    "vi": "Stat = 0"
+  },
+  {
+    "key": "dev_stat_25",
+    "type": 0,
+    "en": "Stat = 25",
+    "vi": "Stat = 25"
+  },
+  {
+    "key": "dev_stat_50",
+    "type": 0,
+    "en": "Stat = 50",
+    "vi": "Stat = 50"
+  },
+  {
+    "key": "dev_stat_75",
+    "type": 0,
+    "en": "Stat = 75",
+    "vi": "Stat = 75"
+  },
+  {
+    "key": "dev_stat_100",
+    "type": 0,
+    "en": "Stat = 100",
+    "vi": "Stat = 100"
+  },
+  {
+    "key": "dev_particle_build_particles",
+    "type": 0,
+    "en": "Build Particles",
+    "vi": "Build Particles"
+  },
+  {
+    "key": "dev_particle_dust",
+    "type": 0,
+    "en": "Dust",
+    "vi": "Dust"
+  },
+  {
+    "key": "dev_particle_wood",
+    "type": 0,
+    "en": "Wood",
+    "vi": "Wood"
+  },
+  {
+    "key": "dev_particle_stone",
+    "type": 0,
+    "en": "Stone",
+    "vi": "Stone"
+  },
+  {
+    "key": "dev_particle_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Grass"
+  },
+  {
+    "key": "dev_particle_arrowbreak",
+    "type": 0,
+    "en": "Arrow Break",
+    "vi": "Arrow Break"
+  },
+  {
+    "key": "dev_particle_arrowmiss",
+    "type": 0,
+    "en": "Arrow Miss",
+    "vi": "Arrow Miss"
+  },
+  {
+    "key": "dev_particle_crithit",
+    "type": 0,
+    "en": "Critical Hit",
+    "vi": "Critical Hit"
+  },
+  {
+    "key": "dev_particle_trebuchehit",
+    "type": 0,
+    "en": "Trebuchet Hit",
+    "vi": "Trebuchet Hit"
+  },
+  {
+    "key": "dev_particle_vegetables_chopp",
+    "type": 0,
+    "en": "Vegetable Chop",
+    "vi": "Vegetable Chop"
+  },
+  {
+    "key": "dev_particle_hammer_sparks",
+    "type": 0,
+    "en": "Hammer Sparks",
+    "vi": "Hammer Sparks"
+  },
+  {
+    "key": "dev_particle_blood_splat",
+    "type": 0,
+    "en": "Bloodsplat",
+    "vi": "Bloodsplat"
+  },
+  {
+    "key": "dev_particle_wood_chips",
+    "type": 0,
+    "en": "Wood Chips",
+    "vi": "Wood Chips"
+  },
+  {
+    "key": "dev_particle_trap_activate",
+    "type": 0,
+    "en": "Trap Activate",
+    "vi": "Trap Activate"
+  },
+  {
+    "key": "dev_particle_DustParticles",
+    "type": 0,
+    "en": "Dust 2",
+    "vi": "Dust 2"
+  },
+  {
+    "key": "dev_particle_hay_pickup",
+    "type": 0,
+    "en": "Hay Pick Up",
+    "vi": "Hay Pick Up"
+  },
+  {
+    "key": "dev_particle_shrub_destroy",
+    "type": 0,
+    "en": "Shrub Cut",
+    "vi": "Shrub Cut"
+  },
+  {
+    "key": "dev_particle_drunk",
+    "type": 0,
+    "en": "Drunk",
+    "vi": "Drunk"
+  },
+  {
+    "key": "dev_particle_rebelious",
+    "type": 0,
+    "en": "Rebellious",
+    "vi": "Rebellious"
+  },
+  {
+    "key": "dev_particle_pinned",
+    "type": 0,
+    "en": "Pinned",
+    "vi": "Pinned"
+  },
+  {
+    "key": "dev_particle_barley_death",
+    "type": 0,
+    "en": "Barley Wilt",
+    "vi": "Barley Wilt"
+  },
+  {
+    "key": "dev_particle_beet_death",
+    "type": 0,
+    "en": "Beet Wilt",
+    "vi": "Beet Wilt"
+  },
+  {
+    "key": "dev_particle_cabbage_death",
+    "type": 0,
+    "en": "Cabbage Wilt",
+    "vi": "Cabbage Wilt"
+  },
+  {
+    "key": "dev_particle_carrots_death",
+    "type": 0,
+    "en": "Carrots Wilt",
+    "vi": "Carrots Wilt"
+  },
+  {
+    "key": "dev_particle_flax_death",
+    "type": 0,
+    "en": "Flax Wilt",
+    "vi": "Flax Wilt"
+  },
+  {
+    "key": "dev_particle_herbs_death",
+    "type": 0,
+    "en": "Herbs Wilt",
+    "vi": "Herbs Wilt"
+  },
+  {
+    "key": "dev_particle_destroy_clay_brick_wall",
+    "type": 0,
+    "en": "Clay Brick Wall Destruction",
+    "vi": "Clay Brick Wall Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_limestone_block_wall",
+    "type": 0,
+    "en": "Limestone Brick Wall Destruction",
+    "vi": "Limestone Brick Wall Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_liimestone_wall",
+    "type": 0,
+    "en": "Limestone Wall Destruction",
+    "vi": "Limestone Wall Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_clay_wall",
+    "type": 0,
+    "en": "Clay Wall Destruction",
+    "vi": "Clay Wall Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wood_wall",
+    "type": 0,
+    "en": "Wood Wall Destruction",
+    "vi": "Wood Wall Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wood_floor",
+    "type": 0,
+    "en": "Wood Floor Destruction",
+    "vi": "Wood Floor Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wicker_floor",
+    "type": 0,
+    "en": "Wicker Floor Destruction",
+    "vi": "Wicker Floor Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_reinforced_wood_door",
+    "type": 0,
+    "en": "Reinforced Door Destruction",
+    "vi": "Reinforced Door Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_grated_door",
+    "type": 0,
+    "en": "Grated Door Destruction",
+    "vi": "Grated Door Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_hay_roof",
+    "type": 0,
+    "en": "Thatch Roof Destruction",
+    "vi": "Thatch Roof Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wicker_roof",
+    "type": 0,
+    "en": "Wicker Roof Destruction",
+    "vi": "Wicker Roof Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wood_roof",
+    "type": 0,
+    "en": "Wood Roof Destruction",
+    "vi": "Wood Roof Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_limestone_roof",
+    "type": 0,
+    "en": "Limestone Roof Destruction",
+    "vi": "Limestone Roof Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_clay_roof",
+    "type": 0,
+    "en": "Clay Roof Destruction",
+    "vi": "Clay Roof Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_wood_torch",
+    "type": 0,
+    "en": "Wood Torch Destruction",
+    "vi": "Wood Torch Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_iron_torch",
+    "type": 0,
+    "en": "Iron Torch Destruction",
+    "vi": "Iron Torch Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_banner",
+    "type": 0,
+    "en": "Banner Destruction",
+    "vi": "Banner Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_ground",
+    "type": 0,
+    "en": "Ground Destruction",
+    "vi": "Ground Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_pottery_shelf",
+    "type": 0,
+    "en": "Pottery Shelf Destruction",
+    "vi": "Pottery Shelf Destruction"
+  },
+  {
+    "key": "dev_particle_destroy_book_shelf",
+    "type": 0,
+    "en": "Bookshelf Destruction",
+    "vi": "Bookshelf Destruction"
+  },
+  {
+    "key": "dev_particle_spawn_pile",
+    "type": 0,
+    "en": "Spawn Pile",
+    "vi": "Spawn Pile"
+  },
+  {
+    "key": "dev_particle_stylized_dust",
+    "type": 0,
+    "en": "Stylized Dust",
+    "vi": "Stylized Dust"
+  },
+  {
+    "key": "dev_particle_build_finished_particles",
+    "type": 0,
+    "en": "Building Finished",
+    "vi": "Building Finished"
+  },
+  {
+    "key": "dev_particle_blueprint_placed",
+    "type": 0,
+    "en": "Blueprint Placed",
+    "vi": "Blueprint Placed"
+  },
+  {
+    "key": "dev_particle_footsteps_dust",
+    "type": 0,
+    "en": "Footsteps Dust",
+    "vi": "Footsteps Dust"
+  },
+  {
+    "key": "dev_particle_hot_particles",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Hot"
+  },
+  {
+    "key": "dev_particle_cold_particles",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Cold"
+  },
+  {
+    "key": "dev_particle_production_finished_particles",
+    "type": 0,
+    "en": "Production Finished",
+    "vi": "Production Finished"
+  },
+  {
+    "key": "dev_particle_tame_hearts",
+    "type": 0,
+    "en": "Taming Hearts",
+    "vi": "Taming Hearts"
+  },
+  {
+    "key": "dev_particle_eating",
+    "type": 0,
+    "en": "Eating",
+    "vi": "Eating"
+  },
+  {
+    "key": "dev_particle_trainsuccess",
+    "type": 0,
+    "en": "Training Successful",
+    "vi": "Training Successful"
+  },
+  {
+    "key": "dev_particle_shearing",
+    "type": 0,
+    "en": "Shearing",
+    "vi": "Shearing"
+  },
+  {
+    "key": "dev_particle_tree_shake_apple",
+    "type": 0,
+    "en": "Shake Apple Tree",
+    "vi": "Shake Apple Tree"
+  },
+  {
+    "key": "dev_particle_paint_splats",
+    "type": 0,
+    "en": "Paint Splats",
+    "vi": "Paint Splats"
+  },
+  {
+    "key": "dev_particle_tree_shake_branches",
+    "type": 0,
+    "en": "Shanking Branches",
+    "vi": "Shanking Branches"
+  },
+  {
+    "key": "dev_particle_tree_shake_birch",
+    "type": 0,
+    "en": "Shake Birch Tree",
+    "vi": "Shake Birch Tree"
+  },
+  {
+    "key": "dev_particle_tree_shake_maple",
+    "type": 0,
+    "en": "Shake Maple Tree",
+    "vi": "Shake Maple Tree"
+  },
+  {
+    "key": "dev_particle_tree_shake_oak",
+    "type": 0,
+    "en": "Shake Oak Tree",
+    "vi": "Shake Oak Tree"
+  },
+  {
+    "key": "dev_particle_tree_shake_pine",
+    "type": 0,
+    "en": "Shake Pine Tree",
+    "vi": "Shake Pine Tree"
+  },
+  {
+    "key": "dev_particle_tree_shake_plane",
+    "type": 0,
+    "en": "Shake Plane Tree",
+    "vi": "Shake Plane Tree"
+  },
+  {
+    "key": "dev_particle_tree_fall_birch",
+    "type": 0,
+    "en": "Fall Birch Tree",
+    "vi": "Fall Birch Tree"
+  },
+  {
+    "key": "dev_particle_crows_flying_straight",
+    "type": 0,
+    "en": "Crows Flying",
+    "vi": "Crows Flying"
+  },
+  {
+    "key": "dev_particle_ducks_flying_straight",
+    "type": 0,
+    "en": "Ducks Flying",
+    "vi": "Ducks Flying"
+  },
+  {
+    "key": "dev_particle_geese_flying_straight",
+    "type": 0,
+    "en": "Geese Flying",
+    "vi": "Geese Flying"
+  },
+  {
+    "key": "dev_particle_buzzard_flying_over",
+    "type": 0,
+    "en": "Buzzards Flying",
+    "vi": "Buzzards Flying"
+  },
+  {
+    "key": "dev_particle_pigeons_flying_straight",
+    "type": 0,
+    "en": "Pigeons Flying",
+    "vi": "Pigeons Flying"
+  },
+  {
+    "key": "dev_particle_pigeons_scare",
+    "type": 0,
+    "en": "Scare Pigeons",
+    "vi": "Scare Pigeons"
+  },
+  {
+    "key": "dev_particle_crows_circling",
+    "type": 0,
+    "en": "Circling Crows",
+    "vi": "Circling Crows"
+  },
+  {
+    "key": "dev_particle_crows_scare",
+    "type": 0,
+    "en": "Scare Crows",
+    "vi": "Scare Crows"
+  },
+  {
+    "key": "dev_particle_worker_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Settler Footprint (dirt)",
+    "vi": "Left Settler Footprint (dirt)"
+  },
+  {
+    "key": "dev_particle_worker_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Settler Footprint (dirt)",
+    "vi": "Right Settler Footprint (dirt)"
+  },
+  {
+    "key": "dev_particle_bear_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Bear Footprint",
+    "vi": "Left Bear Footprint"
+  },
+  {
+    "key": "dev_particle_bear_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Bear Footprint",
+    "vi": "Right Bear Footprint"
+  },
+  {
+    "key": "dev_particle_boar_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Boar Footprint",
+    "vi": "Right Boar Footprint"
+  },
+  {
+    "key": "dev_particle_boar_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Boar Footprint",
+    "vi": "Left Boar Footprint"
+  },
+  {
+    "key": "dev_particle_deer_dirt_footprint",
+    "type": 0,
+    "en": "Deer Footprint",
+    "vi": "Deer Footprint"
+  },
+  {
+    "key": "dev_particle_cow_dirt_footprint",
+    "type": 0,
+    "en": "Cow Footprint",
+    "vi": "Cow Footprint"
+  },
+  {
+    "key": "dev_particle_donkey_dirt_footprint",
+    "type": 0,
+    "en": "Donkey Footprint",
+    "vi": "Donkey Footprint"
+  },
+  {
+    "key": "dev_particle_dog_dirt_footprint",
+    "type": 0,
+    "en": "Dog Footprint",
+    "vi": "Dog Footprint"
+  },
+  {
+    "key": "dev_particle_sheep_dirt_footprint",
+    "type": 0,
+    "en": "Sheep Footprint",
+    "vi": "Sheep Footprint"
+  },
+  {
+    "key": "dev_particle_worker_snow_left_footprint",
+    "type": 0,
+    "en": "Left Settler Footprint (snow)",
+    "vi": "Left Settler Footprint (snow)"
+  },
+  {
+    "key": "dev_particle_worker_snow_right_footprint",
+    "type": 0,
+    "en": "Right Settler Footprint (snow)",
+    "vi": "Right Settler Footprint (snow)"
+  },
+  {
+    "key": "dev_particle_footsteps_snow_dust",
+    "type": 0,
+    "en": "Snow Footprint Dust",
+    "vi": "Snow Footprint Dust"
+  },
+  {
+    "key": "dev_particle_footsteps_wet_splash",
+    "type": 0,
+    "en": "Footprint Water Splash",
+    "vi": "Footprint Water Splash"
+  },
+  {
+    "key": "dev_particle_footsteps_grass_dust",
+    "type": 0,
+    "en": "Footprint Grass Dust",
+    "vi": "Footprint Grass Dust"
+  },
+  {
+    "key": "dev_particle_water_splash",
+    "type": 0,
+    "en": "Water Splash",
+    "vi": "Water Splash"
+  },
+  {
+    "key": "dev_particle_water_ripple",
+    "type": 0,
+    "en": "Water Ripple",
+    "vi": "Water Ripple"
+  },
+  {
+    "key": "dev_select_event_group",
+    "type": 0,
+    "en": "Select an Event Group to schedule:",
+    "vi": "Select an Event Group to schedule:"
+  },
+  {
+    "key": "dev_tooltip_event_group",
+    "type": 0,
+    "en": "Schedule a random event from the selected group",
+    "vi": "Schedule a random event from the selected group"
+  },
+  {
+    "key": "dev_event_group_Runaway",
+    "type": 0,
+    "en": "Runaway Settler",
+    "vi": "Runaway Settler"
+  },
+  {
+    "key": "dev_event_group_Thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Thunderstorm"
+  },
+  {
+    "key": "dev_event_group_Hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Hailstorm"
+  },
+  {
+    "key": "dev_event_group_Blight",
+    "type": 0,
+    "en": "Blighted crops",
+    "vi": "Blighted crops"
+  },
+  {
+    "key": "dev_event_group_Coldsnap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Cold snap"
+  },
+  {
+    "key": "dev_event_group_Heatwave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Heat wave"
+  },
+  {
+    "key": "dev_event_group_Newworker",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "New Settler"
+  },
+  {
+    "key": "dev_event_group_Visitor",
+    "type": 0,
+    "en": "Lone Traveller",
+    "vi": "Lone Traveller"
+  },
+  {
+    "key": "BlankBehaviour",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "EnemyBehaviour",
+    "type": 0,
+    "en": "Enemy",
+    "vi": "Enemy"
+  },
+  {
+    "key": "TraderBehaviour",
+    "type": 0,
+    "en": "Trader",
+    "vi": "Trader"
+  },
+  {
+    "key": "TraderBodyguardBehaviour",
+    "type": 0,
+    "en": "Trader Bodyguard",
+    "vi": "Trader Bodyguard"
+  },
+  {
+    "key": "dev_make_npc_leave",
+    "type": 0,
+    "en": "Banish NPC",
+    "vi": "Banish NPC"
+  },
+  {
+    "key": "dev_tooltip_make_npc_leave",
+    "type": 0,
+    "en": "Makes the NPC leave the map.",
+    "vi": "Makes the NPC leave the map."
+  },
+  {
+    "key": "dev_event_crop_blight",
+    "type": 0,
+    "en": "Blighted crops",
+    "vi": "Blighted crops"
+  },
+  {
+    "key": "dev_event_season_start_spring",
+    "type": 0,
+    "en": "Spring Start",
+    "vi": "Spring Start"
+  },
+  {
+    "key": "dev_event_season_start_summer",
+    "type": 0,
+    "en": "Summer Start",
+    "vi": "Summer Start"
+  },
+  {
+    "key": "dev_event_season_start_autumn",
+    "type": 0,
+    "en": "Autumn Start",
+    "vi": "Autumn Start"
+  },
+  {
+    "key": "dev_event_season_start_winter",
+    "type": 0,
+    "en": "Winter Start",
+    "vi": "Winter Start"
+  },
+  {
+    "key": "dev_event_heat_wave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Heat wave"
+  },
+  {
+    "key": "dev_event_cold_snap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Cold snap"
+  },
+  {
+    "key": "dev_event_hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Hailstorm"
+  },
+  {
+    "key": "dev_event_thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Thunderstorm"
+  },
+  {
+    "key": "dev_event_influence_20",
+    "type": 0,
+    "en": "Influence rising",
+    "vi": "Influence rising"
+  },
+  {
+    "key": "dev_event_influence_100",
+    "type": 0,
+    "en": "Golden age",
+    "vi": "Golden age"
+  },
+  {
+    "key": "dev_event_new_worker",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "New Settler"
+  },
+  {
+    "key": "dev_event_new_worker_hungry",
+    "type": 0,
+    "en": "Hunger comes calling",
+    "vi": "Hunger comes calling"
+  },
+  {
+    "key": "dev_event_new_worker_wounded",
+    "type": 0,
+    "en": "A safe haven",
+    "vi": "A safe haven"
+  },
+  {
+    "key": "dev_event_new_worker_wounded_02",
+    "type": 0,
+    "en": "Barking up the wrong tree",
+    "vi": "Barking up the wrong tree"
+  },
+  {
+    "key": "dev_event_new_worker_sick",
+    "type": 0,
+    "en": "This too shall pass",
+    "vi": "This too shall pass"
+  },
+  {
+    "key": "dev_event_runaway_new",
+    "type": 0,
+    "en": "Violent extortionists ",
+    "vi": "Violent extortionists "
+  },
+  {
+    "key": "dev_event_all_dead",
+    "type": 0,
+    "en": "All is lost",
+    "vi": "All is lost"
+  },
+  {
+    "key": "dev_event_general_goods_trader_small",
+    "type": 0,
+    "en": "Pedlar",
+    "vi": "Pedlar"
+  },
+  {
+    "key": "dev_event_general_goods_trader_normal",
+    "type": 0,
+    "en": "General goods merchant ",
+    "vi": "General goods merchant "
+  },
+  {
+    "key": "dev_event_general_goods_trader_large",
+    "type": 0,
+    "en": "General goods wholesale merchant",
+    "vi": "General goods wholesale merchant"
+  },
+  {
+    "key": "dev_event_trader_rare",
+    "type": 0,
+    "en": "Rare goods merchant",
+    "vi": "Rare goods merchant"
+  },
+  {
+    "key": "dev_event_trader_visitor",
+    "type": 0,
+    "en": "Lone Traveller",
+    "vi": "Lone Traveller"
+  },
+  {
+    "key": "game_boar_event",
+    "type": 0,
+    "en": "Boar",
+    "vi": "Boar"
+  },
+  {
+    "key": "game_dog_event",
+    "type": 0,
+    "en": "Dog",
+    "vi": "Dog"
+  },
+  {
+    "key": "game_cat_event",
+    "type": 0,
+    "en": "Cat",
+    "vi": "Cat"
+  },
+  {
+    "key": "game_deer_event",
+    "type": 0,
+    "en": "Deer",
+    "vi": "Deer"
+  },
+  {
+    "key": "game_goat_event",
+    "type": 0,
+    "en": "Goat",
+    "vi": "Goat"
+  },
+  {
+    "key": "game_cow_event",
+    "type": 0,
+    "en": "Cattle",
+    "vi": "Cattle"
+  },
+  {
+    "key": "game_sheep_event",
+    "type": 0,
+    "en": "Sheep",
+    "vi": "Sheep"
+  },
+  {
+    "key": "game_sheep_domestic_event",
+    "type": 0,
+    "en": "Domestic Sheep",
+    "vi": "Domestic Sheep"
+  },
+  {
+    "key": "game_chicken_event",
+    "type": 0,
+    "en": "Chicken",
+    "vi": "Chicken"
+  },
+  {
+    "key": "game_pheasant_event",
+    "type": 0,
+    "en": "Pheasant",
+    "vi": "Pheasant"
+  },
+  {
+    "key": "game_cow_domestic_event",
+    "type": 0,
+    "en": "Domestic Cow",
+    "vi": "Domestic Cow"
+  },
+  {
+    "key": "game_fox_event",
+    "type": 0,
+    "en": "Fox",
+    "vi": "Fox"
+  },
+  {
+    "key": "game_polecat_event",
+    "type": 0,
+    "en": "Polecat",
+    "vi": "Polecat"
+  },
+  {
+    "key": "game_single_polecat_event",
+    "type": 0,
+    "en": "Single Polecat",
+    "vi": "Single Polecat"
+  },
+  {
+    "key": "game_bear_event",
+    "type": 0,
+    "en": "Bear",
+    "vi": "Bear"
+  },
+  {
+    "key": "dev_event_shakedown",
+    "type": 0,
+    "en": "Extortion",
+    "vi": "Extortion"
+  },
+  {
+    "key": "dev_event_bard_visitor",
+    "type": 0,
+    "en": "Bard",
+    "vi": "Bard"
+  },
+  {
+    "key": "dev_event_priest_visitor",
+    "type": 0,
+    "en": "Chaplain",
+    "vi": "Chaplain"
+  },
+  {
+    "key": "dev_event_shaman_visitor",
+    "type": 0,
+    "en": "Druid",
+    "vi": "Druid"
+  },
+  {
+    "key": "dev_events_seasons_and_weather",
+    "type": 0,
+    "en": "Seasons and Weather",
+    "vi": "Seasons and Weather"
+  },
+  {
+    "key": "dev_event_group_VisitorRole",
+    "type": 0,
+    "en": "Friendly Visit",
+    "vi": "Friendly Visit"
+  },
+  {
+    "key": "dev_spawn_bard_visitor",
+    "type": 0,
+    "en": "Spawn Bard",
+    "vi": "Spawn Bard"
+  },
+  {
+    "key": "dev_toggle_invurnelability",
+    "type": 0,
+    "en": "Toggle Creature Invulnerability",
+    "vi": "Toggle Creature Invulnerability"
+  },
+  {
+    "key": "dev_toggle_invurnelability_on",
+    "type": 0,
+    "en": "Make All Settlers Vulnerable",
+    "vi": "Make All Settlers Vulnerable"
+  },
+  {
+    "key": "dev_toggle_invurnelability_off",
+    "type": 0,
+    "en": "Make All Settlers Invulnearable",
+    "vi": "Make All Settlers Invulnearable"
+  },
+  {
+    "key": "dev_tooltip_toggle_invurnelability",
+    "type": 0,
+    "en": "Toggles Invulnerability of any Creature you click on",
+    "vi": "Toggles Invulnerability of any Creature you click on"
+  },
+  {
+    "key": "dev_tooltip_toggle_Invulnerability_all",
+    "type": 0,
+    "en": "Toggles Invulnerability for all of your Settlers.",
+    "vi": "Toggles Invulnerability for all of your Settlers."
+  },
+  {
+    "key": "dev_unlock_all_variants_off",
+    "type": 0,
+    "en": "Unlock All Variants: Off",
+    "vi": "Unlock All Variants: Off"
+  },
+  {
+    "key": "dev_unlock_all_variants_on",
+    "type": 0,
+    "en": "Unlock All Variants: On",
+    "vi": "Unlock All Variants: On"
+  },
+  {
+    "key": "dev_tooltip_unlock_all_variants",
+    "type": 0,
+    "en": "If on will have all variants of building types unlocked regardless wether you have discovered the associated material",
+    "vi": "If on will have all variants of building types unlocked regardless wether you have discovered the associated material"
+  },
+  {
+    "key": "dev_all_placement_allowed_on",
+    "type": 0,
+    "en": "Allow All Placement: On",
+    "vi": "Allow All Placement: On"
+  },
+  {
+    "key": "dev_all_placement_allowed_off",
+    "type": 0,
+    "en": "Allow All Placement: Off",
+    "vi": "Allow All Placement: Off"
+  },
+  {
+    "key": "dev_tooltip_all_placement_allowed",
+    "type": 0,
+    "en": "If on will allow overlapping buildings and placing socketable buildings floating in the air, etc",
+    "vi": "If on will allow overlapping buildings and placing socketable buildings floating in the air, etc"
+  },
+  {
+    "key": "dev_allowEdgePlacement_off",
+    "type": 0,
+    "en": "Edge Placement: Off",
+    "vi": "Edge Placement: Off"
+  },
+  {
+    "key": "dev_allowEdgePlacement_on",
+    "type": 0,
+    "en": "Edge Placement: On",
+    "vi": "Edge Placement: On"
+  },
+  {
+    "key": "dev_tooltip_allowEdgePlacement",
+    "type": 0,
+    "en": "Allows buildings to be placed in the red zone",
+    "vi": "Allows buildings to be placed in the red zone"
+  },
+  {
+    "key": "dev_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Research"
+  },
+  {
+    "key": "dev_production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "dev_camera",
+    "type": 0,
+    "en": "Camera",
+    "vi": "Camera"
+  }
+]

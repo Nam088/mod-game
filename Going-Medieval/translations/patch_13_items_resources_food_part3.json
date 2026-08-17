@@ -1,0 +1,926 @@
+[
+  {
+    "key": "resource_info_flamable_oil",
+    "type": 0,
+    "en": "Slick liquid that will catch fire in favourable conditions.",
+    "vi": "Slick liquid that will catch fire in favourable conditions."
+  },
+  {
+    "key": "resource_info_flamable_oil_greek_fire",
+    "type": 0,
+    "en": "Fierce combustible that cannot be quenched with water. Said to contain quicklime and saltpetre.",
+    "vi": "Fierce combustible that cannot be quenched with water. Said to contain quicklime and saltpetre."
+  },
+  {
+    "key": "resource_category_name_CtgAlcoholMat",
+    "type": 0,
+    "en": "Alcohol Ingredients",
+    "vi": "Alcohol Ingredients"
+  },
+  {
+    "key": "resource_category_name_CtgAnimHerbFood",
+    "type": 0,
+    "en": "Herbivore Food",
+    "vi": "Herbivore Food"
+  },
+  {
+    "key": "resource_category_name_CtgAperal",
+    "type": 0,
+    "en": "Apparel",
+    "vi": "Apparel"
+  },
+  {
+    "key": "resource_category_name_CtgBuildMat",
+    "type": 0,
+    "en": "Construction Material",
+    "vi": "Construction Material"
+  },
+  {
+    "key": "resource_category_name_CtgCarcass",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Carcass"
+  },
+  {
+    "key": "resource_category_name_CtgChemMat",
+    "type": 0,
+    "en": "Chemical",
+    "vi": "Chemical"
+  },
+  {
+    "key": "resource_category_name_CtgClothMat",
+    "type": 0,
+    "en": "Clothing Fabric",
+    "vi": "Clothing Fabric"
+  },
+  {
+    "key": "resource_category_name_CtgCookingMat",
+    "type": 0,
+    "en": "Primary Cooking Ingredient",
+    "vi": "Primary Cooking Ingredient"
+  },
+  {
+    "key": "resource_category_name_CtgSecondCookingMat",
+    "type": 0,
+    "en": "Secondary Cooking Ingredient",
+    "vi": "Secondary Cooking Ingredient"
+  },
+  {
+    "key": "resource_category_name_CtgDesinf",
+    "type": 0,
+    "en": "Disinfectants",
+    "vi": "Disinfectants"
+  },
+  {
+    "key": "resource_category_name_CtgEdible",
+    "type": 0,
+    "en": "Edible",
+    "vi": "Edible"
+  },
+  {
+    "key": "resource_category_name_CtgFruit",
+    "type": 0,
+    "en": "Fruits",
+    "vi": "Fruits"
+  },
+  {
+    "key": "resource_category_name_CtgFuel",
+    "type": 0,
+    "en": "Fuel",
+    "vi": "Fuel"
+  },
+  {
+    "key": "resource_category_name_CtgHealPack",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Medicine"
+  },
+  {
+    "key": "resource_category_name_CtgItem",
+    "type": 0,
+    "en": "Item",
+    "vi": "Item"
+  },
+  {
+    "key": "resource_category_name_CtgMeal",
+    "type": 0,
+    "en": "Meals",
+    "vi": "Meals"
+  },
+  {
+    "key": "resource_category_name_CtgMeat",
+    "type": 0,
+    "en": "Meat",
+    "vi": "Meat"
+  },
+  {
+    "key": "resource_category_name_CtgMetal",
+    "type": 0,
+    "en": "Metal",
+    "vi": "Metal"
+  },
+  {
+    "key": "resource_category_name_CtgPresMat",
+    "type": 0,
+    "en": "Preservatives",
+    "vi": "Preservatives"
+  },
+  {
+    "key": "resource_category_name_CtgRawMat",
+    "type": 0,
+    "en": "Raw Material",
+    "vi": "Raw Material"
+  },
+  {
+    "key": "resource_category_name_CtgRawMeat",
+    "type": 0,
+    "en": "Raw Meat",
+    "vi": "Raw Meat"
+  },
+  {
+    "key": "resource_category_name_CtgResearch",
+    "type": 0,
+    "en": "Knowledge",
+    "vi": "Knowledge"
+  },
+  {
+    "key": "resource_category_name_CtgVegetable",
+    "type": 0,
+    "en": "Vegetables",
+    "vi": "Vegetables"
+  },
+  {
+    "key": "resource_category_name_CtgWaste",
+    "type": 0,
+    "en": "Waste",
+    "vi": "Waste"
+  },
+  {
+    "key": "resource_category_name_CtgAlcohol",
+    "type": 0,
+    "en": "Alcohol",
+    "vi": "Alcohol"
+  },
+  {
+    "key": "resource_category_name_CtgLeatherMat",
+    "type": 0,
+    "en": "Leather",
+    "vi": "Leather"
+  },
+  {
+    "key": "resource_category_name_CtgTextileMat",
+    "type": 0,
+    "en": "Textiles",
+    "vi": "Textiles"
+  },
+  {
+    "key": "resource_category_name_CtgHumanCarcass",
+    "type": 0,
+    "en": "Human Carcass",
+    "vi": "Human Carcass"
+  },
+  {
+    "key": "resource_category_name_CtgStructure",
+    "type": 0,
+    "en": "Structure",
+    "vi": "Structure"
+  },
+  {
+    "key": "resource_category_name_CtgSeeds",
+    "type": 0,
+    "en": "Seeds",
+    "vi": "Seeds"
+  },
+  {
+    "key": "resource_category_name_CtgCandleFuel",
+    "type": 0,
+    "en": "Candle Material",
+    "vi": "Candle Material"
+  },
+  {
+    "key": "resource_category_name_CtgDestilMat",
+    "type": 0,
+    "en": "Distillery ingredients",
+    "vi": "Distillery ingredients"
+  },
+  {
+    "key": "resource_group_Apparel",
+    "type": 0,
+    "en": "Apparel",
+    "vi": "Apparel"
+  },
+  {
+    "key": "resource_group_ApparelClothing",
+    "type": 0,
+    "en": "Clothing",
+    "vi": "Clothing"
+  },
+  {
+    "key": "resource_group_ApparelHeadware",
+    "type": 0,
+    "en": "Hats",
+    "vi": "Hats"
+  },
+  {
+    "key": "resource_group_Books",
+    "type": 0,
+    "en": "Books",
+    "vi": "Books"
+  },
+  {
+    "key": "resource_group_Carcass",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Carcass"
+  },
+  {
+    "key": "resource_group_CarcassAnimal",
+    "type": 0,
+    "en": "Animal",
+    "vi": "Animal"
+  },
+  {
+    "key": "resource_group_CarcassHuman",
+    "type": 0,
+    "en": "Human",
+    "vi": "Human"
+  },
+  {
+    "key": "resource_group_Food",
+    "type": 0,
+    "en": "Food",
+    "vi": "Food"
+  },
+  {
+    "key": "resource_group_FoodMeal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Meal"
+  },
+  {
+    "key": "resource_group_FoodRaw",
+    "type": 0,
+    "en": "Raw",
+    "vi": "Raw"
+  },
+  {
+    "key": "resource_group_Material",
+    "type": 0,
+    "en": "Material",
+    "vi": "Material"
+  },
+  {
+    "key": "resource_group_Textiles",
+    "type": 0,
+    "en": "Textiles",
+    "vi": "Textiles"
+  },
+  {
+    "key": "resource_group_Warfare",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "resource_group_WarfareShield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Shield"
+  },
+  {
+    "key": "resource_group_Waste",
+    "type": 0,
+    "en": "Waste",
+    "vi": "Waste"
+  },
+  {
+    "key": "resource_group_MeleeOnehanded",
+    "type": 0,
+    "en": "One Handed Melee",
+    "vi": "One Handed Melee"
+  },
+  {
+    "key": "resource_group_MeleeTwohanded",
+    "type": 0,
+    "en": "Two Handed Melee",
+    "vi": "Two Handed Melee"
+  },
+  {
+    "key": "resource_group_Medicine",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Medicine"
+  },
+  {
+    "key": "resource_group_MaterialUnrefined",
+    "type": 0,
+    "en": "Raw Material",
+    "vi": "Raw Material"
+  },
+  {
+    "key": "resource_group_MaterialManufactured",
+    "type": 0,
+    "en": "Manufactured",
+    "vi": "Manufactured"
+  },
+  {
+    "key": "resource_group_Structures",
+    "type": 0,
+    "en": "Structures",
+    "vi": "Structures"
+  },
+  {
+    "key": "resource_group_Water",
+    "type": 0,
+    "en": "Water",
+    "vi": "Water"
+  },
+  {
+    "key": "resource_group_Base",
+    "type": 0,
+    "en": "Base",
+    "vi": "Base"
+  },
+  {
+    "key": "resource_group_StructuresLeisure",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Leisure"
+  },
+  {
+    "key": "resource_group_StructuresDecoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "resource_group_StructuresDefense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "resource_group_StructuresProduction",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "resource_group_Seeds",
+    "type": 0,
+    "en": "Seeds",
+    "vi": "Seeds"
+  },
+  {
+    "key": "resource_group_Trophy",
+    "type": 0,
+    "en": "Trophies",
+    "vi": "Trophies"
+  },
+  {
+    "key": "resource_group_FoodFermenting",
+    "type": 0,
+    "en": "Fermenting ingredients",
+    "vi": "Fermenting ingredients"
+  },
+  {
+    "key": "resource_group_Fodder",
+    "type": 0,
+    "en": "Fodder",
+    "vi": "Fodder"
+  },
+  {
+    "key": "resource_group_Decoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "resource_category_name_CtgFodder",
+    "type": 0,
+    "en": "Fodder",
+    "vi": "Fodder"
+  },
+  {
+    "key": "resource_category_name_CtgGold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Gold"
+  },
+  {
+    "key": "resource_group_Coin",
+    "type": 0,
+    "en": "Coins",
+    "vi": "Coins"
+  },
+  {
+    "key": "resource_group_Misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "resource_category_name_CtgOilSource",
+    "type": 0,
+    "en": "Oil Source",
+    "vi": "Oil Source"
+  },
+  {
+    "key": "resource_group_Ammo",
+    "type": 0,
+    "en": "Ammunition",
+    "vi": "Ammunition"
+  },
+  {
+    "key": "resource_group_AmmoProjectile",
+    "type": 0,
+    "en": "Trebuchet Ammunition",
+    "vi": "Trebuchet Ammunition"
+  },
+  {
+    "key": "resource_group_AmmoPierce",
+    "type": 0,
+    "en": "Ballista Ammunition",
+    "vi": "Ballista Ammunition"
+  },
+  {
+    "key": "resource_group_AmmoMultishot",
+    "type": 0,
+    "en": "Onager Ammunition",
+    "vi": "Onager Ammunition"
+  },
+  {
+    "key": "resource_group_Relic",
+    "type": 0,
+    "en": "Holy Relic",
+    "vi": "Holy Relic"
+  },
+  {
+    "key": "resource_group_Grandoak",
+    "type": 0,
+    "en": "Mighty Oak",
+    "vi": "Mighty Oak"
+  },
+  {
+    "key": "resource_group_Grandbook",
+    "type": 0,
+    "en": "Influential Treatise",
+    "vi": "Influential Treatise"
+  },
+  {
+    "key": "resource_group_MealSimple",
+    "type": 0,
+    "en": "Simple Meal",
+    "vi": "Simple Meal"
+  },
+  {
+    "key": "resource_group_MealLavish",
+    "type": 0,
+    "en": "Lavish Meal",
+    "vi": "Lavish Meal"
+  },
+  {
+    "key": "resource_group_winter_clothes_tainted",
+    "type": 0,
+    "en": "Winter Clothes (Tainted)",
+    "vi": "Winter Clothes (Tainted)"
+  },
+  {
+    "key": "resource_group_summer_clothes_tainted",
+    "type": 0,
+    "en": "Summer Clothes (Tainted)",
+    "vi": "Summer Clothes (Tainted)"
+  },
+  {
+    "key": "resource_name_pet",
+    "type": 0,
+    "en": "Pet",
+    "vi": "Pet"
+  },
+  {
+    "key": "resource_name_silver_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Wall Mirror"
+  },
+  {
+    "key": "resource_name_wool_rug_large_proto",
+    "type": 0,
+    "en": "Rug",
+    "vi": "Rug"
+  },
+  {
+    "key": "resource_name_hay_rug_large_proto",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Rush Matting"
+  },
+  {
+    "key": "dev_autoprod_resources_off",
+    "type": 0,
+    "en": "Auto Production: Off",
+    "vi": "Auto Production: Off"
+  },
+  {
+    "key": "dev_autoprod_resources_on",
+    "type": 0,
+    "en": "Auto Production: On",
+    "vi": "Auto Production: On"
+  },
+  {
+    "key": "dev_mark_animals_for_attack",
+    "type": 0,
+    "en": "Mark Animals for Hunting",
+    "vi": "Mark Animals for Hunting"
+  },
+  {
+    "key": "dev_spawn_animal",
+    "type": 0,
+    "en": "Spawn Animal",
+    "vi": "Spawn Animal"
+  },
+  {
+    "key": "dev_spawn_resource",
+    "type": 0,
+    "en": "Spawn Resource",
+    "vi": "Spawn Resource"
+  },
+  {
+    "key": "dev_spawn_plant",
+    "type": 0,
+    "en": "Spawn Plant on Point",
+    "vi": "Spawn Plant on Point"
+  },
+  {
+    "key": "dev_spawn_resource_ctg",
+    "type": 0,
+    "en": "Spawn all from Category",
+    "vi": "Spawn all from Category"
+  },
+  {
+    "key": "dev_kill_all_animals",
+    "type": 0,
+    "en": "Kill All Animals",
+    "vi": "Kill All Animals"
+  },
+  {
+    "key": "dev_kill_all_plants",
+    "type": 0,
+    "en": "Destroy All Plants",
+    "vi": "Destroy All Plants"
+  },
+  {
+    "key": "dev_plant_next_phase",
+    "type": 0,
+    "en": "Force Plant Next Phase on Point",
+    "vi": "Force Plant Next Phase on Point"
+  },
+  {
+    "key": "dev_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "dev_animal_prod_finish",
+    "type": 0,
+    "en": "Finish Animal Production",
+    "vi": "Finish Animal Production"
+  },
+  {
+    "key": "dev_reset_animal_timers",
+    "type": 0,
+    "en": "Reset Taming/Training Counters",
+    "vi": "Reset Taming/Training Counters"
+  },
+  {
+    "key": "dev_tooltip_spawn_plant",
+    "type": 0,
+    "en": "Spawns Plant on Mouse Click",
+    "vi": "Spawns Plant on Mouse Click"
+  },
+  {
+    "key": "dev_tooltip_spawn_resource",
+    "type": 0,
+    "en": "Spawns resource pile on mouse click",
+    "vi": "Spawns resource pile on mouse click"
+  },
+  {
+    "key": "dev_tooltip_spawn_resource_ctg",
+    "type": 0,
+    "en": "Spawns every resource of a category on mouse click",
+    "vi": "Spawns every resource of a category on mouse click"
+  },
+  {
+    "key": "dev_tooltip_spawn_animal",
+    "type": 0,
+    "en": "Spawns animal on mouse click",
+    "vi": "Spawns animal on mouse click"
+  },
+  {
+    "key": "dev_tooltip_hunt_animals",
+    "type": 0,
+    "en": "Marks all animals for Hunting.",
+    "vi": "Marks all animals for Hunting."
+  },
+  {
+    "key": "dev_tooltip_kill_all_animals",
+    "type": 0,
+    "en": "Kills all animals on the map.",
+    "vi": "Kills all animals on the map."
+  },
+  {
+    "key": "dev_tooltip_kill_plants",
+    "type": 0,
+    "en": "Destroys all plants on the map.",
+    "vi": "Destroys all plants on the map."
+  },
+  {
+    "key": "dev_tooltip_plant_next_phase",
+    "type": 0,
+    "en": "Advance the clicked plant to its next growth phase.",
+    "vi": "Advance the clicked plant to its next growth phase."
+  },
+  {
+    "key": "dev_tooltip_set_pregnant_animal",
+    "type": 0,
+    "en": "Force pregnancy on female animal on mouse click.",
+    "vi": "Force pregnancy on female animal on mouse click."
+  },
+  {
+    "key": "dev_tooltip_give_birth_animal",
+    "type": 0,
+    "en": "Completes pregnancy for female animal on mouse click.",
+    "vi": "Completes pregnancy for female animal on mouse click."
+  },
+  {
+    "key": "dev_tooltip_finish_animal_production",
+    "type": 0,
+    "en": "Force completion of animal production on mouse click.",
+    "vi": "Force completion of animal production on mouse click."
+  },
+  {
+    "key": "resource_name_fish_pike",
+    "type": 0,
+    "en": "Pike ",
+    "vi": "Pike "
+  },
+  {
+    "key": "resource_name_fish_trout",
+    "type": 0,
+    "en": "Trout",
+    "vi": "Trout"
+  },
+  {
+    "key": "dev_select_plant",
+    "type": 0,
+    "en": "Choose plant to spawn:",
+    "vi": "Choose plant to spawn:"
+  },
+  {
+    "key": "dev_tooltip_plant",
+    "type": 0,
+    "en": "Spawns chosen plant on mouse click.",
+    "vi": "Spawns chosen plant on mouse click."
+  },
+  {
+    "key": "dev_tooltip_resourceCtg",
+    "type": 0,
+    "en": "Spawns every resource from the chosen category on mouse click.",
+    "vi": "Spawns every resource from the chosen category on mouse click."
+  },
+  {
+    "key": "dev_select_resourceCtg",
+    "type": 0,
+    "en": "Choose resource category to spawn:",
+    "vi": "Choose resource category to spawn:"
+  },
+  {
+    "key": "dev_tooltip_resource",
+    "type": 0,
+    "en": "Spawns the maximum stack of chosen resource on mouse click.",
+    "vi": "Spawns the maximum stack of chosen resource on mouse click."
+  },
+  {
+    "key": "dev_select_resource",
+    "type": 0,
+    "en": "Choose resource to spawn:",
+    "vi": "Choose resource to spawn:"
+  },
+  {
+    "key": "dev_tooltip_animal_pet",
+    "type": 0,
+    "en": "Spawns chosen animal on mouse click as a pet.",
+    "vi": "Spawns chosen animal on mouse click as a pet."
+  },
+  {
+    "key": "dev_tooltip_animal_domestic",
+    "type": 0,
+    "en": "Spawns chosen domesticated animal on mouse click.",
+    "vi": "Spawns chosen domesticated animal on mouse click."
+  },
+  {
+    "key": "dev_tooltip_animal",
+    "type": 0,
+    "en": "Spawns chosen animal as wild on mouse click.",
+    "vi": "Spawns chosen animal as wild on mouse click."
+  },
+  {
+    "key": "dev_tooltip_wild_aggressive_animals",
+    "type": 0,
+    "en": "Spawns chosen animal as wild aggressive on mouse click.",
+    "vi": "Spawns chosen animal as wild aggressive on mouse click."
+  },
+  {
+    "key": "dev_wild_animals",
+    "type": 0,
+    "en": "Wild Animals",
+    "vi": "Wild Animals"
+  },
+  {
+    "key": "dev_domestic_animals",
+    "type": 0,
+    "en": "Domestic Animals",
+    "vi": "Domestic Animals"
+  },
+  {
+    "key": "dev_pet_animals",
+    "type": 0,
+    "en": "Pet Animals",
+    "vi": "Pet Animals"
+  },
+  {
+    "key": "dev_wild_aggressive_animals",
+    "type": 0,
+    "en": "Wild Aggressive Animals",
+    "vi": "Wild Aggressive Animals"
+  },
+  {
+    "key": "resource_category_name_CtgAll",
+    "type": 0,
+    "en": "All",
+    "vi": "All"
+  },
+  {
+    "key": "resource_name_heater_shield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Shield"
+  },
+  {
+    "key": "resource_name_macabre_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Crown"
+  },
+  {
+    "key": "resource_name_druid_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Crown"
+  },
+  {
+    "key": "resource_name_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Wall Mirror"
+  },
+  {
+    "key": "resource_name_stone_statue_large",
+    "type": 0,
+    "en": "Large Statue (Limestone)",
+    "vi": "Large Statue (Limestone)"
+  },
+  {
+    "key": "resource_name_wood_statue_large",
+    "type": 0,
+    "en": "Large Statue (Wood)",
+    "vi": "Large Statue (Wood)"
+  },
+  {
+    "key": "resource_name_stone_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Limestone)",
+    "vi": "Wall Relief (Limestone)"
+  },
+  {
+    "key": "resource_name_wood_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Wood)",
+    "vi": "Wall Relief (Wood)"
+  },
+  {
+    "key": "resource_name_rug_large",
+    "type": 0,
+    "en": "Rug (Linen)",
+    "vi": "Rug (Linen)"
+  },
+  {
+    "key": "resource_name_hay_rug_large",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Rush Matting"
+  },
+  {
+    "key": "resource_name_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Wall Tapestry",
+    "vi": "Wall Tapestry"
+  },
+  {
+    "key": "resource_name_painting_vertical_wall",
+    "type": 0,
+    "en": "Painting",
+    "vi": "Painting"
+  },
+  {
+    "key": "menu_AnimalWild",
+    "type": 0,
+    "en": "Animal Wildness",
+    "vi": "Animal Wildness"
+  },
+  {
+    "key": "menu_AnimalUntrained",
+    "type": 0,
+    "en": "Animal Untrainedness",
+    "vi": "Animal Untrainedness"
+  },
+  {
+    "key": "dev_event_group_AnimalMiscSmall",
+    "type": 0,
+    "en": "Group of Animals",
+    "vi": "Group of Animals"
+  },
+  {
+    "key": "dev_event_group_AnimalWildLarge",
+    "type": 0,
+    "en": "Large Wild Animal",
+    "vi": "Large Wild Animal"
+  },
+  {
+    "key": "dev_event_group_AnimalDomesticSingle",
+    "type": 0,
+    "en": "Domestic Animal",
+    "vi": "Domestic Animal"
+  },
+  {
+    "key": "dev_event_group_AnimalBearSingle",
+    "type": 0,
+    "en": "Bear",
+    "vi": "Bear"
+  },
+  {
+    "key": "dev_relocate_animal_idle_points",
+    "type": 0,
+    "en": "Relocate Animal Idle Points",
+    "vi": "Relocate Animal Idle Points"
+  },
+  {
+    "key": "dev_tooltip_relocate_animal_idle_points",
+    "type": 0,
+    "en": "Refreshes and randomly relocates all animal idle points.",
+    "vi": "Refreshes and randomly relocates all animal idle points."
+  },
+  {
+    "key": "dev_plants",
+    "type": 0,
+    "en": "Plants",
+    "vi": "Plants"
+  },
+  {
+    "key": "dev_spawn_mature_plant",
+    "type": 0,
+    "en": "Spawn Mature Plant on Point",
+    "vi": "Spawn Mature Plant on Point"
+  },
+  {
+    "key": "dev_tooltip_spawn_mature_plant",
+    "type": 0,
+    "en": "Spawns a fully grown plant on point",
+    "vi": "Spawns a fully grown plant on point"
+  },
+  {
+    "key": "dev_force_plant_crops_off",
+    "type": 0,
+    "en": "Auto Plant Crops: Off",
+    "vi": "Auto Plant Crops: Off"
+  },
+  {
+    "key": "dev_force_plant_crops_on",
+    "type": 0,
+    "en": "Auto Plant Crops: On",
+    "vi": "Auto Plant Crops: On"
+  },
+  {
+    "key": "dev_tooltip_force_plant_crops",
+    "type": 0,
+    "en": "When this is turned on placed and expanded crops will be automatically seeded",
+    "vi": "When this is turned on placed and expanded crops will be automatically seeded"
+  },
+  {
+    "key": "dev_event_group_AnimalInfestation",
+    "type": 0,
+    "en": "Animal Infestation",
+    "vi": "Animal Infestation"
+  }
+]

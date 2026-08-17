@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "DefaultFont",
+    "type": 0,
+    "en": "UIResources/Base/Fonts/DefaultFont",
+    "vi": "UIResources/Base/Fonts/DefaultFont"
+  },
+  {
+    "key": "TitleFont",
+    "type": 0,
+    "en": "UIResources/Base/Fonts/DefaultFonts/Almendra-Bold SDF",
+    "vi": "UIResources/Base/Fonts/DefaultFonts/Almendra-Bold SDF"
+  },
+  {
+    "key": "grave",
+    "type": 0,
+    "en": "Here lies",
+    "vi": "Here lies"
+  },
+  {
+    "key": "open_window_info",
+    "type": 0,
+    "en": "An open window is ideal to cool a room during a hot summer's day",
+    "vi": "An open window is ideal to cool a room during a hot summer's day"
+  },
+  {
+    "key": "closed_window_info",
+    "type": 0,
+    "en": "A closed window keeps the warmth in. Best kept closed in the wintertime",
+    "vi": "A closed window keeps the warmth in. Best kept closed in the wintertime"
+  },
+  {
+    "key": "lock_state_locked",
+    "type": 0,
+    "en": "Locked",
+    "vi": "Locked"
+  },
+  {
+    "key": "lock_state_unlocked",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "lock_state_always_open",
+    "type": 0,
+    "en": "Keep open",
+    "vi": "Keep open"
+  },
+  {
+    "key": "locked_door_info",
+    "type": 0,
+    "en": "This door is locked to everyone",
+    "vi": "This door is locked to everyone"
+  },
+  {
+    "key": "unlocked_door_info",
+    "type": 0,
+    "en": "Door passable by: settlers, friendly NPCs, pets and some domesticated animals like dogs and cats.\nDoor blocks: enemies, aggressive NPCs and wild animals.",
+    "vi": "Door passable by: settlers, friendly NPCs, pets and some domesticated animals like dogs and cats.\nDoor blocks: enemies, aggressive NPCs and wild animals."
+  },
+  {
+    "key": "unlocked_barn_door_info",
+    "type": 0,
+    "en": "Anyone can pass through this door.",
+    "vi": "Anyone can pass through this door."
+  },
+  {
+    "key": "always_open_door_info",
+    "type": 0,
+    "en": "Anyone can pass through this door. It does not slow down those passing through.",
+    "vi": "Anyone can pass through this door. It does not slow down those passing through."
+  },
+  {
+    "key": "error_no_possible_path",
+    "type": 0,
+    "en": "Can't find path to <object>!",
+    "vi": "Can't find path to <object>!"
+  },
+  {
+    "key": "error_autoforbid_message",
+    "type": 0,
+    "en": "<object>: is forbidden as there is no path to it",
+    "vi": "<object>: is forbidden as there is no path to it"
+  },
+  {
+    "key": "forbidden_structure_info",
+    "type": 0,
+    "en": "This structure is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this structure by clicking 'allow' or by using the allow order.",
+    "vi": "This structure is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this structure by clicking 'allow' or by using the allow order."
+  },
+  {
+    "key": "forbidden_shelf_info",
+    "type": 0,
+    "en": "Stocking resources here is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't leave or take resources unless allowed. Allow its use by clicking 'allow' or by using the allow order.",
+    "vi": "Stocking resources here is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't leave or take resources unless allowed. Allow its use by clicking 'allow' or by using the allow order."
+  },
+  {
+    "key": "attack_duration",
+    "type": 0,
+    "en": "Attack Duration",
+    "vi": "Attack Duration"
+  },
+  {
+    "key": "banish_worker_confirm",
+    "type": 0,
+    "en": "Banishing this settler will have a negative impact on the rest of your settlers. Are you sure you want to proceed?",
+    "vi": "Banishing this settler will have a negative impact on the rest of your settlers. Are you sure you want to proceed?"
+  },
+  {
+    "key": "base_damage",
+    "type": 0,
+    "en": "Equipped weapon damage",
+    "vi": "Equipped weapon damage"
+  },
+  {
+    "key": "base_range",
+    "type": 0,
+    "en": "Equipped weapon range",
+    "vi": "Equipped weapon range"
+  },
+  {
+    "key": "base_yield_peak",
+    "type": 0,
+    "en": "Base yield at peak",
+    "vi": "Base yield at peak"
+  },
+  {
+    "key": "base_yeald_ripe",
+    "type": 0,
+    "en": "Base yield when ripe",
+    "vi": "Base yield when ripe"
+  },
+  {
+    "key": "base_yeald_phase",
+    "type": 0,
+    "en": "Base yield in this phase",
+    "vi": "Base yield in this phase"
+  },
+  {
+    "key": "cover_amount",
+    "type": 0,
+    "en": "Cover amount",
+    "vi": "Cover amount"
+  },
+  {
+    "key": "ranged_cover_amount",
+    "type": 0,
+    "en": "Ranged Cover amount",
+    "vi": "Ranged Cover amount"
+  },
+  {
+    "key": "melee_cover_amount",
+    "type": 0,
+    "en": "Melee Cover amount",
+    "vi": "Melee Cover amount"
+  },
+  {
+    "key": "cover_percentage",
+    "type": 0,
+    "en": "Cover Effectiveness",
+    "vi": "Cover Effectiveness"
+  },
+  {
+    "key": "damage",
+    "type": 0,
+    "en": "Damage",
+    "vi": "Damage"
+  },
+  {
+    "key": "damage_per_second",
+    "type": 0,
+    "en": "Damage Per Second",
+    "vi": "Damage Per Second"
+  },
+  {
+    "key": "damage_per_second_ab",
+    "type": 0,
+    "en": "DPS",
+    "vi": "DPS"
+  },
+  {
+    "key": "dead",
+    "type": 0,
+    "en": "Dead",
+    "vi": "Dead"
+  },
+  {
+    "key": "durability",
+    "type": 0,
+    "en": "Durability",
+    "vi": "Durability"
+  },
+  {
+    "key": "high_temperature",
+    "type": 0,
+    "en": "High Temperature",
+    "vi": "High Temperature"
+  },
+  {
+    "key": "end_position",
+    "type": 0,
+    "en": "End position",
+    "vi": "End position"
+  },
+  {
+    "key": "free_spaces",
+    "type": 0,
+    "en": "Free spaces",
+    "vi": "Free spaces"
+  },
+  {
+    "key": "game_name",
+    "type": 0,
+    "en": "Going Medieval",
+    "vi": "Going Medieval"
+  },
+  {
+    "key": "general_Celsius",
+    "type": 0,
+    "en": "Celsius",
+    "vi": "Celsius"
+  },
+  {
+    "key": "general_Fahrenheit",
+    "type": 0,
+    "en": "Fahrenheit",
+    "vi": "Fahrenheit"
+  },
+  {
+    "key": "general_Kelvin",
+    "type": 0,
+    "en": "Kelvin",
+    "vi": "Kelvin"
+  },
+  {
+    "key": "general_accept",
+    "type": 0,
+    "en": "Accept",
+    "vi": "Accept"
+  },
+  {
+    "key": "general_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "general_autosave_frequency",
+    "type": 0,
+    "en": "Autosave every (days)",
+    "vi": "Autosave every (days)"
+  },
+  {
+    "key": "general_autumn",
+    "type": 0,
+    "en": "Autumn",
+    "vi": "Autumn"
+  },
+  {
+    "key": "general_xp",
+    "type": 0,
+    "en": "XP",
+    "vi": "XP"
+  },
+  {
+    "key": "general_back",
+    "type": 0,
+    "en": "Back",
+    "vi": "Back"
+  },
+  {
+    "key": "general_next_alamanc",
+    "type": 0,
+    "en": "Next",
+    "vi": "Next"
+  },
+  {
+    "key": "general_base_value",
+    "type": 0,
+    "en": "Attribute base value",
+    "vi": "Attribute base value"
+  },
+  {
+    "key": "general_blocked",
+    "type": 0,
+    "en": "Slot blocked",
+    "vi": "Slot blocked"
+  },
+  {
+    "key": "general_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Cancel"
+  },
+  {
+    "key": "general_close",
+    "type": 0,
+    "en": "Close",
+    "vi": "Close"
+  },
+  {
+    "key": "general_clothes",
+    "type": 0,
+    "en": "Clothes",
+    "vi": "Clothes"
+  },
+  {
+    "key": "general_consume",
+    "type": 0,
+    "en": "Consume",
+    "vi": "Consume"
+  },
+  {
+    "key": "general_drink",
+    "type": 0,
+    "en": "Drink",
+    "vi": "Drink"
+  },
+  {
+    "key": "general_copy",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Copy"
+  },
+  {
+    "key": "general_damage",
+    "type": 0,
+    "en": "Base damage",
+    "vi": "Base damage"
+  },
+  {
+    "key": "general_day",
+    "type": 0,
+    "en": "day",
+    "vi": "day"
+  },
+  {
+    "key": "general_days",
+    "type": 0,
+    "en": "days",
+    "vi": "days"
+  },
+  {
+    "key": "general_deliver",
+    "type": 0,
+    "en": "Deliver ammunition",
+    "vi": "Deliver ammunition"
+  },
+  {
+    "key": "general_description",
+    "type": 0,
+    "en": "Desc",
+    "vi": "Desc"
+  },
+  {
+    "key": "general_drop",
+    "type": 0,
+    "en": "Drop item",
+    "vi": "Drop item"
+  },
+  {
+    "key": "general_edit",
+    "type": 0,
+    "en": "Edit",
+    "vi": "Edit"
+  },
+  {
+    "key": "general_effects",
+    "type": 0,
+    "en": "Effects",
+    "vi": "Effects"
+  },
+  {
+    "key": "general_empty",
+    "type": 0,
+    "en": "Empty",
+    "vi": "Empty"
+  },
+  {
+    "key": "general_enemy",
+    "type": 0,
+    "en": "Enemy",
+    "vi": "Enemy"
+  },
+  {
+    "key": "general_equip",
+    "type": 0,
+    "en": "Equip",
+    "vi": "Equip"
+  },
+  {
+    "key": "general_finish",
+    "type": 0,
+    "en": "Finish",
+    "vi": "Finish"
+  },
+  {
+    "key": "general_headware",
+    "type": 0,
+    "en": "Headware",
+    "vi": "Headware"
+  },
+  {
+    "key": "general_info",
+    "type": 0,
+    "en": "Info",
+    "vi": "Info"
+  },
+  {
+    "key": "general_item_slot_body",
+    "type": 0,
+    "en": "Clothing item slot",
+    "vi": "Clothing item slot"
+  },
+  {
+    "key": "general_item_slot_head",
+    "type": 0,
+    "en": "Head item slot",
+    "vi": "Head item slot"
+  },
+  {
+    "key": "general_item_slot_lefthand",
+    "type": 0,
+    "en": "Left hand item slot",
+    "vi": "Left hand item slot"
+  },
+  {
+    "key": "general_item_slot_righthand",
+    "type": 0,
+    "en": "Right hand item slot",
+    "vi": "Right hand item slot"
+  },
+  {
+    "key": "general_lock_camera",
+    "type": 0,
+    "en": "Jump to",
+    "vi": "Jump to"
+  },
+  {
+    "key": "general_max_temperature",
+    "type": 0,
+    "en": "Maximum comfortable temperature",
+    "vi": "Maximum comfortable temperature"
+  },
+  {
+    "key": "general_maxLevel",
+    "type": 0,
+    "en": "Maximum",
+    "vi": "Maximum"
+  },
+  {
+    "key": "general_min_temperature",
+    "type": 0,
+    "en": "Minimum comfortable temperature",
+    "vi": "Minimum comfortable temperature"
+  },
+  {
+    "key": "general_next",
+    "type": 0,
+    "en": "Next",
+    "vi": "Next"
+  },
+  {
+    "key": "general_no",
+    "type": 0,
+    "en": "No",
+    "vi": "No"
+  },
+  {
+    "key": "general_of",
+    "type": 0,
+    "en": "of",
+    "vi": "of"
+  },
+  {
+    "key": "general_ok",
+    "type": 0,
+    "en": "OK",
+    "vi": "OK"
+  },
+  {
+    "key": "general_operate",
+    "type": 0,
+    "en": "Operate",
+    "vi": "Operate"
+  },
+  {
+    "key": "general_overcast",
+    "type": 0,
+    "en": "Overcast",
+    "vi": "Overcast"
+  },
+  {
+    "key": "general_paste",
+    "type": 0,
+    "en": "Paste",
+    "vi": "Paste"
+  },
+  {
+    "key": "general_paste_all",
+    "type": 0,
+    "en": "Paste All",
+    "vi": "Paste All"
+  },
+  {
+    "key": "general_paste_selected",
+    "type": 0,
+    "en": "Paste Selected",
+    "vi": "Paste Selected"
+  },
+  {
+    "key": "general_requirements",
+    "type": 0,
+    "en": "Requirements",
+    "vi": "Requirements"
+  },
+  {
+    "key": "general_reset",
+    "type": 0,
+    "en": "Reset",
+    "vi": "Reset"
+  },
+  {
+    "key": "general_spring",
+    "type": 0,
+    "en": "Spring",
+    "vi": "Spring"
+  },
+  {
+    "key": "general_summer",
+    "type": 0,
+    "en": "Summer",
+    "vi": "Summer"
+  },
+  {
+    "key": "general_symbol_Celsius",
+    "type": 0,
+    "en": "°C",
+    "vi": "°C"
+  },
+  {
+    "key": "general_symbol_Fahrenheit",
+    "type": 0,
+    "en": "°F",
+    "vi": "°F"
+  },
+  {
+    "key": "general_symbol_Kelvin",
+    "type": 0,
+    "en": "°K",
+    "vi": "°K"
+  },
+  {
+    "key": "general_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Temperature"
+  },
+  {
+    "key": "general_temperature_units",
+    "type": 0,
+    "en": "Temperature units",
+    "vi": "Temperature units"
+  },
+  {
+    "key": "general_to",
+    "type": 0,
+    "en": "to",
+    "vi": "to"
+  },
+  {
+    "key": "general_unlocks",
+    "type": 0,
+    "en": "Unlocks",
+    "vi": "Unlocks"
+  },
+  {
+    "key": "general_villager",
+    "type": 0,
+    "en": "Settler",
+    "vi": "Settler"
+  },
+  {
+    "key": "general_winter",
+    "type": 0,
+    "en": "Winter",
+    "vi": "Winter"
+  },
+  {
+    "key": "general_yes",
+    "type": 0,
+    "en": "Yes",
+    "vi": "Yes"
+  },
+  {
+    "key": "global_position",
+    "type": 0,
+    "en": "Global position",
+    "vi": "Global position"
+  },
+  {
+    "key": "growth_halted",
+    "type": 0,
+    "en": "Growth halted",
+    "vi": "Growth halted"
+  },
+  {
+    "key": "hour_type_any_name",
+    "type": 0,
+    "en": "Anything",
+    "vi": "Anything"
+  },
+  {
+    "key": "hour_type_tooltip_convalescing",
+    "type": 0,
+    "en": "Will prioritise convalescing even if the task is disabled in the jobs panel",
+    "vi": "Will prioritise convalescing even if the task is disabled in the jobs panel"
+  },
+  {
+    "key": "hour_type_tooltip_sleeping",
+    "type": 0,
+    "en": "Sleeping is disabled at this hour",
+    "vi": "Sleeping is disabled at this hour"
+  },
+  {
+    "key": "hour_type_tooltip_work",
+    "type": 0,
+    "en": "Will prioritise jobs as they are set in the jobs panel",
+    "vi": "Will prioritise jobs as they are set in the jobs panel"
+  },
+  {
+    "key": "hour_type_tooltip_role",
+    "type": 0,
+    "en": "Will perform role duties before everything else",
+    "vi": "Will perform role duties before everything else"
+  },
+  {
+    "key": "hour_type_tooltip_leisure",
+    "type": 0,
+    "en": "Will prioritise leisure activities even if not deprived of them",
+    "vi": "Will prioritise leisure activities even if not deprived of them"
+  },
+  {
+    "key": "hour_type_tooltip_anything",
+    "type": 0,
+    "en": "Will prioritise meeting own needs. Once satisfied, will do jobs.",
+    "vi": "Will prioritise meeting own needs. Once satisfied, will do jobs."
+  },
+  {
+    "key": "hour_type_tooltip_sleep",
+    "type": 0,
+    "en": "Will prioritise sleeping above almost anything else.",
+    "vi": "Will prioritise sleeping above almost anything else."
+  },
+  {
+    "key": "hour_type_tooltip_nosleep",
+    "type": 0,
+    "en": "Will never sleep at this hour",
+    "vi": "Will never sleep at this hour"
+  },
+  {
+    "key": "hour_type_draft_name",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "hour_type_leisure_name",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Leisure"
+  },
+  {
+    "key": "hour_type_psychotic_name",
+    "type": 0,
+    "en": "Broken",
+    "vi": "Broken"
+  },
+  {
+    "key": "hour_type_sleep_name",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Sleep"
+  },
+  {
+    "key": "hour_type_working_name",
+    "type": 0,
+    "en": "Work",
+    "vi": "Work"
+  },
+  {
+    "key": "hour_type_caravan_name",
+    "type": 0,
+    "en": "Forming Caravan",
+    "vi": "Forming Caravan"
+  },
+  {
+    "key": "hour_type_role_job_name",
+    "type": 0,
+    "en": "Role Duties",
+    "vi": "Role Duties"
+  },
+  {
+    "key": "report_bug_tnx_sending",
+    "type": 0,
+    "en": "Thank you for your feedback! You can continue playing while the report is being sent.",
+    "vi": "Thank you for your feedback! You can continue playing while the report is being sent."
+  },
+  {
+    "key": "in_draft",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "inside",
+    "type": 0,
+    "en": "Inside",
+    "vi": "Inside"
+  },
+  {
+    "key": "low_temperature",
+    "type": 0,
+    "en": "Low temperature",
+    "vi": "Low temperature"
+  },
+  {
+    "key": "max_stack",
+    "type": 0,
+    "en": "Max stack",
+    "vi": "Max stack"
+  },
+  {
+    "key": "max_yield_in",
+    "type": 0,
+    "en": "Maximum yield in",
+    "vi": "Maximum yield in"
+  },
+  {
+    "key": "multiselect_panel",
+    "type": 0,
+    "en": "Multiple selection",
+    "vi": "Multiple selection"
+  },
+  {
+    "key": "no_active_productions",
+    "type": 0,
+    "en": "No active production",
+    "vi": "No active production"
+  },
+  {
+    "key": "outside",
+    "type": 0,
+    "en": "Outside",
+    "vi": "Outside"
+  },
+  {
+    "key": "outsideFog",
+    "type": 0,
+    "en": "Outside in the fog",
+    "vi": "Outside in the fog"
+  },
+  {
+    "key": "outsideRain",
+    "type": 0,
+    "en": "Outside in the rain",
+    "vi": "Outside in the rain"
+  },
+  {
+    "key": "outsideSnow",
+    "type": 0,
+    "en": "Outside in the snow",
+    "vi": "Outside in the snow"
+  },
+  {
+    "key": "precision",
+    "type": 0,
+    "en": "Precision",
+    "vi": "Precision"
+  },
+  {
+    "key": "precision_falloff",
+    "type": 0,
+    "en": "Precision falloff with distance",
+    "vi": "Precision falloff with distance"
+  },
+  {
+    "key": "priority_down",
+    "type": 0,
+    "en": "Decrease all",
+    "vi": "Decrease all"
+  },
+  {
+    "key": "priority_up",
+    "type": 0,
+    "en": "Increase all",
+    "vi": "Increase all"
+  },
+  {
+    "key": "production_amount",
+    "type": 0,
+    "en": "Amount",
+    "vi": "Amount"
+  },
+  {
+    "key": "production_forever",
+    "type": 0,
+    "en": "Forever",
+    "vi": "Forever"
+  },
+  {
+    "key": "production_until",
+    "type": 0,
+    "en": "Until you have",
+    "vi": "Until you have"
+  },
+  {
+    "key": "production_amount_info",
+    "type": 0,
+    "en": "\"Amount\" production mode will queue production of a given number of finished items.",
+    "vi": "\"Amount\" production mode will queue production of a given number of finished items."
+  },
+  {
+    "key": "production_forever_info",
+    "type": 0,
+    "en": "\"Forever\" production mode will continuously queue production while there are sufficient raw material for that product.",
+    "vi": "\"Forever\" production mode will continuously queue production while there are sufficient raw material for that product."
+  },
+  {
+    "key": "production_until_info",
+    "type": 0,
+    "en": "\"Until you have\" production mode will continue to create items until the desired number is reached.",
+    "vi": "\"Until you have\" production mode will continue to create items until the desired number is reached."
+  },
+  {
+    "key": "production_until_info_books",
+    "type": 0,
+    "en": "\"Until you have\" production mode for books will continue until the set number of unallocated books is reached. (Books already allocated to research are no longer available)",
+    "vi": "\"Until you have\" production mode for books will continue until the set number of unallocated books is reached. (Books already allocated to research are no longer available)"
+  },
+  {
+    "key": "production_idle",
+    "type": 0,
+    "en": "Production idle",
+    "vi": "Production idle"
+  },
+  {
+    "key": "production_paused",
+    "type": 0,
+    "en": "Production paused",
+    "vi": "Production paused"
+  },
+  {
+    "key": "production_target_reached",
+    "type": 0,
+    "en": "Production target number reached",
+    "vi": "Production target number reached"
+  },
+  {
+    "key": "production_speed",
+    "type": 0,
+    "en": "Production speed",
+    "vi": "Production speed"
+  },
+  {
+    "key": "range",
+    "type": 0,
+    "en": "Range",
+    "vi": "Range"
+  },
+  {
+    "key": "research_allocated",
+    "type": 0,
+    "en": "Allocated",
+    "vi": "Allocated"
+  },
+  {
+    "key": "research_allocated_info",
+    "type": 0,
+    "en": "Amount used up for unlocked researches. ",
+    "vi": "Amount used up for unlocked researches. "
+  },
+  {
+    "key": "research_available",
+    "type": 0,
+    "en": "Available",
+    "vi": "Available"
+  },
+  {
+    "key": "research_available_info",
+    "type": 0,
+    "en": "The amount available for unlocking new researches. ",
+    "vi": "The amount available for unlocking new researches. "
+  },
+  {
+    "key": "research_available_info_negative",
+    "type": 0,
+    "en": "The available amount is negative, this means that your knowledge books have been lost. You will need to obtain the same amount again before you start unlocking new researches.",
+    "vi": "The available amount is negative, this means that your knowledge books have been lost. You will need to obtain the same amount again before you start unlocking new researches."
+  },
+  {
+    "key": "roofed",
+    "type": 0,
+    "en": "Under the roof",
+    "vi": "Under the roof"
+  },
+  {
+    "key": "select_crop",
+    "type": 0,
+    "en": "Select Crop",
+    "vi": "Select Crop"
+  },
+  {
+    "key": "select_variant",
+    "type": 0,
+    "en": "Select variant",
+    "vi": "Select variant"
+  },
+  {
+    "key": "start_position",
+    "type": 0,
+    "en": "Start position",
+    "vi": "Start position"
+  },
+  {
+    "key": "storage",
+    "type": 0,
+    "en": "Storage",
+    "vi": "Storage"
+  },
+  {
+    "key": "total_spaces",
+    "type": 0,
+    "en": "Total spaces",
+    "vi": "Total spaces"
+  },
+  {
+    "key": "trebuchet_has_agent",
+    "type": 0,
+    "en": "Someone is operating this trebuchet",
+    "vi": "Someone is operating this trebuchet"
+  },
+  {
+    "key": "trebuchet_no_agent",
+    "type": 0,
+    "en": "No one is operating this trebuchet",
+    "vi": "No one is operating this trebuchet"
+  },
+  {
+    "key": "two_handed",
+    "type": 0,
+    "en": "Two handed",
+    "vi": "Two handed"
+  },
+  {
+    "key": "used_spaces",
+    "type": 0,
+    "en": "Used spaces",
+    "vi": "Used spaces"
+  },
+  {
+    "key": "weather_clear",
+    "type": 0,
+    "en": "Clear",
+    "vi": "Clear"
+  },
+  {
+    "key": "weather_fog",
+    "type": 0,
+    "en": "Fog",
+    "vi": "Fog"
+  },
+  {
+    "key": "weather_rain",
+    "type": 0,
+    "en": "Rain",
+    "vi": "Rain"
+  },
+  {
+    "key": "weather_snow",
+    "type": 0,
+    "en": "Snow",
+    "vi": "Snow"
+  },
+  {
+    "key": "weather_thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Thunderstorm"
+  },
+  {
+    "key": "weather_hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Hailstorm"
+  },
+  {
+    "key": "weather_heat_wave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Heat wave"
+  },
+  {
+    "key": "weather_cold_snap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Cold snap"
+  },
+  {
+    "key": "add_new_profile_info",
+    "type": 0,
+    "en": "Add custom profile",
+    "vi": "Add custom profile"
+  },
+  {
+    "key": "delete_profile",
+    "type": 0,
+    "en": "Delete profile",
+    "vi": "Delete profile"
+  },
+  {
+    "key": "research_available_error",
+    "type": 0,
+    "en": "Not enough books available",
+    "vi": "Not enough books available"
+  },
+  {
+    "key": "research_allocated_info_negative",
+    "type": 0,
+    "en": "You are missing some required books, which means that they have been lost. You will need to replace them to unlock new research items.",
+    "vi": "You are missing some required books, which means that they have been lost. You will need to replace them to unlock new research items."
+  },
+  {
+    "key": "undrafted_stance",
+    "type": 0,
+    "en": "Undrafted Stance",
+    "vi": "Undrafted Stance"
+  },
+  {
+    "key": "auto_equip_shield",
+    "type": 0,
+    "en": "Manage Shield",
+    "vi": "Manage Shield"
+  },
+  {
+    "key": "auto_equip_shield_info",
+    "type": 0,
+    "en": "Set autoequip shield for each settler",
+    "vi": "Set autoequip shield for each settler"
+  },
+  {
+    "key": "auto_equip_headware",
+    "type": 0,
+    "en": "Manage Headgear",
+    "vi": "Manage Headgear"
+  },
+  {
+    "key": "auto_equip_headware_info",
+    "type": 0,
+    "en": "Set autoequip headgear for each settler",
+    "vi": "Set autoequip headgear for each settler"
+  },
+  {
+    "key": "auto_equip_apparel",
+    "type": 0,
+    "en": "Manage Apparel",
+    "vi": "Manage Apparel"
+  },
+  {
+    "key": "auto_equip_apparel_info",
+    "type": 0,
+    "en": "Set autoequip clothing for each settler",
+    "vi": "Set autoequip clothing for each settler"
+  },
+  {
+    "key": "restrict_food",
+    "type": 0,
+    "en": "Manage Food",
+    "vi": "Manage Food"
+  },
+  {
+    "key": "restrict_food_info",
+    "type": 0,
+    "en": "Set what type of food each settler is allowed to consume",
+    "vi": "Set what type of food each settler is allowed to consume"
+  },
+  {
+    "key": "restrict_stimulants",
+    "type": 0,
+    "en": "Manage Stimulants",
+    "vi": "Manage Stimulants"
+  },
+  {
+    "key": "restrict_stimulants_info",
+    "type": 0,
+    "en": "Set what type of stimulants each settler is allowed to consume",
+    "vi": "Set what type of stimulants each settler is allowed to consume"
+  },
+  {
+    "key": "profile",
+    "type": 0,
+    "en": "Profile",
+    "vi": "Profile"
+  },
+  {
+    "key": "edit_Shields_profiles",
+    "type": 0,
+    "en": "Edit Shield Profiles",
+    "vi": "Edit Shield Profiles"
+  },
+  {
+    "key": "edit_Headware_profiles",
+    "type": 0,
+    "en": "Edit Headgear Profiles",
+    "vi": "Edit Headgear Profiles"
+  },
+  {
+    "key": "edit_Apparel_profiles",
+    "type": 0,
+    "en": "Edit Apparel Profiles",
+    "vi": "Edit Apparel Profiles"
+  },
+  {
+    "key": "edit_Food_profiles",
+    "type": 0,
+    "en": "Edit Food Profiles",
+    "vi": "Edit Food Profiles"
+  },
+  {
+    "key": "edit_Alcohol_profiles",
+    "type": 0,
+    "en": "Edit Alcohol Profiles",
+    "vi": "Edit Alcohol Profiles"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_clothing_only",
+    "type": 0,
+    "en": "Clothing Only",
+    "vi": "Clothing Only"
+  },
+  {
+    "key": "manageDefaultPreset_shield_all",
+    "type": 0,
+    "en": "All Shields",
+    "vi": "All Shields"
+  },
+  {
+    "key": "manageDefaultPreset_sheild_none",
+    "type": 0,
+    "en": "No Shields",
+    "vi": "No Shields"
+  },
+  {
+    "key": "manageDefaultPreset_headware_all",
+    "type": 0,
+    "en": "All Headgear",
+    "vi": "All Headgear"
+  },
+  {
+    "key": "manageDefaultPreset_headware_none",
+    "type": 0,
+    "en": "No Headgear",
+    "vi": "No Headgear"
+  },
+  {
+    "key": "manageDefaultPreset_headware_helmet",
+    "type": 0,
+    "en": "Helmet",
+    "vi": "Helmet"
+  },
+  {
+    "key": "manageDefaultPreset_headware_cap",
+    "type": 0,
+    "en": "Cap",
+    "vi": "Cap"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_all",
+    "type": 0,
+    "en": "All Apparel",
+    "vi": "All Apparel"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_none",
+    "type": 0,
+    "en": "No Apparel",
+    "vi": "No Apparel"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_winter",
+    "type": 0,
+    "en": "Winter",
+    "vi": "Winter"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_summer",
+    "type": 0,
+    "en": "Summer",
+    "vi": "Summer"
+  },
+  {
+    "key": "manageDefaultPreset_food_all",
+    "type": 0,
+    "en": "All Food",
+    "vi": "All Food"
+  },
+  {
+    "key": "manageDefaultPreset_food_none",
+    "type": 0,
+    "en": "No Food",
+    "vi": "No Food"
+  },
+  {
+    "key": "manageDefaultPreset_food_raw",
+    "type": 0,
+    "en": "Raw",
+    "vi": "Raw"
+  },
+  {
+    "key": "manageDefaultPreset_food_meal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Meal"
+  },
+  {
+    "key": "manageDefaultPreset_food_cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Cannibal"
+  },
+  {
+    "key": "manageDefaultPreset_stimulants_all",
+    "type": 0,
+    "en": "All Stimulants",
+    "vi": "All Stimulants"
+  },
+  {
+    "key": "manageDefaultPreset_stimulants_none",
+    "type": 0,
+    "en": "No Stimulants",
+    "vi": "No Stimulants"
+  },
+  {
+    "key": "auto_equipped",
+    "type": 0,
+    "en": "Auto-equipped",
+    "vi": "Auto-equipped"
+  },
+  {
+    "key": "manually_equipped",
+    "type": 0,
+    "en": "Force-equipped",
+    "vi": "Force-equipped"
+  },
+  {
+    "key": "object_size",
+    "type": 0,
+    "en": "Structure Dimensions",
+    "vi": "Structure Dimensions"
+  },
+  {
+    "key": "has_stability_to_build",
+    "type": 0,
+    "en": "Is connected to a stable structure",
+    "vi": "Is connected to a stable structure"
+  },
+  {
+    "key": "thermal_insulation",
+    "type": 0,
+    "en": "Thermal insulation",
+    "vi": "Thermal insulation"
+  },
+  {
+    "key": "thermal_emission",
+    "type": 0,
+    "en": "Heat output",
+    "vi": "Heat output"
+  },
+  {
+    "key": "historical_records_title",
+    "type": 0,
+    "en": "Historical Records",
+    "vi": "Historical Records"
+  },
+  {
+    "key": "statistics_title",
+    "type": 0,
+    "en": "Statistics",
+    "vi": "Statistics"
+  },
+  {
+    "key": "PopulationCount_title",
+    "type": 0,
+    "en": "Population Count",
+    "vi": "Population Count"
+  },
+  {
+    "key": "TotalWealth_title",
+    "type": 0,
+    "en": "Total Wealth",
+    "vi": "Total Wealth"
+  },
+  {
+    "key": "FoodAmount_title",
+    "type": 0,
+    "en": "Food Stored",
+    "vi": "Food Stored"
+  },
+  {
+    "key": "PopulationCount_info",
+    "type": 0,
+    "en": "Number of settlers through time",
+    "vi": "Number of settlers through time"
+  },
+  {
+    "key": "TotalWealth_info",
+    "type": 0,
+    "en": "Combined value of resources and buildings through time",
+    "vi": "Combined value of resources and buildings through time"
+  },
+  {
+    "key": "FoodAmount_info",
+    "type": 0,
+    "en": "Combined nutrition stockpile amount through time",
+    "vi": "Combined nutrition stockpile amount through time"
+  },
+  {
+    "key": "play_time",
+    "type": 0,
+    "en": "Play time",
+    "vi": "Play time"
+  },
+  {
+    "key": "days_from_start",
+    "type": 0,
+    "en": "Days from start",
+    "vi": "Days from start"
+  },
+  {
+    "key": "lost_villagers",
+    "type": 0,
+    "en": "Lost settlers",
+    "vi": "Lost settlers"
+  },
+  {
+    "key": "max_villagers",
+    "type": 0,
+    "en": "Max settlers",
+    "vi": "Max settlers"
+  },
+  {
+    "key": "enemies_killed",
+    "type": 0,
+    "en": "Enemies killed",
+    "vi": "Enemies killed"
+  },
+  {
+    "key": "enemies_total",
+    "type": 0,
+    "en": "Enemies total",
+    "vi": "Enemies total"
+  },
+  {
+    "key": "villagers_died",
+    "type": 0,
+    "en": "Settlers lost",
+    "vi": "Settlers lost"
+  },
+  {
+    "key": "most_damage_delt",
+    "type": 0,
+    "en": "Greatest damage dealt by",
+    "vi": "Greatest damage dealt by"
+  },
+  {
+    "key": "worker_banish_event_log_type",
+    "type": 0,
+    "en": "Settler Banished",
+    "vi": "Settler Banished"
+  },
+  {
+    "key": "worker_banish_event_log_title",
+    "type": 0,
+    "en": "The Banishment of <name>",
+    "vi": "The Banishment of <name>"
+  },
+  {
+    "key": "worker_banish_event_log_info",
+    "type": 0,
+    "en": "<name> was banished. [He/She] was last seen going towards <origin>",
+    "vi": "<name> was banished. [He/She] was last seen going towards <origin>"
+  },
+  {
+    "key": "worker_died_event_log_type",
+    "type": 0,
+    "en": "Settler Died",
+    "vi": "Settler Died"
+  },
+  {
+    "key": "worker_died_event_log_title",
+    "type": 0,
+    "en": "The Death of <name> <surname>",
+    "vi": "The Death of <name> <surname>"
+  },
+  {
+    "key": "worker_died_event_log_info",
+    "type": 0,
+    "en": "<name> died aged <age>...",
+    "vi": "<name> died aged <age>..."
+  },
+  {
+    "key": "max_yield_time",
+    "type": 0,
+    "en": "Maximum yield in",
+    "vi": "Maximum yield in"
+  },
+  {
+    "key": "number_of_harvests",
+    "type": 0,
+    "en": "Number of harvests",
+    "vi": "Number of harvests"
+  },
+  {
+    "key": "world_map_forest_bandits",
+    "type": 0,
+    "en": "Forest bandits",
+    "vi": "Forest bandits"
+  },
+  {
+    "key": "world_map_progeny",
+    "type": 0,
+    "en": "Progeny",
+    "vi": "Progeny"
+  },
+  {
+    "key": "ui_region_influence",
+    "type": 0,
+    "en": "Region influence",
+    "vi": "Region influence"
+  },
+  {
+    "key": "village_yours",
+    "type": 0,
+    "en": "Your settlement",
+    "vi": "Your settlement"
+  },
+  {
+    "key": "village_enemy",
+    "type": 0,
+    "en": "Enemy settlement",
+    "vi": "Enemy settlement"
+  },
+  {
+    "key": "village_friendly",
+    "type": 0,
+    "en": "Friendly settlement",
+    "vi": "Friendly settlement"
+  },
+  {
+    "key": "InfluenceAmount_title",
+    "type": 0,
+    "en": "Influence",
+    "vi": "Influence"
+  },
+  {
+    "key": "InfluenceAmount_info",
+    "type": 0,
+    "en": "As your settlement grows, so does your influence in the region.\\n\\nTo gain influence, you must enrich your wealth by amassing resources and constructing buildings.\\nVictory in battle and repelling enemy raids increases your influence even faster.\\n\\nReaching 100% influence means your settlement is the most influential in the region.",
+    "vi": "As your settlement grows, so does your influence in the region.\\n\\nTo gain influence, you must enrich your wealth by amassing resources and constructing buildings.\\nVictory in battle and repelling enemy raids increases your influence even faster.\\n\\nReaching 100% influence means your settlement is the most influential in the region."
+  },
+  {
+    "key": "list_at_least",
+    "type": 0,
+    "en": "At least",
+    "vi": "At least"
+  },
+  {
+    "key": "list_at_exactly",
+    "type": 0,
+    "en": "Exactly",
+    "vi": "Exactly"
+  },
+  {
+    "key": "date_time_details_title",
+    "type": 0,
+    "en": "Date and Time details",
+    "vi": "Date and Time details"
+  },
+  {
+    "key": "date_time_details_info",
+    "type": 0,
+    "en": "The year is split into four seasons that last 12 days each.\\n\\n<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms.\\n\\n<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days.\\n\\n<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms.\\n\\n<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts.",
+    "vi": "The year is split into four seasons that last 12 days each.\\n\\n<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms.\\n\\n<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days.\\n\\n<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms.\\n\\n<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts."
+  },
+  {
+    "key": "general_minute_short",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_hour_short",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "general_day_short",
+    "type": 0,
+    "en": "d",
+    "vi": "d"
+  },
+  {
+    "key": "general_year_short",
+    "type": 0,
+    "en": "y",
+    "vi": "y"
+  },
+  {
+    "key": "photo_save_location",
+    "type": 0,
+    "en": "Screenshot saved to",
+    "vi": "Screenshot saved to"
+  },
+  {
+    "key": "add_new",
+    "type": 0,
+    "en": "Add new",
+    "vi": "Add new"
+  },
+  {
+    "key": "add_conditions",
+    "type": 0,
+    "en": "Add conditions",
+    "vi": "Add conditions"
+  },
+  {
+    "key": "general_see_also",
+    "type": 0,
+    "en": "See also",
+    "vi": "See also"
+  },
+  {
+    "key": "related_topics",
+    "type": 0,
+    "en": "Related topics",
+    "vi": "Related topics"
+  },
+  {
+    "key": "healing_multiplier",
+    "type": 0,
+    "en": "Wound tending multiplier",
+    "vi": "Wound tending multiplier"
+  },
+  {
+    "key": "effector_on_use",
+    "type": 0,
+    "en": "Modifiers when used",
+    "vi": "Modifiers when used"
+  },
+  {
+    "key": "effector_proximity",
+    "type": 0,
+    "en": "Object with a modifier effect is nearby.",
+    "vi": "Object with a modifier effect is nearby."
+  },
+  {
+    "key": "effector_on_equip",
+    "type": 0,
+    "en": "Modifiers when equipped",
+    "vi": "Modifiers when equipped"
+  },
+  {
+    "key": "unit_suffix_meters_per_second",
+    "type": 0,
+    "en": "m/s",
+    "vi": "m/s"
+  },
+  {
+    "key": "unit_suffix_percent",
+    "type": 0,
+    "en": "%",
+    "vi": "%"
+  },
+  {
+    "key": "unit_suffix_per_hour",
+    "type": 0,
+    "en": "/h",
+    "vi": "/h"
+  },
+  {
+    "key": "unit_suffix_times",
+    "type": 0,
+    "en": "x",
+    "vi": "x"
+  },
+  {
+    "key": "unit_suffix_per_second",
+    "type": 0,
+    "en": "/s",
+    "vi": "/s"
+  },
+  {
+    "key": "unit_suffix_hour",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "unit_suffix_second",
+    "type": 0,
+    "en": "s",
+    "vi": "s"
+  },
+  {
+    "key": "expires_in",
+    "type": 0,
+    "en": "Expires in",
+    "vi": "Expires in"
+  },
+  {
+    "key": "starting_conditions",
+    "type": 0,
+    "en": "Starting conditions",
+    "vi": "Starting conditions"
+  },
+  {
+    "key": "village_name",
+    "type": 0,
+    "en": "Settlement name",
+    "vi": "Settlement name"
+  },
+  {
+    "key": "settlement_name",
+    "type": 0,
+    "en": "Settlement name",
+    "vi": "Settlement name"
+  },
+  {
+    "key": "settlement_lb",
+    "type": 0,
+    "en": "Settlement",
+    "vi": "Settlement"
+  },
+  {
+    "key": "AllLayers_apply_order",
+    "type": 0,
+    "en": "All layers",
+    "vi": "All layers"
+  },
+  {
+    "key": "SingleLayer_apply_order",
+    "type": 0,
+    "en": "Single layer",
+    "vi": "Single layer"
+  },
+  {
+    "key": "general_imminent",
+    "type": 0,
+    "en": "Imminent",
+    "vi": "Imminent"
+  },
+  {
+    "key": "reserved_by",
+    "type": 0,
+    "en": "Reserved by",
+    "vi": "Reserved by"
+  },
+  {
+    "key": "general_miss",
+    "type": 0,
+    "en": "Miss",
+    "vi": "Miss"
+  },
+  {
+    "key": "general_search",
+    "type": 0,
+    "en": "Search",
+    "vi": "Search"
+  },
+  {
+    "key": "general_evade",
+    "type": 0,
+    "en": "Evade",
+    "vi": "Evade"
+  },
+  {
+    "key": "report_bug_quitting",
+    "type": 0,
+    "en": "Fatal Error!\nWe apologize for this. Please wait while log is sent to the developers. We strongly advise you to restart the application.\nIf problems  persist,  please quit and start a new game. ",
+    "vi": "Fatal Error!\nWe apologize for this. Please wait while log is sent to the developers. We strongly advise you to restart the application.\nIf problems  persist,  please quit and start a new game. "
+  },
+  {
+    "key": "report_bug_connection_error",
+    "type": 0,
+    "en": "Connection error! \nWe're sorry but your lovingly-crafted report could not be sent. \nPlease try again, or use our Discord server to send your feedback or report a bug.  ",
+    "vi": "Connection error! \nWe're sorry but your lovingly-crafted report could not be sent. \nPlease try again, or use our Discord server to send your feedback or report a bug.  "
+  },
+  {
+    "key": "general_unlock",
+    "type": 0,
+    "en": "Unlock",
+    "vi": "Unlock"
+  },
+  {
+    "key": "general_enter_text",
+    "type": 0,
+    "en": "Enter text",
+    "vi": "Enter text"
+  },
+  {
+    "key": "general_required_fields_info",
+    "type": 0,
+    "en": "Required fields",
+    "vi": "Required fields"
+  },
+  {
+    "key": "general_required_fields_symbol",
+    "type": 0,
+    "en": "*",
+    "vi": "*"
+  },
+  {
+    "key": "villager_constraint_NumberOfVillagers",
+    "type": 0,
+    "en": "Number of Settlers",
+    "vi": "Number of Settlers"
+  },
+  {
+    "key": "villager_constraint_Age",
+    "type": 0,
+    "en": "Age",
+    "vi": "Age"
+  },
+  {
+    "key": "villager_constraint_Height",
+    "type": 0,
+    "en": "Height",
+    "vi": "Height"
+  },
+  {
+    "key": "villager_constraint_Weight",
+    "type": 0,
+    "en": "Weight",
+    "vi": "Weight"
+  },
+  {
+    "key": "villager_constraint_ForceGender",
+    "type": 0,
+    "en": "Force Body Type",
+    "vi": "Force Body Type"
+  },
+  {
+    "key": "villager_constraint_ForceReligion",
+    "type": 0,
+    "en": "Force Religion",
+    "vi": "Force Religion"
+  },
+  {
+    "key": "villager_constraint_DefaultClothes",
+    "type": 0,
+    "en": "Default Clothes",
+    "vi": "Default Clothes"
+  },
+  {
+    "key": "villager_constraint_OverrideStats",
+    "type": 0,
+    "en": "Override Stats",
+    "vi": "Override Stats"
+  },
+  {
+    "key": "general_kg",
+    "type": 0,
+    "en": "kg",
+    "vi": "kg"
+  },
+  {
+    "key": "general_cm",
+    "type": 0,
+    "en": "cm",
+    "vi": "cm"
+  },
+  {
+    "key": "general_response",
+    "type": 0,
+    "en": "Response",
+    "vi": "Response"
+  },
+  {
+    "key": "running_away",
+    "type": 0,
+    "en": "Running away",
+    "vi": "Running away"
+  },
+  {
+    "key": "edit_Stimulants_profiles",
+    "type": 0,
+    "en": "Edit Stimulant Profiles",
+    "vi": "Edit Stimulant Profiles"
+  },
+  {
+    "key": "current_phase",
+    "type": 0,
+    "en": "Current growth phase",
+    "vi": "Current growth phase"
+  },
+  {
+    "key": "general_category",
+    "type": 0,
+    "en": "Category",
+    "vi": "Category"
+  },
+  {
+    "key": "report_category_bug",
+    "type": 0,
+    "en": "Bug report",
+    "vi": "Bug report"
+  },
+  {
+    "key": "report_category_feedback",
+    "type": 0,
+    "en": "Feedback",
+    "vi": "Feedback"
+  },
+  {
+    "key": "report_category_suggestion",
+    "type": 0,
+    "en": "Suggestion",
+    "vi": "Suggestion"
+  },
+  {
+    "key": "general_enter_message",
+    "type": 0,
+    "en": "Enter message",
+    "vi": "Enter message"
+  },
+  {
+    "key": "general_enter_subject",
+    "type": 0,
+    "en": "Enter subject",
+    "vi": "Enter subject"
+  },
+  {
+    "key": "general_submit",
+    "type": 0,
+    "en": "Submit",
+    "vi": "Submit"
+  },
+  {
+    "key": "report_english_please",
+    "type": 0,
+    "en": "We are a small  team and currently have capacity to process only reports written in English. However, every report is valuable as we can look into your save and understand what went wrong. ",
+    "vi": "We are a small  team and currently have capacity to process only reports written in English. However, every report is valuable as we can look into your save and understand what went wrong. "
+  },
+  {
+    "key": "unit_suffix_meter",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_priority",
+    "type": 0,
+    "en": "Priority",
+    "vi": "Priority"
+  },
+  {
+    "key": "report_priority_low",
+    "type": 0,
+    "en": "Low",
+    "vi": "Low"
+  },
+  {
+    "key": "report_priority_medium",
+    "type": 0,
+    "en": "Medium",
+    "vi": "Medium"
+  },
+  {
+    "key": "report_priority_high",
+    "type": 0,
+    "en": "High",
+    "vi": "High"
+  },
+  {
+    "key": "general_age_short",
+    "type": 0,
+    "en": "y",
+    "vi": "y"
+  },
+  {
+    "key": "general_job_type",
+    "type": 0,
+    "en": "Job Type",
+    "vi": "Job Type"
+  },
+  {
+    "key": "jobs_highest_priority",
+    "type": 0,
+    "en": " << Highest Priority",
+    "vi": " << Highest Priority"
+  },
+  {
+    "key": "jobs_lowest_priority",
+    "type": 0,
+    "en": "Lowest Priority >>",
+    "vi": "Lowest Priority >>"
+  },
+  {
+    "key": "jobs_first_done",
+    "type": 0,
+    "en": "Priority 1 is done first",
+    "vi": "Priority 1 is done first"
+  },
+  {
+    "key": "jobs_last_done",
+    "type": 0,
+    "en": "Priority 5 is done last",
+    "vi": "Priority 5 is done last"
+  },
+  {
+    "key": "save_made_with_old_version",
+    "type": 0,
+    "en": "This save was made with an older version of the game.",
+    "vi": "This save was made with an older version of the game."
+  },
+  {
+    "key": "is_on_stockpile",
+    "type": 0,
+    "en": "On stockpile:",
+    "vi": "On stockpile:"
+  },
+  {
+    "key": "delete_file_failed",
+    "type": 0,
+    "en": "Cannot delete file {0}",
+    "vi": "Cannot delete file {0}"
+  },
+  {
+    "key": "general_goto_layer",
+    "type": 0,
+    "en": "Go to Layer",
+    "vi": "Go to Layer"
+  },
+  {
+    "key": "general_select_next",
+    "type": 0,
+    "en": "Select next",
+    "vi": "Select next"
+  },
+  {
+    "key": "trade_buy",
+    "type": 0,
+    "en": "Acquire",
+    "vi": "Acquire"
+  },
+  {
+    "key": "trade_sell",
+    "type": 0,
+    "en": "Proffer",
+    "vi": "Proffer"
+  },
+  {
+    "key": "trade_message_cant_continue",
+    "type": 0,
+    "en": "This transaction is unacceptable. The merchant demands more goods in return for the goods offered",
+    "vi": "This transaction is unacceptable. The merchant demands more goods in return for the goods offered"
+  },
+  {
+    "key": "trade_balance_title",
+    "type": 0,
+    "en": "Bartering Balance",
+    "vi": "Bartering Balance"
+  },
+  {
+    "key": "trade_balance_desc",
+    "type": 0,
+    "en": "If the balance is in your settlement's favour (right), then you are asking for more than you are offering. If the balance is in the merchant's favour (left), then you are giving more than you are asking for. Only transactions under the Bargain Threshold are possible. The Bargain Threshold is influenced by the bartering settler's Speechcraft skill.",
+    "vi": "If the balance is in your settlement's favour (right), then you are asking for more than you are offering. If the balance is in the merchant's favour (left), then you are giving more than you are asking for. Only transactions under the Bargain Threshold are possible. The Bargain Threshold is influenced by the bartering settler's Speechcraft skill."
+  },
+  {
+    "key": "trade_balance_bargain",
+    "type": 0,
+    "en": "Bargain Threshold",
+    "vi": "Bargain Threshold"
+  },
+  {
+    "key": "trade_wont_buy",
+    "type": 0,
+    "en": "This merchant will not trade for this resource",
+    "vi": "This merchant will not trade for this resource"
+  },
+  {
+    "key": "trade_number_settlement",
+    "type": 0,
+    "en": "The number of these resources that you have available to trade",
+    "vi": "The number of these resources that you have available to trade"
+  },
+  {
+    "key": "wealth_price_sell",
+    "type": 0,
+    "en": "Value gained when trading this item",
+    "vi": "Value gained when trading this item"
+  },
+  {
+    "key": "wealth_price_buy",
+    "type": 0,
+    "en": "Value merchant gains when trading this item",
+    "vi": "Value merchant gains when trading this item"
+  },
+  {
+    "key": "base_trade_value",
+    "type": 0,
+    "en": "Base value",
+    "vi": "Base value"
+  },
+  {
+    "key": "settler_trade_bonus",
+    "type": 0,
+    "en": "Settler trade bonus",
+    "vi": "Settler trade bonus"
+  },
+  {
+    "key": "trade_buying",
+    "type": 0,
+    "en": "Acquiring",
+    "vi": "Acquiring"
+  },
+  {
+    "key": "trade_selling",
+    "type": 0,
+    "en": "Proffering",
+    "vi": "Proffering"
+  },
+  {
+    "key": "trade_total_buy",
+    "type": 0,
+    "en": "The total amount of value you will gain from the merchant",
+    "vi": "The total amount of value you will gain from the merchant"
+  },
+  {
+    "key": "trade_total_sell",
+    "type": 0,
+    "en": "The total amount of value you will give to the merchant",
+    "vi": "The total amount of value you will give to the merchant"
+  },
+  {
+    "key": "extortion_demanding",
+    "type": 0,
+    "en": "Demand",
+    "vi": "Demand"
+  },
+  {
+    "key": "extortion_give",
+    "type": 0,
+    "en": "Give",
+    "vi": "Give"
+  },
+  {
+    "key": "extortion_take",
+    "type": 0,
+    "en": "Take",
+    "vi": "Take"
+  },
+  {
+    "key": "extortion_negotiator_give",
+    "type": 0,
+    "en": "The total amount of value you will give to the negotiator",
+    "vi": "The total amount of value you will give to the negotiator"
+  },
+  {
+    "key": "extortion_demand_title",
+    "type": 0,
+    "en": "Demand Amount",
+    "vi": "Demand Amount"
+  },
+  {
+    "key": "extortion_demand_desc",
+    "type": 0,
+    "en": "The amount of value the negotiator demands from you. The amount is influenced by the settler negotiating. ",
+    "vi": "The amount of value the negotiator demands from you. The amount is influenced by the settler negotiating. "
+  },
+  {
+    "key": "extortion_wont_take",
+    "type": 0,
+    "en": "This negotiator will not accept this resource",
+    "vi": "This negotiator will not accept this resource"
+  },
+  {
+    "key": "extortion_number_settlement",
+    "type": 0,
+    "en": "The number of these resources that you have available to give",
+    "vi": "The number of these resources that you have available to give"
+  },
+  {
+    "key": "wealth_price_give",
+    "type": 0,
+    "en": "Value when giving this item",
+    "vi": "Value when giving this item"
+  },
+  {
+    "key": "extortion_are_you_sure",
+    "type": 0,
+    "en": "Are you sure that you want to finalise this negotiation?",
+    "vi": "Are you sure that you want to finalise this negotiation?"
+  },
+  {
+    "key": "extortion_sell_list",
+    "type": 0,
+    "en": "You are giving this:",
+    "vi": "You are giving this:"
+  },
+  {
+    "key": "extortion_message_cant_continue",
+    "type": 0,
+    "en": "This transaction is unacceptable. The negotiator demands more goods.",
+    "vi": "This transaction is unacceptable. The negotiator demands more goods."
+  },
+  {
+    "key": "trader_leaving",
+    "type": 0,
+    "en": "<faction_name> merchant is leaving your settlement",
+    "vi": "<faction_name> merchant is leaving your settlement"
+  },
+  {
+    "key": "trader_left",
+    "type": 0,
+    "en": "<faction_name> merchant has left",
+    "vi": "<faction_name> merchant has left"
+  },
+  {
+    "key": "cannot_negotiate_with_leaving_npc",
+    "type": 0,
+    "en": "Cannot interact with the individual while they are leaving",
+    "vi": "Cannot interact with the individual while they are leaving"
+  },
+  {
+    "key": "distance_from_village",
+    "type": 0,
+    "en": "Tiles away",
+    "vi": "Tiles away"
+  },
+  {
+    "key": "trader_message_mass",
+    "type": 0,
+    "en": "Merchant can't carry this much weight",
+    "vi": "Merchant can't carry this much weight"
+  },
+  {
+    "key": "negotiator_message_mass",
+    "type": 0,
+    "en": "Negotiator can't carry this much weight",
+    "vi": "Negotiator can't carry this much weight"
+  },
+  {
+    "key": "friendliness_change",
+    "type": 0,
+    "en": "<friendliness_impact> alignment towards <faction_name> ",
+    "vi": "<friendliness_impact> alignment towards <faction_name> "
+  },
+  {
+    "key": "friendliness_stat_change",
+    "type": 0,
+    "en": "<faction_name> faction is now: <faction_status>",
+    "vi": "<faction_name> faction is now: <faction_status>"
+  },
+  {
+    "key": "center_of_power",
+    "type": 0,
+    "en": "Center of power",
+    "vi": "Center of power"
+  },
+  {
+    "key": "trader_visitor",
+    "type": 0,
+    "en": "Lone Traveller",
+    "vi": "Lone Traveller"
+  },
+  {
+    "key": "character_hair_colour",
+    "type": 0,
+    "en": "Hair colour",
+    "vi": "Hair colour"
+  },
+  {
+    "key": "character_hair_type",
+    "type": 0,
+    "en": "Hair type",
+    "vi": "Hair type"
+  },
+  {
+    "key": "character_facial_hair_type",
+    "type": 0,
+    "en": "Facial hair type",
+    "vi": "Facial hair type"
+  },
+  {
+    "key": "character_head_type",
+    "type": 0,
+    "en": "Head type",
+    "vi": "Head type"
+  },
+  {
+    "key": "character_skin_colour",
+    "type": 0,
+    "en": "Skin colour",
+    "vi": "Skin colour"
+  },
+  {
+    "key": "character_gender",
+    "type": 0,
+    "en": "Body",
+    "vi": "Body"
+  },
+  {
+    "key": "character_hair",
+    "type": 0,
+    "en": "Hair",
+    "vi": "Hair"
+  },
+  {
+    "key": "character_facial_hair",
+    "type": 0,
+    "en": "Facial hair",
+    "vi": "Facial hair"
+  },
+  {
+    "key": "character_advanced_customization",
+    "type": 0,
+    "en": "Advanced customization",
+    "vi": "Advanced customization"
+  },
+  {
+    "key": "character_reroll_group",
+    "type": 0,
+    "en": "Reroll group",
+    "vi": "Reroll group"
+  },
+  {
+    "key": "character_reroll",
+    "type": 0,
+    "en": "Reroll character",
+    "vi": "Reroll character"
+  },
+  {
+    "key": "male_hair_bald",
+    "type": 0,
+    "en": "None",
+    "vi": "None"
+  },
+  {
+    "key": "male_hair_fratar",
+    "type": 0,
+    "en": "Hair #1",
+    "vi": "Hair #1"
+  },
+  {
+    "key": "male_hair_long",
+    "type": 0,
+    "en": "Hair #2",
+    "vi": "Hair #2"
+  },
+  {
+    "key": "male_hair_medium",
+    "type": 0,
+    "en": "Hair #3",
+    "vi": "Hair #3"
+  },
+  {
+    "key": "male_hair_stripe",
+    "type": 0,
+    "en": "Hair #4",
+    "vi": "Hair #4"
+  },
+  {
+    "key": "male_hair_afro_A",
+    "type": 0,
+    "en": "Hair #5",
+    "vi": "Hair #5"
+  },
+  {
+    "key": "male_hair_afro_B",
+    "type": 0,
+    "en": "Hair #6",
+    "vi": "Hair #6"
+  },
+  {
+    "key": "male_hair_afro_C",
+    "type": 0,
+    "en": "Hair #7",
+    "vi": "Hair #7"
+  },
+  {
+    "key": "male_hair_afro_D",
+    "type": 0,
+    "en": "Hair #8",
+    "vi": "Hair #8"
+  },
+  {
+    "key": "hair_long",
+    "type": 0,
+    "en": "Hair #2",
+    "vi": "Hair #2"
+  },
+  {
+    "key": "hair_short",
+    "type": 0,
+    "en": "Hair #3",
+    "vi": "Hair #3"
+  },
+  {
+    "key": "hair_shoulders",
+    "type": 0,
+    "en": "Hair #4",
+    "vi": "Hair #4"
+  },
+  {
+    "key": "hair_tail",
+    "type": 0,
+    "en": "Hair #5",
+    "vi": "Hair #5"
+  },
+  {
+    "key": "hair_afro_A",
+    "type": 0,
+    "en": "Hair #6",
+    "vi": "Hair #6"
+  },
+  {
+    "key": "hair_afro_B",
+    "type": 0,
+    "en": "Hair #7",
+    "vi": "Hair #7"
+  },
+  {
+    "key": "hair_afro_C",
+    "type": 0,
+    "en": "Hair #8",
+    "vi": "Hair #8"
+  },
+  {
+    "key": "hair_afro_D",
+    "type": 0,
+    "en": "Hair #9",
+    "vi": "Hair #9"
+  },
+  {
+    "key": "male_head_long",
+    "type": 0,
+    "en": "Head #1",
+    "vi": "Head #1"
+  },
+  {
+    "key": "male_head_normal",
+    "type": 0,
+    "en": "Head #2",
+    "vi": "Head #2"
+  },
+  {
+    "key": "male_head_round",
+    "type": 0,
+    "en": "Head #3",
+    "vi": "Head #3"
+  },
+  {
+    "key": "male_head_square",
+    "type": 0,
+    "en": "Head #4",
+    "vi": "Head #4"
+  },
+  {
+    "key": "male_head_wide",
+    "type": 0,
+    "en": "Head #5",
+    "vi": "Head #5"
+  },
+  {
+    "key": "head_long",
+    "type": 0,
+    "en": "Head #1",
+    "vi": "Head #1"
+  },
+  {
+    "key": "head_normal",
+    "type": 0,
+    "en": "Head #2",
+    "vi": "Head #2"
+  },
+  {
+    "key": "head_round",
+    "type": 0,
+    "en": "Head #3",
+    "vi": "Head #3"
+  },
+  {
+    "key": "head_square",
+    "type": 0,
+    "en": "Head #4",
+    "vi": "Head #4"
+  },
+  {
+    "key": "head_wide",
+    "type": 0,
+    "en": "Head #5",
+    "vi": "Head #5"
+  },
+  {
+    "key": "male_beard_clasic",
+    "type": 0,
+    "en": "Facial hair #7",
+    "vi": "Facial hair #7"
+  },
+  {
+    "key": "male_beard_goate",
+    "type": 0,
+    "en": "Facial hair #8",
+    "vi": "Facial hair #8"
+  },
+  {
+    "key": "male_beard_long",
+    "type": 0,
+    "en": "Facial hair #9",
+    "vi": "Facial hair #9"
+  },
+  {
+    "key": "male_beard_mutton",
+    "type": 0,
+    "en": "Facial hair #10",
+    "vi": "Facial hair #10"
+  },
+  {
+    "key": "male_moustache_long",
+    "type": 0,
+    "en": "Facial hair #1",
+    "vi": "Facial hair #1"
+  },
+  {
+    "key": "male_moustache_mutton",
+    "type": 0,
+    "en": "Facial hair #2",
+    "vi": "Facial hair #2"
+  },
+  {
+    "key": "male_moustache_short",
+    "type": 0,
+    "en": "Facial hair #3",
+    "vi": "Facial hair #3"
+  },
+  {
+    "key": "male_moustache_thick",
+    "type": 0,
+    "en": "Facial hair #4",
+    "vi": "Facial hair #4"
+  },
+  {
+    "key": "male_moustache_thin",
+    "type": 0,
+    "en": "Facial hair #5",
+    "vi": "Facial hair #5"
+  },
+  {
+    "key": "general_none",
+    "type": 0,
+    "en": "None",
+    "vi": "None"
+  },
+  {
+    "key": "gender_male",
+    "type": 0,
+    "en": "Masculine",
+    "vi": "Masculine"
+  },
+  {
+    "key": "gender_female",
+    "type": 0,
+    "en": "Feminine",
+    "vi": "Feminine"
+  },
+  {
+    "key": "character_group_points",
+    "type": 0,
+    "en": "Group creation points",
+    "vi": "Group creation points"
+  },
+  {
+    "key": "character_group_points_info",
+    "type": 0,
+    "en": "Use creation points to customise your group. The number of points it costs to alter a skill, perk, background, passion, etc., varies.",
+    "vi": "Use creation points to customise your group. The number of points it costs to alter a skill, perk, background, passion, etc., varies."
+  },
+  {
+    "key": "character_point_limit",
+    "type": 0,
+    "en": "Creation points are maxed out. Reroll settlers, or use Advanced Customization to adjust them.",
+    "vi": "Creation points are maxed out. Reroll settlers, or use Advanced Customization to adjust them."
+  },
+  {
+    "key": "character_points_cost",
+    "type": 0,
+    "en": "Creation point cost",
+    "vi": "Creation point cost"
+  },
+  {
+    "key": "general_goods_trader_small",
+    "type": 0,
+    "en": "Pedlar",
+    "vi": "Pedlar"
+  },
+  {
+    "key": "general_goods_trader_normal",
+    "type": 0,
+    "en": "General goods merchant ",
+    "vi": "General goods merchant "
+  },
+  {
+    "key": "general_goods_trader_large",
+    "type": 0,
+    "en": "General goods wholesale merchant",
+    "vi": "General goods wholesale merchant"
+  },
+  {
+    "key": "rare_goods_trader",
+    "type": 0,
+    "en": "Rare goods merchant",
+    "vi": "Rare goods merchant"
+  },
+  {
+    "key": "cancel_caravan_confirm",
+    "type": 0,
+    "en": "This action will abort caravan formation. Proceed?",
+    "vi": "This action will abort caravan formation. Proceed?"
+  },
+  {
+    "key": "eventOptionEffect_alighment",
+    "type": 0,
+    "en": "This choice may influence your alignment towards <faction_name>",
+    "vi": "This choice may influence your alignment towards <faction_name>"
+  },
+  {
+    "key": "global_trade_multiplier_name",
+    "type": 0,
+    "en": "Other value modifers",
+    "vi": "Other value modifers"
+  },
+  {
+    "key": "global_trade_multiplier_info",
+    "type": 0,
+    "en": "(Value can be modified by faction type, season, status, merchant type and even the type of terrain the merchant's settlement is built on)",
+    "vi": "(Value can be modified by faction type, season, status, merchant type and even the type of terrain the merchant's settlement is built on)"
+  },
+  {
+    "key": "generating_workers_message",
+    "type": 0,
+    "en": "Generating settlers",
+    "vi": "Generating settlers"
+  },
+  {
+    "key": "requires_conscious_worker_selected",
+    "type": 0,
+    "en": "Requires conscious settler",
+    "vi": "Requires conscious settler"
+  },
+  {
+    "key": "general_died_old_age",
+    "type": 0,
+    "en": "<name> has passed away peacefully in [his/her] sleep.",
+    "vi": "<name> has passed away peacefully in [his/her] sleep."
+  },
+  {
+    "key": "cropfield_error_sowing_period",
+    "type": 0,
+    "en": "Sowing period is different than the current date",
+    "vi": "Sowing period is different than the current date"
+  },
+  {
+    "key": "cropfield_error_no_seeds",
+    "type": 0,
+    "en": "Not enough seeds to sow this field",
+    "vi": "Not enough seeds to sow this field"
+  },
+  {
+    "key": "production_stopped_temperature",
+    "type": 0,
+    "en": "Temperature condition not met",
+    "vi": "Temperature condition not met"
+  },
+  {
+    "key": "fuel_type",
+    "type": 0,
+    "en": "Fuel",
+    "vi": "Fuel"
+  },
+  {
+    "key": "fuel_strength",
+    "type": 0,
+    "en": "Fuel strength",
+    "vi": "Fuel strength"
+  },
+  {
+    "key": "prioritise_refuel",
+    "type": 0,
+    "en": "Prioritise refueling:",
+    "vi": "Prioritise refueling:"
+  },
+  {
+    "key": "cannot_refuel",
+    "type": 0,
+    "en": "Cannot refuel, not enough resources",
+    "vi": "Cannot refuel, not enough resources"
+  },
+  {
+    "key": "cropfield_under_roof",
+    "type": 0,
+    "en": "Roofed: <roofed_percent>",
+    "vi": "Roofed: <roofed_percent>"
+  },
+  {
+    "key": "cropfield_under_roof_info",
+    "type": 0,
+    "en": "All or parts of this cropfield are roofed. Plants cannot be sown beneath roofs.",
+    "vi": "All or parts of this cropfield are roofed. Plants cannot be sown beneath roofs."
+  },
+  {
+    "key": "general_sow_period",
+    "type": 0,
+    "en": "Sowing Period",
+    "vi": "Sowing Period"
+  },
+  {
+    "key": "general_dont_sow",
+    "type": 0,
+    "en": "Don't Sow",
+    "vi": "Don't Sow"
+  },
+  {
+    "key": "general_harvest_phase",
+    "type": 0,
+    "en": "Harvest Phase",
+    "vi": "Harvest Phase"
+  },
+  {
+    "key": "general_cut_phase",
+    "type": 0,
+    "en": "Cutting Phase",
+    "vi": "Cutting Phase"
+  },
+  {
+    "key": "general_lacks",
+    "type": 0,
+    "en": "Lacks",
+    "vi": "Lacks"
+  },
+  {
+    "key": "xp_cap_reached",
+    "type": 0,
+    "en": "Daily XP cap reached (<daily_xp>). Further XP gained is multiplied by 0.1",
+    "vi": "Daily XP cap reached (<daily_xp>). Further XP gained is multiplied by 0.1"
+  },
+  {
+    "key": "map_seed",
+    "type": 0,
+    "en": "Map seed",
+    "vi": "Map seed"
+  },
+  {
+    "key": "general_overview",
+    "type": 0,
+    "en": "Overview",
+    "vi": "Overview"
+  },
+  {
+    "key": "assigned_to",
+    "type": 0,
+    "en": "Assigned to",
+    "vi": "Assigned to"
+  },
+  {
+    "key": "assigned_to_info",
+    "type": 0,
+    "en": "Choose the settler you wish to assign a pet animal to. Only one pet per settler.",
+    "vi": "Choose the settler you wish to assign a pet animal to. Only one pet per settler."
+  },
+  {
+    "key": "general_battle",
+    "type": 0,
+    "en": "Battle",
+    "vi": "Battle"
+  },
+  {
+    "key": "general_battle_info",
+    "type": 0,
+    "en": "Battle-trained animals will follow the settler they are assigned to when the settler is drafted. ",
+    "vi": "Battle-trained animals will follow the settler they are assigned to when the settler is drafted. "
+  },
+  {
+    "key": "general_untrainable",
+    "type": 0,
+    "en": "This animal can't be tamed",
+    "vi": "This animal can't be tamed"
+  }
+]

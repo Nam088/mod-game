@@ -1,0 +1,398 @@
+[
+  {
+    "key": "event_quality_lvl_name_very_bad",
+    "type": 0,
+    "en": "Lamentable",
+    "vi": "Lamentable"
+  },
+  {
+    "key": "event_quality_lvl_name_bad",
+    "type": 0,
+    "en": "Disappointing",
+    "vi": "Disappointing"
+  },
+  {
+    "key": "event_quality_lvl_name_decent",
+    "type": 0,
+    "en": "Decent",
+    "vi": "Decent"
+  },
+  {
+    "key": "event_quality_lvl_name_good",
+    "type": 0,
+    "en": "Enjoyable",
+    "vi": "Enjoyable"
+  },
+  {
+    "key": "event_quality_lvl_name_very_good",
+    "type": 0,
+    "en": "Excellent",
+    "vi": "Excellent"
+  },
+  {
+    "key": "event_quality_lvl_name_unforgettable",
+    "type": 0,
+    "en": "Unforgettable",
+    "vi": "Unforgettable"
+  },
+  {
+    "key": "event_quality_cooldown",
+    "type": 0,
+    "en": "Event Cooldown Time",
+    "vi": "Event Cooldown Time"
+  },
+  {
+    "key": "event_quality_points_breakdown",
+    "type": 0,
+    "en": "Event quality Points Breakdown",
+    "vi": "Event quality Points Breakdown"
+  },
+  {
+    "key": "event_requ_skill_book",
+    "type": 0,
+    "en": "Required Textbook",
+    "vi": "Required Textbook"
+  },
+  {
+    "key": "event_quality_ranged_name",
+    "type": 0,
+    "en": "Ranged Weaponry students",
+    "vi": "Ranged Weaponry students"
+  },
+  {
+    "key": "event_quality_melee_name",
+    "type": 0,
+    "en": "Melee Weapons students",
+    "vi": "Melee Weapons students"
+  },
+  {
+    "key": "event_requ_training",
+    "type": 0,
+    "en": "Training equipment",
+    "vi": "Training equipment"
+  },
+  {
+    "key": "effector_name_ExecutedPrisonerSameFaction",
+    "type": 0,
+    "en": "Prisoner Executed (Same Faction)",
+    "vi": "Prisoner Executed (Same Faction)"
+  },
+  {
+    "key": "effector_info_ExecutedPrisonerSameFaction",
+    "type": 0,
+    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
+    "vi": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I..."
+  },
+  {
+    "key": "effector_name_RaidWonEffector",
+    "type": 0,
+    "en": "Victorious!",
+    "vi": "Victorious!"
+  },
+  {
+    "key": "effector_info_RaidWonEffector",
+    "type": 0,
+    "en": "We have defied our enemies — triumph courses through my veins!",
+    "vi": "We have defied our enemies — triumph courses through my veins!"
+  },
+  {
+    "key": "effector_name_RaidLosingEffector",
+    "type": 0,
+    "en": "Losing ground",
+    "vi": "Losing ground"
+  },
+  {
+    "key": "effector_info_RaidLosingEffector",
+    "type": 0,
+    "en": "This fight is not going our way. Whatever will become of us!",
+    "vi": "This fight is not going our way. Whatever will become of us!"
+  },
+  {
+    "key": "effector_name_RaidLosingEffectorPos",
+    "type": 0,
+    "en": "Losing (positive)",
+    "vi": "Losing (positive)"
+  },
+  {
+    "key": "effector_info_RaidLosingEffectorPos",
+    "type": 0,
+    "en": "I'm ready to give in - I look forward to this being over.",
+    "vi": "I'm ready to give in - I look forward to this being over."
+  },
+  {
+    "key": "effector_name_RaidWinningEffector",
+    "type": 0,
+    "en": "Gaining ground",
+    "vi": "Gaining ground"
+  },
+  {
+    "key": "effector_info_RaidWinningEffector",
+    "type": 0,
+    "en": "Fortune is on our side! We may yet win the day.",
+    "vi": "Fortune is on our side! We may yet win the day."
+  },
+  {
+    "key": "building_name_merchant_table",
+    "type": 0,
+    "en": "Merchant's table",
+    "vi": "Merchant's table"
+  },
+  {
+    "key": "building_info_merchant_table",
+    "type": 0,
+    "en": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!",
+    "vi": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!"
+  },
+  {
+    "key": "building_name_merchants_stall",
+    "type": 0,
+    "en": "Merchant Stall",
+    "vi": "Merchant Stall"
+  },
+  {
+    "key": "building_info_merchants_stall",
+    "type": 0,
+    "en": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here.",
+    "vi": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here."
+  },
+  {
+    "key": "none_faction_name",
+    "type": 0,
+    "en": "Nonpartisan",
+    "vi": "Nonpartisan"
+  },
+  {
+    "key": "faction_type_faithful",
+    "type": 0,
+    "en": "Church of Restitution",
+    "vi": "Church of Restitution"
+  },
+  {
+    "key": "faction_type_pagan",
+    "type": 0,
+    "en": "Oak Brethren",
+    "vi": "Oak Brethren"
+  },
+  {
+    "key": "faction_type_knowledge",
+    "type": 0,
+    "en": "Knowledge",
+    "vi": "Knowledge"
+  },
+  {
+    "key": "faction_type_monarchy",
+    "type": 0,
+    "en": "Monarchy",
+    "vi": "Monarchy"
+  },
+  {
+    "key": "faction_type_anarchy",
+    "type": 0,
+    "en": "Anarchy",
+    "vi": "Anarchy"
+  },
+  {
+    "key": "faction_type_cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Cannibal"
+  },
+  {
+    "key": "faction_type_bandits",
+    "type": 0,
+    "en": "Bandits",
+    "vi": "Bandits"
+  },
+  {
+    "key": "faction_type_chaos",
+    "type": 0,
+    "en": "Chaos",
+    "vi": "Chaos"
+  },
+  {
+    "key": "dev_spawn_random_raid",
+    "type": 0,
+    "en": "Spawn Simple Raid",
+    "vi": "Spawn Simple Raid"
+  },
+  {
+    "key": "dev_faction_set_friendliness",
+    "type": 0,
+    "en": "Set Faction Alignment",
+    "vi": "Set Faction Alignment"
+  },
+  {
+    "key": "dev_tooltip_faction_set_friendliness",
+    "type": 0,
+    "en": "Alter Faction Alignment.",
+    "vi": "Alter Faction Alignment."
+  },
+  {
+    "key": "dev_faction_friendliness",
+    "type": 0,
+    "en": "Select a Faction...",
+    "vi": "Select a Faction..."
+  },
+  {
+    "key": "dev_faction_modify_friendliness",
+    "type": 0,
+    "en": "...then Alignment + / - 10.",
+    "vi": "...then Alignment + / - 10."
+  },
+  {
+    "key": "dev_tooltip_faction",
+    "type": 0,
+    "en": "Select the Faction you want to alter the Alignment of.",
+    "vi": "Select the Faction you want to alter the Alignment of."
+  },
+  {
+    "key": "dev_event_group_AnimalRaid",
+    "type": 0,
+    "en": "Animal Raid",
+    "vi": "Animal Raid"
+  },
+  {
+    "key": "dev_event_group_Raid",
+    "type": 0,
+    "en": "Raid",
+    "vi": "Raid"
+  },
+  {
+    "key": "dev_event_group_Merchantgeneral",
+    "type": 0,
+    "en": "Guileful trader",
+    "vi": "Guileful trader"
+  },
+  {
+    "key": "dev_event_group_Merchantrare",
+    "type": 0,
+    "en": "Merchant caravan",
+    "vi": "Merchant caravan"
+  },
+  {
+    "key": "dev_event_raid_new",
+    "type": 0,
+    "en": "Raid",
+    "vi": "Raid"
+  },
+  {
+    "key": "dev_event_wolf_raid",
+    "type": 0,
+    "en": "Ferocious wolves",
+    "vi": "Ferocious wolves"
+  },
+  {
+    "key": "dev_set_npc_faction",
+    "type": 0,
+    "en": "Set Faction of NPC",
+    "vi": "Set Faction of NPC"
+  },
+  {
+    "key": "dev_tooltip_set_npc_faction",
+    "type": 0,
+    "en": "Set Faction of NPC on pointer click",
+    "vi": "Set Faction of NPC on pointer click"
+  },
+  {
+    "key": "dev_faction_name_tooltip",
+    "type": 0,
+    "en": "On pointer click sets the faction of the NPC to this one",
+    "vi": "On pointer click sets the faction of the NPC to this one"
+  },
+  {
+    "key": "dev_event_prisoner_merchant",
+    "type": 0,
+    "en": "Prisoner Merchant",
+    "vi": "Prisoner Merchant"
+  },
+  {
+    "key": "dev_event_group_Merchantprisoner",
+    "type": 0,
+    "en": "Prisoner Merchant",
+    "vi": "Prisoner Merchant"
+  },
+  {
+    "key": "dev_npc_faction_select",
+    "type": 0,
+    "en": "Select Faction to change to",
+    "vi": "Select Faction to change to"
+  },
+  {
+    "key": "dev_switchFactionOwnership",
+    "type": 0,
+    "en": "Switch Faction Ownership",
+    "vi": "Switch Faction Ownership"
+  },
+  {
+    "key": "dev_tooltip_switchFactionOwnership",
+    "type": 0,
+    "en": "Toggles building and pile ownership between player and enemy.",
+    "vi": "Toggles building and pile ownership between player and enemy."
+  },
+  {
+    "key": "dev_event_deer_raid",
+    "type": 0,
+    "en": "Ferocious Deer",
+    "vi": "Ferocious Deer"
+  },
+  {
+    "key": "dev_event_hare_raid",
+    "type": 0,
+    "en": "Ferocious Hares",
+    "vi": "Ferocious Hares"
+  },
+  {
+    "key": "dev_event_fox_raid",
+    "type": 0,
+    "en": "Ferocious Foxes",
+    "vi": "Ferocious Foxes"
+  },
+  {
+    "key": "dev_event_polecat_raid",
+    "type": 0,
+    "en": "Ferocious Polecats",
+    "vi": "Ferocious Polecats"
+  },
+  {
+    "key": "dev_event_boar_raid",
+    "type": 0,
+    "en": "Ferocious Boars",
+    "vi": "Ferocious Boars"
+  },
+  {
+    "key": "dev_event_rat_raid",
+    "type": 0,
+    "en": "Ferocious Rats",
+    "vi": "Ferocious Rats"
+  },
+  {
+    "key": "dev_event_dog_raid",
+    "type": 0,
+    "en": "Ferocious Dogs",
+    "vi": "Ferocious Dogs"
+  },
+  {
+    "key": "dev_event_bear_raid",
+    "type": 0,
+    "en": "Ferocious Bears",
+    "vi": "Ferocious Bears"
+  },
+  {
+    "key": "dev_event_raid_infamy",
+    "type": 0,
+    "en": "Infamy Raid",
+    "vi": "Infamy Raid"
+  },
+  {
+    "key": "dev_event_group_AnimalRaidWolf",
+    "type": 0,
+    "en": "Animal Raid (Wolf)",
+    "vi": "Animal Raid (Wolf)"
+  },
+  {
+    "key": "dev_event_group_AnimalRaidRare",
+    "type": 0,
+    "en": "Animal Raid (Rare)",
+    "vi": "Animal Raid (Rare)"
+  }
+]

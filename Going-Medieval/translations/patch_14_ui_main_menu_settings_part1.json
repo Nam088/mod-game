@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "ctrl_ShowhideStability",
+    "type": 0,
+    "en": "Show stability values",
+    "vi": "Show stability values"
+  },
+  {
+    "key": "menu_action_scroll_wheel_camera_layer",
+    "type": 0,
+    "en": "While holding [<style=Shortcut>Shift</style>]\\n Use <style=Shortcut>Mouse wheel</style> to change what <style=DefaultBlue>layers</style> the camera is locked to",
+    "vi": "While holding [<style=Shortcut>Shift</style>]\\n Use <style=Shortcut>Mouse wheel</style> to change what <style=DefaultBlue>layers</style> the camera is locked to"
+  },
+  {
+    "key": "menu_accessories",
+    "type": 0,
+    "en": "Accessories",
+    "vi": "Accessories"
+  },
+  {
+    "key": "menu_allow_all",
+    "type": 0,
+    "en": "Allow All",
+    "vi": "Allow All"
+  },
+  {
+    "key": "menu_allow_all_prod_info",
+    "type": 0,
+    "en": "Allow all resources to be used in the production of this product",
+    "vi": "Allow all resources to be used in the production of this product"
+  },
+  {
+    "key": "menu_allow_all_stock_info",
+    "type": 0,
+    "en": "Allow all resources to be stockpiled here",
+    "vi": "Allow all resources to be stockpiled here"
+  },
+  {
+    "key": "menu_background",
+    "type": 0,
+    "en": "Background",
+    "vi": "Background"
+  },
+  {
+    "key": "menu_Individual",
+    "type": 0,
+    "en": "Individual",
+    "vi": "Individual"
+  },
+  {
+    "key": "menu_background_01",
+    "type": 0,
+    "en": "Background #1",
+    "vi": "Background #1"
+  },
+  {
+    "key": "menu_background_02",
+    "type": 0,
+    "en": "Background #2",
+    "vi": "Background #2"
+  },
+  {
+    "key": "menu_backstory",
+    "type": 0,
+    "en": "Backstory",
+    "vi": "Backstory"
+  },
+  {
+    "key": "menu_base",
+    "type": 0,
+    "en": "Base",
+    "vi": "Base"
+  },
+  {
+    "key": "menu_leisure",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Leisure"
+  },
+  {
+    "key": "menu_cancel_production",
+    "type": 0,
+    "en": "Cancel production",
+    "vi": "Cancel production"
+  },
+  {
+    "key": "menu_clear",
+    "type": 0,
+    "en": "Clear",
+    "vi": "Clear"
+  },
+  {
+    "key": "menu_clear_all",
+    "type": 0,
+    "en": "Clear All",
+    "vi": "Clear All"
+  },
+  {
+    "key": "menu_clear_all_prod_info",
+    "type": 0,
+    "en": "Clear the list of resources allowed for the production of this product",
+    "vi": "Clear the list of resources allowed for the production of this product"
+  },
+  {
+    "key": "menu_clear_all_stock_info",
+    "type": 0,
+    "en": "Clear all resources from the allowed list",
+    "vi": "Clear all resources from the allowed list"
+  },
+  {
+    "key": "menu_click_to_jump",
+    "type": 0,
+    "en": "(<sprite=\"ctrl_left_click\" index=t> to jump to location)",
+    "vi": "(<sprite=\"ctrl_left_click\" index=t> to jump to location)"
+  },
+  {
+    "key": "menu_completion",
+    "type": 0,
+    "en": "Completion",
+    "vi": "Completion"
+  },
+  {
+    "key": "menu_cropfield_size",
+    "type": 0,
+    "en": "Cropfield size",
+    "vi": "Cropfield size"
+  },
+  {
+    "key": "menu_decoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "menu_decoration_old",
+    "type": 0,
+    "en": "Decoration",
+    "vi": "Decoration"
+  },
+  {
+    "key": "menu_decrease_count",
+    "type": 0,
+    "en": "Decrease Count",
+    "vi": "Decrease Count"
+  },
+  {
+    "key": "menu_decrease_priority",
+    "type": 0,
+    "en": "Decrease priority",
+    "vi": "Decrease priority"
+  },
+  {
+    "key": "menu_delete",
+    "type": 0,
+    "en": "Delete",
+    "vi": "Delete"
+  },
+  {
+    "key": "menu_edit_production",
+    "type": 0,
+    "en": "Edit Production",
+    "vi": "Edit Production"
+  },
+  {
+    "key": "menu_equipment",
+    "type": 0,
+    "en": "Equipment",
+    "vi": "Equipment"
+  },
+  {
+    "key": "menu_floor",
+    "type": 0,
+    "en": "Floor",
+    "vi": "Floor"
+  },
+  {
+    "key": "menu_hunger",
+    "type": 0,
+    "en": "Food",
+    "vi": "Food"
+  },
+  {
+    "key": "menu_increase_count",
+    "type": 0,
+    "en": "Increase Count",
+    "vi": "Increase Count"
+  },
+  {
+    "key": "menu_increase_priority",
+    "type": 0,
+    "en": "Increase Priority",
+    "vi": "Increase Priority"
+  },
+  {
+    "key": "menu_misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "menu_nutrition",
+    "type": 0,
+    "en": "Nutrition",
+    "vi": "Nutrition"
+  },
+  {
+    "key": "menu_pause_production",
+    "type": 0,
+    "en": "Pause production",
+    "vi": "Pause production"
+  },
+  {
+    "key": "menu_produced",
+    "type": 0,
+    "en": "Resource Produced",
+    "vi": "Resource Produced"
+  },
+  {
+    "key": "menu_production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "menu_production_queue",
+    "type": 0,
+    "en": "Production queue",
+    "vi": "Production queue"
+  },
+  {
+    "key": "menu_products",
+    "type": 0,
+    "en": "Products",
+    "vi": "Products"
+  },
+  {
+    "key": "menu_pseudonym",
+    "type": 0,
+    "en": "Pseudonym",
+    "vi": "Pseudonym"
+  },
+  {
+    "key": "menu_quality",
+    "type": 0,
+    "en": "Quality",
+    "vi": "Quality"
+  },
+  {
+    "key": "menu_recipe",
+    "type": 0,
+    "en": "Resource Needed",
+    "vi": "Resource Needed"
+  },
+  {
+    "key": "menu_roof",
+    "type": 0,
+    "en": "Roof",
+    "vi": "Roof"
+  },
+  {
+    "key": "menu_rot",
+    "type": 0,
+    "en": "Fresh",
+    "vi": "Fresh"
+  },
+  {
+    "key": "menu_stockplie_size",
+    "type": 0,
+    "en": "Stockpile Size",
+    "vi": "Stockpile Size"
+  },
+  {
+    "key": "menu_storage",
+    "type": 0,
+    "en": "Storage Amount",
+    "vi": "Storage Amount"
+  },
+  {
+    "key": "menu_value",
+    "type": 0,
+    "en": "Value",
+    "vi": "Value"
+  },
+  {
+    "key": "menu_defense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "menu_x10",
+    "type": 0,
+    "en": "Hold down [<style=Shortcut>Control</style>] & <sprite=\"ctrl_left_click\" index=t> <b>x10</b> ",
+    "vi": "Hold down [<style=Shortcut>Control</style>] & <sprite=\"ctrl_left_click\" index=t> <b>x10</b> "
+  },
+  {
+    "key": "menu_x100",
+    "type": 0,
+    "en": "Hold down [<style=Shortcut>Shift</style>] & <sprite=\"ctrl_left_click\" index=t> <b>x100</b> ",
+    "vi": "Hold down [<style=Shortcut>Shift</style>] & <sprite=\"ctrl_left_click\" index=t> <b>x100</b> "
+  },
+  {
+    "key": "menu_zone",
+    "type": 0,
+    "en": "Zone",
+    "vi": "Zone"
+  },
+  {
+    "key": "menu_food_pouch",
+    "type": 0,
+    "en": "Pouch",
+    "vi": "Pouch"
+  },
+  {
+    "key": "menu_add_new",
+    "type": 0,
+    "en": "Add new",
+    "vi": "Add new"
+  },
+  {
+    "key": "ctrl_ShowHideTrees",
+    "type": 0,
+    "en": "Trees: Show/Hide",
+    "vi": "Trees: Show/Hide"
+  },
+  {
+    "key": "ctrl_ShowHideItemIndicators",
+    "type": 0,
+    "en": "Item Indicators: Show/Hide",
+    "vi": "Item Indicators: Show/Hide"
+  },
+  {
+    "key": "keycode_DoubleQuote",
+    "type": 0,
+    "en": "\"",
+    "vi": "\""
+  },
+  {
+    "key": "keycode_LeftParen",
+    "type": 0,
+    "en": "(",
+    "vi": "("
+  },
+  {
+    "key": "keycode_RightParen",
+    "type": 0,
+    "en": ")",
+    "vi": ")"
+  },
+  {
+    "key": "menu_modifiers",
+    "type": 0,
+    "en": "Modifiers",
+    "vi": "Modifiers"
+  },
+  {
+    "key": "menu_sending",
+    "type": 0,
+    "en": "Sending",
+    "vi": "Sending"
+  },
+  {
+    "key": "menu_auto_close",
+    "type": 0,
+    "en": "Auto-close in",
+    "vi": "Auto-close in"
+  },
+  {
+    "key": "menu_action_scroll_wheel_layer",
+    "type": 0,
+    "en": "While holding [<style=Shortcut>Ctrl</style>]\\n Use <style=Shortcut>Mouse wheel</style> to move rapidly through <style=DefaultBlue>layers</style>",
+    "vi": "While holding [<style=Shortcut>Ctrl</style>]\\n Use <style=Shortcut>Mouse wheel</style> to move rapidly through <style=DefaultBlue>layers</style>"
+  },
+  {
+    "key": "menu_action_click_layer",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> on any object or the ground \\n to jump to that <style=DefaultBlue>layer.</style>",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> on any object or the ground \\n to jump to that <style=DefaultBlue>layer.</style>"
+  },
+  {
+    "key": "menu_produced_in",
+    "type": 0,
+    "en": "Produced in",
+    "vi": "Produced in"
+  },
+  {
+    "key": "menu_source",
+    "type": 0,
+    "en": "Source",
+    "vi": "Source"
+  },
+  {
+    "key": "general_copy_settings",
+    "type": 0,
+    "en": "Copy Settings",
+    "vi": "Copy Settings"
+  },
+  {
+    "key": "general_paste_settings",
+    "type": 0,
+    "en": "Paste Settings",
+    "vi": "Paste Settings"
+  },
+  {
+    "key": "menu_structure_piles",
+    "type": 0,
+    "en": "Structure kits",
+    "vi": "Structure kits"
+  },
+  {
+    "key": "menu_aged",
+    "type": 0,
+    "en": "Aged",
+    "vi": "Aged"
+  },
+  {
+    "key": "menu_ferment",
+    "type": 0,
+    "en": "Fermented",
+    "vi": "Fermented"
+  },
+  {
+    "key": "menu_type",
+    "type": 0,
+    "en": "Type",
+    "vi": "Type"
+  },
+  {
+    "key": "menu_count",
+    "type": 0,
+    "en": "Count",
+    "vi": "Count"
+  },
+  {
+    "key": "menu_group",
+    "type": 0,
+    "en": "Group",
+    "vi": "Group"
+  },
+  {
+    "key": "menu_freshness",
+    "type": 0,
+    "en": "Fresh",
+    "vi": "Fresh"
+  },
+  {
+    "key": "menu_formerly",
+    "type": 0,
+    "en": "Formerly",
+    "vi": "Formerly"
+  },
+  {
+    "key": "menu_action_alt_select_active",
+    "type": 0,
+    "en": "While holding [<style=Shortcut>Alt</style>] use <sprite=\"ctrl_left_click\" index=t> on any item to get more details from the almanac",
+    "vi": "While holding [<style=Shortcut>Alt</style>] use <sprite=\"ctrl_left_click\" index=t> on any item to get more details from the almanac"
+  },
+  {
+    "key": "menu_action_toggle_plan_mode",
+    "type": 0,
+    "en": "[<style=Shortcut><input:TogglePlanMode></style>] to toggle plan mode",
+    "vi": "[<style=Shortcut><input:TogglePlanMode></style>] to toggle plan mode"
+  },
+  {
+    "key": "ctrl_TogglePlanMode",
+    "type": 0,
+    "en": "Toggle Plan Mode",
+    "vi": "Toggle Plan Mode"
+  },
+  {
+    "key": "ctrl_ShowHideForbiddenBlueprints",
+    "type": 0,
+    "en": "Show/Hide forbidden blueprints",
+    "vi": "Show/Hide forbidden blueprints"
+  },
+  {
+    "key": "back_to_main_menu",
+    "type": 0,
+    "en": "Take me back to the main menu",
+    "vi": "Take me back to the main menu"
+  },
+  {
+    "key": "menu_action_attack",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> on target to <style=DefaultBlue>Attack</style>",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> on target to <style=DefaultBlue>Attack</style>"
+  },
+  {
+    "key": "menu_action_dismiss",
+    "type": 0,
+    "en": "<sprite=\"ctrl_right_click\" index=t> to dismiss",
+    "vi": "<sprite=\"ctrl_right_click\" index=t> to dismiss"
+  },
+  {
+    "key": "menu_action_order_row",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> + drag to issue orders for area",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + drag to issue orders for area"
+  },
+  {
+    "key": "menu_action_order_hunt_area",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> + drag to mark multiple animals in an area",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + drag to mark multiple animals in an area"
+  },
+  {
+    "key": "menu_action_order_hunt_single",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> on a wild animal to mark it for hunting",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> on a wild animal to mark it for hunting"
+  },
+  {
+    "key": "menu_action_order_single",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> to issue an order",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> to issue an order"
+  },
+  {
+    "key": "menu_action_place_rotate",
+    "type": 0,
+    "en": "[<style=Shortcut><input:RotateLeft></style>]  & [<style=Shortcut><input:RotateRight></style>] to rotate",
+    "vi": "[<style=Shortcut><input:RotateLeft></style>]  & [<style=Shortcut><input:RotateRight></style>] to rotate"
+  },
+  {
+    "key": "menu_action_place_row",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row or area",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row or area"
+  },
+  {
+    "key": "menu_action_place_row_only",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row"
+  },
+  {
+    "key": "menu_action_place_square",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> + [<style=Shortcut>Left Alt</style>] + drag to place in a square",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + [<style=Shortcut>Left Alt</style>] + drag to place in a square"
+  },
+  {
+    "key": "menu_action_place_single",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> to place building",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> to place building"
+  },
+  {
+    "key": "menu_action_place_zone",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place"
+  },
+  {
+    "key": "menu_action_rightclick_attack",
+    "type": 0,
+    "en": "<sprite=\"ctrl_right_click\" index=t> on target to order <style=DefaultBlue>Attack</style>",
+    "vi": "<sprite=\"ctrl_right_click\" index=t> on target to order <style=DefaultBlue>Attack</style>"
+  },
+  {
+    "key": "menu_action_rightclick_equip",
+    "type": 0,
+    "en": "<sprite=\"ctrl_right_click\" index=t> on item to <style=DefaultBlue>Equip</style>",
+    "vi": "<sprite=\"ctrl_right_click\" index=t> on item to <style=DefaultBlue>Equip</style>"
+  },
+  {
+    "key": "menu_action_rightclick_move",
+    "type": 0,
+    "en": "<sprite=\"ctrl_right_click\" index=t> to <style=DefaultBlue>Move</style>",
+    "vi": "<sprite=\"ctrl_right_click\" index=t> to <style=DefaultBlue>Move</style>"
+  },
+  {
+    "key": "menu_action_socketable",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place"
+  },
+  {
+    "key": "options_show_gameplay_tips",
+    "type": 0,
+    "en": "Show Gameplay tips",
+    "vi": "Show Gameplay tips"
+  },
+  {
+    "key": "options_show_gameplay_tips_info",
+    "type": 0,
+    "en": "This is recommended for players new to Going Medieval.",
+    "vi": "This is recommended for players new to Going Medieval."
+  },
+  {
+    "key": "menu_produce",
+    "type": 0,
+    "en": "Produce",
+    "vi": "Produce"
+  },
+  {
+    "key": "menu_deliver",
+    "type": 0,
+    "en": "Deliver",
+    "vi": "Deliver"
+  },
+  {
+    "key": "menu_keybind_cancel_info",
+    "type": 0,
+    "en": "Dismiss Changes ",
+    "vi": "Dismiss Changes "
+  },
+  {
+    "key": "menu_keybind_ok_info",
+    "type": 0,
+    "en": "Confirm",
+    "vi": "Confirm"
+  },
+  {
+    "key": "menu_keybind_reset_info",
+    "type": 0,
+    "en": "Reset Keyboard Configuration to Default state",
+    "vi": "Reset Keyboard Configuration to Default state"
+  },
+  {
+    "key": "menu_keybindings",
+    "type": 0,
+    "en": "Key Bindings",
+    "vi": "Key Bindings"
+  },
+  {
+    "key": "menu_keyboard_configuration",
+    "type": 0,
+    "en": "Keyboard Configuration",
+    "vi": "Keyboard Configuration"
+  },
+  {
+    "key": "options_ambient_volume",
+    "type": 0,
+    "en": "Ambient volume",
+    "vi": "Ambient volume"
+  },
+  {
+    "key": "options_anisotropic",
+    "type": 0,
+    "en": "Anisotropic filtering",
+    "vi": "Anisotropic filtering"
+  },
+  {
+    "key": "options_autosave",
+    "type": 0,
+    "en": "Autosave",
+    "vi": "Autosave"
+  },
+  {
+    "key": "options_camera_sensitivity",
+    "type": 0,
+    "en": "Camera sensitivity",
+    "vi": "Camera sensitivity"
+  },
+  {
+    "key": "options_devtools",
+    "type": 0,
+    "en": "Dev Tools",
+    "vi": "Dev Tools"
+  },
+  {
+    "key": "options_devtools_info",
+    "type": 0,
+    "en": "A list of Developer tools",
+    "vi": "A list of Developer tools"
+  },
+  {
+    "key": "options_effect_volume",
+    "type": 0,
+    "en": "Effect Volume",
+    "vi": "Effect Volume"
+  },
+  {
+    "key": "options_fullscreen",
+    "type": 0,
+    "en": "Fullscreen",
+    "vi": "Fullscreen"
+  },
+  {
+    "key": "options_keyboard_config",
+    "type": 0,
+    "en": "Keyboard Configuration",
+    "vi": "Keyboard Configuration"
+  },
+  {
+    "key": "options_master_volume",
+    "type": 0,
+    "en": "Master Volume",
+    "vi": "Master Volume"
+  },
+  {
+    "key": "options_music_volume",
+    "type": 0,
+    "en": "Music Volume",
+    "vi": "Music Volume"
+  },
+  {
+    "key": "options_resolution",
+    "type": 0,
+    "en": "Resolution",
+    "vi": "Resolution"
+  },
+  {
+    "key": "options_screen_edge_mouse_scroll",
+    "type": 0,
+    "en": "Screen-edge mouse scroll",
+    "vi": "Screen-edge mouse scroll"
+  },
+  {
+    "key": "options_texture_quality",
+    "type": 0,
+    "en": "Texture quality",
+    "vi": "Texture quality"
+  },
+  {
+    "key": "options_ui_scale",
+    "type": 0,
+    "en": "UI scale",
+    "vi": "UI scale"
+  },
+  {
+    "key": "options_vsync",
+    "type": 0,
+    "en": "V-Sync",
+    "vi": "V-Sync"
+  },
+  {
+    "key": "options_worker_names",
+    "type": 0,
+    "en": "Show settler names",
+    "vi": "Show settler names"
+  },
+  {
+    "key": "options_camera_sharpen",
+    "type": 0,
+    "en": "Image Sharpness",
+    "vi": "Image Sharpness"
+  },
+  {
+    "key": "options_hover_intensity",
+    "type": 0,
+    "en": "Hover Visuals Opacity",
+    "vi": "Hover Visuals Opacity"
+  },
+  {
+    "key": "options_grass_toggle",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Grass"
+  },
+  {
+    "key": "options_cursor_toggle",
+    "type": 0,
+    "en": "Custom Cursor",
+    "vi": "Custom Cursor"
+  },
+  {
+    "key": "ctrl_ShowHideEstheticMap",
+    "type": 0,
+    "en": "Show aesthetic heatmap",
+    "vi": "Show aesthetic heatmap"
+  },
+  {
+    "key": "ctrl_ShowHideHeatMap",
+    "type": 0,
+    "en": "Show temperature heatmap",
+    "vi": "Show temperature heatmap"
+  },
+  {
+    "key": "ctrl_ShowHideZoneGrid",
+    "type": 0,
+    "en": "Zone Grid: Show/Hide",
+    "vi": "Zone Grid: Show/Hide"
+  },
+  {
+    "key": "ctrl_Leisure",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Leisure"
+  },
+  {
+    "key": "ctrl_Allow",
+    "type": 0,
+    "en": "Order: Allow",
+    "vi": "Order: Allow"
+  },
+  {
+    "key": "ctrl_Attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "ctrl_Base",
+    "type": 0,
+    "en": "Base",
+    "vi": "Base"
+  },
+  {
+    "key": "ctrl_CameraReset",
+    "type": 0,
+    "en": "Reset Camera View.",
+    "vi": "Reset Camera View."
+  },
+  {
+    "key": "ctrl_Cancel",
+    "type": 0,
+    "en": "Order: Cancel",
+    "vi": "Order: Cancel"
+  },
+  {
+    "key": "ctrl_Chopping",
+    "type": 0,
+    "en": "Order: Chop",
+    "vi": "Order: Chop"
+  },
+  {
+    "key": "ctrl_CutAllVegetation",
+    "type": 0,
+    "en": "Order: Cut Plants",
+    "vi": "Order: Cut Plants"
+  },
+  {
+    "key": "ctrl_Decoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "ctrl_Digging",
+    "type": 0,
+    "en": "Order: Mine",
+    "vi": "Order: Mine"
+  },
+  {
+    "key": "ctrl_Draft",
+    "type": 0,
+    "en": "Draft",
+    "vi": "Draft"
+  },
+  {
+    "key": "ctrl_GamePause",
+    "type": 0,
+    "en": "Pause Game",
+    "vi": "Pause Game"
+  },
+  {
+    "key": "ctrl_GameSpeedDown",
+    "type": 0,
+    "en": "Decrease Game Speed",
+    "vi": "Decrease Game Speed"
+  },
+  {
+    "key": "ctrl_GameSpeedFast",
+    "type": 0,
+    "en": "Game Speed: Fast",
+    "vi": "Game Speed: Fast"
+  },
+  {
+    "key": "ctrl_GameSpeedFaster",
+    "type": 0,
+    "en": "Game Speed: Very Fast",
+    "vi": "Game Speed: Very Fast"
+  },
+  {
+    "key": "ctrl_GameSpeedNormal",
+    "type": 0,
+    "en": "Game Speed: Normal",
+    "vi": "Game Speed: Normal"
+  },
+  {
+    "key": "ctrl_GameSpeedUp",
+    "type": 0,
+    "en": "Increase Game Speed",
+    "vi": "Increase Game Speed"
+  },
+  {
+    "key": "ctrl_Harvesting",
+    "type": 0,
+    "en": "Order: Harvest",
+    "vi": "Order: Harvest"
+  },
+  {
+    "key": "ctrl_Hunting",
+    "type": 0,
+    "en": "Order: Hunting",
+    "vi": "Order: Hunting"
+  },
+  {
+    "key": "ctrl_Fishing",
+    "type": 0,
+    "en": "Order: Fish",
+    "vi": "Order: Fish"
+  },
+  {
+    "key": "ctrl_UrgentHaul",
+    "type": 0,
+    "en": "Order: Urgent Haul",
+    "vi": "Order: Urgent Haul"
+  },
+  {
+    "key": "ctrl_IngameMenu",
+    "type": 0,
+    "en": "In Game Menu ",
+    "vi": "In Game Menu "
+  },
+  {
+    "key": "ctrl_Jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "ctrl_LayerDown",
+    "type": 0,
+    "en": "Show/Hide Terrain Layer Down",
+    "vi": "Show/Hide Terrain Layer Down"
+  },
+  {
+    "key": "ctrl_LayerUp",
+    "type": 0,
+    "en": "Show/Hide Terrain Layer Up",
+    "vi": "Show/Hide Terrain Layer Up"
+  },
+  {
+    "key": "ctrl_MapRotateRight",
+    "type": 0,
+    "en": "Rotate View Left",
+    "vi": "Rotate View Left"
+  },
+  {
+    "key": "ctrl_MapRotateLeft",
+    "type": 0,
+    "en": "Rotate View Right",
+    "vi": "Rotate View Right"
+  },
+  {
+    "key": "ctrl_MouseOrbit",
+    "type": 0,
+    "en": "Orbit Camera ",
+    "vi": "Orbit Camera "
+  },
+  {
+    "key": "ctrl_MoveDown",
+    "type": 0,
+    "en": "Move Down",
+    "vi": "Move Down"
+  },
+  {
+    "key": "ctrl_MoveLeft",
+    "type": 0,
+    "en": "Move Left",
+    "vi": "Move Left"
+  },
+  {
+    "key": "ctrl_MoveRight",
+    "type": 0,
+    "en": "Move Right",
+    "vi": "Move Right"
+  },
+  {
+    "key": "ctrl_MoveUp",
+    "type": 0,
+    "en": "Move Up",
+    "vi": "Move Up"
+  },
+  {
+    "key": "ctrl_Orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Orders"
+  },
+  {
+    "key": "ctrl_Production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "ctrl_Research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Research"
+  },
+  {
+    "key": "ctrl_RotateLeft",
+    "type": 0,
+    "en": "Rotate Construction Left",
+    "vi": "Rotate Construction Left"
+  },
+  {
+    "key": "ctrl_RotateRight",
+    "type": 0,
+    "en": "Rotate Construction Right",
+    "vi": "Rotate Construction Right"
+  },
+  {
+    "key": "ctrl_RtsFastMove",
+    "type": 0,
+    "en": "Fast Camera Movement",
+    "vi": "Fast Camera Movement"
+  },
+  {
+    "key": "ctrl_Schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Schedule"
+  },
+  {
+    "key": "ctrl_ShowHideRoofs",
+    "type": 0,
+    "en": "Roofs: Show/Hide",
+    "vi": "Roofs: Show/Hide"
+  },
+  {
+    "key": "ctrl_Stockpile",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Stockpile"
+  },
+  {
+    "key": "ctrl_TiltDown",
+    "type": 0,
+    "en": "View Tilt Down",
+    "vi": "View Tilt Down"
+  },
+  {
+    "key": "ctrl_TiltUp",
+    "type": 0,
+    "en": "View Tilt Up",
+    "vi": "View Tilt Up"
+  },
+  {
+    "key": "ctrl_ToggleForbid",
+    "type": 0,
+    "en": "Forbid/Allow",
+    "vi": "Forbid/Allow"
+  },
+  {
+    "key": "ctrl_Defense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "ctrl_Zone",
+    "type": 0,
+    "en": "Zone",
+    "vi": "Zone"
+  },
+  {
+    "key": "ctrl_ZoomIn",
+    "type": 0,
+    "en": "View Zoom In",
+    "vi": "View Zoom In"
+  },
+  {
+    "key": "ctrl_ZoomOut",
+    "type": 0,
+    "en": "View Zoom Out",
+    "vi": "View Zoom Out"
+  },
+  {
+    "key": "ctrl_ShrinkZone",
+    "type": 0,
+    "en": "Shrink Zone",
+    "vi": "Shrink Zone"
+  },
+  {
+    "key": "ctrl_ExpandZone",
+    "type": 0,
+    "en": "Expand Zone",
+    "vi": "Expand Zone"
+  },
+  {
+    "key": "ctrl_Manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Manage"
+  },
+  {
+    "key": "ctrl_LockCameraToLayer",
+    "type": 0,
+    "en": "Lock Camera to Layer",
+    "vi": "Lock Camera to Layer"
+  },
+  {
+    "key": "ctrl_LockCameraToLayerUp",
+    "type": 0,
+    "en": "Locked Camera Layer Up",
+    "vi": "Locked Camera Layer Up"
+  },
+  {
+    "key": "ctrl_LockCameraToLayerDown",
+    "type": 0,
+    "en": "Locked Camera Layer Down",
+    "vi": "Locked Camera Layer Down"
+  },
+  {
+    "key": "keycode_A",
+    "type": 0,
+    "en": "A",
+    "vi": "A"
+  },
+  {
+    "key": "keycode_B",
+    "type": 0,
+    "en": "B",
+    "vi": "B"
+  },
+  {
+    "key": "keycode_C",
+    "type": 0,
+    "en": "C",
+    "vi": "C"
+  },
+  {
+    "key": "keycode_D",
+    "type": 0,
+    "en": "D",
+    "vi": "D"
+  },
+  {
+    "key": "keycode_E",
+    "type": 0,
+    "en": "E",
+    "vi": "E"
+  },
+  {
+    "key": "keycode_F",
+    "type": 0,
+    "en": "F",
+    "vi": "F"
+  },
+  {
+    "key": "keycode_G",
+    "type": 0,
+    "en": "G",
+    "vi": "G"
+  },
+  {
+    "key": "keycode_H",
+    "type": 0,
+    "en": "H",
+    "vi": "H"
+  },
+  {
+    "key": "keycode_I",
+    "type": 0,
+    "en": "I",
+    "vi": "I"
+  },
+  {
+    "key": "keycode_J",
+    "type": 0,
+    "en": "J",
+    "vi": "J"
+  },
+  {
+    "key": "keycode_K",
+    "type": 0,
+    "en": "K",
+    "vi": "K"
+  },
+  {
+    "key": "keycode_L",
+    "type": 0,
+    "en": "L",
+    "vi": "L"
+  },
+  {
+    "key": "keycode_M",
+    "type": 0,
+    "en": "M",
+    "vi": "M"
+  },
+  {
+    "key": "keycode_N",
+    "type": 0,
+    "en": "N",
+    "vi": "N"
+  },
+  {
+    "key": "keycode_O",
+    "type": 0,
+    "en": "O",
+    "vi": "O"
+  },
+  {
+    "key": "keycode_P",
+    "type": 0,
+    "en": "P",
+    "vi": "P"
+  },
+  {
+    "key": "keycode_Q",
+    "type": 0,
+    "en": "Q",
+    "vi": "Q"
+  },
+  {
+    "key": "keycode_R",
+    "type": 0,
+    "en": "R",
+    "vi": "R"
+  },
+  {
+    "key": "keycode_S",
+    "type": 0,
+    "en": "S",
+    "vi": "S"
+  },
+  {
+    "key": "keycode_T",
+    "type": 0,
+    "en": "T",
+    "vi": "T"
+  },
+  {
+    "key": "keycode_U",
+    "type": 0,
+    "en": "U",
+    "vi": "U"
+  },
+  {
+    "key": "keycode_V",
+    "type": 0,
+    "en": "V",
+    "vi": "V"
+  },
+  {
+    "key": "keycode_W",
+    "type": 0,
+    "en": "W",
+    "vi": "W"
+  },
+  {
+    "key": "keycode_X",
+    "type": 0,
+    "en": "X",
+    "vi": "X"
+  },
+  {
+    "key": "keycode_Y",
+    "type": 0,
+    "en": "Y",
+    "vi": "Y"
+  },
+  {
+    "key": "keycode_Z",
+    "type": 0,
+    "en": "Z",
+    "vi": "Z"
+  },
+  {
+    "key": "keycode_Alpha0",
+    "type": 0,
+    "en": "0",
+    "vi": "0"
+  },
+  {
+    "key": "keycode_Alpha1",
+    "type": 0,
+    "en": "1",
+    "vi": "1"
+  },
+  {
+    "key": "keycode_Alpha2",
+    "type": 0,
+    "en": "2",
+    "vi": "2"
+  },
+  {
+    "key": "keycode_Alpha3",
+    "type": 0,
+    "en": "3",
+    "vi": "3"
+  },
+  {
+    "key": "keycode_Alpha4",
+    "type": 0,
+    "en": "4",
+    "vi": "4"
+  },
+  {
+    "key": "keycode_Alpha5",
+    "type": 0,
+    "en": "5",
+    "vi": "5"
+  },
+  {
+    "key": "keycode_Alpha6",
+    "type": 0,
+    "en": "6",
+    "vi": "6"
+  },
+  {
+    "key": "keycode_Alpha7",
+    "type": 0,
+    "en": "7",
+    "vi": "7"
+  },
+  {
+    "key": "keycode_Alpha8",
+    "type": 0,
+    "en": "8",
+    "vi": "8"
+  },
+  {
+    "key": "keycode_Alpha9",
+    "type": 0,
+    "en": "9",
+    "vi": "9"
+  },
+  {
+    "key": "keycode_BackQuote",
+    "type": 0,
+    "en": "`",
+    "vi": "`"
+  },
+  {
+    "key": "keycode_Backslash",
+    "type": 0,
+    "en": "\\",
+    "vi": "\\"
+  },
+  {
+    "key": "keycode_Backspace",
+    "type": 0,
+    "en": "Backspace",
+    "vi": "Backspace"
+  },
+  {
+    "key": "keycode_CapsLock",
+    "type": 0,
+    "en": "Caps Lock",
+    "vi": "Caps Lock"
+  },
+  {
+    "key": "keycode_Clear",
+    "type": 0,
+    "en": "Clear",
+    "vi": "Clear"
+  },
+  {
+    "key": "keycode_Comma",
+    "type": 0,
+    "en": ",",
+    "vi": ","
+  },
+  {
+    "key": "keycode_Delete",
+    "type": 0,
+    "en": "Delete",
+    "vi": "Delete"
+  },
+  {
+    "key": "keycode_End",
+    "type": 0,
+    "en": "End",
+    "vi": "End"
+  },
+  {
+    "key": "keycode_Equals",
+    "type": 0,
+    "en": "Equals",
+    "vi": "Equals"
+  },
+  {
+    "key": "keycode_Escape",
+    "type": 0,
+    "en": "Escape",
+    "vi": "Escape"
+  },
+  {
+    "key": "keycode_F1",
+    "type": 0,
+    "en": "F1",
+    "vi": "F1"
+  },
+  {
+    "key": "keycode_F2",
+    "type": 0,
+    "en": "F2",
+    "vi": "F2"
+  },
+  {
+    "key": "keycode_F3",
+    "type": 0,
+    "en": "F3",
+    "vi": "F3"
+  },
+  {
+    "key": "keycode_F4",
+    "type": 0,
+    "en": "F4",
+    "vi": "F4"
+  },
+  {
+    "key": "keycode_F5",
+    "type": 0,
+    "en": "F5",
+    "vi": "F5"
+  },
+  {
+    "key": "keycode_F6",
+    "type": 0,
+    "en": "F6",
+    "vi": "F6"
+  },
+  {
+    "key": "keycode_F7",
+    "type": 0,
+    "en": "F7",
+    "vi": "F7"
+  },
+  {
+    "key": "keycode_F8",
+    "type": 0,
+    "en": "F8",
+    "vi": "F8"
+  },
+  {
+    "key": "keycode_F9",
+    "type": 0,
+    "en": "F9",
+    "vi": "F9"
+  },
+  {
+    "key": "keycode_F10",
+    "type": 0,
+    "en": "F10",
+    "vi": "F10"
+  },
+  {
+    "key": "keycode_F11",
+    "type": 0,
+    "en": "F11",
+    "vi": "F11"
+  },
+  {
+    "key": "keycode_F12",
+    "type": 0,
+    "en": "F12",
+    "vi": "F12"
+  },
+  {
+    "key": "keycode_F13",
+    "type": 0,
+    "en": "F13",
+    "vi": "F13"
+  },
+  {
+    "key": "keycode_F14",
+    "type": 0,
+    "en": "F14",
+    "vi": "F14"
+  },
+  {
+    "key": "keycode_F15",
+    "type": 0,
+    "en": "F15",
+    "vi": "F15"
+  },
+  {
+    "key": "keycode_Home",
+    "type": 0,
+    "en": "Home",
+    "vi": "Home"
+  },
+  {
+    "key": "keycode_Insert",
+    "type": 0,
+    "en": "Insert",
+    "vi": "Insert"
+  },
+  {
+    "key": "keycode_Keypad0",
+    "type": 0,
+    "en": "Keypad 0",
+    "vi": "Keypad 0"
+  },
+  {
+    "key": "keycode_Keypad1",
+    "type": 0,
+    "en": "Keypad 1",
+    "vi": "Keypad 1"
+  },
+  {
+    "key": "keycode_Keypad2",
+    "type": 0,
+    "en": "Keypad 2",
+    "vi": "Keypad 2"
+  },
+  {
+    "key": "keycode_Keypad3",
+    "type": 0,
+    "en": "Keypad 3",
+    "vi": "Keypad 3"
+  },
+  {
+    "key": "keycode_Keypad4",
+    "type": 0,
+    "en": "Keypad 4",
+    "vi": "Keypad 4"
+  },
+  {
+    "key": "keycode_Keypad5",
+    "type": 0,
+    "en": "Keypad 5",
+    "vi": "Keypad 5"
+  },
+  {
+    "key": "keycode_Keypad6",
+    "type": 0,
+    "en": "Keypad 6",
+    "vi": "Keypad 6"
+  },
+  {
+    "key": "keycode_Keypad7",
+    "type": 0,
+    "en": "Keypad 7",
+    "vi": "Keypad 7"
+  },
+  {
+    "key": "keycode_Keypad8",
+    "type": 0,
+    "en": "Keypad 8",
+    "vi": "Keypad 8"
+  },
+  {
+    "key": "keycode_Keypad9",
+    "type": 0,
+    "en": "Keypad 9",
+    "vi": "Keypad 9"
+  },
+  {
+    "key": "keycode_KeypadDivide",
+    "type": 0,
+    "en": "Keypad /",
+    "vi": "Keypad /"
+  },
+  {
+    "key": "keycode_KeypadEnter",
+    "type": 0,
+    "en": "Keypad Enter",
+    "vi": "Keypad Enter"
+  },
+  {
+    "key": "keycode_KeypadMinus",
+    "type": 0,
+    "en": "Keypad -",
+    "vi": "Keypad -"
+  },
+  {
+    "key": "keycode_KeypadMultiply",
+    "type": 0,
+    "en": "Keypad *",
+    "vi": "Keypad *"
+  },
+  {
+    "key": "keycode_KeypadPeriod",
+    "type": 0,
+    "en": "Keypad .",
+    "vi": "Keypad ."
+  },
+  {
+    "key": "keycode_KeypadPlus",
+    "type": 0,
+    "en": "Keypad +",
+    "vi": "Keypad +"
+  },
+  {
+    "key": "keycode_Minus",
+    "type": 0,
+    "en": "Minus",
+    "vi": "Minus"
+  },
+  {
+    "key": "keycode_Mouse2",
+    "type": 0,
+    "en": "Mouse Button 3",
+    "vi": "Mouse Button 3"
+  },
+  {
+    "key": "keycode_Mouse3",
+    "type": 0,
+    "en": "Mouse Button 4",
+    "vi": "Mouse Button 4"
+  },
+  {
+    "key": "keycode_Mouse4",
+    "type": 0,
+    "en": "Mouse Button 5",
+    "vi": "Mouse Button 5"
+  },
+  {
+    "key": "keycode_Mouse5",
+    "type": 0,
+    "en": "Mouse Button 6",
+    "vi": "Mouse Button 6"
+  },
+  {
+    "key": "keycode_Mouse6",
+    "type": 0,
+    "en": "Mouse Button 7",
+    "vi": "Mouse Button 7"
+  },
+  {
+    "key": "keycode_None",
+    "type": 0,
+    "en": "None",
+    "vi": "None"
+  },
+  {
+    "key": "keycode_Numlock",
+    "type": 0,
+    "en": "Numlock",
+    "vi": "Numlock"
+  },
+  {
+    "key": "keycode_PageDown",
+    "type": 0,
+    "en": "Page Down",
+    "vi": "Page Down"
+  },
+  {
+    "key": "keycode_PageUp",
+    "type": 0,
+    "en": "Page Up",
+    "vi": "Page Up"
+  },
+  {
+    "key": "keycode_Pause",
+    "type": 0,
+    "en": "Pause",
+    "vi": "Pause"
+  },
+  {
+    "key": "keycode_Period",
+    "type": 0,
+    "en": ".",
+    "vi": "."
+  },
+  {
+    "key": "keycode_Quote",
+    "type": 0,
+    "en": "Quote",
+    "vi": "Quote"
+  },
+  {
+    "key": "keycode_Return",
+    "type": 0,
+    "en": "Return",
+    "vi": "Return"
+  },
+  {
+    "key": "keycode_RightAlt",
+    "type": 0,
+    "en": "Right Alt",
+    "vi": "Right Alt"
+  },
+  {
+    "key": "keycode_RightBracket",
+    "type": 0,
+    "en": "]",
+    "vi": "]"
+  },
+  {
+    "key": "keycode_RightControl",
+    "type": 0,
+    "en": "Right Control",
+    "vi": "Right Control"
+  },
+  {
+    "key": "keycode_RightShift",
+    "type": 0,
+    "en": "Right Shift",
+    "vi": "Right Shift"
+  },
+  {
+    "key": "keycode_LeftAlt",
+    "type": 0,
+    "en": "Left Alt",
+    "vi": "Left Alt"
+  },
+  {
+    "key": "keycode_LeftBracket",
+    "type": 0,
+    "en": "[",
+    "vi": "["
+  },
+  {
+    "key": "keycode_LeftControl",
+    "type": 0,
+    "en": "Left Control",
+    "vi": "Left Control"
+  },
+  {
+    "key": "keycode_LeftShift",
+    "type": 0,
+    "en": "Left Shift",
+    "vi": "Left Shift"
+  },
+  {
+    "key": "keycode_ScrollLock",
+    "type": 0,
+    "en": "Scroll Lock",
+    "vi": "Scroll Lock"
+  },
+  {
+    "key": "keycode_Semicolon",
+    "type": 0,
+    "en": ";",
+    "vi": ";"
+  },
+  {
+    "key": "keycode_Slash",
+    "type": 0,
+    "en": "/",
+    "vi": "/"
+  },
+  {
+    "key": "keycode_Space",
+    "type": 0,
+    "en": "Space",
+    "vi": "Space"
+  },
+  {
+    "key": "keycode_Tab",
+    "type": 0,
+    "en": "Tab",
+    "vi": "Tab"
+  },
+  {
+    "key": "keycode_UpArrow",
+    "type": 0,
+    "en": "Up Arrow",
+    "vi": "Up Arrow"
+  },
+  {
+    "key": "keycode_RightArrow",
+    "type": 0,
+    "en": "Right Arrow",
+    "vi": "Right Arrow"
+  },
+  {
+    "key": "keycode_LeftArrow",
+    "type": 0,
+    "en": "Left Arrow",
+    "vi": "Left Arrow"
+  },
+  {
+    "key": "keycode_DownArrow",
+    "type": 0,
+    "en": "Down Arrow",
+    "vi": "Down Arrow"
+  },
+  {
+    "key": "ingame_menu_back",
+    "type": 0,
+    "en": "Back",
+    "vi": "Back"
+  },
+  {
+    "key": "ingame_menu_delete",
+    "type": 0,
+    "en": "Delete",
+    "vi": "Delete"
+  },
+  {
+    "key": "ingame_menu_keyboard_configuration",
+    "type": 0,
+    "en": "Keyboard Configuration",
+    "vi": "Keyboard Configuration"
+  },
+  {
+    "key": "ingame_menu_main",
+    "type": 0,
+    "en": "Quit to Main Menu",
+    "vi": "Quit to Main Menu"
+  },
+  {
+    "key": "ingame_menu_options",
+    "type": 0,
+    "en": "Options",
+    "vi": "Options"
+  },
+  {
+    "key": "ingame_menu_override",
+    "type": 0,
+    "en": "Overwrite",
+    "vi": "Overwrite"
+  },
+  {
+    "key": "ingame_menu_quit",
+    "type": 0,
+    "en": "Quit Game",
+    "vi": "Quit Game"
+  },
+  {
+    "key": "ingame_menu_resume",
+    "type": 0,
+    "en": "Resume",
+    "vi": "Resume"
+  },
+  {
+    "key": "ingame_menu_save",
+    "type": 0,
+    "en": "Save",
+    "vi": "Save"
+  },
+  {
+    "key": "menu_language",
+    "type": 0,
+    "en": "Language",
+    "vi": "Language"
+  },
+  {
+    "key": "menu_language_Chinese",
+    "type": 0,
+    "en": "简体中文",
+    "vi": "简体中文"
+  },
+  {
+    "key": "menu_language_French",
+    "type": 0,
+    "en": "Français",
+    "vi": "Français"
+  },
+  {
+    "key": "menu_language_German",
+    "type": 0,
+    "en": "Deutsch",
+    "vi": "Deutsch"
+  },
+  {
+    "key": "menu_language_Spanish",
+    "type": 0,
+    "en": "Español",
+    "vi": "Español"
+  },
+  {
+    "key": "menu_language_Russian",
+    "type": 0,
+    "en": "Русский",
+    "vi": "Русский"
+  },
+  {
+    "key": "menu_language_Japanese",
+    "type": 0,
+    "en": "日本語",
+    "vi": "日本語"
+  },
+  {
+    "key": "menu_language_Portuguese",
+    "type": 0,
+    "en": "Português brasileiro",
+    "vi": "Português brasileiro"
+  },
+  {
+    "key": "menu_language_English",
+    "type": 0,
+    "en": "English",
+    "vi": "English"
+  },
+  {
+    "key": "menu_language_Korean",
+    "type": 0,
+    "en": "한국어",
+    "vi": "한국어"
+  },
+  {
+    "key": "menu_language_Polish",
+    "type": 0,
+    "en": "Polski",
+    "vi": "Polski"
+  },
+  {
+    "key": "menu_language_Turkish",
+    "type": 0,
+    "en": "Türkçe",
+    "vi": "Türkçe"
+  },
+  {
+    "key": "menu_load",
+    "type": 0,
+    "en": "Load",
+    "vi": "Load"
+  },
+  {
+    "key": "menu_main_menu",
+    "type": 0,
+    "en": "Main Menu",
+    "vi": "Main Menu"
+  },
+  {
+    "key": "menu_options",
+    "type": 0,
+    "en": "Options",
+    "vi": "Options"
+  },
+  {
+    "key": "menu_quit",
+    "type": 0,
+    "en": "Quit",
+    "vi": "Quit"
+  },
+  {
+    "key": "screen_settings_description",
+    "type": 0,
+    "en": "Do you want to keep these settings? ",
+    "vi": "Do you want to keep these settings? "
+  },
+  {
+    "key": "menu_map_seed",
+    "type": 0,
+    "en": "Random Seed",
+    "vi": "Random Seed"
+  },
+  {
+    "key": "menu_region_map_seed",
+    "type": 0,
+    "en": "Region Seed",
+    "vi": "Region Seed"
+  },
+  {
+    "key": "menu_map_seed_placeholder",
+    "type": 0,
+    "en": "Type any text",
+    "vi": "Type any text"
+  },
+  {
+    "key": "menu_mirror_horizontal",
+    "type": 0,
+    "en": "Flip X",
+    "vi": "Flip X"
+  },
+  {
+    "key": "menu_mirror_vertical",
+    "type": 0,
+    "en": "Flip Y",
+    "vi": "Flip Y"
+  },
+  {
+    "key": "menu_new_game",
+    "type": 0,
+    "en": "New Game",
+    "vi": "New Game"
+  },
+  {
+    "key": "menu_patterns",
+    "type": 0,
+    "en": "Patterns",
+    "vi": "Patterns"
+  },
+  {
+    "key": "menu_randomise",
+    "type": 0,
+    "en": "Randomize",
+    "vi": "Randomize"
+  },
+  {
+    "key": "menu_rotate",
+    "type": 0,
+    "en": "Rotate",
+    "vi": "Rotate"
+  },
+  {
+    "key": "menu_saturation",
+    "type": 0,
+    "en": "Saturation",
+    "vi": "Saturation"
+  },
+  {
+    "key": "menu_scale",
+    "type": 0,
+    "en": "Scale",
+    "vi": "Scale"
+  },
+  {
+    "key": "menu_location",
+    "type": 0,
+    "en": "Location",
+    "vi": "Location"
+  },
+  {
+    "key": "menu_starting_conditions",
+    "type": 0,
+    "en": "Starting conditions",
+    "vi": "Starting conditions"
+  },
+  {
+    "key": "menu_allowed_objectives",
+    "type": 0,
+    "en": "Allowed Objectives",
+    "vi": "Allowed Objectives"
+  },
+  {
+    "key": "menu_allowed_obejctives_description",
+    "type": 0,
+    "en": "Mark which objectives are possible in this scenario. Note that this cannot be changed once the scenario is under way.",
+    "vi": "Mark which objectives are possible in this scenario. Note that this cannot be changed once the scenario is under way."
+  },
+  {
+    "key": "menu_summary",
+    "type": 0,
+    "en": "Summary",
+    "vi": "Summary"
+  },
+  {
+    "key": "menu_shapes",
+    "type": 0,
+    "en": "Shapes",
+    "vi": "Shapes"
+  },
+  {
+    "key": "menu_symbols",
+    "type": 0,
+    "en": "Symbols",
+    "vi": "Symbols"
+  },
+  {
+    "key": "menu_transform",
+    "type": 0,
+    "en": "Transform",
+    "vi": "Transform"
+  },
+  {
+    "key": "menu_translate_x",
+    "type": 0,
+    "en": "Translate X",
+    "vi": "Translate X"
+  },
+  {
+    "key": "menu_translate_y",
+    "type": 0,
+    "en": "Translate Y",
+    "vi": "Translate Y"
+  },
+  {
+    "key": "menu_village_name",
+    "type": 0,
+    "en": "Settlement Name",
+    "vi": "Settlement Name"
+  },
+  {
+    "key": "menu_worker_name_placeholder",
+    "type": 0,
+    "en": "Type any name",
+    "vi": "Type any name"
+  },
+  {
+    "key": "menu_workers",
+    "type": 0,
+    "en": "Workers",
+    "vi": "Workers"
+  },
+  {
+    "key": "menu_color",
+    "type": 0,
+    "en": "Colour",
+    "vi": "Colour"
+  },
+  {
+    "key": "menu_starting_characters",
+    "type": 0,
+    "en": "Starting Characters",
+    "vi": "Starting Characters"
+  },
+  {
+    "key": "menu_heraldry",
+    "type": 0,
+    "en": "Heraldry",
+    "vi": "Heraldry"
+  },
+  {
+    "key": "menu_hue",
+    "type": 0,
+    "en": "Hue",
+    "vi": "Hue"
+  },
+  {
+    "key": "options_ui_size_Smallest",
+    "type": 0,
+    "en": "Smallest ",
+    "vi": "Smallest "
+  },
+  {
+    "key": "options_ui_size_Small",
+    "type": 0,
+    "en": "Small",
+    "vi": "Small"
+  },
+  {
+    "key": "options_ui_size_Normal",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Normal"
+  },
+  {
+    "key": "options_ui_size_Large",
+    "type": 0,
+    "en": "Large",
+    "vi": "Large"
+  },
+  {
+    "key": "options_ui_size_Largest",
+    "type": 0,
+    "en": "Largest",
+    "vi": "Largest"
+  },
+  {
+    "key": "options_graphics",
+    "type": 0,
+    "en": "Graphics",
+    "vi": "Graphics"
+  },
+  {
+    "key": "options_audio",
+    "type": 0,
+    "en": "Audio",
+    "vi": "Audio"
+  },
+  {
+    "key": "options_game",
+    "type": 0,
+    "en": "Game",
+    "vi": "Game"
+  },
+  {
+    "key": "options_credits",
+    "type": 0,
+    "en": "Credits",
+    "vi": "Credits"
+  },
+  {
+    "key": "options_visibleInBackground",
+    "type": 0,
+    "en": "Visible In Background",
+    "vi": "Visible In Background"
+  },
+  {
+    "key": "options_shadowQuality",
+    "type": 0,
+    "en": "Shadow Quality",
+    "vi": "Shadow Quality"
+  },
+  {
+    "key": "options_softParticles",
+    "type": 0,
+    "en": "Soft Particles",
+    "vi": "Soft Particles"
+  },
+  {
+    "key": "options_antiAliasing",
+    "type": 0,
+    "en": "Anti Aliasing",
+    "vi": "Anti Aliasing"
+  },
+  {
+    "key": "options_enviroment_footprints",
+    "type": 0,
+    "en": "Footprints",
+    "vi": "Footprints"
+  },
+  {
+    "key": "options_enviroment_footprints_info",
+    "type": 0,
+    "en": "Both humans and animals leave footprints and stir up dust.",
+    "vi": "Both humans and animals leave footprints and stir up dust."
+  },
+  {
+    "key": "options_enviroment_birds",
+    "type": 0,
+    "en": "Bird Flocks",
+    "vi": "Bird Flocks"
+  },
+  {
+    "key": "options_enviroment_birds_info",
+    "type": 0,
+    "en": "Wild birds fly above settlements, around carcasses, and from trees being felled. Domestic birds, like chickens, are unaffected.",
+    "vi": "Wild birds fly above settlements, around carcasses, and from trees being felled. Domestic birds, like chickens, are unaffected."
+  },
+  {
+    "key": "options_enviroment_particles",
+    "type": 0,
+    "en": "Environment Particles",
+    "vi": "Environment Particles"
+  },
+  {
+    "key": "options_enviroment_particles_info",
+    "type": 0,
+    "en": "Particles like leaves and twigs fly from felled trees, and dust clouds are carried on the wind. Weather effects, like rain and fog, are unaffected.",
+    "vi": "Particles like leaves and twigs fly from felled trees, and dust clouds are carried on the wind. Weather effects, like rain and fog, are unaffected."
+  },
+  {
+    "key": "options_motionBlur",
+    "type": 0,
+    "en": "Motion Blur",
+    "vi": "Motion Blur"
+  },
+  {
+    "key": "options_ambientOcclusion",
+    "type": 0,
+    "en": "Ambient Occlusion",
+    "vi": "Ambient Occlusion"
+  },
+  {
+    "key": "options_bloom",
+    "type": 0,
+    "en": "Bloom",
+    "vi": "Bloom"
+  },
+  {
+    "key": "options_vSync_everyBlock",
+    "type": 0,
+    "en": "Every Block",
+    "vi": "Every Block"
+  },
+  {
+    "key": "options_vSync_everySecondBlock",
+    "type": 0,
+    "en": "Every Second Block",
+    "vi": "Every Second Block"
+  },
+  {
+    "key": "options_sun_shafts",
+    "type": 0,
+    "en": "Sunbeams",
+    "vi": "Sunbeams"
+  },
+  {
+    "key": "options_aa_FXAA",
+    "type": 0,
+    "en": "FXAA",
+    "vi": "FXAA"
+  },
+  {
+    "key": "options_aa_SMAA_low",
+    "type": 0,
+    "en": "SMAA low",
+    "vi": "SMAA low"
+  },
+  {
+    "key": "options_aa_SMAA_medium",
+    "type": 0,
+    "en": "SMAA medium",
+    "vi": "SMAA medium"
+  },
+  {
+    "key": "options_aa_SMAA_high",
+    "type": 0,
+    "en": "SMAA high",
+    "vi": "SMAA high"
+  },
+  {
+    "key": "options_FrameRate",
+    "type": 0,
+    "en": "Framerate cap",
+    "vi": "Framerate cap"
+  },
+  {
+    "key": "menu_roadmap",
+    "type": 0,
+    "en": "Roadmap",
+    "vi": "Roadmap"
+  },
+  {
+    "key": "menu_patchnotes",
+    "type": 0,
+    "en": "Patch Notes",
+    "vi": "Patch Notes"
+  },
+  {
+    "key": "menu_changelog",
+    "type": 0,
+    "en": "Changelog",
+    "vi": "Changelog"
+  },
+  {
+    "key": "menu_new_update",
+    "type": 0,
+    "en": "New features in this update",
+    "vi": "New features in this update"
+  },
+  {
+    "key": "options_playlist_pause",
+    "type": 0,
+    "en": "Music Playlist Pause",
+    "vi": "Music Playlist Pause"
+  },
+  {
+    "key": "options_runInbackground",
+    "type": 0,
+    "en": "Run In Background",
+    "vi": "Run In Background"
+  },
+  {
+    "key": "options_sendAutoReport",
+    "type": 0,
+    "en": "Send Crash Report",
+    "vi": "Send Crash Report"
+  },
+  {
+    "key": "options_camera_target_visuals",
+    "type": 0,
+    "en": "Camera target visuals",
+    "vi": "Camera target visuals"
+  },
+  {
+    "key": "options_camera_target_visuals_info",
+    "type": 0,
+    "en": "Toggle visuals that represent the camera's target. Visuals will appear only while the camera is moving/zooming/orbiting.",
+    "vi": "Toggle visuals that represent the camera's target. Visuals will appear only while the camera is moving/zooming/orbiting."
+  },
+  {
+    "key": "options_camera_target_visuals_duration",
+    "type": 0,
+    "en": "Camera target visuals duration",
+    "vi": "Camera target visuals duration"
+  },
+  {
+    "key": "options_camera_target_visuals_duration_info",
+    "type": 0,
+    "en": "How long camera target visuals remain on screen after the camera action stops.",
+    "vi": "How long camera target visuals remain on screen after the camera action stops."
+  },
+  {
+    "key": "options_coyote_time",
+    "type": 0,
+    "en": "Coyote time",
+    "vi": "Coyote time"
+  },
+  {
+    "key": "options_coyote_time_info",
+    "type": 0,
+    "en": "The amount of time the camera target stays airborne when going off a cliff. If camera target visuals are enabled, this is represented by a white line from the target visuals to the next layer the camera target jumps to.",
+    "vi": "The amount of time the camera target stays airborne when going off a cliff. If camera target visuals are enabled, this is represented by a white line from the target visuals to the next layer the camera target jumps to."
+  },
+  {
+    "key": "options_camera_shake",
+    "type": 0,
+    "en": "Camera Shake",
+    "vi": "Camera Shake"
+  },
+  {
+    "key": "options_camera_shake_info",
+    "type": 0,
+    "en": "Toggles whether or not the camera will shake",
+    "vi": "Toggles whether or not the camera will shake"
+  },
+  {
+    "key": "options_camera_settings",
+    "type": 0,
+    "en": "Camera Settings",
+    "vi": "Camera Settings"
+  },
+  {
+    "key": "ingame_menu_camera_settings",
+    "type": 0,
+    "en": "Camera Settings",
+    "vi": "Camera Settings"
+  },
+  {
+    "key": "options_legacy_camera",
+    "type": 0,
+    "en": "Legacy Mode",
+    "vi": "Legacy Mode"
+  },
+  {
+    "key": "options_legacy_camera_info",
+    "type": 0,
+    "en": "Toggles legacy mode where the camera operates as it did in the original game build. Enabling legacy mode disables all other more recently-added camera features ",
+    "vi": "Toggles legacy mode where the camera operates as it did in the original game build. Enabling legacy mode disables all other more recently-added camera features "
+  },
+  {
+    "key": "options_twitch",
+    "type": 0,
+    "en": "Twitch",
+    "vi": "Twitch"
+  },
+  {
+    "key": "menu_loading",
+    "type": 0,
+    "en": "Loading",
+    "vi": "Loading"
+  },
+  {
+    "key": "menu_migrating",
+    "type": 0,
+    "en": "Migrating",
+    "vi": "Migrating"
+  },
+  {
+    "key": "menu_alcohol",
+    "type": 0,
+    "en": "Alcohol Requirement",
+    "vi": "Alcohol Requirement"
+  },
+  {
+    "key": "info_menu_alcohol",
+    "type": 0,
+    "en": "The amount of alcohol a settler requires. If this need is not met, the settler will be unhappy.",
+    "vi": "The amount of alcohol a settler requires. If this need is not met, the settler will be unhappy."
+  },
+  {
+    "key": "info_menu_faith",
+    "type": 0,
+    "en": "The amount of religious activity this settler requires. Settlers aligned farther from the center will need religious activities more often. If this need is not met, the settler will be unhappy.",
+    "vi": "The amount of religious activity this settler requires. Settlers aligned farther from the center will need religious activities more often. If this need is not met, the settler will be unhappy."
+  },
+  {
+    "key": "menu_faith",
+    "type": 0,
+    "en": "Religious Activities",
+    "vi": "Religious Activities"
+  },
+  {
+    "key": "menu_entertaiment",
+    "type": 0,
+    "en": "Entertainment Activities",
+    "vi": "Entertainment Activities"
+  },
+  {
+    "key": "info_menu_entertaiment",
+    "type": 0,
+    "en": "The amount of entertainment activity a settler requires. If this need is not met, the settler will be unhappy.",
+    "vi": "The amount of entertainment activity a settler requires. If this need is not met, the settler will be unhappy."
+  },
+  {
+    "key": "menu_stomach",
+    "type": 0,
+    "en": "Stomach",
+    "vi": "Stomach"
+  },
+  {
+    "key": "info_menu_stomach",
+    "type": 0,
+    "en": "This indicates how well this settler’s stomach is. Drinking alcohol and eating raw food especially meat can cause stomach upsets. If this number reaches 0 the settler will vomit. Carcasses and rotten piles can make the stomach turn as well.",
+    "vi": "This indicates how well this settler’s stomach is. Drinking alcohol and eating raw food especially meat can cause stomach upsets. If this number reaches 0 the settler will vomit. Carcasses and rotten piles can make the stomach turn as well."
+  },
+  {
+    "key": "info_menu_blood",
+    "type": 0,
+    "en": "The amount of blood a person or animal has. Losing blood can result in the villager losing consciousness or if it reaches 0% the settler will die.",
+    "vi": "The amount of blood a person or animal has. Losing blood can result in the villager losing consciousness or if it reaches 0% the settler will die."
+  },
+  {
+    "key": "info_menu_consciousness",
+    "type": 0,
+    "en": "The amount of consciousness a person or animal has. Losing consciousness can result in loss of motor functions. If it reaches 0% the settler will faint.",
+    "vi": "The amount of consciousness a person or animal has. Losing consciousness can result in loss of motor functions. If it reaches 0% the settler will faint."
+  },
+  {
+    "key": "info_menu_health",
+    "type": 0,
+    "en": "The amount of damage a person, animal or object can take before dying.",
+    "vi": "The amount of damage a person, animal or object can take before dying."
+  },
+  {
+    "key": "info_menu_hunger",
+    "type": 0,
+    "en": "Food: The amount of nutrition that is consumed. If it reaches 0% the settler will enter starvation mode and eventually die.",
+    "vi": "Food: The amount of nutrition that is consumed. If it reaches 0% the settler will enter starvation mode and eventually die."
+  },
+  {
+    "key": "info_menu_pain",
+    "type": 0,
+    "en": "The amount of pain the settler is experiencing at that moment. Large amounts of pain will result in loss of consciousness.",
+    "vi": "The amount of pain the settler is experiencing at that moment. Large amounts of pain will result in loss of consciousness."
+  },
+  {
+    "key": "info_menu_rot",
+    "type": 0,
+    "en": "Resource pile freshness. When it reaches 0%, this pile will become rotten.",
+    "vi": "Resource pile freshness. When it reaches 0%, this pile will become rotten."
+  },
+  {
+    "key": "info_menu_sleep",
+    "type": 0,
+    "en": "Sleep: Amount of sleep the settler has had. If it reaches 0% the settler will faint.",
+    "vi": "Sleep: Amount of sleep the settler has had. If it reaches 0% the settler will faint."
+  },
+  {
+    "key": "info_menu_storage",
+    "type": 0,
+    "en": "Storage amount: The amount of resources stored in this pile.",
+    "vi": "Storage amount: The amount of resources stored in this pile."
+  },
+  {
+    "key": "menu_health",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Hitpoints"
+  },
+  {
+    "key": "menu_hit_points",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Hitpoints"
+  },
+  {
+    "key": "menu_consciousness",
+    "type": 0,
+    "en": "Consciousness",
+    "vi": "Consciousness"
+  },
+  {
+    "key": "menu_sleep",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Sleep"
+  },
+  {
+    "key": "menu_blood",
+    "type": 0,
+    "en": "Blood",
+    "vi": "Blood"
+  },
+  {
+    "key": "menu_TemperatureHot",
+    "type": 0,
+    "en": "Temperature Hot",
+    "vi": "Temperature Hot"
+  },
+  {
+    "key": "menu_TemperatureCold",
+    "type": 0,
+    "en": "Temperature Cold",
+    "vi": "Temperature Cold"
+  },
+  {
+    "key": "menu_ReligiousAlignment",
+    "type": 0,
+    "en": "Religious Alignment",
+    "vi": "Religious Alignment"
+  },
+  {
+    "key": "menu_Inebriated",
+    "type": 0,
+    "en": "Inebriated",
+    "vi": "Inebriated"
+  },
+  {
+    "key": "menu_Canibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Cannibal"
+  },
+  {
+    "key": "menu_character_age",
+    "type": 0,
+    "en": "Age",
+    "vi": "Age"
+  },
+  {
+    "key": "menu_character_hight",
+    "type": 0,
+    "en": "Height",
+    "vi": "Height"
+  },
+  {
+    "key": "menu_character_incapable",
+    "type": 0,
+    "en": "Incapable of",
+    "vi": "Incapable of"
+  },
+  {
+    "key": "menu_character_name",
+    "type": 0,
+    "en": "Name",
+    "vi": "Name"
+  },
+  {
+    "key": "menu_character_surname",
+    "type": 0,
+    "en": "Surname",
+    "vi": "Surname"
+  },
+  {
+    "key": "menu_character_religious",
+    "type": 0,
+    "en": "Religious Alignment",
+    "vi": "Religious Alignment"
+  },
+  {
+    "key": "menu_character_societal",
+    "type": 0,
+    "en": "Societal Alignment",
+    "vi": "Societal Alignment"
+  },
+  {
+    "key": "menu_character_weight",
+    "type": 0,
+    "en": "Weight",
+    "vi": "Weight"
+  },
+  {
+    "key": "menu_Pain",
+    "type": 0,
+    "en": "Pain",
+    "vi": "Pain"
+  },
+  {
+    "key": "menu_comfort",
+    "type": 0,
+    "en": "Comfort",
+    "vi": "Comfort"
+  },
+  {
+    "key": "info_menu_comfort",
+    "type": 0,
+    "en": "The settler's comfort level. Better beds, chairs and clothes will result in a higher value. Increased comfort will give positive mood modifiers.",
+    "vi": "The settler's comfort level. Better beds, chairs and clothes will result in a higher value. Increased comfort will give positive mood modifiers."
+  },
+  {
+    "key": "menu_beauty_points",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Aesthetic Value"
+  },
+  {
+    "key": "menu_beauty_points_on_ground",
+    "type": 0,
+    "en": "on ground",
+    "vi": "on ground"
+  },
+  {
+    "key": "menu_beauty_points_on_shelf",
+    "type": 0,
+    "en": "on rack/shelf",
+    "vi": "on rack/shelf"
+  },
+  {
+    "key": "menu_beauty",
+    "type": 0,
+    "en": "Aesthetics",
+    "vi": "Aesthetics"
+  },
+  {
+    "key": "info_menu_beauty",
+    "type": 0,
+    "en": "The settler's requirement for beautiful surroundings. When settlers are around aesthetically pleasing items, like art, this will result in a higher value.",
+    "vi": "The settler's requirement for beautiful surroundings. When settlers are around aesthetically pleasing items, like art, this will result in a higher value."
+  },
+  {
+    "key": "menu_Social",
+    "type": 0,
+    "en": "Socialising",
+    "vi": "Socialising"
+  },
+  {
+    "key": "info_menu_social",
+    "type": 0,
+    "en": "The settler's requirement for social interactions. Having your settler interact with others will fulfill their need for social interactions",
+    "vi": "The settler's requirement for social interactions. Having your settler interact with others will fulfill their need for social interactions"
+  },
+  {
+    "key": "menu_malnutrition",
+    "type": 0,
+    "en": "Satiety",
+    "vi": "Satiety"
+  },
+  {
+    "key": "menu_copy_production",
+    "type": 0,
+    "en": "Copy production entry",
+    "vi": "Copy production entry"
+  },
+  {
+    "key": "menu_copy_production_queue",
+    "type": 0,
+    "en": "Copy entire queue",
+    "vi": "Copy entire queue"
+  },
+  {
+    "key": "menu_paste_production_queue",
+    "type": 0,
+    "en": "Paste in to queue",
+    "vi": "Paste in to queue"
+  },
+  {
+    "key": "produce_settings_panel_assign_description",
+    "type": 0,
+    "en": "Limit which settler can work on this product",
+    "vi": "Limit which settler can work on this product"
+  },
+  {
+    "key": "menu_item_hit_points",
+    "type": 0,
+    "en": "Item Hitpoints",
+    "vi": "Item Hitpoints"
+  },
+  {
+    "key": "menu_language_default",
+    "type": 0,
+    "en": "Officially Supported Languages",
+    "vi": "Officially Supported Languages"
+  }
+]

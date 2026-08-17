@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "effector_name_ComfortableMedium",
+    "type": 0,
+    "en": "Uncomfortable",
+    "vi": "Uncomfortable"
+  },
+  {
+    "key": "effector_name_ComfortableVery",
+    "type": 0,
+    "en": "Comfortable",
+    "vi": "Comfortable"
+  },
+  {
+    "key": "effector_name_ComfortableExtremely",
+    "type": 0,
+    "en": "Very Comfortable",
+    "vi": "Very Comfortable"
+  },
+  {
+    "key": "effector_name_MadeSomethigOutOfHumanLeather",
+    "type": 0,
+    "en": "Made something out of Human Leather",
+    "vi": "Made something out of Human Leather"
+  },
+  {
+    "key": "effector_info_MadeSomethigOutOfHumanLeather",
+    "type": 0,
+    "en": "It turns out that human skin is surprisingly supple and easy to work with. I wish I didn't know that.",
+    "vi": "It turns out that human skin is surprisingly supple and easy to work with. I wish I didn't know that."
+  },
+  {
+    "key": "effector_name_AffectionSettledTogether",
+    "type": 0,
+    "en": "Settled Together",
+    "vi": "Settled Together"
+  },
+  {
+    "key": "effector_name_AffectionNegative",
+    "type": 0,
+    "en": "Unpleasant Conversation",
+    "vi": "Unpleasant Conversation"
+  },
+  {
+    "key": "effector_name_AffectionNeutral",
+    "type": 0,
+    "en": "Small Talk",
+    "vi": "Small Talk"
+  },
+  {
+    "key": "effector_name_AffectionPositive",
+    "type": 0,
+    "en": "Pleasant Conversation",
+    "vi": "Pleasant Conversation"
+  },
+  {
+    "key": "effector_name_AffectionVeryPositive",
+    "type": 0,
+    "en": "Wonderful Conversation",
+    "vi": "Wonderful Conversation"
+  },
+  {
+    "key": "effector_name_AffectionVeryNegative",
+    "type": 0,
+    "en": "Terrible Conversation",
+    "vi": "Terrible Conversation"
+  },
+  {
+    "key": "effector_name_AffectionPetNeutral",
+    "type": 0,
+    "en": "Decent company",
+    "vi": "Decent company"
+  },
+  {
+    "key": "effector_name_AffectionPetVeryPossitive",
+    "type": 0,
+    "en": "Wonderful company",
+    "vi": "Wonderful company"
+  },
+  {
+    "key": "effector_name_AffectionPetVeryNegative",
+    "type": 0,
+    "en": "Terrible company",
+    "vi": "Terrible company"
+  },
+  {
+    "key": "effector_name_AffectionWelcome",
+    "type": 0,
+    "en": "Welcomed me to the settlement ",
+    "vi": "Welcomed me to the settlement "
+  },
+  {
+    "key": "effector_name_AffectionCarryToBed",
+    "type": 0,
+    "en": "Carried me when I was wounded",
+    "vi": "Carried me when I was wounded"
+  },
+  {
+    "key": "effector_name_AffectionTendWounds",
+    "type": 0,
+    "en": "Tended my wounds",
+    "vi": "Tended my wounds"
+  },
+  {
+    "key": "effector_name_AffectionBattledTogether",
+    "type": 0,
+    "en": "We battled together ",
+    "vi": "We battled together "
+  },
+  {
+    "key": "effector_name_BeliefNeutral",
+    "type": 0,
+    "en": "Faith unaffected",
+    "vi": "Faith unaffected"
+  },
+  {
+    "key": "effector_name_BeliefSlightPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith increased slightly",
+    "vi": "Oak Brethren faith increased slightly"
+  },
+  {
+    "key": "effector_name_BeliefPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith increased",
+    "vi": "Oak Brethren faith increased"
+  },
+  {
+    "key": "effector_name_BeliefVeryPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith deepened significantly",
+    "vi": "Oak Brethren faith deepened significantly"
+  },
+  {
+    "key": "effector_name_BeliefSlightPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion increased slightly",
+    "vi": "Church of Restitution devotion increased slightly"
+  },
+  {
+    "key": "effector_name_BeliefPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion increased",
+    "vi": "Church of Restitution devotion increased"
+  },
+  {
+    "key": "effector_name_BeliefVeryPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion greatly magnified",
+    "vi": "Church of Restitution devotion greatly magnified"
+  },
+  {
+    "key": "effector_name_BeliefSlightNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith decreased slightly",
+    "vi": "Oak Brethren faith decreased slightly"
+  },
+  {
+    "key": "effector_name_BeliefNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith decreased",
+    "vi": "Oak Brethren faith decreased"
+  },
+  {
+    "key": "effector_name_BeliefVeryNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith diminished significantly",
+    "vi": "Oak Brethren faith diminished significantly"
+  },
+  {
+    "key": "effector_name_BeliefSlightNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion decreased slightly",
+    "vi": "Church of Restitution devotion decreased slightly"
+  },
+  {
+    "key": "effector_name_BeliefNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion decreased",
+    "vi": "Church of Restitution devotion decreased"
+  },
+  {
+    "key": "effector_name_BeliefVeryNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion greatly diminished",
+    "vi": "Church of Restitution devotion greatly diminished"
+  },
+  {
+    "key": "effector_name_BeliefConversionPagan",
+    "type": 0,
+    "en": "Converted to Oak Brethren",
+    "vi": "Converted to Oak Brethren"
+  },
+  {
+    "key": "effector_name_BeliefConversionChristian",
+    "type": 0,
+    "en": "Converted to Church of Restitution",
+    "vi": "Converted to Church of Restitution"
+  },
+  {
+    "key": "effector_name_SocialNeedLow",
+    "type": 0,
+    "en": "Lonely",
+    "vi": "Lonely"
+  },
+  {
+    "key": "effector_name_SocialNeedMed",
+    "type": 0,
+    "en": "Deprived of company",
+    "vi": "Deprived of company"
+  },
+  {
+    "key": "effector_name_BanishedVillagerFriend",
+    "type": 0,
+    "en": "Banished Friend",
+    "vi": "Banished Friend"
+  },
+  {
+    "key": "effector_name_BanishedVillagerRival",
+    "type": 0,
+    "en": "Banished Rival",
+    "vi": "Banished Rival"
+  },
+  {
+    "key": "effector_name_WorkerDiedFriend",
+    "type": 0,
+    "en": "Friend Died",
+    "vi": "Friend Died"
+  },
+  {
+    "key": "effector_name_WorkerDiedRival",
+    "type": 0,
+    "en": "Rival Died",
+    "vi": "Rival Died"
+  },
+  {
+    "key": "effector_info_BanishedVillagerFriend",
+    "type": 0,
+    "en": "As if life isn't hard enough already. Now I've lost a friend as well.",
+    "vi": "As if life isn't hard enough already. Now I've lost a friend as well."
+  },
+  {
+    "key": "effector_info_BanishedVillagerRival",
+    "type": 0,
+    "en": "Good Riddance! I hope thay get captured by bandits!",
+    "vi": "Good Riddance! I hope thay get captured by bandits!"
+  },
+  {
+    "key": "effector_info_WorkerDiedFriend",
+    "type": 0,
+    "en": "Oh, how I shall mourn my friend's passing.",
+    "vi": "Oh, how I shall mourn my friend's passing."
+  },
+  {
+    "key": "effector_info_WorkerDiedRival",
+    "type": 0,
+    "en": "We mustn't speak ill of the dead. But I can't pretend I'll shed many tears, either.",
+    "vi": "We mustn't speak ill of the dead. But I can't pretend I'll shed many tears, either."
+  },
+  {
+    "key": "effector_name_BanishedVillager",
+    "type": 0,
+    "en": "Banished Settler",
+    "vi": "Banished Settler"
+  },
+  {
+    "key": "effector_info_BanishedVillager",
+    "type": 0,
+    "en": "There are too few of us already in this world. Banishing someone feels like a betrayal.",
+    "vi": "There are too few of us already in this world. Banishing someone feels like a betrayal."
+  },
+  {
+    "key": "effector_name_WorkerDied",
+    "type": 0,
+    "en": "Acquaintance died",
+    "vi": "Acquaintance died"
+  },
+  {
+    "key": "effector_info_WorkerDied",
+    "type": 0,
+    "en": "I can't believe they are no more!",
+    "vi": "I can't believe they are no more!"
+  },
+  {
+    "key": "effector_name_DrankVeryNiceWine",
+    "type": 0,
+    "en": "Drank fine wine",
+    "vi": "Drank fine wine"
+  },
+  {
+    "key": "effector_info_DrankVeryNiceWine",
+    "type": 0,
+    "en": "Mmm, this wine is like bottled poetry.",
+    "vi": "Mmm, this wine is like bottled poetry."
+  },
+  {
+    "key": "effector_name_WetLow",
+    "type": 0,
+    "en": "Damp",
+    "vi": "Damp"
+  },
+  {
+    "key": "effector_name_WetMed",
+    "type": 0,
+    "en": "Wet",
+    "vi": "Wet"
+  },
+  {
+    "key": "effector_name_WetHigh",
+    "type": 0,
+    "en": "Drenched",
+    "vi": "Drenched"
+  },
+  {
+    "key": "effector_name_In_water",
+    "type": 0,
+    "en": "In Water",
+    "vi": "In Water"
+  },
+  {
+    "key": "effector_name_drowning",
+    "type": 0,
+    "en": "Drowning",
+    "vi": "Drowning"
+  },
+  {
+    "key": "effector_name_DrownLoseHP",
+    "type": 0,
+    "en": "Drowning",
+    "vi": "Drowning"
+  },
+  {
+    "key": "effector_name_RoleAssign",
+    "type": 0,
+    "en": "Assigned role",
+    "vi": "Assigned role"
+  },
+  {
+    "key": "effector_info_RoleAssign",
+    "type": 0,
+    "en": "I am fortunate to be given the <role> role in <village_name>.",
+    "vi": "I am fortunate to be given the <role> role in <village_name>."
+  },
+  {
+    "key": "effector_name_RoleRetract",
+    "type": 0,
+    "en": "Role revoked",
+    "vi": "Role revoked"
+  },
+  {
+    "key": "effector_info_RoleRetract",
+    "type": 0,
+    "en": "I'm disappointed that my role as <role> was taken away.",
+    "vi": "I'm disappointed that my role as <role> was taken away."
+  },
+  {
+    "key": "effector_name_RoleReqLost",
+    "type": 0,
+    "en": "Lacking requirements",
+    "vi": "Lacking requirements"
+  },
+  {
+    "key": "effector_info_RoleReqLost",
+    "type": 0,
+    "en": "I lack certain requirements to carry out my duties fully: <list_of_requirements>",
+    "vi": "I lack certain requirements to carry out my duties fully: <list_of_requirements>"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Feast",
+    "vi": "Appalling Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Feast",
+    "vi": "Lamentable Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Feast",
+    "vi": "Disappointing Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeDecent",
+    "type": 0,
+    "en": "Decent Feast",
+    "vi": "Decent Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Feast",
+    "vi": "Enjoyable Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Feast",
+    "vi": "Excellent Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Feast",
+    "vi": "Unforgettable Feast"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeTerribleHedonist",
+    "type": 0,
+    "en": "Appalling Feast (Hedonist)",
+    "vi": "Appalling Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryBadHedonist",
+    "type": 0,
+    "en": "Lamentable Feast (Hedonist)",
+    "vi": "Lamentable Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeBadHedonist",
+    "type": 0,
+    "en": "Disappointing Feast (Hedonist)",
+    "vi": "Disappointing Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeDecentHedonist",
+    "type": 0,
+    "en": "Decent Feast (Hedonist)",
+    "vi": "Decent Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeGoodHedonist",
+    "type": 0,
+    "en": "Enjoyable Feast (Hedonist)",
+    "vi": "Enjoyable Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryGoodHedonist",
+    "type": 0,
+    "en": "Excellent Feast (Hedonist)",
+    "vi": "Excellent Feast (Hedonist)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeUnforgettableHedonist",
+    "type": 0,
+    "en": "Unforgettable Feast (Hedonist)",
+    "vi": "Unforgettable Feast (Hedonist)"
+  },
+  {
+    "key": "effector_info_EventOutcomeTerrible",
+    "type": 0,
+    "en": "Shamefully chaotic event. I yearned for death, quite literally, to end my suffering faster. Never again.",
+    "vi": "Shamefully chaotic event. I yearned for death, quite literally, to end my suffering faster. Never again."
+  },
+  {
+    "key": "effector_info_EventOutcomeVeryBad",
+    "type": 0,
+    "en": "I regret going to that - there are several hours of my life that I'd like back. What a letdown.",
+    "vi": "I regret going to that - there are several hours of my life that I'd like back. What a letdown."
+  },
+  {
+    "key": "effector_info_EventOutcomeBad",
+    "type": 0,
+    "en": "I can't say I enjoyed that. The whole event was pretty uninspiring, if I'm honest.",
+    "vi": "I can't say I enjoyed that. The whole event was pretty uninspiring, if I'm honest."
+  },
+  {
+    "key": "effector_info_EventOutcomeDecent",
+    "type": 0,
+    "en": "That was an acceptable way to pass some time, all things considered.",
+    "vi": "That was an acceptable way to pass some time, all things considered."
+  },
+  {
+    "key": "effector_info_EventOutcomeGood",
+    "type": 0,
+    "en": "I think everyone had a pretty good experience. I'm looking forward to the next one already.",
+    "vi": "I think everyone had a pretty good experience. I'm looking forward to the next one already."
+  },
+  {
+    "key": "effector_info_EventOutcomeVeryGood",
+    "type": 0,
+    "en": "What a captivating event! I'll be thinking about it for days to come. I'm so glad I went.",
+    "vi": "What a captivating event! I'll be thinking about it for days to come. I'm so glad I went."
+  },
+  {
+    "key": "effector_info_EventOutcomeUnforgettable",
+    "type": 0,
+    "en": "I've never been to an event like it. You had to be there - I was awestruck that anything could be so beautiful.",
+    "vi": "I've never been to an event like it. You had to be there - I was awestruck that anything could be so beautiful."
+  },
+  {
+    "key": "effector_name_GoalPreferenceVeryNegative",
+    "type": 0,
+    "en": "Resentfully did something ",
+    "vi": "Resentfully did something "
+  },
+  {
+    "key": "effector_name_GoalPreferenceNegative",
+    "type": 0,
+    "en": "Unwillingly did something",
+    "vi": "Unwillingly did something"
+  },
+  {
+    "key": "effector_name_GoalPreferencePositive",
+    "type": 0,
+    "en": "Eagerly did something",
+    "vi": "Eagerly did something"
+  },
+  {
+    "key": "effector_name_GoalPreferenceVeryPositive",
+    "type": 0,
+    "en": "Passionately did something",
+    "vi": "Passionately did something"
+  },
+  {
+    "key": "effector_info_GoalPreference",
+    "type": 0,
+    "en": "(<goal_names>) <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>",
+    "vi": "(<goal_names>) <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>"
+  },
+  {
+    "key": "effector_name_EventFeastNonParticipant",
+    "type": 0,
+    "en": "Did not attend feast",
+    "vi": "Did not attend feast"
+  },
+  {
+    "key": "effector_info_EventFeastNonParticipant",
+    "type": 0,
+    "en": "So, I wasn't important enough to be invited. Who cares? I'll make my own feast, with backgammon and harlots!",
+    "vi": "So, I wasn't important enough to be invited. Who cares? I'll make my own feast, with backgammon and harlots!"
+  },
+  {
+    "key": "effector_name_EventSermonNonParticipant",
+    "type": 0,
+    "en": "Did Not Attend Eucharist ",
+    "vi": "Did Not Attend Eucharist "
+  },
+  {
+    "key": "effector_info_EventSermonNonParticipant",
+    "type": 0,
+    "en": "Maybe they just forgot to invite me",
+    "vi": "Maybe they just forgot to invite me"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Eucharist ",
+    "vi": "Appalling Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Eucharist ",
+    "vi": "Lamentable Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Eucharist ",
+    "vi": "Disappointing Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeDecent",
+    "type": 0,
+    "en": "Decent Eucharist ",
+    "vi": "Decent Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Eucharist ",
+    "vi": "Enjoyable Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Eucharist ",
+    "vi": "Excellent Eucharist "
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Eucharist ",
+    "vi": "Unforgettable Eucharist "
+  },
+  {
+    "key": "effector_info_EventSermonOutcomePagan",
+    "type": 0,
+    "en": "Curious. A lot of chanting in latin. I suppose the bread and wine stand in for an actual sacrifice, then?",
+    "vi": "Curious. A lot of chanting in latin. I suppose the bread and wine stand in for an actual sacrifice, then?"
+  },
+  {
+    "key": "effector_name_EventRitualNonParticipant",
+    "type": 0,
+    "en": "Did Not Attend Ritual",
+    "vi": "Did Not Attend Ritual"
+  },
+  {
+    "key": "effector_info_EventRitualNonParticipant",
+    "type": 0,
+    "en": "Maybe they just forgot to invite me",
+    "vi": "Maybe they just forgot to invite me"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Ritual",
+    "vi": "Appalling Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Ritual",
+    "vi": "Lamentable Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Ritual",
+    "vi": "Disappointing Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeDecent",
+    "type": 0,
+    "en": "Decent Ritual",
+    "vi": "Decent Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Ritual",
+    "vi": "Enjoyable Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Ritual",
+    "vi": "Excellent Ritual"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Ritual",
+    "vi": "Unforgettable Ritual"
+  },
+  {
+    "key": "effector_info_EventRitualOutcomeChris",
+    "type": 0,
+    "en": "I appreciate the veneration of all God's creation, but the animal sacrifices and divination were a bit much.",
+    "vi": "I appreciate the veneration of all God's creation, but the animal sacrifices and divination were a bit much."
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsNegative",
+    "type": 0,
+    "en": "Badly executed",
+    "vi": "Badly executed"
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsPositive",
+    "type": 0,
+    "en": "An excellent hanging",
+    "vi": "An excellent hanging"
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsNeutral",
+    "type": 0,
+    "en": "Watched a hanging",
+    "vi": "Watched a hanging"
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsNegative",
+    "type": 0,
+    "en": "The execution was a travesty of justice. I repent of my decision to watch it",
+    "vi": "The execution was a travesty of justice. I repent of my decision to watch it"
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsPositive",
+    "type": 0,
+    "en": "Who doesn't love a good hanging? They deserved what was coming to them.",
+    "vi": "Who doesn't love a good hanging? They deserved what was coming to them."
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsNeutral",
+    "type": 0,
+    "en": "I suppose justice was served? Rather them than me...",
+    "vi": "I suppose justice was served? Rather them than me..."
+  },
+  {
+    "key": "effector_name_ExecutedPrisoner",
+    "type": 0,
+    "en": "Prisoner Executed",
+    "vi": "Prisoner Executed"
+  },
+  {
+    "key": "effector_info_ExecutedPrisoner",
+    "type": 0,
+    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
+    "vi": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I..."
+  },
+  {
+    "key": "effector_name_PrisonerSetFree",
+    "type": 0,
+    "en": "Prisoner Freed",
+    "vi": "Prisoner Freed"
+  },
+  {
+    "key": "effector_info_PrisonerSetFree",
+    "type": 0,
+    "en": "One of our wretched cellmates is released! Might I perchance harbour dreams of my own freedom?",
+    "vi": "One of our wretched cellmates is released! Might I perchance harbour dreams of my own freedom?"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellAwful",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellDull",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellMediocre",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellGood",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellVeryImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept in an prison cell"
+  },
+  {
+    "key": "effector_name_RecruitSuccessful",
+    "type": 0,
+    "en": "Recruiting attempt successful",
+    "vi": "Recruiting attempt successful"
+  },
+  {
+    "key": "effector_name_RecruitFailed",
+    "type": 0,
+    "en": "Recruiting attempt failed",
+    "vi": "Recruiting attempt failed"
+  },
+  {
+    "key": "effector_name_DungProximity",
+    "type": 0,
+    "en": "The scent of dung",
+    "vi": "The scent of dung"
+  },
+  {
+    "key": "effector_info_DungProximity",
+    "type": 0,
+    "en": "A foetid whisper of decay rises, assaulting the nostrils",
+    "vi": "A foetid whisper of decay rises, assaulting the nostrils"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling <skill_name> Study Group",
+    "vi": "Appalling <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable <skill_name> Study Group",
+    "vi": "Lamentable <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeBad",
+    "type": 0,
+    "en": "Disappointing <skill_name> Study Group",
+    "vi": "Disappointing <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeDecent",
+    "type": 0,
+    "en": "Decent <skill_name> Study Group",
+    "vi": "Decent <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable <skill_name> Study Group",
+    "vi": "Enjoyable <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent <skill_name> Study Group",
+    "vi": "Excellent <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable <skill_name> Study Group",
+    "vi": "Unforgettable <skill_name> Study Group"
+  },
+  {
+    "key": "effector_name_EventOutcomeTerribleTrainingBuff",
+    "type": 0,
+    "en": "Appalling Martial Training",
+    "vi": "Appalling Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeVeryBadTrainingBuff",
+    "type": 0,
+    "en": "Lamentable Martial Training",
+    "vi": "Lamentable Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeBadTrainingBuff",
+    "type": 0,
+    "en": "Disappointing Martial Training",
+    "vi": "Disappointing Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeDecentTrainingBuff",
+    "type": 0,
+    "en": "Decent Martial Training",
+    "vi": "Decent Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeGoodTrainingBuff",
+    "type": 0,
+    "en": "Enjoyable Martial Training",
+    "vi": "Enjoyable Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeVeryGoodTrainingBuff",
+    "type": 0,
+    "en": "Excellent Martial Training",
+    "vi": "Excellent Martial Training"
+  },
+  {
+    "key": "effector_name_EventOutcomeUnforgettableTrainingBuff",
+    "type": 0,
+    "en": "Unforgettable Martial Training",
+    "vi": "Unforgettable Martial Training"
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about <skill_name> than when I started!",
+    "vi": "I'm so confused? I know even less about <skill_name> than when I started!"
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Well, that's a few hours of my life I can never get back. I've learned nothing."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "That was dull, and mostly obvious. At best, I've gone over what I already knew."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "That was a solid lesson. I'm looking forward to finding out more."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "I feel as though I've learned something new today."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of <skill_name> has improved considerably.",
+    "vi": "Interesting! My grasp of <skill_name> has improved considerably."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of <skill_name>. I'm so lucky to have attended.",
+    "vi": "This has completely opened my eyes to a whole new level of <skill_name>. I'm so lucky to have attended."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about Melee than when I started!",
+    "vi": "I'm so confused? I know even less about Melee than when I started!"
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Well, that's a few hours of my life I can never get back. I've learned nothing."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "That was dull, and mostly obvious. At best, I've gone over what I already knew."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "That was a solid lesson. I'm looking forward to finding out more."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "I feel as though I've learned something new today."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of Melee has improved considerably.",
+    "vi": "Interesting! My grasp of Melee has improved considerably."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of Melee. I'm so lucky to have attended.",
+    "vi": "This has completely opened my eyes to a whole new level of Melee. I'm so lucky to have attended."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about Marksman than when I started!",
+    "vi": "I'm so confused? I know even less about Marksman than when I started!"
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Well, that's a few hours of my life I can never get back. I've learned nothing."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "That was dull, and mostly obvious. At best, I've gone over what I already knew."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "That was a solid lesson. I'm looking forward to finding out more."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "I feel as though I've learned something new today."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of Marksman has improved considerably.",
+    "vi": "Interesting! My grasp of Marksman has improved considerably."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of Marksman. I'm so lucky to have attended.",
+    "vi": "This has completely opened my eyes to a whole new level of Marksman. I'm so lucky to have attended."
+  },
+  {
+    "key": "effector_name_EntertainmentIntDisabled",
+    "type": 0,
+    "en": "Too much backgammon",
+    "vi": "Too much backgammon"
+  },
+  {
+    "key": "effector_name_EntertainmentRangedDisabled",
+    "type": 0,
+    "en": "Too much shovelboard",
+    "vi": "Too much shovelboard"
+  },
+  {
+    "key": "effector_name_EntertainmentDexDisabled",
+    "type": 0,
+    "en": "Too much skittles",
+    "vi": "Too much skittles"
+  },
+  {
+    "key": "effector_name_EntertainmentPrecisionDisabled",
+    "type": 0,
+    "en": "Too much quoits",
+    "vi": "Too much quoits"
+  },
+  {
+    "key": "effector_info_EntertainmentIntDisabled",
+    "type": 0,
+    "en": "I'm getting sick of the randomness of this game. Even with good strategy, the dice seem to be against me.",
+    "vi": "I'm getting sick of the randomness of this game. Even with good strategy, the dice seem to be against me."
+  },
+  {
+    "key": "effector_info_EntertainmentRangedDisabled",
+    "type": 0,
+    "en": "Who came up with this idea of shoving a coin around a table anyway? I keep losing, and I'm over it.",
+    "vi": "Who came up with this idea of shoving a coin around a table anyway? I keep losing, and I'm over it."
+  },
+  {
+    "key": "effector_info_EntertainmentDexDisabled",
+    "type": 0,
+    "en": "Really should give up skittles as I keep getting this pain in my shoulder. Too much of a good thing.",
+    "vi": "Really should give up skittles as I keep getting this pain in my shoulder. Too much of a good thing."
+  },
+  {
+    "key": "effector_info_EntertainmentPrecisionDisabled",
+    "type": 0,
+    "en": "Quoits can become an obsession. It's probably healthy to step away for a while and do something new.",
+    "vi": "Quoits can become an obsession. It's probably healthy to step away for a while and do something new."
+  },
+  {
+    "key": "effector_name_MalnutritionMinor",
+    "type": 0,
+    "en": "Malnourished (Minor)",
+    "vi": "Malnourished (Minor)"
+  },
+  {
+    "key": "effector_name_MalnutritionModerate",
+    "type": 0,
+    "en": "Malnourished (Moderate)",
+    "vi": "Malnourished (Moderate)"
+  },
+  {
+    "key": "effector_name_MalnutritionSevere",
+    "type": 0,
+    "en": "Malnourished (Severe)",
+    "vi": "Malnourished (Severe)"
+  },
+  {
+    "key": "effector_name_MalnutritionExtreme",
+    "type": 0,
+    "en": "Malnourished (Extreme)",
+    "vi": "Malnourished (Extreme)"
+  },
+  {
+    "key": "effector_info_Malnutrition",
+    "type": 0,
+    "en": "I have become weak. Lean times with insufficient food have diminished my body and mind.",
+    "vi": "I have become weak. Lean times with insufficient food have diminished my body and mind."
+  },
+  {
+    "key": "effector_name_AteSameMealType",
+    "type": 0,
+    "en": "Tedious Diet",
+    "vi": "Tedious Diet"
+  },
+  {
+    "key": "effector_info_AteSameMealType",
+    "type": 0,
+    "en": "I'm sick of eating the same few meals day in, day out. Where is the variety? ",
+    "vi": "I'm sick of eating the same few meals day in, day out. Where is the variety? "
+  },
+  {
+    "key": "effector_name_MoriboundWoundsStinkstomachDmg",
+    "type": 0,
+    "en": "Stench",
+    "vi": "Stench"
+  },
+  {
+    "key": "effector_info_MoriboundWoundsStinkstomachDmg",
+    "type": 0,
+    "en": "<settler_name>`s wounds stink (<perk_name>)",
+    "vi": "<settler_name>`s wounds stink (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MoriboundWoundsStinkEnter",
+    "type": 0,
+    "en": "Stench",
+    "vi": "Stench"
+  },
+  {
+    "key": "effector_info_MoriboundWoundsStinkEnter",
+    "type": 0,
+    "en": "<settler_name>`s wounds stink (<perk_name>)",
+    "vi": "<settler_name>`s wounds stink (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterStomachDmg",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Messy Eating"
+  },
+  {
+    "key": "effector_info_MessyEaterStomachDmg",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)",
+    "vi": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterEnterNegative",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Messy Eating"
+  },
+  {
+    "key": "effector_info_MessyEaterEnterNegative",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)",
+    "vi": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterEnterPositive",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Messy Eating"
+  },
+  {
+    "key": "effector_info_MessyEaterEnterPositive",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it's hilarious (<perk_name>)",
+    "vi": "<settler_name> eats like a pig, it's hilarious (<perk_name>)"
+  },
+  {
+    "key": "effector_name_CannibalEatingHumanEnter",
+    "type": 0,
+    "en": "Saw someone eat human Flesh",
+    "vi": "Saw someone eat human Flesh"
+  },
+  {
+    "key": "effector_info_CannibalEatingHumanEnter",
+    "type": 0,
+    "en": "I will never get over witnessing that. (<perk_name>)",
+    "vi": "I will never get over witnessing that. (<perk_name>)"
+  },
+  {
+    "key": "effector_name_IndustriousWorkSpeedForAll",
+    "type": 0,
+    "en": "Inspiring presence",
+    "vi": "Inspiring presence"
+  },
+  {
+    "key": "effector_info_IndustriousWorkSpeedForAll",
+    "type": 0,
+    "en": "Just being around <settler_name> inspires me to work harder  (<perk_name>)",
+    "vi": "Just being around <settler_name> inspires me to work harder  (<perk_name>)"
+  },
+  {
+    "key": "effector_name_AfterRebelious",
+    "type": 0,
+    "en": "After rebelling",
+    "vi": "After rebelling"
+  },
+  {
+    "key": "effector_info_AfterRebelious",
+    "type": 0,
+    "en": "I feel better now - I needed to get that out of my system.",
+    "vi": "I feel better now - I needed to get that out of my system."
+  },
+  {
+    "key": "effector_name_AfterFightNegative",
+    "type": 0,
+    "en": "A messy fight",
+    "vi": "A messy fight"
+  },
+  {
+    "key": "effector_info_AfterFightNegative",
+    "type": 0,
+    "en": "I wish I'd never got involved. Everything hurts.",
+    "vi": "I wish I'd never got involved. Everything hurts."
+  },
+  {
+    "key": "effector_name_AfterFightPositive",
+    "type": 0,
+    "en": "A good scrap",
+    "vi": "A good scrap"
+  },
+  {
+    "key": "effector_info_AfterFightPositive",
+    "type": 0,
+    "en": "It was a fair fight. I showed what I was made of.",
+    "vi": "It was a fair fight. I showed what I was made of."
+  },
+  {
+    "key": "effector_name_VigorousMerry",
+    "type": 0,
+    "en": "Merry (Vigorous)",
+    "vi": "Merry (Vigorous)"
+  },
+  {
+    "key": "effector_info_VigorousMerry",
+    "type": 0,
+    "en": "I'm in good form and full of energy. ",
+    "vi": "I'm in good form and full of energy. "
+  },
+  {
+    "key": "effector_name_RobustMerry",
+    "type": 0,
+    "en": "Merry (Robust)",
+    "vi": "Merry (Robust)"
+  },
+  {
+    "key": "effector_info_RobustMerry",
+    "type": 0,
+    "en": "I'm in good form and full of energy. ",
+    "vi": "I'm in good form and full of energy. "
+  },
+  {
+    "key": "effector_name_InfirmMerry",
+    "type": 0,
+    "en": "Merry (Infirm)",
+    "vi": "Merry (Infirm)"
+  },
+  {
+    "key": "effector_info_InfirmMerry",
+    "type": 0,
+    "en": "My wounds are healing faster than usual - what a blessing.",
+    "vi": "My wounds are healing faster than usual - what a blessing."
+  },
+  {
+    "key": "effector_name_BrawlerMerry",
+    "type": 0,
+    "en": "Merry (Brawler)",
+    "vi": "Merry (Brawler)"
+  },
+  {
+    "key": "effector_info_BrawlerMerry",
+    "type": 0,
+    "en": "I feel so tough I could punch through armour!",
+    "vi": "I feel so tough I could punch through armour!"
+  },
+  {
+    "key": "effector_name_WinsomeMerry",
+    "type": 0,
+    "en": "Merry (Winsome)",
+    "vi": "Merry (Winsome)"
+  },
+  {
+    "key": "effector_info_WinsomeMerry",
+    "type": 0,
+    "en": "I could sell eels to a fishermen, such is my appeal",
+    "vi": "I could sell eels to a fishermen, such is my appeal"
+  },
+  {
+    "key": "effector_name_GreenThumbMerry",
+    "type": 0,
+    "en": "Merry (Green Thumb)",
+    "vi": "Merry (Green Thumb)"
+  },
+  {
+    "key": "effector_info_GreenThumbMerry",
+    "type": 0,
+    "en": "The plants are guiding me, and the path feels clear",
+    "vi": "The plants are guiding me, and the path feels clear"
+  },
+  {
+    "key": "effector_name_WiccheMerry",
+    "type": 0,
+    "en": "Merry (Wicche)",
+    "vi": "Merry (Wicche)"
+  },
+  {
+    "key": "effector_info_WiccheMerry",
+    "type": 0,
+    "en": "I am of one mind with all beasts, as though I could hear them speak",
+    "vi": "I am of one mind with all beasts, as though I could hear them speak"
+  },
+  {
+    "key": "effector_name_GourmetMerry",
+    "type": 0,
+    "en": "Merry (Gourmet)",
+    "vi": "Merry (Gourmet)"
+  },
+  {
+    "key": "effector_info_GourmetMerry",
+    "type": 0,
+    "en": "This could be a simple dish, yet my mouth waters to create something truly delicious",
+    "vi": "This could be a simple dish, yet my mouth waters to create something truly delicious"
+  },
+  {
+    "key": "effector_name_HeftyMerry",
+    "type": 0,
+    "en": "Merry (Hefty)",
+    "vi": "Merry (Hefty)"
+  },
+  {
+    "key": "effector_info_HeftyMerry",
+    "type": 0,
+    "en": "Hand me my pickaxe, I'm ready to move a mountain!",
+    "vi": "Hand me my pickaxe, I'm ready to move a mountain!"
+  },
+  {
+    "key": "effector_name_WiseMerry",
+    "type": 0,
+    "en": "Merry (Wise)",
+    "vi": "Merry (Wise)"
+  },
+  {
+    "key": "effector_info_WiseMerry",
+    "type": 0,
+    "en": "The world seems ripe with meaning",
+    "vi": "The world seems ripe with meaning"
+  },
+  {
+    "key": "effector_name_EruditeMerry",
+    "type": 0,
+    "en": "Merry (Erudite)",
+    "vi": "Merry (Erudite)"
+  },
+  {
+    "key": "effector_info_EruditeMerry",
+    "type": 0,
+    "en": "I have such clarity - knowledge flows and I swiftly distill it",
+    "vi": "I have such clarity - knowledge flows and I swiftly distill it"
+  },
+  {
+    "key": "effector_name_ListlessInvitedSelf",
+    "type": 0,
+    "en": "Invited To Feast",
+    "vi": "Invited To Feast"
+  },
+  {
+    "key": "effector_info_ListlessInvitedSelf",
+    "type": 0,
+    "en": "I can't recall why I decided to come. These events are such a bore!",
+    "vi": "I can't recall why I decided to come. These events are such a bore!"
+  },
+  {
+    "key": "effector_name_ListlessInvitedOthers",
+    "type": 0,
+    "en": "Listless Invited To Feast",
+    "vi": "Listless Invited To Feast"
+  },
+  {
+    "key": "effector_info_ListlessInvitedOthers",
+    "type": 0,
+    "en": "Who invited <settler_name>? If anyone's going to ruin the feast, it will be #2[him/her]!",
+    "vi": "Who invited <settler_name>? If anyone's going to ruin the feast, it will be #2[him/her]!"
+  },
+  {
+    "key": "effector_name_ListlessNotInvited",
+    "type": 0,
+    "en": "Not Invited To Feast",
+    "vi": "Not Invited To Feast"
+  },
+  {
+    "key": "effector_info_ListlessNotInvited",
+    "type": 0,
+    "en": "There's one thing worse than having to sit through a boring feast, and that's not even being invited.",
+    "vi": "There's one thing worse than having to sit through a boring feast, and that's not even being invited."
+  },
+  {
+    "key": "effector_name_BenevolentInvitedOthers",
+    "type": 0,
+    "en": "Benevolent Invited To Feast",
+    "vi": "Benevolent Invited To Feast"
+  },
+  {
+    "key": "effector_info_BenevolentInvitedOthers",
+    "type": 0,
+    "en": "Feasting always feels particularly amusing when <settler_name> is there.",
+    "vi": "Feasting always feels particularly amusing when <settler_name> is there."
+  },
+  {
+    "key": "effector_name_NightOwlSleptDuringNight",
+    "type": 0,
+    "en": "Slept During Night (Night Owl)",
+    "vi": "Slept During Night (Night Owl)"
+  },
+  {
+    "key": "effector_info_NightOwlSleptDuringNight",
+    "type": 0,
+    "en": "I hate sleeping at night. I get so much more work done during the hours of darkness.",
+    "vi": "I hate sleeping at night. I get so much more work done during the hours of darkness."
+  },
+  {
+    "key": "effector_name_EarlyBirdSleptDuringMorning",
+    "type": 0,
+    "en": "Slept In (Early Bird)",
+    "vi": "Slept In (Early Bird)"
+  },
+  {
+    "key": "effector_info_EarlyBirdSleptDuringMorning",
+    "type": 0,
+    "en": "I wish I hadn't overslept!  The whole day feels wasted if I'm not up before the sun.",
+    "vi": "I wish I hadn't overslept!  The whole day feels wasted if I'm not up before the sun."
+  },
+  {
+    "key": "effector_name_ArtLevelHighIncrease",
+    "type": 0,
+    "en": "Artistically Inspired (Dainty)",
+    "vi": "Artistically Inspired (Dainty)"
+  },
+  {
+    "key": "effector_info_ArtLevelHighIncrease",
+    "type": 0,
+    "en": "I could create something special today - maybe even sublime.",
+    "vi": "I could create something special today - maybe even sublime."
+  },
+  {
+    "key": "effector_name_ArtLevelLowIncrease",
+    "type": 0,
+    "en": "Artistically Inspired  (Precious)",
+    "vi": "Artistically Inspired  (Precious)"
+  },
+  {
+    "key": "effector_info_ArtLevelLowIncrease",
+    "type": 0,
+    "en": "I'm full of ideas, and can't wait to make something lovely.",
+    "vi": "I'm full of ideas, and can't wait to make something lovely."
+  },
+  {
+    "key": "effector_name_SleepFullSomnolent",
+    "type": 0,
+    "en": "Good night's sleep  (Somnolent)",
+    "vi": "Good night's sleep  (Somnolent)"
+  },
+  {
+    "key": "effector_info_SleepFullSomnolent",
+    "type": 0,
+    "en": "I slept like a baby.",
+    "vi": "I slept like a baby."
+  },
+  {
+    "key": "effector_info_RoleRetractBard",
+    "type": 0,
+    "en": "I'm disappointed that my role as Bard was taken away.",
+    "vi": "I'm disappointed that my role as Bard was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractShaman",
+    "type": 0,
+    "en": "I'm disappointed that my role as Druid was taken away.",
+    "vi": "I'm disappointed that my role as Druid was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractPriest",
+    "type": 0,
+    "en": "I'm disappointed that my role as Chaplain was taken away.",
+    "vi": "I'm disappointed that my role as Chaplain was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractWarden",
+    "type": 0,
+    "en": "I'm disappointed that my role as Prison Warden was taken away.",
+    "vi": "I'm disappointed that my role as Prison Warden was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractLibrarian",
+    "type": 0,
+    "en": "I'm disappointed that my role as Librarian was taken away.",
+    "vi": "I'm disappointed that my role as Librarian was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractSergeant",
+    "type": 0,
+    "en": "I'm disappointed that my role as Sergeant-at-arms was taken away.",
+    "vi": "I'm disappointed that my role as Sergeant-at-arms was taken away."
+  },
+  {
+    "key": "effector_info_RoleRetractBroker",
+    "type": 0,
+    "en": "I'm disappointed that my role as Broker was taken away.",
+    "vi": "I'm disappointed that my role as Broker was taken away."
+  },
+  {
+    "key": "general_level",
+    "type": 0,
+    "en": "Level",
+    "vi": "Level"
+  },
+  {
+    "key": "not_eligible_for_roles_info",
+    "type": 0,
+    "en": "This settler is not currently eligible for any roles ",
+    "vi": "This settler is not currently eligible for any roles "
+  },
+  {
+    "key": "eligible_for_roles",
+    "type": 0,
+    "en": "Eligible for Roles",
+    "vi": "Eligible for Roles"
+  },
+  {
+    "key": "can_have_role",
+    "type": 0,
+    "en": "Benefits from Community role",
+    "vi": "Benefits from Community role"
+  },
+  {
+    "key": "can_host_events",
+    "type": 0,
+    "en": "Can host Event",
+    "vi": "Can host Event"
+  },
+  {
+    "key": "unlocked_with_research",
+    "type": 0,
+    "en": "Unlocked with research",
+    "vi": "Unlocked with research"
+  },
+  {
+    "key": "general_uses_fuel",
+    "type": 0,
+    "en": "Uses Fuel",
+    "vi": "Uses Fuel"
+  },
+  {
+    "key": "possible_states",
+    "type": 0,
+    "en": "Possible States",
+    "vi": "Possible States"
+  },
+  {
+    "key": "list_or",
+    "type": 0,
+    "en": "or",
+    "vi": "or"
+  },
+  {
+    "key": "list_and",
+    "type": 0,
+    "en": "and",
+    "vi": "and"
+  },
+  {
+    "key": "list_exactly",
+    "type": 0,
+    "en": "Exactly",
+    "vi": "Exactly"
+  },
+  {
+    "key": "atb_info_AttackCritChance",
+    "type": 0,
+    "en": "The chance of landing a critical hit with any weapon in combat.",
+    "vi": "The chance of landing a critical hit with any weapon in combat."
+  },
+  {
+    "key": "atb_info_BloodLoss",
+    "type": 0,
+    "en": "The amount of blood lost per hour.",
+    "vi": "The amount of blood lost per hour."
+  },
+  {
+    "key": "atb_info_BloodRecovery",
+    "type": 0,
+    "en": "Blood loss recovery: settler base blood recovery rate +/- multipliers",
+    "vi": "Blood loss recovery: settler base blood recovery rate +/- multipliers"
+  },
+  {
+    "key": "atb_info_ButcheringYield",
+    "type": 0,
+    "en": "The number of resources yielded from butchering animals.",
+    "vi": "The number of resources yielded from butchering animals."
+  },
+  {
+    "key": "atb_info_Clumsiness",
+    "type": 0,
+    "en": "Multiplier indicating chance of failure. The lower the number, the less this settler will fail in their actions.",
+    "vi": "Multiplier indicating chance of failure. The lower the number, the less this settler will fail in their actions."
+  },
+  {
+    "key": "atb_info_ConsciousnessLoss",
+    "type": 0,
+    "en": "Consciousness lost per hour.",
+    "vi": "Consciousness lost per hour."
+  },
+  {
+    "key": "atb_info_ConsciousnessMax",
+    "type": 0,
+    "en": "Settler's maximum consciousness (may be lowered if they receive a head injury).",
+    "vi": "Settler's maximum consciousness (may be lowered if they receive a head injury)."
+  },
+  {
+    "key": "atb_info_ConsciousnessStep",
+    "type": 0,
+    "en": "Multiplier indicating how fast this settler recovers consciousness.",
+    "vi": "Multiplier indicating how fast this settler recovers consciousness."
+  },
+  {
+    "key": "atb_info_ConsumptionSpeed",
+    "type": 0,
+    "en": "Time taken to consume food item, in hours. Settlers with certain perks will eat faster.",
+    "vi": "Time taken to consume food item, in hours. Settlers with certain perks will eat faster."
+  },
+  {
+    "key": "atb_info_CookingSpeed",
+    "type": 0,
+    "en": "This settler's cooking and food preparation speed.",
+    "vi": "This settler's cooking and food preparation speed."
+  },
+  {
+    "key": "atb_info_CourteousAmount",
+    "type": 0,
+    "en": "(should be hidden)",
+    "vi": "(should be hidden)"
+  },
+  {
+    "key": "atb_info_CraftingMiscSpeed",
+    "type": 0,
+    "en": "This settler's crafting speed for basic items.",
+    "vi": "This settler's crafting speed for basic items."
+  },
+  {
+    "key": "atb_info_CutAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from reaping vegetation.",
+    "vi": "The number of resources this settler gets from reaping vegetation."
+  },
+  {
+    "key": "atb_info_CutFail",
+    "type": 0,
+    "en": "The chance this settler's reaping fails, losing all resources.",
+    "vi": "The chance this settler's reaping fails, losing all resources."
+  },
+  {
+    "key": "atb_info_CutSpeed",
+    "type": 0,
+    "en": "This settler's vegetation reaping speed.",
+    "vi": "This settler's vegetation reaping speed."
+  },
+  {
+    "key": "atb_info_CuttingStone",
+    "type": 0,
+    "en": "This settler's stone cutting speed.",
+    "vi": "This settler's stone cutting speed."
+  },
+  {
+    "key": "atb_info_DecomposeSpeed",
+    "type": 0,
+    "en": "How fast this resource will decompose.",
+    "vi": "How fast this resource will decompose."
+  },
+  {
+    "key": "atb_info_EvadeChance",
+    "type": 0,
+    "en": "The chance to evade an incoming attack.",
+    "vi": "The chance to evade an incoming attack."
+  },
+  {
+    "key": "atb_info_HarvestAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from harvesting.",
+    "vi": "The number of resources this settler gets from harvesting."
+  },
+  {
+    "key": "atb_info_HarvestFail",
+    "type": 0,
+    "en": "The chance of this settler's harvest failing, losing all resources.",
+    "vi": "The chance of this settler's harvest failing, losing all resources."
+  },
+  {
+    "key": "atb_info_HarvestSpeed",
+    "type": 0,
+    "en": "This settler's crop harvesting speed.",
+    "vi": "This settler's crop harvesting speed."
+  },
+  {
+    "key": "atb_info_HealthLoss",
+    "type": 0,
+    "en": "The number of hitpoints lost per hour.",
+    "vi": "The number of hitpoints lost per hour."
+  },
+  {
+    "key": "atb_info_HealthMax",
+    "type": 0,
+    "en": "Maximum hitpoints: base hitpoints +/- multipliers.",
+    "vi": "Maximum hitpoints: base hitpoints +/- multipliers."
+  },
+  {
+    "key": "atb_info_HealthRecovery",
+    "type": 0,
+    "en": "Health recovery: base hitpoint recovery rate +/- multipliers.",
+    "vi": "Health recovery: base hitpoint recovery rate +/- multipliers."
+  },
+  {
+    "key": "atb_info_Hunger",
+    "type": 0,
+    "en": "This settler's nutrition expended per hour.",
+    "vi": "This settler's nutrition expended per hour."
+  },
+  {
+    "key": "atb_info_HungerThreshold",
+    "type": 0,
+    "en": "Hunger threshold: settler base hunger +/- multipliers. (Example: a -10% perk means hunger thresholds are offset by 10% and this settler will go hungry later than other settlers)",
+    "vi": "Hunger threshold: settler base hunger +/- multipliers. (Example: a -10% perk means hunger thresholds are offset by 10% and this settler will go hungry later than other settlers)"
+  },
+  {
+    "key": "atb_info_HuntingRetaliateChance",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "The chance that the quarry fights back."
+  },
+  {
+    "key": "atb_info_HuntingRunChance",
+    "type": 0,
+    "en": "The chance that the quarry flees.",
+    "vi": "The chance that the quarry flees."
+  },
+  {
+    "key": "atb_info_HuntingVisibility",
+    "type": 0,
+    "en": "Chance that an animal will see this settler when the settler is hunting.",
+    "vi": "Chance that an animal will see this settler when the settler is hunting."
+  },
+  {
+    "key": "atb_info_MakeClayBrick",
+    "type": 0,
+    "en": "This settler's clay brickmaking speed.",
+    "vi": "This settler's clay brickmaking speed."
+  },
+  {
+    "key": "atb_info_MakeClothesSpeed",
+    "type": 0,
+    "en": "This settler's garment making speed.",
+    "vi": "This settler's garment making speed."
+  },
+  {
+    "key": "atb_info_MeleeAttackSpeed",
+    "type": 0,
+    "en": "Melee attack duration: base melee duration +/- multipliers.",
+    "vi": "Melee attack duration: base melee duration +/- multipliers."
+  },
+  {
+    "key": "atb_info_MeleeChance",
+    "type": 0,
+    "en": "The chance to hit a target with a melee weapon.",
+    "vi": "The chance to hit a target with a melee weapon."
+  },
+  {
+    "key": "atb_info_MeleeDmg",
+    "type": 0,
+    "en": "Melee weapon proficiency (Higher melee skill will increase, and penalties such as wounds will decrease this modifier.).",
+    "vi": "Melee weapon proficiency (Higher melee skill will increase, and penalties such as wounds will decrease this modifier.)."
+  },
+  {
+    "key": "atb_info_MineAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from mining and digging.",
+    "vi": "The number of resources this settler gets from mining and digging."
+  },
+  {
+    "key": "atb_info_MineFail",
+    "type": 0,
+    "en": "The chance this settler will spoil resources when mining and digging.",
+    "vi": "The chance this settler will spoil resources when mining and digging."
+  },
+  {
+    "key": "atb_info_MineSpeed",
+    "type": 0,
+    "en": "Voxel mining and digging speed.",
+    "vi": "Voxel mining and digging speed."
+  },
+  {
+    "key": "atb_info_MotorFunction",
+    "type": 0,
+    "en": "Settler motor function level. Affects the duration of all physical actions.",
+    "vi": "Settler motor function level. Affects the duration of all physical actions."
+  },
+  {
+    "key": "atb_info_MovementSpeed",
+    "type": 0,
+    "en": "Movement speed represented in grid spaces per second.",
+    "vi": "Movement speed represented in grid spaces per second."
+  },
+  {
+    "key": "atb_info_PainMax",
+    "type": 0,
+    "en": "The maximum pain this settler can endure.",
+    "vi": "The maximum pain this settler can endure."
+  },
+  {
+    "key": "atb_info_PainStep",
+    "type": 0,
+    "en": "Multiplier indicating how fast this settler's pain subsides.",
+    "vi": "Multiplier indicating how fast this settler's pain subsides."
+  },
+  {
+    "key": "atb_info_PainTreshold",
+    "type": 0,
+    "en": "Pain Threshold: settler base pain +/- multipliers (example: if a perk sets it to -10%, this settler will be able to handle more pain in combat)",
+    "vi": "Pain Threshold: settler base pain +/- multipliers (example: if a perk sets it to -10%, this settler will be able to handle more pain in combat)"
+  },
+  {
+    "key": "atb_info_RangedChance",
+    "type": 0,
+    "en": "The chance to hit a target with a ranged weapon.",
+    "vi": "The chance to hit a target with a ranged weapon."
+  },
+  {
+    "key": "atb_info_RangedDmg",
+    "type": 0,
+    "en": "Ranged weapon proficiency (Higher ranged weapon skill will increase, and penalties such as wounds will decrease this modifier.)",
+    "vi": "Ranged weapon proficiency (Higher ranged weapon skill will increase, and penalties such as wounds will decrease this modifier.)"
+  },
+  {
+    "key": "atb_info_RangedRange",
+    "type": 0,
+    "en": "Ranged attack multiplier. (This is modified by the weather and time of day.)",
+    "vi": "Ranged attack multiplier. (This is modified by the weather and time of day.)"
+  },
+  {
+    "key": "atb_info_RangedSpeed",
+    "type": 0,
+    "en": "Ranged weapon attack duration: base ranged attack duration +/- multipliers.",
+    "vi": "Ranged weapon attack duration: base ranged attack duration +/- multipliers."
+  },
+  {
+    "key": "atb_info_ResearchSpeed",
+    "type": 0,
+    "en": "Settler's research speed.",
+    "vi": "Settler's research speed."
+  },
+  {
+    "key": "atb_info_RottingSpeed",
+    "type": 0,
+    "en": "How fast this resource will rot.",
+    "vi": "How fast this resource will rot."
+  },
+  {
+    "key": "atb_info_SleepDepletionSpeed",
+    "type": 0,
+    "en": "Sleep depletion multiplier.",
+    "vi": "Sleep depletion multiplier."
+  },
+  {
+    "key": "atb_info_SleepNeed",
+    "type": 0,
+    "en": "Sleep depletion rate. (Settlers lose 4% sleep per hour.)",
+    "vi": "Sleep depletion rate. (Settlers lose 4% sleep per hour.)"
+  },
+  {
+    "key": "atb_info_SleepRecoverSpeed",
+    "type": 0,
+    "en": "This settler's sleep recovery rate while sleeping or unconscious.",
+    "vi": "This settler's sleep recovery rate while sleeping or unconscious."
+  },
+  {
+    "key": "atb_info_SleepThreshold",
+    "type": 0,
+    "en": "Sleep thresholds multiplier. (example: if a perk sets it to -10%, sleep thresholds are offset by 10% and this settler will go to sleep later than other settlers.)",
+    "vi": "Sleep thresholds multiplier. (example: if a perk sets it to -10%, sleep thresholds are offset by 10% and this settler will go to sleep later than other settlers.)"
+  },
+  {
+    "key": "atb_info_SmithingSpeed",
+    "type": 0,
+    "en": "This settler's smithing speed.",
+    "vi": "This settler's smithing speed."
+  },
+  {
+    "key": "atb_info_SowSpeed",
+    "type": 0,
+    "en": "This settler's crop sowing speed.",
+    "vi": "This settler's crop sowing speed."
+  },
+  {
+    "key": "atb_info_SqueamishAmount",
+    "type": 0,
+    "en": "(should be hidden)",
+    "vi": "(should be hidden)"
+  },
+  {
+    "key": "atb_info_TendingFailChance",
+    "type": 0,
+    "en": "Chance that wound tending fails, making wounds worse.",
+    "vi": "Chance that wound tending fails, making wounds worse."
+  },
+  {
+    "key": "atb_info_TendingQuality",
+    "type": 0,
+    "en": "Multiplier indicating how well wounds are tended. (This is also affected by the quality of the healing kit and herbs.)",
+    "vi": "Multiplier indicating how well wounds are tended. (This is also affected by the quality of the healing kit and herbs.)"
+  },
+  {
+    "key": "atb_info_TendingSpeed",
+    "type": 0,
+    "en": "The speed this settler tends to wounds.",
+    "vi": "The speed this settler tends to wounds."
+  },
+  {
+    "key": "atb_info_UnarmedDamage",
+    "type": 0,
+    "en": "Base damage that this settler inflicts when unarmed.",
+    "vi": "Base damage that this settler inflicts when unarmed."
+  },
+  {
+    "key": "atb_info_UnarmedPrecision",
+    "type": 0,
+    "en": "The chance to strike a target when unarmed.",
+    "vi": "The chance to strike a target when unarmed."
+  },
+  {
+    "key": "atb_info_UnarmedSpeed",
+    "type": 0,
+    "en": "The time between punches.",
+    "vi": "The time between punches."
+  },
+  {
+    "key": "atb_info_WoodWorkingSpeed",
+    "type": 0,
+    "en": "This settler's woodworking speed.",
+    "vi": "This settler's woodworking speed."
+  },
+  {
+    "key": "atb_info_WoundRegen",
+    "type": 0,
+    "en": "Settler's regeneration speed when wounded.",
+    "vi": "Settler's regeneration speed when wounded."
+  },
+  {
+    "key": "atb_name_AttackCritChance",
+    "type": 0,
+    "en": "Attack Critical Hit Chance",
+    "vi": "Attack Critical Hit Chance"
+  },
+  {
+    "key": "atb_name_BloodLoss",
+    "type": 0,
+    "en": "Blood Loss",
+    "vi": "Blood Loss"
+  },
+  {
+    "key": "atb_name_BloodRecovery",
+    "type": 0,
+    "en": "Blood Recovery",
+    "vi": "Blood Recovery"
+  },
+  {
+    "key": "atb_name_ButcheringYield",
+    "type": 0,
+    "en": "Butchering Yield",
+    "vi": "Butchering Yield"
+  },
+  {
+    "key": "atb_name_Clumsiness",
+    "type": 0,
+    "en": "Clumsiness",
+    "vi": "Clumsiness"
+  },
+  {
+    "key": "atb_name_ConsciousnessLoss",
+    "type": 0,
+    "en": "Loss of Consciousness ",
+    "vi": "Loss of Consciousness "
+  },
+  {
+    "key": "atb_name_ConsciousnessMax",
+    "type": 0,
+    "en": "Consciousness Max",
+    "vi": "Consciousness Max"
+  },
+  {
+    "key": "atb_name_ConsciousnessStep",
+    "type": 0,
+    "en": "Consciousness Recovery",
+    "vi": "Consciousness Recovery"
+  },
+  {
+    "key": "atb_name_ConsumptionSpeed",
+    "type": 0,
+    "en": "Consumption Duration",
+    "vi": "Consumption Duration"
+  },
+  {
+    "key": "atb_name_CookingSpeed",
+    "type": 0,
+    "en": "Cooking Speed",
+    "vi": "Cooking Speed"
+  },
+  {
+    "key": "atb_name_CourteousAmount",
+    "type": 0,
+    "en": "Courteous Amount",
+    "vi": "Courteous Amount"
+  },
+  {
+    "key": "atb_name_CraftingMiscSpeed",
+    "type": 0,
+    "en": "Crafting Speed",
+    "vi": "Crafting Speed"
+  },
+  {
+    "key": "atb_name_CutAmount",
+    "type": 0,
+    "en": "Reaping Amount",
+    "vi": "Reaping Amount"
+  },
+  {
+    "key": "atb_name_CutFail",
+    "type": 0,
+    "en": "Chance Reaping Fails",
+    "vi": "Chance Reaping Fails"
+  },
+  {
+    "key": "atb_name_CutSpeed",
+    "type": 0,
+    "en": "Reaping Speed",
+    "vi": "Reaping Speed"
+  },
+  {
+    "key": "atb_name_CuttingStone",
+    "type": 0,
+    "en": "Cutting Stone",
+    "vi": "Cutting Stone"
+  },
+  {
+    "key": "atb_name_DecomposeSpeed",
+    "type": 0,
+    "en": "Decomposition Speed",
+    "vi": "Decomposition Speed"
+  },
+  {
+    "key": "atb_name_EvadeChance",
+    "type": 0,
+    "en": "Evade Chance",
+    "vi": "Evade Chance"
+  },
+  {
+    "key": "atb_name_HarvestAmount",
+    "type": 0,
+    "en": "Harvest Amount",
+    "vi": "Harvest Amount"
+  },
+  {
+    "key": "atb_name_HarvestFail",
+    "type": 0,
+    "en": "Chance Harvest Fails",
+    "vi": "Chance Harvest Fails"
+  },
+  {
+    "key": "atb_name_HarvestSpeed",
+    "type": 0,
+    "en": "Harvest Speed",
+    "vi": "Harvest Speed"
+  },
+  {
+    "key": "atb_name_HealthLoss",
+    "type": 0,
+    "en": "Hitpoint Loss",
+    "vi": "Hitpoint Loss"
+  },
+  {
+    "key": "atb_name_HealthMax",
+    "type": 0,
+    "en": "Hitpoints Max",
+    "vi": "Hitpoints Max"
+  },
+  {
+    "key": "atb_name_HealthRecovery",
+    "type": 0,
+    "en": "Hitpoints Recovery",
+    "vi": "Hitpoints Recovery"
+  },
+  {
+    "key": "atb_name_Hunger",
+    "type": 0,
+    "en": "Appetite",
+    "vi": "Appetite"
+  },
+  {
+    "key": "atb_name_HungerThreshold",
+    "type": 0,
+    "en": "Hunger Threshold",
+    "vi": "Hunger Threshold"
+  },
+  {
+    "key": "atb_name_HuntingRetaliateChance",
+    "type": 0,
+    "en": "Chance Quarry Retaliates",
+    "vi": "Chance Quarry Retaliates"
+  },
+  {
+    "key": "atb_name_HuntingRunChance",
+    "type": 0,
+    "en": "Chance Quarry Flees",
+    "vi": "Chance Quarry Flees"
+  },
+  {
+    "key": "atb_name_HuntingVisibility",
+    "type": 0,
+    "en": "Hunting Visibility",
+    "vi": "Hunting Visibility"
+  },
+  {
+    "key": "atb_name_MakeClayBrick",
+    "type": 0,
+    "en": "Brickmaking Speed",
+    "vi": "Brickmaking Speed"
+  },
+  {
+    "key": "atb_name_MakeClothesSpeed",
+    "type": 0,
+    "en": "Sewing Speed",
+    "vi": "Sewing Speed"
+  },
+  {
+    "key": "atb_name_MeleeAttackSpeed",
+    "type": 0,
+    "en": "Melee Weapon Attack Duration Multiplier",
+    "vi": "Melee Weapon Attack Duration Multiplier"
+  },
+  {
+    "key": "atb_name_MeleeChance",
+    "type": 0,
+    "en": "Melee Weapon Hit Chance",
+    "vi": "Melee Weapon Hit Chance"
+  },
+  {
+    "key": "atb_name_MeleeDmg",
+    "type": 0,
+    "en": "Melee Weapon Damage Multiplier",
+    "vi": "Melee Weapon Damage Multiplier"
+  },
+  {
+    "key": "atb_name_MineAmount",
+    "type": 0,
+    "en": "Mining Amount",
+    "vi": "Mining Amount"
+  },
+  {
+    "key": "atb_name_MineFail",
+    "type": 0,
+    "en": "Chance Mining Fails",
+    "vi": "Chance Mining Fails"
+  },
+  {
+    "key": "atb_name_MineSpeed",
+    "type": 0,
+    "en": "Mining Speed",
+    "vi": "Mining Speed"
+  },
+  {
+    "key": "atb_name_MotorFunction",
+    "type": 0,
+    "en": "Motor Function",
+    "vi": "Motor Function"
+  },
+  {
+    "key": "atb_name_MovementSpeed",
+    "type": 0,
+    "en": "Movement Speed",
+    "vi": "Movement Speed"
+  },
+  {
+    "key": "atb_name_PainMax",
+    "type": 0,
+    "en": "Pain Max",
+    "vi": "Pain Max"
+  },
+  {
+    "key": "atb_name_PainStep",
+    "type": 0,
+    "en": "Speed Pain Recedes",
+    "vi": "Speed Pain Recedes"
+  },
+  {
+    "key": "atb_name_PainTreshold",
+    "type": 0,
+    "en": "Pain Threshold",
+    "vi": "Pain Threshold"
+  },
+  {
+    "key": "atb_name_RangedChance",
+    "type": 0,
+    "en": "Ranged Weapon Hit Chance",
+    "vi": "Ranged Weapon Hit Chance"
+  },
+  {
+    "key": "atb_name_RangedDmg",
+    "type": 0,
+    "en": "Ranged Weapon Damage Multiplier",
+    "vi": "Ranged Weapon Damage Multiplier"
+  },
+  {
+    "key": "atb_name_RangedRange",
+    "type": 0,
+    "en": "Global Range",
+    "vi": "Global Range"
+  },
+  {
+    "key": "atb_name_RangedSpeed",
+    "type": 0,
+    "en": "Ranged Weapon Attack Duration Multiplier",
+    "vi": "Ranged Weapon Attack Duration Multiplier"
+  },
+  {
+    "key": "atb_name_ResearchSpeed",
+    "type": 0,
+    "en": "Research Speed",
+    "vi": "Research Speed"
+  },
+  {
+    "key": "atb_name_RottingSpeed",
+    "type": 0,
+    "en": "Rotting Speed",
+    "vi": "Rotting Speed"
+  },
+  {
+    "key": "atb_name_SleepDepletionSpeed",
+    "type": 0,
+    "en": "Sleep Depletion Speed",
+    "vi": "Sleep Depletion Speed"
+  },
+  {
+    "key": "atb_name_SleepNeed",
+    "type": 0,
+    "en": "Sleep Requirement",
+    "vi": "Sleep Requirement"
+  },
+  {
+    "key": "atb_name_SleepRecoverSpeed",
+    "type": 0,
+    "en": "Sleep Recovery Speed",
+    "vi": "Sleep Recovery Speed"
+  },
+  {
+    "key": "atb_name_SleepThreshold",
+    "type": 0,
+    "en": "Sleep Threshold",
+    "vi": "Sleep Threshold"
+  },
+  {
+    "key": "atb_name_SmithingSpeed",
+    "type": 0,
+    "en": "Smithing Speed",
+    "vi": "Smithing Speed"
+  },
+  {
+    "key": "atb_name_SowSpeed",
+    "type": 0,
+    "en": "Sowing Speed",
+    "vi": "Sowing Speed"
+  },
+  {
+    "key": "atb_name_SqueamishAmount",
+    "type": 0,
+    "en": "Squeamish Amount",
+    "vi": "Squeamish Amount"
+  },
+  {
+    "key": "atb_name_TendingFailChance",
+    "type": 0,
+    "en": "Chance Tending Wounds Fails",
+    "vi": "Chance Tending Wounds Fails"
+  },
+  {
+    "key": "atb_name_TendingQuality",
+    "type": 0,
+    "en": "Tending Wounds Effectiveness",
+    "vi": "Tending Wounds Effectiveness"
+  },
+  {
+    "key": "atb_name_TendingSpeed",
+    "type": 0,
+    "en": "Tending Wounds Speed",
+    "vi": "Tending Wounds Speed"
+  },
+  {
+    "key": "atb_name_UnarmedDamage",
+    "type": 0,
+    "en": "Unarmed Damage",
+    "vi": "Unarmed Damage"
+  },
+  {
+    "key": "atb_name_UnarmedPrecision",
+    "type": 0,
+    "en": "Unarmed Hit Chance",
+    "vi": "Unarmed Hit Chance"
+  },
+  {
+    "key": "atb_name_UnarmedSpeed",
+    "type": 0,
+    "en": "Unarmed Attack Duration",
+    "vi": "Unarmed Attack Duration"
+  },
+  {
+    "key": "atb_name_WoodWorkingSpeed",
+    "type": 0,
+    "en": "Woodworking Speed",
+    "vi": "Woodworking Speed"
+  },
+  {
+    "key": "atb_name_WoundRegen",
+    "type": 0,
+    "en": "Wound Regeneration",
+    "vi": "Wound Regeneration"
+  },
+  {
+    "key": "atb_name_GlobalXPgain",
+    "type": 0,
+    "en": "XP Gain",
+    "vi": "XP Gain"
+  },
+  {
+    "key": "atb_name_GlobalWorkSpeed",
+    "type": 0,
+    "en": "Global Work Speed",
+    "vi": "Global Work Speed"
+  },
+  {
+    "key": "atb_info_GlobalXPgain",
+    "type": 0,
+    "en": "The amount of XP this settler gains from each activity.",
+    "vi": "The amount of XP this settler gains from each activity."
+  },
+  {
+    "key": "atb_info_GlobalWorkSpeed",
+    "type": 0,
+    "en": "This multiplies the speed of all job-related activities.",
+    "vi": "This multiplies the speed of all job-related activities."
+  },
+  {
+    "key": "atb_name_RareChance",
+    "type": 0,
+    "en": "Inspiration",
+    "vi": "Inspiration"
+  },
+  {
+    "key": "atb_info_RareChance",
+    "type": 0,
+    "en": "Chance of producing higher quality items increased.",
+    "vi": "Chance of producing higher quality items increased."
+  },
+  {
+    "key": "atb_name_CookingAmount",
+    "type": 0,
+    "en": "Cooking Yield",
+    "vi": "Cooking Yield"
+  },
+  {
+    "key": "atb_info_CookingAmount",
+    "type": 0,
+    "en": "The number of resources produced by cooking.",
+    "vi": "The number of resources produced by cooking."
+  },
+  {
+    "key": "atb_name_TradingValue",
+    "type": 0,
+    "en": "Barter Value",
+    "vi": "Barter Value"
+  },
+  {
+    "key": "atb_name_TradingBargain",
+    "type": 0,
+    "en": "Bargain",
+    "vi": "Bargain"
+  },
+  {
+    "key": "atb_name_NegotiationChance",
+    "type": 0,
+    "en": "Negotiation",
+    "vi": "Negotiation"
+  },
+  {
+    "key": "atb_info_TradingValue",
+    "type": 0,
+    "en": "This offsets the proffered value by XX%.",
+    "vi": "This offsets the proffered value by XX%."
+  },
+  {
+    "key": "atb_info_TradingBargain",
+    "type": 0,
+    "en": "The value this settler can gain from the merchant while not giving the same amount back.",
+    "vi": "The value this settler can gain from the merchant while not giving the same amount back."
+  },
+  {
+    "key": "atb_info_NegotiationChance",
+    "type": 0,
+    "en": "The % chance that the negotiation will succeed. For instance: when offering resources instead of a settler during ransom events.",
+    "vi": "The % chance that the negotiation will succeed. For instance: when offering resources instead of a settler during ransom events."
+  },
+  {
+    "key": "atb_name_XpCapMultiplier",
+    "type": 0,
+    "en": "XP Cap Multiplier",
+    "vi": "XP Cap Multiplier"
+  },
+  {
+    "key": "atb_info_XpCapMultiplier",
+    "type": 0,
+    "en": "Settler daily XP per skill is capped. This multiplier sets the cap.",
+    "vi": "Settler daily XP per skill is capped. This multiplier sets the cap."
+  },
+  {
+    "key": "atb_name_XpDecayMultiplier",
+    "type": 0,
+    "en": "XP Decay Rate",
+    "vi": "XP Decay Rate"
+  },
+  {
+    "key": "atb_info_XpDecayMultiplier",
+    "type": 0,
+    "en": "Settler XP decays slowly over time, and the decay rate varies per settler. XP will not decay beneath the last level gained in a given skill.",
+    "vi": "Settler XP decays slowly over time, and the decay rate varies per settler. XP will not decay beneath the last level gained in a given skill."
+  },
+  {
+    "key": "atb_name_TameChanceMultiplier",
+    "type": 0,
+    "en": "Chance to Tame Animal",
+    "vi": "Chance to Tame Animal"
+  },
+  {
+    "key": "atb_name_TrainChanceMultiplier",
+    "type": 0,
+    "en": "Chance to Train Animal",
+    "vi": "Chance to Train Animal"
+  },
+  {
+    "key": "atb_info_TameChanceMultiplier",
+    "type": 0,
+    "en": "The chance for this settler to successfully progress in taming a wild animal",
+    "vi": "The chance for this settler to successfully progress in taming a wild animal"
+  },
+  {
+    "key": "atb_info_TrainChanceMultiplier",
+    "type": 0,
+    "en": "The chance for this settler to successfully progress in training a domesticated animal",
+    "vi": "The chance for this settler to successfully progress in training a domesticated animal"
+  },
+  {
+    "key": "atb_name_AgentBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Aesthetic Value"
+  },
+  {
+    "key": "atb_info_AgentBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items.",
+    "vi": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items."
+  },
+  {
+    "key": "atb_name_AgentBodyBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value (Whole body)",
+    "vi": "Aesthetic Value (Whole body)"
+  },
+  {
+    "key": "atb_info_AgentBodyBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items. Some items may override this value by covering it up",
+    "vi": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items. Some items may override this value by covering it up"
+  },
+  {
+    "key": "atb_name_AgentFaceBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value (Face)",
+    "vi": "Aesthetic Value (Face)"
+  },
+  {
+    "key": "atb_info_AgentFaceBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items.",
+    "vi": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items."
+  },
+  {
+    "key": "atb_name_AffectionPositiveMultiplier",
+    "type": 0,
+    "en": "Positive Social Interaction ",
+    "vi": "Positive Social Interaction "
+  },
+  {
+    "key": "atb_name_AffectionNegativeMultiplier",
+    "type": 0,
+    "en": "Negative Social Interaction",
+    "vi": "Negative Social Interaction"
+  },
+  {
+    "key": "atb_name_SocialCompatibilityPositive",
+    "type": 0,
+    "en": "Positive Social Interaction Chance ",
+    "vi": "Positive Social Interaction Chance "
+  },
+  {
+    "key": "atb_name_SocialCompatibilityNegative",
+    "type": 0,
+    "en": "Negative Social Interaction Chance",
+    "vi": "Negative Social Interaction Chance"
+  },
+  {
+    "key": "atb_name_ConversationInteractionHoursCooldown",
+    "type": 0,
+    "en": "Time between social interactions ",
+    "vi": "Time between social interactions "
+  },
+  {
+    "key": "atb_name_ConversationAvailabilityChance",
+    "type": 0,
+    "en": "Chance to engage in social interactions",
+    "vi": "Chance to engage in social interactions"
+  },
+  {
+    "key": "atb_info_AffectionPositiveMultiplier",
+    "type": 0,
+    "en": "Multiplies positive social interaction intensity",
+    "vi": "Multiplies positive social interaction intensity"
+  },
+  {
+    "key": "atb_info_AffectionNegativeMultiplier",
+    "type": 0,
+    "en": "Multiplies negative social interaction intensity",
+    "vi": "Multiplies negative social interaction intensity"
+  },
+  {
+    "key": "atb_info_SocialCompatibilityPositive",
+    "type": 0,
+    "en": "Multiplies the chance a positive social interaction will occur",
+    "vi": "Multiplies the chance a positive social interaction will occur"
+  },
+  {
+    "key": "atb_info_SocialCompatibilityNegative",
+    "type": 0,
+    "en": "Multiplies the chance a negative social interaction will occur",
+    "vi": "Multiplies the chance a negative social interaction will occur"
+  },
+  {
+    "key": "atb_info_ConversationInteractionHoursCooldown",
+    "type": 0,
+    "en": "Number of hours between social interactions",
+    "vi": "Number of hours between social interactions"
+  },
+  {
+    "key": "atb_info_ConversationAvailabilityChance",
+    "type": 0,
+    "en": "Chance to engage in social interactions",
+    "vi": "Chance to engage in social interactions"
+  },
+  {
+    "key": "atb_name_fishing_yeald",
+    "type": 0,
+    "en": "Fishing Yield",
+    "vi": "Fishing Yield"
+  },
+  {
+    "key": "atb_info_fishing_yeald",
+    "type": 0,
+    "en": "The number of fish caught when fishing ",
+    "vi": "The number of fish caught when fishing "
+  },
+  {
+    "key": "atb_name_fishing_failed",
+    "type": 0,
+    "en": "Chance Fishing Fails",
+    "vi": "Chance Fishing Fails"
+  },
+  {
+    "key": "atb_info_fishing_failed",
+    "type": 0,
+    "en": "The percentage chance that fishing will fail and resources from that catch will be lost",
+    "vi": "The percentage chance that fishing will fail and resources from that catch will be lost"
+  },
+  {
+    "key": "atb_name_NegotiationMultiplier",
+    "type": 0,
+    "en": "Negotiation Multiplier",
+    "vi": "Negotiation Multiplier"
+  },
+  {
+    "key": "atb_info_NegotiationMultiplier",
+    "type": 0,
+    "en": "This multiplier affects the value demanded by negotiators. The lower the multiplier, the lower the amount your settlement offers other faction in extortion events and runaway negotiations.",
+    "vi": "This multiplier affects the value demanded by negotiators. The lower the multiplier, the lower the amount your settlement offers other faction in extortion events and runaway negotiations."
+  },
+  {
+    "key": "atb_name_RecruitChance",
+    "type": 0,
+    "en": "Successfully Enroll a Recruit Chance",
+    "vi": "Successfully Enroll a Recruit Chance"
+  },
+  {
+    "key": "atb_name_BeingRecruitedChance",
+    "type": 0,
+    "en": "Successful Accept Recruitment Chance",
+    "vi": "Successful Accept Recruitment Chance"
+  },
+  {
+    "key": "atb_info_RecruitChance",
+    "type": 0,
+    "en": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the prisoner targeted for enrolment.",
+    "vi": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the prisoner targeted for enrolment."
+  },
+  {
+    "key": "atb_info_BeingRecruitedChance",
+    "type": 0,
+    "en": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the settler attempting to enroll a new recruit.",
+    "vi": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the settler attempting to enroll a new recruit."
+  },
+  {
+    "key": "atb_name_recruitPrisonerChance",
+    "type": 0,
+    "en": "Recruit prisoner chance",
+    "vi": "Recruit prisoner chance"
+  },
+  {
+    "key": "atb_info_recruitPrisonerChance",
+    "type": 0,
+    "en": "The chance to successfully recruit a prisoner to become a new settler. ",
+    "vi": "The chance to successfully recruit a prisoner to become a new settler. "
+  },
+  {
+    "key": "atb_name_AgentFlammability",
+    "type": 0,
+    "en": "Flammability",
+    "vi": "Flammability"
+  },
+  {
+    "key": "atb_name_AgentFireDamageMultiplier",
+    "type": 0,
+    "en": "Flame damage multiplier",
+    "vi": "Flame damage multiplier"
+  },
+  {
+    "key": "atb_info_AgentFlammability",
+    "type": 0,
+    "en": "How flammable the person, animal or object is. Higher flammability means they more easily chatch fire.",
+    "vi": "How flammable the person, animal or object is. Higher flammability means they more easily chatch fire."
+  },
+  {
+    "key": "atb_info_AgentFireDamageMultiplier",
+    "type": 0,
+    "en": "Flame damage is multiplied by this number ",
+    "vi": "Flame damage is multiplied by this number "
+  },
+  {
+    "key": "atb_name_RangedTrainSpeed",
+    "type": 0,
+    "en": "Ranged Training Speed",
+    "vi": "Ranged Training Speed"
+  },
+  {
+    "key": "atb_name_MeleeTrainSpeed",
+    "type": 0,
+    "en": "Melee Training Speed",
+    "vi": "Melee Training Speed"
+  },
+  {
+    "key": "atb_info_RangedTrainSpeed",
+    "type": 0,
+    "en": "Speed at which settler completes a training session",
+    "vi": "Speed at which settler completes a training session"
+  },
+  {
+    "key": "atb_info_MeleeTrainSpeed",
+    "type": 0,
+    "en": "Speed at which settler completes a training session",
+    "vi": "Speed at which settler completes a training session"
+  },
+  {
+    "key": "atb_name_SocialFightChance",
+    "type": 0,
+    "en": "Retaliate Chance",
+    "vi": "Retaliate Chance"
+  },
+  {
+    "key": "atb_name_SimpleToLavishChance",
+    "type": 0,
+    "en": "Upgrade Meal Chance",
+    "vi": "Upgrade Meal Chance"
+  },
+  {
+    "key": "atb_info_SocialFightChance",
+    "type": 0,
+    "en": "The chance to pick a fight with whoever caused offence  ",
+    "vi": "The chance to pick a fight with whoever caused offence  "
+  },
+  {
+    "key": "atb_info_SimpleToLavishChance",
+    "type": 0,
+    "en": "The chance that a simple meal will be served as a more lavish version. ",
+    "vi": "The chance that a simple meal will be served as a more lavish version. "
+  },
+  {
+    "key": "tainted",
+    "type": 0,
+    "en": "Tainted",
+    "vi": "Tainted"
+  }
+]

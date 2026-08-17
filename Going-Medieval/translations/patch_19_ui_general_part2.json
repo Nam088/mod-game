@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "in_pen",
+    "type": 0,
+    "en": "In Pen",
+    "vi": "In Pen"
+  },
+  {
+    "key": "general_retaliate",
+    "type": 0,
+    "en": "Retaliate",
+    "vi": "Retaliate"
+  },
+  {
+    "key": "tame_failed_retaliate_message",
+    "type": 0,
+    "en": "Retaliate",
+    "vi": "Retaliate"
+  },
+  {
+    "key": "hunt_retaliate_info",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "The chance that the quarry fights back."
+  },
+  {
+    "key": "tame_retaliate_info",
+    "type": 0,
+    "en": "The chance that the animal will attack the settler taming it",
+    "vi": "The chance that the animal will attack the settler taming it"
+  },
+  {
+    "key": "tameable_info",
+    "type": 0,
+    "en": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)",
+    "vi": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)"
+  },
+  {
+    "key": "tameable",
+    "type": 0,
+    "en": "Tameable",
+    "vi": "Tameable"
+  },
+  {
+    "key": "unnamed",
+    "type": 0,
+    "en": "Unnamed",
+    "vi": "Unnamed"
+  },
+  {
+    "key": "tame_successful_message",
+    "type": 0,
+    "en": "Taming attempt successful",
+    "vi": "Taming attempt successful"
+  },
+  {
+    "key": "tame_failed_message",
+    "type": 0,
+    "en": "Taming attempt failed",
+    "vi": "Taming attempt failed"
+  },
+  {
+    "key": "training_successful_message",
+    "type": 0,
+    "en": "Training attempt successful",
+    "vi": "Training attempt successful"
+  },
+  {
+    "key": "train_failed_message",
+    "type": 0,
+    "en": "Training attempt failed",
+    "vi": "Training attempt failed"
+  },
+  {
+    "key": "general_failed",
+    "type": 0,
+    "en": "Failed",
+    "vi": "Failed"
+  },
+  {
+    "key": "general_successful",
+    "type": 0,
+    "en": "Successful",
+    "vi": "Successful"
+  },
+  {
+    "key": "tame_try_left",
+    "type": 0,
+    "en": "Taming attempts remaining today ",
+    "vi": "Taming attempts remaining today "
+  },
+  {
+    "key": "tame_try_info",
+    "type": 0,
+    "en": "Last taming attempt",
+    "vi": "Last taming attempt"
+  },
+  {
+    "key": "train_try_left",
+    "type": 0,
+    "en": "Training attempts remaining today",
+    "vi": "Training attempts remaining today"
+  },
+  {
+    "key": "train_try_info",
+    "type": 0,
+    "en": "Last training attempt",
+    "vi": "Last training attempt"
+  },
+  {
+    "key": "tame_try_maximum",
+    "type": 0,
+    "en": "This animal has already had a taming attempt today",
+    "vi": "This animal has already had a taming attempt today"
+  },
+  {
+    "key": "train_try_maximum",
+    "type": 0,
+    "en": "This animal has already had a training attempt today",
+    "vi": "This animal has already had a training attempt today"
+  },
+  {
+    "key": "pile_has_fermented",
+    "type": 0,
+    "en": "<resource_name> has fermented on stockpile and turned into: <fermented_resource>",
+    "vi": "<resource_name> has fermented on stockpile and turned into: <fermented_resource>"
+  },
+  {
+    "key": "general_male",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_female",
+    "type": 0,
+    "en": "f",
+    "vi": "f"
+  },
+  {
+    "key": "is_storable_on_some_stockpile",
+    "type": 0,
+    "en": "Stockpile that can store this resource exists",
+    "vi": "Stockpile that can store this resource exists"
+  },
+  {
+    "key": "is_marked_for_hauling",
+    "type": 0,
+    "en": "Marked for hauling",
+    "vi": "Marked for hauling"
+  },
+  {
+    "key": "reserved_spaces",
+    "type": 0,
+    "en": "Reserved Spaces",
+    "vi": "Reserved Spaces"
+  },
+  {
+    "key": "manage_panel_cant_change",
+    "type": 0,
+    "en": "Default profile cannot be changed. Create a new profile using the plus button and edit the new one.",
+    "vi": "Default profile cannot be changed. Create a new profile using the plus button and edit the new one."
+  },
+  {
+    "key": "obsolete_character_preset_message",
+    "type": 0,
+    "en": "Your preset <style=AltColor>\"<preset_name>\"</style> stored in <style=AltColor>\"ManageGroupPresets.json\"</style> is obsolete and can't load.",
+    "vi": "Your preset <style=AltColor>\"<preset_name>\"</style> stored in <style=AltColor>\"ManageGroupPresets.json\"</style> is obsolete and can't load."
+  },
+  {
+    "key": "general_diet",
+    "type": 0,
+    "en": "Diet",
+    "vi": "Diet"
+  },
+  {
+    "key": "general_true",
+    "type": 0,
+    "en": "True",
+    "vi": "True"
+  },
+  {
+    "key": "general_false",
+    "type": 0,
+    "en": "False",
+    "vi": "False"
+  },
+  {
+    "key": "is_marked_for_cutting",
+    "type": 0,
+    "en": "Marked for cutting",
+    "vi": "Marked for cutting"
+  },
+  {
+    "key": "is_marked_for_harvest",
+    "type": 0,
+    "en": "Marked for harvesting",
+    "vi": "Marked for harvesting"
+  },
+  {
+    "key": "select_all_tooltip",
+    "type": 0,
+    "en": "Mark/Clear All",
+    "vi": "Mark/Clear All"
+  },
+  {
+    "key": "game_difficulty_Custom_title",
+    "type": 0,
+    "en": "Custom",
+    "vi": "Custom"
+  },
+  {
+    "key": "game_difficulty_Custom_info",
+    "type": 0,
+    "en": "Customise your game difficulty level. Choose what types of events you would like to exclude during your run. ",
+    "vi": "Customise your game difficulty level. Choose what types of events you would like to exclude during your run. "
+  },
+  {
+    "key": "predators_cant_attack",
+    "type": 0,
+    "en": "Cannot be targeted by predators",
+    "vi": "Cannot be targeted by predators"
+  },
+  {
+    "key": "general_in_storage",
+    "type": 0,
+    "en": "In Storage",
+    "vi": "In Storage"
+  },
+  {
+    "key": "owner_name",
+    "type": 0,
+    "en": "Owner",
+    "vi": "Owner"
+  },
+  {
+    "key": "storage_full",
+    "type": 0,
+    "en": "The storage for this structure is full",
+    "vi": "The storage for this structure is full"
+  },
+  {
+    "key": "stunted_yeald_info",
+    "type": 0,
+    "en": "Stunted yield amount",
+    "vi": "Stunted yield amount"
+  },
+  {
+    "key": "sow_recomended_time",
+    "type": 0,
+    "en": "Recommended sowing period",
+    "vi": "Recommended sowing period"
+  },
+  {
+    "key": "heatmap_legend",
+    "type": 0,
+    "en": "Heatmap Legend",
+    "vi": "Heatmap Legend"
+  },
+  {
+    "key": "general_intensity",
+    "type": 0,
+    "en": "Intensity",
+    "vi": "Intensity"
+  },
+  {
+    "key": "general_intensity_info",
+    "type": 0,
+    "en": "Change the intensity of this heat source. Changing to a higher intensity will increase the temperature output, but will also use more fuel.",
+    "vi": "Change the intensity of this heat source. Changing to a higher intensity will increase the temperature output, but will also use more fuel."
+  },
+  {
+    "key": "node_snow",
+    "type": 0,
+    "en": "Snow",
+    "vi": "Snow"
+  },
+  {
+    "key": "node_wet",
+    "type": 0,
+    "en": "Wet",
+    "vi": "Wet"
+  },
+  {
+    "key": "node_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Grass"
+  },
+  {
+    "key": "node_sunlight",
+    "type": 0,
+    "en": "Sunlight",
+    "vi": "Sunlight"
+  },
+  {
+    "key": "effector_name_BeliefNearDeathPagan",
+    "type": 0,
+    "en": "At Death's door",
+    "vi": "At Death's door"
+  },
+  {
+    "key": "effector_name_BeliefNearDeathChristian",
+    "type": 0,
+    "en": "At Death's door",
+    "vi": "At Death's door"
+  },
+  {
+    "key": "effector_name_BeliefIntoxicationChristian",
+    "type": 0,
+    "en": "A boozy contemplation",
+    "vi": "A boozy contemplation"
+  },
+  {
+    "key": "effector_name_BeliefIntoxicationPagan",
+    "type": 0,
+    "en": "A drunkard's dawn",
+    "vi": "A drunkard's dawn"
+  },
+  {
+    "key": "effector_name_BeliefFriendDiedChristian",
+    "type": 0,
+    "en": "A loved one has passed away",
+    "vi": "A loved one has passed away"
+  },
+  {
+    "key": "effector_name_BeliefFriendDiedPagan",
+    "type": 0,
+    "en": "A loved one has passed away",
+    "vi": "A loved one has passed away"
+  },
+  {
+    "key": "effector_name_BeliefFlawlessItemChristian",
+    "type": 0,
+    "en": "God's grace guided this creation",
+    "vi": "God's grace guided this creation"
+  },
+  {
+    "key": "effector_name_BeliefFlawlessItemPagan",
+    "type": 0,
+    "en": "The Gods inspired my hands ",
+    "vi": "The Gods inspired my hands "
+  },
+  {
+    "key": "effector_name_BeliefFlimsyItemChristian",
+    "type": 0,
+    "en": "I failed. Has God forsaken me?",
+    "vi": "I failed. Has God forsaken me?"
+  },
+  {
+    "key": "effector_name_BeliefFlimsyItemPagan",
+    "type": 0,
+    "en": "The Gods must be laughing at this failure.",
+    "vi": "The Gods must be laughing at this failure."
+  },
+  {
+    "key": "effector_name_BeliefNatureChristian",
+    "type": 0,
+    "en": "Could this be the work of the Almighty?",
+    "vi": "Could this be the work of the Almighty?"
+  },
+  {
+    "key": "effector_name_BeliefNaturePagan",
+    "type": 0,
+    "en": "Is this a sign from the Gods?",
+    "vi": "Is this a sign from the Gods?"
+  },
+  {
+    "key": "not_available",
+    "type": 0,
+    "en": "<style=DefaultRed>This structure cannot be used because it is in an unsuitable enviroment</style> ",
+    "vi": "<style=DefaultRed>This structure cannot be used because it is in an unsuitable enviroment</style> "
+  },
+  {
+    "key": "temperature_out_of_range",
+    "type": 0,
+    "en": "Unsuitable temperature",
+    "vi": "Unsuitable temperature"
+  },
+  {
+    "key": "ground",
+    "type": 0,
+    "en": "Ground",
+    "vi": "Ground"
+  },
+  {
+    "key": "decay_speed_under_water",
+    "type": 0,
+    "en": "Water decay rate modifier",
+    "vi": "Water decay rate modifier"
+  },
+  {
+    "key": "decay_speed_per_temperature",
+    "type": 0,
+    "en": "Temperature decay rate modifier",
+    "vi": "Temperature decay rate modifier"
+  },
+  {
+    "key": "decay_speed_per_ground",
+    "type": 0,
+    "en": "Ground decay rate modifier",
+    "vi": "Ground decay rate modifier"
+  },
+  {
+    "key": "decay_speed_per_weather",
+    "type": 0,
+    "en": "Weather decay rate modifier",
+    "vi": "Weather decay rate modifier"
+  },
+  {
+    "key": "ferment_speed_per_temperature",
+    "type": 0,
+    "en": "Temperature fermentation rate modifier",
+    "vi": "Temperature fermentation rate modifier"
+  },
+  {
+    "key": "lb_protector",
+    "type": 0,
+    "en": "While nearby, small animals will not be targeted by predators like foxes or polecats. ",
+    "vi": "While nearby, small animals will not be targeted by predators like foxes or polecats. "
+  },
+  {
+    "key": "protecting_from_predators",
+    "type": 0,
+    "en": "Protected from predators by",
+    "vi": "Protected from predators by"
+  },
+  {
+    "key": "stat_disabled",
+    "type": 0,
+    "en": "This stat is disabled. It's value won't change, nor will it give the settler any associated buffs or debuffs",
+    "vi": "This stat is disabled. It's value won't change, nor will it give the settler any associated buffs or debuffs"
+  },
+  {
+    "key": "stat_locked",
+    "type": 0,
+    "en": "This stat is locked. Its value won't change. But the associated buffs will be present.",
+    "vi": "This stat is locked. Its value won't change. But the associated buffs will be present."
+  },
+  {
+    "key": "water_lvl_01",
+    "type": 0,
+    "en": "Shallow Water",
+    "vi": "Shallow Water"
+  },
+  {
+    "key": "water_lvl_02",
+    "type": 0,
+    "en": "Low Water",
+    "vi": "Low Water"
+  },
+  {
+    "key": "water_lvl_03",
+    "type": 0,
+    "en": "Deep Water",
+    "vi": "Deep Water"
+  },
+  {
+    "key": "cropfield_error_underwater",
+    "type": 0,
+    "en": "Cannot sow here, the field is flooded",
+    "vi": "Cannot sow here, the field is flooded"
+  },
+  {
+    "key": "production_stopped_underwater",
+    "type": 0,
+    "en": "Production halted due to flooding",
+    "vi": "Production halted due to flooding"
+  },
+  {
+    "key": "cropfield_error_not_underwater",
+    "type": 0,
+    "en": "Cannot sow here, this crop needs to grow in shallow water",
+    "vi": "Cannot sow here, this crop needs to grow in shallow water"
+  },
+  {
+    "key": "Piles_apply_order",
+    "type": 0,
+    "en": "Resource",
+    "vi": "Resource"
+  },
+  {
+    "key": "Blueprints_apply_order",
+    "type": 0,
+    "en": "Blueprint phase",
+    "vi": "Blueprint phase"
+  },
+  {
+    "key": "Foundations_apply_order",
+    "type": 0,
+    "en": "Building phase",
+    "vi": "Building phase"
+  },
+  {
+    "key": "All_apply_order",
+    "type": 0,
+    "en": "Apply to all",
+    "vi": "Apply to all"
+  },
+  {
+    "key": "general_prisoners",
+    "type": 0,
+    "en": "Prisoners",
+    "vi": "Prisoners"
+  },
+  {
+    "key": "general_prisoner",
+    "type": 0,
+    "en": "Prisoner ",
+    "vi": "Prisoner "
+  },
+  {
+    "key": "surender_screen_info",
+    "type": 0,
+    "en": "Choose assailants you want to capture as prisoners of war. Wait for a settler with the Goaler job active to escort prisoners to a cell. But hurry, they won't wait forever.",
+    "vi": "Choose assailants you want to capture as prisoners of war. Wait for a settler with the Goaler job active to escort prisoners to a cell. But hurry, they won't wait forever."
+  },
+  {
+    "key": "surender_screen_title",
+    "type": 0,
+    "en": "Enemies have surrendered",
+    "vi": "Enemies have surrendered"
+  },
+  {
+    "key": "bbt_prisoner_run",
+    "type": 0,
+    "en": "<name> is making a run for it!",
+    "vi": "<name> is making a run for it!"
+  },
+  {
+    "key": "bbt_prisoner_gone",
+    "type": 0,
+    "en": "<name> has reached the edge of the map and escaped.",
+    "vi": "<name> has reached the edge of the map and escaped."
+  },
+  {
+    "key": "bbt_prisoner_released",
+    "type": 0,
+    "en": "<name> has been released",
+    "vi": "<name> has been released"
+  },
+  {
+    "key": "prioritise_escort",
+    "type": 0,
+    "en": "Prioritise: Escort to cell",
+    "vi": "Prioritise: Escort to cell"
+  },
+  {
+    "key": "prioritise_escort_error_no_reachable_jail_cell",
+    "type": 0,
+    "en": "The room designated as a prison cell cannot be reached. ",
+    "vi": "The room designated as a prison cell cannot be reached. "
+  },
+  {
+    "key": "prioritise_escort_error_no_jail_cell",
+    "type": 0,
+    "en": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell",
+    "vi": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell"
+  },
+  {
+    "key": "bbt_no_cell_exists",
+    "type": 0,
+    "en": "There is no room designated as a cell.",
+    "vi": "There is no room designated as a cell."
+  },
+  {
+    "key": "prioritise_turn",
+    "type": 0,
+    "en": "Prioritise: Recruit",
+    "vi": "Prioritise: Recruit"
+  },
+  {
+    "key": "bbt_prisoners_cant_be_turned",
+    "type": 0,
+    "en": "This prisoner can't be recruited",
+    "vi": "This prisoner can't be recruited"
+  },
+  {
+    "key": "enemy_wont_surrender_01",
+    "type": 0,
+    "en": "[He/She] would rather die than surrender.",
+    "vi": "[He/She] would rather die than surrender."
+  },
+  {
+    "key": "enemy_wont_surrender_02",
+    "type": 0,
+    "en": "This one wriggles free like an eel, and cannot be captured.",
+    "vi": "This one wriggles free like an eel, and cannot be captured."
+  },
+  {
+    "key": "enemy_wont_surrender_03",
+    "type": 0,
+    "en": "[He/She] is screaming and thrashing wildly. It's easier to let them go.",
+    "vi": "[He/She] is screaming and thrashing wildly. It's easier to let them go."
+  },
+  {
+    "key": "enemy_wont_surrender_04",
+    "type": 0,
+    "en": "[He/She] looks grievously ill. It's hard to ransom a dead prisoner.",
+    "vi": "[He/She] looks grievously ill. It's hard to ransom a dead prisoner."
+  },
+  {
+    "key": "enemy_wont_surrender_05",
+    "type": 0,
+    "en": "The rest of [his/her] faction seem to shun [him/her]. A worthless hostage.",
+    "vi": "The rest of [his/her] faction seem to shun [him/her]. A worthless hostage."
+  },
+  {
+    "key": "enemy_wont_surrender_06",
+    "type": 0,
+    "en": "A real rabble rouser. [He/She] would love to start a riot the cells.",
+    "vi": "A real rabble rouser. [He/She] would love to start a riot the cells."
+  },
+  {
+    "key": "enemy_wont_surrender_07",
+    "type": 0,
+    "en": "[He/She] smells worse than a rotting corpse. Leave them.",
+    "vi": "[He/She] smells worse than a rotting corpse. Leave them."
+  },
+  {
+    "key": "bbt_no_one_surrender",
+    "type": 0,
+    "en": "No one surrendered after their defeat",
+    "vi": "No one surrendered after their defeat"
+  },
+  {
+    "key": "worker_action_escroting",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "object_inside_prison_cell",
+    "type": 0,
+    "en": "<object_name> is inside a prison cell. Settlers cannot use it. ",
+    "vi": "<object_name> is inside a prison cell. Settlers cannot use it. "
+  },
+  {
+    "key": "worker_action_RecruitPrisonerGoal",
+    "type": 0,
+    "en": "Recruiting",
+    "vi": "Recruiting"
+  },
+  {
+    "key": "recruit_successful_message",
+    "type": 0,
+    "en": "Recruiting attempt successful",
+    "vi": "Recruiting attempt successful"
+  },
+  {
+    "key": "recruit_failed_message",
+    "type": 0,
+    "en": "Recruiting attempt failed",
+    "vi": "Recruiting attempt failed"
+  },
+  {
+    "key": "recruit_try_left",
+    "type": 0,
+    "en": "Recruiting attempts remaining today",
+    "vi": "Recruiting attempts remaining today"
+  },
+  {
+    "key": "recruit_try_info",
+    "type": 0,
+    "en": "Last recruiting attempt",
+    "vi": "Last recruiting attempt"
+  },
+  {
+    "key": "recruit_try_maximum",
+    "type": 0,
+    "en": "This prisoner has already been subject to a recruitment attempt today",
+    "vi": "This prisoner has already been subject to a recruitment attempt today"
+  },
+  {
+    "key": "recruit_amount",
+    "type": 0,
+    "en": "Recruited",
+    "vi": "Recruited"
+  },
+  {
+    "key": "recruit_next_attempt",
+    "type": 0,
+    "en": "Next attempt in ",
+    "vi": "Next attempt in "
+  },
+  {
+    "key": "worker_action_PrisonerSurrenderGoal",
+    "type": 0,
+    "en": "Surrendered ",
+    "vi": "Surrendered "
+  },
+  {
+    "key": "worker_action_StripCaptiveGoal",
+    "type": 0,
+    "en": "Stripping prisoner's belongings",
+    "vi": "Stripping prisoner's belongings"
+  },
+  {
+    "key": "prioritise_strip",
+    "type": 0,
+    "en": "Prioritise: Strip",
+    "vi": "Prioritise: Strip"
+  },
+  {
+    "key": "worker_action_PrisonStashHaulingGoal",
+    "type": 0,
+    "en": "Feeding prisoners",
+    "vi": "Feeding prisoners"
+  },
+  {
+    "key": "prioritise_prison_stash_refill",
+    "type": 0,
+    "en": "Prioritise: Feed prisoners",
+    "vi": "Prioritise: Feed prisoners"
+  },
+  {
+    "key": "bbt_prisoner_has_recruited",
+    "type": 0,
+    "en": "<name> has decided to join your settlement and is no longer a prisoner.",
+    "vi": "<name> has decided to join your settlement and is no longer a prisoner."
+  },
+  {
+    "key": "general_captive_labourer",
+    "type": 0,
+    "en": "Captive Labourer",
+    "vi": "Captive Labourer"
+  },
+  {
+    "key": "captive_labourer_desc",
+    "type": 0,
+    "en": "Captive labourers move about freely performing tasks assigned in the overview panel. Keep their spirits up to minimise escape attempts — although their shackles mean they won't get far.",
+    "vi": "Captive labourers move about freely performing tasks assigned in the overview panel. Keep their spirits up to minimise escape attempts — although their shackles mean they won't get far."
+  },
+  {
+    "key": "captive_labourer_work_info",
+    "type": 0,
+    "en": "Captive labourers will only do work if the Settler with the Prison Warden role is present to manage them.",
+    "vi": "Captive labourers will only do work if the Settler with the Prison Warden role is present to manage them."
+  },
+  {
+    "key": "captive_labourer_number",
+    "type": 0,
+    "en": "The number of captive labourers your Warden can oversee. Promote your warden to the next level to increase this number.",
+    "vi": "The number of captive labourers your Warden can oversee. Promote your warden to the next level to increase this number."
+  },
+  {
+    "key": "worker_action_ShacklePrisonerGoal",
+    "type": 0,
+    "en": "Placing Shackles",
+    "vi": "Placing Shackles"
+  },
+  {
+    "key": "prioritise_shackle",
+    "type": 0,
+    "en": "Prioritise: Shackle",
+    "vi": "Prioritise: Shackle"
+  },
+  {
+    "key": "no_item_available",
+    "type": 0,
+    "en": "Does not have access to item: <item_name>",
+    "vi": "Does not have access to item: <item_name>"
+  },
+  {
+    "key": "worker_action_off_shackling",
+    "type": 0,
+    "en": "Removing Shackles",
+    "vi": "Removing Shackles"
+  },
+  {
+    "key": "cant_make_captive_labourer_shackles",
+    "type": 0,
+    "en": "Only prisoners wearing shackles can become captive labourers.",
+    "vi": "Only prisoners wearing shackles can become captive labourers."
+  },
+  {
+    "key": "cant_make_recruit_captive_labourer",
+    "type": 0,
+    "en": "Captive labourers can't be recruited. Turn them back to prisoners in order to mark them for recruitment ",
+    "vi": "Captive labourers can't be recruited. Turn them back to prisoners in order to mark them for recruitment "
+  },
+  {
+    "key": "cant_make_captive_labourer_warden_level",
+    "type": 0,
+    "en": "The number of captive labourers the warden oversees is at maximum.",
+    "vi": "The number of captive labourers the warden oversees is at maximum."
+  },
+  {
+    "key": "cant_make_captive_labourer_warden_missing",
+    "type": 0,
+    "en": "No Prison Warden assigned in your settlement. To make use of captive labourers, assign the Prison Warden role to one of your settlers.",
+    "vi": "No Prison Warden assigned in your settlement. To make use of captive labourers, assign the Prison Warden role to one of your settlers."
+  },
+  {
+    "key": "cant_add_prisoner_caravan",
+    "type": 0,
+    "en": "Only prisoners with shackles can be added to caravans ",
+    "vi": "Only prisoners with shackles can be added to caravans "
+  },
+  {
+    "key": "worker_action_prisoneridlegoal",
+    "type": 0,
+    "en": "Shirking duties",
+    "vi": "Shirking duties"
+  },
+  {
+    "key": "general_visitor",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Visitor"
+  },
+  {
+    "key": "general_add",
+    "type": 0,
+    "en": "Add",
+    "vi": "Add"
+  },
+  {
+    "key": "re_roll_settlers_prompt",
+    "type": 0,
+    "en": "This action will replace all current settlers with new randomized instances. Do you want to proceed? ",
+    "vi": "This action will replace all current settlers with new randomized instances. Do you want to proceed? "
+  },
+  {
+    "key": "re_roll_settler_prompt",
+    "type": 0,
+    "en": "This action will replace the selected settler with a new randomized instance. Do you want to proceed? ",
+    "vi": "This action will replace the selected settler with a new randomized instance. Do you want to proceed? "
+  },
+  {
+    "key": "worker_stance_DraftedDefault_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "worker_stance_DraftedHoldGround_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "cannot_trade_priosner_wount_offer",
+    "type": 0,
+    "en": "Not for sale",
+    "vi": "Not for sale"
+  },
+  {
+    "key": "node_fire",
+    "type": 0,
+    "en": "Flame",
+    "vi": "Flame"
+  },
+  {
+    "key": "no_ammo_loaded",
+    "type": 0,
+    "en": "Load ammunition to use this siege engine",
+    "vi": "Load ammunition to use this siege engine"
+  },
+  {
+    "key": "no_piles_allowed",
+    "type": 0,
+    "en": "There are no allowed piles of ammunition available",
+    "vi": "There are no allowed piles of ammunition available"
+  },
+  {
+    "key": "battle_balance",
+    "type": 0,
+    "en": "Battle Balance",
+    "vi": "Battle Balance"
+  },
+  {
+    "key": "settlers_lost",
+    "type": 0,
+    "en": "Settlers wounded in action",
+    "vi": "Settlers wounded in action"
+  },
+  {
+    "key": "general_job",
+    "type": 0,
+    "en": "Job",
+    "vi": "Job"
+  },
+  {
+    "key": "general_loot_stash",
+    "type": 0,
+    "en": "Loot stash",
+    "vi": "Loot stash"
+  },
+  {
+    "key": "loot_stash_value",
+    "type": 0,
+    "en": "Estimated stash value:",
+    "vi": "Estimated stash value:"
+  },
+  {
+    "key": "loot_stash_weight",
+    "type": 0,
+    "en": "Estimated stash weight:",
+    "vi": "Estimated stash weight:"
+  },
+  {
+    "key": "point_of_interest_explored",
+    "type": 0,
+    "en": "Already explored",
+    "vi": "Already explored"
+  },
+  {
+    "key": "point_of_interest_explored_info",
+    "type": 0,
+    "en": "Send a caravan to this location to retrieve items left behind",
+    "vi": "Send a caravan to this location to retrieve items left behind"
+  },
+  {
+    "key": "point_of_interest_disabled_settlement_info",
+    "type": 0,
+    "en": "They know you are coming, and are prepared. You cannot send a caravan to this location in the next: <time>",
+    "vi": "They know you are coming, and are prepared. You cannot send a caravan to this location in the next: <time>"
+  },
+  {
+    "key": "point_of_interest_disabled_camp_info",
+    "type": 0,
+    "en": "They know you are coming, and are prepared. It is best not to send any settlers to this location, which most likely is abandoned.",
+    "vi": "They know you are coming, and are prepared. It is best not to send any settlers to this location, which most likely is abandoned."
+  },
+  {
+    "key": "point_of_interest_disabled_settlement_info_02",
+    "type": 0,
+    "en": "Nothing remains but rubble. It will be a while before this settlement is habitable again.",
+    "vi": "Nothing remains but rubble. It will be a while before this settlement is habitable again."
+  },
+  {
+    "key": "point_of_interest_stash",
+    "type": 0,
+    "en": "Send a caravan to explore this loot stash",
+    "vi": "Send a caravan to explore this loot stash"
+  },
+  {
+    "key": "point_of_interest_bandit_camp",
+    "type": 0,
+    "en": "Send a caravan to attack this bandit camp",
+    "vi": "Send a caravan to attack this bandit camp"
+  },
+  {
+    "key": "point_of_interest_bandit_camp_02",
+    "type": 0,
+    "en": "Destroying this bandit camp will improve relations with <faction_name>",
+    "vi": "Destroying this bandit camp will improve relations with <faction_name>"
+  },
+  {
+    "key": "point_of_interest_content",
+    "type": 0,
+    "en": "Content: ",
+    "vi": "Content: "
+  },
+  {
+    "key": "beggar_asking",
+    "type": 0,
+    "en": "Request",
+    "vi": "Request"
+  },
+  {
+    "key": "beggar_give",
+    "type": 0,
+    "en": "The total amount of value you will give to the beggar",
+    "vi": "The total amount of value you will give to the beggar"
+  },
+  {
+    "key": "beggar_ask_title",
+    "type": 0,
+    "en": "Request",
+    "vi": "Request"
+  },
+  {
+    "key": "beggar_ask_desc",
+    "type": 0,
+    "en": "The amount of value the beggar is asking for. This is influenced by the settler negotiating. ",
+    "vi": "The amount of value the beggar is asking for. This is influenced by the settler negotiating. "
+  },
+  {
+    "key": "beggar_wont_take",
+    "type": 0,
+    "en": "This beggar won't accept this resource",
+    "vi": "This beggar won't accept this resource"
+  },
+  {
+    "key": "beggar_are_you_sure",
+    "type": 0,
+    "en": "Are you sure that you want to finalise this transaction?",
+    "vi": "Are you sure that you want to finalise this transaction?"
+  },
+  {
+    "key": "beggar_message_cant_continue",
+    "type": 0,
+    "en": "The beggar is asking for more",
+    "vi": "The beggar is asking for more"
+  },
+  {
+    "key": "leave_prompt_info",
+    "type": 0,
+    "en": "Are you sure you want to leave this location?",
+    "vi": "Are you sure you want to leave this location?"
+  },
+  {
+    "key": "enter_map_tooltip",
+    "type": 0,
+    "en": "Enter location",
+    "vi": "Enter location"
+  },
+  {
+    "key": "loot_place_tooltip",
+    "type": 0,
+    "en": "Loot",
+    "vi": "Loot"
+  },
+  {
+    "key": "loot_place_empty_tooltip",
+    "type": 0,
+    "en": "No loot remains",
+    "vi": "No loot remains"
+  },
+  {
+    "key": "general_talk_with",
+    "type": 0,
+    "en": "Talk to: <npc_name>",
+    "vi": "Talk to: <npc_name>"
+  },
+  {
+    "key": "cant_take_items_hostiles_on_map",
+    "type": 0,
+    "en": "This cannot be acquired while hostile enemies are present ",
+    "vi": "This cannot be acquired while hostile enemies are present "
+  },
+  {
+    "key": "all_enemies_killed",
+    "type": 0,
+    "en": "The area has been cleared of threats ",
+    "vi": "The area has been cleared of threats "
+  },
+  {
+    "key": "ambush_negotiate_tooltip",
+    "type": 0,
+    "en": "Negotiate",
+    "vi": "Negotiate"
+  },
+  {
+    "key": "ambush_fight_tooltip",
+    "type": 0,
+    "en": "Fight",
+    "vi": "Fight"
+  },
+  {
+    "key": "ambush_escape_tooltip",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Flee"
+  },
+  {
+    "key": "general_bandit_camp",
+    "type": 0,
+    "en": "Bandit Camp",
+    "vi": "Bandit Camp"
+  },
+  {
+    "key": "general_ambush",
+    "type": 0,
+    "en": "Ambush",
+    "vi": "Ambush"
+  },
+  {
+    "key": "ambush_chance",
+    "type": 0,
+    "en": "Ambush Chance",
+    "vi": "Ambush Chance"
+  },
+  {
+    "key": "ambush_chance_info",
+    "type": 0,
+    "en": "The chance this caravan is ambushed depends on: \\nSize of the caravan (larger groups attract more attention) \\nCaravan wealth (bandits are more likely to attack if there are rich pickings) \\nJourney length (the longer the trip, the greater the chance of an incident)",
+    "vi": "The chance this caravan is ambushed depends on: \\nSize of the caravan (larger groups attract more attention) \\nCaravan wealth (bandits are more likely to attack if there are rich pickings) \\nJourney length (the longer the trip, the greater the chance of an incident)"
+  },
+  {
+    "key": "starting_event",
+    "type": 0,
+    "en": "Starting event",
+    "vi": "Starting event"
+  },
+  {
+    "key": "starting_event_schedule",
+    "type": 0,
+    "en": "Starting event schedule",
+    "vi": "Starting event schedule"
+  },
+  {
+    "key": "starting_hour",
+    "type": 0,
+    "en": "Starting hour",
+    "vi": "Starting hour"
+  },
+  {
+    "key": "schedule_default_1_title",
+    "type": 0,
+    "en": "Easy",
+    "vi": "Easy"
+  },
+  {
+    "key": "schedule_default_2_title",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Normal"
+  },
+  {
+    "key": "sign_message",
+    "type": 0,
+    "en": "Sign message",
+    "vi": "Sign message"
+  },
+  {
+    "key": "filter_all_items",
+    "type": 0,
+    "en": "All Resources",
+    "vi": "All Resources"
+  },
+  {
+    "key": "filter_prisoners",
+    "type": 0,
+    "en": "Prisoners",
+    "vi": "Prisoners"
+  },
+  {
+    "key": "workshop_version_not_set",
+    "type": 0,
+    "en": "Works with beta branches: Not set by mod creator",
+    "vi": "Works with beta branches: Not set by mod creator"
+  },
+  {
+    "key": "workshop_version_max_older",
+    "type": 0,
+    "en": "Works with beta branches: {max} and older",
+    "vi": "Works with beta branches: {max} and older"
+  },
+  {
+    "key": "workshop_version_min_newer",
+    "type": 0,
+    "en": "Works with beta branches: {min} and newer",
+    "vi": "Works with beta branches: {min} and newer"
+  },
+  {
+    "key": "workshop_version_single",
+    "type": 0,
+    "en": "Works with beta branch: {min}",
+    "vi": "Works with beta branch: {min}"
+  },
+  {
+    "key": "workshop_version_range",
+    "type": 0,
+    "en": "Works with beta branches: {min} to {max}",
+    "vi": "Works with beta branches: {min} to {max}"
+  },
+  {
+    "key": "oak_brethren_decorations",
+    "type": 0,
+    "en": "Oak Brethren Decorations",
+    "vi": "Oak Brethren Decorations"
+  },
+  {
+    "key": "any_chest",
+    "type": 0,
+    "en": "Chest",
+    "vi": "Chest"
+  },
+  {
+    "key": "research_books",
+    "type": 0,
+    "en": "Research Books",
+    "vi": "Research Books"
+  },
+  {
+    "key": "villager_constraint_age_range",
+    "type": 0,
+    "en": "Age range",
+    "vi": "Age range"
+  },
+  {
+    "key": "villager_constraint_height_range",
+    "type": 0,
+    "en": "Height range",
+    "vi": "Height range"
+  },
+  {
+    "key": "villager_constraint_weight_range",
+    "type": 0,
+    "en": "Weight range",
+    "vi": "Weight range"
+  },
+  {
+    "key": "general_minute_short_duration",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_hour_short_duration",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "general_day_short_duration",
+    "type": 0,
+    "en": "d",
+    "vi": "d"
+  },
+  {
+    "key": "general_year_short_duration",
+    "type": 0,
+    "en": "y",
+    "vi": "y"
+  },
+  {
+    "key": "prisoner_has_no_clothes",
+    "type": 0,
+    "en": "Prisoner has no clothes",
+    "vi": "Prisoner has no clothes"
+  },
+  {
+    "key": "used_in_production_stations",
+    "type": 0,
+    "en": "Used in Production stations",
+    "vi": "Used in Production stations"
+  },
+  {
+    "key": "alt_select_tooltip_hint",
+    "type": 0,
+    "en": "Hold [<style=Shortcut>Alt</style>] and <sprite=\"ctrl_left_click\" index=t> to get more details from the almanac",
+    "vi": "Hold [<style=Shortcut>Alt</style>] and <sprite=\"ctrl_left_click\" index=t> to get more details from the almanac"
+  },
+  {
+    "key": "upcooked_success_bbt",
+    "type": 0,
+    "en": "{0} wanted to make {1} but ended up cooking {2} instead",
+    "vi": "{0} wanted to make {1} but ended up cooking {2} instead"
+  },
+  {
+    "key": "bbt_plan_mode_on",
+    "type": 0,
+    "en": "Plan mode is ON",
+    "vi": "Plan mode is ON"
+  },
+  {
+    "key": "bbt_plan_mode_off",
+    "type": 0,
+    "en": "Plan mode is OFF",
+    "vi": "Plan mode is OFF"
+  },
+  {
+    "key": "ui_plan_mode_checkbox",
+    "type": 0,
+    "en": "Plan Mode",
+    "vi": "Plan Mode"
+  },
+  {
+    "key": "ui_plan_mode_checkbox_tooltip",
+    "type": 0,
+    "en": "When enabled, blueprints are marked as forbidden. This allows you to place blueprints without settlers starting construction. ",
+    "vi": "When enabled, blueprints are marked as forbidden. This allows you to place blueprints without settlers starting construction. "
+  },
+  {
+    "key": "worker_taken_on_defeat",
+    "type": 0,
+    "en": "<name> was taken by <faction_name>",
+    "vi": "<name> was taken by <faction_name>"
+  },
+  {
+    "key": "qol_update_name_01",
+    "type": 0,
+    "en": "Summer Update",
+    "vi": "Summer Update"
+  },
+  {
+    "key": "qol_update_name_02",
+    "type": 0,
+    "en": "Quality of Life Update",
+    "vi": "Quality of Life Update"
+  },
+  {
+    "key": "qol_update_name_03",
+    "type": 0,
+    "en": "Quality of Life",
+    "vi": "Quality of Life"
+  },
+  {
+    "key": "general_diplomacy",
+    "type": 0,
+    "en": "Diplomacy",
+    "vi": "Diplomacy"
+  },
+  {
+    "key": "global_stat_increased",
+    "type": 0,
+    "en": "has increased ",
+    "vi": "has increased "
+  },
+  {
+    "key": "global_stat_decreased",
+    "type": 0,
+    "en": "has decreased",
+    "vi": "has decreased"
+  },
+  {
+    "key": "global_stat_religious_influence_name",
+    "type": 0,
+    "en": "Church of Restitution Renown",
+    "vi": "Church of Restitution Renown"
+  },
+  {
+    "key": "global_stat_pagan_influence_name",
+    "type": 0,
+    "en": "Oak Brethren Renown",
+    "vi": "Oak Brethren Renown"
+  },
+  {
+    "key": "global_stat_military_influence_name",
+    "type": 0,
+    "en": "Military Renown",
+    "vi": "Military Renown"
+  },
+  {
+    "key": "global_stat_trade_influence_name",
+    "type": 0,
+    "en": "Mercantile Renown",
+    "vi": "Mercantile Renown"
+  },
+  {
+    "key": "global_stat_cultural_influence_name",
+    "type": 0,
+    "en": "Intellectual Renown",
+    "vi": "Intellectual Renown"
+  },
+  {
+    "key": "global_stat_infamy_name",
+    "type": 0,
+    "en": "Infamy",
+    "vi": "Infamy"
+  },
+  {
+    "key": "global_stat_religious_influence_tooltip",
+    "type": 0,
+    "en": "Holding Eucharist events and having a top level Chaplain will help you spread your religious renown throughout the region. \nReaching 100% Church of Restitution Renown will give you the option to construct a Cathedral, cementing your regional eminence.",
+    "vi": "Holding Eucharist events and having a top level Chaplain will help you spread your religious renown throughout the region. \nReaching 100% Church of Restitution Renown will give you the option to construct a Cathedral, cementing your regional eminence."
+  },
+  {
+    "key": "global_stat_pagan_influence_tooltip",
+    "type": 0,
+    "en": "Holding Ritual events and having a top level Druid will help you spread your Oak Brethren renown in the region. \nReaching 100% Oak Brethren renown will give you the option to grow a Mighty Oak, symbolising your regional prestige.",
+    "vi": "Holding Ritual events and having a top level Druid will help you spread your Oak Brethren renown in the region. \nReaching 100% Oak Brethren renown will give you the option to grow a Mighty Oak, symbolising your regional prestige."
+  },
+  {
+    "key": "global_stat_military_influence_tooltip",
+    "type": 0,
+    "en": "Defeating enemies in combat and having a top level Sergeant-in-arms will help you spread your Military renown in the region.\nReaching 100% Military renown will allow you to prove your might by eradicating centers of bandit power in the region, deeming you Protector of the Realm.",
+    "vi": "Defeating enemies in combat and having a top level Sergeant-in-arms will help you spread your Military renown in the region.\nReaching 100% Military renown will allow you to prove your might by eradicating centers of bandit power in the region, deeming you Protector of the Realm."
+  },
+  {
+    "key": "global_stat_trade_influence_tooltip",
+    "type": 0,
+    "en": "Trading with merchants and sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you the option to establish a Charter Fair in your region, confirming your mercantile prowess.",
+    "vi": "Trading with merchants and sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you the option to establish a Charter Fair in your region, confirming your mercantile prowess."
+  },
+  {
+    "key": "global_stat_cultural_influence_tooltip",
+    "type": 0,
+    "en": "Holding scholarly events and having a top level Librarian will help spread your Intellectual renown across the region.\nReaching 100% will give you the option to become a University, confirming your status as a major seat of academic excellence.",
+    "vi": "Holding scholarly events and having a top level Librarian will help spread your Intellectual renown across the region.\nReaching 100% will give you the option to become a University, confirming your status as a major seat of academic excellence."
+  },
+  {
+    "key": "global_stat_infamy_tooltip",
+    "type": 0,
+    "en": "Killing prisoners and attacking neutral merchants will raise your infamy. Beware. Reaching 100% infamy means no one will trade with you, and someone may step up to rid the region of your malign influence.",
+    "vi": "Killing prisoners and attacking neutral merchants will raise your infamy. Beware. Reaching 100% infamy means no one will trade with you, and someone may step up to rid the region of your malign influence."
+  },
+  {
+    "key": "game_event_region_influence",
+    "type": 0,
+    "en": "Regional Renown",
+    "vi": "Regional Renown"
+  },
+  {
+    "key": "global_stat_religious_influence_news50",
+    "type": 0,
+    "en": "Your Church of Restitution Renown has increased. Bishops throughout the land speak your name in hushed admiration.",
+    "vi": "Your Church of Restitution Renown has increased. Bishops throughout the land speak your name in hushed admiration."
+  },
+  {
+    "key": "global_stat_religious_influence_news100",
+    "type": 0,
+    "en": "Your Church of Restitution Renown has increased to the holiest of heights: pilgrims flock from far and wide to hear you preach. You may now rejoice, and establish <village_name> Cathedral to share in His everlasting glory.",
+    "vi": "Your Church of Restitution Renown has increased to the holiest of heights: pilgrims flock from far and wide to hear you preach. You may now rejoice, and establish <village_name> Cathedral to share in His everlasting glory."
+  },
+  {
+    "key": "global_stat_pagan_influence_news50",
+    "type": 0,
+    "en": "Your Oak Brethren Renown has increased. Trees in the mighty forests of the nation are said to whisper your incantations.",
+    "vi": "Your Oak Brethren Renown has increased. Trees in the mighty forests of the nation are said to whisper your incantations."
+  },
+  {
+    "key": "global_stat_pagan_influence_news100",
+    "type": 0,
+    "en": "Your Oak Brethren Renown has increased and is now as lofty as the stars in the firmament above. You are invited to honour the ancestors by growing a Mighty Oak at <village_name>, to bless and shelter generations to come.",
+    "vi": "Your Oak Brethren Renown has increased and is now as lofty as the stars in the firmament above. You are invited to honour the ancestors by growing a Mighty Oak at <village_name>, to bless and shelter generations to come."
+  },
+  {
+    "key": "global_stat_military_influence_news50",
+    "type": 0,
+    "en": "Your Military Renown has increased. Bards sing of your might and valour, embroidering your every deed.",
+    "vi": "Your Military Renown has increased. Bards sing of your might and valour, embroidering your every deed."
+  },
+  {
+    "key": "global_stat_military_influence_news100",
+    "type": 0,
+    "en": "Your Military Renown has increased, and the might of <village_name>  is unsurpassed. You may now accept your ultimate challenge: to battle and subjugate all dissenting factions, and proclaim yourself Protector of the Realm.",
+    "vi": "Your Military Renown has increased, and the might of <village_name>  is unsurpassed. You may now accept your ultimate challenge: to battle and subjugate all dissenting factions, and proclaim yourself Protector of the Realm."
+  },
+  {
+    "key": "global_stat_trade_influence_news50",
+    "type": 0,
+    "en": "Your Mercantile Renown has increased. Never has commerce been more lucrative, nor such a crowd beat a path the marketplace.",
+    "vi": "Your Mercantile Renown has increased. Never has commerce been more lucrative, nor such a crowd beat a path the marketplace."
+  },
+  {
+    "key": "global_stat_trade_influence_news100",
+    "type": 0,
+    "en": "Your Mercantile Renown has increased to levels beyond your wildest dreams, and gold flows through <village_name> like water. You can now rally your guilds to establish a Charter Fair, the hallmark of a great trading centre.",
+    "vi": "Your Mercantile Renown has increased to levels beyond your wildest dreams, and gold flows through <village_name> like water. You can now rally your guilds to establish a Charter Fair, the hallmark of a great trading centre."
+  },
+  {
+    "key": "global_stat_cultural_influence_news50",
+    "type": 0,
+    "en": "Your Intellectual Renown has increased. Your scribes can barely meet the surging demand for manuscripts elucidating the theories espoused by your greatest thinkers.",
+    "vi": "Your Intellectual Renown has increased. Your scribes can barely meet the surging demand for manuscripts elucidating the theories espoused by your greatest thinkers."
+  },
+  {
+    "key": "global_stat_cultural_influence_news100",
+    "type": 0,
+    "en": "Your Intellectual Renown has increased to its zenith: your library attracts the most creative and erudite academics of our time. Carpe diem! You may establish <village_name> University, ensuring knowledge flourishes here in perpetuity.",
+    "vi": "Your Intellectual Renown has increased to its zenith: your library attracts the most creative and erudite academics of our time. Carpe diem! You may establish <village_name> University, ensuring knowledge flourishes here in perpetuity."
+  },
+  {
+    "key": "global_stat_infamy_news50",
+    "type": 0,
+    "en": "Your Infamy has increased. Notoriety comes at a price - this might cause negative repercussions from other factions.",
+    "vi": "Your Infamy has increased. Notoriety comes at a price - this might cause negative repercussions from other factions."
+  },
+  {
+    "key": "global_stat_infamy_news100",
+    "type": 0,
+    "en": "Your Infamy has increased such that your reputation cannot sink any lower. Transgressions will not go unpunished - you have become a pariah among other factions, who will shun your traders, and challenge <village_name> at any opportunity.",
+    "vi": "Your Infamy has increased such that your reputation cannot sink any lower. Transgressions will not go unpunished - you have become a pariah among other factions, who will shun your traders, and challenge <village_name> at any opportunity."
+  },
+  {
+    "key": "global_stat_infamy_news101",
+    "type": 0,
+    "en": "Increasing infamy further despite the final warning is the straw that broke the camel's back. Factions have united against <settlement_name>, and will attack without mercy.",
+    "vi": "Increasing infamy further despite the final warning is the straw that broke the camel's back. Factions have united against <settlement_name>, and will attack without mercy."
+  },
+  {
+    "key": "objective_Infamy_name",
+    "type": 0,
+    "en": "Tyrant Overlord",
+    "vi": "Tyrant Overlord"
+  },
+  {
+    "key": "objective_infamy_tooltip",
+    "type": 0,
+    "en": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation.",
+    "vi": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation."
+  },
+  {
+    "key": "objective_infamy_info",
+    "type": 0,
+    "en": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation.",
+    "vi": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation."
+  },
+  {
+    "key": "objective_infamy_survive_attacks",
+    "type": 0,
+    "en": "Survive",
+    "vi": "Survive"
+  },
+  {
+    "key": "objective_infamy_survive_attacks_info",
+    "type": 0,
+    "en": "Survive an onslaught of 3x waves of enemies. If you succeed, you will sieze ultimate power as the Tyrant Overlord of the region.",
+    "vi": "Survive an onslaught of 3x waves of enemies. If you succeed, you will sieze ultimate power as the Tyrant Overlord of the region."
+  },
+  {
+    "key": "religious_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Church of Restitution Renown is increasing in the region",
+    "vi": "Church of Restitution Renown is increasing in the region"
+  },
+  {
+    "key": "pagan_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Oak Brethren Renown is increasing in the region",
+    "vi": "Oak Brethren Renown is increasing in the region"
+  },
+  {
+    "key": "military_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Military Renown is increasing in the region",
+    "vi": "Military Renown is increasing in the region"
+  },
+  {
+    "key": "trade_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Mercantile Renown is increasing in the region",
+    "vi": "Mercantile Renown is increasing in the region"
+  },
+  {
+    "key": "cultural_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Intellectual Renown is increasing in the region",
+    "vi": "Intellectual Renown is increasing in the region"
+  },
+  {
+    "key": "game_event_type_final",
+    "type": 0,
+    "en": "Last Step",
+    "vi": "Last Step"
+  },
+  {
+    "key": "bbt_step_completed",
+    "type": 0,
+    "en": "Step completed: ",
+    "vi": "Step completed: "
+  },
+  {
+    "key": "objective_religious_name",
+    "type": 0,
+    "en": "Centre Of Pilgrimage",
+    "vi": "Centre Of Pilgrimage"
+  },
+  {
+    "key": "objective_religious_tooltip",
+    "type": 0,
+    "en": "Commit your settlement to become a Centre of Pilgrimage, which will make your Church of Restitution a cathedral.",
+    "vi": "Commit your settlement to become a Centre of Pilgrimage, which will make your Church of Restitution a cathedral."
+  },
+  {
+    "key": "objective_religious_info",
+    "type": 0,
+    "en": "You must establish your settlement as a Centre of Pilgrimage. In order to do this you need the following:",
+    "vi": "You must establish your settlement as a Centre of Pilgrimage. In order to do this you need the following:"
+  },
+  {
+    "key": "activate_objective_confirm",
+    "type": 0,
+    "en": "Taking on this objective means you will not be able to choose any other potential objective in this game scenario. Are you sure you want to proceed?",
+    "vi": "Taking on this objective means you will not be able to choose any other potential objective in this game scenario. Are you sure you want to proceed?"
+  },
+  {
+    "key": "objective_religious_have_priest",
+    "type": 0,
+    "en": "Chaplain Level 3",
+    "vi": "Chaplain Level 3"
+  },
+  {
+    "key": "objective_religious_have_priest_info",
+    "type": 0,
+    "en": "You need to have a chaplain level 3 in your settlement",
+    "vi": "You need to have a chaplain level 3 in your settlement"
+  },
+  {
+    "key": "objective_religious_build_chapel",
+    "type": 0,
+    "en": "Reliquary Chapel",
+    "vi": "Reliquary Chapel"
+  },
+  {
+    "key": "objective_religious_build_chapel_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for the Lady Chapel to be finalised",
+    "vi": "A new type of room has been unlocked. The room overview panel lists what is needed for the Lady Chapel to be finalised"
+  },
+  {
+    "key": "objective_religious_have_relic",
+    "type": 0,
+    "en": "Obtain Relic",
+    "vi": "Obtain Relic"
+  },
+  {
+    "key": "objective_religious_have_relic_info",
+    "type": 0,
+    "en": "Relics can be found in the region map in loot stashes. A pilgrim might guide you to help locate a relic.",
+    "vi": "Relics can be found in the region map in loot stashes. A pilgrim might guide you to help locate a relic."
+  },
+  {
+    "key": "objective_religious_have_relic_in_chapel",
+    "type": 0,
+    "en": "Enshrine Relic in Reliquary Chapel",
+    "vi": "Enshrine Relic in Reliquary Chapel"
+  },
+  {
+    "key": "objective_religious_have_relic_in_chapel_info",
+    "type": 0,
+    "en": "Enshrine the relic on a shelf in the Reliquary Chapel to start attracting pilgrims",
+    "vi": "Enshrine the relic on a shelf in the Reliquary Chapel to start attracting pilgrims"
+  },
+  {
+    "key": "objective_religious_visit_relic",
+    "type": 0,
+    "en": "Pilgrims to spread the word",
+    "vi": "Pilgrims to spread the word"
+  },
+  {
+    "key": "objective_religious_visit_relic_info",
+    "type": 0,
+    "en": "Encourage pilgrims to visit your Reliquary Chapel, and praise its power as a site of veneration.",
+    "vi": "Encourage pilgrims to visit your Reliquary Chapel, and praise its power as a site of veneration."
+  },
+  {
+    "key": "objective_religious_end_game",
+    "type": 0,
+    "en": "Become The Centre of Pilgrimage",
+    "vi": "Become The Centre of Pilgrimage"
+  },
+  {
+    "key": "objective_religious_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, enact a dedication ceremony that will confirm <village_name> as the New Centre of Pilgrimage in the region, and establish a Cathedral.",
+    "vi": "When everything is ready, enact a dedication ceremony that will confirm <village_name> as the New Centre of Pilgrimage in the region, and establish a Cathedral."
+  },
+  {
+    "key": "objective_religious_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished."
+  },
+  {
+    "key": "game_event_religious_final_name",
+    "type": 0,
+    "en": "Centre Of Pilgrimage",
+    "vi": "Centre Of Pilgrimage"
+  },
+  {
+    "key": "game_event_religious_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming The Centre of Pilgrimage. Doing so will call in a group of pilgrims to enact the final dedication ceremony.",
+    "vi": "You are about to trigger the last step in becoming The Centre of Pilgrimage. Doing so will call in a group of pilgrims to enact the final dedication ceremony."
+  },
+  {
+    "key": "objective_pagan_name",
+    "type": 0,
+    "en": "Pagan Sanctuary",
+    "vi": "Pagan Sanctuary"
+  },
+  {
+    "key": "objective_pagan_tooltip",
+    "type": 0,
+    "en": "Consecrate your settlement to become the Sanctuary of Reverence to the Old Gods.",
+    "vi": "Consecrate your settlement to become the Sanctuary of Reverence to the Old Gods."
+  },
+  {
+    "key": "objective_pagan_info",
+    "type": 0,
+    "en": "You must take root in this region as the rightful guardian of the Oak Brethren faith. In order to do this you need the following:",
+    "vi": "You must take root in this region as the rightful guardian of the Oak Brethren faith. In order to do this you need the following:"
+  },
+  {
+    "key": "objective_pagan_have_shaman",
+    "type": 0,
+    "en": "Druid Level 3",
+    "vi": "Druid Level 3"
+  },
+  {
+    "key": "objective_pagan_have_shaman_info",
+    "type": 0,
+    "en": "You need to have a Druid level 3 in your settlement",
+    "vi": "You need to have a Druid level 3 in your settlement"
+  },
+  {
+    "key": "objective_pagan_build_chapel_with_oak",
+    "type": 0,
+    "en": "Oak Brethren Sanctuary",
+    "vi": "Oak Brethren Sanctuary"
+  },
+  {
+    "key": "objective_pagan_build_chapel_with_oak_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for the sanctuary to be completed.",
+    "vi": "A new type of room has been unlocked. The room overview panel lists what is needed for the sanctuary to be completed."
+  },
+  {
+    "key": "objective_pagan_have_mighty_oak_reach_mature_phase",
+    "type": 0,
+    "en": "Mature a Mighty Oak",
+    "vi": "Mature a Mighty Oak"
+  },
+  {
+    "key": "objective_pagan_have_mighty_oak_reach_mature_phase_info",
+    "type": 0,
+    "en": "The Mighty Oak must be in mature phase for Oak Brethren pilgrims to arrive and broadcast word of its sanctity. Ensure the plant has enough sunlight to grow big and strong.",
+    "vi": "The Mighty Oak must be in mature phase for Oak Brethren pilgrims to arrive and broadcast word of its sanctity. Ensure the plant has enough sunlight to grow big and strong."
+  },
+  {
+    "key": "objective_pagan_visit_mighty_oak",
+    "type": 0,
+    "en": "Pilgrims to spread the word",
+    "vi": "Pilgrims to spread the word"
+  },
+  {
+    "key": "objective_pagan_visit_mighty_oak_info",
+    "type": 0,
+    "en": "Encourage pilgrim visitors to revere your Mighty Oak, and broadcast word of its divine nature widely.",
+    "vi": "Encourage pilgrim visitors to revere your Mighty Oak, and broadcast word of its divine nature widely."
+  },
+  {
+    "key": "objective_pagan_end_game",
+    "type": 0,
+    "en": "Become The Pagan Sanctuary",
+    "vi": "Become The Pagan Sanctuary"
+  },
+  {
+    "key": "objective_pagan_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, enact a transcendent ritual that will confirm <village_name> as the New Pagan Sanctuary in the region, and home of the legendary Mighty Oak.",
+    "vi": "When everything is ready, enact a transcendent ritual that will confirm <village_name> as the New Pagan Sanctuary in the region, and home of the legendary Mighty Oak."
+  },
+  {
+    "key": "objective_pagan_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished."
+  },
+  {
+    "key": "game_event_pagan_final_name",
+    "type": 0,
+    "en": "Pagan Sanctuary",
+    "vi": "Pagan Sanctuary"
+  },
+  {
+    "key": "game_event_pagan_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming the The Pagan Sanctuary. Doing so will call in a group of pilgrims to enact the final transcendent ritual.",
+    "vi": "You are about to trigger the last step in becoming the The Pagan Sanctuary. Doing so will call in a group of pilgrims to enact the final transcendent ritual."
+  },
+  {
+    "key": "objective_intellectual_name",
+    "type": 0,
+    "en": "New University",
+    "vi": "New University"
+  },
+  {
+    "key": "objective_intellectual_tooltip",
+    "type": 0,
+    "en": "Establish your settlement to become the new Leading Academic Institution of your region.",
+    "vi": "Establish your settlement to become the new Leading Academic Institution of your region."
+  },
+  {
+    "key": "objective_intellectual_info",
+    "type": 0,
+    "en": "You must assert your impact in this region as the focal point of intellect and culture. In order to do this, you need the following:",
+    "vi": "You must assert your impact in this region as the focal point of intellect and culture. In order to do this, you need the following:"
+  },
+  {
+    "key": "objective_intellectual_have_scholar",
+    "type": 0,
+    "en": "Librarian Level 3",
+    "vi": "Librarian Level 3"
+  },
+  {
+    "key": "objective_intellectual_have_scholar_info",
+    "type": 0,
+    "en": "You need to have a librarian level 3 in your settlement",
+    "vi": "You need to have a librarian level 3 in your settlement"
+  },
+  {
+    "key": "objective_intellectual_build_grand_library",
+    "type": 0,
+    "en": "Fellows' Library",
+    "vi": "Fellows' Library"
+  },
+  {
+    "key": "objective_intellectual_build_grand_library_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for this elite academic library to be completed.",
+    "vi": "A new type of room has been unlocked. The room overview panel lists what is needed for this elite academic library to be completed."
+  },
+  {
+    "key": "objective_intellectual_have_grand_book",
+    "type": 0,
+    "en": "Produce an Influential Treatise",
+    "vi": "Produce an Influential Treatise"
+  },
+  {
+    "key": "objective_intellectual_have_grand_book_info",
+    "type": 0,
+    "en": "With the Grand Research Table, produce an Influential Treatise encompassing all the knowledge accumulated in the Fellows' Library.",
+    "vi": "With the Grand Research Table, produce an Influential Treatise encompassing all the knowledge accumulated in the Fellows' Library."
+  },
+  {
+    "key": "objective_intellectual_end_game",
+    "type": 0,
+    "en": "Become a New University",
+    "vi": "Become a New University"
+  },
+  {
+    "key": "objective_intellectual_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, assemble the dons to proclaim your charter of commitment to academic excellence. This will confirm <village_name> University as the Leading Academic Institution of your region",
+    "vi": "When everything is ready, assemble the dons to proclaim your charter of commitment to academic excellence. This will confirm <village_name> University as the Leading Academic Institution of your region"
+  },
+  {
+    "key": "objective_intellectual_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished."
+  },
+  {
+    "key": "game_event_intellectual_final_name",
+    "type": 0,
+    "en": "New University",
+    "vi": "New University"
+  },
+  {
+    "key": "game_event_intellectual_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming the New University. Doing so will call in a group of scholars to proclaim your charter of commitment to academic excellence.",
+    "vi": "You are about to trigger the last step in becoming the New University. Doing so will call in a group of scholars to proclaim your charter of commitment to academic excellence."
+  },
+  {
+    "key": "objective_military_name",
+    "type": 0,
+    "en": "Protector of the Realm",
+    "vi": "Protector of the Realm"
+  },
+  {
+    "key": "objective_military_tooltip",
+    "type": 0,
+    "en": "Rally your settlement to become the new Protector of the Realm",
+    "vi": "Rally your settlement to become the new Protector of the Realm"
+  },
+  {
+    "key": "objective_military_info",
+    "type": 0,
+    "en": "You must dutifully claim your loyalty to this region as Protector of the Realm. In order to do this you must enact the following:",
+    "vi": "You must dutifully claim your loyalty to this region as Protector of the Realm. In order to do this you must enact the following:"
+  },
+  {
+    "key": "objective_military_defeat_bandit_camps",
+    "type": 0,
+    "en": "Defeat Bandit Strongholds",
+    "vi": "Defeat Bandit Strongholds"
+  },
+  {
+    "key": "objective_military_defeat_bandit_camps_info",
+    "type": 0,
+    "en": "Defeat the major bandit strongholds in the region so that none may rise to challenge your authority.",
+    "vi": "Defeat the major bandit strongholds in the region so that none may rise to challenge your authority."
+  },
+  {
+    "key": "objective_miltary_end_game",
+    "type": 0,
+    "en": "Become Protector of the Realm",
+    "vi": "Become Protector of the Realm"
+  },
+  {
+    "key": "objective_miltary_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, set forth <village_name>'s brightest banners and gilded knights. Your heralds shall proclaim that you have earned the most honourable of titles: Defender of the Realm.",
+    "vi": "When everything is ready, set forth <village_name>'s brightest banners and gilded knights. Your heralds shall proclaim that you have earned the most honourable of titles: Defender of the Realm."
+  },
+  {
+    "key": "objective_trade_name",
+    "type": 0,
+    "en": "Charter Fair",
+    "vi": "Charter Fair"
+  },
+  {
+    "key": "objective_trade_tooltip",
+    "type": 0,
+    "en": "Inspire your settlement to become the new Centre of Trade in your region",
+    "vi": "Inspire your settlement to become the new Centre of Trade in your region"
+  },
+  {
+    "key": "objective_trade_info",
+    "type": 0,
+    "en": "You must take proclaim your value to this region as the Centre of Trade. In order to do this you need the following:",
+    "vi": "You must take proclaim your value to this region as the Centre of Trade. In order to do this you need the following:"
+  },
+  {
+    "key": "objective_trade_have_gold",
+    "type": 0,
+    "en": "Accumulate Gold Coin",
+    "vi": "Accumulate Gold Coin"
+  },
+  {
+    "key": "objective_trade_have_gold_info",
+    "type": 0,
+    "en": "Accumulate sufficient gold coins in your treasury ",
+    "vi": "Accumulate sufficient gold coins in your treasury "
+  },
+  {
+    "key": "objective_trade_have_broker",
+    "type": 0,
+    "en": "Broker Level 3",
+    "vi": "Broker Level 3"
+  },
+  {
+    "key": "objective_trade_have_broker_info",
+    "type": 0,
+    "en": "You need to have a broker level 3 in your settlement",
+    "vi": "You need to have a broker level 3 in your settlement"
+  },
+  {
+    "key": "objective_trade_make_trade_deal",
+    "type": 0,
+    "en": "Negotiate a Trade Agreement",
+    "vi": "Negotiate a Trade Agreement"
+  },
+  {
+    "key": "objective_trade_make_trade_deal_info",
+    "type": 0,
+    "en": "Secure at least one Trade Agreement with a friendly faction in your region. A broker will visit your settlement to offer a trade deal now that your mercantile renown is high.",
+    "vi": "Secure at least one Trade Agreement with a friendly faction in your region. A broker will visit your settlement to offer a trade deal now that your mercantile renown is high."
+  },
+  {
+    "key": "objective_trade_build_market_center_marker",
+    "type": 0,
+    "en": "Market Cross",
+    "vi": "Market Cross"
+  },
+  {
+    "key": "objective_trade_build_market_center_marker_info",
+    "type": 0,
+    "en": "Construct a Market Cross monument as a symbol of your mercantile prestige.",
+    "vi": "Construct a Market Cross monument as a symbol of your mercantile prestige."
+  },
+  {
+    "key": "objective_trade_end_game",
+    "type": 0,
+    "en": "Become The Centre of Trade",
+    "vi": "Become The Centre of Trade"
+  },
+  {
+    "key": "objective_trade_end_game_info",
+    "type": 0,
+    "en": "When everything is prepared, celebrate the inaugural Charter Fair, drawing in customers from far and wide. Proclaim your prestige as the region's leading Centre of Trade.",
+    "vi": "When everything is prepared, celebrate the inaugural Charter Fair, drawing in customers from far and wide. Proclaim your prestige as the region's leading Centre of Trade."
+  },
+  {
+    "key": "objective_trade_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished."
+  },
+  {
+    "key": "game_event_trade_final_name",
+    "type": 0,
+    "en": "Charter Fair",
+    "vi": "Charter Fair"
+  },
+  {
+    "key": "game_event_trade_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming The Centre of Trade. Doing so will call in a group of merchants and customers, who will arrive to proclaim your charter of trade and open the Inaugural Charter Fair.",
+    "vi": "You are about to trigger the last step in becoming The Centre of Trade. Doing so will call in a group of merchants and customers, who will arrive to proclaim your charter of trade and open the Inaugural Charter Fair."
+  },
+  {
+    "key": "game_event_end_game_name",
+    "type": 0,
+    "en": "And so it ends",
+    "vi": "And so it ends"
+  },
+  {
+    "key": "game_event_type_end_game",
+    "type": 0,
+    "en": "Congratulations!",
+    "vi": "Congratulations!"
+  },
+  {
+    "key": "game_event_description_end_game",
+    "type": 0,
+    "en": "Congratulations! You have reached the end of Going Medieval. Although the game is completed, you can continue playing for as long you want.",
+    "vi": "Congratulations! You have reached the end of Going Medieval. Although the game is completed, you can continue playing for as long you want."
+  },
+  {
+    "key": "continue_playing",
+    "type": 0,
+    "en": "Continue playing",
+    "vi": "Continue playing"
+  },
+  {
+    "key": "lb_force_unequip",
+    "type": 0,
+    "en": "Force Unequip",
+    "vi": "Force Unequip"
+  },
+  {
+    "key": "lb_yearly_override",
+    "type": 0,
+    "en": "Yearly Override",
+    "vi": "Yearly Override"
+  },
+  {
+    "key": "lb_force_unequip_tooltip",
+    "type": 0,
+    "en": "If checked, the settler will drop items from the inventory that do not meet criteria.",
+    "vi": "If checked, the settler will drop items from the inventory that do not meet criteria."
+  },
+  {
+    "key": "pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "news_name_pilgrim",
+    "type": 0,
+    "en": "Pilgrim Arrives",
+    "vi": "Pilgrim Arrives"
+  },
+  {
+    "key": "general_pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "general_pilgrim_restitutionist",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "pilgrim_restitutionist",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "pilgrim_visitor_1",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Oak Brethren Pilgrim"
+  },
+  {
+    "key": "general_pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Oak Brethren Pilgrim"
+  },
+  {
+    "key": "pilgrim_pagan",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Oak Brethren Pilgrim"
+  },
+  {
+    "key": "general_pilgrim_pagan",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Oak Brethren Pilgrim"
+  },
+  {
+    "key": "news_name_scholar",
+    "type": 0,
+    "en": "Travelling Scholar arrives",
+    "vi": "Travelling Scholar arrives"
+  },
+  {
+    "key": "scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Travelling Scholar"
+  },
+  {
+    "key": "general_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Travelling Scholar"
+  },
+  {
+    "key": "pilgrim_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Travelling Scholar"
+  },
+  {
+    "key": "general_pilgrim_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Travelling Scholar"
+  },
+  {
+    "key": "news_name_broker",
+    "type": 0,
+    "en": "Broker arrives",
+    "vi": "Broker arrives"
+  },
+  {
+    "key": "general_broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Broker"
+  },
+  {
+    "key": "trade_deal_name",
+    "type": 0,
+    "en": "Trade Agreement Location",
+    "vi": "Trade Agreement Location"
+  },
+  {
+    "key": "trade_deal_bonus",
+    "type": 0,
+    "en": "Trade Agreement Bonus",
+    "vi": "Trade Agreement Bonus"
+  },
+  {
+    "key": "trade_deal_dialog_title",
+    "type": 0,
+    "en": "Trade Agreement",
+    "vi": "Trade Agreement"
+  },
+  {
+    "key": "trade_deal_dialog_name",
+    "type": 0,
+    "en": "Trade Agreement Sealed",
+    "vi": "Trade Agreement Sealed"
+  },
+  {
+    "key": "trade_deal_dialog_info",
+    "type": 0,
+    "en": "A trade agreement has been signed and sealed. You gave <resources> worth <wealth> to <faction_name> as a token of good faith to help broker the deal.",
+    "vi": "A trade agreement has been signed and sealed. You gave <resources> worth <wealth> to <faction_name> as a token of good faith to help broker the deal."
+  },
+  {
+    "key": "cannot_negotiate_with_non_broker",
+    "type": 0,
+    "en": "Only your Broker can negotiate a deal",
+    "vi": "Only your Broker can negotiate a deal"
+  },
+  {
+    "key": "cannot_negotiate_broker_level_too_low",
+    "type": 0,
+    "en": "Only your Broker can negotiate a deal",
+    "vi": "Only your Broker can negotiate a deal"
+  },
+  {
+    "key": "trade_deal_demand_option",
+    "type": 0,
+    "en": "<resources> with total value of <wealth>",
+    "vi": "<resources> with total value of <wealth>"
+  },
+  {
+    "key": "lb_allow_for_production",
+    "type": 0,
+    "en": "Allow Usage In Production:",
+    "vi": "Allow Usage In Production:"
+  },
+  {
+    "key": "lb_allow_for_production_info",
+    "type": 0,
+    "en": "Toggles if the resource from this storage can be used in any sort of production. If turned off, resources will be forbidden for use in production but can still be consumed, hauled, equipped and used for other jobs like sowing and construction.",
+    "vi": "Toggles if the resource from this storage can be used in any sort of production. If turned off, resources will be forbidden for use in production but can still be consumed, hauled, equipped and used for other jobs like sowing and construction."
+  },
+  {
+    "key": "general_market_crowd",
+    "type": 0,
+    "en": "Onlooker",
+    "vi": "Onlooker"
+  },
+  {
+    "key": "general_role",
+    "type": 0,
+    "en": "Role",
+    "vi": "Role"
+  },
+  {
+    "key": "broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Broker"
+  },
+  {
+    "key": "assign_role_info",
+    "type": 0,
+    "en": "Assign a community role to this settler",
+    "vi": "Assign a community role to this settler"
+  },
+  {
+    "key": "hours_spent_in_role",
+    "type": 0,
+    "en": "Time in this role",
+    "vi": "Time in this role"
+  },
+  {
+    "key": "mods_present",
+    "type": 0,
+    "en": "Mods present",
+    "vi": "Mods present"
+  },
+  {
+    "key": "mods_currently_enabled",
+    "type": 0,
+    "en": "Currently enabled",
+    "vi": "Currently enabled"
+  },
+  {
+    "key": "mods_from_save",
+    "type": 0,
+    "en": "Mods from save",
+    "vi": "Mods from save"
+  },
+  {
+    "key": "system_cover",
+    "type": 0,
+    "en": "Cover Effectiveness",
+    "vi": "Cover Effectiveness"
+  },
+  {
+    "key": "system_cover_info",
+    "type": 0,
+    "en": "-Cover effectiveness indicates what percentage of incoming projectiles will be stopped.\\n- Projectiles will ignore cover that is 3x grid spaces in front of the shooter, This means that archers standing behind merlons will be protected but their arrows will not be stopped by the merlon.\\n- Almost everything offers some cover, from bushes to torches. This means that for archers to have the best shot, they need a clear, unobstructed line of sight.",
+    "vi": "-Cover effectiveness indicates what percentage of incoming projectiles will be stopped.\\n- Projectiles will ignore cover that is 3x grid spaces in front of the shooter, This means that archers standing behind merlons will be protected but their arrows will not be stopped by the merlon.\\n- Almost everything offers some cover, from bushes to torches. This means that for archers to have the best shot, they need a clear, unobstructed line of sight."
+  },
+  {
+    "key": "system_equipment_quality_info",
+    "type": 0,
+    "en": "- All items like weapons, armour and apparel have a quality level.\\n- Quality levels are:<b> flimsy, sturdy, good, fine, superior and flawless</b>.\\n- Higher quality levels mean the item is more durable, and has better attributes, such as damage or range.\\nSome items may have different modifiers depending on their quality.\\n- Your settlers have a higher chance of producing better quality items if their skill in that field is higher. \\n- When highly-skilled settlers are in a good mood, their chances of producing a flawless item will also increase slightly.\n",
+    "vi": "- All items like weapons, armour and apparel have a quality level.\\n- Quality levels are:<b> flimsy, sturdy, good, fine, superior and flawless</b>.\\n- Higher quality levels mean the item is more durable, and has better attributes, such as damage or range.\\nSome items may have different modifiers depending on their quality.\\n- Your settlers have a higher chance of producing better quality items if their skill in that field is higher. \\n- When highly-skilled settlers are in a good mood, their chances of producing a flawless item will also increase slightly.\n"
+  },
+  {
+    "key": "system_temperature_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Outside & Inside Temperature\\n</style>- Outdoor temperature is shown in the top right corner of the screen next to the time.\\n- This temperature is the global outdoor temperature that is further modified by sunlight, shade, proximity to heat sources, etc. \\n- Outdoor temperature depends on the season, time of day and active weather events such as cold snaps or heatwaves.\\n- You can inspect temperature using the temperature overlay on the upper left panel <sprite=\"temp_overlay_text_icon\" index=t>. \\n- To view indoor temperature, mouse over a room. Its temperature will be displayed replacing the outdoor temperature reading, in the top right corner. Alternatively, select the room to see this information.\\n- Indoor temperature depends on the outdoor temperature, and the room's insulation, as well as elements that have thermal output inside the room, like torches or a campfire.\\n<style=AlmParagraph>\\nKeeping cold\\n</style>If you want to have a colder room during the summertime, you can:\\n- build a room underground. \\n- use material that has high insulation, such as clay.\\n- keep windows open and extinguish all heat sources inside that room.\\n- Note that windows that let sunlight in can also heat up the room\\n- Store ice blocks to further cool the area around them. \\n<style=AlmParagraph>\\nKeeping warm\\n</style>If you want to have warm rooms during the wintertime, you can:\\n- place heat sources inside the rooms.\\n- close all windows to keep the warmth inside.",
+    "vi": "<style=AlmParagraph>Outside & Inside Temperature\\n</style>- Outdoor temperature is shown in the top right corner of the screen next to the time.\\n- This temperature is the global outdoor temperature that is further modified by sunlight, shade, proximity to heat sources, etc. \\n- Outdoor temperature depends on the season, time of day and active weather events such as cold snaps or heatwaves.\\n- You can inspect temperature using the temperature overlay on the upper left panel <sprite=\"temp_overlay_text_icon\" index=t>. \\n- To view indoor temperature, mouse over a room. Its temperature will be displayed replacing the outdoor temperature reading, in the top right corner. Alternatively, select the room to see this information.\\n- Indoor temperature depends on the outdoor temperature, and the room's insulation, as well as elements that have thermal output inside the room, like torches or a campfire.\\n<style=AlmParagraph>\\nKeeping cold\\n</style>If you want to have a colder room during the summertime, you can:\\n- build a room underground. \\n- use material that has high insulation, such as clay.\\n- keep windows open and extinguish all heat sources inside that room.\\n- Note that windows that let sunlight in can also heat up the room\\n- Store ice blocks to further cool the area around them. \\n<style=AlmParagraph>\\nKeeping warm\\n</style>If you want to have warm rooms during the wintertime, you can:\\n- place heat sources inside the rooms.\\n- close all windows to keep the warmth inside."
+  },
+  {
+    "key": "system_armour_attributes_info",
+    "type": 0,
+    "en": "<style=AlmParagraph><sprite=\"body_armor_icon\" index=t> Armour rating\\n</style>- Armour rating further reduces the incoming damage after the armour penetration weapon attribute is taken into account. The higher the armour rating the better. \\n- Armour rating reduces as the armour piece loses its HP.\\n<style=AlmParagraph>\\n<sprite=\"cover_icon\" index=t> Cover amount\\n</style>- A shield's cover amount is the amount of incoming attacks the shield will absorb. Damage is fully absorbed by the shield but the shield takes the damage (multiplied by the weapon's armour damage).\\n- The final percentage of incoming blows absorbed is the shield cover amount + the opponent's evade chance attribute. ",
+    "vi": "<style=AlmParagraph><sprite=\"body_armor_icon\" index=t> Armour rating\\n</style>- Armour rating further reduces the incoming damage after the armour penetration weapon attribute is taken into account. The higher the armour rating the better. \\n- Armour rating reduces as the armour piece loses its HP.\\n<style=AlmParagraph>\\n<sprite=\"cover_icon\" index=t> Cover amount\\n</style>- A shield's cover amount is the amount of incoming attacks the shield will absorb. Damage is fully absorbed by the shield but the shield takes the damage (multiplied by the weapon's armour damage).\\n- The final percentage of incoming blows absorbed is the shield cover amount + the opponent's evade chance attribute. "
+  },
+  {
+    "key": "system_clothing_attributes_info",
+    "type": 0,
+    "en": "<style=AlmParagraph><sprite=\"temperature_min_icon\" index=t> Minimum comfortable temperature\\n</style>- Clothing can adjust the wearer's minimum comfortable temperature so that they are less affected by the cold. In the case of winter clothing, the wearer can withstand lower temperatures without negative effects. E.g.: A settler's minimum comfortable temperature is 3°C but winter clothing adds -20°C. The settler's effective minimum comfortable temperature is now -17°C.\\n<style=AlmParagraph>\\n<sprite=\"temperature_max_icon\" index=t> Maximum comfortable temperature\\n</style>- Clothing can also adjust the wearer's maximum comfortable temperature. In the case of summer clothing, this means that they withstand higher temperatures without negative effects. ",
+    "vi": "<style=AlmParagraph><sprite=\"temperature_min_icon\" index=t> Minimum comfortable temperature\\n</style>- Clothing can adjust the wearer's minimum comfortable temperature so that they are less affected by the cold. In the case of winter clothing, the wearer can withstand lower temperatures without negative effects. E.g.: A settler's minimum comfortable temperature is 3°C but winter clothing adds -20°C. The settler's effective minimum comfortable temperature is now -17°C.\\n<style=AlmParagraph>\\n<sprite=\"temperature_max_icon\" index=t> Maximum comfortable temperature\\n</style>- Clothing can also adjust the wearer's maximum comfortable temperature. In the case of summer clothing, this means that they withstand higher temperatures without negative effects. "
+  },
+  {
+    "key": "system_higher_ground_info",
+    "type": 0,
+    "en": "- An archer (or other settler with a ranged weapon equipped) placed at least one level higher than their target gets a bonus to precision, range and critical hit chance. The projectile's trail will be red when fired from higher ground.\\n- If an archer is at least one level lower than their target, they will lose precision, range and critical hit chance. Projectiles fired from lower ground have a blue trail.",
+    "vi": "- An archer (or other settler with a ranged weapon equipped) placed at least one level higher than their target gets a bonus to precision, range and critical hit chance. The projectile's trail will be red when fired from higher ground.\\n- If an archer is at least one level lower than their target, they will lose precision, range and critical hit chance. Projectiles fired from lower ground have a blue trail."
+  },
+  {
+    "key": "system_effectors_info",
+    "type": 0,
+    "en": "- Modifiers vary attributes, priorities, mood and stats.\\n- Modifiers can be activated by consuming something or by equipping something\\n- E.g.: equipping heavy armour modifies a settler's movement and evade chance.\\nEach settler can activate differing modifiers, depending on their perks.\\n- E.g.: A settler with the Austere perk gets negative modifiers from a lavish meal , but positive effects from eating raw food.\\n- A list of active modifiers is found in the stats tab in the additional settler selection panel.\\n- A list of mood modifiers is found in the mood tab.\\n\\n- Wounds are also a type of modifier, because they affect certain settler attributes. But they differ from regular modifiers because they can cause bleeding, and have varied effects depending on their severity. ",
+    "vi": "- Modifiers vary attributes, priorities, mood and stats.\\n- Modifiers can be activated by consuming something or by equipping something\\n- E.g.: equipping heavy armour modifies a settler's movement and evade chance.\\nEach settler can activate differing modifiers, depending on their perks.\\n- E.g.: A settler with the Austere perk gets negative modifiers from a lavish meal , but positive effects from eating raw food.\\n- A list of active modifiers is found in the stats tab in the additional settler selection panel.\\n- A list of mood modifiers is found in the mood tab.\\n\\n- Wounds are also a type of modifier, because they affect certain settler attributes. But they differ from regular modifiers because they can cause bleeding, and have varied effects depending on their severity. "
+  },
+  {
+    "key": "system_equipment_quality_name",
+    "type": 0,
+    "en": "Item Quality",
+    "vi": "Item Quality"
+  },
+  {
+    "key": "system_temperature",
+    "type": 0,
+    "en": "Temperature ",
+    "vi": "Temperature "
+  },
+  {
+    "key": "system_temperature_name",
+    "type": 0,
+    "en": "Temperature ",
+    "vi": "Temperature "
+  },
+  {
+    "key": "system_armour_attributes_name",
+    "type": 0,
+    "en": "Armour & Shield Attributes",
+    "vi": "Armour & Shield Attributes"
+  },
+  {
+    "key": "system_clothing_attributes_name",
+    "type": 0,
+    "en": "Clothing Attributes",
+    "vi": "Clothing Attributes"
+  },
+  {
+    "key": "system_higher_ground_name",
+    "type": 0,
+    "en": "Higher Ground",
+    "vi": "Higher Ground"
+  },
+  {
+    "key": "system_effectors_name",
+    "type": 0,
+    "en": "Modifiers",
+    "vi": "Modifiers"
+  },
+  {
+    "key": "system_decomposition",
+    "type": 0,
+    "en": "Decomposition & Rot",
+    "vi": "Decomposition & Rot"
+  },
+  {
+    "key": "system_decomposition_info",
+    "type": 0,
+    "en": "Certain resources and items can decompose or rot\\nReasons for decomposition and rotting:\\n- <b>Being outdoors</b> - Leaving your resources to get affected by the rain or snow will make them decompose faster. Place a roof over your stockpile to stop this from happening.\\n- <b>Temperature</b> - Resources like food will decompose faster during the summer\\n- <b>Ground-type</b> - Don’t leave your resources on the ground. Build floors underneath your stockpile zones to slow down decomposition.",
+    "vi": "Certain resources and items can decompose or rot\\nReasons for decomposition and rotting:\\n- <b>Being outdoors</b> - Leaving your resources to get affected by the rain or snow will make them decompose faster. Place a roof over your stockpile to stop this from happening.\\n- <b>Temperature</b> - Resources like food will decompose faster during the summer\\n- <b>Ground-type</b> - Don’t leave your resources on the ground. Build floors underneath your stockpile zones to slow down decomposition."
+  },
+  {
+    "key": "system_fermentation",
+    "type": 0,
+    "en": "Fermentation",
+    "vi": "Fermentation"
+  },
+  {
+    "key": "system_fermentation_info",
+    "type": 0,
+    "en": "Some resources like curdling milk can ferment if the temperature is right. Resources that ferment will turn into new resources after the fermentation process is finished. Example: Curdling milk will turn into cheese.",
+    "vi": "Some resources like curdling milk can ferment if the temperature is right. Resources that ferment will turn into new resources after the fermentation process is finished. Example: Curdling milk will turn into cheese."
+  },
+  {
+    "key": "system_stability",
+    "type": 0,
+    "en": "Stability",
+    "vi": "Stability"
+  },
+  {
+    "key": "system_stability_info",
+    "type": 0,
+    "en": "- Each structure has a stability value.\\n- This determines whether you can attach other structures to it.\\n- When set on the ground, a structure has a stability value of <b>4</b>. Each structure attached to it will have <b>-1</b> stability the further away it is placed.\\n- You cannot position a structure with a stability value of <b>0</b>.\\n- The vertical stability value remains unchanged.\\n- To view the stability values around your current cursor position, turn the stability visualizer on. <sprite=\"stability_overlay_text_icon\" index=t> \\n<style=AlmParagraph>\\nBeams\\n</style>\\n- Place beams between two walls or terrain voxels. If one of these gets destroyed, this will also destroy the beam and everything resting on it. \\n- A beam has a maximum range of 10 grid spaces.\\n- The beam will inherit the lower stability value of the two walls/voxels it ties together.\\n- Walls, windows, doors, roofs, merlons, and floors are the only things that you can place on beams. ",
+    "vi": "- Each structure has a stability value.\\n- This determines whether you can attach other structures to it.\\n- When set on the ground, a structure has a stability value of <b>4</b>. Each structure attached to it will have <b>-1</b> stability the further away it is placed.\\n- You cannot position a structure with a stability value of <b>0</b>.\\n- The vertical stability value remains unchanged.\\n- To view the stability values around your current cursor position, turn the stability visualizer on. <sprite=\"stability_overlay_text_icon\" index=t> \\n<style=AlmParagraph>\\nBeams\\n</style>\\n- Place beams between two walls or terrain voxels. If one of these gets destroyed, this will also destroy the beam and everything resting on it. \\n- A beam has a maximum range of 10 grid spaces.\\n- The beam will inherit the lower stability value of the two walls/voxels it ties together.\\n- Walls, windows, doors, roofs, merlons, and floors are the only things that you can place on beams. "
+  },
+  {
+    "key": "jobs_tooltip",
+    "type": 0,
+    "en": "Jobs set to the same priority level will be prioritized left to right.",
+    "vi": "Jobs set to the same priority level will be prioritized left to right."
+  },
+  {
+    "key": "gameplay_tips_camera_control",
+    "type": 0,
+    "en": "Camera Control",
+    "vi": "Camera Control"
+  },
+  {
+    "key": "gameplay_tips_camera_control_info",
+    "type": 0,
+    "en": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n",
+    "vi": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n"
+  },
+  {
+    "key": "photo_mode_instructions",
+    "type": 0,
+    "en": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n",
+    "vi": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_equipment",
+    "type": 0,
+    "en": "Equipment",
+    "vi": "Equipment"
+  },
+  {
+    "key": "gameplay_tips_equipment_info",
+    "type": 0,
+    "en": "- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler, then [<sprite=\"ctrl_right_click\" index=t>] on an item and order them to equip it. \\n\\n<style=Desc>TIP: Equip melee weapons to settlers who are proficient at melee fighting, and ranged weapons to those proficient with ranged attacks.\\n<style=Desc>TIP: Choose clothes to suit the weather. Cold weather requires winter clothes!</style>\\n",
+    "vi": "- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler, then [<sprite=\"ctrl_right_click\" index=t>] on an item and order them to equip it. \\n\\n<style=Desc>TIP: Equip melee weapons to settlers who are proficient at melee fighting, and ranged weapons to those proficient with ranged attacks.\\n<style=Desc>TIP: Choose clothes to suit the weather. Cold weather requires winter clothes!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_game_speed",
+    "type": 0,
+    "en": "Game Speed",
+    "vi": "Game Speed"
+  },
+  {
+    "key": "gameplay_tips_game_speed_info",
+    "type": 0,
+    "en": "- You can speed up, slow down, or pause time.\\n- Click on the speed keys or use [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] to change the game speed.\\n- Click the pause icon or press [<style=Shortcut><input:GamePause></style>] to pause the game.\\n- You can give orders, place buildings, and draft settlers while the game is paused.\\n\\n<style=Desc>TIP: This is especially useful if things get hectic.</style>\\n",
+    "vi": "- You can speed up, slow down, or pause time.\\n- Click on the speed keys or use [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] to change the game speed.\\n- Click the pause icon or press [<style=Shortcut><input:GamePause></style>] to pause the game.\\n- You can give orders, place buildings, and draft settlers while the game is paused.\\n\\n<style=Desc>TIP: This is especially useful if things get hectic.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "gameplay_tips_jobs_info",
+    "type": 0,
+    "en": "- Prioritize each settler's tasks in the Jobs panel .\\n- Use <sprite=\"ctrl_left_click\" index=t> to increase the priority of a job, and <sprite=\"ctrl_right_click\" index=t> to decrease it.\\n- Settlers will always do the job with the highest priority first.\\n- If the job box is empty, the settler will never do that job.\\n- If numbers are equal, settlers will prioritise jobs from left to right.\\n- Box frames indicate the settler's skill level. Stars show their likes and dislikes.\\n\\n<style=Desc>TIP: Settlers can fail jobs if their skill is low, so turning jobs off can be useful!</style>\\n",
+    "vi": "- Prioritize each settler's tasks in the Jobs panel .\\n- Use <sprite=\"ctrl_left_click\" index=t> to increase the priority of a job, and <sprite=\"ctrl_right_click\" index=t> to decrease it.\\n- Settlers will always do the job with the highest priority first.\\n- If the job box is empty, the settler will never do that job.\\n- If numbers are equal, settlers will prioritise jobs from left to right.\\n- Box frames indicate the settler's skill level. Stars show their likes and dislikes.\\n\\n<style=Desc>TIP: Settlers can fail jobs if their skill is low, so turning jobs off can be useful!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_layer_control",
+    "type": 0,
+    "en": "World Layers",
+    "vi": "World Layers"
+  },
+  {
+    "key": "gameplay_tips_layer_control_info",
+    "type": 0,
+    "en": "- You can switch between layers and the floors of buildings.\\n- This will hide objects and terrain above the selected level.\\n- Use the layer up & down buttons in the top left, or [<style=Shortcut><input:LayerUp></style>] and [<style=Shortcut><input:LayerDown></style>]. \\n\\n<style=Desc>TIP: This is useful for customising multi-storey buildings.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <style=Shortcut>Mouse wheel</style> to quickly switch through layers.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on an object to jump to its layer.</style>\\n",
+    "vi": "- You can switch between layers and the floors of buildings.\\n- This will hide objects and terrain above the selected level.\\n- Use the layer up & down buttons in the top left, or [<style=Shortcut><input:LayerUp></style>] and [<style=Shortcut><input:LayerDown></style>]. \\n\\n<style=Desc>TIP: This is useful for customising multi-storey buildings.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <style=Shortcut>Mouse wheel</style> to quickly switch through layers.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on an object to jump to its layer.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_move",
+    "type": 0,
+    "en": "Controlling Drafted Settlers",
+    "vi": "Controlling Drafted Settlers"
+  },
+  {
+    "key": "gameplay_tips_move_info",
+    "type": 0,
+    "en": "- Drafted settlers will move and attack targets you select.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.\\n- <sprite=\"ctrl_right_click\" index=t> an enemy to order your settlers to attack them.\\n\\n<style=Desc>TIP: During combat, archers will shoot anyone within range, whilst melee settlers wait until the enemy comes close or attacks them.\\nTIP: Place archers on higher ground to buff their precision, range, and critical hit chance.</style>\\n",
+    "vi": "- Drafted settlers will move and attack targets you select.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.\\n- <sprite=\"ctrl_right_click\" index=t> an enemy to order your settlers to attack them.\\n\\n<style=Desc>TIP: During combat, archers will shoot anyone within range, whilst melee settlers wait until the enemy comes close or attacks them.\\nTIP: Place archers on higher ground to buff their precision, range, and critical hit chance.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Orders"
+  },
+  {
+    "key": "gameplay_tips_orders_info",
+    "type": 0,
+    "en": "- Set actions for your settlers with the order tools in the lower right corner.\\n- Select the chop tool, then <sprite=\"ctrl_left_click\" index=t> drag over some trees to fell them.",
+    "vi": "- Set actions for your settlers with the order tools in the lower right corner.\\n- Select the chop tool, then <sprite=\"ctrl_left_click\" index=t> drag over some trees to fell them."
+  },
+  {
+    "key": "gameplay_tips_production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "gameplay_tips_production_info",
+    "type": 0,
+    "en": "- To start producing goods, select a workstation and add it from the product list.\\n- Set the amount of products you want your settlers to make.\\n\\n<style=Desc>TIP: 'Until you have' is useful to keep food stocks replenished.</style>\\n",
+    "vi": "- To start producing goods, select a workstation and add it from the product list.\\n- Set the amount of products you want your settlers to make.\\n\\n<style=Desc>TIP: 'Until you have' is useful to keep food stocks replenished.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Research"
+  },
+  {
+    "key": "gameplay_tips_research_info",
+    "type": 0,
+    "en": "- You can unlock new technology in the research panel.\\n- Each research item requires books (chronicles, handbooks or theses).\\n- Research does not consume the books, but they must be kept safe.\\n- If your books are destroyed or lost, you will not be able to do new research.\\n- Research can be resumed once your previous book total is regained.",
+    "vi": "- You can unlock new technology in the research panel.\\n- Each research item requires books (chronicles, handbooks or theses).\\n- Research does not consume the books, but they must be kept safe.\\n- If your books are destroyed or lost, you will not be able to do new research.\\n- Research can be resumed once your previous book total is regained."
+  },
+  {
+    "key": "gameplay_tips_schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Schedule"
+  },
+  {
+    "key": "gameplay_tips_schedule_info",
+    "type": 0,
+    "en": "- Use the <b>SCHEDULE</b> panel to choose when settlers do each type of activity.\\n- Work time is when settlers will do the jobs assigned in the <b>JOBS</b> panel.\\n- Leisure is for eating, playing, and religious activities.\\n\\n<style=Desc>TIP: Some settlers are more productive at different times than others - check their perks!</style>\\n",
+    "vi": "- Use the <b>SCHEDULE</b> panel to choose when settlers do each type of activity.\\n- Work time is when settlers will do the jobs assigned in the <b>JOBS</b> panel.\\n- Leisure is for eating, playing, and religious activities.\\n\\n<style=Desc>TIP: Some settlers are more productive at different times than others - check their perks!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_select",
+    "type": 0,
+    "en": "Draft Settlers",
+    "vi": "Draft Settlers"
+  },
+  {
+    "key": "gameplay_tips_select_info",
+    "type": 0,
+    "en": "- To control your settlers directly, you need to draft them.\\n- Draft settlers by selecting them, then clicking the draft action.\\n- You can also select settlers from the settler panel on the left.\\n\\n<style=Desc>TIP: You can select multiple settlers by dragging over them or using [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t>. Then you can draft them all at once.</style>\\n",
+    "vi": "- To control your settlers directly, you need to draft them.\\n- Draft settlers by selecting them, then clicking the draft action.\\n- You can also select settlers from the settler panel on the left.\\n\\n<style=Desc>TIP: You can select multiple settlers by dragging over them or using [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t>. Then you can draft them all at once.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_stockpile",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Stockpile"
+  },
+  {
+    "key": "gameplay_tips_stockpile_info",
+    "type": 0,
+    "en": "- Your settlers need somewhere to store resources.\\n- You can choose where they store things by setting up a Stockpile Zone.\\n- Select the Zone panel in the lower left of the screen, or press [<style=Shortcut><input:Zone></style>].\\n- Choose the Default Stockpile, then select an area for the stockpile.\\n\\n<style=Desc>TIP: Place stockpiles on floors and under roofs to slow down resources' decay.\\nTIP: Click on a placed stockpile to change what settlers will and won't store inside it.</style>\\n",
+    "vi": "- Your settlers need somewhere to store resources.\\n- You can choose where they store things by setting up a Stockpile Zone.\\n- Select the Zone panel in the lower left of the screen, or press [<style=Shortcut><input:Zone></style>].\\n- Choose the Default Stockpile, then select an area for the stockpile.\\n\\n<style=Desc>TIP: Place stockpiles on floors and under roofs to slow down resources' decay.\\nTIP: Click on a placed stockpile to change what settlers will and won't store inside it.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_manage_info",
+    "type": 0,
+    "en": "- Use the Manage panel to set which items your settlers can auto-equip and consume.\\n\\n<style=Desc>TIP: You can override these settings by selecting a settler and forcing them to equip or consume something by right-clicking on the item and selecting an action</style>\\n",
+    "vi": "- Use the Manage panel to set which items your settlers can auto-equip and consume.\\n\\n<style=Desc>TIP: You can override these settings by selecting a settler and forcing them to equip or consume something by right-clicking on the item and selecting an action</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_defence_info",
+    "type": 0,
+    "en": "- Create spots for archers on high ground to buff their precision, range, and crit chance.\\n- Use structures like merlons to cover your archers from enemy projectiles.\\n- Place traps strategically around your settlement to weaken your enemies.",
+    "vi": "- Create spots for archers on high ground to buff their precision, range, and crit chance.\\n- Use structures like merlons to cover your archers from enemy projectiles.\\n- Place traps strategically around your settlement to weaken your enemies."
+  },
+  {
+    "key": "gameplay_tips_manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Manage"
+  },
+  {
+    "key": "gameplay_tips_defence",
+    "type": 0,
+    "en": "Defence",
+    "vi": "Defence"
+  },
+  {
+    "key": "gameplay_tips_forbid",
+    "type": 0,
+    "en": "Forbid & Allow",
+    "vi": "Forbid & Allow"
+  },
+  {
+    "key": "gameplay_tips_forbid_info",
+    "type": 0,
+    "en": "- Items are either forbidden or allowed. Settlers will not interact with forbidden items.\\n- Forbidden items will have a sign over them: a hand with a cross.\\n- You can allow items using the order in the bottom right of the screen.\\n- Forbid items by selecting them and then clicking the forbid action.\\n\\n<style=Desc>TIP: By default, most loose items on a new map are forbidden.\\nTIP: You may wish to forbid settlers from retrieving items like dead bodies or rotten food.</style>\\n",
+    "vi": "- Items are either forbidden or allowed. Settlers will not interact with forbidden items.\\n- Forbidden items will have a sign over them: a hand with a cross.\\n- You can allow items using the order in the bottom right of the screen.\\n- Forbid items by selecting them and then clicking the forbid action.\\n\\n<style=Desc>TIP: By default, most loose items on a new map are forbidden.\\nTIP: You may wish to forbid settlers from retrieving items like dead bodies or rotten food.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_region",
+    "type": 0,
+    "en": "Region",
+    "vi": "Region"
+  },
+  {
+    "key": "gameplay_tips_trading",
+    "type": 0,
+    "en": "Bartering",
+    "vi": "Bartering"
+  },
+  {
+    "key": "gameplay_tips_initiate_trading",
+    "type": 0,
+    "en": "Trading",
+    "vi": "Trading"
+  },
+  {
+    "key": "gameplay_tips_friendliness",
+    "type": 0,
+    "en": "Alignment",
+    "vi": "Alignment"
+  },
+  {
+    "key": "gameplay_tips_trading_info",
+    "type": 0,
+    "en": "- You can exchange resources and items with merchants.\\n- The items you offer should have the same or a similar value to those you ask for.\\n- You can gift items to the merchant by offering more value than you receive.\\n- This will favourably influence the merchant's faction towards you.\\n- Resources' value depends on merchant type, faction, alignment, and even time of year.",
+    "vi": "- You can exchange resources and items with merchants.\\n- The items you offer should have the same or a similar value to those you ask for.\\n- You can gift items to the merchant by offering more value than you receive.\\n- This will favourably influence the merchant's faction towards you.\\n- Resources' value depends on merchant type, faction, alignment, and even time of year."
+  },
+  {
+    "key": "gameplay_tips_region_info",
+    "type": 0,
+    "en": "- You can see what factions and settlements are in your region via the Region map.\\n-Here you will be able to see the neighboring factions, occasional bandit camps, and other points of interest. \\n\\n-Keep in mind that what you do in your settlement will be noticed by others in your region. Various types of <LinkAlmanac=\"Gameplaytipsrenown\">renown</link> can be gained and will be recognised by others. \n",
+    "vi": "- You can see what factions and settlements are in your region via the Region map.\\n-Here you will be able to see the neighboring factions, occasional bandit camps, and other points of interest. \\n\\n-Keep in mind that what you do in your settlement will be noticed by others in your region. Various types of <LinkAlmanac=\"Gameplaytipsrenown\">renown</link> can be gained and will be recognised by others. \n"
+  },
+  {
+    "key": "gameplay_tips_renown",
+    "type": 0,
+    "en": "Renown",
+    "vi": "Renown"
+  },
+  {
+    "key": "gameplay_tips_renown_info",
+    "type": 0,
+    "en": "- The way you build your settlement and the things you do will change your renown.\\n-When renown of any type reaches 100% you will be given the choice to pursue a Grand Objective that will lead your settlement into the endgame. \\n\\n- Renown may be influenced by your settlers' roles, events you hold, and the outcomes of battles.",
+    "vi": "- The way you build your settlement and the things you do will change your renown.\\n-When renown of any type reaches 100% you will be given the choice to pursue a Grand Objective that will lead your settlement into the endgame. \\n\\n- Renown may be influenced by your settlers' roles, events you hold, and the outcomes of battles."
+  },
+  {
+    "key": "gameplay_tips_friendliness_info",
+    "type": 0,
+    "en": "- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n",
+    "vi": "- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n"
+  },
+  {
+    "key": "gameplay_tips_initiate_trading_info",
+    "type": 0,
+    "en": "- To barter with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter With</b> option.\\n\\n<style=Desc>TIP: The settler making the trade can influence prices and negotiate, so try to send someone with high speechcraft.</style>\\n",
+    "vi": "- To barter with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter With</b> option.\\n\\n<style=Desc>TIP: The settler making the trade can influence prices and negotiate, so try to send someone with high speechcraft.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_move_structures",
+    "type": 0,
+    "en": "Relocate Furniture",
+    "vi": "Relocate Furniture"
+  },
+  {
+    "key": "gameplay_tips_move_structures_info",
+    "type": 0,
+    "en": "- Furniture, workstations, and other small constructions can be easily relocated\\n- Select an item of furniture and click the relocate button, then select a new location.\\n- You can also remove structures.\\n- Removed structures turn into resource piles and can be stored or traded.",
+    "vi": "- Furniture, workstations, and other small constructions can be easily relocated\\n- Select an item of furniture and click the relocate button, then select a new location.\\n- You can also remove structures.\\n- Removed structures turn into resource piles and can be stored or traded."
+  },
+  {
+    "key": "gameplay_tips_farming",
+    "type": 0,
+    "en": "Farming",
+    "vi": "Farming"
+  },
+  {
+    "key": "gameplay_tips_farming_info",
+    "type": 0,
+    "en": "- Crop fields ensure a steady supply of food, even in winter.\\n- Choose a crop from the zone panel [<style=Shortcut><input:Zone></style>], then drag it to the required size.\\n- You must have stockpiled seeds or saplings in order to sow crops.\\n- New varieties of crop will unlock as you forage or buy new seed types.\\n\\n<style=Desc>TIP: Plants need sunlight - sow seeds away from trees or structures that create shade.</style>\\n",
+    "vi": "- Crop fields ensure a steady supply of food, even in winter.\\n- Choose a crop from the zone panel [<style=Shortcut><input:Zone></style>], then drag it to the required size.\\n- You must have stockpiled seeds or saplings in order to sow crops.\\n- New varieties of crop will unlock as you forage or buy new seed types.\\n\\n<style=Desc>TIP: Plants need sunlight - sow seeds away from trees or structures that create shade.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_mesh_variations",
+    "type": 0,
+    "en": "Structure Visual Variations",
+    "vi": "Structure Visual Variations"
+  },
+  {
+    "key": "gameplay_tips_mesh_variations_info",
+    "type": 0,
+    "en": "- Some structures, like walls, fences and roofs, have visual variations that can be selected to customise their appearance. These variations are purely aesthetic and don't influence gameplay.",
+    "vi": "- Some structures, like walls, fences and roofs, have visual variations that can be selected to customise their appearance. These variations are purely aesthetic and don't influence gameplay."
+  },
+  {
+    "key": "gameplay_tips_player_triggered_events",
+    "type": 0,
+    "en": "Events",
+    "vi": "Events"
+  },
+  {
+    "key": "gameplay_tips_player_triggered_events_info",
+    "type": 0,
+    "en": "- Certain events can be triggered, like a <LinkAlmanac=\"Playertriggeredeventfeast\">Feast</link> or a <LinkAlmanac=\"Playertriggeredeventsermon\">Sermon</link>. \\n- To launch these events, construct the corresponding room type, and select the structure within it which is the origin of the event. \\n- Each event type has conditions, and will have varying levels of quality, depending on which conditions are met. \\n- Different quality outcomes will result in different mood and other buffs or debuff to the event's participants. \\n- Some events benefit from having a settler with a <LinkAlmanac=\"Roletypes\">role</link> present.\\n- Event types:\\n<event_list>",
+    "vi": "- Certain events can be triggered, like a <LinkAlmanac=\"Playertriggeredeventfeast\">Feast</link> or a <LinkAlmanac=\"Playertriggeredeventsermon\">Sermon</link>. \\n- To launch these events, construct the corresponding room type, and select the structure within it which is the origin of the event. \\n- Each event type has conditions, and will have varying levels of quality, depending on which conditions are met. \\n- Different quality outcomes will result in different mood and other buffs or debuff to the event's participants. \\n- Some events benefit from having a settler with a <LinkAlmanac=\"Roletypes\">role</link> present.\\n- Event types:\\n<event_list>"
+  },
+  {
+    "key": "gameplay_tips_roles",
+    "type": 0,
+    "en": "Community Roles",
+    "vi": "Community Roles"
+  },
+  {
+    "key": "gameplay_tips_roles_info",
+    "type": 0,
+    "en": "- You can give certain settlers special community roles. \\n- These settlers have particular behaviours during role-appointed hours. \\n- Certain criteria must be met to assign a role to a settler. \\n- Roles help to increase your regional renown. \\n- Some roles enhance events, improving their outcomes: e.g. a bard improves the quality of a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> .\\n\\n- Role types:\\n<role_list>",
+    "vi": "- You can give certain settlers special community roles. \\n- These settlers have particular behaviours during role-appointed hours. \\n- Certain criteria must be met to assign a role to a settler. \\n- Roles help to increase your regional renown. \\n- Some roles enhance events, improving their outcomes: e.g. a bard improves the quality of a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> .\\n\\n- Role types:\\n<role_list>"
+  },
+  {
+    "key": "gameplay_tips_structure_replacement",
+    "type": 0,
+    "en": "Structure Replacement",
+    "vi": "Structure Replacement"
+  },
+  {
+    "key": "gameplay_tips_structure_replacement_info",
+    "type": 0,
+    "en": "- Certain structures can be replaced with the same structure made from a different material. \\n- Replacing structures such as walls, beams, and floors will not affect structural stability.\\n- Select a building and click the Replace Structure button in the lower-right corner. \\n- Each replacement requires resources based on the selected material type. \\n- Some replacement options may not be available if the required building material is missing. \\n- Once a replacement is selected, a settler with a construction job will rebuild it. \\n- Materials from the old structure will be returned to resource piles.",
+    "vi": "- Certain structures can be replaced with the same structure made from a different material. \\n- Replacing structures such as walls, beams, and floors will not affect structural stability.\\n- Select a building and click the Replace Structure button in the lower-right corner. \\n- Each replacement requires resources based on the selected material type. \\n- Some replacement options may not be available if the required building material is missing. \\n- Once a replacement is selected, a settler with a construction job will rebuild it. \\n- Materials from the old structure will be returned to resource piles."
+  },
+  {
+    "key": "tut_start_title",
+    "type": 0,
+    "en": "Welcome to Going Medieval",
+    "vi": "Welcome to Going Medieval"
+  },
+  {
+    "key": "tut_start_info",
+    "type": 0,
+    "en": "This tutorial will guide you through the basic concepts of Going Medieval. \\n\\nSome advanced features will remain locked during this tutorial.",
+    "vi": "This tutorial will guide you through the basic concepts of Going Medieval. \\n\\nSome advanced features will remain locked during this tutorial."
+  },
+  {
+    "key": "tut_camera_title",
+    "type": 0,
+    "en": "Camera Controls",
+    "vi": "Camera Controls"
+  },
+  {
+    "key": "tut_camera_info",
+    "type": 0,
+    "en": "Move, tilt, rotate and zoom camera.",
+    "vi": "Move, tilt, rotate and zoom camera."
+  },
+  {
+    "key": "tut_move_camera",
+    "type": 0,
+    "en": "[<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] or [<sprite=\"ctrl_right_click\" index=t>] to move",
+    "vi": "[<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] or [<sprite=\"ctrl_right_click\" index=t>] to move"
+  }
+]

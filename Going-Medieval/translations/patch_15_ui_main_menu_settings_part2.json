@@ -1,0 +1,44 @@
+[
+  {
+    "key": "menu_language_community",
+    "type": 0,
+    "en": "Other Translations",
+    "vi": "Other Translations"
+  },
+  {
+    "key": "menu_modbrowser",
+    "type": 0,
+    "en": "Mods",
+    "vi": "Mods"
+  },
+  {
+    "key": "menu_autoplay",
+    "type": 0,
+    "en": "Automatic Tests",
+    "vi": "Automatic Tests"
+  },
+  {
+    "key": "menu_Fermentation",
+    "type": 0,
+    "en": "Fermantation",
+    "vi": "Fermantation"
+  },
+  {
+    "key": "menu_SunLight",
+    "type": 0,
+    "en": "Accumulated sunlight",
+    "vi": "Accumulated sunlight"
+  },
+  {
+    "key": "menu_Dryness",
+    "type": 0,
+    "en": "Dryness",
+    "vi": "Dryness"
+  },
+  {
+    "key": "menu_Breath",
+    "type": 0,
+    "en": "Breath",
+    "vi": "Breath"
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "kingdom_of_york_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "circle_of_avalon_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "circle_of_avalon_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "circle_of_avalon_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "circle_of_avalon_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "circle_of_avalon_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "circle_of_avalon_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "circle_of_avalon_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "circle_of_avalon_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "circle_of_avalon_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "circle_of_avalon_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "circle_of_avalon_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "circle_of_avalon_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "ravagers_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "ravagers_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "ravagers_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "ravagers_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "ravagers_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "ravagers_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "ravagers_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "ravagers_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "ravagers_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "ravagers_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "ravagers_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "ravagers_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "mountain_bandits_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "mountain_bandits_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "mountain_bandits_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "mountain_bandits_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "mountain_bandits_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "mountain_bandits_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "mountain_bandits_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "mountain_bandits_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "mountain_bandits_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "mountain_bandits_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "mountain_bandits_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "mountain_bandits_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "river_bandits_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "river_bandits_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "river_bandits_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "river_bandits_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "river_bandits_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "river_bandits_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "river_bandits_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "river_bandits_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "river_bandits_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "river_bandits_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "river_bandits_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "river_bandits_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "looters_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "looters_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "looters_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "looters_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "looters_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "looters_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "looters_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "looters_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "looters_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "looters_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "looters_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "looters_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "autosave_never",
+    "type": 0,
+    "en": "Never",
+    "vi": "Never"
+  },
+  {
+    "key": "autosave_often",
+    "type": 0,
+    "en": "Every day",
+    "vi": "Every day"
+  },
+  {
+    "key": "autosave_rarely",
+    "type": 0,
+    "en": "Every 7 days",
+    "vi": "Every 7 days"
+  },
+  {
+    "key": "autosave_sometimes",
+    "type": 0,
+    "en": "Every 3 days",
+    "vi": "Every 3 days"
+  },
+  {
+    "key": "delete_save_prompt",
+    "type": 0,
+    "en": "Delete save?",
+    "vi": "Delete save?"
+  },
+  {
+    "key": "delete_folder_prompt",
+    "type": 0,
+    "en": "Delete settlement save folder?",
+    "vi": "Delete settlement save folder?"
+  },
+  {
+    "key": "quit_game_prompt_info",
+    "type": 0,
+    "en": "Are you sure?",
+    "vi": "Are you sure?"
+  },
+  {
+    "key": "quit_prompt_info",
+    "type": 0,
+    "en": "Are you sure? All unsaved progress will be lost.",
+    "vi": "Are you sure? All unsaved progress will be lost."
+  },
+  {
+    "key": "save_preset",
+    "type": 0,
+    "en": "Save as preset",
+    "vi": "Save as preset"
+  },
+  {
+    "key": "ui_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Cancel"
+  },
+  {
+    "key": "ui_keep",
+    "type": 0,
+    "en": "Keep",
+    "vi": "Keep"
+  },
+  {
+    "key": "vilage_name",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "made_by",
+    "type": 0,
+    "en": "Made by:",
+    "vi": "Made by:"
+  },
+  {
+    "key": "heraldry_background",
+    "type": 0,
+    "en": "Background",
+    "vi": "Background"
+  },
+  {
+    "key": "heraldry_pattern",
+    "type": 0,
+    "en": "Pattern",
+    "vi": "Pattern"
+  },
+  {
+    "key": "heraldry_symbol_a",
+    "type": 0,
+    "en": "Symbol A",
+    "vi": "Symbol A"
+  },
+  {
+    "key": "heraldry_symbol_b",
+    "type": 0,
+    "en": "Symbol B",
+    "vi": "Symbol B"
+  },
+  {
+    "key": "heraldry_symbol_c",
+    "type": 0,
+    "en": "Symbol C",
+    "vi": "Symbol C"
+  },
+  {
+    "key": "heraldry_symbol_d",
+    "type": 0,
+    "en": "Symbol D",
+    "vi": "Symbol D"
+  },
+  {
+    "key": "heraldry_symbol_custom",
+    "type": 0,
+    "en": "Custom",
+    "vi": "Custom"
+  },
+  {
+    "key": "custom_heraldry_info",
+    "type": 0,
+    "en": "Paste your custom png in:\\n<b>\\StreamingAssets\\HeraldryCustomSymbols</b>\\nand it will appear on this list of custom symbols.",
+    "vi": "Paste your custom png in:\\n<b>\\StreamingAssets\\HeraldryCustomSymbols</b>\\nand it will appear on this list of custom symbols."
+  },
+  {
+    "key": "heraldry_missing_custom_symbol",
+    "type": 0,
+    "en": "Some custom images have been deleted, your heraldry design might lack the custom image used.",
+    "vi": "Some custom images have been deleted, your heraldry design might lack the custom image used."
+  },
+  {
+    "key": "heraldry_title",
+    "type": 0,
+    "en": "Heraldry",
+    "vi": "Heraldry"
+  },
+  {
+    "key": "characters_creation",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Settlers"
+  },
+  {
+    "key": "autosave_inprogress",
+    "type": 0,
+    "en": "Autosaving...",
+    "vi": "Autosaving..."
+  },
+  {
+    "key": "default_size",
+    "type": 0,
+    "en": "Small",
+    "vi": "Small"
+  },
+  {
+    "key": "difficulty_builder",
+    "type": 0,
+    "en": "Builder",
+    "vi": "Builder"
+  },
+  {
+    "key": "difficulty_standard",
+    "type": 0,
+    "en": "Standard",
+    "vi": "Standard"
+  },
+  {
+    "key": "general_change_keybinding",
+    "type": 0,
+    "en": "Press any key or Esc to cancel ",
+    "vi": "Press any key or Esc to cancel "
+  },
+  {
+    "key": "general_click_to_change_key",
+    "type": 0,
+    "en": "Click to change key",
+    "vi": "Click to change key"
+  },
+  {
+    "key": "load_preset",
+    "type": 0,
+    "en": "Load preset",
+    "vi": "Load preset"
+  },
+  {
+    "key": "map_size_large",
+    "type": 0,
+    "en": "Large",
+    "vi": "Large"
+  },
+  {
+    "key": "map_size_medium",
+    "type": 0,
+    "en": "Medium",
+    "vi": "Medium"
+  },
+  {
+    "key": "map_size_small",
+    "type": 0,
+    "en": "Small",
+    "vi": "Small"
+  },
+  {
+    "key": "map_type_debug",
+    "type": 0,
+    "en": "Debug",
+    "vi": "Debug"
+  },
+  {
+    "key": "map_type_desert",
+    "type": 0,
+    "en": "Desert",
+    "vi": "Desert"
+  },
+  {
+    "key": "map_type_dev",
+    "type": 0,
+    "en": "Test Map",
+    "vi": "Test Map"
+  },
+  {
+    "key": "map_type_new_home",
+    "type": 0,
+    "en": "A New Home",
+    "vi": "A New Home"
+  },
+  {
+    "key": "most_passionate",
+    "type": 0,
+    "en": "Most passionate about",
+    "vi": "Most passionate about"
+  },
+  {
+    "key": "general_embark",
+    "type": 0,
+    "en": "Embark",
+    "vi": "Embark"
+  },
+  {
+    "key": "general_refresh",
+    "type": 0,
+    "en": "Refresh",
+    "vi": "Refresh"
+  },
+  {
+    "key": "credits_SeniorProducer",
+    "type": 0,
+    "en": "Senior Producer",
+    "vi": "Senior Producer"
+  },
+  {
+    "key": "credits_Producer",
+    "type": 0,
+    "en": "Producer",
+    "vi": "Producer"
+  },
+  {
+    "key": "credits_SeniorDesigner",
+    "type": 0,
+    "en": "Senior Designer",
+    "vi": "Senior Designer"
+  },
+  {
+    "key": "credits_SeniorMarketingManager",
+    "type": 0,
+    "en": "Senior Marketing Manager",
+    "vi": "Senior Marketing Manager"
+  },
+  {
+    "key": "credits_PRManager",
+    "type": 0,
+    "en": "PR Manager",
+    "vi": "PR Manager"
+  },
+  {
+    "key": "credits_PerformanceMarketingManager",
+    "type": 0,
+    "en": "Performance Marketing Manager",
+    "vi": "Performance Marketing Manager"
+  },
+  {
+    "key": "credits_SeniorCommunityandSocial Manager",
+    "type": 0,
+    "en": "Senior Community and Social Manager",
+    "vi": "Senior Community and Social Manager"
+  },
+  {
+    "key": "credits_ChiefGamesOfficer",
+    "type": 0,
+    "en": "Chief Games Officer",
+    "vi": "Chief Games Officer"
+  },
+  {
+    "key": "credits_PublishingDirector",
+    "type": 0,
+    "en": "Publishing Director",
+    "vi": "Publishing Director"
+  },
+  {
+    "key": "credits_DesignDirector",
+    "type": 0,
+    "en": "Design Director",
+    "vi": "Design Director"
+  },
+  {
+    "key": "credits_TechnicalDirector",
+    "type": 0,
+    "en": "Technical Director",
+    "vi": "Technical Director"
+  },
+  {
+    "key": "credits_OperationsDirector",
+    "type": 0,
+    "en": "Operations Director",
+    "vi": "Operations Director"
+  },
+  {
+    "key": "credits_FranchiseDirector",
+    "type": 0,
+    "en": "Franchise Director",
+    "vi": "Franchise Director"
+  },
+  {
+    "key": "credits_AdditionalExpertSupport",
+    "type": 0,
+    "en": "Additional Expert Support",
+    "vi": "Additional Expert Support"
+  },
+  {
+    "key": "credits_TICAlumni",
+    "type": 0,
+    "en": "TIC Alumni",
+    "vi": "TIC Alumni"
+  },
+  {
+    "key": "credits_TonicGamesGroup",
+    "type": 0,
+    "en": "Tonic Games Group",
+    "vi": "Tonic Games Group"
+  },
+  {
+    "key": "credits_Localisation",
+    "type": 0,
+    "en": "Localisation",
+    "vi": "Localisation"
+  },
+  {
+    "key": "credits_QualityAssurance",
+    "type": 0,
+    "en": "Quality Assurance",
+    "vi": "Quality Assurance"
+  },
+  {
+    "key": "credits_PRSupport",
+    "type": 0,
+    "en": "PR Support",
+    "vi": "PR Support"
+  },
+  {
+    "key": "credits_AdditionalArt",
+    "type": 0,
+    "en": "Additional Art",
+    "vi": "Additional Art"
+  },
+  {
+    "key": "credits_AdditionalHelp",
+    "type": 0,
+    "en": "Additional Help",
+    "vi": "Additional Help"
+  },
+  {
+    "key": "credits_AdditionalDevelopment",
+    "type": 0,
+    "en": "Additional Development",
+    "vi": "Additional Development"
+  },
+  {
+    "key": "credits_WritingNarativeDesign",
+    "type": 0,
+    "en": "Writing and Narative design",
+    "vi": "Writing and Narative design"
+  },
+  {
+    "key": "credits_SpecialThanks",
+    "type": 0,
+    "en": "Special Thanks",
+    "vi": "Special Thanks"
+  },
+  {
+    "key": "credits_PublishedBy",
+    "type": 0,
+    "en": "Published by Mythwright",
+    "vi": "Published by Mythwright"
+  },
+  {
+    "key": "credits_CommunityContributors",
+    "type": 0,
+    "en": "Community Plague Doctors",
+    "vi": "Community Plague Doctors"
+  },
+  {
+    "key": "credits_AlphabeticalOrder",
+    "type": 0,
+    "en": "Alphabetical",
+    "vi": "Alphabetical"
+  },
+  {
+    "key": "credits_QAManager",
+    "type": 0,
+    "en": "QA Manager",
+    "vi": "QA Manager"
+  },
+  {
+    "key": "credits_QAProjectManager",
+    "type": 0,
+    "en": "QA Project Manager",
+    "vi": "QA Project Manager"
+  },
+  {
+    "key": "credits_QATestLead",
+    "type": 0,
+    "en": "QA Test Lead",
+    "vi": "QA Test Lead"
+  },
+  {
+    "key": "credits_QATester",
+    "type": 0,
+    "en": "QA Tester",
+    "vi": "QA Tester"
+  },
+  {
+    "key": "credits_community_mods",
+    "type": 0,
+    "en": "Community Moderators & Helpers",
+    "vi": "Community Moderators & Helpers"
+  },
+  {
+    "key": "credits_playtesters",
+    "type": 0,
+    "en": "Playtesters",
+    "vi": "Playtesters"
+  },
+  {
+    "key": "credits_translation",
+    "type": 0,
+    "en": "Translation",
+    "vi": "Translation"
+  },
+  {
+    "key": "credits_trailer_service",
+    "type": 0,
+    "en": "Trailer Services",
+    "vi": "Trailer Services"
+  },
+  {
+    "key": "keybinding_group_Camera",
+    "type": 0,
+    "en": "Camera",
+    "vi": "Camera"
+  },
+  {
+    "key": "keybinding_group_Gameplay",
+    "type": 0,
+    "en": "Gameplay",
+    "vi": "Gameplay"
+  },
+  {
+    "key": "keybinding_group_Villagers",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Settlers"
+  },
+  {
+    "key": "keybinding_group_Misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Misc"
+  },
+  {
+    "key": "general_full",
+    "type": 0,
+    "en": "Full",
+    "vi": "Full"
+  },
+  {
+    "key": "general_half",
+    "type": 0,
+    "en": "Half",
+    "vi": "Half"
+  },
+  {
+    "key": "general_off",
+    "type": 0,
+    "en": "Off",
+    "vi": "Off"
+  },
+  {
+    "key": "general_low",
+    "type": 0,
+    "en": "Low",
+    "vi": "Low"
+  },
+  {
+    "key": "general_medium",
+    "type": 0,
+    "en": "Medium",
+    "vi": "Medium"
+  },
+  {
+    "key": "general_high",
+    "type": 0,
+    "en": "High",
+    "vi": "High"
+  },
+  {
+    "key": "general_veryHigh",
+    "type": 0,
+    "en": "Very High",
+    "vi": "Very High"
+  },
+  {
+    "key": "save_file_already_exists",
+    "type": 0,
+    "en": "Save file by that name already exists",
+    "vi": "Save file by that name already exists"
+  },
+  {
+    "key": "early_acces_note",
+    "type": 0,
+    "en": "Welcome to Going Medieval. Thank you for your support.\\nPlease note that we are actively developing this game, so you may notice that some areas are still in progress. Rest assured that we will update the game regularly, to add features and to make the experience more robust over time. Should you encounter any bugs, please reach out to us on our Discord server or report them through the in-game bug reporter.",
+    "vi": "Welcome to Going Medieval. Thank you for your support.\\nPlease note that we are actively developing this game, so you may notice that some areas are still in progress. Rest assured that we will update the game regularly, to add features and to make the experience more robust over time. Should you encounter any bugs, please reach out to us on our Discord server or report them through the in-game bug reporter."
+  },
+  {
+    "key": "roadmap_planed_updates",
+    "type": 0,
+    "en": "Planned Future Updates",
+    "vi": "Planned Future Updates"
+  },
+  {
+    "key": "roadmap_01",
+    "type": 0,
+    "en": "Trading & Merchants",
+    "vi": "Trading & Merchants"
+  },
+  {
+    "key": "roadmap_02",
+    "type": 0,
+    "en": "Caravans",
+    "vi": "Caravans"
+  },
+  {
+    "key": "roadmap_03",
+    "type": 0,
+    "en": "Settlement Diplomacy",
+    "vi": "Settlement Diplomacy"
+  },
+  {
+    "key": "roadmap_04",
+    "type": 0,
+    "en": "Settler Social Interactions",
+    "vi": "Settler Social Interactions"
+  },
+  {
+    "key": "roadmap_05",
+    "type": 0,
+    "en": "Religious Influence",
+    "vi": "Religious Influence"
+  },
+  {
+    "key": "roadmap_06",
+    "type": 0,
+    "en": "Fire & Flammability",
+    "vi": "Fire & Flammability"
+  },
+  {
+    "key": "roadmap_07",
+    "type": 0,
+    "en": "Accumulating Snow",
+    "vi": "Accumulating Snow"
+  },
+  {
+    "key": "roadmap_08",
+    "type": 0,
+    "en": "Organic Dirt Paths",
+    "vi": "Organic Dirt Paths"
+  },
+  {
+    "key": "roadmap_09",
+    "type": 0,
+    "en": "Mounted Siege Weaponry",
+    "vi": "Mounted Siege Weaponry"
+  },
+  {
+    "key": "roadmap_11",
+    "type": 0,
+    "en": "Raiding Other Settlements",
+    "vi": "Raiding Other Settlements"
+  },
+  {
+    "key": "roadmap_12",
+    "type": 0,
+    "en": "Vassal System",
+    "vi": "Vassal System"
+  },
+  {
+    "key": "roadmap_13",
+    "type": 0,
+    "en": "Map Factions",
+    "vi": "Map Factions"
+  },
+  {
+    "key": "roadmap_14",
+    "type": 0,
+    "en": "Prisoner System",
+    "vi": "Prisoner System"
+  },
+  {
+    "key": "roadmap_15",
+    "type": 0,
+    "en": "Taming Wildlife",
+    "vi": "Taming Wildlife"
+  },
+  {
+    "key": "roadmap_16",
+    "type": 0,
+    "en": "Animal Husbandry",
+    "vi": "Animal Husbandry"
+  },
+  {
+    "key": "roadmap_17",
+    "type": 0,
+    "en": "Grand Objectives",
+    "vi": "Grand Objectives"
+  },
+  {
+    "key": "roadmap_18",
+    "type": 0,
+    "en": "Natural Caves",
+    "vi": "Natural Caves"
+  },
+  {
+    "key": "roadmap_19",
+    "type": 0,
+    "en": "Ruins",
+    "vi": "Ruins"
+  },
+  {
+    "key": "roadmap_23",
+    "type": 0,
+    "en": "Shelves & Weapon racks",
+    "vi": "Shelves & Weapon racks"
+  },
+  {
+    "key": "roadmap_24",
+    "type": 0,
+    "en": "More Structures",
+    "vi": "More Structures"
+  },
+  {
+    "key": "roadmap_25",
+    "type": 0,
+    "en": "More Music",
+    "vi": "More Music"
+  },
+  {
+    "key": "roadmap_26",
+    "type": 0,
+    "en": "More Map types",
+    "vi": "More Map types"
+  },
+  {
+    "key": "roadmap_27",
+    "type": 0,
+    "en": "More Resources",
+    "vi": "More Resources"
+  },
+  {
+    "key": "roadmap_28",
+    "type": 0,
+    "en": "More Siege Weapons",
+    "vi": "More Siege Weapons"
+  },
+  {
+    "key": "roadmap_29",
+    "type": 0,
+    "en": "More Research Items",
+    "vi": "More Research Items"
+  },
+  {
+    "key": "roadmap_30",
+    "type": 0,
+    "en": "More QoL Improvements",
+    "vi": "More QoL Improvements"
+  },
+  {
+    "key": "update_01_name",
+    "type": 0,
+    "en": "Shelves and Racks Update",
+    "vi": "Shelves and Racks Update"
+  },
+  {
+    "key": "update_02_name",
+    "type": 0,
+    "en": "Bartering & Diplomacy",
+    "vi": "Bartering & Diplomacy"
+  },
+  {
+    "key": "update_02_name_alt",
+    "type": 0,
+    "en": "Trading & Diplomacy",
+    "vi": "Trading & Diplomacy"
+  },
+  {
+    "key": "update_02_name_alt2",
+    "type": 0,
+    "en": "Merchants & Diplomacy",
+    "vi": "Merchants & Diplomacy"
+  },
+  {
+    "key": "update_03_name",
+    "type": 0,
+    "en": "Animals & Pets",
+    "vi": "Animals & Pets"
+  },
+  {
+    "key": "update_05_name",
+    "type": 0,
+    "en": "Animal Trading",
+    "vi": "Animal Trading"
+  },
+  {
+    "key": "update_06_name",
+    "type": 0,
+    "en": "Terraforming & Cats",
+    "vi": "Terraforming & Cats"
+  },
+  {
+    "key": "update_07_name",
+    "type": 0,
+    "en": "Beauty & Comfort",
+    "vi": "Beauty & Comfort"
+  },
+  {
+    "key": "update_08_name",
+    "type": 0,
+    "en": "Social Interactions",
+    "vi": "Social Interactions"
+  },
+  {
+    "key": "update_09_name_old",
+    "type": 0,
+    "en": "Ladder System",
+    "vi": "Ladder System"
+  },
+  {
+    "key": "update_09_name",
+    "type": 0,
+    "en": "Environment Effects Overhaul",
+    "vi": "Environment Effects Overhaul"
+  },
+  {
+    "key": "update_095_capsule",
+    "type": 0,
+    "en": "Coin Bartering",
+    "vi": "Coin Bartering"
+  },
+  {
+    "key": "update_10_name",
+    "type": 0,
+    "en": "Water & Fishing",
+    "vi": "Water & Fishing"
+  },
+  {
+    "key": "update_11_name",
+    "type": 0,
+    "en": "Roles & Events",
+    "vi": "Roles & Events"
+  },
+  {
+    "key": "update_11_capsule",
+    "type": 0,
+    "en": "Bards & Feasts",
+    "vi": "Bards & Feasts"
+  },
+  {
+    "key": "update_12_name",
+    "type": 0,
+    "en": "Prisoners & Gates",
+    "vi": "Prisoners & Gates"
+  },
+  {
+    "key": "update_12_capsule",
+    "type": 0,
+    "en": "PORTCULLISES",
+    "vi": "PORTCULLISES"
+  },
+  {
+    "key": "update_14_name",
+    "type": 0,
+    "en": "Training Structures & Fire",
+    "vi": "Training Structures & Fire"
+  },
+  {
+    "key": "update_14_Capsule",
+    "type": 0,
+    "en": "FIRE",
+    "vi": "FIRE"
+  },
+  {
+    "key": "update_15_name",
+    "type": 0,
+    "en": "War Machines & Enemy AI",
+    "vi": "War Machines & Enemy AI"
+  },
+  {
+    "key": "update_15_Capsule",
+    "type": 0,
+    "en": "NEW DEFENSIVE WEAPONS",
+    "vi": "NEW DEFENSIVE WEAPONS"
+  },
+  {
+    "key": "update_15_Capsule_alt",
+    "type": 0,
+    "en": "SIEGE WEAPONS",
+    "vi": "SIEGE WEAPONS"
+  },
+  {
+    "key": "update_15_Capsule_alt2",
+    "type": 0,
+    "en": "WAR MACHINES",
+    "vi": "WAR MACHINES"
+  },
+  {
+    "key": "update_16_name",
+    "type": 0,
+    "en": "Bandit camps & Ambushes",
+    "vi": "Bandit camps & Ambushes"
+  },
+  {
+    "key": "update_16_Capsule",
+    "type": 0,
+    "en": "BANDIT CAMPS",
+    "vi": "BANDIT CAMPS"
+  },
+  {
+    "key": "update_entry_20",
+    "type": 0,
+    "en": "New Pathfinding System",
+    "vi": "New Pathfinding System"
+  },
+  {
+    "key": "update_entry_21",
+    "type": 0,
+    "en": "Fermentation",
+    "vi": "Fermentation"
+  },
+  {
+    "key": "update_entry_22",
+    "type": 0,
+    "en": "Trophy Mounting",
+    "vi": "Trophy Mounting"
+  },
+  {
+    "key": "update_entry_23",
+    "type": 0,
+    "en": "Animal Pen",
+    "vi": "Animal Pen"
+  },
+  {
+    "key": "update_entry_24",
+    "type": 0,
+    "en": "Starting Animals",
+    "vi": "Starting Animals"
+  },
+  {
+    "key": "update_entry_25",
+    "type": 0,
+    "en": "Animals in caravans",
+    "vi": "Animals in caravans"
+  },
+  {
+    "key": "update_entry_26",
+    "type": 0,
+    "en": "Food Pouch",
+    "vi": "Food Pouch"
+  },
+  {
+    "key": "update_entry_27",
+    "type": 0,
+    "en": "New structure: Sign",
+    "vi": "New structure: Sign"
+  },
+  {
+    "key": "update_entry_28",
+    "type": 0,
+    "en": "Custom Difficulty",
+    "vi": "Custom Difficulty"
+  },
+  {
+    "key": "update_entry_29",
+    "type": 0,
+    "en": "Predator Animals",
+    "vi": "Predator Animals"
+  },
+  {
+    "key": "update_entry_30",
+    "type": 0,
+    "en": "Pest Control",
+    "vi": "Pest Control"
+  },
+  {
+    "key": "update_entry_31",
+    "type": 0,
+    "en": "New Animals",
+    "vi": "New Animals"
+  },
+  {
+    "key": "update_entry_32",
+    "type": 0,
+    "en": "CATS",
+    "vi": "CATS"
+  },
+  {
+    "key": "update_entry_33",
+    "type": 0,
+    "en": "Terraforming",
+    "vi": "Terraforming"
+  },
+  {
+    "key": "update_entry_34",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Aesthetic Value"
+  },
+  {
+    "key": "update_entry_35",
+    "type": 0,
+    "en": "Comfort",
+    "vi": "Comfort"
+  },
+  {
+    "key": "update_entry_36",
+    "type": 0,
+    "en": "Statues",
+    "vi": "Statues"
+  },
+  {
+    "key": "update_entry_37",
+    "type": 0,
+    "en": "Paintings",
+    "vi": "Paintings"
+  },
+  {
+    "key": "update_entry_38",
+    "type": 0,
+    "en": "Rugs",
+    "vi": "Rugs"
+  },
+  {
+    "key": "update_entry_39",
+    "type": 0,
+    "en": "Room Impressiveness",
+    "vi": "Room Impressiveness"
+  },
+  {
+    "key": "update_entry_40",
+    "type": 0,
+    "en": "Bed Assigment",
+    "vi": "Bed Assigment"
+  },
+  {
+    "key": "update_entry_41",
+    "type": 0,
+    "en": "Individual rooms",
+    "vi": "Individual rooms"
+  },
+  {
+    "key": "update_entry_42",
+    "type": 0,
+    "en": "Infirmary room",
+    "vi": "Infirmary room"
+  },
+  {
+    "key": "update_entry_43",
+    "type": 0,
+    "en": "Infirmary Bed",
+    "vi": "Infirmary Bed"
+  },
+  {
+    "key": "update_entry_44",
+    "type": 0,
+    "en": "Affection System",
+    "vi": "Affection System"
+  },
+  {
+    "key": "update_entry_45",
+    "type": 0,
+    "en": "Settler Small talk",
+    "vi": "Settler Small talk"
+  },
+  {
+    "key": "update_entry_46",
+    "type": 0,
+    "en": "Social Interactions",
+    "vi": "Social Interactions"
+  },
+  {
+    "key": "update_entry_47",
+    "type": 0,
+    "en": "Individual Action log",
+    "vi": "Individual Action log"
+  },
+  {
+    "key": "update_entry_48",
+    "type": 0,
+    "en": "Ladder System",
+    "vi": "Ladder System"
+  },
+  {
+    "key": "update_entry_49",
+    "type": 0,
+    "en": "Multiple Shelf Editing",
+    "vi": "Multiple Shelf Editing"
+  },
+  {
+    "key": "update_entry_50",
+    "type": 0,
+    "en": "Feeding Animals Changed",
+    "vi": "Feeding Animals Changed"
+  },
+  {
+    "key": "update_entry_51",
+    "type": 0,
+    "en": "Sunlight",
+    "vi": "Sunlight"
+  },
+  {
+    "key": "update_entry_52",
+    "type": 0,
+    "en": "Stunted Plants",
+    "vi": "Stunted Plants"
+  },
+  {
+    "key": "update_entry_53",
+    "type": 0,
+    "en": "Temperature Overhaul",
+    "vi": "Temperature Overhaul"
+  },
+  {
+    "key": "update_entry_54",
+    "type": 0,
+    "en": "New Day & Night Cycle",
+    "vi": "New Day & Night Cycle"
+  },
+  {
+    "key": "update_entry_55",
+    "type": 0,
+    "en": "Accumulating Puddles",
+    "vi": "Accumulating Puddles"
+  },
+  {
+    "key": "update_entry_56",
+    "type": 0,
+    "en": "Accumulating Snow",
+    "vi": "Accumulating Snow"
+  },
+  {
+    "key": "update_entry_57",
+    "type": 0,
+    "en": "Wound Tending Overhaul ",
+    "vi": "Wound Tending Overhaul "
+  },
+  {
+    "key": "update_entry_58",
+    "type": 0,
+    "en": "Bird Flocks",
+    "vi": "Bird Flocks"
+  },
+  {
+    "key": "update_entry_59",
+    "type": 0,
+    "en": "Predator protection",
+    "vi": "Predator protection"
+  },
+  {
+    "key": "update_entry_60",
+    "type": 0,
+    "en": "Rivers and Ponds",
+    "vi": "Rivers and Ponds"
+  },
+  {
+    "key": "update_entry_61",
+    "type": 0,
+    "en": "Waterfalls",
+    "vi": "Waterfalls"
+  },
+  {
+    "key": "update_entry_62",
+    "type": 0,
+    "en": "New Map Type: Marsh",
+    "vi": "New Map Type: Marsh"
+  },
+  {
+    "key": "update_entry_63",
+    "type": 0,
+    "en": "Fish and Eels",
+    "vi": "Fish and Eels"
+  },
+  {
+    "key": "update_entry_64",
+    "type": 0,
+    "en": "Settler Role System",
+    "vi": "Settler Role System"
+  },
+  {
+    "key": "update_entry_65",
+    "type": 0,
+    "en": "Bards, Druids and Chaplain",
+    "vi": "Bards, Druids and Chaplain"
+  },
+  {
+    "key": "update_entry_66",
+    "type": 0,
+    "en": "Feasts, Eucharists & Rituals",
+    "vi": "Feasts, Eucharists & Rituals"
+  },
+  {
+    "key": "update_entry_67",
+    "type": 0,
+    "en": "Job Preferences",
+    "vi": "Job Preferences"
+  },
+  {
+    "key": "update_entry_68",
+    "type": 0,
+    "en": "Extortion Events",
+    "vi": "Extortion Events"
+  },
+  {
+    "key": "update_entry_69",
+    "type": 0,
+    "en": "Negotiating for Runaways",
+    "vi": "Negotiating for Runaways"
+  },
+  {
+    "key": "update_entry_70",
+    "type": 0,
+    "en": "News System",
+    "vi": "News System"
+  },
+  {
+    "key": "update_entry_71",
+    "type": 0,
+    "en": "New Settler Jobs",
+    "vi": "New Settler Jobs"
+  },
+  {
+    "key": "update_entry_72",
+    "type": 0,
+    "en": "New Settler Skills",
+    "vi": "New Settler Skills"
+  },
+  {
+    "key": "update_entry_73",
+    "type": 0,
+    "en": "Gates",
+    "vi": "Gates"
+  },
+  {
+    "key": "update_entry_74",
+    "type": 0,
+    "en": "Captive Labourer system",
+    "vi": "Captive Labourer system"
+  },
+  {
+    "key": "update_entry_75",
+    "type": 0,
+    "en": "New Role",
+    "vi": "New Role"
+  },
+  {
+    "key": "update_entry_76",
+    "type": 0,
+    "en": "Execution event",
+    "vi": "Execution event"
+  },
+  {
+    "key": "update_entry_77",
+    "type": 0,
+    "en": "Recruiting Prisoners",
+    "vi": "Recruiting Prisoners"
+  },
+  {
+    "key": "update_entry_78",
+    "type": 0,
+    "en": "Training Structures",
+    "vi": "Training Structures"
+  },
+  {
+    "key": "update_entry_79",
+    "type": 0,
+    "en": "Combat With Fire",
+    "vi": "Combat With Fire"
+  },
+  {
+    "key": "update_entry_80",
+    "type": 0,
+    "en": "New Weapon Types",
+    "vi": "New Weapon Types"
+  },
+  {
+    "key": "update_entry_81",
+    "type": 0,
+    "en": "Throwable weapon types",
+    "vi": "Throwable weapon types"
+  },
+  {
+    "key": "update_entry_82",
+    "type": 0,
+    "en": "Modding support ",
+    "vi": "Modding support "
+  },
+  {
+    "key": "update_entry_83",
+    "type": 0,
+    "en": "Steam Workshop integration",
+    "vi": "Steam Workshop integration"
+  },
+  {
+    "key": "update_entry_84",
+    "type": 0,
+    "en": "Group Enemy AI",
+    "vi": "Group Enemy AI"
+  },
+  {
+    "key": "update_entry_85",
+    "type": 0,
+    "en": "Siege Weapons (player controlled)",
+    "vi": "Siege Weapons (player controlled)"
+  },
+  {
+    "key": "update_entry_86",
+    "type": 0,
+    "en": "Visiting Other Maps",
+    "vi": "Visiting Other Maps"
+  },
+  {
+    "key": "update_entry_87",
+    "type": 0,
+    "en": "Raiding Camps/Settlements",
+    "vi": "Raiding Camps/Settlements"
+  },
+  {
+    "key": "update_entry_88",
+    "type": 0,
+    "en": "Grand Objectives",
+    "vi": "Grand Objectives"
+  },
+  {
+    "key": "update_entry_89",
+    "type": 0,
+    "en": "Flammable Traps",
+    "vi": "Flammable Traps"
+  },
+  {
+    "key": "update_entry_90",
+    "type": 0,
+    "en": "Fire Arrows",
+    "vi": "Fire Arrows"
+  },
+  {
+    "key": "update_entry_91",
+    "type": 0,
+    "en": "Modding support (meshes and textures)",
+    "vi": "Modding support (meshes and textures)"
+  },
+  {
+    "key": "update_entry_92",
+    "type": 0,
+    "en": "Camera 2.0",
+    "vi": "Camera 2.0"
+  },
+  {
+    "key": "update_entry_93",
+    "type": 0,
+    "en": "Bandit Camps",
+    "vi": "Bandit Camps"
+  },
+  {
+    "key": "update_entry_94",
+    "type": 0,
+    "en": "Ambush event",
+    "vi": "Ambush event"
+  },
+  {
+    "key": "update_entry_95",
+    "type": 0,
+    "en": "Loot Stashes",
+    "vi": "Loot Stashes"
+  },
+  {
+    "key": "update_entry_96",
+    "type": 0,
+    "en": "Beggar Event",
+    "vi": "Beggar Event"
+  },
+  {
+    "key": "update_entry_11",
+    "type": 0,
+    "en": "Structure Variations",
+    "vi": "Structure Variations"
+  },
+  {
+    "key": "update_entry_12",
+    "type": 0,
+    "en": "Seeds & Saplings",
+    "vi": "Seeds & Saplings"
+  },
+  {
+    "key": "update_entry_13",
+    "type": 0,
+    "en": "Ice Blocks",
+    "vi": "Ice Blocks"
+  },
+  {
+    "key": "update_entry_14",
+    "type": 0,
+    "en": "Beekeeping",
+    "vi": "Beekeeping"
+  },
+  {
+    "key": "update_entry_15",
+    "type": 0,
+    "en": "Orchards",
+    "vi": "Orchards"
+  },
+  {
+    "key": "update_entry_16",
+    "type": 0,
+    "en": "New Resources",
+    "vi": "New Resources"
+  },
+  {
+    "key": "update_entry_17",
+    "type": 0,
+    "en": "Heat Source Refueling",
+    "vi": "Heat Source Refueling"
+  },
+  {
+    "key": "update_entry_18",
+    "type": 0,
+    "en": "New Faction Equipment",
+    "vi": "New Faction Equipment"
+  },
+  {
+    "key": "update_entry_19",
+    "type": 0,
+    "en": "New Music Tracks",
+    "vi": "New Music Tracks"
+  },
+  {
+    "key": "update_entry_01",
+    "type": 0,
+    "en": "Shelves & Weapon racks",
+    "vi": "Shelves & Weapon racks"
+  },
+  {
+    "key": "update_entry_02",
+    "type": 0,
+    "en": "Larger Maps",
+    "vi": "Larger Maps"
+  },
+  {
+    "key": "update_entry_03",
+    "type": 0,
+    "en": "Stockpile priority",
+    "vi": "Stockpile priority"
+  },
+  {
+    "key": "update_entry_04",
+    "type": 0,
+    "en": "Temperature Balance",
+    "vi": "Temperature Balance"
+  },
+  {
+    "key": "update_entry_05",
+    "type": 0,
+    "en": "Trebuchet Balance & Changes",
+    "vi": "Trebuchet Balance & Changes"
+  },
+  {
+    "key": "update_entry_06",
+    "type": 0,
+    "en": "QoL Improvements",
+    "vi": "QoL Improvements"
+  },
+  {
+    "key": "update_entry_07",
+    "type": 0,
+    "en": "New decorative structures",
+    "vi": "New decorative structures"
+  },
+  {
+    "key": "update_entry_08",
+    "type": 0,
+    "en": "Stability & Optimisation",
+    "vi": "Stability & Optimisation"
+  },
+  {
+    "key": "update_entry_09",
+    "type": 0,
+    "en": "Relocate Structures",
+    "vi": "Relocate Structures"
+  },
+  {
+    "key": "update_entry_10",
+    "type": 0,
+    "en": "Character Customisation",
+    "vi": "Character Customisation"
+  },
+  {
+    "key": "mode_name_plateau",
+    "type": 0,
+    "en": "Steady",
+    "vi": "Steady"
+  },
+  {
+    "key": "mode_info_plateau",
+    "type": 0,
+    "en": "Rapid increase to a predictable plateau",
+    "vi": "Rapid increase to a predictable plateau"
+  },
+  {
+    "key": "mode_name_standard",
+    "type": 0,
+    "en": "Standard",
+    "vi": "Standard"
+  },
+  {
+    "key": "mode_info_standard",
+    "type": 0,
+    "en": "Slower increase to an eventual plateau",
+    "vi": "Slower increase to an eventual plateau"
+  },
+  {
+    "key": "mode_name_rampUp",
+    "type": 0,
+    "en": "Challenge",
+    "vi": "Challenge"
+  },
+  {
+    "key": "mode_info_rampUp",
+    "type": 0,
+    "en": "Steep increase ramps up over a decade",
+    "vi": "Steep increase ramps up over a decade"
+  },
+  {
+    "key": "mode_name_Wavy",
+    "type": 0,
+    "en": "Unforseeable",
+    "vi": "Unforseeable"
+  },
+  {
+    "key": "mode_info_Wavy",
+    "type": 0,
+    "en": "Expect surprises in event intensity",
+    "vi": "Expect surprises in event intensity"
+  },
+  {
+    "key": "schedule_default_4_title",
+    "type": 0,
+    "en": "Hard",
+    "vi": "Hard"
+  },
+  {
+    "key": "schedule_default_3_title",
+    "type": 0,
+    "en": "Very Hard",
+    "vi": "Very Hard"
+  },
+  {
+    "key": "difficulty_option_woundSeverityMultiplier_title",
+    "type": 0,
+    "en": "Wound Severity Multiplier",
+    "vi": "Wound Severity Multiplier"
+  },
+  {
+    "key": "difficulty_option_woundSeverityMultiplier_info",
+    "type": 0,
+    "en": "Determines the severity of wounds inflicted on settlers. Less severe wounds have a lower impact on attributes, and are more easily tended.",
+    "vi": "Determines the severity of wounds inflicted on settlers. Less severe wounds have a lower impact on attributes, and are more easily tended."
+  },
+  {
+    "key": "difficulty_option_mineYieldMultiplier_title",
+    "type": 0,
+    "en": "Mine Yield Multiplier",
+    "vi": "Mine Yield Multiplier"
+  },
+  {
+    "key": "difficulty_option_mineYieldMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the base value of resources extracted when a voxel is mined",
+    "vi": "Multiplies the base value of resources extracted when a voxel is mined"
+  },
+  {
+    "key": "difficulty_option_CellarFloodEvent_title",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Cellar Flooded"
+  },
+  {
+    "key": "difficulty_option_enemyHPMax_title",
+    "type": 0,
+    "en": "Enemy Hitpoints",
+    "vi": "Enemy Hitpoints"
+  },
+  {
+    "key": "difficulty_option_enemyHPMax_info",
+    "type": 0,
+    "en": "The maximum amount of hitpoints an enemy has. Changing this during a playthrough will affect enemies that are yet to come, and not those already on your map. ",
+    "vi": "The maximum amount of hitpoints an enemy has. Changing this during a playthrough will affect enemies that are yet to come, and not those already on your map. "
+  },
+  {
+    "key": "difficulty_option_healthRecoverySpeed_title",
+    "type": 0,
+    "en": "Hitpoints Recovery",
+    "vi": "Hitpoints Recovery"
+  },
+  {
+    "key": "difficulty_option_healthRecoverySpeed_info",
+    "type": 0,
+    "en": "Health recovery: base hitpoint recovery rate +/- multipliers.",
+    "vi": "Health recovery: base hitpoint recovery rate +/- multipliers."
+  },
+  {
+    "key": "difficulty_option_rottingSpeed_title",
+    "type": 0,
+    "en": "Rotting Speed",
+    "vi": "Rotting Speed"
+  },
+  {
+    "key": "difficulty_option_rottingSpeed_info",
+    "type": 0,
+    "en": "How quickly resources like raw food will lose freshness and rot.",
+    "vi": "How quickly resources like raw food will lose freshness and rot."
+  },
+  {
+    "key": "difficulty_option_decomposeSpeed_title",
+    "type": 0,
+    "en": "Decomposition Speed",
+    "vi": "Decomposition Speed"
+  },
+  {
+    "key": "difficulty_option_decomposeSpeed_info",
+    "type": 0,
+    "en": "How quickly resources will lose HP due to environmental factors, like rain and temperature",
+    "vi": "How quickly resources will lose HP due to environmental factors, like rain and temperature"
+  },
+  {
+    "key": "difficulty_option_tradingValue_title",
+    "type": 0,
+    "en": "Barter Value",
+    "vi": "Barter Value"
+  },
+  {
+    "key": "difficulty_option_tradingValue_info",
+    "type": 0,
+    "en": "This offsets the proffered value by XX%.",
+    "vi": "This offsets the proffered value by XX%."
+  },
+  {
+    "key": "difficulty_option_huntingRetailateChance_title",
+    "type": 0,
+    "en": "Chance Quarry Retaliates",
+    "vi": "Chance Quarry Retaliates"
+  },
+  {
+    "key": "difficulty_option_huntingRetailateChance_info",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "The chance that the quarry fights back."
+  },
+  {
+    "key": "difficulty_option_globalWorkSpeed_title",
+    "type": 0,
+    "en": "Global Work Speed",
+    "vi": "Global Work Speed"
+  },
+  {
+    "key": "difficulty_option_globalWorkSpeed_info",
+    "type": 0,
+    "en": "This multiplies the speed of all job-related activities.",
+    "vi": "This multiplies the speed of all job-related activities."
+  },
+  {
+    "key": "difficulty_weight_info",
+    "type": 0,
+    "en": "This represents the weighted value of the chance the event has of being triggered. The larger the base value, the more this event will happen. Remember that if every event type has the highest weighted value, then they all have an equal chance of triggering.\nWeightings are further influenced by other systems in the game: like faction friendliness, time of year, map type, amount of settlers, and many more.",
+    "vi": "This represents the weighted value of the chance the event has of being triggered. The larger the base value, the more this event will happen. Remember that if every event type has the highest weighted value, then they all have an equal chance of triggering.\nWeightings are further influenced by other systems in the game: like faction friendliness, time of year, map type, amount of settlers, and many more."
+  },
+  {
+    "key": "difficulty_option_runawayEvent_title",
+    "type": 0,
+    "en": "Runaway",
+    "vi": "Runaway"
+  },
+  {
+    "key": "difficulty_option_newWorkerEvent_title",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "New Settler"
+  },
+  {
+    "key": "difficulty_option_visitorEvent_title",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Visitor"
+  },
+  {
+    "key": "difficulty_option_visitorRoleEvent_title",
+    "type": 0,
+    "en": "Visitor with a particular role",
+    "vi": "Visitor with a particular role"
+  },
+  {
+    "key": "difficulty_option_thundertstormEvent_title",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Thunderstorm"
+  },
+  {
+    "key": "difficulty_option_thundertstormEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_blightEvent_title",
+    "type": 0,
+    "en": "Blighted Crops",
+    "vi": "Blighted Crops"
+  },
+  {
+    "key": "difficulty_option_blightEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_hailstormEvent_title",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Hailstorm"
+  },
+  {
+    "key": "difficulty_option_hailstormEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_coldsnapEvent_title",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Cold snap"
+  },
+  {
+    "key": "difficulty_option_coldsnapEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_heatwaveEvent_title",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Heat wave"
+  },
+  {
+    "key": "difficulty_option_heatwaveEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_useSeeds_title",
+    "type": 0,
+    "en": "Use Seeds",
+    "vi": "Use Seeds"
+  },
+  {
+    "key": "difficulty_option_useSeeds_info",
+    "type": 0,
+    "en": "Use seeds for sowing. It is recommended to leave this 'on.' Turning this off results in unused seeds visible on the map: settlers will go through the motions of sowing at locations designated as crop fields where plants will grow automatically. You still need to acquire seeds to unlock a crop field. ",
+    "vi": "Use seeds for sowing. It is recommended to leave this 'on.' Turning this off results in unused seeds visible on the map: settlers will go through the motions of sowing at locations designated as crop fields where plants will grow automatically. You still need to acquire seeds to unlock a crop field. "
+  },
+  {
+    "key": "difficulty_option_enemiesHaveTrebuchet_title",
+    "type": 0,
+    "en": "Enemies Armed with Siege Weapons",
+    "vi": "Enemies Armed with Siege Weapons"
+  },
+  {
+    "key": "difficulty_option_enemiesHaveTrebuchet_info",
+    "type": 0,
+    "en": "Turning this off disables enemies from constructing siege weapons during regular raids.",
+    "vi": "Turning this off disables enemies from constructing siege weapons during regular raids."
+  },
+  {
+    "key": "difficulty_option_fireSpreadSpeedMultiplier_title",
+    "type": 0,
+    "en": "Fire Spread Multiplier",
+    "vi": "Fire Spread Multiplier"
+  },
+  {
+    "key": "difficulty_option_fireSpreadSpeedMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the speed at which fire spreads. This is additional to the property that as damage accrues, fire spreads more slowly to neighbouring ground. Speed of fire spread on oil splashes is unaffected.",
+    "vi": "Multiplies the speed at which fire spreads. This is additional to the property that as damage accrues, fire spreads more slowly to neighbouring ground. Speed of fire spread on oil splashes is unaffected."
+  },
+  {
+    "key": "difficulty_option_caravanAmbushChanceMultiplier_title",
+    "type": 0,
+    "en": "Ambush Chance",
+    "vi": "Ambush Chance"
+  },
+  {
+    "key": "difficulty_option_caravanAmbushChanceMultiplier_info",
+    "type": 0,
+    "en": "The base chance of an ambush happening. This is further multiplied by various factors when creating caravans",
+    "vi": "The base chance of an ambush happening. This is further multiplied by various factors when creating caravans"
+  },
+  {
+    "key": "save_load_fail",
+    "type": 0,
+    "en": "Settlements saved using game version <save_modified_version> will not work on version <valid_save_version> and above. To make the most of new game features, please start a new settlement. Alternatively, you can revert to a legacy build in your game launcher to continue playing this settlement",
+    "vi": "Settlements saved using game version <save_modified_version> will not work on version <valid_save_version> and above. To make the most of new game features, please start a new settlement. Alternatively, you can revert to a legacy build in your game launcher to continue playing this settlement"
+  },
+  {
+    "key": "game_parametars_title",
+    "type": 0,
+    "en": "Custom Gameplay Settings",
+    "vi": "Custom Gameplay Settings"
+  },
+  {
+    "key": "game_parametars_title_old",
+    "type": 0,
+    "en": "Game Parameters",
+    "vi": "Game Parameters"
+  },
+  {
+    "key": "demo_end_message",
+    "type": 0,
+    "en": "This is the end of the Going Medieval Demo. \nYou may continue to build your settlement in the full game, or feel free to start over with a new settlement here in the demo.\nThank you for trying out Going Medieval!",
+    "vi": "This is the end of the Going Medieval Demo. \nYou may continue to build your settlement in the full game, or feel free to start over with a new settlement here in the demo.\nThank you for trying out Going Medieval!"
+  },
+  {
+    "key": "demo_start_message",
+    "type": 0,
+    "en": "<b><uppercase>Welcome to the Going Medieval Demo!</b></uppercase> \nEach settlement may only be played until the end of the first Spring.\nAlso, please note that some features are unavailable in the demo.\nWe hope you enjoy this small slice of the larger game. \nYou'll be able to continue your demo save in the full v1.0 release.",
+    "vi": "<b><uppercase>Welcome to the Going Medieval Demo!</b></uppercase> \nEach settlement may only be played until the end of the first Spring.\nAlso, please note that some features are unavailable in the demo.\nWe hope you enjoy this small slice of the larger game. \nYou'll be able to continue your demo save in the full v1.0 release."
+  },
+  {
+    "key": "demo_exit_message",
+    "type": 0,
+    "en": "Thank you for trying out Going Medieval!\nContinue to build your settlement into a mighty colony in the full game.\nFollow us on <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> for development updates.",
+    "vi": "Thank you for trying out Going Medieval!\nContinue to build your settlement into a mighty colony in the full game.\nFollow us on <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> for development updates."
+  },
+  {
+    "key": "not_available_in_demo",
+    "type": 0,
+    "en": "Not available in Demo version",
+    "vi": "Not available in Demo version"
+  },
+  {
+    "key": "lb_get_Started",
+    "type": 0,
+    "en": "Get Started",
+    "vi": "Get Started"
+  },
+  {
+    "key": "lb_wishlist",
+    "type": 0,
+    "en": "Wishlist Going Medieval",
+    "vi": "Wishlist Going Medieval"
+  },
+  {
+    "key": "save_not_from_demo",
+    "type": 0,
+    "en": "You are trying to load a save that is past the first season of gameplay or is started in a non demo version. To continue this save please boot up the full version of the game",
+    "vi": "You are trying to load a save that is past the first season of gameplay or is started in a non demo version. To continue this save please boot up the full version of the game"
+  },
+  {
+    "key": "save_not_compatible_demo",
+    "type": 0,
+    "en": "This settlement has been started in the demo version. Its save file is not compatible with the current version of the game. You can start a new game and continue this settlement when the game leaves early access.",
+    "vi": "This settlement has been started in the demo version. Its save file is not compatible with the current version of the game. You can start a new game and continue this settlement when the game leaves early access."
+  },
+  {
+    "key": "lb_purchase_full",
+    "type": 0,
+    "en": "Buy Full Version",
+    "vi": "Buy Full Version"
+  },
+  {
+    "key": "lb_newsletter",
+    "type": 0,
+    "en": "Newsletter",
+    "vi": "Newsletter"
+  },
+  {
+    "key": "lb_patch_notes",
+    "type": 0,
+    "en": "Patch Notes",
+    "vi": "Patch Notes"
+  },
+  {
+    "key": "twitch_strike_event_bbt",
+    "type": 0,
+    "en": "{Twitch Name} has conjured a lighting strike!",
+    "vi": "{Twitch Name} has conjured a lighting strike!"
+  },
+  {
+    "key": "TwitchMysteryGiftWindowTitle",
+    "type": 0,
+    "en": "Mysterious gift",
+    "vi": "Mysterious gift"
+  },
+  {
+    "key": "TwitchMysteryGiftContentTitle",
+    "type": 0,
+    "en": "Mysterious gift",
+    "vi": "Mysterious gift"
+  },
+  {
+    "key": "TwitchMysteryGiftBody",
+    "type": 0,
+    "en": "A shadowy figure known only as {mysteryName} just left something at the edge of your settlement.",
+    "vi": "A shadowy figure known only as {mysteryName} just left something at the edge of your settlement."
+  },
+  {
+    "key": "TwitchRerollName",
+    "type": 0,
+    "en": "Reroll Twitch name",
+    "vi": "Reroll Twitch name"
+  },
+  {
+    "key": "twitch_auth_title",
+    "type": 0,
+    "en": "Authentication",
+    "vi": "Authentication"
+  },
+  {
+    "key": "twitch_auth_desc",
+    "type": 0,
+    "en": "Feel free to authenticate with Twitch and invite your friends to join in. All features are togglable, so you can customise what you want. Default settings are for small streamers (up to 20 viewers). With more viewers, try increasing cooldowns.\n",
+    "vi": "Feel free to authenticate with Twitch and invite your friends to join in. All features are togglable, so you can customise what you want. Default settings are for small streamers (up to 20 viewers). With more viewers, try increasing cooldowns.\n"
+  },
+  {
+    "key": "twitch_auth_desc_chanel_name",
+    "type": 0,
+    "en": "Your channel name is necessary to monitor commands being activated in your chat",
+    "vi": "Your channel name is necessary to monitor commands being activated in your chat"
+  },
+  {
+    "key": "twitch_auth_log_in",
+    "type": 0,
+    "en": "Log in",
+    "vi": "Log in"
+  },
+  {
+    "key": "twitch_auth_log_out",
+    "type": 0,
+    "en": "Log out",
+    "vi": "Log out"
+  },
+  {
+    "key": "twitch_channel_name",
+    "type": 0,
+    "en": "Channel name",
+    "vi": "Channel name"
+  },
+  {
+    "key": "twitch_user_name",
+    "type": 0,
+    "en": "User name",
+    "vi": "User name"
+  },
+  {
+    "key": "twitch_auth_required",
+    "type": 0,
+    "en": "Not logged in",
+    "vi": "Not logged in"
+  },
+  {
+    "key": "twitch_auth_success",
+    "type": 0,
+    "en": "You are logged in",
+    "vi": "You are logged in"
+  },
+  {
+    "key": "twitch_name_desc",
+    "type": 0,
+    "en": "Each Twitch user that types !name in your chat will have their name queued to be assigned to a game being (settlers, enemies, NPCs and animals). You will have an option to reroll names of specific individuals. Only one named being is allowed per chat participant at any given time.",
+    "vi": "Each Twitch user that types !name in your chat will have their name queued to be assigned to a game being (settlers, enemies, NPCs and animals). You will have an option to reroll names of specific individuals. Only one named being is allowed per chat participant at any given time."
+  },
+  {
+    "key": "twitch_appear_desc",
+    "type": 0,
+    "en": "Each Twitch user that types !appear in your chat will spawn a small animal with their name. Only one use per chat participant.",
+    "vi": "Each Twitch user that types !appear in your chat will spawn a small animal with their name. Only one use per chat participant."
+  },
+  {
+    "key": "twitch_gift_desc",
+    "type": 0,
+    "en": "Generous users that type !gift in your chat will send you a gift of unknown value and content. This has a global cooldown that can be customised",
+    "vi": "Generous users that type !gift in your chat will send you a gift of unknown value and content. This has a global cooldown that can be customised"
+  },
+  {
+    "key": "twitch_strike_desc",
+    "type": 0,
+    "en": "Upset Twitch users that type !strike in your chat will strike you with lightning! This has a global cooldown.",
+    "vi": "Upset Twitch users that type !strike in your chat will strike you with lightning! This has a global cooldown."
+  },
+  {
+    "key": "twitch_command_cooldown",
+    "type": 0,
+    "en": "Cooldown",
+    "vi": "Cooldown"
+  },
+  {
+    "key": "twitch_settlers_title",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "New Settler"
+  },
+  {
+    "key": "twitch_settlers_desc",
+    "type": 0,
+    "en": "A new follower, subscriber or hypetrain level spawns a new settler. Remember that the soft lock for settler count is 20 settlers.",
+    "vi": "A new follower, subscriber or hypetrain level spawns a new settler. Remember that the soft lock for settler count is 20 settlers."
+  },
+  {
+    "key": "twitch_event",
+    "type": 0,
+    "en": "Twitch event",
+    "vi": "Twitch event"
+  },
+  {
+    "key": "twitch_event_01",
+    "type": 0,
+    "en": "Follow",
+    "vi": "Follow"
+  },
+  {
+    "key": "twitch_event_02",
+    "type": 0,
+    "en": "Subscribe",
+    "vi": "Subscribe"
+  },
+  {
+    "key": "twitch_event_03",
+    "type": 0,
+    "en": "Hypetrain level",
+    "vi": "Hypetrain level"
+  },
+  {
+    "key": "twitch_drops_title",
+    "type": 0,
+    "en": "Twitch Drops",
+    "vi": "Twitch Drops"
+  },
+  {
+    "key": "twitch_drops_desc",
+    "type": 0,
+    "en": "If you have earned Twitch drops during one of Going Medieval watch campaigns, you can redeem them here.",
+    "vi": "If you have earned Twitch drops during one of Going Medieval watch campaigns, you can redeem them here."
+  },
+  {
+    "key": "not_allowed_map_selected",
+    "type": 0,
+    "en": "This map type is not intended to be used with this scenario",
+    "vi": "This map type is not intended to be used with this scenario"
+  },
+  {
+    "key": "recomend_dont_change_cap",
+    "type": 0,
+    "en": "High number of FPS might create issues with animations being out of sync. We recommend keeping this at 60 or lower",
+    "vi": "High number of FPS might create issues with animations being out of sync. We recommend keeping this at 60 or lower"
+  },
+  {
+    "key": "twitch_drops_bbt",
+    "type": 0,
+    "en": "{drop} has been redeemed!",
+    "vi": "{drop} has been redeemed!"
+  },
+  {
+    "key": "twitch_drops_bbt_none",
+    "type": 0,
+    "en": "No Twitch Drops were unlocked.",
+    "vi": "No Twitch Drops were unlocked."
+  },
+  {
+    "key": "tree_mighty_oak",
+    "type": 0,
+    "en": "Mighty Oak",
+    "vi": "Mighty Oak"
+  },
+  {
+    "key": "dont_harvest",
+    "type": 0,
+    "en": "Don't Harvest",
+    "vi": "Don't Harvest"
+  },
+  {
+    "key": "dont_cut",
+    "type": 0,
+    "en": "Don't Cut",
+    "vi": "Don't Cut"
+  },
+  {
+    "key": "voxel_rocky",
+    "type": 0,
+    "en": "Rocky soil",
+    "vi": "Rocky soil"
+  },
+  {
+    "key": "voxel_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Grass"
+  },
+  {
+    "key": "voxel_dirt",
+    "type": 0,
+    "en": "Soil",
+    "vi": "Soil"
+  },
+  {
+    "key": "voxel_limestone",
+    "type": 0,
+    "en": "Limestone",
+    "vi": "Limestone"
+  },
+  {
+    "key": "voxel_clay",
+    "type": 0,
+    "en": "Clay",
+    "vi": "Clay"
+  },
+  {
+    "key": "voxel_iron",
+    "type": 0,
+    "en": "Iron",
+    "vi": "Iron"
+  },
+  {
+    "key": "voxel_salt",
+    "type": 0,
+    "en": "Salt",
+    "vi": "Salt"
+  },
+  {
+    "key": "voxel_gold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Gold"
+  },
+  {
+    "key": "voxel_granite",
+    "type": 0,
+    "en": "Granite",
+    "vi": "Granite"
+  },
+  {
+    "key": "voxel_sand",
+    "type": 0,
+    "en": "Sand",
+    "vi": "Sand"
+  },
+  {
+    "key": "voxel_silver",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Silver"
+  },
+  {
+    "key": "voxel_coal",
+    "type": 0,
+    "en": "Coal",
+    "vi": "Coal"
+  },
+  {
+    "key": "voxel_impureLimestone",
+    "type": 0,
+    "en": "Limestone Deposit (Impure)",
+    "vi": "Limestone Deposit (Impure)"
+  },
+  {
+    "key": "voxel_wetlandDirt",
+    "type": 0,
+    "en": "Marshy soil",
+    "vi": "Marshy soil"
+  },
+  {
+    "key": "beam_error_default",
+    "type": 0,
+    "en": "Support beam needs to be placed between 2x walls or ground",
+    "vi": "Support beam needs to be placed between 2x walls or ground"
+  },
+  {
+    "key": "can_not_deal_damage_to_target",
+    "type": 0,
+    "en": "This weapon cannot damage this target",
+    "vi": "This weapon cannot damage this target"
+  },
+  {
+    "key": "worker_can_not_attack",
+    "type": 0,
+    "en": "Can't attack target",
+    "vi": "Can't attack target"
+  },
+  {
+    "key": "worker_can_not_find_path_to_target",
+    "type": 0,
+    "en": "Can't find a clear path to target",
+    "vi": "Can't find a clear path to target"
+  },
+  {
+    "key": "cannot_build_on_edge",
+    "type": 0,
+    "en": "Cannot place building this close to edge of map",
+    "vi": "Cannot place building this close to edge of map"
+  },
+  {
+    "key": "cannot_build_on_top_layer",
+    "type": 0,
+    "en": "Highest point reached, you can't place buildings this high",
+    "vi": "Highest point reached, you can't place buildings this high"
+  },
+  {
+    "key": "cannot_dig_bedrock",
+    "type": 0,
+    "en": "You have hit bedrock, you can't dig any deeper",
+    "vi": "You have hit bedrock, you can't dig any deeper"
+  },
+  {
+    "key": "cannot_dig_edge",
+    "type": 0,
+    "en": "Cannot mark for mining this close to edge of map",
+    "vi": "Cannot mark for mining this close to edge of map"
+  },
+  {
+    "key": "cannot_place_stockpile_on_edge",
+    "type": 0,
+    "en": "Cannot place stockpile this close to edge of map",
+    "vi": "Cannot place stockpile this close to edge of map"
+  },
+  {
+    "key": "default_error_space_not_buildable",
+    "type": 0,
+    "en": "Structure can't be placed there",
+    "vi": "Structure can't be placed there"
+  },
+  {
+    "key": "error_ladder_blocked",
+    "type": 0,
+    "en": "Structure can't be placed there",
+    "vi": "Structure can't be placed there"
+  },
+  {
+    "key": "default_error_space_taken",
+    "type": 0,
+    "en": "Space already occupied",
+    "vi": "Space already occupied"
+  },
+  {
+    "key": "dig_failed",
+    "type": 0,
+    "en": "Mined Resources Mangled",
+    "vi": "Mined Resources Mangled"
+  },
+  {
+    "key": "error_selection_order_chopping",
+    "type": 0,
+    "en": "You must select a fully grown tree",
+    "vi": "You must select a fully grown tree"
+  }
+]

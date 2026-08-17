@@ -1,0 +1,1646 @@
+[
+  {
+    "key": "armor_damage",
+    "type": 0,
+    "en": "Armour damage",
+    "vi": "Armour damage"
+  },
+  {
+    "key": "armor_hitpoints_percentage",
+    "type": 0,
+    "en": "Armour Hitpoints Percentage",
+    "vi": "Armour Hitpoints Percentage"
+  },
+  {
+    "key": "armor_rating",
+    "type": 0,
+    "en": "Armour rating",
+    "vi": "Armour rating"
+  },
+  {
+    "key": "body_armor",
+    "type": 0,
+    "en": "Body Armour",
+    "vi": "Body Armour"
+  },
+  {
+    "key": "general_item_slot_bodyarmor",
+    "type": 0,
+    "en": "Body armour item slot",
+    "vi": "Body armour item slot"
+  },
+  {
+    "key": "head_armor",
+    "type": 0,
+    "en": "Head armour",
+    "vi": "Head armour"
+  },
+  {
+    "key": "ignores_armor",
+    "type": 0,
+    "en": "Armour penetration",
+    "vi": "Armour penetration"
+  },
+  {
+    "key": "precision_weapon",
+    "type": 0,
+    "en": "Equiped weapon precision",
+    "vi": "Equiped weapon precision"
+  },
+  {
+    "key": "weapon_and_modifiers",
+    "type": 0,
+    "en": "Weapon and modifiers",
+    "vi": "Weapon and modifiers"
+  },
+  {
+    "key": "auto_equip_weapon",
+    "type": 0,
+    "en": "Manage Weapon",
+    "vi": "Manage Weapon"
+  },
+  {
+    "key": "auto_equip_weapon_info",
+    "type": 0,
+    "en": "Set autoequip weapon for each settler",
+    "vi": "Set autoequip weapon for each settler"
+  },
+  {
+    "key": "auto_equip_armor",
+    "type": 0,
+    "en": "Manage Armour",
+    "vi": "Manage Armour"
+  },
+  {
+    "key": "auto_equip_armor_info",
+    "type": 0,
+    "en": "Set autoequip armour for each settler",
+    "vi": "Set autoequip armour for each settler"
+  },
+  {
+    "key": "edit_Weapons_profiles",
+    "type": 0,
+    "en": "Edit Weapon Profiles",
+    "vi": "Edit Weapon Profiles"
+  },
+  {
+    "key": "edit_Armor_profiles",
+    "type": 0,
+    "en": "Edit Armour Profiles",
+    "vi": "Edit Armour Profiles"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_all",
+    "type": 0,
+    "en": "All Weapons",
+    "vi": "All Weapons"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_none",
+    "type": 0,
+    "en": "No Weapons",
+    "vi": "No Weapons"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_melee_onehanded",
+    "type": 0,
+    "en": "Melee One-handed",
+    "vi": "Melee One-handed"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_melee_twohanded",
+    "type": 0,
+    "en": "Melee Two-handed",
+    "vi": "Melee Two-handed"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_ranged",
+    "type": 0,
+    "en": "Ranged",
+    "vi": "Ranged"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_shield_melee_onehanded_shield",
+    "type": 0,
+    "en": "Melee One-handed + Shields",
+    "vi": "Melee One-handed + Shields"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_all",
+    "type": 0,
+    "en": "All Weapons",
+    "vi": "All Weapons"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_none",
+    "type": 0,
+    "en": "No Weapons",
+    "vi": "No Weapons"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_melee_onehanded",
+    "type": 0,
+    "en": "Melee One-handed",
+    "vi": "Melee One-handed"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_melee_twohanded",
+    "type": 0,
+    "en": "Melee Two-handed",
+    "vi": "Melee Two-handed"
+  },
+  {
+    "key": "manageDefaultPreset_weapon_ranged",
+    "type": 0,
+    "en": "Ranged",
+    "vi": "Ranged"
+  },
+  {
+    "key": "manageDefaultPreset_armor_all",
+    "type": 0,
+    "en": "All Armour",
+    "vi": "All Armour"
+  },
+  {
+    "key": "manageDefaultPreset_armor_none",
+    "type": 0,
+    "en": "No Armour",
+    "vi": "No Armour"
+  },
+  {
+    "key": "preset_name_weapon_melee_twohanded",
+    "type": 0,
+    "en": "Two-handed",
+    "vi": "Two-handed"
+  },
+  {
+    "key": "weapons_trader",
+    "type": 0,
+    "en": "Weapons merchant",
+    "vi": "Weapons merchant"
+  },
+  {
+    "key": "equipment_flammability",
+    "type": 0,
+    "en": "Flammability",
+    "vi": "Flammability"
+  },
+  {
+    "key": "equipment_fire_damage_multiplier",
+    "type": 0,
+    "en": "Fire intensification",
+    "vi": "Fire intensification"
+  },
+  {
+    "key": "error_siege_weapon_target_too_close",
+    "type": 0,
+    "en": "The target is too close",
+    "vi": "The target is too close"
+  },
+  {
+    "key": "error_siege_weapon_target_too_far",
+    "type": 0,
+    "en": "the target is out of range",
+    "vi": "the target is out of range"
+  },
+  {
+    "key": "system_weapon_attributes_info",
+    "type": 0,
+    "en": "<style=AlmParagraph><sprite=\"damage_icon\" index=t>Damage \\n</style>- Damage is calculated from several factors: attackers' attributes; weapon base damage; weapon armour penetration; and the opponents’ armour rating and armour durability.\\n- If the attacker hits an opponent without armour, then the entire damage will be inflicted and the opponents’ HP will be lowered by that amount.\\n- If the attacker hits an opponent who is wearing armour, then the damage is affected by the weapon's armour penetration attribute and the opponents’ armour rating and armour hitpoint percentage.\\n\\n- The formula for dealing damage is:\\n\\n<style=Desc>(weapon base damage * armour penetration) - ((weapon base damage * armour penetration) * (armour hit points percentage at that moment * armour rating))</style>\\n<style=AlmParagraph>\\n<sprite=\"critical_strike\" index=t> Critical Damage\\n</style>- Every attack has a 15% chance to deal critical damage by striking the opponent in the head.\\nAll critical damage is multiplied by 2x.\\n- When critical damage is inflicted, the damage takes into consideration headgear instead of body armour.\\n<style=AlmParagraph>\\n<sprite=\"range_icon\" index=t> Range\\n</style>- The number of grid spaces the weapon can reach. \\n<style=AlmParagraph>\\n<sprite=\"precision_icon\" index=t> Precision\\n</style>- The weapon's chance to hit the target.\\n- This is not the weapon's final chance to hit its target.\\n- The chance to hit is affected by things like: the attackers’ attributes, precision falloff with distance, weather and terrain elevation.\\n<style=AlmParagraph>\\nPrecision falloff with distance\\n</style>- This is the  percentage the chance to hit falls as the target gets further away.\\n<style=AlmParagraph>\\nArmour penetration\\n</style>- This is the percentage of damage that will pass through armour. Piercing weapons like spears, arrows and bolts have a high armour penetration percentage.\\n<style=AlmParagraph>\\nArmour damage\\n</style>- This is the percentage of base damage that will be inflicted to the armour or shield (or headgear if critical strike) Weapons like hammers and maces as well as axes have a high armour damage percentage, so they are ideal for armoured opponents or breaking down their shields\\n<style=AlmParagraph>\\nBuilding damage\\n</style>- The percentage of base damage that will be inflicted on buildings, workbenches and furniture. Blunt weapons and axes have a high building damage percentage. They are ideal for taking down doors.\n",
+    "vi": "<style=AlmParagraph><sprite=\"damage_icon\" index=t>Damage \\n</style>- Damage is calculated from several factors: attackers' attributes; weapon base damage; weapon armour penetration; and the opponents’ armour rating and armour durability.\\n- If the attacker hits an opponent without armour, then the entire damage will be inflicted and the opponents’ HP will be lowered by that amount.\\n- If the attacker hits an opponent who is wearing armour, then the damage is affected by the weapon's armour penetration attribute and the opponents’ armour rating and armour hitpoint percentage.\\n\\n- The formula for dealing damage is:\\n\\n<style=Desc>(weapon base damage * armour penetration) - ((weapon base damage * armour penetration) * (armour hit points percentage at that moment * armour rating))</style>\\n<style=AlmParagraph>\\n<sprite=\"critical_strike\" index=t> Critical Damage\\n</style>- Every attack has a 15% chance to deal critical damage by striking the opponent in the head.\\nAll critical damage is multiplied by 2x.\\n- When critical damage is inflicted, the damage takes into consideration headgear instead of body armour.\\n<style=AlmParagraph>\\n<sprite=\"range_icon\" index=t> Range\\n</style>- The number of grid spaces the weapon can reach. \\n<style=AlmParagraph>\\n<sprite=\"precision_icon\" index=t> Precision\\n</style>- The weapon's chance to hit the target.\\n- This is not the weapon's final chance to hit its target.\\n- The chance to hit is affected by things like: the attackers’ attributes, precision falloff with distance, weather and terrain elevation.\\n<style=AlmParagraph>\\nPrecision falloff with distance\\n</style>- This is the  percentage the chance to hit falls as the target gets further away.\\n<style=AlmParagraph>\\nArmour penetration\\n</style>- This is the percentage of damage that will pass through armour. Piercing weapons like spears, arrows and bolts have a high armour penetration percentage.\\n<style=AlmParagraph>\\nArmour damage\\n</style>- This is the percentage of base damage that will be inflicted to the armour or shield (or headgear if critical strike) Weapons like hammers and maces as well as axes have a high armour damage percentage, so they are ideal for armoured opponents or breaking down their shields\\n<style=AlmParagraph>\\nBuilding damage\\n</style>- The percentage of base damage that will be inflicted on buildings, workbenches and furniture. Blunt weapons and axes have a high building damage percentage. They are ideal for taking down doors.\n"
+  },
+  {
+    "key": "system_weapon_attributes_name",
+    "type": 0,
+    "en": "Weapon Attributes",
+    "vi": "Weapon Attributes"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithWeaponPositive",
+    "type": 0,
+    "en": "[He/She] created a magnificent weapon",
+    "vi": "[He/She] created a magnificent weapon"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithWeaponNegative",
+    "type": 0,
+    "en": "[He/She] created an inferior weapon",
+    "vi": "[He/She] created an inferior weapon"
+  },
+  {
+    "key": "hunting_requires_ranged_weapon",
+    "type": 0,
+    "en": "This settler cannot hunt without a ranged weapon",
+    "vi": "This settler cannot hunt without a ranged weapon"
+  },
+  {
+    "key": "warning_message_info_HunterMissingWeapon",
+    "type": 0,
+    "en": "Settlers are assigned hunting jobs, but have no ranged weapons to hunt with.\\nEquip your hunters with ranged weapons so that they can hunt.",
+    "vi": "Settlers are assigned hunting jobs, but have no ranged weapons to hunt with.\\nEquip your hunters with ranged weapons so that they can hunt."
+  },
+  {
+    "key": "warning_message_short_HunterMissingWeapon",
+    "type": 0,
+    "en": "Hunter lacks ranged weapon",
+    "vi": "Hunter lacks ranged weapon"
+  },
+  {
+    "key": "pile_tooltip_info_ArmorDamageLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Low armour and shield damage</style>",
+    "vi": "<style=DefaultRed>Low armour and shield damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmorDamageMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate armour and shield damage</style>",
+    "vi": "<style=DefaultOrange>Moderate armour and shield damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmorDamageHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High armour and shield damage</style>",
+    "vi": "<style=DefaultGreen>High armour and shield damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmorDamageVeryHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>Very high armour and shield damage</style>",
+    "vi": "<style=DefaultGreen>Very high armour and shield damage</style>"
+  },
+  {
+    "key": "equipment_decomposed",
+    "type": 0,
+    "en": "<equipment> decomposed or has been destroyed while worn by <settler>!",
+    "vi": "<equipment> decomposed or has been destroyed while worn by <settler>!"
+  },
+  {
+    "key": "enemy_siege_weapon_bbt",
+    "type": 0,
+    "en": "Enemies have started placing siege weapons",
+    "vi": "Enemies have started placing siege weapons"
+  },
+  {
+    "key": "name_prod_armor",
+    "type": 0,
+    "en": "Crafting armour",
+    "vi": "Crafting armour"
+  },
+  {
+    "key": "name_prod_make_weapon",
+    "type": 0,
+    "en": "Crafting weapon",
+    "vi": "Crafting weapon"
+  },
+  {
+    "key": "research_name_armor_production_lvl1",
+    "type": 0,
+    "en": "Armourer",
+    "vi": "Armourer"
+  },
+  {
+    "key": "research_name_armor_production_lvl2",
+    "type": 0,
+    "en": "Armourer II",
+    "vi": "Armourer II"
+  },
+  {
+    "key": "research_name_armor_production_lvl3",
+    "type": 0,
+    "en": "Armourer III",
+    "vi": "Armourer III"
+  },
+  {
+    "key": "atb_info_UnarmedArmorDamage",
+    "type": 0,
+    "en": "The percentage of damage dealt by an unarmed settler to the target's armour.",
+    "vi": "The percentage of damage dealt by an unarmed settler to the target's armour."
+  },
+  {
+    "key": "atb_info_UnarmedIgnoreArmor",
+    "type": 0,
+    "en": "The percentage damage inflicted by an unarmed settler on an armed target.",
+    "vi": "The percentage damage inflicted by an unarmed settler on an armed target."
+  },
+  {
+    "key": "atb_name_UnarmedArmorDamage",
+    "type": 0,
+    "en": "Unarmed Damage to Armour",
+    "vi": "Unarmed Damage to Armour"
+  },
+  {
+    "key": "atb_name_UnarmedIgnoreArmor",
+    "type": 0,
+    "en": "Unarmed Base Damage",
+    "vi": "Unarmed Base Damage"
+  },
+  {
+    "key": "equipment_material_iron",
+    "type": 0,
+    "en": "Iron",
+    "vi": "Iron"
+  },
+  {
+    "key": "equipment_material_steel",
+    "type": 0,
+    "en": "Steel",
+    "vi": "Steel"
+  },
+  {
+    "key": "equipment_material_silver",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Silver"
+  },
+  {
+    "key": "equipment_material_gold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Gold"
+  },
+  {
+    "key": "equipment_material_bone",
+    "type": 0,
+    "en": "Bone",
+    "vi": "Bone"
+  },
+  {
+    "key": "equipment_material_wood",
+    "type": 0,
+    "en": "Wood",
+    "vi": "Wood"
+  },
+  {
+    "key": "equipment_material_wicker",
+    "type": 0,
+    "en": "Wicker",
+    "vi": "Wicker"
+  },
+  {
+    "key": "equipment_material_linen",
+    "type": 0,
+    "en": "Linen",
+    "vi": "Linen"
+  },
+  {
+    "key": "equipment_material_leather",
+    "type": 0,
+    "en": "Leather",
+    "vi": "Leather"
+  },
+  {
+    "key": "equipment_material_wool",
+    "type": 0,
+    "en": "Wool",
+    "vi": "Wool"
+  },
+  {
+    "key": "equipment_material_hay",
+    "type": 0,
+    "en": "Straw",
+    "vi": "Straw"
+  },
+  {
+    "key": "equipment_material_metal",
+    "type": 0,
+    "en": "Metal",
+    "vi": "Metal"
+  },
+  {
+    "key": "equipment_material_cloth",
+    "type": 0,
+    "en": "Clothing Fabric",
+    "vi": "Clothing Fabric"
+  },
+  {
+    "key": "equipment_material_leather_deer",
+    "type": 0,
+    "en": "Deer hide",
+    "vi": "Deer hide"
+  },
+  {
+    "key": "equipment_material_leather_hare",
+    "type": 0,
+    "en": "Hare pelt",
+    "vi": "Hare pelt"
+  },
+  {
+    "key": "equipment_material_leather_wolf",
+    "type": 0,
+    "en": "Wolf pelt",
+    "vi": "Wolf pelt"
+  },
+  {
+    "key": "equipment_material_leather_boar",
+    "type": 0,
+    "en": "Boar pelt",
+    "vi": "Boar pelt"
+  },
+  {
+    "key": "equipment_material_leather_fox",
+    "type": 0,
+    "en": "Fox pelt",
+    "vi": "Fox pelt"
+  },
+  {
+    "key": "equipment_material_leather_rat",
+    "type": 0,
+    "en": "Rat pelt",
+    "vi": "Rat pelt"
+  },
+  {
+    "key": "equipment_material_leather_water_vole",
+    "type": 0,
+    "en": "Water vole pelt",
+    "vi": "Water vole pelt"
+  },
+  {
+    "key": "equipment_material_leather_polecat",
+    "type": 0,
+    "en": "Polecat pelt",
+    "vi": "Polecat pelt"
+  },
+  {
+    "key": "equipment_material_leather_cow",
+    "type": 0,
+    "en": "Cow hide",
+    "vi": "Cow hide"
+  },
+  {
+    "key": "equipment_material_leather_goat",
+    "type": 0,
+    "en": "Goat skin",
+    "vi": "Goat skin"
+  },
+  {
+    "key": "equipment_material_leather_sheep",
+    "type": 0,
+    "en": "Sheep skin",
+    "vi": "Sheep skin"
+  },
+  {
+    "key": "equipment_material_leather_donkey",
+    "type": 0,
+    "en": "Ass hide",
+    "vi": "Ass hide"
+  },
+  {
+    "key": "equipment_material_leather_cat",
+    "type": 0,
+    "en": "Cat skin",
+    "vi": "Cat skin"
+  },
+  {
+    "key": "equipment_material_leather_dog",
+    "type": 0,
+    "en": "Dog pelt",
+    "vi": "Dog pelt"
+  },
+  {
+    "key": "equipment_material_leather_human",
+    "type": 0,
+    "en": "Human skin",
+    "vi": "Human skin"
+  },
+  {
+    "key": "equipment_material_leather_bear",
+    "type": 0,
+    "en": "Bear skin",
+    "vi": "Bear skin"
+  },
+  {
+    "key": "equipment_name_dagger",
+    "type": 0,
+    "en": "Dagger",
+    "vi": "Dagger"
+  },
+  {
+    "key": "equipment_name_short_sword",
+    "type": 0,
+    "en": "Short Sword",
+    "vi": "Short Sword"
+  },
+  {
+    "key": "equipment_name_falchion",
+    "type": 0,
+    "en": "Falchion",
+    "vi": "Falchion"
+  },
+  {
+    "key": "equipment_name_knightly_sword",
+    "type": 0,
+    "en": "Knightly Sword",
+    "vi": "Knightly Sword"
+  },
+  {
+    "key": "equipment_name_longsword",
+    "type": 0,
+    "en": "Longsword",
+    "vi": "Longsword"
+  },
+  {
+    "key": "equipment_name_greatsword",
+    "type": 0,
+    "en": "Greatsword",
+    "vi": "Greatsword"
+  },
+  {
+    "key": "equipment_name_staff",
+    "type": 0,
+    "en": "Staff",
+    "vi": "Staff"
+  },
+  {
+    "key": "equipment_name_cudgel",
+    "type": 0,
+    "en": "Cudgel",
+    "vi": "Cudgel"
+  },
+  {
+    "key": "equipment_name_bludgeon",
+    "type": 0,
+    "en": "Bludgeon",
+    "vi": "Bludgeon"
+  },
+  {
+    "key": "equipment_name_mace",
+    "type": 0,
+    "en": "Mace",
+    "vi": "Mace"
+  },
+  {
+    "key": "equipment_name_two_handed_mace",
+    "type": 0,
+    "en": "Two Handed Mace",
+    "vi": "Two Handed Mace"
+  },
+  {
+    "key": "equipment_name_two_handed_flanged_mace",
+    "type": 0,
+    "en": "Two Handed Flanged Mace",
+    "vi": "Two Handed Flanged Mace"
+  },
+  {
+    "key": "equipment_name_military_pick",
+    "type": 0,
+    "en": "Military Pick",
+    "vi": "Military Pick"
+  },
+  {
+    "key": "equipment_name_spear",
+    "type": 0,
+    "en": "Spear",
+    "vi": "Spear"
+  },
+  {
+    "key": "equipment_name_reinforced_spear",
+    "type": 0,
+    "en": "Reinforced  Spear",
+    "vi": "Reinforced  Spear"
+  },
+  {
+    "key": "equipment_name_berdiche",
+    "type": 0,
+    "en": "Berdiche",
+    "vi": "Berdiche"
+  },
+  {
+    "key": "equipment_name_billhook",
+    "type": 0,
+    "en": "Billhook",
+    "vi": "Billhook"
+  },
+  {
+    "key": "equipment_name_warfork",
+    "type": 0,
+    "en": "Warfork",
+    "vi": "Warfork"
+  },
+  {
+    "key": "equipment_name_hatchet",
+    "type": 0,
+    "en": "Hatchet",
+    "vi": "Hatchet"
+  },
+  {
+    "key": "equipment_name_greataxe",
+    "type": 0,
+    "en": "Greataxe",
+    "vi": "Greataxe"
+  },
+  {
+    "key": "equipment_name_warhammer",
+    "type": 0,
+    "en": "Warhammer",
+    "vi": "Warhammer"
+  },
+  {
+    "key": "equipment_name_two_handed_warhammer",
+    "type": 0,
+    "en": "Two Handed Warhammer",
+    "vi": "Two Handed Warhammer"
+  },
+  {
+    "key": "equipment_name_flail",
+    "type": 0,
+    "en": "Flail",
+    "vi": "Flail"
+  },
+  {
+    "key": "equipment_name_reinforced_flail",
+    "type": 0,
+    "en": "Reinforced Flail",
+    "vi": "Reinforced Flail"
+  },
+  {
+    "key": "equipment_name_two_handed_flail",
+    "type": 0,
+    "en": "Two Handed Flail",
+    "vi": "Two Handed Flail"
+  },
+  {
+    "key": "equipment_name_short_bow",
+    "type": 0,
+    "en": "Short Bow",
+    "vi": "Short Bow"
+  },
+  {
+    "key": "equipment_name_war_bow",
+    "type": 0,
+    "en": "War Bow",
+    "vi": "War Bow"
+  },
+  {
+    "key": "equipment_name_curved_bow",
+    "type": 0,
+    "en": "Curved Bow",
+    "vi": "Curved Bow"
+  },
+  {
+    "key": "equipment_name_long_bow",
+    "type": 0,
+    "en": "Longbow",
+    "vi": "Longbow"
+  },
+  {
+    "key": "equipment_name_light_crossbow",
+    "type": 0,
+    "en": "Light Crossbow",
+    "vi": "Light Crossbow"
+  },
+  {
+    "key": "equipment_name_crossbow",
+    "type": 0,
+    "en": "Crossbow",
+    "vi": "Crossbow"
+  },
+  {
+    "key": "equipment_name_heavy_crossbow",
+    "type": 0,
+    "en": "Heavy Crossbow",
+    "vi": "Heavy Crossbow"
+  },
+  {
+    "key": "equipment_name_throwing_axes",
+    "type": 0,
+    "en": "Throwing Axes",
+    "vi": "Throwing Axes"
+  },
+  {
+    "key": "equipment_name_light_javelins",
+    "type": 0,
+    "en": "Javelins",
+    "vi": "Javelins"
+  },
+  {
+    "key": "equipment_name_sling",
+    "type": 0,
+    "en": "Sling",
+    "vi": "Sling"
+  },
+  {
+    "key": "equipment_name_sling_staff",
+    "type": 0,
+    "en": "Stave Sling",
+    "vi": "Stave Sling"
+  },
+  {
+    "key": "equipment_name_bolas",
+    "type": 0,
+    "en": "Bolas",
+    "vi": "Bolas"
+  },
+  {
+    "key": "equipment_name_hand_ram",
+    "type": 0,
+    "en": "Battering Ram",
+    "vi": "Battering Ram"
+  },
+  {
+    "key": "equipment_name_metal_hand_ram",
+    "type": 0,
+    "en": "Metal Battering Ram",
+    "vi": "Metal Battering Ram"
+  },
+  {
+    "key": "equipment_name_armor",
+    "type": 0,
+    "en": "Armour",
+    "vi": "Armour"
+  },
+  {
+    "key": "equipment_name_light_armor",
+    "type": 0,
+    "en": "Light Armour",
+    "vi": "Light Armour"
+  },
+  {
+    "key": "equipment_name_forest_light_armor",
+    "type": 0,
+    "en": "Wood Armour",
+    "vi": "Wood Armour"
+  },
+  {
+    "key": "equipment_name_macabre_armor",
+    "type": 0,
+    "en": "Bone Armour",
+    "vi": "Bone Armour"
+  },
+  {
+    "key": "equipment_name_mail_armor",
+    "type": 0,
+    "en": "Mail Armour",
+    "vi": "Mail Armour"
+  },
+  {
+    "key": "equipment_name_plate_armor",
+    "type": 0,
+    "en": "Plate Armour",
+    "vi": "Plate Armour"
+  },
+  {
+    "key": "equipment_name_savage_heavy_armor",
+    "type": 0,
+    "en": "Savage Plate Armour",
+    "vi": "Savage Plate Armour"
+  },
+  {
+    "key": "equipment_name_plate_helmet",
+    "type": 0,
+    "en": "Great Helm",
+    "vi": "Great Helm"
+  },
+  {
+    "key": "equipment_name_pigface_helmet",
+    "type": 0,
+    "en": "Pigface Helmet",
+    "vi": "Pigface Helmet"
+  },
+  {
+    "key": "equipment_name_helmet",
+    "type": 0,
+    "en": "Helmet",
+    "vi": "Helmet"
+  },
+  {
+    "key": "equipment_name_light_helmet",
+    "type": 0,
+    "en": "Light Helmet",
+    "vi": "Light Helmet"
+  },
+  {
+    "key": "equipment_name_macabre_helmet",
+    "type": 0,
+    "en": "Bone Helmet",
+    "vi": "Bone Helmet"
+  },
+  {
+    "key": "equipment_name_mail_helmet",
+    "type": 0,
+    "en": "Mail Helmet",
+    "vi": "Mail Helmet"
+  },
+  {
+    "key": "equipment_name_mask",
+    "type": 0,
+    "en": "Mask",
+    "vi": "Mask"
+  },
+  {
+    "key": "equipment_name_horned_mask",
+    "type": 0,
+    "en": "Horned Mask",
+    "vi": "Horned Mask"
+  },
+  {
+    "key": "equipment_name_horned_helmet",
+    "type": 0,
+    "en": "Horned Helmet",
+    "vi": "Horned Helmet"
+  },
+  {
+    "key": "equipment_name_gambeson_armor",
+    "type": 0,
+    "en": "Gambeson",
+    "vi": "Gambeson"
+  },
+  {
+    "key": "equipment_name_heretic_helmet",
+    "type": 0,
+    "en": "Heretic Helmet",
+    "vi": "Heretic Helmet"
+  },
+  {
+    "key": "equipment_name_kettle_helmet",
+    "type": 0,
+    "en": "Kettle Helmet",
+    "vi": "Kettle Helmet"
+  },
+  {
+    "key": "equipment_name_viking_helmet",
+    "type": 0,
+    "en": "Viking Helmet",
+    "vi": "Viking Helmet"
+  },
+  {
+    "key": "equipment_name_buckler_shield",
+    "type": 0,
+    "en": "Buckler",
+    "vi": "Buckler"
+  },
+  {
+    "key": "equipment_name_kite_shield",
+    "type": 0,
+    "en": "Kite Shield",
+    "vi": "Kite Shield"
+  },
+  {
+    "key": "equipment_name_tower_shield",
+    "type": 0,
+    "en": "Tower Shield",
+    "vi": "Tower Shield"
+  },
+  {
+    "key": "equipment_name_pavise_shield",
+    "type": 0,
+    "en": "Pavise Shield",
+    "vi": "Pavise Shield"
+  },
+  {
+    "key": "equipment_name_shield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Shield"
+  },
+  {
+    "key": "equipment_name_macabre_shield",
+    "type": 0,
+    "en": "Bone Shield",
+    "vi": "Bone Shield"
+  },
+  {
+    "key": "equipment_name_winter_clothes",
+    "type": 0,
+    "en": "Winter Clothes",
+    "vi": "Winter Clothes"
+  },
+  {
+    "key": "equipment_name_summer_clothes",
+    "type": 0,
+    "en": "Summer Clothes",
+    "vi": "Summer Clothes"
+  },
+  {
+    "key": "equipment_name_wide_hat",
+    "type": 0,
+    "en": "Wide Hat",
+    "vi": "Wide Hat"
+  },
+  {
+    "key": "equipment_name_cap",
+    "type": 0,
+    "en": "Cap",
+    "vi": "Cap"
+  },
+  {
+    "key": "equipment_name_shackles",
+    "type": 0,
+    "en": "Shackles",
+    "vi": "Shackles"
+  },
+  {
+    "key": "equipment_name_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Crown"
+  },
+  {
+    "key": "equipment_name_heretic_crown",
+    "type": 0,
+    "en": "Heretic Crown",
+    "vi": "Heretic Crown"
+  },
+  {
+    "key": "equipment_name_sack_hood",
+    "type": 0,
+    "en": "Sackcloth Hood",
+    "vi": "Sackcloth Hood"
+  },
+  {
+    "key": "equipment_name_headband",
+    "type": 0,
+    "en": "Headband",
+    "vi": "Headband"
+  },
+  {
+    "key": "equipment_name_chaperon",
+    "type": 0,
+    "en": "Chaperon",
+    "vi": "Chaperon"
+  },
+  {
+    "key": "equipment_name_mouthpiece",
+    "type": 0,
+    "en": "Kerchief",
+    "vi": "Kerchief"
+  },
+  {
+    "key": "equipment_name_head_scarf",
+    "type": 0,
+    "en": "Head Scarf",
+    "vi": "Head Scarf"
+  },
+  {
+    "key": "equipment_name_hood",
+    "type": 0,
+    "en": "Hood",
+    "vi": "Hood"
+  },
+  {
+    "key": "equipment_name_wolf_headpiece",
+    "type": 0,
+    "en": "Wolf Headpiece",
+    "vi": "Wolf Headpiece"
+  },
+  {
+    "key": "equipment_name_boar_headpiece",
+    "type": 0,
+    "en": "Boar Headpiece",
+    "vi": "Boar Headpiece"
+  },
+  {
+    "key": "equipment_name_stag_headpiece",
+    "type": 0,
+    "en": "Stag Headpiece",
+    "vi": "Stag Headpiece"
+  },
+  {
+    "key": "equipment_name_hare_headpiece",
+    "type": 0,
+    "en": "Hare Headpiece ",
+    "vi": "Hare Headpiece "
+  },
+  {
+    "key": "Equipment_info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "equipment_info_dagger",
+    "type": 0,
+    "en": "Always handy when you need to get to the point. Best for close combat - eye gouging and slitting throats.",
+    "vi": "Always handy when you need to get to the point. Best for close combat - eye gouging and slitting throats."
+  },
+  {
+    "key": "equipment_info_short_sword",
+    "type": 0,
+    "en": "The single-handed weapon of choice for slicing through armoured opponents. Keep it sharp.",
+    "vi": "The single-handed weapon of choice for slicing through armoured opponents. Keep it sharp."
+  },
+  {
+    "key": "equipment_info_falchion",
+    "type": 0,
+    "en": "Light and elegant with a single, deadly cutting edge. Ideal for slashing.",
+    "vi": "Light and elegant with a single, deadly cutting edge. Ideal for slashing."
+  },
+  {
+    "key": "equipment_info_knightly_sword",
+    "type": 0,
+    "en": "A double-edged weapon, best aimed at the chinks in your opponent's armour.",
+    "vi": "A double-edged weapon, best aimed at the chinks in your opponent's armour."
+  },
+  {
+    "key": "equipment_info_longsword",
+    "type": 0,
+    "en": "A long-handled sword to be gripped and swung with both hands, ideally while charging on horseback in plate armour.",
+    "vi": "A long-handled sword to be gripped and swung with both hands, ideally while charging on horseback in plate armour."
+  },
+  {
+    "key": "equipment_info_greatsword",
+    "type": 0,
+    "en": "A huge claymore like this needs a double hand grip and a mighty warrior to wield it. ",
+    "vi": "A huge claymore like this needs a double hand grip and a mighty warrior to wield it. "
+  },
+  {
+    "key": "equipment_info_staff",
+    "type": 0,
+    "en": "An unassuming weapon, but deadly in the right hands. Take a wide stance with hands apart, to parry or lunge.",
+    "vi": "An unassuming weapon, but deadly in the right hands. Take a wide stance with hands apart, to parry or lunge."
+  },
+  {
+    "key": "equipment_info_cudgel",
+    "type": 0,
+    "en": "A stout club, which works well as a rudimentary form of self-defence.",
+    "vi": "A stout club, which works well as a rudimentary form of self-defence."
+  },
+  {
+    "key": "equipment_info_bludgeon",
+    "type": 0,
+    "en": "A short, heavy club. Basic, but effective in the hands of a thug or a cannibal.",
+    "vi": "A short, heavy club. Basic, but effective in the hands of a thug or a cannibal."
+  },
+  {
+    "key": "equipment_info_mace",
+    "type": 0,
+    "en": "Not an accurate weapon, but brutal when a blow lands. Splits armour and crushes bones.",
+    "vi": "Not an accurate weapon, but brutal when a blow lands. Splits armour and crushes bones."
+  },
+  {
+    "key": "equipment_info_two_handed_flanged_mace",
+    "type": 0,
+    "en": "The hard ridges on this mighty mace inflict damage on plate armour, and crush the wearer. Win win!",
+    "vi": "The hard ridges on this mighty mace inflict damage on plate armour, and crush the wearer. Win win!"
+  },
+  {
+    "key": "equipment_info_two_handed_mace",
+    "type": 0,
+    "en": "This mighty weapon will not pierce armour, but it will stun and pulverize the contents. A symbol of great power.",
+    "vi": "This mighty weapon will not pierce armour, but it will stun and pulverize the contents. A symbol of great power."
+  },
+  {
+    "key": "equipment_info_military_pick",
+    "type": 0,
+    "en": "A narrow point on this long weapon makes it ideal for swinging at enemies to pierce their plate mail.",
+    "vi": "A narrow point on this long weapon makes it ideal for swinging at enemies to pierce their plate mail."
+  },
+  {
+    "key": "equipment_info_spear",
+    "type": 0,
+    "en": "This may be just a pointed stick, but it does the job at a pinch. For fending off wolves and warmongers.",
+    "vi": "This may be just a pointed stick, but it does the job at a pinch. For fending off wolves and warmongers."
+  },
+  {
+    "key": "equipment_info_reinforced_spear",
+    "type": 0,
+    "en": "Not particularly sophisticated - even a serf can wield one. But devastating in the hands of a trained soldier.  ",
+    "vi": "Not particularly sophisticated - even a serf can wield one. But devastating in the hands of a trained soldier.  "
+  },
+  {
+    "key": "equipment_info_berdiche",
+    "type": 0,
+    "en": "A variety of poleaxe with a tall, heavy blade. Let it fall and cut down heretics as it may.",
+    "vi": "A variety of poleaxe with a tall, heavy blade. Let it fall and cut down heretics as it may."
+  },
+  {
+    "key": "equipment_info_billhook",
+    "type": 0,
+    "en": "A sharp hook for coppicing trees. This peasant's tool doubles as a weapon, popular among the Faithful Sons of England.",
+    "vi": "A sharp hook for coppicing trees. This peasant's tool doubles as a weapon, popular among the Faithful Sons of England."
+  },
+  {
+    "key": "equipment_info_warfork",
+    "type": 0,
+    "en": "Whether you see yourself as a pitchfork-wielding peasant or more of a mighty Neptune type, the warfork has you covered.",
+    "vi": "Whether you see yourself as a pitchfork-wielding peasant or more of a mighty Neptune type, the warfork has you covered."
+  },
+  {
+    "key": "equipment_info_hatchet",
+    "type": 0,
+    "en": "A neat, single handed axe. Chop wood, carry water, and split marauder's heads with it. So versatile.",
+    "vi": "A neat, single handed axe. Chop wood, carry water, and split marauder's heads with it. So versatile."
+  },
+  {
+    "key": "equipment_info_greataxe",
+    "type": 0,
+    "en": "Designed specifically for hewing limbs from humans, rather than trees. Inflicts deep, devastating wounds.",
+    "vi": "Designed specifically for hewing limbs from humans, rather than trees. Inflicts deep, devastating wounds."
+  },
+  {
+    "key": "equipment_info_warhammer",
+    "type": 0,
+    "en": "A blunt instrument for inflicting damage on your enemy's helmeted head. Or take out their horse's legs.",
+    "vi": "A blunt instrument for inflicting damage on your enemy's helmeted head. Or take out their horse's legs."
+  },
+  {
+    "key": "equipment_info_two_handed_warhammer",
+    "type": 0,
+    "en": "Delivers a forceful and targeted blow to your armoured opponent. Dent his confidence!",
+    "vi": "Delivers a forceful and targeted blow to your armoured opponent. Dent his confidence!"
+  },
+  {
+    "key": "equipment_info_flail",
+    "type": 0,
+    "en": "Useful for threshing grain, or your foes. Handy for catching the edge of a shield but unsophisticated.",
+    "vi": "Useful for threshing grain, or your foes. Handy for catching the edge of a shield but unsophisticated."
+  },
+  {
+    "key": "equipment_info_reinforced_flail",
+    "type": 0,
+    "en": "Only useful at short range, this weapon has been customised for greater intimidation. A thuggish weapon.",
+    "vi": "Only useful at short range, this weapon has been customised for greater intimidation. A thuggish weapon."
+  },
+  {
+    "key": "equipment_info_two_handed_flail",
+    "type": 0,
+    "en": "What you sacrifice in speed, you can make up for in sheer brute force. Inaccurate but imposing.",
+    "vi": "What you sacrifice in speed, you can make up for in sheer brute force. Inaccurate but imposing."
+  },
+  {
+    "key": "equipment_info_short_bow",
+    "type": 0,
+    "en": "A compact bow, perfect for use on horseback. Favoured by the Saracens.",
+    "vi": "A compact bow, perfect for use on horseback. Favoured by the Saracens."
+  },
+  {
+    "key": "equipment_info_war_bow",
+    "type": 0,
+    "en": "Bowmen tell of the Welsh and English prevailing in the great archery duel at Crécy. They used bows such as these.",
+    "vi": "Bowmen tell of the Welsh and English prevailing in the great archery duel at Crécy. They used bows such as these."
+  },
+  {
+    "key": "equipment_info_long_bow",
+    "type": 0,
+    "en": "A regular wooden bow fashioned from a single piece of yew, with reinforced nocks. A standard weapon for centuries.",
+    "vi": "A regular wooden bow fashioned from a single piece of yew, with reinforced nocks. A standard weapon for centuries."
+  },
+  {
+    "key": "equipment_info_curved_bow",
+    "type": 0,
+    "en": "All bowyers are inspired by Tristan's legendary bow, Fail Not. This beautifully-balanced weapon comes close.",
+    "vi": "All bowyers are inspired by Tristan's legendary bow, Fail Not. This beautifully-balanced weapon comes close."
+  },
+  {
+    "key": "equipment_info_light_crossbow",
+    "type": 0,
+    "en": "Easier to use and quicker to reload than a regular crossbow. Lacking force, it's best for finishing off a wounded foe.",
+    "vi": "Easier to use and quicker to reload than a regular crossbow. Lacking force, it's best for finishing off a wounded foe."
+  },
+  {
+    "key": "equipment_info_crossbow",
+    "type": 0,
+    "en": "Favoured by Genoese mercenaries, this bow gives flight to a short, heavy bolt that can pierce chain mail.",
+    "vi": "Favoured by Genoese mercenaries, this bow gives flight to a short, heavy bolt that can pierce chain mail."
+  },
+  {
+    "key": "equipment_info_heavy_crossbow",
+    "type": 0,
+    "en": "A bow hard to cock requiring a strong archer to wield it. But the force of the arrow is unsurpassed.",
+    "vi": "A bow hard to cock requiring a strong archer to wield it. But the force of the arrow is unsurpassed."
+  },
+  {
+    "key": "equipment_info_throwing_axes",
+    "type": 0,
+    "en": "A ranged weapon that is easy to wield but hard to master. Best lodged in the backs of your fleeing enemies.",
+    "vi": "A ranged weapon that is easy to wield but hard to master. Best lodged in the backs of your fleeing enemies."
+  },
+  {
+    "key": "equipment_info_light_javelins",
+    "type": 0,
+    "en": "A thrown spear that glints in the sun as it arcs towards your doomed assailants. A ranged alternative to archery.",
+    "vi": "A thrown spear that glints in the sun as it arcs towards your doomed assailants. A ranged alternative to archery."
+  },
+  {
+    "key": "equipment_info_sling",
+    "type": 0,
+    "en": "Do not underestimate the humble sling. Experts may loose stones faster than arrows, pelting foes with rugged rain.",
+    "vi": "Do not underestimate the humble sling. Experts may loose stones faster than arrows, pelting foes with rugged rain."
+  },
+  {
+    "key": "equipment_info_sling_staff",
+    "type": 0,
+    "en": "Part staff, part sling. Extends the length or your reach to great effect, especially handy for high walls and sieges.",
+    "vi": "Part staff, part sling. Extends the length or your reach to great effect, especially handy for high walls and sieges."
+  },
+  {
+    "key": "equipment_info_bolas",
+    "type": 0,
+    "en": "A weapon that looks like a toy. Spinning around their axis, these flying orbs will break the target's legs.",
+    "vi": "A weapon that looks like a toy. Spinning around their axis, these flying orbs will break the target's legs."
+  },
+  {
+    "key": "equipment_info_hand_ram",
+    "type": 0,
+    "en": "A stout wooden pole shaped for smashing down doors. Powered by human strength and determination.",
+    "vi": "A stout wooden pole shaped for smashing down doors. Powered by human strength and determination."
+  },
+  {
+    "key": "equipment_info_metal_hand_ram",
+    "type": 0,
+    "en": "An armoured pole, to splinter even the sturdiest of portals. Heavy to wield but worth the effort.",
+    "vi": "An armoured pole, to splinter even the sturdiest of portals. Heavy to wield but worth the effort."
+  },
+  {
+    "key": "equipment_info_light_armor",
+    "type": 0,
+    "en": "Inexpensive and easy to repair, this boiled leather armour is lightweight and deflects most cuts.",
+    "vi": "Inexpensive and easy to repair, this boiled leather armour is lightweight and deflects most cuts."
+  },
+  {
+    "key": "equipment_info_forest_light_armor",
+    "type": 0,
+    "en": "The forest provides. For those without a forge, particularly Manx cannibals, wooden plate will suffice.",
+    "vi": "The forest provides. For those without a forge, particularly Manx cannibals, wooden plate will suffice."
+  },
+  {
+    "key": "equipment_info_mail_armor",
+    "type": 0,
+    "en": "Flexible and easy to wear, mail offers good protection from sharp blades, helping to avert festering battlefield wounds.",
+    "vi": "Flexible and easy to wear, mail offers good protection from sharp blades, helping to avert festering battlefield wounds."
+  },
+  {
+    "key": "equipment_info_plate_armor",
+    "type": 0,
+    "en": "Knightly armour costs a small fortune. But invulnerability to swords and protection from blunt trauma comes at a price.",
+    "vi": "Knightly armour costs a small fortune. But invulnerability to swords and protection from blunt trauma comes at a price."
+  },
+  {
+    "key": "equipment_info_savage_heavy_armor",
+    "type": 0,
+    "en": "Dented and rusty, this is no armour for a shining knight. Bright metal is shunned among those who work in darkness.",
+    "vi": "Dented and rusty, this is no armour for a shining knight. Bright metal is shunned among those who work in darkness."
+  },
+  {
+    "key": "equipment_info_plate_helmet",
+    "type": 0,
+    "en": "Seeing and breathing are restricted. But there is no finer headgear than a plate metal helmet, worthy of a crusader.",
+    "vi": "Seeing and breathing are restricted. But there is no finer headgear than a plate metal helmet, worthy of a crusader."
+  },
+  {
+    "key": "equipment_info_light_helmet",
+    "type": 0,
+    "en": "This sturdy headgear offers some basic protection from glancing blows and slashes to the face.",
+    "vi": "This sturdy headgear offers some basic protection from glancing blows and slashes to the face."
+  },
+  {
+    "key": "equipment_info_mail_helmet",
+    "type": 0,
+    "en": "A mail coif is a wise addition to any set of armour, helping to deflect blades aimed at the back of the head or neck.",
+    "vi": "A mail coif is a wise addition to any set of armour, helping to deflect blades aimed at the back of the head or neck."
+  },
+  {
+    "key": "equipment_info_forest_mask",
+    "type": 0,
+    "en": "A stiff, wooden visage, unmoving in the face of human tragedy. The Green Man laughs at death.",
+    "vi": "A stiff, wooden visage, unmoving in the face of human tragedy. The Green Man laughs at death."
+  },
+  {
+    "key": "equipment_info_forest_horned_mask",
+    "type": 0,
+    "en": "A carved helm is imbued with the untamed spirit of the inhuman world, beyond the campfire. Fear the unknown.",
+    "vi": "A carved helm is imbued with the untamed spirit of the inhuman world, beyond the campfire. Fear the unknown."
+  },
+  {
+    "key": "equipment_info_forest_horned_helmet",
+    "type": 0,
+    "en": "A helm to invoke the terror of the Horned God, Lord of the Forest. Any swept up by Herne's hunt will be harried to the ends of time.",
+    "vi": "A helm to invoke the terror of the Horned God, Lord of the Forest. Any swept up by Herne's hunt will be harried to the ends of time."
+  },
+  {
+    "key": "equipment_info_gambeson_armor",
+    "type": 0,
+    "en": "A tough, quilted doublet favoured by infantry. The original body armour, it can stop arrows piercing the wearer.",
+    "vi": "A tough, quilted doublet favoured by infantry. The original body armour, it can stop arrows piercing the wearer."
+  },
+  {
+    "key": "equipment_info_macabre_armor",
+    "type": 0,
+    "en": "Armour fashioned from bone, evoking the tortoise or the crab. Some of the bone may be human.",
+    "vi": "Armour fashioned from bone, evoking the tortoise or the crab. Some of the bone may be human."
+  },
+  {
+    "key": "equipment_info_macabre_helmet",
+    "type": 0,
+    "en": "An outer skull, if you will. Usually sported by those who savour human flesh.",
+    "vi": "An outer skull, if you will. Usually sported by those who savour human flesh."
+  },
+  {
+    "key": "equipment_info_heretic_helmet",
+    "type": 0,
+    "en": "This horned headgear adds a demonic look to any outfit. Favoured by architects of chaos.",
+    "vi": "This horned headgear adds a demonic look to any outfit. Favoured by architects of chaos."
+  },
+  {
+    "key": "equipment_info_kettle_helmet",
+    "type": 0,
+    "en": "A brimmed, metal war hat, familiar to all who have marched on the battlefields of Europe. ",
+    "vi": "A brimmed, metal war hat, familiar to all who have marched on the battlefields of Europe. "
+  },
+  {
+    "key": "equipment_info_buckler_shield",
+    "type": 0,
+    "en": "A small, nimble, circular shield, ideal for duels and other hand-to-hand combat. ",
+    "vi": "A small, nimble, circular shield, ideal for duels and other hand-to-hand combat. "
+  },
+  {
+    "key": "equipment_info_kite_shield",
+    "type": 0,
+    "en": "A tall and unwieldy shield that comes into its own when used on horseback, protecting both horse and rider. ",
+    "vi": "A tall and unwieldy shield that comes into its own when used on horseback, protecting both horse and rider. "
+  },
+  {
+    "key": "equipment_info_heater_shield",
+    "type": 0,
+    "en": "A sturdy shield offers a good level of protection from arrows, blows and cuts. Used with a single-handed weapon.",
+    "vi": "A sturdy shield offers a good level of protection from arrows, blows and cuts. Used with a single-handed weapon."
+  },
+  {
+    "key": "equipment_info_tower_shield",
+    "type": 0,
+    "en": "This tall, heavy shield wards against projectiles and can be deployed in a shield wall. Use to safeguard archers.",
+    "vi": "This tall, heavy shield wards against projectiles and can be deployed in a shield wall. Use to safeguard archers."
+  },
+  {
+    "key": "equipment_info_pavise_shield",
+    "type": 0,
+    "en": "A belief in basketry is the only thing standing betwixt the wielder of this flimsy shield and certain death.",
+    "vi": "A belief in basketry is the only thing standing betwixt the wielder of this flimsy shield and certain death."
+  },
+  {
+    "key": "equipment_info_macabre_shield",
+    "type": 0,
+    "en": "Adorned with an osseous device, this decorative shield serves as a memento mori for both wearer and assailant.",
+    "vi": "Adorned with an osseous device, this decorative shield serves as a memento mori for both wearer and assailant."
+  },
+  {
+    "key": "equipment_info_winter_clothes",
+    "type": 0,
+    "en": "Wrapping up in many layers is essential in the notoriously cold, damp depths of the English winter.",
+    "vi": "Wrapping up in many layers is essential in the notoriously cold, damp depths of the English winter."
+  },
+  {
+    "key": "equipment_info_summer_clothes",
+    "type": 0,
+    "en": "Lightweight, breathable clothes are best for the summer months, when workers often overheat or get sunburnt outdoors.",
+    "vi": "Lightweight, breathable clothes are best for the summer months, when workers often overheat or get sunburnt outdoors."
+  },
+  {
+    "key": "equipment_info_cap",
+    "type": 0,
+    "en": "Keep the head snug and protect hair from woodsmoke and lice with a suitable headcovering.",
+    "vi": "Keep the head snug and protect hair from woodsmoke and lice with a suitable headcovering."
+  },
+  {
+    "key": "equipment_info_wide_hat",
+    "type": 0,
+    "en": "Ideal for harvesting or any outdoor labour, a wide-brimmed hat keeps off both the sun and the rain.",
+    "vi": "Ideal for harvesting or any outdoor labour, a wide-brimmed hat keeps off both the sun and the rain."
+  },
+  {
+    "key": "equipment_info_shackles",
+    "type": 0,
+    "en": "Strong iron manacles are essential to prevent captives from escape and other mischief.",
+    "vi": "Strong iron manacles are essential to prevent captives from escape and other mischief."
+  },
+  {
+    "key": "equipment_info_macabre_crown",
+    "type": 0,
+    "en": "Worn more for display than protection. The effect is fearsome.",
+    "vi": "Worn more for display than protection. The effect is fearsome."
+  },
+  {
+    "key": "equipment_info_druid_crown",
+    "type": 0,
+    "en": "A circlet wreathed in oak leaves, evoking wisdom and growth with the waxing power of the midsummer king.",
+    "vi": "A circlet wreathed in oak leaves, evoking wisdom and growth with the waxing power of the midsummer king."
+  },
+  {
+    "key": "equipment_info_heretic_crown",
+    "type": 0,
+    "en": "Swapping a crown of thorns for a circle of horns is a heretical act. And so the wearer turns authority upon its head.",
+    "vi": "Swapping a crown of thorns for a circle of horns is a heretical act. And so the wearer turns authority upon its head."
+  },
+  {
+    "key": "equipment_info_sack_hood",
+    "type": 0,
+    "en": "A rough sack about the head giving the wearer a disturbing, scarecrow-like appearance.",
+    "vi": "A rough sack about the head giving the wearer a disturbing, scarecrow-like appearance."
+  },
+  {
+    "key": "equipment_info_headband",
+    "type": 0,
+    "en": "A strip of cloth worn crownwise - perchance keeps straying hair off the face.",
+    "vi": "A strip of cloth worn crownwise - perchance keeps straying hair off the face."
+  },
+  {
+    "key": "equipment_info_mouthpiece",
+    "type": 0,
+    "en": "A square of fabric worn to cover the face or head. Beloved of bandits.",
+    "vi": "A square of fabric worn to cover the face or head. Beloved of bandits."
+  },
+  {
+    "key": "equipment_info_head_scarf",
+    "type": 0,
+    "en": "A simple cloth head covering. Easily adaptable for warmth, or disguise.",
+    "vi": "A simple cloth head covering. Easily adaptable for warmth, or disguise."
+  },
+  {
+    "key": "equipment_info_hood",
+    "type": 0,
+    "en": "Used for stealth and concealed identity by fugitives and outlaws, in the tradition of Robin Hood.",
+    "vi": "Used for stealth and concealed identity by fugitives and outlaws, in the tradition of Robin Hood."
+  },
+  {
+    "key": "equipment_info_wolf_headpiece",
+    "type": 0,
+    "en": "Mountain folk tell tales of shifting into wolf form, of hunting in packs. This headgear evokes the howling fear of the unknown.",
+    "vi": "Mountain folk tell tales of shifting into wolf form, of hunting in packs. This headgear evokes the howling fear of the unknown."
+  },
+  {
+    "key": "equipment_info_boar_headpiece",
+    "type": 0,
+    "en": "The warrior cult of the boar is resurgent, mainly in Northumbria. Pagan soldiers yet pray to its god, Vitiris, for courage.",
+    "vi": "The warrior cult of the boar is resurgent, mainly in Northumbria. Pagan soldiers yet pray to its god, Vitiris, for courage."
+  },
+  {
+    "key": "equipment_info_stag_headpiece",
+    "type": 0,
+    "en": "An antlered nod to our ancient goddess, Elen of the Ways. Or a plea to join Herne's Hunt. Uncanny, and sartorially Pagan.",
+    "vi": "An antlered nod to our ancient goddess, Elen of the Ways. Or a plea to join Herne's Hunt. Uncanny, and sartorially Pagan."
+  },
+  {
+    "key": "equipment_info_hare_headpiece",
+    "type": 0,
+    "en": "Evokes shapeshifing and heralds disaster. The wearer embodies fertility, madness, and death. Beware the hare.",
+    "vi": "Evokes shapeshifing and heralds disaster. The wearer embodies fertility, madness, and death. Beware the hare."
+  },
+  {
+    "key": "equipment_info_chaperon",
+    "type": 0,
+    "en": "The quintessential 14th century headgear - a caped hood with a long liripipe.",
+    "vi": "The quintessential 14th century headgear - a caped hood with a long liripipe."
+  },
+  {
+    "key": "equipment_info_reinforced_wooden_shield",
+    "type": 0,
+    "en": "This reinforced shield gives added protection, but comes with added weight. A trade off that may save your life.",
+    "vi": "This reinforced shield gives added protection, but comes with added weight. A trade off that may save your life."
+  },
+  {
+    "key": "equipment_info_bone_bow",
+    "type": 0,
+    "en": "A shortbow fashioned from animal bone, hide and sinew. ",
+    "vi": "A shortbow fashioned from animal bone, hide and sinew. "
+  },
+  {
+    "key": "resource_category_name_CtgArmor",
+    "type": 0,
+    "en": "Armour",
+    "vi": "Armour"
+  },
+  {
+    "key": "resource_category_name_CtgWeapon",
+    "type": 0,
+    "en": "Weapons",
+    "vi": "Weapons"
+  },
+  {
+    "key": "resource_group_WarfareArmor",
+    "type": 0,
+    "en": "Armour",
+    "vi": "Armour"
+  },
+  {
+    "key": "resource_group_WarfareWeapon",
+    "type": 0,
+    "en": "Weapon",
+    "vi": "Weapon"
+  },
+  {
+    "key": "resource_group_WarfareWeaponMelee",
+    "type": 0,
+    "en": "Melee",
+    "vi": "Melee"
+  },
+  {
+    "key": "resource_group_WeaponMelee",
+    "type": 0,
+    "en": "Melee",
+    "vi": "Melee"
+  },
+  {
+    "key": "resource_group_WeaponRanged",
+    "type": 0,
+    "en": "Ranged",
+    "vi": "Ranged"
+  },
+  {
+    "key": "resource_group_ArmorBody",
+    "type": 0,
+    "en": "Body Armour",
+    "vi": "Body Armour"
+  },
+  {
+    "key": "resource_group_ArmorHead",
+    "type": 0,
+    "en": "Headgear",
+    "vi": "Headgear"
+  },
+  {
+    "key": "bg_old_name_Armorer",
+    "type": 0,
+    "en": "journeyman armourer",
+    "vi": "journeyman armourer"
+  },
+  {
+    "key": "bg_old_info_Armorer",
+    "type": 0,
+    "en": "<name> began with cuir bouilli, leather boiled in wax and sturdy enough to give a commoner some battlefield protection. Later [he/she] progressed to Brigandine armour, riveting on metal plate to shield the heart. <name> was also serviceable with a bow.",
+    "vi": "<name> began with cuir bouilli, leather boiled in wax and sturdy enough to give a commoner some battlefield protection. Later [he/she] progressed to Brigandine armour, riveting on metal plate to shield the heart. <name> was also serviceable with a bow."
+  },
+  {
+    "key": "equipment_name_heater_shield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Shield"
+  },
+  {
+    "key": "equipment_name_macabre_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Crown"
+  },
+  {
+    "key": "equipment_name_druid_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Crown"
+  },
+  {
+    "key": "equipment_name_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Wall Mirror"
+  },
+  {
+    "key": "equipment_name_stone_statue_large",
+    "type": 0,
+    "en": "Large Statue (Limestone)",
+    "vi": "Large Statue (Limestone)"
+  },
+  {
+    "key": "equipment_name_wood_statue_large",
+    "type": 0,
+    "en": "Large Statue (Wood)",
+    "vi": "Large Statue (Wood)"
+  },
+  {
+    "key": "equipment_name_stone_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Limestone)",
+    "vi": "Wall Relief (Limestone)"
+  },
+  {
+    "key": "equipment_name_wood_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Wood)",
+    "vi": "Wall Relief (Wood)"
+  },
+  {
+    "key": "equipment_name_rug_large",
+    "type": 0,
+    "en": "Rug (Linen)",
+    "vi": "Rug (Linen)"
+  },
+  {
+    "key": "equipment_name_hay_rug_large",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Rush Matting"
+  },
+  {
+    "key": "equipment_name_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Wall Tapestry",
+    "vi": "Wall Tapestry"
+  },
+  {
+    "key": "equipment_name_painting_vertical_wall",
+    "type": 0,
+    "en": "Painting",
+    "vi": "Painting"
+  },
+  {
+    "key": "dev_particle_weapon_hit",
+    "type": 0,
+    "en": "Weapon Hit",
+    "vi": "Weapon Hit"
+  },
+  {
+    "key": "dev_event_trader_weapons",
+    "type": 0,
+    "en": "Weapons merchant",
+    "vi": "Weapons merchant"
+  }
+]

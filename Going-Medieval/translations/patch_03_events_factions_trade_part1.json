@@ -1,5 +1,23 @@
 [
   {
+    "key": "raids_won",
+    "type": 0,
+    "en": "Raids won",
+    "vi": "Raids won"
+  },
+  {
+    "key": "raids_lost",
+    "type": 0,
+    "en": "Raids lost",
+    "vi": "Raids lost"
+  },
+  {
+    "key": "raid_time",
+    "type": 0,
+    "en": "Raid duration",
+    "vi": "Raid duration"
+  },
+  {
     "key": "trade_number_merchant",
     "type": 0,
     "en": "The number of this resource the merchant has available to trade",
@@ -318,6 +336,18 @@
     "vi": "Send Caravan"
   },
   {
+    "key": "hair_braids",
+    "type": 0,
+    "en": "Hair #1",
+    "vi": "Hair #1"
+  },
+  {
+    "key": "male_beard_braid",
+    "type": 0,
+    "en": "Facial hair #6",
+    "vi": "Facial hair #6"
+  },
+  {
     "key": "caravan_is_already_forming",
     "type": 0,
     "en": "There is already a caravan forming to go to this destination",
@@ -376,6 +406,30 @@
     "type": 0,
     "en": "However, they will accept gifts that will influence their alignment towards your settlement.",
     "vi": "However, they will accept gifts that will influence their alignment towards your settlement."
+  },
+  {
+    "key": "effector_name_BeliefRaidLostChristian",
+    "type": 0,
+    "en": "God willed this defeat",
+    "vi": "God willed this defeat"
+  },
+  {
+    "key": "effector_name_BeliefRaidLostPagan",
+    "type": 0,
+    "en": "The Gods allowed this defeat",
+    "vi": "The Gods allowed this defeat"
+  },
+  {
+    "key": "effector_name_BeliefRaidWonChristian",
+    "type": 0,
+    "en": "God has delivered us from our enemies",
+    "vi": "God has delivered us from our enemies"
+  },
+  {
+    "key": "effector_name_BeliefRaidWonPagan",
+    "type": 0,
+    "en": "The Gods granted us victory",
+    "vi": "The Gods granted us victory"
   },
   {
     "key": "caravan_prisoner_already_forming",
@@ -580,6 +634,24 @@
     "type": 0,
     "en": "Drawn to <village_name> the Oak Brethren Pilgrim has arrived to marvel at the Mighty Oak, and is sure to spread the word across the land",
     "vi": "Drawn to <village_name> the Oak Brethren Pilgrim has arrived to marvel at the Mighty Oak, and is sure to spread the word across the land"
+  },
+  {
+    "key": "tut_raid_name",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "tut_raid_info",
+    "type": 0,
+    "en": "Your Settlement is being attacked!",
+    "vi": "Your Settlement is being attacked!"
+  },
+  {
+    "key": "tut_raid_wait",
+    "type": 0,
+    "en": "Watch your Settlers defend their base and wait to see the outcome of the battle",
+    "vi": "Watch your Settlers defend their base and wait to see the outcome of the battle"
   },
   {
     "key": "event_backgammon_positive",
@@ -1002,6 +1074,30 @@
     "vi": "So, The Lord remains unmoved, even as He sends this blight to test us. <agent_name> resolved to pray to more compassionate gods."
   },
   {
+    "key": "difficulty_option_raidPointsMultiplier_title",
+    "type": 0,
+    "en": "Event Strength Multiplier",
+    "vi": "Event Strength Multiplier"
+  },
+  {
+    "key": "difficulty_option_raidPointsMultiplier_info",
+    "type": 0,
+    "en": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events.",
+    "vi": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events."
+  },
+  {
+    "key": "difficulty_option_raidStrengthMultiplier_title",
+    "type": 0,
+    "en": "Event Strength Escalator",
+    "vi": "Event Strength Escalator"
+  },
+  {
+    "key": "difficulty_option_raidStrengthMultiplier_info",
+    "type": 0,
+    "en": "Event strength changes over time. Select how you would like event strength to escalate:",
+    "vi": "Event strength changes over time. Select how you would like event strength to escalate:"
+  },
+  {
     "key": "difficulty_option_merchantGeneralEvent_title",
     "type": 0,
     "en": "Merchant visit",
@@ -1020,6 +1116,120 @@
     "vi": "Prisoner merchant visit"
   },
   {
+    "key": "difficulty_option_animalRaidEvent_title",
+    "type": 0,
+    "en": "Hostile Animals",
+    "vi": "Hostile Animals"
+  },
+  {
+    "key": "difficulty_option_animalRaidEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Allow this event to happen in this playthrough"
+  },
+  {
+    "key": "difficulty_option_enemyRaidEvent_title",
+    "type": 0,
+    "en": "Enemy Raid Events",
+    "vi": "Enemy Raid Events"
+  },
+  {
+    "key": "difficulty_option_enemyRaidEvent_info",
+    "type": 0,
+    "en": "Allow random raid events to occur during your play session. (Note that in Peaceful mode this does not apply, because raids are excluded from this game mode.)",
+    "vi": "Allow random raid events to occur during your play session. (Note that in Peaceful mode this does not apply, because raids are excluded from this game mode.)"
+  },
+  {
+    "key": "twitch_raid_event",
+    "type": 0,
+    "en": "{FromBroadcasterName} has raided your stream with {ViewersCount} people! Now they will raid your settlement!",
+    "vi": "{FromBroadcasterName} has raided your stream with {ViewersCount} people! Now they will raid your settlement!"
+  },
+  {
+    "key": "twitch_raid_button",
+    "type": 0,
+    "en": "Minimum amount of Twitch raiders to trigger",
+    "vi": "Minimum amount of Twitch raiders to trigger"
+  },
+  {
+    "key": "twitch_raid_title",
+    "type": 0,
+    "en": "Raids",
+    "vi": "Raids"
+  },
+  {
+    "key": "twitch_raid_desc",
+    "type": 0,
+    "en": "Twitch raids also trigger in game raids.",
+    "vi": "Twitch raids also trigger in game raids."
+  },
+  {
+    "key": "warning_message_info_Raid",
+    "type": 0,
+    "en": "Arm your settlers. You are being attacked!",
+    "vi": "Arm your settlers. You are being attacked!"
+  },
+  {
+    "key": "warning_message_short_Raid",
+    "type": 0,
+    "en": "<style=DefaultRed>Incursion!</style>",
+    "vi": "<style=DefaultRed>Incursion!</style>"
+  },
+  {
+    "key": "cannot_change_during_raid",
+    "type": 0,
+    "en": "Fast speed is disabled during attacks",
+    "vi": "Fast speed is disabled during attacks"
+  },
+  {
+    "key": "raiders_no_damage_for_period",
+    "type": 0,
+    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
+    "vi": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving."
+  },
+  {
+    "key": "raiders_defeated",
+    "type": 0,
+    "en": "Taking a heavy blow to their forces, the aggressors flee.",
+    "vi": "Taking a heavy blow to their forces, the aggressors flee."
+  },
+  {
+    "key": "raiders_won",
+    "type": 0,
+    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
+    "vi": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving."
+  },
+  {
+    "key": "raiders_tied",
+    "type": 0,
+    "en": "The battle seems to not be in anyone's favor, the aggressors are leaving.",
+    "vi": "The battle seems to not be in anyone's favor, the aggressors are leaving."
+  },
+  {
+    "key": "warning_message_info_AnimalRaid",
+    "type": 0,
+    "en": "A pack of wild animals has arrived near your settlement. It will leave in a couple of days so it might be better to leave them undisturbed than to risk someone getting hurt.",
+    "vi": "A pack of wild animals has arrived near your settlement. It will leave in a couple of days so it might be better to leave them undisturbed than to risk someone getting hurt."
+  },
+  {
+    "key": "warning_message_short_AnimalRaid",
+    "type": 0,
+    "en": "<style=DefaultRed>Hostile animals</style>",
+    "vi": "<style=DefaultRed>Hostile animals</style>"
+  },
+  {
+    "key": "warning_message_info_RaidCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Prepare your settlers, <faction_name> are on their way"
+  },
+  {
+    "key": "warning_message_short_RaidCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>A search party arrives.</style>",
+    "vi": "<style=DefaultRed>A search party arrives.</style>"
+  },
+  {
     "key": "event_animal_raid_end",
     "type": 0,
     "en": "Hostile animals are leaving the area",
@@ -1032,10 +1242,28 @@
     "vi": "All the aggressive animals have been dealt with"
   },
   {
+    "key": "warning_message_short_FinalRaidCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>Attackers approaching.</style>",
+    "vi": "<style=DefaultRed>Attackers approaching.</style>"
+  },
+  {
+    "key": "warning_message_info_FinalRaidCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Prepare your settlers, <faction_name> are on their way"
+  },
+  {
     "key": "event_type_point_of_interest",
     "type": 0,
     "en": "Point of interest",
     "vi": "Point of interest"
+  },
+  {
+    "key": "worker_action_AnimalRaidIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
   },
   {
     "key": "research_name_merchant_structure_01",
@@ -1480,6 +1708,12 @@
     "type": 0,
     "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
     "vi": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n"
+  },
+  {
+    "key": "game_event_type_animalRaid",
+    "type": 0,
+    "en": "Destructive Wildlife",
+    "vi": "Destructive Wildlife"
   },
   {
     "key": "event_raid_animal_deer",
@@ -2076,6 +2310,96 @@
     "vi": "Unexpected thunder roared, crashing through the bruised sky. A violent presence, intruding like a bad omen, held echos of a heathen god. Fork lightening flickered and blazed towards the ground, splitting a mighty oak. "
   },
   {
+    "key": "game_event_type_raid",
+    "type": 0,
+    "en": "Raid",
+    "vi": "Raid"
+  },
+  {
+    "key": "raid_won",
+    "type": 0,
+    "en": "This time, <village_name> won the day. Battleweary, its warriors gave thanks.",
+    "vi": "This time, <village_name> won the day. Battleweary, its warriors gave thanks."
+  },
+  {
+    "key": "raid_lost",
+    "type": 0,
+    "en": "Ill-prepared and overpowered, <village_name> conceded defeat in this battle.",
+    "vi": "Ill-prepared and overpowered, <village_name> conceded defeat in this battle."
+  },
+  {
+    "key": "raid_tie",
+    "type": 0,
+    "en": "Neither <village_name> nor its foe gained the upper hand in this clash.",
+    "vi": "Neither <village_name> nor its foe gained the upper hand in this clash."
+  },
+  {
+    "key": "raid_won_name",
+    "type": 0,
+    "en": "Victory!",
+    "vi": "Victory!"
+  },
+  {
+    "key": "raid_lost_name",
+    "type": 0,
+    "en": "Defeat",
+    "vi": "Defeat"
+  },
+  {
+    "key": "raid_tie_name",
+    "type": 0,
+    "en": "Tie",
+    "vi": "Tie"
+  },
+  {
+    "key": "raid_outcome",
+    "type": 0,
+    "en": "The beleaguered settlers came under attack in the <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the raid.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> died during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to the foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most damage from the enemy, thinking only of defending <village_name> in its hour of need.</if_most_damage_taken>\n<if_no_most_damage_taken>Thankfully, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>\n<if_buildings_destroyed>Some of the buildings of <village_name> were destroyed under the bombardment of enemy weapons: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>",
+    "vi": "The beleaguered settlers came under attack in the <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the raid.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> died during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to the foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most damage from the enemy, thinking only of defending <village_name> in its hour of need.</if_most_damage_taken>\n<if_no_most_damage_taken>Thankfully, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>\n<if_buildings_destroyed>Some of the buildings of <village_name> were destroyed under the bombardment of enemy weapons: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>"
+  },
+  {
+    "key": "raid_outcome_resources",
+    "type": 0,
+    "en": "Enemies absconded with <resource_list>",
+    "vi": "Enemies absconded with <resource_list>"
+  },
+  {
+    "key": "dialogOptionEffect_PossibleRaid",
+    "type": 0,
+    "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
+    "vi": "<style=DefaultRed>Expect a possible attack in a couple of days</style>"
+  },
+  {
+    "key": "dialogOptionEffect_RaidImminent",
+    "type": 0,
+    "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
+    "vi": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>"
+  },
+  {
+    "key": "dialogOptionEffect_AnimalRaidImminent",
+    "type": 0,
+    "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
+    "vi": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>"
+  },
+  {
+    "key": "eventOptionEffect_PossibleRaid",
+    "type": 0,
+    "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
+    "vi": "<style=DefaultRed>Expect a possible attack in a couple of days</style>"
+  },
+  {
+    "key": "eventOptionEffect_RaidImminent",
+    "type": 0,
+    "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
+    "vi": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>"
+  },
+  {
+    "key": "eventOptionEffect_AnimalRaidImminent",
+    "type": 0,
+    "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
+    "vi": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>"
+  },
+  {
     "key": "event_name_shakedown_general",
     "type": 0,
     "en": "Extortion by <faction_name>",
@@ -2374,257 +2698,5 @@
     "type": 0,
     "en": "Appalling",
     "vi": "Appalling"
-  },
-  {
-    "key": "event_quality_lvl_name_very_bad",
-    "type": 0,
-    "en": "Lamentable",
-    "vi": "Lamentable"
-  },
-  {
-    "key": "event_quality_lvl_name_bad",
-    "type": 0,
-    "en": "Disappointing",
-    "vi": "Disappointing"
-  },
-  {
-    "key": "event_quality_lvl_name_decent",
-    "type": 0,
-    "en": "Decent",
-    "vi": "Decent"
-  },
-  {
-    "key": "event_quality_lvl_name_good",
-    "type": 0,
-    "en": "Enjoyable",
-    "vi": "Enjoyable"
-  },
-  {
-    "key": "event_quality_lvl_name_very_good",
-    "type": 0,
-    "en": "Excellent",
-    "vi": "Excellent"
-  },
-  {
-    "key": "event_quality_lvl_name_unforgettable",
-    "type": 0,
-    "en": "Unforgettable",
-    "vi": "Unforgettable"
-  },
-  {
-    "key": "event_quality_cooldown",
-    "type": 0,
-    "en": "Event Cooldown Time",
-    "vi": "Event Cooldown Time"
-  },
-  {
-    "key": "event_quality_points_breakdown",
-    "type": 0,
-    "en": "Event quality Points Breakdown",
-    "vi": "Event quality Points Breakdown"
-  },
-  {
-    "key": "event_requ_skill_book",
-    "type": 0,
-    "en": "Required Textbook",
-    "vi": "Required Textbook"
-  },
-  {
-    "key": "event_quality_ranged_name",
-    "type": 0,
-    "en": "Ranged Weaponry students",
-    "vi": "Ranged Weaponry students"
-  },
-  {
-    "key": "event_quality_melee_name",
-    "type": 0,
-    "en": "Melee Weapons students",
-    "vi": "Melee Weapons students"
-  },
-  {
-    "key": "event_requ_training",
-    "type": 0,
-    "en": "Training equipment",
-    "vi": "Training equipment"
-  },
-  {
-    "key": "effector_name_ExecutedPrisonerSameFaction",
-    "type": 0,
-    "en": "Prisoner Executed (Same Faction)",
-    "vi": "Prisoner Executed (Same Faction)"
-  },
-  {
-    "key": "effector_info_ExecutedPrisonerSameFaction",
-    "type": 0,
-    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
-    "vi": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I..."
-  },
-  {
-    "key": "building_name_merchant_table",
-    "type": 0,
-    "en": "Merchant's table",
-    "vi": "Merchant's table"
-  },
-  {
-    "key": "building_info_merchant_table",
-    "type": 0,
-    "en": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!",
-    "vi": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!"
-  },
-  {
-    "key": "building_name_merchants_stall",
-    "type": 0,
-    "en": "Merchant Stall",
-    "vi": "Merchant Stall"
-  },
-  {
-    "key": "building_info_merchants_stall",
-    "type": 0,
-    "en": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here.",
-    "vi": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here."
-  },
-  {
-    "key": "none_faction_name",
-    "type": 0,
-    "en": "Nonpartisan",
-    "vi": "Nonpartisan"
-  },
-  {
-    "key": "faction_type_faithful",
-    "type": 0,
-    "en": "Church of Restitution",
-    "vi": "Church of Restitution"
-  },
-  {
-    "key": "faction_type_pagan",
-    "type": 0,
-    "en": "Oak Brethren",
-    "vi": "Oak Brethren"
-  },
-  {
-    "key": "faction_type_knowledge",
-    "type": 0,
-    "en": "Knowledge",
-    "vi": "Knowledge"
-  },
-  {
-    "key": "faction_type_monarchy",
-    "type": 0,
-    "en": "Monarchy",
-    "vi": "Monarchy"
-  },
-  {
-    "key": "faction_type_anarchy",
-    "type": 0,
-    "en": "Anarchy",
-    "vi": "Anarchy"
-  },
-  {
-    "key": "faction_type_cannibal",
-    "type": 0,
-    "en": "Cannibal",
-    "vi": "Cannibal"
-  },
-  {
-    "key": "faction_type_bandits",
-    "type": 0,
-    "en": "Bandits",
-    "vi": "Bandits"
-  },
-  {
-    "key": "faction_type_chaos",
-    "type": 0,
-    "en": "Chaos",
-    "vi": "Chaos"
-  },
-  {
-    "key": "dev_faction_set_friendliness",
-    "type": 0,
-    "en": "Set Faction Alignment",
-    "vi": "Set Faction Alignment"
-  },
-  {
-    "key": "dev_tooltip_faction_set_friendliness",
-    "type": 0,
-    "en": "Alter Faction Alignment.",
-    "vi": "Alter Faction Alignment."
-  },
-  {
-    "key": "dev_faction_friendliness",
-    "type": 0,
-    "en": "Select a Faction...",
-    "vi": "Select a Faction..."
-  },
-  {
-    "key": "dev_faction_modify_friendliness",
-    "type": 0,
-    "en": "...then Alignment + / - 10.",
-    "vi": "...then Alignment + / - 10."
-  },
-  {
-    "key": "dev_tooltip_faction",
-    "type": 0,
-    "en": "Select the Faction you want to alter the Alignment of.",
-    "vi": "Select the Faction you want to alter the Alignment of."
-  },
-  {
-    "key": "dev_event_group_Merchantgeneral",
-    "type": 0,
-    "en": "Guileful trader",
-    "vi": "Guileful trader"
-  },
-  {
-    "key": "dev_event_group_Merchantrare",
-    "type": 0,
-    "en": "Merchant caravan",
-    "vi": "Merchant caravan"
-  },
-  {
-    "key": "dev_set_npc_faction",
-    "type": 0,
-    "en": "Set Faction of NPC",
-    "vi": "Set Faction of NPC"
-  },
-  {
-    "key": "dev_tooltip_set_npc_faction",
-    "type": 0,
-    "en": "Set Faction of NPC on pointer click",
-    "vi": "Set Faction of NPC on pointer click"
-  },
-  {
-    "key": "dev_faction_name_tooltip",
-    "type": 0,
-    "en": "On pointer click sets the faction of the NPC to this one",
-    "vi": "On pointer click sets the faction of the NPC to this one"
-  },
-  {
-    "key": "dev_event_prisoner_merchant",
-    "type": 0,
-    "en": "Prisoner Merchant",
-    "vi": "Prisoner Merchant"
-  },
-  {
-    "key": "dev_event_group_Merchantprisoner",
-    "type": 0,
-    "en": "Prisoner Merchant",
-    "vi": "Prisoner Merchant"
-  },
-  {
-    "key": "dev_npc_faction_select",
-    "type": 0,
-    "en": "Select Faction to change to",
-    "vi": "Select Faction to change to"
-  },
-  {
-    "key": "dev_switchFactionOwnership",
-    "type": 0,
-    "en": "Switch Faction Ownership",
-    "vi": "Switch Faction Ownership"
-  },
-  {
-    "key": "dev_tooltip_switchFactionOwnership",
-    "type": 0,
-    "en": "Toggles building and pile ownership between player and enemy.",
-    "vi": "Toggles building and pile ownership between player and enemy."
   }
 ]

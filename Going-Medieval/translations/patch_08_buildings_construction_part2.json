@@ -1,0 +1,1862 @@
+[
+  {
+    "key": "building_name_large_shrine_christian_wood",
+    "type": 0,
+    "en": "Large Restitutionist Shrine (Wood)",
+    "vi": "Large Restitutionist Shrine (Wood)"
+  },
+  {
+    "key": "building_name_large_shrine_pagan_wood",
+    "type": 0,
+    "en": "Large Oak Brethren Shrine (Wood)",
+    "vi": "Large Oak Brethren Shrine (Wood)"
+  },
+  {
+    "key": "building_name_large_shrine_christian_stone",
+    "type": 0,
+    "en": "Large Restitutionist Shrine (Limestone)",
+    "vi": "Large Restitutionist Shrine (Limestone)"
+  },
+  {
+    "key": "building_name_large_shrine_pagan_stone",
+    "type": 0,
+    "en": "Large Oak Brethren Shrine (Limestone)",
+    "vi": "Large Oak Brethren Shrine (Limestone)"
+  },
+  {
+    "key": "building_name_prison_marker",
+    "type": 0,
+    "en": "Prison Cell Marker",
+    "vi": "Prison Cell Marker"
+  },
+  {
+    "key": "building_name_gallows",
+    "type": 0,
+    "en": "Gallows",
+    "vi": "Gallows"
+  },
+  {
+    "key": "building_name_large_shrine_christian",
+    "type": 0,
+    "en": "Large Restitutionist Shrine",
+    "vi": "Large Restitutionist Shrine"
+  },
+  {
+    "key": "building_name_large_shrine_pagan",
+    "type": 0,
+    "en": "Large Oak Brethren Shrine",
+    "vi": "Large Oak Brethren Shrine"
+  },
+  {
+    "key": "building_name_shield_rack_single_wall",
+    "type": 0,
+    "en": "Decorative Shield Rack",
+    "vi": "Decorative Shield Rack"
+  },
+  {
+    "key": "building_name_trophy_rack_wall",
+    "type": 0,
+    "en": "Decorative Trophy Rack",
+    "vi": "Decorative Trophy Rack"
+  },
+  {
+    "key": "building_name_weapon_rack_single_wall",
+    "type": 0,
+    "en": "Decorative Weapon Rack",
+    "vi": "Decorative Weapon Rack"
+  },
+  {
+    "key": "building_name_weapon_rack_wall",
+    "type": 0,
+    "en": "Wall-mounted Weapon Rack",
+    "vi": "Wall-mounted Weapon Rack"
+  },
+  {
+    "key": "building_name_chest",
+    "type": 0,
+    "en": "Chest",
+    "vi": "Chest"
+  },
+  {
+    "key": "building_name_chest_iron",
+    "type": 0,
+    "en": "Chest (Iron)",
+    "vi": "Chest (Iron)"
+  },
+  {
+    "key": "building_name_chest_steel",
+    "type": 0,
+    "en": "Chest (Steel)",
+    "vi": "Chest (Steel)"
+  },
+  {
+    "key": "building_name_chest_silver",
+    "type": 0,
+    "en": "Chest (Silver)",
+    "vi": "Chest (Silver)"
+  },
+  {
+    "key": "building_name_chest_gold",
+    "type": 0,
+    "en": "Chest (Gold)",
+    "vi": "Chest (Gold)"
+  },
+  {
+    "key": "building_name_chest_wood",
+    "type": 0,
+    "en": "Chest (Wood)",
+    "vi": "Chest (Wood)"
+  },
+  {
+    "key": "building_name_chest_wicker",
+    "type": 0,
+    "en": "Chest (Wicker)",
+    "vi": "Chest (Wicker)"
+  },
+  {
+    "key": "building_name_pen_marker",
+    "type": 0,
+    "en": "Pen Marker",
+    "vi": "Pen Marker"
+  },
+  {
+    "key": "building_name_trough",
+    "type": 0,
+    "en": "Trough",
+    "vi": "Trough"
+  },
+  {
+    "key": "building_name_sign",
+    "type": 0,
+    "en": "Sign",
+    "vi": "Sign"
+  },
+  {
+    "key": "building_name_sign_wall",
+    "type": 0,
+    "en": "Wall Sign",
+    "vi": "Wall Sign"
+  },
+  {
+    "key": "building_name_backgammon_table",
+    "type": 0,
+    "en": "Backgammon Table",
+    "vi": "Backgammon Table"
+  },
+  {
+    "key": "building_name_silver_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Wall Mirror"
+  },
+  {
+    "key": "building_name_statue_large",
+    "type": 0,
+    "en": "Large Statue",
+    "vi": "Large Statue"
+  },
+  {
+    "key": "building_name_stone_statue_large",
+    "type": 0,
+    "en": "Large Statue (Limestone)",
+    "vi": "Large Statue (Limestone)"
+  },
+  {
+    "key": "building_name_wood_statue_large",
+    "type": 0,
+    "en": "Large Statue (Wood)",
+    "vi": "Large Statue (Wood)"
+  },
+  {
+    "key": "building_name_statue_wall",
+    "type": 0,
+    "en": "Wall Relief",
+    "vi": "Wall Relief"
+  },
+  {
+    "key": "building_name_stone_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Limestone)",
+    "vi": "Wall Relief (Limestone)"
+  },
+  {
+    "key": "building_name_wood_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Wood)",
+    "vi": "Wall Relief (Wood)"
+  },
+  {
+    "key": "building_name_rug_large",
+    "type": 0,
+    "en": "Rug",
+    "vi": "Rug"
+  },
+  {
+    "key": "building_name_wool_rug_large",
+    "type": 0,
+    "en": "Rug (Wool)",
+    "vi": "Rug (Wool)"
+  },
+  {
+    "key": "building_name_linen_rug_large",
+    "type": 0,
+    "en": "Rug (Linen)",
+    "vi": "Rug (Linen)"
+  },
+  {
+    "key": "building_name_hay_rug_large",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Rush Matting"
+  },
+  {
+    "key": "building_name_leather_deer_rug_large",
+    "type": 0,
+    "en": "Rug (Deer hide)",
+    "vi": "Rug (Deer hide)"
+  },
+  {
+    "key": "building_name_leather_hare_rug_large",
+    "type": 0,
+    "en": "Rug (Hare pelt)",
+    "vi": "Rug (Hare pelt)"
+  },
+  {
+    "key": "building_name_leather_wolf_rug_large",
+    "type": 0,
+    "en": "Rug (Wolf pelt)",
+    "vi": "Rug (Wolf pelt)"
+  },
+  {
+    "key": "building_name_leather_boar_rug_large",
+    "type": 0,
+    "en": "Rug (Boar pelt)",
+    "vi": "Rug (Boar pelt)"
+  },
+  {
+    "key": "building_name_leather_fox_rug_large",
+    "type": 0,
+    "en": "Rug (Fox pelt)",
+    "vi": "Rug (Fox pelt)"
+  },
+  {
+    "key": "building_name_leather_rat_rug_large",
+    "type": 0,
+    "en": "Rug (Rat pelt)",
+    "vi": "Rug (Rat pelt)"
+  },
+  {
+    "key": "building_name_leather_water_vole_rug_large",
+    "type": 0,
+    "en": "Rug (Water vole pelt)",
+    "vi": "Rug (Water vole pelt)"
+  },
+  {
+    "key": "building_name_leather_polecat_rug_large",
+    "type": 0,
+    "en": "Rug (Polecat pelt)",
+    "vi": "Rug (Polecat pelt)"
+  },
+  {
+    "key": "building_name_leather_cow_rug_large",
+    "type": 0,
+    "en": "Rug (Cow hide)",
+    "vi": "Rug (Cow hide)"
+  },
+  {
+    "key": "building_name_leather_goat_rug_large",
+    "type": 0,
+    "en": "Rug (Goat skin)",
+    "vi": "Rug (Goat skin)"
+  },
+  {
+    "key": "building_name_leather_sheep_rug_large",
+    "type": 0,
+    "en": "Rug (Sheep skin)",
+    "vi": "Rug (Sheep skin)"
+  },
+  {
+    "key": "building_name_leather_donkey_rug_large",
+    "type": 0,
+    "en": "Rug (Ass hide)",
+    "vi": "Rug (Ass hide)"
+  },
+  {
+    "key": "building_name_leather_cat_rug_large",
+    "type": 0,
+    "en": "Rug (Cat skin)",
+    "vi": "Rug (Cat skin)"
+  },
+  {
+    "key": "building_name_leather_dog_rug_large",
+    "type": 0,
+    "en": "Rug (Dog pelt)",
+    "vi": "Rug (Dog pelt)"
+  },
+  {
+    "key": "building_name_leather_human_rug_large",
+    "type": 0,
+    "en": "Rug (Human skin)",
+    "vi": "Rug (Human skin)"
+  },
+  {
+    "key": "building_name_leather_bear_rug_large",
+    "type": 0,
+    "en": "Rug (Bear skin)",
+    "vi": "Rug (Bear skin)"
+  },
+  {
+    "key": "building_name_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Wall Tapestry",
+    "vi": "Wall Tapestry"
+  },
+  {
+    "key": "building_name_painting_vertical_wall",
+    "type": 0,
+    "en": "Painting",
+    "vi": "Painting"
+  },
+  {
+    "key": "building_name_wooden_well",
+    "type": 0,
+    "en": "Wooden well",
+    "vi": "Wooden well"
+  },
+  {
+    "key": "building_name_barrel_small",
+    "type": 0,
+    "en": "Small water barrel",
+    "vi": "Small water barrel"
+  },
+  {
+    "key": "building_name_barrel_large",
+    "type": 0,
+    "en": "Large water barrel",
+    "vi": "Large water barrel"
+  },
+  {
+    "key": "building_info_wooden_well",
+    "type": 0,
+    "en": "A wooden structure for drawing up clean water. ",
+    "vi": "A wooden structure for drawing up clean water. "
+  },
+  {
+    "key": "building_info_barrel_small",
+    "type": 0,
+    "en": "A small barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water.",
+    "vi": "A small barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water."
+  },
+  {
+    "key": "building_info_barrel_large",
+    "type": 0,
+    "en": "A hefty barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water.",
+    "vi": "A hefty barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water."
+  },
+  {
+    "key": "building_name_metal_trap",
+    "type": 0,
+    "en": "Metal Trap",
+    "vi": "Metal Trap"
+  },
+  {
+    "key": "building_name_stick_trap",
+    "type": 0,
+    "en": "Stick Trap",
+    "vi": "Stick Trap"
+  },
+  {
+    "key": "building_name_wood_trap",
+    "type": 0,
+    "en": "Wooden Trap",
+    "vi": "Wooden Trap"
+  },
+  {
+    "key": "building_name_oil_trap",
+    "type": 0,
+    "en": "Fire trap",
+    "vi": "Fire trap"
+  },
+  {
+    "key": "building_name_oil_trap_greek_fire",
+    "type": 0,
+    "en": "Greek fire trap",
+    "vi": "Greek fire trap"
+  },
+  {
+    "key": "building_name_oil_blob",
+    "type": 0,
+    "en": "Oil splash",
+    "vi": "Oil splash"
+  },
+  {
+    "key": "building_name_oil_blob_greek_fire",
+    "type": 0,
+    "en": "Greek fire splash",
+    "vi": "Greek fire splash"
+  },
+  {
+    "key": "building_info_oil_trap",
+    "type": 0,
+    "en": "Set a brutal fire trap and watch your enemies burn.",
+    "vi": "Set a brutal fire trap and watch your enemies burn."
+  },
+  {
+    "key": "building_info_oil_trap_greek_fire",
+    "type": 0,
+    "en": "The blaze from this hellish trap cannot be quenched with water. Beware!",
+    "vi": "The blaze from this hellish trap cannot be quenched with water. Beware!"
+  },
+  {
+    "key": "building_info_oil_blob",
+    "type": 0,
+    "en": "Lay a trail of oil splashes to ignite in a fiery chain.",
+    "vi": "Lay a trail of oil splashes to ignite in a fiery chain."
+  },
+  {
+    "key": "building_info_oil_blob_greek_fire",
+    "type": 0,
+    "en": "Daub splashes of Greek fire to spark into a relentless inferno.",
+    "vi": "Daub splashes of Greek fire to spark into a relentless inferno."
+  },
+  {
+    "key": "building_name_grave",
+    "type": 0,
+    "en": "Grave",
+    "vi": "Grave"
+  },
+  {
+    "key": "building_name_limestone_normal_grave",
+    "type": 0,
+    "en": "Limestone Gravestone",
+    "vi": "Limestone Gravestone"
+  },
+  {
+    "key": "building_name_limestone_sarcophagus",
+    "type": 0,
+    "en": "Limestone Sarcophagus",
+    "vi": "Limestone Sarcophagus"
+  },
+  {
+    "key": "building_name_unmarked_grave",
+    "type": 0,
+    "en": "Unmarked Grave",
+    "vi": "Unmarked Grave"
+  },
+  {
+    "key": "building_name_wood_normal_grave",
+    "type": 0,
+    "en": "Wooden Grave Marker",
+    "vi": "Wooden Grave Marker"
+  },
+  {
+    "key": "building_name_wood_sarcophagus",
+    "type": 0,
+    "en": "Wooden Sarcophagus",
+    "vi": "Wooden Sarcophagus"
+  },
+  {
+    "key": "building_name_barley_cropfield",
+    "type": 0,
+    "en": "Barley Field",
+    "vi": "Barley Field"
+  },
+  {
+    "key": "building_name_beet_cropfield",
+    "type": 0,
+    "en": "Beet Field",
+    "vi": "Beet Field"
+  },
+  {
+    "key": "building_name_birch_cropfield",
+    "type": 0,
+    "en": "Birch Tree",
+    "vi": "Birch Tree"
+  },
+  {
+    "key": "building_name_cabbage_cropfield",
+    "type": 0,
+    "en": "Cabbage Field",
+    "vi": "Cabbage Field"
+  },
+  {
+    "key": "building_name_carrot_cropfield",
+    "type": 0,
+    "en": "Carrot Field",
+    "vi": "Carrot Field"
+  },
+  {
+    "key": "building_name_flax_cropfield",
+    "type": 0,
+    "en": "Flax Field",
+    "vi": "Flax Field"
+  },
+  {
+    "key": "building_name_hay_cropfield",
+    "type": 0,
+    "en": "Tall Grass",
+    "vi": "Tall Grass"
+  },
+  {
+    "key": "building_name_herbs_cropfield",
+    "type": 0,
+    "en": "Herbs",
+    "vi": "Herbs"
+  },
+  {
+    "key": "building_name_default_stockpile",
+    "type": 0,
+    "en": "Default Stockpile",
+    "vi": "Default Stockpile"
+  },
+  {
+    "key": "building_name_dumping_stockpile",
+    "type": 0,
+    "en": "Dumping Stockpile",
+    "vi": "Dumping Stockpile"
+  },
+  {
+    "key": "building_name_warfare_stockpile",
+    "type": 0,
+    "en": "Warfare Stockpile",
+    "vi": "Warfare Stockpile"
+  },
+  {
+    "key": "building_name_redcurrant_cropfield",
+    "type": 0,
+    "en": "Redcurrant Shrub",
+    "vi": "Redcurrant Shrub"
+  },
+  {
+    "key": "building_name_maple_cropfield",
+    "type": 0,
+    "en": "Field Maple",
+    "vi": "Field Maple"
+  },
+  {
+    "key": "building_name_oak_cropfield",
+    "type": 0,
+    "en": "Oak Tree",
+    "vi": "Oak Tree"
+  },
+  {
+    "key": "building_name_pine_cropfield",
+    "type": 0,
+    "en": "Scots Pine",
+    "vi": "Scots Pine"
+  },
+  {
+    "key": "building_name_willow_cropfield",
+    "type": 0,
+    "en": "Willow",
+    "vi": "Willow"
+  },
+  {
+    "key": "building_name_apple_cropfield",
+    "type": 0,
+    "en": "Apple Tree",
+    "vi": "Apple Tree"
+  },
+  {
+    "key": "building info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "building_info_clay_brick_floor",
+    "type": 0,
+    "en": "Brick makes a sturdy, hard floor. Practical and effective.",
+    "vi": "Brick makes a sturdy, hard floor. Practical and effective."
+  },
+  {
+    "key": "building_info_limestone_block_floor",
+    "type": 0,
+    "en": "Dressed limestone makes lovely flagstones for a floor that could last for generations.",
+    "vi": "Dressed limestone makes lovely flagstones for a floor that could last for generations."
+  },
+  {
+    "key": "building_info_limestone_floor",
+    "type": 0,
+    "en": "Natural limestone makes for a slightly uneven but very tough surface.",
+    "vi": "Natural limestone makes for a slightly uneven but very tough surface."
+  },
+  {
+    "key": "building_info_wicker_floor",
+    "type": 0,
+    "en": "This floor fashioned with sticks can be used as a platform for a second floor. ",
+    "vi": "This floor fashioned with sticks can be used as a platform for a second floor. "
+  },
+  {
+    "key": "building_info_wood_floor",
+    "type": 0,
+    "en": "Rough planks laid flat can be sanded to make a level floor.",
+    "vi": "Rough planks laid flat can be sanded to make a level floor."
+  },
+  {
+    "key": "building_info_metal_grated_platform",
+    "type": 0,
+    "en": "A horizontal metal grate allows for ventilation, drainage and viewing between levels.",
+    "vi": "A horizontal metal grate allows for ventilation, drainage and viewing between levels."
+  },
+  {
+    "key": "building_info_wicker_mesh_floor",
+    "type": 0,
+    "en": "A horizontal wooden grate allows for ventilation, drainage and viewing between levels.",
+    "vi": "A horizontal wooden grate allows for ventilation, drainage and viewing between levels."
+  },
+  {
+    "key": "building_info_stone_decorative_floor",
+    "type": 0,
+    "en": "A mosaic of beautiful stone in many hues is laid precisely on the floor.",
+    "vi": "A mosaic of beautiful stone in many hues is laid precisely on the floor."
+  },
+  {
+    "key": "building_info_clay_decorative_floor",
+    "type": 0,
+    "en": "Tiles of fired earth create a rich pattern underfoot.",
+    "vi": "Tiles of fired earth create a rich pattern underfoot."
+  },
+  {
+    "key": "building_info_dirt_voxel",
+    "type": 0,
+    "en": "Humankind has been gathering and moving earth around for millennia.",
+    "vi": "Humankind has been gathering and moving earth around for millennia."
+  },
+  {
+    "key": "building_info_clay_brick_wall_element",
+    "type": 0,
+    "en": "A simple barrier constructed with clay bricks.",
+    "vi": "A simple barrier constructed with clay bricks."
+  },
+  {
+    "key": "building_info_clay_wall_element",
+    "type": 0,
+    "en": "A basic partition created with clay is rudementary but effective.",
+    "vi": "A basic partition created with clay is rudementary but effective."
+  },
+  {
+    "key": "building_info_limestone_block_wall_element",
+    "type": 0,
+    "en": "Dressed limestone blocks cemented with mortar create an imposing facade.",
+    "vi": "Dressed limestone blocks cemented with mortar create an imposing facade."
+  },
+  {
+    "key": "building_info_limestone_wall_element",
+    "type": 0,
+    "en": "A substantial wall erected with natural limestone blocks and mortar.",
+    "vi": "A substantial wall erected with natural limestone blocks and mortar."
+  },
+  {
+    "key": "building_info_wood_wall_element",
+    "type": 0,
+    "en": "A simple but solid wall, built from wooden logs.",
+    "vi": "A simple but solid wall, built from wooden logs."
+  },
+  {
+    "key": "building_info_clay_brick_merlon",
+    "type": 0,
+    "en": "Sturdy and smart, brick merlons present an imposing battlement facade, second only to solid limestone.",
+    "vi": "Sturdy and smart, brick merlons present an imposing battlement facade, second only to solid limestone."
+  },
+  {
+    "key": "building_info_clay_merlon",
+    "type": 0,
+    "en": "A finishing touch to battlements shaped from moulded clay. Decorative and useful.",
+    "vi": "A finishing touch to battlements shaped from moulded clay. Decorative and useful."
+  },
+  {
+    "key": "building_info_limestone_merlon",
+    "type": 0,
+    "en": "Rough-hewn yet impenetrable, protection for your battlement archers.",
+    "vi": "Rough-hewn yet impenetrable, protection for your battlement archers."
+  },
+  {
+    "key": "building_info_wood_merlon",
+    "type": 0,
+    "en": "Wooden stockades have offered valid protection from ingress down the ages.",
+    "vi": "Wooden stockades have offered valid protection from ingress down the ages."
+  },
+  {
+    "key": "building_info_limestone_block_merlon",
+    "type": 0,
+    "en": "For the finest crenellations, add dressed limestone merlons. A noble fortification.",
+    "vi": "For the finest crenellations, add dressed limestone merlons. A noble fortification."
+  },
+  {
+    "key": "building_info_dirt_slope",
+    "type": 0,
+    "en": "A basic access ramp fashioned from dirt.",
+    "vi": "A basic access ramp fashioned from dirt."
+  },
+  {
+    "key": "building_info_clay_brick_stair",
+    "type": 0,
+    "en": "Clay blocks make for weighty steps with lasting appeal.",
+    "vi": "Clay blocks make for weighty steps with lasting appeal."
+  },
+  {
+    "key": "building_info_clay_stair",
+    "type": 0,
+    "en": "A basic escalier moulded from dirt.",
+    "vi": "A basic escalier moulded from dirt."
+  },
+  {
+    "key": "building_info_limestone_block_stair",
+    "type": 0,
+    "en": "An elevated means of ascension. Solid steps worthy of an experienced mason.",
+    "vi": "An elevated means of ascension. Solid steps worthy of an experienced mason."
+  },
+  {
+    "key": "building_info_limestone_stair",
+    "type": 0,
+    "en": "Rough hewn but solid steps.",
+    "vi": "Rough hewn but solid steps."
+  },
+  {
+    "key": "building_info_wood_stair_straight",
+    "type": 0,
+    "en": "A flight of steps constructed from wooden planks.",
+    "vi": "A flight of steps constructed from wooden planks."
+  },
+  {
+    "key": "building_info_wooden_stair_square",
+    "type": 0,
+    "en": "Flights of wooden stairs that turn corners as they ascend in tight spaces.",
+    "vi": "Flights of wooden stairs that turn corners as they ascend in tight spaces."
+  },
+  {
+    "key": "building_info_clay_brick_window",
+    "type": 0,
+    "en": "An opening framed in brick. A window on the world.",
+    "vi": "An opening framed in brick. A window on the world."
+  },
+  {
+    "key": "building_info_clay_window",
+    "type": 0,
+    "en": "A hole punched through an earthen wall is simple, but usable.",
+    "vi": "A hole punched through an earthen wall is simple, but usable."
+  },
+  {
+    "key": "building_info_limestone_block_window",
+    "type": 0,
+    "en": "Fine dressed stone mullion windows are an architectural highlight in churches and castles.",
+    "vi": "Fine dressed stone mullion windows are an architectural highlight in churches and castles."
+  },
+  {
+    "key": "building_info_limestone_window",
+    "type": 0,
+    "en": "An aperture in stone. To let air in, or arrows out.",
+    "vi": "An aperture in stone. To let air in, or arrows out."
+  },
+  {
+    "key": "building_info_wood_window",
+    "type": 0,
+    "en": "A classic, timber-framed window lets the light flood into dark places.",
+    "vi": "A classic, timber-framed window lets the light flood into dark places."
+  },
+  {
+    "key": "building_info_wood_beam",
+    "type": 0,
+    "en": "Beams of solid wood have held up the floors and ceilings of England for centuries.",
+    "vi": "Beams of solid wood have held up the floors and ceilings of England for centuries."
+  },
+  {
+    "key": "building_info_limestone_block_beam",
+    "type": 0,
+    "en": "Stone arches require skilled masons. But these will stand the test of time, gracefully bearing heavy loads.",
+    "vi": "Stone arches require skilled masons. But these will stand the test of time, gracefully bearing heavy loads."
+  },
+  {
+    "key": "building_info_clay_brick_beam",
+    "type": 0,
+    "en": "Constructed over a timber form, a sturdy brick arch makes an attractive, load-bearing support.",
+    "vi": "Constructed over a timber form, a sturdy brick arch makes an attractive, load-bearing support."
+  },
+  {
+    "key": "building_info_clay_brick_chimney",
+    "type": 0,
+    "en": "A smoke hood fashioned from brick. Funnels smoke outwith.",
+    "vi": "A smoke hood fashioned from brick. Funnels smoke outwith."
+  },
+  {
+    "key": "building_info_limestone_block_chimney",
+    "type": 0,
+    "en": "The fine lines of this dressed stone chimney suggest an elegant hearth.",
+    "vi": "The fine lines of this dressed stone chimney suggest an elegant hearth."
+  },
+  {
+    "key": "building_info_limestone_chimney",
+    "type": 0,
+    "en": "Rough limestone and mortar suffice to build a sturdy chimney.",
+    "vi": "Rough limestone and mortar suffice to build a sturdy chimney."
+  },
+  {
+    "key": "building_info_reinforced_door",
+    "type": 0,
+    "en": "If you prefer to think of your home as a fortress, this double-strength entry is for you.",
+    "vi": "If you prefer to think of your home as a fortress, this double-strength entry is for you."
+  },
+  {
+    "key": "building_info_wood_door",
+    "type": 0,
+    "en": "A timber door offers strength and security, and is easily repaired.",
+    "vi": "A timber door offers strength and security, and is easily repaired."
+  },
+  {
+    "key": "building_info_fence_gate",
+    "type": 0,
+    "en": "An access point between outdoor areas.",
+    "vi": "An access point between outdoor areas."
+  },
+  {
+    "key": "building_info_barn_door",
+    "type": 0,
+    "en": "Offers some protection from the elements, but cannot be secured against wandering animals or enemies.",
+    "vi": "Offers some protection from the elements, but cannot be secured against wandering animals or enemies."
+  },
+  {
+    "key": "building_info_grated_door",
+    "type": 0,
+    "en": "A portal with a view. See who - or what - is outside before you open it.",
+    "vi": "A portal with a view. See who - or what - is outside before you open it."
+  },
+  {
+    "key": "building_info_wicker_door",
+    "type": 0,
+    "en": "A flimsy barrier woven from supple sticks. It affords some warmth, little defense and is easy to traverse quickly.",
+    "vi": "A flimsy barrier woven from supple sticks. It affords some warmth, little defense and is easy to traverse quickly."
+  },
+  {
+    "key": "building_info_siege_weapon_ballista",
+    "type": 0,
+    "en": "Flings bolts and stones from a fixed position.",
+    "vi": "Flings bolts and stones from a fixed position."
+  },
+  {
+    "key": "building_info_mounted_cannon",
+    "type": 0,
+    "en": "Fires cannonballs from a fixed position.",
+    "vi": "Fires cannonballs from a fixed position."
+  },
+  {
+    "key": "building_info_movable_ballista",
+    "type": 0,
+    "en": "Fires bolts and stones. May be repositioned with some effort.",
+    "vi": "Fires bolts and stones. May be repositioned with some effort."
+  },
+  {
+    "key": "building_info_movable_cannon",
+    "type": 0,
+    "en": "Fires canonballs. May be repositioned with some effort.",
+    "vi": "Fires canonballs. May be repositioned with some effort."
+  },
+  {
+    "key": "building_info_movable_organ_gun",
+    "type": 0,
+    "en": "The ribauldequin is an infernal machine with a row of small barrels. Fires a volley of shot.",
+    "vi": "The ribauldequin is an infernal machine with a row of small barrels. Fires a volley of shot."
+  },
+  {
+    "key": "building_info_siege_weapon_trebuchet",
+    "type": 0,
+    "en": "A deadly siege engine with a long, pivoting arm to hurl missiles. ",
+    "vi": "A deadly siege engine with a long, pivoting arm to hurl missiles. "
+  },
+  {
+    "key": "building_info_wood_ladder",
+    "type": 0,
+    "en": "A bit more precarious then a staircase, but takes up much less space.",
+    "vi": "A bit more precarious then a staircase, but takes up much less space."
+  },
+  {
+    "key": "building_info_wood_gate_tall",
+    "type": 0,
+    "en": "A tall and sturdy gate is a useful barrier to livestock and undesirables.",
+    "vi": "A tall and sturdy gate is a useful barrier to livestock and undesirables."
+  },
+  {
+    "key": "building_info_wood_gate",
+    "type": 0,
+    "en": "A hinged barrier to close an opening. Can be doubled up for a wider entranceway.",
+    "vi": "A hinged barrier to close an opening. Can be doubled up for a wider entranceway."
+  },
+  {
+    "key": "building_info_wood_portcullis",
+    "type": 0,
+    "en": "A latticed grille that slides up or down within a gateway using chains. Deploy rapidly when under attack.",
+    "vi": "A latticed grille that slides up or down within a gateway using chains. Deploy rapidly when under attack."
+  },
+  {
+    "key": "building_info_backgammon_table",
+    "type": 0,
+    "en": "Two settlers can enjoy a game of backgammon for entertainment.",
+    "vi": "Two settlers can enjoy a game of backgammon for entertainment."
+  },
+  {
+    "key": "building_info_clay_brazier",
+    "type": 0,
+    "en": "A clay container filled with glowing wood or charcoal for warmth.",
+    "vi": "A clay container filled with glowing wood or charcoal for warmth."
+  },
+  {
+    "key": "building_info_clay_brick_brazier",
+    "type": 0,
+    "en": "A brick structure filled with glowing wood or charcoal for warmth.",
+    "vi": "A brick structure filled with glowing wood or charcoal for warmth."
+  },
+  {
+    "key": "building_info_iron_brazier",
+    "type": 0,
+    "en": "A metal basket filled with glowing wood or charcoal for warmth.",
+    "vi": "A metal basket filled with glowing wood or charcoal for warmth."
+  },
+  {
+    "key": "building_info_stone_brazier",
+    "type": 0,
+    "en": "A stone container filled with glowing wood or charcoal for warmth.",
+    "vi": "A stone container filled with glowing wood or charcoal for warmth."
+  },
+  {
+    "key": "building_info_stone_brick_brazier",
+    "type": 0,
+    "en": "A stone brick structure filled with glowing wood or charcoal for warmth.",
+    "vi": "A stone brick structure filled with glowing wood or charcoal for warmth."
+  },
+  {
+    "key": "building_info_hay_sleeping_spot",
+    "type": 0,
+    "en": "Just one step up from sleeping on dirt. Hay thrown down as a place to rest.",
+    "vi": "Just one step up from sleeping on dirt. Hay thrown down as a place to rest."
+  },
+  {
+    "key": "building_info_hay_wood_bed",
+    "type": 0,
+    "en": "Sacks stuffed with hay on a wooden frame. A basic but fairly comfortable bed.",
+    "vi": "Sacks stuffed with hay on a wooden frame. A basic but fairly comfortable bed."
+  },
+  {
+    "key": "building_info_quality_bed",
+    "type": 0,
+    "en": "A fine wooden bed with a turned frame and ropes to support the mattress. Luxurious.",
+    "vi": "A fine wooden bed with a turned frame and ropes to support the mattress. Luxurious."
+  },
+  {
+    "key": "building_info_royal_bed",
+    "type": 0,
+    "en": "An elaborately carved and decorated piece. A fitting place for a ruler to rest their head.",
+    "vi": "An elaborately carved and decorated piece. A fitting place for a ruler to rest their head."
+  },
+  {
+    "key": "building_info_wicker_bed",
+    "type": 0,
+    "en": "This beats laying in the hay, but is still rudimentary and not the most comfortable of beds.",
+    "vi": "This beats laying in the hay, but is still rudimentary and not the most comfortable of beds."
+  },
+  {
+    "key": "building_info_quality_table_large",
+    "type": 0,
+    "en": "A large, exquisitely-crafted table, made from fine-grained wood.",
+    "vi": "A large, exquisitely-crafted table, made from fine-grained wood."
+  },
+  {
+    "key": "building_info_quality_table_medium",
+    "type": 0,
+    "en": "A exquisitely-crafted table, made from fine-grained wood.",
+    "vi": "A exquisitely-crafted table, made from fine-grained wood."
+  },
+  {
+    "key": "building_info_quality_table_small",
+    "type": 0,
+    "en": "A fine side table, beautifully worked in wood.",
+    "vi": "A fine side table, beautifully worked in wood."
+  },
+  {
+    "key": "building_info_stone_table_large",
+    "type": 0,
+    "en": "A grand table fit for a banquet, fashioned in stone.",
+    "vi": "A grand table fit for a banquet, fashioned in stone."
+  },
+  {
+    "key": "building_info_stone_table_medium",
+    "type": 0,
+    "en": "A table fit for a banquet, fashioned in stone.",
+    "vi": "A table fit for a banquet, fashioned in stone."
+  },
+  {
+    "key": "building_info_stone_table_small",
+    "type": 0,
+    "en": "A small side table beautifully finished in stone.",
+    "vi": "A small side table beautifully finished in stone."
+  },
+  {
+    "key": "building_info_wood_table_large",
+    "type": 0,
+    "en": "A large, scrubbed wooden table is a gathering space for work or meals.",
+    "vi": "A large, scrubbed wooden table is a gathering space for work or meals."
+  },
+  {
+    "key": "building_info_wood_table_medium",
+    "type": 0,
+    "en": "A scrubbed wooden table is a gathering space for work or meals.",
+    "vi": "A scrubbed wooden table is a gathering space for work or meals."
+  },
+  {
+    "key": "building_info_wood_table_small",
+    "type": 0,
+    "en": "A simple wooden table for a small space or small tasks.",
+    "vi": "A simple wooden table for a small space or small tasks."
+  },
+  {
+    "key": "building_info_iron_chair",
+    "type": 0,
+    "en": "A seat wrought from iron. A beautiful and unusual piece, almost throne-like.",
+    "vi": "A seat wrought from iron. A beautiful and unusual piece, almost throne-like."
+  },
+  {
+    "key": "building_info_quality_chair",
+    "type": 0,
+    "en": "A finely turned piece, a seat for someone important, perhaps?",
+    "vi": "A finely turned piece, a seat for someone important, perhaps?"
+  },
+  {
+    "key": "building_info_stone_chair",
+    "type": 0,
+    "en": "A seat hewn from stone. Imposing, but a little chilly. Bring cushions.",
+    "vi": "A seat hewn from stone. Imposing, but a little chilly. Bring cushions."
+  },
+  {
+    "key": "building_info_stone_stool",
+    "type": 0,
+    "en": "A simple stone seat.",
+    "vi": "A simple stone seat."
+  },
+  {
+    "key": "building_info_wicker_stool",
+    "type": 0,
+    "en": "A simple woven seat.",
+    "vi": "A simple woven seat."
+  },
+  {
+    "key": "building_info_wood_chair",
+    "type": 0,
+    "en": "A sturdy wooden chair.",
+    "vi": "A sturdy wooden chair."
+  },
+  {
+    "key": "building_info_wood_stool",
+    "type": 0,
+    "en": "A simple wooden seat.",
+    "vi": "A simple wooden seat."
+  },
+  {
+    "key": "building_info_shrine_christian",
+    "type": 0,
+    "en": "Here, followers aligned with the Church of Restitution gather to pray.",
+    "vi": "Here, followers aligned with the Church of Restitution gather to pray."
+  },
+  {
+    "key": "building_info_shrine_pagan",
+    "type": 0,
+    "en": "Here, followers aligned with the Oak Brethren gather to pray.",
+    "vi": "Here, followers aligned with the Oak Brethren gather to pray."
+  },
+  {
+    "key": "building_info_statue_fate_stone",
+    "type": 0,
+    "en": "Three stone women, spinning. The thread is life.",
+    "vi": "Three stone women, spinning. The thread is life."
+  },
+  {
+    "key": "building_info_statue_knight",
+    "type": 0,
+    "en": "An gallant champion with chiselled features.",
+    "vi": "An gallant champion with chiselled features."
+  },
+  {
+    "key": "building_info_statue_obelisk",
+    "type": 0,
+    "en": "Mysterious, tall and regular in shape. A geometric marker and talking point in stone.",
+    "vi": "Mysterious, tall and regular in shape. A geometric marker and talking point in stone."
+  },
+  {
+    "key": "building_info_statue_pagan_stone",
+    "type": 0,
+    "en": "The runes are illegible but the symbolism is clear. This carving celebrates heathen gods.",
+    "vi": "The runes are illegible but the symbolism is clear. This carving celebrates heathen gods."
+  },
+  {
+    "key": "building_info_statue_woman",
+    "type": 0,
+    "en": "The stony gaze of this beautiful maiden is genuinely arresting.",
+    "vi": "The stony gaze of this beautiful maiden is genuinely arresting."
+  },
+  {
+    "key": "building_info_wall_bookshelf",
+    "type": 0,
+    "en": "Books are rare and valuable. They deserve an attractive resting place.",
+    "vi": "Books are rare and valuable. They deserve an attractive resting place."
+  },
+  {
+    "key": "building_info_wall_decoration_christian",
+    "type": 0,
+    "en": "A shining, golden plaque, made even brighter by the light of many candles tended by the faithful.",
+    "vi": "A shining, golden plaque, made even brighter by the light of many candles tended by the faithful."
+  },
+  {
+    "key": "building_info_wall_decoration_pagan",
+    "type": 0,
+    "en": "A dark, rugged piece, hewn from oak. Lovingly carved with ancient runes and symbols indicating the wheel of life.",
+    "vi": "A dark, rugged piece, hewn from oak. Lovingly carved with ancient runes and symbols indicating the wheel of life."
+  },
+  {
+    "key": "building_info_wall_mirror",
+    "type": 0,
+    "en": "Who is the fairest of them all? Keep track with this fairytale mirror.",
+    "vi": "Who is the fairest of them all? Keep track with this fairytale mirror."
+  },
+  {
+    "key": "building_info_wall_pottery_shelf",
+    "type": 0,
+    "en": "Fine tableware is worthy of display when not in use. This shelf does the job nicely.",
+    "vi": "Fine tableware is worthy of display when not in use. This shelf does the job nicely."
+  },
+  {
+    "key": "building_info_wall_stone_lion_head",
+    "type": 0,
+    "en": "A carved lion makes for a bold statement of power.",
+    "vi": "A carved lion makes for a bold statement of power."
+  },
+  {
+    "key": "building_info_wall_tapestry",
+    "type": 0,
+    "en": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry.",
+    "vi": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry."
+  },
+  {
+    "key": "building_info_wall_tool_shelf",
+    "type": 0,
+    "en": "Keep tools handy and organised with this useful wall rack.",
+    "vi": "Keep tools handy and organised with this useful wall rack."
+  },
+  {
+    "key": "building_info_fence",
+    "type": 0,
+    "en": "A rustic boundary useful for organising crops and livestock. Easily penetrated by marauders.",
+    "vi": "A rustic boundary useful for organising crops and livestock. Easily penetrated by marauders."
+  },
+  {
+    "key": "building_info_torch",
+    "type": 0,
+    "en": "A source of light in the darkness.",
+    "vi": "A source of light in the darkness."
+  },
+  {
+    "key": "building_info_torch_wall",
+    "type": 0,
+    "en": "A flame that is wall mounted to give steady light.",
+    "vi": "A flame that is wall mounted to give steady light."
+  },
+  {
+    "key": "building_info_standing_bookshelf",
+    "type": 0,
+    "en": "A room without books is like a body without a soul. Display your hard-won knowledge with pride.",
+    "vi": "A room without books is like a body without a soul. Display your hard-won knowledge with pride."
+  },
+  {
+    "key": "building_info_weapon_rack",
+    "type": 0,
+    "en": "Keep weapons and shields readily available with a sturdy and practical storage rack.",
+    "vi": "Keep weapons and shields readily available with a sturdy and practical storage rack."
+  },
+  {
+    "key": "building_info_armour_rack",
+    "type": 0,
+    "en": "Display your outfits and headgear when not in use. Dressing is easy when your garb is properly organised.",
+    "vi": "Display your outfits and headgear when not in use. Dressing is easy when your garb is properly organised."
+  },
+  {
+    "key": "building_info_shelf",
+    "type": 0,
+    "en": "Space-saving vertical storage keeps items clean and tidy, and eliminates ground decay. ",
+    "vi": "Space-saving vertical storage keeps items clean and tidy, and eliminates ground decay. "
+  },
+  {
+    "key": "building_info_hook",
+    "type": 0,
+    "en": "A metal wall hook, suitable for hanging carcasses awaiting processing. Avoids ground decay.",
+    "vi": "A metal wall hook, suitable for hanging carcasses awaiting processing. Avoids ground decay."
+  },
+  {
+    "key": "building_info_medical_shelf",
+    "type": 0,
+    "en": "A shelf for safely storing herbs, healing poultices, and other medical supplies.",
+    "vi": "A shelf for safely storing herbs, healing poultices, and other medical supplies."
+  },
+  {
+    "key": "building_info_candle",
+    "type": 0,
+    "en": "Illuminate the darkness and add cheer to your dwelling with candlelight. ",
+    "vi": "Illuminate the darkness and add cheer to your dwelling with candlelight. "
+  },
+  {
+    "key": "building_info_map_table",
+    "type": 0,
+    "en": "On this sturdy table is a map of all known places heareabouts. It is useful for orientation, and making plans.",
+    "vi": "On this sturdy table is a map of all known places heareabouts. It is useful for orientation, and making plans."
+  },
+  {
+    "key": "building_info_caravan_post",
+    "type": 0,
+    "en": "Settlers gather at this point in anticipation of a caravan's arrival or departure.",
+    "vi": "Settlers gather at this point in anticipation of a caravan's arrival or departure."
+  },
+  {
+    "key": "building_info_archery_range",
+    "type": 0,
+    "en": "A training area with stationary, circular targets for archery practice.",
+    "vi": "A training area with stationary, circular targets for archery practice."
+  },
+  {
+    "key": "building_info_practice_dummy",
+    "type": 0,
+    "en": "A strawman. The perfect stand-in enemy for practicing melee skills.",
+    "vi": "A strawman. The perfect stand-in enemy for practicing melee skills."
+  },
+  {
+    "key": "building_info_banner",
+    "type": 0,
+    "en": "A ragged pennant with a long history. Its frayed edges flutter in the breeze.",
+    "vi": "A ragged pennant with a long history. Its frayed edges flutter in the breeze."
+  },
+  {
+    "key": "building_info_shield_rack_single_wall",
+    "type": 0,
+    "en": "A home for heraldry. Let your shields shine, mounted effortlessly on this sturdy rack.",
+    "vi": "A home for heraldry. Let your shields shine, mounted effortlessly on this sturdy rack."
+  },
+  {
+    "key": "building_info_trophy_rack_wall",
+    "type": 0,
+    "en": "Stories of the hunt. A fitting display showcasing memorable kills.",
+    "vi": "Stories of the hunt. A fitting display showcasing memorable kills."
+  },
+  {
+    "key": "building_info_weapon_rack_single_wall",
+    "type": 0,
+    "en": "A resting place with custom niches for the honourable tools of war.",
+    "vi": "A resting place with custom niches for the honourable tools of war."
+  },
+  {
+    "key": "building_info_weapon_rack_wall",
+    "type": 0,
+    "en": "Blades and bludgeons deserve to be seen. This decorative wall mounting system keeps weapons handy.",
+    "vi": "Blades and bludgeons deserve to be seen. This decorative wall mounting system keeps weapons handy."
+  },
+  {
+    "key": "building_info_chest",
+    "type": 0,
+    "en": "Storage for your belongings. A chest offers protection from the elements, but not from changes in temperature. ",
+    "vi": "Storage for your belongings. A chest offers protection from the elements, but not from changes in temperature. "
+  },
+  {
+    "key": "building_info_pen_marker",
+    "type": 0,
+    "en": "Place this marker in an enclosure and click on it to assign which animals to pen here.  ",
+    "vi": "Place this marker in an enclosure and click on it to assign which animals to pen here.  "
+  },
+  {
+    "key": "building_info_trough",
+    "type": 0,
+    "en": "A manger to hold animal food.",
+    "vi": "A manger to hold animal food."
+  },
+  {
+    "key": "building_info_sign",
+    "type": 0,
+    "en": "Inscribe your own message here for others to see.",
+    "vi": "Inscribe your own message here for others to see."
+  },
+  {
+    "key": "building_info_mirror_wall",
+    "type": 0,
+    "en": "Who is the fairest of them all? Keep track with this fairytale mirror.",
+    "vi": "Who is the fairest of them all? Keep track with this fairytale mirror."
+  },
+  {
+    "key": "building_info_statue_large",
+    "type": 0,
+    "en": "This sizeable sculpture, hewn by hand and displayed for all to enjoy, is built to last. ",
+    "vi": "This sizeable sculpture, hewn by hand and displayed for all to enjoy, is built to last. "
+  },
+  {
+    "key": "building_info_statue_wall",
+    "type": 0,
+    "en": "A wall-mounted artefact adds interest to a decorative scheme - without taking up valuable floor space.",
+    "vi": "A wall-mounted artefact adds interest to a decorative scheme - without taking up valuable floor space."
+  },
+  {
+    "key": "building_info_rug_large",
+    "type": 0,
+    "en": "Live like a lord with a textile floor covering, which offers extravagant protection for chilly feet. ",
+    "vi": "Live like a lord with a textile floor covering, which offers extravagant protection for chilly feet. "
+  },
+  {
+    "key": "building_info_rush_large",
+    "type": 0,
+    "en": "A fresh layer of rushes or hay keeps the floor clean and fresh, and makes the room smell sweeter.",
+    "vi": "A fresh layer of rushes or hay keeps the floor clean and fresh, and makes the room smell sweeter."
+  },
+  {
+    "key": "building_info_human_rug_large",
+    "type": 0,
+    "en": "In life, you shouldn't let people walk all over you. In death, you may not have a choice.",
+    "vi": "In life, you shouldn't let people walk all over you. In death, you may not have a choice."
+  },
+  {
+    "key": "building_info_animal_rug_large",
+    "type": 0,
+    "en": "Animal pelts fashioned into apparel are a necessity for warmth in the cooler seasons, and something of a style statement.",
+    "vi": "Animal pelts fashioned into apparel are a necessity for warmth in the cooler seasons, and something of a style statement."
+  },
+  {
+    "key": "building_info_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry.",
+    "vi": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry."
+  },
+  {
+    "key": "building_info_painting_vertical_wall",
+    "type": 0,
+    "en": "The pleasure of expression through colourful pigments is only surpassed by gazing upon the finished artwork on the wall.",
+    "vi": "The pleasure of expression through colourful pigments is only surpassed by gazing upon the finished artwork on the wall."
+  },
+  {
+    "key": "building_info_medical_bed",
+    "type": 0,
+    "en": "A cot where the infirm and injured may rest, and - if prayers are answered - heal.",
+    "vi": "A cot where the infirm and injured may rest, and - if prayers are answered - heal."
+  },
+  {
+    "key": "building_info_wardrobe",
+    "type": 0,
+    "en": "A small, wooden chamber for your clothes.",
+    "vi": "A small, wooden chamber for your clothes."
+  },
+  {
+    "key": "building_info_wall_instrument_shelf",
+    "type": 0,
+    "en": "A sturdy shelf provides a spot to display musical intruments.",
+    "vi": "A sturdy shelf provides a spot to display musical intruments."
+  },
+  {
+    "key": "building_info_pagan_ritual_circle",
+    "type": 0,
+    "en": "Entrances to the otherworld, sacred rings like these were built on thin places by forgotten ancestors.",
+    "vi": "Entrances to the otherworld, sacred rings like these were built on thin places by forgotten ancestors."
+  },
+  {
+    "key": "building_info_book_stand",
+    "type": 0,
+    "en": "No ordinary book stand, a lectern holds sacred scriptures and upholds the Word of our Lord.",
+    "vi": "No ordinary book stand, a lectern holds sacred scriptures and upholds the Word of our Lord."
+  },
+  {
+    "key": "building_info_fire_pit",
+    "type": 0,
+    "en": "Gathering around an open fire is the essence of warmth and cameraderie. Guard children and pets closely.",
+    "vi": "Gathering around an open fire is the essence of warmth and cameraderie. Guard children and pets closely."
+  },
+  {
+    "key": "building_info_fire_place",
+    "type": 0,
+    "en": "A fire set into the wall is the height of sophistication. The effect is cosy and bright.",
+    "vi": "A fire set into the wall is the height of sophistication. The effect is cosy and bright."
+  },
+  {
+    "key": "building_info_prison_marker",
+    "type": 0,
+    "en": "Label this location carefully, if captives are to be sealed within.",
+    "vi": "Label this location carefully, if captives are to be sealed within."
+  },
+  {
+    "key": "building_info_gallows",
+    "type": 0,
+    "en": "A horizontal wooden beam. The condemned dance on the noose, which hangs, ominously, beneath it.",
+    "vi": "A horizontal wooden beam. The condemned dance on the noose, which hangs, ominously, beneath it."
+  },
+  {
+    "key": "building_info_maple_cropfield",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments."
+  },
+  {
+    "key": "building_info_oak_cropfield",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings."
+  },
+  {
+    "key": "building_info_pine_cropfield",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots."
+  },
+  {
+    "key": "building_info_willow_cropfield",
+    "type": 0,
+    "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
+    "vi": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable."
+  },
+  {
+    "key": "building_info_apple_cropfield",
+    "type": 0,
+    "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
+    "vi": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving."
+  },
+  {
+    "key": "building_info_barley_cropfield",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry."
+  },
+  {
+    "key": "building_info_beet_cropfield",
+    "type": 0,
+    "en": "Hardy and easy to grow in your garden, be that hovel or manor.",
+    "vi": "Hardy and easy to grow in your garden, be that hovel or manor."
+  },
+  {
+    "key": "building_info_birch_cropfield",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine."
+  },
+  {
+    "key": "building_info_cabbage_cropfield",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. A crop to sow all year round.",
+    "vi": "The humblest of wortes and a staple food. A crop to sow all year round."
+  },
+  {
+    "key": "building_info_carrot_cropfield",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later."
+  },
+  {
+    "key": "building_info_flax_cropfield",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen."
+  },
+  {
+    "key": "building_info_hay_cropfield",
+    "type": 0,
+    "en": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. ",
+    "vi": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. "
+  },
+  {
+    "key": "building_info_herbs_cropfield",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing."
+  },
+  {
+    "key": "building_info_redcurrant_cropfield",
+    "type": 0,
+    "en": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness.",
+    "vi": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness."
+  },
+  {
+    "key": "building_info_default_stockpile",
+    "type": 0,
+    "en": "A designated area where resource piles are stored.",
+    "vi": "A designated area where resource piles are stored."
+  },
+  {
+    "key": "building_info_dumping_stockpile",
+    "type": 0,
+    "en": "A designated area where waste is stored.",
+    "vi": "A designated area where waste is stored."
+  },
+  {
+    "key": "building_info_stockpile_test",
+    "type": 0,
+    "en": "Designated area where settlers will store resources",
+    "vi": "Designated area where settlers will store resources"
+  },
+  {
+    "key": "building_info_warfare_stockpile",
+    "type": 0,
+    "en": "A designated area where weaponry and armour is stored.",
+    "vi": "A designated area where weaponry and armour is stored."
+  },
+  {
+    "key": "building_info_clay_shingle_roof",
+    "type": 0,
+    "en": "Clay tiles have warmth and rustic appeal, and keep the weather out.",
+    "vi": "Clay tiles have warmth and rustic appeal, and keep the weather out."
+  },
+  {
+    "key": "building_info_hay_roof",
+    "type": 0,
+    "en": "A roof fashioned from bundles of hay, laid flat and pinned with wooden rods. Rustic and waterproof.",
+    "vi": "A roof fashioned from bundles of hay, laid flat and pinned with wooden rods. Rustic and waterproof."
+  },
+  {
+    "key": "building_info_limestone_slate_roof",
+    "type": 0,
+    "en": "A roof built from roofing slates blends with the local landscape, and keeps things dry.",
+    "vi": "A roof built from roofing slates blends with the local landscape, and keeps things dry."
+  },
+  {
+    "key": "building_info_wicker_roof",
+    "type": 0,
+    "en": "A roof fashioned from bundled sticks.",
+    "vi": "A roof fashioned from bundled sticks."
+  },
+  {
+    "key": "building_info_wood_roof",
+    "type": 0,
+    "en": "A roof made from wooden shingles offers protection from the elements.",
+    "vi": "A roof made from wooden shingles offers protection from the elements."
+  },
+  {
+    "key": "building_info_advanced_research_table",
+    "type": 0,
+    "en": "Deploy mathematics and natural philosophy to their fullest extent to uncover the secrets and complexities of new discoveries.",
+    "vi": "Deploy mathematics and natural philosophy to their fullest extent to uncover the secrets and complexities of new discoveries."
+  },
+  {
+    "key": "building_info_apothecary_bench",
+    "type": 0,
+    "en": "A work station for transforming natural ingredients into cures.",
+    "vi": "A work station for transforming natural ingredients into cures."
+  },
+  {
+    "key": "building_info_armourer_table",
+    "type": 0,
+    "en": "A bench where many types of armour take shape.",
+    "vi": "A bench where many types of armour take shape."
+  },
+  {
+    "key": "building_info_basic_research_table",
+    "type": 0,
+    "en": "A place to begin your studies of a new item.",
+    "vi": "A place to begin your studies of a new item."
+  },
+  {
+    "key": "building_info_blacksmith_station",
+    "type": 0,
+    "en": "Process iron into usable items. Don't forget to invoke Weyland Smith.",
+    "vi": "Process iron into usable items. Don't forget to invoke Weyland Smith."
+  },
+  {
+    "key": "building_info_brewing_station",
+    "type": 0,
+    "en": "Equipped with a copper cauldron for brewing ale.",
+    "vi": "Equipped with a copper cauldron for brewing ale."
+  },
+  {
+    "key": "building_info_butchering_table",
+    "type": 0,
+    "en": "A station for hanging and preparing meat from carcasses.",
+    "vi": "A station for hanging and preparing meat from carcasses."
+  },
+  {
+    "key": "building_info_camp_fire",
+    "type": 0,
+    "en": "A fire for light, warmth and cooking. Gather round, bring a story.",
+    "vi": "A fire for light, warmth and cooking. Gather round, bring a story."
+  },
+  {
+    "key": "building_info_clay_brick_stove",
+    "type": 0,
+    "en": "A humble brick fireplace is the heart of the home. For warmth and cooking.",
+    "vi": "A humble brick fireplace is the heart of the home. For warmth and cooking."
+  },
+  {
+    "key": "building_info_compost_making_station",
+    "type": 0,
+    "en": "Recycle decaying plants and waste here to create rich compost for soil.",
+    "vi": "Recycle decaying plants and waste here to create rich compost for soil."
+  },
+  {
+    "key": "building_info_fermenting_station",
+    "type": 0,
+    "en": "An area for managing all fermentation, from vinegar to alcohol and cheese production.",
+    "vi": "An area for managing all fermentation, from vinegar to alcohol and cheese production."
+  },
+  {
+    "key": "building_info_fletchers_table",
+    "type": 0,
+    "en": "A bench with timber, tools and cord to create bows.",
+    "vi": "A bench with timber, tools and cord to create bows."
+  },
+  {
+    "key": "building_info_kiln",
+    "type": 0,
+    "en": "A special oven for creating ceramics, bricks and tiles from clay.",
+    "vi": "A special oven for creating ceramics, bricks and tiles from clay."
+  },
+  {
+    "key": "building_info_limestone_block_stove",
+    "type": 0,
+    "en": "An elegant, dressed stone hearth is fit for a noble. The epitome of form and function.",
+    "vi": "An elegant, dressed stone hearth is fit for a noble. The epitome of form and function."
+  },
+  {
+    "key": "building_info_limestone_stove",
+    "type": 0,
+    "en": "A rough hewn, stone fireplace is both welcoming and functional.",
+    "vi": "A rough hewn, stone fireplace is both welcoming and functional."
+  },
+  {
+    "key": "building_info_pyre",
+    "type": 0,
+    "en": "Commit a body to the hungry flames to reduce mortal remains to dust and ashes.",
+    "vi": "Commit a body to the hungry flames to reduce mortal remains to dust and ashes."
+  },
+  {
+    "key": "building_info_research_table",
+    "type": 0,
+    "en": "Choose alchemy, divination, or the experience of your settlers to figure out how stuff works.",
+    "vi": "Choose alchemy, divination, or the experience of your settlers to figure out how stuff works."
+  },
+  {
+    "key": "building_info_sewing_station",
+    "type": 0,
+    "en": "This is where needles, thread and shears can be found for sewing and mending.",
+    "vi": "This is where needles, thread and shears can be found for sewing and mending."
+  },
+  {
+    "key": "building_info_smelting_station",
+    "type": 0,
+    "en": "This is the place to bring metal ore and transform it into ingots.",
+    "vi": "This is the place to bring metal ore and transform it into ingots."
+  },
+  {
+    "key": "building_info_smokehouse",
+    "type": 0,
+    "en": "A building to hang meat and cure it with smoke from an open fire.",
+    "vi": "A building to hang meat and cure it with smoke from an open fire."
+  },
+  {
+    "key": "building_info_spirit_destilary",
+    "type": 0,
+    "en": "After fermentation, the distillery performs alchemy yielding aqua vitae. A powerful, medicinal alcohol.",
+    "vi": "After fermentation, the distillery performs alchemy yielding aqua vitae. A powerful, medicinal alcohol."
+  },
+  {
+    "key": "building_info_stonemasons_bench",
+    "type": 0,
+    "en": "All the tools necessary to work stone are found here.",
+    "vi": "All the tools necessary to work stone are found here."
+  },
+  {
+    "key": "building_info_woodwork_bench",
+    "type": 0,
+    "en": "All the tools necessary for carpentry are found here.",
+    "vi": "All the tools necessary for carpentry are found here."
+  },
+  {
+    "key": "building_info_ice_station",
+    "type": 0,
+    "en": "A wooden box to hold water as it freezes. Generates ice for the settlement.",
+    "vi": "A wooden box to hold water as it freezes. Generates ice for the settlement."
+  },
+  {
+    "key": "building_info_skep",
+    "type": 0,
+    "en": "If the bees work hard, this woven hive will overflow with liquid gold honey, and malleable wax.",
+    "vi": "If the bees work hard, this woven hive will overflow with liquid gold honey, and malleable wax."
+  },
+  {
+    "key": "building_info_easel",
+    "type": 0,
+    "en": "An artist's frame to hold paintings as they are created.",
+    "vi": "An artist's frame to hold paintings as they are created."
+  },
+  {
+    "key": "building_info_grave",
+    "type": 0,
+    "en": "An ending is marked here. Rest in peace, fellow traveller.",
+    "vi": "An ending is marked here. Rest in peace, fellow traveller."
+  },
+  {
+    "key": "building_info_limestone_normal_grave",
+    "type": 0,
+    "en": "Dead, but not forgotten. A marker graven in stone is a fine tribute that will endure for generations.",
+    "vi": "Dead, but not forgotten. A marker graven in stone is a fine tribute that will endure for generations."
+  },
+  {
+    "key": "building_info_limestone_sarcophagus",
+    "type": 0,
+    "en": "A stone casket is a fitting memorial for a significant person. It does not need to be buried underground.",
+    "vi": "A stone casket is a fitting memorial for a significant person. It does not need to be buried underground."
+  },
+  {
+    "key": "building_info_unmarked_grave",
+    "type": 0,
+    "en": "As final resting places go, a humble hole in the ground is the least we can hope for. Earth to earth, ashes to ashes.",
+    "vi": "As final resting places go, a humble hole in the ground is the least we can hope for. Earth to earth, ashes to ashes."
+  },
+  {
+    "key": "building_info_wood_normal_grave",
+    "type": 0,
+    "en": "A wooden grave marker may not last for eternity, but serves a memorial for those in mourning.",
+    "vi": "A wooden grave marker may not last for eternity, but serves a memorial for those in mourning."
+  },
+  {
+    "key": "building_info_wood_sarcophagus",
+    "type": 0,
+    "en": "A wooden box to keep the deceased respectfully entombed. It does not need to be buried underground.",
+    "vi": "A wooden box to keep the deceased respectfully entombed. It does not need to be buried underground."
+  },
+  {
+    "key": "building_info_metal_trap",
+    "type": 0,
+    "en": "This metal floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "This metal floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful."
+  },
+  {
+    "key": "building_info_stick_trap",
+    "type": 0,
+    "en": "Sharpened stakes are laid ready to skewer unfortunate victims. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "Sharpened stakes are laid ready to skewer unfortunate victims. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful."
+  },
+  {
+    "key": "building_info_wood_trap",
+    "type": 0,
+    "en": "This wooden floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "This wooden floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful."
+  },
+  {
+    "key": "building_info_builder_needed",
+    "type": 0,
+    "en": "Waiting for settler",
+    "vi": "Waiting for settler"
+  },
+  {
+    "key": "dev_autoconstruct_off",
+    "type": 0,
+    "en": "Auto Construction: Off",
+    "vi": "Auto Construction: Off"
+  },
+  {
+    "key": "dev_autoconstruct_on",
+    "type": 0,
+    "en": "Auto Construction: On",
+    "vi": "Auto Construction: On"
+  },
+  {
+    "key": "dev_tooltip_autoconstruct",
+    "type": 0,
+    "en": "Toggles between instant and normal construction",
+    "vi": "Toggles between instant and normal construction"
+  },
+  {
+    "key": "dev_particle_destroy_building",
+    "type": 0,
+    "en": "Building Destruction",
+    "vi": "Building Destruction"
+  },
+  {
+    "key": "dev_particle_building_hit",
+    "type": 0,
+    "en": "Building Hit",
+    "vi": "Building Hit"
+  },
+  {
+    "key": "dev_buildings",
+    "type": 0,
+    "en": "Buildings",
+    "vi": "Buildings"
+  },
+  {
+    "key": "dev_spawn_materials_with_building_off",
+    "type": 0,
+    "en": "Spawn Mats with Building: Off",
+    "vi": "Spawn Mats with Building: Off"
+  },
+  {
+    "key": "dev_spawn_materials_with_building_on",
+    "type": 0,
+    "en": "Spawn Mats with Building: On",
+    "vi": "Spawn Mats with Building: On"
+  },
+  {
+    "key": "dev_tooltip_spawn_materials_with_building",
+    "type": 0,
+    "en": "If on will spawn required materials upon blueprint placement",
+    "vi": "If on will spawn required materials upon blueprint placement"
+  },
+  {
+    "key": "dev_craftable_buildings_enabled_off",
+    "type": 0,
+    "en": "Craftable Buildings Menu: Off",
+    "vi": "Craftable Buildings Menu: Off"
+  },
+  {
+    "key": "dev_craftable_buildings_enabled_on",
+    "type": 0,
+    "en": "Craftable Buildings Menu: On",
+    "vi": "Craftable Buildings Menu: On"
+  },
+  {
+    "key": "dev_tooltip_craftable_buildings_enabled",
+    "type": 0,
+    "en": "If on will enable craftable buildings being built from the Construction menu",
+    "vi": "If on will enable craftable buildings being built from the Construction menu"
+  },
+  {
+    "key": "dev_convertAllBuildingsToEnemyOwned",
+    "type": 0,
+    "en": "Convert All Buildings to Enemy Owned",
+    "vi": "Convert All Buildings to Enemy Owned"
+  },
+  {
+    "key": "dev_tooltip_convertAllBuildingsToEnemyOwned",
+    "type": 0,
+    "en": "Convert all player buildings to enemy buildings.",
+    "vi": "Convert all player buildings to enemy buildings."
+  },
+  {
+    "key": "dev_destroy_all_buildings",
+    "type": 0,
+    "en": "Destroy All Buildings",
+    "vi": "Destroy All Buildings"
+  },
+  {
+    "key": "dev_tooltip_destroy_all_buildings",
+    "type": 0,
+    "en": "Destroys all buildings on the map",
+    "vi": "Destroys all buildings on the map"
+  },
+  {
+    "key": "dev_enable_manual_construct_commander_input",
+    "type": 0,
+    "en": "Manual Construct Input",
+    "vi": "Manual Construct Input"
+  },
+  {
+    "key": "dev_tooltip_enable_manual_construct_commander_input",
+    "type": 0,
+    "en": "Sets the first commander agent to the debug manual construct one",
+    "vi": "Sets the first commander agent to the debug manual construct one"
+  },
+  {
+    "key": "dev_advance_building_phase",
+    "type": 0,
+    "en": "Advance Building Phase",
+    "vi": "Advance Building Phase"
+  },
+  {
+    "key": "dev_tooltip_advance_building_phase",
+    "type": 0,
+    "en": "Click on a building to change its building phase from blueprint to foundation and from foundation to complete",
+    "vi": "Click on a building to change its building phase from blueprint to foundation and from foundation to complete"
+  }
+]

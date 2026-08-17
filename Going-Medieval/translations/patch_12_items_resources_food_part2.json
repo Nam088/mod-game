@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "worker_action_AnimalFleeingIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_AnimalHungerGoal",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "worker_action_SetAnimalTargetGoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_AnimalFeederHaulingGoal",
+    "type": 0,
+    "en": "Filling trough",
+    "vi": "Filling trough"
+  },
+  {
+    "key": "worker_action_RitualAnimalEventGoal",
+    "type": 0,
+    "en": "Attending Oak Brethren Ritual",
+    "vi": "Attending Oak Brethren Ritual"
+  },
+  {
+    "key": "worker_action_petAnimalGoal",
+    "type": 0,
+    "en": "Interacting with pet",
+    "vi": "Interacting with pet"
+  },
+  {
+    "key": "resource_name_dismantle_cloth",
+    "type": 0,
+    "en": "Dismantle items for cloth",
+    "vi": "Dismantle items for cloth"
+  },
+  {
+    "key": "resource_name_dismantle_wood",
+    "type": 0,
+    "en": "Dismantle items for wood",
+    "vi": "Dismantle items for wood"
+  },
+  {
+    "key": "resource_name_dismantle_metal",
+    "type": 0,
+    "en": "Smelt items for metal",
+    "vi": "Smelt items for metal"
+  },
+  {
+    "key": "name_prod_resources",
+    "type": 0,
+    "en": "Waiting for resources",
+    "vi": "Waiting for resources"
+  },
+  {
+    "key": "resource_name_train_ranged",
+    "type": 0,
+    "en": "Marksman Training",
+    "vi": "Marksman Training"
+  },
+  {
+    "key": "resource_name_train_melee",
+    "type": 0,
+    "en": "Melee Training",
+    "vi": "Melee Training"
+  },
+  {
+    "key": "plants_around_skep",
+    "type": 0,
+    "en": "Plants nearby for bees to use ",
+    "vi": "Plants nearby for bees to use "
+  },
+  {
+    "key": "resource_name_repair_cloth",
+    "type": 0,
+    "en": "Mend cloth item",
+    "vi": "Mend cloth item"
+  },
+  {
+    "key": "resource_name_repair_cloth_produced",
+    "type": 0,
+    "en": "Mended cloth item",
+    "vi": "Mended cloth item"
+  },
+  {
+    "key": "resource_name_repair_wood",
+    "type": 0,
+    "en": "Repair wooden item",
+    "vi": "Repair wooden item"
+  },
+  {
+    "key": "resource_name_repair_wood_produced",
+    "type": 0,
+    "en": "Repaired wooden item",
+    "vi": "Repaired wooden item"
+  },
+  {
+    "key": "resource_name_repair_metal",
+    "type": 0,
+    "en": "Repair metal item",
+    "vi": "Repair metal item"
+  },
+  {
+    "key": "resource_name_repair_metal_produced",
+    "type": 0,
+    "en": "Repaired metal item",
+    "vi": "Repaired metal item"
+  },
+  {
+    "key": "item_hit_point_tooltip",
+    "type": 0,
+    "en": "Hitpoint range of the item being repaired",
+    "vi": "Hitpoint range of the item being repaired"
+  },
+  {
+    "key": "item_resource_hit_point_tooltip",
+    "type": 0,
+    "en": "Hitpoint range of the repair material used",
+    "vi": "Hitpoint range of the repair material used"
+  },
+  {
+    "key": "item_resource_quality_tooltip",
+    "type": 0,
+    "en": "Quality range of the item being repaired",
+    "vi": "Quality range of the item being repaired"
+  },
+  {
+    "key": "resource_hit_point_tooltip",
+    "type": 0,
+    "en": "Hitpoint range of the resource being used",
+    "vi": "Hitpoint range of the resource being used"
+  },
+  {
+    "key": "resource_quality_tooltip",
+    "type": 0,
+    "en": "Quality range of the resource being used",
+    "vi": "Quality range of the resource being used"
+  },
+  {
+    "key": "menu_resource_hit_points",
+    "type": 0,
+    "en": "Repair Material Hitpoints",
+    "vi": "Repair Material Hitpoints"
+  },
+  {
+    "key": "goal_preference_name_PlantsPreference",
+    "type": 0,
+    "en": "Botany",
+    "vi": "Botany"
+  },
+  {
+    "key": "goal_preference_name_AnimalPreference",
+    "type": 0,
+    "en": "Animal Handling",
+    "vi": "Animal Handling"
+  },
+  {
+    "key": "goal_preference_info_PlantsPreference",
+    "type": 0,
+    "en": "Used for sowing, growing, harvesting, and gathering plants, herbs and fruits.",
+    "vi": "Used for sowing, growing, harvesting, and gathering plants, herbs and fruits."
+  },
+  {
+    "key": "goal_preference_info_AnimalPreference",
+    "type": 0,
+    "en": "Taming, training, slaughtering, roping, releasing and harvesting resources from animals.",
+    "vi": "Taming, training, slaughtering, roping, releasing and harvesting resources from animals."
+  },
+  {
+    "key": "general_add_unique_resource",
+    "type": 0,
+    "en": "Add Textbook",
+    "vi": "Add Textbook"
+  },
+  {
+    "key": "no_animalparticipant_message",
+    "type": 0,
+    "en": "There are no domestic animals that can be added to the event. ",
+    "vi": "There are no domestic animals that can be added to the event. "
+  },
+  {
+    "key": "food_effecotor",
+    "type": 0,
+    "en": "Food",
+    "vi": "Food"
+  },
+  {
+    "key": "effector_name_AffectionAnimalPositive",
+    "type": 0,
+    "en": "Pleasant company",
+    "vi": "Pleasant company"
+  },
+  {
+    "key": "effector_name_AffectionAnimalNegative",
+    "type": 0,
+    "en": "Tiresome company",
+    "vi": "Tiresome company"
+  },
+  {
+    "key": "effector_name_AnimalPresence",
+    "type": 0,
+    "en": "Interacted with a pet",
+    "vi": "Interacted with a pet"
+  },
+  {
+    "key": "effector_info_AnimalPresence",
+    "type": 0,
+    "en": "I'm grateful for <pet_name>'s company",
+    "vi": "I'm grateful for <pet_name>'s company"
+  },
+  {
+    "key": "resource_category_name_None",
+    "type": 0,
+    "en": "Miscellaneous",
+    "vi": "Miscellaneous"
+  },
+  {
+    "key": "atb_info_AnimalCritChance",
+    "type": 0,
+    "en": "The chance to land a critical hit when hunting.",
+    "vi": "The chance to land a critical hit when hunting."
+  },
+  {
+    "key": "atb_name_AnimalCritChance",
+    "type": 0,
+    "en": "Animal Critical Hit Chance",
+    "vi": "Animal Critical Hit Chance"
+  },
+  {
+    "key": "atb_name_AnimalHarvestYeald",
+    "type": 0,
+    "en": "Animal Harvest Yield",
+    "vi": "Animal Harvest Yield"
+  },
+  {
+    "key": "atb_info_AnimalHarvestYeald",
+    "type": 0,
+    "en": "The number of resources yielded from living animals.",
+    "vi": "The number of resources yielded from living animals."
+  },
+  {
+    "key": "atb_name_HarvestAnimalSpeed",
+    "type": 0,
+    "en": "Animal Harvest Speed",
+    "vi": "Animal Harvest Speed"
+  },
+  {
+    "key": "atb_name_TameAnimalSpeed",
+    "type": 0,
+    "en": "Animal Taming Speed",
+    "vi": "Animal Taming Speed"
+  },
+  {
+    "key": "atb_name_TrainAnimalSpeed",
+    "type": 0,
+    "en": "Animal Training Speed",
+    "vi": "Animal Training Speed"
+  },
+  {
+    "key": "atb_info_HarvestAnimalSpeed",
+    "type": 0,
+    "en": "The speed this settler harvests resources from animals (like milking goats or shearing sheep)",
+    "vi": "The speed this settler harvests resources from animals (like milking goats or shearing sheep)"
+  },
+  {
+    "key": "atb_info_TameAnimalSpeed",
+    "type": 0,
+    "en": "The speed this settler tames animals",
+    "vi": "The speed this settler tames animals"
+  },
+  {
+    "key": "atb_info_TrainAnimalSpeed",
+    "type": 0,
+    "en": "The speed this settler trains animals",
+    "vi": "The speed this settler trains animals"
+  },
+  {
+    "key": "atb_name_AnimalTameChance",
+    "type": 0,
+    "en": "Chance to Tame Animal",
+    "vi": "Chance to Tame Animal"
+  },
+  {
+    "key": "atb_name_AnimalTrainChance",
+    "type": 0,
+    "en": "Chance to Train Animal",
+    "vi": "Chance to Train Animal"
+  },
+  {
+    "key": "atb_info_AnimalTameChance",
+    "type": 0,
+    "en": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)",
+    "vi": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)"
+  },
+  {
+    "key": "atb_info_AnimalTrainChance",
+    "type": 0,
+    "en": "The chance that the training attempt will be sucessful (the settler attempting to train this animal will also multiply this chance)",
+    "vi": "The chance that the training attempt will be sucessful (the settler attempting to train this animal will also multiply this chance)"
+  },
+  {
+    "key": "quality_fine",
+    "type": 0,
+    "en": "Fine",
+    "vi": "Fine"
+  },
+  {
+    "key": "quality_flawless",
+    "type": 0,
+    "en": "Flawless",
+    "vi": "Flawless"
+  },
+  {
+    "key": "quality_flimsy",
+    "type": 0,
+    "en": "Flimsy",
+    "vi": "Flimsy"
+  },
+  {
+    "key": "quality_good",
+    "type": 0,
+    "en": "Good",
+    "vi": "Good"
+  },
+  {
+    "key": "quality_none",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "quality_sturdy",
+    "type": 0,
+    "en": "Sturdy",
+    "vi": "Sturdy"
+  },
+  {
+    "key": "quality_superior",
+    "type": 0,
+    "en": "Superior",
+    "vi": "Superior"
+  },
+  {
+    "key": "resources names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "resource_name_dirt",
+    "type": 0,
+    "en": "Dirt",
+    "vi": "Dirt"
+  },
+  {
+    "key": "resource_name_advanced_research_book",
+    "type": 0,
+    "en": "Thesis",
+    "vi": "Thesis"
+  },
+  {
+    "key": "resource_name_alcohol",
+    "type": 0,
+    "en": "Alcohol",
+    "vi": "Alcohol"
+  },
+  {
+    "key": "resource_name_wine",
+    "type": 0,
+    "en": "Wine",
+    "vi": "Wine"
+  },
+  {
+    "key": "resource_name_rough_wine",
+    "type": 0,
+    "en": "Rough wine",
+    "vi": "Rough wine"
+  },
+  {
+    "key": "resource_name_beer",
+    "type": 0,
+    "en": "Beer",
+    "vi": "Beer"
+  },
+  {
+    "key": "resource_name_ale",
+    "type": 0,
+    "en": "Ale",
+    "vi": "Ale"
+  },
+  {
+    "key": "resource_name_ash",
+    "type": 0,
+    "en": "Ash",
+    "vi": "Ash"
+  },
+  {
+    "key": "resource_name_barley",
+    "type": 0,
+    "en": "Barley",
+    "vi": "Barley"
+  },
+  {
+    "key": "resource_name_basic_research_book",
+    "type": 0,
+    "en": "Chronicle",
+    "vi": "Chronicle"
+  },
+  {
+    "key": "resource_name_beet",
+    "type": 0,
+    "en": "Beet",
+    "vi": "Beet"
+  },
+  {
+    "key": "resource_name_bone_meal",
+    "type": 0,
+    "en": "Bone Meal",
+    "vi": "Bone Meal"
+  },
+  {
+    "key": "resource_name_bones",
+    "type": 0,
+    "en": "Bones",
+    "vi": "Bones"
+  },
+  {
+    "key": "resource_name_cabbage",
+    "type": 0,
+    "en": "Cabbage",
+    "vi": "Cabbage"
+  },
+  {
+    "key": "resource_name_carrot",
+    "type": 0,
+    "en": "Carrot",
+    "vi": "Carrot"
+  },
+  {
+    "key": "resource_name_clay",
+    "type": 0,
+    "en": "Clay",
+    "vi": "Clay"
+  },
+  {
+    "key": "resource_name_clay_brick",
+    "type": 0,
+    "en": "Clay Brick",
+    "vi": "Clay Brick"
+  },
+  {
+    "key": "resource_name_compost",
+    "type": 0,
+    "en": "Compost",
+    "vi": "Compost"
+  },
+  {
+    "key": "resource_name_deer_carcass",
+    "type": 0,
+    "en": "Deer Carcass",
+    "vi": "Deer Carcass"
+  },
+  {
+    "key": "resource_name_dung",
+    "type": 0,
+    "en": "Dung",
+    "vi": "Dung"
+  },
+  {
+    "key": "resource_name_dungbrick",
+    "type": 0,
+    "en": "Dungbrick",
+    "vi": "Dungbrick"
+  },
+  {
+    "key": "resource_name_gold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Gold"
+  },
+  {
+    "key": "resource_name_gold_ingot",
+    "type": 0,
+    "en": "Gold Ingot",
+    "vi": "Gold Ingot"
+  },
+  {
+    "key": "resource_name_gunpowder",
+    "type": 0,
+    "en": "Gunpowder",
+    "vi": "Gunpowder"
+  },
+  {
+    "key": "resource_name_hare_carcass",
+    "type": 0,
+    "en": "Hare Carcass",
+    "vi": "Hare Carcass"
+  },
+  {
+    "key": "resource_name_hay",
+    "type": 0,
+    "en": "Hay",
+    "vi": "Hay"
+  },
+  {
+    "key": "resource_name_healing_kit",
+    "type": 0,
+    "en": "Healing Kit",
+    "vi": "Healing Kit"
+  },
+  {
+    "key": "resource_name_healing_kit_advanced",
+    "type": 0,
+    "en": "Advanced Healing Kit",
+    "vi": "Advanced Healing Kit"
+  },
+  {
+    "key": "resource_name_healing_kit_simple",
+    "type": 0,
+    "en": "Simple Healing Kit",
+    "vi": "Simple Healing Kit"
+  },
+  {
+    "key": "resource_name_herbs",
+    "type": 0,
+    "en": "Herbs",
+    "vi": "Herbs"
+  },
+  {
+    "key": "resource_name_honey",
+    "type": 0,
+    "en": "Honey",
+    "vi": "Honey"
+  },
+  {
+    "key": "resource_name_human_carcass",
+    "type": 0,
+    "en": "Settler Corpse",
+    "vi": "Settler Corpse"
+  },
+  {
+    "key": "resource_name_human_carcass_old",
+    "type": 0,
+    "en": "Human Carcass",
+    "vi": "Human Carcass"
+  },
+  {
+    "key": "resource_name_iron",
+    "type": 0,
+    "en": "Iron Nugget",
+    "vi": "Iron Nugget"
+  },
+  {
+    "key": "resource_name_iron_ingot",
+    "type": 0,
+    "en": "Iron Ingot",
+    "vi": "Iron Ingot"
+  },
+  {
+    "key": "resource_name_lavish_meal",
+    "type": 0,
+    "en": "Lavish Meal",
+    "vi": "Lavish Meal"
+  },
+  {
+    "key": "resource_name_lavish_meal_med_batch",
+    "type": 0,
+    "en": "5 Lavish Meal",
+    "vi": "5 Lavish Meal"
+  },
+  {
+    "key": "resource_name_lavish_meal_large_batch",
+    "type": 0,
+    "en": "10 Lavish Meal",
+    "vi": "10 Lavish Meal"
+  },
+  {
+    "key": "resource_name_lavish_meal_meat_human",
+    "type": 0,
+    "en": "Lavish Meal (Human Meat)",
+    "vi": "Lavish Meal (Human Meat)"
+  },
+  {
+    "key": "resource_name_leather",
+    "type": 0,
+    "en": "Leather",
+    "vi": "Leather"
+  },
+  {
+    "key": "resource_name_leather_deer",
+    "type": 0,
+    "en": "Leather (Deer)",
+    "vi": "Leather (Deer)"
+  },
+  {
+    "key": "resource_name_leather_hare",
+    "type": 0,
+    "en": "Leather (Hare)",
+    "vi": "Leather (Hare)"
+  },
+  {
+    "key": "resource_name_leather_wolf",
+    "type": 0,
+    "en": "Leather (Wolf)",
+    "vi": "Leather (Wolf)"
+  },
+  {
+    "key": "resource_name_leather_boar",
+    "type": 0,
+    "en": "Leather (Boar)",
+    "vi": "Leather (Boar)"
+  },
+  {
+    "key": "resource_name_leather_fox",
+    "type": 0,
+    "en": "Leather (Fox)",
+    "vi": "Leather (Fox)"
+  },
+  {
+    "key": "resource_name_leather_rat",
+    "type": 0,
+    "en": "Leather (Rat)",
+    "vi": "Leather (Rat)"
+  },
+  {
+    "key": "resource_name_leather_water_vole",
+    "type": 0,
+    "en": "Leather (Water vole pelt)",
+    "vi": "Leather (Water vole pelt)"
+  },
+  {
+    "key": "resource_name_leather_polecat",
+    "type": 0,
+    "en": "Leather (Polecat)",
+    "vi": "Leather (Polecat)"
+  },
+  {
+    "key": "resource_name_leather_cow",
+    "type": 0,
+    "en": "Leather (Cattle)",
+    "vi": "Leather (Cattle)"
+  },
+  {
+    "key": "resource_name_leather_goat",
+    "type": 0,
+    "en": "Leather (Goat)",
+    "vi": "Leather (Goat)"
+  },
+  {
+    "key": "resource_name_leather_sheep",
+    "type": 0,
+    "en": "Leather (Sheep)",
+    "vi": "Leather (Sheep)"
+  },
+  {
+    "key": "resource_name_leather_donkey",
+    "type": 0,
+    "en": "Leather (Ass)",
+    "vi": "Leather (Ass)"
+  },
+  {
+    "key": "resource_name_leather_cat",
+    "type": 0,
+    "en": "Leather (Cat)",
+    "vi": "Leather (Cat)"
+  },
+  {
+    "key": "resource_name_leather_dog",
+    "type": 0,
+    "en": "Leather (Dog)",
+    "vi": "Leather (Dog)"
+  },
+  {
+    "key": "resource_name_leather_human",
+    "type": 0,
+    "en": "Leather (Human)",
+    "vi": "Leather (Human)"
+  },
+  {
+    "key": "resource_name_leather_bear",
+    "type": 0,
+    "en": "Leather (Bear)",
+    "vi": "Leather (Bear)"
+  },
+  {
+    "key": "resource_name_limestone",
+    "type": 0,
+    "en": "Limestone",
+    "vi": "Limestone"
+  },
+  {
+    "key": "resource_name_limestone_block",
+    "type": 0,
+    "en": "Limestone Brick",
+    "vi": "Limestone Brick"
+  },
+  {
+    "key": "resource_name_linen_cloth",
+    "type": 0,
+    "en": "Linen Cloth",
+    "vi": "Linen Cloth"
+  },
+  {
+    "key": "resource_name_meal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Meal"
+  },
+  {
+    "key": "resource_name_simple_meal",
+    "type": 0,
+    "en": "Simple Meal",
+    "vi": "Simple Meal"
+  },
+  {
+    "key": "resource_name_meal_med_batch",
+    "type": 0,
+    "en": "5 Meal",
+    "vi": "5 Meal"
+  },
+  {
+    "key": "resource_name_meal_large_batch",
+    "type": 0,
+    "en": "10 Meal",
+    "vi": "10 Meal"
+  },
+  {
+    "key": "resource_name_meat",
+    "type": 0,
+    "en": "Raw Meat",
+    "vi": "Raw Meat"
+  },
+  {
+    "key": "resource_name_meat_human",
+    "type": 0,
+    "en": "Raw Meat (Human)",
+    "vi": "Raw Meat (Human)"
+  },
+  {
+    "key": "resource_name_normal_research_book",
+    "type": 0,
+    "en": "Handbook",
+    "vi": "Handbook"
+  },
+  {
+    "key": "resource_name_packaged_meal",
+    "type": 0,
+    "en": "Packaged Meal",
+    "vi": "Packaged Meal"
+  },
+  {
+    "key": "resource_name_packaged_meal_med_batch",
+    "type": 0,
+    "en": "5 Packaged Meal",
+    "vi": "5 Packaged Meal"
+  },
+  {
+    "key": "resource_name_packaged_meal_large_batch",
+    "type": 0,
+    "en": "10 Packaged Meal",
+    "vi": "10 Packaged Meal"
+  },
+  {
+    "key": "resource_name_packaged_meal_meat_human",
+    "type": 0,
+    "en": "Packaged Meal (Human Meat)",
+    "vi": "Packaged Meal (Human Meat)"
+  },
+  {
+    "key": "resource_name_pickled_vegetable",
+    "type": 0,
+    "en": "Pickled Vegetable",
+    "vi": "Pickled Vegetable"
+  },
+  {
+    "key": "resource_name_quicklime",
+    "type": 0,
+    "en": "Quicklime",
+    "vi": "Quicklime"
+  },
+  {
+    "key": "resource_name_redcurrant",
+    "type": 0,
+    "en": "Redcurrant",
+    "vi": "Redcurrant"
+  },
+  {
+    "key": "resource_name_roasted_meat",
+    "type": 0,
+    "en": "Roasted Meat",
+    "vi": "Roasted Meat"
+  },
+  {
+    "key": "resource_name_roasted_meat_human",
+    "type": 0,
+    "en": "Roasted Meat (Human)",
+    "vi": "Roasted Meat (Human)"
+  },
+  {
+    "key": "resource_name_salt",
+    "type": 0,
+    "en": "Salt",
+    "vi": "Salt"
+  },
+  {
+    "key": "resource_name_saltpeter",
+    "type": 0,
+    "en": "Saltpetre",
+    "vi": "Saltpetre"
+  },
+  {
+    "key": "resource_name_silver",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Silver"
+  },
+  {
+    "key": "resource_name_smoked_meat",
+    "type": 0,
+    "en": "Smoked Meat",
+    "vi": "Smoked Meat"
+  },
+  {
+    "key": "resource_name_smoked_meat_human",
+    "type": 0,
+    "en": "Smoked Meat (Human)",
+    "vi": "Smoked Meat (Human)"
+  },
+  {
+    "key": "resource_name_stew",
+    "type": 0,
+    "en": "Stew",
+    "vi": "Stew"
+  },
+  {
+    "key": "resource_name_sticks",
+    "type": 0,
+    "en": "Sticks",
+    "vi": "Sticks"
+  },
+  {
+    "key": "resource_name_coal",
+    "type": 0,
+    "en": "Coal",
+    "vi": "Coal"
+  },
+  {
+    "key": "resource_name_sulfur",
+    "type": 0,
+    "en": "Sulfur",
+    "vi": "Sulfur"
+  },
+  {
+    "key": "resource_name_meat_rot",
+    "type": 0,
+    "en": "Rotten Meat",
+    "vi": "Rotten Meat"
+  },
+  {
+    "key": "resource_name_vegetable_rot",
+    "type": 0,
+    "en": "Vegetable Rot",
+    "vi": "Vegetable Rot"
+  },
+  {
+    "key": "resource_name_vinegar",
+    "type": 0,
+    "en": "Vinegar",
+    "vi": "Vinegar"
+  },
+  {
+    "key": "resource_name_wood",
+    "type": 0,
+    "en": "Wood",
+    "vi": "Wood"
+  },
+  {
+    "key": "resource_name_mechanical_parts",
+    "type": 0,
+    "en": "Mechanical Components",
+    "vi": "Mechanical Components"
+  },
+  {
+    "key": "resource_name_wool_cloth",
+    "type": 0,
+    "en": "Wool Cloth",
+    "vi": "Wool Cloth"
+  },
+  {
+    "key": "resource_name_cloth",
+    "type": 0,
+    "en": "Clothing Fabric",
+    "vi": "Clothing Fabric"
+  },
+  {
+    "key": "resource_name_metal",
+    "type": 0,
+    "en": "Metal",
+    "vi": "Metal"
+  },
+  {
+    "key": "resource_name_dubious_meal",
+    "type": 0,
+    "en": "Dubious Meal",
+    "vi": "Dubious Meal"
+  },
+  {
+    "key": "resource_name_burn_body",
+    "type": 0,
+    "en": "Burn Body",
+    "vi": "Burn Body"
+  },
+  {
+    "key": "resource_name_settler_carcass",
+    "type": 0,
+    "en": "Settler Corpse",
+    "vi": "Settler Corpse"
+  },
+  {
+    "key": "resource_name_enemy_carcass",
+    "type": 0,
+    "en": "Enemy Corpse",
+    "vi": "Enemy Corpse"
+  },
+  {
+    "key": "resource_name_apple",
+    "type": 0,
+    "en": "Apples",
+    "vi": "Apples"
+  },
+  {
+    "key": "resource_name_apple_cider",
+    "type": 0,
+    "en": "Cider",
+    "vi": "Cider"
+  },
+  {
+    "key": "resource_name_apple_pie",
+    "type": 0,
+    "en": "Apple Pie",
+    "vi": "Apple Pie"
+  },
+  {
+    "key": "resource_name_honey_biscuits",
+    "type": 0,
+    "en": "Honey Crispels",
+    "vi": "Honey Crispels"
+  },
+  {
+    "key": "resource_name_redcurrant_pie",
+    "type": 0,
+    "en": "Redcurrant Pie",
+    "vi": "Redcurrant Pie"
+  },
+  {
+    "key": "resource_name_mead",
+    "type": 0,
+    "en": "Mead",
+    "vi": "Mead"
+  },
+  {
+    "key": "resource_name_silver_ingot",
+    "type": 0,
+    "en": "Silver Ingot",
+    "vi": "Silver Ingot"
+  },
+  {
+    "key": "resource_name_ice_block",
+    "type": 0,
+    "en": "Ice Block",
+    "vi": "Ice Block"
+  },
+  {
+    "key": "resource_name_cabbage_seed",
+    "type": 0,
+    "en": "Cabbage Seed",
+    "vi": "Cabbage Seed"
+  },
+  {
+    "key": "resource_name_carrot_seed",
+    "type": 0,
+    "en": "Carrot Seed",
+    "vi": "Carrot Seed"
+  },
+  {
+    "key": "resource_name_beet_seed",
+    "type": 0,
+    "en": "Beet Seed",
+    "vi": "Beet Seed"
+  },
+  {
+    "key": "resource_name_herbs_seed",
+    "type": 0,
+    "en": "Herb Seed",
+    "vi": "Herb Seed"
+  },
+  {
+    "key": "resource_name_flax_seed",
+    "type": 0,
+    "en": "Flax Seed",
+    "vi": "Flax Seed"
+  },
+  {
+    "key": "resource_name_birch_sapling",
+    "type": 0,
+    "en": "Birch Sapling",
+    "vi": "Birch Sapling"
+  },
+  {
+    "key": "resource_name_oak_sapling",
+    "type": 0,
+    "en": "Oak Sapling",
+    "vi": "Oak Sapling"
+  },
+  {
+    "key": "resource_name_maple_sapling",
+    "type": 0,
+    "en": "Maple Sapling",
+    "vi": "Maple Sapling"
+  },
+  {
+    "key": "resource_name_pine_sapling",
+    "type": 0,
+    "en": "Pine Sapling",
+    "vi": "Pine Sapling"
+  },
+  {
+    "key": "resource_name_apple_sapling",
+    "type": 0,
+    "en": "Apple Sapling",
+    "vi": "Apple Sapling"
+  },
+  {
+    "key": "resource_name_willow_sapling",
+    "type": 0,
+    "en": "Willow Sapling",
+    "vi": "Willow Sapling"
+  },
+  {
+    "key": "resource_name_tallow",
+    "type": 0,
+    "en": "Tallow",
+    "vi": "Tallow"
+  },
+  {
+    "key": "resource_name_wax",
+    "type": 0,
+    "en": "Beeswax",
+    "vi": "Beeswax"
+  },
+  {
+    "key": "resource_name_wolf_carcass",
+    "type": 0,
+    "en": "Wolf Carcass",
+    "vi": "Wolf Carcass"
+  },
+  {
+    "key": "resource_name_steel_ingot",
+    "type": 0,
+    "en": "Steel Ingot",
+    "vi": "Steel Ingot"
+  },
+  {
+    "key": "resource_name_cow_carcass",
+    "type": 0,
+    "en": "Cow Carcass",
+    "vi": "Cow Carcass"
+  },
+  {
+    "key": "resource_name_goat_carcass",
+    "type": 0,
+    "en": "Goat Carcass",
+    "vi": "Goat Carcass"
+  },
+  {
+    "key": "resource_name_sheep_carcass",
+    "type": 0,
+    "en": "Sheep Carcass",
+    "vi": "Sheep Carcass"
+  },
+  {
+    "key": "resource_name_donkey_carcass",
+    "type": 0,
+    "en": "Ass Carcass",
+    "vi": "Ass Carcass"
+  },
+  {
+    "key": "resource_name_chicken_carcass",
+    "type": 0,
+    "en": "Chicken Carcass",
+    "vi": "Chicken Carcass"
+  },
+  {
+    "key": "resource_name_boar_carcass",
+    "type": 0,
+    "en": "Boar Carcass",
+    "vi": "Boar Carcass"
+  },
+  {
+    "key": "resource_name_pheasant_carcass",
+    "type": 0,
+    "en": "Pheasant Carcass",
+    "vi": "Pheasant Carcass"
+  },
+  {
+    "key": "resource_name_fox_carcass",
+    "type": 0,
+    "en": "Fox Carcass",
+    "vi": "Fox Carcass"
+  },
+  {
+    "key": "resource_name_cat_carcass",
+    "type": 0,
+    "en": "Cat Carcass",
+    "vi": "Cat Carcass"
+  },
+  {
+    "key": "resource_name_dog_carcass",
+    "type": 0,
+    "en": "Dog Carcass",
+    "vi": "Dog Carcass"
+  },
+  {
+    "key": "resource_name_rat_carcass",
+    "type": 0,
+    "en": "Rat Carcass",
+    "vi": "Rat Carcass"
+  },
+  {
+    "key": "resource_name_polecat_carcass",
+    "type": 0,
+    "en": "Polecat Carcass",
+    "vi": "Polecat Carcass"
+  },
+  {
+    "key": "resource_name_bear_carcass",
+    "type": 0,
+    "en": "Bear Carcass",
+    "vi": "Bear Carcass"
+  },
+  {
+    "key": "resource_name_mallard_carcass",
+    "type": 0,
+    "en": "Mallard Carcass",
+    "vi": "Mallard Carcass"
+  },
+  {
+    "key": "resource_name_water_vole_carcass",
+    "type": 0,
+    "en": "Water Vole Carcass",
+    "vi": "Water Vole Carcass"
+  },
+  {
+    "key": "resource_name_trophy",
+    "type": 0,
+    "en": "Trophy",
+    "vi": "Trophy"
+  },
+  {
+    "key": "resource_name_deer_head_trophy",
+    "type": 0,
+    "en": "Deer Head Trophy",
+    "vi": "Deer Head Trophy"
+  },
+  {
+    "key": "resource_name_enemy_skull_trophy",
+    "type": 0,
+    "en": "Enemy Skull Trophy",
+    "vi": "Enemy Skull Trophy"
+  },
+  {
+    "key": "resource_name_settler_skull_trophy",
+    "type": 0,
+    "en": "Settler Skull Trophy",
+    "vi": "Settler Skull Trophy"
+  },
+  {
+    "key": "resource_name_hare_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Hare Trophy",
+    "vi": "Stuffed Hare Trophy"
+  },
+  {
+    "key": "resource_name_wolf_head_trophy",
+    "type": 0,
+    "en": "Wolf Head Trophy",
+    "vi": "Wolf Head Trophy"
+  },
+  {
+    "key": "resource_name_cow_head_trophy",
+    "type": 0,
+    "en": "Cow Head Trophy",
+    "vi": "Cow Head Trophy"
+  },
+  {
+    "key": "resource_name_goat_head_trophy",
+    "type": 0,
+    "en": "Goat Head Trophy",
+    "vi": "Goat Head Trophy"
+  },
+  {
+    "key": "resource_name_sheep_head_trophy",
+    "type": 0,
+    "en": "Sheep Head Trophy",
+    "vi": "Sheep Head Trophy"
+  },
+  {
+    "key": "resource_name_donkey_head_trophy",
+    "type": 0,
+    "en": "Ass Head Trophy",
+    "vi": "Ass Head Trophy"
+  },
+  {
+    "key": "resource_name_chicken_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Chicken Trophy",
+    "vi": "Stuffed Chicken Trophy"
+  },
+  {
+    "key": "resource_name_boar_head_trophy",
+    "type": 0,
+    "en": "Boar Head Trophy",
+    "vi": "Boar Head Trophy"
+  },
+  {
+    "key": "resource_name_pheasant_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Pheasant Trophy",
+    "vi": "Stuffed Pheasant Trophy"
+  },
+  {
+    "key": "resource_name_fox_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Fox Trophy",
+    "vi": "Stuffed Fox Trophy"
+  },
+  {
+    "key": "resource_name_cat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Cat Trophy",
+    "vi": "Stuffed Cat Trophy"
+  },
+  {
+    "key": "resource_name_dog_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Dog Trophy",
+    "vi": "Stuffed Dog Trophy"
+  },
+  {
+    "key": "resource_name_rat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Rat Trophy",
+    "vi": "Stuffed Rat Trophy"
+  },
+  {
+    "key": "resource_name_polecat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Polecat Trophy",
+    "vi": "Stuffed Polecat Trophy"
+  },
+  {
+    "key": "resource_name_bear_head_trophy",
+    "type": 0,
+    "en": "Bear Head Trophy",
+    "vi": "Bear Head Trophy"
+  },
+  {
+    "key": "resource_name_mallard_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Mallard Trophy",
+    "vi": "Stuffed Mallard Trophy"
+  },
+  {
+    "key": "resource_name_water_vole_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Water Vole Trophy",
+    "vi": "Stuffed Water Vole Trophy"
+  },
+  {
+    "key": "resource_name_milk",
+    "type": 0,
+    "en": "Milk",
+    "vi": "Milk"
+  },
+  {
+    "key": "resource_name_egg_chicken",
+    "type": 0,
+    "en": "Egg",
+    "vi": "Egg"
+  },
+  {
+    "key": "resource_name_cheese",
+    "type": 0,
+    "en": "Cheese",
+    "vi": "Cheese"
+  },
+  {
+    "key": "resource_name_egg_meal",
+    "type": 0,
+    "en": "Stuffed Eggs",
+    "vi": "Stuffed Eggs"
+  },
+  {
+    "key": "resource_name_milk_meal",
+    "type": 0,
+    "en": "Junket",
+    "vi": "Junket"
+  },
+  {
+    "key": "resource_name_cheese_meal",
+    "type": 0,
+    "en": "Tart de Bry",
+    "vi": "Tart de Bry"
+  },
+  {
+    "key": "resource_name_fermenting_mash",
+    "type": 0,
+    "en": "Fermenting Mash",
+    "vi": "Fermenting Mash"
+  },
+  {
+    "key": "resource_name_fermented_mash",
+    "type": 0,
+    "en": "Dubious Booze",
+    "vi": "Dubious Booze"
+  },
+  {
+    "key": "resource_name_fermenting_ale",
+    "type": 0,
+    "en": "Fermenting Ale",
+    "vi": "Fermenting Ale"
+  },
+  {
+    "key": "resource_name_fermenting_beer",
+    "type": 0,
+    "en": "Fermenting Beer",
+    "vi": "Fermenting Beer"
+  },
+  {
+    "key": "resource_name_fermenting_fruit_juice",
+    "type": 0,
+    "en": "Fermenting Fruit Juice",
+    "vi": "Fermenting Fruit Juice"
+  },
+  {
+    "key": "resource_name_fermenting_mead",
+    "type": 0,
+    "en": "Fermenting Mead",
+    "vi": "Fermenting Mead"
+  },
+  {
+    "key": "resource_name_curdling_milk",
+    "type": 0,
+    "en": "Curdling Milk",
+    "vi": "Curdling Milk"
+  },
+  {
+    "key": "resource_name_aged_wine",
+    "type": 0,
+    "en": "Aged Fine Wine",
+    "vi": "Aged Fine Wine"
+  },
+  {
+    "key": "resource_name_animal_feed",
+    "type": 0,
+    "en": "Animal Feed",
+    "vi": "Animal Feed"
+  },
+  {
+    "key": "resource_name_dye",
+    "type": 0,
+    "en": "Pigment",
+    "vi": "Pigment"
+  },
+  {
+    "key": "resource_name_gold_coin",
+    "type": 0,
+    "en": "Gold Coin",
+    "vi": "Gold Coin"
+  },
+  {
+    "key": "resource_name_fish_dish",
+    "type": 0,
+    "en": "Fish Dish",
+    "vi": "Fish Dish"
+  },
+  {
+    "key": "resource_name_eel_meal",
+    "type": 0,
+    "en": "Eel Meal",
+    "vi": "Eel Meal"
+  },
+  {
+    "key": "resource_name_pike_fish",
+    "type": 0,
+    "en": "Pike ",
+    "vi": "Pike "
+  },
+  {
+    "key": "resource_name_trout_fish",
+    "type": 0,
+    "en": "Trout",
+    "vi": "Trout"
+  },
+  {
+    "key": "resource_name_eel",
+    "type": 0,
+    "en": "Eel",
+    "vi": "Eel"
+  },
+  {
+    "key": "resource_name_smoked_fish",
+    "type": 0,
+    "en": "Smoked Fish",
+    "vi": "Smoked Fish"
+  },
+  {
+    "key": "resource_name_salted_eel",
+    "type": 0,
+    "en": "Salted Eels",
+    "vi": "Salted Eels"
+  },
+  {
+    "key": "resource_name_water_bucket",
+    "type": 0,
+    "en": "Water",
+    "vi": "Water"
+  },
+  {
+    "key": "resource_name_flamable_oil",
+    "type": 0,
+    "en": "Flammable Oil",
+    "vi": "Flammable Oil"
+  },
+  {
+    "key": "resource_name_flamable_oil_greek_fire",
+    "type": 0,
+    "en": "Greek Fire",
+    "vi": "Greek Fire"
+  },
+  {
+    "key": "resource_name_dummy",
+    "type": 0,
+    "en": "Practice Dummy",
+    "vi": "Practice Dummy"
+  },
+  {
+    "key": "resource_name_practice_target",
+    "type": 0,
+    "en": "Practice Target",
+    "vi": "Practice Target"
+  },
+  {
+    "key": "resource_name_basic_trebuchet_ammo",
+    "type": 0,
+    "en": "Trebuchet Projectile",
+    "vi": "Trebuchet Projectile"
+  },
+  {
+    "key": "resource_name_basic_ballista_ammo",
+    "type": 0,
+    "en": "Ballista Bolt",
+    "vi": "Ballista Bolt"
+  },
+  {
+    "key": "resource_name_basic_onager_ammo",
+    "type": 0,
+    "en": "Onager Projectile",
+    "vi": "Onager Projectile"
+  },
+  {
+    "key": "resource_name_flamable_trebuchet_ammo",
+    "type": 0,
+    "en": "Incendiary Trebuchet Projectile",
+    "vi": "Incendiary Trebuchet Projectile"
+  },
+  {
+    "key": "resource_name_flamable_onager_ammo",
+    "type": 0,
+    "en": "Incendiary Onager Projectile",
+    "vi": "Incendiary Onager Projectile"
+  },
+  {
+    "key": "resource_name_flamable_gf_trebuchet_ammo",
+    "type": 0,
+    "en": "Incendiary Trebuchet Projectile (greek fire)",
+    "vi": "Incendiary Trebuchet Projectile (greek fire)"
+  },
+  {
+    "key": "resource_name_flamable_gf_onager_ammo",
+    "type": 0,
+    "en": "Incendiary Onager Projectile (greek fire)",
+    "vi": "Incendiary Onager Projectile (greek fire)"
+  },
+  {
+    "key": "resource_info_basic_trebuchet_ammo",
+    "type": 0,
+    "en": "A hefty stone ball. Suitable for pulverising both masonry and mortal foes.",
+    "vi": "A hefty stone ball. Suitable for pulverising both masonry and mortal foes."
+  },
+  {
+    "key": "resource_info_basic_ballista_ammo",
+    "type": 0,
+    "en": "A heavy spear. Unleash with great force from the tensioned jaws of a ballista. ",
+    "vi": "A heavy spear. Unleash with great force from the tensioned jaws of a ballista. "
+  },
+  {
+    "key": "resource_info_basic_onager_ammo",
+    "type": 0,
+    "en": "A collection of small stones. Rain vicious hail on your enemy.",
+    "vi": "A collection of small stones. Rain vicious hail on your enemy."
+  },
+  {
+    "key": "resource_info_flamable_trebuchet_ammo",
+    "type": 0,
+    "en": "A sealed clay vessel, containing flammable oil. Burn it all down.",
+    "vi": "A sealed clay vessel, containing flammable oil. Burn it all down."
+  },
+  {
+    "key": "resource_info_flamable_onager_ammo",
+    "type": 0,
+    "en": "Oil-drenched incendiary missiles. Spark fires, and chaos.",
+    "vi": "Oil-drenched incendiary missiles. Spark fires, and chaos."
+  },
+  {
+    "key": "resource_info_flamable_gf_onager_ammo",
+    "type": 0,
+    "en": "Oil-drenched incendiary missiles. Spark fires, and chaos.",
+    "vi": "Oil-drenched incendiary missiles. Spark fires, and chaos."
+  },
+  {
+    "key": "resource_name_wood_mechanical_parts",
+    "type": 0,
+    "en": "Wooden Mechanical Components",
+    "vi": "Wooden Mechanical Components"
+  },
+  {
+    "key": "resource_info_wood_mechanical_parts",
+    "type": 0,
+    "en": "Gears, wheels and ratchets finely-crafted in wood.",
+    "vi": "Gears, wheels and ratchets finely-crafted in wood."
+  },
+  {
+    "key": "resource_name_clay_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Clay",
+    "vi": "Decorative tile Clay"
+  },
+  {
+    "key": "resource_name_stone_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Stone",
+    "vi": "Decorative tile Stone"
+  },
+  {
+    "key": "resource_name_marble_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Marble",
+    "vi": "Decorative tile Marble"
+  },
+  {
+    "key": "resource_info_clay_tile_decorative",
+    "type": 0,
+    "en": "Warm red tiles patterned with fleur-de-lis, mythical beasts and heraldic crests.",
+    "vi": "Warm red tiles patterned with fleur-de-lis, mythical beasts and heraldic crests."
+  },
+  {
+    "key": "resource_info_stone_tile_decorative",
+    "type": 0,
+    "en": "Finely finished tiles in all shades of stone. Glistening and tough.",
+    "vi": "Finely finished tiles in all shades of stone. Glistening and tough."
+  },
+  {
+    "key": "resource_info_marble_tile_decorative",
+    "type": 0,
+    "en": "Salvaged from a Roman ruin, this polished tile has creatures from the Great Flood pressed within.",
+    "vi": "Salvaged from a Roman ruin, this polished tile has creatures from the Great Flood pressed within."
+  },
+  {
+    "key": "resource_name_restitutionist_relic",
+    "type": 0,
+    "en": "Holy Relic",
+    "vi": "Holy Relic"
+  },
+  {
+    "key": "resource_name_mighty_oak_sapling",
+    "type": 0,
+    "en": "Mighty Oak Sapling",
+    "vi": "Mighty Oak Sapling"
+  },
+  {
+    "key": "resource_name_grand_book",
+    "type": 0,
+    "en": "Influential Treatise",
+    "vi": "Influential Treatise"
+  },
+  {
+    "key": "resource_info_restitutionist_relic",
+    "type": 0,
+    "en": "A crumbling finger bone is all that remains of the Venerable Saint Mildred, revered for her kindness.. ",
+    "vi": "A crumbling finger bone is all that remains of the Venerable Saint Mildred, revered for her kindness.. "
+  },
+  {
+    "key": "resource_info_mighty_oak_sapling",
+    "type": 0,
+    "en": "A new sapling revealed in a sacred grove. Its burnished bark gleams with promise.",
+    "vi": "A new sapling revealed in a sacred grove. Its burnished bark gleams with promise."
+  },
+  {
+    "key": "resource_info_grand_book",
+    "type": 0,
+    "en": "A great compendium of the distilled knowledge of <village_name>, gilded, bound in vellum and illuminated in the rarest pigments.",
+    "vi": "A great compendium of the distilled knowledge of <village_name>, gilded, bound in vellum and illuminated in the rarest pigments."
+  },
+  {
+    "key": "resource_name_blackberry",
+    "type": 0,
+    "en": "Blackberry",
+    "vi": "Blackberry"
+  },
+  {
+    "key": "resource_name_sloe",
+    "type": 0,
+    "en": "Sloe",
+    "vi": "Sloe"
+  },
+  {
+    "key": "resource_name_gooseberry",
+    "type": 0,
+    "en": "Gooseberry",
+    "vi": "Gooseberry"
+  },
+  {
+    "key": "resource_info_blackberry",
+    "type": 0,
+    "en": "A hedgerow jewel, delicious eaten raw or cooked into pies and jam.",
+    "vi": "A hedgerow jewel, delicious eaten raw or cooked into pies and jam."
+  },
+  {
+    "key": "resource_info_sloe",
+    "type": 0,
+    "en": "Best picked after the first frost for wines and jellies. An ancient and astringent fruit, beloved of witches.",
+    "vi": "Best picked after the first frost for wines and jellies. An ancient and astringent fruit, beloved of witches."
+  },
+  {
+    "key": "resource_info_gooseberry",
+    "type": 0,
+    "en": "Gooseberry tart, fool or compote are the recipes of choice for this juicy currant.",
+    "vi": "Gooseberry tart, fool or compote are the recipes of choice for this juicy currant."
+  },
+  {
+    "key": "resource_name_quince",
+    "type": 0,
+    "en": "Quince",
+    "vi": "Quince"
+  },
+  {
+    "key": "resource_name_damson",
+    "type": 0,
+    "en": "Damson",
+    "vi": "Damson"
+  },
+  {
+    "key": "resource_name_mulberrie",
+    "type": 0,
+    "en": "Mulberry",
+    "vi": "Mulberry"
+  },
+  {
+    "key": "resource_name_walnut",
+    "type": 0,
+    "en": "Walnut",
+    "vi": "Walnut"
+  },
+  {
+    "key": "resource_info_quince",
+    "type": 0,
+    "en": "A legendary, tough fruit that welcomes spicing with nutmeg or cloves. Poach, preserve or serve with wild game. ",
+    "vi": "A legendary, tough fruit that welcomes spicing with nutmeg or cloves. Poach, preserve or serve with wild game. "
+  },
+  {
+    "key": "resource_info_damson",
+    "type": 0,
+    "en": "Dried, stewed or preserved, these wild plums offer sustenance through the winter.\n",
+    "vi": "Dried, stewed or preserved, these wild plums offer sustenance through the winter.\n"
+  },
+  {
+    "key": "resource_info_mulberrie",
+    "type": 0,
+    "en": "The mulberry fruit is a delight in all manner of puddings, syrups and pies.",
+    "vi": "The mulberry fruit is a delight in all manner of puddings, syrups and pies."
+  },
+  {
+    "key": "resource_info_walnut",
+    "type": 0,
+    "en": "Raw, pickled or pressed, these brain-shaped nuts are a must for the winter store cupboard.",
+    "vi": "Raw, pickled or pressed, these brain-shaped nuts are a must for the winter store cupboard."
+  },
+  {
+    "key": "resource_name_quince_sapling",
+    "type": 0,
+    "en": "Quince Sapling",
+    "vi": "Quince Sapling"
+  },
+  {
+    "key": "resource_name_walnut_sapling",
+    "type": 0,
+    "en": "Walnut Sapling",
+    "vi": "Walnut Sapling"
+  },
+  {
+    "key": "resource_name_damson_sapling",
+    "type": 0,
+    "en": "Damson Sapling",
+    "vi": "Damson Sapling"
+  },
+  {
+    "key": "resource_name_mulberrie_sapling",
+    "type": 0,
+    "en": "Mulberry Sapling",
+    "vi": "Mulberry Sapling"
+  },
+  {
+    "key": "resource_name_cannonball",
+    "type": 0,
+    "en": "Shot",
+    "vi": "Shot"
+  },
+  {
+    "key": "resource_info_cannonball",
+    "type": 0,
+    "en": "Cast from iron into a mould of sand. A large, round rock is equally destructive.",
+    "vi": "Cast from iron into a mould of sand. A large, round rock is equally destructive."
+  },
+  {
+    "key": "resource_name_explosive_trebuchet_ammo",
+    "type": 0,
+    "en": "Explosive Trebuchet Projectile",
+    "vi": "Explosive Trebuchet Projectile"
+  },
+  {
+    "key": "resource_info_explosive_trebuchet_ammo",
+    "type": 0,
+    "en": "Gunpowder is carefully poured into this spherical clay pot. Light and launch for explosive results.",
+    "vi": "Gunpowder is carefully poured into this spherical clay pot. Light and launch for explosive results."
+  },
+  {
+    "key": "resource_name_stewed_fruit",
+    "type": 0,
+    "en": "Compote",
+    "vi": "Compote"
+  },
+  {
+    "key": "resource_name_vegetable_stew",
+    "type": 0,
+    "en": "Stew",
+    "vi": "Stew"
+  },
+  {
+    "key": "resource_name_cooked_grain",
+    "type": 0,
+    "en": "Gruel",
+    "vi": "Gruel"
+  },
+  {
+    "key": "resource_name_roasted_fish",
+    "type": 0,
+    "en": "Grilled Fish",
+    "vi": "Grilled Fish"
+  },
+  {
+    "key": "resource_name_egg_boiled",
+    "type": 0,
+    "en": "Boiled Egg",
+    "vi": "Boiled Egg"
+  },
+  {
+    "key": "resource_info_egg_boiled",
+    "type": 0,
+    "en": "Simple but tasty, with a firm white and creamy, golden yolk.",
+    "vi": "Simple but tasty, with a firm white and creamy, golden yolk."
+  },
+  {
+    "key": "resource_name_sauteed_fruits",
+    "type": 0,
+    "en": "Lavish Fruit Course",
+    "vi": "Lavish Fruit Course"
+  },
+  {
+    "key": "resource_name_lavish_vegetable_stew",
+    "type": 0,
+    "en": "Lavish Vegetable Dish",
+    "vi": "Lavish Vegetable Dish"
+  },
+  {
+    "key": "resource_name_bread",
+    "type": 0,
+    "en": "Bread",
+    "vi": "Bread"
+  },
+  {
+    "key": "resource_name_lavish_roasted_meat",
+    "type": 0,
+    "en": "Lavish Meat Roast",
+    "vi": "Lavish Meat Roast"
+  },
+  {
+    "key": "resource_name_lavish_roasted_meat_human",
+    "type": 0,
+    "en": "Lavish Human Roast",
+    "vi": "Lavish Human Roast"
+  },
+  {
+    "key": "resource_name_lavish_roasted_fish",
+    "type": 0,
+    "en": "Lavish Seafood Treat",
+    "vi": "Lavish Seafood Treat"
+  },
+  {
+    "key": "resource_name_fruit_pie",
+    "type": 0,
+    "en": "Fruit Pie",
+    "vi": "Fruit Pie"
+  },
+  {
+    "key": "resource_name_meat_pie",
+    "type": 0,
+    "en": "Meat Pie",
+    "vi": "Meat Pie"
+  },
+  {
+    "key": "resource_name_buiskets",
+    "type": 0,
+    "en": "Scones",
+    "vi": "Scones"
+  },
+  {
+    "key": "resource_name_cheese_pie",
+    "type": 0,
+    "en": "Tart de Bry",
+    "vi": "Tart de Bry"
+  },
+  {
+    "key": "resource_name_fish_pie",
+    "type": 0,
+    "en": "Fish Pie",
+    "vi": "Fish Pie"
+  },
+  {
+    "key": "resource_name_sauteed_fruits_vegetables",
+    "type": 0,
+    "en": "Pottage",
+    "vi": "Pottage"
+  },
+  {
+    "key": "resource_name_honey_glazed_vegetables",
+    "type": 0,
+    "en": "Honey-glazed Vegetables",
+    "vi": "Honey-glazed Vegetables"
+  },
+  {
+    "key": "resource_name_fruit_puding",
+    "type": 0,
+    "en": "Fruit Pudding",
+    "vi": "Fruit Pudding"
+  },
+  {
+    "key": "resource_name_fruit_cheese",
+    "type": 0,
+    "en": "Cheese and Fruit Platter",
+    "vi": "Cheese and Fruit Platter"
+  },
+  {
+    "key": "resource_name_honey_glazed_fruit",
+    "type": 0,
+    "en": "Sweetmeat",
+    "vi": "Sweetmeat"
+  },
+  {
+    "key": "resource_info_stewed_fruit",
+    "type": 0,
+    "en": "All and any fruits can be stewed a little to make this simple meal, which doubles as a sauce.",
+    "vi": "All and any fruits can be stewed a little to make this simple meal, which doubles as a sauce."
+  },
+  {
+    "key": "resource_info_vegetable_stew",
+    "type": 0,
+    "en": "Peasant food - a mix of leaves and grains, simmered. Serve with bread.",
+    "vi": "Peasant food - a mix of leaves and grains, simmered. Serve with bread."
+  },
+  {
+    "key": "resource_info_cooked_grain",
+    "type": 0,
+    "en": "An unappetising, yet necessary staple of peasant life. Weak gruel signifies hunger and hardship.",
+    "vi": "An unappetising, yet necessary staple of peasant life. Weak gruel signifies hunger and hardship."
+  },
+  {
+    "key": "resource_info_roasted_fish",
+    "type": 0,
+    "en": "Simple and delicious. The catch of the day, gutted, baked and served. ",
+    "vi": "Simple and delicious. The catch of the day, gutted, baked and served. "
+  },
+  {
+    "key": "resource_info_sauteed_fruits",
+    "type": 0,
+    "en": "Prepared with ripe, fresh fruit to tantalise the tastebuds. Mouthwatering.",
+    "vi": "Prepared with ripe, fresh fruit to tantalise the tastebuds. Mouthwatering."
+  },
+  {
+    "key": "resource_info_lavish_vegetable_stew",
+    "type": 0,
+    "en": "Never has a humble vegetable been so exalted. A hearty repast, seasoned to perfection.",
+    "vi": "Never has a humble vegetable been so exalted. A hearty repast, seasoned to perfection."
+  },
+  {
+    "key": "resource_info_bread",
+    "type": 0,
+    "en": "From fine white pandemain to a stale old trencher, bread is a staple food we pray for daily.",
+    "vi": "From fine white pandemain to a stale old trencher, bread is a staple food we pray for daily."
+  },
+  {
+    "key": "resource_info_lavish_roasted_meat",
+    "type": 0,
+    "en": "Juicy and tender, with crisp and delicious skin. Savoury and satisfying.",
+    "vi": "Juicy and tender, with crisp and delicious skin. Savoury and satisfying."
+  },
+  {
+    "key": "resource_info_lavish_roasted_meat_human",
+    "type": 0,
+    "en": "Once tasted, never forgotten. Pairs well with broad beans and an Italian red wine, if you can get it.",
+    "vi": "Once tasted, never forgotten. Pairs well with broad beans and an Italian red wine, if you can get it."
+  },
+  {
+    "key": "resource_info_lavish_roasted_fish",
+    "type": 0,
+    "en": "Salted, spiced and soaked in verjuice, this fresh seafood dish is a delicacy.",
+    "vi": "Salted, spiced and soaked in verjuice, this fresh seafood dish is a delicacy."
+  },
+  {
+    "key": "resource_info_fruit_pie",
+    "type": 0,
+    "en": "Brushed with melted butter and adorned with spices, this pie has elevated humble fruit into a divine dessert.",
+    "vi": "Brushed with melted butter and adorned with spices, this pie has elevated humble fruit into a divine dessert."
+  },
+  {
+    "key": "resource_info_meat_pie",
+    "type": 0,
+    "en": "A tough coffyn of pastry stuffed with tasty meat. Portable and palatable.",
+    "vi": "A tough coffyn of pastry stuffed with tasty meat. Portable and palatable."
+  },
+  {
+    "key": "resource_info_buiskets",
+    "type": 0,
+    "en": "A fluffy baked treat, served with clotted cream then jam. Or jam then cream, if you venture beyond the River Tamar.",
+    "vi": "A fluffy baked treat, served with clotted cream then jam. Or jam then cream, if you venture beyond the River Tamar."
+  },
+  {
+    "key": "resource_info_cheese_pie",
+    "type": 0,
+    "en": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne.",
+    "vi": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne."
+  },
+  {
+    "key": "resource_info_fish_pie",
+    "type": 0,
+    "en": "A solid case conceals the tenderest, flaky fish in a rich sauce. Scrumptious.",
+    "vi": "A solid case conceals the tenderest, flaky fish in a rich sauce. Scrumptious."
+  },
+  {
+    "key": "resource_info_sauteed_fruits_vegetables",
+    "type": 0,
+    "en": "What's in a pottage? A bit of everything. If it grows, then into the pot it goes.",
+    "vi": "What's in a pottage? A bit of everything. If it grows, then into the pot it goes."
+  },
+  {
+    "key": "resource_info_honey_glazed_vegetables",
+    "type": 0,
+    "en": "Boiled until soft then glazed with honey and saffron, which imparts an earthy sweetness on roasting.",
+    "vi": "Boiled until soft then glazed with honey and saffron, which imparts an earthy sweetness on roasting."
+  },
+  {
+    "key": "resource_info_fruit_puding",
+    "type": 0,
+    "en": "Baked, whisked and spiced, fruit becomes the dreamiest of confections - a pudding.",
+    "vi": "Baked, whisked and spiced, fruit becomes the dreamiest of confections - a pudding."
+  },
+  {
+    "key": "resource_info_fruit_cheese",
+    "type": 0,
+    "en": "Tempting fruits and delectable dairy products combine to satisfy the senses, and the stomach.",
+    "vi": "Tempting fruits and delectable dairy products combine to satisfy the senses, and the stomach."
+  },
+  {
+    "key": "resource_info_honey_glazed_fruit",
+    "type": 0,
+    "en": "Glistening like an edible jewel - a sweetmeat of honeyed fruit is a treat beyond compare.",
+    "vi": "Glistening like an edible jewel - a sweetmeat of honeyed fruit is a treat beyond compare."
+  },
+  {
+    "key": "resource_name_burn_animal",
+    "type": 0,
+    "en": "Burn Animal",
+    "vi": "Burn Animal"
+  },
+  {
+    "key": "resources info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "resource_info_dirt",
+    "type": 0,
+    "en": "Good soil is like black gold.",
+    "vi": "Good soil is like black gold."
+  },
+  {
+    "key": "resource_info_advanced_research_book",
+    "type": 0,
+    "en": "A thoughtful and erudite volume. The research on these pages is invaluable.",
+    "vi": "A thoughtful and erudite volume. The research on these pages is invaluable."
+  },
+  {
+    "key": "resource_info_alcohol",
+    "type": 0,
+    "en": "Brewed carefully to a secret recipe derived by monks, or possibly arabs, this is a powerful Aqua Vitae.",
+    "vi": "Brewed carefully to a secret recipe derived by monks, or possibly arabs, this is a powerful Aqua Vitae."
+  },
+  {
+    "key": "resource_info_rough_wine",
+    "type": 0,
+    "en": "Rough sour wine. If there's nothing else to drink, it will suffice.",
+    "vi": "Rough sour wine. If there's nothing else to drink, it will suffice."
+  },
+  {
+    "key": "resource_info_beer",
+    "type": 0,
+    "en": "Brewed to perfection. A nutritious and thirst-quenching beverage.",
+    "vi": "Brewed to perfection. A nutritious and thirst-quenching beverage."
+  },
+  {
+    "key": "resource_info_ale",
+    "type": 0,
+    "en": "The strength of your drink is marked in Xs on the barrel by the monk or alewife who brewed it.",
+    "vi": "The strength of your drink is marked in Xs on the barrel by the monk or alewife who brewed it."
+  },
+  {
+    "key": "resource_info_ash",
+    "type": 0,
+    "en": "After the fire, humble ashes have many uses, from enriching garden soils to pottery glazes and soap.",
+    "vi": "After the fire, humble ashes have many uses, from enriching garden soils to pottery glazes and soap."
+  },
+  {
+    "key": "resource_info_barley",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing barley water. Use as feed to fatten poultry.",
+    "vi": "A versatile grain for bread, gruel or refreshing barley water. Use as feed to fatten poultry."
+  },
+  {
+    "key": "resource_info_basic_research_book",
+    "type": 0,
+    "en": "Simple tales and facts laid down on skin.",
+    "vi": "Simple tales and facts laid down on skin."
+  },
+  {
+    "key": "resource_info_beet",
+    "type": 0,
+    "en": "Hardy and easy to grow in your garden, be that hovel or manor.",
+    "vi": "Hardy and easy to grow in your garden, be that hovel or manor."
+  },
+  {
+    "key": "resource_info_bone_meal",
+    "type": 0,
+    "en": "Your crops will grow strong if you fertilize the soil with ground bones.",
+    "vi": "Your crops will grow strong if you fertilize the soil with ground bones."
+  },
+  {
+    "key": "resource_info_bones",
+    "type": 0,
+    "en": "If you lack the time to carve these mortal remains, at least grind them up for fertilizer.",
+    "vi": "If you lack the time to carve these mortal remains, at least grind them up for fertilizer."
+  },
+  {
+    "key": "resource_info_cabbage",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. Boil and serve with butter, if you have it.",
+    "vi": "The humblest of wortes and a staple food. Boil and serve with butter, if you have it."
+  },
+  {
+    "key": "resource_info_carrot",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later."
+  },
+  {
+    "key": "resource_info_clay",
+    "type": 0,
+    "en": "Basic construction material dug from a clay pit. One of the oldest building materials.",
+    "vi": "Basic construction material dug from a clay pit. One of the oldest building materials."
+  },
+  {
+    "key": "resource_info_clay_brick",
+    "type": 0,
+    "en": "A humble brick. Construct walls to keep your kin gathered in and your enemies at bay.",
+    "vi": "A humble brick. Construct walls to keep your kin gathered in and your enemies at bay."
+  },
+  {
+    "key": "resource_info_compost",
+    "type": 0,
+    "en": "Let Mother Nature do her work. Rot down food scraps and detrius to create rich compost to help grow plants.",
+    "vi": "Let Mother Nature do her work. Rot down food scraps and detrius to create rich compost to help grow plants."
+  },
+  {
+    "key": "resource_info_deer_carcass",
+    "type": 0,
+    "en": "To be harvested, hung and butchered. Yields delicious venison, and useful hide.",
+    "vi": "To be harvested, hung and butchered. Yields delicious venison, and useful hide."
+  },
+  {
+    "key": "resource_info_dung",
+    "type": 0,
+    "en": "An unavoidable resource where animals are kept. Best deployed as fertiliser, or fuel.",
+    "vi": "An unavoidable resource where animals are kept. Best deployed as fertiliser, or fuel."
+  },
+  {
+    "key": "resource_info_dungbrick",
+    "type": 0,
+    "en": "When wood is scarce, dried animal dung will suffice as fuel for the fire.",
+    "vi": "When wood is scarce, dried animal dung will suffice as fuel for the fire."
+  },
+  {
+    "key": "resource_info_gold",
+    "type": 0,
+    "en": "Malleable, incorruptable metal for crosses, crowns and coin. The ultimate goal of alchemists.",
+    "vi": "Malleable, incorruptable metal for crosses, crowns and coin. The ultimate goal of alchemists."
+  },
+  {
+    "key": "resource_info_gold_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a golden aura. Ready for smithing.",
+    "vi": "A block of pure metal with a golden aura. Ready for smithing."
+  },
+  {
+    "key": "resource_info_gunpowder",
+    "type": 0,
+    "en": "Wisdom from the Orient, this magical powder is made of sulfur, saltpetre and charcoal. Deployed in thundering cannons at Crécy.",
+    "vi": "Wisdom from the Orient, this magical powder is made of sulfur, saltpetre and charcoal. Deployed in thundering cannons at Crécy."
+  },
+  {
+    "key": "resource_info_hare_carcass",
+    "type": 0,
+    "en": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur.",
+    "vi": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur."
+  },
+  {
+    "key": "resource_info_hay",
+    "type": 0,
+    "en": "Cutting grass and drying it for the winter is the best way to feed your animals.",
+    "vi": "Cutting grass and drying it for the winter is the best way to feed your animals."
+  },
+  {
+    "key": "resource_info_healing_kit",
+    "type": 0,
+    "en": "A comprehensive medical kit complete with everything you need to treat most medical issues. (Leeches not included.)",
+    "vi": "A comprehensive medical kit complete with everything you need to treat most medical issues. (Leeches not included.)"
+  },
+  {
+    "key": "resource_info_healing_kit_advanced",
+    "type": 0,
+    "en": "Drawing on herbal wisdom and Oxford learning, this contains preparations for all imbalances of the humours, and even battle wounds.",
+    "vi": "Drawing on herbal wisdom and Oxford learning, this contains preparations for all imbalances of the humours, and even battle wounds."
+  },
+  {
+    "key": "resource_info_healing_kit_simple",
+    "type": 0,
+    "en": "A simple pack of herbs and bandages. For minor scrapes and bruises, and common ailments.",
+    "vi": "A simple pack of herbs and bandages. For minor scrapes and bruises, and common ailments."
+  },
+  {
+    "key": "resource_info_herbs",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing."
+  },
+  {
+    "key": "resource_info_honey",
+    "type": 0,
+    "en": "To sweeten any dish or make mead. Used in medicinal and herbal preparations, internal and external.",
+    "vi": "To sweeten any dish or make mead. Used in medicinal and herbal preparations, internal and external."
+  },
+  {
+    "key": "resource_info_human_carcass",
+    "type": 0,
+    "en": "What remains when we have shuffled off this mortal coil.",
+    "vi": "What remains when we have shuffled off this mortal coil."
+  },
+  {
+    "key": "resource_info_iron",
+    "type": 0,
+    "en": "Mined iron ore. Must be processed before smithing into tools, weapons and armour.",
+    "vi": "Mined iron ore. Must be processed before smithing into tools, weapons and armour."
+  },
+  {
+    "key": "resource_info_iron_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a subtle sheen. Ready for smithing.",
+    "vi": "A block of pure metal with a subtle sheen. Ready for smithing."
+  },
+  {
+    "key": "resource_info_lavish_meal",
+    "type": 0,
+    "en": "Pies and roasts and jellies and sweetmeats... dine like a baron and savour every morsel.",
+    "vi": "Pies and roasts and jellies and sweetmeats... dine like a baron and savour every morsel."
+  },
+  {
+    "key": "resource_info_leather",
+    "type": 0,
+    "en": "Hides become more useful after the tanner turns them into buttery leather.",
+    "vi": "Hides become more useful after the tanner turns them into buttery leather."
+  },
+  {
+    "key": "resource_info_limestone",
+    "type": 0,
+    "en": "An essential quarried stone building material, made from the bodies of ancient sea creatures. Used to make quicklime.",
+    "vi": "An essential quarried stone building material, made from the bodies of ancient sea creatures. Used to make quicklime."
+  },
+  {
+    "key": "resource_info_limestone_block",
+    "type": 0,
+    "en": "A dressed stone brick made from quarried limestone.",
+    "vi": "A dressed stone brick made from quarried limestone."
+  },
+  {
+    "key": "resource_info_linen_cloth",
+    "type": 0,
+    "en": "If you can grow flax, spin it, and weave it, and bleach it with lye for a white finish. Beautiful, all-purpose cloth.",
+    "vi": "If you can grow flax, spin it, and weave it, and bleach it with lye for a white finish. Beautiful, all-purpose cloth."
+  },
+  {
+    "key": "resource_info_meat",
+    "type": 0,
+    "en": "Dry salt or cure it for later. Better yet, lard well and add to the pot, or roast it. Delicious.",
+    "vi": "Dry salt or cure it for later. Better yet, lard well and add to the pot, or roast it. Delicious."
+  },
+  {
+    "key": "resource_info_normal_research_book",
+    "type": 0,
+    "en": "Some thought has gone into this tome. A useful guide.",
+    "vi": "Some thought has gone into this tome. A useful guide."
+  },
+  {
+    "key": "resource_info_packaged_meal",
+    "type": 0,
+    "en": "Hunting or working in the fields can really build up a hunger. A cold, wrapped meal will keep you going.",
+    "vi": "Hunting or working in the fields can really build up a hunger. A cold, wrapped meal will keep you going."
+  },
+  {
+    "key": "resource_info_pickled_vegetable",
+    "type": 0,
+    "en": "Vegetables stored in salt water or vinegar will keep for lean times.",
+    "vi": "Vegetables stored in salt water or vinegar will keep for lean times."
+  },
+  {
+    "key": "resource_info_quicklime",
+    "type": 0,
+    "en": "An alkaline powder made by burning limestone in a lime kiln.",
+    "vi": "An alkaline powder made by burning limestone in a lime kiln."
+  },
+  {
+    "key": "resource_info_redcurrant",
+    "type": 0,
+    "en": "Bittersweet and delicious with venison. The French remove the seeds with a goose quill, and boil them to make jelly.",
+    "vi": "Bittersweet and delicious with venison. The French remove the seeds with a goose quill, and boil them to make jelly."
+  },
+  {
+    "key": "resource_info_roasted_meat",
+    "type": 0,
+    "en": "Nothing could be more delicious than fresh, succulent roast meat. A noble meal.",
+    "vi": "Nothing could be more delicious than fresh, succulent roast meat. A noble meal."
+  },
+  {
+    "key": "resource_info_salt",
+    "type": 0,
+    "en": "Precious salt for preserving food is a cornerstone of civilization. Brine springs emerge in English towns ending -wich or -wych.",
+    "vi": "Precious salt for preserving food is a cornerstone of civilization. Brine springs emerge in English towns ending -wich or -wych."
+  },
+  {
+    "key": "resource_info_saltpeter",
+    "type": 0,
+    "en": "A mineral for preserving meat. It is said experiments with this salt at the Tower of London have caused explosions.",
+    "vi": "A mineral for preserving meat. It is said experiments with this salt at the Tower of London have caused explosions."
+  },
+  {
+    "key": "resource_info_silver",
+    "type": 0,
+    "en": "A fine, soft metal to be worked into coins or jewellery. May deflect the attentions of malicious faeries.",
+    "vi": "A fine, soft metal to be worked into coins or jewellery. May deflect the attentions of malicious faeries."
+  },
+  {
+    "key": "resource_info_smoked_meat",
+    "type": 0,
+    "en": "Lean meat, sliced, brined and dried slowly over a wood fire. Can be stored for several months.",
+    "vi": "Lean meat, sliced, brined and dried slowly over a wood fire. Can be stored for several months."
+  },
+  {
+    "key": "resource_info_steel_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a subtle sheen. Ready for smithing.",
+    "vi": "A block of pure metal with a subtle sheen. Ready for smithing."
+  },
+  {
+    "key": "resource_info_stew",
+    "type": 0,
+    "en": "Peasant food - a mix of leaves and grains, simmered. Serve with bread.",
+    "vi": "Peasant food - a mix of leaves and grains, simmered. Serve with bread."
+  },
+  {
+    "key": "resource_info_sticks",
+    "type": 0,
+    "en": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely.",
+    "vi": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely."
+  },
+  {
+    "key": "resource_info_sulfur",
+    "type": 0,
+    "en": "Also known as brimstone, this is a powerful acid if mixed with water, and is used in gunpowder. Smells like the devil.",
+    "vi": "Also known as brimstone, this is a powerful acid if mixed with water, and is used in gunpowder. Smells like the devil."
+  },
+  {
+    "key": "resource_info_meat_rot",
+    "type": 0,
+    "en": "There is no mistaking the foetid stench of meat that has gone bad.",
+    "vi": "There is no mistaking the foetid stench of meat that has gone bad."
+  },
+  {
+    "key": "resource_info_vegetable_rot",
+    "type": 0,
+    "en": "Waste not, want not, they say. Spoiled vegetables are only good for compost.",
+    "vi": "Waste not, want not, they say. Spoiled vegetables are only good for compost."
+  },
+  {
+    "key": "resource_info_vinegar",
+    "type": 0,
+    "en": "Wine or beer turned sour. No need to waste it, you can use it in cooking and pickling.",
+    "vi": "Wine or beer turned sour. No need to waste it, you can use it in cooking and pickling."
+  },
+  {
+    "key": "resource_info_wolf_carcass",
+    "type": 0,
+    "en": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware.",
+    "vi": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware."
+  },
+  {
+    "key": "resource_info_wood",
+    "type": 0,
+    "en": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely.",
+    "vi": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely."
+  },
+  {
+    "key": "resource_info_wool_cloth",
+    "type": 0,
+    "en": "The English and Flemish grow the best wool. Woven finely and dyed, it is sought after for warm clothing and blankets.",
+    "vi": "The English and Flemish grow the best wool. Woven finely and dyed, it is sought after for warm clothing and blankets."
+  },
+  {
+    "key": "resource_info_mechanical_parts",
+    "type": 0,
+    "en": "A collection of cogs and sprockets, axles and chains. The guts of a machine.",
+    "vi": "A collection of cogs and sprockets, axles and chains. The guts of a machine."
+  },
+  {
+    "key": "resource_info_coal",
+    "type": 0,
+    "en": "Burns at a much higher temperature than lumber. Most useful when creating steel.",
+    "vi": "Burns at a much higher temperature than lumber. Most useful when creating steel."
+  },
+  {
+    "key": "resource_info_dubious_meal",
+    "type": 0,
+    "en": "Liberally spiced to disguise unsavoury flavours. Best not to ask cook what's in this.",
+    "vi": "Liberally spiced to disguise unsavoury flavours. Best not to ask cook what's in this."
+  },
+  {
+    "key": "resource_info_enemy_carcass",
+    "type": 0,
+    "en": "What remains when we have shuffled off this mortal coil.",
+    "vi": "What remains when we have shuffled off this mortal coil."
+  },
+  {
+    "key": "resource_info_apple",
+    "type": 0,
+    "en": "Tempting, autumn fruit. Tart and delicious in desserts such as muse and pie.",
+    "vi": "Tempting, autumn fruit. Tart and delicious in desserts such as muse and pie."
+  },
+  {
+    "key": "resource_info_apple_cider",
+    "type": 0,
+    "en": "The boozy nectar brewed from apples, for wassailing, or to slake a thirst.",
+    "vi": "The boozy nectar brewed from apples, for wassailing, or to slake a thirst."
+  },
+  {
+    "key": "resource_info_apple_pie",
+    "type": 0,
+    "en": "Sweet, spiced apples, lovingly encased in a coffin of pastry. ",
+    "vi": "Sweet, spiced apples, lovingly encased in a coffin of pastry. "
+  },
+  {
+    "key": "resource_info_honey_biscuits",
+    "type": 0,
+    "en": "Crisp, wafer-thin, honey delights. How they are spun from honey alone is something of a culinary secret. Well worth a few bee stings.",
+    "vi": "Crisp, wafer-thin, honey delights. How they are spun from honey alone is something of a culinary secret. Well worth a few bee stings."
+  },
+  {
+    "key": "resource_info_redcurrant_pie",
+    "type": 0,
+    "en": "Bright, tart, and bursting with flavour. Savour your currant harvest in a flaky pastry pie.",
+    "vi": "Bright, tart, and bursting with flavour. Savour your currant harvest in a flaky pastry pie."
+  },
+  {
+    "key": "resource_info_mead",
+    "type": 0,
+    "en": "An ancient, heady, honey wine. A libation to the Gods. May induce poetry.",
+    "vi": "An ancient, heady, honey wine. A libation to the Gods. May induce poetry."
+  },
+  {
+    "key": "resource_info_silver_ingot",
+    "type": 0,
+    "en": "Refined silver, cast into uniform moulded blocks.",
+    "vi": "Refined silver, cast into uniform moulded blocks."
+  },
+  {
+    "key": "resource_info_ice_block",
+    "type": 0,
+    "en": "Heavy, fragile, and liable to melt. Store underground with items you wish to keep chilled. ",
+    "vi": "Heavy, fragile, and liable to melt. Store underground with items you wish to keep chilled. "
+  },
+  {
+    "key": "resource_info_cabbage_seed",
+    "type": 0,
+    "en": "Once collected, cabbage seeds will keep for years. Easy to grow.",
+    "vi": "Once collected, cabbage seeds will keep for years. Easy to grow."
+  },
+  {
+    "key": "resource_info_carrot_seed",
+    "type": 0,
+    "en": "Collected from ripe seedheads on a carrot plant. Slow to germinate. ",
+    "vi": "Collected from ripe seedheads on a carrot plant. Slow to germinate. "
+  },
+  {
+    "key": "resource_info_beet_seed",
+    "type": 0,
+    "en": "Seeds gathered from the beet plant. Best planted in deep, well-drained soil.",
+    "vi": "Seeds gathered from the beet plant. Best planted in deep, well-drained soil."
+  },
+  {
+    "key": "resource_info_herbs_seed",
+    "type": 0,
+    "en": "Precious seed that you may use to grow a herb garden for cooking, or medicine.",
+    "vi": "Precious seed that you may use to grow a herb garden for cooking, or medicine."
+  },
+  {
+    "key": "resource_info_flax_seed",
+    "type": 0,
+    "en": "Shiny, golden seeds that may be sown for rope, or cloth.",
+    "vi": "Shiny, golden seeds that may be sown for rope, or cloth."
+  },
+  {
+    "key": "resource_info_birch_sapling",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine."
+  },
+  {
+    "key": "resource_info_oak_sapling",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings."
+  },
+  {
+    "key": "resource_info_maple_sapling",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments."
+  },
+  {
+    "key": "resource_info_pine_sapling",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots."
+  },
+  {
+    "key": "resource_info_willow_sapling",
+    "type": 0,
+    "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
+    "vi": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable."
+  },
+  {
+    "key": "resource_info_apple_sapling",
+    "type": 0,
+    "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
+    "vi": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving."
+  },
+  {
+    "key": "resource_info_tallow",
+    "type": 0,
+    "en": "Animal fat with a multitude of uses, from soap and candles to balms applied to the skin.",
+    "vi": "Animal fat with a multitude of uses, from soap and candles to balms applied to the skin."
+  },
+  {
+    "key": "resource_info_wax",
+    "type": 0,
+    "en": "Harvested from the hive. Used for candles, and making soothing ointments and balms.",
+    "vi": "Harvested from the hive. Used for candles, and making soothing ointments and balms."
+  },
+  {
+    "key": "resource_info_enemy_skull_trophy",
+    "type": 0,
+    "en": "Death was too merciful for this enemy. They still appear to be grinning.",
+    "vi": "Death was too merciful for this enemy. They still appear to be grinning."
+  },
+  {
+    "key": "resource_info_settler_skull_trophy",
+    "type": 0,
+    "en": "Alas, poor settler! A sorry reminder of our shared mortality.",
+    "vi": "Alas, poor settler! A sorry reminder of our shared mortality."
+  },
+  {
+    "key": "resource_info_general_trophy",
+    "type": 0,
+    "en": "A decorative mounted memento of a slain beast. ",
+    "vi": "A decorative mounted memento of a slain beast. "
+  },
+  {
+    "key": "resource_info_egg_meal",
+    "type": 0,
+    "en": "Raisins, saffron, herbs, cheese...just a pinch may elevate a humble egg into a tasty treat.",
+    "vi": "Raisins, saffron, herbs, cheese...just a pinch may elevate a humble egg into a tasty treat."
+  },
+  {
+    "key": "resource_info_milk_meal",
+    "type": 0,
+    "en": "Sweet, silky curds and whey. Use your creamiest milk and add a flourish of nutmeg.",
+    "vi": "Sweet, silky curds and whey. Use your creamiest milk and add a flourish of nutmeg."
+  },
+  {
+    "key": "resource_info_milk",
+    "type": 0,
+    "en": "Creamy white and full of goodness. Spoils quickly if not kept cool.",
+    "vi": "Creamy white and full of goodness. Spoils quickly if not kept cool."
+  },
+  {
+    "key": "resource_info_egg_chicken",
+    "type": 0,
+    "en": "A symbol of life, the humble egg can be used in thousands of recipes.",
+    "vi": "A symbol of life, the humble egg can be used in thousands of recipes."
+  },
+  {
+    "key": "resource_info_cheese",
+    "type": 0,
+    "en": "A staple food that gives milk longevity, in countless tasty varieties.",
+    "vi": "A staple food that gives milk longevity, in countless tasty varieties."
+  },
+  {
+    "key": "resource_info_cheese_meal",
+    "type": 0,
+    "en": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne.",
+    "vi": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne."
+  },
+  {
+    "key": "resource_info_fermenting_mash",
+    "type": 0,
+    "en": "Bubbling broth, yeasty and alive with a natural alchemy.",
+    "vi": "Bubbling broth, yeasty and alive with a natural alchemy."
+  },
+  {
+    "key": "resource_info_fermented_mash",
+    "type": 0,
+    "en": "A rough, malodorous brew. Unsavoury, yet intoxicating.",
+    "vi": "A rough, malodorous brew. Unsavoury, yet intoxicating."
+  },
+  {
+    "key": "resource_info_fermenting_ale",
+    "type": 0,
+    "en": "Steeped grain, boiled and now fermenting to yield our daily draught.",
+    "vi": "Steeped grain, boiled and now fermenting to yield our daily draught."
+  },
+  {
+    "key": "resource_info_fermenting_beer",
+    "type": 0,
+    "en": "A malted barley mash releases flavourful sweetness, to then brew up with yeast.",
+    "vi": "A malted barley mash releases flavourful sweetness, to then brew up with yeast."
+  },
+  {
+    "key": "resource_info_fermenting_fruit_juice",
+    "type": 0,
+    "en": "Summer's sweetness slowly transforming into heady wine.",
+    "vi": "Summer's sweetness slowly transforming into heady wine."
+  },
+  {
+    "key": "resource_info_fermenting_mead",
+    "type": 0,
+    "en": "A soup of herbs and honey, bubbling towards a syrupy, heady wine.",
+    "vi": "A soup of herbs and honey, bubbling towards a syrupy, heady wine."
+  },
+  {
+    "key": "resource_info_curdling_milk",
+    "type": 0,
+    "en": "Warmed and soured. The curds from creamy milk may be made into cheese.",
+    "vi": "Warmed and soured. The curds from creamy milk may be made into cheese."
+  },
+  {
+    "key": "resource_info_aged_wine",
+    "type": 0,
+    "en": "Time and cool darkness have worked their magic, revealing layers of character to savour.",
+    "vi": "Time and cool darkness have worked their magic, revealing layers of character to savour."
+  },
+  {
+    "key": "resource_info_animal_feed",
+    "type": 0,
+    "en": "A nourishing blend of straw, vegetables and grain. Used to feed animals.",
+    "vi": "A nourishing blend of straw, vegetables and grain. Used to feed animals."
+  },
+  {
+    "key": "resource_info_dye",
+    "type": 0,
+    "en": "Nature's colour palette extracted from leaves, roots, oak galls, ores, and even the soil.",
+    "vi": "Nature's colour palette extracted from leaves, roots, oak galls, ores, and even the soil."
+  },
+  {
+    "key": "resource_info_gold_coin",
+    "type": 0,
+    "en": "A golden Noble, engraved with the ship of a long-dead king. Melt it down, or spend it.",
+    "vi": "A golden Noble, engraved with the ship of a long-dead king. Melt it down, or spend it."
+  },
+  {
+    "key": "resource_info_fish_dish",
+    "type": 0,
+    "en": "Delicious fried, stuffed with butter and lovage.",
+    "vi": "Delicious fried, stuffed with butter and lovage."
+  },
+  {
+    "key": "resource_info_eel_meal",
+    "type": 0,
+    "en": "Serve fried, spiced and cooked in verjuice to create a tempting Saracen broth.",
+    "vi": "Serve fried, spiced and cooked in verjuice to create a tempting Saracen broth."
+  },
+  {
+    "key": "resource_info_pike_fish",
+    "type": 0,
+    "en": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon.",
+    "vi": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon."
+  },
+  {
+    "key": "resource_info_trout_fish",
+    "type": 0,
+    "en": "Common enough where the waters are clear and small bugs plentiful.",
+    "vi": "Common enough where the waters are clear and small bugs plentiful."
+  },
+  {
+    "key": "resource_info_eel",
+    "type": 0,
+    "en": "A staple for the pot at lent, our wriggly friend is also delicious fried.",
+    "vi": "A staple for the pot at lent, our wriggly friend is also delicious fried."
+  },
+  {
+    "key": "resource_info_smoked_fish",
+    "type": 0,
+    "en": "A catch preserved! Enjoy this flavoursome fish now, or store it for later.",
+    "vi": "A catch preserved! Enjoy this flavoursome fish now, or store it for later."
+  },
+  {
+    "key": "resource_info_salted_eel",
+    "type": 0,
+    "en": "Slippery no more, these will keep.  Savour blaunche porre with leeks and honey later.",
+    "vi": "Slippery no more, these will keep.  Savour blaunche porre with leeks and honey later."
+  },
+  {
+    "key": "resource_info_dummy",
+    "type": 0,
+    "en": "A strawman. The perfect stand-in enemy for practicing melee skills.",
+    "vi": "A strawman. The perfect stand-in enemy for practicing melee skills."
+  },
+  {
+    "key": "resource_info_practice_target",
+    "type": 0,
+    "en": "Ever decreasing circles for accuracy practice in ranged attacks.",
+    "vi": "Ever decreasing circles for accuracy practice in ranged attacks."
+  },
+  {
+    "key": "resource_info_water_bucket",
+    "type": 0,
+    "en": "A simple pail for transporting water.",
+    "vi": "A simple pail for transporting water."
+  }
+]

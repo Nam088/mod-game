@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "error_cant_mine_under",
+    "type": 0,
+    "en": "Cannot dig this voxel. It cannot be reached or something is over it.",
+    "vi": "Cannot dig this voxel. It cannot be reached or something is over it."
+  },
+  {
+    "key": "error_selection_order_cutting",
+    "type": 0,
+    "en": "Must select a bushlike or harvestable plant ",
+    "vi": "Must select a bushlike or harvestable plant "
+  },
+  {
+    "key": "error_selection_order_digging",
+    "type": 0,
+    "en": "Select a piece of terrain",
+    "vi": "Select a piece of terrain"
+  },
+  {
+    "key": "error_selection_order_harvesting",
+    "type": 0,
+    "en": "You must select harvestable plant that is ripe",
+    "vi": "You must select harvestable plant that is ripe"
+  },
+  {
+    "key": "error_selection_order_mining",
+    "type": 0,
+    "en": "You must select a mineable rock or chunk",
+    "vi": "You must select a mineable rock or chunk"
+  },
+  {
+    "key": "general_birthday_today",
+    "type": 0,
+    "en": "<name> has turned <age> today",
+    "vi": "<name> has turned <age> today"
+  },
+  {
+    "key": "general_birthday_info",
+    "type": 0,
+    "en": "{0} turned",
+    "vi": "{0} turned"
+  },
+  {
+    "key": "general_today",
+    "type": 0,
+    "en": "today",
+    "vi": "today"
+  },
+  {
+    "key": "harvest_failed",
+    "type": 0,
+    "en": "Harvest ruined ",
+    "vi": "Harvest ruined "
+  },
+  {
+    "key": "pile_has_decomposed",
+    "type": 0,
+    "en": "has decomposed on the stockpile",
+    "vi": "has decomposed on the stockpile"
+  },
+  {
+    "key": "pile_has_rotten",
+    "type": 0,
+    "en": "<resource_name> has rotted on the stockpile and turned into: <rotten_resource>",
+    "vi": "<resource_name> has rotted on the stockpile and turned into: <rotten_resource>"
+  },
+  {
+    "key": "placement_error_beam",
+    "type": 0,
+    "en": "Cannot place beam over a staircase or roof",
+    "vi": "Cannot place beam over a staircase or roof"
+  },
+  {
+    "key": "placement_error_stairs_blocking",
+    "type": 0,
+    "en": "Invalid position. Stairs are blocked",
+    "vi": "Invalid position. Stairs are blocked"
+  },
+  {
+    "key": "placement_error_stairs_dead_end",
+    "type": 0,
+    "en": "Invalid position. Stairs lead nowhere",
+    "vi": "Invalid position. Stairs lead nowhere"
+  },
+  {
+    "key": "enemies_have_appeared",
+    "type": 0,
+    "en": "<number> enemies have appeared",
+    "vi": "<number> enemies have appeared"
+  },
+  {
+    "key": "enemies_have_started_attacking",
+    "type": 0,
+    "en": "Enemies have started their attack!",
+    "vi": "Enemies have started their attack!"
+  },
+  {
+    "key": "voxel_not_diggable",
+    "type": 0,
+    "en": "Can't dig any deeper.",
+    "vi": "Can't dig any deeper."
+  },
+  {
+    "key": "has_died",
+    "type": 0,
+    "en": "<name> is dead",
+    "vi": "<name> is dead"
+  },
+  {
+    "key": "has_fainted",
+    "type": 0,
+    "en": "<name> is unconscious",
+    "vi": "<name> is unconscious"
+  },
+  {
+    "key": "settler_is_unconscious",
+    "type": 0,
+    "en": "<name> is unconscious",
+    "vi": "<name> is unconscious"
+  },
+  {
+    "key": "error_place_stability",
+    "type": 0,
+    "en": "Can't place building this far from a stable structure",
+    "vi": "Can't place building this far from a stable structure"
+  },
+  {
+    "key": "error_place_roof",
+    "type": 0,
+    "en": "A roof needs two or more points to rest upon in order to be placed",
+    "vi": "A roof needs two or more points to rest upon in order to be placed"
+  },
+  {
+    "key": "error_roof_max",
+    "type": 0,
+    "en": "Maximum roof span is {0}",
+    "vi": "Maximum roof span is {0}"
+  },
+  {
+    "key": "error_beam_intersect",
+    "type": 0,
+    "en": "Can't place beam, intersecting with another beam",
+    "vi": "Can't place beam, intersecting with another beam"
+  },
+  {
+    "key": "error_beam_min_distance",
+    "type": 0,
+    "en": "Beam cannot reach that far. Maximum distance for beam is {0}",
+    "vi": "Beam cannot reach that far. Maximum distance for beam is {0}"
+  },
+  {
+    "key": "error_stairs_blocked",
+    "type": 0,
+    "en": "Can't place staircase, path blocked by: {0}",
+    "vi": "Can't place staircase, path blocked by: {0}"
+  },
+  {
+    "key": "error_stiars_blocking",
+    "type": 0,
+    "en": "Can't be placed here, blocking the staircase",
+    "vi": "Can't be placed here, blocking the staircase"
+  },
+  {
+    "key": "error_beam_blocking",
+    "type": 0,
+    "en": "Can't be placed under a beam",
+    "vi": "Can't be placed under a beam"
+  },
+  {
+    "key": "error_socketable",
+    "type": 0,
+    "en": "Can't be placed. Can only be placed on a wall element or ground voxel",
+    "vi": "Can't be placed. Can only be placed on a wall element or ground voxel"
+  },
+  {
+    "key": "error_socketable_blocking",
+    "type": 0,
+    "en": "Can't be placed, blocked by: {0}",
+    "vi": "Can't be placed, blocked by: {0}"
+  },
+  {
+    "key": "error_cropfield_placement",
+    "type": 0,
+    "en": "Crop field can only be placed on appropriate ground type",
+    "vi": "Crop field can only be placed on appropriate ground type"
+  },
+  {
+    "key": "game_saved",
+    "type": 0,
+    "en": "Game saved",
+    "vi": "Game saved"
+  },
+  {
+    "key": "report_sent",
+    "type": 0,
+    "en": "Report sent",
+    "vi": "Report sent"
+  },
+  {
+    "key": "error_build_research_bench",
+    "type": 0,
+    "en": "Construct a <style=Shortcut>Basic Research Table</style> to unlock new research items.",
+    "vi": "Construct a <style=Shortcut>Basic Research Table</style> to unlock new research items."
+  },
+  {
+    "key": "research_panel_unlocked",
+    "type": 0,
+    "en": "You have unlocked the research panel. ",
+    "vi": "You have unlocked the research panel. "
+  },
+  {
+    "key": "trap_misfire",
+    "type": 0,
+    "en": "Trap misfire!",
+    "vi": "Trap misfire!"
+  },
+  {
+    "key": "selected_worker_is_crazy",
+    "type": 0,
+    "en": "The selected settler has become rebellious and won't take orders",
+    "vi": "The selected settler has become rebellious and won't take orders"
+  },
+  {
+    "key": "can_not_draft_crazy_worker",
+    "type": 0,
+    "en": "A rebellious settler cannot be drafted.",
+    "vi": "A rebellious settler cannot be drafted."
+  },
+  {
+    "key": "can_not_draft_defeated_worker",
+    "type": 0,
+    "en": "You can't draft settlers until victorious enemies leave the map",
+    "vi": "You can't draft settlers until victorious enemies leave the map"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Low armour penetration</style>",
+    "vi": "<style=DefaultRed>Low armour penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate armour penetration</style>",
+    "vi": "<style=DefaultOrange>Moderate armour penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High armour penetration</style>",
+    "vi": "<style=DefaultGreen>High armour penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Low attack speed</style>",
+    "vi": "<style=DefaultRed>Low attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate attack speed</style>",
+    "vi": "<style=DefaultOrange>Moderate attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High attack speed</style>",
+    "vi": "<style=DefaultGreen>High attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceLow",
+    "type": 0,
+    "en": "<style=DefaultGreen>Small chance to miss opponent</style>",
+    "vi": "<style=DefaultGreen>Small chance to miss opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate chance to miss opponent</style>",
+    "vi": "<style=DefaultOrange>Moderate chance to miss opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>High chance to miss opponent</style>",
+    "vi": "<style=DefaultRed>High chance to miss opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedLow",
+    "type": 0,
+    "en": "<style=DefaultOrange>Small effect on movement speed</style>",
+    "vi": "<style=DefaultOrange>Small effect on movement speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate effect on movement speed</style>",
+    "vi": "<style=DefaultOrange>Moderate effect on movement speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>Large effect on movement speed</style>",
+    "vi": "<style=DefaultRed>Large effect on movement speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AattackSpeedImpactLow",
+    "type": 0,
+    "en": "<style=DefaultOrange>Small effect on attack speed</style>",
+    "vi": "<style=DefaultOrange>Small effect on attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttackSpeedImpactMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate effect on attack speed</style>",
+    "vi": "<style=DefaultOrange>Moderate effect on attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttackSpeedImpactHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>Large effect on attack speed</style>",
+    "vi": "<style=DefaultRed>Large effect on attack speed</style>"
+  },
+  {
+    "key": "pile_tooltip_info_Shackles",
+    "type": 0,
+    "en": "<style=DefaultOrange>Used for shackling prisoners to turn them into captive labourers</style>",
+    "vi": "<style=DefaultOrange>Used for shackling prisoners to turn them into captive labourers</style>"
+  },
+  {
+    "key": "pile_tooltip_info_Shackles2",
+    "type": 0,
+    "en": "<style=DefaultOrange>Shackled prisoners move slower and have a smaller chance to run away</style>",
+    "vi": "<style=DefaultOrange>Shackled prisoners move slower and have a smaller chance to run away</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusHigherGround",
+    "type": 0,
+    "en": "<style=DefaultGreen>Attack bonus when used from higher ground</style>",
+    "vi": "<style=DefaultGreen>Attack bonus when used from higher ground</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusAgainstSun",
+    "type": 0,
+    "en": "<style=DefaultGreen>Protects against harsh sunlight</style>",
+    "vi": "<style=DefaultGreen>Protects against harsh sunlight</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusOnLadders",
+    "type": 0,
+    "en": "<style=DefaultGreen>Additional Critical Chance while on ladders</style>",
+    "vi": "<style=DefaultGreen>Additional Critical Chance while on ladders</style>"
+  },
+  {
+    "key": "sow_tooltip_TreeStuntedInfo",
+    "type": 0,
+    "en": "<style=DefaultOrange>Sow trees in rows rather than clumps to avoid stunted growth due to overcrowding.</style>",
+    "vi": "<style=DefaultOrange>Sow trees in rows rather than clumps to avoid stunted growth due to overcrowding.</style>"
+  },
+  {
+    "key": "shrink_zone",
+    "type": 0,
+    "en": "Drag the red rectangle over {zone} to delete part of the zone.\\nCutting the zone in half will not create 2x zones but will randomly choose one half to delete.",
+    "vi": "Drag the red rectangle over {zone} to delete part of the zone.\\nCutting the zone in half will not create 2x zones but will randomly choose one half to delete."
+  },
+  {
+    "key": "expand_zone",
+    "type": 0,
+    "en": "Place a zone that is connected to {zone} to expand it.",
+    "vi": "Place a zone that is connected to {zone} to expand it."
+  },
+  {
+    "key": "can_not_banish_while_fainted",
+    "type": 0,
+    "en": "Cannot banish settler while unconscious",
+    "vi": "Cannot banish settler while unconscious"
+  },
+  {
+    "key": "settler_is_rebellious",
+    "type": 0,
+    "en": "The selected settler has become rebellious and won't take orders",
+    "vi": "The selected settler has become rebellious and won't take orders"
+  },
+  {
+    "key": "error_build_map_table",
+    "type": 0,
+    "en": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region.",
+    "vi": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region."
+  },
+  {
+    "key": "region_panel_unlocked",
+    "type": 0,
+    "en": "You have unlocked the region map",
+    "vi": "You have unlocked the region map"
+  },
+  {
+    "key": "already_reserved_by_other_worker_will_cancel",
+    "type": 0,
+    "en": "Another creature or settler is already trying to interact with this pile. This will cancel their actions.",
+    "vi": "Another creature or settler is already trying to interact with this pile. This will cancel their actions."
+  },
+  {
+    "key": "fishing_failed",
+    "type": 0,
+    "en": "Fishing attempt failed",
+    "vi": "Fishing attempt failed"
+  },
+  {
+    "key": "eligible_for_role_bbt",
+    "type": 0,
+    "en": "<settler_name> is eligible to be a <role_name> ",
+    "vi": "<settler_name> is eligible to be a <role_name> "
+  },
+  {
+    "key": "cannot_extingush_greek_fire",
+    "type": 0,
+    "en": "Greek fire can't be extinguished ",
+    "vi": "Greek fire can't be extinguished "
+  },
+  {
+    "key": "attack_oil_blob",
+    "type": 0,
+    "en": "Ignite",
+    "vi": "Ignite"
+  },
+  {
+    "key": "attack_oil_blob_tooltip",
+    "type": 0,
+    "en": "Use flaming projectiles to ignite",
+    "vi": "Use flaming projectiles to ignite"
+  },
+  {
+    "key": "cant_attack_oil_without_fire_tooltip",
+    "type": 0,
+    "en": "Settler needs to be next to a fire source to use flaming projectiles",
+    "vi": "Settler needs to be next to a fire source to use flaming projectiles"
+  },
+  {
+    "key": "dam_built_bbt",
+    "type": 0,
+    "en": "River flow stopped by a dam.",
+    "vi": "River flow stopped by a dam."
+  },
+  {
+    "key": "map_marker_expires_in",
+    "type": 0,
+    "en": "Expires in:",
+    "vi": "Expires in:"
+  },
+  {
+    "key": "loading_intro_text_4",
+    "type": 0,
+    "en": "an excerpt from \"Liber Hermagedonem\",\n by the Venerable Favian, New Exeter, ca. 1385",
+    "vi": "an excerpt from \"Liber Hermagedonem\",\n by the Venerable Favian, New Exeter, ca. 1385"
+  },
+  {
+    "key": "loading_map_chunks",
+    "type": 0,
+    "en": "Generating map sections, {0} left",
+    "vi": "Generating map sections, {0} left"
+  },
+  {
+    "key": "loading_placing_objects",
+    "type": 0,
+    "en": "Placing objects",
+    "vi": "Placing objects"
+  },
+  {
+    "key": "loading_terrain",
+    "type": 0,
+    "en": "Loading terrain",
+    "vi": "Loading terrain"
+  },
+  {
+    "key": "save_terrain_missing",
+    "type": 0,
+    "en": "Error loading terrain",
+    "vi": "Error loading terrain"
+  },
+  {
+    "key": "general_continue",
+    "type": 0,
+    "en": "Click to continue",
+    "vi": "Click to continue"
+  },
+  {
+    "key": "save_failed",
+    "type": 0,
+    "en": "Save failed",
+    "vi": "Save failed"
+  },
+  {
+    "key": "save_group_presets_failed",
+    "type": 0,
+    "en": "Can't save preset",
+    "vi": "Can't save preset"
+  },
+  {
+    "key": "load_failed",
+    "type": 0,
+    "en": "Can't load this game",
+    "vi": "Can't load this game"
+  },
+  {
+    "key": "load_sequence_start",
+    "type": 0,
+    "en": "Loading Start",
+    "vi": "Loading Start"
+  },
+  {
+    "key": "loading_ui",
+    "type": 0,
+    "en": "Loading UI",
+    "vi": "Loading UI"
+  },
+  {
+    "key": "load_sequence_complete",
+    "type": 0,
+    "en": "Loading Complete",
+    "vi": "Loading Complete"
+  },
+  {
+    "key": "load_saving",
+    "type": 0,
+    "en": "Autosaving...",
+    "vi": "Autosaving..."
+  },
+  {
+    "key": "load_spawning_objects",
+    "type": 0,
+    "en": "Placing objects",
+    "vi": "Placing objects"
+  },
+  {
+    "key": "loading_spawning_slopes",
+    "type": 0,
+    "en": "Loading Slopes",
+    "vi": "Loading Slopes"
+  },
+  {
+    "key": "save_in_progress",
+    "type": 0,
+    "en": "Saving...",
+    "vi": "Saving..."
+  },
+  {
+    "key": "save_failed_directory",
+    "type": 0,
+    "en": "Failed to create save directory. Try naming your village with english characters only. If the issue continues please contact us at support@foxyvoxel.io",
+    "vi": "Failed to create save directory. Try naming your village with english characters only. If the issue continues please contact us at support@foxyvoxel.io"
+  },
+  {
+    "key": "save_migration_error",
+    "type": 0,
+    "en": "This save was created using an older version of Going Medieval. Due to our reworked save system, this particular save is <style=AltColor>no longer valid</style> with the current update, but this issue can be resolved. To migrate your save and continue playing, please follow these steps:\\n\\n 1. Switch to the <style=AltColor>migration version</style> from Steam/GOG/EGS.\\n 2. Click on the “Migrate” option in the Main Menu.\\n 3. Choose the save file you wish to migrate.\\n 4. Switch back to the <style=AltColor>default version.</style> \\n 5. Enjoy the game! \\n\\nFor a more detailed explanation, please visit this link: \"<link=\"web_migration_link\"><style=LinkWorker>Link</style></link>”. \\nAdditionally, you can find a lovely narrated video with step-by-step instructions here: “<link=\"web_migration_video_link\"><style=LinkWorker>Link</style></link>” ",
+    "vi": "This save was created using an older version of Going Medieval. Due to our reworked save system, this particular save is <style=AltColor>no longer valid</style> with the current update, but this issue can be resolved. To migrate your save and continue playing, please follow these steps:\\n\\n 1. Switch to the <style=AltColor>migration version</style> from Steam/GOG/EGS.\\n 2. Click on the “Migrate” option in the Main Menu.\\n 3. Choose the save file you wish to migrate.\\n 4. Switch back to the <style=AltColor>default version.</style> \\n 5. Enjoy the game! \\n\\nFor a more detailed explanation, please visit this link: \"<link=\"web_migration_link\"><style=LinkWorker>Link</style></link>”. \\nAdditionally, you can find a lovely narrated video with step-by-step instructions here: “<link=\"web_migration_video_link\"><style=LinkWorker>Link</style></link>” "
+  },
+  {
+    "key": "save_migration_message",
+    "type": 0,
+    "en": "The game is migrating your settlement to ensure playability of the latest version <style=AltColor>(0.18 and above)</style>.",
+    "vi": "The game is migrating your settlement to ensure playability of the latest version <style=AltColor>(0.18 and above)</style>."
+  },
+  {
+    "key": "save_migration_message2",
+    "type": 0,
+    "en": "Select the <style=AltColor>“Migrate”</style> option and choose the save you would like to transition to the new save system.",
+    "vi": "Select the <style=AltColor>“Migrate”</style> option and choose the save you would like to transition to the new save system."
+  },
+  {
+    "key": "save_migration_successful",
+    "type": 0,
+    "en": "<style=DefaultGreen>Save Migration Successful</style>",
+    "vi": "<style=DefaultGreen>Save Migration Successful</style>"
+  },
+  {
+    "key": "save_migration_failed",
+    "type": 0,
+    "en": "<style=DefaultRed>Save Migration Failed </style>",
+    "vi": "<style=DefaultRed>Save Migration Failed </style>"
+  },
+  {
+    "key": "web_migration_link_text",
+    "type": 0,
+    "en": "Link",
+    "vi": "Link"
+  },
+  {
+    "key": "loading_complete",
+    "type": 0,
+    "en": "Loading Complete",
+    "vi": "Loading Complete"
+  },
+  {
+    "key": "load_failed_mod_broken",
+    "type": 0,
+    "en": "<load_failed>.\\n<style=DefaultRed><building></style> cannot be found in repository. This is most likely due to a mod being inactive or broken.",
+    "vi": "<load_failed>.\\n<style=DefaultRed><building></style> cannot be found in repository. This is most likely due to a mod being inactive or broken."
+  },
+  {
+    "key": "load_failed_mods_in_save",
+    "type": 0,
+    "en": "Mods present in save",
+    "vi": "Mods present in save"
+  },
+  {
+    "key": "load_failed_mods_and_more",
+    "type": 0,
+    "en": "and more.",
+    "vi": "and more."
+  },
+  {
+    "key": "load_failed_missing_mod",
+    "type": 0,
+    "en": "This save has been made with one or more mods that aren't currently active. Loading may or may not cause some problems. Game might attempt to replace missing structures with default ones where possible. ",
+    "vi": "This save has been made with one or more mods that aren't currently active. Loading may or may not cause some problems. Game might attempt to replace missing structures with default ones where possible. "
+  },
+  {
+    "key": "load_failed_missing_objects",
+    "type": 0,
+    "en": "Missing objects",
+    "vi": "Missing objects"
+  },
+  {
+    "key": "general_initializing",
+    "type": 0,
+    "en": "Initializing",
+    "vi": "Initializing"
+  },
+  {
+    "key": "general_creating_world",
+    "type": 0,
+    "en": "Loading",
+    "vi": "Loading"
+  },
+  {
+    "key": "ambush_load_title",
+    "type": 0,
+    "en": "Ambush",
+    "vi": "Ambush"
+  },
+  {
+    "key": "ambush_load_desc",
+    "type": 0,
+    "en": "There was no warning. <faction_name> robbers descended on the caravan, grabbing everything they could.",
+    "vi": "There was no warning. <faction_name> robbers descended on the caravan, grabbing everything they could."
+  },
+  {
+    "key": "loot_stash_load_title",
+    "type": 0,
+    "en": "Loot stash",
+    "vi": "Loot stash"
+  },
+  {
+    "key": "loot_stash_load_desc",
+    "type": 0,
+    "en": "What have we here? This cache may contain something useful.",
+    "vi": "What have we here? This cache may contain something useful."
+  },
+  {
+    "key": "bandit_camp_load_title",
+    "type": 0,
+    "en": "Bandit Camp",
+    "vi": "Bandit Camp"
+  },
+  {
+    "key": "bandit_camp_load_desc",
+    "type": 0,
+    "en": "A well-equipped <faction_name> camp is hidden here, camouflaged by a thick screen of vegetation.",
+    "vi": "A well-equipped <faction_name> camp is hidden here, camouflaged by a thick screen of vegetation."
+  },
+  {
+    "key": "stats",
+    "type": 0,
+    "en": "Stats",
+    "vi": "Stats"
+  },
+  {
+    "key": "worker_stats",
+    "type": 0,
+    "en": "Stats",
+    "vi": "Stats"
+  },
+  {
+    "key": "blood_treshold_01",
+    "type": 0,
+    "en": "Minor blood loss",
+    "vi": "Minor blood loss"
+  },
+  {
+    "key": "blood_treshold_02",
+    "type": 0,
+    "en": "Moderate blood loss",
+    "vi": "Moderate blood loss"
+  },
+  {
+    "key": "blood_treshold_03",
+    "type": 0,
+    "en": "Massive blood loss",
+    "vi": "Massive blood loss"
+  },
+  {
+    "key": "consciousness_treshold_01",
+    "type": 0,
+    "en": "Feeling dizzy",
+    "vi": "Feeling dizzy"
+  },
+  {
+    "key": "consciousness_treshold_02",
+    "type": 0,
+    "en": "Struggling to move",
+    "vi": "Struggling to move"
+  },
+  {
+    "key": "consciousness_treshold_03",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Unconscious"
+  },
+  {
+    "key": "faith_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Satisfied"
+  },
+  {
+    "key": "faith_treshold_02",
+    "type": 0,
+    "en": "No need for religious activities",
+    "vi": "No need for religious activities"
+  },
+  {
+    "key": "faith_treshold_03",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Lacking"
+  },
+  {
+    "key": "faith_treshold_04",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Deprived"
+  },
+  {
+    "key": "entertaiment_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Satisfied"
+  },
+  {
+    "key": "entertaiment_treshold_02",
+    "type": 0,
+    "en": "No need for entertainment",
+    "vi": "No need for entertainment"
+  },
+  {
+    "key": "entertaiment_treshold_03",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Lacking"
+  },
+  {
+    "key": "entertaiment_treshold_04",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Deprived"
+  },
+  {
+    "key": "alc_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Satisfied"
+  },
+  {
+    "key": "alc_treshold_02",
+    "type": 0,
+    "en": "No need for alcohol",
+    "vi": "No need for alcohol"
+  },
+  {
+    "key": "alc_treshold_03",
+    "type": 0,
+    "en": "Slightly lacking",
+    "vi": "Slightly lacking"
+  },
+  {
+    "key": "alc_treshold_04",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Lacking"
+  },
+  {
+    "key": "alc_treshold_05",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Deprived"
+  },
+  {
+    "key": "religious_align_treshold_01",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Restitutionist Zealot",
+    "vi": "<sprite=\"restitution_icon\" index=t> Restitutionist Zealot"
+  },
+  {
+    "key": "religious_align_treshold_02",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Devout Restitutionist",
+    "vi": "<sprite=\"restitution_icon\" index=t> Devout Restitutionist"
+  },
+  {
+    "key": "religious_align_treshold_03",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Practicing Restitutionist",
+    "vi": "<sprite=\"restitution_icon\" index=t> Practicing Restitutionist"
+  },
+  {
+    "key": "religious_align_treshold_04",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Practicing Oak Brethren",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Practicing Oak Brethren"
+  },
+  {
+    "key": "religious_align_treshold_05",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Devout Oak Brethren",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Devout Oak Brethren"
+  },
+  {
+    "key": "religious_align_treshold_06",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Oak Brethren Zealot",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Oak Brethren Zealot"
+  },
+  {
+    "key": "religious_align_treshold_01_info",
+    "type": 0,
+    "en": "This settler requires considerable religious activity to stay happy. They don't drink alcohol (Need for alcohol never changes). They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "This settler requires considerable religious activity to stay happy. They don't drink alcohol (Need for alcohol never changes). They require a Church of Restitution shrine or chapel for their religious observances."
+  },
+  {
+    "key": "religious_align_treshold_02_info",
+    "type": 0,
+    "en": "This settler needs religious activities every few days. They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "This settler needs religious activities every few days. They require a Church of Restitution shrine or chapel for their religious observances."
+  },
+  {
+    "key": "religious_align_treshold_03_info",
+    "type": 0,
+    "en": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require a Church of Restitution shrine or chapel for their religious observances."
+  },
+  {
+    "key": "religious_align_treshold_04_info",
+    "type": 0,
+    "en": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require an Oak Brethren shrine or temple for their religious observances."
+  },
+  {
+    "key": "religious_align_treshold_05_info",
+    "type": 0,
+    "en": "This settler needs religious activities every few days. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "This settler needs religious activities every few days. They require an Oak Brethren shrine or temple for their religious observances."
+  },
+  {
+    "key": "religious_align_treshold_06_info",
+    "type": 0,
+    "en": "This settler requires considerable religious activity to stay happy. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "This settler requires considerable religious activity to stay happy. They require an Oak Brethren shrine or temple for their religious observances."
+  },
+  {
+    "key": "stomach_treshold_01",
+    "type": 0,
+    "en": "Mild stomach ache",
+    "vi": "Mild stomach ache"
+  },
+  {
+    "key": "stomach_treshold_02",
+    "type": 0,
+    "en": "Serious stomach ache",
+    "vi": "Serious stomach ache"
+  },
+  {
+    "key": "stomach_treshold_03",
+    "type": 0,
+    "en": "Vomiting",
+    "vi": "Vomiting"
+  },
+  {
+    "key": "religious_align_scale_info",
+    "type": 0,
+    "en": "Religious alignment goes from left to right:",
+    "vi": "Religious alignment goes from left to right:"
+  },
+  {
+    "key": "pain_treshold_01",
+    "type": 0,
+    "en": "Annoying pain spike (Damage to consciousness)",
+    "vi": "Annoying pain spike (Damage to consciousness)"
+  },
+  {
+    "key": "pain_treshold_02",
+    "type": 0,
+    "en": "Worrying pain spike (Damage to consciousness)",
+    "vi": "Worrying pain spike (Damage to consciousness)"
+  },
+  {
+    "key": "pain_treshold_03",
+    "type": 0,
+    "en": "Serious pain spike (Damage to consciousness)",
+    "vi": "Serious pain spike (Damage to consciousness)"
+  },
+  {
+    "key": "pain_treshold_04",
+    "type": 0,
+    "en": "Alarming pain spike (Damage to consciousness)",
+    "vi": "Alarming pain spike (Damage to consciousness)"
+  },
+  {
+    "key": "pain_treshold_05",
+    "type": 0,
+    "en": "Excruciating pain spike (Damage to consciousness)",
+    "vi": "Excruciating pain spike (Damage to consciousness)"
+  },
+  {
+    "key": "sleep_treshold_00",
+    "type": 0,
+    "en": "Well rested",
+    "vi": "Well rested"
+  },
+  {
+    "key": "sleep_treshold_01",
+    "type": 0,
+    "en": "Well rested",
+    "vi": "Well rested"
+  },
+  {
+    "key": "sleep_treshold_02",
+    "type": 0,
+    "en": "Competent",
+    "vi": "Competent"
+  },
+  {
+    "key": "sleep_treshold_03",
+    "type": 0,
+    "en": "Tired",
+    "vi": "Tired"
+  },
+  {
+    "key": "sleep_treshold_04",
+    "type": 0,
+    "en": "Exhausted",
+    "vi": "Exhausted"
+  },
+  {
+    "key": "sleep_treshold_05",
+    "type": 0,
+    "en": "Fatigued",
+    "vi": "Fatigued"
+  },
+  {
+    "key": "worker_attributes",
+    "type": 0,
+    "en": "Attributes",
+    "vi": "Attributes"
+  },
+  {
+    "key": "worker_biography",
+    "type": 0,
+    "en": "Biography",
+    "vi": "Biography"
+  },
+  {
+    "key": "worker_health",
+    "type": 0,
+    "en": "Health",
+    "vi": "Health"
+  },
+  {
+    "key": "worker_inventory",
+    "type": 0,
+    "en": "Inventory",
+    "vi": "Inventory"
+  },
+  {
+    "key": "worker_social",
+    "type": 0,
+    "en": "Social",
+    "vi": "Social"
+  },
+  {
+    "key": "worker_stance_aggressive_desc",
+    "type": 0,
+    "en": "Settlers in aggressive stance will engage in combat if an enemy is in the line of sight",
+    "vi": "Settlers in aggressive stance will engage in combat if an enemy is in the line of sight"
+  },
+  {
+    "key": "worker_stance_aggressive_title",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Aggressive"
+  },
+  {
+    "key": "worker_stance_flee_desc",
+    "type": 0,
+    "en": "Settler in flee stance will run away from any enemy in the line of sight",
+    "vi": "Settler in flee stance will run away from any enemy in the line of sight"
+  },
+  {
+    "key": "worker_stance_flee_title",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Flee"
+  },
+  {
+    "key": "worker_stance_neutral_desc",
+    "type": 0,
+    "en": "Settler in neutral stance will not react to nearby enemies, but will fight back if attacked.",
+    "vi": "Settler in neutral stance will not react to nearby enemies, but will fight back if attacked."
+  },
+  {
+    "key": "worker_stance_neutral_title",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "worker_drafted_stance_hold_ground_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "worker_drafted_stance_default_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "general_stats",
+    "type": 0,
+    "en": "Attributes",
+    "vi": "Attributes"
+  },
+  {
+    "key": "mass_carried",
+    "type": 0,
+    "en": "Mass carried",
+    "vi": "Mass carried"
+  },
+  {
+    "key": "comfort_treshold_05",
+    "type": 0,
+    "en": "Very Uncomfortable",
+    "vi": "Very Uncomfortable"
+  },
+  {
+    "key": "comfort_treshold_04",
+    "type": 0,
+    "en": "Uncomfortable",
+    "vi": "Uncomfortable"
+  },
+  {
+    "key": "comfort_treshold_03",
+    "type": 0,
+    "en": "Comfortable",
+    "vi": "Comfortable"
+  },
+  {
+    "key": "comfort_treshold_02",
+    "type": 0,
+    "en": "Very Comfortable",
+    "vi": "Very Comfortable"
+  },
+  {
+    "key": "comfort_treshold_not_used",
+    "type": 0,
+    "en": "Extremely Comfortable",
+    "vi": "Extremely Comfortable"
+  },
+  {
+    "key": "beauty_treshold_05",
+    "type": 0,
+    "en": "Abysmal Surroundings",
+    "vi": "Abysmal Surroundings"
+  },
+  {
+    "key": "beauty_treshold_04",
+    "type": 0,
+    "en": "Uninspiring Surroundings",
+    "vi": "Uninspiring Surroundings"
+  },
+  {
+    "key": "beauty_treshold_03",
+    "type": 0,
+    "en": "Pleasant Surroundings",
+    "vi": "Pleasant Surroundings"
+  },
+  {
+    "key": "beauty_treshold_02",
+    "type": 0,
+    "en": "Beautiful Surroundings",
+    "vi": "Beautiful Surroundings"
+  },
+  {
+    "key": "stat_target",
+    "type": 0,
+    "en": "Target",
+    "vi": "Target"
+  },
+  {
+    "key": "worker_overweight_slowdown",
+    "type": 0,
+    "en": "This settler is over-burdened and so will move more slowly.",
+    "vi": "This settler is over-burdened and so will move more slowly."
+  },
+  {
+    "key": "social_treshold_02",
+    "type": 0,
+    "en": "Deprived of company",
+    "vi": "Deprived of company"
+  },
+  {
+    "key": "social_treshold_03",
+    "type": 0,
+    "en": "Lonely",
+    "vi": "Lonely"
+  },
+  {
+    "key": "birthday_pattern",
+    "type": 0,
+    "en": "<age> (<birthday>. of <season>)",
+    "vi": "<age> (<birthday>. of <season>)"
+  },
+  {
+    "key": "can_not_draft_fist_fight_hour",
+    "type": 0,
+    "en": "A brawling settler cannot be drafted.",
+    "vi": "A brawling settler cannot be drafted."
+  },
+  {
+    "key": "selected_worker_is_fist_fight_hour",
+    "type": 0,
+    "en": "The selected settler is brawling and won't take orders",
+    "vi": "The selected settler is brawling and won't take orders"
+  },
+  {
+    "key": "hour_type_fist_fight_name",
+    "type": 0,
+    "en": "Brawl",
+    "vi": "Brawl"
+  },
+  {
+    "key": "worker_action_BanishGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_attackgoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "worker_action_enemyselfdefensegoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "worker_action_carrytobedgoal",
+    "type": 0,
+    "en": "Carrying wounded to a bed",
+    "vi": "Carrying wounded to a bed"
+  },
+  {
+    "key": "worker_action_choptreegoal",
+    "type": 0,
+    "en": "Cutting",
+    "vi": "Cutting"
+  },
+  {
+    "key": "worker_action_diggoal",
+    "type": 0,
+    "en": "Mining/Digging",
+    "vi": "Mining/Digging"
+  },
+  {
+    "key": "worker_action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "worker_action_equipgoal",
+    "type": 0,
+    "en": "Equipping item",
+    "vi": "Equipping item"
+  },
+  {
+    "key": "worker_action_faintgoal",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Unconscious"
+  },
+  {
+    "key": "worker_action_fleegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_harvestgoal",
+    "type": 0,
+    "en": "Harvesting resources",
+    "vi": "Harvesting resources"
+  },
+  {
+    "key": "worker_action_hungergoal",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "worker_action_huntinggoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_idlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_leavemapgoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_productioncarpentrygoal",
+    "type": 0,
+    "en": "Crafting wooden item",
+    "vi": "Crafting wooden item"
+  },
+  {
+    "key": "worker_action_productioncookinggoal",
+    "type": 0,
+    "en": "Preparing food",
+    "vi": "Preparing food"
+  },
+  {
+    "key": "worker_action_productioncarcassdisposalgoal",
+    "type": 0,
+    "en": "Preparing Body",
+    "vi": "Preparing Body"
+  },
+  {
+    "key": "worker_action_productionchemistrygoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_productioncraftinggoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_productionresearchgoal",
+    "type": 0,
+    "en": "Writing",
+    "vi": "Writing"
+  },
+  {
+    "key": "worker_action_productionsmithinggoal",
+    "type": 0,
+    "en": "Crafting metal item",
+    "vi": "Crafting metal item"
+  },
+  {
+    "key": "worker_action_productiontailoringgoal",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "worker_action_productionworkergoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_restgoal",
+    "type": 0,
+    "en": "Convalescing",
+    "vi": "Convalescing"
+  },
+  {
+    "key": "worker_action_sleepgoal",
+    "type": 0,
+    "en": "Sleeping",
+    "vi": "Sleeping"
+  },
+  {
+    "key": "worker_action_stockpilehaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_shelfhaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_tendwoundsgoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Tending wounds"
+  },
+  {
+    "key": "worker_action_SelfTendWoundsGoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Tending wounds"
+  },
+  {
+    "key": "worker_action_walktopositiondraftgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_walktopositiongoal",
+    "type": 0,
+    "en": "En route",
+    "vi": "En route"
+  },
+  {
+    "key": "worker_action_autoequipgoal",
+    "type": 0,
+    "en": "Auto equipping",
+    "vi": "Auto equipping"
+  },
+  {
+    "key": "worker_action_faithgoal",
+    "type": 0,
+    "en": "Praying",
+    "vi": "Praying"
+  },
+  {
+    "key": "worker_action_changedoorlockdtategoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Door"
+  },
+  {
+    "key": "worker_action_setuptrapgoal",
+    "type": 0,
+    "en": "Resetting trap",
+    "vi": "Resetting trap"
+  },
+  {
+    "key": "worker_action_drinkgoal",
+    "type": 0,
+    "en": "Drinking",
+    "vi": "Drinking"
+  },
+  {
+    "key": "worker_action_vomitgoal",
+    "type": 0,
+    "en": "Vomiting",
+    "vi": "Vomiting"
+  },
+  {
+    "key": "worker_action_entertainmentgoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_ChangeDoorLockStateGoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Door"
+  },
+  {
+    "key": "worker_action_changelockstategoal",
+    "type": 0,
+    "en": "Stewarding",
+    "vi": "Stewarding"
+  },
+  {
+    "key": "worker_action_burybodygoal",
+    "type": 0,
+    "en": "Burying remains",
+    "vi": "Burying remains"
+  },
+  {
+    "key": "worker_action_OperateTrebuchetGoal",
+    "type": 0,
+    "en": "Operating Siege Weapon",
+    "vi": "Operating Siege Weapon"
+  },
+  {
+    "key": "worker_action_TradeGoal",
+    "type": 0,
+    "en": "Bartering",
+    "vi": "Bartering"
+  },
+  {
+    "key": "worker_action_formcaravangoal",
+    "type": 0,
+    "en": "Forming Caravan",
+    "vi": "Forming Caravan"
+  },
+  {
+    "key": "worker_action_incaravan",
+    "type": 0,
+    "en": "Travelling",
+    "vi": "Travelling"
+  },
+  {
+    "key": "worker_action_deliverfuelgoal",
+    "type": 0,
+    "en": "Refueling",
+    "vi": "Refueling"
+  },
+  {
+    "key": "worker_action_releasePrisonerGoal",
+    "type": 0,
+    "en": "Releasing Prisoner",
+    "vi": "Releasing Prisoner"
+  },
+  {
+    "key": "worker_action_FollowGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_FollowMoveOrderGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_npcidlewalkgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_TraderIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_EnemyIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_EnemyWithdrawalGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_fillfoodstoragegoal",
+    "type": 0,
+    "en": "Filling Food Pouch",
+    "vi": "Filling Food Pouch"
+  },
+  {
+    "key": "worker_action_RopedFollowGoal",
+    "type": 0,
+    "en": "Roped",
+    "vi": "Roped"
+  },
+  {
+    "key": "worker_action_PestControlGoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_productionartgoal",
+    "type": 0,
+    "en": "Creating Art",
+    "vi": "Creating Art"
+  },
+  {
+    "key": "worker_action_FillMedicineStorageGoal",
+    "type": 0,
+    "en": "Filling Medicine Pouch",
+    "vi": "Filling Medicine Pouch"
+  },
+  {
+    "key": "worker_action_PatientGoal",
+    "type": 0,
+    "en": "Waiting for medical treatment",
+    "vi": "Waiting for medical treatment"
+  },
+  {
+    "key": "worker_action_FishingGoal",
+    "type": 0,
+    "en": "Fishing",
+    "vi": "Fishing"
+  },
+  {
+    "key": "worker_action_StockpileUrgentHaulingGoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_BardRoleGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_FeastEventGoalBard",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_BardVisitorGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_PriestRoleGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_SermonEventGoalPriest",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_PriestVisitorGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_ShamanRoleGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_RitualEventGoalShaman",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_ShamanVisitorGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_NegotiateGoal",
+    "type": 0,
+    "en": "Negotiating",
+    "vi": "Negotiating"
+  },
+  {
+    "key": "worker_action_FeastEventGoal",
+    "type": 0,
+    "en": "Feasting",
+    "vi": "Feasting"
+  },
+  {
+    "key": "worker_action_SermonEventGoal",
+    "type": 0,
+    "en": "Attending Restitutionist Service",
+    "vi": "Attending Restitutionist Service"
+  },
+  {
+    "key": "worker_action_RitualEventGoal",
+    "type": 0,
+    "en": "Attending Oak Brethren Ritual",
+    "vi": "Attending Oak Brethren Ritual"
+  },
+  {
+    "key": "abort_event_participation_confirm",
+    "type": 0,
+    "en": "Leaving the event early may yield negative mood modifiers for this settler. Are you sure you want to proceed?",
+    "vi": "Leaving the event early may yield negative mood modifiers for this settler. Are you sure you want to proceed?"
+  },
+  {
+    "key": "worker_action_HangingEventGoal",
+    "type": 0,
+    "en": "Attending Hanging Event",
+    "vi": "Attending Hanging Event"
+  },
+  {
+    "key": "worker_action_RopePrisonerToHangingEventGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "worker_action_GallowsExecutionGoal",
+    "type": 0,
+    "en": "Going to Gallows",
+    "vi": "Going to Gallows"
+  },
+  {
+    "key": "worker_action_RopeEnemyGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "worker_action_WardenRoleGoal",
+    "type": 0,
+    "en": "Supervising Labourers",
+    "vi": "Supervising Labourers"
+  },
+  {
+    "key": "worker_action_ProductionTrainGoal",
+    "type": 0,
+    "en": "Training Skill",
+    "vi": "Training Skill"
+  },
+  {
+    "key": "worker_action_TakeOutFireGoal",
+    "type": 0,
+    "en": "Quenching Fires",
+    "vi": "Quenching Fires"
+  },
+  {
+    "key": "worker_action_IdleOnFireGoal",
+    "type": 0,
+    "en": "On Fire",
+    "vi": "On Fire"
+  },
+  {
+    "key": "worker_action_BarrelFillGoal",
+    "type": 0,
+    "en": "Filling Barrel",
+    "vi": "Filling Barrel"
+  },
+  {
+    "key": "worker_action_OpenShelfGoal",
+    "type": 0,
+    "en": "Emptying Container",
+    "vi": "Emptying Container"
+  },
+  {
+    "key": "worker_action_deliverammunitiontotrebuchetgoal",
+    "type": 0,
+    "en": "Loading War Machine",
+    "vi": "Loading War Machine"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoalLibrarian",
+    "type": 0,
+    "en": "Holding a Study Group",
+    "vi": "Holding a Study Group"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoal",
+    "type": 0,
+    "en": "Attending a Study Group event",
+    "vi": "Attending a Study Group event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalRanged",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Training event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalMelee",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Training event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalSergeant",
+    "type": 0,
+    "en": "Holding a Training event",
+    "vi": "Holding a Training event"
+  },
+  {
+    "key": "worker_action_LibrarianRoleGoal",
+    "type": 0,
+    "en": "Cataloguing manuscripts",
+    "vi": "Cataloguing manuscripts"
+  },
+  {
+    "key": "worker_action_SergeantRoleGoal",
+    "type": 0,
+    "en": "Sharpening weapons",
+    "vi": "Sharpening weapons"
+  },
+  {
+    "key": "worker_action_BrokerRoleGoal",
+    "type": 0,
+    "en": "Counting money",
+    "vi": "Counting money"
+  },
+  {
+    "key": "worker_action_ForcedFleeGoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_BackgammonEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_ShovelboardEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_SkittlesEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_QuoitsEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_visitorpilgrimidlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_StripCarcassGoal",
+    "type": 0,
+    "en": "Stripping belongings",
+    "vi": "Stripping belongings"
+  },
+  {
+    "key": "worker_action_EnemyIdlePatrolGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_prisonerescapegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_FollowInsultGoal",
+    "type": 0,
+    "en": "Heckling",
+    "vi": "Heckling"
+  },
+  {
+    "key": "worker_action_InitiateSocialFightGoal",
+    "type": 0,
+    "en": "Quarrelsome",
+    "vi": "Quarrelsome"
+  },
+  {
+    "key": "worker_action_SocialFightGoal",
+    "type": 0,
+    "en": "Brawl",
+    "vi": "Brawl"
+  },
+  {
+    "key": "worker_action_SolitaryIdleGoal",
+    "type": 0,
+    "en": "Isolating",
+    "vi": "Isolating"
+  },
+  {
+    "key": "name_prod_pickle",
+    "type": 0,
+    "en": "Pickling",
+    "vi": "Pickling"
+  },
+  {
+    "key": "name_prod_baking_clay",
+    "type": 0,
+    "en": "Firing clay",
+    "vi": "Firing clay"
+  },
+  {
+    "key": "name_prod_butchering",
+    "type": 0,
+    "en": "Butchering",
+    "vi": "Butchering"
+  },
+  {
+    "key": "name_prod_cutting_stone",
+    "type": 0,
+    "en": "Cutting stone",
+    "vi": "Cutting stone"
+  },
+  {
+    "key": "name_prod_make_shield",
+    "type": 0,
+    "en": "Crafting shield",
+    "vi": "Crafting shield"
+  },
+  {
+    "key": "name_prod_make_helemt",
+    "type": 0,
+    "en": "Crafting helmet",
+    "vi": "Crafting helmet"
+  },
+  {
+    "key": "name_prod_make_hat",
+    "type": 0,
+    "en": "Crafting hat",
+    "vi": "Crafting hat"
+  },
+  {
+    "key": "name_prod_package",
+    "type": 0,
+    "en": "Packaging",
+    "vi": "Packaging"
+  },
+  {
+    "key": "name_prod_prep_material",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Preparing ingredients"
+  },
+  {
+    "key": "name_prod_prep_remedy",
+    "type": 0,
+    "en": "Preparing healing remedies",
+    "vi": "Preparing healing remedies"
+  },
+  {
+    "key": "name_prod_make_clothes",
+    "type": 0,
+    "en": "Sewing",
+    "vi": "Sewing"
+  },
+  {
+    "key": "name_prod_ferment",
+    "type": 0,
+    "en": "Fermenting",
+    "vi": "Fermenting"
+  },
+  {
+    "key": "name_prod_brew",
+    "type": 0,
+    "en": "Brewing",
+    "vi": "Brewing"
+  },
+  {
+    "key": "name_prod_bottle",
+    "type": 0,
+    "en": "Bottling",
+    "vi": "Bottling"
+  },
+  {
+    "key": "name_prod_write",
+    "type": 0,
+    "en": "Writing",
+    "vi": "Writing"
+  },
+  {
+    "key": "name_prod_destile",
+    "type": 0,
+    "en": "Distilling",
+    "vi": "Distilling"
+  },
+  {
+    "key": "name_prod_melting_ore",
+    "type": 0,
+    "en": "Smelting metal ore",
+    "vi": "Smelting metal ore"
+  },
+  {
+    "key": "name_prod_prep_clay",
+    "type": 0,
+    "en": "Shaping clay",
+    "vi": "Shaping clay"
+  },
+  {
+    "key": "name_prod_prep_ore",
+    "type": 0,
+    "en": "Preparing metal ore",
+    "vi": "Preparing metal ore"
+  },
+  {
+    "key": "name_prod_roasting",
+    "type": 0,
+    "en": "Roasting",
+    "vi": "Roasting"
+  },
+  {
+    "key": "name_prod_shaping_ore",
+    "type": 0,
+    "en": "Shaping into ingot",
+    "vi": "Shaping into ingot"
+  },
+  {
+    "key": "name_prod_simering",
+    "type": 0,
+    "en": "Simmering",
+    "vi": "Simmering"
+  },
+  {
+    "key": "name_prod_smoke_meat",
+    "type": 0,
+    "en": "Smoking meat",
+    "vi": "Smoking meat"
+  },
+  {
+    "key": "name_prod_dismantle_wood",
+    "type": 0,
+    "en": "Dismantling wooden item",
+    "vi": "Dismantling wooden item"
+  },
+  {
+    "key": "name_prod_dismantle_metal",
+    "type": 0,
+    "en": "Smelting metal item",
+    "vi": "Smelting metal item"
+  },
+  {
+    "key": "name_prod_dismantle_cloth",
+    "type": 0,
+    "en": "Dismantling cloth item",
+    "vi": "Dismantling cloth item"
+  },
+  {
+    "key": "name_prod_prep_coal",
+    "type": 0,
+    "en": "Preparing lumber",
+    "vi": "Preparing lumber"
+  },
+  {
+    "key": "name_prod_creating_coal",
+    "type": 0,
+    "en": "Creating coal",
+    "vi": "Creating coal"
+  },
+  {
+    "key": "name_prod_burning_carcass",
+    "type": 0,
+    "en": "Burning Body",
+    "vi": "Burning Body"
+  },
+  {
+    "key": "name_prod_preparing_carcass",
+    "type": 0,
+    "en": "Preparing Body",
+    "vi": "Preparing Body"
+  },
+  {
+    "key": "name_prod_create_mech",
+    "type": 0,
+    "en": "Making Parts",
+    "vi": "Making Parts"
+  },
+  {
+    "key": "name_prod_prep_ice_block",
+    "type": 0,
+    "en": "Preparing Ice Block",
+    "vi": "Preparing Ice Block"
+  },
+  {
+    "key": "name_prod_freez",
+    "type": 0,
+    "en": "Freezing",
+    "vi": "Freezing"
+  },
+  {
+    "key": "name_prod_prep_hive",
+    "type": 0,
+    "en": "Preparing Bee Skep",
+    "vi": "Preparing Bee Skep"
+  },
+  {
+    "key": "name_prod_honey",
+    "type": 0,
+    "en": "Producing Honey",
+    "vi": "Producing Honey"
+  },
+  {
+    "key": "name_prod_worker_request",
+    "type": 0,
+    "en": "Waiting for worker",
+    "vi": "Waiting for worker"
+  },
+  {
+    "key": "name_prod_making_trophy",
+    "type": 0,
+    "en": "Making trophy",
+    "vi": "Making trophy"
+  },
+  {
+    "key": "name_prod_general_producing",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "name_prod_prep_dungbrick",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Preparing ingredients"
+  },
+  {
+    "key": "name_prod_baking_dungbrick",
+    "type": 0,
+    "en": "Drying dung brick",
+    "vi": "Drying dung brick"
+  },
+  {
+    "key": "name_prod_prep_quicklime",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Preparing ingredients"
+  },
+  {
+    "key": "name_prod_prep_saltpeter",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Preparing ingredients"
+  },
+  {
+    "key": "name_prod_creating_quicklime",
+    "type": 0,
+    "en": "Burning limestone",
+    "vi": "Burning limestone"
+  },
+  {
+    "key": "name_prod_creating_saltpeter",
+    "type": 0,
+    "en": "Extracting saltpetre ",
+    "vi": "Extracting saltpetre "
+  },
+  {
+    "key": "name_prod_make_dummy",
+    "type": 0,
+    "en": "Sewing a dummy",
+    "vi": "Sewing a dummy"
+  },
+  {
+    "key": "name_prod_make_practice_target",
+    "type": 0,
+    "en": "Making practice target",
+    "vi": "Making practice target"
+  },
+  {
+    "key": "name_prod_trainng_marksman",
+    "type": 0,
+    "en": "Practicing on a target",
+    "vi": "Practicing on a target"
+  },
+  {
+    "key": "name_prod_trainng_melee",
+    "type": 0,
+    "en": "Practicing on a dummy",
+    "vi": "Practicing on a dummy"
+  },
+  {
+    "key": "name_prod_flamable_oil",
+    "type": 0,
+    "en": "Mixing ingredients ",
+    "vi": "Mixing ingredients "
+  },
+  {
+    "key": "train_ranged",
+    "type": 0,
+    "en": "Marksman Training",
+    "vi": "Marksman Training"
+  },
+  {
+    "key": "train_melee",
+    "type": 0,
+    "en": "Melee Training",
+    "vi": "Melee Training"
+  },
+  {
+    "key": "name_prod_mint",
+    "type": 0,
+    "en": "Minting Coins",
+    "vi": "Minting Coins"
+  },
+  {
+    "key": "general_anyone",
+    "type": 0,
+    "en": "Anyone",
+    "vi": "Anyone"
+  },
+  {
+    "key": "skep_production_speed_tooltip",
+    "type": 0,
+    "en": "<style=DefaultOrange>Output depends on the balance of nearby plants and hives. Hives compete for resources, so space them out.</style>",
+    "vi": "<style=DefaultOrange>Output depends on the balance of nearby plants and hives. Hives compete for resources, so space them out.</style>"
+  },
+  {
+    "key": "skep_production_speed",
+    "type": 0,
+    "en": "Skep Production Speed",
+    "vi": "Skep Production Speed"
+  },
+  {
+    "key": "skeps_around_skep",
+    "type": 0,
+    "en": "Other skeps nearby",
+    "vi": "Other skeps nearby"
+  },
+  {
+    "key": "production_assigned_to_different_settler",
+    "type": 0,
+    "en": "Production is assigned to another settler! Use Edit to reassign this role.",
+    "vi": "Production is assigned to another settler! Use Edit to reassign this role."
+  },
+  {
+    "key": "name_prod_fixing_wood",
+    "type": 0,
+    "en": "Repairing wooden item",
+    "vi": "Repairing wooden item"
+  },
+  {
+    "key": "name_prod_fixing_metal",
+    "type": 0,
+    "en": "Repairing metal item",
+    "vi": "Repairing metal item"
+  },
+  {
+    "key": "name_prod_fixing_cloth",
+    "type": 0,
+    "en": "Mending cloth item",
+    "vi": "Mending cloth item"
+  },
+  {
+    "key": "repair_item_description_cloth",
+    "type": 0,
+    "en": "A cloth item to be mended",
+    "vi": "A cloth item to be mended"
+  },
+  {
+    "key": "repair_item_description_wood",
+    "type": 0,
+    "en": "A wooden item to be repaired",
+    "vi": "A wooden item to be repaired"
+  },
+  {
+    "key": "repair_item_description_metal",
+    "type": 0,
+    "en": "A metal item to be repaired",
+    "vi": "A metal item to be repaired"
+  },
+  {
+    "key": "wounds_need_tending_info",
+    "type": 0,
+    "en": "must rest or sleep for wounds to be treated",
+    "vi": "must rest or sleep for wounds to be treated"
+  },
+  {
+    "key": "wounds_need_tending_title",
+    "type": 0,
+    "en": "Wounds need tending!",
+    "vi": "Wounds need tending!"
+  },
+  {
+    "key": "bitten_arm_name",
+    "type": 0,
+    "en": "Bitten Arm",
+    "vi": "Bitten Arm"
+  },
+  {
+    "key": "bitten_face_name",
+    "type": 0,
+    "en": "Bitten Face",
+    "vi": "Bitten Face"
+  },
+  {
+    "key": "bitten_foot_name",
+    "type": 0,
+    "en": "Bitten Foot",
+    "vi": "Bitten Foot"
+  },
+  {
+    "key": "bitten_forearm_name",
+    "type": 0,
+    "en": "Bitten Forearm",
+    "vi": "Bitten Forearm"
+  },
+  {
+    "key": "bitten_hand_name",
+    "type": 0,
+    "en": "Bitten Hand",
+    "vi": "Bitten Hand"
+  },
+  {
+    "key": "bitten_leg_name",
+    "type": 0,
+    "en": "Bitten Leg",
+    "vi": "Bitten Leg"
+  },
+  {
+    "key": "bitten_neck_name",
+    "type": 0,
+    "en": "Bitten Neck",
+    "vi": "Bitten Neck"
+  },
+  {
+    "key": "broken_arm_name",
+    "type": 0,
+    "en": "Broken Arm",
+    "vi": "Broken Arm"
+  },
+  {
+    "key": "broken_leg_name",
+    "type": 0,
+    "en": "Broken Leg",
+    "vi": "Broken Leg"
+  },
+  {
+    "key": "broken_nose_name",
+    "type": 0,
+    "en": "Broken Nose",
+    "vi": "Broken Nose"
+  },
+  {
+    "key": "broken_ribs_name",
+    "type": 0,
+    "en": "Broken Rib",
+    "vi": "Broken Rib"
+  },
+  {
+    "key": "bruised_arm_name",
+    "type": 0,
+    "en": "Bruised Arm",
+    "vi": "Bruised Arm"
+  },
+  {
+    "key": "bruised_chest_name",
+    "type": 0,
+    "en": "Bruised Chest",
+    "vi": "Bruised Chest"
+  },
+  {
+    "key": "bruised_leg_name",
+    "type": 0,
+    "en": "Bruised Leg",
+    "vi": "Bruised Leg"
+  },
+  {
+    "key": "cut_artery_name",
+    "type": 0,
+    "en": "Severed Artery",
+    "vi": "Severed Artery"
+  },
+  {
+    "key": "deep_cut_arm_name",
+    "type": 0,
+    "en": "Deep Arm Laceration",
+    "vi": "Deep Arm Laceration"
+  },
+  {
+    "key": "deep_cut_chest_name",
+    "type": 0,
+    "en": "Deep Chest Laceration",
+    "vi": "Deep Chest Laceration"
+  },
+  {
+    "key": "deep_cut_face_name",
+    "type": 0,
+    "en": "Deep Face Laceration",
+    "vi": "Deep Face Laceration"
+  },
+  {
+    "key": "deep_cut_leg_name",
+    "type": 0,
+    "en": "Deep Leg Laceration",
+    "vi": "Deep Leg Laceration"
+  },
+  {
+    "key": "deep_cut_neck_name",
+    "type": 0,
+    "en": "Deep Neck Laceration",
+    "vi": "Deep Neck Laceration"
+  },
+  {
+    "key": "deep_cut_side_name",
+    "type": 0,
+    "en": "Deep Flank Laceration",
+    "vi": "Deep Flank Laceration"
+  },
+  {
+    "key": "dislocated_sholder_name",
+    "type": 0,
+    "en": "Dislocated Shoulder",
+    "vi": "Dislocated Shoulder"
+  },
+  {
+    "key": "fractured_arm_name",
+    "type": 0,
+    "en": "Sprained Arm",
+    "vi": "Sprained Arm"
+  },
+  {
+    "key": "fractured_leg_name",
+    "type": 0,
+    "en": "Sprained Leg",
+    "vi": "Sprained Leg"
+  },
+  {
+    "key": "fractured_nose_name",
+    "type": 0,
+    "en": "Bruised Nose",
+    "vi": "Bruised Nose"
+  },
+  {
+    "key": "fractured_ribs_name",
+    "type": 0,
+    "en": "Bruised Rib",
+    "vi": "Bruised Rib"
+  },
+  {
+    "key": "mild_concussion_name",
+    "type": 0,
+    "en": "Mild Concussion",
+    "vi": "Mild Concussion"
+  },
+  {
+    "key": "pierced_arm_muscle_name",
+    "type": 0,
+    "en": "Pierced Arm Muscle",
+    "vi": "Pierced Arm Muscle"
+  },
+  {
+    "key": "pierced_cheek_name",
+    "type": 0,
+    "en": "Pierced Cheek",
+    "vi": "Pierced Cheek"
+  },
+  {
+    "key": "pierced_chest_name",
+    "type": 0,
+    "en": "Pierced Chest",
+    "vi": "Pierced Chest"
+  },
+  {
+    "key": "pierced_gut_name",
+    "type": 0,
+    "en": "Pierced Gut",
+    "vi": "Pierced Gut"
+  },
+  {
+    "key": "pierced_leg_muscle_name",
+    "type": 0,
+    "en": "Pierced Leg Muscle",
+    "vi": "Pierced Leg Muscle"
+  },
+  {
+    "key": "pierced_lung_name",
+    "type": 0,
+    "en": "Pierced Lung",
+    "vi": "Pierced Lung"
+  },
+  {
+    "key": "pierced_side_name",
+    "type": 0,
+    "en": "Pierced Flank",
+    "vi": "Pierced Flank"
+  },
+  {
+    "key": "scratched_arm_name",
+    "type": 0,
+    "en": "Scratched Arm",
+    "vi": "Scratched Arm"
+  },
+  {
+    "key": "scratched_chest_name",
+    "type": 0,
+    "en": "Scratched Chest",
+    "vi": "Scratched Chest"
+  },
+  {
+    "key": "scratched_face_name",
+    "type": 0,
+    "en": "Scratched Face",
+    "vi": "Scratched Face"
+  },
+  {
+    "key": "scratched_forearm_name",
+    "type": 0,
+    "en": "Scratched Forearm",
+    "vi": "Scratched Forearm"
+  },
+  {
+    "key": "scratched_hand_name",
+    "type": 0,
+    "en": "Scratched Hand",
+    "vi": "Scratched Hand"
+  },
+  {
+    "key": "scratched_leg_name",
+    "type": 0,
+    "en": "Scratched Leg",
+    "vi": "Scratched Leg"
+  },
+  {
+    "key": "scratched_neck_name",
+    "type": 0,
+    "en": "Scratched Neck",
+    "vi": "Scratched Neck"
+  },
+  {
+    "key": "shallow_cut_arm_name",
+    "type": 0,
+    "en": "Minor Arm Laceration",
+    "vi": "Minor Arm Laceration"
+  },
+  {
+    "key": "shallow_cut_chest_name",
+    "type": 0,
+    "en": "Minor Chest Laceration",
+    "vi": "Minor Chest Laceration"
+  },
+  {
+    "key": "shallow_cut_face_name",
+    "type": 0,
+    "en": "Minor Face Laceration",
+    "vi": "Minor Face Laceration"
+  },
+  {
+    "key": "shallow_cut_leg_name",
+    "type": 0,
+    "en": "Minor Leg Laceration",
+    "vi": "Minor Leg Laceration"
+  },
+  {
+    "key": "shallow_cut_neck_name",
+    "type": 0,
+    "en": "Minor Neck Laceration",
+    "vi": "Minor Neck Laceration"
+  },
+  {
+    "key": "shallow_cut_side_name",
+    "type": 0,
+    "en": "Minor Flank Laceration",
+    "vi": "Minor Flank Laceration"
+  },
+  {
+    "key": "whiped_back_name",
+    "type": 0,
+    "en": "Whipped back",
+    "vi": "Whipped back"
+  },
+  {
+    "key": "heavy_concussion_name",
+    "type": 0,
+    "en": "Severe Concussion",
+    "vi": "Severe Concussion"
+  },
+  {
+    "key": "hypothermia_name",
+    "type": 0,
+    "en": "Hypothermia",
+    "vi": "Hypothermia"
+  },
+  {
+    "key": "heatstroke_name",
+    "type": 0,
+    "en": "Heatstroke",
+    "vi": "Heatstroke"
+  },
+  {
+    "key": "burn_arm_name",
+    "type": 0,
+    "en": "Burnt Arm",
+    "vi": "Burnt Arm"
+  },
+  {
+    "key": "burn_leg_name",
+    "type": 0,
+    "en": "Burnt Leg",
+    "vi": "Burnt Leg"
+  },
+  {
+    "key": "burn_torso_name",
+    "type": 0,
+    "en": "Burnt Torso",
+    "vi": "Burnt Torso"
+  },
+  {
+    "key": "burn_face_name",
+    "type": 0,
+    "en": "Burnt Face",
+    "vi": "Burnt Face"
+  },
+  {
+    "key": "burn_hand_name",
+    "type": 0,
+    "en": "Burnt Hand",
+    "vi": "Burnt Hand"
+  },
+  {
+    "key": "burn_foot_name",
+    "type": 0,
+    "en": "Burnt Foot",
+    "vi": "Burnt Foot"
+  },
+  {
+    "key": "stomach_pain_name",
+    "type": 0,
+    "en": "Stomach Pain",
+    "vi": "Stomach Pain"
+  },
+  {
+    "key": "produce_ites_at",
+    "type": 0,
+    "en": " Produces items at:",
+    "vi": " Produces items at:"
+  },
+  {
+    "key": "passion_1_info",
+    "type": 0,
+    "en": "Settler will gain 2.5x more XP for this skill.",
+    "vi": "Settler will gain 2.5x more XP for this skill."
+  },
+  {
+    "key": "passion_1_name",
+    "type": 0,
+    "en": "Passionate <sprite=\"passion_star\" index=t>",
+    "vi": "Passionate <sprite=\"passion_star\" index=t>"
+  },
+  {
+    "key": "passion_2_info",
+    "type": 0,
+    "en": "Settler will gain 4x more XP for this skill.",
+    "vi": "Settler will gain 4x more XP for this skill."
+  },
+  {
+    "key": "passion_2_name",
+    "type": 0,
+    "en": "Very passionate <sprite=\"passion_star\" index=t><sprite=\"passion_star\" index=t>",
+    "vi": "Very passionate <sprite=\"passion_star\" index=t><sprite=\"passion_star\" index=t>"
+  },
+  {
+    "key": "lb_self_tend",
+    "type": 0,
+    "en": "Self-tend",
+    "vi": "Self-tend"
+  },
+  {
+    "key": "lb_self_tend_title",
+    "type": 0,
+    "en": "Allow Self-tending wounds",
+    "vi": "Allow Self-tending wounds"
+  },
+  {
+    "key": "lb_self_tend_info",
+    "type": 0,
+    "en": "Settler will tend to their own wounds. Note that the quality of tending is only 25% that of another settler tending to them. The tending job in the settler jobs panel must be selected for a settler to self-tend.",
+    "vi": "Settler will tend to their own wounds. Note that the quality of tending is only 25% that of another settler tending to them. The tending job in the settler jobs panel must be selected for a settler to self-tend."
+  },
+  {
+    "key": "lb_self_tend_disabled_info",
+    "type": 0,
+    "en": "The tending job in the settler jobs panel must be selected for a settler to self-tend.",
+    "vi": "The tending job in the settler jobs panel must be selected for a settler to self-tend."
+  },
+  {
+    "key": "goal_preference_name_Resentful",
+    "type": 0,
+    "en": "Resentful",
+    "vi": "Resentful"
+  },
+  {
+    "key": "goal_preference_info_Resentful",
+    "type": 0,
+    "en": "Settler will gain only 0.2x XP \\nGain negative mood modifiers when performing this job",
+    "vi": "Settler will gain only 0.2x XP \\nGain negative mood modifiers when performing this job"
+  },
+  {
+    "key": "goal_preference_name_Unwilling",
+    "type": 0,
+    "en": "Unwilling",
+    "vi": "Unwilling"
+  },
+  {
+    "key": "goal_preference_info_Unwilling",
+    "type": 0,
+    "en": "Settler will gain only 0.5x XP \\nGain negative mood modifiers when performing this job",
+    "vi": "Settler will gain only 0.5x XP \\nGain negative mood modifiers when performing this job"
+  },
+  {
+    "key": "goal_preference_name_Indifferent",
+    "type": 0,
+    "en": "Indifferent",
+    "vi": "Indifferent"
+  },
+  {
+    "key": "goal_preference_info_Indifferent",
+    "type": 0,
+    "en": "Settler will gain 1x XP",
+    "vi": "Settler will gain 1x XP"
+  },
+  {
+    "key": "goal_preference_name_Eager",
+    "type": 0,
+    "en": "Eager",
+    "vi": "Eager"
+  },
+  {
+    "key": "goal_preference_info_Eager",
+    "type": 0,
+    "en": "Settler will gain 2.5x more XP \\nGain positive mood modifiers when performing this job",
+    "vi": "Settler will gain 2.5x more XP \\nGain positive mood modifiers when performing this job"
+  },
+  {
+    "key": "goal_preference_name_Passionate",
+    "type": 0,
+    "en": "Passionate",
+    "vi": "Passionate"
+  },
+  {
+    "key": "goal_preference_info_Passionate",
+    "type": 0,
+    "en": "Settler will gain 4x more XP \\nGain positive mood modifiers when performing this job",
+    "vi": "Settler will gain 4x more XP \\nGain positive mood modifiers when performing this job"
+  },
+  {
+    "key": "goal_preference_name_Incapable",
+    "type": 0,
+    "en": "Incapable",
+    "vi": "Incapable"
+  },
+  {
+    "key": "goal_preference_info_Incapable",
+    "type": 0,
+    "en": "Settler cannot do this job",
+    "vi": "Settler cannot do this job"
+  },
+  {
+    "key": "goal_preference_name_PhysicalLabourPreference",
+    "type": 0,
+    "en": "Unskilled Labour",
+    "vi": "Unskilled Labour"
+  },
+  {
+    "key": "goal_preference_name_MiningPreference",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "goal_preference_name_CraftingPreference",
+    "type": 0,
+    "en": "Craft",
+    "vi": "Craft"
+  },
+  {
+    "key": "goal_preference_name_HuntingPreference",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Hunt"
+  },
+  {
+    "key": "goal_preference_name_SmithingPreference",
+    "type": 0,
+    "en": "Smithing",
+    "vi": "Smithing"
+  },
+  {
+    "key": "goal_preference_name_CarpentryPreference",
+    "type": 0,
+    "en": "Carpentry",
+    "vi": "Carpentry"
+  }
+]

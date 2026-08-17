@@ -1,0 +1,770 @@
+[
+  {
+    "key": "info_position",
+    "type": 0,
+    "en": "Position",
+    "vi": "Position"
+  },
+  {
+    "key": "info_walk_speed",
+    "type": 0,
+    "en": "Traversal speed",
+    "vi": "Traversal speed"
+  },
+  {
+    "key": "info_natural_slope",
+    "type": 0,
+    "en": "Slope",
+    "vi": "Slope"
+  },
+  {
+    "key": "info_stability",
+    "type": 0,
+    "en": "Stability",
+    "vi": "Stability"
+  },
+  {
+    "key": "info_panel_wealth",
+    "type": 0,
+    "en": "Value",
+    "vi": "Value"
+  },
+  {
+    "key": "report_message_lenght_warning",
+    "type": 0,
+    "en": "Message has to be at least 10 characters long",
+    "vi": "Message has to be at least 10 characters long"
+  },
+  {
+    "key": "report_title_lenght_warning",
+    "type": 0,
+    "en": "Title has to be at least 4 characters long",
+    "vi": "Title has to be at least 4 characters long"
+  },
+  {
+    "key": "message_trader_is_locked",
+    "type": 0,
+    "en": "The merchant can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease.",
+    "vi": "The merchant can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease."
+  },
+  {
+    "key": "message_hit_trader",
+    "type": 0,
+    "en": "You have hurt a non-hostile person. Strikes left before they become Hostile: <hits_count>  ",
+    "vi": "You have hurt a non-hostile person. Strikes left before they become Hostile: <hits_count>  "
+  },
+  {
+    "key": "warning_choose_settler_name",
+    "type": 0,
+    "en": "Please choose settler's name",
+    "vi": "Please choose settler's name"
+  },
+  {
+    "key": "notification_new_structure",
+    "type": 0,
+    "en": "New Structure",
+    "vi": "New Structure"
+  },
+  {
+    "key": "notification_new_production",
+    "type": 0,
+    "en": "New Production",
+    "vi": "New Production"
+  },
+  {
+    "key": "notification_new_cropfield",
+    "type": 0,
+    "en": "New Crops",
+    "vi": "New Crops"
+  },
+  {
+    "key": "info_tamed",
+    "type": 0,
+    "en": "Tamed",
+    "vi": "Tamed"
+  },
+  {
+    "key": "info_trained",
+    "type": 0,
+    "en": "Trained",
+    "vi": "Trained"
+  },
+  {
+    "key": "info_can_ignite_projectiles",
+    "type": 0,
+    "en": "<style=DefaultOrange>Archers near this structure can use flaming projectiles </style>",
+    "vi": "<style=DefaultOrange>Archers near this structure can use flaming projectiles </style>"
+  },
+  {
+    "key": "info_need_operate",
+    "type": 0,
+    "en": "A settler needs to operate this siege engine for it to work. Select your settler and right-click to use the action menu.",
+    "vi": "A settler needs to operate this siege engine for it to work. Select your settler and right-click to use the action menu."
+  },
+  {
+    "key": "local_folder_not_accessible_warning",
+    "type": 0,
+    "en": "Going Medieval is unable to access your 'Documents folder. Please allow the app through Controlled Folder Access. 'Virus & threat protection > Ransomware protection > 'Allow an app through controlled folder access'. If the problem persists, contact support@foxyvoxel.io. \\n\\n Do you want to open settings?",
+    "vi": "Going Medieval is unable to access your 'Documents folder. Please allow the app through Controlled Folder Access. 'Virus & threat protection > Ransomware protection > 'Allow an app through controlled folder access'. If the problem persists, contact support@foxyvoxel.io. \\n\\n Do you want to open settings?"
+  },
+  {
+    "key": "build_area_overlap_warning",
+    "type": 0,
+    "en": "Building's forbidden area is overlapping with {0}!",
+    "vi": "Building's forbidden area is overlapping with {0}!"
+  },
+  {
+    "key": "game_files_not_accessible_warning",
+    "type": 0,
+    "en": "Going Medieval could not access some game files. This is usually caused by antivirus or security software blocking file reads (e.g. Windows Defender Controlled Folder Access).\\n\\nPlease add Going Medieval to your antivirus or security software exceptions and restart the game. If the problem persists, contact support@foxyvoxel.io.",
+    "vi": "Going Medieval could not access some game files. This is usually caused by antivirus or security software blocking file reads (e.g. Windows Defender Controlled Folder Access).\\n\\nPlease add Going Medieval to your antivirus or security software exceptions and restart the game. If the problem persists, contact support@foxyvoxel.io."
+  },
+  {
+    "key": "warning_message_short_pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Restitutionist Pilgrim"
+  },
+  {
+    "key": "warning_message_info_pilgrim_rest",
+    "type": 0,
+    "en": "A Restitutionist Pilgrim has arrived and is requesting alms in your settlement ",
+    "vi": "A Restitutionist Pilgrim has arrived and is requesting alms in your settlement "
+  },
+  {
+    "key": "warning_message_short_pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Oak Brethren Pilgrim"
+  },
+  {
+    "key": "warning_message_info_pilgrim_oak",
+    "type": 0,
+    "en": "An Oak Brethren Pilgrim arrived and is blessing your settlement ",
+    "vi": "An Oak Brethren Pilgrim arrived and is blessing your settlement "
+  },
+  {
+    "key": "warning_message_short_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Travelling Scholar"
+  },
+  {
+    "key": "warning_message_info_scholar",
+    "type": 0,
+    "en": "A Travelling Scholar has arrived and is documenting your settlement.",
+    "vi": "A Travelling Scholar has arrived and is documenting your settlement."
+  },
+  {
+    "key": "warning_message_short_broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Broker"
+  },
+  {
+    "key": "warning_message_info_broker",
+    "type": 0,
+    "en": "A Broker from a friendly faction has arrived to negotiate the terms of a trade deal.",
+    "vi": "A Broker from a friendly faction has arrived to negotiate the terms of a trade deal."
+  },
+  {
+    "key": "warning_message_short_broker_showing_trade_deal_location",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Broker"
+  },
+  {
+    "key": "warning_message_info_broker_showing_trade_deal_location",
+    "type": 0,
+    "en": "A broker has arrived at your settlement hoping to arrange a trade agreement.",
+    "vi": "A broker has arrived at your settlement hoping to arrange a trade agreement."
+  },
+  {
+    "key": "mods_in_save_warning",
+    "type": 0,
+    "en": "This save was created with mods that are now disabled. This may cause errors.",
+    "vi": "This save was created with mods that are now disabled. This may cause errors."
+  },
+  {
+    "key": "mods_in_game_warning_report",
+    "type": 0,
+    "en": "It seems you are running a modded version of the game. Even though we support mods we cannot claim that they will be without issues. Before reporting this issue please verify if the issues persist when the mods are disabled.",
+    "vi": "It seems you are running a modded version of the game. Even though we support mods we cannot claim that they will be without issues. Before reporting this issue please verify if the issues persist when the mods are disabled."
+  },
+  {
+    "key": "warning_message_info_Bleeding",
+    "type": 0,
+    "en": "Assign convalesce in the jobs panel in order for other settlers to tend their wounds and stop the bleeding.",
+    "vi": "Assign convalesce in the jobs panel in order for other settlers to tend their wounds and stop the bleeding."
+  },
+  {
+    "key": "warning_message_info_Cold",
+    "type": 0,
+    "en": "Make appropriate clothing to beat the cold.",
+    "vi": "Make appropriate clothing to beat the cold."
+  },
+  {
+    "key": "warning_message_info_CriticalCondition",
+    "type": 0,
+    "en": "Your settlers' hitpoints are low. Convalescence and sleep will help them regenerate.",
+    "vi": "Your settlers' hitpoints are low. Convalescence and sleep will help them regenerate."
+  },
+  {
+    "key": "warning_message_info_Hunger",
+    "type": 0,
+    "en": "Harvest more food or produce some using cooking spots like campfires or stoves.",
+    "vi": "Harvest more food or produce some using cooking spots like campfires or stoves."
+  },
+  {
+    "key": "warning_message_info_Idle",
+    "type": 0,
+    "en": "You should probably find them something productive to do.",
+    "vi": "You should probably find them something productive to do."
+  },
+  {
+    "key": "warning_message_info_LowStockpileFood",
+    "type": 0,
+    "en": "Your food reserves are getting low. There is not enough food for settlers.\\n\\nGet more food by foraging, hunting or farming. <b>(only food placed on a stockpile counts)</b>\\n\\nForaging - Order some settlers to harvest berries or mushrooms\\n\\nHunting - Mark some animals to be hunted and butcher their carcasses for meat\\n\\nFarming - research and place crop fields to grow a steady harvest of food ingredients.",
+    "vi": "Your food reserves are getting low. There is not enough food for settlers.\\n\\nGet more food by foraging, hunting or farming. <b>(only food placed on a stockpile counts)</b>\\n\\nForaging - Order some settlers to harvest berries or mushrooms\\n\\nHunting - Mark some animals to be hunted and butcher their carcasses for meat\\n\\nFarming - research and place crop fields to grow a steady harvest of food ingredients."
+  },
+  {
+    "key": "warning_message_info_MissingBed",
+    "type": 0,
+    "en": "The number of beds needs to match the number of settlers.\\n\\nBuild some beds so your settlers can get a good night's sleep.",
+    "vi": "The number of beds needs to match the number of settlers.\\n\\nBuild some beds so your settlers can get a good night's sleep."
+  },
+  {
+    "key": "warning_message_info_Sleep",
+    "type": 0,
+    "en": "Your settlers are exhausted. This means that they are not getting enough sleep.\\n\\nMake sure that every settler has enough sleep hours in their schedule.",
+    "vi": "Your settlers are exhausted. This means that they are not getting enough sleep.\\n\\nMake sure that every settler has enough sleep hours in their schedule."
+  },
+  {
+    "key": "warning_message_info_Warmth",
+    "type": 0,
+    "en": "Keep them indoors or make appropriate clothing to accommodate the heat.",
+    "vi": "Keep them indoors or make appropriate clothing to accommodate the heat."
+  },
+  {
+    "key": "warning_message_short_Bleeding",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are losing blood</style>",
+    "vi": "<style=DefaultRed>Settlers are losing blood</style>"
+  },
+  {
+    "key": "warning_message_short_Cold",
+    "type": 0,
+    "en": "Settlers are suffering from cold",
+    "vi": "Settlers are suffering from cold"
+  },
+  {
+    "key": "warning_message_short_CriticalCondition",
+    "type": 0,
+    "en": "<style=DefaultRed>Critical Condition</style>",
+    "vi": "<style=DefaultRed>Critical Condition</style>"
+  },
+  {
+    "key": "warning_message_short_Hunger",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are starving</style>",
+    "vi": "<style=DefaultRed>Settlers are starving</style>"
+  },
+  {
+    "key": "warning_message_short_Idle",
+    "type": 0,
+    "en": "Settlers are idle",
+    "vi": "Settlers are idle"
+  },
+  {
+    "key": "warning_message_short_LowStockpileFood",
+    "type": 0,
+    "en": "Food reserves on stockpile low",
+    "vi": "Food reserves on stockpile low"
+  },
+  {
+    "key": "warning_message_short_MissingBed",
+    "type": 0,
+    "en": "Not enough beds",
+    "vi": "Not enough beds"
+  },
+  {
+    "key": "warning_message_short_Sleep",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are exhausted</style>",
+    "vi": "<style=DefaultRed>Settlers are exhausted</style>"
+  },
+  {
+    "key": "warning_message_short_Warmth",
+    "type": 0,
+    "en": "Settlers are suffering from excessive heat",
+    "vi": "Settlers are suffering from excessive heat"
+  },
+  {
+    "key": "warning_message_short_MissingStockpile",
+    "type": 0,
+    "en": "Nowhere to store resources",
+    "vi": "Nowhere to store resources"
+  },
+  {
+    "key": "warning_message_info_MissingStockpile",
+    "type": 0,
+    "en": "Place a stockpile so that your settlers have somewhere to store resource piles.",
+    "vi": "Place a stockpile so that your settlers have somewhere to store resource piles."
+  },
+  {
+    "key": "warning_message_short_MealProduction",
+    "type": 0,
+    "en": "Meal preparation missing",
+    "vi": "Meal preparation missing"
+  },
+  {
+    "key": "warning_message_info_MealProduction",
+    "type": 0,
+    "en": "Construct a workstation that turns raw food into meals, like a campfire or a stove. \\nMeals can improve your settlers' mood.",
+    "vi": "Construct a workstation that turns raw food into meals, like a campfire or a stove. \\nMeals can improve your settlers' mood."
+  },
+  {
+    "key": "warning_message_short_Recreation",
+    "type": 0,
+    "en": "Leisure activities",
+    "vi": "Leisure activities"
+  },
+  {
+    "key": "warning_message_info_Recreation",
+    "type": 0,
+    "en": "Be sure to give your settlers leisure time activities.\\n\\nThere are several activities available.\\n\\nReligious - Depending on religious alignment, your settlers will want to pray at a shrine, Oak Brethren Temple or Restitutionist Chapel.\\n\\nDrinking - Settlers love to wind down with a pint of ale (some more than others)\\n\\nGames - games like backgammon will give your settlers a pastime.\\n\\nInspect the stats and mood tabs in the settler selection screen for more info.",
+    "vi": "Be sure to give your settlers leisure time activities.\\n\\nThere are several activities available.\\n\\nReligious - Depending on religious alignment, your settlers will want to pray at a shrine, Oak Brethren Temple or Restitutionist Chapel.\\n\\nDrinking - Settlers love to wind down with a pint of ale (some more than others)\\n\\nGames - games like backgammon will give your settlers a pastime.\\n\\nInspect the stats and mood tabs in the settler selection screen for more info."
+  },
+  {
+    "key": "warning_message_short_ResearchBench",
+    "type": 0,
+    "en": "Research table missing",
+    "vi": "Research table missing"
+  },
+  {
+    "key": "warning_message_info_ResearchBench",
+    "type": 0,
+    "en": "Construct a Basic Research Table to unlock new research items.",
+    "vi": "Construct a Basic Research Table to unlock new research items."
+  },
+  {
+    "key": "warning_message_short_AvailableResearch",
+    "type": 0,
+    "en": "Research available (<research_count>)",
+    "vi": "Research available (<research_count>)"
+  },
+  {
+    "key": "warning_message_info_AvailableResearch",
+    "type": 0,
+    "en": "You have the available knowledge to unlock new research items",
+    "vi": "You have the available knowledge to unlock new research items"
+  },
+  {
+    "key": "warning_message_short_WinterClothes",
+    "type": 0,
+    "en": "Winter is approaching",
+    "vi": "Winter is approaching"
+  },
+  {
+    "key": "warning_message_info_WinterClothes",
+    "type": 0,
+    "en": "Prepare for chilly weather by equipping your settlers with warm clothes.\\n\\nTailor some winter clothing at the sewing station",
+    "vi": "Prepare for chilly weather by equipping your settlers with warm clothes.\\n\\nTailor some winter clothing at the sewing station"
+  },
+  {
+    "key": "warning_message_short_Unconscious",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are unconscious</style>",
+    "vi": "<style=DefaultRed>Settlers are unconscious</style>"
+  },
+  {
+    "key": "warning_message_info_Unconscious",
+    "type": 0,
+    "en": "Your settlers are unconscious. This could be due to injuries or lack of sleep. Send another settler to bring them to a bed where they can recover.",
+    "vi": "Your settlers are unconscious. This could be due to injuries or lack of sleep. Send another settler to bring them to a bed where they can recover."
+  },
+  {
+    "key": "warning_message_short_NeedTending",
+    "type": 0,
+    "en": "<style=DefaultRed>Settler wounds need tending</style>",
+    "vi": "<style=DefaultRed>Settler wounds need tending</style>"
+  },
+  {
+    "key": "warning_message_info_NeedTending",
+    "type": 0,
+    "en": "Your settlers are wounded.\\n\\nTo tend their wounds, the settlers must convalesce or be carried unconscious to bed by another settler.\\n\\nOnly then can a settler with a tending job see to the wounds.",
+    "vi": "Your settlers are wounded.\\n\\nTo tend their wounds, the settlers must convalesce or be carried unconscious to bed by another settler.\\n\\nOnly then can a settler with a tending job see to the wounds."
+  },
+  {
+    "key": "warning_message_short_DefensiveStructure",
+    "type": 0,
+    "en": "Build up your defences",
+    "vi": "Build up your defences"
+  },
+  {
+    "key": "warning_message_info_DefensiveStructure",
+    "type": 0,
+    "en": "Construct defensive structures like merlons and traps to prepare for potential raider attacks.",
+    "vi": "Construct defensive structures like merlons and traps to prepare for potential raider attacks."
+  },
+  {
+    "key": "warning_choose_village_name",
+    "type": 0,
+    "en": "Please choose settlement name",
+    "vi": "Please choose settlement name"
+  },
+  {
+    "key": "warning_village_name_exists",
+    "type": 0,
+    "en": "Settlement name already exists in save file",
+    "vi": "Settlement name already exists in save file"
+  },
+  {
+    "key": "warning_message_short_UnarmedVillagers",
+    "type": 0,
+    "en": "Settlers are unarmed",
+    "vi": "Settlers are unarmed"
+  },
+  {
+    "key": "warning_message_info_UnarmedVillagers",
+    "type": 0,
+    "en": "Arm your settlers so they can defend themselves if attacked. ",
+    "vi": "Arm your settlers so they can defend themselves if attacked. "
+  },
+  {
+    "key": "warning_message_info_AttackCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Prepare your settlers, <faction_name> are on their way"
+  },
+  {
+    "key": "warning_message_short_AttackCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>Attackers approaching.</style>",
+    "vi": "<style=DefaultRed>Attackers approaching.</style>"
+  },
+  {
+    "key": "warning_message_short_trader",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Merchant"
+  },
+  {
+    "key": "warning_message_info_trader",
+    "type": 0,
+    "en": "To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the  <b>Barter with</b> option.",
+    "vi": "To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the  <b>Barter with</b> option."
+  },
+  {
+    "key": "warning_message_short_caravan",
+    "type": 0,
+    "en": "Caravan is at destination",
+    "vi": "Caravan is at destination"
+  },
+  {
+    "key": "warning_message_short_trader_cant_leave",
+    "type": 0,
+    "en": "<style=DefaultRed>Visitors can't leave</style>",
+    "vi": "<style=DefaultRed>Visitors can't leave</style>"
+  },
+  {
+    "key": "warning_message_info_trader_cant_leave",
+    "type": 0,
+    "en": "Visitors can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease.",
+    "vi": "Visitors can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease."
+  },
+  {
+    "key": "warning_message_short_Suffocating",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are suffocating</style>",
+    "vi": "<style=DefaultRed>Settlers are suffocating</style>"
+  },
+  {
+    "key": "warning_message_info_Suffocating",
+    "type": 0,
+    "en": "Settlers cannot breathe in this environment. Remove them quickly, before they run out of air and die.",
+    "vi": "Settlers cannot breathe in this environment. Remove them quickly, before they run out of air and die."
+  },
+  {
+    "key": "warning_message_short_role_possible",
+    "type": 0,
+    "en": "Eligible for Role",
+    "vi": "Eligible for Role"
+  },
+  {
+    "key": "warning_message_info_role_possible",
+    "type": 0,
+    "en": "One or more of your settlers have the prerequisites to be given a special community role in your settlement. ",
+    "vi": "One or more of your settlers have the prerequisites to be given a special community role in your settlement. "
+  },
+  {
+    "key": "warning_message_short_role_hour",
+    "type": 0,
+    "en": "Role Duties Schedule",
+    "vi": "Role Duties Schedule"
+  },
+  {
+    "key": "warning_message_info_role_hour",
+    "type": 0,
+    "en": "One or more settlers have role duties scheduled during the day, but have no role assigned to them. Assign a role to them or replace the role duty hours with another activity. ",
+    "vi": "One or more settlers have role duties scheduled during the day, but have no role assigned to them. Assign a role to them or replace the role duty hours with another activity. "
+  },
+  {
+    "key": "warning_message_short_no_role_hour",
+    "type": 0,
+    "en": "Role Duties Schedule Missing",
+    "vi": "Role Duties Schedule Missing"
+  },
+  {
+    "key": "warning_message_info_no_role_hour",
+    "type": 0,
+    "en": "One or more of your settlers with assigned roles don't have role-appointed hours. Some roles need role-appointed hours for role-specific tasks.",
+    "vi": "One or more of your settlers with assigned roles don't have role-appointed hours. Some roles need role-appointed hours for role-specific tasks."
+  },
+  {
+    "key": "warning_message_short_event_possible",
+    "type": 0,
+    "en": "Hold an Event",
+    "vi": "Hold an Event"
+  },
+  {
+    "key": "warning_message_info_event_possible",
+    "type": 0,
+    "en": "One or more event types are available to your settlement. Select the appropriate structure to initiate an event there.",
+    "vi": "One or more event types are available to your settlement. Select the appropriate structure to initiate an event there."
+  },
+  {
+    "key": "warning_message_short_prison_cell",
+    "type": 0,
+    "en": "<style=DefaultRed>Prison Cell Missing</style>",
+    "vi": "<style=DefaultRed>Prison Cell Missing</style>"
+  },
+  {
+    "key": "warning_message_info_prison_cell",
+    "type": 0,
+    "en": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell",
+    "vi": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell"
+  },
+  {
+    "key": "warning_message_short_prisoner_run",
+    "type": 0,
+    "en": "<style=DefaultRed>Runaway!</style>",
+    "vi": "<style=DefaultRed>Runaway!</style>"
+  },
+  {
+    "key": "warning_message_info_prisoner_run",
+    "type": 0,
+    "en": "Prisoners are running away! Order your gaolers to capture them. If runaways reach the edge of the map, they will be gone.",
+    "vi": "Prisoners are running away! Order your gaolers to capture them. If runaways reach the edge of the map, they will be gone."
+  },
+  {
+    "key": "warning_message_short_gaoler_missing",
+    "type": 0,
+    "en": "Gaoler Needed",
+    "vi": "Gaoler Needed"
+  },
+  {
+    "key": "warning_message_info_gaoler_missing",
+    "type": 0,
+    "en": "You have prisoners but no Gaoler. This means food will not be delivered to prisoners, nor will thay be escorted to their cells. Assign this job to one or more of your settlers. ",
+    "vi": "You have prisoners but no Gaoler. This means food will not be delivered to prisoners, nor will thay be escorted to their cells. Assign this job to one or more of your settlers. "
+  },
+  {
+    "key": "warning_message_short_crop_blight",
+    "type": 0,
+    "en": "<style=DefaultRed>Blighted crops</style>",
+    "vi": "<style=DefaultRed>Blighted crops</style>"
+  },
+  {
+    "key": "warning_message_info_crop_blight",
+    "type": 0,
+    "en": "Order your settlers to cut down spoiled crops before the blight spreads.",
+    "vi": "Order your settlers to cut down spoiled crops before the blight spreads."
+  },
+  {
+    "key": "warning_message_short_fire",
+    "type": 0,
+    "en": "<style=DefaultRed>Fire!</style>",
+    "vi": "<style=DefaultRed>Fire!</style>"
+  },
+  {
+    "key": "warning_message_info_fire",
+    "type": 0,
+    "en": "A fire has broken out! Extinguish the flames before they spread and damage your settlement.",
+    "vi": "A fire has broken out! Extinguish the flames before they spread and damage your settlement."
+  },
+  {
+    "key": "warning_message_short_enemy_siege",
+    "type": 0,
+    "en": "<style=DefaultRed>Enemy Siege Weapons!</style>",
+    "vi": "<style=DefaultRed>Enemy Siege Weapons!</style>"
+  },
+  {
+    "key": "warning_message_info_enemy_siege",
+    "type": 0,
+    "en": "Enemies have one or more siege weapons. Try to destroy them with your own siege weapons or try to disable them by taking out the enemy that is operating it",
+    "vi": "Enemies have one or more siege weapons. Try to destroy them with your own siege weapons or try to disable them by taking out the enemy that is operating it"
+  },
+  {
+    "key": "warning_message_pass_through_destroyed",
+    "type": 0,
+    "en": "Fence Breach!",
+    "vi": "Fence Breach!"
+  },
+  {
+    "key": "warning_message_info_pass_through_destroyed",
+    "type": 0,
+    "en": "Someone or something has pulled down your fence",
+    "vi": "Someone or something has pulled down your fence"
+  },
+  {
+    "key": "warning_message_short_EndGameEvent",
+    "type": 0,
+    "en": "Endgame Event",
+    "vi": "Endgame Event"
+  },
+  {
+    "key": "warning_message_info_EndGameEvent",
+    "type": 0,
+    "en": "You have triggered the endgame event. Soon, others will arrive to play their parts as you fulfil your destiny.",
+    "vi": "You have triggered the endgame event. Soon, others will arrive to play their parts as you fulfil your destiny."
+  },
+  {
+    "key": "warning_message_warden_recruit",
+    "type": 0,
+    "en": "Cannot Recruit Prisoner",
+    "vi": "Cannot Recruit Prisoner"
+  },
+  {
+    "key": "warning_message_info_warden_recruit",
+    "type": 0,
+    "en": "Assign a settler the Prison Warden role. They will try to recruit prisoners to become villagers in your settlement. The Warden will try this only during role appointed hours.",
+    "vi": "Assign a settler the Prison Warden role. They will try to recruit prisoners to become villagers in your settlement. The Warden will try this only during role appointed hours."
+  },
+  {
+    "key": "warning_message_short_beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "warning_message_info_beggar",
+    "type": 0,
+    "en": "A beggar arrived and is roaming your settlement ",
+    "vi": "A beggar arrived and is roaming your settlement "
+  },
+  {
+    "key": "warning_message_short_map_markers_available",
+    "type": 0,
+    "en": "Points of interest available",
+    "vi": "Points of interest available"
+  },
+  {
+    "key": "warning_message_info_map_markers_available",
+    "type": 0,
+    "en": "You have various points of interest marked on your regional map",
+    "vi": "You have various points of interest marked on your regional map"
+  },
+  {
+    "key": "warning_message_tooltip_map_markers_available",
+    "type": 0,
+    "en": "Points of interest on regional map: ",
+    "vi": "Points of interest on regional map: "
+  },
+  {
+    "key": "warning_message_short_ambush",
+    "type": 0,
+    "en": "<style=DefaultRed>Ambush</style>",
+    "vi": "<style=DefaultRed>Ambush</style>"
+  },
+  {
+    "key": "warning_message_info_ambush",
+    "type": 0,
+    "en": "One of your caravans is under attack. Choose what to do, or the caravan will automatically surrender when the time's up.",
+    "vi": "One of your caravans is under attack. Choose what to do, or the caravan will automatically surrender when the time's up."
+  },
+  {
+    "key": "warning_message_short_caravan_leave",
+    "type": 0,
+    "en": "Caravan must depart",
+    "vi": "Caravan must depart"
+  },
+  {
+    "key": "warning_message_info_caravan_leave",
+    "type": 0,
+    "en": "Your caravan must keep moving. When the timer runs out, your settler will be sent back home. ",
+    "vi": "Your caravan must keep moving. When the timer runs out, your settler will be sent back home. "
+  },
+  {
+    "key": "warning_message_short_visitor",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Visitor"
+  },
+  {
+    "key": "warning_message_info_visitor",
+    "type": 0,
+    "en": "<village_name> has a visitor from a friendly or neutral faction. If they hold a community role, you can hold a special event relevant to their expertise. Inviting them gives a better quality experience.",
+    "vi": "<village_name> has a visitor from a friendly or neutral faction. If they hold a community role, you can hold a special event relevant to their expertise. Inviting them gives a better quality experience."
+  },
+  {
+    "key": "warning_message_short_NegotiationCountdown",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Negotiator"
+  },
+  {
+    "key": "warning_message_info_NegotiationCountdown",
+    "type": 0,
+    "en": "A negotiator has arrived at the edge of your settlement. Send a settler to speak with [him/her]. To initiate negotiation, select a settler and <sprite=\"ctrl_right_click\" index=t> on the negotiator, then select the  <b>Negotiate with</b> option.",
+    "vi": "A negotiator has arrived at the edge of your settlement. Send a settler to speak with [him/her]. To initiate negotiation, select a settler and <sprite=\"ctrl_right_click\" index=t> on the negotiator, then select the  <b>Negotiate with</b> option."
+  },
+  {
+    "key": "info_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Temperature"
+  },
+  {
+    "key": "dev_warning_messages",
+    "type": 0,
+    "en": "Warning Messages",
+    "vi": "Warning Messages"
+  },
+  {
+    "key": "dev_create_warning",
+    "type": 0,
+    "en": "Create Warning Messages",
+    "vi": "Create Warning Messages"
+  },
+  {
+    "key": "dev_update_warning",
+    "type": 0,
+    "en": "Update Warnings",
+    "vi": "Update Warnings"
+  },
+  {
+    "key": "dev_remove_warning",
+    "type": 0,
+    "en": "Remove Warnings",
+    "vi": "Remove Warnings"
+  },
+  {
+    "key": "dev_tooltip_create_warning_messages",
+    "type": 0,
+    "en": "Creates random Warning messages.",
+    "vi": "Creates random Warning messages."
+  },
+  {
+    "key": "dev_tooltip_test_update_warnings",
+    "type": 0,
+    "en": "Updates warning Messages.",
+    "vi": "Updates warning Messages."
+  },
+  {
+    "key": "dev_tooltip_test_remove_warnings",
+    "type": 0,
+    "en": "Removes all warning Messages momentarily.",
+    "vi": "Removes all warning Messages momentarily."
+  }
+]

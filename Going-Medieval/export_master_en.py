@@ -2,6 +2,7 @@ import os
 import json
 import csv
 import struct
+import math
 
 def export_all():
     i2_bin_path = r'C:\Users\nam\.gemini\antigravity-ide\brain\2388ad27-36d6-43c6-856f-5ebe9484bfd1\scratch\i2languages.bin'
@@ -66,64 +67,99 @@ def export_all():
 
     print(f"Exported master_english.json and master_english.csv ({len(master_list)} terms).")
 
-    # Categorize into 7 modules
-    modules = {
-        "01_ui_menu.json": [],
-        "02_buildings_construction.json": [],
-        "03_items_equipment.json": [],
-        "04_settlers_jobs_combat.json": [],
-        "05_events_trading_factions.json": [],
-        "06_almanac_lore.json": [],
-        "07_tutorials_scenarios.json": []
-    }
-
-    def categorize(key, en):
-        k = key.lower()
-        if k.startswith(('tutorial_', 'scenario_', 'scenarios_', 'tip_', 'gameplay_tip_')) or 'tutorial' in k or 'scenario' in k:
-            return "07_tutorials_scenarios.json"
-        if k.startswith(('almanac_', 'almanacentry_', 'lore_', 'history_', 'chronicle_')) or 'almanac' in k:
-            return "06_almanac_lore.json"
-        if k.startswith(('event_', 'gameevent_', 'eventoption_', 'eventeffect_', 'eventreaction_', 'trading_', 'merchant_', 'faction_', 'caravan_', 'barter_', 'diplomacy_')) or 'faction' in k or 'merchant' in k:
-            return "05_events_trading_factions.json"
-        if k.startswith(('building_', 'structure_', 'construct_', 'room_', 'roomtype_', 'roof_', 'wall_', 'floor_', 'door_', 'window_', 'stair_', 'furniture_', 'decoration_', 'stability_')) or 'building' in k or 'construct' in k or 'room' in k:
-            return "02_buildings_construction.json"
-        if k.startswith(('item_', 'equipment_', 'weapon_', 'armor_', 'garment_', 'shield_', 'resource_', 'food_', 'meal_', 'crop_', 'plant_', 'animal_', 'seed_', 'material_', 'quality_')) or 'weapon' in k or 'armor' in k or 'resource' in k:
-            return "03_items_equipment.json"
-        if k.startswith(('settler_', 'worker_', 'job_', 'role_', 'skill_', 'perk_', 'trait_', 'attribute_', 'stat_', 'mood_', 'need_', 'thought_', 'religion_', 'alignment_', 'combat_', 'wound_', 'injury_', 'effect_', 'action_')) or 'skill' in k or 'perk' in k or 'job' in k or 'combat' in k or 'mood' in k:
-            return "04_settlers_jobs_combat.json"
-        return "01_ui_menu.json"
-
     # Preserve existing translations if any JSON file already has non-empty/different 'vi'
     existing_trans = {}
-    for mod_file in os.listdir(trans_dir):
-        if mod_file.endswith('.json'):
-            p = os.path.join(trans_dir, mod_file)
-            try:
-                with open(p, 'r', encoding='utf-8') as f:
-                    entries = json.load(f)
-                    for e in entries:
-                        if isinstance(e, dict) and e.get("vi") and e.get("vi") != e.get("en"):
-                            existing_trans[e["key"]] = e["vi"]
-            except Exception:
-                pass
+    if os.path.exists(trans_dir):
+        for f in os.listdir(trans_dir):
+            if f.endswith('.json'):
+                p = os.path.join(trans_dir, f)
+                try:
+                    with open(p, 'r', encoding='utf-8') as fp:
+                        entries = json.load(fp)
+                        for e in entries:
+                            if isinstance(e, dict) and e.get("vi") and e.get("vi") != e.get("en"):
+                                existing_trans[e["key"]] = e["vi"]
+                except Exception:
+                    pass
+
+    categories = {
+        "tutorials_scenarios": [],
+        "almanac_lore": [],
+        "events_factions_trade": [],
+        "settlers_skills_perks": [],
+        "settlers_combat_mood_health": [],
+        "buildings_construction": [],
+        "furniture_rooms_decor": [],
+        "items_weapons_armor": [],
+        "items_resources_food": [],
+        "ui_main_menu_settings": [],
+        "ui_hud_controls": [],
+        "ui_alerts_notifications": [],
+        "ui_general": []
+    }
 
     for item in master_list:
         k = item["key"]
         en = item["en"]
-        mod_name = categorize(k, en)
+        kl = k.lower()
+        
         vi_val = existing_trans.get(k, en)
-        modules[mod_name].append({
+        entry = {
             "key": k,
-            "type": item["type"],
+            "type": item.get("type", 0),
             "en": en,
             "vi": vi_val
-        })
+        }
+        
+        if kl.startswith(('tutorial_', 'scenario_', 'scenarios_', 'tip_', 'gameplay_tip_')) or 'tutorial' in kl or 'scenario' in kl:
+            categories["tutorials_scenarios"].append(entry)
+        elif kl.startswith(('almanac_', 'almanacentry_', 'lore_', 'history_', 'chronicle_')) or 'almanac' in kl:
+            categories["almanac_lore"].append(entry)
+        elif kl.startswith(('event_', 'gameevent_', 'eventoption_', 'eventeffect_', 'eventreaction_', 'trading_', 'merchant_', 'faction_', 'caravan_', 'barter_', 'diplomacy_')) or 'faction' in kl or 'merchant' in kl or 'raid' in kl:
+            categories["events_factions_trade"].append(entry)
+        elif kl.startswith(('skill_', 'perk_', 'trait_', 'job_', 'role_', 'attribute_', 'profession_')) or 'skill' in kl or 'perk' in kl:
+            categories["settlers_skills_perks"].append(entry)
+        elif kl.startswith(('mood_', 'need_', 'thought_', 'religion_', 'alignment_', 'combat_', 'wound_', 'injury_', 'effect_', 'action_', 'health_')) or 'combat' in kl or 'mood' in kl or 'injury' in kl:
+            categories["settlers_combat_mood_health"].append(entry)
+        elif kl.startswith(('building_', 'structure_', 'construct_', 'roof_', 'wall_', 'floor_', 'door_', 'window_', 'stair_', 'stability_')) or 'building' in kl or 'construct' in kl:
+            categories["buildings_construction"].append(entry)
+        elif kl.startswith(('room_', 'roomtype_', 'furniture_', 'decoration_', 'table_', 'bed_', 'light_', 'torch_', 'zone_')) or 'room' in kl or 'furniture' in kl:
+            categories["furniture_rooms_decor"].append(entry)
+        elif kl.startswith(('weapon_', 'armor_', 'garment_', 'shield_', 'helmet_', 'equipment_')) or 'weapon' in kl or 'armor' in kl:
+            categories["items_weapons_armor"].append(entry)
+        elif kl.startswith(('resource_', 'food_', 'meal_', 'crop_', 'plant_', 'animal_', 'seed_', 'material_', 'quality_', 'item_')) or 'resource' in kl or 'plant' in kl or 'animal' in kl:
+            categories["items_resources_food"].append(entry)
+        elif kl.startswith(('menu_', 'mainmenu_', 'settings_', 'setting_', 'option_', 'options_', 'audio_', 'graphics_', 'key_', 'keycode_', 'ctrl_')) or 'menu' in kl or 'settings' in kl:
+            categories["ui_main_menu_settings"].append(entry)
+        elif kl.startswith(('hud_', 'btn_', 'button_', 'panel_', 'tab_', 'toggle_', 'slider_', 'speed_', 'view_', 'camera_')) or 'hud' in kl or 'button' in kl:
+            categories["ui_hud_controls"].append(entry)
+        elif kl.startswith(('alert_', 'warning_', 'notify_', 'notification_', 'msg_', 'message_', 'info_', 'popup_', 'dialog_')) or 'warning' in kl or 'alert' in kl:
+            categories["ui_alerts_notifications"].append(entry)
+        else:
+            categories["ui_general"].append(entry)
 
-    for m, entries in modules.items():
-        p = os.path.join(trans_dir, m)
-        with open(p, 'w', encoding='utf-8') as f:
-            json.dump(entries, f, ensure_ascii=False, indent=2)
-        print(f"  Module {m}: {len(entries)} keys")
+    patch_list = []
+    CHUNK_SIZE = 450
+
+    for cat, items in categories.items():
+        if len(items) <= CHUNK_SIZE:
+            patch_list.append((cat, items))
+        else:
+            num_chunks = math.ceil(len(items) / CHUNK_SIZE)
+            for i in range(num_chunks):
+                sub_items = items[i*CHUNK_SIZE : (i+1)*CHUNK_SIZE]
+                patch_list.append((f"{cat}_part{i+1}", sub_items))
+
+    for f in os.listdir(trans_dir):
+        if f.endswith('.json'):
+            os.remove(os.path.join(trans_dir, f))
+
+    for idx, (pname, pitems) in enumerate(patch_list, 1):
+        fname = f"patch_{idx:02d}_{pname}.json"
+        fpath = os.path.join(trans_dir, fname)
+        with open(fpath, 'w', encoding='utf-8') as fp:
+            json.dump(pitems, fp, ensure_ascii=False, indent=2)
+        print(f"  Saved {fname}: {len(pitems)} keys")
 
 if __name__ == '__main__':
     export_all()

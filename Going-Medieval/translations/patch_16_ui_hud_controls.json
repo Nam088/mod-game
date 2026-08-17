@@ -1,0 +1,560 @@
+[
+  {
+    "key": "hud_info_show_stability_vis",
+    "type": 0,
+    "en": "Show stability values around cursor",
+    "vi": "Show stability values around cursor"
+  },
+  {
+    "key": "hud_info_area",
+    "type": 0,
+    "en": "Creates a stockpile where your settlers will store resources.",
+    "vi": "Creates a stockpile where your settlers will store resources."
+  },
+  {
+    "key": "hud_info_hide_roof",
+    "type": 0,
+    "en": "Hide roof elements in order to see inside.",
+    "vi": "Hide roof elements in order to see inside."
+  },
+  {
+    "key": "hud_info_jobs",
+    "type": 0,
+    "en": "Choose which job will each settler do.",
+    "vi": "Choose which job will each settler do."
+  },
+  {
+    "key": "hud_info_layer_down",
+    "type": 0,
+    "en": "View one layer down.",
+    "vi": "View one layer down."
+  },
+  {
+    "key": "hud_info_layer_up",
+    "type": 0,
+    "en": "View one layer up.",
+    "vi": "View one layer up."
+  },
+  {
+    "key": "hud_info_layer_additional",
+    "type": 0,
+    "en": "\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly move through layers.\\nUse [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that layer.",
+    "vi": "\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly move through layers.\\nUse [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that layer."
+  },
+  {
+    "key": "hud_info_camera_commands",
+    "type": 0,
+    "en": "Show camera controls",
+    "vi": "Show camera controls"
+  },
+  {
+    "key": "hud_info_lock_camera_target_layer",
+    "type": 0,
+    "en": "Lock camera target to current layer",
+    "vi": "Lock camera target to current layer"
+  },
+  {
+    "key": "hud_info_camera_layer_up",
+    "type": 0,
+    "en": "Camera lock layer up",
+    "vi": "Camera lock layer up"
+  },
+  {
+    "key": "hud_info_camera_layer_additional",
+    "type": 0,
+    "en": "\\nUse [<style=Shortcut>Shift</style>] + [<style=Shortcut>Mouse wheel</style>] to change what <style=DefaultBlue>layers</style> the camera is locked to.",
+    "vi": "\\nUse [<style=Shortcut>Shift</style>] + [<style=Shortcut>Mouse wheel</style>] to change what <style=DefaultBlue>layers</style> the camera is locked to."
+  },
+  {
+    "key": "hud_info_camera_layer_down",
+    "type": 0,
+    "en": "Camera lock layer down",
+    "vi": "Camera lock layer down"
+  },
+  {
+    "key": "camera_locked",
+    "type": 0,
+    "en": "Camera target is now locked to layer <layer_number>",
+    "vi": "Camera target is now locked to layer <layer_number>"
+  },
+  {
+    "key": "camera_unlocked",
+    "type": 0,
+    "en": "Camera is no longer height locked",
+    "vi": "Camera is no longer height locked"
+  },
+  {
+    "key": "hud_info_order_allow",
+    "type": 0,
+    "en": "Select piles to allow/forbid settlers from using them.",
+    "vi": "Select piles to allow/forbid settlers from using them."
+  },
+  {
+    "key": "hud_lb_order_UrgentHaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Urgent Haul"
+  },
+  {
+    "key": "hud_info_order_UrgentHaul",
+    "type": 0,
+    "en": "Mark piles and items needing to be hauled urgently",
+    "vi": "Mark piles and items needing to be hauled urgently"
+  },
+  {
+    "key": "hud_info_order_cancel",
+    "type": 0,
+    "en": "Cancel given orders.",
+    "vi": "Cancel given orders."
+  },
+  {
+    "key": "hud_info_order_chopping",
+    "type": 0,
+    "en": "Designate trees to be chopped down.",
+    "vi": "Designate trees to be chopped down."
+  },
+  {
+    "key": "hud_info_order_cleaning",
+    "type": 0,
+    "en": "PH Description",
+    "vi": "PH Description"
+  },
+  {
+    "key": "hud_info_order_clearall",
+    "type": 0,
+    "en": "Designate all objects to be chopped, cut or mined.",
+    "vi": "Designate all objects to be chopped, cut or mined."
+  },
+  {
+    "key": "hud_info_order_createcrops",
+    "type": 0,
+    "en": "Create plant growing area.",
+    "vi": "Create plant growing area."
+  },
+  {
+    "key": "hud_info_order_cutallvegetation",
+    "type": 0,
+    "en": "Designate plants to be cut down.",
+    "vi": "Designate plants to be cut down."
+  },
+  {
+    "key": "hud_info_order_cutting",
+    "type": 0,
+    "en": "Designate area of vegetation to be cut down and harvested.",
+    "vi": "Designate area of vegetation to be cut down and harvested."
+  },
+  {
+    "key": "hud_info_order_digging",
+    "type": 0,
+    "en": "Mark areas of terrain to be mined.",
+    "vi": "Mark areas of terrain to be mined."
+  },
+  {
+    "key": "hud_info_order_tame",
+    "type": 0,
+    "en": "Mark animals for your settlers to domesticate.",
+    "vi": "Mark animals for your settlers to domesticate."
+  },
+  {
+    "key": "hud_info_order_train",
+    "type": 0,
+    "en": "Mark animals for your settlers to train as pets.",
+    "vi": "Mark animals for your settlers to train as pets."
+  },
+  {
+    "key": "hud_info_order_slaughter",
+    "type": 0,
+    "en": "Mark animals for slaughter.",
+    "vi": "Mark animals for slaughter."
+  },
+  {
+    "key": "hud_info_order_release",
+    "type": 0,
+    "en": "Mark animals to be set free. (They will become wild animals and roam around the map.)",
+    "vi": "Mark animals to be set free. (They will become wild animals and roam around the map.)"
+  },
+  {
+    "key": "hud_info_order_harvesting",
+    "type": 0,
+    "en": "Designate plants to be harvested.",
+    "vi": "Designate plants to be harvested."
+  },
+  {
+    "key": "hud_info_order_hunting",
+    "type": 0,
+    "en": "Mark animals for your hunters to target.",
+    "vi": "Mark animals for your hunters to target."
+  },
+  {
+    "key": "hud_info_order_minevoxel",
+    "type": 0,
+    "en": "Dig deeper into the ground.",
+    "vi": "Dig deeper into the ground."
+  },
+  {
+    "key": "hud_info_order_mining",
+    "type": 0,
+    "en": "Designate rock, iron and clay deposits to be mined.",
+    "vi": "Designate rock, iron and clay deposits to be mined."
+  },
+  {
+    "key": "hud_info_orders",
+    "type": 0,
+    "en": "Order that you can give your settlers.",
+    "vi": "Order that you can give your settlers."
+  },
+  {
+    "key": "hud_info_pause",
+    "type": 0,
+    "en": "Pause the game.",
+    "vi": "Pause the game."
+  },
+  {
+    "key": "hud_info_report",
+    "type": 0,
+    "en": "Help us out by sending us bug reports, requests, or general comments. A serf may well read them.",
+    "vi": "Help us out by sending us bug reports, requests, or general comments. A serf may well read them."
+  },
+  {
+    "key": "hud_info_research",
+    "type": 0,
+    "en": "Choose what to unlock with your accumulated knowledge.",
+    "vi": "Choose what to unlock with your accumulated knowledge."
+  },
+  {
+    "key": "hud_info_schedule",
+    "type": 0,
+    "en": "Set up settlers' daily routine.",
+    "vi": "Set up settlers' daily routine."
+  },
+  {
+    "key": "hud_info_speed_01",
+    "type": 0,
+    "en": "Game speed normal",
+    "vi": "Game speed normal"
+  },
+  {
+    "key": "hud_info_speed_02",
+    "type": 0,
+    "en": "Game speed X2",
+    "vi": "Game speed X2"
+  },
+  {
+    "key": "hud_info_speed_03",
+    "type": 0,
+    "en": "Game speed X5",
+    "vi": "Game speed X5"
+  },
+  {
+    "key": "hud_lb_area",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Stockpile"
+  },
+  {
+    "key": "hud_lb_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "hud_lb_world",
+    "type": 0,
+    "en": "Region",
+    "vi": "Region"
+  },
+  {
+    "key": "hud_info_world",
+    "type": 0,
+    "en": "View region map and neighbouring settlements.",
+    "vi": "View region map and neighbouring settlements."
+  },
+  {
+    "key": "hud_lb_view_region",
+    "type": 0,
+    "en": "View Region",
+    "vi": "View Region"
+  },
+  {
+    "key": "hud_lb_view_map",
+    "type": 0,
+    "en": "View Map",
+    "vi": "View Map"
+  },
+  {
+    "key": "hud_lb_map",
+    "type": 0,
+    "en": "Map Preview",
+    "vi": "Map Preview"
+  },
+  {
+    "key": "hud_lb_order_allow",
+    "type": 0,
+    "en": "Allow",
+    "vi": "Allow"
+  },
+  {
+    "key": "hud_lb_order_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Cancel"
+  },
+  {
+    "key": "hud_lb_order_chopping",
+    "type": 0,
+    "en": "Chop",
+    "vi": "Chop"
+  },
+  {
+    "key": "hud_lb_order_cleaning",
+    "type": 0,
+    "en": "Clean",
+    "vi": "Clean"
+  },
+  {
+    "key": "hud_lb_order_createcrops",
+    "type": 0,
+    "en": "Plant crops",
+    "vi": "Plant crops"
+  },
+  {
+    "key": "hud_lb_order_cutallvegetation",
+    "type": 0,
+    "en": "Cut plants",
+    "vi": "Cut plants"
+  },
+  {
+    "key": "hud_lb_order_cutting",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cut"
+  },
+  {
+    "key": "hud_lb_order_digging",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "hud_lb_order_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Harvest"
+  },
+  {
+    "key": "hud_lb_order_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Hunt"
+  },
+  {
+    "key": "hud_lb_order_minevoxel",
+    "type": 0,
+    "en": "Dig ",
+    "vi": "Dig "
+  },
+  {
+    "key": "hud_lb_order_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "hud_lb_orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Orders"
+  },
+  {
+    "key": "hud_lb_orders_all",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Orders"
+  },
+  {
+    "key": "hud_lb_pile",
+    "type": 0,
+    "en": "Pile",
+    "vi": "Pile"
+  },
+  {
+    "key": "hud_lb_report",
+    "type": 0,
+    "en": "Report bugs or send feedback.",
+    "vi": "Report bugs or send feedback."
+  },
+  {
+    "key": "hud_lb_report_title",
+    "type": 0,
+    "en": "Report",
+    "vi": "Report"
+  },
+  {
+    "key": "hud_lb_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Research"
+  },
+  {
+    "key": "hud_lb_schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Schedule"
+  },
+  {
+    "key": "hud_info_hide_zoneGrid",
+    "type": 0,
+    "en": "Show coloured grid overlay for zones.",
+    "vi": "Show coloured grid overlay for zones."
+  },
+  {
+    "key": "hud_info_show_beauty_heatmap",
+    "type": 0,
+    "en": "Show aesthetic heatmap.",
+    "vi": "Show aesthetic heatmap."
+  },
+  {
+    "key": "hud_info_hide_trees",
+    "type": 0,
+    "en": "Hide tree tops.",
+    "vi": "Hide tree tops."
+  },
+  {
+    "key": "hud_info_hide_item_indicator",
+    "type": 0,
+    "en": "Show item indicators.",
+    "vi": "Show item indicators."
+  },
+  {
+    "key": "hud_lb_Manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Manage"
+  },
+  {
+    "key": "hud_info_Manage",
+    "type": 0,
+    "en": "Manage what your settlers auto-equip and consume.",
+    "vi": "Manage what your settlers auto-equip and consume."
+  },
+  {
+    "key": "hud_lb_HistoricRecords",
+    "type": 0,
+    "en": "Historical Records",
+    "vi": "Historical Records"
+  },
+  {
+    "key": "hud_info_HistoricRecords",
+    "type": 0,
+    "en": "View statistic and historical records of your settlement.",
+    "vi": "View statistic and historical records of your settlement."
+  },
+  {
+    "key": "hud_lb_takePhoto",
+    "type": 0,
+    "en": "Take screenshot",
+    "vi": "Take screenshot"
+  },
+  {
+    "key": "hud_info_takePhoto",
+    "type": 0,
+    "en": "Take screenshot and save to hard drive",
+    "vi": "Take screenshot and save to hard drive"
+  },
+  {
+    "key": "hud_lb_toggleUi",
+    "type": 0,
+    "en": "Toggle UI",
+    "vi": "Toggle UI"
+  },
+  {
+    "key": "hud_info_toggleUi",
+    "type": 0,
+    "en": "Show/Hide User Interface elements on this screen",
+    "vi": "Show/Hide User Interface elements on this screen"
+  },
+  {
+    "key": "hud_lb_PhotoMode",
+    "type": 0,
+    "en": "Screenshot Mode",
+    "vi": "Screenshot Mode"
+  },
+  {
+    "key": "hud_info_PhotoMode",
+    "type": 0,
+    "en": "Toggle Screenshot Mode view.",
+    "vi": "Toggle Screenshot Mode view."
+  },
+  {
+    "key": "hud_info_overview",
+    "type": 0,
+    "en": "A useful overview of your animals, resources, and more.",
+    "vi": "A useful overview of your animals, resources, and more."
+  },
+  {
+    "key": "hud_info_show_temperature_heatmap",
+    "type": 0,
+    "en": "Show temperature heatmap.",
+    "vi": "Show temperature heatmap."
+  },
+  {
+    "key": "hud_info_order_fishing",
+    "type": 0,
+    "en": "Mark schools of fish for settlers to catch",
+    "vi": "Mark schools of fish for settlers to catch"
+  },
+  {
+    "key": "hud_lb_order_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Fish"
+  },
+  {
+    "key": "hud_lb_order_off_shackless",
+    "type": 0,
+    "en": "Prioritise: Remove Shackle",
+    "vi": "Prioritise: Remove Shackle"
+  },
+  {
+    "key": "hud_lb_leave_map",
+    "type": 0,
+    "en": "Leave",
+    "vi": "Leave"
+  },
+  {
+    "key": "hud_lb_leave_map_desc",
+    "type": 0,
+    "en": "Muster your caravan and leave location ",
+    "vi": "Muster your caravan and leave location "
+  },
+  {
+    "key": "hud_info_show_hide_forbidden_blueprints",
+    "type": 0,
+    "en": "Show/Hide forbidden blueprints",
+    "vi": "Show/Hide forbidden blueprints"
+  },
+  {
+    "key": "twitch_auth_button",
+    "type": 0,
+    "en": "Log in",
+    "vi": "Log in"
+  },
+  {
+    "key": "twitch_drops_button",
+    "type": 0,
+    "en": "Get drops",
+    "vi": "Get drops"
+  },
+  {
+    "key": "save_migration_button",
+    "type": 0,
+    "en": "Migrate Save File",
+    "vi": "Migrate Save File"
+  },
+  {
+    "key": "hud_lb_targeted_by",
+    "type": 0,
+    "en": "Targeted by",
+    "vi": "Targeted by"
+  }
+]

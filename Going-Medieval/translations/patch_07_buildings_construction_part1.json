@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "uprade_building_title",
+    "type": 0,
+    "en": "Replace structures",
+    "vi": "Replace structures"
+  },
+  {
+    "key": "uprade_building_info",
+    "type": 0,
+    "en": "Choose what structure will be replaced. \nSome structures might not appear in the list, and some structures don't have a replace option. \nSome replacement options might not be possible if the necessary construction materials are not available.",
+    "vi": "Choose what structure will be replaced. \nSome structures might not appear in the list, and some structures don't have a replace option. \nSome replacement options might not be possible if the necessary construction materials are not available."
+  },
+  {
+    "key": "uprade_building_selected",
+    "type": 0,
+    "en": "Selected",
+    "vi": "Selected"
+  },
+  {
+    "key": "uprade_building_possible",
+    "type": 0,
+    "en": "Possible Replacements",
+    "vi": "Possible Replacements"
+  },
+  {
+    "key": "ctrl_UpgradeBuilding",
+    "type": 0,
+    "en": "Not for sale",
+    "vi": "Not for sale"
+  },
+  {
+    "key": "window_state_open",
+    "type": 0,
+    "en": "Open",
+    "vi": "Open"
+  },
+  {
+    "key": "window_state_closed",
+    "type": 0,
+    "en": "Closed",
+    "vi": "Closed"
+  },
+  {
+    "key": "building_damage",
+    "type": 0,
+    "en": "Building Damage",
+    "vi": "Building Damage"
+  },
+  {
+    "key": "building_error_not_reachable",
+    "type": 0,
+    "en": "Building can't be reached",
+    "vi": "Building can't be reached"
+  },
+  {
+    "key": "building_error_no_resources",
+    "type": 0,
+    "en": "Not enough allowed resources",
+    "vi": "Not enough allowed resources"
+  },
+  {
+    "key": "building_phase_0",
+    "type": 0,
+    "en": "BLUEPRINT",
+    "vi": "BLUEPRINT"
+  },
+  {
+    "key": "building_phase_1",
+    "type": 0,
+    "en": "Blueprint phase",
+    "vi": "Blueprint phase"
+  },
+  {
+    "key": "building_phase_2",
+    "type": 0,
+    "en": "Building phase",
+    "vi": "Building phase"
+  },
+  {
+    "key": "hud_info_order_deconstructing",
+    "type": 0,
+    "en": "Mark buildings for deconstruction.",
+    "vi": "Mark buildings for deconstruction."
+  },
+  {
+    "key": "hud_lb_order_deconstructing",
+    "type": 0,
+    "en": "Deconstruct",
+    "vi": "Deconstruct"
+  },
+  {
+    "key": "menu_construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Construction"
+  },
+  {
+    "key": "stability_link",
+    "type": 0,
+    "en": "<LinkAlmanac=\"Systemstability\">Stability</link>",
+    "vi": "<LinkAlmanac=\"Systemstability\">Stability</link>"
+  },
+  {
+    "key": "building_info_resources_needed",
+    "type": 0,
+    "en": "Resources Needed",
+    "vi": "Resources Needed"
+  },
+  {
+    "key": "BuildingWealth_title",
+    "type": 0,
+    "en": "Buildings Value",
+    "vi": "Buildings Value"
+  },
+  {
+    "key": "BuildingWealth_info",
+    "type": 0,
+    "en": "Combined value of all buildings through time",
+    "vi": "Combined value of all buildings through time"
+  },
+  {
+    "key": "buildings_destroyed",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Buildings destroyed"
+  },
+  {
+    "key": "enemy_buildings_destroyed",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Buildings destroyed"
+  },
+  {
+    "key": "allbuildings_deconstruct",
+    "type": 0,
+    "en": "Select all buildings",
+    "vi": "Select all buildings"
+  },
+  {
+    "key": "floors_deconstruct",
+    "type": 0,
+    "en": "Select floors only",
+    "vi": "Select floors only"
+  },
+  {
+    "key": "walls_deconstruct",
+    "type": 0,
+    "en": "Select walls only",
+    "vi": "Select walls only"
+  },
+  {
+    "key": "roofs_deconstruct",
+    "type": 0,
+    "en": "Select roofs only",
+    "vi": "Select roofs only"
+  },
+  {
+    "key": "workbenchfurniture_deconstruct",
+    "type": 0,
+    "en": "Select workbenches/furniture only",
+    "vi": "Select workbenches/furniture only"
+  },
+  {
+    "key": "structure_change_state",
+    "type": 0,
+    "en": "A settler assigned as a steward will change the state of this structure to",
+    "vi": "A settler assigned as a steward will change the state of this structure to"
+  },
+  {
+    "key": "door_broken",
+    "type": 0,
+    "en": "This structure is broken and its status cannot be changed until it is repaired to 80% of max HP.",
+    "vi": "This structure is broken and its status cannot be changed until it is repaired to 80% of max HP."
+  },
+  {
+    "key": "structure_info_uninstall",
+    "type": 0,
+    "en": "A settler will remove this structure.",
+    "vi": "A settler will remove this structure."
+  },
+  {
+    "key": "building_mesh_var_title",
+    "type": 0,
+    "en": "Variations",
+    "vi": "Variations"
+  },
+  {
+    "key": "building_mesh_var_info",
+    "type": 0,
+    "en": "Change the structure's appearance. The visual change will not influence gameplay in any way.",
+    "vi": "Change the structure's appearance. The visual change will not influence gameplay in any way."
+  },
+  {
+    "key": "building_mesh_var_shape",
+    "type": 0,
+    "en": "Shape variation",
+    "vi": "Shape variation"
+  },
+  {
+    "key": "building_mesh_var_material",
+    "type": 0,
+    "en": "Material variation",
+    "vi": "Material variation"
+  },
+  {
+    "key": "building_mesh_var_rotate",
+    "type": 0,
+    "en": "Rotate Shape",
+    "vi": "Rotate Shape"
+  },
+  {
+    "key": "building_mesh_var_mirror",
+    "type": 0,
+    "en": "Flip Shape",
+    "vi": "Flip Shape"
+  },
+  {
+    "key": "building_mesh_automatic_change",
+    "type": 0,
+    "en": "Automatic shape change",
+    "vi": "Automatic shape change"
+  },
+  {
+    "key": "building_mesh_automatic_change_info",
+    "type": 0,
+    "en": "When activated, the structure will change shape depending on adjacent structures of the same type. Making manual changes will deactivate this feature.",
+    "vi": "When activated, the structure will change shape depending on adjacent structures of the same type. Making manual changes will deactivate this feature."
+  },
+  {
+    "key": "structure_in_water",
+    "type": 0,
+    "en": "In Water",
+    "vi": "In Water"
+  },
+  {
+    "key": "building_heat_damage_threshold",
+    "type": 0,
+    "en": "Heat threshold",
+    "vi": "Heat threshold"
+  },
+  {
+    "key": "building_heat_damage",
+    "type": 0,
+    "en": "Heat damage per second ",
+    "vi": "Heat damage per second "
+  },
+  {
+    "key": "building_temperature",
+    "type": 0,
+    "en": "Average temperature of structure",
+    "vi": "Average temperature of structure"
+  },
+  {
+    "key": "structure_info_well",
+    "type": 0,
+    "en": "Well structures only operate if the wellshaft can reach water on any level beneath it.",
+    "vi": "Well structures only operate if the wellshaft can reach water on any level beneath it."
+  },
+  {
+    "key": "buildings_lost",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Buildings destroyed"
+  },
+  {
+    "key": "used_for_constructing",
+    "type": 0,
+    "en": "Used for constructing",
+    "vi": "Used for constructing"
+  },
+  {
+    "key": "building_locked_info",
+    "type": 0,
+    "en": "{0} is not available to construct. Unlock it in the Research menu.",
+    "vi": "{0} is not available to construct. Unlock it in the Research menu."
+  },
+  {
+    "key": "building_no_material_info",
+    "type": 0,
+    "en": "{0} is not available to construct: Lacking required materials. ",
+    "vi": "{0} is not available to construct: Lacking required materials. "
+  },
+  {
+    "key": "gameplay_tips_construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Construction"
+  },
+  {
+    "key": "gameplay_tips_construction_info",
+    "type": 0,
+    "en": "- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut><input:Base></style>] in a rectangle.\\n- Add a wooden door and a thatched roof (from the same panel) over it.\\n- Place sleeping spots for your settlers found in the furniture panel [<style=Shortcut><input:Furniture></style>] inside.\\n- Use Plan Mode to place blueprints as <LinkAlmanac=\"Gameplaytipsforbid\">forbidden</link> to prepare for construction.",
+    "vi": "- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut><input:Base></style>] in a rectangle.\\n- Add a wooden door and a thatched roof (from the same panel) over it.\\n- Place sleeping spots for your settlers found in the furniture panel [<style=Shortcut><input:Furniture></style>] inside.\\n- Use Plan Mode to place blueprints as <LinkAlmanac=\"Gameplaytipsforbid\">forbidden</link> to prepare for construction."
+  },
+  {
+    "key": "tut_drag_place_building",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place the Default Stockpile on the highlighted area",
+    "vi": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place the Default Stockpile on the highlighted area"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedConstructionPositive",
+    "type": 0,
+    "en": "[He/She] did some hilariously poor construction",
+    "vi": "[He/She] did some hilariously poor construction"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedConstructionNegative",
+    "type": 0,
+    "en": "[He/She] did some worryingly poor construction",
+    "vi": "[He/She] did some worryingly poor construction"
+  },
+  {
+    "key": "prioritise_building_material_delivery",
+    "type": 0,
+    "en": "Prioritise delivering resource to build site:",
+    "vi": "Prioritise delivering resource to build site:"
+  },
+  {
+    "key": "prioritise_building_construction",
+    "type": 0,
+    "en": "Prioritise constructing:",
+    "vi": "Prioritise constructing:"
+  },
+  {
+    "key": "prioritise_building_deconstruction",
+    "type": 0,
+    "en": "Prioritise deconstructing:",
+    "vi": "Prioritise deconstructing:"
+  },
+  {
+    "key": "already_working_on_building",
+    "type": 0,
+    "en": "This settler is already working on this building",
+    "vi": "This settler is already working on this building"
+  },
+  {
+    "key": "not_enough_construction_materials",
+    "type": 0,
+    "en": "Resource unavailable to deliver",
+    "vi": "Resource unavailable to deliver"
+  },
+  {
+    "key": "building_unreachable",
+    "type": 0,
+    "en": "Building cannot be reached",
+    "vi": "Building cannot be reached"
+  },
+  {
+    "key": "building_unstable",
+    "type": 0,
+    "en": "Building is unstable because it is placed on stability 0",
+    "vi": "Building is unstable because it is placed on stability 0"
+  },
+  {
+    "key": "prioritise_building_uninstall",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Remove"
+  },
+  {
+    "key": "ctrl_Deconstructing",
+    "type": 0,
+    "en": "Order: Deconstruct",
+    "vi": "Order: Deconstruct"
+  },
+  {
+    "key": "ctrl_DestroyBuilding",
+    "type": 0,
+    "en": "Destroy Building",
+    "vi": "Destroy Building"
+  },
+  {
+    "key": "ctrl_CopyBuilding",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Copy"
+  },
+  {
+    "key": "ctrl_installbuilding",
+    "type": 0,
+    "en": "Install",
+    "vi": "Install"
+  },
+  {
+    "key": "ctrl_uninstallbuilding",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Remove"
+  },
+  {
+    "key": "ctrl_movebuilding",
+    "type": 0,
+    "en": "Relocate",
+    "vi": "Relocate"
+  },
+  {
+    "key": "keybinding_group_Construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Construction"
+  },
+  {
+    "key": "options_camera_offset_by_buildings",
+    "type": 0,
+    "en": "Camera offset by buildings",
+    "vi": "Camera offset by buildings"
+  },
+  {
+    "key": "options_camera_offset_by_buildings_info",
+    "type": 0,
+    "en": "Toggles whether or not the camera will be offset by floors and walls, together with terrain and water.",
+    "vi": "Toggles whether or not the camera will be offset by floors and walls, together with terrain and water."
+  },
+  {
+    "key": "construction_failed",
+    "type": 0,
+    "en": "Construction failed",
+    "vi": "Construction failed"
+  },
+  {
+    "key": "construction_blocked",
+    "type": 0,
+    "en": "Construction blocked",
+    "vi": "Construction blocked"
+  },
+  {
+    "key": "floor_error_beam_distance",
+    "type": 0,
+    "en": "Floors can only hang 3x spaces from support structures",
+    "vi": "Floors can only hang 3x spaces from support structures"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageLow",
+    "type": 0,
+    "en": "<style=DefaultGreen>Low building damage</style>",
+    "vi": "<style=DefaultGreen>Low building damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate building damage</style>",
+    "vi": "<style=DefaultOrange>Moderate building damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High building damage</style>",
+    "vi": "<style=DefaultGreen>High building damage</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageVeryHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>Severe building damage</style>",
+    "vi": "<style=DefaultGreen>Severe building damage</style>"
+  },
+  {
+    "key": "building_tooltip_info_sun",
+    "type": 0,
+    "en": "<style=DefaultGreen>Lets sunlight through</style>",
+    "vi": "<style=DefaultGreen>Lets sunlight through</style>"
+  },
+  {
+    "key": "building_tooltip_info_rain",
+    "type": 0,
+    "en": "<style=DefaultOrange>Rain and snow can fall through</style>",
+    "vi": "<style=DefaultOrange>Rain and snow can fall through</style>"
+  },
+  {
+    "key": "building_tooltip_info_hail",
+    "type": 0,
+    "en": "<style=DefaultGreen>Prevents hailstones getting through</style>",
+    "vi": "<style=DefaultGreen>Prevents hailstones getting through</style>"
+  },
+  {
+    "key": "worker_action_constructbuildinggoal",
+    "type": 0,
+    "en": "Constructing",
+    "vi": "Constructing"
+  },
+  {
+    "key": "worker_action_deconstructgoal",
+    "type": 0,
+    "en": "Deconstructing",
+    "vi": "Deconstructing"
+  },
+  {
+    "key": "worker_action_deliverbuildingmaterialsgoal",
+    "type": 0,
+    "en": "Getting resources for construction",
+    "vi": "Getting resources for construction"
+  },
+  {
+    "key": "worker_action_repairbuildinggoal",
+    "type": 0,
+    "en": "Repairing",
+    "vi": "Repairing"
+  },
+  {
+    "key": "worker_action_UninstallBuildingGoal",
+    "type": 0,
+    "en": "Removing Building",
+    "vi": "Removing Building"
+  },
+  {
+    "key": "worker_action_DeliverMoveBuildingResource",
+    "type": 0,
+    "en": "Getting resources for construction",
+    "vi": "Getting resources for construction"
+  },
+  {
+    "key": "worker_action_FollowConstructBuildingGoal",
+    "type": 0,
+    "en": "Constructing",
+    "vi": "Constructing"
+  },
+  {
+    "key": "goal_preference_name_ConstructionPreference",
+    "type": 0,
+    "en": "Construct",
+    "vi": "Construct"
+  },
+  {
+    "key": "goal_preference_info_ConstructionPreference",
+    "type": 0,
+    "en": "Construct, deconstruct and repair any building.",
+    "vi": "Construct, deconstruct and repair any building."
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl1",
+    "type": 0,
+    "en": "Defensive Structures",
+    "vi": "Defensive Structures"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl2",
+    "type": 0,
+    "en": "Defensive Structures II",
+    "vi": "Defensive Structures II"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl3",
+    "type": 0,
+    "en": "Defensive Structures III",
+    "vi": "Defensive Structures III"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl4",
+    "type": 0,
+    "en": "Defensive Structures IV",
+    "vi": "Defensive Structures IV"
+  },
+  {
+    "key": "research_name_iron_constructions_lvl1",
+    "type": 0,
+    "en": "Iron Construction",
+    "vi": "Iron Construction"
+  },
+  {
+    "key": "pte_host_buildings",
+    "type": 0,
+    "en": "Can be triggered from structure",
+    "vi": "Can be triggered from structure"
+  },
+  {
+    "key": "room_cant_have_other_prod_buildings",
+    "type": 0,
+    "en": "and other workstations",
+    "vi": "and other workstations"
+  },
+  {
+    "key": "room_kitchen_cant_have_buildings",
+    "type": 0,
+    "en": "Any other workstations, shrines or beds.",
+    "vi": "Any other workstations, shrines or beds."
+  },
+  {
+    "key": "room_library_cant_have_buildings",
+    "type": 0,
+    "en": "Any other workstations or shrines.",
+    "vi": "Any other workstations or shrines."
+  },
+  {
+    "key": "atb_info_ConstructionFail",
+    "type": 0,
+    "en": "The chance that construction fails, resetting construction time.",
+    "vi": "The chance that construction fails, resetting construction time."
+  },
+  {
+    "key": "atb_info_ConstructionSpeed",
+    "type": 0,
+    "en": "This settler's building construction speed.",
+    "vi": "This settler's building construction speed."
+  },
+  {
+    "key": "atb_info_UnarmedBuildingDamage",
+    "type": 0,
+    "en": "The percentage of damage dealt by an unarmed settler to a building or resource pile.",
+    "vi": "The percentage of damage dealt by an unarmed settler to a building or resource pile."
+  },
+  {
+    "key": "atb_name_ConstructionFail",
+    "type": 0,
+    "en": "Chance Construction Fails",
+    "vi": "Chance Construction Fails"
+  },
+  {
+    "key": "atb_name_ConstructionSpeed",
+    "type": 0,
+    "en": "Construction Speed",
+    "vi": "Construction Speed"
+  },
+  {
+    "key": "atb_name_UnarmedBuildingDamage",
+    "type": 0,
+    "en": "Unarmed Damage To Buildings",
+    "vi": "Unarmed Damage To Buildings"
+  },
+  {
+    "key": "building names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "building_name_clay_brick_floor",
+    "type": 0,
+    "en": "Clay Brick Floor",
+    "vi": "Clay Brick Floor"
+  },
+  {
+    "key": "building_name_general_floor",
+    "type": 0,
+    "en": "Floor",
+    "vi": "Floor"
+  },
+  {
+    "key": "building_name_limestone_block_floor",
+    "type": 0,
+    "en": "Limestone Block Floor",
+    "vi": "Limestone Block Floor"
+  },
+  {
+    "key": "building_name_limestone_floor",
+    "type": 0,
+    "en": "Limestone Floor",
+    "vi": "Limestone Floor"
+  },
+  {
+    "key": "building_name_wood_floor",
+    "type": 0,
+    "en": "Wooden Floor",
+    "vi": "Wooden Floor"
+  },
+  {
+    "key": "building_name_wicker_floor",
+    "type": 0,
+    "en": "Wicker Floor",
+    "vi": "Wicker Floor"
+  },
+  {
+    "key": "building_name_metal_grated_platform",
+    "type": 0,
+    "en": "Metal Grated Platform",
+    "vi": "Metal Grated Platform"
+  },
+  {
+    "key": "building_name_wicker_mesh_floor",
+    "type": 0,
+    "en": "Wicker Grated Floor",
+    "vi": "Wicker Grated Floor"
+  },
+  {
+    "key": "building_name_stone_decorative_floor",
+    "type": 0,
+    "en": "Decorative Stone Tiled Floor",
+    "vi": "Decorative Stone Tiled Floor"
+  },
+  {
+    "key": "building_name_clay_decorative_floor",
+    "type": 0,
+    "en": "Decorative Clay Tiled Floor",
+    "vi": "Decorative Clay Tiled Floor"
+  },
+  {
+    "key": "building_name_marble_decorative_floor",
+    "type": 0,
+    "en": "Decorative Marble Tiled Floor",
+    "vi": "Decorative Marble Tiled Floor"
+  },
+  {
+    "key": "building_name_clay_brick_merlon",
+    "type": 0,
+    "en": "Clay Brick Merlon",
+    "vi": "Clay Brick Merlon"
+  },
+  {
+    "key": "building_name_clay_merlon",
+    "type": 0,
+    "en": "Clay Merlon",
+    "vi": "Clay Merlon"
+  },
+  {
+    "key": "building_name_general_merlon",
+    "type": 0,
+    "en": "Merlon",
+    "vi": "Merlon"
+  },
+  {
+    "key": "building_name_limestone_block_merlon",
+    "type": 0,
+    "en": "Limestone Block Merlon",
+    "vi": "Limestone Block Merlon"
+  },
+  {
+    "key": "building_name_limestone_merlon",
+    "type": 0,
+    "en": "Limestone Merlon",
+    "vi": "Limestone Merlon"
+  },
+  {
+    "key": "building_name_wood_merlon",
+    "type": 0,
+    "en": "Wooden Merlon",
+    "vi": "Wooden Merlon"
+  },
+  {
+    "key": "building_name_dirt_voxel",
+    "type": 0,
+    "en": "Soil",
+    "vi": "Soil"
+  },
+  {
+    "key": "building_name_clay_brick_wall_element",
+    "type": 0,
+    "en": "Clay Brick Wall",
+    "vi": "Clay Brick Wall"
+  },
+  {
+    "key": "building_name_clay_wall_element",
+    "type": 0,
+    "en": "Clay Wall",
+    "vi": "Clay Wall"
+  },
+  {
+    "key": "building_name_general_wall",
+    "type": 0,
+    "en": "Wall",
+    "vi": "Wall"
+  },
+  {
+    "key": "building_name_limestone_block_wall_element",
+    "type": 0,
+    "en": "Limestone Block Wall",
+    "vi": "Limestone Block Wall"
+  },
+  {
+    "key": "building_name_limestone_wall_element",
+    "type": 0,
+    "en": "Limestone Wall",
+    "vi": "Limestone Wall"
+  },
+  {
+    "key": "building_name_wood_wall_element",
+    "type": 0,
+    "en": "Wooden Wall",
+    "vi": "Wooden Wall"
+  },
+  {
+    "key": "building_name_dirt_slope",
+    "type": 0,
+    "en": "Slope",
+    "vi": "Slope"
+  },
+  {
+    "key": "building_name_general_stairs",
+    "type": 0,
+    "en": "Stairs",
+    "vi": "Stairs"
+  },
+  {
+    "key": "building_name_clay_brick_stair",
+    "type": 0,
+    "en": "Clay Brick Stair",
+    "vi": "Clay Brick Stair"
+  },
+  {
+    "key": "building_name_clay_stair",
+    "type": 0,
+    "en": "Clay Stair",
+    "vi": "Clay Stair"
+  },
+  {
+    "key": "building_name_limestone_block_stair",
+    "type": 0,
+    "en": "Limestone Block Stair",
+    "vi": "Limestone Block Stair"
+  },
+  {
+    "key": "building_name_limestone_stair",
+    "type": 0,
+    "en": "Limestone Stair",
+    "vi": "Limestone Stair"
+  },
+  {
+    "key": "building_name_wood_stair_straight",
+    "type": 0,
+    "en": "Wooden Stair Straight",
+    "vi": "Wooden Stair Straight"
+  },
+  {
+    "key": "building_name_wooden_stair_square",
+    "type": 0,
+    "en": "Wooden Stair Square",
+    "vi": "Wooden Stair Square"
+  },
+  {
+    "key": "building_name_clay_brick_window",
+    "type": 0,
+    "en": "Clay Brick Window",
+    "vi": "Clay Brick Window"
+  },
+  {
+    "key": "building_name_clay_window",
+    "type": 0,
+    "en": "Clay Window",
+    "vi": "Clay Window"
+  },
+  {
+    "key": "building_name_general_window",
+    "type": 0,
+    "en": "Window",
+    "vi": "Window"
+  },
+  {
+    "key": "building_name_limestone_block_window",
+    "type": 0,
+    "en": "Limestone Block Window",
+    "vi": "Limestone Block Window"
+  },
+  {
+    "key": "building_name_limestone_window",
+    "type": 0,
+    "en": "Limestone Window",
+    "vi": "Limestone Window"
+  },
+  {
+    "key": "building_name_wood_window",
+    "type": 0,
+    "en": "Wooden Window",
+    "vi": "Wooden Window"
+  },
+  {
+    "key": "building_name_tall_gate",
+    "type": 0,
+    "en": "Tall Gate",
+    "vi": "Tall Gate"
+  },
+  {
+    "key": "building_name_gate",
+    "type": 0,
+    "en": "Gate",
+    "vi": "Gate"
+  },
+  {
+    "key": "building_name_portcullis",
+    "type": 0,
+    "en": "Portcullis ",
+    "vi": "Portcullis "
+  },
+  {
+    "key": "building_name_wood_gate_tall",
+    "type": 0,
+    "en": "Tall Gate",
+    "vi": "Tall Gate"
+  },
+  {
+    "key": "building_name_wood_gate",
+    "type": 0,
+    "en": "Gate",
+    "vi": "Gate"
+  },
+  {
+    "key": "building_name_wood_portcullis",
+    "type": 0,
+    "en": "Portcullis ",
+    "vi": "Portcullis "
+  },
+  {
+    "key": "building_name_wood_ornate_gate_tall",
+    "type": 0,
+    "en": "Ornate Tall Gate",
+    "vi": "Ornate Tall Gate"
+  },
+  {
+    "key": "building_name_wood_ornate_gate",
+    "type": 0,
+    "en": "Ornate Gate",
+    "vi": "Ornate Gate"
+  },
+  {
+    "key": "building_name_grated_door",
+    "type": 0,
+    "en": "Grated Door",
+    "vi": "Grated Door"
+  },
+  {
+    "key": "building_name_wicker_door",
+    "type": 0,
+    "en": "Wicker Door",
+    "vi": "Wicker Door"
+  },
+  {
+    "key": "building_name_wood_door",
+    "type": 0,
+    "en": "Wooden Door",
+    "vi": "Wooden Door"
+  },
+  {
+    "key": "building_name_reinforced_door",
+    "type": 0,
+    "en": "Reinforced Door",
+    "vi": "Reinforced Door"
+  },
+  {
+    "key": "building_name_barn_door",
+    "type": 0,
+    "en": "Barn Door",
+    "vi": "Barn Door"
+  },
+  {
+    "key": "building_name_wood_fence_gate",
+    "type": 0,
+    "en": "Wooden Gate",
+    "vi": "Wooden Gate"
+  },
+  {
+    "key": "building_name_wicker_fence_gate",
+    "type": 0,
+    "en": "Wicker Gate",
+    "vi": "Wicker Gate"
+  },
+  {
+    "key": "building_name_fence_gate",
+    "type": 0,
+    "en": "Fence Gate",
+    "vi": "Fence Gate"
+  },
+  {
+    "key": "building_name_limestone_block_chimney",
+    "type": 0,
+    "en": "Limestone Block Chimney",
+    "vi": "Limestone Block Chimney"
+  },
+  {
+    "key": "building_name_limestone_chimney",
+    "type": 0,
+    "en": "Limestone Chimney",
+    "vi": "Limestone Chimney"
+  },
+  {
+    "key": "building_name_clay_brick_chimney",
+    "type": 0,
+    "en": "Clay Brick Chimney",
+    "vi": "Clay Brick Chimney"
+  },
+  {
+    "key": "building_name_clay_brick_beam",
+    "type": 0,
+    "en": "Clay Brick Arch",
+    "vi": "Clay Brick Arch"
+  },
+  {
+    "key": "building_name_limestone_block_beam",
+    "type": 0,
+    "en": "Limestone Block Arch",
+    "vi": "Limestone Block Arch"
+  },
+  {
+    "key": "building_name_wood_beam",
+    "type": 0,
+    "en": "Wooden Beam",
+    "vi": "Wooden Beam"
+  },
+  {
+    "key": "building_name_ornate_wood_beam",
+    "type": 0,
+    "en": "Ornate Wooden Beam",
+    "vi": "Ornate Wooden Beam"
+  },
+  {
+    "key": "building_name_wood_ladder",
+    "type": 0,
+    "en": "Wooden ladder",
+    "vi": "Wooden ladder"
+  },
+  {
+    "key": "building_name_stick_ladder",
+    "type": 0,
+    "en": "Stick ladder",
+    "vi": "Stick ladder"
+  },
+  {
+    "key": "building_name_mounted_ballista",
+    "type": 0,
+    "en": "Mounted Ballista",
+    "vi": "Mounted Ballista"
+  },
+  {
+    "key": "building_name_mounted_cannon",
+    "type": 0,
+    "en": "Mounted Cannon",
+    "vi": "Mounted Cannon"
+  },
+  {
+    "key": "building_name_movable_ballista",
+    "type": 0,
+    "en": "Movable Ballista",
+    "vi": "Movable Ballista"
+  },
+  {
+    "key": "building_name_movable_cannon",
+    "type": 0,
+    "en": "Movable Cannon",
+    "vi": "Movable Cannon"
+  },
+  {
+    "key": "building_name_movable_organ_gun",
+    "type": 0,
+    "en": "Movable Organ Gun",
+    "vi": "Movable Organ Gun"
+  },
+  {
+    "key": "building_name_movable_trebuchet",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Movable Trebuchet"
+  },
+  {
+    "key": "building_name_siege_weapon_onager",
+    "type": 0,
+    "en": "Onager",
+    "vi": "Onager"
+  },
+  {
+    "key": "building_info_siege_weapon_onager",
+    "type": 0,
+    "en": "A heavy, torsion-powered catapult. Hurl offensive items at long range.",
+    "vi": "A heavy, torsion-powered catapult. Hurl offensive items at long range."
+  },
+  {
+    "key": "building_name_siege_weapon_ballista",
+    "type": 0,
+    "en": "Ballista",
+    "vi": "Ballista"
+  },
+  {
+    "key": "building_name_siege_weapon_trebuchet",
+    "type": 0,
+    "en": "Trebuchet",
+    "vi": "Trebuchet"
+  },
+  {
+    "key": "building_name_minting_station",
+    "type": 0,
+    "en": "Coin Mint",
+    "vi": "Coin Mint"
+  },
+  {
+    "key": "building_info_minting_station",
+    "type": 0,
+    "en": "Position the gold blank and strike the hammer on the metal die. Clink! A freshly minted coin.",
+    "vi": "Position the gold blank and strike the hammer on the metal die. Clink! A freshly minted coin."
+  },
+  {
+    "key": "building_name_siege_weapon_canon",
+    "type": 0,
+    "en": "Pot-de-fer",
+    "vi": "Pot-de-fer"
+  },
+  {
+    "key": "building_info_siege_weapon_canon",
+    "type": 0,
+    "en": "Fires heavy shot from a fixed position.",
+    "vi": "Fires heavy shot from a fixed position."
+  },
+  {
+    "key": "building_name_siege_weapon_prism",
+    "type": 0,
+    "en": "Prism",
+    "vi": "Prism"
+  },
+  {
+    "key": "building_info_siege_weapon_prism",
+    "type": 0,
+    "en": "Harnesses and directs the power of light as a potent weapon.",
+    "vi": "Harnesses and directs the power of light as a potent weapon."
+  },
+  {
+    "key": "building_name_rally_point_marker",
+    "type": 0,
+    "en": "Rally Point",
+    "vi": "Rally Point"
+  },
+  {
+    "key": "building_info_rally_point_marker",
+    "type": 0,
+    "en": "Settlers gather here when drafted.",
+    "vi": "Settlers gather here when drafted."
+  },
+  {
+    "key": "building_name_large_bell",
+    "type": 0,
+    "en": "Large Bell",
+    "vi": "Large Bell"
+  },
+  {
+    "key": "building_info_large_bell",
+    "type": 0,
+    "en": "Ring the bell to call in settlers to activated rally points.",
+    "vi": "Ring the bell to call in settlers to activated rally points."
+  },
+  {
+    "key": "building_name_drawbridge_large",
+    "type": 0,
+    "en": "Large Drawbridge",
+    "vi": "Large Drawbridge"
+  },
+  {
+    "key": "building_name_drawbridge_medium",
+    "type": 0,
+    "en": "Drawbridge",
+    "vi": "Drawbridge"
+  },
+  {
+    "key": "building_name_drawbridge_short",
+    "type": 0,
+    "en": "Short Drawbridge",
+    "vi": "Short Drawbridge"
+  },
+  {
+    "key": "building_info_drawbridge",
+    "type": 0,
+    "en": "A movable bridge that can be used defensively to keep enemies out. Clear livestock and items from its path when lowering to avoid destruction! ",
+    "vi": "A movable bridge that can be used defensively to keep enemies out. Clear livestock and items from its path when lowering to avoid destruction! "
+  },
+  {
+    "key": "building_name_ornate_bookshelf",
+    "type": 0,
+    "en": "Ornate Bookshelf",
+    "vi": "Ornate Bookshelf"
+  },
+  {
+    "key": "building_info_ornate_bookshelf",
+    "type": 0,
+    "en": "Sorted alphabetically, the librarian's most valuable textbooks reside here. They are read to settlers who are keen to learn during Study Groups.",
+    "vi": "Sorted alphabetically, the librarian's most valuable textbooks reside here. They are read to settlers who are keen to learn during Study Groups."
+  },
+  {
+    "key": "building_name_relic_shelf",
+    "type": 0,
+    "en": "Altar Shelf",
+    "vi": "Altar Shelf"
+  },
+  {
+    "key": "building_info_relic_shelf",
+    "type": 0,
+    "en": "A fitting spot to display a mystical item of great importance.",
+    "vi": "A fitting spot to display a mystical item of great importance."
+  },
+  {
+    "key": "building_name_war_chest",
+    "type": 0,
+    "en": "War Chest",
+    "vi": "War Chest"
+  },
+  {
+    "key": "building_info_war_chest",
+    "type": 0,
+    "en": "A mighty strongbox to keep gold coin for brokerage and similar purposes under lock and key.",
+    "vi": "A mighty strongbox to keep gold coin for brokerage and similar purposes under lock and key."
+  },
+  {
+    "key": "building_name_standing_decoration_pagan",
+    "type": 0,
+    "en": "Oak Brethren Idol",
+    "vi": "Oak Brethren Idol"
+  },
+  {
+    "key": "building_info_standing_decoration_pagan",
+    "type": 0,
+    "en": "Human or animal? This shapely natural form is hard to categorise, but easy to revere.",
+    "vi": "Human or animal? This shapely natural form is hard to categorise, but easy to revere."
+  },
+  {
+    "key": "building_name_skittles",
+    "type": 0,
+    "en": "Skittles",
+    "vi": "Skittles"
+  },
+  {
+    "key": "building_info_skittles",
+    "type": 0,
+    "en": "Roll a heavy leather ball at nine wooden pins and let them tumble! Generally enjoyed with a pint of cider or ale.",
+    "vi": "Roll a heavy leather ball at nine wooden pins and let them tumble! Generally enjoyed with a pint of cider or ale."
+  },
+  {
+    "key": "building_name_quoits",
+    "type": 0,
+    "en": "Quoits",
+    "vi": "Quoits"
+  },
+  {
+    "key": "building_info_quoits",
+    "type": 0,
+    "en": "Attempts to ban this hoop tossing game from the taverns of England for encouraging idleness have largely failed.",
+    "vi": "Attempts to ban this hoop tossing game from the taverns of England for encouraging idleness have largely failed."
+  },
+  {
+    "key": "building_name_shovelboard",
+    "type": 0,
+    "en": "Shovelboard",
+    "vi": "Shovelboard"
+  },
+  {
+    "key": "building_info_shovelboard",
+    "type": 0,
+    "en": "Formerly a game reserved for nobility, anybody with a groat in their pocket these days can slide it down the board to score.",
+    "vi": "Formerly a game reserved for nobility, anybody with a groat in their pocket these days can slide it down the board to score."
+  },
+  {
+    "key": "building_name_librarian_book_stand",
+    "type": 0,
+    "en": "Scholars' Lectern",
+    "vi": "Scholars' Lectern"
+  },
+  {
+    "key": "building_info_librarian_book_stand",
+    "type": 0,
+    "en": "The librarian perches a precious textbook here, and reads - sometimes translating from latin or french - for the settlers at Study Group.",
+    "vi": "The librarian perches a precious textbook here, and reads - sometimes translating from latin or french - for the settlers at Study Group."
+  },
+  {
+    "key": "building_name_sergeants_podium",
+    "type": 0,
+    "en": "Sergeant's Podium",
+    "vi": "Sergeant's Podium"
+  },
+  {
+    "key": "building_info_sergeants_podium",
+    "type": 0,
+    "en": "Here the sergeant stands when providing Martial Training to settlers who aspire to improve their fighting skills.",
+    "vi": "Here the sergeant stands when providing Martial Training to settlers who aspire to improve their fighting skills."
+  },
+  {
+    "key": "building_name_market_centar_marker",
+    "type": 0,
+    "en": "Market Cross",
+    "vi": "Market Cross"
+  },
+  {
+    "key": "building_info_market_centar_marker",
+    "type": 0,
+    "en": "Every thriving market town aspires to build a stone market cross as a hub for trade, proclamations and justice.",
+    "vi": "Every thriving market town aspires to build a stone market cross as a hub for trade, proclamations and justice."
+  },
+  {
+    "key": "building_name_sparing_area",
+    "type": 0,
+    "en": "Sparring ground",
+    "vi": "Sparring ground"
+  },
+  {
+    "key": "building_info_sparing_area",
+    "type": 0,
+    "en": "Let them duel it out, while the crowd looks on and jeers. Some practice willingly, others are thrown into the pit for sport.",
+    "vi": "Let them duel it out, while the crowd looks on and jeers. Some practice willingly, others are thrown into the pit for sport."
+  },
+  {
+    "key": "building_name_stage",
+    "type": 0,
+    "en": "Stage",
+    "vi": "Stage"
+  },
+  {
+    "key": "building_info_stage",
+    "type": 0,
+    "en": "All the world's a stage...but troubadours and jongleurs rather prefer a raised platform in a decorative tent when putting on a show.",
+    "vi": "All the world's a stage...but troubadours and jongleurs rather prefer a raised platform in a decorative tent when putting on a show."
+  },
+  {
+    "key": "building_name_strategy_table",
+    "type": 0,
+    "en": "War table",
+    "vi": "War table"
+  },
+  {
+    "key": "building_info_strategy_table",
+    "type": 0,
+    "en": "The small model castle and troops may look like toys. But the games mapped out on this strategy table are deadly serious.",
+    "vi": "The small model castle and troops may look like toys. But the games mapped out on this strategy table are deadly serious."
+  },
+  {
+    "key": "building_name_model_solar_system",
+    "type": 0,
+    "en": "Planetarium",
+    "vi": "Planetarium"
+  },
+  {
+    "key": "building_info_model_solar_system",
+    "type": 0,
+    "en": "A model of the firmament, with glittering planets denoting our nearest heavenly neighbours. But whether to put Helios in the middle, or our own globe, Terra? A conundrum.",
+    "vi": "A model of the firmament, with glittering planets denoting our nearest heavenly neighbours. But whether to put Helios in the middle, or our own globe, Terra? A conundrum."
+  },
+  {
+    "key": "building_name_scales",
+    "type": 0,
+    "en": "Scales",
+    "vi": "Scales"
+  },
+  {
+    "key": "building_info_scales",
+    "type": 0,
+    "en": "Coin balances are a necessity since Edward I proclaimed money should be weighed to stop coin clippers stealing.",
+    "vi": "Coin balances are a necessity since Edward I proclaimed money should be weighed to stop coin clippers stealing."
+  },
+  {
+    "key": "building_name_grand_research_table",
+    "type": 0,
+    "en": "Grand Research Table",
+    "vi": "Grand Research Table"
+  },
+  {
+    "key": "building_info_grand_research_table",
+    "type": 0,
+    "en": "An ancient, hefty table, stained with ink. Perfect for gathering many manuscripts together and consulting them to write an influential treatise.",
+    "vi": "An ancient, hefty table, stained with ink. Perfect for gathering many manuscripts together and consulting them to write an influential treatise."
+  },
+  {
+    "key": "building_name_chess_pawn",
+    "type": 0,
+    "en": "Pawn",
+    "vi": "Pawn"
+  },
+  {
+    "key": "building_name_chess_rook",
+    "type": 0,
+    "en": "Rook",
+    "vi": "Rook"
+  },
+  {
+    "key": "building_name_chess_knight",
+    "type": 0,
+    "en": "Knight",
+    "vi": "Knight"
+  },
+  {
+    "key": "building_name_chess_bishop",
+    "type": 0,
+    "en": "Bishop",
+    "vi": "Bishop"
+  },
+  {
+    "key": "building_name_chess_king",
+    "type": 0,
+    "en": "King",
+    "vi": "King"
+  },
+  {
+    "key": "building_name_chess_queen",
+    "type": 0,
+    "en": "Queen",
+    "vi": "Queen"
+  },
+  {
+    "key": "building_info_chess_piece",
+    "type": 0,
+    "en": "The statue resembles a chess piece. Its etched features stack definitively atop one another, like moves in a long, careful game",
+    "vi": "The statue resembles a chess piece. Its etched features stack definitively atop one another, like moves in a long, careful game"
+  },
+  {
+    "key": "building_name_foxy_statue",
+    "type": 0,
+    "en": "Statue of a Fox",
+    "vi": "Statue of a Fox"
+  },
+  {
+    "key": "building_info_foxy_statue2",
+    "type": 0,
+    "en": "Quite foxy...",
+    "vi": "Quite foxy..."
+  },
+  {
+    "key": "building_info_foxy_statue",
+    "type": 0,
+    "en": "<b>A small tribute to those who help keep this community thriving</b>\n    Mathijs The Otter Mod\n    Lyosha\n    alexbb721\n    Isabelle 'Lady' Briar\n    Lady Kathleen\n    Megan_OMCF\n    Miss Morrigan Marie\n    and you - our Early Access players.",
+    "vi": "<b>A small tribute to those who help keep this community thriving</b>\n    Mathijs The Otter Mod\n    Lyosha\n    alexbb721\n    Isabelle 'Lady' Briar\n    Lady Kathleen\n    Megan_OMCF\n    Miss Morrigan Marie\n    and you - our Early Access players."
+  },
+  {
+    "key": "building_name_scarecrow",
+    "type": 0,
+    "en": "Scarecrow",
+    "vi": "Scarecrow"
+  },
+  {
+    "key": "building_info_scarecrow",
+    "type": 0,
+    "en": "A man built of sticks and straw, sporting a battered jerkin, hat sagging low. The crows hesitate, not because it moves with the wind, but because it's always watching.",
+    "vi": "A man built of sticks and straw, sporting a battered jerkin, hat sagging low. The crows hesitate, not because it moves with the wind, but because it's always watching."
+  },
+  {
+    "key": "building_name_sundial",
+    "type": 0,
+    "en": "Sundial",
+    "vi": "Sundial"
+  },
+  {
+    "key": "building_info_sundial",
+    "type": 0,
+    "en": "Its gnomon angled like a monk’s finger, the sundial tracks the hours with shadows. Incised numerals remind all who pass that daylight is a limited resource.",
+    "vi": "Its gnomon angled like a monk’s finger, the sundial tracks the hours with shadows. Incised numerals remind all who pass that daylight is a limited resource."
+  },
+  {
+    "key": "building_name_purple_torch",
+    "type": 0,
+    "en": "Torch (Twitch)",
+    "vi": "Torch (Twitch)"
+  },
+  {
+    "key": "building_name_purple_torch_wall",
+    "type": 0,
+    "en": "Wall Torch (Twitch)",
+    "vi": "Wall Torch (Twitch)"
+  },
+  {
+    "key": "building_name_purple_brazier",
+    "type": 0,
+    "en": "Brazier (Twitch)",
+    "vi": "Brazier (Twitch)"
+  },
+  {
+    "key": "building_name_animal_sleeping_spot_hay",
+    "type": 0,
+    "en": "Animal Sleeping Spot (hay)",
+    "vi": "Animal Sleeping Spot (hay)"
+  },
+  {
+    "key": "building_info_animal_sleeping_spot",
+    "type": 0,
+    "en": "A comfortable spot where domesticated animals will lie down to rest.",
+    "vi": "A comfortable spot where domesticated animals will lie down to rest."
+  },
+  {
+    "key": "building_name_advanced_research_table",
+    "type": 0,
+    "en": "Advanced Research Table",
+    "vi": "Advanced Research Table"
+  },
+  {
+    "key": "building_name_apothecary_bench",
+    "type": 0,
+    "en": "Apothecary Bench",
+    "vi": "Apothecary Bench"
+  },
+  {
+    "key": "building_name_armourer_table",
+    "type": 0,
+    "en": "Armourer's Table",
+    "vi": "Armourer's Table"
+  },
+  {
+    "key": "building_name_basic_research_table",
+    "type": 0,
+    "en": "Basic Research Table",
+    "vi": "Basic Research Table"
+  },
+  {
+    "key": "building_name_general_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge",
+    "vi": "Blacksmith's Forge"
+  },
+  {
+    "key": "building_name_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge (Limestone Brick)",
+    "vi": "Blacksmith's Forge (Limestone Brick)"
+  },
+  {
+    "key": "building_name_clay_brick_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge (Clay Brick)",
+    "vi": "Blacksmith's Forge (Clay Brick)"
+  },
+  {
+    "key": "building_name_brewing_station",
+    "type": 0,
+    "en": "Brewing Station",
+    "vi": "Brewing Station"
+  },
+  {
+    "key": "building_name_butchering_table",
+    "type": 0,
+    "en": "Butchering Table",
+    "vi": "Butchering Table"
+  },
+  {
+    "key": "building_name_camp_fire",
+    "type": 0,
+    "en": "Campfire",
+    "vi": "Campfire"
+  },
+  {
+    "key": "building_name_stove",
+    "type": 0,
+    "en": "Stove",
+    "vi": "Stove"
+  },
+  {
+    "key": "building_name_general_hearth",
+    "type": 0,
+    "en": "Hearth",
+    "vi": "Hearth"
+  },
+  {
+    "key": "building_name_clay_brick_stove",
+    "type": 0,
+    "en": "Stove (Clay Brick)",
+    "vi": "Stove (Clay Brick)"
+  },
+  {
+    "key": "building_name_limestone_block_stove",
+    "type": 0,
+    "en": "Stove (Limestone Brick)",
+    "vi": "Stove (Limestone Brick)"
+  },
+  {
+    "key": "building_name_limestone_stove",
+    "type": 0,
+    "en": "Stove (Limestone)",
+    "vi": "Stove (Limestone)"
+  },
+  {
+    "key": "building_name_compost_making_station",
+    "type": 0,
+    "en": "Compost Heap",
+    "vi": "Compost Heap"
+  },
+  {
+    "key": "building_name_fermenting_station",
+    "type": 0,
+    "en": "Fermenting Station",
+    "vi": "Fermenting Station"
+  },
+  {
+    "key": "building_name_fletchers_table",
+    "type": 0,
+    "en": "Bowyer's Table",
+    "vi": "Bowyer's Table"
+  },
+  {
+    "key": "building_name_general_kiln",
+    "type": 0,
+    "en": "Kiln",
+    "vi": "Kiln"
+  },
+  {
+    "key": "building_name_kiln",
+    "type": 0,
+    "en": "Kiln (Clay)",
+    "vi": "Kiln (Clay)"
+  },
+  {
+    "key": "building_name_limestone_kiln",
+    "type": 0,
+    "en": "Kiln (Limestone)",
+    "vi": "Kiln (Limestone)"
+  },
+  {
+    "key": "building_name_smelting_station_default",
+    "type": 0,
+    "en": "Smelting Furnace",
+    "vi": "Smelting Furnace"
+  },
+  {
+    "key": "building_name_limestone_smelting_station",
+    "type": 0,
+    "en": "Smelting Furnace (Limestone)",
+    "vi": "Smelting Furnace (Limestone)"
+  },
+  {
+    "key": "building_name_smelting_station",
+    "type": 0,
+    "en": "Smelting Furnace (Clay)",
+    "vi": "Smelting Furnace (Clay)"
+  },
+  {
+    "key": "building_name_smokehouse_default",
+    "type": 0,
+    "en": "Smokehouse",
+    "vi": "Smokehouse"
+  },
+  {
+    "key": "building_name_limestone_smokehouse",
+    "type": 0,
+    "en": "Smokehouse (Limestone)",
+    "vi": "Smokehouse (Limestone)"
+  },
+  {
+    "key": "building_name_smokehouse",
+    "type": 0,
+    "en": "Smokehouse (Clay)",
+    "vi": "Smokehouse (Clay)"
+  },
+  {
+    "key": "building_name_pyre",
+    "type": 0,
+    "en": "Pyre",
+    "vi": "Pyre"
+  },
+  {
+    "key": "building_name_research_table",
+    "type": 0,
+    "en": "Research Table",
+    "vi": "Research Table"
+  },
+  {
+    "key": "building_name_sewing_station",
+    "type": 0,
+    "en": "Sewing Station",
+    "vi": "Sewing Station"
+  },
+  {
+    "key": "building_name_spirit_destilary",
+    "type": 0,
+    "en": "Spirit Distillery",
+    "vi": "Spirit Distillery"
+  },
+  {
+    "key": "building_name_stonemasons_bench",
+    "type": 0,
+    "en": "Stonemason's Bench",
+    "vi": "Stonemason's Bench"
+  },
+  {
+    "key": "building_name_woodwork_bench",
+    "type": 0,
+    "en": "Woodwork Bench",
+    "vi": "Woodwork Bench"
+  },
+  {
+    "key": "building_name_ice_station",
+    "type": 0,
+    "en": "Ice Box",
+    "vi": "Ice Box"
+  },
+  {
+    "key": "building_name_skep",
+    "type": 0,
+    "en": "Skep",
+    "vi": "Skep"
+  },
+  {
+    "key": "building_name_easel",
+    "type": 0,
+    "en": "Easel",
+    "vi": "Easel"
+  },
+  {
+    "key": "building_name_saltpeter_pit",
+    "type": 0,
+    "en": "Saltpetre Works",
+    "vi": "Saltpetre Works"
+  },
+  {
+    "key": "building_name_oil_press",
+    "type": 0,
+    "en": "Oil Press",
+    "vi": "Oil Press"
+  },
+  {
+    "key": "building_info_saltpeter_pit",
+    "type": 0,
+    "en": "Turns excrement into a valuable crystal with explosive potential.",
+    "vi": "Turns excrement into a valuable crystal with explosive potential."
+  },
+  {
+    "key": "building_info_oil_press",
+    "type": 0,
+    "en": "Process raw materials into oil in this useful contraption.",
+    "vi": "Process raw materials into oil in this useful contraption."
+  },
+  {
+    "key": "building_name_general_roof_half",
+    "type": 0,
+    "en": "Half Roof",
+    "vi": "Half Roof"
+  },
+  {
+    "key": "building_name_general_roof_whole",
+    "type": 0,
+    "en": "Roof",
+    "vi": "Roof"
+  },
+  {
+    "key": "building_name_clay_shingle_roof_half",
+    "type": 0,
+    "en": "Clay Shingle Roof Half",
+    "vi": "Clay Shingle Roof Half"
+  },
+  {
+    "key": "building_name_clay_shingle_roof_whole",
+    "type": 0,
+    "en": "Clay Shingle Roof",
+    "vi": "Clay Shingle Roof"
+  },
+  {
+    "key": "building_name_hay_roof_half",
+    "type": 0,
+    "en": "Thatched Roof Half",
+    "vi": "Thatched Roof Half"
+  },
+  {
+    "key": "building_name_hay_roof_whole",
+    "type": 0,
+    "en": "Thatched Roof",
+    "vi": "Thatched Roof"
+  },
+  {
+    "key": "building_name_limestone_slate_roof_half",
+    "type": 0,
+    "en": "Limestone Slate Roof Half",
+    "vi": "Limestone Slate Roof Half"
+  },
+  {
+    "key": "building_name_limestone_slate_roof_whole",
+    "type": 0,
+    "en": "Limestone Slate Roof",
+    "vi": "Limestone Slate Roof"
+  },
+  {
+    "key": "building_name_wicker_roof_half",
+    "type": 0,
+    "en": "Wicker Roof Half",
+    "vi": "Wicker Roof Half"
+  },
+  {
+    "key": "building_name_wicker_roof_whole",
+    "type": 0,
+    "en": "Wicker Roof",
+    "vi": "Wicker Roof"
+  },
+  {
+    "key": "building_name_wood_roof_half",
+    "type": 0,
+    "en": "Wooden Roof Half",
+    "vi": "Wooden Roof Half"
+  },
+  {
+    "key": "building_name_wood_roof_whole",
+    "type": 0,
+    "en": "Wooden Roof",
+    "vi": "Wooden Roof"
+  },
+  {
+    "key": "building_name_warden_desk",
+    "type": 0,
+    "en": "Prison Warden's Desk",
+    "vi": "Prison Warden's Desk"
+  },
+  {
+    "key": "building_Info_warden_desk",
+    "type": 0,
+    "en": "This weighty table represents the warden's locus of power over the settlement's prisoners.",
+    "vi": "This weighty table represents the warden's locus of power over the settlement's prisoners."
+  },
+  {
+    "key": "building_name_prison_stash",
+    "type": 0,
+    "en": "Prisoner's Stash",
+    "vi": "Prisoner's Stash"
+  },
+  {
+    "key": "building_Info_prison_stash",
+    "type": 0,
+    "en": "Victuals are stored here for prisoners in their cells.",
+    "vi": "Victuals are stored here for prisoners in their cells."
+  },
+  {
+    "key": "building_name_fire_pit",
+    "type": 0,
+    "en": "Fire Pit",
+    "vi": "Fire Pit"
+  },
+  {
+    "key": "building_name_fire_pit_round",
+    "type": 0,
+    "en": "Round Fire Pit",
+    "vi": "Round Fire Pit"
+  },
+  {
+    "key": "building_name_clay_brick_fire_pit",
+    "type": 0,
+    "en": "Fire Pit (Clay Brick)",
+    "vi": "Fire Pit (Clay Brick)"
+  },
+  {
+    "key": "building_name_clay_brick_fire_pit_round",
+    "type": 0,
+    "en": "Round Fire Pit (Clay Brick)",
+    "vi": "Round Fire Pit (Clay Brick)"
+  },
+  {
+    "key": "building_name_stone_brick_fire_pit",
+    "type": 0,
+    "en": "Fire Pit (Limestone Brick)",
+    "vi": "Fire Pit (Limestone Brick)"
+  },
+  {
+    "key": "building_name_stone_brick_fire_pit_round",
+    "type": 0,
+    "en": "Round Fire Pit (Limestone Brick)",
+    "vi": "Round Fire Pit (Limestone Brick)"
+  },
+  {
+    "key": "building_name_stone_fire_pit",
+    "type": 0,
+    "en": "Fire Pit (Limestone)",
+    "vi": "Fire Pit (Limestone)"
+  },
+  {
+    "key": "building_name_stone_fire_pit_round",
+    "type": 0,
+    "en": "Round Fire Pit (Limestone)",
+    "vi": "Round Fire Pit (Limestone)"
+  },
+  {
+    "key": "building_name_fire_place",
+    "type": 0,
+    "en": "Fireplace",
+    "vi": "Fireplace"
+  },
+  {
+    "key": "building_name_general_brazier",
+    "type": 0,
+    "en": "Brazier",
+    "vi": "Brazier"
+  },
+  {
+    "key": "building_name_iron_brazier",
+    "type": 0,
+    "en": "Brazier (Iron)",
+    "vi": "Brazier (Iron)"
+  },
+  {
+    "key": "building_name_gold_brazier",
+    "type": 0,
+    "en": "Brazier (Gold)",
+    "vi": "Brazier (Gold)"
+  },
+  {
+    "key": "building_name_silver_brazier",
+    "type": 0,
+    "en": "Brazier (Silver)",
+    "vi": "Brazier (Silver)"
+  },
+  {
+    "key": "building_name_clay_brazier",
+    "type": 0,
+    "en": "Brazier (Clay)",
+    "vi": "Brazier (Clay)"
+  },
+  {
+    "key": "building_name_clay_brick_brazier",
+    "type": 0,
+    "en": "Brazier (Clay Brick)",
+    "vi": "Brazier (Clay Brick)"
+  },
+  {
+    "key": "building_name_stone_brazier",
+    "type": 0,
+    "en": "Brazier (Limestone)",
+    "vi": "Brazier (Limestone)"
+  },
+  {
+    "key": "building_name_stone_brick_brazier",
+    "type": 0,
+    "en": "Brazier (Limestone Brick)",
+    "vi": "Brazier (Limestone Brick)"
+  },
+  {
+    "key": "building_name_general_decoration",
+    "type": 0,
+    "en": "Decoration",
+    "vi": "Decoration"
+  },
+  {
+    "key": "building_name_general_wall_decoration",
+    "type": 0,
+    "en": "Wall Decoration",
+    "vi": "Wall Decoration"
+  },
+  {
+    "key": "building_name_shrine_christian_stone",
+    "type": 0,
+    "en": "Restitutionist Shrine (Limestone)",
+    "vi": "Restitutionist Shrine (Limestone)"
+  },
+  {
+    "key": "building_name_shrine_christian_wood",
+    "type": 0,
+    "en": "Restitutionist Shrine (Wood)",
+    "vi": "Restitutionist Shrine (Wood)"
+  },
+  {
+    "key": "building_name_shrine_pagan_stone",
+    "type": 0,
+    "en": "Oak Brethren Shrine (Limestone)",
+    "vi": "Oak Brethren Shrine (Limestone)"
+  },
+  {
+    "key": "building_name_shrine_pagan_wood",
+    "type": 0,
+    "en": "Oak Brethren Shrine (Wood)",
+    "vi": "Oak Brethren Shrine (Wood)"
+  },
+  {
+    "key": "building_name_general_christian_shrine",
+    "type": 0,
+    "en": "Restitutionist Shrine",
+    "vi": "Restitutionist Shrine"
+  },
+  {
+    "key": "building_name_general_pagan_shrine",
+    "type": 0,
+    "en": "Oak Brethren Shrine",
+    "vi": "Oak Brethren Shrine"
+  },
+  {
+    "key": "building_name_statue_fate_stone",
+    "type": 0,
+    "en": "Statue Fate Stone",
+    "vi": "Statue Fate Stone"
+  },
+  {
+    "key": "building_name_statue_fate_wood",
+    "type": 0,
+    "en": "Statue Fate Wood",
+    "vi": "Statue Fate Wood"
+  },
+  {
+    "key": "building_name_statue_knight",
+    "type": 0,
+    "en": "Statue Knight",
+    "vi": "Statue Knight"
+  },
+  {
+    "key": "building_name_statue_obelisk",
+    "type": 0,
+    "en": "Statue Obelisk",
+    "vi": "Statue Obelisk"
+  },
+  {
+    "key": "building_name_statue_pagan_stone",
+    "type": 0,
+    "en": "Statue Pagan Stone",
+    "vi": "Statue Pagan Stone"
+  },
+  {
+    "key": "building_name_statue_pagan_wood",
+    "type": 0,
+    "en": "Statue Pagan Wood",
+    "vi": "Statue Pagan Wood"
+  },
+  {
+    "key": "building_name_statue_woman",
+    "type": 0,
+    "en": "Statue Woman",
+    "vi": "Statue Woman"
+  },
+  {
+    "key": "building_name_general_torch",
+    "type": 0,
+    "en": "Torch",
+    "vi": "Torch"
+  },
+  {
+    "key": "building_name_gold_torch",
+    "type": 0,
+    "en": "Torch (Gold)",
+    "vi": "Torch (Gold)"
+  },
+  {
+    "key": "building_name_gold_torch_wall",
+    "type": 0,
+    "en": "Wall Torch (Gold)",
+    "vi": "Wall Torch (Gold)"
+  },
+  {
+    "key": "building_name_silver_torch",
+    "type": 0,
+    "en": "Torch (Silver)",
+    "vi": "Torch (Silver)"
+  },
+  {
+    "key": "building_name_silver_torch_wall",
+    "type": 0,
+    "en": "Wall Torch (Silver)",
+    "vi": "Wall Torch (Silver)"
+  },
+  {
+    "key": "building_name_iron_torch",
+    "type": 0,
+    "en": "Torch (Iron)",
+    "vi": "Torch (Iron)"
+  },
+  {
+    "key": "building_name_iron_tourch_wall",
+    "type": 0,
+    "en": "Wall Torch (Iron)",
+    "vi": "Wall Torch (Iron)"
+  },
+  {
+    "key": "building_name_general_wall_torch",
+    "type": 0,
+    "en": "Wall Torch",
+    "vi": "Wall Torch"
+  },
+  {
+    "key": "building_name_wood_torch",
+    "type": 0,
+    "en": "Torch (Wood)",
+    "vi": "Torch (Wood)"
+  },
+  {
+    "key": "building_name_wood_torch_wall",
+    "type": 0,
+    "en": "Wall Torch (Wood)",
+    "vi": "Wall Torch (Wood)"
+  },
+  {
+    "key": "building_name_chair",
+    "type": 0,
+    "en": "Chair",
+    "vi": "Chair"
+  },
+  {
+    "key": "building_name_stool",
+    "type": 0,
+    "en": "Stool",
+    "vi": "Stool"
+  },
+  {
+    "key": "building_name_stone_chair",
+    "type": 0,
+    "en": "Stone Chair",
+    "vi": "Stone Chair"
+  },
+  {
+    "key": "building_name_stone_stool",
+    "type": 0,
+    "en": "Stone Stool",
+    "vi": "Stone Stool"
+  },
+  {
+    "key": "building_name_wicker_stool",
+    "type": 0,
+    "en": "Wicker Stool",
+    "vi": "Wicker Stool"
+  },
+  {
+    "key": "building_name_wood_chair",
+    "type": 0,
+    "en": "Wooden Chair",
+    "vi": "Wooden Chair"
+  },
+  {
+    "key": "building_name_wood_stool",
+    "type": 0,
+    "en": "Wooden Stool",
+    "vi": "Wooden Stool"
+  },
+  {
+    "key": "building_name_iron_chair",
+    "type": 0,
+    "en": "Iron Chair",
+    "vi": "Iron Chair"
+  },
+  {
+    "key": "building_name_quality_chair",
+    "type": 0,
+    "en": "Quality Chair",
+    "vi": "Quality Chair"
+  },
+  {
+    "key": "building_name_quality_chair_wool",
+    "type": 0,
+    "en": "Quality Chair (Wool)",
+    "vi": "Quality Chair (Wool)"
+  },
+  {
+    "key": "building_name_quality_chair_linen",
+    "type": 0,
+    "en": "Quality Chair (Linen)",
+    "vi": "Quality Chair (Linen)"
+  },
+  {
+    "key": "building_name_stone_table_large",
+    "type": 0,
+    "en": "Stone Table Large",
+    "vi": "Stone Table Large"
+  },
+  {
+    "key": "building_name_stone_table_medium",
+    "type": 0,
+    "en": "Stone Table Medium",
+    "vi": "Stone Table Medium"
+  },
+  {
+    "key": "building_name_stone_table_small",
+    "type": 0,
+    "en": "Stone Table Small",
+    "vi": "Stone Table Small"
+  },
+  {
+    "key": "building_name_wood_table_large",
+    "type": 0,
+    "en": "Wooden Table Large",
+    "vi": "Wooden Table Large"
+  },
+  {
+    "key": "building_name_wood_table_medium",
+    "type": 0,
+    "en": "Wooden Table Medium",
+    "vi": "Wooden Table Medium"
+  },
+  {
+    "key": "building_name_wood_table_small",
+    "type": 0,
+    "en": "Wooden Table Small",
+    "vi": "Wooden Table Small"
+  },
+  {
+    "key": "building_name_general_table_large",
+    "type": 0,
+    "en": "Large Table",
+    "vi": "Large Table"
+  },
+  {
+    "key": "building_name_general_table_medium",
+    "type": 0,
+    "en": "Medium Table ",
+    "vi": "Medium Table "
+  },
+  {
+    "key": "building_name_general_table_small",
+    "type": 0,
+    "en": "Small Table ",
+    "vi": "Small Table "
+  },
+  {
+    "key": "building_name_quality_table_large",
+    "type": 0,
+    "en": "Quality Table Large",
+    "vi": "Quality Table Large"
+  },
+  {
+    "key": "building_name_quality_table_medium",
+    "type": 0,
+    "en": "Quality Table Medium",
+    "vi": "Quality Table Medium"
+  },
+  {
+    "key": "building_name_quality_table_small",
+    "type": 0,
+    "en": "Quality Table Small",
+    "vi": "Quality Table Small"
+  },
+  {
+    "key": "building_name_wall_bookshelf",
+    "type": 0,
+    "en": "Wall Bookshelf",
+    "vi": "Wall Bookshelf"
+  },
+  {
+    "key": "building_name_wall_decoration_christian",
+    "type": 0,
+    "en": "Church of Restitution Wall Decoration",
+    "vi": "Church of Restitution Wall Decoration"
+  },
+  {
+    "key": "building_name_wall_decoration_pagan",
+    "type": 0,
+    "en": "Oak Brethren Wall Decoration",
+    "vi": "Oak Brethren Wall Decoration"
+  },
+  {
+    "key": "building_name_wall_mirror",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Wall Mirror"
+  },
+  {
+    "key": "building_name_wall_pottery_shelf",
+    "type": 0,
+    "en": "Wall Pottery Shelf",
+    "vi": "Wall Pottery Shelf"
+  },
+  {
+    "key": "building_name_wall_stone_lion_head",
+    "type": 0,
+    "en": "Wall Stone Lion Head",
+    "vi": "Wall Stone Lion Head"
+  },
+  {
+    "key": "building_name_wall_tapestry",
+    "type": 0,
+    "en": "Wall Tapestry",
+    "vi": "Wall Tapestry"
+  },
+  {
+    "key": "building_name_wall_tool_shelf",
+    "type": 0,
+    "en": "Wall Tool Shelf",
+    "vi": "Wall Tool Shelf"
+  },
+  {
+    "key": "building_name_fence",
+    "type": 0,
+    "en": "Fence",
+    "vi": "Fence"
+  },
+  {
+    "key": "building_name_wicker_fence",
+    "type": 0,
+    "en": "Fence (Wicker)",
+    "vi": "Fence (Wicker)"
+  },
+  {
+    "key": "building_name_stone_fence",
+    "type": 0,
+    "en": "Fence (Limestone)",
+    "vi": "Fence (Limestone)"
+  },
+  {
+    "key": "building_name_wood_fence",
+    "type": 0,
+    "en": "Fence (Wood)",
+    "vi": "Fence (Wood)"
+  },
+  {
+    "key": "building_name_wicker_bed",
+    "type": 0,
+    "en": "Wicker Bed",
+    "vi": "Wicker Bed"
+  },
+  {
+    "key": "building_name_royal_bed",
+    "type": 0,
+    "en": "Royal Bed",
+    "vi": "Royal Bed"
+  },
+  {
+    "key": "building_name_royal_bed_wool",
+    "type": 0,
+    "en": "Royal Bed (Wool)",
+    "vi": "Royal Bed (Wool)"
+  },
+  {
+    "key": "building_name_royal_bed_linen",
+    "type": 0,
+    "en": "Royal Bed (Linen)",
+    "vi": "Royal Bed (Linen)"
+  },
+  {
+    "key": "building_name_quality_bed",
+    "type": 0,
+    "en": "Quality Bed",
+    "vi": "Quality Bed"
+  },
+  {
+    "key": "building_name_quality_bed_wool",
+    "type": 0,
+    "en": "Quality Bed (Wool)",
+    "vi": "Quality Bed (Wool)"
+  },
+  {
+    "key": "building_name_quality_bed_linen",
+    "type": 0,
+    "en": "Quality Bed (Linen)",
+    "vi": "Quality Bed (Linen)"
+  },
+  {
+    "key": "building_name_hay_wood_bed",
+    "type": 0,
+    "en": "Wooden Hay Bed",
+    "vi": "Wooden Hay Bed"
+  },
+  {
+    "key": "building_name_hay_sleeping_spot",
+    "type": 0,
+    "en": "Hay Sleeping Spot",
+    "vi": "Hay Sleeping Spot"
+  },
+  {
+    "key": "building_name_medical_bed",
+    "type": 0,
+    "en": "Infirmary Bed",
+    "vi": "Infirmary Bed"
+  },
+  {
+    "key": "building_name_standing_bookshelf",
+    "type": 0,
+    "en": "Bookshelf",
+    "vi": "Bookshelf"
+  },
+  {
+    "key": "building_name_weapon_rack",
+    "type": 0,
+    "en": "Weapon Rack",
+    "vi": "Weapon Rack"
+  },
+  {
+    "key": "building_name_armour_rack",
+    "type": 0,
+    "en": "Armour Rack",
+    "vi": "Armour Rack"
+  },
+  {
+    "key": "building_name_shelf",
+    "type": 0,
+    "en": "Shelf",
+    "vi": "Shelf"
+  },
+  {
+    "key": "building_name_hook",
+    "type": 0,
+    "en": "Meat Hook",
+    "vi": "Meat Hook"
+  },
+  {
+    "key": "building_name_wall_medicine_shelf",
+    "type": 0,
+    "en": "Medicine Shelf",
+    "vi": "Medicine Shelf"
+  },
+  {
+    "key": "building_name_candle",
+    "type": 0,
+    "en": "Candelabra",
+    "vi": "Candelabra"
+  },
+  {
+    "key": "building_name_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce",
+    "vi": "Candle Sconce"
+  },
+  {
+    "key": "building_name_gold_candle",
+    "type": 0,
+    "en": "Candelabra (Gold)",
+    "vi": "Candelabra (Gold)"
+  },
+  {
+    "key": "building_name_gold_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce (Gold)",
+    "vi": "Candle Sconce (Gold)"
+  },
+  {
+    "key": "building_name_silver_candle",
+    "type": 0,
+    "en": "Candelabra (Silver)",
+    "vi": "Candelabra (Silver)"
+  },
+  {
+    "key": "building_name_silver_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce (Silver)",
+    "vi": "Candle Sconce (Silver)"
+  },
+  {
+    "key": "building_name_iron_candle",
+    "type": 0,
+    "en": "Candelabra (Iron)",
+    "vi": "Candelabra (Iron)"
+  },
+  {
+    "key": "building_name_iron_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce (Iron)",
+    "vi": "Candle Sconce (Iron)"
+  },
+  {
+    "key": "building_name_wood_candle",
+    "type": 0,
+    "en": "Candelabra (Wood)",
+    "vi": "Candelabra (Wood)"
+  },
+  {
+    "key": "building_name_wood_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce (Wood)",
+    "vi": "Candle Sconce (Wood)"
+  },
+  {
+    "key": "building_name_stone_candle",
+    "type": 0,
+    "en": "Candelabra (Limestone)",
+    "vi": "Candelabra (Limestone)"
+  },
+  {
+    "key": "building_name_stone_candle_wall",
+    "type": 0,
+    "en": "Candle Sconce (Limestone)",
+    "vi": "Candle Sconce (Limestone)"
+  },
+  {
+    "key": "building_name_map_table",
+    "type": 0,
+    "en": "Cartography Table",
+    "vi": "Cartography Table"
+  },
+  {
+    "key": "building_name_caravan_post",
+    "type": 0,
+    "en": "Caravan Halt",
+    "vi": "Caravan Halt"
+  },
+  {
+    "key": "building_name_archery_range",
+    "type": 0,
+    "en": "Archery Range",
+    "vi": "Archery Range"
+  },
+  {
+    "key": "building_name_practice_dummy",
+    "type": 0,
+    "en": "Practice Dummy",
+    "vi": "Practice Dummy"
+  },
+  {
+    "key": "building_name_banner",
+    "type": 0,
+    "en": "Banner",
+    "vi": "Banner"
+  },
+  {
+    "key": "building_name_banner_linen",
+    "type": 0,
+    "en": "Banner (Linen)",
+    "vi": "Banner (Linen)"
+  },
+  {
+    "key": "building_name_banner_wool",
+    "type": 0,
+    "en": "Banner (Wool)",
+    "vi": "Banner (Wool)"
+  },
+  {
+    "key": "building_name_banner_leather_deer",
+    "type": 0,
+    "en": "Banner (Deer hide)",
+    "vi": "Banner (Deer hide)"
+  },
+  {
+    "key": "building_name_banner_leather_hare",
+    "type": 0,
+    "en": "Banner (Hare pelt)",
+    "vi": "Banner (Hare pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_wolf",
+    "type": 0,
+    "en": "Banner (Wolf pelt)",
+    "vi": "Banner (Wolf pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_boar",
+    "type": 0,
+    "en": "Banner (Boar pelt)",
+    "vi": "Banner (Boar pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_fox",
+    "type": 0,
+    "en": "Banner (Fox pelt)",
+    "vi": "Banner (Fox pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_rat",
+    "type": 0,
+    "en": "Banner (Rat pelt)",
+    "vi": "Banner (Rat pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_water_vole",
+    "type": 0,
+    "en": "Banner (Water vole pelt)",
+    "vi": "Banner (Water vole pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_polecat",
+    "type": 0,
+    "en": "Banner (Polecat pelt)",
+    "vi": "Banner (Polecat pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_cow",
+    "type": 0,
+    "en": "Banner (Cow hide)",
+    "vi": "Banner (Cow hide)"
+  },
+  {
+    "key": "building_name_banner_leather_goat",
+    "type": 0,
+    "en": "Banner (Goat skin)",
+    "vi": "Banner (Goat skin)"
+  },
+  {
+    "key": "building_name_banner_leather_sheep",
+    "type": 0,
+    "en": "Banner (Sheep skin)",
+    "vi": "Banner (Sheep skin)"
+  },
+  {
+    "key": "building_name_banner_leather_donkey",
+    "type": 0,
+    "en": "Banner (Ass hide)",
+    "vi": "Banner (Ass hide)"
+  },
+  {
+    "key": "building_name_banner_leather_cat",
+    "type": 0,
+    "en": "Banner (Cat skin)",
+    "vi": "Banner (Cat skin)"
+  },
+  {
+    "key": "building_name_banner_leather_dog",
+    "type": 0,
+    "en": "Banner (Dog pelt)",
+    "vi": "Banner (Dog pelt)"
+  },
+  {
+    "key": "building_name_banner_leather_human",
+    "type": 0,
+    "en": "Banner (Human skin)",
+    "vi": "Banner (Human skin)"
+  },
+  {
+    "key": "building_name_banner_leather_bear",
+    "type": 0,
+    "en": "Banner (Bear skin)",
+    "vi": "Banner (Bear skin)"
+  },
+  {
+    "key": "building_name_banner_wall",
+    "type": 0,
+    "en": "Wall Banner",
+    "vi": "Wall Banner"
+  },
+  {
+    "key": "building_name_banner_wall_linen",
+    "type": 0,
+    "en": "Wall Banner (Linen)",
+    "vi": "Wall Banner (Linen)"
+  },
+  {
+    "key": "building_name_banner_wall_leather",
+    "type": 0,
+    "en": "Wall Banner (Leather)",
+    "vi": "Wall Banner (Leather)"
+  },
+  {
+    "key": "building_name_banner_wall_wool",
+    "type": 0,
+    "en": "Wall Banner (Wool)",
+    "vi": "Wall Banner (Wool)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_deer",
+    "type": 0,
+    "en": "Wall Banner (Deer hide)",
+    "vi": "Wall Banner (Deer hide)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_hare",
+    "type": 0,
+    "en": "Wall Banner (Hare pelt)",
+    "vi": "Wall Banner (Hare pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_wolf",
+    "type": 0,
+    "en": "Wall Banner (Wolf pelt)",
+    "vi": "Wall Banner (Wolf pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_boar",
+    "type": 0,
+    "en": "Wall Banner (Boar pelt)",
+    "vi": "Wall Banner (Boar pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_fox",
+    "type": 0,
+    "en": "Wall Banner (Fox pelt)",
+    "vi": "Wall Banner (Fox pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_rat",
+    "type": 0,
+    "en": "Wall Banner (Rat pelt)",
+    "vi": "Wall Banner (Rat pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_water_vole",
+    "type": 0,
+    "en": "Wall Banner (Water vole pelt)",
+    "vi": "Wall Banner (Water vole pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_polecat",
+    "type": 0,
+    "en": "Wall Banner (Polecat pelt)",
+    "vi": "Wall Banner (Polecat pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_cow",
+    "type": 0,
+    "en": "Wall Banner (Cow hide)",
+    "vi": "Wall Banner (Cow hide)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_goat",
+    "type": 0,
+    "en": "Wall Banner (Goat skin)",
+    "vi": "Wall Banner (Goat skin)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_sheep",
+    "type": 0,
+    "en": "Wall Banner (Sheep skin)",
+    "vi": "Wall Banner (Sheep skin)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_donkey",
+    "type": 0,
+    "en": "Wall Banner (Ass hide)",
+    "vi": "Wall Banner (Ass hide)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_cat",
+    "type": 0,
+    "en": "Wall Banner (Cat skin)",
+    "vi": "Wall Banner (Cat skin)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_dog",
+    "type": 0,
+    "en": "Wall Banner (Dog pelt)",
+    "vi": "Wall Banner (Dog pelt)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_bear",
+    "type": 0,
+    "en": "Wall Banner (Bear skin)",
+    "vi": "Wall Banner (Bear skin)"
+  },
+  {
+    "key": "building_name_banner_wall_leather_human",
+    "type": 0,
+    "en": "Wall Banner (Human skin)",
+    "vi": "Wall Banner (Human skin)"
+  },
+  {
+    "key": "building_name_wardrobe",
+    "type": 0,
+    "en": "Wardrobe",
+    "vi": "Wardrobe"
+  },
+  {
+    "key": "building_name_wall_instrument_shelf",
+    "type": 0,
+    "en": "Musical Instrument Shelf",
+    "vi": "Musical Instrument Shelf"
+  },
+  {
+    "key": "building_name_pagan_ritual_circle",
+    "type": 0,
+    "en": "Oak Brethren Ritual Circle",
+    "vi": "Oak Brethren Ritual Circle"
+  },
+  {
+    "key": "building_name_book_stand",
+    "type": 0,
+    "en": "Restitutionist Lectern",
+    "vi": "Restitutionist Lectern"
+  }
+]

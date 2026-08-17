@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "tainted_info",
+    "type": 0,
+    "en": "This item has been stripped from a carcass. As a result it is devalued, and some of your settlers may react negatively to wearing it.",
+    "vi": "This item has been stripped from a carcass. As a result it is devalued, and some of your settlers may react negatively to wearing it."
+  },
+  {
+    "key": "Equipment name",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "prox_info_moribund",
+    "type": 0,
+    "en": "When injured, <name>'s wounds emit a sickly odour that Precious and Dainty settlers find revolting",
+    "vi": "When injured, <name>'s wounds emit a sickly odour that Precious and Dainty settlers find revolting"
+  },
+  {
+    "key": "prox_info_messy_eather",
+    "type": 0,
+    "en": "<name>'s slobbering, slovenly dining habits can prove unpleasant to witness",
+    "vi": "<name>'s slobbering, slovenly dining habits can prove unpleasant to witness"
+  },
+  {
+    "key": "prox_info_positive",
+    "type": 0,
+    "en": "Cheery and thoughtful, <name>'s presence lifts the mood of those close by",
+    "vi": "Cheery and thoughtful, <name>'s presence lifts the mood of those close by"
+  },
+  {
+    "key": "prox_info_negative",
+    "type": 0,
+    "en": "Gruff and gloomy, <name>'s presence dampens the spirits of everyone nearby",
+    "vi": "Gruff and gloomy, <name>'s presence dampens the spirits of everyone nearby"
+  },
+  {
+    "key": "prox_info_industrious",
+    "type": 0,
+    "en": "<name>'s work ethic encourages settlers close by to pick up their pace",
+    "vi": "<name>'s work ethic encourages settlers close by to pick up their pace"
+  },
+  {
+    "key": "prox_info_sluggardly",
+    "type": 0,
+    "en": "Onlookers experience frustration when they witness <name>'s shoddy work",
+    "vi": "Onlookers experience frustration when they witness <name>'s shoddy work"
+  },
+  {
+    "key": "prox_info_dullard",
+    "type": 0,
+    "en": "The Wise and Erudite become short-tempered around <name>'s lack of sense",
+    "vi": "The Wise and Erudite become short-tempered around <name>'s lack of sense"
+  },
+  {
+    "key": "has_rebellious_state",
+    "type": 0,
+    "en": "Additional Rebellious State",
+    "vi": "Additional Rebellious State"
+  },
+  {
+    "key": "rebl_name_EatBindge",
+    "type": 0,
+    "en": "Binge Eating",
+    "vi": "Binge Eating"
+  },
+  {
+    "key": "rebl_name_InsultSpree",
+    "type": 0,
+    "en": "Heckling",
+    "vi": "Heckling"
+  },
+  {
+    "key": "rebl_name_solitaryIdle",
+    "type": 0,
+    "en": "Isolating",
+    "vi": "Isolating"
+  },
+  {
+    "key": "rebl_name_drinkEntBindge",
+    "type": 0,
+    "en": "Reveling",
+    "vi": "Reveling"
+  },
+  {
+    "key": "rebl_name_fistFight",
+    "type": 0,
+    "en": "Quarrelsome",
+    "vi": "Quarrelsome"
+  },
+  {
+    "key": "rebl_name_idleHot",
+    "type": 0,
+    "en": "Cooling off",
+    "vi": "Cooling off"
+  },
+  {
+    "key": "rebl_name_idleCold",
+    "type": 0,
+    "en": "Drawn to the fire",
+    "vi": "Drawn to the fire"
+  },
+  {
+    "key": "rebl_name_natureIdle",
+    "type": 0,
+    "en": "Feral",
+    "vi": "Feral"
+  },
+  {
+    "key": "has_merry_state",
+    "type": 0,
+    "en": "Invigorated",
+    "vi": "Invigorated"
+  },
+  {
+    "key": "merry_name_Vigorous",
+    "type": 0,
+    "en": "Rejuvenated",
+    "vi": "Rejuvenated"
+  },
+  {
+    "key": "merry_name_robust",
+    "type": 0,
+    "en": "Revitalised",
+    "vi": "Revitalised"
+  },
+  {
+    "key": "merry_name_Infirm",
+    "type": 0,
+    "en": "Gastronomically Inspired",
+    "vi": "Gastronomically Inspired"
+  },
+  {
+    "key": "merry_name_Gourmet",
+    "type": 0,
+    "en": "Mighty",
+    "vi": "Mighty"
+  },
+  {
+    "key": "merry_name_Brawler",
+    "type": 0,
+    "en": "Charming",
+    "vi": "Charming"
+  },
+  {
+    "key": "merry_name_Winsome",
+    "type": 0,
+    "en": "Green-fingered",
+    "vi": "Green-fingered"
+  },
+  {
+    "key": "merry_name_GreenThumb",
+    "type": 0,
+    "en": "Attuned to beasts",
+    "vi": "Attuned to beasts"
+  },
+  {
+    "key": "merry_name_Wicche",
+    "type": 0,
+    "en": "Inspired",
+    "vi": "Inspired"
+  },
+  {
+    "key": "merry_name_Dainty",
+    "type": 0,
+    "en": "Set to excavate",
+    "vi": "Set to excavate"
+  },
+  {
+    "key": "merry_name_Hefty",
+    "type": 0,
+    "en": "Astute",
+    "vi": "Astute"
+  },
+  {
+    "key": "merry_name_Wise",
+    "type": 0,
+    "en": "Ingenious",
+    "vi": "Ingenious"
+  },
+  {
+    "key": "merry_name_Erudite",
+    "type": 0,
+    "en": "Ingenious",
+    "vi": "Ingenious"
+  },
+  {
+    "key": "affection_tooltip",
+    "type": 0,
+    "en": "Affection",
+    "vi": "Affection"
+  },
+  {
+    "key": "relation_towards",
+    "type": 0,
+    "en": "My affection towards <settler_name> : <affection_amount>",
+    "vi": "My affection towards <settler_name> : <affection_amount>"
+  },
+  {
+    "key": "relation_from",
+    "type": 0,
+    "en": "<settler_name>`s affection towards me: <affection_amount>",
+    "vi": "<settler_name>`s affection towards me: <affection_amount>"
+  },
+  {
+    "key": "affection_borders",
+    "type": 0,
+    "en": "Affection Range",
+    "vi": "Affection Range"
+  },
+  {
+    "key": "rally_point_panel_desc",
+    "type": 0,
+    "en": "Select which settlers will gather at this point when drafted.",
+    "vi": "Select which settlers will gather at this point when drafted."
+  },
+  {
+    "key": "bell_panel_desc",
+    "type": 0,
+    "en": "Select the rally points that will activate when you ring this bell.",
+    "vi": "Select the rally points that will activate when you ring this bell."
+  },
+  {
+    "key": "rally_point_marker_default_name",
+    "type": 0,
+    "en": "Rally Point",
+    "vi": "Rally Point"
+  },
+  {
+    "key": "bell_default_name",
+    "type": 0,
+    "en": "Large Bell",
+    "vi": "Large Bell"
+  },
+  {
+    "key": "rally_point_panel_armed_only",
+    "type": 0,
+    "en": "Armed Settlers only",
+    "vi": "Armed Settlers only"
+  },
+  {
+    "key": "rally_point_already_in",
+    "type": 0,
+    "en": "This settler is already assigned to rally point: ",
+    "vi": "This settler is already assigned to rally point: "
+  },
+  {
+    "key": "lb_use_rally_points",
+    "type": 0,
+    "en": "Use Rally Points",
+    "vi": "Use Rally Points"
+  },
+  {
+    "key": "lb_use_rally_points_title",
+    "type": 0,
+    "en": "Assigned to Rally Point",
+    "vi": "Assigned to Rally Point"
+  },
+  {
+    "key": "lb_use_rally_points_info",
+    "type": 0,
+    "en": "If unchecked, this settler will not draft when the rally point is activated.",
+    "vi": "If unchecked, this settler will not draft when the rally point is activated."
+  },
+  {
+    "key": "production names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "Roof names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "trap names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "graves names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "cropfield names",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "cropfield info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "roof info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "production info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "graves info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "traps info",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "pseudonym_name_Red",
+    "type": 0,
+    "en": "The Red",
+    "vi": "The Red"
+  },
+  {
+    "key": "pseudonym_name_Butcher",
+    "type": 0,
+    "en": "The Butcher",
+    "vi": "The Butcher"
+  },
+  {
+    "key": "pseudonym_name_Saint",
+    "type": 0,
+    "en": "The Saint",
+    "vi": "The Saint"
+  },
+  {
+    "key": "pseudonym_name_Chou",
+    "type": 0,
+    "en": "Le Chou",
+    "vi": "Le Chou"
+  },
+  {
+    "key": "pseudonym_name_Bastard",
+    "type": 0,
+    "en": "The Bastard",
+    "vi": "The Bastard"
+  },
+  {
+    "key": "pseudonym_name_Pagan",
+    "type": 0,
+    "en": "The Pagan",
+    "vi": "The Pagan"
+  },
+  {
+    "key": "pseudonym_name_Cuckold",
+    "type": 0,
+    "en": "The Cuckold",
+    "vi": "The Cuckold"
+  },
+  {
+    "key": "pseudonym_name_Rebel",
+    "type": 0,
+    "en": "The Rebel",
+    "vi": "The Rebel"
+  },
+  {
+    "key": "pseudonym_name_Apostle",
+    "type": 0,
+    "en": "The Apostle",
+    "vi": "The Apostle"
+  },
+  {
+    "key": "pseudonym_name_Zealot",
+    "type": 0,
+    "en": "The Zealot",
+    "vi": "The Zealot"
+  },
+  {
+    "key": "pseudonym_name_Heretic",
+    "type": 0,
+    "en": "The Heretic",
+    "vi": "The Heretic"
+  },
+  {
+    "key": "pseudonym_name_Chaste",
+    "type": 0,
+    "en": "The Chaste",
+    "vi": "The Chaste"
+  },
+  {
+    "key": "pseudonym_name_Pudding",
+    "type": 0,
+    "en": "The Pudding",
+    "vi": "The Pudding"
+  },
+  {
+    "key": "pseudonym_name_Forlorn",
+    "type": 0,
+    "en": "The Forlorn",
+    "vi": "The Forlorn"
+  },
+  {
+    "key": "pseudonym_name_Tart",
+    "type": 0,
+    "en": "The Tart",
+    "vi": "The Tart"
+  },
+  {
+    "key": "pseudonym_name_Doctor",
+    "type": 0,
+    "en": "The Doctor",
+    "vi": "The Doctor"
+  },
+  {
+    "key": "pseudonym_name_Fool",
+    "type": 0,
+    "en": "The Fool",
+    "vi": "The Fool"
+  },
+  {
+    "key": "pseudonym_name_Spy",
+    "type": 0,
+    "en": "The Spy",
+    "vi": "The Spy"
+  },
+  {
+    "key": "pseudonym_name_Deceiver",
+    "type": 0,
+    "en": "The Deceiver",
+    "vi": "The Deceiver"
+  },
+  {
+    "key": "pseudonym_name_Broken",
+    "type": 0,
+    "en": "The Broken",
+    "vi": "The Broken"
+  },
+  {
+    "key": "pseudonym_name_Bard",
+    "type": 0,
+    "en": "The Minstrel",
+    "vi": "The Minstrel"
+  },
+  {
+    "key": "pseudonym_name_Crow",
+    "type": 0,
+    "en": "The Crow",
+    "vi": "The Crow"
+  },
+  {
+    "key": "pseudonym_name_Bonesetter",
+    "type": 0,
+    "en": "The Bonesetter",
+    "vi": "The Bonesetter"
+  },
+  {
+    "key": "pseudonym_name_Wakeful",
+    "type": 0,
+    "en": "The Wakeful",
+    "vi": "The Wakeful"
+  },
+  {
+    "key": "pseudonym_name_Bold",
+    "type": 0,
+    "en": "The Bold",
+    "vi": "The Bold"
+  },
+  {
+    "key": "pseudonym_name_Spear_Maiden",
+    "type": 0,
+    "en": "The Spear Maiden",
+    "vi": "The Spear Maiden"
+  },
+  {
+    "key": "pseudonym_name_Confessor",
+    "type": 0,
+    "en": "The Confessor",
+    "vi": "The Confessor"
+  },
+  {
+    "key": "pseudonym_name_Philosopher",
+    "type": 0,
+    "en": "The Philosopher",
+    "vi": "The Philosopher"
+  },
+  {
+    "key": "pseudonym_name_Lucky",
+    "type": 0,
+    "en": "The Lucky",
+    "vi": "The Lucky"
+  },
+  {
+    "key": "pseudonym_name_Prodigal",
+    "type": 0,
+    "en": "The Prodigal",
+    "vi": "The Prodigal"
+  },
+  {
+    "key": "pseudonym_name_Paramour",
+    "type": 0,
+    "en": "The Paramour",
+    "vi": "The Paramour"
+  },
+  {
+    "key": "pseudonym_name_Riddler",
+    "type": 0,
+    "en": "The Riddler",
+    "vi": "The Riddler"
+  },
+  {
+    "key": "pseudonym_name_Kitten",
+    "type": 0,
+    "en": "The Kitten",
+    "vi": "The Kitten"
+  },
+  {
+    "key": "pseudonym_name_Lamb",
+    "type": 0,
+    "en": "The Lamb",
+    "vi": "The Lamb"
+  },
+  {
+    "key": "pseudonym_name_Bride",
+    "type": 0,
+    "en": "The [Bridegroom/Bride]",
+    "vi": "The [Bridegroom/Bride]"
+  },
+  {
+    "key": "pseudonym_name_Thief",
+    "type": 0,
+    "en": "The Thief",
+    "vi": "The Thief"
+  },
+  {
+    "key": "pseudonym_name_Pirate",
+    "type": 0,
+    "en": "The Pirate",
+    "vi": "The Pirate"
+  },
+  {
+    "key": "pseudonym_name_Ghost",
+    "type": 0,
+    "en": "The Ghost",
+    "vi": "The Ghost"
+  },
+  {
+    "key": "pseudonym_name_Hanged",
+    "type": 0,
+    "en": "The Hanged",
+    "vi": "The Hanged"
+  },
+  {
+    "key": "pseudonym_info_Red",
+    "type": 0,
+    "en": "The world had changed, and so had <name>. Having nothing more to lose, [he/she] joined a group of marauding bandits, and was soon their leader. Insatiable bloodlust in various assaults and squirmishes soon earned <name> a nickname 'The Red'.",
+    "vi": "The world had changed, and so had <name>. Having nothing more to lose, [he/she] joined a group of marauding bandits, and was soon their leader. Insatiable bloodlust in various assaults and squirmishes soon earned <name> a nickname 'The Red'."
+  },
+  {
+    "key": "pseudonym_info_Butcher",
+    "type": 0,
+    "en": "<name> wasn’t particularly smart nor talented, so each summer, around Pentecost, [his/her] parents sent [him/her] to help Uncle Aldwin at the livestock farm. <name> proved adept at slitting throats. [He/She]’s been known as 'The Butcher' ever since.",
+    "vi": "<name> wasn’t particularly smart nor talented, so each summer, around Pentecost, [his/her] parents sent [him/her] to help Uncle Aldwin at the livestock farm. <name> proved adept at slitting throats. [He/She]’s been known as 'The Butcher' ever since."
+  },
+  {
+    "key": "pseudonym_info_Saint",
+    "type": 0,
+    "en": "<name> was not averse to nursing lepers and other outcasts, but it was to the animal kingdom that [he/she] felt the deepest afinity. <name> blushed and demured when likened to St Francis, but the comparison was apt.",
+    "vi": "<name> was not averse to nursing lepers and other outcasts, but it was to the animal kingdom that [he/she] felt the deepest afinity. <name> blushed and demured when likened to St Francis, but the comparison was apt."
+  },
+  {
+    "key": "pseudonym_info_Chou",
+    "type": 0,
+    "en": "<name> spent so long in the vegetable garden as a child that [his/her] mother, of Norman stock, affectionately called [him/her] 'cabbage', as is the French way. To this day, <name> still has a green thumb, especially for brassicas.",
+    "vi": "<name> spent so long in the vegetable garden as a child that [his/her] mother, of Norman stock, affectionately called [him/her] 'cabbage', as is the French way. To this day, <name> still has a green thumb, especially for brassicas."
+  },
+  {
+    "key": "pseudonym_info_Bastard",
+    "type": 0,
+    "en": "An apologist for the Philosophers of the Natural Order, <name> harboured a nagging fear that wherever [his/her] errant father was, he might be a follower of Gregorius, or even a cannibal. <name>'s friends called [him/her] 'bastard' and made it worse.",
+    "vi": "An apologist for the Philosophers of the Natural Order, <name> harboured a nagging fear that wherever [his/her] errant father was, he might be a follower of Gregorius, or even a cannibal. <name>'s friends called [him/her] 'bastard' and made it worse."
+  },
+  {
+    "key": "pseudonym_info_Pagan",
+    "type": 0,
+    "en": "<name> spoke to plants and buried strange parcels in the woods under the full moon. Nobody dared speak up against [him/her] due to rumours <name> could hex them. <name> did not care that other humans called [him/her] 'Pagan'. Humans were the problem.",
+    "vi": "<name> spoke to plants and buried strange parcels in the woods under the full moon. Nobody dared speak up against [him/her] due to rumours <name> could hex them. <name> did not care that other humans called [him/her] 'Pagan'. Humans were the problem."
+  },
+  {
+    "key": "pseudonym_info_Cuckold",
+    "type": 0,
+    "en": "It was well known that <name>'s spouse was unfaithful, and <name> didn't seem willing or able to do anything about it. Once a beaten, unwanted child, <name> was perfectly content to gather up whatever crumbs of affection [he/she] could salvage.",
+    "vi": "It was well known that <name>'s spouse was unfaithful, and <name> didn't seem willing or able to do anything about it. Once a beaten, unwanted child, <name> was perfectly content to gather up whatever crumbs of affection [he/she] could salvage."
+  },
+  {
+    "key": "pseudonym_info_Rebel",
+    "type": 0,
+    "en": "<name> is young at heart. <name> likes to joke around and play the fool. [He/She] avoids responsibility at all costs, laughing at [his/her] elders.",
+    "vi": "<name> is young at heart. <name> likes to joke around and play the fool. [He/She] avoids responsibility at all costs, laughing at [his/her] elders."
+  },
+  {
+    "key": "pseudonym_info_Apostle",
+    "type": 0,
+    "en": "<name> was a follower alright, and loved to go on about the scriptures. [His/Her] proselytising could become a little tiresome and repetitive. When <name> wouldn't shut up, they called [him/her] 'The Apostle'. <name> thought it was a complement.",
+    "vi": "<name> was a follower alright, and loved to go on about the scriptures. [His/Her] proselytising could become a little tiresome and repetitive. When <name> wouldn't shut up, they called [him/her] 'The Apostle'. <name> thought it was a complement."
+  },
+  {
+    "key": "pseudonym_info_Zealot",
+    "type": 0,
+    "en": "<name> keeps making altars and offerings, stopping the day's business to say prayers and muttering about sin. One might be forgiven for saying [he/she] takes it a bit far.",
+    "vi": "<name> keeps making altars and offerings, stopping the day's business to say prayers and muttering about sin. One might be forgiven for saying [he/she] takes it a bit far."
+  },
+  {
+    "key": "pseudonym_info_Heretic",
+    "type": 0,
+    "en": "<name> speaks of the God of Abraham and the mosques of the Moors, of sacred groves, lost scrolls and forbidden rites. <name> knows a bit too much for [his/her] own good.",
+    "vi": "<name> speaks of the God of Abraham and the mosques of the Moors, of sacred groves, lost scrolls and forbidden rites. <name> knows a bit too much for [his/her] own good."
+  },
+  {
+    "key": "pseudonym_info_Chaste",
+    "type": 0,
+    "en": "<name> is pining for a dead lover, and will never marry another. <name> is living in the past, trying to stop precious memories from slipping away, and shuns all affection.",
+    "vi": "<name> is pining for a dead lover, and will never marry another. <name> is living in the past, trying to stop precious memories from slipping away, and shuns all affection."
+  },
+  {
+    "key": "pseudonym_info_Pudding",
+    "type": 0,
+    "en": "<name> could make an excellent fygey pudding, among other desserts. [He/She] never lacked for paramours, being bonny and sweet, with just enough spice. Lovers, rivals and jilted exes all called <name> 'pudding', with varying degrees of affection.",
+    "vi": "<name> could make an excellent fygey pudding, among other desserts. [He/She] never lacked for paramours, being bonny and sweet, with just enough spice. Lovers, rivals and jilted exes all called <name> 'pudding', with varying degrees of affection."
+  },
+  {
+    "key": "pseudonym_info_Forlorn",
+    "type": 0,
+    "en": "When not complaining, <name> was weeping into [his/her] pottage. This was destinctly unappetising. It did not pay to ask <name> why [he/she] was forlorn, since [his/her] tales of woe were so distressing they would haunt your dreams forever.",
+    "vi": "When not complaining, <name> was weeping into [his/her] pottage. This was destinctly unappetising. It did not pay to ask <name> why [he/she] was forlorn, since [his/her] tales of woe were so distressing they would haunt your dreams forever."
+  },
+  {
+    "key": "pseudonym_info_Tart",
+    "type": 0,
+    "en": "<name> was not in the least flirtatious. [He/She] got [his/her] nickname thanks to an acerbic nature, that left a bitter taste even after the briefest of interactions. <name> was the ultimate sourpuss.",
+    "vi": "<name> was not in the least flirtatious. [He/She] got [his/her] nickname thanks to an acerbic nature, that left a bitter taste even after the briefest of interactions. <name> was the ultimate sourpuss."
+  },
+  {
+    "key": "pseudonym_info_Doctor",
+    "type": 0,
+    "en": "<name> had saved a friend's life at just 10 years old, earning the title of 'doctor'. Less well known was that <name> had abandoned many beseeching patients during the unremitting horror of The Pestilence. It was a title burdened with secret shame.",
+    "vi": "<name> had saved a friend's life at just 10 years old, earning the title of 'doctor'. Less well known was that <name> had abandoned many beseeching patients during the unremitting horror of The Pestilence. It was a title burdened with secret shame."
+  },
+  {
+    "key": "pseudonym_info_Fool",
+    "type": 0,
+    "en": "<name> had at one time played the fool at court, and revelled in being allowed to insult the high and mighty, as long as [he/she] caused enough mirth to compensate. [His/Her] cutting wit and humourous insults were unsurpassed.",
+    "vi": "<name> had at one time played the fool at court, and revelled in being allowed to insult the high and mighty, as long as [he/she] caused enough mirth to compensate. [His/Her] cutting wit and humourous insults were unsurpassed."
+  },
+  {
+    "key": "pseudonym_info_Spy",
+    "type": 0,
+    "en": "<name> had once been bribed by the abbot to listen for compromising secrets at the manor of <origin>. Alas [he/she] had been exposed and disavowed by all concerned. <name> was a pretty useless spy, but to this day, nobody trusted [him/her].",
+    "vi": "<name> had once been bribed by the abbot to listen for compromising secrets at the manor of <origin>. Alas [he/she] had been exposed and disavowed by all concerned. <name> was a pretty useless spy, but to this day, nobody trusted [him/her]."
+  },
+  {
+    "key": "pseudonym_info_Deceiver",
+    "type": 0,
+    "en": "As a sailor, <name> offered safe passage to desperate townsfolk attempting to flee the Tide of Death to the Western Isles or Hibernia. Once out at sea, <name> tossed them overboard, stripping their valuables. 'It's just business', <name> shrugged.",
+    "vi": "As a sailor, <name> offered safe passage to desperate townsfolk attempting to flee the Tide of Death to the Western Isles or Hibernia. Once out at sea, <name> tossed them overboard, stripping their valuables. 'It's just business', <name> shrugged."
+  },
+  {
+    "key": "pseudonym_info_Broken",
+    "type": 0,
+    "en": "It was said that <name>'s adventuring career came to an abrupt end when [he/she] took an arrow to the knee. [He/She] does have a funny walk.",
+    "vi": "It was said that <name>'s adventuring career came to an abrupt end when [he/she] took an arrow to the knee. [He/She] does have a funny walk."
+  },
+  {
+    "key": "pseudonym_info_Bard",
+    "type": 0,
+    "en": "<name> had the voice of an angel and the memory of a druid. [His/Her] spellbinding tales and sweet lullabies earned <name> the honorary title of 'minstrel'.",
+    "vi": "<name> had the voice of an angel and the memory of a druid. [His/Her] spellbinding tales and sweet lullabies earned <name> the honorary title of 'minstrel'."
+  },
+  {
+    "key": "pseudonym_info_Crow",
+    "type": 0,
+    "en": "Some folk still left bread and milk out for the fairy folk, a custom as old as the very hills. <name> would swoop in and gobble these up, the wiley old bird.",
+    "vi": "Some folk still left bread and milk out for the fairy folk, a custom as old as the very hills. <name> would swoop in and gobble these up, the wiley old bird."
+  },
+  {
+    "key": "pseudonym_info_Bonesetter",
+    "type": 0,
+    "en": "<name> had first practiced on animals but soon moved on to human subjects. The way [he/she] hovered [his/her] hands over the damaged limb before giving a sudden, brisk wrench was almost mystical. <name> could not explain how [he/she] did it.",
+    "vi": "<name> had first practiced on animals but soon moved on to human subjects. The way [he/she] hovered [his/her] hands over the damaged limb before giving a sudden, brisk wrench was almost mystical. <name> could not explain how [he/she] did it."
+  },
+  {
+    "key": "pseudonym_info_Wakeful",
+    "type": 0,
+    "en": "<name> could never sleep, so [he/she] gained a reputation as a good watchman. [His/Her] night vision was highly tuned.",
+    "vi": "<name> could never sleep, so [he/she] gained a reputation as a good watchman. [His/Her] night vision was highly tuned."
+  },
+  {
+    "key": "pseudonym_info_Bold",
+    "type": 0,
+    "en": "<name> once took on three pirates after drinking for a day and a night. No one remembers if [he/she] prevailed through bravery or foolhardiness, but the legend lives on.",
+    "vi": "<name> once took on three pirates after drinking for a day and a night. No one remembers if [he/she] prevailed through bravery or foolhardiness, but the legend lives on."
+  },
+  {
+    "key": "pseudonym_info_Spear_Maiden",
+    "type": 0,
+    "en": "<name> is like a fierce valkyrie from the times of the norsemen. [She] is fearless in the face of death, wild with the bloodlust of battle. They call her shieldmaiden.",
+    "vi": "<name> is like a fierce valkyrie from the times of the norsemen. [She] is fearless in the face of death, wild with the bloodlust of battle. They call her shieldmaiden."
+  },
+  {
+    "key": "pseudonym_info_Confessor",
+    "type": 0,
+    "en": "<name> will solemnly unburden [him/her]self of a long list of [his/her] slain victims, in minute and sometimes tedious detail. Nobody really wants to hear it.",
+    "vi": "<name> will solemnly unburden [him/her]self of a long list of [his/her] slain victims, in minute and sometimes tedious detail. Nobody really wants to hear it."
+  },
+  {
+    "key": "pseudonym_info_Philosopher",
+    "type": 0,
+    "en": "<name> once read half a thing, somewhere, maybe, about turning lead into gold. Apparently urine is involved. [He/She] may be taking the piss.",
+    "vi": "<name> once read half a thing, somewhere, maybe, about turning lead into gold. Apparently urine is involved. [He/She] may be taking the piss."
+  },
+  {
+    "key": "pseudonym_info_Lucky",
+    "type": 0,
+    "en": "<name> was born under a lucky horseshoe, so they said. It seemed plausible enough. Money seemed to fall in [his/her] lap, chance encounters led to romance, and the sun always shone on <name>.",
+    "vi": "<name> was born under a lucky horseshoe, so they said. It seemed plausible enough. Money seemed to fall in [his/her] lap, chance encounters led to romance, and the sun always shone on <name>."
+  },
+  {
+    "key": "pseudonym_info_Prodigal",
+    "type": 0,
+    "en": "<name> was a quitter, [he/she] left many a task unfinished. And yet with [his/her] silver tongue, loaded with sweet flattery and plausible excuses, <name> would be welcomed back for seemingly infinite second chances.",
+    "vi": "<name> was a quitter, [he/she] left many a task unfinished. And yet with [his/her] silver tongue, loaded with sweet flattery and plausible excuses, <name> would be welcomed back for seemingly infinite second chances."
+  },
+  {
+    "key": "pseudonym_info_Paramour",
+    "type": 0,
+    "en": "Ugly as a child, <name> would never slight a lady for her looks. And in the wake of Armageddon, the value of good looks as currency was somewhat diminished. <name> helped keep spirits - and skirts - high, gaining a reputation as a satisfying lover.",
+    "vi": "Ugly as a child, <name> would never slight a lady for her looks. And in the wake of Armageddon, the value of good looks as currency was somewhat diminished. <name> helped keep spirits - and skirts - high, gaining a reputation as a satisfying lover."
+  },
+  {
+    "key": "pseudonym_info_Riddler",
+    "type": 0,
+    "en": "Some people talk straight. But <name> had a way with words that certainly sounded clever, but was also a trifle confusing. Many of <name>'s pronouncements could have multiple meanings. [His/Her] friends called [him/her] The Riddler.",
+    "vi": "Some people talk straight. But <name> had a way with words that certainly sounded clever, but was also a trifle confusing. Many of <name>'s pronouncements could have multiple meanings. [His/Her] friends called [him/her] The Riddler."
+  },
+  {
+    "key": "pseudonym_info_Kitten",
+    "type": 0,
+    "en": "Cute, soft, endearing...<name> is certainly adorable, and people flock to [him/her] to pet [him/her]. But beware, <name> also has claws, and often leaves a trail of destruction behind [him/her].",
+    "vi": "Cute, soft, endearing...<name> is certainly adorable, and people flock to [him/her] to pet [him/her]. But beware, <name> also has claws, and often leaves a trail of destruction behind [him/her]."
+  },
+  {
+    "key": "pseudonym_info_Lamb",
+    "type": 0,
+    "en": "<name> was docile and sweet-tempered, and so was often affectionately called lamb. Like most of [his/her] disposition, <name> had learned the hard way to be on guard against wolves.",
+    "vi": "<name> was docile and sweet-tempered, and so was often affectionately called lamb. Like most of [his/her] disposition, <name> had learned the hard way to be on guard against wolves."
+  },
+  {
+    "key": "pseudonym_info_Bride",
+    "type": 0,
+    "en": "<name> seemed to be forever stitching away at incredibly fine and delicate items of clothing and linens for [his/her] wedding trousseau. [He/She] became dewy eyed at the prospect of marriage. What a pity, then, that <name> had never even been kissed.",
+    "vi": "<name> seemed to be forever stitching away at incredibly fine and delicate items of clothing and linens for [his/her] wedding trousseau. [He/She] became dewy eyed at the prospect of marriage. What a pity, then, that <name> had never even been kissed."
+  },
+  {
+    "key": "pseudonym_info_Thief",
+    "type": 0,
+    "en": "<name> had always been nimble fingered, but became a full-time thief to survive the Dark Years. [He/She] stitched many hidden pockets into [his/her] clothes and would pinch anything that wasn't nailed down. <name> was often hired to do so.",
+    "vi": "<name> had always been nimble fingered, but became a full-time thief to survive the Dark Years. [He/She] stitched many hidden pockets into [his/her] clothes and would pinch anything that wasn't nailed down. <name> was often hired to do so."
+  },
+  {
+    "key": "pseudonym_info_Pirate",
+    "type": 0,
+    "en": "<name> didn’t do much to deserve [his/her] nickname, [he/she] inherited it. <name> was from a long line of swashbucklers known for attacking and looting trading ships in the waters around British Isles. <name>, however, didn't sail, and couldn't swim.",
+    "vi": "<name> didn’t do much to deserve [his/her] nickname, [he/she] inherited it. <name> was from a long line of swashbucklers known for attacking and looting trading ships in the waters around British Isles. <name>, however, didn't sail, and couldn't swim."
+  },
+  {
+    "key": "pseudonym_info_Ghost",
+    "type": 0,
+    "en": "<name> was pale and silent and loitered in dark alcoves. <name> seldom spoke, and often seemed to appear out of nowhere, startling people. <name> was actually a bit creepy, seeming to have more in common with the dead than the living.",
+    "vi": "<name> was pale and silent and loitered in dark alcoves. <name> seldom spoke, and often seemed to appear out of nowhere, startling people. <name> was actually a bit creepy, seeming to have more in common with the dead than the living."
+  },
+  {
+    "key": "pseudonym_info_Hanged",
+    "type": 0,
+    "en": "It is told that <name> survived death by hanging. As the hangman pulled the lever and the rope jerked, <name> expected the end. But the rope suddenly snapped. As God willed it, some said, crossing themselves.",
+    "vi": "It is told that <name> survived death by hanging. As the hangman pulled the lever and the rope jerked, <name> expected the end. But the rope suddenly snapped. As God willed it, some said, crossing themselves."
+  },
+  {
+    "key": "pseudonym_pattern",
+    "type": 0,
+    "en": "<pseudonym> of <origin>",
+    "vi": "<pseudonym> of <origin>"
+  },
+  {
+    "key": "bg_recent_name_Apostate",
+    "type": 0,
+    "en": "Apostate",
+    "vi": "Apostate"
+  },
+  {
+    "key": "bg_recent_name_Uprooted",
+    "type": 0,
+    "en": "Uprooted",
+    "vi": "Uprooted"
+  },
+  {
+    "key": "bg_recent_name_Caring",
+    "type": 0,
+    "en": "Caring",
+    "vi": "Caring"
+  },
+  {
+    "key": "bg_recent_name_Cunning",
+    "type": 0,
+    "en": "Cunning",
+    "vi": "Cunning"
+  },
+  {
+    "key": "bg_recent_name_Rustic",
+    "type": 0,
+    "en": "Rustic",
+    "vi": "Rustic"
+  },
+  {
+    "key": "bg_recent_name_Soothsaying",
+    "type": 0,
+    "en": "Soothsaying",
+    "vi": "Soothsaying"
+  },
+  {
+    "key": "bg_recent_name_Spinning",
+    "type": 0,
+    "en": "Spinning",
+    "vi": "Spinning"
+  },
+  {
+    "key": "bg_recent_name_Tireless",
+    "type": 0,
+    "en": "Tireless",
+    "vi": "Tireless"
+  },
+  {
+    "key": "bg_recent_name_Penitent",
+    "type": 0,
+    "en": "Penitent",
+    "vi": "Penitent"
+  },
+  {
+    "key": "bg_recent_name_Shrewd",
+    "type": 0,
+    "en": "Shrewd",
+    "vi": "Shrewd"
+  },
+  {
+    "key": "bg_recent_name_Faithless",
+    "type": 0,
+    "en": "Faithless",
+    "vi": "Faithless"
+  },
+  {
+    "key": "bg_recent_name_Yorkist",
+    "type": 0,
+    "en": "Yorkist",
+    "vi": "Yorkist"
+  },
+  {
+    "key": "bg_recent_name_Savage",
+    "type": 0,
+    "en": "Savage",
+    "vi": "Savage"
+  },
+  {
+    "key": "bg_recent_name_Cheerful",
+    "type": 0,
+    "en": "Cheerful",
+    "vi": "Cheerful"
+  },
+  {
+    "key": "bg_recent_name_Charitable",
+    "type": 0,
+    "en": "Charitable",
+    "vi": "Charitable"
+  },
+  {
+    "key": "bg_recent_name_AvantGarde",
+    "type": 0,
+    "en": "Avant-garde",
+    "vi": "Avant-garde"
+  },
+  {
+    "key": "bg_recent_name_Toxic",
+    "type": 0,
+    "en": "Toxic",
+    "vi": "Toxic"
+  },
+  {
+    "key": "bg_recent_name_Clever",
+    "type": 0,
+    "en": "Clever",
+    "vi": "Clever"
+  },
+  {
+    "key": "bg_recent_name_Inconspicuous",
+    "type": 0,
+    "en": "Inconspicuous",
+    "vi": "Inconspicuous"
+  },
+  {
+    "key": "bg_recent_name_Ambitious",
+    "type": 0,
+    "en": "Ambitious",
+    "vi": "Ambitious"
+  },
+  {
+    "key": "bg_recent_name_Despicable",
+    "type": 0,
+    "en": "Despicable",
+    "vi": "Despicable"
+  },
+  {
+    "key": "bg_recent_name_Accurate",
+    "type": 0,
+    "en": "Accurate",
+    "vi": "Accurate"
+  },
+  {
+    "key": "bg_recent_name_Confident",
+    "type": 0,
+    "en": "Confident",
+    "vi": "Confident"
+  },
+  {
+    "key": "bg_recent_name_Patient",
+    "type": 0,
+    "en": "Patient",
+    "vi": "Patient"
+  },
+  {
+    "key": "bg_recent_name_Deadly",
+    "type": 0,
+    "en": "Deadly",
+    "vi": "Deadly"
+  },
+  {
+    "key": "bg_recent_name_Bloodthirsty",
+    "type": 0,
+    "en": "Bloodthirsty",
+    "vi": "Bloodthirsty"
+  },
+  {
+    "key": "bg_recent_name_Bookish",
+    "type": 0,
+    "en": "Bookish",
+    "vi": "Bookish"
+  },
+  {
+    "key": "bg_recent_name_Hopeful",
+    "type": 0,
+    "en": "Hopeful",
+    "vi": "Hopeful"
+  },
+  {
+    "key": "bg_recent_name_Ruthless",
+    "type": 0,
+    "en": "Ruthless",
+    "vi": "Ruthless"
+  },
+  {
+    "key": "bg_recent_name_Loyal",
+    "type": 0,
+    "en": "Loyal",
+    "vi": "Loyal"
+  },
+  {
+    "key": "bg_recent_name_Chivalrous",
+    "type": 0,
+    "en": "Chivalrous",
+    "vi": "Chivalrous"
+  },
+  {
+    "key": "bg_recent_name_Weary",
+    "type": 0,
+    "en": "Weary",
+    "vi": "Weary"
+  },
+  {
+    "key": "bg_recent_name_Wicked",
+    "type": 0,
+    "en": "Wicked",
+    "vi": "Wicked"
+  },
+  {
+    "key": "bg_recent_name_Thrifty",
+    "type": 0,
+    "en": "Thrifty",
+    "vi": "Thrifty"
+  },
+  {
+    "key": "bg_recent_name_Tempered",
+    "type": 0,
+    "en": "Tempered",
+    "vi": "Tempered"
+  },
+  {
+    "key": "bg_recent_name_Brutal",
+    "type": 0,
+    "en": "Brutal",
+    "vi": "Brutal"
+  },
+  {
+    "key": "bg_recent_name_Winsome",
+    "type": 0,
+    "en": "Winsome",
+    "vi": "Winsome"
+  },
+  {
+    "key": "bg_recent_name_Willful",
+    "type": 0,
+    "en": "Willful",
+    "vi": "Willful"
+  },
+  {
+    "key": "bg_recent_name_Artful",
+    "type": 0,
+    "en": "Artful",
+    "vi": "Artful"
+  },
+  {
+    "key": "bg_recent_name_Crafty",
+    "type": 0,
+    "en": "Crafty",
+    "vi": "Crafty"
+  },
+  {
+    "key": "bg_recent_name_Swindling",
+    "type": 0,
+    "en": "Swindling",
+    "vi": "Swindling"
+  },
+  {
+    "key": "bg_recent_name_Thoughtless",
+    "type": 0,
+    "en": "Thoughtless",
+    "vi": "Thoughtless"
+  },
+  {
+    "key": "bg_recent_name_Reckless",
+    "type": 0,
+    "en": "Reckless",
+    "vi": "Reckless"
+  },
+  {
+    "key": "bg_recent_name_Desolate",
+    "type": 0,
+    "en": "Desolate",
+    "vi": "Desolate"
+  },
+  {
+    "key": "bg_recent_name_Solitary",
+    "type": 0,
+    "en": "Solitary",
+    "vi": "Solitary"
+  },
+  {
+    "key": "bg_recent_name_Ashen",
+    "type": 0,
+    "en": "Ashen",
+    "vi": "Ashen"
+  },
+  {
+    "key": "bg_recent_name_Wary",
+    "type": 0,
+    "en": "Wary",
+    "vi": "Wary"
+  },
+  {
+    "key": "bg_recent_name_Tangled",
+    "type": 0,
+    "en": "Tangled",
+    "vi": "Tangled"
+  },
+  {
+    "key": "bg_recent_name_Whole",
+    "type": 0,
+    "en": "Whole",
+    "vi": "Whole"
+  },
+  {
+    "key": "bg_recent_name_Disciplined",
+    "type": 0,
+    "en": "Disciplined",
+    "vi": "Disciplined"
+  },
+  {
+    "key": "bg_recent_name_Gnarled",
+    "type": 0,
+    "en": "Gnarled",
+    "vi": "Gnarled"
+  },
+  {
+    "key": "bg_recent_name_Frosty",
+    "type": 0,
+    "en": "Frosty",
+    "vi": "Frosty"
+  },
+  {
+    "key": "bg_recent_name_Riven",
+    "type": 0,
+    "en": "Riven",
+    "vi": "Riven"
+  },
+  {
+    "key": "bg_recent_name_Seaborn",
+    "type": 0,
+    "en": "Seaborn",
+    "vi": "Seaborn"
+  },
+  {
+    "key": "bg_recent_name_Frayed",
+    "type": 0,
+    "en": "Frayed",
+    "vi": "Frayed"
+  },
+  {
+    "key": "bg_recent_name_Candlelit",
+    "type": 0,
+    "en": "Candlelit",
+    "vi": "Candlelit"
+  },
+  {
+    "key": "bg_recent_name_Merciful",
+    "type": 0,
+    "en": "Merciful",
+    "vi": "Merciful"
+  },
+  {
+    "key": "bg_recent_name_Grim",
+    "type": 0,
+    "en": "Grim",
+    "vi": "Grim"
+  },
+  {
+    "key": "bg_recent_name_Singed",
+    "type": 0,
+    "en": "Singed",
+    "vi": "Singed"
+  },
+  {
+    "key": "bg_recent_name_Unshaped",
+    "type": 0,
+    "en": "Unshaped",
+    "vi": "Unshaped"
+  },
+  {
+    "key": "bg_recent_name_Gentle",
+    "type": 0,
+    "en": "Gentle",
+    "vi": "Gentle"
+  },
+  {
+    "key": "bg_recent_name_Nurturing",
+    "type": 0,
+    "en": "Nurturing",
+    "vi": "Nurturing"
+  },
+  {
+    "key": "bg_recent_name_Studious",
+    "type": 0,
+    "en": "Studious",
+    "vi": "Studious"
+  },
+  {
+    "key": "bg_recent_name_Lightfoot",
+    "type": 0,
+    "en": "Lightfooted",
+    "vi": "Lightfooted"
+  },
+  {
+    "key": "bg_recent_name_Keen",
+    "type": 0,
+    "en": "Keen",
+    "vi": "Keen"
+  },
+  {
+    "key": "bg_recent_info_Apostate",
+    "type": 0,
+    "en": "<name> was drawn to The Circle of Avalon. <name> had secretly despised sheepish, obedient Christians, and was relieved that others felt the same. [He/She] dreamed of Arthur’s imminent return from under the faerie hill, now that the purge was over.",
+    "vi": "<name> was drawn to The Circle of Avalon. <name> had secretly despised sheepish, obedient Christians, and was relieved that others felt the same. [He/She] dreamed of Arthur’s imminent return from under the faerie hill, now that the purge was over."
+  },
+  {
+    "key": "bg_recent_info_Uprooted",
+    "type": 0,
+    "en": "<name> despaired. Seeing villagers die was bad, watching the <origin> sheep succumb was catastrophic. <name> did [his/her] best to ease their suffering - slitting their throats at any sign of infection. Without livestock or livelihood, <name> fled.",
+    "vi": "<name> despaired. Seeing villagers die was bad, watching the <origin> sheep succumb was catastrophic. <name> did [his/her] best to ease their suffering - slitting their throats at any sign of infection. Without livestock or livelihood, <name> fled."
+  },
+  {
+    "key": "bg_recent_info_Caring",
+    "type": 0,
+    "en": "there was no one to tend to the animals. Hogs ran wild. Cattle starved in the winter fields. It was after <name> came upon a lifeless mare beside her newborn foal that [he/she] decided to shepherd whatever beasts were needful.",
+    "vi": "there was no one to tend to the animals. Hogs ran wild. Cattle starved in the winter fields. It was after <name> came upon a lifeless mare beside her newborn foal that [he/she] decided to shepherd whatever beasts were needful."
+  },
+  {
+    "key": "bg_recent_info_Cunning",
+    "type": 0,
+    "en": "<name> burned the putrid remains of [his/her] kin. [He/She] then followed the old grandmother deep into the forest. The cunning wicche knew every leaf, berry and fungus. <name> became fluent in the untamed language of the wild wood.",
+    "vi": "<name> burned the putrid remains of [his/her] kin. [He/She] then followed the old grandmother deep into the forest. The cunning wicche knew every leaf, berry and fungus. <name> became fluent in the untamed language of the wild wood."
+  },
+  {
+    "key": "bg_recent_info_Rustic",
+    "type": 0,
+    "en": "<name> had learned to survive on foraged hedgerow fare, supplemented with the occasional stolen egg or trapped hare. <name> could make a meal from dandelion, primroses or stewed acorns. [His/Her] eyes were painful hollows, always hungry.",
+    "vi": "<name> had learned to survive on foraged hedgerow fare, supplemented with the occasional stolen egg or trapped hare. <name> could make a meal from dandelion, primroses or stewed acorns. [His/Her] eyes were painful hollows, always hungry."
+  },
+  {
+    "key": "bg_recent_info_Soothsaying",
+    "type": 0,
+    "en": "<name> lived by the lore of oak, ash and thorn, trying to ignore the collapse of civilisation and seeking solace among the trees. [He/She] waited beneath hazel and hawthorn, listening for whispers from the fey folk. Sometimes, <name> was rewarded.",
+    "vi": "<name> lived by the lore of oak, ash and thorn, trying to ignore the collapse of civilisation and seeking solace among the trees. [He/She] waited beneath hazel and hawthorn, listening for whispers from the fey folk. Sometimes, <name> was rewarded."
+  },
+  {
+    "key": "bg_recent_info_Spinning",
+    "type": 0,
+    "en": "<name> learned all about flax, for clothing, bedding, bread sacks, ropes and oil. [He/She] was soothed by retting and rolling, scutching and spinning. <name> had a steady hand, and eyes the pale, flaxen blue of a cloudless, summer sky.",
+    "vi": "<name> learned all about flax, for clothing, bedding, bread sacks, ropes and oil. [He/She] was soothed by retting and rolling, scutching and spinning. <name> had a steady hand, and eyes the pale, flaxen blue of a cloudless, summer sky."
+  },
+  {
+    "key": "bg_recent_info_Tireless",
+    "type": 0,
+    "en": "<name> got the knack of carpentry fashioning coffins for plague victims, later nailing whole families into their homes to die. Next, <name> built trebuchets in the War of Succession. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!",
+    "vi": "<name> got the knack of carpentry fashioning coffins for plague victims, later nailing whole families into their homes to die. Next, <name> built trebuchets in the War of Succession. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!"
+  },
+  {
+    "key": "bg_recent_info_Penitent",
+    "type": 0,
+    "en": "<name> acquired a cap marked with a red cross. It was a memento of months spent marching naked, one behind the other. Each whipped their naked, bleeding bodies with scourges spiked with nails. 'God is merciful, God is just', they wept.",
+    "vi": "<name> acquired a cap marked with a red cross. It was a memento of months spent marching naked, one behind the other. Each whipped their naked, bleeding bodies with scourges spiked with nails. 'God is merciful, God is just', they wept."
+  },
+  {
+    "key": "bg_recent_info_Shrewd",
+    "type": 0,
+    "en": "circumstances could have been better, but [he/she] made the most of it. When <name> took to whittling amulets to ward against the Mortal Corruption, in a number of shapes to appeal to christians, jews or pagans, [he/she] got rich, fast.",
+    "vi": "circumstances could have been better, but [he/she] made the most of it. When <name> took to whittling amulets to ward against the Mortal Corruption, in a number of shapes to appeal to christians, jews or pagans, [he/she] got rich, fast."
+  },
+  {
+    "key": "bg_recent_info_Faithless",
+    "type": 0,
+    "en": "the priest beseeched <name> to repair <origin> church, despite the sickly season. [He/She] watched gloomily as the congregation gradually expired, sneezing as they broke bread together, and buried their brethren. God is dead, <name> thought.",
+    "vi": "the priest beseeched <name> to repair <origin> church, despite the sickly season. [He/She] watched gloomily as the congregation gradually expired, sneezing as they broke bread together, and buried their brethren. God is dead, <name> thought."
+  },
+  {
+    "key": "bg_recent_info_Yorkist",
+    "type": 0,
+    "en": "<name> thought it was bleeding obvious that the royals were to blame, cutting England to the bone because of their silly French war. [He/She] had pitched in willingly to help shore up York's defenses. Someone had to make a stand.",
+    "vi": "<name> thought it was bleeding obvious that the royals were to blame, cutting England to the bone because of their silly French war. [He/She] had pitched in willingly to help shore up York's defenses. Someone had to make a stand."
+  },
+  {
+    "key": "bg_recent_info_Savage",
+    "type": 0,
+    "en": "<name> had utterly lost [his/her] mind. <name> had seen Beelzebub and there was no redemption. [He/She] could make shelter, and fire, and dream of blood and screams. <name> would not, or could not, say if [he/she] had eaten human flesh.",
+    "vi": "<name> had utterly lost [his/her] mind. <name> had seen Beelzebub and there was no redemption. [He/She] could make shelter, and fire, and dream of blood and screams. <name> would not, or could not, say if [he/she] had eaten human flesh."
+  },
+  {
+    "key": "bg_recent_info_Cheerful",
+    "type": 0,
+    "en": "<name> would whistle as [he/she] worked, almost as though the horrors of recent times had passed [him/her] by. <name>'s reason to be cheery was simple enough. [He/She] had caught the pestilence, but had dodged the Grim Reaper. Life was good.",
+    "vi": "<name> would whistle as [he/she] worked, almost as though the horrors of recent times had passed [him/her] by. <name>'s reason to be cheery was simple enough. [He/She] had caught the pestilence, but had dodged the Grim Reaper. Life was good."
+  },
+  {
+    "key": "bg_recent_info_Charitable",
+    "type": 0,
+    "en": "<name> roved among the mills, begging or stealing flour to bake bread. This [he/she] made into simple bannocks and distributed to the starving village folk, barely clinging to the wreckage of their former lives. It kept <name> busy, and purposeful.",
+    "vi": "<name> roved among the mills, begging or stealing flour to bake bread. This [he/she] made into simple bannocks and distributed to the starving village folk, barely clinging to the wreckage of their former lives. It kept <name> busy, and purposeful."
+  },
+  {
+    "key": "bg_recent_info_AvantGarde",
+    "type": 0,
+    "en": "<name> experimented. Have you tried rat au vin or eels in goat's milk? Neither had <name> until Armageddon. [He/She] was utterly fearless in combining random ingredients to keep everyone fed, leading to unexpected results and frequent indigestion.",
+    "vi": "<name> experimented. Have you tried rat au vin or eels in goat's milk? Neither had <name> until Armageddon. [He/She] was utterly fearless in combining random ingredients to keep everyone fed, leading to unexpected results and frequent indigestion."
+  },
+  {
+    "key": "bg_recent_info_Toxic",
+    "type": 0,
+    "en": "<name> fed a band of hungry marauders, a risky job. <name> would occasionaly cut corners to save time. Uncertain if it was a stray toadstool or mouldering rye that caused the hallucinations, <name> still maintained [he/she] did [his/her] best.",
+    "vi": "<name> fed a band of hungry marauders, a risky job. <name> would occasionaly cut corners to save time. Uncertain if it was a stray toadstool or mouldering rye that caused the hallucinations, <name> still maintained [he/she] did [his/her] best."
+  },
+  {
+    "key": "bg_recent_info_Clever",
+    "type": 0,
+    "en": "<name> believed [him/her]self spared from Mortal Sickness for a higher purpose. So said the Canterbury Friar, who taught [him/her] to read. “Knowledge is freedom”, <name> whispered softly, mounting the Friar’s mule and stealing away into the darkness.",
+    "vi": "<name> believed [him/her]self spared from Mortal Sickness for a higher purpose. So said the Canterbury Friar, who taught [him/her] to read. “Knowledge is freedom”, <name> whispered softly, mounting the Friar’s mule and stealing away into the darkness."
+  },
+  {
+    "key": "bg_recent_info_Inconspicuous",
+    "type": 0,
+    "en": "<name> was deployed undercover to watch for heresy among royalist factions. On receiving no further instructions from [his/her] Master of Whispers, <name> sought the shadows, using what [he/she] heard to survive.",
+    "vi": "<name> was deployed undercover to watch for heresy among royalist factions. On receiving no further instructions from [his/her] Master of Whispers, <name> sought the shadows, using what [he/she] heard to survive."
+  },
+  {
+    "key": "bg_recent_info_Ambitious",
+    "type": 0,
+    "en": "<name> crept about Oxford, tearing pages glowing with illuminations, swiping vellum and ink. <name> served [his/her] masters in the scriptorium dilligently. <name> had a steady hand. <name> would learn to read and write, and finally become Somebody.",
+    "vi": "<name> crept about Oxford, tearing pages glowing with illuminations, swiping vellum and ink. <name> served [his/her] masters in the scriptorium dilligently. <name> had a steady hand. <name> would learn to read and write, and finally become Somebody."
+  },
+  {
+    "key": "bg_recent_info_Despicable",
+    "type": 0,
+    "en": "<name> took to the hills on a rampage as order crumbled. Born to privilege, <name> gathered a vile band of ruffians and killed and burned at will. [He/She] was exhilarated by chaos, amused by desecration, and not to be underestimated.",
+    "vi": "<name> took to the hills on a rampage as order crumbled. Born to privilege, <name> gathered a vile band of ruffians and killed and burned at will. [He/She] was exhilarated by chaos, amused by desecration, and not to be underestimated."
+  },
+  {
+    "key": "bg_recent_info_Accurate",
+    "type": 0,
+    "en": "<name> began to perform a sideshow, throwing daggers in an arc over a pretty girl for a few coins. <name> figured out [he/she] had a talent when [he/she] threw a carving knife dead into the eye of a looter. <name> never misses.",
+    "vi": "<name> began to perform a sideshow, throwing daggers in an arc over a pretty girl for a few coins. <name> figured out [he/she] had a talent when [he/she] threw a carving knife dead into the eye of a looter. <name> never misses."
+  },
+  {
+    "key": "bg_recent_info_Confident",
+    "type": 0,
+    "en": "the noble's marches and forests became pretty much fair game. So <name> now poaches with impunity. [He/She] will catch what you want to order: venison, boar, rabbit, peacock. Naturally, this comes at a price.",
+    "vi": "the noble's marches and forests became pretty much fair game. So <name> now poaches with impunity. [He/She] will catch what you want to order: venison, boar, rabbit, peacock. Naturally, this comes at a price."
+  },
+  {
+    "key": "bg_recent_info_Patient",
+    "type": 0,
+    "en": "<name> developed patience to sit in a furze bush or atop an oak tree, chewing on a blade of grass and listening to the wind. At the perfect moment, [he/she] would take down [his/her] prey with a single arrow. <name> had become an assassin.",
+    "vi": "<name> developed patience to sit in a furze bush or atop an oak tree, chewing on a blade of grass and listening to the wind. At the perfect moment, [he/she] would take down [his/her] prey with a single arrow. <name> had become an assassin."
+  },
+  {
+    "key": "bg_recent_info_Deadly",
+    "type": 0,
+    "en": "<name> was on a crusade to wipe out pretentious, usurping commoners and reinstate the true and righteous order of England. Blood mattered, and <name> would reclaim [his/her] birthright. The peasantry needed to be brought to their filthy knees.",
+    "vi": "<name> was on a crusade to wipe out pretentious, usurping commoners and reinstate the true and righteous order of England. Blood mattered, and <name> would reclaim [his/her] birthright. The peasantry needed to be brought to their filthy knees."
+  },
+  {
+    "key": "bg_recent_info_Bloodthirsty",
+    "type": 0,
+    "en": "<name> recalled the healer lancing boils. Flagstones had run red as he opened veins, cursing the French, and the King. Finally <name> took the powders and purifying herbs from the dying healer's blackened hand. <name> was left holding the bloody razor.",
+    "vi": "<name> recalled the healer lancing boils. Flagstones had run red as he opened veins, cursing the French, and the King. Finally <name> took the powders and purifying herbs from the dying healer's blackened hand. <name> was left holding the bloody razor."
+  },
+  {
+    "key": "bg_recent_info_Bookish",
+    "type": 0,
+    "en": "studying the many great works in the libraries of Oxford gave <name> confidence to try [his/her] hand at medicine. <name> was from a worthy family, the last of [his/her] name. Book learning surely surpasses base peasant cures, herbs and charms?",
+    "vi": "studying the many great works in the libraries of Oxford gave <name> confidence to try [his/her] hand at medicine. <name> was from a worthy family, the last of [his/her] name. Book learning surely surpasses base peasant cures, herbs and charms?"
+  },
+  {
+    "key": "bg_recent_info_Hopeful",
+    "type": 0,
+    "en": "<name> fished leeches from the pond at <origin>, and carried them about in a milk jar, offering healing. <name> had no experience whatsoever, but had once seen a monk put the beasts on a dying man. It probably did no harm, <name> thought.",
+    "vi": "<name> fished leeches from the pond at <origin>, and carried them about in a milk jar, offering healing. <name> had no experience whatsoever, but had once seen a monk put the beasts on a dying man. It probably did no harm, <name> thought."
+  },
+  {
+    "key": "bg_recent_info_Ruthless",
+    "type": 0,
+    "en": "<name> recalled townsfolk dying in the streets as the nobles fled north to escape the plague. Are we not all mere sinners in the eyes of God? <name> would follow William of York in defending the rights of common folk. To the death if necessary.",
+    "vi": "<name> recalled townsfolk dying in the streets as the nobles fled north to escape the plague. Are we not all mere sinners in the eyes of God? <name> would follow William of York in defending the rights of common folk. To the death if necessary."
+  },
+  {
+    "key": "bg_recent_info_Loyal",
+    "type": 0,
+    "en": "<name> pledged fealty to King Edmund, who was ordained to rule and bring England back into harmony and balance. <name> would gladly put anyone who disagreed with [him/her] to the sword. Death would be swift and merciful.",
+    "vi": "<name> pledged fealty to King Edmund, who was ordained to rule and bring England back into harmony and balance. <name> would gladly put anyone who disagreed with [him/her] to the sword. Death would be swift and merciful."
+  },
+  {
+    "key": "bg_recent_info_Chivalrous",
+    "type": 0,
+    "en": "<name> swooned over the histories of Sir Gawain and Sir Bedivere. To be so gallant, so merciful. <name> thought [he/she] had the right qualities to be a knight. And those qualities were sorely needed, in these savage days.",
+    "vi": "<name> swooned over the histories of Sir Gawain and Sir Bedivere. To be so gallant, so merciful. <name> thought [he/she] had the right qualities to be a knight. And those qualities were sorely needed, in these savage days."
+  },
+  {
+    "key": "bg_recent_info_Weary",
+    "type": 0,
+    "en": "<name> was tired, truth be told. [His/Her] joints ached and [he/she] couldn't fathom how The End of Days had passed [him/her] by. <name> still oiled [his/her] blades, strangely envious of comrades slain at Saint-Omer. Somehow, <name> soldiered on.",
+    "vi": "<name> was tired, truth be told. [His/Her] joints ached and [he/she] couldn't fathom how The End of Days had passed [him/her] by. <name> still oiled [his/her] blades, strangely envious of comrades slain at Saint-Omer. Somehow, <name> soldiered on."
+  },
+  {
+    "key": "bg_recent_info_Wicked",
+    "type": 0,
+    "en": "<name> regretted wishing death on [his/her] father's house. This very fate befell all [his/her] kin, and <name> was filled with remorse. [He/She] took up [his/her] father's hammer, and fired up the forge. Each metallic blow rang out: \"Guilty, guilty.\"",
+    "vi": "<name> regretted wishing death on [his/her] father's house. This very fate befell all [his/her] kin, and <name> was filled with remorse. [He/She] took up [his/her] father's hammer, and fired up the forge. Each metallic blow rang out: \"Guilty, guilty.\""
+  },
+  {
+    "key": "bg_recent_info_Thrifty",
+    "type": 0,
+    "en": "<name> had left the silent streets of <origin> with a cart, and started collecting metal. From churches to manors, <name> stripped them clean and melted it all down. Sir Hugh Gaveston and William of York would surely be needing swords.",
+    "vi": "<name> had left the silent streets of <origin> with a cart, and started collecting metal. From churches to manors, <name> stripped them clean and melted it all down. Sir Hugh Gaveston and William of York would surely be needing swords."
+  },
+  {
+    "key": "bg_recent_info_Tempered",
+    "type": 0,
+    "en": "<name> had packed [his/her] surviving children on a cart and fled. [He/She] could not remain, as the ghosts of [his/her] family would haunt the house for eternity. <name> found a niche as an ironmonger. Even the unhinged need new locks and bolts.",
+    "vi": "<name> had packed [his/her] surviving children on a cart and fled. [He/She] could not remain, as the ghosts of [his/her] family would haunt the house for eternity. <name> found a niche as an ironmonger. Even the unhinged need new locks and bolts."
+  },
+  {
+    "key": "bg_recent_info_Brutal",
+    "type": 0,
+    "en": "<name> had fallen from grace, ending up in prison. Fate in the form of The Great Mortality - sickened guards and a filched key - offered a window of escape. <name> now had an unhealthy fascination with torture and tools of punishment.",
+    "vi": "<name> had fallen from grace, ending up in prison. Fate in the form of The Great Mortality - sickened guards and a filched key - offered a window of escape. <name> now had an unhealthy fascination with torture and tools of punishment."
+  },
+  {
+    "key": "bg_recent_info_Winsome",
+    "type": 0,
+    "en": "[he/she] became the Earl's lover. <name> had comforted him as his wife lay dying, and coerced him with blackmail when the countess unexpectedly recovered. <name> become a puppet master to the hapless Earl, his wife relegated to a distant tower.",
+    "vi": "[he/she] became the Earl's lover. <name> had comforted him as his wife lay dying, and coerced him with blackmail when the countess unexpectedly recovered. <name> become a puppet master to the hapless Earl, his wife relegated to a distant tower."
+  },
+  {
+    "key": "bg_recent_info_Willful",
+    "type": 0,
+    "en": "bards told of how <name> commanded the barring of the gates, deaf to the pitiful wails and scrabbling outside. By sheer force of will, <name> kept extinction at bay in <origin>. That day, <name> became a legendary leader.",
+    "vi": "bards told of how <name> commanded the barring of the gates, deaf to the pitiful wails and scrabbling outside. By sheer force of will, <name> kept extinction at bay in <origin>. That day, <name> became a legendary leader."
+  },
+  {
+    "key": "bg_recent_info_Artful",
+    "type": 0,
+    "en": "<name> chose eternal damnation over living purgatory. [He/She] sold the cow, then [his/her] only daughter. An artful beggar, [he/she] roamed the tattered shires, flattering, cajoling and seducing for a crust of bread. <name> is a survivor.",
+    "vi": "<name> chose eternal damnation over living purgatory. [He/She] sold the cow, then [his/her] only daughter. An artful beggar, [he/she] roamed the tattered shires, flattering, cajoling and seducing for a crust of bread. <name> is a survivor."
+  },
+  {
+    "key": "bg_recent_info_Crafty",
+    "type": 0,
+    "en": "<name> was scavenging from a bloated corpse, and came by a fine pair of shears. Trimming cloth from dead limbs was easy. Turning it into wearable garments took more practice. But <name> persisted. Now [he/she] can fashion a suit from almost anything.",
+    "vi": "<name> was scavenging from a bloated corpse, and came by a fine pair of shears. Trimming cloth from dead limbs was easy. Turning it into wearable garments took more practice. But <name> persisted. Now [he/she] can fashion a suit from almost anything."
+  },
+  {
+    "key": "bg_recent_info_Swindling",
+    "type": 0,
+    "en": "<name> raided barns for stray kittens and pups, fashioning brightly-coloured sacks from dead-men's cloaks to stash them in. Off to market! Jiggety jig. <name> would sell the unwary a pre-bagged 'piglet,' at bargain price...and vanish. Caveat emptor!",
+    "vi": "<name> raided barns for stray kittens and pups, fashioning brightly-coloured sacks from dead-men's cloaks to stash them in. Off to market! Jiggety jig. <name> would sell the unwary a pre-bagged 'piglet,' at bargain price...and vanish. Caveat emptor!"
+  },
+  {
+    "key": "bg_recent_info_Thoughtless",
+    "type": 0,
+    "en": "<name> fancied [him/her]self a dressmaker. And so [he/she] set about using miller's floursacks, sheets and linen rags to clothe the destitute orphans and wastrels of <origin>. A frightful sight they were, shorn of their remaining dignity.",
+    "vi": "<name> fancied [him/her]self a dressmaker. And so [he/she] set about using miller's floursacks, sheets and linen rags to clothe the destitute orphans and wastrels of <origin>. A frightful sight they were, shorn of their remaining dignity."
+  },
+  {
+    "key": "bg_recent_info_Reckless",
+    "type": 0,
+    "en": "<name> ventured into the abandoned mines, with a band of comrades and a few candle stubs. It only takes a pickaxe, any fool can do it, <name> supposed. And putting aside the fatal rockfall and the flooding incidents, <name> was right.",
+    "vi": "<name> ventured into the abandoned mines, with a band of comrades and a few candle stubs. It only takes a pickaxe, any fool can do it, <name> supposed. And putting aside the fatal rockfall and the flooding incidents, <name> was right."
+  },
+  {
+    "key": "bg_recent_info_Desolate",
+    "type": 0,
+    "en": "<name> wanted to hit someone, to take out [his/her] rage at the horror and desolation that had violated everything [he/she] loved. But <name> was a pacifist. So [he/she] hacked spoils from the bountiful earth until [his/her] grief was spent instead.",
+    "vi": "<name> wanted to hit someone, to take out [his/her] rage at the horror and desolation that had violated everything [he/she] loved. But <name> was a pacifist. So [he/she] hacked spoils from the bountiful earth until [his/her] grief was spent instead."
+  },
+  {
+    "key": "bg_recent_info_Solitary",
+    "type": 0,
+    "en": "<name> had felt more at home in the quiet of the clay pits and lime kilns than in the towns. There were traces of humanity, but not the stench or the despair. <name> carved a secret labyrinth into the rock, invoking memories of Reims Cathedral.",
+    "vi": "<name> had felt more at home in the quiet of the clay pits and lime kilns than in the towns. There were traces of humanity, but not the stench or the despair. <name> carved a secret labyrinth into the rock, invoking memories of Reims Cathedral."
+  },
+  {
+    "key": "bg_recent_info_Ashen",
+    "type": 0,
+    "en": "<name> had burned what could not be buried. Ash clung to [his/her] skin and throat until [he/she] forgot the scent of anything but smoke and death. It clings to [him/her] still, often in dreams.",
+    "vi": "<name> had burned what could not be buried. Ash clung to [his/her] skin and throat until [he/she] forgot the scent of anything but smoke and death. It clings to [him/her] still, often in dreams."
+  },
+  {
+    "key": "bg_recent_info_Wary",
+    "type": 0,
+    "en": "trust was a luxury <name> could no longer afford. A smile could conceal a knife, a handhake spread a fever. [He/She] learned to remain vigilant, and to move before danger struck.",
+    "vi": "trust was a luxury <name> could no longer afford. A smile could conceal a knife, a handhake spread a fever. [He/She] learned to remain vigilant, and to move before danger struck."
+  },
+  {
+    "key": "bg_recent_info_Tangled",
+    "type": 0,
+    "en": "the debts mounted quickly, and <name> tangled [himself/herself] in promises, betrayals, and desperate bargains. The plague wiped the slate clean, as there was nothing left, and nobody alive to pay.",
+    "vi": "the debts mounted quickly, and <name> tangled [himself/herself] in promises, betrayals, and desperate bargains. The plague wiped the slate clean, as there was nothing left, and nobody alive to pay."
+  },
+  {
+    "key": "bg_recent_info_Whole",
+    "type": 0,
+    "en": "somehow, <name> endured. Through fever, famine, and fire [he/she] remained whole - yet hollowed inside. Beneath the skin, grief festered, withering into a shape that only barely resembled [his/her] soul before.",
+    "vi": "somehow, <name> endured. Through fever, famine, and fire [he/she] remained whole - yet hollowed inside. Beneath the skin, grief festered, withering into a shape that only barely resembled [his/her] soul before."
+  },
+  {
+    "key": "bg_recent_info_Disciplined",
+    "type": 0,
+    "en": "with each blow and every struggle, <name> was hardened. Order became all that mattered. Without it, [he/she] believed, even the strongest crumbled into dust.",
+    "vi": "with each blow and every struggle, <name> was hardened. Order became all that mattered. Without it, [he/she] believed, even the strongest crumbled into dust."
+  },
+  {
+    "key": "bg_recent_info_Gnarled",
+    "type": 0,
+    "en": "time twisted <name> like a winter-throttled oak. With scarred hands and a bowed back, [he/she] held fast to roots deep in the ruined earth of <origin>. Storms passed; [he/she] endured.",
+    "vi": "time twisted <name> like a winter-throttled oak. With scarred hands and a bowed back, [he/she] held fast to roots deep in the ruined earth of <origin>. Storms passed; [he/she] endured."
+  },
+  {
+    "key": "bg_recent_info_Frosty",
+    "type": 0,
+    "en": "<name> froze long before winter came. Each death, each burial dulled [his/her] spirit further. No comfort could thaw the frost that settled into [his/her] marrow.",
+    "vi": "<name> froze long before winter came. Each death, each burial dulled [his/her] spirit further. No comfort could thaw the frost that settled into [his/her] marrow."
+  },
+  {
+    "key": "bg_recent_info_Riven",
+    "type": 0,
+    "en": "the world tore <name> apart. Some pieces, [he/she] left in the mass graves; some, [he/she] buried deeper. Surely, once this harrowing was over, they had earned God's grace?",
+    "vi": "the world tore <name> apart. Some pieces, [he/she] left in the mass graves; some, [he/she] buried deeper. Surely, once this harrowing was over, they had earned God's grace?"
+  },
+  {
+    "key": "bg_recent_info_Seaborn",
+    "type": 0,
+    "en": "the sea could not weep, for it was made of tears. So, <name> raised a sail to ride [his/her] sorrow on salt and tide. Let the land rot. <name> would look to the horizon.",
+    "vi": "the sea could not weep, for it was made of tears. So, <name> raised a sail to ride [his/her] sorrow on salt and tide. Let the land rot. <name> would look to the horizon."
+  },
+  {
+    "key": "bg_recent_info_Frayed",
+    "type": 0,
+    "en": "hope unravelled stitch by stitch. <name> carried on anyway, patching the seams of a broken life with whatever scraps [he/she] scavenged among the ruins.",
+    "vi": "hope unravelled stitch by stitch. <name> carried on anyway, patching the seams of a broken life with whatever scraps [he/she] scavenged among the ruins."
+  },
+  {
+    "key": "bg_recent_info_Candlelit",
+    "type": 0,
+    "en": "<name> often worked until Matins in the scriptorium at <origin> Abbey, illuminating documents by flickering tallow light. [He/She] befriended every pigment, coaxing gold leaf's gleam and verdigris to bloom. Silence was [his/her] companion, precision [his/her] obsession.",
+    "vi": "<name> often worked until Matins in the scriptorium at <origin> Abbey, illuminating documents by flickering tallow light. [He/She] befriended every pigment, coaxing gold leaf's gleam and verdigris to bloom. Silence was [his/her] companion, precision [his/her] obsession."
+  },
+  {
+    "key": "bg_recent_info_Merciful",
+    "type": 0,
+    "en": "<name> became adept with saw and iron, deftly cutting rot from living flesh. Some said [he/she] rather enjoyed it. [He/She] claimed it was an act of mercy, whispering prayers as limbs fell away.",
+    "vi": "<name> became adept with saw and iron, deftly cutting rot from living flesh. Some said [he/she] rather enjoyed it. [He/She] claimed it was an act of mercy, whispering prayers as limbs fell away."
+  },
+  {
+    "key": "bg_recent_info_Grim",
+    "type": 0,
+    "en": "<name> took no joy in the work, but neither did [he/she] flinch. Shackles clanked, keys turned, and bones broke where necessary. Words sometimes failed <name> - steel did not.",
+    "vi": "<name> took no joy in the work, but neither did [he/she] flinch. Shackles clanked, keys turned, and bones broke where necessary. Words sometimes failed <name> - steel did not."
+  },
+  {
+    "key": "bg_recent_info_Singed",
+    "type": 0,
+    "en": "when sparks flew, <name> had been the first to haul buckets, drag bodies, and wrangle panicked beasts. The cleansing flames may have touched [him/her] here and there, but [he/she] was undeterred.",
+    "vi": "when sparks flew, <name> had been the first to haul buckets, drag bodies, and wrangle panicked beasts. The cleansing flames may have touched [him/her] here and there, but [he/she] was undeterred."
+  },
+  {
+    "key": "bg_recent_info_Unshaped",
+    "type": 0,
+    "en": "<name> had never liked drills or sparring grounds. So [he/she] was surprised to learn that when fists flew, [he/she] didn’t hesitate. <name> had finally discovered their own strength, yet knew nothing of discipline.",
+    "vi": "<name> had never liked drills or sparring grounds. So [he/she] was surprised to learn that when fists flew, [he/she] didn’t hesitate. <name> had finally discovered their own strength, yet knew nothing of discipline."
+  },
+  {
+    "key": "bg_recent_info_Gentle",
+    "type": 0,
+    "en": "<name> flinched at smoke and screaming, but never turned away from the wounded. [He/She] learned to stitch flesh, carving saints for those in [his/her] care. <name> softened the world to make the horrors more bearable.",
+    "vi": "<name> flinched at smoke and screaming, but never turned away from the wounded. [He/She] learned to stitch flesh, carving saints for those in [his/her] care. <name> softened the world to make the horrors more bearable."
+  },
+  {
+    "key": "bg_recent_info_Nurturing",
+    "type": 0,
+    "en": "<name> tended creatures and crops with quiet joy, coaxing life from egg and seed alike. Each act of care was a prayer for one of those who had perished before.",
+    "vi": "<name> tended creatures and crops with quiet joy, coaxing life from egg and seed alike. Each act of care was a prayer for one of those who had perished before."
+  },
+  {
+    "key": "bg_recent_info_Studious",
+    "type": 0,
+    "en": "<name> practiced all arts with quiet focus, whether bladework or brushstroke. [He/She] had heard the pen was mightier than the sword, but opted to use both.",
+    "vi": "<name> practiced all arts with quiet focus, whether bladework or brushstroke. [He/She] had heard the pen was mightier than the sword, but opted to use both."
+  },
+  {
+    "key": "bg_recent_info_Lightfoot",
+    "type": 0,
+    "en": "<name> turned away from darkness. [He/She] had a ready smile, and would charm stories from the surliest of strangers, always chasing breeze over burden.",
+    "vi": "<name> turned away from darkness. [He/She] had a ready smile, and would charm stories from the surliest of strangers, always chasing breeze over burden."
+  },
+  {
+    "key": "bg_recent_info_Keen",
+    "type": 0,
+    "en": "<name> studied tracks like an alphabet, and knew the signs to follow to avoid disturbing elves. [He/She] had witnessed many strange occurrences, but knew better than to speak of them.",
+    "vi": "<name> studied tracks like an alphabet, and knew the signs to follow to avoid disturbing elves. [He/She] had witnessed many strange occurrences, but knew better than to speak of them."
+  },
+  {
+    "key": "background_context_link_01",
+    "type": 0,
+    "en": "After the Apocalypse,",
+    "vi": "After the Apocalypse,"
+  },
+  {
+    "key": "background_context_link_02",
+    "type": 0,
+    "en": "In the wake of death and terror,",
+    "vi": "In the wake of death and terror,"
+  },
+  {
+    "key": "background_context_link_03",
+    "type": 0,
+    "en": "When the world changed,",
+    "vi": "When the world changed,"
+  },
+  {
+    "key": "background_context_link_04",
+    "type": 0,
+    "en": "Following the plague,",
+    "vi": "Following the plague,"
+  },
+  {
+    "key": "bg_old_name_Farmer",
+    "type": 0,
+    "en": "farmer",
+    "vi": "farmer"
+  },
+  {
+    "key": "bg_old_name_Swineherd",
+    "type": 0,
+    "en": "swineherd",
+    "vi": "swineherd"
+  },
+  {
+    "key": "bg_old_name_Marshal",
+    "type": 0,
+    "en": "marshal",
+    "vi": "marshal"
+  },
+  {
+    "key": "bg_old_name_Cottar",
+    "type": 0,
+    "en": "cottar",
+    "vi": "cottar"
+  },
+  {
+    "key": "bg_old_name_Gardener",
+    "type": 0,
+    "en": "gardener",
+    "vi": "gardener"
+  },
+  {
+    "key": "bg_old_name_Reeve",
+    "type": 0,
+    "en": "reeve",
+    "vi": "reeve"
+  },
+  {
+    "key": "bg_old_name_Herbalist",
+    "type": 0,
+    "en": "herbalist",
+    "vi": "herbalist"
+  },
+  {
+    "key": "bg_old_name_Roofer",
+    "type": 0,
+    "en": "roofer",
+    "vi": "roofer"
+  },
+  {
+    "key": "bg_old_name_Bowyer",
+    "type": 0,
+    "en": "bowyer",
+    "vi": "bowyer"
+  },
+  {
+    "key": "bg_old_name_Carpenter",
+    "type": 0,
+    "en": "carpenter",
+    "vi": "carpenter"
+  },
+  {
+    "key": "bg_old_name_Wheelwright",
+    "type": 0,
+    "en": "wheelwright",
+    "vi": "wheelwright"
+  },
+  {
+    "key": "bg_old_name_Builder",
+    "type": 0,
+    "en": "builder",
+    "vi": "builder"
+  },
+  {
+    "key": "bg_old_name_BrickMaker",
+    "type": 0,
+    "en": "brick maker",
+    "vi": "brick maker"
+  },
+  {
+    "key": "bg_old_name_Shipwright",
+    "type": 0,
+    "en": "shipwright",
+    "vi": "shipwright"
+  },
+  {
+    "key": "bg_old_name_Innkeep",
+    "type": 0,
+    "en": "innkeep",
+    "vi": "innkeep"
+  },
+  {
+    "key": "bg_old_name_Butcher",
+    "type": 0,
+    "en": "butcher",
+    "vi": "butcher"
+  },
+  {
+    "key": "bg_old_name_Chef",
+    "type": 0,
+    "en": "chef",
+    "vi": "chef"
+  },
+  {
+    "key": "bg_old_name_Brewster",
+    "type": 0,
+    "en": "brewster",
+    "vi": "brewster"
+  },
+  {
+    "key": "bg_old_name_Architect",
+    "type": 0,
+    "en": "architect",
+    "vi": "architect"
+  },
+  {
+    "key": "bg_old_name_MasterBuilder",
+    "type": 0,
+    "en": "master builder",
+    "vi": "master builder"
+  },
+  {
+    "key": "bg_old_name_Engineer",
+    "type": 0,
+    "en": "engineer",
+    "vi": "engineer"
+  },
+  {
+    "key": "bg_old_name_Scribe",
+    "type": 0,
+    "en": "scribe",
+    "vi": "scribe"
+  },
+  {
+    "key": "bg_old_name_Monk",
+    "type": 0,
+    "en": "monk",
+    "vi": "monk"
+  },
+  {
+    "key": "bg_old_name_Hunter",
+    "type": 0,
+    "en": "hunter",
+    "vi": "hunter"
+  },
+  {
+    "key": "bg_old_name_Archer",
+    "type": 0,
+    "en": "archer",
+    "vi": "archer"
+  },
+  {
+    "key": "bg_old_name_Recruit",
+    "type": 0,
+    "en": "recruit",
+    "vi": "recruit"
+  },
+  {
+    "key": "bg_old_name_Healer",
+    "type": 0,
+    "en": "healer",
+    "vi": "healer"
+  },
+  {
+    "key": "bg_old_name_FieldDoctor",
+    "type": 0,
+    "en": "field doctor",
+    "vi": "field doctor"
+  },
+  {
+    "key": "bg_old_name_Nun",
+    "type": 0,
+    "en": "nun",
+    "vi": "nun"
+  },
+  {
+    "key": "bg_old_name_Knight",
+    "type": 0,
+    "en": "knight",
+    "vi": "knight"
+  },
+  {
+    "key": "bg_old_name_Soldier",
+    "type": 0,
+    "en": "soldier",
+    "vi": "soldier"
+  },
+  {
+    "key": "bg_old_name_ArmyCook",
+    "type": 0,
+    "en": "army cook",
+    "vi": "army cook"
+  },
+  {
+    "key": "bg_old_name_Mercenary",
+    "type": 0,
+    "en": "mercenary",
+    "vi": "mercenary"
+  },
+  {
+    "key": "bg_old_name_Farrier",
+    "type": 0,
+    "en": "farrier",
+    "vi": "farrier"
+  },
+  {
+    "key": "bg_old_name_Lorimer",
+    "type": 0,
+    "en": "lorimer",
+    "vi": "lorimer"
+  },
+  {
+    "key": "bg_old_name_Blacksmith",
+    "type": 0,
+    "en": "blacksmith",
+    "vi": "blacksmith"
+  },
+  {
+    "key": "bg_old_name_Armourer",
+    "type": 0,
+    "en": "armourer",
+    "vi": "armourer"
+  },
+  {
+    "key": "bg_old_name_Arrowsmith",
+    "type": 0,
+    "en": "arrowsmith",
+    "vi": "arrowsmith"
+  },
+  {
+    "key": "bg_old_name_Barber",
+    "type": 0,
+    "en": "barber",
+    "vi": "barber"
+  },
+  {
+    "key": "bg_old_name_Courtesan",
+    "type": 0,
+    "en": "courtesan",
+    "vi": "courtesan"
+  },
+  {
+    "key": "bg_old_name_Alchemist",
+    "type": 0,
+    "en": "alchemist",
+    "vi": "alchemist"
+  },
+  {
+    "key": "bg_old_name_Peddler",
+    "type": 0,
+    "en": "peddler",
+    "vi": "peddler"
+  },
+  {
+    "key": "bg_old_name_Tanner",
+    "type": 0,
+    "en": "tanner",
+    "vi": "tanner"
+  },
+  {
+    "key": "bg_old_name_Cordwainer",
+    "type": 0,
+    "en": "cordwainer",
+    "vi": "cordwainer"
+  },
+  {
+    "key": "bg_old_name_Cobbler",
+    "type": 0,
+    "en": "cobbler",
+    "vi": "cobbler"
+  },
+  {
+    "key": "bg_old_name_Miner",
+    "type": 0,
+    "en": "miner",
+    "vi": "miner"
+  },
+  {
+    "key": "bg_old_name_Franklin",
+    "type": 0,
+    "en": "franklin",
+    "vi": "franklin"
+  },
+  {
+    "key": "bg_old_name_Carter",
+    "type": 0,
+    "en": "carter",
+    "vi": "carter"
+  },
+  {
+    "key": "bg_old_name_GraveDigger",
+    "type": 0,
+    "en": "grave digger",
+    "vi": "grave digger"
+  },
+  {
+    "key": "bg_old_name_Berner",
+    "type": 0,
+    "en": "berner",
+    "vi": "berner"
+  },
+  {
+    "key": "bg_old_name_wright",
+    "type": 0,
+    "en": "wright",
+    "vi": "wright"
+  },
+  {
+    "key": "bg_old_name_turnkey",
+    "type": 0,
+    "en": "turnkey",
+    "vi": "turnkey"
+  },
+  {
+    "key": "bg_old_name_netmaker",
+    "type": 0,
+    "en": "netmaker",
+    "vi": "netmaker"
+  },
+  {
+    "key": "bg_old_name_recuperant",
+    "type": 0,
+    "en": "recuperant",
+    "vi": "recuperant"
+  },
+  {
+    "key": "bg_old_name_squire",
+    "type": 0,
+    "en": "squire",
+    "vi": "squire"
+  },
+  {
+    "key": "bg_old_name_fen_scout",
+    "type": 0,
+    "en": "fen scout",
+    "vi": "fen scout"
+  },
+  {
+    "key": "bg_old_name_nitre_miner",
+    "type": 0,
+    "en": "nitre miner",
+    "vi": "nitre miner"
+  },
+  {
+    "key": "bg_old_name_quacksalver",
+    "type": 0,
+    "en": "quacksalver",
+    "vi": "quacksalver"
+  },
+  {
+    "key": "bg_old_name_brawler",
+    "type": 0,
+    "en": "brawler",
+    "vi": "brawler"
+  },
+  {
+    "key": "bg_old_name_infirmarian",
+    "type": 0,
+    "en": "infirmarian",
+    "vi": "infirmarian"
+  },
+  {
+    "key": "bg_old_name_quartermaster",
+    "type": 0,
+    "en": "quartermaster",
+    "vi": "quartermaster"
+  },
+  {
+    "key": "bg_old_name_delver",
+    "type": 0,
+    "en": "delver",
+    "vi": "delver"
+  },
+  {
+    "key": "bg_old_name_marksage",
+    "type": 0,
+    "en": "marksage",
+    "vi": "marksage"
+  },
+  {
+    "key": "bg_old_name_hermit",
+    "type": 0,
+    "en": "hermit",
+    "vi": "hermit"
+  },
+  {
+    "key": "bg_old_name_tutor",
+    "type": 0,
+    "en": "tutor",
+    "vi": "tutor"
+  },
+  {
+    "key": "bg_old_name_bear_baiter",
+    "type": 0,
+    "en": "bear baiter",
+    "vi": "bear baiter"
+  },
+  {
+    "key": "bg_old_info_Farmer",
+    "type": 0,
+    "en": "Though not educated, <name> was wise. [He/She] knew when to plant to avoid a frost, and could coax oxen to plough a perfect furrow. Life was hard but Nature was bountiful. <name> had much to be thankful for.",
+    "vi": "Though not educated, <name> was wise. [He/She] knew when to plant to avoid a frost, and could coax oxen to plough a perfect furrow. Life was hard but Nature was bountiful. <name> had much to be thankful for."
+  },
+  {
+    "key": "bg_old_info_Swineherd",
+    "type": 0,
+    "en": "Wandering the forest with rooting hogs for company, carrying a stout stick for beating down acorns and interlopers...this was all <name> knew. Whiling away the hours, chewing mushrooms, alone with [his/her] imagination. Other people's jobs were more onerous, <name> believed.",
+    "vi": "Wandering the forest with rooting hogs for company, carrying a stout stick for beating down acorns and interlopers...this was all <name> knew. Whiling away the hours, chewing mushrooms, alone with [his/her] imagination. Other people's jobs were more onerous, <name> believed."
+  },
+  {
+    "key": "bg_old_info_Marshal",
+    "type": 0,
+    "en": "A wanderer from Barcelona, <name> had the gift of healing animals, and occasionally humans at a pinch. [He/She] was learned, understanding the Moorish faith, and the teachings of Galen and Aristotle. <name> had an excellent sense of humour!",
+    "vi": "A wanderer from Barcelona, <name> had the gift of healing animals, and occasionally humans at a pinch. [He/She] was learned, understanding the Moorish faith, and the teachings of Galen and Aristotle. <name> had an excellent sense of humour!"
+  },
+  {
+    "key": "bg_old_info_Cottar",
+    "type": 0,
+    "en": "With a field to plough and a cottage to live in, <name> laboured hard. [He/She] had mainly worried about death and taxes. With a dozen destitute dependents, <name> had feared paying out all [his/her] livestock in heriots to the Lord if any died.",
+    "vi": "With a field to plough and a cottage to live in, <name> laboured hard. [He/She] had mainly worried about death and taxes. With a dozen destitute dependents, <name> had feared paying out all [his/her] livestock in heriots to the Lord if any died."
+  },
+  {
+    "key": "bg_old_info_Gardener",
+    "type": 0,
+    "en": "<name> had found peace within the wattle fences of the garden, filled with scented flowers and herbs. [He/She] knew their properties well, as food and medicine. Time stood still under the trellises, and <name> would bathe in the scent of new growth.",
+    "vi": "<name> had found peace within the wattle fences of the garden, filled with scented flowers and herbs. [He/She] knew their properties well, as food and medicine. Time stood still under the trellises, and <name> would bathe in the scent of new growth."
+  },
+  {
+    "key": "bg_old_info_Reeve",
+    "type": 0,
+    "en": "Rising from humble serf to Reeve offered <name> a coveted place at [his/her] lord's table. Yet overseeing [his/her] fellow labourers was a thankless task. With so much to manage, why not take a little for oneself? <name> certainly felt justified.",
+    "vi": "Rising from humble serf to Reeve offered <name> a coveted place at [his/her] lord's table. Yet overseeing [his/her] fellow labourers was a thankless task. With so much to manage, why not take a little for oneself? <name> certainly felt justified."
+  },
+  {
+    "key": "bg_old_info_Herbalist",
+    "type": 0,
+    "en": "Having once seen a copy of De Materia Medica at Oxford, <name> became a lifelong devotee Dioscorides. Blending this with the teachings of [his/her] mentor, an elderly nun and plantswoman, <name> felt confident in pronouncing upon botanical matters.",
+    "vi": "Having once seen a copy of De Materia Medica at Oxford, <name> became a lifelong devotee Dioscorides. Blending this with the teachings of [his/her] mentor, an elderly nun and plantswoman, <name> felt confident in pronouncing upon botanical matters."
+  },
+  {
+    "key": "bg_old_info_Roofer",
+    "type": 0,
+    "en": "<name> felt that [his/her] dizzying head for heights was a divine gift, to be used in architectural celebration of Our Lord. Working among the angels on the great spire of Salisbury Cathedral was the pinnacle of [his/her] career.",
+    "vi": "<name> felt that [his/her] dizzying head for heights was a divine gift, to be used in architectural celebration of Our Lord. Working among the angels on the great spire of Salisbury Cathedral was the pinnacle of [his/her] career."
+  },
+  {
+    "key": "bg_old_info_Bowyer",
+    "type": 0,
+    "en": "It was said that <name> annihilated 23 French warriors at L’Ecluse, each dispatched with a single, mercifully accurate shot. [His/Her] fame as an archer was only surpassed by <name>’s skill with yew, building fine longbows. They were greatly prized.",
+    "vi": "It was said that <name> annihilated 23 French warriors at L’Ecluse, each dispatched with a single, mercifully accurate shot. [His/Her] fame as an archer was only surpassed by <name>’s skill with yew, building fine longbows. They were greatly prized."
+  },
+  {
+    "key": "bg_old_info_Carpenter",
+    "type": 0,
+    "en": "<name> was a member of the Brotherhood of Carpenters, a guild that offered heavenly rewards. To work all day with wood, knowing that in death the Brotherhood would pay for burial and even have prayers said at the chantry made <name> deeply thankful.",
+    "vi": "<name> was a member of the Brotherhood of Carpenters, a guild that offered heavenly rewards. To work all day with wood, knowing that in death the Brotherhood would pay for burial and even have prayers said at the chantry made <name> deeply thankful."
+  },
+  {
+    "key": "bg_old_info_Wheelwright",
+    "type": 0,
+    "en": "<name> of <origin> believed there were many spokes in the wheel of life. [He/She] enjoyed lending a hand with repairs and building projects, even fashioning a crucifix at the behest of a group of mummers for their mystery play.",
+    "vi": "<name> of <origin> believed there were many spokes in the wheel of life. [He/She] enjoyed lending a hand with repairs and building projects, even fashioning a crucifix at the behest of a group of mummers for their mystery play."
+  },
+  {
+    "key": "bg_old_info_Builder",
+    "type": 0,
+    "en": "From sawn timber lintel frames to trampled cob for thick, curved walls, <name> could work them with [his/her] strong, raw hands. <name> was known to be rough and ready, just as quick to anger as to lauch into bawdy tales or raucous songs.",
+    "vi": "From sawn timber lintel frames to trampled cob for thick, curved walls, <name> could work them with [his/her] strong, raw hands. <name> was known to be rough and ready, just as quick to anger as to lauch into bawdy tales or raucous songs."
+  },
+  {
+    "key": "bg_old_info_BrickMaker",
+    "type": 0,
+    "en": "<name> loved the slippery feeling of earth between [his/her] toes. [He/She] spent a happy childhood plugging weathered clay in the yards of Hull, forming an array of ruddy blocks destined for castles and fortresses. [He/She] was an absolute brick.",
+    "vi": "<name> loved the slippery feeling of earth between [his/her] toes. [He/She] spent a happy childhood plugging weathered clay in the yards of Hull, forming an array of ruddy blocks destined for castles and fortresses. [He/She] was an absolute brick."
+  },
+  {
+    "key": "bg_old_info_Shipwright",
+    "type": 0,
+    "en": "<name> had done [his/her] time building vessels on the docks, and could turn [his/her] calloused hand to all manner of construction. Ports being rough and ready places, <name> also knew how to throw a punch and dodge a scoundrel's shiv.",
+    "vi": "<name> had done [his/her] time building vessels on the docks, and could turn [his/her] calloused hand to all manner of construction. Ports being rough and ready places, <name> also knew how to throw a punch and dodge a scoundrel's shiv."
+  },
+  {
+    "key": "bg_old_info_Innkeep",
+    "type": 0,
+    "en": "<name> was known for the crustiest pie pastry in <origin>, and poured a generous pitcher of ale to boot. Jovial and fair, [he/she] never hesitated to knock a few thick heads together if fights broke out, either.",
+    "vi": "<name> was known for the crustiest pie pastry in <origin>, and poured a generous pitcher of ale to boot. Jovial and fair, [he/she] never hesitated to knock a few thick heads together if fights broke out, either."
+  },
+  {
+    "key": "bg_old_info_Butcher",
+    "type": 0,
+    "en": "<name> knew animals inside out, as befits a member of the Butcher's Guild. [He/She] had a gentle way with all beasts, and dealt their fate swiftly. <name> knows how to prepare exotic cuts fit for a king, which peasants have never tasted.",
+    "vi": "<name> knew animals inside out, as befits a member of the Butcher's Guild. [He/She] had a gentle way with all beasts, and dealt their fate swiftly. <name> knows how to prepare exotic cuts fit for a king, which peasants have never tasted."
+  },
+  {
+    "key": "bg_old_info_Chef",
+    "type": 0,
+    "en": "Once an enfant de cuisine under the great master Taillevent, <name> became chef to the great houses of England. Despite [his/her] snobbery, there's no denying <name>'s culinary expertise regarding all manner of edible flora, fauna, and fungi.",
+    "vi": "Once an enfant de cuisine under the great master Taillevent, <name> became chef to the great houses of England. Despite [his/her] snobbery, there's no denying <name>'s culinary expertise regarding all manner of edible flora, fauna, and fungi."
+  },
+  {
+    "key": "bg_old_info_Brewster",
+    "type": 0,
+    "en": "You could tell <name>'s profession by [his/her] tall black hat and broomstick. Yes, [he/she] brewed ale. <name> was a grafter, and resented the Abbot's assumption that [he/she] used [his/her] wiles to get pious men drunk. You can't hold back an entrepreneur.",
+    "vi": "You could tell <name>'s profession by [his/her] tall black hat and broomstick. Yes, [he/she] brewed ale. <name> was a grafter, and resented the Abbot's assumption that [he/she] used [his/her] wiles to get pious men drunk. You can't hold back an entrepreneur."
+  },
+  {
+    "key": "bg_old_info_Architect",
+    "type": 0,
+    "en": "If truth be told, <name> was jealous of Henry Yeverley. Although [he/she] could never rival the Master Mason of the King's Works, <name> thought [his/her] advanced ideas on architecture, acquired at the Château de Vincennes, worthy of greater renown.",
+    "vi": "If truth be told, <name> was jealous of Henry Yeverley. Although [he/she] could never rival the Master Mason of the King's Works, <name> thought [his/her] advanced ideas on architecture, acquired at the Château de Vincennes, worthy of greater renown."
+  },
+  {
+    "key": "bg_old_info_MasterBuilder",
+    "type": 0,
+    "en": "<name> loved getting stuck into a complex project. [He/She] spent many years crossing Europe in search of instruction. <name> understood how to create gravity-defying structures with stone and iron, taught by the nameless, genius cathedral builders.",
+    "vi": "<name> loved getting stuck into a complex project. [He/She] spent many years crossing Europe in search of instruction. <name> understood how to create gravity-defying structures with stone and iron, taught by the nameless, genius cathedral builders."
+  },
+  {
+    "key": "bg_old_info_Engineer",
+    "type": 0,
+    "en": "<name> took pride in the vast engines of war [he/she] designed. <name> dreamed of one day creating a device as legendary as the great Warwolf trebuchet created by Master James of St. George. How the tarbarrels and corpses would fly!",
+    "vi": "<name> took pride in the vast engines of war [he/she] designed. <name> dreamed of one day creating a device as legendary as the great Warwolf trebuchet created by Master James of St. George. How the tarbarrels and corpses would fly!"
+  },
+  {
+    "key": "bg_old_info_Scribe",
+    "type": 0,
+    "en": "The pen is mightier than the sword, and <name> had certainly reveled in a little power. Called upon to wield [his/her] quill by merchants and gentry, <name> recorded their contracts, their laws and their deaths in littera antiqua, with a flourish.",
+    "vi": "The pen is mightier than the sword, and <name> had certainly reveled in a little power. Called upon to wield [his/her] quill by merchants and gentry, <name> recorded their contracts, their laws and their deaths in littera antiqua, with a flourish."
+  },
+  {
+    "key": "bg_old_info_Monk",
+    "type": 0,
+    "en": "<name> liked to potter in the still room, with [his/her] salves and potions. Those brought to the hospital were truly at the mercy of God. But <name> liked to offer what little curative help [he/she] could to ease their suffering.",
+    "vi": "<name> liked to potter in the still room, with [his/her] salves and potions. Those brought to the hospital were truly at the mercy of God. But <name> liked to offer what little curative help [he/she] could to ease their suffering."
+  },
+  {
+    "key": "bg_old_info_Hunter",
+    "type": 0,
+    "en": "They said in <origin> that <name> was born with a bow in [his/her] hand. In the warmer months, <name> would hunt wolves, [his/her] tongue lolling and eyes bright as [he/she] loped through the forest, lithe, invisible, and poised to strike.",
+    "vi": "They said in <origin> that <name> was born with a bow in [his/her] hand. In the warmer months, <name> would hunt wolves, [his/her] tongue lolling and eyes bright as [he/she] loped through the forest, lithe, invisible, and poised to strike."
+  },
+  {
+    "key": "bg_old_info_Archer",
+    "type": 0,
+    "en": "From being fostered as a squire through to becoming a mounted archer, <name> was a true career soldier. Scarred and surly, [he/she] had kept a cool head at Saint-Omer and Morlaix, escaping without victory but with [his/her] life.",
+    "vi": "From being fostered as a squire through to becoming a mounted archer, <name> was a true career soldier. Scarred and surly, [he/she] had kept a cool head at Saint-Omer and Morlaix, escaping without victory but with [his/her] life."
+  },
+  {
+    "key": "bg_old_info_Recruit",
+    "type": 0,
+    "en": "<name> practiced when [he/she] could with the longbow, but ploughing and reaping duties generally took precedence. No matter, <name> was enlisted to fight in France, ending at the Siege of Tournai. A string to [his/her] bow and a tale for the fireside.",
+    "vi": "<name> practiced when [he/she] could with the longbow, but ploughing and reaping duties generally took precedence. No matter, <name> was enlisted to fight in France, ending at the Siege of Tournai. A string to [his/her] bow and a tale for the fireside."
+  },
+  {
+    "key": "bg_old_info_Healer",
+    "type": 0,
+    "en": "A cloistered life, tending the abbey gardens and copying fine manuscripts, spun <name> along a golden thread of erudition. Alas, the pitiless Abbott urged [him/her] to go forth and heal the sick and the poor. So, reluctantly, <name>’s exile began.",
+    "vi": "A cloistered life, tending the abbey gardens and copying fine manuscripts, spun <name> along a golden thread of erudition. Alas, the pitiless Abbott urged [him/her] to go forth and heal the sick and the poor. So, reluctantly, <name>’s exile began."
+  },
+  {
+    "key": "bg_old_info_FieldDoctor",
+    "type": 0,
+    "en": "By day, <name> tended fallen troops. But at night, the rank threat of battlefield dysentery and marsh fever invaded [his/her] sleep. Bad air from bloated corpses was the stuff of nightmares. Of the four horsemen, <name> dreaded pestilence most.",
+    "vi": "By day, <name> tended fallen troops. But at night, the rank threat of battlefield dysentery and marsh fever invaded [his/her] sleep. Bad air from bloated corpses was the stuff of nightmares. Of the four horsemen, <name> dreaded pestilence most."
+  },
+  {
+    "key": "bg_old_info_Nun",
+    "type": 0,
+    "en": "<name>'s family paid the church her dowry, granting her a pious and cloistered life. Instead, a small, persistent voice bid her roam over battlefields, stitching up wounds and praying with the broken as they gasped their last. It was <name>'s calling.",
+    "vi": "<name>'s family paid the church her dowry, granting her a pious and cloistered life. Instead, a small, persistent voice bid her roam over battlefields, stitching up wounds and praying with the broken as they gasped their last. It was <name>'s calling."
+  },
+  {
+    "key": "bg_old_info_Knight",
+    "type": 0,
+    "en": "Chivalry was <name>'s lifeblood, and [he/she] would die for honour. A knight of St John, <name> had become a warrior monk, defended Rhodes from infidels. Loyalty, justice and generosity were [his/her] watchwords, but woe betide the summa culpabilis.",
+    "vi": "Chivalry was <name>'s lifeblood, and [he/she] would die for honour. A knight of St John, <name> had become a warrior monk, defended Rhodes from infidels. Loyalty, justice and generosity were [his/her] watchwords, but woe betide the summa culpabilis."
+  },
+  {
+    "key": "bg_old_info_Soldier",
+    "type": 0,
+    "en": "<name> had seen gruesome battles, weak leaders and fearsome foes. Expecting to face death in France, <name> trained constantly and was fighting fit, belligerent and always guarded. We often give our enemies the means of our own destruction.",
+    "vi": "<name> had seen gruesome battles, weak leaders and fearsome foes. Expecting to face death in France, <name> trained constantly and was fighting fit, belligerent and always guarded. We often give our enemies the means of our own destruction."
+  },
+  {
+    "key": "bg_old_info_ArmyCook",
+    "type": 0,
+    "en": "An army marches on its stomach, and <name> knew how to keep the campfires burning and soldier's bellies full. [His/Her] meals weren't exactly gourmet but <name> was a keen butcher, and could fillet the opposition pretty skillfuly in retreat.",
+    "vi": "An army marches on its stomach, and <name> knew how to keep the campfires burning and soldier's bellies full. [His/Her] meals weren't exactly gourmet but <name> was a keen butcher, and could fillet the opposition pretty skillfuly in retreat."
+  },
+  {
+    "key": "bg_old_info_Mercenary",
+    "type": 0,
+    "en": "<name> had roamed Italy causing the worst kinds of trouble with the Company of St George, a group of freemen whose goal was pillaging and chaos. All good things must end, and <name> had subsequently dug ditches and escaped hanging for petty thievery.",
+    "vi": "<name> had roamed Italy causing the worst kinds of trouble with the Company of St George, a group of freemen whose goal was pillaging and chaos. All good things must end, and <name> had subsequently dug ditches and escaped hanging for petty thievery."
+  },
+  {
+    "key": "bg_old_info_Farrier",
+    "type": 0,
+    "en": "<name> is a horse whisperer. [He/She] keeps equine hooves healthy and shod in iron. It doesn't pay much, but it's a stable job.",
+    "vi": "<name> is a horse whisperer. [He/She] keeps equine hooves healthy and shod in iron. It doesn't pay much, but it's a stable job."
+  },
+  {
+    "key": "bg_old_info_Lorimer",
+    "type": 0,
+    "en": "<name> has furrows of concentration etched on [his/her] brow, and brawny arms from working hammer and bellows. Whether a humble horse bit or a knight's spurs, <name> could craft them.",
+    "vi": "<name> has furrows of concentration etched on [his/her] brow, and brawny arms from working hammer and bellows. Whether a humble horse bit or a knight's spurs, <name> could craft them."
+  },
+  {
+    "key": "bg_old_info_Blacksmith",
+    "type": 0,
+    "en": "Broad and taciturn, <name> believed [his/her] art helped forge Anglalonde, aided by the gods. 'Weland gave the Sword, The Sword gave the Treasure, and the Treasure gave the Law,' so it was said. And <name> repeated that often, to any who listened.",
+    "vi": "Broad and taciturn, <name> believed [his/her] art helped forge Anglalonde, aided by the gods. 'Weland gave the Sword, The Sword gave the Treasure, and the Treasure gave the Law,' so it was said. And <name> repeated that often, to any who listened."
+  },
+  {
+    "key": "bg_old_info_Armourer",
+    "type": 0,
+    "en": "<name> could bend anything to [his/her] will, especially bright metal. Formerly apprentice to a master from Chartres, <name>'s hammer and nimble fingers had worked long years in the armouries of the London arsenal. [He/She] had saved countless lives.",
+    "vi": "<name> could bend anything to [his/her] will, especially bright metal. Formerly apprentice to a master from Chartres, <name>'s hammer and nimble fingers had worked long years in the armouries of the London arsenal. [He/She] had saved countless lives."
+  },
+  {
+    "key": "bg_old_info_Arrowsmith",
+    "type": 0,
+    "en": "Tipped with blade or barbed, <name> had been turning out arrow heads since [he/she] was 14. [He/She] sometimes wondered how many of [his/her] creations had found their mark, staining the ruddy battlefields of Sluys and Crecy.",
+    "vi": "Tipped with blade or barbed, <name> had been turning out arrow heads since [he/she] was 14. [He/She] sometimes wondered how many of [his/her] creations had found their mark, staining the ruddy battlefields of Sluys and Crecy."
+  },
+  {
+    "key": "bg_old_info_Barber",
+    "type": 0,
+    "en": "Need a close shave? When it was time to remove a troublesome beard or festering limb, <name> would merrily oblige. [He/She] loved to gossip almost as much as letting blood. <name> was often the first to know, and, for many, the last they would see.",
+    "vi": "Need a close shave? When it was time to remove a troublesome beard or festering limb, <name> would merrily oblige. [He/She] loved to gossip almost as much as letting blood. <name> was often the first to know, and, for many, the last they would see."
+  },
+  {
+    "key": "bg_old_info_Courtesan",
+    "type": 0,
+    "en": "<name> speaks soft and low, with a gentle laugh as pleasing as birdsong. Despite being a great storyteller, nobody knows [his/her] chequered history at court. However, <name> knows a tasty little secret about almost everyone else...",
+    "vi": "<name> speaks soft and low, with a gentle laugh as pleasing as birdsong. Despite being a great storyteller, nobody knows [his/her] chequered history at court. However, <name> knows a tasty little secret about almost everyone else..."
+  },
+  {
+    "key": "bg_old_info_Alchemist",
+    "type": 0,
+    "en": "<name> had become disillusioned questing for the Philosopher's Stone, and sought the Elixir of Youth. [He/She] could read Greek and Arabic and made copious notes in code. <name> occasionally despaired, [his/her] dreams reduced to glittering dross.",
+    "vi": "<name> had become disillusioned questing for the Philosopher's Stone, and sought the Elixir of Youth. [He/She] could read Greek and Arabic and made copious notes in code. <name> occasionally despaired, [his/her] dreams reduced to glittering dross."
+  },
+  {
+    "key": "bg_old_info_Peddler",
+    "type": 0,
+    "en": "Traveller <name> carried needful supplies on [his/her] back like a snail, toiling between remote hamlets. The insular indwellers were always suspicious. Each time, <name> sweet-talked them into trusting [him/her], so that the bargaining could begin.",
+    "vi": "Traveller <name> carried needful supplies on [his/her] back like a snail, toiling between remote hamlets. The insular indwellers were always suspicious. Each time, <name> sweet-talked them into trusting [him/her], so that the bargaining could begin."
+  },
+  {
+    "key": "bg_old_info_Tanner",
+    "type": 0,
+    "en": "<name> knew how to tan a hide with an animal's own brains, and with the alchemy of wood ash, excrement and festering bark. Without <name>, no one would have shoes, armour or saddles. But [he/she] was hardly popular. As jobs go, <name>'s really stank.",
+    "vi": "<name> knew how to tan a hide with an animal's own brains, and with the alchemy of wood ash, excrement and festering bark. Without <name>, no one would have shoes, armour or saddles. But [he/she] was hardly popular. As jobs go, <name>'s really stank."
+  },
+  {
+    "key": "bg_old_info_Cordwainer",
+    "type": 0,
+    "en": "<name> entered the Cordwainers' Guild by patrimony - 'Corio et Arte' had been [his/her] father's favourite refrain. The scent of leather revived unbidden memories of London ateliers in the shadow of St Paul's, bustling with shoemakers like <name>.",
+    "vi": "<name> entered the Cordwainers' Guild by patrimony - 'Corio et Arte' had been [his/her] father's favourite refrain. The scent of leather revived unbidden memories of London ateliers in the shadow of St Paul's, bustling with shoemakers like <name>."
+  },
+  {
+    "key": "bg_old_info_Cobbler",
+    "type": 0,
+    "en": "Hailing from <origin>, <name> liked to roam up over the downs and through the ferny holloways of England. Villagers always welcomed [him/her], as even the most humble carl or cotter had shoes for <name> to mend.",
+    "vi": "Hailing from <origin>, <name> liked to roam up over the downs and through the ferny holloways of England. Villagers always welcomed [him/her], as even the most humble carl or cotter had shoes for <name> to mend."
+  },
+  {
+    "key": "bg_old_info_Miner",
+    "type": 0,
+    "en": "<name> had done [his/her] time in the Low Peak lead fields and the Welsh mines of the Black Prince. Pale and shunning daylight like many miners, <name> had hollow eyes and headaches. Glistening veins of gold caressed [his/her] dreams.",
+    "vi": "<name> had done [his/her] time in the Low Peak lead fields and the Welsh mines of the Black Prince. Pale and shunning daylight like many miners, <name> had hollow eyes and headaches. Glistening veins of gold caressed [his/her] dreams."
+  },
+  {
+    "key": "bg_old_info_Franklin",
+    "type": 0,
+    "en": "Tilling lynchets into the poor, hilly soil near <origin> had been a last resort as fertile land was scarce. But <name> had done well, and won the freedom to farm their own hide. <name> felt pride, but mainly relief. [He/She] soldiered on.",
+    "vi": "Tilling lynchets into the poor, hilly soil near <origin> had been a last resort as fertile land was scarce. But <name> had done well, and won the freedom to farm their own hide. <name> felt pride, but mainly relief. [He/She] soldiered on."
+  },
+  {
+    "key": "bg_old_info_Carter",
+    "type": 0,
+    "en": "<name> got sick of shoveling dung with the reeve looking over [his/her] shoulder. And sicker still of the miserable husbandman who didn't pay fair and square in ale when <name> unloaded it onto the fields. At least [he/she] had a strong back.",
+    "vi": "<name> got sick of shoveling dung with the reeve looking over [his/her] shoulder. And sicker still of the miserable husbandman who didn't pay fair and square in ale when <name> unloaded it onto the fields. At least [he/she] had a strong back."
+  },
+  {
+    "key": "bg_old_info_GraveDigger",
+    "type": 0,
+    "en": "<name> dug the graves at <origin> churchyard. But it was on the bloodied field at Crécy that [he/she] did [his/her] finest work. To crack French skulls in a ditch hewn with the very same pickaxe gave <name> endless satisfaction.",
+    "vi": "<name> dug the graves at <origin> churchyard. But it was on the bloodied field at Crécy that [he/she] did [his/her] finest work. To crack French skulls in a ditch hewn with the very same pickaxe gave <name> endless satisfaction."
+  },
+  {
+    "key": "bg_old_info_Berner",
+    "type": 0,
+    "en": "<name> was top dog, the leader of the pack. [He/She] cared for the hounds, and in return these dogs were fiercely loyal. Although not of high rank, <name> commanded respect. Hounds can be ferocious when crossed.",
+    "vi": "<name> was top dog, the leader of the pack. [He/She] cared for the hounds, and in return these dogs were fiercely loyal. Although not of high rank, <name> commanded respect. Hounds can be ferocious when crossed."
+  },
+  {
+    "key": "bg_old_info_wright",
+    "type": 0,
+    "en": "<name> had rebuilt half of [his/her] town after the fire. Soot became a second skin, and every new timber laid was a prayer against flame's return.",
+    "vi": "<name> had rebuilt half of [his/her] town after the fire. Soot became a second skin, and every new timber laid was a prayer against flame's return."
+  },
+  {
+    "key": "bg_old_info_turnkey",
+    "type": 0,
+    "en": "Feeding, cleaning, interrogating. <name> liked the weight of keys swaying on [his/her] belt and the smell of damp straw. [He/She] was ambitious, some might say authoritarian.",
+    "vi": "Feeding, cleaning, interrogating. <name> liked the weight of keys swaying on [his/her] belt and the smell of damp straw. [He/She] was ambitious, some might say authoritarian."
+  },
+  {
+    "key": "bg_old_info_netmaker",
+    "type": 0,
+    "en": "<name> tied fragile prayers into knots of hempen twine with calloused hands. [He/She] never failed to wet the nets with a libation, in hopes of a hefty catch.",
+    "vi": "<name> tied fragile prayers into knots of hempen twine with calloused hands. [He/She] never failed to wet the nets with a libation, in hopes of a hefty catch."
+  },
+  {
+    "key": "bg_old_info_recuperant",
+    "type": 0,
+    "en": "<name> learned patience by stitching wounds and waiting for health to return in the infirmary. [He/She] nursed a quiet resilience noticed by few.",
+    "vi": "<name> learned patience by stitching wounds and waiting for health to return in the infirmary. [He/She] nursed a quiet resilience noticed by few."
+  },
+  {
+    "key": "bg_old_info_squire",
+    "type": 0,
+    "en": "<name> polished arms humbly, and dreamed of carrying a banner. [He/She] knew how to clean blades, take bruises, and rise early.",
+    "vi": "<name> polished arms humbly, and dreamed of carrying a banner. [He/She] knew how to clean blades, take bruises, and rise early."
+  },
+  {
+    "key": "bg_old_info_fen_scout",
+    "type": 0,
+    "en": "<name> knew where river mud sucked and where raiders struck. [His/Her] wyrd was written in silt and sedge.",
+    "vi": "<name> knew where river mud sucked and where raiders struck. [His/Her] wyrd was written in silt and sedge."
+  },
+  {
+    "key": "bg_old_info_nitre_miner",
+    "type": 0,
+    "en": "<name> made ends meet by scraping crusted saltpetre from the walls of the grotto that also served as [his/her] home. The coughing and headaches seemed a fair price to pay.",
+    "vi": "<name> made ends meet by scraping crusted saltpetre from the walls of the grotto that also served as [his/her] home. The coughing and headaches seemed a fair price to pay."
+  },
+  {
+    "key": "bg_old_info_quacksalver",
+    "type": 0,
+    "en": "<name> healed with trickery and makeshift prayer, and sometimes - just sometimes - a steady hand.",
+    "vi": "<name> healed with trickery and makeshift prayer, and sometimes - just sometimes - a steady hand."
+  },
+  {
+    "key": "bg_old_info_brawler",
+    "type": 0,
+    "en": "Where laws fail, fists rule. <name> had earned coin and broken teeth brawling for bed, board and booze.",
+    "vi": "Where laws fail, fists rule. <name> had earned coin and broken teeth brawling for bed, board and booze."
+  },
+  {
+    "key": "bg_old_info_infirmarian",
+    "type": 0,
+    "en": "<name> spent years tending the broken; scrubbing bloody flagstones, wiping seeping wounds. Neither soldier, nor sage - just a steady hand when it mattered most.",
+    "vi": "<name> spent years tending the broken; scrubbing bloody flagstones, wiping seeping wounds. Neither soldier, nor sage - just a steady hand when it mattered most."
+  },
+  {
+    "key": "bg_old_info_quartermaster",
+    "type": 0,
+    "en": "<name> knew the importance of maintaining supplies since the campaign against the Scots at Neville's Cross. [He/She] could dress a wound, clothe a man, or bargain for a bucket, but had never fired a single arrow.",
+    "vi": "<name> knew the importance of maintaining supplies since the campaign against the Scots at Neville's Cross. [He/She] could dress a wound, clothe a man, or bargain for a bucket, but had never fired a single arrow."
+  },
+  {
+    "key": "bg_old_info_delver",
+    "type": 0,
+    "en": "<name> hated the serf's life. [He/She] preferred to vanish into rock or river, emerging hours later with raw ore gleaming and the perfect story to tell.",
+    "vi": "<name> hated the serf's life. [He/She] preferred to vanish into rock or river, emerging hours later with raw ore gleaming and the perfect story to tell."
+  },
+  {
+    "key": "bg_old_info_marksage",
+    "type": 0,
+    "en": "<name>'s bow was a puzzle, not a weapon. [He/She] sensed windrift and the curve of distance, seeing angles comrades missed. [He/She] had become a legend among archers who saw action at Calais.",
+    "vi": "<name>'s bow was a puzzle, not a weapon. [He/She] sensed windrift and the curve of distance, seeing angles comrades missed. [He/She] had become a legend among archers who saw action at Calais."
+  },
+  {
+    "key": "bg_old_info_hermit",
+    "type": 0,
+    "en": "<name> had inadvertently gone from beggar to hermit, when voices [he/she] heard were deemed holy. Solitary life and food offerings from locals were both greatly beneficial in finding peace of mind.",
+    "vi": "<name> had inadvertently gone from beggar to hermit, when voices [he/she] heard were deemed holy. Solitary life and food offerings from locals were both greatly beneficial in finding peace of mind."
+  },
+  {
+    "key": "bg_old_info_tutor",
+    "type": 0,
+    "en": "If <name> could instil [his/her] love of learning in [his/her] small students, it would be a reward in itself. Sadly the young Lordships were spoiled brats, who showed little promise.",
+    "vi": "If <name> could instil [his/her] love of learning in [his/her] small students, it would be a reward in itself. Sadly the young Lordships were spoiled brats, who showed little promise."
+  },
+  {
+    "key": "bg_old_info_bear_baiter",
+    "type": 0,
+    "en": "<name> had to keep the bear in fine fettle, but the dogs were replaceable. [He/She] stayed in the shadows and let the fur fly, once the wagers had been made.",
+    "vi": "<name> had to keep the bear in fine fettle, but the dogs were replaceable. [He/She] stayed in the shadows and let the fur fly, once the wagers had been made."
+  },
+  {
+    "key": "non_partisan_nomads_name",
+    "type": 0,
+    "en": "Nonpartisan",
+    "vi": "Nonpartisan"
+  },
+  {
+    "key": "church_of_third_coming_name",
+    "type": 0,
+    "en": "The Church of the Third Coming",
+    "vi": "The Church of the Third Coming"
+  },
+  {
+    "key": "ancrene_disciples_name",
+    "type": 0,
+    "en": "The Ancrene Disciples",
+    "vi": "The Ancrene Disciples"
+  },
+  {
+    "key": "faithful_sons_of_england_name",
+    "type": 0,
+    "en": "The Faithful Sons Of England",
+    "vi": "The Faithful Sons Of England"
+  },
+  {
+    "key": "band_of_the she_wolf_name",
+    "type": 0,
+    "en": "The Band of the She-Wolf",
+    "vi": "The Band of the She-Wolf"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_name",
+    "type": 0,
+    "en": "The Philosophers of the Natural Order",
+    "vi": "The Philosophers of the Natural Order"
+  },
+  {
+    "key": "society_of_fellows_name",
+    "type": 0,
+    "en": "The Society of Fellows",
+    "vi": "The Society of Fellows"
+  },
+  {
+    "key": "kingdom_of_york_name",
+    "type": 0,
+    "en": "The Kingdom Of York",
+    "vi": "The Kingdom Of York"
+  },
+  {
+    "key": "heresy_of_the_rose_name",
+    "type": 0,
+    "en": "The Heresy of the Rose",
+    "vi": "The Heresy of the Rose"
+  },
+  {
+    "key": "circle_of_avalon_name",
+    "type": 0,
+    "en": "The Circle of Avalon",
+    "vi": "The Circle of Avalon"
+  },
+  {
+    "key": "beirdd_cymraeg_name",
+    "type": 0,
+    "en": "The Beirdd Cymraeg",
+    "vi": "The Beirdd Cymraeg"
+  },
+  {
+    "key": "progeny_of_the_plague_name",
+    "type": 0,
+    "en": "The Progeny of the Plague",
+    "vi": "The Progeny of the Plague"
+  },
+  {
+    "key": "ravagers_name",
+    "type": 0,
+    "en": "The Ravagers",
+    "vi": "The Ravagers"
+  },
+  {
+    "key": "forest_bandits_name",
+    "type": 0,
+    "en": "The Forest Bandits",
+    "vi": "The Forest Bandits"
+  },
+  {
+    "key": "mountain_bandits_name",
+    "type": 0,
+    "en": "The Mountain Bandits",
+    "vi": "The Mountain Bandits"
+  },
+  {
+    "key": "river_bandits_name",
+    "type": 0,
+    "en": "The River Bandits",
+    "vi": "The River Bandits"
+  },
+  {
+    "key": "looters_name",
+    "type": 0,
+    "en": "The Looters",
+    "vi": "The Looters"
+  },
+  {
+    "key": "scourge_name",
+    "type": 0,
+    "en": "The Scourge",
+    "vi": "The Scourge"
+  },
+  {
+    "key": "non_partisan_nomads_info",
+    "type": 0,
+    "en": "No affiliation with any faction. Harming a nonpartisan will not trigger any friendliness penalties. But it may have other repercussions.",
+    "vi": "No affiliation with any faction. Harming a nonpartisan will not trigger any friendliness penalties. But it may have other repercussions."
+  },
+  {
+    "key": "church_of_third_coming_info",
+    "type": 0,
+    "en": "An often brutal, neochristian theocracy, disciples preach that the plague marked the beginning of Armageddon, in a world ruled by Satan and his demons. They keenly await the return of Christ and have joined the final battle to purify the world of sin and sinners, by any means necessary. Militant and aggressive, they have barely any understanding for those who lack their faith.\n",
+    "vi": "An often brutal, neochristian theocracy, disciples preach that the plague marked the beginning of Armageddon, in a world ruled by Satan and his demons. They keenly await the return of Christ and have joined the final battle to purify the world of sin and sinners, by any means necessary. Militant and aggressive, they have barely any understanding for those who lack their faith.\n"
+  },
+  {
+    "key": "ancrene_disciples_info",
+    "type": 0,
+    "en": "A band of Christian mystics proselytising the obscure, visionary dreams of Anchoress Menwreda of Wigmore, who was walled into a cell for life at just 15 years of age. Her complex, mystic revelations calcified into rigid doctrine during the plague years. Adherents frequently burn people alive, accusing them of being in league with the Devil, the cause of the scourge.",
+    "vi": "A band of Christian mystics proselytising the obscure, visionary dreams of Anchoress Menwreda of Wigmore, who was walled into a cell for life at just 15 years of age. Her complex, mystic revelations calcified into rigid doctrine during the plague years. Adherents frequently burn people alive, accusing them of being in league with the Devil, the cause of the scourge."
+  },
+  {
+    "key": "faithful_sons_of_england_info",
+    "type": 0,
+    "en": "Plantagenet Royalists, the Faithful champion Edmund II as the lawful heir to the throne. Their goal is to reunite England, recreating the feudal structure that was in place before the pestilence, with Edmund’s favourite, Sir Hugh Gaveston, leading the charge.\n",
+    "vi": "Plantagenet Royalists, the Faithful champion Edmund II as the lawful heir to the throne. Their goal is to reunite England, recreating the feudal structure that was in place before the pestilence, with Edmund’s favourite, Sir Hugh Gaveston, leading the charge.\n"
+  },
+  {
+    "key": "band_of_the she_wolf_info",
+    "type": 0,
+    "en": "A rough collective of factions led by individual barons, united by their unswerving loyalty to the former queen, Isabella of France. Backed by the powerful house of Aquitaine and using not just military might but also necromancy, this group aims to reinstate the nobility and ensure its longevity.",
+    "vi": "A rough collective of factions led by individual barons, united by their unswerving loyalty to the former queen, Isabella of France. Backed by the powerful house of Aquitaine and using not just military might but also necromancy, this group aims to reinstate the nobility and ensure its longevity."
+  },
+  {
+    "key": "philosophers_of_the_natural_order_info",
+    "type": 0,
+    "en": "These scholars argue that Nature, and not God, wrought the plague. Zealously pursuing knowledge, they pore over tomes of Byzantine scripture and debate Ockham's law of parsimony. They dream of a new world order based on study, not superstition, girding themselves with learning to ward of future pestilence.\n",
+    "vi": "These scholars argue that Nature, and not God, wrought the plague. Zealously pursuing knowledge, they pore over tomes of Byzantine scripture and debate Ockham's law of parsimony. They dream of a new world order based on study, not superstition, girding themselves with learning to ward of future pestilence.\n"
+  },
+  {
+    "key": "society_of_fellows_info",
+    "type": 0,
+    "en": "Intellectuals led by the flamboyant alchemist, Gaius Ortolanus, the Society of Fellows aims to distil understanding of the plague to its quintessence, and so, obtain mastery over it. Rigorous, serious, and often cantankerous, they suppress ignorance and religious claptrap wherever they find it.",
+    "vi": "Intellectuals led by the flamboyant alchemist, Gaius Ortolanus, the Society of Fellows aims to distil understanding of the plague to its quintessence, and so, obtain mastery over it. Rigorous, serious, and often cantankerous, they suppress ignorance and religious claptrap wherever they find it."
+  },
+  {
+    "key": "kingdom_of_york_info",
+    "type": 0,
+    "en": "This newly-founded anti-kingdom is led by firebrand peasant, Jan Purvey. He lays the blame for the plague squarely on the English Crown, and its warfare against France. Without this folly, Britain would have kept this pestilence at its borders with the continent, namely, the English Channel. The York movement calls for permanent abolition of the monarchy, and equal rights for all.\n",
+    "vi": "This newly-founded anti-kingdom is led by firebrand peasant, Jan Purvey. He lays the blame for the plague squarely on the English Crown, and its warfare against France. Without this folly, Britain would have kept this pestilence at its borders with the continent, namely, the English Channel. The York movement calls for permanent abolition of the monarchy, and equal rights for all.\n"
+  },
+  {
+    "key": "heresy_of_the_rose_info",
+    "type": 0,
+    "en": "Inspired by the mystic Marguerite Porete, who was burnt at the stake for heresy, followers strive towards the annihilation of the soul. Beyond this, some are nihilists, many think they are God, and most despise hierarchies. The only thing they agree upon is their right to disagree. Their motto is: 'where there is order, let me bring chaos.'",
+    "vi": "Inspired by the mystic Marguerite Porete, who was burnt at the stake for heresy, followers strive towards the annihilation of the soul. Beyond this, some are nihilists, many think they are God, and most despise hierarchies. The only thing they agree upon is their right to disagree. Their motto is: 'where there is order, let me bring chaos.'"
+  },
+  {
+    "key": "circle_of_avalon_info",
+    "type": 0,
+    "en": "Arthur Pendragon and his stately court epitomise Britain’s golden era. So says the Circle of Avalon, which strives for a renaissance of chivalry and knightly virtue. Once upon a time, Merlin's second sight revealed fearsome dragons battling beneath Vortigern’s castle. Today, the Circle calls on his druid successors to restore the old ways, summoning a ray of light in a these darkening days.\n",
+    "vi": "Arthur Pendragon and his stately court epitomise Britain’s golden era. So says the Circle of Avalon, which strives for a renaissance of chivalry and knightly virtue. Once upon a time, Merlin's second sight revealed fearsome dragons battling beneath Vortigern’s castle. Today, the Circle calls on his druid successors to restore the old ways, summoning a ray of light in a these darkening days.\n"
+  },
+  {
+    "key": "beirdd_cymraeg_info",
+    "type": 0,
+    "en": "The ancient oral tradition of gathering poetry and lore is strong, and of all the corners of Britain, this practice is most exalted in the valleys of Wales. Beirdd ⁠— bards ⁠— become initiates by sleeping on Cadair Idris, learn of shapeshifting from Taliesin, and celebrate Gwledd Brân, the Feast of the Crow. Bards become adept at casting a spell over listeners, finally becoming tutors and completing the cycle.",
+    "vi": "The ancient oral tradition of gathering poetry and lore is strong, and of all the corners of Britain, this practice is most exalted in the valleys of Wales. Beirdd ⁠— bards ⁠— become initiates by sleeping on Cadair Idris, learn of shapeshifting from Taliesin, and celebrate Gwledd Brân, the Feast of the Crow. Bards become adept at casting a spell over listeners, finally becoming tutors and completing the cycle."
+  },
+  {
+    "key": "progeny_of_the_plague_info",
+    "type": 0,
+    "en": "A group of marauders, thieves and slavers, the Progeny flourish due to drinking the blood of plague survivors. Their practices have evolved to include ritual torture, savagery and dismemberment. They hunt humans as they would any wild animal, taking pleasure in the thrill of the chase. Captives are livestock: bred, worked to death and eaten. These cannibals are now so feared, that it is hard to discern where the stories end, and the horror begins.\n",
+    "vi": "A group of marauders, thieves and slavers, the Progeny flourish due to drinking the blood of plague survivors. Their practices have evolved to include ritual torture, savagery and dismemberment. They hunt humans as they would any wild animal, taking pleasure in the thrill of the chase. Captives are livestock: bred, worked to death and eaten. These cannibals are now so feared, that it is hard to discern where the stories end, and the horror begins.\n"
+  },
+  {
+    "key": "ravagers_info",
+    "type": 0,
+    "en": "Among the many prohibitions in the Bible, none appears against eating human flesh. Upon this flimsy scaffold, the Ravagers — driven first by starvation, and later by developing culinary practices — have built their rationale for a cannibalistic lifestyle. Their recipe books feature detailed instructions to turn almost all body parts into haute cuisine: roasts, sausages, charcuterie…some of which they sell to hungry villagers, unaware of what — or whom — they are consuming.",
+    "vi": "Among the many prohibitions in the Bible, none appears against eating human flesh. Upon this flimsy scaffold, the Ravagers — driven first by starvation, and later by developing culinary practices — have built their rationale for a cannibalistic lifestyle. Their recipe books feature detailed instructions to turn almost all body parts into haute cuisine: roasts, sausages, charcuterie…some of which they sell to hungry villagers, unaware of what — or whom — they are consuming."
+  },
+  {
+    "key": "forest_bandits_info",
+    "type": 0,
+    "en": "Moving silently among ancient oaks and living on wild game, nettles and roots, life in the forest depths comes naturally to many a felon. What could be more companionable than gathering around the fire, sharing tales of the Hyrne and his Wild Hunt, and planning the next raid?",
+    "vi": "Moving silently among ancient oaks and living on wild game, nettles and roots, life in the forest depths comes naturally to many a felon. What could be more companionable than gathering around the fire, sharing tales of the Hyrne and his Wild Hunt, and planning the next raid?"
+  },
+  {
+    "key": "mountain_bandits_info",
+    "type": 0,
+    "en": "Rugged and weathered, the mountain clans shelter in natural caves and bathe under icy waterfalls. Clad in wolfskins and hunting in packs, they slink down from their mountain strongholds to strike: silent, ferocious, hungry.",
+    "vi": "Rugged and weathered, the mountain clans shelter in natural caves and bathe under icy waterfalls. Clad in wolfskins and hunting in packs, they slink down from their mountain strongholds to strike: silent, ferocious, hungry."
+  },
+  {
+    "key": "river_bandits_info",
+    "type": 0,
+    "en": "Britain’s mighty rivers carry waterfolk, who in turn ferry travelers, goods and news. Since the sickness, they have become indigent and feral, embracing piracy and pillage. The wherrymen make offerings to the nymph queen, Coventina, at the riverside, hopeful that she will bless their predatory riverine incursions.",
+    "vi": "Britain’s mighty rivers carry waterfolk, who in turn ferry travelers, goods and news. Since the sickness, they have become indigent and feral, embracing piracy and pillage. The wherrymen make offerings to the nymph queen, Coventina, at the riverside, hopeful that she will bless their predatory riverine incursions."
+  },
+  {
+    "key": "looters_info",
+    "type": 0,
+    "en": "When the plague took hold, authority crumbled and hunger stalked the land. Mercenaries, robber barons and displaced peasants roamed unchecked, preying on the weak. These looters take whatever they can carry, and will maim and kill with impunity.",
+    "vi": "When the plague took hold, authority crumbled and hunger stalked the land. Mercenaries, robber barons and displaced peasants roamed unchecked, preying on the weak. These looters take whatever they can carry, and will maim and kill with impunity."
+  },
+  {
+    "key": "scourge_info",
+    "type": 0,
+    "en": "Some say that they are revenant plague victims. Their faces are always covered. And, since their corpses catch alight and turn to ash, disturbing uncertainty lingers as to who, or what, they are. Their presence is invoked if milk sours, or a child goes missing in the night. Beasts are found cruelly dispatched, but not eaten. Crops are burned, items smashed. They exist only to manifest terror, and their name, seldom spoken, is the Scourge.",
+    "vi": "Some say that they are revenant plague victims. Their faces are always covered. And, since their corpses catch alight and turn to ash, disturbing uncertainty lingers as to who, or what, they are. Their presence is invoked if milk sours, or a child goes missing in the night. Beasts are found cruelly dispatched, but not eaten. Crops are burned, items smashed. They exist only to manifest terror, and their name, seldom spoken, is the Scourge."
+  },
+  {
+    "key": "church_of_third_coming_center",
+    "type": 0,
+    "en": "EDEN NOVA\nEden Nova is a newly-built settlement. It grew up around the abbey founded by St Augustine in Canterbury, where the Roman monk rekindled Christianity among the pagan Saxons, eventually spreading it across the land. A birthplace of new ideas, Eden Nova harbours a fundamentalist Christian sect, intent on converting a new generation of sinners.\n",
+    "vi": "EDEN NOVA\nEden Nova is a newly-built settlement. It grew up around the abbey founded by St Augustine in Canterbury, where the Roman monk rekindled Christianity among the pagan Saxons, eventually spreading it across the land. A birthplace of new ideas, Eden Nova harbours a fundamentalist Christian sect, intent on converting a new generation of sinners.\n"
+  },
+  {
+    "key": "ancrene_disciples_center",
+    "type": 0,
+    "en": "HEREFORD\nHereford Tower is a great structure encasing the former cell, and now tomb, of the visionary Anchoress Menwreda at Wigmore Abbey. It has become a site of pilgrimage and a power base for the Ancrene Disciples.",
+    "vi": "HEREFORD\nHereford Tower is a great structure encasing the former cell, and now tomb, of the visionary Anchoress Menwreda at Wigmore Abbey. It has become a site of pilgrimage and a power base for the Ancrene Disciples."
+  },
+  {
+    "key": "faithful_sons_of_england_center",
+    "type": 0,
+    "en": "NEW EXETER\nNew Exeter was founded outside the original city walls, after Exeter’s Bishop fled during the plague. Work on the cathedral had ground to a halt, and 1900 died, leaving Devon’s former first city desolate.",
+    "vi": "NEW EXETER\nNew Exeter was founded outside the original city walls, after Exeter’s Bishop fled during the plague. Work on the cathedral had ground to a halt, and 1900 died, leaving Devon’s former first city desolate."
+  },
+  {
+    "key": "band_of_the she_wolf_center",
+    "type": 0,
+    "en": "LANCASTER\nA fortification crouched on a bend of the River Lune, Lancaster boasts a fine castle, built to repel the Scots. Members of the Plantagenet dynasty ruling over this earldom perished in the great sickness. It has a reputation for notable imprisonments, and executions.",
+    "vi": "LANCASTER\nA fortification crouched on a bend of the River Lune, Lancaster boasts a fine castle, built to repel the Scots. Members of the Plantagenet dynasty ruling over this earldom perished in the great sickness. It has a reputation for notable imprisonments, and executions."
+  },
+  {
+    "key": "philosophers_of_the_natural_order_center",
+    "type": 0,
+    "en": "OXFORD\nBuilt to ford the river Thames and surrounded by marshes, Oxford was latterly a meeting place of royalty, but since the plague, has fallen from grace. All sects of scholars and religious orders dwell here, often quarrelling among themselves while reaching for the truth.",
+    "vi": "OXFORD\nBuilt to ford the river Thames and surrounded by marshes, Oxford was latterly a meeting place of royalty, but since the plague, has fallen from grace. All sects of scholars and religious orders dwell here, often quarrelling among themselves while reaching for the truth."
+  },
+  {
+    "key": "society_of_fellows_center",
+    "type": 0,
+    "en": "CAMBRIDGE\nIn the eastern fenlands lies Cambridge, once a Roman trading post, now a place of learning, religion, and frequent riots. Without a king or archbishop to back their cause, the scholars are often besieged by resentful and untrusting townsfolk.",
+    "vi": "CAMBRIDGE\nIn the eastern fenlands lies Cambridge, once a Roman trading post, now a place of learning, religion, and frequent riots. Without a king or archbishop to back their cause, the scholars are often besieged by resentful and untrusting townsfolk."
+  },
+  {
+    "key": "kingdom_of_york_center",
+    "type": 0,
+    "en": "YORK\nOnce home to Roman armies and Viking heroes, York is the great capital of the North. Beneath its cobbled streets run ancient Roman sewers and other hidden passageways. From this obscure warren, the Kingdom of York sends forth its footsoldiers and spies.",
+    "vi": "YORK\nOnce home to Roman armies and Viking heroes, York is the great capital of the North. Beneath its cobbled streets run ancient Roman sewers and other hidden passageways. From this obscure warren, the Kingdom of York sends forth its footsoldiers and spies."
+  },
+  {
+    "key": "heresy_of_the_rose_center",
+    "type": 0,
+    "en": "ROSSLYN\nThe dungeons beneath Rosslyn Castle are said to hide a clandestine library of dangerous and esoteric texts, closely guarded by Heretics. The nobles who lived here having perished, a dense, almost impenetrable forest has grown up around it. Frightening stories are spread to keep it undisturbed.",
+    "vi": "ROSSLYN\nThe dungeons beneath Rosslyn Castle are said to hide a clandestine library of dangerous and esoteric texts, closely guarded by Heretics. The nobles who lived here having perished, a dense, almost impenetrable forest has grown up around it. Frightening stories are spread to keep it undisturbed."
+  },
+  {
+    "key": "circle_of_avalon_center",
+    "type": 0,
+    "en": "GLASTONBURY\nAccording to legend, it was here at the Isle of Glass that Excalibur was forged and here, grievously wounded, that Arthur sought respite after the Battle of Camlann. It is told that Morgan le Fay and her eight sisters practiced the healing arts here, and that there is a hidden cave through which you can pass to the fairy realm of Annwn. The Circle of Avalon has raised a new Mithraeum, atop the tor.",
+    "vi": "GLASTONBURY\nAccording to legend, it was here at the Isle of Glass that Excalibur was forged and here, grievously wounded, that Arthur sought respite after the Battle of Camlann. It is told that Morgan le Fay and her eight sisters practiced the healing arts here, and that there is a hidden cave through which you can pass to the fairy realm of Annwn. The Circle of Avalon has raised a new Mithraeum, atop the tor."
+  },
+  {
+    "key": "beirdd_cymraeg_center",
+    "type": 0,
+    "en": "YNIS MÔN\nThe Beirdd Cymraeg inhabit the island of Ynys Môn, around the great burial chamber Bryn Celli Ddu. The island has long been a seat of bardic and druidic learning. There the Roman chronicler Tacitus met 'Furies, in robes of deathly black and with dishevelled hair,' and 'a circle of Druids, lifting their hands to heaven.'",
+    "vi": "YNIS MÔN\nThe Beirdd Cymraeg inhabit the island of Ynys Môn, around the great burial chamber Bryn Celli Ddu. The island has long been a seat of bardic and druidic learning. There the Roman chronicler Tacitus met 'Furies, in robes of deathly black and with dishevelled hair,' and 'a circle of Druids, lifting their hands to heaven.'"
+  },
+  {
+    "key": "progeny_of_the_plague_center",
+    "type": 0,
+    "en": "ISLE OF MANN\nAn island formed when an Irish giant threw a clod of earth at a rival in Scotland. It missed, and fell into the Irish sea, becoming the Isle of Mann. It lies under the misty cloak of the sea god, Manannán, who gave immortality to the gods through his swine, which returned to life when killed; those who ate of the swine never died.",
+    "vi": "ISLE OF MANN\nAn island formed when an Irish giant threw a clod of earth at a rival in Scotland. It missed, and fell into the Irish sea, becoming the Isle of Mann. It lies under the misty cloak of the sea god, Manannán, who gave immortality to the gods through his swine, which returned to life when killed; those who ate of the swine never died."
+  },
+  {
+    "key": "ravagers_center",
+    "type": 0,
+    "en": "NOVA FORESTA\nNova Foresta was proclaimed a Royal Forest by William the Conqueror. As a result, it is well stocked with game, and is ideal for hunting. Local legends tell of the Ettin, a race of ferocious giants. These tales have been interwoven with recent cannibal sightings. So this regal landscape, rich with fauna, is usually avoided.",
+    "vi": "NOVA FORESTA\nNova Foresta was proclaimed a Royal Forest by William the Conqueror. As a result, it is well stocked with game, and is ideal for hunting. Local legends tell of the Ettin, a race of ferocious giants. These tales have been interwoven with recent cannibal sightings. So this regal landscape, rich with fauna, is usually avoided."
+  },
+  {
+    "key": "general_no_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  },
+  {
+    "key": "scourge_center",
+    "type": 0,
+    "en": "Everywhere, Nowhere",
+    "vi": "Everywhere, Nowhere"
+  },
+  {
+    "key": "forest_bandits_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "No center"
+  }
+]

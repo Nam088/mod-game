@@ -1,0 +1,2702 @@
+[
+  {
+    "key": "wounding_default_14",
+    "type": 0,
+    "en": "acquired a",
+    "vi": "acquired a"
+  },
+  {
+    "key": "wounding_default_15",
+    "type": 0,
+    "en": "now had to cope with a",
+    "vi": "now had to cope with a"
+  },
+  {
+    "key": "wounding_default_16",
+    "type": 0,
+    "en": "was subjected to a",
+    "vi": "was subjected to a"
+  },
+  {
+    "key": "carrying_verb_1",
+    "type": 0,
+    "en": "hauled away",
+    "vi": "hauled away"
+  },
+  {
+    "key": "carrying_verb_2",
+    "type": 0,
+    "en": "bravely rescued",
+    "vi": "bravely rescued"
+  },
+  {
+    "key": "carrying_verb_3",
+    "type": 0,
+    "en": "gently carried",
+    "vi": "gently carried"
+  },
+  {
+    "key": "carrying_verb_4",
+    "type": 0,
+    "en": "heroically saved",
+    "vi": "heroically saved"
+  },
+  {
+    "key": "carrying_verb_5",
+    "type": 0,
+    "en": "quickly retrieved",
+    "vi": "quickly retrieved"
+  },
+  {
+    "key": "carrying_verb_6",
+    "type": 0,
+    "en": "rapidly recovered",
+    "vi": "rapidly recovered"
+  },
+  {
+    "key": "carrying_verb_7",
+    "type": 0,
+    "en": "grabbed",
+    "vi": "grabbed"
+  },
+  {
+    "key": "carrying_verb_8",
+    "type": 0,
+    "en": "collected",
+    "vi": "collected"
+  },
+  {
+    "key": "carrying_verb_9",
+    "type": 0,
+    "en": "brought back",
+    "vi": "brought back"
+  },
+  {
+    "key": "carrying_verb_10",
+    "type": 0,
+    "en": "safely delivered",
+    "vi": "safely delivered"
+  },
+  {
+    "key": "carrying_verb_11",
+    "type": 0,
+    "en": "extricated",
+    "vi": "extricated"
+  },
+  {
+    "key": "carrying_verb_12",
+    "type": 0,
+    "en": "pulled out",
+    "vi": "pulled out"
+  },
+  {
+    "key": "carrying_verb_13",
+    "type": 0,
+    "en": "fetched",
+    "vi": "fetched"
+  },
+  {
+    "key": "carrying_verb_14",
+    "type": 0,
+    "en": "escorted",
+    "vi": "escorted"
+  },
+  {
+    "key": "carrying_verb_15",
+    "type": 0,
+    "en": "shouldered",
+    "vi": "shouldered"
+  },
+  {
+    "key": "carrying_verb_16",
+    "type": 0,
+    "en": "lugged",
+    "vi": "lugged"
+  },
+  {
+    "key": "carrying_verb_17",
+    "type": 0,
+    "en": "hefted",
+    "vi": "hefted"
+  },
+  {
+    "key": "carrying_adjective _1",
+    "type": 0,
+    "en": "unconscious",
+    "vi": "unconscious"
+  },
+  {
+    "key": "carrying_adjective _2",
+    "type": 0,
+    "en": "bleeding",
+    "vi": "bleeding"
+  },
+  {
+    "key": "carrying_adjective _3",
+    "type": 0,
+    "en": "wounded",
+    "vi": "wounded"
+  },
+  {
+    "key": "carrying_adjective _4",
+    "type": 0,
+    "en": "injured",
+    "vi": "injured"
+  },
+  {
+    "key": "carrying_adjective _5",
+    "type": 0,
+    "en": "mangled",
+    "vi": "mangled"
+  },
+  {
+    "key": "carrying_adjective _6",
+    "type": 0,
+    "en": "maimed",
+    "vi": "maimed"
+  },
+  {
+    "key": "carrying_adjective _7",
+    "type": 0,
+    "en": "scorched",
+    "vi": "scorched"
+  },
+  {
+    "key": "carrying_adjective _8",
+    "type": 0,
+    "en": "starving",
+    "vi": "starving"
+  },
+  {
+    "key": "death_default_1",
+    "type": 0,
+    "en": "<agent_name> perished.",
+    "vi": "<agent_name> perished."
+  },
+  {
+    "key": "death_default_2",
+    "type": 0,
+    "en": "<agent_name> drew [his/her] last, ragged breath.",
+    "vi": "<agent_name> drew [his/her] last, ragged breath."
+  },
+  {
+    "key": "death_default_3",
+    "type": 0,
+    "en": "<agent_name> died.",
+    "vi": "<agent_name> died."
+  },
+  {
+    "key": "death_default_4",
+    "type": 0,
+    "en": "<agent_name> died a lingering death.",
+    "vi": "<agent_name> died a lingering death."
+  },
+  {
+    "key": "death_default_5",
+    "type": 0,
+    "en": "<agent_name> relinquished life.",
+    "vi": "<agent_name> relinquished life."
+  },
+  {
+    "key": "death_default_6",
+    "type": 0,
+    "en": "And thus, <agent_name> expired.",
+    "vi": "And thus, <agent_name> expired."
+  },
+  {
+    "key": "death_default_7",
+    "type": 0,
+    "en": "<agent_name> died instantly.",
+    "vi": "<agent_name> died instantly."
+  },
+  {
+    "key": "death_default_8",
+    "type": 0,
+    "en": "<agent_name> died horribly.",
+    "vi": "<agent_name> died horribly."
+  },
+  {
+    "key": "death_default_9",
+    "type": 0,
+    "en": "<agent_name> fell asleep, never to awaken.",
+    "vi": "<agent_name> fell asleep, never to awaken."
+  },
+  {
+    "key": "death_default_10",
+    "type": 0,
+    "en": "<agent_name> was dead as a doornail.",
+    "vi": "<agent_name> was dead as a doornail."
+  },
+  {
+    "key": "death_default_11",
+    "type": 0,
+    "en": "<agent_name> fell, stone dead.",
+    "vi": "<agent_name> fell, stone dead."
+  },
+  {
+    "key": "death_human_1",
+    "type": 0,
+    "en": "<agent_name> departed this life, a strange smile on [his/her] lips.",
+    "vi": "<agent_name> departed this life, a strange smile on [his/her] lips."
+  },
+  {
+    "key": "death_human_2",
+    "type": 0,
+    "en": "<agent_name> laid down [his/her] life.",
+    "vi": "<agent_name> laid down [his/her] life."
+  },
+  {
+    "key": "death_human_3",
+    "type": 0,
+    "en": "<agent_name> passed from this life.",
+    "vi": "<agent_name> passed from this life."
+  },
+  {
+    "key": "death_human_4",
+    "type": 0,
+    "en": "This was the day <agent_name> met [his/her] demise.",
+    "vi": "This was the day <agent_name> met [his/her] demise."
+  },
+  {
+    "key": "death_human_5",
+    "type": 0,
+    "en": "<agent_name> knew [he/she] would now meet [his/her] maker.",
+    "vi": "<agent_name> knew [he/she] would now meet [his/her] maker."
+  },
+  {
+    "key": "death_human_6",
+    "type": 0,
+    "en": "<agent_name> knew this was the end.",
+    "vi": "<agent_name> knew this was the end."
+  },
+  {
+    "key": "death_human_7",
+    "type": 0,
+    "en": "Alas, <agent_name> lives no more.",
+    "vi": "Alas, <agent_name> lives no more."
+  },
+  {
+    "key": "death_human_8",
+    "type": 0,
+    "en": "<agent_name> felt [his/her] vision dim. Death awaited [him/her].",
+    "vi": "<agent_name> felt [his/her] vision dim. Death awaited [him/her]."
+  },
+  {
+    "key": "death_human_9",
+    "type": 0,
+    "en": "<agent_name> succumbed to the Reaper's scythe",
+    "vi": "<agent_name> succumbed to the Reaper's scythe"
+  },
+  {
+    "key": "death_human_10",
+    "type": 0,
+    "en": "<agent_name> felt borne aloft by Azrael's wings as [he/she] died",
+    "vi": "<agent_name> felt borne aloft by Azrael's wings as [he/she] died"
+  },
+  {
+    "key": "death_human_11",
+    "type": 0,
+    "en": "<agent_name> heard a pale horse approach. Death was upon [him/her].",
+    "vi": "<agent_name> heard a pale horse approach. Death was upon [him/her]."
+  },
+  {
+    "key": "death_human_12",
+    "type": 0,
+    "en": "<agent_name> saw [his/her] own body far below, and understood it was over.",
+    "vi": "<agent_name> saw [his/her] own body far below, and understood it was over."
+  },
+  {
+    "key": "death_human_13",
+    "type": 0,
+    "en": "<agent_name> fought. But the Fates had already cut [his/her] mortal thread.",
+    "vi": "<agent_name> fought. But the Fates had already cut [his/her] mortal thread."
+  },
+  {
+    "key": "death_human_14",
+    "type": 0,
+    "en": "The Morrígan's ravens circled above. <agent_name> embraced death.",
+    "vi": "The Morrígan's ravens circled above. <agent_name> embraced death."
+  },
+  {
+    "key": "death_human_15",
+    "type": 0,
+    "en": "<agent_name> surrendered to death's icy embrace.",
+    "vi": "<agent_name> surrendered to death's icy embrace."
+  },
+  {
+    "key": "death_human_16",
+    "type": 0,
+    "en": "<agent_name> drifted from the shores of the living. The ferryman was waiting.",
+    "vi": "<agent_name> drifted from the shores of the living. The ferryman was waiting."
+  },
+  {
+    "key": "death_human_17",
+    "type": 0,
+    "en": "<agent_name> was ready to let go. Time to die.",
+    "vi": "<agent_name> was ready to let go. Time to die."
+  },
+  {
+    "key": "death_human_18",
+    "type": 0,
+    "en": "<agent_name> gave up the ghost. It was all over.",
+    "vi": "<agent_name> gave up the ghost. It was all over."
+  },
+  {
+    "key": "death_human_19",
+    "type": 0,
+    "en": "As <agent_name> took a final breath,  the world's mysteries faded into oblivion.",
+    "vi": "As <agent_name> took a final breath,  the world's mysteries faded into oblivion."
+  },
+  {
+    "key": "lastwords_default_1",
+    "type": 0,
+    "en": "Is that all?",
+    "vi": "Is that all?"
+  },
+  {
+    "key": "lastwords_default_2",
+    "type": 0,
+    "en": "...",
+    "vi": "..."
+  },
+  {
+    "key": "lastwords_default_3",
+    "type": 0,
+    "en": "Until we meet again.",
+    "vi": "Until we meet again."
+  },
+  {
+    "key": "lastwords_default_4",
+    "type": 0,
+    "en": "Haven't I said enough?",
+    "vi": "Haven't I said enough?"
+  },
+  {
+    "key": "lastwords_default_5",
+    "type": 0,
+    "en": "I need a drink.",
+    "vi": "I need a drink."
+  },
+  {
+    "key": "lastwords_default_6",
+    "type": 0,
+    "en": "It's a leap into the dark.",
+    "vi": "It's a leap into the dark."
+  },
+  {
+    "key": "lastwords_default_7",
+    "type": 0,
+    "en": "I'm so cold.",
+    "vi": "I'm so cold."
+  },
+  {
+    "key": "lastwords_default_8",
+    "type": 0,
+    "en": "It's full of stars.",
+    "vi": "It's full of stars."
+  },
+  {
+    "key": "lastwords_default_9",
+    "type": 0,
+    "en": "I'll tell you where I hid my gold...",
+    "vi": "I'll tell you where I hid my gold..."
+  },
+  {
+    "key": "lastwords_default_10",
+    "type": 0,
+    "en": "I taste death upon my lips.",
+    "vi": "I taste death upon my lips."
+  },
+  {
+    "key": "lastwords_default_11",
+    "type": 0,
+    "en": "Goodnight.",
+    "vi": "Goodnight."
+  },
+  {
+    "key": "lastwords_default_12",
+    "type": 0,
+    "en": "Better to burn out than fade away",
+    "vi": "Better to burn out than fade away"
+  },
+  {
+    "key": "lastwords_default_13",
+    "type": 0,
+    "en": "I've had a good run.",
+    "vi": "I've had a good run."
+  },
+  {
+    "key": "lastwords_default_14",
+    "type": 0,
+    "en": "What a great place to die.",
+    "vi": "What a great place to die."
+  },
+  {
+    "key": "lastwords_default_15",
+    "type": 0,
+    "en": "I'm off.",
+    "vi": "I'm off."
+  },
+  {
+    "key": "lastwords_default_16",
+    "type": 0,
+    "en": "I repent!",
+    "vi": "I repent!"
+  },
+  {
+    "key": "lastwords_default_17",
+    "type": 0,
+    "en": "The rest is silence.",
+    "vi": "The rest is silence."
+  },
+  {
+    "key": "lastwords_default_18",
+    "type": 0,
+    "en": "I feel the cold hand of death",
+    "vi": "I feel the cold hand of death"
+  },
+  {
+    "key": "lastwords_default_19",
+    "type": 0,
+    "en": "Mercy! Mercy!",
+    "vi": "Mercy! Mercy!"
+  },
+  {
+    "key": "lastwords_default_20",
+    "type": 0,
+    "en": "Wait, I must put my affairs in order",
+    "vi": "Wait, I must put my affairs in order"
+  },
+  {
+    "key": "lastwords_default_21",
+    "type": 0,
+    "en": "O Death, where is your sting?",
+    "vi": "O Death, where is your sting?"
+  },
+  {
+    "key": "lastwords_default_22",
+    "type": 0,
+    "en": "I'll haunt you. Just you wait and see!",
+    "vi": "I'll haunt you. Just you wait and see!"
+  },
+  {
+    "key": "lastwords_default_23",
+    "type": 0,
+    "en": "Put me under the hill, with the Faery King.",
+    "vi": "Put me under the hill, with the Faery King."
+  },
+  {
+    "key": "lastwords_default_24",
+    "type": 0,
+    "en": "Wait! I must confess!",
+    "vi": "Wait! I must confess!"
+  },
+  {
+    "key": "healing_default_1",
+    "type": 0,
+    "en": "treated",
+    "vi": "treated"
+  },
+  {
+    "key": "healing_default_2",
+    "type": 0,
+    "en": "cared for",
+    "vi": "cared for"
+  },
+  {
+    "key": "healing_default_3",
+    "type": 0,
+    "en": "tended",
+    "vi": "tended"
+  },
+  {
+    "key": "healing_default_4",
+    "type": 0,
+    "en": "cleaned up",
+    "vi": "cleaned up"
+  },
+  {
+    "key": "healing_default_5",
+    "type": 0,
+    "en": "nursed",
+    "vi": "nursed"
+  },
+  {
+    "key": "healing_default_6",
+    "type": 0,
+    "en": "ministered to",
+    "vi": "ministered to"
+  },
+  {
+    "key": "healing_default_7",
+    "type": 0,
+    "en": "assisted with",
+    "vi": "assisted with"
+  },
+  {
+    "key": "healing_default_8",
+    "type": 0,
+    "en": "helped with",
+    "vi": "helped with"
+  },
+  {
+    "key": "healing_default_9",
+    "type": 0,
+    "en": "remedied",
+    "vi": "remedied"
+  },
+  {
+    "key": "healing_default_10",
+    "type": 0,
+    "en": "soothed",
+    "vi": "soothed"
+  },
+  {
+    "key": "healing_default_11",
+    "type": 0,
+    "en": "patched up",
+    "vi": "patched up"
+  },
+  {
+    "key": "healing_default_12",
+    "type": 0,
+    "en": "saw to",
+    "vi": "saw to"
+  },
+  {
+    "key": "healing_default_13",
+    "type": 0,
+    "en": "watched over",
+    "vi": "watched over"
+  },
+  {
+    "key": "unconscious_default_1",
+    "type": 0,
+    "en": "<agent_name> passed out.",
+    "vi": "<agent_name> passed out."
+  },
+  {
+    "key": "unconscious_default_2",
+    "type": 0,
+    "en": "<agent_name> swooned, unconscious.",
+    "vi": "<agent_name> swooned, unconscious."
+  },
+  {
+    "key": "unconscious_default_3",
+    "type": 0,
+    "en": "<agent_name> blacked out.",
+    "vi": "<agent_name> blacked out."
+  },
+  {
+    "key": "unconscious_default_4",
+    "type": 0,
+    "en": "<agent_name> appeared comatose.",
+    "vi": "<agent_name> appeared comatose."
+  },
+  {
+    "key": "unconscious_default_5",
+    "type": 0,
+    "en": "<agent_name> was out cold.",
+    "vi": "<agent_name> was out cold."
+  },
+  {
+    "key": "unconscious_default_6",
+    "type": 0,
+    "en": "<agent_name> collapsed.",
+    "vi": "<agent_name> collapsed."
+  },
+  {
+    "key": "unconscious_default_7",
+    "type": 0,
+    "en": "<agent_name> keeled over.",
+    "vi": "<agent_name> keeled over."
+  },
+  {
+    "key": "unconscious_default_8",
+    "type": 0,
+    "en": "<agent_name> fainted.",
+    "vi": "<agent_name> fainted."
+  },
+  {
+    "key": "unconscious_default_9",
+    "type": 0,
+    "en": "<agent_name> was unresponsive.",
+    "vi": "<agent_name> was unresponsive."
+  },
+  {
+    "key": "unconscious_default_10",
+    "type": 0,
+    "en": "<agent_name> seemed dead to the world.",
+    "vi": "<agent_name> seemed dead to the world."
+  },
+  {
+    "key": "unconscious_default_11",
+    "type": 0,
+    "en": "<agent_name> was totally inert.",
+    "vi": "<agent_name> was totally inert."
+  },
+  {
+    "key": "unconscious_default_12",
+    "type": 0,
+    "en": "<agent_name> lost consciousness.",
+    "vi": "<agent_name> lost consciousness."
+  },
+  {
+    "key": "unconscious_default_13",
+    "type": 0,
+    "en": "<agent_name> slumped to the ground.",
+    "vi": "<agent_name> slumped to the ground."
+  },
+  {
+    "key": "unconscious_default_14",
+    "type": 0,
+    "en": "<agent_name> was rendered senseless",
+    "vi": "<agent_name> was rendered senseless"
+  },
+  {
+    "key": "unconscious_default_15",
+    "type": 0,
+    "en": "<agent_name> fell into a stupor.",
+    "vi": "<agent_name> fell into a stupor."
+  },
+  {
+    "key": "effector_name_AffectionPlayedBackgammonPositive",
+    "type": 0,
+    "en": "An enjoyable game of Backgammon",
+    "vi": "An enjoyable game of Backgammon"
+  },
+  {
+    "key": "effector_name_AffectionPlayedBackgammonNegative",
+    "type": 0,
+    "en": "Blatantly cheated at Backgammon",
+    "vi": "Blatantly cheated at Backgammon"
+  },
+  {
+    "key": "effector_name_AffectionAteAtTablePositive",
+    "type": 0,
+    "en": "A convivial meal together",
+    "vi": "A convivial meal together"
+  },
+  {
+    "key": "effector_name_AffectionAteAtTableNegative",
+    "type": 0,
+    "en": "A disagreeable mealtime",
+    "vi": "A disagreeable mealtime"
+  },
+  {
+    "key": "effector_name_AffectionPrayedTogetherPositive",
+    "type": 0,
+    "en": "A sincere prayer together",
+    "vi": "A sincere prayer together"
+  },
+  {
+    "key": "effector_name_AffectionPrayedTogetherNegative",
+    "type": 0,
+    "en": "A disquieting prayer together",
+    "vi": "A disquieting prayer together"
+  },
+  {
+    "key": "effector_name_AffectionSawDrunkSettlerPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] hilariously drunk",
+    "vi": "Saw [Him/Her] hilariously drunk"
+  },
+  {
+    "key": "effector_name_AffectionSawDrunkSettlerNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] horribly drunk",
+    "vi": "Saw [Him/Her] horribly drunk"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalButcheringPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] skillfully butchering another human being",
+    "vi": "Saw [Him/Her] skillfully butchering another human being"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalButcheringNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] gruesomely butchering another human being",
+    "vi": "Saw [Him/Her] gruesomely butchering another human being"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalCookingPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] cooking with delicious human meat",
+    "vi": "Saw [Him/Her] cooking with delicious human meat"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibaCookingNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] cooking with repulsive human meat",
+    "vi": "Saw [Him/Her] cooking with repulsive human meat"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalEatingPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] enjoying tasty human flesh",
+    "vi": "Saw [Him/Her] enjoying tasty human flesh"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalEatingNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] consuming revolting human flesh",
+    "vi": "Saw [Him/Her] consuming revolting human flesh"
+  },
+  {
+    "key": "effector_name_AffectionConsumedFoodPositive",
+    "type": 0,
+    "en": "Ate a delicious meal that [he/she] made",
+    "vi": "Ate a delicious meal that [he/she] made"
+  },
+  {
+    "key": "effector_name_AffectionConsumedFoodNegative",
+    "type": 0,
+    "en": "Ate an unappetising meal that [he/she] made",
+    "vi": "Ate an unappetising meal that [he/she] made"
+  },
+  {
+    "key": "effector_name_AffectionConsumedDrinkPositive",
+    "type": 0,
+    "en": "Drank a refreshing beverage that [he/she] made",
+    "vi": "Drank a refreshing beverage that [he/she] made"
+  },
+  {
+    "key": "effector_name_AffectionConsumedDrinNegative",
+    "type": 0,
+    "en": "Drank a flavourless beverage that [he/she] made",
+    "vi": "Drank a flavourless beverage that [he/she] made"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedHarvestPositive",
+    "type": 0,
+    "en": "[He/She] ruined a harvest",
+    "vi": "[He/She] ruined a harvest"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedHarvestNegative",
+    "type": 0,
+    "en": "[He/She] ruined a harvest",
+    "vi": "[He/She] ruined a harvest"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedDiggingPositive",
+    "type": 0,
+    "en": "[He/She] mangled a mining yield",
+    "vi": "[He/She] mangled a mining yield"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedDiggingNegative",
+    "type": 0,
+    "en": "[He/She] mangled a mining yield",
+    "vi": "[He/She] mangled a mining yield"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedChoppingPositive",
+    "type": 0,
+    "en": "[He/She] botched a harvest",
+    "vi": "[He/She] botched a harvest"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedChoppingNegative",
+    "type": 0,
+    "en": "[He/She] botched a harvest",
+    "vi": "[He/She] botched a harvest"
+  },
+  {
+    "key": "effector_name_AffectionSawFlimsyProductionPositive",
+    "type": 0,
+    "en": "[He/She] created an inferior item",
+    "vi": "[He/She] created an inferior item"
+  },
+  {
+    "key": "effector_name_AffectionSawFlimsyProductionNegative",
+    "type": 0,
+    "en": "[He/She] created an inferior item",
+    "vi": "[He/She] created an inferior item"
+  },
+  {
+    "key": "effector_name_AffectionSawFlawlessProductionPositive",
+    "type": 0,
+    "en": "[He/She] impressively created a masterful item",
+    "vi": "[He/She] impressively created a masterful item"
+  },
+  {
+    "key": "effector_name_AffectionSawFlawlessProductionNegative",
+    "type": 0,
+    "en": "[He/She] boastfully created a masterful item",
+    "vi": "[He/She] boastfully created a masterful item"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithChairPositive",
+    "type": 0,
+    "en": "[He/She] has great taste in furniture",
+    "vi": "[He/She] has great taste in furniture"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithChairNegative",
+    "type": 0,
+    "en": "[He/She] makes furniture that I really dislike",
+    "vi": "[He/She] makes furniture that I really dislike"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArtPositive",
+    "type": 0,
+    "en": "[He/She] has made a tasteful art collection",
+    "vi": "[He/She] has made a tasteful art collection"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArtNegative",
+    "type": 0,
+    "en": "[He/She] likes really ugly art",
+    "vi": "[He/She] likes really ugly art"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithBedPositive",
+    "type": 0,
+    "en": "[He/She] has great taste in furniture",
+    "vi": "[He/She] has great taste in furniture"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithBedNegative",
+    "type": 0,
+    "en": "[He/She] makes furniture that I really dislike",
+    "vi": "[He/She] makes furniture that I really dislike"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithShieldPositive",
+    "type": 0,
+    "en": "[He/She] created a shield that gives great protection",
+    "vi": "[He/She] created a shield that gives great protection"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithShieldNegative",
+    "type": 0,
+    "en": "[He/She] created a shield that is all but useless",
+    "vi": "[He/She] created a shield that is all but useless"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArmouPositive",
+    "type": 0,
+    "en": "[He/She] created a great piece of armour",
+    "vi": "[He/She] created a great piece of armour"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArmouNegative",
+    "type": 0,
+    "en": "[He/She] created an inadequate piece of armour",
+    "vi": "[He/She] created an inadequate piece of armour"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithGarmentPositive",
+    "type": 0,
+    "en": "[He/She] crafted a beautiful garment",
+    "vi": "[He/She] crafted a beautiful garment"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithGarmentNegative",
+    "type": 0,
+    "en": "[He/She] crafted an ill-fitting garment",
+    "vi": "[He/She] crafted an ill-fitting garment"
+  },
+  {
+    "key": "killed_by_default_1",
+    "type": 0,
+    "en": "Killed by <other_name>",
+    "vi": "Killed by <other_name>"
+  },
+  {
+    "key": "killed_by_default_2",
+    "type": 0,
+    "en": "Wiped out by <other_name>",
+    "vi": "Wiped out by <other_name>"
+  },
+  {
+    "key": "killed_by_default_3",
+    "type": 0,
+    "en": "Obliterated by <other_name>",
+    "vi": "Obliterated by <other_name>"
+  },
+  {
+    "key": "killed_by_default_4",
+    "type": 0,
+    "en": "Slain by <other_name>",
+    "vi": "Slain by <other_name>"
+  },
+  {
+    "key": "killed_by_default_5",
+    "type": 0,
+    "en": "Put to death by <other_name>",
+    "vi": "Put to death by <other_name>"
+  },
+  {
+    "key": "killed_by_default_6",
+    "type": 0,
+    "en": "Slaughtered by <other_name>",
+    "vi": "Slaughtered by <other_name>"
+  },
+  {
+    "key": "killed_by_default_7",
+    "type": 0,
+    "en": "Terminated by <other_name>",
+    "vi": "Terminated by <other_name>"
+  },
+  {
+    "key": "village_location",
+    "type": 0,
+    "en": "Settlement Location",
+    "vi": "Settlement Location"
+  },
+  {
+    "key": "override_stats",
+    "type": 0,
+    "en": "Override stats",
+    "vi": "Override stats"
+  },
+  {
+    "key": "villager_constraints",
+    "type": 0,
+    "en": "Settler Constraints",
+    "vi": "Settler Constraints"
+  },
+  {
+    "key": "number_of_villagers",
+    "type": 0,
+    "en": "Number of Settlers",
+    "vi": "Number of Settlers"
+  },
+  {
+    "key": "general_men",
+    "type": 0,
+    "en": "Men",
+    "vi": "Men"
+  },
+  {
+    "key": "general_woman",
+    "type": 0,
+    "en": "Women",
+    "vi": "Women"
+  },
+  {
+    "key": "general_pagan",
+    "type": 0,
+    "en": "Oak Brethren",
+    "vi": "Oak Brethren"
+  },
+  {
+    "key": "general_christian",
+    "type": 0,
+    "en": "Restitutionist",
+    "vi": "Restitutionist"
+  },
+  {
+    "key": "unlocked_tech",
+    "type": 0,
+    "en": "Unlocked Tech",
+    "vi": "Unlocked Tech"
+  },
+  {
+    "key": "starting_season",
+    "type": 0,
+    "en": "Starting Season",
+    "vi": "Starting Season"
+  },
+  {
+    "key": "map_size_info",
+    "type": 0,
+    "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
+    "vi": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement."
+  },
+  {
+    "key": "map_size_small_info",
+    "type": 0,
+    "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
+    "vi": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement."
+  },
+  {
+    "key": "map_size_medium_info",
+    "type": 0,
+    "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
+    "vi": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement."
+  },
+  {
+    "key": "map_size_large_info",
+    "type": 0,
+    "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
+    "vi": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement."
+  },
+  {
+    "key": "game_mode_builder_title",
+    "type": 0,
+    "en": "<style=DefaultBlue>Peaceful</style>",
+    "vi": "<style=DefaultBlue>Peaceful</style>"
+  },
+  {
+    "key": "game_mode_builder_info",
+    "type": 0,
+    "en": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers.",
+    "vi": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers."
+  },
+  {
+    "key": "game_mode_builder_narrative_1",
+    "type": 0,
+    "en": "<random_villager> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife.",
+    "vi": "<random_villager> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife."
+  },
+  {
+    "key": "game_mode_builder_narrative_2",
+    "type": 0,
+    "en": "<random_villager> says, 'we must build a sanctuary.' This ragged band of refugees has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can we not find a settlement that is untroubled by conflict?' They turn their faces towards [him/her], hopeful. 'It is up to us to lay the foundations for peace. Together!'",
+    "vi": "<random_villager> says, 'we must build a sanctuary.' This ragged band of refugees has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can we not find a settlement that is untroubled by conflict?' They turn their faces towards [him/her], hopeful. 'It is up to us to lay the foundations for peace. Together!'"
+  },
+  {
+    "key": "game_mode_builder_narrative_3",
+    "type": 0,
+    "en": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?",
+    "vi": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?"
+  },
+  {
+    "key": "game_mode_builder_narrative_1_single",
+    "type": 0,
+    "en": "<name> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife.",
+    "vi": "<name> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife."
+  },
+  {
+    "key": "game_mode_builder_narrative_2_single",
+    "type": 0,
+    "en": "<name> knew [he/she] wanted to build a sanctuary. This ragged refugee has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can I not find a settlement that is untroubled by conflict?' [He/She] turns [his/her] face towards the horizon, hopeful. 'It is up to me to lay the foundations for peace. Alone!'",
+    "vi": "<name> knew [he/she] wanted to build a sanctuary. This ragged refugee has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can I not find a settlement that is untroubled by conflict?' [He/She] turns [his/her] face towards the horizon, hopeful. 'It is up to me to lay the foundations for peace. Alone!'"
+  },
+  {
+    "key": "game_mode_builder_narrative_3_single",
+    "type": 0,
+    "en": "<name> surveys [his/her] half-starved body, and acknowledges the obvious. 'I'm not exactly on fighting form, am I?' As [he/she] weighs up the options, one choice seems best: 'why don't I just concentrate on building? Make a place I can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when I could strive to create a cosy, welcoming hearth?",
+    "vi": "<name> surveys [his/her] half-starved body, and acknowledges the obvious. 'I'm not exactly on fighting form, am I?' As [he/she] weighs up the options, one choice seems best: 'why don't I just concentrate on building? Make a place I can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when I could strive to create a cosy, welcoming hearth?"
+  },
+  {
+    "key": "game_mode_standard_title",
+    "type": 0,
+    "en": "<style=DefaultYellow>Standard</style>",
+    "vi": "<style=DefaultYellow>Standard</style>"
+  },
+  {
+    "key": "game_mode_standard_info",
+    "type": 0,
+    "en": "Your settlement will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress.",
+    "vi": "Your settlement will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress."
+  },
+  {
+    "key": "game_mode_standard_narrative_1",
+    "type": 0,
+    "en": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <random_villager>, 'and so must we.'",
+    "vi": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <random_villager>, 'and so must we.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_2",
+    "type": 0,
+    "en": "<random_villager> is confident, defiant, even. 'We will make this work! We will take our share of land, we will build there, and we will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'Have faith - the place we found will stand centuries from now, our descendants will be there still.'",
+    "vi": "<random_villager> is confident, defiant, even. 'We will make this work! We will take our share of land, we will build there, and we will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'Have faith - the place we found will stand centuries from now, our descendants will be there still.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_3",
+    "type": 0,
+    "en": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <random_villager> believes only in the vagaries of fate. 'We must go forward, no matter the risks,' [he/she] says, shrugging. 'Nothing ventured, nothing gained.'",
+    "vi": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <random_villager> believes only in the vagaries of fate. 'We must go forward, no matter the risks,' [he/she] says, shrugging. 'Nothing ventured, nothing gained.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_1_single",
+    "type": 0,
+    "en": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <name> under [his/her] breath, 'and so must I.'",
+    "vi": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <name> under [his/her] breath, 'and so must I.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_2_single",
+    "type": 0,
+    "en": "<name> is confident, defiant, even. 'I will make this work! I will take my share of land, I will build there, and I will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'I must have faith - the place I found will stand centuries from now, my descendants may be there still.'",
+    "vi": "<name> is confident, defiant, even. 'I will make this work! I will take my share of land, I will build there, and I will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'I must have faith - the place I found will stand centuries from now, my descendants may be there still.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_3_single",
+    "type": 0,
+    "en": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <name> believes only in the vagaries of fate. 'I must go forward, no matter the risks,' [he/she] thinks, shrugging. 'Nothing ventured, nothing gained.'",
+    "vi": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <name> believes only in the vagaries of fate. 'I must go forward, no matter the risks,' [he/she] thinks, shrugging. 'Nothing ventured, nothing gained.'"
+  },
+  {
+    "key": "game_mode_survival_title",
+    "type": 0,
+    "en": "<style=DefaultRed>Survival</style>",
+    "vi": "<style=DefaultRed>Survival</style>"
+  },
+  {
+    "key": "game_mode_survival_info",
+    "type": 0,
+    "en": "Enemy raids happen frequently in this mode, and their difficulty increases over time.",
+    "vi": "Enemy raids happen frequently in this mode, and their difficulty increases over time."
+  },
+  {
+    "key": "game_mode_survival_narrative_1",
+    "type": 0,
+    "en": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or settlers, is not for everyone. 'Are we all not sworn to a warrior's path?' asks <random_villager>, as the comrades' sit huddled around a small fire, far from everything they know.",
+    "vi": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or settlers, is not for everyone. 'Are we all not sworn to a warrior's path?' asks <random_villager>, as the comrades' sit huddled around a small fire, far from everything they know."
+  },
+  {
+    "key": "game_mode_survival_narrative_2",
+    "type": 0,
+    "en": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
+    "vi": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'"
+  },
+  {
+    "key": "game_mode_survival_narrative_3",
+    "type": 0,
+    "en": "If ever there was a time to be fearless, staunch and cunning, this is it. So says <random_villager>, who argues that with enough weapons, traps and training, [he/she] can see off any intruders. This generation is hardened by campaigns in France, by hunger and death. 'We can do this,' [he/she] says, smoothly. 'Indeed, our victories will be legendary.'",
+    "vi": "If ever there was a time to be fearless, staunch and cunning, this is it. So says <random_villager>, who argues that with enough weapons, traps and training, [he/she] can see off any intruders. This generation is hardened by campaigns in France, by hunger and death. 'We can do this,' [he/she] says, smoothly. 'Indeed, our victories will be legendary.'"
+  },
+  {
+    "key": "game_mode_survival_narrative_1_single",
+    "type": 0,
+    "en": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or villagers, is not for everyone. 'Am I not sworn to a warrior's path?' <name> thinks aloud,  huddled alone by a small fire, far from everything [he/she] knows.",
+    "vi": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or villagers, is not for everyone. 'Am I not sworn to a warrior's path?' <name> thinks aloud,  huddled alone by a small fire, far from everything [he/she] knows."
+  },
+  {
+    "key": "game_mode_survival_narrative_2_single",
+    "type": 0,
+    "en": "[He/She] stands strong, legs planted wide. 'I have fought before...I bear the scars.' [He/She] has been tougher than [he/she] ever thought possible, in these plague years. <name> makes a vow, witnessed only by God, and the whispering trees. 'Nobody will ever rip me from my stronghold. I shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
+    "vi": "[He/She] stands strong, legs planted wide. 'I have fought before...I bear the scars.' [He/She] has been tougher than [he/she] ever thought possible, in these plague years. <name> makes a vow, witnessed only by God, and the whispering trees. 'Nobody will ever rip me from my stronghold. I shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'"
+  },
+  {
+    "key": "game_mode_survival_narrative_3_single",
+    "type": 0,
+    "en": "If ever there was a time to be fearless, staunch and cunning, this is it. So thinks <name>, who believes that with enough weapons, traps and training, [he/she] can see off any intruders. [His/Her] generation is hardened by campaigns in France, by hunger and death. 'I can do this,' [he/she] tells [him/her]self. 'Indeed, my victories will be legendary.'",
+    "vi": "If ever there was a time to be fearless, staunch and cunning, this is it. So thinks <name>, who believes that with enough weapons, traps and training, [he/she] can see off any intruders. [His/Her] generation is hardened by campaigns in France, by hunger and death. 'I can do this,' [he/she] tells [him/her]self. 'Indeed, my victories will be legendary.'"
+  },
+  {
+    "key": "map_type_valley",
+    "type": 0,
+    "en": "Valley",
+    "vi": "Valley"
+  },
+  {
+    "key": "map_type_valley_info",
+    "type": 0,
+    "en": "Plentiful vegetation, fertile soil and clay. Moderate amount of limestone. Lesser amounts of iron and salt.",
+    "vi": "Plentiful vegetation, fertile soil and clay. Moderate amount of limestone. Lesser amounts of iron and salt."
+  },
+  {
+    "key": "map_type_valley_narrative",
+    "type": 0,
+    "en": "After many travails, they arrived in a valley with golden plains, cut through by a snaking river. For <random_villager>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. They decided to title it <village_name>.",
+    "vi": "After many travails, they arrived in a valley with golden plains, cut through by a snaking river. For <random_villager>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. They decided to title it <village_name>."
+  },
+  {
+    "key": "map_type_valley_narrative_single",
+    "type": 0,
+    "en": "After many travails, [he/she] arrived in a valley with golden plains, cut through by a snaking river. For <name>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. [He/She] decided to title it <village_name>.",
+    "vi": "After many travails, [he/she] arrived in a valley with golden plains, cut through by a snaking river. For <name>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. [He/She] decided to title it <village_name>."
+  },
+  {
+    "key": "map_type_mountain",
+    "type": 0,
+    "en": "Mountain",
+    "vi": "Mountain"
+  },
+  {
+    "key": "map_type_mountain_info",
+    "type": 0,
+    "en": "Plentiful limestone, gold, iron and silver. Lesser amounts of fertile soil, clay and vegetation.",
+    "vi": "Plentiful limestone, gold, iron and silver. Lesser amounts of fertile soil, clay and vegetation."
+  },
+  {
+    "key": "map_type_mountain_narrative",
+    "type": 0,
+    "en": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <random_villager>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. The travellers knew that this was the place they had been searching for. They decided to call it <village_name>.",
+    "vi": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <random_villager>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. The travellers knew that this was the place they had been searching for. They decided to call it <village_name>."
+  },
+  {
+    "key": "map_type_mountain_narrative_single",
+    "type": 0,
+    "en": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <name>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. This traveller knew that this was the place [he/she] had been searching for. [He/She] decided to call it <village_name>.",
+    "vi": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <name>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. This traveller knew that this was the place [he/she] had been searching for. [He/She] decided to call it <village_name>."
+  },
+  {
+    "key": "map_type_hill",
+    "type": 0,
+    "en": "Hillside",
+    "vi": "Hillside"
+  },
+  {
+    "key": "map_type_hill_info",
+    "type": 0,
+    "en": "Uneven terrain, suitable for a good defensive position. A fair amount of limestone and clay. A moderate amount of fertile soil and vegetation.",
+    "vi": "Uneven terrain, suitable for a good defensive position. A fair amount of limestone and clay. A moderate amount of fertile soil and vegetation."
+  },
+  {
+    "key": "map_type_hill_narrative",
+    "type": 0,
+    "en": "Into a landscape of rolling hills and ancient, crumbling forts the companions trekked. Each ascent rewarded <random_villager> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. They built a camp that would, in time, become the settlement of <village_name>.",
+    "vi": "Into a landscape of rolling hills and ancient, crumbling forts the companions trekked. Each ascent rewarded <random_villager> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. They built a camp that would, in time, become the settlement of <village_name>."
+  },
+  {
+    "key": "map_type_hill_narrative_single",
+    "type": 0,
+    "en": "Into a landscape of rolling hills and ancient, crumbling forts the lone wander trekked. Each ascent rewarded <name> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, in time, become the settlement of <village_name>.",
+    "vi": "Into a landscape of rolling hills and ancient, crumbling forts the lone wander trekked. Each ascent rewarded <name> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, in time, become the settlement of <village_name>."
+  },
+  {
+    "key": "map_type_wetland",
+    "type": 0,
+    "en": "Marsh",
+    "vi": "Marsh"
+  },
+  {
+    "key": "map_type_wetland_info",
+    "type": 0,
+    "en": "A watery, riverine landscape, rich in plant life and teeming with fish. Land animals and mineable resources are scarce.",
+    "vi": "A watery, riverine landscape, rich in plant life and teeming with fish. Land animals and mineable resources are scarce."
+  },
+  {
+    "key": "map_type_wetland_narrative",
+    "type": 0,
+    "en": "The travellers pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. <random_villager> drew a handful of the sweet water to [his/her] lips, and gave thanks. They would settle here, and name it <village_name>.",
+    "vi": "The travellers pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. <random_villager> drew a handful of the sweet water to [his/her] lips, and gave thanks. They would settle here, and name it <village_name>."
+  },
+  {
+    "key": "map_type_wetland_narrative_single",
+    "type": 0,
+    "en": "<name> pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. [He/She] drew a handful of the sweet water to [his/her] lips, and gave thanks. [He/She] would settle here, and name it <village_name>.",
+    "vi": "<name> pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. [He/She] drew a handful of the sweet water to [his/her] lips, and gave thanks. [He/She] would settle here, and name it <village_name>."
+  },
+  {
+    "key": "map_type_season_info_summer_mild",
+    "type": 0,
+    "en": "<style=DefaultGreen>Mild Summers</style>",
+    "vi": "<style=DefaultGreen>Mild Summers</style>"
+  },
+  {
+    "key": "map_type_season_info_summer_harsh",
+    "type": 0,
+    "en": "<style=DefaultOrange>Fierce Summers</style>",
+    "vi": "<style=DefaultOrange>Fierce Summers</style>"
+  },
+  {
+    "key": "map_type_season_info_winter_mild",
+    "type": 0,
+    "en": "<style=DefaultGreen>Mild Winters</style>",
+    "vi": "<style=DefaultGreen>Mild Winters</style>"
+  },
+  {
+    "key": "map_type_season_info_winter_harsh",
+    "type": 0,
+    "en": "<style=DefaultOrange>Harsh Winters</style>",
+    "vi": "<style=DefaultOrange>Harsh Winters</style>"
+  },
+  {
+    "key": "autumn_description_1",
+    "type": 0,
+    "en": "During the mild autumn",
+    "vi": "During the mild autumn"
+  },
+  {
+    "key": "autumn_description_2",
+    "type": 0,
+    "en": "In the blustery autumn",
+    "vi": "In the blustery autumn"
+  },
+  {
+    "key": "autumn_description_3",
+    "type": 0,
+    "en": "At the end of harvest season",
+    "vi": "At the end of harvest season"
+  },
+  {
+    "key": "autumn_description_4",
+    "type": 0,
+    "en": "At the autumn equinox",
+    "vi": "At the autumn equinox"
+  },
+  {
+    "key": "winter_description_1",
+    "type": 0,
+    "en": "In deep winter",
+    "vi": "In deep winter"
+  },
+  {
+    "key": "winter_description_2",
+    "type": 0,
+    "en": "At Yuletide",
+    "vi": "At Yuletide"
+  },
+  {
+    "key": "winter_description_3",
+    "type": 0,
+    "en": "At the bitterly-cold end",
+    "vi": "At the bitterly-cold end"
+  },
+  {
+    "key": "winter_description_4",
+    "type": 0,
+    "en": "In the midwinter chill",
+    "vi": "In the midwinter chill"
+  },
+  {
+    "key": "spring_description_1",
+    "type": 0,
+    "en": "As the earth quickened in spring",
+    "vi": "As the earth quickened in spring"
+  },
+  {
+    "key": "spring_description_2",
+    "type": 0,
+    "en": "As the cold retreated, heralding spring",
+    "vi": "As the cold retreated, heralding spring"
+  },
+  {
+    "key": "spring_description_3",
+    "type": 0,
+    "en": "In springtime",
+    "vi": "In springtime"
+  },
+  {
+    "key": "spring_description_4",
+    "type": 0,
+    "en": "At the sight of the first buds",
+    "vi": "At the sight of the first buds"
+  },
+  {
+    "key": "summer_description_1",
+    "type": 0,
+    "en": "Early in summertime",
+    "vi": "Early in summertime"
+  },
+  {
+    "key": "summer_description_2",
+    "type": 0,
+    "en": "At midsummer",
+    "vi": "At midsummer"
+  },
+  {
+    "key": "summer_description_3",
+    "type": 0,
+    "en": "Around the longest day",
+    "vi": "Around the longest day"
+  },
+  {
+    "key": "summer_description_4",
+    "type": 0,
+    "en": "In the summer heat",
+    "vi": "In the summer heat"
+  },
+  {
+    "key": "required_fields_info",
+    "type": 0,
+    "en": "(* - Required fields)",
+    "vi": "(* - Required fields)"
+  },
+  {
+    "key": "game_difficulty_VeryEasy_title",
+    "type": 0,
+    "en": "Very Easy",
+    "vi": "Very Easy"
+  },
+  {
+    "key": "game_difficulty_Easy_title",
+    "type": 0,
+    "en": "Easy",
+    "vi": "Easy"
+  },
+  {
+    "key": "game_difficulty_Normal_title",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Normal"
+  },
+  {
+    "key": "game_difficulty_Difficult_title",
+    "type": 0,
+    "en": "Hard",
+    "vi": "Hard"
+  },
+  {
+    "key": "game_difficulty_Hard_title",
+    "type": 0,
+    "en": "Very Hard",
+    "vi": "Very Hard"
+  },
+  {
+    "key": "game_difficulty_VeryEasy_info",
+    "type": 0,
+    "en": "Recommended for first time players who want to learn the game",
+    "vi": "Recommended for first time players who want to learn the game"
+  },
+  {
+    "key": "game_difficulty_Easy_info",
+    "type": 0,
+    "en": "Recommended for new players",
+    "vi": "Recommended for new players"
+  },
+  {
+    "key": "game_difficulty_Normal_info",
+    "type": 0,
+    "en": "Recommended for players familiar with colony sim games",
+    "vi": "Recommended for players familiar with colony sim games"
+  },
+  {
+    "key": "game_difficulty_Difficult_info",
+    "type": 0,
+    "en": "Recommended for players who want a challenge.",
+    "vi": "Recommended for players who want a challenge."
+  },
+  {
+    "key": "game_difficulty_Hard_info",
+    "type": 0,
+    "en": "Recommended for players who want a tough survival challenge",
+    "vi": "Recommended for players who want a tough survival challenge"
+  },
+  {
+    "key": "prioritise_hauling",
+    "type": 0,
+    "en": "Prioritise hauling to stockpile",
+    "vi": "Prioritise hauling to stockpile"
+  },
+  {
+    "key": "nowhere_to_store",
+    "type": 0,
+    "en": "No empty spot on stockpile, or no stockpile set to store this resource type",
+    "vi": "No empty spot on stockpile, or no stockpile set to store this resource type"
+  },
+  {
+    "key": "requires_selected_worker",
+    "type": 0,
+    "en": "This action requires a selected settler",
+    "vi": "This action requires a selected settler"
+  },
+  {
+    "key": "can_not_do_while_drafted",
+    "type": 0,
+    "en": "Cannot perform this action while drafted",
+    "vi": "Cannot perform this action while drafted"
+  },
+  {
+    "key": "already_reserved_by_other_worker",
+    "type": 0,
+    "en": "Already assigned to another settler",
+    "vi": "Already assigned to another settler"
+  },
+  {
+    "key": "prioritise_tending_wounds",
+    "type": 0,
+    "en": "Prioritise tending wounds",
+    "vi": "Prioritise tending wounds"
+  },
+  {
+    "key": "not_enough_free_beds",
+    "type": 0,
+    "en": "No empty beds available. Construct beds or sleeping spots for your injured.",
+    "vi": "No empty beds available. Construct beds or sleeping spots for your injured."
+  },
+  {
+    "key": "prioritise_carry_to_bed",
+    "type": 0,
+    "en": "Carry this settler to an empty bed.",
+    "vi": "Carry this settler to an empty bed."
+  },
+  {
+    "key": "general_operate_production",
+    "type": 0,
+    "en": "Prioritise production",
+    "vi": "Prioritise production"
+  },
+  {
+    "key": "general_deliver_production_material",
+    "type": 0,
+    "en": "Prioritise delivering material for production:",
+    "vi": "Prioritise delivering material for production:"
+  },
+  {
+    "key": "queued_production",
+    "type": 0,
+    "en": "Queued product:",
+    "vi": "Queued product:"
+  },
+  {
+    "key": "no_production_item_queued",
+    "type": 0,
+    "en": "No product is queued",
+    "vi": "No product is queued"
+  },
+  {
+    "key": "prioritise_locking_door",
+    "type": 0,
+    "en": "Prioritise locking this door",
+    "vi": "Prioritise locking this door"
+  },
+  {
+    "key": "prioritise_always_open_door",
+    "type": 0,
+    "en": "Prioritise opening door",
+    "vi": "Prioritise opening door"
+  },
+  {
+    "key": "prioritise_unlocking_door",
+    "type": 0,
+    "en": "Prioritise setting door to default state",
+    "vi": "Prioritise setting door to default state"
+  },
+  {
+    "key": "prioritise_hunting",
+    "type": 0,
+    "en": "Prioritise hunting animal",
+    "vi": "Prioritise hunting animal"
+  },
+  {
+    "key": "prioritise_open_window",
+    "type": 0,
+    "en": "Prioritise opening window",
+    "vi": "Prioritise opening window"
+  },
+  {
+    "key": "prioritise_close_window",
+    "type": 0,
+    "en": "Prioritise closing window",
+    "vi": "Prioritise closing window"
+  },
+  {
+    "key": "prioritise_flame_off",
+    "type": 0,
+    "en": "Prioritise extinguishing flame",
+    "vi": "Prioritise extinguishing flame"
+  },
+  {
+    "key": "prioritise_flame_on",
+    "type": 0,
+    "en": "Prioritise lighting flame",
+    "vi": "Prioritise lighting flame"
+  },
+  {
+    "key": "already_working_on_target",
+    "type": 0,
+    "en": "Already working on it",
+    "vi": "Already working on it"
+  },
+  {
+    "key": "build_sight_must_be_clear",
+    "type": 0,
+    "en": "Cannot start construction, need to clear area first",
+    "vi": "Cannot start construction, need to clear area first"
+  },
+  {
+    "key": "cannot_passive_production",
+    "type": 0,
+    "en": "Cannot prioritise passive production",
+    "vi": "Cannot prioritise passive production"
+  },
+  {
+    "key": "can_not_execute_order_on_self",
+    "type": 0,
+    "en": "Cannot perform action on self",
+    "vi": "Cannot perform action on self"
+  },
+  {
+    "key": "already_has_operator",
+    "type": 0,
+    "en": "Already has operator",
+    "vi": "Already has operator"
+  },
+  {
+    "key": "prioritise_bury",
+    "type": 0,
+    "en": "Prioritise burial",
+    "vi": "Prioritise burial"
+  },
+  {
+    "key": "nowhere_to_bury",
+    "type": 0,
+    "en": "No empty burial spot, or none designated for this corpse type.",
+    "vi": "No empty burial spot, or none designated for this corpse type."
+  },
+  {
+    "key": "prioritise_convalescing",
+    "type": 0,
+    "en": "Prioritise convalescing",
+    "vi": "Prioritise convalescing"
+  },
+  {
+    "key": "active_productin_paused",
+    "type": 0,
+    "en": "Active production paused",
+    "vi": "Active production paused"
+  },
+  {
+    "key": "amount_met",
+    "type": 0,
+    "en": "Amount met",
+    "vi": "Amount met"
+  },
+  {
+    "key": "general_trade_with",
+    "type": 0,
+    "en": "Barter with: <trader_name>",
+    "vi": "Barter with: <trader_name>"
+  },
+  {
+    "key": "general_negotiate_with",
+    "type": 0,
+    "en": "Negotiate with: <negotiator_name>",
+    "vi": "Negotiate with: <negotiator_name>"
+  },
+  {
+    "key": "prioritise_taming",
+    "type": 0,
+    "en": "Prioritise Taming",
+    "vi": "Prioritise Taming"
+  },
+  {
+    "key": "prioritise_train",
+    "type": 0,
+    "en": "Prioritise Training",
+    "vi": "Prioritise Training"
+  },
+  {
+    "key": "prioritise_slaughter",
+    "type": 0,
+    "en": "Prioritise Slaughtering",
+    "vi": "Prioritise Slaughtering"
+  },
+  {
+    "key": "prioritise_release",
+    "type": 0,
+    "en": "Prioritise Releasing",
+    "vi": "Prioritise Releasing"
+  },
+  {
+    "key": "prioritise_rope",
+    "type": 0,
+    "en": "Prioritise Roping",
+    "vi": "Prioritise Roping"
+  },
+  {
+    "key": "no_valid_pen",
+    "type": 0,
+    "en": "No pen that can house this animal is available ",
+    "vi": "No pen that can house this animal is available "
+  },
+  {
+    "key": "prioritise_reset_trap",
+    "type": 0,
+    "en": "Prioritise Resetting",
+    "vi": "Prioritise Resetting"
+  },
+  {
+    "key": "prioritise_trough_refill",
+    "type": 0,
+    "en": "Prioritise Fill",
+    "vi": "Prioritise Fill"
+  },
+  {
+    "key": "self_tend_must_be_enabled",
+    "type": 0,
+    "en": "The self-tend option in the manage panel must be selected for a settler to so.",
+    "vi": "The self-tend option in the manage panel must be selected for a settler to so."
+  },
+  {
+    "key": "prioritise_fishing",
+    "type": 0,
+    "en": "Prioritise Fishing",
+    "vi": "Prioritise Fishing"
+  },
+  {
+    "key": "put_out_fire",
+    "type": 0,
+    "en": "Prioritise quenching fire",
+    "vi": "Prioritise quenching fire"
+  },
+  {
+    "key": "put_out_fire_tooltip",
+    "type": 0,
+    "en": "Prioritise quenching fire",
+    "vi": "Prioritise quenching fire"
+  },
+  {
+    "key": "prioritise_barrel_refill",
+    "type": 0,
+    "en": "Prioritise Filling Barrel",
+    "vi": "Prioritise Filling Barrel"
+  },
+  {
+    "key": "prioritise_open_shelf",
+    "type": 0,
+    "en": "Prioritise Emptying Container",
+    "vi": "Prioritise Emptying Container"
+  },
+  {
+    "key": "prioritise_stripping",
+    "type": 0,
+    "en": "Prioritise: Strip",
+    "vi": "Prioritise: Strip"
+  },
+  {
+    "key": "prioritise_gardening",
+    "type": 0,
+    "en": "Prioritise: Grow",
+    "vi": "Prioritise: Grow"
+  },
+  {
+    "key": "prioritise_move_to_location",
+    "type": 0,
+    "en": "Move to location",
+    "vi": "Move to location"
+  },
+  {
+    "key": "third_archer_easy",
+    "type": 0,
+    "en": "Third Coming Archer",
+    "vi": "Third Coming Archer"
+  },
+  {
+    "key": "third_archer_med",
+    "type": 0,
+    "en": "Adept Third Coming Archer",
+    "vi": "Adept Third Coming Archer"
+  },
+  {
+    "key": "third_archer_hard",
+    "type": 0,
+    "en": "Master Third Coming Archer",
+    "vi": "Master Third Coming Archer"
+  },
+  {
+    "key": "third_basic_easy",
+    "type": 0,
+    "en": "Third Coming Pillager",
+    "vi": "Third Coming Pillager"
+  },
+  {
+    "key": "third_basic_med",
+    "type": 0,
+    "en": "Fierce Third Coming Pillager",
+    "vi": "Fierce Third Coming Pillager"
+  },
+  {
+    "key": "third_basic_hard",
+    "type": 0,
+    "en": "Ruthless Third Coming Pillager",
+    "vi": "Ruthless Third Coming Pillager"
+  },
+  {
+    "key": "third_heavy_easy",
+    "type": 0,
+    "en": "Third Coming Thug",
+    "vi": "Third Coming Thug"
+  },
+  {
+    "key": "third_heavy_med",
+    "type": 0,
+    "en": "Brutal Third Coming Thug",
+    "vi": "Brutal Third Coming Thug"
+  },
+  {
+    "key": "third_heavy_hard",
+    "type": 0,
+    "en": "Murderous Third Coming Thug",
+    "vi": "Murderous Third Coming Thug"
+  },
+  {
+    "key": "progeny_archer_easy",
+    "type": 0,
+    "en": "Progeny Archer",
+    "vi": "Progeny Archer"
+  },
+  {
+    "key": "progeny_archer_med",
+    "type": 0,
+    "en": "Adept Progeny Archer",
+    "vi": "Adept Progeny Archer"
+  },
+  {
+    "key": "progeny_archer_hard",
+    "type": 0,
+    "en": "Master Progeny Archer",
+    "vi": "Master Progeny Archer"
+  },
+  {
+    "key": "progeny_basic_easy",
+    "type": 0,
+    "en": "Progeny Marauder",
+    "vi": "Progeny Marauder"
+  },
+  {
+    "key": "progeny_basic_med",
+    "type": 0,
+    "en": "Fierce Progeny Marauder",
+    "vi": "Fierce Progeny Marauder"
+  },
+  {
+    "key": "progeny_basic_hard",
+    "type": 0,
+    "en": "Ruthless Progeny Marauder",
+    "vi": "Ruthless Progeny Marauder"
+  },
+  {
+    "key": "progeny_heavy_easy",
+    "type": 0,
+    "en": "Progeny Thug",
+    "vi": "Progeny Thug"
+  },
+  {
+    "key": "progeny_heavy_med",
+    "type": 0,
+    "en": "Brutal Progeny Thug",
+    "vi": "Brutal Progeny Thug"
+  },
+  {
+    "key": "progeny_heavy_hard",
+    "type": 0,
+    "en": "Murderous Progeny Thug",
+    "vi": "Murderous Progeny Thug"
+  },
+  {
+    "key": "forest_bandit_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "forest_bandit_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "forest_bandit_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "forest_bandit_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "forest_bandit_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "forest_bandit_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "forest_bandit_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "forest_bandit_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "forest_bandit_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "trebuchet3",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Movable Trebuchet"
+  },
+  {
+    "key": "trebuchet2",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Movable Trebuchet"
+  },
+  {
+    "key": "trebuchet",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Movable Trebuchet"
+  },
+  {
+    "key": "general_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "general_archer_med",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "general_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "general_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "general_basic_med",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "general_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "general_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "general_heavy_med",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "general_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "general_pillager_easy",
+    "type": 0,
+    "en": "Pillager",
+    "vi": "Pillager"
+  },
+  {
+    "key": "general_pillager_lvl2",
+    "type": 0,
+    "en": "Fierce Bandit",
+    "vi": "Fierce Bandit"
+  },
+  {
+    "key": "general_pillager_lvl3",
+    "type": 0,
+    "en": "Ruthless Bandit",
+    "vi": "Ruthless Bandit"
+  },
+  {
+    "key": "general_pillager_lvl1",
+    "type": 0,
+    "en": "Bandit",
+    "vi": "Bandit"
+  },
+  {
+    "key": "trader_1",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Merchant"
+  },
+  {
+    "key": "general_trader",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Merchant"
+  },
+  {
+    "key": "general_bodyguard",
+    "type": 0,
+    "en": "Merchant's guard",
+    "vi": "Merchant's guard"
+  },
+  {
+    "key": "negotiator_1",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Negotiator"
+  },
+  {
+    "key": "general_negotiator",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Negotiator"
+  },
+  {
+    "key": "bard_visitor_1",
+    "type": 0,
+    "en": "Bard",
+    "vi": "Bard"
+  },
+  {
+    "key": "priest_visitor_1",
+    "type": 0,
+    "en": "Chaplain",
+    "vi": "Chaplain"
+  },
+  {
+    "key": "shaman_visitor_1",
+    "type": 0,
+    "en": "Druid",
+    "vi": "Druid"
+  },
+  {
+    "key": "beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "beggar_1",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "general_beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "general_beggar_1",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "beggar_negotiator",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Beggar"
+  },
+  {
+    "key": "ambush_negotiator",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Negotiator"
+  },
+  {
+    "key": "trader_prisoners",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Merchant"
+  },
+  {
+    "key": "general_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "general_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "general_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "forest_bandit_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "forest_bandit_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "forest_bandit_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "church_of_third_coming_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "church_of_third_coming_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "church_of_third_coming_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "church_of_third_coming_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "church_of_third_coming_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "church_of_third_coming_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "church_of_third_coming_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "church_of_third_coming_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "church_of_third_coming_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "church_of_third_coming_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "church_of_third_coming_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "church_of_third_coming_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "ancrene_disciples_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "ancrene_disciples_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "ancrene_disciples_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "ancrene_disciples_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "ancrene_disciples_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "ancrene_disciples_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "ancrene_disciples_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "ancrene_disciples_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "ancrene_disciples_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "ancrene_disciples_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "ancrene_disciples_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "ancrene_disciples_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "society_of_fellows_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "society_of_fellows_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "society_of_fellows_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "society_of_fellows_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "society_of_fellows_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "society_of_fellows_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "society_of_fellows_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "society_of_fellows_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "society_of_fellows_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "society_of_fellows_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "society_of_fellows_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  },
+  {
+    "key": "society_of_fellows_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Thug"
+  },
+  {
+    "key": "kingdom_of_york_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Marauder"
+  },
+  {
+    "key": "kingdom_of_york_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Marauder"
+  },
+  {
+    "key": "kingdom_of_york_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Marauder"
+  },
+  {
+    "key": "kingdom_of_york_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Archer"
+  },
+  {
+    "key": "kingdom_of_york_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Adept Archer"
+  },
+  {
+    "key": "kingdom_of_york_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Archer"
+  },
+  {
+    "key": "kingdom_of_york_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Thug"
+  },
+  {
+    "key": "kingdom_of_york_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Brutal Thug"
+  },
+  {
+    "key": "kingdom_of_york_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Murderous Thug"
+  },
+  {
+    "key": "kingdom_of_york_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Marauder"
+  },
+  {
+    "key": "kingdom_of_york_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Archer"
+  }
+]
