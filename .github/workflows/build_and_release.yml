@@ -10,6 +10,7 @@ on:
       - "Against-The-Storm/**"
       - "WorldBox/**"
       - "Manor-Lords/**"
+      - "Going-Medieval/**"
       - "!**/dist/**"
       - "!**/*.md"
   workflow_dispatch:
@@ -27,6 +28,7 @@ on:
           - Against-The-Storm
           - WorldBox
           - Manor-Lords
+          - Going-Medieval
       bump_version:
         description: "Tự động tăng Version (Patch)?"
         required: true

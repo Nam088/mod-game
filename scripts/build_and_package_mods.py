@@ -95,6 +95,24 @@ GAMES_CONFIG = {
         "dist_dir": "Manor-Lords/dist",
         "mod_package_dir": "Manor-Lords/dist",
         "zip_prefix": "Manor-Lords-Vietnamese-Mod",
+    },
+    "Going-Medieval": {
+        "name": "Going Medieval",
+        "slug": "going-medieval",
+        "tag_prefix": "gm",
+        "dir": "Going-Medieval",
+        "version_files": [
+            {
+                "type": "json",
+                "path": "Going-Medieval/ModInfo.json",
+                "key": "modVersion",
+                "create_if_missing": True,
+                "default_version": "1.0.0"
+            }
+        ],
+        "dist_dir": "Going-Medieval/dist",
+        "mod_package_dir": "Going-Medieval",
+        "zip_prefix": "Going-Medieval-Vietnamese-Mod",
     }
 }
 
@@ -222,6 +240,42 @@ def build_game_mod(game_key, auto_bump=False, bump_type="patch"):
             "tag": cfg["tag_prefix"] + "-v" + target_ver
         }
 
+    if game_key == "Going-Medieval":
+        gm_dir = os.path.join(BASE_DIR, "Going-Medieval")
+        dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
+        os.makedirs(dist_dir, exist_ok=True)
+        build_script = os.path.join(gm_dir, "build_mod_csv.py")
+        if os.path.exists(build_script):
+            subprocess.run([sys.executable, build_script], cwd=gm_dir, check=True)
+            print("[✓] Đã biên dịch Vietnamese.csv cho Going Medieval")
+
+        zip_name = cfg["zip_prefix"] + "-v" + target_ver + ".zip"
+        zip_path = os.path.join(dist_dir, zip_name)
+        if os.path.exists(zip_path): os.remove(zip_path)
+
+        print(f"[*] Đóng gói Going Medieval Mod ZIP vào {zip_path}...")
+        with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
+            mod_info = os.path.join(gm_dir, "ModInfo.json")
+            preview_img = os.path.join(gm_dir, "PreviewTranslation.png")
+            csv_file = os.path.join(gm_dir, "Vietnamese.csv")
+            if os.path.exists(mod_info):
+                zipf.write(mod_info, "VietnameseLocalization/ModInfo.json")
+            if os.path.exists(preview_img):
+                zipf.write(preview_img, "VietnameseLocalization/PreviewTranslation.png")
+            if os.path.exists(csv_file):
+                zipf.write(csv_file, "VietnameseLocalization/Data/Localization/Vietnamese.csv")
+
+        zip_size_mb = os.path.getsize(zip_path) / (1024 * 1024)
+        print(f"[✓] Đã tạo thành công: {zip_name} ({zip_size_mb:.2f} MB)")
+        return {
+            "game_key": game_key,
+            "name": cfg["name"],
+            "version": target_ver,
+            "zip_name": zip_name,
+            "zip_path": zip_path,
+            "tag": cfg["tag_prefix"] + "-v" + target_ver
+        }
+
     dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
     os.makedirs(dist_dir, exist_ok=True)
     zip_name = cfg["zip_prefix"] + "-v" + target_ver + ".zip"
@@ -286,10 +340,8 @@ def main():
     elif args.game == "auto":
         detected = detect_changed_games(args.base_ref)
         if not detected:
-            for g_key, g_cfg in GAMES_CONFIG.items():
-                dist_dir = os.path.join(BASE_DIR, g_cfg["dist_dir"])
-                if not os.path.exists(dist_dir) or not any(f.endswith(".zip") for f in os.listdir(dist_dir)):
-                    games_to_build.append(g_key)
+            print("[*] Không phát hiện thay đổi ở bất kỳ mod game nào. Bỏ qua build.")
+            games_to_build = []
         else:
             print(f"[*] Phát hiện thay đổi ở các game: {detected}")
             games_to_build = detected
