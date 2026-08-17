@@ -1,0 +1,4550 @@
+[
+  {
+    "key": "action_allow",
+    "type": 0,
+    "en": "Allow",
+    "vi": "Allow"
+  },
+  {
+    "key": "action_UrgentHaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Urgent Haul"
+  },
+  {
+    "key": "action_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Attack"
+  },
+  {
+    "key": "action_attack_disabled",
+    "type": 0,
+    "en": "Attack Disabled",
+    "vi": "Attack Disabled"
+  },
+  {
+    "key": "action_attacking",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "action_banish",
+    "type": 0,
+    "en": "Banish",
+    "vi": "Banish"
+  },
+  {
+    "key": "action_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Cancel"
+  },
+  {
+    "key": "action_abortgoal",
+    "type": 0,
+    "en": "Cancel Action",
+    "vi": "Cancel Action"
+  },
+  {
+    "key": "action_chopping",
+    "type": 0,
+    "en": "Chop",
+    "vi": "Chop"
+  },
+  {
+    "key": "action_cutallvegetation",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cut"
+  },
+  {
+    "key": "action_cutting",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cut"
+  },
+  {
+    "key": "action_draft",
+    "type": 0,
+    "en": "Draft",
+    "vi": "Draft"
+  },
+  {
+    "key": "action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "action_activate",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Activate"
+  },
+  {
+    "key": "action_activateBell",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Activate"
+  },
+  {
+    "key": "action_deactivateBell",
+    "type": 0,
+    "en": "Deactivate",
+    "vi": "Deactivate"
+  },
+  {
+    "key": "action_equipping",
+    "type": 0,
+    "en": "Equip",
+    "vi": "Equip"
+  },
+  {
+    "key": "action_forbid",
+    "type": 0,
+    "en": "Forbid",
+    "vi": "Forbid"
+  },
+  {
+    "key": "action_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Harvest"
+  },
+  {
+    "key": "action_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Hunt"
+  },
+  {
+    "key": "action_list",
+    "type": 0,
+    "en": "Actions",
+    "vi": "Actions"
+  },
+  {
+    "key": "action_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "effect_reason_attribute_decomposespeed",
+    "type": 0,
+    "en": "Decaying because of",
+    "vi": "Decaying because of"
+  },
+  {
+    "key": "effect_reason_attribute_rottingspeed",
+    "type": 0,
+    "en": "Rotting because of",
+    "vi": "Rotting because of"
+  },
+  {
+    "key": "effect_reason_ground",
+    "type": 0,
+    "en": "Ground type",
+    "vi": "Ground type"
+  },
+  {
+    "key": "effect_reason_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Temperature"
+  },
+  {
+    "key": "effect_reason_time_decomposespeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">decomposes</link> in",
+    "vi": "Pile <LinkAlmanac=\"Systemdecomposition\">decomposes</link> in"
+  },
+  {
+    "key": "effect_reason_time_rottingspeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">rots</link> in",
+    "vi": "Pile <LinkAlmanac=\"Systemdecomposition\">rots</link> in"
+  },
+  {
+    "key": "effect_reason_weather",
+    "type": 0,
+    "en": "Unroofed",
+    "vi": "Unroofed"
+  },
+  {
+    "key": "general_skill_level_up",
+    "type": 0,
+    "en": "skill is now level",
+    "vi": "skill is now level"
+  },
+  {
+    "key": "hour_type_role_job_name",
+    "type": 0,
+    "en": "Role Duties",
+    "vi": "Role Duties"
+  },
+  {
+    "key": "hud_info_jobs",
+    "type": 0,
+    "en": "Choose which job will each settler do.",
+    "vi": "Choose which job will each settler do."
+  },
+  {
+    "key": "hud_lb_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "menu_perks",
+    "type": 0,
+    "en": "Perks",
+    "vi": "Perks"
+  },
+  {
+    "key": "menu_skills",
+    "type": 0,
+    "en": "Skills",
+    "vi": "Skills"
+  },
+  {
+    "key": "needed_skills",
+    "type": 0,
+    "en": "Required skill",
+    "vi": "Required skill"
+  },
+  {
+    "key": "production_skill",
+    "type": 0,
+    "en": "Cant produce: skill level not met",
+    "vi": "Cant produce: skill level not met"
+  },
+  {
+    "key": "skill_needed",
+    "type": 0,
+    "en": "Skill needed",
+    "vi": "Skill needed"
+  },
+  {
+    "key": "skill_requirements",
+    "type": 0,
+    "en": "Item skill requirements",
+    "vi": "Item skill requirements"
+  },
+  {
+    "key": "action_ToggleForbid",
+    "type": 0,
+    "en": "Toggle allow/forbid",
+    "vi": "Toggle allow/forbid"
+  },
+  {
+    "key": "action_ToggleUrgent",
+    "type": 0,
+    "en": "Toggle Urgent haul",
+    "vi": "Toggle Urgent haul"
+  },
+  {
+    "key": "MoodAverage_title",
+    "type": 0,
+    "en": "Settler Mood",
+    "vi": "Settler Mood"
+  },
+  {
+    "key": "MoodAverage_info",
+    "type": 0,
+    "en": "Average mood through time",
+    "vi": "Average mood through time"
+  },
+  {
+    "key": "worker_banish_event_log_type",
+    "type": 0,
+    "en": "Settler Banished",
+    "vi": "Settler Banished"
+  },
+  {
+    "key": "worker_banish_event_log_title",
+    "type": 0,
+    "en": "The Banishment of <name>",
+    "vi": "The Banishment of <name>"
+  },
+  {
+    "key": "worker_banish_event_log_info",
+    "type": 0,
+    "en": "<name> was banished. [He/She] was last seen going towards <origin>",
+    "vi": "<name> was banished. [He/She] was last seen going towards <origin>"
+  },
+  {
+    "key": "worker_died_event_log_type",
+    "type": 0,
+    "en": "Settler Died",
+    "vi": "Settler Died"
+  },
+  {
+    "key": "worker_died_event_log_title",
+    "type": 0,
+    "en": "The Death of <name> <surname>",
+    "vi": "The Death of <name> <surname>"
+  },
+  {
+    "key": "worker_died_event_log_info",
+    "type": 0,
+    "en": "<name> died aged <age>...",
+    "vi": "<name> died aged <age>..."
+  },
+  {
+    "key": "action_ExpandZone",
+    "type": 0,
+    "en": "Expand Zone",
+    "vi": "Expand Zone"
+  },
+  {
+    "key": "action_ShrinkZone",
+    "type": 0,
+    "en": "Shrink Zone",
+    "vi": "Shrink Zone"
+  },
+  {
+    "key": "attribute_group_General",
+    "type": 0,
+    "en": "General",
+    "vi": "General"
+  },
+  {
+    "key": "attribute_group_Jobs",
+    "type": 0,
+    "en": "Job related",
+    "vi": "Job related"
+  },
+  {
+    "key": "attribute_group_Combat",
+    "type": 0,
+    "en": "Combat related",
+    "vi": "Combat related"
+  },
+  {
+    "key": "villager_constraint_ForcedPerks",
+    "type": 0,
+    "en": "Forced Perks",
+    "vi": "Forced Perks"
+  },
+  {
+    "key": "general_relevant_skills",
+    "type": 0,
+    "en": "Relevant Skills",
+    "vi": "Relevant Skills"
+  },
+  {
+    "key": "general_job_type",
+    "type": 0,
+    "en": "Job Type",
+    "vi": "Job Type"
+  },
+  {
+    "key": "jobs_highest_priority",
+    "type": 0,
+    "en": " << Highest Priority",
+    "vi": " << Highest Priority"
+  },
+  {
+    "key": "jobs_lowest_priority",
+    "type": 0,
+    "en": "Lowest Priority >>",
+    "vi": "Lowest Priority >>"
+  },
+  {
+    "key": "jobs_first_done",
+    "type": 0,
+    "en": "Priority 1 is done first",
+    "vi": "Priority 1 is done first"
+  },
+  {
+    "key": "jobs_last_done",
+    "type": 0,
+    "en": "Priority 5 is done last",
+    "vi": "Priority 5 is done last"
+  },
+  {
+    "key": "settler_trade_bonus",
+    "type": 0,
+    "en": "Settler trade bonus",
+    "vi": "Settler trade bonus"
+  },
+  {
+    "key": "action_caravan_return",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Go Back"
+  },
+  {
+    "key": "action_back_home",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Go Back"
+  },
+  {
+    "key": "action_caravan",
+    "type": 0,
+    "en": "Send Caravan",
+    "vi": "Send Caravan"
+  },
+  {
+    "key": "action_trade",
+    "type": 0,
+    "en": "Barter",
+    "vi": "Barter"
+  },
+  {
+    "key": "action_gift",
+    "type": 0,
+    "en": "Gift",
+    "vi": "Gift"
+  },
+  {
+    "key": "character_perk_conflicts",
+    "type": 0,
+    "en": "Conflicts with",
+    "vi": "Conflicts with"
+  },
+  {
+    "key": "character_min_skill",
+    "type": 0,
+    "en": "Minimum skill level",
+    "vi": "Minimum skill level"
+  },
+  {
+    "key": "general_perk_gained",
+    "type": 0,
+    "en": "<name> has gained perk",
+    "vi": "<name> has gained perk"
+  },
+  {
+    "key": "action_trainAnimal",
+    "type": 0,
+    "en": "Train",
+    "vi": "Train"
+  },
+  {
+    "key": "action_slaughterAnimal",
+    "type": 0,
+    "en": "Slaughter",
+    "vi": "Slaughter"
+  },
+  {
+    "key": "action_releaseAnimal",
+    "type": 0,
+    "en": "Release",
+    "vi": "Release"
+  },
+  {
+    "key": "action_tameAnimal",
+    "type": 0,
+    "en": "Tame",
+    "vi": "Tame"
+  },
+  {
+    "key": "error_no_skilled_animal_worker",
+    "type": 0,
+    "en": "No settler with the necessary animal handling skills is available",
+    "vi": "No settler with the necessary animal handling skills is available"
+  },
+  {
+    "key": "effect_reason_attribute_agingspeed",
+    "type": 0,
+    "en": "Aging because of",
+    "vi": "Aging because of"
+  },
+  {
+    "key": "effect_reason_time_agingspeed",
+    "type": 0,
+    "en": "Pile will become <LinkAlmanac=\"Systemdecomposition\">aged</link> in",
+    "vi": "Pile will become <LinkAlmanac=\"Systemdecomposition\">aged</link> in"
+  },
+  {
+    "key": "effect_reason_attribute_fermentingspeed",
+    "type": 0,
+    "en": "Fermenting because of",
+    "vi": "Fermenting because of"
+  },
+  {
+    "key": "effect_reason_time_fermentingspeed",
+    "type": 0,
+    "en": "Pile will <LinkAlmanac=\"Systemfermentation\">ferment</link> in",
+    "vi": "Pile will <LinkAlmanac=\"Systemfermentation\">ferment</link> in"
+  },
+  {
+    "key": "action_banish_failed_no_path",
+    "type": 0,
+    "en": "Banishment cancelled. This settler is not able to reach the edge in order to leave.",
+    "vi": "Banishment cancelled. This settler is not able to reach the edge in order to leave."
+  },
+  {
+    "key": "stat_disabled",
+    "type": 0,
+    "en": "This stat is disabled. It's value won't change, nor will it give the settler any associated buffs or debuffs",
+    "vi": "This stat is disabled. It's value won't change, nor will it give the settler any associated buffs or debuffs"
+  },
+  {
+    "key": "stat_locked",
+    "type": 0,
+    "en": "This stat is locked. Its value won't change. But the associated buffs will be present.",
+    "vi": "This stat is locked. Its value won't change. But the associated buffs will be present."
+  },
+  {
+    "key": "action_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Fish"
+  },
+  {
+    "key": "worker_action_escroting",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "action_RecruitPrisoner",
+    "type": 0,
+    "en": "Recruit",
+    "vi": "Recruit"
+  },
+  {
+    "key": "action_RecruitPrisoner_info",
+    "type": 0,
+    "en": "A settler with the Prison Warden role will speak to the prisoner each day to try to convince them to join your settlement.",
+    "vi": "A settler with the Prison Warden role will speak to the prisoner each day to try to convince them to join your settlement."
+  },
+  {
+    "key": "action_releasePrisoner",
+    "type": 0,
+    "en": "Release",
+    "vi": "Release"
+  },
+  {
+    "key": "action_releasePrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be released. A settler with the Gaoler job will take the captive to the edge of the map and free them. This may increase friendliness with the prisoner's faction.",
+    "vi": "Mark a prisoner to be released. A settler with the Gaoler job will take the captive to the edge of the map and free them. This may increase friendliness with the prisoner's faction."
+  },
+  {
+    "key": "worker_action_RecruitPrisonerGoal",
+    "type": 0,
+    "en": "Recruiting",
+    "vi": "Recruiting"
+  },
+  {
+    "key": "worker_action_PrisonerSurrenderGoal",
+    "type": 0,
+    "en": "Surrendered ",
+    "vi": "Surrendered "
+  },
+  {
+    "key": "action_stripPrisoner",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Strip"
+  },
+  {
+    "key": "action_stripCarcass",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Strip"
+  },
+  {
+    "key": "action_stripPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be stripped of all their belongings",
+    "vi": "Mark a prisoner to be stripped of all their belongings"
+  },
+  {
+    "key": "worker_action_StripCaptiveGoal",
+    "type": 0,
+    "en": "Stripping prisoner's belongings",
+    "vi": "Stripping prisoner's belongings"
+  },
+  {
+    "key": "worker_action_PrisonStashHaulingGoal",
+    "type": 0,
+    "en": "Feeding prisoners",
+    "vi": "Feeding prisoners"
+  },
+  {
+    "key": "job_name_gaoler",
+    "type": 0,
+    "en": "Gaoler",
+    "vi": "Gaoler"
+  },
+  {
+    "key": "job_info_gaoler",
+    "type": 0,
+    "en": "Prisoner care and management is the Gaoler's assignment. Gaolers also strip new prisoners of belongings and manage their release.",
+    "vi": "Prisoner care and management is the Gaoler's assignment. Gaolers also strip new prisoners of belongings and manage their release."
+  },
+  {
+    "key": "action_shacklesOnPrisoner",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Place Shackles"
+  },
+  {
+    "key": "action_shacklesonprisonertoggled",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Place Shackles"
+  },
+  {
+    "key": "action_shacklesOnPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be shackled to use them as captive labourers or have them join a caravan ",
+    "vi": "Mark a prisoner to be shackled to use them as captive labourers or have them join a caravan "
+  },
+  {
+    "key": "worker_action_ShacklePrisonerGoal",
+    "type": 0,
+    "en": "Placing Shackles",
+    "vi": "Placing Shackles"
+  },
+  {
+    "key": "action_shacklesOffPrisoner",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Remove Shackles"
+  },
+  {
+    "key": "action_shacklesoffprisonertoggled",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Remove Shackles"
+  },
+  {
+    "key": "worker_action_off_shackling",
+    "type": 0,
+    "en": "Removing Shackles",
+    "vi": "Removing Shackles"
+  },
+  {
+    "key": "worker_action_prisoneridlegoal",
+    "type": 0,
+    "en": "Shirking duties",
+    "vi": "Shirking duties"
+  },
+  {
+    "key": "general_add_perk",
+    "type": 0,
+    "en": "Add",
+    "vi": "Add"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedHoldGround",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedDefault",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "worker_stance_DraftedDefault_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "worker_stance_DraftedHoldGround_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Aggressive",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Aggressive"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Flee",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Flee"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Neutral",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "action_exittrebuchet",
+    "type": 0,
+    "en": "Exit Siege Engine",
+    "vi": "Exit Siege Engine"
+  },
+  {
+    "key": "general_job",
+    "type": 0,
+    "en": "Job",
+    "vi": "Job"
+  },
+  {
+    "key": "leave_prompt_combat",
+    "type": 0,
+    "en": "Leaving mid-combat will result in you losing <resources_lost>",
+    "vi": "Leaving mid-combat will result in you losing <resources_lost>"
+  },
+  {
+    "key": "worker_taken_on_defeat",
+    "type": 0,
+    "en": "<name> was taken by <faction_name>",
+    "vi": "<name> was taken by <faction_name>"
+  },
+  {
+    "key": "role_bard_name",
+    "type": 0,
+    "en": "Bard",
+    "vi": "Bard"
+  },
+  {
+    "key": "role_job_preference_info",
+    "type": 0,
+    "en": "<role> job preferences will be modified: <role_jobs>",
+    "vi": "<role> job preferences will be modified: <role_jobs>"
+  },
+  {
+    "key": "role_bard_description",
+    "type": 0,
+    "en": "Storyteller, poet, and musician, the bard weaves tales of heroism, love, and adventure through their spellbinding performances. They provide entertainment in the great hall during scheduled community role hours, and at feasting events.",
+    "vi": "Storyteller, poet, and musician, the bard weaves tales of heroism, love, and adventure through their spellbinding performances. They provide entertainment in the great hall during scheduled community role hours, and at feasting events."
+  },
+  {
+    "key": "role_librarian_name",
+    "type": 0,
+    "en": "Librarian",
+    "vi": "Librarian"
+  },
+  {
+    "key": "role_librarian_description",
+    "type": 0,
+    "en": "Meticulous and knowledgeable, the librarian is usually found perusing manuscripts. This settler’s presence in the library enhances the speed of all researchers studying there.",
+    "vi": "Meticulous and knowledgeable, the librarian is usually found perusing manuscripts. This settler’s presence in the library enhances the speed of all researchers studying there."
+  },
+  {
+    "key": "role_sergeant_name",
+    "type": 0,
+    "en": "Sergeant-at-arms",
+    "vi": "Sergeant-at-arms"
+  },
+  {
+    "key": "role_sergeant_description",
+    "type": 0,
+    "en": "Upholding chivalry and meting out justice with an armoured fist, the sergeant-at-arms oversees all weaponry. When this settler reports to the training room, all settlers training there gain bonus XP. ",
+    "vi": "Upholding chivalry and meting out justice with an armoured fist, the sergeant-at-arms oversees all weaponry. When this settler reports to the training room, all settlers training there gain bonus XP. "
+  },
+  {
+    "key": "role_broker_name",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Broker"
+  },
+  {
+    "key": "role_broker_description",
+    "type": 0,
+    "en": "As well as matching buyers with sellers, the broker is a vital source of marketplace information. Settlers make better trades with merchants with a broker present, and they are essential to centres of trade.",
+    "vi": "As well as matching buyers with sellers, the broker is a vital source of marketplace information. Settlers make better trades with merchants with a broker present, and they are essential to centres of trade."
+  },
+  {
+    "key": "role_priest_name",
+    "type": 0,
+    "en": "Chaplain",
+    "vi": "Chaplain"
+  },
+  {
+    "key": "role_priest_description",
+    "type": 0,
+    "en": "The chaplain is a spiritual guide and moral authority, leading prayer at the Restitutionist shrine during scheduled community role hours. Tasked with the care of souls, they administer sacraments, and preach sermons at Holy Day events.",
+    "vi": "The chaplain is a spiritual guide and moral authority, leading prayer at the Restitutionist shrine during scheduled community role hours. Tasked with the care of souls, they administer sacraments, and preach sermons at Holy Day events."
+  },
+  {
+    "key": "role_shaman_name",
+    "type": 0,
+    "en": "Druid",
+    "vi": "Druid"
+  },
+  {
+    "key": "role_shaman_description",
+    "type": 0,
+    "en": "Experts in land-based philosophy and the Old Gods, druids spend their community role appointed hours meditating with any settlers who enter the Oak Brethren shrine. They also make sacrifices and lead Ritual events.",
+    "vi": "Experts in land-based philosophy and the Old Gods, druids spend their community role appointed hours meditating with any settlers who enter the Oak Brethren shrine. They also make sacrifices and lead Ritual events."
+  },
+  {
+    "key": "role_level_up_prompt_info",
+    "type": 0,
+    "en": "Do you want to assign <role> to <name>?\\nThe settler will gain the following job preferences:\\n<role_jobs>",
+    "vi": "Do you want to assign <role> to <name>?\\nThe settler will gain the following job preferences:\\n<role_jobs>"
+  },
+  {
+    "key": "role_retract_prompt_info",
+    "type": 0,
+    "en": "Stripping this role from the settler might make them unhappy",
+    "vi": "Stripping this role from the settler might make them unhappy"
+  },
+  {
+    "key": "role_cooldown",
+    "type": 0,
+    "en": "Cooldown",
+    "vi": "Cooldown"
+  },
+  {
+    "key": "role_assigned_to_info",
+    "type": 0,
+    "en": "This role is already assigned to",
+    "vi": "This role is already assigned to"
+  },
+  {
+    "key": "role_retract_first_info",
+    "type": 0,
+    "en": "Retract assigned role first before giving it to another settler",
+    "vi": "Retract assigned role first before giving it to another settler"
+  },
+  {
+    "key": "role_assign",
+    "type": 0,
+    "en": "Assign",
+    "vi": "Assign"
+  },
+  {
+    "key": "role_retract",
+    "type": 0,
+    "en": "Retract",
+    "vi": "Retract"
+  },
+  {
+    "key": "role_promote",
+    "type": 0,
+    "en": "Promote",
+    "vi": "Promote"
+  },
+  {
+    "key": "role_max",
+    "type": 0,
+    "en": "Max",
+    "vi": "Max"
+  },
+  {
+    "key": "role_requirements",
+    "type": 0,
+    "en": "Role Requirements",
+    "vi": "Role Requirements"
+  },
+  {
+    "key": "role_warden_name",
+    "type": 0,
+    "en": "Prison Warden",
+    "vi": "Prison Warden"
+  },
+  {
+    "key": "role_warden_description",
+    "type": 0,
+    "en": "The Warden oversees captive labourers and converses with prisoners to try and recruit them to your settlement .",
+    "vi": "The Warden oversees captive labourers and converses with prisoners to try and recruit them to your settlement ."
+  },
+  {
+    "key": "role_level_up_info",
+    "type": 0,
+    "en": "<name> is now <role>",
+    "vi": "<name> is now <role>"
+  },
+  {
+    "key": "role_retract_info",
+    "type": 0,
+    "en": "<name> is not <role> anymore",
+    "vi": "<name> is not <role> anymore"
+  },
+  {
+    "key": "jobs_tooltip",
+    "type": 0,
+    "en": "Jobs set to the same priority level will be prioritized left to right.",
+    "vi": "Jobs set to the same priority level will be prioritized left to right."
+  },
+  {
+    "key": "gameplay_tips_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "gameplay_tips_jobs_info",
+    "type": 0,
+    "en": "- Prioritize each settler's tasks in the Jobs panel .\\n- Use <sprite=\"ctrl_left_click\" index=t> to increase the priority of a job, and <sprite=\"ctrl_right_click\" index=t> to decrease it.\\n- Settlers will always do the job with the highest priority first.\\n- If the job box is empty, the settler will never do that job.\\n- If numbers are equal, settlers will prioritise jobs from left to right.\\n- Box frames indicate the settler's skill level. Stars show their likes and dislikes.\\n\\n<style=Desc>TIP: Settlers can fail jobs if their skill is low, so turning jobs off can be useful!</style>\\n",
+    "vi": "- Prioritize each settler's tasks in the Jobs panel .\\n- Use <sprite=\"ctrl_left_click\" index=t> to increase the priority of a job, and <sprite=\"ctrl_right_click\" index=t> to decrease it.\\n- Settlers will always do the job with the highest priority first.\\n- If the job box is empty, the settler will never do that job.\\n- If numbers are equal, settlers will prioritise jobs from left to right.\\n- Box frames indicate the settler's skill level. Stars show their likes and dislikes.\\n\\n<style=Desc>TIP: Settlers can fail jobs if their skill is low, so turning jobs off can be useful!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_mood_info",
+    "type": 0,
+    "en": "- Mood represents your settlers' happiness.\\n- Check on your settlers' mood often, by selecting them and then the Mood category.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and leisure time can help keep your settlers' spirits high.",
+    "vi": "- Mood represents your settlers' happiness.\\n- Check on your settlers' mood often, by selecting them and then the Mood category.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and leisure time can help keep your settlers' spirits high."
+  },
+  {
+    "key": "gameplay_tips_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "tut_jobs_name",
+    "type": 0,
+    "en": "Settler Job Priorities",
+    "vi": "Settler Job Priorities"
+  },
+  {
+    "key": "tut_jobs_info",
+    "type": 0,
+    "en": "Each Settler has their own Job Priority list. This affects the actions they'll take and the order they'll choose to undertake them. 5 is the lowest Priority, 1 is the highest.",
+    "vi": "Each Settler has their own Job Priority list. This affects the actions they'll take and the order they'll choose to undertake them. 5 is the lowest Priority, 1 is the highest."
+  },
+  {
+    "key": "tut_open_jobs",
+    "type": 0,
+    "en": "Click on the highlighted Jobs button",
+    "vi": "Click on the highlighted Jobs button"
+  },
+  {
+    "key": "tut_set_research_job_priority_1",
+    "type": 0,
+    "en": "Set the Research priority for {0} to 2 (high)",
+    "vi": "Set the Research priority for {0} to 2 (high)"
+  },
+  {
+    "key": "tut_set_research_job_priority_2",
+    "type": 0,
+    "en": "Set the Research priority for {0} to empty (Settlers won't perform this task)",
+    "vi": "Set the Research priority for {0} to empty (Settlers won't perform this task)"
+  },
+  {
+    "key": "life_event_type_Combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "combat_hit_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name><hit_description><with><weapon_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name><hit_description><with><weapon_name>"
+  },
+  {
+    "key": "combat_hit_unarmed_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_hit_beast_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_block_pattern",
+    "type": 0,
+    "en": "<defender_name>'s <armor_name> <block_description>",
+    "vi": "<defender_name>'s <armor_name> <block_description>"
+  },
+  {
+    "key": "action_verynegative_1",
+    "type": 0,
+    "en": "launched into a tirade about",
+    "vi": "launched into a tirade about"
+  },
+  {
+    "key": "action_verynegative_2",
+    "type": 0,
+    "en": "got into an altercation about",
+    "vi": "got into an altercation about"
+  },
+  {
+    "key": "action_verynegative_3",
+    "type": 0,
+    "en": "complained bitterly about",
+    "vi": "complained bitterly about"
+  },
+  {
+    "key": "action_negative_1",
+    "type": 0,
+    "en": "got pretty heated conversing about",
+    "vi": "got pretty heated conversing about"
+  },
+  {
+    "key": "action_negative_2",
+    "type": 0,
+    "en": "broached the topic of",
+    "vi": "broached the topic of"
+  },
+  {
+    "key": "action_negative_3",
+    "type": 0,
+    "en": "grumbled on about",
+    "vi": "grumbled on about"
+  },
+  {
+    "key": "action_negative_4",
+    "type": 0,
+    "en": "would have preferred to avoid discussing",
+    "vi": "would have preferred to avoid discussing"
+  },
+  {
+    "key": "action_neutral_1",
+    "type": 0,
+    "en": "started a discussion about",
+    "vi": "started a discussion about"
+  },
+  {
+    "key": "action_neutral_2",
+    "type": 0,
+    "en": "had ideas to share about",
+    "vi": "had ideas to share about"
+  },
+  {
+    "key": "action_neutral_3",
+    "type": 0,
+    "en": "wanted a debate about",
+    "vi": "wanted a debate about"
+  },
+  {
+    "key": "action_neutral_4",
+    "type": 0,
+    "en": "needed to talk about",
+    "vi": "needed to talk about"
+  },
+  {
+    "key": "action_neutral_5",
+    "type": 0,
+    "en": "chatted about",
+    "vi": "chatted about"
+  },
+  {
+    "key": "action_neutral_6",
+    "type": 0,
+    "en": "started a conversation about",
+    "vi": "started a conversation about"
+  },
+  {
+    "key": "action_neutral_7",
+    "type": 0,
+    "en": "had time for a chat about",
+    "vi": "had time for a chat about"
+  },
+  {
+    "key": "action_neutral_8",
+    "type": 0,
+    "en": "got around to the subject of ",
+    "vi": "got around to the subject of "
+  },
+  {
+    "key": "action_neutral_9",
+    "type": 0,
+    "en": "spoke about",
+    "vi": "spoke about"
+  },
+  {
+    "key": "action_neutral_10",
+    "type": 0,
+    "en": "had plenty to say about",
+    "vi": "had plenty to say about"
+  },
+  {
+    "key": "action_neutral_11",
+    "type": 0,
+    "en": "shared comments regarding",
+    "vi": "shared comments regarding"
+  },
+  {
+    "key": "action_positive_1",
+    "type": 0,
+    "en": "was keen to talk about",
+    "vi": "was keen to talk about"
+  },
+  {
+    "key": "action_positive_2",
+    "type": 0,
+    "en": "began a cordial discussion about",
+    "vi": "began a cordial discussion about"
+  },
+  {
+    "key": "action_positive_3",
+    "type": 0,
+    "en": "indulged in some light banter about",
+    "vi": "indulged in some light banter about"
+  },
+  {
+    "key": "action_verypositive_1",
+    "type": 0,
+    "en": "spoke warmly about",
+    "vi": "spoke warmly about"
+  },
+  {
+    "key": "action_verypositive_2",
+    "type": 0,
+    "en": "particularly appreciated chatting about",
+    "vi": "particularly appreciated chatting about"
+  },
+  {
+    "key": "action_verypositive_3",
+    "type": 0,
+    "en": "savoured little conversations about",
+    "vi": "savoured little conversations about"
+  },
+  {
+    "key": "action_verypositive_4",
+    "type": 0,
+    "en": "could while away hours discussing",
+    "vi": "could while away hours discussing"
+  },
+  {
+    "key": "force_perks_chance",
+    "type": 0,
+    "en": "Force Perks Chance",
+    "vi": "Force Perks Chance"
+  },
+  {
+    "key": "job_not_enabled",
+    "type": 0,
+    "en": "This settler has the job needed for this action turned off",
+    "vi": "This settler has the job needed for this action turned off"
+  },
+  {
+    "key": "missing_skill_required_for_production",
+    "type": 0,
+    "en": "Cannot start production, skill level not met",
+    "vi": "Cannot start production, skill level not met"
+  },
+  {
+    "key": "taming_skill_level_low",
+    "type": 0,
+    "en": "Cannot tame animal, skill level not met",
+    "vi": "Cannot tame animal, skill level not met"
+  },
+  {
+    "key": "training_skill_level_low",
+    "type": 0,
+    "en": "Cannot train animal, skill level not met",
+    "vi": "Cannot train animal, skill level not met"
+  },
+  {
+    "key": "not_enough_skill_level",
+    "type": 0,
+    "en": "Cannot equip, skill level not met",
+    "vi": "Cannot equip, skill level not met"
+  },
+  {
+    "key": "ctrl_Jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Jobs"
+  },
+  {
+    "key": "most_skilled",
+    "type": 0,
+    "en": "Most skilled in",
+    "vi": "Most skilled in"
+  },
+  {
+    "key": "no_skilled_worker",
+    "type": 0,
+    "en": "No settlers skilled in",
+    "vi": "No settlers skilled in"
+  },
+  {
+    "key": "group_skills",
+    "type": 0,
+    "en": "Group Skills",
+    "vi": "Group Skills"
+  },
+  {
+    "key": "difficulty_option_moodTarget_title",
+    "type": 0,
+    "en": "Settler Mood Value",
+    "vi": "Settler Mood Value"
+  },
+  {
+    "key": "difficulty_option_moodTarget_info",
+    "type": 0,
+    "en": "The base mood value of a settler. Smaller values will result in settlers rebelling more often. The default settler's mood is 50.",
+    "vi": "The base mood value of a settler. Smaller values will result in settlers rebelling more often. The default settler's mood is 50."
+  },
+  {
+    "key": "warning_message_info_MoodLow",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. "
+  },
+  {
+    "key": "warning_message_short_MoodLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are unhappy</style>",
+    "vi": "<style=DefaultRed>Settlers are unhappy</style>"
+  },
+  {
+    "key": "warning_message_short_MoodLowRevolt",
+    "type": 0,
+    "en": "<style=Rebellious>Rebellious</style>",
+    "vi": "<style=Rebellious>Rebellious</style>"
+  },
+  {
+    "key": "warning_message_info_MoodLowRevolt",
+    "type": 0,
+    "en": "Your settlers have had enough and for the next several hours will not follow your schedule or instructions.",
+    "vi": "Your settlers have had enough and for the next several hours will not follow your schedule or instructions."
+  },
+  {
+    "key": "worker_can_not_attack",
+    "type": 0,
+    "en": "Can't attack target",
+    "vi": "Can't attack target"
+  },
+  {
+    "key": "worker_can_not_find_path_to_target",
+    "type": 0,
+    "en": "Can't find a clear path to target",
+    "vi": "Can't find a clear path to target"
+  },
+  {
+    "key": "settler_is_unconscious",
+    "type": 0,
+    "en": "<name> is unconscious",
+    "vi": "<name> is unconscious"
+  },
+  {
+    "key": "worker_left_mood_message",
+    "type": 0,
+    "en": "<name> left your colony because they were unhappy!",
+    "vi": "<name> left your colony because they were unhappy!"
+  },
+  {
+    "key": "warning_message_short_MoodAnnoyed",
+    "type": 0,
+    "en": "Settlers are becoming annoyed",
+    "vi": "Settlers are becoming annoyed"
+  },
+  {
+    "key": "warning_message_info_MoodAnnoyed",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. "
+  },
+  {
+    "key": "worker_low_mood_message",
+    "type": 0,
+    "en": "<name> is rebellious now!",
+    "vi": "<name> is rebellious now!"
+  },
+  {
+    "key": "settler_is_rebellious",
+    "type": 0,
+    "en": "The selected settler has become rebellious and won't take orders",
+    "vi": "The selected settler has become rebellious and won't take orders"
+  },
+  {
+    "key": "worker_stats",
+    "type": 0,
+    "en": "Stats",
+    "vi": "Stats"
+  },
+  {
+    "key": "info_menu_mood",
+    "type": 0,
+    "en": "The settler's mood. If it reaches 0% the settler will leave.",
+    "vi": "The settler's mood. If it reaches 0% the settler will leave."
+  },
+  {
+    "key": "mood_treshold_00",
+    "type": 0,
+    "en": "Joyful",
+    "vi": "Joyful"
+  },
+  {
+    "key": "mood_treshold_01",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "mood_treshold_02",
+    "type": 0,
+    "en": "Annoyed",
+    "vi": "Annoyed"
+  },
+  {
+    "key": "mood_treshold_03",
+    "type": 0,
+    "en": "Disillusioned",
+    "vi": "Disillusioned"
+  },
+  {
+    "key": "mood_treshold_04",
+    "type": 0,
+    "en": "Rebellious",
+    "vi": "Rebellious"
+  },
+  {
+    "key": "mood_treshold_05",
+    "type": 0,
+    "en": "Broken",
+    "vi": "Broken"
+  },
+  {
+    "key": "menu_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "worker_attributes",
+    "type": 0,
+    "en": "Attributes",
+    "vi": "Attributes"
+  },
+  {
+    "key": "worker_biography",
+    "type": 0,
+    "en": "Biography",
+    "vi": "Biography"
+  },
+  {
+    "key": "worker_health",
+    "type": 0,
+    "en": "Health",
+    "vi": "Health"
+  },
+  {
+    "key": "worker_inventory",
+    "type": 0,
+    "en": "Inventory",
+    "vi": "Inventory"
+  },
+  {
+    "key": "worker_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Mood"
+  },
+  {
+    "key": "worker_skills",
+    "type": 0,
+    "en": "Skills",
+    "vi": "Skills"
+  },
+  {
+    "key": "worker_social",
+    "type": 0,
+    "en": "Social",
+    "vi": "Social"
+  },
+  {
+    "key": "worker_stance_aggressive_desc",
+    "type": 0,
+    "en": "Settlers in aggressive stance will engage in combat if an enemy is in the line of sight",
+    "vi": "Settlers in aggressive stance will engage in combat if an enemy is in the line of sight"
+  },
+  {
+    "key": "worker_stance_aggressive_title",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Aggressive"
+  },
+  {
+    "key": "worker_stance_flee_desc",
+    "type": 0,
+    "en": "Settler in flee stance will run away from any enemy in the line of sight",
+    "vi": "Settler in flee stance will run away from any enemy in the line of sight"
+  },
+  {
+    "key": "worker_stance_flee_title",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Flee"
+  },
+  {
+    "key": "worker_stance_neutral_desc",
+    "type": 0,
+    "en": "Settler in neutral stance will not react to nearby enemies, but will fight back if attacked.",
+    "vi": "Settler in neutral stance will not react to nearby enemies, but will fight back if attacked."
+  },
+  {
+    "key": "worker_stance_neutral_title",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Neutral"
+  },
+  {
+    "key": "worker_drafted_stance_hold_ground_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Hold Ground"
+  },
+  {
+    "key": "worker_drafted_stance_default_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Default"
+  },
+  {
+    "key": "stat_target",
+    "type": 0,
+    "en": "Target",
+    "vi": "Target"
+  },
+  {
+    "key": "worker_overweight_slowdown",
+    "type": 0,
+    "en": "This settler is over-burdened and so will move more slowly.",
+    "vi": "This settler is over-burdened and so will move more slowly."
+  },
+  {
+    "key": "worker_action_BanishGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_attackgoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "worker_action_enemyselfdefensegoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Attacking"
+  },
+  {
+    "key": "worker_action_carrytobedgoal",
+    "type": 0,
+    "en": "Carrying wounded to a bed",
+    "vi": "Carrying wounded to a bed"
+  },
+  {
+    "key": "worker_action_choptreegoal",
+    "type": 0,
+    "en": "Cutting",
+    "vi": "Cutting"
+  },
+  {
+    "key": "worker_action_diggoal",
+    "type": 0,
+    "en": "Mining/Digging",
+    "vi": "Mining/Digging"
+  },
+  {
+    "key": "worker_action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Drafted"
+  },
+  {
+    "key": "worker_action_equipgoal",
+    "type": 0,
+    "en": "Equipping item",
+    "vi": "Equipping item"
+  },
+  {
+    "key": "worker_action_faintgoal",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Unconscious"
+  },
+  {
+    "key": "worker_action_fleegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_harvestgoal",
+    "type": 0,
+    "en": "Harvesting resources",
+    "vi": "Harvesting resources"
+  },
+  {
+    "key": "worker_action_hungergoal",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "worker_action_huntinggoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_idlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_leavemapgoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_plantcropsgoal",
+    "type": 0,
+    "en": "Gardening",
+    "vi": "Gardening"
+  },
+  {
+    "key": "worker_action_productioncarpentrygoal",
+    "type": 0,
+    "en": "Crafting wooden item",
+    "vi": "Crafting wooden item"
+  },
+  {
+    "key": "worker_action_productioncookinggoal",
+    "type": 0,
+    "en": "Preparing food",
+    "vi": "Preparing food"
+  },
+  {
+    "key": "worker_action_productioncarcassdisposalgoal",
+    "type": 0,
+    "en": "Preparing Body",
+    "vi": "Preparing Body"
+  },
+  {
+    "key": "worker_action_productionchemistrygoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_productioncraftinggoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_productionresearchgoal",
+    "type": 0,
+    "en": "Writing",
+    "vi": "Writing"
+  },
+  {
+    "key": "worker_action_productionsmithinggoal",
+    "type": 0,
+    "en": "Crafting metal item",
+    "vi": "Crafting metal item"
+  },
+  {
+    "key": "worker_action_productiontailoringgoal",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "worker_action_productionworkergoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_restgoal",
+    "type": 0,
+    "en": "Convalescing",
+    "vi": "Convalescing"
+  },
+  {
+    "key": "worker_action_sleepgoal",
+    "type": 0,
+    "en": "Sleeping",
+    "vi": "Sleeping"
+  },
+  {
+    "key": "worker_action_stockpilehaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_shelfhaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_tendwoundsgoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Tending wounds"
+  },
+  {
+    "key": "worker_action_SelfTendWoundsGoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Tending wounds"
+  },
+  {
+    "key": "worker_action_walktopositiondraftgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_walktopositiongoal",
+    "type": 0,
+    "en": "En route",
+    "vi": "En route"
+  },
+  {
+    "key": "worker_action_autoequipgoal",
+    "type": 0,
+    "en": "Auto equipping",
+    "vi": "Auto equipping"
+  },
+  {
+    "key": "worker_action_faithgoal",
+    "type": 0,
+    "en": "Praying",
+    "vi": "Praying"
+  },
+  {
+    "key": "worker_action_changedoorlockdtategoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Door"
+  },
+  {
+    "key": "worker_action_setuptrapgoal",
+    "type": 0,
+    "en": "Resetting trap",
+    "vi": "Resetting trap"
+  },
+  {
+    "key": "worker_action_drinkgoal",
+    "type": 0,
+    "en": "Drinking",
+    "vi": "Drinking"
+  },
+  {
+    "key": "worker_action_vomitgoal",
+    "type": 0,
+    "en": "Vomiting",
+    "vi": "Vomiting"
+  },
+  {
+    "key": "worker_action_entertainmentgoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_ChangeDoorLockStateGoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Door"
+  },
+  {
+    "key": "worker_action_changelockstategoal",
+    "type": 0,
+    "en": "Stewarding",
+    "vi": "Stewarding"
+  },
+  {
+    "key": "worker_action_burybodygoal",
+    "type": 0,
+    "en": "Burying remains",
+    "vi": "Burying remains"
+  },
+  {
+    "key": "worker_action_OperateTrebuchetGoal",
+    "type": 0,
+    "en": "Operating Siege Weapon",
+    "vi": "Operating Siege Weapon"
+  },
+  {
+    "key": "worker_action_TradeGoal",
+    "type": 0,
+    "en": "Bartering",
+    "vi": "Bartering"
+  },
+  {
+    "key": "worker_action_formcaravangoal",
+    "type": 0,
+    "en": "Forming Caravan",
+    "vi": "Forming Caravan"
+  },
+  {
+    "key": "worker_action_incaravan",
+    "type": 0,
+    "en": "Travelling",
+    "vi": "Travelling"
+  },
+  {
+    "key": "worker_action_productionanimalgoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Producing"
+  },
+  {
+    "key": "worker_action_deliverfuelgoal",
+    "type": 0,
+    "en": "Refueling",
+    "vi": "Refueling"
+  },
+  {
+    "key": "worker_action_slaughterAnimalGoal",
+    "type": 0,
+    "en": "Slaughtering Animal",
+    "vi": "Slaughtering Animal"
+  },
+  {
+    "key": "worker_action_tameAnimalGoal",
+    "type": 0,
+    "en": "Taming Animal",
+    "vi": "Taming Animal"
+  },
+  {
+    "key": "worker_action_trainAnimalGoal",
+    "type": 0,
+    "en": "Training Animal",
+    "vi": "Training Animal"
+  },
+  {
+    "key": "worker_action_ropeAnimalGoal",
+    "type": 0,
+    "en": "Roping Animal",
+    "vi": "Roping Animal"
+  },
+  {
+    "key": "worker_action_releaseAnimalGoal",
+    "type": 0,
+    "en": "Releasing Animal",
+    "vi": "Releasing Animal"
+  },
+  {
+    "key": "worker_action_releasePrisonerGoal",
+    "type": 0,
+    "en": "Releasing Prisoner",
+    "vi": "Releasing Prisoner"
+  },
+  {
+    "key": "worker_action_harvestAnimalGoal",
+    "type": 0,
+    "en": "Harvesting Animal",
+    "vi": "Harvesting Animal"
+  },
+  {
+    "key": "worker_action_FollowGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_FollowMoveOrderGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_npcidlewalkgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Moving to location"
+  },
+  {
+    "key": "worker_action_TraderIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_EnemyIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_EnemyCombatIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_EnemyWithdrawalGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Leaving"
+  },
+  {
+    "key": "worker_action_fillfoodstoragegoal",
+    "type": 0,
+    "en": "Filling Food Pouch",
+    "vi": "Filling Food Pouch"
+  },
+  {
+    "key": "worker_action_AnimalFleeingIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_AnimalHungerGoal",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Hungry"
+  },
+  {
+    "key": "worker_action_AnimalRaidIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_RopedFollowGoal",
+    "type": 0,
+    "en": "Roped",
+    "vi": "Roped"
+  },
+  {
+    "key": "worker_action_SetAnimalTargetGoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_PestControlGoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Hunting"
+  },
+  {
+    "key": "worker_action_productionartgoal",
+    "type": 0,
+    "en": "Creating Art",
+    "vi": "Creating Art"
+  },
+  {
+    "key": "worker_action_AnimalFeederHaulingGoal",
+    "type": 0,
+    "en": "Filling trough",
+    "vi": "Filling trough"
+  },
+  {
+    "key": "worker_action_FillMedicineStorageGoal",
+    "type": 0,
+    "en": "Filling Medicine Pouch",
+    "vi": "Filling Medicine Pouch"
+  },
+  {
+    "key": "worker_action_PatientGoal",
+    "type": 0,
+    "en": "Waiting for medical treatment",
+    "vi": "Waiting for medical treatment"
+  },
+  {
+    "key": "worker_action_FishingGoal",
+    "type": 0,
+    "en": "Fishing",
+    "vi": "Fishing"
+  },
+  {
+    "key": "worker_action_StockpileUrgentHaulingGoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Hauling to stockpile"
+  },
+  {
+    "key": "worker_action_BardRoleGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_FeastEventGoalBard",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_BardVisitorGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Performing "
+  },
+  {
+    "key": "worker_action_PriestRoleGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_SermonEventGoalPriest",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_PriestVisitorGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Leading a Restitutionist ceremony"
+  },
+  {
+    "key": "worker_action_ShamanRoleGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_RitualEventGoalShaman",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_ShamanVisitorGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Oak Brethren ceremony"
+  },
+  {
+    "key": "worker_action_NegotiateGoal",
+    "type": 0,
+    "en": "Negotiating",
+    "vi": "Negotiating"
+  },
+  {
+    "key": "worker_action_FeastEventGoal",
+    "type": 0,
+    "en": "Feasting",
+    "vi": "Feasting"
+  },
+  {
+    "key": "worker_action_SermonEventGoal",
+    "type": 0,
+    "en": "Attending Restitutionist Service",
+    "vi": "Attending Restitutionist Service"
+  },
+  {
+    "key": "worker_action_RitualEventGoal",
+    "type": 0,
+    "en": "Attending Oak Brethren Ritual",
+    "vi": "Attending Oak Brethren Ritual"
+  },
+  {
+    "key": "action_AbortEventParticipation",
+    "type": 0,
+    "en": "Leave Event",
+    "vi": "Leave Event"
+  },
+  {
+    "key": "worker_action_RitualAnimalEventGoal",
+    "type": 0,
+    "en": "Attending Oak Brethren Ritual",
+    "vi": "Attending Oak Brethren Ritual"
+  },
+  {
+    "key": "worker_action_HangingEventGoal",
+    "type": 0,
+    "en": "Attending Hanging Event",
+    "vi": "Attending Hanging Event"
+  },
+  {
+    "key": "worker_action_RopePrisonerToHangingEventGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "worker_action_GallowsExecutionGoal",
+    "type": 0,
+    "en": "Going to Gallows",
+    "vi": "Going to Gallows"
+  },
+  {
+    "key": "worker_action_RopeEnemyGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Escorting"
+  },
+  {
+    "key": "worker_action_WardenRoleGoal",
+    "type": 0,
+    "en": "Supervising Labourers",
+    "vi": "Supervising Labourers"
+  },
+  {
+    "key": "worker_action_ProductionTrainGoal",
+    "type": 0,
+    "en": "Training Skill",
+    "vi": "Training Skill"
+  },
+  {
+    "key": "worker_action_TakeOutFireGoal",
+    "type": 0,
+    "en": "Quenching Fires",
+    "vi": "Quenching Fires"
+  },
+  {
+    "key": "action_AllowFlammableProjectile",
+    "type": 0,
+    "en": "Use Fire Arrows",
+    "vi": "Use Fire Arrows"
+  },
+  {
+    "key": "action_FlammableProjectileAllowed",
+    "type": 0,
+    "en": "Stop Using Fire Arrows ",
+    "vi": "Stop Using Fire Arrows "
+  },
+  {
+    "key": "worker_action_IdleOnFireGoal",
+    "type": 0,
+    "en": "On Fire",
+    "vi": "On Fire"
+  },
+  {
+    "key": "worker_action_BarrelFillGoal",
+    "type": 0,
+    "en": "Filling Barrel",
+    "vi": "Filling Barrel"
+  },
+  {
+    "key": "worker_action_OpenShelfGoal",
+    "type": 0,
+    "en": "Emptying Container",
+    "vi": "Emptying Container"
+  },
+  {
+    "key": "worker_action_deliverammunitiontotrebuchetgoal",
+    "type": 0,
+    "en": "Loading War Machine",
+    "vi": "Loading War Machine"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoalLibrarian",
+    "type": 0,
+    "en": "Holding a Study Group",
+    "vi": "Holding a Study Group"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoal",
+    "type": 0,
+    "en": "Attending a Study Group event",
+    "vi": "Attending a Study Group event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalRanged",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Training event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalMelee",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Training event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalSergeant",
+    "type": 0,
+    "en": "Holding a Training event",
+    "vi": "Holding a Training event"
+  },
+  {
+    "key": "worker_action_LibrarianRoleGoal",
+    "type": 0,
+    "en": "Cataloguing manuscripts",
+    "vi": "Cataloguing manuscripts"
+  },
+  {
+    "key": "worker_action_SergeantRoleGoal",
+    "type": 0,
+    "en": "Sharpening weapons",
+    "vi": "Sharpening weapons"
+  },
+  {
+    "key": "worker_action_BrokerRoleGoal",
+    "type": 0,
+    "en": "Counting money",
+    "vi": "Counting money"
+  },
+  {
+    "key": "worker_action_ForcedFleeGoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_BackgammonEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_ShovelboardEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_SkittlesEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_QuoitsEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Enjoying entertainment"
+  },
+  {
+    "key": "worker_action_visitorpilgrimidlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_StripCarcassGoal",
+    "type": 0,
+    "en": "Stripping belongings",
+    "vi": "Stripping belongings"
+  },
+  {
+    "key": "worker_action_EnemyIdlePatrolGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Idle"
+  },
+  {
+    "key": "worker_action_prisonerescapegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Fleeing"
+  },
+  {
+    "key": "worker_action_petAnimalGoal",
+    "type": 0,
+    "en": "Interacting with pet",
+    "vi": "Interacting with pet"
+  },
+  {
+    "key": "worker_action_FollowInsultGoal",
+    "type": 0,
+    "en": "Heckling",
+    "vi": "Heckling"
+  },
+  {
+    "key": "worker_action_InitiateSocialFightGoal",
+    "type": 0,
+    "en": "Quarrelsome",
+    "vi": "Quarrelsome"
+  },
+  {
+    "key": "worker_action_SocialFightGoal",
+    "type": 0,
+    "en": "Brawl",
+    "vi": "Brawl"
+  },
+  {
+    "key": "worker_action_SolitaryIdleGoal",
+    "type": 0,
+    "en": "Isolating",
+    "vi": "Isolating"
+  },
+  {
+    "key": "name_prod_worker_skill_request",
+    "type": 0,
+    "en": "No worker with",
+    "vi": "No worker with"
+  },
+  {
+    "key": "production_settlers_allow_skill",
+    "type": 0,
+    "en": "Allow settlers with Skill level",
+    "vi": "Allow settlers with Skill level"
+  },
+  {
+    "key": "menu_production_settings_skill_range",
+    "type": 0,
+    "en": "Skill Range",
+    "vi": "Skill Range"
+  },
+  {
+    "key": "skill_level_doesnt_satisfy_filter",
+    "type": 0,
+    "en": "Skill Level does not satisfy the range set ",
+    "vi": "Skill Level does not satisfy the range set "
+  },
+  {
+    "key": "wound_blood_loss_rate",
+    "type": 0,
+    "en": "Blood loss rate",
+    "vi": "Blood loss rate"
+  },
+  {
+    "key": "wound_severity",
+    "type": 0,
+    "en": "Severity",
+    "vi": "Severity"
+  },
+  {
+    "key": "wound_severity_Critical",
+    "type": 0,
+    "en": "Critical",
+    "vi": "Critical"
+  },
+  {
+    "key": "wound_severity_Maximum",
+    "type": 0,
+    "en": "Maximum",
+    "vi": "Maximum"
+  },
+  {
+    "key": "wound_severity_Minor",
+    "type": 0,
+    "en": "Minor",
+    "vi": "Minor"
+  },
+  {
+    "key": "wound_severity_Moderate",
+    "type": 0,
+    "en": "Moderate",
+    "vi": "Moderate"
+  },
+  {
+    "key": "wound_severity_Serious",
+    "type": 0,
+    "en": "Serious",
+    "vi": "Serious"
+  },
+  {
+    "key": "wound_severity_Severe",
+    "type": 0,
+    "en": "Severe",
+    "vi": "Severe"
+  },
+  {
+    "key": "wound_tending_completed",
+    "type": 0,
+    "en": "Wounds tended",
+    "vi": "Wounds tended"
+  },
+  {
+    "key": "wound_tending_fail",
+    "type": 0,
+    "en": "Tending to wound failed",
+    "vi": "Tending to wound failed"
+  },
+  {
+    "key": "skill_info_AnimalHandling",
+    "type": 0,
+    "en": "Taming, feeding, training and hunting animals, and fishing.",
+    "vi": "Taming, feeding, training and hunting animals, and fishing."
+  },
+  {
+    "key": "skill_info_Botanical",
+    "type": 0,
+    "en": "Used for sowing, growing, harvesting, and gathering plants, herbs and fruits.",
+    "vi": "Used for sowing, growing, harvesting, and gathering plants, herbs and fruits."
+  },
+  {
+    "key": "skill_info_Carpentry",
+    "type": 0,
+    "en": "Better at crafting wooden items such as bows.",
+    "vi": "Better at crafting wooden items such as bows."
+  },
+  {
+    "key": "skill_info_Culinary",
+    "type": 0,
+    "en": "Used for cooking, butchering.",
+    "vi": "Used for cooking, butchering."
+  },
+  {
+    "key": "skill_info_Intelectual",
+    "type": 0,
+    "en": "Used for research, faster research.",
+    "vi": "Used for research, faster research."
+  },
+  {
+    "key": "skill_info_Marksman",
+    "type": 0,
+    "en": "Better with ranged weapons (bows, crossbows).",
+    "vi": "Better with ranged weapons (bows, crossbows)."
+  },
+  {
+    "key": "skill_info_Medicine",
+    "type": 0,
+    "en": "Used for healing other workers, self healing and brewing spirits and medicinal drugs.",
+    "vi": "Used for healing other workers, self healing and brewing spirits and medicinal drugs."
+  },
+  {
+    "key": "skill_info_Melee",
+    "type": 0,
+    "en": "Deals more damage with weapons overall. Higher levels can use advanced weapons.",
+    "vi": "Deals more damage with weapons overall. Higher levels can use advanced weapons."
+  },
+  {
+    "key": "skill_info_Mining",
+    "type": 0,
+    "en": "Skill used for mining and digging.",
+    "vi": "Skill used for mining and digging."
+  },
+  {
+    "key": "skill_info_None",
+    "type": 0,
+    "en": "No skills needed for this type of job.",
+    "vi": "No skills needed for this type of job."
+  },
+  {
+    "key": "skill_info_Smithing",
+    "type": 0,
+    "en": "Creates better weapons and armour out of metal. Creates ingots faster. ",
+    "vi": "Creates better weapons and armour out of metal. Creates ingots faster. "
+  },
+  {
+    "key": "skill_info_Speechcraft",
+    "type": 0,
+    "en": "Good at bargaining, helping and cheering other workers. Conversational skill helps turn enemies into allies.",
+    "vi": "Good at bargaining, helping and cheering other workers. Conversational skill helps turn enemies into allies."
+  },
+  {
+    "key": "skill_info_Tailoring",
+    "type": 0,
+    "en": "Better at working with cloth and leather, creating clothing and leather armour.",
+    "vi": "Better at working with cloth and leather, creating clothing and leather armour."
+  },
+  {
+    "key": "skill_level",
+    "type": 0,
+    "en": "Skill level",
+    "vi": "Skill level"
+  },
+  {
+    "key": "skill_name_AnimalHandling",
+    "type": 0,
+    "en": "Animal Handling",
+    "vi": "Animal Handling"
+  },
+  {
+    "key": "skill_name_Botanical",
+    "type": 0,
+    "en": "Botany",
+    "vi": "Botany"
+  },
+  {
+    "key": "skill_name_Carpentry",
+    "type": 0,
+    "en": "Carpentry",
+    "vi": "Carpentry"
+  },
+  {
+    "key": "skill_name_Culinary",
+    "type": 0,
+    "en": "Culinary",
+    "vi": "Culinary"
+  },
+  {
+    "key": "skill_name_Intelectual",
+    "type": 0,
+    "en": "Intellectual",
+    "vi": "Intellectual"
+  },
+  {
+    "key": "skill_name_Marksman",
+    "type": 0,
+    "en": "Marksman",
+    "vi": "Marksman"
+  },
+  {
+    "key": "skill_name_Medicine",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Medicine"
+  },
+  {
+    "key": "skill_name_Melee",
+    "type": 0,
+    "en": "Melee",
+    "vi": "Melee"
+  },
+  {
+    "key": "skill_name_Mining",
+    "type": 0,
+    "en": "Mining",
+    "vi": "Mining"
+  },
+  {
+    "key": "skill_name_None",
+    "type": 0,
+    "en": "Basic Skill",
+    "vi": "Basic Skill"
+  },
+  {
+    "key": "skill_name_Smithing",
+    "type": 0,
+    "en": "Smithing",
+    "vi": "Smithing"
+  },
+  {
+    "key": "skill_name_Speechcraft",
+    "type": 0,
+    "en": "Speechcraft",
+    "vi": "Speechcraft"
+  },
+  {
+    "key": "skill_name_Tailoring",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "skill_name_Art",
+    "type": 0,
+    "en": "Art",
+    "vi": "Art"
+  },
+  {
+    "key": "skill_info_Art",
+    "type": 0,
+    "en": "Creating works of art like paintings",
+    "vi": "Creating works of art like paintings"
+  },
+  {
+    "key": "job_info_carpentry",
+    "type": 0,
+    "en": "Making items and weapons out of wood. Produces items at:",
+    "vi": "Making items and weapons out of wood. Produces items at:"
+  },
+  {
+    "key": "job_info_cooking",
+    "type": 0,
+    "en": "Producing meals and beverages. Preserving food. Produces items at:",
+    "vi": "Producing meals and beverages. Preserving food. Produces items at:"
+  },
+  {
+    "key": "job_info_crafting",
+    "type": 0,
+    "en": "Non-skilled work crafting basic items, like bricks. Produces items at:",
+    "vi": "Non-skilled work crafting basic items, like bricks. Produces items at:"
+  },
+  {
+    "key": "job_info_harvesting",
+    "type": 0,
+    "en": "Harvesting crops from crop fields and the wilderness.",
+    "vi": "Harvesting crops from crop fields and the wilderness."
+  },
+  {
+    "key": "job_info_hauling",
+    "type": 0,
+    "en": "Non-skilled labour. Moving resources and items around.",
+    "vi": "Non-skilled labour. Moving resources and items around."
+  },
+  {
+    "key": "job_info_hunting",
+    "type": 0,
+    "en": "Hunting marked animals.",
+    "vi": "Hunting marked animals."
+  },
+  {
+    "key": "job_info_mining",
+    "type": 0,
+    "en": "Digging and mining marked areas on the map.",
+    "vi": "Digging and mining marked areas on the map."
+  },
+  {
+    "key": "job_info_plantcropfields",
+    "type": 0,
+    "en": "Growing plants in crop fields.",
+    "vi": "Growing plants in crop fields."
+  },
+  {
+    "key": "job_info_plantcutting",
+    "type": 0,
+    "en": "Cutting plants and chopping trees.",
+    "vi": "Cutting plants and chopping trees."
+  },
+  {
+    "key": "job_info_research",
+    "type": 0,
+    "en": "Contemplating and writing everything down so it can be used to advance the settlement. Produces items at:",
+    "vi": "Contemplating and writing everything down so it can be used to advance the settlement. Produces items at:"
+  },
+  {
+    "key": "job_name_patient",
+    "type": 0,
+    "en": "Patient",
+    "vi": "Patient"
+  },
+  {
+    "key": "job_info_patient",
+    "type": 0,
+    "en": "Awaiting wound treatment.",
+    "vi": "Awaiting wound treatment."
+  },
+  {
+    "key": "job_info_rest",
+    "type": 0,
+    "en": "Convalesce while wounds heal.",
+    "vi": "Convalesce while wounds heal."
+  },
+  {
+    "key": "job_info_smithing",
+    "type": 0,
+    "en": "Making items out of metal Produces items at:",
+    "vi": "Making items out of metal Produces items at:"
+  },
+  {
+    "key": "job_info_tailoring",
+    "type": 0,
+    "en": "Creating clothing and hats with cloth and leather. Produces items at:",
+    "vi": "Creating clothing and hats with cloth and leather. Produces items at:"
+  },
+  {
+    "key": "job_info_tendwounds",
+    "type": 0,
+    "en": "Tend to the wounds of others. Carry unconscious settlers to beds.",
+    "vi": "Tend to the wounds of others. Carry unconscious settlers to beds."
+  },
+  {
+    "key": "job_name_carpentry",
+    "type": 0,
+    "en": "Carpentry",
+    "vi": "Carpentry"
+  },
+  {
+    "key": "job_name_cooking",
+    "type": 0,
+    "en": "Cooking",
+    "vi": "Cooking"
+  },
+  {
+    "key": "job_name_crafting",
+    "type": 0,
+    "en": "Craft",
+    "vi": "Craft"
+  },
+  {
+    "key": "job_name_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Harvest"
+  },
+  {
+    "key": "job_name_hauling",
+    "type": 0,
+    "en": "Haul",
+    "vi": "Haul"
+  },
+  {
+    "key": "job_name_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Hunt"
+  },
+  {
+    "key": "job_name_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Mine"
+  },
+  {
+    "key": "job_name_plantcropfields",
+    "type": 0,
+    "en": "Grow",
+    "vi": "Grow"
+  },
+  {
+    "key": "job_name_plantcutting",
+    "type": 0,
+    "en": "Cut plants",
+    "vi": "Cut plants"
+  },
+  {
+    "key": "job_name_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Research"
+  },
+  {
+    "key": "job_name_rest",
+    "type": 0,
+    "en": "Convalesce",
+    "vi": "Convalesce"
+  },
+  {
+    "key": "job_name_smithing",
+    "type": 0,
+    "en": "Smithing",
+    "vi": "Smithing"
+  },
+  {
+    "key": "job_name_tailoring",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "Tailoring"
+  },
+  {
+    "key": "job_name_tendwounds",
+    "type": 0,
+    "en": "Tend",
+    "vi": "Tend"
+  },
+  {
+    "key": "job_name_basic",
+    "type": 0,
+    "en": "Steward",
+    "vi": "Steward"
+  },
+  {
+    "key": "job_info_basic",
+    "type": 0,
+    "en": "Taking care of basic tasks like locking doors, closing windows, extinguishing torches, etc.",
+    "vi": "Taking care of basic tasks like locking doors, closing windows, extinguishing torches, etc."
+  },
+  {
+    "key": "job_name_animal",
+    "type": 0,
+    "en": "Animal Husbandry",
+    "vi": "Animal Husbandry"
+  },
+  {
+    "key": "job_info_animal",
+    "type": 0,
+    "en": "Taming, training, slaughtering, roping, releasing and harvesting resources from animals. Produces items at:",
+    "vi": "Taming, training, slaughtering, roping, releasing and harvesting resources from animals. Produces items at:"
+  },
+  {
+    "key": "job_priority_High",
+    "type": 0,
+    "en": "Priority: High",
+    "vi": "Priority: High"
+  },
+  {
+    "key": "job_priority_Highest",
+    "type": 0,
+    "en": "Priority: Highest",
+    "vi": "Priority: Highest"
+  },
+  {
+    "key": "job_priority_Low",
+    "type": 0,
+    "en": "Priority: Low",
+    "vi": "Priority: Low"
+  },
+  {
+    "key": "job_priority_Lowest",
+    "type": 0,
+    "en": "Priority: Lowest",
+    "vi": "Priority: Lowest"
+  },
+  {
+    "key": "job_priority_None",
+    "type": 0,
+    "en": "Priority: None",
+    "vi": "Priority: None"
+  },
+  {
+    "key": "job_priority_Normal",
+    "type": 0,
+    "en": "Priority: Normal",
+    "vi": "Priority: Normal"
+  },
+  {
+    "key": "job_title_priorities_column",
+    "type": 0,
+    "en": "<sprite=\"ctrl_left_click\" index=t> increase for everyone \\n<sprite=\"ctrl_right_click\" index=t> decrease for everyone",
+    "vi": "<sprite=\"ctrl_left_click\" index=t> increase for everyone \\n<sprite=\"ctrl_right_click\" index=t> decrease for everyone"
+  },
+  {
+    "key": "job_name_train",
+    "type": 0,
+    "en": "Train",
+    "vi": "Train"
+  },
+  {
+    "key": "job_name_train_alt",
+    "type": 0,
+    "en": "Combat Train",
+    "vi": "Combat Train"
+  },
+  {
+    "key": "job_info_train",
+    "type": 0,
+    "en": "Practicing combat skills with ranged and melee weapons.",
+    "vi": "Practicing combat skills with ranged and melee weapons."
+  },
+  {
+    "key": "job_name_art",
+    "type": 0,
+    "en": "Artist",
+    "vi": "Artist"
+  },
+  {
+    "key": "job_info_art",
+    "type": 0,
+    "en": "Create works of art. Produces items at:",
+    "vi": "Create works of art. Produces items at:"
+  },
+  {
+    "key": "job_overide_info",
+    "type": 0,
+    "en": "<style=AltColor><b><size=18>The prioritization of this job is valid only during</style> <style=DefaultRed>Work hours</style></b></size>",
+    "vi": "<style=AltColor><b><size=18>The prioritization of this job is valid only during</style> <style=DefaultRed>Work hours</style></b></size>"
+  },
+  {
+    "key": "job_name_urgenthaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Urgent Haul"
+  },
+  {
+    "key": "job_info_urgenthaul",
+    "type": 0,
+    "en": "Move only those resources and items that are marked as 'urgent.' ",
+    "vi": "Move only those resources and items that are marked as 'urgent.' "
+  },
+  {
+    "key": "job_name_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Fish"
+  },
+  {
+    "key": "job_info_fishing",
+    "type": 0,
+    "en": "Catch fish for food by angling.",
+    "vi": "Catch fish for food by angling."
+  },
+  {
+    "key": "job_name_alchemy",
+    "type": 0,
+    "en": "Alchemy",
+    "vi": "Alchemy"
+  },
+  {
+    "key": "job_info_alchemy",
+    "type": 0,
+    "en": "Transmutation and isolation of materials for a multitude of uses. Produces items at:",
+    "vi": "Transmutation and isolation of materials for a multitude of uses. Produces items at:"
+  },
+  {
+    "key": "job_name_firefight",
+    "type": 0,
+    "en": "Firefight",
+    "vi": "Firefight"
+  },
+  {
+    "key": "job_info_firefight",
+    "type": 0,
+    "en": "Quench fires near your settlement. Extinguish flames while they are small by stomping on them.",
+    "vi": "Quench fires near your settlement. Extinguish flames while they are small by stomping on them."
+  },
+  {
+    "key": "job_preferences",
+    "type": 0,
+    "en": "Job preferences",
+    "vi": "Job preferences"
+  },
+  {
+    "key": "goal_preference_name_RangedCombatPreference",
+    "type": 0,
+    "en": "Ranged Combat",
+    "vi": "Ranged Combat"
+  },
+  {
+    "key": "goal_preference_name_MeleeCombatPreference",
+    "type": 0,
+    "en": "Melee Combat",
+    "vi": "Melee Combat"
+  },
+  {
+    "key": "goal_preference_info_RangedCombatPreference",
+    "type": 0,
+    "en": "Using Ranged Weapons like bows, crossbows or throwing weapons in combat and hunting",
+    "vi": "Using Ranged Weapons like bows, crossbows or throwing weapons in combat and hunting"
+  },
+  {
+    "key": "goal_preference_info_MeleeCombatPreference",
+    "type": 0,
+    "en": "Using Melee Weapons in combat",
+    "vi": "Using Melee Weapons in combat"
+  },
+  {
+    "key": "dialogOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>"
+  },
+  {
+    "key": "dialogOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>"
+  },
+  {
+    "key": "eventOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>"
+  },
+  {
+    "key": "eventOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>"
+  },
+  {
+    "key": "no_skill_book_message",
+    "type": 0,
+    "en": "You don't have any textbooks",
+    "vi": "You don't have any textbooks"
+  },
+  {
+    "key": "role_visitor_leaving",
+    "type": 0,
+    "en": "<faction_name> <role_name> is leaving your settlement",
+    "vi": "<faction_name> <role_name> is leaving your settlement"
+  },
+  {
+    "key": "effector_info_DidJobWithPassion",
+    "type": 0,
+    "en": "Nothing beats the satisfaction of a job well done. <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>",
+    "vi": "Nothing beats the satisfaction of a job well done. <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>"
+  },
+  {
+    "key": "effector_info_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "There are too few of us already in this world. Not helping someone in need feels like betrayal.",
+    "vi": "There are too few of us already in this world. Not helping someone in need feels like betrayal."
+  },
+  {
+    "key": "effector_info_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "It's good that we are helping people in need.",
+    "vi": "It's good that we are helping people in need."
+  },
+  {
+    "key": "effector_name_DidJobWithPassion",
+    "type": 0,
+    "en": "Job Satisfaction",
+    "vi": "Job Satisfaction"
+  },
+  {
+    "key": "effector_name_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "Sanctuary Denied",
+    "vi": "Sanctuary Denied"
+  },
+  {
+    "key": "effector_name_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "Together we are strong",
+    "vi": "Together we are strong"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Stepped into an Oak Brethren temple"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Awful)",
+    "vi": "Stepped into an Oak Brethren temple (Awful)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusDull",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Uninspiring)",
+    "vi": "Stepped into an Oak Brethren temple (Uninspiring)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Modest)",
+    "vi": "Stepped into an Oak Brethren temple (Modest)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusGood",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Good)",
+    "vi": "Stepped into an Oak Brethren temple (Good)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Superior)",
+    "vi": "Stepped into an Oak Brethren temple (Superior)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Luxurious)",
+    "vi": "Stepped into an Oak Brethren temple (Luxurious)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Opulent)",
+    "vi": "Stepped into an Oak Brethren temple (Opulent)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Palatial)",
+    "vi": "Stepped into an Oak Brethren temple (Palatial)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Stepped into an Oak Brethren temple"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Entered a Church of Restitution chapel"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Awful)",
+    "vi": "Entered a Church of Restitution chapel (Awful)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusDull",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Uninspiring)",
+    "vi": "Entered a Church of Restitution chapel (Uninspiring)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Modest)",
+    "vi": "Entered a Church of Restitution chapel (Modest)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusGood",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Good)",
+    "vi": "Entered a Church of Restitution chapel (Good)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Superior)",
+    "vi": "Entered a Church of Restitution chapel (Superior)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Luxurious)",
+    "vi": "Entered a Church of Restitution chapel (Luxurious)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Opulent)",
+    "vi": "Entered a Church of Restitution chapel (Opulent)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Palatial)",
+    "vi": "Entered a Church of Restitution chapel (Palatial)"
+  },
+  {
+    "key": "effector_name_InChapelMoodMinus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Entered a Church of Restitution chapel"
+  },
+  {
+    "key": "effector_info_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "I feel a deep connection to the elements of the natural world here. My ancestors and all beings share the blessings of their wisdom freely. Within, I can find peace.",
+    "vi": "I feel a deep connection to the elements of the natural world here. My ancestors and all beings share the blessings of their wisdom freely. Within, I can find peace."
+  },
+  {
+    "key": "effecto_info_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "I feel uncomfortable here, in this heathen place. Our Creator shows us the true path. This old balderdash about trees and ponds is not for me!",
+    "vi": "I feel uncomfortable here, in this heathen place. Our Creator shows us the true path. This old balderdash about trees and ponds is not for me!"
+  },
+  {
+    "key": "effector_info_InChapelMoodPlus",
+    "type": 0,
+    "en": "The hope of restitution guides my path. By my faith, by our prayers, I am renewed and uplifted by the Creator. Wholeness and purity await the faithful. Praise be!",
+    "vi": "The hope of restitution guides my path. By my faith, by our prayers, I am renewed and uplifted by the Creator. Wholeness and purity await the faithful. Praise be!"
+  },
+  {
+    "key": "effector_info_InChapelMoodMinus",
+    "type": 0,
+    "en": "In this place, all believers look to the future, without care for the past, or for the Earth. The deep roots tended by our ancestors are left to wither. It saddens me to behold it.",
+    "vi": "In this place, all believers look to the future, without care for the past, or for the Earth. The deep roots tended by our ancestors are left to wither. It saddens me to behold it."
+  },
+  {
+    "key": "effector_name_NightOwlPerkEffector",
+    "type": 0,
+    "en": "Night time (Night owl perk)",
+    "vi": "Night time (Night owl perk)"
+  },
+  {
+    "key": "effector_name_AteLavishMealNegativePerkEffector",
+    "type": 0,
+    "en": "Ate an Exquisite Meal (Austere perk)",
+    "vi": "Ate an Exquisite Meal (Austere perk)"
+  },
+  {
+    "key": "effector_name_AteWellNegativePerkEffector",
+    "type": 0,
+    "en": "Ate a Nice Meal (Austere perk)",
+    "vi": "Ate a Nice Meal (Austere perk)"
+  },
+  {
+    "key": "effector_name_AteRawMealNegativePerkEffector",
+    "type": 0,
+    "en": "Ate Raw Food (Austere perk)",
+    "vi": "Ate Raw Food (Austere perk)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkLowPerkEffector",
+    "type": 0,
+    "en": "Tipsy (Swigger perk)",
+    "vi": "Tipsy (Swigger perk)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkMedPerkEffector",
+    "type": 0,
+    "en": "Drunk (Swigger perk)",
+    "vi": "Drunk (Swigger perk)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkHighPerkEffector",
+    "type": 0,
+    "en": "Legless (Swigger perk)",
+    "vi": "Legless (Swigger perk)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkVeryHighPerkEffector",
+    "type": 0,
+    "en": "Totally paralytic (Swigger perk)",
+    "vi": "Totally paralytic (Swigger perk)"
+  },
+  {
+    "key": "effector_name_InebriatedAttackStrenghtPerkEffector",
+    "type": 0,
+    "en": "Strength increase (Punch drunk perk)",
+    "vi": "Strength increase (Punch drunk perk)"
+  },
+  {
+    "key": "effector_name_ColdPositivePerkEffector",
+    "type": 0,
+    "en": "Cold (Cold hardy perk)",
+    "vi": "Cold (Cold hardy perk)"
+  },
+  {
+    "key": "effector_name_ChillyPositivePerkEffector",
+    "type": 0,
+    "en": "Chilly (Cold hardy perk)",
+    "vi": "Chilly (Cold hardy perk)"
+  },
+  {
+    "key": "effector_name_SweatyPositivePerkEffector",
+    "type": 0,
+    "en": "Sweaty (Heat resistant perk)",
+    "vi": "Sweaty (Heat resistant perk)"
+  },
+  {
+    "key": "effector_name_HotPositivePerkEffector",
+    "type": 0,
+    "en": "Hot (Heat resistant perk)",
+    "vi": "Hot (Heat resistant perk)"
+  },
+  {
+    "key": "effector_name_ChillyPerkEffector",
+    "type": 0,
+    "en": "Cold Sensitive (Chilly perk)",
+    "vi": "Cold Sensitive (Chilly perk)"
+  },
+  {
+    "key": "effector_name_HotBloodedPerkEffector",
+    "type": 0,
+    "en": "Overheated (Hot-blooded perk)",
+    "vi": "Overheated (Hot-blooded perk)"
+  },
+  {
+    "key": "effector_name_SunSeekerDayPerkEffector",
+    "type": 0,
+    "en": "Sunny day (Sun seeker perk)",
+    "vi": "Sunny day (Sun seeker perk)"
+  },
+  {
+    "key": "effector_name_SnowWhiteSnowPerkEffector",
+    "type": 0,
+    "en": "Snow! (Snow White perk)",
+    "vi": "Snow! (Snow White perk)"
+  },
+  {
+    "key": "effector_name_WashoutRainPerkEffector",
+    "type": 0,
+    "en": "Rainy day (Washout Perk)",
+    "vi": "Rainy day (Washout Perk)"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedLow",
+    "type": 0,
+    "en": "Small Combat Speed Impairment",
+    "vi": "Small Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Combat Speed Impairment",
+    "vi": "Significant Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Combat Speed Impairment",
+    "vi": "Severe Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedLow",
+    "type": 0,
+    "en": "Small Ranged Combat Speed Impairment",
+    "vi": "Small Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Ranged Combat Speed Impairment",
+    "vi": "Significant Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Ranged Combat Speed Impairment",
+    "vi": "Severe Ranged Combat Speed Impairment"
+  },
+  {
+    "key": "effector_info_NightOwlPerkEffector",
+    "type": 0,
+    "en": "I love the night time, when the stars pierce the dark sky. I wonder if society has it backwards, and we should really sleep in the day?",
+    "vi": "I love the night time, when the stars pierce the dark sky. I wonder if society has it backwards, and we should really sleep in the day?"
+  },
+  {
+    "key": "effector_info_AteLavishMealNegativePerkEffector",
+    "type": 0,
+    "en": "I would have preferred a simple, modest meal. Rich food does not agree with me.",
+    "vi": "I would have preferred a simple, modest meal. Rich food does not agree with me."
+  },
+  {
+    "key": "effector_info_AteWellNegativePerkEffector",
+    "type": 0,
+    "en": "I would have preferred a simple, modest meal. Excessive food does not agree with me.",
+    "vi": "I would have preferred a simple, modest meal. Excessive food does not agree with me."
+  },
+  {
+    "key": "effector_info_AteRawMealNegativePerkEffector",
+    "type": 0,
+    "en": "Eating simple, raw food is best for the body, and for the soul. I feel healthy and righteous.",
+    "vi": "Eating simple, raw food is best for the body, and for the soul. I feel healthy and righteous."
+  },
+  {
+    "key": "effector_info_InebriatedWorkLowPerkEffector",
+    "type": 0,
+    "en": "A little drink keeps me going through the day.",
+    "vi": "A little drink keeps me going through the day."
+  },
+  {
+    "key": "effector_info_InebriatedWorkMedPerkEffector",
+    "type": 0,
+    "en": "I'm pretty sure the more I drink, the better I work.",
+    "vi": "I'm pretty sure the more I drink, the better I work."
+  },
+  {
+    "key": "effector_info_InebriatedWorkHighPerkEffector",
+    "type": 0,
+    "en": "The work just flies by when I'm drunk. I barely notice how hard it is.",
+    "vi": "The work just flies by when I'm drunk. I barely notice how hard it is."
+  },
+  {
+    "key": "effector_info_InebriatedWorkVeryHighPerkEffector",
+    "type": 0,
+    "en": "Just leave it to me! I can do it all! Just keep the drinks coming and I'll race like the wind!",
+    "vi": "Just leave it to me! I can do it all! Just keep the drinks coming and I'll race like the wind!"
+  },
+  {
+    "key": "effector_info_InebriatedAttackStrenghtPerkEffector",
+    "type": 0,
+    "en": "Liquid courage is flowing through my veins! I could kill a lion with my bare hands, I could take on an army...don't try to stop me!",
+    "vi": "Liquid courage is flowing through my veins! I could kill a lion with my bare hands, I could take on an army...don't try to stop me!"
+  },
+  {
+    "key": "effector_info_ColdPositivePerkEffector",
+    "type": 0,
+    "en": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me.\n",
+    "vi": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me.\n"
+  },
+  {
+    "key": "effector_info_ChillyPositivePerkEffector",
+    "type": 0,
+    "en": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me.",
+    "vi": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me."
+  },
+  {
+    "key": "effector_info_SweatyPositivePerkEffector",
+    "type": 0,
+    "en": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element.",
+    "vi": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element."
+  },
+  {
+    "key": "effector_info_HotPositivePerkEffector",
+    "type": 0,
+    "en": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element.",
+    "vi": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element."
+  },
+  {
+    "key": "effector_info_SunSeekerDayPerkEffector",
+    "type": 0,
+    "en": "There's simply nothing better than the warm rays of sunshine falling on my skin. I live for it, it brings me joy.",
+    "vi": "There's simply nothing better than the warm rays of sunshine falling on my skin. I live for it, it brings me joy."
+  },
+  {
+    "key": "effector_info_SnowWhiteSnowPerkEffector",
+    "type": 0,
+    "en": "That beautiful, white blanket of snow cloaking the landscape in silence? To me, it's magical.",
+    "vi": "That beautiful, white blanket of snow cloaking the landscape in silence? To me, it's magical."
+  },
+  {
+    "key": "effector_info_WashoutRainPerkEffector",
+    "type": 0,
+    "en": "I don't like rain, it's wet and irritating and it gets everywhere.",
+    "vi": "I don't like rain, it's wet and irritating and it gets everywhere."
+  },
+  {
+    "key": "effector_info_AgentMoodGood",
+    "type": 0,
+    "en": "I feel better than ever. ",
+    "vi": "I feel better than ever. "
+  },
+  {
+    "key": "effector_name_AgentMoodGood",
+    "type": 0,
+    "en": "Merry",
+    "vi": "Merry"
+  },
+  {
+    "key": "effector_name_KilledBloodlustMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Killed someone"
+  },
+  {
+    "key": "effector_info_KilledBloodlustMood",
+    "type": 0,
+    "en": "I finished them, good riddance! Nobody's going to want to mess with me now, are they?",
+    "vi": "I finished them, good riddance! Nobody's going to want to mess with me now, are they?"
+  },
+  {
+    "key": "effector_name_KilledPacifistMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Killed someone"
+  },
+  {
+    "key": "effector_info_KilledPacifistMood",
+    "type": 0,
+    "en": "I want to wash the blood away. I can't believe I did that...I...feel sick. What have I become?",
+    "vi": "I want to wash the blood away. I can't believe I did that...I...feel sick. What have I become?"
+  },
+  {
+    "key": "effector_name_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "We should have stood our ground",
+    "vi": "We should have stood our ground"
+  },
+  {
+    "key": "effector_info_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "Why didn't we refuse and smash their skulls instead of giving them our valuable resources!",
+    "vi": "Why didn't we refuse and smash their skulls instead of giving them our valuable resources!"
+  },
+  {
+    "key": "effector_name_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Soothing presence"
+  },
+  {
+    "key": "effector_info_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "<settler_name> is a joy to be around (<perk_name>)"
+  },
+  {
+    "key": "effector_name_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying presence",
+    "vi": "Annoying presence"
+  },
+  {
+    "key": "effector_info_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> brings me down (<perk_name>)",
+    "vi": "<settler_name> brings me down (<perk_name>)"
+  },
+  {
+    "key": "effector_name_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Annoying when working"
+  },
+  {
+    "key": "effector_info_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "It's painful to watch <settler_name> do anything (<perk_name>)"
+  },
+  {
+    "key": "effector_name_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Annoying when working"
+  },
+  {
+    "key": "effector_info_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "It's painful to watch <settler_name> do anything (<perk_name>)"
+  },
+  {
+    "key": "effector_name_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "Dullard presence",
+    "vi": "Dullard presence"
+  },
+  {
+    "key": "effector_info_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is so thick, being around #2[him/her] frustrates me! (<perk_name>)",
+    "vi": "<settler_name> is so thick, being around #2[him/her] frustrates me! (<perk_name>)"
+  },
+  {
+    "key": "worker_high_mood_message",
+    "type": 0,
+    "en": "<name> is feeling merry!",
+    "vi": "<name> is feeling merry!"
+  },
+  {
+    "key": "general_skill_requirements",
+    "type": 0,
+    "en": "Skill needed",
+    "vi": "Skill needed"
+  },
+  {
+    "key": "role_active_in_pte",
+    "type": 0,
+    "en": "This role can be utilised in events",
+    "vi": "This role can be utilised in events"
+  },
+  {
+    "key": "atb_info_CombatPerception",
+    "type": 0,
+    "en": "The range at which this settler will notice and engage with enemies when set to aggressive mode.",
+    "vi": "The range at which this settler will notice and engage with enemies when set to aggressive mode."
+  },
+  {
+    "key": "atb_info_MoodChangeSpeed",
+    "type": 0,
+    "en": "The speed this settler's mood stat changes.",
+    "vi": "The speed this settler's mood stat changes."
+  },
+  {
+    "key": "atb_info_MoodTarget",
+    "type": 0,
+    "en": "Mood target. This varies depending on positive and negative events. (Settlers with more optimistic perks will cope better with low mood than pessimists.)",
+    "vi": "Mood target. This varies depending on positive and negative events. (Settlers with more optimistic perks will cope better with low mood than pessimists.)"
+  },
+  {
+    "key": "atb_name_CombatPerception",
+    "type": 0,
+    "en": "Combat Perception",
+    "vi": "Combat Perception"
+  },
+  {
+    "key": "atb_name_MoodChangeSpeed",
+    "type": 0,
+    "en": "Mood Change Speed",
+    "vi": "Mood Change Speed"
+  },
+  {
+    "key": "atb_name_MoodTarget",
+    "type": 0,
+    "en": "Mood Target",
+    "vi": "Mood Target"
+  },
+  {
+    "key": "perk_name_Vigorous",
+    "type": 0,
+    "en": "Vigorous",
+    "vi": "Vigorous"
+  },
+  {
+    "key": "perk_name_Robust",
+    "type": 0,
+    "en": "Robust",
+    "vi": "Robust"
+  },
+  {
+    "key": "perk_name_Infirm",
+    "type": 0,
+    "en": "Infirm",
+    "vi": "Infirm"
+  },
+  {
+    "key": "perk_name_Moribund",
+    "type": 0,
+    "en": "Moribund",
+    "vi": "Moribund"
+  },
+  {
+    "key": "perk_name_NightOwl",
+    "type": 0,
+    "en": "Night Owl",
+    "vi": "Night Owl"
+  },
+  {
+    "key": "perk_name_FortyWinks",
+    "type": 0,
+    "en": "Forty Winks",
+    "vi": "Forty Winks"
+  },
+  {
+    "key": "perk_name_Somnolent",
+    "type": 0,
+    "en": "Somnolent",
+    "vi": "Somnolent"
+  },
+  {
+    "key": "perk_name_EarlyBird",
+    "type": 0,
+    "en": "Early Bird",
+    "vi": "Early Bird"
+  },
+  {
+    "key": "perk_name_Stout",
+    "type": 0,
+    "en": "Stout",
+    "vi": "Stout"
+  },
+  {
+    "key": "perk_name_Gluttonous",
+    "type": 0,
+    "en": "Gluttonous",
+    "vi": "Gluttonous"
+  },
+  {
+    "key": "perk_name_IronStomach",
+    "type": 0,
+    "en": "Iron Stomach",
+    "vi": "Iron Stomach"
+  },
+  {
+    "key": "perk_name_Gourmet",
+    "type": 0,
+    "en": "Gourmet",
+    "vi": "Gourmet"
+  },
+  {
+    "key": "perk_name_Austere",
+    "type": 0,
+    "en": "Austere",
+    "vi": "Austere"
+  },
+  {
+    "key": "perk_name_Gobbler",
+    "type": 0,
+    "en": "Gobbler",
+    "vi": "Gobbler"
+  },
+  {
+    "key": "perk_name_Congenial",
+    "type": 0,
+    "en": "Congenial",
+    "vi": "Congenial"
+  },
+  {
+    "key": "perk_name_Outgoing",
+    "type": 0,
+    "en": "Outgoing",
+    "vi": "Outgoing"
+  },
+  {
+    "key": "perk_name_Churl",
+    "type": 0,
+    "en": "Churl",
+    "vi": "Churl"
+  },
+  {
+    "key": "perk_name_Contemplative",
+    "type": 0,
+    "en": "Contemplative",
+    "vi": "Contemplative"
+  },
+  {
+    "key": "perk_name_Industrious",
+    "type": 0,
+    "en": "Industrious",
+    "vi": "Industrious"
+  },
+  {
+    "key": "perk_name_LordofMisrule",
+    "type": 0,
+    "en": "Lord of Misrule",
+    "vi": "Lord of Misrule"
+  },
+  {
+    "key": "perk_name_Hedonist",
+    "type": 0,
+    "en": "Hedonist",
+    "vi": "Hedonist"
+  },
+  {
+    "key": "perk_name_Listless",
+    "type": 0,
+    "en": "Listless",
+    "vi": "Listless"
+  },
+  {
+    "key": "perk_name_Benevolent",
+    "type": 0,
+    "en": "Benevolent",
+    "vi": "Benevolent"
+  },
+  {
+    "key": "perk_name_Ruthless",
+    "type": 0,
+    "en": "Ruthless",
+    "vi": "Ruthless"
+  },
+  {
+    "key": "perk_name_Brawler",
+    "type": 0,
+    "en": "Brawler",
+    "vi": "Brawler"
+  },
+  {
+    "key": "perk_name_Disfigured",
+    "type": 0,
+    "en": "Disfigured",
+    "vi": "Disfigured"
+  },
+  {
+    "key": "perk_name_Illfavoured",
+    "type": 0,
+    "en": "Ill-favoured",
+    "vi": "Ill-favoured"
+  },
+  {
+    "key": "perk_name_Winsome",
+    "type": 0,
+    "en": "Winsome",
+    "vi": "Winsome"
+  },
+  {
+    "key": "perk_name_Fair",
+    "type": 0,
+    "en": "Fair",
+    "vi": "Fair"
+  },
+  {
+    "key": "perk_name_Ravishing",
+    "type": 0,
+    "en": "Ravishing",
+    "vi": "Ravishing"
+  },
+  {
+    "key": "perk_name_Swigger",
+    "type": 0,
+    "en": "Swigger",
+    "vi": "Swigger"
+  },
+  {
+    "key": "perk_name_PunchDrunk",
+    "type": 0,
+    "en": "Punch Drunk",
+    "vi": "Punch Drunk"
+  },
+  {
+    "key": "perk_name_Lightweight",
+    "type": 0,
+    "en": "Lightweight",
+    "vi": "Lightweight"
+  },
+  {
+    "key": "perk_name_HeatResistant",
+    "type": 0,
+    "en": "Heat resistant",
+    "vi": "Heat resistant"
+  },
+  {
+    "key": "perk_name_ColdHardy",
+    "type": 0,
+    "en": "Cold hardy",
+    "vi": "Cold hardy"
+  },
+  {
+    "key": "perk_name_HotBlooded",
+    "type": 0,
+    "en": "Hot-blooded",
+    "vi": "Hot-blooded"
+  },
+  {
+    "key": "perk_name_Chilly",
+    "type": 0,
+    "en": "Chilly",
+    "vi": "Chilly"
+  },
+  {
+    "key": "perk_name_Vulnerable",
+    "type": 0,
+    "en": "Vulnerable",
+    "vi": "Vulnerable"
+  },
+  {
+    "key": "perk_name_ElfShot",
+    "type": 0,
+    "en": "Elf Shot",
+    "vi": "Elf Shot"
+  },
+  {
+    "key": "perk_name_GreenThumb",
+    "type": 0,
+    "en": "Green Thumb",
+    "vi": "Green Thumb"
+  },
+  {
+    "key": "perk_name_Strapping",
+    "type": 0,
+    "en": "Strapping",
+    "vi": "Strapping"
+  },
+  {
+    "key": "perk_name_Wicche",
+    "type": 0,
+    "en": "Wicche",
+    "vi": "Wicche"
+  },
+  {
+    "key": "perk_name_Ascetic",
+    "type": 0,
+    "en": "Ascetic",
+    "vi": "Ascetic"
+  },
+  {
+    "key": "perk_name_Dainty",
+    "type": 0,
+    "en": "Dainty",
+    "vi": "Dainty"
+  },
+  {
+    "key": "perk_name_Precious",
+    "type": 0,
+    "en": "Precious",
+    "vi": "Precious"
+  },
+  {
+    "key": "perk_name_Whirlwind",
+    "type": 0,
+    "en": "Whirlwind",
+    "vi": "Whirlwind"
+  },
+  {
+    "key": "perk_name_FleetFooted",
+    "type": 0,
+    "en": "Fleet Footed",
+    "vi": "Fleet Footed"
+  },
+  {
+    "key": "perk_name_Brawny",
+    "type": 0,
+    "en": "Brawny",
+    "vi": "Brawny"
+  },
+  {
+    "key": "perk_name_Sluggardly",
+    "type": 0,
+    "en": "Sluggardly",
+    "vi": "Sluggardly"
+  },
+  {
+    "key": "perk_name_Laggardly",
+    "type": 0,
+    "en": "Laggardly",
+    "vi": "Laggardly"
+  },
+  {
+    "key": "perk_name_Hefty",
+    "type": 0,
+    "en": "Hefty",
+    "vi": "Hefty"
+  },
+  {
+    "key": "perk_name_SunSeeker",
+    "type": 0,
+    "en": "Sun Seeker",
+    "vi": "Sun Seeker"
+  },
+  {
+    "key": "perk_name_SnowWhite",
+    "type": 0,
+    "en": "Snow White",
+    "vi": "Snow White"
+  },
+  {
+    "key": "perk_name_Washout",
+    "type": 0,
+    "en": "Washout",
+    "vi": "Washout"
+  },
+  {
+    "key": "perk_name_Dullard",
+    "type": 0,
+    "en": "Dullard",
+    "vi": "Dullard"
+  },
+  {
+    "key": "perk_name_Wise",
+    "type": 0,
+    "en": "Wise",
+    "vi": "Wise"
+  },
+  {
+    "key": "perk_name_Erudite",
+    "type": 0,
+    "en": "Erudite",
+    "vi": "Erudite"
+  },
+  {
+    "key": "perk_name_Bloodlust",
+    "type": 0,
+    "en": "Bloodlust",
+    "vi": "Bloodlust"
+  },
+  {
+    "key": "perk_name_Callous",
+    "type": 0,
+    "en": "Callous",
+    "vi": "Callous"
+  },
+  {
+    "key": "perk_name_Cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Cannibal"
+  },
+  {
+    "key": "perk_name_Gossipmonger",
+    "type": 0,
+    "en": "Gossipmonger",
+    "vi": "Gossipmonger"
+  },
+  {
+    "key": "perk_name_BoneCollector",
+    "type": 0,
+    "en": "Bone Collector",
+    "vi": "Bone Collector"
+  },
+  {
+    "key": "perk_name_Macabre",
+    "type": 0,
+    "en": "Macabre",
+    "vi": "Macabre"
+  },
+  {
+    "key": "perk_name_Pyromancer",
+    "type": 0,
+    "en": "Pyromancer",
+    "vi": "Pyromancer"
+  },
+  {
+    "key": "perk_name_SweetToothed",
+    "type": 0,
+    "en": "Sweet-Toothed",
+    "vi": "Sweet-Toothed"
+  },
+  {
+    "key": "perk_name_Prophet",
+    "type": 0,
+    "en": "Prophet",
+    "vi": "Prophet"
+  },
+  {
+    "key": "perk_name_Mudskipper",
+    "type": 0,
+    "en": "Mudskipper",
+    "vi": "Mudskipper"
+  },
+  {
+    "key": "perk_name_Flamekissed",
+    "type": 0,
+    "en": "Flamekissed",
+    "vi": "Flamekissed"
+  },
+  {
+    "key": "perk_name_Riverborn",
+    "type": 0,
+    "en": "Riverborn",
+    "vi": "Riverborn"
+  },
+  {
+    "key": "perk_name_Workshy",
+    "type": 0,
+    "en": "Workshy",
+    "vi": "Workshy"
+  },
+  {
+    "key": "perk_name_Ironblood",
+    "type": 0,
+    "en": "Ironblood",
+    "vi": "Ironblood"
+  },
+  {
+    "key": "perk_name_Bowdrunk",
+    "type": 0,
+    "en": "Bowdrunk",
+    "vi": "Bowdrunk"
+  },
+  {
+    "key": "perk_name_Siegewise",
+    "type": 0,
+    "en": "Siegewise",
+    "vi": "Siegewise"
+  },
+  {
+    "key": "perk_name_Wardenborn",
+    "type": 0,
+    "en": "Weardborn",
+    "vi": "Weardborn"
+  },
+  {
+    "key": "perk_name_Pitiless",
+    "type": 0,
+    "en": "Pitiless",
+    "vi": "Pitiless"
+  },
+  {
+    "key": "perk_name_Wildwyrd",
+    "type": 0,
+    "en": "Wildwyrd",
+    "vi": "Wildwyrd"
+  },
+  {
+    "key": "perk_name_Herbivore",
+    "type": 0,
+    "en": "Herbivore",
+    "vi": "Herbivore"
+  },
+  {
+    "key": "perk_name_Steadfast",
+    "type": 0,
+    "en": "Steadfast",
+    "vi": "Steadfast"
+  },
+  {
+    "key": "perk_name_Nimbleblade",
+    "type": 0,
+    "en": "Nimbleblade",
+    "vi": "Nimbleblade"
+  },
+  {
+    "key": "perk_name_Bloomer",
+    "type": 0,
+    "en": "Greensoul",
+    "vi": "Greensoul"
+  },
+  {
+    "key": "perk_name_Stoic",
+    "type": 0,
+    "en": "Stoic",
+    "vi": "Stoic"
+  },
+  {
+    "key": "perk_name_Splinter",
+    "type": 0,
+    "en": "Splinter",
+    "vi": "Splinter"
+  },
+  {
+    "key": "perk_name_Reeky",
+    "type": 0,
+    "en": "Reeky",
+    "vi": "Reeky"
+  },
+  {
+    "key": "perk_name_Bareknuckled",
+    "type": 0,
+    "en": "Bareknuckled",
+    "vi": "Bareknuckled"
+  },
+  {
+    "key": "perk_name_Beastmaster",
+    "type": 0,
+    "en": "Beastmaster",
+    "vi": "Beastmaster"
+  },
+  {
+    "key": "perk_info_Vigorous",
+    "type": 0,
+    "en": "Bursting with health and vitality, <name> is never sick for long.",
+    "vi": "Bursting with health and vitality, <name> is never sick for long."
+  },
+  {
+    "key": "perk_info_Robust",
+    "type": 0,
+    "en": "<name> appears unassailable, bouncing back swiftly from injuries that would put others in the grave.",
+    "vi": "<name> appears unassailable, bouncing back swiftly from injuries that would put others in the grave."
+  },
+  {
+    "key": "perk_info_Infirm",
+    "type": 0,
+    "en": "Fragile health is a burden that <name> has always had to bear. [He/She] is often convalescent.",
+    "vi": "Fragile health is a burden that <name> has always had to bear. [He/She] is often convalescent."
+  },
+  {
+    "key": "perk_info_Moribund",
+    "type": 0,
+    "en": "<name> often has an unwholesome smell, emanating from foetid bandages. [He/She] is slow to heal when injured.",
+    "vi": "<name> often has an unwholesome smell, emanating from foetid bandages. [He/She] is slow to heal when injured."
+  },
+  {
+    "key": "perk_info_NightOwl",
+    "type": 0,
+    "en": "<name> feels most alive working during the hours of darkness. [He/She] can survive happily with very little sleep.",
+    "vi": "<name> feels most alive working during the hours of darkness. [He/She] can survive happily with very little sleep."
+  },
+  {
+    "key": "perk_info_FortyWinks",
+    "type": 0,
+    "en": "<name> only needs to shut [his/her] eyes for the briefest of cat naps to feel fully restored.",
+    "vi": "<name> only needs to shut [his/her] eyes for the briefest of cat naps to feel fully restored."
+  },
+  {
+    "key": "perk_info_Somnolent",
+    "type": 0,
+    "en": "<name> loves nothing better than a nice, long snooze. In fact, [he/she] needs more sleep than most just to function.",
+    "vi": "<name> loves nothing better than a nice, long snooze. In fact, [he/she] needs more sleep than most just to function."
+  },
+  {
+    "key": "perk_info_EarlyBird",
+    "type": 0,
+    "en": "<name> relishes getting to work at daybreak, when the first cock crows. An early bedtime is essential.",
+    "vi": "<name> relishes getting to work at daybreak, when the first cock crows. An early bedtime is essential."
+  },
+  {
+    "key": "perk_info_Stout",
+    "type": 0,
+    "en": "<name> jokes that [his/her] ample belly is a great asset, storing energy for lean times. Getting around is slower, though.",
+    "vi": "<name> jokes that [his/her] ample belly is a great asset, storing energy for lean times. Getting around is slower, though."
+  },
+  {
+    "key": "perk_info_Gluttonous",
+    "type": 0,
+    "en": "Food, glorious food! <name> simply loves to eat, whenever, and wherever possible.",
+    "vi": "Food, glorious food! <name> simply loves to eat, whenever, and wherever possible."
+  },
+  {
+    "key": "perk_info_IronStomach",
+    "type": 0,
+    "en": "One of <name>'s favourite tricks is eating horseshoe nails or soap. It's a special talent to be able to eat literally anything.",
+    "vi": "One of <name>'s favourite tricks is eating horseshoe nails or soap. It's a special talent to be able to eat literally anything."
+  },
+  {
+    "key": "perk_info_Gourmet",
+    "type": 0,
+    "en": "Ah, la joie de cuisiner! <name> is everyone's favourite cook, with endless culinary skills that tantalise the tastebuds.",
+    "vi": "Ah, la joie de cuisiner! <name> is everyone's favourite cook, with endless culinary skills that tantalise the tastebuds."
+  },
+  {
+    "key": "perk_info_Austere",
+    "type": 0,
+    "en": "<name> has mastered discipline and self-denial. [He/She] often fasts, going for days without food with no ill effect.",
+    "vi": "<name> has mastered discipline and self-denial. [He/She] often fasts, going for days without food with no ill effect."
+  },
+  {
+    "key": "perk_info_Gobbler",
+    "type": 0,
+    "en": "The only way to preserve food is to eat it, quickly. At least that's what <name> thinks.",
+    "vi": "The only way to preserve food is to eat it, quickly. At least that's what <name> thinks."
+  },
+  {
+    "key": "perk_info_Congenial",
+    "type": 0,
+    "en": "Out of sight, out of mind, that's <name>'s motto. [He/She] doesn't worry about things beyond [his/her] control.",
+    "vi": "Out of sight, out of mind, that's <name>'s motto. [He/She] doesn't worry about things beyond [his/her] control."
+  },
+  {
+    "key": "perk_info_Outgoing",
+    "type": 0,
+    "en": "<name> is a great sport, always setting up bouts, games and sing alongs. [He/She] is a jolly soul.",
+    "vi": "<name> is a great sport, always setting up bouts, games and sing alongs. [He/She] is a jolly soul."
+  },
+  {
+    "key": "perk_info_Churl",
+    "type": 0,
+    "en": "Mean and surly, barely even civil. <name> is hard to work with and harder still to befriend.",
+    "vi": "Mean and surly, barely even civil. <name> is hard to work with and harder still to befriend."
+  },
+  {
+    "key": "perk_info_Contemplative",
+    "type": 0,
+    "en": "<name> spends most of [his/her] time with [his/her] own thoughts. The rest of us are not invited.",
+    "vi": "<name> spends most of [his/her] time with [his/her] own thoughts. The rest of us are not invited."
+  },
+  {
+    "key": "perk_info_Industrious",
+    "type": 0,
+    "en": "<name> is certainly a busy bee, buzzing around getting things done from dawn til dusk. [He/She] never seems to rest.",
+    "vi": "<name> is certainly a busy bee, buzzing around getting things done from dawn til dusk. [He/She] never seems to rest."
+  },
+  {
+    "key": "perk_info_LordofMisrule",
+    "type": 0,
+    "en": "For some, tricks and buffoonery were a midwinter indulgence, but <name> liked to play jokes all year long.",
+    "vi": "For some, tricks and buffoonery were a midwinter indulgence, but <name> liked to play jokes all year long."
+  },
+  {
+    "key": "perk_info_Hedonist",
+    "type": 0,
+    "en": "Without a bit of excitement, <name> quickly gets bored, and starts causing trouble. Quite the drama queen.",
+    "vi": "Without a bit of excitement, <name> quickly gets bored, and starts causing trouble. Quite the drama queen."
+  },
+  {
+    "key": "perk_info_Listless",
+    "type": 0,
+    "en": "<name> tends to mope about complaining, and is a total wet blanket if anything fun is suggested. [He/She] generally isn't invited.",
+    "vi": "<name> tends to mope about complaining, and is a total wet blanket if anything fun is suggested. [He/She] generally isn't invited."
+  },
+  {
+    "key": "perk_info_Benevolent",
+    "type": 0,
+    "en": "<name> is a ray of hope in an otherwise bleak existence. [He/She] makes everyone feel better.",
+    "vi": "<name> is a ray of hope in an otherwise bleak existence. [He/She] makes everyone feel better."
+  },
+  {
+    "key": "perk_info_Ruthless",
+    "type": 0,
+    "en": "<name> is extremely candid, and doesn't suffer fools gladly. Those who can't handle the unvarnished truth tend to steer clear.",
+    "vi": "<name> is extremely candid, and doesn't suffer fools gladly. Those who can't handle the unvarnished truth tend to steer clear."
+  },
+  {
+    "key": "perk_info_Brawler",
+    "type": 0,
+    "en": "Whenever a fist fight breaks out, you can guarantee that <name> started it.",
+    "vi": "Whenever a fist fight breaks out, you can guarantee that <name> started it."
+  },
+  {
+    "key": "perk_info_Disfigured",
+    "type": 0,
+    "en": "After the fire, <name> did not really have a face, but [he/she] had a purpose. Few will look <name> in the eye.",
+    "vi": "After the fire, <name> did not really have a face, but [he/she] had a purpose. Few will look <name> in the eye."
+  },
+  {
+    "key": "perk_info_Illfavoured",
+    "type": 0,
+    "en": "<name> was born with a boss eye, which made it difficult to know where to look when speaking to [him/her].",
+    "vi": "<name> was born with a boss eye, which made it difficult to know where to look when speaking to [him/her]."
+  },
+  {
+    "key": "perk_info_Winsome",
+    "type": 0,
+    "en": "Everyone loved <name>: the shy and the bold, knights, children, young and old. [He/She] was beautiful to behold.",
+    "vi": "Everyone loved <name>: the shy and the bold, knights, children, young and old. [He/She] was beautiful to behold."
+  },
+  {
+    "key": "perk_info_Fair",
+    "type": 0,
+    "en": "Who is the fairest of them all? <name> of course! [His/Her] natural charm makes it very hard for anyone to say 'no'.",
+    "vi": "Who is the fairest of them all? <name> of course! [His/Her] natural charm makes it very hard for anyone to say 'no'."
+  },
+  {
+    "key": "perk_info_Ravishing",
+    "type": 0,
+    "en": "Of all the flowers in <village_name>, <name> bearest the prize. [He/She] is as bonny and blithe as a summer breeze.",
+    "vi": "Of all the flowers in <village_name>, <name> bearest the prize. [He/She] is as bonny and blithe as a summer breeze."
+  },
+  {
+    "key": "perk_info_Swigger",
+    "type": 0,
+    "en": "It's thirsty work! <name> likes to drink on the job, and it makes [him/her] work faster.",
+    "vi": "It's thirsty work! <name> likes to drink on the job, and it makes [him/her] work faster."
+  },
+  {
+    "key": "perk_info_PunchDrunk",
+    "type": 0,
+    "en": "If you share alcohol with <name>, expect a black eye, or worse. [He/She] is an angry drunk.",
+    "vi": "If you share alcohol with <name>, expect a black eye, or worse. [He/She] is an angry drunk."
+  },
+  {
+    "key": "perk_info_Lightweight",
+    "type": 0,
+    "en": "<name> really cannot hold [his/her] drink. Even a tiny tipple will make <name> doze off.",
+    "vi": "<name> really cannot hold [his/her] drink. Even a tiny tipple will make <name> doze off."
+  },
+  {
+    "key": "perk_info_HeatResistant",
+    "type": 0,
+    "en": "Even in scorching conditions, <name> can take the heat. [He/She] loves working in the sun.",
+    "vi": "Even in scorching conditions, <name> can take the heat. [He/She] loves working in the sun."
+  },
+  {
+    "key": "perk_info_ColdHardy",
+    "type": 0,
+    "en": "<name> seems impervious to the cold. [He/She] works on throughout the harshest days of winter.",
+    "vi": "<name> seems impervious to the cold. [He/She] works on throughout the harshest days of winter."
+  },
+  {
+    "key": "perk_info_HotBlooded",
+    "type": 0,
+    "en": "<name> seems to be permanently overheated, throwing open windows and shunning warm clothes. [He/She] should be kept cool.",
+    "vi": "<name> seems to be permanently overheated, throwing open windows and shunning warm clothes. [He/She] should be kept cool."
+  },
+  {
+    "key": "perk_info_Chilly",
+    "type": 0,
+    "en": "<name> always complains of draughts and chills, and huddles close to the fire. [He/She] must be kept warm.",
+    "vi": "<name> always complains of draughts and chills, and huddles close to the fire. [He/She] must be kept warm."
+  },
+  {
+    "key": "perk_info_Vulnerable",
+    "type": 0,
+    "en": "<name> suffers constantly from gout or flux, rashes or spasms. [His/Her] constitution is decidedly feeble.",
+    "vi": "<name> suffers constantly from gout or flux, rashes or spasms. [His/Her] constitution is decidedly feeble."
+  },
+  {
+    "key": "perk_info_ElfShot",
+    "type": 0,
+    "en": "Excruciating back pains that <name> endures were doubtless caused by fairy arrows. What had [he/she] done to deserve such misery?",
+    "vi": "Excruciating back pains that <name> endures were doubtless caused by fairy arrows. What had [he/she] done to deserve such misery?"
+  },
+  {
+    "key": "perk_info_GreenThumb",
+    "type": 0,
+    "en": "<name> has always loved plants...sometimes better than people. [He/She] tends them, and they thrive.",
+    "vi": "<name> has always loved plants...sometimes better than people. [He/She] tends them, and they thrive."
+  },
+  {
+    "key": "perk_info_Strapping",
+    "type": 0,
+    "en": "<name> is as strong as an ox. [He/She] is always hale and hearty, and never laid low.",
+    "vi": "<name> is as strong as an ox. [He/She] is always hale and hearty, and never laid low."
+  },
+  {
+    "key": "perk_info_Wicche",
+    "type": 0,
+    "en": "<name> is highly attuned to the natural world. [He/She] listens closely to the feral whispers of plants and animals.",
+    "vi": "<name> is highly attuned to the natural world. [He/She] listens closely to the feral whispers of plants and animals."
+  },
+  {
+    "key": "perk_info_Ascetic",
+    "type": 0,
+    "en": "<name> has mastered discipline and self-denial. [He/She] shuns comfort, preferring the austerity of a cold, bare cell.",
+    "vi": "<name> has mastered discipline and self-denial. [He/She] shuns comfort, preferring the austerity of a cold, bare cell."
+  },
+  {
+    "key": "perk_info_Dainty",
+    "type": 0,
+    "en": "<name> needs the finer things in life to thrive. [He/She] struggles to cope with little things like dirt, cold and hardship.",
+    "vi": "<name> needs the finer things in life to thrive. [He/She] struggles to cope with little things like dirt, cold and hardship."
+  },
+  {
+    "key": "perk_info_Precious",
+    "type": 0,
+    "en": "<name> is thin skinned, delicate and nervy. It is important to keep [him/her] comfortable.",
+    "vi": "<name> is thin skinned, delicate and nervy. It is important to keep [him/her] comfortable."
+  },
+  {
+    "key": "perk_info_Whirlwind",
+    "type": 0,
+    "en": "<name> runs like the wind, fleet as a deer. [He/She] also walks at quite a clip.",
+    "vi": "<name> runs like the wind, fleet as a deer. [He/She] also walks at quite a clip."
+  },
+  {
+    "key": "perk_info_FleetFooted",
+    "type": 0,
+    "en": "It always feels as though <name> is one step ahead. [His/Her] long legs and rapid stride are the reason.",
+    "vi": "It always feels as though <name> is one step ahead. [His/Her] long legs and rapid stride are the reason."
+  },
+  {
+    "key": "perk_info_Brawny",
+    "type": 0,
+    "en": "<name> is powerful and carries out tough jobs effortlessly.",
+    "vi": "<name> is powerful and carries out tough jobs effortlessly."
+  },
+  {
+    "key": "perk_info_Sluggardly",
+    "type": 0,
+    "en": "Always tardy, always tired. <name> is short on punctuality and is slow to get things done.",
+    "vi": "Always tardy, always tired. <name> is short on punctuality and is slow to get things done."
+  },
+  {
+    "key": "perk_info_Laggardly",
+    "type": 0,
+    "en": "<name> struggles to keep up. [He/She] lags behind the others, and takes longer than most to perform the smallest task.",
+    "vi": "<name> struggles to keep up. [He/She] lags behind the others, and takes longer than most to perform the smallest task."
+  },
+  {
+    "key": "perk_info_Hefty",
+    "type": 0,
+    "en": "<name> is exceptionally large, practically a giant in fact. [He/She] is not built for speed.",
+    "vi": "<name> is exceptionally large, practically a giant in fact. [He/She] is not built for speed."
+  },
+  {
+    "key": "perk_info_SunSeeker",
+    "type": 0,
+    "en": "<name> comes alive when the sun is shining. A few golden rays is all it takes to bring out the best in [him/her].",
+    "vi": "<name> comes alive when the sun is shining. A few golden rays is all it takes to bring out the best in [him/her]."
+  },
+  {
+    "key": "perk_info_SnowWhite",
+    "type": 0,
+    "en": "<name> loves nothing better than the biting air and crisp frost of midwinter. [He/She] thrives in the cold.",
+    "vi": "<name> loves nothing better than the biting air and crisp frost of midwinter. [He/She] thrives in the cold."
+  },
+  {
+    "key": "perk_info_Washout",
+    "type": 0,
+    "en": "If there are rainclouds about, <name> is going to be very unhappy. Getting wet makes [him/her] as miserable as sin.",
+    "vi": "If there are rainclouds about, <name> is going to be very unhappy. Getting wet makes [him/her] as miserable as sin."
+  },
+  {
+    "key": "perk_info_Dullard",
+    "type": 0,
+    "en": "It takes <name> a long time to catch on to things, and [he/she] requires a lot of patience. Even then, <name> may not understand.",
+    "vi": "It takes <name> a long time to catch on to things, and [he/she] requires a lot of patience. Even then, <name> may not understand."
+  },
+  {
+    "key": "perk_info_Wise",
+    "type": 0,
+    "en": "<name> often sees things from a new angle, and thinks differently from most. [He/She] is a problem solver.",
+    "vi": "<name> often sees things from a new angle, and thinks differently from most. [He/She] is a problem solver."
+  },
+  {
+    "key": "perk_info_Erudite",
+    "type": 0,
+    "en": "<name> has a rare intellect, and could even be called gifted. [He/She] learns extremely quickly.",
+    "vi": "<name> has a rare intellect, and could even be called gifted. [He/She] learns extremely quickly."
+  },
+  {
+    "key": "perk_info_Bloodlust",
+    "type": 0,
+    "en": "<name> comes into [his/her] own in a fight, roused by the prospect of violent slaughter.",
+    "vi": "<name> comes into [his/her] own in a fight, roused by the prospect of violent slaughter."
+  },
+  {
+    "key": "perk_info_Callous",
+    "type": 0,
+    "en": "<name> is unmoved by human mortality. Flesh is a mere commodity, once the soul has fled.",
+    "vi": "<name> is unmoved by human mortality. Flesh is a mere commodity, once the soul has fled."
+  },
+  {
+    "key": "perk_info_Cannibal",
+    "type": 0,
+    "en": "<name> is a merciless butcher and devourer of men. [He/She] is fortified by human flesh.",
+    "vi": "<name> is a merciless butcher and devourer of men. [He/She] is fortified by human flesh."
+  },
+  {
+    "key": "perk_info_Gossipmonger",
+    "type": 0,
+    "en": "<name> makes it [his/her] business to know everyone's business, and to share it widely.",
+    "vi": "<name> makes it [his/her] business to know everyone's business, and to share it widely."
+  },
+  {
+    "key": "perk_info_BoneCollector",
+    "type": 0,
+    "en": "Where others see death, <name> sees potential. Bones remember, after all.",
+    "vi": "Where others see death, <name> sees potential. Bones remember, after all."
+  },
+  {
+    "key": "perk_info_Macabre",
+    "type": 0,
+    "en": "To <name>, rot is hallowed, and every mouldering corpse a tale well told.",
+    "vi": "To <name>, rot is hallowed, and every mouldering corpse a tale well told."
+  },
+  {
+    "key": "perk_info_Pyromancer",
+    "type": 0,
+    "en": "Smoke clings to <name> as shadow to bone, and embers stir at [his/her] passing.",
+    "vi": "Smoke clings to <name> as shadow to bone, and embers stir at [his/her] passing."
+  },
+  {
+    "key": "perk_info_SweetToothed",
+    "type": 0,
+    "en": "Some jest that <name> would barter gold for a pot of honey, and count the trade fair made.",
+    "vi": "Some jest that <name> would barter gold for a pot of honey, and count the trade fair made."
+  },
+  {
+    "key": "perk_info_Prophet",
+    "type": 0,
+    "en": "Often bedridden and of weak constitution, <name>'s foretelling of events quakes even the stoutest of hearts",
+    "vi": "Often bedridden and of weak constitution, <name>'s foretelling of events quakes even the stoutest of hearts"
+  },
+  {
+    "key": "perk_info_Mudskipper",
+    "type": 0,
+    "en": "<name> strides merrily through mire and fen, marsh and moor. The wetter, the better.",
+    "vi": "<name> strides merrily through mire and fen, marsh and moor. The wetter, the better."
+  },
+  {
+    "key": "perk_info_Flamekissed",
+    "type": 0,
+    "en": "<name> cowers before fire like a slave before a cruel master. Flames cling to [him/her] longer than most, carving dark, angry scars.",
+    "vi": "<name> cowers before fire like a slave before a cruel master. Flames cling to [him/her] longer than most, carving dark, angry scars."
+  },
+  {
+    "key": "perk_info_Riverborn",
+    "type": 0,
+    "en": "<name> glides through water like an eel, untroubled by wet or chill. Fish leap to [his/her] nets as if by old magic.",
+    "vi": "<name> glides through water like an eel, untroubled by wet or chill. Fish leap to [his/her] nets as if by old magic."
+  },
+  {
+    "key": "perk_info_Workshy",
+    "type": 0,
+    "en": "<name> is quick to slip away from honest toil, but [he/she] finds endless delight in song, games, and idle pleasures.",
+    "vi": "<name> is quick to slip away from honest toil, but [he/she] finds endless delight in song, games, and idle pleasures."
+  },
+  {
+    "key": "perk_info_Ironblood",
+    "type": 0,
+    "en": "<name> thrives on routine, drills and sparring. [He/She] trains relentlessly with an uncanny focus.",
+    "vi": "<name> thrives on routine, drills and sparring. [He/She] trains relentlessly with an uncanny focus."
+  },
+  {
+    "key": "perk_info_Bowdrunk",
+    "type": 0,
+    "en": "A quiver on the hip and a rhythm in the draw - <name> is obsessed with perfecting every shot.",
+    "vi": "A quiver on the hip and a rhythm in the draw - <name> is obsessed with perfecting every shot."
+  },
+  {
+    "key": "perk_info_Siegewise",
+    "type": 0,
+    "en": "<name> knows every cog, crank, and counterweight. When the war engines' thunder rises, [he/she] is already one step ahead.",
+    "vi": "<name> knows every cog, crank, and counterweight. When the war engines' thunder rises, [he/she] is already one step ahead."
+  },
+  {
+    "key": "perk_info_Wardenborn",
+    "type": 0,
+    "en": "<name> has a calm authority that settles even the most restless prisoner. [He/She] knows when to speak, when to watch, and when to turn the key.",
+    "vi": "<name> has a calm authority that settles even the most restless prisoner. [He/She] knows when to speak, when to watch, and when to turn the key."
+  },
+  {
+    "key": "perk_info_Pitiless",
+    "type": 0,
+    "en": "<name> strips prisoners, sneers at their pleas, and never remembers thier names. Mercy is not part of the job.",
+    "vi": "<name> strips prisoners, sneers at their pleas, and never remembers thier names. Mercy is not part of the job."
+  },
+  {
+    "key": "perk_info_Wildwyrd",
+    "type": 0,
+    "en": "<name> can soothe a raging goat or bring a wild dog to heel with a mere murmur. Creatures know to obey.",
+    "vi": "<name> can soothe a raging goat or bring a wild dog to heel with a mere murmur. Creatures know to obey."
+  },
+  {
+    "key": "perk_info_Herbivore",
+    "type": 0,
+    "en": "<name> eats only plants, not from piety but preference. Raw cabbages? Delicious.",
+    "vi": "<name> eats only plants, not from piety but preference. Raw cabbages? Delicious."
+  },
+  {
+    "key": "perk_info_Steadfast",
+    "type": 0,
+    "en": "Faced with torture, starvation, or hopelessness, <name> refuses to break. [He/She] has faced horror before, and kept walking.",
+    "vi": "Faced with torture, starvation, or hopelessness, <name> refuses to break. [He/She] has faced horror before, and kept walking."
+  },
+  {
+    "key": "perk_info_Nimbleblade",
+    "type": 0,
+    "en": "When <name> fights, it's like watching lightening dance. Not a scratch lands on [him/her], but the dead pile up fast.",
+    "vi": "When <name> fights, it's like watching lightening dance. Not a scratch lands on [him/her], but the dead pile up fast."
+  },
+  {
+    "key": "perk_info_Bloomer",
+    "type": 0,
+    "en": "Plants thrive under <name>’s touch. Even barren earth gives up roots and fruit for [him/her].",
+    "vi": "Plants thrive under <name>’s touch. Even barren earth gives up roots and fruit for [him/her]."
+  },
+  {
+    "key": "perk_info_Stoic",
+    "type": 0,
+    "en": "Accepts suffering with grace. Pain is but a passing shadow.",
+    "vi": "Accepts suffering with grace. Pain is but a passing shadow."
+  },
+  {
+    "key": "perk_info_Splinter",
+    "type": 0,
+    "en": "<name> sometimes wakes up screaming, convinced [he/she] isn't alone in [his/her] own mind. And maybe [he/she]'s right.",
+    "vi": "<name> sometimes wakes up screaming, convinced [he/she] isn't alone in [his/her] own mind. And maybe [he/she]'s right."
+  },
+  {
+    "key": "perk_info_Reeky",
+    "type": 0,
+    "en": "No matter how often <name> bathes, [he/she] has a distinct whiff of rot about [him/her]. Animals avoid <name>. So do people.",
+    "vi": "No matter how often <name> bathes, [he/she] has a distinct whiff of rot about [him/her]. Animals avoid <name>. So do people."
+  },
+  {
+    "key": "perk_info_Bareknuckled",
+    "type": 0,
+    "en": "<name> trusts flesh over forge. [He/She] strikes harder barehanded than most do with blades - none are left standing.",
+    "vi": "<name> trusts flesh over forge. [He/She] strikes harder barehanded than most do with blades - none are left standing."
+  },
+  {
+    "key": "perk_info_Beastmaster",
+    "type": 0,
+    "en": "Creatures yield to <name> as if bewitched by the Pied Piper of Hamelin. [He/She] tames beasts with neither fuss nor fear.",
+    "vi": "Creatures yield to <name> as if bewitched by the Pied Piper of Hamelin. [He/She] tames beasts with neither fuss nor fear."
+  },
+  {
+    "key": "negative_chemistry_towards_perks",
+    "type": 0,
+    "en": "Does not get along with:",
+    "vi": "Does not get along with:"
+  },
+  {
+    "key": "positive_chemistry_towards_perks",
+    "type": 0,
+    "en": "Gets along with:",
+    "vi": "Gets along with:"
+  },
+  {
+    "key": "effector_name_AffectionPerkChemistryPositive",
+    "type": 0,
+    "en": "I get along with:",
+    "vi": "I get along with:"
+  },
+  {
+    "key": "effector_name_AffectionPerkChemistryNegative",
+    "type": 0,
+    "en": "I don't get along with:",
+    "vi": "I don't get along with:"
+  },
+  {
+    "key": "dev_menu_combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Combat"
+  },
+  {
+    "key": "dev_set_mood_minus_10",
+    "type": 0,
+    "en": "Mood -10",
+    "vi": "Mood -10"
+  },
+  {
+    "key": "dev_set_mood_plus_10",
+    "type": 0,
+    "en": "Mood +10",
+    "vi": "Mood +10"
+  },
+  {
+    "key": "dev_add_xp_to_skill",
+    "type": 0,
+    "en": "Modify Skill XP",
+    "vi": "Modify Skill XP"
+  },
+  {
+    "key": "dev_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggle Combat Numbers",
+    "vi": "Toggle Combat Numbers"
+  },
+  {
+    "key": "dev_tooltip_mood_plus",
+    "type": 0,
+    "en": "Add +10 to the Settler's mood stat on mouse click.",
+    "vi": "Add +10 to the Settler's mood stat on mouse click."
+  },
+  {
+    "key": "dev_tooltip_mood_minus",
+    "type": 0,
+    "en": "Removes 10 from the Settler's mood stat on mouse click.",
+    "vi": "Removes 10 from the Settler's mood stat on mouse click."
+  },
+  {
+    "key": "dev_tooltip_add_xp_to_skill",
+    "type": 0,
+    "en": "Adds or Removes XP from a skill on mouse click.",
+    "vi": "Adds or Removes XP from a skill on mouse click."
+  },
+  {
+    "key": "dev_tooltip_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggles combat numbers.",
+    "vi": "Toggles combat numbers."
+  },
+  {
+    "key": "dev_tooltip_skill",
+    "type": 0,
+    "en": "Alters this skill on a Settler by the chosen amount on mouse click.",
+    "vi": "Alters this skill on a Settler by the chosen amount on mouse click."
+  },
+  {
+    "key": "dev_select_skill",
+    "type": 0,
+    "en": "Select skill to alter",
+    "vi": "Select skill to alter"
+  },
+  {
+    "key": "dev_particle_skillup_particles",
+    "type": 0,
+    "en": "Skill Level Up",
+    "vi": "Skill Level Up"
+  },
+  {
+    "key": "dev_add_perk",
+    "type": 0,
+    "en": "Add Perk",
+    "vi": "Add Perk"
+  },
+  {
+    "key": "dev_tooltip_add_perk",
+    "type": 0,
+    "en": "Click on a Settler to Add the selected Perk to them",
+    "vi": "Click on a Settler to Add the selected Perk to them"
+  }
+]

@@ -32,7 +32,14 @@ def main():
         run_cmd("python export_csv_mod.py", cwd=tb_dir)
         run_cmd("python deploy_to_game.py", cwd=tb_dir)
 
-    # 3. Git Add & Commit
+    # 3. Going Medieval
+    gm_dir = os.path.join(root_dir, "Going-Medieval")
+    if os.path.exists(gm_dir):
+        print("\n--- Exporting CSV & Deploying Going Medieval ---")
+        run_cmd("python export_csv_mod.py", cwd=gm_dir)
+        run_cmd("python deploy_to_game.py", cwd=gm_dir)
+
+    # 4. Git Add & Commit
     print("\n--- Staging & Committing to Git ---")
     run_cmd("git add -A", cwd=root_dir)
     msg = "Clean up temporary scripts and consolidate project structure"

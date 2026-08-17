@@ -1,0 +1,362 @@
+[
+  {
+    "key": "general_back_almanac",
+    "type": 0,
+    "en": "Previous",
+    "vi": "Previous"
+  },
+  {
+    "key": "hud_lb_Almanac",
+    "type": 0,
+    "en": "Almanac",
+    "vi": "Almanac"
+  },
+  {
+    "key": "history_title",
+    "type": 0,
+    "en": "History",
+    "vi": "History"
+  },
+  {
+    "key": "almanac_group_name_Equipment",
+    "type": 0,
+    "en": "Equipment",
+    "vi": "Equipment"
+  },
+  {
+    "key": "almanac_group_name_Produceable",
+    "type": 0,
+    "en": "Producible",
+    "vi": "Producible"
+  },
+  {
+    "key": "almanac_found_in",
+    "type": 0,
+    "en": "Found in",
+    "vi": "Found in"
+  },
+  {
+    "key": "ctrl_ShowHideAlmanac",
+    "type": 0,
+    "en": "Almanac",
+    "vi": "Almanac"
+  },
+  {
+    "key": "almanac_group_name_Animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Animals"
+  },
+  {
+    "key": "almanac_group_name_Apparel",
+    "type": 0,
+    "en": "Apparel",
+    "vi": "Apparel"
+  },
+  {
+    "key": "almanac_group_name_Armor",
+    "type": 0,
+    "en": "Armour",
+    "vi": "Armour"
+  },
+  {
+    "key": "almanac_group_name_Base",
+    "type": 0,
+    "en": "Base",
+    "vi": "Base"
+  },
+  {
+    "key": "almanac_group_name_Books",
+    "type": 0,
+    "en": "Books",
+    "vi": "Books"
+  },
+  {
+    "key": "almanac_group_name_Building",
+    "type": 0,
+    "en": "Building Material",
+    "vi": "Building Material"
+  },
+  {
+    "key": "almanac_group_name_Carcases",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Carcass"
+  },
+  {
+    "key": "almanac_group_name_Chemical",
+    "type": 0,
+    "en": "Chemical",
+    "vi": "Chemical"
+  },
+  {
+    "key": "almanac_group_name_Clothing",
+    "type": 0,
+    "en": "Clothing",
+    "vi": "Clothing"
+  },
+  {
+    "key": "almanac_group_name_Construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Construction"
+  },
+  {
+    "key": "almanac_group_name_Decoration",
+    "type": 0,
+    "en": "Miscellaneous",
+    "vi": "Miscellaneous"
+  },
+  {
+    "key": "almanac_group_name_Food",
+    "type": 0,
+    "en": "Food",
+    "vi": "Food"
+  },
+  {
+    "key": "almanac_group_name_Furniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Furniture"
+  },
+  {
+    "key": "almanac_group_name_Headware",
+    "type": 0,
+    "en": "Hats",
+    "vi": "Hats"
+  },
+  {
+    "key": "almanac_group_name_Index",
+    "type": 0,
+    "en": "Index",
+    "vi": "Index"
+  },
+  {
+    "key": "almanac_group_name_Life",
+    "type": 0,
+    "en": "Flora & Fauna",
+    "vi": "Flora & Fauna"
+  },
+  {
+    "key": "almanac_group_name_Manufactured",
+    "type": 0,
+    "en": "Manufactured",
+    "vi": "Manufactured"
+  },
+  {
+    "key": "almanac_group_name_Material",
+    "type": 0,
+    "en": "Materials",
+    "vi": "Materials"
+  },
+  {
+    "key": "almanac_group_name_Meal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Meal"
+  },
+  {
+    "key": "almanac_group_name_Melee",
+    "type": 0,
+    "en": "Melee",
+    "vi": "Melee"
+  },
+  {
+    "key": "almanac_group_name_Misc",
+    "type": 0,
+    "en": "Miscellaneous",
+    "vi": "Miscellaneous"
+  },
+  {
+    "key": "almanac_group_name_Plants",
+    "type": 0,
+    "en": "Plants",
+    "vi": "Plants"
+  },
+  {
+    "key": "almanac_group_name_Production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Production"
+  },
+  {
+    "key": "almanac_group_name_Ranged",
+    "type": 0,
+    "en": "Ranged",
+    "vi": "Ranged"
+  },
+  {
+    "key": "almanac_group_name_Raw",
+    "type": 0,
+    "en": "Raw Ingredient",
+    "vi": "Raw Ingredient"
+  },
+  {
+    "key": "almanac_group_name_Shields",
+    "type": 0,
+    "en": "Shields",
+    "vi": "Shields"
+  },
+  {
+    "key": "almanac_group_name_Systems",
+    "type": 0,
+    "en": "Systems",
+    "vi": "Systems"
+  },
+  {
+    "key": "almanac_group_name_Textiles",
+    "type": 0,
+    "en": "Textiles",
+    "vi": "Textiles"
+  },
+  {
+    "key": "almanac_group_name_Defense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "almanac_group_name_Waste",
+    "type": 0,
+    "en": "Waste",
+    "vi": "Waste"
+  },
+  {
+    "key": "almanac_group_name_Zone",
+    "type": 0,
+    "en": "Zone",
+    "vi": "Zone"
+  },
+  {
+    "key": "almanac_more_details",
+    "type": 0,
+    "en": "Open almanac for more details",
+    "vi": "Open almanac for more details"
+  },
+  {
+    "key": "almanac_group_name_Leisure",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Leisure"
+  },
+  {
+    "key": "almanac_group_name_Stimulants",
+    "type": 0,
+    "en": "Stimulants",
+    "vi": "Stimulants"
+  },
+  {
+    "key": "almanac_group_name_Medicine",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Medicine"
+  },
+  {
+    "key": "almanac_group_name_Unrefined",
+    "type": 0,
+    "en": "Raw Material",
+    "vi": "Raw Material"
+  },
+  {
+    "key": "almanac_group_name_Seeds",
+    "type": 0,
+    "en": "Seeds",
+    "vi": "Seeds"
+  },
+  {
+    "key": "almanac_group_name_Warfare",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Warfare"
+  },
+  {
+    "key": "almanac_group_name_Trophy",
+    "type": 0,
+    "en": "Trophies",
+    "vi": "Trophies"
+  },
+  {
+    "key": "almanac_group_name_Fermenting",
+    "type": 0,
+    "en": "Fermenting ingredients",
+    "vi": "Fermenting ingredients"
+  },
+  {
+    "key": "almanac_group_name_Fodder",
+    "type": 0,
+    "en": "Fodder",
+    "vi": "Fodder"
+  },
+  {
+    "key": "almanac_group_name_Gameplaytips",
+    "type": 0,
+    "en": "Gameplay Tips",
+    "vi": "Gameplay Tips"
+  },
+  {
+    "key": "almanac_group_name_Coin",
+    "type": 0,
+    "en": "Gold Coin",
+    "vi": "Gold Coin"
+  },
+  {
+    "key": "almanac_group_name_Ammo",
+    "type": 0,
+    "en": "Ammunition",
+    "vi": "Ammunition"
+  },
+  {
+    "key": "almanac_group_name_Projectile",
+    "type": 0,
+    "en": "Trebuchet Ammunition",
+    "vi": "Trebuchet Ammunition"
+  },
+  {
+    "key": "almanac_group_name_Pierce",
+    "type": 0,
+    "en": "Ballista Ammunition",
+    "vi": "Ballista Ammunition"
+  },
+  {
+    "key": "almanac_group_name_Multishot",
+    "type": 0,
+    "en": "Onager Ammunition",
+    "vi": "Onager Ammunition"
+  },
+  {
+    "key": "almanac_group_name_Simple",
+    "type": 0,
+    "en": "Simple Meal",
+    "vi": "Simple Meal"
+  },
+  {
+    "key": "almanac_group_name_Lavish",
+    "type": 0,
+    "en": "Lavish Meal",
+    "vi": "Lavish Meal"
+  },
+  {
+    "key": "almanac_group_name_Roomtypes",
+    "type": 0,
+    "en": "Room types",
+    "vi": "Room types"
+  },
+  {
+    "key": "almanac_group_name_Roletypes",
+    "type": 0,
+    "en": "Community Roles",
+    "vi": "Community Roles"
+  },
+  {
+    "key": "almanac_group_name_Eventypes",
+    "type": 0,
+    "en": "Event types",
+    "vi": "Event types"
+  },
+  {
+    "key": "almanac_group_name_Skillbooks",
+    "type": 0,
+    "en": "Textbooks",
+    "vi": "Textbooks"
+  }
+]

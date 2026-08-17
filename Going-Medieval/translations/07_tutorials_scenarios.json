@@ -1,0 +1,752 @@
+[
+  {
+    "key": "scenario_edit_clothes_title",
+    "type": 0,
+    "en": "Default Clothes",
+    "vi": "Default Clothes"
+  },
+  {
+    "key": "scenario_edit_clothes_info",
+    "type": 0,
+    "en": "Set of randomised clothing equipped on settlers at game start. ",
+    "vi": "Set of randomised clothing equipped on settlers at game start. "
+  },
+  {
+    "key": "scenario_edit_add_contition",
+    "type": 0,
+    "en": "Add conditions",
+    "vi": "Add conditions"
+  },
+  {
+    "key": "scenario_condition_Resources",
+    "type": 0,
+    "en": "Resources",
+    "vi": "Resources"
+  },
+  {
+    "key": "scenario_condition_Equipment",
+    "type": 0,
+    "en": "Equipment",
+    "vi": "Equipment"
+  },
+  {
+    "key": "scenario_condition_VillagerConstraints",
+    "type": 0,
+    "en": "Settler Constraints",
+    "vi": "Settler Constraints"
+  },
+  {
+    "key": "scenario_condition_VillagerStats",
+    "type": 0,
+    "en": "Settler Stats",
+    "vi": "Settler Stats"
+  },
+  {
+    "key": "scenario_condition_VillagerPerks",
+    "type": 0,
+    "en": "Settler Perks",
+    "vi": "Settler Perks"
+  },
+  {
+    "key": "scenario_condition_VillagerClothes",
+    "type": 0,
+    "en": "Settler Clothes",
+    "vi": "Settler Clothes"
+  },
+  {
+    "key": "scenario_condition_Technology",
+    "type": 0,
+    "en": "Research Items",
+    "vi": "Research Items"
+  },
+  {
+    "key": "scenario_condition_StructurePiles",
+    "type": 0,
+    "en": "Structure kits",
+    "vi": "Structure kits"
+  },
+  {
+    "key": "scenario_condition_Animals",
+    "type": 0,
+    "en": "Starting Animals",
+    "vi": "Starting Animals"
+  },
+  {
+    "key": "obsolete_scenario_message",
+    "type": 0,
+    "en": "Your custom scenario stored in <style=AltColor>\"<preset_name>.json\"</style> is obsolete and can't load.",
+    "vi": "Your custom scenario stored in <style=AltColor>\"<preset_name>.json\"</style> is obsolete and can't load."
+  },
+  {
+    "key": "scenario_details",
+    "type": 0,
+    "en": "Scenario Details",
+    "vi": "Scenario Details"
+  },
+  {
+    "key": "scenario_condition_MapTypes",
+    "type": 0,
+    "en": "Allowed Map Types",
+    "vi": "Allowed Map Types"
+  },
+  {
+    "key": "tutorial_start_warning_description",
+    "type": 0,
+    "en": "You are about to start the Tutorial. Do you want to proceed?",
+    "vi": "You are about to start the Tutorial. Do you want to proceed?"
+  },
+  {
+    "key": "tutorial_camera_control",
+    "type": 0,
+    "en": "Tutorial: Camera Control",
+    "vi": "Tutorial: Camera Control"
+  },
+  {
+    "key": "tutorial_camera_control_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Camera controls\\n</style>- Use the [<style=Shortcut>WASD</style>] keys to move your camera around.\\n- <style=Shortcut>Mouse wheel</style> is used to zoom in and out.\\n- Tilt and rotate holding down the <sprite=\"ctrl_middle_click\" index=t> and moving the mouse around.\\n- [<style=Shortcut>Num5</style>] will reset the camera to its initial position.<style=AlmParagraph>\\nAlternate controls\\n</style>- Use <style=Shortcut>Arrow Keys </style>: keys to move your camera around.\\n- Hold down <sprite=\"ctrl_right_click\" index=t> to pan camera. \\n- Use [<style=Shortcut>+</style>]&[<style=Shortcut>-</style>] to zoom in and out. \\n- Use [<style=Shortcut>Num7</style>] & [<style=Shortcut>Num9</style>] to rotate and [<style=Shortcut>Num8</style>] and [<style=Shortcut>Num2</style>] to tilt. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc> Customize the camera controls in the options menu.</style>\\n",
+    "vi": "<style=AlmParagraph>Camera controls\\n</style>- Use the [<style=Shortcut>WASD</style>] keys to move your camera around.\\n- <style=Shortcut>Mouse wheel</style> is used to zoom in and out.\\n- Tilt and rotate holding down the <sprite=\"ctrl_middle_click\" index=t> and moving the mouse around.\\n- [<style=Shortcut>Num5</style>] will reset the camera to its initial position.<style=AlmParagraph>\\nAlternate controls\\n</style>- Use <style=Shortcut>Arrow Keys </style>: keys to move your camera around.\\n- Hold down <sprite=\"ctrl_right_click\" index=t> to pan camera. \\n- Use [<style=Shortcut>+</style>]&[<style=Shortcut>-</style>] to zoom in and out. \\n- Use [<style=Shortcut>Num7</style>] & [<style=Shortcut>Num9</style>] to rotate and [<style=Shortcut>Num8</style>] and [<style=Shortcut>Num2</style>] to tilt. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc> Customize the camera controls in the options menu.</style>\\n"
+  },
+  {
+    "key": "tutorial_construction",
+    "type": 0,
+    "en": "Tutorial: Construction",
+    "vi": "Tutorial: Construction"
+  },
+  {
+    "key": "tutorial_construction_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Construction\\n</style>- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut>F1</style>] in a rectangle, then adding a wooden door and thatched roof over it. \\n- Place sleeping spots from the furniture panel [<style=Shortcut>F3</style>] inside so your settlers have somewhere to sleep.",
+    "vi": "<style=AlmParagraph>Construction\\n</style>- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut>F1</style>] in a rectangle, then adding a wooden door and thatched roof over it. \\n- Place sleeping spots from the furniture panel [<style=Shortcut>F3</style>] inside so your settlers have somewhere to sleep."
+  },
+  {
+    "key": "tutorial_drafting_combat",
+    "type": 0,
+    "en": "Tutorial: Drafting & Combat",
+    "vi": "Tutorial: Drafting & Combat"
+  },
+  {
+    "key": "tutorial_drafting_combat_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Drafting & Combat\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel. \\n- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- During combat an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>",
+    "vi": "<style=AlmParagraph>Drafting & Combat\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel. \\n- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- During combat an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>"
+  },
+  {
+    "key": "tutorial_equipment",
+    "type": 0,
+    "en": "Tutorial: Equipment",
+    "vi": "Tutorial: Equipment"
+  },
+  {
+    "key": "tutorial_equipment_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Equipment\\n</style>- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler and <sprite=\"ctrl_right_click\" index=t> on an item and order them to equip it. \\n<style=AlmParagraph>\\nTip\\n</style><style=Desc>- Examine which of your settlers is proficient with melee or ranged weapons and equip accordingly.</style>",
+    "vi": "<style=AlmParagraph>Equipment\\n</style>- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler and <sprite=\"ctrl_right_click\" index=t> on an item and order them to equip it. \\n<style=AlmParagraph>\\nTip\\n</style><style=Desc>- Examine which of your settlers is proficient with melee or ranged weapons and equip accordingly.</style>"
+  },
+  {
+    "key": "tutorial_game_speed",
+    "type": 0,
+    "en": "Tutorial: Game Speed",
+    "vi": "Tutorial: Game Speed"
+  },
+  {
+    "key": "tutorial_game_speed_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Game speed controls\\n</style>- You can speed up time.\\n- Click on the speed keys. \\n- Or use [<style=Shortcut>1</style>],[<style=Shortcut>2</style>],[<style=Shortcut>3</style>].\\n- Pressing [<style=Shortcut>Space</style>] will pause the game. \\n- You can give orders, place buildings, and draft while the game is paused.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>This is especially useful if things get hectic.</style>",
+    "vi": "<style=AlmParagraph>Game speed controls\\n</style>- You can speed up time.\\n- Click on the speed keys. \\n- Or use [<style=Shortcut>1</style>],[<style=Shortcut>2</style>],[<style=Shortcut>3</style>].\\n- Pressing [<style=Shortcut>Space</style>] will pause the game. \\n- You can give orders, place buildings, and draft while the game is paused.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>This is especially useful if things get hectic.</style>"
+  },
+  {
+    "key": "tutorial_jobs",
+    "type": 0,
+    "en": "Tutorial: Jobs",
+    "vi": "Tutorial: Jobs"
+  },
+  {
+    "key": "tutorial_jobs_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Job Priorities\\n</style>- The <b>JOB</b> panel is where you can prioritize each settler's tasks.\\n- By default, settlers will prioritize their jobs from left to right.\\n- Using <sprite=\"ctrl_left_click\" index=t> and <sprite=\"ctrl_right_click\" index=t>, you can change job priorities so that a given settler will choose one job before another.\\n- Jobs set to the same priority level will be prioritized left to right.\\n- If the job box is empty, that means that a settler will never do that job.\\n- Settlers will always do the highest priority job that they can find.\\n- If a specific job is not on anyone's priority list, that job will never get done.\\n- The frame colour of a job box indicates the settler's skill level.\n<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>If a settler has a very low skill rating for a specific job, it is better to turn that job off completely for that settler - otherwise, there is a chance they'll do the job and fail. This is important when it comes to things like harvesting. Example: a settler with a low botanical skill level could end up ruining the harvest, yielding no resources. So it's best to let them focus on what they do best!</style>",
+    "vi": "<style=AlmParagraph>Job Priorities\\n</style>- The <b>JOB</b> panel is where you can prioritize each settler's tasks.\\n- By default, settlers will prioritize their jobs from left to right.\\n- Using <sprite=\"ctrl_left_click\" index=t> and <sprite=\"ctrl_right_click\" index=t>, you can change job priorities so that a given settler will choose one job before another.\\n- Jobs set to the same priority level will be prioritized left to right.\\n- If the job box is empty, that means that a settler will never do that job.\\n- Settlers will always do the highest priority job that they can find.\\n- If a specific job is not on anyone's priority list, that job will never get done.\\n- The frame colour of a job box indicates the settler's skill level.\n<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>If a settler has a very low skill rating for a specific job, it is better to turn that job off completely for that settler - otherwise, there is a chance they'll do the job and fail. This is important when it comes to things like harvesting. Example: a settler with a low botanical skill level could end up ruining the harvest, yielding no resources. So it's best to let them focus on what they do best!</style>"
+  },
+  {
+    "key": "tutorial_layer_control",
+    "type": 0,
+    "en": "Tutorial: World Layers",
+    "vi": "Tutorial: World Layers"
+  },
+  {
+    "key": "tutorial_layer_control_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>World Layers\\n</style>- You can shuffle between layers and building floors.\\n- Use the up or down layer buttons in the top left corner.\\n- Or use [<style=Shortcut>,</style>] and [<style=Shortcut>.</style>].\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly go through layers.\\nUse [<style=Shortcut>Ctrl</style>]  + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that given layer. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- This is useful for customizing multistorey buildings.</style>",
+    "vi": "<style=AlmParagraph>World Layers\\n</style>- You can shuffle between layers and building floors.\\n- Use the up or down layer buttons in the top left corner.\\n- Or use [<style=Shortcut>,</style>] and [<style=Shortcut>.</style>].\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly go through layers.\\nUse [<style=Shortcut>Ctrl</style>]  + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that given layer. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- This is useful for customizing multistorey buildings.</style>"
+  },
+  {
+    "key": "tutorial_move",
+    "type": 0,
+    "en": "Tutorial: Control Settlers",
+    "vi": "Tutorial: Control Settlers"
+  },
+  {
+    "key": "tutorial_move_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Positioning & Movement\\n</style>- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- During combat, an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. \\n- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>",
+    "vi": "<style=AlmParagraph>Positioning & Movement\\n</style>- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- During combat, an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. \\n- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>"
+  },
+  {
+    "key": "tutorial_orders",
+    "type": 0,
+    "en": "Tutorial: Orders",
+    "vi": "Tutorial: Orders"
+  },
+  {
+    "key": "tutorial_orders_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Orders\\n</style>- Issue orders to your settlers with the order tools in the lower right corner.\\n- Try selecting the chop tool and <sprite=\"ctrl_left_click\" index=t> + drag it over some trees you want to cut down.",
+    "vi": "<style=AlmParagraph>Orders\\n</style>- Issue orders to your settlers with the order tools in the lower right corner.\\n- Try selecting the chop tool and <sprite=\"ctrl_left_click\" index=t> + drag it over some trees you want to cut down."
+  },
+  {
+    "key": "tutorial_production",
+    "type": 0,
+    "en": "Tutorial: Production",
+    "vi": "Tutorial: Production"
+  },
+  {
+    "key": "tutorial_production_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Production\\n</style>- To start producing something, select a workstation, and add a product from the product list. \\n- Set the number of products you want your settlers to make. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Set the food production to “Until you have” mode so your settlers will continually produce if they have material, up to the required number.</style>",
+    "vi": "<style=AlmParagraph>Production\\n</style>- To start producing something, select a workstation, and add a product from the product list. \\n- Set the number of products you want your settlers to make. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Set the food production to “Until you have” mode so your settlers will continually produce if they have material, up to the required number.</style>"
+  },
+  {
+    "key": "tutorial_research",
+    "type": 0,
+    "en": "Tutorial: Research",
+    "vi": "Tutorial: Research"
+  },
+  {
+    "key": "tutorial_research_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Research\\n</style>- Unlock new building options and production types in the research panel. \\n- Various forms of knowledge in the form of books are available to unlock research items.\\n- Unlocked research items will not consume the books. \\n- Take care of your books, having them destroyed or stolen will disable unlocking new research items until the previously allocated amount is reached. \\n- Books (Chronicle, Textbook, Thesis) are produced at research tables (<LinkAlmanac=\"Basicresearchtable\">Basic Research Table</link>, <LinkAlmanac=\"Researchtable\">Research Table</link>, <LinkAlmanac=\"Advancedresearchtable\">Advanced Research Table</link>)",
+    "vi": "<style=AlmParagraph>Research\\n</style>- Unlock new building options and production types in the research panel. \\n- Various forms of knowledge in the form of books are available to unlock research items.\\n- Unlocked research items will not consume the books. \\n- Take care of your books, having them destroyed or stolen will disable unlocking new research items until the previously allocated amount is reached. \\n- Books (Chronicle, Textbook, Thesis) are produced at research tables (<LinkAlmanac=\"Basicresearchtable\">Basic Research Table</link>, <LinkAlmanac=\"Researchtable\">Research Table</link>, <LinkAlmanac=\"Advancedresearchtable\">Advanced Research Table</link>)"
+  },
+  {
+    "key": "tutorial_schedule",
+    "type": 0,
+    "en": "Tutorial: Schedule",
+    "vi": "Tutorial: Schedule"
+  },
+  {
+    "key": "tutorial_schedule_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Schedule panel\\n</style>- You can use the <b>SCHEDULE</b> panel to modify the time of day your settler should do each type of activity.",
+    "vi": "<style=AlmParagraph>Schedule panel\\n</style>- You can use the <b>SCHEDULE</b> panel to modify the time of day your settler should do each type of activity."
+  },
+  {
+    "key": "tutorial_select",
+    "type": 0,
+    "en": "Tutorial: Draft Settlers",
+    "vi": "Tutorial: Draft Settlers"
+  },
+  {
+    "key": "tutorial_select_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Draft\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- You can select multiple settlers and then draft them. \\n- Use the settler panel on the left to quickly select a single settler, or use [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> to select multiple. </style>",
+    "vi": "<style=AlmParagraph>Draft\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- You can select multiple settlers and then draft them. \\n- Use the settler panel on the left to quickly select a single settler, or use [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> to select multiple. </style>"
+  },
+  {
+    "key": "tutorial_stockpile",
+    "type": 0,
+    "en": "Tutorial: Stockpile",
+    "vi": "Tutorial: Stockpile"
+  },
+  {
+    "key": "tutorial_stockpile_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Stockpile\\n</style>- Your settlers need somewhere to store resources.\\n- You need to designate a stockpile zone.\\n- Choose the default stockpile from the zone panel [<style=Shortcut>F7</style>] in the lower left of the screen.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Place stockpiles under roofs or inside to slow down resources' decay.</style>",
+    "vi": "<style=AlmParagraph>Stockpile\\n</style>- Your settlers need somewhere to store resources.\\n- You need to designate a stockpile zone.\\n- Choose the default stockpile from the zone panel [<style=Shortcut>F7</style>] in the lower left of the screen.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Place stockpiles under roofs or inside to slow down resources' decay.</style>"
+  },
+  {
+    "key": "tutorial_welcome",
+    "type": 0,
+    "en": "Welcome",
+    "vi": "Welcome"
+  },
+  {
+    "key": "tutorial_welcome_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Welcome To Going Medieval\\n</style>- Please bear in mind that the game is under Heavy development. This means that the game will have some bugs and unfinished systems. <b>You can consult the Almanac for help and tutorials.</b>",
+    "vi": "<style=AlmParagraph>Welcome To Going Medieval\\n</style>- Please bear in mind that the game is under Heavy development. This means that the game will have some bugs and unfinished systems. <b>You can consult the Almanac for help and tutorials.</b>"
+  },
+  {
+    "key": "tutorial_mood_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Mood\\n</style>- Mood represents your settlers' happiness.\\n- Be sure to check on your settlers’ mood often.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and a fair amount of leisure time can help keep your settlers’ spirits high.",
+    "vi": "<style=AlmParagraph>Mood\\n</style>- Mood represents your settlers' happiness.\\n- Be sure to check on your settlers’ mood often.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and a fair amount of leisure time can help keep your settlers’ spirits high."
+  },
+  {
+    "key": "tutorial_manage_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Manage\\n</style>- Use the manage panel to determine which items your settlers will auto-equip, what food and alcohol they are allowed to consume, etc.\\n- You can still force settlers to consume or equip something using the right-click action menu. ",
+    "vi": "<style=AlmParagraph>Manage\\n</style>- Use the manage panel to determine which items your settlers will auto-equip, what food and alcohol they are allowed to consume, etc.\\n- You can still force settlers to consume or equip something using the right-click action menu. "
+  },
+  {
+    "key": "tutorial_defence_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Defence\\n</style>- Use structures like merlons to your advantage to cover your archers from enemy projectiles.\\n- Place archers on higher ground so they get a buff in precision, range, and critical hit chance.\\n- Place traps strategically around your settlement to weaken your enemies.",
+    "vi": "<style=AlmParagraph>Defence\\n</style>- Use structures like merlons to your advantage to cover your archers from enemy projectiles.\\n- Place archers on higher ground so they get a buff in precision, range, and critical hit chance.\\n- Place traps strategically around your settlement to weaken your enemies."
+  },
+  {
+    "key": "tutorial_mood",
+    "type": 0,
+    "en": "Tutorial: Mood",
+    "vi": "Tutorial: Mood"
+  },
+  {
+    "key": "tutorial_manage",
+    "type": 0,
+    "en": "Tutorial: Manage",
+    "vi": "Tutorial: Manage"
+  },
+  {
+    "key": "tutorial_defence",
+    "type": 0,
+    "en": "Tutorial: Defence",
+    "vi": "Tutorial: Defence"
+  },
+  {
+    "key": "tutorial_forbid",
+    "type": 0,
+    "en": "Tutorial: Forbid/Allow",
+    "vi": "Tutorial: Forbid/Allow"
+  },
+  {
+    "key": "tutorial_forbid_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Forbid/Allow\\n</style>- Settlers will not interact with items that are marked as forbidden.\\n- Forbidden items will have a forbidden sign over them.\\n- You can allow forbidden items by using the allow order or by selecting the item and selecting the allow action. ",
+    "vi": "<style=AlmParagraph>Forbid/Allow\\n</style>- Settlers will not interact with items that are marked as forbidden.\\n- Forbidden items will have a forbidden sign over them.\\n- You can allow forbidden items by using the allow order or by selecting the item and selecting the allow action. "
+  },
+  {
+    "key": "tutorial_region",
+    "type": 0,
+    "en": "Tutorial: Region",
+    "vi": "Tutorial: Region"
+  },
+  {
+    "key": "tutorial_trading",
+    "type": 0,
+    "en": "Tutorial: Bartering",
+    "vi": "Tutorial: Bartering"
+  },
+  {
+    "key": "tutorial_initiate_trading",
+    "type": 0,
+    "en": "Tutorial: Initiate Bartering",
+    "vi": "Tutorial: Initiate Bartering"
+  },
+  {
+    "key": "tutorial_friendliness",
+    "type": 0,
+    "en": "Tutorial: Alignment",
+    "vi": "Tutorial: Alignment"
+  },
+  {
+    "key": "tutorial_trading_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Bartering\\n</style>- Bartering functions by exchanging resources and items with a Merchant.\\n- You can request resources only if you proffer something in return with the same or similar value.\\n- The settler making the trade can influence prices, and can also negotiate to get more than they offered.\\n\\n- Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards the Merchant's faction.\\n- The value of resources is determined by merchant type, faction, alignment, and even time of year.\n",
+    "vi": "<style=AlmParagraph>Bartering\\n</style>- Bartering functions by exchanging resources and items with a Merchant.\\n- You can request resources only if you proffer something in return with the same or similar value.\\n- The settler making the trade can influence prices, and can also negotiate to get more than they offered.\\n\\n- Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards the Merchant's faction.\\n- The value of resources is determined by merchant type, faction, alignment, and even time of year.\n"
+  },
+  {
+    "key": "tutorial_region_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Region\\n</style>- You can see what factions and faction settlements are in your region.\\n- Form a caravan and send your settlers to trade with other settlements by selecting a settlement and clicking the <b>send caravan</b> button.\n",
+    "vi": "<style=AlmParagraph>Region\\n</style>- You can see what factions and faction settlements are in your region.\\n- Form a caravan and send your settlers to trade with other settlements by selecting a settlement and clicking the <b>send caravan</b> button.\n"
+  },
+  {
+    "key": "tutorial_friendliness_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Alignment\\n</style>- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n",
+    "vi": "<style=AlmParagraph>Alignment\\n</style>- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n"
+  },
+  {
+    "key": "tutorial_initiate_trading_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Initiate Bartering\\n</style>- To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter with</b> option.",
+    "vi": "<style=AlmParagraph>Initiate Bartering\\n</style>- To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter with</b> option."
+  },
+  {
+    "key": "tutorial_move_structures",
+    "type": 0,
+    "en": "Tutorial: Relocate Structures",
+    "vi": "Tutorial: Relocate Structures"
+  },
+  {
+    "key": "tutorial_move_structures_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Relocate Structures\\n</style>- Smaller structures like furniture, workstations and decorations can be easily relocated: Select an already-constructed structure and click on the relocate button. Then select a new location.\\n\\n- Structures that are removed will turn into a resource pile and can be stored on stockpiles, and even traded with Merchants.\n",
+    "vi": "<style=AlmParagraph>Relocate Structures\\n</style>- Smaller structures like furniture, workstations and decorations can be easily relocated: Select an already-constructed structure and click on the relocate button. Then select a new location.\\n\\n- Structures that are removed will turn into a resource pile and can be stored on stockpiles, and even traded with Merchants.\n"
+  },
+  {
+    "key": "tutorial_farming",
+    "type": 0,
+    "en": "Tutorial: Farming",
+    "vi": "Tutorial: Farming"
+  },
+  {
+    "key": "tutorial_farming_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Farming\\n</style>- Sow crop fields to ensure a steady supply of food for the upcoming winter. \\n- Choose a crop from the zone panel [<style=Shortcut>F7</style>], then drag it to the required size.\\n- You need appropriate supplies of seeds and saplings in order to sow.\\n- New varieties of crop fields will be unlocked as you acquire new seed types, either by foraging, or from merchants. \\n- Remember that plants need sunlight. Sow crops in the open, away from trees or structures that will create shade. Days are shorter in winter and early spring, so try to avoid sowing plants during this time.",
+    "vi": "<style=AlmParagraph>Farming\\n</style>- Sow crop fields to ensure a steady supply of food for the upcoming winter. \\n- Choose a crop from the zone panel [<style=Shortcut>F7</style>], then drag it to the required size.\\n- You need appropriate supplies of seeds and saplings in order to sow.\\n- New varieties of crop fields will be unlocked as you acquire new seed types, either by foraging, or from merchants. \\n- Remember that plants need sunlight. Sow crops in the open, away from trees or structures that will create shade. Days are shorter in winter and early spring, so try to avoid sowing plants during this time."
+  },
+  {
+    "key": "tutorial_animals",
+    "type": 0,
+    "en": "Tutorial: Animals",
+    "vi": "Tutorial: Animals"
+  },
+  {
+    "key": "tutorial_animals_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Animals\\n</style><b>Wild Animals</b>\\n- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.\\n\\n<b>Domestic Animals</b>\\n- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.\\n<b>Pets</b>\\n- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement. ",
+    "vi": "<style=AlmParagraph>Animals\\n</style><b>Wild Animals</b>\\n- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.\\n\\n<b>Domestic Animals</b>\\n- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.\\n<b>Pets</b>\\n- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement. "
+  },
+  {
+    "key": "tutorial_wild_animals",
+    "type": 0,
+    "en": "Tutorial: Wild Animals",
+    "vi": "Tutorial: Wild Animals"
+  },
+  {
+    "key": "tutorial_wild_animals_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Wild Animals\\n</style>- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.",
+    "vi": "<style=AlmParagraph>Wild Animals\\n</style>- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon."
+  },
+  {
+    "key": "tutorial_domestic_animals",
+    "type": 0,
+    "en": "Tutorial: Domestic Animals",
+    "vi": "Tutorial: Domestic Animals"
+  },
+  {
+    "key": "tutorial_domestic_animals_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Domestic Animals\\n</style>- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.",
+    "vi": "<style=AlmParagraph>Domestic Animals\\n</style>- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area."
+  },
+  {
+    "key": "tutorial_pet_animals",
+    "type": 0,
+    "en": "Tutorial: Pets",
+    "vi": "Tutorial: Pets"
+  },
+  {
+    "key": "tutorial_pet_animals_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Pets\\n</style>- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement.",
+    "vi": "<style=AlmParagraph>Pets\\n</style>- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement."
+  },
+  {
+    "key": "tutorial_selection_forbidden",
+    "type": 0,
+    "en": "Objects cannot be selected during this tutorial step",
+    "vi": "Objects cannot be selected during this tutorial step"
+  },
+  {
+    "key": "tutorial_not_available",
+    "type": 0,
+    "en": "This functionality is not enabled during the tutorial",
+    "vi": "This functionality is not enabled during the tutorial"
+  },
+  {
+    "key": "tutorial_stash_found",
+    "type": 0,
+    "en": "Secret stash found!",
+    "vi": "Secret stash found!"
+  },
+  {
+    "key": "tutorial_wrong_construction_size",
+    "type": 0,
+    "en": "Building must be placed precisely on the marked area",
+    "vi": "Building must be placed precisely on the marked area"
+  },
+  {
+    "key": "tutorial_wrong_construction_position",
+    "type": 0,
+    "en": "Place building on the marked area",
+    "vi": "Place building on the marked area"
+  },
+  {
+    "key": "tutorial_wrong_construction_rotation",
+    "type": 0,
+    "en": "Rotate the building in the marked direction",
+    "vi": "Rotate the building in the marked direction"
+  },
+  {
+    "key": "tutorial_wrong_roof_size",
+    "type": 0,
+    "en": "Drag roofs to cover full building length {0}",
+    "vi": "Drag roofs to cover full building length {0}"
+  },
+  {
+    "key": "tutorial_warning_description",
+    "type": 0,
+    "en": "This seems to be the first time you are running Going Medieval. We suggest you go through the tutorial scenario if you have not played colony sim games before.",
+    "vi": "This seems to be the first time you are running Going Medieval. We suggest you go through the tutorial scenario if you have not played colony sim games before."
+  },
+  {
+    "key": "tutorial_warning_answer_new_game",
+    "type": 0,
+    "en": "No thanks, I'm good",
+    "vi": "No thanks, I'm good"
+  },
+  {
+    "key": "tutorial_warning_answer_tutorial",
+    "type": 0,
+    "en": "Let's play the tutorial first",
+    "vi": "Let's play the tutorial first"
+  },
+  {
+    "key": "more_info_scenario",
+    "type": 0,
+    "en": "The scenario <style=DefaultYellow>A New Life</style> is recommended for those new to Going Medieval. You begin with three settlers and a good amount of supplies. You start in Spring, which gives plenty of time to stock up before the harsh Winter arrives.\\n\\n Additional settings and details for each scenario are available, but we recommend sticking with the defaults for your first settlement.",
+    "vi": "The scenario <style=DefaultYellow>A New Life</style> is recommended for those new to Going Medieval. You begin with three settlers and a good amount of supplies. You start in Spring, which gives plenty of time to stock up before the harsh Winter arrives.\\n\\n Additional settings and details for each scenario are available, but we recommend sticking with the defaults for your first settlement."
+  },
+  {
+    "key": "tutorial_game_paused",
+    "type": 0,
+    "en": "Game paused",
+    "vi": "Game paused"
+  },
+  {
+    "key": "tutorial_game_unpaused",
+    "type": 0,
+    "en": "Game unpaused",
+    "vi": "Game unpaused"
+  },
+  {
+    "key": "options_show_tutorials",
+    "type": 0,
+    "en": "Show Tutorial tips",
+    "vi": "Show Tutorial tips"
+  },
+  {
+    "key": "tutorial_loading_screen_title",
+    "type": 0,
+    "en": "Tutorial",
+    "vi": "Tutorial"
+  },
+  {
+    "key": "tutorial_loading_screen_description",
+    "type": 0,
+    "en": "This is a temporary map which has been designed to teach you the basic controls and introduce you to some of the systems Going Medieval has to offer.\\n\\nWhen the tutorial is over, you can start your first 'proper' settlement!",
+    "vi": "This is a temporary map which has been designed to teach you the basic controls and introduce you to some of the systems Going Medieval has to offer.\\n\\nWhen the tutorial is over, you can start your first 'proper' settlement!"
+  },
+  {
+    "key": "scenario_default_1_title",
+    "type": 0,
+    "en": "A New Life",
+    "vi": "A New Life"
+  },
+  {
+    "key": "scenario_default_1_info",
+    "type": 0,
+    "en": "Each settler has a story about the past they left far behind. But now, this tattered group has a common goal: to build a new home, together.",
+    "vi": "Each settler has a story about the past they left far behind. But now, this tattered group has a common goal: to build a new home, together."
+  },
+  {
+    "key": "scenario_default_1_narrative",
+    "type": 0,
+    "en": "The plague had ravaged the British Isles, leaving a trail of destruction in its wake. Untold millions went to an early grave. And those left standing were plunged into poverty, brutally scarred by the horrors that they had witnessed. Nothing would ever be the same again.\\n\\n<season_description> of the year <year>, <all_villagers> set off into the wilderness to claim a piece of the land as their own, as was their right, in the eyes of God and under the Law. Here, they may lay down the foundations for some kind of future. Perhaps hope will follow.",
+    "vi": "The plague had ravaged the British Isles, leaving a trail of destruction in its wake. Untold millions went to an early grave. And those left standing were plunged into poverty, brutally scarred by the horrors that they had witnessed. Nothing would ever be the same again.\\n\\n<season_description> of the year <year>, <all_villagers> set off into the wilderness to claim a piece of the land as their own, as was their right, in the eyes of God and under the Law. Here, they may lay down the foundations for some kind of future. Perhaps hope will follow."
+  },
+  {
+    "key": "scenario_default_3_title",
+    "type": 0,
+    "en": "Lone Wolf",
+    "vi": "Lone Wolf"
+  },
+  {
+    "key": "scenario_default_3_info",
+    "type": 0,
+    "en": "This settler starts alone, with meagre resources in the harshest of conditions.",
+    "vi": "This settler starts alone, with meagre resources in the harshest of conditions."
+  },
+  {
+    "key": "scenario_default_3_narrative",
+    "type": 0,
+    "en": "Through a blizzard, the last hunting party of the year returns. One member is missing, presumed dead. Far from what passes for civilization, <random_villager> is on [his/her] own. [He/She] grits [his/her] teeth and resolves to build a home in the wilderness, to shelter from the biting cold. The only sound is the distant call of wolves.",
+    "vi": "Through a blizzard, the last hunting party of the year returns. One member is missing, presumed dead. Far from what passes for civilization, <random_villager> is on [his/her] own. [He/She] grits [his/her] teeth and resolves to build a home in the wilderness, to shelter from the biting cold. The only sound is the distant call of wolves."
+  },
+  {
+    "key": "scenario_default_2_title",
+    "type": 0,
+    "en": "Peaceful",
+    "vi": "Peaceful"
+  },
+  {
+    "key": "scenario_default_2_info",
+    "type": 0,
+    "en": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers.",
+    "vi": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers."
+  },
+  {
+    "key": "scenario_default_2_narrative",
+    "type": 0,
+    "en": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?",
+    "vi": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?"
+  },
+  {
+    "key": "scenario_default_4_title",
+    "type": 0,
+    "en": "Pioneer",
+    "vi": "Pioneer"
+  },
+  {
+    "key": "scenario_default_4_info",
+    "type": 0,
+    "en": "Start with 3 settlers. Survive an onslaught of unpredictable enemy attacks.",
+    "vi": "Start with 3 settlers. Survive an onslaught of unpredictable enemy attacks."
+  },
+  {
+    "key": "scenario_default_4_narrative",
+    "type": 0,
+    "en": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
+    "vi": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'"
+  },
+  {
+    "key": "scenario_additional_info",
+    "type": 0,
+    "en": "- Difficulty: <style=DefaultYellow>{0}</style> \\n\\n - Starting Season: <style=DefaultYellow>{1}</style>\\n\\n - Number of settlers: <style=DefaultYellow>{2}</style>",
+    "vi": "- Difficulty: <style=DefaultYellow>{0}</style> \\n\\n - Starting Season: <style=DefaultYellow>{1}</style>\\n\\n - Number of settlers: <style=DefaultYellow>{2}</style>"
+  },
+  {
+    "key": "scenario_difficulty_VeryEasy",
+    "type": 0,
+    "en": "Easy",
+    "vi": "Easy"
+  },
+  {
+    "key": "scenario_difficulty_standard",
+    "type": 0,
+    "en": "Beginner (Recommended for new players )",
+    "vi": "Beginner (Recommended for new players )"
+  },
+  {
+    "key": "scenario_difficulty_Difficult",
+    "type": 0,
+    "en": "Experienced",
+    "vi": "Experienced"
+  },
+  {
+    "key": "scenario_edit_name_title",
+    "type": 0,
+    "en": "Scenario name",
+    "vi": "Scenario name"
+  },
+  {
+    "key": "scenario_edit_name_info",
+    "type": 0,
+    "en": "Enter the name of the scenario you are creating.",
+    "vi": "Enter the name of the scenario you are creating."
+  },
+  {
+    "key": "scenario_edit_description_title",
+    "type": 0,
+    "en": "Short description",
+    "vi": "Short description"
+  },
+  {
+    "key": "scenario_edit_description_info",
+    "type": 0,
+    "en": "Short description of your scenario. It will appear in the scenario selection screen.",
+    "vi": "Short description of your scenario. It will appear in the scenario selection screen."
+  },
+  {
+    "key": "scenario_edit_narrative_title",
+    "type": 0,
+    "en": "Starting narrative",
+    "vi": "Starting narrative"
+  },
+  {
+    "key": "scenario_edit_narrative_info",
+    "type": 0,
+    "en": "The starting narrative will appear in the historical records as well as the loading screen. Using special elements like:\\n<village_name> will insert the name of your settlement in the text\\n<year> Will insert the starting year in your text\\n<all_villagers> will insert all settler names in the format: \"John, Jack and Merry\" ",
+    "vi": "The starting narrative will appear in the historical records as well as the loading screen. Using special elements like:\\n<village_name> will insert the name of your settlement in the text\\n<year> Will insert the starting year in your text\\n<all_villagers> will insert all settler names in the format: \"John, Jack and Merry\" "
+  },
+  {
+    "key": "scenario_edit_gender_title",
+    "type": 0,
+    "en": "Force Body Type",
+    "vi": "Force Body Type"
+  },
+  {
+    "key": "scenario_edit_gender_key",
+    "type": 0,
+    "en": "Determine the percentage of masculine/feminine body type in your starting group of settlers.\\n0 - all Masculine,\\n100 - all Feminine",
+    "vi": "Determine the percentage of masculine/feminine body type in your starting group of settlers.\\n0 - all Masculine,\\n100 - all Feminine"
+  },
+  {
+    "key": "scenario_edit_religion_title",
+    "type": 0,
+    "en": "Force Religion",
+    "vi": "Force Religion"
+  },
+  {
+    "key": "scenario_edit_religion_key",
+    "type": 0,
+    "en": "Determine the percentage of Restitutionist/Oak Brethren in your starting group of settlers.\\n0 - all Restitutionist,\\n100 - all Oak Brethren",
+    "vi": "Determine the percentage of Restitutionist/Oak Brethren in your starting group of settlers.\\n0 - all Restitutionist,\\n100 - all Oak Brethren"
+  },
+  {
+    "key": "menu_scenario",
+    "type": 0,
+    "en": "Scenario",
+    "vi": "Scenario"
+  },
+  {
+    "key": "scenario_game_difficulty",
+    "type": 0,
+    "en": "Difficulty",
+    "vi": "Difficulty"
+  },
+  {
+    "key": "scenario_game_mode",
+    "type": 0,
+    "en": "Game Mode",
+    "vi": "Game Mode"
+  },
+  {
+    "key": "scenario_map_size",
+    "type": 0,
+    "en": "Map size",
+    "vi": "Map size"
+  },
+  {
+    "key": "scenario_map_type",
+    "type": 0,
+    "en": "Map type",
+    "vi": "Map type"
+  },
+  {
+    "key": "scenario_starting_villagers",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Settlers"
+  },
+  {
+    "key": "scenario_title",
+    "type": 0,
+    "en": "Scenario",
+    "vi": "Scenario"
+  },
+  {
+    "key": "almanac_group_name_Basictutorials",
+    "type": 0,
+    "en": "Basic Tutorials",
+    "vi": "Basic Tutorials"
+  },
+  {
+    "key": "almanac_group_name_Tutorial",
+    "type": 0,
+    "en": "Tutorial",
+    "vi": "Tutorial"
+  }
+]

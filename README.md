@@ -46,6 +46,21 @@ Kho lưu trữ mã nguồn, công cụ và bản dịch Việt hóa cho các t�
 
 ---
 
+## 🏰 4. Going Medieval (`mod-game/Going-Medieval`)
+
+### 📌 Giới Thiệu Game:
+**Going Medieval** là tựa game mô phỏng quản lý sinh tồn, xây dựng lâu đài và thuộc địa Trung Cổ 3D thời kỳ hậu dịch hạch 1346. Người chơi lãnh đạo những người sống sót khai hoang, xây dựng pháo đài nhiều tầng với hệ thống vật lý chịu lực (Stability), phân công lao động, quản lý tâm lý, tín ngưỡng tôn giáo và phòng thủ trước các đợt tấn công của thổ phỉ.
+
+### 🛠️ Chi Tiết Mod Việt Hóa:
+- **Tình trạng dịch**: Đang tiến hành bản địa hóa toàn diện **8,877 keys** chuẩn hóa theo cấu trúc Mod I2 Localization.
+- **Tính năng nổi bật**:
+  - Cấu trúc Mod chính thức nạp trực tiếp qua `Mods/VietnameseLocalization/Data/Localization/Vietnamese.csv` và `ModInfo.json`.
+  - Tách dữ liệu thành 7 tệp JSON phân hệ trong `translations/` để kiểm soát chất lượng dịch thuật.
+  - Bộ công cụ hoàn chỉnh: `verify_translation.py` (thẩm định cú pháp RichText, biến số, độ dài UI), `export_csv_mod.py` (biên dịch CSV) và `deploy_to_game.py` (hot-deploy 1-click vào thư mục cài đặt game).
+
+
+---
+
 ## 🚀 Hướng Dẫn Git & Đẩy Lên GitHub:
 
 Để đẩy toàn bộ bộ mod này lên Repository của bạn trên GitHub, hãy chạy các lệnh sau trong terminal:
