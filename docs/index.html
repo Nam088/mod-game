@@ -242,7 +242,7 @@
             box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
         }
         .disclaimer-icon {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             color: var(--accent-yellow);
             flex-shrink: 0;
             margin-top: 2px;
@@ -254,6 +254,9 @@
             margin-bottom: 4px;
             text-transform: uppercase;
             letter-spacing: 0.3px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
         .disclaimer-content p {
             color: #cbd5e1;
@@ -273,6 +276,10 @@
             letter-spacing: -0.5px;
             margin-bottom: 8px;
             color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
         }
         .section-header p {
             color: var(--text-muted);
@@ -329,6 +336,9 @@
             font-size: 0.7rem;
             font-weight: 700;
             box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
         }
         .card-body {
             padding: 20px;
@@ -372,6 +382,9 @@
             font-size: 0.75rem;
             font-weight: 600;
             color: #cbd5e1;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
         }
         .card-actions {
             display: grid;
@@ -577,7 +590,7 @@
         <!-- Hero Section -->
         <section class="hero">
             <div class="hero-badge">
-                <i class="fa-solid fa-check-circle"></i> File Patch Ngôn Ngữ Tiếng Việt Cho Game Bản Quyền
+                <i class="fa-solid fa-circle-check"></i> File Patch Ngôn Ngữ Tiếng Việt Cho Game Bản Quyền
             </div>
             <h1>KHO MOD VIỆT HÓA GAME PC</h1>
             <p>
@@ -587,10 +600,10 @@
             <!-- Important Legal Disclaimer Notice -->
             <div class="disclaimer-box">
                 <div class="disclaimer-icon">
-                    <i class="fa-solid fa-shield-halved"></i>
+                    <i class="fa-solid fa-triangle-exclamation"></i>
                 </div>
                 <div class="disclaimer-content">
-                    <h3>⚠️ TUYÊN BỐ BẢN QUYỀN & MIỄN TRỪ TRÁCH NHIỆM</h3>
+                    <h3>TUYÊN BỐ BẢN QUYỀN & MIỄN TRỪ TRÁCH NHIỆM</h3>
                     <p>
                         Trang web này <b>CHỈ CHIA SẺ CÁC FILE MOD NGÔN NGỮ TIẾNG VIỆT</b> (Tệp bản dịch / Localization Patch) do cộng đồng tự phát triển. 
                         Trang web <b>HOÀN TOÀN KHÔNG CHIA SẺ, KHÔNG PHÁT HÀNH VÀ KHÔNG CHỨA BẤT KỲ BỘ CÀI GAME LẬU HOẶC BẢN CRACK KHÔNG BẢN QUYỀN NÀO</b>. 
@@ -603,7 +616,7 @@
         <!-- Games Section: BROUGHT RIGHT TO THE TOP -->
         <section id="games">
             <div class="section-header">
-                <h2>DANH SÁCH 6 FILE MOD TIẾNG VIỆT</h2>
+                <h2><i class="fa-solid fa-layer-group" style="color: var(--primary); font-size: 1.4rem;"></i> DANH SÁCH 6 FILE MOD TIẾNG VIỆT</h2>
                 <p>Nhấp vào <b>Tải Mod ZIP</b> để tải tệp ngôn ngữ hoặc chọn <b>Hướng Dẫn Cài</b> để xem các bước cài đặt.</p>
             </div>
 
@@ -615,7 +628,7 @@
         <!-- How to install -->
         <section id="install" class="install-section">
             <div class="section-header">
-                <h2>🛠️ HƯỚNG DẪN CÀI ĐẶT 3 BƯỚC</h2>
+                <h2><i class="fa-solid fa-screwdriver-wrench" style="color: var(--primary); font-size: 1.4rem;"></i> HƯỚNG DẪN CÀI ĐẶT 3 BƯỚC</h2>
                 <p>Cài đặt gói mod ngôn ngữ nhanh chóng vào game bản quyền của bạn.</p>
             </div>
 
@@ -641,7 +654,7 @@
         <!-- FAQs -->
         <section id="faq" class="faq-section">
             <div class="section-header">
-                <h2>❓ CÂU HỎI THƯỜNG GẶP</h2>
+                <h2><i class="fa-solid fa-circle-question" style="color: var(--primary); font-size: 1.4rem;"></i> CÂU HỎI THƯỜNG GẶP</h2>
                 <p>Giải đáp thắc mắc về tính pháp lý, font chữ và cách cập nhật mod.</p>
             </div>
 
@@ -742,7 +755,7 @@
                         <p class="card-desc">${g.tagline}</p>
                         <div class="card-tags">
                             <span class="tag"><i class="fa-solid fa-tag"></i> ${g.version}</span>
-                            <span class="tag"><i class="fa-solid fa-star" style="color: #f59e0b;"></i> ${g.rating}</span>
+                            <span class="tag"><i class="fa-solid fa-star" style="color: #f59e0b;"></i> ${g.rating.replace(/★/g, '').trim()}</span>
                             <span class="tag"><i class="fa-solid fa-file-lines"></i> ${g.keys_count}</span>
                         </div>
                         <div class="card-actions">
@@ -766,11 +779,11 @@
             
             let html = `
                 <p style="margin-bottom: 14px;">${g.description}</p>
-                <h4>🌟 Đặc Điểm Bản Dịch:</h4>
+                <h4><i class="fa-solid fa-star" style="color: var(--accent-yellow); font-size: 0.9rem;"></i> Đặc Điểm Bản Dịch:</h4>
                 <ul>
                     ${g.highlights.map(h => `<li>${h}</li>`).join('')}
                 </ul>
-                <h4>🛠️ Hướng Dẫn Cài Đặt Chi Tiết:</h4>
+                <h4><i class="fa-solid fa-wrench" style="color: var(--primary); font-size: 0.9rem;"></i> Hướng Dẫn Cài Đặt Chi Tiết:</h4>
                 <ol>
                     ${g.install_guide.map(step => `<li>${step}</li>`).join('')}
                 </ol>
