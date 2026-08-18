@@ -99,7 +99,7 @@
     "key": "voxel_not_diggable",
     "type": 0,
     "en": "Can't dig any deeper.",
-    "vi": "Can't Đào đất any deeper."
+    "vi": "Không thể đào sâu hơn được nữa."
   },
   {
     "key": "has_died",
@@ -123,7 +123,7 @@
     "key": "error_place_stability",
     "type": 0,
     "en": "Can't place building this far from a stable structure",
-    "vi": "Can't place Công trình this far từ a stable structure"
+    "vi": "Không thể đặt công trình quá xa kết cấu đỡ kiên cố."
   },
   {
     "key": "error_place_roof",
@@ -159,13 +159,13 @@
     "key": "error_stiars_blocking",
     "type": 0,
     "en": "Can't be placed here, blocking the staircase",
-    "vi": "Có thể't được placed here, blocking staircase"
+    "vi": "Không thể đặt ở đây vì làm tắc nghẽn cầu thang"
   },
   {
     "key": "error_beam_blocking",
     "type": 0,
     "en": "Can't be placed under a beam",
-    "vi": "Có thể't được placed under a xà nhà"
+    "vi": "Không thể đặt bên dưới một xà nhà"
   },
   {
     "key": "error_socketable",

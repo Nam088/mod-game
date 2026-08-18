@@ -789,13 +789,13 @@
     "key": "equipment_name_plate_helmet",
     "type": 0,
     "en": "Great Helm",
-    "vi": "Đại Mũ Trụ Hiệp Sĩ (Great Helm)"
+    "vi": "Đại Mũ Trụ (Great Helm)"
   },
   {
     "key": "equipment_name_pigface_helmet",
     "type": 0,
     "en": "Pigface Helmet",
-    "vi": "Mũ Trụ Mõm Lợn (Pigface Bascinet)"
+    "vi": "Mũ Trụ Mõm Lợn (Pigface)"
   },
   {
     "key": "equipment_name_helmet",
@@ -873,7 +873,7 @@
     "key": "equipment_name_kite_shield",
     "type": 0,
     "en": "Kite Shield",
-    "vi": "Khiên Hình Giọt Nước (Kite Shield)"
+    "vi": "Khiên Giọt Nước (Kite)"
   },
   {
     "key": "equipment_name_tower_shield",

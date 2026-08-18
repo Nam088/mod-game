@@ -93,7 +93,7 @@
     "key": "effector_name_AffectionCarryToBed",
     "type": 0,
     "en": "Carried me when I was wounded",
-    "vi": "Carried me when I đã wounded"
+    "vi": "Đã cõng tôi về giường khi tôi bị thương"
   },
   {
     "key": "effector_name_AffectionTendWounds",
@@ -249,7 +249,7 @@
     "key": "effector_info_WorkerDiedFriend",
     "type": 0,
     "en": "Oh, how I shall mourn my friend's passing.",
-    "vi": "Oh, how I shall mourn của tôi bạn's passing."
+    "vi": "Ôi, tôi sẽ đau buồn khôn nguôi trước sự ra đi của người bạn thân yêu."
   },
   {
     "key": "effector_info_WorkerDiedRival",
@@ -279,7 +279,7 @@
     "key": "effector_info_WorkerDied",
     "type": 0,
     "en": "I can't believe they are no more!",
-    "vi": "Tôi có thể't believe they là Không hơn!"
+    "vi": "Tôi không thể tin được là họ đã vĩnh viễn ra đi!"
   },
   {
     "key": "effector_name_DrankVeryNiceWine",
@@ -459,7 +459,7 @@
     "key": "effector_info_EventOutcomeVeryBad",
     "type": 0,
     "en": "I regret going to that - there are several hours of my life that I'd like back. What a letdown.",
-    "vi": "I regret going để đó - there là several hours của của tôi cuộc sống đó I'd like Quay lại. What a letdown."
+    "vi": "Tôi hối hận vì đã tham gia — mất toi mấy tiếng cuộc đời mà chẳng lấy lại được. Thật là thất vọng tràn trề."
   },
   {
     "key": "effector_info_EventOutcomeBad",
@@ -471,7 +471,7 @@
     "key": "effector_info_EventOutcomeDecent",
     "type": 0,
     "en": "That was an acceptable way to pass some time, all things considered.",
-    "vi": "That đã an acceptable way để pass some time, Tất cả things considered."
+    "vi": "Dù sao đi nữa thì đó cũng là một cách tạm ổn để giết thời gian."
   },
   {
     "key": "effector_info_EventOutcomeGood",
@@ -483,13 +483,13 @@
     "key": "effector_info_EventOutcomeVeryGood",
     "type": 0,
     "en": "What a captivating event! I'll be thinking about it for days to come. I'm so glad I went.",
-    "vi": "What a captivating event! Tôi sẽ be thinking about it cho days để come. Tôi đang so glad I went."
+    "vi": "Thật là một sự kiện cuốn hút! Tôi sẽ còn nhớ mãi trong nhiều ngày tới. Thật vui vì mình đã tham gia."
   },
   {
     "key": "effector_info_EventOutcomeUnforgettable",
     "type": 0,
     "en": "I've never been to an event like it. You had to be there - I was awestruck that anything could be so beautiful.",
-    "vi": "Tôi đã never been để an event like it. You had để be there - I đã awestruck đó anything could be so beautiful."
+    "vi": "Tôi chưa từng tham dự một sự kiện nào tuyệt vời như thế. Bạn phải tận mắt chứng kiến mới tin được — tôi đã hoàn toàn kinh ngạc khi thấy có thứ đẹp đẽ đến nhường này."
   },
   {
     "key": "effector_name_GoalPreferenceVeryNegative",
@@ -531,7 +531,7 @@
     "key": "effector_info_EventFeastNonParticipant",
     "type": 0,
     "en": "So, I wasn't important enough to be invited. Who cares? I'll make my own feast, with backgammon and harlots!",
-    "vi": "So, I wasn't important enough để be invited. Who cares? Tôi sẽ make của tôi own feast, với backgammon và harlots!"
+    "vi": "Hóa ra tôi không đủ quan trọng để được mời. Ai thèm quan tâm chứ? Tôi sẽ tự mở bữa tiệc của riêng mình, với cờ vua và vũ nữ!"
   },
   {
     "key": "effector_name_EventSermonNonParticipant",
@@ -543,7 +543,7 @@
     "key": "effector_info_EventSermonNonParticipant",
     "type": 0,
     "en": "Maybe they just forgot to invite me",
-    "vi": "Maybe they just forgot để invite me"
+    "vi": "Có lẽ họ chỉ vô tình quên mời tôi thôi."
   },
   {
     "key": "effector_name_EventSermonOutcomeTerrible",
@@ -591,7 +591,7 @@
     "key": "effector_info_EventSermonOutcomePagan",
     "type": 0,
     "en": "Curious. A lot of chanting in latin. I suppose the bread and wine stand in for an actual sacrifice, then?",
-    "vi": "Curious. A lot của chanting trong latin. I suppose bread và wine stand trong cho an actual sacrifice, then?"
+    "vi": "Thật kỳ lạ. Có quá nhiều lời tụng niệm bằng tiếng Latinh. Tôi đoán bánh mì và rượu nho là để tượng trưng cho một vật hiến tế thực sự chăng?"
   },
   {
     "key": "effector_name_EventRitualNonParticipant",
@@ -603,7 +603,7 @@
     "key": "effector_info_EventRitualNonParticipant",
     "type": 0,
     "en": "Maybe they just forgot to invite me",
-    "vi": "Maybe they just forgot để invite me"
+    "vi": "Có lẽ họ chỉ vô tình quên mời tôi thôi."
   },
   {
     "key": "effector_name_EventRitualOutcomeTerrible",
@@ -681,13 +681,13 @@
     "key": "effector_info_EventExecutionGallowsPositive",
     "type": 0,
     "en": "Who doesn't love a good hanging? They deserved what was coming to them.",
-    "vi": "Who doesn't love a tốt hanging? Họ deserved what đã coming để them."
+    "vi": "Ai mà chẳng thích xem một buổi xử tử treo cổ chứ? Chúng đáng phải nhận kết cục như thế."
   },
   {
     "key": "effector_info_EventExecutionGallowsNeutral",
     "type": 0,
     "en": "I suppose justice was served? Rather them than me...",
-    "vi": "I suppose justice đã served? Rather them than me..."
+    "vi": "Tôi đoán công lý đã được thực thi? Thà là chúng chịu tội còn hơn là tôi..."
   },
   {
     "key": "effector_name_ExecutedPrisoner",
@@ -699,7 +699,7 @@
     "key": "effector_info_ExecutedPrisoner",
     "type": 0,
     "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
-    "vi": "Mercy upon đó poor prisoner's soul! There, but cho grace của của tôi gaolers, go I..."
+    "vi": "Xin thương xót linh hồn người tù tội nghiệp đó! Nếu không nhờ sự khoan hồng của cai ngục, có lẽ số phận tôi cũng sẽ bi đát như vậy..."
   },
   {
     "key": "effector_name_PrisonerSetFree",
@@ -711,7 +711,7 @@
     "key": "effector_info_PrisonerSetFree",
     "type": 0,
     "en": "One of our wretched cellmates is released! Might I perchance harbour dreams of my own freedom?",
-    "vi": "One của our wretched cellmates là released! Might I perchance harbour dreams của của tôi own freedom?"
+    "vi": "Một trong những người bạn tù khốn khổ của chúng ta đã được thả! Liệu tôi có dám mơ về tự do của chính mình chăng?"
   },
   {
     "key": "effector_name_SleptInPrisonCellAwful",
@@ -873,13 +873,13 @@
     "key": "effector_info_EventMasterClassOutcomeTerrible",
     "type": 0,
     "en": "I'm so confused? I know even less about <skill_name> than when I started!",
-    "vi": "Tôi đang so confused? I know even ít hơn about <skill_name> than when I started!"
+    "vi": "Tôi đang rất bối rối? Thậm chí tôi còn hiểu ít hơn về <skill_name> so với lúc mới bắt đầu!"
   },
   {
     "key": "effector_info_EventMasterClassOutcomeVeryBad",
     "type": 0,
     "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
-    "vi": "Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+    "vi": "Thật lãng phí mấy tiếng cuộc đời mà chẳng lấy lại được. Tôi chẳng tiếp thu thêm được điều gì cả."
   },
   {
     "key": "effector_info_EventMasterClassOutcomeBad",
@@ -891,7 +891,7 @@
     "key": "effector_info_EventMasterClassOutcomeDecent",
     "type": 0,
     "en": "That was a solid lesson. I'm looking forward to finding out more.",
-    "vi": "That đã a solid lesson. Tôi đang looking forward để finding out hơn."
+    "vi": "Đó là một bài học bổ ích. Tôi rất mong được tìm hiểu thêm nhiều điều nữa."
   },
   {
     "key": "effector_info_EventMasterClassOutcomeGood",

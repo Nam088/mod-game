@@ -663,7 +663,7 @@
     "key": "options_devtools_info",
     "type": 0,
     "en": "A list of Developer tools",
-    "vi": "Danh sách các bảng công cụ gỡ lỗi và hỗ trợ của nhà phát triển"
+    "vi": "Danh sách công cụ của nhà phát triển"
   },
   {
     "key": "options_effect_volume",
@@ -753,7 +753,7 @@
     "key": "options_cursor_toggle",
     "type": 0,
     "en": "Custom Cursor",
-    "vi": "Con trỏ chuột phong cách Trung Cổ tùy biến"
+    "vi": "Con Trỏ Chuột Tùy Chỉnh"
   },
   {
     "key": "ctrl_ShowHideEstheticMap",

@@ -213,13 +213,13 @@
     "key": "rally_point_panel_desc",
     "type": 0,
     "en": "Select which settlers will gather at this point when drafted.",
-    "vi": "Chọn which Dân làng will gather at this point when drafted."
+    "vi": "Chọn những dân làng sẽ tập hợp tại điểm này khi được huy động chiến đấu."
   },
   {
     "key": "bell_panel_desc",
     "type": 0,
     "en": "Select the rally points that will activate when you ring this bell.",
-    "vi": "Chọn rally points that will activate when you ring this bell."
+    "vi": "Chọn các điểm tập kết sẽ kích hoạt khi bạn rung chiếc chuông này."
   },
   {
     "key": "rally_point_marker_default_name",
@@ -357,7 +357,7 @@
     "key": "pseudonym_name_Pagan",
     "type": 0,
     "en": "The Pagan",
-    "vi": "Kẻ Pagan"
+    "vi": "Kẻ Ngoại Giáo"
   },
   {
     "key": "pseudonym_name_Cuckold",
@@ -423,7 +423,7 @@
     "key": "pseudonym_name_Fool",
     "type": 0,
     "en": "The Fool",
-    "vi": "Kẻ Fool"
+    "vi": "Gã Hề Cung Đình"
   },
   {
     "key": "pseudonym_name_Spy",
@@ -591,7 +591,7 @@
     "key": "pseudonym_info_Pagan",
     "type": 0,
     "en": "<name> spoke to plants and buried strange parcels in the woods under the full moon. Nobody dared speak up against [him/her] due to rumours <name> could hex them. <name> did not care that other humans called [him/her] 'Pagan'. Humans were the problem.",
-    "vi": "<name> spoke để plants và buried strange parcels trong woods under full moon. Nobody dared speak up against [him/her] due để rumours <name> could hex them. <name> did not care that Khác humans called [him/her] 'Pagan'. Humans were problem."
+    "vi": "<name> thường trò chuyện với cây cối và chôn những bọc đồ kỳ lạ trong rừng dưới ánh trăng tròn. Không ai dám lên tiếng chống lại [him/her] vì những lời đồn rằng <name> có thể ếm bùa họ. <name> chẳng màng đến việc người khác gọi [him/her] là 'Kẻ Ngoại Giáo'. Con người mới chính là vấn đề."
   },
   {
     "key": "pseudonym_info_Cuckold",
@@ -615,13 +615,13 @@
     "key": "pseudonym_info_Zealot",
     "type": 0,
     "en": "<name> keeps making altars and offerings, stopping the day's business to say prayers and muttering about sin. One might be forgiven for saying [he/she] takes it a bit far.",
-    "vi": "<name> keeps making altars và offerings, stopping Ngày's business để say prayers và muttering about sin. One might be forgiven cho saying [he/she] takes it a bit far."
+    "vi": "<name> liên tục dựng bàn thờ và dâng lễ vật, gác lại công việc trong ngày để lần chuỗi cầu nguyện và lẩm bẩm về tội lỗi. Có thể thông cảm nếu ai đó nói [he/she] đã đi quá giới hạn."
   },
   {
     "key": "pseudonym_info_Heretic",
     "type": 0,
     "en": "<name> speaks of the God of Abraham and the mosques of the Moors, of sacred groves, lost scrolls and forbidden rites. <name> knows a bit too much for [his/her] own good.",
-    "vi": "<name> speaks của Kẻ God của Abraham và Kẻ mosques của Kẻ Moors, của sacred groves, lost scrolls và forbidden rites. <name> knows a bit too much cho [his/her] own good."
+    "vi": "<name> thường nhắc đến Thiên Chúa của Abraham và những thánh đường Hồi giáo của người Moor, về những khu rừng thiêng, cuộn giấy cổ bị thất truyền và những nghi lễ cấm kỵ. <name> biết hơi quá nhiều so với mức an toàn của [his/her]."
   },
   {
     "key": "pseudonym_info_Chaste",
@@ -633,7 +633,7 @@
     "key": "pseudonym_info_Pudding",
     "type": 0,
     "en": "<name> could make an excellent fygey pudding, among other desserts. [He/She] never lacked for paramours, being bonny and sweet, with just enough spice. Lovers, rivals and jilted exes all called <name> 'pudding', with varying degrees of affection.",
-    "vi": "<name> could make an excellent fygey pudding, among Khác desserts. [He/She] never lacked cho paramours, being bonny và sweet, với just enough spice. Lovers, rivals và jilted exes Tất cả called <name> 'pudding', với varying degrees của Tình cảm."
+    "vi": "<name> có tài làm món bánh pudding vả tuyệt hảo cùng nhiều món tráng miệng khác. [He/She] chẳng bao giờ thiếu người theo đuổi, vừa xinh đẹp ngọt ngào lại vừa thêm chút duyên ngầm sắc sảo. Người tình, đối thủ và cả những người yêu cũ đều gọi <name> là 'Bánh Pudding', với đủ mọi cung bậc tình cảm khác nhau."
   },
   {
     "key": "pseudonym_info_Forlorn",
@@ -657,7 +657,7 @@
     "key": "pseudonym_info_Fool",
     "type": 0,
     "en": "<name> had at one time played the fool at court, and revelled in being allowed to insult the high and mighty, as long as [he/she] caused enough mirth to compensate. [His/Her] cutting wit and humourous insults were unsurpassed.",
-    "vi": "<name> had at one time played Kẻ fool at court, và revelled trong being allowed để insult Kẻ high và mighty, as long as [he/she] caused enough mirth để compensate. [His/Her] cutting wit và humourous insults were unsurpassed."
+    "vi": "<name> từng có thời gian làm chú hề trong cung đình, và thỏa sức buông lời châm chọc những bậc vương tôn quý tộc, miễn là [he/she] mang lại đủ tiếng cười bù đắp. Tài đối đáp sắc bén và những câu châm biếm hài hước của [His/Her] không ai bì kịp."
   },
   {
     "key": "pseudonym_info_Spy",
@@ -687,7 +687,7 @@
     "key": "pseudonym_info_Crow",
     "type": 0,
     "en": "Some folk still left bread and milk out for the fairy folk, a custom as old as the very hills. <name> would swoop in and gobble these up, the wiley old bird.",
-    "vi": "Some folk still left bread và milk out cho fairy folk, a Tùy chỉnh as old as very hills. <name> would swoop trong và gobble these up, wiley old bird."
+    "vi": "Một số người vẫn để bánh mì và sữa ra ngoài cho loài tiên, một tập tục cổ xưa từ ngàn đời. <name> sẽ sà xuống và ngấu nghiến sạch sẽ, đúng là một con chim già tinh ranh."
   },
   {
     "key": "pseudonym_info_Bonesetter",
@@ -765,7 +765,7 @@
     "key": "pseudonym_info_Bride",
     "type": 0,
     "en": "<name> seemed to be forever stitching away at incredibly fine and delicate items of clothing and linens for [his/her] wedding trousseau. [He/She] became dewy eyed at the prospect of marriage. What a pity, then, that <name> had never even been kissed.",
-    "vi": "<name> seemed để be forever stitching away at incredibly fine và delicate items của clothing và linens cho [his/her] wedding trousseau. [He/She] became dewy eyed at Kẻ prospect của marriage. What a pity, then, that <name> had never even been kissed."
+    "vi": "<name> dường như luôn mải miết thêu may những bộ trang phục và vải lanh tinh xảo, thanh nhã cho của hồi môn ngày cưới của [his/her]. Đôi mắt [He/She] long lanh ngấn lệ mỗi khi nghĩ đến viễn cảnh kết hôn. Nhưng thật đáng tiếc biết bao, khi mà <name> thậm chí còn chưa từng được hôn một lần."
   },
   {
     "key": "pseudonym_info_Thief",

@@ -57,7 +57,7 @@
     "key": "event_raid_society_of_fellows",
     "type": 0,
     "en": "Once they had stopped shouting at each other, the dons took a vote in an orderly and democratic manner, then prepared to strike. ‘You ignorant dimwits have got it coming!’ They shrieked, rampaging into <village_name> with the zeal of rioting dissidents.",
-    "vi": "Sau khi thôi quát tháo và tranh cãi lẫn nhau, các viện sĩ tiến hành bỏ phiếu một cách trật tự và dân chủ rồi sẵn sàng xuất kích. 'Lũ ngu muội các ngươi đáng phải chịu hình phạt này!' Chúng gào thét the the, tràn vào <village_name> với sự cuồng loạn của những kẻ bạo loạn cuồng giáo."
+    "vi": "Sau khi thôi quát tháo và tranh cãi lẫn nhau, các viện sĩ tiến hành bỏ phiếu một cách trật tự và dân chủ rồi sẵn sàng xuất kích. 'Lũ ngu muội các ngươi đáng phải chịu hình phạt này!' Chúng gào thét inh ỏi, tràn vào <village_name> với sự cuồng loạn của những kẻ bạo loạn cuồng giáo."
   },
   {
     "key": "event_raid_kingdom_of_york",
@@ -69,7 +69,7 @@
     "key": "event_raid_heresy_of_the_rose",
     "type": 0,
     "en": "When Heretics rise, fear takes human form. Baying, screeching, drumming, chanting...some wear horns; a girl strews rose petals at the mob’s feet. Many bear flaming symbols aloft. ‘We’ve come for your souls!’ one shouts. A roar of hooting laughter rises up among their ranks. A senseless massacre is imminent.",
-    "vi": "Khi những kẻ Dị Giáo Hoa Hồng nổi dậy, nỗi sợ hãi tột cùng mang hình hài con người. Tiếng gào rú, tiếng thét the thé, tiếng trống trận dồn dập cùng những lời tụng niệm ma quái... một số tên đội sừng thú; một trinh nữ rải cánh hoa hồng đỏ thắm dưới chân đám đông hung bạo. Nhiều kẻ giơ cao những biểu tượng rực lửa. 'Chúng ta đến đây để đoạt lấy linh hồn các ngươi!' một tên gào thét. Tiếng cười man dại vang rền khắp hàng ngũ. Một vụ thảm sát tàn khốc sắp sửa bắt đầu."
+    "vi": "Khi những kẻ Dị Giáo Hoa Hồng nổi dậy, nỗi sợ hãi tột cùng mang hình hài con người. Tiếng gào rú, tiếng thét thất thanh, tiếng trống trận dồn dập cùng những lời tụng niệm ma quái... một số tên đội sừng thú; một trinh nữ rải cánh hoa hồng đỏ thắm dưới chân đám đông hung bạo. Nhiều kẻ giơ cao những biểu tượng rực lửa. 'Chúng ta đến đây để đoạt lấy linh hồn các ngươi!' một tên gào thét. Tiếng cười man dại vang rền khắp hàng ngũ. Một vụ thảm sát tàn khốc sắp sửa bắt đầu."
   },
   {
     "key": "event_raid_circle_of_avalon",
@@ -675,13 +675,13 @@
     "key": "event_shakedown_beirdd_cymraeg",
     "type": 0,
     "en": "<i>' 'Heed this bard's advice,\\n\nlet generosity prevail,\\n\nFor with coin's exchange,\\nyour fortune shall not fail.\\n\nWith melodies of joy, we'll bid you adieu,\\n\nPay the piper, dear <village_name>,\\n\nand let blessings ensue.'</i>'",
-    "vi": "<i>'Hãy lắng nghe lời khuyên của người hát rong,\\nđể lòng hào hiệp dẫn lối tương phùng,\\nBởi lẽ khi tiền vàng trao tay,\\nvận may của bạn sẽ mãi vững bền.\\nVới khúc hoan ca, chúng tôi xin kính chào từ biệt,\\nHãy trả công cho người thổi sáo, hỡi <village_name> thân yêu,\\nvà đón nhận phúc lành tuôn chảy dạt dào.'</i>"
+    "vi": "<i>' 'Hãy lắng nghe lời khuyên của người hát rong,\\n\nđể lòng hào hiệp dẫn lối tương phùng,\\n\nBởi lẽ khi tiền vàng trao tay,\\nđổi lấy vận may mãi vững bền.\\n\nVới khúc hoan ca, chúng tôi xin kính chào từ biệt,\\n\nHãy trả công cho người thổi sáo, hỡi <village_name> thân yêu,\\n\nvà đón nhận phúc lành tuôn chảy dạt dào.'</i>'"
   },
   {
     "key": "event_shakedown_progeny_of_the_plague",
     "type": 0,
     "en": " 'We are hungry. And the settlers of <village_name> look plump.' The cannibal licked [his/her] lips. 'But we are not unreasonable. If you pay enough, we will hunt elsewhere.'",
-    "vi": "‘Chúng ta đang đói cồn cào. Và dân làng của <village_name> trông mới béo tốt đẫy đà làm sao.’ Tên ăn thịt người liếm mép thèm thuồng. ‘Nhưng bọn ta cũng không phải phường vô lý. Nếu các ngươi chi trả đủ tiền chuộc, bọn ta sẽ chuyển sang săn mồi ở nơi khác.’"
+    "vi": " 'Chúng ta đang đói cồn cào. Và dân làng của <village_name> trông mới béo tốt đẫy đà làm sao.' Tên ăn thịt người liếm bờ môi của [his/her]. 'Nhưng bọn ta cũng không phải phường vô lý. Nếu các ngươi chi trả đủ tiền chuộc, bọn ta sẽ chuyển sang săn mồi ở nơi khác.'"
   },
   {
     "key": "event_shakedown_ravagers",
@@ -693,7 +693,7 @@
     "key": "event_shakedown_forest_bandits",
     "type": 0,
     "en": "It was hard to tell if [he/she] was animal or human. 'The Wild Hunt rides through <village_name>,' [he/she] growled. 'Pay or be prey, I don't care.'",
-    "vi": "Thật khó để phân biệt xem người đó là thú dữ hay con người. ‘Đoàn Săn Bắn Hoang Dã đang quét qua <village_name>,’ [he/she] gầm ghè trong cổ họng. ‘Nộp tiền hoặc trở thành con mồi, ta chẳng màng quan tâm.’"
+    "vi": "Thật khó để phân biệt xem [he/she] là thú dữ hay con người. 'Đoàn Săn Bắn Hoang Dã đang quét qua <village_name>,' [he/she] gầm ghè trong cổ họng. 'Nộp tiền hoặc trở thành con mồi, ta chẳng màng quan tâm.'"
   },
   {
     "key": "event_shakedown_mountain_bandits",
@@ -705,7 +705,7 @@
     "key": "event_shakedown_river_bandits",
     "type": 0,
     "en": " 'Drowning is a painful way to die.' The pirate mused to [him/her]self. 'It's customary to offer something to the ferryman... and I'm sure the folk of <village_name> all want to keep their heads above water.'",
-    "vi": "‘Chết đuối quả là một cái chết vô cùng đau đớn và quằn quại.’ Tên hải tặc lẩm bẩm một mình. ‘Xưa nay người ta vẫn có tục lệ dâng lễ vật cho người lái đò đưa tang... và ta tin chắc rằng con dân <village_name> đều tha thiết muốn giữ đầu mình nổi trên mặt nước.’"
+    "vi": " 'Chết đuối quả là một cái chết vô cùng đau đớn và quằn quại.' Tên hải tặc tự lẩm bẩm với chính bản thân [him/her]. 'Xưa nay người ta vẫn có tục lệ dâng lễ vật cho người lái đò đưa tang... và ta tin chắc rằng con dân <village_name> đều tha thiết muốn giữ đầu mình nổi trên mặt nước.'"
   },
   {
     "key": "event_shakedown_looters",

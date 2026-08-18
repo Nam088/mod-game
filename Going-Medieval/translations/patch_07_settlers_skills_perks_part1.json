@@ -615,7 +615,7 @@
     "key": "job_info_hunting",
     "type": 0,
     "en": "Hunting marked animals.",
-    "vi": "Săn bắn các loài thú hoang đã được chỉ định đánh dấu."
+    "vi": "Săn bắn động vật được chỉ định."
   },
   {
     "key": "job_info_mining",
@@ -651,13 +651,13 @@
     "key": "job_info_patient",
     "type": 0,
     "en": "Awaiting wound treatment.",
-    "vi": "Nằm yên tĩnh dưỡng chờ đợi người đến chữa trị vết thương."
+    "vi": "Tĩnh dưỡng chờ chữa vết thương."
   },
   {
     "key": "job_info_rest",
     "type": 0,
     "en": "Convalesce while wounds heal.",
-    "vi": "Nghỉ ngơi tịnh dưỡng trên giường để vết thương mau chóng hồi phục."
+    "vi": "Nghỉ ngơi để vết thương hồi phục."
   },
   {
     "key": "job_info_smithing",

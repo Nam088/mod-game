@@ -549,7 +549,7 @@
     "key": "jobs_tooltip",
     "type": 0,
     "en": "Jobs set to the same priority level will be prioritized left to right.",
-    "vi": "Jobs set để same Mức ưu tiên level will be prioritized left để right."
+    "vi": "Các công việc có cùng mức ưu tiên sẽ được thực hiện theo thứ tự từ trái sang phải."
   },
   {
     "key": "gameplay_tips_camera_control",

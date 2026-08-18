@@ -789,7 +789,7 @@
     "key": "event_saw_failed_chopping_negative",
     "type": 0,
     "en": "<agent_name> saw a fine tree hacked amateurishly by <target_name> and really felt like giving <target_name> a piece of #1[his/her] mind.",
-    "vi": "<agent_name> chứng kiến một thân gỗ tốt bị <target_name> chặt chém vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng."
+    "vi": "<agent_name> chứng kiến một thân gỗ tốt bị <target_name> đốn hạ vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng từ tận đáy lòng #1[his/her]."
   },
   {
     "key": "event_saw_failed_chopping_positive",

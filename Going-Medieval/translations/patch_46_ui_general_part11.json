@@ -105,25 +105,25 @@
     "key": "map_size_info",
     "type": 0,
     "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
-    "vi": "Small maps provide a more focused Kinh nghiệm. \\nRecommended cho hardware at lower end của minimum specified requirement."
+    "vi": "Bản đồ nhỏ mang lại trải nghiệm tập trung hơn. \\nKhuyên dùng cho cấu hình phần cứng ở mức tối thiểu."
   },
   {
     "key": "map_size_small_info",
     "type": 0,
     "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
-    "vi": "Small maps provide a more focused Kinh nghiệm. \\nRecommended cho hardware at lower end của minimum specified requirement."
+    "vi": "Bản đồ nhỏ mang lại trải nghiệm tập trung hơn. \\nKhuyên dùng cho cấu hình phần cứng ở mức tối thiểu."
   },
   {
     "key": "map_size_medium_info",
     "type": 0,
     "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
-    "vi": "Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
+    "vi": "Bản đồ lớn hơn mang lại nhiều không gian và tài nguyên hơn để khu định cư mở rộng theo thời gian, nhưng có thể ảnh hưởng đến tốc độ khung hình (FPS) trên máy có cấu hình phần cứng thấp."
   },
   {
     "key": "map_size_large_info",
     "type": 0,
     "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
-    "vi": "Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
+    "vi": "Bản đồ lớn hơn mang lại nhiều không gian và tài nguyên hơn để khu định cư mở rộng theo thời gian, nhưng có thể ảnh hưởng đến tốc độ khung hình (FPS) trên máy có cấu hình phần cứng thấp."
   },
   {
     "key": "game_mode_builder_title",
@@ -183,7 +183,7 @@
     "key": "game_mode_standard_info",
     "type": 0,
     "en": "Your settlement will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress.",
-    "vi": "Của bạn Khu định cư will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress."
+    "vi": "Khu định cư của bạn sẽ trải qua các cuộc đột kích của kẻ thù cũng như các sự kiện thời tiết môi trường. Các cuộc đột kích diễn ra theo chu kỳ đều đặn và độ khó sẽ tăng dần theo quá trình phát triển."
   },
   {
     "key": "game_mode_standard_narrative_1",
@@ -333,13 +333,13 @@
     "key": "map_type_hill_narrative",
     "type": 0,
     "en": "Into a landscape of rolling hills and ancient, crumbling forts the companions trekked. Each ascent rewarded <random_villager> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. They built a camp that would, in time, become the settlement of <village_name>.",
-    "vi": "Into a landscape của rolling hills và ancient, crumbling forts companions trekked. Mỗi ascent rewarded <random_villager> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. Họ built a camp that would, trong time, become Khu định cư của <village_name>."
+    "vi": "Những người bạn đồng hành tiến bước vào miền phong cảnh đồi núi trập trùng cùng những pháo đài cổ kính đổ nát. Mỗi đỉnh dốc leo lên đều ban tặng cho <random_villager> tầm nhìn trải dài hàng dặm. Sẽ không có kẻ thù nào tiếp cận mà thoát khỏi tầm mắt, [he/she] thầm nghĩ. Họ dựng một khu trại mà theo thời gian sẽ trở thành khu định cư <village_name>."
   },
   {
     "key": "map_type_hill_narrative_single",
     "type": 0,
     "en": "Into a landscape of rolling hills and ancient, crumbling forts the lone wander trekked. Each ascent rewarded <name> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, in time, become the settlement of <village_name>.",
-    "vi": "Into a landscape của rolling hills và ancient, crumbling forts lone wander trekked. Mỗi ascent rewarded <name> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, trong time, become Khu định cư của <village_name>."
+    "vi": "Người lữ hành đơn độc tiến bước vào miền phong cảnh đồi núi trập trùng cùng những pháo đài cổ kính đổ nát. Mỗi đỉnh dốc leo lên đều ban tặng cho <name> tầm nhìn trải dài hàng dặm. Sẽ không có kẻ thù nào tiếp cận mà thoát khỏi tầm mắt, [he/she] thầm nghĩ. [He/She] dựng một khu trại mà theo thời gian sẽ trở thành khu định cư <village_name>."
   },
   {
     "key": "map_type_wetland",
@@ -363,7 +363,7 @@
     "key": "map_type_wetland_narrative_single",
     "type": 0,
     "en": "<name> pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. [He/She] drew a handful of the sweet water to [his/her] lips, and gave thanks. [He/She] would settle here, and name it <village_name>.",
-    "vi": "<name> pushed through an abundance của supple willow cây cối. Thick, silvered eels wove, glinting, through tall rushes, which blended river's edge into của nó marshy banks. [He/She] drew a handful của sweet nước đến [his/her] lips, và gave thanks. [He/She] would settle here, và name nó <village_name>."
+    "vi": "Từng bước len lỏi qua rặng liễu rủ tươi tốt, <name> nhìn thấy những chú lươn ánh bạc uốn lượn lấp lánh giữa đám lau sậy cao vút nơi mép sông hòa vào bờ đầm lầy. [He/She] bụm một vốc nước ngọt lành đưa lên môi của [his/her] và cất lời tạ ơn. [He/She] quyết định sẽ định cư tại đây và đặt tên nơi này là <village_name>."
   },
   {
     "key": "map_type_season_info_summer_mild",
@@ -531,7 +531,7 @@
     "key": "game_difficulty_Easy_info",
     "type": 0,
     "en": "Recommended for new players",
-    "vi": "Khuyên dùng cho người mới bắt đầu làm quen với Going Medieval."
+    "vi": "Khuyên dùng cho người mới bắt đầu."
   },
   {
     "key": "game_difficulty_Normal_info",

@@ -243,7 +243,7 @@
     "key": "effector_name_KilledBloodlustMood",
     "type": 0,
     "en": "Killed someone",
-    "vi": "Hạ Sát Kẻ Thù (Thỏa Mãn Khát Máu)"
+    "vi": "Hạ Sát Kẻ Thù (Khát Máu)"
   },
   {
     "key": "effector_info_KilledBloodlustMood",
@@ -255,7 +255,7 @@
     "key": "effector_name_KilledPacifistMood",
     "type": 0,
     "en": "Killed someone",
-    "vi": "Tước Đoạt Mạng Sống (Cắn Rứt Lương Tâm)"
+    "vi": "Tước Đoạt Mạng Sống (Cắn Rứt)"
   },
   {
     "key": "effector_info_KilledPacifistMood",

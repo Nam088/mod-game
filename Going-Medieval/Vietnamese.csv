@@ -26,7 +26,9 @@ action_list,0,,Hành động
 action_mining,0,,Khai mỏ
 action_upgradeBuilding,0,,Thay thế công trình
 uprade_building_title,0,,Thay Thế Công Trình
-uprade_building_info,0,,Lựa chọn cấu trúc công trình mà bạn muốn thay thế.\nMột số công trình đặc thù có thể không hiển thị trong danh sách hoặc không hỗ trợ tính năng thay thế trực tiếp.\nMột số phương án thay thế vật liệu sẽ bị vô hiệu hóa nếu trong kho không có sẵn lượng vật liệu xây dựng cần thiết.
+uprade_building_info,0,,"Lựa chọn cấu trúc công trình mà bạn muốn thay thế. 
+Một số công trình đặc thù có thể không hiển thị trong danh sách hoặc không hỗ trợ tính năng thay thế trực tiếp. 
+Một số phương án thay thế vật liệu sẽ bị vô hiệu hóa nếu trong kho không có sẵn lượng vật liệu xây dựng cần thiết."
 uprade_building_selected,0,,Đã Chọn
 uprade_building_possible,0,,Các Phương Án Thay Thế Khả Dụng
 hud_info_show_stability_vis,0,,Hiển thị chỉ số độ vững chắc quanh con trỏ chuột
@@ -650,11 +652,11 @@ trade_message_cant_continue,0,,Giao dịch này không được chấp nhận. T
 trade_balance_title,0,,Cán cân trao đổi
 trade_balance_desc,0,,"Nếu cán cân nghiêng về phía bạn (bên phải), bạn đang yêu cầu nhiều hơn mức đề nghị. Nếu nghiêng về phía thương nhân (bên trái), bạn đang trao nhiều hơn mức yêu cầu. Chỉ có thể giao dịch khi nằm trong Ngưỡng mặc cả. Ngưỡng này chịu ảnh hưởng bởi kỹ năng Giao tiếp của người đàm phán."
 trade_balance_bargain,0,,Ngưỡng mặc cả
-trade_wont_buy,0,,Công trình này Thương nhân will not trade cho this resource
+trade_wont_buy,0,,Thương nhân này sẽ không trao đổi tài nguyên này
 trade_number_settlement,0,,Số lượng tài nguyên này mà bạn hiện có sẵn để trao đổi
 trade_number_merchant,0,,Số lượng tài nguyên thương nhân có sẵn để trao đổi
 wealth_price_sell,0,,Giá trị thu được khi trao đổi vật phẩm này
-wealth_price_buy,0,,Value Thương nhân gains when trading this item
+wealth_price_buy,0,,Giá trị thương nhân nhận được khi trao đổi món đồ này
 base_trade_value,0,,Base giá trị
 settler_trade_bonus,0,,Dân làng trade bonus
 trade_buying,0,,Đang mua
@@ -667,7 +669,7 @@ extortion_take,0,,Chiếm đoạt
 extortion_negotiator_give,0,,Tổng giá trị bạn sẽ giao cho người đàm phán
 extortion_demand_title,0,,Số lượng yêu sách
 extortion_demand_desc,0,,Lượng giá trị mà người đàm phán yêu sách từ bạn. Mức giá chịu ảnh hưởng bởi kỹ năng của dân làng đàm phán. 
-extortion_wont_take,0,,Công trình này negotiator will not Chấp nhận this resource
+extortion_wont_take,0,,Kẻ tống tiền này sẽ không chấp nhận tài nguyên này
 extortion_number_settlement,0,,Số lượng tài nguyên này mà bạn có sẵn để giao nộp
 wealth_price_give,0,,Giá trị khi trao tặng vật phẩm này
 extortion_are_you_sure,0,,Là bạn sure đó bạn want đến finalise này negotiation?
@@ -702,7 +704,7 @@ caravan_travel_to,0,,Đi đến
 distance_from_village,0,,Khoảng cách ô đất
 caravan_message_food,0,,Không đủ lương thực để bắt đầu chuyến đi
 caravan_message_mass,0,,Thương đoàn không thể di chuyển vì quá nặng
-trader_message_mass,0,,Thương nhân can't carry this much weight
+trader_message_mass,0,,Thương nhân không thể mang vác khối lượng nặng đến mức này
 negotiator_message_mass,0,,Negotiator có thể't carry này much weight
 message_trader_is_locked,0,,"Thương nhân không thể rời đi vì bị nhốt hoặc bị tường vây kín. Nếu bạn không thả họ đi, mối quan hệ giữa khu định cư và <faction_name> sẽ sụt giảm nghiêm trọng."
 action_caravan_return,0,,Quay lại
@@ -928,11 +930,11 @@ general_male_animal,0,,Đực
 general_female_animal,0,,Cái
 animal_pen_panel_title,0,,Động vật Pen
 animal_pen_panel_description,0,,Chọn loại động vật được nuôi trong chuồng này.
-animal_pen_disabled_outside,0,,Công trình này pen marker must be trong an enclosed area để work.
+animal_pen_disabled_outside,0,,Cột mốc chuồng này phải nằm trong một khu vực kín để hoạt động.
 menu_animals,0,,Động vật
 menu_type,0,,Loại
 scenario_condition_Animals,0,,Vật nuôi ban đầu
-is_storable_on_some_stockpile,0,,Bãi chứa that can store this resource exists
+is_storable_on_some_stockpile,0,,Có bãi chứa phù hợp để lưu trữ tài nguyên này
 is_marked_for_hauling,0,,Marked cho Vận chuyển
 reserved_spaces,0,,Số ô đã giữ chỗ
 manage_panel_cant_change,0,,Không thể thay đổi hồ sơ mặc định. Hãy tạo hồ sơ mới bằng nút dấu cộng và chỉnh sửa hồ sơ đó.
@@ -951,7 +953,7 @@ trader_wont_sell_animal,0,,Không thể bán con vật này
 trade_animal_locked,0,,Không thể tiếp cận con vật này
 select_all_tooltip,0,,Mark/Xóa sạch Tất cả
 game_difficulty_Custom_title,0,,Tùy chỉnh
-game_difficulty_Custom_info,0,,Customise your game difficulty cấp độ. Choose what types của events you would like để exclude during your run.
+game_difficulty_Custom_info,0,,Tùy chỉnh độ khó trò chơi theo ý muốn. Chọn các loại sự kiện bạn muốn loại trừ trong quá trình chơi.
 predators_cant_attack,0,,Không thể được targeted bởi predators
 animal_roped_to,0,,Bị buộc vào
 menu_count,0,,Số lượng
@@ -975,7 +977,7 @@ sow_recomended_time,0,,Recommended Gieo trồng period
 hud_info_show_temperature_heatmap,0,,Hiển thị bản đồ nhiệt độ.
 heatmap_legend,0,,Chú giải bản đồ nhiệt
 general_intensity,0,,Cường độ
-general_intensity_info,0,,"Đổi intensity của this Nóng source. Changing để a higher intensity will increase Nhiệt độ output, but will also use more fuel."
+general_intensity_info,0,,"Thay đổi cường độ của nguồn nhiệt này. Tăng cường độ sẽ làm tăng lượng nhiệt tỏa ra, nhưng cũng sẽ tiêu hao nhiều nhiên liệu hơn."
 node_snow,0,,Tuyết rơi
 node_wet,0,,Ướt
 node_grass,0,,Đồng cỏ
@@ -997,7 +999,7 @@ effector_name_BeliefFlawlessItemChristian,0,,God's grace guided điều này cre
 effector_name_BeliefFlawlessItemPagan,0,,Chư thần đã dẫn lối đôi tay ta
 effector_name_BeliefFlimsyItemChristian,0,,Ta đã thất bại. Chẳng lẽ Chúa đã bỏ rơi ta?
 effector_name_BeliefFlimsyItemPagan,0,,Chư thần hẳn đang cười nhạo thất bại này.
-effector_name_BeliefNatureChristian,0,,Could điều này be work của Almighty?
+effector_name_BeliefNatureChristian,0,,Liệu đây có phải là điềm báo của Đấng Toàn Năng?
 effector_name_BeliefNaturePagan,0,,Phải chăng đây là điềm báo từ chư thần?
 not_available,0,,<style=DefaultRed>Công trình này không thể sử dụng vì môi trường không phù hợp</style> 
 temperature_out_of_range,0,,Unsuitable Nhiệt độ
@@ -1029,7 +1031,7 @@ All_apply_order,0,,Áp dụng để all
 bed_temporary_owner,0,,Giường được chỉ định của dân làng ở quá xa. Họ đang tạm thời sử dụng chiếc giường này để ngả lưng.
 general_prisoners,0,,Tù nhân
 general_prisoner,0,,Tù nhân
-surender_screen_info,0,,"Choose assailants you want để capture as prisoners của war. Chờ a Dân làng với Goaler job active để escort prisoners để a cell. But hurry, they won't wait forever."
+surender_screen_info,0,,"Chọn những kẻ tấn công bạn muốn bắt làm tù binh chiến tranh. Đợi dân làng có nhiệm vụ Cai Ngục giải tù nhân vào phòng giam. Hãy nhanh chóng, vì họ sẽ không chờ đợi mãi."
 surender_screen_title,0,,Kẻ thù đã đầu hàng
 bbt_prisoner_run,0,,<name> là making a run cho nó!
 bbt_prisoner_gone,0,,<name> có reached edge của map và escaped.
@@ -1054,7 +1056,7 @@ action_RecruitPrisoner,0,,Chiêu mộ
 action_RecruitPrisoner_info,0,,Một dân làng giữ vai trò Cai ngục sẽ nói chuyện với tù nhân mỗi ngày để thuyết phục họ gia nhập khu định cư của bạn.
 action_releasePrisoner,0,,Thả tự do
 action_releasePrisoner_info,0,,Đánh dấu tù nhân để phóng thích. Một dân làng làm Quản ngục sẽ đưa người bị giam đến rìa bản đồ và thả họ. Việc này có thể tăng thiện cảm với phe của tù nhân.
-worker_action_RecruitPrisonerGoal,0,,Đang Thuyết Phục Chiêu Mộ Tù Nhân
+worker_action_RecruitPrisonerGoal,0,,Đang Chiêu Mộ Tù Nhân
 recruit_successful_message,0,,Chiêu mộ tù nhân thành công
 recruit_failed_message,0,,Chiêu mộ tù nhân thất bại
 recruit_try_left,0,,Số lượt chiêu mộ còn lại trong ngày hôm nay
@@ -1191,7 +1193,7 @@ sign_message,0,,Nội dung biển hiệu
 filter_all_items,0,,All tài nguyên
 filter_animals,0,,Động vật
 filter_prisoners,0,,Tù nhân
-workshop_version_not_set,0,,Works với beta branches: Not set by mod creator
+workshop_version_not_set,0,,Tương thích với các nhánh thử nghiệm (beta): Tác giả mod chưa thiết lập
 workshop_version_max_older,0,,Works với beta branches: {max} và older
 workshop_version_min_newer,0,,Works với beta branches: {min} và newer
 workshop_version_single,0,,Works với beta branch: {min}
@@ -1253,14 +1255,14 @@ global_stat_military_influence_name,0,,Uy danh quân sự
 global_stat_trade_influence_name,0,,Uy danh thương mại
 global_stat_cultural_influence_name,0,,Uy danh học thức
 global_stat_infamy_name,0,,Tai tiếng
-global_stat_religious_influence_tooltip,0,,"Holding Eucharist events và having a top level Chaplain will help you spread your religious renown throughout region. 
-Reaching 100% Church của Phục Hưng Renown will give you option để construct a Cathedral, cementing your regional eminence."
-global_stat_pagan_influence_tooltip,0,,"Holding Ritual events và having a top level Druid will help you spread your Huynh Đệ Cây Sồi renown trong region. 
-Reaching 100% Huynh Đệ Cây Sồi renown will give you option để grow a Mighty Oak, symbolising your regional prestige."
+global_stat_religious_influence_tooltip,0,,"Tổ chức các buổi lễ Tiệc Thánh và có một Tuyên Úy cấp cao sẽ giúp bạn truyền bá danh tiếng tôn giáo khắp vùng.
+Đạt 100% Danh tiếng Giáo Hội Phục Hưng sẽ cho bạn lựa chọn xây dựng Đại Nhà Thờ, củng cố vị thế tối cao trong khu vực."
+global_stat_pagan_influence_tooltip,0,,"Tổ chức các Nghi Lễ Cúng Tế và có một Tu Sĩ Druid cấp cao sẽ giúp bạn truyền bá danh tiếng Huynh Đệ Cây Sồi trong vùng.
+Đạt 100% Danh tiếng Huynh Đệ Cây Sồi sẽ cho bạn lựa chọn nuôi dưỡng một Cây Sồi Khổng Lồ, biểu tượng cho uy thế trong khu vực."
 global_stat_military_influence_tooltip,0,,"Đánh bại kẻ thù trong giao tranh và sở hữu một Trung sĩ huấn luyện bậc cao sẽ giúp lan tỏa danh tiếng Quân Sự của bạn khắp khu vực.
 Đạt 100% danh tiếng Quân Sự sẽ cho phép bạn chứng tỏ uy quyền bằng cách tiêu diệt các sào huyệt của thổ phỉ trong vùng, tôn vinh bạn làm Đấng Bảo Hộ Vương Quốc."
-global_stat_trade_influence_tooltip,0,,"Trading với merchants và sending caravans will help you spread your Mercantile renown. 
-Reaching 100% will give you option để establish a Charter Fair trong your region, confirming your mercantile prowess."
+global_stat_trade_influence_tooltip,0,,"Giao thương với các thương nhân và cử đoàn buôn sẽ giúp bạn lan tỏa Danh tiếng Thương nghiệp.
+Đạt 100% sẽ cho bạn lựa chọn tổ chức một Hội Chợ Đặc Quyền trong vùng, khẳng định vị thế thương mại vững mạnh."
 global_stat_cultural_influence_tooltip,0,,"Tổ chức các sự kiện học thuật và có Thủ thư cấp cao sẽ giúp lan tỏa danh tiếng Học thức trong khu vực.
 Đạt 100% sẽ cho phép bạn trở thành Đại học, khẳng định vị thế trung tâm học thuật lớn."
 global_stat_infamy_tooltip,0,,"Giết tù nhân và tấn công thương nhân trung lập sẽ làm tăng tai tiếng của bạn. Hãy cẩn thận. Tai tiếng đạt 100% nghĩa là không ai giao thương với bạn, và có thể sẽ có kẻ đứng lên loại bỏ ảnh hưởng độc hại của bạn khỏi khu vực."
@@ -1274,7 +1276,7 @@ global_stat_military_influence_news100,0,,"Uy danh quân sự của bạn đã v
 global_stat_trade_influence_news50,0,,"Danh tiếng thương mại của bạn đã tăng. Chưa bao giờ buôn bán sinh lời đến thế, cũng chưa từng có đám đông nào chen chân đến chợ như vậy."
 global_stat_trade_influence_news100,0,,"Của bạn Mercantile Renown có increased đến levels beyond của bạn wildest dreams, và vàng flows through <village_name> like nước. Bạn có thể now rally của bạn guilds đến establish a Charter Fair, hallmark của a tuyệt vời trading centre."
 global_stat_cultural_influence_news50,0,,Của bạn Intellectual Renown có increased. Của bạn scribes có thể barely meet surging demand cho manuscripts elucidating theories espoused bởi của bạn greatest thinkers.
-global_stat_cultural_influence_news100,0,,"Của bạn Intellectual Renown có increased đến của nó zenith: của bạn library attracts nhiều nhất creative và erudite academics của của chúng ta time. Carpe diem! Bạn may establish <village_name> University, ensuring knowledge flourishes here trong perpetuity."
+global_stat_cultural_influence_news100,0,,"Danh tiếng Học thuật của bạn đã đạt đến đỉnh cao: thư viện của bạn thu hút những học giả sáng tạo và uyên bác nhất thời đại. Hãy nắm bắt thời cơ! Bạn có thể thành lập Đại Học <village_name>, bảo đảm tri thức mãi mãi nở rộ nơi đây."
 global_stat_infamy_news50,0,,Tiếng xấu của bạn đã lan rộng. Tai tiếng luôn đi kèm cái giá của nó - điều này có thể gây ra những hậu quả tiêu cực từ các phe phái khác.
 global_stat_infamy_news100,0,,Tiếng xấu của bạn đã chạm đáy. Mọi tội lỗi sẽ bị trừng phạt - bạn đã trở thành kẻ bị ruồng bỏ giữa các phe phái; họ sẽ xa lánh thương nhân của bạn và thách thức <village_name> bất cứ khi nào có cơ hội.
 global_stat_infamy_news101,0,,Tiếp tục gia tăng tiếng xấu bất chấp cảnh báo cuối cùng như giọt nước làm tràn ly. Các phe phái đã liên minh chống lại <settlement_name> và sẽ tấn công không khoan nhượng.
@@ -1282,7 +1284,7 @@ objective_Infamy_name,0,,Bạo chúa thống trị
 objective_infamy_tooltip,0,,"Bất chấp những lời cảnh báo, tiếng xấu của bạn đã khiến các phe phái trong vùng nổi dậy và nhắm tới việc hủy diệt khu định cư của bạn."
 objective_infamy_info,0,,"Bất chấp những lời cảnh báo, tiếng xấu của bạn đã khiến các phe phái trong vùng nổi dậy và nhắm tới việc hủy diệt khu định cư của bạn."
 objective_infamy_survive_attacks,0,,Sống sót
-objective_infamy_survive_attacks_info,0,,"Survive an onslaught của 3x waves của Kẻ thù. If you succeed, you will sieze ultimate power as Tyrant Overlord của region."
+objective_infamy_survive_attacks_info,0,,"Sống sót qua đợt tấn công dữ dội gồm 3 đợt kẻ thù. Nếu thành công, bạn sẽ nắm giữ quyền lực tối thượng với tư cách là Chúa Tể Bạo Chúa của vùng."
 religious_influence_unlock_in_ui,0,,Uy danh Hội Phục Hưng đang gia tăng trong khu vực
 pagan_influence_unlock_in_ui,0,,Uy danh Huynh Đệ Cây Sồi đang gia tăng trong khu vực
 military_influence_unlock_in_ui,0,,Uy danh quân sự đang gia tăng trong khu vực
@@ -1291,7 +1293,7 @@ cultural_influence_unlock_in_ui,0,,Uy danh học thức đang gia tăng trong kh
 game_event_type_final,0,,Cuối cùng Step
 bbt_step_completed,0,,Đã hoàn thành bước:
 objective_religious_name,0,,Trung tâm hành hương
-objective_religious_tooltip,0,,"Commit your settlement để become a Centre của Pilgrimage, which will make your Church của Phục Hưng a cathedral."
+objective_religious_tooltip,0,,"Định hướng khu định cư của bạn trở thành Trung Tâm Hành Hương, cho phép nâng cấp Nhà Thờ Phục Hưng thành một Đại Nhà Thờ."
 objective_religious_info,0,,"Bạn phải biến khu định cư của mình thành một Trung tâm Hành hương. Để làm được điều này, bạn cần đạt các yêu cầu sau:"
 activate_objective_confirm,0,,Đảm nhận mục tiêu này đồng nghĩa với việc bạn không thể chọn bất kỳ mục tiêu tiềm năng nào khác trong màn chơi. Bạn có chắc muốn tiếp tục?
 objective_religious_have_priest,0,,Chaplain Cấp độ 3
@@ -1477,7 +1479,8 @@ tutorial_equipment_info,0,,"<style=AlmParagraph>Trang bị vũ khí & Giáp tr�
 tutorial_game_speed,0,,Hướng dẫn: Tốc độ trò chơi
 tutorial_game_speed_info,0,,"<style=AlmParagraph>Điều khiển tốc độ trò chơi\n</style>- Bạn có thể thay đổi tốc độ trôi qua của thời gian.\n- Nhấp vào các nút chỉnh tốc độ trên giao diện.\n- Hoặc dùng các phím tắt [<style=Shortcut>1</style>], [<style=Shortcut>2</style>], [<style=Shortcut>3</style>].\n- Nhấn phím [<style=Shortcut>Space</style>] (phím Cách) để tạm dừng trò chơi.\n- Khi trò chơi tạm dừng, bạn vẫn có thể tự do ra lệnh, đặt bản vẽ công trình và huy động dân làng.<style=AlmParagraph>\nMẹo\n</style>- <style=Desc>Điều này cực kỳ hữu ích khi bạn cần suy tính chiến thuật trong các tình huống hiểm nghèo.</style>"
 tutorial_jobs,0,,Hướng dẫn: Phân công công việc
-tutorial_jobs_info,0,,"<style=AlmParagraph>Mức độ ưu tiên công việc\n</style>- Bảng <b>CÔNG VIỆC</b> là nơi bạn thiết lập mức ưu tiên nhiệm vụ cho từng dân làng.\n- Theo mặc định, dân làng sẽ ưu tiên thực hiện công việc từ trái sang phải.\n- Sử dụng <sprite=""ctrl_left_click"" index=t> và <sprite=""ctrl_right_click"" index=t> để thay đổi mức ưu tiên, giúp dân làng ưu tiên làm việc này trước việc khác.\n- Các công việc có cùng mức ưu tiên sẽ được xử lý theo thứ tự từ trái sang phải.\n- Nếu ô công việc để trống, dân làng đó sẽ không bao giờ làm công việc ấy.\n- Dân làng sẽ luôn chọn công việc có mức ưu tiên cao nhất mà họ có thể thực hiện.\n- Nếu một công việc không nằm trong danh sách ưu tiên của bất kỳ ai, công việc đó sẽ bị bỏ quên hoàn toàn.\n- Màu sắc khung viền của ô công việc biểu thị cấp độ kỹ năng tương ứng của dân làng.\n<style=AlmParagraph>\nMẹo\n</style>- <style=Desc>Nếu một dân làng có kỹ năng quá thấp ở một nghề nhất định, tốt nhất bạn nên tắt hẳn công việc đó đối với họ — nếu không, họ rất dễ làm hỏng việc. Điều này đặc biệt quan trọng trong các công tác như thu hoạch mùa màng. Ví dụ: dân làng có kỹ năng Nông nghiệp yếu kém có thể làm hỏng vụ mùa và gây thất thu hoàn toàn. Vì vậy, hãy để mỗi người tập trung vào sở trường của mình!</style>"
+tutorial_jobs_info,0,,"<style=AlmParagraph>Mức độ ưu tiên công việc\n</style>- Bảng <b>CÔNG VIỆC</b> là nơi bạn thiết lập mức ưu tiên nhiệm vụ cho từng dân làng.\n- Theo mặc định, dân làng sẽ ưu tiên thực hiện công việc từ trái sang phải.\n- Sử dụng <sprite=""ctrl_left_click"" index=t> và <sprite=""ctrl_right_click"" index=t> để thay đổi mức ưu tiên, giúp dân làng ưu tiên làm việc này trước việc khác.\n- Các công việc có cùng mức ưu tiên sẽ được xử lý theo thứ tự từ trái sang phải.\n- Nếu ô công việc để trống, dân làng đó sẽ không bao giờ làm công việc ấy.\n- Dân làng sẽ luôn chọn công việc có mức ưu tiên cao nhất mà họ có thể thực hiện.\n- Nếu một công việc không nằm trong danh sách ưu tiên của bất kỳ ai, công việc đó sẽ bị bỏ quên hoàn toàn.\n- Màu sắc khung viền của ô công việc biểu thị cấp độ kỹ năng tương ứng của dân làng.
+<style=AlmParagraph>\nMẹo\n</style>- <style=Desc>Nếu một dân làng có kỹ năng quá thấp ở một nghề nhất định, tốt nhất bạn nên tắt hẳn công việc đó đối với họ — nếu không, họ rất dễ làm hỏng việc. Điều này đặc biệt quan trọng trong các công tác như thu hoạch mùa màng. Ví dụ: dân làng có kỹ năng Nông nghiệp yếu kém có thể làm hỏng vụ mùa và gây thất thu hoàn toàn. Vì vậy, hãy để mỗi người tập trung vào sở trường của mình!</style>"
 tutorial_layer_control,0,,Hướng dẫn: Các tầng độ cao thế giới
 tutorial_layer_control_info,0,,"<style=AlmParagraph>Các tầng thế giới\n</style>- Bạn có thể chuyển đổi góc nhìn qua lại giữa các tầng cao thấp của địa hình và công trình.\n- Dùng các nút chuyển tầng lên/xuống ở góc trên bên trái màn hình.\n- Hoặc sử dụng các phím tắt [<style=Shortcut>,</style>] và [<style=Shortcut>.</style>].\n- Dùng tổ hợp [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Con lăn chuột</style>] để chuyển tầng nhanh chóng.\n- Dùng tổ hợp [<style=Shortcut>Ctrl</style>] + <sprite=""ctrl_left_click"" index=t> vào bất kỳ vật thể hoặc mặt đất nào để chuyển ngay tới tầng độ cao tương ứng.<style=AlmParagraph>\nMẹo\n</style><style=Desc>- Thao tác này cực kỳ tiện lợi khi xây dựng và bố trí các công trình nhiều tầng.</style>"
 tutorial_move,0,,Hướng dẫn: Điều khiển dân làng
@@ -1572,7 +1575,7 @@ system_fermentation,0,,Quá trình Lên Men
 system_fermentation_info,0,,Một số tài nguyên như sữa đông có thể lên men khi nhiệt độ phù hợp. Tài nguyên lên men sẽ biến thành tài nguyên mới khi quá trình hoàn tất. Ví dụ: sữa đông sẽ biến thành phô mai.
 system_stability,0,,Độ vững chắc
 system_stability_info,0,,"- Mỗi công trình đều có chỉ số độ vững chắc.\n- Chỉ số này quyết định bạn có thể gắn thêm công trình khác vào hay không.\n- Khi đặt trực tiếp trên mặt đất, công trình có độ vững chắc là <b>4</b>. Mỗi khối nối tiếp xa hơn sẽ bị trừ <b>-1</b> độ vững chắc.\n- Không thể đặt công trình có độ vững chắc bằng <b>0</b>.\n- Độ vững chắc theo phương thẳng đứng không bị suy giảm.\n- Bật chế độ hiển thị độ vững chắc <sprite=""stability_overlay_text_icon"" index=t> để xem chỉ số quanh con trỏ.\n<style=AlmParagraph>\nXà dầm\n</style>\n- Đặt xà dầm giữa hai bức tường hoặc khối địa hình. Nếu một bên bị phá hủy, xà dầm và mọi thứ đặt trên nó cũng sẽ sụp đổ.\n- Xà dầm có tầm với tối đa là 10 ô lưới.\n- Xà dầm nhận độ vững chắc thấp hơn từ một trong hai điểm tựa.\n- Chỉ có tường, cửa sổ, cửa đi, mái nhà, tường răng cưa và sàn nhà mới có thể đặt trên xà dầm."
-jobs_tooltip,0,,Jobs set để same Mức ưu tiên level will be prioritized left để right.
+jobs_tooltip,0,,Các công việc có cùng mức ưu tiên sẽ được thực hiện theo thứ tự từ trái sang phải.
 gameplay_tips_camera_control,0,,Điều khiển camera
 gameplay_tips_camera_control_info,0,,"- Dùng các phím [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] để di chuyển góc nhìn camera.\n- Dùng con lăn chuột hoặc [<style=Shortcut><input:ZoomIn></style>] & [<style=Shortcut><input:ZoomOut></style>] để phóng to/thu nhỏ.\n- Giữ [<sprite=""ctrl_middle_click"" index=t>] và di chuột để xoay và nghiêng góc nhìn.\n\n<style=Desc>MẸO: Bạn có thể tùy chỉnh phím điều khiển camera trong menu cài đặt.</style>\n"
 photo_mode_instructions,0,,"- Use [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys đến move của bạn camera around.\n- Use Mouse wheel hoặc [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] đến zoom.\n- Giữ [<sprite=""ctrl_middle_click"" index=t>] và move mouse đến rotate và tilt camera.\n\n<style=Desc>TIP: Bạn có thể customise camera controls trong tùy chọn menu.</style>\n"
@@ -1688,7 +1691,7 @@ tut_select_build_floor,0,,Chọn Wooden Floor
 tut_drag_place_floors,0,,"Giữ [<sprite=""ctrl_left_click"" index=t>] và kéo để đặt sàn trong khu vực được đánh dấu"
 tut_wait_to_build_floors,0,,Chờ dân làng để xây xong
 tut_roof_name,0,,Xây dựng Roofs
-tut_roof_info,0,,Roofs need at least two points trên which để Nghỉ ngơi. Đặt them trên tườngs để complete building house.
+tut_roof_info,0,,Mái nhà cần ít nhất hai điểm tựa để nâng đỡ. Hãy đặt mái lên các bức tường để hoàn thiện ngôi nhà.
 tut_roof_build_base,0,,Mở Base panel
 tut_select_build_roof,0,,Chọn Thatched Roof
 tut_drag_place_roofs,0,,"Giữ [<sprite=""ctrl_left_click"" index=t>] và drag đến place mái nhà trên khu vực được đánh dấu"
@@ -1877,7 +1880,7 @@ action_neutral_11,0,,đưa ra lời nhận xét chân tình về
 action_positive_1,0,,vô cùng hào hứng chia sẻ về
 action_positive_2,0,,mở đầu một cuộc trò chuyện ấm cúng về
 action_positive_3,0,,thỏa sức trêu đùa vui vẻ về
-action_verypositive_1,0,,nói bằng tất cả sự chân thành và trìu mến về
+action_verypositive_1,0,,nói lời trìu mến về
 action_verypositive_2,0,,đặc biệt yêu thích khi được hàn huyên về
 action_verypositive_3,0,,say sưa đắm mình trong những câu chuyện về
 action_verypositive_4,0,,có thể ngồi hàng giờ liền say mê đàm đạo về
@@ -1907,11 +1910,11 @@ topic_smalltalk_23,0,,fleas và ticks
 topic_smalltalk_24,0,,bàn về catching rabbits
 topic_smalltalk_25,0,,những điểm câu cá lý tưởng nhất
 topic_smalltalk_26,0,,việc phơi cỏ khô
-topic_smalltalk_27,0,,các loài cây chiết xuất màu nhuộm tốt
+topic_smalltalk_27,0,,cây làm phẩm nhuộm tốt
 topic_smalltalk_28,0,,nghề đan lát giỏ liễu gai
 topic_smalltalk_29,0,,những hàng rào gỗ bị gãy đổ
-topic_smalltalk_30,0,,những chiếc giường nệm gồ ghề khó ngủ
-topic_smalltalk_31,0,,chứng đau nhức xương khớp mùa lạnh
+topic_smalltalk_30,0,,những chiếc giường gồ ghề
+topic_smalltalk_31,0,,đau nhức xương khớp mùa lạnh
 topic_smalltalk_32,0,,môn đấu vật truyền thống
 topic_smalltalk_33,0,,nghệ thuật cờ vua
 topic_smalltalk_34,0,,kỹ thuật vá tất len
@@ -1965,7 +1968,7 @@ topic_beliefoakbrethren_10,0,,tục hiến tế máu công khai trước bàn th
 topic_beliefrestitution_1,0,,sự quy phục tuyệt đối trước uy quyền của Đấng Tối Cao
 topic_beliefrestitution_2,0,,sự tuân thủ nghiêm ngặt giáo lý tôn giáo
 topic_beliefrestitution_3,0,,Thánh Francis thành Assisi
-topic_beliefrestitution_4,0,,nhà thần học vĩ đại Thomas Aquinas
+topic_beliefrestitution_4,0,,thánh Thomas Aquinas
 topic_beliefrestitution_5,0,,trạng thái xuất thần của các nữ tu thần bí
 topic_beliefrestitution_6,0,,liệu các giáo sĩ có nên được phép lập gia đình
 topic_beliefrestitution_7,0,,Dòng tu Đa Minh (Dominican)
@@ -1973,17 +1976,17 @@ topic_beliefrestitution_8,0,,cái giá đắt và thảm kịch của cuộc Th�
 topic_beliefrestitution_9,0,,niềm hy vọng cứu rỗi linh hồn
 topic_beliefrestitution_10,0,,sự hiện diện của Chúa và chủ nghĩa khắc kỷ
 topic_beliefrestitution_11,0,,tội lỗi của hành vi đa thê song hôn
-topic_belief_1,0,,các học thuyết y khoa của danh y Galen
+topic_belief_1,0,,học thuyết y khoa Galen
 topic_belief_2,0,,ai mới thực sự là kẻ khơi mào các cuộc Thập Tự Chinh
 topic_belief_3,0,,phương pháp biện chứng của thuyết kinh viện
 topic_belief_4,0,,những luận giải của Avicenna về triết gia Aristotle
 topic_belief_5,0,,sự phụ thuộc mù quáng vào thuật chiêm tinh
 topic_belief_6,0,,quan niệm ác quỷ gieo rắc mầm mống bệnh tật
-topic_belief_7,0,,thuật phù thủy và các bài thuốc chữa lành dân gian
+topic_belief_7,0,,thuật phù thủy và thuật chữa lành
 topic_belief_8,0,,việc tái lập chế độ phong kiến nông nô
 topic_belief_9,0,,lý tưởng tình yêu cung đình lãng mạn
 topic_belief_10,0,,chế độ quân chủ chuyên chế
-topic_belief_11,0,,nhân vật sủng thần hoàng gia Piers Gaveston
+topic_belief_11,0,,sủng thần Piers Gaveston
 topic_belief_12,0,,tục ăn thịt đồng loại ghê rợn
 topic_belief_13,0,,việc các tín đồ Pagan tự sáng tạo ra các nghi lễ mới
 reaction_verb_default_1,0,,dường như
@@ -2203,7 +2206,7 @@ death_human_6,0,,<agent_name> biết rằng hồi kết đã điểm.
 death_human_7,0,,"Alas, <agent_name> lives Không more."
 death_human_8,0,,"Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: ""<agent_name> felt [his/her] vision dim. Death awaited [him/her]."""
 death_human_9,0,,"Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: ""<agent_name> succumbed để Reaper's scythe"""
-death_human_10,0,,"Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: ""<agent_name> felt borne aloft by Azrael's wings as [he/she] died"""
+death_human_10,0,,<agent_name> cảm thấy như được nâng lên trên đôi cánh của Thiên thần Azrael khi [he/she] trút hơi thở cuối cùng
 death_human_11,0,,<agent_name> nghe thấy tiếng vó ngựa trắng tử thần đang tiến lại gần. Thần Chết đã đến bên [him/her].
 death_human_12,0,,<agent_name> nhìn thấy thể xác của [his/her] trôi dần về phía dưới và hiểu rằng mọi chuyện đã kết thúc.
 death_human_13,0,,"Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: ""<agent_name> fought. But Fates had already cut [his/her] mortal thread."""
@@ -2287,7 +2290,7 @@ event_saw_failed_harvest_positive,0,,"<agent_name> nhận ra <target_name> đã 
 event_saw_failed_harvest_negative,0,,<agent_name> nổi cơn lôi đình khi thấy <target_name> đã làm hỏng cả vụ mùa. #1[He/She] căm ghét việc bao nhiêu mồ hôi công sức bị vứt bỏ hoang phí.
 event_saw_failed_digging_positive,0,,"<agent_name> nghĩ rằng <target_name> sẽ tiến bộ hơn nếu có người hướng dẫn tận tình, bởi công việc đào đất của #2[his/her] chẳng thu hoạch được là bao."
 event_saw_failed_digging_negative,0,,<agent_name> không thể tin nổi <target_name> đã hì hục đào xới suốt bấy lâu mà kết quả mang lại lại thảm hại đến mức này.
-event_saw_failed_chopping_negative,0,,<agent_name> chứng kiến một thân gỗ tốt bị <target_name> chặt chém vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng.
+event_saw_failed_chopping_negative,0,,<agent_name> chứng kiến một thân gỗ tốt bị <target_name> đốn hạ vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng từ tận đáy lòng #1[his/her].
 event_saw_failed_chopping_positive,0,,<agent_name> không thể nhịn được cười khi thấy <target_name> là tay tiều phu lóng ngóng vụng về nhất trần đời.
 event_saw_flimsy_production_positive,0,,"<agent_name> rất thích nhìn thấy <target_name> thỏa sức thử nghiệm sự sáng tạo của mình, ngay cả khi món đồ <item_name> làm ra trông chẳng đâu vào đâu."
 event_saw_flimsy_production_negative,0,,<agent_name> vô cùng thất vọng và xót xa khi <target_name> đã phung phí bao nhiêu nguyên liệu quý chỉ để tạo ra một món <item_name> vô dụng.
@@ -2357,9 +2360,9 @@ effector_name_AffectionInteractedWithArmouPositive,0,,[He/She] rèn nên một b
 effector_name_AffectionInteractedWithArmouNegative,0,,[He/She] rèn bộ giáp trụ quá mỏng manh xoàng xĩnh
 effector_name_AffectionInteractedWithGarmentPositive,0,,[He/She] may một bộ trang phục đẹp mắt tuyệt vời
 effector_name_AffectionInteractedWithGarmentNegative,0,,[He/She] may trang phục luộm thuộm không vừa vặn
-event_belief_near_death_christian_to_pagan,0,,"Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. Đức tin của [his/her] đã hoàn toàn sụp đổ."
-event_belief_near_death_pagan_to_christian,0,,"Chẳng có sừng rượu mật ong nào nơi cõi tiên Tír na nÓg đón chờ <agent_name>; giữa vòng tay lạnh lẽo của tử thần, [he/she] chỉ cảm nhận thấy sự trống rỗng cay đắng."
-event_belief_intoxication_christian_to_pagan,0,,"Chìm sâu trong men rượu say nồng, <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
+event_belief_near_death_christian_to_pagan,0,,"Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. [His/Her] đức tin đã hoàn toàn sụp đổ."
+event_belief_near_death_pagan_to_christian,0,,"Chẳng có sừng rượu mật ong nào nơi cõi tiên Tír na nÓg đón chờ <agent_name>; trong vòng tay lạnh lẽo của tử thần, người ấy chỉ cảm nhận thấy sự trống rỗng cay đắng."
+event_belief_intoxication_christian_to_pagan,0,,"Chìm sâu trong chén rượu của [his/her], <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
 event_belief_intoxication_pagan_to_christian,0,,"Trong cơn say chếnh choáng, <agent_name> đau đớn nhận ra các Cổ Thần từ lâu đã ruồng bỏ mảnh đất này cùng tất cả những sinh linh cư ngụ trên đó."
 event_belief_friend_died_christian_to_pagan,0,,"Liệu Thiên Chúa có thật sự hiện hữu? Nếu có, Ngài ắt đã không nhẫn tâm để bạn hữu của <agent_name> phải lìa đời một cách thảm thương đến thế."
 event_belief_friend_died_pagan_to_christian,0,,"<agent_name> hoàn toàn từ bỏ niềm tin vào các Cổ Thần, khi chứng kiến các đấng tối cao trơ mắt nhìn bạn hữu của [his/her] bỏ mạng."
@@ -2368,7 +2371,7 @@ event_belief_raid_lost_pagan_to_christian,0,,Nỗi uất hận trào dâng trong
 event_belief_raid_won_christian_to_christian,0,,<agent_name> tin tưởng vững chắc rằng con đường và chính nghĩa của [his/hers] đã được Thiên Chúa chở che và soi sáng.
 event_belief_raid_won_pagan_to_pagan,0,,Các Cổ Thần linh thiêng thời xa xưa đã ban phước cho <agent_name> sức mạnh vô song để đè bẹp kẻ thù.
 event_belief_flawless_item_christian_to_christian,0,,"Đức tin của <agent_name> vào bàn tay dẫn dắt nhiệm màu của Thiên Chúa càng thêm sâu sắc, khi thành quả lao động của [his/her] đạt tới cảnh giới hoàn mỹ."
-event_belief_flawless_item_pagan_to_pagan,0,,"Bằng sự che chở của các Cổ Thần, đôi bàn tay của <agent_name> đã tạo nên một tạo tác tuyệt mỹ không tì vết."
+event_belief_flawless_item_pagan_to_pagan,0,,"<agent_name> đã thể hiện trọn vẹn vẻ đẹp thuần khiết của Tự Nhiên qua từng đường nét chế tác, qua đó càng củng cố sâu sắc thêm đức tin của [his/her]."
 event_belief_flimsy_item_christian_to_pagan,0,,<agent_name> vô cùng thất vọng vì Chúa đã khiến [him/her] vụng về và bất tài đến vậy. 
 event_belief_flimsy_item_pagan_to_christian,0,,"Khi cần thì Nữ thần dẫn lối ở đâu, <agent_name> tự hỏi trong lúc nhìn sản phẩm hỏng của [his/her]."
 event_belief_nature_thunderstorm_pagan_to_christian,0,,Ta đã cầu nguyện nhầm các vị thần sao? <agent_name> tự hỏi giữa trận mưa xối xả từ trời cao.
@@ -2404,7 +2407,7 @@ scenario_default_1_info,0,,"Mỗi dân làng đều mang trong mình một câu 
 scenario_default_1_narrative,0,,"Cơn đại dịch Cái Chết Đen đã tàn phá tan hoang khắp quần đảo Anh quốc, để lại vết tích hoang tàn và tang tóc trên mọi nẻo đường. Hàng triệu sinh linh đã phải vùi thây nơi nấm mồ lạnh giá. Những người may mắn còn sống sót rơi vào cảnh bần cùng khốn khó, tâm can hằn sâu vết sẹo từ muôn vàn cảnh tượng kinh hoàng mà họ đã tận mắt chứng kiến. Thế giới xưa cũ sẽ vĩnh viễn không bao giờ trở lại.\n\nVào <season_description> năm <year>, <all_villagers> đã cùng nhau tiến bước vào miền hoang dã để khai khẩn một mảnh đất cho riêng mình, đúng theo quyền hạn chính đáng của họ trước Thiên Chúa và Luật Pháp. Tại nơi đây, họ sẽ cùng nhau đặt những viên gạch nền móng đầu tiên cho tương lai. Và có lẽ, ngọn lửa hy vọng sẽ lại bừng sáng."
 scenario_default_3_title,0,,Sói Đơn Độc
 scenario_default_3_info,0,,"Khởi đầu chỉ với một dân làng đơn độc, nguồn tài nguyên ít ỏi giữa những điều kiện sinh tồn khắc nghiệt nhất."
-scenario_default_3_narrative,0,,"Vượt qua cơn bão tuyết mịt mù, nhóm thợ săn cuối cùng trong năm lục tục trở về. Một thành viên đã mất tích và được cho là đã bỏ mạng. Cách xa khỏi những gì được gọi là văn minh loài người, <random_villager> chỉ còn biết dựa vào chính bản thân [his/her]. [He/She] nghiến chặt hàm răng và quyết tâm dựng xây một mái nhà giữa chốn hoang dã để chống chọi lại cái lạnh thấu xương. Âm thanh duy nhất bầu bạn chỉ là tiếng sói tru ai oán từ nơi xa xăm."
+scenario_default_3_narrative,0,,"Vượt qua cơn bão tuyết mịt mù, nhóm thợ săn cuối cùng trong năm lục tục trở về. Một thành viên đã mất tích và được cho là đã bỏ mạng. Cách xa khỏi những gì được gọi là văn minh loài người, <random_villager> chỉ còn biết dựa vào chính bản thân [his/her]. [He/She] nghiến chặt hàm răng của [his/her] và quyết tâm dựng xây một mái nhà giữa chốn hoang dã để chống chọi lại cái lạnh thấu xương. Âm thanh duy nhất bầu bạn chỉ là tiếng sói tru ai oán từ nơi xa xăm."
 scenario_default_2_title,0,,Thanh Bình
 scenario_default_2_info,0,,Không có bất kỳ cuộc tấn công nào từ kẻ thù. Hãy chọn chế độ này nếu bạn muốn thư thái tập trung xây dựng kiến trúc khu định cư và chăm sóc chu đáo cho dân làng.
 scenario_default_2_narrative,0,,"<random_villager> đưa mắt nhìn quanh nhóm người đang đói lả, rồi thẳng thắn nói ra điều hiển nhiên: 'Chúng ta đâu còn đủ sức để chém giết, phải không?' Khi thấy mọi người còn đang ngập ngừng do dự, [he/she] nói tiếp: 'Sao chúng ta không dồn toàn tâm toàn ý vào việc xây dựng? Gây dựng một nơi mà ta có thể gọi là nhà, một chốn trú ẩn vững chãi trước bão giông?' Cớ sao phải lao vào những cuộc đâm chém vô nghĩa, [he/she] thầm nghĩ, khi ta hoàn toàn có thể cùng nhau thắp lên một mái ấm gia đình yên bình và nồng hậu?"
@@ -2415,10 +2418,10 @@ scenario_additional_info,0,,- Độ khó: <style=DefaultYellow>{0}</style> \n\n 
 scenario_difficulty_VeryEasy,0,,Dễ Dàng
 scenario_difficulty_standard,0,,Tiêu Chuẩn (Khuyên dùng cho người mới)
 scenario_difficulty_Difficult,0,,Khó Khăn
-map_size_info,0,,Small maps provide a more focused Kinh nghiệm. \nRecommended cho hardware at lower end của minimum specified requirement.
-map_size_small_info,0,,Small maps provide a more focused Kinh nghiệm. \nRecommended cho hardware at lower end của minimum specified requirement.
-map_size_medium_info,0,,"Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
-map_size_large_info,0,,"Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
+map_size_info,0,,Bản đồ nhỏ mang lại trải nghiệm tập trung hơn. \nKhuyên dùng cho cấu hình phần cứng ở mức tối thiểu.
+map_size_small_info,0,,Bản đồ nhỏ mang lại trải nghiệm tập trung hơn. \nKhuyên dùng cho cấu hình phần cứng ở mức tối thiểu.
+map_size_medium_info,0,,"Bản đồ lớn hơn mang lại nhiều không gian và tài nguyên hơn để khu định cư mở rộng theo thời gian, nhưng có thể ảnh hưởng đến tốc độ khung hình (FPS) trên máy có cấu hình phần cứng thấp."
+map_size_large_info,0,,"Bản đồ lớn hơn mang lại nhiều không gian và tài nguyên hơn để khu định cư mở rộng theo thời gian, nhưng có thể ảnh hưởng đến tốc độ khung hình (FPS) trên máy có cấu hình phần cứng thấp."
 game_mode_builder_title,0,,<style=DefaultBlue>Hòa bình</style>
 game_mode_builder_info,0,,Không có các đợt tấn công của kẻ thù. Chọn chế độ này nếu bạn muốn tập trung xây dựng khu định cư và chăm lo cho đời sống dân làng.
 game_mode_builder_narrative_1,0,,"<random_villager> nghe phong phanh về một thung lũng bí ẩn tại quán trọ ở <origin>. Nơi này cách xa các tuyến đường giặc cướp qua lại, đang trở thành chốn dung thân cho những ai mong muốn sống trong thái bình. Dù nơi đây không tránh khỏi thời tiết khắc nghiệt và thiên tai, nó đang nở rộ thành trung tâm thủ công, kiến thiết và nông nghiệp, không bị chiến tranh quấy nhiễu."
@@ -2428,7 +2431,7 @@ game_mode_builder_narrative_1_single,0,,"<name> nghe được những lời thì
 game_mode_builder_narrative_2_single,0,,<name> biết [he/she] muốn xây dựng một chốn nương thân an bình. Người tị nạn rách rưới này đã phải chứng kiến cảnh bạo lực đau lòng quá nhiều lần. 'Bão tố và cơn đói đã là quá đủ để đối mặt rồi. Chẳng lẽ ta không thể tìm được một chốn định cư không vướng bận xung đột sao?' [He/She] hướng ánh nhìn của [his/her] về phía chân trời với niềm hy vọng. 'Tất cả phụ thuộc vào ta để tự mình đặt nền móng cho hòa bình!'
 game_mode_builder_narrative_3_single,0,,"<name> nhìn lại cơ thể gầy gò vì đói khát của [his/her] và thừa nhận sự thật hiển nhiên: 'Mình đâu có ở trong tình trạng sẵn sàng chiến đấu?' Khi [he/she] cân nhắc các lựa chọn, một con đường có vẻ là tốt nhất: 'Tại sao mình không tập trung vào xây dựng? Tạo ra một nơi mình có thể gọi là nhà, một chốn nương thân trước sự khắc nghiệt của thiên nhiên?' Việc gì phải đi tìm kiếm chiến tranh, [he/she] nghĩ, khi mình có thể nỗ lực kiến tạo một mái ấm bình yên và ấm cúng?"
 game_mode_standard_title,0,,<style=DefaultYellow>Tiêu chuẩn</style>
-game_mode_standard_info,0,,"Của bạn Khu định cư will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress."
+game_mode_standard_info,0,,Khu định cư của bạn sẽ trải qua các cuộc đột kích của kẻ thù cũng như các sự kiện thời tiết môi trường. Các cuộc đột kích diễn ra theo chu kỳ đều đặn và độ khó sẽ tăng dần theo quá trình phát triển.
 game_mode_standard_narrative_1,0,,"Đất lành đang rộng mở đón chờ. Ở khắp bốn phương của vùng đất từng hùng mạnh này, những người dân đang tái thiết với hy vọng bỏ lại sau lưng nỗi kinh hoàng của những năm tháng đã qua. Có thể sẽ có xung đột, hạn hán, bệnh tật, đói kém... nhưng có hề gì? 'Cuộc sống vẫn tiếp diễn,' <random_villager> nói, 'và chúng ta cũng phải tiến bước.'"
 game_mode_standard_narrative_2,0,,"<random_villager> tràn đầy tự tin, thậm chí có phần thách thức: 'Chúng ta nhất định sẽ làm được! Chúng ta sẽ khai hoang phần đất của mình, dựng xây ở đó và bảo vệ nó!' Nhiều người đã từng thử sức. Một số đã ngã xuống trước cướp bóc hay hạn hán. Nhưng cũng có vô số người đã trụ vững. 'Hãy vững tin - nơi chúng ta gầy dựng sẽ trường tồn qua nhiều thế kỷ, con cháu chúng ta sẽ tiếp tục sinh sống nơi này.'"
 game_mode_standard_narrative_3,0,,"Người thợ rèn xứ <distant_toponym> kể về những kẻ sống sót đang chạy trốn khỏi tàn tích bị thiêu rụi của những khu định cư bị cướp phá. Nhưng vị giáo sĩ tại <origin> lại nói rằng ông đang làm lễ rửa tội cho nhiều đứa trẻ khỏe mạnh hơn bao giờ hết, và đã nhận được những giạ ngũ cốc chín vàng từ những người khai hoang trong các hạt. <random_villager> chỉ tin vào sự thăng trầm của số phận: 'Chúng ta phải tiến lên phía trước, bất kể hiểm nguy,' [he/she] nhún vai nói. 'Không liều thì chẳng thể thành công.'"
@@ -2453,12 +2456,12 @@ map_type_mountain_narrative,0,,"Sau một hành trình dài như vô tận, nh�
 map_type_mountain_narrative_single,0,,"Sau một hành trình dài như vô tận, những dòng suối trong vắt chảy xiết và bầu không khí thanh khiết nơi rặng núi đã làm <name> ngỡ ngàng. Ngay dưới lớp đất đá, những mạch khoáng sản lấp lánh đầy hứa hẹn. Người lữ hành này biết rằng đây chính là nơi [he/she] hằng tìm kiếm. [He/She] quyết định đặt tên cho nơi này là <village_name>."
 map_type_hill,0,,Sườn đồi
 map_type_hill_info,0,,"Uneven terrain, suitable cho a good defensive position. A fair amount của đá vôi và đất sét. A moderate amount của fertile soil và vegetation."
-map_type_hill_narrative,0,,"Into a landscape của rolling hills và ancient, crumbling forts companions trekked. Mỗi ascent rewarded <random_villager> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. Họ built a camp that would, trong time, become Khu định cư của <village_name>."
-map_type_hill_narrative_single,0,,"Into a landscape của rolling hills và ancient, crumbling forts lone wander trekked. Mỗi ascent rewarded <name> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, trong time, become Khu định cư của <village_name>."
+map_type_hill_narrative,0,,"Những người bạn đồng hành tiến bước vào miền phong cảnh đồi núi trập trùng cùng những pháo đài cổ kính đổ nát. Mỗi đỉnh dốc leo lên đều ban tặng cho <random_villager> tầm nhìn trải dài hàng dặm. Sẽ không có kẻ thù nào tiếp cận mà thoát khỏi tầm mắt, [he/she] thầm nghĩ. Họ dựng một khu trại mà theo thời gian sẽ trở thành khu định cư <village_name>."
+map_type_hill_narrative_single,0,,"Người lữ hành đơn độc tiến bước vào miền phong cảnh đồi núi trập trùng cùng những pháo đài cổ kính đổ nát. Mỗi đỉnh dốc leo lên đều ban tặng cho <name> tầm nhìn trải dài hàng dặm. Sẽ không có kẻ thù nào tiếp cận mà thoát khỏi tầm mắt, [he/she] thầm nghĩ. [He/She] dựng một khu trại mà theo thời gian sẽ trở thành khu định cư <village_name>."
 map_type_wetland,0,,Đầm lầy
 map_type_wetland_info,0,,Vùng đầm lầy sông nước trù phú về thảm thực vật và đầy ắp tôm cá. Tuy nhiên động vật trên cạn và khoáng sản có thể khai thác lại tương đối khan hiếm.
 map_type_wetland_narrative,0,,Những người lữ hành rẽ qua những rặng liễu rủ mềm mại. Từng đàn lươn bạc lấp lánh luồn lách qua những bụi lau sậy rậm rạp nơi bờ sông hòa vào bãi lầy. <random_villager> vốc một ngụm nước ngọt lành lên môi của [his/her] và cất lời cảm tạ. Họ quyết định định cư tại đây và đặt tên là <village_name>.
-map_type_wetland_narrative_single,0,,"<name> pushed through an abundance của supple willow cây cối. Thick, silvered eels wove, glinting, through tall rushes, which blended river's edge into của nó marshy banks. [He/She] drew a handful của sweet nước đến [his/her] lips, và gave thanks. [He/She] would settle here, và name nó <village_name>."
+map_type_wetland_narrative_single,0,,"Từng bước len lỏi qua rặng liễu rủ tươi tốt, <name> nhìn thấy những chú lươn ánh bạc uốn lượn lấp lánh giữa đám lau sậy cao vút nơi mép sông hòa vào bờ đầm lầy. [He/She] bụm một vốc nước ngọt lành đưa lên môi của [his/her] và cất lời tạ ơn. [He/She] quyết định sẽ định cư tại đây và đặt tên nơi này là <village_name>."
 map_type_season_info_summer_mild,0,,<style=DefaultGreen>Mùa hè ôn hòa</style>
 map_type_season_info_summer_harsh,0,,<style=DefaultOrange>Mùa hè khắc nghiệt</style>
 map_type_season_info_winter_mild,0,,<style=DefaultGreen>Mùa đông ôn hòa</style>
@@ -2496,7 +2499,7 @@ game_difficulty_Normal_title,0,,Bình Thường (Chuẩn Mực)
 game_difficulty_Difficult_title,0,,Khó Khăn
 game_difficulty_Hard_title,0,,Cực Khó (Sinh Tồn Khắc Nghiệt)
 game_difficulty_VeryEasy_info,0,,Khuyên dùng cho người chơi lần đầu muốn làm quen với cơ chế game trong hòa bình.
-game_difficulty_Easy_info,0,,Khuyên dùng cho người mới bắt đầu làm quen với Going Medieval.
+game_difficulty_Easy_info,0,,Khuyên dùng cho người mới bắt đầu.
 game_difficulty_Normal_info,0,,Khuyên dùng cho người chơi đã quen thuộc với thể loại mô phỏng quản lý thuộc địa.
 game_difficulty_Difficult_info,0,,Khuyên dùng cho người chơi kỳ cựu tìm kiếm thử thách cam go.
 game_difficulty_Hard_info,0,,Khuyên dùng cho người chơi khao khát một trải nghiệm sinh tồn khắc nghiệt đỉnh cao.
@@ -2642,7 +2645,7 @@ progeny_of_the_plague_basic_medium,0,,Fierce Kẻ cướp
 progeny_of_the_plague_basic_hard,0,,Ruthless Kẻ cướp
 progeny_of_the_plague_archer_easy,0,,Cung Thủ Dịch Hạch
 progeny_of_the_plague_archer_medium,0,,Cung Thủ Dịch Hạch Thiện Chiến
-progeny_of_the_plague_archer_hard,0,,Đại Cung Thủ Dịch Hạch Bậc Thầy
+progeny_of_the_plague_archer_hard,0,,Đại Cung Thủ Bậc Thầy
 progeny_of_the_plague_heavy_easy,0,,Côn Đồ Dịch Hạch
 progeny_of_the_plague_heavy_medium,0,,Côn Đồ Dịch Hạch Hung Tợn
 progeny_of_the_plague_heavy_hard,0,,Côn Đồ Dịch Hạch Khát Máu
@@ -2798,7 +2801,7 @@ river_bandits_basic_medium,0,,Kẻ Cướp Sông Nước Hung Hãn
 river_bandits_basic_hard,0,,Kẻ Cướp Sông Nước Tàn Bạo
 river_bandits_archer_easy,0,,Cung Thủ Vùng Sông Nước
 river_bandits_archer_medium,0,,Cung Thủ Sông Nước Thiện Chiến
-river_bandits_archer_hard,0,,Đại Cung Thủ Sông Nước Bậc Thầy
+river_bandits_archer_hard,0,,Đại Cung Thủ Bậc Thầy
 river_bandits_heavy_easy,0,,Côn Đồ Vùng Sông Nước
 river_bandits_heavy_medium,0,,Côn Đồ Sông Nước Hung Tợn
 river_bandits_heavy_hard,0,,Côn Đồ Sông Nước Khát Máu
@@ -2827,7 +2830,7 @@ options_anisotropic,0,,Bộ lọc dị hướng (Anisotropic Filtering)
 options_autosave,0,,Tự động lưu game (Autosave)
 options_camera_sensitivity,0,,Độ nhạy chuyển động camera
 options_devtools,0,,Công Cụ Dành Cho Nhà Phát Triển (Dev Tools)
-options_devtools_info,0,,Danh sách các bảng công cụ gỡ lỗi và hỗ trợ của nhà phát triển
+options_devtools_info,0,,Danh sách công cụ của nhà phát triển
 options_effect_volume,0,,Âm lượng hiệu ứng âm thanh
 options_fullscreen,0,,Chế độ toàn màn hình
 options_keyboard_config,0,,Cấu hình bàn phím điều khiển
@@ -2849,7 +2852,7 @@ options_xray_animals,0,,Hiện động vật xuyên qua tường
 options_camera_sharpen,0,,Độ sắc nét hình ảnh
 options_hover_intensity,0,,Độ đậm viền sáng nổi bật khi rê chuột
 options_grass_toggle,0,,Hiệu ứng cỏ 3D đung đưa
-options_cursor_toggle,0,,Con trỏ chuột phong cách Trung Cổ tùy biến
+options_cursor_toggle,0,,Con Trỏ Chuột Tùy Chỉnh
 ctrl_ShowHideEstheticMap,0,,Bật/Tắt Bản Đồ Nhiệt Thẩm Mỹ Cảnh Quan
 ctrl_ShowHideHeatMap,0,,Bật/Tắt Bản Đồ Nhiệt Độ Môi Trường
 ctrl_ShowHideZoneGrid,0,,Bật/Tắt Khung Lưới Khu Vực Quy Hoạch
@@ -3163,13 +3166,13 @@ credits_SpecialThanks,0,,Lời Tri Ân Đặc Biệt
 credits_PublishedBy,0,,Phát hành bởi Mythwright
 credits_CommunityContributors,0,,Bác Sĩ Dịch Hạch Đóng Góp Cộng Đồng
 credits_AlphabeticalOrder,0,,Theo Thứ Tự Bảng Chữ Cái
-credits_QAManager,0,,Quản Lý Đảm Bảo Chất Lượng (QA)
+credits_QAManager,0,,Quản Lý QA
 credits_QAProjectManager,0,,Quản Lý Dự Án QA
 credits_QATestLead,0,,Trưởng Nhóm Kiểm Thử QA
 credits_QATester,0,,Chuyên Viên Kiểm Thử QA
 credits_community_mods,0,,Điều Hành Viên & Hỗ Trợ Cộng Đồng
 credits_playtesters,0,,Người Chơi Thử Nghiệm
-credits_translation,0,,Đội Ngũ Biên Dịch & Bản Địa Hóa
+credits_translation,0,,Bản Dịch Tiếng Việt
 credits_trailer_service,0,,Dịch Vụ Sản Xuất Trailer
 options_ui_size_Smallest,0,,Rất nhỏ 
 options_ui_size_Small,0,,Nhỏ
@@ -3204,7 +3207,7 @@ general_off,0,,Tắt
 general_low,0,,Thấp
 general_medium,0,,Trung bình
 general_high,0,,Cao
-general_veryHigh,0,,Very Cao
+general_veryHigh,0,,Rất cao
 options_vSync_everyBlock,0,,Mỗi khung hình
 options_vSync_everySecondBlock,0,,Cách một khung hình
 options_sun_shafts,0,,Tia nắng mặt trời
@@ -3213,7 +3216,7 @@ options_aa_SMAA_low,0,,SMAA thấp
 options_aa_SMAA_medium,0,,SMAA vừa
 options_aa_SMAA_high,0,,SMAA cao
 options_FrameRate,0,,Giới hạn khung hình
-save_file_already_exists,0,,Lưu file by that name already exists
+save_file_already_exists,0,,Tệp lưu với tên này đã tồn tại
 menu_roadmap,0,,Lộ trình
 menu_patchnotes,0,,Ghi chú bản vá
 early_acces_note,0,,"Chào mừng bạn đến với Going Medieval. Cảm ơn sự ủng hộ nhiệt tình của bạn.\nXin lưu ý rằng trò chơi đang trong giai đoạn phát triển tích cực, vì vậy bạn có thể thấy một số tính năng vẫn đang được hoàn thiện. Chúng tôi sẽ cập nhật thường xuyên để bổ sung nội dung mới và nâng cao trải nghiệm. Nếu gặp bất kỳ lỗi nào, vui lòng liên hệ trên Discord hoặc gửi báo cáo qua công cụ báo lỗi trong game."
@@ -3240,7 +3243,7 @@ roadmap_23,0,,Giá Kệ & Giá Treo Vũ Khí
 roadmap_24,0,,Bổ Sung Thêm Công Trình Kiến Trúc
 roadmap_25,0,,Bổ Sung Thêm Nhạc Nền
 roadmap_26,0,,Bổ Sung Thêm Các Loại Bản Đồ
-roadmap_27,0,,Bổ Sung Thêm Tài Nguyên & Thực Phẩm
+roadmap_27,0,,Bổ Sung Thêm Tài Nguyên
 roadmap_28,0,,Bổ Sung Thêm Chiến Cụ Công Thành
 roadmap_29,0,,Bổ Sung Thêm Nhánh Cây Nghiên Cứu
 roadmap_30,0,,Tối Ưu Hóa & Nâng Cao Trải Nghiệm Tiện Ích
@@ -3250,7 +3253,7 @@ update_01_name,0,,Bản Cập Nhật Kệ Chứa & Giá Treo Đồ
 update_02_name,0,,Bản Cập Nhật Giao Thương & Ngoại Giao
 update_02_name_alt,0,,Giao Thương & Ngoại Giao
 update_02_name_alt2,0,,Thương Nhân & Bang Giao
-update_03_name,0,,Bản Cập Nhật Động Vật & Thú Nuôi
+update_03_name,0,,Động Vật & Thú Nuôi
 update_05_name,0,,Bản Cập Nhật Nước & Thủy Văn
 update_06_name,0,,Bản Cập Nhật Cải Tạo Địa Hình & Loài Mèo
 update_07_name,0,,Bản Cập Nhật Thẩm Mỹ & Tiện Nghi
@@ -3303,7 +3306,7 @@ update_entry_48,0,,Hệ Thống Thang Leo Đa Năng
 update_entry_49,0,,Chỉnh Sửa Cùng Lúc Nhiều Kệ Đồ
 update_entry_50,0,,Cải Tiến Cơ Chế Cho Ăn Động Vật
 update_entry_51,0,,Hệ Thống Ánh Nắng Mặt Trời
-update_entry_52,0,,Cây Trồng Bị Còi Cọc Do Thiếu Sáng
+update_entry_52,0,,Cây Trồng Bị Còi Cọc
 update_entry_53,0,,Đại Tu Toàn Diện Cơ Chế Nhiệt Độ
 update_entry_54,0,,Chu Kỳ Ngày & Đêm Mới
 update_entry_55,0,,Vũng Nước Mưa Tích Tụ
@@ -3335,11 +3338,11 @@ update_entry_80,0,,Các Loại Vũ Khí Mới
 update_entry_81,0,,Các Loại Vũ Khí Ném Tầm Xa
 update_entry_82,0,,Hỗ Trợ Modding Tùy Biến Toàn Diện
 update_entry_83,0,,Tích Hợp Steam Workshop
-update_entry_84,0,,Trí Tuệ Nhân Tạo (AI) Kẻ Địch Theo Đội Hình
+update_entry_84,0,,AI Kẻ Địch Theo Đội Hình
 update_entry_85,0,,Khí Tài Công Thành (Người Chơi Trực Tiếp Điều Khiển)
 update_entry_86,0,,Xuất Ngoại Thám Hiểm Các Vùng Đất Khác
 update_entry_87,0,,Đột Kích Tiêu Diệt Doanh Trại / Căn Cứ Địch
-update_entry_88,0,,Hệ Thống Đại Mục Tiêu Định Đoạt Vận Mệnh
+update_entry_88,0,,Đại Mục Tiêu Định Đoạt Vận Mệnh
 update_entry_89,0,,Cạm Bẫy Bắt Lửa Thiêu Rụi
 update_entry_90,0,,Cung Tên Lửa Cháy Rực
 update_entry_91,0,,Hỗ Trợ Mod Lưới 3D (Mesh) & Kết Cấu Vân Bề Mặt (Texture)
@@ -3353,7 +3356,7 @@ update_entry_12,0,,Hạt Giống & Cây Giống Non
 update_entry_13,0,,Khối Băng Lạnh Bảo Quản
 update_entry_14,0,,Nghề Nuôi Ong Lấy Mật
 update_entry_15,0,,Vườn Cây Ăn Quả Trù Phú
-update_entry_16,0,,Bổ Sung Tài Nguyên & Nông Sản Mới
+update_entry_16,0,,Tài Nguyên & Nông Sản Mới
 update_entry_17,0,,Tiếp Nhiên Liệu Nguồn Nhiệt Tự Động
 update_entry_18,0,,Trang Bị Phe Phái Mới
 update_entry_19,0,,Bản Nhạc Nền Mới
@@ -3634,7 +3637,7 @@ voxel_silver,0,,Quặng Bạc
 voxel_coal,0,,Than Đá
 voxel_impureLimestone,0,,Mỏ Đá Vôi (Lẫn Tạp Chất)
 voxel_wetlandDirt,0,,Đất Bùn Đầm Lầy
-animal_info_deer,0,,"Game rừng sinh vật, favoured by nobles và even occasionally kept as pets. "
+animal_info_deer,0,,"Loài thú rừng được giới quý tộc ưa chuộng săn bắn, và đôi khi được nuôi làm thú cưng."
 animal_info_hare,0,,"Nhút nhát nhưng nhanh nhẹn, thỏ rừng rất khó bắt. Thịt ngon và bộ lông cũng có giá trị."
 animal_info_wolf,0,,"Dù Edward I từng cố tiêu diệt chúng, sói đã trở lại rình rập trong rừng nước Anh. Hãy cẩn thận."
 animal_name_deer,0,,Hươu
@@ -3914,18 +3917,18 @@ raiders_won,0,,"Hài lòng với thiệt hại đã gây ra cho khu định cư,
 raiders_tied,0,,"Trận chiến dường như không nghiêng về bên nào, những kẻ tấn công đang rút lui."
 enemies_have_appeared,0,,<number> kẻ thù đã xuất hiện!
 enemies_have_started_attacking,0,,Kẻ thù đã bắt đầu tràn vào tấn công!
-voxel_not_diggable,0,,Can't Đào đất any deeper.
+voxel_not_diggable,0,,Không thể đào sâu hơn được nữa.
 has_died,0,,<name> là dead
 has_fainted,0,,<name> là unconscious
 settler_is_unconscious,0,,<name> là unconscious
-error_place_stability,0,,Can't place Công trình this far từ a stable structure
+error_place_stability,0,,Không thể đặt công trình quá xa kết cấu đỡ kiên cố.
 error_place_roof,0,,Mái nhà cần ít nhất hai điểm tựa vững chắc để có thể lắp đặt
 error_roof_max,0,,Maximum mái nhà span là {0}
 error_beam_intersect,0,,"Không thể đặt xà gồ, đang bị cắt ngang bởi một xà gồ khác"
 error_beam_min_distance,0,,Xà nhà không thể reach đó far. Maximum distance cho xà nhà là {0}
 error_stairs_blocked,0,,"Có thể't place staircase, path blocked bởi: {0}"
-error_stiars_blocking,0,,"Có thể't được placed here, blocking staircase"
-error_beam_blocking,0,,Có thể't được placed under a xà nhà
+error_stiars_blocking,0,,Không thể đặt ở đây vì làm tắc nghẽn cầu thang
+error_beam_blocking,0,,Không thể đặt bên dưới một xà nhà
 error_socketable,0,,Có thể't được placed. Có thể only được placed trên a tường element hoặc ground voxel
 error_socketable_blocking,0,,"Có thể't được placed, blocked bởi: {0}"
 error_cropfield_placement,0,,Cây trồng field có thể only được placed trên appropriate ground type
@@ -4227,7 +4230,7 @@ beauty_treshold_04,0,,Khung cảnh tẻ nhạt
 beauty_treshold_03,0,,Khung cảnh dễ chịu
 beauty_treshold_02,0,,Khung cảnh tuyệt đẹp
 stat_target,0,,Mục tiêu
-worker_overweight_slowdown,0,,Này dân làng là over-burdened và so sẽ move nhiều hơn slowly.
+worker_overweight_slowdown,0,,Dân làng này đang mang vác quá nặng nên sẽ di chuyển chậm hơn.
 menu_Social,0,,Nhu Cầu Giao Tiếp Xã Hội
 info_menu_social,0,,Nhu cầu giao lưu chuyện trò của dân làng. Để dân làng tương tác và trò chuyện cùng nhau sẽ giúp thỏa mãn nhu cầu này.
 social_treshold_02,0,,Thiếu người bầu bạn
@@ -4462,7 +4465,7 @@ production_settlers_allow_skill,0,,Cho phép dân làng có cấp kỹ năng
 general_anyone,0,,Bất kỳ ai
 menu_production_settings_skill_range,0,,Khoảng Cấp Độ Kỹ Năng
 skill_level_doesnt_satisfy_filter,0,,Cấp kỹ năng không đáp ứng khoảng thiết lập
-skep_production_speed_tooltip,0,,"<style=DefaultOrange>Output depends trên balance của nearby plants và hives. Hives compete cho Tài nguyên, so space them out.</style>"
+skep_production_speed_tooltip,0,,"<style=DefaultOrange>Sản lượng phụ thuộc vào sự cân bằng giữa hoa cỏ và số lượng tổ ong xung quanh. Các tổ ong cạnh tranh tài nguyên với nhau, vì vậy hãy đặt chúng cách xa nhau.</style>"
 skep_production_speed,0,,Tốc độ làm tổ ong Skep
 plants_around_skep,0,,Cây cối và hoa màu lân cận để đàn ong lấy mật
 skeps_around_skep,0,,Khác skeps nearby
@@ -4594,14 +4597,14 @@ job_info_cooking,0,,Nấu nướng các món ăn và ủ thức uống. Bảo qu
 job_info_crafting,0,,Lao động thủ công cơ bản chế tạo vật phẩm thông thường như gạch đất. Sản xuất tại:
 job_info_harvesting,0,,Thu hoạch hoa màu từ đồng ruộng và hái lượm sản vật nơi hoang dã.
 job_info_hauling,0,,Lao động vận chuyển phổ thông. Khuân vác tài nguyên và vật phẩm về kho.
-job_info_hunting,0,,Săn bắn các loài thú hoang đã được chỉ định đánh dấu.
+job_info_hunting,0,,Săn bắn động vật được chỉ định.
 job_info_mining,0,,Đào bới địa hình và khai thác khoáng sản tại các khu vực được đánh dấu trên bản đồ.
 job_info_plantcropfields,0,,Gieo trồng và chăm bón cây giống trên các thửa ruộng hoa màu.
 job_info_plantcutting,0,,Phát quang cỏ dại và đốn hạ cây lấy gỗ.
 job_info_research,0,,Nghiên cứu suy ngẫm và biên soạn sách tri thức để phát triển khu định cư. Sản xuất tại:
 job_name_patient,0,,Bệnh Nhân
-job_info_patient,0,,Nằm yên tĩnh dưỡng chờ đợi người đến chữa trị vết thương.
-job_info_rest,0,,Nghỉ ngơi tịnh dưỡng trên giường để vết thương mau chóng hồi phục.
+job_info_patient,0,,Tĩnh dưỡng chờ chữa vết thương.
+job_info_rest,0,,Nghỉ ngơi để vết thương hồi phục.
 job_info_smithing,0,,"Rèn đúc vật phẩm, công cụ và khí tài từ kim loại. Sản xuất tại:"
 job_info_tailoring,0,,May dệt quần áo và mũ nón từ vải vóc và da thuộc. Sản xuất tại:
 job_info_tendwounds,0,,Băng bó chữa trị vết thương cho người khác. Cõng dân làng bị bất tỉnh về giường bệnh.
@@ -4704,18 +4707,18 @@ goal_preference_info_ShamanPreference,0,,Leading an Huynh Đệ Cây Sồi cerem
 goal_preference_info_PhysicalLabourPreference,0,,"Lao động chân tay phổ thông, không đòi hỏi chuyên môn như khuân vác và quản lý kho"
 goal_preference_info_MiningPreference,0,,Digging và Khai khoáng marked areas trên map.
 goal_preference_info_ConstructionPreference,0,,"Thi công xây dựng, tháo dỡ thu hồi và tu sửa mọi công trình."
-goal_preference_info_CraftingPreference,0,,"Non-skilled work Chế tạo basic items, like bricks."
+goal_preference_info_CraftingPreference,0,,"Gia công các vật phẩm cơ bản không đòi hỏi kỹ năng cao, ví dụ như đúc gạch."
 goal_preference_info_HuntingPreference,0,,Săn bắn marked animals.
 goal_preference_info_PlantsPreference,0,,"Dùng để gieo trồng, chăm sóc mùa màng, thu hoạch cây trái và hái lượm thảo mộc hoang dã."
 goal_preference_info_SmithingPreference,0,,Chế tạo vật phẩm kim loại
 goal_preference_info_CarpentryPreference,0,,Chế tác vật phẩm và vũ khí từ gỗ. Sản xuất tại:
 goal_preference_info_CookingPreference,0,,Producing bữa ăn và beverages. Preserving food. Butchering.
 goal_preference_info_TailoringPreference,0,,Chế tạo quần áo và mũ nón từ vải và da thuộc.
-goal_preference_info_ResearchPreference,0,,Contemplating và writing everything down so it can be used để advance Khu định cư.
-goal_preference_info_TendingPreference,0,,Tend để wounds của others. Carry unconscious Dân làng để beds.
+goal_preference_info_ResearchPreference,0,,Nghiên cứu suy ngẫm và ghi chép lại mọi thứ để dùng cho sự phát triển của khu định cư.
+goal_preference_info_TendingPreference,0,,Băng bó vết thương cho người khác. Khiêng dân làng bất tỉnh về giường bệnh.
 goal_preference_info_AnimalPreference,0,,"Thuần hóa, huấn luyện, giết mổ, dắt dây, thả về tự nhiên và thu hoạch nông sản từ vật nuôi."
 goal_preference_info_ArtPreference,0,,Sáng tác nghệ thuật.
-goal_preference_info_ViolencePreference,0,,Combat với both ranged và Cận chiến weapon types
+goal_preference_info_ViolencePreference,0,,Trực tiếp tham gia chiến đấu bằng cả vũ khí tầm xa lẫn cận chiến.
 goal_preference_info_RangedCombatPreference,0,,"Sử dụng các loại vũ khí tầm xa như cung tên, nỏ hoặc vũ khí ném trong chiến đấu và săn bắn thú hoang"
 goal_preference_info_MeleeCombatPreference,0,,Sử dụng các loại vũ khí cận chiến để giao tranh xáp lá cà
 research_name_agriculture_lvl3,0,,Nông nghiệp III
@@ -4837,7 +4840,7 @@ warning_message_short_visitor,0,,Khách phương xa
 warning_message_info_visitor,0,,"<village_name> vừa đón tiếp một vị khách quý từ phe đồng minh hoặc trung lập. Nếu họ có chức vụ cộng đồng, bạn có thể tổ chức sự kiện đặc thù đúng chuyên môn của họ để nâng cao uy tín."
 event_name_blight_01,0,,Dịch bệnh cây trồng
 news_name_blight,0,,Dịch bệnh cây trồng
-news_info_blight,0,,Order your Dân làng để Chặt cây down spoiled crops before blight spreads.
+news_info_blight,0,,Hãy ra lệnh cho dân làng chặt bỏ cây trồng bị hỏng trước khi dịch bệnh lây lan.
 event_name_cold_01,0,,Đợt rét đậm
 event_name_hail_01,0,,Mưa đá
 event_name_heat_wave_01,0,,Đợt nắng nóng
@@ -4872,8 +4875,8 @@ event_name_supernatural_02,0,,Cuộc săn hoang dã
 event_name_supernatural_03,0,,Lửa Thánh Anthony
 event_name_thunderstorm_01,0,,Búa của Thor
 event_new_worker_defoult_01,0,,"<name> tiến đến với bàn tay [his/her] đưa ra và nụ cười ấm áp, cởi mở. <name> rất muốn tìm hiểu về <village_name> và sẵn lòng giúp đỡ. Tất cả những gì [he/she] mong muốn là một nơi an toàn để gọi là nhà."
-event_new_worker_sick_01,0,,"Một lữ khách ốm yếu bước đi lảo đảo tiến vào <village_name>. [He/She] quả quyết rằng chỉ cần có thời gian tịnh dưỡng là có thể làm việc chăm chỉ, nhưng lúc này trông người ấy vô cùng kiệt quệ. Liệu bạn có mở lòng đón nhận <name> vào nương náu và dưỡng bệnh?"
-event_new_worker_starving_01,0,,"Khi <name> lết bước tới nơi, xương sườn của [his/her] lộ rõ dưới lớp da bọc và tóc rụng thành từng mảng. Dân làng <village_name> xót xa nhìn sinh linh khốn cùng đang ngấp nghé bên bờ vực chết đói. Sự tuyệt vọng hằn sâu trên gương mặt <name> khi [he/she] tha thiết van xin. Bạn có cưu mang [him/her] không?"
+event_new_worker_sick_01,0,,"Một lữ khách ốm yếu bước đi lảo đảo tiến vào <village_name>. [he/she] quả quyết rằng chỉ cần có thời gian tịnh dưỡng là có thể làm việc chăm chỉ, nhưng lúc này trông người ấy vô cùng kiệt quệ. Liệu bạn có mở lòng đón nhận <name> vào nương náu và dưỡng bệnh?"
+event_new_worker_starving_01,0,,"Khi <name> lết bước tới nơi, xương sườn của [his/her] lộ rõ dưới da và mái tóc của [his/her] rụng thành từng mảng. Dân làng <village_name> xót xa nhìn sinh linh khốn cùng đang ngấp nghé bên bờ vực chết đói. Sự tuyệt vọng hằn sâu trên gương mặt <name> khi [he/she] tha thiết van xin. Bạn có cưu mang [him/her] không?"
 event_new_worker_wounded_01,0,,"Bạn phát hiện một bóng người nhợt nhạt, bước khập khiễng gần rìa khu định cư <village_name>. Khi [he/she] tới gần, có thể thấy rõ <name> đang chảy máu đầm đìa từ một vết chém sâu và cần được cứu chữa khẩn cấp. 'Tất cả là vì danh dự,' <name> thều thào thở dốc. Bạn có dang tay cứu giúp người ấy không?"
 event_new_worker_wounded_02,0,,"[He/She] được một dân làng <village_name> tìm thấy trong tình trạng bất tỉnh và máu me bê bết. Từ chiếc rìu gãy và đống súc gỗ vỡ vụn quanh đó, rõ ràng <name> vừa gặp phải tai nạn nghiêm trọng khi đốn gỗ. Bạn có cho phép người ấy ở lại để băng bó vết thương không?"
 event_raid_animal_01,0,,"Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Không rõ chúng mò đến do cơn đói cồn cào hay bản tính tàn phá hoang dã. Vung cao công cụ và che chắn đàn gia súc, dân làng phải đồng lòng đánh đuổi chúng đi.
@@ -4881,7 +4884,8 @@ event_raid_animal_01,0,,"Một đàn sói dữ đói khát hung hãn tràn vào 
 game_event_type_animalRaid,0,,Thú Hoang Tàn Phá
 event_raid_animal_deer,0,,Một đàn hươu rừng thấp thoáng xuất hiện giữa những rặng cây ranh giới của <village_name>. Vẻ đẹp thanh nhã của chúng không thể đánh lừa được dân làng; mọi người lập tức xua đuổi chúng trước khi mùa màng bị gặm sạch.
 event_raid_animal_hare,0,,"Dân gian truyền tai nhau rằng thỏ rừng chính là linh thú hầu cận của phù thủy, hoặc thậm chí chính là mụ phù thủy biến hình! Dân làng <village_name> vội vã xua đuổi chúng đi trong sự cảnh giác cao độ."
-event_raid_animal_wolf,0,,"Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Dân làng phải cầm chắc vũ khí và che chắn chuồng trại để đánh đuổi lũ ác thú."
+event_raid_animal_wolf,0,,"Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Dù sự xuất hiện đột ngột của chúng là do cơn đói cồn cào hay chỉ muốn tàn phá thì vẫn chưa rõ. Cầm chắc công cụ và che chắn vật nuôi, dân làng phải đánh đuổi lũ ác thú.
+"
 event_raid_animal_fox,0,,Một bầy cáo ranh mãnh mò tới gần <village_name> là điềm báo đáng lo ngại. Dân làng nhanh chóng xua đuổi chúng trước khi chúng lẻn vào chuồng bắt trộm gia cầm hoặc bới tung đống tích trữ.
 event_raid_animal_polecat,0,,"Lũ chồn hôi hám cùng bầy con nheo nhóc của chúng rõ ràng không được chào đón tại đây. Dân làng <village_name> cương quyết bảo vệ đàn gia cầm, ổ trứng và các tổ ong mật trước sự phá hoại của loài gặm nhấm này."
 event_raid_animal_boar,0,,"Với cặp nanh sắc nhọn hoắt và khí thế hung hãn như từ cõi âm, đàn lợn rừng tụ tập đông đúc ở rìa <village_name>. Tiếng tù và báo động vang lên giục giã tất cả những ai có thể cầm vũ khí lập tức xông ra xua đuổi chúng."
@@ -4904,9 +4908,9 @@ event_raid_ancrene_disciples,0,,"Đôi mắt rực lên niềm tin tôn giáo cu
 event_raid_faithful_sons_of_england,0,,"</b>'Vì Đức Vua và Đất Nước!' chúng gào thét vang trời, xông thẳng lên phía trước với sự quyết đoán lạnh lùng. Những Người Con Trung Thành Nước Anh sẽ quyết không dừng bước cho đến khi mảnh đất thân yêu của chúng được nhuộm đỏ trong biển máu."
 event_raid_band_of_the she_wolf,0,,"Với gương mặt đằng đằng sát khí tựa sấm sét, các nam tước dẫn đầu đợt xung phong. 'Vì Nữ Hoàng chân chính duy nhất của chúng ta!' chúng gầm thét, vung vũ khí điêu luyện, chém đứt ngọt từng thớ gân và xương cốt."
 event_raid_philosophers_of_the_natural_order,0,,"Đám học giả tụ tập lại tựa như một đàn quạ đen giận dữ, những tấm áo choàng đen phấp phới trông vừa kỳ quặc vừa mỉa mai khi chúng túm tụm bàn mưu tính kế. Những bộ óc uyên thâm lỗi lạc ấy dồn toàn bộ tâm trí vào việc tàn phá <village_name> — ngoại trừ những cuốn sách quý mà chúng thèm khát và quyết tâm cướp đoạt."
-event_raid_society_of_fellows,0,,"Sau khi thôi quát tháo và tranh cãi lẫn nhau, các viện sĩ tiến hành bỏ phiếu một cách trật tự và dân chủ rồi sẵn sàng xuất kích. 'Lũ ngu muội các ngươi đáng phải chịu hình phạt này!' Chúng gào thét the the, tràn vào <village_name> với sự cuồng loạn của những kẻ bạo loạn cuồng giáo."
+event_raid_society_of_fellows,0,,"Sau khi thôi quát tháo và tranh cãi lẫn nhau, các viện sĩ tiến hành bỏ phiếu một cách trật tự và dân chủ rồi sẵn sàng xuất kích. 'Lũ ngu muội các ngươi đáng phải chịu hình phạt này!' Chúng gào thét inh ỏi, tràn vào <village_name> với sự cuồng loạn của những kẻ bạo loạn cuồng giáo."
 event_raid_kingdom_of_york,0,,"Đoàn quân hiếu chiến tràn xuống thung lũng, thèm khát máu của phe Bảo Hoàng. 'Lũ tay sai trung thành phải đền mạng vì tội ác diệt chủng!' chúng gầm lên hung hãn. Một cuộc tắm máu dường như không thể nào cứu vãn."
-event_raid_heresy_of_the_rose,0,,"Khi những kẻ Dị Giáo Hoa Hồng nổi dậy, nỗi sợ hãi tột cùng mang hình hài con người. Tiếng gào rú, tiếng thét the thé, tiếng trống trận dồn dập cùng những lời tụng niệm ma quái... một số tên đội sừng thú; một trinh nữ rải cánh hoa hồng đỏ thắm dưới chân đám đông hung bạo. Nhiều kẻ giơ cao những biểu tượng rực lửa. 'Chúng ta đến đây để đoạt lấy linh hồn các ngươi!' một tên gào thét. Tiếng cười man dại vang rền khắp hàng ngũ. Một vụ thảm sát tàn khốc sắp sửa bắt đầu."
+event_raid_heresy_of_the_rose,0,,"Khi những kẻ Dị Giáo Hoa Hồng nổi dậy, nỗi sợ hãi tột cùng mang hình hài con người. Tiếng gào rú, tiếng thét thất thanh, tiếng trống trận dồn dập cùng những lời tụng niệm ma quái... một số tên đội sừng thú; một trinh nữ rải cánh hoa hồng đỏ thắm dưới chân đám đông hung bạo. Nhiều kẻ giơ cao những biểu tượng rực lửa. 'Chúng ta đến đây để đoạt lấy linh hồn các ngươi!' một tên gào thét. Tiếng cười man dại vang rền khắp hàng ngũ. Một vụ thảm sát tàn khốc sắp sửa bắt đầu."
 event_raid_circle_of_avalon,0,,"Chúng thực sự là một cảnh tượng uy phong tráng lệ: những hiệp sĩ khôi ngô trong những bộ giáp sáng lóa ngời ngời. Thế nhưng các Cổ Thần luôn thèm khát máu của những tín đồ Cơ Đốc, và các hiệp sĩ của Cedric sẽ chẳng ngần ngại làm đổ máu của bạn."
 event_raid_beirdd_cymraeg,0,,"Rực rỡ, khoa trương và đầy kịch tính: sự xuất hiện của các thi sĩ thật khó làm ngơ. Bạn có thể bị mê hoặc và mua vui, nhưng đừng để bị lừa. Nếu không thể thuyết phục bạn làm theo ý chúng, chúng sẽ vui lòng chiến đấu rồi kể lại một câu chuyện tuyệt vời về trận đánh."
 event_raid_progeny_of_the_plague,0,,"Chúng muốn nô lệ! Chúng đòi máu! Những kẻ đột kích không phân biệt ai, chỉ chăm chăm cướp bóc và phá phách, đang tràn vào làng."
@@ -5003,7 +5007,7 @@ game_event_description_season_summer,0,,"Mùa hạ đến tựa như một phư�
 game_event_season_autumn,0,,Mùa Thu
 game_event_description_season_autumn,0,,"Mùa thu ào ạt thổi về với những buổi sớm se lạnh và ngày dần dịu mát. Đây là mùa để chuẩn bị đón đông, may thêm quần áo ấm và tích trữ lương thực cùng nhu yếu phẩm. "
 game_event_season_winter,0,,Mùa Đông
-game_event_description_season_winter,0,,"Mùa Đông held <village_name> trong its icy grip, so settlers gathered around fire trên long, dark evenings. Họ needed để bundle up trong warm clothing, và Nóng their chambers để beat chill. "
+game_event_description_season_winter,0,,"Mùa đông bao trùm <village_name> trong giá băng buốt giá, khiến dân làng phải quây quần bên đống lửa vào những đêm dài tối tăm. Họ cần mặc thật nhiều quần áo ấm và sưởi ấm phòng ở để xua tan cái lạnh."
 game_event_type_season_start,0,,New Mùa
 game_event_heat_wave_end,0,,Đợt nắng nóng gay gắt đã kết thúc
 game_event_cold_snap_end,0,,Đợt rét đậm đã qua đi
@@ -5081,12 +5085,17 @@ event_shakedown_society_of_fellows,0,,"Người thương lượng mặc tạp d�
 event_shakedown_kingdom_of_york,0,," ‘Mọi nông dân đang làm việc đều phải đóng góp cho chính nghĩa của chúng ta,’ người thương lượng nói. ‘Nếu từ chối, chúng ta phải cho rằng các ngươi chứa chấp kẻ ủng hộ Quân chủ và sẽ trừng phạt <village_name> thích đáng. Vậy trả tiền hay không?’ "
 event_shakedown_heresy_of_the_rose,0,," ‘Giờ xã hội đã tan vỡ, ta có thể thẳng thừng bảo ngươi đưa tiền. Ngươi biết bọn Dị giáo chúng ta rồi đấy - nếu không trả, chúng ta sẽ đem hỗn loạn và cái chết đến <village_name>.’"
 event_shakedown_circle_of_avalon,0,,Ai lại muốn chọc giận các Đạo sĩ? Chắc chắn không phải <village_name> chứ? Một lễ vật đơn giản có thể bảo đảm những con rồng của Myrddin tiếp tục ngủ yên. Bạn thật sự không muốn cảm nhận hơi thở rực lửa của chúng đâu...’
-event_shakedown_beirdd_cymraeg,0,,"<i>'Hãy lắng nghe lời khuyên của người hát rong,\nđể lòng hào hiệp dẫn lối tương phùng,\nBởi lẽ khi tiền vàng trao tay,\nvận may của bạn sẽ mãi vững bền.\nVới khúc hoan ca, chúng tôi xin kính chào từ biệt,\nHãy trả công cho người thổi sáo, hỡi <village_name> thân yêu,\nvà đón nhận phúc lành tuôn chảy dạt dào.'</i>"
-event_shakedown_progeny_of_the_plague,0,,"‘Chúng ta đang đói cồn cào. Và dân làng của <village_name> trông mới béo tốt đẫy đà làm sao.’ Tên ăn thịt người liếm mép thèm thuồng. ‘Nhưng bọn ta cũng không phải phường vô lý. Nếu các ngươi chi trả đủ tiền chuộc, bọn ta sẽ chuyển sang săn mồi ở nơi khác.’"
+event_shakedown_beirdd_cymraeg,0,,"<i>' 'Hãy lắng nghe lời khuyên của người hát rong,\n
+để lòng hào hiệp dẫn lối tương phùng,\n
+Bởi lẽ khi tiền vàng trao tay,\nđổi lấy vận may mãi vững bền.\n
+Với khúc hoan ca, chúng tôi xin kính chào từ biệt,\n
+Hãy trả công cho người thổi sáo, hỡi <village_name> thân yêu,\n
+và đón nhận phúc lành tuôn chảy dạt dào.'</i>'"
+event_shakedown_progeny_of_the_plague,0,," 'Chúng ta đang đói cồn cào. Và dân làng của <village_name> trông mới béo tốt đẫy đà làm sao.' Tên ăn thịt người liếm bờ môi của [his/her]. 'Nhưng bọn ta cũng không phải phường vô lý. Nếu các ngươi chi trả đủ tiền chuộc, bọn ta sẽ chuyển sang săn mồi ở nơi khác.'"
 event_shakedown_ravagers,0,,"Tên đầu bếp mặc cả vô cùng rắn rỏi. ‘Ta có một mẻ bánh dồi huyết thơm ngon hảo hạng ở đây để bán. Ta luôn tìm kiếm nguồn nguyên liệu tươi ngon tại chỗ, biết đâu là vài người dân <village_name>? Nhưng ta hoàn toàn có thể được khích lệ để đi thu gom thịt ở những vùng xa hơn, miễn là được giá.’"
-event_shakedown_forest_bandits,0,,"Thật khó để phân biệt xem người đó là thú dữ hay con người. ‘Đoàn Săn Bắn Hoang Dã đang quét qua <village_name>,’ [he/she] gầm ghè trong cổ họng. ‘Nộp tiền hoặc trở thành con mồi, ta chẳng màng quan tâm.’"
+event_shakedown_forest_bandits,0,,"Thật khó để phân biệt xem [he/she] là thú dữ hay con người. 'Đoàn Săn Bắn Hoang Dã đang quét qua <village_name>,' [he/she] gầm ghè trong cổ họng. 'Nộp tiền hoặc trở thành con mồi, ta chẳng màng quan tâm.'"
 event_shakedown_mountain_bandits,0,,"Bộ da thú của gã người man rợ bốc mùi chua loét và bẩn thỉu. ‘Cả một bộ tộc vùng sơn cước đang bủa vây <village_name>,’ [he/she] nói. ‘Các ngươi sẽ chẳng thể nào sống sót qua đợt tấn công của chúng ta. Vậy nên hãy trả công hậu hĩnh để chúng ta cất bước sang khu định cư tiếp theo và san phẳng nơi đó thay vì động đến các ngươi.’"
-event_shakedown_river_bandits,0,,‘Chết đuối quả là một cái chết vô cùng đau đớn và quằn quại.’ Tên hải tặc lẩm bẩm một mình. ‘Xưa nay người ta vẫn có tục lệ dâng lễ vật cho người lái đò đưa tang... và ta tin chắc rằng con dân <village_name> đều tha thiết muốn giữ đầu mình nổi trên mặt nước.’
+event_shakedown_river_bandits,0,, 'Chết đuối quả là một cái chết vô cùng đau đớn và quằn quại.' Tên hải tặc tự lẩm bẩm với chính bản thân [him/her]. 'Xưa nay người ta vẫn có tục lệ dâng lễ vật cho người lái đò đưa tang... và ta tin chắc rằng con dân <village_name> đều tha thiết muốn giữ đầu mình nổi trên mặt nước.'
 event_shakedown_looters,0,,"‘Ngươi biết rõ luật chơi rồi đấy. Chúng ta cướp bóc, các ngươi đền mạng. Trừ phi các ngươi biết điều hối lộ cho chúng ta thứ gì đó ra trò. Nhưng nhớ phải xứng đáng, ta không rảnh rỗi để phí thời gian tán gẫu đâu.’"
 event_shakedown_scourge,0,,"Tiếng thở khò khè hổn hển phát ra từ bóng tối hôi thối ẩn sâu dưới lớp mũ trùm. Liệu có thể thương lượng với thực thể Hiểm Họa này không? Có lẽ dân làng <village_name> nên thử ném cho nó một chút của cải, với hy vọng mong manh rằng nó sẽ tự động biến mất."
 general_jump_to_location,0,,Đến vị trí
@@ -5208,15 +5217,15 @@ effector_info_SleptInLowQualityBed,0,,"Better than ground, I guess."
 effector_info_SleptOnRain,0,,Tôi ướt sũng vì phải ngủ dưới trời mưa. <style=AltColor>Mẹo: Hãy xây dựng giường trong phòng kín hoặc nơi có mái che.</style>
 effector_info_SleptOnSnow,0,,Tôi phải ngủ giữa trời tuyết giá lạnh! <style=AltColor>Mẹo: Hãy xây dựng giường trong phòng kín hoặc nơi có mái che.
 effector_info_SleptOutside,0,,Tôi phải ngủ ngoài trời sương gió. <style=AltColor>Mẹo: Hãy xây dựng giường ngủ bên trong phòng kín.</style>
-effector_info_SleptWithoutBed,0,,Had để Giấc ngủ trên ground.
+effector_info_SleptWithoutBed,0,,Phải ngủ co ro dưới nền đất lạnh.
 effector_info_SlightNeedSleep,0,,"Feeling a bit tired, Có lẽ tôi nên take a nap."
-effector_info_SlightlyHungry,0,,"Could do với something để eat, if Tôi có thể find time."
-effector_info_StarvationLoosHP,0,,"Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
-effector_info_Starving,0,,"Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
+effector_info_SlightlyHungry,0,,"Có món gì đó để ăn thì tốt quá, nếu tôi có chút thời gian."
+effector_info_StarvationLoosHP,0,,"Tôi đói lả người rồi, nếu không được ăn gì sớm tôi sẽ chết mất. Bây giờ cho gì tôi cũng ăn."
+effector_info_Starving,0,,"Tôi đói lả người rồi, nếu không được ăn gì sớm tôi sẽ chết mất. Bây giờ cho gì tôi cũng ăn."
 effector_info_Sweaty,0,,"Trời nóng nực quá, mồ hôi chảy ròng ròng. <style=AltColor>Mẹo: May trang phục mùa hè mát mẻ.</style>"
 effector_info_UglyClothing,0,,Mấy mảnh giẻ rách này không xứng để tôi mặc. <style=AltColor>Mẹo: Một số dân làng rất kén chọn trang phục. Hãy may đồ chất lượng cao hơn để tránh bị giảm tâm trạng.</style>
 effector_info_VeryHot,0,,Tôi sắp ngất vì trời quá nóng bức rồi! <style=AltColor>Mẹo: May quần áo mùa hè thoáng khí cho dân làng.</style>
-effector_info_VeryHungry,0,,Can't hear anything over sound của của tôi growling stomach.
+effector_info_VeryHungry,0,,Chẳng nghe thấy gì ngoài tiếng bụng đói cồn cào réo rắt.
 effector_name_2x,0,,2X
 effector_name_3x,0,,3X
 effector_name_4x,0,,4X
@@ -5262,12 +5271,12 @@ effector_name_FaithNeed,0,,Thiếu hoạt động tín ngưỡng
 effector_name_FaithDeprived,0,,Không được hoạt động tín ngưỡng
 effector_name_SawDeadBody,0,,Đã thấy thi thể
 effector_name_SawDeadBodyFriend,0,,Đã thấy thi thể bạn bè
-effector_info_AteAtTable,0,,Eating at table feels so civilized. It's positively grand compared để some của places Tôi đã had để eat...it's quite heartening.
+effector_info_AteAtTable,0,,Được ngồi ăn tại bàn đàng hoàng thật là văn minh. Tuyệt hơn hẳn so với những nơi tôi từng phải ăn... cảm giác thật ấm lòng.
 effector_info_AteSittingDown,0,,Tốt hơn ăn khi phải đứng.
 effector_info_ButcheredHuman,0,,"Đó là hình ảnh tôi không thể nào xóa khỏi tâm trí. Một con người nằm bất động, đã chết. Ánh thép lóe lên từ con dao mổ xẻ. Tôi cảm thấy kinh hoàng và ghê tởm tột cùng."
 effector_info_CookedHumanMeat,0,,Điều kỳ lạ là nó có vị như các loại thịt khác. Nhưng nhớ lại mùi nướng thịt kinh tởm ấy khiến tôi buồn nôn. Thật bệnh hoạn.
 effector_info_FaithFull,0,,"Tôi cảm thấy mãn nguyện, tâm hồn tôi thật thanh thản. Lúc này tôi không có nhu cầu cầu nguyện."
-effector_info_FaithNeed,0,,Tôi cảm thấy conflicted và disconnected. Some time trong quiet contemplation và prayer would help.
+effector_info_FaithNeed,0,,Tôi cảm thấy mâu thuẫn và lạc lõng. Dành chút thời gian tĩnh tâm suy ngẫm và cầu nguyện sẽ giúp ích nhiều.
 effector_info_FaithDeprived,0,,"Tôi sợ rằng mình đang đánh mất đức tin và nguội lạnh lòng sùng kính. Tôi phải cầu nguyện! Tôi phải sám hối! <style=AltColor>Mẹo: Hãy xây dựng bàn thờ, đền miếu hoặc nhà nguyện và bố trí đủ giờ giải trí/tâm linh cho dân làng.</style>"
 effector_info_SawDeadBody,0,,"Thật kinh khủng khi nhìn thấy thi thể ấy. Nó cứng đờ, trơ trọi... trừng trừng nhìn vô định. Nhìn họ như vậy thật bất kính. <style=AltColor>Mẹo: Hãy lưu trữ thi thể trên bãi chứa cách xa khu định cư, hoặc chôn cất người chết để người khác không nhìn thấy.</style>"
 effector_name_AlcoholNeedNone,0,,Không uống rượu
@@ -5491,10 +5500,10 @@ effector_name_BadDreamFood,0,,Cơn ác mộng
 effector_info_BadDreamFood,0,,"Tôi dự một yến tiệc kỳ lạ. Thức ăn sống dậy, quằn quại, bò và trườn khắp nơi. Tôi buồn nôn khi đưa thìa lên miệng... rồi tỉnh giấc!"
 effector_name_BadDreamSpoiled,0,,Giấc mơ nhục nhã
 effector_info_BadDreamSpoiled,0,,"Tôi bị ép ngủ trên giường đinh dưới đáy giếng, rồi bị nhốt vào cùm và bị nông dân ném chất bẩn! Khiếp! Đúng là ác mộng!"
-effector_name_KilledBloodlustMood,0,,Hạ Sát Kẻ Thù (Thỏa Mãn Khát Máu)
+effector_name_KilledBloodlustMood,0,,Hạ Sát Kẻ Thù (Khát Máu)
 effector_info_KilledBloodlustMood,0,,"Ta đã tự tay kết liễu đời chúng, thật đáng đời phường giặc cỏ! Giờ thì xem có kẻ nào còn dám cả gan bén mảng tới chọc giận ta nữa không?"
 effector_name_KilledBloodlustAtributes,0,,Đã giết ai đó
-effector_name_KilledPacifistMood,0,,Tước Đoạt Mạng Sống (Cắn Rứt Lương Tâm)
+effector_name_KilledPacifistMood,0,,Tước Đoạt Mạng Sống (Cắn Rứt)
 effector_info_KilledPacifistMood,0,,Tôi chỉ muốn gột rửa sạch những vết máu tanh nhơ nhuốc này. Không thể tin nổi chính đôi bàn tay tôi lại gây nên tội ác đó... Tôi... buồn nôn quá. Tôi đã biến thành loài quái vật gì thế này?
 effector_name_WeightLowEffector01,0,,Gầy
 effector_name_WeightHighEffector01,0,,Thân hình to lớn
@@ -5558,7 +5567,7 @@ effector_name_AffectionAnimalNegative,0,,Bạn đồng hành phiền đểái
 effector_name_AffectionPetVeryPossitive,0,,Bạn đồng hành tuyệt vời
 effector_name_AffectionPetVeryNegative,0,,Bạn đồng hành tồi tệ
 effector_name_AffectionWelcome,0,,Welcomed me để Khu định cư 
-effector_name_AffectionCarryToBed,0,,Carried me when I đã wounded
+effector_name_AffectionCarryToBed,0,,Đã cõng tôi về giường khi tôi bị thương
 effector_name_AffectionTendWounds,0,,Tended của tôi wounds
 effector_name_AffectionBattledTogether,0,,Chúng ta đã cùng chiến đấu
 effector_name_BeliefNeutral,0,,Đức tin không đổi
@@ -5584,12 +5593,12 @@ effector_name_WorkerDiedFriend,0,,Bạn đã chết
 effector_name_WorkerDiedRival,0,,Đối thủ đã chết
 effector_info_BanishedVillagerFriend,0,,Cuộc sống vốn dĩ đã quá nghiệt ngã rồi. Giờ tôi lại mất đi một người bạn thân.
 effector_info_BanishedVillagerRival,0,,Cút đi cho khuất mắt! Mong chúng bị bọn cướp bắt!
-effector_info_WorkerDiedFriend,0,,"Oh, how I shall mourn của tôi bạn's passing."
+effector_info_WorkerDiedFriend,0,,"Ôi, tôi sẽ đau buồn khôn nguôi trước sự ra đi của người bạn thân yêu."
 effector_info_WorkerDiedRival,0,,"We mustn't speak ill của dead. But Tôi có thể't pretend Tôi sẽ shed many tears, either."
 effector_name_BanishedVillager,0,,Dân làng bị trục xuất
 effector_info_BanishedVillager,0,,Số người sống sót trên thế gian này đã quá ít ỏi. Việc trục xuất ai đó chẳng khác nào một sự phản bội.
 effector_name_WorkerDied,0,,Người quen đã chết
-effector_info_WorkerDied,0,,Tôi có thể't believe they là Không hơn!
+effector_info_WorkerDied,0,,Tôi không thể tin được là họ đã vĩnh viễn ra đi!
 effector_name_DrankVeryNiceWine,0,,Đã uống rượu vang hảo hạng
 effector_info_DrankVeryNiceWine,0,,"Mmm, điều này wine là like bottled poetry."
 effector_name_WetLow,0,,Ẩm ướt
@@ -5625,12 +5634,12 @@ effector_name_EventFeastOutcomeGoodHedonist,0,,Yến tiệc thú vị (Khoái l�
 effector_name_EventFeastOutcomeVeryGoodHedonist,0,,Yến tiệc xuất sắc (Khoái lạc)
 effector_name_EventFeastOutcomeUnforgettableHedonist,0,,Yến tiệc khó quên (Khoái lạc)
 effector_info_EventOutcomeTerrible,0,,"Shamefully chaotic event. I yearned cho death, quite literally, để end của tôi suffering faster. Never again."
-effector_info_EventOutcomeVeryBad,0,,I regret going để đó - there là several hours của của tôi cuộc sống đó I'd like Quay lại. What a letdown.
+effector_info_EventOutcomeVeryBad,0,,Tôi hối hận vì đã tham gia — mất toi mấy tiếng cuộc đời mà chẳng lấy lại được. Thật là thất vọng tràn trề.
 effector_info_EventOutcomeBad,0,,Tôi không thể nói là mình thích điều đó. Thật lòng mà nói toàn bộ sự việc khá tẻ nhạt.
-effector_info_EventOutcomeDecent,0,,"That đã an acceptable way để pass some time, Tất cả things considered."
+effector_info_EventOutcomeDecent,0,,Dù sao đi nữa thì đó cũng là một cách tạm ổn để giết thời gian.
 effector_info_EventOutcomeGood,0,,Tôi thấy mọi người đều đã có một trải nghiệm thật tuyệt vời. Tôi rất mong chờ sự kiện tiếp theo.
-effector_info_EventOutcomeVeryGood,0,,What a captivating event! Tôi sẽ be thinking about it cho days để come. Tôi đang so glad I went.
-effector_info_EventOutcomeUnforgettable,0,,Tôi đã never been để an event like it. You had để be there - I đã awestruck đó anything could be so beautiful.
+effector_info_EventOutcomeVeryGood,0,,Thật là một sự kiện cuốn hút! Tôi sẽ còn nhớ mãi trong nhiều ngày tới. Thật vui vì mình đã tham gia.
+effector_info_EventOutcomeUnforgettable,0,,Tôi chưa từng tham dự một sự kiện nào tuyệt vời như thế. Bạn phải tận mắt chứng kiến mới tin được — tôi đã hoàn toàn kinh ngạc khi thấy có thứ đẹp đẽ đến nhường này.
 effector_name_MoodMinusShakedownBloodlust,0,,Lẽ Ra Phải Quyết Chiến
 effector_info_MoodMinusShakedownBloodlust,0,,Tại sao chúng ta không từ chối thẳng thừng và đập nát sọ lũ tống tiền đó thay vì ngoan ngoãn dâng nộp bao nhiêu tài nguyên mồ hôi nước mắt!
 effector_name_GoalPreferenceVeryNegative,0,,Làm việc gì đó trong oán giận
@@ -5639,9 +5648,9 @@ effector_name_GoalPreferencePositive,0,,Hăm hở làm việc gì đó
 effector_name_GoalPreferenceVeryPositive,0,,Say mê làm việc gì đó
 effector_info_GoalPreference,0,,"(<goal_names>) <style=AltColor>Mẹo: Nếu dân làng cảm thấy chán nản, hãy giao cho họ công việc đam mê để nâng cao tâm trạng.</style>"
 effector_name_EventFeastNonParticipant,0,,Did không attend feast
-effector_info_EventFeastNonParticipant,0,,"So, I wasn't important enough để be invited. Who cares? Tôi sẽ make của tôi own feast, với backgammon và harlots!"
+effector_info_EventFeastNonParticipant,0,,"Hóa ra tôi không đủ quan trọng để được mời. Ai thèm quan tâm chứ? Tôi sẽ tự mở bữa tiệc của riêng mình, với cờ vua và vũ nữ!"
 effector_name_EventSermonNonParticipant,0,,Không dự Thánh lễ
-effector_info_EventSermonNonParticipant,0,,Maybe they just forgot để invite me
+effector_info_EventSermonNonParticipant,0,,Có lẽ họ chỉ vô tình quên mời tôi thôi.
 effector_name_EventSermonOutcomeTerrible,0,,Thánh lễ thảm họa
 effector_name_EventSermonOutcomeVeryBad,0,,Thánh lễ đáng than trách
 effector_name_EventSermonOutcomeBad,0,,Thánh lễ đáng thất vọng
@@ -5649,9 +5658,9 @@ effector_name_EventSermonOutcomeDecent,0,,Thánh lễ tạm được
 effector_name_EventSermonOutcomeGood,0,,Thánh lễ thú vị
 effector_name_EventSermonOutcomeVeryGood,0,,Thánh lễ xuất sắc
 effector_name_EventSermonOutcomeUnforgettable,0,,Thánh lễ khó quên
-effector_info_EventSermonOutcomePagan,0,,"Curious. A lot của chanting trong latin. I suppose bread và wine stand trong cho an actual sacrifice, then?"
+effector_info_EventSermonOutcomePagan,0,,Thật kỳ lạ. Có quá nhiều lời tụng niệm bằng tiếng Latinh. Tôi đoán bánh mì và rượu nho là để tượng trưng cho một vật hiến tế thực sự chăng?
 effector_name_EventRitualNonParticipant,0,,Không dự nghi lễ
-effector_info_EventRitualNonParticipant,0,,Maybe they just forgot để invite me
+effector_info_EventRitualNonParticipant,0,,Có lẽ họ chỉ vô tình quên mời tôi thôi.
 effector_name_EventRitualOutcomeTerrible,0,,Nghi lễ thảm họa
 effector_name_EventRitualOutcomeVeryBad,0,,Nghi lễ đáng than trách
 effector_name_EventRitualOutcomeBad,0,,Nghi lễ đáng thất vọng
@@ -5664,14 +5673,14 @@ effector_name_EventExecutionGallowsNegative,0,,Thi hành tồi tệ
 effector_name_EventExecutionGallowsPositive,0,,Một vụ treo cổ xuất sắc
 effector_name_EventExecutionGallowsNeutral,0,,Đã chứng kiến vụ treo cổ
 effector_info_EventExecutionGallowsNegative,0,,Vụ hành quyết là một sự bất công tàn nhẫn. Tôi vô cùng hối hận vì đã quyết định đứng xem nó.
-effector_info_EventExecutionGallowsPositive,0,,Who doesn't love a tốt hanging? Họ deserved what đã coming để them.
-effector_info_EventExecutionGallowsNeutral,0,,I suppose justice đã served? Rather them than me...
+effector_info_EventExecutionGallowsPositive,0,,Ai mà chẳng thích xem một buổi xử tử treo cổ chứ? Chúng đáng phải nhận kết cục như thế.
+effector_info_EventExecutionGallowsNeutral,0,,Tôi đoán công lý đã được thực thi? Thà là chúng chịu tội còn hơn là tôi...
 effector_name_ExecutedPrisoner,0,,Tù nhân bị hành quyết
-effector_info_ExecutedPrisoner,0,,"Mercy upon đó poor prisoner's soul! There, but cho grace của của tôi gaolers, go I..."
+effector_info_ExecutedPrisoner,0,,"Xin thương xót linh hồn người tù tội nghiệp đó! Nếu không nhờ sự khoan hồng của cai ngục, có lẽ số phận tôi cũng sẽ bi đát như vậy..."
 effector_name_ExecutedPrisonerSameFaction,0,,Hành quyết tù nhân (cùng phe phái)
 effector_info_ExecutedPrisonerSameFaction,0,,"Cầu xin lòng từ bi đoái thương linh hồn người tù tội nghiệp ấy! Nếu không nhờ sự khoan hồng của cai ngục, người nằm đó ắt hẳn đã là ta..."
 effector_name_PrisonerSetFree,0,,Tù nhân được thả
-effector_info_PrisonerSetFree,0,,One của our wretched cellmates là released! Might I perchance harbour dreams của của tôi own freedom?
+effector_info_PrisonerSetFree,0,,Một trong những người bạn tù khốn khổ của chúng ta đã được thả! Liệu tôi có dám mơ về tự do của chính mình chăng?
 effector_name_SleptInPrisonCellAwful,0,,Slept trong an prison cell
 effector_name_SleptInPrisonCellDull,0,,Slept trong an prison cell
 effector_name_SleptInPrisonCellMediocre,0,,Slept trong an prison cell
@@ -5698,10 +5707,10 @@ effector_name_EventOutcomeDecentTrainingBuff,0,,Huấn luyện quân sự tạm 
 effector_name_EventOutcomeGoodTrainingBuff,0,,Huấn luyện quân sự thú vị
 effector_name_EventOutcomeVeryGoodTrainingBuff,0,,Huấn luyện quân sự xuất sắc
 effector_name_EventOutcomeUnforgettableTrainingBuff,0,,Huấn luyện quân sự khó quên
-effector_info_EventMasterClassOutcomeTerrible,0,,Tôi đang so confused? I know even ít hơn about <skill_name> than when I started!
-effector_info_EventMasterClassOutcomeVeryBad,0,,"Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+effector_info_EventMasterClassOutcomeTerrible,0,,Tôi đang rất bối rối? Thậm chí tôi còn hiểu ít hơn về <skill_name> so với lúc mới bắt đầu!
+effector_info_EventMasterClassOutcomeVeryBad,0,,Thật lãng phí mấy tiếng cuộc đời mà chẳng lấy lại được. Tôi chẳng tiếp thu thêm được điều gì cả.
 effector_info_EventMasterClassOutcomeBad,0,,Buổi giảng dạy thật tẻ nhạt và toàn những điều hiển nhiên. Cùng lắm chỉ là nhắc lại những gì tôi đã biết.
-effector_info_EventMasterClassOutcomeDecent,0,,That đã a solid lesson. Tôi đang looking forward để finding out hơn.
+effector_info_EventMasterClassOutcomeDecent,0,,Đó là một bài học bổ ích. Tôi rất mong được tìm hiểu thêm nhiều điều nữa.
 effector_info_EventMasterClassOutcomeGood,0,,Tôi cảm thấy as though Tôi đã learned something new hôm nay.
 effector_info_EventMasterClassOutcomeVeryGood,0,,Thú vị thật! Hiểu biết của tôi về <skill_name> đã tiến bộ đáng kể.
 effector_info_EventMasterClassOutcomeUnforgettable,0,,Buổi học này đã hoàn toàn mở rộng tầm mắt tôi lên một tầm cao mới về kỹ năng <skill_name>. Tôi thật may mắn khi được tham gia.
@@ -5713,7 +5722,7 @@ effector_info_EventMeleeTrainingOutcomeGood,0,,Tôi cảm thấy hôm nay mình 
 effector_info_EventMeleeTrainingOutcomeVeryGood,0,,Thú vị thật! Hiểu biết của tôi về Cận chiến đã tiến bộ đáng kể.
 effector_info_EventMeleeTrainingOutcomeUnforgettable,0,,Buổi luyện tập này đã hoàn toàn mở rộng tầm mắt tôi lên một tầm cao mới về Cận chiến. Tôi thật may mắn khi được tham gia.
 effector_info_EventRangedTriningOutcomeTerrible,0,,Tôi rối quá! Giờ tôi còn hiểu về Xạ thủ ít hơn cả lúc bắt đầu!
-effector_info_EventRangedTriningOutcomeVeryBad,0,,"Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+effector_info_EventRangedTriningOutcomeVeryBad,0,,Thật lãng phí mấy tiếng cuộc đời mà chẳng lấy lại được. Tôi chẳng tiếp thu thêm được điều gì cả.
 effector_info_EventRangedTriningOutcomeBad,0,,Buổi huấn luyện bắn cung thật tẻ nhạt và toàn những điều hiển nhiên. Cùng lắm chỉ là ôn lại những gì tôi đã biết.
 effector_info_EventRangedTriningOutcomeDecent,0,,Đó là một bài học bổ ích. Tôi rất mong được học hỏi thêm nhiều điều mới.
 effector_info_EventRangedTriningOutcomeGood,0,,Tôi cảm thấy như mình vừa học được thêm một kỹ năng hoàn toàn mới hôm nay.
@@ -6036,7 +6045,7 @@ atb_info_MakeClayBrick,0,,Công trình này dân làng's clay brickmaking speed.
 atb_info_MakeClothesSpeed,0,,Công trình này dân làng's garment making speed.
 atb_info_MeleeAttackSpeed,0,,Cận chiến attack duration: base Cận chiến duration +/- multipliers.
 atb_info_MeleeChance,0,,Tỉ lệ đánh trúng mục tiêu khi sử dụng vũ khí cận chiến.
-atb_info_MeleeDmg,0,,"Cận chiến weapon proficiency (Higher Cận chiến skill will increase, và penalties such as wounds will decrease this modifier.)."
+atb_info_MeleeDmg,0,,"Độ thành thục vũ khí cận chiến (Kỹ năng Cận chiến cao hơn sẽ tăng, còn các hình phạt như vết thương sẽ làm giảm hệ số này)."
 atb_info_MineAmount,0,,Số lượng tài nguyên mà dân làng này khai thác được từ việc đào bới và đập đá.
 atb_info_MineFail,0,,Tỉ lệ dân làng này làm hỏng hoặc hao hụt tài nguyên khi đào mỏ.
 atb_info_MineSpeed,0,,Voxel Khai khoáng và digging speed.
@@ -6045,7 +6054,7 @@ atb_info_MoodTarget,0,,Mục tiêu tâm trạng hướng tới. Chỉ số này 
 atb_info_MotorFunction,0,,Settler motor function level. Affects duration của Tất cả physical actions.
 atb_info_MovementSpeed,0,,Movement tốc độ represented trong grid spaces per second.
 atb_info_PainMax,0,,Mức độ đau đớn tối đa mà dân làng này có thể chịu đựng trước khi ngất xỉu.
-atb_info_PainStep,0,,Multiplier indicating how fast this settler's Cơn đau subsides.
+atb_info_PainStep,0,,Hệ số cho biết cơn đau của dân làng này giảm nhanh đến mức nào.
 atb_info_PainTreshold,0,,"Ngưỡng đau: mức đau cơ bản của dân làng +/- hệ số (ví dụ: nếu đặc tính đặt ở -10%, dân làng này sẽ chịu được nhiều đau đớn hơn trong chiến đấu)"
 atb_info_RangedChance,0,,Cơ hội đánh trúng mục tiêu bằng vũ khí tầm xa.
 atb_info_RangedDmg,0,,"Mức thành thạo vũ khí tầm xa (Kỹ năng tầm xa cao hơn sẽ tăng hệ số này, còn các bất lợi như vết thương sẽ giảm nó.)"
@@ -6480,7 +6489,8 @@ resource_name_damson,0,,Quả Mận Damson
 resource_name_mulberrie,0,,Quả Dâu Tằm
 resource_name_walnut,0,,Hạt Óc Chó
 resource_info_quince,0,,"Thức quả cứng cáp nổi danh, rất hợp khi tẩm ướp cùng nhục đậu khấu hoặc đinh hương. Hầm nhừ, ngâm đường hoặc ăn kèm thịt thú rừng."
-resource_info_damson,0,,"Những quả mận dại này có thể phơi khô, hầm hoặc ngâm bảo quản, giúp chống đói qua mùa đông."
+resource_info_damson,0,,"Những quả mận dại này có thể phơi khô, hầm hoặc ngâm bảo quản, giúp chống đói qua mùa đông.
+"
 resource_info_mulberrie,0,,"Quả dâu tằm mang lại hương vị mê đắm cho đủ loại bánh pudding, si-rô ngọt ngào và bánh nướng giòn rụm."
 resource_info_walnut,0,,"Ăn sống, muối chua hay ép lấy dầu, loại hạt hình bộ não này là thức dự trữ không thể thiếu cho tủ thức ăn mùa đông."
 resource_name_quince_sapling,0,,Cây Giống Mộc Qua
@@ -6507,7 +6517,7 @@ resource_name_lavish_roasted_fish,0,,Món Cá Nướng Thịnh Soạn
 resource_name_fruit_pie,0,,Bánh Nướng Nhân Trái Cây
 resource_name_meat_pie,0,,Bánh Nướng Nhân Thịt
 resource_name_buiskets,0,,Bánh Scone Nướng
-resource_name_cheese_pie,0,,Bánh Tart Phô Mai (Tart de Bry)
+resource_name_cheese_pie,0,,Bánh Tart Phô Mai
 resource_name_fish_pie,0,,Bánh Nướng Nhân Cá
 resource_name_sauteed_fruits_vegetables,0,,Cháo Hầm Rau Củ (Pottage)
 resource_name_honey_glazed_vegetables,0,,Rau Củ Áp Chảo Phủ Mật Ong
@@ -6576,7 +6586,8 @@ resource_info_limestone,0,,"Vật liệu xây dựng khai thác từ mỏ đá, 
 resource_info_limestone_block,0,,"Khối đá vôi được đẽo gọt vuông vức từ mỏ đá, thích hợp xây tường kiên cố."
 resource_info_linen_cloth,0,,"Dệt từ sợi lanh kéo mịn và tẩy trắng bằng nước tro. Loại vải đẹp đẽ, thoáng mát và đa dụng."
 resource_info_meat,0,,Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến.
-resource_info_mushroom,0,,Nguồn thực phẩm mọc hoang dã nơi đồng ruộng và rừng rậm. Cần quan sát nhận dạng cẩn thận để tránh hái phải nấm độc chết người.
+resource_info_mushroom,0,,"Nguồn thực phẩm mọc hoang dã nơi đồng ruộng và rừng rậm. Cần quan sát nhận dạng cẩn thận để tránh hái phải nấm độc chết người. 
+"
 resource_info_normal_research_book,0,,Cuốn sách chứa đựng nhiều nghiên cứu sâu sắc. Là tài liệu chỉ dẫn quý giá.
 resource_info_packaged_meal,0,,"Lương khô đóng gói kỹ càng, tiện lợi mang theo trong các chuyến hành trình dài hoặc tuần tra bảo vệ biên giới."
 resource_info_pickled_vegetable,0,,"Rau củ ngâm trong nước muối hoặc giấm chua, giúp bảo quản lương thực cho những ngày tháng giáp hạt."
@@ -6730,8 +6741,8 @@ equipment_name_macabre_armor,0,,Giáp Khung Xương
 equipment_name_mail_armor,0,,Áo Giáp Xích
 equipment_name_plate_armor,0,,Áo Giáp Tấm Thép
 equipment_name_savage_heavy_armor,0,,Giáp Tấm Man Tộc
-equipment_name_plate_helmet,0,,Đại Mũ Trụ Hiệp Sĩ (Great Helm)
-equipment_name_pigface_helmet,0,,Mũ Trụ Mõm Lợn (Pigface Bascinet)
+equipment_name_plate_helmet,0,,Đại Mũ Trụ (Great Helm)
+equipment_name_pigface_helmet,0,,Mũ Trụ Mõm Lợn (Pigface)
 equipment_name_helmet,0,,Mũ Trụ Chiến Binh
 equipment_name_light_helmet,0,,Mũ Trụ Nhẹ
 equipment_name_macabre_helmet,0,,Mũ Trụ Xương Đầu Lâu
@@ -6744,7 +6755,7 @@ equipment_name_heretic_helmet,0,,Mũ Trụ Kẻ Dị Giáo
 equipment_name_kettle_helmet,0,,Mũ Trụ Vành Rộng (Kettle Hat)
 equipment_name_viking_helmet,0,,Mũ Trụ Chiến Binh Viking
 equipment_name_buckler_shield,0,,Khiên Tròn Nhỏ Buckler
-equipment_name_kite_shield,0,,Khiên Hình Giọt Nước (Kite Shield)
+equipment_name_kite_shield,0,,Khiên Giọt Nước (Kite)
 equipment_name_tower_shield,0,,Đại Khiên Tháp (Tower Shield)
 equipment_name_pavise_shield,0,,Đại Khiên Chắn Pavise
 equipment_name_shield,0,,Khiên Chắn
@@ -6843,7 +6854,7 @@ equipment_info_head_scarf,0,,"Khăn trùm đầu bằng vải đơn giản, ti�
 equipment_info_hood,0,,"Chiếc mũ trùm đầu giúp ẩn mình và che giấu danh tính, theo truyền thống của những hiệp sĩ rừng xanh Robin Hood."
 equipment_info_wolf_headpiece,0,,Người miền núi kể về truyền thuyết hóa sói săn mồi theo bầy. Chiếc mũ đầu sói này gợi lên nỗi khiếp sợ hoang dã của bóng đêm rừng thẳm.
 equipment_info_boar_headpiece,0,,Giáo phái chiến binh lợn rừng đang trỗi dậy mạnh mẽ ở vùng Northumbria. Các chiến binh Pagan cầu nguyện thần Vitiris ban cho lòng dũng cảm phi thường.
-equipment_info_stag_headpiece,0,,"Chiếc mũ gạc hươu tôn vinh nữ thần cổ xưa Elen of the Ways, mang đậm màu sắc nghi lễ huyền bí của các tín đồ Pagan."
+equipment_info_stag_headpiece,0,,"Chiếc mũ gạc hươu tôn vinh nữ thần cổ xưa Elen xứ Wales, mang đậm màu sắc nghi lễ huyền bí của các tín đồ Pagan."
 equipment_info_hare_headpiece,0,,"Gợi nhớ thuật biến hình và báo trước điềm gở. Người đội hiện thân cho sự sinh sôi, cuồng loạn và tử thần. Hãy dè chừng loài thỏ rừng."
 equipment_info_chaperon,0,,Mũ trùm Chaperon — biểu tượng thời trang quý tộc thế kỷ 14 với dải đuôi dài liripipe uốn lượn đặc trưng.
 equipment_info_reinforced_wooden_shield,0,,"Chiếc khiên gỗ gia cố tăng cường khả năng chống đỡ, dù nặng nề hơn nhưng có thể cứu mạng bạn trong gang tấc."
@@ -7030,7 +7041,7 @@ perk_info_Robust,0,,"<name> sở hữu cơ thể tráng kiện bền bỉ, nhanh
 perk_info_Infirm,0,,Thể trạng yếu ớt và dễ tổn thương là gánh nặng mà <name> phải mang suốt cả cuộc đời. [He/She] thường xuyên phải nằm viện dưỡng bệnh.
 perk_info_Moribund,0,,<name> thường toát ra mùi hôi khó chịu từ những lớp băng bó ẩm mốc. [He/She] hồi phục thương tật vô cùng chậm chạp.
 perk_info_NightOwl,0,,<name> cảm thấy tỉnh táo và hăng say nhất khi làm việc giữa màn đêm tăm tối. [He/She] vẫn tràn đầy năng lượng dù ngủ rất ít.
-perk_info_FortyWinks,0,,<name> chỉ cần nhắm nghiền đôi mắt chợp mắt trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn.
+perk_info_FortyWinks,0,,<name> chỉ cần nhắm nghiền đôi mắt của [his/her] chợp mắt trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn.
 perk_info_Somnolent,0,,"<name> không gì yêu thích hơn một giấc ngủ nướng dài thảnh thơi. Trên thực tế, [he/she] cần ngủ nhiều hơn hẳn người bình thường mới có thể làm việc."
 perk_info_EarlyBird,0,,<name> vô cùng hào hứng bắt tay vào công việc ngay khi vầng dương vừa ló dạng và tiếng gà gáy đầu tiên cất lên. Đi ngủ sớm là thói quen bắt buộc.
 perk_info_Stout,0,,"<name> thường tự hào đùa rằng chiếc bụng mỡ đẫy đà của [his/her] chính là kho dự trữ năng lượng quý báu cho những ngày đói kém. Tuy nhiên, tốc độ di chuyển có phần chậm chạp hơn."
@@ -7091,7 +7102,7 @@ perk_info_Macabre,0,,"Đối với <name>, sự mục rữa thối tàn là đi�
 perk_info_Pyromancer,0,,"Mùi khói lửa quấn quýt quanh thân thể <name> như hình với bóng, và những tàn tro rực cháy luôn bùng lên mỗi khi [his/her] bước qua."
 perk_info_SweetToothed,0,,"Mọi người thường đùa rằng <name> sẵn sàng đem cả túi tiền vàng để đổi lấy một hũ mật ong rừng, và vẫn đắc ý cho rằng đó là một món hời lớn."
 perk_info_Prophet,0,,"Thường xuyên nằm liệt giường với thể trạng đau yếu, nhưng những lời sấm truyền tiên tri của <name> luôn khiến cả những trái tim can trường nhất cũng phải rùng mình khiếp sợ."
-perk_info_Mudskipper,0,,"<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, bùn lầy, đồng hoang nước ngập. Càng ướt át trơn trượt bao nhiêu, [he/she] lại càng phấn khích bấy nhiêu."
+perk_info_Mudskipper,0,,"<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, bùn lầy, đồng hoang nước ngập. Càng ướt át trơn trượt bao nhiêu, bước chân lại càng hăng say bấy nhiêu."
 perk_info_Flamekissed,0,,"<name> khiếp đảm co rúm trước ngọn lửa tựa như nô lệ trước người chủ hung tàn. Lửa bám lấy [him/her] dai dẳng hơn người khác, để lại những vết bỏng sẹo thâm đen đau đớn."
 perk_info_Riverborn,0,,"<name> lướt đi trong dòng nước mềm mại tựa loài lươn biển, chẳng hề bận tâm trước cái lạnh cắt da hay sóng gió. Tôm cá như bị ma thuật cổ xưa dẫn dụ thi nhau nhảy vào lưới của [his/her]."
 perk_info_Workshy,0,,"<name> luôn nhanh chân lẩn trốn khỏi mọi công việc lao động chân chính, nhưng [he/she] lại tìm thấy niềm say mê bất tận trong ca hát, cờ bạc và những thú tiêu khiển nhàn rỗi."
@@ -7099,16 +7110,16 @@ perk_info_Ironblood,0,,"<name> tìm thấy sức mạnh trong kỷ luật thép,
 perk_info_Bowdrunk,0,,Bao tên bên hông và nhịp thở đều đặn khi giương cung — <name> bị mê hoặc tột cùng với việc trau chuốt từng phát bắn đạt độ chuẩn xác tuyệt đối.
 perk_info_Siegewise,0,,"<name> am tường từng bánh răng, trục quay và đòn bẩy đối trọng. Khi tiếng gầm rú của các cỗ máy công thành vang lên, [he/she] luôn đi trước thế trận một bước."
 perk_info_Wardenborn,0,,"<name> toát ra một uy quyền điềm tĩnh và lạnh lùng khiến ngay cả những tù nhân hung hãn ngỗ ngược nhất cũng phải ngoan ngoãn quy phục. [He/She] biết chính xác lúc nào nên đe nẹt, lúc nào nên quan sát và lúc nào nên tra chìa khóa vào ổ ngục."
-perk_info_Pitiless,0,,"<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc của [him/her]."
-perk_info_Wildwyrd,0,,<name> có thể thuần phục một con dê núi đang nổi điên hay khiến một con chó hoang hung dữ phải cúi đầu phủ phục chỉ bằng một tiếng thì thầm êm dịu. Muôn loài muông thú đều tự nhiên lắng nghe và phục tùng [him/her].
-perk_info_Herbivore,0,,"<name> tuyệt đối chỉ ăn hoa màu và thực vật, không hẳn vì giới luật tôn giáo mà đơn thuần là do sở thích cá nhân. Một bắp cải sống giòn tan? Với [him/her] đó là mỹ vị trần gian."
+perk_info_Pitiless,0,,"<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc."
+perk_info_Wildwyrd,0,,<name> có thể thuần phục một con dê núi đang nổi điên hay khiến một con chó hoang hung dữ phải cúi đầu phủ phục chỉ bằng một tiếng thì thầm êm dịu. Muôn loài muông thú đều tự nhiên lắng nghe và phục tùng.
+perk_info_Herbivore,0,,"<name> tuyệt đối chỉ ăn hoa màu và thực vật, không hẳn vì giới luật tôn giáo mà đơn thuần là do sở thích cá nhân. Một bắp cải sống giòn tan? Thật là mỹ vị trần gian."
 perk_info_Steadfast,0,,"Đứng trước mọi hình phạt tra tấn dã man, đói khát cùng cực hay tuyệt vọng đen tối nhất, <name> kiên quyết không bao giờ chịu khuất phục. [He/She] từng bước qua địa ngục trần gian trong quá khứ và vẫn ngẩng cao đầu vững bước tiến lên."
 perk_info_Nimbleblade,0,,"Khi <name> rút kiếm giao đấu, đường kiếm uyển chuyển tựa như vũ điệu của sấm sét. Chẳng một vết xước nào có thể chạm vào thân thể [him/her], trong khi xác quân thù nhanh chóng gục ngã chất đống dưới chân."
 perk_info_Bloomer,0,,Cỏ cây hoa lá đâm chồi nảy lộc mơn mởn dưới bàn tay chăm sóc của <name>. Ngay cả mảnh đất cằn cỗi khô cháy nhất cũng sẵn lòng đơm hoa kết trái ngọt lành cho [him/her].
 perk_info_Stoic,0,,Bình thản đón nhận mọi gian nan đau khổ với phong thái trầm mặc. Mọi nỗi đau thể xác chỉ là bóng mây thoáng qua trước mắt.
-perk_info_Splinter,0,,"<name> thỉnh thoảng choàng tỉnh dậy giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của chính mình. Và có lẽ [he/she] đã hoàn toàn đúng."
-perk_info_Reeky,0,,"Bất kể <name> có kỳ cọ tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra một mùi hôi nồng nặc khó chịu. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
-perk_info_Bareknuckled,0,,<name> tin tưởng vào sức mạnh của nắm đấm xương thịt hơn là gươm giáo kim loại. [He/She] vung nắm đấm tay không uy lực và tàn khốc hơn hầu hết những kẻ cầm gươm — chẳng một đối thủ nào có thể trụ vững sau đòn đánh của [him/her].
+perk_info_Splinter,0,,"<name> thỉnh thoảng choàng tỉnh dậy giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của [his/her]. Và có lẽ [he/she] đã hoàn toàn đúng."
+perk_info_Reeky,0,,"Bất kể <name> có kỳ cọ tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra một mùi hôi nồng nặc quanh [him/her]. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
+perk_info_Bareknuckled,0,,<name> tin tưởng vào sức mạnh của nắm đấm xương thịt hơn là gươm giáo kim loại. [He/She] vung nắm đấm tay không uy lực và tàn khốc hơn hầu hết những kẻ cầm gươm — chẳng một ai có thể trụ vững sau đòn đánh.
 perk_info_Beastmaster,0,,Muông thú phục tùng trước <name> tựa như bị bỏ bùa mê bởi tiếng sáo thần của người thổi sáo thành Hamelin. [He/She] thuần hóa những loài ác thú hung tợn mà chẳng gặp chút khó khăn hay sợ hãi nào.
 prox_info_moribund,0,,"Khi bị thương, các vết thương của <name> bốc ra mùi tử khí khó chịu khiến những dân làng Kiêu Kỳ và Yểu Điệu cảm thấy kinh tởm."
 prox_info_messy_eather,0,,Thói quen ăn uống nhồm nhoàm bừa bãi của <name> khiến những người xung quanh cảm thấy vô cùng khó chịu.
@@ -7140,7 +7151,7 @@ merry_name_Hefty,0,,Sắc sảo nhạy bén
 merry_name_Wise,0,,Khéo léo tài tình
 merry_name_Erudite,0,,Uyên bác thông thái
 negative_chemistry_towards_perks,0,,Không hòa hợp với người mang đặc tính:
-positive_chemistry_towards_perks,0,,Hòa hợp thân thiện với người mang đặc tính:
+positive_chemistry_towards_perks,0,,Hòa hợp với người có đặc tính:
 affection_tooltip,0,,Tình cảm
 relation_towards,0,,My Tình cảm towards <settler_name> : <affection_amount>
 relation_from,0,,<settler_name>`s Tình cảm towards me: <affection_amount>
@@ -7231,8 +7242,8 @@ building_name_rally_point_marker,0,,Điểm tập hợp
 building_info_rally_point_marker,0,,Dân làng tập hợp tại đây khi được huy động.
 building_name_large_bell,0,,Chuông lớn
 building_info_large_bell,0,,Rung chuông để gọi dân làng đến các điểm tập hợp đã kích hoạt.
-rally_point_panel_desc,0,,Chọn which Dân làng will gather at this point when drafted.
-bell_panel_desc,0,,Chọn rally points that will activate when you ring this bell.
+rally_point_panel_desc,0,,Chọn những dân làng sẽ tập hợp tại điểm này khi được huy động chiến đấu.
+bell_panel_desc,0,,Chọn các điểm tập kết sẽ kích hoạt khi bạn rung chiếc chuông này.
 rally_point_marker_default_name,0,,Điểm tập kết quân
 bell_default_name,0,,Chuông lớn
 rally_point_panel_armed_only,0,,Armed Dân làng only
@@ -7286,8 +7297,16 @@ building_name_chess_king,0,,Quân Cờ Vua
 building_name_chess_queen,0,,Quân Cờ Hậu
 building_info_chess_piece,0,,Bức tượng mô phỏng hình tượng một quân cờ bàn. Từng đường nét chạm khắc vững chãi uy nghi tựa như những nước cờ cân não trong một ván cờ chiến thuật kéo dài.
 building_name_foxy_statue,0,,Tượng Cáo Tinh Ranh
-building_info_foxy_statue2,0,,Thật là tinh ranh tựa loài cáo...
-building_info_foxy_statue,0,,<b>Lời tri ân sâu sắc gửi tới những cá nhân xuất sắc đã cùng xây dựng cộng đồng Going Medieval phát triển hưng thịnh:</b>\n    Mathijs The Otter Mod\n    Lyosha\n    alexbb721\n    Isabelle 'Lady' Briar\n    Lady Kathleen\n    Megan_OMCF\n    Miss Morrigan Marie\n    và toàn thể quý bạn — những người chơi gắn bó từ giai đoạn Early Access.
+building_info_foxy_statue2,0,,Thật tinh ranh tựa loài cáo...
+building_info_foxy_statue,0,,"<b>Lời tri ân sâu sắc gửi tới những cá nhân xuất sắc đã cùng xây dựng cộng đồng Going Medieval phát triển hưng thịnh:</b>
+    Mathijs The Otter Mod
+    Lyosha
+    alexbb721
+    Isabelle 'Lady' Briar
+    Lady Kathleen
+    Megan_OMCF
+    Miss Morrigan Marie
+    và toàn thể quý bạn — những người chơi gắn bó từ giai đoạn Early Access."
 building_name_scarecrow,0,,Bù Nhìn Rơm Đuổi Quạ
 building_info_scarecrow,0,,"Hình nhân làm từ cành cây khô và rơm rạ, khoác tấm áo gi-lê rách bươm cùng chiếc mũ sụp vành. Lũ quạ hoảng sợ khựng lại không chỉ vì bóng dáng nó lay động trong gió, mà bởi cảm giác nó đang không ngừng dõi mắt nhìn trừng trừng."
 building_name_sundial,0,,Đồng Hồ Mặt Trời
@@ -7633,7 +7652,7 @@ building_info_dirt_slope,0,,Con dốc nghiêng cơ bản đắp từ đất nệ
 building_info_clay_brick_stair,0,,Những khối gạch đất sét nung vững chắc tạo nên các bậc thang đầm chân với độ bền trường tồn cùng thời gian.
 building_info_clay_stair,0,,Bậc thang mộc mạc được đắp nặn từ đất sét thô.
 building_info_limestone_block_stair,0,,Lối thang bước lên tầng cao. Những bậc đá vuông vức vững chãi xứng tầm tay nghề của người thợ đá bậc thầy.
-building_info_limestone_stair,0,,Những bậc thang đẽo từ đá vôi thô sơ nhưng vô cùng chắc chắn.
+building_info_limestone_stair,0,,Bậc thang đá vôi thô nhưng chắc chắn.
 building_info_wood_stair_straight,0,,Nhịp cầu thang thẳng đứng lắp ghép từ các thanh ván gỗ tự nhiên.
 building_info_wooden_stair_square,0,,"Cầu thang gỗ gấp khúc vuông vức khi lên cao, cực kỳ tiết kiệm diện tích trong không gian chật hẹp."
 building_info_clay_brick_window,0,,Khung cửa sổ vuông vắn viền gạch nung. Một ô cửa sổ mở ra thế giới muôn màu.
@@ -7817,7 +7836,7 @@ pseudonym_name_Butcher,0,,Kẻ Butcher
 pseudonym_name_Saint,0,,Kẻ Saint
 pseudonym_name_Chou,0,,Bắp Cải
 pseudonym_name_Bastard,0,,Kẻ Bastard
-pseudonym_name_Pagan,0,,Kẻ Pagan
+pseudonym_name_Pagan,0,,Kẻ Ngoại Giáo
 pseudonym_name_Cuckold,0,,Kẻ Cuckold
 pseudonym_name_Rebel,0,,Kẻ Rebel
 pseudonym_name_Apostle,0,,Kẻ Apostle
@@ -7828,7 +7847,7 @@ pseudonym_name_Pudding,0,,Kẻ Pudding
 pseudonym_name_Forlorn,0,,Kẻ Forlorn
 pseudonym_name_Tart,0,,Kẻ Tart
 pseudonym_name_Doctor,0,,Kẻ Doctor
-pseudonym_name_Fool,0,,Kẻ Fool
+pseudonym_name_Fool,0,,Gã Hề Cung Đình
 pseudonym_name_Spy,0,,Kẻ Spy
 pseudonym_name_Deceiver,0,,Kẻ Deceiver
 pseudonym_name_Broken,0,,Kẻ Tật Nguyền
@@ -7856,23 +7875,23 @@ pseudonym_info_Butcher,0,,"<name> vốn không mấy thông minh hay tài giỏi
 pseudonym_info_Saint,0,,"<name> không ngại chăm sóc những người mắc bệnh phong và những kẻ bị ruồng bỏ, nhưng chính muông thú mới là nơi [he/she] cảm nhận được sự gắn kết sâu sắc nhất. <name> đỏ mặt ngượng ngùng khi được ví như Thánh Francis, nhưng sự so sánh đó hoàn toàn xác đáng."
 pseudonym_info_Chou,0,,"<name> thuở nhỏ dành nhiều thời gian trong vườn rau đến mức người mẹ gốc Norman của [his/her] âu yếm gọi [him/her] là 'bắp cải' theo phong tục người Pháp. Cho đến nay, <name> vẫn rất mát tay làm vườn, đặc biệt là với các loại rau họ cải."
 pseudonym_info_Bastard,0,,"Là một người ủng hộ Hội Triết gia Trật Tự Tự Nhiên, <name> luôn mang nỗi sợ canh cánh rằng người cha lầm lạc của [his/her], dù đang ở đâu, có thể là tín đồ của Gregorius hay thậm chí là kẻ ăn thịt người. Bạn bè của <name> gọi [him/her] là 'đứa con hoang', khiến mọi chuyện càng tồi tệ hơn."
-pseudonym_info_Pagan,0,,<name> spoke để plants và buried strange parcels trong woods under full moon. Nobody dared speak up against [him/her] due để rumours <name> could hex them. <name> did not care that Khác humans called [him/her] 'Pagan'. Humans were problem.
+pseudonym_info_Pagan,0,,<name> thường trò chuyện với cây cối và chôn những bọc đồ kỳ lạ trong rừng dưới ánh trăng tròn. Không ai dám lên tiếng chống lại [him/her] vì những lời đồn rằng <name> có thể ếm bùa họ. <name> chẳng màng đến việc người khác gọi [him/her] là 'Kẻ Ngoại Giáo'. Con người mới chính là vấn đề.
 pseudonym_info_Cuckold,0,,"Ai cũng biết người bạn đời của <name> là kẻ bất trung, nhưng <name> dường như không muốn hoặc không thể làm gì để thay đổi. Từng là một đứa trẻ bị đánh đập và bỏ rơi, <name> hoàn toàn hài lòng gom nhặt bất cứ chút tình cảm vụn vặt nào mà [he/she] có thể cứu vãn."
 pseudonym_info_Rebel,0,,"<name> mang tâm hồn trẻ trung. <name> thích đùa giỡn và đóng vai kẻ ngốc. [He/She] tìm mọi cách trốn tránh trách nhiệm, cười nhạo những bậc tiền bối của [his/her]."
 pseudonym_info_Apostle,0,,"<name> quả đúng là một tín đồ thuần thành, rất thích thao thao bất tuyệt về kinh thánh. Những lời truyền đạo của [His/Her] đôi khi hơi tẻ nhạt và lặp đi lặp lại. Khi <name> không chịu dừng lại, mọi người gọi [him/her] là 'Vị Sứ Đồ'. <name> lại tưởng đó là một lời khen ngợi."
-pseudonym_info_Zealot,0,,"<name> keeps making altars và offerings, stopping Ngày's business để say prayers và muttering about sin. One might be forgiven cho saying [he/she] takes it a bit far."
-pseudonym_info_Heretic,0,,"<name> speaks của Kẻ God của Abraham và Kẻ mosques của Kẻ Moors, của sacred groves, lost scrolls và forbidden rites. <name> knows a bit too much cho [his/her] own good."
+pseudonym_info_Zealot,0,,"<name> liên tục dựng bàn thờ và dâng lễ vật, gác lại công việc trong ngày để lần chuỗi cầu nguyện và lẩm bẩm về tội lỗi. Có thể thông cảm nếu ai đó nói [he/she] đã đi quá giới hạn."
+pseudonym_info_Heretic,0,,"<name> thường nhắc đến Thiên Chúa của Abraham và những thánh đường Hồi giáo của người Moor, về những khu rừng thiêng, cuộn giấy cổ bị thất truyền và những nghi lễ cấm kỵ. <name> biết hơi quá nhiều so với mức an toàn của [his/her]."
 pseudonym_info_Chaste,0,,"<name> mãi khắc khoải nhớ về người yêu đã khuất và thề sẽ không bao giờ thành hôn với ai khác. <name> sống trong quá khứ, cố níu giữ những ký ức quý giá khỏi phai nhòa và xa lánh mọi cử chỉ âu yếm."
-pseudonym_info_Pudding,0,,"<name> could make an excellent fygey pudding, among Khác desserts. [He/She] never lacked cho paramours, being bonny và sweet, với just enough spice. Lovers, rivals và jilted exes Tất cả called <name> 'pudding', với varying degrees của Tình cảm."
+pseudonym_info_Pudding,0,,"<name> có tài làm món bánh pudding vả tuyệt hảo cùng nhiều món tráng miệng khác. [He/She] chẳng bao giờ thiếu người theo đuổi, vừa xinh đẹp ngọt ngào lại vừa thêm chút duyên ngầm sắc sảo. Người tình, đối thủ và cả những người yêu cũ đều gọi <name> là 'Bánh Pudding', với đủ mọi cung bậc tình cảm khác nhau."
 pseudonym_info_Forlorn,0,,"Những lúc không phàn nàn, <name> lại gục đầu khóc vào bát súp hầm của [his/her]. Điều đó thật mất ngon. Chẳng ích gì khi hỏi <name> vì sao [he/she] lại tuyệt vọng đến thế, bởi những câu chuyện bi thương của [his/her] thảm khốc đến mức sẽ ám ảnh giấc mơ của bạn mãi mãi."
 pseudonym_info_Tart,0,,"<name> chẳng hề có chút lẳng lơ nào. [He/She] có được biệt danh này nhờ tính khí chua ngoa của [his/her], để lại cảm giác cay đắng ngay cả sau cuộc trò chuyện ngắn ngủi nhất. <name> đích thực là một kẻ khó đăm đăm."
 pseudonym_info_Doctor,0,,"<name> từng cứu sống một người bạn khi mới 10 tuổi, nhờ đó được mọi người gọi là 'thầy thuốc'. Nhưng ít ai biết rằng <name> đã bỏ rơi nhiều bệnh nhân cầu cứu trong nỗi kinh hoàng khốc liệt của Trận Dịch Bệnh. Đó là một danh xưng gánh nặng nỗi hổ thẹn thầm kín."
-pseudonym_info_Fool,0,,"<name> had at one time played Kẻ fool at court, và revelled trong being allowed để insult Kẻ high và mighty, as long as [he/she] caused enough mirth để compensate. [His/Her] cutting wit và humourous insults were unsurpassed."
+pseudonym_info_Fool,0,,"<name> từng có thời gian làm chú hề trong cung đình, và thỏa sức buông lời châm chọc những bậc vương tôn quý tộc, miễn là [he/she] mang lại đủ tiếng cười bù đắp. Tài đối đáp sắc bén và những câu châm biếm hài hước của [His/Her] không ai bì kịp."
 pseudonym_info_Spy,0,,"<name> từng nhận hối lộ của viện phụ để nghe lén những bí mật tai tiếng tại trang viên vùng <origin>. Than ôi, [he/she] đã bị phát giác và bị tất cả những kẻ liên quan chối bỏ. <name> là một gián điệp khá vô dụng, nhưng cho đến nay vẫn chẳng ai dám tin tưởng [him/her]."
 pseudonym_info_Deceiver,0,,"Là một thủy thủ, <name> từng nhận chở những thị dân tuyệt vọng tìm đường vượt biển trốn chạy Làn Sóng Thần Chết sang Quần Đảo Phía Tây hoặc Hibernia. Khi ra đến biển khơi, <name> đẩy họ xuống biển và lột sạch của cải. 'Chỉ là làm ăn thôi mà', <name> nhún vai."
 pseudonym_info_Broken,0,,Người ta đồn rằng sự nghiệp phiêu lưu của <name> đã đột ngột khép lại khi [he/she] bị một mũi tên găm trúng đầu gối. [He/She] quả thực có dáng đi khá buồn cười.
 pseudonym_info_Bard,0,,<name> had Kẻ voice của an angel và Kẻ memory của a druid. [His/Her] spellbinding tales và sweet lullabies earned <name> Kẻ honorary title của 'minstrel'.
-pseudonym_info_Crow,0,,"Some folk still left bread và milk out cho fairy folk, a Tùy chỉnh as old as very hills. <name> would swoop trong và gobble these up, wiley old bird."
+pseudonym_info_Crow,0,,"Một số người vẫn để bánh mì và sữa ra ngoài cho loài tiên, một tập tục cổ xưa từ ngàn đời. <name> sẽ sà xuống và ngấu nghiến sạch sẽ, đúng là một con chim già tinh ranh."
 pseudonym_info_Bonesetter,0,,<name> ban đầu thực hành nắn xương trên động vật nhưng nhanh chóng chuyển sang chữa cho người. Cách [he/she] lướt đôi bàn tay của [his/her] trên chi thể bị thương trước khi bất ngờ giật mạnh dứt khoát mang vẻ huyền bí lạ thường. <name> cũng không giải thích nổi vì sao [he/she] làm được điều đó.
 pseudonym_info_Wakeful,0,,"<name> gần như không bao giờ ngủ được, nhờ vậy [he/she] nổi tiếng là một người canh gác cừ khôi. Thị lực ban đêm của [His/Her] cực kỳ tinh tường."
 pseudonym_info_Bold,0,,"<name> từng một mình nghênh chiến ba tên hải tặc sau khi uống rượu suốt một ngày một đêm. Chẳng ai nhớ [he/she] giành thắng lợi nhờ lòng quả cảm hay sự liều lĩnh dại khờ, nhưng câu chuyện ấy vẫn sống mãi."
@@ -7885,7 +7904,7 @@ pseudonym_info_Paramour,0,,"Thuở nhỏ vốn xấu xí, <name> không bao gi�
 pseudonym_info_Riddler,0,,"Nhiều người nói năng thẳng thắn, nhưng <name> lại có cách dùng từ nghe rất thông minh nhưng cũng khá khó hiểu. Nhiều lời phát biểu của <name> có thể hiểu theo vô số nghĩa. Bạn bè của [His/Her] thường gọi [him/her] là Kẻ Đố Mẹo."
 pseudonym_info_Kitten,0,,"Đáng yêu, mềm mại, dễ mến... <name> quả thực rất dễ thương, và mọi người thường xúm lại quanh [him/her] để cưng nựng [him/her]. Nhưng hãy cẩn thận, <name> cũng có vuốt sắc và thường để lại một vệt tàn phá phía sau [him/her]."
 pseudonym_info_Lamb,0,,"<name> ngoan ngoãn và tính tình ngọt ngào, nên thường được âu yếm gọi là chú cừu nhỏ. Như phần lớn những người có tính khí của [his/her], <name> đã phải nếm trải bài học cay đắng để biết luôn đề phòng loài sói dữ."
-pseudonym_info_Bride,0,,"<name> seemed để be forever stitching away at incredibly fine và delicate items của clothing và linens cho [his/her] wedding trousseau. [He/She] became dewy eyed at Kẻ prospect của marriage. What a pity, then, that <name> had never even been kissed."
+pseudonym_info_Bride,0,,"<name> dường như luôn mải miết thêu may những bộ trang phục và vải lanh tinh xảo, thanh nhã cho của hồi môn ngày cưới của [his/her]. Đôi mắt [He/She] long lanh ngấn lệ mỗi khi nghĩ đến viễn cảnh kết hôn. Nhưng thật đáng tiếc biết bao, khi mà <name> thậm chí còn chưa từng được hôn một lần."
 pseudonym_info_Thief,0,,"<name> vốn luôn nhanh tay lẹ mắt, nhưng đã trở thành một kẻ trộm chuyên nghiệp để sống sót qua Những Năm Tháng Đen Tối. [He/She] khâu nhiều túi ẩn vào quần áo của [his/her] và sẵn sàng cuỗm bất cứ thứ gì không được canh giữ cẩn thận. <name> thường xuyên được thuê để làm việc đó."
 pseudonym_info_Pirate,0,,"<name> không phải làm gì nhiều để xứng với biệt danh của [his/her], mà [he/she] được thừa hưởng nó. <name> xuất thân từ một dòng dõi thảo khấu khét tiếng chuyên tấn công và cướp bóc các tàu buôn trên vùng biển quanh quần đảo Anh quốc. Tuy nhiên, <name> lại không biết lái thuyền và cũng chẳng biết bơi."
 pseudonym_info_Ghost,0,,"<name> xanh xao, lặng lẽ và thường ẩn mình trong các góc tối. <name> hiếm khi lên tiếng và thường xuất hiện bất thình lình khiến người khác giật mình. <name> mang vẻ bí ẩn như thể thuộc về thế giới bên kia."
@@ -7963,7 +7982,7 @@ bg_recent_info_Cunning,0,,"<name> thiêu những di hài thối rữa của ngư
 bg_recent_info_Rustic,0,,"<name> học cách sống sót bằng thức ăn hái từ bờ giậu, đôi khi bổ sung trứng ăn trộm hoặc thỏ rừng mắc bẫy. <name> có thể làm bữa ăn từ bồ công anh, anh thảo hoặc quả sồi hầm. Đôi mắt [His/Her] hõm sâu đau đớn, lúc nào cũng đói."
 bg_recent_info_Soothsaying,0,,"<name> sống thuận theo lời truyền tụng của cây sồi, tần bì và bụi gai, cố quên đi sự sụp đổ của nền văn minh để tìm kiếm bình yên giữa cây rừng. [He/She] kiên nhẫn đợi dưới bóng cây phỉ và sơn tra, lắng nghe lời thì thầm của tiên tộc. Đôi khi, <name> được đền đáp xứng đáng."
 bg_recent_info_Spinning,0,,"<name> học mọi thứ về cây lanh, dùng làm quần áo, chăn đệm, bao đựng bánh mì, dây thừng và dầu. [He/She] tìm thấy sự bình yên trong việc ngâm, cán, đập và kéo sợi lanh. <name> có đôi tay vững vàng và đôi mắt xanh nhạt như màu lanh dưới bầu trời mùa hè không mây."
-bg_recent_info_Tireless,0,,"<name> got knack của Thợ mộc fashioning coffins cho plague victims, later nailing whole families into their homes để die. Tiếp theo, <name> built trebuchets trong War của Succession. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!"
+bg_recent_info_Tireless,0,,"<name> học được nghề mộc từ việc đóng quan tài cho các nạn nhân dịch bệnh, sau đó đóng đinh cửa giam cả gia đình trong nhà cho đến chết. Tiếp theo, <name> chế tạo máy bắn đá trong Chiến Tranh Kế Vị. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!"
 bg_recent_info_Penitent,0,,"<name> có được một chiếc mũ mang dấu thập đỏ. Đó là kỷ vật của nhiều tháng lõa thể nối đuôi nhau hành xác. Mỗi người dùng roi gắn đinh quất lên thân thể trần trụi đẫm máu. 'Chúa nhân từ, Chúa công bằng', họ vừa khóc vừa cầu nguyện."
 bg_recent_info_Shrewd,0,,"Hoàn cảnh có thể tốt hơn, nhưng [he/she] vẫn tận dụng tối đa những gì có được. Khi <name> bắt đầu đẽo bùa hộ mệnh chống lại Đại Ôn Dịch với đủ hình dạng hợp ý tín đồ Kitô giáo, Do Thái giáo hoặc ngoại giáo, [he/she] nhanh chóng trở nên giàu có."
 bg_recent_info_Faithless,0,,"Vị linh mục khẩn cầu <name> sửa chữa nhà thờ ở <origin> bất chấp mùa dịch bệnh. [He/She] buồn bã nhìn giáo đoàn dần chết đi, hắt hơi khi cùng nhau bẻ bánh rồi chôn cất anh em mình. Chúa đã chết, <name> nghĩ."
@@ -7973,7 +7992,7 @@ bg_recent_info_Cheerful,0,,"<name> thường huýt sáo khi [he/she] làm việc
 bg_recent_info_Charitable,0,,"<name> từng đi khắp các cối xay, xin hoặc lấy trộm bột mì để nướng bánh. Những thứ này được [he/she] nướng thành những ổ bánh mộc mạc và phân phát cho những người dân làng đói khát đang bấu víu vào chút tàn dư của cuộc sống cũ. Công việc đó khiến <name> luôn bận rộn và có mục đích sống."
 bg_recent_info_AvantGarde,0,,"<name> thích thử nghiệm. Bạn từng nếm chuột nấu rượu vang hay lươn ngâm sữa dê chưa? <name> cũng chưa, cho đến ngày tận thế. [He/She] không hề sợ hãi khi kết hợp nguyên liệu ngẫu nhiên để mọi người có cái ăn, tạo ra những kết quả bất ngờ và những cơn khó tiêu thường xuyên."
 bg_recent_info_Toxic,0,,"<name> nấu ăn cho một toán cướp đói khát, một công việc đầy rủi ro. <name> đôi khi làm ẩu để tiết kiệm thời gian. Không chắc ảo giác do cây nấm độc lẫn vào hay lúa mạch đen mốc gây ra, <name> vẫn khẳng định [he/she] đã cố hết sức của [his/her]."
-bg_recent_info_Clever,0,,"<name> tin rằng [him/her]self được Đại Ôn Dịch tha mạng vì một mục đích cao cả hơn. Vị tu sĩ Canterbury đã nói vậy và dạy [him/her] đọc chữ. “Tri thức là tự do”, <name> khẽ thì thầm rồi cưỡi con la của vị tu sĩ, lẩn vào bóng tối."
+bg_recent_info_Clever,0,,"<name> tin rằng [him/her] được Đại Ôn Dịch tha mạng vì một mục đích cao cả hơn. Vị tu sĩ Canterbury đã nói vậy và dạy [him/her] đọc chữ. “Tri thức là tự do”, <name> khẽ thì thầm rồi cưỡi con la của vị tu sĩ, lẩn vào bóng tối."
 bg_recent_info_Inconspicuous,0,,"<name> được cử đi hoạt động bí mật để dò xét dị giáo trong các phe bảo hoàng. Khi không nhận thêm chỉ thị từ Bậc thầy Mật ngữ của [his/her], <name> ẩn mình trong bóng tối và dùng những gì [he/she] nghe được để sinh tồn."
 bg_recent_info_Ambitious,0,,"<name> lén lút khắp Oxford, xé những trang sách minh họa rực rỡ rồi lấy trộm giấy da và mực. <name> tận tụy phục vụ các chủ nhân [his/her] trong phòng chép sách. <name> có đôi tay vững vàng. <name> sẽ học đọc, học viết và cuối cùng trở thành một Người Có Danh."
 bg_recent_info_Despicable,0,,"<name> tràn lên vùng đồi trong cơn cuồng loạn khi trật tự sụp đổ. Sinh ra trong đặc quyền, <name> tập hợp một toán côn đồ đê tiện, tùy ý giết người và phóng hỏa. [He/She] phấn khích trước hỗn loạn, thích thú với sự báng bổ và tuyệt đối không thể xem thường."
@@ -7997,7 +8016,7 @@ bg_recent_info_Willful,0,,"Các thi sĩ kể rằng <name> ra lệnh đóng ch�
 bg_recent_info_Artful,0,,"<name> chọn sự nguyền rủa vĩnh hằng thay vì luyện ngục trần gian. [He/She] bán con bò, rồi bán cả cô con gái duy nhất của [his/her]. Là một kẻ ăn xin xảo quyệt, [he/she] lang thang khắp các hạt rách nát, nịnh nọt, dụ dỗ và quyến rũ để đổi lấy một mẩu bánh mì. <name> là kẻ sống sót."
 bg_recent_info_Crafty,0,,<name> nhặt nhạnh trên một xác chết trương phình và tìm được một chiếc kéo tốt. Cắt vải khỏi những chi thể đã chết thì dễ. Biến chúng thành quần áo mặc được cần luyện tập nhiều hơn. Nhưng <name> vẫn kiên trì. Giờ [he/she] có thể may một bộ đồ từ gần như bất cứ thứ gì.
 bg_recent_info_Swindling,0,,"<name> càn quét các nhà kho tìm mèo con và chó con đi lạc, may những chiếc túi sặc sỡ từ áo choàng của người chết để nhốt chúng. Ra chợ thôi! Lắc lư nào. <name> bán cho kẻ cả tin một 'chú heo con' đóng túi sẵn với giá hời... rồi biến mất. Người mua hãy cẩn thận!"
-bg_recent_info_Thoughtless,0,,"<name> tự cho [him/her]self là thợ may. Vì vậy [he/she] dùng bao bột của người xay, ga trải giường và giẻ lanh để may quần áo cho trẻ mồ côi và kẻ lang thang khốn khổ ở <origin>. Trông chúng thật kinh hãi, bị tước nốt chút phẩm giá cuối cùng."
+bg_recent_info_Thoughtless,0,,"<name> tự xem [him/her] là thợ may khéo léo. Vì vậy [he/she] dùng bao bột của người xay, ga trải giường và giẻ lanh để may quần áo cho trẻ mồ côi và kẻ lang thang khốn khổ ở <origin>. Trông chúng thật kinh hãi, bị tước nốt chút phẩm giá cuối cùng."
 bg_recent_info_Reckless,0,,"<name> liều lĩnh tiến vào các mỏ bỏ hoang cùng một nhóm đồng đội và vài mẩu nến. <name> cho rằng chỉ cần một chiếc cuốc chim, kẻ ngốc nào cũng làm được. Và bỏ qua vụ sập đá chết người cùng những lần ngập nước, <name> đã đúng."
 bg_recent_info_Desolate,0,,<name> muốn đánh ai đó để trút cơn giận [his/her] trước nỗi kinh hoàng và hoang tàn đã xâm phạm mọi thứ [he/she] yêu quý. Nhưng <name> là người theo chủ nghĩa hòa bình. Vì vậy [he/she] đào bới sản vật từ lòng đất trù phú cho đến khi nỗi đau [his/her] vơi đi.
 bg_recent_info_Solitary,0,,"<name> cảm thấy thân thuộc hơn giữa sự tĩnh lặng của hố đất sét và lò vôi so với phố thị. Nơi đó có dấu vết con người, nhưng không có mùi hôi hay tuyệt vọng. <name> đục một mê cung bí mật vào đá, gợi nhớ Nhà thờ Reims."
@@ -8150,7 +8169,7 @@ bg_old_info_recuperant,0,,"<name> học được sự kiên nhẫn qua việc kh
 bg_old_info_squire,0,,"<name> khiêm nhường đánh bóng vũ khí và mơ được mang cờ hiệu. [He/She] biết làm sạch lưỡi kiếm, chịu đòn và dậy sớm."
 bg_old_info_fen_scout,0,,<name> biết nơi bùn sông sẽ hút người xuống và nơi quân cướp tấn công. Định mệnh [His/Her] được viết trong bùn lầy và cói sậy.
 bg_old_info_nitre_miner,0,,<name> kiếm sống bằng cách cạo diêm tiêu kết tinh khỏi vách hang cũng là nhà [his/her]. Ho và đau đầu dường như là cái giá phải trả.
-bg_old_info_quacksalver,0,,"<name> healed với trickery và makeshift prayer, và sometimes - just sometimes - a steady hand."
+bg_old_info_quacksalver,0,,"<name> chữa bệnh bằng mánh khóe bịp bợm và những lời cầu nguyện chắp vá, và đôi khi — chỉ đôi khi — bằng một bàn tay vững vàng."
 bg_old_info_brawler,0,,"Khi luật pháp thất bại, nắm đấm lên tiếng. <name> kiếm tiền và làm gãy răng người khác bằng những trận đánh đổi lấy chỗ ngủ, thức ăn và rượu."
 bg_old_info_infirmarian,0,,"<name> đã nhiều năm chăm sóc người bị thương, cọ rửa nền đá đẫm máu và lau những vết thương rỉ dịch. Không phải lính, cũng chẳng phải hiền triết - chỉ là đôi tay vững vàng khi cần nhất."
 bg_old_info_quartermaster,0,,"<name> hiểu tầm quan trọng của việc duy trì tiếp tế từ chiến dịch chống người Scots tại Neville's Cross. [He/She] có thể băng bó Vết thương, mặc quần áo cho người khác hoặc mặc cả một xô hàng, nhưng chưa từng bắn một mũi tên."
@@ -8185,20 +8204,20 @@ ancrene_disciples_info,0,,"Một nhóm các nhà thần bí Cơ Đốc giáo tru
 faithful_sons_of_england_info,0,,"Những người bảo hoàng trung thành với triều đại Plantagenet, tôn vinh Edmund II là người thừa kế ngai vàng hợp pháp. Mục tiêu của họ là tái lập trật tự phong kiến trước thời kỳ dịch bệnh.
 "
 band_of_the she_wolf_info,0,,"Tập hợp các phe phái do các nam tước chỉ huy, đoàn kết bởi lòng trung thành tuyệt đối với cựu hoàng hậu Isabella của Pháp. Được gia tộc Aquitaine hùng mạnh hậu thuẫn và sử dụng cả sức mạnh quân sự lẫn thuật chiêu hồn, nhóm này hướng đến việc khôi phục quyền lực quý tộc và duy trì sự thống trị lâu dài."
-philosophers_of_the_natural_order_info,0,,"Những học giả này lập luận rằng chính Tự Nhiên, chứ không phải Thượng Đế, đã giáng xuống thảm họa dịch bệnh. Khao khát tri thức một cách cuồng nhiệt, họ ngày đêm nghiền ngẫm những pho sách cổ Byzantine và tranh luận về nguyên lý tiết kiệm của Ockham. Họ ấp ủ giấc mơ về một trật tự thế giới mới dựa trên học thuật thay vì mê tín dị đoan, trang bị cho mình tri thức uyên bác để ngăn ngừa những thảm họa dịch bệnh trong tương lai.\n
+philosophers_of_the_natural_order_info,0,,"Những học giả này lập luận rằng chính Tự Nhiên, chứ không phải Thượng Đế, đã giáng xuống thảm họa dịch bệnh. Khao khát tri thức một cách cuồng nhiệt, họ ngày đêm nghiền ngẫm những pho sách cổ Byzantine và tranh luận về nguyên lý tiết kiệm của Ockham. Họ ấp ủ giấc mơ về một trật tự thế giới mới dựa trên học thuật thay vì mê tín dị đoan, trang bị cho mình tri thức uyên bác để ngăn ngừa những thảm họa dịch bệnh trong tương lai.
 "
 society_of_fellows_info,0,,"Hội học giả do nhà giả kim Gaius Ortolanus lập dị lãnh đạo. Hội Đồng Đẳng đặt mục tiêu thấu hiểu bản chất tinh túy của dịch bệnh để kiểm soát nó. Nghiêm cẩn, thâm trầm nhưng thường hay cáu kỉnh, họ bài trừ sự dốt nát và những lời mê tín dị đoan ở mọi nơi họ đi qua."
 kingdom_of_york_info,0,,"Vương quốc mới nổi này do thủ lĩnh nông dân Jan Purvey lãnh đạo. Họ quy kết nguồn gốc thảm họa dịch bệnh cho hoàng gia và các cuộc viễn chinh hao người tốn của, kêu gọi bãi bỏ vương quyền và bình đẳng cho muôn dân.
 "
 heresy_of_the_rose_info,0,,"Lấy cảm hứng từ nhà thần bí Marguerite Porete - người từng bị thiêu trên giàn hỏa vì tội dị giáo. Những tín đồ này theo đuổi sự giải thoát tuyệt đối của linh hồn. Họ là những kẻ theo thuyết hư vô, tự coi mình là Chúa và khinh bỉ mọi trật tự thứ bậc xã hội. Châm ngôn của họ là: 'Nơi nào có trật tự, ta sẽ mang lại hỗn loạn.'"
-circle_of_avalon_info,0,,"Arthur Pendragon và his stately court epitomise Britain’s golden era. So says Circle của Avalon, which strives cho a renaissance của chivalry và knightly virtue. Once upon a time, Merlin's second Thị lực revealed fearsome dragons battling beneath Vortigern’s castle. Today, Circle calls trên his druid successors để restore old ways, summoning a ray của light trong a these darkening days.
+circle_of_avalon_info,0,,"Arthur Pendragon cùng triều đình uy nghi của ngài là biểu tượng cho thời kỳ hoàng kim của nước Anh. Đó là lời khẳng định từ Hội Vòng Tròn Avalon, những người luôn phấn đấu vì sự phục hưng của tinh thần hiệp sĩ và đức hạnh cao quý. Thuở xưa, nhãn quan thấu thị của Merlin đã hé lộ những con rồng hung tợn giao chiến dưới lâu đài của Vortigern. Ngày nay, Hội kêu gọi những truyền nhân tu sĩ druid khôi phục lại những lề lối cổ xưa, thắp lên một tia sáng giữa chuỗi ngày u tối này.
 "
 beirdd_cymraeg_info,0,,"Truyền thống thơ ca và huyền thoại truyền khẩu cổ xưa rất thịnh hành nơi đây. Các thi sĩ hát rong (bards) thường thiền định trên đỉnh núi Cadair Idris, học hỏi thuật biến hình và cất lên những bản hùng ca làm say đắm lòng người."
 progeny_of_the_plague_info,0,,"Một tập hợp những kẻ tàn bạo, cướp bóc và buôn nô lệ sinh sôi sau đại dịch. Tập tục dã man của chúng biến tướng thành các nghi thức tra tấn man rợ, coi tù nhân như gia súc và gieo rắc nỗi kinh hoàng khắp cõi.
 "
 ravagers_info,0,,"Trong số nhiều điều răn cấm trong Kinh Thánh, dường như không có dòng nào cấm ăn thịt đồng loại. Dựa trên lý lẽ mong manh đó, tộc Kẻ Tàn Phá — ban đầu do nạn đói cùng cực thúc đẩy, sau đó dần phát triển thành phong tục ẩm thực — đã xây dựng nên lối sống ăn thịt người man rợ. Sách dạy nấu ăn của chúng chứa những chỉ dẫn chi tiết để biến hầu hết các bộ phận cơ thể thành món ăn thượng hạng: nướng xèo xèo, xúc xích, thịt nguội… một số món chúng đem bán cho dân làng đói khát, những người hoàn toàn không hề hay biết mình đang ăn thứ gì — hoặc ăn thịt ai."
 forest_bandits_info,0,,"Lặng lẽ di chuyển giữa những rặng cây sồi cổ thụ, sinh tồn nhờ thú rừng săn bắn, cây tầm ma và rễ cây dại, cuộc sống nơi rừng sâu thẳm là nơi nương náu lý tưởng cho những kẻ ngoài vòng pháp luật. Còn gì ấm cúng hơn khi cùng quây quần bên đống lửa bập bùng, kể cho nhau nghe những truyền thuyết về thần săn Hyrne cùng cuộc Săn Hoang Dã, và toan tính cho chuyến đột kích cướp bóc tiếp theo?"
-mountain_bandits_info,0,,"Rugged và weathered, mountain clans shelter trong natural caves và baunder icy waterfalls. Clad trong wolfskins và Săn bắn trong packs, they slink down từ their mountain strongholds để strike: silent, ferocious, hungry."
+mountain_bandits_info,0,,"Gai góc và dạn dày sương gió, các thị tộc miền núi trú ẩn trong các hang động tự nhiên và tắm mình dưới những dòng thác băng giá. Khoác trên mình da sói và săn bắn theo bầy đàn, chúng lẻn xuống từ các pháo đài miền núi để tấn công: âm thầm, hung tợn và đói khát."
 river_bandits_info,0,,"Những dòng sông lớn của nước Anh là đường đi của dân sông nước, những người chuyên chở lữ khách, hàng hóa và tin tức. Sau dịch bệnh, họ trở nên nghèo khổ và hoang dã, sống bằng cướp bóc. Những người chèo thuyền dâng lễ cho nữ vương tiên nữ Coventina bên bờ sông, hy vọng bà phù hộ cho các cuộc cướp phá trên sông."
 looters_info,0,,"Khi cơn đại dịch bùng phát tàn khốc, trật tự xã hội sụp đổ và nạn đói hoành hành khắp cõi. Lính đánh thuê, các lãnh chúa cướp bóc và những nông dân mất đất lang bạt khắp nơi mà không ai kiểm soát, chuyên săn đuổi những kẻ yếu thế hơn. Những kẻ hôi của này sẵn sàng cướp đoạt bất cứ thứ gì có thể mang đi, và không ngần ngại tàn sát hay gây thương tật mà không sợ bị trừng phạt."
 scourge_info,0,,"Có lời đồn rằng chúng là những hồn ma báo thù của các nạn nhân chết vì dịch hạch. Khuôn mặt của chúng luôn được che kín. Và vì thi thể của chúng tự bốc cháy thành tro tàn khi gục ngã, mối hoài nghi đáng sợ vẫn luôn vương vấn về việc chúng là ai, hay là thứ quái vật gì. Sự hiện diện của chúng thường được nhắc đến khi sữa bị chua hay một đứa trẻ mất tích trong đêm. Gia súc bị giết hại dã man nhưng không bị ăn thịt. Mùa màng bị đốt cháy, đồ đạc bị đập nát. Chúng tồn tại chỉ để gieo rắc kinh hoàng, và cái tên của chúng hiếm khi được thốt ra: Tai Ương."
@@ -8215,10 +8234,10 @@ Eden Nova là một khu định cư mới được xây dựng. Nơi đây phát
 "
 ancrene_disciples_center,0,,"HEREFORD
 Hereford Tower là a tuyệt vời kết cấu encasing former cell, và now tomb, của visionary Anchoress Menwreda tại Wigmore Abbey. Nó có become a site của pilgrimage và a power base cho Ancrene Disciples."
-faithful_sons_of_england_center,0,,"MỚI EXETER
-Mới Exeter đã founded outside original city tường, after Exeter’s Bishop fled during plague. Work trên cathedral đã có ground đến a halt, và 1900 died, leaving Devon’s former đầu tiên city desolate."
+faithful_sons_of_england_center,0,,"EXETER MỚI
+Exeter Mới được thành lập bên ngoài tường thành ban đầu, sau khi Giám Mục Exeter bỏ trốn trong thời kỳ dịch bệnh. Việc xây dựng nhà thờ chính tòa đã bị đình trệ hoàn toàn, và 1.900 người đã chết, khiến thành phố từng đứng đầu Devon trở nên hoang tàn."
 band_of_the she_wolf_center,0,,"LANCASTER
-A fortification crouched trên a bend của River Lune, Lancaster boasts a fine castle, built đến repel Scots. Members của Plantagenet dynasty ruling over này earldom perished trong tuyệt vời sickness. Nó có a reputation cho notable imprisonments, và executions."
+Là một pháo đài tọa lạc bên khúc quanh sông Lune, Lancaster tự hào sở hữu một tòa lâu đài kiên cố được xây dựng để đẩy lùi quân Scotland. Các thành viên hoàng tộc Plantagenet cai trị bá quốc này đều đã thiệt mạng trong trận đại dịch. Nơi đây nổi tiếng với những vụ giam giữ và hành quyết khét tiếng."
 philosophers_of_the_natural_order_center,0,,"OXFORD
 Được xây dựng để vượt sông Thames và được bao quanh bởi đầm lầy, Oxford trước đây từng là nơi hội kiến của hoàng gia, nhưng từ sau đại dịch hạch đã suy tàn. Mọi giáo phái học giả và các dòng tu đều cư ngụ tại đây, thường xuyên tranh cãi lẫn nhau trên con đường tìm kiếm chân lý."
 society_of_fellows_center,0,,"CAMBRIDGE
@@ -8231,8 +8250,8 @@ circle_of_avalon_center,0,,"GLASTONBURY
 Theo truyền thuyết, chính tại Đảo Thủy Tinh này thanh kiếm Excalibur đã được rèn và cũng tại đây, sau khi bị thương nặng, vua Arthur đã tìm nơi an nghỉ sau Trận chiến Camlann. Tương truyền rằng Morgan le Fay cùng tám người chị em từng thực hành y thuật chữa lành tại đây, và có một hang động bí mật dẫn lối tới cõi tiên Annwn. Hội Vòng Tròn Avalon đã dựng nên một đền thờ Mithraeum mới trên đỉnh đồi."
 beirdd_cymraeg_center,0,,"YNYS MÔN
 Bộ tộc Beirdd Cymraeg sinh sống trên hòn đảo Ynys Môn, quanh ngôi mộ đá cổ Bryn Celli Ddu. Hòn đảo từ lâu đã là cái nôi học thuật của các thi sĩ và đạo sĩ. Tại đây, nhà sử học La Mã Tacitus từng bắt gặp 'Những nữ thần báo thù trong tà áo đen chết chóc với mái tóc xõa buông xõa' và 'một vòng tròn các Đạo sĩ đang giơ cao đôi tay hướng lên trời cao.'"
-progeny_of_the_plague_center,0,,"ISLE CỦA MANN
-An island formed when an Irish giant threw a clod của earth tại a kình địch trong Scotland. Nó missed, và fell into Irish sea, becoming Isle của Mann. Nó lies under misty cloak của sea god, Manannán, who gave immortality đến gods through his swine, which returned đến life when killed; những thứ đó who ate của swine never died."
+progeny_of_the_plague_center,0,,"ĐẢO MANN
+Một hòn đảo được hình thành khi một người khổng lồ Ireland ném một tảng đất vào đối thủ ở Scotland. Tảng đất rơi trượt xuống biển Ireland, trở thành Đảo Mann. Nơi đây nằm dưới lớp áo sương mù của thần biển Manannán, người đã ban sự bất tử cho các vị thần thông qua đàn lợn của mình — loài lợn sống lại sau khi bị giết; những ai ăn thịt chúng sẽ không bao giờ chết."
 ravagers_center,0,,"NOVA FORESTA
 Nova Foresta được vua William Kẻ Chinh Phục sắc phong là Rừng Hoàng Gia. Nhờ đó, nơi đây dồi dào muông thú và vô cùng lý tưởng cho việc Săn bắn. Truyền thuyết địa phương kể về tộc Ettin, một giống người khổng lồ hung tợn. Những câu chuyện này đan xen với các vụ nhìn thấy kẻ ăn thịt người gần đây, khiến vùng đất trù phú này thường bị xa lánh."
 general_no_center,0,,Không center
@@ -8252,7 +8271,7 @@ mod_tags,0,,Thẻ
 get_mods,0,,Tìm mod
 get_more,0,,Get Nhiều hơn
 general_upload,0,,Tải lên
-create_new,0,,Create Mới
+create_new,0,,Tạo mới
 mod_delete,0,,Xóa/Unsubscribe
 mod_delete_info,0,,Hủy đăng ký mod này và xóa hoàn toàn khỏi máy tính của bạn
 mod_edit,0,,Chỉnh sửa
@@ -8262,20 +8281,20 @@ mod_open_local_directory_info,0,,Mở thư mục cục bộ lưu trữ mod trên
 workshop_update,0,,Cập nhật
 workshop_update_info,0,,"Vì bạn là tác giả của mod này, bạn có thể chỉnh sửa và tải phiên bản cập nhật lên."
 workshop_upload,0,,Tải lên
-workshop_upload_info,0,,Công trình này mod only exists local trên your machine. Upload it để steam workshop để share it với others 
+workshop_upload_info,0,,Bản mod này hiện chỉ tồn tại trên máy tính của bạn. Hãy tải lên Steam Workshop để chia sẻ cho mọi người cùng sử dụng.
 workshop_open,0,,Steam Workshop
-workshop_open_info,0,,Mở Steam Workshop page của this mod
-steam_workshop_upload_prompt,0,,"Này action sẽ upload này item đến Steam Workshop, do bạn want đến proceed?"
-create_new_mod_loc_template,0,,Này action sẽ create English version của localization ready cho modding trên của bạn hard drive. Do bạn wish đến proceed?
-create_new_mod_template,0,,Này action sẽ create empty mod template trên của bạn hard drive. Do bạn wish đến proceed?
+workshop_open_info,0,,Mở trang Steam Workshop của bản mod này
+steam_workshop_upload_prompt,0,,"Thao tác này sẽ tải mục này lên Steam Workshop, bạn có muốn tiếp tục không?"
+create_new_mod_loc_template,0,,Thao tác này sẽ tạo một bản sao ngôn ngữ tiếng Anh sẵn sàng để tạo mod trên ổ cứng của bạn. Bạn có muốn tiếp tục không?
+create_new_mod_template,0,,Thao tác này sẽ tạo một mẫu mod trống trên ổ cứng của bạn. Bạn có muốn tiếp tục không?
 delete_remote_mod_prompt,0,,Bạn có chắc chắn muốn hủy đăng ký mod này? Thao tác này cũng sẽ xóa mod khỏi máy tính của bạn.
 delete_local_mod_prompt,0,,Bạn có chắc chắn muốn xóa vĩnh viễn mod này khỏi máy tính?
 mod_version,0,,Phiên bản mod
-new_mod_created,0,,Mới mod template created tại <path>
+new_mod_created,0,,Đã tạo mẫu mod mới tại <path>
 general_show,0,,Hiện
 eula_accept_prompt,0,,"Để sử dụng hoặc tạo mod, vui lòng xác nhận bạn đã đọc và chấp nhận <link=""web_eula_link""><style=LinkWorker>Điều khoản Sử dụng</style></link> của trò chơi."
-general_do _not_accept,0,,Do Not Chấp nhận
-error_create_directory,0,,Could không create mới directory. Please check do bạn có necessary rights đến write đến Documents directory. 
+general_do _not_accept,0,,Không chấp nhận
+error_create_directory,0,,Không thể tạo thư mục mới. Vui lòng kiểm tra xem bạn có đủ quyền ghi vào thư mục Documents hay không.
 and_more,0,,Và nhiều hơn...
 dev_activateAllResearch_off,0,,Kích hoạt toàn bộ nghiên cứu
 dev_activateAllResearch_on,0,,Hoàn tác kích hoạt nghiên cứu

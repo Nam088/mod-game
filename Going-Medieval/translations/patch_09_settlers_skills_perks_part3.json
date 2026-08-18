@@ -81,7 +81,7 @@
     "key": "perk_info_FortyWinks",
     "type": 0,
     "en": "<name> only needs to shut [his/her] eyes for the briefest of cat naps to feel fully restored.",
-    "vi": "<name> chỉ cần nhắm nghiền đôi mắt chợp mắt trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn."
+    "vi": "<name> chỉ cần nhắm nghiền đôi mắt của [his/her] chợp mắt trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn."
   },
   {
     "key": "perk_info_Somnolent",
@@ -447,7 +447,7 @@
     "key": "perk_info_Mudskipper",
     "type": 0,
     "en": "<name> strides merrily through mire and fen, marsh and moor. The wetter, the better.",
-    "vi": "<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, bùn lầy, đồng hoang nước ngập. Càng ướt át trơn trượt bao nhiêu, [he/she] lại càng phấn khích bấy nhiêu."
+    "vi": "<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, bùn lầy, đồng hoang nước ngập. Càng ướt át trơn trượt bao nhiêu, bước chân lại càng hăng say bấy nhiêu."
   },
   {
     "key": "perk_info_Flamekissed",
@@ -495,19 +495,19 @@
     "key": "perk_info_Pitiless",
     "type": 0,
     "en": "<name> strips prisoners, sneers at their pleas, and never remembers thier names. Mercy is not part of the job.",
-    "vi": "<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc của [him/her]."
+    "vi": "<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc."
   },
   {
     "key": "perk_info_Wildwyrd",
     "type": 0,
     "en": "<name> can soothe a raging goat or bring a wild dog to heel with a mere murmur. Creatures know to obey.",
-    "vi": "<name> có thể thuần phục một con dê núi đang nổi điên hay khiến một con chó hoang hung dữ phải cúi đầu phủ phục chỉ bằng một tiếng thì thầm êm dịu. Muôn loài muông thú đều tự nhiên lắng nghe và phục tùng [him/her]."
+    "vi": "<name> có thể thuần phục một con dê núi đang nổi điên hay khiến một con chó hoang hung dữ phải cúi đầu phủ phục chỉ bằng một tiếng thì thầm êm dịu. Muôn loài muông thú đều tự nhiên lắng nghe và phục tùng."
   },
   {
     "key": "perk_info_Herbivore",
     "type": 0,
     "en": "<name> eats only plants, not from piety but preference. Raw cabbages? Delicious.",
-    "vi": "<name> tuyệt đối chỉ ăn hoa màu và thực vật, không hẳn vì giới luật tôn giáo mà đơn thuần là do sở thích cá nhân. Một bắp cải sống giòn tan? Với [him/her] đó là mỹ vị trần gian."
+    "vi": "<name> tuyệt đối chỉ ăn hoa màu và thực vật, không hẳn vì giới luật tôn giáo mà đơn thuần là do sở thích cá nhân. Một bắp cải sống giòn tan? Thật là mỹ vị trần gian."
   },
   {
     "key": "perk_info_Steadfast",
@@ -537,19 +537,19 @@
     "key": "perk_info_Splinter",
     "type": 0,
     "en": "<name> sometimes wakes up screaming, convinced [he/she] isn't alone in [his/her] own mind. And maybe [he/she]'s right.",
-    "vi": "<name> thỉnh thoảng choàng tỉnh dậy giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của chính mình. Và có lẽ [he/she] đã hoàn toàn đúng."
+    "vi": "<name> thỉnh thoảng choàng tỉnh dậy giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của [his/her]. Và có lẽ [he/she] đã hoàn toàn đúng."
   },
   {
     "key": "perk_info_Reeky",
     "type": 0,
     "en": "No matter how often <name> bathes, [he/she] has a distinct whiff of rot about [him/her]. Animals avoid <name>. So do people.",
-    "vi": "Bất kể <name> có kỳ cọ tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra một mùi hôi nồng nặc khó chịu. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
+    "vi": "Bất kể <name> có kỳ cọ tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra một mùi hôi nồng nặc quanh [him/her]. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
   },
   {
     "key": "perk_info_Bareknuckled",
     "type": 0,
     "en": "<name> trusts flesh over forge. [He/She] strikes harder barehanded than most do with blades - none are left standing.",
-    "vi": "<name> tin tưởng vào sức mạnh của nắm đấm xương thịt hơn là gươm giáo kim loại. [He/She] vung nắm đấm tay không uy lực và tàn khốc hơn hầu hết những kẻ cầm gươm — chẳng một đối thủ nào có thể trụ vững sau đòn đánh của [him/her]."
+    "vi": "<name> tin tưởng vào sức mạnh của nắm đấm xương thịt hơn là gươm giáo kim loại. [He/She] vung nắm đấm tay không uy lực và tàn khốc hơn hầu hết những kẻ cầm gươm — chẳng một ai có thể trụ vững sau đòn đánh."
   },
   {
     "key": "perk_info_Beastmaster",
@@ -567,7 +567,7 @@
     "key": "positive_chemistry_towards_perks",
     "type": 0,
     "en": "Gets along with:",
-    "vi": "Hòa hợp thân thiện với người mang đặc tính:"
+    "vi": "Hòa hợp với người có đặc tính:"
   },
   {
     "key": "effector_name_AffectionPerkChemistryPositive",

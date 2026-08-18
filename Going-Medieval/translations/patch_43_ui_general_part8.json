@@ -315,7 +315,7 @@
     "key": "topic_smalltalk_27",
     "type": 0,
     "en": "good dye plants",
-    "vi": "các loài cây chiết xuất màu nhuộm tốt"
+    "vi": "cây làm phẩm nhuộm tốt"
   },
   {
     "key": "topic_smalltalk_28",
@@ -333,13 +333,13 @@
     "key": "topic_smalltalk_30",
     "type": 0,
     "en": "lumpy beds",
-    "vi": "những chiếc giường nệm gồ ghề khó ngủ"
+    "vi": "những chiếc giường gồ ghề"
   },
   {
     "key": "topic_smalltalk_31",
     "type": 0,
     "en": "achey joints",
-    "vi": "chứng đau nhức xương khớp mùa lạnh"
+    "vi": "đau nhức xương khớp mùa lạnh"
   },
   {
     "key": "topic_smalltalk_32",
@@ -663,7 +663,7 @@
     "key": "topic_beliefrestitution_4",
     "type": 0,
     "en": "Thomas Aquinas",
-    "vi": "nhà thần học vĩ đại Thomas Aquinas"
+    "vi": "thánh Thomas Aquinas"
   },
   {
     "key": "topic_beliefrestitution_5",
@@ -711,7 +711,7 @@
     "key": "topic_belief_1",
     "type": 0,
     "en": "Galen's teaching",
-    "vi": "các học thuyết y khoa của danh y Galen"
+    "vi": "học thuyết y khoa Galen"
   },
   {
     "key": "topic_belief_2",
@@ -747,7 +747,7 @@
     "key": "topic_belief_7",
     "type": 0,
     "en": "witchcraft and healing",
-    "vi": "thuật phù thủy và các bài thuốc chữa lành dân gian"
+    "vi": "thuật phù thủy và thuật chữa lành"
   },
   {
     "key": "topic_belief_8",
@@ -771,7 +771,7 @@
     "key": "topic_belief_11",
     "type": 0,
     "en": "Piers Gaveston",
-    "vi": "nhân vật sủng thần hoàng gia Piers Gaveston"
+    "vi": "sủng thần Piers Gaveston"
   },
   {
     "key": "topic_belief_12",

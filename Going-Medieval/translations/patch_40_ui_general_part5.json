@@ -231,7 +231,7 @@
     "key": "workshop_version_not_set",
     "type": 0,
     "en": "Works with beta branches: Not set by mod creator",
-    "vi": "Works với beta branches: Not set by mod creator"
+    "vi": "Tương thích với các nhánh thử nghiệm (beta): Tác giả mod chưa thiết lập"
   },
   {
     "key": "workshop_version_max_older",
@@ -447,13 +447,13 @@
     "key": "global_stat_religious_influence_tooltip",
     "type": 0,
     "en": "Holding Eucharist events and having a top level Chaplain will help you spread your religious renown throughout the region. \nReaching 100% Church of Restitution Renown will give you the option to construct a Cathedral, cementing your regional eminence.",
-    "vi": "Holding Eucharist events và having a top level Chaplain will help you spread your religious renown throughout region. \nReaching 100% Church của Phục Hưng Renown will give you option để construct a Cathedral, cementing your regional eminence."
+    "vi": "Tổ chức các buổi lễ Tiệc Thánh và có một Tuyên Úy cấp cao sẽ giúp bạn truyền bá danh tiếng tôn giáo khắp vùng.\nĐạt 100% Danh tiếng Giáo Hội Phục Hưng sẽ cho bạn lựa chọn xây dựng Đại Nhà Thờ, củng cố vị thế tối cao trong khu vực."
   },
   {
     "key": "global_stat_pagan_influence_tooltip",
     "type": 0,
     "en": "Holding Ritual events and having a top level Druid will help you spread your Oak Brethren renown in the region. \nReaching 100% Oak Brethren renown will give you the option to grow a Mighty Oak, symbolising your regional prestige.",
-    "vi": "Holding Ritual events và having a top level Druid will help you spread your Huynh Đệ Cây Sồi renown trong region. \nReaching 100% Huynh Đệ Cây Sồi renown will give you option để grow a Mighty Oak, symbolising your regional prestige."
+    "vi": "Tổ chức các Nghi Lễ Cúng Tế và có một Tu Sĩ Druid cấp cao sẽ giúp bạn truyền bá danh tiếng Huynh Đệ Cây Sồi trong vùng.\nĐạt 100% Danh tiếng Huynh Đệ Cây Sồi sẽ cho bạn lựa chọn nuôi dưỡng một Cây Sồi Khổng Lồ, biểu tượng cho uy thế trong khu vực."
   },
   {
     "key": "global_stat_military_influence_tooltip",
@@ -465,7 +465,7 @@
     "key": "global_stat_trade_influence_tooltip",
     "type": 0,
     "en": "Trading with merchants and sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you the option to establish a Charter Fair in your region, confirming your mercantile prowess.",
-    "vi": "Trading với merchants và sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you option để establish a Charter Fair trong your region, confirming your mercantile prowess."
+    "vi": "Giao thương với các thương nhân và cử đoàn buôn sẽ giúp bạn lan tỏa Danh tiếng Thương nghiệp.\nĐạt 100% sẽ cho bạn lựa chọn tổ chức một Hội Chợ Đặc Quyền trong vùng, khẳng định vị thế thương mại vững mạnh."
   },
   {
     "key": "global_stat_cultural_influence_tooltip",
@@ -543,7 +543,7 @@
     "key": "global_stat_cultural_influence_news100",
     "type": 0,
     "en": "Your Intellectual Renown has increased to its zenith: your library attracts the most creative and erudite academics of our time. Carpe diem! You may establish <village_name> University, ensuring knowledge flourishes here in perpetuity.",
-    "vi": "Của bạn Intellectual Renown có increased đến của nó zenith: của bạn library attracts nhiều nhất creative và erudite academics của của chúng ta time. Carpe diem! Bạn may establish <village_name> University, ensuring knowledge flourishes here trong perpetuity."
+    "vi": "Danh tiếng Học thuật của bạn đã đạt đến đỉnh cao: thư viện của bạn thu hút những học giả sáng tạo và uyên bác nhất thời đại. Hãy nắm bắt thời cơ! Bạn có thể thành lập Đại Học <village_name>, bảo đảm tri thức mãi mãi nở rộ nơi đây."
   },
   {
     "key": "global_stat_infamy_news50",
@@ -591,7 +591,7 @@
     "key": "objective_infamy_survive_attacks_info",
     "type": 0,
     "en": "Survive an onslaught of 3x waves of enemies. If you succeed, you will sieze ultimate power as the Tyrant Overlord of the region.",
-    "vi": "Survive an onslaught của 3x waves của Kẻ thù. If you succeed, you will sieze ultimate power as Tyrant Overlord của region."
+    "vi": "Sống sót qua đợt tấn công dữ dội gồm 3 đợt kẻ thù. Nếu thành công, bạn sẽ nắm giữ quyền lực tối thượng với tư cách là Chúa Tể Bạo Chúa của vùng."
   },
   {
     "key": "religious_influence_unlock_in_ui",
@@ -645,7 +645,7 @@
     "key": "objective_religious_tooltip",
     "type": 0,
     "en": "Commit your settlement to become a Centre of Pilgrimage, which will make your Church of Restitution a cathedral.",
-    "vi": "Commit your settlement để become a Centre của Pilgrimage, which will make your Church của Phục Hưng a cathedral."
+    "vi": "Định hướng khu định cư của bạn trở thành Trung Tâm Hành Hương, cho phép nâng cấp Nhà Thờ Phục Hưng thành một Đại Nhà Thờ."
   },
   {
     "key": "objective_religious_info",

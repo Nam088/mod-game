@@ -69,7 +69,7 @@
     "key": "create_new",
     "type": 0,
     "en": "Create New",
-    "vi": "Create Mới"
+    "vi": "Tạo mới"
   },
   {
     "key": "mod_delete",
@@ -129,7 +129,7 @@
     "key": "workshop_upload_info",
     "type": 0,
     "en": "This mod only exists local on your machine. Upload it to steam workshop to share it with others ",
-    "vi": "Công trình này mod only exists local trên your machine. Upload it để steam workshop để share it với others "
+    "vi": "Bản mod này hiện chỉ tồn tại trên máy tính của bạn. Hãy tải lên Steam Workshop để chia sẻ cho mọi người cùng sử dụng."
   },
   {
     "key": "workshop_open",
@@ -141,25 +141,25 @@
     "key": "workshop_open_info",
     "type": 0,
     "en": "Open the Steam Workshop page of this mod",
-    "vi": "Mở Steam Workshop page của this mod"
+    "vi": "Mở trang Steam Workshop của bản mod này"
   },
   {
     "key": "steam_workshop_upload_prompt",
     "type": 0,
     "en": "This action will upload this item to the Steam Workshop, do you want to proceed?",
-    "vi": "Này action sẽ upload này item đến Steam Workshop, do bạn want đến proceed?"
+    "vi": "Thao tác này sẽ tải mục này lên Steam Workshop, bạn có muốn tiếp tục không?"
   },
   {
     "key": "create_new_mod_loc_template",
     "type": 0,
     "en": "This action will create English version of localization ready for modding on your hard drive. Do you wish to proceed?",
-    "vi": "Này action sẽ create English version của localization ready cho modding trên của bạn hard drive. Do bạn wish đến proceed?"
+    "vi": "Thao tác này sẽ tạo một bản sao ngôn ngữ tiếng Anh sẵn sàng để tạo mod trên ổ cứng của bạn. Bạn có muốn tiếp tục không?"
   },
   {
     "key": "create_new_mod_template",
     "type": 0,
     "en": "This action will create empty mod template on your hard drive. Do you wish to proceed?",
-    "vi": "Này action sẽ create empty mod template trên của bạn hard drive. Do bạn wish đến proceed?"
+    "vi": "Thao tác này sẽ tạo một mẫu mod trống trên ổ cứng của bạn. Bạn có muốn tiếp tục không?"
   },
   {
     "key": "delete_remote_mod_prompt",
@@ -183,7 +183,7 @@
     "key": "new_mod_created",
     "type": 0,
     "en": "New mod template created at <path>",
-    "vi": "Mới mod template created tại <path>"
+    "vi": "Đã tạo mẫu mod mới tại <path>"
   },
   {
     "key": "general_show",
@@ -201,13 +201,13 @@
     "key": "general_do _not_accept",
     "type": 0,
     "en": "Do Not Accept",
-    "vi": "Do Not Chấp nhận"
+    "vi": "Không chấp nhận"
   },
   {
     "key": "error_create_directory",
     "type": 0,
     "en": "Could not create new directory. Please check do you have necessary rights to write to Documents directory. ",
-    "vi": "Could không create mới directory. Please check do bạn có necessary rights đến write đến Documents directory. "
+    "vi": "Không thể tạo thư mục mới. Vui lòng kiểm tra xem bạn có đủ quyền ghi vào thư mục Documents hay không."
   },
   {
     "key": "and_more",

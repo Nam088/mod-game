@@ -63,7 +63,7 @@
     "key": "effector_info_EventRangedTriningOutcomeVeryBad",
     "type": 0,
     "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
-    "vi": "Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+    "vi": "Thật lãng phí mấy tiếng cuộc đời mà chẳng lấy lại được. Tôi chẳng tiếp thu thêm được điều gì cả."
   },
   {
     "key": "effector_info_EventRangedTriningOutcomeBad",
@@ -855,7 +855,7 @@
     "key": "atb_info_MeleeDmg",
     "type": 0,
     "en": "Melee weapon proficiency (Higher melee skill will increase, and penalties such as wounds will decrease this modifier.).",
-    "vi": "Cận chiến weapon proficiency (Higher Cận chiến skill will increase, và penalties such as wounds will decrease this modifier.)."
+    "vi": "Độ thành thục vũ khí cận chiến (Kỹ năng Cận chiến cao hơn sẽ tăng, còn các hình phạt như vết thương sẽ làm giảm hệ số này)."
   },
   {
     "key": "atb_info_MineAmount",
@@ -897,6 +897,6 @@
     "key": "atb_info_PainStep",
     "type": 0,
     "en": "Multiplier indicating how fast this settler's pain subsides.",
-    "vi": "Multiplier indicating how fast this settler's Cơn đau subsides."
+    "vi": "Hệ số cho biết cơn đau của dân làng này giảm nhanh đến mức nào."
   }
 ]

@@ -21,7 +21,7 @@
     "key": "credits_QAManager",
     "type": 0,
     "en": "QA Manager",
-    "vi": "Quản Lý Đảm Bảo Chất Lượng (QA)"
+    "vi": "Quản Lý QA"
   },
   {
     "key": "credits_QAProjectManager",
@@ -57,7 +57,7 @@
     "key": "credits_translation",
     "type": 0,
     "en": "Translation",
-    "vi": "Đội Ngũ Biên Dịch & Bản Địa Hóa"
+    "vi": "Bản Dịch Tiếng Việt"
   },
   {
     "key": "credits_trailer_service",
@@ -129,13 +129,13 @@
     "key": "general_veryHigh",
     "type": 0,
     "en": "Very High",
-    "vi": "Very Cao"
+    "vi": "Rất cao"
   },
   {
     "key": "save_file_already_exists",
     "type": 0,
     "en": "Save file by that name already exists",
-    "vi": "Lưu file by that name already exists"
+    "vi": "Tệp lưu với tên này đã tồn tại"
   },
   {
     "key": "early_acces_note",
@@ -285,7 +285,7 @@
     "key": "roadmap_27",
     "type": 0,
     "en": "More Resources",
-    "vi": "Bổ Sung Thêm Tài Nguyên & Thực Phẩm"
+    "vi": "Bổ Sung Thêm Tài Nguyên"
   },
   {
     "key": "roadmap_28",
@@ -333,7 +333,7 @@
     "key": "update_03_name",
     "type": 0,
     "en": "Animals & Pets",
-    "vi": "Bản Cập Nhật Động Vật & Thú Nuôi"
+    "vi": "Động Vật & Thú Nuôi"
   },
   {
     "key": "update_05_name",
@@ -651,7 +651,7 @@
     "key": "update_entry_52",
     "type": 0,
     "en": "Stunted Plants",
-    "vi": "Cây Trồng Bị Còi Cọc Do Thiếu Sáng"
+    "vi": "Cây Trồng Bị Còi Cọc"
   },
   {
     "key": "update_entry_53",
@@ -843,7 +843,7 @@
     "key": "update_entry_84",
     "type": 0,
     "en": "Group Enemy AI",
-    "vi": "Trí Tuệ Nhân Tạo (AI) Kẻ Địch Theo Đội Hình"
+    "vi": "AI Kẻ Địch Theo Đội Hình"
   },
   {
     "key": "update_entry_85",
@@ -867,7 +867,7 @@
     "key": "update_entry_88",
     "type": 0,
     "en": "Grand Objectives",
-    "vi": "Hệ Thống Đại Mục Tiêu Định Đoạt Vận Mệnh"
+    "vi": "Đại Mục Tiêu Định Đoạt Vận Mệnh"
   },
   {
     "key": "update_entry_89",

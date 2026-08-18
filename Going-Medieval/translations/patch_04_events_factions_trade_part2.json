@@ -33,19 +33,19 @@
     "key": "event_belief_near_death_christian_to_pagan",
     "type": 0,
     "en": "In the face of death, <agent_name> found no comfort in the Lord, only darkness and terror. [His/Her] faith crumbled.",
-    "vi": "Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. Đức tin của [his/her] đã hoàn toàn sụp đổ."
+    "vi": "Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. [His/Her] đức tin đã hoàn toàn sụp đổ."
   },
   {
     "key": "event_belief_near_death_pagan_to_christian",
     "type": 0,
     "en": "There were no horns of mead in Tír na nÓg awaiting <agent_name>, who felt only hollowness in death's bitter embrace.",
-    "vi": "Chẳng có sừng rượu mật ong nào nơi cõi tiên Tír na nÓg đón chờ <agent_name>; giữa vòng tay lạnh lẽo của tử thần, [he/she] chỉ cảm nhận thấy sự trống rỗng cay đắng."
+    "vi": "Chẳng có sừng rượu mật ong nào nơi cõi tiên Tír na nÓg đón chờ <agent_name>; trong vòng tay lạnh lẽo của tử thần, người ấy chỉ cảm nhận thấy sự trống rỗng cay đắng."
   },
   {
     "key": "event_belief_intoxication_christian_to_pagan",
     "type": 0,
     "en": "Deep in [his/her] cups, <agent_name> felt an awful certainty that there was no God to save [him/her].",
-    "vi": "Chìm sâu trong men rượu say nồng, <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
+    "vi": "Chìm sâu trong chén rượu của [his/her], <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
   },
   {
     "key": "event_belief_intoxication_pagan_to_christian",
@@ -99,7 +99,7 @@
     "key": "event_belief_flawless_item_pagan_to_pagan",
     "type": 0,
     "en": "<agent_name> reveals the true beauty of Nature in the act of creation, so deepening [his/her] faith.",
-    "vi": "Bằng sự che chở của các Cổ Thần, đôi bàn tay của <agent_name> đã tạo nên một tạo tác tuyệt mỹ không tì vết."
+    "vi": "<agent_name> đã thể hiện trọn vẹn vẻ đẹp thuần khiết của Tự Nhiên qua từng đường nét chế tác, qua đó càng củng cố sâu sắc thêm đức tin của [his/her]."
   },
   {
     "key": "event_belief_flimsy_item_christian_to_pagan",
@@ -783,13 +783,13 @@
     "key": "event_new_worker_sick_01",
     "type": 0,
     "en": "An ailing traveller shuffled haltingly into <village_name>. Given time to recuperate, [he/she] claimed they could work, but in that moment they looked pretty rough. Would <name> be permitted to join and convalesce?",
-    "vi": "Một lữ khách ốm yếu bước đi lảo đảo tiến vào <village_name>. [He/She] quả quyết rằng chỉ cần có thời gian tịnh dưỡng là có thể làm việc chăm chỉ, nhưng lúc này trông người ấy vô cùng kiệt quệ. Liệu bạn có mở lòng đón nhận <name> vào nương náu và dưỡng bệnh?"
+    "vi": "Một lữ khách ốm yếu bước đi lảo đảo tiến vào <village_name>. [he/she] quả quyết rằng chỉ cần có thời gian tịnh dưỡng là có thể làm việc chăm chỉ, nhưng lúc này trông người ấy vô cùng kiệt quệ. Liệu bạn có mở lòng đón nhận <name> vào nương náu và dưỡng bệnh?"
   },
   {
     "key": "event_new_worker_starving_01",
     "type": 0,
     "en": "When <name> arrived, [his/her] bones were prominent and [his/her] hair fell out in clumps. <village_name> people stared at this wretched, starving soul. Desperation was writ on <name>'s face and [he/she] pleaded. Would you take [him/her] in?",
-    "vi": "Khi <name> lết bước tới nơi, xương sườn của [his/her] lộ rõ dưới lớp da bọc và tóc rụng thành từng mảng. Dân làng <village_name> xót xa nhìn sinh linh khốn cùng đang ngấp nghé bên bờ vực chết đói. Sự tuyệt vọng hằn sâu trên gương mặt <name> khi [he/she] tha thiết van xin. Bạn có cưu mang [him/her] không?"
+    "vi": "Khi <name> lết bước tới nơi, xương sườn của [his/her] lộ rõ dưới da và mái tóc của [his/her] rụng thành từng mảng. Dân làng <village_name> xót xa nhìn sinh linh khốn cùng đang ngấp nghé bên bờ vực chết đói. Sự tuyệt vọng hằn sâu trên gương mặt <name> khi [he/she] tha thiết van xin. Bạn có cưu mang [him/her] không?"
   },
   {
     "key": "event_new_worker_wounded_01",
@@ -831,7 +831,7 @@
     "key": "event_raid_animal_wolf",
     "type": 0,
     "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
-    "vi": "Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Dân làng phải cầm chắc vũ khí và che chắn chuồng trại để đánh đuổi lũ ác thú."
+    "vi": "Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Dù sự xuất hiện đột ngột của chúng là do cơn đói cồn cào hay chỉ muốn tàn phá thì vẫn chưa rõ. Cầm chắc công cụ và che chắn vật nuôi, dân làng phải đánh đuổi lũ ác thú.\n"
   },
   {
     "key": "event_raid_animal_fox",

@@ -9,7 +9,7 @@
     "key": "uprade_building_info",
     "type": 0,
     "en": "Choose what structure will be replaced. \nSome structures might not appear in the list, and some structures don't have a replace option. \nSome replacement options might not be possible if the necessary construction materials are not available.",
-    "vi": "Lựa chọn cấu trúc công trình mà bạn muốn thay thế.\\nMột số công trình đặc thù có thể không hiển thị trong danh sách hoặc không hỗ trợ tính năng thay thế trực tiếp.\\nMột số phương án thay thế vật liệu sẽ bị vô hiệu hóa nếu trong kho không có sẵn lượng vật liệu xây dựng cần thiết."
+    "vi": "Lựa chọn cấu trúc công trình mà bạn muốn thay thế. \nMột số công trình đặc thù có thể không hiển thị trong danh sách hoặc không hỗ trợ tính năng thay thế trực tiếp. \nMột số phương án thay thế vật liệu sẽ bị vô hiệu hóa nếu trong kho không có sẵn lượng vật liệu xây dựng cần thiết."
   },
   {
     "key": "uprade_building_selected",

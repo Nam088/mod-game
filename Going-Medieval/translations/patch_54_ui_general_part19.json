@@ -159,7 +159,7 @@
     "key": "goal_preference_info_CraftingPreference",
     "type": 0,
     "en": "Non-skilled work crafting basic items, like bricks.",
-    "vi": "Non-skilled work Chế tạo basic items, like bricks."
+    "vi": "Gia công các vật phẩm cơ bản không đòi hỏi kỹ năng cao, ví dụ như đúc gạch."
   },
   {
     "key": "goal_preference_info_HuntingPreference",
@@ -195,13 +195,13 @@
     "key": "goal_preference_info_ResearchPreference",
     "type": 0,
     "en": "Contemplating and writing everything down so it can be used to advance the settlement.",
-    "vi": "Contemplating và writing everything down so it can be used để advance Khu định cư."
+    "vi": "Nghiên cứu suy ngẫm và ghi chép lại mọi thứ để dùng cho sự phát triển của khu định cư."
   },
   {
     "key": "goal_preference_info_TendingPreference",
     "type": 0,
     "en": "Tend to the wounds of others. Carry unconscious settlers to beds.",
-    "vi": "Tend để wounds của others. Carry unconscious Dân làng để beds."
+    "vi": "Băng bó vết thương cho người khác. Khiêng dân làng bất tỉnh về giường bệnh."
   },
   {
     "key": "goal_preference_info_ArtPreference",
@@ -213,7 +213,7 @@
     "key": "goal_preference_info_ViolencePreference",
     "type": 0,
     "en": "Combat with both ranged and melee weapon types",
-    "vi": "Combat với both ranged và Cận chiến weapon types"
+    "vi": "Trực tiếp tham gia chiến đấu bằng cả vũ khí tầm xa lẫn cận chiến."
   },
   {
     "key": "research_name_agriculture_lvl3",
@@ -633,7 +633,7 @@
     "key": "news_info_blight",
     "type": 0,
     "en": "Order your settlers to cut down spoiled crops before the blight spreads.",
-    "vi": "Order your Dân làng để Chặt cây down spoiled crops before blight spreads."
+    "vi": "Hãy ra lệnh cho dân làng chặt bỏ cây trồng bị hỏng trước khi dịch bệnh lây lan."
   },
   {
     "key": "game_event_agree",
@@ -741,7 +741,7 @@
     "key": "game_event_description_season_winter",
     "type": 0,
     "en": "Winter held <village_name> in its icy grip, so the settlers gathered around the fire on long, dark evenings. They needed to bundle up in warm clothing, and heat their chambers to beat the chill. ",
-    "vi": "Mùa Đông held <village_name> trong its icy grip, so settlers gathered around fire trên long, dark evenings. Họ needed để bundle up trong warm clothing, và Nóng their chambers để beat chill. "
+    "vi": "Mùa đông bao trùm <village_name> trong giá băng buốt giá, khiến dân làng phải quây quần bên đống lửa vào những đêm dài tối tăm. Họ cần mặc thật nhiều quần áo ấm và sưởi ấm phòng ở để xua tan cái lạnh."
   },
   {
     "key": "game_event_type_season_start",

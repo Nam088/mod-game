@@ -435,7 +435,7 @@
     "key": "effector_info_SleptWithoutBed",
     "type": 0,
     "en": "Had to sleep on the ground.",
-    "vi": "Had để Giấc ngủ trên ground."
+    "vi": "Phải ngủ co ro dưới nền đất lạnh."
   },
   {
     "key": "effector_info_SlightNeedSleep",
@@ -447,19 +447,19 @@
     "key": "effector_info_SlightlyHungry",
     "type": 0,
     "en": "Could do with something to eat, if I can find the time.",
-    "vi": "Could do với something để eat, if Tôi có thể find time."
+    "vi": "Có món gì đó để ăn thì tốt quá, nếu tôi có chút thời gian."
   },
   {
     "key": "effector_info_StarvationLoosHP",
     "type": 0,
     "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
-    "vi": "Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
+    "vi": "Tôi đói lả người rồi, nếu không được ăn gì sớm tôi sẽ chết mất. Bây giờ cho gì tôi cũng ăn."
   },
   {
     "key": "effector_info_Starving",
     "type": 0,
     "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
-    "vi": "Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
+    "vi": "Tôi đói lả người rồi, nếu không được ăn gì sớm tôi sẽ chết mất. Bây giờ cho gì tôi cũng ăn."
   },
   {
     "key": "effector_info_Sweaty",
@@ -483,7 +483,7 @@
     "key": "effector_info_VeryHungry",
     "type": 0,
     "en": "Can't hear anything over the sound of my growling stomach.",
-    "vi": "Can't hear anything over sound của của tôi growling stomach."
+    "vi": "Chẳng nghe thấy gì ngoài tiếng bụng đói cồn cào réo rắt."
   },
   {
     "key": "effector_name_2x",
@@ -747,7 +747,7 @@
     "key": "effector_info_AteAtTable",
     "type": 0,
     "en": "Eating at the table feels so civilized. It's positively grand compared to some of the places I've had to eat...it's quite heartening.",
-    "vi": "Eating at table feels so civilized. It's positively grand compared để some của places Tôi đã had để eat...it's quite heartening."
+    "vi": "Được ngồi ăn tại bàn đàng hoàng thật là văn minh. Tuyệt hơn hẳn so với những nơi tôi từng phải ăn... cảm giác thật ấm lòng."
   },
   {
     "key": "effector_info_AteSittingDown",
@@ -777,7 +777,7 @@
     "key": "effector_info_FaithNeed",
     "type": 0,
     "en": "I feel conflicted and disconnected. Some time in quiet contemplation and prayer would help.",
-    "vi": "Tôi cảm thấy conflicted và disconnected. Some time trong quiet contemplation và prayer would help."
+    "vi": "Tôi cảm thấy mâu thuẫn và lạc lõng. Dành chút thời gian tĩnh tâm suy ngẫm và cầu nguyện sẽ giúp ích nhiều."
   },
   {
     "key": "effector_info_FaithDeprived",

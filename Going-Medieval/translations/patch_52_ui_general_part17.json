@@ -213,7 +213,7 @@
     "key": "worker_overweight_slowdown",
     "type": 0,
     "en": "This settler is over-burdened and so will move more slowly.",
-    "vi": "Này dân làng là over-burdened và so sẽ move nhiều hơn slowly."
+    "vi": "Dân làng này đang mang vác quá nặng nên sẽ di chuyển chậm hơn."
   },
   {
     "key": "social_treshold_02",

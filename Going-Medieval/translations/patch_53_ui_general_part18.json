@@ -321,7 +321,7 @@
     "key": "skep_production_speed_tooltip",
     "type": 0,
     "en": "<style=DefaultOrange>Output depends on the balance of nearby plants and hives. Hives compete for resources, so space them out.</style>",
-    "vi": "<style=DefaultOrange>Output depends trên balance của nearby plants và hives. Hives compete cho Tài nguyên, so space them out.</style>"
+    "vi": "<style=DefaultOrange>Sản lượng phụ thuộc vào sự cân bằng giữa hoa cỏ và số lượng tổ ong xung quanh. Các tổ ong cạnh tranh tài nguyên với nhau, vì vậy hãy đặt chúng cách xa nhau.</style>"
   },
   {
     "key": "skep_production_speed",

@@ -189,7 +189,7 @@
     "key": "trade_wont_buy",
     "type": 0,
     "en": "This merchant will not trade for this resource",
-    "vi": "Công trình này Thương nhân will not trade cho this resource"
+    "vi": "Thương nhân này sẽ không trao đổi tài nguyên này"
   },
   {
     "key": "trade_number_settlement",
@@ -207,7 +207,7 @@
     "key": "wealth_price_buy",
     "type": 0,
     "en": "Value merchant gains when trading this item",
-    "vi": "Value Thương nhân gains when trading this item"
+    "vi": "Giá trị thương nhân nhận được khi trao đổi món đồ này"
   },
   {
     "key": "base_trade_value",
@@ -285,7 +285,7 @@
     "key": "extortion_wont_take",
     "type": 0,
     "en": "This negotiator will not accept this resource",
-    "vi": "Công trình này negotiator will not Chấp nhận this resource"
+    "vi": "Kẻ tống tiền này sẽ không chấp nhận tài nguyên này"
   },
   {
     "key": "extortion_number_settlement",
@@ -345,7 +345,7 @@
     "key": "trader_message_mass",
     "type": 0,
     "en": "Merchant can't carry this much weight",
-    "vi": "Thương nhân can't carry this much weight"
+    "vi": "Thương nhân không thể mang vác khối lượng nặng đến mức này"
   },
   {
     "key": "negotiator_message_mass",

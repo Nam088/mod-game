@@ -141,7 +141,7 @@
     "key": "is_storable_on_some_stockpile",
     "type": 0,
     "en": "Stockpile that can store this resource exists",
-    "vi": "Bãi chứa that can store this resource exists"
+    "vi": "Có bãi chứa phù hợp để lưu trữ tài nguyên này"
   },
   {
     "key": "is_marked_for_hauling",
@@ -213,7 +213,7 @@
     "key": "game_difficulty_Custom_info",
     "type": 0,
     "en": "Customise your game difficulty level. Choose what types of events you would like to exclude during your run. ",
-    "vi": "Customise your game difficulty cấp độ. Choose what types của events you would like để exclude during your run."
+    "vi": "Tùy chỉnh độ khó trò chơi theo ý muốn. Chọn các loại sự kiện bạn muốn loại trừ trong quá trình chơi."
   },
   {
     "key": "predators_cant_attack",
@@ -267,7 +267,7 @@
     "key": "general_intensity_info",
     "type": 0,
     "en": "Change the intensity of this heat source. Changing to a higher intensity will increase the temperature output, but will also use more fuel.",
-    "vi": "Đổi intensity của this Nóng source. Changing để a higher intensity will increase Nhiệt độ output, but will also use more fuel."
+    "vi": "Thay đổi cường độ của nguồn nhiệt này. Tăng cường độ sẽ làm tăng lượng nhiệt tỏa ra, nhưng cũng sẽ tiêu hao nhiều nhiên liệu hơn."
   },
   {
     "key": "node_snow",
@@ -357,7 +357,7 @@
     "key": "effector_name_BeliefNatureChristian",
     "type": 0,
     "en": "Could this be the work of the Almighty?",
-    "vi": "Could điều này be work của Almighty?"
+    "vi": "Liệu đây có phải là điềm báo của Đấng Toàn Năng?"
   },
   {
     "key": "effector_name_BeliefNaturePagan",
@@ -513,7 +513,7 @@
     "key": "surender_screen_info",
     "type": 0,
     "en": "Choose assailants you want to capture as prisoners of war. Wait for a settler with the Goaler job active to escort prisoners to a cell. But hurry, they won't wait forever.",
-    "vi": "Choose assailants you want để capture as prisoners của war. Chờ a Dân làng với Goaler job active để escort prisoners để a cell. But hurry, they won't wait forever."
+    "vi": "Chọn những kẻ tấn công bạn muốn bắt làm tù binh chiến tranh. Đợi dân làng có nhiệm vụ Cai Ngục giải tù nhân vào phòng giam. Hãy nhanh chóng, vì họ sẽ không chờ đợi mãi."
   },
   {
     "key": "surender_screen_title",
@@ -639,7 +639,7 @@
     "key": "worker_action_RecruitPrisonerGoal",
     "type": 0,
     "en": "Recruiting",
-    "vi": "Đang Thuyết Phục Chiêu Mộ Tù Nhân"
+    "vi": "Đang Chiêu Mộ Tù Nhân"
   },
   {
     "key": "recruit_successful_message",

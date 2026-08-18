@@ -207,7 +207,7 @@
     "key": "tut_roof_info",
     "type": 0,
     "en": "Roofs need at least two points on which to rest. Place them on Walls to complete building the house.",
-    "vi": "Roofs need at least two points trên which để Nghỉ ngơi. Đặt them trên tườngs để complete building house."
+    "vi": "Mái nhà cần ít nhất hai điểm tựa để nâng đỡ. Hãy đặt mái lên các bức tường để hoàn thiện ngôi nhà."
   },
   {
     "key": "tut_roof_build_base",
