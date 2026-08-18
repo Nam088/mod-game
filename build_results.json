@@ -1,10 +1,10 @@
 [
   {
-    "game_key": "Manor-Lords",
-    "name": "Manor Lords",
-    "version": "1.0.10",
-    "zip_name": "Manor-Lords-Vietnamese-Mod-v1.0.10.zip",
-    "zip_path": "/home/runner/work/mod-game/mod-game/Manor-Lords/dist/Manor-Lords-Vietnamese-Mod-v1.0.10.zip",
-    "tag": "ml-v1.0.10"
+    "game_key": "Going-Medieval",
+    "name": "Going Medieval",
+    "version": "1.0.1",
+    "zip_name": "Going-Medieval-Vietnamese-Mod-v1.0.1.zip",
+    "zip_path": "/home/runner/work/mod-game/mod-game/Going-Medieval/dist/Going-Medieval-Vietnamese-Mod-v1.0.1.zip",
+    "tag": "gm-v1.0.1"
   }
 ]
