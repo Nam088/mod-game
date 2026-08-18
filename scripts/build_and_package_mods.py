@@ -325,6 +325,37 @@ def detect_changed_games(base_ref=None):
                     changed_games.add(g_key)
     return list(changed_games)
 
+def sync_pages_data():
+    pages_data_path = os.path.join(BASE_DIR, "docs", "assets", "data", "games-data.json")
+    if not os.path.exists(pages_data_path):
+        return
+        
+    try:
+        with open(pages_data_path, "r", encoding="utf-8") as f:
+            games_list = json.load(f)
+            
+        for game in games_list:
+            matching_key = None
+            for k, cfg in GAMES_CONFIG.items():
+                if cfg["slug"] == game["id"] or k == game["id"]:
+                    matching_key = k
+                    break
+                    
+            if matching_key:
+                cfg = GAMES_CONFIG[matching_key]
+                current_ver = get_current_version(cfg)
+                tag = f"{cfg['tag_prefix']}-v{current_ver}"
+                zip_name = f"{cfg['zip_prefix']}-v{current_ver}.zip"
+                
+                game["version"] = f"v{current_ver} (Mới nhất)"
+                game["download_url"] = f"https://github.com/Nam088/mod-game/releases/download/{tag}/{zip_name}"
+                
+        with open(pages_data_path, "w", encoding="utf-8") as f:
+            json.dump(games_list, f, ensure_ascii=False, indent=2)
+        print("[✓] Đã tự động đồng bộ version vào docs/assets/data/games-data.json cho GitHub Pages!")
+    except Exception as e:
+        print(f"[!] Cảnh báo đồng bộ Pages data: {e}")
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Multi-game Mod Builder & Release Manager")
@@ -355,7 +386,11 @@ def main():
         with open(args.output_json, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
         print(f"\n[✓] Đã xuất kết quả ra {args.output_json}")
+    
+    # Tự động đồng bộ version sang GitHub Pages
+    sync_pages_data()
     print("\n=== HOÀN TẤT BUILD TẤT CẢ GAME YÊU CẦU ===")
 
 if __name__ == "__main__":
     main()
+
