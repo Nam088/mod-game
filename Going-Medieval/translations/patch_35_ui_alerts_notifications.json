@@ -1,0 +1,770 @@
+[
+  {
+    "key": "info_position",
+    "type": 0,
+    "en": "Position",
+    "vi": "Vị trí"
+  },
+  {
+    "key": "info_walk_speed",
+    "type": 0,
+    "en": "Traversal speed",
+    "vi": "Tốc độ di chuyển"
+  },
+  {
+    "key": "info_natural_slope",
+    "type": 0,
+    "en": "Slope",
+    "vi": "Độ dốc"
+  },
+  {
+    "key": "info_stability",
+    "type": 0,
+    "en": "Stability",
+    "vi": "Độ vững chắc"
+  },
+  {
+    "key": "info_panel_wealth",
+    "type": 0,
+    "en": "Value",
+    "vi": "Giá trị"
+  },
+  {
+    "key": "report_message_lenght_warning",
+    "type": 0,
+    "en": "Message has to be at least 10 characters long",
+    "vi": "Nội dung phản hồi phải dài ít nhất 10 ký tự"
+  },
+  {
+    "key": "report_title_lenght_warning",
+    "type": 0,
+    "en": "Title has to be at least 4 characters long",
+    "vi": "Tiêu đề phải dài ít nhất 4 ký tự"
+  },
+  {
+    "key": "message_trader_is_locked",
+    "type": 0,
+    "en": "The merchant can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease.",
+    "vi": "Thương nhân không thể rời đi vì bị nhốt hoặc bị tường vây kín. Nếu bạn không thả họ đi, mối quan hệ giữa khu định cư và <faction_name> sẽ sụt giảm nghiêm trọng."
+  },
+  {
+    "key": "message_hit_trader",
+    "type": 0,
+    "en": "You have hurt a non-hostile person. Strikes left before they become Hostile: <hits_count>  ",
+    "vi": "Bạn vừa tấn công một người không thù địch! Số đòn đánh còn lại trước khi họ chuyển sang trạng thái Thù Địch: <hits_count>  "
+  },
+  {
+    "key": "warning_choose_settler_name",
+    "type": 0,
+    "en": "Please choose settler's name",
+    "vi": "Vui lòng đặt tên cho dân làng"
+  },
+  {
+    "key": "notification_new_structure",
+    "type": 0,
+    "en": "New Structure",
+    "vi": "Công trình mới"
+  },
+  {
+    "key": "notification_new_production",
+    "type": 0,
+    "en": "New Production",
+    "vi": "Dây chuyền sản xuất mới"
+  },
+  {
+    "key": "notification_new_cropfield",
+    "type": 0,
+    "en": "New Crops",
+    "vi": "Cánh đồng mới"
+  },
+  {
+    "key": "info_tamed",
+    "type": 0,
+    "en": "Tamed",
+    "vi": "Đã thuần hóa"
+  },
+  {
+    "key": "info_trained",
+    "type": 0,
+    "en": "Trained",
+    "vi": "Đã huấn luyện"
+  },
+  {
+    "key": "info_can_ignite_projectiles",
+    "type": 0,
+    "en": "<style=DefaultOrange>Archers near this structure can use flaming projectiles </style>",
+    "vi": "<style=DefaultOrange>Cung thủ đứng gần công trình này có thể bắn tên lửa </style>"
+  },
+  {
+    "key": "info_need_operate",
+    "type": 0,
+    "en": "A settler needs to operate this siege engine for it to work. Select your settler and right-click to use the action menu.",
+    "vi": "Cần có dân làng trực tiếp vận hành cỗ máy công thành này. Hãy chọn dân làng và nhấn chuột phải để mở menu thao tác."
+  },
+  {
+    "key": "local_folder_not_accessible_warning",
+    "type": 0,
+    "en": "Going Medieval is unable to access your 'Documents folder. Please allow the app through Controlled Folder Access. 'Virus & threat protection > Ransomware protection > 'Allow an app through controlled folder access'. If the problem persists, contact support@foxyvoxel.io. \\n\\n Do you want to open settings?",
+    "vi": "Going Medieval không thể truy cập vào thư mục 'Documents' của bạn. Vui lòng cấp quyền cho trò chơi qua tính năng Controlled Folder Access (Truy cập thư mục được kiểm soát). Nếu lỗi vẫn tiếp diễn, vui lòng liên hệ support@foxyvoxel.io. \\n\\n Bạn có muốn mở bảng Cài đặt ngay bây giờ không?"
+  },
+  {
+    "key": "build_area_overlap_warning",
+    "type": 0,
+    "en": "Building's forbidden area is overlapping with {0}!",
+    "vi": "Khu vực cấm của công trình đang chồng lấn với {0}!"
+  },
+  {
+    "key": "game_files_not_accessible_warning",
+    "type": 0,
+    "en": "Going Medieval could not access some game files. This is usually caused by antivirus or security software blocking file reads (e.g. Windows Defender Controlled Folder Access).\\n\\nPlease add Going Medieval to your antivirus or security software exceptions and restart the game. If the problem persists, contact support@foxyvoxel.io.",
+    "vi": "Going Medieval không thể truy cập một số tệp tin của game. Nguyên nhân thường do phần mềm diệt virus chặn đọc tệp (ví dụ: Windows Defender Controlled Folder Access).\\n\\nVui lòng thêm Going Medieval vào danh sách loại trừ ngoại lệ của phần mềm diệt virus rồi khởi động lại trò chơi. Nếu lỗi vẫn tiếp diễn, vui lòng liên hệ support@foxyvoxel.io."
+  },
+  {
+    "key": "warning_message_short_pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "warning_message_info_pilgrim_rest",
+    "type": 0,
+    "en": "A Restitutionist Pilgrim has arrived and is requesting alms in your settlement ",
+    "vi": "Một Người hành hương Hội Phục Hưng vừa đến và đang xin bố thí tại khu định cư của bạn "
+  },
+  {
+    "key": "warning_message_short_pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "warning_message_info_pilgrim_oak",
+    "type": 0,
+    "en": "An Oak Brethren Pilgrim arrived and is blessing your settlement ",
+    "vi": "Một Người hành hương Huynh Đệ Cây Sồi vừa đến và đang ban phước lành cho khu định cư của bạn "
+  },
+  {
+    "key": "warning_message_short_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Học giả du hành"
+  },
+  {
+    "key": "warning_message_info_scholar",
+    "type": 0,
+    "en": "A Travelling Scholar has arrived and is documenting your settlement.",
+    "vi": "Một Học giả du hành vừa ghé thăm và đang ghi chép về khu định cư của bạn."
+  },
+  {
+    "key": "warning_message_short_broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Thương lái"
+  },
+  {
+    "key": "warning_message_info_broker",
+    "type": 0,
+    "en": "A Broker from a friendly faction has arrived to negotiate the terms of a trade deal.",
+    "vi": "Một thương lái từ phe đồng minh thân thiện vừa tới để đàm phán các điều khoản giao thương."
+  },
+  {
+    "key": "warning_message_short_broker_showing_trade_deal_location",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Thương lái"
+  },
+  {
+    "key": "warning_message_info_broker_showing_trade_deal_location",
+    "type": 0,
+    "en": "A broker has arrived at your settlement hoping to arrange a trade agreement.",
+    "vi": "Một thương lái vừa đặt chân đến khu định cư với mong muốn ký kết thỏa thuận giao thương."
+  },
+  {
+    "key": "mods_in_save_warning",
+    "type": 0,
+    "en": "This save was created with mods that are now disabled. This may cause errors.",
+    "vi": "File lưu này được tạo bằng các bản mod hiện đang bị tắt. Việc tiếp tục chơi có thể gây ra lỗi."
+  },
+  {
+    "key": "mods_in_game_warning_report",
+    "type": 0,
+    "en": "It seems you are running a modded version of the game. Even though we support mods we cannot claim that they will be without issues. Before reporting this issue please verify if the issues persist when the mods are disabled.",
+    "vi": "Có vẻ bạn đang chạy một phiên bản game đã cài mod. Mặc dù chúng tôi hỗ trợ mod nhưng không thể đảm bảo mod sẽ không phát sinh lỗi ngoài ý muốn. Trước khi gửi báo cáo sự cố này, vui lòng kiểm tra xem lỗi có còn xuất hiện khi đã tắt hết mod hay không."
+  },
+  {
+    "key": "warning_message_info_Bleeding",
+    "type": 0,
+    "en": "Assign convalesce in the jobs panel in order for other settlers to tend their wounds and stop the bleeding.",
+    "vi": "Hãy phân công công việc Chăm sóc trên bảng phân công để dân làng khác đến băng bó vết thương và cầm máu kịp thời."
+  },
+  {
+    "key": "warning_message_info_Cold",
+    "type": 0,
+    "en": "Make appropriate clothing to beat the cold.",
+    "vi": "Hãy may trang phục mùa đông dày dặn để giúp dân làng chống chọi với cái lạnh thấu xương."
+  },
+  {
+    "key": "warning_message_info_CriticalCondition",
+    "type": 0,
+    "en": "Your settlers' hitpoints are low. Convalescence and sleep will help them regenerate.",
+    "vi": "Lượng máu của dân làng đang ở mức nguy kịch! Việc nằm nghỉ ngơi và ngủ sâu trên giường sẽ giúp họ dần hồi phục."
+  },
+  {
+    "key": "warning_message_info_Hunger",
+    "type": 0,
+    "en": "Harvest more food or produce some using cooking spots like campfires or stoves.",
+    "vi": "Hãy khẩn trương thu hoạch thêm lương thực hoặc chế biến món ăn chín tại lửa trại hoặc bếp lò."
+  },
+  {
+    "key": "warning_message_info_Idle",
+    "type": 0,
+    "en": "You should probably find them something productive to do.",
+    "vi": "Dân làng đang không có việc gì làm. Bạn nên giao cho họ một công việc hữu ích."
+  },
+  {
+    "key": "warning_message_info_LowStockpileFood",
+    "type": 0,
+    "en": "Your food reserves are getting low. There is not enough food for settlers.\\n\\nGet more food by foraging, hunting or farming. <b>(only food placed on a stockpile counts)</b>\\n\\nForaging - Order some settlers to harvest berries or mushrooms\\n\\nHunting - Mark some animals to be hunted and butcher their carcasses for meat\\n\\nFarming - research and place crop fields to grow a steady harvest of food ingredients.",
+    "vi": "Lương thực dự trữ trong kho đang cạn kiệt! Không đủ thức ăn nuôi sống dân làng.\\n\\nHãy bổ sung lương thực bằng cách hái lượm, săn bắn hoặc trồng trọt. <b>(chỉ tính lương thực đã được cất vào bãi chứa)</b>\\n\\nHái lượm - Ra lệnh cho dân làng đi hái quả mọng hoặc nấm dại\\n\\nSăn bắn - Đánh dấu thú hoang để săn bắn rồi pha thịt lấy nguồn thịt tươi\\n\\nTrồng trọt - Nghiên cứu công nghệ nông nghiệp và quy hoạch cánh đồng để có nguồn thu hoạch ổn định."
+  },
+  {
+    "key": "warning_message_info_MissingBed",
+    "type": 0,
+    "en": "The number of beds needs to match the number of settlers.\\n\\nBuild some beds so your settlers can get a good night's sleep.",
+    "vi": "Số lượng giường ngủ cần tương ứng với số lượng dân làng.\\n\\nHãy đóng thêm giường để dân làng có nơi ngả lưng ngon giấc mỗi đêm."
+  },
+  {
+    "key": "warning_message_info_Sleep",
+    "type": 0,
+    "en": "Your settlers are exhausted. This means that they are not getting enough sleep.\\n\\nMake sure that every settler has enough sleep hours in their schedule.",
+    "vi": "Dân làng đang kiệt sức vì thiếu ngủ trầm trọng.\\n\\nHãy đảm bảo mọi dân làng đều được phân bổ đủ số giờ ngủ trong lịch làm việc hàng ngày."
+  },
+  {
+    "key": "warning_message_info_Warmth",
+    "type": 0,
+    "en": "Keep them indoors or make appropriate clothing to accommodate the heat.",
+    "vi": "Hãy cho dân làng ở trong nhà râm mát hoặc may trang phục mỏng nhẹ để thích nghi với đợt nắng nóng gay gắt."
+  },
+  {
+    "key": "warning_message_short_Bleeding",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are losing blood</style>",
+    "vi": "<style=DefaultRed>Dân làng đang bị mất máu!</style>"
+  },
+  {
+    "key": "warning_message_short_Cold",
+    "type": 0,
+    "en": "Settlers are suffering from cold",
+    "vi": "Dân làng đang bị rét buốt"
+  },
+  {
+    "key": "warning_message_short_CriticalCondition",
+    "type": 0,
+    "en": "<style=DefaultRed>Critical Condition</style>",
+    "vi": "<style=DefaultRed>Tình trạng nguy kịch!</style>"
+  },
+  {
+    "key": "warning_message_short_Hunger",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are starving</style>",
+    "vi": "<style=DefaultRed>Dân làng đang chết đói!</style>"
+  },
+  {
+    "key": "warning_message_short_Idle",
+    "type": 0,
+    "en": "Settlers are idle",
+    "vi": "Dân làng đang rảnh rỗi"
+  },
+  {
+    "key": "warning_message_short_LowStockpileFood",
+    "type": 0,
+    "en": "Food reserves on stockpile low",
+    "vi": "Kho lương thực sắp cạn kiệt"
+  },
+  {
+    "key": "warning_message_short_MissingBed",
+    "type": 0,
+    "en": "Not enough beds",
+    "vi": "Thiếu giường ngủ"
+  },
+  {
+    "key": "warning_message_short_Sleep",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are exhausted</style>",
+    "vi": "<style=DefaultRed>Dân làng kiệt sức vì thiếu ngủ!</style>"
+  },
+  {
+    "key": "warning_message_short_Warmth",
+    "type": 0,
+    "en": "Settlers are suffering from excessive heat",
+    "vi": "Dân làng đang bị say nắng quá mức"
+  },
+  {
+    "key": "warning_message_short_MissingStockpile",
+    "type": 0,
+    "en": "Nowhere to store resources",
+    "vi": "Chưa có bãi chứa tài nguyên"
+  },
+  {
+    "key": "warning_message_info_MissingStockpile",
+    "type": 0,
+    "en": "Place a stockpile so that your settlers have somewhere to store resource piles.",
+    "vi": "Hãy quy hoạch một bãi chứa để dân làng có nơi lưu trữ tài nguyên thu gom được."
+  },
+  {
+    "key": "warning_message_short_MealProduction",
+    "type": 0,
+    "en": "Meal preparation missing",
+    "vi": "Chưa có nơi nấu ăn"
+  },
+  {
+    "key": "warning_message_info_MealProduction",
+    "type": 0,
+    "en": "Construct a workstation that turns raw food into meals, like a campfire or a stove. \\nMeals can improve your settlers' mood.",
+    "vi": "Hãy xây dựng bếp nấu (như lửa trại hoặc bếp lò) để chế biến nguyên liệu thô thành những bữa ăn ngon lành. \\nNhững bữa ăn chín sẽ giúp cải thiện tâm trạng của dân làng."
+  },
+  {
+    "key": "warning_message_short_Recreation",
+    "type": 0,
+    "en": "Leisure activities",
+    "vi": "Nhu cầu giải trí"
+  },
+  {
+    "key": "warning_message_info_Recreation",
+    "type": 0,
+    "en": "Be sure to give your settlers leisure time activities.\\n\\nThere are several activities available.\\n\\nReligious - Depending on religious alignment, your settlers will want to pray at a shrine, Oak Brethren Temple or Restitutionist Chapel.\\n\\nDrinking - Settlers love to wind down with a pint of ale (some more than others)\\n\\nGames - games like backgammon will give your settlers a pastime.\\n\\nInspect the stats and mood tabs in the settler selection screen for more info.",
+    "vi": "Hãy đảm bảo dân làng có thời gian dành cho các hoạt động thư giãn giải trí.\\n\\nCó nhiều hình thức giải trí trong khu định cư:\\n\\nTôn giáo - Tùy theo đức tin, dân làng sẽ muốn cầu nguyện tại đền thờ Huynh Đệ Cây Sồi hoặc nhà nguyện Hội Phục Hưng.\\n\\nUống rượu - Dân làng rất thích nhâm nhi cốc rượu ngon sau giờ làm việc vất vả.\\n\\nTrò chơi - Các trò chơi như cờ thỏ cáo sẽ mang lại niềm vui tiêu khiển.\\n\\nXem tab Chỉ số và Tâm trạng của từng dân làng để nắm rõ chi tiết."
+  },
+  {
+    "key": "warning_message_short_ResearchBench",
+    "type": 0,
+    "en": "Research table missing",
+    "vi": "Chưa có bàn nghiên cứu"
+  },
+  {
+    "key": "warning_message_info_ResearchBench",
+    "type": 0,
+    "en": "Construct a Basic Research Table to unlock new research items.",
+    "vi": "Hãy dựng Bàn Nghiên Cứu Cơ Bản để bắt đầu mở khóa các công nghệ mới."
+  },
+  {
+    "key": "warning_message_short_AvailableResearch",
+    "type": 0,
+    "en": "Research available (<research_count>)",
+    "vi": "Có thể mở khóa nghiên cứu mới (<research_count>)"
+  },
+  {
+    "key": "warning_message_info_AvailableResearch",
+    "type": 0,
+    "en": "You have the available knowledge to unlock new research items",
+    "vi": "Bạn đã tích lũy đủ sách biên niên sử để mở khóa các công nghệ nghiên cứu mới!"
+  },
+  {
+    "key": "warning_message_short_WinterClothes",
+    "type": 0,
+    "en": "Winter is approaching",
+    "vi": "Mùa đông buốt giá đang đến gần"
+  },
+  {
+    "key": "warning_message_info_WinterClothes",
+    "type": 0,
+    "en": "Prepare for chilly weather by equipping your settlers with warm clothes.\\n\\nTailor some winter clothing at the sewing station",
+    "vi": "Hãy chuẩn bị đối phó với mùa đông lạnh giá bằng cách trang bị áo ấm cho toàn bộ dân làng.\\n\\nMay trang phục mùa đông dày tại bàn may vá"
+  },
+  {
+    "key": "warning_message_short_Unconscious",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are unconscious</style>",
+    "vi": "<style=DefaultRed>Dân làng đã bất tỉnh!</style>"
+  },
+  {
+    "key": "warning_message_info_Unconscious",
+    "type": 0,
+    "en": "Your settlers are unconscious. This could be due to injuries or lack of sleep. Send another settler to bring them to a bed where they can recover.",
+    "vi": "Dân làng của bạn đã bị ngất lịm! Nguyên nhân có thể do trọng thương hoặc kiệt sức. Hãy cử một dân làng khác đến khiêng họ về giường để chữa trị hồi phục."
+  },
+  {
+    "key": "warning_message_short_NeedTending",
+    "type": 0,
+    "en": "<style=DefaultRed>Settler wounds need tending</style>",
+    "vi": "<style=DefaultRed>Vết thương cần được băng bó gấp!</style>"
+  },
+  {
+    "key": "warning_message_info_NeedTending",
+    "type": 0,
+    "en": "Your settlers are wounded.\\n\\nTo tend their wounds, the settlers must convalesce or be carried unconscious to bed by another settler.\\n\\nOnly then can a settler with a tending job see to the wounds.",
+    "vi": "Dân làng của bạn đang bị thương tật.\\n\\nĐể được trị thương, dân làng phải ở trạng thái dưỡng thương hoặc được khiêng về giường bệnh.\\n\\nSau đó, người được phân công việc Chăm sóc y tế mới có thể đến băng bó vết thương."
+  },
+  {
+    "key": "warning_message_short_DefensiveStructure",
+    "type": 0,
+    "en": "Build up your defences",
+    "vi": "Hãy củng cố hệ thống phòng thủ"
+  },
+  {
+    "key": "warning_message_info_DefensiveStructure",
+    "type": 0,
+    "en": "Construct defensive structures like merlons and traps to prepare for potential raider attacks.",
+    "vi": "Hãy xây dựng các công trình phòng thủ kiên cố như tường răng cưa và bẫy rập để sẵn sàng đẩy lùi các đợt tấn công của giặc cướp."
+  },
+  {
+    "key": "warning_choose_village_name",
+    "type": 0,
+    "en": "Please choose settlement name",
+    "vi": "Vui lòng đặt tên cho khu định cư"
+  },
+  {
+    "key": "warning_village_name_exists",
+    "type": 0,
+    "en": "Settlement name already exists in save file",
+    "vi": "Tên khu định cư này đã tồn tại trong file lưu"
+  },
+  {
+    "key": "warning_message_short_UnarmedVillagers",
+    "type": 0,
+    "en": "Settlers are unarmed",
+    "vi": "Dân làng chưa có vũ khí"
+  },
+  {
+    "key": "warning_message_info_UnarmedVillagers",
+    "type": 0,
+    "en": "Arm your settlers so they can defend themselves if attacked. ",
+    "vi": "Hãy trang bị vũ khí cho dân làng để họ có khả năng tự vệ khi bị kẻ địch tấn công. "
+  },
+  {
+    "key": "warning_message_info_AttackCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Hãy lệnh cho dân làng sẵn sàng chiến đấu, quân đoàn <faction_name> đang rầm rộ kéo đến!"
+  },
+  {
+    "key": "warning_message_short_AttackCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>Attackers approaching.</style>",
+    "vi": "<style=DefaultRed>Kẻ đột kích đang áp sát!</style>"
+  },
+  {
+    "key": "warning_message_short_trader",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Thương nhân"
+  },
+  {
+    "key": "warning_message_info_trader",
+    "type": 0,
+    "en": "To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the  <b>Barter with</b> option.",
+    "vi": "Để bắt đầu giao dịch với thương nhân, hãy chọn một dân làng rồi <sprite=\"ctrl_right_click\" index=t> vào thương nhân và chọn tùy chọn <b>Trao đổi với</b>."
+  },
+  {
+    "key": "warning_message_short_caravan",
+    "type": 0,
+    "en": "Caravan is at destination",
+    "vi": "Thương đoàn đã đến đích"
+  },
+  {
+    "key": "warning_message_short_trader_cant_leave",
+    "type": 0,
+    "en": "<style=DefaultRed>Visitors can't leave</style>",
+    "vi": "<style=DefaultRed>Khách phương xa không thể rời đi!</style>"
+  },
+  {
+    "key": "warning_message_info_trader_cant_leave",
+    "type": 0,
+    "en": "Visitors can't leave due to being locked or walled in. If you don’t let them go, your settlement's alignment with <faction_name> will decrease.",
+    "vi": "Khách phương xa không thể rời khỏi khu định cư do bị cửa khóa hoặc tường thành chặn đường. Nếu bạn không mở lối cho họ, uy tín của khu định cư với <faction_name> sẽ bị sụt giảm."
+  },
+  {
+    "key": "warning_message_short_Suffocating",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are suffocating</style>",
+    "vi": "<style=DefaultRed>Dân làng đang bị ngạt thở!</style>"
+  },
+  {
+    "key": "warning_message_info_Suffocating",
+    "type": 0,
+    "en": "Settlers cannot breathe in this environment. Remove them quickly, before they run out of air and die.",
+    "vi": "Dân làng không thể hô hấp trong môi trường độc hại này! Hãy nhanh chóng di chuyển họ ra ngoài trước khi cạn dưỡng khí và tử vong."
+  },
+  {
+    "key": "warning_message_short_role_possible",
+    "type": 0,
+    "en": "Eligible for Role",
+    "vi": "Đủ điều kiện sắc phong chức vụ"
+  },
+  {
+    "key": "warning_message_info_role_possible",
+    "type": 0,
+    "en": "One or more of your settlers have the prerequisites to be given a special community role in your settlement. ",
+    "vi": "Một hoặc nhiều dân làng đã đạt đủ tiêu chuẩn để đảm nhận chức vụ đặc biệt trong cộng đồng khu định cư. "
+  },
+  {
+    "key": "warning_message_short_role_hour",
+    "type": 0,
+    "en": "Role Duties Schedule",
+    "vi": "Thời gian biểu thực thi chức vụ"
+  },
+  {
+    "key": "warning_message_info_role_hour",
+    "type": 0,
+    "en": "One or more settlers have role duties scheduled during the day, but have no role assigned to them. Assign a role to them or replace the role duty hours with another activity. ",
+    "vi": "Một hoặc nhiều dân làng có lịch làm nhiệm vụ chức vụ nhưng bản thân lại chưa được sắc phong chức vụ nào. Hãy bổ nhiệm chức vụ cho họ hoặc chuyển đổi khung giờ đó sang công việc khác. "
+  },
+  {
+    "key": "warning_message_short_no_role_hour",
+    "type": 0,
+    "en": "Role Duties Schedule Missing",
+    "vi": "Thiếu thời gian biểu thực thi chức vụ"
+  },
+  {
+    "key": "warning_message_info_no_role_hour",
+    "type": 0,
+    "en": "One or more of your settlers with assigned roles don't have role-appointed hours. Some roles need role-appointed hours for role-specific tasks.",
+    "vi": "Một hoặc nhiều dân làng đã được phong chức nhưng chưa được sắp xếp khung giờ thực thi nhiệm vụ trong lịch làm việc. Một số chức vụ bắt buộc phải có giờ riêng để hoàn thành bổn phận."
+  },
+  {
+    "key": "warning_message_short_event_possible",
+    "type": 0,
+    "en": "Hold an Event",
+    "vi": "Có thể tổ chức sự kiện"
+  },
+  {
+    "key": "warning_message_info_event_possible",
+    "type": 0,
+    "en": "One or more event types are available to your settlement. Select the appropriate structure to initiate an event there.",
+    "vi": "Khu định cư của bạn đã đủ điều kiện tổ chức các sự kiện đặc biệt. Hãy chọn công trình phù hợp để cử hành sự kiện."
+  },
+  {
+    "key": "warning_message_short_prison_cell",
+    "type": 0,
+    "en": "<style=DefaultRed>Prison Cell Missing</style>",
+    "vi": "<style=DefaultRed>Chưa có phòng giam tù nhân!</style>"
+  },
+  {
+    "key": "warning_message_info_prison_cell",
+    "type": 0,
+    "en": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell",
+    "vi": "Chưa có căn phòng nào được quy hoạch làm phòng giam. Hãy đặt cột giam tù nhân và rương đồ vào phòng kín bất kỳ để biến nơi đó thành phòng giam."
+  },
+  {
+    "key": "warning_message_short_prisoner_run",
+    "type": 0,
+    "en": "<style=DefaultRed>Runaway!</style>",
+    "vi": "<style=DefaultRed>Tù nhân đang vượt ngục!</style>"
+  },
+  {
+    "key": "warning_message_info_prisoner_run",
+    "type": 0,
+    "en": "Prisoners are running away! Order your gaolers to capture them. If runaways reach the edge of the map, they will be gone.",
+    "vi": "Tù nhân đang liều mạng bỏ trốn! Hãy khẩn cấp ra lệnh cho cai ngục truy bắt lại. Nếu kẻ đào tẩu chạy thoát tới mép bản đồ, chúng sẽ biến mất vĩnh viễn."
+  },
+  {
+    "key": "warning_message_short_gaoler_missing",
+    "type": 0,
+    "en": "Gaoler Needed",
+    "vi": "Cần bổ nhiệm Cai ngục"
+  },
+  {
+    "key": "warning_message_info_gaoler_missing",
+    "type": 0,
+    "en": "You have prisoners but no Gaoler. This means food will not be delivered to prisoners, nor will thay be escorted to their cells. Assign this job to one or more of your settlers. ",
+    "vi": "Bạn đang giam giữ tù nhân nhưng chưa phân công Cai ngục. Tù nhân sẽ không được phát cơm cũng như không được áp giải về phòng giam. Hãy phân công việc này cho một hoặc nhiều dân làng. "
+  },
+  {
+    "key": "warning_message_short_crop_blight",
+    "type": 0,
+    "en": "<style=DefaultRed>Blighted crops</style>",
+    "vi": "<style=DefaultRed>Dịch bệnh hại cây trồng bùng phát!</style>"
+  },
+  {
+    "key": "warning_message_info_crop_blight",
+    "type": 0,
+    "en": "Order your settlers to cut down spoiled crops before the blight spreads.",
+    "vi": "Hãy khẩn cấp ra lệnh cho dân làng chặt bỏ những cây trồng bị nhiễm bệnh trước khi dịch bệnh lây lan phá hủy cả cánh đồng."
+  },
+  {
+    "key": "warning_message_short_fire",
+    "type": 0,
+    "en": "<style=DefaultRed>Fire!</style>",
+    "vi": "<style=DefaultRed>Hỏa hoạn bùng phát!</style>"
+  },
+  {
+    "key": "warning_message_info_fire",
+    "type": 0,
+    "en": "A fire has broken out! Extinguish the flames before they spread and damage your settlement.",
+    "vi": "Ngọn lửa hung tàn đang bùng cháy dữ dội! Hãy huy động dân làng dập lửa ngay trước khi đám cháy lan rộng thiêu rụi khu định cư."
+  },
+  {
+    "key": "warning_message_short_enemy_siege",
+    "type": 0,
+    "en": "<style=DefaultRed>Enemy Siege Weapons!</style>",
+    "vi": "<style=DefaultRed>Vũ khí công thành của địch xuất hiện!</style>"
+  },
+  {
+    "key": "warning_message_info_enemy_siege",
+    "type": 0,
+    "en": "Enemies have one or more siege weapons. Try to destroy them with your own siege weapons or try to disable them by taking out the enemy that is operating it",
+    "vi": "Kẻ địch đã triển khai một hoặc nhiều cỗ máy công thành uy lực! Hãy dùng vũ khí công thành của bạn để phá hủy chúng từ xa, hoặc điều quân tiêu diệt những tên lính đang vận hành cỗ máy."
+  },
+  {
+    "key": "warning_message_pass_through_destroyed",
+    "type": 0,
+    "en": "Fence Breach!",
+    "vi": "Hàng rào phòng thủ bị phá vỡ!"
+  },
+  {
+    "key": "warning_message_info_pass_through_destroyed",
+    "type": 0,
+    "en": "Someone or something has pulled down your fence",
+    "vi": "Có kẻ thù hoặc dã thú vừa húc đổ hàng rào phòng thủ của bạn!"
+  },
+  {
+    "key": "warning_message_short_EndGameEvent",
+    "type": 0,
+    "en": "Endgame Event",
+    "vi": "Sự kiện hồi kết"
+  },
+  {
+    "key": "warning_message_info_EndGameEvent",
+    "type": 0,
+    "en": "You have triggered the endgame event. Soon, others will arrive to play their parts as you fulfil your destiny.",
+    "vi": "Bạn đã kích hoạt sự kiện hồi kết định mệnh. Chẳng bao lâu nữa, các thế lực lớn sẽ kéo đến để định đoạt vận mệnh của khu định cư."
+  },
+  {
+    "key": "warning_message_warden_recruit",
+    "type": 0,
+    "en": "Cannot Recruit Prisoner",
+    "vi": "Không thể cảm hóa chiêu mộ tù nhân"
+  },
+  {
+    "key": "warning_message_info_warden_recruit",
+    "type": 0,
+    "en": "Assign a settler the Prison Warden role. They will try to recruit prisoners to become villagers in your settlement. The Warden will try this only during role appointed hours.",
+    "vi": "Hãy sắc phong chức vụ Cai ngục cho một dân làng. Cai ngục sẽ tìm cách thuyết phục và cảm hóa tù nhân tự nguyện gia nhập khu định cư. Việc cảm hóa chỉ diễn ra trong khung giờ làm việc của chức vụ."
+  },
+  {
+    "key": "warning_message_short_beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "warning_message_info_beggar",
+    "type": 0,
+    "en": "A beggar arrived and is roaming your settlement ",
+    "vi": "Một kẻ ăn xin rách rưới vừa đến và đang lang thang xin ăn trong khu định cư "
+  },
+  {
+    "key": "warning_message_short_map_markers_available",
+    "type": 0,
+    "en": "Points of interest available",
+    "vi": "Có địa điểm khám phá mới"
+  },
+  {
+    "key": "warning_message_info_map_markers_available",
+    "type": 0,
+    "en": "You have various points of interest marked on your regional map",
+    "vi": "Đã có nhiều địa điểm quan trọng được đánh dấu và xuất hiện trên bản đồ toàn vùng"
+  },
+  {
+    "key": "warning_message_tooltip_map_markers_available",
+    "type": 0,
+    "en": "Points of interest on regional map: ",
+    "vi": "Các địa điểm đáng chú ý trên bản đồ vùng: "
+  },
+  {
+    "key": "warning_message_short_ambush",
+    "type": 0,
+    "en": "<style=DefaultRed>Ambush</style>",
+    "vi": "<style=DefaultRed>Thương đoàn bị phục kích!</style>"
+  },
+  {
+    "key": "warning_message_info_ambush",
+    "type": 0,
+    "en": "One of your caravans is under attack. Choose what to do, or the caravan will automatically surrender when the time's up.",
+    "vi": "Một thương đoàn của bạn đang bị giặc cướp mai phục tấn công! Hãy nhanh chóng ra quyết định tác chiến, nếu không thương đoàn sẽ buộc phải đầu hàng khi hết thời gian đếm ngược."
+  },
+  {
+    "key": "warning_message_short_caravan_leave",
+    "type": 0,
+    "en": "Caravan must depart",
+    "vi": "Thương đoàn phải xuất phát"
+  },
+  {
+    "key": "warning_message_info_caravan_leave",
+    "type": 0,
+    "en": "Your caravan must keep moving. When the timer runs out, your settler will be sent back home. ",
+    "vi": "Thương đoàn của bạn không thể nán lại lâu hơn và phải tiếp tục hành trình. Khi hết giờ đếm ngược, dân làng sẽ tự động lên đường trở về nhà. "
+  },
+  {
+    "key": "warning_message_short_visitor",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Khách phương xa"
+  },
+  {
+    "key": "warning_message_info_visitor",
+    "type": 0,
+    "en": "<village_name> has a visitor from a friendly or neutral faction. If they hold a community role, you can hold a special event relevant to their expertise. Inviting them gives a better quality experience.",
+    "vi": "<village_name> vừa đón tiếp một vị khách quý từ phe đồng minh hoặc trung lập. Nếu họ có chức vụ cộng đồng, bạn có thể tổ chức sự kiện đặc thù đúng chuyên môn của họ để nâng cao uy tín."
+  },
+  {
+    "key": "warning_message_short_NegotiationCountdown",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Sứ giả đàm phán"
+  },
+  {
+    "key": "warning_message_info_NegotiationCountdown",
+    "type": 0,
+    "en": "A negotiator has arrived at the edge of your settlement. Send a settler to speak with [him/her]. To initiate negotiation, select a settler and <sprite=\"ctrl_right_click\" index=t> on the negotiator, then select the  <b>Negotiate with</b> option.",
+    "vi": "Một sứ giả đàm phán vừa đến rìa khu định cư. Hãy cử dân làng ra nghênh đón và đối thoại với [him/her]. Để bắt đầu, chọn một dân làng rồi <sprite=\"ctrl_right_click\" index=t> vào sứ giả và chọn <b>Đàm phán với</b>."
+  },
+  {
+    "key": "info_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Nhiệt độ"
+  },
+  {
+    "key": "dev_warning_messages",
+    "type": 0,
+    "en": "Warning Messages",
+    "vi": "Thông báo cảnh báo"
+  },
+  {
+    "key": "dev_create_warning",
+    "type": 0,
+    "en": "Create Warning Messages",
+    "vi": "Tạo thông báo cảnh báo"
+  },
+  {
+    "key": "dev_update_warning",
+    "type": 0,
+    "en": "Update Warnings",
+    "vi": "Cập nhật cảnh báo"
+  },
+  {
+    "key": "dev_remove_warning",
+    "type": 0,
+    "en": "Remove Warnings",
+    "vi": "Xóa cảnh báo"
+  },
+  {
+    "key": "dev_tooltip_create_warning_messages",
+    "type": 0,
+    "en": "Creates random Warning messages.",
+    "vi": "Tạo các thông báo cảnh báo ngẫu nhiên."
+  },
+  {
+    "key": "dev_tooltip_test_update_warnings",
+    "type": 0,
+    "en": "Updates warning Messages.",
+    "vi": "Cập nhật các thông báo cảnh báo."
+  },
+  {
+    "key": "dev_tooltip_test_remove_warnings",
+    "type": 0,
+    "en": "Removes all warning Messages momentarily.",
+    "vi": "Xóa tạm thời tất cả các thông báo cảnh báo."
+  }
+]

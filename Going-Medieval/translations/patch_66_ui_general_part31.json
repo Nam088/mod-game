@@ -1,0 +1,614 @@
+[
+  {
+    "key": "dev_toggle_altCamera",
+    "type": 0,
+    "en": "",
+    "vi": ""
+  },
+  {
+    "key": "dev_fill_storage",
+    "type": 0,
+    "en": "Fill Storage",
+    "vi": "Lấp đầy kho chứa"
+  },
+  {
+    "key": "dev_tooltip_fill_storage",
+    "type": 0,
+    "en": "Fills storage on click with random allowed piles and destroy old ones.",
+    "vi": "Lấp đầy kho chứa bằng các chồng tài nguyên hợp lệ ngẫu nhiên và hủy các đống cũ khi nhấp chuột."
+  },
+  {
+    "key": "dev_health",
+    "type": 0,
+    "en": "Health",
+    "vi": "Sức khỏe"
+  },
+  {
+    "key": "dev_hunger",
+    "type": 0,
+    "en": "Hunger",
+    "vi": "Cơn đói"
+  },
+  {
+    "key": "dev_worker_stats",
+    "type": 0,
+    "en": "Settler Stats",
+    "vi": "Chỉ số dân làng"
+  },
+  {
+    "key": "dev_sleep",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Giấc ngủ"
+  },
+  {
+    "key": "dev_refresh_stability_water",
+    "type": 0,
+    "en": "Refresh Water Stability",
+    "vi": "Làm mới độ ổn định của nước"
+  },
+  {
+    "key": "dev_tooltip_refresh_stability_water",
+    "type": 0,
+    "en": "Refreshes water stability on the map.",
+    "vi": "Làm mới lại cơ chế độ ổn định của nước trên bản đồ."
+  },
+  {
+    "key": "dev_world_map",
+    "type": 0,
+    "en": "World Map",
+    "vi": "Bản đồ thế giới"
+  },
+  {
+    "key": "dev_spawn_map_marker",
+    "type": 0,
+    "en": "Spawn Map Marker",
+    "vi": "Tạo đánh dấu bản đồ"
+  },
+  {
+    "key": "dev_spawn_world_marker_tooltip",
+    "type": 0,
+    "en": "Spawn map marker on the world map of the chosen type",
+    "vi": "Tạo một điểm đánh dấu trên bản đồ thế giới theo loại đã chọn"
+  },
+  {
+    "key": "dev_commander_ai",
+    "type": 0,
+    "en": "Commander AI",
+    "vi": "AI Chỉ huy"
+  },
+  {
+    "key": "dev_tooltip_commander_ai",
+    "type": 0,
+    "en": "Play around with commander AI tools",
+    "vi": "Trải nghiệm các công cụ AI Chỉ huy"
+  },
+  {
+    "key": "dev_create_commander_from_all",
+    "type": 0,
+    "en": "Create from all enemies",
+    "vi": "Tạo từ toàn bộ kẻ thù"
+  },
+  {
+    "key": "dev_tooltip_create_commander_from_all",
+    "type": 0,
+    "en": "Creates a Commander AI group from all enemies on the map",
+    "vi": "Tạo một nhóm AI Chỉ huy từ toàn bộ kẻ thù trên bản đồ"
+  },
+  {
+    "key": "dev_enable_manual_commander_input",
+    "type": 0,
+    "en": "Manual Input",
+    "vi": "Điều khiển thủ công"
+  },
+  {
+    "key": "dev_tooltip_enable_manual_commander_input",
+    "type": 0,
+    "en": "Sets the first commander agent to the debug manual input one",
+    "vi": "Đặt đặc vụ chỉ huy đầu tiên sang chế độ gỡ lỗi điều khiển thủ công"
+  },
+  {
+    "key": "dev_enable_manual_dig_commander_input",
+    "type": 0,
+    "en": "Manual Dig Input",
+    "vi": "Lệnh đào thủ công"
+  },
+  {
+    "key": "dev_tooltip_enable_manual_dig_commander_input",
+    "type": 0,
+    "en": "Sets the first commander agent to the debug manual dig one",
+    "vi": "Đặt đặc vụ chỉ huy đầu tiên sang chế độ gỡ lỗi đào thủ công"
+  },
+  {
+    "key": "dev_voxel",
+    "type": 0,
+    "en": "Voxel",
+    "vi": "Khối Voxel"
+  },
+  {
+    "key": "dev_instant_cut_off",
+    "type": 0,
+    "en": "Instant Cut: Off",
+    "vi": "Chặt hạ tức thì: Tắt"
+  },
+  {
+    "key": "dev_instant_cut_on",
+    "type": 0,
+    "en": "Instant Cut: On",
+    "vi": "Chặt hạ tức thì: Bật"
+  },
+  {
+    "key": "dev_tooltip_instant_cut",
+    "type": 0,
+    "en": "Turns on or off instant cutting of plants when using the Cut command",
+    "vi": "Bật hoặc tắt tính năng chặt hạ thực vật tức thì khi dùng lệnh Chặt"
+  },
+  {
+    "key": "dev_crops",
+    "type": 0,
+    "en": "Crops",
+    "vi": "Cây trồng"
+  },
+  {
+    "key": "dev_force_crop_harvest_phase_off",
+    "type": 0,
+    "en": "Force Harvest Phase: Off",
+    "vi": "Buộc vào giai đoạn thu hoạch: Tắt"
+  },
+  {
+    "key": "dev_force_crop_harvest_phase_on",
+    "type": 0,
+    "en": "Force Harvest Phase: On",
+    "vi": "Buộc vào giai đoạn thu hoạch: Bật"
+  },
+  {
+    "key": "dev_fuel",
+    "type": 0,
+    "en": "Fuel",
+    "vi": "Nhiên liệu"
+  },
+  {
+    "key": "dev_regions",
+    "type": 0,
+    "en": "Regions",
+    "vi": "Khu vực"
+  },
+  {
+    "key": "dev_pathfinding",
+    "type": 0,
+    "en": "Pathfinding",
+    "vi": "Tìm đường đi"
+  },
+  {
+    "key": "dev_fish",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Loài cá"
+  },
+  {
+    "key": "dev_second_map",
+    "type": 0,
+    "en": "Secondary Maps",
+    "vi": "Bản đồ phụ"
+  },
+  {
+    "key": "dev_second_map_timer_on",
+    "type": 0,
+    "en": "Second Map Timer: On",
+    "vi": "Hẹn giờ bản đồ phụ: Bật"
+  },
+  {
+    "key": "dev_second_map_timer_off",
+    "type": 0,
+    "en": "Second Map Timer: Off",
+    "vi": "Hẹn giờ bản đồ phụ: Tắt"
+  },
+  {
+    "key": "dev_tooltip_second_map_timer",
+    "type": 0,
+    "en": "Disable/enable the second map timer.",
+    "vi": "Bật/Tắt bộ đếm thời gian của bản đồ phụ."
+  },
+  {
+    "key": "dev_ambush_caravan",
+    "type": 0,
+    "en": "Force Caravan Ambush",
+    "vi": "Kích hoạt phục kích đoàn buôn"
+  },
+  {
+    "key": "dev_ambush_caravan_tooltip",
+    "type": 0,
+    "en": "Forces ambush on an active caravan",
+    "vi": "Buộc xảy ra phục kích đối với một đoàn buôn đang hoạt động"
+  },
+  {
+    "key": "dev_toggle_tooltips_on",
+    "type": 0,
+    "en": "Tooltips: On",
+    "vi": "Chú giải công cụ: Bật"
+  },
+  {
+    "key": "dev_toggle_tooltips_off",
+    "type": 0,
+    "en": "Tooltips: Off",
+    "vi": "Chú giải công cụ: Tắt"
+  },
+  {
+    "key": "dev_tooltip_toggle_tooltips",
+    "type": 0,
+    "en": "Toggles tooltips on and off",
+    "vi": "Bật và tắt hiển thị chú giải công cụ"
+  },
+  {
+    "key": "dev_rotation",
+    "type": 0,
+    "en": "Rotation",
+    "vi": "Xoay góc"
+  },
+  {
+    "key": "dev_kill_all_workers_but_one",
+    "type": 0,
+    "en": "Kill All But 1 Settler",
+    "vi": "Giết toàn bộ chỉ giữ lại 1 dân làng"
+  },
+  {
+    "key": "dev_tooltip_kill_all_workers_but_one",
+    "type": 0,
+    "en": "Kills all settlers except 1.",
+    "vi": "Giết toàn bộ dân làng ngoại trừ 1 người duy nhất."
+  },
+  {
+    "key": "dev_grass_chunks_checkerboard",
+    "type": 0,
+    "en": "Checkerboard Grass",
+    "vi": "Cỏ bàn cờ"
+  },
+  {
+    "key": "dev_tooltip_grass_chunks_checkerboard",
+    "type": 0,
+    "en": "Turns grass into a checkerboard pattern. Non-reversible. Dev only.",
+    "vi": "Biến thảm cỏ thành họa tiết bàn cờ. Không thể hoàn tác. Chỉ dành cho gỡ lỗi."
+  },
+  {
+    "key": "religious_influence_50",
+    "type": 0,
+    "en": "Restitution +50",
+    "vi": "Phục Hưng +50"
+  },
+  {
+    "key": "religious_influence_100",
+    "type": 0,
+    "en": "Restitution +100",
+    "vi": "Phục Hưng +100"
+  },
+  {
+    "key": "pagan_influence_50",
+    "type": 0,
+    "en": "Oak Brethren +50",
+    "vi": "Huynh Đệ Cây Sồi +50"
+  },
+  {
+    "key": "pagan_influence_100",
+    "type": 0,
+    "en": "Oak Brethren +100",
+    "vi": "Huynh Đệ Cây Sồi +100"
+  },
+  {
+    "key": "military_influence_50",
+    "type": 0,
+    "en": "Military +50",
+    "vi": "Quân sự +50"
+  },
+  {
+    "key": "military_influence_100",
+    "type": 0,
+    "en": "Military +100",
+    "vi": "Quân sự +100"
+  },
+  {
+    "key": "trade_influence_50",
+    "type": 0,
+    "en": "Mercantile +50",
+    "vi": "Thương mại +50"
+  },
+  {
+    "key": "trade_influence_100",
+    "type": 0,
+    "en": "Mercantile +100",
+    "vi": "Thương mại +100"
+  },
+  {
+    "key": "cultural_influence_50",
+    "type": 0,
+    "en": "Intellectual +50",
+    "vi": "Học thức +50"
+  },
+  {
+    "key": "cultural_influence_100",
+    "type": 0,
+    "en": "Intellectual +100",
+    "vi": "Học thức +100"
+  },
+  {
+    "key": "infamy_50",
+    "type": 0,
+    "en": "Infamy +50",
+    "vi": "Tai tiếng +50"
+  },
+  {
+    "key": "infamy_100",
+    "type": 0,
+    "en": "Infamy +100",
+    "vi": "Tai tiếng +100"
+  },
+  {
+    "key": "dev_event_twitch_thunder",
+    "type": 0,
+    "en": "Twitch Thunder",
+    "vi": "Sấm sét Twitch"
+  },
+  {
+    "key": "dev_event_rats_pest",
+    "type": 0,
+    "en": "Rat Infestation",
+    "vi": "Đại dịch chuột hoành hành"
+  },
+  {
+    "key": "dev_event_all_dead_second_map",
+    "type": 0,
+    "en": "All is Lost (Secondary Map)",
+    "vi": "Tất cả đã mất (Bản đồ phụ)"
+  },
+  {
+    "key": "dev_event_beggar",
+    "type": 0,
+    "en": "A beggar in need",
+    "vi": "Kẻ ăn xin cơ nhỡ"
+  },
+  {
+    "key": "game_event_type_nuisance",
+    "type": 0,
+    "en": "Nuisance ",
+    "vi": "Phiền toái quấy rối"
+  },
+  {
+    "key": "game_event_type_grand_objective",
+    "type": 0,
+    "en": "Grand Objective",
+    "vi": "Mục tiêu lớn"
+  },
+  {
+    "key": "dev_event_religious_final",
+    "type": 0,
+    "en": "Centre Of Pilgrimage",
+    "vi": "Trung tâm hành hương"
+  },
+  {
+    "key": "dev_event_pagan_final",
+    "type": 0,
+    "en": "Pagan Sanctuary",
+    "vi": "Thánh địa ngoại giáo"
+  },
+  {
+    "key": "dev_event_intellectual_final",
+    "type": 0,
+    "en": "New University",
+    "vi": "Đại học mới"
+  },
+  {
+    "key": "dev_event_trade_final",
+    "type": 0,
+    "en": "Charter Fair",
+    "vi": "Hội chợ đặc quyền"
+  },
+  {
+    "key": "dev_event_uncover_relic_location",
+    "type": 0,
+    "en": "Uncover Relic",
+    "vi": "Phát hiện thánh tích"
+  },
+  {
+    "key": "dev_event_uncover_mighty_oak_location",
+    "type": 0,
+    "en": "Uncover Mighty Oak",
+    "vi": "Phát hiện Cây Sồi Đại Ngàn"
+  },
+  {
+    "key": "dev_event_uncover_grand_research_table_location",
+    "type": 0,
+    "en": "Uncover Grand Research Table",
+    "vi": "Phát hiện Bàn Nghiên Cứu Lớn"
+  },
+  {
+    "key": "dev_event_pilgrims_visit_relic",
+    "type": 0,
+    "en": "Pilgrims Visit Relic",
+    "vi": "Hành hương viếng thánh tích"
+  },
+  {
+    "key": "dev_event_pilgrims_visit_mighty_oak",
+    "type": 0,
+    "en": "Pilgrims Visit Mighty Oak",
+    "vi": "Hành hương viếng Cây Sồi Đại Ngàn"
+  },
+  {
+    "key": "dev_event_uncover_trade_deal_location",
+    "type": 0,
+    "en": "Uncover Trade Deal",
+    "vi": "Phát hiện giao dịch thương mại"
+  },
+  {
+    "key": "dev_event_end_game",
+    "type": 0,
+    "en": "And so it ends",
+    "vi": "Hồi kết đã điểm"
+  },
+  {
+    "key": "dev_event_group_CellarFlood",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Hầm ngập nước"
+  },
+  {
+    "key": "dev_event_group_VisitorBeggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn xin"
+  },
+  {
+    "key": "dev_event_gorup_UncoverPilgrimRelicLocation",
+    "type": 0,
+    "en": "Uncover Relic Location",
+    "vi": "Phát hiện vị trí thánh tích"
+  },
+  {
+    "key": "dev_event_gorup_TradeDealBroker",
+    "type": 0,
+    "en": "Uncover Trade Deal Location",
+    "vi": "Phát hiện vị trí giao dịch thương mại"
+  },
+  {
+    "key": "dev_event_gorup_UncoverMightyOakLocation",
+    "type": 0,
+    "en": "Uncover Mighty Oak Location",
+    "vi": "Phát hiện vị trí Cây Sồi Đại Ngàn"
+  },
+  {
+    "key": "dev_event_gorup_UncoverGrandREsearchDeskLocation",
+    "type": 0,
+    "en": "Uncover Grand Research Table Location",
+    "vi": "Phát hiện vị trí Bàn Nghiên Cứu Lớn"
+  },
+  {
+    "key": "dev_event_gorup_PilgrimRelicVisitor",
+    "type": 0,
+    "en": "Relic Pilgrim Visitor",
+    "vi": "Khách hành hương viếng thánh tích"
+  },
+  {
+    "key": "dev_event_gorup_PilgrimMightyOakVisitor",
+    "type": 0,
+    "en": "Mighty Oak Pilgrim Visitor",
+    "vi": "Khách hành hương viếng Cây Sồi Đại Ngàn"
+  },
+  {
+    "key": "dev_finish_all_blueprints",
+    "type": 0,
+    "en": "Finish All Blueprints",
+    "vi": "Hoàn tất toàn bộ bản vẽ"
+  },
+  {
+    "key": "dev_tooltip_finish_all_blueprints",
+    "type": 0,
+    "en": "Turns all stable blueprints into buildings",
+    "vi": "Biến toàn bộ bản vẽ ổn định thành công trình hoàn chỉnh"
+  },
+  {
+    "key": "dev_set_prisoner_recruited_0",
+    "type": 0,
+    "en": "Prisoner - Recruited: 0%",
+    "vi": "Tù nhân - Chiêu mộ: 0%"
+  },
+  {
+    "key": "dev_set_prisoner_recruited_50",
+    "type": 0,
+    "en": "Prisoner - Recruited: 50%",
+    "vi": "Tù nhân - Chiêu mộ: 50%"
+  },
+  {
+    "key": "dev_set_prisoner_recruited_99",
+    "type": 0,
+    "en": "Prisoner - Recruited: 99%",
+    "vi": "Tù nhân - Chiêu mộ: 99%"
+  },
+  {
+    "key": "dev_tooltip_set_prisoner_recruited_0",
+    "type": 0,
+    "en": "Sets the recruited stat of a clicked prisoner to 0%",
+    "vi": "Đặt chỉ số chiêu mộ của tù nhân được nhấp chọn về 0%"
+  },
+  {
+    "key": "dev_tooltip_set_prisoner_recruited_50",
+    "type": 0,
+    "en": "Sets the recruited stat of a clicked prisoner to 50%",
+    "vi": "Đặt chỉ số chiêu mộ của tù nhân được nhấp chọn thành 50%"
+  },
+  {
+    "key": "dev_tooltip_set_prisoner_recruited_99",
+    "type": 0,
+    "en": "Sets the recruited stat of a clicked prisoner to 99%, so that the next successful recruit attempt will turn him to a settler.",
+    "vi": "Đặt chỉ số chiêu mộ của tù nhân được nhấp chọn thành 99%, để lần chiêu mộ thành công tiếp theo sẽ biến tù nhân thành dân làng."
+  },
+  {
+    "key": "dev_reset_prisoner_recruit_attempt",
+    "type": 0,
+    "en": "Reset Prisoner Recruit Attempt",
+    "vi": "Đặt lại lượt chiêu mộ tù nhân"
+  },
+  {
+    "key": "dev_tooltip_reset_prisoner_recruit_attempt",
+    "type": 0,
+    "en": "Resets prisoner recruit attempt timer, so you can attempt one more time",
+    "vi": "Đặt lại bộ đếm thời gian thử chiêu mộ tù nhân để bạn có thể thử chiêu mộ thêm một lần nữa"
+  },
+  {
+    "key": "dev_trigger_altered_state",
+    "type": 0,
+    "en": "Trigger Altered State",
+    "vi": "Kích hoạt trạng thái cảm xúc"
+  },
+  {
+    "key": "dev_tooltip_trigger_altered_state",
+    "type": 0,
+    "en": "Click on a Settler to Trigger Rebellious or Merry state",
+    "vi": "Nhấp vào một dân làng để kích hoạt trạng thái Nổi Loạn hoặc Hân Hoan"
+  },
+  {
+    "key": "dev_fill_workers_food_storage",
+    "type": 0,
+    "en": "Fill Settler Food Pouch",
+    "vi": "Lấp đầy túi thức ăn của dân làng"
+  },
+  {
+    "key": "dev_tooltip_fill_workers_food_storage",
+    "type": 0,
+    "en": "Fills food pouch of all Settlers with 1 packaged meal",
+    "vi": "Lấp đầy túi thức ăn của tất cả dân làng bằng 1 phần cơm gói"
+  },
+  {
+    "key": "dev_tooltip_trigger_rebellious",
+    "type": 0,
+    "en": "Click on a Settler to Trigger Rebellious state on them",
+    "vi": "Nhấp vào một dân làng để kích hoạt trạng thái Nổi Loạn lên người họ"
+  },
+  {
+    "key": "dev_tooltip_trigger_merry",
+    "type": 0,
+    "en": "Click on a Settler to Trigger Merry state on them",
+    "vi": "Nhấp vào một dân làng để kích hoạt trạng thái Hân Hoan lên người họ"
+  },
+  {
+    "key": "dev_trigger_rebellious",
+    "type": 0,
+    "en": "Trigger Rebellious",
+    "vi": "Kích hoạt Nổi Loạn"
+  },
+  {
+    "key": "dev_trigger_merry",
+    "type": 0,
+    "en": "Trigger Merry",
+    "vi": "Kích hoạt Hân Hoan"
+  },
+  {
+    "key": "dev_toggle_debug_serialize",
+    "type": 0,
+    "en": "Toggle Debug Serialize",
+    "vi": "Bật/Tắt tuần tự hóa gỡ lỗi"
+  },
+  {
+    "key": "dev_tooltip_toggle_debug_serialize",
+    "type": 0,
+    "en": "Toggles debug serialization",
+    "vi": "Bật hoặc tắt tính năng tuần tự hóa phục vụ gỡ lỗi"
+  }
+]

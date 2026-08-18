@@ -1,0 +1,902 @@
+[
+  {
+    "key": "name_prod_pickle",
+    "type": 0,
+    "en": "Pickling",
+    "vi": "Muối chua"
+  },
+  {
+    "key": "name_prod_baking_clay",
+    "type": 0,
+    "en": "Firing clay",
+    "vi": "Nung đất sét"
+  },
+  {
+    "key": "name_prod_butchering",
+    "type": 0,
+    "en": "Butchering",
+    "vi": "Pha thịt"
+  },
+  {
+    "key": "name_prod_cutting_stone",
+    "type": 0,
+    "en": "Cutting stone",
+    "vi": "Xẻ đá"
+  },
+  {
+    "key": "name_prod_make_shield",
+    "type": 0,
+    "en": "Crafting shield",
+    "vi": "Chế tạo khiên"
+  },
+  {
+    "key": "name_prod_make_helemt",
+    "type": 0,
+    "en": "Crafting helmet",
+    "vi": "Chế tạo mũ trụ"
+  },
+  {
+    "key": "name_prod_make_hat",
+    "type": 0,
+    "en": "Crafting hat",
+    "vi": "Chế tạo mũ"
+  },
+  {
+    "key": "name_prod_package",
+    "type": 0,
+    "en": "Packaging",
+    "vi": "Đóng gói"
+  },
+  {
+    "key": "name_prod_prep_material",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Sơ chế nguyên liệu"
+  },
+  {
+    "key": "name_prod_prep_remedy",
+    "type": 0,
+    "en": "Preparing healing remedies",
+    "vi": "Chế thuốc"
+  },
+  {
+    "key": "name_prod_make_clothes",
+    "type": 0,
+    "en": "Sewing",
+    "vi": "May vá"
+  },
+  {
+    "key": "name_prod_ferment",
+    "type": 0,
+    "en": "Fermenting",
+    "vi": "Lên men"
+  },
+  {
+    "key": "name_prod_brew",
+    "type": 0,
+    "en": "Brewing",
+    "vi": "Nấu rượu"
+  },
+  {
+    "key": "name_prod_bottle",
+    "type": 0,
+    "en": "Bottling",
+    "vi": "Đóng chai"
+  },
+  {
+    "key": "name_prod_write",
+    "type": 0,
+    "en": "Writing",
+    "vi": "Viết sách"
+  },
+  {
+    "key": "name_prod_destile",
+    "type": 0,
+    "en": "Distilling",
+    "vi": "Chưng cất"
+  },
+  {
+    "key": "name_prod_melting_ore",
+    "type": 0,
+    "en": "Smelting metal ore",
+    "vi": "Luyện quặng kim loại"
+  },
+  {
+    "key": "name_prod_prep_clay",
+    "type": 0,
+    "en": "Shaping clay",
+    "vi": "Tạo hình đất sét"
+  },
+  {
+    "key": "name_prod_prep_ore",
+    "type": 0,
+    "en": "Preparing metal ore",
+    "vi": "Sơ chế quặng kim loại"
+  },
+  {
+    "key": "name_prod_roasting",
+    "type": 0,
+    "en": "Roasting",
+    "vi": "Quay nướng"
+  },
+  {
+    "key": "name_prod_shaping_ore",
+    "type": 0,
+    "en": "Shaping into ingot",
+    "vi": "Đúc thành thỏi"
+  },
+  {
+    "key": "name_prod_simering",
+    "type": 0,
+    "en": "Simmering",
+    "vi": "Ninh nhỏ lửa"
+  },
+  {
+    "key": "name_prod_smoke_meat",
+    "type": 0,
+    "en": "Smoking meat",
+    "vi": "Hun khói thịt"
+  },
+  {
+    "key": "name_prod_dismantle_wood",
+    "type": 0,
+    "en": "Dismantling wooden item",
+    "vi": "Tháo dỡ đồ gỗ"
+  },
+  {
+    "key": "name_prod_dismantle_metal",
+    "type": 0,
+    "en": "Smelting metal item",
+    "vi": "Tháo dỡ đồ kim loại"
+  },
+  {
+    "key": "name_prod_dismantle_cloth",
+    "type": 0,
+    "en": "Dismantling cloth item",
+    "vi": "Tháo dỡ đồ vải"
+  },
+  {
+    "key": "name_prod_prep_coal",
+    "type": 0,
+    "en": "Preparing lumber",
+    "vi": "Chuẩn bị gỗ"
+  },
+  {
+    "key": "name_prod_creating_coal",
+    "type": 0,
+    "en": "Creating coal",
+    "vi": "Sản xuất than"
+  },
+  {
+    "key": "name_prod_burning_carcass",
+    "type": 0,
+    "en": "Burning Body",
+    "vi": "Thiêu xác"
+  },
+  {
+    "key": "name_prod_preparing_carcass",
+    "type": 0,
+    "en": "Preparing Body",
+    "vi": "Chuẩn bị thi thể"
+  },
+  {
+    "key": "name_prod_create_mech",
+    "type": 0,
+    "en": "Making Parts",
+    "vi": "Chế tạo linh kiện"
+  },
+  {
+    "key": "name_prod_prep_ice_block",
+    "type": 0,
+    "en": "Preparing Ice Block",
+    "vi": "Chuẩn bị khối băng"
+  },
+  {
+    "key": "name_prod_freez",
+    "type": 0,
+    "en": "Freezing",
+    "vi": "Đông lạnh"
+  },
+  {
+    "key": "name_prod_prep_hive",
+    "type": 0,
+    "en": "Preparing Bee Skep",
+    "vi": "Chuẩn bị tổ ong"
+  },
+  {
+    "key": "name_prod_honey",
+    "type": 0,
+    "en": "Producing Honey",
+    "vi": "Sản xuất mật ong"
+  },
+  {
+    "key": "name_prod_worker_request",
+    "type": 0,
+    "en": "Waiting for worker",
+    "vi": "Đang chờ dân làng"
+  },
+  {
+    "key": "name_prod_making_trophy",
+    "type": 0,
+    "en": "Making trophy",
+    "vi": "Chế tạo chiến lợi phẩm"
+  },
+  {
+    "key": "name_prod_general_producing",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Đang sản xuất"
+  },
+  {
+    "key": "name_prod_prep_dungbrick",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Sơ chế phân đóng bánh"
+  },
+  {
+    "key": "name_prod_baking_dungbrick",
+    "type": 0,
+    "en": "Drying dung brick",
+    "vi": "Phơi gạch phân"
+  },
+  {
+    "key": "name_prod_prep_quicklime",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Sơ chế vôi sống"
+  },
+  {
+    "key": "name_prod_prep_saltpeter",
+    "type": 0,
+    "en": "Preparing ingredients",
+    "vi": "Sơ chế diêm tiêu"
+  },
+  {
+    "key": "name_prod_creating_quicklime",
+    "type": 0,
+    "en": "Burning limestone",
+    "vi": "Nung đá vôi"
+  },
+  {
+    "key": "name_prod_creating_saltpeter",
+    "type": 0,
+    "en": "Extracting saltpetre ",
+    "vi": "Chiết xuất diêm tiêu "
+  },
+  {
+    "key": "name_prod_make_dummy",
+    "type": 0,
+    "en": "Sewing a dummy",
+    "vi": "May hình nhân"
+  },
+  {
+    "key": "name_prod_make_practice_target",
+    "type": 0,
+    "en": "Making practice target",
+    "vi": "Making practice Mục tiêu"
+  },
+  {
+    "key": "name_prod_trainng_marksman",
+    "type": 0,
+    "en": "Practicing on a target",
+    "vi": "Luyện bắn bia"
+  },
+  {
+    "key": "name_prod_trainng_melee",
+    "type": 0,
+    "en": "Practicing on a dummy",
+    "vi": "Luyện tập với hình nộm"
+  },
+  {
+    "key": "name_prod_flamable_oil",
+    "type": 0,
+    "en": "Mixing ingredients ",
+    "vi": "Pha chế dầu cháy"
+  },
+  {
+    "key": "train_ranged",
+    "type": 0,
+    "en": "Marksman Training",
+    "vi": "Xạ thủ Training"
+  },
+  {
+    "key": "train_melee",
+    "type": 0,
+    "en": "Melee Training",
+    "vi": "Cận chiến Training"
+  },
+  {
+    "key": "name_prod_mint",
+    "type": 0,
+    "en": "Minting Coins",
+    "vi": "Đúc tiền xu"
+  },
+  {
+    "key": "general_anyone",
+    "type": 0,
+    "en": "Anyone",
+    "vi": "Bất kỳ ai"
+  },
+  {
+    "key": "skep_production_speed_tooltip",
+    "type": 0,
+    "en": "<style=DefaultOrange>Output depends on the balance of nearby plants and hives. Hives compete for resources, so space them out.</style>",
+    "vi": "<style=DefaultOrange>Output depends trên balance của nearby plants và hives. Hives compete cho Tài nguyên, so space them out.</style>"
+  },
+  {
+    "key": "skep_production_speed",
+    "type": 0,
+    "en": "Skep Production Speed",
+    "vi": "Tốc độ làm tổ ong Skep"
+  },
+  {
+    "key": "skeps_around_skep",
+    "type": 0,
+    "en": "Other skeps nearby",
+    "vi": "Khác skeps nearby"
+  },
+  {
+    "key": "production_assigned_to_different_settler",
+    "type": 0,
+    "en": "Production is assigned to another settler! Use Edit to reassign this role.",
+    "vi": "Hoạt động sản xuất đã được chỉ định cho dân làng khác! Dùng nút Chỉnh Sửa để phân công lại vai trò này."
+  },
+  {
+    "key": "name_prod_fixing_wood",
+    "type": 0,
+    "en": "Repairing wooden item",
+    "vi": "Sửa chữa đồ gỗ"
+  },
+  {
+    "key": "name_prod_fixing_metal",
+    "type": 0,
+    "en": "Repairing metal item",
+    "vi": "Sửa chữa đồ kim loại"
+  },
+  {
+    "key": "name_prod_fixing_cloth",
+    "type": 0,
+    "en": "Mending cloth item",
+    "vi": "Vá quần áo vải"
+  },
+  {
+    "key": "repair_item_description_cloth",
+    "type": 0,
+    "en": "A cloth item to be mended",
+    "vi": "Vật phẩm vải cần được vá"
+  },
+  {
+    "key": "repair_item_description_wood",
+    "type": 0,
+    "en": "A wooden item to be repaired",
+    "vi": "Vật phẩm gỗ cần được sửa"
+  },
+  {
+    "key": "repair_item_description_metal",
+    "type": 0,
+    "en": "A metal item to be repaired",
+    "vi": "Vật phẩm kim loại cần được sửa"
+  },
+  {
+    "key": "wounds_need_tending_info",
+    "type": 0,
+    "en": "must rest or sleep for wounds to be treated",
+    "vi": "Phải nghỉ ngơi hoặc nằm ngủ để vết thương được băng bó điều trị"
+  },
+  {
+    "key": "wounds_need_tending_title",
+    "type": 0,
+    "en": "Wounds need tending!",
+    "vi": "Cần sơ cứu chữa trị vết thương khẩn cấp!"
+  },
+  {
+    "key": "bitten_arm_name",
+    "type": 0,
+    "en": "Bitten Arm",
+    "vi": "Vết cắn ở tay"
+  },
+  {
+    "key": "bitten_face_name",
+    "type": 0,
+    "en": "Bitten Face",
+    "vi": "Vết cắn ở mặt"
+  },
+  {
+    "key": "bitten_foot_name",
+    "type": 0,
+    "en": "Bitten Foot",
+    "vi": "Vết cắn ở bàn chân"
+  },
+  {
+    "key": "bitten_forearm_name",
+    "type": 0,
+    "en": "Bitten Forearm",
+    "vi": "Vết cắn ở cẳng tay"
+  },
+  {
+    "key": "bitten_hand_name",
+    "type": 0,
+    "en": "Bitten Hand",
+    "vi": "Vết cắn ở bàn tay"
+  },
+  {
+    "key": "bitten_leg_name",
+    "type": 0,
+    "en": "Bitten Leg",
+    "vi": "Vết cắn ở chân"
+  },
+  {
+    "key": "bitten_neck_name",
+    "type": 0,
+    "en": "Bitten Neck",
+    "vi": "Vết cắn ở cổ"
+  },
+  {
+    "key": "broken_arm_name",
+    "type": 0,
+    "en": "Broken Arm",
+    "vi": "Gãy tay"
+  },
+  {
+    "key": "broken_leg_name",
+    "type": 0,
+    "en": "Broken Leg",
+    "vi": "Gãy chân"
+  },
+  {
+    "key": "broken_nose_name",
+    "type": 0,
+    "en": "Broken Nose",
+    "vi": "Gãy xương mũi"
+  },
+  {
+    "key": "broken_ribs_name",
+    "type": 0,
+    "en": "Broken Rib",
+    "vi": "Gãy xương sườn"
+  },
+  {
+    "key": "bruised_arm_name",
+    "type": 0,
+    "en": "Bruised Arm",
+    "vi": "Bầm tím tay"
+  },
+  {
+    "key": "bruised_chest_name",
+    "type": 0,
+    "en": "Bruised Chest",
+    "vi": "Bầm tím ngực"
+  },
+  {
+    "key": "bruised_leg_name",
+    "type": 0,
+    "en": "Bruised Leg",
+    "vi": "Bầm tím chân"
+  },
+  {
+    "key": "cut_artery_name",
+    "type": 0,
+    "en": "Severed Artery",
+    "vi": "Đứt động mạch"
+  },
+  {
+    "key": "deep_cut_arm_name",
+    "type": 0,
+    "en": "Deep Arm Laceration",
+    "vi": "Vết rách sâu ở tay"
+  },
+  {
+    "key": "deep_cut_chest_name",
+    "type": 0,
+    "en": "Deep Chest Laceration",
+    "vi": "Vết rách sâu ở ngực"
+  },
+  {
+    "key": "deep_cut_face_name",
+    "type": 0,
+    "en": "Deep Face Laceration",
+    "vi": "Vết rách sâu ở mặt"
+  },
+  {
+    "key": "deep_cut_leg_name",
+    "type": 0,
+    "en": "Deep Leg Laceration",
+    "vi": "Vết rách sâu ở chân"
+  },
+  {
+    "key": "deep_cut_neck_name",
+    "type": 0,
+    "en": "Deep Neck Laceration",
+    "vi": "Vết rách sâu ở cổ"
+  },
+  {
+    "key": "deep_cut_side_name",
+    "type": 0,
+    "en": "Deep Flank Laceration",
+    "vi": "Vết rách sâu ở hông"
+  },
+  {
+    "key": "dislocated_sholder_name",
+    "type": 0,
+    "en": "Dislocated Shoulder",
+    "vi": "Trật khớp vai"
+  },
+  {
+    "key": "fractured_arm_name",
+    "type": 0,
+    "en": "Sprained Arm",
+    "vi": "Bong gân tay"
+  },
+  {
+    "key": "fractured_leg_name",
+    "type": 0,
+    "en": "Sprained Leg",
+    "vi": "Bong gân chân"
+  },
+  {
+    "key": "fractured_nose_name",
+    "type": 0,
+    "en": "Bruised Nose",
+    "vi": "Bầm tím mũi"
+  },
+  {
+    "key": "fractured_ribs_name",
+    "type": 0,
+    "en": "Bruised Rib",
+    "vi": "Rạn xương sườn"
+  },
+  {
+    "key": "mild_concussion_name",
+    "type": 0,
+    "en": "Mild Concussion",
+    "vi": "Chấn động não nhẹ"
+  },
+  {
+    "key": "pierced_arm_muscle_name",
+    "type": 0,
+    "en": "Pierced Arm Muscle",
+    "vi": "Đâm xuyên cơ bắp tay"
+  },
+  {
+    "key": "pierced_cheek_name",
+    "type": 0,
+    "en": "Pierced Cheek",
+    "vi": "Đâm xuyên má"
+  },
+  {
+    "key": "pierced_chest_name",
+    "type": 0,
+    "en": "Pierced Chest",
+    "vi": "Đâm xuyên ngực"
+  },
+  {
+    "key": "pierced_gut_name",
+    "type": 0,
+    "en": "Pierced Gut",
+    "vi": "Đâm thủng ruột"
+  },
+  {
+    "key": "pierced_leg_muscle_name",
+    "type": 0,
+    "en": "Pierced Leg Muscle",
+    "vi": "Đâm xuyên cơ bắp chân"
+  },
+  {
+    "key": "pierced_lung_name",
+    "type": 0,
+    "en": "Pierced Lung",
+    "vi": "Đâm thủng phổi"
+  },
+  {
+    "key": "pierced_side_name",
+    "type": 0,
+    "en": "Pierced Flank",
+    "vi": "Đâm xuyên hông"
+  },
+  {
+    "key": "scratched_arm_name",
+    "type": 0,
+    "en": "Scratched Arm",
+    "vi": "Vết cào ở tay"
+  },
+  {
+    "key": "scratched_chest_name",
+    "type": 0,
+    "en": "Scratched Chest",
+    "vi": "Xước ngực"
+  },
+  {
+    "key": "scratched_face_name",
+    "type": 0,
+    "en": "Scratched Face",
+    "vi": "Vết cào ở mặt"
+  },
+  {
+    "key": "scratched_forearm_name",
+    "type": 0,
+    "en": "Scratched Forearm",
+    "vi": "Cào xước cẳng tay"
+  },
+  {
+    "key": "scratched_hand_name",
+    "type": 0,
+    "en": "Scratched Hand",
+    "vi": "Cào xước bàn tay"
+  },
+  {
+    "key": "scratched_leg_name",
+    "type": 0,
+    "en": "Scratched Leg",
+    "vi": "Vết cào ở chân"
+  },
+  {
+    "key": "scratched_neck_name",
+    "type": 0,
+    "en": "Scratched Neck",
+    "vi": "Cào xước cổ"
+  },
+  {
+    "key": "shallow_cut_arm_name",
+    "type": 0,
+    "en": "Minor Arm Laceration",
+    "vi": "Vết rách nhẹ ở tay"
+  },
+  {
+    "key": "shallow_cut_chest_name",
+    "type": 0,
+    "en": "Minor Chest Laceration",
+    "vi": "Vết rách nhẹ ở ngực"
+  },
+  {
+    "key": "shallow_cut_face_name",
+    "type": 0,
+    "en": "Minor Face Laceration",
+    "vi": "Vết rách nông ở mặt"
+  },
+  {
+    "key": "shallow_cut_leg_name",
+    "type": 0,
+    "en": "Minor Leg Laceration",
+    "vi": "Vết rách nông ở chân"
+  },
+  {
+    "key": "shallow_cut_neck_name",
+    "type": 0,
+    "en": "Minor Neck Laceration",
+    "vi": "Vết rách nông ở cổ"
+  },
+  {
+    "key": "shallow_cut_side_name",
+    "type": 0,
+    "en": "Minor Flank Laceration",
+    "vi": "Vết rách nông ở hông"
+  },
+  {
+    "key": "whiped_back_name",
+    "type": 0,
+    "en": "Whipped back",
+    "vi": "Whipped Quay lại"
+  },
+  {
+    "key": "heavy_concussion_name",
+    "type": 0,
+    "en": "Severe Concussion",
+    "vi": "Chấn động não nghiêm trọng"
+  },
+  {
+    "key": "hypothermia_name",
+    "type": 0,
+    "en": "Hypothermia",
+    "vi": "Hạ thân nhiệt"
+  },
+  {
+    "key": "heatstroke_name",
+    "type": 0,
+    "en": "Heatstroke",
+    "vi": "Say nắng"
+  },
+  {
+    "key": "burn_arm_name",
+    "type": 0,
+    "en": "Burnt Arm",
+    "vi": "Bỏng cánh tay"
+  },
+  {
+    "key": "burn_leg_name",
+    "type": 0,
+    "en": "Burnt Leg",
+    "vi": "Bỏng chân"
+  },
+  {
+    "key": "burn_torso_name",
+    "type": 0,
+    "en": "Burnt Torso",
+    "vi": "Bỏng thân mình"
+  },
+  {
+    "key": "burn_face_name",
+    "type": 0,
+    "en": "Burnt Face",
+    "vi": "Bỏng khuôn mặt"
+  },
+  {
+    "key": "burn_hand_name",
+    "type": 0,
+    "en": "Burnt Hand",
+    "vi": "Bỏng bàn tay"
+  },
+  {
+    "key": "burn_foot_name",
+    "type": 0,
+    "en": "Burnt Foot",
+    "vi": "Bỏng bàn chân"
+  },
+  {
+    "key": "stomach_pain_name",
+    "type": 0,
+    "en": "Stomach Pain",
+    "vi": "Stomach Cơn đau"
+  },
+  {
+    "key": "produce_ites_at",
+    "type": 0,
+    "en": " Produces items at:",
+    "vi": " Produces items tại:"
+  },
+  {
+    "key": "passion_1_info",
+    "type": 0,
+    "en": "Settler will gain 2.5x more XP for this skill.",
+    "vi": "Dân làng sẽ nhận thêm gấp 2.5 lần điểm kinh nghiệm (XP) cho kỹ năng này."
+  },
+  {
+    "key": "passion_1_name",
+    "type": 0,
+    "en": "Passionate <sprite=\"passion_star\" index=t>",
+    "vi": "Đam mê <sprite=\"passion_star\" index=t>"
+  },
+  {
+    "key": "passion_2_info",
+    "type": 0,
+    "en": "Settler will gain 4x more XP for this skill.",
+    "vi": "Dân làng sẽ nhận thêm gấp 4 lần điểm kinh nghiệm (XP) cho kỹ năng này."
+  },
+  {
+    "key": "passion_2_name",
+    "type": 0,
+    "en": "Very passionate <sprite=\"passion_star\" index=t><sprite=\"passion_star\" index=t>",
+    "vi": "Rất đam mê <sprite=\"passion_star\" index=t><sprite=\"passion_star\" index=t>"
+  },
+  {
+    "key": "lb_self_tend",
+    "type": 0,
+    "en": "Self-tend",
+    "vi": "Self-chữa trị"
+  },
+  {
+    "key": "lb_self_tend_title",
+    "type": 0,
+    "en": "Allow Self-tending wounds",
+    "vi": "Cho phép tự băng bó vết thương"
+  },
+  {
+    "key": "lb_self_tend_info",
+    "type": 0,
+    "en": "Settler will tend to their own wounds. Note that the quality of tending is only 25% that of another settler tending to them. The tending job in the settler jobs panel must be selected for a settler to self-tend.",
+    "vi": "Dân làng sẽ tự băng bó vết thương của chính mình. Lưu ý rằng hiệu quả tự chữa trị chỉ bằng 25% so với khi được dân làng khác chăm sóc. Công việc Chữa Trị trong bảng phân công phải được chọn để dân làng có thể tự băng bó."
+  },
+  {
+    "key": "lb_self_tend_disabled_info",
+    "type": 0,
+    "en": "The tending job in the settler jobs panel must be selected for a settler to self-tend.",
+    "vi": "Công việc Chữa Trị trong bảng phân công dân làng phải được kích hoạt để có thể tự băng bó."
+  },
+  {
+    "key": "goal_preference_name_Resentful",
+    "type": 0,
+    "en": "Resentful",
+    "vi": "Bất mãn"
+  },
+  {
+    "key": "goal_preference_info_Resentful",
+    "type": 0,
+    "en": "Settler will gain only 0.2x XP \\nGain negative mood modifiers when performing this job",
+    "vi": "Dân làng chỉ nhận 0.2x XP \\nNhận hiệu ứng tâm trạng tiêu cực khi phải làm công việc này"
+  },
+  {
+    "key": "goal_preference_name_Unwilling",
+    "type": 0,
+    "en": "Unwilling",
+    "vi": "Miễn cưỡng"
+  },
+  {
+    "key": "goal_preference_info_Unwilling",
+    "type": 0,
+    "en": "Settler will gain only 0.5x XP \\nGain negative mood modifiers when performing this job",
+    "vi": "Dân làng chỉ nhận 0.5x XP \\nNhận hiệu ứng tâm trạng tiêu cực khi phải làm công việc này"
+  },
+  {
+    "key": "goal_preference_name_Indifferent",
+    "type": 0,
+    "en": "Indifferent",
+    "vi": "Thờ ơ"
+  },
+  {
+    "key": "goal_preference_info_Indifferent",
+    "type": 0,
+    "en": "Settler will gain 1x XP",
+    "vi": "Dân làng nhận 1x XP tiêu chuẩn"
+  },
+  {
+    "key": "goal_preference_name_Eager",
+    "type": 0,
+    "en": "Eager",
+    "vi": "Hăng hái"
+  },
+  {
+    "key": "goal_preference_info_Eager",
+    "type": 0,
+    "en": "Settler will gain 2.5x more XP \\nGain positive mood modifiers when performing this job",
+    "vi": "Dân làng nhận gấp 2.5x XP \\nNhận hiệu ứng tâm trạng tích cực khi làm công việc này"
+  },
+  {
+    "key": "goal_preference_name_Passionate",
+    "type": 0,
+    "en": "Passionate",
+    "vi": "Đam mê"
+  },
+  {
+    "key": "goal_preference_info_Passionate",
+    "type": 0,
+    "en": "Settler will gain 4x more XP \\nGain positive mood modifiers when performing this job",
+    "vi": "Dân làng nhận gấp 4x XP \\nNhận hiệu ứng tâm trạng rất tích cực khi làm công việc này"
+  },
+  {
+    "key": "goal_preference_name_Incapable",
+    "type": 0,
+    "en": "Incapable",
+    "vi": "Không thể làm"
+  },
+  {
+    "key": "goal_preference_info_Incapable",
+    "type": 0,
+    "en": "Settler cannot do this job",
+    "vi": "Dân làng không thể thực hiện công việc này"
+  },
+  {
+    "key": "goal_preference_name_PhysicalLabourPreference",
+    "type": 0,
+    "en": "Unskilled Labour",
+    "vi": "Lao động chân tay"
+  },
+  {
+    "key": "goal_preference_name_MiningPreference",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Khai mỏ"
+  },
+  {
+    "key": "goal_preference_name_CraftingPreference",
+    "type": 0,
+    "en": "Craft",
+    "vi": "Chế tạo"
+  },
+  {
+    "key": "goal_preference_name_HuntingPreference",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Săn bắn"
+  },
+  {
+    "key": "goal_preference_name_SmithingPreference",
+    "type": 0,
+    "en": "Smithing",
+    "vi": "Rèn"
+  },
+  {
+    "key": "goal_preference_name_CarpentryPreference",
+    "type": 0,
+    "en": "Carpentry",
+    "vi": "Mộc"
+  }
+]

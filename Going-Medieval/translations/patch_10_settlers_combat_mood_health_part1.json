@@ -1,0 +1,902 @@
+[
+  {
+    "key": "action_allow",
+    "type": 0,
+    "en": "Allow",
+    "vi": "Cho Phép"
+  },
+  {
+    "key": "action_UrgentHaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Khuân Vác Khẩn Cấp"
+  },
+  {
+    "key": "action_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Tấn Công"
+  },
+  {
+    "key": "action_attack_disabled",
+    "type": 0,
+    "en": "Attack Disabled",
+    "vi": "Tấn Công Bị Vô Hiệu"
+  },
+  {
+    "key": "action_attacking",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Đang Tấn Công"
+  },
+  {
+    "key": "action_banish",
+    "type": 0,
+    "en": "Banish",
+    "vi": "Trục Xuất"
+  },
+  {
+    "key": "action_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Hủy Bỏ"
+  },
+  {
+    "key": "action_abortgoal",
+    "type": 0,
+    "en": "Cancel Action",
+    "vi": "Hủy Hành Động"
+  },
+  {
+    "key": "action_chopping",
+    "type": 0,
+    "en": "Chop",
+    "vi": "Đốn Hạ Cây"
+  },
+  {
+    "key": "action_cutallvegetation",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Phát Quang Toàn Bộ Cây Cỏ"
+  },
+  {
+    "key": "action_cutting",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Cắt Tỉa"
+  },
+  {
+    "key": "action_deconstructing",
+    "type": 0,
+    "en": "Deconstruct",
+    "vi": "Tháo Dỡ Công Trình"
+  },
+  {
+    "key": "action_draft",
+    "type": 0,
+    "en": "Draft",
+    "vi": "Động Viên"
+  },
+  {
+    "key": "action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Đã Động Viên"
+  },
+  {
+    "key": "action_activate",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Kích Hoạt"
+  },
+  {
+    "key": "action_activateBell",
+    "type": 0,
+    "en": "Activate",
+    "vi": "Rung Chuông Báo Động"
+  },
+  {
+    "key": "action_deactivateBell",
+    "type": 0,
+    "en": "Deactivate",
+    "vi": "Tắt Chuông Báo Động"
+  },
+  {
+    "key": "action_equipping",
+    "type": 0,
+    "en": "Equip",
+    "vi": "Trang bị"
+  },
+  {
+    "key": "action_forbid",
+    "type": 0,
+    "en": "Forbid",
+    "vi": "Cấm"
+  },
+  {
+    "key": "action_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Thu hoạch"
+  },
+  {
+    "key": "action_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Săn bắt"
+  },
+  {
+    "key": "action_list",
+    "type": 0,
+    "en": "Actions",
+    "vi": "Hành động"
+  },
+  {
+    "key": "action_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Khai mỏ"
+  },
+  {
+    "key": "action_upgradeBuilding",
+    "type": 0,
+    "en": "Replace structure",
+    "vi": "Thay thế công trình"
+  },
+  {
+    "key": "action_copybuilding",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Sao chép"
+  },
+  {
+    "key": "effect_reason_attribute_decomposespeed",
+    "type": 0,
+    "en": "Decaying because of",
+    "vi": "Đang mục nát do"
+  },
+  {
+    "key": "effect_reason_attribute_rottingspeed",
+    "type": 0,
+    "en": "Rotting because of",
+    "vi": "Đang thối rữa do"
+  },
+  {
+    "key": "effect_reason_ground",
+    "type": 0,
+    "en": "Ground type",
+    "vi": "Loại mặt đất"
+  },
+  {
+    "key": "effect_reason_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Nhiệt độ"
+  },
+  {
+    "key": "effect_reason_time_decomposespeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">decomposes</link> in",
+    "vi": "Đống đồ sẽ <LinkAlmanac=\"Systemdecomposition\">phân hủy</link> sau"
+  },
+  {
+    "key": "effect_reason_time_rottingspeed",
+    "type": 0,
+    "en": "Pile <LinkAlmanac=\"Systemdecomposition\">rots</link> in",
+    "vi": "Đống đồ sẽ <LinkAlmanac=\"Systemdecomposition\">thối rữa</link> sau"
+  },
+  {
+    "key": "effect_reason_weather",
+    "type": 0,
+    "en": "Unroofed",
+    "vi": "Không có mái"
+  },
+  {
+    "key": "action_ToggleForbid",
+    "type": 0,
+    "en": "Toggle allow/forbid",
+    "vi": "Bật/tắt cho phép/cấm"
+  },
+  {
+    "key": "action_ToggleUrgent",
+    "type": 0,
+    "en": "Toggle Urgent haul",
+    "vi": "Bật/tắt vận chuyển khẩn"
+  },
+  {
+    "key": "MoodAverage_title",
+    "type": 0,
+    "en": "Settler Mood",
+    "vi": "Tâm trạng dân làng"
+  },
+  {
+    "key": "MoodAverage_info",
+    "type": 0,
+    "en": "Average mood through time",
+    "vi": "Tâm trạng trung bình theo thời gian"
+  },
+  {
+    "key": "action_ExpandZone",
+    "type": 0,
+    "en": "Expand Zone",
+    "vi": "Mở rộng khu vực"
+  },
+  {
+    "key": "action_ShrinkZone",
+    "type": 0,
+    "en": "Shrink Zone",
+    "vi": "Thu hẹp khu vực"
+  },
+  {
+    "key": "action_caravan_return",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Quay lại"
+  },
+  {
+    "key": "action_installbuilding",
+    "type": 0,
+    "en": "Install",
+    "vi": "Lắp đặt"
+  },
+  {
+    "key": "action_uninstallbuilding",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Gỡ bỏ"
+  },
+  {
+    "key": "action_movebuilding",
+    "type": 0,
+    "en": "Relocate",
+    "vi": "Di dời"
+  },
+  {
+    "key": "action_back_home",
+    "type": 0,
+    "en": "Go Back",
+    "vi": "Quay lại"
+  },
+  {
+    "key": "action_caravan",
+    "type": 0,
+    "en": "Send Caravan",
+    "vi": "Gửi đoàn buôn"
+  },
+  {
+    "key": "action_trade",
+    "type": 0,
+    "en": "Barter",
+    "vi": "Giao thương"
+  },
+  {
+    "key": "action_gift",
+    "type": 0,
+    "en": "Gift",
+    "vi": "Tặng quà"
+  },
+  {
+    "key": "action_trainAnimal",
+    "type": 0,
+    "en": "Train",
+    "vi": "Huấn luyện"
+  },
+  {
+    "key": "action_slaughterAnimal",
+    "type": 0,
+    "en": "Slaughter",
+    "vi": "Mổ thịt"
+  },
+  {
+    "key": "action_releaseAnimal",
+    "type": 0,
+    "en": "Release",
+    "vi": "Thả tự do"
+  },
+  {
+    "key": "action_tameAnimal",
+    "type": 0,
+    "en": "Tame",
+    "vi": "Thuần hóa"
+  },
+  {
+    "key": "effect_reason_attribute_agingspeed",
+    "type": 0,
+    "en": "Aging because of",
+    "vi": "Đang già đi do"
+  },
+  {
+    "key": "effect_reason_time_agingspeed",
+    "type": 0,
+    "en": "Pile will become <LinkAlmanac=\"Systemdecomposition\">aged</link> in",
+    "vi": "Đống đồ sẽ trở nên <LinkAlmanac=\"Systemdecomposition\">ủ lâu</link> sau"
+  },
+  {
+    "key": "effect_reason_attribute_fermentingspeed",
+    "type": 0,
+    "en": "Fermenting because of",
+    "vi": "Đang lên men do"
+  },
+  {
+    "key": "effect_reason_time_fermentingspeed",
+    "type": 0,
+    "en": "Pile will <LinkAlmanac=\"Systemfermentation\">ferment</link> in",
+    "vi": "Đống đồ sẽ <LinkAlmanac=\"Systemfermentation\">lên men</link> sau"
+  },
+  {
+    "key": "action_banish_failed_no_path",
+    "type": 0,
+    "en": "Banishment cancelled. This settler is not able to reach the edge in order to leave.",
+    "vi": "Đã hủy trục xuất. Dân làng này không thể đi tới rìa bản đồ để rời đi."
+  },
+  {
+    "key": "action_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Câu cá"
+  },
+  {
+    "key": "action_RecruitPrisoner",
+    "type": 0,
+    "en": "Recruit",
+    "vi": "Chiêu mộ"
+  },
+  {
+    "key": "action_RecruitPrisoner_info",
+    "type": 0,
+    "en": "A settler with the Prison Warden role will speak to the prisoner each day to try to convince them to join your settlement.",
+    "vi": "Một dân làng giữ vai trò Cai ngục sẽ nói chuyện với tù nhân mỗi ngày để thuyết phục họ gia nhập khu định cư của bạn."
+  },
+  {
+    "key": "action_releasePrisoner",
+    "type": 0,
+    "en": "Release",
+    "vi": "Thả tự do"
+  },
+  {
+    "key": "action_releasePrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be released. A settler with the Gaoler job will take the captive to the edge of the map and free them. This may increase friendliness with the prisoner's faction.",
+    "vi": "Đánh dấu tù nhân để phóng thích. Một dân làng làm Quản ngục sẽ đưa người bị giam đến rìa bản đồ và thả họ. Việc này có thể tăng thiện cảm với phe của tù nhân."
+  },
+  {
+    "key": "action_stripPrisoner",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Lột đồ"
+  },
+  {
+    "key": "action_stripCarcass",
+    "type": 0,
+    "en": "Strip",
+    "vi": "Lột đồ"
+  },
+  {
+    "key": "action_stripPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be stripped of all their belongings",
+    "vi": "Đánh dấu tù nhân để tước toàn bộ đồ đạc của họ"
+  },
+  {
+    "key": "action_shacklesOnPrisoner",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Đặt xiềng"
+  },
+  {
+    "key": "action_shacklesonprisonertoggled",
+    "type": 0,
+    "en": "Place Shackles",
+    "vi": "Đặt xiềng"
+  },
+  {
+    "key": "action_shacklesOnPrisoner_info",
+    "type": 0,
+    "en": "Mark a prisoner to be shackled to use them as captive labourers or have them join a caravan ",
+    "vi": "Đánh dấu tù nhân để xiềng lại, dùng làm lao động bị giam giữ hoặc cho họ gia nhập đoàn lữ hành "
+  },
+  {
+    "key": "action_shacklesOffPrisoner",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Tháo xiềng"
+  },
+  {
+    "key": "action_shacklesoffprisonertoggled",
+    "type": 0,
+    "en": "Remove Shackles",
+    "vi": "Tháo xiềng"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedHoldGround",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Giữ vị trí"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_DraftedDefault",
+    "type": 0,
+    "en": "Default",
+    "vi": "Mặc định"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Aggressive",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Hung hãn"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Flee",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Bỏ chạy"
+  },
+  {
+    "key": "popup_worker_combat_mode_changed_Neutral",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Trung lập"
+  },
+  {
+    "key": "action_SiegeWeaponAttackContinuously",
+    "type": 0,
+    "en": "Attack Continuously",
+    "vi": "Tấn công liên tục"
+  },
+  {
+    "key": "action_SiegeWeaponAttack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Tấn công"
+  },
+  {
+    "key": "action_exittrebuchet",
+    "type": 0,
+    "en": "Exit Siege Engine",
+    "vi": "Rời chiến cụ"
+  },
+  {
+    "key": "leave_prompt_combat",
+    "type": 0,
+    "en": "Leaving mid-combat will result in you losing <resources_lost>",
+    "vi": "Rời đi giữa trận chiến sẽ khiến bạn mất <resources_lost>"
+  },
+  {
+    "key": "gameplay_tips_mood_info",
+    "type": 0,
+    "en": "- Mood represents your settlers' happiness.\\n- Check on your settlers' mood often, by selecting them and then the Mood category.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and leisure time can help keep your settlers' spirits high.",
+    "vi": "- Tâm trạng thể hiện mức độ vui vẻ của dân làng.\\n- Hãy thường xuyên kiểm tra tâm trạng bằng cách chọn dân làng rồi chọn mục Tâm trạng.\\n- Tâm trạng thấp có thể khiến dân làng nổi loạn và từ chối mệnh lệnh.\\n- Nếu tâm trạng của dân làng giảm xuống 0, họ sẽ rời khu định cư.\\n- Món ăn đã nấu hoặc thịnh soạn, giường thoải mái và thời gian giải trí sẽ giúp họ giữ tinh thần tốt."
+  },
+  {
+    "key": "gameplay_tips_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Tâm trạng"
+  },
+  {
+    "key": "life_event_type_Combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Chiến đấu"
+  },
+  {
+    "key": "combat_hit_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name><hit_description><with><weapon_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name><hit_description> <with> <weapon_name>"
+  },
+  {
+    "key": "combat_hit_unarmed_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_hit_beast_pattern",
+    "type": 0,
+    "en": "<attacker_name> <hit_action> <defender_name>",
+    "vi": "<attacker_name> <hit_action> <defender_name>"
+  },
+  {
+    "key": "combat_block_pattern",
+    "type": 0,
+    "en": "<defender_name>'s <armor_name> <block_description>",
+    "vi": "<defender_name>'s <armor_name> <block_description>"
+  },
+  {
+    "key": "health_wounding_pattern",
+    "type": 0,
+    "en": "<agent_name> <wounding> <wound_name>",
+    "vi": "<agent_name> <wounding> <wound_name>"
+  },
+  {
+    "key": "health_healing_pattern",
+    "type": 0,
+    "en": "<agent_name> <healing> <target_name>'s <wound_name>",
+    "vi": "<agent_name> <healing> <target_name>'s <wound_name>"
+  },
+  {
+    "key": "health_carrying_pattern",
+    "type": 0,
+    "en": "<agent_name> <carrying_verb> <carrying_adjective> <target_name>",
+    "vi": "<agent_name> <carrying_verb> <carrying_adjective> <target_name>"
+  },
+  {
+    "key": "action_verynegative_1",
+    "type": 0,
+    "en": "launched into a tirade about",
+    "vi": "bắt đầu trút một tràng chỉ trích gay gắt về"
+  },
+  {
+    "key": "action_verynegative_2",
+    "type": 0,
+    "en": "got into an altercation about",
+    "vi": "lao vào một cuộc khẩu chiến nảy lửa về"
+  },
+  {
+    "key": "action_verynegative_3",
+    "type": 0,
+    "en": "complained bitterly about",
+    "vi": "cay đắng phàn nàn và ta thán về"
+  },
+  {
+    "key": "action_negative_1",
+    "type": 0,
+    "en": "got pretty heated conversing about",
+    "vi": "tranh luận vô cùng căng thẳng về"
+  },
+  {
+    "key": "action_negative_2",
+    "type": 0,
+    "en": "broached the topic of",
+    "vi": "khơi gợi lại chủ đề nhạy cảm về"
+  },
+  {
+    "key": "action_negative_3",
+    "type": 0,
+    "en": "grumbled on about",
+    "vi": "lẩm bẩm cằn nhằn bực bội về"
+  },
+  {
+    "key": "action_negative_4",
+    "type": 0,
+    "en": "would have preferred to avoid discussing",
+    "vi": "thà né tránh còn hơn nhắc tới chuyện"
+  },
+  {
+    "key": "action_neutral_1",
+    "type": 0,
+    "en": "started a discussion about",
+    "vi": "mở đầu một cuộc thảo luận về"
+  },
+  {
+    "key": "action_neutral_2",
+    "type": 0,
+    "en": "had ideas to share about",
+    "vi": "muốn chia sẻ quan điểm về"
+  },
+  {
+    "key": "action_neutral_3",
+    "type": 0,
+    "en": "wanted a debate about",
+    "vi": "muốn cùng tranh luận về"
+  },
+  {
+    "key": "action_neutral_4",
+    "type": 0,
+    "en": "needed to talk about",
+    "vi": "cần giãi bày tâm sự về"
+  },
+  {
+    "key": "action_neutral_5",
+    "type": 0,
+    "en": "chatted about",
+    "vi": "tán gẫu đôi câu về"
+  },
+  {
+    "key": "action_neutral_6",
+    "type": 0,
+    "en": "started a conversation about",
+    "vi": "bắt chuyện rôm rả về"
+  },
+  {
+    "key": "action_neutral_7",
+    "type": 0,
+    "en": "had time for a chat about",
+    "vi": "dành chút thời gian hàn huyên về"
+  },
+  {
+    "key": "action_neutral_8",
+    "type": 0,
+    "en": "got around to the subject of ",
+    "vi": "cuối cùng cũng chuyển đề tài sang chuyện"
+  },
+  {
+    "key": "action_neutral_9",
+    "type": 0,
+    "en": "spoke about",
+    "vi": "bàn luận về"
+  },
+  {
+    "key": "action_neutral_10",
+    "type": 0,
+    "en": "had plenty to say about",
+    "vi": "có vô số điều muốn giãi bày về"
+  },
+  {
+    "key": "action_neutral_11",
+    "type": 0,
+    "en": "shared comments regarding",
+    "vi": "đưa ra lời nhận xét chân tình về"
+  },
+  {
+    "key": "action_positive_1",
+    "type": 0,
+    "en": "was keen to talk about",
+    "vi": "vô cùng hào hứng chia sẻ về"
+  },
+  {
+    "key": "action_positive_2",
+    "type": 0,
+    "en": "began a cordial discussion about",
+    "vi": "mở đầu một cuộc trò chuyện ấm cúng về"
+  },
+  {
+    "key": "action_positive_3",
+    "type": 0,
+    "en": "indulged in some light banter about",
+    "vi": "thỏa sức trêu đùa vui vẻ về"
+  },
+  {
+    "key": "action_verypositive_1",
+    "type": 0,
+    "en": "spoke warmly about",
+    "vi": "nói bằng tất cả sự chân thành và trìu mến về"
+  },
+  {
+    "key": "action_verypositive_2",
+    "type": 0,
+    "en": "particularly appreciated chatting about",
+    "vi": "đặc biệt yêu thích khi được hàn huyên về"
+  },
+  {
+    "key": "action_verypositive_3",
+    "type": 0,
+    "en": "savoured little conversations about",
+    "vi": "say sưa đắm mình trong những câu chuyện về"
+  },
+  {
+    "key": "action_verypositive_4",
+    "type": 0,
+    "en": "could while away hours discussing",
+    "vi": "có thể ngồi hàng giờ liền say mê đàm đạo về"
+  },
+  {
+    "key": "difficulty_option_moodTarget_title",
+    "type": 0,
+    "en": "Settler Mood Value",
+    "vi": "Chỉ Số Tâm Trạng Dân Làng"
+  },
+  {
+    "key": "difficulty_option_moodTarget_info",
+    "type": 0,
+    "en": "The base mood value of a settler. Smaller values will result in settlers rebelling more often. The default settler's mood is 50.",
+    "vi": "Chỉ số tâm trạng cơ bản của dân làng. Giá trị càng thấp sẽ khiến dân làng nổi loạn thường xuyên hơn. Mức tâm trạng mặc định của dân làng là 50."
+  },
+  {
+    "key": "warning_message_info_MoodLow",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "Tâm trạng của một số dân làng đang suy sụp nghiêm trọng.\\n\\nNếu tâm trạng tụt quá thấp, họ sẽ từ chối tuân thủ thời gian biểu và mệnh lệnh, thậm chí thực hiện các hành vi tiêu cực như ăn uống vô độ hoặc say xỉn tới mức bất tỉnh nhân sự.\\n\\nNếu chỉ số tâm trạng chạm đáy về 0, họ sẽ thu dọn hành lý và bỏ đi vĩnh viễn.\\n\\nHãy nhanh chóng cải thiện tâm trạng cho họ bằng các bữa ăn nóng sốt ngon miệng, đảm bảo giường ngủ êm ái ấm áp và bố trí đủ khung giờ giải trí thư giãn trong ngày."
+  },
+  {
+    "key": "warning_message_short_MoodLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Settlers are unhappy</style>",
+    "vi": "<style=DefaultRed>Dân làng đang bất mãn u uất</style>"
+  },
+  {
+    "key": "warning_message_short_MoodLowRevolt",
+    "type": 0,
+    "en": "<style=Rebellious>Rebellious</style>",
+    "vi": "<style=Rebellious>Nổi Loạn</style>"
+  },
+  {
+    "key": "warning_message_info_MoodLowRevolt",
+    "type": 0,
+    "en": "Your settlers have had enough and for the next several hours will not follow your schedule or instructions.",
+    "vi": "Dân làng đã đạt tới giới hạn chịu đựng và trong vài giờ tới sẽ tuyệt đối không tuân theo thời gian biểu hay mệnh lệnh của bạn."
+  },
+  {
+    "key": "worker_left_mood_message",
+    "type": 0,
+    "en": "<name> left your colony because they were unhappy!",
+    "vi": "<name> đã thu dọn hành lý rời khỏi khu định cư vì quá đỗi bất mãn!"
+  },
+  {
+    "key": "warning_message_short_MoodAnnoyed",
+    "type": 0,
+    "en": "Settlers are becoming annoyed",
+    "vi": "Dân làng đang cảm thấy bực bội"
+  },
+  {
+    "key": "warning_message_info_MoodAnnoyed",
+    "type": 0,
+    "en": "The mood of some of your settlers is worsening.\\n\\nIf it gets too low they will stop following their schedule and orders, and even do destructive things like overeat or drink until they pass out.\\n\\nIf their mood falls to 0, they will leave your colony\\n\\nBe sure to combat low mood by making nice meals, giving settlers a good night's sleep and seeing that they have enough leisure hours in the day. ",
+    "vi": "Tâm trạng của một số dân làng đang có chiều hướng xấu đi.\\n\\nNếu tâm trạng tụt quá thấp, họ sẽ ngừng tuân theo thời gian biểu và mệnh lệnh, thậm chí làm những việc tiêu cực như ăn uống vô độ hoặc say xỉn tới mức bất tỉnh.\\n\\nNếu tâm trạng chạm đáy về 0, họ sẽ rời bỏ khu định cư.\\n\\nHãy cải thiện tâm trạng cho dân làng bằng những bữa ăn thịnh soạn, giấc ngủ trọn vẹn và đủ giờ giải trí trong ngày."
+  },
+  {
+    "key": "worker_low_mood_message",
+    "type": 0,
+    "en": "<name> is rebellious now!",
+    "vi": "<name> hiện đang rơi vào trạng thái nổi loạn!"
+  },
+  {
+    "key": "info_menu_mood",
+    "type": 0,
+    "en": "The settler's mood. If it reaches 0% the settler will leave.",
+    "vi": "Chỉ số tâm trạng của dân làng. Nếu chỉ số này giảm về 0%, dân làng sẽ bỏ đi vĩnh viễn."
+  },
+  {
+    "key": "mood_treshold_00",
+    "type": 0,
+    "en": "Joyful",
+    "vi": "Hân Hoan"
+  },
+  {
+    "key": "mood_treshold_01",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Bình Thường"
+  },
+  {
+    "key": "mood_treshold_02",
+    "type": 0,
+    "en": "Annoyed",
+    "vi": "Bực Bội"
+  },
+  {
+    "key": "mood_treshold_03",
+    "type": 0,
+    "en": "Disillusioned",
+    "vi": "Vỡ Mộng"
+  },
+  {
+    "key": "mood_treshold_04",
+    "type": 0,
+    "en": "Rebellious",
+    "vi": "Nổi Loạn"
+  },
+  {
+    "key": "mood_treshold_05",
+    "type": 0,
+    "en": "Broken",
+    "vi": "Suy Sụp Tuyệt Vọng"
+  },
+  {
+    "key": "menu_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Tâm Trạng"
+  },
+  {
+    "key": "worker_mood",
+    "type": 0,
+    "en": "Mood",
+    "vi": "Tâm Trạng"
+  },
+  {
+    "key": "health_treshold_01",
+    "type": 0,
+    "en": "Critical Condition",
+    "vi": "Tình Trạng Nguy Kịch"
+  },
+  {
+    "key": "worker_action_EnemyCombatIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Đang Rảnh Rỗi"
+  },
+  {
+    "key": "action_AbortEventParticipation",
+    "type": 0,
+    "en": "Leave Event",
+    "vi": "Rời Khỏi Sự Kiện"
+  },
+  {
+    "key": "action_AllowFlammableProjectile",
+    "type": 0,
+    "en": "Use Fire Arrows",
+    "vi": "Sử Dụng Tên Lửa (Tẩm Lửa)"
+  },
+  {
+    "key": "action_FlammableProjectileAllowed",
+    "type": 0,
+    "en": "Stop Using Fire Arrows ",
+    "vi": "Ngừng Sử Dụng Tên Lửa"
+  },
+  {
+    "key": "wound_blood_loss_rate",
+    "type": 0,
+    "en": "Blood loss rate",
+    "vi": "Tốc độ mất máu"
+  },
+  {
+    "key": "wound_severity",
+    "type": 0,
+    "en": "Severity",
+    "vi": "Mức độ nghiêm trọng"
+  },
+  {
+    "key": "wound_severity_Critical",
+    "type": 0,
+    "en": "Critical",
+    "vi": "Nguy Kịch"
+  },
+  {
+    "key": "wound_severity_Maximum",
+    "type": 0,
+    "en": "Maximum",
+    "vi": "Tối Đa"
+  },
+  {
+    "key": "wound_severity_Minor",
+    "type": 0,
+    "en": "Minor",
+    "vi": "Nhẹ"
+  },
+  {
+    "key": "wound_severity_Moderate",
+    "type": 0,
+    "en": "Moderate",
+    "vi": "Trung Bình"
+  },
+  {
+    "key": "wound_severity_Serious",
+    "type": 0,
+    "en": "Serious",
+    "vi": "Nghiêm Trọng"
+  },
+  {
+    "key": "wound_severity_Severe",
+    "type": 0,
+    "en": "Severe",
+    "vi": "Rất Nặng"
+  },
+  {
+    "key": "wound_tending_completed",
+    "type": 0,
+    "en": "Wounds tended",
+    "vi": "Đã băng bó chăm sóc vết thương"
+  },
+  {
+    "key": "wound_tending_fail",
+    "type": 0,
+    "en": "Tending to wound failed",
+    "vi": "Băng bó chữa trị vết thương thất bại"
+  },
+  {
+    "key": "goal_preference_name_RangedCombatPreference",
+    "type": 0,
+    "en": "Ranged Combat",
+    "vi": "Chiến Đấu Tầm Xa"
+  },
+  {
+    "key": "goal_preference_name_MeleeCombatPreference",
+    "type": 0,
+    "en": "Melee Combat",
+    "vi": "Chiến Đấu Cận Chiến"
+  },
+  {
+    "key": "goal_preference_info_RangedCombatPreference",
+    "type": 0,
+    "en": "Using Ranged Weapons like bows, crossbows or throwing weapons in combat and hunting",
+    "vi": "Sử dụng các loại vũ khí tầm xa như cung tên, nỏ hoặc vũ khí ném trong chiến đấu và săn bắn thú hoang"
+  },
+  {
+    "key": "goal_preference_info_MeleeCombatPreference",
+    "type": 0,
+    "en": "Using Melee Weapons in combat",
+    "vi": "Sử dụng các loại vũ khí cận chiến để giao tranh xáp lá cà"
+  }
+]

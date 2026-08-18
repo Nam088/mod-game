@@ -1,0 +1,902 @@
+[
+  {
+    "key": "building_name_grated_door",
+    "type": 0,
+    "en": "Grated Door",
+    "vi": "Cửa Lưới Sắt"
+  },
+  {
+    "key": "building_name_wicker_door",
+    "type": 0,
+    "en": "Wicker Door",
+    "vi": "Cửa Đan Liễu Gai"
+  },
+  {
+    "key": "building_name_wood_door",
+    "type": 0,
+    "en": "Wooden Door",
+    "vi": "Cửa Gỗ Ván"
+  },
+  {
+    "key": "building_name_reinforced_door",
+    "type": 0,
+    "en": "Reinforced Door",
+    "vi": "Cửa Gỗ Bọc Sắt Gia Cố"
+  },
+  {
+    "key": "building_name_barn_door",
+    "type": 0,
+    "en": "Barn Door",
+    "vi": "Cửa Chuồng Gia Súc"
+  },
+  {
+    "key": "building_name_wood_fence_gate",
+    "type": 0,
+    "en": "Wooden Gate",
+    "vi": "Cổng Rào Gỗ"
+  },
+  {
+    "key": "building_name_wicker_fence_gate",
+    "type": 0,
+    "en": "Wicker Gate",
+    "vi": "Cổng Rào Liễu Gai"
+  },
+  {
+    "key": "building_name_fence_gate",
+    "type": 0,
+    "en": "Fence Gate",
+    "vi": "Cổng Rào"
+  },
+  {
+    "key": "building_name_limestone_block_chimney",
+    "type": 0,
+    "en": "Limestone Block Chimney",
+    "vi": "Ống Khói Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_chimney",
+    "type": 0,
+    "en": "Limestone Chimney",
+    "vi": "Ống Khói Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_clay_brick_chimney",
+    "type": 0,
+    "en": "Clay Brick Chimney",
+    "vi": "Ống Khói Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_clay_brick_beam",
+    "type": 0,
+    "en": "Clay Brick Arch",
+    "vi": "Vòm Cửa Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_limestone_block_beam",
+    "type": 0,
+    "en": "Limestone Block Arch",
+    "vi": "Vòm Cửa Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_wood_beam",
+    "type": 0,
+    "en": "Wooden Beam",
+    "vi": "Xà Dầm Gỗ"
+  },
+  {
+    "key": "building_name_ornate_wood_beam",
+    "type": 0,
+    "en": "Ornate Wooden Beam",
+    "vi": "Xà Dầm Gỗ Chạm Khắc"
+  },
+  {
+    "key": "building_name_wood_ladder",
+    "type": 0,
+    "en": "Wooden ladder",
+    "vi": "Thang Gỗ"
+  },
+  {
+    "key": "building_name_stick_ladder",
+    "type": 0,
+    "en": "Stick ladder",
+    "vi": "Thang Dây Thừng Gỗ"
+  },
+  {
+    "key": "building_name_mounted_ballista",
+    "type": 0,
+    "en": "Mounted Ballista",
+    "vi": "Nỏ lớn cố định"
+  },
+  {
+    "key": "building_name_mounted_cannon",
+    "type": 0,
+    "en": "Mounted Cannon",
+    "vi": "Đại bác cố định"
+  },
+  {
+    "key": "building_name_movable_ballista",
+    "type": 0,
+    "en": "Movable Ballista",
+    "vi": "Nỏ lớn di động"
+  },
+  {
+    "key": "building_name_movable_cannon",
+    "type": 0,
+    "en": "Movable Cannon",
+    "vi": "Đại bác di động"
+  },
+  {
+    "key": "building_name_movable_organ_gun",
+    "type": 0,
+    "en": "Movable Organ Gun",
+    "vi": "Pháo organ di động"
+  },
+  {
+    "key": "building_name_movable_trebuchet",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Máy bắn đá đối trọng di động"
+  },
+  {
+    "key": "building_name_siege_weapon_onager",
+    "type": 0,
+    "en": "Onager",
+    "vi": "Máy bắn đá Onager"
+  },
+  {
+    "key": "building_info_siege_weapon_onager",
+    "type": 0,
+    "en": "A heavy, torsion-powered catapult. Hurl offensive items at long range.",
+    "vi": "Máy bắn đá hạng nặng dùng lực xoắn. Phóng vật phẩm tấn công ở tầm xa."
+  },
+  {
+    "key": "building_name_siege_weapon_ballista",
+    "type": 0,
+    "en": "Ballista",
+    "vi": "Nỏ lớn"
+  },
+  {
+    "key": "building_name_siege_weapon_trebuchet",
+    "type": 0,
+    "en": "Trebuchet",
+    "vi": "Máy bắn đá đối trọng"
+  },
+  {
+    "key": "building_name_minting_station",
+    "type": 0,
+    "en": "Coin Mint",
+    "vi": "Xưởng đúc tiền"
+  },
+  {
+    "key": "building_info_minting_station",
+    "type": 0,
+    "en": "Position the gold blank and strike the hammer on the metal die. Clink! A freshly minted coin.",
+    "vi": "Đặt phôi vàng rồi giáng búa lên khuôn kim loại. Keng! Một đồng tiền mới vừa được đúc."
+  },
+  {
+    "key": "building_name_siege_weapon_canon",
+    "type": 0,
+    "en": "Pot-de-fer",
+    "vi": "Pháo Pot-de-fer"
+  },
+  {
+    "key": "building_info_siege_weapon_canon",
+    "type": 0,
+    "en": "Fires heavy shot from a fixed position.",
+    "vi": "Bắn đạn nặng từ vị trí cố định."
+  },
+  {
+    "key": "building_name_siege_weapon_prism",
+    "type": 0,
+    "en": "Prism",
+    "vi": "Lăng kính"
+  },
+  {
+    "key": "building_info_siege_weapon_prism",
+    "type": 0,
+    "en": "Harnesses and directs the power of light as a potent weapon.",
+    "vi": "Thu giữ và định hướng sức mạnh ánh sáng thành một vũ khí đáng gờm."
+  },
+  {
+    "key": "building_name_rally_point_marker",
+    "type": 0,
+    "en": "Rally Point",
+    "vi": "Điểm tập hợp"
+  },
+  {
+    "key": "building_info_rally_point_marker",
+    "type": 0,
+    "en": "Settlers gather here when drafted.",
+    "vi": "Dân làng tập hợp tại đây khi được huy động."
+  },
+  {
+    "key": "building_name_large_bell",
+    "type": 0,
+    "en": "Large Bell",
+    "vi": "Chuông lớn"
+  },
+  {
+    "key": "building_info_large_bell",
+    "type": 0,
+    "en": "Ring the bell to call in settlers to activated rally points.",
+    "vi": "Rung chuông để gọi dân làng đến các điểm tập hợp đã kích hoạt."
+  },
+  {
+    "key": "building_name_drawbridge_large",
+    "type": 0,
+    "en": "Large Drawbridge",
+    "vi": "Cầu kéo lớn"
+  },
+  {
+    "key": "building_name_drawbridge_medium",
+    "type": 0,
+    "en": "Drawbridge",
+    "vi": "Cầu kéo"
+  },
+  {
+    "key": "building_name_drawbridge_short",
+    "type": 0,
+    "en": "Short Drawbridge",
+    "vi": "Cầu kéo ngắn"
+  },
+  {
+    "key": "building_info_drawbridge",
+    "type": 0,
+    "en": "A movable bridge that can be used defensively to keep enemies out. Clear livestock and items from its path when lowering to avoid destruction! ",
+    "vi": "Cầu di động có thể dùng để phòng thủ, ngăn kẻ thù xâm nhập. Hãy dọn gia súc và vật phẩm khỏi đường cầu hạ xuống để tránh bị phá hủy! "
+  },
+  {
+    "key": "building_name_ornate_bookshelf",
+    "type": 0,
+    "en": "Ornate Bookshelf",
+    "vi": "Giá sách trang trí"
+  },
+  {
+    "key": "building_info_ornate_bookshelf",
+    "type": 0,
+    "en": "Sorted alphabetically, the librarian's most valuable textbooks reside here. They are read to settlers who are keen to learn during Study Groups.",
+    "vi": "Những sách giáo khoa quý nhất của thủ thư được xếp theo bảng chữ cái tại đây. Chúng được đọc cho dân làng ham học trong các Nhóm Học tập."
+  },
+  {
+    "key": "building_name_relic_shelf",
+    "type": 0,
+    "en": "Altar Shelf",
+    "vi": "Kệ bàn thờ"
+  },
+  {
+    "key": "building_info_relic_shelf",
+    "type": 0,
+    "en": "A fitting spot to display a mystical item of great importance.",
+    "vi": "Nơi thích hợp để trưng bày một vật phẩm thần bí vô cùng quan trọng."
+  },
+  {
+    "key": "building_name_war_chest",
+    "type": 0,
+    "en": "War Chest",
+    "vi": "Rương chiến tranh"
+  },
+  {
+    "key": "building_info_war_chest",
+    "type": 0,
+    "en": "A mighty strongbox to keep gold coin for brokerage and similar purposes under lock and key.",
+    "vi": "Rương kiên cố dùng để khóa giữ tiền vàng phục vụ môi giới và các mục đích tương tự."
+  },
+  {
+    "key": "building_name_standing_decoration_pagan",
+    "type": 0,
+    "en": "Oak Brethren Idol",
+    "vi": "Thần tượng Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "building_info_standing_decoration_pagan",
+    "type": 0,
+    "en": "Human or animal? This shapely natural form is hard to categorise, but easy to revere.",
+    "vi": "Con người hay động vật? Hình dáng tự nhiên duyên dáng này khó phân loại nhưng dễ được tôn kính."
+  },
+  {
+    "key": "building_name_skittles",
+    "type": 0,
+    "en": "Skittles",
+    "vi": "Ném ki gỗ"
+  },
+  {
+    "key": "building_info_skittles",
+    "type": 0,
+    "en": "Roll a heavy leather ball at nine wooden pins and let them tumble! Generally enjoyed with a pint of cider or ale.",
+    "vi": "Lăn quả bóng da nặng vào chín ki gỗ và nhìn chúng đổ xuống! Thường được chơi cùng một vại rượu táo hoặc bia."
+  },
+  {
+    "key": "building_name_quoits",
+    "type": 0,
+    "en": "Quoits",
+    "vi": "Ném vòng"
+  },
+  {
+    "key": "building_info_quoits",
+    "type": 0,
+    "en": "Attempts to ban this hoop tossing game from the taverns of England for encouraging idleness have largely failed.",
+    "vi": "Những nỗ lực cấm trò ném vòng này khỏi quán rượu Anh vì khuyến khích sự lười biếng phần lớn đều thất bại."
+  },
+  {
+    "key": "building_name_shovelboard",
+    "type": 0,
+    "en": "Shovelboard",
+    "vi": "Bàn trượt xu"
+  },
+  {
+    "key": "building_info_shovelboard",
+    "type": 0,
+    "en": "Formerly a game reserved for nobility, anybody with a groat in their pocket these days can slide it down the board to score.",
+    "vi": "Từng là trò chơi dành riêng cho quý tộc, giờ bất kỳ ai có đồng groat trong túi cũng có thể trượt nó trên bàn để ghi điểm."
+  },
+  {
+    "key": "building_name_librarian_book_stand",
+    "type": 0,
+    "en": "Scholars' Lectern",
+    "vi": "Bục đọc của học giả"
+  },
+  {
+    "key": "building_info_librarian_book_stand",
+    "type": 0,
+    "en": "The librarian perches a precious textbook here, and reads - sometimes translating from latin or french - for the settlers at Study Group.",
+    "vi": "Thủ thư đặt sách giáo khoa quý tại đây rồi đọc, đôi khi dịch từ tiếng Latinh hoặc Pháp, cho dân làng trong Nhóm Học tập."
+  },
+  {
+    "key": "building_name_sergeants_podium",
+    "type": 0,
+    "en": "Sergeant's Podium",
+    "vi": "Bục của đội trưởng"
+  },
+  {
+    "key": "building_info_sergeants_podium",
+    "type": 0,
+    "en": "Here the sergeant stands when providing Martial Training to settlers who aspire to improve their fighting skills.",
+    "vi": "Đội trưởng đứng tại đây khi huấn luyện võ thuật cho dân làng muốn cải thiện kỹ năng chiến đấu."
+  },
+  {
+    "key": "building_name_market_centar_marker",
+    "type": 0,
+    "en": "Market Cross",
+    "vi": "Thập tự chợ"
+  },
+  {
+    "key": "building_info_market_centar_marker",
+    "type": 0,
+    "en": "Every thriving market town aspires to build a stone market cross as a hub for trade, proclamations and justice.",
+    "vi": "Mọi thị trấn chợ thịnh vượng đều muốn dựng thập tự chợ bằng đá làm trung tâm giao thương, tuyên cáo và công lý."
+  },
+  {
+    "key": "building_name_sparing_area",
+    "type": 0,
+    "en": "Sparring ground",
+    "vi": "Sân đấu tập"
+  },
+  {
+    "key": "building_info_sparing_area",
+    "type": 0,
+    "en": "Let them duel it out, while the crowd looks on and jeers. Some practice willingly, others are thrown into the pit for sport.",
+    "vi": "Hãy để họ quyết đấu trước đám đông quan sát và la ó. Có người tự nguyện luyện tập, người khác bị ném vào hố để mua vui."
+  },
+  {
+    "key": "building_name_stage",
+    "type": 0,
+    "en": "Stage",
+    "vi": "Sân khấu"
+  },
+  {
+    "key": "building_info_stage",
+    "type": 0,
+    "en": "All the world's a stage...but troubadours and jongleurs rather prefer a raised platform in a decorative tent when putting on a show.",
+    "vi": "Cả thế giới là sân khấu... nhưng những người hát rong và nghệ sĩ xiếc thích biểu diễn trên bục cao trong lều trang trí hơn."
+  },
+  {
+    "key": "building_name_strategy_table",
+    "type": 0,
+    "en": "War table",
+    "vi": "Bàn chiến thuật"
+  },
+  {
+    "key": "building_info_strategy_table",
+    "type": 0,
+    "en": "The small model castle and troops may look like toys. But the games mapped out on this strategy table are deadly serious.",
+    "vi": "Mô hình lâu đài và quân lính nhỏ trông như đồ chơi, nhưng những trận đấu được hoạch định trên bàn chiến thuật này vô cùng nghiêm túc."
+  },
+  {
+    "key": "building_name_model_solar_system",
+    "type": 0,
+    "en": "Planetarium",
+    "vi": "Mô hình thiên văn"
+  },
+  {
+    "key": "building_info_model_solar_system",
+    "type": 0,
+    "en": "A model of the firmament, with glittering planets denoting our nearest heavenly neighbours. But whether to put Helios in the middle, or our own globe, Terra? A conundrum.",
+    "vi": "Mô hình bầu trời với các hành tinh lấp lánh đại diện những láng giềng thiên thể gần nhất. Nhưng nên đặt Helios ở giữa hay địa cầu Terra của chúng ta? Một câu hỏi hóc búa."
+  },
+  {
+    "key": "building_name_scales",
+    "type": 0,
+    "en": "Scales",
+    "vi": "Cân"
+  },
+  {
+    "key": "building_info_scales",
+    "type": 0,
+    "en": "Coin balances are a necessity since Edward I proclaimed money should be weighed to stop coin clippers stealing.",
+    "vi": "Cân tiền trở nên thiết yếu từ khi Edward I tuyên bố phải cân tiền để ngăn kẻ xén đồng xu trộm cắp."
+  },
+  {
+    "key": "building_name_grand_research_table",
+    "type": 0,
+    "en": "Grand Research Table",
+    "vi": "Bàn nghiên cứu lớn"
+  },
+  {
+    "key": "building_info_grand_research_table",
+    "type": 0,
+    "en": "An ancient, hefty table, stained with ink. Perfect for gathering many manuscripts together and consulting them to write an influential treatise.",
+    "vi": "Chiếc bàn cổ nặng nề, nhuốm đầy mực. Hoàn hảo để tập hợp nhiều bản thảo và tham khảo khi viết một luận thuyết có ảnh hưởng."
+  },
+  {
+    "key": "building_name_chess_pawn",
+    "type": 0,
+    "en": "Pawn",
+    "vi": "Tốt"
+  },
+  {
+    "key": "building_name_chess_rook",
+    "type": 0,
+    "en": "Rook",
+    "vi": "Xe"
+  },
+  {
+    "key": "building_name_chess_knight",
+    "type": 0,
+    "en": "Knight",
+    "vi": "Hiệp sĩ"
+  },
+  {
+    "key": "building_name_chess_bishop",
+    "type": 0,
+    "en": "Bishop",
+    "vi": "Quân Cờ Tượng"
+  },
+  {
+    "key": "building_name_chess_king",
+    "type": 0,
+    "en": "King",
+    "vi": "Quân Cờ Vua"
+  },
+  {
+    "key": "building_name_chess_queen",
+    "type": 0,
+    "en": "Queen",
+    "vi": "Quân Cờ Hậu"
+  },
+  {
+    "key": "building_info_chess_piece",
+    "type": 0,
+    "en": "The statue resembles a chess piece. Its etched features stack definitively atop one another, like moves in a long, careful game",
+    "vi": "Bức tượng mô phỏng hình tượng một quân cờ bàn. Từng đường nét chạm khắc vững chãi uy nghi tựa như những nước cờ cân não trong một ván cờ chiến thuật kéo dài."
+  },
+  {
+    "key": "building_name_foxy_statue",
+    "type": 0,
+    "en": "Statue of a Fox",
+    "vi": "Tượng Cáo Tinh Ranh"
+  },
+  {
+    "key": "building_info_foxy_statue2",
+    "type": 0,
+    "en": "Quite foxy...",
+    "vi": "Thật là tinh ranh tựa loài cáo..."
+  },
+  {
+    "key": "building_info_foxy_statue",
+    "type": 0,
+    "en": "<b>A small tribute to those who help keep this community thriving</b>\n    Mathijs The Otter Mod\n    Lyosha\n    alexbb721\n    Isabelle 'Lady' Briar\n    Lady Kathleen\n    Megan_OMCF\n    Miss Morrigan Marie\n    and you - our Early Access players.",
+    "vi": "<b>Lời tri ân sâu sắc gửi tới những cá nhân xuất sắc đã cùng xây dựng cộng đồng Going Medieval phát triển hưng thịnh:</b>\\n    Mathijs The Otter Mod\\n    Lyosha\\n    alexbb721\\n    Isabelle 'Lady' Briar\\n    Lady Kathleen\\n    Megan_OMCF\\n    Miss Morrigan Marie\\n    và toàn thể quý bạn — những người chơi gắn bó từ giai đoạn Early Access."
+  },
+  {
+    "key": "building_name_scarecrow",
+    "type": 0,
+    "en": "Scarecrow",
+    "vi": "Bù Nhìn Rơm Đuổi Quạ"
+  },
+  {
+    "key": "building_info_scarecrow",
+    "type": 0,
+    "en": "A man built of sticks and straw, sporting a battered jerkin, hat sagging low. The crows hesitate, not because it moves with the wind, but because it's always watching.",
+    "vi": "Hình nhân làm từ cành cây khô và rơm rạ, khoác tấm áo gi-lê rách bươm cùng chiếc mũ sụp vành. Lũ quạ hoảng sợ khựng lại không chỉ vì bóng dáng nó lay động trong gió, mà bởi cảm giác nó đang không ngừng dõi mắt nhìn trừng trừng."
+  },
+  {
+    "key": "building_name_sundial",
+    "type": 0,
+    "en": "Sundial",
+    "vi": "Đồng Hồ Mặt Trời"
+  },
+  {
+    "key": "building_info_sundial",
+    "type": 0,
+    "en": "Its gnomon angled like a monk’s finger, the sundial tracks the hours with shadows. Incised numerals remind all who pass that daylight is a limited resource.",
+    "vi": "Chiếc kim đồng hồ bằng đồng nghiêng tựa ngón tay tu sĩ chỉ đường, theo dõi thời gian trôi qua bóng đổ của vầng dương. Những ký tự số La Mã khắc sâu nhắc nhở khách bộ hành rằng ánh sáng ban ngày là một nguồn tài nguyên quý giá có hạn."
+  },
+  {
+    "key": "building_name_purple_torch",
+    "type": 0,
+    "en": "Torch (Twitch)",
+    "vi": "Đuốc Ánh Tím (Twitch)"
+  },
+  {
+    "key": "building_name_purple_torch_wall",
+    "type": 0,
+    "en": "Wall Torch (Twitch)",
+    "vi": "Đuốc Treo Tường Ánh Tím (Twitch)"
+  },
+  {
+    "key": "building_name_purple_brazier",
+    "type": 0,
+    "en": "Brazier (Twitch)",
+    "vi": "Chậu Than Ánh Tím (Twitch)"
+  },
+  {
+    "key": "building_name_animal_sleeping_spot_hay",
+    "type": 0,
+    "en": "Animal Sleeping Spot (hay)",
+    "vi": "Ổ Nằm Động Vật (Cỏ Khô)"
+  },
+  {
+    "key": "building_info_animal_sleeping_spot",
+    "type": 0,
+    "en": "A comfortable spot where domesticated animals will lie down to rest.",
+    "vi": "Một chỗ nằm lót rơm ấm áp êm ái để đàn gia súc đã thuần hóa có thể nằm xuống nghỉ ngơi dưỡng sức."
+  },
+  {
+    "key": "building_name_advanced_research_table",
+    "type": 0,
+    "en": "Advanced Research Table",
+    "vi": "Bàn Nghiên Cứu Cao Cấp"
+  },
+  {
+    "key": "building_name_apothecary_bench",
+    "type": 0,
+    "en": "Apothecary Bench",
+    "vi": "Bàn Bào Chế Dược Liệu"
+  },
+  {
+    "key": "building_name_armourer_table",
+    "type": 0,
+    "en": "Armourer's Table",
+    "vi": "Bàn Thợ Rèn Giáp Trụ"
+  },
+  {
+    "key": "building_name_basic_research_table",
+    "type": 0,
+    "en": "Basic Research Table",
+    "vi": "Bàn Nghiên Cứu Sơ Cấp"
+  },
+  {
+    "key": "building_name_general_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge",
+    "vi": "Lò Rèn Kim Loại"
+  },
+  {
+    "key": "building_name_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge (Limestone Brick)",
+    "vi": "Lò Rèn Kim Loại (Gạch Đá Vôi)"
+  },
+  {
+    "key": "building_name_clay_brick_blacksmith_station",
+    "type": 0,
+    "en": "Blacksmith's Forge (Clay Brick)",
+    "vi": "Lò Rèn Kim Loại (Gạch Đất Sét)"
+  },
+  {
+    "key": "building_name_brewing_station",
+    "type": 0,
+    "en": "Brewing Station",
+    "vi": "Trạm Nấu Rượu Bia"
+  },
+  {
+    "key": "building_name_butchering_table",
+    "type": 0,
+    "en": "Butchering Table",
+    "vi": "Bàn Mổ Thịt Động Vật"
+  },
+  {
+    "key": "building_name_camp_fire",
+    "type": 0,
+    "en": "Campfire",
+    "vi": "Lửa Trại Dã Ngoại"
+  },
+  {
+    "key": "building_name_stove",
+    "type": 0,
+    "en": "Stove",
+    "vi": "Bếp Nấu Ăn"
+  },
+  {
+    "key": "building_name_general_hearth",
+    "type": 0,
+    "en": "Hearth",
+    "vi": "Bếp Sưởi Lò"
+  },
+  {
+    "key": "building_name_clay_brick_stove",
+    "type": 0,
+    "en": "Stove (Clay Brick)",
+    "vi": "Bếp Nấu Ăn (Gạch Đất Sét)"
+  },
+  {
+    "key": "building_name_limestone_block_stove",
+    "type": 0,
+    "en": "Stove (Limestone Brick)",
+    "vi": "Bếp Nấu Ăn (Gạch Đá Vôi)"
+  },
+  {
+    "key": "building_name_limestone_stove",
+    "type": 0,
+    "en": "Stove (Limestone)",
+    "vi": "Bếp Nấu Ăn (Đá Vôi)"
+  },
+  {
+    "key": "building_name_compost_making_station",
+    "type": 0,
+    "en": "Compost Heap",
+    "vi": "Đống Ủ Phân Hữu Cơ"
+  },
+  {
+    "key": "building_name_fermenting_station",
+    "type": 0,
+    "en": "Fermenting Station",
+    "vi": "Trạm Lên Men Thùng Gỗ"
+  },
+  {
+    "key": "building_name_fletchers_table",
+    "type": 0,
+    "en": "Bowyer's Table",
+    "vi": "Bàn Chế Tạo Cung Tên"
+  },
+  {
+    "key": "building_name_general_kiln",
+    "type": 0,
+    "en": "Kiln",
+    "vi": "Lò Nung Gạch Gốm"
+  },
+  {
+    "key": "building_name_kiln",
+    "type": 0,
+    "en": "Kiln (Clay)",
+    "vi": "Lò Nung Gạch (Đất Sét)"
+  },
+  {
+    "key": "building_name_limestone_kiln",
+    "type": 0,
+    "en": "Kiln (Limestone)",
+    "vi": "Lò Nung Vôi (Đá Vôi)"
+  },
+  {
+    "key": "building_name_smelting_station_default",
+    "type": 0,
+    "en": "Smelting Furnace",
+    "vi": "Lò Luyện Kim Đúc Quặng"
+  },
+  {
+    "key": "building_name_limestone_smelting_station",
+    "type": 0,
+    "en": "Smelting Furnace (Limestone)",
+    "vi": "Lò Luyện Kim (Đá Vôi)"
+  },
+  {
+    "key": "building_name_smelting_station",
+    "type": 0,
+    "en": "Smelting Furnace (Clay)",
+    "vi": "Lò Luyện Kim (Đất Sét)"
+  },
+  {
+    "key": "building_name_smokehouse_default",
+    "type": 0,
+    "en": "Smokehouse",
+    "vi": "Lò Hun Khói Bảo Quản Thịt"
+  },
+  {
+    "key": "building_name_limestone_smokehouse",
+    "type": 0,
+    "en": "Smokehouse (Limestone)",
+    "vi": "Lò Hun Khói (Đá Vôi)"
+  },
+  {
+    "key": "building_name_smokehouse",
+    "type": 0,
+    "en": "Smokehouse (Clay)",
+    "vi": "Lò Hun Khói (Đất Sét)"
+  },
+  {
+    "key": "building_name_pyre",
+    "type": 0,
+    "en": "Pyre",
+    "vi": "Giàn Hỏa Thiêu"
+  },
+  {
+    "key": "building_name_research_table",
+    "type": 0,
+    "en": "Research Table",
+    "vi": "Bàn Nghiên Cứu Tri Thức"
+  },
+  {
+    "key": "building_name_sewing_station",
+    "type": 0,
+    "en": "Sewing Station",
+    "vi": "Bàn May Dệt Quần Áo"
+  },
+  {
+    "key": "building_name_spirit_destilary",
+    "type": 0,
+    "en": "Spirit Distillery",
+    "vi": "Lò Chưng Cất Rượu Nồng"
+  },
+  {
+    "key": "building_name_stonemasons_bench",
+    "type": 0,
+    "en": "Stonemason's Bench",
+    "vi": "Bàn Thợ Đẽo Đá"
+  },
+  {
+    "key": "building_name_woodwork_bench",
+    "type": 0,
+    "en": "Woodwork Bench",
+    "vi": "Bàn Thợ Mộc Chế Tác Gỗ"
+  },
+  {
+    "key": "building_name_ice_station",
+    "type": 0,
+    "en": "Ice Box",
+    "vi": "Hầm Thùng Chứa Băng"
+  },
+  {
+    "key": "building_name_skep",
+    "type": 0,
+    "en": "Skep",
+    "vi": "Thùng Nuôi Ong Bện Rơm (Skep)"
+  },
+  {
+    "key": "building_name_easel",
+    "type": 0,
+    "en": "Easel",
+    "vi": "Giá Vẽ Hội Họa"
+  },
+  {
+    "key": "building_name_saltpeter_pit",
+    "type": 0,
+    "en": "Saltpetre Works",
+    "vi": "Hầm Chiết Xuất Diêm Tiêu"
+  },
+  {
+    "key": "building_name_oil_press",
+    "type": 0,
+    "en": "Oil Press",
+    "vi": "Máy Ép Dầu Thực Vật"
+  },
+  {
+    "key": "building_info_saltpeter_pit",
+    "type": 0,
+    "en": "Turns excrement into a valuable crystal with explosive potential.",
+    "vi": "Xử lý phân thải chuồng trại thành những tinh thể khoáng chất diêm tiêu vô giá phục vụ chế tạo thuốc nổ."
+  },
+  {
+    "key": "building_info_oil_press",
+    "type": 0,
+    "en": "Process raw materials into oil in this useful contraption.",
+    "vi": "Ép nghiền các loại hạt nông sản thành dầu bôi trơn và thắp sáng bằng cỗ máy đòn bẩy tiện lợi này."
+  },
+  {
+    "key": "building_name_general_roof_half",
+    "type": 0,
+    "en": "Half Roof",
+    "vi": "Nửa Mái Dốc"
+  },
+  {
+    "key": "building_name_general_roof_whole",
+    "type": 0,
+    "en": "Roof",
+    "vi": "Mái Nhà Hoàn Chỉnh"
+  },
+  {
+    "key": "building_name_clay_shingle_roof_half",
+    "type": 0,
+    "en": "Clay Shingle Roof Half",
+    "vi": "Nửa Mái Ngói Gốm Đất Sét"
+  },
+  {
+    "key": "building_name_clay_shingle_roof_whole",
+    "type": 0,
+    "en": "Clay Shingle Roof",
+    "vi": "Mái Ngói Gốm Đất Sét"
+  },
+  {
+    "key": "building_name_hay_roof_half",
+    "type": 0,
+    "en": "Thatched Roof Half",
+    "vi": "Nửa Mái Nhà Tranh"
+  },
+  {
+    "key": "building_name_hay_roof_whole",
+    "type": 0,
+    "en": "Thatched Roof",
+    "vi": "Mái Nhà Tranh"
+  },
+  {
+    "key": "building_name_limestone_slate_roof_half",
+    "type": 0,
+    "en": "Limestone Slate Roof Half",
+    "vi": "Nửa Mái Phiến Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_slate_roof_whole",
+    "type": 0,
+    "en": "Limestone Slate Roof",
+    "vi": "Mái Phiến Đá Vôi"
+  },
+  {
+    "key": "building_name_wicker_roof_half",
+    "type": 0,
+    "en": "Wicker Roof Half",
+    "vi": "Nửa Mái Đan Liễu Gai"
+  },
+  {
+    "key": "building_name_wicker_roof_whole",
+    "type": 0,
+    "en": "Wicker Roof",
+    "vi": "Mái Đan Liễu Gai"
+  },
+  {
+    "key": "building_name_wood_roof_half",
+    "type": 0,
+    "en": "Wooden Roof Half",
+    "vi": "Nửa Mái Gỗ Ván"
+  },
+  {
+    "key": "building_name_wood_roof_whole",
+    "type": 0,
+    "en": "Wooden Roof",
+    "vi": "Mái Gỗ Ván"
+  },
+  {
+    "key": "building_name_warden_desk",
+    "type": 0,
+    "en": "Prison Warden's Desk",
+    "vi": "Bàn Làm Việc Của Cai Ngục Trưởng"
+  },
+  {
+    "key": "building_Info_warden_desk",
+    "type": 0,
+    "en": "This weighty table represents the warden's locus of power over the settlement's prisoners.",
+    "vi": "Chiếc bàn gỗ đồ sộ tượng trưng cho uy quyền tối cao của cai ngục trưởng trong việc quản lý phạm nhân toàn trại."
+  },
+  {
+    "key": "building_name_prison_stash",
+    "type": 0,
+    "en": "Prisoner's Stash",
+    "vi": "Tủ Đựng Khẩu Phần Tù Nhân"
+  },
+  {
+    "key": "building_Info_prison_stash",
+    "type": 0,
+    "en": "Victuals are stored here for prisoners in their cells.",
+    "vi": "Nơi cất trữ thức ăn và nước uống phục vụ trực tiếp cho các phạm nhân bị giam trong xà lim."
+  },
+  {
+    "key": "building_name_fire_pit",
+    "type": 0,
+    "en": "Fire Pit",
+    "vi": "Hố Lửa Lò Sưởi"
+  },
+  {
+    "key": "building_name_fire_pit_round",
+    "type": 0,
+    "en": "Round Fire Pit",
+    "vi": "Hố Lửa Tròn"
+  }
+]

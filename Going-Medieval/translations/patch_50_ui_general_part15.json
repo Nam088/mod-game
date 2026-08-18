@@ -1,0 +1,902 @@
+[
+  {
+    "key": "update_entry_94",
+    "type": 0,
+    "en": "Ambush event",
+    "vi": "Sự Kiện Bị Mai Phục Tấn Công"
+  },
+  {
+    "key": "update_entry_95",
+    "type": 0,
+    "en": "Loot Stashes",
+    "vi": "Kho Báu & Rương Chiến Lợi Phẩm"
+  },
+  {
+    "key": "update_entry_96",
+    "type": 0,
+    "en": "Beggar Event",
+    "vi": "Sự Kiện Kẻ Ăn Xin Cơ Nhỡ"
+  },
+  {
+    "key": "update_entry_11",
+    "type": 0,
+    "en": "Structure Variations",
+    "vi": "Biến Thể Hình Dáng Công Trình"
+  },
+  {
+    "key": "update_entry_12",
+    "type": 0,
+    "en": "Seeds & Saplings",
+    "vi": "Hạt Giống & Cây Giống Non"
+  },
+  {
+    "key": "update_entry_13",
+    "type": 0,
+    "en": "Ice Blocks",
+    "vi": "Khối Băng Lạnh Bảo Quản"
+  },
+  {
+    "key": "update_entry_14",
+    "type": 0,
+    "en": "Beekeeping",
+    "vi": "Nghề Nuôi Ong Lấy Mật"
+  },
+  {
+    "key": "update_entry_15",
+    "type": 0,
+    "en": "Orchards",
+    "vi": "Vườn Cây Ăn Quả Trù Phú"
+  },
+  {
+    "key": "update_entry_16",
+    "type": 0,
+    "en": "New Resources",
+    "vi": "Bổ Sung Tài Nguyên & Nông Sản Mới"
+  },
+  {
+    "key": "update_entry_17",
+    "type": 0,
+    "en": "Heat Source Refueling",
+    "vi": "Tiếp Nhiên Liệu Nguồn Nhiệt Tự Động"
+  },
+  {
+    "key": "update_entry_18",
+    "type": 0,
+    "en": "New Faction Equipment",
+    "vi": "Trang Bị Phe Phái Mới"
+  },
+  {
+    "key": "update_entry_19",
+    "type": 0,
+    "en": "New Music Tracks",
+    "vi": "Bản Nhạc Nền Mới"
+  },
+  {
+    "key": "update_entry_01",
+    "type": 0,
+    "en": "Shelves & Weapon racks",
+    "vi": "Kệ Chứa Đồ & Giá Treo Vũ Khí"
+  },
+  {
+    "key": "update_entry_02",
+    "type": 0,
+    "en": "Larger Maps",
+    "vi": "Bản Đồ Kích Thước Lớn Hơn"
+  },
+  {
+    "key": "update_entry_03",
+    "type": 0,
+    "en": "Stockpile priority",
+    "vi": "Độ Ưu Tiên Của Bãi Chứa"
+  },
+  {
+    "key": "update_entry_04",
+    "type": 0,
+    "en": "Temperature Balance",
+    "vi": "Cân Bằng Cơ Chế Nhiệt Độ"
+  },
+  {
+    "key": "update_entry_05",
+    "type": 0,
+    "en": "Trebuchet Balance & Changes",
+    "vi": "Cân bằng & thay đổi máy bắn đá"
+  },
+  {
+    "key": "update_entry_06",
+    "type": 0,
+    "en": "QoL Improvements",
+    "vi": "Cải thiện tiện ích"
+  },
+  {
+    "key": "update_entry_07",
+    "type": 0,
+    "en": "New decorative structures",
+    "vi": "Công trình trang trí mới"
+  },
+  {
+    "key": "update_entry_08",
+    "type": 0,
+    "en": "Stability & Optimisation",
+    "vi": "Ổn định & tối ưu hóa"
+  },
+  {
+    "key": "update_entry_09",
+    "type": 0,
+    "en": "Relocate Structures",
+    "vi": "Di dời công trình"
+  },
+  {
+    "key": "update_entry_10",
+    "type": 0,
+    "en": "Character Customisation",
+    "vi": "Tùy chỉnh nhân vật"
+  },
+  {
+    "key": "mode_name_plateau",
+    "type": 0,
+    "en": "Steady",
+    "vi": "Ổn định"
+  },
+  {
+    "key": "mode_info_plateau",
+    "type": 0,
+    "en": "Rapid increase to a predictable plateau",
+    "vi": "Tăng nhanh đến một mức độ ổn định và có thể dự đoán được"
+  },
+  {
+    "key": "mode_name_standard",
+    "type": 0,
+    "en": "Standard",
+    "vi": "Tiêu chuẩn"
+  },
+  {
+    "key": "mode_info_standard",
+    "type": 0,
+    "en": "Slower increase to an eventual plateau",
+    "vi": "Tăng chậm dần đến khi đạt mức ổn định"
+  },
+  {
+    "key": "mode_name_rampUp",
+    "type": 0,
+    "en": "Challenge",
+    "vi": "Thử thách"
+  },
+  {
+    "key": "mode_info_rampUp",
+    "type": 0,
+    "en": "Steep increase ramps up over a decade",
+    "vi": "Độ khó tăng dốc liên tục trong suốt một thập kỷ"
+  },
+  {
+    "key": "mode_name_Wavy",
+    "type": 0,
+    "en": "Unforseeable",
+    "vi": "Khó lường"
+  },
+  {
+    "key": "mode_info_Wavy",
+    "type": 0,
+    "en": "Expect surprises in event intensity",
+    "vi": "Cường độ các sự kiện thay đổi bất ngờ, khó lường trước"
+  },
+  {
+    "key": "schedule_default_4_title",
+    "type": 0,
+    "en": "Hard",
+    "vi": "Khó"
+  },
+  {
+    "key": "schedule_default_3_title",
+    "type": 0,
+    "en": "Very Hard",
+    "vi": "Rất khó"
+  },
+  {
+    "key": "difficulty_option_woundSeverityMultiplier_title",
+    "type": 0,
+    "en": "Wound Severity Multiplier",
+    "vi": "Hệ số độ nghiêm trọng của vết thương"
+  },
+  {
+    "key": "difficulty_option_woundSeverityMultiplier_info",
+    "type": 0,
+    "en": "Determines the severity of wounds inflicted on settlers. Less severe wounds have a lower impact on attributes, and are more easily tended.",
+    "vi": "Xác định mức độ nghiêm trọng của các vết thương gây ra cho dân làng. Vết thương nhẹ hơn sẽ ít làm giảm chỉ số và dễ chữa lành hơn."
+  },
+  {
+    "key": "difficulty_option_mineYieldMultiplier_title",
+    "type": 0,
+    "en": "Mine Yield Multiplier",
+    "vi": "Hệ số sản lượng khai khoáng"
+  },
+  {
+    "key": "difficulty_option_mineYieldMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the base value of resources extracted when a voxel is mined",
+    "vi": "Nhân với giá trị cơ bản của tài nguyên thu được khi một khối voxel được khai thác."
+  },
+  {
+    "key": "difficulty_option_CellarFloodEvent_title",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Hầm ngập nước"
+  },
+  {
+    "key": "difficulty_option_enemyHPMax_title",
+    "type": 0,
+    "en": "Enemy Hitpoints",
+    "vi": "Máu kẻ thù"
+  },
+  {
+    "key": "difficulty_option_enemyHPMax_info",
+    "type": 0,
+    "en": "The maximum amount of hitpoints an enemy has. Changing this during a playthrough will affect enemies that are yet to come, and not those already on your map. ",
+    "vi": "Lượng máu tối đa của kẻ thù. Việc thay đổi thông số này trong quá trình chơi sẽ chỉ áp dụng cho kẻ thù xuất hiện sau đó, không ảnh hưởng đến kẻ thù đã có trên bản đồ."
+  },
+  {
+    "key": "difficulty_option_healthRecoverySpeed_title",
+    "type": 0,
+    "en": "Hitpoints Recovery",
+    "vi": "Hồi phục máu"
+  },
+  {
+    "key": "difficulty_option_healthRecoverySpeed_info",
+    "type": 0,
+    "en": "Health recovery: base hitpoint recovery rate +/- multipliers.",
+    "vi": "Hồi phục sức khỏe: Tốc độ hồi phục sinh lực cơ bản kèm các hệ số nhân."
+  },
+  {
+    "key": "difficulty_option_rottingSpeed_title",
+    "type": 0,
+    "en": "Rotting Speed",
+    "vi": "Tốc độ thối rữa"
+  },
+  {
+    "key": "difficulty_option_rottingSpeed_info",
+    "type": 0,
+    "en": "How quickly resources like raw food will lose freshness and rot.",
+    "vi": "Tốc độ tài nguyên như thực phẩm tươi sống bị giảm độ tươi và thối rữa."
+  },
+  {
+    "key": "difficulty_option_decomposeSpeed_title",
+    "type": 0,
+    "en": "Decomposition Speed",
+    "vi": "Tốc độ phân hủy"
+  },
+  {
+    "key": "difficulty_option_decomposeSpeed_info",
+    "type": 0,
+    "en": "How quickly resources will lose HP due to environmental factors, like rain and temperature",
+    "vi": "Tốc độ vật phẩm bị mất độ bền do các yếu tố môi trường như mưa gió và nhiệt độ."
+  },
+  {
+    "key": "difficulty_option_tradingValue_title",
+    "type": 0,
+    "en": "Barter Value",
+    "vi": "Giá trị trao đổi"
+  },
+  {
+    "key": "difficulty_option_tradingValue_info",
+    "type": 0,
+    "en": "This offsets the proffered value by XX%.",
+    "vi": "Điều này làm thay đổi giá trị trao đổi thêm XX%."
+  },
+  {
+    "key": "difficulty_option_huntingRetailateChance_title",
+    "type": 0,
+    "en": "Chance Quarry Retaliates",
+    "vi": "Tỉ lệ con mồi chống trả"
+  },
+  {
+    "key": "difficulty_option_huntingRetailateChance_info",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "Tỉ lệ con mồi sẽ quay lại tấn công người đi săn."
+  },
+  {
+    "key": "difficulty_option_globalWorkSpeed_title",
+    "type": 0,
+    "en": "Global Work Speed",
+    "vi": "Tốc độ làm việc chung"
+  },
+  {
+    "key": "difficulty_option_globalWorkSpeed_info",
+    "type": 0,
+    "en": "This multiplies the speed of all job-related activities.",
+    "vi": "Nhân với tốc độ thực hiện mọi hoạt động công việc."
+  },
+  {
+    "key": "difficulty_weight_info",
+    "type": 0,
+    "en": "This represents the weighted value of the chance the event has of being triggered. The larger the base value, the more this event will happen. Remember that if every event type has the highest weighted value, then they all have an equal chance of triggering.\nWeightings are further influenced by other systems in the game: like faction friendliness, time of year, map type, amount of settlers, and many more.",
+    "vi": "Thể hiện trọng số xác suất để sự kiện được kích hoạt. Giá trị cơ bản càng lớn thì sự kiện càng dễ xảy ra. Lưu ý rằng nếu tất cả các loại sự kiện đều có trọng số cao nhất, chúng sẽ có cơ hội kích hoạt ngang nhau.\nTrọng số còn chịu ảnh hưởng bởi các yếu tố khác trong trò chơi: như độ thân thiện của phe phái, thời điểm trong năm, loại bản đồ, số lượng dân làng và nhiều yếu tố khác."
+  },
+  {
+    "key": "difficulty_option_runawayEvent_title",
+    "type": 0,
+    "en": "Runaway",
+    "vi": "Người chạy trốn"
+  },
+  {
+    "key": "difficulty_option_newWorkerEvent_title",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "Dân làng mới"
+  },
+  {
+    "key": "difficulty_option_visitorEvent_title",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Khách viếng thăm"
+  },
+  {
+    "key": "difficulty_option_visitorRoleEvent_title",
+    "type": 0,
+    "en": "Visitor with a particular role",
+    "vi": "Khách viếng thăm có vai trò đặc biệt"
+  },
+  {
+    "key": "difficulty_option_thundertstormEvent_title",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Bão giông sấm sét"
+  },
+  {
+    "key": "difficulty_option_thundertstormEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi này"
+  },
+  {
+    "key": "difficulty_option_blightEvent_title",
+    "type": 0,
+    "en": "Blighted Crops",
+    "vi": "Dịch bệnh cây trồng"
+  },
+  {
+    "key": "difficulty_option_blightEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi này"
+  },
+  {
+    "key": "difficulty_option_hailstormEvent_title",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Mưa đá"
+  },
+  {
+    "key": "difficulty_option_hailstormEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi này"
+  },
+  {
+    "key": "difficulty_option_coldsnapEvent_title",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Đợt rét đậm"
+  },
+  {
+    "key": "difficulty_option_coldsnapEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi này"
+  },
+  {
+    "key": "difficulty_option_heatwaveEvent_title",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Đợt nắng nóng"
+  },
+  {
+    "key": "difficulty_option_heatwaveEvent_info",
+    "type": 0,
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi này"
+  },
+  {
+    "key": "difficulty_option_useSeeds_title",
+    "type": 0,
+    "en": "Use Seeds",
+    "vi": "Sử dụng hạt giống"
+  },
+  {
+    "key": "difficulty_option_useSeeds_info",
+    "type": 0,
+    "en": "Use seeds for sowing. It is recommended to leave this 'on.' Turning this off results in unused seeds visible on the map: settlers will go through the motions of sowing at locations designated as crop fields where plants will grow automatically. You still need to acquire seeds to unlock a crop field. ",
+    "vi": "Sử dụng hạt giống khi gieo trồng. Khuyến nghị nên luôn 'bật' tùy chọn này. Nếu tắt, hạt giống không dùng đến sẽ hiển thị trên bản đồ: dân làng sẽ thực hiện động tác gieo tại các khu vực được chỉ định làm ruộng và cây sẽ tự mọc. Bạn vẫn cần thu thập hạt giống để mở khóa loại ruộng tương ứng."
+  },
+  {
+    "key": "difficulty_option_enemiesHaveTrebuchet_title",
+    "type": 0,
+    "en": "Enemies Armed with Siege Weapons",
+    "vi": "Kẻ thù trang bị vũ khí công thành"
+  },
+  {
+    "key": "difficulty_option_enemiesHaveTrebuchet_info",
+    "type": 0,
+    "en": "Turning this off disables enemies from constructing siege weapons during regular raids.",
+    "vi": "Tắt tùy chọn này sẽ ngăn kẻ thù xây dựng vũ khí công thành trong các đợt đột kích thông thường."
+  },
+  {
+    "key": "difficulty_option_fireSpreadSpeedMultiplier_title",
+    "type": 0,
+    "en": "Fire Spread Multiplier",
+    "vi": "Hệ số cháy lan"
+  },
+  {
+    "key": "difficulty_option_fireSpreadSpeedMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the speed at which fire spreads. This is additional to the property that as damage accrues, fire spreads more slowly to neighbouring ground. Speed of fire spread on oil splashes is unaffected.",
+    "vi": "Hệ số nhân tốc độ cháy lan của lửa. Tính năng này bổ sung vào cơ chế khi sát thương tích tụ, lửa sẽ lan chậm hơn sang mặt đất lân cận. Tốc độ cháy lan trên các vệt dầu loang không bị ảnh hưởng."
+  },
+  {
+    "key": "difficulty_option_caravanAmbushChanceMultiplier_title",
+    "type": 0,
+    "en": "Ambush Chance",
+    "vi": "Tỉ lệ phục kích"
+  },
+  {
+    "key": "difficulty_option_caravanAmbushChanceMultiplier_info",
+    "type": 0,
+    "en": "The base chance of an ambush happening. This is further multiplied by various factors when creating caravans",
+    "vi": "Tỉ lệ cơ bản xảy ra một cuộc phục kích đoàn buôn. Tỉ lệ này sẽ được nhân thêm bởi nhiều yếu tố khác nhau khi thành lập đoàn buôn."
+  },
+  {
+    "key": "save_load_fail",
+    "type": 0,
+    "en": "Settlements saved using game version <save_modified_version> will not work on version <valid_save_version> and above. To make the most of new game features, please start a new settlement. Alternatively, you can revert to a legacy build in your game launcher to continue playing this settlement",
+    "vi": "Khu định cư được lưu từ phiên bản trò chơi <save_modified_version> sẽ không hoạt động trên phiên bản <valid_save_version> trở lên. Để trải nghiệm trọn vẹn các tính năng mới, vui lòng bắt đầu một khu định cư mới. Hoặc bạn có thể chuyển về phiên bản cũ trong trình khởi chạy game để tiếp tục chơi khu định cư này."
+  },
+  {
+    "key": "game_parametars_title",
+    "type": 0,
+    "en": "Custom Gameplay Settings",
+    "vi": "Tùy chỉnh thiết lập lối chơi"
+  },
+  {
+    "key": "game_parametars_title_old",
+    "type": 0,
+    "en": "Game Parameters",
+    "vi": "Thông số trò chơi"
+  },
+  {
+    "key": "demo_end_message",
+    "type": 0,
+    "en": "This is the end of the Going Medieval Demo. \nYou may continue to build your settlement in the full game, or feel free to start over with a new settlement here in the demo.\nThank you for trying out Going Medieval!",
+    "vi": "Bản chơi thử Going Medieval đến đây là kết thúc. \nBạn có thể tiếp tục xây dựng khu định cư của mình trong phiên bản đầy đủ, hoặc bắt đầu một khu định cư mới tại bản chơi thử này.\nCảm ơn bạn đã trải nghiệm Going Medieval!"
+  },
+  {
+    "key": "demo_start_message",
+    "type": 0,
+    "en": "<b><uppercase>Welcome to the Going Medieval Demo!</b></uppercase> \nEach settlement may only be played until the end of the first Spring.\nAlso, please note that some features are unavailable in the demo.\nWe hope you enjoy this small slice of the larger game. \nYou'll be able to continue your demo save in the full v1.0 release.",
+    "vi": "<b><uppercase>Chào mừng đến với bản thử nghiệm Going Medieval!</b></uppercase> \nMỗi khu định cư chỉ có thể chơi cho đến hết Mùa Xuân đầu tiên.\nNgoài ra, xin lưu ý một số tính năng sẽ bị khóa trong bản thử nghiệm này.\nChúng tôi hy vọng bạn sẽ thích trải nghiệm phần đầu của trò chơi. \nBạn sẽ có thể tiếp tục bản lưu này khi trò chơi phát hành chính thức bản v1.0."
+  },
+  {
+    "key": "demo_exit_message",
+    "type": 0,
+    "en": "Thank you for trying out Going Medieval!\nContinue to build your settlement into a mighty colony in the full game.\nFollow us on <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> for development updates.",
+    "vi": "Cảm ơn bạn đã trải nghiệm Going Medieval!\nHãy tiếp tục xây dựng khu định cư của bạn thành một thuộc địa hùng mạnh trong phiên bản đầy đủ.\nTheo dõi chúng tôi trên <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> để nhận các bản cập nhật phát triển mới nhất."
+  },
+  {
+    "key": "not_available_in_demo",
+    "type": 0,
+    "en": "Not available in Demo version",
+    "vi": "Không khả dụng trong bản thử nghiệm"
+  },
+  {
+    "key": "lb_get_Started",
+    "type": 0,
+    "en": "Get Started",
+    "vi": "Bắt đầu"
+  },
+  {
+    "key": "lb_wishlist",
+    "type": 0,
+    "en": "Wishlist Going Medieval",
+    "vi": "Thêm Going Medieval vào danh sách mong muốn"
+  },
+  {
+    "key": "save_not_from_demo",
+    "type": 0,
+    "en": "You are trying to load a save that is past the first season of gameplay or is started in a non demo version. To continue this save please boot up the full version of the game",
+    "vi": "Bạn đang cố tải một bản lưu đã vượt quá mùa đầu tiên hoặc được tạo từ phiên bản đầy đủ. Để tiếp tục bản lưu này, vui lòng khởi động phiên bản đầy đủ của trò chơi."
+  },
+  {
+    "key": "save_not_compatible_demo",
+    "type": 0,
+    "en": "This settlement has been started in the demo version. Its save file is not compatible with the current version of the game. You can start a new game and continue this settlement when the game leaves early access.",
+    "vi": "Khu định cư này được khởi tạo trong bản thử nghiệm. Tệp lưu của nó không tương thích với phiên bản hiện tại. Bạn có thể bắt đầu trò chơi mới và tiếp tục khu định cư này khi trò chơi rời giai đoạn truy cập sớm."
+  },
+  {
+    "key": "lb_purchase_full",
+    "type": 0,
+    "en": "Buy Full Version",
+    "vi": "Mua bản đầy đủ"
+  },
+  {
+    "key": "lb_newsletter",
+    "type": 0,
+    "en": "Newsletter",
+    "vi": "Bản tin"
+  },
+  {
+    "key": "lb_patch_notes",
+    "type": 0,
+    "en": "Patch Notes",
+    "vi": "Ghi chú cập nhật"
+  },
+  {
+    "key": "twitch_strike_event_bbt",
+    "type": 0,
+    "en": "{Twitch Name} has conjured a lighting strike!",
+    "vi": "{Twitch Name} vừa triệu hồi một tia sét giáng xuống!"
+  },
+  {
+    "key": "TwitchMysteryGiftWindowTitle",
+    "type": 0,
+    "en": "Mysterious gift",
+    "vi": "Quà bí ẩn"
+  },
+  {
+    "key": "TwitchMysteryGiftContentTitle",
+    "type": 0,
+    "en": "Mysterious gift",
+    "vi": "Quà bí ẩn"
+  },
+  {
+    "key": "TwitchMysteryGiftBody",
+    "type": 0,
+    "en": "A shadowy figure known only as {mysteryName} just left something at the edge of your settlement.",
+    "vi": "Một nhân vật bí ẩn được biết đến với tên {mysteryName} vừa để lại một món đồ ở rìa khu định cư của bạn."
+  },
+  {
+    "key": "TwitchRerollName",
+    "type": 0,
+    "en": "Reroll Twitch name",
+    "vi": "Đổi lại tên Twitch"
+  },
+  {
+    "key": "twitch_auth_title",
+    "type": 0,
+    "en": "Authentication",
+    "vi": "Xác thực tài khoản"
+  },
+  {
+    "key": "twitch_auth_desc",
+    "type": 0,
+    "en": "Feel free to authenticate with Twitch and invite your friends to join in. All features are togglable, so you can customise what you want. Default settings are for small streamers (up to 20 viewers). With more viewers, try increasing cooldowns.\n",
+    "vi": "Bạn có thể thoải mái xác thực với Twitch và mời bạn bè tham gia. Mọi tính năng đều có thể bật/tắt để bạn tùy chỉnh theo ý muốn. Cài đặt mặc định phù hợp cho các streamer nhỏ (tối đa 20 người xem). Với lượng người xem đông hơn, hãy thử tăng thời gian hồi chiêu.\n"
+  },
+  {
+    "key": "twitch_auth_desc_chanel_name",
+    "type": 0,
+    "en": "Your channel name is necessary to monitor commands being activated in your chat",
+    "vi": "Cần tên kênh của bạn để theo dõi các lệnh được kích hoạt trong phần chat."
+  },
+  {
+    "key": "twitch_auth_log_in",
+    "type": 0,
+    "en": "Log in",
+    "vi": "Đăng nhập"
+  },
+  {
+    "key": "twitch_auth_log_out",
+    "type": 0,
+    "en": "Log out",
+    "vi": "Đăng xuất"
+  },
+  {
+    "key": "twitch_channel_name",
+    "type": 0,
+    "en": "Channel name",
+    "vi": "Tên kênh"
+  },
+  {
+    "key": "twitch_user_name",
+    "type": 0,
+    "en": "User name",
+    "vi": "Tên người dùng"
+  },
+  {
+    "key": "twitch_auth_required",
+    "type": 0,
+    "en": "Not logged in",
+    "vi": "Chưa đăng nhập"
+  },
+  {
+    "key": "twitch_auth_success",
+    "type": 0,
+    "en": "You are logged in",
+    "vi": "Đã đăng nhập thành công"
+  },
+  {
+    "key": "twitch_name_desc",
+    "type": 0,
+    "en": "Each Twitch user that types !name in your chat will have their name queued to be assigned to a game being (settlers, enemies, NPCs and animals). You will have an option to reroll names of specific individuals. Only one named being is allowed per chat participant at any given time.",
+    "vi": "Mỗi người dùng Twitch gõ lệnh !name trong phần chat sẽ được xếp hàng để gán tên cho một thực thể trong game (dân làng, kẻ thù, NPC hoặc động vật). Bạn có thể đổi lại tên của từng cá nhân cụ thể. Mỗi người tham gia chat chỉ được gán tên cho một thực thể tại một thời điểm."
+  },
+  {
+    "key": "twitch_appear_desc",
+    "type": 0,
+    "en": "Each Twitch user that types !appear in your chat will spawn a small animal with their name. Only one use per chat participant.",
+    "vi": "Mỗi người dùng Twitch gõ !appear trong chat sẽ tạo ra một con thú nhỏ mang tên họ. Mỗi người chỉ dùng được một lần."
+  },
+  {
+    "key": "twitch_gift_desc",
+    "type": 0,
+    "en": "Generous users that type !gift in your chat will send you a gift of unknown value and content. This has a global cooldown that can be customised",
+    "vi": "Người xem hào phóng nhập !gift trong phần chat sẽ gửi cho bạn một món quà có giá trị và nội dung bí ẩn. Tính năng này có thời gian hồi chung và có thể tùy chỉnh."
+  },
+  {
+    "key": "twitch_strike_desc",
+    "type": 0,
+    "en": "Upset Twitch users that type !strike in your chat will strike you with lightning! This has a global cooldown.",
+    "vi": "Những người xem Twitch gõ lệnh !strike trong phần chat sẽ giáng sét vào khu định cư của bạn! Lệnh này có thời gian hồi chung."
+  },
+  {
+    "key": "twitch_command_cooldown",
+    "type": 0,
+    "en": "Cooldown",
+    "vi": "Thời gian hồi"
+  },
+  {
+    "key": "twitch_settlers_title",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "Dân làng mới"
+  },
+  {
+    "key": "twitch_settlers_desc",
+    "type": 0,
+    "en": "A new follower, subscriber or hypetrain level spawns a new settler. Remember that the soft lock for settler count is 20 settlers.",
+    "vi": "Một người theo dõi, người đăng ký mới hoặc khi đạt cấp độ hypetrain sẽ tạo ra một dân làng mới. Hãy nhớ rằng giới hạn mềm cho số lượng dân làng là 20 người."
+  },
+  {
+    "key": "twitch_event",
+    "type": 0,
+    "en": "Twitch event",
+    "vi": "Sự kiện Twitch"
+  },
+  {
+    "key": "twitch_event_01",
+    "type": 0,
+    "en": "Follow",
+    "vi": "Theo dõi"
+  },
+  {
+    "key": "twitch_event_02",
+    "type": 0,
+    "en": "Subscribe",
+    "vi": "Đăng ký"
+  },
+  {
+    "key": "twitch_event_03",
+    "type": 0,
+    "en": "Hypetrain level",
+    "vi": "Đạt Cấp Độ Hype Train"
+  },
+  {
+    "key": "twitch_drops_title",
+    "type": 0,
+    "en": "Twitch Drops",
+    "vi": "Phần thưởng Twitch Drops"
+  },
+  {
+    "key": "twitch_drops_desc",
+    "type": 0,
+    "en": "If you have earned Twitch drops during one of Going Medieval watch campaigns, you can redeem them here.",
+    "vi": "Nếu đã nhận Twitch Drop trong một chiến dịch xem Going Medieval, bạn có thể đổi chúng tại đây."
+  },
+  {
+    "key": "not_allowed_map_selected",
+    "type": 0,
+    "en": "This map type is not intended to be used with this scenario",
+    "vi": "Loại bản đồ này không phù hợp để sử dụng với kịch bản đã chọn"
+  },
+  {
+    "key": "recomend_dont_change_cap",
+    "type": 0,
+    "en": "High number of FPS might create issues with animations being out of sync. We recommend keeping this at 60 or lower",
+    "vi": "Chỉ số FPS quá cao có thể gây ra hiện tượng hoạt ảnh bị lệch đồng bộ. Khuyến nghị duy trì ở mức 60 FPS hoặc thấp hơn"
+  },
+  {
+    "key": "twitch_drops_bbt",
+    "type": 0,
+    "en": "{drop} has been redeemed!",
+    "vi": "{drop} đã được nhận thành công!"
+  },
+  {
+    "key": "twitch_drops_bbt_none",
+    "type": 0,
+    "en": "No Twitch Drops were unlocked.",
+    "vi": "Chưa mở khóa phần thưởng Twitch Drops nào."
+  },
+  {
+    "key": "tree_mighty_oak",
+    "type": 0,
+    "en": "Mighty Oak",
+    "vi": "Cây Sồi Đại Ngàn Thiêng Liêng"
+  },
+  {
+    "key": "dont_harvest",
+    "type": 0,
+    "en": "Don't Harvest",
+    "vi": "Không Thu Hoạch"
+  },
+  {
+    "key": "dont_cut",
+    "type": 0,
+    "en": "Don't Cut",
+    "vi": "Không Chặt Hạ"
+  },
+  {
+    "key": "voxel_rocky",
+    "type": 0,
+    "en": "Rocky soil",
+    "vi": "Đất Sỏi Đá"
+  },
+  {
+    "key": "voxel_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Đồng Cỏ Xanh"
+  },
+  {
+    "key": "voxel_dirt",
+    "type": 0,
+    "en": "Soil",
+    "vi": "Đất Phù Sa Nền"
+  },
+  {
+    "key": "voxel_limestone",
+    "type": 0,
+    "en": "Limestone",
+    "vi": "Đá Vôi Tự Nhiên"
+  },
+  {
+    "key": "voxel_clay",
+    "type": 0,
+    "en": "Clay",
+    "vi": "Đất Sét Dẻo"
+  },
+  {
+    "key": "voxel_iron",
+    "type": 0,
+    "en": "Iron",
+    "vi": "Quặng Sắt"
+  },
+  {
+    "key": "voxel_salt",
+    "type": 0,
+    "en": "Salt",
+    "vi": "Mỏ Muối Khoáng"
+  },
+  {
+    "key": "voxel_gold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Quặng Vàng Ròng"
+  },
+  {
+    "key": "voxel_granite",
+    "type": 0,
+    "en": "Granite",
+    "vi": "Đá Hoa Cương Granite"
+  },
+  {
+    "key": "voxel_sand",
+    "type": 0,
+    "en": "Sand",
+    "vi": "Cát Tự Nhiên"
+  },
+  {
+    "key": "voxel_silver",
+    "type": 0,
+    "en": "Silver",
+    "vi": "Quặng Bạc"
+  },
+  {
+    "key": "voxel_coal",
+    "type": 0,
+    "en": "Coal",
+    "vi": "Than Đá"
+  },
+  {
+    "key": "voxel_impureLimestone",
+    "type": 0,
+    "en": "Limestone Deposit (Impure)",
+    "vi": "Mỏ Đá Vôi (Lẫn Tạp Chất)"
+  },
+  {
+    "key": "voxel_wetlandDirt",
+    "type": 0,
+    "en": "Marshy soil",
+    "vi": "Đất Bùn Đầm Lầy"
+  },
+  {
+    "key": "beam_error_default",
+    "type": 0,
+    "en": "Support beam needs to be placed between 2x walls or ground",
+    "vi": "Xà đỡ cần được gác giữa 2 bức tường chịu lực hoặc trên nền đất vững chắc"
+  },
+  {
+    "key": "can_not_deal_damage_to_target",
+    "type": 0,
+    "en": "This weapon cannot damage this target",
+    "vi": "Loại vũ khí này không thể gây sát thương lên mục tiêu này"
+  },
+  {
+    "key": "worker_can_not_attack",
+    "type": 0,
+    "en": "Can't attack target",
+    "vi": "Không thể tấn công mục tiêu này"
+  },
+  {
+    "key": "worker_can_not_find_path_to_target",
+    "type": 0,
+    "en": "Can't find a clear path to target",
+    "vi": "Không tìm thấy đường đi khả dụng để tiếp cận mục tiêu"
+  },
+  {
+    "key": "cannot_build_on_edge",
+    "type": 0,
+    "en": "Cannot place building this close to edge of map",
+    "vi": "Không thể xây dựng công trình quá sát mép ranh giới bản đồ"
+  },
+  {
+    "key": "cannot_build_on_top_layer",
+    "type": 0,
+    "en": "Highest point reached, you can't place buildings this high",
+    "vi": "Đã đạt tới độ cao trần tối đa, không thể xây cao hơn nữa"
+  },
+  {
+    "key": "cannot_dig_bedrock",
+    "type": 0,
+    "en": "You have hit bedrock, you can't dig any deeper",
+    "vi": "Đã chạm đến tầng đá nền bất hoại, không thể đào sâu hơn"
+  },
+  {
+    "key": "cannot_dig_edge",
+    "type": 0,
+    "en": "Cannot mark for mining this close to edge of map",
+    "vi": "Không thể chỉ định đào đất quá sát mép bản đồ"
+  },
+  {
+    "key": "cannot_place_stockpile_on_edge",
+    "type": 0,
+    "en": "Cannot place stockpile this close to edge of map",
+    "vi": "Không thể quy hoạch bãi chứa quá sát mép bản đồ"
+  },
+  {
+    "key": "default_error_space_not_buildable",
+    "type": 0,
+    "en": "Structure can't be placed there",
+    "vi": "Không thể đặt công trình tại vị trí này"
+  },
+  {
+    "key": "error_ladder_blocked",
+    "type": 0,
+    "en": "Structure can't be placed there",
+    "vi": "Không thể đặt thang leo tại vị trí này"
+  },
+  {
+    "key": "default_error_space_taken",
+    "type": 0,
+    "en": "Space already occupied",
+    "vi": "Vị trí này đã bị chiếm bởi vật thể khác"
+  },
+  {
+    "key": "dig_failed",
+    "type": 0,
+    "en": "Mined Resources Mangled",
+    "vi": "Quặng Khoáng Sản Bị Vỡ Vụn Hư Hại"
+  },
+  {
+    "key": "error_selection_order_chopping",
+    "type": 0,
+    "en": "You must select a fully grown tree",
+    "vi": "Bạn phải chọn một cây gỗ đã phát triển trưởng thành hoàn toàn"
+  }
+]

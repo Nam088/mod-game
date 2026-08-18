@@ -1,0 +1,902 @@
+[
+  {
+    "key": "tainted_info",
+    "type": 0,
+    "en": "This item has been stripped from a carcass. As a result it is devalued, and some of your settlers may react negatively to wearing it.",
+    "vi": "Vật phẩm này bị lột từ một thi thể. Do đó nó bị giảm giá trị, và một số dân làng có thể phản ứng tiêu cực khi mặc nó."
+  },
+  {
+    "key": "Equipment name",
+    "type": 0,
+    "en": "",
+    "vi": "Tên trang bị"
+  },
+  {
+    "key": "prox_info_moribund",
+    "type": 0,
+    "en": "When injured, <name>'s wounds emit a sickly odour that Precious and Dainty settlers find revolting",
+    "vi": "Khi bị thương, các vết thương của <name> bốc ra mùi tử khí khó chịu khiến những dân làng Kiêu Kỳ và Yểu Điệu cảm thấy kinh tởm."
+  },
+  {
+    "key": "prox_info_messy_eather",
+    "type": 0,
+    "en": "<name>'s slobbering, slovenly dining habits can prove unpleasant to witness",
+    "vi": "Thói quen ăn uống nhồm nhoàm bừa bãi của <name> khiến những người xung quanh cảm thấy vô cùng khó chịu."
+  },
+  {
+    "key": "prox_info_positive",
+    "type": 0,
+    "en": "Cheery and thoughtful, <name>'s presence lifts the mood of those close by",
+    "vi": "Vui tươi và chu đáo, sự hiện diện của <name> nâng cao tâm trạng của mọi người xung quanh."
+  },
+  {
+    "key": "prox_info_negative",
+    "type": 0,
+    "en": "Gruff and gloomy, <name>'s presence dampens the spirits of everyone nearby",
+    "vi": "Khuôn mặt ủ rũ càu nhàu của <name> dập tắt bầu không khí vui vẻ của bất kỳ ai ở gần."
+  },
+  {
+    "key": "prox_info_industrious",
+    "type": 0,
+    "en": "<name>'s work ethic encourages settlers close by to pick up their pace",
+    "vi": "Tinh thần làm việc hăng say cần mẫn của <name> khích lệ những dân làng xung quanh đẩy nhanh tiến độ làm việc."
+  },
+  {
+    "key": "prox_info_sluggardly",
+    "type": 0,
+    "en": "Onlookers experience frustration when they witness <name>'s shoddy work",
+    "vi": "Những người chứng kiến đều cảm thấy ức chế khi thấy <name> làm việc cẩu thả lề mề."
+  },
+  {
+    "key": "prox_info_dullard",
+    "type": 0,
+    "en": "The Wise and Erudite become short-tempered around <name>'s lack of sense",
+    "vi": "Người Thông thái và Uyên bác trở nên nóng nảy trước sự thiếu hiểu biết của <name>."
+  },
+  {
+    "key": "has_rebellious_state",
+    "type": 0,
+    "en": "Additional Rebellious State",
+    "vi": "Thêm trạng thái Nổi loạn"
+  },
+  {
+    "key": "rebl_name_EatBindge",
+    "type": 0,
+    "en": "Binge Eating",
+    "vi": "Ăn uống vô độ"
+  },
+  {
+    "key": "rebl_name_InsultSpree",
+    "type": 0,
+    "en": "Heckling",
+    "vi": "Chế giễu khiêu khích"
+  },
+  {
+    "key": "rebl_name_solitaryIdle",
+    "type": 0,
+    "en": "Isolating",
+    "vi": "Tự cô lập"
+  },
+  {
+    "key": "rebl_name_drinkEntBindge",
+    "type": 0,
+    "en": "Reveling",
+    "vi": "Chè chén say sưa"
+  },
+  {
+    "key": "rebl_name_fistFight",
+    "type": 0,
+    "en": "Quarrelsome",
+    "vi": "Gây gổ ẩu đả"
+  },
+  {
+    "key": "rebl_name_idleHot",
+    "type": 0,
+    "en": "Cooling off",
+    "vi": "Giải nhiệt"
+  },
+  {
+    "key": "rebl_name_idleCold",
+    "type": 0,
+    "en": "Drawn to the fire",
+    "vi": "Drawn để fire"
+  },
+  {
+    "key": "rebl_name_natureIdle",
+    "type": 0,
+    "en": "Feral",
+    "vi": "Trở về hoang dã"
+  },
+  {
+    "key": "has_merry_state",
+    "type": 0,
+    "en": "Invigorated",
+    "vi": "Tràn đầy sức sống"
+  },
+  {
+    "key": "merry_name_Vigorous",
+    "type": 0,
+    "en": "Rejuvenated",
+    "vi": "Hồi xuân"
+  },
+  {
+    "key": "merry_name_robust",
+    "type": 0,
+    "en": "Revitalised",
+    "vi": "Tràn đầy sinh lực"
+  },
+  {
+    "key": "merry_name_Infirm",
+    "type": 0,
+    "en": "Gastronomically Inspired",
+    "vi": "Cảm hứng ẩm thực"
+  },
+  {
+    "key": "merry_name_Gourmet",
+    "type": 0,
+    "en": "Mighty",
+    "vi": "Uy mãnh"
+  },
+  {
+    "key": "merry_name_Brawler",
+    "type": 0,
+    "en": "Charming",
+    "vi": "Duyên dáng quyến rũ"
+  },
+  {
+    "key": "merry_name_Winsome",
+    "type": 0,
+    "en": "Green-fingered",
+    "vi": "Mát tay làm vườn"
+  },
+  {
+    "key": "merry_name_GreenThumb",
+    "type": 0,
+    "en": "Attuned to beasts",
+    "vi": "Attuned để beasts"
+  },
+  {
+    "key": "merry_name_Wicche",
+    "type": 0,
+    "en": "Inspired",
+    "vi": "Đầy cảm hứng"
+  },
+  {
+    "key": "merry_name_Dainty",
+    "type": 0,
+    "en": "Set to excavate",
+    "vi": "Đặt để excavate"
+  },
+  {
+    "key": "merry_name_Hefty",
+    "type": 0,
+    "en": "Astute",
+    "vi": "Sắc sảo nhạy bén"
+  },
+  {
+    "key": "merry_name_Wise",
+    "type": 0,
+    "en": "Ingenious",
+    "vi": "Khéo léo tài tình"
+  },
+  {
+    "key": "merry_name_Erudite",
+    "type": 0,
+    "en": "Ingenious",
+    "vi": "Uyên bác thông thái"
+  },
+  {
+    "key": "affection_tooltip",
+    "type": 0,
+    "en": "Affection",
+    "vi": "Tình cảm"
+  },
+  {
+    "key": "relation_towards",
+    "type": 0,
+    "en": "My affection towards <settler_name> : <affection_amount>",
+    "vi": "My Tình cảm towards <settler_name> : <affection_amount>"
+  },
+  {
+    "key": "relation_from",
+    "type": 0,
+    "en": "<settler_name>`s affection towards me: <affection_amount>",
+    "vi": "<settler_name>`s Tình cảm towards me: <affection_amount>"
+  },
+  {
+    "key": "affection_borders",
+    "type": 0,
+    "en": "Affection Range",
+    "vi": "Tình cảm Range"
+  },
+  {
+    "key": "rally_point_panel_desc",
+    "type": 0,
+    "en": "Select which settlers will gather at this point when drafted.",
+    "vi": "Chọn which Dân làng will gather at this point when drafted."
+  },
+  {
+    "key": "bell_panel_desc",
+    "type": 0,
+    "en": "Select the rally points that will activate when you ring this bell.",
+    "vi": "Chọn rally points that will activate when you ring this bell."
+  },
+  {
+    "key": "rally_point_marker_default_name",
+    "type": 0,
+    "en": "Rally Point",
+    "vi": "Điểm tập kết quân"
+  },
+  {
+    "key": "bell_default_name",
+    "type": 0,
+    "en": "Large Bell",
+    "vi": "Chuông lớn"
+  },
+  {
+    "key": "rally_point_panel_armed_only",
+    "type": 0,
+    "en": "Armed Settlers only",
+    "vi": "Armed Dân làng only"
+  },
+  {
+    "key": "rally_point_already_in",
+    "type": 0,
+    "en": "This settler is already assigned to rally point: ",
+    "vi": "Dân làng này đã được chỉ định vào điểm tập kết quân: "
+  },
+  {
+    "key": "lb_use_rally_points",
+    "type": 0,
+    "en": "Use Rally Points",
+    "vi": "Dùng điểm tập hợp"
+  },
+  {
+    "key": "lb_use_rally_points_title",
+    "type": 0,
+    "en": "Assigned to Rally Point",
+    "vi": "Được chỉ định vào Điểm tập kết"
+  },
+  {
+    "key": "lb_use_rally_points_info",
+    "type": 0,
+    "en": "If unchecked, this settler will not draft when the rally point is activated.",
+    "vi": "Nếu bỏ chọn, dân làng này sẽ không tự động động viên khi điểm tập kết được kích hoạt."
+  },
+  {
+    "key": "production names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên sản xuất"
+  },
+  {
+    "key": "Roof names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên mái nhà"
+  },
+  {
+    "key": "trap names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên bẫy"
+  },
+  {
+    "key": "graves names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên mộ phần"
+  },
+  {
+    "key": "cropfield names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên thửa ruộng"
+  },
+  {
+    "key": "cropfield info",
+    "type": 0,
+    "en": "",
+    "vi": "Thông tin ruộng đồng hoa màu"
+  },
+  {
+    "key": "roof info",
+    "type": 0,
+    "en": "",
+    "vi": "Thông tin mái nhà che chắn"
+  },
+  {
+    "key": "production info",
+    "type": 0,
+    "en": "",
+    "vi": "Thông tin xưởng sản xuất"
+  },
+  {
+    "key": "graves info",
+    "type": 0,
+    "en": "",
+    "vi": "Thông tin nơi an táng mồ mả"
+  },
+  {
+    "key": "traps info",
+    "type": 0,
+    "en": "",
+    "vi": "Thông tin bẫy phòng thủ"
+  },
+  {
+    "key": "pseudonym_name_Red",
+    "type": 0,
+    "en": "The Red",
+    "vi": "Kẻ Red"
+  },
+  {
+    "key": "pseudonym_name_Butcher",
+    "type": 0,
+    "en": "The Butcher",
+    "vi": "Kẻ Butcher"
+  },
+  {
+    "key": "pseudonym_name_Saint",
+    "type": 0,
+    "en": "The Saint",
+    "vi": "Kẻ Saint"
+  },
+  {
+    "key": "pseudonym_name_Chou",
+    "type": 0,
+    "en": "Le Chou",
+    "vi": "Bắp Cải"
+  },
+  {
+    "key": "pseudonym_name_Bastard",
+    "type": 0,
+    "en": "The Bastard",
+    "vi": "Kẻ Bastard"
+  },
+  {
+    "key": "pseudonym_name_Pagan",
+    "type": 0,
+    "en": "The Pagan",
+    "vi": "Kẻ Pagan"
+  },
+  {
+    "key": "pseudonym_name_Cuckold",
+    "type": 0,
+    "en": "The Cuckold",
+    "vi": "Kẻ Cuckold"
+  },
+  {
+    "key": "pseudonym_name_Rebel",
+    "type": 0,
+    "en": "The Rebel",
+    "vi": "Kẻ Rebel"
+  },
+  {
+    "key": "pseudonym_name_Apostle",
+    "type": 0,
+    "en": "The Apostle",
+    "vi": "Kẻ Apostle"
+  },
+  {
+    "key": "pseudonym_name_Zealot",
+    "type": 0,
+    "en": "The Zealot",
+    "vi": "Kẻ Zealot"
+  },
+  {
+    "key": "pseudonym_name_Heretic",
+    "type": 0,
+    "en": "The Heretic",
+    "vi": "Kẻ Heretic"
+  },
+  {
+    "key": "pseudonym_name_Chaste",
+    "type": 0,
+    "en": "The Chaste",
+    "vi": "Kẻ Chaste"
+  },
+  {
+    "key": "pseudonym_name_Pudding",
+    "type": 0,
+    "en": "The Pudding",
+    "vi": "Kẻ Pudding"
+  },
+  {
+    "key": "pseudonym_name_Forlorn",
+    "type": 0,
+    "en": "The Forlorn",
+    "vi": "Kẻ Forlorn"
+  },
+  {
+    "key": "pseudonym_name_Tart",
+    "type": 0,
+    "en": "The Tart",
+    "vi": "Kẻ Tart"
+  },
+  {
+    "key": "pseudonym_name_Doctor",
+    "type": 0,
+    "en": "The Doctor",
+    "vi": "Kẻ Doctor"
+  },
+  {
+    "key": "pseudonym_name_Fool",
+    "type": 0,
+    "en": "The Fool",
+    "vi": "Kẻ Fool"
+  },
+  {
+    "key": "pseudonym_name_Spy",
+    "type": 0,
+    "en": "The Spy",
+    "vi": "Kẻ Spy"
+  },
+  {
+    "key": "pseudonym_name_Deceiver",
+    "type": 0,
+    "en": "The Deceiver",
+    "vi": "Kẻ Deceiver"
+  },
+  {
+    "key": "pseudonym_name_Broken",
+    "type": 0,
+    "en": "The Broken",
+    "vi": "Kẻ Tật Nguyền"
+  },
+  {
+    "key": "pseudonym_name_Bard",
+    "type": 0,
+    "en": "The Minstrel",
+    "vi": "Kẻ Minstrel"
+  },
+  {
+    "key": "pseudonym_name_Crow",
+    "type": 0,
+    "en": "The Crow",
+    "vi": "Kẻ Crow"
+  },
+  {
+    "key": "pseudonym_name_Bonesetter",
+    "type": 0,
+    "en": "The Bonesetter",
+    "vi": "Kẻ Bonesetter"
+  },
+  {
+    "key": "pseudonym_name_Wakeful",
+    "type": 0,
+    "en": "The Wakeful",
+    "vi": "Kẻ Wakeful"
+  },
+  {
+    "key": "pseudonym_name_Bold",
+    "type": 0,
+    "en": "The Bold",
+    "vi": "Kẻ Táo Bạo"
+  },
+  {
+    "key": "pseudonym_name_Spear_Maiden",
+    "type": 0,
+    "en": "The Spear Maiden",
+    "vi": "Kẻ Spear Maiden"
+  },
+  {
+    "key": "pseudonym_name_Confessor",
+    "type": 0,
+    "en": "The Confessor",
+    "vi": "Kẻ Confessor"
+  },
+  {
+    "key": "pseudonym_name_Philosopher",
+    "type": 0,
+    "en": "The Philosopher",
+    "vi": "Kẻ Philosopher"
+  },
+  {
+    "key": "pseudonym_name_Lucky",
+    "type": 0,
+    "en": "The Lucky",
+    "vi": "Kẻ Lucky"
+  },
+  {
+    "key": "pseudonym_name_Prodigal",
+    "type": 0,
+    "en": "The Prodigal",
+    "vi": "Kẻ Prodigal"
+  },
+  {
+    "key": "pseudonym_name_Paramour",
+    "type": 0,
+    "en": "The Paramour",
+    "vi": "Kẻ Paramour"
+  },
+  {
+    "key": "pseudonym_name_Riddler",
+    "type": 0,
+    "en": "The Riddler",
+    "vi": "Kẻ Riddler"
+  },
+  {
+    "key": "pseudonym_name_Kitten",
+    "type": 0,
+    "en": "The Kitten",
+    "vi": "Kẻ Kitten"
+  },
+  {
+    "key": "pseudonym_name_Lamb",
+    "type": 0,
+    "en": "The Lamb",
+    "vi": "Kẻ Lamb"
+  },
+  {
+    "key": "pseudonym_name_Bride",
+    "type": 0,
+    "en": "The [Bridegroom/Bride]",
+    "vi": "Kẻ [Bridegroom/Bride]"
+  },
+  {
+    "key": "pseudonym_name_Thief",
+    "type": 0,
+    "en": "The Thief",
+    "vi": "Kẻ Thief"
+  },
+  {
+    "key": "pseudonym_name_Pirate",
+    "type": 0,
+    "en": "The Pirate",
+    "vi": "Kẻ Pirate"
+  },
+  {
+    "key": "pseudonym_name_Ghost",
+    "type": 0,
+    "en": "The Ghost",
+    "vi": "Kẻ Ghost"
+  },
+  {
+    "key": "pseudonym_name_Hanged",
+    "type": 0,
+    "en": "The Hanged",
+    "vi": "Kẻ Hanged"
+  },
+  {
+    "key": "pseudonym_info_Red",
+    "type": 0,
+    "en": "The world had changed, and so had <name>. Having nothing more to lose, [he/she] joined a group of marauding bandits, and was soon their leader. Insatiable bloodlust in various assaults and squirmishes soon earned <name> a nickname 'The Red'.",
+    "vi": "Thế giới đã đổi thay, và <name> cũng vậy. Không còn gì để mất, [he/she] gia nhập một băng cướp bóc và nhanh chóng trở thành thủ lĩnh. Cơn khát máu khôn nguôi trong nhiều trận đánh và đột kích đã sớm mang lại cho <name> biệt danh 'Kẻ Nhuộm Đỏ'."
+  },
+  {
+    "key": "pseudonym_info_Butcher",
+    "type": 0,
+    "en": "<name> wasn’t particularly smart nor talented, so each summer, around Pentecost, [his/her] parents sent [him/her] to help Uncle Aldwin at the livestock farm. <name> proved adept at slitting throats. [He/She]’s been known as 'The Butcher' ever since.",
+    "vi": "<name> vốn không mấy thông minh hay tài giỏi, nên mỗi mùa hè, vào dịp Lễ Hiện Xuống, cha mẹ của [his/her] gửi [him/her] đến phụ giúp Chú Aldwin tại trang trại gia súc. <name> tỏ ra vô cùng thuần thục trong việc cắt tiết động vật. [He/She] được mệnh danh là 'Gã Đồ Tể' kể từ đó."
+  },
+  {
+    "key": "pseudonym_info_Saint",
+    "type": 0,
+    "en": "<name> was not averse to nursing lepers and other outcasts, but it was to the animal kingdom that [he/she] felt the deepest afinity. <name> blushed and demured when likened to St Francis, but the comparison was apt.",
+    "vi": "<name> không ngại chăm sóc những người mắc bệnh phong và những kẻ bị ruồng bỏ, nhưng chính muông thú mới là nơi [he/she] cảm nhận được sự gắn kết sâu sắc nhất. <name> đỏ mặt ngượng ngùng khi được ví như Thánh Francis, nhưng sự so sánh đó hoàn toàn xác đáng."
+  },
+  {
+    "key": "pseudonym_info_Chou",
+    "type": 0,
+    "en": "<name> spent so long in the vegetable garden as a child that [his/her] mother, of Norman stock, affectionately called [him/her] 'cabbage', as is the French way. To this day, <name> still has a green thumb, especially for brassicas.",
+    "vi": "<name> thuở nhỏ dành nhiều thời gian trong vườn rau đến mức người mẹ gốc Norman của [his/her] âu yếm gọi [him/her] là 'bắp cải' theo phong tục người Pháp. Cho đến nay, <name> vẫn rất mát tay làm vườn, đặc biệt là với các loại rau họ cải."
+  },
+  {
+    "key": "pseudonym_info_Bastard",
+    "type": 0,
+    "en": "An apologist for the Philosophers of the Natural Order, <name> harboured a nagging fear that wherever [his/her] errant father was, he might be a follower of Gregorius, or even a cannibal. <name>'s friends called [him/her] 'bastard' and made it worse.",
+    "vi": "Là một người ủng hộ Hội Triết gia Trật Tự Tự Nhiên, <name> luôn mang nỗi sợ canh cánh rằng người cha lầm lạc của [his/her], dù đang ở đâu, có thể là tín đồ của Gregorius hay thậm chí là kẻ ăn thịt người. Bạn bè của <name> gọi [him/her] là 'đứa con hoang', khiến mọi chuyện càng tồi tệ hơn."
+  },
+  {
+    "key": "pseudonym_info_Pagan",
+    "type": 0,
+    "en": "<name> spoke to plants and buried strange parcels in the woods under the full moon. Nobody dared speak up against [him/her] due to rumours <name> could hex them. <name> did not care that other humans called [him/her] 'Pagan'. Humans were the problem.",
+    "vi": "<name> spoke để plants và buried strange parcels trong woods under full moon. Nobody dared speak up against [him/her] due để rumours <name> could hex them. <name> did not care that Khác humans called [him/her] 'Pagan'. Humans were problem."
+  },
+  {
+    "key": "pseudonym_info_Cuckold",
+    "type": 0,
+    "en": "It was well known that <name>'s spouse was unfaithful, and <name> didn't seem willing or able to do anything about it. Once a beaten, unwanted child, <name> was perfectly content to gather up whatever crumbs of affection [he/she] could salvage.",
+    "vi": "Ai cũng biết người bạn đời của <name> là kẻ bất trung, nhưng <name> dường như không muốn hoặc không thể làm gì để thay đổi. Từng là một đứa trẻ bị đánh đập và bỏ rơi, <name> hoàn toàn hài lòng gom nhặt bất cứ chút tình cảm vụn vặt nào mà [he/she] có thể cứu vãn."
+  },
+  {
+    "key": "pseudonym_info_Rebel",
+    "type": 0,
+    "en": "<name> is young at heart. <name> likes to joke around and play the fool. [He/She] avoids responsibility at all costs, laughing at [his/her] elders.",
+    "vi": "<name> mang tâm hồn trẻ trung. <name> thích đùa giỡn và đóng vai kẻ ngốc. [He/She] tìm mọi cách trốn tránh trách nhiệm, cười nhạo những bậc tiền bối của [his/her]."
+  },
+  {
+    "key": "pseudonym_info_Apostle",
+    "type": 0,
+    "en": "<name> was a follower alright, and loved to go on about the scriptures. [His/Her] proselytising could become a little tiresome and repetitive. When <name> wouldn't shut up, they called [him/her] 'The Apostle'. <name> thought it was a complement.",
+    "vi": "<name> quả đúng là một tín đồ thuần thành, rất thích thao thao bất tuyệt về kinh thánh. Những lời truyền đạo của [His/Her] đôi khi hơi tẻ nhạt và lặp đi lặp lại. Khi <name> không chịu dừng lại, mọi người gọi [him/her] là 'Vị Sứ Đồ'. <name> lại tưởng đó là một lời khen ngợi."
+  },
+  {
+    "key": "pseudonym_info_Zealot",
+    "type": 0,
+    "en": "<name> keeps making altars and offerings, stopping the day's business to say prayers and muttering about sin. One might be forgiven for saying [he/she] takes it a bit far.",
+    "vi": "<name> keeps making altars và offerings, stopping Ngày's business để say prayers và muttering about sin. One might be forgiven cho saying [he/she] takes it a bit far."
+  },
+  {
+    "key": "pseudonym_info_Heretic",
+    "type": 0,
+    "en": "<name> speaks of the God of Abraham and the mosques of the Moors, of sacred groves, lost scrolls and forbidden rites. <name> knows a bit too much for [his/her] own good.",
+    "vi": "<name> speaks của Kẻ God của Abraham và Kẻ mosques của Kẻ Moors, của sacred groves, lost scrolls và forbidden rites. <name> knows a bit too much cho [his/her] own good."
+  },
+  {
+    "key": "pseudonym_info_Chaste",
+    "type": 0,
+    "en": "<name> is pining for a dead lover, and will never marry another. <name> is living in the past, trying to stop precious memories from slipping away, and shuns all affection.",
+    "vi": "<name> mãi khắc khoải nhớ về người yêu đã khuất và thề sẽ không bao giờ thành hôn với ai khác. <name> sống trong quá khứ, cố níu giữ những ký ức quý giá khỏi phai nhòa và xa lánh mọi cử chỉ âu yếm."
+  },
+  {
+    "key": "pseudonym_info_Pudding",
+    "type": 0,
+    "en": "<name> could make an excellent fygey pudding, among other desserts. [He/She] never lacked for paramours, being bonny and sweet, with just enough spice. Lovers, rivals and jilted exes all called <name> 'pudding', with varying degrees of affection.",
+    "vi": "<name> could make an excellent fygey pudding, among Khác desserts. [He/She] never lacked cho paramours, being bonny và sweet, với just enough spice. Lovers, rivals và jilted exes Tất cả called <name> 'pudding', với varying degrees của Tình cảm."
+  },
+  {
+    "key": "pseudonym_info_Forlorn",
+    "type": 0,
+    "en": "When not complaining, <name> was weeping into [his/her] pottage. This was destinctly unappetising. It did not pay to ask <name> why [he/she] was forlorn, since [his/her] tales of woe were so distressing they would haunt your dreams forever.",
+    "vi": "Những lúc không phàn nàn, <name> lại gục đầu khóc vào bát súp hầm của [his/her]. Điều đó thật mất ngon. Chẳng ích gì khi hỏi <name> vì sao [he/she] lại tuyệt vọng đến thế, bởi những câu chuyện bi thương của [his/her] thảm khốc đến mức sẽ ám ảnh giấc mơ của bạn mãi mãi."
+  },
+  {
+    "key": "pseudonym_info_Tart",
+    "type": 0,
+    "en": "<name> was not in the least flirtatious. [He/She] got [his/her] nickname thanks to an acerbic nature, that left a bitter taste even after the briefest of interactions. <name> was the ultimate sourpuss.",
+    "vi": "<name> chẳng hề có chút lẳng lơ nào. [He/She] có được biệt danh này nhờ tính khí chua ngoa của [his/her], để lại cảm giác cay đắng ngay cả sau cuộc trò chuyện ngắn ngủi nhất. <name> đích thực là một kẻ khó đăm đăm."
+  },
+  {
+    "key": "pseudonym_info_Doctor",
+    "type": 0,
+    "en": "<name> had saved a friend's life at just 10 years old, earning the title of 'doctor'. Less well known was that <name> had abandoned many beseeching patients during the unremitting horror of The Pestilence. It was a title burdened with secret shame.",
+    "vi": "<name> từng cứu sống một người bạn khi mới 10 tuổi, nhờ đó được mọi người gọi là 'thầy thuốc'. Nhưng ít ai biết rằng <name> đã bỏ rơi nhiều bệnh nhân cầu cứu trong nỗi kinh hoàng khốc liệt của Trận Dịch Bệnh. Đó là một danh xưng gánh nặng nỗi hổ thẹn thầm kín."
+  },
+  {
+    "key": "pseudonym_info_Fool",
+    "type": 0,
+    "en": "<name> had at one time played the fool at court, and revelled in being allowed to insult the high and mighty, as long as [he/she] caused enough mirth to compensate. [His/Her] cutting wit and humourous insults were unsurpassed.",
+    "vi": "<name> had at one time played Kẻ fool at court, và revelled trong being allowed để insult Kẻ high và mighty, as long as [he/she] caused enough mirth để compensate. [His/Her] cutting wit và humourous insults were unsurpassed."
+  },
+  {
+    "key": "pseudonym_info_Spy",
+    "type": 0,
+    "en": "<name> had once been bribed by the abbot to listen for compromising secrets at the manor of <origin>. Alas [he/she] had been exposed and disavowed by all concerned. <name> was a pretty useless spy, but to this day, nobody trusted [him/her].",
+    "vi": "<name> từng nhận hối lộ của viện phụ để nghe lén những bí mật tai tiếng tại trang viên vùng <origin>. Than ôi, [he/she] đã bị phát giác và bị tất cả những kẻ liên quan chối bỏ. <name> là một gián điệp khá vô dụng, nhưng cho đến nay vẫn chẳng ai dám tin tưởng [him/her]."
+  },
+  {
+    "key": "pseudonym_info_Deceiver",
+    "type": 0,
+    "en": "As a sailor, <name> offered safe passage to desperate townsfolk attempting to flee the Tide of Death to the Western Isles or Hibernia. Once out at sea, <name> tossed them overboard, stripping their valuables. 'It's just business', <name> shrugged.",
+    "vi": "Là một thủy thủ, <name> từng nhận chở những thị dân tuyệt vọng tìm đường vượt biển trốn chạy Làn Sóng Thần Chết sang Quần Đảo Phía Tây hoặc Hibernia. Khi ra đến biển khơi, <name> đẩy họ xuống biển và lột sạch của cải. 'Chỉ là làm ăn thôi mà', <name> nhún vai."
+  },
+  {
+    "key": "pseudonym_info_Broken",
+    "type": 0,
+    "en": "It was said that <name>'s adventuring career came to an abrupt end when [he/she] took an arrow to the knee. [He/She] does have a funny walk.",
+    "vi": "Người ta đồn rằng sự nghiệp phiêu lưu của <name> đã đột ngột khép lại khi [he/she] bị một mũi tên găm trúng đầu gối. [He/She] quả thực có dáng đi khá buồn cười."
+  },
+  {
+    "key": "pseudonym_info_Bard",
+    "type": 0,
+    "en": "<name> had the voice of an angel and the memory of a druid. [His/Her] spellbinding tales and sweet lullabies earned <name> the honorary title of 'minstrel'.",
+    "vi": "<name> had Kẻ voice của an angel và Kẻ memory của a druid. [His/Her] spellbinding tales và sweet lullabies earned <name> Kẻ honorary title của 'minstrel'."
+  },
+  {
+    "key": "pseudonym_info_Crow",
+    "type": 0,
+    "en": "Some folk still left bread and milk out for the fairy folk, a custom as old as the very hills. <name> would swoop in and gobble these up, the wiley old bird.",
+    "vi": "Some folk still left bread và milk out cho fairy folk, a Tùy chỉnh as old as very hills. <name> would swoop trong và gobble these up, wiley old bird."
+  },
+  {
+    "key": "pseudonym_info_Bonesetter",
+    "type": 0,
+    "en": "<name> had first practiced on animals but soon moved on to human subjects. The way [he/she] hovered [his/her] hands over the damaged limb before giving a sudden, brisk wrench was almost mystical. <name> could not explain how [he/she] did it.",
+    "vi": "<name> ban đầu thực hành nắn xương trên động vật nhưng nhanh chóng chuyển sang chữa cho người. Cách [he/she] lướt đôi bàn tay của [his/her] trên chi thể bị thương trước khi bất ngờ giật mạnh dứt khoát mang vẻ huyền bí lạ thường. <name> cũng không giải thích nổi vì sao [he/she] làm được điều đó."
+  },
+  {
+    "key": "pseudonym_info_Wakeful",
+    "type": 0,
+    "en": "<name> could never sleep, so [he/she] gained a reputation as a good watchman. [His/Her] night vision was highly tuned.",
+    "vi": "<name> gần như không bao giờ ngủ được, nhờ vậy [he/she] nổi tiếng là một người canh gác cừ khôi. Thị lực ban đêm của [His/Her] cực kỳ tinh tường."
+  },
+  {
+    "key": "pseudonym_info_Bold",
+    "type": 0,
+    "en": "<name> once took on three pirates after drinking for a day and a night. No one remembers if [he/she] prevailed through bravery or foolhardiness, but the legend lives on.",
+    "vi": "<name> từng một mình nghênh chiến ba tên hải tặc sau khi uống rượu suốt một ngày một đêm. Chẳng ai nhớ [he/she] giành thắng lợi nhờ lòng quả cảm hay sự liều lĩnh dại khờ, nhưng câu chuyện ấy vẫn sống mãi."
+  },
+  {
+    "key": "pseudonym_info_Spear_Maiden",
+    "type": 0,
+    "en": "<name> is like a fierce valkyrie from the times of the norsemen. [She] is fearless in the face of death, wild with the bloodlust of battle. They call her shieldmaiden.",
+    "vi": "<name> chẳng khác nào một nữ thần chiến binh valkyrie dũng mãnh từ thời kỳ của người phương Bắc. [She] không hề sợ hãi trước cái chết, cuồng nhiệt với men say khát máu của chiến trường. Người ta gọi cô là nữ chiến binh cầm khiên."
+  },
+  {
+    "key": "pseudonym_info_Confessor",
+    "type": 0,
+    "en": "<name> will solemnly unburden [him/her]self of a long list of [his/her] slain victims, in minute and sometimes tedious detail. Nobody really wants to hear it.",
+    "vi": "<name> sẽ nghiêm trang trút bỏ gánh nặng về danh sách dài những nạn nhân [him/her] đã giết và [his/her] chiến tích, kể chi li đến mức đôi khi nhàm chán. Thực ra chẳng ai muốn nghe cả."
+  },
+  {
+    "key": "pseudonym_info_Philosopher",
+    "type": 0,
+    "en": "<name> once read half a thing, somewhere, maybe, about turning lead into gold. Apparently urine is involved. [He/She] may be taking the piss.",
+    "vi": "<name> từng đọc lỏm ở đâu đó về bí thuật biến chì thành vàng. Nghe đâu phải dùng đến cả nước tiểu. Có lẽ [He/She] chỉ đang nói đùa nhảm nhí."
+  },
+  {
+    "key": "pseudonym_info_Lucky",
+    "type": 0,
+    "en": "<name> was born under a lucky horseshoe, so they said. It seemed plausible enough. Money seemed to fall in [his/her] lap, chance encounters led to romance, and the sun always shone on <name>.",
+    "vi": "Người ta bảo <name> sinh ra dưới ngôi sao may mắn. Điều đó xem ra khá đúng. Tiền tài dường như tự rơi vào lòng [his/her], những cuộc gặp tình cờ dẫn lối tới mối lương duyên, và ánh mặt trời dường như luôn mỉm cười với <name>."
+  },
+  {
+    "key": "pseudonym_info_Prodigal",
+    "type": 0,
+    "en": "<name> was a quitter, [he/she] left many a task unfinished. And yet with [his/her] silver tongue, loaded with sweet flattery and plausible excuses, <name> would be welcomed back for seemingly infinite second chances.",
+    "vi": "<name> là kẻ hay bỏ dở giữa chừng, [he/she] để lại vô số công việc chưa hoàn thành. Nhưng với tài ăn nói khéo léo của [his/her], đầy lời tâng bốc ngọt ngào và những lý do thuyết phục, <name> luôn được chào đón trở lại với những cơ hội thứ hai dường như vô tận."
+  },
+  {
+    "key": "pseudonym_info_Paramour",
+    "type": 0,
+    "en": "Ugly as a child, <name> would never slight a lady for her looks. And in the wake of Armageddon, the value of good looks as currency was somewhat diminished. <name> helped keep spirits - and skirts - high, gaining a reputation as a satisfying lover.",
+    "vi": "Thuở nhỏ vốn xấu xí, <name> không bao giờ dám xem nhẹ một quý cô vì vẻ bề ngoài. Sau Ngày Tận Thế, giá trị của nhan sắc cũng phần nào giảm sút. <name> biết cách khiến tâm trạng lẫn tà váy đều bay bổng, tạo dựng danh tiếng là một người tình tuyệt vời."
+  },
+  {
+    "key": "pseudonym_info_Riddler",
+    "type": 0,
+    "en": "Some people talk straight. But <name> had a way with words that certainly sounded clever, but was also a trifle confusing. Many of <name>'s pronouncements could have multiple meanings. [His/Her] friends called [him/her] The Riddler.",
+    "vi": "Nhiều người nói năng thẳng thắn, nhưng <name> lại có cách dùng từ nghe rất thông minh nhưng cũng khá khó hiểu. Nhiều lời phát biểu của <name> có thể hiểu theo vô số nghĩa. Bạn bè của [His/Her] thường gọi [him/her] là Kẻ Đố Mẹo."
+  },
+  {
+    "key": "pseudonym_info_Kitten",
+    "type": 0,
+    "en": "Cute, soft, endearing...<name> is certainly adorable, and people flock to [him/her] to pet [him/her]. But beware, <name> also has claws, and often leaves a trail of destruction behind [him/her].",
+    "vi": "Đáng yêu, mềm mại, dễ mến... <name> quả thực rất dễ thương, và mọi người thường xúm lại quanh [him/her] để cưng nựng [him/her]. Nhưng hãy cẩn thận, <name> cũng có vuốt sắc và thường để lại một vệt tàn phá phía sau [him/her]."
+  },
+  {
+    "key": "pseudonym_info_Lamb",
+    "type": 0,
+    "en": "<name> was docile and sweet-tempered, and so was often affectionately called lamb. Like most of [his/her] disposition, <name> had learned the hard way to be on guard against wolves.",
+    "vi": "<name> ngoan ngoãn và tính tình ngọt ngào, nên thường được âu yếm gọi là chú cừu nhỏ. Như phần lớn những người có tính khí của [his/her], <name> đã phải nếm trải bài học cay đắng để biết luôn đề phòng loài sói dữ."
+  },
+  {
+    "key": "pseudonym_info_Bride",
+    "type": 0,
+    "en": "<name> seemed to be forever stitching away at incredibly fine and delicate items of clothing and linens for [his/her] wedding trousseau. [He/She] became dewy eyed at the prospect of marriage. What a pity, then, that <name> had never even been kissed.",
+    "vi": "<name> seemed để be forever stitching away at incredibly fine và delicate items của clothing và linens cho [his/her] wedding trousseau. [He/She] became dewy eyed at Kẻ prospect của marriage. What a pity, then, that <name> had never even been kissed."
+  },
+  {
+    "key": "pseudonym_info_Thief",
+    "type": 0,
+    "en": "<name> had always been nimble fingered, but became a full-time thief to survive the Dark Years. [He/She] stitched many hidden pockets into [his/her] clothes and would pinch anything that wasn't nailed down. <name> was often hired to do so.",
+    "vi": "<name> vốn luôn nhanh tay lẹ mắt, nhưng đã trở thành một kẻ trộm chuyên nghiệp để sống sót qua Những Năm Tháng Đen Tối. [He/She] khâu nhiều túi ẩn vào quần áo của [his/her] và sẵn sàng cuỗm bất cứ thứ gì không được canh giữ cẩn thận. <name> thường xuyên được thuê để làm việc đó."
+  },
+  {
+    "key": "pseudonym_info_Pirate",
+    "type": 0,
+    "en": "<name> didn’t do much to deserve [his/her] nickname, [he/she] inherited it. <name> was from a long line of swashbucklers known for attacking and looting trading ships in the waters around British Isles. <name>, however, didn't sail, and couldn't swim.",
+    "vi": "<name> không phải làm gì nhiều để xứng với biệt danh của [his/her], mà [he/she] được thừa hưởng nó. <name> xuất thân từ một dòng dõi thảo khấu khét tiếng chuyên tấn công và cướp bóc các tàu buôn trên vùng biển quanh quần đảo Anh quốc. Tuy nhiên, <name> lại không biết lái thuyền và cũng chẳng biết bơi."
+  },
+  {
+    "key": "pseudonym_info_Ghost",
+    "type": 0,
+    "en": "<name> was pale and silent and loitered in dark alcoves. <name> seldom spoke, and often seemed to appear out of nowhere, startling people. <name> was actually a bit creepy, seeming to have more in common with the dead than the living.",
+    "vi": "<name> xanh xao, lặng lẽ và thường ẩn mình trong các góc tối. <name> hiếm khi lên tiếng và thường xuất hiện bất thình lình khiến người khác giật mình. <name> mang vẻ bí ẩn như thể thuộc về thế giới bên kia."
+  },
+  {
+    "key": "pseudonym_info_Hanged",
+    "type": 0,
+    "en": "It is told that <name> survived death by hanging. As the hangman pulled the lever and the rope jerked, <name> expected the end. But the rope suddenly snapped. As God willed it, some said, crossing themselves.",
+    "vi": "Người ta kể rằng <name> đã sống sót thần kỳ sau một vụ treo cổ. Khi đao phủ gạt cần và sợi dây thừng giật mạnh, <name> ngỡ đời mình đã tận. Nhưng sợi dây thừng bất ngờ đứt đoạn. Nhiều người làm dấu thánh và tin rằng đó là ý muốn của Thượng Đế."
+  },
+  {
+    "key": "pseudonym_pattern",
+    "type": 0,
+    "en": "<pseudonym> of <origin>",
+    "vi": "<pseudonym> của <origin>"
+  },
+  {
+    "key": "bg_recent_name_Apostate",
+    "type": 0,
+    "en": "Apostate",
+    "vi": "Kẻ bỏ đạo"
+  },
+  {
+    "key": "bg_recent_name_Uprooted",
+    "type": 0,
+    "en": "Uprooted",
+    "vi": "Kẻ tha hương"
+  },
+  {
+    "key": "bg_recent_name_Caring",
+    "type": 0,
+    "en": "Caring",
+    "vi": "Ân cần"
+  },
+  {
+    "key": "bg_recent_name_Cunning",
+    "type": 0,
+    "en": "Cunning",
+    "vi": "Xảo quyệt"
+  },
+  {
+    "key": "bg_recent_name_Rustic",
+    "type": 0,
+    "en": "Rustic",
+    "vi": "Chân quê"
+  },
+  {
+    "key": "bg_recent_name_Soothsaying",
+    "type": 0,
+    "en": "Soothsaying",
+    "vi": "Bói toán"
+  },
+  {
+    "key": "bg_recent_name_Spinning",
+    "type": 0,
+    "en": "Spinning",
+    "vi": "Kéo sợi"
+  },
+  {
+    "key": "bg_recent_name_Tireless",
+    "type": 0,
+    "en": "Tireless",
+    "vi": "Bất tận không mỏi"
+  },
+  {
+    "key": "bg_recent_name_Penitent",
+    "type": 0,
+    "en": "Penitent",
+    "vi": "Người sám hối"
+  },
+  {
+    "key": "bg_recent_name_Shrewd",
+    "type": 0,
+    "en": "Shrewd",
+    "vi": "Khôn ngoan sắc bén"
+  },
+  {
+    "key": "bg_recent_name_Faithless",
+    "type": 0,
+    "en": "Faithless",
+    "vi": "Bội bạc"
+  },
+  {
+    "key": "bg_recent_name_Yorkist",
+    "type": 0,
+    "en": "Yorkist",
+    "vi": "Trung thành với York"
+  },
+  {
+    "key": "bg_recent_name_Savage",
+    "type": 0,
+    "en": "Savage",
+    "vi": "Hoang dã"
+  },
+  {
+    "key": "bg_recent_name_Cheerful",
+    "type": 0,
+    "en": "Cheerful",
+    "vi": "Vui tươi"
+  },
+  {
+    "key": "bg_recent_name_Charitable",
+    "type": 0,
+    "en": "Charitable",
+    "vi": "Bác ái"
+  },
+  {
+    "key": "bg_recent_name_AvantGarde",
+    "type": 0,
+    "en": "Avant-garde",
+    "vi": "Tiên phong"
+  },
+  {
+    "key": "bg_recent_name_Toxic",
+    "type": 0,
+    "en": "Toxic",
+    "vi": "Độc hại"
+  }
+]

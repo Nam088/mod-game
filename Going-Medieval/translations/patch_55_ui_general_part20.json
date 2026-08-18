@@ -1,0 +1,902 @@
+[
+  {
+    "key": "news_name_runaway",
+    "type": 0,
+    "en": "Violent extortionists ",
+    "vi": "Kẻ tống tiền hung hãn"
+  },
+  {
+    "key": "game_event_type_shakedown",
+    "type": 0,
+    "en": "Extortion",
+    "vi": "Tống tiền"
+  },
+  {
+    "key": "general_jump_to_location",
+    "type": 0,
+    "en": "Jump to Location",
+    "vi": "Đến vị trí"
+  },
+  {
+    "key": "news_death_title",
+    "type": 0,
+    "en": "<style=DefaultRed>Death:</style> <name> ",
+    "vi": "<style=DefaultRed>Cái chết:</style> <name> "
+  },
+  {
+    "key": "news_death_natural_death",
+    "type": 0,
+    "en": "<name> passed away peacefully in [his/her] sleep at the age of <age>.",
+    "vi": "<name> đã thanh thản ra đi trong giấc ngủ của [his/her] ở tuổi <age>."
+  },
+  {
+    "key": "news_death_unnatural_death",
+    "type": 0,
+    "en": "<name> met [his/her] untimely end at the age of <age>.",
+    "vi": "<name> đã kết thúc cuộc đời đột ngột ở tuổi <age> của [his/her]."
+  },
+  {
+    "key": "news_death_last_moments",
+    "type": 0,
+    "en": "These were [his/her] last moments:",
+    "vi": "Những khoảnh khắc cuối cùng của [his/her]:"
+  },
+  {
+    "key": "news_name_beggar",
+    "type": 0,
+    "en": "Beggar arrives",
+    "vi": "Kẻ ăn xin đến"
+  },
+  {
+    "key": "loot_stash_hostile",
+    "type": 0,
+    "en": "<style=DefaultRed>This location seems to harbour hostile animals</style>",
+    "vi": "<style=DefaultRed>Địa điểm này dường như có động vật thù địch</style>"
+  },
+  {
+    "key": "Player Triggered Events",
+    "type": 0,
+    "en": "",
+    "vi": "Sự kiện do người chơi kích hoạt"
+  },
+  {
+    "key": "estimated_event_quality",
+    "type": 0,
+    "en": "Estimated event quality",
+    "vi": "Chất lượng sự kiện ước tính"
+  },
+  {
+    "key": "player_triggered_event_duration",
+    "type": 0,
+    "en": "Duration of the event",
+    "vi": "Thời lượng sự kiện"
+  },
+  {
+    "key": "player_triggered_event_note",
+    "type": 0,
+    "en": "Note that there is a chance that the event might be worse or better than estimated!",
+    "vi": "Lưu ý rằng sự kiện có thể tệ hơn hoặc tốt hơn so với ước tính!"
+  },
+  {
+    "key": "player_triggered_event_feast_name",
+    "type": 0,
+    "en": "Feast Event",
+    "vi": "Yến tiệc"
+  },
+  {
+    "key": "player_triggered_event_feast_info",
+    "type": 0,
+    "en": "After hours of preparation, a table groaning with food, fine wine and song greeted the settlers of <village_name>. The festivities lasted until dawn!",
+    "vi": "Sau nhiều giờ chuẩn bị, một bàn tiệc đầy thức ăn, rượu ngon và tiếng hát đã chào đón dân làng <village_name>. Hội hè kéo dài đến tận bình minh!"
+  },
+  {
+    "key": "player_triggered_event_feast_description",
+    "type": 0,
+    "en": "All participants will have their hunger satiated. And, depending on the quality, their need for entertainment is also satisfied for several days. ",
+    "vi": "Tất cả người tham dự sẽ được thỏa mãn cơn đói. Tùy chất lượng, nhu cầu giải trí của họ cũng được đáp ứng trong vài ngày. "
+  },
+  {
+    "key": "player_triggered_event_sermon_name",
+    "type": 0,
+    "en": "Eucharist Event",
+    "vi": "Thánh lễ"
+  },
+  {
+    "key": "player_triggered_event_sermon_info",
+    "type": 0,
+    "en": "A solemn and prayerful observance of one of the Christian calendar's many holy days was held. They who wait for the Lord shall renew their strength",
+    "vi": "Một buổi lễ trang nghiêm và cầu nguyện được tổ chức nhân một trong nhiều ngày thánh của lịch Kitô giáo. Những ai trông cậy nơi Chúa sẽ được tiếp thêm sức mạnh."
+  },
+  {
+    "key": "player_triggered_event_sermon_description",
+    "type": 0,
+    "en": "All Restitutionist participants will have their religious needs fullfiled, depending on the quality, for several days. ",
+    "vi": "Tất cả người tham dự thuộc Hội Phục Hưng sẽ được thỏa mãn nhu cầu tôn giáo trong vài ngày, tùy theo chất lượng. "
+  },
+  {
+    "key": "player_triggered_event_ritual_name",
+    "type": 0,
+    "en": "Ritual Event",
+    "vi": "Nghi lễ"
+  },
+  {
+    "key": "player_triggered_event_ritual_info",
+    "type": 0,
+    "en": "A seasonal rite was held, with the assistance of herbal guides and moonlight. Participants journeyed and shapeshifted into deeper harmony with Nature. Blessed be.",
+    "vi": "Một nghi lễ theo mùa được cử hành dưới ánh trăng, với sự trợ giúp của những người dẫn đường bằng thảo mộc. Người tham dự hòa mình sâu sắc hơn với Tự nhiên qua hành trình và biến hình. Xin được ban phước."
+  },
+  {
+    "key": "player_triggered_event_ritual_description",
+    "type": 0,
+    "en": "All Oak Brethren participants will have their religious needs fullfiled, depending on the quality, for several days. ",
+    "vi": "Tất cả người tham dự thuộc Huynh Đệ Cây Sồi sẽ được thỏa mãn nhu cầu tôn giáo trong vài ngày, tùy theo chất lượng. "
+  },
+  {
+    "key": "general_add_participant",
+    "type": 0,
+    "en": "Add Participant",
+    "vi": "Thêm người tham dự"
+  },
+  {
+    "key": "plan_event",
+    "type": 0,
+    "en": "Hold event",
+    "vi": "Tổ chức sự kiện"
+  },
+  {
+    "key": "plan_event_disabled",
+    "type": 0,
+    "en": "You can't hold this event because the structure is not in: <room_name>",
+    "vi": "Bạn không thể tổ chức sự kiện này vì công trình không nằm trong: <room_name>"
+  },
+  {
+    "key": "plan_event_disabled_other_event",
+    "type": 0,
+    "en": "You can't hold this event because there is another event active at the moment",
+    "vi": "Bạn không thể tổ chức sự kiện này vì hiện đang có một sự kiện khác diễn ra"
+  },
+  {
+    "key": "end_event",
+    "type": 0,
+    "en": "End event",
+    "vi": "Kết thúc sự kiện"
+  },
+  {
+    "key": "end_event_confirm",
+    "type": 0,
+    "en": "Ending the event may yield negative mood modifiers for its participants. Are you sure you want to proceed?",
+    "vi": "Kết thúc sự kiện có thể gây hiệu ứng tâm trạng tiêu cực cho người tham dự. Bạn có chắc muốn tiếp tục không?"
+  },
+  {
+    "key": "player_triggered_event_start",
+    "type": 0,
+    "en": "Settlers started gathering for a <event_name>",
+    "vi": "Dân làng bắt đầu tập trung cho <event_name>"
+  },
+  {
+    "key": "player_triggered_event_ended",
+    "type": 0,
+    "en": "<event_name> ended with result: <quality_outcome>",
+    "vi": "<event_name> kết thúc với kết quả: <quality_outcome>"
+  },
+  {
+    "key": "player_triggered_event_cancelled",
+    "type": 0,
+    "en": "The <event_name> has been cancelled",
+    "vi": "<event_name> đã bị hủy"
+  },
+  {
+    "key": "end_event_general",
+    "type": 0,
+    "en": "The Event Has Ended",
+    "vi": "Sự kiện đã kết thúc"
+  },
+  {
+    "key": "end_event_quality",
+    "type": 0,
+    "en": "The quality of this event was: <quality_outcome>",
+    "vi": "Chất lượng của sự kiện này là: <quality_outcome>"
+  },
+  {
+    "key": "end_event_participants",
+    "type": 0,
+    "en": "Participants of the event were: <all_participants>",
+    "vi": "Người tham dự sự kiện: <all_participants>"
+  },
+  {
+    "key": "end_event_role_feast",
+    "type": 0,
+    "en": "The participants were entertained by: <all_roles>",
+    "vi": "Người tham dự được giải trí bởi: <all_roles>"
+  },
+  {
+    "key": "end_event_role_sermon",
+    "type": 0,
+    "en": "The service was led by: <all_roles>",
+    "vi": "Buổi lễ do những người sau chủ trì: <all_roles>"
+  },
+  {
+    "key": "end_event_role_ritual",
+    "type": 0,
+    "en": "The ritual was led by: <all_roles>",
+    "vi": "Nghi lễ do những người sau chủ trì: <all_roles>"
+  },
+  {
+    "key": "end_event_role_master",
+    "type": 0,
+    "en": "The participants were educated by: <all_roles>",
+    "vi": "Người tham dự được giảng dạy bởi: <all_roles>"
+  },
+  {
+    "key": "end_event_role_training",
+    "type": 0,
+    "en": "The participants were trained by: <all_roles>",
+    "vi": "Người tham dự được huấn luyện bởi: <all_roles>"
+  },
+  {
+    "key": "player_triggered_event_hanging_name",
+    "type": 0,
+    "en": "Execution by Hanging",
+    "vi": "Xử tử bằng treo cổ"
+  },
+  {
+    "key": "player_triggered_event_hanging_info",
+    "type": 0,
+    "en": "A slow and public death for the poor devil at the end of the rope. A spectacle for those who gather to watch.",
+    "vi": "Một cái chết chậm rãi và công khai dành cho kẻ xấu số cuối sợi dây. Một cảnh tượng cho đám đông tụ tập chứng kiến."
+  },
+  {
+    "key": "player_triggered_event_hanging_description",
+    "type": 0,
+    "en": "Choose one of your prisoners to be executed. They have no say in the matter, so you can execute any prisoner you want. Settler reactions to witnessing the execution will vary.",
+    "vi": "Chọn một tù nhân của bạn để xử tử. Họ không có quyền quyết định, nên bạn có thể xử tử bất kỳ tù nhân nào. Phản ứng của dân làng khi chứng kiến vụ xử tử sẽ khác nhau."
+  },
+  {
+    "key": "no_participant_message",
+    "type": 0,
+    "en": "There are no eligible participants that can join the event. ",
+    "vi": "Không có người tham gia đủ điều kiện để tham gia sự kiện này. "
+  },
+  {
+    "key": "no_roleparticipant_message",
+    "type": 0,
+    "en": "There are no eligible role participants that can join the event. ",
+    "vi": "Không có người đảm nhận chức vụ phù hợp để tham gia sự kiện. "
+  },
+  {
+    "key": "no_prisonerparticipant_message",
+    "type": 0,
+    "en": "There are no eligible prisoners that can be added to the event. ",
+    "vi": "Không có tù nhân phù hợp để đưa vào sự kiện này. "
+  },
+  {
+    "key": "player_triggered_event_master_class_name",
+    "type": 0,
+    "en": "Study Group",
+    "vi": "Nhóm học tập"
+  },
+  {
+    "key": "player_triggered_event_master_class_info",
+    "type": 0,
+    "en": "The librarian bookmarks manuscripts and prepares to welcome settlers for a reading and, hopefully, lively discussion.",
+    "vi": "Người thủ thư đánh dấu các trang bản thảo và chuẩn bị chào đón dân làng tới buổi đọc sách cùng một cuộc thảo luận sôi nổi."
+  },
+  {
+    "key": "player_triggered_event_master_class_description",
+    "type": 0,
+    "en": "Attending the Study Group buffs settlers in the skill detailed in the chosen textbook. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the librarian.",
+    "vi": "Tham gia Nhóm Học Tập sẽ tăng cường kỹ năng cho dân làng theo nội dung cuốn sách giáo khoa đã chọn. Thời gian duy trì bùa lợi kỹ năng phụ thuộc vào chất lượng sự kiện. Số lượng chỗ ngồi cho dân làng tham gia sự kiện do cấp độ của thủ thư quyết định."
+  },
+  {
+    "key": "player_triggered_event_training_name",
+    "type": 0,
+    "en": "Martial Training",
+    "vi": "Huấn luyện võ nghệ"
+  },
+  {
+    "key": "player_triggered_event_training_info",
+    "type": 0,
+    "en": "The sergeant sharpens blades and checks bowstrings are taut in anticipation of a martial training session.",
+    "vi": "Đội trưởng lính gác mài kiếm và kiểm tra dây cung đã căng, chuẩn bị cho buổi huấn luyện chiến đấu."
+  },
+  {
+    "key": "player_triggered_event_training_description",
+    "type": 0,
+    "en": "Attending Martial Training buffs settlers in the weapon skill selected. Skill buff duration depends on event quality. The number of spaces at the event for settlers is determined by the level of the sergeant.",
+    "vi": "Tham gia Huấn Luyện Quân Sự sẽ tăng cường kỹ năng sử dụng loại vũ khí đã chọn cho dân làng. Thời gian duy trì bùa lợi kỹ năng phụ thuộc vào chất lượng sự kiện. Số lượng chỗ ngồi tham gia do cấp độ của trung sĩ quyết định."
+  },
+  {
+    "key": "effector_info_AteHumanFlesh",
+    "type": 0,
+    "en": "I ate human flesh! <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>",
+    "vi": "Tôi đã ăn thịt người! <style=AltColor>Mẹo: Hãy cấm các bữa ăn làm từ thịt người trong bảng quản lý hoặc tìm nguồn lương thực thay thế.</style>"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCooked",
+    "type": 0,
+    "en": "Even though it was cooked, I can tell it's human flesh. <style=AltColor>Tip: Forbid meals made with human meat in the manage panel or find alternative food sources.</style>",
+    "vi": "Dù đã nấu chín, tôi vẫn nhận ra đó là thịt người. <style=AltColor>Mẹo: Hãy cấm các món ăn nấu từ thịt người trong bảng quản lý hoặc tìm nguồn lương thực thay thế.</style>"
+  },
+  {
+    "key": "effector_info_AteLavishMeal",
+    "type": 0,
+    "en": "This meal was fantastic, fit for a king!",
+    "vi": "Công trình này bữa ăn đã fantastic, fit cho a king!"
+  },
+  {
+    "key": "effector_info_AteRawMeal",
+    "type": 0,
+    "en": "Raw food will have to do, if there is nothing else. <style=AltColor>Tip: cooked meals are more nutritious and some give positive mood modifiers</style>",
+    "vi": "Thức ăn sống cũng đành phải ăn nếu chẳng còn gì khác. <style=AltColor>Mẹo: Thức ăn nấu chín giàu dinh dưỡng hơn và một số món giúp cải thiện tâm trạng tích cực.</style>"
+  },
+  {
+    "key": "effector_info_AteRawMeat",
+    "type": 0,
+    "en": "I ate raw meat, like an animal! <style=AltColor>Tip: Roasted meat is much better for the stomach and also won’t negatively affect mood.</style>",
+    "vi": "Tôi phải ăn thịt sống chẳng khác gì loài dã thú! <style=AltColor>Mẹo: Nấu chín thịt sẽ tốt hơn cho dạ dày và tránh bị tụt tâm trạng.</style>"
+  },
+  {
+    "key": "effector_info_AteWell",
+    "type": 0,
+    "en": "A decent meal, my hunger is assuaged.",
+    "vi": "A decent bữa ăn, của tôi Mức độ đói là assuaged."
+  },
+  {
+    "key": "effector_info_ChainedUp",
+    "type": 0,
+    "en": "Get these chains off me!",
+    "vi": "Tháo xiềng xích này cho tôi!"
+  },
+  {
+    "key": "effector_info_Chilly",
+    "type": 0,
+    "en": "Feeling a bit chilly. I might need warmer clothes... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Cảm thấy hơi se lạnh. Có lẽ tôi cần mặc quần áo ấm hơn... <style=AltColor>Mẹo: Hãy may trang phục phù hợp cho mùa này.</style>"
+  },
+  {
+    "key": "effector_info_Cold",
+    "type": 0,
+    "en": "It's getting pretty cold now. My teeth are chattering. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Trời đang trở nên khá lạnh rồi. Răng tôi va vào nhau cầm cập. <style=AltColor>Mẹo: May trang phục ấm áp phù hợp với thời tiết.</style>"
+  },
+  {
+    "key": "effector_info_DidJobWithPassion",
+    "type": 0,
+    "en": "Nothing beats the satisfaction of a job well done. <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>",
+    "vi": "Không gì sánh bằng niềm vui khi được làm công việc mình đam mê. <style=AltColor>Mẹo: Nếu dân làng buồn phiền, hãy giao việc họ yêu thích để cải thiện tâm trạng.</style>"
+  },
+  {
+    "key": "effector_info_ExtremeNeedSleep",
+    "type": 0,
+    "en": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "Tôi mệt lả như muốn gục ngã, gần như không thể đứng vững. <style=AltColor>Mẹo: Bổ sung thêm giờ ngủ trong lịch biểu hằng ngày cho dân làng này.</style>"
+  },
+  {
+    "key": "effector_info_ExtremeNeedSleepConLoss",
+    "type": 0,
+    "en": "I'm so dog tired, I can barely stand up. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "Tôi mệt lả như muốn gục ngã, gần như không thể đứng vững. <style=AltColor>Mẹo: Bổ sung thêm giờ ngủ trong lịch biểu hằng ngày cho dân làng này.</style>"
+  },
+  {
+    "key": "effector_info_FineClothing",
+    "type": 0,
+    "en": "Comfortable and stylish. No harm in looking fabulous, even if the world has ended...",
+    "vi": "Thoải mái và sang trọng. Chẳng hại gì khi ăn mặc thật lộng lẫy, ngay cả khi thế giới đã sụp đổ..."
+  },
+  {
+    "key": "effector_info_Freezing",
+    "type": 0,
+    "en": "I'm frozen to my bones! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Tôi lạnh buốt thấu tận xương tủy! <style=AltColor>Mẹo: May quần áo mùa đông ấm áp cho dân làng.</style>"
+  },
+  {
+    "key": "effector_info_Hot",
+    "type": 0,
+    "en": "Feeling lightheaded, it might be sunstroke... <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Đầu óc quay cuồng, chắc tôi bị say nắng rồi... <style=AltColor>Mẹo: May trang phục thoáng mát phù hợp với mùa hè.</style>"
+  },
+  {
+    "key": "effector_info_Hungry",
+    "type": 0,
+    "en": "Pretty hungry now, I should eat something soon.",
+    "vi": "Pretty hungry now, Có lẽ tôi nên eat something soon."
+  },
+  {
+    "key": "effector_info_NeedSleep",
+    "type": 0,
+    "en": "Can't wait to find a place to lay my head. <style=AltColor>Tip: Give this settler more sleep hours in the daily schedule.</style>",
+    "vi": "Chỉ mong sớm tìm được chỗ ngả lưng ngủ một giấc. <style=AltColor>Mẹo: Bố trí thêm giờ ngủ trong thời gian biểu.</style>"
+  },
+  {
+    "key": "effector_info_SleptInLowQualityBed",
+    "type": 0,
+    "en": "Better than the ground, I guess.",
+    "vi": "Better than ground, I guess."
+  },
+  {
+    "key": "effector_info_SleptOnRain",
+    "type": 0,
+    "en": "I'm soaking wet from sleeping in the rain. <style=AltColor>Tip: construct beds in rooms or in roofed areas.</style>",
+    "vi": "Tôi ướt sũng vì phải ngủ dưới trời mưa. <style=AltColor>Mẹo: Hãy xây dựng giường trong phòng kín hoặc nơi có mái che.</style>"
+  },
+  {
+    "key": "effector_info_SleptOnSnow",
+    "type": 0,
+    "en": "I slept in the freezing snow! <style=AltColor>Tip: construct beds in rooms or in roofed areas.",
+    "vi": "Tôi phải ngủ giữa trời tuyết giá lạnh! <style=AltColor>Mẹo: Hãy xây dựng giường trong phòng kín hoặc nơi có mái che."
+  },
+  {
+    "key": "effector_info_SleptOutside",
+    "type": 0,
+    "en": "I slept outside. <style=AltColor>Tip: construct beds in rooms.</style>",
+    "vi": "Tôi phải ngủ ngoài trời sương gió. <style=AltColor>Mẹo: Hãy xây dựng giường ngủ bên trong phòng kín.</style>"
+  },
+  {
+    "key": "effector_info_SleptWithoutBed",
+    "type": 0,
+    "en": "Had to sleep on the ground.",
+    "vi": "Had để Giấc ngủ trên ground."
+  },
+  {
+    "key": "effector_info_SlightNeedSleep",
+    "type": 0,
+    "en": "Feeling a bit tired, I should take a nap.",
+    "vi": "Feeling a bit tired, Có lẽ tôi nên take a nap."
+  },
+  {
+    "key": "effector_info_SlightlyHungry",
+    "type": 0,
+    "en": "Could do with something to eat, if I can find the time.",
+    "vi": "Could do với something để eat, if Tôi có thể find time."
+  },
+  {
+    "key": "effector_info_StarvationLoosHP",
+    "type": 0,
+    "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
+    "vi": "Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
+  },
+  {
+    "key": "effector_info_Starving",
+    "type": 0,
+    "en": "I'm totally famished, if I don't eat something soon, I may die. I'll eat anything.",
+    "vi": "Tôi đang totally famished, if I don't eat something soon, I may die. Tôi sẽ eat anything."
+  },
+  {
+    "key": "effector_info_Sweaty",
+    "type": 0,
+    "en": "It's a bit hot, I'm sweating. <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Trời nóng nực quá, mồ hôi chảy ròng ròng. <style=AltColor>Mẹo: May trang phục mùa hè mát mẻ.</style>"
+  },
+  {
+    "key": "effector_info_UglyClothing",
+    "type": 0,
+    "en": "These rags are not fit for me. <style=AltColor>Tip: some settlers mind if their apparel is of poor quality. Tailor something nicer for them to avoid this mood modifier.</style>",
+    "vi": "Mấy mảnh giẻ rách này không xứng để tôi mặc. <style=AltColor>Mẹo: Một số dân làng rất kén chọn trang phục. Hãy may đồ chất lượng cao hơn để tránh bị giảm tâm trạng.</style>"
+  },
+  {
+    "key": "effector_info_VeryHot",
+    "type": 0,
+    "en": "I might collapse from the heat! <style=AltColor>Tip: Tailor some clothes suitable for this season.</style>",
+    "vi": "Tôi sắp ngất vì trời quá nóng bức rồi! <style=AltColor>Mẹo: May quần áo mùa hè thoáng khí cho dân làng.</style>"
+  },
+  {
+    "key": "effector_info_VeryHungry",
+    "type": 0,
+    "en": "Can't hear anything over the sound of my growling stomach.",
+    "vi": "Can't hear anything over sound của của tôi growling stomach."
+  },
+  {
+    "key": "effector_name_2x",
+    "type": 0,
+    "en": "2X",
+    "vi": "2X"
+  },
+  {
+    "key": "effector_name_3x",
+    "type": 0,
+    "en": "3X",
+    "vi": "3X"
+  },
+  {
+    "key": "effector_name_4x",
+    "type": 0,
+    "en": "4X",
+    "vi": "4X"
+  },
+  {
+    "key": "effector_name_AteHumanFlesh",
+    "type": 0,
+    "en": "Consumed Human Flesh",
+    "vi": "Đã ăn thịt người"
+  },
+  {
+    "key": "effector_name_AteHumanFleshCooked",
+    "type": 0,
+    "en": "Consumed Cooked Human Flesh",
+    "vi": "Đã ăn thịt người nấu chín"
+  },
+  {
+    "key": "effector_name_AteLavishMeal",
+    "type": 0,
+    "en": "Ate an Exquisite Meal",
+    "vi": "Đã dùng bữa thịnh soạn"
+  },
+  {
+    "key": "effector_name_AteRawMeal",
+    "type": 0,
+    "en": "Ate Raw Food",
+    "vi": "Đã ăn thức ăn sống"
+  },
+  {
+    "key": "effector_name_AteRawMeat",
+    "type": 0,
+    "en": "Ate Raw Meat",
+    "vi": "Đã ăn thịt sống"
+  },
+  {
+    "key": "effector_name_AteWell",
+    "type": 0,
+    "en": "Ate a Nice Meal",
+    "vi": "Đã dùng bữa ngon"
+  },
+  {
+    "key": "effector_name_ChainedUp",
+    "type": 0,
+    "en": "Chained Up",
+    "vi": "Bị xiềng xích"
+  },
+  {
+    "key": "effector_name_Chilly",
+    "type": 0,
+    "en": "Chilly",
+    "vi": "Hơi lạnh"
+  },
+  {
+    "key": "effector_name_Cold",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Lạnh"
+  },
+  {
+    "key": "effector_name_DidJobWithPassion",
+    "type": 0,
+    "en": "Job Satisfaction",
+    "vi": "Hài lòng với công việc"
+  },
+  {
+    "key": "effector_name_ExtremeNeedSleep",
+    "type": 0,
+    "en": "Exhausted",
+    "vi": "Kiệt sức"
+  },
+  {
+    "key": "effector_name_ExtremeNeedSleepConLoss",
+    "type": 0,
+    "en": "Losing Consciousness",
+    "vi": "Sắp mất ý thức"
+  },
+  {
+    "key": "effector_name_FineClothing",
+    "type": 0,
+    "en": "Elegant Apparel",
+    "vi": "Trang phục thanh lịch"
+  },
+  {
+    "key": "effector_name_Freezing",
+    "type": 0,
+    "en": "Freezing",
+    "vi": "Rét cóng"
+  },
+  {
+    "key": "effector_name_Hot",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Nóng"
+  },
+  {
+    "key": "effector_name_Hungry",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Đói"
+  },
+  {
+    "key": "effector_name_NeedSleep",
+    "type": 0,
+    "en": "Moderately Tired",
+    "vi": "Khá mệt"
+  },
+  {
+    "key": "effector_name_SleptOnRain",
+    "type": 0,
+    "en": "Slept in the Rain",
+    "vi": "Đã ngủ dưới mưa"
+  },
+  {
+    "key": "effector_name_SleptOnSnow",
+    "type": 0,
+    "en": "Slept in the Snow",
+    "vi": "Đã ngủ trên tuyết"
+  },
+  {
+    "key": "effector_name_SleptOutside",
+    "type": 0,
+    "en": "Slept Outside",
+    "vi": "Đã ngủ ngoài trời"
+  },
+  {
+    "key": "effector_name_SleptWithoutBed",
+    "type": 0,
+    "en": "Slept on the Ground",
+    "vi": "Đã ngủ dưới đất"
+  },
+  {
+    "key": "effector_name_SlightNeedSleep",
+    "type": 0,
+    "en": "A little Tired",
+    "vi": "Hơi mệt"
+  },
+  {
+    "key": "effector_name_SlightlyHungry",
+    "type": 0,
+    "en": "Slightly Hungry",
+    "vi": "Hơi đói"
+  },
+  {
+    "key": "effector_name_StarvationLoosHP",
+    "type": 0,
+    "en": "Losing HP (Starving)",
+    "vi": "Mất HP (Đói lả)"
+  },
+  {
+    "key": "effector_name_Starving",
+    "type": 0,
+    "en": "Starving",
+    "vi": "Đói lả"
+  },
+  {
+    "key": "effector_name_Sweaty",
+    "type": 0,
+    "en": "Sweaty",
+    "vi": "Đổ mồ hôi"
+  },
+  {
+    "key": "effector_name_UglyClothing",
+    "type": 0,
+    "en": "Ugly Apparel",
+    "vi": "Trang phục xấu xí"
+  },
+  {
+    "key": "effector_name_VeryHot",
+    "type": 0,
+    "en": "Overheated",
+    "vi": "Quá nóng"
+  },
+  {
+    "key": "effector_name_VeryHungry",
+    "type": 0,
+    "en": "Ravenous",
+    "vi": "Đói cồn cào"
+  },
+  {
+    "key": "effector_name_StarvingStout",
+    "type": 0,
+    "en": "Starving (Stout)",
+    "vi": "Đói lả (Cường tráng)"
+  },
+  {
+    "key": "effector_name_AteAtTable",
+    "type": 0,
+    "en": "Ate at a table",
+    "vi": "Đã ăn tại bàn"
+  },
+  {
+    "key": "effector_name_AteSittingDown",
+    "type": 0,
+    "en": "Ate sitting down",
+    "vi": "Đã ngồi ăn"
+  },
+  {
+    "key": "effector_name_ButcheredHuman",
+    "type": 0,
+    "en": "Butchered a human",
+    "vi": "Đã mổ xẻ người"
+  },
+  {
+    "key": "effector_name_ButcheredHumanFriend",
+    "type": 0,
+    "en": "Butchered someone I knew",
+    "vi": "Đã mổ xẻ người quen"
+  },
+  {
+    "key": "effector_name_CookedHumanMeat",
+    "type": 0,
+    "en": "Cooked with human meat",
+    "vi": "Đã nấu thịt người"
+  },
+  {
+    "key": "effector_name_FaithFull",
+    "type": 0,
+    "en": "Religious needs fulfilled",
+    "vi": "Nhu cầu tín ngưỡng đã đủ"
+  },
+  {
+    "key": "effector_name_FaithNeed",
+    "type": 0,
+    "en": "Lacking in religious activities",
+    "vi": "Thiếu hoạt động tín ngưỡng"
+  },
+  {
+    "key": "effector_name_FaithDeprived",
+    "type": 0,
+    "en": "Deprived of religious activities",
+    "vi": "Không được hoạt động tín ngưỡng"
+  },
+  {
+    "key": "effector_name_SawDeadBody",
+    "type": 0,
+    "en": "Saw a dead body",
+    "vi": "Đã thấy thi thể"
+  },
+  {
+    "key": "effector_name_SawDeadBodyFriend",
+    "type": 0,
+    "en": "Saw a friend's corpse",
+    "vi": "Đã thấy thi thể bạn bè"
+  },
+  {
+    "key": "effector_info_AteAtTable",
+    "type": 0,
+    "en": "Eating at the table feels so civilized. It's positively grand compared to some of the places I've had to eat...it's quite heartening.",
+    "vi": "Eating at table feels so civilized. It's positively grand compared để some của places Tôi đã had để eat...it's quite heartening."
+  },
+  {
+    "key": "effector_info_AteSittingDown",
+    "type": 0,
+    "en": "Better than eating while standing.",
+    "vi": "Tốt hơn ăn khi phải đứng."
+  },
+  {
+    "key": "effector_info_ButcheredHuman",
+    "type": 0,
+    "en": "It's an image I can't get out of my head. A person laid out, dead. The glint of the butchering knife. I feel horror and revulsion.",
+    "vi": "Đó là hình ảnh tôi không thể nào xóa khỏi tâm trí. Một con người nằm bất động, đã chết. Ánh thép lóe lên từ con dao mổ xẻ. Tôi cảm thấy kinh hoàng và ghê tởm tột cùng."
+  },
+  {
+    "key": "effector_info_CookedHumanMeat",
+    "type": 0,
+    "en": "The odd thing was that it tasted like other meat. But recalling the horrible roasting smell makes me retch. It's sickening.",
+    "vi": "Điều kỳ lạ là nó có vị như các loại thịt khác. Nhưng nhớ lại mùi nướng thịt kinh tởm ấy khiến tôi buồn nôn. Thật bệnh hoạn."
+  },
+  {
+    "key": "effector_info_FaithFull",
+    "type": 0,
+    "en": "I am content, my soul is at peace. I have no need for prayer at this time.",
+    "vi": "Tôi cảm thấy mãn nguyện, tâm hồn tôi thật thanh thản. Lúc này tôi không có nhu cầu cầu nguyện."
+  },
+  {
+    "key": "effector_info_FaithNeed",
+    "type": 0,
+    "en": "I feel conflicted and disconnected. Some time in quiet contemplation and prayer would help.",
+    "vi": "Tôi cảm thấy conflicted và disconnected. Some time trong quiet contemplation và prayer would help."
+  },
+  {
+    "key": "effector_info_FaithDeprived",
+    "type": 0,
+    "en": "I fear I am losing faith, faltering in my devotion. I must pray! I must atone! <style=AltColor>Tip: Construct shrines, temples and chapels and give your settlers sufficient leisure hours to fulfil their religious needs.</style>",
+    "vi": "Tôi sợ rằng mình đang đánh mất đức tin và nguội lạnh lòng sùng kính. Tôi phải cầu nguyện! Tôi phải sám hối! <style=AltColor>Mẹo: Hãy xây dựng bàn thờ, đền miếu hoặc nhà nguyện và bố trí đủ giờ giải trí/tâm linh cho dân làng.</style>"
+  },
+  {
+    "key": "effector_info_SawDeadBody",
+    "type": 0,
+    "en": "It was horrible, to see the body. It was rigid, just...staring. It didn't feel respectful, seeing them like that. <style=AltColor>Tip: Store dead bodies on stockpiles far away from your settlement, or bury the dead so others can't see the bodies.</style>",
+    "vi": "Thật kinh khủng khi nhìn thấy thi thể ấy. Nó cứng đờ, trơ trọi... trừng trừng nhìn vô định. Nhìn họ như vậy thật bất kính. <style=AltColor>Mẹo: Hãy lưu trữ thi thể trên bãi chứa cách xa khu định cư, hoặc chôn cất người chết để người khác không nhìn thấy.</style>"
+  },
+  {
+    "key": "effector_name_AlcoholNeedNone",
+    "type": 0,
+    "en": "Not drinking alcohol",
+    "vi": "Không uống rượu"
+  },
+  {
+    "key": "effector_name_AlcoholNeedLow",
+    "type": 0,
+    "en": "Fancies a tipple",
+    "vi": "Muốn nhấp một ngụm"
+  },
+  {
+    "key": "effector_name_AlcoholNeedMed",
+    "type": 0,
+    "en": "Craving a stronger drink",
+    "vi": "Thèm đồ uống mạnh hơn"
+  },
+  {
+    "key": "effector_name_AlcoholNeedHigh",
+    "type": 0,
+    "en": "Desperate for booze",
+    "vi": "Khát rượu dữ dội"
+  },
+  {
+    "key": "effector_name_DrankNiceDrink",
+    "type": 0,
+    "en": "Drank good ale",
+    "vi": "Đã uống bia ale ngon"
+  },
+  {
+    "key": "effector_name_DrankVeryNiceDrink",
+    "type": 0,
+    "en": "Drank good beer",
+    "vi": "Đã uống bia ngon"
+  },
+  {
+    "key": "effector_name_InebriatedLow",
+    "type": 0,
+    "en": "Tipsy",
+    "vi": "Chếnh choáng"
+  },
+  {
+    "key": "effector_name_InebriatedMed",
+    "type": 0,
+    "en": "Drunk",
+    "vi": "Say rượu"
+  },
+  {
+    "key": "effector_name_InebriatedHigh",
+    "type": 0,
+    "en": "Legless",
+    "vi": "Say mềm"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHigh",
+    "type": 0,
+    "en": "Totally paralytic",
+    "vi": "Say bất tỉnh"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHighLightweight",
+    "type": 0,
+    "en": "Totally paralytic (Lightweight)",
+    "vi": "Say bất tỉnh (Tửu lượng kém)"
+  },
+  {
+    "key": "effector_name_InebriatedLowPunchDrunk",
+    "type": 0,
+    "en": "Tipsy (Punch Drunk)",
+    "vi": "Chếnh choáng (Say đòn)"
+  },
+  {
+    "key": "effector_name_InebriatedMedPunchDrunk",
+    "type": 0,
+    "en": "Drunk (Punch Drunk)",
+    "vi": "Say rượu (Say đòn)"
+  },
+  {
+    "key": "effector_name_InebriatedHighPunchDrunk",
+    "type": 0,
+    "en": "Legless (Punch Drunk)",
+    "vi": "Say mềm (Say đòn)"
+  },
+  {
+    "key": "effector_name_InebriatedVeryHighPunchDrunk",
+    "type": 0,
+    "en": "Totally paralytic (Punch Drunk)",
+    "vi": "Say bất tỉnh (Say đòn)"
+  },
+  {
+    "key": "effector_name_StomachHurtLow",
+    "type": 0,
+    "en": "Mild stomach pain",
+    "vi": "Đau bụng nhẹ"
+  },
+  {
+    "key": "effector_name_StomachHurtMed",
+    "type": 0,
+    "en": "Severe stomach pain",
+    "vi": "Đau bụng dữ dội"
+  },
+  {
+    "key": "effector_name_VomitAfter",
+    "type": 0,
+    "en": "Vomited",
+    "vi": "Đã nôn"
+  }
+]

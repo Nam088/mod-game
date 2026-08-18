@@ -1,398 +1,902 @@
 [
   {
-    "key": "event_quality_lvl_name_very_bad",
+    "key": "event_interacted_with_shield_negative",
     "type": 0,
-    "en": "Lamentable",
-    "vi": "Lamentable"
+    "en": "This <item_name> <target_name> made is a piece of junk, <agent_name> grumbled.",
+    "vi": "<agent_name> càu nhàu bực bội rằng chiếc khiên <item_name> mà <target_name> làm ra chỉ là một đống phế phẩm vô dụng."
   },
   {
-    "key": "event_quality_lvl_name_bad",
+    "key": "event_interacted_with_armour_positive",
     "type": 0,
-    "en": "Disappointing",
-    "vi": "Disappointing"
+    "en": "<agent_name> was indebted to <target_name> for making such a sturdy <item_name>.",
+    "vi": "<agent_name> vô cùng biết ơn <target_name> vì đã rèn nên bộ giáp <item_name> kiên cố và vững chãi đến nhường này."
   },
   {
-    "key": "event_quality_lvl_name_decent",
+    "key": "event_interacted_with_armour_negative",
     "type": 0,
-    "en": "Decent",
-    "vi": "Decent"
+    "en": "<agent_name> wished #1[he/she] hadn't trusted <target_name> with making this <item_name>.",
+    "vi": "<agent_name> thầm ân hận vì #1[he/she] đã trót tin tưởng giao phó cho <target_name> rèn bộ giáp <item_name> này."
   },
   {
-    "key": "event_quality_lvl_name_good",
+    "key": "event_interacted_with_garment_positive",
     "type": 0,
-    "en": "Enjoyable",
-    "vi": "Enjoyable"
+    "en": "<agent_name> enjoyed wearing the <item_name> <target_name> had made so skilfully.",
+    "vi": "<agent_name> cảm thấy vô cùng thoải mái và tự hào khi được mặc bộ y phục <item_name> do chính tay <target_name> may dệt khéo léo."
   },
   {
-    "key": "event_quality_lvl_name_very_good",
+    "key": "event_interacted_with_garment_negative",
     "type": 0,
-    "en": "Excellent",
-    "vi": "Excellent"
+    "en": "<agent_name> was terribly uncomfortable wearing this <item_name>, which <target_name> can't have tailored properly.",
+    "vi": "<agent_name> cảm thấy vô cùng bứt rứt khó chịu khi khoác lên mình bộ y phục <item_name> này; hẳn là <target_name> đã cắt may quá đỗi cẩu thả."
   },
   {
-    "key": "event_quality_lvl_name_unforgettable",
+    "key": "event_belief_near_death_christian_to_pagan",
     "type": 0,
-    "en": "Unforgettable",
-    "vi": "Unforgettable"
+    "en": "In the face of death, <agent_name> found no comfort in the Lord, only darkness and terror. [His/Her] faith crumbled.",
+    "vi": "Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. Đức tin của [his/her] đã hoàn toàn sụp đổ."
   },
   {
-    "key": "event_quality_cooldown",
+    "key": "event_belief_near_death_pagan_to_christian",
     "type": 0,
-    "en": "Event Cooldown Time",
-    "vi": "Event Cooldown Time"
+    "en": "There were no horns of mead in Tír na nÓg awaiting <agent_name>, who felt only hollowness in death's bitter embrace.",
+    "vi": "Chẳng có sừng rượu mật ong nào nơi cõi tiên Tír na nÓg đón chờ <agent_name>; giữa vòng tay lạnh lẽo của tử thần, [he/she] chỉ cảm nhận thấy sự trống rỗng cay đắng."
   },
   {
-    "key": "event_quality_points_breakdown",
+    "key": "event_belief_intoxication_christian_to_pagan",
     "type": 0,
-    "en": "Event quality Points Breakdown",
-    "vi": "Event quality Points Breakdown"
+    "en": "Deep in [his/her] cups, <agent_name> felt an awful certainty that there was no God to save [him/her].",
+    "vi": "Chìm sâu trong men rượu say nồng, <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
   },
   {
-    "key": "event_requ_skill_book",
+    "key": "event_belief_intoxication_pagan_to_christian",
     "type": 0,
-    "en": "Required Textbook",
-    "vi": "Required Textbook"
+    "en": "Inebriated, <agent_name> had a sinking realization that the Old Gods had forsaken this land, and all who dwelled upon it, a long time ago.",
+    "vi": "Trong cơn say chếnh choáng, <agent_name> đau đớn nhận ra các Cổ Thần từ lâu đã ruồng bỏ mảnh đất này cùng tất cả những sinh linh cư ngụ trên đó."
   },
   {
-    "key": "event_quality_ranged_name",
+    "key": "event_belief_friend_died_christian_to_pagan",
     "type": 0,
-    "en": "Ranged Weaponry students",
-    "vi": "Ranged Weaponry students"
+    "en": "Is there a God? He would not allow <agent_name>'s friend to die so pitifully.",
+    "vi": "Liệu Thiên Chúa có thật sự hiện hữu? Nếu có, Ngài ắt đã không nhẫn tâm để bạn hữu của <agent_name> phải lìa đời một cách thảm thương đến thế."
   },
   {
-    "key": "event_quality_melee_name",
+    "key": "event_belief_friend_died_pagan_to_christian",
     "type": 0,
-    "en": "Melee Weapons students",
-    "vi": "Melee Weapons students"
+    "en": "<agent_name> abandoned hope in the Old Gods, when they saw fit to let [his/her] friend perish.",
+    "vi": "<agent_name> hoàn toàn từ bỏ niềm tin vào các Cổ Thần, khi chứng kiến các đấng tối cao trơ mắt nhìn bạn hữu của [his/her] bỏ mạng."
   },
   {
-    "key": "event_requ_training",
+    "key": "event_belief_raid_lost_christian_to_pagan",
     "type": 0,
-    "en": "Training equipment",
-    "vi": "Training equipment"
+    "en": "<agent_name> knew that God did not deign [him/her] worthy of triumph in battle",
+    "vi": "<agent_name> cay đắng nhận ra Thiên Chúa không đoái hoài ban cho [him/her] vinh quang chiến thắng nơi trận mạc."
   },
   {
-    "key": "effector_name_ExecutedPrisonerSameFaction",
+    "key": "event_belief_raid_lost_pagan_to_christian",
     "type": 0,
-    "en": "Prisoner Executed (Same Faction)",
-    "vi": "Prisoner Executed (Same Faction)"
+    "en": "A bitterness grew in <agent_name>, that the immortal ones stood by as [he/she] was beaten.",
+    "vi": "Nỗi uất hận trào dâng trong lòng <agent_name> khi các đấng bất tử chỉ khoanh tay đứng nhìn [he/she] bị quân thù đè bẹp."
   },
   {
-    "key": "effector_info_ExecutedPrisonerSameFaction",
+    "key": "event_belief_raid_won_christian_to_christian",
     "type": 0,
-    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
-    "vi": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I..."
+    "en": "<agent_name> knew that [his/hers] was a righteous cause indeed.",
+    "vi": "<agent_name> tin tưởng vững chắc rằng con đường và chính nghĩa của [his/hers] đã được Thiên Chúa chở che và soi sáng."
   },
   {
-    "key": "effector_name_RaidWonEffector",
+    "key": "event_belief_raid_won_pagan_to_pagan",
     "type": 0,
-    "en": "Victorious!",
-    "vi": "Victorious!"
+    "en": "The ancient ones honoured <agent_name> with the might to prevail.",
+    "vi": "Các Cổ Thần linh thiêng thời xa xưa đã ban phước cho <agent_name> sức mạnh vô song để đè bẹp kẻ thù."
   },
   {
-    "key": "effector_info_RaidWonEffector",
+    "key": "event_belief_flawless_item_christian_to_christian",
     "type": 0,
-    "en": "We have defied our enemies — triumph courses through my veins!",
-    "vi": "We have defied our enemies — triumph courses through my veins!"
+    "en": "<agent_name>'s faith in the guiding hand of God is magnified, as [his/her] efforts yield perfection.",
+    "vi": "Đức tin của <agent_name> vào bàn tay dẫn dắt nhiệm màu của Thiên Chúa càng thêm sâu sắc, khi thành quả lao động của [his/her] đạt tới cảnh giới hoàn mỹ."
   },
   {
-    "key": "effector_name_RaidLosingEffector",
+    "key": "event_belief_flawless_item_pagan_to_pagan",
     "type": 0,
-    "en": "Losing ground",
-    "vi": "Losing ground"
+    "en": "<agent_name> reveals the true beauty of Nature in the act of creation, so deepening [his/her] faith.",
+    "vi": "Bằng sự che chở của các Cổ Thần, đôi bàn tay của <agent_name> đã tạo nên một tạo tác tuyệt mỹ không tì vết."
   },
   {
-    "key": "effector_info_RaidLosingEffector",
+    "key": "event_belief_flimsy_item_christian_to_pagan",
     "type": 0,
-    "en": "This fight is not going our way. Whatever will become of us!",
-    "vi": "This fight is not going our way. Whatever will become of us!"
+    "en": "<agent_name> is thoroughly disappointed in God, for rendering [him/her] so clumsy and inept. ",
+    "vi": "<agent_name> vô cùng thất vọng vì Chúa đã khiến [him/her] vụng về và bất tài đến vậy. "
   },
   {
-    "key": "effector_name_RaidLosingEffectorPos",
+    "key": "event_belief_flimsy_item_pagan_to_christian",
     "type": 0,
-    "en": "Losing (positive)",
-    "vi": "Losing (positive)"
+    "en": "Where is the guidance of the Goddess when you need it, <agent_name> wonders, pondering [his/her] botched creation.",
+    "vi": "Khi cần thì Nữ thần dẫn lối ở đâu, <agent_name> tự hỏi trong lúc nhìn sản phẩm hỏng của [his/her]."
   },
   {
-    "key": "effector_info_RaidLosingEffectorPos",
+    "key": "event_belief_nature_thunderstorm_pagan_to_christian",
     "type": 0,
-    "en": "I'm ready to give in - I look forward to this being over.",
-    "vi": "I'm ready to give in - I look forward to this being over."
+    "en": "Have I been praying to the wrong gods? <agent_name> wonders, amidst a mighty downpour from the heavens.",
+    "vi": "Ta đã cầu nguyện nhầm các vị thần sao? <agent_name> tự hỏi giữa trận mưa xối xả từ trời cao."
   },
   {
-    "key": "effector_name_RaidWinningEffector",
+    "key": "event_belief_nature_thunderstorm_christian_to_pagan",
     "type": 0,
-    "en": "Gaining ground",
-    "vi": "Gaining ground"
+    "en": "Have I been praying to the wrong god? <agent_name> wonders, as the heavens open to release torrential rain.",
+    "vi": "Ta đã cầu nguyện nhầm vị thần sao? <agent_name> tự hỏi khi trời đổ cơn mưa như trút nước."
   },
   {
-    "key": "effector_info_RaidWinningEffector",
+    "key": "event_belief_nature_hailstorm_pagan_to_christian",
     "type": 0,
-    "en": "Fortune is on our side! We may yet win the day.",
-    "vi": "Fortune is on our side! We may yet win the day."
+    "en": "<agent_name> felt that the Gods didn't care about <village_name> to allow such weather - if they even were the true gods.",
+    "vi": "<agent_name> cảm thấy chư thần chẳng quan tâm đến <village_name> khi để thời tiết này xảy ra - nếu họ thật sự là thần."
   },
   {
-    "key": "building_name_merchant_table",
+    "key": "event_belief_nature_hailstorm_christian_to_pagan",
     "type": 0,
-    "en": "Merchant's table",
-    "vi": "Merchant's table"
+    "en": "<agent_name> was overcome by certainty that this hailstorm was a sign. [His/Her] prayers to God had not been heard.",
+    "vi": "<agent_name> tin chắc trận mưa đá này là một điềm báo. Những lời cầu nguyện của [His/Her] đã không đến được Chúa."
   },
   {
-    "key": "building_info_merchant_table",
+    "key": "event_belief_belief_nature_heatwave_pagan_to_christian",
     "type": 0,
-    "en": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!",
-    "vi": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!"
+    "en": "<agent_name> felt miserable as the heat intensified. [His/Her] offerings to the Gods of the land had been for naught.",
+    "vi": "<agent_name> khốn khổ khi cái nóng ngày càng gay gắt. Những lễ vật [His/Her] dâng lên chư thần của vùng đất đều vô ích."
   },
   {
-    "key": "building_name_merchants_stall",
+    "key": "event_belief_belief_nature_heatwave_christian_to_pagan",
     "type": 0,
-    "en": "Merchant Stall",
-    "vi": "Merchant Stall"
+    "en": "<agent_name> felt overwhelmed by the stifling heat. A just God would not allow this, [he/she] thought.",
+    "vi": "<agent_name> kiệt quệ trước cái nóng ngột ngạt. Một vị Chúa công bằng sẽ không để điều này xảy ra, [he/she] nghĩ."
   },
   {
-    "key": "building_info_merchants_stall",
+    "key": "event_belief_belief_nature_coldsnap_pagan_to_christian",
     "type": 0,
-    "en": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here.",
-    "vi": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here."
+    "en": "So, the Gods would have us freeze in our beds? <agent_name> was thoroughly sick of uncooperative deities making life miserable.",
+    "vi": "Vậy là chư thần muốn chúng ta chết cóng trên giường sao? <agent_name> đã quá chán những vị thần bất hợp tác khiến cuộc sống khốn khổ."
   },
   {
-    "key": "none_faction_name",
+    "key": "event_belief_belief_nature_coldsnap_christian_to_pagan",
     "type": 0,
-    "en": "Nonpartisan",
-    "vi": "Nonpartisan"
+    "en": "Hours spent on my knees, O Lord, beseeching you to care for your flock in <village_name>. Yet you would see us all chilled to the bone?",
+    "vi": "Con đã quỳ hàng giờ, lạy Chúa, cầu xin Ngài chăm nom đàn chiên tại <village_name>. Vậy mà Ngài muốn tất cả chúng con lạnh thấu xương sao?"
   },
   {
-    "key": "faction_type_faithful",
+    "key": "event_belief_belief_nature_blight_pagan_to_christian",
     "type": 0,
-    "en": "Church of Restitution",
-    "vi": "Church of Restitution"
+    "en": "<agent_name> cursed the Gods. And [him/her]self, for worshipping such callous deities.",
+    "vi": "<agent_name> nguyền rủa chư thần, và nguyền rủa [him/her]self vì đã thờ phụng những vị thần vô cảm ấy."
   },
   {
-    "key": "faction_type_pagan",
+    "key": "event_belief_belief_nature_blight_christian_to_pagan",
     "type": 0,
-    "en": "Oak Brethren",
-    "vi": "Oak Brethren"
+    "en": "So, The Lord remains unmoved, even as He sends this blight to test us. <agent_name> resolved to pray to more compassionate gods.",
+    "vi": "Chúa vẫn không lay chuyển, ngay cả khi Ngài giáng dịch bệnh cây trồng để thử thách chúng ta. <agent_name> quyết định cầu nguyện những vị thần giàu lòng trắc ẩn hơn."
   },
   {
-    "key": "faction_type_knowledge",
+    "key": "difficulty_option_raidPointsMultiplier_title",
     "type": 0,
-    "en": "Knowledge",
-    "vi": "Knowledge"
+    "en": "Event Strength Multiplier",
+    "vi": "Hệ số sức mạnh sự kiện"
   },
   {
-    "key": "faction_type_monarchy",
+    "key": "difficulty_option_raidPointsMultiplier_info",
     "type": 0,
-    "en": "Monarchy",
-    "vi": "Monarchy"
+    "en": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events.",
+    "vi": "Quy định số điểm dùng khi tạo các sự kiện như dịch bệnh cây trồng và đột kích. Số điểm này quyết định số lượng và sức mạnh của sự kiện."
   },
   {
-    "key": "faction_type_anarchy",
+    "key": "difficulty_option_raidStrengthMultiplier_title",
     "type": 0,
-    "en": "Anarchy",
-    "vi": "Anarchy"
+    "en": "Event Strength Escalator",
+    "vi": "Mức tăng sức mạnh sự kiện"
   },
   {
-    "key": "faction_type_cannibal",
+    "key": "difficulty_option_raidStrengthMultiplier_info",
     "type": 0,
-    "en": "Cannibal",
-    "vi": "Cannibal"
+    "en": "Event strength changes over time. Select how you would like event strength to escalate:",
+    "vi": "Sức mạnh sự kiện thay đổi theo thời gian. Chọn cách bạn muốn sức mạnh tăng lên:"
   },
   {
-    "key": "faction_type_bandits",
+    "key": "difficulty_option_merchantGeneralEvent_title",
     "type": 0,
-    "en": "Bandits",
-    "vi": "Bandits"
+    "en": "Merchant visit",
+    "vi": "Thương nhân ghé thăm"
   },
   {
-    "key": "faction_type_chaos",
+    "key": "difficulty_option_merchantRareEvent_title",
     "type": 0,
-    "en": "Chaos",
-    "vi": "Chaos"
+    "en": "Rare goods merchant visit",
+    "vi": "Thương nhân hàng hiếm ghé thăm"
   },
   {
-    "key": "dev_spawn_random_raid",
+    "key": "difficulty_option_merchantPrisonerEvent_title",
     "type": 0,
-    "en": "Spawn Simple Raid",
-    "vi": "Spawn Simple Raid"
+    "en": "Prisoner merchant visit",
+    "vi": "Thương nhân tù nhân ghé thăm"
   },
   {
-    "key": "dev_faction_set_friendliness",
+    "key": "difficulty_option_animalRaidEvent_title",
     "type": 0,
-    "en": "Set Faction Alignment",
-    "vi": "Set Faction Alignment"
+    "en": "Hostile Animals",
+    "vi": "Động vật thù địch"
   },
   {
-    "key": "dev_tooltip_faction_set_friendliness",
+    "key": "difficulty_option_animalRaidEvent_info",
     "type": 0,
-    "en": "Alter Faction Alignment.",
-    "vi": "Alter Faction Alignment."
+    "en": "Allow this event to happen in this playthrough",
+    "vi": "Cho phép sự kiện này xảy ra trong lượt chơi"
   },
   {
-    "key": "dev_faction_friendliness",
+    "key": "difficulty_option_enemyRaidEvent_title",
     "type": 0,
-    "en": "Select a Faction...",
-    "vi": "Select a Faction..."
+    "en": "Enemy Raid Events",
+    "vi": "Sự kiện kẻ địch đột kích"
   },
   {
-    "key": "dev_faction_modify_friendliness",
+    "key": "difficulty_option_enemyRaidEvent_info",
     "type": 0,
-    "en": "...then Alignment + / - 10.",
-    "vi": "...then Alignment + / - 10."
+    "en": "Allow random raid events to occur during your play session. (Note that in Peaceful mode this does not apply, because raids are excluded from this game mode.)",
+    "vi": "Cho phép các cuộc đột kích ngẫu nhiên xảy ra trong lượt chơi. (Không áp dụng cho chế độ Yên bình vì chế độ này loại bỏ đột kích.)"
   },
   {
-    "key": "dev_tooltip_faction",
+    "key": "twitch_raid_event",
     "type": 0,
-    "en": "Select the Faction you want to alter the Alignment of.",
-    "vi": "Select the Faction you want to alter the Alignment of."
+    "en": "{FromBroadcasterName} has raided your stream with {ViewersCount} people! Now they will raid your settlement!",
+    "vi": "{FromBroadcasterName} đã đưa {ViewersCount} người đột kích kênh của bạn! Giờ họ sẽ đột kích khu định cư!"
   },
   {
-    "key": "dev_event_group_AnimalRaid",
+    "key": "twitch_raid_button",
     "type": 0,
-    "en": "Animal Raid",
-    "vi": "Animal Raid"
+    "en": "Minimum amount of Twitch raiders to trigger",
+    "vi": "Số người đột kích Twitch tối thiểu để kích hoạt"
   },
   {
-    "key": "dev_event_group_Raid",
+    "key": "twitch_raid_title",
     "type": 0,
-    "en": "Raid",
-    "vi": "Raid"
+    "en": "Raids",
+    "vi": "Đột kích"
   },
   {
-    "key": "dev_event_group_Merchantgeneral",
+    "key": "twitch_raid_desc",
+    "type": 0,
+    "en": "Twitch raids also trigger in game raids.",
+    "vi": "Đột kích trên Twitch cũng kích hoạt đột kích trong trò chơi."
+  },
+  {
+    "key": "warning_message_info_Raid",
+    "type": 0,
+    "en": "Arm your settlers. You are being attacked!",
+    "vi": "Trang bị vũ khí cho dân làng. Bạn đang bị tấn công!"
+  },
+  {
+    "key": "warning_message_short_Raid",
+    "type": 0,
+    "en": "<style=DefaultRed>Incursion!</style>",
+    "vi": "<style=DefaultRed>Đột kích!</style>"
+  },
+  {
+    "key": "cannot_change_during_raid",
+    "type": 0,
+    "en": "Fast speed is disabled during attacks",
+    "vi": "Không thể dùng tốc độ nhanh khi bị tấn công"
+  },
+  {
+    "key": "raiders_no_damage_for_period",
+    "type": 0,
+    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
+    "vi": "Hài lòng với thiệt hại đã gây ra cho khu định cư, những kẻ tấn công đang rút lui."
+  },
+  {
+    "key": "raiders_defeated",
+    "type": 0,
+    "en": "Taking a heavy blow to their forces, the aggressors flee.",
+    "vi": "Bị tổn thất nặng nề, những kẻ tấn công tháo chạy."
+  },
+  {
+    "key": "raiders_won",
+    "type": 0,
+    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
+    "vi": "Hài lòng với thiệt hại đã gây ra cho khu định cư, những kẻ tấn công đang rút lui."
+  },
+  {
+    "key": "raiders_tied",
+    "type": 0,
+    "en": "The battle seems to not be in anyone's favor, the aggressors are leaving.",
+    "vi": "Trận chiến dường như không nghiêng về bên nào, những kẻ tấn công đang rút lui."
+  },
+  {
+    "key": "warning_message_info_AnimalRaid",
+    "type": 0,
+    "en": "A pack of wild animals has arrived near your settlement. It will leave in a couple of days so it might be better to leave them undisturbed than to risk someone getting hurt.",
+    "vi": "Một đàn thú hoang đã xuất hiện gần khu định cư. Chúng sẽ rời đi sau vài ngày, vì vậy để chúng yên có thể tốt hơn là mạo hiểm khiến ai đó bị thương."
+  },
+  {
+    "key": "warning_message_short_AnimalRaid",
+    "type": 0,
+    "en": "<style=DefaultRed>Hostile animals</style>",
+    "vi": "<style=DefaultRed>Động vật thù địch</style>"
+  },
+  {
+    "key": "warning_message_info_RaidCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Hãy chuẩn bị dân làng, <faction_name> đang kéo đến"
+  },
+  {
+    "key": "warning_message_short_RaidCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>A search party arrives.</style>",
+    "vi": "<style=DefaultRed>Một toán truy tìm đang đến.</style>"
+  },
+  {
+    "key": "event_animal_raid_end",
+    "type": 0,
+    "en": "Hostile animals are leaving the area",
+    "vi": "Động vật thù địch đang rời khỏi khu vực"
+  },
+  {
+    "key": "event_animal_raid_end_all_animals_dead",
+    "type": 0,
+    "en": "All the aggressive animals have been dealt with",
+    "vi": "Tất cả động vật hung dữ đã bị xử lý"
+  },
+  {
+    "key": "warning_message_short_FinalRaidCountdown",
+    "type": 0,
+    "en": "<style=DefaultRed>Attackers approaching.</style>",
+    "vi": "<style=DefaultRed>Kẻ tấn công đang đến gần.</style>"
+  },
+  {
+    "key": "warning_message_info_FinalRaidCountdown",
+    "type": 0,
+    "en": "Prepare your settlers, <faction_name> are on their way",
+    "vi": "Hãy chuẩn bị dân làng, <faction_name> đang kéo đến"
+  },
+  {
+    "key": "event_type_point_of_interest",
+    "type": 0,
+    "en": "Point of interest",
+    "vi": "Địa điểm đáng chú ý"
+  },
+  {
+    "key": "worker_action_AnimalRaidIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Đứng chờ"
+  },
+  {
+    "key": "research_name_merchant_structure_01",
+    "type": 0,
+    "en": "Merchant Structures I",
+    "vi": "Công trình thương nhân I"
+  },
+  {
+    "key": "research_name_merchant_structure_02",
+    "type": 0,
+    "en": "Merchant Structures II",
+    "vi": "Công trình thương nhân II"
+  },
+  {
+    "key": "research_name_merchant_structure_03",
+    "type": 0,
+    "en": "Merchant Structures III",
+    "vi": "Công trình thương nhân III"
+  },
+  {
+    "key": "event_tooltip_started",
+    "type": 0,
+    "en": "Started",
+    "vi": "Đã bắt đầu"
+  },
+  {
+    "key": "event_tooltip_lasts",
+    "type": 0,
+    "en": "Has lasted for",
+    "vi": "Đã kéo dài"
+  },
+  {
+    "key": "event_answer_01",
+    "type": 0,
+    "en": "Accept",
+    "vi": "Chấp nhận"
+  },
+  {
+    "key": "event_answer_decline_new_worker",
+    "type": 0,
+    "en": "The settlers slammed the door shut, leaving <name> outside.",
+    "vi": "Dân làng đóng sầm cửa, bỏ mặc <name> bên ngoài."
+  },
+  {
+    "key": "event_answer_decline_help_runaway",
+    "type": 0,
+    "en": "The settlers slammed the door shut, leaving <name> outside.",
+    "vi": "Dân làng đóng sầm cửa, bỏ mặc <name> bên ngoài."
+  },
+  {
+    "key": "event_answer_prepare_for_battle",
+    "type": 0,
+    "en": "<village_name> folk took up arms, making ready for battle",
+    "vi": "Người dân <village_name> cầm vũ khí, sẵn sàng chiến đấu"
+  },
+  {
+    "key": "event_answer_04",
+    "type": 0,
+    "en": "Ok",
+    "vi": "Được"
+  },
+  {
+    "key": "event_answer_welcome_new_worker",
+    "type": 0,
+    "en": "The settlers decided to welcome [him/her] into <village_name>.",
+    "vi": "Dân làng quyết định chào đón [him/her] vào <village_name>."
+  },
+  {
+    "key": "event_answer_help_runaway",
+    "type": 0,
+    "en": "<village_name>'s inhabitants decided to help [him/her].",
+    "vi": "Người dân <village_name> quyết định giúp [him/her]."
+  },
+  {
+    "key": "event_answer_surrender_worker",
+    "type": 0,
+    "en": "<village_name> surrendered <name> back to those hunting [him/her].",
+    "vi": "<village_name> giao trả <name> cho những kẻ đang săn lùng [him/her]."
+  },
+  {
+    "key": "event_answer_refuse_give_worker",
+    "type": 0,
+    "en": "<village_name>'s defiant settlers refused to bow to the assailants' demands.",
+    "vi": "Dân làng <village_name> kiên quyết không khuất phục trước yêu sách của những kẻ tấn công."
+  },
+  {
+    "key": "event_answer_worker_allready_gone",
+    "type": 0,
+    "en": "Yet <name> was no longer at <village_name>. It was impossible to comply.",
+    "vi": "Nhưng <name> không còn ở <village_name>. Không thể đáp ứng yêu cầu."
+  },
+  {
+    "key": "event_blight_01",
+    "type": 0,
+    "en": "The settlers knew that when crop blight appeared, it was a race against time. Every able worker in <village_name> toiled to weed out this scourge before it withered the healthy plants. <village_name>’s very future depended upon it!",
+    "vi": "Dân làng biết rằng khi dịch bệnh cây trồng xuất hiện, họ phải chạy đua với thời gian. Mọi người còn đủ sức tại <village_name> đều cố nhổ bỏ tai họa này trước khi cây khỏe mạnh héo úa. Tương lai của <village_name> phụ thuộc vào việc đó!"
+  },
+  {
+    "key": "event_cold_01",
+    "type": 0,
+    "en": "Severe frost turned the ground to iron, ruining planted crops. Trees split, birds froze to death, and icicles hung from the rafters. It was vital for the settlers to dress warmly and heat <village_name> sleeping quarters, to evade the deathly kiss of cold.",
+    "vi": "Băng giá khắc nghiệt khiến mặt đất cứng như sắt và phá hỏng cây trồng. Cây cối nứt toác, chim chóc chết cóng, băng rủ xuống từ xà nhà. Dân làng phải mặc thật ấm và sưởi các phòng ngủ tại <village_name> để tránh nụ hôn chết chóc của giá lạnh."
+  },
+  {
+    "key": "event_cold_warning",
+    "type": 0,
+    "en": "The regional temperature is very low",
+    "vi": "Nhiệt độ trong vùng đang rất thấp"
+  },
+  {
+    "key": "event_hail_01",
+    "type": 0,
+    "en": "An icy volley heralded a fierce hailstorm. The settlers of <village_name> could only shiver uneasily, hastening under cover as the stinging barrage intensified. Once the storm passed, they crept forth, to see which crops and unsheltered resources had survived.",
+    "vi": "Những viên băng đầu tiên báo hiệu một trận mưa đá dữ dội. Dân làng <village_name> run rẩy vội tìm nơi trú khi mưa đá ngày càng dày. Khi cơn bão qua đi, họ rón rén bước ra xem cây trồng và tài nguyên ngoài trời còn lại những gì."
+  },
+  {
+    "key": "event_hail_warning",
+    "type": 0,
+    "en": "Hailstones are destroying plants",
+    "vi": "Mưa đá đang phá hủy cây trồng"
+  },
+  {
+    "key": "event_heat_wave_01",
+    "type": 0,
+    "en": "\nAs the sun beat down, sweat poured from the workers' slick backs. They tired quickly in the blistering heat, wilting like the crops, which needed to be tended and harvested quickly before they withered. The workers needed shade; some worked after sundown.",
+    "vi": "\nMặt trời thiêu đốt khiến mồ hôi chảy ròng trên lưng người lao động. Họ nhanh chóng kiệt sức trong cái nóng bỏng rát, héo rũ như cây trồng cần được chăm sóc và thu hoạch trước khi chết khô. Người lao động cần bóng râm; một số phải làm việc sau khi mặt trời lặn."
+  },
+  {
+    "key": "event_heat_wave_warning",
+    "type": 0,
+    "en": "The temperature is extremely high",
+    "vi": "Nhiệt độ đang cực kỳ cao"
+  },
+  {
+    "key": "event_merchant_01",
+    "type": 0,
+    "en": "The fact that he was hawking saints' relics that looked for all the world like chicken bones was hardly reassuring. Yet the ragged, smirking wanderer had much more to offer, for those mindful to trade.",
+    "vi": "Việc hắn rao bán thánh tích trông chẳng khác gì xương gà thật khó khiến người ta yên tâm. Nhưng với người muốn giao dịch, gã lữ khách rách rưới luôn cười nhếch mép ấy còn nhiều thứ khác để chào bán."
+  },
+  {
+    "key": "event_merchant_02",
+    "type": 0,
+    "en": "A scent of spices on the breeze preceded the arrival of a merchant caravan, lifting the spirits of <village_name> inhabitants. Did it bring furs, cloth, or tidings from the wider world? \"I have so much to offer you good people!\" the mercer cried out. \"Come, let's make a deal!\"",
+    "vi": "Hương gia vị theo gió báo trước một thương đoàn đang đến, khiến tinh thần người dân <village_name> phấn chấn. Họ mang lông thú, vải vóc hay tin tức từ thế giới bên ngoài? \"Ta có rất nhiều thứ dành cho những người tốt bụng!\" người buôn vải gọi lớn. \"Lại đây, cùng làm một vụ nào!\""
+  },
+  {
+    "key": "event_name_merchant_01",
     "type": 0,
     "en": "Guileful trader",
-    "vi": "Guileful trader"
+    "vi": "Thương nhân xảo quyệt"
   },
   {
-    "key": "dev_event_group_Merchantrare",
+    "key": "event_name_merchant_02",
     "type": 0,
     "en": "Merchant caravan",
-    "vi": "Merchant caravan"
+    "vi": "Thương đoàn"
   },
   {
-    "key": "dev_event_raid_new",
+    "key": "event_visitor_name",
     "type": 0,
-    "en": "Raid",
-    "vi": "Raid"
+    "en": "Lone Traveller",
+    "vi": "Lữ khách đơn độc"
   },
   {
-    "key": "dev_event_wolf_raid",
+    "key": "event_weapons_merchant",
     "type": 0,
-    "en": "Ferocious wolves",
-    "vi": "Ferocious wolves"
+    "en": "The arms dealer leads [his/her] sturdy pony into <village_name>, its cart, heavy-laden with wares. 'Protect yourself! Slay your foes!' [He/She] shouts. 'I have swords and armour aplenty - and affordable bows and shields for the ordinary footsoldier, too.' ",
+    "vi": "Người buôn vũ khí dắt chú ngựa khỏe của [his/her] vào <village_name>, kéo theo xe chất đầy hàng. 'Hãy tự bảo vệ mình! Tiêu diệt kẻ thù!' [He/She] hét lớn. 'Ta có rất nhiều kiếm và áo giáp - cả cung và khiên vừa túi tiền cho lính bộ binh bình thường nữa.' "
   },
   {
-    "key": "dev_set_npc_faction",
+    "key": "event_rare_goods_merchant",
     "type": 0,
-    "en": "Set Faction of NPC",
-    "vi": "Set Faction of NPC"
+    "en": "The dealer in luxuries sometimes carries swords from Toledo and Damascus, Milanese armour, unusual mechanical parts, esoteric ingredients, and books bound in buttery parchment. Their exclusive and carefully selected items come at a premium.",
+    "vi": "Người buôn hàng xa xỉ đôi khi mang theo kiếm từ Toledo và Damascus, giáp Milan, bộ phận máy móc kỳ lạ, nguyên liệu huyền bí và sách đóng bằng da thuộc mềm mịn. Những món hàng độc quyền được tuyển chọn kỹ này có giá rất cao."
   },
   {
-    "key": "dev_tooltip_set_npc_faction",
+    "key": "event_black_market_merchant",
     "type": 0,
-    "en": "Set Faction of NPC on pointer click",
-    "vi": "Set Faction of NPC on pointer click"
+    "en": "A shadow trade in bizarre, unsavoury or taboo items is available, if you know where to look. A slow nod or gesture in a dubious tavern or an invitation from a nightworker yields an introduction to a contraband merchant.",
+    "vi": "Nếu biết tìm đúng chỗ, bạn có thể tham gia đường dây mua bán ngầm những món đồ kỳ quái, đáng ghê tởm hoặc cấm kỵ. Một cái gật đầu kín đáo trong quán rượu mờ ám, hay lời mời từ người làm việc ban đêm, có thể dẫn bạn đến thương nhân hàng lậu."
   },
   {
-    "key": "dev_faction_name_tooltip",
+    "key": "event_prisoner_merchant",
     "type": 0,
-    "en": "On pointer click sets the faction of the NPC to this one",
-    "vi": "On pointer click sets the faction of the NPC to this one"
+    "en": "A trader with a head for business of the riskiest kind - human freedom. This trafficker deals in ransoms, and will take that responsibility off your hands. For the right price.",
+    "vi": "Một thương nhân làm nghề buôn bán rủi ro nhất - tự do của con người. Kẻ buôn người này chuyên đổi tiền chuộc và sẽ nhận trách nhiệm ấy khỏi tay bạn, nếu được trả đúng giá."
   },
   {
-    "key": "dev_event_prisoner_merchant",
+    "key": "event_visitor",
     "type": 0,
-    "en": "Prisoner Merchant",
-    "vi": "Prisoner Merchant"
+    "en": "A rangy hawker empties their pack, spreading a selection of oddments on a linen cloth on the ground. 'I buy and sell things that take my fancy on the road,' they say with a crooked smile. 'Take a look, if you like!'",
+    "vi": "Một người bán rong cao gầy dốc túi, bày đủ món đồ lặt vặt lên tấm vải lanh trên đất. 'Ta mua bán bất cứ thứ gì khiến mình chú ý trên đường đi,' người ấy nói với nụ cười lệch. 'Cứ xem thử nếu thích!'"
   },
   {
-    "key": "dev_event_group_Merchantprisoner",
+    "key": "event_name_role_visitor",
     "type": 0,
-    "en": "Prisoner Merchant",
-    "vi": "Prisoner Merchant"
+    "en": "<role> visit",
+    "vi": "Chuyến thăm của <role>"
   },
   {
-    "key": "dev_npc_faction_select",
+    "key": "event_role_visitor",
     "type": 0,
-    "en": "Select Faction to change to",
-    "vi": "Select Faction to change to"
+    "en": "<name> of <faction_name> has graced us with a visit. [He/She] is a <role> in [his/her] own settlement. Hold an <event_name> to make the most of their stay.",
+    "vi": "<name> từ <faction_name> đã ghé thăm chúng ta. [He/She] giữ vai trò <role> tại khu định cư của [his/her]. Hãy tổ chức <event_name> để tận dụng tốt nhất chuyến viếng thăm."
   },
   {
-    "key": "dev_switchFactionOwnership",
+    "key": "event_name_blight_01",
     "type": 0,
-    "en": "Switch Faction Ownership",
-    "vi": "Switch Faction Ownership"
+    "en": "Blighted crops",
+    "vi": "Dịch bệnh cây trồng"
   },
   {
-    "key": "dev_tooltip_switchFactionOwnership",
+    "key": "event_name_cold_01",
     "type": 0,
-    "en": "Toggles building and pile ownership between player and enemy.",
-    "vi": "Toggles building and pile ownership between player and enemy."
+    "en": "Cold snap",
+    "vi": "Đợt rét đậm"
   },
   {
-    "key": "dev_event_deer_raid",
+    "key": "event_name_hail_01",
     "type": 0,
-    "en": "Ferocious Deer",
-    "vi": "Ferocious Deer"
+    "en": "Hailstorm",
+    "vi": "Mưa đá"
   },
   {
-    "key": "dev_event_hare_raid",
+    "key": "event_name_heat_wave_01",
     "type": 0,
-    "en": "Ferocious Hares",
-    "vi": "Ferocious Hares"
+    "en": "Heat wave",
+    "vi": "Đợt nắng nóng"
   },
   {
-    "key": "dev_event_fox_raid",
+    "key": "event_name_new_worker_defoult_01",
     "type": 0,
-    "en": "Ferocious Foxes",
-    "vi": "Ferocious Foxes"
+    "en": "A hopeful helpmate",
+    "vi": "Người bạn đồng hành đầy hy vọng"
   },
   {
-    "key": "dev_event_polecat_raid",
+    "key": "event_name_new_worker_sick_01",
     "type": 0,
-    "en": "Ferocious Polecats",
-    "vi": "Ferocious Polecats"
+    "en": "This too shall pass",
+    "vi": "Rồi chuyện này cũng sẽ qua"
   },
   {
-    "key": "dev_event_boar_raid",
+    "key": "event_name_new_worker_starving_01",
     "type": 0,
-    "en": "Ferocious Boars",
-    "vi": "Ferocious Boars"
+    "en": "Hunger comes calling",
+    "vi": "Cơn đói gõ cửa"
   },
   {
-    "key": "dev_event_rat_raid",
+    "key": "event_name_new_worker_wounded_01",
     "type": 0,
-    "en": "Ferocious Rats",
-    "vi": "Ferocious Rats"
+    "en": "A safe haven",
+    "vi": "Chốn nương thân"
   },
   {
-    "key": "dev_event_dog_raid",
+    "key": "event_name_new_worker_wounded_02",
     "type": 0,
-    "en": "Ferocious Dogs",
-    "vi": "Ferocious Dogs"
+    "en": "Barking up the wrong tree",
+    "vi": "Chặt nhầm cây"
   },
   {
-    "key": "dev_event_bear_raid",
+    "key": "event_name_raid_general",
     "type": 0,
-    "en": "Ferocious Bears",
-    "vi": "Ferocious Bears"
+    "en": "Attack (<faction_name>)",
+    "vi": "Cuộc tấn công (<faction_name>)"
   },
   {
-    "key": "dev_event_raid_infamy",
+    "key": "event_name_raid_animal_01",
     "type": 0,
-    "en": "Infamy Raid",
-    "vi": "Infamy Raid"
+    "en": "Ferocious Wildlife",
+    "vi": "Thú hoang hung dữ"
   },
   {
-    "key": "dev_event_group_AnimalRaidWolf",
+    "key": "event_name_raid_avalon_01",
     "type": 0,
-    "en": "Animal Raid (Wolf)",
-    "vi": "Animal Raid (Wolf)"
+    "en": "Circle of Avalon Attack",
+    "vi": "Circle của Avalon tấn công"
   },
   {
-    "key": "dev_event_group_AnimalRaidRare",
+    "key": "event_name_raid_kingdom_of_york_01",
     "type": 0,
-    "en": "Animal Raid (Rare)",
-    "vi": "Animal Raid (Rare)"
+    "en": "Kingdom Of York Attack",
+    "vi": "Kingdom của York tấn công"
+  },
+  {
+    "key": "event_name_raid_progeny_01",
+    "type": 0,
+    "en": "Progeny Attack",
+    "vi": "Progeny tấn công"
+  },
+  {
+    "key": "event_name_raid_resources_01",
+    "type": 0,
+    "en": "Pirate incursion",
+    "vi": "Hải tặc xâm nhập"
+  },
+  {
+    "key": "event_name_raid_savages_01",
+    "type": 0,
+    "en": "Mindless assassins",
+    "vi": "Sát thủ mất trí"
+  },
+  {
+    "key": "event_name_raid_sons_of_england_01",
+    "type": 0,
+    "en": "Sons Of England Attack",
+    "vi": "Sons của England tấn công"
+  },
+  {
+    "key": "event_name_raid_third_coming_01",
+    "type": 0,
+    "en": "Third Coming Attack",
+    "vi": "Third Coming tấn công"
+  },
+  {
+    "key": "event_name_claim_runaway_general",
+    "type": 0,
+    "en": "Violent extortionists (<faction_name>)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (<faction_name>)"
+  },
+  {
+    "key": "event_name_runaway_01",
+    "type": 0,
+    "en": "Jailbird",
+    "vi": "Kẻ vượt ngục"
+  },
+  {
+    "key": "event_name_runaway_01_b",
+    "type": 0,
+    "en": "Violent extortionists (Jailbird)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (Kẻ vượt ngục)"
+  },
+  {
+    "key": "event_name_runaway_name",
+    "type": 0,
+    "en": "Lost property",
+    "vi": "Tài sản thất lạc"
+  },
+  {
+    "key": "event_name_runaway_02_b",
+    "type": 0,
+    "en": "Violent extortionists (Lost property)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (Tài sản thất lạc)"
+  },
+  {
+    "key": "event_name_runaway_03",
+    "type": 0,
+    "en": "Domestic violence",
+    "vi": "Bạo lực gia đình"
+  },
+  {
+    "key": "event_name_runaway_03_b",
+    "type": 0,
+    "en": "Violent extortionists (Domestic violence)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (Bạo lực gia đình)"
+  },
+  {
+    "key": "event_name_runaway_general",
+    "type": 0,
+    "en": "Salvation (<faction_name>)",
+    "vi": "Cứu rỗi (<faction_name>)"
+  },
+  {
+    "key": "event_name_runaway_event_name",
+    "type": 0,
+    "en": "Salvation",
+    "vi": "Cứu rỗi"
+  },
+  {
+    "key": "event_name_runaway_04_b",
+    "type": 0,
+    "en": "Violent extortionists (Salvation)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (Cứu rỗi)"
+  },
+  {
+    "key": "event_name_runaway_05",
+    "type": 0,
+    "en": "Barbarian snack",
+    "vi": "Bữa ăn của kẻ man rợ"
+  },
+  {
+    "key": "event_name_runaway_05_b",
+    "type": 0,
+    "en": "Violent extortionists (Barbarian snack)",
+    "vi": "Những kẻ cưỡng đoạt hung bạo (Bữa ăn của kẻ man rợ)"
+  },
+  {
+    "key": "event_name_supernatural_01",
+    "type": 0,
+    "en": "Ooser looser",
+    "vi": "Kẻ đeo mặt nạ Ooser"
+  },
+  {
+    "key": "event_name_supernatural_02",
+    "type": 0,
+    "en": "Wild hunt",
+    "vi": "Cuộc săn hoang dã"
+  },
+  {
+    "key": "event_name_supernatural_03",
+    "type": 0,
+    "en": "St Anthony's Fire",
+    "vi": "Lửa Thánh Anthony"
+  },
+  {
+    "key": "event_name_thunderstorm_01",
+    "type": 0,
+    "en": "Thor's hammer",
+    "vi": "Búa của Thor"
+  },
+  {
+    "key": "event_new_worker_defoult_01",
+    "type": 0,
+    "en": "<name> approached with [his/her] hand held out and a warm, open smile. <name> was keen to learn about <village_name> and only too willing to lend a hand. All [he/she] asked was a safe place to call home.",
+    "vi": "<name> tiến đến với bàn tay [his/her] đưa ra và nụ cười ấm áp, cởi mở. <name> rất muốn tìm hiểu về <village_name> và sẵn lòng giúp đỡ. Tất cả những gì [he/she] mong muốn là một nơi an toàn để gọi là nhà."
+  },
+  {
+    "key": "event_new_worker_sick_01",
+    "type": 0,
+    "en": "An ailing traveller shuffled haltingly into <village_name>. Given time to recuperate, [he/she] claimed they could work, but in that moment they looked pretty rough. Would <name> be permitted to join and convalesce?",
+    "vi": "Một lữ khách ốm yếu bước đi lảo đảo tiến vào <village_name>. [He/She] quả quyết rằng chỉ cần có thời gian tịnh dưỡng là có thể làm việc chăm chỉ, nhưng lúc này trông người ấy vô cùng kiệt quệ. Liệu bạn có mở lòng đón nhận <name> vào nương náu và dưỡng bệnh?"
+  },
+  {
+    "key": "event_new_worker_starving_01",
+    "type": 0,
+    "en": "When <name> arrived, [his/her] bones were prominent and [his/her] hair fell out in clumps. <village_name> people stared at this wretched, starving soul. Desperation was writ on <name>'s face and [he/she] pleaded. Would you take [him/her] in?",
+    "vi": "Khi <name> lết bước tới nơi, xương sườn của [his/her] lộ rõ dưới lớp da bọc và tóc rụng thành từng mảng. Dân làng <village_name> xót xa nhìn sinh linh khốn cùng đang ngấp nghé bên bờ vực chết đói. Sự tuyệt vọng hằn sâu trên gương mặt <name> khi [he/she] tha thiết van xin. Bạn có cưu mang [him/her] không?"
+  },
+  {
+    "key": "event_new_worker_wounded_01",
+    "type": 0,
+    "en": "You sighted a pale, halting figure near the perimeter of <village_name>. As [he/she] approached, it became clear that <name> had been bleeding from a deep gash, and needed to rest. 'It was for honour,' <name> gasped. Would you grant them respite?",
+    "vi": "Bạn phát hiện một bóng người nhợt nhạt, bước khập khiễng gần rìa khu định cư <village_name>. Khi [he/she] tới gần, có thể thấy rõ <name> đang chảy máu đầm đìa từ một vết chém sâu và cần được cứu chữa khẩn cấp. 'Tất cả là vì danh dự,' <name> thều thào thở dốc. Bạn có dang tay cứu giúp người ấy không?"
+  },
+  {
+    "key": "event_new_worker_wounded_02",
+    "type": 0,
+    "en": "[He/She] was found, faint and bleeding, by a citizen of <village_name>. From the axe and shattered lumber,  <name> had clearly experienced a woodcutting mishap. Would you let them stay and heal?",
+    "vi": "[He/She] được một dân làng <village_name> tìm thấy trong tình trạng bất tỉnh và máu me bê bết. Từ chiếc rìu gãy và đống súc gỗ vỡ vụn quanh đó, rõ ràng <name> vừa gặp phải tai nạn nghiêm trọng khi đốn gỗ. Bạn có cho phép người ấy ở lại để băng bó vết thương không?"
+  },
+  {
+    "key": "event_raid_animal_01",
+    "type": 0,
+    "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
+    "vi": "Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Không rõ chúng mò đến do cơn đói cồn cào hay bản tính tàn phá hoang dã. Vung cao công cụ và che chắn đàn gia súc, dân làng phải đồng lòng đánh đuổi chúng đi.\n"
+  },
+  {
+    "key": "game_event_type_animalRaid",
+    "type": 0,
+    "en": "Destructive Wildlife",
+    "vi": "Thú Hoang Tàn Phá"
+  },
+  {
+    "key": "event_raid_animal_deer",
+    "type": 0,
+    "en": "A group of faery cattle shifted among the trees bordering <village_name>. Their beauty did not fool the settlers who chased them off, knowing only too well how destructive deer can be.",
+    "vi": "Một đàn hươu rừng thấp thoáng xuất hiện giữa những rặng cây ranh giới của <village_name>. Vẻ đẹp thanh nhã của chúng không thể đánh lừa được dân làng; mọi người lập tức xua đuổi chúng trước khi mùa màng bị gặm sạch."
+  },
+  {
+    "key": "event_raid_animal_hare",
+    "type": 0,
+    "en": "It is common knowledge that the hare is the witches' familiar, or perhaps even a shapeshifting witch! <village_name> settlers ran them away with great haste.",
+    "vi": "Dân gian truyền tai nhau rằng thỏ rừng chính là linh thú hầu cận của phù thủy, hoặc thậm chí chính là mụ phù thủy biến hình! Dân làng <village_name> vội vã xua đuổi chúng đi trong sự cảnh giác cao độ."
+  },
+  {
+    "key": "event_raid_animal_wolf",
+    "type": 0,
+    "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
+    "vi": "Một đàn sói dữ đói khát hung hãn tràn vào <village_name>, nanh vuốt giương cao và đôi mắt đỏ ngầu man dại. Dân làng phải cầm chắc vũ khí và che chắn chuồng trại để đánh đuổi lũ ác thú."
+  },
+  {
+    "key": "event_raid_animal_fox",
+    "type": 0,
+    "en": "A skulk of foxes approaching <village_name> was cause for alarm. Settlers chased them away before they could prey on livestock, or rummage in the midden heap.",
+    "vi": "Một bầy cáo ranh mãnh mò tới gần <village_name> là điềm báo đáng lo ngại. Dân làng nhanh chóng xua đuổi chúng trước khi chúng lẻn vào chuồng bắt trộm gia cầm hoặc bới tung đống tích trữ."
+  },
+  {
+    "key": "event_raid_animal_polecat",
+    "type": 0,
+    "en": "The stinking foul marten or polecat and her kits were decidedly unwelcome. <village_name> settlers guarded their fowl, eggs and honey robustly from these vermin.",
+    "vi": "Lũ chồn hôi hám cùng bầy con nheo nhóc của chúng rõ ràng không được chào đón tại đây. Dân làng <village_name> cương quyết bảo vệ đàn gia cầm, ổ trứng và các tổ ong mật trước sự phá hoại của loài gặm nhấm này."
+  },
+  {
+    "key": "event_raid_animal_boar",
+    "type": 0,
+    "en": "With razor-sharp tusks and a whiff of the underworld, wild boar gathered on the edge of <village_name>. The hue and cry went up for all who could bear arms to drive them away.",
+    "vi": "Với cặp nanh sắc nhọn hoắt và khí thế hung hãn như từ cõi âm, đàn lợn rừng tụ tập đông đúc ở rìa <village_name>. Tiếng tù và báo động vang lên giục giã tất cả những ai có thể cầm vũ khí lập tức xông ra xua đuổi chúng."
+  },
+  {
+    "key": "event_raid_animal_rat",
+    "type": 0,
+    "en": "Known to gather around plague, pestilence or a full grain store, the <village_name> rat problem could not be ignored. Where traps and cats failed, settlers resorted to killing them one by one.",
+    "vi": "Vốn là loài chuyên kéo đến nơi có mầm dịch tễ hoặc các kho thóc đầy ắp, đại dịch chuột tại <village_name> không thể nào xem nhẹ. Khi bẫy rập và mèo săn đều bất lực, dân làng buộc phải đích thân lùng sục tiêu diệt từng con một."
+  },
+  {
+    "key": "event_raid_animal_dog",
+    "type": 0,
+    "en": "The snarling, feral mutts circling <village_name> were certainly not man's best friend. The settlers worked hard to fend them off.",
+    "vi": "Những con chó hoang hung tợn gầm gừ vây quanh <village_name> chắc chắn chẳng phải là người bạn trung thành của con người. Dân làng phải dốc toàn lực chiến đấu để xua đuổi bầy thú dữ."
+  },
+  {
+    "key": "event_raid_animal_bear",
+    "type": 0,
+    "en": "Settlers of <village_name> were by turns amazed, then terrified, to spot an angry bear. Had it escaped from captivity? No matter, it had to be neutralised.",
+    "vi": "Dân làng <village_name> đi từ kinh ngạc tột độ đến khiếp đảm hãi hùng khi phát hiện một con gấu khổng lồ đang nổi điên. Phải chăng nó vừa xổng khỏi chuồng giam? Dù lý do là gì, con quái thú này cũng phải bị hạ gục ngay lập tức."
+  },
+  {
+    "key": "event_rat_infestation",
+    "type": 0,
+    "en": "Rats have burrowed into your cellars! Quickly get rid of these vermin, before they chew through your stockpiled food.",
+    "vi": "Lũ chuột đã đào hầm chui thẳng vào các căn hầm chứa của bạn! Hãy mau chóng diệt sạch lũ sâu bọ phá hoại này trước khi chúng gặm nhấm tan hoang toàn bộ kho lương thực dự trữ."
+  },
+  {
+    "key": "event_name_room_flood_01",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Hầm Chứa Ngập Nước"
+  },
+  {
+    "key": "event_room_flood_01",
+    "type": 0,
+    "en": "Groundwater has found its way through the earth walls, into your cellars. Prevent this recurring by building cellar walls with different materials.",
+    "vi": "Mạch nước ngầm đã thấm qua các vách tường đất và làm ngập úng các căn hầm của bạn. Hãy ngăn chặn tình trạng này tái diễn bằng cách xây dựng lại tường hầm bằng các loại vật liệu kiên cố hơn."
+  },
+  {
+    "key": "event_raid_general_allready_gone",
+    "type": 0,
+    "en": "The attackers left unsatisfied, their quest for <name> frustrated.",
+    "vi": "Những kẻ tấn công đành hậm hực rút lui trong thất vọng vì không thể tìm thấy tung tích của <name>."
+  },
+  {
+    "key": "event_raid_general_decline_hostile",
+    "type": 0,
+    "en": "You stood your ground, refusing to give in to their demands.",
+    "vi": "Bạn kiên định giữ vững lập trường, dứt khoát không chịu nhượng bộ trước những yêu sách ngang ngược của quân giặc."
   }
 ]

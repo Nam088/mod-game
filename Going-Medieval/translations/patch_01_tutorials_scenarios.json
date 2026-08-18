@@ -3,750 +3,750 @@
     "key": "scenario_edit_clothes_title",
     "type": 0,
     "en": "Default Clothes",
-    "vi": "Default Clothes"
+    "vi": "Trang phục mặc định"
   },
   {
     "key": "scenario_edit_clothes_info",
     "type": 0,
     "en": "Set of randomised clothing equipped on settlers at game start. ",
-    "vi": "Set of randomised clothing equipped on settlers at game start. "
+    "vi": "Bộ trang phục ngẫu nhiên được trang bị cho dân làng khi bắt đầu trò chơi."
   },
   {
     "key": "scenario_edit_add_contition",
     "type": 0,
     "en": "Add conditions",
-    "vi": "Add conditions"
+    "vi": "Thêm điều kiện"
   },
   {
     "key": "scenario_condition_Resources",
     "type": 0,
     "en": "Resources",
-    "vi": "Resources"
+    "vi": "Tài nguyên"
   },
   {
     "key": "scenario_condition_Equipment",
     "type": 0,
     "en": "Equipment",
-    "vi": "Equipment"
+    "vi": "Trang bị"
   },
   {
     "key": "scenario_condition_VillagerConstraints",
     "type": 0,
     "en": "Settler Constraints",
-    "vi": "Settler Constraints"
+    "vi": "Giới hạn dân làng"
   },
   {
     "key": "scenario_condition_VillagerStats",
     "type": 0,
     "en": "Settler Stats",
-    "vi": "Settler Stats"
+    "vi": "Chỉ số dân làng"
   },
   {
     "key": "scenario_condition_VillagerPerks",
     "type": 0,
     "en": "Settler Perks",
-    "vi": "Settler Perks"
+    "vi": "Đặc điểm dân làng"
   },
   {
     "key": "scenario_condition_VillagerClothes",
     "type": 0,
     "en": "Settler Clothes",
-    "vi": "Settler Clothes"
+    "vi": "Trang phục dân làng"
   },
   {
     "key": "scenario_condition_Technology",
     "type": 0,
     "en": "Research Items",
-    "vi": "Research Items"
+    "vi": "Hạng mục nghiên cứu"
   },
   {
     "key": "scenario_condition_StructurePiles",
     "type": 0,
     "en": "Structure kits",
-    "vi": "Structure kits"
+    "vi": "Vật liệu công trình"
   },
   {
     "key": "scenario_condition_Animals",
     "type": 0,
     "en": "Starting Animals",
-    "vi": "Starting Animals"
+    "vi": "Vật nuôi ban đầu"
   },
   {
     "key": "obsolete_scenario_message",
     "type": 0,
     "en": "Your custom scenario stored in <style=AltColor>\"<preset_name>.json\"</style> is obsolete and can't load.",
-    "vi": "Your custom scenario stored in <style=AltColor>\"<preset_name>.json\"</style> is obsolete and can't load."
+    "vi": "Kịch bản tùy chỉnh lưu trong <style=AltColor>\"<preset_name>.json\"</style> đã lỗi thời và không thể tải được."
   },
   {
     "key": "scenario_details",
     "type": 0,
     "en": "Scenario Details",
-    "vi": "Scenario Details"
+    "vi": "Chi tiết kịch bản"
   },
   {
     "key": "scenario_condition_MapTypes",
     "type": 0,
     "en": "Allowed Map Types",
-    "vi": "Allowed Map Types"
+    "vi": "Loại bản đồ được phép"
   },
   {
     "key": "tutorial_start_warning_description",
     "type": 0,
     "en": "You are about to start the Tutorial. Do you want to proceed?",
-    "vi": "You are about to start the Tutorial. Do you want to proceed?"
+    "vi": "Bạn sắp bắt đầu màn chơi Hướng Dẫn. Bạn có muốn tiếp tục không?"
   },
   {
     "key": "tutorial_camera_control",
     "type": 0,
     "en": "Tutorial: Camera Control",
-    "vi": "Tutorial: Camera Control"
+    "vi": "Hướng dẫn: Điều khiển góc nhìn"
   },
   {
     "key": "tutorial_camera_control_info",
     "type": 0,
     "en": "<style=AlmParagraph>Camera controls\\n</style>- Use the [<style=Shortcut>WASD</style>] keys to move your camera around.\\n- <style=Shortcut>Mouse wheel</style> is used to zoom in and out.\\n- Tilt and rotate holding down the <sprite=\"ctrl_middle_click\" index=t> and moving the mouse around.\\n- [<style=Shortcut>Num5</style>] will reset the camera to its initial position.<style=AlmParagraph>\\nAlternate controls\\n</style>- Use <style=Shortcut>Arrow Keys </style>: keys to move your camera around.\\n- Hold down <sprite=\"ctrl_right_click\" index=t> to pan camera. \\n- Use [<style=Shortcut>+</style>]&[<style=Shortcut>-</style>] to zoom in and out. \\n- Use [<style=Shortcut>Num7</style>] & [<style=Shortcut>Num9</style>] to rotate and [<style=Shortcut>Num8</style>] and [<style=Shortcut>Num2</style>] to tilt. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc> Customize the camera controls in the options menu.</style>\\n",
-    "vi": "<style=AlmParagraph>Camera controls\\n</style>- Use the [<style=Shortcut>WASD</style>] keys to move your camera around.\\n- <style=Shortcut>Mouse wheel</style> is used to zoom in and out.\\n- Tilt and rotate holding down the <sprite=\"ctrl_middle_click\" index=t> and moving the mouse around.\\n- [<style=Shortcut>Num5</style>] will reset the camera to its initial position.<style=AlmParagraph>\\nAlternate controls\\n</style>- Use <style=Shortcut>Arrow Keys </style>: keys to move your camera around.\\n- Hold down <sprite=\"ctrl_right_click\" index=t> to pan camera. \\n- Use [<style=Shortcut>+</style>]&[<style=Shortcut>-</style>] to zoom in and out. \\n- Use [<style=Shortcut>Num7</style>] & [<style=Shortcut>Num9</style>] to rotate and [<style=Shortcut>Num8</style>] and [<style=Shortcut>Num2</style>] to tilt. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc> Customize the camera controls in the options menu.</style>\\n"
+    "vi": "<style=AlmParagraph>Điều khiển góc nhìn\\n</style>- Dùng các phím [<style=Shortcut>WASD</style>] để di chuyển góc nhìn quanh bản đồ.\\n- <style=Shortcut>Con lăn chuột</style> dùng để phóng to và thu nhỏ tầm nhìn.\\n- Nghiêng và xoay bằng cách giữ phím <sprite=\"ctrl_middle_click\" index=t> và di chuyển chuột.\\n- Phím [<style=Shortcut>Num5</style>] sẽ đặt lại góc nhìn về vị trí mặc định ban đầu.<style=AlmParagraph>\\nCách điều khiển phụ\\n</style>- Dùng <style=Shortcut>Các phím mũi tên</style> để di chuyển góc nhìn.\\n- Giữ <sprite=\"ctrl_right_click\" index=t> để lia camera.\\n- Dùng phím [<style=Shortcut>+</style>] & [<style=Shortcut>-</style>] để phóng to và thu nhỏ.\\n- Dùng [<style=Shortcut>Num7</style>] & [<style=Shortcut>Num9</style>] để xoay và [<style=Shortcut>Num8</style>], [<style=Shortcut>Num2</style>] để nghiêng góc nhìn.<style=AlmParagraph>\\nMẹo\\n</style>- <style=Desc>Bạn có thể tùy chỉnh các phím điều khiển góc nhìn trong menu Cài Đặt.</style>\\n"
   },
   {
     "key": "tutorial_construction",
     "type": 0,
     "en": "Tutorial: Construction",
-    "vi": "Tutorial: Construction"
+    "vi": "Hướng dẫn: Xây dựng"
   },
   {
     "key": "tutorial_construction_info",
     "type": 0,
     "en": "<style=AlmParagraph>Construction\\n</style>- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut>F1</style>] in a rectangle, then adding a wooden door and thatched roof over it. \\n- Place sleeping spots from the furniture panel [<style=Shortcut>F3</style>] inside so your settlers have somewhere to sleep.",
-    "vi": "<style=AlmParagraph>Construction\\n</style>- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut>F1</style>] in a rectangle, then adding a wooden door and thatched roof over it. \\n- Place sleeping spots from the furniture panel [<style=Shortcut>F3</style>] inside so your settlers have somewhere to sleep."
+    "vi": "<style=AlmParagraph>Xây dựng công trình\\n</style>- Dân làng của bạn cần có nơi trú ẩn an toàn.\\n- Bắt đầu bằng cách đặt các bức tường gỗ từ bảng xây dựng cơ bản [<style=Shortcut>F1</style>] thành hình chữ nhật, sau đó thêm cửa gỗ và lợp mái rơm lên trên.\\n- Đặt các chỗ ngủ từ bảng nội thất [<style=Shortcut>F3</style>] vào bên trong để dân làng có nơi ngả lưng."
   },
   {
     "key": "tutorial_drafting_combat",
     "type": 0,
     "en": "Tutorial: Drafting & Combat",
-    "vi": "Tutorial: Drafting & Combat"
+    "vi": "Hướng dẫn: Động viên & Chiến đấu"
   },
   {
     "key": "tutorial_drafting_combat_info",
     "type": 0,
     "en": "<style=AlmParagraph>Drafting & Combat\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel. \\n- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- During combat an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>",
-    "vi": "<style=AlmParagraph>Drafting & Combat\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel. \\n- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- During combat an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>"
+    "vi": "<style=AlmParagraph>Huy động nhập ngũ & Tác chiến\\n</style>- Để trực tiếp điều khiển dân làng, hãy huy động họ bằng cách chọn dân làng và nhấp vào lệnh Huy Động (Draft) trong bảng điều khiển.\\n- Dân làng được huy động sẽ di chuyển đến nơi bạn chỉ định và tấn công mục tiêu bạn yêu cầu.\\n- Trong giao chiến, cung thủ sẽ tự động bắn bất kỳ kẻ thù nào trong tầm bắn, trong khi lính cận chiến sẽ chờ đến khi kẻ địch áp sát hoặc tấn công họ.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bố trí cung thủ trên địa hình cao để nhận điểm cộng tăng độ chính xác, tầm bắn xa và tỷ lệ đánh chí mạng.</style>"
   },
   {
     "key": "tutorial_equipment",
     "type": 0,
     "en": "Tutorial: Equipment",
-    "vi": "Tutorial: Equipment"
+    "vi": "Hướng dẫn: Trang bị vũ khí & Giáp trụ"
   },
   {
     "key": "tutorial_equipment_info",
     "type": 0,
     "en": "<style=AlmParagraph>Equipment\\n</style>- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler and <sprite=\"ctrl_right_click\" index=t> on an item and order them to equip it. \\n<style=AlmParagraph>\\nTip\\n</style><style=Desc>- Examine which of your settlers is proficient with melee or ranged weapons and equip accordingly.</style>",
-    "vi": "<style=AlmParagraph>Equipment\\n</style>- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler and <sprite=\"ctrl_right_click\" index=t> on an item and order them to equip it. \\n<style=AlmParagraph>\\nTip\\n</style><style=Desc>- Examine which of your settlers is proficient with melee or ranged weapons and equip accordingly.</style>"
+    "vi": "<style=AlmParagraph>Trang bị vũ khí & Giáp trụ\\n</style>- Để chuẩn bị sẵn sàng cho dân làng, hãy trang bị cho họ áo giáp, quần áo ấm và vũ khí phù hợp.\\n- Chọn một dân làng và nhấn <sprite=\"ctrl_right_click\" index=t> lên vật phẩm rồi ra lệnh cho họ trang bị.\\n<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Kiểm tra xem dân làng nào thành thạo vũ khí cận chiến hay tầm xa để trang bị tương ứng.</style>"
   },
   {
     "key": "tutorial_game_speed",
     "type": 0,
     "en": "Tutorial: Game Speed",
-    "vi": "Tutorial: Game Speed"
+    "vi": "Hướng dẫn: Tốc độ trò chơi"
   },
   {
     "key": "tutorial_game_speed_info",
     "type": 0,
     "en": "<style=AlmParagraph>Game speed controls\\n</style>- You can speed up time.\\n- Click on the speed keys. \\n- Or use [<style=Shortcut>1</style>],[<style=Shortcut>2</style>],[<style=Shortcut>3</style>].\\n- Pressing [<style=Shortcut>Space</style>] will pause the game. \\n- You can give orders, place buildings, and draft while the game is paused.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>This is especially useful if things get hectic.</style>",
-    "vi": "<style=AlmParagraph>Game speed controls\\n</style>- You can speed up time.\\n- Click on the speed keys. \\n- Or use [<style=Shortcut>1</style>],[<style=Shortcut>2</style>],[<style=Shortcut>3</style>].\\n- Pressing [<style=Shortcut>Space</style>] will pause the game. \\n- You can give orders, place buildings, and draft while the game is paused.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>This is especially useful if things get hectic.</style>"
+    "vi": "<style=AlmParagraph>Điều khiển tốc độ trò chơi\\n</style>- Bạn có thể thay đổi tốc độ trôi qua của thời gian.\\n- Nhấp vào các nút chỉnh tốc độ trên giao diện.\\n- Hoặc dùng các phím tắt [<style=Shortcut>1</style>], [<style=Shortcut>2</style>], [<style=Shortcut>3</style>].\\n- Nhấn phím [<style=Shortcut>Space</style>] (phím Cách) để tạm dừng trò chơi.\\n- Khi trò chơi tạm dừng, bạn vẫn có thể tự do ra lệnh, đặt bản vẽ công trình và huy động dân làng.<style=AlmParagraph>\\nMẹo\\n</style>- <style=Desc>Điều này cực kỳ hữu ích khi bạn cần suy tính chiến thuật trong các tình huống hiểm nghèo.</style>"
   },
   {
     "key": "tutorial_jobs",
     "type": 0,
     "en": "Tutorial: Jobs",
-    "vi": "Tutorial: Jobs"
+    "vi": "Hướng dẫn: Phân công công việc"
   },
   {
     "key": "tutorial_jobs_info",
     "type": 0,
     "en": "<style=AlmParagraph>Job Priorities\\n</style>- The <b>JOB</b> panel is where you can prioritize each settler's tasks.\\n- By default, settlers will prioritize their jobs from left to right.\\n- Using <sprite=\"ctrl_left_click\" index=t> and <sprite=\"ctrl_right_click\" index=t>, you can change job priorities so that a given settler will choose one job before another.\\n- Jobs set to the same priority level will be prioritized left to right.\\n- If the job box is empty, that means that a settler will never do that job.\\n- Settlers will always do the highest priority job that they can find.\\n- If a specific job is not on anyone's priority list, that job will never get done.\\n- The frame colour of a job box indicates the settler's skill level.\n<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>If a settler has a very low skill rating for a specific job, it is better to turn that job off completely for that settler - otherwise, there is a chance they'll do the job and fail. This is important when it comes to things like harvesting. Example: a settler with a low botanical skill level could end up ruining the harvest, yielding no resources. So it's best to let them focus on what they do best!</style>",
-    "vi": "<style=AlmParagraph>Job Priorities\\n</style>- The <b>JOB</b> panel is where you can prioritize each settler's tasks.\\n- By default, settlers will prioritize their jobs from left to right.\\n- Using <sprite=\"ctrl_left_click\" index=t> and <sprite=\"ctrl_right_click\" index=t>, you can change job priorities so that a given settler will choose one job before another.\\n- Jobs set to the same priority level will be prioritized left to right.\\n- If the job box is empty, that means that a settler will never do that job.\\n- Settlers will always do the highest priority job that they can find.\\n- If a specific job is not on anyone's priority list, that job will never get done.\\n- The frame colour of a job box indicates the settler's skill level.\n<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>If a settler has a very low skill rating for a specific job, it is better to turn that job off completely for that settler - otherwise, there is a chance they'll do the job and fail. This is important when it comes to things like harvesting. Example: a settler with a low botanical skill level could end up ruining the harvest, yielding no resources. So it's best to let them focus on what they do best!</style>"
+    "vi": "<style=AlmParagraph>Mức độ ưu tiên công việc\\n</style>- Bảng <b>CÔNG VIỆC</b> là nơi bạn thiết lập mức ưu tiên nhiệm vụ cho từng dân làng.\\n- Theo mặc định, dân làng sẽ ưu tiên thực hiện công việc từ trái sang phải.\\n- Sử dụng <sprite=\"ctrl_left_click\" index=t> và <sprite=\"ctrl_right_click\" index=t> để thay đổi mức ưu tiên, giúp dân làng ưu tiên làm việc này trước việc khác.\\n- Các công việc có cùng mức ưu tiên sẽ được xử lý theo thứ tự từ trái sang phải.\\n- Nếu ô công việc để trống, dân làng đó sẽ không bao giờ làm công việc ấy.\\n- Dân làng sẽ luôn chọn công việc có mức ưu tiên cao nhất mà họ có thể thực hiện.\\n- Nếu một công việc không nằm trong danh sách ưu tiên của bất kỳ ai, công việc đó sẽ bị bỏ quên hoàn toàn.\\n- Màu sắc khung viền của ô công việc biểu thị cấp độ kỹ năng tương ứng của dân làng.\\n<style=AlmParagraph>\\nMẹo\\n</style>- <style=Desc>Nếu một dân làng có kỹ năng quá thấp ở một nghề nhất định, tốt nhất bạn nên tắt hẳn công việc đó đối với họ — nếu không, họ rất dễ làm hỏng việc. Điều này đặc biệt quan trọng trong các công tác như thu hoạch mùa màng. Ví dụ: dân làng có kỹ năng Nông nghiệp yếu kém có thể làm hỏng vụ mùa và gây thất thu hoàn toàn. Vì vậy, hãy để mỗi người tập trung vào sở trường của mình!</style>"
   },
   {
     "key": "tutorial_layer_control",
     "type": 0,
     "en": "Tutorial: World Layers",
-    "vi": "Tutorial: World Layers"
+    "vi": "Hướng dẫn: Các tầng độ cao thế giới"
   },
   {
     "key": "tutorial_layer_control_info",
     "type": 0,
     "en": "<style=AlmParagraph>World Layers\\n</style>- You can shuffle between layers and building floors.\\n- Use the up or down layer buttons in the top left corner.\\n- Or use [<style=Shortcut>,</style>] and [<style=Shortcut>.</style>].\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly go through layers.\\nUse [<style=Shortcut>Ctrl</style>]  + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that given layer. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- This is useful for customizing multistorey buildings.</style>",
-    "vi": "<style=AlmParagraph>World Layers\\n</style>- You can shuffle between layers and building floors.\\n- Use the up or down layer buttons in the top left corner.\\n- Or use [<style=Shortcut>,</style>] and [<style=Shortcut>.</style>].\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly go through layers.\\nUse [<style=Shortcut>Ctrl</style>]  + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that given layer. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- This is useful for customizing multistorey buildings.</style>"
+    "vi": "<style=AlmParagraph>Các tầng thế giới\\n</style>- Bạn có thể chuyển đổi góc nhìn qua lại giữa các tầng cao thấp của địa hình và công trình.\\n- Dùng các nút chuyển tầng lên/xuống ở góc trên bên trái màn hình.\\n- Hoặc sử dụng các phím tắt [<style=Shortcut>,</style>] và [<style=Shortcut>.</style>].\\n- Dùng tổ hợp [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Con lăn chuột</style>] để chuyển tầng nhanh chóng.\\n- Dùng tổ hợp [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> vào bất kỳ vật thể hoặc mặt đất nào để chuyển ngay tới tầng độ cao tương ứng.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Thao tác này cực kỳ tiện lợi khi xây dựng và bố trí các công trình nhiều tầng.</style>"
   },
   {
     "key": "tutorial_move",
     "type": 0,
     "en": "Tutorial: Control Settlers",
-    "vi": "Tutorial: Control Settlers"
+    "vi": "Hướng dẫn: Điều khiển dân làng"
   },
   {
     "key": "tutorial_move_info",
     "type": 0,
     "en": "<style=AlmParagraph>Positioning & Movement\\n</style>- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- During combat, an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. \\n- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>",
-    "vi": "<style=AlmParagraph>Positioning & Movement\\n</style>- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- During combat, an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. \\n- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>"
+    "vi": "<style=AlmParagraph>Vị trí & Di chuyển\\n</style>- Dân làng đã huy động sẽ di chuyển và tấn công chính xác theo vị trí và mục tiêu bạn chỉ định.\\n- Nhấp <sprite=\"ctrl_right_click\" index=t> vào bất kỳ đâu trên bản đồ để ra lệnh cho dân làng di chuyển tới vị trí đó.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Trong giao tranh, cung thủ sẽ tự động bắn bất kỳ kẻ thù nào trong tầm ngắm, trong khi các chiến binh cận chiến sẽ chờ đợi kẻ địch áp sát hoặc tấn công họ.\\n- Hãy bố trí cung thủ trên các vị trí cao điểm để nhận được bùa lợi tăng độ chính xác, mở rộng tầm bắn và gia tăng tỉ lệ đòn đánh chí mạng.</style>"
   },
   {
     "key": "tutorial_orders",
     "type": 0,
     "en": "Tutorial: Orders",
-    "vi": "Tutorial: Orders"
+    "vi": "Hướng dẫn: Ban bố mệnh lệnh"
   },
   {
     "key": "tutorial_orders_info",
     "type": 0,
     "en": "<style=AlmParagraph>Orders\\n</style>- Issue orders to your settlers with the order tools in the lower right corner.\\n- Try selecting the chop tool and <sprite=\"ctrl_left_click\" index=t> + drag it over some trees you want to cut down.",
-    "vi": "<style=AlmParagraph>Orders\\n</style>- Issue orders to your settlers with the order tools in the lower right corner.\\n- Try selecting the chop tool and <sprite=\"ctrl_left_click\" index=t> + drag it over some trees you want to cut down."
+    "vi": "<style=AlmParagraph>Mệnh lệnh\\n</style>- Ban bố mệnh lệnh trực tiếp cho dân làng bằng thanh công cụ mệnh lệnh ở góc dưới bên phải màn hình.\\n- Hãy thử chọn công cụ Chặt và giữ <sprite=\"ctrl_left_click\" index=t> rồi kéo qua các cây bạn muốn đốn hạ."
   },
   {
     "key": "tutorial_production",
     "type": 0,
     "en": "Tutorial: Production",
-    "vi": "Tutorial: Production"
+    "vi": "Hướng dẫn: Hoạt động sản xuất"
   },
   {
     "key": "tutorial_production_info",
     "type": 0,
     "en": "<style=AlmParagraph>Production\\n</style>- To start producing something, select a workstation, and add a product from the product list. \\n- Set the number of products you want your settlers to make. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Set the food production to “Until you have” mode so your settlers will continually produce if they have material, up to the required number.</style>",
-    "vi": "<style=AlmParagraph>Production\\n</style>- To start producing something, select a workstation, and add a product from the product list. \\n- Set the number of products you want your settlers to make. <style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Set the food production to “Until you have” mode so your settlers will continually produce if they have material, up to the required number.</style>"
+    "vi": "<style=AlmParagraph>Sản xuất\\n</style>- Để bắt đầu sản xuất một vật phẩm, hãy chọn bàn chế tác tương ứng và thêm thành phẩm từ danh sách sản xuất.\\n- Thiết lập số lượng sản phẩm bạn muốn dân làng chế tác.<style=AlmParagraph>\\nMẹo\\n</style>- <style=Desc>Hãy đặt việc chế biến thức ăn ở chế độ “Đến khi đạt đủ” để dân làng tự động nấu nướng liên tục khi có sẵn nguyên liệu, cho tới khi kho đạt đủ số lượng dự trữ yêu cầu.</style>"
   },
   {
     "key": "tutorial_research",
     "type": 0,
     "en": "Tutorial: Research",
-    "vi": "Tutorial: Research"
+    "vi": "Hướng dẫn: Nghiên cứu công nghệ"
   },
   {
     "key": "tutorial_research_info",
     "type": 0,
     "en": "<style=AlmParagraph>Research\\n</style>- Unlock new building options and production types in the research panel. \\n- Various forms of knowledge in the form of books are available to unlock research items.\\n- Unlocked research items will not consume the books. \\n- Take care of your books, having them destroyed or stolen will disable unlocking new research items until the previously allocated amount is reached. \\n- Books (Chronicle, Textbook, Thesis) are produced at research tables (<LinkAlmanac=\"Basicresearchtable\">Basic Research Table</link>, <LinkAlmanac=\"Researchtable\">Research Table</link>, <LinkAlmanac=\"Advancedresearchtable\">Advanced Research Table</link>)",
-    "vi": "<style=AlmParagraph>Research\\n</style>- Unlock new building options and production types in the research panel. \\n- Various forms of knowledge in the form of books are available to unlock research items.\\n- Unlocked research items will not consume the books. \\n- Take care of your books, having them destroyed or stolen will disable unlocking new research items until the previously allocated amount is reached. \\n- Books (Chronicle, Textbook, Thesis) are produced at research tables (<LinkAlmanac=\"Basicresearchtable\">Basic Research Table</link>, <LinkAlmanac=\"Researchtable\">Research Table</link>, <LinkAlmanac=\"Advancedresearchtable\">Advanced Research Table</link>)"
+    "vi": "<style=AlmParagraph>Nghiên cứu\\n</style>- Mở khóa các công trình và công thức sản xuất mới trong bảng nghiên cứu.\\n- Tri thức được lưu trữ dưới dạng các cuốn sách nghiên cứu để mở khóa các công nghệ mới.\\n- Việc mở khóa công nghệ sẽ không tiêu hao hay làm mất các cuốn sách.\\n- Hãy gìn giữ sách nghiên cứu cẩn thận: nếu sách bị cháy hỏng hoặc kẻ trộm cuỗm mất, các công nghệ mới sẽ bị khóa lại cho đến khi bạn tích lũy lại đủ số sách ban đầu.\\n- Các loại sách (Biên Niên Sử, Sách Giáo Khoa, Luận Thuyết) được biên soạn tại các bàn nghiên cứu (<LinkAlmanac=\"Basicresearchtable\">Bàn Nghiên Cứu Cơ Bản</link>, <LinkAlmanac=\"Researchtable\">Bàn Nghiên Cứu</link>, <LinkAlmanac=\"Advancedresearchtable\">Bàn Nghiên Cứu Nâng Cao</link>)"
   },
   {
     "key": "tutorial_schedule",
     "type": 0,
     "en": "Tutorial: Schedule",
-    "vi": "Tutorial: Schedule"
+    "vi": "Hướng dẫn: Thời gian biểu"
   },
   {
     "key": "tutorial_schedule_info",
     "type": 0,
     "en": "<style=AlmParagraph>Schedule panel\\n</style>- You can use the <b>SCHEDULE</b> panel to modify the time of day your settler should do each type of activity.",
-    "vi": "<style=AlmParagraph>Schedule panel\\n</style>- You can use the <b>SCHEDULE</b> panel to modify the time of day your settler should do each type of activity."
+    "vi": "<style=AlmParagraph>Bảng thời gian biểu\\n</style>- Bạn có thể sử dụng bảng <b>THỜI GIAN BIỂU</b> để sắp xếp và phân bổ khung giờ sinh hoạt trong ngày cho từng loại hoạt động của dân làng."
   },
   {
     "key": "tutorial_select",
     "type": 0,
     "en": "Tutorial: Draft Settlers",
-    "vi": "Tutorial: Draft Settlers"
+    "vi": "Hướng dẫn: Động viên dân làng"
   },
   {
     "key": "tutorial_select_info",
     "type": 0,
     "en": "<style=AlmParagraph>Draft\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- You can select multiple settlers and then draft them. \\n- Use the settler panel on the left to quickly select a single settler, or use [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> to select multiple. </style>",
-    "vi": "<style=AlmParagraph>Draft\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- You can select multiple settlers and then draft them. \\n- Use the settler panel on the left to quickly select a single settler, or use [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> to select multiple. </style>"
+    "vi": "<style=AlmParagraph>Động viên chiến đấu\\n</style>- Để trực tiếp chỉ huy dân làng chiến đấu, hãy chọn họ và nhấp vào nút Động Viên trong bảng điều khiển.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bạn có thể quét chọn nhiều dân làng cùng lúc rồi bấm lệnh Động Viên để tập hợp đội ngũ.\\n- Sử dụng thanh danh sách dân làng ở cạnh trái màn hình để chọn nhanh một người, hoặc giữ phím [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> để chọn nhiều người cùng lúc.</style>"
   },
   {
     "key": "tutorial_stockpile",
     "type": 0,
     "en": "Tutorial: Stockpile",
-    "vi": "Tutorial: Stockpile"
+    "vi": "Hướng dẫn: Bãi chứa kho bãi"
   },
   {
     "key": "tutorial_stockpile_info",
     "type": 0,
     "en": "<style=AlmParagraph>Stockpile\\n</style>- Your settlers need somewhere to store resources.\\n- You need to designate a stockpile zone.\\n- Choose the default stockpile from the zone panel [<style=Shortcut>F7</style>] in the lower left of the screen.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Place stockpiles under roofs or inside to slow down resources' decay.</style>",
-    "vi": "<style=AlmParagraph>Stockpile\\n</style>- Your settlers need somewhere to store resources.\\n- You need to designate a stockpile zone.\\n- Choose the default stockpile from the zone panel [<style=Shortcut>F7</style>] in the lower left of the screen.<style=AlmParagraph>\\nTip\\n</style>- <style=Desc>Place stockpiles under roofs or inside to slow down resources' decay.</style>"
+    "vi": "<style=AlmParagraph>Bãi chứa\\n</style>- Dân làng cần một nơi quy củ để cất giữ và bảo quản tài nguyên.\\n- Bạn cần chỉ định các khu vực làm bãi chứa.\\n- Chọn loại bãi chứa mặc định từ bảng Khu Vực [<style=Shortcut>F7</style>] ở góc dưới bên trái màn hình.<style=AlmParagraph>\\nMẹo\\n</style>- <style=Desc>Hãy bố trí bãi chứa dưới các mái che hoặc trong phòng kín để làm chậm đáng kể tốc độ phân hủy và hư hỏng của tài nguyên.</style>"
   },
   {
     "key": "tutorial_welcome",
     "type": 0,
     "en": "Welcome",
-    "vi": "Welcome"
+    "vi": "Chào mừng"
   },
   {
     "key": "tutorial_welcome_info",
     "type": 0,
     "en": "<style=AlmParagraph>Welcome To Going Medieval\\n</style>- Please bear in mind that the game is under Heavy development. This means that the game will have some bugs and unfinished systems. <b>You can consult the Almanac for help and tutorials.</b>",
-    "vi": "<style=AlmParagraph>Welcome To Going Medieval\\n</style>- Please bear in mind that the game is under Heavy development. This means that the game will have some bugs and unfinished systems. <b>You can consult the Almanac for help and tutorials.</b>"
+    "vi": "<style=AlmParagraph>Chào Mừng Đến Với Going Medieval\\n</style>- Xin lưu ý rằng trò chơi đang trong giai đoạn phát triển tích cực. Điều này đồng nghĩa với việc trò chơi có thể xuất hiện một số lỗi và tính năng chưa hoàn thiện. <b>Bạn có thể tra cứu Bách Khoa Thư (Almanac) bất cứ lúc nào để xem trợ giúp và các bài hướng dẫn chi tiết.</b>"
   },
   {
     "key": "tutorial_mood_info",
     "type": 0,
     "en": "<style=AlmParagraph>Mood\\n</style>- Mood represents your settlers' happiness.\\n- Be sure to check on your settlers’ mood often.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and a fair amount of leisure time can help keep your settlers’ spirits high.",
-    "vi": "<style=AlmParagraph>Mood\\n</style>- Mood represents your settlers' happiness.\\n- Be sure to check on your settlers’ mood often.\\n- A low mood can result in settlers rebelling and refusing to follow orders.\\n- If a settler's mood reaches 0, they will leave your settlement.\\n- Things like cooked or lavish meals, comfortable beds, and a fair amount of leisure time can help keep your settlers’ spirits high."
+    "vi": "<style=AlmParagraph>Tâm trạng\\n</style>- Tâm trạng biểu thị mức độ hạnh phúc và thỏa mãn của dân làng.\\n- Hãy thường xuyên theo dõi trạng thái tâm lý của họ.\\n- Tâm trạng quá thấp có thể dẫn đến việc dân làng nổi loạn, bỏ việc và từ chối tuân theo mệnh lệnh.\\n- Nếu chỉ số tâm trạng chạm đáy về 0, dân làng sẽ thu dọn hành lý và rời bỏ khu định cư mãi mãi.\\n- Các yếu tố như bữa ăn nấu chín thịnh soạn, giường ngủ êm ái, tiện nghi đầy đủ và thời gian thư giãn giải trí hợp lý sẽ giúp tinh thần dân làng luôn phấn chấn."
   },
   {
     "key": "tutorial_manage_info",
     "type": 0,
     "en": "<style=AlmParagraph>Manage\\n</style>- Use the manage panel to determine which items your settlers will auto-equip, what food and alcohol they are allowed to consume, etc.\\n- You can still force settlers to consume or equip something using the right-click action menu. ",
-    "vi": "<style=AlmParagraph>Manage\\n</style>- Use the manage panel to determine which items your settlers will auto-equip, what food and alcohol they are allowed to consume, etc.\\n- You can still force settlers to consume or equip something using the right-click action menu. "
+    "vi": "<style=AlmParagraph>Quản lý\\n</style>- Sử dụng bảng Quản Lý để quy định loại trang phục và vũ khí dân làng tự động trang bị, các loại thực phẩm và thức uống có cồn họ được phép dùng, v.v.\\n- Bạn vẫn luôn có thể cưỡng chế dân làng tiêu thụ hoặc trang bị một vật phẩm cụ thể thông qua menu thao tác chuột phải."
   },
   {
     "key": "tutorial_defence_info",
     "type": 0,
     "en": "<style=AlmParagraph>Defence\\n</style>- Use structures like merlons to your advantage to cover your archers from enemy projectiles.\\n- Place archers on higher ground so they get a buff in precision, range, and critical hit chance.\\n- Place traps strategically around your settlement to weaken your enemies.",
-    "vi": "<style=AlmParagraph>Defence\\n</style>- Use structures like merlons to your advantage to cover your archers from enemy projectiles.\\n- Place archers on higher ground so they get a buff in precision, range, and critical hit chance.\\n- Place traps strategically around your settlement to weaken your enemies."
+    "vi": "<style=AlmParagraph>Phòng thủ\\n</style>- Tận dụng các cấu trúc như tường răng cưa và lỗ châu mai để che chắn an toàn cho cung thủ trước làn mưa tên của kẻ thù.\\n- Bố trí cung thủ trên các vị trí tường thành cao điểm để nhận được bùa lợi gia tăng độ chính xác, mở rộng tầm bắn và tăng tỉ lệ sát thương chí mạng.\\n- Đặt bẫy chông và bẫy sập một cách chiến lược xung quanh các lối mòn dẫn vào khu định cư để tiêu hao sinh lực địch."
   },
   {
     "key": "tutorial_mood",
     "type": 0,
     "en": "Tutorial: Mood",
-    "vi": "Tutorial: Mood"
+    "vi": "Hướng dẫn: Tâm trạng & Cảm xúc"
   },
   {
     "key": "tutorial_manage",
     "type": 0,
     "en": "Tutorial: Manage",
-    "vi": "Tutorial: Manage"
+    "vi": "Hướng dẫn: Bảng quản lý"
   },
   {
     "key": "tutorial_defence",
     "type": 0,
     "en": "Tutorial: Defence",
-    "vi": "Tutorial: Defence"
+    "vi": "Hướng dẫn: Phòng thủ công sự"
   },
   {
     "key": "tutorial_forbid",
     "type": 0,
     "en": "Tutorial: Forbid/Allow",
-    "vi": "Tutorial: Forbid/Allow"
+    "vi": "Hướng dẫn: Lệnh Cấm / Cho phép"
   },
   {
     "key": "tutorial_forbid_info",
     "type": 0,
     "en": "<style=AlmParagraph>Forbid/Allow\\n</style>- Settlers will not interact with items that are marked as forbidden.\\n- Forbidden items will have a forbidden sign over them.\\n- You can allow forbidden items by using the allow order or by selecting the item and selecting the allow action. ",
-    "vi": "<style=AlmParagraph>Forbid/Allow\\n</style>- Settlers will not interact with items that are marked as forbidden.\\n- Forbidden items will have a forbidden sign over them.\\n- You can allow forbidden items by using the allow order or by selecting the item and selecting the allow action. "
+    "vi": "<style=AlmParagraph>Cấm / Cho phép\\n</style>- Dân làng sẽ tuyệt đối không tương tác với các vật phẩm đang bị đánh dấu Cấm.\\n- Vật phẩm bị cấm sẽ có biểu tượng bàn tay cấm hiển thị phía trên.\\n- Bạn có thể cho phép sử dụng lại các vật phẩm này bằng lệnh Cho Phép trên thanh công cụ, hoặc chọn vật phẩm rồi bấm nút Cho Phép."
   },
   {
     "key": "tutorial_region",
     "type": 0,
     "en": "Tutorial: Region",
-    "vi": "Tutorial: Region"
+    "vi": "Hướng dẫn: Bản đồ khu vực"
   },
   {
     "key": "tutorial_trading",
     "type": 0,
     "en": "Tutorial: Bartering",
-    "vi": "Tutorial: Bartering"
+    "vi": "Hướng dẫn: Trao đổi buôn bán"
   },
   {
     "key": "tutorial_initiate_trading",
     "type": 0,
     "en": "Tutorial: Initiate Bartering",
-    "vi": "Tutorial: Initiate Bartering"
+    "vi": "Hướng dẫn: Bắt đầu giao thương"
   },
   {
     "key": "tutorial_friendliness",
     "type": 0,
     "en": "Tutorial: Alignment",
-    "vi": "Tutorial: Alignment"
+    "vi": "Hướng dẫn: Mối quan hệ phe phái"
   },
   {
     "key": "tutorial_trading_info",
     "type": 0,
     "en": "<style=AlmParagraph>Bartering\\n</style>- Bartering functions by exchanging resources and items with a Merchant.\\n- You can request resources only if you proffer something in return with the same or similar value.\\n- The settler making the trade can influence prices, and can also negotiate to get more than they offered.\\n\\n- Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards the Merchant's faction.\\n- The value of resources is determined by merchant type, faction, alignment, and even time of year.\n",
-    "vi": "<style=AlmParagraph>Bartering\\n</style>- Bartering functions by exchanging resources and items with a Merchant.\\n- You can request resources only if you proffer something in return with the same or similar value.\\n- The settler making the trade can influence prices, and can also negotiate to get more than they offered.\\n\\n- Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards the Merchant's faction.\\n- The value of resources is determined by merchant type, faction, alignment, and even time of year.\n"
+    "vi": "<style=AlmParagraph>Trao đổi buôn bán\\n</style>- Cơ chế giao thương hoạt động bằng cách trao đổi trực tiếp tài nguyên và hàng hóa với các thương nhân.\\n- Bạn chỉ có thể yêu cầu nhận tài nguyên nếu đưa ra những món hàng có giá trị tương đương để đối ứng.\\n- Dân làng trực tiếp tiến hành giao dịch có thể tác động đến tỷ giá và đàm phán để đem lại nhiều lợi ích hơn cho khu định cư.\\n\\n- Việc trao cho thương nhân số hàng hóa có giá trị vượt trội so với lượng nhận về sẽ được tính là quà biếu tặng, giúp gia tăng đáng kể điểm thiện cảm với phe phái của thương nhân đó.\\n- Giá trị của hàng hóa được định đoạt bởi loại hình thương nhân, phe phái xuất thân, mức độ quan hệ và thậm chí cả mùa vụ trong năm.\n"
   },
   {
     "key": "tutorial_region_info",
     "type": 0,
     "en": "<style=AlmParagraph>Region\\n</style>- You can see what factions and faction settlements are in your region.\\n- Form a caravan and send your settlers to trade with other settlements by selecting a settlement and clicking the <b>send caravan</b> button.\n",
-    "vi": "<style=AlmParagraph>Region\\n</style>- You can see what factions and faction settlements are in your region.\\n- Form a caravan and send your settlers to trade with other settlements by selecting a settlement and clicking the <b>send caravan</b> button.\n"
+    "vi": "<style=AlmParagraph>Khu vực\\n</style>- Bạn có thể quan sát toàn bộ các phe phái và các tiền đồn khu định cư của họ trong toàn vùng.\\n- Tổ chức các đoàn buôn và cử dân làng đến trao đổi thương mại với các khu định cư lân cận bằng cách chọn mục tiêu trên bản đồ và nhấn nút <b>Cử Đoàn Buôn</b>.\n"
   },
   {
     "key": "tutorial_friendliness_info",
     "type": 0,
     "en": "<style=AlmParagraph>Alignment\\n</style>- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n",
-    "vi": "<style=AlmParagraph>Alignment\\n</style>- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n"
+    "vi": "<style=AlmParagraph>Quan hệ phe phái\\n</style>- Mối quan hệ ngoại giao sẽ quyết định một phe phái là thân thiện, trung lập hay thù địch đối với khu định cư của bạn.\\n- Các phe phái thù địch sẽ thường xuyên phát động các cuộc đột kích vũ trang, trong khi các phe thân thiện và trung lập sẽ định kỳ cử các đoàn thương nhân đến giao thương với bạn.\n"
   },
   {
     "key": "tutorial_initiate_trading_info",
     "type": 0,
     "en": "<style=AlmParagraph>Initiate Bartering\\n</style>- To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter with</b> option.",
-    "vi": "<style=AlmParagraph>Initiate Bartering\\n</style>- To initiate bartering with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter with</b> option."
+    "vi": "<style=AlmParagraph>Bắt đầu giao dịch\\n</style>- Để bắt đầu trao đổi buôn bán với một thương nhân, hãy chọn một dân làng, nhấp <sprite=\"ctrl_right_click\" index=t> vào thương nhân đó rồi chọn lệnh <b>Giao thương với</b>."
   },
   {
     "key": "tutorial_move_structures",
     "type": 0,
     "en": "Tutorial: Relocate Structures",
-    "vi": "Tutorial: Relocate Structures"
+    "vi": "Hướng dẫn: Di dời công trình"
   },
   {
     "key": "tutorial_move_structures_info",
     "type": 0,
     "en": "<style=AlmParagraph>Relocate Structures\\n</style>- Smaller structures like furniture, workstations and decorations can be easily relocated: Select an already-constructed structure and click on the relocate button. Then select a new location.\\n\\n- Structures that are removed will turn into a resource pile and can be stored on stockpiles, and even traded with Merchants.\n",
-    "vi": "<style=AlmParagraph>Relocate Structures\\n</style>- Smaller structures like furniture, workstations and decorations can be easily relocated: Select an already-constructed structure and click on the relocate button. Then select a new location.\\n\\n- Structures that are removed will turn into a resource pile and can be stored on stockpiles, and even traded with Merchants.\n"
+    "vi": "<style=AlmParagraph>Di dời công trình\\n</style>- Các cấu trúc nhỏ như đồ nội thất, bàn chế tác và đồ trang trí có thể dễ dàng di dời: Hãy chọn công trình đã hoàn thiện và bấm vào nút Di Dời, sau đó chỉ định vị trí mới.\\n\\n- Những công trình được tháo dỡ sẽ biến thành các đống tài nguyên vật liệu nguyên vẹn, có thể đem cất giữ trong kho bãi hoặc dùng để trao đổi với thương nhân.\n"
   },
   {
     "key": "tutorial_farming",
     "type": 0,
     "en": "Tutorial: Farming",
-    "vi": "Tutorial: Farming"
+    "vi": "Hướng dẫn: Canh tác nông nghiệp"
   },
   {
     "key": "tutorial_farming_info",
     "type": 0,
     "en": "<style=AlmParagraph>Farming\\n</style>- Sow crop fields to ensure a steady supply of food for the upcoming winter. \\n- Choose a crop from the zone panel [<style=Shortcut>F7</style>], then drag it to the required size.\\n- You need appropriate supplies of seeds and saplings in order to sow.\\n- New varieties of crop fields will be unlocked as you acquire new seed types, either by foraging, or from merchants. \\n- Remember that plants need sunlight. Sow crops in the open, away from trees or structures that will create shade. Days are shorter in winter and early spring, so try to avoid sowing plants during this time.",
-    "vi": "<style=AlmParagraph>Farming\\n</style>- Sow crop fields to ensure a steady supply of food for the upcoming winter. \\n- Choose a crop from the zone panel [<style=Shortcut>F7</style>], then drag it to the required size.\\n- You need appropriate supplies of seeds and saplings in order to sow.\\n- New varieties of crop fields will be unlocked as you acquire new seed types, either by foraging, or from merchants. \\n- Remember that plants need sunlight. Sow crops in the open, away from trees or structures that will create shade. Days are shorter in winter and early spring, so try to avoid sowing plants during this time."
+    "vi": "<style=AlmParagraph>Canh tác nông nghiệp\\n</style>- Gieo trồng các thửa ruộng hoa màu để đảm bảo nguồn dự trữ lương thực dồi dào cho mùa đông khắc nghiệt sắp tới.\\n- Chọn loại cây trồng từ bảng Khu Vực [<style=Shortcut>F7</style>], sau đó kéo thả chuột trên mặt đất theo diện tích mong muốn.\\n- Bạn cần tích lũy đủ số lượng hạt giống và cây giống non tương ứng để tiến hành gieo hạt.\\n- Các giống cây trồng mới sẽ được mở khóa khi bạn thu thập được hạt giống mới thông qua hái lượm hoang dã hoặc mua từ các đoàn buôn.\\n- Hãy ghi nhớ rằng thực vật rất cần ánh sáng mặt trời để quang hợp. Hãy gieo trồng ở những khu đất quang đãng, tránh xa bóng râm của các tán cây cổ thụ hay tường thành cao. Ban ngày ngắn hơn vào mùa đông và đầu xuân, vì vậy hãy hạn chế gieo trồng vào những giai đoạn này."
   },
   {
     "key": "tutorial_animals",
     "type": 0,
     "en": "Tutorial: Animals",
-    "vi": "Tutorial: Animals"
+    "vi": "Hướng dẫn: Động vật & Chăn nuôi"
   },
   {
     "key": "tutorial_animals_info",
     "type": 0,
     "en": "<style=AlmParagraph>Animals\\n</style><b>Wild Animals</b>\\n- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.\\n\\n<b>Domestic Animals</b>\\n- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.\\n<b>Pets</b>\\n- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement. ",
-    "vi": "<style=AlmParagraph>Animals\\n</style><b>Wild Animals</b>\\n- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.\\n\\n<b>Domestic Animals</b>\\n- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.\\n<b>Pets</b>\\n- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement. "
+    "vi": "<style=AlmParagraph>Hệ sinh thái động vật\\n</style><b>Động vật hoang dã</b>\\n- Dân làng có thể săn bắn và mổ thịt thú hoang để thu hoạch nguồn thịt tươi và da thuộc quý giá.\\n- Một số loài thú hung dữ như chó sói và lợn rừng có khả năng phản kháng dữ dội khi bị tấn công.\\n- Để săn thú hiệu quả, dân làng cần được trang bị các loại vũ khí tầm xa như cung tên hoặc nỏ.\\n\\n<b>Động vật nuôi</b>\\n- Một số loài thú hoang có thể được thuần hóa thành gia súc gia cầm.\\n- Một số loài vật có thể trở nên kích động và tấn công người đang cố gắng thuần hóa chúng, hãy luôn cảnh giác.\\n- Thuần hóa là một quá trình kiên trì và không thể thực hiện liên tục. Dân làng chỉ có thể thử thuần hóa một con thú mỗi 24 giờ một lần.\\n- Động vật đã thuần hóa sẽ sinh sống hòa thuận bên cạnh dân làng. Nhiều loài gia súc có thể được nuôi nhốt trong các chuồng quây. Để tạo chuồng gia súc, hãy đặt cột mốc chuồng trại trong một khu đất có hàng rào bao bọc kín kẽ.\\n<b>Thú cưng</b>\\n- Một số loài vật nuôi có thể được huấn luyện nâng cao để trở thành thú cưng trung thành.\\n- Thú cưng có thể được giao cho một dân làng cụ thể để luôn cận kề bảo vệ và phụ giúp vận chuyển quanh khu định cư."
   },
   {
     "key": "tutorial_wild_animals",
     "type": 0,
     "en": "Tutorial: Wild Animals",
-    "vi": "Tutorial: Wild Animals"
+    "vi": "Hướng dẫn: Động vật hoang dã"
   },
   {
     "key": "tutorial_wild_animals_info",
     "type": 0,
     "en": "<style=AlmParagraph>Wild Animals\\n</style>- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon.",
-    "vi": "<style=AlmParagraph>Wild Animals\\n</style>- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler needs to be equipped with a ranged weapon."
+    "vi": "<style=AlmParagraph>Động vật hoang dã\\n</style>- Dân làng có thể săn bắn và mổ thịt thú hoang để thu hoạch thịt và da thuộc.\\n- Một số loài động vật hung dữ như sói và lợn rừng có thể chống trả quyết liệt khi bị săn đuổi.\\n- Để săn thú an toàn, dân làng cần được trang bị vũ khí tầm xa."
   },
   {
     "key": "tutorial_domestic_animals",
     "type": 0,
     "en": "Tutorial: Domestic Animals",
-    "vi": "Tutorial: Domestic Animals"
+    "vi": "Hướng dẫn: Động vật nuôi & Gia súc"
   },
   {
     "key": "tutorial_domestic_animals_info",
     "type": 0,
     "en": "<style=AlmParagraph>Domestic Animals\\n</style>- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area.",
-    "vi": "<style=AlmParagraph>Domestic Animals\\n</style>- Some wild animals can be tamed.\\n- Some animals may attack a settler who is trying to tame them, so beware.\\n-Taming can be a long process and can't be done continually. Settlers can try to tame an animal once every 24h.\\n- Tamed animals will live alongside settlers. Some animals can be kept in animal pens. To create a pen, place a pen marker in a fenced off or enclosed area."
+    "vi": "<style=AlmParagraph>Động vật nuôi\\n</style>- Một số loài thú hoang có thể được thuần dưỡng thành vật nuôi.\\n- Thú hoang có thể bất ngờ tấn công người đang cố gắng tiếp cận để thuần hóa chúng, vì vậy hãy luôn cẩn trọng.\\n- Quá trình thuần hóa đòi hỏi thời gian và không thể vội vã. Dân làng chỉ có thể thử thuần hóa mỗi con thú một lần sau mỗi 24 giờ.\\n- Gia súc đã thuần hóa sẽ sinh sống cùng dân làng. Một số loài cần được chăn thả trong chuồng quây. Để lập chuồng trại, hãy đặt cọc tiêu chuồng gia súc bên trong khu đất được quây hàng rào kín."
   },
   {
     "key": "tutorial_pet_animals",
     "type": 0,
     "en": "Tutorial: Pets",
-    "vi": "Tutorial: Pets"
+    "vi": "Hướng dẫn: Thú cưng"
   },
   {
     "key": "tutorial_pet_animals_info",
     "type": 0,
     "en": "<style=AlmParagraph>Pets\\n</style>- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement.",
-    "vi": "<style=AlmParagraph>Pets\\n</style>- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement."
+    "vi": "<style=AlmParagraph>Thú cưng\\n</style>- Một số loài vật nuôi thuần hóa có thể được huấn luyện kỹ lưỡng để trở thành thú cưng.\\n- Thú cưng có thể được chỉ định gắn bó với một dân làng để luôn đi theo bảo vệ và đỡ đần các công việc trong khu định cư."
   },
   {
     "key": "tutorial_selection_forbidden",
     "type": 0,
     "en": "Objects cannot be selected during this tutorial step",
-    "vi": "Objects cannot be selected during this tutorial step"
+    "vi": "Không thể chọn vật thể trong bước hướng dẫn này"
   },
   {
     "key": "tutorial_not_available",
     "type": 0,
     "en": "This functionality is not enabled during the tutorial",
-    "vi": "This functionality is not enabled during the tutorial"
+    "vi": "Tính năng này bị tạm khóa trong quá trình thực hiện bài hướng dẫn"
   },
   {
     "key": "tutorial_stash_found",
     "type": 0,
     "en": "Secret stash found!",
-    "vi": "Secret stash found!"
+    "vi": "Đã phát hiện kho báu bí mật!"
   },
   {
     "key": "tutorial_wrong_construction_size",
     "type": 0,
     "en": "Building must be placed precisely on the marked area",
-    "vi": "Building must be placed precisely on the marked area"
+    "vi": "Công trình phải được đặt chính xác bên trong phạm vi được đánh dấu"
   },
   {
     "key": "tutorial_wrong_construction_position",
     "type": 0,
     "en": "Place building on the marked area",
-    "vi": "Place building on the marked area"
+    "vi": "Hãy đặt công trình vào đúng vị trí được đánh dấu"
   },
   {
     "key": "tutorial_wrong_construction_rotation",
     "type": 0,
     "en": "Rotate the building in the marked direction",
-    "vi": "Rotate the building in the marked direction"
+    "vi": "Hãy xoay hướng công trình khớp với mũi tên được đánh dấu"
   },
   {
     "key": "tutorial_wrong_roof_size",
     "type": 0,
     "en": "Drag roofs to cover full building length {0}",
-    "vi": "Drag roofs to cover full building length {0}"
+    "vi": "Hãy kéo mái nhà phủ kín toàn bộ chiều dài công trình {0}"
   },
   {
     "key": "tutorial_warning_description",
     "type": 0,
     "en": "This seems to be the first time you are running Going Medieval. We suggest you go through the tutorial scenario if you have not played colony sim games before.",
-    "vi": "This seems to be the first time you are running Going Medieval. We suggest you go through the tutorial scenario if you have not played colony sim games before."
+    "vi": "Có vẻ như đây là lần đầu tiên bạn trải nghiệm Going Medieval. Chúng tôi khuyến nghị bạn nên hoàn thành kịch bản Hướng Dẫn trước nếu bạn chưa từng chơi các tựa game mô phỏng quản lý khu định cư."
   },
   {
     "key": "tutorial_warning_answer_new_game",
     "type": 0,
     "en": "No thanks, I'm good",
-    "vi": "No thanks, I'm good"
+    "vi": "Không cần, tôi có thể tự chơi được"
   },
   {
     "key": "tutorial_warning_answer_tutorial",
     "type": 0,
     "en": "Let's play the tutorial first",
-    "vi": "Let's play the tutorial first"
+    "vi": "Tôi muốn chơi phần Hướng Dẫn trước"
   },
   {
     "key": "more_info_scenario",
     "type": 0,
     "en": "The scenario <style=DefaultYellow>A New Life</style> is recommended for those new to Going Medieval. You begin with three settlers and a good amount of supplies. You start in Spring, which gives plenty of time to stock up before the harsh Winter arrives.\\n\\n Additional settings and details for each scenario are available, but we recommend sticking with the defaults for your first settlement.",
-    "vi": "The scenario <style=DefaultYellow>A New Life</style> is recommended for those new to Going Medieval. You begin with three settlers and a good amount of supplies. You start in Spring, which gives plenty of time to stock up before the harsh Winter arrives.\\n\\n Additional settings and details for each scenario are available, but we recommend sticking with the defaults for your first settlement."
+    "vi": "Kịch bản <style=DefaultYellow>Khởi Đầu Mới</style> rất phù hợp cho những người lần đầu đến với Going Medieval. Bạn sẽ bắt đầu với 3 dân làng cùng lượng nhu yếu phẩm dồi dào. Khởi đầu vào Mùa Xuân sẽ cho bạn nhiều thời gian quý báu để chuẩn bị và tích lũy lương thực trước khi Mùa Đông giá buốt ập tới.\\n\\nBạn luôn có thể tùy chỉnh sâu các thiết lập của từng kịch bản, nhưng chúng tôi khuyên bạn nên giữ các giá trị mặc định cho khu định cư đầu tiên của mình."
   },
   {
     "key": "tutorial_game_paused",
     "type": 0,
     "en": "Game paused",
-    "vi": "Game paused"
+    "vi": "Trò chơi đã tạm dừng"
   },
   {
     "key": "tutorial_game_unpaused",
     "type": 0,
     "en": "Game unpaused",
-    "vi": "Game unpaused"
+    "vi": "Trò chơi tiếp tục chạy"
   },
   {
     "key": "options_show_tutorials",
     "type": 0,
     "en": "Show Tutorial tips",
-    "vi": "Show Tutorial tips"
+    "vi": "Hiển thị mẹo hướng dẫn"
   },
   {
     "key": "tutorial_loading_screen_title",
     "type": 0,
     "en": "Tutorial",
-    "vi": "Tutorial"
+    "vi": "Hướng Dẫn Nhập Môn"
   },
   {
     "key": "tutorial_loading_screen_description",
     "type": 0,
     "en": "This is a temporary map which has been designed to teach you the basic controls and introduce you to some of the systems Going Medieval has to offer.\\n\\nWhen the tutorial is over, you can start your first 'proper' settlement!",
-    "vi": "This is a temporary map which has been designed to teach you the basic controls and introduce you to some of the systems Going Medieval has to offer.\\n\\nWhen the tutorial is over, you can start your first 'proper' settlement!"
+    "vi": "Đây là bản đồ thử nghiệm được thiết kế riêng nhằm giúp bạn làm quen với các thao tác điều khiển cơ bản và những cơ chế cốt lõi mà Going Medieval mang lại.\\n\\nKhi hoàn tất phần hướng dẫn, bạn sẽ sẵn sàng tạo dựng khu định cư thực thụ đầu tiên của chính mình!"
   },
   {
     "key": "scenario_default_1_title",
     "type": 0,
     "en": "A New Life",
-    "vi": "A New Life"
+    "vi": "Khởi Đầu Mới"
   },
   {
     "key": "scenario_default_1_info",
     "type": 0,
     "en": "Each settler has a story about the past they left far behind. But now, this tattered group has a common goal: to build a new home, together.",
-    "vi": "Each settler has a story about the past they left far behind. But now, this tattered group has a common goal: to build a new home, together."
+    "vi": "Mỗi dân làng đều mang trong mình một câu chuyện về quá khứ đã bỏ lại phía sau. Giờ đây, nhóm người phiêu bạt này cùng chung một lý tưởng: cùng nhau gây dựng một mái ấm mới."
   },
   {
     "key": "scenario_default_1_narrative",
     "type": 0,
     "en": "The plague had ravaged the British Isles, leaving a trail of destruction in its wake. Untold millions went to an early grave. And those left standing were plunged into poverty, brutally scarred by the horrors that they had witnessed. Nothing would ever be the same again.\\n\\n<season_description> of the year <year>, <all_villagers> set off into the wilderness to claim a piece of the land as their own, as was their right, in the eyes of God and under the Law. Here, they may lay down the foundations for some kind of future. Perhaps hope will follow.",
-    "vi": "The plague had ravaged the British Isles, leaving a trail of destruction in its wake. Untold millions went to an early grave. And those left standing were plunged into poverty, brutally scarred by the horrors that they had witnessed. Nothing would ever be the same again.\\n\\n<season_description> of the year <year>, <all_villagers> set off into the wilderness to claim a piece of the land as their own, as was their right, in the eyes of God and under the Law. Here, they may lay down the foundations for some kind of future. Perhaps hope will follow."
+    "vi": "Cơn đại dịch Cái Chết Đen đã tàn phá tan hoang khắp quần đảo Anh quốc, để lại vết tích hoang tàn và tang tóc trên mọi nẻo đường. Hàng triệu sinh linh đã phải vùi thây nơi nấm mồ lạnh giá. Những người may mắn còn sống sót rơi vào cảnh bần cùng khốn khó, tâm can hằn sâu vết sẹo từ muôn vàn cảnh tượng kinh hoàng mà họ đã tận mắt chứng kiến. Thế giới xưa cũ sẽ vĩnh viễn không bao giờ trở lại.\\n\\nVào <season_description> năm <year>, <all_villagers> đã cùng nhau tiến bước vào miền hoang dã để khai khẩn một mảnh đất cho riêng mình, đúng theo quyền hạn chính đáng của họ trước Thiên Chúa và Luật Pháp. Tại nơi đây, họ sẽ cùng nhau đặt những viên gạch nền móng đầu tiên cho tương lai. Và có lẽ, ngọn lửa hy vọng sẽ lại bừng sáng."
   },
   {
     "key": "scenario_default_3_title",
     "type": 0,
     "en": "Lone Wolf",
-    "vi": "Lone Wolf"
+    "vi": "Sói Đơn Độc"
   },
   {
     "key": "scenario_default_3_info",
     "type": 0,
     "en": "This settler starts alone, with meagre resources in the harshest of conditions.",
-    "vi": "This settler starts alone, with meagre resources in the harshest of conditions."
+    "vi": "Khởi đầu chỉ với một dân làng đơn độc, nguồn tài nguyên ít ỏi giữa những điều kiện sinh tồn khắc nghiệt nhất."
   },
   {
     "key": "scenario_default_3_narrative",
     "type": 0,
     "en": "Through a blizzard, the last hunting party of the year returns. One member is missing, presumed dead. Far from what passes for civilization, <random_villager> is on [his/her] own. [He/She] grits [his/her] teeth and resolves to build a home in the wilderness, to shelter from the biting cold. The only sound is the distant call of wolves.",
-    "vi": "Through a blizzard, the last hunting party of the year returns. One member is missing, presumed dead. Far from what passes for civilization, <random_villager> is on [his/her] own. [He/She] grits [his/her] teeth and resolves to build a home in the wilderness, to shelter from the biting cold. The only sound is the distant call of wolves."
+    "vi": "Vượt qua cơn bão tuyết mịt mù, nhóm thợ săn cuối cùng trong năm lục tục trở về. Một thành viên đã mất tích và được cho là đã bỏ mạng. Cách xa khỏi những gì được gọi là văn minh loài người, <random_villager> chỉ còn biết dựa vào chính bản thân [his/her]. [He/She] nghiến chặt hàm răng và quyết tâm dựng xây một mái nhà giữa chốn hoang dã để chống chọi lại cái lạnh thấu xương. Âm thanh duy nhất bầu bạn chỉ là tiếng sói tru ai oán từ nơi xa xăm."
   },
   {
     "key": "scenario_default_2_title",
     "type": 0,
     "en": "Peaceful",
-    "vi": "Peaceful"
+    "vi": "Thanh Bình"
   },
   {
     "key": "scenario_default_2_info",
     "type": 0,
     "en": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers.",
-    "vi": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers."
+    "vi": "Không có bất kỳ cuộc tấn công nào từ kẻ thù. Hãy chọn chế độ này nếu bạn muốn thư thái tập trung xây dựng kiến trúc khu định cư và chăm sóc chu đáo cho dân làng."
   },
   {
     "key": "scenario_default_2_narrative",
     "type": 0,
     "en": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?",
-    "vi": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?"
+    "vi": "<random_villager> đưa mắt nhìn quanh nhóm người đang đói lả, rồi thẳng thắn nói ra điều hiển nhiên: 'Chúng ta đâu còn đủ sức để chém giết, phải không?' Khi thấy mọi người còn đang ngập ngừng do dự, [he/she] nói tiếp: 'Sao chúng ta không dồn toàn tâm toàn ý vào việc xây dựng? Gây dựng một nơi mà ta có thể gọi là nhà, một chốn trú ẩn vững chãi trước bão giông?' Cớ sao phải lao vào những cuộc đâm chém vô nghĩa, [he/she] thầm nghĩ, khi ta hoàn toàn có thể cùng nhau thắp lên một mái ấm gia đình yên bình và nồng hậu?"
   },
   {
     "key": "scenario_default_4_title",
     "type": 0,
     "en": "Pioneer",
-    "vi": "Pioneer"
+    "vi": "Tiên Phong"
   },
   {
     "key": "scenario_default_4_info",
     "type": 0,
     "en": "Start with 3 settlers. Survive an onslaught of unpredictable enemy attacks.",
-    "vi": "Start with 3 settlers. Survive an onslaught of unpredictable enemy attacks."
+    "vi": "Bắt đầu với 3 dân làng dạn dày sương gió. Sống sót qua những đợt tấn công hung bạo và khó lường từ kẻ thù."
   },
   {
     "key": "scenario_default_4_narrative",
     "type": 0,
     "en": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
-    "vi": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'"
+    "vi": "[He/She] đứng sừng sững trước mặt mọi người, hai chân bám trụ vững vàng. 'Chúng ta đã từng chiến đấu... ai trong chúng ta cũng đều mang trên mình những vết sẹo phong ba.' Những người lữ hành đồng thanh gật đầu. Trong những năm tháng dịch bệnh hoành hành này, mỗi người trong số họ đều trở nên kiên cường hơn những gì họ từng dám nghĩ. <random_villager> trầm giọng cất lời. Mọi người nghiêng mình lắng nghe. 'Sẽ không một kẻ nào có thể đánh đuổi chúng ta khỏi thành trì này. Chúng ta sẽ tự tay dựng xây nó, và sẽ đổ máu để bảo vệ nó tới cùng.' Rồi [he/she] ngửa mặt gầm vang: 'Nhân danh Quỷ dữ, cứ để quân giặc thử xông vào xem!'"
   },
   {
     "key": "scenario_additional_info",
     "type": 0,
     "en": "- Difficulty: <style=DefaultYellow>{0}</style> \\n\\n - Starting Season: <style=DefaultYellow>{1}</style>\\n\\n - Number of settlers: <style=DefaultYellow>{2}</style>",
-    "vi": "- Difficulty: <style=DefaultYellow>{0}</style> \\n\\n - Starting Season: <style=DefaultYellow>{1}</style>\\n\\n - Number of settlers: <style=DefaultYellow>{2}</style>"
+    "vi": "- Độ khó: <style=DefaultYellow>{0}</style> \\n\\n - Mùa khởi đầu: <style=DefaultYellow>{1}</style>\\n\\n - Số lượng dân làng: <style=DefaultYellow>{2}</style>"
   },
   {
     "key": "scenario_difficulty_VeryEasy",
     "type": 0,
     "en": "Easy",
-    "vi": "Easy"
+    "vi": "Dễ Dàng"
   },
   {
     "key": "scenario_difficulty_standard",
     "type": 0,
     "en": "Beginner (Recommended for new players )",
-    "vi": "Beginner (Recommended for new players )"
+    "vi": "Tiêu Chuẩn (Khuyên dùng cho người mới)"
   },
   {
     "key": "scenario_difficulty_Difficult",
     "type": 0,
     "en": "Experienced",
-    "vi": "Experienced"
+    "vi": "Khó Khăn"
   },
   {
     "key": "scenario_edit_name_title",
     "type": 0,
     "en": "Scenario name",
-    "vi": "Scenario name"
+    "vi": "Tên kịch bản"
   },
   {
     "key": "scenario_edit_name_info",
     "type": 0,
     "en": "Enter the name of the scenario you are creating.",
-    "vi": "Enter the name of the scenario you are creating."
+    "vi": "Nhập tên cho kịch bản tùy chỉnh mà bạn đang tạo dựng."
   },
   {
     "key": "scenario_edit_description_title",
     "type": 0,
     "en": "Short description",
-    "vi": "Short description"
+    "vi": "Mô tả ngắn gọn"
   },
   {
     "key": "scenario_edit_description_info",
     "type": 0,
     "en": "Short description of your scenario. It will appear in the scenario selection screen.",
-    "vi": "Short description of your scenario. It will appear in the scenario selection screen."
+    "vi": "Đoạn tóm tắt ngắn về kịch bản. Nội dung này sẽ xuất hiện trên màn hình lựa chọn kịch bản."
   },
   {
     "key": "scenario_edit_narrative_title",
     "type": 0,
     "en": "Starting narrative",
-    "vi": "Starting narrative"
+    "vi": "Lời dẫn mở đầu cốt truyện"
   },
   {
     "key": "scenario_edit_narrative_info",
     "type": 0,
     "en": "The starting narrative will appear in the historical records as well as the loading screen. Using special elements like:\\n<village_name> will insert the name of your settlement in the text\\n<year> Will insert the starting year in your text\\n<all_villagers> will insert all settler names in the format: \"John, Jack and Merry\" ",
-    "vi": "The starting narrative will appear in the historical records as well as the loading screen. Using special elements like:\\n<village_name> will insert the name of your settlement in the text\\n<year> Will insert the starting year in your text\\n<all_villagers> will insert all settler names in the format: \"John, Jack and Merry\" "
+    "vi": "Lời dẫn mở đầu sẽ được khắc ghi vào sử liệu biên niên sử cũng như hiển thị trên màn hình tải game. Bạn có thể sử dụng các biến đặc biệt như:\\n<village_name> sẽ tự động chèn tên khu định cư của bạn vào văn bản\\n<year> sẽ tự động chèn năm khởi đầu vào văn bản\\n<all_villagers> sẽ tự động chèn danh sách toàn bộ tên dân làng theo định dạng: \"John, Jack và Merry\""
   },
   {
     "key": "scenario_edit_gender_title",
     "type": 0,
     "en": "Force Body Type",
-    "vi": "Force Body Type"
+    "vi": "Cố định vóc dáng cơ thể"
   },
   {
     "key": "scenario_edit_gender_key",
     "type": 0,
     "en": "Determine the percentage of masculine/feminine body type in your starting group of settlers.\\n0 - all Masculine,\\n100 - all Feminine",
-    "vi": "Determine the percentage of masculine/feminine body type in your starting group of settlers.\\n0 - all Masculine,\\n100 - all Feminine"
+    "vi": "Xác định tỷ lệ vóc dáng cơ thể Nam tính / Nữ tính trong nhóm dân làng khởi đầu của bạn.\\n0 - Toàn bộ Nam tính,\\n100 - Toàn bộ Nữ tính"
   },
   {
     "key": "scenario_edit_religion_title",
     "type": 0,
     "en": "Force Religion",
-    "vi": "Force Religion"
+    "vi": "Cố định đức tin tôn giáo"
   },
   {
     "key": "scenario_edit_religion_key",
     "type": 0,
     "en": "Determine the percentage of Restitutionist/Oak Brethren in your starting group of settlers.\\n0 - all Restitutionist,\\n100 - all Oak Brethren",
-    "vi": "Determine the percentage of Restitutionist/Oak Brethren in your starting group of settlers.\\n0 - all Restitutionist,\\n100 - all Oak Brethren"
+    "vi": "Xác định tỷ lệ dân làng theo đức tin Hội Phục Hưng / Huynh Đệ Cây Sồi trong nhóm khởi đầu của bạn.\\n0 - Toàn bộ theo Hội Phục Hưng,\\n100 - Toàn bộ theo Huynh Đệ Cây Sồi"
   },
   {
     "key": "menu_scenario",
     "type": 0,
     "en": "Scenario",
-    "vi": "Scenario"
+    "vi": "Kịch bản"
   },
   {
     "key": "scenario_game_difficulty",
     "type": 0,
     "en": "Difficulty",
-    "vi": "Difficulty"
+    "vi": "Độ khó"
   },
   {
     "key": "scenario_game_mode",
     "type": 0,
     "en": "Game Mode",
-    "vi": "Game Mode"
+    "vi": "Chế độ chơi"
   },
   {
     "key": "scenario_map_size",
     "type": 0,
     "en": "Map size",
-    "vi": "Map size"
+    "vi": "Kích thước bản đồ"
   },
   {
     "key": "scenario_map_type",
     "type": 0,
     "en": "Map type",
-    "vi": "Map type"
+    "vi": "Địa hình bản đồ"
   },
   {
     "key": "scenario_starting_villagers",
     "type": 0,
     "en": "Settlers",
-    "vi": "Settlers"
+    "vi": "Dân làng khởi đầu"
   },
   {
     "key": "scenario_title",
     "type": 0,
     "en": "Scenario",
-    "vi": "Scenario"
+    "vi": "Kịch bản"
   },
   {
     "key": "almanac_group_name_Basictutorials",
     "type": 0,
     "en": "Basic Tutorials",
-    "vi": "Basic Tutorials"
+    "vi": "Hướng Dẫn Cơ Bản"
   },
   {
     "key": "almanac_group_name_Tutorial",
     "type": 0,
     "en": "Tutorial",
-    "vi": "Tutorial"
+    "vi": "Hướng Dẫn"
   }
 ]

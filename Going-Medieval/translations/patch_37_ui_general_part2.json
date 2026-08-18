@@ -1,0 +1,902 @@
+[
+  {
+    "key": "roofed",
+    "type": 0,
+    "en": "Under the roof",
+    "vi": "Dưới mái nhà"
+  },
+  {
+    "key": "select_crop",
+    "type": 0,
+    "en": "Select Crop",
+    "vi": "Chọn Crop"
+  },
+  {
+    "key": "select_variant",
+    "type": 0,
+    "en": "Select variant",
+    "vi": "Chọn variant"
+  },
+  {
+    "key": "start_position",
+    "type": 0,
+    "en": "Start position",
+    "vi": "Vị trí bắt đầu"
+  },
+  {
+    "key": "storage",
+    "type": 0,
+    "en": "Storage",
+    "vi": "Kho chứa"
+  },
+  {
+    "key": "total_spaces",
+    "type": 0,
+    "en": "Total spaces",
+    "vi": "Tổng số ô chứa"
+  },
+  {
+    "key": "trebuchet_has_agent",
+    "type": 0,
+    "en": "Someone is operating this trebuchet",
+    "vi": "Có người đang vận hành máy bắn đá này"
+  },
+  {
+    "key": "trebuchet_no_agent",
+    "type": 0,
+    "en": "No one is operating this trebuchet",
+    "vi": "Không có ai đang vận hành máy bắn đá này"
+  },
+  {
+    "key": "two_handed",
+    "type": 0,
+    "en": "Two handed",
+    "vi": "Hai tay"
+  },
+  {
+    "key": "used_spaces",
+    "type": 0,
+    "en": "Used spaces",
+    "vi": "Số ô đã dùng"
+  },
+  {
+    "key": "weather_clear",
+    "type": 0,
+    "en": "Clear",
+    "vi": "Xóa sạch"
+  },
+  {
+    "key": "weather_fog",
+    "type": 0,
+    "en": "Fog",
+    "vi": "Sương mù"
+  },
+  {
+    "key": "weather_rain",
+    "type": 0,
+    "en": "Rain",
+    "vi": "Mưa"
+  },
+  {
+    "key": "weather_snow",
+    "type": 0,
+    "en": "Snow",
+    "vi": "Tuyết rơi"
+  },
+  {
+    "key": "weather_thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Bão giông sấm sét"
+  },
+  {
+    "key": "weather_hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Bão mưa đá"
+  },
+  {
+    "key": "weather_heat_wave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Nóng wave"
+  },
+  {
+    "key": "weather_cold_snap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Lạnh snap"
+  },
+  {
+    "key": "add_new_profile_info",
+    "type": 0,
+    "en": "Add custom profile",
+    "vi": "Thêm custom profile"
+  },
+  {
+    "key": "delete_profile",
+    "type": 0,
+    "en": "Delete profile",
+    "vi": "Xóa profile"
+  },
+  {
+    "key": "research_available_error",
+    "type": 0,
+    "en": "Not enough books available",
+    "vi": "Không enough books available"
+  },
+  {
+    "key": "research_allocated_info_negative",
+    "type": 0,
+    "en": "You are missing some required books, which means that they have been lost. You will need to replace them to unlock new research items.",
+    "vi": "Bạn đang thiếu một số sách cần thiết do chúng đã bị mất. Bạn cần bổ sung sách để mở khóa các mục nghiên cứu mới."
+  },
+  {
+    "key": "undrafted_stance",
+    "type": 0,
+    "en": "Undrafted Stance",
+    "vi": "Tư thế Phi vũ trang"
+  },
+  {
+    "key": "auto_equip_shield",
+    "type": 0,
+    "en": "Manage Shield",
+    "vi": "Quản lý Shield"
+  },
+  {
+    "key": "auto_equip_shield_info",
+    "type": 0,
+    "en": "Set autoequip shield for each settler",
+    "vi": "Đặt autoequip shield cho each Dân làng"
+  },
+  {
+    "key": "auto_equip_headware",
+    "type": 0,
+    "en": "Manage Headgear",
+    "vi": "Quản lý Headgear"
+  },
+  {
+    "key": "auto_equip_headware_info",
+    "type": 0,
+    "en": "Set autoequip headgear for each settler",
+    "vi": "Đặt autoequip headgear cho each Dân làng"
+  },
+  {
+    "key": "auto_equip_apparel",
+    "type": 0,
+    "en": "Manage Apparel",
+    "vi": "Quản lý Apparel"
+  },
+  {
+    "key": "auto_equip_apparel_info",
+    "type": 0,
+    "en": "Set autoequip clothing for each settler",
+    "vi": "Đặt autoequip clothing cho each Dân làng"
+  },
+  {
+    "key": "restrict_food",
+    "type": 0,
+    "en": "Manage Food",
+    "vi": "Quản lý Food"
+  },
+  {
+    "key": "restrict_food_info",
+    "type": 0,
+    "en": "Set what type of food each settler is allowed to consume",
+    "vi": "Thiết lập loại thực phẩm mà mỗi dân làng được phép ăn"
+  },
+  {
+    "key": "restrict_stimulants",
+    "type": 0,
+    "en": "Manage Stimulants",
+    "vi": "Quản lý Stimulants"
+  },
+  {
+    "key": "restrict_stimulants_info",
+    "type": 0,
+    "en": "Set what type of stimulants each settler is allowed to consume",
+    "vi": "Thiết lập loại chất kích thích mà mỗi dân làng được phép sử dụng"
+  },
+  {
+    "key": "profile",
+    "type": 0,
+    "en": "Profile",
+    "vi": "Hồ sơ cá nhân"
+  },
+  {
+    "key": "edit_Shields_profiles",
+    "type": 0,
+    "en": "Edit Shield Profiles",
+    "vi": "Chỉnh sửa Shield Profiles"
+  },
+  {
+    "key": "edit_Headware_profiles",
+    "type": 0,
+    "en": "Edit Headgear Profiles",
+    "vi": "Chỉnh sửa Headgear Profiles"
+  },
+  {
+    "key": "edit_Apparel_profiles",
+    "type": 0,
+    "en": "Edit Apparel Profiles",
+    "vi": "Chỉnh sửa Apparel Profiles"
+  },
+  {
+    "key": "edit_Food_profiles",
+    "type": 0,
+    "en": "Edit Food Profiles",
+    "vi": "Chỉnh sửa Food Profiles"
+  },
+  {
+    "key": "edit_Alcohol_profiles",
+    "type": 0,
+    "en": "Edit Alcohol Profiles",
+    "vi": "Chỉnh sửa Alcohol Profiles"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_clothing_only",
+    "type": 0,
+    "en": "Clothing Only",
+    "vi": "Chỉ mặc quần áo"
+  },
+  {
+    "key": "manageDefaultPreset_shield_all",
+    "type": 0,
+    "en": "All Shields",
+    "vi": "Tất cả Shields"
+  },
+  {
+    "key": "manageDefaultPreset_sheild_none",
+    "type": 0,
+    "en": "No Shields",
+    "vi": "Không Shields"
+  },
+  {
+    "key": "manageDefaultPreset_headware_all",
+    "type": 0,
+    "en": "All Headgear",
+    "vi": "Tất cả Headgear"
+  },
+  {
+    "key": "manageDefaultPreset_headware_none",
+    "type": 0,
+    "en": "No Headgear",
+    "vi": "Không Headgear"
+  },
+  {
+    "key": "manageDefaultPreset_headware_helmet",
+    "type": 0,
+    "en": "Helmet",
+    "vi": "Mũ sắt"
+  },
+  {
+    "key": "manageDefaultPreset_headware_cap",
+    "type": 0,
+    "en": "Cap",
+    "vi": "Mũ đội đầu"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_all",
+    "type": 0,
+    "en": "All Apparel",
+    "vi": "Tất cả Apparel"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_none",
+    "type": 0,
+    "en": "No Apparel",
+    "vi": "Không Apparel"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_winter",
+    "type": 0,
+    "en": "Winter",
+    "vi": "Mùa Đông"
+  },
+  {
+    "key": "manageDefaultPreset_apparel_summer",
+    "type": 0,
+    "en": "Summer",
+    "vi": "Mùa Hè"
+  },
+  {
+    "key": "manageDefaultPreset_food_all",
+    "type": 0,
+    "en": "All Food",
+    "vi": "Tất cả thực phẩm"
+  },
+  {
+    "key": "manageDefaultPreset_food_none",
+    "type": 0,
+    "en": "No Food",
+    "vi": "Không ăn gì"
+  },
+  {
+    "key": "manageDefaultPreset_food_raw",
+    "type": 0,
+    "en": "Raw",
+    "vi": "Thực phẩm tươi sống"
+  },
+  {
+    "key": "manageDefaultPreset_food_meal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Bữa ăn nấu chín"
+  },
+  {
+    "key": "manageDefaultPreset_food_cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Ăn thịt người"
+  },
+  {
+    "key": "manageDefaultPreset_stimulants_all",
+    "type": 0,
+    "en": "All Stimulants",
+    "vi": "Tất cả Stimulants"
+  },
+  {
+    "key": "manageDefaultPreset_stimulants_none",
+    "type": 0,
+    "en": "No Stimulants",
+    "vi": "Không Stimulants"
+  },
+  {
+    "key": "auto_equipped",
+    "type": 0,
+    "en": "Auto-equipped",
+    "vi": "Tự động-equipped"
+  },
+  {
+    "key": "manually_equipped",
+    "type": 0,
+    "en": "Force-equipped",
+    "vi": "Bắt buộc trang bị thủ công"
+  },
+  {
+    "key": "object_size",
+    "type": 0,
+    "en": "Structure Dimensions",
+    "vi": "Kết cấu Dimensions"
+  },
+  {
+    "key": "has_stability_to_build",
+    "type": 0,
+    "en": "Is connected to a stable structure",
+    "vi": "Là connected đến a stable kết cấu"
+  },
+  {
+    "key": "thermal_insulation",
+    "type": 0,
+    "en": "Thermal insulation",
+    "vi": "Cách nhiệt"
+  },
+  {
+    "key": "thermal_emission",
+    "type": 0,
+    "en": "Heat output",
+    "vi": "Nóng output"
+  },
+  {
+    "key": "historical_records_title",
+    "type": 0,
+    "en": "Historical Records",
+    "vi": "Hồ sơ lịch sử"
+  },
+  {
+    "key": "statistics_title",
+    "type": 0,
+    "en": "Statistics",
+    "vi": "Số liệu thống kê"
+  },
+  {
+    "key": "PopulationCount_title",
+    "type": 0,
+    "en": "Population Count",
+    "vi": "Số lượng dân cư"
+  },
+  {
+    "key": "TotalWealth_title",
+    "type": 0,
+    "en": "Total Wealth",
+    "vi": "Tổng tài sản"
+  },
+  {
+    "key": "FoodAmount_title",
+    "type": 0,
+    "en": "Food Stored",
+    "vi": "Lương thực lưu trữ"
+  },
+  {
+    "key": "PopulationCount_info",
+    "type": 0,
+    "en": "Number of settlers through time",
+    "vi": "Tổng số dân định cư hiện đang sinh sống tại ngôi làng."
+  },
+  {
+    "key": "TotalWealth_info",
+    "type": 0,
+    "en": "Combined value of resources and buildings through time",
+    "vi": "Tổng giá trị vật chất của công trình, vật phẩm và tài nguyên tích lũy."
+  },
+  {
+    "key": "FoodAmount_info",
+    "type": 0,
+    "en": "Combined nutrition stockpile amount through time",
+    "vi": "Số lượng khẩu phần ăn hiện có trong các kho lưu trữ."
+  },
+  {
+    "key": "play_time",
+    "type": 0,
+    "en": "Play time",
+    "vi": "Thời gian đã chơi"
+  },
+  {
+    "key": "days_from_start",
+    "type": 0,
+    "en": "Days from start",
+    "vi": "Days từ start"
+  },
+  {
+    "key": "lost_villagers",
+    "type": 0,
+    "en": "Lost settlers",
+    "vi": "Lost Dân làng"
+  },
+  {
+    "key": "max_villagers",
+    "type": 0,
+    "en": "Max settlers",
+    "vi": "Max Dân làng"
+  },
+  {
+    "key": "enemies_killed",
+    "type": 0,
+    "en": "Enemies killed",
+    "vi": "Kẻ thù killed"
+  },
+  {
+    "key": "enemies_total",
+    "type": 0,
+    "en": "Enemies total",
+    "vi": "Kẻ thù total"
+  },
+  {
+    "key": "villagers_died",
+    "type": 0,
+    "en": "Settlers lost",
+    "vi": "dân làng lost"
+  },
+  {
+    "key": "most_damage_delt",
+    "type": 0,
+    "en": "Greatest damage dealt by",
+    "vi": "Greatest sát thương dealt bởi"
+  },
+  {
+    "key": "worker_banish_event_log_type",
+    "type": 0,
+    "en": "Settler Banished",
+    "vi": "Dân làng bị trục xuất"
+  },
+  {
+    "key": "worker_banish_event_log_title",
+    "type": 0,
+    "en": "The Banishment of <name>",
+    "vi": "Lệnh trục xuất <name>"
+  },
+  {
+    "key": "worker_banish_event_log_info",
+    "type": 0,
+    "en": "<name> was banished. [He/She] was last seen going towards <origin>",
+    "vi": "<name> đã bị trục xuất. [He/She] được nhìn thấy lần cuối khi đang đi về hướng <origin>"
+  },
+  {
+    "key": "worker_died_event_log_type",
+    "type": 0,
+    "en": "Settler Died",
+    "vi": "Dân làng tử nạn"
+  },
+  {
+    "key": "worker_died_event_log_title",
+    "type": 0,
+    "en": "The Death of <name> <surname>",
+    "vi": "Cái chết của <name> <surname>"
+  },
+  {
+    "key": "worker_died_event_log_info",
+    "type": 0,
+    "en": "<name> died aged <age>...",
+    "vi": "<name> đã qua đời ở tuổi <age>..."
+  },
+  {
+    "key": "max_yield_time",
+    "type": 0,
+    "en": "Maximum yield in",
+    "vi": "Đạt sản lượng tối đa trong"
+  },
+  {
+    "key": "number_of_harvests",
+    "type": 0,
+    "en": "Number of harvests",
+    "vi": "Số lần thu hoạch"
+  },
+  {
+    "key": "world_map_forest_bandits",
+    "type": 0,
+    "en": "Forest bandits",
+    "vi": "Thổ phỉ rừng già"
+  },
+  {
+    "key": "world_map_progeny",
+    "type": 0,
+    "en": "Progeny",
+    "vi": "Hậu duệ"
+  },
+  {
+    "key": "ui_region_influence",
+    "type": 0,
+    "en": "Region influence",
+    "vi": "Uy danh khu vực"
+  },
+  {
+    "key": "village_yours",
+    "type": 0,
+    "en": "Your settlement",
+    "vi": "Khu định cư của bạn"
+  },
+  {
+    "key": "village_enemy",
+    "type": 0,
+    "en": "Enemy settlement",
+    "vi": "Khu định cư kẻ thù"
+  },
+  {
+    "key": "village_friendly",
+    "type": 0,
+    "en": "Friendly settlement",
+    "vi": "Khu định cư thân thiện"
+  },
+  {
+    "key": "InfluenceAmount_title",
+    "type": 0,
+    "en": "Influence",
+    "vi": "Uy danh"
+  },
+  {
+    "key": "InfluenceAmount_info",
+    "type": 0,
+    "en": "As your settlement grows, so does your influence in the region.\\n\\nTo gain influence, you must enrich your wealth by amassing resources and constructing buildings.\\nVictory in battle and repelling enemy raids increases your influence even faster.\\n\\nReaching 100% influence means your settlement is the most influential in the region.",
+    "vi": "Khi khu định cư phát triển, uy danh của bạn trong vùng cũng tăng theo.\\n\\nĐể gia tăng uy danh, bạn cần tích lũy của cải bằng cách thu thập tài nguyên và xây dựng công trình.\\nChiến thắng trong các trận đánh và đẩy lùi các cuộc đột kích của kẻ thù sẽ giúp gia tăng uy danh nhanh hơn nữa.\\n\\nĐạt 100% uy danh đồng nghĩa với việc khu định cư của bạn có tầm ảnh hưởng lớn nhất trong khu vực."
+  },
+  {
+    "key": "list_at_least",
+    "type": 0,
+    "en": "At least",
+    "vi": "Ít nhất"
+  },
+  {
+    "key": "list_at_exactly",
+    "type": 0,
+    "en": "Exactly",
+    "vi": "Chính xác"
+  },
+  {
+    "key": "date_time_details_title",
+    "type": 0,
+    "en": "Date and Time details",
+    "vi": "Chi tiết ngày giờ"
+  },
+  {
+    "key": "date_time_details_info",
+    "type": 0,
+    "en": "The year is split into four seasons that last 12 days each.\\n\\n<b>Spring</b>\\n - Moderate temperature. Rain and fog are frequent. Small chance of hailstorms.\\n\\n<b>Summer</b>\\n - High temperatures. Chance of heatwaves. Build underground storage to keep your food fresh during the hot summer days.\\n\\n<b>Autumn</b>\\n - Moderate temperature. Rain and fog are frequent. Chance of thunderstorms and hailstorms.\\n\\n<b>Winter</b>\\n - Low temperatures. High chance of snowfall and blizzards. Chance of cold snaps. Vegetation will not grow in low temperatures, so ensure that you sow and harvest as much as you can before winter starts.",
+    "vi": "Một năm được chia thành bốn mùa, mỗi mùa kéo dài 12 ngày.\\n\\n<b>Mùa xuân</b>\\n - Nhiệt độ ôn hòa. Thường xuyên có mưa và sương mù. Tỉ lệ nhỏ xuất hiện mưa đá.\\n\\n<b>Mùa hè</b>\\n - Nhiệt độ cao. Có nguy cơ xuất hiện các đợt nắng nóng. Hãy xây kho dưới lòng đất để giữ thực phẩm tươi ngon trong những ngày hè oi bức.\\n\\n<b>Mùa thu</b>\\n - Nhiệt độ vừa phải. Mưa và sương mù xuất hiện nhiều. Có khả năng xảy ra dông bão và mưa đá.\\n\\n<b>Mùa đông</b>\\n - Nhiệt độ thấp. Khả năng cao có tuyết rơi và bão tuyết. Nguy cơ xảy ra các đợt rét đậm. Cây cối sẽ không phát triển ở nhiệt độ thấp, vì vậy hãy đảm bảo bạn đã gieo trồng và thu hoạch thật nhiều trước khi mùa đông bắt đầu."
+  },
+  {
+    "key": "general_minute_short",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_hour_short",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "general_day_short",
+    "type": 0,
+    "en": "d",
+    "vi": "d"
+  },
+  {
+    "key": "general_year_short",
+    "type": 0,
+    "en": "y",
+    "vi": "y"
+  },
+  {
+    "key": "photo_save_location",
+    "type": 0,
+    "en": "Screenshot saved to",
+    "vi": "Ảnh chụp màn hình đã lưu vào"
+  },
+  {
+    "key": "add_new",
+    "type": 0,
+    "en": "Add new",
+    "vi": "Thêm mới"
+  },
+  {
+    "key": "add_conditions",
+    "type": 0,
+    "en": "Add conditions",
+    "vi": "Thêm điều kiện"
+  },
+  {
+    "key": "general_see_also",
+    "type": 0,
+    "en": "See also",
+    "vi": "Xem thêm"
+  },
+  {
+    "key": "related_topics",
+    "type": 0,
+    "en": "Related topics",
+    "vi": "Chủ đề liên quan"
+  },
+  {
+    "key": "healing_multiplier",
+    "type": 0,
+    "en": "Wound tending multiplier",
+    "vi": "Hệ số chăm sóc vết thương"
+  },
+  {
+    "key": "effector_on_use",
+    "type": 0,
+    "en": "Modifiers when used",
+    "vi": "Hiệu ứng khi sử dụng"
+  },
+  {
+    "key": "effector_proximity",
+    "type": 0,
+    "en": "Object with a modifier effect is nearby.",
+    "vi": "Vật thể mang hiệu ứng điều chỉnh đang ở gần."
+  },
+  {
+    "key": "effector_on_equip",
+    "type": 0,
+    "en": "Modifiers when equipped",
+    "vi": "Hiệu ứng khi trang bị"
+  },
+  {
+    "key": "unit_suffix_meters_per_second",
+    "type": 0,
+    "en": "m/s",
+    "vi": "m/s"
+  },
+  {
+    "key": "unit_suffix_percent",
+    "type": 0,
+    "en": "%",
+    "vi": "%"
+  },
+  {
+    "key": "unit_suffix_per_hour",
+    "type": 0,
+    "en": "/h",
+    "vi": "/h"
+  },
+  {
+    "key": "unit_suffix_times",
+    "type": 0,
+    "en": "x",
+    "vi": "x"
+  },
+  {
+    "key": "unit_suffix_per_second",
+    "type": 0,
+    "en": "/s",
+    "vi": "/s"
+  },
+  {
+    "key": "unit_suffix_hour",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "unit_suffix_second",
+    "type": 0,
+    "en": "s",
+    "vi": "s"
+  },
+  {
+    "key": "expires_in",
+    "type": 0,
+    "en": "Expires in",
+    "vi": "Hết hạn sau"
+  },
+  {
+    "key": "starting_conditions",
+    "type": 0,
+    "en": "Starting conditions",
+    "vi": "Điều kiện khởi đầu"
+  },
+  {
+    "key": "village_name",
+    "type": 0,
+    "en": "Settlement name",
+    "vi": "Tên khu định cư"
+  },
+  {
+    "key": "settlement_name",
+    "type": 0,
+    "en": "Settlement name",
+    "vi": "Tên khu định cư"
+  },
+  {
+    "key": "settlement_lb",
+    "type": 0,
+    "en": "Settlement",
+    "vi": "Khu định cư"
+  },
+  {
+    "key": "AllLayers_apply_order",
+    "type": 0,
+    "en": "All layers",
+    "vi": "Tất cả các tầng"
+  },
+  {
+    "key": "SingleLayer_apply_order",
+    "type": 0,
+    "en": "Single layer",
+    "vi": "Chỉ một tầng"
+  },
+  {
+    "key": "general_imminent",
+    "type": 0,
+    "en": "Imminent",
+    "vi": "Sắp xảy ra"
+  },
+  {
+    "key": "reserved_by",
+    "type": 0,
+    "en": "Reserved by",
+    "vi": "Được giữ chỗ bởi"
+  },
+  {
+    "key": "general_miss",
+    "type": 0,
+    "en": "Miss",
+    "vi": "Trượt"
+  },
+  {
+    "key": "general_search",
+    "type": 0,
+    "en": "Search",
+    "vi": "Tìm kiếm"
+  },
+  {
+    "key": "general_evade",
+    "type": 0,
+    "en": "Evade",
+    "vi": "Né tránh"
+  },
+  {
+    "key": "report_bug_quitting",
+    "type": 0,
+    "en": "Fatal Error!\nWe apologize for this. Please wait while log is sent to the developers. We strongly advise you to restart the application.\nIf problems  persist,  please quit and start a new game. ",
+    "vi": "Lỗi Nghiêm Trọng!\nThành thật xin lỗi vì sự cố này. Vui lòng chờ trong khi nhật ký lỗi được gửi tới nhà phát triển. Chúng tôi khuyên bạn nên khởi động lại trò chơi.\nNếu sự cố vẫn tiếp diễn, vui lòng thoát game và bắt đầu một màn chơi mới."
+  },
+  {
+    "key": "report_bug_connection_error",
+    "type": 0,
+    "en": "Connection error! \nWe're sorry but your lovingly-crafted report could not be sent. \nPlease try again, or use our Discord server to send your feedback or report a bug.  ",
+    "vi": "Lỗi kết nối!\nRất tiếc báo cáo phản hồi của bạn không thể gửi đi lúc này.\nVui lòng thử lại sau, hoặc tham gia máy chủ Discord của chúng tôi để gửi phản hồi và báo cáo lỗi."
+  },
+  {
+    "key": "general_unlock",
+    "type": 0,
+    "en": "Unlock",
+    "vi": "Mở khóa"
+  },
+  {
+    "key": "general_enter_text",
+    "type": 0,
+    "en": "Enter text",
+    "vi": "Nhập văn bản"
+  },
+  {
+    "key": "general_required_fields_info",
+    "type": 0,
+    "en": "Required fields",
+    "vi": "Các trường bắt buộc"
+  },
+  {
+    "key": "general_required_fields_symbol",
+    "type": 0,
+    "en": "*",
+    "vi": "*"
+  },
+  {
+    "key": "villager_constraint_NumberOfVillagers",
+    "type": 0,
+    "en": "Number of Settlers",
+    "vi": "Số lượng dân làng"
+  },
+  {
+    "key": "villager_constraint_Age",
+    "type": 0,
+    "en": "Age",
+    "vi": "Tuổi"
+  },
+  {
+    "key": "villager_constraint_Height",
+    "type": 0,
+    "en": "Height",
+    "vi": "Chiều cao"
+  },
+  {
+    "key": "villager_constraint_Weight",
+    "type": 0,
+    "en": "Weight",
+    "vi": "Cân nặng"
+  },
+  {
+    "key": "villager_constraint_ForceGender",
+    "type": 0,
+    "en": "Force Body Type",
+    "vi": "Cố định vóc dáng"
+  },
+  {
+    "key": "villager_constraint_ForceReligion",
+    "type": 0,
+    "en": "Force Religion",
+    "vi": "Cố định tôn giáo"
+  },
+  {
+    "key": "villager_constraint_DefaultClothes",
+    "type": 0,
+    "en": "Default Clothes",
+    "vi": "Trang phục mặc định"
+  },
+  {
+    "key": "villager_constraint_OverrideStats",
+    "type": 0,
+    "en": "Override Stats",
+    "vi": "Ghi đè chỉ số"
+  },
+  {
+    "key": "general_kg",
+    "type": 0,
+    "en": "kg",
+    "vi": "kg"
+  },
+  {
+    "key": "general_cm",
+    "type": 0,
+    "en": "cm",
+    "vi": "cm"
+  },
+  {
+    "key": "general_response",
+    "type": 0,
+    "en": "Response",
+    "vi": "Phản hồi"
+  },
+  {
+    "key": "running_away",
+    "type": 0,
+    "en": "Running away",
+    "vi": "Đang tháo chạy"
+  },
+  {
+    "key": "edit_Stimulants_profiles",
+    "type": 0,
+    "en": "Edit Stimulant Profiles",
+    "vi": "Chỉnh sửa hồ sơ chất kích thích"
+  }
+]

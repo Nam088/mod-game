@@ -1,0 +1,902 @@
+[
+  {
+    "key": "job_info_alchemy",
+    "type": 0,
+    "en": "Transmutation and isolation of materials for a multitude of uses. Produces items at:",
+    "vi": "Biến đổi và tinh chế các hợp chất vật liệu phục vụ muôn vàn mục đích sinh tồn và quân sự. Sản xuất tại:"
+  },
+  {
+    "key": "job_name_firefight",
+    "type": 0,
+    "en": "Firefight",
+    "vi": "Cứu Hỏa"
+  },
+  {
+    "key": "job_info_firefight",
+    "type": 0,
+    "en": "Quench fires near your settlement. Extinguish flames while they are small by stomping on them.",
+    "vi": "Dập tắt các đám cháy bùng phát gần khu định cư. Nhanh chóng dẫm đạp dập tắt ngọn lửa ngay khi chúng còn nhỏ."
+  },
+  {
+    "key": "job_preferences",
+    "type": 0,
+    "en": "Job preferences",
+    "vi": "Ưu Tiên Phân Công"
+  },
+  {
+    "key": "no_skill_book_message",
+    "type": 0,
+    "en": "You don't have any textbooks",
+    "vi": "Bạn hiện không có bất kỳ cuốn sách giáo khoa nào trong kho"
+  },
+  {
+    "key": "role_visitor_leaving",
+    "type": 0,
+    "en": "<faction_name> <role_name> is leaving your settlement",
+    "vi": "<role_name> của <faction_name> đang chuẩn bị rời khỏi khu định cư của bạn"
+  },
+  {
+    "key": "effector_name_NightOwlPerkEffector",
+    "type": 0,
+    "en": "Night time (Night owl perk)",
+    "vi": "Đêm Khuya (Đặc tính Cú Đêm)"
+  },
+  {
+    "key": "effector_name_AteLavishMealNegativePerkEffector",
+    "type": 0,
+    "en": "Ate an Exquisite Meal (Austere perk)",
+    "vi": "Ăn Bữa Ăn Thượng Hạng (Đặc tính Khắc Khổ)"
+  },
+  {
+    "key": "effector_name_AteWellNegativePerkEffector",
+    "type": 0,
+    "en": "Ate a Nice Meal (Austere perk)",
+    "vi": "Ăn Món Ngon (Đặc tính Khắc Khổ)"
+  },
+  {
+    "key": "effector_name_AteRawMealNegativePerkEffector",
+    "type": 0,
+    "en": "Ate Raw Food (Austere perk)",
+    "vi": "Ăn Thức Ăn Sống (Đặc tính Khắc Khổ)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkLowPerkEffector",
+    "type": 0,
+    "en": "Tipsy (Swigger perk)",
+    "vi": "Ngà Ngà Say (Đặc tính Bợm Rượu)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkMedPerkEffector",
+    "type": 0,
+    "en": "Drunk (Swigger perk)",
+    "vi": "Say Rượu (Đặc tính Bợm Rượu)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkHighPerkEffector",
+    "type": 0,
+    "en": "Legless (Swigger perk)",
+    "vi": "Say Mèm (Đặc tính Bợm Rượu)"
+  },
+  {
+    "key": "effector_name_InebriatedWorkVeryHighPerkEffector",
+    "type": 0,
+    "en": "Totally paralytic (Swigger perk)",
+    "vi": "Say Bí Tỉ Bất Tỉnh (Đặc tính Bợm Rượu)"
+  },
+  {
+    "key": "effector_name_InebriatedAttackStrenghtPerkEffector",
+    "type": 0,
+    "en": "Strength increase (Punch drunk perk)",
+    "vi": "Gia Tăng Sức Mạnh (Đặc tính Say Đòn)"
+  },
+  {
+    "key": "effector_name_ColdPositivePerkEffector",
+    "type": 0,
+    "en": "Cold (Cold hardy perk)",
+    "vi": "Giá Rét (Đặc tính Chịu Rét)"
+  },
+  {
+    "key": "effector_name_ChillyPositivePerkEffector",
+    "type": 0,
+    "en": "Chilly (Cold hardy perk)",
+    "vi": "Se Lạnh (Đặc tính Chịu Rét)"
+  },
+  {
+    "key": "effector_name_SweatyPositivePerkEffector",
+    "type": 0,
+    "en": "Sweaty (Heat resistant perk)",
+    "vi": "Đổ mồ hôi (đặc tính Chịu nóng)"
+  },
+  {
+    "key": "effector_name_HotPositivePerkEffector",
+    "type": 0,
+    "en": "Hot (Heat resistant perk)",
+    "vi": "Nóng (đặc tính Chịu nóng)"
+  },
+  {
+    "key": "effector_name_ChillyPerkEffector",
+    "type": 0,
+    "en": "Cold Sensitive (Chilly perk)",
+    "vi": "Nhạy cảm với lạnh (đặc tính Lạnh lẽo)"
+  },
+  {
+    "key": "effector_name_HotBloodedPerkEffector",
+    "type": 0,
+    "en": "Overheated (Hot-blooded perk)",
+    "vi": "Quá nóng (đặc tính Nóng máu)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomPerkEffector",
+    "type": 0,
+    "en": "Slept in shared quarters (Precious perk)",
+    "vi": "Ngủ trong phòng chung (đặc tính Quý giá)"
+  },
+  {
+    "key": "effector_name_SunSeekerDayPerkEffector",
+    "type": 0,
+    "en": "Sunny day (Sun seeker perk)",
+    "vi": "Ngày nắng (đặc tính Kẻ tìm nắng)"
+  },
+  {
+    "key": "effector_name_SnowWhiteSnowPerkEffector",
+    "type": 0,
+    "en": "Snow! (Snow White perk)",
+    "vi": "Tuyết! (đặc tính Bạch tuyết)"
+  },
+  {
+    "key": "effector_name_WashoutRainPerkEffector",
+    "type": 0,
+    "en": "Rainy day (Washout Perk)",
+    "vi": "Ngày mưa (đặc tính Ghét mưa)"
+  },
+  {
+    "key": "effector_info_NightOwlPerkEffector",
+    "type": 0,
+    "en": "I love the night time, when the stars pierce the dark sky. I wonder if society has it backwards, and we should really sleep in the day?",
+    "vi": "Tôi yêu màn đêm, khi những vì sao xuyên qua bầu trời tối. Có lẽ xã hội đã làm ngược mọi thứ, và chúng ta thật ra nên ngủ vào ban ngày?"
+  },
+  {
+    "key": "effector_info_AteLavishMealNegativePerkEffector",
+    "type": 0,
+    "en": "I would have preferred a simple, modest meal. Rich food does not agree with me.",
+    "vi": "Tôi thích một bữa ăn đơn giản, đạm bạc hơn. Đồ ăn thịnh soạn không hợp với tôi."
+  },
+  {
+    "key": "effector_info_AteWellNegativePerkEffector",
+    "type": 0,
+    "en": "I would have preferred a simple, modest meal. Excessive food does not agree with me.",
+    "vi": "Tôi thích một bữa ăn đơn giản, đạm bạc hơn. Ăn quá nhiều không hợp với tôi."
+  },
+  {
+    "key": "effector_info_AteRawMealNegativePerkEffector",
+    "type": 0,
+    "en": "Eating simple, raw food is best for the body, and for the soul. I feel healthy and righteous.",
+    "vi": "Ăn thức ăn đơn giản, sống là tốt nhất cho thể xác và tâm hồn. Tôi thấy mình khỏe mạnh và chính trực."
+  },
+  {
+    "key": "effector_info_InebriatedWorkLowPerkEffector",
+    "type": 0,
+    "en": "A little drink keeps me going through the day.",
+    "vi": "Một chút rượu giúp tôi trụ được suốt ngày."
+  },
+  {
+    "key": "effector_info_InebriatedWorkMedPerkEffector",
+    "type": 0,
+    "en": "I'm pretty sure the more I drink, the better I work.",
+    "vi": "Tôi khá chắc rằng càng uống nhiều, tôi càng làm việc tốt."
+  },
+  {
+    "key": "effector_info_InebriatedWorkHighPerkEffector",
+    "type": 0,
+    "en": "The work just flies by when I'm drunk. I barely notice how hard it is.",
+    "vi": "Công việc trôi qua vùn vụt khi tôi say. Tôi hầu như chẳng nhận ra nó khó đến mức nào."
+  },
+  {
+    "key": "effector_info_InebriatedWorkVeryHighPerkEffector",
+    "type": 0,
+    "en": "Just leave it to me! I can do it all! Just keep the drinks coming and I'll race like the wind!",
+    "vi": "Cứ để tôi lo! Tôi làm được hết! Cứ mang rượu đến đây, tôi sẽ nhanh như gió!"
+  },
+  {
+    "key": "effector_info_InebriatedAttackStrenghtPerkEffector",
+    "type": 0,
+    "en": "Liquid courage is flowing through my veins! I could kill a lion with my bare hands, I could take on an army...don't try to stop me!",
+    "vi": "Dòng máu can đảm đang chảy trong huyết quản tôi! Tôi có thể tay không giết sư tử, đối đầu cả một đội quân... đừng hòng ngăn tôi!"
+  },
+  {
+    "key": "effector_info_ColdPositivePerkEffector",
+    "type": 0,
+    "en": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me.\n",
+    "vi": "Khi trời se lạnh và giá buốt, bước chân tôi nhẹ nhàng hơn và các giác quan bừng tỉnh. Điều đó tiếp thêm năng lượng cho tôi.\n"
+  },
+  {
+    "key": "effector_info_ChillyPositivePerkEffector",
+    "type": 0,
+    "en": "When it's cool and frosty, I feel a spring in my step and my senses come alive. It energizes me.",
+    "vi": "Khi trời se lạnh và giá buốt, bước chân tôi nhẹ nhàng hơn và các giác quan bừng tỉnh. Điều đó tiếp thêm năng lượng cho tôi."
+  },
+  {
+    "key": "effector_info_SweatyPositivePerkEffector",
+    "type": 0,
+    "en": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element.",
+    "vi": "Tôi rất thích cái nóng, có thể phơi mình trong đó cả ngày. Cho tôi được ở ngoài vào mùa hè, tôi sẽ như cá gặp nước."
+  },
+  {
+    "key": "effector_info_HotPositivePerkEffector",
+    "type": 0,
+    "en": "I just love the heat, I could bask in it all day. Give me a chance to be out in the summertime and I'm in my element.",
+    "vi": "Tôi rất thích cái nóng, có thể phơi mình trong đó cả ngày. Cho tôi được ở ngoài vào mùa hè, tôi sẽ như cá gặp nước."
+  },
+  {
+    "key": "effector_info_SleptInSharedBedroomPerkEffector",
+    "type": 0,
+    "en": "I need my space, and I need everything just so. I really can't get a decent night's sleep in a shared room, and then I'm tired and grumpy all day.",
+    "vi": "Tôi cần không gian riêng và mọi thứ phải đâu vào đấy. Tôi thật sự không thể ngủ ngon trong phòng chung, rồi sẽ mệt mỏi và cáu kỉnh cả ngày."
+  },
+  {
+    "key": "effector_info_SunSeekerDayPerkEffector",
+    "type": 0,
+    "en": "There's simply nothing better than the warm rays of sunshine falling on my skin. I live for it, it brings me joy.",
+    "vi": "Chẳng có gì tuyệt hơn những tia nắng ấm áp rọi lên da tôi. Tôi sống vì điều đó, nó đem lại niềm vui cho tôi."
+  },
+  {
+    "key": "effector_info_SnowWhiteSnowPerkEffector",
+    "type": 0,
+    "en": "That beautiful, white blanket of snow cloaking the landscape in silence? To me, it's magical.",
+    "vi": "Tấm chăn tuyết trắng tuyệt đẹp phủ lên cảnh vật trong im lặng ư? Với tôi, nó thật kỳ diệu."
+  },
+  {
+    "key": "effector_info_WashoutRainPerkEffector",
+    "type": 0,
+    "en": "I don't like rain, it's wet and irritating and it gets everywhere.",
+    "vi": "Tôi không thích mưa, nó ẩm ướt, khó chịu và len lỏi khắp nơi."
+  },
+  {
+    "key": "general_skill_requirements",
+    "type": 0,
+    "en": "Skill needed",
+    "vi": "Kỹ năng cần thiết"
+  },
+  {
+    "key": "role_active_in_pte",
+    "type": 0,
+    "en": "This role can be utilised in events",
+    "vi": "Vai trò này có thể được dùng trong sự kiện"
+  },
+  {
+    "key": "resource_name_skill_book_animal_handling_01",
+    "type": 0,
+    "en": "<sprite=\"animalhandling\" name=\"animalhandling\"> The Aberdeen Bestiary",
+    "vi": "<sprite=\"animalhandling\" name=\"animalhandling\"> Bách khoa toàn thư động vật Aberdeen"
+  },
+  {
+    "key": "resource_name_skill_book_botanical_01",
+    "type": 0,
+    "en": "<sprite=\"botanical\" name=\"botanical\"> Old English Herbarium",
+    "vi": "<sprite=\"botanical\" name=\"botanical\"> Thảo dược Anh cổ"
+  },
+  {
+    "key": "resource_name_skill_book_carpentry_01",
+    "type": 0,
+    "en": "<sprite=\"carpentry\" name=\"carpentry\"> Against the grain",
+    "vi": "<sprite=\"carpentry\" name=\"carpentry\"> Ngược thớ gỗ"
+  },
+  {
+    "key": "resource_name_skill_book_construction_01",
+    "type": 0,
+    "en": "<sprite=\"construction\" name=\"construction\"> Honnicourt's Sketchbook",
+    "vi": "<sprite=\"construction\" name=\"construction\"> Sổ phác thảo của Honnicourt"
+  },
+  {
+    "key": "resource_name_skill_book_culinary_01",
+    "type": 0,
+    "en": "<sprite=\"culinary\" name=\"culinary\"> King of the Kitchen",
+    "vi": "<sprite=\"culinary\" name=\"culinary\"> Vua đầu bếp"
+  },
+  {
+    "key": "resource_name_skill_book_intelectual_01",
+    "type": 0,
+    "en": "<sprite=\"intelectual\" name=\"intelectual\"> Retractationes",
+    "vi": "<sprite=\"intelectual\" name=\"intelectual\"> Retractationes (Tự thuật cải chính)"
+  },
+  {
+    "key": "resource_name_skill_book_marksman_01",
+    "type": 0,
+    "en": "<sprite=\"marksman\" name=\"marksman\"> The School of Shooting",
+    "vi": "<sprite=\"marksman\" name=\"marksman\"> Nghệ thuật bắn cung"
+  },
+  {
+    "key": "resource_name_skill_book_medicine_01",
+    "type": 0,
+    "en": "<sprite=\"medicine\" name=\"medicine\"> Bald's Leechbook",
+    "vi": "<sprite=\"medicine\" name=\"medicine\"> Sách thuốc của Bald"
+  },
+  {
+    "key": "resource_name_skill_book_melee_01",
+    "type": 0,
+    "en": "<sprite=\"melee\" name=\"melee\"> Blooms of Battle",
+    "vi": "<sprite=\"melee\" name=\"melee\"> Hoa chiến trận"
+  },
+  {
+    "key": "resource_name_skill_book_smithing_01",
+    "type": 0,
+    "en": "<sprite=\"smithing\" name=\"smithing\"> De diversis artibus ",
+    "vi": "<sprite=\"smithing\" name=\"smithing\"> Về nhiều ngành thủ công "
+  },
+  {
+    "key": "resource_name_skill_book_speechcraft_01",
+    "type": 0,
+    "en": "<sprite=\"speechcraft\" name=\"speechcraft\"> De Oratore",
+    "vi": "<sprite=\"speechcraft\" name=\"speechcraft\"> Về thuật hùng biện"
+  },
+  {
+    "key": "resource_name_skill_book_tailoring_01",
+    "type": 0,
+    "en": "<sprite=\"tailoring\" name=\"tailoring\"> Thread and thimble",
+    "vi": "<sprite=\"tailoring\" name=\"tailoring\"> Kim chỉ và đường may"
+  },
+  {
+    "key": "resource_name_skill_book_mining_01",
+    "type": 0,
+    "en": "<sprite=\"mining\" name=\"mining\"> Venae Profundae",
+    "vi": "<sprite=\"mining\" name=\"mining\"> Mạch quặng sâu"
+  },
+  {
+    "key": "resource_name_skill_book_art_01",
+    "type": 0,
+    "en": "<sprite=\"art\" name=\"art\"> On embellishment",
+    "vi": "<sprite=\"art\" name=\"art\"> Về nghệ thuật trang trí"
+  },
+  {
+    "key": "resource_info_skill_book_animal_handling_01",
+    "type": 0,
+    "en": "All creatures great and small are detailed within this finely-illuminated bestiary.",
+    "vi": "Bách khoa toàn thư minh họa tinh xảo này mô tả mọi sinh vật lớn nhỏ."
+  },
+  {
+    "key": "resource_info_skill_book_botanical_01",
+    "type": 0,
+    "en": "All manner of wortcunning is detailed in this illustrated Materia Medica of plants.",
+    "vi": "Mọi phương pháp dùng thảo mộc đều được trình bày trong sách dược liệu minh họa về cây cỏ này."
+  },
+  {
+    "key": "resource_info_skill_book_carpentry_01",
+    "type": 0,
+    "en": "A randomly-assembled sheaf of diagrams sketched by a master carpenter for an unnamed apprentice.",
+    "vi": "Tập hợp các sơ đồ kỹ thuật mộc do một bậc thầy thợ mộc phác thảo truyền lại cho người học việc."
+  },
+  {
+    "key": "resource_info_skill_book_construction_01",
+    "type": 0,
+    "en": "A master illustrator's record of skills and devices used to build our greatest edifices.",
+    "vi": "Ghi chép kinh nghiệm của bậc thầy kiến trúc về kỹ xảo và các cấu trúc dựng nên những tòa thành đồ sộ nhất."
+  },
+  {
+    "key": "resource_info_skill_book_culinary_01",
+    "type": 0,
+    "en": "Cooking tips and recipes - reputedly from a king's own household chef.",
+    "vi": "Các công thức ẩm thực bí truyền và mẹo nấu nướng, tương truyền xuất thân từ chính bếp trưởng hoàng gia."
+  },
+  {
+    "key": "resource_info_skill_book_intelectual_01",
+    "type": 0,
+    "en": "Great thinker St Augustine's refelction on and evaluation of his own earlier works is a masterpiece worthy of deep study.",
+    "vi": "Những suy tưởng và khảo luận uyên thâm của triết gia vĩ đại Thánh Augustine, một kiệt tác học thuật xứng đáng để nghiền ngẫm sâu xa."
+  },
+  {
+    "key": "resource_info_skill_book_marksman_01",
+    "type": 0,
+    "en": "A manual detailing the minutia of archery. From draw path to posture, there is no finer guide.",
+    "vi": "Cẩm nang ghi chép tường tận từng vi tiết của thuật bắn cung: từ đường kéo cung, thế đứng cho tới canh gió, không có chỉ dẫn nào hoàn hảo hơn."
+  },
+  {
+    "key": "resource_info_skill_book_medicine_01",
+    "type": 0,
+    "en": "A hefty therapeutic guide to internal and external maladies, complete with remedies and charms.",
+    "vi": "Bộ sách y thuật đồ sộ về nội thương và ngoại bệnh, bao gồm đầy đủ phương thuốc bí truyền và câu thần chú chữa lành."
+  },
+  {
+    "key": "resource_info_skill_book_melee_01",
+    "type": 0,
+    "en": "A poetic training manual on the art of melee, with illustrations by the Italian maestros.",
+    "vi": "Cẩm nang võ học bằng thơ ca về nghệ thuật giao đấu gươm giáo cận chiến, kèm theo các hình vẽ minh họa sống động của các võ sư nước Ý."
+  },
+  {
+    "key": "resource_info_skill_book_smithing_01",
+    "type": 0,
+    "en": "Presbyter's guide to smithing includes detailed sections on gold, silver, copper, tin, and iron",
+    "vi": "Cẩm nang rèn đúc của Viện Trưởng, bao gồm các chương chi tiết về phương pháp luyện vàng, bạc, đồng, thiếc và sắt thép."
+  },
+  {
+    "key": "resource_info_skill_book_speechcraft_01",
+    "type": 0,
+    "en": "No greater tome hath ever pronounced upon speechcraft than this work by Cicero.",
+    "vi": "Không có bộ sách nào bàn về nghệ thuật hùng biện và thuật thuyết phục lòng người sâu sắc hơn tác phẩm bất hủ này của Cicero."
+  },
+  {
+    "key": "resource_info_skill_book_tailoring_01",
+    "type": 0,
+    "en": "A bible of stitchcraft and pattern-cutting for the artful bodkin.",
+    "vi": "Kinh thư chuẩn mực về nghệ thuật đường kim mũi chỉ và kỹ thuật cắt mẫu dành cho những người thợ may tài hoa."
+  },
+  {
+    "key": "resource_info_skill_book_mining_01",
+    "type": 0,
+    "en": "Drainage, assaying, smashing ores - this well-thumbed mining volume is comprehensive.",
+    "vi": "Kỹ thuật thoát nước mạch ngầm, thử nghiệm mẫu quặng, đập vỡ khoáng thạch — cuốn sách khai mỏ sờn gáy này bao quát toàn bộ tri thức trong lòng đất."
+  },
+  {
+    "key": "resource_info_skill_book_art_01",
+    "type": 0,
+    "en": "A fine work on how to master lavish illumination, with a focus on detail and gilding.",
+    "vi": "Tác phẩm tuyệt mỹ chỉ dẫn cách làm chủ nghệ thuật minh họa bản thảo xa hoa, chú trọng tỉ mỉ từng chi tiết và kỹ thuật dát vàng lá."
+  },
+  {
+    "key": "resource_group_Skillbooks",
+    "type": 0,
+    "en": "Textbooks",
+    "vi": "Sách Giáo Khoa & Kỹ Năng"
+  },
+  {
+    "key": "perk_name_Vigorous",
+    "type": 0,
+    "en": "Vigorous",
+    "vi": "Khỏe Mạnh Cường Tráng"
+  },
+  {
+    "key": "perk_name_Robust",
+    "type": 0,
+    "en": "Robust",
+    "vi": "Dẻo Dai"
+  },
+  {
+    "key": "perk_name_Infirm",
+    "type": 0,
+    "en": "Infirm",
+    "vi": "Ốm Yếu Xương Khớp"
+  },
+  {
+    "key": "perk_name_Moribund",
+    "type": 0,
+    "en": "Moribund",
+    "vi": "Hấp Hối Bệnh Tật"
+  },
+  {
+    "key": "perk_name_NightOwl",
+    "type": 0,
+    "en": "Night Owl",
+    "vi": "Cú Đêm"
+  },
+  {
+    "key": "perk_name_FortyWinks",
+    "type": 0,
+    "en": "Forty Winks",
+    "vi": "Ngủ Chợp Mắt"
+  },
+  {
+    "key": "perk_name_Somnolent",
+    "type": 0,
+    "en": "Somnolent",
+    "vi": "Hay Buồn Ngủ"
+  },
+  {
+    "key": "perk_name_EarlyBird",
+    "type": 0,
+    "en": "Early Bird",
+    "vi": "Dậy Sớm"
+  },
+  {
+    "key": "perk_name_Stout",
+    "type": 0,
+    "en": "Stout",
+    "vi": "Đẫy Đà Vững Chắc"
+  },
+  {
+    "key": "perk_name_Gluttonous",
+    "type": 0,
+    "en": "Gluttonous",
+    "vi": "Phàm Ăn"
+  },
+  {
+    "key": "perk_name_IronStomach",
+    "type": 0,
+    "en": "Iron Stomach",
+    "vi": "Dạ Dày Thép"
+  },
+  {
+    "key": "perk_name_Gourmet",
+    "type": 0,
+    "en": "Gourmet",
+    "vi": "Sành Ăn"
+  },
+  {
+    "key": "perk_name_Austere",
+    "type": 0,
+    "en": "Austere",
+    "vi": "Khắc Khổ Khổ Hạnh"
+  },
+  {
+    "key": "perk_name_Gobbler",
+    "type": 0,
+    "en": "Gobbler",
+    "vi": "Kẻ Ngốn Ngấu"
+  },
+  {
+    "key": "perk_name_Congenial",
+    "type": 0,
+    "en": "Congenial",
+    "vi": "Hòa Đồng Dễ Mến"
+  },
+  {
+    "key": "perk_name_Outgoing",
+    "type": 0,
+    "en": "Outgoing",
+    "vi": "Cởi Mở Nhiệt Thành"
+  },
+  {
+    "key": "perk_name_Churl",
+    "type": 0,
+    "en": "Churl",
+    "vi": "Cộc Cằn Thô Lỗ"
+  },
+  {
+    "key": "perk_name_Contemplative",
+    "type": 0,
+    "en": "Contemplative",
+    "vi": "Trầm Tư Mặc Tưởng"
+  },
+  {
+    "key": "perk_name_Industrious",
+    "type": 0,
+    "en": "Industrious",
+    "vi": "Cần Cù Chăm Chỉ"
+  },
+  {
+    "key": "perk_name_LordofMisrule",
+    "type": 0,
+    "en": "Lord of Misrule",
+    "vi": "Chúa Tể Hỗn Loạn"
+  },
+  {
+    "key": "perk_name_Hedonist",
+    "type": 0,
+    "en": "Hedonist",
+    "vi": "Ham Hưởng Lạc"
+  },
+  {
+    "key": "perk_name_Listless",
+    "type": 0,
+    "en": "Listless",
+    "vi": "Uể Oải Lờ Đờ"
+  },
+  {
+    "key": "perk_name_Benevolent",
+    "type": 0,
+    "en": "Benevolent",
+    "vi": "Nhân Từ Bác Ái"
+  },
+  {
+    "key": "perk_name_Ruthless",
+    "type": 0,
+    "en": "Ruthless",
+    "vi": "Tàn Nhẫn Không Nương Tay"
+  },
+  {
+    "key": "perk_name_Brawler",
+    "type": 0,
+    "en": "Brawler",
+    "vi": "Đấu Sĩ Đường Phố"
+  },
+  {
+    "key": "perk_name_Disfigured",
+    "type": 0,
+    "en": "Disfigured",
+    "vi": "Khuôn Mặt Biến Dạng"
+  },
+  {
+    "key": "perk_name_Illfavoured",
+    "type": 0,
+    "en": "Ill-favoured",
+    "vi": "Kém Nhan Sắc"
+  },
+  {
+    "key": "perk_name_Winsome",
+    "type": 0,
+    "en": "Winsome",
+    "vi": "Duyên Dáng Đáng Yêu"
+  },
+  {
+    "key": "perk_name_Fair",
+    "type": 0,
+    "en": "Fair",
+    "vi": "Thanh Tú Ưa Nhìn"
+  },
+  {
+    "key": "perk_name_Ravishing",
+    "type": 0,
+    "en": "Ravishing",
+    "vi": "Kiều Diễm Tuyệt Sắc"
+  },
+  {
+    "key": "perk_name_Swigger",
+    "type": 0,
+    "en": "Swigger",
+    "vi": "Bợm Rượu"
+  },
+  {
+    "key": "perk_name_PunchDrunk",
+    "type": 0,
+    "en": "Punch Drunk",
+    "vi": "Say Đòn Hung Hăng"
+  },
+  {
+    "key": "perk_name_Lightweight",
+    "type": 0,
+    "en": "Lightweight",
+    "vi": "Tửu Lượng Kém"
+  },
+  {
+    "key": "perk_name_HeatResistant",
+    "type": 0,
+    "en": "Heat resistant",
+    "vi": "Chịu Nóng Giỏi"
+  },
+  {
+    "key": "perk_name_ColdHardy",
+    "type": 0,
+    "en": "Cold hardy",
+    "vi": "Chịu Lạnh Bền Bỉ"
+  },
+  {
+    "key": "perk_name_HotBlooded",
+    "type": 0,
+    "en": "Hot-blooded",
+    "vi": "Huyết Khí Nóng Nảy"
+  },
+  {
+    "key": "perk_name_Chilly",
+    "type": 0,
+    "en": "Chilly",
+    "vi": "Sợ Lạnh Cóng"
+  },
+  {
+    "key": "perk_name_Vulnerable",
+    "type": 0,
+    "en": "Vulnerable",
+    "vi": "Dễ Tổn Thương"
+  },
+  {
+    "key": "perk_name_ElfShot",
+    "type": 0,
+    "en": "Elf Shot",
+    "vi": "Trúng Tên Yêu Tinh (Đau Nhức Bất Thần)"
+  },
+  {
+    "key": "perk_name_GreenThumb",
+    "type": 0,
+    "en": "Green Thumb",
+    "vi": "Mát Tay Trồng Trọt"
+  },
+  {
+    "key": "perk_name_Strapping",
+    "type": 0,
+    "en": "Strapping",
+    "vi": "Vạm Vỡ Lực Lưỡng"
+  },
+  {
+    "key": "perk_name_Wicche",
+    "type": 0,
+    "en": "Wicche",
+    "vi": "Tâm Hồn Phù Thủy"
+  },
+  {
+    "key": "perk_name_Ascetic",
+    "type": 0,
+    "en": "Ascetic",
+    "vi": "Khổ Hạnh"
+  },
+  {
+    "key": "perk_name_Dainty",
+    "type": 0,
+    "en": "Dainty",
+    "vi": "Thanh Mảnh Dịu Dàng"
+  },
+  {
+    "key": "perk_name_Precious",
+    "type": 0,
+    "en": "Precious",
+    "vi": "Yểu Điệu Quý Phái"
+  },
+  {
+    "key": "perk_name_Whirlwind",
+    "type": 0,
+    "en": "Whirlwind",
+    "vi": "Nhanh Tựa Cơn Lốc"
+  },
+  {
+    "key": "perk_name_FleetFooted",
+    "type": 0,
+    "en": "Fleet Footed",
+    "vi": "Thoăn Thoắt Đôi Chân"
+  },
+  {
+    "key": "perk_name_Brawny",
+    "type": 0,
+    "en": "Brawny",
+    "vi": "Cơ Bắp Cuồn Cuộn"
+  },
+  {
+    "key": "perk_name_Sluggardly",
+    "type": 0,
+    "en": "Sluggardly",
+    "vi": "Lười Biếng Chậm Chạp"
+  },
+  {
+    "key": "perk_name_Laggardly",
+    "type": 0,
+    "en": "Laggardly",
+    "vi": "Lề Mề Lạc Bước"
+  },
+  {
+    "key": "perk_name_Hefty",
+    "type": 0,
+    "en": "Hefty",
+    "vi": "To Cao Nặng Ký"
+  },
+  {
+    "key": "perk_name_SunSeeker",
+    "type": 0,
+    "en": "Sun Seeker",
+    "vi": "Thích Tắm Nắng"
+  },
+  {
+    "key": "perk_name_SnowWhite",
+    "type": 0,
+    "en": "Snow White",
+    "vi": "Bạch Tuyết (Thích Tuyết)"
+  },
+  {
+    "key": "perk_name_Washout",
+    "type": 0,
+    "en": "Washout",
+    "vi": "Ghét Mưa Gió"
+  },
+  {
+    "key": "perk_name_Dullard",
+    "type": 0,
+    "en": "Dullard",
+    "vi": "Chậm Hiểu Kém Thông Minh"
+  },
+  {
+    "key": "perk_name_Wise",
+    "type": 0,
+    "en": "Wise",
+    "vi": "Thông Thái Minh Triết"
+  },
+  {
+    "key": "perk_name_Erudite",
+    "type": 0,
+    "en": "Erudite",
+    "vi": "Uyên Bác Học Rộng"
+  },
+  {
+    "key": "perk_name_Bloodlust",
+    "type": 0,
+    "en": "Bloodlust",
+    "vi": "Khát Máu Cuồng Sát"
+  },
+  {
+    "key": "perk_name_Callous",
+    "type": 0,
+    "en": "Callous",
+    "vi": "Máu Lạnh Vô Cảm"
+  },
+  {
+    "key": "perk_name_Cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Ăn Thịt Người"
+  },
+  {
+    "key": "perk_name_Gossipmonger",
+    "type": 0,
+    "en": "Gossipmonger",
+    "vi": "Kẻ Thích Buôn Chuyện"
+  },
+  {
+    "key": "perk_name_BoneCollector",
+    "type": 0,
+    "en": "Bone Collector",
+    "vi": "Kẻ Thích Nhặt Xương"
+  },
+  {
+    "key": "perk_name_Macabre",
+    "type": 0,
+    "en": "Macabre",
+    "vi": "Say Mê Sự Ma Quái"
+  },
+  {
+    "key": "perk_name_Pyromancer",
+    "type": 0,
+    "en": "Pyromancer",
+    "vi": "Cuồng Phóng Hỏa"
+  },
+  {
+    "key": "perk_name_SweetToothed",
+    "type": 0,
+    "en": "Sweet-Toothed",
+    "vi": "Hảo Ngọt"
+  },
+  {
+    "key": "perk_name_Prophet",
+    "type": 0,
+    "en": "Prophet",
+    "vi": "Nhà Tiên Tri"
+  },
+  {
+    "key": "perk_name_Mudskipper",
+    "type": 0,
+    "en": "Mudskipper",
+    "vi": "Lội Bùn Giỏi"
+  },
+  {
+    "key": "perk_name_Flamekissed",
+    "type": 0,
+    "en": "Flamekissed",
+    "vi": "Hỏa Hôn (Tôi Luyện Trong Lửa)"
+  },
+  {
+    "key": "perk_name_Riverborn",
+    "type": 0,
+    "en": "Riverborn",
+    "vi": "Con Của Sông Nước"
+  },
+  {
+    "key": "perk_name_Workshy",
+    "type": 0,
+    "en": "Workshy",
+    "vi": "Ngại Khổ Lười Việc"
+  },
+  {
+    "key": "perk_name_Ironblood",
+    "type": 0,
+    "en": "Ironblood",
+    "vi": "Dòng Máu Thép"
+  },
+  {
+    "key": "perk_name_Bowdrunk",
+    "type": 0,
+    "en": "Bowdrunk",
+    "vi": "Cuồng Thuật Bắn Cung"
+  },
+  {
+    "key": "perk_name_Siegewise",
+    "type": 0,
+    "en": "Siegewise",
+    "vi": "Lão Luyện Công Thành"
+  },
+  {
+    "key": "perk_name_Wardenborn",
+    "type": 0,
+    "en": "Weardborn",
+    "vi": "Uy Quyền Quản Ngục"
+  },
+  {
+    "key": "perk_name_Pitiless",
+    "type": 0,
+    "en": "Pitiless",
+    "vi": "Không Khoan Nhượng"
+  },
+  {
+    "key": "perk_name_Wildwyrd",
+    "type": 0,
+    "en": "Wildwyrd",
+    "vi": "Huyết Thống Hoang Dã"
+  },
+  {
+    "key": "perk_name_Herbivore",
+    "type": 0,
+    "en": "Herbivore",
+    "vi": "Người Ăn Chay"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "key": "ingame_menu_resume",
+    "type": 0,
+    "en": "Resume",
+    "vi": "Tiếp Tục Trò Chơi"
+  },
+  {
+    "key": "ingame_menu_save",
+    "type": 0,
+    "en": "Save",
+    "vi": "Lưu Trò Chơi"
+  },
+  {
+    "key": "menu_language",
+    "type": 0,
+    "en": "Language",
+    "vi": "Ngôn Ngữ"
+  },
+  {
+    "key": "menu_language_Chinese",
+    "type": 0,
+    "en": "简体中文",
+    "vi": "简体中文"
+  },
+  {
+    "key": "menu_language_French",
+    "type": 0,
+    "en": "Français",
+    "vi": "Français"
+  },
+  {
+    "key": "menu_language_German",
+    "type": 0,
+    "en": "Deutsch",
+    "vi": "Deutsch"
+  },
+  {
+    "key": "menu_language_Spanish",
+    "type": 0,
+    "en": "Español",
+    "vi": "Español"
+  },
+  {
+    "key": "menu_language_Russian",
+    "type": 0,
+    "en": "Русский",
+    "vi": "Русский"
+  },
+  {
+    "key": "menu_language_Japanese",
+    "type": 0,
+    "en": "日本語",
+    "vi": "日本語"
+  },
+  {
+    "key": "menu_language_Portuguese",
+    "type": 0,
+    "en": "Português brasileiro",
+    "vi": "Português brasileiro"
+  },
+  {
+    "key": "menu_language_English",
+    "type": 0,
+    "en": "English",
+    "vi": "English"
+  },
+  {
+    "key": "menu_language_Korean",
+    "type": 0,
+    "en": "한국어",
+    "vi": "한국어"
+  },
+  {
+    "key": "menu_language_Polish",
+    "type": 0,
+    "en": "Polski",
+    "vi": "Polski"
+  },
+  {
+    "key": "menu_language_Turkish",
+    "type": 0,
+    "en": "Türkçe",
+    "vi": "Türkçe"
+  },
+  {
+    "key": "menu_load",
+    "type": 0,
+    "en": "Load",
+    "vi": "Tải Bản Lưu Game"
+  },
+  {
+    "key": "menu_main_menu",
+    "type": 0,
+    "en": "Main Menu",
+    "vi": "Menu Chính"
+  },
+  {
+    "key": "menu_options",
+    "type": 0,
+    "en": "Options",
+    "vi": "Tùy Chỉnh Cài Đặt"
+  },
+  {
+    "key": "menu_quit",
+    "type": 0,
+    "en": "Quit",
+    "vi": "Thoát"
+  },
+  {
+    "key": "screen_settings_description",
+    "type": 0,
+    "en": "Do you want to keep these settings? ",
+    "vi": "Bạn có muốn giữ các cài đặt này không? "
+  },
+  {
+    "key": "menu_map_seed",
+    "type": 0,
+    "en": "Random Seed",
+    "vi": "Mã hạt giống bản đồ"
+  },
+  {
+    "key": "menu_region_map_seed",
+    "type": 0,
+    "en": "Region Seed",
+    "vi": "Mã vùng bản đồ"
+  },
+  {
+    "key": "menu_map_seed_placeholder",
+    "type": 0,
+    "en": "Type any text",
+    "vi": "Nhập ký tự bất kỳ"
+  },
+  {
+    "key": "menu_mirror_horizontal",
+    "type": 0,
+    "en": "Flip X",
+    "vi": "Lật ngang (X)"
+  },
+  {
+    "key": "menu_mirror_vertical",
+    "type": 0,
+    "en": "Flip Y",
+    "vi": "Lật dọc (Y)"
+  },
+  {
+    "key": "menu_new_game",
+    "type": 0,
+    "en": "New Game",
+    "vi": "Màn chơi mới"
+  },
+  {
+    "key": "menu_patterns",
+    "type": 0,
+    "en": "Patterns",
+    "vi": "Hoa văn"
+  },
+  {
+    "key": "menu_randomise",
+    "type": 0,
+    "en": "Randomize",
+    "vi": "Ngẫu nhiên"
+  },
+  {
+    "key": "menu_rotate",
+    "type": 0,
+    "en": "Rotate",
+    "vi": "Xoay"
+  },
+  {
+    "key": "menu_saturation",
+    "type": 0,
+    "en": "Saturation",
+    "vi": "Độ bão hòa"
+  },
+  {
+    "key": "menu_scale",
+    "type": 0,
+    "en": "Scale",
+    "vi": "Tỷ lệ"
+  },
+  {
+    "key": "menu_location",
+    "type": 0,
+    "en": "Location",
+    "vi": "Địa điểm"
+  },
+  {
+    "key": "menu_starting_conditions",
+    "type": 0,
+    "en": "Starting conditions",
+    "vi": "Điều kiện khởi đầu"
+  },
+  {
+    "key": "menu_allowed_objectives",
+    "type": 0,
+    "en": "Allowed Objectives",
+    "vi": "Mục tiêu cho phép"
+  },
+  {
+    "key": "menu_allowed_obejctives_description",
+    "type": 0,
+    "en": "Mark which objectives are possible in this scenario. Note that this cannot be changed once the scenario is under way.",
+    "vi": "Chọn những mục tiêu có thể xuất hiện trong kịch bản này. Lưu ý: Không thể thay đổi sau khi màn chơi đã bắt đầu."
+  },
+  {
+    "key": "menu_summary",
+    "type": 0,
+    "en": "Summary",
+    "vi": "Tổng quan"
+  },
+  {
+    "key": "menu_shapes",
+    "type": 0,
+    "en": "Shapes",
+    "vi": "Hình dạng"
+  },
+  {
+    "key": "menu_symbols",
+    "type": 0,
+    "en": "Symbols",
+    "vi": "Biểu tượng"
+  },
+  {
+    "key": "menu_transform",
+    "type": 0,
+    "en": "Transform",
+    "vi": "Biến đổi"
+  },
+  {
+    "key": "menu_translate_x",
+    "type": 0,
+    "en": "Translate X",
+    "vi": "Dịch trục X"
+  },
+  {
+    "key": "menu_translate_y",
+    "type": 0,
+    "en": "Translate Y",
+    "vi": "Dịch trục Y"
+  },
+  {
+    "key": "menu_village_name",
+    "type": 0,
+    "en": "Settlement Name",
+    "vi": "Tên khu định cư"
+  },
+  {
+    "key": "menu_worker_name_placeholder",
+    "type": 0,
+    "en": "Type any name",
+    "vi": "Nhập tên bất kỳ"
+  },
+  {
+    "key": "menu_workers",
+    "type": 0,
+    "en": "Workers",
+    "vi": "Dân làng"
+  },
+  {
+    "key": "menu_color",
+    "type": 0,
+    "en": "Colour",
+    "vi": "Màu sắc"
+  },
+  {
+    "key": "menu_starting_characters",
+    "type": 0,
+    "en": "Starting Characters",
+    "vi": "Nhân vật khởi đầu"
+  },
+  {
+    "key": "menu_heraldry",
+    "type": 0,
+    "en": "Heraldry",
+    "vi": "Huy hiệu"
+  },
+  {
+    "key": "menu_hue",
+    "type": 0,
+    "en": "Hue",
+    "vi": "Sắc độ"
+  },
+  {
+    "key": "options_ui_size_Smallest",
+    "type": 0,
+    "en": "Smallest ",
+    "vi": "Rất nhỏ "
+  },
+  {
+    "key": "options_ui_size_Small",
+    "type": 0,
+    "en": "Small",
+    "vi": "Nhỏ"
+  },
+  {
+    "key": "options_ui_size_Normal",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Bình thường"
+  },
+  {
+    "key": "options_ui_size_Large",
+    "type": 0,
+    "en": "Large",
+    "vi": "Lớn"
+  },
+  {
+    "key": "options_ui_size_Largest",
+    "type": 0,
+    "en": "Largest",
+    "vi": "Rất lớn"
+  },
+  {
+    "key": "options_graphics",
+    "type": 0,
+    "en": "Graphics",
+    "vi": "Đồ họa"
+  },
+  {
+    "key": "options_audio",
+    "type": 0,
+    "en": "Audio",
+    "vi": "Âm thanh"
+  },
+  {
+    "key": "options_game",
+    "type": 0,
+    "en": "Game",
+    "vi": "Trò chơi"
+  },
+  {
+    "key": "options_credits",
+    "type": 0,
+    "en": "Credits",
+    "vi": "Đội ngũ"
+  },
+  {
+    "key": "options_visibleInBackground",
+    "type": 0,
+    "en": "Visible In Background",
+    "vi": "Hiển thị hình ảnh khi chạy ngầm"
+  },
+  {
+    "key": "options_shadowQuality",
+    "type": 0,
+    "en": "Shadow Quality",
+    "vi": "Chất lượng bóng đổ"
+  },
+  {
+    "key": "options_softParticles",
+    "type": 0,
+    "en": "Soft Particles",
+    "vi": "Hạt mềm"
+  },
+  {
+    "key": "options_antiAliasing",
+    "type": 0,
+    "en": "Anti Aliasing",
+    "vi": "Khử răng cưa"
+  },
+  {
+    "key": "options_enviroment_footprints",
+    "type": 0,
+    "en": "Footprints",
+    "vi": "Dấu chân"
+  },
+  {
+    "key": "options_enviroment_footprints_info",
+    "type": 0,
+    "en": "Both humans and animals leave footprints and stir up dust.",
+    "vi": "Cả người và động vật đều để lại dấu chân cùng cát bụi trên đường đi."
+  },
+  {
+    "key": "options_enviroment_birds",
+    "type": 0,
+    "en": "Bird Flocks",
+    "vi": "Đàn chim"
+  },
+  {
+    "key": "options_enviroment_birds_info",
+    "type": 0,
+    "en": "Wild birds fly above settlements, around carcasses, and from trees being felled. Domestic birds, like chickens, are unaffected.",
+    "vi": "Chim hoang dã bay lượn trên khu định cư, quanh xác động vật và bay lên khi cây bị đốn hạ. Gia cầm như gà sẽ không bị ảnh hưởng."
+  },
+  {
+    "key": "options_enviroment_particles",
+    "type": 0,
+    "en": "Environment Particles",
+    "vi": "Hiệu ứng môi trường"
+  },
+  {
+    "key": "options_enviroment_particles_info",
+    "type": 0,
+    "en": "Particles like leaves and twigs fly from felled trees, and dust clouds are carried on the wind. Weather effects, like rain and fog, are unaffected.",
+    "vi": "Lá cây và cành con bay rụng khi đốn cây, bụi cát cuộn theo gió. Các hiệu ứng thời tiết như mưa và sương mù không bị ảnh hưởng."
+  },
+  {
+    "key": "options_motionBlur",
+    "type": 0,
+    "en": "Motion Blur",
+    "vi": "Làm mờ chuyển động"
+  },
+  {
+    "key": "options_ambientOcclusion",
+    "type": 0,
+    "en": "Ambient Occlusion",
+    "vi": "Đổ bóng môi trường"
+  },
+  {
+    "key": "options_bloom",
+    "type": 0,
+    "en": "Bloom",
+    "vi": "Lóa sáng"
+  },
+  {
+    "key": "options_vSync_everyBlock",
+    "type": 0,
+    "en": "Every Block",
+    "vi": "Mỗi khung hình"
+  },
+  {
+    "key": "options_vSync_everySecondBlock",
+    "type": 0,
+    "en": "Every Second Block",
+    "vi": "Cách một khung hình"
+  },
+  {
+    "key": "options_sun_shafts",
+    "type": 0,
+    "en": "Sunbeams",
+    "vi": "Tia nắng mặt trời"
+  },
+  {
+    "key": "options_aa_FXAA",
+    "type": 0,
+    "en": "FXAA",
+    "vi": "FXAA"
+  },
+  {
+    "key": "options_aa_SMAA_low",
+    "type": 0,
+    "en": "SMAA low",
+    "vi": "SMAA thấp"
+  },
+  {
+    "key": "options_aa_SMAA_medium",
+    "type": 0,
+    "en": "SMAA medium",
+    "vi": "SMAA vừa"
+  },
+  {
+    "key": "options_aa_SMAA_high",
+    "type": 0,
+    "en": "SMAA high",
+    "vi": "SMAA cao"
+  },
+  {
+    "key": "options_FrameRate",
+    "type": 0,
+    "en": "Framerate cap",
+    "vi": "Giới hạn khung hình"
+  },
+  {
+    "key": "menu_roadmap",
+    "type": 0,
+    "en": "Roadmap",
+    "vi": "Lộ trình"
+  },
+  {
+    "key": "menu_patchnotes",
+    "type": 0,
+    "en": "Patch Notes",
+    "vi": "Ghi chú bản vá"
+  },
+  {
+    "key": "menu_changelog",
+    "type": 0,
+    "en": "Changelog",
+    "vi": "Nhật ký thay đổi"
+  },
+  {
+    "key": "menu_new_update",
+    "type": 0,
+    "en": "New features in this update",
+    "vi": "Tính năng mới trong bản cập nhật này"
+  },
+  {
+    "key": "options_playlist_pause",
+    "type": 0,
+    "en": "Music Playlist Pause",
+    "vi": "Tạm dừng nhạc khi chạy ngầm"
+  },
+  {
+    "key": "options_runInbackground",
+    "type": 0,
+    "en": "Run In Background",
+    "vi": "Tiếp tục chạy khi mất tiêu điểm"
+  },
+  {
+    "key": "options_sendAutoReport",
+    "type": 0,
+    "en": "Send Crash Report",
+    "vi": "Gửi báo cáo lỗi"
+  },
+  {
+    "key": "options_camera_target_visuals",
+    "type": 0,
+    "en": "Camera target visuals",
+    "vi": "Hiển thị tâm ngắm camera"
+  },
+  {
+    "key": "options_camera_target_visuals_info",
+    "type": 0,
+    "en": "Toggle visuals that represent the camera's target. Visuals will appear only while the camera is moving/zooming/orbiting.",
+    "vi": "Bật/tắt biểu tượng hiển thị tâm ngắm của camera. Biểu tượng chỉ xuất hiện khi camera đang di chuyển, thu phóng hoặc xoay."
+  },
+  {
+    "key": "options_camera_target_visuals_duration",
+    "type": 0,
+    "en": "Camera target visuals duration",
+    "vi": "Thời gian hiện tâm ngắm camera"
+  },
+  {
+    "key": "options_camera_target_visuals_duration_info",
+    "type": 0,
+    "en": "How long camera target visuals remain on screen after the camera action stops.",
+    "vi": "Thời gian tâm ngắm camera tiếp tục hiển thị trên màn hình sau khi dừng thao tác camera."
+  },
+  {
+    "key": "options_coyote_time",
+    "type": 0,
+    "en": "Coyote time",
+    "vi": "Độ trễ mép vực"
+  },
+  {
+    "key": "options_coyote_time_info",
+    "type": 0,
+    "en": "The amount of time the camera target stays airborne when going off a cliff. If camera target visuals are enabled, this is represented by a white line from the target visuals to the next layer the camera target jumps to.",
+    "vi": "Khoảng thời gian tâm ngắm camera duy trì độ cao khi lướt qua mép vực. Nếu bật hiển thị tâm ngắm, đường kẻ trắng sẽ nối từ vị trí hiện tại đến tầng tiếp theo mà camera đáp xuống."
+  },
+  {
+    "key": "options_camera_shake",
+    "type": 0,
+    "en": "Camera Shake",
+    "vi": "Rung chấn camera"
+  },
+  {
+    "key": "options_camera_shake_info",
+    "type": 0,
+    "en": "Toggles whether or not the camera will shake",
+    "vi": "Bật/tắt hiệu ứng rung chấn của camera"
+  },
+  {
+    "key": "options_camera_settings",
+    "type": 0,
+    "en": "Camera Settings",
+    "vi": "Cài đặt camera"
+  },
+  {
+    "key": "ingame_menu_camera_settings",
+    "type": 0,
+    "en": "Camera Settings",
+    "vi": "Cài đặt camera"
+  },
+  {
+    "key": "options_legacy_camera",
+    "type": 0,
+    "en": "Legacy Mode",
+    "vi": "Chế Độ Camera Cổ Điển"
+  },
+  {
+    "key": "options_legacy_camera_info",
+    "type": 0,
+    "en": "Toggles legacy mode where the camera operates as it did in the original game build. Enabling legacy mode disables all other more recently-added camera features ",
+    "vi": "Bật chế độ camera hoạt động như các phiên bản đầu tiên của game. Bật tùy chọn này sẽ vô hiệu hóa các tính năng camera mới."
+  },
+  {
+    "key": "options_twitch",
+    "type": 0,
+    "en": "Twitch",
+    "vi": "Tích Hợp Livestream Twitch"
+  },
+  {
+    "key": "menu_loading",
+    "type": 0,
+    "en": "Loading",
+    "vi": "Đang Tải Dữ Liệu..."
+  },
+  {
+    "key": "menu_migrating",
+    "type": 0,
+    "en": "Migrating",
+    "vi": "Đang Chuyển Đổi Dữ Liệu Lưu..."
+  },
+  {
+    "key": "menu_alcohol",
+    "type": 0,
+    "en": "Alcohol Requirement",
+    "vi": "Nhu Cầu Rượu Bia"
+  },
+  {
+    "key": "info_menu_alcohol",
+    "type": 0,
+    "en": "The amount of alcohol a settler requires. If this need is not met, the settler will be unhappy.",
+    "vi": "Lượng rượu bia dân làng cần uống. Nếu không được đáp ứng, dân làng sẽ cảm thấy buồn bực và giảm tâm trạng."
+  },
+  {
+    "key": "info_menu_faith",
+    "type": 0,
+    "en": "The amount of religious activity this settler requires. Settlers aligned farther from the center will need religious activities more often. If this need is not met, the settler will be unhappy.",
+    "vi": "Nhu cầu cầu nguyện và tham gia nghi lễ tôn giáo. Những người có đức tin càng sâu đậm sẽ cần cầu nguyện thường xuyên hơn. Nếu không được đáp ứng, họ sẽ cảm thấy bất an."
+  },
+  {
+    "key": "menu_faith",
+    "type": 0,
+    "en": "Religious Activities",
+    "vi": "Nghi Lễ Tôn Giáo"
+  },
+  {
+    "key": "menu_entertaiment",
+    "type": 0,
+    "en": "Entertainment Activities",
+    "vi": "Hoạt Động Giải Trí"
+  },
+  {
+    "key": "info_menu_entertaiment",
+    "type": 0,
+    "en": "The amount of entertainment activity a settler requires. If this need is not met, the settler will be unhappy.",
+    "vi": "Nhu cầu vui chơi giải trí của dân làng. Nếu không được đáp ứng, họ sẽ cảm thấy tẻ nhạt và bất mãn."
+  },
+  {
+    "key": "menu_stomach",
+    "type": 0,
+    "en": "Stomach",
+    "vi": "Sức Khỏe Dạ Dày"
+  },
+  {
+    "key": "info_menu_stomach",
+    "type": 0,
+    "en": "This indicates how well this settler’s stomach is. Drinking alcohol and eating raw food especially meat can cause stomach upsets. If this number reaches 0 the settler will vomit. Carcasses and rotten piles can make the stomach turn as well.",
+    "vi": "Tình trạng sức khỏe hệ tiêu hóa của dân làng. Uống nhiều rượu và ăn thực phẩm sống (đặc biệt là thịt sống) sẽ gây đau bụng tiêu chảy. Nếu tụt về 0, dân làng sẽ nôn mửa liên tục."
+  },
+  {
+    "key": "info_menu_blood",
+    "type": 0,
+    "en": "The amount of blood a person or animal has. Losing blood can result in the villager losing consciousness or if it reaches 0% the settler will die.",
+    "vi": "Lượng máu trong cơ thể của người hoặc động vật. Mất máu nghiêm trọng sẽ dẫn đến bất tỉnh; nếu cạn kiệt (0%), đối tượng sẽ tử vong."
+  },
+  {
+    "key": "info_menu_consciousness",
+    "type": 0,
+    "en": "The amount of consciousness a person or animal has. Losing consciousness can result in loss of motor functions. If it reaches 0% the settler will faint.",
+    "vi": "Mức độ tỉnh táo và nhận thức. Mất ý thức sẽ khiến cơ thể tê liệt không thể vận động; nếu tụt về 0%, họ sẽ ngất lịm."
+  },
+  {
+    "key": "info_menu_health",
+    "type": 0,
+    "en": "The amount of damage a person, animal or object can take before dying.",
+    "vi": "Chỉ số sinh lực (máu/HP) tối đa trước khi tử vong hoặc bị phá hủy."
+  },
+  {
+    "key": "info_menu_hunger",
+    "type": 0,
+    "en": "Food: The amount of nutrition that is consumed. If it reaches 0% the settler will enter starvation mode and eventually die.",
+    "vi": "Mức độ no bụng của dân làng. Nếu cạn kiệt (0%), dân làng sẽ rơi vào tình trạng chết đói và dần dần mất mạng."
+  },
+  {
+    "key": "info_menu_pain",
+    "type": 0,
+    "en": "The amount of pain the settler is experiencing at that moment. Large amounts of pain will result in loss of consciousness.",
+    "vi": "Mức độ đau đớn thể xác mà đối tượng đang gánh chịu. Đau đớn vượt ngưỡng chịu đựng sẽ làm mất ý thức ngất xỉu."
+  },
+  {
+    "key": "info_menu_rot",
+    "type": 0,
+    "en": "Resource pile freshness. When it reaches 0%, this pile will become rotten.",
+    "vi": "Độ tươi mới của tài nguyên thực phẩm. Khi tụt về 0%, đống tài nguyên sẽ ôi thiu và phân hủy thành đồ hỏng."
+  },
+  {
+    "key": "info_menu_sleep",
+    "type": 0,
+    "en": "Sleep: Amount of sleep the settler has had. If it reaches 0% the settler will faint.",
+    "vi": "Mức độ phục hồi qua giấc ngủ. Nếu cạn kiệt (0%), dân làng sẽ gục ngã vì kiệt sức."
+  },
+  {
+    "key": "info_menu_storage",
+    "type": 0,
+    "en": "Storage amount: The amount of resources stored in this pile.",
+    "vi": "Sức chứa tài nguyên hiện tại trong đống đồ."
+  },
+  {
+    "key": "menu_health",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Sinh Lực (HP)"
+  },
+  {
+    "key": "menu_hit_points",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Độ Bền / Sinh Lực"
+  },
+  {
+    "key": "menu_consciousness",
+    "type": 0,
+    "en": "Consciousness",
+    "vi": "Ý Thức Tỉnh Táo"
+  },
+  {
+    "key": "menu_sleep",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Nhu Cầu Giấc Ngủ"
+  },
+  {
+    "key": "menu_blood",
+    "type": 0,
+    "en": "Blood",
+    "vi": "Lượng Máu Cơ Thể"
+  },
+  {
+    "key": "menu_TemperatureHot",
+    "type": 0,
+    "en": "Temperature Hot",
+    "vi": "Ngưỡng Chịu Nóng"
+  },
+  {
+    "key": "menu_TemperatureCold",
+    "type": 0,
+    "en": "Temperature Cold",
+    "vi": "Ngưỡng Chịu Lạnh"
+  },
+  {
+    "key": "menu_ReligiousAlignment",
+    "type": 0,
+    "en": "Religious Alignment",
+    "vi": "Khuynh Hướng Tôn Giáo"
+  },
+  {
+    "key": "menu_Inebriated",
+    "type": 0,
+    "en": "Inebriated",
+    "vi": "Tình Trạng Say Xỉn"
+  },
+  {
+    "key": "menu_Canibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Thói Quen Ăn Thịt Người"
+  },
+  {
+    "key": "menu_character_age",
+    "type": 0,
+    "en": "Age",
+    "vi": "Tuổi Tác"
+  },
+  {
+    "key": "menu_character_hight",
+    "type": 0,
+    "en": "Height",
+    "vi": "Chiều Cao"
+  },
+  {
+    "key": "menu_character_incapable",
+    "type": 0,
+    "en": "Incapable of",
+    "vi": "Không Có Khả Năng Làm"
+  },
+  {
+    "key": "menu_character_name",
+    "type": 0,
+    "en": "Name",
+    "vi": "Tên"
+  },
+  {
+    "key": "menu_character_surname",
+    "type": 0,
+    "en": "Surname",
+    "vi": "Họ"
+  },
+  {
+    "key": "menu_character_religious",
+    "type": 0,
+    "en": "Religious Alignment",
+    "vi": "Khuynh Hướng Tôn Giáo"
+  },
+  {
+    "key": "menu_character_societal",
+    "type": 0,
+    "en": "Societal Alignment",
+    "vi": "Khuynh Hướng Xã Hội"
+  },
+  {
+    "key": "menu_character_weight",
+    "type": 0,
+    "en": "Weight",
+    "vi": "Cân Nặng"
+  },
+  {
+    "key": "menu_Pain",
+    "type": 0,
+    "en": "Pain",
+    "vi": "Cơn Đau Đớn"
+  },
+  {
+    "key": "menu_comfort",
+    "type": 0,
+    "en": "Comfort",
+    "vi": "Độ Tiện Nghi Thoải Mái"
+  },
+  {
+    "key": "info_menu_comfort",
+    "type": 0,
+    "en": "The settler's comfort level. Better beds, chairs and clothes will result in a higher value. Increased comfort will give positive mood modifiers.",
+    "vi": "Mức độ tiện nghi của dân làng. Giường nệm êm ái, bàn ghế đẹp và y phục cao cấp sẽ gia tăng chỉ số này, mang lại nhiều hiệu ứng tâm trạng tích cực."
+  },
+  {
+    "key": "menu_beauty_points",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Giá Trị Thẩm Mỹ"
+  },
+  {
+    "key": "menu_beauty_points_on_ground",
+    "type": 0,
+    "en": "on ground",
+    "vi": "vứt trên nền đất"
+  },
+  {
+    "key": "menu_beauty_points_on_shelf",
+    "type": 0,
+    "en": "on rack/shelf",
+    "vi": "bài trí trên giá kệ"
+  },
+  {
+    "key": "menu_beauty",
+    "type": 0,
+    "en": "Aesthetics",
+    "vi": "Thẩm Mỹ Quan"
+  },
+  {
+    "key": "info_menu_beauty",
+    "type": 0,
+    "en": "The settler's requirement for beautiful surroundings. When settlers are around aesthetically pleasing items, like art, this will result in a higher value.",
+    "vi": "Nhu cầu chiêm ngưỡng cái đẹp của dân làng. Khi sống giữa không gian bài trí nghệ thuật đẹp đẽ, chỉ số tâm trạng sẽ gia tăng mạnh mẽ."
+  },
+  {
+    "key": "menu_Social",
+    "type": 0,
+    "en": "Socialising",
+    "vi": "Nhu Cầu Giao Tiếp Xã Hội"
+  },
+  {
+    "key": "info_menu_social",
+    "type": 0,
+    "en": "The settler's requirement for social interactions. Having your settler interact with others will fulfill their need for social interactions",
+    "vi": "Nhu cầu giao lưu chuyện trò của dân làng. Để dân làng tương tác và trò chuyện cùng nhau sẽ giúp thỏa mãn nhu cầu này."
+  },
+  {
+    "key": "menu_malnutrition",
+    "type": 0,
+    "en": "Satiety",
+    "vi": "Mức Độ No Dinh Dưỡng"
+  },
+  {
+    "key": "menu_copy_production",
+    "type": 0,
+    "en": "Copy production entry",
+    "vi": "Sao Chép Lệnh Sản Xuất"
+  },
+  {
+    "key": "menu_copy_production_queue",
+    "type": 0,
+    "en": "Copy entire queue",
+    "vi": "Sao Chép Toàn Bộ Hàng Đợi"
+  },
+  {
+    "key": "menu_paste_production_queue",
+    "type": 0,
+    "en": "Paste in to queue",
+    "vi": "Dán Vào Hàng Đợi"
+  },
+  {
+    "key": "produce_settings_panel_assign_description",
+    "type": 0,
+    "en": "Limit which settler can work on this product",
+    "vi": "Chỉ định giới hạn dân làng nào được phép gia công sản phẩm này"
+  },
+  {
+    "key": "menu_item_hit_points",
+    "type": 0,
+    "en": "Item Hitpoints",
+    "vi": "Độ Bền Trang Bị"
+  },
+  {
+    "key": "menu_language_default",
+    "type": 0,
+    "en": "Officially Supported Languages",
+    "vi": "Ngôn Ngữ Hỗ Trợ Chính Thức"
+  }
+]

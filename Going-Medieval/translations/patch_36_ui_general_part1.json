@@ -1,0 +1,902 @@
+[
+  {
+    "key": "DefaultFont",
+    "type": 0,
+    "en": "UIResources/Base/Fonts/DefaultFont",
+    "vi": "UIResources/Base/Fonts/DefaultFont"
+  },
+  {
+    "key": "TitleFont",
+    "type": 0,
+    "en": "UIResources/Base/Fonts/DefaultFonts/Almendra-Bold SDF",
+    "vi": "UIResources/Base/Fonts/DefaultFonts/Almendra-Bold SDF"
+  },
+  {
+    "key": "grave",
+    "type": 0,
+    "en": "Here lies",
+    "vi": "Nơi an nghỉ của"
+  },
+  {
+    "key": "open_window_info",
+    "type": 0,
+    "en": "An open window is ideal to cool a room during a hot summer's day",
+    "vi": "Mở cửa sổ là cách lý tưởng để làm mát phòng trong những ngày hè oi bức."
+  },
+  {
+    "key": "closed_window_info",
+    "type": 0,
+    "en": "A closed window keeps the warmth in. Best kept closed in the wintertime",
+    "vi": "Đóng cửa sổ giúp giữ ấm và ngăn gió lạnh lùa vào mùa đông."
+  },
+  {
+    "key": "lock_state_locked",
+    "type": 0,
+    "en": "Locked",
+    "vi": "Đã khóa"
+  },
+  {
+    "key": "lock_state_unlocked",
+    "type": 0,
+    "en": "Default",
+    "vi": "Mặc định"
+  },
+  {
+    "key": "lock_state_always_open",
+    "type": 0,
+    "en": "Keep open",
+    "vi": "Luôn mở"
+  },
+  {
+    "key": "locked_door_info",
+    "type": 0,
+    "en": "This door is locked to everyone",
+    "vi": "Cánh cửa này bị khóa với tất cả mọi người"
+  },
+  {
+    "key": "unlocked_door_info",
+    "type": 0,
+    "en": "Door passable by: settlers, friendly NPCs, pets and some domesticated animals like dogs and cats.\nDoor blocks: enemies, aggressive NPCs and wild animals.",
+    "vi": "Cửa cho phép đi qua: Dân làng, NPC thân thiện, thú cưng và một số động vật nuôi như chó mèo.\nCửa chặn lại: Kẻ thù, NPC hung dữ và động vật hoang dã."
+  },
+  {
+    "key": "unlocked_barn_door_info",
+    "type": 0,
+    "en": "Anyone can pass through this door.",
+    "vi": "Bất kỳ ai cũng có thể đi qua cánh cửa này."
+  },
+  {
+    "key": "always_open_door_info",
+    "type": 0,
+    "en": "Anyone can pass through this door. It does not slow down those passing through.",
+    "vi": "Bất kỳ ai cũng có thể đi qua cánh cửa này mà không bị giảm tốc độ di chuyển."
+  },
+  {
+    "key": "error_no_possible_path",
+    "type": 0,
+    "en": "Can't find path to <object>!",
+    "vi": "Không tìm thấy đường đi tới <object>!"
+  },
+  {
+    "key": "error_autoforbid_message",
+    "type": 0,
+    "en": "<object>: is forbidden as there is no path to it",
+    "vi": "<object>: Bị cấm do không có đường đi tới đó"
+  },
+  {
+    "key": "forbidden_structure_info",
+    "type": 0,
+    "en": "This structure is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this structure by clicking 'allow' or by using the allow order.",
+    "vi": "Công trình này đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không tương tác cho đến khi được cho phép. Bấm 'Cho phép' hoặc dùng lệnh cho phép để mở lại."
+  },
+  {
+    "key": "forbidden_shelf_info",
+    "type": 0,
+    "en": "Stocking resources here is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't leave or take resources unless allowed. Allow its use by clicking 'allow' or by using the allow order.",
+    "vi": "Lưu trữ tài nguyên tại đây đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không cất hoặc lấy tài nguyên ra cho đến khi được cho phép. Bấm 'Cho phép' hoặc dùng lệnh cho phép để mở lại."
+  },
+  {
+    "key": "attack_duration",
+    "type": 0,
+    "en": "Attack Duration",
+    "vi": "Thời gian tấn công"
+  },
+  {
+    "key": "banish_worker_confirm",
+    "type": 0,
+    "en": "Banishing this settler will have a negative impact on the rest of your settlers. Are you sure you want to proceed?",
+    "vi": "Trục xuất dân làng này sẽ ảnh hưởng tiêu cực tới tâm lý những người còn lại. Bạn có chắc chắn muốn tiếp tục?"
+  },
+  {
+    "key": "base_damage",
+    "type": 0,
+    "en": "Equipped weapon damage",
+    "vi": "Sát thương vũ khí trang bị"
+  },
+  {
+    "key": "base_range",
+    "type": 0,
+    "en": "Equipped weapon range",
+    "vi": "Tầm bắn vũ khí trang bị"
+  },
+  {
+    "key": "base_yield_peak",
+    "type": 0,
+    "en": "Base yield at peak",
+    "vi": "Sản lượng tối đa khi thu hoạch"
+  },
+  {
+    "key": "base_yeald_ripe",
+    "type": 0,
+    "en": "Base yield when ripe",
+    "vi": "Sản lượng cơ bản khi chín"
+  },
+  {
+    "key": "base_yeald_phase",
+    "type": 0,
+    "en": "Base yield in this phase",
+    "vi": "Sản lượng ở giai đoạn này"
+  },
+  {
+    "key": "cover_amount",
+    "type": 0,
+    "en": "Cover amount",
+    "vi": "Mức độ che chắn"
+  },
+  {
+    "key": "ranged_cover_amount",
+    "type": 0,
+    "en": "Ranged Cover amount",
+    "vi": "Mức độ che chắn tầm xa"
+  },
+  {
+    "key": "melee_cover_amount",
+    "type": 0,
+    "en": "Melee Cover amount",
+    "vi": "Mức độ che chắn cận chiến"
+  },
+  {
+    "key": "cover_percentage",
+    "type": 0,
+    "en": "Cover Effectiveness",
+    "vi": "Hiệu quả che chắn"
+  },
+  {
+    "key": "damage",
+    "type": 0,
+    "en": "Damage",
+    "vi": "Sát thương"
+  },
+  {
+    "key": "damage_per_second",
+    "type": 0,
+    "en": "Damage Per Second",
+    "vi": "Sát thương mỗi giây"
+  },
+  {
+    "key": "damage_per_second_ab",
+    "type": 0,
+    "en": "DPS",
+    "vi": "DPS"
+  },
+  {
+    "key": "dead",
+    "type": 0,
+    "en": "Dead",
+    "vi": "Đã chết"
+  },
+  {
+    "key": "durability",
+    "type": 0,
+    "en": "Durability",
+    "vi": "Độ bền"
+  },
+  {
+    "key": "high_temperature",
+    "type": 0,
+    "en": "High Temperature",
+    "vi": "Nhiệt độ cao"
+  },
+  {
+    "key": "end_position",
+    "type": 0,
+    "en": "End position",
+    "vi": "Vị trí kết thúc"
+  },
+  {
+    "key": "free_spaces",
+    "type": 0,
+    "en": "Free spaces",
+    "vi": "Ô trống khả dụng"
+  },
+  {
+    "key": "game_name",
+    "type": 0,
+    "en": "Going Medieval",
+    "vi": "Going Medieval"
+  },
+  {
+    "key": "general_Celsius",
+    "type": 0,
+    "en": "Celsius",
+    "vi": "Độ C"
+  },
+  {
+    "key": "general_Fahrenheit",
+    "type": 0,
+    "en": "Fahrenheit",
+    "vi": "Độ F"
+  },
+  {
+    "key": "general_Kelvin",
+    "type": 0,
+    "en": "Kelvin",
+    "vi": "Độ K"
+  },
+  {
+    "key": "general_accept",
+    "type": 0,
+    "en": "Accept",
+    "vi": "Chấp nhận"
+  },
+  {
+    "key": "general_attack",
+    "type": 0,
+    "en": "Attack",
+    "vi": "Tấn công"
+  },
+  {
+    "key": "general_autosave_frequency",
+    "type": 0,
+    "en": "Autosave every (days)",
+    "vi": "Tự động lưu sau mỗi (ngày)"
+  },
+  {
+    "key": "general_autumn",
+    "type": 0,
+    "en": "Autumn",
+    "vi": "Mùa Thu"
+  },
+  {
+    "key": "general_xp",
+    "type": 0,
+    "en": "XP",
+    "vi": "Kinh nghiệm (XP)"
+  },
+  {
+    "key": "general_back",
+    "type": 0,
+    "en": "Back",
+    "vi": "Quay lại"
+  },
+  {
+    "key": "general_next_alamanc",
+    "type": 0,
+    "en": "Next",
+    "vi": "Tiếp theo"
+  },
+  {
+    "key": "general_base_value",
+    "type": 0,
+    "en": "Attribute base value",
+    "vi": "Giá trị cơ bản của thuộc tính"
+  },
+  {
+    "key": "general_blocked",
+    "type": 0,
+    "en": "Slot blocked",
+    "vi": "Ô chứa bị chặn"
+  },
+  {
+    "key": "general_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Hủy bỏ"
+  },
+  {
+    "key": "general_close",
+    "type": 0,
+    "en": "Close",
+    "vi": "Đóng"
+  },
+  {
+    "key": "general_clothes",
+    "type": 0,
+    "en": "Clothes",
+    "vi": "Quần áo"
+  },
+  {
+    "key": "general_consume",
+    "type": 0,
+    "en": "Consume",
+    "vi": "Tiêu thụ"
+  },
+  {
+    "key": "general_drink",
+    "type": 0,
+    "en": "Drink",
+    "vi": "Uống"
+  },
+  {
+    "key": "general_copy",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Sao chép"
+  },
+  {
+    "key": "general_damage",
+    "type": 0,
+    "en": "Base damage",
+    "vi": "Sát thương cơ bản"
+  },
+  {
+    "key": "general_day",
+    "type": 0,
+    "en": "day",
+    "vi": "Ngày"
+  },
+  {
+    "key": "general_days",
+    "type": 0,
+    "en": "days",
+    "vi": "ngày"
+  },
+  {
+    "key": "general_deliver",
+    "type": 0,
+    "en": "Deliver ammunition",
+    "vi": "Vận chuyển đạn dược"
+  },
+  {
+    "key": "general_description",
+    "type": 0,
+    "en": "Desc",
+    "vi": "Mô tả"
+  },
+  {
+    "key": "general_drop",
+    "type": 0,
+    "en": "Drop item",
+    "vi": "Vứt vật phẩm"
+  },
+  {
+    "key": "general_edit",
+    "type": 0,
+    "en": "Edit",
+    "vi": "Chỉnh sửa"
+  },
+  {
+    "key": "general_effects",
+    "type": 0,
+    "en": "Effects",
+    "vi": "Hiệu ứng"
+  },
+  {
+    "key": "general_empty",
+    "type": 0,
+    "en": "Empty",
+    "vi": "Trống"
+  },
+  {
+    "key": "general_enemy",
+    "type": 0,
+    "en": "Enemy",
+    "vi": "Kẻ thù"
+  },
+  {
+    "key": "general_equip",
+    "type": 0,
+    "en": "Equip",
+    "vi": "Trang bị"
+  },
+  {
+    "key": "general_finish",
+    "type": 0,
+    "en": "Finish",
+    "vi": "Hoàn thành"
+  },
+  {
+    "key": "general_headware",
+    "type": 0,
+    "en": "Headware",
+    "vi": "Mũ nón"
+  },
+  {
+    "key": "general_info",
+    "type": 0,
+    "en": "Info",
+    "vi": "Thông tin"
+  },
+  {
+    "key": "general_item_slot_body",
+    "type": 0,
+    "en": "Clothing item slot",
+    "vi": "Ô trang bị thân thể"
+  },
+  {
+    "key": "general_item_slot_head",
+    "type": 0,
+    "en": "Head item slot",
+    "vi": "Ô trang bị đầu"
+  },
+  {
+    "key": "general_item_slot_lefthand",
+    "type": 0,
+    "en": "Left hand item slot",
+    "vi": "Ô trang bị tay trái"
+  },
+  {
+    "key": "general_item_slot_righthand",
+    "type": 0,
+    "en": "Right hand item slot",
+    "vi": "Ô trang bị tay phải"
+  },
+  {
+    "key": "general_lock_camera",
+    "type": 0,
+    "en": "Jump to",
+    "vi": "Chuyển góc nhìn tới"
+  },
+  {
+    "key": "general_max_temperature",
+    "type": 0,
+    "en": "Maximum comfortable temperature",
+    "vi": "Nhiệt độ thoải mái tối đa"
+  },
+  {
+    "key": "general_maxLevel",
+    "type": 0,
+    "en": "Maximum",
+    "vi": "Tối đa"
+  },
+  {
+    "key": "general_min_temperature",
+    "type": 0,
+    "en": "Minimum comfortable temperature",
+    "vi": "Nhiệt độ thoải mái tối thiểu"
+  },
+  {
+    "key": "general_next",
+    "type": 0,
+    "en": "Next",
+    "vi": "Tiếp theo"
+  },
+  {
+    "key": "general_no",
+    "type": 0,
+    "en": "No",
+    "vi": "Không"
+  },
+  {
+    "key": "general_of",
+    "type": 0,
+    "en": "of",
+    "vi": "của"
+  },
+  {
+    "key": "general_ok",
+    "type": 0,
+    "en": "OK",
+    "vi": "Đồng ý"
+  },
+  {
+    "key": "general_operate",
+    "type": 0,
+    "en": "Operate",
+    "vi": "Vận hành"
+  },
+  {
+    "key": "general_overcast",
+    "type": 0,
+    "en": "Overcast",
+    "vi": "Trời âm u"
+  },
+  {
+    "key": "general_paste",
+    "type": 0,
+    "en": "Paste",
+    "vi": "Dán"
+  },
+  {
+    "key": "general_paste_all",
+    "type": 0,
+    "en": "Paste All",
+    "vi": "Dán tất cả"
+  },
+  {
+    "key": "general_paste_selected",
+    "type": 0,
+    "en": "Paste Selected",
+    "vi": "Dán phần đã chọn"
+  },
+  {
+    "key": "general_requirements",
+    "type": 0,
+    "en": "Requirements",
+    "vi": "Yêu cầu"
+  },
+  {
+    "key": "general_reset",
+    "type": 0,
+    "en": "Reset",
+    "vi": "Đặt lại"
+  },
+  {
+    "key": "general_spring",
+    "type": 0,
+    "en": "Spring",
+    "vi": "Mùa Xuân"
+  },
+  {
+    "key": "general_summer",
+    "type": 0,
+    "en": "Summer",
+    "vi": "Mùa Hè"
+  },
+  {
+    "key": "general_symbol_Celsius",
+    "type": 0,
+    "en": "°C",
+    "vi": "°C"
+  },
+  {
+    "key": "general_symbol_Fahrenheit",
+    "type": 0,
+    "en": "°F",
+    "vi": "°F"
+  },
+  {
+    "key": "general_symbol_Kelvin",
+    "type": 0,
+    "en": "°K",
+    "vi": "°K"
+  },
+  {
+    "key": "general_temperature",
+    "type": 0,
+    "en": "Temperature",
+    "vi": "Nhiệt độ"
+  },
+  {
+    "key": "general_temperature_units",
+    "type": 0,
+    "en": "Temperature units",
+    "vi": "Đơn vị nhiệt độ"
+  },
+  {
+    "key": "general_to",
+    "type": 0,
+    "en": "to",
+    "vi": "đến"
+  },
+  {
+    "key": "general_unlocks",
+    "type": 0,
+    "en": "Unlocks",
+    "vi": "Mở khóa"
+  },
+  {
+    "key": "general_villager",
+    "type": 0,
+    "en": "Settler",
+    "vi": "Dân làng"
+  },
+  {
+    "key": "general_winter",
+    "type": 0,
+    "en": "Winter",
+    "vi": "Mùa Đông"
+  },
+  {
+    "key": "general_yes",
+    "type": 0,
+    "en": "Yes",
+    "vi": "Có"
+  },
+  {
+    "key": "global_position",
+    "type": 0,
+    "en": "Global position",
+    "vi": "Tọa độ bản đồ"
+  },
+  {
+    "key": "growth_halted",
+    "type": 0,
+    "en": "Growth halted",
+    "vi": "Đã ngừng sinh trưởng"
+  },
+  {
+    "key": "hour_type_any_name",
+    "type": 0,
+    "en": "Anything",
+    "vi": "Tự do làm gì cũng được"
+  },
+  {
+    "key": "hour_type_tooltip_convalescing",
+    "type": 0,
+    "en": "Will prioritise convalescing even if the task is disabled in the jobs panel",
+    "vi": "Sẽ ưu tiên dưỡng thương ngay cả khi công việc bị vô hiệu hóa trong bảng phân công"
+  },
+  {
+    "key": "hour_type_tooltip_sleeping",
+    "type": 0,
+    "en": "Sleeping is disabled at this hour",
+    "vi": "Không được ngủ trong khung giờ này"
+  },
+  {
+    "key": "hour_type_tooltip_work",
+    "type": 0,
+    "en": "Will prioritise jobs as they are set in the jobs panel",
+    "vi": "Sẽ ưu tiên các công việc được thiết lập trong bảng công việc"
+  },
+  {
+    "key": "hour_type_tooltip_role",
+    "type": 0,
+    "en": "Will perform role duties before everything else",
+    "vi": "Sẽ ưu tiên thực hiện nhiệm vụ theo vai trò trước mọi việc khác"
+  },
+  {
+    "key": "hour_type_tooltip_leisure",
+    "type": 0,
+    "en": "Will prioritise leisure activities even if not deprived of them",
+    "vi": "Sẽ ưu tiên tham gia hoạt động giải trí ngay cả khi không bị thiếu hụt"
+  },
+  {
+    "key": "hour_type_tooltip_anything",
+    "type": 0,
+    "en": "Will prioritise meeting own needs. Once satisfied, will do jobs.",
+    "vi": "Sẽ ưu tiên đáp ứng nhu cầu cá nhân. Khi đã thỏa mãn, sẽ đi làm việc."
+  },
+  {
+    "key": "hour_type_tooltip_sleep",
+    "type": 0,
+    "en": "Will prioritise sleeping above almost anything else.",
+    "vi": "Sẽ ưu tiên giấc ngủ hơn hầu hết mọi hoạt động khác."
+  },
+  {
+    "key": "hour_type_tooltip_nosleep",
+    "type": 0,
+    "en": "Will never sleep at this hour",
+    "vi": "Sẽ không bao giờ ngủ trong khung giờ này"
+  },
+  {
+    "key": "hour_type_draft_name",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Động viên chiến đấu"
+  },
+  {
+    "key": "hour_type_leisure_name",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Giải trí"
+  },
+  {
+    "key": "hour_type_psychotic_name",
+    "type": 0,
+    "en": "Broken",
+    "vi": "Tuyệt vọng"
+  },
+  {
+    "key": "hour_type_sleep_name",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Ngủ"
+  },
+  {
+    "key": "hour_type_working_name",
+    "type": 0,
+    "en": "Work",
+    "vi": "Làm việc"
+  },
+  {
+    "key": "hour_type_caravan_name",
+    "type": 0,
+    "en": "Forming Caravan",
+    "vi": "Chuẩn bị đoàn buôn"
+  },
+  {
+    "key": "hour_type_role_job_name",
+    "type": 0,
+    "en": "Role Duties",
+    "vi": "Nhiệm vụ chức vụ"
+  },
+  {
+    "key": "report_bug_tnx_sending",
+    "type": 0,
+    "en": "Thank you for your feedback! You can continue playing while the report is being sent.",
+    "vi": "Cảm ơn bạn đã gửi phản hồi! Bạn có thể tiếp tục chơi trong khi báo cáo lỗi đang được gửi đi."
+  },
+  {
+    "key": "in_draft",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Đang động viên"
+  },
+  {
+    "key": "inside",
+    "type": 0,
+    "en": "Inside",
+    "vi": "Bên trong"
+  },
+  {
+    "key": "low_temperature",
+    "type": 0,
+    "en": "Low temperature",
+    "vi": "Nhiệt độ thấp"
+  },
+  {
+    "key": "max_stack",
+    "type": 0,
+    "en": "Max stack",
+    "vi": "Số lượng xếp chồng tối đa"
+  },
+  {
+    "key": "max_yield_in",
+    "type": 0,
+    "en": "Maximum yield in",
+    "vi": "Sản lượng tối đa sau"
+  },
+  {
+    "key": "multiselect_panel",
+    "type": 0,
+    "en": "Multiple selection",
+    "vi": "Chọn nhiều đối tượng"
+  },
+  {
+    "key": "no_active_productions",
+    "type": 0,
+    "en": "No active production",
+    "vi": "Không có hoạt động sản xuất nào"
+  },
+  {
+    "key": "outside",
+    "type": 0,
+    "en": "Outside",
+    "vi": "Ngoài trời"
+  },
+  {
+    "key": "outsideFog",
+    "type": 0,
+    "en": "Outside in the fog",
+    "vi": "Ngoài trời sương mù"
+  },
+  {
+    "key": "outsideRain",
+    "type": 0,
+    "en": "Outside in the rain",
+    "vi": "Ngoài trời mưa gió"
+  },
+  {
+    "key": "outsideSnow",
+    "type": 0,
+    "en": "Outside in the snow",
+    "vi": "Ngoài trời tuyết rơi"
+  },
+  {
+    "key": "precision",
+    "type": 0,
+    "en": "Precision",
+    "vi": "Độ chính xác"
+  },
+  {
+    "key": "precision_falloff",
+    "type": 0,
+    "en": "Precision falloff with distance",
+    "vi": "Độ chính xác suy giảm theo khoảng cách"
+  },
+  {
+    "key": "priority_down",
+    "type": 0,
+    "en": "Decrease all",
+    "vi": "Giảm toàn bộ"
+  },
+  {
+    "key": "priority_up",
+    "type": 0,
+    "en": "Increase all",
+    "vi": "Tăng toàn bộ"
+  },
+  {
+    "key": "production_amount",
+    "type": 0,
+    "en": "Amount",
+    "vi": "Số lượng"
+  },
+  {
+    "key": "production_forever",
+    "type": 0,
+    "en": "Forever",
+    "vi": "Vô tận (Forever)"
+  },
+  {
+    "key": "production_until",
+    "type": 0,
+    "en": "Until you have",
+    "vi": "Đến khi đạt đủ"
+  },
+  {
+    "key": "production_amount_info",
+    "type": 0,
+    "en": "\"Amount\" production mode will queue production of a given number of finished items.",
+    "vi": "Chế độ sản xuất 'Số lượng' sẽ đưa vào hàng đợi một số lượng vật phẩm hoàn chỉnh cụ thể."
+  },
+  {
+    "key": "production_forever_info",
+    "type": 0,
+    "en": "\"Forever\" production mode will continuously queue production while there are sufficient raw material for that product.",
+    "vi": "Chế độ sản xuất 'Vô tận' sẽ tiếp tục tạo ra vật phẩm liên tục mà không dừng lại."
+  },
+  {
+    "key": "production_until_info",
+    "type": 0,
+    "en": "\"Until you have\" production mode will continue to create items until the desired number is reached.",
+    "vi": "Chế độ sản xuất 'Đến khi đạt đủ' sẽ tiếp tục tạo vật phẩm cho đến khi đạt số lượng mong muốn trong kho."
+  },
+  {
+    "key": "production_until_info_books",
+    "type": 0,
+    "en": "\"Until you have\" production mode for books will continue until the set number of unallocated books is reached. (Books already allocated to research are no longer available)",
+    "vi": "Chế độ sản xuất \"Cho đến khi có\" đối với sách sẽ tiếp tục cho đến khi đạt đủ số lượng sách chưa sử dụng. (Sách đã dùng cho nghiên cứu không còn tính là có sẵn)"
+  },
+  {
+    "key": "production_idle",
+    "type": 0,
+    "en": "Production idle",
+    "vi": "Sản xuất đang chờ"
+  },
+  {
+    "key": "production_paused",
+    "type": 0,
+    "en": "Production paused",
+    "vi": "Sản xuất tạm dừng"
+  },
+  {
+    "key": "production_target_reached",
+    "type": 0,
+    "en": "Production target number reached",
+    "vi": "Đã đạt đủ số lượng mục tiêu"
+  },
+  {
+    "key": "production_speed",
+    "type": 0,
+    "en": "Production speed",
+    "vi": "Tốc độ sản xuất"
+  },
+  {
+    "key": "range",
+    "type": 0,
+    "en": "Range",
+    "vi": "Tầm xa"
+  },
+  {
+    "key": "research_allocated",
+    "type": 0,
+    "en": "Allocated",
+    "vi": "Đã phân bổ"
+  },
+  {
+    "key": "research_allocated_info",
+    "type": 0,
+    "en": "Amount used up for unlocked researches. ",
+    "vi": "Số lượng sách đã sử dụng cho các nghiên cứu đã mở khóa."
+  },
+  {
+    "key": "research_available",
+    "type": 0,
+    "en": "Available",
+    "vi": "Khả dụng"
+  },
+  {
+    "key": "research_available_info",
+    "type": 0,
+    "en": "The amount available for unlocking new researches. ",
+    "vi": "Số lượng sách khả dụng để mở khóa các nghiên cứu mới."
+  },
+  {
+    "key": "research_available_info_negative",
+    "type": 0,
+    "en": "The available amount is negative, this means that your knowledge books have been lost. You will need to obtain the same amount again before you start unlocking new researches.",
+    "vi": "Số lượng khả dụng bị âm, điều này có nghĩa là sách nghiên cứu của bạn đã bị thất lạc hoặc phá hủy. Bạn cần tạo lại đủ số sách trước khi tiếp tục mở khóa nghiên cứu mới."
+  }
+]

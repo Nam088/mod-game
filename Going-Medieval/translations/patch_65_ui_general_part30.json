@@ -1,0 +1,902 @@
+[
+  {
+    "key": "dev_particle_beet_death",
+    "type": 0,
+    "en": "Beet Wilt",
+    "vi": "Củ dền héo tàn"
+  },
+  {
+    "key": "dev_particle_cabbage_death",
+    "type": 0,
+    "en": "Cabbage Wilt",
+    "vi": "Bắp cải héo tàn"
+  },
+  {
+    "key": "dev_particle_carrots_death",
+    "type": 0,
+    "en": "Carrots Wilt",
+    "vi": "Cà rốt héo tàn"
+  },
+  {
+    "key": "dev_particle_flax_death",
+    "type": 0,
+    "en": "Flax Wilt",
+    "vi": "Cây lanh héo tàn"
+  },
+  {
+    "key": "dev_particle_herbs_death",
+    "type": 0,
+    "en": "Herbs Wilt",
+    "vi": "Thảo mộc héo tàn"
+  },
+  {
+    "key": "dev_particle_destroy_clay_brick_wall",
+    "type": 0,
+    "en": "Clay Brick Wall Destruction",
+    "vi": "Hiệu ứng phá hủy tường gạch đất sét"
+  },
+  {
+    "key": "dev_particle_destroy_limestone_block_wall",
+    "type": 0,
+    "en": "Limestone Brick Wall Destruction",
+    "vi": "Hiệu ứng phá hủy tường gạch đá vôi"
+  },
+  {
+    "key": "dev_particle_destroy_liimestone_wall",
+    "type": 0,
+    "en": "Limestone Wall Destruction",
+    "vi": "Hiệu ứng phá hủy tường đá vôi"
+  },
+  {
+    "key": "dev_particle_destroy_clay_wall",
+    "type": 0,
+    "en": "Clay Wall Destruction",
+    "vi": "Hiệu ứng phá hủy tường đất sét"
+  },
+  {
+    "key": "dev_particle_destroy_wood_wall",
+    "type": 0,
+    "en": "Wood Wall Destruction",
+    "vi": "Hiệu ứng phá hủy tường gỗ"
+  },
+  {
+    "key": "dev_particle_destroy_wood_floor",
+    "type": 0,
+    "en": "Wood Floor Destruction",
+    "vi": "Hiệu ứng phá hủy sàn gỗ"
+  },
+  {
+    "key": "dev_particle_destroy_wicker_floor",
+    "type": 0,
+    "en": "Wicker Floor Destruction",
+    "vi": "Hiệu ứng phá hủy sàn liễu đan"
+  },
+  {
+    "key": "dev_particle_destroy_reinforced_wood_door",
+    "type": 0,
+    "en": "Reinforced Door Destruction",
+    "vi": "Hiệu ứng phá hủy cửa gỗ gia cố"
+  },
+  {
+    "key": "dev_particle_destroy_grated_door",
+    "type": 0,
+    "en": "Grated Door Destruction",
+    "vi": "Hiệu ứng phá hủy cửa song sắt"
+  },
+  {
+    "key": "dev_particle_destroy_hay_roof",
+    "type": 0,
+    "en": "Thatch Roof Destruction",
+    "vi": "Hiệu ứng phá hủy mái tranh"
+  },
+  {
+    "key": "dev_particle_destroy_wicker_roof",
+    "type": 0,
+    "en": "Wicker Roof Destruction",
+    "vi": "Hiệu ứng phá hủy mái liễu đan"
+  },
+  {
+    "key": "dev_particle_destroy_wood_roof",
+    "type": 0,
+    "en": "Wood Roof Destruction",
+    "vi": "Hiệu ứng phá hủy mái gỗ"
+  },
+  {
+    "key": "dev_particle_destroy_limestone_roof",
+    "type": 0,
+    "en": "Limestone Roof Destruction",
+    "vi": "Hiệu ứng phá hủy mái đá vôi"
+  },
+  {
+    "key": "dev_particle_destroy_clay_roof",
+    "type": 0,
+    "en": "Clay Roof Destruction",
+    "vi": "Hiệu ứng phá hủy mái đất sét"
+  },
+  {
+    "key": "dev_particle_destroy_wood_torch",
+    "type": 0,
+    "en": "Wood Torch Destruction",
+    "vi": "Hiệu ứng phá hủy đuốc gỗ"
+  },
+  {
+    "key": "dev_particle_destroy_iron_torch",
+    "type": 0,
+    "en": "Iron Torch Destruction",
+    "vi": "Hiệu ứng phá hủy đuốc sắt"
+  },
+  {
+    "key": "dev_particle_destroy_banner",
+    "type": 0,
+    "en": "Banner Destruction",
+    "vi": "Hiệu ứng phá hủy cờ hiệu"
+  },
+  {
+    "key": "dev_particle_destroy_ground",
+    "type": 0,
+    "en": "Ground Destruction",
+    "vi": "Hiệu ứng phá hủy mặt đất"
+  },
+  {
+    "key": "dev_particle_destroy_pottery_shelf",
+    "type": 0,
+    "en": "Pottery Shelf Destruction",
+    "vi": "Hiệu ứng phá hủy kệ gốm"
+  },
+  {
+    "key": "dev_particle_destroy_book_shelf",
+    "type": 0,
+    "en": "Bookshelf Destruction",
+    "vi": "Hiệu ứng phá hủy giá sách"
+  },
+  {
+    "key": "dev_particle_spawn_pile",
+    "type": 0,
+    "en": "Spawn Pile",
+    "vi": "Tạo đống tài nguyên"
+  },
+  {
+    "key": "dev_particle_stylized_dust",
+    "type": 0,
+    "en": "Stylized Dust",
+    "vi": "Bụi cách điệu"
+  },
+  {
+    "key": "dev_particle_build_finished_particles",
+    "type": 0,
+    "en": "Building Finished",
+    "vi": "Xây dựng hoàn tất"
+  },
+  {
+    "key": "dev_particle_blueprint_placed",
+    "type": 0,
+    "en": "Blueprint Placed",
+    "vi": "Đã đặt bản vẽ"
+  },
+  {
+    "key": "dev_particle_footsteps_dust",
+    "type": 0,
+    "en": "Footsteps Dust",
+    "vi": "Bụi dấu chân"
+  },
+  {
+    "key": "dev_particle_hot_particles",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Nhiệt độ nóng"
+  },
+  {
+    "key": "dev_particle_cold_particles",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Nhiệt độ lạnh"
+  },
+  {
+    "key": "dev_particle_production_finished_particles",
+    "type": 0,
+    "en": "Production Finished",
+    "vi": "Sản xuất hoàn tất"
+  },
+  {
+    "key": "dev_particle_tame_hearts",
+    "type": 0,
+    "en": "Taming Hearts",
+    "vi": "Trái tim thuần hóa"
+  },
+  {
+    "key": "dev_particle_eating",
+    "type": 0,
+    "en": "Eating",
+    "vi": "Đang ăn"
+  },
+  {
+    "key": "dev_particle_trainsuccess",
+    "type": 0,
+    "en": "Training Successful",
+    "vi": "Huấn luyện thành công"
+  },
+  {
+    "key": "dev_particle_shearing",
+    "type": 0,
+    "en": "Shearing",
+    "vi": "Xén lông"
+  },
+  {
+    "key": "dev_particle_tree_shake_apple",
+    "type": 0,
+    "en": "Shake Apple Tree",
+    "vi": "Rung cây táo"
+  },
+  {
+    "key": "dev_particle_paint_splats",
+    "type": 0,
+    "en": "Paint Splats",
+    "vi": "Vệt sơn bắn"
+  },
+  {
+    "key": "dev_particle_tree_shake_branches",
+    "type": 0,
+    "en": "Shanking Branches",
+    "vi": "Rung cành cây"
+  },
+  {
+    "key": "dev_particle_tree_shake_birch",
+    "type": 0,
+    "en": "Shake Birch Tree",
+    "vi": "Rung cây bạch dương"
+  },
+  {
+    "key": "dev_particle_tree_shake_maple",
+    "type": 0,
+    "en": "Shake Maple Tree",
+    "vi": "Rung cây phong"
+  },
+  {
+    "key": "dev_particle_tree_shake_oak",
+    "type": 0,
+    "en": "Shake Oak Tree",
+    "vi": "Rung cây sồi"
+  },
+  {
+    "key": "dev_particle_tree_shake_pine",
+    "type": 0,
+    "en": "Shake Pine Tree",
+    "vi": "Rung cây thông"
+  },
+  {
+    "key": "dev_particle_tree_shake_plane",
+    "type": 0,
+    "en": "Shake Plane Tree",
+    "vi": "Rung cây tiêu huyền"
+  },
+  {
+    "key": "dev_particle_tree_fall_birch",
+    "type": 0,
+    "en": "Fall Birch Tree",
+    "vi": "Cây bạch dương đổ"
+  },
+  {
+    "key": "dev_particle_crows_flying_straight",
+    "type": 0,
+    "en": "Crows Flying",
+    "vi": "Đàn quạ bay"
+  },
+  {
+    "key": "dev_particle_ducks_flying_straight",
+    "type": 0,
+    "en": "Ducks Flying",
+    "vi": "Đàn vịt bay"
+  },
+  {
+    "key": "dev_particle_geese_flying_straight",
+    "type": 0,
+    "en": "Geese Flying",
+    "vi": "Đàn ngỗng bay"
+  },
+  {
+    "key": "dev_particle_buzzard_flying_over",
+    "type": 0,
+    "en": "Buzzards Flying",
+    "vi": "Chim ó bay lượn"
+  },
+  {
+    "key": "dev_particle_pigeons_flying_straight",
+    "type": 0,
+    "en": "Pigeons Flying",
+    "vi": "Đàn bồ câu bay"
+  },
+  {
+    "key": "dev_particle_pigeons_scare",
+    "type": 0,
+    "en": "Scare Pigeons",
+    "vi": "Làm kinh động bồ câu"
+  },
+  {
+    "key": "dev_particle_crows_circling",
+    "type": 0,
+    "en": "Circling Crows",
+    "vi": "Quạ lượn vòng"
+  },
+  {
+    "key": "dev_particle_crows_scare",
+    "type": 0,
+    "en": "Scare Crows",
+    "vi": "Làm kinh động quạ"
+  },
+  {
+    "key": "dev_particle_worker_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Settler Footprint (dirt)",
+    "vi": "Dấu chân trái dân làng (trên đất)"
+  },
+  {
+    "key": "dev_particle_worker_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Settler Footprint (dirt)",
+    "vi": "Dấu chân phải dân làng (trên đất)"
+  },
+  {
+    "key": "dev_particle_bear_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Bear Footprint",
+    "vi": "Dấu chân trái của gấu"
+  },
+  {
+    "key": "dev_particle_bear_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Bear Footprint",
+    "vi": "Dấu chân phải của gấu"
+  },
+  {
+    "key": "dev_particle_boar_dirt_right_footprint",
+    "type": 0,
+    "en": "Right Boar Footprint",
+    "vi": "Dấu chân phải của lợn rừng"
+  },
+  {
+    "key": "dev_particle_boar_dirt_left_footprint",
+    "type": 0,
+    "en": "Left Boar Footprint",
+    "vi": "Dấu chân trái của lợn rừng"
+  },
+  {
+    "key": "dev_particle_deer_dirt_footprint",
+    "type": 0,
+    "en": "Deer Footprint",
+    "vi": "Dấu chân hươu"
+  },
+  {
+    "key": "dev_particle_cow_dirt_footprint",
+    "type": 0,
+    "en": "Cow Footprint",
+    "vi": "Dấu chân bò"
+  },
+  {
+    "key": "dev_particle_donkey_dirt_footprint",
+    "type": 0,
+    "en": "Donkey Footprint",
+    "vi": "Dấu chân lừa"
+  },
+  {
+    "key": "dev_particle_dog_dirt_footprint",
+    "type": 0,
+    "en": "Dog Footprint",
+    "vi": "Dấu chân chó"
+  },
+  {
+    "key": "dev_particle_sheep_dirt_footprint",
+    "type": 0,
+    "en": "Sheep Footprint",
+    "vi": "Dấu chân cừu"
+  },
+  {
+    "key": "dev_particle_worker_snow_left_footprint",
+    "type": 0,
+    "en": "Left Settler Footprint (snow)",
+    "vi": "Dấu chân trái dân làng (trên tuyết)"
+  },
+  {
+    "key": "dev_particle_worker_snow_right_footprint",
+    "type": 0,
+    "en": "Right Settler Footprint (snow)",
+    "vi": "Dấu chân phải dân làng (trên tuyết)"
+  },
+  {
+    "key": "dev_particle_footsteps_snow_dust",
+    "type": 0,
+    "en": "Snow Footprint Dust",
+    "vi": "Bụi tuyết dấu chân"
+  },
+  {
+    "key": "dev_particle_footsteps_wet_splash",
+    "type": 0,
+    "en": "Footprint Water Splash",
+    "vi": "Vệt nước bắn dấu chân"
+  },
+  {
+    "key": "dev_particle_footsteps_grass_dust",
+    "type": 0,
+    "en": "Footprint Grass Dust",
+    "vi": "Bụi cỏ dấu chân"
+  },
+  {
+    "key": "dev_particle_water_splash",
+    "type": 0,
+    "en": "Water Splash",
+    "vi": "Bọt nước bắn"
+  },
+  {
+    "key": "dev_particle_water_ripple",
+    "type": 0,
+    "en": "Water Ripple",
+    "vi": "Gợn sóng nước"
+  },
+  {
+    "key": "dev_select_event_group",
+    "type": 0,
+    "en": "Select an Event Group to schedule:",
+    "vi": "Chọn một nhóm sự kiện để lên lịch:"
+  },
+  {
+    "key": "dev_tooltip_event_group",
+    "type": 0,
+    "en": "Schedule a random event from the selected group",
+    "vi": "Lên lịch một sự kiện ngẫu nhiên từ nhóm đã chọn"
+  },
+  {
+    "key": "dev_event_group_Runaway",
+    "type": 0,
+    "en": "Runaway Settler",
+    "vi": "Dân làng chạy trốn"
+  },
+  {
+    "key": "dev_event_group_Thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Bão giông sấm sét"
+  },
+  {
+    "key": "dev_event_group_Hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Mưa đá"
+  },
+  {
+    "key": "dev_event_group_Blight",
+    "type": 0,
+    "en": "Blighted crops",
+    "vi": "Dịch hại mùa màng"
+  },
+  {
+    "key": "dev_event_group_Coldsnap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Đợt rét đậm"
+  },
+  {
+    "key": "dev_event_group_Heatwave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Đợt nắng nóng"
+  },
+  {
+    "key": "dev_event_group_Newworker",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "Dân làng mới"
+  },
+  {
+    "key": "dev_event_group_Visitor",
+    "type": 0,
+    "en": "Lone Traveller",
+    "vi": "Lữ khách đơn độc"
+  },
+  {
+    "key": "BlankBehaviour",
+    "type": 0,
+    "en": "Default",
+    "vi": "Mặc định"
+  },
+  {
+    "key": "EnemyBehaviour",
+    "type": 0,
+    "en": "Enemy",
+    "vi": "Kẻ thù"
+  },
+  {
+    "key": "TraderBehaviour",
+    "type": 0,
+    "en": "Trader",
+    "vi": "Thương nhân"
+  },
+  {
+    "key": "TraderBodyguardBehaviour",
+    "type": 0,
+    "en": "Trader Bodyguard",
+    "vi": "Thương nhân Bodyguard"
+  },
+  {
+    "key": "dev_make_npc_leave",
+    "type": 0,
+    "en": "Banish NPC",
+    "vi": "Trục xuất NPC"
+  },
+  {
+    "key": "dev_tooltip_make_npc_leave",
+    "type": 0,
+    "en": "Makes the NPC leave the map.",
+    "vi": "Khiến NPC này rời khỏi bản đồ ngay lập tức."
+  },
+  {
+    "key": "dev_event_crop_blight",
+    "type": 0,
+    "en": "Blighted crops",
+    "vi": "Dịch hại mùa màng"
+  },
+  {
+    "key": "dev_event_season_start_spring",
+    "type": 0,
+    "en": "Spring Start",
+    "vi": "Khởi đầu Mùa Xuân"
+  },
+  {
+    "key": "dev_event_season_start_summer",
+    "type": 0,
+    "en": "Summer Start",
+    "vi": "Khởi đầu Mùa Hè"
+  },
+  {
+    "key": "dev_event_season_start_autumn",
+    "type": 0,
+    "en": "Autumn Start",
+    "vi": "Khởi đầu Mùa Thu"
+  },
+  {
+    "key": "dev_event_season_start_winter",
+    "type": 0,
+    "en": "Winter Start",
+    "vi": "Khởi đầu Mùa Đông"
+  },
+  {
+    "key": "dev_event_heat_wave",
+    "type": 0,
+    "en": "Heat wave",
+    "vi": "Đợt nắng nóng"
+  },
+  {
+    "key": "dev_event_cold_snap",
+    "type": 0,
+    "en": "Cold snap",
+    "vi": "Đợt rét đậm"
+  },
+  {
+    "key": "dev_event_hailstorm",
+    "type": 0,
+    "en": "Hailstorm",
+    "vi": "Mưa đá"
+  },
+  {
+    "key": "dev_event_thunderstorm",
+    "type": 0,
+    "en": "Thunderstorm",
+    "vi": "Bão giông sấm sét"
+  },
+  {
+    "key": "dev_event_influence_20",
+    "type": 0,
+    "en": "Influence rising",
+    "vi": "Uy danh gia tăng"
+  },
+  {
+    "key": "dev_event_influence_100",
+    "type": 0,
+    "en": "Golden age",
+    "vi": "Kỷ nguyên hoàng kim"
+  },
+  {
+    "key": "dev_event_new_worker",
+    "type": 0,
+    "en": "New Settler",
+    "vi": "Dân làng mới"
+  },
+  {
+    "key": "dev_event_new_worker_hungry",
+    "type": 0,
+    "en": "Hunger comes calling",
+    "vi": "Cơn đói gõ cửa"
+  },
+  {
+    "key": "dev_event_new_worker_wounded",
+    "type": 0,
+    "en": "A safe haven",
+    "vi": "Chốn nương thân an toàn"
+  },
+  {
+    "key": "dev_event_new_worker_wounded_02",
+    "type": 0,
+    "en": "Barking up the wrong tree",
+    "vi": "Gõ nhầm cửa"
+  },
+  {
+    "key": "dev_event_new_worker_sick",
+    "type": 0,
+    "en": "This too shall pass",
+    "vi": "Bệnh tật rồi sẽ qua"
+  },
+  {
+    "key": "dev_event_runaway_new",
+    "type": 0,
+    "en": "Violent extortionists ",
+    "vi": "Những kẻ tống tiền bạo lực"
+  },
+  {
+    "key": "dev_event_all_dead",
+    "type": 0,
+    "en": "All is lost",
+    "vi": "Tất cả đã mất"
+  },
+  {
+    "key": "dev_event_general_goods_trader_small",
+    "type": 0,
+    "en": "Pedlar",
+    "vi": "Người bán hàng rong"
+  },
+  {
+    "key": "dev_event_general_goods_trader_normal",
+    "type": 0,
+    "en": "General goods merchant ",
+    "vi": "Thương nhân hàng bách hóa"
+  },
+  {
+    "key": "dev_event_general_goods_trader_large",
+    "type": 0,
+    "en": "General goods wholesale merchant",
+    "vi": "Thương buôn sỉ bách hóa"
+  },
+  {
+    "key": "dev_event_trader_rare",
+    "type": 0,
+    "en": "Rare goods merchant",
+    "vi": "Thương nhân hàng hiếm"
+  },
+  {
+    "key": "dev_event_trader_visitor",
+    "type": 0,
+    "en": "Lone Traveller",
+    "vi": "Lữ khách đơn độc"
+  },
+  {
+    "key": "game_boar_event",
+    "type": 0,
+    "en": "Boar",
+    "vi": "Lợn rừng"
+  },
+  {
+    "key": "game_dog_event",
+    "type": 0,
+    "en": "Dog",
+    "vi": "Chó săn"
+  },
+  {
+    "key": "game_cat_event",
+    "type": 0,
+    "en": "Cat",
+    "vi": "Mèo"
+  },
+  {
+    "key": "game_deer_event",
+    "type": 0,
+    "en": "Deer",
+    "vi": "Hươu"
+  },
+  {
+    "key": "game_goat_event",
+    "type": 0,
+    "en": "Goat",
+    "vi": "Dê"
+  },
+  {
+    "key": "game_cow_event",
+    "type": 0,
+    "en": "Cattle",
+    "vi": "Gia súc"
+  },
+  {
+    "key": "game_sheep_event",
+    "type": 0,
+    "en": "Sheep",
+    "vi": "Cừu"
+  },
+  {
+    "key": "game_sheep_domestic_event",
+    "type": 0,
+    "en": "Domestic Sheep",
+    "vi": "Domestic Cừu"
+  },
+  {
+    "key": "game_chicken_event",
+    "type": 0,
+    "en": "Chicken",
+    "vi": "Gà"
+  },
+  {
+    "key": "game_pheasant_event",
+    "type": 0,
+    "en": "Pheasant",
+    "vi": "Gà lôi"
+  },
+  {
+    "key": "game_cow_domestic_event",
+    "type": 0,
+    "en": "Domestic Cow",
+    "vi": "Domestic Bò"
+  },
+  {
+    "key": "game_fox_event",
+    "type": 0,
+    "en": "Fox",
+    "vi": "Cáo"
+  },
+  {
+    "key": "game_polecat_event",
+    "type": 0,
+    "en": "Polecat",
+    "vi": "Chồn hôi"
+  },
+  {
+    "key": "game_single_polecat_event",
+    "type": 0,
+    "en": "Single Polecat",
+    "vi": "Một con chồn hôi"
+  },
+  {
+    "key": "game_bear_event",
+    "type": 0,
+    "en": "Bear",
+    "vi": "Gấu"
+  },
+  {
+    "key": "dev_event_shakedown",
+    "type": 0,
+    "en": "Extortion",
+    "vi": "Tống tiền"
+  },
+  {
+    "key": "dev_event_bard_visitor",
+    "type": 0,
+    "en": "Bard",
+    "vi": "Người hát rong"
+  },
+  {
+    "key": "dev_event_priest_visitor",
+    "type": 0,
+    "en": "Chaplain",
+    "vi": "Tuyên úy giáo sĩ"
+  },
+  {
+    "key": "dev_event_shaman_visitor",
+    "type": 0,
+    "en": "Druid",
+    "vi": "Tu sĩ Druid"
+  },
+  {
+    "key": "dev_events_seasons_and_weather",
+    "type": 0,
+    "en": "Seasons and Weather",
+    "vi": "Mùa và Thời tiết"
+  },
+  {
+    "key": "dev_event_group_VisitorRole",
+    "type": 0,
+    "en": "Friendly Visit",
+    "vi": "Chuyến viếng thăm hữu hảo"
+  },
+  {
+    "key": "dev_spawn_bard_visitor",
+    "type": 0,
+    "en": "Spawn Bard",
+    "vi": "Tạo người hát rong"
+  },
+  {
+    "key": "dev_toggle_invurnelability",
+    "type": 0,
+    "en": "Toggle Creature Invulnerability",
+    "vi": "Bật/Tắt bất tử sinh vật"
+  },
+  {
+    "key": "dev_toggle_invurnelability_on",
+    "type": 0,
+    "en": "Make All Settlers Vulnerable",
+    "vi": "Cho phép dân làng nhận sát thương"
+  },
+  {
+    "key": "dev_toggle_invurnelability_off",
+    "type": 0,
+    "en": "Make All Settlers Invulnearable",
+    "vi": "Làm toàn bộ dân làng bất tử"
+  },
+  {
+    "key": "dev_tooltip_toggle_invurnelability",
+    "type": 0,
+    "en": "Toggles Invulnerability of any Creature you click on",
+    "vi": "Bật/Tắt trạng thái bất tử cho bất kỳ sinh vật nào bạn nhấp vào"
+  },
+  {
+    "key": "dev_tooltip_toggle_Invulnerability_all",
+    "type": 0,
+    "en": "Toggles Invulnerability for all of your Settlers.",
+    "vi": "Bật/Tắt trạng thái bất tử cho toàn bộ dân làng của bạn."
+  },
+  {
+    "key": "dev_unlock_all_variants_off",
+    "type": 0,
+    "en": "Unlock All Variants: Off",
+    "vi": "Mở khóa toàn bộ biến thể: Tắt"
+  },
+  {
+    "key": "dev_unlock_all_variants_on",
+    "type": 0,
+    "en": "Unlock All Variants: On",
+    "vi": "Mở khóa toàn bộ biến thể: Bật"
+  },
+  {
+    "key": "dev_tooltip_unlock_all_variants",
+    "type": 0,
+    "en": "If on will have all variants of building types unlocked regardless wether you have discovered the associated material",
+    "vi": "Nếu bật, tất cả các biến thể của các loại công trình sẽ được mở khóa bất kể bạn đã khám phá nguyên liệu tương ứng hay chưa"
+  },
+  {
+    "key": "dev_all_placement_allowed_on",
+    "type": 0,
+    "en": "Allow All Placement: On",
+    "vi": "Cho phép mọi vị trí đặt: Bật"
+  },
+  {
+    "key": "dev_all_placement_allowed_off",
+    "type": 0,
+    "en": "Allow All Placement: Off",
+    "vi": "Cho phép mọi vị trí đặt: Tắt"
+  },
+  {
+    "key": "dev_tooltip_all_placement_allowed",
+    "type": 0,
+    "en": "If on will allow overlapping buildings and placing socketable buildings floating in the air, etc",
+    "vi": "Nếu bật, cho phép đặt các công trình chồng lấn lên nhau và đặt công trình lơ lửng trên không trung, v.v."
+  },
+  {
+    "key": "dev_allowEdgePlacement_off",
+    "type": 0,
+    "en": "Edge Placement: Off",
+    "vi": "Đặt ở mép bản đồ: Tắt"
+  },
+  {
+    "key": "dev_allowEdgePlacement_on",
+    "type": 0,
+    "en": "Edge Placement: On",
+    "vi": "Đặt ở mép bản đồ: Bật"
+  },
+  {
+    "key": "dev_tooltip_allowEdgePlacement",
+    "type": 0,
+    "en": "Allows buildings to be placed in the red zone",
+    "vi": "Cho phép đặt công trình trong vùng viền đỏ ở rìa bản đồ"
+  },
+  {
+    "key": "dev_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Nghiên cứu"
+  },
+  {
+    "key": "dev_production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Sản xuất"
+  },
+  {
+    "key": "dev_camera",
+    "type": 0,
+    "en": "Camera",
+    "vi": "Góc nhìn camera"
+  }
+]

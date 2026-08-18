@@ -1,0 +1,902 @@
+[
+  {
+    "key": "uprade_building_title",
+    "type": 0,
+    "en": "Replace structures",
+    "vi": "Thay Thế Công Trình"
+  },
+  {
+    "key": "uprade_building_info",
+    "type": 0,
+    "en": "Choose what structure will be replaced. \nSome structures might not appear in the list, and some structures don't have a replace option. \nSome replacement options might not be possible if the necessary construction materials are not available.",
+    "vi": "Lựa chọn cấu trúc công trình mà bạn muốn thay thế.\\nMột số công trình đặc thù có thể không hiển thị trong danh sách hoặc không hỗ trợ tính năng thay thế trực tiếp.\\nMột số phương án thay thế vật liệu sẽ bị vô hiệu hóa nếu trong kho không có sẵn lượng vật liệu xây dựng cần thiết."
+  },
+  {
+    "key": "uprade_building_selected",
+    "type": 0,
+    "en": "Selected",
+    "vi": "Đã Chọn"
+  },
+  {
+    "key": "uprade_building_possible",
+    "type": 0,
+    "en": "Possible Replacements",
+    "vi": "Các Phương Án Thay Thế Khả Dụng"
+  },
+  {
+    "key": "ctrl_UpgradeBuilding",
+    "type": 0,
+    "en": "Not for sale",
+    "vi": "Thay Thế / Nâng Cấp Công Trình"
+  },
+  {
+    "key": "window_state_open",
+    "type": 0,
+    "en": "Open",
+    "vi": "Mở"
+  },
+  {
+    "key": "window_state_closed",
+    "type": 0,
+    "en": "Closed",
+    "vi": "Đóng"
+  },
+  {
+    "key": "building_damage",
+    "type": 0,
+    "en": "Building Damage",
+    "vi": "Mức Độ Hư Hại"
+  },
+  {
+    "key": "building_error_not_reachable",
+    "type": 0,
+    "en": "Building can't be reached",
+    "vi": "Không thể tiếp cận vị trí công trình"
+  },
+  {
+    "key": "building_error_no_resources",
+    "type": 0,
+    "en": "Not enough allowed resources",
+    "vi": "Không có đủ vật liệu được phép sử dụng"
+  },
+  {
+    "key": "building_phase_0",
+    "type": 0,
+    "en": "BLUEPRINT",
+    "vi": "BẢN THIẾT KẾ"
+  },
+  {
+    "key": "building_phase_1",
+    "type": 0,
+    "en": "Blueprint phase",
+    "vi": "Giai đoạn lập thiết kế"
+  },
+  {
+    "key": "building_phase_2",
+    "type": 0,
+    "en": "Building phase",
+    "vi": "Giai đoạn thi công xây dựng"
+  },
+  {
+    "key": "hud_info_order_deconstructing",
+    "type": 0,
+    "en": "Mark buildings for deconstruction.",
+    "vi": "Đánh dấu chỉ định các công trình cần tháo dỡ thu hồi vật liệu."
+  },
+  {
+    "key": "hud_lb_order_deconstructing",
+    "type": 0,
+    "en": "Deconstruct",
+    "vi": "Tháo Dỡ"
+  },
+  {
+    "key": "menu_construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Xây Dựng"
+  },
+  {
+    "key": "stability_link",
+    "type": 0,
+    "en": "<LinkAlmanac=\"Systemstability\">Stability</link>",
+    "vi": "<LinkAlmanac=\"Systemstability\">Độ ổn định</link>"
+  },
+  {
+    "key": "building_info_resources_needed",
+    "type": 0,
+    "en": "Resources Needed",
+    "vi": "Tài nguyên cần thiết"
+  },
+  {
+    "key": "BuildingWealth_title",
+    "type": 0,
+    "en": "Buildings Value",
+    "vi": "Giá trị công trình"
+  },
+  {
+    "key": "BuildingWealth_info",
+    "type": 0,
+    "en": "Combined value of all buildings through time",
+    "vi": "Tổng giá trị mọi công trình theo thời gian"
+  },
+  {
+    "key": "buildings_destroyed",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Công trình bị phá hủy"
+  },
+  {
+    "key": "enemy_buildings_destroyed",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Công trình bị phá hủy"
+  },
+  {
+    "key": "allbuildings_deconstruct",
+    "type": 0,
+    "en": "Select all buildings",
+    "vi": "Chọn mọi công trình"
+  },
+  {
+    "key": "floors_deconstruct",
+    "type": 0,
+    "en": "Select floors only",
+    "vi": "Chỉ chọn sàn"
+  },
+  {
+    "key": "walls_deconstruct",
+    "type": 0,
+    "en": "Select walls only",
+    "vi": "Chỉ chọn tường"
+  },
+  {
+    "key": "roofs_deconstruct",
+    "type": 0,
+    "en": "Select roofs only",
+    "vi": "Chỉ chọn mái"
+  },
+  {
+    "key": "workbenchfurniture_deconstruct",
+    "type": 0,
+    "en": "Select workbenches/furniture only",
+    "vi": "Chỉ chọn bàn chế tác/nội thất"
+  },
+  {
+    "key": "structure_change_state",
+    "type": 0,
+    "en": "A settler assigned as a steward will change the state of this structure to",
+    "vi": "Dân làng được giao làm Quản gia sẽ đổi trạng thái công trình này thành"
+  },
+  {
+    "key": "door_broken",
+    "type": 0,
+    "en": "This structure is broken and its status cannot be changed until it is repaired to 80% of max HP.",
+    "vi": "Công trình này đã hỏng và không thể đổi trạng thái cho đến khi được sửa đạt 80% HP tối đa."
+  },
+  {
+    "key": "structure_info_uninstall",
+    "type": 0,
+    "en": "A settler will remove this structure.",
+    "vi": "Một dân làng sẽ gỡ công trình này."
+  },
+  {
+    "key": "building_mesh_var_title",
+    "type": 0,
+    "en": "Variations",
+    "vi": "Biến thể"
+  },
+  {
+    "key": "building_mesh_var_info",
+    "type": 0,
+    "en": "Change the structure's appearance. The visual change will not influence gameplay in any way.",
+    "vi": "Thay đổi diện mạo công trình. Thay đổi hình ảnh không ảnh hưởng đến lối chơi."
+  },
+  {
+    "key": "building_mesh_var_shape",
+    "type": 0,
+    "en": "Shape variation",
+    "vi": "Biến thể hình dạng"
+  },
+  {
+    "key": "building_mesh_var_material",
+    "type": 0,
+    "en": "Material variation",
+    "vi": "Biến thể vật liệu"
+  },
+  {
+    "key": "building_mesh_var_rotate",
+    "type": 0,
+    "en": "Rotate Shape",
+    "vi": "Xoay hình dạng"
+  },
+  {
+    "key": "building_mesh_var_mirror",
+    "type": 0,
+    "en": "Flip Shape",
+    "vi": "Lật hình dạng"
+  },
+  {
+    "key": "building_mesh_automatic_change",
+    "type": 0,
+    "en": "Automatic shape change",
+    "vi": "Tự động đổi hình dạng"
+  },
+  {
+    "key": "building_mesh_automatic_change_info",
+    "type": 0,
+    "en": "When activated, the structure will change shape depending on adjacent structures of the same type. Making manual changes will deactivate this feature.",
+    "vi": "Khi kích hoạt, công trình sẽ đổi hình dạng tùy theo các công trình cùng loại liền kề. Thay đổi thủ công sẽ tắt tính năng này."
+  },
+  {
+    "key": "structure_in_water",
+    "type": 0,
+    "en": "In Water",
+    "vi": "Trong nước"
+  },
+  {
+    "key": "building_heat_damage_threshold",
+    "type": 0,
+    "en": "Heat threshold",
+    "vi": "Ngưỡng nhiệt"
+  },
+  {
+    "key": "building_heat_damage",
+    "type": 0,
+    "en": "Heat damage per second ",
+    "vi": "Sát thương nhiệt mỗi giây "
+  },
+  {
+    "key": "building_temperature",
+    "type": 0,
+    "en": "Average temperature of structure",
+    "vi": "Nhiệt độ trung bình của công trình"
+  },
+  {
+    "key": "structure_info_well",
+    "type": 0,
+    "en": "Well structures only operate if the wellshaft can reach water on any level beneath it.",
+    "vi": "Công trình giếng chỉ hoạt động nếu trục giếng chạm tới nước ở bất kỳ tầng nào bên dưới."
+  },
+  {
+    "key": "buildings_lost",
+    "type": 0,
+    "en": "Buildings destroyed",
+    "vi": "Công trình bị phá hủy"
+  },
+  {
+    "key": "used_for_constructing",
+    "type": 0,
+    "en": "Used for constructing",
+    "vi": "Dùng để xây dựng"
+  },
+  {
+    "key": "building_locked_info",
+    "type": 0,
+    "en": "{0} is not available to construct. Unlock it in the Research menu.",
+    "vi": "Không thể xây {0}. Hãy mở khóa trong menu Nghiên cứu."
+  },
+  {
+    "key": "building_no_material_info",
+    "type": 0,
+    "en": "{0} is not available to construct: Lacking required materials. ",
+    "vi": "Không thể xây {0}: Thiếu vật liệu cần thiết. "
+  },
+  {
+    "key": "gameplay_tips_construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Xây dựng"
+  },
+  {
+    "key": "gameplay_tips_construction_info",
+    "type": 0,
+    "en": "- Your settlers still need somewhere to live.\\n- Start by placing some wooden walls from the base panel [<style=Shortcut><input:Base></style>] in a rectangle.\\n- Add a wooden door and a thatched roof (from the same panel) over it.\\n- Place sleeping spots for your settlers found in the furniture panel [<style=Shortcut><input:Furniture></style>] inside.\\n- Use Plan Mode to place blueprints as <LinkAlmanac=\"Gameplaytipsforbid\">forbidden</link> to prepare for construction.",
+    "vi": "- Dân làng vẫn cần nơi để ở.\\n- Bắt đầu bằng cách đặt các bức tường gỗ từ bảng Cơ bản [<style=Shortcut><input:Base></style>] thành hình chữ nhật.\\n- Thêm cửa gỗ và mái tranh (trong cùng bảng) lên trên.\\n- Đặt chỗ ngủ từ bảng Nội thất [<style=Shortcut><input:Furniture></style>] vào bên trong.\\n- Dùng Chế độ Lập kế hoạch để đặt bản thiết kế ở trạng thái <LinkAlmanac=\"Gameplaytipsforbid\">cấm</link>, chuẩn bị cho việc xây dựng."
+  },
+  {
+    "key": "tut_drag_place_building",
+    "type": 0,
+    "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place the Default Stockpile on the highlighted area",
+    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo để đặt kho mặc định vào khu vực được tô sáng"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedConstructionPositive",
+    "type": 0,
+    "en": "[He/She] did some hilariously poor construction",
+    "vi": "[He/She] đã xây dựng tệ đến buồn cười"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedConstructionNegative",
+    "type": 0,
+    "en": "[He/She] did some worryingly poor construction",
+    "vi": "[He/She] đã xây dựng tệ đến đáng lo"
+  },
+  {
+    "key": "prioritise_building_material_delivery",
+    "type": 0,
+    "en": "Prioritise delivering resource to build site:",
+    "vi": "Ưu tiên chuyển tài nguyên đến công trường:"
+  },
+  {
+    "key": "prioritise_building_construction",
+    "type": 0,
+    "en": "Prioritise constructing:",
+    "vi": "Ưu tiên xây dựng:"
+  },
+  {
+    "key": "prioritise_building_deconstruction",
+    "type": 0,
+    "en": "Prioritise deconstructing:",
+    "vi": "Ưu tiên tháo dỡ:"
+  },
+  {
+    "key": "already_working_on_building",
+    "type": 0,
+    "en": "This settler is already working on this building",
+    "vi": "Dân làng này đang làm việc tại công trình này"
+  },
+  {
+    "key": "not_enough_construction_materials",
+    "type": 0,
+    "en": "Resource unavailable to deliver",
+    "vi": "Không có tài nguyên để vận chuyển"
+  },
+  {
+    "key": "building_unreachable",
+    "type": 0,
+    "en": "Building cannot be reached",
+    "vi": "Không thể tiếp cận công trình"
+  },
+  {
+    "key": "building_unstable",
+    "type": 0,
+    "en": "Building is unstable because it is placed on stability 0",
+    "vi": "Công trình không ổn định vì được đặt tại vị trí có độ ổn định bằng 0"
+  },
+  {
+    "key": "prioritise_building_uninstall",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Gỡ bỏ"
+  },
+  {
+    "key": "ctrl_Deconstructing",
+    "type": 0,
+    "en": "Order: Deconstruct",
+    "vi": "Lệnh: Tháo dỡ"
+  },
+  {
+    "key": "ctrl_DestroyBuilding",
+    "type": 0,
+    "en": "Destroy Building",
+    "vi": "Phá hủy công trình"
+  },
+  {
+    "key": "ctrl_CopyBuilding",
+    "type": 0,
+    "en": "Copy",
+    "vi": "Sao chép"
+  },
+  {
+    "key": "ctrl_installbuilding",
+    "type": 0,
+    "en": "Install",
+    "vi": "Lắp đặt"
+  },
+  {
+    "key": "ctrl_uninstallbuilding",
+    "type": 0,
+    "en": "Remove",
+    "vi": "Gỡ bỏ"
+  },
+  {
+    "key": "ctrl_movebuilding",
+    "type": 0,
+    "en": "Relocate",
+    "vi": "Di dời"
+  },
+  {
+    "key": "keybinding_group_Construction",
+    "type": 0,
+    "en": "Construction",
+    "vi": "Xây dựng"
+  },
+  {
+    "key": "options_camera_offset_by_buildings",
+    "type": 0,
+    "en": "Camera offset by buildings",
+    "vi": "Camera dịch chuyển theo công trình"
+  },
+  {
+    "key": "options_camera_offset_by_buildings_info",
+    "type": 0,
+    "en": "Toggles whether or not the camera will be offset by floors and walls, together with terrain and water.",
+    "vi": "Bật/tắt việc camera dịch chuyển theo sàn và tường, cùng với địa hình và mặt nước."
+  },
+  {
+    "key": "construction_failed",
+    "type": 0,
+    "en": "Construction failed",
+    "vi": "Xây dựng thất bại"
+  },
+  {
+    "key": "construction_blocked",
+    "type": 0,
+    "en": "Construction blocked",
+    "vi": "Xây dựng bị cản trở"
+  },
+  {
+    "key": "floor_error_beam_distance",
+    "type": 0,
+    "en": "Floors can only hang 3x spaces from support structures",
+    "vi": "Sàn nhà chỉ có thể vươn tối đa 3 ô tính từ cấu trúc nâng đỡ gần nhất"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageLow",
+    "type": 0,
+    "en": "<style=DefaultGreen>Low building damage</style>",
+    "vi": "<style=DefaultGreen>Gây hư hại công trình ở mức thấp</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate building damage</style>",
+    "vi": "<style=DefaultOrange>Gây hư hại công trình ở mức trung bình</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High building damage</style>",
+    "vi": "<style=DefaultGreen>Gây hư hại công trình ở mức cao</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BuildingDamageVeryHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>Severe building damage</style>",
+    "vi": "<style=DefaultGreen>Gây hư hại công trình cực kỳ nghiêm trọng</style>"
+  },
+  {
+    "key": "building_tooltip_info_sun",
+    "type": 0,
+    "en": "<style=DefaultGreen>Lets sunlight through</style>",
+    "vi": "<style=DefaultGreen>Cho phép ánh nắng xuyên qua</style>"
+  },
+  {
+    "key": "building_tooltip_info_rain",
+    "type": 0,
+    "en": "<style=DefaultOrange>Rain and snow can fall through</style>",
+    "vi": "<style=DefaultOrange>Mưa và bão tuyết có thể lọt qua</style>"
+  },
+  {
+    "key": "building_tooltip_info_hail",
+    "type": 0,
+    "en": "<style=DefaultGreen>Prevents hailstones getting through</style>",
+    "vi": "<style=DefaultGreen>Ngăn chặn hoàn toàn mưa đá xuyên qua</style>"
+  },
+  {
+    "key": "worker_action_constructbuildinggoal",
+    "type": 0,
+    "en": "Constructing",
+    "vi": "Đang Thi Công Xây Dựng"
+  },
+  {
+    "key": "worker_action_deconstructgoal",
+    "type": 0,
+    "en": "Deconstructing",
+    "vi": "Đang Tháo Dỡ"
+  },
+  {
+    "key": "worker_action_deliverbuildingmaterialsgoal",
+    "type": 0,
+    "en": "Getting resources for construction",
+    "vi": "Đang Vận Chuyển Vật Liệu Xây Dựng"
+  },
+  {
+    "key": "worker_action_repairbuildinggoal",
+    "type": 0,
+    "en": "Repairing",
+    "vi": "Đang Tu Bổ Sửa Chữa"
+  },
+  {
+    "key": "worker_action_UninstallBuildingGoal",
+    "type": 0,
+    "en": "Removing Building",
+    "vi": "Đang Gỡ Bỏ Công Trình"
+  },
+  {
+    "key": "worker_action_DeliverMoveBuildingResource",
+    "type": 0,
+    "en": "Getting resources for construction",
+    "vi": "Đang Vận Chuyển Vật Liệu Tái Thiết"
+  },
+  {
+    "key": "worker_action_FollowConstructBuildingGoal",
+    "type": 0,
+    "en": "Constructing",
+    "vi": "Đang Thi Công Xây Dựng"
+  },
+  {
+    "key": "goal_preference_name_ConstructionPreference",
+    "type": 0,
+    "en": "Construct",
+    "vi": "Xây Dựng"
+  },
+  {
+    "key": "goal_preference_info_ConstructionPreference",
+    "type": 0,
+    "en": "Construct, deconstruct and repair any building.",
+    "vi": "Thi công xây dựng, tháo dỡ thu hồi và tu sửa mọi công trình."
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl1",
+    "type": 0,
+    "en": "Defensive Structures",
+    "vi": "Công Trình Phòng Thủ I"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl2",
+    "type": 0,
+    "en": "Defensive Structures II",
+    "vi": "Công Trình Phòng Thủ II"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl3",
+    "type": 0,
+    "en": "Defensive Structures III",
+    "vi": "Công Trình Phòng Thủ III"
+  },
+  {
+    "key": "research_name_defensive_constructions_lvl4",
+    "type": 0,
+    "en": "Defensive Structures IV",
+    "vi": "Công Trình Phòng Thủ IV"
+  },
+  {
+    "key": "research_name_iron_constructions_lvl1",
+    "type": 0,
+    "en": "Iron Construction",
+    "vi": "Kiến Trúc Đồ Sắt"
+  },
+  {
+    "key": "pte_host_buildings",
+    "type": 0,
+    "en": "Can be triggered from structure",
+    "vi": "Có thể kích hoạt từ công trình"
+  },
+  {
+    "key": "room_cant_have_other_prod_buildings",
+    "type": 0,
+    "en": "and other workstations",
+    "vi": "và các loại bàn chế tác khác"
+  },
+  {
+    "key": "room_kitchen_cant_have_buildings",
+    "type": 0,
+    "en": "Any other workstations, shrines or beds.",
+    "vi": "Không được có bất kỳ bàn chế tác, đền thờ hoặc giường ngủ nào khác."
+  },
+  {
+    "key": "room_library_cant_have_buildings",
+    "type": 0,
+    "en": "Any other workstations or shrines.",
+    "vi": "Không được có bất kỳ bàn chế tác hoặc đền thờ nào khác."
+  },
+  {
+    "key": "atb_info_ConstructionFail",
+    "type": 0,
+    "en": "The chance that construction fails, resetting construction time.",
+    "vi": "Tỉ lệ xảy ra sự cố xây dựng thất bại, buộc phải làm lại từ đầu."
+  },
+  {
+    "key": "atb_info_ConstructionSpeed",
+    "type": 0,
+    "en": "This settler's building construction speed.",
+    "vi": "Tốc độ thi công xây dựng công trình của dân làng này."
+  },
+  {
+    "key": "atb_info_UnarmedBuildingDamage",
+    "type": 0,
+    "en": "The percentage of damage dealt by an unarmed settler to a building or resource pile.",
+    "vi": "Tỉ lệ phần trăm sát thương mà dân làng đánh tay không gây ra cho công trình hoặc đống tài nguyên."
+  },
+  {
+    "key": "atb_name_ConstructionFail",
+    "type": 0,
+    "en": "Chance Construction Fails",
+    "vi": "Tỉ Lệ Thất Bại Xây Dựng"
+  },
+  {
+    "key": "atb_name_ConstructionSpeed",
+    "type": 0,
+    "en": "Construction Speed",
+    "vi": "Tốc Độ Xây Dựng"
+  },
+  {
+    "key": "atb_name_UnarmedBuildingDamage",
+    "type": 0,
+    "en": "Unarmed Damage To Buildings",
+    "vi": "Sát Thương Tay Không Lên Công Trình"
+  },
+  {
+    "key": "building names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên Các Công Trình Kiến Trúc"
+  },
+  {
+    "key": "building_name_clay_brick_floor",
+    "type": 0,
+    "en": "Clay Brick Floor",
+    "vi": "Sàn Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_general_floor",
+    "type": 0,
+    "en": "Floor",
+    "vi": "Sàn Nhà"
+  },
+  {
+    "key": "building_name_limestone_block_floor",
+    "type": 0,
+    "en": "Limestone Block Floor",
+    "vi": "Sàn Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_floor",
+    "type": 0,
+    "en": "Limestone Floor",
+    "vi": "Sàn Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_wood_floor",
+    "type": 0,
+    "en": "Wooden Floor",
+    "vi": "Sàn Gỗ Ván"
+  },
+  {
+    "key": "building_name_wicker_floor",
+    "type": 0,
+    "en": "Wicker Floor",
+    "vi": "Sàn Đan Liễu Gai"
+  },
+  {
+    "key": "building_name_metal_grated_platform",
+    "type": 0,
+    "en": "Metal Grated Platform",
+    "vi": "Bệ Sàn Lưới Thép"
+  },
+  {
+    "key": "building_name_wicker_mesh_floor",
+    "type": 0,
+    "en": "Wicker Grated Floor",
+    "vi": "Sàn Lưới Đan Liễu Gai"
+  },
+  {
+    "key": "building_name_stone_decorative_floor",
+    "type": 0,
+    "en": "Decorative Stone Tiled Floor",
+    "vi": "Sàn Lát Đá Khảm Trang Trí"
+  },
+  {
+    "key": "building_name_clay_decorative_floor",
+    "type": 0,
+    "en": "Decorative Clay Tiled Floor",
+    "vi": "Sàn Lát Gạch Đất Sét Trang Trí"
+  },
+  {
+    "key": "building_name_marble_decorative_floor",
+    "type": 0,
+    "en": "Decorative Marble Tiled Floor",
+    "vi": "Sàn Lát Đá Cẩm Thạch Trang Trí"
+  },
+  {
+    "key": "building_name_clay_brick_merlon",
+    "type": 0,
+    "en": "Clay Brick Merlon",
+    "vi": "Răng Thành Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_clay_merlon",
+    "type": 0,
+    "en": "Clay Merlon",
+    "vi": "Răng Thành Đất Sét"
+  },
+  {
+    "key": "building_name_general_merlon",
+    "type": 0,
+    "en": "Merlon",
+    "vi": "Răng Thành (Chắn Tường)"
+  },
+  {
+    "key": "building_name_limestone_block_merlon",
+    "type": 0,
+    "en": "Limestone Block Merlon",
+    "vi": "Răng Thành Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_merlon",
+    "type": 0,
+    "en": "Limestone Merlon",
+    "vi": "Răng Thành Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_wood_merlon",
+    "type": 0,
+    "en": "Wooden Merlon",
+    "vi": "Răng Thành Gỗ"
+  },
+  {
+    "key": "building_name_dirt_voxel",
+    "type": 0,
+    "en": "Soil",
+    "vi": "Khối Đất"
+  },
+  {
+    "key": "building_name_clay_brick_wall_element",
+    "type": 0,
+    "en": "Clay Brick Wall",
+    "vi": "Tường Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_clay_wall_element",
+    "type": 0,
+    "en": "Clay Wall",
+    "vi": "Tường Đất Sét"
+  },
+  {
+    "key": "building_name_general_wall",
+    "type": 0,
+    "en": "Wall",
+    "vi": "Tường Vách"
+  },
+  {
+    "key": "building_name_limestone_block_wall_element",
+    "type": 0,
+    "en": "Limestone Block Wall",
+    "vi": "Tường Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_wall_element",
+    "type": 0,
+    "en": "Limestone Wall",
+    "vi": "Tường Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_wood_wall_element",
+    "type": 0,
+    "en": "Wooden Wall",
+    "vi": "Tường Gỗ Ván"
+  },
+  {
+    "key": "building_name_dirt_slope",
+    "type": 0,
+    "en": "Slope",
+    "vi": "Dốc Đất"
+  },
+  {
+    "key": "building_name_general_stairs",
+    "type": 0,
+    "en": "Stairs",
+    "vi": "Cầu Thang"
+  },
+  {
+    "key": "building_name_clay_brick_stair",
+    "type": 0,
+    "en": "Clay Brick Stair",
+    "vi": "Cầu Thang Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_clay_stair",
+    "type": 0,
+    "en": "Clay Stair",
+    "vi": "Cầu Thang Đất Sét"
+  },
+  {
+    "key": "building_name_limestone_block_stair",
+    "type": 0,
+    "en": "Limestone Block Stair",
+    "vi": "Cầu Thang Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_stair",
+    "type": 0,
+    "en": "Limestone Stair",
+    "vi": "Cầu Thang Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_wood_stair_straight",
+    "type": 0,
+    "en": "Wooden Stair Straight",
+    "vi": "Cầu Thang Gỗ Thẳng"
+  },
+  {
+    "key": "building_name_wooden_stair_square",
+    "type": 0,
+    "en": "Wooden Stair Square",
+    "vi": "Cầu Thang Gỗ Vuông"
+  },
+  {
+    "key": "building_name_clay_brick_window",
+    "type": 0,
+    "en": "Clay Brick Window",
+    "vi": "Cửa Sổ Gạch Đất Sét"
+  },
+  {
+    "key": "building_name_clay_window",
+    "type": 0,
+    "en": "Clay Window",
+    "vi": "Cửa Sổ Đất Sét"
+  },
+  {
+    "key": "building_name_general_window",
+    "type": 0,
+    "en": "Window",
+    "vi": "Cửa Sổ"
+  },
+  {
+    "key": "building_name_limestone_block_window",
+    "type": 0,
+    "en": "Limestone Block Window",
+    "vi": "Cửa Sổ Khối Đá Vôi"
+  },
+  {
+    "key": "building_name_limestone_window",
+    "type": 0,
+    "en": "Limestone Window",
+    "vi": "Cửa Sổ Đá Vôi Thô"
+  },
+  {
+    "key": "building_name_wood_window",
+    "type": 0,
+    "en": "Wooden Window",
+    "vi": "Cửa Sổ Gỗ"
+  },
+  {
+    "key": "building_name_tall_gate",
+    "type": 0,
+    "en": "Tall Gate",
+    "vi": "Cổng Thành Cao"
+  },
+  {
+    "key": "building_name_gate",
+    "type": 0,
+    "en": "Gate",
+    "vi": "Cổng Thành"
+  },
+  {
+    "key": "building_name_portcullis",
+    "type": 0,
+    "en": "Portcullis ",
+    "vi": "Cổng Thả Sắt Khóa"
+  },
+  {
+    "key": "building_name_wood_gate_tall",
+    "type": 0,
+    "en": "Tall Gate",
+    "vi": "Cổng Gỗ Cao"
+  },
+  {
+    "key": "building_name_wood_gate",
+    "type": 0,
+    "en": "Gate",
+    "vi": "Cổng Gỗ"
+  },
+  {
+    "key": "building_name_wood_portcullis",
+    "type": 0,
+    "en": "Portcullis ",
+    "vi": "Cổng Thả Gỗ Khóa"
+  },
+  {
+    "key": "building_name_wood_ornate_gate_tall",
+    "type": 0,
+    "en": "Ornate Tall Gate",
+    "vi": "Cổng Gỗ Cao Chạm Khắc"
+  },
+  {
+    "key": "building_name_wood_ornate_gate",
+    "type": 0,
+    "en": "Ornate Gate",
+    "vi": "Cổng Gỗ Chạm Khắc"
+  }
+]

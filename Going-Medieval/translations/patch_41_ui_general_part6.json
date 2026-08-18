@@ -1,0 +1,902 @@
+[
+  {
+    "key": "objective_intellectual_end_game",
+    "type": 0,
+    "en": "Become a New University",
+    "vi": "Trở thành Đại học mới"
+  },
+  {
+    "key": "objective_intellectual_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, assemble the dons to proclaim your charter of commitment to academic excellence. This will confirm <village_name> University as the Leading Academic Institution of your region",
+    "vi": "Khi mọi thứ đã sẵn sàng, tập hợp các học giả để tuyên bố cam kết theo hiến chương về sự xuất sắc học thuật. Việc này sẽ xác nhận Đại học <village_name> là cơ sở học thuật hàng đầu trong khu vực của bạn"
+  },
+  {
+    "key": "objective_intellectual_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Khách từ các phe phái khác đang lên đường tới <village_name> để chiêm ngưỡng mọi thành quả của bạn."
+  },
+  {
+    "key": "game_event_intellectual_final_name",
+    "type": 0,
+    "en": "New University",
+    "vi": "Viện đại học mới"
+  },
+  {
+    "key": "game_event_intellectual_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming the New University. Doing so will call in a group of scholars to proclaim your charter of commitment to academic excellence.",
+    "vi": "Bạn sắp thực hiện bước cuối cùng để trở thành Đại học Mới. Một nhóm học giả sẽ được triệu tập để công bố hiến chương cam kết theo đuổi học thuật xuất sắc."
+  },
+  {
+    "key": "objective_military_name",
+    "type": 0,
+    "en": "Protector of the Realm",
+    "vi": "Người bảo hộ Vương quốc"
+  },
+  {
+    "key": "objective_military_tooltip",
+    "type": 0,
+    "en": "Rally your settlement to become the new Protector of the Realm",
+    "vi": "Tập hợp khu định cư để trở thành Người bảo hộ Vương quốc mới"
+  },
+  {
+    "key": "objective_military_info",
+    "type": 0,
+    "en": "You must dutifully claim your loyalty to this region as Protector of the Realm. In order to do this you must enact the following:",
+    "vi": "Bạn phải tuyên bố lòng trung thành với khu vực này trong vai trò Người Bảo hộ Vương quốc. Để làm vậy, bạn phải hoàn thành những việc sau:"
+  },
+  {
+    "key": "objective_military_defeat_bandit_camps",
+    "type": 0,
+    "en": "Defeat Bandit Strongholds",
+    "vi": "Đánh bại cứ điểm thổ phỉ"
+  },
+  {
+    "key": "objective_military_defeat_bandit_camps_info",
+    "type": 0,
+    "en": "Defeat the major bandit strongholds in the region so that none may rise to challenge your authority.",
+    "vi": "Đánh bại các cứ điểm thổ phỉ lớn trong khu vực để không ai có thể trỗi dậy thách thức quyền lực của bạn."
+  },
+  {
+    "key": "objective_miltary_end_game",
+    "type": 0,
+    "en": "Become Protector of the Realm",
+    "vi": "Trở thành Người bảo hộ Vương quốc"
+  },
+  {
+    "key": "objective_miltary_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, set forth <village_name>'s brightest banners and gilded knights. Your heralds shall proclaim that you have earned the most honourable of titles: Defender of the Realm.",
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy giương những lá cờ rực rỡ nhất và triệu tập các hiệp sĩ giáp vàng của <village_name>. Các sứ giả sẽ tuyên bố rằng bạn đã giành được danh hiệu cao quý nhất: Người Bảo vệ Vương quốc."
+  },
+  {
+    "key": "objective_trade_name",
+    "type": 0,
+    "en": "Charter Fair",
+    "vi": "Hội chợ Đặc quyền"
+  },
+  {
+    "key": "objective_trade_tooltip",
+    "type": 0,
+    "en": "Inspire your settlement to become the new Centre of Trade in your region",
+    "vi": "Truyền cảm hứng cho khu định cư để trở thành Trung tâm Giao thương mới trong khu vực của bạn"
+  },
+  {
+    "key": "objective_trade_info",
+    "type": 0,
+    "en": "You must take proclaim your value to this region as the Centre of Trade. In order to do this you need the following:",
+    "vi": "Bạn phải khẳng định giá trị của mình với khu vực này với tư cách Trung tâm Giao thương. Để làm vậy, bạn cần những điều sau:"
+  },
+  {
+    "key": "objective_trade_have_gold",
+    "type": 0,
+    "en": "Accumulate Gold Coin",
+    "vi": "Tích lũy tiền vàng"
+  },
+  {
+    "key": "objective_trade_have_gold_info",
+    "type": 0,
+    "en": "Accumulate sufficient gold coins in your treasury ",
+    "vi": "Tích lũy đủ tiền vàng trong kho bạc"
+  },
+  {
+    "key": "objective_trade_have_broker",
+    "type": 0,
+    "en": "Broker Level 3",
+    "vi": "Môi giới cấp 3"
+  },
+  {
+    "key": "objective_trade_have_broker_info",
+    "type": 0,
+    "en": "You need to have a broker level 3 in your settlement",
+    "vi": "Bạn cần có một Môi giới cấp 3 trong khu định cư"
+  },
+  {
+    "key": "objective_trade_make_trade_deal",
+    "type": 0,
+    "en": "Negotiate a Trade Agreement",
+    "vi": "Đàm phán Hiệp định Giao thương"
+  },
+  {
+    "key": "objective_trade_make_trade_deal_info",
+    "type": 0,
+    "en": "Secure at least one Trade Agreement with a friendly faction in your region. A broker will visit your settlement to offer a trade deal now that your mercantile renown is high.",
+    "vi": "Ký ít nhất một Hiệp định Giao thương với phe phái thân thiện trong khu vực. Khi danh tiếng thương mại của bạn đã cao, một Môi giới sẽ ghé khu định cư để đề nghị thỏa thuận."
+  },
+  {
+    "key": "objective_trade_build_market_center_marker",
+    "type": 0,
+    "en": "Market Cross",
+    "vi": "Chợ trung tâm"
+  },
+  {
+    "key": "objective_trade_build_market_center_marker_info",
+    "type": 0,
+    "en": "Construct a Market Cross monument as a symbol of your mercantile prestige.",
+    "vi": "Xây dựng tượng đài Thập tự Chợ làm biểu tượng cho uy tín thương mại của bạn."
+  },
+  {
+    "key": "objective_trade_end_game",
+    "type": 0,
+    "en": "Become The Centre of Trade",
+    "vi": "Trở thành Trung tâm Giao thương"
+  },
+  {
+    "key": "objective_trade_end_game_info",
+    "type": 0,
+    "en": "When everything is prepared, celebrate the inaugural Charter Fair, drawing in customers from far and wide. Proclaim your prestige as the region's leading Centre of Trade.",
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy tổ chức Hội chợ Đặc quyền đầu tiên, thu hút khách hàng từ khắp nơi. Tuyên bố uy tín của bạn với tư cách Trung tâm Giao thương hàng đầu khu vực."
+  },
+  {
+    "key": "objective_trade_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Khách từ các phe phái khác đang lên đường tới <village_name> để chiêm ngưỡng mọi thành quả của bạn."
+  },
+  {
+    "key": "game_event_trade_final_name",
+    "type": 0,
+    "en": "Charter Fair",
+    "vi": "Hội chợ Đặc quyền"
+  },
+  {
+    "key": "game_event_trade_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming The Centre of Trade. Doing so will call in a group of merchants and customers, who will arrive to proclaim your charter of trade and open the Inaugural Charter Fair.",
+    "vi": "Bạn sắp kích hoạt bước cuối cùng để trở thành Trung tâm Giao thương. Việc này sẽ triệu tập một nhóm thương nhân và khách hàng đến công bố đặc quyền thương mại và khai mạc Hội chợ Đặc quyền đầu tiên."
+  },
+  {
+    "key": "game_event_end_game_name",
+    "type": 0,
+    "en": "And so it ends",
+    "vi": "Và thế là kết thúc"
+  },
+  {
+    "key": "game_event_type_end_game",
+    "type": 0,
+    "en": "Congratulations!",
+    "vi": "Chúc mừng!"
+  },
+  {
+    "key": "game_event_description_end_game",
+    "type": 0,
+    "en": "Congratulations! You have reached the end of Going Medieval. Although the game is completed, you can continue playing for as long you want.",
+    "vi": "Chúc mừng! Bạn đã hoàn thành Going Medieval. Dù game đã kết thúc, bạn vẫn có thể tiếp tục chơi bao lâu tùy thích."
+  },
+  {
+    "key": "continue_playing",
+    "type": 0,
+    "en": "Continue playing",
+    "vi": "Tiếp tục chơi"
+  },
+  {
+    "key": "lb_force_unequip",
+    "type": 0,
+    "en": "Force Unequip",
+    "vi": "Buộc tháo trang bị"
+  },
+  {
+    "key": "lb_yearly_override",
+    "type": 0,
+    "en": "Yearly Override",
+    "vi": "Ghi đè theo năm"
+  },
+  {
+    "key": "lb_force_unequip_tooltip",
+    "type": 0,
+    "en": "If checked, the settler will drop items from the inventory that do not meet criteria.",
+    "vi": "Nếu được chọn, dân làng sẽ bỏ khỏi hành trang những vật phẩm không đáp ứng tiêu chí."
+  },
+  {
+    "key": "pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "news_name_pilgrim",
+    "type": 0,
+    "en": "Pilgrim Arrives",
+    "vi": "Người hành hương đến"
+  },
+  {
+    "key": "general_pilgrim_rest",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "general_pilgrim_restitutionist",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "pilgrim_restitutionist",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "pilgrim_visitor_1",
+    "type": 0,
+    "en": "Restitutionist Pilgrim",
+    "vi": "Người hành hương Phục Hưng"
+  },
+  {
+    "key": "pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "general_pilgrim_oak",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "pilgrim_pagan",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "general_pilgrim_pagan",
+    "type": 0,
+    "en": "Oak Brethren Pilgrim",
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "news_name_scholar",
+    "type": 0,
+    "en": "Travelling Scholar arrives",
+    "vi": "Học giả du hành đến"
+  },
+  {
+    "key": "scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Học giả du hành"
+  },
+  {
+    "key": "general_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Học giả du hành"
+  },
+  {
+    "key": "pilgrim_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Học giả du hành"
+  },
+  {
+    "key": "general_pilgrim_scholar",
+    "type": 0,
+    "en": "Travelling Scholar",
+    "vi": "Học giả du hành"
+  },
+  {
+    "key": "news_name_broker",
+    "type": 0,
+    "en": "Broker arrives",
+    "vi": "Môi giới thương mại ghé thăm"
+  },
+  {
+    "key": "general_broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Người môi giới"
+  },
+  {
+    "key": "trade_deal_name",
+    "type": 0,
+    "en": "Trade Agreement Location",
+    "vi": "Địa điểm Thỏa thuận Giao thương"
+  },
+  {
+    "key": "trade_deal_bonus",
+    "type": 0,
+    "en": "Trade Agreement Bonus",
+    "vi": "Tiền thưởng Thỏa thuận Giao thương"
+  },
+  {
+    "key": "trade_deal_dialog_title",
+    "type": 0,
+    "en": "Trade Agreement",
+    "vi": "Hiệp định Giao thương"
+  },
+  {
+    "key": "trade_deal_dialog_name",
+    "type": 0,
+    "en": "Trade Agreement Sealed",
+    "vi": "Hiệp định Giao thương đã ký kết"
+  },
+  {
+    "key": "trade_deal_dialog_info",
+    "type": 0,
+    "en": "A trade agreement has been signed and sealed. You gave <resources> worth <wealth> to <faction_name> as a token of good faith to help broker the deal.",
+    "vi": "Một Hiệp định Giao thương đã được ký kết. Bạn trao cho <faction_name> số <resources> trị giá <wealth> làm tín vật thiện chí để hỗ trợ việc đàm phán."
+  },
+  {
+    "key": "cannot_negotiate_with_non_broker",
+    "type": 0,
+    "en": "Only your Broker can negotiate a deal",
+    "vi": "Chỉ Môi giới của bạn mới có thể đàm phán thỏa thuận"
+  },
+  {
+    "key": "cannot_negotiate_broker_level_too_low",
+    "type": 0,
+    "en": "Only your Broker can negotiate a deal",
+    "vi": "Chỉ Môi giới của bạn mới có thể đàm phán thỏa thuận"
+  },
+  {
+    "key": "trade_deal_demand_option",
+    "type": 0,
+    "en": "<resources> with total value of <wealth>",
+    "vi": "<resources> có tổng giá trị <wealth>"
+  },
+  {
+    "key": "lb_allow_for_production",
+    "type": 0,
+    "en": "Allow Usage In Production:",
+    "vi": "Cho phép dùng trong sản xuất:"
+  },
+  {
+    "key": "lb_allow_for_production_info",
+    "type": 0,
+    "en": "Toggles if the resource from this storage can be used in any sort of production. If turned off, resources will be forbidden for use in production but can still be consumed, hauled, equipped and used for other jobs like sowing and construction.",
+    "vi": "Bật hoặc tắt việc sử dụng tài nguyên trong kho này cho mọi loại sản xuất. Khi tắt, tài nguyên bị cấm dùng để sản xuất nhưng vẫn có thể được tiêu thụ, vận chuyển, trang bị hoặc dùng cho các công việc khác như gieo trồng và xây dựng."
+  },
+  {
+    "key": "general_market_crowd",
+    "type": 0,
+    "en": "Onlooker",
+    "vi": "Người xem / Khán giả"
+  },
+  {
+    "key": "general_role",
+    "type": 0,
+    "en": "Role",
+    "vi": "Vai trò"
+  },
+  {
+    "key": "broker",
+    "type": 0,
+    "en": "Broker",
+    "vi": "Môi giới thương mại"
+  },
+  {
+    "key": "assign_role_info",
+    "type": 0,
+    "en": "Assign a community role to this settler",
+    "vi": "Phân công vai trò cộng đồng cho dân làng này"
+  },
+  {
+    "key": "hours_spent_in_role",
+    "type": 0,
+    "en": "Time in this role",
+    "vi": "Thời gian giữ vai trò này"
+  },
+  {
+    "key": "mods_present",
+    "type": 0,
+    "en": "Mods present",
+    "vi": "Bản Mod hiện diện"
+  },
+  {
+    "key": "mods_currently_enabled",
+    "type": 0,
+    "en": "Currently enabled",
+    "vi": "Hiện đang bật"
+  },
+  {
+    "key": "mods_from_save",
+    "type": 0,
+    "en": "Mods from save",
+    "vi": "Bản mod trong tệp lưu"
+  },
+  {
+    "key": "system_cover",
+    "type": 0,
+    "en": "Cover Effectiveness",
+    "vi": "Hiệu quả che chắn"
+  },
+  {
+    "key": "system_cover_info",
+    "type": 0,
+    "en": "-Cover effectiveness indicates what percentage of incoming projectiles will be stopped.\\n- Projectiles will ignore cover that is 3x grid spaces in front of the shooter, This means that archers standing behind merlons will be protected but their arrows will not be stopped by the merlon.\\n- Almost everything offers some cover, from bushes to torches. This means that for archers to have the best shot, they need a clear, unobstructed line of sight.",
+    "vi": "- Hiệu quả che chắn cho biết tỷ lệ đạn bay tới sẽ bị chặn.\\n- Đạn sẽ bỏ qua vật che chắn nằm trong phạm vi 3 ô phía trước người bắn. Điều này nghĩa là cung thủ đứng sau tường răng cưa được bảo vệ nhưng mũi tên của họ không bị tường chặn.\\n- Hầu hết mọi thứ đều tạo ra độ che chắn, từ bụi cây đến đuốc. Vì vậy, cung thủ cần đường ngắm rõ ràng, không bị cản trở để có phát bắn tốt nhất."
+  },
+  {
+    "key": "system_equipment_quality_info",
+    "type": 0,
+    "en": "- All items like weapons, armour and apparel have a quality level.\\n- Quality levels are:<b> flimsy, sturdy, good, fine, superior and flawless</b>.\\n- Higher quality levels mean the item is more durable, and has better attributes, such as damage or range.\\nSome items may have different modifiers depending on their quality.\\n- Your settlers have a higher chance of producing better quality items if their skill in that field is higher. \\n- When highly-skilled settlers are in a good mood, their chances of producing a flawless item will also increase slightly.\n",
+    "vi": "- Mọi vật phẩm như vũ khí, áo giáp và trang phục đều có cấp chất lượng.\\n- Các cấp chất lượng gồm:<b> ọp ẹp, chắc chắn, tốt, tinh xảo, thượng hạng và hoàn mỹ</b>.\\n- Chất lượng càng cao, vật phẩm càng bền và có các thuộc tính tốt hơn như sát thương hoặc tầm đánh.\\nMột số vật phẩm có thể nhận các hiệu ứng khác nhau tùy theo chất lượng.\\n- Dân làng có cơ hội tạo ra vật phẩm chất lượng cao hơn nếu kỹ năng tương ứng của họ cao. \\n- Khi dân làng có tay nghề cao đang vui vẻ, cơ hội tạo ra vật phẩm hoàn mỹ cũng tăng nhẹ.\n"
+  },
+  {
+    "key": "system_temperature_info",
+    "type": 0,
+    "en": "<style=AlmParagraph>Outside & Inside Temperature\\n</style>- Outdoor temperature is shown in the top right corner of the screen next to the time.\\n- This temperature is the global outdoor temperature that is further modified by sunlight, shade, proximity to heat sources, etc. \\n- Outdoor temperature depends on the season, time of day and active weather events such as cold snaps or heatwaves.\\n- You can inspect temperature using the temperature overlay on the upper left panel <sprite=\"temp_overlay_text_icon\" index=t>. \\n- To view indoor temperature, mouse over a room. Its temperature will be displayed replacing the outdoor temperature reading, in the top right corner. Alternatively, select the room to see this information.\\n- Indoor temperature depends on the outdoor temperature, and the room's insulation, as well as elements that have thermal output inside the room, like torches or a campfire.\\n<style=AlmParagraph>\\nKeeping cold\\n</style>If you want to have a colder room during the summertime, you can:\\n- build a room underground. \\n- use material that has high insulation, such as clay.\\n- keep windows open and extinguish all heat sources inside that room.\\n- Note that windows that let sunlight in can also heat up the room\\n- Store ice blocks to further cool the area around them. \\n<style=AlmParagraph>\\nKeeping warm\\n</style>If you want to have warm rooms during the wintertime, you can:\\n- place heat sources inside the rooms.\\n- close all windows to keep the warmth inside.",
+    "vi": "<style=AlmParagraph>Nhiệt độ ngoài trời & trong nhà\\n</style>- Nhiệt độ ngoài trời hiển thị ở góc trên bên phải màn hình cạnh đồng hồ thời gian.\\n- Nhiệt độ chịu ảnh hưởng bởi ánh nắng, bóng râm, khoảng cách tới nguồn nhiệt, v.v.\\n- Nhiệt độ ngoài trời thay đổi theo mùa, thời điểm trong ngày và các hình thái thời tiết như rét đậm hoặc nắng nóng.\\n- Bạn có thể bật lớp phủ nhiệt độ ở bảng trên cùng bên trái <sprite=\"temp_overlay_text_icon\" index=t>.\\n- Để xem nhiệt độ trong nhà, hãy rê chuột lên một căn phòng hoặc chọn phòng đó.\\n- Nhiệt độ phòng phụ thuộc vào nhiệt độ môi trường, độ cách nhiệt của vật liệu và các nguồn nhiệt trong phòng như đuốc hay lửa trại.\\n<style=AlmParagraph>\\nGiữ lạnh\\n</style>Để làm mát phòng vào mùa hè:\\n- Xây phòng dưới lòng đất.\\n- Dùng vật liệu cách nhiệt tốt như đất sét.\\n- Mở cửa sổ và tắt bớt nguồn nhiệt trong phòng.\\n- Lưu ý cửa sổ đón nắng cũng có thể làm tăng nhiệt độ phòng.\\n- Đặt các khối băng để làm mát khu vực xung quanh.\\n<style=AlmParagraph>\\nGiữ ấm\\n</style>Để sưởi ấm phòng vào mùa đông:\\n- Đặt các nguồn nhiệt trong phòng.\\n- Đóng kín cửa sổ để giữ hơi ấm bên trong."
+  },
+  {
+    "key": "system_armour_attributes_info",
+    "type": 0,
+    "en": "<style=AlmParagraph><sprite=\"body_armor_icon\" index=t> Armour rating\\n</style>- Armour rating further reduces the incoming damage after the armour penetration weapon attribute is taken into account. The higher the armour rating the better. \\n- Armour rating reduces as the armour piece loses its HP.\\n<style=AlmParagraph>\\n<sprite=\"cover_icon\" index=t> Cover amount\\n</style>- A shield's cover amount is the amount of incoming attacks the shield will absorb. Damage is fully absorbed by the shield but the shield takes the damage (multiplied by the weapon's armour damage).\\n- The final percentage of incoming blows absorbed is the shield cover amount + the opponent's evade chance attribute. ",
+    "vi": "<style=AlmParagraph><sprite=\"body_armor_icon\" index=t> Chỉ số giáp\\n</style>- Chỉ số giáp giúp giảm bớt sát thương nhận vào sau khi đã tính khả năng xuyên giáp của vũ khí. Chỉ số giáp càng cao càng tốt.\\n- Chỉ số giáp giảm dần khi trang bị giáp mất máu (độ bền).\\n<style=AlmParagraph>\\n<sprite=\"cover_icon\" index=t> Khả năng che chắn\\n</style>- Khả năng che chắn của khiên là lượng đòn đánh mà khiên hấp thụ hoàn toàn. Khiên sẽ nhận sát thương từ đòn đánh (nhân với sát thương giáp của vũ khí).\\n- Tỉ lệ đỡ đòn cuối cùng bằng chỉ số che chắn của khiên cộng với tỉ lệ né tránh của nhân vật."
+  },
+  {
+    "key": "system_clothing_attributes_info",
+    "type": 0,
+    "en": "<style=AlmParagraph><sprite=\"temperature_min_icon\" index=t> Minimum comfortable temperature\\n</style>- Clothing can adjust the wearer's minimum comfortable temperature so that they are less affected by the cold. In the case of winter clothing, the wearer can withstand lower temperatures without negative effects. E.g.: A settler's minimum comfortable temperature is 3°C but winter clothing adds -20°C. The settler's effective minimum comfortable temperature is now -17°C.\\n<style=AlmParagraph>\\n<sprite=\"temperature_max_icon\" index=t> Maximum comfortable temperature\\n</style>- Clothing can also adjust the wearer's maximum comfortable temperature. In the case of summer clothing, this means that they withstand higher temperatures without negative effects. ",
+    "vi": "<style=AlmParagraph><sprite=\"temperature_min_icon\" index=t> Nhiệt độ thoải mái tối thiểu\\n</style>- Quần áo có thể điều chỉnh nhiệt độ thoải mái tối thiểu của người mặc để họ ít bị ảnh hưởng bởi giá lạnh. Với trang phục mùa đông, người mặc có thể chịu được nhiệt độ thấp hơn mà không gặp hiệu ứng tiêu cực. Ví dụ: nhiệt độ thoải mái tối thiểu của dân làng là 3°C, còn trang phục mùa đông cộng thêm -20°C. Nhiệt độ thoải mái tối thiểu thực tế của dân làng khi đó là -17°C.\\n<style=AlmParagraph>\\n<sprite=\"temperature_max_icon\" index=t> Nhiệt độ thoải mái tối đa\\n</style>- Quần áo cũng có thể điều chỉnh nhiệt độ thoải mái tối đa của người mặc. Với trang phục mùa hè, điều này giúp họ chịu được nhiệt độ cao hơn mà không gặp hiệu ứng tiêu cực. "
+  },
+  {
+    "key": "system_higher_ground_info",
+    "type": 0,
+    "en": "- An archer (or other settler with a ranged weapon equipped) placed at least one level higher than their target gets a bonus to precision, range and critical hit chance. The projectile's trail will be red when fired from higher ground.\\n- If an archer is at least one level lower than their target, they will lose precision, range and critical hit chance. Projectiles fired from lower ground have a blue trail.",
+    "vi": "- Cung thủ hoặc dân làng khác trang bị vũ khí tầm xa đứng cao hơn mục tiêu ít nhất một tầng sẽ được tăng độ chính xác, tầm bắn và cơ hội chí mạng. Đạn bắn từ địa hình cao có vệt màu đỏ.\\n- Nếu cung thủ đứng thấp hơn mục tiêu ít nhất một tầng, họ sẽ mất độ chính xác, tầm bắn và cơ hội chí mạng. Đạn bắn từ địa hình thấp có vệt màu xanh."
+  },
+  {
+    "key": "system_effectors_info",
+    "type": 0,
+    "en": "- Modifiers vary attributes, priorities, mood and stats.\\n- Modifiers can be activated by consuming something or by equipping something\\n- E.g.: equipping heavy armour modifies a settler's movement and evade chance.\\nEach settler can activate differing modifiers, depending on their perks.\\n- E.g.: A settler with the Austere perk gets negative modifiers from a lavish meal , but positive effects from eating raw food.\\n- A list of active modifiers is found in the stats tab in the additional settler selection panel.\\n- A list of mood modifiers is found in the mood tab.\\n\\n- Wounds are also a type of modifier, because they affect certain settler attributes. But they differ from regular modifiers because they can cause bleeding, and have varied effects depending on their severity. ",
+    "vi": "- Hiệu ứng điều chỉnh các thuộc tính, mức ưu tiên, tâm trạng và chỉ số.\\n- Hiệu ứng có thể được kích hoạt khi tiêu thụ hoặc trang bị vật phẩm\\n- Ví dụ: trang bị giáp nặng sẽ điều chỉnh tốc độ di chuyển và cơ hội né tránh của dân làng.\\nMỗi dân làng có thể kích hoạt các hiệu ứng khác nhau tùy theo đặc tính.\\n- Ví dụ: dân làng có đặc tính Khắc khổ nhận hiệu ứng tiêu cực từ bữa ăn thịnh soạn nhưng hiệu ứng tích cực khi ăn thức ăn sống.\\n- Danh sách hiệu ứng đang hoạt động nằm trong thẻ chỉ số của bảng chọn dân làng bổ sung.\\n- Danh sách hiệu ứng tâm trạng nằm trong thẻ tâm trạng.\\n\\n- Vết thương cũng là một dạng hiệu ứng vì ảnh hưởng đến một số thuộc tính dân làng. Tuy nhiên, chúng khác hiệu ứng thông thường vì có thể gây chảy máu và tác động khác nhau tùy mức độ nghiêm trọng. "
+  },
+  {
+    "key": "system_equipment_quality_name",
+    "type": 0,
+    "en": "Item Quality",
+    "vi": "Chất lượng vật phẩm"
+  },
+  {
+    "key": "system_temperature",
+    "type": 0,
+    "en": "Temperature ",
+    "vi": "Nhiệt độ "
+  },
+  {
+    "key": "system_temperature_name",
+    "type": 0,
+    "en": "Temperature ",
+    "vi": "Nhiệt độ "
+  },
+  {
+    "key": "system_armour_attributes_name",
+    "type": 0,
+    "en": "Armour & Shield Attributes",
+    "vi": "Áo giáp & Shield Attributes"
+  },
+  {
+    "key": "system_clothing_attributes_name",
+    "type": 0,
+    "en": "Clothing Attributes",
+    "vi": "Thuộc tính trang phục"
+  },
+  {
+    "key": "system_higher_ground_name",
+    "type": 0,
+    "en": "Higher Ground",
+    "vi": "Địa hình trên cao"
+  },
+  {
+    "key": "system_effectors_name",
+    "type": 0,
+    "en": "Modifiers",
+    "vi": "Hệ số điều chỉnh"
+  },
+  {
+    "key": "system_decomposition",
+    "type": 0,
+    "en": "Decomposition & Rot",
+    "vi": "Phân hủy & mục nát"
+  },
+  {
+    "key": "system_decomposition_info",
+    "type": 0,
+    "en": "Certain resources and items can decompose or rot\\nReasons for decomposition and rotting:\\n- <b>Being outdoors</b> - Leaving your resources to get affected by the rain or snow will make them decompose faster. Place a roof over your stockpile to stop this from happening.\\n- <b>Temperature</b> - Resources like food will decompose faster during the summer\\n- <b>Ground-type</b> - Don’t leave your resources on the ground. Build floors underneath your stockpile zones to slow down decomposition.",
+    "vi": "Một số tài nguyên và vật phẩm có thể phân hủy hoặc mục nát\\nNguyên nhân gây phân hủy và mục nát:\\n- <b>Ở ngoài trời</b> - Tài nguyên tiếp xúc với mưa hoặc tuyết sẽ phân hủy nhanh hơn. Hãy dựng mái che trên bãi chứa để ngăn điều này.\\n- <b>Nhiệt độ</b> - Các tài nguyên như thức ăn phân hủy nhanh hơn vào mùa hè\\n- <b>Loại mặt đất</b> - Đừng để tài nguyên trực tiếp trên đất. Hãy xây sàn bên dưới khu bãi chứa để làm chậm quá trình phân hủy."
+  },
+  {
+    "key": "system_fermentation",
+    "type": 0,
+    "en": "Fermentation",
+    "vi": "Quá trình Lên Men"
+  },
+  {
+    "key": "system_fermentation_info",
+    "type": 0,
+    "en": "Some resources like curdling milk can ferment if the temperature is right. Resources that ferment will turn into new resources after the fermentation process is finished. Example: Curdling milk will turn into cheese.",
+    "vi": "Một số tài nguyên như sữa đông có thể lên men khi nhiệt độ phù hợp. Tài nguyên lên men sẽ biến thành tài nguyên mới khi quá trình hoàn tất. Ví dụ: sữa đông sẽ biến thành phô mai."
+  },
+  {
+    "key": "system_stability",
+    "type": 0,
+    "en": "Stability",
+    "vi": "Độ vững chắc"
+  },
+  {
+    "key": "system_stability_info",
+    "type": 0,
+    "en": "- Each structure has a stability value.\\n- This determines whether you can attach other structures to it.\\n- When set on the ground, a structure has a stability value of <b>4</b>. Each structure attached to it will have <b>-1</b> stability the further away it is placed.\\n- You cannot position a structure with a stability value of <b>0</b>.\\n- The vertical stability value remains unchanged.\\n- To view the stability values around your current cursor position, turn the stability visualizer on. <sprite=\"stability_overlay_text_icon\" index=t> \\n<style=AlmParagraph>\\nBeams\\n</style>\\n- Place beams between two walls or terrain voxels. If one of these gets destroyed, this will also destroy the beam and everything resting on it. \\n- A beam has a maximum range of 10 grid spaces.\\n- The beam will inherit the lower stability value of the two walls/voxels it ties together.\\n- Walls, windows, doors, roofs, merlons, and floors are the only things that you can place on beams. ",
+    "vi": "- Mỗi công trình đều có chỉ số độ vững chắc.\\n- Chỉ số này quyết định bạn có thể gắn thêm công trình khác vào hay không.\\n- Khi đặt trực tiếp trên mặt đất, công trình có độ vững chắc là <b>4</b>. Mỗi khối nối tiếp xa hơn sẽ bị trừ <b>-1</b> độ vững chắc.\\n- Không thể đặt công trình có độ vững chắc bằng <b>0</b>.\\n- Độ vững chắc theo phương thẳng đứng không bị suy giảm.\\n- Bật chế độ hiển thị độ vững chắc <sprite=\"stability_overlay_text_icon\" index=t> để xem chỉ số quanh con trỏ.\\n<style=AlmParagraph>\\nXà dầm\\n</style>\\n- Đặt xà dầm giữa hai bức tường hoặc khối địa hình. Nếu một bên bị phá hủy, xà dầm và mọi thứ đặt trên nó cũng sẽ sụp đổ.\\n- Xà dầm có tầm với tối đa là 10 ô lưới.\\n- Xà dầm nhận độ vững chắc thấp hơn từ một trong hai điểm tựa.\\n- Chỉ có tường, cửa sổ, cửa đi, mái nhà, tường răng cưa và sàn nhà mới có thể đặt trên xà dầm."
+  },
+  {
+    "key": "jobs_tooltip",
+    "type": 0,
+    "en": "Jobs set to the same priority level will be prioritized left to right.",
+    "vi": "Jobs set để same Mức ưu tiên level will be prioritized left để right."
+  },
+  {
+    "key": "gameplay_tips_camera_control",
+    "type": 0,
+    "en": "Camera Control",
+    "vi": "Điều khiển camera"
+  },
+  {
+    "key": "gameplay_tips_camera_control_info",
+    "type": 0,
+    "en": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n",
+    "vi": "- Dùng các phím [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] để di chuyển góc nhìn camera.\\n- Dùng con lăn chuột hoặc [<style=Shortcut><input:ZoomIn></style>] & [<style=Shortcut><input:ZoomOut></style>] để phóng to/thu nhỏ.\\n- Giữ [<sprite=\"ctrl_middle_click\" index=t>] và di chuột để xoay và nghiêng góc nhìn.\\n\\n<style=Desc>MẸO: Bạn có thể tùy chỉnh phím điều khiển camera trong menu cài đặt.</style>\\n"
+  },
+  {
+    "key": "photo_mode_instructions",
+    "type": 0,
+    "en": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n",
+    "vi": "- Use [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys đến move của bạn camera around.\\n- Use Mouse wheel hoặc [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] đến zoom.\\n- Giữ [<sprite=\"ctrl_middle_click\" index=t>] và move mouse đến rotate và tilt camera.\\n\\n<style=Desc>TIP: Bạn có thể customise camera controls trong tùy chọn menu.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_equipment",
+    "type": 0,
+    "en": "Equipment",
+    "vi": "Trang bị"
+  },
+  {
+    "key": "gameplay_tips_equipment_info",
+    "type": 0,
+    "en": "- To prepare your settlers, equip them with armour, clothing, and weapons.\\n- Select a settler, then [<sprite=\"ctrl_right_click\" index=t>] on an item and order them to equip it. \\n\\n<style=Desc>TIP: Equip melee weapons to settlers who are proficient at melee fighting, and ranged weapons to those proficient with ranged attacks.\\n<style=Desc>TIP: Choose clothes to suit the weather. Cold weather requires winter clothes!</style>\\n",
+    "vi": "- Để chuẩn bị cho dân làng, hãy trang bị giáp, quần áo và vũ khí cho họ.\\n- Chọn dân làng, sau đó [<sprite=\"ctrl_right_click\" index=t>] vào vật phẩm và ra lệnh trang bị.\\n\\n<style=Desc>MẸO: Trang bị vũ khí cận chiến cho dân làng giỏi đánh gần, và vũ khí tầm xa cho người bắn cung giỏi.\\n<style=Desc>MẸO: Chọn trang phục hợp thời tiết. Trời lạnh cần mặc áo ấm mùa đông!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_game_speed",
+    "type": 0,
+    "en": "Game Speed",
+    "vi": "Game Tốc độ"
+  },
+  {
+    "key": "gameplay_tips_game_speed_info",
+    "type": 0,
+    "en": "- You can speed up, slow down, or pause time.\\n- Click on the speed keys or use [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] to change the game speed.\\n- Click the pause icon or press [<style=Shortcut><input:GamePause></style>] to pause the game.\\n- You can give orders, place buildings, and draft settlers while the game is paused.\\n\\n<style=Desc>TIP: This is especially useful if things get hectic.</style>\\n",
+    "vi": "- Bạn có thể tăng tốc, làm chậm hoặc tạm dừng thời gian.\\n- Nhấn vào các biểu tượng tốc độ hoặc dùng [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] để đổi tốc độ.\\n- Nhấn tạm dừng hoặc phím [<style=Shortcut><input:GamePause></style>] để dừng trận đấu.\\n- Bạn vẫn có thể ra lệnh, đặt công trình và huy động quân khi đang tạm dừng.\\n\\n<style=Desc>MẸO: Rất hữu ích khi tình huống trở nên dồn dập.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Công việc"
+  },
+  {
+    "key": "gameplay_tips_jobs_info",
+    "type": 0,
+    "en": "- Prioritize each settler's tasks in the Jobs panel .\\n- Use <sprite=\"ctrl_left_click\" index=t> to increase the priority of a job, and <sprite=\"ctrl_right_click\" index=t> to decrease it.\\n- Settlers will always do the job with the highest priority first.\\n- If the job box is empty, the settler will never do that job.\\n- If numbers are equal, settlers will prioritise jobs from left to right.\\n- Box frames indicate the settler's skill level. Stars show their likes and dislikes.\\n\\n<style=Desc>TIP: Settlers can fail jobs if their skill is low, so turning jobs off can be useful!</style>\\n",
+    "vi": "- Sắp xếp độ ưu tiên công việc của từng dân làng trong bảng Công việc.\\n- Dùng <sprite=\"ctrl_left_click\" index=t> để tăng ưu tiên và <sprite=\"ctrl_right_click\" index=t> để giảm.\\n- Dân làng luôn thực hiện công việc có độ ưu tiên cao nhất trước.\\n- Nếu ô trống, dân làng sẽ không bao giờ làm công việc đó.\\n- Nếu số ưu tiên bằng nhau, công việc từ trái sang phải sẽ được ưu tiên trước.\\n- Khung viền biểu thị cấp độ kỹ năng. Ngôi sao thể hiện sở thích của dân làng.\\n\\n<style=Desc>MẸO: Dân làng có thể làm hỏng việc nếu kỹ năng quá thấp, tắt bớt việc là rất hữu ích!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_layer_control",
+    "type": 0,
+    "en": "World Layers",
+    "vi": "Các tầng thế giới"
+  },
+  {
+    "key": "gameplay_tips_layer_control_info",
+    "type": 0,
+    "en": "- You can switch between layers and the floors of buildings.\\n- This will hide objects and terrain above the selected level.\\n- Use the layer up & down buttons in the top left, or [<style=Shortcut><input:LayerUp></style>] and [<style=Shortcut><input:LayerDown></style>]. \\n\\n<style=Desc>TIP: This is useful for customising multi-storey buildings.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <style=Shortcut>Mouse wheel</style> to quickly switch through layers.\\nTIP: Use [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on an object to jump to its layer.</style>\\n",
+    "vi": "- Bạn có thể chuyển đổi giữa các tầng và độ cao công trình.\\n- Việc này sẽ ẩn các vật thể và địa hình phía trên tầng đang chọn.\\n- Dùng nút tăng/giảm tầng ở góc trên bên trái, hoặc phím [<style=Shortcut><input:LayerUp></style>] và [<style=Shortcut><input:LayerDown></style>].\\n\\n<style=Desc>MẸO: Rất tiện khi xây nhà nhiều tầng.\\nMẸO: Dùng [<style=Shortcut>Ctrl</style>] + <style=Shortcut>Cuộn chuột</style> để đổi tầng nhanh.\\nMẸO: Dùng [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> vào một vật thể để nhảy ngay tới tầng đó.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_move",
+    "type": 0,
+    "en": "Controlling Drafted Settlers",
+    "vi": "Controlling Drafted dân làng"
+  },
+  {
+    "key": "gameplay_tips_move_info",
+    "type": 0,
+    "en": "- Drafted settlers will move and attack targets you select.\\n- <sprite=\"ctrl_right_click\" index=t> anywhere to order your settlers to go to that position.\\n- <sprite=\"ctrl_right_click\" index=t> an enemy to order your settlers to attack them.\\n\\n<style=Desc>TIP: During combat, archers will shoot anyone within range, whilst melee settlers wait until the enemy comes close or attacks them.\\nTIP: Place archers on higher ground to buff their precision, range, and critical hit chance.</style>\\n",
+    "vi": "- Dân làng đã huy động sẽ di chuyển và tấn công mục tiêu bạn chỉ định.\\n- Nhấp [<sprite=\"ctrl_right_click\" index=t>] vào bất kỳ đâu để ra lệnh di chuyển tới đó.\\n- Nhấp [<sprite=\"ctrl_right_click\" index=t>] vào kẻ thù để ra lệnh tấn công.\\n\\n<style=Desc>MẸO: Trong giao tranh, cung thủ sẽ tự bắn kẻ địch trong tầm, trong khi quân cận chiến đợi kẻ địch đến gần hoặc tấn công họ.\\nMẸO: Đặt cung thủ ở vị trí cao hơn để tăng độ chính xác, tầm bắn và tỉ lệ chí mạng.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Mệnh lệnh"
+  },
+  {
+    "key": "gameplay_tips_orders_info",
+    "type": 0,
+    "en": "- Set actions for your settlers with the order tools in the lower right corner.\\n- Select the chop tool, then <sprite=\"ctrl_left_click\" index=t> drag over some trees to fell them.",
+    "vi": "- Đặt hành động cho dân làng bằng các công cụ mệnh lệnh ở góc dưới bên phải.\\n- Chọn công cụ đốn cây, sau đó giữ <sprite=\"ctrl_left_click\" index=t> và kéo qua các cây cần chặt."
+  },
+  {
+    "key": "gameplay_tips_production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Sản xuất"
+  },
+  {
+    "key": "gameplay_tips_production_info",
+    "type": 0,
+    "en": "- To start producing goods, select a workstation and add it from the product list.\\n- Set the amount of products you want your settlers to make.\\n\\n<style=Desc>TIP: 'Until you have' is useful to keep food stocks replenished.</style>\\n",
+    "vi": "- Để bắt đầu sản xuất hàng hóa, chọn một trạm làm việc rồi thêm sản phẩm từ danh sách.\\n- Đặt số lượng sản phẩm bạn muốn dân làng chế tạo.\\n\\n<style=Desc>MẸO: Chế độ 'Cho đến khi có đủ' rất hữu ích để duy trì lượng thức ăn dự trữ.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Nghiên cứu"
+  },
+  {
+    "key": "gameplay_tips_research_info",
+    "type": 0,
+    "en": "- You can unlock new technology in the research panel.\\n- Each research item requires books (chronicles, handbooks or theses).\\n- Research does not consume the books, but they must be kept safe.\\n- If your books are destroyed or lost, you will not be able to do new research.\\n- Research can be resumed once your previous book total is regained.",
+    "vi": "- Mở khóa công nghệ mới trong bảng Nghiên cứu.\\n- Mỗi mục nghiên cứu yêu cầu sách (biên niên sử, cẩm nang hoặc luận văn).\\n- Nghiên cứu không làm tiêu hao sách, nhưng sách phải được cất giữ an toàn.\\n- Nếu sách bị phá hủy hoặc mất mát, bạn sẽ không thể tiến hành nghiên cứu mới.\\n- Việc nghiên cứu có thể tiếp tục khi số lượng sách đạt lại mức yêu cầu."
+  },
+  {
+    "key": "gameplay_tips_schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Lịch trình"
+  },
+  {
+    "key": "gameplay_tips_schedule_info",
+    "type": 0,
+    "en": "- Use the <b>SCHEDULE</b> panel to choose when settlers do each type of activity.\\n- Work time is when settlers will do the jobs assigned in the <b>JOBS</b> panel.\\n- Leisure is for eating, playing, and religious activities.\\n\\n<style=Desc>TIP: Some settlers are more productive at different times than others - check their perks!</style>\\n",
+    "vi": "- Dùng bảng <b>LỊCH TRÌNH</b> để chọn thời điểm dân làng thực hiện từng loại hoạt động.\\n- Giờ làm việc là lúc dân làng thực hiện công việc được phân trong bảng <b>CÔNG VIỆC</b>.\\n- Giờ giải trí dành cho ăn uống, vui chơi và hoạt động tôn giáo.\\n\\n<style=Desc>MẸO: Một số dân làng làm việc hiệu quả hơn vào những thời điểm khác nhau - hãy kiểm tra đặc tính của họ!</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_select",
+    "type": 0,
+    "en": "Draft Settlers",
+    "vi": "Huy động dân làng"
+  },
+  {
+    "key": "gameplay_tips_select_info",
+    "type": 0,
+    "en": "- To control your settlers directly, you need to draft them.\\n- Draft settlers by selecting them, then clicking the draft action.\\n- You can also select settlers from the settler panel on the left.\\n\\n<style=Desc>TIP: You can select multiple settlers by dragging over them or using [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t>. Then you can draft them all at once.</style>\\n",
+    "vi": "- Để điều khiển trực tiếp dân làng, bạn cần huy động họ.\\n- Chọn dân làng rồi nhấp hành động huy động.\\n- Bạn cũng có thể chọn dân làng từ bảng dân làng bên trái.\\n\\n<style=Desc>MẸO: Bạn có thể chọn nhiều dân làng bằng cách kéo chuột qua họ hoặc dùng [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t>. Sau đó có thể huy động tất cả cùng lúc.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_stockpile",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Bãi chứa"
+  },
+  {
+    "key": "gameplay_tips_stockpile_info",
+    "type": 0,
+    "en": "- Your settlers need somewhere to store resources.\\n- You can choose where they store things by setting up a Stockpile Zone.\\n- Select the Zone panel in the lower left of the screen, or press [<style=Shortcut><input:Zone></style>].\\n- Choose the Default Stockpile, then select an area for the stockpile.\\n\\n<style=Desc>TIP: Place stockpiles on floors and under roofs to slow down resources' decay.\\nTIP: Click on a placed stockpile to change what settlers will and won't store inside it.</style>\\n",
+    "vi": "- Dân làng cần nơi để cất giữ tài nguyên.\\n- Bạn có thể chọn nơi lưu trữ bằng cách thiết lập Khu Bãi chứa.\\n- Chọn bảng Khu vực ở góc dưới bên trái màn hình hoặc nhấn [<style=Shortcut><input:Zone></style>].\\n- Chọn Bãi chứa Mặc định rồi đánh dấu một khu vực làm bãi chứa.\\n\\n<style=Desc>MẸO: Đặt bãi chứa trên sàn và dưới mái che để làm chậm quá trình phân hủy tài nguyên.\\nMẸO: Nhấp vào bãi chứa đã đặt để thay đổi những thứ dân làng được phép hoặc không được phép cất bên trong.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_manage_info",
+    "type": 0,
+    "en": "- Use the Manage panel to set which items your settlers can auto-equip and consume.\\n\\n<style=Desc>TIP: You can override these settings by selecting a settler and forcing them to equip or consume something by right-clicking on the item and selecting an action</style>\\n",
+    "vi": "- Dùng bảng Quản lý để thiết lập vật phẩm dân làng có thể tự trang bị và tiêu thụ.\\n\\n<style=Desc>MẸO: Bạn có thể ghi đè các thiết lập này bằng cách chọn một dân làng, nhấp chuột phải vào vật phẩm rồi chọn hành động để buộc họ trang bị hoặc tiêu thụ.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_defence_info",
+    "type": 0,
+    "en": "- Create spots for archers on high ground to buff their precision, range, and crit chance.\\n- Use structures like merlons to cover your archers from enemy projectiles.\\n- Place traps strategically around your settlement to weaken your enemies.",
+    "vi": "- Bố trí vị trí cho cung thủ trên địa hình cao để tăng độ chính xác, tầm bắn và cơ hội chí mạng.\\n- Dùng các công trình như tường răng cưa để che chắn cung thủ khỏi đạn của kẻ thù.\\n- Đặt bẫy có chiến thuật quanh khu định cư để làm suy yếu kẻ thù."
+  },
+  {
+    "key": "gameplay_tips_manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Quản lý"
+  },
+  {
+    "key": "gameplay_tips_defence",
+    "type": 0,
+    "en": "Defence",
+    "vi": "Phòng thủ"
+  },
+  {
+    "key": "gameplay_tips_forbid",
+    "type": 0,
+    "en": "Forbid & Allow",
+    "vi": "Cấm & cho phép"
+  },
+  {
+    "key": "gameplay_tips_forbid_info",
+    "type": 0,
+    "en": "- Items are either forbidden or allowed. Settlers will not interact with forbidden items.\\n- Forbidden items will have a sign over them: a hand with a cross.\\n- You can allow items using the order in the bottom right of the screen.\\n- Forbid items by selecting them and then clicking the forbid action.\\n\\n<style=Desc>TIP: By default, most loose items on a new map are forbidden.\\nTIP: You may wish to forbid settlers from retrieving items like dead bodies or rotten food.</style>\\n",
+    "vi": "- Vật phẩm có thể ở trạng thái bị cấm hoặc được phép. Dân làng sẽ không tương tác với vật phẩm bị cấm.\\n- Vật phẩm bị cấm có biểu tượng bàn tay bị gạch chéo phía trên.\\n- Bạn có thể cho phép vật phẩm bằng mệnh lệnh ở góc dưới bên phải màn hình.\\n- Để cấm vật phẩm, chọn chúng rồi nhấp hành động Cấm.\\n\\n<style=Desc>MẸO: Theo mặc định, hầu hết vật phẩm rời trên bản đồ mới đều bị cấm.\\nMẸO: Bạn có thể cấm dân làng thu gom những thứ như thi thể hoặc thức ăn thối rữa.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_region",
+    "type": 0,
+    "en": "Region",
+    "vi": "Bản đồ khu vực"
+  },
+  {
+    "key": "gameplay_tips_trading",
+    "type": 0,
+    "en": "Bartering",
+    "vi": "Trao đổi"
+  },
+  {
+    "key": "gameplay_tips_initiate_trading",
+    "type": 0,
+    "en": "Trading",
+    "vi": "Giao thương"
+  },
+  {
+    "key": "gameplay_tips_friendliness",
+    "type": 0,
+    "en": "Alignment",
+    "vi": "Mức độ thiện cảm"
+  },
+  {
+    "key": "gameplay_tips_trading_info",
+    "type": 0,
+    "en": "- You can exchange resources and items with merchants.\\n- The items you offer should have the same or a similar value to those you ask for.\\n- You can gift items to the merchant by offering more value than you receive.\\n- This will favourably influence the merchant's faction towards you.\\n- Resources' value depends on merchant type, faction, alignment, and even time of year.",
+    "vi": "- Bạn có thể trao đổi tài nguyên và vật phẩm với thương nhân.\\n- Vật phẩm bạn đề nghị nên có giá trị bằng hoặc gần bằng những thứ bạn yêu cầu.\\n- Bạn có thể tặng vật phẩm cho thương nhân bằng cách đề nghị giá trị cao hơn số nhận lại.\\n- Việc này sẽ cải thiện thiện cảm của phe phái thương nhân đối với bạn.\\n- Giá trị tài nguyên phụ thuộc vào loại thương nhân, phe phái, quan hệ và cả thời điểm trong năm."
+  },
+  {
+    "key": "gameplay_tips_region_info",
+    "type": 0,
+    "en": "- You can see what factions and settlements are in your region via the Region map.\\n-Here you will be able to see the neighboring factions, occasional bandit camps, and other points of interest. \\n\\n-Keep in mind that what you do in your settlement will be noticed by others in your region. Various types of <LinkAlmanac=\"Gameplaytipsrenown\">renown</link> can be gained and will be recognised by others. \n",
+    "vi": "- Bạn có thể xem các phe phái và khu định cư trong vùng qua bản đồ Khu vực.\\n- Tại đây, bạn sẽ thấy các phe phái láng giềng, doanh trại thổ phỉ xuất hiện đôi lúc và những địa điểm đáng chú ý khác. \\n\\n- Hãy nhớ rằng những việc bạn làm trong khu định cư sẽ được các thế lực khác trong vùng chú ý. Bạn có thể tích lũy nhiều loại <LinkAlmanac=\"Gameplaytipsrenown\">danh tiếng</link> và được họ công nhận. \n"
+  },
+  {
+    "key": "gameplay_tips_renown",
+    "type": 0,
+    "en": "Renown",
+    "vi": "Danh tiếng"
+  },
+  {
+    "key": "gameplay_tips_renown_info",
+    "type": 0,
+    "en": "- The way you build your settlement and the things you do will change your renown.\\n-When renown of any type reaches 100% you will be given the choice to pursue a Grand Objective that will lead your settlement into the endgame. \\n\\n- Renown may be influenced by your settlers' roles, events you hold, and the outcomes of battles.",
+    "vi": "- Cách bạn xây dựng khu định cư và những việc bạn làm sẽ thay đổi danh tiếng.\\n- Khi một loại danh tiếng đạt 100%, bạn được chọn theo đuổi một Đại Mục tiêu để đưa khu định cư tới giai đoạn cuối. \\n\\n- Danh tiếng chịu ảnh hưởng bởi vai trò của dân làng, các sự kiện bạn tổ chức và kết quả chiến đấu."
+  },
+  {
+    "key": "gameplay_tips_friendliness_info",
+    "type": 0,
+    "en": "- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n",
+    "vi": "- Quan hệ quyết định một phe phái thân thiện, trung lập hay thù địch với khu định cư của bạn.\\n- Phe thù địch sẽ tập kích khu định cư, còn phe thân thiện và trung lập thỉnh thoảng sẽ cử thương nhân tới.\n"
+  },
+  {
+    "key": "gameplay_tips_initiate_trading_info",
+    "type": 0,
+    "en": "- To barter with a merchant, select a settler and <sprite=\"ctrl_right_click\" index=t> on the merchant, then select the <b>Barter With</b> option.\\n\\n<style=Desc>TIP: The settler making the trade can influence prices and negotiate, so try to send someone with high speechcraft.</style>\\n",
+    "vi": "- Để trao đổi với thương nhân, chọn một dân làng rồi <sprite=\"ctrl_right_click\" index=t> vào thương nhân và chọn <b>Trao đổi với</b>.\\n\\n<style=Desc>MẸO: Dân làng thực hiện giao dịch có thể tác động đến giá cả và thương lượng, vì vậy hãy cử người có kỹ năng Ngoại giao cao.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_move_structures",
+    "type": 0,
+    "en": "Relocate Furniture",
+    "vi": "Di chuyển nội thất"
+  },
+  {
+    "key": "gameplay_tips_move_structures_info",
+    "type": 0,
+    "en": "- Furniture, workstations, and other small constructions can be easily relocated\\n- Select an item of furniture and click the relocate button, then select a new location.\\n- You can also remove structures.\\n- Removed structures turn into resource piles and can be stored or traded.",
+    "vi": "- Nội thất, trạm làm việc và các công trình nhỏ khác có thể dễ dàng di chuyển.\\n- Chọn một món nội thất, nhấp nút Di chuyển rồi chọn vị trí mới.\\n- Bạn cũng có thể tháo dỡ công trình.\\n- Công trình bị tháo dỡ sẽ biến thành đống tài nguyên để lưu trữ hoặc giao dịch."
+  },
+  {
+    "key": "gameplay_tips_farming",
+    "type": 0,
+    "en": "Farming",
+    "vi": "Trồng trọt"
+  },
+  {
+    "key": "gameplay_tips_farming_info",
+    "type": 0,
+    "en": "- Crop fields ensure a steady supply of food, even in winter.\\n- Choose a crop from the zone panel [<style=Shortcut><input:Zone></style>], then drag it to the required size.\\n- You must have stockpiled seeds or saplings in order to sow crops.\\n- New varieties of crop will unlock as you forage or buy new seed types.\\n\\n<style=Desc>TIP: Plants need sunlight - sow seeds away from trees or structures that create shade.</style>\\n",
+    "vi": "- Ruộng cây trồng cung cấp nguồn thức ăn ổn định, kể cả vào mùa đông.\\n- Chọn cây trồng từ bảng Khu vực [<style=Shortcut><input:Zone></style>] rồi kéo đến kích thước mong muốn.\\n- Bạn phải dự trữ hạt giống hoặc cây non để gieo trồng.\\n- Các giống cây mới được mở khóa khi bạn thu hái hoặc mua loại hạt giống mới.\\n\\n<style=Desc>MẸO: Cây cần ánh sáng mặt trời - hãy gieo hạt xa cây lớn hoặc công trình tạo bóng râm.</style>\\n"
+  },
+  {
+    "key": "gameplay_tips_mesh_variations",
+    "type": 0,
+    "en": "Structure Visual Variations",
+    "vi": "Biến thể hình ảnh công trình"
+  },
+  {
+    "key": "gameplay_tips_mesh_variations_info",
+    "type": 0,
+    "en": "- Some structures, like walls, fences and roofs, have visual variations that can be selected to customise their appearance. These variations are purely aesthetic and don't influence gameplay.",
+    "vi": "- Một số công trình như tường, hàng rào và mái nhà có nhiều biến thể hình ảnh để bạn tùy chỉnh diện mạo. Các biến thể này chỉ mang tính thẩm mỹ và không ảnh hưởng lối chơi."
+  },
+  {
+    "key": "gameplay_tips_player_triggered_events",
+    "type": 0,
+    "en": "Events",
+    "vi": "Sự kiện"
+  },
+  {
+    "key": "gameplay_tips_player_triggered_events_info",
+    "type": 0,
+    "en": "- Certain events can be triggered, like a <LinkAlmanac=\"Playertriggeredeventfeast\">Feast</link> or a <LinkAlmanac=\"Playertriggeredeventsermon\">Sermon</link>. \\n- To launch these events, construct the corresponding room type, and select the structure within it which is the origin of the event. \\n- Each event type has conditions, and will have varying levels of quality, depending on which conditions are met. \\n- Different quality outcomes will result in different mood and other buffs or debuff to the event's participants. \\n- Some events benefit from having a settler with a <LinkAlmanac=\"Roletypes\">role</link> present.\\n- Event types:\\n<event_list>",
+    "vi": "- Có thể kích hoạt một số sự kiện như <LinkAlmanac=\"Playertriggeredeventfeast\">Yến tiệc</link> hoặc <LinkAlmanac=\"Playertriggeredeventsermon\">Thánh lễ</link>. \\n- Để tổ chức, hãy xây đúng loại phòng rồi chọn công trình làm điểm khởi nguồn sự kiện bên trong. \\n- Mỗi loại sự kiện có các điều kiện và cấp chất lượng khác nhau tùy số điều kiện được đáp ứng. \\n- Kết quả chất lượng khác nhau sẽ tạo hiệu ứng tâm trạng và các hiệu ứng tăng hoặc giảm khác nhau cho người tham dự. \\n- Một số sự kiện được cải thiện khi có dân làng giữ <LinkAlmanac=\"Roletypes\">vai trò</link> tham dự.\\n- Các loại sự kiện:\\n<event_list>"
+  },
+  {
+    "key": "gameplay_tips_roles",
+    "type": 0,
+    "en": "Community Roles",
+    "vi": "Vai trò cộng đồng"
+  },
+  {
+    "key": "gameplay_tips_roles_info",
+    "type": 0,
+    "en": "- You can give certain settlers special community roles. \\n- These settlers have particular behaviours during role-appointed hours. \\n- Certain criteria must be met to assign a role to a settler. \\n- Roles help to increase your regional renown. \\n- Some roles enhance events, improving their outcomes: e.g. a bard improves the quality of a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> .\\n\\n- Role types:\\n<role_list>",
+    "vi": "- Bạn có thể giao cho một số dân làng các vai trò cộng đồng đặc biệt. \\n- Những dân làng này có hành vi riêng trong các giờ được phân công vai trò. \\n- Cần đáp ứng một số tiêu chí để giao vai trò cho dân làng. \\n- Vai trò giúp tăng danh tiếng khu vực của bạn. \\n- Một số vai trò nâng cao sự kiện và cải thiện kết quả; ví dụ Nhạc công cải thiện chất lượng <LinkAlmanac=\"Playertriggeredeventfeast\">yến tiệc</link>.\\n\\n- Các loại vai trò:\\n<role_list>"
+  },
+  {
+    "key": "gameplay_tips_structure_replacement",
+    "type": 0,
+    "en": "Structure Replacement",
+    "vi": "Thay thế công trình"
+  },
+  {
+    "key": "gameplay_tips_structure_replacement_info",
+    "type": 0,
+    "en": "- Certain structures can be replaced with the same structure made from a different material. \\n- Replacing structures such as walls, beams, and floors will not affect structural stability.\\n- Select a building and click the Replace Structure button in the lower-right corner. \\n- Each replacement requires resources based on the selected material type. \\n- Some replacement options may not be available if the required building material is missing. \\n- Once a replacement is selected, a settler with a construction job will rebuild it. \\n- Materials from the old structure will be returned to resource piles.",
+    "vi": "- Một số công trình có thể được thay bằng cùng loại công trình làm từ vật liệu khác. \\n- Thay tường, dầm hoặc sàn không ảnh hưởng đến độ ổn định kết cấu.\\n- Chọn công trình rồi nhấp nút Thay thế công trình ở góc dưới bên phải. \\n- Mỗi lần thay thế cần tài nguyên tùy theo loại vật liệu đã chọn. \\n- Một số lựa chọn thay thế không khả dụng nếu thiếu vật liệu xây dựng cần thiết. \\n- Khi chọn thay thế, dân làng có công việc xây dựng sẽ tái dựng công trình. \\n- Vật liệu từ công trình cũ sẽ được trả về các đống tài nguyên."
+  },
+  {
+    "key": "tut_start_title",
+    "type": 0,
+    "en": "Welcome to Going Medieval",
+    "vi": "Chào mừng đến với Going Medieval"
+  },
+  {
+    "key": "tut_start_info",
+    "type": 0,
+    "en": "This tutorial will guide you through the basic concepts of Going Medieval. \\n\\nSome advanced features will remain locked during this tutorial.",
+    "vi": "Hướng dẫn này sẽ giới thiệu những khái niệm cơ bản của Going Medieval. \\n\\nMột số tính năng nâng cao sẽ vẫn bị khóa trong hướng dẫn này."
+  },
+  {
+    "key": "tut_camera_title",
+    "type": 0,
+    "en": "Camera Controls",
+    "vi": "Điều khiển camera"
+  },
+  {
+    "key": "tut_camera_info",
+    "type": 0,
+    "en": "Move, tilt, rotate and zoom camera.",
+    "vi": "Di chuyển, nghiêng, xoay và thu phóng camera."
+  },
+  {
+    "key": "tut_move_camera",
+    "type": 0,
+    "en": "[<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] or [<sprite=\"ctrl_right_click\" index=t>] to move",
+    "vi": "[<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] hoặc [<sprite=\"ctrl_right_click\" index=t>] để di chuyển"
+  }
+]

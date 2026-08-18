@@ -1,0 +1,902 @@
+[
+  {
+    "key": "point_of_interest_explored",
+    "type": 0,
+    "en": "Already explored",
+    "vi": "Đã Khám Phá Xong"
+  },
+  {
+    "key": "point_of_interest_explored_info",
+    "type": 0,
+    "en": "Send a caravan to this location to retrieve items left behind",
+    "vi": "Cử một thương đoàn đến địa điểm này để thu hồi các vật phẩm có giá trị còn sót lại."
+  },
+  {
+    "key": "point_of_interest_disabled_settlement_info",
+    "type": 0,
+    "en": "They know you are coming, and are prepared. You cannot send a caravan to this location in the next: <time>",
+    "vi": "Họ biết bạn sắp kéo đến và đã phòng bị cẩn mật. Bạn không thể cử thương đoàn tới địa điểm này trong: <time>"
+  },
+  {
+    "key": "point_of_interest_disabled_camp_info",
+    "type": 0,
+    "en": "They know you are coming, and are prepared. It is best not to send any settlers to this location, which most likely is abandoned.",
+    "vi": "Khu trại này đang cảnh giác cao độ. Tốt nhất không nên cử dân làng tới khu vực dường như đã bị bỏ hoang này."
+  },
+  {
+    "key": "point_of_interest_disabled_settlement_info_02",
+    "type": 0,
+    "en": "Nothing remains but rubble. It will be a while before this settlement is habitable again.",
+    "vi": "Chỉ còn lại một đống gạch đá đổ nát hoang tàn. Sẽ mất một thời gian dài trước khi khu định cư này có thể tái định cư trở lại."
+  },
+  {
+    "key": "point_of_interest_stash",
+    "type": 0,
+    "en": "Send a caravan to explore this loot stash",
+    "vi": "Cử một thương đoàn tới thám hiểm và khai quật rương kho báu này"
+  },
+  {
+    "key": "point_of_interest_bandit_camp",
+    "type": 0,
+    "en": "Send a caravan to attack this bandit camp",
+    "vi": "Cử một thương đoàn tới tiêu diệt và bình định doanh trại thảo khấu này"
+  },
+  {
+    "key": "point_of_interest_bandit_camp_02",
+    "type": 0,
+    "en": "Destroying this bandit camp will improve relations with <faction_name>",
+    "vi": "Tiêu diệt hoàn toàn doanh trại thổ phỉ này sẽ gia tăng thiện cảm bang giao với phe <faction_name>"
+  },
+  {
+    "key": "point_of_interest_content",
+    "type": 0,
+    "en": "Content: ",
+    "vi": "Chiến Lợi Phẩm Dự Kiến: "
+  },
+  {
+    "key": "beggar_asking",
+    "type": 0,
+    "en": "Request",
+    "vi": "Lời Thỉnh Cầu Bố Thí"
+  },
+  {
+    "key": "beggar_give",
+    "type": 0,
+    "en": "The total amount of value you will give to the beggar",
+    "vi": "Tổng giá trị tài sản bạn sẽ bố thí cho kẻ ăn xin"
+  },
+  {
+    "key": "beggar_ask_title",
+    "type": 0,
+    "en": "Request",
+    "vi": "Yêu Cầu Bố Thí"
+  },
+  {
+    "key": "beggar_ask_desc",
+    "type": 0,
+    "en": "The amount of value the beggar is asking for. This is influenced by the settler negotiating. ",
+    "vi": "Giá trị của cải mà kẻ ăn xin cầu xin. Con số này chịu ảnh hưởng trực tiếp bởi tài thương lượng khéo léo của dân làng."
+  },
+  {
+    "key": "beggar_wont_take",
+    "type": 0,
+    "en": "This beggar won't accept this resource",
+    "vi": "Kẻ ăn xin này từ chối không nhận loại tài nguyên này"
+  },
+  {
+    "key": "beggar_are_you_sure",
+    "type": 0,
+    "en": "Are you sure that you want to finalise this transaction?",
+    "vi": "Bạn có chắc chắn muốn hoàn tất giao dịch bố thí này?"
+  },
+  {
+    "key": "beggar_message_cant_continue",
+    "type": 0,
+    "en": "The beggar is asking for more",
+    "vi": "Kẻ ăn xin vẫn đang khẩn thiết xin thêm của cải"
+  },
+  {
+    "key": "leave_prompt_info",
+    "type": 0,
+    "en": "Are you sure you want to leave this location?",
+    "vi": "Bạn có chắc chắn muốn rời khỏi địa điểm này?"
+  },
+  {
+    "key": "enter_map_tooltip",
+    "type": 0,
+    "en": "Enter location",
+    "vi": "Vào địa điểm"
+  },
+  {
+    "key": "loot_place_tooltip",
+    "type": 0,
+    "en": "Loot",
+    "vi": "Hôi của / Cướp phá"
+  },
+  {
+    "key": "loot_place_empty_tooltip",
+    "type": 0,
+    "en": "No loot remains",
+    "vi": "Không còn chiến lợi phẩm"
+  },
+  {
+    "key": "general_talk_with",
+    "type": 0,
+    "en": "Talk to: <npc_name>",
+    "vi": "Talk đến: <npc_name>"
+  },
+  {
+    "key": "cant_take_items_hostiles_on_map",
+    "type": 0,
+    "en": "This cannot be acquired while hostile enemies are present ",
+    "vi": "Không thể thu thập vật phẩm này khi vẫn còn kẻ thù thù địch xuất hiện."
+  },
+  {
+    "key": "all_enemies_killed",
+    "type": 0,
+    "en": "The area has been cleared of threats ",
+    "vi": "Khu vực đã được dọn sạch mọi mối đe dọa."
+  },
+  {
+    "key": "ambush_negotiate_tooltip",
+    "type": 0,
+    "en": "Negotiate",
+    "vi": "Đàm phán thương lượng"
+  },
+  {
+    "key": "ambush_fight_tooltip",
+    "type": 0,
+    "en": "Fight",
+    "vi": "Chiến đấu"
+  },
+  {
+    "key": "ambush_escape_tooltip",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Bỏ chạy"
+  },
+  {
+    "key": "general_bandit_camp",
+    "type": 0,
+    "en": "Bandit Camp",
+    "vi": "Thổ phỉ Camp"
+  },
+  {
+    "key": "general_ambush",
+    "type": 0,
+    "en": "Ambush",
+    "vi": "Phục kích"
+  },
+  {
+    "key": "ambush_chance",
+    "type": 0,
+    "en": "Ambush Chance",
+    "vi": "Ambush Tỷ lệ"
+  },
+  {
+    "key": "ambush_chance_info",
+    "type": 0,
+    "en": "The chance this caravan is ambushed depends on: \\nSize of the caravan (larger groups attract more attention) \\nCaravan wealth (bandits are more likely to attack if there are rich pickings) \\nJourney length (the longer the trip, the greater the chance of an incident)",
+    "vi": "Tỉ lệ thương đoàn này bị phục kích phụ thuộc vào: \\nQuy mô thương đoàn (nhóm càng đông càng thu hút sự chú ý) \\nTài sản thương đoàn (thổ phỉ dễ tấn công hơn nếu có nhiều của cải) \\nĐộ dài hành trình (chuyến đi càng xa, nguy cơ gặp sự cố càng lớn)"
+  },
+  {
+    "key": "starting_event",
+    "type": 0,
+    "en": "Starting event",
+    "vi": "Starting Sự kiện"
+  },
+  {
+    "key": "starting_event_schedule",
+    "type": 0,
+    "en": "Starting event schedule",
+    "vi": "Starting Sự kiện schedule"
+  },
+  {
+    "key": "starting_hour",
+    "type": 0,
+    "en": "Starting hour",
+    "vi": "Starting Giờ"
+  },
+  {
+    "key": "schedule_default_1_title",
+    "type": 0,
+    "en": "Easy",
+    "vi": "Dễ"
+  },
+  {
+    "key": "schedule_default_2_title",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Bình thường"
+  },
+  {
+    "key": "sign_message",
+    "type": 0,
+    "en": "Sign message",
+    "vi": "Nội dung biển hiệu"
+  },
+  {
+    "key": "filter_all_items",
+    "type": 0,
+    "en": "All Resources",
+    "vi": "All tài nguyên"
+  },
+  {
+    "key": "filter_prisoners",
+    "type": 0,
+    "en": "Prisoners",
+    "vi": "Tù nhân"
+  },
+  {
+    "key": "workshop_version_not_set",
+    "type": 0,
+    "en": "Works with beta branches: Not set by mod creator",
+    "vi": "Works với beta branches: Not set by mod creator"
+  },
+  {
+    "key": "workshop_version_max_older",
+    "type": 0,
+    "en": "Works with beta branches: {max} and older",
+    "vi": "Works với beta branches: {max} và older"
+  },
+  {
+    "key": "workshop_version_min_newer",
+    "type": 0,
+    "en": "Works with beta branches: {min} and newer",
+    "vi": "Works với beta branches: {min} và newer"
+  },
+  {
+    "key": "workshop_version_single",
+    "type": 0,
+    "en": "Works with beta branch: {min}",
+    "vi": "Works với beta branch: {min}"
+  },
+  {
+    "key": "workshop_version_range",
+    "type": 0,
+    "en": "Works with beta branches: {min} to {max}",
+    "vi": "Works với beta branches: {min} để {max}"
+  },
+  {
+    "key": "oak_brethren_decorations",
+    "type": 0,
+    "en": "Oak Brethren Decorations",
+    "vi": "Huynh Đệ Cây Sồi Decorations"
+  },
+  {
+    "key": "any_chest",
+    "type": 0,
+    "en": "Chest",
+    "vi": "Rương đồ"
+  },
+  {
+    "key": "research_books",
+    "type": 0,
+    "en": "Research Books",
+    "vi": "Nghiên cứu Books"
+  },
+  {
+    "key": "villager_constraint_age_range",
+    "type": 0,
+    "en": "Age range",
+    "vi": "Tuổi Tầm xa"
+  },
+  {
+    "key": "villager_constraint_height_range",
+    "type": 0,
+    "en": "Height range",
+    "vi": "Chiều cao Tầm xa"
+  },
+  {
+    "key": "villager_constraint_weight_range",
+    "type": 0,
+    "en": "Weight range",
+    "vi": "Weight Tầm xa"
+  },
+  {
+    "key": "general_minute_short_duration",
+    "type": 0,
+    "en": "m",
+    "vi": "m"
+  },
+  {
+    "key": "general_hour_short_duration",
+    "type": 0,
+    "en": "h",
+    "vi": "h"
+  },
+  {
+    "key": "general_day_short_duration",
+    "type": 0,
+    "en": "d",
+    "vi": "d"
+  },
+  {
+    "key": "general_year_short_duration",
+    "type": 0,
+    "en": "y",
+    "vi": "y"
+  },
+  {
+    "key": "prisoner_has_no_clothes",
+    "type": 0,
+    "en": "Prisoner has no clothes",
+    "vi": "Tù nhân không có quần áo"
+  },
+  {
+    "key": "used_in_production_stations",
+    "type": 0,
+    "en": "Used in Production stations",
+    "vi": "Used trong Sản xuất stations"
+  },
+  {
+    "key": "alt_select_tooltip_hint",
+    "type": 0,
+    "en": "Hold [<style=Shortcut>Alt</style>] and <sprite=\"ctrl_left_click\" index=t> to get more details from the almanac",
+    "vi": "Giữ [<style=Shortcut>Alt</style>] và <sprite=\"ctrl_left_click\" index=t> để get more Chi tiết từ almanac"
+  },
+  {
+    "key": "upcooked_success_bbt",
+    "type": 0,
+    "en": "{0} wanted to make {1} but ended up cooking {2} instead",
+    "vi": "{0} wanted để make {1} but ended up Nấu nướng {2} instead"
+  },
+  {
+    "key": "bbt_plan_mode_on",
+    "type": 0,
+    "en": "Plan mode is ON",
+    "vi": "Chế độ quy hoạch đang BẬT"
+  },
+  {
+    "key": "bbt_plan_mode_off",
+    "type": 0,
+    "en": "Plan mode is OFF",
+    "vi": "Chế độ quy hoạch đang TẮT"
+  },
+  {
+    "key": "ui_plan_mode_checkbox",
+    "type": 0,
+    "en": "Plan Mode",
+    "vi": "Chế độ Quy hoạch"
+  },
+  {
+    "key": "ui_plan_mode_checkbox_tooltip",
+    "type": 0,
+    "en": "When enabled, blueprints are marked as forbidden. This allows you to place blueprints without settlers starting construction. ",
+    "vi": "Khi bật, các bản thiết kế sẽ bị cấm thi công. Cho phép bạn đặt trước bản vẽ mà dân làng chưa vội bắt tay xây dựng."
+  },
+  {
+    "key": "worker_taken_on_defeat",
+    "type": 0,
+    "en": "<name> was taken by <faction_name>",
+    "vi": "<name> đã taken bởi <faction_name>"
+  },
+  {
+    "key": "qol_update_name_01",
+    "type": 0,
+    "en": "Summer Update",
+    "vi": "Mùa Hè Update"
+  },
+  {
+    "key": "qol_update_name_02",
+    "type": 0,
+    "en": "Quality of Life Update",
+    "vi": "Phẩm chất của Life Update"
+  },
+  {
+    "key": "qol_update_name_03",
+    "type": 0,
+    "en": "Quality of Life",
+    "vi": "Phẩm chất của Life"
+  },
+  {
+    "key": "general_diplomacy",
+    "type": 0,
+    "en": "Diplomacy",
+    "vi": "Ngoại giao"
+  },
+  {
+    "key": "global_stat_increased",
+    "type": 0,
+    "en": "has increased ",
+    "vi": "có increased "
+  },
+  {
+    "key": "global_stat_decreased",
+    "type": 0,
+    "en": "has decreased",
+    "vi": "có decreased"
+  },
+  {
+    "key": "global_stat_religious_influence_name",
+    "type": 0,
+    "en": "Church of Restitution Renown",
+    "vi": "Church của Phục Hưng Renown"
+  },
+  {
+    "key": "global_stat_pagan_influence_name",
+    "type": 0,
+    "en": "Oak Brethren Renown",
+    "vi": "Huynh Đệ Cây Sồi Renown"
+  },
+  {
+    "key": "global_stat_military_influence_name",
+    "type": 0,
+    "en": "Military Renown",
+    "vi": "Uy danh quân sự"
+  },
+  {
+    "key": "global_stat_trade_influence_name",
+    "type": 0,
+    "en": "Mercantile Renown",
+    "vi": "Uy danh thương mại"
+  },
+  {
+    "key": "global_stat_cultural_influence_name",
+    "type": 0,
+    "en": "Intellectual Renown",
+    "vi": "Uy danh học thức"
+  },
+  {
+    "key": "global_stat_infamy_name",
+    "type": 0,
+    "en": "Infamy",
+    "vi": "Tai tiếng"
+  },
+  {
+    "key": "global_stat_religious_influence_tooltip",
+    "type": 0,
+    "en": "Holding Eucharist events and having a top level Chaplain will help you spread your religious renown throughout the region. \nReaching 100% Church of Restitution Renown will give you the option to construct a Cathedral, cementing your regional eminence.",
+    "vi": "Holding Eucharist events và having a top level Chaplain will help you spread your religious renown throughout region. \nReaching 100% Church của Phục Hưng Renown will give you option để construct a Cathedral, cementing your regional eminence."
+  },
+  {
+    "key": "global_stat_pagan_influence_tooltip",
+    "type": 0,
+    "en": "Holding Ritual events and having a top level Druid will help you spread your Oak Brethren renown in the region. \nReaching 100% Oak Brethren renown will give you the option to grow a Mighty Oak, symbolising your regional prestige.",
+    "vi": "Holding Ritual events và having a top level Druid will help you spread your Huynh Đệ Cây Sồi renown trong region. \nReaching 100% Huynh Đệ Cây Sồi renown will give you option để grow a Mighty Oak, symbolising your regional prestige."
+  },
+  {
+    "key": "global_stat_military_influence_tooltip",
+    "type": 0,
+    "en": "Defeating enemies in combat and having a top level Sergeant-in-arms will help you spread your Military renown in the region.\nReaching 100% Military renown will allow you to prove your might by eradicating centers of bandit power in the region, deeming you Protector of the Realm.",
+    "vi": "Đánh bại kẻ thù trong giao tranh và sở hữu một Trung sĩ huấn luyện bậc cao sẽ giúp lan tỏa danh tiếng Quân Sự của bạn khắp khu vực.\nĐạt 100% danh tiếng Quân Sự sẽ cho phép bạn chứng tỏ uy quyền bằng cách tiêu diệt các sào huyệt của thổ phỉ trong vùng, tôn vinh bạn làm Đấng Bảo Hộ Vương Quốc."
+  },
+  {
+    "key": "global_stat_trade_influence_tooltip",
+    "type": 0,
+    "en": "Trading with merchants and sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you the option to establish a Charter Fair in your region, confirming your mercantile prowess.",
+    "vi": "Trading với merchants và sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you option để establish a Charter Fair trong your region, confirming your mercantile prowess."
+  },
+  {
+    "key": "global_stat_cultural_influence_tooltip",
+    "type": 0,
+    "en": "Holding scholarly events and having a top level Librarian will help spread your Intellectual renown across the region.\nReaching 100% will give you the option to become a University, confirming your status as a major seat of academic excellence.",
+    "vi": "Tổ chức các sự kiện học thuật và có Thủ thư cấp cao sẽ giúp lan tỏa danh tiếng Học thức trong khu vực.\nĐạt 100% sẽ cho phép bạn trở thành Đại học, khẳng định vị thế trung tâm học thuật lớn."
+  },
+  {
+    "key": "global_stat_infamy_tooltip",
+    "type": 0,
+    "en": "Killing prisoners and attacking neutral merchants will raise your infamy. Beware. Reaching 100% infamy means no one will trade with you, and someone may step up to rid the region of your malign influence.",
+    "vi": "Giết tù nhân và tấn công thương nhân trung lập sẽ làm tăng tai tiếng của bạn. Hãy cẩn thận. Tai tiếng đạt 100% nghĩa là không ai giao thương với bạn, và có thể sẽ có kẻ đứng lên loại bỏ ảnh hưởng độc hại của bạn khỏi khu vực."
+  },
+  {
+    "key": "game_event_region_influence",
+    "type": 0,
+    "en": "Regional Renown",
+    "vi": "Danh tiếng khu vực"
+  },
+  {
+    "key": "global_stat_religious_influence_news50",
+    "type": 0,
+    "en": "Your Church of Restitution Renown has increased. Bishops throughout the land speak your name in hushed admiration.",
+    "vi": "Danh tiếng Hội Phục Hưng của bạn đã tăng. Các giám mục khắp vùng lặng lẽ nhắc đến tên bạn với sự ngưỡng mộ."
+  },
+  {
+    "key": "global_stat_religious_influence_news100",
+    "type": 0,
+    "en": "Your Church of Restitution Renown has increased to the holiest of heights: pilgrims flock from far and wide to hear you preach. You may now rejoice, and establish <village_name> Cathedral to share in His everlasting glory.",
+    "vi": "Uy danh Hội Phục Hưng của bạn đã đạt đến tầm cao linh thiêng nhất: người hành hương từ khắp nơi đổ về nghe bạn thuyết giảng. Bạn có thể xây dựng Nhà thờ lớn <village_name> để tôn vinh vinh quang vĩnh cửu của Chúa."
+  },
+  {
+    "key": "global_stat_pagan_influence_news50",
+    "type": 0,
+    "en": "Your Oak Brethren Renown has increased. Trees in the mighty forests of the nation are said to whisper your incantations.",
+    "vi": "Danh tiếng Huynh Đệ Cây Sồi của bạn đã tăng. Người ta nói cây cối trong những khu rừng hùng vĩ của đất nước đang thì thầm những câu thần chú của bạn."
+  },
+  {
+    "key": "global_stat_pagan_influence_news100",
+    "type": 0,
+    "en": "Your Oak Brethren Renown has increased and is now as lofty as the stars in the firmament above. You are invited to honour the ancestors by growing a Mighty Oak at <village_name>, to bless and shelter generations to come.",
+    "vi": "Uy danh Huynh Đệ Cây Sồi của bạn đã tăng cao như các vì tinh tú trên bầu trời. Bạn được mời tôn vinh tổ tiên bằng cách trồng một Cây Sồi Vĩ Đại tại <village_name> để ban phước và che chở cho muôn thế hệ mai sau."
+  },
+  {
+    "key": "global_stat_military_influence_news50",
+    "type": 0,
+    "en": "Your Military Renown has increased. Bards sing of your might and valour, embroidering your every deed.",
+    "vi": "Danh tiếng quân sự của bạn đã tăng. Các thi sĩ ca ngợi sức mạnh và lòng dũng cảm của bạn, thêu dệt từng chiến công."
+  },
+  {
+    "key": "global_stat_military_influence_news100",
+    "type": 0,
+    "en": "Your Military Renown has increased, and the might of <village_name>  is unsurpassed. You may now accept your ultimate challenge: to battle and subjugate all dissenting factions, and proclaim yourself Protector of the Realm.",
+    "vi": "Uy danh quân sự của bạn đã vang dội khắp cõi, sức mạnh của <village_name> là vô song. Bạn có thể đón nhận thử thách tối thượng: chinh phạt mọi phe phái đối địch và tự xưng là Đấng Bảo Hộ Vương Quốc."
+  },
+  {
+    "key": "global_stat_trade_influence_news50",
+    "type": 0,
+    "en": "Your Mercantile Renown has increased. Never has commerce been more lucrative, nor such a crowd beat a path the marketplace.",
+    "vi": "Danh tiếng thương mại của bạn đã tăng. Chưa bao giờ buôn bán sinh lời đến thế, cũng chưa từng có đám đông nào chen chân đến chợ như vậy."
+  },
+  {
+    "key": "global_stat_trade_influence_news100",
+    "type": 0,
+    "en": "Your Mercantile Renown has increased to levels beyond your wildest dreams, and gold flows through <village_name> like water. You can now rally your guilds to establish a Charter Fair, the hallmark of a great trading centre.",
+    "vi": "Của bạn Mercantile Renown có increased đến levels beyond của bạn wildest dreams, và vàng flows through <village_name> like nước. Bạn có thể now rally của bạn guilds đến establish a Charter Fair, hallmark của a tuyệt vời trading centre."
+  },
+  {
+    "key": "global_stat_cultural_influence_news50",
+    "type": 0,
+    "en": "Your Intellectual Renown has increased. Your scribes can barely meet the surging demand for manuscripts elucidating the theories espoused by your greatest thinkers.",
+    "vi": "Của bạn Intellectual Renown có increased. Của bạn scribes có thể barely meet surging demand cho manuscripts elucidating theories espoused bởi của bạn greatest thinkers."
+  },
+  {
+    "key": "global_stat_cultural_influence_news100",
+    "type": 0,
+    "en": "Your Intellectual Renown has increased to its zenith: your library attracts the most creative and erudite academics of our time. Carpe diem! You may establish <village_name> University, ensuring knowledge flourishes here in perpetuity.",
+    "vi": "Của bạn Intellectual Renown có increased đến của nó zenith: của bạn library attracts nhiều nhất creative và erudite academics của của chúng ta time. Carpe diem! Bạn may establish <village_name> University, ensuring knowledge flourishes here trong perpetuity."
+  },
+  {
+    "key": "global_stat_infamy_news50",
+    "type": 0,
+    "en": "Your Infamy has increased. Notoriety comes at a price - this might cause negative repercussions from other factions.",
+    "vi": "Tiếng xấu của bạn đã lan rộng. Tai tiếng luôn đi kèm cái giá của nó - điều này có thể gây ra những hậu quả tiêu cực từ các phe phái khác."
+  },
+  {
+    "key": "global_stat_infamy_news100",
+    "type": 0,
+    "en": "Your Infamy has increased such that your reputation cannot sink any lower. Transgressions will not go unpunished - you have become a pariah among other factions, who will shun your traders, and challenge <village_name> at any opportunity.",
+    "vi": "Tiếng xấu của bạn đã chạm đáy. Mọi tội lỗi sẽ bị trừng phạt - bạn đã trở thành kẻ bị ruồng bỏ giữa các phe phái; họ sẽ xa lánh thương nhân của bạn và thách thức <village_name> bất cứ khi nào có cơ hội."
+  },
+  {
+    "key": "global_stat_infamy_news101",
+    "type": 0,
+    "en": "Increasing infamy further despite the final warning is the straw that broke the camel's back. Factions have united against <settlement_name>, and will attack without mercy.",
+    "vi": "Tiếp tục gia tăng tiếng xấu bất chấp cảnh báo cuối cùng như giọt nước làm tràn ly. Các phe phái đã liên minh chống lại <settlement_name> và sẽ tấn công không khoan nhượng."
+  },
+  {
+    "key": "objective_Infamy_name",
+    "type": 0,
+    "en": "Tyrant Overlord",
+    "vi": "Bạo chúa thống trị"
+  },
+  {
+    "key": "objective_infamy_tooltip",
+    "type": 0,
+    "en": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation.",
+    "vi": "Bất chấp những lời cảnh báo, tiếng xấu của bạn đã khiến các phe phái trong vùng nổi dậy và nhắm tới việc hủy diệt khu định cư của bạn."
+  },
+  {
+    "key": "objective_infamy_info",
+    "type": 0,
+    "en": "Despite warnings, your infamy has led other regional factions to rise up and target your settlement for annihilation.",
+    "vi": "Bất chấp những lời cảnh báo, tiếng xấu của bạn đã khiến các phe phái trong vùng nổi dậy và nhắm tới việc hủy diệt khu định cư của bạn."
+  },
+  {
+    "key": "objective_infamy_survive_attacks",
+    "type": 0,
+    "en": "Survive",
+    "vi": "Sống sót"
+  },
+  {
+    "key": "objective_infamy_survive_attacks_info",
+    "type": 0,
+    "en": "Survive an onslaught of 3x waves of enemies. If you succeed, you will sieze ultimate power as the Tyrant Overlord of the region.",
+    "vi": "Survive an onslaught của 3x waves của Kẻ thù. If you succeed, you will sieze ultimate power as Tyrant Overlord của region."
+  },
+  {
+    "key": "religious_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Church of Restitution Renown is increasing in the region",
+    "vi": "Uy danh Hội Phục Hưng đang gia tăng trong khu vực"
+  },
+  {
+    "key": "pagan_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Oak Brethren Renown is increasing in the region",
+    "vi": "Uy danh Huynh Đệ Cây Sồi đang gia tăng trong khu vực"
+  },
+  {
+    "key": "military_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Military Renown is increasing in the region",
+    "vi": "Uy danh quân sự đang gia tăng trong khu vực"
+  },
+  {
+    "key": "trade_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Mercantile Renown is increasing in the region",
+    "vi": "Danh tiếng Thương mại đang gia tăng trong khu vực"
+  },
+  {
+    "key": "cultural_influence_unlock_in_ui",
+    "type": 0,
+    "en": "Intellectual Renown is increasing in the region",
+    "vi": "Uy danh học thức đang gia tăng trong khu vực"
+  },
+  {
+    "key": "game_event_type_final",
+    "type": 0,
+    "en": "Last Step",
+    "vi": "Cuối cùng Step"
+  },
+  {
+    "key": "bbt_step_completed",
+    "type": 0,
+    "en": "Step completed: ",
+    "vi": "Đã hoàn thành bước:"
+  },
+  {
+    "key": "objective_religious_name",
+    "type": 0,
+    "en": "Centre Of Pilgrimage",
+    "vi": "Trung tâm hành hương"
+  },
+  {
+    "key": "objective_religious_tooltip",
+    "type": 0,
+    "en": "Commit your settlement to become a Centre of Pilgrimage, which will make your Church of Restitution a cathedral.",
+    "vi": "Commit your settlement để become a Centre của Pilgrimage, which will make your Church của Phục Hưng a cathedral."
+  },
+  {
+    "key": "objective_religious_info",
+    "type": 0,
+    "en": "You must establish your settlement as a Centre of Pilgrimage. In order to do this you need the following:",
+    "vi": "Bạn phải biến khu định cư của mình thành một Trung tâm Hành hương. Để làm được điều này, bạn cần đạt các yêu cầu sau:"
+  },
+  {
+    "key": "activate_objective_confirm",
+    "type": 0,
+    "en": "Taking on this objective means you will not be able to choose any other potential objective in this game scenario. Are you sure you want to proceed?",
+    "vi": "Đảm nhận mục tiêu này đồng nghĩa với việc bạn không thể chọn bất kỳ mục tiêu tiềm năng nào khác trong màn chơi. Bạn có chắc muốn tiếp tục?"
+  },
+  {
+    "key": "objective_religious_have_priest",
+    "type": 0,
+    "en": "Chaplain Level 3",
+    "vi": "Chaplain Cấp độ 3"
+  },
+  {
+    "key": "objective_religious_have_priest_info",
+    "type": 0,
+    "en": "You need to have a chaplain level 3 in your settlement",
+    "vi": "Bạn cần có một Linh mục cấp 3 trong khu định cư"
+  },
+  {
+    "key": "objective_religious_build_chapel",
+    "type": 0,
+    "en": "Reliquary Chapel",
+    "vi": "Nhà Nguyện Thánh Tích"
+  },
+  {
+    "key": "objective_religious_build_chapel_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for the Lady Chapel to be finalised",
+    "vi": "Một loại phòng mới đã được mở khóa. Bảng tổng quan phòng liệt kê những gì cần thiết để hoàn thiện Nhà nguyện Đức Mẹ."
+  },
+  {
+    "key": "objective_religious_have_relic",
+    "type": 0,
+    "en": "Obtain Relic",
+    "vi": "Thu Thập Thánh Tích"
+  },
+  {
+    "key": "objective_religious_have_relic_info",
+    "type": 0,
+    "en": "Relics can be found in the region map in loot stashes. A pilgrim might guide you to help locate a relic.",
+    "vi": "Thánh tích cổ có thể được tìm thấy trong các kho tàng báu vật trên bản đồ khu vực. Một vị khách hành hương có thể chỉ điểm giúp bạn vị trí của thánh tích."
+  },
+  {
+    "key": "objective_religious_have_relic_in_chapel",
+    "type": 0,
+    "en": "Enshrine Relic in Reliquary Chapel",
+    "vi": "Thờ Phụng Thánh Tích Trong Nhà Nguyện"
+  },
+  {
+    "key": "objective_religious_have_relic_in_chapel_info",
+    "type": 0,
+    "en": "Enshrine the relic on a shelf in the Reliquary Chapel to start attracting pilgrims",
+    "vi": "Đặt thánh tích lên giá thờ bên trong Nhà Nguyện Thánh Tích để bắt đầu thu hút các đoàn người hành hương mộ đạo."
+  },
+  {
+    "key": "objective_religious_visit_relic",
+    "type": 0,
+    "en": "Pilgrims to spread the word",
+    "vi": "Đón Tiếp Khách Hành Hương Lan Tỏa Đức Tin"
+  },
+  {
+    "key": "objective_religious_visit_relic_info",
+    "type": 0,
+    "en": "Encourage pilgrims to visit your Reliquary Chapel, and praise its power as a site of veneration.",
+    "vi": "Khuyến khích các đoàn người hành hương viếng thăm Nhà Nguyện Thánh Tích của bạn và ca ngợi sự linh thiêng của nơi tôn nghiêm này."
+  },
+  {
+    "key": "objective_religious_end_game",
+    "type": 0,
+    "en": "Become The Centre of Pilgrimage",
+    "vi": "Trở Thành Trung Tâm Hành Hương Của Toàn Cõi"
+  },
+  {
+    "key": "objective_religious_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, enact a dedication ceremony that will confirm <village_name> as the New Centre of Pilgrimage in the region, and establish a Cathedral.",
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy tổ chức Đại Lễ Thánh Hiến để khẳng định <village_name> là Thánh Địa Hành Hương mới của toàn cõi, và xây dựng một Đại Giáo Đường nguy nga."
+  },
+  {
+    "key": "objective_religious_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Các đoàn khách thập phương từ mọi phe phái đang tấp nập kéo về <village_name> để chiêm ngưỡng những công trình vĩ đại bạn đã tạo dựng."
+  },
+  {
+    "key": "game_event_religious_final_name",
+    "type": 0,
+    "en": "Centre Of Pilgrimage",
+    "vi": "Thánh Địa Hành Hương"
+  },
+  {
+    "key": "game_event_religious_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming The Centre of Pilgrimage. Doing so will call in a group of pilgrims to enact the final dedication ceremony.",
+    "vi": "Bạn sắp kích hoạt bước quyết định cuối cùng để trở thành Trung Tâm Hành Hương. Hành động này sẽ triệu tập một đoàn khách hành hương quy mô lớn tới làm lễ thánh hiến tôn phong."
+  },
+  {
+    "key": "objective_pagan_name",
+    "type": 0,
+    "en": "Pagan Sanctuary",
+    "vi": "Thánh Địa Cổ Thần Cây Sồi"
+  },
+  {
+    "key": "objective_pagan_tooltip",
+    "type": 0,
+    "en": "Consecrate your settlement to become the Sanctuary of Reverence to the Old Gods.",
+    "vi": "Hiến dâng khu định cư của bạn để trở thành Thánh Địa Tôn Kính Vĩnh Cửu của các Cổ Thần."
+  },
+  {
+    "key": "objective_pagan_info",
+    "type": 0,
+    "en": "You must take root in this region as the rightful guardian of the Oak Brethren faith. In order to do this you need the following:",
+    "vi": "Bạn phải bám rễ sâu vào vùng đất này như người bảo hộ chính thống của đức tin Huynh Đệ Cây Sồi. Cần đạt được các điều kiện sau:"
+  },
+  {
+    "key": "objective_pagan_have_shaman",
+    "type": 0,
+    "en": "Druid Level 3",
+    "vi": "Tu Sĩ Druid Đạt Cấp 3"
+  },
+  {
+    "key": "objective_pagan_have_shaman_info",
+    "type": 0,
+    "en": "You need to have a Druid level 3 in your settlement",
+    "vi": "Khu định cư của bạn cần có một Tu sĩ Druid đạt cấp bậc 3"
+  },
+  {
+    "key": "objective_pagan_build_chapel_with_oak",
+    "type": 0,
+    "en": "Oak Brethren Sanctuary",
+    "vi": "Xây Dựng Thánh Địa Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "objective_pagan_build_chapel_with_oak_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for the sanctuary to be completed.",
+    "vi": "Một loại quy hoạch phòng mới đã được mở khóa. Bảng tổng quan phòng liệt kê những yêu cầu cần thiết để hoàn thiện thánh địa."
+  },
+  {
+    "key": "objective_pagan_have_mighty_oak_reach_mature_phase",
+    "type": 0,
+    "en": "Mature a Mighty Oak",
+    "vi": "Nuôi Dưỡng Cây Sồi Đại Ngàn Trưởng Thành"
+  },
+  {
+    "key": "objective_pagan_have_mighty_oak_reach_mature_phase_info",
+    "type": 0,
+    "en": "The Mighty Oak must be in mature phase for Oak Brethren pilgrims to arrive and broadcast word of its sanctity. Ensure the plant has enough sunlight to grow big and strong.",
+    "vi": "Cây Sồi Đại Ngàn phải phát triển tới giai đoạn trưởng thành hoàn toàn để các tín đồ Cây Sồi tìm đến chiêm bái và truyền tụng sự linh thiêng. Hãy đảm bảo cây nhận đủ ánh nắng dồi dào."
+  },
+  {
+    "key": "objective_pagan_visit_mighty_oak",
+    "type": 0,
+    "en": "Pilgrims to spread the word",
+    "vi": "Đón Tiếp Khách Hành Hương Truyền Tụng Linh Khí"
+  },
+  {
+    "key": "objective_pagan_visit_mighty_oak_info",
+    "type": 0,
+    "en": "Encourage pilgrim visitors to revere your Mighty Oak, and broadcast word of its divine nature widely.",
+    "vi": "Khuyến khích các đoàn khách hành hương tới chiêm bái Cây Sồi Đại Ngàn và lan tỏa rộng rãi sự mầu nhiệm của Đất Mẹ."
+  },
+  {
+    "key": "objective_pagan_end_game",
+    "type": 0,
+    "en": "Become The Pagan Sanctuary",
+    "vi": "Trở Thành Thánh Địa Cổ Ngàn Năm"
+  },
+  {
+    "key": "objective_pagan_end_game_info",
+    "type": 0,
+    "en": "When everything is ready, enact a transcendent ritual that will confirm <village_name> as the New Pagan Sanctuary in the region, and home of the legendary Mighty Oak.",
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy cử hành Đại Lễ Thăng Hoa để khẳng định <village_name> là Thánh Địa Cổ Thần mới của toàn vùng, cội nguồn của Cây Sồi Đại Ngàn huyền thoại."
+  },
+  {
+    "key": "objective_pagan_end_game_info_alt",
+    "type": 0,
+    "en": "Visitors from other factions are setting out towards <village_name> to marvel at everything you have accomplished.",
+    "vi": "Các đoàn khách thập phương từ mọi phe phái đang tấp nập kéo về <village_name> để chiêm ngưỡng những thành tựu vĩ đại mà bạn đã gây dựng."
+  },
+  {
+    "key": "game_event_pagan_final_name",
+    "type": 0,
+    "en": "Pagan Sanctuary",
+    "vi": "Thánh Địa Cổ Thần Cây Sồi"
+  },
+  {
+    "key": "game_event_pagan_final_info",
+    "type": 0,
+    "en": "You are about to trigger the last step in becoming the The Pagan Sanctuary. Doing so will call in a group of pilgrims to enact the final transcendent ritual.",
+    "vi": "Bạn sắp kích hoạt bước quyết định cuối cùng để trở thành Thánh Địa Cổ Thần. Hành động này sẽ triệu tập một đoàn khách hành hương đông đảo tới cử hành đại lễ thăng hoa tối thượng."
+  },
+  {
+    "key": "objective_intellectual_name",
+    "type": 0,
+    "en": "New University",
+    "vi": "Viện Hàn Lâm Học Thuật Mới"
+  },
+  {
+    "key": "objective_intellectual_tooltip",
+    "type": 0,
+    "en": "Establish your settlement to become the new Leading Academic Institution of your region.",
+    "vi": "Xây dựng khu định cư của bạn trở thành Viện Hàn Lâm Học Thuật dẫn đầu toàn vùng."
+  },
+  {
+    "key": "objective_intellectual_info",
+    "type": 0,
+    "en": "You must assert your impact in this region as the focal point of intellect and culture. In order to do this, you need the following:",
+    "vi": "Bạn phải khẳng định tầm ảnh hưởng văn hóa và trí tuệ đỉnh cao của vùng đất này. Để làm được điều đó, bạn cần đạt các mục tiêu sau:"
+  },
+  {
+    "key": "objective_intellectual_have_scholar",
+    "type": 0,
+    "en": "Librarian Level 3",
+    "vi": "Học Giả Thủ Thư Đạt Cấp 3"
+  },
+  {
+    "key": "objective_intellectual_have_scholar_info",
+    "type": 0,
+    "en": "You need to have a librarian level 3 in your settlement",
+    "vi": "Khu định cư của bạn cần có một Học giả Thủ thư đạt cấp bậc 3"
+  },
+  {
+    "key": "objective_intellectual_build_grand_library",
+    "type": 0,
+    "en": "Fellows' Library",
+    "vi": "Xây Dựng Đại Thư Viện Viện Sĩ"
+  },
+  {
+    "key": "objective_intellectual_build_grand_library_info",
+    "type": 0,
+    "en": "A new type of room has been unlocked. The room overview panel lists what is needed for this elite academic library to be completed.",
+    "vi": "Một loại quy hoạch phòng mới đã được mở khóa. Bảng tổng quan phòng liệt kê các tiêu chuẩn để hoàn thành Đại Thư Viện thượng hạng này."
+  },
+  {
+    "key": "objective_intellectual_have_grand_book",
+    "type": 0,
+    "en": "Produce an Influential Treatise",
+    "vi": "Biên Soạn Bộ Đại Luận Thuyết Uyên Bác"
+  },
+  {
+    "key": "objective_intellectual_have_grand_book_info",
+    "type": 0,
+    "en": "With the Grand Research Table, produce an Influential Treatise encompassing all the knowledge accumulated in the Fellows' Library.",
+    "vi": "Sử dụng Bàn Nghiên Cứu Đại Học để biên soạn một Bộ Đại Luận Thuyết đúc kết toàn bộ tinh hoa tri thức đã tích lũy trong Thư Viện Viện Sĩ."
+  }
+]

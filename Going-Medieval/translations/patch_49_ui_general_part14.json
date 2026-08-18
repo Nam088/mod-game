@@ -1,0 +1,902 @@
+[
+  {
+    "key": "credits_PublishedBy",
+    "type": 0,
+    "en": "Published by Mythwright",
+    "vi": "Phát hành bởi Mythwright"
+  },
+  {
+    "key": "credits_CommunityContributors",
+    "type": 0,
+    "en": "Community Plague Doctors",
+    "vi": "Bác Sĩ Dịch Hạch Đóng Góp Cộng Đồng"
+  },
+  {
+    "key": "credits_AlphabeticalOrder",
+    "type": 0,
+    "en": "Alphabetical",
+    "vi": "Theo Thứ Tự Bảng Chữ Cái"
+  },
+  {
+    "key": "credits_QAManager",
+    "type": 0,
+    "en": "QA Manager",
+    "vi": "Quản Lý Đảm Bảo Chất Lượng (QA)"
+  },
+  {
+    "key": "credits_QAProjectManager",
+    "type": 0,
+    "en": "QA Project Manager",
+    "vi": "Quản Lý Dự Án QA"
+  },
+  {
+    "key": "credits_QATestLead",
+    "type": 0,
+    "en": "QA Test Lead",
+    "vi": "Trưởng Nhóm Kiểm Thử QA"
+  },
+  {
+    "key": "credits_QATester",
+    "type": 0,
+    "en": "QA Tester",
+    "vi": "Chuyên Viên Kiểm Thử QA"
+  },
+  {
+    "key": "credits_community_mods",
+    "type": 0,
+    "en": "Community Moderators & Helpers",
+    "vi": "Điều Hành Viên & Hỗ Trợ Cộng Đồng"
+  },
+  {
+    "key": "credits_playtesters",
+    "type": 0,
+    "en": "Playtesters",
+    "vi": "Người Chơi Thử Nghiệm"
+  },
+  {
+    "key": "credits_translation",
+    "type": 0,
+    "en": "Translation",
+    "vi": "Đội Ngũ Biên Dịch & Bản Địa Hóa"
+  },
+  {
+    "key": "credits_trailer_service",
+    "type": 0,
+    "en": "Trailer Services",
+    "vi": "Dịch Vụ Sản Xuất Trailer"
+  },
+  {
+    "key": "keybinding_group_Camera",
+    "type": 0,
+    "en": "Camera",
+    "vi": "Điều Khiển Camera"
+  },
+  {
+    "key": "keybinding_group_Gameplay",
+    "type": 0,
+    "en": "Gameplay",
+    "vi": "Hệ Thống Lối Chơi"
+  },
+  {
+    "key": "keybinding_group_Villagers",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Quản Lý Dân Làng"
+  },
+  {
+    "key": "keybinding_group_Misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Phím Tắt Khác"
+  },
+  {
+    "key": "general_full",
+    "type": 0,
+    "en": "Full",
+    "vi": "Đầy Đủ"
+  },
+  {
+    "key": "general_half",
+    "type": 0,
+    "en": "Half",
+    "vi": "Một Nửa"
+  },
+  {
+    "key": "general_off",
+    "type": 0,
+    "en": "Off",
+    "vi": "Tắt"
+  },
+  {
+    "key": "general_low",
+    "type": 0,
+    "en": "Low",
+    "vi": "Thấp"
+  },
+  {
+    "key": "general_medium",
+    "type": 0,
+    "en": "Medium",
+    "vi": "Trung bình"
+  },
+  {
+    "key": "general_high",
+    "type": 0,
+    "en": "High",
+    "vi": "Cao"
+  },
+  {
+    "key": "general_veryHigh",
+    "type": 0,
+    "en": "Very High",
+    "vi": "Very Cao"
+  },
+  {
+    "key": "save_file_already_exists",
+    "type": 0,
+    "en": "Save file by that name already exists",
+    "vi": "Lưu file by that name already exists"
+  },
+  {
+    "key": "early_acces_note",
+    "type": 0,
+    "en": "Welcome to Going Medieval. Thank you for your support.\\nPlease note that we are actively developing this game, so you may notice that some areas are still in progress. Rest assured that we will update the game regularly, to add features and to make the experience more robust over time. Should you encounter any bugs, please reach out to us on our Discord server or report them through the in-game bug reporter.",
+    "vi": "Chào mừng bạn đến với Going Medieval. Cảm ơn sự ủng hộ nhiệt tình của bạn.\\nXin lưu ý rằng trò chơi đang trong giai đoạn phát triển tích cực, vì vậy bạn có thể thấy một số tính năng vẫn đang được hoàn thiện. Chúng tôi sẽ cập nhật thường xuyên để bổ sung nội dung mới và nâng cao trải nghiệm. Nếu gặp bất kỳ lỗi nào, vui lòng liên hệ trên Discord hoặc gửi báo cáo qua công cụ báo lỗi trong game."
+  },
+  {
+    "key": "roadmap_planed_updates",
+    "type": 0,
+    "en": "Planned Future Updates",
+    "vi": "Các bản cập nhật dự kiến"
+  },
+  {
+    "key": "roadmap_01",
+    "type": 0,
+    "en": "Trading & Merchants",
+    "vi": "Thương mại & Thương nhân"
+  },
+  {
+    "key": "roadmap_02",
+    "type": 0,
+    "en": "Caravans",
+    "vi": "Thương đoàn"
+  },
+  {
+    "key": "roadmap_03",
+    "type": 0,
+    "en": "Settlement Diplomacy",
+    "vi": "Khu định cư Diplomacy"
+  },
+  {
+    "key": "roadmap_04",
+    "type": 0,
+    "en": "Settler Social Interactions",
+    "vi": "Dân làng Social Interactions"
+  },
+  {
+    "key": "roadmap_05",
+    "type": 0,
+    "en": "Religious Influence",
+    "vi": "Tôn giáo Influence"
+  },
+  {
+    "key": "roadmap_06",
+    "type": 0,
+    "en": "Fire & Flammability",
+    "vi": "Lửa & khả năng bắt cháy"
+  },
+  {
+    "key": "roadmap_07",
+    "type": 0,
+    "en": "Accumulating Snow",
+    "vi": "Accumulating Tuyết rơi"
+  },
+  {
+    "key": "roadmap_08",
+    "type": 0,
+    "en": "Organic Dirt Paths",
+    "vi": "Đường đất tự nhiên"
+  },
+  {
+    "key": "roadmap_09",
+    "type": 0,
+    "en": "Mounted Siege Weaponry",
+    "vi": "Mounted Bao vây công thành Weaponry"
+  },
+  {
+    "key": "roadmap_11",
+    "type": 0,
+    "en": "Raiding Other Settlements",
+    "vi": "Raiding Khác Settlements"
+  },
+  {
+    "key": "roadmap_12",
+    "type": 0,
+    "en": "Vassal System",
+    "vi": "Hệ thống chư hầu"
+  },
+  {
+    "key": "roadmap_13",
+    "type": 0,
+    "en": "Map Factions",
+    "vi": "Phe phái trên bản đồ"
+  },
+  {
+    "key": "roadmap_14",
+    "type": 0,
+    "en": "Prisoner System",
+    "vi": "Tù nhân System"
+  },
+  {
+    "key": "roadmap_15",
+    "type": 0,
+    "en": "Taming Wildlife",
+    "vi": "Thuần hóa động vật hoang dã"
+  },
+  {
+    "key": "roadmap_16",
+    "type": 0,
+    "en": "Animal Husbandry",
+    "vi": "Chăn nuôi"
+  },
+  {
+    "key": "roadmap_17",
+    "type": 0,
+    "en": "Grand Objectives",
+    "vi": "Mục tiêu lớn"
+  },
+  {
+    "key": "roadmap_18",
+    "type": 0,
+    "en": "Natural Caves",
+    "vi": "Hang động tự nhiên"
+  },
+  {
+    "key": "roadmap_19",
+    "type": 0,
+    "en": "Ruins",
+    "vi": "Tàn Tích Cổ Đại"
+  },
+  {
+    "key": "roadmap_23",
+    "type": 0,
+    "en": "Shelves & Weapon racks",
+    "vi": "Giá Kệ & Giá Treo Vũ Khí"
+  },
+  {
+    "key": "roadmap_24",
+    "type": 0,
+    "en": "More Structures",
+    "vi": "Bổ Sung Thêm Công Trình Kiến Trúc"
+  },
+  {
+    "key": "roadmap_25",
+    "type": 0,
+    "en": "More Music",
+    "vi": "Bổ Sung Thêm Nhạc Nền"
+  },
+  {
+    "key": "roadmap_26",
+    "type": 0,
+    "en": "More Map types",
+    "vi": "Bổ Sung Thêm Các Loại Bản Đồ"
+  },
+  {
+    "key": "roadmap_27",
+    "type": 0,
+    "en": "More Resources",
+    "vi": "Bổ Sung Thêm Tài Nguyên & Thực Phẩm"
+  },
+  {
+    "key": "roadmap_28",
+    "type": 0,
+    "en": "More Siege Weapons",
+    "vi": "Bổ Sung Thêm Chiến Cụ Công Thành"
+  },
+  {
+    "key": "roadmap_29",
+    "type": 0,
+    "en": "More Research Items",
+    "vi": "Bổ Sung Thêm Nhánh Cây Nghiên Cứu"
+  },
+  {
+    "key": "roadmap_30",
+    "type": 0,
+    "en": "More QoL Improvements",
+    "vi": "Tối Ưu Hóa & Nâng Cao Trải Nghiệm Tiện Ích"
+  },
+  {
+    "key": "update_01_name",
+    "type": 0,
+    "en": "Shelves and Racks Update",
+    "vi": "Bản Cập Nhật Kệ Chứa & Giá Treo Đồ"
+  },
+  {
+    "key": "update_02_name",
+    "type": 0,
+    "en": "Bartering & Diplomacy",
+    "vi": "Bản Cập Nhật Giao Thương & Ngoại Giao"
+  },
+  {
+    "key": "update_02_name_alt",
+    "type": 0,
+    "en": "Trading & Diplomacy",
+    "vi": "Giao Thương & Ngoại Giao"
+  },
+  {
+    "key": "update_02_name_alt2",
+    "type": 0,
+    "en": "Merchants & Diplomacy",
+    "vi": "Thương Nhân & Bang Giao"
+  },
+  {
+    "key": "update_03_name",
+    "type": 0,
+    "en": "Animals & Pets",
+    "vi": "Bản Cập Nhật Động Vật & Thú Nuôi"
+  },
+  {
+    "key": "update_05_name",
+    "type": 0,
+    "en": "Animal Trading",
+    "vi": "Bản Cập Nhật Nước & Thủy Văn"
+  },
+  {
+    "key": "update_06_name",
+    "type": 0,
+    "en": "Terraforming & Cats",
+    "vi": "Bản Cập Nhật Cải Tạo Địa Hình & Loài Mèo"
+  },
+  {
+    "key": "update_07_name",
+    "type": 0,
+    "en": "Beauty & Comfort",
+    "vi": "Bản Cập Nhật Thẩm Mỹ & Tiện Nghi"
+  },
+  {
+    "key": "update_08_name",
+    "type": 0,
+    "en": "Social Interactions",
+    "vi": "Bản Cập Nhật Tương Tác Xã Hội"
+  },
+  {
+    "key": "update_09_name_old",
+    "type": 0,
+    "en": "Ladder System",
+    "vi": "Hệ Thống Thang Leo"
+  },
+  {
+    "key": "update_09_name",
+    "type": 0,
+    "en": "Environment Effects Overhaul",
+    "vi": "Đại Tu Hiệu Ứng Môi Trường & Thời Tiết"
+  },
+  {
+    "key": "update_095_capsule",
+    "type": 0,
+    "en": "Coin Bartering",
+    "vi": "Giao Thương Bằng Tiền Tệ"
+  },
+  {
+    "key": "update_10_name",
+    "type": 0,
+    "en": "Water & Fishing",
+    "vi": "Hệ Thống Nước & Đánh Bắt Cá"
+  },
+  {
+    "key": "update_11_name",
+    "type": 0,
+    "en": "Roles & Events",
+    "vi": "Chức Vụ Cộng Đồng & Lễ Hội"
+  },
+  {
+    "key": "update_11_capsule",
+    "type": 0,
+    "en": "Bards & Feasts",
+    "vi": "Nhạc Công & Yến Tiệc"
+  },
+  {
+    "key": "update_12_name",
+    "type": 0,
+    "en": "Prisoners & Gates",
+    "vi": "Tù Nhân & Cổng Thành Kiên Cố"
+  },
+  {
+    "key": "update_12_capsule",
+    "type": 0,
+    "en": "PORTCULLISES",
+    "vi": "CỔNG SẮT CÔNG THÀNH NÂNG THẢ"
+  },
+  {
+    "key": "update_14_name",
+    "type": 0,
+    "en": "Training Structures & Fire",
+    "vi": "Công Trình Huấn Luyện & Hỏa Hoạn"
+  },
+  {
+    "key": "update_14_Capsule",
+    "type": 0,
+    "en": "FIRE",
+    "vi": "HỎA HOẠN CHIẾN TRANH"
+  },
+  {
+    "key": "update_15_name",
+    "type": 0,
+    "en": "War Machines & Enemy AI",
+    "vi": "Khí Tài Chiến Tranh & Trí Tuệ Kẻ Thù"
+  },
+  {
+    "key": "update_15_Capsule",
+    "type": 0,
+    "en": "NEW DEFENSIVE WEAPONS",
+    "vi": "VŨ KHÍ PHÒNG THỦ MỚI"
+  },
+  {
+    "key": "update_15_Capsule_alt",
+    "type": 0,
+    "en": "SIEGE WEAPONS",
+    "vi": "CHIẾN CỤ CÔNG THÀNH"
+  },
+  {
+    "key": "update_15_Capsule_alt2",
+    "type": 0,
+    "en": "WAR MACHINES",
+    "vi": "CỖ MÁY CÔNG THÀNH"
+  },
+  {
+    "key": "update_16_name",
+    "type": 0,
+    "en": "Bandit camps & Ambushes",
+    "vi": "Doanh Trại Thổ Phỉ & Các Trận Phục Kích"
+  },
+  {
+    "key": "update_16_Capsule",
+    "type": 0,
+    "en": "BANDIT CAMPS",
+    "vi": "DOANH TRẠI THỔ PHỈ"
+  },
+  {
+    "key": "update_entry_20",
+    "type": 0,
+    "en": "New Pathfinding System",
+    "vi": "Hệ Thống Tìm Đường Đi Mới (Pathfinding)"
+  },
+  {
+    "key": "update_entry_21",
+    "type": 0,
+    "en": "Fermentation",
+    "vi": "Quá Trình Lên Men Rượu Bia"
+  },
+  {
+    "key": "update_entry_22",
+    "type": 0,
+    "en": "Trophy Mounting",
+    "vi": "Treo Đầu Dã Thú Lưu Niệm"
+  },
+  {
+    "key": "update_entry_23",
+    "type": 0,
+    "en": "Animal Pen",
+    "vi": "Chuồng Nuôi Gia Súc"
+  },
+  {
+    "key": "update_entry_24",
+    "type": 0,
+    "en": "Starting Animals",
+    "vi": "Động Vật Ban Đầu"
+  },
+  {
+    "key": "update_entry_25",
+    "type": 0,
+    "en": "Animals in caravans",
+    "vi": "Động Vật Đồng Hành Trong Thương Đoàn"
+  },
+  {
+    "key": "update_entry_26",
+    "type": 0,
+    "en": "Food Pouch",
+    "vi": "Túi Da Đựng Thức Ăn"
+  },
+  {
+    "key": "update_entry_27",
+    "type": 0,
+    "en": "New structure: Sign",
+    "vi": "Công Trình Mới: Biển Báo Chỉ Dẫn"
+  },
+  {
+    "key": "update_entry_28",
+    "type": 0,
+    "en": "Custom Difficulty",
+    "vi": "Tùy Chỉnh Độ Khó Tự Do"
+  },
+  {
+    "key": "update_entry_29",
+    "type": 0,
+    "en": "Predator Animals",
+    "vi": "Dã Thú Săn Mồi Hoang Dã"
+  },
+  {
+    "key": "update_entry_30",
+    "type": 0,
+    "en": "Pest Control",
+    "vi": "Kiểm Soát Diệt Trừ Sâu Bệnh"
+  },
+  {
+    "key": "update_entry_31",
+    "type": 0,
+    "en": "New Animals",
+    "vi": "Bổ Sung Các Loài Động Vật Mới"
+  },
+  {
+    "key": "update_entry_32",
+    "type": 0,
+    "en": "CATS",
+    "vi": "LOÀI MÈO BẮT CHUỘT"
+  },
+  {
+    "key": "update_entry_33",
+    "type": 0,
+    "en": "Terraforming",
+    "vi": "Cải Tạo San Lấp Địa Hình"
+  },
+  {
+    "key": "update_entry_34",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Giá Trị Thẩm Mỹ Cảnh Quan"
+  },
+  {
+    "key": "update_entry_35",
+    "type": 0,
+    "en": "Comfort",
+    "vi": "Mức Độ Tiện Nghi Thoải Mái"
+  },
+  {
+    "key": "update_entry_36",
+    "type": 0,
+    "en": "Statues",
+    "vi": "Tượng Nghệ Thuật Điêu Khắc"
+  },
+  {
+    "key": "update_entry_37",
+    "type": 0,
+    "en": "Paintings",
+    "vi": "Tranh Sơn Dầu Treo Tường"
+  },
+  {
+    "key": "update_entry_38",
+    "type": 0,
+    "en": "Rugs",
+    "vi": "Thảm Trải Sàn Nghệ Thuật"
+  },
+  {
+    "key": "update_entry_39",
+    "type": 0,
+    "en": "Room Impressiveness",
+    "vi": "Độ Tráng Lệ Ấn Tượng Của Phòng"
+  },
+  {
+    "key": "update_entry_40",
+    "type": 0,
+    "en": "Bed Assigment",
+    "vi": "Chỉ Định Giường Ngủ Cá Nhân"
+  },
+  {
+    "key": "update_entry_41",
+    "type": 0,
+    "en": "Individual rooms",
+    "vi": "Quy Hoạch Phòng Ngủ Riêng Tư"
+  },
+  {
+    "key": "update_entry_42",
+    "type": 0,
+    "en": "Infirmary room",
+    "vi": "Phòng Bệnh Xá Cứu Thương"
+  },
+  {
+    "key": "update_entry_43",
+    "type": 0,
+    "en": "Infirmary Bed",
+    "vi": "Giường Bệnh Xá"
+  },
+  {
+    "key": "update_entry_44",
+    "type": 0,
+    "en": "Affection System",
+    "vi": "Hệ Thống Mối Quan Hệ Tình Cảm"
+  },
+  {
+    "key": "update_entry_45",
+    "type": 0,
+    "en": "Settler Small talk",
+    "vi": "Chuyện Trò Xã Giao Dân Làng"
+  },
+  {
+    "key": "update_entry_46",
+    "type": 0,
+    "en": "Social Interactions",
+    "vi": "Tương Tác Giao Tiếp Xã Hội"
+  },
+  {
+    "key": "update_entry_47",
+    "type": 0,
+    "en": "Individual Action log",
+    "vi": "Nhật Ký Hành Động Cá Nhân"
+  },
+  {
+    "key": "update_entry_48",
+    "type": 0,
+    "en": "Ladder System",
+    "vi": "Hệ Thống Thang Leo Đa Năng"
+  },
+  {
+    "key": "update_entry_49",
+    "type": 0,
+    "en": "Multiple Shelf Editing",
+    "vi": "Chỉnh Sửa Cùng Lúc Nhiều Kệ Đồ"
+  },
+  {
+    "key": "update_entry_50",
+    "type": 0,
+    "en": "Feeding Animals Changed",
+    "vi": "Cải Tiến Cơ Chế Cho Ăn Động Vật"
+  },
+  {
+    "key": "update_entry_51",
+    "type": 0,
+    "en": "Sunlight",
+    "vi": "Hệ Thống Ánh Nắng Mặt Trời"
+  },
+  {
+    "key": "update_entry_52",
+    "type": 0,
+    "en": "Stunted Plants",
+    "vi": "Cây Trồng Bị Còi Cọc Do Thiếu Sáng"
+  },
+  {
+    "key": "update_entry_53",
+    "type": 0,
+    "en": "Temperature Overhaul",
+    "vi": "Đại Tu Toàn Diện Cơ Chế Nhiệt Độ"
+  },
+  {
+    "key": "update_entry_54",
+    "type": 0,
+    "en": "New Day & Night Cycle",
+    "vi": "Chu Kỳ Ngày & Đêm Mới"
+  },
+  {
+    "key": "update_entry_55",
+    "type": 0,
+    "en": "Accumulating Puddles",
+    "vi": "Vũng Nước Mưa Tích Tụ"
+  },
+  {
+    "key": "update_entry_56",
+    "type": 0,
+    "en": "Accumulating Snow",
+    "vi": "Tuyết Rơi Tích Tụ Phủ Trắng"
+  },
+  {
+    "key": "update_entry_57",
+    "type": 0,
+    "en": "Wound Tending Overhaul ",
+    "vi": "Đại Tu Cơ Chế Băng Bó Chữa Thương"
+  },
+  {
+    "key": "update_entry_58",
+    "type": 0,
+    "en": "Bird Flocks",
+    "vi": "Đàn Chim Bay Lượn"
+  },
+  {
+    "key": "update_entry_59",
+    "type": 0,
+    "en": "Predator protection",
+    "vi": "Bảo Vệ Đàn Gia Súc Trước Dã Thú"
+  },
+  {
+    "key": "update_entry_60",
+    "type": 0,
+    "en": "Rivers and Ponds",
+    "vi": "Sông Ngòi & Ao Hồ Tự Nhiên"
+  },
+  {
+    "key": "update_entry_61",
+    "type": 0,
+    "en": "Waterfalls",
+    "vi": "Thác Nước Hùng Vĩ"
+  },
+  {
+    "key": "update_entry_62",
+    "type": 0,
+    "en": "New Map Type: Marsh",
+    "vi": "Loại Bản Đồ Mới: Vùng Đầm Lầy"
+  },
+  {
+    "key": "update_entry_63",
+    "type": 0,
+    "en": "Fish and Eels",
+    "vi": "Cá Sông & Lươn Đồng"
+  },
+  {
+    "key": "update_entry_64",
+    "type": 0,
+    "en": "Settler Role System",
+    "vi": "Hệ Thống Chức Vụ Dân Làng"
+  },
+  {
+    "key": "update_entry_65",
+    "type": 0,
+    "en": "Bards, Druids and Chaplain",
+    "vi": "Nhạc Công, Tu Sĩ Druid & Tuyên Úy"
+  },
+  {
+    "key": "update_entry_66",
+    "type": 0,
+    "en": "Feasts, Eucharists & Rituals",
+    "vi": "Đại Yến Tiệc, Thánh Lễ & Nghi Thức Cúng Tế"
+  },
+  {
+    "key": "update_entry_67",
+    "type": 0,
+    "en": "Job Preferences",
+    "vi": "Sở Thích Phân Công Công Việc"
+  },
+  {
+    "key": "update_entry_68",
+    "type": 0,
+    "en": "Extortion Events",
+    "vi": "Sự Kiện Bị Tống Tiền Bảo Kê"
+  },
+  {
+    "key": "update_entry_69",
+    "type": 0,
+    "en": "Negotiating for Runaways",
+    "vi": "Đàm Phán Chuộc Người Bỏ Trốn"
+  },
+  {
+    "key": "update_entry_70",
+    "type": 0,
+    "en": "News System",
+    "vi": "Hệ Thống Bảng Tin Thời Sự"
+  },
+  {
+    "key": "update_entry_71",
+    "type": 0,
+    "en": "New Settler Jobs",
+    "vi": "Các Nghề Nghiệp Dân Làng Mới"
+  },
+  {
+    "key": "update_entry_72",
+    "type": 0,
+    "en": "New Settler Skills",
+    "vi": "Các Kỹ Năng Dân Làng Mới"
+  },
+  {
+    "key": "update_entry_73",
+    "type": 0,
+    "en": "Gates",
+    "vi": "Hệ Thống Cổng Thành"
+  },
+  {
+    "key": "update_entry_74",
+    "type": 0,
+    "en": "Captive Labourer system",
+    "vi": "Hệ Thống Lao Động Tù Binh"
+  },
+  {
+    "key": "update_entry_75",
+    "type": 0,
+    "en": "New Role",
+    "vi": "Bổ Sung Chức Vụ Mới"
+  },
+  {
+    "key": "update_entry_76",
+    "type": 0,
+    "en": "Execution event",
+    "vi": "Sự Kiện Xử Tử Phạm Nhân"
+  },
+  {
+    "key": "update_entry_77",
+    "type": 0,
+    "en": "Recruiting Prisoners",
+    "vi": "Cảm Hóa Chiêu Mộ Tù Nhân"
+  },
+  {
+    "key": "update_entry_78",
+    "type": 0,
+    "en": "Training Structures",
+    "vi": "Công Trình Thao Luyện Binh Sĩ"
+  },
+  {
+    "key": "update_entry_79",
+    "type": 0,
+    "en": "Combat With Fire",
+    "vi": "Tác Chiến Bằng Lửa Hỏa Công"
+  },
+  {
+    "key": "update_entry_80",
+    "type": 0,
+    "en": "New Weapon Types",
+    "vi": "Các Loại Vũ Khí Mới"
+  },
+  {
+    "key": "update_entry_81",
+    "type": 0,
+    "en": "Throwable weapon types",
+    "vi": "Các Loại Vũ Khí Ném Tầm Xa"
+  },
+  {
+    "key": "update_entry_82",
+    "type": 0,
+    "en": "Modding support ",
+    "vi": "Hỗ Trợ Modding Tùy Biến Toàn Diện"
+  },
+  {
+    "key": "update_entry_83",
+    "type": 0,
+    "en": "Steam Workshop integration",
+    "vi": "Tích Hợp Steam Workshop"
+  },
+  {
+    "key": "update_entry_84",
+    "type": 0,
+    "en": "Group Enemy AI",
+    "vi": "Trí Tuệ Nhân Tạo (AI) Kẻ Địch Theo Đội Hình"
+  },
+  {
+    "key": "update_entry_85",
+    "type": 0,
+    "en": "Siege Weapons (player controlled)",
+    "vi": "Khí Tài Công Thành (Người Chơi Trực Tiếp Điều Khiển)"
+  },
+  {
+    "key": "update_entry_86",
+    "type": 0,
+    "en": "Visiting Other Maps",
+    "vi": "Xuất Ngoại Thám Hiểm Các Vùng Đất Khác"
+  },
+  {
+    "key": "update_entry_87",
+    "type": 0,
+    "en": "Raiding Camps/Settlements",
+    "vi": "Đột Kích Tiêu Diệt Doanh Trại / Căn Cứ Địch"
+  },
+  {
+    "key": "update_entry_88",
+    "type": 0,
+    "en": "Grand Objectives",
+    "vi": "Hệ Thống Đại Mục Tiêu Định Đoạt Vận Mệnh"
+  },
+  {
+    "key": "update_entry_89",
+    "type": 0,
+    "en": "Flammable Traps",
+    "vi": "Cạm Bẫy Bắt Lửa Thiêu Rụi"
+  },
+  {
+    "key": "update_entry_90",
+    "type": 0,
+    "en": "Fire Arrows",
+    "vi": "Cung Tên Lửa Cháy Rực"
+  },
+  {
+    "key": "update_entry_91",
+    "type": 0,
+    "en": "Modding support (meshes and textures)",
+    "vi": "Hỗ Trợ Mod Lưới 3D (Mesh) & Kết Cấu Vân Bề Mặt (Texture)"
+  },
+  {
+    "key": "update_entry_92",
+    "type": 0,
+    "en": "Camera 2.0",
+    "vi": "Hệ Thống Camera 2.0 Tối Tân"
+  },
+  {
+    "key": "update_entry_93",
+    "type": 0,
+    "en": "Bandit Camps",
+    "vi": "Doanh Trại Thảo Khấu"
+  }
+]

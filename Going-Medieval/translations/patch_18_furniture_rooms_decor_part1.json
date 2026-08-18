@@ -1,0 +1,902 @@
+[
+  {
+    "key": "torch_state_on",
+    "type": 0,
+    "en": "On",
+    "vi": "Bật"
+  },
+  {
+    "key": "torch_state_off",
+    "type": 0,
+    "en": "Off",
+    "vi": "Tắt"
+  },
+  {
+    "key": "torch_on_info",
+    "type": 0,
+    "en": "This flame radiates heat and light while on",
+    "vi": "Ngọn lửa này tỏa ra ánh sáng và hơi ấm khi được thắp sáng"
+  },
+  {
+    "key": "torch_off_info",
+    "type": 0,
+    "en": "No heat or light is emitted",
+    "vi": "Không tỏa ra ánh sáng hay nhiệt lượng khi bị dập tắt"
+  },
+  {
+    "key": "hud_info_hide_room",
+    "type": 0,
+    "en": "Show overlay of rooms detected.",
+    "vi": "Hiển thị lớp phủ trực quan các loại phòng quy hoạch đã được nhận diện."
+  },
+  {
+    "key": "menu_furniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Nội Thất & Tiện Nghi"
+  },
+  {
+    "key": "menu_nearby_furniture",
+    "type": 0,
+    "en": "Nearby furniture",
+    "vi": "Nội Thất Lân Cận"
+  },
+  {
+    "key": "info_room",
+    "type": 0,
+    "en": "Inside room",
+    "vi": "Trong Phòng"
+  },
+  {
+    "key": "room_types_legend",
+    "type": 0,
+    "en": "Room Types Legend",
+    "vi": "Chú Giải Phân Loại Phòng"
+  },
+  {
+    "key": "bed_owner_cant_change",
+    "type": 0,
+    "en": "Cant change bed owner. Current owner is using it at the moment.",
+    "vi": "Không thể thay đổi chủ sở hữu giường. Người sở hữu hiện đang nằm ngủ trên giường."
+  },
+  {
+    "key": "resource_tooltip_ice_room",
+    "type": 0,
+    "en": "<style=DefaultOrange>Cools down the area around it. Minimum temperature achievable is <zero_temp></style>",
+    "vi": "<style=DefaultOrange>Làm mát giảm nhiệt khu vực xung quanh. Mức nhiệt độ tối thiểu có thể đạt được là <zero_temp></style>"
+  },
+  {
+    "key": "bed_temporary_owner",
+    "type": 0,
+    "en": "Settler's assigned bed too far away. They are temporarily using this one instead.",
+    "vi": "Giường được chỉ định của dân làng ở quá xa. Họ đang tạm thời sử dụng chiếc giường này để ngả lưng."
+  },
+  {
+    "key": "room_planning",
+    "type": 0,
+    "en": "Room planning",
+    "vi": "Quy Hoạch Phòng Ốc"
+  },
+  {
+    "key": "select_room_type",
+    "type": 0,
+    "en": "Select room type",
+    "vi": "Lựa Chọn Loại Phòng"
+  },
+  {
+    "key": "animal_idle_in_rooms_allowed",
+    "type": 0,
+    "en": "Idle inside",
+    "vi": "Nghỉ Ngơi Trong Nhà"
+  },
+  {
+    "key": "animal_idle_in_rooms_allowed_info",
+    "type": 0,
+    "en": "If 'off,' then the animal will prefer to idle outside. ",
+    "vi": "Nếu chuyển sang 'Tắt', động vật nuôi sẽ ưu tiên tìm chỗ nằm nghỉ ở bên ngoài trời."
+  },
+  {
+    "key": "system_room_info",
+    "type": 0,
+    "en": "- Four walls, at least one door, and a roof or ceiling creates a 'spare' room. Fill that room with furniture and decorations to create other types of room.\\n- To see what rooms you currently have in your settlement, turn the room overlay on <sprite=\"room_overlay_text_icon\" index=t>.\\n- Take a look at the room type legend in the upper left corner to see what is needed for each room type, and what benefits that room offers.\\n- Some rooms are required for <LinkAlmanac=\"Eventypes\">events</link>, e.g. you will need a great hall to host a <LinkAlmanac=\"Playertriggeredeventfeast\">feast</link> event.\\n\\n- Room types:\\n <room_type_list>",
+    "vi": "- Bốn bức tường, ít nhất một cửa ra vào và mái hoặc trần sẽ tạo thành một phòng 'trống'. Hãy đặt nội thất và đồ trang trí để tạo các loại phòng khác.\\n- Để xem các phòng hiện có trong khu định cư, hãy bật lớp phủ phòng <sprite=\"room_overlay_text_icon\" index=t>.\\n- Xem chú giải loại phòng ở góc trên bên trái để biết yêu cầu và lợi ích của từng loại phòng.\\n- Một số phòng cần thiết cho <LinkAlmanac=\"Eventypes\">sự kiện</link>, ví dụ cần đại sảnh để tổ chức sự kiện <LinkAlmanac=\"Playertriggeredeventfeast\">yến tiệc</link>.\\n\\n- Các loại phòng:\\n <room_type_list>"
+  },
+  {
+    "key": "system_room_name",
+    "type": 0,
+    "en": "Room Types",
+    "vi": "Loại phòng"
+  },
+  {
+    "key": "system_room",
+    "type": 0,
+    "en": "Room Types",
+    "vi": "Loại phòng"
+  },
+  {
+    "key": "warning_message_room_created",
+    "type": 0,
+    "en": "Room created: <room_type>",
+    "vi": "Đã tạo phòng: <room_type>"
+  },
+  {
+    "key": "tut_open_build_furniture",
+    "type": 0,
+    "en": "Open the Furniture panel",
+    "vi": "Mở bảng Nội thất"
+  },
+  {
+    "key": "effector_name_AffectionSleptInSameRoomPositive",
+    "type": 0,
+    "en": "An easy bedfellow",
+    "vi": "Người cùng phòng dễ chịu"
+  },
+  {
+    "key": "effector_name_AffectionSleptInSameRoomNegative",
+    "type": 0,
+    "en": "A nightmare to sleep near",
+    "vi": "Cơn ác mộng khi ngủ gần"
+  },
+  {
+    "key": "ctrl_Furniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Nội thất"
+  },
+  {
+    "key": "ctrl_ShowHideRooms",
+    "type": 0,
+    "en": "Rooms: Show/Hide",
+    "vi": "Phòng: Hiện/Ẩn"
+  },
+  {
+    "key": "resource_holder_info_mushroom_patch",
+    "type": 0,
+    "en": "Fungi of the field and forest. Many are edible, some are delicious.",
+    "vi": "Nấm mọc ngoài đồng và trong rừng. Nhiều loại ăn được, một số rất ngon."
+  },
+  {
+    "key": "resource_holder_name_mushroom_patch",
+    "type": 0,
+    "en": "Mushrooms",
+    "vi": "Nấm"
+  },
+  {
+    "key": "resource_holder_name_magic_mushroom",
+    "type": 0,
+    "en": "Liberty Cap Mushrooms",
+    "vi": "Nấm mũ tự do"
+  },
+  {
+    "key": "resource_holder_info_magic_mushroom",
+    "type": 0,
+    "en": "A small fungus, easily missed. It wears a pointed hat and, if eaten, may cause visions or odd behaviour.",
+    "vi": "Loài nấm nhỏ dễ bị bỏ qua, có mũ nhọn và khi ăn có thể gây ảo giác hoặc hành vi kỳ lạ."
+  },
+  {
+    "key": "warning_message_short_RoomNew",
+    "type": 0,
+    "en": "Room created",
+    "vi": "Đã tạo phòng"
+  },
+  {
+    "key": "research_name_furniture_lvl1",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Nội thất"
+  },
+  {
+    "key": "research_name_furniture_lvl2",
+    "type": 0,
+    "en": "Furniture II",
+    "vi": "Nội thất II"
+  },
+  {
+    "key": "research_name_furniture_lvl3",
+    "type": 0,
+    "en": "Furniture III",
+    "vi": "Nội thất III"
+  },
+  {
+    "key": "research_name_furniture_lvl4",
+    "type": 0,
+    "en": "Furniture IV",
+    "vi": "Nội thất IV"
+  },
+  {
+    "key": "player_triggered_event_furniture_info",
+    "type": 0,
+    "en": "Is used during: <event_name>",
+    "vi": "Được dùng trong: <event_name>"
+  },
+  {
+    "key": "effector_name_SleptInBedroom",
+    "type": 0,
+    "en": "Slept in own quarters",
+    "vi": "Ngủ trong phòng riêng"
+  },
+  {
+    "key": "effector_name_SleptInBedroomAwful",
+    "type": 0,
+    "en": "Slept in own quarters (Awful)",
+    "vi": "Ngủ trong phòng riêng (Tồi tệ)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomDull",
+    "type": 0,
+    "en": "Slept in own quarters (Uninspiring)",
+    "vi": "Ngủ trong phòng riêng (Không truyền cảm hứng)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomMediocre",
+    "type": 0,
+    "en": "Slept in own quarters (Modest)",
+    "vi": "Ngủ trong phòng riêng (Khiêm tốn)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomGood",
+    "type": 0,
+    "en": "Slept in own quarters (Good)",
+    "vi": "Ngủ trong phòng riêng (Tốt)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Superior)",
+    "vi": "Ngủ trong phòng riêng (Thượng hạng)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Luxurious)",
+    "vi": "Ngủ trong phòng riêng (Xa hoa)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomVeryImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Opulent)",
+    "vi": "Ngủ trong phòng riêng (Lộng lẫy)"
+  },
+  {
+    "key": "effector_name_SleptInBedroomExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in own quarters (Palatial)",
+    "vi": "Ngủ trong phòng riêng (Tráng lệ)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroom",
+    "type": 0,
+    "en": "Slept in shared quarters",
+    "vi": "Ngủ trong phòng chung"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomAwful",
+    "type": 0,
+    "en": "Slept in shared quarters (Awful)",
+    "vi": "Ngủ trong phòng chung (Tồi tệ)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomDull",
+    "type": 0,
+    "en": "Slept in shared quarters (Uninspiring)",
+    "vi": "Ngủ trong phòng chung (Không truyền cảm hứng)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomMediocre",
+    "type": 0,
+    "en": "Slept in shared quarters (Modest)",
+    "vi": "Ngủ trong phòng chung (Khiêm tốn)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomGood",
+    "type": 0,
+    "en": "Slept in shared quarters (Good)",
+    "vi": "Ngủ trong phòng chung (Tốt)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Superior)",
+    "vi": "Ngủ trong phòng chung (Thượng hạng)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Luxurious)",
+    "vi": "Ngủ trong phòng chung (Xa hoa)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomVeryImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Opulent)",
+    "vi": "Ngủ trong phòng chung (Lộng lẫy)"
+  },
+  {
+    "key": "effector_name_SleptInSharedBedroomExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in shared quarters (Palatial)",
+    "vi": "Ngủ trong phòng chung (Tráng lệ)"
+  },
+  {
+    "key": "effector_info_SleptInBedroom",
+    "type": 0,
+    "en": "Ah, the luxury of a good night's sleep, undisturbed in my own bed! I feel refreshed.",
+    "vi": "Ôi, thật xa hoa khi được ngủ ngon trên giường riêng mà không bị quấy rầy! Tôi thấy sảng khoái."
+  },
+  {
+    "key": "effector_info_SleptInSharedBedroom",
+    "type": 0,
+    "en": "There's something comforting about falling asleep surrounded by friends. I feel safe and cosy.",
+    "vi": "Ngủ giữa những người bạn đem lại cảm giác dễ chịu. Tôi thấy an đểàn và ấm cúng."
+  },
+  {
+    "key": "bed_effector",
+    "type": 0,
+    "en": "Bed",
+    "vi": "Giường"
+  },
+  {
+    "key": "effector_name_InSmallRoom",
+    "type": 0,
+    "en": "The walls are closing in",
+    "vi": "Những bức tường đang ép sát"
+  },
+  {
+    "key": "effector_name_InSpaciousRoom",
+    "type": 0,
+    "en": "Such a spacious room",
+    "vi": "Căn phòng thật rộng rãi"
+  },
+  {
+    "key": "effector_name_JealousBedroom",
+    "type": 0,
+    "en": "Jealous due to inferior bedroom",
+    "vi": "Ghen tị vì phòng ngủ kém hơn"
+  },
+  {
+    "key": "effector_info_JealousBedroom",
+    "type": 0,
+    "en": "Why does <other_name> have a better room than me? What makes them so special?",
+    "vi": "Tại sao <other_name> có phòng tốt hơn tôi? Họ có gì đặc biệt chứ?"
+  },
+  {
+    "key": "effector_name_WantsOwnRoom",
+    "type": 0,
+    "en": "A room of one's own",
+    "vi": "Phòng riêng của mình"
+  },
+  {
+    "key": "effector_info_WantsOwnRoom",
+    "type": 0,
+    "en": "I really can't stand sharing my chamber with anyone. I need my own space.",
+    "vi": "Tôi thực sự không chịu được việc chia sẻ phòng với người khác. Tôi cần không gian riêng."
+  },
+  {
+    "key": "effector_name_RoomTooImpressive",
+    "type": 0,
+    "en": "Unwanted room",
+    "vi": "Căn phòng không mong muốn"
+  },
+  {
+    "key": "effector_info_RoomTooImpressive",
+    "type": 0,
+    "en": "This room is a bit too luxurious for my taste. I prefer simplicity.",
+    "vi": "Căn phòng này hơi quá xa hoa so với sở thích của tôi. Tôi thích sự giản dị."
+  },
+  {
+    "key": "effector_name_RoleBardRoomEnter",
+    "type": 0,
+    "en": "Entertaining presence",
+    "vi": "Sự hiện diện giải trí"
+  },
+  {
+    "key": "effector_info_RoleBardRoomEnter",
+    "type": 0,
+    "en": "Is anything sweeter than a lute, or more spellbinding than a story? Time flies when this <role> performs. ",
+    "vi": "Có gì ngọt ngào hơn tiếng đàn lute hay mê hoặc hơn một câu chuyện? Thời gian trôi nhanh khi <role> này biểu diễn. "
+  },
+  {
+    "key": "effector_name_RoleShamanRoomEnter",
+    "type": 0,
+    "en": "Visionary presence ",
+    "vi": "Sự hiện diện huyền kiến "
+  },
+  {
+    "key": "effector_info_RoleShamanRoomEnter",
+    "type": 0,
+    "en": "When this <role> enters a grove, the deep magic of the land feels close. [He/She] is attuned to Nature.",
+    "vi": "Khi <role> này bước vào lùm cây, ma thuật sâu thẳm của đất đai như đến gần. [He/She] hòa hợp với Tự nhiên."
+  },
+  {
+    "key": "effector_name_RolePriestRoomEnter",
+    "type": 0,
+    "en": "Pious presence",
+    "vi": "Sự hiện diện mộ đạo"
+  },
+  {
+    "key": "effector_info_RolePriestRoomEnter",
+    "type": 0,
+    "en": "Be inspired to draw nearer to Christ by this <role>. [He/She] truly walks the path of faith with humility and grace.",
+    "vi": "Hãy để <role> này truyền cảm hứng đưa bạn đến gần Đấng Christ hơn. [He/She] thực sự bước trên con đường đức tin bằng sự khiêm nhường và ân sủng."
+  },
+  {
+    "key": "zone_name_cropfield",
+    "type": 0,
+    "en": "Cropfield",
+    "vi": "Ruộng trồng trọt"
+  },
+  {
+    "key": "zone_info_cropfield",
+    "type": 0,
+    "en": "Zone used for growing crops for food or other resources. ",
+    "vi": "Khu vực trồng cây làm thức ăn hoặc tài nguyên khác. "
+  },
+  {
+    "key": "general_room_requirements",
+    "type": 0,
+    "en": "Requires room type",
+    "vi": "Yêu cầu loại phòng"
+  },
+  {
+    "key": "general_own_room_requirement",
+    "type": 0,
+    "en": "Settler has their own private chamber",
+    "vi": "Dân làng có phòng riêng"
+  },
+  {
+    "key": "general_room_furniture_requirements",
+    "type": 0,
+    "en": "Room should contain",
+    "vi": "Phòng cần có"
+  },
+  {
+    "key": "pte_needs_rooms",
+    "type": 0,
+    "en": "Can be held in",
+    "vi": "Có thể tổ chức tại"
+  },
+  {
+    "key": "must_have_in_rooms",
+    "type": 0,
+    "en": "Can be used for room type",
+    "vi": "Có thể dùng cho loại phòng"
+  },
+  {
+    "key": "room_type_not_found_legend",
+    "type": 0,
+    "en": "No rooms found of this type: {type}",
+    "vi": "Không tìm thấy phòng thuộc loại: {type}"
+  },
+  {
+    "key": "room_click_to_select",
+    "type": 0,
+    "en": "Click to select a room of this type.",
+    "vi": "Nhấp để chọn một phòng thuộc loại này."
+  },
+  {
+    "key": "room_info_type",
+    "type": 0,
+    "en": "Room type:",
+    "vi": "Loại phòng:"
+  },
+  {
+    "key": "room_in_selection",
+    "type": 0,
+    "en": "Room",
+    "vi": "Phòng"
+  },
+  {
+    "key": "room_info_temperature",
+    "type": 0,
+    "en": "Room temperature",
+    "vi": "Nhiệt độ phòng"
+  },
+  {
+    "key": "room_info_content",
+    "type": 0,
+    "en": "Room content",
+    "vi": "Nội dung phòng"
+  },
+  {
+    "key": "room_info_heating",
+    "type": 0,
+    "en": "Heating",
+    "vi": "Sưởi ấm"
+  },
+  {
+    "key": "room_info_floor_isolation",
+    "type": 0,
+    "en": "Floor Insulation",
+    "vi": "Cách nhiệt sàn"
+  },
+  {
+    "key": "room_info_wall_isolation",
+    "type": 0,
+    "en": "Wall Insulation",
+    "vi": "Cách nhiệt tường"
+  },
+  {
+    "key": "room_info_roof_isolation",
+    "type": 0,
+    "en": "Roof Insulation",
+    "vi": "Cách nhiệt mái"
+  },
+  {
+    "key": "room_info_total_isolation",
+    "type": 0,
+    "en": "Total Insulation",
+    "vi": "Tổng cách nhiệt"
+  },
+  {
+    "key": "room_info_area",
+    "type": 0,
+    "en": "Area",
+    "vi": "Diện tích"
+  },
+  {
+    "key": "room_minimum_area",
+    "type": 0,
+    "en": "Minimum grid space area",
+    "vi": "Diện tích ô lưới tối thiểu"
+  },
+  {
+    "key": "room_must_have",
+    "type": 0,
+    "en": "Must have",
+    "vi": "Phải có"
+  },
+  {
+    "key": "room_cannot_have",
+    "type": 0,
+    "en": "Cannot have",
+    "vi": "Không được có"
+  },
+  {
+    "key": "room_type_kitchen",
+    "type": 0,
+    "en": "Kitchen",
+    "vi": "Nhà bếp"
+  },
+  {
+    "key": "room_type_workshop",
+    "type": 0,
+    "en": "Workshop",
+    "vi": "Xưởng"
+  },
+  {
+    "key": "room_type_library",
+    "type": 0,
+    "en": "Library",
+    "vi": "Thư viện"
+  },
+  {
+    "key": "room_type_chapel_christian",
+    "type": 0,
+    "en": "Church of Restitution Chapel",
+    "vi": "Nhà nguyện Hội Phục Hưng"
+  },
+  {
+    "key": "room_type_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren temple",
+    "vi": "Đền Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "room_type_bedroom_single",
+    "type": 0,
+    "en": "Chamber",
+    "vi": "Phòng riêng"
+  },
+  {
+    "key": "room_type_bedroom_individual",
+    "type": 0,
+    "en": "<name>`s Chamber",
+    "vi": "Phòng của <name>"
+  },
+  {
+    "key": "room_type_bedroom_shared",
+    "type": 0,
+    "en": "Shared Chamber",
+    "vi": "Phòng chung"
+  },
+  {
+    "key": "room_type_great_hall",
+    "type": 0,
+    "en": "Great hall",
+    "vi": "Đại sảnh"
+  },
+  {
+    "key": "room_type_default",
+    "type": 0,
+    "en": "Spare room",
+    "vi": "Phòng trống"
+  },
+  {
+    "key": "room_info_kitchen",
+    "type": 0,
+    "en": "Knives glint in the glow cast by the hot stove. The kitchen is the heart of any home, where food is lovingly prepared. Meals are produced faster here than anywhere else.",
+    "vi": "Dao sáng lên dưới ánh bếp nóng. Nhà bếp là trái tim của mọi mái nhà, nơi món ăn được chuẩn bị bằng sự tận tâm. Bữa ăn được làm ở đây nhanh hơn bất cứ đâu."
+  },
+  {
+    "key": "room_info_workshop",
+    "type": 0,
+    "en": "Every journeyman dreams of having a workshop where they can hone their craft and produce their finest work. This is where all workstations reach their full potential.",
+    "vi": "Mọi người thợ lành nghề đều hằng mơ ước về một gian xưởng chế tác riêng biệt, nơi họ thỏa sức trui rèn tay nghề và tạo tác nên những kiệt tác xuất sắc nhất. Đây chính là nơi mọi bàn chế tác phát huy trọn vẹn tiềm năng hoạt động."
+  },
+  {
+    "key": "room_info_library",
+    "type": 0,
+    "en": "A special stillness gathers in this room, among the bookshelves laden with leather-bound tomes. The only sound is the scratching of quill on vellum, as scholars record what knowledge they have gleaned.",
+    "vi": "Một sự tĩnh lặng trang nghiêm bao trùm khắp căn phòng giữa những hàng giá sách đầy ắp các pho cổ thư bọc da quý giá. Âm thanh duy nhất vang vọng chỉ là tiếng ngòi bút lông sột soạt trên nền giấy da cừu, khi các học giả miệt mài ghi chép lại tri thức uyên bác."
+  },
+  {
+    "key": "room_info_chapel_christian",
+    "type": 0,
+    "en": "Austere but beautiful, this room is made for prayer. Here a settler may beseech their maker for mercy, give thanks for a fine harvest, or contemplate eternity.",
+    "vi": "Trang nghiêm, khắc khổ nhưng đượm vẻ tôn kính, gian phòng này được kiến tạo dành riêng cho việc nguyện cầu. Nơi đây, con chiên ngoan đạo có thể dâng lời khẩn cầu lòng từ bi của Đấng Tạo Hóa, tạ ơn Người đã ban cho mùa màng bội thu, hoặc trầm tư chiêm nghiệm về cõi vĩnh hằng."
+  },
+  {
+    "key": "room_info_chapel_pagan",
+    "type": 0,
+    "en": "A hallowed space, simply decorated with the gifts of Mother Earth. A place to connect with the seasons, to become one with plant and animal healers. To listen for the sacred in all things.",
+    "vi": "Một không gian linh thiêng được bài trí mộc mạc bằng những lễ vật thuần khiết của Đất Mẹ. Nơi con người hòa mình cùng nhịp chuyển mùa của đất trời, giao hòa cùng vạn vật thảo mộc và muông thú chữa lành, lắng nghe thanh âm thiêng liêng ngự trị trong vạn vật."
+  },
+  {
+    "key": "room_info_bedroom_single",
+    "type": 0,
+    "en": "A rare private space. A haven to rest in solitude, and to dream and wake, alone, in peace.",
+    "vi": "Một không gian riêng tư quý giá hiếm có. Chốn nương náu bình yên để nghỉ ngơi trong thanh tịnh, tự do mơ mộng và thức giấc một mình giữa sự tĩnh lặng tuyệt đối."
+  },
+  {
+    "key": "room_info_bedroom_shared",
+    "type": 0,
+    "en": "A communal room, where many lay down their heads to rest. There is warmth and comfort, but also occasional loud snoring and bad smells.",
+    "vi": "Căn phòng ngủ tập thể chung, nơi nhiều người cùng nhau ngả đầu yên giấc sau một ngày dài lao động. Nơi đây luôn tràn ngập hơi ấm và sự gần gũi, nhưng đôi khi cũng có những tiếng ngáy vang như sấm cùng mùi cơ thể khó chịu."
+  },
+  {
+    "key": "room_info_great_hall",
+    "type": 0,
+    "en": "A place for tales and music through the long nights, for feasting or plotting. Where the settlers gather to take their daily bread. ",
+    "vi": "Nơi vang vọng những khúc ca sử thi hào hùng và những câu chuyện truyền kỳ thâu đêm suốt sáng, nơi diễn ra những bữa đại yến linh đình hay những mưu đồ chính trị kín đáo. Nơi toàn thể dân làng quây quần bên nhau để chia sẻ tấm bánh mì sinh tồn hằng ngày."
+  },
+  {
+    "key": "room_info_default",
+    "type": 0,
+    "en": "A spare room, empty for now. Perhaps in time, its purpose will become apparent.",
+    "vi": "Một căn phòng trống dự phòng chưa có mục đích sử dụng. Theo thời gian, công năng phù hợp của nó sẽ dần được định hình."
+  },
+  {
+    "key": "room_effect_kitchen",
+    "type": 0,
+    "en": "Stoves and butchering tables boost production speed",
+    "vi": "Bếp lò và bàn mổ thịt được gia tăng đáng kể tốc độ sản xuất"
+  },
+  {
+    "key": "room_effect_workshop",
+    "type": 0,
+    "en": "Workstations boost production speed",
+    "vi": "Tất cả bàn chế tác được gia tăng đáng kể tốc độ sản xuất"
+  },
+  {
+    "key": "room_effect_library",
+    "type": 0,
+    "en": "Research tables give a speed bonus for writing books",
+    "vi": "Bàn nghiên cứu được tăng tốc độ biên soạn và nghiên cứu sách tri thức"
+  },
+  {
+    "key": "room_effect_grand_library",
+    "type": 0,
+    "en": "Research tables give a speed bonus for writing books",
+    "vi": "Bàn nghiên cứu được tăng vượt trội tốc độ biên soạn và nghiên cứu sách tri thức"
+  },
+  {
+    "key": "room_effect_advanced_chapel_christian",
+    "type": 0,
+    "en": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so.",
+    "vi": "Tín đồ Hội Phục Hưng nhận hiệu ứng tâm trạng phấn chấn khi ở trong phòng. Tín đồ Cây Sồi nhận ít hơn."
+  },
+  {
+    "key": "room_effect_chapel_christian",
+    "type": 0,
+    "en": "Restitutionists get positive mood modifiers when spending time here. Oak Brethren less so.",
+    "vi": "Tín đồ Hội Phục Hưng nhận hiệu ứng tâm trạng phấn chấn khi ở trong phòng. Tín đồ Cây Sồi nhận ít hơn."
+  },
+  {
+    "key": "room_effect_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much.",
+    "vi": "Tín đồ Huynh Đệ Cây Sồi nhận hiệu ứng tâm trạng phấn chấn khi ở trong phòng. Tín đồ Phục Hưng nhận không đáng kể."
+  },
+  {
+    "key": "room_effect_advanced_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren get positive mood modifiers when spending time here. Restitutionists, not so much.",
+    "vi": "Tín đồ Huynh Đệ Cây Sồi nhận hiệu ứng tâm trạng phấn chấn khi ở trong phòng. Tín đồ Phục Hưng nhận không đáng kể."
+  },
+  {
+    "key": "room_effect_bedroom_single",
+    "type": 0,
+    "en": "Whoever sleeps here enjoys the peace and quiet of their own quarters.",
+    "vi": "Người ngủ trong căn phòng này sẽ được tận hưởng trọn vẹn sự yên tĩnh và thanh thản của phòng ngủ riêng biệt."
+  },
+  {
+    "key": "room_effect_bedroom_shared",
+    "type": 0,
+    "en": "A small positive mood modifier is gained by whoever sleeps here.",
+    "vi": "Người ngủ trong phòng này nhận được một hiệu ứng tâm trạng tích cực nhẹ."
+  },
+  {
+    "key": "room_effect_great_hall",
+    "type": 0,
+    "en": "Every meal tastes a bit nicer when eaten in the great hall. A positive mood modifier is gained after each meal.",
+    "vi": "Mọi món ăn đều trở nên thơm ngon đậm đà hơn khi được thưởng thức trong Đại Sảnh Đường. Dân làng nhận được hiệu ứng tâm trạng tích cực sau mỗi bữa ăn."
+  },
+  {
+    "key": "room_effect_default",
+    "type": 0,
+    "en": "Spare room gives no bonuses",
+    "vi": "Phòng trống không mang lại bất kỳ chỉ số thưởng nào"
+  },
+  {
+    "key": "room_speed_multiplier_bonus",
+    "type": 0,
+    "en": "Room type production speed",
+    "vi": "Tốc độ sản xuất theo quy hoạch phòng"
+  },
+  {
+    "key": "room_kitchen_any_stove",
+    "type": 0,
+    "en": "Stove",
+    "vi": "Bếp Lò Bất Kỳ"
+  },
+  {
+    "key": "room_cant_have_shrine",
+    "type": 0,
+    "en": "Shrines",
+    "vi": "Đền Thờ"
+  },
+  {
+    "key": "room_cant_have_beds",
+    "type": 0,
+    "en": "Beds",
+    "vi": "Giường Ngủ"
+  },
+  {
+    "key": "room_cant_have_workstations",
+    "type": 0,
+    "en": "Workstations",
+    "vi": "Bàn Chế Tác"
+  },
+  {
+    "key": "room_cant_have_other_workstations",
+    "type": 0,
+    "en": "Other workstations",
+    "vi": "Bàn Chế Tác Khác"
+  },
+  {
+    "key": "room_cant_have_entertainment",
+    "type": 0,
+    "en": "Entertainment Structures",
+    "vi": "Công Trình Giải Trí"
+  },
+  {
+    "key": "room_cant_have_practice",
+    "type": 0,
+    "en": "Practice Structures",
+    "vi": "Công Trình Huấn Luyện"
+  },
+  {
+    "key": "room_new",
+    "type": 0,
+    "en": "Room created",
+    "vi": "Đã Thành Lập Phòng"
+  },
+  {
+    "key": "room_imp",
+    "type": 0,
+    "en": "Impressiveness",
+    "vi": "Độ Tráng Lệ"
+  },
+  {
+    "key": "room_info_imp",
+    "type": 0,
+    "en": "Whether a room impresses depends upon its spaciousness, and the wealth and beauty it contains.",
+    "vi": "Mức độ tráng lệ ấn tượng của căn phòng phụ thuộc vào không gian rộng rãi, sự giàu có của của cải và vẻ đẹp thẩm mỹ bài trí bên trong."
+  },
+  {
+    "key": "room_imp_awful",
+    "type": 0,
+    "en": "Awful",
+    "vi": "Tồi Tàn"
+  },
+  {
+    "key": "room_imp_dull",
+    "type": 0,
+    "en": "Uninspiring",
+    "vi": "Đơn Điệu"
+  },
+  {
+    "key": "room_imp_mediocre",
+    "type": 0,
+    "en": "Modest",
+    "vi": "Khiêm Tốn"
+  },
+  {
+    "key": "room_imp_good",
+    "type": 0,
+    "en": "Good",
+    "vi": "Trang Nhã"
+  },
+  {
+    "key": "room_imp_slightly_Impressive",
+    "type": 0,
+    "en": "Superior",
+    "vi": "Bề Thế"
+  },
+  {
+    "key": "room_imp_somewhat_impressive",
+    "type": 0,
+    "en": "Luxurious",
+    "vi": "Xa Hoa"
+  },
+  {
+    "key": "room_imp_very_impressive",
+    "type": 0,
+    "en": "Opulent",
+    "vi": "Lộng Lẫy"
+  },
+  {
+    "key": "room_imp_extremely_impressive",
+    "type": 0,
+    "en": "Palatial",
+    "vi": "Tuyệt Mỹ Cung Điện"
+  },
+  {
+    "key": "room_type_medical",
+    "type": 0,
+    "en": "Infirmary",
+    "vi": "Bệnh Xá Cứu Thương"
+  },
+  {
+    "key": "room_info_medical",
+    "type": 0,
+    "en": "Where suffering is constant and death close at hand, the infirmary is a refuge for healing, rest and prayer.",
+    "vi": "Nơi nỗi đau đớn thể xác luôn thường trực và bóng tử thần luôn rình rập cận kề, bệnh xá cứu thương chính là chốn nương náu bình yên để chữa lành thương tật, tĩnh dưỡng phục hồi và dâng lời nguyện cầu bình an."
+  },
+  {
+    "key": "room_effect_medical",
+    "type": 0,
+    "en": "Settlers heal faster in this room and tending has a higher chance of success",
+    "vi": "Dân làng hồi phục thể lực và vết thương nhanh hơn khi nằm tại đây, đồng thời thao tác băng bó chữa trị có tỉ lệ thành công cao hơn hẳn"
+  },
+  {
+    "key": "room_imp_free_space",
+    "type": 0,
+    "en": "Spaciousness",
+    "vi": "Không Gian Trống Trải"
+  },
+  {
+    "key": "room_imp_free_space_info",
+    "type": 0,
+    "en": "The amout of free space in the room (excluding furniture and production stations) ",
+    "vi": "Diện tích không gian trống đi lại trong phòng (không tính diện tích bị chiếm bởi đồ nội thất và bàn sản xuất)"
+  },
+  {
+    "key": "room_imp_wealth",
+    "type": 0,
+    "en": "Total Wealth",
+    "vi": "Tổng Giá Trị Của Cải"
+  },
+  {
+    "key": "room_imp_wealth_info",
+    "type": 0,
+    "en": "The cumulative value of all structures, items and resources",
+    "vi": "Tổng giá trị tài sản tích lũy của mọi công trình, vật phẩm và tài nguyên bài trí trong phòng"
+  },
+  {
+    "key": "room_imp_average_beauty",
+    "type": 0,
+    "en": "Average Aesthetic Value",
+    "vi": "Giá Trị Thẩm Mỹ Trung Bình"
+  }
+]

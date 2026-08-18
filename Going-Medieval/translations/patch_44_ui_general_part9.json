@@ -1,0 +1,902 @@
+[
+  {
+    "key": "reaction_negative_8",
+    "type": 0,
+    "en": "anxious to leave",
+    "vi": "nóng lòng muốn rời đi"
+  },
+  {
+    "key": "reaction_neutral_1",
+    "type": 0,
+    "en": "mischievous ",
+    "vi": "tinh nghịch hóm hỉnh"
+  },
+  {
+    "key": "reaction_neutral_2",
+    "type": 0,
+    "en": "confused about it",
+    "vi": "cảm thấy bối rối khó hiểu"
+  },
+  {
+    "key": "reaction_neutral_3",
+    "type": 0,
+    "en": "indifferent",
+    "vi": "thờ ơ không bận tâm"
+  },
+  {
+    "key": "reaction_neutral_4",
+    "type": 0,
+    "en": "distracted",
+    "vi": "xao nhãng mất tập trung"
+  },
+  {
+    "key": "reaction_neutral_5",
+    "type": 0,
+    "en": "baffled",
+    "vi": "bối rối hoang mang"
+  },
+  {
+    "key": "reaction_neutral_6",
+    "type": 0,
+    "en": "nonchalant",
+    "vi": "thản nhiên như không"
+  },
+  {
+    "key": "reaction_neutral_7",
+    "type": 0,
+    "en": "oblivious",
+    "vi": "hoàn toàn không hay biết gì"
+  },
+  {
+    "key": "reaction_neutral_8",
+    "type": 0,
+    "en": "at ease",
+    "vi": "hoàn toàn thư thái nhẹ nhõm"
+  },
+  {
+    "key": "reaction_neutral_9",
+    "type": 0,
+    "en": "childish",
+    "vi": "trẻ con ngây ngô"
+  },
+  {
+    "key": "reaction_neutral_10",
+    "type": 0,
+    "en": "unruffled",
+    "vi": "điềm tĩnh ung dung"
+  },
+  {
+    "key": "reaction_positive_1",
+    "type": 0,
+    "en": "entertained ",
+    "vi": "thích thú hào hứng"
+  },
+  {
+    "key": "reaction_positive_2",
+    "type": 0,
+    "en": "coy",
+    "vi": "e ấp thẹn thùng"
+  },
+  {
+    "key": "reaction_positive_3",
+    "type": 0,
+    "en": "hopeful ",
+    "vi": "tràn đầy hy vọng"
+  },
+  {
+    "key": "reaction_positive_4",
+    "type": 0,
+    "en": "thankful",
+    "vi": "thầm biết ơn"
+  },
+  {
+    "key": "reaction_positive_5",
+    "type": 0,
+    "en": "appreciative",
+    "vi": "trân trọng đón nhận"
+  },
+  {
+    "key": "reaction_positive_6",
+    "type": 0,
+    "en": "interested",
+    "vi": "hứng thú"
+  },
+  {
+    "key": "reaction_verypositive_1",
+    "type": 0,
+    "en": "enthusiastic ",
+    "vi": "nhiệt huyết"
+  },
+  {
+    "key": "reaction_verypositive_2",
+    "type": 0,
+    "en": "excited",
+    "vi": "phấn khích"
+  },
+  {
+    "key": "reaction_verypositive_3",
+    "type": 0,
+    "en": "amused",
+    "vi": "buồn cười"
+  },
+  {
+    "key": "reaction_verypositive_4",
+    "type": 0,
+    "en": "flirtatious",
+    "vi": "tán tỉnh lả lơi"
+  },
+  {
+    "key": "reaction_verypositive_5",
+    "type": 0,
+    "en": "spellbound",
+    "vi": "mê đắm say mê"
+  },
+  {
+    "key": "hit_action_default_1",
+    "type": 0,
+    "en": "attacked",
+    "vi": "tấn công vào"
+  },
+  {
+    "key": "hit_action_default_2",
+    "type": 0,
+    "en": "came at",
+    "vi": "came tại"
+  },
+  {
+    "key": "hit_action_default_3",
+    "type": 0,
+    "en": "struck",
+    "vi": "giáng đòn vào"
+  },
+  {
+    "key": "hit_action_default_4",
+    "type": 0,
+    "en": "advanced upon",
+    "vi": "tiến công áp sát vào"
+  },
+  {
+    "key": "hit_action_default_5",
+    "type": 0,
+    "en": "assailed",
+    "vi": "công kích dồn dập vào"
+  },
+  {
+    "key": "hit_action_default_6",
+    "type": 0,
+    "en": "assaulted",
+    "vi": "tấn công assaulted"
+  },
+  {
+    "key": "hit_action_default_7",
+    "type": 0,
+    "en": "beset",
+    "vi": "tấn công beset"
+  },
+  {
+    "key": "hit_action_default_8",
+    "type": 0,
+    "en": "lay into",
+    "vi": "tấn công lay into"
+  },
+  {
+    "key": "hit_action_default_9",
+    "type": 0,
+    "en": "set upon",
+    "vi": "tấn công set upon"
+  },
+  {
+    "key": "hit_action_default_10",
+    "type": 0,
+    "en": "surprised",
+    "vi": "tấn công surprised"
+  },
+  {
+    "key": "hit_action_default_11",
+    "type": 0,
+    "en": "ambushed",
+    "vi": "tấn công ambushed"
+  },
+  {
+    "key": "hit_action_default_12",
+    "type": 0,
+    "en": "hemmed in",
+    "vi": "hemmed trong"
+  },
+  {
+    "key": "hit_action_default_13",
+    "type": 0,
+    "en": "rounded upon",
+    "vi": "tấn công rounded upon"
+  },
+  {
+    "key": "hit_action_default_14",
+    "type": 0,
+    "en": "flew at",
+    "vi": "flew tại"
+  },
+  {
+    "key": "hit_action_default_15",
+    "type": 0,
+    "en": "blindsided",
+    "vi": "tấn công blindsided"
+  },
+  {
+    "key": "hit_action_ranged_1",
+    "type": 0,
+    "en": "shot at",
+    "vi": "bắn trúng at"
+  },
+  {
+    "key": "hit_action_ranged_2",
+    "type": 0,
+    "en": "targeted",
+    "vi": "tấn công targeted"
+  },
+  {
+    "key": "hit_action_ranged_3",
+    "type": 0,
+    "en": "unleashed missiles upon",
+    "vi": "tấn công unleashed missiles upon"
+  },
+  {
+    "key": "hit_action_ranged_4",
+    "type": 0,
+    "en": "fired upon",
+    "vi": "tấn công fired upon"
+  },
+  {
+    "key": "hit_action_ranged_5",
+    "type": 0,
+    "en": "shot down",
+    "vi": "bắn trúng down"
+  },
+  {
+    "key": "hit_action_ranged_6",
+    "type": 0,
+    "en": "bombarded",
+    "vi": "tấn công bombarded"
+  },
+  {
+    "key": "hit_action_ranged_7",
+    "type": 0,
+    "en": "launched at",
+    "vi": "launched tại"
+  },
+  {
+    "key": "hit_action_ranged_8",
+    "type": 0,
+    "en": "opened fire on",
+    "vi": "opened fire trên"
+  },
+  {
+    "key": "hit_action_ranged_9",
+    "type": 0,
+    "en": "aimed towards",
+    "vi": "tấn công aimed towards"
+  },
+  {
+    "key": "hit_action_ranged_10",
+    "type": 0,
+    "en": "set [his/her] sights upon",
+    "vi": "tấn công set [his/her] sights upon"
+  },
+  {
+    "key": "hit_action_ranged_11",
+    "type": 0,
+    "en": "loosed towards",
+    "vi": "phóng tên bay vút về phía"
+  },
+  {
+    "key": "hit_action_sharp_1",
+    "type": 0,
+    "en": "pounced upon",
+    "vi": "vồ tới chém mạnh vào"
+  },
+  {
+    "key": "hit_action_sharp_2",
+    "type": 0,
+    "en": "chopped down",
+    "vi": "bổ nhát gươm xuống"
+  },
+  {
+    "key": "hit_action_sharp_3",
+    "type": 0,
+    "en": "sliced",
+    "vi": "rạch một đường sâu vào"
+  },
+  {
+    "key": "hit_action_sharp_4",
+    "type": 0,
+    "en": "hacked",
+    "vi": "chém mạnh vào"
+  },
+  {
+    "key": "hit_action_sharp_5",
+    "type": 0,
+    "en": "hewed",
+    "vi": "bổ rìu xé thịt vào"
+  },
+  {
+    "key": "hit_action_sharp_6",
+    "type": 0,
+    "en": "impaled",
+    "vi": "đâm mũi kiếm xuyên qua"
+  },
+  {
+    "key": "hit_action_sharp_7",
+    "type": 0,
+    "en": "gashed",
+    "vi": "chém toạc một vết vào"
+  },
+  {
+    "key": "hit_action_sharp_8",
+    "type": 0,
+    "en": "slashed",
+    "vi": "chém ngọt vào"
+  },
+  {
+    "key": "hit_action_sharp_9",
+    "type": 0,
+    "en": "jabbed",
+    "vi": "đâm thọc hiểm hóc vào"
+  },
+  {
+    "key": "hit_action_sharp_10",
+    "type": 0,
+    "en": "shanked",
+    "vi": "đâm lén mũi dao vào"
+  },
+  {
+    "key": "hit_action_sharp_11",
+    "type": 0,
+    "en": "tore at",
+    "vi": "cào rách da thịt của"
+  },
+  {
+    "key": "hit_action_pointy_1",
+    "type": 0,
+    "en": "lunged at",
+    "vi": "lao tới đâm thẳng vào"
+  },
+  {
+    "key": "hit_action_pointy_2",
+    "type": 0,
+    "en": "charged into",
+    "vi": "xung phong húc mạnh vào"
+  },
+  {
+    "key": "hit_action_pointy_3",
+    "type": 0,
+    "en": "rushed at",
+    "vi": "lao như bay vào"
+  },
+  {
+    "key": "hit_action_pointy_4",
+    "type": 0,
+    "en": "harried",
+    "vi": "truy kích dồn dập vào"
+  },
+  {
+    "key": "hit_action_pointy_5",
+    "type": 0,
+    "en": "impaled",
+    "vi": "đâm cọc xuyên qua"
+  },
+  {
+    "key": "hit_action_pointy_6",
+    "type": 0,
+    "en": "gashed",
+    "vi": "đâm rách thịt của"
+  },
+  {
+    "key": "hit_action_pointy_7",
+    "type": 0,
+    "en": "gored",
+    "vi": "húc thủng người của"
+  },
+  {
+    "key": "hit_action_pointy_8",
+    "type": 0,
+    "en": "pierced",
+    "vi": "đâm thủng lớp giáp của"
+  },
+  {
+    "key": "hit_action_pointy_9",
+    "type": 0,
+    "en": "spiked",
+    "vi": "đâm mũi nhọn vào"
+  },
+  {
+    "key": "hit_action_pointy_10",
+    "type": 0,
+    "en": "skewered",
+    "vi": "xiên mũi giáo xuyên qua"
+  },
+  {
+    "key": "hit_action_pointy_11",
+    "type": 0,
+    "en": "punctured",
+    "vi": "đâm thủng lỗ chỗ trên"
+  },
+  {
+    "key": "hit_action_blunt_1",
+    "type": 0,
+    "en": "lunged at",
+    "vi": "vung đòn lao vào"
+  },
+  {
+    "key": "hit_action_blunt_2",
+    "type": 0,
+    "en": "bashed",
+    "vi": "nện đòn sấm sét vào"
+  },
+  {
+    "key": "hit_action_blunt_3",
+    "type": 0,
+    "en": "beat",
+    "vi": "đập túi bụi vào"
+  },
+  {
+    "key": "hit_action_blunt_4",
+    "type": 0,
+    "en": "pounced upon",
+    "vi": "vồ lấy quật ngã"
+  },
+  {
+    "key": "hit_action_blunt_5",
+    "type": 0,
+    "en": "clubbed",
+    "vi": "phang chùy vào"
+  },
+  {
+    "key": "hit_action_blunt_6",
+    "type": 0,
+    "en": "pounded",
+    "vi": "nện búa giáng mạnh vào"
+  },
+  {
+    "key": "hit_action_blunt_7",
+    "type": 0,
+    "en": "battered",
+    "vi": "đập tơi bời vào"
+  },
+  {
+    "key": "hit_action_blunt_8",
+    "type": 0,
+    "en": "cannoned into",
+    "vi": "húc như đại bác vào"
+  },
+  {
+    "key": "hit_action_blunt_9",
+    "type": 0,
+    "en": "mangled",
+    "vi": "nghiền nát thân thể của"
+  },
+  {
+    "key": "hit_action_blunt_10",
+    "type": 0,
+    "en": "felled",
+    "vi": "đánh gục ngã hoàn toàn"
+  },
+  {
+    "key": "hit_action_blunt_11",
+    "type": 0,
+    "en": "ravaged",
+    "vi": "tàn phá nghiền nát"
+  },
+  {
+    "key": "beast_hit_action_default_1",
+    "type": 0,
+    "en": "mauled",
+    "vi": "cắn xé hung hãn"
+  },
+  {
+    "key": "beast_hit_action_default_2",
+    "type": 0,
+    "en": "savaged",
+    "vi": "tấn công điên cuồng"
+  },
+  {
+    "key": "beast_hit_action_default_3",
+    "type": 0,
+    "en": "mangled",
+    "vi": "làm tan nát thân thể"
+  },
+  {
+    "key": "beast_hit_action_default_4",
+    "type": 0,
+    "en": "brutalized",
+    "vi": "hành hạ tàn bạo"
+  },
+  {
+    "key": "beast_hit_action_default_5",
+    "type": 0,
+    "en": "chased",
+    "vi": "truy đuổi ráo riết"
+  },
+  {
+    "key": "beast_hit_action_default_6",
+    "type": 0,
+    "en": "harried",
+    "vi": "quấy phá liên tục"
+  },
+  {
+    "key": "beast_hit_action_default_7",
+    "type": 0,
+    "en": "attacked",
+    "vi": "lao vào tấn công"
+  },
+  {
+    "key": "beast_hit_action_clawed_1",
+    "type": 0,
+    "en": "clawed",
+    "vi": "cào rách da thịt"
+  },
+  {
+    "key": "beast_hit_action_clawed_2",
+    "type": 0,
+    "en": "tore at",
+    "vi": "cào toạc da thịt của"
+  },
+  {
+    "key": "beast_hit_action_clawed_3",
+    "type": 0,
+    "en": "ripped into",
+    "vi": "cào rách toạc"
+  },
+  {
+    "key": "beast_hit_action_clawed_4",
+    "type": 0,
+    "en": "slashed at",
+    "vi": "vung vuốt sắc cào vào"
+  },
+  {
+    "key": "beast_hit_action_clawed_5",
+    "type": 0,
+    "en": "scratched",
+    "vi": "cào xước vào"
+  },
+  {
+    "key": "beast_hit_action_clawed_6",
+    "type": 0,
+    "en": "gouged",
+    "vi": "khoét sâu móng vào"
+  },
+  {
+    "key": "beast_hit_action_hoofed_1",
+    "type": 0,
+    "en": "trampled",
+    "vi": "giẫm đạp thô bạo"
+  },
+  {
+    "key": "beast_hit_action_hoofed_2",
+    "type": 0,
+    "en": "bit",
+    "vi": "cắn ngoạm"
+  },
+  {
+    "key": "beast_hit_action_hoofed_3",
+    "type": 0,
+    "en": "stomped on",
+    "vi": "giẫm đạp mạnh lên"
+  },
+  {
+    "key": "beast_hit_action_hoofed_4",
+    "type": 0,
+    "en": "barged into",
+    "vi": "húc văng vào"
+  },
+  {
+    "key": "beast_hit_action_hoofed_5",
+    "type": 0,
+    "en": "squashed",
+    "vi": "đè bẹp dúm"
+  },
+  {
+    "key": "beast_hit_action_hoofed_6",
+    "type": 0,
+    "en": "battered",
+    "vi": "nện chân liên hồi"
+  },
+  {
+    "key": "beast_hit_action_bird_1",
+    "type": 0,
+    "en": "dug its sharp claws into",
+    "vi": "găm những móng vuốt sắc nhọn vào"
+  },
+  {
+    "key": "beast_hit_action_bird_2",
+    "type": 0,
+    "en": "pecked",
+    "vi": "mổ liên tục vào"
+  },
+  {
+    "key": "beast_hit_action_bird_3",
+    "type": 0,
+    "en": "flew at",
+    "vi": "sà cánh lao thẳng vào"
+  },
+  {
+    "key": "beast_hit_action_bird_4",
+    "type": 0,
+    "en": "nipped",
+    "vi": "mổ nhấm rỉa vào"
+  },
+  {
+    "key": "beast_hit_action_bird_5",
+    "type": 0,
+    "en": "gouged",
+    "vi": "mổ khoét sâu vào"
+  },
+  {
+    "key": "beast_hit_action_bird_6",
+    "type": 0,
+    "en": "harassed",
+    "vi": "quấy nhiễu dữ dội"
+  },
+  {
+    "key": "block_description_default_1",
+    "type": 0,
+    "en": "mercifully blocked the blow",
+    "vi": "đỡ được đòn đánh trong gang tấc"
+  },
+  {
+    "key": "block_description_default_2",
+    "type": 0,
+    "en": "absorbed the damage",
+    "vi": "hấp thụ và hóa giải sát thương"
+  },
+  {
+    "key": "block_description_default_3",
+    "type": 0,
+    "en": "repelled the force of the blow",
+    "vi": "hóa giải hoàn toàn lực đánh"
+  },
+  {
+    "key": "block_description_default_4",
+    "type": 0,
+    "en": "gave adequate protection",
+    "vi": "che chắn bảo vệ đầy vững chắc"
+  },
+  {
+    "key": "block_description_default_5",
+    "type": 0,
+    "en": "proved its worth, saving [him/her] from certain death",
+    "vi": "chứng minh giá trị khi cứu mạng [him/her] khỏi cái chết mười mươi"
+  },
+  {
+    "key": "block_description_default_6",
+    "type": 0,
+    "en": "gave life-saving protection",
+    "vi": "đem lại sự che chở cứu sống mạng người"
+  },
+  {
+    "key": "block_description_default_7",
+    "type": 0,
+    "en": "averted the worst of the attack",
+    "vi": "ngăn chặn được phần nguy hiểm nhất của đòn đánh"
+  },
+  {
+    "key": "block_description_default_8",
+    "type": 0,
+    "en": "guarded [him/her] from injury",
+    "vi": "bảo vệ [him/her] an toàn khỏi thương tích"
+  },
+  {
+    "key": "block_description_default_9",
+    "type": 0,
+    "en": "allowed [him/her] to remain unscathed",
+    "vi": "giúp [him/her] hoàn toàn bình an vô sự"
+  },
+  {
+    "key": "block_description_default_10",
+    "type": 0,
+    "en": "proved impregnable, saving [him/her]",
+    "vi": "kiên cố bất khả xâm phạm, cứu mạng [him/her]"
+  },
+  {
+    "key": "block_description_default_11",
+    "type": 0,
+    "en": "miraculously deflected the attack",
+    "vi": "làm chệch hướng đòn đánh một cách thần kỳ"
+  },
+  {
+    "key": "hit_description_fatal_1",
+    "type": 0,
+    "en": "brutally",
+    "vi": "một cách tàn bạo"
+  },
+  {
+    "key": "hit_description_fatal_2",
+    "type": 0,
+    "en": "relentlessly",
+    "vi": "một cách không khoan nhượng"
+  },
+  {
+    "key": "hit_description_fatal_3",
+    "type": 0,
+    "en": "furiously",
+    "vi": "một cách điên cuồng"
+  },
+  {
+    "key": "hit_description_fatal_4",
+    "type": 0,
+    "en": "forcefully",
+    "vi": "một cách đầy uy lực"
+  },
+  {
+    "key": "hit_description_fatal_5",
+    "type": 0,
+    "en": "powerfully",
+    "vi": "một cách dũng mãnh"
+  },
+  {
+    "key": "hit_description_fatal_6",
+    "type": 0,
+    "en": "fiercely",
+    "vi": "một cách dữ dội"
+  },
+  {
+    "key": "hit_description_fatal_7",
+    "type": 0,
+    "en": "ruthlessly",
+    "vi": "một cách tàn nhẫn"
+  },
+  {
+    "key": "hit_description_fatal_8",
+    "type": 0,
+    "en": "ferociously",
+    "vi": "một cách hung tợn"
+  },
+  {
+    "key": "hit_description_fatal_9",
+    "type": 0,
+    "en": "skillfully",
+    "vi": "một cách điêu luyện"
+  },
+  {
+    "key": "hit_description_default_1",
+    "type": 0,
+    "en": "spitefully",
+    "vi": "một cách thù hằn"
+  },
+  {
+    "key": "hit_description_default_2",
+    "type": 0,
+    "en": "deliberately",
+    "vi": "một cách có chủ đích"
+  },
+  {
+    "key": "hit_description_default_3",
+    "type": 0,
+    "en": "purposefully",
+    "vi": "một cách dứt khoát"
+  },
+  {
+    "key": "hit_description_default_4",
+    "type": 0,
+    "en": "methodically",
+    "vi": "một cách bài bản"
+  },
+  {
+    "key": "hit_description_default_5",
+    "type": 0,
+    "en": "enthusiastically",
+    "vi": "một cách nhiệt huyết"
+  },
+  {
+    "key": "hit_description_default_6",
+    "type": 0,
+    "en": "cruelly",
+    "vi": "một cách tàn nhẫn"
+  },
+  {
+    "key": "hit_description_default_7",
+    "type": 0,
+    "en": "competently",
+    "vi": "một cách thành thạo"
+  },
+  {
+    "key": "hit_description_default_8",
+    "type": 0,
+    "en": "adequately",
+    "vi": "một cách chuẩn xác"
+  },
+  {
+    "key": "hit_description_default_9",
+    "type": 0,
+    "en": "admirably",
+    "vi": "một cách đáng khâm phục"
+  },
+  {
+    "key": "with_default_1",
+    "type": 0,
+    "en": "with",
+    "vi": "bằng"
+  },
+  {
+    "key": "with_default_2",
+    "type": 0,
+    "en": "with [his/her]",
+    "vi": "bằng [his/her]"
+  },
+  {
+    "key": "wounding_default_1",
+    "type": 0,
+    "en": "sustained a",
+    "vi": "phải gánh chịu một"
+  },
+  {
+    "key": "wounding_default_2",
+    "type": 0,
+    "en": "received a",
+    "vi": "bị dính một"
+  },
+  {
+    "key": "wounding_default_3",
+    "type": 0,
+    "en": "screamed for help with [his/her]",
+    "vi": "gào thét cầu cứu khi [his/her]"
+  },
+  {
+    "key": "wounding_default_4",
+    "type": 0,
+    "en": "became deranged over [his/her]",
+    "vi": "trở nên điên loạn vì [his/her]"
+  },
+  {
+    "key": "wounding_default_5",
+    "type": 0,
+    "en": "remained calm, despite [his/her]",
+    "vi": "vẫn giữ bình tĩnh dù [his/her]"
+  },
+  {
+    "key": "wounding_default_6",
+    "type": 0,
+    "en": "was alarmed by [his/her]",
+    "vi": "vô cùng hoảng hốt trước [his/her]"
+  },
+  {
+    "key": "wounding_default_7",
+    "type": 0,
+    "en": "immediately felt [his/her]",
+    "vi": "lập tức cảm thấy [his/her]"
+  },
+  {
+    "key": "wounding_default_8",
+    "type": 0,
+    "en": "sobbed uncontrollably, knowing [he/she] had a",
+    "vi": "khóc nức nở khi biết [he/she] bị dính một"
+  },
+  {
+    "key": "wounding_default_9",
+    "type": 0,
+    "en": "ended up with a",
+    "vi": "kết cục phải chịu một"
+  },
+  {
+    "key": "wounding_default_10",
+    "type": 0,
+    "en": "realised [he/she] had a",
+    "vi": "kinh hoàng nhận ra [he/she] bị dính một"
+  },
+  {
+    "key": "wounding_default_11",
+    "type": 0,
+    "en": "barely understood [he/she] had a",
+    "vi": "chưa kịp định thần thì [he/she] đã bị dính một"
+  },
+  {
+    "key": "wounding_default_12",
+    "type": 0,
+    "en": "suffered a",
+    "vi": "bị một vết thương"
+  },
+  {
+    "key": "wounding_default_13",
+    "type": 0,
+    "en": "felt the searing pain of a",
+    "vi": "cảm nhận nỗi đau rát bỏng của một"
+  }
+]

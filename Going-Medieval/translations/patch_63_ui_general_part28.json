@@ -1,0 +1,902 @@
+[
+  {
+    "key": "mountain_bandits_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "Không center"
+  },
+  {
+    "key": "river_bandits_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "Không center"
+  },
+  {
+    "key": "looters_center",
+    "type": 0,
+    "en": "No center",
+    "vi": "Không center"
+  },
+  {
+    "key": "non_partisan_nomads",
+    "type": 0,
+    "en": "No center",
+    "vi": "Không center"
+  },
+  {
+    "key": "mod_id",
+    "type": 0,
+    "en": "Mod Id",
+    "vi": "ID mod"
+  },
+  {
+    "key": "mod_author",
+    "type": 0,
+    "en": "Author",
+    "vi": "Tác giả"
+  },
+  {
+    "key": "mod_game_version",
+    "type": 0,
+    "en": "Game Version",
+    "vi": "Phiên bản game"
+  },
+  {
+    "key": "mod_tags",
+    "type": 0,
+    "en": "Tags",
+    "vi": "Thẻ"
+  },
+  {
+    "key": "get_mods",
+    "type": 0,
+    "en": "Get Mods",
+    "vi": "Tìm mod"
+  },
+  {
+    "key": "get_more",
+    "type": 0,
+    "en": "Get More",
+    "vi": "Get Nhiều hơn"
+  },
+  {
+    "key": "general_upload",
+    "type": 0,
+    "en": "Upload",
+    "vi": "Tải lên"
+  },
+  {
+    "key": "create_new",
+    "type": 0,
+    "en": "Create New",
+    "vi": "Create Mới"
+  },
+  {
+    "key": "mod_delete",
+    "type": 0,
+    "en": "Delete/Unsubscribe",
+    "vi": "Xóa/Unsubscribe"
+  },
+  {
+    "key": "mod_delete_info",
+    "type": 0,
+    "en": "Unsubscribe From this mod and delete if locally from your computer",
+    "vi": "Hủy đăng ký mod này và xóa hoàn toàn khỏi máy tính của bạn"
+  },
+  {
+    "key": "mod_edit",
+    "type": 0,
+    "en": "Edit",
+    "vi": "Chỉnh sửa"
+  },
+  {
+    "key": "mod_edit_info",
+    "type": 0,
+    "en": "As you are the author of this mod you can edit it",
+    "vi": "Vì bạn là tác giả của mod này, bạn có thể chỉnh sửa nội dung"
+  },
+  {
+    "key": "mod_open_local_directory",
+    "type": 0,
+    "en": "Open Folder",
+    "vi": "Mở Folder"
+  },
+  {
+    "key": "mod_open_local_directory_info",
+    "type": 0,
+    "en": "Open the local folder where the mod is stored on your computer",
+    "vi": "Mở thư mục cục bộ lưu trữ mod trên máy tính của bạn"
+  },
+  {
+    "key": "workshop_update",
+    "type": 0,
+    "en": "Update",
+    "vi": "Cập nhật"
+  },
+  {
+    "key": "workshop_update_info",
+    "type": 0,
+    "en": "As you are the author of this mod you can change it and upload the updated version",
+    "vi": "Vì bạn là tác giả của mod này, bạn có thể chỉnh sửa và tải phiên bản cập nhật lên."
+  },
+  {
+    "key": "workshop_upload",
+    "type": 0,
+    "en": "Upload",
+    "vi": "Tải lên"
+  },
+  {
+    "key": "workshop_upload_info",
+    "type": 0,
+    "en": "This mod only exists local on your machine. Upload it to steam workshop to share it with others ",
+    "vi": "Công trình này mod only exists local trên your machine. Upload it để steam workshop để share it với others "
+  },
+  {
+    "key": "workshop_open",
+    "type": 0,
+    "en": "Steam Workshop",
+    "vi": "Steam Workshop"
+  },
+  {
+    "key": "workshop_open_info",
+    "type": 0,
+    "en": "Open the Steam Workshop page of this mod",
+    "vi": "Mở Steam Workshop page của this mod"
+  },
+  {
+    "key": "steam_workshop_upload_prompt",
+    "type": 0,
+    "en": "This action will upload this item to the Steam Workshop, do you want to proceed?",
+    "vi": "Này action sẽ upload này item đến Steam Workshop, do bạn want đến proceed?"
+  },
+  {
+    "key": "create_new_mod_loc_template",
+    "type": 0,
+    "en": "This action will create English version of localization ready for modding on your hard drive. Do you wish to proceed?",
+    "vi": "Này action sẽ create English version của localization ready cho modding trên của bạn hard drive. Do bạn wish đến proceed?"
+  },
+  {
+    "key": "create_new_mod_template",
+    "type": 0,
+    "en": "This action will create empty mod template on your hard drive. Do you wish to proceed?",
+    "vi": "Này action sẽ create empty mod template trên của bạn hard drive. Do bạn wish đến proceed?"
+  },
+  {
+    "key": "delete_remote_mod_prompt",
+    "type": 0,
+    "en": "Are you sure you want to unsubscribe from this mod. doing so will delete it locally as well ",
+    "vi": "Bạn có chắc chắn muốn hủy đăng ký mod này? Thao tác này cũng sẽ xóa mod khỏi máy tính của bạn."
+  },
+  {
+    "key": "delete_local_mod_prompt",
+    "type": 0,
+    "en": "Are you sure you want to delete this mod from your computer?",
+    "vi": "Bạn có chắc chắn muốn xóa vĩnh viễn mod này khỏi máy tính?"
+  },
+  {
+    "key": "mod_version",
+    "type": 0,
+    "en": "Mod Version",
+    "vi": "Phiên bản mod"
+  },
+  {
+    "key": "new_mod_created",
+    "type": 0,
+    "en": "New mod template created at <path>",
+    "vi": "Mới mod template created tại <path>"
+  },
+  {
+    "key": "general_show",
+    "type": 0,
+    "en": "Show",
+    "vi": "Hiện"
+  },
+  {
+    "key": "eula_accept_prompt",
+    "type": 0,
+    "en": "To use or create mods, please confirm you have read and accept the game's <link=\"web_eula_link\"><style=LinkWorker>Terms of Use</style></link> ",
+    "vi": "Để sử dụng hoặc tạo mod, vui lòng xác nhận bạn đã đọc và chấp nhận <link=\"web_eula_link\"><style=LinkWorker>Điều khoản Sử dụng</style></link> của trò chơi."
+  },
+  {
+    "key": "general_do _not_accept",
+    "type": 0,
+    "en": "Do Not Accept",
+    "vi": "Do Not Chấp nhận"
+  },
+  {
+    "key": "error_create_directory",
+    "type": 0,
+    "en": "Could not create new directory. Please check do you have necessary rights to write to Documents directory. ",
+    "vi": "Could không create mới directory. Please check do bạn có necessary rights đến write đến Documents directory. "
+  },
+  {
+    "key": "and_more",
+    "type": 0,
+    "en": "And more...",
+    "vi": "Và nhiều hơn..."
+  },
+  {
+    "key": "dev_activateAllResearch_off",
+    "type": 0,
+    "en": "Activate all research",
+    "vi": "Kích hoạt toàn bộ nghiên cứu"
+  },
+  {
+    "key": "dev_activateAllResearch_on",
+    "type": 0,
+    "en": "Revert activated research",
+    "vi": "Hoàn tác kích hoạt nghiên cứu"
+  },
+  {
+    "key": "dev_autoprod_worker_off",
+    "type": 0,
+    "en": "Instant Production: Off",
+    "vi": "Sản xuất tức thì: Tắt"
+  },
+  {
+    "key": "dev_autoprod_worker_on",
+    "type": 0,
+    "en": "Instant Production : On",
+    "vi": "Sản xuất tức thì: Bật"
+  },
+  {
+    "key": "dev_damage_voxel",
+    "type": 0,
+    "en": "Damage Voxel",
+    "vi": "Gây sát thương khối Voxel"
+  },
+  {
+    "key": "dev_destroy_pile",
+    "type": 0,
+    "en": "Destroy Pile on Point",
+    "vi": "Phá hủy đống tài nguyên tại điểm"
+  },
+  {
+    "key": "dev_dev",
+    "type": 0,
+    "en": "Dev",
+    "vi": "Gỡ lỗi"
+  },
+  {
+    "key": "dev_draw_effect_map",
+    "type": 0,
+    "en": "Draw Effect Map",
+    "vi": "Vẽ bản đồ hiệu ứng"
+  },
+  {
+    "key": "dev_draw_map_mask",
+    "type": 0,
+    "en": "Draw Map Mask",
+    "vi": "Vẽ mặt nạ bản đồ"
+  },
+  {
+    "key": "dev_general_actions",
+    "type": 0,
+    "en": "General",
+    "vi": "Chung"
+  },
+  {
+    "key": "dev_instant_dig_off",
+    "type": 0,
+    "en": "Instant Dig: Off",
+    "vi": "Đào tức thì: Tắt"
+  },
+  {
+    "key": "dev_instant_dig_on",
+    "type": 0,
+    "en": "Instant Dig: On",
+    "vi": "Đào tức thì: Bật"
+  },
+  {
+    "key": "dev_map",
+    "type": 0,
+    "en": "Map",
+    "vi": "Bản đồ"
+  },
+  {
+    "key": "dev_mark_workers_for_attack",
+    "type": 0,
+    "en": "Attack Settlers",
+    "vi": "Tấn công dân làng"
+  },
+  {
+    "key": "dev_production_speed_max",
+    "type": 0,
+    "en": "Production Speed: Max",
+    "vi": "Tốc độ sản xuất: Tối đa"
+  },
+  {
+    "key": "dev_production_speed_normal",
+    "type": 0,
+    "en": "Production Speed: Normal",
+    "vi": "Tốc độ sản xuất: Bình thường"
+  },
+  {
+    "key": "dev_remove_all_attack_marks",
+    "type": 0,
+    "en": "Remove Targets",
+    "vi": "Xóa mục tiêu tấn công"
+  },
+  {
+    "key": "dev_remove_worker",
+    "type": 0,
+    "en": "Remove Settler",
+    "vi": "Xóa dân làng"
+  },
+  {
+    "key": "dev_reset_workers",
+    "type": 0,
+    "en": "Reset Settlers",
+    "vi": "Đặt lại dân làng"
+  },
+  {
+    "key": "dev_set_worker_hunger_1",
+    "type": 0,
+    "en": "Creature Hunger: Starving",
+    "vi": "Mức đói sinh vật: Đói lả"
+  },
+  {
+    "key": "dev_set_worker_hunger_100",
+    "type": 0,
+    "en": "Creature Hunger: Full",
+    "vi": "Mức đói sinh vật: No nê"
+  },
+  {
+    "key": "dev_set_worker_hunger_50",
+    "type": 0,
+    "en": "Creature Hunger: Hungry",
+    "vi": "Mức đói sinh vật: Đói"
+  },
+  {
+    "key": "dev_set_worker_sleep",
+    "type": 0,
+    "en": "Set Creature Sleep",
+    "vi": "Đặt giấc ngủ sinh vật"
+  },
+  {
+    "key": "dev_set_worker_sleep_1",
+    "type": 0,
+    "en": "Creature Sleep: Exhausted",
+    "vi": "Giấc ngủ sinh vật: Kiệt sức"
+  },
+  {
+    "key": "dev_set_worker_sleep_100",
+    "type": 0,
+    "en": "Creature Sleep: Well Rested",
+    "vi": "Giấc ngủ sinh vật: Nghỉ ngơi tốt"
+  },
+  {
+    "key": "dev_set_worker_sleep_50",
+    "type": 0,
+    "en": "Creature Sleep: Tired",
+    "vi": "Giấc ngủ sinh vật: Mệt mỏi"
+  },
+  {
+    "key": "dev_spawn_enemy",
+    "type": 0,
+    "en": "Spawn 1x enemy",
+    "vi": "Tạo 1x kẻ thù"
+  },
+  {
+    "key": "dev_spawn_worker_1",
+    "type": 0,
+    "en": "Spawn Settler",
+    "vi": "Tạo 1 dân làng"
+  },
+  {
+    "key": "dev_spawn_worker_10",
+    "type": 0,
+    "en": "Spawn 10 Settlers",
+    "vi": "Tạo 10 dân làng"
+  },
+  {
+    "key": "dev_start_planer",
+    "type": 0,
+    "en": "Start Planer",
+    "vi": "Bắt đầu bào phẳng"
+  },
+  {
+    "key": "dev_toggle_positionining_box",
+    "type": 0,
+    "en": "Toggle position box",
+    "vi": "Bật/Tắt hộp định vị"
+  },
+  {
+    "key": "dev_voxel_info",
+    "type": 0,
+    "en": "Show Voxel Info",
+    "vi": "Hiện thông tin Voxel"
+  },
+  {
+    "key": "dev_weather_view",
+    "type": 0,
+    "en": "Show weather info",
+    "vi": "Hiện thông tin thời tiết"
+  },
+  {
+    "key": "unique_id",
+    "type": 0,
+    "en": "Unique ID",
+    "vi": "Mã định danh duy nhất"
+  },
+  {
+    "key": "map_size_dev_100",
+    "type": 0,
+    "en": "dev 100",
+    "vi": "dev 100"
+  },
+  {
+    "key": "map_size_dev_512",
+    "type": 0,
+    "en": "dev 512",
+    "vi": "dev 512"
+  },
+  {
+    "key": "dev_delete_all",
+    "type": 0,
+    "en": "Delete All Saves",
+    "vi": "Xóa toàn bộ bản lưu"
+  },
+  {
+    "key": "dev_workers",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Dân làng"
+  },
+  {
+    "key": "dev_toggle_altCamera_on",
+    "type": 0,
+    "en": "Alternative Camera: On",
+    "vi": "Góc nhìn phụ: Bật"
+  },
+  {
+    "key": "dev_toggle_altCamera_off",
+    "type": 0,
+    "en": "Alternative Camera: Off",
+    "vi": "Góc nhìn phụ: Tắt"
+  },
+  {
+    "key": "dev_toggle_ui_on",
+    "type": 0,
+    "en": "UI: Off",
+    "vi": "Giao diện UI: Tắt"
+  },
+  {
+    "key": "dev_toggle_ui_off",
+    "type": 0,
+    "en": "UI: On",
+    "vi": "Giao diện UI: Bật"
+  },
+  {
+    "key": "dev_event_interaction_chance_always",
+    "type": 0,
+    "en": "Event Int. chance: 100%",
+    "vi": "Tỉ lệ tương tác sự kiện: 100%"
+  },
+  {
+    "key": "dev_event_interaction_chance_default",
+    "type": 0,
+    "en": "Reset Event Int. chance",
+    "vi": "Đặt lại tỉ lệ tương tác sự kiện"
+  },
+  {
+    "key": "dev_spawn_fish",
+    "type": 0,
+    "en": "Spawn Fish on Point",
+    "vi": "Tạo cá tại điểm"
+  },
+  {
+    "key": "dev_try_fish_spawn",
+    "type": 0,
+    "en": "Spawn a new Fish",
+    "vi": "Tạo thêm cá mới"
+  },
+  {
+    "key": "dev_spawn_item",
+    "type": 0,
+    "en": "Spawn Item on Point",
+    "vi": "Tạo vật phẩm tại điểm"
+  },
+  {
+    "key": "dev_force_exception",
+    "type": 0,
+    "en": "Force an Exception",
+    "vi": "Buộc phát sinh lỗi"
+  },
+  {
+    "key": "dev_kill_all_piles",
+    "type": 0,
+    "en": "Destroy all Piles",
+    "vi": "Phá hủy toàn bộ đống tài nguyên"
+  },
+  {
+    "key": "dev_recount_piles",
+    "type": 0,
+    "en": "Recount Piles",
+    "vi": "Đếm lại các đống tài nguyên"
+  },
+  {
+    "key": "dev_recount_haul_piles",
+    "type": 0,
+    "en": "Recount Haul Piles",
+    "vi": "Đếm lại đống cần vận chuyển"
+  },
+  {
+    "key": "dev_crop_harvest",
+    "type": 0,
+    "en": "Force Crop Harvest Phase",
+    "vi": "Buộc cây trồng vào vụ thu hoạch"
+  },
+  {
+    "key": "dev_marketing_mode",
+    "type": 0,
+    "en": "Marketing Mode",
+    "vi": "Chế độ quảng bá"
+  },
+  {
+    "key": "dev_spawn_blank_npc",
+    "type": 0,
+    "en": "Spawn Blank NPC",
+    "vi": "Tạo NPC trống"
+  },
+  {
+    "key": "dev_set_npc_behaviour",
+    "type": 0,
+    "en": "Set NPC Behaviour",
+    "vi": "Thiết lập hành vi NPC"
+  },
+  {
+    "key": "dev_wound_worker",
+    "type": 0,
+    "en": "Wound Settler",
+    "vi": "Gây thương tích cho dân làng"
+  },
+  {
+    "key": "dev_set_health_100",
+    "type": 0,
+    "en": "Health = 100",
+    "vi": "Máu = 100"
+  },
+  {
+    "key": "dev_set_health_1",
+    "type": 0,
+    "en": "Health = 1",
+    "vi": "Máu = 1"
+  },
+  {
+    "key": "dev_set_health_0",
+    "type": 0,
+    "en": "Health = 0",
+    "vi": "Máu = 0"
+  },
+  {
+    "key": "dev_set_freshness_100",
+    "type": 0,
+    "en": "Freshness = 100",
+    "vi": "Độ tươi = 100"
+  },
+  {
+    "key": "dev_set_freshness_1",
+    "type": 0,
+    "en": "Freshness = 1",
+    "vi": "Độ tươi = 1"
+  },
+  {
+    "key": "dev_set_freshness_0",
+    "type": 0,
+    "en": "Freshness = 0",
+    "vi": "Độ tươi = 0"
+  },
+  {
+    "key": "dev_set_worker_hunger_minus_100",
+    "type": 0,
+    "en": "Settler Hunger: Ravenous",
+    "vi": "Mức đói dân làng: Cồn cào"
+  },
+  {
+    "key": "dev_set_worker_stats",
+    "type": 0,
+    "en": "Set Settler Stats",
+    "vi": "Đặt chỉ số dân làng"
+  },
+  {
+    "key": "dev_faint_worker",
+    "type": 0,
+    "en": "Faint Settler",
+    "vi": "Làm dân làng bất tỉnh"
+  },
+  {
+    "key": "dev_unfaint_worker",
+    "type": 0,
+    "en": "Unfaint Settler",
+    "vi": "Tỉnh táo dân làng"
+  },
+  {
+    "key": "dev_kill_all_enemies",
+    "type": 0,
+    "en": "Kill All Enemies",
+    "vi": "Tiêu diệt toàn bộ kẻ thù"
+  },
+  {
+    "key": "dev_spawn_trebuchet",
+    "type": 0,
+    "en": "Spawn Trebuchet on Point",
+    "vi": "Tạo máy bắn đá tại điểm"
+  },
+  {
+    "key": "dev_kill_all_fish",
+    "type": 0,
+    "en": "Kill All Fish",
+    "vi": "Tiêu diệt toàn bộ cá"
+  },
+  {
+    "key": "dev_deal_damage",
+    "type": 0,
+    "en": "Deal 15 Damage on Point",
+    "vi": "Gây 15 sát thương tại điểm"
+  },
+  {
+    "key": "dev_ladder_falldown",
+    "type": 0,
+    "en": "Push Settler off Ladder",
+    "vi": "Đẩy dân làng ngã khỏi thang"
+  },
+  {
+    "key": "dev_events",
+    "type": 0,
+    "en": "Events",
+    "vi": "Sự kiện"
+  },
+  {
+    "key": "dev_spawn_event",
+    "type": 0,
+    "en": "Trigger Event",
+    "vi": "Kích hoạt sự kiện"
+  },
+  {
+    "key": "dev_schedule_event_group",
+    "type": 0,
+    "en": "Schedule Event from Group",
+    "vi": "Lên lịch sự kiện từ nhóm"
+  },
+  {
+    "key": "dev_weather_time",
+    "type": 0,
+    "en": "Weather and Time",
+    "vi": "Thời tiết và Thời gian"
+  },
+  {
+    "key": "dev_water_debug",
+    "type": 0,
+    "en": "Toggle Water Debug UI",
+    "vi": "Bật/Tắt UI gỡ lỗi nước"
+  },
+  {
+    "key": "dev_mining_speed_reset",
+    "type": 0,
+    "en": "Reset Mining Speed",
+    "vi": "Đặt lại tốc độ đào mỏ"
+  },
+  {
+    "key": "dev_mining_speed_10",
+    "type": 0,
+    "en": "Mining Speed: ×10",
+    "vi": "Tốc độ đào mỏ: ×10"
+  },
+  {
+    "key": "dev_crop_next_phase",
+    "type": 0,
+    "en": "Force Crop Next Phase on Point",
+    "vi": "Đẩy nhanh giai đoạn cây trồng tại điểm"
+  },
+  {
+    "key": "dev_set_low_fuel",
+    "type": 0,
+    "en": "Set Low Fuel on Point",
+    "vi": "Đặt mức nhiên liệu thấp tại điểm"
+  },
+  {
+    "key": "dev_toggle_player_voxel_info",
+    "type": 0,
+    "en": "Toggle Player Voxel Info",
+    "vi": "Bật/Tắt thông tin khối Voxel người chơi"
+  },
+  {
+    "key": "dev_thunder",
+    "type": 0,
+    "en": "Thunderstrike on Point",
+    "vi": "Tia sét đánh tại điểm"
+  },
+  {
+    "key": "dev_toggle_regions",
+    "type": 0,
+    "en": "Toggle Regions",
+    "vi": "Bật/Tắt hiển thị khu vực"
+  },
+  {
+    "key": "dev_toggle_air_nodes",
+    "type": 0,
+    "en": "Toggle Air Grid Nodes",
+    "vi": "Bật/Tắt nút lưới không gian"
+  },
+  {
+    "key": "dev_toggle_ground_nodes",
+    "type": 0,
+    "en": "Toggle Ground Grid Nodes",
+    "vi": "Bật/Tắt nút lưới mặt đất"
+  },
+  {
+    "key": "dev_toggle_pathing_lines",
+    "type": 0,
+    "en": "Toggle Pathing Lines",
+    "vi": "Bật/Tắt đường dẫn đường đi"
+  },
+  {
+    "key": "dev_pathfining",
+    "type": 0,
+    "en": "Pathfinding",
+    "vi": "Tìm đường đi"
+  },
+  {
+    "key": "dev_refresh_nodes",
+    "type": 0,
+    "en": "Refresh All Nodes",
+    "vi": "Làm mới toàn bộ nút"
+  },
+  {
+    "key": "dev_update_node_visualizer",
+    "type": 0,
+    "en": "Update Node Visualizer",
+    "vi": "Cập nhật hiển thị trực quan nút"
+  },
+  {
+    "key": "dev_visual_debug",
+    "type": 0,
+    "en": "Visual Debug",
+    "vi": "Hiển thị gỡ lỗi"
+  },
+  {
+    "key": "dev_toggle_all_debug",
+    "type": 0,
+    "en": "Toggle All",
+    "vi": "Bật/Tắt tất cả"
+  },
+  {
+    "key": "dev_toggle_recheability_debug",
+    "type": 0,
+    "en": "Toggle Reachability",
+    "vi": "Bật/Tắt khả năng tiếp cận"
+  },
+  {
+    "key": "dev_toggle_proximity_debug",
+    "type": 0,
+    "en": "Toggle Proximity",
+    "vi": "Bật/Tắt phạm vi lân cận"
+  },
+  {
+    "key": "dev_toggle_relocate_debug",
+    "type": 0,
+    "en": "Toggle Relocate Pile",
+    "vi": "Bật/Tắt di dời đống tài nguyên"
+  },
+  {
+    "key": "dev_effects",
+    "type": 0,
+    "en": "Effects",
+    "vi": "Hiệu ứng"
+  },
+  {
+    "key": "dev_spawn_particle_system",
+    "type": 0,
+    "en": "Spawn Particle System",
+    "vi": "Tạo hệ thống hạt (Particle)"
+  },
+  {
+    "key": "dev_trading",
+    "type": 0,
+    "en": "Trading",
+    "vi": "Giao thương"
+  },
+  {
+    "key": "dev_spawn_trader",
+    "type": 0,
+    "en": "Spawn Trader",
+    "vi": "Tạo thương nhân"
+  },
+  {
+    "key": "dev_spawn_trader_with_bodyguards",
+    "type": 0,
+    "en": "Spawn Trader with Bodyguards",
+    "vi": "Tạo thương nhân kèm vệ sĩ"
+  },
+  {
+    "key": "dev_mark_for_roping",
+    "type": 0,
+    "en": "Mark for Roping",
+    "vi": "Đánh dấu buộc dây kéo"
+  },
+  {
+    "key": "dev_domestic",
+    "type": 0,
+    "en": "Set Domestic",
+    "vi": "Đặt thành vật nuôi"
+  },
+  {
+    "key": "dev_pet",
+    "type": 0,
+    "en": "Set Pet",
+    "vi": "Đặt thành thú cưng"
+  },
+  {
+    "key": "dev_wild",
+    "type": 0,
+    "en": "Set Wild",
+    "vi": "Đặt thành hoang dã"
+  },
+  {
+    "key": "dev_wild_aggressive",
+    "type": 0,
+    "en": "Set Wild Agressive",
+    "vi": "Đặt thành hung dữ hoang dã"
+  },
+  {
+    "key": "dev_pregnant",
+    "type": 0,
+    "en": "Set Pregnant Animal",
+    "vi": "Đặt con thú mang thai"
+  },
+  {
+    "key": "dev_birth",
+    "type": 0,
+    "en": "Give Birth",
+    "vi": "Cho sinh nở"
+  },
+  {
+    "key": "dev_structure_preset_panel",
+    "type": 0,
+    "en": "Structure Preset Panel",
+    "vi": "Bảng mẫu công trình dựng sẵn"
+  },
+  {
+    "key": "dev_toggle_structure_preset_panel",
+    "type": 0,
+    "en": "Toggle Panel",
+    "vi": "Bật/Tắt bảng mẫu"
+  },
+  {
+    "key": "dev_traps",
+    "type": 0,
+    "en": "Traps",
+    "vi": "Bẫy"
+  },
+  {
+    "key": "dev_trigger_trap",
+    "type": 0,
+    "en": "Trigger Trap on Point",
+    "vi": "Kích hoạt bẫy tại điểm"
+  },
+  {
+    "key": "dev_reset_trap",
+    "type": 0,
+    "en": "Reset Trap",
+    "vi": "Đặt lại bẫy"
+  },
+  {
+    "key": "dev_tooltip_spawn_fish",
+    "type": 0,
+    "en": "Spawns Fish on Mouse Click",
+    "vi": "Tạo cá tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_try_fish_spawn",
+    "type": 0,
+    "en": "Spawns another Fish somewhere on the map if possible.",
+    "vi": "Tạo một con cá khác ở vị trí thích hợp trên bản đồ nếu có thể."
+  },
+  {
+    "key": "dev_tooltip_spawn_item",
+    "type": 0,
+    "en": "Spawns item on mouse click",
+    "vi": "Tạo vật phẩm tại vị trí nhấp chuột"
+  }
+]

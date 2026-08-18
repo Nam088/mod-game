@@ -1,0 +1,902 @@
+[
+  {
+    "key": "dev_tooltip_activate_all_research",
+    "type": 0,
+    "en": "Toggles unlocking of all research",
+    "vi": "Bật/Tắt mở khóa toàn bộ nghiên cứu"
+  },
+  {
+    "key": "dev_tooltip_production_speed_normal",
+    "type": 0,
+    "en": "Sets Procution Speed multiplier to 1.",
+    "vi": "Đặt hệ số tốc độ sản xuất về 1."
+  },
+  {
+    "key": "dev_tooltip_production_speed_max",
+    "type": 0,
+    "en": "Sets Production Speed Multiplier to 50.",
+    "vi": "Đặt hệ số tốc độ sản xuất lên 50."
+  },
+  {
+    "key": "dev_tooltip_force_exception",
+    "type": 0,
+    "en": "Forces an exception.",
+    "vi": "Buộc phát sinh lỗi ngoại lệ."
+  },
+  {
+    "key": "dev_tooltip_destroy_pile",
+    "type": 0,
+    "en": "Destroys pile on mouse click",
+    "vi": "Hủy đống tài nguyên tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_kill_piles",
+    "type": 0,
+    "en": "Destroys all piles on the map.",
+    "vi": "Phá hủy toàn bộ các đống tài nguyên trên bản đồ."
+  },
+  {
+    "key": "dev_tooltip_toggle_ui",
+    "type": 0,
+    "en": "Toggles the ingame UI on and off",
+    "vi": "Bật và tắt giao diện trò chơi"
+  },
+  {
+    "key": "dev_tooltip_toggle_alt_camera",
+    "type": 0,
+    "en": "Changes the camera mode from standard to isometric.",
+    "vi": "Chuyển đổi chế độ camera từ tiêu chuẩn sang góc nhìn đẳng cự (isometric)."
+  },
+  {
+    "key": "dev_tooltip_recount_piles",
+    "type": 0,
+    "en": "Recounts all piles on the map.",
+    "vi": "Đếm lại tất cả các đống tài nguyên trên bản đồ."
+  },
+  {
+    "key": "dev_tooltip_recount_haul_piles",
+    "type": 0,
+    "en": "Recounts all haul piles on the map.",
+    "vi": "Đếm lại tất cả các đống tài nguyên cần vận chuyển trên bản đồ."
+  },
+  {
+    "key": "dev_tooltip_force_crop_harvest_phase",
+    "type": 0,
+    "en": "Forces crops to harvest phase after planting.",
+    "vi": "Buộc cây trồng chuyển ngay sang giai đoạn thu hoạch sau khi gieo hạt."
+  },
+  {
+    "key": "dev_tooltip_marketing_mode",
+    "type": 0,
+    "en": "Turns on Marketing Mode",
+    "vi": "Bật chế độ quảng bá (Marketing Mode)"
+  },
+  {
+    "key": "dev_tooltip_set_interaction_event_chance_always",
+    "type": 0,
+    "en": "Sets Interaction Event chance to 100%.",
+    "vi": "Đặt tỉ lệ xảy ra sự kiện tương tác thành 100%."
+  },
+  {
+    "key": "dev_tooltip_set_interaction_event_chance_default",
+    "type": 0,
+    "en": "Resets Interaction Event chance to default.",
+    "vi": "Đặt lại tỉ lệ xảy ra sự kiện tương tác về mặc định."
+  },
+  {
+    "key": "dev_tooltip_spawn_worker_1",
+    "type": 0,
+    "en": "Spawns 1 Settler on mouse click.",
+    "vi": "Tạo 1 dân làng tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_spawn_worker_10",
+    "type": 0,
+    "en": "Spawns 10 Settlers on mouse click.",
+    "vi": "Tạo 10 dân làng tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_remove_worker",
+    "type": 0,
+    "en": "Click on a Settler to kill them.",
+    "vi": "Nhấp vào dân làng để tiêu diệt họ."
+  },
+  {
+    "key": "dev_tooltip_wound_worker",
+    "type": 0,
+    "en": "Click on a Settler to Wound them",
+    "vi": "Nhấp vào dân làng để gây thương tích cho họ"
+  },
+  {
+    "key": "dev_tooltip_set_health_100",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 100.",
+    "vi": "Đặt mức máu của sinh vật, thực vật hoặc tài nguyên thành 100."
+  },
+  {
+    "key": "dev_tooltip_set_health_1",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 1.",
+    "vi": "Đặt mức máu của sinh vật, thực vật hoặc tài nguyên thành 1."
+  },
+  {
+    "key": "dev_tooltip_set_health_0",
+    "type": 0,
+    "en": "Sets health level of creatures, plants or resources to 0.",
+    "vi": "Đặt mức máu của sinh vật, thực vật hoặc tài nguyên thành 0."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_100",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 100.",
+    "vi": "Đặt độ tươi ngon của đống tài nguyên thành 100."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_1",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 1.",
+    "vi": "Đặt độ tươi ngon của đống tài nguyên thành 1."
+  },
+  {
+    "key": "dev_tooltip_set_freshness_0",
+    "type": 0,
+    "en": "Sets freshness of hauled piles and piles on the ground to 0.",
+    "vi": "Đặt độ tươi ngon của đống tài nguyên thành 0."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_100",
+    "type": 0,
+    "en": "Set's creature's hunger to Full.",
+    "vi": "Đặt mức đói của sinh vật thành No Nê."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_50",
+    "type": 0,
+    "en": "Set's creature's hunger to Hungy.",
+    "vi": "Đặt mức đói của sinh vật thành Đói."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_1",
+    "type": 0,
+    "en": "Set's creature's hunger to Starving.",
+    "vi": "Đặt mức đói của sinh vật thành Đói Lả."
+  },
+  {
+    "key": "dev_tooltip_set_hunger_-100",
+    "type": 0,
+    "en": "Set's creature's hunger to Ravenous.",
+    "vi": "Đặt mức đói của sinh vật thành Đói Cồn Cào."
+  },
+  {
+    "key": "dev_tooltip_set_worker_stats",
+    "type": 0,
+    "en": "Change Settler stats by clicking on them.",
+    "vi": "Thay đổi chỉ số của dân làng bằng cách nhấp vào họ."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_100",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 100, if it has the stat.",
+    "vi": "Đặt chỉ số Ngủ của sinh vật thành 100."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_50",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 50, if it has the stat.",
+    "vi": "Đặt chỉ số Ngủ của sinh vật thành 50."
+  },
+  {
+    "key": "dev_tooltip_set_worker_sleep_1",
+    "type": 0,
+    "en": "Sets creature's Sleep stat to 1, if it has the stat.",
+    "vi": "Đặt chỉ số Ngủ của sinh vật thành 1."
+  },
+  {
+    "key": "dev_tooltip_faint_worker",
+    "type": 0,
+    "en": "Faints a Settler on mouse click",
+    "vi": "Làm dân làng bất tỉnh tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_unfaint_worker",
+    "type": 0,
+    "en": "Wakes up Settler from loss of consciousness on mouse click.",
+    "vi": "Đánh thức dân làng khỏi trạng thái bất tỉnh tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_reset_workers",
+    "type": 0,
+    "en": "Resets the state of all Settlers (DOES NOTHING)",
+    "vi": "Đặt lại trạng thái của tất cả dân làng"
+  },
+  {
+    "key": "dev_tooltip_hunt_workers",
+    "type": 0,
+    "en": "DOES NOTHING",
+    "vi": "Chế độ săn dân làng"
+  },
+  {
+    "key": "dev_tooltip_spawn_enemy",
+    "type": 0,
+    "en": "Spawns an enemy on mouse click.",
+    "vi": "Tạo một kẻ thù tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_kill_enemies",
+    "type": 0,
+    "en": "Kills all enemies on the map.",
+    "vi": "Tiêu diệt toàn bộ kẻ thù trên bản đồ."
+  },
+  {
+    "key": "dev_tooltip_spawn_trebuchet",
+    "type": 0,
+    "en": "Spawns a trebuchet on mouse click.",
+    "vi": "Tạo một máy bắn đá tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_kill_all_fish",
+    "type": 0,
+    "en": "Kills all fish on the map.",
+    "vi": "Tiêu diệt toàn bộ cá trên bản đồ."
+  },
+  {
+    "key": "dev_tooltip_deal_damage",
+    "type": 0,
+    "en": "Damage anything you click on by 15 (except voxels).",
+    "vi": "Gây 15 sát thương lên bất cứ thứ gì bạn nhấp vào (ngoại trừ khối voxel)."
+  },
+  {
+    "key": "dev_tooltip_ladder_falldown",
+    "type": 0,
+    "en": "Push a creature off of a ladder.",
+    "vi": "Đẩy một sinh vật ngã khỏi thang leo."
+  },
+  {
+    "key": "dev_tooltip_spawn_event",
+    "type": 0,
+    "en": "Triggers selected event.",
+    "vi": "Kích hoạt sự kiện đã chọn."
+  },
+  {
+    "key": "dev_tooltip_schedule_event_group",
+    "type": 0,
+    "en": "Schedules a random event from a selected group.",
+    "vi": "Lên lịch một sự kiện ngẫu nhiên từ nhóm đã chọn."
+  },
+  {
+    "key": "dev_tooltip_weather_date_time",
+    "type": 0,
+    "en": "Modify weather and time.",
+    "vi": "Chỉnh sửa thời tiết và thời gian."
+  },
+  {
+    "key": "dev_tooltip_voxel_info",
+    "type": 0,
+    "en": "Display info of the currently selected voxel.",
+    "vi": "Hiển thị thông tin của khối voxel đang được chọn."
+  },
+  {
+    "key": "dev_tooltip_toggle_water_debug_ui",
+    "type": 0,
+    "en": "Toggles water editing and info UI.",
+    "vi": "Bật/Tắt giao diện chỉnh sửa và thông tin về nước."
+  },
+  {
+    "key": "dev_tooltip_damage_voxel",
+    "type": 0,
+    "en": "Damage voxels around cursor in a range on mouse click.",
+    "vi": "Gây sát thương lên các khối voxel xung quanh con trỏ chuột."
+  },
+  {
+    "key": "dev_tooltip_weather_view",
+    "type": 0,
+    "en": "Toggles the weather info panel. It shows weather events for the entire season.",
+    "vi": "Bật/Tắt bảng thông tin thời tiết trong toàn bộ mùa."
+  },
+  {
+    "key": "dev_tooltip_instant_dig",
+    "type": 0,
+    "en": "Toggles between instant and normal digging.",
+    "vi": "Chuyển đổi giữa chế độ đào tức thì và đào bình thường."
+  },
+  {
+    "key": "dev_tooltip_10_mining_speed",
+    "type": 0,
+    "en": "Sets mining speed to ×10",
+    "vi": "Đặt tốc độ đào mỏ lên ×10"
+  },
+  {
+    "key": "dev_tooltip_revert_mining_speed",
+    "type": 0,
+    "en": "Resets the mining speed back to normal.",
+    "vi": "Đặt lại tốc độ đào mỏ về bình thường."
+  },
+  {
+    "key": "dev_tooltip_crop_next_phase",
+    "type": 0,
+    "en": "Advance the clicked crop to its next growth phase.",
+    "vi": "Đẩy cây trồng được nhấp chọn sang giai đoạn phát triển tiếp theo."
+  },
+  {
+    "key": "dev_tooltip_set_low_fuel",
+    "type": 0,
+    "en": "Sets fuel to very low on mouse click.",
+    "vi": "Đặt mức nhiên liệu xuống rất thấp tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_toggle_player_voxel_info",
+    "type": 0,
+    "en": "Toggles voxel info for the player.",
+    "vi": "Bật/Tắt thông tin voxel cho người chơi."
+  },
+  {
+    "key": "dev_tooltip_thunder",
+    "type": 0,
+    "en": "Click to spawn a thunderstrike (from Thunderstorm).",
+    "vi": "Nhấp để tạo một tia sét đánh (từ bão giông)."
+  },
+  {
+    "key": "dev_tooltip_toggle_regions",
+    "type": 0,
+    "en": "Toggles the debug visuals for Regions.",
+    "vi": "Bật/Tắt hiển thị trực quan khu vực (Region) phục vụ gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_air_grid_nodes",
+    "type": 0,
+    "en": "Toggles debug visuals for Nodes",
+    "vi": "Bật/Tắt hiển thị lưới nút không gian phục vụ gỡ lỗi"
+  },
+  {
+    "key": "dev_tooltip_ground_grid_nodes",
+    "type": 0,
+    "en": "Toggles debug visuals for Air Nodes",
+    "vi": "Bật/Tắt hiển thị lưới nút mặt đất phục vụ gỡ lỗi"
+  },
+  {
+    "key": "dev_tooltip_pathing_lines",
+    "type": 0,
+    "en": "Toggles debug visuals for Pathing Lines.",
+    "vi": "Bật/Tắt đường dẫn hướng tìm đường phục vụ gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_refresh_nodes",
+    "type": 0,
+    "en": "Refreshes all Nodes.",
+    "vi": "Làm mới toàn bộ các nút mạng."
+  },
+  {
+    "key": "dev_tooltip_node_visualizer",
+    "type": 0,
+    "en": "Updates Node Visualizers.",
+    "vi": "Cập nhật hiển thị trực quan các nút."
+  },
+  {
+    "key": "dev_tooltip_toggle_all_visual_debug",
+    "type": 0,
+    "en": "Toggles all debug visuals. (if some of the later ones are off, you need to turn them on, this option does not reenable them.)",
+    "vi": "Bật/Tắt toàn bộ hiển thị trực quan gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_toggle_reachability",
+    "type": 0,
+    "en": "Toggles reachability debug visuals.",
+    "vi": "Bật/Tắt hiển thị khả năng tiếp cận phục vụ gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_toggle_visual_proximity",
+    "type": 0,
+    "en": "Toggles proximity debug visuals.",
+    "vi": "Bật/Tắt hiển thị phạm vi lân cận phục vụ gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_toggle_relocate_piles",
+    "type": 0,
+    "en": "Toggle relocate piles debug visuals.",
+    "vi": "Bật/Tắt hiển thị di dời đống tài nguyên phục vụ gỡ lỗi."
+  },
+  {
+    "key": "dev_tooltip_spawn_particle_system",
+    "type": 0,
+    "en": "Spawns selected Particle System (effect) on mouse click.",
+    "vi": "Tạo hệ thống hiệu ứng hạt đã chọn tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_spawn_trader",
+    "type": 0,
+    "en": "Spawns a random trader on mouse click.",
+    "vi": "Tạo một thương nhân ngẫu nhiên tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_spawn_trader_bodyguards",
+    "type": 0,
+    "en": "Spawns a random trader with bodygurads on mouse click.",
+    "vi": "Tạo một thương nhân ngẫu nhiên kèm vệ sĩ tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_mark_for_roping",
+    "type": 0,
+    "en": "Marks clicked animal for roping.",
+    "vi": "Đánh dấu con thú được nhấp chọn để buộc dây kéo dắt."
+  },
+  {
+    "key": "dev_tooltip_set_domestic",
+    "type": 0,
+    "en": "Set animal as domestic on mouse click.",
+    "vi": "Đặt con thú thành động vật nuôi tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_set_pet",
+    "type": 0,
+    "en": "Set animal as a pet on mouse click.",
+    "vi": "Đặt con thú thành thú cưng tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_set_wild",
+    "type": 0,
+    "en": "Set animal as wild on mouse click.",
+    "vi": "Đặt con thú thành động vật hoang dã tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_set_wild_aggro",
+    "type": 0,
+    "en": "Set animal as aggressive and wild on mouse click.",
+    "vi": "Đặt con thú thành động vật hung dữ hoang dã tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_reset_taming_and_training",
+    "type": 0,
+    "en": "Resets Taming and Training timers for animal on mouse click.",
+    "vi": "Đặt lại bộ đếm thời gian thuần hóa và huấn luyện con thú tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_toggle_structure_preset_panel",
+    "type": 0,
+    "en": "Toggle Structure Preset Panel.",
+    "vi": "Bật/Tắt bảng mẫu công trình có sẵn."
+  },
+  {
+    "key": "dev_tooltip_trigger_traps",
+    "type": 0,
+    "en": "Trigger trap on mouse click.",
+    "vi": "Kích hoạt bẫy tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_reset_traps",
+    "type": 0,
+    "en": "Reset trap on mouse click.",
+    "vi": "Đặt lại bẫy tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_spawn_blank_npc",
+    "type": 0,
+    "en": "Spawns a blank NPC on mouse click.",
+    "vi": "Tạo một NPC trống tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_set_npc_behaviour",
+    "type": 0,
+    "en": "Sets NPC behaviour on mouse click.",
+    "vi": "Thiết lập hành vi NPC tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_npc_behaviour_select",
+    "type": 0,
+    "en": "Select an NPC behaviour type to set:",
+    "vi": "Chọn loại hành vi NPC để thiết lập:"
+  },
+  {
+    "key": "dev_behaviour_name_tooltip",
+    "type": 0,
+    "en": "After choosing the behaviour, click on the NPC you want to apply it to.",
+    "vi": "Sau khi chọn hành vi, nhấp vào NPC bạn muốn áp dụng."
+  },
+  {
+    "key": "dev_piles",
+    "type": 0,
+    "en": "Resources and Items",
+    "vi": "Tài nguyên & Vật phẩm"
+  },
+  {
+    "key": "Seasons",
+    "type": 0,
+    "en": "Seasons",
+    "vi": "Mùa"
+  },
+  {
+    "key": "Set Spring",
+    "type": 0,
+    "en": "Set Spring",
+    "vi": "Đặt Mùa Xuân"
+  },
+  {
+    "key": "Set Summer",
+    "type": 0,
+    "en": "Set Summer",
+    "vi": "Đặt Mùa Hè"
+  },
+  {
+    "key": "Set Autumn",
+    "type": 0,
+    "en": "Set Autumn",
+    "vi": "Đặt Mùa Thu"
+  },
+  {
+    "key": "Set Winter",
+    "type": 0,
+    "en": "Set Winter",
+    "vi": "Đặt Mùa Đông"
+  },
+  {
+    "key": "dev_tooltip_set_season",
+    "type": 0,
+    "en": "Advance time to the selected season.",
+    "vi": "Tua nhanh thời gian đến mùa đã chọn."
+  },
+  {
+    "key": "Day Time",
+    "type": 0,
+    "en": "Time of Day",
+    "vi": "Thời điểm trong ngày"
+  },
+  {
+    "key": "Set Noon",
+    "type": 0,
+    "en": "Set Noon",
+    "vi": "Đặt Buổi trưa"
+  },
+  {
+    "key": "Set Dawn",
+    "type": 0,
+    "en": "Set Dusk",
+    "vi": "Đặt bình minh"
+  },
+  {
+    "key": "Set Midnight",
+    "type": 0,
+    "en": "Set Midnight",
+    "vi": "Đặt Nửa đêm"
+  },
+  {
+    "key": "Set Dusk",
+    "type": 0,
+    "en": "Set Dawn",
+    "vi": "Đặt hoàng hôn"
+  },
+  {
+    "key": "dev_tooltip_set_time_of_day",
+    "type": 0,
+    "en": "Change time of day to the selected one.",
+    "vi": "Thay đổi thời điểm trong ngày sang mốc đã chọn."
+  },
+  {
+    "key": "Weather",
+    "type": 0,
+    "en": "Weather",
+    "vi": "Thời tiết"
+  },
+  {
+    "key": "Set rain",
+    "type": 0,
+    "en": "Starts raining",
+    "vi": "Bắt đầu mưa"
+  },
+  {
+    "key": "Set fog",
+    "type": 0,
+    "en": "Fog",
+    "vi": "Sương mù"
+  },
+  {
+    "key": "Set snow",
+    "type": 0,
+    "en": "Starts snowing",
+    "vi": "Bắt đầu tuyết rơi"
+  },
+  {
+    "key": "dev_tooltip_set_weather_event",
+    "type": 0,
+    "en": "Triggers the selected precipitation.",
+    "vi": "Kích hoạt kiểu thời tiết mưa tuyết đã chọn."
+  },
+  {
+    "key": "dev_inflict_wound",
+    "type": 0,
+    "en": "Select wound to inflict:",
+    "vi": "Chọn vết thương để gây ra:"
+  },
+  {
+    "key": "dev_event_spawn",
+    "type": 0,
+    "en": "Select an event to spawn:",
+    "vi": "Chọn sự kiện để tạo:"
+  },
+  {
+    "key": "dev_tooltip_inflict_wound",
+    "type": 0,
+    "en": "Inflicts selected wound on Settler on mouse click.",
+    "vi": "Gây vết thương đã chọn lên dân làng khi nhấp chuột."
+  },
+  {
+    "key": "dev_gender_male",
+    "type": 0,
+    "en": "Gender: Male",
+    "vi": "Giới tính: Nam"
+  },
+  {
+    "key": "dev_gender_female",
+    "type": 0,
+    "en": "Gender: Female",
+    "vi": "Giới tính: Nữ"
+  },
+  {
+    "key": "dev_tooltip_gender",
+    "type": 0,
+    "en": "Toggles gender of the enemy you are spawning.",
+    "vi": "Chuyển đổi giới tính của kẻ thù chuẩn bị tạo."
+  },
+  {
+    "key": "dev_tooltip_enemy",
+    "type": 0,
+    "en": "Spawns the selected enemy on mouse click.",
+    "vi": "Tạo kẻ thù đã chọn tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_enemy_spawn",
+    "type": 0,
+    "en": "Select an NPC to spawn:",
+    "vi": "Chọn NPC để tạo:"
+  },
+  {
+    "key": "dev_trebuchet_spawn",
+    "type": 0,
+    "en": "Select a trebuchet to spawn:",
+    "vi": "Chọn máy bắn đá để tạo:"
+  },
+  {
+    "key": "dev_friendliness_minus",
+    "type": 0,
+    "en": "Alignment -10",
+    "vi": "Điểm thân thiện -10"
+  },
+  {
+    "key": "dev_friendliness_plus",
+    "type": 0,
+    "en": "Alignment +10",
+    "vi": "Điểm thân thiện +10"
+  },
+  {
+    "key": "dev_tooltip_friendliness_plus",
+    "type": 0,
+    "en": "Adds 10 Alignment to the selected Faction.",
+    "vi": "Cộng 10 điểm thân thiện cho phe phái đã chọn."
+  },
+  {
+    "key": "dev_tooltip_friendliness_minus",
+    "type": 0,
+    "en": "Removes 10 Alignment to selected Faction.",
+    "vi": "Trừ 10 điểm thân thiện cho phe phái đã chọn."
+  },
+  {
+    "key": "dev_tooltip_particle",
+    "type": 0,
+    "en": "Spawns selected particle system (effect) on mouse click.",
+    "vi": "Tạo hệ thống hiệu ứng hạt đã chọn tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_particle_system",
+    "type": 0,
+    "en": "Select a particle system to spawn:",
+    "vi": "Chọn hệ thống hiệu ứng hạt để tạo:"
+  },
+  {
+    "key": "dev_select_dropdown",
+    "type": 0,
+    "en": "Change skill by:",
+    "vi": "Thay đổi kỹ năng theo:"
+  },
+  {
+    "key": "dev_select_item",
+    "type": 0,
+    "en": "Select item to spawn on mouse click",
+    "vi": "Chọn vật phẩm để tạo tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_select_item_quality",
+    "type": 0,
+    "en": "Select the item quality",
+    "vi": "Chọn phẩm chất vật phẩm"
+  },
+  {
+    "key": "dev_tooltip_spawn_item_quality",
+    "type": 0,
+    "en": "Spawns the item of the selected quality on mouse click.",
+    "vi": "Tạo vật phẩm với phẩm chất đã chọn tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_random_item",
+    "type": 0,
+    "en": "Random Items",
+    "vi": "Vật phẩm ngẫu nhiên"
+  },
+  {
+    "key": "dev_tooltip_random_item",
+    "type": 0,
+    "en": "Spawns 10 random items on mouse click.",
+    "vi": "Tạo 10 vật phẩm ngẫu nhiên tại vị trí nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_fish",
+    "type": 0,
+    "en": "Spawns chosen fish on mouse click",
+    "vi": "Tạo loài cá đã chọn tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_select_fish",
+    "type": 0,
+    "en": "Choose fish to spawn:",
+    "vi": "Chọn loài cá để tạo:"
+  },
+  {
+    "key": "dev_tooltip_stat_set",
+    "type": 0,
+    "en": "Set chosen stat to selected value of clicked on Settler.",
+    "vi": "Đặt chỉ số đã chọn thành giá trị quy định cho dân làng được nhấp chọn."
+  },
+  {
+    "key": "dev_stat_0",
+    "type": 0,
+    "en": "Stat = 0",
+    "vi": "Chỉ số = 0"
+  },
+  {
+    "key": "dev_stat_25",
+    "type": 0,
+    "en": "Stat = 25",
+    "vi": "Chỉ số = 25"
+  },
+  {
+    "key": "dev_stat_50",
+    "type": 0,
+    "en": "Stat = 50",
+    "vi": "Chỉ số = 50"
+  },
+  {
+    "key": "dev_stat_75",
+    "type": 0,
+    "en": "Stat = 75",
+    "vi": "Chỉ số = 75"
+  },
+  {
+    "key": "dev_stat_100",
+    "type": 0,
+    "en": "Stat = 100",
+    "vi": "Chỉ số = 100"
+  },
+  {
+    "key": "dev_particle_build_particles",
+    "type": 0,
+    "en": "Build Particles",
+    "vi": "Hiệu ứng xây dựng"
+  },
+  {
+    "key": "dev_particle_dust",
+    "type": 0,
+    "en": "Dust",
+    "vi": "Bụi mù"
+  },
+  {
+    "key": "dev_particle_wood",
+    "type": 0,
+    "en": "Wood",
+    "vi": "Mảnh gỗ"
+  },
+  {
+    "key": "dev_particle_stone",
+    "type": 0,
+    "en": "Stone",
+    "vi": "Đá vụn"
+  },
+  {
+    "key": "dev_particle_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Mẩu cỏ"
+  },
+  {
+    "key": "dev_particle_arrowbreak",
+    "type": 0,
+    "en": "Arrow Break",
+    "vi": "Mũi tên gãy"
+  },
+  {
+    "key": "dev_particle_arrowmiss",
+    "type": 0,
+    "en": "Arrow Miss",
+    "vi": "Mũi tên trượt"
+  },
+  {
+    "key": "dev_particle_crithit",
+    "type": 0,
+    "en": "Critical Hit",
+    "vi": "Đòn đánh chí mạng"
+  },
+  {
+    "key": "dev_particle_trebuchehit",
+    "type": 0,
+    "en": "Trebuchet Hit",
+    "vi": "Đạn máy bắn đá trúng đích"
+  },
+  {
+    "key": "dev_particle_vegetables_chopp",
+    "type": 0,
+    "en": "Vegetable Chop",
+    "vi": "Cắt tỉa rau củ"
+  },
+  {
+    "key": "dev_particle_hammer_sparks",
+    "type": 0,
+    "en": "Hammer Sparks",
+    "vi": "Tia lửa búa rèn"
+  },
+  {
+    "key": "dev_particle_blood_splat",
+    "type": 0,
+    "en": "Bloodsplat",
+    "vi": "Máu bắn"
+  },
+  {
+    "key": "dev_particle_wood_chips",
+    "type": 0,
+    "en": "Wood Chips",
+    "vi": "Dăm gỗ vụn"
+  },
+  {
+    "key": "dev_particle_trap_activate",
+    "type": 0,
+    "en": "Trap Activate",
+    "vi": "Bẫy sập kích hoạt"
+  },
+  {
+    "key": "dev_particle_DustParticles",
+    "type": 0,
+    "en": "Dust 2",
+    "vi": "Bụi mịn"
+  },
+  {
+    "key": "dev_particle_hay_pickup",
+    "type": 0,
+    "en": "Hay Pick Up",
+    "vi": "Nhặt cỏ khô"
+  },
+  {
+    "key": "dev_particle_shrub_destroy",
+    "type": 0,
+    "en": "Shrub Cut",
+    "vi": "Chặt bụi cây"
+  },
+  {
+    "key": "dev_particle_drunk",
+    "type": 0,
+    "en": "Drunk",
+    "vi": "Say xỉn"
+  },
+  {
+    "key": "dev_particle_rebelious",
+    "type": 0,
+    "en": "Rebellious",
+    "vi": "Nổi loạn"
+  },
+  {
+    "key": "dev_particle_pinned",
+    "type": 0,
+    "en": "Pinned",
+    "vi": "Bị ghim giữ"
+  },
+  {
+    "key": "dev_particle_barley_death",
+    "type": 0,
+    "en": "Barley Wilt",
+    "vi": "Đại mạch héo tàn"
+  }
+]

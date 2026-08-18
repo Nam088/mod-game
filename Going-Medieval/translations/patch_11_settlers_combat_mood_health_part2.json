@@ -1,0 +1,446 @@
+[
+  {
+    "key": "dialogOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Một số dân làng có thể phải chịu hiệu ứng tâm trạng tiêu cực</style>"
+  },
+  {
+    "key": "dialogOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Dân làng của bạn sẽ nhận được hiệu ứng tâm trạng tích cực khi dang tay cứu giúp người gặp nạn</style>"
+  },
+  {
+    "key": "eventOptionEffect_NegativeMood",
+    "type": 0,
+    "en": "<style=DefaultRed>Some settlers might get a negative mood modifier</style>",
+    "vi": "<style=DefaultRed>Một số dân làng có thể phải chịu hiệu ứng tâm trạng tiêu cực</style>"
+  },
+  {
+    "key": "eventOptionEffect_PositiveMood",
+    "type": 0,
+    "en": "<style=DefaultGreen>Your settlers will get a positive mood modifier for helping someone in need</style>",
+    "vi": "<style=DefaultGreen>Dân làng của bạn sẽ nhận được hiệu ứng tâm trạng tích cực khi dang tay cứu giúp người gặp nạn</style>"
+  },
+  {
+    "key": "effector_info_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "There are too few of us already in this world. Not helping someone in need feels like betrayal.",
+    "vi": "Thế giới điêu tàn này vốn dĩ đã có quá ít người sống sót. Việc ngoảnh mặt làm ngơ trước người gặp nạn chẳng khác nào một sự phản bội tàn nhẫn."
+  },
+  {
+    "key": "effector_info_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "It's good that we are helping people in need.",
+    "vi": "Thật ấm lòng khi chúng ta có thể mở rộng vòng tay cứu giúp những mảnh đời khốn khổ."
+  },
+  {
+    "key": "effector_name_MoodMinusRunawayEvent",
+    "type": 0,
+    "en": "Sanctuary Denied",
+    "vi": "Từ Chối Nơi Nương Náu"
+  },
+  {
+    "key": "effector_name_MoodPlusRunawayEvent",
+    "type": 0,
+    "en": "Together we are strong",
+    "vi": "Đoàn Kết Tạo Nên Sức Mạnh"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Bước Vào Đền Thờ Cây Sồi"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Awful)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Tồi Tàn)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusDull",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Uninspiring)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Đơn Điệu)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Modest)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Khiêm Tốn)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusGood",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Good)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Trang Nghiêm)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Superior)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Bề Thế)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Luxurious)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Tráng Lệ)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Opulent)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Lộng Lẫy)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple (Palatial)",
+    "vi": "Bước Vào Đền Thờ Cây Sồi (Tuyệt Mỹ Kỳ Quan)"
+  },
+  {
+    "key": "effector_name_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "Stepped into an Oak Brethren temple",
+    "vi": "Bước vào đền Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusAwful",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Awful)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Tồi tệ)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusDull",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Uninspiring)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Không truyền cảm hứng)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusMediocre",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Modest)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Khiêm tốn)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusGood",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Good)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Tốt)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSlightlyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Superior)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Thượng hạng)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusSomewhatImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Luxurious)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Xa hoa)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusVeryImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Opulent)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Lộng lẫy)"
+  },
+  {
+    "key": "effector_name_InChapelMoodPlusExtremelyImpressive",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel (Palatial)",
+    "vi": "Bước vào nhà nguyện Hội Phục Hưng (Tráng lệ)"
+  },
+  {
+    "key": "effector_name_InChapelMoodMinus",
+    "type": 0,
+    "en": "Entered a Church of Restitution chapel",
+    "vi": "Bước Vào Nhà Nguyện Hội Phục Hưng"
+  },
+  {
+    "key": "effector_info_InPaganChapelMoodPlus",
+    "type": 0,
+    "en": "I feel a deep connection to the elements of the natural world here. My ancestors and all beings share the blessings of their wisdom freely. Within, I can find peace.",
+    "vi": "Nơi đây tôi cảm nhận được sự gắn kết sâu sắc và thiêng liêng với mọi cội nguồn của tự nhiên. Tổ tiên cùng vạn vật đang hào phóng ban phát sự thông tuệ và che chở. Giữa chốn linh thiêng này, tâm hồn tôi tìm thấy sự bình yên vô tận."
+  },
+  {
+    "key": "effecto_info_InPaganChapelMoodMinus",
+    "type": 0,
+    "en": "I feel uncomfortable here, in this heathen place. Our Creator shows us the true path. This old balderdash about trees and ponds is not for me!",
+    "vi": "Tôi cảm thấy vô cùng bất an và ngột ngạt ở chốn dị giáo hoang dã này. Chỉ có Đấng Tạo Hóa mới là người soi rọi con đường chân lý duy nhất. Mấy chuyện mê tín nhảm nhí về cây cối ao hồ này chẳng thể dành cho tôi!"
+  },
+  {
+    "key": "effector_info_InChapelMoodPlus",
+    "type": 0,
+    "en": "The hope of restitution guides my path. By my faith, by our prayers, I am renewed and uplifted by the Creator. Wholeness and purity await the faithful. Praise be!",
+    "vi": "Niềm hy vọng phục hưng luôn soi rọi từng bước chân tôi. Nhờ đức tin thuần khiết và những lời nguyện cầu thành kính, tâm hồn tôi được Đấng Tạo Hóa nâng đỡ và tái sinh. Sự trọn vẹn và thanh sạch đón chờ những con chiên ngoan đạo. Ngợi ca Thiên Chúa!"
+  },
+  {
+    "key": "effector_info_InChapelMoodMinus",
+    "type": 0,
+    "en": "In this place, all believers look to the future, without care for the past, or for the Earth. The deep roots tended by our ancestors are left to wither. It saddens me to behold it.",
+    "vi": "Ở nơi này, những kẻ cuồng tín chỉ mải mê ngóng trông về tương lai viển vông mà rũ bỏ quá khứ cùng cội nguồn Đất Mẹ linh thiêng. Những rễ sâu mà tổ tiên bao đời dày công vun xới bị bỏ mặc cho khô héo lụi tàn. Nhìn cảnh tượng ấy chỉ khiến lòng tôi thêm trĩu nặng."
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedLow",
+    "type": 0,
+    "en": "Small Combat Speed Impairment",
+    "vi": "Giảm Nhẹ Tốc Độ Chiến Đấu (Do Khiên Nặng)"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Combat Speed Impairment",
+    "vi": "Giảm Đáng Kể Tốc Độ Chiến Đấu (Do Khiên Nặng)"
+  },
+  {
+    "key": "effector_name_ShieldCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Combat Speed Impairment",
+    "vi": "Giảm Trầm Trọng Tốc Độ Chiến Đấu (Do Khiên Quá Nặng)"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedLow",
+    "type": 0,
+    "en": "Small Ranged Combat Speed Impairment",
+    "vi": "Giảm Nhẹ Tốc Độ Xạ Kích"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedMed",
+    "type": 0,
+    "en": "Significant Ranged Combat Speed Impairment",
+    "vi": "Giảm Đáng Kể Tốc Độ Xạ Kích"
+  },
+  {
+    "key": "effector_name_RangedCombatSpeedHigh",
+    "type": 0,
+    "en": "Severe Ranged Combat Speed Impairment",
+    "vi": "Giảm Trầm Trọng Tốc Độ Xạ Kích"
+  },
+  {
+    "key": "effector_info_AgentMoodGood",
+    "type": 0,
+    "en": "I feel better than ever. ",
+    "vi": "Tôi cảm thấy phấn chấn và khỏe khoắn hơn bao giờ hết."
+  },
+  {
+    "key": "effector_name_AgentMoodGood",
+    "type": 0,
+    "en": "Merry",
+    "vi": "Hân Hoan Phấn Khởi"
+  },
+  {
+    "key": "effector_name_KilledBloodlustMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Hạ Sát Kẻ Thù (Thỏa Mãn Khát Máu)"
+  },
+  {
+    "key": "effector_info_KilledBloodlustMood",
+    "type": 0,
+    "en": "I finished them, good riddance! Nobody's going to want to mess with me now, are they?",
+    "vi": "Ta đã tự tay kết liễu đời chúng, thật đáng đời phường giặc cỏ! Giờ thì xem có kẻ nào còn dám cả gan bén mảng tới chọc giận ta nữa không?"
+  },
+  {
+    "key": "effector_name_KilledPacifistMood",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Tước Đoạt Mạng Sống (Cắn Rứt Lương Tâm)"
+  },
+  {
+    "key": "effector_info_KilledPacifistMood",
+    "type": 0,
+    "en": "I want to wash the blood away. I can't believe I did that...I...feel sick. What have I become?",
+    "vi": "Tôi chỉ muốn gột rửa sạch những vết máu tanh nhơ nhuốc này. Không thể tin nổi chính đôi bàn tay tôi lại gây nên tội ác đó... Tôi... buồn nôn quá. Tôi đã biến thành loài quái vật gì thế này?"
+  },
+  {
+    "key": "effector_name_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "We should have stood our ground",
+    "vi": "Lẽ Ra Phải Quyết Chiến"
+  },
+  {
+    "key": "effector_info_MoodMinusShakedownBloodlust",
+    "type": 0,
+    "en": "Why didn't we refuse and smash their skulls instead of giving them our valuable resources!",
+    "vi": "Tại sao chúng ta không từ chối thẳng thừng và đập nát sọ lũ tống tiền đó thay vì ngoan ngoãn dâng nộp bao nhiêu tài nguyên mồ hôi nước mắt!"
+  },
+  {
+    "key": "effector_name_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Sự Hiện Diện Xoa Dịu"
+  },
+  {
+    "key": "effector_info_CongenialPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "Được ở cạnh <settler_name> thật là một niềm vui chan chứa (<perk_name>)"
+  },
+  {
+    "key": "effector_name_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Sự Hiện Diện Nhiệt Thành"
+  },
+  {
+    "key": "effector_info_OutgoingPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "Được ở cạnh <settler_name> thật là một niềm vui chan chứa (<perk_name>)"
+  },
+  {
+    "key": "effector_name_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "Soothing presence",
+    "vi": "Sự Hiện Diện Bác Ái"
+  },
+  {
+    "key": "effector_info_BenevolentPositiveMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is a joy to be around (<perk_name>)",
+    "vi": "Được ở cạnh <settler_name> thật là một niềm vui chan chứa (<perk_name>)"
+  },
+  {
+    "key": "effector_name_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying presence",
+    "vi": "Sự Hiện Diện Khó Chịu"
+  },
+  {
+    "key": "effector_info_ChurlNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> brings me down (<perk_name>)",
+    "vi": "<settler_name> luôn toát ra vẻ mặt cộc cằn khiến tôi vô cùng tụt hứng (<perk_name>)"
+  },
+  {
+    "key": "effector_name_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Chướng Mắt Khi Làm Việc"
+  },
+  {
+    "key": "effector_info_SluggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "Nhìn điệu bộ làm việc lề mề của <settler_name> thật là bực mình không chịu nổi (<perk_name>)"
+  },
+  {
+    "key": "effector_name_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "Annoying when working",
+    "vi": "Chướng Mắt Khi Làm Việc"
+  },
+  {
+    "key": "effector_info_LaggardlyNegativeMoodEnter",
+    "type": 0,
+    "en": "It's painful to watch <settler_name> do anything (<perk_name>)",
+    "vi": "Nhìn điệu bộ làm việc lề mề của <settler_name> thật là bực mình không chịu nổi (<perk_name>)"
+  },
+  {
+    "key": "effector_name_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "Dullard presence",
+    "vi": "Sự Hiện Diện Đần Độn"
+  },
+  {
+    "key": "effector_info_DullardNegativeMoodEnter",
+    "type": 0,
+    "en": "<settler_name> is so thick, being around #2[him/her] frustrates me! (<perk_name>)",
+    "vi": "<settler_name> đầu óc quá đỗi chậm chạp tối dạ, ở cạnh #2[him/her] chỉ khiến tôi thêm ức chế phát điên! (<perk_name>)"
+  },
+  {
+    "key": "worker_high_mood_message",
+    "type": 0,
+    "en": "<name> is feeling merry!",
+    "vi": "<name> đang cảm thấy vô cùng hân hoan và yêu đời!"
+  },
+  {
+    "key": "atb_info_CombatPerception",
+    "type": 0,
+    "en": "The range at which this settler will notice and engage with enemies when set to aggressive mode.",
+    "vi": "Phạm vi khoảng cách mà dân làng này sẽ lập tức phát hiện và chủ động lao vào giao chiến với kẻ thù khi đang ở chế độ hung hãn."
+  },
+  {
+    "key": "atb_info_MoodChangeSpeed",
+    "type": 0,
+    "en": "The speed this settler's mood stat changes.",
+    "vi": "Tốc độ biến thiên tăng giảm chỉ số tâm trạng của dân làng này."
+  },
+  {
+    "key": "atb_info_MoodTarget",
+    "type": 0,
+    "en": "Mood target. This varies depending on positive and negative events. (Settlers with more optimistic perks will cope better with low mood than pessimists.)",
+    "vi": "Mục tiêu tâm trạng hướng tới. Chỉ số này sẽ dao động tùy thuộc vào các biến cố tích cực hay tiêu cực xảy ra. (Những dân làng mang đặc tính lạc quan sẽ vượt qua khủng hoảng tâm lý tốt hơn người bi quan.)"
+  },
+  {
+    "key": "atb_name_CombatPerception",
+    "type": 0,
+    "en": "Combat Perception",
+    "vi": "Cảnh Giác Chiến Đấu"
+  },
+  {
+    "key": "atb_name_MoodChangeSpeed",
+    "type": 0,
+    "en": "Mood Change Speed",
+    "vi": "Tốc Độ Biến Thiên Tâm Trạng"
+  },
+  {
+    "key": "atb_name_MoodTarget",
+    "type": 0,
+    "en": "Mood Target",
+    "vi": "Tâm Trạng Mục Tiêu"
+  },
+  {
+    "key": "dev_menu_combat",
+    "type": 0,
+    "en": "Combat",
+    "vi": "Chiến Đấu"
+  },
+  {
+    "key": "dev_set_mood_minus_10",
+    "type": 0,
+    "en": "Mood -10",
+    "vi": "Tâm Trạng -10"
+  },
+  {
+    "key": "dev_set_mood_plus_10",
+    "type": 0,
+    "en": "Mood +10",
+    "vi": "Tâm Trạng +10"
+  },
+  {
+    "key": "dev_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggle Combat Numbers",
+    "vi": "Bật/Tắt Hiển Thị Sát Thương Giao Tranh"
+  },
+  {
+    "key": "dev_tooltip_mood_plus",
+    "type": 0,
+    "en": "Add +10 to the Settler's mood stat on mouse click.",
+    "vi": "Cộng 10 điểm vào chỉ số tâm trạng của dân làng khi nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_mood_minus",
+    "type": 0,
+    "en": "Removes 10 from the Settler's mood stat on mouse click.",
+    "vi": "Trừ 10 điểm khỏi chỉ số tâm trạng của dân làng khi nhấp chuột."
+  },
+  {
+    "key": "dev_tooltip_toggle_combat_damage_popup",
+    "type": 0,
+    "en": "Toggles combat numbers.",
+    "vi": "Bật/Tắt hiển thị các con số sát thương chiến đấu nổi trên màn hình."
+  }
+]

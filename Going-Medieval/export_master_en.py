@@ -139,7 +139,7 @@ def export_all():
             categories["ui_general"].append(entry)
 
     patch_list = []
-    CHUNK_SIZE = 450
+    CHUNK_SIZE = 150
 
     for cat, items in categories.items():
         if len(items) <= CHUNK_SIZE:

@@ -1,0 +1,902 @@
+[
+  {
+    "key": "resource_info_flamable_oil",
+    "type": 0,
+    "en": "Slick liquid that will catch fire in favourable conditions.",
+    "vi": "Chất lỏng trơn nhờn dễ bốc cháy dữ dội khi gặp nguồn lửa thuận lợi."
+  },
+  {
+    "key": "resource_info_flamable_oil_greek_fire",
+    "type": 0,
+    "en": "Fierce combustible that cannot be quenched with water. Said to contain quicklime and saltpetre.",
+    "vi": "Chất cháy khủng khiếp không thể dập tắt bằng nước. Tương truyền chứa vôi sống và diêm tiêu bí truyền."
+  },
+  {
+    "key": "resource_category_name_CtgAlcoholMat",
+    "type": 0,
+    "en": "Alcohol Ingredients",
+    "vi": "Nguyên Liệu Nấu Rượu"
+  },
+  {
+    "key": "resource_category_name_CtgAnimHerbFood",
+    "type": 0,
+    "en": "Herbivore Food",
+    "vi": "Thức Ăn Động Vật Ăn Cỏ"
+  },
+  {
+    "key": "resource_category_name_CtgAperal",
+    "type": 0,
+    "en": "Apparel",
+    "vi": "Y Phục Quần Áo"
+  },
+  {
+    "key": "resource_category_name_CtgBuildMat",
+    "type": 0,
+    "en": "Construction Material",
+    "vi": "Vật Liệu Xây Dựng"
+  },
+  {
+    "key": "resource_category_name_CtgCarcass",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Xác Động Vật"
+  },
+  {
+    "key": "resource_category_name_CtgChemMat",
+    "type": 0,
+    "en": "Chemical",
+    "vi": "Hóa Chất & Dược Liệu"
+  },
+  {
+    "key": "resource_category_name_CtgClothMat",
+    "type": 0,
+    "en": "Clothing Fabric",
+    "vi": "Vải May Mặc"
+  },
+  {
+    "key": "resource_category_name_CtgCookingMat",
+    "type": 0,
+    "en": "Primary Cooking Ingredient",
+    "vi": "Nguyên Liệu Nấu Ăn Chính"
+  },
+  {
+    "key": "resource_category_name_CtgSecondCookingMat",
+    "type": 0,
+    "en": "Secondary Cooking Ingredient",
+    "vi": "Nguyên Liệu Nấu Ăn Phụ"
+  },
+  {
+    "key": "resource_category_name_CtgDesinf",
+    "type": 0,
+    "en": "Disinfectants",
+    "vi": "Chất Khử Trùng Y Tế"
+  },
+  {
+    "key": "resource_category_name_CtgEdible",
+    "type": 0,
+    "en": "Edible",
+    "vi": "Thực Phẩm Ăn Được"
+  },
+  {
+    "key": "resource_category_name_CtgFruit",
+    "type": 0,
+    "en": "Fruits",
+    "vi": "Trái Cây Tươi Mọng"
+  },
+  {
+    "key": "resource_category_name_CtgFuel",
+    "type": 0,
+    "en": "Fuel",
+    "vi": "Nhiên Liệu Đốt Lò"
+  },
+  {
+    "key": "resource_category_name_CtgHealPack",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Dược Phẩm Cứu Thương"
+  },
+  {
+    "key": "resource_category_name_CtgItem",
+    "type": 0,
+    "en": "Item",
+    "vi": "Vật phẩm"
+  },
+  {
+    "key": "resource_category_name_CtgMeal",
+    "type": 0,
+    "en": "Meals",
+    "vi": "Bữa ăn nấu chín"
+  },
+  {
+    "key": "resource_category_name_CtgMeat",
+    "type": 0,
+    "en": "Meat",
+    "vi": "Thịt"
+  },
+  {
+    "key": "resource_category_name_CtgMetal",
+    "type": 0,
+    "en": "Metal",
+    "vi": "Kim loại"
+  },
+  {
+    "key": "resource_category_name_CtgPresMat",
+    "type": 0,
+    "en": "Preservatives",
+    "vi": "Chất bảo quản thực phẩm"
+  },
+  {
+    "key": "resource_category_name_CtgRawMat",
+    "type": 0,
+    "en": "Raw Material",
+    "vi": "Raw Vật liệu"
+  },
+  {
+    "key": "resource_category_name_CtgRawMeat",
+    "type": 0,
+    "en": "Raw Meat",
+    "vi": "Sống Thịt"
+  },
+  {
+    "key": "resource_category_name_CtgResearch",
+    "type": 0,
+    "en": "Knowledge",
+    "vi": "Tri thức & Sách vở"
+  },
+  {
+    "key": "resource_category_name_CtgVegetable",
+    "type": 0,
+    "en": "Vegetables",
+    "vi": "Rau củ"
+  },
+  {
+    "key": "resource_category_name_CtgWaste",
+    "type": 0,
+    "en": "Waste",
+    "vi": "Rác thải"
+  },
+  {
+    "key": "resource_category_name_CtgAlcohol",
+    "type": 0,
+    "en": "Alcohol",
+    "vi": "Rượu bia"
+  },
+  {
+    "key": "resource_category_name_CtgLeatherMat",
+    "type": 0,
+    "en": "Leather",
+    "vi": "Da thuộc"
+  },
+  {
+    "key": "resource_category_name_CtgTextileMat",
+    "type": 0,
+    "en": "Textiles",
+    "vi": "Vải dệt may"
+  },
+  {
+    "key": "resource_category_name_CtgHumanCarcass",
+    "type": 0,
+    "en": "Human Carcass",
+    "vi": "Xác người"
+  },
+  {
+    "key": "resource_category_name_CtgStructure",
+    "type": 0,
+    "en": "Structure",
+    "vi": "Kết cấu xây dựng"
+  },
+  {
+    "key": "resource_category_name_CtgSeeds",
+    "type": 0,
+    "en": "Seeds",
+    "vi": "Hạt giốngs"
+  },
+  {
+    "key": "resource_category_name_CtgCandleFuel",
+    "type": 0,
+    "en": "Candle Material",
+    "vi": "Candle Vật liệu"
+  },
+  {
+    "key": "resource_category_name_CtgDestilMat",
+    "type": 0,
+    "en": "Distillery ingredients",
+    "vi": "Nguyên liệu chưng cất rượu"
+  },
+  {
+    "key": "resource_group_Apparel",
+    "type": 0,
+    "en": "Apparel",
+    "vi": "Trang phục"
+  },
+  {
+    "key": "resource_group_ApparelClothing",
+    "type": 0,
+    "en": "Clothing",
+    "vi": "Quần áo may mặc"
+  },
+  {
+    "key": "resource_group_ApparelHeadware",
+    "type": 0,
+    "en": "Hats",
+    "vi": "Mũ nón"
+  },
+  {
+    "key": "resource_group_Books",
+    "type": 0,
+    "en": "Books",
+    "vi": "Sách vở"
+  },
+  {
+    "key": "resource_group_Carcass",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Xác"
+  },
+  {
+    "key": "resource_group_CarcassAnimal",
+    "type": 0,
+    "en": "Animal",
+    "vi": "Động vật"
+  },
+  {
+    "key": "resource_group_CarcassHuman",
+    "type": 0,
+    "en": "Human",
+    "vi": "Xác người"
+  },
+  {
+    "key": "resource_group_Food",
+    "type": 0,
+    "en": "Food",
+    "vi": "Lương thực thực phẩm"
+  },
+  {
+    "key": "resource_group_FoodMeal",
+    "type": 0,
+    "en": "Meal",
+    "vi": "Bữa ăn"
+  },
+  {
+    "key": "resource_group_FoodRaw",
+    "type": 0,
+    "en": "Raw",
+    "vi": "Sống"
+  },
+  {
+    "key": "resource_group_Material",
+    "type": 0,
+    "en": "Material",
+    "vi": "Vật liệu thô"
+  },
+  {
+    "key": "resource_group_Textiles",
+    "type": 0,
+    "en": "Textiles",
+    "vi": "Vải dệt may"
+  },
+  {
+    "key": "resource_group_Warfare",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Quân sự & Chiến tranh"
+  },
+  {
+    "key": "resource_group_WarfareShield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Khiên phòng thủ"
+  },
+  {
+    "key": "resource_group_Waste",
+    "type": 0,
+    "en": "Waste",
+    "vi": "Phế thải"
+  },
+  {
+    "key": "resource_group_MeleeOnehanded",
+    "type": 0,
+    "en": "One Handed Melee",
+    "vi": "Vũ khí cận chiến một tay"
+  },
+  {
+    "key": "resource_group_MeleeTwohanded",
+    "type": 0,
+    "en": "Two Handed Melee",
+    "vi": "Vũ khí cận chiến hai tay"
+  },
+  {
+    "key": "resource_group_Medicine",
+    "type": 0,
+    "en": "Medicine",
+    "vi": "Y dược"
+  },
+  {
+    "key": "resource_group_MaterialUnrefined",
+    "type": 0,
+    "en": "Raw Material",
+    "vi": "Sống Material"
+  },
+  {
+    "key": "resource_group_MaterialManufactured",
+    "type": 0,
+    "en": "Manufactured",
+    "vi": "Vật liệu tinh chế"
+  },
+  {
+    "key": "resource_group_Structures",
+    "type": 0,
+    "en": "Structures",
+    "vi": "Công trình kiến trúc"
+  },
+  {
+    "key": "resource_group_Water",
+    "type": 0,
+    "en": "Water",
+    "vi": "Nguồn nước"
+  },
+  {
+    "key": "resource_group_Base",
+    "type": 0,
+    "en": "Base",
+    "vi": "Kiến trúc cơ bản"
+  },
+  {
+    "key": "resource_group_StructuresLeisure",
+    "type": 0,
+    "en": "Leisure",
+    "vi": "Giải trí & Thờ phụng"
+  },
+  {
+    "key": "resource_group_StructuresDecoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Trang trí"
+  },
+  {
+    "key": "resource_group_StructuresDefense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Công trình phòng thủ"
+  },
+  {
+    "key": "resource_group_StructuresProduction",
+    "type": 0,
+    "en": "Production",
+    "vi": "Xưởng sản xuất"
+  },
+  {
+    "key": "resource_group_Seeds",
+    "type": 0,
+    "en": "Seeds",
+    "vi": "Hạt giốngs"
+  },
+  {
+    "key": "resource_group_Trophy",
+    "type": 0,
+    "en": "Trophies",
+    "vi": "Chiến lợi phẩm"
+  },
+  {
+    "key": "resource_group_FoodFermenting",
+    "type": 0,
+    "en": "Fermenting ingredients",
+    "vi": "Nguyên liệu lên men"
+  },
+  {
+    "key": "resource_group_Fodder",
+    "type": 0,
+    "en": "Fodder",
+    "vi": "Thức ăn gia súc"
+  },
+  {
+    "key": "resource_group_Decoration",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Đồ trang trí"
+  },
+  {
+    "key": "resource_category_name_CtgFodder",
+    "type": 0,
+    "en": "Fodder",
+    "vi": "Thức ăn gia súc"
+  },
+  {
+    "key": "resource_category_name_CtgGold",
+    "type": 0,
+    "en": "Gold",
+    "vi": "Vàng"
+  },
+  {
+    "key": "resource_group_Coin",
+    "type": 0,
+    "en": "Coins",
+    "vi": "Tiền vàng bạc"
+  },
+  {
+    "key": "resource_group_Misc",
+    "type": 0,
+    "en": "Misc",
+    "vi": "Linh tinh"
+  },
+  {
+    "key": "resource_category_name_CtgOilSource",
+    "type": 0,
+    "en": "Oil Source",
+    "vi": "Nguồn dầu đốt"
+  },
+  {
+    "key": "resource_group_Ammo",
+    "type": 0,
+    "en": "Ammunition",
+    "vi": "Đạn dược"
+  },
+  {
+    "key": "resource_group_AmmoProjectile",
+    "type": 0,
+    "en": "Trebuchet Ammunition",
+    "vi": "Đạn máy bắn đá Trebuchet"
+  },
+  {
+    "key": "resource_group_AmmoPierce",
+    "type": 0,
+    "en": "Ballista Ammunition",
+    "vi": "Mũi lao nỏ Ballista"
+  },
+  {
+    "key": "resource_group_AmmoMultishot",
+    "type": 0,
+    "en": "Onager Ammunition",
+    "vi": "Đạn đá máy bắn Onager"
+  },
+  {
+    "key": "resource_group_Relic",
+    "type": 0,
+    "en": "Holy Relic",
+    "vi": "Thánh Tích Tôn Giáo"
+  },
+  {
+    "key": "resource_group_Grandoak",
+    "type": 0,
+    "en": "Mighty Oak",
+    "vi": "Cây Sồi Đại Ngàn Thiêng Liêng"
+  },
+  {
+    "key": "resource_group_Grandbook",
+    "type": 0,
+    "en": "Influential Treatise",
+    "vi": "Bộ Đại Luận Văn Uyên Bác"
+  },
+  {
+    "key": "resource_group_MealSimple",
+    "type": 0,
+    "en": "Simple Meal",
+    "vi": "Bữa Ăn Đơn Sơ"
+  },
+  {
+    "key": "resource_group_MealLavish",
+    "type": 0,
+    "en": "Lavish Meal",
+    "vi": "Bữa Ăn Thịnh Soạn"
+  },
+  {
+    "key": "resource_group_winter_clothes_tainted",
+    "type": 0,
+    "en": "Winter Clothes (Tainted)",
+    "vi": "Quần Áo Mùa Đông (Vấy Máu Tử Thi)"
+  },
+  {
+    "key": "resource_group_summer_clothes_tainted",
+    "type": 0,
+    "en": "Summer Clothes (Tainted)",
+    "vi": "Quần Áo Mùa Hè (Vấy Máu Tử Thi)"
+  },
+  {
+    "key": "resource_name_pet",
+    "type": 0,
+    "en": "Pet",
+    "vi": "Thú Cưng Nuôi Trong Nhà"
+  },
+  {
+    "key": "resource_name_silver_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Gương Bạc Treo Tường"
+  },
+  {
+    "key": "resource_name_wool_rug_large_proto",
+    "type": 0,
+    "en": "Rug",
+    "vi": "Thảm Trải Sàn Bằng Len"
+  },
+  {
+    "key": "resource_name_hay_rug_large_proto",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Chiếu Cói Trải Sàn"
+  },
+  {
+    "key": "dev_autoprod_resources_off",
+    "type": 0,
+    "en": "Auto Production: Off",
+    "vi": "Tự Động Sản Xuất: Tắt"
+  },
+  {
+    "key": "dev_autoprod_resources_on",
+    "type": 0,
+    "en": "Auto Production: On",
+    "vi": "Tự Động Sản Xuất: Bật"
+  },
+  {
+    "key": "dev_mark_animals_for_attack",
+    "type": 0,
+    "en": "Mark Animals for Hunting",
+    "vi": "Đánh Dấu Toàn Bộ Động Vật Để Săn Bắn"
+  },
+  {
+    "key": "dev_spawn_animal",
+    "type": 0,
+    "en": "Spawn Animal",
+    "vi": "Tạo Động Vật"
+  },
+  {
+    "key": "dev_spawn_resource",
+    "type": 0,
+    "en": "Spawn Resource",
+    "vi": "Tạo Tài Nguyên"
+  },
+  {
+    "key": "dev_spawn_plant",
+    "type": 0,
+    "en": "Spawn Plant on Point",
+    "vi": "Tạo Thực Vật Tại Vị Trí"
+  },
+  {
+    "key": "dev_spawn_resource_ctg",
+    "type": 0,
+    "en": "Spawn all from Category",
+    "vi": "Tạo Toàn Bộ Tài Nguyên Theo Danh Mục"
+  },
+  {
+    "key": "dev_kill_all_animals",
+    "type": 0,
+    "en": "Kill All Animals",
+    "vi": "Tiêu Diệt Toàn Bộ Động Vật"
+  },
+  {
+    "key": "dev_kill_all_plants",
+    "type": 0,
+    "en": "Destroy All Plants",
+    "vi": "Xóa Bỏ Toàn Bộ Thực Vật"
+  },
+  {
+    "key": "dev_plant_next_phase",
+    "type": 0,
+    "en": "Force Plant Next Phase on Point",
+    "vi": "Thúc Ép Thực Vật Sang Giai Đoạn Sinh Trưởng Tiếp Theo"
+  },
+  {
+    "key": "dev_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Động Vật & Thú Nuôi"
+  },
+  {
+    "key": "dev_animal_prod_finish",
+    "type": 0,
+    "en": "Finish Animal Production",
+    "vi": "Hoàn Tất Sản Xuất Sản Vật Động Vật"
+  },
+  {
+    "key": "dev_reset_animal_timers",
+    "type": 0,
+    "en": "Reset Taming/Training Counters",
+    "vi": "Đặt Lại Bộ Đếm Thuần Hóa / Huấn Luyện"
+  },
+  {
+    "key": "dev_tooltip_spawn_plant",
+    "type": 0,
+    "en": "Spawns Plant on Mouse Click",
+    "vi": "Tạo cây trồng tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_spawn_resource",
+    "type": 0,
+    "en": "Spawns resource pile on mouse click",
+    "vi": "Tạo đống tài nguyên tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_spawn_resource_ctg",
+    "type": 0,
+    "en": "Spawns every resource of a category on mouse click",
+    "vi": "Tạo toàn bộ tài nguyên thuộc danh mục tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_spawn_animal",
+    "type": 0,
+    "en": "Spawns animal on mouse click",
+    "vi": "Tạo động vật tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_hunt_animals",
+    "type": 0,
+    "en": "Marks all animals for Hunting.",
+    "vi": "Đánh dấu tất cả động vật trên bản đồ để đi săn"
+  },
+  {
+    "key": "dev_tooltip_kill_all_animals",
+    "type": 0,
+    "en": "Kills all animals on the map.",
+    "vi": "Tiêu diệt toàn bộ động vật trên bản đồ"
+  },
+  {
+    "key": "dev_tooltip_kill_plants",
+    "type": 0,
+    "en": "Destroys all plants on the map.",
+    "vi": "Phá hủy toàn bộ thực vật trên bản đồ"
+  },
+  {
+    "key": "dev_tooltip_plant_next_phase",
+    "type": 0,
+    "en": "Advance the clicked plant to its next growth phase.",
+    "vi": "Đẩy thực vật được nhấp chọn sang giai đoạn phát triển tiếp theo"
+  },
+  {
+    "key": "dev_tooltip_set_pregnant_animal",
+    "type": 0,
+    "en": "Force pregnancy on female animal on mouse click.",
+    "vi": "Buộc con thú cái mang thai tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_give_birth_animal",
+    "type": 0,
+    "en": "Completes pregnancy for female animal on mouse click.",
+    "vi": "Cho con thú cái sinh nở ngay lập tức tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_finish_animal_production",
+    "type": 0,
+    "en": "Force completion of animal production on mouse click.",
+    "vi": "Hoàn thành ngay việc thu hoạch sản vật từ động vật"
+  },
+  {
+    "key": "resource_name_fish_pike",
+    "type": 0,
+    "en": "Pike ",
+    "vi": "Cá Chó Sông"
+  },
+  {
+    "key": "resource_name_fish_trout",
+    "type": 0,
+    "en": "Trout",
+    "vi": "Cá Hồi Suối"
+  },
+  {
+    "key": "dev_select_plant",
+    "type": 0,
+    "en": "Choose plant to spawn:",
+    "vi": "Chọn thực vật cần tạo:"
+  },
+  {
+    "key": "dev_tooltip_plant",
+    "type": 0,
+    "en": "Spawns chosen plant on mouse click.",
+    "vi": "Tạo thực vật đã chọn tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_resourceCtg",
+    "type": 0,
+    "en": "Spawns every resource from the chosen category on mouse click.",
+    "vi": "Tạo mọi tài nguyên thuộc danh mục đã chọn tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_select_resourceCtg",
+    "type": 0,
+    "en": "Choose resource category to spawn:",
+    "vi": "Chọn danh mục tài nguyên cần tạo:"
+  },
+  {
+    "key": "dev_tooltip_resource",
+    "type": 0,
+    "en": "Spawns the maximum stack of chosen resource on mouse click.",
+    "vi": "Tạo chồng tài nguyên đã chọn với số lượng tối đa tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_select_resource",
+    "type": 0,
+    "en": "Choose resource to spawn:",
+    "vi": "Chọn tài nguyên cần tạo:"
+  },
+  {
+    "key": "dev_tooltip_animal_pet",
+    "type": 0,
+    "en": "Spawns chosen animal on mouse click as a pet.",
+    "vi": "Tạo con vật đã chọn làm thú cưng tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_animal_domestic",
+    "type": 0,
+    "en": "Spawns chosen domesticated animal on mouse click.",
+    "vi": "Tạo động vật nuôi đã thuần hóa tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_animal",
+    "type": 0,
+    "en": "Spawns chosen animal as wild on mouse click.",
+    "vi": "Tạo động vật hoang dã tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_tooltip_wild_aggressive_animals",
+    "type": 0,
+    "en": "Spawns chosen animal as wild aggressive on mouse click.",
+    "vi": "Tạo động vật hoang dã hung dữ tại vị trí nhấp chuột"
+  },
+  {
+    "key": "dev_wild_animals",
+    "type": 0,
+    "en": "Wild Animals",
+    "vi": "Động Vật Hoang Dã"
+  },
+  {
+    "key": "dev_domestic_animals",
+    "type": 0,
+    "en": "Domestic Animals",
+    "vi": "Gia Súc Gia Cầm Thuần Hóa"
+  },
+  {
+    "key": "dev_pet_animals",
+    "type": 0,
+    "en": "Pet Animals",
+    "vi": "Thú Cưng"
+  },
+  {
+    "key": "dev_wild_aggressive_animals",
+    "type": 0,
+    "en": "Wild Aggressive Animals",
+    "vi": "Dã Thú Hung Dữ"
+  },
+  {
+    "key": "resource_category_name_CtgAll",
+    "type": 0,
+    "en": "All",
+    "vi": "Tất Cả Danh Mục"
+  },
+  {
+    "key": "resource_name_heater_shield",
+    "type": 0,
+    "en": "Shield",
+    "vi": "Khiên Tam Giác Hiệp Sĩ"
+  },
+  {
+    "key": "resource_name_macabre_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Vương Miện Khung Xương"
+  },
+  {
+    "key": "resource_name_druid_crown",
+    "type": 0,
+    "en": "Crown",
+    "vi": "Vương Miện Lá Sồi Druid"
+  },
+  {
+    "key": "resource_name_mirror_wall",
+    "type": 0,
+    "en": "Wall Mirror",
+    "vi": "Gương Soi Treo Tường"
+  },
+  {
+    "key": "resource_name_stone_statue_large",
+    "type": 0,
+    "en": "Large Statue (Limestone)",
+    "vi": "Tượng Đá Vôi Lớn"
+  },
+  {
+    "key": "resource_name_wood_statue_large",
+    "type": 0,
+    "en": "Large Statue (Wood)",
+    "vi": "Tượng Gỗ Lớn"
+  },
+  {
+    "key": "resource_name_stone_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Limestone)",
+    "vi": "Phù Điêu Đá Treo Tường"
+  },
+  {
+    "key": "resource_name_wood_statue_wall",
+    "type": 0,
+    "en": "Wall Relief (Wood)",
+    "vi": "Phù Điêu Gỗ Treo Tường"
+  },
+  {
+    "key": "resource_name_rug_large",
+    "type": 0,
+    "en": "Rug (Linen)",
+    "vi": "Thảm Trải Sàn Vải Lanh"
+  },
+  {
+    "key": "resource_name_hay_rug_large",
+    "type": 0,
+    "en": "Rush Matting",
+    "vi": "Chiếu Cói Bện Rơm"
+  },
+  {
+    "key": "resource_name_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Wall Tapestry",
+    "vi": "Thảm Dệt Nghệ Thuật Treo Tường"
+  },
+  {
+    "key": "resource_name_painting_vertical_wall",
+    "type": 0,
+    "en": "Painting",
+    "vi": "Bức Tranh Sơn Dầu Treo Tường"
+  },
+  {
+    "key": "menu_AnimalWild",
+    "type": 0,
+    "en": "Animal Wildness",
+    "vi": "Độ Hoang Dã Của Động Vật"
+  },
+  {
+    "key": "menu_AnimalUntrained",
+    "type": 0,
+    "en": "Animal Untrainedness",
+    "vi": "Độ Chưa Thuần Thục Của Động Vật"
+  },
+  {
+    "key": "dev_event_group_AnimalMiscSmall",
+    "type": 0,
+    "en": "Group of Animals",
+    "vi": "Bầy Động Vật Nhỏ"
+  },
+  {
+    "key": "dev_event_group_AnimalWildLarge",
+    "type": 0,
+    "en": "Large Wild Animal",
+    "vi": "Dã Thú Hoang Dã Cỡ Lớn"
+  },
+  {
+    "key": "dev_event_group_AnimalDomesticSingle",
+    "type": 0,
+    "en": "Domestic Animal",
+    "vi": "Gia Súc Thuần Hóa"
+  },
+  {
+    "key": "dev_event_group_AnimalBearSingle",
+    "type": 0,
+    "en": "Bear",
+    "vi": "Gấu Rừng"
+  },
+  {
+    "key": "dev_relocate_animal_idle_points",
+    "type": 0,
+    "en": "Relocate Animal Idle Points",
+    "vi": "Chuyển Đổi Điểm Nghỉ Ngơi Của Động Vật"
+  },
+  {
+    "key": "dev_tooltip_relocate_animal_idle_points",
+    "type": 0,
+    "en": "Refreshes and randomly relocates all animal idle points.",
+    "vi": "Làm mới và chuyển đổi ngẫu nhiên các điểm nằm nghỉ ngơi của động vật"
+  },
+  {
+    "key": "dev_plants",
+    "type": 0,
+    "en": "Plants",
+    "vi": "Cây Trồng & Thực Vật"
+  },
+  {
+    "key": "dev_spawn_mature_plant",
+    "type": 0,
+    "en": "Spawn Mature Plant on Point",
+    "vi": "Tạo Cây Trưởng Thành Tại Điểm Chỉ Định"
+  },
+  {
+    "key": "dev_tooltip_spawn_mature_plant",
+    "type": 0,
+    "en": "Spawns a fully grown plant on point",
+    "vi": "Tạo một cây trồng đã phát triển trọn vẹn tại vị trí nhấp chuột"
+  }
+]

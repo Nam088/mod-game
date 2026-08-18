@@ -1,0 +1,902 @@
+[
+  {
+    "key": "resource_name_bread",
+    "type": 0,
+    "en": "Bread",
+    "vi": "Bánh Mì Nướng"
+  },
+  {
+    "key": "resource_name_lavish_roasted_meat",
+    "type": 0,
+    "en": "Lavish Meat Roast",
+    "vi": "Thịt Quay Thịnh Soạn"
+  },
+  {
+    "key": "resource_name_lavish_roasted_meat_human",
+    "type": 0,
+    "en": "Lavish Human Roast",
+    "vi": "Thịt Người Quay Thịnh Soạn"
+  },
+  {
+    "key": "resource_name_lavish_roasted_fish",
+    "type": 0,
+    "en": "Lavish Seafood Treat",
+    "vi": "Món Cá Nướng Thịnh Soạn"
+  },
+  {
+    "key": "resource_name_fruit_pie",
+    "type": 0,
+    "en": "Fruit Pie",
+    "vi": "Bánh Nướng Nhân Trái Cây"
+  },
+  {
+    "key": "resource_name_meat_pie",
+    "type": 0,
+    "en": "Meat Pie",
+    "vi": "Bánh Nướng Nhân Thịt"
+  },
+  {
+    "key": "resource_name_buiskets",
+    "type": 0,
+    "en": "Scones",
+    "vi": "Bánh Scone Nướng"
+  },
+  {
+    "key": "resource_name_cheese_pie",
+    "type": 0,
+    "en": "Tart de Bry",
+    "vi": "Bánh Tart Phô Mai (Tart de Bry)"
+  },
+  {
+    "key": "resource_name_fish_pie",
+    "type": 0,
+    "en": "Fish Pie",
+    "vi": "Bánh Nướng Nhân Cá"
+  },
+  {
+    "key": "resource_name_sauteed_fruits_vegetables",
+    "type": 0,
+    "en": "Pottage",
+    "vi": "Cháo Hầm Rau Củ (Pottage)"
+  },
+  {
+    "key": "resource_name_honey_glazed_vegetables",
+    "type": 0,
+    "en": "Honey-glazed Vegetables",
+    "vi": "Rau Củ Áp Chảo Phủ Mật Ong"
+  },
+  {
+    "key": "resource_name_fruit_puding",
+    "type": 0,
+    "en": "Fruit Pudding",
+    "vi": "Bánh Pudding Trái Cây"
+  },
+  {
+    "key": "resource_name_fruit_cheese",
+    "type": 0,
+    "en": "Cheese and Fruit Platter",
+    "vi": "Đĩa Phô Mai Kèm Trái Cây"
+  },
+  {
+    "key": "resource_name_honey_glazed_fruit",
+    "type": 0,
+    "en": "Sweetmeat",
+    "vi": "Kẹo Trái Cây Ngào Mật Ong"
+  },
+  {
+    "key": "resource_info_stewed_fruit",
+    "type": 0,
+    "en": "All and any fruits can be stewed a little to make this simple meal, which doubles as a sauce.",
+    "vi": "Mọi loại trái cây đều có thể ninh nhừ nhỏ lửa để tạo thành món ăn thơm ngon này, vừa dùng làm món tráng miệng vừa làm sốt chấm tuyệt hảo."
+  },
+  {
+    "key": "resource_info_vegetable_stew",
+    "type": 0,
+    "en": "Peasant food - a mix of leaves and grains, simmered. Serve with bread.",
+    "vi": "Món ăn dân dã của nhà nông — hỗn hợp rau xanh và các loại củ ninh nhừ kỹ lưỡng. Thưởng thức tuyệt nhất cùng bánh mì nướng giòn."
+  },
+  {
+    "key": "resource_info_cooked_grain",
+    "type": 0,
+    "en": "An unappetising, yet necessary staple of peasant life. Weak gruel signifies hunger and hardship.",
+    "vi": "Cháo ngũ cốc nghiền nấu nóng hổi. Món ăn giản dị giúp làm ấm bụng những người dân lao động trong buổi sáng sương lạnh."
+  },
+  {
+    "key": "resource_info_roasted_fish",
+    "type": 0,
+    "en": "Simple and delicious. The catch of the day, gutted, baked and served. ",
+    "vi": "Đơn giản mà thơm ngon. Cá tươi vừa đánh bắt được làm sạch, nướng chín tới và dọn ra đĩa."
+  },
+  {
+    "key": "resource_info_sauteed_fruits",
+    "type": 0,
+    "en": "Prepared with ripe, fresh fruit to tantalise the tastebuds. Mouthwatering.",
+    "vi": "Chế biến từ trái cây tươi chín mọng để đánh thức vị giác. Thơm ngon ứa nước miếng."
+  },
+  {
+    "key": "resource_info_lavish_vegetable_stew",
+    "type": 0,
+    "en": "Never has a humble vegetable been so exalted. A hearty repast, seasoned to perfection.",
+    "vi": "Chưa từng có món rau củ mộc mạc nào được nâng tầm đến thế. Bữa ăn thịnh soạn, nêm nếm gia vị đạt đến độ hoàn hảo."
+  },
+  {
+    "key": "resource_info_bread",
+    "type": 0,
+    "en": "From fine white pandemain to a stale old trencher, bread is a staple food we pray for daily.",
+    "vi": "Thực phẩm giàu dinh dưỡng giúp dân làng no bụng và tăng cường thể lực."
+  },
+  {
+    "key": "resource_info_lavish_roasted_meat",
+    "type": 0,
+    "en": "Juicy and tender, with crisp and delicious skin. Savoury and satisfying.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_lavish_roasted_meat_human",
+    "type": 0,
+    "en": "Once tasted, never forgotten. Pairs well with broad beans and an Italian red wine, if you can get it.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_lavish_roasted_fish",
+    "type": 0,
+    "en": "Salted, spiced and soaked in verjuice, this fresh seafood dish is a delicacy.",
+    "vi": "Ướp muối, thêm thảo mộc cay nồng và ngâm trong nước nho xanh chua thanh, món hải sản tươi ngon này là cao lương mỹ vị."
+  },
+  {
+    "key": "resource_info_fruit_pie",
+    "type": 0,
+    "en": "Brushed with melted butter and adorned with spices, this pie has elevated humble fruit into a divine dessert.",
+    "vi": "Quết bơ đun chảy thơm lừng và rắc gia vị ngào ngạt, chiếc bánh nướng này đã nâng tầm trái cây dân dã thành món tráng miệng thượng hạng."
+  },
+  {
+    "key": "resource_info_meat_pie",
+    "type": 0,
+    "en": "A tough coffyn of pastry stuffed with tasty meat. Portable and palatable.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_buiskets",
+    "type": 0,
+    "en": "A fluffy baked treat, served with clotted cream then jam. Or jam then cream, if you venture beyond the River Tamar.",
+    "vi": "Bánh nướng xốp mềm thơm phức, thưởng thức cùng lớp kem đông béo ngậy rồi phết mứt ngọt ngào."
+  },
+  {
+    "key": "resource_info_cheese_pie",
+    "type": 0,
+    "en": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne.",
+    "vi": "Bánh tart phô mai béo ngậy ngọt dịu trong lớp vỏ bánh giòn rụm, món ăn ưa thích của hoàng đế Charlemagne."
+  },
+  {
+    "key": "resource_info_fish_pie",
+    "type": 0,
+    "en": "A solid case conceals the tenderest, flaky fish in a rich sauce. Scrumptious.",
+    "vi": "Lớp vỏ bánh dày giòn ẩn giấu những thớ thịt cá mềm ngọt nhất ngập trong nước sốt đậm đà. Ngon tuyệt trần."
+  },
+  {
+    "key": "resource_info_sauteed_fruits_vegetables",
+    "type": 0,
+    "en": "What's in a pottage? A bit of everything. If it grows, then into the pot it goes.",
+    "vi": "Có gì trong nồi súp hầm? Mỗi thứ một chút. Hễ thứ gì trồng được là đều cho vào nồi ninh nhừ."
+  },
+  {
+    "key": "resource_info_honey_glazed_vegetables",
+    "type": 0,
+    "en": "Boiled until soft then glazed with honey and saffron, which imparts an earthy sweetness on roasting.",
+    "vi": "Luộc cho mềm rồi tráng lớp mật ong vàng óng cùng nhụy hoa nghệ tây, mang lại vị ngọt đậm đà tự nhiên khi nướng xém cạnh."
+  },
+  {
+    "key": "resource_info_fruit_puding",
+    "type": 0,
+    "en": "Baked, whisked and spiced, fruit becomes the dreamiest of confections - a pudding.",
+    "vi": "Nướng chín, đánh bông xốp và ướp gia vị nồng nàn, trái cây biến thành món ngọt mơ màng nhất - bánh pudding."
+  },
+  {
+    "key": "resource_info_fruit_cheese",
+    "type": 0,
+    "en": "Tempting fruits and delectable dairy products combine to satisfy the senses, and the stomach.",
+    "vi": "Trái cây ngọt lịm kết hợp cùng các sản phẩm bơ sữa thơm ngon giúp thỏa mãn cả vị giác lẫn chiếc bụng đói."
+  },
+  {
+    "key": "resource_info_honey_glazed_fruit",
+    "type": 0,
+    "en": "Glistening like an edible jewel - a sweetmeat of honeyed fruit is a treat beyond compare.",
+    "vi": "Lấp lánh như viên ngọc ăn được - món hoa quả ngào mật ong thơm nức là thức quà ngọt ngào vô song."
+  },
+  {
+    "key": "resource_name_burn_animal",
+    "type": 0,
+    "en": "Burn Animal",
+    "vi": "Burn Động vật"
+  },
+  {
+    "key": "resources info",
+    "type": 0,
+    "en": "",
+    "vi": "Tài nguyên"
+  },
+  {
+    "key": "resource_info_dirt",
+    "type": 0,
+    "en": "Good soil is like black gold.",
+    "vi": "Đất trồng màu mỡ quý giá chẳng khác nào vàng đen."
+  },
+  {
+    "key": "resource_info_advanced_research_book",
+    "type": 0,
+    "en": "A thoughtful and erudite volume. The research on these pages is invaluable.",
+    "vi": "Một cuốn sách uyên bác chứa đựng nhiều suy tưởng sâu xa. Những nghiên cứu trên từng trang giấy này là vô giá."
+  },
+  {
+    "key": "resource_info_alcohol",
+    "type": 0,
+    "en": "Brewed carefully to a secret recipe derived by monks, or possibly arabs, this is a powerful Aqua Vitae.",
+    "vi": "Chưng cất cẩn thận theo công thức bí truyền của các tu sĩ, đây là thứ Rượu của Sự Sống đầy uy lực."
+  },
+  {
+    "key": "resource_info_rough_wine",
+    "type": 0,
+    "en": "Rough sour wine. If there's nothing else to drink, it will suffice.",
+    "vi": "Đồ uống có cồn thơm ngon giúp giải khát và nâng cao tinh thần cho dân làng."
+  },
+  {
+    "key": "resource_info_beer",
+    "type": 0,
+    "en": "Brewed to perfection. A nutritious and thirst-quenching beverage.",
+    "vi": "Bia thơm đắng nhẹ ủ cùng hoa bia, giúp giải tỏa cơn khát và xua tan mệt mỏi sau ngày dài lao động."
+  },
+  {
+    "key": "resource_info_ale",
+    "type": 0,
+    "en": "The strength of your drink is marked in Xs on the barrel by the monk or alewife who brewed it.",
+    "vi": "Loại bia ale truyền thống nấu từ lúa mạch lên men, thứ đồ uống giải khát không thể thiếu của mọi dân làng."
+  },
+  {
+    "key": "resource_info_ash",
+    "type": 0,
+    "en": "After the fire, humble ashes have many uses, from enriching garden soils to pottery glazes and soap.",
+    "vi": "Sau ngọn lửa tàn, tro than khiêm nhường có vô số công dụng, từ làm phân bón vườn tược đến men gốm và làm xà phòng."
+  },
+  {
+    "key": "resource_info_barley",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing barley water. Use as feed to fatten poultry.",
+    "vi": "Loại ngũ cốc đa dụng dùng làm bánh mì, nấu cháo hoặc nước lúa mạch giải khát. Dùng làm thức ăn vỗ béo gia cầm."
+  },
+  {
+    "key": "resource_info_basic_research_book",
+    "type": 0,
+    "en": "Simple tales and facts laid down on skin.",
+    "vi": "Những câu chuyện và sự thật đơn sơ được ghi chép cẩn thận trên giấy da thuộc."
+  },
+  {
+    "key": "resource_info_beet",
+    "type": 0,
+    "en": "Hardy and easy to grow in your garden, be that hovel or manor.",
+    "vi": "Củ dền cứng cáp và dễ trồng trong vườn nhà, dù là túp lều tranh hay thái ấp trang viên."
+  },
+  {
+    "key": "resource_info_bone_meal",
+    "type": 0,
+    "en": "Your crops will grow strong if you fertilize the soil with ground bones.",
+    "vi": "Thực phẩm giàu dinh dưỡng giúp dân làng no bụng và tăng cường thể lực."
+  },
+  {
+    "key": "resource_info_bones",
+    "type": 0,
+    "en": "If you lack the time to carve these mortal remains, at least grind them up for fertilizer.",
+    "vi": "Nếu bạn không có thời gian chạm khắc xương cốt này, ít nhất hãy nghiền vụn ra làm phân bón cho cây trồng."
+  },
+  {
+    "key": "resource_info_cabbage",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. Boil and serve with butter, if you have it.",
+    "vi": "Loại rau bắp cải khiêm tốn và là lương thực chủ lực của mọi nhà. Luộc chín và thưởng thức cùng bơ béo ngậy."
+  },
+  {
+    "key": "resource_info_carrot",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "Củ cải đỏ giòn ngọt và giàu dưỡng chất. Có thể bảo quản cất giữ để dùng dần."
+  },
+  {
+    "key": "resource_info_clay",
+    "type": 0,
+    "en": "Basic construction material dug from a clay pit. One of the oldest building materials.",
+    "vi": "Vật liệu xây dựng cơ bản đào từ hố đất sét. Một trong những vật liệu xây dựng cổ xưa nhất."
+  },
+  {
+    "key": "resource_info_clay_brick",
+    "type": 0,
+    "en": "A humble brick. Construct walls to keep your kin gathered in and your enemies at bay.",
+    "vi": "Viên gạch đất sét mộc mạc. Xây tường thành để bảo vệ người thân và ngăn chặn kẻ thù."
+  },
+  {
+    "key": "resource_info_compost",
+    "type": 0,
+    "en": "Let Mother Nature do her work. Rot down food scraps and detrius to create rich compost to help grow plants.",
+    "vi": "Hãy để Mẹ Thiên Nhiên làm công việc của mình. Thức ăn thừa và rác hữu cơ ủ mục tạo thành lớp phân bón màu mỡ giúp cây trồng tươi tốt."
+  },
+  {
+    "key": "resource_info_deer_carcass",
+    "type": 0,
+    "en": "To be harvested, hung and butchered. Yields delicious venison, and useful hide.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_dung",
+    "type": 0,
+    "en": "An unavoidable resource where animals are kept. Best deployed as fertiliser, or fuel.",
+    "vi": "Tài nguyên không thể tránh khỏi nơi chăn nuôi động vật. Tốt nhất nên dùng làm phân bón hoặc chất đốt."
+  },
+  {
+    "key": "resource_info_dungbrick",
+    "type": 0,
+    "en": "When wood is scarce, dried animal dung will suffice as fuel for the fire.",
+    "vi": "Khi củi gỗ khan hiếm, phân gia súc phơi khô đóng bánh sẽ là chất đốt hiệu quả để giữ ấm ngọn lửa."
+  },
+  {
+    "key": "resource_info_gold",
+    "type": 0,
+    "en": "Malleable, incorruptable metal for crosses, crowns and coin. The ultimate goal of alchemists.",
+    "vi": "Kim loại dẻo dai bất hoại dùng để đúc thánh giá, vương miện và tiền xu. Mục tiêu tối thượng của các nhà giả kim."
+  },
+  {
+    "key": "resource_info_gold_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a golden aura. Ready for smithing.",
+    "vi": "Thỏi kim loại nguyên chất tỏa ánh hào quang hoàng gia. Sẵn sàng cho công việc rèn đúc."
+  },
+  {
+    "key": "resource_info_gunpowder",
+    "type": 0,
+    "en": "Wisdom from the Orient, this magical powder is made of sulfur, saltpetre and charcoal. Deployed in thundering cannons at Crécy.",
+    "vi": "Tri thức từ phương Đông, loại bột ma thuật này được làm từ lưu huỳnh, diêm tiêu và than củi. Từng khai hỏa sấm sét tại trận Crécy."
+  },
+  {
+    "key": "resource_info_hare_carcass",
+    "type": 0,
+    "en": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_hay",
+    "type": 0,
+    "en": "Cutting grass and drying it for the winter is the best way to feed your animals.",
+    "vi": "Cắt cỏ và phơi khô cho mùa đông là cách tốt nhất để nuôi sống đàn gia súc của bạn."
+  },
+  {
+    "key": "resource_info_healing_kit",
+    "type": 0,
+    "en": "A comprehensive medical kit complete with everything you need to treat most medical issues. (Leeches not included.)",
+    "vi": "Bộ dụng cụ y tế hoàn chỉnh với mọi thứ bạn cần để điều trị hầu hết các vấn đề y tế. (Không kèm theo đỉa hút máu.)"
+  },
+  {
+    "key": "resource_info_healing_kit_advanced",
+    "type": 0,
+    "en": "Drawing on herbal wisdom and Oxford learning, this contains preparations for all imbalances of the humours, and even battle wounds.",
+    "vi": "Kết hợp từ trí tuệ thảo mộc dân gian và học thuật Oxford, bộ này chứa các chế phẩm trị mất cân bằng dịch thể và vết thương chiến trận hiểm nghèo."
+  },
+  {
+    "key": "resource_info_healing_kit_simple",
+    "type": 0,
+    "en": "A simple pack of herbs and bandages. For minor scrapes and bruises, and common ailments.",
+    "vi": "Gói thuốc thảo mộc và băng gạc đơn giản. Dùng cho các vết trầy xước, bầm tím nhẹ và bệnh tật thông thường."
+  },
+  {
+    "key": "resource_info_herbs",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Các loài thực vật thu hái từ tự nhiên với vô số công dụng, từ nêm nếm thức ăn đến chữa bệnh, nấu rượu và nhuộm vải."
+  },
+  {
+    "key": "resource_info_honey",
+    "type": 0,
+    "en": "To sweeten any dish or make mead. Used in medicinal and herbal preparations, internal and external.",
+    "vi": "Dùng để làm ngọt mọi món ăn hoặc nấu rượu mật ong mead. Được dùng trong nhiều bài thuốc dân gian."
+  },
+  {
+    "key": "resource_info_human_carcass",
+    "type": 0,
+    "en": "What remains when we have shuffled off this mortal coil.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_iron",
+    "type": 0,
+    "en": "Mined iron ore. Must be processed before smithing into tools, weapons and armour.",
+    "vi": "Quặng sắt vừa đào từ lòng đất. Cần được nung luyện trước khi rèn thành công cụ, vũ khí và giáp trụ."
+  },
+  {
+    "key": "resource_info_iron_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a subtle sheen. Ready for smithing.",
+    "vi": "Khối sắt nguyên chất ánh kim mờ. Sẵn sàng đưa lên đe rèn."
+  },
+  {
+    "key": "resource_info_lavish_meal",
+    "type": 0,
+    "en": "Pies and roasts and jellies and sweetmeats... dine like a baron and savour every morsel.",
+    "vi": "Bữa đại tiệc thịnh soạn gồm nhiều món ăn thượng hạng, giúp dân làng cảm thấy vô cùng hạnh phúc và phấn chấn."
+  },
+  {
+    "key": "resource_info_leather",
+    "type": 0,
+    "en": "Hides become more useful after the tanner turns them into buttery leather.",
+    "vi": "Da động vật trở nên hữu dụng và mềm mại hơn sau khi thợ thuộc da xử lý bằng dầu và chất chát."
+  },
+  {
+    "key": "resource_info_limestone",
+    "type": 0,
+    "en": "An essential quarried stone building material, made from the bodies of ancient sea creatures. Used to make quicklime.",
+    "vi": "Vật liệu xây dựng khai thác từ mỏ đá, hình thành từ xác sinh vật biển cổ đại. Dùng để nung vôi sống."
+  },
+  {
+    "key": "resource_info_limestone_block",
+    "type": 0,
+    "en": "A dressed stone brick made from quarried limestone.",
+    "vi": "Khối đá vôi được đẽo gọt vuông vức từ mỏ đá, thích hợp xây tường kiên cố."
+  },
+  {
+    "key": "resource_info_linen_cloth",
+    "type": 0,
+    "en": "If you can grow flax, spin it, and weave it, and bleach it with lye for a white finish. Beautiful, all-purpose cloth.",
+    "vi": "Dệt từ sợi lanh kéo mịn và tẩy trắng bằng nước tro. Loại vải đẹp đẽ, thoáng mát và đa dụng."
+  },
+  {
+    "key": "resource_info_meat",
+    "type": 0,
+    "en": "Dry salt or cure it for later. Better yet, lard well and add to the pot, or roast it. Delicious.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_normal_research_book",
+    "type": 0,
+    "en": "Some thought has gone into this tome. A useful guide.",
+    "vi": "Cuốn sách chứa đựng nhiều nghiên cứu sâu sắc. Là tài liệu chỉ dẫn quý giá."
+  },
+  {
+    "key": "resource_info_packaged_meal",
+    "type": 0,
+    "en": "Hunting or working in the fields can really build up a hunger. A cold, wrapped meal will keep you going.",
+    "vi": "Lương khô đóng gói kỹ càng, tiện lợi mang theo trong các chuyến hành trình dài hoặc tuần tra bảo vệ biên giới."
+  },
+  {
+    "key": "resource_info_pickled_vegetable",
+    "type": 0,
+    "en": "Vegetables stored in salt water or vinegar will keep for lean times.",
+    "vi": "Rau củ ngâm trong nước muối hoặc giấm chua, giúp bảo quản lương thực cho những ngày tháng giáp hạt."
+  },
+  {
+    "key": "resource_info_quicklime",
+    "type": 0,
+    "en": "An alkaline powder made by burning limestone in a lime kiln.",
+    "vi": "Bột kiềm màu trắng được tạo ra bằng cách nung đá vôi trong lò nung vôi."
+  },
+  {
+    "key": "resource_info_redcurrant",
+    "type": 0,
+    "en": "Bittersweet and delicious with venison. The French remove the seeds with a goose quill, and boil them to make jelly.",
+    "vi": "Quả lý chua đỏ chua ngọt hài hòa, rất ngon khi ăn kèm thịt nai. Người Pháp dùng lông ngỗng tách hạt rồi đun làm mứt thạch."
+  },
+  {
+    "key": "resource_info_roasted_meat",
+    "type": 0,
+    "en": "Nothing could be more delicious than fresh, succulent roast meat. A noble meal.",
+    "vi": "Thịt tảng xèo xèo trên lửa than hồng. Dậy mùi khói thơm lừng và tràn đầy năng lượng sinh tồn."
+  },
+  {
+    "key": "resource_info_salt",
+    "type": 0,
+    "en": "Precious salt for preserving food is a cornerstone of civilization. Brine springs emerge in English towns ending -wich or -wych.",
+    "vi": "Muối quý giá dùng để bảo quản thực phẩm, nền tảng của mọi nền văn minh."
+  },
+  {
+    "key": "resource_info_saltpeter",
+    "type": 0,
+    "en": "A mineral for preserving meat. It is said experiments with this salt at the Tower of London have caused explosions.",
+    "vi": "Khoáng chất dùng để bảo quản thịt. Tương truyền các thí nghiệm với loại muối này tại Tháp London từng gây ra những vụ nổ kinh hoàng."
+  },
+  {
+    "key": "resource_info_silver",
+    "type": 0,
+    "en": "A fine, soft metal to be worked into coins or jewellery. May deflect the attentions of malicious faeries.",
+    "vi": "Kim loại mềm thanh khiết dùng để đúc tiền hoặc chế tác trang sức tinh xảo. Có thể xua đuổi các linh hồn tà ác."
+  },
+  {
+    "key": "resource_info_smoked_meat",
+    "type": 0,
+    "en": "Lean meat, sliced, brined and dried slowly over a wood fire. Can be stored for several months.",
+    "vi": "Những dải thịt được hun khói bằng gỗ sồi nhiều ngày, dẻo dai và bảo quản được cả mùa đông dài."
+  },
+  {
+    "key": "resource_info_steel_ingot",
+    "type": 0,
+    "en": "A block of pure metal with a subtle sheen. Ready for smithing.",
+    "vi": "Thỏi thép tôi luyện sáng bóng và cứng rắn phi thường. Nguyên liệu tối thượng cho binh khí và áo giáp sắc bén."
+  },
+  {
+    "key": "resource_info_stew",
+    "type": 0,
+    "en": "Peasant food - a mix of leaves and grains, simmered. Serve with bread.",
+    "vi": "Món ăn của nông dân - hỗn hợp rau củ và ngũ cốc ninh nhừ. Ăn kèm với bánh mì rất ngon miệng."
+  },
+  {
+    "key": "resource_info_sticks",
+    "type": 0,
+    "en": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely.",
+    "vi": "Cành cây khô và củi đốt là nguồn tài nguyên dồi dào của rừng già, sẽ tự tái sinh nếu khai thác khôn ngoan."
+  },
+  {
+    "key": "resource_info_sulfur",
+    "type": 0,
+    "en": "Also known as brimstone, this is a powerful acid if mixed with water, and is used in gunpowder. Smells like the devil.",
+    "vi": "Còn gọi là đá lưu huỳnh, có tính axit mạnh khi trộn với nước và là thành phần chế thuốc súng. Có mùi nồng đặc trưng."
+  },
+  {
+    "key": "resource_info_meat_rot",
+    "type": 0,
+    "en": "There is no mistaking the foetid stench of meat that has gone bad.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_vegetable_rot",
+    "type": 0,
+    "en": "Waste not, want not, they say. Spoiled vegetables are only good for compost.",
+    "vi": "Rau củ hỏng không còn ăn được, nhưng rất thích hợp để đưa vào hố ủ phân hữu cơ."
+  },
+  {
+    "key": "resource_info_vinegar",
+    "type": 0,
+    "en": "Wine or beer turned sour. No need to waste it, you can use it in cooking and pickling.",
+    "vi": "Rượu vang hoặc bia lên men chua. Rất hữu ích trong nấu nướng và muối chua bảo quản thực phẩm."
+  },
+  {
+    "key": "resource_info_wolf_carcass",
+    "type": 0,
+    "en": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_wood",
+    "type": 0,
+    "en": "Timber and firewood are the riches of the forest, a resource that regrows if managed wisely.",
+    "vi": "Gỗ súc và củi đun là báu vật của rừng rậm, nguồn tài nguyên tái tạo nếu được quản lý khôn ngoan."
+  },
+  {
+    "key": "resource_info_wool_cloth",
+    "type": 0,
+    "en": "The English and Flemish grow the best wool. Woven finely and dyed, it is sought after for warm clothing and blankets.",
+    "vi": "Người Anh và người Flemish dệt nên loại len tốt nhất. Dệt mịn và nhuộm màu, rất được ưa chuộng để may áo ấm và chăn dày."
+  },
+  {
+    "key": "resource_info_mechanical_parts",
+    "type": 0,
+    "en": "A collection of cogs and sprockets, axles and chains. The guts of a machine.",
+    "vi": "Tập hợp các bánh răng, đĩa xích, trục quay và dây xích. Trái tim của mọi cỗ máy cơ khí."
+  },
+  {
+    "key": "resource_info_coal",
+    "type": 0,
+    "en": "Burns at a much higher temperature than lumber. Most useful when creating steel.",
+    "vi": "Than đá cháy ở nhiệt độ cao hơn nhiều so với củi gỗ. Vô cùng hữu ích khi luyện thép."
+  },
+  {
+    "key": "resource_info_dubious_meal",
+    "type": 0,
+    "en": "Liberally spiced to disguise unsavoury flavours. Best not to ask cook what's in this.",
+    "vi": "Thực phẩm giàu dinh dưỡng giúp dân làng no bụng và tăng cường thể lực."
+  },
+  {
+    "key": "resource_info_enemy_carcass",
+    "type": 0,
+    "en": "What remains when we have shuffled off this mortal coil.",
+    "vi": "Nguồn thực phẩm và da thuộc giá trị sau khi được mổ xẻ tại bàn chế biến."
+  },
+  {
+    "key": "resource_info_apple",
+    "type": 0,
+    "en": "Tempting, autumn fruit. Tart and delicious in desserts such as muse and pie.",
+    "vi": "Trái cây mùa thu quyến rũ. Vị chua ngọt thanh tao rất hợp để làm các món tráng miệng như bánh nướng và chè nghiền."
+  },
+  {
+    "key": "resource_info_apple_cider",
+    "type": 0,
+    "en": "The boozy nectar brewed from apples, for wassailing, or to slake a thirst.",
+    "vi": "Thức uống có men nồng nàn ủ từ táo tươi, dùng trong các lễ hội cầu mùa hoặc giải tỏa cơn khát."
+  },
+  {
+    "key": "resource_info_apple_pie",
+    "type": 0,
+    "en": "Sweet, spiced apples, lovingly encased in a coffin of pastry. ",
+    "vi": "Táo ngào đường tẩm gia vị thơm lừng, bọc trong lớp vỏ bánh nướng giòn rụm béo ngậy."
+  },
+  {
+    "key": "resource_info_honey_biscuits",
+    "type": 0,
+    "en": "Crisp, wafer-thin, honey delights. How they are spun from honey alone is something of a culinary secret. Well worth a few bee stings.",
+    "vi": "Những chiếc bánh quy mật ong giòn tan mỏng dính. Công thức làm bánh từ mật ong là một bí quyết ẩm thực tuyệt vời."
+  },
+  {
+    "key": "resource_info_redcurrant_pie",
+    "type": 0,
+    "en": "Bright, tart, and bursting with flavour. Savour your currant harvest in a flaky pastry pie.",
+    "vi": "Bánh nướng quả lý chua đỏ tươi tắn, vị chua ngọt bùng nổ trong từng miếng vỏ bánh giòn tan."
+  },
+  {
+    "key": "resource_info_mead",
+    "type": 0,
+    "en": "An ancient, heady, honey wine. A libation to the Gods. May induce poetry.",
+    "vi": "Rượu mật ong cổ xưa say nồng. Thức uống dâng lên chư thần, khơi nguồn cảm hứng thi ca."
+  },
+  {
+    "key": "resource_info_silver_ingot",
+    "type": 0,
+    "en": "Refined silver, cast into uniform moulded blocks.",
+    "vi": "Thỏi bạc tinh khiết được đúc thành khối đồng đều. Sẵn sàng cho thợ kim hoàn chế tác."
+  },
+  {
+    "key": "resource_info_ice_block",
+    "type": 0,
+    "en": "Heavy, fragile, and liable to melt. Store underground with items you wish to keep chilled. ",
+    "vi": "Khối băng nặng, dễ vỡ và có thể tan chảy. Cần cất giữ dưới hầm ngầm cùng các vật phẩm muốn giữ lạnh."
+  },
+  {
+    "key": "resource_info_cabbage_seed",
+    "type": 0,
+    "en": "Once collected, cabbage seeds will keep for years. Easy to grow.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_carrot_seed",
+    "type": 0,
+    "en": "Collected from ripe seedheads on a carrot plant. Slow to germinate. ",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_beet_seed",
+    "type": 0,
+    "en": "Seeds gathered from the beet plant. Best planted in deep, well-drained soil.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_herbs_seed",
+    "type": 0,
+    "en": "Precious seed that you may use to grow a herb garden for cooking, or medicine.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_flax_seed",
+    "type": 0,
+    "en": "Shiny, golden seeds that may be sown for rope, or cloth.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_birch_sapling",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_oak_sapling",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_maple_sapling",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_pine_sapling",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_willow_sapling",
+    "type": 0,
+    "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_apple_sapling",
+    "type": 0,
+    "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
+    "vi": "Cây giống hoặc hạt mầm dùng để gieo trồng trên các thửa ruộng màu mỡ."
+  },
+  {
+    "key": "resource_info_tallow",
+    "type": 0,
+    "en": "Animal fat with a multitude of uses, from soap and candles to balms applied to the skin.",
+    "vi": "Mỡ động vật cô đặc có vô số công dụng, từ làm xà phòng, nến đến thuốc mỡ bôi da dưỡng ẩm."
+  },
+  {
+    "key": "resource_info_wax",
+    "type": 0,
+    "en": "Harvested from the hive. Used for candles, and making soothing ointments and balms.",
+    "vi": "Sáp ong thu hoạch từ tổ. Dùng để làm nến thắp sáng và các loại sáp thơm, thuốc mỡ xoa bóp."
+  },
+  {
+    "key": "resource_info_enemy_skull_trophy",
+    "type": 0,
+    "en": "Death was too merciful for this enemy. They still appear to be grinning.",
+    "vi": "Cái chết vẫn còn quá nhân từ cho kẻ thù này. Hộp sọ dường như vẫn đang nở nụ cười nhăn nhở."
+  },
+  {
+    "key": "resource_info_settler_skull_trophy",
+    "type": 0,
+    "en": "Alas, poor settler! A sorry reminder of our shared mortality.",
+    "vi": "Than ôi, dân làng xấu số! Một lời nhắc nhở buồn thương về kiếp nhân sinh ngắn ngủi của chúng ta."
+  },
+  {
+    "key": "resource_info_general_trophy",
+    "type": 0,
+    "en": "A decorative mounted memento of a slain beast. ",
+    "vi": "Vật phẩm lưu niệm trang trí gắn tường làm từ đầu của một dã thú bị hạ gục."
+  },
+  {
+    "key": "resource_info_egg_meal",
+    "type": 0,
+    "en": "Raisins, saffron, herbs, cheese...just a pinch may elevate a humble egg into a tasty treat.",
+    "vi": "Nho khô, nghệ tây tây phương, thảo mộc, phô mai... chỉ cần thêm một chút gia vị là quả trứng luộc giản dị đã trở thành món mỹ vị."
+  },
+  {
+    "key": "resource_info_milk_meal",
+    "type": 0,
+    "en": "Sweet, silky curds and whey. Use your creamiest milk and add a flourish of nutmeg.",
+    "vi": "Váng sữa béo ngậy mềm mịn như lụa. Hãy dùng loại sữa tươi béo nhất và rắc thêm chút bột nhục đậu khấu thơm lừng."
+  },
+  {
+    "key": "resource_info_milk",
+    "type": 0,
+    "en": "Creamy white and full of goodness. Spoils quickly if not kept cool.",
+    "vi": "Sữa tươi trắng ngậy và dồi dào dưỡng chất. Rất nhanh chua hỏng nếu không được bảo quản trong hầm chứa mát lạnh."
+  },
+  {
+    "key": "resource_info_egg_chicken",
+    "type": 0,
+    "en": "A symbol of life, the humble egg can be used in thousands of recipes.",
+    "vi": "Biểu tượng của sự sinh sôi nảy nở, quả trứng gà nhỏ bé có thể chế biến thành hàng ngàn món ăn ngon miệng."
+  },
+  {
+    "key": "resource_info_cheese",
+    "type": 0,
+    "en": "A staple food that gives milk longevity, in countless tasty varieties.",
+    "vi": "Nguồn lương thực chủ lực giúp lưu giữ sữa tươi dài lâu, với vô vàn phong vị thơm ngon béo ngậy."
+  },
+  {
+    "key": "resource_info_cheese_meal",
+    "type": 0,
+    "en": "Gooey, sweetened cheese tart in a crisp pie crust, beloved of Charlemagne.",
+    "vi": "Bánh tart phô mai nướng dẻo quánh ngọt ngào trong lớp vỏ bánh giòn tan, món khoái khẩu nổi danh của hoàng đế Charlemagne."
+  },
+  {
+    "key": "resource_info_fermenting_mash",
+    "type": 0,
+    "en": "Bubbling broth, yeasty and alive with a natural alchemy.",
+    "vi": "Hỗn hợp mạch nha sủi bọt ùng ục, dậy men sống động nhờ phép màu tự nhiên của quá trình ủ men."
+  },
+  {
+    "key": "resource_info_fermented_mash",
+    "type": 0,
+    "en": "A rough, malodorous brew. Unsavoury, yet intoxicating.",
+    "vi": "Mẻ ủ đã lên men nồng đượm. Hơi thô ráp và nặng mùi, nhưng chứa đầy chất men say bí tỉ."
+  },
+  {
+    "key": "resource_info_fermenting_ale",
+    "type": 0,
+    "en": "Steeped grain, boiled and now fermenting to yield our daily draught.",
+    "vi": "Ngũ cốc ngâm nước, đun sôi kỹ và đang trong quá trình lên men để tạo nên thứ bia ale giải khát hằng ngày."
+  },
+  {
+    "key": "resource_info_fermenting_beer",
+    "type": 0,
+    "en": "A malted barley mash releases flavourful sweetness, to then brew up with yeast.",
+    "vi": "Hỗn hợp mạch nha lúa mạch tỏa ra hương vị ngọt ngào đặc trưng, sẵn sàng để ủ lên men cùng nấm men bia."
+  },
+  {
+    "key": "resource_info_fermenting_fruit_juice",
+    "type": 0,
+    "en": "Summer's sweetness slowly transforming into heady wine.",
+    "vi": "Vị ngọt ngào của hoa quả mùa hè đang từ từ chuyển hóa thành những giọt rượu vang thơm nồng nàn."
+  },
+  {
+    "key": "resource_info_fermenting_mead",
+    "type": 0,
+    "en": "A soup of herbs and honey, bubbling towards a syrupy, heady wine.",
+    "vi": "Hỗn hợp thảo mộc và mật ong sủi bọt tăm tắp, chuyển mình thành thứ rượu mật ong sóng sánh thơm ngát."
+  },
+  {
+    "key": "resource_info_curdling_milk",
+    "type": 0,
+    "en": "Warmed and soured. The curds from creamy milk may be made into cheese.",
+    "vi": "Sữa tươi được làm ấm và lên men chua nhẹ. Váng sữa đông lại sẽ được ép khuôn thành những tảng phô mai béo ngậy."
+  },
+  {
+    "key": "resource_info_aged_wine",
+    "type": 0,
+    "en": "Time and cool darkness have worked their magic, revealing layers of character to savour.",
+    "vi": "Thời gian và bóng tối hầm lạnh đã tạo nên phép màu nhiệm màu, hé mở những tầng hương vị sâu lắng tinh tế để nhâm nhi thưởng thức."
+  },
+  {
+    "key": "resource_info_animal_feed",
+    "type": 0,
+    "en": "A nourishing blend of straw, vegetables and grain. Used to feed animals.",
+    "vi": "Hỗn hợp cám dinh dưỡng gồm rơm cỏ băm, rau củ và hạt ngũ cốc. Dùng làm thức ăn vỗ béo gia súc."
+  },
+  {
+    "key": "resource_info_dye",
+    "type": 0,
+    "en": "Nature's colour palette extracted from leaves, roots, oak galls, ores, and even the soil.",
+    "vi": "Bảng màu tự nhiên chiết xuất từ lá cây, rễ thảo mộc, bướu cây sồi, khoáng quặng và đất đỏ vùng cao."
+  },
+  {
+    "key": "resource_info_gold_coin",
+    "type": 0,
+    "en": "A golden Noble, engraved with the ship of a long-dead king. Melt it down, or spend it.",
+    "vi": "Đồng tiền vàng Noble danh giá khắc hình chiến thuyền của hoàng gia. Có thể nấu chảy đúc trang sức hoặc dùng giao thương buôn bán."
+  },
+  {
+    "key": "resource_info_fish_dish",
+    "type": 0,
+    "en": "Delicious fried, stuffed with butter and lovage.",
+    "vi": "Món cá chiên giòn rụm thơm lừng, nhồi bơ béo ngậy và lá cần núi thơm ngát."
+  },
+  {
+    "key": "resource_info_eel_meal",
+    "type": 0,
+    "en": "Serve fried, spiced and cooked in verjuice to create a tempting Saracen broth.",
+    "vi": "Món lươn chiên giòn, nêm nếm gia vị đậm đà và nấu cùng nước nho chua để tạo nên món súp hấp dẫn mang phong vị xứ Saracen."
+  },
+  {
+    "key": "resource_info_pike_fish",
+    "type": 0,
+    "en": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon.",
+    "vi": "Bạn sẽ cần một dây câu thật khỏe để kéo được con thủy quái này lên bờ. Thưởng thức tuyệt nhất cùng nước sốt Galentyne nêm quế cay nồng."
+  },
+  {
+    "key": "resource_info_trout_fish",
+    "type": 0,
+    "en": "Common enough where the waters are clear and small bugs plentiful.",
+    "vi": "Cá hồi chấm phổ biến ở vùng nước suối trong veo dồi dào phù du. Thịt ngọt mềm thanh đạm."
+  },
+  {
+    "key": "resource_info_eel",
+    "type": 0,
+    "en": "A staple for the pot at lent, our wriggly friend is also delicious fried.",
+    "vi": "Thực phẩm chủ lực cho nồi súp trong mùa Chay. Chú lươn trơn tuột này đem chiên giòn cũng vô cùng đưa miệng."
+  },
+  {
+    "key": "resource_info_smoked_fish",
+    "type": 0,
+    "en": "A catch preserved! Enjoy this flavoursome fish now, or store it for later.",
+    "vi": "Cá tươi đã được hun khói bảo quản kỹ lưỡng! Thưởng thức món cá thơm lừng này ngay hoặc cất dự trữ qua mùa đông."
+  },
+  {
+    "key": "resource_info_salted_eel",
+    "type": 0,
+    "en": "Slippery no more, these will keep.  Savour blaunche porre with leeks and honey later.",
+    "vi": "Không còn trơn trượt nữa, những con lươn ướp muối này sẽ bảo quản được rất lâu. Sau này đem nấu món súp tỏi tây mật ong tuyệt hảo."
+  },
+  {
+    "key": "resource_info_dummy",
+    "type": 0,
+    "en": "A strawman. The perfect stand-in enemy for practicing melee skills.",
+    "vi": "Hình nộm rơm. Mục tiêu giả hoàn hảo để dân làng luyện tập các thế võ và đường kiếm cận chiến."
+  },
+  {
+    "key": "resource_info_practice_target",
+    "type": 0,
+    "en": "Ever decreasing circles for accuracy practice in ranged attacks.",
+    "vi": "Bia ngắm hình tròn đồng tâm dùng để rèn luyện độ thiện xạ khi bắn cung và nỏ từ xa."
+  },
+  {
+    "key": "resource_info_water_bucket",
+    "type": 0,
+    "en": "A simple pail for transporting water.",
+    "vi": "Chiếc xô gỗ đơn giản dùng để múc và vận chuyển nước sạch cho sinh hoạt."
+  }
+]

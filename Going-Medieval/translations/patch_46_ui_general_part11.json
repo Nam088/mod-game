@@ -1,0 +1,902 @@
+[
+  {
+    "key": "killed_by_default_1",
+    "type": 0,
+    "en": "Killed by <other_name>",
+    "vi": "Bị sát hại bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_2",
+    "type": 0,
+    "en": "Wiped out by <other_name>",
+    "vi": "Bị tiêu diệt hoàn toàn bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_3",
+    "type": 0,
+    "en": "Obliterated by <other_name>",
+    "vi": "Bị xóa sổ bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_4",
+    "type": 0,
+    "en": "Slain by <other_name>",
+    "vi": "Bị hạ sát bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_5",
+    "type": 0,
+    "en": "Put to death by <other_name>",
+    "vi": "Bị xử tử bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_6",
+    "type": 0,
+    "en": "Slaughtered by <other_name>",
+    "vi": "Bị tàn sát bởi <other_name>"
+  },
+  {
+    "key": "killed_by_default_7",
+    "type": 0,
+    "en": "Terminated by <other_name>",
+    "vi": "Bị kết liễu bởi <other_name>"
+  },
+  {
+    "key": "village_location",
+    "type": 0,
+    "en": "Settlement Location",
+    "vi": "Vị Trí Khu Định Cư"
+  },
+  {
+    "key": "override_stats",
+    "type": 0,
+    "en": "Override stats",
+    "vi": "Ghi Đè Chỉ Số Nhân Vật"
+  },
+  {
+    "key": "villager_constraints",
+    "type": 0,
+    "en": "Settler Constraints",
+    "vi": "Ràng Buộc Dân Làng Khởi Đầu"
+  },
+  {
+    "key": "number_of_villagers",
+    "type": 0,
+    "en": "Number of Settlers",
+    "vi": "Số Lượng Dân Làng Khởi Đầu"
+  },
+  {
+    "key": "general_men",
+    "type": 0,
+    "en": "Men",
+    "vi": "Đàn Ông"
+  },
+  {
+    "key": "general_woman",
+    "type": 0,
+    "en": "Women",
+    "vi": "Phụ Nữ"
+  },
+  {
+    "key": "general_pagan",
+    "type": 0,
+    "en": "Oak Brethren",
+    "vi": "Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "general_christian",
+    "type": 0,
+    "en": "Restitutionist",
+    "vi": "Tín Đồ Phục Hưng"
+  },
+  {
+    "key": "unlocked_tech",
+    "type": 0,
+    "en": "Unlocked Tech",
+    "vi": "Công Nghệ Đã Mở Khóa"
+  },
+  {
+    "key": "starting_season",
+    "type": 0,
+    "en": "Starting Season",
+    "vi": "Mùa Bắt Đầu Khởi Hành"
+  },
+  {
+    "key": "map_size_info",
+    "type": 0,
+    "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
+    "vi": "Small maps provide a more focused Kinh nghiệm. \\nRecommended cho hardware at lower end của minimum specified requirement."
+  },
+  {
+    "key": "map_size_small_info",
+    "type": 0,
+    "en": "Small maps provide a more focused experience. \\nRecommended for hardware at the lower end of the minimum specified requirement.",
+    "vi": "Small maps provide a more focused Kinh nghiệm. \\nRecommended cho hardware at lower end của minimum specified requirement."
+  },
+  {
+    "key": "map_size_medium_info",
+    "type": 0,
+    "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
+    "vi": "Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
+  },
+  {
+    "key": "map_size_large_info",
+    "type": 0,
+    "en": "Larger maps offer more space and resources for your settlement to grow over time, but may impact frame rate for hardware at the lower end of the specified requirement.",
+    "vi": "Larger maps offer more space và resources cho your Khu định cư để grow over time, but may impact frame rate cho hardware at lower end của specified requirement."
+  },
+  {
+    "key": "game_mode_builder_title",
+    "type": 0,
+    "en": "<style=DefaultBlue>Peaceful</style>",
+    "vi": "<style=DefaultBlue>Hòa bình</style>"
+  },
+  {
+    "key": "game_mode_builder_info",
+    "type": 0,
+    "en": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers.",
+    "vi": "Không có các đợt tấn công của kẻ thù. Chọn chế độ này nếu bạn muốn tập trung xây dựng khu định cư và chăm lo cho đời sống dân làng."
+  },
+  {
+    "key": "game_mode_builder_narrative_1",
+    "type": 0,
+    "en": "<random_villager> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife.",
+    "vi": "<random_villager> nghe phong phanh về một thung lũng bí ẩn tại quán trọ ở <origin>. Nơi này cách xa các tuyến đường giặc cướp qua lại, đang trở thành chốn dung thân cho những ai mong muốn sống trong thái bình. Dù nơi đây không tránh khỏi thời tiết khắc nghiệt và thiên tai, nó đang nở rộ thành trung tâm thủ công, kiến thiết và nông nghiệp, không bị chiến tranh quấy nhiễu."
+  },
+  {
+    "key": "game_mode_builder_narrative_2",
+    "type": 0,
+    "en": "<random_villager> says, 'we must build a sanctuary.' This ragged band of refugees has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can we not find a settlement that is untroubled by conflict?' They turn their faces towards [him/her], hopeful. 'It is up to us to lay the foundations for peace. Together!'",
+    "vi": "<random_villager> nói: 'Chúng ta phải dựng xây một chốn nương thân an bình.' Nhóm người tị nạn rách rưới này đã phải chứng kiến cảnh tượng bạo tàn đau lòng quá nhiều lần. 'Bão tố và cơn đói đã là quá đủ để chống chọi rồi. Chẳng lẽ chúng ta không thể tìm được một chốn định cư không vướng bận binh đao sao?' Họ cùng hướng ánh nhìn về phía [him/her] với niềm hy vọng chứa chan. 'Tất cả phụ thuộc vào chúng ta trong việc cùng nhau đặt nền móng cho hòa bình!'"
+  },
+  {
+    "key": "game_mode_builder_narrative_3",
+    "type": 0,
+    "en": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?",
+    "vi": "<random_villager> nhìn quanh nhóm người đang đói lả và nói ra sự thật hiển nhiên: 'Chúng ta đâu có ở trong tình trạng sẵn sàng chiến đấu, phải không?' Khi mọi người bắt đầu ngập ngừng, [he/she] tiếp tục: 'Tại sao chúng ta không tập trung vào việc xây dựng? Tạo ra một nơi ta có thể gọi là nhà, một chốn trú ẩn trước sự khắc nghiệt của thiên nhiên?' Việc gì phải đi tìm kiếm xung đột, [he/she] thầm nghĩ, khi chúng ta có thể nỗ lực kiến tạo một mái ấm ấm cúng và chan hòa?"
+  },
+  {
+    "key": "game_mode_builder_narrative_1_single",
+    "type": 0,
+    "en": "<name> heard whispers of a hidden vale, in the tavern at <origin>. Far from routes frequented by enemy factions, it is becoming a haven for those determined to live in peace. Although this Arcadia is not immune to bad weather and other acts of God, it is flourishing as a center for craftsmanship, building and agriculture, undisturbed by war and strife.",
+    "vi": "<name> nghe được những lời thì thầm về một thung lũng ẩn giấu trong quán rượu tại <origin>. Nằm cách xa các tuyến đường mà các phe địch thường qua lại, nơi đây đang trở thành thiên đường cho những ai quyết tâm sống trong hòa bình. Dù chốn bồng lai này không tránh khỏi thời tiết khắc nghiệt và thiên tai, nó vẫn phát triển rực rỡ như một trung tâm thủ công nghiệp, xây dựng và nông nghiệp, không bị chiến tranh và xung đột quấy rầy."
+  },
+  {
+    "key": "game_mode_builder_narrative_2_single",
+    "type": 0,
+    "en": "<name> knew [he/she] wanted to build a sanctuary. This ragged refugee has witnessed heartbreaking violence, many times over. 'Storms and hunger are more than enough to contend with. Can I not find a settlement that is untroubled by conflict?' [He/She] turns [his/her] face towards the horizon, hopeful. 'It is up to me to lay the foundations for peace. Alone!'",
+    "vi": "<name> biết [he/she] muốn xây dựng một chốn nương thân an bình. Người tị nạn rách rưới này đã phải chứng kiến cảnh bạo lực đau lòng quá nhiều lần. 'Bão tố và cơn đói đã là quá đủ để đối mặt rồi. Chẳng lẽ ta không thể tìm được một chốn định cư không vướng bận xung đột sao?' [He/She] hướng ánh nhìn của [his/her] về phía chân trời với niềm hy vọng. 'Tất cả phụ thuộc vào ta để tự mình đặt nền móng cho hòa bình!'"
+  },
+  {
+    "key": "game_mode_builder_narrative_3_single",
+    "type": 0,
+    "en": "<name> surveys [his/her] half-starved body, and acknowledges the obvious. 'I'm not exactly on fighting form, am I?' As [he/she] weighs up the options, one choice seems best: 'why don't I just concentrate on building? Make a place I can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when I could strive to create a cosy, welcoming hearth?",
+    "vi": "<name> nhìn lại cơ thể gầy gò vì đói khát của [his/her] và thừa nhận sự thật hiển nhiên: 'Mình đâu có ở trong tình trạng sẵn sàng chiến đấu?' Khi [he/she] cân nhắc các lựa chọn, một con đường có vẻ là tốt nhất: 'Tại sao mình không tập trung vào xây dựng? Tạo ra một nơi mình có thể gọi là nhà, một chốn nương thân trước sự khắc nghiệt của thiên nhiên?' Việc gì phải đi tìm kiếm chiến tranh, [he/she] nghĩ, khi mình có thể nỗ lực kiến tạo một mái ấm bình yên và ấm cúng?"
+  },
+  {
+    "key": "game_mode_standard_title",
+    "type": 0,
+    "en": "<style=DefaultYellow>Standard</style>",
+    "vi": "<style=DefaultYellow>Tiêu chuẩn</style>"
+  },
+  {
+    "key": "game_mode_standard_info",
+    "type": 0,
+    "en": "Your settlement will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress.",
+    "vi": "Của bạn Khu định cư will experience enemy raids, as well as environmental events. Raids occur at steady intervals: their difficulty adapts as you progress."
+  },
+  {
+    "key": "game_mode_standard_narrative_1",
+    "type": 0,
+    "en": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <random_villager>, 'and so must we.'",
+    "vi": "Đất lành đang rộng mở đón chờ. Ở khắp bốn phương của vùng đất từng hùng mạnh này, những người dân đang tái thiết với hy vọng bỏ lại sau lưng nỗi kinh hoàng của những năm tháng đã qua. Có thể sẽ có xung đột, hạn hán, bệnh tật, đói kém... nhưng có hề gì? 'Cuộc sống vẫn tiếp diễn,' <random_villager> nói, 'và chúng ta cũng phải tiến bước.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_2",
+    "type": 0,
+    "en": "<random_villager> is confident, defiant, even. 'We will make this work! We will take our share of land, we will build there, and we will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'Have faith - the place we found will stand centuries from now, our descendants will be there still.'",
+    "vi": "<random_villager> tràn đầy tự tin, thậm chí có phần thách thức: 'Chúng ta nhất định sẽ làm được! Chúng ta sẽ khai hoang phần đất của mình, dựng xây ở đó và bảo vệ nó!' Nhiều người đã từng thử sức. Một số đã ngã xuống trước cướp bóc hay hạn hán. Nhưng cũng có vô số người đã trụ vững. 'Hãy vững tin - nơi chúng ta gầy dựng sẽ trường tồn qua nhiều thế kỷ, con cháu chúng ta sẽ tiếp tục sinh sống nơi này.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_3",
+    "type": 0,
+    "en": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <random_villager> believes only in the vagaries of fate. 'We must go forward, no matter the risks,' [he/she] says, shrugging. 'Nothing ventured, nothing gained.'",
+    "vi": "Người thợ rèn xứ <distant_toponym> kể về những kẻ sống sót đang chạy trốn khỏi tàn tích bị thiêu rụi của những khu định cư bị cướp phá. Nhưng vị giáo sĩ tại <origin> lại nói rằng ông đang làm lễ rửa tội cho nhiều đứa trẻ khỏe mạnh hơn bao giờ hết, và đã nhận được những giạ ngũ cốc chín vàng từ những người khai hoang trong các hạt. <random_villager> chỉ tin vào sự thăng trầm của số phận: 'Chúng ta phải tiến lên phía trước, bất kể hiểm nguy,' [he/she] nhún vai nói. 'Không liều thì chẳng thể thành công.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_1_single",
+    "type": 0,
+    "en": "Good land is there for the taking. In all four corners of this once mighty land, citizens are rebuilding in the hope that the horrors of the past few years can be left behind. It's possible that there will be fighting, drought, sickness, hunger...but what of it? 'Life goes on,' says <name> under [his/her] breath, 'and so must I.'",
+    "vi": "Đất lành đang rộng mở đón chờ. Ở khắp bốn phương của vùng đất từng hùng mạnh này, những người dân đang tái thiết với hy vọng bỏ lại sau lưng nỗi kinh hoàng của những năm tháng đã qua. Có thể sẽ có giao tranh, hạn hán, ốm đau, đói khát... nhưng có hề gì? 'Cuộc đời vẫn tiếp diễn,' <name> khẽ thì thầm dưới hơi thở của [his/her], 'và ta cũng phải bước tiếp.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_2_single",
+    "type": 0,
+    "en": "<name> is confident, defiant, even. 'I will make this work! I will take my share of land, I will build there, and I will defend it!' Many have tried. Some have fallen: beset by bandits, defeated by drought. Yet many have also prevailed. 'I must have faith - the place I found will stand centuries from now, my descendants may be there still.'",
+    "vi": "<name> tràn đầy tự tin, thậm chí có phần thách thức: 'Ta nhất định sẽ làm được! Ta sẽ giành lấy phần đất của mình, dựng xây ở đó và bảo vệ nó!' Nhiều người đã từng thử sức. Một số đã gục ngã vì giặc cướp hay hạn hán. Nhưng cũng có vô số người đã chiến thắng. 'Ta phải có niềm tin - mảnh đất ta tìm thấy sẽ đứng vững qua hàng thế kỷ, con cháu ta sẽ vẫn còn ở lại nơi đây.'"
+  },
+  {
+    "key": "game_mode_standard_narrative_3_single",
+    "type": 0,
+    "en": "The <distant_toponym>  blacksmith spoke of stragglers fleeing the burnt ruins of their raided settlements. But the priest at <origin> said he is baptizing more healthy babes than ever, and has received bushels of ripe grain from settlers in the shires. <name> believes only in the vagaries of fate. 'I must go forward, no matter the risks,' [he/she] thinks, shrugging. 'Nothing ventured, nothing gained.'",
+    "vi": "Người thợ rèn xứ <distant_toponym> kể về những kẻ sống sót đang chạy trốn khỏi tàn tích bị thiêu rụi của những khu định cư bị cướp phá. Nhưng vị giáo sĩ tại <origin> lại nói rằng ông đang làm lễ rửa tội cho nhiều đứa trẻ khỏe mạnh hơn bao giờ hết, và đã nhận được những giạ ngũ cốc chín vàng từ những người định cư trong các hạt. <name> chỉ tin vào sự trớ trêu của số phận: 'Ta phải tiến lên phía trước, bất chấp rủi ro,' [he/she] thầm nghĩ và nhún vai. 'Không liều thì chẳng thể thành công.'"
+  },
+  {
+    "key": "game_mode_survival_title",
+    "type": 0,
+    "en": "<style=DefaultRed>Survival</style>",
+    "vi": "<style=DefaultRed>Sinh tồn</style>"
+  },
+  {
+    "key": "game_mode_survival_info",
+    "type": 0,
+    "en": "Enemy raids happen frequently in this mode, and their difficulty increases over time.",
+    "vi": "Trải nghiệm Going Medieval theo cách tiêu chuẩn. Bạn sẽ phải đối mặt với các đợt tấn công ngày càng hung hãn của thổ phỉ và thời tiết khắc nghiệt."
+  },
+  {
+    "key": "game_mode_survival_narrative_1",
+    "type": 0,
+    "en": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or settlers, is not for everyone. 'Are we all not sworn to a warrior's path?' asks <random_villager>, as the comrades' sit huddled around a small fire, far from everything they know.",
+    "vi": "Một số nhà thám hiểm cần thử thách và cảm giác phấn khích để thấy mình đang sống. Chống lại từng đợt kẻ cướp muốn chiếm đất, cướp mùa màng hoặc bắt cóc dân làng không dành cho tất cả mọi người. '<random_villager> hỏi khi các đồng đội ngồi quây quần bên đống lửa nhỏ, cách xa mọi thứ họ từng biết: 'Chẳng phải tất cả chúng ta đều đã thề theo con đường chiến binh sao?'"
+  },
+  {
+    "key": "game_mode_survival_narrative_2",
+    "type": 0,
+    "en": "[He/She] stands before them, legs planted wide. 'We have fought before...we all bear the scars.' The travellers nod in unison. Each of them has been tougher than they ever thought possible, in these plague years. <random_villager> speaks quietly. They lean forward. 'Nobody will ever rip us from our stronghold. We shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
+    "vi": "[He/She] đứng trước mặt họ, hai chân dang rộng vững chãi. 'Chúng ta đã từng chiến đấu... tất cả chúng ta đều mang những vết sẹo.' Những lữ khách đồng thanh gật đầu. Mỗi người trong số họ đều kiên cường hơn những gì họ từng nghĩ trong những năm tháng dịch bệnh này. <random_villager> nói nhỏ nhẹ. Họ ghé sát người lắng nghe. 'Sẽ không ai có thể đuổi chúng ta khỏi thành trì của mình. Chúng ta sẽ dựng xây và bảo vệ nó.' Rồi [he/she] gầm lên: 'Quỷ tha ma bắt, cứ để chúng thử xem!'"
+  },
+  {
+    "key": "game_mode_survival_narrative_3",
+    "type": 0,
+    "en": "If ever there was a time to be fearless, staunch and cunning, this is it. So says <random_villager>, who argues that with enough weapons, traps and training, [he/she] can see off any intruders. This generation is hardened by campaigns in France, by hunger and death. 'We can do this,' [he/she] says, smoothly. 'Indeed, our victories will be legendary.'",
+    "vi": "Nếu có lúc nào cần đến sự can trường, kiên định và mưu trí thì chính là lúc này. <random_villager> khẳng định rằng chỉ cần có đủ vũ khí, cạm bẫy và sự rèn luyện, [he/she] có thể đẩy lùi mọi kẻ xâm lăng. Thế hệ này đã được tôi luyện qua các chiến dịch ở Pháp, qua cái đói và cái chết. 'Chúng ta có thể làm được,' [he/she] tự tin nói. 'Thật vậy, những chiến công của chúng ta sẽ trở thành huyền thoại.'"
+  },
+  {
+    "key": "game_mode_survival_narrative_1_single",
+    "type": 0,
+    "en": "Some adventurers need challenge and excitement to feel alive. Fighting off waves of aggressors, who are out to steal land, harvest, or villagers, is not for everyone. 'Am I not sworn to a warrior's path?' <name> thinks aloud,  huddled alone by a small fire, far from everything [he/she] knows.",
+    "vi": "Một số nhà thám hiểm cần thử thách và cảm giác phấn khích để thấy mình đang sống. Đẩy lùi từng đợt kẻ cướp muốn chiếm đất, cướp mùa màng hoặc bắt cóc người không dành cho tất cả mọi người. 'Chẳng phải ta đã nguyện theo con đường của chiến binh sao?' <name> thầm nghĩ khi ngồi co ro một mình bên đống lửa nhỏ, cách xa mọi thứ [he/she] từng biết."
+  },
+  {
+    "key": "game_mode_survival_narrative_2_single",
+    "type": 0,
+    "en": "[He/She] stands strong, legs planted wide. 'I have fought before...I bear the scars.' [He/She] has been tougher than [he/she] ever thought possible, in these plague years. <name> makes a vow, witnessed only by God, and the whispering trees. 'Nobody will ever rip me from my stronghold. I shall build it, and defend it.' Then [he/she] roars: 'By the Devil, let them try!'",
+    "vi": "[He/She] đứng sừng sững, hai chân dang rộng vững chãi. 'Ta đã từng chiến đấu... ta mang trên mình những vết sẹo.' [He/She] đã kiên cường hơn những gì [he/she] từng nghĩ trong những năm tháng dịch bệnh này. <name> lập lời thề, chỉ có Chúa và hàng cây xào xạc chứng giám. 'Sẽ không ai có thể đuổi ta khỏi thành trì của mình. Ta sẽ dựng xây và bảo vệ nó.' Rồi [he/she] gầm lên: 'Quỷ tha ma bắt, cứ để chúng thử xem!'"
+  },
+  {
+    "key": "game_mode_survival_narrative_3_single",
+    "type": 0,
+    "en": "If ever there was a time to be fearless, staunch and cunning, this is it. So thinks <name>, who believes that with enough weapons, traps and training, [he/she] can see off any intruders. [His/Her] generation is hardened by campaigns in France, by hunger and death. 'I can do this,' [he/she] tells [him/her]self. 'Indeed, my victories will be legendary.'",
+    "vi": "Nếu có lúc nào cần đến sự can trường, kiên định và mưu trí thì chính là lúc này. <name> tin rằng chỉ cần có đủ vũ khí, cạm bẫy và sự rèn luyện, [he/she] có thể đẩy lùi mọi kẻ xâm lăng. Thế hệ của [His/Her] đã được tôi luyện qua các chiến dịch ở Pháp, qua cái đói và cái chết. 'Ta có thể làm được,' [he/she] tự nhủ với bản thân của [him/her]. 'Thật vậy, những chiến thắng của ta sẽ trở thành huyền thoại.'"
+  },
+  {
+    "key": "map_type_valley",
+    "type": 0,
+    "en": "Valley",
+    "vi": "Thung lũng"
+  },
+  {
+    "key": "map_type_valley_info",
+    "type": 0,
+    "en": "Plentiful vegetation, fertile soil and clay. Moderate amount of limestone. Lesser amounts of iron and salt.",
+    "vi": "Plentiful vegetation, fertile soil và đất sét. Moderate amount của đá vôi. Lesser amounts của sắt và salt."
+  },
+  {
+    "key": "map_type_valley_narrative",
+    "type": 0,
+    "en": "After many travails, they arrived in a valley with golden plains, cut through by a snaking river. For <random_villager>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. They decided to title it <village_name>.",
+    "vi": "Sau bao gian nan vất vả, họ đã đặt chân đến một thung lũng với những đồng bằng vàng óng, được uốn lượn bởi một dòng sông uốn khúc. Đối với <random_villager>, nơi đây gợi lên viễn cảnh về những vụ mùa bội thu, khúc ca vui và rượu nồng. Một nơi để cắm rễ sinh tồn. Một quê hương mới. Họ quyết định đặt tên cho vùng đất là <village_name>."
+  },
+  {
+    "key": "map_type_valley_narrative_single",
+    "type": 0,
+    "en": "After many travails, [he/she] arrived in a valley with golden plains, cut through by a snaking river. For <name>, it conjured visions of bountiful harvests, song and wine. A place to put down roots. A homeland. [He/She] decided to title it <village_name>.",
+    "vi": "Sau bao gian nan vất vả, [he/she] đã đặt chân đến một thung lũng với những đồng bằng vàng óng, được uốn lượn bởi một dòng sông uốn khúc. Đối với <name>, nơi đây gợi lên viễn cảnh về những vụ mùa bội thu, khúc ca vui và rượu nồng. Một nơi để cắm rễ sinh tồn. Một quê hương mới. [He/She] quyết định đặt tên cho vùng đất là <village_name>."
+  },
+  {
+    "key": "map_type_mountain",
+    "type": 0,
+    "en": "Mountain",
+    "vi": "Đồi núi"
+  },
+  {
+    "key": "map_type_mountain_info",
+    "type": 0,
+    "en": "Plentiful limestone, gold, iron and silver. Lesser amounts of fertile soil, clay and vegetation.",
+    "vi": "Plentiful đá vôi, vàng, sắt và bạc. Lesser amounts của fertile soil, đất sét và vegetation."
+  },
+  {
+    "key": "map_type_mountain_narrative",
+    "type": 0,
+    "en": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <random_villager>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. The travellers knew that this was the place they had been searching for. They decided to call it <village_name>.",
+    "vi": "Sau một hành trình dài như vô tận, những dòng suối trong vắt chảy xiết và bầu không khí thanh khiết nơi rặng núi đã làm <random_villager> ngỡ ngàng. Ngay dưới lớp đất đá, những mạch khoáng sản lấp lánh đầy hứa hẹn. Những người lữ hành biết rằng đây chính là nơi họ hằng tìm kiếm. Họ quyết định đặt tên là <village_name>."
+  },
+  {
+    "key": "map_type_mountain_narrative_single",
+    "type": 0,
+    "en": "After walking for an eternity, the pure, swift-running streams and clean air of the mountain ridge stole <name>'s breath away. And just beneath the surface, minerals glimmered, rich with promise. This traveller knew that this was the place [he/she] had been searching for. [He/She] decided to call it <village_name>.",
+    "vi": "Sau một hành trình dài như vô tận, những dòng suối trong vắt chảy xiết và bầu không khí thanh khiết nơi rặng núi đã làm <name> ngỡ ngàng. Ngay dưới lớp đất đá, những mạch khoáng sản lấp lánh đầy hứa hẹn. Người lữ hành này biết rằng đây chính là nơi [he/she] hằng tìm kiếm. [He/She] quyết định đặt tên cho nơi này là <village_name>."
+  },
+  {
+    "key": "map_type_hill",
+    "type": 0,
+    "en": "Hillside",
+    "vi": "Sườn đồi"
+  },
+  {
+    "key": "map_type_hill_info",
+    "type": 0,
+    "en": "Uneven terrain, suitable for a good defensive position. A fair amount of limestone and clay. A moderate amount of fertile soil and vegetation.",
+    "vi": "Uneven terrain, suitable cho a good defensive position. A fair amount của đá vôi và đất sét. A moderate amount của fertile soil và vegetation."
+  },
+  {
+    "key": "map_type_hill_narrative",
+    "type": 0,
+    "en": "Into a landscape of rolling hills and ancient, crumbling forts the companions trekked. Each ascent rewarded <random_villager> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. They built a camp that would, in time, become the settlement of <village_name>.",
+    "vi": "Into a landscape của rolling hills và ancient, crumbling forts companions trekked. Mỗi ascent rewarded <random_villager> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. Họ built a camp that would, trong time, become Khu định cư của <village_name>."
+  },
+  {
+    "key": "map_type_hill_narrative_single",
+    "type": 0,
+    "en": "Into a landscape of rolling hills and ancient, crumbling forts the lone wander trekked. Each ascent rewarded <name> with a view that stretched for many leagues. No enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, in time, become the settlement of <village_name>.",
+    "vi": "Into a landscape của rolling hills và ancient, crumbling forts lone wander trekked. Mỗi ascent rewarded <name> với a view that stretched cho many leagues. Không enemy approach would go unseen, [he/she] thought. [He/She] built a camp that would, trong time, become Khu định cư của <village_name>."
+  },
+  {
+    "key": "map_type_wetland",
+    "type": 0,
+    "en": "Marsh",
+    "vi": "Đầm lầy"
+  },
+  {
+    "key": "map_type_wetland_info",
+    "type": 0,
+    "en": "A watery, riverine landscape, rich in plant life and teeming with fish. Land animals and mineable resources are scarce.",
+    "vi": "Vùng đầm lầy sông nước trù phú về thảm thực vật và đầy ắp tôm cá. Tuy nhiên động vật trên cạn và khoáng sản có thể khai thác lại tương đối khan hiếm."
+  },
+  {
+    "key": "map_type_wetland_narrative",
+    "type": 0,
+    "en": "The travellers pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. <random_villager> drew a handful of the sweet water to [his/her] lips, and gave thanks. They would settle here, and name it <village_name>.",
+    "vi": "Những người lữ hành rẽ qua những rặng liễu rủ mềm mại. Từng đàn lươn bạc lấp lánh luồn lách qua những bụi lau sậy rậm rạp nơi bờ sông hòa vào bãi lầy. <random_villager> vốc một ngụm nước ngọt lành lên môi của [his/her] và cất lời cảm tạ. Họ quyết định định cư tại đây và đặt tên là <village_name>."
+  },
+  {
+    "key": "map_type_wetland_narrative_single",
+    "type": 0,
+    "en": "<name> pushed through an abundance of supple willow trees. Thick, silvered eels wove, glinting, through tall rushes, which blended the river's edge into its marshy banks. [He/She] drew a handful of the sweet water to [his/her] lips, and gave thanks. [He/She] would settle here, and name it <village_name>.",
+    "vi": "<name> pushed through an abundance của supple willow cây cối. Thick, silvered eels wove, glinting, through tall rushes, which blended river's edge into của nó marshy banks. [He/She] drew a handful của sweet nước đến [his/her] lips, và gave thanks. [He/She] would settle here, và name nó <village_name>."
+  },
+  {
+    "key": "map_type_season_info_summer_mild",
+    "type": 0,
+    "en": "<style=DefaultGreen>Mild Summers</style>",
+    "vi": "<style=DefaultGreen>Mùa hè ôn hòa</style>"
+  },
+  {
+    "key": "map_type_season_info_summer_harsh",
+    "type": 0,
+    "en": "<style=DefaultOrange>Fierce Summers</style>",
+    "vi": "<style=DefaultOrange>Mùa hè khắc nghiệt</style>"
+  },
+  {
+    "key": "map_type_season_info_winter_mild",
+    "type": 0,
+    "en": "<style=DefaultGreen>Mild Winters</style>",
+    "vi": "<style=DefaultGreen>Mùa đông ôn hòa</style>"
+  },
+  {
+    "key": "map_type_season_info_winter_harsh",
+    "type": 0,
+    "en": "<style=DefaultOrange>Harsh Winters</style>",
+    "vi": "<style=DefaultOrange>Mùa đông khắc nghiệt</style>"
+  },
+  {
+    "key": "autumn_description_1",
+    "type": 0,
+    "en": "During the mild autumn",
+    "vi": "During mild Mùa Thu"
+  },
+  {
+    "key": "autumn_description_2",
+    "type": 0,
+    "en": "In the blustery autumn",
+    "vi": "Giữa mùa thu lộng gió"
+  },
+  {
+    "key": "autumn_description_3",
+    "type": 0,
+    "en": "At the end of harvest season",
+    "vi": "At end của harvest Mùa"
+  },
+  {
+    "key": "autumn_description_4",
+    "type": 0,
+    "en": "At the autumn equinox",
+    "vi": "At Mùa Thu equinox"
+  },
+  {
+    "key": "winter_description_1",
+    "type": 0,
+    "en": "In deep winter",
+    "vi": "Giữa mùa đông buốt giá"
+  },
+  {
+    "key": "winter_description_2",
+    "type": 0,
+    "en": "At Yuletide",
+    "vi": "Vào lễ hội mùa đông (Yuletide)"
+  },
+  {
+    "key": "winter_description_3",
+    "type": 0,
+    "en": "At the bitterly-cold end",
+    "vi": "At bitterly-Lạnh end"
+  },
+  {
+    "key": "winter_description_4",
+    "type": 0,
+    "en": "In the midwinter chill",
+    "vi": "Trong giá rét giữa mùa đông"
+  },
+  {
+    "key": "spring_description_1",
+    "type": 0,
+    "en": "As the earth quickened in spring",
+    "vi": "Khi đất trời hồi sinh vào mùa xuân"
+  },
+  {
+    "key": "spring_description_2",
+    "type": 0,
+    "en": "As the cold retreated, heralding spring",
+    "vi": "Khi mùa đông băng giá rút lui, báo hiệu mùa xuân về"
+  },
+  {
+    "key": "spring_description_3",
+    "type": 0,
+    "en": "In springtime",
+    "vi": "Vào tiết trời xuân ấm áp"
+  },
+  {
+    "key": "spring_description_4",
+    "type": 0,
+    "en": "At the sight of the first buds",
+    "vi": "Khi những chồi non đầu tiên hé nở"
+  },
+  {
+    "key": "summer_description_1",
+    "type": 0,
+    "en": "Early in summertime",
+    "vi": "Vào những ngày đầu hạ"
+  },
+  {
+    "key": "summer_description_2",
+    "type": 0,
+    "en": "At midsummer",
+    "vi": "Giữa mùa hè rực rỡ"
+  },
+  {
+    "key": "summer_description_3",
+    "type": 0,
+    "en": "Around the longest day",
+    "vi": "Khoảng thời gian ngày dài nhất trong năm"
+  },
+  {
+    "key": "summer_description_4",
+    "type": 0,
+    "en": "In the summer heat",
+    "vi": "Dưới cái nóng gay gắt của mùa hè"
+  },
+  {
+    "key": "required_fields_info",
+    "type": 0,
+    "en": "(* - Required fields)",
+    "vi": "(* - Các trường bắt buộc)"
+  },
+  {
+    "key": "game_difficulty_VeryEasy_title",
+    "type": 0,
+    "en": "Very Easy",
+    "vi": "Cực Kỳ Dễ Dàng"
+  },
+  {
+    "key": "game_difficulty_Easy_title",
+    "type": 0,
+    "en": "Easy",
+    "vi": "Dễ"
+  },
+  {
+    "key": "game_difficulty_Normal_title",
+    "type": 0,
+    "en": "Normal",
+    "vi": "Bình Thường (Chuẩn Mực)"
+  },
+  {
+    "key": "game_difficulty_Difficult_title",
+    "type": 0,
+    "en": "Hard",
+    "vi": "Khó Khăn"
+  },
+  {
+    "key": "game_difficulty_Hard_title",
+    "type": 0,
+    "en": "Very Hard",
+    "vi": "Cực Khó (Sinh Tồn Khắc Nghiệt)"
+  },
+  {
+    "key": "game_difficulty_VeryEasy_info",
+    "type": 0,
+    "en": "Recommended for first time players who want to learn the game",
+    "vi": "Khuyên dùng cho người chơi lần đầu muốn làm quen với cơ chế game trong hòa bình."
+  },
+  {
+    "key": "game_difficulty_Easy_info",
+    "type": 0,
+    "en": "Recommended for new players",
+    "vi": "Khuyên dùng cho người mới bắt đầu làm quen với Going Medieval."
+  },
+  {
+    "key": "game_difficulty_Normal_info",
+    "type": 0,
+    "en": "Recommended for players familiar with colony sim games",
+    "vi": "Khuyên dùng cho người chơi đã quen thuộc với thể loại mô phỏng quản lý thuộc địa."
+  },
+  {
+    "key": "game_difficulty_Difficult_info",
+    "type": 0,
+    "en": "Recommended for players who want a challenge.",
+    "vi": "Khuyên dùng cho người chơi kỳ cựu tìm kiếm thử thách cam go."
+  },
+  {
+    "key": "game_difficulty_Hard_info",
+    "type": 0,
+    "en": "Recommended for players who want a tough survival challenge",
+    "vi": "Khuyên dùng cho người chơi khao khát một trải nghiệm sinh tồn khắc nghiệt đỉnh cao."
+  },
+  {
+    "key": "prioritise_hauling",
+    "type": 0,
+    "en": "Prioritise hauling to stockpile",
+    "vi": "Ưu Tiên Vận Chuyển Về Bãi Chứa"
+  },
+  {
+    "key": "nowhere_to_store",
+    "type": 0,
+    "en": "No empty spot on stockpile, or no stockpile set to store this resource type",
+    "vi": "Không còn chỗ trống trên bãi chứa, hoặc chưa có bãi chứa nào cho phép lưu trữ loại tài nguyên này."
+  },
+  {
+    "key": "requires_selected_worker",
+    "type": 0,
+    "en": "This action requires a selected settler",
+    "vi": "Hành động này yêu cầu phải chọn một dân làng"
+  },
+  {
+    "key": "can_not_do_while_drafted",
+    "type": 0,
+    "en": "Cannot perform this action while drafted",
+    "vi": "Không thể thực hiện hành động này khi đang huy động nhập ngũ"
+  },
+  {
+    "key": "already_reserved_by_other_worker",
+    "type": 0,
+    "en": "Already assigned to another settler",
+    "vi": "Đã được chỉ định cho một dân làng khác thực hiện"
+  },
+  {
+    "key": "prioritise_tending_wounds",
+    "type": 0,
+    "en": "Prioritise tending wounds",
+    "vi": "Ưu Tiên Băng Bó Chữa Thương"
+  },
+  {
+    "key": "not_enough_free_beds",
+    "type": 0,
+    "en": "No empty beds available. Construct beds or sleeping spots for your injured.",
+    "vi": "Không có sẵn giường trống. Hãy xây dựng thêm giường hoặc chỗ ngủ cho người bị thương."
+  },
+  {
+    "key": "prioritise_carry_to_bed",
+    "type": 0,
+    "en": "Carry this settler to an empty bed.",
+    "vi": "Cõng dân làng này về giường bệnh trống"
+  },
+  {
+    "key": "general_operate_production",
+    "type": 0,
+    "en": "Prioritise production",
+    "vi": "Ưu Tiên Vận Hành Sản Xuất"
+  },
+  {
+    "key": "general_deliver_production_material",
+    "type": 0,
+    "en": "Prioritise delivering material for production:",
+    "vi": "Ưu Tiên Vận Chuyển Nguyên Liệu Sản Xuất:"
+  },
+  {
+    "key": "queued_production",
+    "type": 0,
+    "en": "Queued product:",
+    "vi": "Sản phẩm trong hàng đợi:"
+  },
+  {
+    "key": "no_production_item_queued",
+    "type": 0,
+    "en": "No product is queued",
+    "vi": "Chưa có sản phẩm nào trong hàng đợi sản xuất"
+  },
+  {
+    "key": "prioritise_locking_door",
+    "type": 0,
+    "en": "Prioritise locking this door",
+    "vi": "Ưu Tiên Khóa Cánh Cửa Này"
+  },
+  {
+    "key": "prioritise_always_open_door",
+    "type": 0,
+    "en": "Prioritise opening door",
+    "vi": "Ưu Tiên Giữ Cửa Luôn Mở"
+  },
+  {
+    "key": "prioritise_unlocking_door",
+    "type": 0,
+    "en": "Prioritise setting door to default state",
+    "vi": "Ưu Tiên Mở Khóa Đưa Cửa Về Bình Thường"
+  },
+  {
+    "key": "prioritise_hunting",
+    "type": 0,
+    "en": "Prioritise hunting animal",
+    "vi": "Ưu Tiên Săn Bắt Thú"
+  },
+  {
+    "key": "prioritise_open_window",
+    "type": 0,
+    "en": "Prioritise opening window",
+    "vi": "Ưu Tiên Mở Cánh Cửa Sổ"
+  },
+  {
+    "key": "prioritise_close_window",
+    "type": 0,
+    "en": "Prioritise closing window",
+    "vi": "Ưu Tiên Đóng Cánh Cửa Sổ"
+  },
+  {
+    "key": "prioritise_flame_off",
+    "type": 0,
+    "en": "Prioritise extinguishing flame",
+    "vi": "Ưu Tiên Dập Tắt Ngọn Lửa"
+  },
+  {
+    "key": "prioritise_flame_on",
+    "type": 0,
+    "en": "Prioritise lighting flame",
+    "vi": "Ưu Tiên Thắp Sáng Ngọn Lửa"
+  },
+  {
+    "key": "already_working_on_target",
+    "type": 0,
+    "en": "Already working on it",
+    "vi": "Đang có người thực hiện công việc này rồi"
+  },
+  {
+    "key": "build_sight_must_be_clear",
+    "type": 0,
+    "en": "Cannot start construction, need to clear area first",
+    "vi": "Không thể bắt đầu xây dựng, cần dọn sạch mặt bằng khu vực trước"
+  },
+  {
+    "key": "cannot_passive_production",
+    "type": 0,
+    "en": "Cannot prioritise passive production",
+    "vi": "Không thể ưu tiên hoạt động sản xuất thụ động"
+  },
+  {
+    "key": "can_not_execute_order_on_self",
+    "type": 0,
+    "en": "Cannot perform action on self",
+    "vi": "Không thể thực hiện hành động này lên chính mình"
+  },
+  {
+    "key": "already_has_operator",
+    "type": 0,
+    "en": "Already has operator",
+    "vi": "Đã có người vận hành rồi"
+  },
+  {
+    "key": "prioritise_bury",
+    "type": 0,
+    "en": "Prioritise burial",
+    "vi": "Ưu Tiên Chôn Cất Thi Hài"
+  },
+  {
+    "key": "nowhere_to_bury",
+    "type": 0,
+    "en": "No empty burial spot, or none designated for this corpse type.",
+    "vi": "Không còn chỗ chôn cất trống, hoặc chưa chỉ định nơi an táng cho loại thi hài này."
+  },
+  {
+    "key": "prioritise_convalescing",
+    "type": 0,
+    "en": "Prioritise convalescing",
+    "vi": "Ưu Tiên Tĩnh Dưỡng Hồi Phục"
+  },
+  {
+    "key": "active_productin_paused",
+    "type": 0,
+    "en": "Active production paused",
+    "vi": "Đã tạm dừng dây chuyền sản xuất đang hoạt động"
+  },
+  {
+    "key": "amount_met",
+    "type": 0,
+    "en": "Amount met",
+    "vi": "Đã Đạt Đủ Số Lượng Yêu Cầu"
+  },
+  {
+    "key": "general_trade_with",
+    "type": 0,
+    "en": "Barter with: <trader_name>",
+    "vi": "Giao Thương Trao Đổi Với: <trader_name>"
+  },
+  {
+    "key": "general_negotiate_with",
+    "type": 0,
+    "en": "Negotiate with: <negotiator_name>",
+    "vi": "Đàm Phán Thương Lượng Với: <negotiator_name>"
+  },
+  {
+    "key": "prioritise_taming",
+    "type": 0,
+    "en": "Prioritise Taming",
+    "vi": "Ưu Tiên Thuần Hóa Động Vật"
+  },
+  {
+    "key": "prioritise_train",
+    "type": 0,
+    "en": "Prioritise Training",
+    "vi": "Ưu Tiên Huấn Luyện Thú Cưng"
+  },
+  {
+    "key": "prioritise_slaughter",
+    "type": 0,
+    "en": "Prioritise Slaughtering",
+    "vi": "Ưu Tiên Mổ Thịt Lấy Thực Phẩm"
+  },
+  {
+    "key": "prioritise_release",
+    "type": 0,
+    "en": "Prioritise Releasing",
+    "vi": "Ưu Tiên Phóng Thích Về Tự Nhiên"
+  },
+  {
+    "key": "prioritise_rope",
+    "type": 0,
+    "en": "Prioritise Roping",
+    "vi": "Ưu Tiên Buộc Dây Dắt Động Vật"
+  },
+  {
+    "key": "no_valid_pen",
+    "type": 0,
+    "en": "No pen that can house this animal is available ",
+    "vi": "Chưa có chuồng nuôi phù hợp cho loài động vật này "
+  },
+  {
+    "key": "prioritise_reset_trap",
+    "type": 0,
+    "en": "Prioritise Resetting",
+    "vi": "Ưu Tiên Cài Đặt Lại Cạm Bẫy"
+  },
+  {
+    "key": "prioritise_trough_refill",
+    "type": 0,
+    "en": "Prioritise Fill",
+    "vi": "Ưu Tiên Đổ Thức Ăn Vào Máng"
+  },
+  {
+    "key": "self_tend_must_be_enabled",
+    "type": 0,
+    "en": "The self-tend option in the manage panel must be selected for a settler to so.",
+    "vi": "Cần kích hoạt tùy chọn Tự Băng Bó trong bảng Quản Lý để dân làng có thể tự cứu chữa bản thân."
+  },
+  {
+    "key": "prioritise_fishing",
+    "type": 0,
+    "en": "Prioritise Fishing",
+    "vi": "Ưu Tiên Đánh Bắt Cá"
+  },
+  {
+    "key": "put_out_fire",
+    "type": 0,
+    "en": "Prioritise quenching fire",
+    "vi": "Ưu Tiên Dập Tắt Đám Cháy"
+  },
+  {
+    "key": "put_out_fire_tooltip",
+    "type": 0,
+    "en": "Prioritise quenching fire",
+    "vi": "Ưu tiên dập tắt đám cháy"
+  },
+  {
+    "key": "prioritise_barrel_refill",
+    "type": 0,
+    "en": "Prioritise Filling Barrel",
+    "vi": "Ưu Tiên Rót Đầy Thùng Chứa"
+  },
+  {
+    "key": "prioritise_open_shelf",
+    "type": 0,
+    "en": "Prioritise Emptying Container",
+    "vi": "Ưu Tiên Dọn Sạch Đồ Khỏi Kệ"
+  },
+  {
+    "key": "prioritise_stripping",
+    "type": 0,
+    "en": "Prioritise: Strip",
+    "vi": "Ưu Tiên: Lột Đồ"
+  },
+  {
+    "key": "prioritise_gardening",
+    "type": 0,
+    "en": "Prioritise: Grow",
+    "vi": "Ưu Tiên: Trồng Trọt & Chăm Sóc Cây"
+  },
+  {
+    "key": "prioritise_move_to_location",
+    "type": 0,
+    "en": "Move to location",
+    "vi": "Di chuyển đến vị trí chỉ định"
+  },
+  {
+    "key": "third_archer_easy",
+    "type": 0,
+    "en": "Third Coming Archer",
+    "vi": "Xạ Thủ Tái Lâm"
+  },
+  {
+    "key": "third_archer_med",
+    "type": 0,
+    "en": "Adept Third Coming Archer",
+    "vi": "Xạ Thủ Tái Lâm Tinh Nhuệ"
+  },
+  {
+    "key": "third_archer_hard",
+    "type": 0,
+    "en": "Master Third Coming Archer",
+    "vi": "Đại Cung Thủ Tái Lâm Bậc Thầy"
+  },
+  {
+    "key": "third_basic_easy",
+    "type": 0,
+    "en": "Third Coming Pillager",
+    "vi": "Kẻ Cướp Bóc Tái Lâm"
+  },
+  {
+    "key": "third_basic_med",
+    "type": 0,
+    "en": "Fierce Third Coming Pillager",
+    "vi": "Kẻ Cướp Bóc Tái Lâm Hung Hãn"
+  },
+  {
+    "key": "third_basic_hard",
+    "type": 0,
+    "en": "Ruthless Third Coming Pillager",
+    "vi": "Kẻ Cướp Bóc Tái Lâm Tàn Bạo"
+  },
+  {
+    "key": "third_heavy_easy",
+    "type": 0,
+    "en": "Third Coming Thug",
+    "vi": "Côn Đồ Tái Lâm"
+  },
+  {
+    "key": "third_heavy_med",
+    "type": 0,
+    "en": "Brutal Third Coming Thug",
+    "vi": "Côn Đồ Tái Lâm Hung Hãn"
+  },
+  {
+    "key": "third_heavy_hard",
+    "type": 0,
+    "en": "Murderous Third Coming Thug",
+    "vi": "Côn Đồ Tái Lâm Khát Máu"
+  }
+]

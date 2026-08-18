@@ -1,0 +1,398 @@
+[
+  {
+    "key": "event_quality_lvl_name_very_bad",
+    "type": 0,
+    "en": "Lamentable",
+    "vi": "Tồi Tệ Đáng Tiếc"
+  },
+  {
+    "key": "event_quality_lvl_name_bad",
+    "type": 0,
+    "en": "Disappointing",
+    "vi": "Gây Thất Vọng"
+  },
+  {
+    "key": "event_quality_lvl_name_decent",
+    "type": 0,
+    "en": "Decent",
+    "vi": "Tạm Được"
+  },
+  {
+    "key": "event_quality_lvl_name_good",
+    "type": 0,
+    "en": "Enjoyable",
+    "vi": "Dễ Chịu & Hài Lòng"
+  },
+  {
+    "key": "event_quality_lvl_name_very_good",
+    "type": 0,
+    "en": "Excellent",
+    "vi": "Tuyệt Hảo"
+  },
+  {
+    "key": "event_quality_lvl_name_unforgettable",
+    "type": 0,
+    "en": "Unforgettable",
+    "vi": "Khắc Cốt Ghi Tâm"
+  },
+  {
+    "key": "event_quality_cooldown",
+    "type": 0,
+    "en": "Event Cooldown Time",
+    "vi": "Thời gian hồi sự kiện"
+  },
+  {
+    "key": "event_quality_points_breakdown",
+    "type": 0,
+    "en": "Event quality Points Breakdown",
+    "vi": "Bảng chi tiết điểm chất lượng sự kiện"
+  },
+  {
+    "key": "event_requ_skill_book",
+    "type": 0,
+    "en": "Required Textbook",
+    "vi": "Sách giáo khoa yêu cầu"
+  },
+  {
+    "key": "event_quality_ranged_name",
+    "type": 0,
+    "en": "Ranged Weaponry students",
+    "vi": "Học viên xạ kích tầm xa"
+  },
+  {
+    "key": "event_quality_melee_name",
+    "type": 0,
+    "en": "Melee Weapons students",
+    "vi": "Học viên võ nghệ cận chiến"
+  },
+  {
+    "key": "event_requ_training",
+    "type": 0,
+    "en": "Training equipment",
+    "vi": "Trang thiết bị luyện tập"
+  },
+  {
+    "key": "effector_name_ExecutedPrisonerSameFaction",
+    "type": 0,
+    "en": "Prisoner Executed (Same Faction)",
+    "vi": "Hành quyết tù nhân (cùng phe phái)"
+  },
+  {
+    "key": "effector_info_ExecutedPrisonerSameFaction",
+    "type": 0,
+    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
+    "vi": "Cầu xin lòng từ bi đoái thương linh hồn người tù tội nghiệp ấy! Nếu không nhờ sự khoan hồng của cai ngục, người nằm đó ắt hẳn đã là ta..."
+  },
+  {
+    "key": "effector_name_RaidWonEffector",
+    "type": 0,
+    "en": "Victorious!",
+    "vi": "Khải Hoàn Thắng Lợi!"
+  },
+  {
+    "key": "effector_info_RaidWonEffector",
+    "type": 0,
+    "en": "We have defied our enemies — triumph courses through my veins!",
+    "vi": "Chúng ta đã đánh tan tác kẻ thù — men say chiến thắng đang cuồn cuộn tuôn chảy trong từng huyết quản!"
+  },
+  {
+    "key": "effector_name_RaidLosingEffector",
+    "type": 0,
+    "en": "Losing ground",
+    "vi": "Thế Trận Bất Lợi"
+  },
+  {
+    "key": "effector_info_RaidLosingEffector",
+    "type": 0,
+    "en": "This fight is not going our way. Whatever will become of us!",
+    "vi": "Cục diện trận chiến đang vô cùng bất lợi cho chúng ta. Rồi số phận khu định cư này sẽ trôi dạt về đâu!"
+  },
+  {
+    "key": "effector_name_RaidLosingEffectorPos",
+    "type": 0,
+    "en": "Losing (positive)",
+    "vi": "Thua Trận (Giải Thoát)"
+  },
+  {
+    "key": "effector_info_RaidLosingEffectorPos",
+    "type": 0,
+    "en": "I'm ready to give in - I look forward to this being over.",
+    "vi": "Ta đã sẵn sàng buông xuôi đầu hàng — ta chỉ mong mỏi tấn bi kịch này mau chóng khép lại."
+  },
+  {
+    "key": "effector_name_RaidWinningEffector",
+    "type": 0,
+    "en": "Gaining ground",
+    "vi": "Chiếm Lĩnh Ưu Thế"
+  },
+  {
+    "key": "effector_info_RaidWinningEffector",
+    "type": 0,
+    "en": "Fortune is on our side! We may yet win the day.",
+    "vi": "Nữ thần may mắn đang mỉm cười với chúng ta! Chiến thắng vẻ vang ngày hôm nay ắt sẽ thuộc về ta."
+  },
+  {
+    "key": "building_name_merchant_table",
+    "type": 0,
+    "en": "Merchant's table",
+    "vi": "Bàn Thương Nhân"
+  },
+  {
+    "key": "building_info_merchant_table",
+    "type": 0,
+    "en": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!",
+    "vi": "Bề mặt gỗ được đánh bóng láng mịn, hoàn hảo để kê sổ cái cân đối thu chi, kiểm đếm tiền xu vàng, hoặc thậm chí dùng để thu thuế!"
+  },
+  {
+    "key": "building_name_merchants_stall",
+    "type": 0,
+    "en": "Merchant Stall",
+    "vi": "Quầy Hàng Thương Nhân"
+  },
+  {
+    "key": "building_info_merchants_stall",
+    "type": 0,
+    "en": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here.",
+    "vi": "Một mái hiên che dựng thô sơ, đánh dấu địa điểm giao thương hàng hóa tấp nập. Nơi lui tới quen thuộc của những người bán hàng rong và lái buôn qua đường."
+  },
+  {
+    "key": "none_faction_name",
+    "type": 0,
+    "en": "Nonpartisan",
+    "vi": "Phe Trung Lập"
+  },
+  {
+    "key": "faction_type_faithful",
+    "type": 0,
+    "en": "Church of Restitution",
+    "vi": "Giáo Hội Phục Hưng"
+  },
+  {
+    "key": "faction_type_pagan",
+    "type": 0,
+    "en": "Oak Brethren",
+    "vi": "Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "faction_type_knowledge",
+    "type": 0,
+    "en": "Knowledge",
+    "vi": "Hội Học Giả Tri Thức"
+  },
+  {
+    "key": "faction_type_monarchy",
+    "type": 0,
+    "en": "Monarchy",
+    "vi": "Vương Triều Quân Chủ"
+  },
+  {
+    "key": "faction_type_anarchy",
+    "type": 0,
+    "en": "Anarchy",
+    "vi": "Hội Vô Chính Phủ"
+  },
+  {
+    "key": "faction_type_cannibal",
+    "type": 0,
+    "en": "Cannibal",
+    "vi": "Bộ Tộc Ăn Thịt Người"
+  },
+  {
+    "key": "faction_type_bandits",
+    "type": 0,
+    "en": "Bandits",
+    "vi": "Băng Đảng Thổ Phỉ"
+  },
+  {
+    "key": "faction_type_chaos",
+    "type": 0,
+    "en": "Chaos",
+    "vi": "Băng Đảng Hỗn Loạn"
+  },
+  {
+    "key": "dev_spawn_random_raid",
+    "type": 0,
+    "en": "Spawn Simple Raid",
+    "vi": "Tạo cuộc đột kích đơn giản"
+  },
+  {
+    "key": "dev_faction_set_friendliness",
+    "type": 0,
+    "en": "Set Faction Alignment",
+    "vi": "Đặt mức thân thiện phe phái"
+  },
+  {
+    "key": "dev_tooltip_faction_set_friendliness",
+    "type": 0,
+    "en": "Alter Faction Alignment.",
+    "vi": "Thay đổi mức độ thân thiện của phe phái."
+  },
+  {
+    "key": "dev_faction_friendliness",
+    "type": 0,
+    "en": "Select a Faction...",
+    "vi": "Chọn một phe phái..."
+  },
+  {
+    "key": "dev_faction_modify_friendliness",
+    "type": 0,
+    "en": "...then Alignment + / - 10.",
+    "vi": "...sau đó chỉnh thân thiện + / - 10."
+  },
+  {
+    "key": "dev_tooltip_faction",
+    "type": 0,
+    "en": "Select the Faction you want to alter the Alignment of.",
+    "vi": "Chọn phe phái bạn muốn thay đổi mức độ thân thiện."
+  },
+  {
+    "key": "dev_event_group_AnimalRaid",
+    "type": 0,
+    "en": "Animal Raid",
+    "vi": "Cuộc đột kích của thú hoang"
+  },
+  {
+    "key": "dev_event_group_Raid",
+    "type": 0,
+    "en": "Raid",
+    "vi": "Cuộc đột kích"
+  },
+  {
+    "key": "dev_event_group_Merchantgeneral",
+    "type": 0,
+    "en": "Guileful trader",
+    "vi": "Thương nhân khôn khéo"
+  },
+  {
+    "key": "dev_event_group_Merchantrare",
+    "type": 0,
+    "en": "Merchant caravan",
+    "vi": "Đoàn buôn thương nhân"
+  },
+  {
+    "key": "dev_event_raid_new",
+    "type": 0,
+    "en": "Raid",
+    "vi": "Cuộc đột kích"
+  },
+  {
+    "key": "dev_event_wolf_raid",
+    "type": 0,
+    "en": "Ferocious wolves",
+    "vi": "Đàn sói hung dữ"
+  },
+  {
+    "key": "dev_set_npc_faction",
+    "type": 0,
+    "en": "Set Faction of NPC",
+    "vi": "Đặt phe phái cho NPC"
+  },
+  {
+    "key": "dev_tooltip_set_npc_faction",
+    "type": 0,
+    "en": "Set Faction of NPC on pointer click",
+    "vi": "Đặt phe phái cho NPC khi nhấp chuột"
+  },
+  {
+    "key": "dev_faction_name_tooltip",
+    "type": 0,
+    "en": "On pointer click sets the faction of the NPC to this one",
+    "vi": "Nhấp chuột để gán phe phái của NPC sang phe này"
+  },
+  {
+    "key": "dev_event_prisoner_merchant",
+    "type": 0,
+    "en": "Prisoner Merchant",
+    "vi": "Thương nhân buôn tù nhân"
+  },
+  {
+    "key": "dev_event_group_Merchantprisoner",
+    "type": 0,
+    "en": "Prisoner Merchant",
+    "vi": "Thương nhân buôn tù nhân"
+  },
+  {
+    "key": "dev_npc_faction_select",
+    "type": 0,
+    "en": "Select Faction to change to",
+    "vi": "Chọn phe phái muốn chuyển đổi sang"
+  },
+  {
+    "key": "dev_switchFactionOwnership",
+    "type": 0,
+    "en": "Switch Faction Ownership",
+    "vi": "Chuyển quyền sở hữu phe phái"
+  },
+  {
+    "key": "dev_tooltip_switchFactionOwnership",
+    "type": 0,
+    "en": "Toggles building and pile ownership between player and enemy.",
+    "vi": "Chuyển đổi quyền sở hữu công trình và đống tài nguyên giữa người chơi và kẻ thù."
+  },
+  {
+    "key": "dev_event_deer_raid",
+    "type": 0,
+    "en": "Ferocious Deer",
+    "vi": "Hươu hung dữ"
+  },
+  {
+    "key": "dev_event_hare_raid",
+    "type": 0,
+    "en": "Ferocious Hares",
+    "vi": "Thỏ rừng hung dữ"
+  },
+  {
+    "key": "dev_event_fox_raid",
+    "type": 0,
+    "en": "Ferocious Foxes",
+    "vi": "Cáo hung dữ"
+  },
+  {
+    "key": "dev_event_polecat_raid",
+    "type": 0,
+    "en": "Ferocious Polecats",
+    "vi": "Chồn hung dữ"
+  },
+  {
+    "key": "dev_event_boar_raid",
+    "type": 0,
+    "en": "Ferocious Boars",
+    "vi": "Lợn rừng hung dữ"
+  },
+  {
+    "key": "dev_event_rat_raid",
+    "type": 0,
+    "en": "Ferocious Rats",
+    "vi": "Chuột hung dữ"
+  },
+  {
+    "key": "dev_event_dog_raid",
+    "type": 0,
+    "en": "Ferocious Dogs",
+    "vi": "Chó hung dữ"
+  },
+  {
+    "key": "dev_event_bear_raid",
+    "type": 0,
+    "en": "Ferocious Bears",
+    "vi": "Gấu hung dữ"
+  },
+  {
+    "key": "dev_event_raid_infamy",
+    "type": 0,
+    "en": "Infamy Raid",
+    "vi": "Cuộc đột kích ô danh"
+  },
+  {
+    "key": "dev_event_group_AnimalRaidWolf",
+    "type": 0,
+    "en": "Animal Raid (Wolf)",
+    "vi": "Thú hoang đột kích (Sói)"
+  },
+  {
+    "key": "dev_event_group_AnimalRaidRare",
+    "type": 0,
+    "en": "Animal Raid (Rare)",
+    "vi": "Thú hoang đột kích (Hiếm)"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "key": "progeny_archer_easy",
+    "type": 0,
+    "en": "Progeny Archer",
+    "vi": "Xạ Thủ Hậu Duệ Dịch Hạch"
+  },
+  {
+    "key": "progeny_archer_med",
+    "type": 0,
+    "en": "Adept Progeny Archer",
+    "vi": "Xạ Thủ Hậu Duệ Tinh Nhuệ"
+  },
+  {
+    "key": "progeny_archer_hard",
+    "type": 0,
+    "en": "Master Progeny Archer",
+    "vi": "Đại Cung Thủ Hậu Duệ Bậc Thầy"
+  },
+  {
+    "key": "progeny_basic_easy",
+    "type": 0,
+    "en": "Progeny Marauder",
+    "vi": "Kẻ Cướp Hậu Duệ Dịch Hạch"
+  },
+  {
+    "key": "progeny_basic_med",
+    "type": 0,
+    "en": "Fierce Progeny Marauder",
+    "vi": "Kẻ Cướp Hậu Duệ Hung Hãn"
+  },
+  {
+    "key": "progeny_basic_hard",
+    "type": 0,
+    "en": "Ruthless Progeny Marauder",
+    "vi": "Kẻ Cướp Hậu Duệ Tàn Bạo"
+  },
+  {
+    "key": "progeny_heavy_easy",
+    "type": 0,
+    "en": "Progeny Thug",
+    "vi": "Côn Đồ Hậu Duệ Dịch Hạch"
+  },
+  {
+    "key": "progeny_heavy_med",
+    "type": 0,
+    "en": "Brutal Progeny Thug",
+    "vi": "Côn Đồ Hậu Duệ Hung Tợn"
+  },
+  {
+    "key": "progeny_heavy_hard",
+    "type": 0,
+    "en": "Murderous Progeny Thug",
+    "vi": "Côn Đồ Hậu Duệ Khát Máu"
+  },
+  {
+    "key": "forest_bandit_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Thảo Khấu"
+  },
+  {
+    "key": "forest_bandit_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Thiện Chiến"
+  },
+  {
+    "key": "forest_bandit_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Bậc Thầy"
+  },
+  {
+    "key": "forest_bandit_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Rừng Xanh"
+  },
+  {
+    "key": "forest_bandit_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Rừng Hung Hãn"
+  },
+  {
+    "key": "forest_bandit_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Rừng Tàn Bạo"
+  },
+  {
+    "key": "forest_bandit_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Thổ Phỉ"
+  },
+  {
+    "key": "forest_bandit_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Hung hãn Côn đồ"
+  },
+  {
+    "key": "forest_bandit_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Khát máu Côn đồ"
+  },
+  {
+    "key": "trebuchet3",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Máy bắn đá Trebuchet di động"
+  },
+  {
+    "key": "trebuchet2",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Máy bắn đá Trebuchet di động"
+  },
+  {
+    "key": "trebuchet",
+    "type": 0,
+    "en": "Movable Trebuchet",
+    "vi": "Máy bắn đá Trebuchet di động"
+  },
+  {
+    "key": "general_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung thủ"
+  },
+  {
+    "key": "general_archer_med",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Xạ thủ thiện chiến"
+  },
+  {
+    "key": "general_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Xạ thủ cung tên"
+  },
+  {
+    "key": "general_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ cướp"
+  },
+  {
+    "key": "general_basic_med",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Kẻ cướp"
+  },
+  {
+    "key": "general_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Kẻ cướp"
+  },
+  {
+    "key": "general_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn đồ"
+  },
+  {
+    "key": "general_heavy_med",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Hung hãn Côn đồ"
+  },
+  {
+    "key": "general_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Khát máu Côn đồ"
+  },
+  {
+    "key": "general_pillager_easy",
+    "type": 0,
+    "en": "Pillager",
+    "vi": "Kẻ cướp bóc"
+  },
+  {
+    "key": "general_pillager_lvl2",
+    "type": 0,
+    "en": "Fierce Bandit",
+    "vi": "Fierce Thổ phỉ"
+  },
+  {
+    "key": "general_pillager_lvl3",
+    "type": 0,
+    "en": "Ruthless Bandit",
+    "vi": "Ruthless Thổ phỉ"
+  },
+  {
+    "key": "general_pillager_lvl1",
+    "type": 0,
+    "en": "Bandit",
+    "vi": "Thổ phỉ"
+  },
+  {
+    "key": "trader_1",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Thương nhân"
+  },
+  {
+    "key": "general_trader",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Thương nhân"
+  },
+  {
+    "key": "general_bodyguard",
+    "type": 0,
+    "en": "Merchant's guard",
+    "vi": "Thương nhân's guard"
+  },
+  {
+    "key": "negotiator_1",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Người đàm phán"
+  },
+  {
+    "key": "general_negotiator",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Người đàm phán"
+  },
+  {
+    "key": "bard_visitor_1",
+    "type": 0,
+    "en": "Bard",
+    "vi": "Người hát rong"
+  },
+  {
+    "key": "priest_visitor_1",
+    "type": 0,
+    "en": "Chaplain",
+    "vi": "Linh mục"
+  },
+  {
+    "key": "shaman_visitor_1",
+    "type": 0,
+    "en": "Druid",
+    "vi": "Tu sĩ Druid"
+  },
+  {
+    "key": "beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "beggar_1",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "general_beggar",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "general_beggar_1",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "beggar_negotiator",
+    "type": 0,
+    "en": "Beggar",
+    "vi": "Kẻ ăn mày"
+  },
+  {
+    "key": "ambush_negotiator",
+    "type": 0,
+    "en": "Negotiator",
+    "vi": "Người đàm phán"
+  },
+  {
+    "key": "trader_prisoners",
+    "type": 0,
+    "en": "Merchant",
+    "vi": "Thương nhân"
+  },
+  {
+    "key": "general_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Kẻ cướp"
+  },
+  {
+    "key": "general_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Xạ thủ cung tên"
+  },
+  {
+    "key": "general_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Đại côn đồ quái vật"
+  },
+  {
+    "key": "forest_bandit_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Kẻ cướp"
+  },
+  {
+    "key": "forest_bandit_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Xạ thủ cung tên"
+  },
+  {
+    "key": "forest_bandit_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Đại côn đồ rừng xanh quái vật"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ cướp"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Kẻ cướp"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Kẻ cướp"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Dịch Hạch"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Dịch Hạch Thiện Chiến"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Dịch Hạch Bậc Thầy"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Dịch Hạch"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Dịch Hạch Hung Tợn"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Dịch Hạch Khát Máu"
+  },
+  {
+    "key": "progeny_of_the_plague_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Dịch Hạch Man Rợ"
+  },
+  {
+    "key": "progeny_of_the_plague_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Dịch Hạch Xuất Chúng"
+  },
+  {
+    "key": "progeny_of_the_plague_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Dịch Hạch Quỷ Dữ"
+  },
+  {
+    "key": "church_of_third_coming_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Giáo Hội Tái Lâm"
+  },
+  {
+    "key": "church_of_third_coming_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Tái Lâm Hung Hãn"
+  },
+  {
+    "key": "church_of_third_coming_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Tái Lâm Tàn Bạo"
+  },
+  {
+    "key": "church_of_third_coming_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Giáo Hội Tái Lâm"
+  },
+  {
+    "key": "church_of_third_coming_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Tái Lâm Thiện Chiến"
+  },
+  {
+    "key": "church_of_third_coming_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Tái Lâm Bậc Thầy"
+  },
+  {
+    "key": "church_of_third_coming_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Giáo Hội Tái Lâm"
+  },
+  {
+    "key": "church_of_third_coming_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Tái Lâm Hung Tợn"
+  },
+  {
+    "key": "church_of_third_coming_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Tái Lâm Khát Máu"
+  },
+  {
+    "key": "church_of_third_coming_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Tái Lâm Man Rợ"
+  },
+  {
+    "key": "church_of_third_coming_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Tái Lâm Xuất Chúng"
+  },
+  {
+    "key": "church_of_third_coming_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Tái Lâm Quỷ Dữ"
+  },
+  {
+    "key": "ancrene_disciples_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Môn Đồ Ancrene"
+  },
+  {
+    "key": "ancrene_disciples_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Ancrene Hung Hãn"
+  },
+  {
+    "key": "ancrene_disciples_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Ancrene Tàn Bạo"
+  },
+  {
+    "key": "ancrene_disciples_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Môn Đồ Ancrene"
+  },
+  {
+    "key": "ancrene_disciples_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Ancrene Thiện Chiến"
+  },
+  {
+    "key": "ancrene_disciples_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Ancrene Bậc Thầy"
+  },
+  {
+    "key": "ancrene_disciples_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Môn Đồ Ancrene"
+  },
+  {
+    "key": "ancrene_disciples_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Ancrene Hung Tợn"
+  },
+  {
+    "key": "ancrene_disciples_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Ancrene Khát Máu"
+  },
+  {
+    "key": "ancrene_disciples_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Ancrene Man Rợ"
+  },
+  {
+    "key": "ancrene_disciples_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Ancrene Xuất Chúng"
+  },
+  {
+    "key": "ancrene_disciples_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Ancrene Quỷ Dữ"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Người Con Nước Anh"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Nước Anh Hung Hãn"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Nước Anh Tàn Bạo"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Người Con Nước Anh"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Nước Anh Thiện Chiến"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Nước Anh Bậc Thầy"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Người Con Nước Anh"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Nước Anh Hung Tợn"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Nước Anh Khát Máu"
+  },
+  {
+    "key": "faithful_sons_of_england_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Nước Anh Man Rợ"
+  },
+  {
+    "key": "faithful_sons_of_england_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Nước Anh Xuất Chúng"
+  },
+  {
+    "key": "faithful_sons_of_england_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Nước Anh Quỷ Dữ"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Băng Đảng Sói Cái"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Sói Cái Hung Hãn"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Sói Cái Tàn Bạo"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Băng Đảng Sói Cái"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Sói Cái Thiện Chiến"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Sói Cái Bậc Thầy"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Băng Đảng Sói Cái"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Sói Cái Hung Tợn"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Sói Cái Khát Máu"
+  },
+  {
+    "key": "band_of_the she_wolf_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Sói Cái Man Rợ"
+  },
+  {
+    "key": "band_of_the she_wolf_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Sói Cái Xuất Chúng"
+  },
+  {
+    "key": "band_of_the she_wolf_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Sói Cái Quỷ Dữ"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Trật Tự Tự Nhiên"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Tự Nhiên Hung Hãn"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Tự Nhiên Tàn Bạo"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Trật Tự Tự Nhiên"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Tự Nhiên Thiện Chiến"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Tự Nhiên Bậc Thầy"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Trật Tự Tự Nhiên"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Tự Nhiên Hung Tợn"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Tự Nhiên Khát Máu"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Tự Nhiên Man Rợ"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Tự Nhiên Xuất Chúng"
+  },
+  {
+    "key": "philosophers_of_the_natural_order_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Tự Nhiên Quỷ Dữ"
+  },
+  {
+    "key": "society_of_fellows_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Hội Viện Sĩ"
+  },
+  {
+    "key": "society_of_fellows_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Viện Sĩ Hung Hãn"
+  },
+  {
+    "key": "society_of_fellows_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Viện Sĩ Tàn Bạo"
+  },
+  {
+    "key": "society_of_fellows_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Hội Viện Sĩ"
+  },
+  {
+    "key": "society_of_fellows_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Viện Sĩ Thiện Chiến"
+  },
+  {
+    "key": "society_of_fellows_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Viện Sĩ Bậc Thầy"
+  },
+  {
+    "key": "society_of_fellows_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Hội Viện Sĩ"
+  },
+  {
+    "key": "society_of_fellows_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Viện Sĩ Hung Tợn"
+  },
+  {
+    "key": "society_of_fellows_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Viện Sĩ Khát Máu"
+  },
+  {
+    "key": "society_of_fellows_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Viện Sĩ Man Rợ"
+  },
+  {
+    "key": "society_of_fellows_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Viện Sĩ Xuất Chúng"
+  },
+  {
+    "key": "society_of_fellows_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Viện Sĩ Quỷ Dữ"
+  },
+  {
+    "key": "kingdom_of_york_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Vương Quốc York"
+  },
+  {
+    "key": "kingdom_of_york_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Xứ York Hung Hãn"
+  },
+  {
+    "key": "kingdom_of_york_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Xứ York Tàn Bạo"
+  },
+  {
+    "key": "kingdom_of_york_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Vương Quốc York"
+  },
+  {
+    "key": "kingdom_of_york_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Xứ York Thiện Chiến"
+  },
+  {
+    "key": "kingdom_of_york_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Xứ York Bậc Thầy"
+  },
+  {
+    "key": "kingdom_of_york_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Vương Quốc York"
+  },
+  {
+    "key": "kingdom_of_york_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Xứ York Hung Tợn"
+  },
+  {
+    "key": "kingdom_of_york_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Xứ York Khát Máu"
+  },
+  {
+    "key": "kingdom_of_york_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Xứ York Man Rợ"
+  },
+  {
+    "key": "kingdom_of_york_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Xứ York Xuất Chúng"
+  }
+]

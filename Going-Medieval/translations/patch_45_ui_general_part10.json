@@ -1,0 +1,902 @@
+[
+  {
+    "key": "wounding_default_14",
+    "type": 0,
+    "en": "acquired a",
+    "vi": "bị dính một vết thương"
+  },
+  {
+    "key": "wounding_default_15",
+    "type": 0,
+    "en": "now had to cope with a",
+    "vi": "giờ đây phải chịu đựng một"
+  },
+  {
+    "key": "wounding_default_16",
+    "type": 0,
+    "en": "was subjected to a",
+    "vi": "phải gánh chịu một"
+  },
+  {
+    "key": "carrying_verb_1",
+    "type": 0,
+    "en": "hauled away",
+    "vi": "khiêng đi"
+  },
+  {
+    "key": "carrying_verb_2",
+    "type": 0,
+    "en": "bravely rescued",
+    "vi": "dũng cảm cứu thoát"
+  },
+  {
+    "key": "carrying_verb_3",
+    "type": 0,
+    "en": "gently carried",
+    "vi": "nhẹ nhàng cõng"
+  },
+  {
+    "key": "carrying_verb_4",
+    "type": 0,
+    "en": "heroically saved",
+    "vi": "anh dũng giải cứu"
+  },
+  {
+    "key": "carrying_verb_5",
+    "type": 0,
+    "en": "quickly retrieved",
+    "vi": "nhanh chóng đưa về"
+  },
+  {
+    "key": "carrying_verb_6",
+    "type": 0,
+    "en": "rapidly recovered",
+    "vi": "kịp thời ứng cứu"
+  },
+  {
+    "key": "carrying_verb_7",
+    "type": 0,
+    "en": "grabbed",
+    "vi": "bế lấy"
+  },
+  {
+    "key": "carrying_verb_8",
+    "type": 0,
+    "en": "collected",
+    "vi": "đón lấy"
+  },
+  {
+    "key": "carrying_verb_9",
+    "type": 0,
+    "en": "brought back",
+    "vi": "đưa trở về"
+  },
+  {
+    "key": "carrying_verb_10",
+    "type": 0,
+    "en": "safely delivered",
+    "vi": "vận chuyển an toàn về"
+  },
+  {
+    "key": "carrying_verb_11",
+    "type": 0,
+    "en": "extricated",
+    "vi": "giải thoát thành công"
+  },
+  {
+    "key": "carrying_verb_12",
+    "type": 0,
+    "en": "pulled out",
+    "vi": "kéo ra khỏi vùng nguy hiểm"
+  },
+  {
+    "key": "carrying_verb_13",
+    "type": 0,
+    "en": "fetched",
+    "vi": "đưa về nơi điều trị"
+  },
+  {
+    "key": "carrying_verb_14",
+    "type": 0,
+    "en": "escorted",
+    "vi": "hộ tống an toàn về"
+  },
+  {
+    "key": "carrying_verb_15",
+    "type": 0,
+    "en": "shouldered",
+    "vi": "vác lên vai"
+  },
+  {
+    "key": "carrying_verb_16",
+    "type": 0,
+    "en": "lugged",
+    "vi": "khiêng đi"
+  },
+  {
+    "key": "carrying_verb_17",
+    "type": 0,
+    "en": "hefted",
+    "vi": "nhấc lên"
+  },
+  {
+    "key": "carrying_adjective _1",
+    "type": 0,
+    "en": "unconscious",
+    "vi": "bất tỉnh"
+  },
+  {
+    "key": "carrying_adjective _2",
+    "type": 0,
+    "en": "bleeding",
+    "vi": "Chảy máu"
+  },
+  {
+    "key": "carrying_adjective _3",
+    "type": 0,
+    "en": "wounded",
+    "vi": "bị thương"
+  },
+  {
+    "key": "carrying_adjective _4",
+    "type": 0,
+    "en": "injured",
+    "vi": "thương tích"
+  },
+  {
+    "key": "carrying_adjective _5",
+    "type": 0,
+    "en": "mangled",
+    "vi": "tan nát"
+  },
+  {
+    "key": "carrying_adjective _6",
+    "type": 0,
+    "en": "maimed",
+    "vi": "tàn phế"
+  },
+  {
+    "key": "carrying_adjective _7",
+    "type": 0,
+    "en": "scorched",
+    "vi": "bỏng cháy"
+  },
+  {
+    "key": "carrying_adjective _8",
+    "type": 0,
+    "en": "starving",
+    "vi": "đói lả"
+  },
+  {
+    "key": "death_default_1",
+    "type": 0,
+    "en": "<agent_name> perished.",
+    "vi": "<agent_name> đã tử nạn."
+  },
+  {
+    "key": "death_default_2",
+    "type": 0,
+    "en": "<agent_name> drew [his/her] last, ragged breath.",
+    "vi": "<agent_name> trút hơi thở cuối cùng đứt quãng của [his/her]."
+  },
+  {
+    "key": "death_default_3",
+    "type": 0,
+    "en": "<agent_name> died.",
+    "vi": "<agent_name> đã qua đời."
+  },
+  {
+    "key": "death_default_4",
+    "type": 0,
+    "en": "<agent_name> died a lingering death.",
+    "vi": "<agent_name> đã qua đời sau cơn hấp hối kéo dài."
+  },
+  {
+    "key": "death_default_5",
+    "type": 0,
+    "en": "<agent_name> relinquished life.",
+    "vi": "<agent_name> đã từ giã cõi đời."
+  },
+  {
+    "key": "death_default_6",
+    "type": 0,
+    "en": "And thus, <agent_name> expired.",
+    "vi": "Và thế là <agent_name> đã trút hơi thở cuối cùng."
+  },
+  {
+    "key": "death_default_7",
+    "type": 0,
+    "en": "<agent_name> died instantly.",
+    "vi": "<agent_name> đã tử vong ngay tức khắc."
+  },
+  {
+    "key": "death_default_8",
+    "type": 0,
+    "en": "<agent_name> died horribly.",
+    "vi": "<agent_name> đã qua đời trong đau đớn tột cùng."
+  },
+  {
+    "key": "death_default_9",
+    "type": 0,
+    "en": "<agent_name> fell asleep, never to awaken.",
+    "vi": "<agent_name> chìm vào giấc ngủ ngàn thu, vĩnh viễn không bao giờ tỉnh lại."
+  },
+  {
+    "key": "death_default_10",
+    "type": 0,
+    "en": "<agent_name> was dead as a doornail.",
+    "vi": "<agent_name> đã chết thật rồi."
+  },
+  {
+    "key": "death_default_11",
+    "type": 0,
+    "en": "<agent_name> fell, stone dead.",
+    "vi": "<agent_name> gục ngã và tắt thở."
+  },
+  {
+    "key": "death_human_1",
+    "type": 0,
+    "en": "<agent_name> departed this life, a strange smile on [his/her] lips.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> departed this life, a strange smile trên [his/her] lips.\""
+  },
+  {
+    "key": "death_human_2",
+    "type": 0,
+    "en": "<agent_name> laid down [his/her] life.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> laid down [his/her] life.\""
+  },
+  {
+    "key": "death_human_3",
+    "type": 0,
+    "en": "<agent_name> passed from this life.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> passed từ this life.\""
+  },
+  {
+    "key": "death_human_4",
+    "type": 0,
+    "en": "This was the day <agent_name> met [his/her] demise.",
+    "vi": "Đây là ngày định mệnh <agent_name> bước vào cõi vĩnh hằng của [his/her]."
+  },
+  {
+    "key": "death_human_5",
+    "type": 0,
+    "en": "<agent_name> knew [he/she] would now meet [his/her] maker.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> knew [he/she] would now meet [his/her] maker.\""
+  },
+  {
+    "key": "death_human_6",
+    "type": 0,
+    "en": "<agent_name> knew this was the end.",
+    "vi": "<agent_name> biết rằng hồi kết đã điểm."
+  },
+  {
+    "key": "death_human_7",
+    "type": 0,
+    "en": "Alas, <agent_name> lives no more.",
+    "vi": "Alas, <agent_name> lives Không more."
+  },
+  {
+    "key": "death_human_8",
+    "type": 0,
+    "en": "<agent_name> felt [his/her] vision dim. Death awaited [him/her].",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> felt [his/her] vision dim. Death awaited [him/her].\""
+  },
+  {
+    "key": "death_human_9",
+    "type": 0,
+    "en": "<agent_name> succumbed to the Reaper's scythe",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> succumbed để Reaper's scythe\""
+  },
+  {
+    "key": "death_human_10",
+    "type": 0,
+    "en": "<agent_name> felt borne aloft by Azrael's wings as [he/she] died",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> felt borne aloft by Azrael's wings as [he/she] died\""
+  },
+  {
+    "key": "death_human_11",
+    "type": 0,
+    "en": "<agent_name> heard a pale horse approach. Death was upon [him/her].",
+    "vi": "<agent_name> nghe thấy tiếng vó ngựa trắng tử thần đang tiến lại gần. Thần Chết đã đến bên [him/her]."
+  },
+  {
+    "key": "death_human_12",
+    "type": 0,
+    "en": "<agent_name> saw [his/her] own body far below, and understood it was over.",
+    "vi": "<agent_name> nhìn thấy thể xác của [his/her] trôi dần về phía dưới và hiểu rằng mọi chuyện đã kết thúc."
+  },
+  {
+    "key": "death_human_13",
+    "type": 0,
+    "en": "<agent_name> fought. But the Fates had already cut [his/her] mortal thread.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> fought. But Fates had already cut [his/her] mortal thread.\""
+  },
+  {
+    "key": "death_human_14",
+    "type": 0,
+    "en": "The Morrígan's ravens circled above. <agent_name> embraced death.",
+    "vi": "Đàn quạ của nữ thần Morrígan lượn vòng trên cao. <agent_name> thanh thản đón nhận cái chết."
+  },
+  {
+    "key": "death_human_15",
+    "type": 0,
+    "en": "<agent_name> surrendered to death's icy embrace.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> surrendered để death's icy embrace.\""
+  },
+  {
+    "key": "death_human_16",
+    "type": 0,
+    "en": "<agent_name> drifted from the shores of the living. The ferryman was waiting.",
+    "vi": "<agent_name> rời xa bến bờ của cõi dương. Người lái đò sang thế giới bên kia đang chờ đợi."
+  },
+  {
+    "key": "death_human_17",
+    "type": 0,
+    "en": "<agent_name> was ready to let go. Time to die.",
+    "vi": "<agent_name> đã sẵn sàng buông bỏ mọi sự trần thế. Đã đến lúc ra đi."
+  },
+  {
+    "key": "death_human_18",
+    "type": 0,
+    "en": "<agent_name> gave up the ghost. It was all over.",
+    "vi": "<agent_name> trút hơi thở cuối cùng. Mọi đắng cay đã khép lại."
+  },
+  {
+    "key": "death_human_19",
+    "type": 0,
+    "en": "As <agent_name> took a final breath,  the world's mysteries faded into oblivion.",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"As <agent_name> took a final breath,  world's mysteries faded into oblivion.\""
+  },
+  {
+    "key": "lastwords_default_1",
+    "type": 0,
+    "en": "Is that all?",
+    "vi": "Chỉ có thế thôi sao?"
+  },
+  {
+    "key": "lastwords_default_2",
+    "type": 0,
+    "en": "...",
+    "vi": "..."
+  },
+  {
+    "key": "lastwords_default_3",
+    "type": 0,
+    "en": "Until we meet again.",
+    "vi": "Hẹn ngày ta tái ngộ."
+  },
+  {
+    "key": "lastwords_default_4",
+    "type": 0,
+    "en": "Haven't I said enough?",
+    "vi": "Chẳng lẽ ta nói còn chưa đủ sao?"
+  },
+  {
+    "key": "lastwords_default_5",
+    "type": 0,
+    "en": "I need a drink.",
+    "vi": "Ta cần một ngụm rượu..."
+  },
+  {
+    "key": "lastwords_default_6",
+    "type": 0,
+    "en": "It's a leap into the dark.",
+    "vi": "Đó là một bước nhảy vào cõi hư vô."
+  },
+  {
+    "key": "lastwords_default_7",
+    "type": 0,
+    "en": "I'm so cold.",
+    "vi": "Ta lạnh quá..."
+  },
+  {
+    "key": "lastwords_default_8",
+    "type": 0,
+    "en": "It's full of stars.",
+    "vi": "Nơi này rực rỡ ngàn vì sao..."
+  },
+  {
+    "key": "lastwords_default_9",
+    "type": 0,
+    "en": "I'll tell you where I hid my gold...",
+    "vi": "Ta sẽ chỉ cho ngươi nơi ta giấu vàng..."
+  },
+  {
+    "key": "lastwords_default_10",
+    "type": 0,
+    "en": "I taste death upon my lips.",
+    "vi": "Ta đã nếm thấy vị thần chết trên môi."
+  },
+  {
+    "key": "lastwords_default_11",
+    "type": 0,
+    "en": "Goodnight.",
+    "vi": "Chúc ngủ ngon."
+  },
+  {
+    "key": "lastwords_default_12",
+    "type": 0,
+    "en": "Better to burn out than fade away",
+    "vi": "Thà bùng cháy rực rỡ còn hơn tàn lụi dần"
+  },
+  {
+    "key": "lastwords_default_13",
+    "type": 0,
+    "en": "I've had a good run.",
+    "vi": "Ta đã có một chặng đường tuyệt đẹp."
+  },
+  {
+    "key": "lastwords_default_14",
+    "type": 0,
+    "en": "What a great place to die.",
+    "vi": "Quả là một nơi tuyệt vời để nhắm mắt xuôi tay."
+  },
+  {
+    "key": "lastwords_default_15",
+    "type": 0,
+    "en": "I'm off.",
+    "vi": "Ta đi đây..."
+  },
+  {
+    "key": "lastwords_default_16",
+    "type": 0,
+    "en": "I repent!",
+    "vi": "Con xin ăn năn thống hối!"
+  },
+  {
+    "key": "lastwords_default_17",
+    "type": 0,
+    "en": "The rest is silence.",
+    "vi": "Phần còn lại chỉ là sự tĩnh lặng vĩnh hằng."
+  },
+  {
+    "key": "lastwords_default_18",
+    "type": 0,
+    "en": "I feel the cold hand of death",
+    "vi": "Ta cảm nhận bàn tay buốt giá của Tử thần"
+  },
+  {
+    "key": "lastwords_default_19",
+    "type": 0,
+    "en": "Mercy! Mercy!",
+    "vi": "Xin tha mạng!"
+  },
+  {
+    "key": "lastwords_default_20",
+    "type": 0,
+    "en": "Wait, I must put my affairs in order",
+    "vi": "Khoan đã, ta cần thu xếp việc dang dở..."
+  },
+  {
+    "key": "lastwords_default_21",
+    "type": 0,
+    "en": "O Death, where is your sting?",
+    "vi": "Hỡi Tử thần, nọc độc của ngươi ở đâu?"
+  },
+  {
+    "key": "lastwords_default_22",
+    "type": 0,
+    "en": "I'll haunt you. Just you wait and see!",
+    "vi": "Hồn ma ta sẽ ám các ngươi. Cứ chờ mà xem!"
+  },
+  {
+    "key": "lastwords_default_23",
+    "type": 0,
+    "en": "Put me under the hill, with the Faery King.",
+    "vi": "Hãy chôn ta dưới chân đồi, bên cạnh Vị Vua Tiên Tộc."
+  },
+  {
+    "key": "lastwords_default_24",
+    "type": 0,
+    "en": "Wait! I must confess!",
+    "vi": "Khoan đã! Ta phải xưng tội!"
+  },
+  {
+    "key": "healing_default_1",
+    "type": 0,
+    "en": "treated",
+    "vi": "đã điều trị"
+  },
+  {
+    "key": "healing_default_2",
+    "type": 0,
+    "en": "cared for",
+    "vi": "cared cho"
+  },
+  {
+    "key": "healing_default_3",
+    "type": 0,
+    "en": "tended",
+    "vi": "đã chữa trị"
+  },
+  {
+    "key": "healing_default_4",
+    "type": 0,
+    "en": "cleaned up",
+    "vi": "đã rửa sạch vết thương"
+  },
+  {
+    "key": "healing_default_5",
+    "type": 0,
+    "en": "nursed",
+    "vi": "đã chăm sóc"
+  },
+  {
+    "key": "healing_default_6",
+    "type": 0,
+    "en": "ministered to",
+    "vi": "ministered đến"
+  },
+  {
+    "key": "healing_default_7",
+    "type": 0,
+    "en": "assisted with",
+    "vi": "assisted với"
+  },
+  {
+    "key": "healing_default_8",
+    "type": 0,
+    "en": "helped with",
+    "vi": "hỗ trợ điều trị"
+  },
+  {
+    "key": "healing_default_9",
+    "type": 0,
+    "en": "remedied",
+    "vi": "cứu chữa lành"
+  },
+  {
+    "key": "healing_default_10",
+    "type": 0,
+    "en": "soothed",
+    "vi": "xoa dịu cơn đau cho"
+  },
+  {
+    "key": "healing_default_11",
+    "type": 0,
+    "en": "patched up",
+    "vi": "băng bó vết thương"
+  },
+  {
+    "key": "healing_default_12",
+    "type": 0,
+    "en": "saw to",
+    "vi": "chăm sóc tận tình cho"
+  },
+  {
+    "key": "healing_default_13",
+    "type": 0,
+    "en": "watched over",
+    "vi": "túc trực chăm nom"
+  },
+  {
+    "key": "unconscious_default_1",
+    "type": 0,
+    "en": "<agent_name> passed out.",
+    "vi": "<agent_name> đã ngất đi."
+  },
+  {
+    "key": "unconscious_default_2",
+    "type": 0,
+    "en": "<agent_name> swooned, unconscious.",
+    "vi": "<agent_name> lịm đi và hoàn toàn bất tỉnh."
+  },
+  {
+    "key": "unconscious_default_3",
+    "type": 0,
+    "en": "<agent_name> blacked out.",
+    "vi": "<agent_name> hoa mắt tối sầm mặt mũi."
+  },
+  {
+    "key": "unconscious_default_4",
+    "type": 0,
+    "en": "<agent_name> appeared comatose.",
+    "vi": "<agent_name> rơi vào trạng thái hôn mê."
+  },
+  {
+    "key": "unconscious_default_5",
+    "type": 0,
+    "en": "<agent_name> was out cold.",
+    "vi": "<agent_name> đã hoàn toàn bất tỉnh nhân sự."
+  },
+  {
+    "key": "unconscious_default_6",
+    "type": 0,
+    "en": "<agent_name> collapsed.",
+    "vi": "<agent_name> gục ngã xuống đất."
+  },
+  {
+    "key": "unconscious_default_7",
+    "type": 0,
+    "en": "<agent_name> keeled over.",
+    "vi": "<agent_name> ngã quỵ xuống."
+  },
+  {
+    "key": "unconscious_default_8",
+    "type": 0,
+    "en": "<agent_name> fainted.",
+    "vi": "<agent_name> ngất xỉu vì kiệt sức."
+  },
+  {
+    "key": "unconscious_default_9",
+    "type": 0,
+    "en": "<agent_name> was unresponsive.",
+    "vi": "<agent_name> không còn phản ứng gì."
+  },
+  {
+    "key": "unconscious_default_10",
+    "type": 0,
+    "en": "<agent_name> seemed dead to the world.",
+    "vi": "<agent_name> nằm bất động như đã qua đời."
+  },
+  {
+    "key": "unconscious_default_11",
+    "type": 0,
+    "en": "<agent_name> was totally inert.",
+    "vi": "<agent_name> hoàn toàn tê liệt bất động."
+  },
+  {
+    "key": "unconscious_default_12",
+    "type": 0,
+    "en": "<agent_name> lost consciousness.",
+    "vi": "<agent_name> mất đi ý thức tỉnh táo."
+  },
+  {
+    "key": "unconscious_default_13",
+    "type": 0,
+    "en": "<agent_name> slumped to the ground.",
+    "vi": "<agent_name> ngã vật ra sàn."
+  },
+  {
+    "key": "unconscious_default_14",
+    "type": 0,
+    "en": "<agent_name> was rendered senseless",
+    "vi": "<agent_name> mê man không còn hay biết gì."
+  },
+  {
+    "key": "unconscious_default_15",
+    "type": 0,
+    "en": "<agent_name> fell into a stupor.",
+    "vi": "<agent_name> chìm vào cơn mê man sâu."
+  },
+  {
+    "key": "effector_name_AffectionPlayedBackgammonPositive",
+    "type": 0,
+    "en": "An enjoyable game of Backgammon",
+    "vi": "Trận đấu cờ thỏ cáo (Backgammon) vô cùng thú vị"
+  },
+  {
+    "key": "effector_name_AffectionPlayedBackgammonNegative",
+    "type": 0,
+    "en": "Blatantly cheated at Backgammon",
+    "vi": "Gian lận trắng trợn khi chơi cờ thỏ cáo"
+  },
+  {
+    "key": "effector_name_AffectionAteAtTablePositive",
+    "type": 0,
+    "en": "A convivial meal together",
+    "vi": "Cùng nhau thưởng thức bữa ăn ấm cúng"
+  },
+  {
+    "key": "effector_name_AffectionAteAtTableNegative",
+    "type": 0,
+    "en": "A disagreeable mealtime",
+    "vi": "Bữa ăn khó chịu đầy bực bội"
+  },
+  {
+    "key": "effector_name_AffectionPrayedTogetherPositive",
+    "type": 0,
+    "en": "A sincere prayer together",
+    "vi": "Cùng nhau cầu nguyện chân thành"
+  },
+  {
+    "key": "effector_name_AffectionPrayedTogetherNegative",
+    "type": 0,
+    "en": "A disquieting prayer together",
+    "vi": "Buổi cầu nguyện đầy bất an"
+  },
+  {
+    "key": "effector_name_AffectionSawDrunkSettlerPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] hilariously drunk",
+    "vi": "Thấy [Him/Her] say xỉn một cách hài hước"
+  },
+  {
+    "key": "effector_name_AffectionSawDrunkSettlerNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] horribly drunk",
+    "vi": "Thấy [Him/Her] say khướt bê tha đáng xấu hổ"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalButcheringPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] skillfully butchering another human being",
+    "vi": "Thấy [Him/Her] mổ xẻ thịt người vô cùng điêu luyện"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalButcheringNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] gruesomely butchering another human being",
+    "vi": "Thấy [Him/Her] mổ xẻ thịt người ghê rợn tàn nhẫn"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalCookingPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] cooking with delicious human meat",
+    "vi": "Thấy [Him/Her] nấu món thịt người thơm ngon"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibaCookingNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] cooking with repulsive human meat",
+    "vi": "Thấy [Him/Her] nấu món thịt người kinh tởm"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalEatingPositive",
+    "type": 0,
+    "en": "Saw [Him/Her] enjoying tasty human flesh",
+    "vi": "Thấy [Him/Her] ngon miệng thưởng thức thịt người"
+  },
+  {
+    "key": "effector_name_AffectionSawCannibalEatingNegative",
+    "type": 0,
+    "en": "Saw [Him/Her] consuming revolting human flesh",
+    "vi": "Thấy [Him/Her] ngấu nghiến ăn thịt người ghê tởm"
+  },
+  {
+    "key": "effector_name_AffectionConsumedFoodPositive",
+    "type": 0,
+    "en": "Ate a delicious meal that [he/she] made",
+    "vi": "Thưởng thức món ăn ngon tuyệt do [he/she] tự tay nấu"
+  },
+  {
+    "key": "effector_name_AffectionConsumedFoodNegative",
+    "type": 0,
+    "en": "Ate an unappetising meal that [he/she] made",
+    "vi": "Phải ăn món ăn dở tệ do [he/she] nấu"
+  },
+  {
+    "key": "effector_name_AffectionConsumedDrinkPositive",
+    "type": 0,
+    "en": "Drank a refreshing beverage that [he/she] made",
+    "vi": "Thưởng thức đồ uống giải khát mát lành do [he/she] ủ"
+  },
+  {
+    "key": "effector_name_AffectionConsumedDrinNegative",
+    "type": 0,
+    "en": "Drank a flavourless beverage that [he/she] made",
+    "vi": "Uống phải thứ rượu nhạt nhẽo vô vị do [he/she] làm"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedHarvestPositive",
+    "type": 0,
+    "en": "[He/She] ruined a harvest",
+    "vi": "[He/She] lóng ngóng làm hỏng vụ mùa"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedHarvestNegative",
+    "type": 0,
+    "en": "[He/She] ruined a harvest",
+    "vi": "[He/She] làm hỏng vụ thu hoạch hoa màu"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedDiggingPositive",
+    "type": 0,
+    "en": "[He/She] mangled a mining yield",
+    "vi": "[He/She] làm vỡ vụn quặng khi khai thác"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedDiggingNegative",
+    "type": 0,
+    "en": "[He/She] mangled a mining yield",
+    "vi": "[He/She] làm hỏng sản lượng quặng mỏ"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedChoppingPositive",
+    "type": 0,
+    "en": "[He/She] botched a harvest",
+    "vi": "[He/She] đốn cây làm hỏng mất thân gỗ tốt"
+  },
+  {
+    "key": "effector_name_AffectionSawFailedChoppingNegative",
+    "type": 0,
+    "en": "[He/She] botched a harvest",
+    "vi": "[He/She] chặt gỗ vụng về làm hỏng cây"
+  },
+  {
+    "key": "effector_name_AffectionSawFlimsyProductionPositive",
+    "type": 0,
+    "en": "[He/She] created an inferior item",
+    "vi": "[He/She] làm ra một món đồ chất lượng kém"
+  },
+  {
+    "key": "effector_name_AffectionSawFlimsyProductionNegative",
+    "type": 0,
+    "en": "[He/She] created an inferior item",
+    "vi": "[He/She] chế tạo vật phẩm tạm bợ cẩu thả"
+  },
+  {
+    "key": "effector_name_AffectionSawFlawlessProductionPositive",
+    "type": 0,
+    "en": "[He/She] impressively created a masterful item",
+    "vi": "[He/She] tạo nên một kiệt tác hoàn mỹ đáng kinh ngạc"
+  },
+  {
+    "key": "effector_name_AffectionSawFlawlessProductionNegative",
+    "type": 0,
+    "en": "[He/She] boastfully created a masterful item",
+    "vi": "[He/She] khoe khoang tự phụ vì tạo ra kiệt tác"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithChairPositive",
+    "type": 0,
+    "en": "[He/She] has great taste in furniture",
+    "vi": "[He/She] có gu thẩm mỹ đồ nội thất thật tinh tế"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithChairNegative",
+    "type": 0,
+    "en": "[He/She] makes furniture that I really dislike",
+    "vi": "[He/She] đóng bàn ghế có kiểu dáng rất khó chịu"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArtPositive",
+    "type": 0,
+    "en": "[He/She] has made a tasteful art collection",
+    "vi": "[He/She] tạo nên bộ sưu tập nghệ thuật đầy trang nhã"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArtNegative",
+    "type": 0,
+    "en": "[He/She] likes really ugly art",
+    "vi": "[He/She] có gu thưởng thức nghệ thuật xấu xí kỳ quặc"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithBedPositive",
+    "type": 0,
+    "en": "[He/She] has great taste in furniture",
+    "vi": "[He/She] đóng chiếc giường nằm thật êm ái thoải mái"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithBedNegative",
+    "type": 0,
+    "en": "[He/She] makes furniture that I really dislike",
+    "vi": "[He/She] đóng chiếc giường nệm rất khó nằm"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithShieldPositive",
+    "type": 0,
+    "en": "[He/She] created a shield that gives great protection",
+    "vi": "[He/She] rèn chiếc khiên che chắn vô cùng vững chãi"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithShieldNegative",
+    "type": 0,
+    "en": "[He/She] created a shield that is all but useless",
+    "vi": "[He/She] làm chiếc khiên tạm bợ gần như vô dụng"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArmouPositive",
+    "type": 0,
+    "en": "[He/She] created a great piece of armour",
+    "vi": "[He/She] rèn nên một bộ giáp trụ xuất sắc kiên cố"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithArmouNegative",
+    "type": 0,
+    "en": "[He/She] created an inadequate piece of armour",
+    "vi": "[He/She] rèn bộ giáp trụ quá mỏng manh xoàng xĩnh"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithGarmentPositive",
+    "type": 0,
+    "en": "[He/She] crafted a beautiful garment",
+    "vi": "[He/She] may một bộ trang phục đẹp mắt tuyệt vời"
+  },
+  {
+    "key": "effector_name_AffectionInteractedWithGarmentNegative",
+    "type": 0,
+    "en": "[He/She] crafted an ill-fitting garment",
+    "vi": "[He/She] may trang phục luộm thuộm không vừa vặn"
+  }
+]

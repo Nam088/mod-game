@@ -1,0 +1,902 @@
+[
+  {
+    "key": "effector_info_AlcoholNeedNone",
+    "type": 0,
+    "en": "I don't need a drink.",
+    "vi": "Tôi không cần uống rượu."
+  },
+  {
+    "key": "effector_info_AlcoholNeedLow",
+    "type": 0,
+    "en": "A drink sounds nice",
+    "vi": "A đồ uống sounds dễ chịu"
+  },
+  {
+    "key": "effector_info_AlcoholNeedMed",
+    "type": 0,
+    "en": "I'm thirsty. A pint would really hit the spot",
+    "vi": "Tôi khát quá. Một vại bia lúc này thì tuyệt."
+  },
+  {
+    "key": "effector_info_AlcoholNeedHigh",
+    "type": 0,
+    "en": "I’d kill for a pint, or three <style=AltColor>Tip: Brew some alcoholic beverages for your settlers.</style>",
+    "vi": "Tôi thèm một cốc bia đến chết đi được! <style=AltColor>Mẹo: Hãy nấu đồ uống có cồn cho dân làng của bạn.</style>"
+  },
+  {
+    "key": "effector_info_DrankVeryNiceDrink",
+    "type": 0,
+    "en": "Ah, that beer really hits the spot. Lovely!",
+    "vi": "Ah, đó bia really hits spot. Lovely!"
+  },
+  {
+    "key": "effector_info_DrankNiceDrink",
+    "type": 0,
+    "en": "Not the finest of ales, I'll grant you. But it goes down well enough.",
+    "vi": "Không phải loại ale hảo hạng nhất, tôi công nhận. Nhưng uống cũng khá ngon."
+  },
+  {
+    "key": "effector_info_InebriatedLow",
+    "type": 0,
+    "en": "It's nice to relax and have a couple of drinks for a change.",
+    "vi": "Thỉnh thoảng thư giãn và uống vài ly thật dễ chịu."
+  },
+  {
+    "key": "effector_info_InebriatedMed",
+    "type": 0,
+    "en": "Hey, friends, look at me! I'd like to see those raiders try and come at me now!",
+    "vi": "Này các bạn, nhìn tôi đây! Để xem lũ cướp có dám xông vào tôi lúc này không!"
+  },
+  {
+    "key": "effector_info_InebriatedHigh",
+    "type": 0,
+    "en": "C'mon, let's have another round. Yes, I really can drink you all under the table, and I'll prove it!",
+    "vi": "Nào, thêm một vòng nữa đi. Tôi thực sự có thể uống gục tất cả các người, và tôi sẽ chứng minh!"
+  },
+  {
+    "key": "effector_info_InebriatedVeryHigh",
+    "type": 0,
+    "en": "Drunk? Pshhht. No, I did NOT soil myself! Please don't put me in the stocks again to sober up. Take me home, or let me sleep here on the floor... I'll stop crying.",
+    "vi": "Say ư? Xì. Không, tôi KHÔNG làm bẩn quần! Xin đừng nhốt tôi vào cùm lần nữa để giải rượu. Đưa tôi về nhà, hoặc cứ để tôi ngủ trên sàn... Tôi sẽ thôi khóc."
+  },
+  {
+    "key": "effector_info_StomachHurtLow",
+    "type": 0,
+    "en": "Oh dear, my guts are grumbling. Wonder if it's something I ate or drank?",
+    "vi": "Ôi trời, bụng tôi đang réo. Không biết có phải do thứ gì tôi đã ăn hay uống không?"
+  },
+  {
+    "key": "effector_info_StomachHurtMed",
+    "type": 0,
+    "en": "I've got a really bad stomach ache. It's pretty painful.",
+    "vi": "Tôi đau bụng dữ dội. Đau thật sự."
+  },
+  {
+    "key": "effector_info_VomitAfter",
+    "type": 0,
+    "en": "Better out than in. I feel a bit empty now though. Perhaps I should eat something to settle my stomach?",
+    "vi": "Nôn ra vẫn hơn giữ trong bụng. Giờ tôi hơi trống rỗng. Có lẽ nên ăn chút gì để ổn định dạ dày?"
+  },
+  {
+    "key": "effector_name_EntertainmentFull",
+    "type": 0,
+    "en": "Entertainment needs fulfilled",
+    "vi": "Nhu cầu giải trí đã đủ"
+  },
+  {
+    "key": "effector_name_EntertainmentNeed",
+    "type": 0,
+    "en": "Lacking in entertainment ",
+    "vi": "Lacking trong giải trí "
+  },
+  {
+    "key": "effector_name_EntertainmentDeprived",
+    "type": 0,
+    "en": "Deprived of entertainment ",
+    "vi": "Deprived của giải trí "
+  },
+  {
+    "key": "effector_info_EntertainmentFull",
+    "type": 0,
+    "en": "I'm feeling grand! No need for entertainment at the minute.",
+    "vi": "Tôi thấy tuyệt lắm! Lúc này chưa cần giải trí."
+  },
+  {
+    "key": "effector_info_EntertainmentNeed",
+    "type": 0,
+    "en": "I'm pretty bored, truth be told. We could do with a little fun around here.",
+    "vi": "Thật lòng mà nói, tôi khá buồn chán. Giá mà quanh đây có chút trò vui."
+  },
+  {
+    "key": "effector_info_EntertainmentDeprived",
+    "type": 0,
+    "en": "It's just one tough, dreary thing after another, isn't it? I'd even be cheered to watch mummers or an execution, I'm that fed up. <style=AltColor>Tip: Give your settlers some pastimes like a backgammon table and schedule some leisure hours for entertainment.</style>",
+    "vi": "Hết chuyện khổ sở này lại đến chuyện ảm đạm khác, phải không? Giờ ngay cả xem diễn trò hay hành quyết cũng khiến tôi vui lên. <style=AltColor>Mẹo: Hãy cho dân làng vài trò tiêu khiển như bàn cờ thỏ cáo và xếp đủ giờ Giải trí.</style>"
+  },
+  {
+    "key": "effector_name_NewVillagerInitialOptimisam",
+    "type": 0,
+    "en": "Initial Optimism",
+    "vi": "Lạc quan ban đầu"
+  },
+  {
+    "key": "effector_info_NewVillagerInitialOptimisam",
+    "type": 0,
+    "en": "A new beginning. Nobody from my past life is here to tell me what I can or can't become...",
+    "vi": "Một khởi đầu mới. Không ai từ cuộc đời trước ở đây để bảo tôi có thể hay không thể trở thành người thế nào..."
+  },
+  {
+    "key": "effector_name_AteInGreatHall",
+    "type": 0,
+    "en": "Ate in great hall",
+    "vi": "Ate trong tuyệt hall"
+  },
+  {
+    "key": "effector_name_AteInGreatHallAwful",
+    "type": 0,
+    "en": "Ate in great hall (Awful)",
+    "vi": "Ate trong tuyệt hall (Awful)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallDull",
+    "type": 0,
+    "en": "Ate in great hall (Uninspiring)",
+    "vi": "Ate trong tuyệt hall (Uninspiring)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallMediocre",
+    "type": 0,
+    "en": "Ate in great hall (Modest)",
+    "vi": "Ate trong tuyệt hall (Modest)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallGood",
+    "type": 0,
+    "en": "Ate in great hall (Good)",
+    "vi": "Đã ăn trong đại sảnh (Tốt)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallSlightlyImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Superior)",
+    "vi": "Ate trong tuyệt hall (Superior)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallSomewhatImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Luxurious)",
+    "vi": "Ate trong tuyệt hall (Luxurious)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallVeryImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Opulent)",
+    "vi": "Ate trong tuyệt hall (Opulent)"
+  },
+  {
+    "key": "effector_name_AteInGreatHallExtremelyImpressive",
+    "type": 0,
+    "en": "Ate in great hall (Palatial)",
+    "vi": "Ate trong tuyệt hall (Palatial)"
+  },
+  {
+    "key": "effector_info_AteInGreatHall",
+    "type": 0,
+    "en": "Nothing beats a good meal and a rousing tale among friends and neighbours in the great hall. Life is sweet!",
+    "vi": "Không gì sánh bằng một bữa ngon cùng câu chuyện hào hứng giữa bạn bè và láng giềng trong đại sảnh. Cuộc sống thật ngọt ngào!"
+  },
+  {
+    "key": "effector_name_FrozenDeath",
+    "type": 0,
+    "en": "Losing HP (Freezing)",
+    "vi": "Mất HP (Rét cóng)"
+  },
+  {
+    "key": "effector_name_ImpairedMovementLow",
+    "type": 0,
+    "en": "Small Movement Impairment",
+    "vi": "Suy giảm vận động nhẹ"
+  },
+  {
+    "key": "effector_name_ImpairedMovementMed",
+    "type": 0,
+    "en": "Significant Movement Impairment",
+    "vi": "Suy giảm vận động đáng kể"
+  },
+  {
+    "key": "effector_name_VisibilityFog",
+    "type": 0,
+    "en": "Visibility (Fog)",
+    "vi": "Tầm nhìn (Sương mù)"
+  },
+  {
+    "key": "effector_name_VisibilityRain",
+    "type": 0,
+    "en": "Visibility (Rain)",
+    "vi": "Tầm nhìn (Mưa)"
+  },
+  {
+    "key": "effector_name_VisibilitySnow",
+    "type": 0,
+    "en": "Visibility (Snow)",
+    "vi": "Tầm nhìn (Tuyết)"
+  },
+  {
+    "key": "effector_name_SleepingHealing",
+    "type": 0,
+    "en": "Healing (sleeping)",
+    "vi": "Hồi phục (Ngủ)"
+  },
+  {
+    "key": "effector_name_RestingHealing",
+    "type": 0,
+    "en": "Healing (convalescence)",
+    "vi": "Hồi phục (Dưỡng bệnh)"
+  },
+  {
+    "key": "effector_name_ConLoseMotor",
+    "type": 0,
+    "en": "Some Motor Function lost",
+    "vi": "Mất một phần chức năng vận động"
+  },
+  {
+    "key": "effector_name_ConLoseMotorHigh",
+    "type": 0,
+    "en": "Severe loss of Motor Function",
+    "vi": "Severe loss của Motor Function"
+  },
+  {
+    "key": "effector_name_DrankWeakAlcohol",
+    "type": 0,
+    "en": "Weak Alcohol",
+    "vi": "Rượu nhẹ"
+  },
+  {
+    "key": "effector_name_DrankMediumAlcohol",
+    "type": 0,
+    "en": "Moderate Alcohol",
+    "vi": "Rượu vừa"
+  },
+  {
+    "key": "effector_name_DrankAlcohol",
+    "type": 0,
+    "en": "Regular Alcohol",
+    "vi": "Rượu thường"
+  },
+  {
+    "key": "effector_name_DrankHardAlcohol",
+    "type": 0,
+    "en": "Strong Alcohol",
+    "vi": "Rượu mạnh"
+  },
+  {
+    "key": "effector_name_StomachFoodInstaDmgVeryLow",
+    "type": 0,
+    "en": "Stomach upset",
+    "vi": "Khó chịu dạ dày"
+  },
+  {
+    "key": "effector_name_StomachFoodInstaDmgLow",
+    "type": 0,
+    "en": "Bad stomach upset",
+    "vi": "Đau dạ dày"
+  },
+  {
+    "key": "effector_name_StomackRotDmg",
+    "type": 0,
+    "en": "The stench of rot",
+    "vi": "Mùi thối rữa"
+  },
+  {
+    "key": "effector_name_StomackCarcassDmg",
+    "type": 0,
+    "en": "The sight of a dead body",
+    "vi": "Cảnh tượng thi thể"
+  },
+  {
+    "key": "hunger_effector",
+    "type": 0,
+    "en": "Hunger",
+    "vi": "Mức độ đói"
+  },
+  {
+    "key": "sleep_effector",
+    "type": 0,
+    "en": "Sleep",
+    "vi": "Giấc ngủ"
+  },
+  {
+    "key": "carcass_effector",
+    "type": 0,
+    "en": "Carcass",
+    "vi": "Xác động vật"
+  },
+  {
+    "key": "death_effector",
+    "type": 0,
+    "en": "Death",
+    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"Death\""
+  },
+  {
+    "key": "cold_effector",
+    "type": 0,
+    "en": "Cold",
+    "vi": "Lạnh"
+  },
+  {
+    "key": "hot_effector",
+    "type": 0,
+    "en": "Hot",
+    "vi": "Nóng"
+  },
+  {
+    "key": "clothing_effector",
+    "type": 0,
+    "en": "Clothing",
+    "vi": "Trang phục"
+  },
+  {
+    "key": "passion_effector",
+    "type": 0,
+    "en": "Passion",
+    "vi": "Đam mê"
+  },
+  {
+    "key": "banished_effector",
+    "type": 0,
+    "en": "Banishment",
+    "vi": "Bị trục xuất"
+  },
+  {
+    "key": "ransom_help_effector",
+    "type": 0,
+    "en": "Helped someone",
+    "vi": "Đã giúp đỡ ai đó"
+  },
+  {
+    "key": "ransom_no_help_effector",
+    "type": 0,
+    "en": "Help declined",
+    "vi": "Từ chối giúp đỡ"
+  },
+  {
+    "key": "faith_effector",
+    "type": 0,
+    "en": "Faith",
+    "vi": "Đức tin"
+  },
+  {
+    "key": "Inebriated_effector",
+    "type": 0,
+    "en": "Inebriated",
+    "vi": "Say rượu"
+  },
+  {
+    "key": "stomach_effector",
+    "type": 0,
+    "en": "Stomach",
+    "vi": "Dạ dày"
+  },
+  {
+    "key": "entertainment_effector",
+    "type": 0,
+    "en": "Entertainment",
+    "vi": "Giải trí"
+  },
+  {
+    "key": "effector_name_WhileFaintedEffector",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Bất tỉnh"
+  },
+  {
+    "key": "effector_info_AteDubiousMeal",
+    "type": 0,
+    "en": "Not sure what was in that, and I never want to find out.",
+    "vi": "Không rõ trong đó có gì, và tôi không bao giờ muốn biết."
+  },
+  {
+    "key": "effector_name_AteRotten",
+    "type": 0,
+    "en": "Ate Something Rotten",
+    "vi": "Đã ăn đồ ôi thiu"
+  },
+  {
+    "key": "effector_name_AteDubiousMeal",
+    "type": 0,
+    "en": "Ate Tainted Food",
+    "vi": "Đã ăn thức ăn nhiễm bẩn"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCanibal",
+    "type": 0,
+    "en": "Consumed Human Flesh",
+    "vi": "Đã ăn thịt người"
+  },
+  {
+    "key": "effector_name_AteHumanFleshCanibal",
+    "type": 0,
+    "en": "Eating this flesh imbues sacred power, so said the druids of yore.",
+    "vi": "Eating điều này flesh imbues sacred power, so said druids của yore."
+  },
+  {
+    "key": "effector_name_AteHumanFleshCookedCanibal",
+    "type": 0,
+    "en": "Consumed Cooked Human Flesh",
+    "vi": "Đã ăn thịt người nấu chín"
+  },
+  {
+    "key": "effector_info_AteHumanFleshCookedCanibal",
+    "type": 0,
+    "en": "Each tasty morsel of this forbidden Eucharist helps me transcend mortality.",
+    "vi": "Mỗi miếng ngon của Thánh thể cấm kỵ này giúp tôi vượt khỏi kiếp phàm."
+  },
+  {
+    "key": "effector_name_DuringBattle",
+    "type": 0,
+    "en": "Let me at them!",
+    "vi": "Để ta xử chúng!"
+  },
+  {
+    "key": "effector_name_SleptInLowQualityBed",
+    "type": 0,
+    "en": "Slept in Uncomfortable Bed",
+    "vi": "Đã ngủ trên giường khó chịu"
+  },
+  {
+    "key": "effector_name_SleptInMedQualityBed",
+    "type": 0,
+    "en": "Slept in Nice Bed",
+    "vi": "Đã ngủ trên giường tốt"
+  },
+  {
+    "key": "effector_name_SleptInHighQualityBed",
+    "type": 0,
+    "en": "Slept in Comfortable Bed",
+    "vi": "Đã ngủ trên giường thoải mái"
+  },
+  {
+    "key": "effector_name_SleptInHighestQualityBed",
+    "type": 0,
+    "en": "Slept in Very Comfortable Bed",
+    "vi": "Đã ngủ trên giường rất thoải mái"
+  },
+  {
+    "key": "effector_info_SleptInMedQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A dễ chịu thoải mái giường trong these khó chịu times."
+  },
+  {
+    "key": "effector_info_SleptInHighQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A dễ chịu thoải mái giường trong these khó chịu times."
+  },
+  {
+    "key": "effector_info_SleptInHighestQualityBed",
+    "type": 0,
+    "en": "A nice comfortable bed in these uncomfortable times.",
+    "vi": "A dễ chịu thoải mái giường trong these khó chịu times."
+  },
+  {
+    "key": "effector_name_AteSweet",
+    "type": 0,
+    "en": "Ate something sweet",
+    "vi": "Ate something ngọt ngào"
+  },
+  {
+    "key": "effector_info_AteSweet",
+    "type": 0,
+    "en": "When my craving for the sweeter things in life is satisfied, then so am I.",
+    "vi": "Khi cơn thèm những điều ngọt ngào trong đời được thỏa mãn, tôi cũng mãn nguyện."
+  },
+  {
+    "key": "effector_name_YoungAgeEffector01",
+    "type": 0,
+    "en": "Young",
+    "vi": "Trẻ tuổi"
+  },
+  {
+    "key": "effector_info_YoungAgeEffector01",
+    "type": 0,
+    "en": "They all say I have much to learn. But time and energy are on my side. What I lack in experience, I make up for in enthusiasm!",
+    "vi": "Ai cũng nói tôi còn nhiều điều phải học. Nhưng thời gian và sức lực đứng về phía tôi. Điều thiếu về kinh nghiệm, tôi bù bằng nhiệt huyết!"
+  },
+  {
+    "key": "effector_name_AdultAgeEffector01",
+    "type": 0,
+    "en": "Adult",
+    "vi": "Trưởng thành"
+  },
+  {
+    "key": "effector_info_AdultAgeEffector01",
+    "type": 0,
+    "en": "True, I have had a few setbacks. But I've learned how to handle myself, and that's what counts. I am in the prime of life, after all!",
+    "vi": "Đúng là tôi đã gặp vài trở ngại. Nhưng tôi học được cách tự lo cho mình, và đó mới là điều quan trọng. Dù sao tôi cũng đang ở độ sung sức nhất!"
+  },
+  {
+    "key": "effector_name_MidAgeEffector01",
+    "type": 0,
+    "en": "Middle Aged",
+    "vi": "Trung niên"
+  },
+  {
+    "key": "effector_info_MidAgeEffector01",
+    "type": 0,
+    "en": "I may be older and wiser - others look to me for leadership. But honestly? Everything aches, and I'm not as nimble as I used to be.",
+    "vi": "Tôi có thể già hơn và khôn ngoan hơn, người khác tìm đến tôi để được dẫn dắt. Nhưng thật lòng ư? Chỗ nào cũng đau, và tôi không còn nhanh nhẹn như trước."
+  },
+  {
+    "key": "effector_name_SeniorAgeEffector01",
+    "type": 0,
+    "en": "Senior",
+    "vi": "Cao niên"
+  },
+  {
+    "key": "effector_info_SeniorAgeEffector01",
+    "type": 0,
+    "en": "I know a thing or two, if only they'd listen! And yes, I can still do things for myself. Just need more time, that's all. Respect your elders!",
+    "vi": "Tôi biết đôi điều, giá mà họ chịu nghe! Và đúng, tôi vẫn tự lo được. Chỉ cần thêm thời gian thôi. Hãy kính trọng người cao tuổi!"
+  },
+  {
+    "key": "effector_name_GoodDream01",
+    "type": 0,
+    "en": "Good Dream",
+    "vi": "Giấc mơ đẹp"
+  },
+  {
+    "key": "effector_info_GoodDream01",
+    "type": 0,
+    "en": "I dreamed that I was comforted by a dear friend, and woke feeling safe and rested. Today is off to a great start!",
+    "vi": "Tôi mơ được một người bạn thân an ủi, rồi thức dậy trong cảm giác an toàn và thư thái. Hôm nay khởi đầu thật tuyệt!"
+  },
+  {
+    "key": "effector_name_GoodDream02",
+    "type": 0,
+    "en": "Wonderful Dream",
+    "vi": "Giấc mơ tuyệt vời"
+  },
+  {
+    "key": "effector_info_GoodDream02",
+    "type": 0,
+    "en": "My dream was so glorious I didn't want to wake up...how I soared around paradise! Let me hold onto that feeling.",
+    "vi": "Giấc mơ huy hoàng đến mức tôi không muốn tỉnh... Tôi đã bay lượn khắp thiên đường! Hãy để tôi giữ lấy cảm giác ấy."
+  },
+  {
+    "key": "effector_name_GoodDreamFood",
+    "type": 0,
+    "en": "Delicious Dream",
+    "vi": "Giấc mơ ngon lành"
+  },
+  {
+    "key": "effector_info_GoodDreamFood",
+    "type": 0,
+    "en": "The most sumptuous, succulent banquet was laid before me in my dream last night. I could eat forever, my appetite was infinite!",
+    "vi": "Một yến tiệc xa hoa, mọng nước được bày trước mặt tôi trong giấc mơ đêm qua. Tôi có thể ăn mãi, cơn thèm không có giới hạn!"
+  },
+  {
+    "key": "effector_name_GoodDreamCanibal",
+    "type": 0,
+    "en": "Devouring Dream",
+    "vi": "Giấc mơ ngấu nghiến"
+  },
+  {
+    "key": "effector_info_GoodDreamCanibal",
+    "type": 0,
+    "en": "I was chewing this delicious, roasted arm, then I realised it was mine, and it was still attached! But I couldn't stop, I was ravenous...",
+    "vi": "Tôi đang nhai cánh tay nướng thơm ngon thì nhận ra đó là tay mình, vẫn còn gắn trên người! Nhưng tôi không thể dừng lại, tôi đói cồn cào..."
+  },
+  {
+    "key": "effector_name_GoodDreamSpoiled",
+    "type": 0,
+    "en": "Opulent Dream",
+    "vi": "Giấc mơ xa hoa"
+  },
+  {
+    "key": "effector_info_GoodDreamSpoiled",
+    "type": 0,
+    "en": "I bathed in asses milk and rose petals. Rising from the steaming vessel, handmaidens clothed me in silk and fed me sweetmeats. Alas, just a dream...",
+    "vi": "Tôi tắm trong sữa lừa và cánh hoa hồng. Khi bước khỏi bồn nước bốc hơi, các thị nữ mặc lụa cho tôi và dâng bánh ngọt. Than ôi, chỉ là giấc mơ..."
+  },
+  {
+    "key": "effector_name_GoodDreamAscetic",
+    "type": 0,
+    "en": "Spartan Dream",
+    "vi": "Giấc mơ khắc khổ"
+  },
+  {
+    "key": "effector_info_GoodDreamAscetic",
+    "type": 0,
+    "en": "I dreamed of a solitary cliffside hermitage, where I sat for many hours on the cold floor, staring out at the crashing Atlantic waves. I woke refreshed.",
+    "vi": "Tôi mơ về một nơi ẩn tu cô độc bên vách đá, ngồi hàng giờ trên nền lạnh nhìn sóng Đại Tây Dương vỗ dữ dội. Tôi tỉnh dậy đầy sảng khoái."
+  },
+  {
+    "key": "effector_name_GoodDreambloodlust",
+    "type": 0,
+    "en": "Killing Dream",
+    "vi": "Giấc mơ chém giết"
+  },
+  {
+    "key": "effector_info_GoodDreambloodlust",
+    "type": 0,
+    "en": "I dreamed of a glorious battle, where we spilled a river of blood and fought until the sun rose upon our victory. I was brutal, and heroic!",
+    "vi": "Tôi mơ về trận chiến huy hoàng, nơi chúng ta đổ thành sông máu và chiến đấu đến khi mặt trời mọc trên chiến thắng. Tôi vừa tàn bạo vừa anh hùng!"
+  },
+  {
+    "key": "effector_name_BadDream01",
+    "type": 0,
+    "en": "Bad Dream",
+    "vi": "Ác mộng"
+  },
+  {
+    "key": "effector_info_BadDream01",
+    "type": 0,
+    "en": "I had one of those dreams where your teeth fall out, and you spend ages looking for them. Then you realise you are at the market, stark naked. ",
+    "vi": "Tôi gặp giấc mơ rụng hết răng rồi mất hàng giờ đi tìm. Sau đó mới nhận ra mình đang đứng trần truồng giữa chợ.  "
+  },
+  {
+    "key": "effector_name_BadDream02",
+    "type": 0,
+    "en": "Night Terror",
+    "vi": "Đêm Terror"
+  },
+  {
+    "key": "effector_info_BadDream02",
+    "type": 0,
+    "en": "Paralysed as the water rose about me, I knew I was going to drown, in the dark. Something squatted on my chest, laughing. I woke gasping for breath...",
+    "vi": "Bất động khi nước dâng quanh người, tôi biết mình sắp chết đuối trong bóng tối. Thứ gì đó ngồi xổm trên ngực và cười. Tôi tỉnh dậy thở hổn hển..."
+  },
+  {
+    "key": "effector_name_BadDreamFood",
+    "type": 0,
+    "en": "Nightmare",
+    "vi": "Cơn ác mộng"
+  },
+  {
+    "key": "effector_info_BadDreamFood",
+    "type": 0,
+    "en": "I was at an exotic banquet. The food came alive, writhing, scrabbling, and slithering about. I gagged, raising a spoonful to my mouth...then I awoke!",
+    "vi": "Tôi dự một yến tiệc kỳ lạ. Thức ăn sống dậy, quằn quại, bò và trườn khắp nơi. Tôi buồn nôn khi đưa thìa lên miệng... rồi tỉnh giấc!"
+  },
+  {
+    "key": "effector_name_BadDreamSpoiled",
+    "type": 0,
+    "en": "Demeaning Dream",
+    "vi": "Giấc mơ nhục nhã"
+  },
+  {
+    "key": "effector_info_BadDreamSpoiled",
+    "type": 0,
+    "en": "I was forced to sleep on a bed of nails at the bottom of a well, then put in the stocks and pelted with filth by peasants! Ugh! What a nightmare!",
+    "vi": "Tôi bị ép ngủ trên giường đinh dưới đáy giếng, rồi bị nhốt vào cùm và bị nông dân ném chất bẩn! Khiếp! Đúng là ác mộng!"
+  },
+  {
+    "key": "effector_name_KilledBloodlustAtributes",
+    "type": 0,
+    "en": "Killed someone",
+    "vi": "Đã giết ai đó"
+  },
+  {
+    "key": "effector_name_WeightLowEffector01",
+    "type": 0,
+    "en": "Thin",
+    "vi": "Gầy"
+  },
+  {
+    "key": "effector_name_WeightHighEffector01",
+    "type": 0,
+    "en": "Large",
+    "vi": "Thân hình to lớn"
+  },
+  {
+    "key": "effector_name_HeightLowEffector01",
+    "type": 0,
+    "en": "Short",
+    "vi": "Thấp"
+  },
+  {
+    "key": "effector_name_HeightHighEffector01",
+    "type": 0,
+    "en": "Tall",
+    "vi": "Cao"
+  },
+  {
+    "key": "effector_name_WearingMorbidItem",
+    "type": 0,
+    "en": "Wearing Morbid Item",
+    "vi": "Mặc vật phẩm bệnh hoạn"
+  },
+  {
+    "key": "effector_info_WearingMorbidItem",
+    "type": 0,
+    "en": "I am become an animated charnel house, rattling bones and chapless skulls mounted upon my own vital flesh.",
+    "vi": "Tôi hóa thành một nhà xác sống, xương kêu lách cách và những hộp sọ trơ hàm gắn trên da thịt còn sống của mình."
+  },
+  {
+    "key": "effector_name_WearingDeadManItem",
+    "type": 0,
+    "en": "Wearing the Items of the Dead",
+    "vi": "Wearing Items của Dead"
+  },
+  {
+    "key": "effector_info_WearingDeadManItem",
+    "type": 0,
+    "en": "It's ill waiting for dead men's shoes, they say. But if an item's not worn out, I suppose I must use it.",
+    "vi": "Người ta bảo chờ giày của người chết là điềm xấu. Nhưng nếu món đồ chưa hỏng, chắc tôi phải dùng thôi."
+  },
+  {
+    "key": "effector_name_WearingHumanSkinItem",
+    "type": 0,
+    "en": "Wearing Human Skin",
+    "vi": "Mặc da người"
+  },
+  {
+    "key": "effector_info_WearingHumanSkinItem",
+    "type": 0,
+    "en": "If I don another's skin, what aspect of them am I keeping alive? I look fearsome, but fear for my own soul.",
+    "vi": "Nếu khoác da người khác, tôi đang giữ lại phần nào của họ? Trông tôi đáng sợ, nhưng tôi lo cho chính linh hồn mình."
+  },
+  {
+    "key": "effector_name_BeingAroundHumanLeather",
+    "type": 0,
+    "en": "The sight of human leather",
+    "vi": "Cảnh tượng da người"
+  },
+  {
+    "key": "effector_info_BeingAroundHumanLeather",
+    "type": 0,
+    "en": "Being around human leather makes my skin crawl. I can't pretend I like it.",
+    "vi": "Ở gần da người khiến tôi rợn cả da thịt. Tôi không thể giả vờ rằng mình thích nó."
+  },
+  {
+    "key": "effector_name_BeingAroundHumanLeatherItems",
+    "type": 0,
+    "en": "The sight of human leather items",
+    "vi": "Cảnh tượng vật phẩm bằng da người"
+  },
+  {
+    "key": "effector_info_BeingAroundHumanLeatherItems",
+    "type": 0,
+    "en": "It's surely sacriledge to use human body parts. Are these things haunted?",
+    "vi": "Dùng bộ phận cơ thể người chắc chắn là phạm thánh. Những thứ này có bị ám không?"
+  },
+  {
+    "key": "effector_name_SurroundingsHorrible",
+    "type": 0,
+    "en": "Appalling surroundings",
+    "vi": "Môi trường xung quanh kinh khủng"
+  },
+  {
+    "key": "effector_name_SurroundingsUgly",
+    "type": 0,
+    "en": "Plain surroundings",
+    "vi": "Môi trường xung quanh tẻ nhạt"
+  },
+  {
+    "key": "effector_name_SurroundingPretty",
+    "type": 0,
+    "en": "Pleasant surrounding",
+    "vi": "Môi trường xung quanh dễ chịu"
+  },
+  {
+    "key": "effector_name_SurroundingBeautiful",
+    "type": 0,
+    "en": "Beautiful surrounding",
+    "vi": "Môi trường xung quanh tuyệt đẹp"
+  },
+  {
+    "key": "Awful",
+    "type": 0,
+    "en": "Awful",
+    "vi": "Tồi tàn"
+  },
+  {
+    "key": "Dull",
+    "type": 0,
+    "en": "Uninspiring",
+    "vi": "Đơn điệu"
+  },
+  {
+    "key": "Mediocre",
+    "type": 0,
+    "en": "Modest",
+    "vi": "Khiêm tốn"
+  },
+  {
+    "key": "Good",
+    "type": 0,
+    "en": "Good",
+    "vi": "Tốt"
+  },
+  {
+    "key": "SlightlyImpressive",
+    "type": 0,
+    "en": "Superior",
+    "vi": "Đẹp đẽ"
+  },
+  {
+    "key": "SomewhatImpressive",
+    "type": 0,
+    "en": "Luxurious",
+    "vi": "Sang trọng"
+  },
+  {
+    "key": "VeryImpressive",
+    "type": 0,
+    "en": "Opulent",
+    "vi": "Lộng lẫy"
+  },
+  {
+    "key": "ExtremelyImpressive",
+    "type": 0,
+    "en": "Palatial",
+    "vi": "Như hoàng cung"
+  },
+  {
+    "key": "effector_name_expectationVeryLow",
+    "type": 0,
+    "en": "Very low expectation",
+    "vi": "Kỳ vọng rất thấp"
+  },
+  {
+    "key": "effector_info_expectationVeryLow",
+    "type": 0,
+    "en": "To be honest, I'm lucky that I'm still standing. Plenty of others haven't made it this far.",
+    "vi": "Thành thật mà nói, tôi may mắn vì vẫn còn đứng vững. Nhiều người khác đã không đi được xa đến thế."
+  },
+  {
+    "key": "effector_name_expectationLow",
+    "type": 0,
+    "en": "Low expectation",
+    "vi": "Kỳ vọng thấp"
+  },
+  {
+    "key": "effector_info_expectationLow",
+    "type": 0,
+    "en": "Life isn't easy. But I get by with what I have. Mustn't grumble.",
+    "vi": "Cuộc sống không dễ dàng. Nhưng tôi xoay xở với những gì mình có. Không nên than phiền."
+  },
+  {
+    "key": "effector_name_expectationMedium",
+    "type": 0,
+    "en": "Medium expectation",
+    "vi": "Kỳ vọng vừa phải"
+  },
+  {
+    "key": "effector_info_expectationMedium",
+    "type": 0,
+    "en": "We all need a little comfort in our lives, don't we? I'm not talking about anything fancy.",
+    "vi": "Ai cũng cần chút tiện nghi trong đời, phải không? Tôi đâu nói đến thứ gì xa hoa."
+  },
+  {
+    "key": "effector_name_expectationHigh",
+    "type": 0,
+    "en": "High expectation",
+    "vi": "Kỳ vọng cao"
+  },
+  {
+    "key": "effector_info_expectationHigh",
+    "type": 0,
+    "en": "I've worked hard, so I reckon I deserve some of the finer things in life.",
+    "vi": "Tôi đã làm việc chăm chỉ, nên xứng đáng được hưởng vài điều tốt đẹp hơn trong đời."
+  },
+  {
+    "key": "effector_name_expectationVeryHigh",
+    "type": 0,
+    "en": "Very high expectation",
+    "vi": "Kỳ vọng rất cao"
+  },
+  {
+    "key": "effector_info_expectationVeryHigh",
+    "type": 0,
+    "en": "I'm not ashamed to say that I want the very best. I'm worth it.",
+    "vi": "Tôi không xấu hổ khi nói rằng mình muốn thứ tốt nhất. Tôi xứng đáng."
+  },
+  {
+    "key": "effector_name_ComfortableLow",
+    "type": 0,
+    "en": "Very Uncomfortable",
+    "vi": "Rất khó chịu"
+  }
+]

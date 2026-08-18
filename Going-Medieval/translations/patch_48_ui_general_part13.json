@@ -1,0 +1,902 @@
+[
+  {
+    "key": "kingdom_of_york_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Xứ York Quỷ Dữ"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Giáo Phái Hoa Hồng"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Hoa Hồng Hung Hãn"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Hoa Hồng Tàn Bạo"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Giáo Phái Hoa Hồng"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Hoa Hồng Thiện Chiến"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Hoa Hồng Bậc Thầy"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Giáo Phái Hoa Hồng"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Hoa Hồng Hung Tợn"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Hoa Hồng Khát Máu"
+  },
+  {
+    "key": "heresy_of_the_rose_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Hoa Hồng Man Rợ"
+  },
+  {
+    "key": "heresy_of_the_rose_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Hoa Hồng Xuất Chúng"
+  },
+  {
+    "key": "heresy_of_the_rose_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Hoa Hồng Quỷ Dữ"
+  },
+  {
+    "key": "circle_of_avalon_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Vòng Tròn Avalon"
+  },
+  {
+    "key": "circle_of_avalon_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Avalon Hung Hãn"
+  },
+  {
+    "key": "circle_of_avalon_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Avalon Tàn Bạo"
+  },
+  {
+    "key": "circle_of_avalon_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Vòng Tròn Avalon"
+  },
+  {
+    "key": "circle_of_avalon_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Avalon Thiện Chiến"
+  },
+  {
+    "key": "circle_of_avalon_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Avalon Bậc Thầy"
+  },
+  {
+    "key": "circle_of_avalon_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Vòng Tròn Avalon"
+  },
+  {
+    "key": "circle_of_avalon_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Avalon Hung Tợn"
+  },
+  {
+    "key": "circle_of_avalon_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Avalon Khát Máu"
+  },
+  {
+    "key": "circle_of_avalon_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Avalon Man Rợ"
+  },
+  {
+    "key": "circle_of_avalon_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Avalon Xuất Chúng"
+  },
+  {
+    "key": "circle_of_avalon_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Avalon Quỷ Dữ"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ cướp"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Kẻ cướp"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Kẻ cướp"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung thủ"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Xạ thủ thiện chiến"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Xạ thủ cung tên"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn đồ"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Hung hãn Côn đồ"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Khát máu Côn đồ"
+  },
+  {
+    "key": "beirdd_cymraeg_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Kẻ cướp"
+  },
+  {
+    "key": "beirdd_cymraeg_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Xạ thủ cung tên"
+  },
+  {
+    "key": "beirdd_cymraeg_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Côn đồ"
+  },
+  {
+    "key": "ravagers_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ cướp"
+  },
+  {
+    "key": "ravagers_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Fierce Kẻ cướp"
+  },
+  {
+    "key": "ravagers_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Ruthless Kẻ cướp"
+  },
+  {
+    "key": "ravagers_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung thủ"
+  },
+  {
+    "key": "ravagers_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Xạ thủ thiện chiến"
+  },
+  {
+    "key": "ravagers_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Master Xạ thủ cung tên"
+  },
+  {
+    "key": "ravagers_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn đồ"
+  },
+  {
+    "key": "ravagers_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Hung hãn Côn đồ"
+  },
+  {
+    "key": "ravagers_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Khát máu Côn đồ"
+  },
+  {
+    "key": "ravagers_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Barbaric Kẻ cướp"
+  },
+  {
+    "key": "ravagers_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Illustrious Xạ thủ cung tên"
+  },
+  {
+    "key": "ravagers_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Monstrous Côn đồ"
+  },
+  {
+    "key": "mountain_bandits_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Vùng Núi Cao"
+  },
+  {
+    "key": "mountain_bandits_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Vùng Núi Hung Hãn"
+  },
+  {
+    "key": "mountain_bandits_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Vùng Núi Tàn Bạo"
+  },
+  {
+    "key": "mountain_bandits_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Vùng Núi"
+  },
+  {
+    "key": "mountain_bandits_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Núi Thiện Chiến"
+  },
+  {
+    "key": "mountain_bandits_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Vùng Núi Bậc Thầy"
+  },
+  {
+    "key": "mountain_bandits_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Vùng Núi"
+  },
+  {
+    "key": "mountain_bandits_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Núi Hung Tợn"
+  },
+  {
+    "key": "mountain_bandits_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Núi Khát Máu"
+  },
+  {
+    "key": "mountain_bandits_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Vùng Núi Man Rợ"
+  },
+  {
+    "key": "mountain_bandits_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Vùng Núi Xuất Chúng"
+  },
+  {
+    "key": "mountain_bandits_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Vùng Núi Quỷ Dữ"
+  },
+  {
+    "key": "river_bandits_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Cướp Vùng Sông Nước"
+  },
+  {
+    "key": "river_bandits_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Cướp Sông Nước Hung Hãn"
+  },
+  {
+    "key": "river_bandits_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Cướp Sông Nước Tàn Bạo"
+  },
+  {
+    "key": "river_bandits_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Vùng Sông Nước"
+  },
+  {
+    "key": "river_bandits_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Sông Nước Thiện Chiến"
+  },
+  {
+    "key": "river_bandits_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Sông Nước Bậc Thầy"
+  },
+  {
+    "key": "river_bandits_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Vùng Sông Nước"
+  },
+  {
+    "key": "river_bandits_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Sông Nước Hung Tợn"
+  },
+  {
+    "key": "river_bandits_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Sông Nước Khát Máu"
+  },
+  {
+    "key": "river_bandits_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Cướp Sông Nước Man Rợ"
+  },
+  {
+    "key": "river_bandits_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Sông Nước Xuất Chúng"
+  },
+  {
+    "key": "river_bandits_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Sông Nước Quỷ Dữ"
+  },
+  {
+    "key": "looters_basic_easy",
+    "type": 0,
+    "en": "Marauder",
+    "vi": "Kẻ Hôi Của"
+  },
+  {
+    "key": "looters_basic_medium",
+    "type": 0,
+    "en": "Fierce Marauder",
+    "vi": "Kẻ Hôi Của Hung Hãn"
+  },
+  {
+    "key": "looters_basic_hard",
+    "type": 0,
+    "en": "Ruthless Marauder",
+    "vi": "Kẻ Hôi Của Tàn Bạo"
+  },
+  {
+    "key": "looters_archer_easy",
+    "type": 0,
+    "en": "Archer",
+    "vi": "Cung Thủ Hôi Của"
+  },
+  {
+    "key": "looters_archer_medium",
+    "type": 0,
+    "en": "Adept Archer",
+    "vi": "Cung Thủ Hôi Của Thiện Chiến"
+  },
+  {
+    "key": "looters_archer_hard",
+    "type": 0,
+    "en": "Master Archer",
+    "vi": "Đại Cung Thủ Hôi Của Bậc Thầy"
+  },
+  {
+    "key": "looters_heavy_easy",
+    "type": 0,
+    "en": "Thug",
+    "vi": "Côn Đồ Hôi Của"
+  },
+  {
+    "key": "looters_heavy_medium",
+    "type": 0,
+    "en": "Brutal Thug",
+    "vi": "Côn Đồ Hôi Của Hung Tợn"
+  },
+  {
+    "key": "looters_heavy_hard",
+    "type": 0,
+    "en": "Murderous Thug",
+    "vi": "Côn Đồ Hôi Của Khát Máu"
+  },
+  {
+    "key": "looters_basic_very_hard",
+    "type": 0,
+    "en": "Barbaric Marauder",
+    "vi": "Kẻ Hôi Của Man Rợ"
+  },
+  {
+    "key": "looters_archer_very_hard",
+    "type": 0,
+    "en": "Illustrious Archer",
+    "vi": "Cung Thủ Hôi Của Xuất Chúng"
+  },
+  {
+    "key": "looters_heavy_very_hard",
+    "type": 0,
+    "en": "Monstrous Thug",
+    "vi": "Côn Đồ Hôi Của Quỷ Dữ"
+  },
+  {
+    "key": "autosave_never",
+    "type": 0,
+    "en": "Never",
+    "vi": "Không Bao Giờ"
+  },
+  {
+    "key": "autosave_often",
+    "type": 0,
+    "en": "Every day",
+    "vi": "Mỗi Ngày (Hằng Ngày)"
+  },
+  {
+    "key": "autosave_rarely",
+    "type": 0,
+    "en": "Every 7 days",
+    "vi": "Mỗi 7 Ngày"
+  },
+  {
+    "key": "autosave_sometimes",
+    "type": 0,
+    "en": "Every 3 days",
+    "vi": "Mỗi 3 Ngày"
+  },
+  {
+    "key": "delete_save_prompt",
+    "type": 0,
+    "en": "Delete save?",
+    "vi": "Xóa Bản Lưu Game Này?"
+  },
+  {
+    "key": "delete_folder_prompt",
+    "type": 0,
+    "en": "Delete settlement save folder?",
+    "vi": "Xóa Toàn Bộ Thư Mục Bản Lưu Khu Định Cư?"
+  },
+  {
+    "key": "quit_game_prompt_info",
+    "type": 0,
+    "en": "Are you sure?",
+    "vi": "Bạn có chắc chắn muốn thoát?"
+  },
+  {
+    "key": "quit_prompt_info",
+    "type": 0,
+    "en": "Are you sure? All unsaved progress will be lost.",
+    "vi": "Bạn có chắc chắn? Mọi tiến trình chưa lưu sẽ bị mất hoàn toàn."
+  },
+  {
+    "key": "save_preset",
+    "type": 0,
+    "en": "Save as preset",
+    "vi": "Lưu Thành Mẫu Thiết Lập"
+  },
+  {
+    "key": "ui_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Hủy Bỏ"
+  },
+  {
+    "key": "ui_keep",
+    "type": 0,
+    "en": "Keep",
+    "vi": "Giữ Lại"
+  },
+  {
+    "key": "vilage_name",
+    "type": 0,
+    "en": "",
+    "vi": "Tên Khu Định Cư"
+  },
+  {
+    "key": "made_by",
+    "type": 0,
+    "en": "Made by:",
+    "vi": "Tác giả sáng tạo:"
+  },
+  {
+    "key": "heraldry_background",
+    "type": 0,
+    "en": "Background",
+    "vi": "Hình Nền Gia Huy"
+  },
+  {
+    "key": "heraldry_pattern",
+    "type": 0,
+    "en": "Pattern",
+    "vi": "Họa Tiết Hoa Văn"
+  },
+  {
+    "key": "heraldry_symbol_a",
+    "type": 0,
+    "en": "Symbol A",
+    "vi": "Biểu Tượng Gia Huy A"
+  },
+  {
+    "key": "heraldry_symbol_b",
+    "type": 0,
+    "en": "Symbol B",
+    "vi": "Biểu Tượng Gia Huy B"
+  },
+  {
+    "key": "heraldry_symbol_c",
+    "type": 0,
+    "en": "Symbol C",
+    "vi": "Biểu Tượng Gia Huy C"
+  },
+  {
+    "key": "heraldry_symbol_d",
+    "type": 0,
+    "en": "Symbol D",
+    "vi": "Biểu Tượng Gia Huy D"
+  },
+  {
+    "key": "heraldry_symbol_custom",
+    "type": 0,
+    "en": "Custom",
+    "vi": "Biểu Tượng Tùy Chỉnh"
+  },
+  {
+    "key": "custom_heraldry_info",
+    "type": 0,
+    "en": "Paste your custom png in:\\n<b>\\StreamingAssets\\HeraldryCustomSymbols</b>\\nand it will appear on this list of custom symbols.",
+    "vi": "Dán file ảnh .png tùy biến của bạn vào:\\n<b>\\StreamingAssets\\HeraldryCustomSymbols</b>\\nvà biểu tượng sẽ xuất hiện trong danh mục tùy chỉnh này."
+  },
+  {
+    "key": "heraldry_missing_custom_symbol",
+    "type": 0,
+    "en": "Some custom images have been deleted, your heraldry design might lack the custom image used.",
+    "vi": "Một số hình ảnh tùy chỉnh đã bị xóa khỏi máy, thiết kế gia huy của bạn có thể sẽ thiếu biểu tượng tương ứng."
+  },
+  {
+    "key": "heraldry_title",
+    "type": 0,
+    "en": "Heraldry",
+    "vi": "Gia Huy & Quân Kỳ"
+  },
+  {
+    "key": "characters_creation",
+    "type": 0,
+    "en": "Settlers",
+    "vi": "Khởi Tạo Dân Làng"
+  },
+  {
+    "key": "autosave_inprogress",
+    "type": 0,
+    "en": "Autosaving...",
+    "vi": "Đang tự động lưu game..."
+  },
+  {
+    "key": "default_size",
+    "type": 0,
+    "en": "Small",
+    "vi": "Nhỏ"
+  },
+  {
+    "key": "difficulty_builder",
+    "type": 0,
+    "en": "Builder",
+    "vi": "Chế Độ Kiến Thiết / Xây Dựng (Hòa Bình)"
+  },
+  {
+    "key": "difficulty_standard",
+    "type": 0,
+    "en": "Standard",
+    "vi": "Tiêu Chuẩn Chuẩn Mực"
+  },
+  {
+    "key": "general_change_keybinding",
+    "type": 0,
+    "en": "Press any key or Esc to cancel ",
+    "vi": "Nhấn phím bất kỳ hoặc Esc để hủy"
+  },
+  {
+    "key": "general_click_to_change_key",
+    "type": 0,
+    "en": "Click to change key",
+    "vi": "Nhấp để đổi phím tắt"
+  },
+  {
+    "key": "load_preset",
+    "type": 0,
+    "en": "Load preset",
+    "vi": "Tải Mẫu Thiết Lập"
+  },
+  {
+    "key": "map_size_large",
+    "type": 0,
+    "en": "Large",
+    "vi": "Bản Đồ Lớn"
+  },
+  {
+    "key": "map_size_medium",
+    "type": 0,
+    "en": "Medium",
+    "vi": "Bản Đồ Vừa"
+  },
+  {
+    "key": "map_size_small",
+    "type": 0,
+    "en": "Small",
+    "vi": "Bản Đồ Nhỏ"
+  },
+  {
+    "key": "map_type_debug",
+    "type": 0,
+    "en": "Debug",
+    "vi": "Bản Đồ Gỡ Lỗi"
+  },
+  {
+    "key": "map_type_desert",
+    "type": 0,
+    "en": "Desert",
+    "vi": "Vùng Sa Mạc Cằn Cỗi"
+  },
+  {
+    "key": "map_type_dev",
+    "type": 0,
+    "en": "Test Map",
+    "vi": "Bản Đồ Thử Nghiệm"
+  },
+  {
+    "key": "map_type_new_home",
+    "type": 0,
+    "en": "A New Home",
+    "vi": "Vùng Đất Mới (Tái Thiết)"
+  },
+  {
+    "key": "most_passionate",
+    "type": 0,
+    "en": "Most passionate about",
+    "vi": "Đam Mê Cháy Bỏng Nhất Về"
+  },
+  {
+    "key": "general_embark",
+    "type": 0,
+    "en": "Embark",
+    "vi": "Bắt Đầu Khởi Hành Định Cư"
+  },
+  {
+    "key": "general_refresh",
+    "type": 0,
+    "en": "Refresh",
+    "vi": "Làm Mới"
+  },
+  {
+    "key": "credits_SeniorProducer",
+    "type": 0,
+    "en": "Senior Producer",
+    "vi": "Nhà Sản Xuất Cấp Cao"
+  },
+  {
+    "key": "credits_Producer",
+    "type": 0,
+    "en": "Producer",
+    "vi": "Nhà Sản Xuất"
+  },
+  {
+    "key": "credits_SeniorDesigner",
+    "type": 0,
+    "en": "Senior Designer",
+    "vi": "Nhà Thiết Kế Cấp Cao"
+  },
+  {
+    "key": "credits_SeniorMarketingManager",
+    "type": 0,
+    "en": "Senior Marketing Manager",
+    "vi": "Quản Lý Tiếp Thị Cấp Cao"
+  },
+  {
+    "key": "credits_PRManager",
+    "type": 0,
+    "en": "PR Manager",
+    "vi": "Quản Lý Truyền Thông"
+  },
+  {
+    "key": "credits_PerformanceMarketingManager",
+    "type": 0,
+    "en": "Performance Marketing Manager",
+    "vi": "Quản Lý Tiếp Thị Hiệu Suất"
+  },
+  {
+    "key": "credits_SeniorCommunityandSocial Manager",
+    "type": 0,
+    "en": "Senior Community and Social Manager",
+    "vi": "Quản Lý Cấp Cao Cộng Đồng & Mạng Xã Hội"
+  },
+  {
+    "key": "credits_ChiefGamesOfficer",
+    "type": 0,
+    "en": "Chief Games Officer",
+    "vi": "Giám Đốc Trò Chơi"
+  },
+  {
+    "key": "credits_PublishingDirector",
+    "type": 0,
+    "en": "Publishing Director",
+    "vi": "Giám Đốc Phát Hành"
+  },
+  {
+    "key": "credits_DesignDirector",
+    "type": 0,
+    "en": "Design Director",
+    "vi": "Giám Đốc Thiết Kế"
+  },
+  {
+    "key": "credits_TechnicalDirector",
+    "type": 0,
+    "en": "Technical Director",
+    "vi": "Giám Đốc Kỹ Thuật"
+  },
+  {
+    "key": "credits_OperationsDirector",
+    "type": 0,
+    "en": "Operations Director",
+    "vi": "Giám Đốc Vận Hành"
+  },
+  {
+    "key": "credits_FranchiseDirector",
+    "type": 0,
+    "en": "Franchise Director",
+    "vi": "Giám Đốc Thương Hiệu"
+  },
+  {
+    "key": "credits_AdditionalExpertSupport",
+    "type": 0,
+    "en": "Additional Expert Support",
+    "vi": "Hỗ Trợ Chuyên Môn Bổ Sung"
+  },
+  {
+    "key": "credits_TICAlumni",
+    "type": 0,
+    "en": "TIC Alumni",
+    "vi": "Cựu Thành Viên TIC"
+  },
+  {
+    "key": "credits_TonicGamesGroup",
+    "type": 0,
+    "en": "Tonic Games Group",
+    "vi": "Tập Đoàn Tonic Games"
+  },
+  {
+    "key": "credits_Localisation",
+    "type": 0,
+    "en": "Localisation",
+    "vi": "Bản Địa Hóa (Localization)"
+  },
+  {
+    "key": "credits_QualityAssurance",
+    "type": 0,
+    "en": "Quality Assurance",
+    "vi": "Đảm Bảo Chất Lượng (QA)"
+  },
+  {
+    "key": "credits_PRSupport",
+    "type": 0,
+    "en": "PR Support",
+    "vi": "Hỗ Trợ Truyền Thông"
+  },
+  {
+    "key": "credits_AdditionalArt",
+    "type": 0,
+    "en": "Additional Art",
+    "vi": "Họa Sĩ Đồ Họa Bổ Sung"
+  },
+  {
+    "key": "credits_AdditionalHelp",
+    "type": 0,
+    "en": "Additional Help",
+    "vi": "Hỗ Trợ Phát Triển Bổ Sung"
+  },
+  {
+    "key": "credits_AdditionalDevelopment",
+    "type": 0,
+    "en": "Additional Development",
+    "vi": "Lập Trình Phát Triển Bổ Sung"
+  },
+  {
+    "key": "credits_WritingNarativeDesign",
+    "type": 0,
+    "en": "Writing and Narative design",
+    "vi": "Biên Kịch & Thiết Kế Cốt Truyện"
+  },
+  {
+    "key": "credits_SpecialThanks",
+    "type": 0,
+    "en": "Special Thanks",
+    "vi": "Lời Tri Ân Đặc Biệt"
+  }
+]

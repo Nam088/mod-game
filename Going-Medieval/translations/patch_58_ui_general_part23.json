@@ -1,0 +1,902 @@
+[
+  {
+    "key": "effector_info_EventMasterClassOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of <skill_name> has improved considerably.",
+    "vi": "Thú vị thật! Hiểu biết của tôi về <skill_name> đã tiến bộ đáng kể."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of <skill_name>. I'm so lucky to have attended.",
+    "vi": "Buổi học này đã hoàn toàn mở rộng tầm mắt tôi lên một tầm cao mới về kỹ năng <skill_name>. Tôi thật may mắn khi được tham gia."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about Melee than when I started!",
+    "vi": "Tôi rối quá! Giờ tôi còn hiểu về Cận chiến ít hơn cả lúc bắt đầu!"
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Thế là mất vài giờ đời tôi mà chẳng bao giờ lấy lại được. Tôi chẳng học được gì cả."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "Buổi học thật tẻ nhạt, nội dung lại quá hiển nhiên. Cùng lắm tôi chỉ ôn lại những gì đã biết."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "Đó là một buổi học khá tốt. Tôi mong được tìm hiểu thêm."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "Tôi cảm thấy hôm nay mình đã học được điều mới."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of Melee has improved considerably.",
+    "vi": "Thú vị thật! Hiểu biết của tôi về Cận chiến đã tiến bộ đáng kể."
+  },
+  {
+    "key": "effector_info_EventMeleeTrainingOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of Melee. I'm so lucky to have attended.",
+    "vi": "Buổi luyện tập này đã hoàn toàn mở rộng tầm mắt tôi lên một tầm cao mới về Cận chiến. Tôi thật may mắn khi được tham gia."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about Marksman than when I started!",
+    "vi": "Tôi rối quá! Giờ tôi còn hiểu về Xạ thủ ít hơn cả lúc bắt đầu!"
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "Buổi huấn luyện bắn cung thật tẻ nhạt và toàn những điều hiển nhiên. Cùng lắm chỉ là ôn lại những gì tôi đã biết."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "Đó là một bài học bổ ích. Tôi rất mong được học hỏi thêm nhiều điều mới."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "Tôi cảm thấy như mình vừa học được thêm một kỹ năng hoàn toàn mới hôm nay."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeVeryGood",
+    "type": 0,
+    "en": "Interesting! My grasp of Marksman has improved considerably.",
+    "vi": "Thú vị thật! Hiểu biết của tôi về Xạ thủ đã tiến bộ đáng kể."
+  },
+  {
+    "key": "effector_info_EventRangedTriningOutcomeUnforgettable",
+    "type": 0,
+    "en": "This has completely opened my eyes to a whole new level of Marksman. I'm so lucky to have attended.",
+    "vi": "Buổi tập bắn này đã hoàn toàn mở rộng tầm mắt tôi lên một tầm cao mới về Bắn cung. Tôi thật may mắn khi được tham gia."
+  },
+  {
+    "key": "effector_name_EntertainmentIntDisabled",
+    "type": 0,
+    "en": "Too much backgammon",
+    "vi": "Chơi cờ thỏ cáo quá nhiều"
+  },
+  {
+    "key": "effector_name_EntertainmentRangedDisabled",
+    "type": 0,
+    "en": "Too much shovelboard",
+    "vi": "Chơi ném đĩa quá nhiều"
+  },
+  {
+    "key": "effector_name_EntertainmentDexDisabled",
+    "type": 0,
+    "en": "Too much skittles",
+    "vi": "Chơi bowling gỗ quá nhiều"
+  },
+  {
+    "key": "effector_name_EntertainmentPrecisionDisabled",
+    "type": 0,
+    "en": "Too much quoits",
+    "vi": "Chơi ném vòng quá nhiều"
+  },
+  {
+    "key": "effector_info_EntertainmentIntDisabled",
+    "type": 0,
+    "en": "I'm getting sick of the randomness of this game. Even with good strategy, the dice seem to be against me.",
+    "vi": "Tôi phát ngán vì trò này quá may rủi. Dù chiến thuật có tốt đến đâu, xúc xắc dường như vẫn chống lại tôi."
+  },
+  {
+    "key": "effector_info_EntertainmentRangedDisabled",
+    "type": 0,
+    "en": "Who came up with this idea of shoving a coin around a table anyway? I keep losing, and I'm over it.",
+    "vi": "Ai lại nghĩ ra trò đẩy đồng xu quanh bàn thế này? Tôi cứ thua mãi và chán ngấy rồi."
+  },
+  {
+    "key": "effector_info_EntertainmentDexDisabled",
+    "type": 0,
+    "en": "Really should give up skittles as I keep getting this pain in my shoulder. Too much of a good thing.",
+    "vi": "Có lẽ tôi nên bỏ chơi bowling gỗ vì vai cứ đau mãi. Vui quá hóa hại."
+  },
+  {
+    "key": "effector_info_EntertainmentPrecisionDisabled",
+    "type": 0,
+    "en": "Quoits can become an obsession. It's probably healthy to step away for a while and do something new.",
+    "vi": "Ném vòng có thể gây nghiện. Có lẽ nên tạm nghỉ một thời gian và thử điều gì đó mới."
+  },
+  {
+    "key": "effector_name_MalnutritionMinor",
+    "type": 0,
+    "en": "Malnourished (Minor)",
+    "vi": "Suy dinh dưỡng (nhẹ)"
+  },
+  {
+    "key": "effector_name_MalnutritionModerate",
+    "type": 0,
+    "en": "Malnourished (Moderate)",
+    "vi": "Suy dinh dưỡng (vừa)"
+  },
+  {
+    "key": "effector_name_MalnutritionSevere",
+    "type": 0,
+    "en": "Malnourished (Severe)",
+    "vi": "Suy dinh dưỡng (nặng)"
+  },
+  {
+    "key": "effector_name_MalnutritionExtreme",
+    "type": 0,
+    "en": "Malnourished (Extreme)",
+    "vi": "Suy dinh dưỡng (nghiêm trọng)"
+  },
+  {
+    "key": "effector_info_Malnutrition",
+    "type": 0,
+    "en": "I have become weak. Lean times with insufficient food have diminished my body and mind.",
+    "vi": "Tôi đã trở nên yếu ớt. Những ngày thiếu thốn lương thực đã bào mòn cả thể xác lẫn tinh thần tôi."
+  },
+  {
+    "key": "effector_name_AteSameMealType",
+    "type": 0,
+    "en": "Tedious Diet",
+    "vi": "Chế độ ăn nhàm chán"
+  },
+  {
+    "key": "effector_info_AteSameMealType",
+    "type": 0,
+    "en": "I'm sick of eating the same few meals day in, day out. Where is the variety? ",
+    "vi": "Tôi phát ngán vì ngày nào cũng ăn đi ăn lại vài món ấy. Chẳng có chút đa dạng nào sao? "
+  },
+  {
+    "key": "effector_name_MoriboundWoundsStinkstomachDmg",
+    "type": 0,
+    "en": "Stench",
+    "vi": "Mùi hôi"
+  },
+  {
+    "key": "effector_info_MoriboundWoundsStinkstomachDmg",
+    "type": 0,
+    "en": "<settler_name>`s wounds stink (<perk_name>)",
+    "vi": "Vết thương của <settler_name> bốc mùi (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MoriboundWoundsStinkEnter",
+    "type": 0,
+    "en": "Stench",
+    "vi": "Mùi hôi"
+  },
+  {
+    "key": "effector_info_MoriboundWoundsStinkEnter",
+    "type": 0,
+    "en": "<settler_name>`s wounds stink (<perk_name>)",
+    "vi": "Vết thương của <settler_name> bốc mùi (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterStomachDmg",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Ăn uống bừa bộn"
+  },
+  {
+    "key": "effector_info_MessyEaterStomachDmg",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)",
+    "vi": "<settler_name> ăn như lợn, khiến tôi buồn nôn (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterEnterNegative",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Ăn uống bừa bộn"
+  },
+  {
+    "key": "effector_info_MessyEaterEnterNegative",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it turns my stomach (<perk_name>)",
+    "vi": "<settler_name> ăn như lợn, khiến tôi buồn nôn (<perk_name>)"
+  },
+  {
+    "key": "effector_name_MessyEaterEnterPositive",
+    "type": 0,
+    "en": "Messy Eating",
+    "vi": "Ăn uống bừa bộn"
+  },
+  {
+    "key": "effector_info_MessyEaterEnterPositive",
+    "type": 0,
+    "en": "<settler_name> eats like a pig, it's hilarious (<perk_name>)",
+    "vi": "<settler_name> ăn như heo, thật nực cười (<perk_name>)"
+  },
+  {
+    "key": "effector_name_CannibalEatingHumanEnter",
+    "type": 0,
+    "en": "Saw someone eat human Flesh",
+    "vi": "Thấy ai đó ăn thịt người"
+  },
+  {
+    "key": "effector_info_CannibalEatingHumanEnter",
+    "type": 0,
+    "en": "I will never get over witnessing that. (<perk_name>)",
+    "vi": "Tôi sẽ không bao giờ quên nổi cảnh tượng đó. (<perk_name>)"
+  },
+  {
+    "key": "effector_name_IndustriousWorkSpeedForAll",
+    "type": 0,
+    "en": "Inspiring presence",
+    "vi": "Sự hiện diện truyền cảm hứng"
+  },
+  {
+    "key": "effector_info_IndustriousWorkSpeedForAll",
+    "type": 0,
+    "en": "Just being around <settler_name> inspires me to work harder  (<perk_name>)",
+    "vi": "Chỉ cần ở gần <settler_name> cũng khiến tôi muốn làm việc chăm chỉ hơn (<perk_name>)"
+  },
+  {
+    "key": "effector_name_AfterRebelious",
+    "type": 0,
+    "en": "After rebelling",
+    "vi": "Sau khi nổi loạn"
+  },
+  {
+    "key": "effector_info_AfterRebelious",
+    "type": 0,
+    "en": "I feel better now - I needed to get that out of my system.",
+    "vi": "Giờ tôi thấy khá hơn rồi - tôi cần trút hết chuyện đó ra."
+  },
+  {
+    "key": "effector_name_AfterFightNegative",
+    "type": 0,
+    "en": "A messy fight",
+    "vi": "Một cuộc ẩu đả hỗn loạn"
+  },
+  {
+    "key": "effector_info_AfterFightNegative",
+    "type": 0,
+    "en": "I wish I'd never got involved. Everything hurts.",
+    "vi": "Ước gì tôi chưa từng can dự. Đau nhức khắp người."
+  },
+  {
+    "key": "effector_name_AfterFightPositive",
+    "type": 0,
+    "en": "A good scrap",
+    "vi": "Một trận ẩu đả ra trò"
+  },
+  {
+    "key": "effector_info_AfterFightPositive",
+    "type": 0,
+    "en": "It was a fair fight. I showed what I was made of.",
+    "vi": "Đó là một trận đấu công bằng. Tôi đã chứng tỏ bản lĩnh của mình."
+  },
+  {
+    "key": "effector_name_VigorousMerry",
+    "type": 0,
+    "en": "Merry (Vigorous)",
+    "vi": "Vui vẻ (Sung sức)"
+  },
+  {
+    "key": "effector_info_VigorousMerry",
+    "type": 0,
+    "en": "I'm in good form and full of energy. ",
+    "vi": "Tôi đang có phong độ tốt và tràn đầy năng lượng. "
+  },
+  {
+    "key": "effector_name_RobustMerry",
+    "type": 0,
+    "en": "Merry (Robust)",
+    "vi": "Vui vẻ (Khỏe mạnh)"
+  },
+  {
+    "key": "effector_info_RobustMerry",
+    "type": 0,
+    "en": "I'm in good form and full of energy. ",
+    "vi": "Tôi đang có phong độ tốt và tràn đầy năng lượng. "
+  },
+  {
+    "key": "effector_name_InfirmMerry",
+    "type": 0,
+    "en": "Merry (Infirm)",
+    "vi": "Vui vẻ (Ốm yếu)"
+  },
+  {
+    "key": "effector_info_InfirmMerry",
+    "type": 0,
+    "en": "My wounds are healing faster than usual - what a blessing.",
+    "vi": "Vết thương của tôi lành nhanh hơn thường lệ - thật là một phước lành."
+  },
+  {
+    "key": "effector_name_BrawlerMerry",
+    "type": 0,
+    "en": "Merry (Brawler)",
+    "vi": "Vui vẻ (Võ sĩ)"
+  },
+  {
+    "key": "effector_info_BrawlerMerry",
+    "type": 0,
+    "en": "I feel so tough I could punch through armour!",
+    "vi": "Tôi thấy mình mạnh đến mức có thể đấm xuyên áo giáp!"
+  },
+  {
+    "key": "effector_name_WinsomeMerry",
+    "type": 0,
+    "en": "Merry (Winsome)",
+    "vi": "Vui vẻ (Duyên dáng)"
+  },
+  {
+    "key": "effector_info_WinsomeMerry",
+    "type": 0,
+    "en": "I could sell eels to a fishermen, such is my appeal",
+    "vi": "Tôi có thể bán lươn cho cả ngư dân, sức hút của tôi lớn đến thế đấy."
+  },
+  {
+    "key": "effector_name_GreenThumbMerry",
+    "type": 0,
+    "en": "Merry (Green Thumb)",
+    "vi": "Vui vẻ (Mát tay trồng trọt)"
+  },
+  {
+    "key": "effector_info_GreenThumbMerry",
+    "type": 0,
+    "en": "The plants are guiding me, and the path feels clear",
+    "vi": "Cây cối đang dẫn lối cho tôi, con đường phía trước thật rõ ràng."
+  },
+  {
+    "key": "effector_name_WiccheMerry",
+    "type": 0,
+    "en": "Merry (Wicche)",
+    "vi": "Vui vẻ (Wicche)"
+  },
+  {
+    "key": "effector_info_WiccheMerry",
+    "type": 0,
+    "en": "I am of one mind with all beasts, as though I could hear them speak",
+    "vi": "Tôi đồng điệu với muôn thú, như thể có thể nghe chúng nói chuyện."
+  },
+  {
+    "key": "effector_name_GourmetMerry",
+    "type": 0,
+    "en": "Merry (Gourmet)",
+    "vi": "Vui vẻ (Sành ăn)"
+  },
+  {
+    "key": "effector_info_GourmetMerry",
+    "type": 0,
+    "en": "This could be a simple dish, yet my mouth waters to create something truly delicious",
+    "vi": "Dù chỉ là một món đơn giản, tôi vẫn háo hức tạo nên thứ gì đó thật ngon lành."
+  },
+  {
+    "key": "effector_name_HeftyMerry",
+    "type": 0,
+    "en": "Merry (Hefty)",
+    "vi": "Vui vẻ (Vạm vỡ)"
+  },
+  {
+    "key": "effector_info_HeftyMerry",
+    "type": 0,
+    "en": "Hand me my pickaxe, I'm ready to move a mountain!",
+    "vi": "Đưa cuốc chim cho tôi, tôi sẵn sàng dời cả núi!"
+  },
+  {
+    "key": "effector_name_WiseMerry",
+    "type": 0,
+    "en": "Merry (Wise)",
+    "vi": "Vui vẻ (Thông thái)"
+  },
+  {
+    "key": "effector_info_WiseMerry",
+    "type": 0,
+    "en": "The world seems ripe with meaning",
+    "vi": "Thế giới dường như chất chứa bao ý nghĩa."
+  },
+  {
+    "key": "effector_name_EruditeMerry",
+    "type": 0,
+    "en": "Merry (Erudite)",
+    "vi": "Vui vẻ (Uyên bác)"
+  },
+  {
+    "key": "effector_info_EruditeMerry",
+    "type": 0,
+    "en": "I have such clarity - knowledge flows and I swiftly distill it",
+    "vi": "Tâm trí tôi thật sáng rõ - tri thức tuôn trào và tôi nhanh chóng chắt lọc được tinh túy."
+  },
+  {
+    "key": "effector_name_ListlessInvitedSelf",
+    "type": 0,
+    "en": "Invited To Feast",
+    "vi": "Được mời dự yến tiệc"
+  },
+  {
+    "key": "effector_info_ListlessInvitedSelf",
+    "type": 0,
+    "en": "I can't recall why I decided to come. These events are such a bore!",
+    "vi": "Tôi chẳng nhớ vì sao mình lại quyết định đến đây. Những dịp thế này thật nhàm chán!"
+  },
+  {
+    "key": "effector_name_ListlessInvitedOthers",
+    "type": 0,
+    "en": "Listless Invited To Feast",
+    "vi": "Uể oải vì được mời dự yến tiệc"
+  },
+  {
+    "key": "effector_info_ListlessInvitedOthers",
+    "type": 0,
+    "en": "Who invited <settler_name>? If anyone's going to ruin the feast, it will be #2[him/her]!",
+    "vi": "Ai đã mời <settler_name> vậy? Nếu có ai phá hỏng yến tiệc thì chắc chắn là #2[him/her]!"
+  },
+  {
+    "key": "effector_name_ListlessNotInvited",
+    "type": 0,
+    "en": "Not Invited To Feast",
+    "vi": "Không được mời dự yến tiệc"
+  },
+  {
+    "key": "effector_info_ListlessNotInvited",
+    "type": 0,
+    "en": "There's one thing worse than having to sit through a boring feast, and that's not even being invited.",
+    "vi": "Chỉ có một điều tệ hơn việc phải chịu đựng một yến tiệc buồn tẻ: đó là thậm chí còn không được mời."
+  },
+  {
+    "key": "effector_name_BenevolentInvitedOthers",
+    "type": 0,
+    "en": "Benevolent Invited To Feast",
+    "vi": "Nhân từ vì mời người khác dự yến tiệc"
+  },
+  {
+    "key": "effector_info_BenevolentInvitedOthers",
+    "type": 0,
+    "en": "Feasting always feels particularly amusing when <settler_name> is there.",
+    "vi": "Yến tiệc lúc nào cũng vui hơn hẳn khi có <settler_name> tham dự."
+  },
+  {
+    "key": "effector_name_NightOwlSleptDuringNight",
+    "type": 0,
+    "en": "Slept During Night (Night Owl)",
+    "vi": "Ngủ vào ban đêm (Cú đêm)"
+  },
+  {
+    "key": "effector_info_NightOwlSleptDuringNight",
+    "type": 0,
+    "en": "I hate sleeping at night. I get so much more work done during the hours of darkness.",
+    "vi": "Tôi ghét ngủ vào ban đêm. Tôi làm được nhiều việc hơn hẳn trong bóng tối."
+  },
+  {
+    "key": "effector_name_EarlyBirdSleptDuringMorning",
+    "type": 0,
+    "en": "Slept In (Early Bird)",
+    "vi": "Ngủ nướng (Dậy sớm)"
+  },
+  {
+    "key": "effector_info_EarlyBirdSleptDuringMorning",
+    "type": 0,
+    "en": "I wish I hadn't overslept!  The whole day feels wasted if I'm not up before the sun.",
+    "vi": "Ước gì tôi không ngủ quên! Nếu không thức dậy trước mặt trời, tôi thấy cả ngày như bị phí hoài."
+  },
+  {
+    "key": "effector_name_ArtLevelHighIncrease",
+    "type": 0,
+    "en": "Artistically Inspired (Dainty)",
+    "vi": "Cảm hứng nghệ thuật (Tinh tế)"
+  },
+  {
+    "key": "effector_info_ArtLevelHighIncrease",
+    "type": 0,
+    "en": "I could create something special today - maybe even sublime.",
+    "vi": "Hôm nay tôi có thể tạo ra điều gì đó đặc biệt - thậm chí có thể là tuyệt tác."
+  },
+  {
+    "key": "effector_name_ArtLevelLowIncrease",
+    "type": 0,
+    "en": "Artistically Inspired  (Precious)",
+    "vi": "Cảm hứng nghệ thuật (Quý giá)"
+  },
+  {
+    "key": "effector_info_ArtLevelLowIncrease",
+    "type": 0,
+    "en": "I'm full of ideas, and can't wait to make something lovely.",
+    "vi": "Tôi tràn đầy ý tưởng và nóng lòng tạo ra thứ gì đó thật đẹp."
+  },
+  {
+    "key": "effector_name_SleepFullSomnolent",
+    "type": 0,
+    "en": "Good night's sleep  (Somnolent)",
+    "vi": "Một giấc ngủ ngon (Uể oải)"
+  },
+  {
+    "key": "effector_info_SleepFullSomnolent",
+    "type": 0,
+    "en": "I slept like a baby.",
+    "vi": "Tôi đã ngủ ngon như một đứa trẻ."
+  },
+  {
+    "key": "effector_info_RoleRetractBard",
+    "type": 0,
+    "en": "I'm disappointed that my role as Bard was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Nhạc công của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractShaman",
+    "type": 0,
+    "en": "I'm disappointed that my role as Druid was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Tu sĩ tự nhiên của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractPriest",
+    "type": 0,
+    "en": "I'm disappointed that my role as Chaplain was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Tuyên úy của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractWarden",
+    "type": 0,
+    "en": "I'm disappointed that my role as Prison Warden was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Quản ngục của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractLibrarian",
+    "type": 0,
+    "en": "I'm disappointed that my role as Librarian was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Thủ thư của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractSergeant",
+    "type": 0,
+    "en": "I'm disappointed that my role as Sergeant-at-arms was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Hạ sĩ quan của mình đã bị tước bỏ."
+  },
+  {
+    "key": "effector_info_RoleRetractBroker",
+    "type": 0,
+    "en": "I'm disappointed that my role as Broker was taken away.",
+    "vi": "Tôi thất vọng vì vai trò Môi giới của mình đã bị tước bỏ."
+  },
+  {
+    "key": "general_level",
+    "type": 0,
+    "en": "Level",
+    "vi": "Cấp độ"
+  },
+  {
+    "key": "not_eligible_for_roles_info",
+    "type": 0,
+    "en": "This settler is not currently eligible for any roles ",
+    "vi": "Dân làng này hiện không đủ điều kiện cho vai trò nào "
+  },
+  {
+    "key": "eligible_for_roles",
+    "type": 0,
+    "en": "Eligible for Roles",
+    "vi": "Đủ điều kiện cho vai trò"
+  },
+  {
+    "key": "can_have_role",
+    "type": 0,
+    "en": "Benefits from Community role",
+    "vi": "Hưởng lợi từ vai trò cộng đồng"
+  },
+  {
+    "key": "can_host_events",
+    "type": 0,
+    "en": "Can host Event",
+    "vi": "Có thể tổ chức sự kiện"
+  },
+  {
+    "key": "unlocked_with_research",
+    "type": 0,
+    "en": "Unlocked with research",
+    "vi": "Mở khóa bằng nghiên cứu"
+  },
+  {
+    "key": "general_uses_fuel",
+    "type": 0,
+    "en": "Uses Fuel",
+    "vi": "Tiêu thụ nhiên liệu"
+  },
+  {
+    "key": "possible_states",
+    "type": 0,
+    "en": "Possible States",
+    "vi": "Các trạng thái có thể"
+  },
+  {
+    "key": "list_or",
+    "type": 0,
+    "en": "or",
+    "vi": "hoặc"
+  },
+  {
+    "key": "list_and",
+    "type": 0,
+    "en": "and",
+    "vi": "và"
+  },
+  {
+    "key": "list_exactly",
+    "type": 0,
+    "en": "Exactly",
+    "vi": "Chính xác"
+  },
+  {
+    "key": "atb_info_AttackCritChance",
+    "type": 0,
+    "en": "The chance of landing a critical hit with any weapon in combat.",
+    "vi": "Cơ hội tung đòn chí mạng bằng bất kỳ vũ khí nào trong chiến đấu."
+  },
+  {
+    "key": "atb_info_BloodLoss",
+    "type": 0,
+    "en": "The amount of blood lost per hour.",
+    "vi": "Lượng máu mất mỗi giờ."
+  },
+  {
+    "key": "atb_info_BloodRecovery",
+    "type": 0,
+    "en": "Blood loss recovery: settler base blood recovery rate +/- multipliers",
+    "vi": "Khả năng hồi phục mất máu: tốc độ hồi máu cơ bản của dân làng +/- hệ số"
+  },
+  {
+    "key": "atb_info_ButcheringYield",
+    "type": 0,
+    "en": "The number of resources yielded from butchering animals.",
+    "vi": "Số lượng tài nguyên thu được khi mổ thịt động vật."
+  },
+  {
+    "key": "atb_info_Clumsiness",
+    "type": 0,
+    "en": "Multiplier indicating chance of failure. The lower the number, the less this settler will fail in their actions.",
+    "vi": "Hệ số biểu thị cơ hội thất bại. Con số càng thấp, dân làng này càng ít thất bại khi hành động."
+  },
+  {
+    "key": "atb_info_ConsciousnessLoss",
+    "type": 0,
+    "en": "Consciousness lost per hour.",
+    "vi": "Lượng tỉnh táo mất mỗi giờ."
+  },
+  {
+    "key": "atb_info_ConsciousnessMax",
+    "type": 0,
+    "en": "Settler's maximum consciousness (may be lowered if they receive a head injury).",
+    "vi": "Mức tỉnh táo tối đa của dân làng (có thể giảm nếu bị chấn thương đầu)."
+  },
+  {
+    "key": "atb_info_ConsciousnessStep",
+    "type": 0,
+    "en": "Multiplier indicating how fast this settler recovers consciousness.",
+    "vi": "Hệ số cho biết dân làng này hồi phục tỉnh táo nhanh đến mức nào."
+  },
+  {
+    "key": "atb_info_ConsumptionSpeed",
+    "type": 0,
+    "en": "Time taken to consume food item, in hours. Settlers with certain perks will eat faster.",
+    "vi": "Thời gian tiêu thụ một món ăn, tính theo giờ. Dân làng có một số đặc tính sẽ ăn nhanh hơn."
+  },
+  {
+    "key": "atb_info_CookingSpeed",
+    "type": 0,
+    "en": "This settler's cooking and food preparation speed.",
+    "vi": "Tốc độ nấu nướng và chuẩn bị thức ăn của dân làng này."
+  },
+  {
+    "key": "atb_info_CourteousAmount",
+    "type": 0,
+    "en": "(should be hidden)",
+    "vi": "(nên được ẩn)"
+  },
+  {
+    "key": "atb_info_CraftingMiscSpeed",
+    "type": 0,
+    "en": "This settler's crafting speed for basic items.",
+    "vi": "Tốc độ chế tạo vật phẩm cơ bản của dân làng này."
+  },
+  {
+    "key": "atb_info_CutAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from reaping vegetation.",
+    "vi": "Số lượng tài nguyên dân làng này nhận được khi thu hoạch thực vật."
+  },
+  {
+    "key": "atb_info_CutFail",
+    "type": 0,
+    "en": "The chance this settler's reaping fails, losing all resources.",
+    "vi": "Tỉ lệ dân làng này gặt hái thất bại, làm mất toàn bộ tài nguyên thu hoạch."
+  },
+  {
+    "key": "atb_info_CutSpeed",
+    "type": 0,
+    "en": "This settler's vegetation reaping speed.",
+    "vi": "Tốc độ thu hoạch thực vật của dân làng này."
+  },
+  {
+    "key": "atb_info_CuttingStone",
+    "type": 0,
+    "en": "This settler's stone cutting speed.",
+    "vi": "Tốc độ đẽo đá của dân làng này."
+  },
+  {
+    "key": "atb_info_DecomposeSpeed",
+    "type": 0,
+    "en": "How fast this resource will decompose.",
+    "vi": "Tốc độ phân hủy của tài nguyên này."
+  },
+  {
+    "key": "atb_info_EvadeChance",
+    "type": 0,
+    "en": "The chance to evade an incoming attack.",
+    "vi": "Cơ hội né tránh một đòn tấn công đang tới."
+  },
+  {
+    "key": "atb_info_HarvestAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from harvesting.",
+    "vi": "Số lượng tài nguyên mà dân làng này thu được mỗi lần thu hoạch."
+  },
+  {
+    "key": "atb_info_HarvestFail",
+    "type": 0,
+    "en": "The chance of this settler's harvest failing, losing all resources.",
+    "vi": "Tỉ lệ dân làng này thất bại khi thu hoạch, dẫn đến mất toàn bộ sản lượng tài nguyên."
+  },
+  {
+    "key": "atb_info_HarvestSpeed",
+    "type": 0,
+    "en": "This settler's crop harvesting speed.",
+    "vi": "Công trình này settler's crop Thu hoạch speed."
+  },
+  {
+    "key": "atb_info_HealthLoss",
+    "type": 0,
+    "en": "The number of hitpoints lost per hour.",
+    "vi": "Lượng máu (sinh lực) bị mất mỗi giờ khi bị thương hoặc mắc bệnh."
+  },
+  {
+    "key": "atb_info_HealthMax",
+    "type": 0,
+    "en": "Maximum hitpoints: base hitpoints +/- multipliers.",
+    "vi": "Sinh lực tối đa: sinh lực cơ bản +/- hệ số."
+  },
+  {
+    "key": "atb_info_HealthRecovery",
+    "type": 0,
+    "en": "Health recovery: base hitpoint recovery rate +/- multipliers.",
+    "vi": "Sức khỏe recovery: base hitpoint recovery rate +/- multipliers."
+  },
+  {
+    "key": "atb_info_Hunger",
+    "type": 0,
+    "en": "This settler's nutrition expended per hour.",
+    "vi": "Công trình này settler's nutrition expended per Giờ."
+  },
+  {
+    "key": "atb_info_HungerThreshold",
+    "type": 0,
+    "en": "Hunger threshold: settler base hunger +/- multipliers. (Example: a -10% perk means hunger thresholds are offset by 10% and this settler will go hungry later than other settlers)",
+    "vi": "Ngưỡng đói: Mức đói cơ bản của dân làng kết hợp các hệ số nhân. (Ví dụ: Đặc điểm -10% nghĩa là ngưỡng đói được giảm 10%, giúp dân làng này lâu bị đói hơn những người khác)."
+  },
+  {
+    "key": "atb_info_HuntingRetaliateChance",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "Tỉ lệ con mồi sẽ quay lại tấn công người đi săn."
+  },
+  {
+    "key": "atb_info_HuntingRunChance",
+    "type": 0,
+    "en": "The chance that the quarry flees.",
+    "vi": "Tỷ lệ quarry flees."
+  },
+  {
+    "key": "atb_info_HuntingVisibility",
+    "type": 0,
+    "en": "Chance that an animal will see this settler when the settler is hunting.",
+    "vi": "Tỉ lệ con thú phát hiện ra dân làng này khi đang bị rình săn."
+  },
+  {
+    "key": "atb_info_MakeClayBrick",
+    "type": 0,
+    "en": "This settler's clay brickmaking speed.",
+    "vi": "Công trình này dân làng's clay brickmaking speed."
+  },
+  {
+    "key": "atb_info_MakeClothesSpeed",
+    "type": 0,
+    "en": "This settler's garment making speed.",
+    "vi": "Công trình này dân làng's garment making speed."
+  },
+  {
+    "key": "atb_info_MeleeAttackSpeed",
+    "type": 0,
+    "en": "Melee attack duration: base melee duration +/- multipliers.",
+    "vi": "Cận chiến attack duration: base Cận chiến duration +/- multipliers."
+  },
+  {
+    "key": "atb_info_MeleeChance",
+    "type": 0,
+    "en": "The chance to hit a target with a melee weapon.",
+    "vi": "Tỉ lệ đánh trúng mục tiêu khi sử dụng vũ khí cận chiến."
+  },
+  {
+    "key": "atb_info_MeleeDmg",
+    "type": 0,
+    "en": "Melee weapon proficiency (Higher melee skill will increase, and penalties such as wounds will decrease this modifier.).",
+    "vi": "Cận chiến weapon proficiency (Higher Cận chiến skill will increase, và penalties such as wounds will decrease this modifier.)."
+  },
+  {
+    "key": "atb_info_MineAmount",
+    "type": 0,
+    "en": "The number of resources this settler gets from mining and digging.",
+    "vi": "Số lượng tài nguyên mà dân làng này khai thác được từ việc đào bới và đập đá."
+  },
+  {
+    "key": "atb_info_MineFail",
+    "type": 0,
+    "en": "The chance this settler will spoil resources when mining and digging.",
+    "vi": "Tỉ lệ dân làng này làm hỏng hoặc hao hụt tài nguyên khi đào mỏ."
+  },
+  {
+    "key": "atb_info_MineSpeed",
+    "type": 0,
+    "en": "Voxel mining and digging speed.",
+    "vi": "Voxel Khai khoáng và digging speed."
+  },
+  {
+    "key": "atb_info_MotorFunction",
+    "type": 0,
+    "en": "Settler motor function level. Affects the duration of all physical actions.",
+    "vi": "Settler motor function level. Affects duration của Tất cả physical actions."
+  },
+  {
+    "key": "atb_info_MovementSpeed",
+    "type": 0,
+    "en": "Movement speed represented in grid spaces per second.",
+    "vi": "Movement tốc độ represented trong grid spaces per second."
+  },
+  {
+    "key": "atb_info_PainMax",
+    "type": 0,
+    "en": "The maximum pain this settler can endure.",
+    "vi": "Mức độ đau đớn tối đa mà dân làng này có thể chịu đựng trước khi ngất xỉu."
+  },
+  {
+    "key": "atb_info_PainStep",
+    "type": 0,
+    "en": "Multiplier indicating how fast this settler's pain subsides.",
+    "vi": "Multiplier indicating how fast this settler's Cơn đau subsides."
+  }
+]

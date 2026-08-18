@@ -1,0 +1,560 @@
+[
+  {
+    "key": "hud_info_show_stability_vis",
+    "type": 0,
+    "en": "Show stability values around cursor",
+    "vi": "Hiển thị chỉ số độ vững chắc quanh con trỏ chuột"
+  },
+  {
+    "key": "hud_info_area",
+    "type": 0,
+    "en": "Creates a stockpile where your settlers will store resources.",
+    "vi": "Tạo bãi chứa để dân làng lưu trữ tài nguyên."
+  },
+  {
+    "key": "hud_info_hide_roof",
+    "type": 0,
+    "en": "Hide roof elements in order to see inside.",
+    "vi": "Ẩn phần mái để nhìn vào bên trong công trình."
+  },
+  {
+    "key": "hud_info_jobs",
+    "type": 0,
+    "en": "Choose which job will each settler do.",
+    "vi": "Phân chia công việc cho từng dân làng."
+  },
+  {
+    "key": "hud_info_layer_down",
+    "type": 0,
+    "en": "View one layer down.",
+    "vi": "Xem tầng bên dưới."
+  },
+  {
+    "key": "hud_info_layer_up",
+    "type": 0,
+    "en": "View one layer up.",
+    "vi": "Xem tầng bên trên."
+  },
+  {
+    "key": "hud_info_layer_additional",
+    "type": 0,
+    "en": "\\nUse [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Mouse wheel</style>] to quickly move through layers.\\nUse [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> on any object or the ground to jump to that layer.",
+    "vi": "\\nGiữ [<style=Shortcut>Ctrl</style>] + [<style=Shortcut>Lăn chuột</style>] để chuyển tầng nhanh chóng.\\nGiữ [<style=Shortcut>Ctrl</style>] + <sprite=\"ctrl_left_click\" index=t> vào vật thể hoặc mặt đất để nhảy tới tầng đó."
+  },
+  {
+    "key": "hud_info_camera_commands",
+    "type": 0,
+    "en": "Show camera controls",
+    "vi": "Hiện bảng điều khiển camera"
+  },
+  {
+    "key": "hud_info_lock_camera_target_layer",
+    "type": 0,
+    "en": "Lock camera target to current layer",
+    "vi": "Khóa tâm camera vào tầng hiện tại"
+  },
+  {
+    "key": "hud_info_camera_layer_up",
+    "type": 0,
+    "en": "Camera lock layer up",
+    "vi": "Chuyển tầng khóa camera lên trên"
+  },
+  {
+    "key": "hud_info_camera_layer_additional",
+    "type": 0,
+    "en": "\\nUse [<style=Shortcut>Shift</style>] + [<style=Shortcut>Mouse wheel</style>] to change what <style=DefaultBlue>layers</style> the camera is locked to.",
+    "vi": "\\nGiữ [<style=Shortcut>Shift</style>] + [<style=Shortcut>Lăn chuột</style>] để thay đổi <style=DefaultBlue>tầng</style> mà camera đang khóa vào."
+  },
+  {
+    "key": "hud_info_camera_layer_down",
+    "type": 0,
+    "en": "Camera lock layer down",
+    "vi": "Chuyển tầng khóa camera xuống dưới"
+  },
+  {
+    "key": "camera_locked",
+    "type": 0,
+    "en": "Camera target is now locked to layer <layer_number>",
+    "vi": "Tâm camera đã được khóa vào tầng <layer_number>"
+  },
+  {
+    "key": "camera_unlocked",
+    "type": 0,
+    "en": "Camera is no longer height locked",
+    "vi": "Đã mở khóa độ cao camera"
+  },
+  {
+    "key": "hud_info_order_allow",
+    "type": 0,
+    "en": "Select piles to allow/forbid settlers from using them.",
+    "vi": "Chọn các đống tài nguyên để cho phép hoặc cấm dân làng sử dụng."
+  },
+  {
+    "key": "hud_lb_order_UrgentHaul",
+    "type": 0,
+    "en": "Urgent Haul",
+    "vi": "Dọn đồ khẩn cấp"
+  },
+  {
+    "key": "hud_info_order_UrgentHaul",
+    "type": 0,
+    "en": "Mark piles and items needing to be hauled urgently",
+    "vi": "Đánh dấu tài nguyên và vật phẩm cần ưu tiên chuyển về kho gấp"
+  },
+  {
+    "key": "hud_info_order_cancel",
+    "type": 0,
+    "en": "Cancel given orders.",
+    "vi": "Hủy các mệnh lệnh đã ban hành."
+  },
+  {
+    "key": "hud_info_order_chopping",
+    "type": 0,
+    "en": "Designate trees to be chopped down.",
+    "vi": "Chỉ định cây gỗ cần đốn hạ."
+  },
+  {
+    "key": "hud_info_order_cleaning",
+    "type": 0,
+    "en": "PH Description",
+    "vi": "Mô tả dọn dẹp vệ sinh"
+  },
+  {
+    "key": "hud_info_order_clearall",
+    "type": 0,
+    "en": "Designate all objects to be chopped, cut or mined.",
+    "vi": "Chỉ định dọn sạch toàn bộ: đốn cây, cắt cỏ và đào khoáng."
+  },
+  {
+    "key": "hud_info_order_createcrops",
+    "type": 0,
+    "en": "Create plant growing area.",
+    "vi": "Quy hoạch vùng trồng trọt nông nghiệp."
+  },
+  {
+    "key": "hud_info_order_cutallvegetation",
+    "type": 0,
+    "en": "Designate plants to be cut down.",
+    "vi": "Chỉ định các loại cây cỏ cần cắt dọn."
+  },
+  {
+    "key": "hud_info_order_cutting",
+    "type": 0,
+    "en": "Designate area of vegetation to be cut down and harvested.",
+    "vi": "Chỉ định thảm thực vật cần cắt dọn và thu hoạch."
+  },
+  {
+    "key": "hud_info_order_digging",
+    "type": 0,
+    "en": "Mark areas of terrain to be mined.",
+    "vi": "Đánh dấu vùng địa hình cần đào bới."
+  },
+  {
+    "key": "hud_info_order_tame",
+    "type": 0,
+    "en": "Mark animals for your settlers to domesticate.",
+    "vi": "Đánh dấu động vật để dân làng thuần hóa."
+  },
+  {
+    "key": "hud_info_order_train",
+    "type": 0,
+    "en": "Mark animals for your settlers to train as pets.",
+    "vi": "Đánh dấu động vật để dân làng huấn luyện."
+  },
+  {
+    "key": "hud_info_order_slaughter",
+    "type": 0,
+    "en": "Mark animals for slaughter.",
+    "vi": "Đánh dấu vật nuôi cần giết mổ lấy thịt."
+  },
+  {
+    "key": "hud_info_order_release",
+    "type": 0,
+    "en": "Mark animals to be set free. (They will become wild animals and roam around the map.)",
+    "vi": "Đánh dấu động vật để trả về tự nhiên. (Chúng sẽ trở lại thành thú hoang và đi lại tự do trên bản đồ.)"
+  },
+  {
+    "key": "hud_info_order_harvesting",
+    "type": 0,
+    "en": "Designate plants to be harvested.",
+    "vi": "Chỉ định cây trồng đã chín cần thu hoạch."
+  },
+  {
+    "key": "hud_info_order_hunting",
+    "type": 0,
+    "en": "Mark animals for your hunters to target.",
+    "vi": "Đánh dấu thú hoang cho thợ săn săn bắn."
+  },
+  {
+    "key": "hud_info_order_minevoxel",
+    "type": 0,
+    "en": "Dig deeper into the ground.",
+    "vi": "Đào sâu hơn xuống lòng đất."
+  },
+  {
+    "key": "hud_info_order_mining",
+    "type": 0,
+    "en": "Designate rock, iron and clay deposits to be mined.",
+    "vi": "Chỉ định các mỏ đá, quặng sắt và đất sét cần khai thác."
+  },
+  {
+    "key": "hud_info_orders",
+    "type": 0,
+    "en": "Order that you can give your settlers.",
+    "vi": "Danh sách các mệnh lệnh ban cho dân làng."
+  },
+  {
+    "key": "hud_info_pause",
+    "type": 0,
+    "en": "Pause the game.",
+    "vi": "Tạm dừng trò chơi."
+  },
+  {
+    "key": "hud_info_report",
+    "type": 0,
+    "en": "Help us out by sending us bug reports, requests, or general comments. A serf may well read them.",
+    "vi": "Giúp đỡ đội ngũ phát triển bằng cách gửi báo cáo lỗi, yêu cầu hoặc ý kiến đóng góp. Rất có thể một nông nô sẽ tiếp nhận chúng."
+  },
+  {
+    "key": "hud_info_research",
+    "type": 0,
+    "en": "Choose what to unlock with your accumulated knowledge.",
+    "vi": "Mở khóa các công nghệ mới bằng tri thức đã tích lũy."
+  },
+  {
+    "key": "hud_info_schedule",
+    "type": 0,
+    "en": "Set up settlers' daily routine.",
+    "vi": "Sắp xếp thời gian biểu sinh hoạt và làm việc của dân làng."
+  },
+  {
+    "key": "hud_info_speed_01",
+    "type": 0,
+    "en": "Game speed normal",
+    "vi": "Tốc độ bình thường (1x)"
+  },
+  {
+    "key": "hud_info_speed_02",
+    "type": 0,
+    "en": "Game speed X2",
+    "vi": "Tốc độ nhanh (2x)"
+  },
+  {
+    "key": "hud_info_speed_03",
+    "type": 0,
+    "en": "Game speed X5",
+    "vi": "Tốc độ cực nhanh (5x)"
+  },
+  {
+    "key": "hud_lb_area",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Bãi chứa"
+  },
+  {
+    "key": "hud_lb_jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Công việc"
+  },
+  {
+    "key": "hud_lb_world",
+    "type": 0,
+    "en": "Region",
+    "vi": "Bản đồ vùng"
+  },
+  {
+    "key": "hud_info_world",
+    "type": 0,
+    "en": "View region map and neighbouring settlements.",
+    "vi": "Xem bản đồ toàn vùng và các khu định cư láng giềng."
+  },
+  {
+    "key": "hud_lb_view_region",
+    "type": 0,
+    "en": "View Region",
+    "vi": "Xem bản đồ vùng"
+  },
+  {
+    "key": "hud_lb_view_map",
+    "type": 0,
+    "en": "View Map",
+    "vi": "Xem bản đồ"
+  },
+  {
+    "key": "hud_lb_map",
+    "type": 0,
+    "en": "Map Preview",
+    "vi": "Xem trước bản đồ"
+  },
+  {
+    "key": "hud_lb_order_allow",
+    "type": 0,
+    "en": "Allow",
+    "vi": "Cho phép"
+  },
+  {
+    "key": "hud_lb_order_cancel",
+    "type": 0,
+    "en": "Cancel",
+    "vi": "Hủy lệnh"
+  },
+  {
+    "key": "hud_lb_order_chopping",
+    "type": 0,
+    "en": "Chop",
+    "vi": "Đốn cây"
+  },
+  {
+    "key": "hud_lb_order_cleaning",
+    "type": 0,
+    "en": "Clean",
+    "vi": "Dọn dẹp"
+  },
+  {
+    "key": "hud_lb_order_createcrops",
+    "type": 0,
+    "en": "Plant crops",
+    "vi": "Trồng trọt"
+  },
+  {
+    "key": "hud_lb_order_cutallvegetation",
+    "type": 0,
+    "en": "Cut plants",
+    "vi": "Cắt cây cỏ"
+  },
+  {
+    "key": "hud_lb_order_cutting",
+    "type": 0,
+    "en": "Cut",
+    "vi": "Chặt cây"
+  },
+  {
+    "key": "hud_lb_order_digging",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Khai mỏ"
+  },
+  {
+    "key": "hud_lb_order_harvesting",
+    "type": 0,
+    "en": "Harvest",
+    "vi": "Thu hoạch"
+  },
+  {
+    "key": "hud_lb_order_hunting",
+    "type": 0,
+    "en": "Hunt",
+    "vi": "Săn bắn"
+  },
+  {
+    "key": "hud_lb_order_minevoxel",
+    "type": 0,
+    "en": "Dig ",
+    "vi": "Đào đất "
+  },
+  {
+    "key": "hud_lb_order_mining",
+    "type": 0,
+    "en": "Mine",
+    "vi": "Khai thác"
+  },
+  {
+    "key": "hud_lb_orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Mệnh lệnh"
+  },
+  {
+    "key": "hud_lb_orders_all",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Mệnh lệnh"
+  },
+  {
+    "key": "hud_lb_pile",
+    "type": 0,
+    "en": "Pile",
+    "vi": "Đống đồ"
+  },
+  {
+    "key": "hud_lb_report",
+    "type": 0,
+    "en": "Report bugs or send feedback.",
+    "vi": "Báo cáo lỗi hoặc gửi ý kiến đóng góp."
+  },
+  {
+    "key": "hud_lb_report_title",
+    "type": 0,
+    "en": "Report",
+    "vi": "Phản hồi"
+  },
+  {
+    "key": "hud_lb_research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Nghiên cứu"
+  },
+  {
+    "key": "hud_lb_schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Lịch làm việc"
+  },
+  {
+    "key": "hud_info_hide_zoneGrid",
+    "type": 0,
+    "en": "Show coloured grid overlay for zones.",
+    "vi": "Hiển thị lưới màu phân định các khu vực."
+  },
+  {
+    "key": "hud_info_show_beauty_heatmap",
+    "type": 0,
+    "en": "Show aesthetic heatmap.",
+    "vi": "Hiển thị bản đồ thẩm mỹ."
+  },
+  {
+    "key": "hud_info_hide_trees",
+    "type": 0,
+    "en": "Hide tree tops.",
+    "vi": "Ẩn tán cây để nhìn rõ mặt đất."
+  },
+  {
+    "key": "hud_info_hide_item_indicator",
+    "type": 0,
+    "en": "Show item indicators.",
+    "vi": "Hiển thị biểu tượng chỉ báo vật phẩm."
+  },
+  {
+    "key": "hud_lb_Manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Quản lý"
+  },
+  {
+    "key": "hud_info_Manage",
+    "type": 0,
+    "en": "Manage what your settlers auto-equip and consume.",
+    "vi": "Quản lý quy định trang bị và ăn uống của dân làng."
+  },
+  {
+    "key": "hud_lb_HistoricRecords",
+    "type": 0,
+    "en": "Historical Records",
+    "vi": "Hồ sơ lịch sử"
+  },
+  {
+    "key": "hud_info_HistoricRecords",
+    "type": 0,
+    "en": "View statistic and historical records of your settlement.",
+    "vi": "Xem số liệu thống kê và lịch sử phát triển của khu định cư."
+  },
+  {
+    "key": "hud_lb_takePhoto",
+    "type": 0,
+    "en": "Take screenshot",
+    "vi": "Chụp ảnh màn hình"
+  },
+  {
+    "key": "hud_info_takePhoto",
+    "type": 0,
+    "en": "Take screenshot and save to hard drive",
+    "vi": "Chụp ảnh màn hình và lưu vào máy"
+  },
+  {
+    "key": "hud_lb_toggleUi",
+    "type": 0,
+    "en": "Toggle UI",
+    "vi": "Ẩn/hiện giao diện"
+  },
+  {
+    "key": "hud_info_toggleUi",
+    "type": 0,
+    "en": "Show/Hide User Interface elements on this screen",
+    "vi": "Bật/tắt hiển thị các thanh giao diện trên màn hình"
+  },
+  {
+    "key": "hud_lb_PhotoMode",
+    "type": 0,
+    "en": "Screenshot Mode",
+    "vi": "Chế độ chụp ảnh"
+  },
+  {
+    "key": "hud_info_PhotoMode",
+    "type": 0,
+    "en": "Toggle Screenshot Mode view.",
+    "vi": "Bật/tắt chế độ chụp ảnh nghệ thuật."
+  },
+  {
+    "key": "hud_info_overview",
+    "type": 0,
+    "en": "A useful overview of your animals, resources, and more.",
+    "vi": "Bảng tổng quan tiện ích về vật nuôi, tài nguyên và kho hàng."
+  },
+  {
+    "key": "hud_info_show_temperature_heatmap",
+    "type": 0,
+    "en": "Show temperature heatmap.",
+    "vi": "Hiển thị bản đồ nhiệt độ."
+  },
+  {
+    "key": "hud_info_order_fishing",
+    "type": 0,
+    "en": "Mark schools of fish for settlers to catch",
+    "vi": "Đánh dấu đàn cá để dân làng câu cá"
+  },
+  {
+    "key": "hud_lb_order_fishing",
+    "type": 0,
+    "en": "Fish",
+    "vi": "Câu cá"
+  },
+  {
+    "key": "hud_lb_order_off_shackless",
+    "type": 0,
+    "en": "Prioritise: Remove Shackle",
+    "vi": "Ưu tiên: Tháo xiềng xích"
+  },
+  {
+    "key": "hud_lb_leave_map",
+    "type": 0,
+    "en": "Leave",
+    "vi": "Rời đi"
+  },
+  {
+    "key": "hud_lb_leave_map_desc",
+    "type": 0,
+    "en": "Muster your caravan and leave location ",
+    "vi": "Tập hợp thương đoàn và rời khỏi khu vực này "
+  },
+  {
+    "key": "hud_info_show_hide_forbidden_blueprints",
+    "type": 0,
+    "en": "Show/Hide forbidden blueprints",
+    "vi": "Ẩn/hiện bản thiết kế bị cấm"
+  },
+  {
+    "key": "twitch_auth_button",
+    "type": 0,
+    "en": "Log in",
+    "vi": "Đăng nhập"
+  },
+  {
+    "key": "twitch_drops_button",
+    "type": 0,
+    "en": "Get drops",
+    "vi": "Nhận phần thưởng"
+  },
+  {
+    "key": "save_migration_button",
+    "type": 0,
+    "en": "Migrate Save File",
+    "vi": "Chuyển đổi file lưu"
+  },
+  {
+    "key": "hud_lb_targeted_by",
+    "type": 0,
+    "en": "Targeted by",
+    "vi": "Đang bị nhắm đánh bởi"
+  }
+]

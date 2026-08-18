@@ -1,0 +1,902 @@
+[
+  {
+    "key": "status_rival_stop",
+    "type": 0,
+    "en": "<agent_name> has calmed down and no longer sees <target_name> as a rival.",
+    "vi": "<agent_name> đã nguôi giận và không còn xem <target_name> là kẻ thù không đội trời chung nữa."
+  },
+  {
+    "key": "status_change_reason",
+    "type": 0,
+    "en": "The reason was: <event>",
+    "vi": "Nguyên nhân xuất phát từ: <event>"
+  },
+  {
+    "key": "status_belief_change",
+    "type": 0,
+    "en": "<agent_name> has converted to <belief_status>. <previous_belief_status> no longer felt meaningful enough.",
+    "vi": "<agent_name> đã cải đạo sang <belief_status>. Giáo phái <previous_belief_status> trước đây không còn mang lại ý nghĩa tâm linh sâu sắc nữa."
+  },
+  {
+    "key": "bbt_has_become_item",
+    "type": 0,
+    "en": "<agent_name>'s remains have been crafted into a <item>",
+    "vi": "Hài cốt của <agent_name> đã bị đem đi chế tác thành một món <item>"
+  },
+  {
+    "key": "miss_description_default_1",
+    "type": 0,
+    "en": "<defender_name> was terrified, but <attacker_name> proved clumsy, and ineffective",
+    "vi": "<defender_name> vô cùng hoảng sợ, nhưng <attacker_name> ra đòn quá vụng về và hoàn toàn trượt mục tiêu."
+  },
+  {
+    "key": "miss_description_default_2",
+    "type": 0,
+    "en": "<defender_name> heard <attacker_name> curse as the blow did not connect",
+    "vi": "<defender_name> nghe thấy tiếng <attacker_name> chửi thề cay cú khi nhát chém chém hụt vào không khí."
+  },
+  {
+    "key": "miss_description_default_3",
+    "type": 0,
+    "en": "<defender_name> was thankful that <attacker_name> was wide of the mark",
+    "vi": "<defender_name> thầm tạ ơn trời đất vì nhát kiếm của <attacker_name> đã chém chệch hướng trong gang tấc."
+  },
+  {
+    "key": "miss_description_default_4",
+    "type": 0,
+    "en": "Fortunately for <defender_name>, <attacker_name> bungled the attack",
+    "vi": "May mắn thay cho <defender_name>, đòn tấn công của <attacker_name> đã thất bại ê chề."
+  },
+  {
+    "key": "miss_description_default_5",
+    "type": 0,
+    "en": "<defender_name> was extremely lucky that <attacker_name> mistimed the attack",
+    "vi": "<defender_name> cực kỳ may mắn khi <attacker_name> vung đòn sai nhịp."
+  },
+  {
+    "key": "miss_description_default_6",
+    "type": 0,
+    "en": "<attacker_name>'s blow glanced off, and <defender_name> was unharmed.",
+    "vi": "Nhát chém của <attacker_name> chỉ sượt qua sườn, và <defender_name> hoàn toàn không hề hấn gì."
+  },
+  {
+    "key": "miss_description_default_7",
+    "type": 0,
+    "en": "<attacker_name> roared, enfuriated that #2[he/she] missed <defender_name>.",
+    "vi": "<attacker_name> gầm lên tức tối vì #2[he/she] đã đánh hụt <defender_name>."
+  },
+  {
+    "key": "miss_description_default_8",
+    "type": 0,
+    "en": "<defender_name> berated <attacker_name>, mocking their terrible aim",
+    "vi": "<defender_name> mắng nhiếc <attacker_name>, chế nhạo tài ngắm bắn dở tệ của đối phương."
+  },
+  {
+    "key": "miss_description_default_9",
+    "type": 0,
+    "en": "<attacker_name> went astray, narrowly missing <defender_name>",
+    "vi": "Mũi tên của <attacker_name> bay chệch hướng, suýt nữa bắn trúng <defender_name>."
+  },
+  {
+    "key": "miss_description_default_10",
+    "type": 0,
+    "en": "<attacker_name>'s attempt was in vain. <defender_name> remained unscathed.",
+    "vi": "Mọi nỗ lực của <attacker_name> đều vô ích. <defender_name> vẫn bình an vô sự."
+  },
+  {
+    "key": "evade_description_default_1",
+    "type": 0,
+    "en": "<defender_name> evaded <attacker_name> by leaping aside",
+    "vi": "<defender_name> nhanh chân nhảy lùi sang bên để né đòn của <attacker_name>."
+  },
+  {
+    "key": "evade_description_default_2",
+    "type": 0,
+    "en": "It was down to <defender_name>'s hasty retreat that <attacker_name> was thwarted",
+    "vi": "Chính nhờ pha lùi bước kịp thời của <defender_name> mà âm mưu tấn công của <attacker_name> đã bị chặn đứng."
+  },
+  {
+    "key": "evade_description_default_3",
+    "type": 0,
+    "en": "<defender_name> deftly gave <attacker_name> the slip, and survived",
+    "vi": "<defender_name> khéo léo thoát khỏi <attacker_name> và sống sót."
+  },
+  {
+    "key": "evade_description_default_4",
+    "type": 0,
+    "en": "<defender_name> avoided <attacker_name>'s assault by ducking",
+    "vi": "<defender_name> cúi người né đòn tấn công của <attacker_name>."
+  },
+  {
+    "key": "evade_description_default_5",
+    "type": 0,
+    "en": "<defender_name> tripped over, and <attacker_name>'s blow failed to land",
+    "vi": "<defender_name> vấp ngã, khiến đòn của <attacker_name> không trúng đích."
+  },
+  {
+    "key": "evade_description_default_6",
+    "type": 0,
+    "en": "<defender_name> was amazed to be unscathed. <attacker_name> couldn't understand it either.",
+    "vi": "<defender_name> kinh ngạc vì mình không bị thương. <attacker_name> cũng chẳng hiểu chuyện gì."
+  },
+  {
+    "key": "evade_description_default_7",
+    "type": 0,
+    "en": "More by accident than design, <defender_name> sent <attacker_name> flying.",
+    "vi": "Vô tình nhiều hơn cố ý, <defender_name> khiến <attacker_name> bay đi."
+  },
+  {
+    "key": "evade_description_default_8",
+    "type": 0,
+    "en": "<defender_name> dodged aside and was spared",
+    "vi": "<defender_name> né sang bên và thoát nạn."
+  },
+  {
+    "key": "evade_description_default_9",
+    "type": 0,
+    "en": "<defender_name> parried <attacker_name>'s attack with a flourish",
+    "vi": "<defender_name> parried <attacker_name>'s attack với a flourish"
+  },
+  {
+    "key": "evade_description_default_10",
+    "type": 0,
+    "en": "<defender_name> rapidly got out of <attacker_name>'s sightline",
+    "vi": "<defender_name> nhanh chóng ra khỏi tầm mắt của <attacker_name>."
+  },
+  {
+    "key": "last_words_pattern",
+    "type": 0,
+    "en": "<agent_name>'s last words were: \"<last_words>\"",
+    "vi": "<agent_name>'s cuối cùng words đã: \"<last_words>\""
+  },
+  {
+    "key": "Pattern Elements",
+    "type": 0,
+    "en": "",
+    "vi": "Họa tiết trang trí"
+  },
+  {
+    "key": "topic_smalltalk_1",
+    "type": 0,
+    "en": "the weather",
+    "vi": "thời tiết"
+  },
+  {
+    "key": "topic_smalltalk_2",
+    "type": 0,
+    "en": "dog training",
+    "vi": "huấn luyện chó"
+  },
+  {
+    "key": "topic_smalltalk_3",
+    "type": 0,
+    "en": "owning cats",
+    "vi": "owning mèo"
+  },
+  {
+    "key": "topic_smalltalk_4",
+    "type": 0,
+    "en": "cattle",
+    "vi": "bàn về cattle"
+  },
+  {
+    "key": "topic_smalltalk_5",
+    "type": 0,
+    "en": "the cooking rota",
+    "vi": "Nấu nướng rota"
+  },
+  {
+    "key": "topic_smalltalk_6",
+    "type": 0,
+    "en": "food storage",
+    "vi": "food kho chứa"
+  },
+  {
+    "key": "topic_smalltalk_7",
+    "type": 0,
+    "en": "trees",
+    "vi": "cây cối"
+  },
+  {
+    "key": "topic_smalltalk_8",
+    "type": 0,
+    "en": "wild flowers",
+    "vi": "bàn về wild flowers"
+  },
+  {
+    "key": "topic_smalltalk_9",
+    "type": 0,
+    "en": "the habits of birds",
+    "vi": "habits của birds"
+  },
+  {
+    "key": "topic_smalltalk_10",
+    "type": 0,
+    "en": "the merits of turnips",
+    "vi": "merits của turnips"
+  },
+  {
+    "key": "topic_smalltalk_11",
+    "type": 0,
+    "en": "art and artists",
+    "vi": "art và artists"
+  },
+  {
+    "key": "topic_smalltalk_12",
+    "type": 0,
+    "en": "jousting",
+    "vi": "bàn về jousting"
+  },
+  {
+    "key": "topic_smalltalk_13",
+    "type": 0,
+    "en": "sword fighting",
+    "vi": "kiếm fighting"
+  },
+  {
+    "key": "topic_smalltalk_14",
+    "type": 0,
+    "en": "archery techniques",
+    "vi": "bàn về archery techniques"
+  },
+  {
+    "key": "topic_smalltalk_15",
+    "type": 0,
+    "en": "what was for supper",
+    "vi": "what đã cho supper"
+  },
+  {
+    "key": "topic_smalltalk_16",
+    "type": 0,
+    "en": "planting herbs",
+    "vi": "planting thảo dược"
+  },
+  {
+    "key": "topic_smalltalk_17",
+    "type": 0,
+    "en": "the strange smell",
+    "vi": "bàn về strange smell"
+  },
+  {
+    "key": "topic_smalltalk_18",
+    "type": 0,
+    "en": "windmills",
+    "vi": "bàn về windmills"
+  },
+  {
+    "key": "topic_smalltalk_19",
+    "type": 0,
+    "en": "rats in the store again",
+    "vi": "rats trong store again"
+  },
+  {
+    "key": "topic_smalltalk_20",
+    "type": 0,
+    "en": "feast days",
+    "vi": "bàn về feast days"
+  },
+  {
+    "key": "topic_smalltalk_21",
+    "type": 0,
+    "en": "pilgrimages",
+    "vi": "bàn về pilgrimages"
+  },
+  {
+    "key": "topic_smalltalk_22",
+    "type": 0,
+    "en": "Saint Fiacre’s curse",
+    "vi": "bàn về Saint Fiacre’s curse"
+  },
+  {
+    "key": "topic_smalltalk_23",
+    "type": 0,
+    "en": "fleas and ticks",
+    "vi": "fleas và ticks"
+  },
+  {
+    "key": "topic_smalltalk_24",
+    "type": 0,
+    "en": "catching rabbits",
+    "vi": "bàn về catching rabbits"
+  },
+  {
+    "key": "topic_smalltalk_25",
+    "type": 0,
+    "en": "the best fishing spots",
+    "vi": "những điểm câu cá lý tưởng nhất"
+  },
+  {
+    "key": "topic_smalltalk_26",
+    "type": 0,
+    "en": "haymaking",
+    "vi": "việc phơi cỏ khô"
+  },
+  {
+    "key": "topic_smalltalk_27",
+    "type": 0,
+    "en": "good dye plants",
+    "vi": "các loài cây chiết xuất màu nhuộm tốt"
+  },
+  {
+    "key": "topic_smalltalk_28",
+    "type": 0,
+    "en": "basket weaving",
+    "vi": "nghề đan lát giỏ liễu gai"
+  },
+  {
+    "key": "topic_smalltalk_29",
+    "type": 0,
+    "en": "broken fences",
+    "vi": "những hàng rào gỗ bị gãy đổ"
+  },
+  {
+    "key": "topic_smalltalk_30",
+    "type": 0,
+    "en": "lumpy beds",
+    "vi": "những chiếc giường nệm gồ ghề khó ngủ"
+  },
+  {
+    "key": "topic_smalltalk_31",
+    "type": 0,
+    "en": "achey joints",
+    "vi": "chứng đau nhức xương khớp mùa lạnh"
+  },
+  {
+    "key": "topic_smalltalk_32",
+    "type": 0,
+    "en": "wrestling",
+    "vi": "môn đấu vật truyền thống"
+  },
+  {
+    "key": "topic_smalltalk_33",
+    "type": 0,
+    "en": "chess",
+    "vi": "nghệ thuật cờ vua"
+  },
+  {
+    "key": "topic_smalltalk_34",
+    "type": 0,
+    "en": "darning hose",
+    "vi": "kỹ thuật vá tất len"
+  },
+  {
+    "key": "topic_smalltalk_35",
+    "type": 0,
+    "en": "Shrovetide football",
+    "vi": "trò chơi bóng đá Shrovetide náo nhiệt"
+  },
+  {
+    "key": "topic_smalltalk_36",
+    "type": 0,
+    "en": "the great cattle plague",
+    "vi": "đại dịch gia súc kinh hoàng thời trước"
+  },
+  {
+    "key": "topic_personal_1",
+    "type": 0,
+    "en": "appropriate outfit choices",
+    "vi": "cách ăn mặc y phục cho đúng phép tắc"
+  },
+  {
+    "key": "topic_personal_2",
+    "type": 0,
+    "en": "personal differences",
+    "vi": "sự khác biệt về tính cách cá nhân"
+  },
+  {
+    "key": "topic_personal_3",
+    "type": 0,
+    "en": "bravery - or the lack of it - ",
+    "vi": "lòng dũng cảm — hay sự hèn nhát —"
+  },
+  {
+    "key": "topic_personal_4",
+    "type": 0,
+    "en": "who was more intelligent",
+    "vi": "xem ai là người thông minh uyên bác hơn"
+  },
+  {
+    "key": "topic_personal_5",
+    "type": 0,
+    "en": "friendship",
+    "vi": "tình bạn chân thành"
+  },
+  {
+    "key": "topic_personal_6",
+    "type": 0,
+    "en": "sense of humour",
+    "vi": "khiếu hài hước dí dỏm"
+  },
+  {
+    "key": "topic_personal_7",
+    "type": 0,
+    "en": "charitable actions",
+    "vi": "những nghĩa cử từ thiện bố thí"
+  },
+  {
+    "key": "topic_personal_8",
+    "type": 0,
+    "en": "curmudgeonly behaviour",
+    "vi": "thái độ càu nhàu khó chịu"
+  },
+  {
+    "key": "topic_personal_9",
+    "type": 0,
+    "en": "dishonesty",
+    "vi": "thói gian dối lọc lừa"
+  },
+  {
+    "key": "topic_personal_10",
+    "type": 0,
+    "en": "forbearance and kindness",
+    "vi": "sự nhẫn nại và lòng nhân ái"
+  },
+  {
+    "key": "topic_personal_11",
+    "type": 0,
+    "en": "idleness and shirking duties",
+    "vi": "thói lười biếng và trốn tránh công việc"
+  },
+  {
+    "key": "topic_personal_12",
+    "type": 0,
+    "en": "keeping the noise down ",
+    "vi": "việc giữ gìn trật tự yên tĩnh chung"
+  },
+  {
+    "key": "topic_personal_13",
+    "type": 0,
+    "en": "some hurtful gossip",
+    "vi": "những lời đồn thổi ác ý sau lưng"
+  },
+  {
+    "key": "topic_personal_14",
+    "type": 0,
+    "en": "a recent argument",
+    "vi": "vụ tranh cãi nảy lửa gần đây"
+  },
+  {
+    "key": "topic_personal_15",
+    "type": 0,
+    "en": "spitefulness",
+    "vi": "thói hằn học nhỏ nhen"
+  },
+  {
+    "key": "topic_personal_16",
+    "type": 0,
+    "en": "unfairness",
+    "vi": "sự bất công thiên vị"
+  },
+  {
+    "key": "topic_personal_17",
+    "type": 0,
+    "en": "acting grumpy",
+    "vi": "tính khí gắt gỏng bực bội"
+  },
+  {
+    "key": "topic_personal_18",
+    "type": 0,
+    "en": "the importance of neatness",
+    "vi": "tầm quan trọng của sự ngăn nắp gọn gàng"
+  },
+  {
+    "key": "topic_personal_19",
+    "type": 0,
+    "en": "being on edge",
+    "vi": "tâm trạng bồn chồn lo âu"
+  },
+  {
+    "key": "topic_personal_20",
+    "type": 0,
+    "en": "keeping things civil",
+    "vi": "phép lịch sự văn minh tối thiểu"
+  },
+  {
+    "key": "topic_personal_21",
+    "type": 0,
+    "en": "how to improve one's popularity",
+    "vi": "cách để được mọi người quý mến hơn"
+  },
+  {
+    "key": "topic_personal_22",
+    "type": 0,
+    "en": "common courtesy",
+    "vi": "phép xã giao thông thường"
+  },
+  {
+    "key": "topic_personal_23",
+    "type": 0,
+    "en": "selfishness",
+    "vi": "thói ích kỷ vụ lợi"
+  },
+  {
+    "key": "topic_personal_24",
+    "type": 0,
+    "en": "taking matters more seriously",
+    "vi": "thái độ nghiêm túc hơn trong cuộc sống"
+  },
+  {
+    "key": "topic_personal_25",
+    "type": 0,
+    "en": "tomfoolery",
+    "vi": "những trò hề ngốc nghếch"
+  },
+  {
+    "key": "topic_personal_26",
+    "type": 0,
+    "en": "overcoming shyness",
+    "vi": "cách vượt qua sự rụt rè nhút nhát"
+  },
+  {
+    "key": "topic_personal_27",
+    "type": 0,
+    "en": "constant daydreaming",
+    "vi": "thói quen mơ mộng viển vông"
+  },
+  {
+    "key": "topic_personal_28",
+    "type": 0,
+    "en": "dull-witted blundering",
+    "vi": "những sai lầm ngớ ngẩn do chậm hiểu"
+  },
+  {
+    "key": "topic_personal_29",
+    "type": 0,
+    "en": "the distinction between wisdom and hubris",
+    "vi": "ranh giới mong manh giữa trí tuệ và sự ngạo mạn"
+  },
+  {
+    "key": "topic_personal_30",
+    "type": 0,
+    "en": "frequent drunkenness",
+    "vi": "thói say xỉn bê tha chè chén"
+  },
+  {
+    "key": "topic_personal_31",
+    "type": 0,
+    "en": "an unpaid debt",
+    "vi": "món nợ cũ chưa thanh toán"
+  },
+  {
+    "key": "topic_personal_32",
+    "type": 0,
+    "en": "a painful incident",
+    "vi": "một biến cố đau buồn trong quá khứ"
+  },
+  {
+    "key": "topic_personal_33",
+    "type": 0,
+    "en": "hygiene and bathing",
+    "vi": "vấn đề vệ sinh tắm rửa cá nhân"
+  },
+  {
+    "key": "topic_personal_34",
+    "type": 0,
+    "en": "galantry",
+    "vi": "phong thái hiệp sĩ hào hiệp"
+  },
+  {
+    "key": "topic_personal_35",
+    "type": 0,
+    "en": "geniality",
+    "vi": "sự thân thiện hòa đồng"
+  },
+  {
+    "key": "topic_beliefoakbrethren_1",
+    "type": 0,
+    "en": "avoiding religious indoctrination",
+    "vi": "việc tránh sự nhồi sọ cuồng tín tôn giáo"
+  },
+  {
+    "key": "topic_beliefoakbrethren_2",
+    "type": 0,
+    "en": "allowing dissection",
+    "vi": "việc cho phép giải phẫu cơ thể học"
+  },
+  {
+    "key": "topic_beliefoakbrethren_3",
+    "type": 0,
+    "en": "the wizard Roger Bacon",
+    "vi": "học giả pháp sư Roger Bacon"
+  },
+  {
+    "key": "topic_beliefoakbrethren_4",
+    "type": 0,
+    "en": "whether baptism truly banishes evil",
+    "vi": "liệu phép rửa tội có thực sự xua đuổi được tà ma"
+  },
+  {
+    "key": "topic_beliefoakbrethren_5",
+    "type": 0,
+    "en": "polytheism and superstition",
+    "vi": "thuyết đa thần và các hủ tục mê tín"
+  },
+  {
+    "key": "topic_beliefoakbrethren_6",
+    "type": 0,
+    "en": "the animism of the Celts",
+    "vi": "tín ngưỡng vạn vật hữu linh của người Celt"
+  },
+  {
+    "key": "topic_beliefoakbrethren_7",
+    "type": 0,
+    "en": "druidic rites at the long barrow",
+    "vi": "các nghi lễ Druid cổ xưa tại gò mộ cổ"
+  },
+  {
+    "key": "topic_beliefoakbrethren_8",
+    "type": 0,
+    "en": "dragons under the hills",
+    "vi": "truyền thuyết loài rồng ngủ dưới lòng đồi"
+  },
+  {
+    "key": "topic_beliefoakbrethren_9",
+    "type": 0,
+    "en": "nicor and other water spirits",
+    "vi": "thủy quái Nicor và các linh hồn sông nước"
+  },
+  {
+    "key": "topic_beliefoakbrethren_10",
+    "type": 0,
+    "en": "blood sacrifices in public",
+    "vi": "tục hiến tế máu công khai trước bàn thờ"
+  },
+  {
+    "key": "topic_beliefrestitution_1",
+    "type": 0,
+    "en": "obedience to divine authority",
+    "vi": "sự quy phục tuyệt đối trước uy quyền của Đấng Tối Cao"
+  },
+  {
+    "key": "topic_beliefrestitution_2",
+    "type": 0,
+    "en": "adherence to religion ",
+    "vi": "sự tuân thủ nghiêm ngặt giáo lý tôn giáo"
+  },
+  {
+    "key": "topic_beliefrestitution_3",
+    "type": 0,
+    "en": "Francis of Assisi ",
+    "vi": "Thánh Francis thành Assisi"
+  },
+  {
+    "key": "topic_beliefrestitution_4",
+    "type": 0,
+    "en": "Thomas Aquinas",
+    "vi": "nhà thần học vĩ đại Thomas Aquinas"
+  },
+  {
+    "key": "topic_beliefrestitution_5",
+    "type": 0,
+    "en": "the ecstasies of women mystics",
+    "vi": "trạng thái xuất thần của các nữ tu thần bí"
+  },
+  {
+    "key": "topic_beliefrestitution_6",
+    "type": 0,
+    "en": "whether priests should marry",
+    "vi": "liệu các giáo sĩ có nên được phép lập gia đình"
+  },
+  {
+    "key": "topic_beliefrestitution_7",
+    "type": 0,
+    "en": "the Dominican order",
+    "vi": "Dòng tu Đa Minh (Dominican)"
+  },
+  {
+    "key": "topic_beliefrestitution_8",
+    "type": 0,
+    "en": "the cost of the Children's Crusade",
+    "vi": "cái giá đắt và thảm kịch của cuộc Thập Tự Chinh Trẻ Em"
+  },
+  {
+    "key": "topic_beliefrestitution_9",
+    "type": 0,
+    "en": "the hope of salvation",
+    "vi": "niềm hy vọng cứu rỗi linh hồn"
+  },
+  {
+    "key": "topic_beliefrestitution_10",
+    "type": 0,
+    "en": "the immanence of God, and stoicism",
+    "vi": "sự hiện diện của Chúa và chủ nghĩa khắc kỷ"
+  },
+  {
+    "key": "topic_beliefrestitution_11",
+    "type": 0,
+    "en": "the sin of bigamy ",
+    "vi": "tội lỗi của hành vi đa thê song hôn"
+  },
+  {
+    "key": "topic_belief_1",
+    "type": 0,
+    "en": "Galen's teaching",
+    "vi": "các học thuyết y khoa của danh y Galen"
+  },
+  {
+    "key": "topic_belief_2",
+    "type": 0,
+    "en": "who really started the Crusades",
+    "vi": "ai mới thực sự là kẻ khơi mào các cuộc Thập Tự Chinh"
+  },
+  {
+    "key": "topic_belief_3",
+    "type": 0,
+    "en": "the dialectical method of scholasticism",
+    "vi": "phương pháp biện chứng của thuyết kinh viện"
+  },
+  {
+    "key": "topic_belief_4",
+    "type": 0,
+    "en": "Avicenna's ideas on Aristotle",
+    "vi": "những luận giải của Avicenna về triết gia Aristotle"
+  },
+  {
+    "key": "topic_belief_5",
+    "type": 0,
+    "en": "reliance on astrology ",
+    "vi": "sự phụ thuộc mù quáng vào thuật chiêm tinh"
+  },
+  {
+    "key": "topic_belief_6",
+    "type": 0,
+    "en": "demons causing sickness",
+    "vi": "quan niệm ác quỷ gieo rắc mầm mống bệnh tật"
+  },
+  {
+    "key": "topic_belief_7",
+    "type": 0,
+    "en": "witchcraft and healing",
+    "vi": "thuật phù thủy và các bài thuốc chữa lành dân gian"
+  },
+  {
+    "key": "topic_belief_8",
+    "type": 0,
+    "en": "reintroducing feudalism",
+    "vi": "việc tái lập chế độ phong kiến nông nô"
+  },
+  {
+    "key": "topic_belief_9",
+    "type": 0,
+    "en": "the ideal of courtly love",
+    "vi": "lý tưởng tình yêu cung đình lãng mạn"
+  },
+  {
+    "key": "topic_belief_10",
+    "type": 0,
+    "en": "the monarchy",
+    "vi": "chế độ quân chủ chuyên chế"
+  },
+  {
+    "key": "topic_belief_11",
+    "type": 0,
+    "en": "Piers Gaveston",
+    "vi": "nhân vật sủng thần hoàng gia Piers Gaveston"
+  },
+  {
+    "key": "topic_belief_12",
+    "type": 0,
+    "en": "cannibalism",
+    "vi": "tục ăn thịt đồng loại ghê rợn"
+  },
+  {
+    "key": "topic_belief_13",
+    "type": 0,
+    "en": "pagans inventing new rituals",
+    "vi": "việc các tín đồ Pagan tự sáng tạo ra các nghi lễ mới"
+  },
+  {
+    "key": "reaction_verb_default_1",
+    "type": 0,
+    "en": "seemed",
+    "vi": "dường như"
+  },
+  {
+    "key": "reaction_verb_default_2",
+    "type": 0,
+    "en": "appeared",
+    "vi": "có vẻ"
+  },
+  {
+    "key": "reaction_verb_default_3",
+    "type": 0,
+    "en": "sounded",
+    "vi": "nghe như"
+  },
+  {
+    "key": "reaction_verb_default_4",
+    "type": 0,
+    "en": "looked",
+    "vi": "trông như"
+  },
+  {
+    "key": "reaction_verb_default_5",
+    "type": 0,
+    "en": "was unusually",
+    "vi": "bỗng trở nên bất thường"
+  },
+  {
+    "key": "reaction_verb_default_6",
+    "type": 0,
+    "en": "was",
+    "vi": "thực sự"
+  },
+  {
+    "key": "reaction_verynegative_1",
+    "type": 0,
+    "en": "shocked",
+    "vi": "bị sốc nặng"
+  },
+  {
+    "key": "reaction_verynegative_2",
+    "type": 0,
+    "en": "upset",
+    "vi": "vô cùng bực bội"
+  },
+  {
+    "key": "reaction_verynegative_3",
+    "type": 0,
+    "en": "disturbed",
+    "vi": "cực kỳ khó chịu"
+  },
+  {
+    "key": "reaction_verynegative_4",
+    "type": 0,
+    "en": "confrontational",
+    "vi": "muốn gây hấn đối đầu"
+  },
+  {
+    "key": "reaction_verynegative_5",
+    "type": 0,
+    "en": "miserable",
+    "vi": "đau khổ cùng cực"
+  },
+  {
+    "key": "reaction_verynegative_6",
+    "type": 0,
+    "en": "frustrated",
+    "vi": "bực tức nghẹn lời"
+  },
+  {
+    "key": "reaction_negative_1",
+    "type": 0,
+    "en": "troubled",
+    "vi": "trĩu nặng lo âu"
+  },
+  {
+    "key": "reaction_negative_2",
+    "type": 0,
+    "en": "annoyed",
+    "vi": "khó chịu ra mặt"
+  },
+  {
+    "key": "reaction_negative_3",
+    "type": 0,
+    "en": "disapproving",
+    "vi": "không tán thành"
+  },
+  {
+    "key": "reaction_negative_4",
+    "type": 0,
+    "en": "put out",
+    "vi": "phật ý trong lòng"
+  },
+  {
+    "key": "reaction_negative_5",
+    "type": 0,
+    "en": "keen to argue",
+    "vi": "sẵn sàng tranh cãi tay đôi"
+  },
+  {
+    "key": "reaction_negative_6",
+    "type": 0,
+    "en": "withdrawn",
+    "vi": "lặng lẽ khép mình"
+  },
+  {
+    "key": "reaction_negative_7",
+    "type": 0,
+    "en": "pathetic",
+    "vi": "tội nghiệp đáng thương"
+  }
+]

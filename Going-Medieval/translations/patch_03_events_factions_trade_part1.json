@@ -3,2700 +3,900 @@
     "key": "raids_won",
     "type": 0,
     "en": "Raids won",
-    "vi": "Raids won"
+    "vi": "Đột kích thắng lợi"
   },
   {
     "key": "raids_lost",
     "type": 0,
     "en": "Raids lost",
-    "vi": "Raids lost"
+    "vi": "Đột kích thất bại"
   },
   {
     "key": "raid_time",
     "type": 0,
     "en": "Raid duration",
-    "vi": "Raid duration"
+    "vi": "Thời gian giao chiến"
   },
   {
     "key": "trade_number_merchant",
     "type": 0,
     "en": "The number of this resource the merchant has available to trade",
-    "vi": "The number of this resource the merchant has available to trade"
+    "vi": "Số lượng tài nguyên thương nhân có sẵn để trao đổi"
   },
   {
     "key": "caravan_workers",
     "type": 0,
     "en": "Caravan members",
-    "vi": "Caravan members"
+    "vi": "Thành viên đoàn buôn"
   },
   {
     "key": "caravan_contents",
     "type": 0,
     "en": "Caravan Contents",
-    "vi": "Caravan Contents"
+    "vi": "Hàng hóa trong đoàn buôn"
   },
   {
     "key": "caravan_status_travelling",
     "type": 0,
     "en": "Travelling",
-    "vi": "Travelling"
+    "vi": "Đang trên đường đi"
   },
   {
     "key": "caravan_status_arrived",
     "type": 0,
     "en": "Arrived",
-    "vi": "Arrived"
+    "vi": "Đã tới nơi"
   },
   {
     "key": "caravan_status_returning",
     "type": 0,
     "en": "Returning",
-    "vi": "Returning"
+    "vi": "Đang trên đường về"
   },
   {
     "key": "caravan_return_home_in",
     "type": 0,
     "en": "Caravan will start its return journey in",
-    "vi": "Caravan will start its return journey in"
+    "vi": "Đoàn buôn sẽ bắt đầu hành trình trở về sau"
   },
   {
     "key": "caravan_status",
     "type": 0,
     "en": "Caravan Status",
-    "vi": "Caravan Status"
+    "vi": "Trạng thái đoàn buôn"
   },
   {
     "key": "caravan_destination",
     "type": 0,
     "en": "Destination",
-    "vi": "Destination"
+    "vi": "Điểm đến"
   },
   {
     "key": "caravan_to",
     "type": 0,
     "en": "Caravan to <village_name>",
-    "vi": "Caravan to <village_name>"
+    "vi": "Đoàn buôn tới <village_name>"
   },
   {
     "key": "caravan_trade_gift_only_title",
     "type": 0,
     "en": "Proffer as a gift?",
-    "vi": "Proffer as a gift?"
+    "vi": "Biếu tặng làm quà?"
   },
   {
     "key": "caravan_gift_message",
     "type": 0,
     "en": "Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards <faction_name>.",
-    "vi": "Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards <faction_name>."
+    "vi": "Việc trao cho thương nhân số hàng hóa có giá trị vượt trội so với lượng nhận lại sẽ được xem là quà biếu tặng, giúp gia tăng đáng kể điểm thiện cảm với <faction_name>."
   },
   {
     "key": "caravan_gift_giving_more",
     "type": 0,
     "en": "Are you sure you want to continue with this transaction? The value of goods you are offering is larger than the value you are asking for.",
-    "vi": "Are you sure you want to continue with this transaction? The value of goods you are offering is larger than the value you are asking for."
+    "vi": "Bạn có chắc chắn muốn tiếp tục giao dịch này không? Giá trị hàng hóa bạn đề nghị lớn hơn nhiều so với giá trị hàng bạn nhận về."
   },
   {
     "key": "caravan_trade_are_you_sure",
     "type": 0,
     "en": "Are you sure that you want to finalise this barter?",
-    "vi": "Are you sure that you want to finalise this barter?"
+    "vi": "Bạn có chắc chắn muốn thực hiện giao dịch này không?"
   },
   {
     "key": "caravan_trade_buy_list",
     "type": 0,
     "en": "You will acquire this:",
-    "vi": "You will acquire this:"
+    "vi": "Bạn sẽ nhận:"
   },
   {
     "key": "caravan_trade_sell_list",
     "type": 0,
     "en": "You are proffering this:",
-    "vi": "You are proffering this:"
+    "vi": "Bạn đưa ra:"
   },
   {
     "key": "caravan_trade_finalize_title",
     "type": 0,
     "en": "Seal the deal",
-    "vi": "Seal the deal"
+    "vi": "Chốt giao dịch"
   },
   {
     "key": "caravan_form",
     "type": 0,
     "en": "Form Caravan",
-    "vi": "Form Caravan"
+    "vi": "Lập thương đoàn"
   },
   {
     "key": "caravan_mass",
     "type": 0,
     "en": "Load Weight",
-    "vi": "Load Weight"
+    "vi": "Khối lượng hàng"
   },
   {
     "key": "caravan_trip",
     "type": 0,
     "en": "Trip Duration",
-    "vi": "Trip Duration"
+    "vi": "Thời gian chuyến đi"
   },
   {
     "key": "caravan_value",
     "type": 0,
     "en": "Value of Goods",
-    "vi": "Value of Goods"
+    "vi": "Giá trị hàng hóa"
   },
   {
     "key": "caravan_food",
     "type": 0,
     "en": "Food Supplies",
-    "vi": "Food Supplies"
+    "vi": "Lương thực"
   },
   {
     "key": "caravan_travel_to",
     "type": 0,
     "en": "Travel to",
-    "vi": "Travel to"
+    "vi": "Đi đến"
   },
   {
     "key": "caravan_message_food",
     "type": 0,
     "en": "Insufficient food to start the journey",
-    "vi": "Insufficient food to start the journey"
+    "vi": "Không đủ lương thực để bắt đầu chuyến đi"
   },
   {
     "key": "caravan_message_mass",
     "type": 0,
     "en": "Caravan can't move due to excess weight",
-    "vi": "Caravan can't move due to excess weight"
+    "vi": "Thương đoàn không thể di chuyển vì quá nặng"
   },
   {
     "key": "caravan_message_able",
     "type": 0,
     "en": "Only able, non-rebellious settlers can form a caravan",
-    "vi": "Only able, non-rebellious settlers can form a caravan"
+    "vi": "Chỉ dân làng khỏe mạnh, không nổi loạn mới có thể lập thương đoàn"
   },
   {
     "key": "caravan_message_settler",
     "type": 0,
     "en": "At least one able settler must remain at the settlement",
-    "vi": "At least one able settler must remain at the settlement"
+    "vi": "Phải còn lại ít nhất một dân làng khỏe mạnh trong khu định cư"
   },
   {
     "key": "caravan_canceled",
     "type": 0,
     "en": "Caravan cancelled",
-    "vi": "Caravan cancelled"
+    "vi": "Thương đoàn đã hủy"
   },
   {
     "key": "caravan_message_left",
     "type": 0,
     "en": "A caravan has left",
-    "vi": "A caravan has left"
+    "vi": "Một thương đoàn đã khởi hành"
   },
   {
     "key": "caravan_mesage_arived",
     "type": 0,
     "en": "A caravan has arrived at its destination",
-    "vi": "A caravan has arrived at its destination"
+    "vi": "Một thương đoàn đã đến nơi"
   },
   {
     "key": "caravan_mesage_back",
     "type": 0,
     "en": "A caravan has returned back home",
-    "vi": "A caravan has returned back home"
+    "vi": "Một thương đoàn đã trở về"
   },
   {
     "key": "caravan_animal_already_forming",
     "type": 0,
     "en": "This animal is already part of a different caravan",
-    "vi": "This animal is already part of a different caravan"
+    "vi": "Con vật này đã thuộc một thương đoàn khác"
   },
   {
     "key": "caravan_animal_stuck",
     "type": 0,
     "en": "This animal can't be part of the caravan because it cant reach the edge of the map in order to leave.",
-    "vi": "This animal can't be part of the caravan because it cant reach the edge of the map in order to leave."
+    "vi": "Con vật này không thể tham gia vì không đến được rìa bản đồ để rời đi."
   },
   {
     "key": "caravan_message_one_settler",
     "type": 0,
     "en": "At least one able-bodied settler must be selected to form a caravan",
-    "vi": "At least one able-bodied settler must be selected to form a caravan"
+    "vi": "Phải chọn ít nhất một dân làng khỏe mạnh để lập thương đoàn"
   },
   {
     "key": "caravan_worker_already_forming",
     "type": 0,
     "en": "This settler is already part of a different caravan",
-    "vi": "This settler is already part of a different caravan"
+    "vi": "Dân làng này đã thuộc một thương đoàn khác"
   },
   {
     "key": "caravan_worker_stuck",
     "type": 0,
     "en": "This settler can't join the caravan because it cannot reach the edge of the map to leave.",
-    "vi": "This settler can't join the caravan because it cannot reach the edge of the map to leave."
+    "vi": "Dân làng này không thể tham gia vì không đến được rìa bản đồ để rời đi."
   },
   {
     "key": "caravan_message_wont_barter",
     "type": 0,
     "en": "<faction_name> will not barter with your caravan.",
-    "vi": "<faction_name> will not barter with your caravan."
+    "vi": "<faction_name> sẽ không trao đổi với thương đoàn của bạn."
   },
   {
     "key": "caravan_message_no_gifts",
     "type": 0,
     "en": "<faction_name> will not accept any more gifts from you",
-    "vi": "<faction_name> will not accept any more gifts from you"
+    "vi": "<faction_name> sẽ không nhận thêm quà từ bạn"
   },
   {
     "key": "caravan_cannot_send_hostile",
     "type": 0,
     "en": "<faction_name> is permanently hostile towards your settlement. They will neither barter nor accept gifts from <village_name>. ",
-    "vi": "<faction_name> is permanently hostile towards your settlement. They will neither barter nor accept gifts from <village_name>. "
+    "vi": "<faction_name> vĩnh viễn thù địch với khu định cư của bạn. Họ sẽ không trao đổi hay nhận quà từ <village_name>."
   },
   {
     "key": "caravan_message_hostile",
     "type": 0,
     "en": "<faction_name> is hostile towards your settlement. You cannot barter with them.",
-    "vi": "<faction_name> is hostile towards your settlement. You cannot barter with them."
+    "vi": "<faction_name> thù địch với khu định cư của bạn. Bạn không thể trao đổi với họ."
   },
   {
     "key": "hud_lb_factions",
     "type": 0,
     "en": "Factions",
-    "vi": "Factions"
+    "vi": "Phe phái"
   },
   {
     "key": "faction_friendliness_neutral",
     "type": 0,
     "en": "Neutral",
-    "vi": "Neutral"
+    "vi": "Trung lập"
   },
   {
     "key": "faction_friendliness_friendly",
     "type": 0,
     "en": "Friendly",
-    "vi": "Friendly"
+    "vi": "Thân thiện"
   },
   {
     "key": "faction_friendliness_hostile",
     "type": 0,
     "en": "Hostile",
-    "vi": "Hostile"
+    "vi": "Thù địch"
   },
   {
     "key": "faction_friendliness_permanently_hostile",
     "type": 0,
     "en": "Permanently Hostile",
-    "vi": "Permanently Hostile"
+    "vi": "Vĩnh viễn thù địch"
   },
   {
     "key": "faction_faction",
     "type": 0,
     "en": "Factions",
-    "vi": "Factions"
+    "vi": "Phe phái"
   },
   {
     "key": "faction_status",
     "type": 0,
     "en": "Status",
-    "vi": "Status"
+    "vi": "Trạng thái"
   },
   {
     "key": "faction_enemy_to",
     "type": 0,
     "en": "Enemy to",
-    "vi": "Enemy to"
+    "vi": "Kẻ thù của"
   },
   {
     "key": "faction_settlements",
     "type": 0,
     "en": "Settlements",
-    "vi": "Settlements"
+    "vi": "Khu định cư"
   },
   {
     "key": "faction_player_friendliness",
     "type": 0,
     "en": "Alignment",
-    "vi": "Alignment"
+    "vi": "Quan hệ"
   },
   {
     "key": "general_faction",
     "type": 0,
     "en": "Faction",
-    "vi": "Faction"
+    "vi": "Phe phái"
   },
   {
     "key": "caravan_send_home_tooltip",
     "type": 0,
     "en": "Go Back",
-    "vi": "Go Back"
+    "vi": "Quay về"
   },
   {
     "key": "caravan_send_tooltip",
     "type": 0,
     "en": "Send Caravan",
-    "vi": "Send Caravan"
+    "vi": "Cử thương đoàn"
   },
   {
     "key": "hair_braids",
     "type": 0,
     "en": "Hair #1",
-    "vi": "Hair #1"
+    "vi": "Tóc tết #1"
   },
   {
     "key": "male_beard_braid",
     "type": 0,
     "en": "Facial hair #6",
-    "vi": "Facial hair #6"
+    "vi": "Râu #6"
   },
   {
     "key": "caravan_is_already_forming",
     "type": 0,
     "en": "There is already a caravan forming to go to this destination",
-    "vi": "There is already a caravan forming to go to this destination"
+    "vi": "Đã có thương đoàn đang được lập để đến điểm này"
   },
   {
     "key": "caravan_cannot_send_home_tooltip",
     "type": 0,
     "en": "There is already a caravan on its way to this destination",
-    "vi": "There is already a caravan on its way to this destination"
+    "vi": "Đã có thương đoàn đang trên đường đến điểm này"
   },
   {
     "key": "caravan_is_already_going",
     "type": 0,
     "en": "There is already a caravan on its way to this destination",
-    "vi": "There is already a caravan on its way to this destination"
+    "vi": "Đã có thương đoàn đang trên đường đến điểm này"
   },
   {
     "key": "caravan_mesage_returning",
     "type": 0,
     "en": "Your caravan from <settlement_name> has started its journey home",
-    "vi": "Your caravan from <settlement_name> has started its journey home"
+    "vi": "Thương đoàn của bạn từ <settlement_name> đã bắt đầu trở về"
   },
   {
     "key": "caravan_mass_info",
     "type": 0,
     "en": "The weight this caravan can transport. The caravan cannot move if it is over the weight limit.",
-    "vi": "The weight this caravan can transport. The caravan cannot move if it is over the weight limit."
+    "vi": "Khối lượng mà thương đoàn này có thể vận chuyển. Thương đoàn không thể di chuyển nếu vượt quá giới hạn."
   },
   {
     "key": "caravan_trip_info",
     "type": 0,
     "en": "The duration of the caravan's journey to its destination. The same amount of time is needed on the way back. The trip duration is determined by the number of tiles traversed, the type of tiles and the season. Travel is slower during the winter. ",
-    "vi": "The duration of the caravan's journey to its destination. The same amount of time is needed on the way back. The trip duration is determined by the number of tiles traversed, the type of tiles and the season. Travel is slower during the winter. "
+    "vi": "Thời gian thương đoàn đi đến điểm đến, và cũng là thời gian cần cho chuyến về. Thời gian chuyến đi phụ thuộc số ô đã vượt qua, loại địa hình và mùa. Di chuyển chậm hơn vào mùa đông. "
   },
   {
     "key": "caravan_value_info",
     "type": 0,
     "en": "The combined value of this caravan's contents",
-    "vi": "The combined value of this caravan's contents"
+    "vi": "Tổng giá trị hàng hóa trong thương đoàn"
   },
   {
     "key": "caravan_food_info",
     "type": 0,
     "en": "Food value necessary for caravan members to survive the journey",
-    "vi": "Food value necessary for caravan members to survive the journey"
+    "vi": "Lượng lương thực cần thiết để thành viên thương đoàn sống sót trong chuyến đi"
   },
   {
     "key": "caravan_food_info_animals",
     "type": 0,
     "en": "Animals that are in the caravan will forage for their own food along the route.",
-    "vi": "Animals that are in the caravan will forage for their own food along the route."
+    "vi": "Động vật trong thương đoàn sẽ tự kiếm thức ăn dọc đường."
   },
   {
     "key": "caravan_message_hostile_gift",
     "type": 0,
     "en": "However, they will accept gifts that will influence their alignment towards your settlement.",
-    "vi": "However, they will accept gifts that will influence their alignment towards your settlement."
+    "vi": "Tuy nhiên, họ sẽ nhận quà để cải thiện quan hệ với khu định cư của bạn."
   },
   {
     "key": "effector_name_BeliefRaidLostChristian",
     "type": 0,
     "en": "God willed this defeat",
-    "vi": "God willed this defeat"
+    "vi": "Chúa đã định đoạt thất bại này"
   },
   {
     "key": "effector_name_BeliefRaidLostPagan",
     "type": 0,
     "en": "The Gods allowed this defeat",
-    "vi": "The Gods allowed this defeat"
+    "vi": "Chư thần đã ban cho chúng ta thất bại này"
   },
   {
     "key": "effector_name_BeliefRaidWonChristian",
     "type": 0,
     "en": "God has delivered us from our enemies",
-    "vi": "God has delivered us from our enemies"
+    "vi": "Chúa đã cứu chúng ta khỏi kẻ thù"
   },
   {
     "key": "effector_name_BeliefRaidWonPagan",
     "type": 0,
     "en": "The Gods granted us victory",
-    "vi": "The Gods granted us victory"
+    "vi": "Chư thần đã ban chiến thắng cho chúng ta"
   },
   {
     "key": "caravan_prisoner_already_forming",
     "type": 0,
     "en": "This prisoner is already part of a different caravan",
-    "vi": "This prisoner is already part of a different caravan"
+    "vi": "Tù nhân này đã thuộc một thương đoàn khác"
   },
   {
     "key": "caravan_prisoner_stuck",
     "type": 0,
     "en": "This prisoner can't join the caravan because it cannot reach the edge of the map to leave.",
-    "vi": "This prisoner can't join the caravan because it cannot reach the edge of the map to leave."
+    "vi": "Tù nhân này không thể tham gia vì không đến được rìa bản đồ để rời đi."
   },
   {
     "key": "event_cooldown_visitor_participant",
     "type": 0,
     "en": "Adding visitor participants and roles will alleviate the negative effect of the event cooldown",
-    "vi": "Adding visitor participants and roles will alleviate the negative effect of the event cooldown"
+    "vi": "Thêm khách và vai trò tham gia sẽ giảm tác động tiêu cực của thời gian hồi sự kiện"
   },
   {
     "key": "cannot_trade_prisoner_wrong_faction",
     "type": 0,
     "en": "Merchant won't barter for prisoners of a different faction",
-    "vi": "Merchant won't barter for prisoners of a different faction"
+    "vi": "Thương nhân không đổi lấy tù nhân thuộc phe khác"
   },
   {
     "key": "caravan_leave_map",
     "type": 0,
     "en": "Leave location",
-    "vi": "Leave location"
+    "vi": "Rời địa điểm"
   },
   {
     "key": "merchant_event_dialogue_default",
     "type": 0,
     "en": "I have wares to trade, if you are interested...",
-    "vi": "I have wares to trade, if you are interested..."
+    "vi": "Ta có hàng để trao đổi, nếu ngươi quan tâm..."
   },
   {
     "key": "merchant_event_dialogue_barter",
     "type": 0,
     "en": "Let's see what you've got",
-    "vi": "Let's see what you've got"
+    "vi": "Để xem ngươi có gì nào"
   },
   {
     "key": "merchant_event_dialogue_leave",
     "type": 0,
     "en": "Leave",
-    "vi": "Leave"
+    "vi": "Rời đi"
   },
   {
     "key": "merchant_event_dialogue_question_01",
     "type": 0,
     "en": "Any trouble on your travels?",
-    "vi": "Any trouble on your travels?"
+    "vi": "Chuyến đi của ngươi có gặp rắc rối gì không?"
   },
   {
     "key": "merchant_event_dialogue_bndit_camp",
     "type": 0,
     "en": "I heard about a bandit camp near <village_name>. I'd steer clear of it. Someone should do something about them.",
-    "vi": "I heard about a bandit camp near <village_name>. I'd steer clear of it. Someone should do something about them."
+    "vi": "Ta nghe nói có trại thổ phỉ gần <village_name>. Ta khuyên ngươi nên tránh xa. Ai đó phải xử lý bọn chúng."
   },
   {
     "key": "event_bandit_camp_discovered",
     "type": 0,
     "en": "Bandit Camp",
-    "vi": "Bandit Camp"
+    "vi": "Trại thổ phỉ"
   },
   {
     "key": "event_bandit_camp_discovered_text",
     "type": 0,
     "en": "The location of a bandit camp has been marked on your regional map",
-    "vi": "The location of a bandit camp has been marked on your regional map"
+    "vi": "Vị trí trại thổ phỉ đã được đánh dấu trên bản đồ khu vực"
   },
   {
     "key": "caravan_status_beingambushed",
     "type": 0,
     "en": "Ambushed",
-    "vi": "Ambushed"
+    "vi": "Bị phục kích"
   },
   {
     "key": "caravan_ambush_auto_surrender_in",
     "type": 0,
     "en": "Caravan will surrender in",
-    "vi": "Caravan will surrender in"
+    "vi": "Thương đoàn sẽ đầu hàng sau"
   },
   {
     "key": "faction_alignment_overrides",
     "type": 0,
     "en": "Faction alignment range overrides",
-    "vi": "Faction alignment range overrides"
+    "vi": "Điều chỉnh khoảng quan hệ phe phái"
   },
   {
     "key": "objective_trade_build_merchants_stall",
     "type": 0,
     "en": "Merchant Stalls",
-    "vi": "Merchant Stalls"
+    "vi": "Quầy thương nhân"
   },
   {
     "key": "objective_trade_build_merchants_stall_info",
     "type": 0,
     "en": "Erect Merchant Stalls to show off your guilds' finest wares near the Market Cross.",
-    "vi": "Erect Merchant Stalls to show off your guilds' finest wares near the Market Cross."
+    "vi": "Dựng quầy thương nhân để trưng bày những mặt hàng tinh túy nhất của bang hội gần Chợ trung tâm."
   },
   {
     "key": "event_pilgrim_rest_text",
     "type": 0,
     "en": "I heard <village_name> was a haven for staunch Restitutionists acolytes, like myself. Might a saintly relic help with the mission to rebuild our faith? A fine example has come to light not far from here - praise be! ",
-    "vi": "I heard <village_name> was a haven for staunch Restitutionists acolytes, like myself. Might a saintly relic help with the mission to rebuild our faith? A fine example has come to light not far from here - praise be! "
+    "vi": "Ta nghe nói <village_name> là nơi nương náu của những tín đồ Hội Phục Hưng tận tụy như ta. Liệu một thánh tích có thể giúp khôi phục đức tin của chúng ta không? Một thánh tích quý đã được tìm thấy không xa nơi đây - tạ ơn Chúa!"
   },
   {
     "key": "event_pilgrim_rest_title",
     "type": 0,
     "en": "Restitutionist Pilgrim",
-    "vi": "Restitutionist Pilgrim"
+    "vi": "Người Hành Hương Phục Hưng"
   },
   {
     "key": "event_pilgrim_rest_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> a Restitutionist Pilgrim has arrived, bearing news of the possible whereabouts of a forgotten relic of immeasurable sanctity.",
-    "vi": "Drawn to <village_name> a Restitutionist Pilgrim has arrived, bearing news of the possible whereabouts of a forgotten relic of immeasurable sanctity."
+    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Người Hành Hương thuộc Hội Phục Hưng đã tìm đến, mang theo phong thanh tin tức về nơi chốn có thể đang ẩn giấu một thánh tích cổ linh thiêng bậc nhất."
   },
   {
     "key": "event_pilgrim_oak_text",
     "type": 0,
     "en": "News arrives on the wind that <village_name> seeks to put Oak Brethren folk on the path of sacred abundance once again. I have come to share knowledge of a rare and blessed sapling that may help you with you endeavour of rebuilding our faith.",
-    "vi": "News arrives on the wind that <village_name> seeks to put Oak Brethren folk on the path of sacred abundance once again. I have come to share knowledge of a rare and blessed sapling that may help you with you endeavour of rebuilding our faith."
+    "vi": "Tin tức theo gió ngàn bay tới rằng <village_name> đang dẫn dắt con dân Huynh Đệ Cây Sồi bước lại trên con đường phồn thịnh thiêng liêng. Ta lặn lội tới đây để chia sẻ tri thức về một cây giống thiêng liêng và hiếm quý, điều có thể trợ giúp đắc lực cho công cuộc phục hưng đức tin của các bạn."
   },
   {
     "key": "event_pilgrim_oak_title",
     "type": 0,
     "en": "Oak Brethren Pilgrim",
-    "vi": "Oak Brethren Pilgrim"
+    "vi": "Người Hành Hương Huynh Đệ Cây Sồi"
   },
   {
     "key": "event_pilgrim_oak_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> an Oak Brethren Pilgrim has arrived, bearing news of the possible whereabouts of a sacred tree of immeasurable sanctity.",
-    "vi": "Drawn to <village_name> an Oak Brethren Pilgrim has arrived, bearing news of the possible whereabouts of a sacred tree of immeasurable sanctity."
+    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Người Hành Hương thuộc Huynh Đệ Cây Sồi đã tìm đến, mang theo tin tức quý báu về vị trí ẩn giấu của một cây đại thụ thiêng liêng vô bờ bến."
   },
   {
     "key": "event_scholar_text",
     "type": 0,
     "en": "The rising eminence of <village_name> has not gone unremarked among erudite circles keen to restore our realm's reputation. In my research, I have uncovered something that may be of interest: records of an ancient Grand Research Table, reputedly within a modest distance of this burgh.",
-    "vi": "The rising eminence of <village_name> has not gone unremarked among erudite circles keen to restore our realm's reputation. In my research, I have uncovered something that may be of interest: records of an ancient Grand Research Table, reputedly within a modest distance of this burgh."
+    "vi": "Sự hưng thịnh ngày một rạng rỡ của <village_name> đã thu hút sự chú ý sâu sắc từ giới học giả uyên thâm, những người hằng mong mỏi khôi phục lại thanh danh cho toàn vương quốc. Trong quá trình nghiên cứu cổ thư, ta đã phát hiện một manh mối vô giá: sử liệu ghi chép về một Bàn Nghiên Cứu Lớn thời cổ đại, tương truyền tọa lạc cách thị trấn này không xa."
   },
   {
     "key": "event_scholar_title",
     "type": 0,
     "en": "Travelling Scholar",
-    "vi": "Travelling Scholar"
+    "vi": "Học Giả Du Hành"
   },
   {
     "key": "event_scholar_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> the Travelling Scholar has arrived with news of the potential location of a Grand Research Table",
-    "vi": "Drawn to <village_name> the Travelling Scholar has arrived with news of the potential location of a Grand Research Table"
+    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Học Giả Du Hành đã tìm tới cùng tin tức chấn động về vị trí của Bàn Nghiên Cứu Lớn thời cổ đại."
   },
   {
     "key": "event_broker_text",
     "type": 0,
     "en": "The thriving trade of <village_name> has not gone unremarked among us merchants. This is the ideal time to make a trade deal, which will be lucrative for <faction_name>  as well as <village_name>. My <faction_name> camp is nearby, and we will be waiting to hear what you decide. ",
-    "vi": "The thriving trade of <village_name> has not gone unremarked among us merchants. This is the ideal time to make a trade deal, which will be lucrative for <faction_name>  as well as <village_name>. My <faction_name> camp is nearby, and we will be waiting to hear what you decide. "
+    "vi": "Hoạt động giao thương sầm uất tại <village_name> đã không lọt khỏi tai mắt của phường thương buôn chúng ta. Đây chính là thời điểm vàng để thiết lập một hiệp ước giao thương mang lại món lợi khổng lồ cho cả <faction_name> lẫn <village_name>. Doanh trại <faction_name> của ta đóng ở ngay gần đây, và chúng ta sẽ kiên nhẫn chờ đợi quyết định sáng suốt từ quý bạn."
   },
   {
     "key": "event_broker_title",
     "type": 0,
     "en": "Broker",
-    "vi": "Broker"
+    "vi": "Thương Lái Môi Giới"
   },
   {
     "key": "event_broker_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> by reports of thriving trade, a broker from <faction_name> has arrived to strike a deal.",
-    "vi": "Drawn to <village_name> by reports of thriving trade, a broker from <faction_name> has arrived to strike a deal."
+    "vi": "Nghe danh khu định cư <village_name> buôn bán phồn thịnh, một thương lái môi giới từ <faction_name> đã tìm đến để đề nghị một hiệp ước thương mại đôi bên cùng có lợi."
   },
   {
     "key": "caravan_mandatory_resources",
     "type": 0,
     "en": "For Trade Agreement: ",
-    "vi": "For Trade Agreement: "
+    "vi": "Yêu cầu cho Hiệp Ước Giao Thương: "
   },
   {
     "key": "caravan_message_mandatory_resources",
     "type": 0,
     "en": "Not enough value for trade agrement",
-    "vi": "Not enough value for trade agrement"
+    "vi": "Tổng giá trị cống nạp chưa đủ để ký kết Hiệp Ước Giao Thương"
   },
   {
     "key": "have_trade_deal_with_faction",
     "type": 0,
     "en": "Trade Agreement",
-    "vi": "Trade Agreement"
+    "vi": "Hiệp Ước Giao Thương"
   },
   {
     "key": "event_pilgrim_rest_arrival_visit_relic_text",
     "type": 0,
     "en": "Drawn to <village_name> the Restitutionist Pilgrim has arrived to marvel at the Reliquary Chapel that has be constructed, and is sure to spread word across the land",
-    "vi": "Drawn to <village_name> the Restitutionist Pilgrim has arrived to marvel at the Reliquary Chapel that has be constructed, and is sure to spread word across the land"
+    "vi": "Bị thu hút bởi <village_name>, Người Hành Hương Phục Hưng đã tìm đến để chiêm bái Nhà Nguyện Thánh Tích vừa được xây dựng, và chắc chắn sẽ loan truyền tin mừng khắp cõi đất."
   },
   {
     "key": "event_pilgrim_oak_arrival_visit_oak_text",
     "type": 0,
     "en": "Drawn to <village_name> the Oak Brethren Pilgrim has arrived to marvel at the Mighty Oak, and is sure to spread the word across the land",
-    "vi": "Drawn to <village_name> the Oak Brethren Pilgrim has arrived to marvel at the Mighty Oak, and is sure to spread the word across the land"
+    "vi": "Bị thu hút bởi <village_name>, Người Hành Hương Huynh Đệ Cây Sồi đã tìm đến để chiêm bái Cây Sồi Đại Ngàn linh thiêng, và chắc chắn sẽ loan truyền danh tiếng khu định cư khắp muôn phương."
   },
   {
     "key": "tut_raid_name",
     "type": 0,
     "en": "Combat",
-    "vi": "Combat"
+    "vi": "Giao Tranh Phòng Thủ"
   },
   {
     "key": "tut_raid_info",
     "type": 0,
     "en": "Your Settlement is being attacked!",
-    "vi": "Your Settlement is being attacked!"
+    "vi": "Khu định cư của bạn đang bị quân thù tấn công!"
   },
   {
     "key": "tut_raid_wait",
     "type": 0,
     "en": "Watch your Settlers defend their base and wait to see the outcome of the battle",
-    "vi": "Watch your Settlers defend their base and wait to see the outcome of the battle"
+    "vi": "Hãy quan sát dân làng hiệp lực bảo vệ căn cứ và chờ đón kết quả của trận đánh"
   },
   {
     "key": "event_backgammon_positive",
     "type": 0,
     "en": "<target_name> is quite the strategist. <agent_name> thoroughly enjoyed having #2[him/her] as an opponent.",
-    "vi": "<target_name> is quite the strategist. <agent_name> thoroughly enjoyed having #2[him/her] as an opponent."
+    "vi": "<target_name> quả thực là một tay cờ đại tài. <agent_name> vô cùng thích thú khi được giao đấu cùng #2[him/her]."
   },
   {
     "key": "event_backgammon_negative",
     "type": 0,
     "en": "<agent_name> knew <target_name> couldn't be trusted. It was obvious #2[he/she] tried to move the backgammon counters when no one was watching.",
-    "vi": "<agent_name> knew <target_name> couldn't be trusted. It was obvious #2[he/she] tried to move the backgammon counters when no one was watching."
+    "vi": "<agent_name> biết ngay <target_name> là kẻ gian trá. Rõ ràng #2[he/she] đã lén di chuyển quân cờ khi không ai để ý."
   },
   {
     "key": "event_ate_at_table_positive",
     "type": 0,
     "en": "Not only was the food delicious, but <agent_name> also found <target_name> to be wonderful company.",
-    "vi": "Not only was the food delicious, but <agent_name> also found <target_name> to be wonderful company."
+    "vi": "Không chỉ bữa ăn thơm ngon tuyệt hảo, mà <agent_name> còn cảm thấy <target_name> là một người bạn cùng bàn vô cùng hòa nhã và thú vị."
   },
   {
     "key": "event_ate_at_table_negative",
     "type": 0,
     "en": "<agent_name> could not comprehend how <target_name> chewed so loudly, and was so lacking in table manners.",
-    "vi": "<agent_name> could not comprehend how <target_name> chewed so loudly, and was so lacking in table manners."
+    "vi": "<agent_name> không thể nào nuốt trôi khi <target_name> vừa nhai nhồm nhoàm vừa thiếu hẳn phép lịch sự tối thiểu trên bàn ăn."
   },
   {
     "key": "event_prayed_together_positive",
     "type": 0,
     "en": "<agent_name> enjoyed <target_name>'s soothing presence when they prayed together. It brought #1[him/her] peace.",
-    "vi": "<agent_name> enjoyed <target_name>'s soothing presence when they prayed together. It brought #1[him/her] peace."
+    "vi": "<agent_name> cảm thấy tâm hồn thật nhẹ nhõm và thanh thản trước sự hiện diện trang nghiêm của <target_name> khi cả hai cùng cầu nguyện. Điều đó mang lại bình yên sâu sắc cho #1[him/her]."
   },
   {
     "key": "event_prayed_together_negative",
     "type": 0,
     "en": "<agent_name> needed a quiet moment of reflection. But <target_name>'s theatrical devotions made it impossible.",
-    "vi": "<agent_name> needed a quiet moment of reflection. But <target_name>'s theatrical devotions made it impossible."
+    "vi": "<agent_name> rất cần một khoảnh khắc tĩnh tâm lắng đọng. Nhưng những điệu bộ cầu nguyện phô trương màu mè của <target_name> đã phá hỏng tất cả."
   },
   {
     "key": "event_slept_in_same_room_positive",
     "type": 0,
     "en": "<agent_name> felt cozy, and was always well-rested when sleeping alongside <target_name>",
-    "vi": "<agent_name> felt cozy, and was always well-rested when sleeping alongside <target_name>"
+    "vi": "<agent_name> cảm thấy vô cùng ấm cúng và luôn có được giấc ngủ ngon lành khi ngủ cùng phòng với <target_name>."
   },
   {
     "key": "event_slept_in_same_room_negative",
     "type": 0,
     "en": "<agent_name> was the worst room mate ever, snoring fit to lift the rafters. <target_name> couldn't get any rest.",
-    "vi": "<agent_name> was the worst room mate ever, snoring fit to lift the rafters. <target_name> couldn't get any rest."
+    "vi": "<agent_name> là người bạn cùng phòng tệ hại nhất trần đời: tiếng ngáy vang như sấm làm rung chuyển cả xà nhà. <target_name> hoàn toàn không tài nào chợp mắt nổi."
   },
   {
     "key": "event_saw_drunk_settler_positive",
     "type": 0,
     "en": "<agent_name> thought <target_name> was an absolute scream when #2[he/she] was tipsy. They had such a laugh together.",
-    "vi": "<agent_name> thought <target_name> was an absolute scream when #2[he/she] was tipsy. They had such a laugh together."
+    "vi": "<agent_name> nhận thấy <target_name> trở nên cực kỳ hóm hỉnh và đáng yêu khi #2[he/she] ngà ngà say. Họ đã cùng nhau cười đùa vô cùng sảng khoái."
   },
   {
     "key": "event_saw_drunk_settler_negative",
     "type": 0,
     "en": "<agent_name> couldn't stand <target_name> when #2[he/she] was under the influence. <target_name> would be either argumentitive or dejected.",
-    "vi": "<agent_name> couldn't stand <target_name> when #2[he/she] was under the influence. <target_name> would be either argumentitive or dejected."
+    "vi": "<agent_name> không thể nào chịu nổi bộ dạng của <target_name> khi #2[he/she] say xỉn. <target_name> khi say nếu không hung hăng gây gổ thì cũng rầu rĩ ủ ê."
   },
   {
     "key": "event_saw_cannibal_butchering_positive",
     "type": 0,
     "en": "<agent_name> was frankly impressed with how deftly <target_name> could carve up a corpse.",
-    "vi": "<agent_name> was frankly impressed with how deftly <target_name> could carve up a corpse."
+    "vi": "<agent_name> thực sự trầm trồ trước sự điêu luyện và thuần thục của <target_name> khi mổ xẻ cái xác người."
   },
   {
     "key": "event_saw_cannibal_butchering_negative",
     "type": 0,
     "en": "<agent_name> couldn't bear to watch <target_name> filleting a human body.",
-    "vi": "<agent_name> couldn't bear to watch <target_name> filleting a human body."
+    "vi": "<agent_name> không thể nào chịu đựng nổi khi phải chứng kiến cảnh <target_name> đang lọc từng thớ thịt người."
   },
   {
     "key": "event_saw_cannibal_cooking_positive",
     "type": 0,
     "en": "<agent_name> wanted to see what <target_name> would serve up. #2[He/She] always got creative when human meat was on the menu.",
-    "vi": "<agent_name> wanted to see what <target_name> would serve up. #2[He/She] always got creative when human meat was on the menu."
+    "vi": "<agent_name> rất nóng lòng muốn thưởng thức món ăn mà <target_name> sắp dọn lên. #2[He/She] luôn cực kỳ sáng tạo mỗi khi có thịt người trong thực đơn."
   },
   {
     "key": "event_saw_cannibal_cooking_negative",
     "type": 0,
     "en": "<agent_name> could smell <target_name> barbecuing human steaks. It made #1[him/her] feel sick with revulsion.",
-    "vi": "<agent_name> could smell <target_name> barbecuing human steaks. It made #1[him/her] feel sick with revulsion."
+    "vi": "<agent_name> ngửi thấy mùi khét lẹt khi <target_name> nướng những tảng thịt người. Mùi vị ghê tởm ấy khiến #1[him/her] buồn nôn dữ dội."
   },
   {
     "key": "event_saw_cannibal_eating_positive",
     "type": 0,
     "en": "<agent_name> thought eating a bit of human meat might do <target_name> good. ",
-    "vi": "<agent_name> thought eating a bit of human meat might do <target_name> good. "
+    "vi": "<agent_name> cho rằng việc thưởng thức một chút thịt người sẽ rất bổ dưỡng cho <target_name>."
   },
   {
     "key": "event_saw_cannibal_eating_negative",
     "type": 0,
     "en": "<target_name> was tucking in to human meat. <agent_name> thoroughly disapproved.",
-    "vi": "<target_name> was tucking in to human meat. <agent_name> thoroughly disapproved."
+    "vi": "<target_name> đang ngấu nghiến gặm thịt người. <agent_name> vô cùng phẫn nộ và ghê tởm hành vi này."
   },
   {
     "key": "event_saw_failed_construction_positive",
     "type": 0,
     "en": "<agent_name> could see that <target_name> was struggling with construction, and felt sorry for #2[him/her].",
-    "vi": "<agent_name> could see that <target_name> was struggling with construction, and felt sorry for #2[him/her]."
+    "vi": "<agent_name> nhìn thấy <target_name> đang phải chật vật xoay xở với công trình xây dựng, và thầm thấy thương cho #2[him/her]."
   },
   {
     "key": "event_saw_failed_construction_negative",
     "type": 0,
     "en": "<agent_name> thought <target_name> was letting everyone down, with such shoddy construction",
-    "vi": "<agent_name> thought <target_name> was letting everyone down, with such shoddy construction"
+    "vi": "<agent_name> cho rằng <target_name> đang làm hổ thẹn mọi người với tay nghề xây dựng quá đỗi cẩu thả và yếu kém."
   },
   {
     "key": "event_saw_failed_harvest_positive",
     "type": 0,
     "en": "<agent_name> realised that <target_name> had made a mess of harvesting, and wondered if #1[he/she] should offer some help in future.",
-    "vi": "<agent_name> realised that <target_name> had made a mess of harvesting, and wondered if #1[he/she] should offer some help in future."
+    "vi": "<agent_name> nhận ra <target_name> đã lóng ngóng làm hỏng mùa màng thu hoạch, và tự hỏi liệu sau này #1[he/she] có nên sang giúp một tay hay không."
   },
   {
     "key": "event_saw_failed_harvest_negative",
     "type": 0,
     "en": "<agent_name> was furious that <target_name> had ruined the harvest. #1[He/She] hated to see so much hard work go to waste.",
-    "vi": "<agent_name> was furious that <target_name> had ruined the harvest. #1[He/She] hated to see so much hard work go to waste."
+    "vi": "<agent_name> nổi cơn lôi đình khi thấy <target_name> đã làm hỏng cả vụ mùa. #1[He/She] căm ghét việc bao nhiêu mồ hôi công sức bị vứt bỏ hoang phí."
   },
   {
     "key": "event_saw_failed_digging_positive",
     "type": 0,
     "en": "<agent_name> thought perhaps <target_name> could benefit from some guidance, since #2[his/her] excavation wasn't yielding much",
-    "vi": "<agent_name> thought perhaps <target_name> could benefit from some guidance, since #2[his/her] excavation wasn't yielding much"
+    "vi": "<agent_name> nghĩ rằng <target_name> sẽ tiến bộ hơn nếu có người hướng dẫn tận tình, bởi công việc đào đất của #2[his/her] chẳng thu hoạch được là bao."
   },
   {
     "key": "event_saw_failed_digging_negative",
     "type": 0,
     "en": "<agent_name> couldn't believe <target_name> had been digging for so long, and had produced so little.",
-    "vi": "<agent_name> couldn't believe <target_name> had been digging for so long, and had produced so little."
+    "vi": "<agent_name> không thể tin nổi <target_name> đã hì hục đào xới suốt bấy lâu mà kết quả mang lại lại thảm hại đến mức này."
   },
   {
     "key": "event_saw_failed_chopping_negative",
     "type": 0,
     "en": "<agent_name> saw a fine tree hacked amateurishly by <target_name> and really felt like giving <target_name> a piece of #1[his/her] mind.",
-    "vi": "<agent_name> saw a fine tree hacked amateurishly by <target_name> and really felt like giving <target_name> a piece of #1[his/her] mind."
+    "vi": "<agent_name> chứng kiến một thân gỗ tốt bị <target_name> chặt chém vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng."
   },
   {
     "key": "event_saw_failed_chopping_positive",
     "type": 0,
     "en": "<agent_name> couldn't help but laugh, as <target_name> was the most cack-handed of sawyers.",
-    "vi": "<agent_name> couldn't help but laugh, as <target_name> was the most cack-handed of sawyers."
+    "vi": "<agent_name> không thể nhịn được cười khi thấy <target_name> là tay tiều phu lóng ngóng vụng về nhất trần đời."
   },
   {
     "key": "event_saw_flimsy_production_positive",
     "type": 0,
     "en": "<agent_name> liked to see <target_name> test their creativity. Even if the resulting <item_name> wasn't up to scratch.",
-    "vi": "<agent_name> liked to see <target_name> test their creativity. Even if the resulting <item_name> wasn't up to scratch."
+    "vi": "<agent_name> rất thích nhìn thấy <target_name> thỏa sức thử nghiệm sự sáng tạo của mình, ngay cả khi món đồ <item_name> làm ra trông chẳng đâu vào đâu."
   },
   {
     "key": "event_saw_flimsy_production_negative",
     "type": 0,
     "en": "<agent_name> was dismayed that <target_name>  had wasted materials, only to produce an unusable <item_name>.",
-    "vi": "<agent_name> was dismayed that <target_name>  had wasted materials, only to produce an unusable <item_name>."
+    "vi": "<agent_name> vô cùng thất vọng và xót xa khi <target_name> đã phung phí bao nhiêu nguyên liệu quý chỉ để tạo ra một món <item_name> vô dụng."
   },
   {
     "key": "event_saw_flawless_production_negative",
     "type": 0,
     "en": "<agent_name> was green with envy when <target_name> showed off #2[his/her] fine <item_name>. ",
-    "vi": "<agent_name> was green with envy when <target_name> showed off #2[his/her] fine <item_name>. "
+    "vi": "<agent_name> ghen tị đỏ mắt khi thấy <target_name> kiêu hãnh khoe món đồ <item_name> tuyệt mỹ do chính tay #2[his/her] chế tác."
   },
   {
     "key": "event_saw_flawless_production_positive",
     "type": 0,
     "en": "<agent_name> had never seen such a well-made <item_name>. #1[He/She] thought <target_name> should be proud of it.",
-    "vi": "<agent_name> had never seen such a well-made <item_name>. #1[He/She] thought <target_name> should be proud of it."
+    "vi": "<agent_name> chưa từng được chiêm ngưỡng một món <item_name> nào tinh xảo và hoàn mỹ đến nhường này. #1[He/She] nghĩ <target_name> hoàn toàn xứng đáng tự hào về kiệt tác ấy."
   },
   {
     "key": "event_consumed_food_positive",
     "type": 0,
     "en": "<agent_name> always looked forward to <target_name>'s mouthwatering meals.",
-    "vi": "<agent_name> always looked forward to <target_name>'s mouthwatering meals."
+    "vi": "<agent_name> luôn háo hức mong chờ những món ăn thơm ngon nức mũi do chính tay <target_name> nấu nướng."
   },
   {
     "key": "event_consumed_food_negative",
     "type": 0,
     "en": "<agent_name> dreaded finding out what would be served up when <target_name> was cooking.",
-    "vi": "<agent_name> dreaded finding out what would be served up when <target_name> was cooking."
+    "vi": "<agent_name> kinh hãi mỗi khi nghĩ tới những món ăn tệ hại sắp phải nuốt khi <target_name> bước vào bếp."
   },
   {
     "key": "event_consumed_drink_positive",
     "type": 0,
     "en": "<agent_name> knew #1[he/she] could look forward to a satisfying beverage if <target_name> had made it.",
-    "vi": "<agent_name> knew #1[he/she] could look forward to a satisfying beverage if <target_name> had made it."
+    "vi": "<agent_name> biết chắc #1[he/she] sẽ được thưởng thức những vò rượu thơm ngon mỹ vị nếu chính tay <target_name> ủ chế."
   },
   {
     "key": "event_consumed_drink_negative",
     "type": 0,
     "en": "<agent_name> wished <target_name> would stop making disgusting beverages, so that #1[he/she] wouldn't be obliged to drink them.",
-    "vi": "<agent_name> wished <target_name> would stop making disgusting beverages, so that #1[he/she] wouldn't be obliged to drink them."
+    "vi": "<agent_name> thầm ước <target_name> đừng bao giờ pha chế những thứ nước uống kinh dị đó nữa, để #1[he/she] không bị buộc phải nhắm mắt nuốt vào bụng."
   },
   {
     "key": "event_interacted_with_chair_positive",
     "type": 0,
     "en": "<agent_name> was absolutely delighted that <target_name> had made this <item_name>",
-    "vi": "<agent_name> was absolutely delighted that <target_name> had made this <item_name>"
+    "vi": "<agent_name> vô cùng hài lòng và thích thú khi được ngồi trên chiếc <item_name> êm ái mà <target_name> đã dày công đóng nên."
   },
   {
     "key": "event_interacted_with_chair_negative",
     "type": 0,
     "en": "<agent_name> thought this might just be the most uncomfortable <item_name> <target_name> had ever made.",
-    "vi": "<agent_name> thought this might just be the most uncomfortable <item_name> <target_name> had ever made."
+    "vi": "<agent_name> nghĩ rằng đây có lẽ là chiếc <item_name> cứng nhắc và khó chịu nhất mà <target_name> từng tạo ra."
   },
   {
     "key": "event_interacted_with_art_positive",
     "type": 0,
     "en": "<agent_name> always enjoyed gazing upon this <item_name> <target_name> created.",
-    "vi": "<agent_name> always enjoyed gazing upon this <item_name> <target_name> created."
+    "vi": "<agent_name> luôn cảm thấy thư thái và say mê mỗi khi được ngắm nhìn tác phẩm <item_name> mà <target_name> đã sáng tạo."
   },
   {
     "key": "event_interacted_with_art_negative",
     "type": 0,
     "en": "<agent_name> wished <target_name> had never made such an ugly <item_name>.",
-    "vi": "<agent_name> wished <target_name> had never made such an ugly <item_name>."
+    "vi": "<agent_name> thầm ước gì <target_name> chưa từng tạo ra một tác phẩm <item_name> xấu xí và kệch cỡm đến như thế này."
   },
   {
     "key": "event_interacted_with_bed_positive",
     "type": 0,
     "en": "<agent_name> felt so comfy in this lovely <item_name> <target_name> built.",
-    "vi": "<agent_name> felt so comfy in this lovely <item_name> <target_name> built."
+    "vi": "<agent_name> cảm thấy vô cùng êm ái và dễ chịu khi được ngả lưng trên chiếc giường <item_name> ấm áp do <target_name> đóng."
   },
   {
     "key": "event_interacted_with_bed_negative",
     "type": 0,
     "en": "<agent_name> really hated this horrid <item_name> <target_name> built.",
-    "vi": "<agent_name> really hated this horrid <item_name> <target_name> built."
+    "vi": "<agent_name> thực sự căm ghét chiếc giường <item_name> thô kệch và ọp ẹp mà <target_name> đã dựng nên."
   },
   {
     "key": "event_interacted_with_weapon_positive",
     "type": 0,
     "en": "<agent_name> was impresed that <target_name>'s <item_name> hadn't let them down.",
-    "vi": "<agent_name> was impresed that <target_name>'s <item_name> hadn't let them down."
+    "vi": "<agent_name> vô cùng khâm phục khi vũ khí <item_name> của <target_name> luôn sắc bén và chưa từng làm họ thất vọng trong chiến trận."
   },
   {
     "key": "event_interacted_with_weapon_negative",
     "type": 0,
     "en": "How typical of <target_name> to make me a useless <item_name>, <agent_name> whinged.",
-    "vi": "How typical of <target_name> to make me a useless <item_name>, <agent_name> whinged."
+    "vi": "Thật đúng là trò cười của <target_name>, rèn cho ta một món vũ khí <item_name> cùn mằn vô dụng, <agent_name> càu nhàu bực bội."
   },
   {
     "key": "event_interacted_with_shield_positive",
     "type": 0,
     "en": "<target_name>'s  <item_name> is really holding up well, <agent_name> thought.",
-    "vi": "<target_name>'s  <item_name> is really holding up well, <agent_name> thought."
-  },
-  {
-    "key": "event_interacted_with_shield_negative",
-    "type": 0,
-    "en": "This <item_name> <target_name> made is a piece of junk, <agent_name> grumbled.",
-    "vi": "This <item_name> <target_name> made is a piece of junk, <agent_name> grumbled."
-  },
-  {
-    "key": "event_interacted_with_armour_positive",
-    "type": 0,
-    "en": "<agent_name> was indebted to <target_name> for making such a sturdy <item_name>.",
-    "vi": "<agent_name> was indebted to <target_name> for making such a sturdy <item_name>."
-  },
-  {
-    "key": "event_interacted_with_armour_negative",
-    "type": 0,
-    "en": "<agent_name> wished #1[he/she] hadn't trusted <target_name> with making this <item_name>.",
-    "vi": "<agent_name> wished #1[he/she] hadn't trusted <target_name> with making this <item_name>."
-  },
-  {
-    "key": "event_interacted_with_garment_positive",
-    "type": 0,
-    "en": "<agent_name> enjoyed wearing the <item_name> <target_name> had made so skilfully.",
-    "vi": "<agent_name> enjoyed wearing the <item_name> <target_name> had made so skilfully."
-  },
-  {
-    "key": "event_interacted_with_garment_negative",
-    "type": 0,
-    "en": "<agent_name> was terribly uncomfortable wearing this <item_name>, which <target_name> can't have tailored properly.",
-    "vi": "<agent_name> was terribly uncomfortable wearing this <item_name>, which <target_name> can't have tailored properly."
-  },
-  {
-    "key": "event_belief_near_death_christian_to_pagan",
-    "type": 0,
-    "en": "In the face of death, <agent_name> found no comfort in the Lord, only darkness and terror. [His/Her] faith crumbled.",
-    "vi": "In the face of death, <agent_name> found no comfort in the Lord, only darkness and terror. [His/Her] faith crumbled."
-  },
-  {
-    "key": "event_belief_near_death_pagan_to_christian",
-    "type": 0,
-    "en": "There were no horns of mead in Tír na nÓg awaiting <agent_name>, who felt only hollowness in death's bitter embrace.",
-    "vi": "There were no horns of mead in Tír na nÓg awaiting <agent_name>, who felt only hollowness in death's bitter embrace."
-  },
-  {
-    "key": "event_belief_intoxication_christian_to_pagan",
-    "type": 0,
-    "en": "Deep in [his/her] cups, <agent_name> felt an awful certainty that there was no God to save [him/her].",
-    "vi": "Deep in [his/her] cups, <agent_name> felt an awful certainty that there was no God to save [him/her]."
-  },
-  {
-    "key": "event_belief_intoxication_pagan_to_christian",
-    "type": 0,
-    "en": "Inebriated, <agent_name> had a sinking realization that the Old Gods had forsaken this land, and all who dwelled upon it, a long time ago.",
-    "vi": "Inebriated, <agent_name> had a sinking realization that the Old Gods had forsaken this land, and all who dwelled upon it, a long time ago."
-  },
-  {
-    "key": "event_belief_friend_died_christian_to_pagan",
-    "type": 0,
-    "en": "Is there a God? He would not allow <agent_name>'s friend to die so pitifully.",
-    "vi": "Is there a God? He would not allow <agent_name>'s friend to die so pitifully."
-  },
-  {
-    "key": "event_belief_friend_died_pagan_to_christian",
-    "type": 0,
-    "en": "<agent_name> abandoned hope in the Old Gods, when they saw fit to let [his/her] friend perish.",
-    "vi": "<agent_name> abandoned hope in the Old Gods, when they saw fit to let [his/her] friend perish."
-  },
-  {
-    "key": "event_belief_raid_lost_christian_to_pagan",
-    "type": 0,
-    "en": "<agent_name> knew that God did not deign [him/her] worthy of triumph in battle",
-    "vi": "<agent_name> knew that God did not deign [him/her] worthy of triumph in battle"
-  },
-  {
-    "key": "event_belief_raid_lost_pagan_to_christian",
-    "type": 0,
-    "en": "A bitterness grew in <agent_name>, that the immortal ones stood by as [he/she] was beaten.",
-    "vi": "A bitterness grew in <agent_name>, that the immortal ones stood by as [he/she] was beaten."
-  },
-  {
-    "key": "event_belief_raid_won_christian_to_christian",
-    "type": 0,
-    "en": "<agent_name> knew that [his/hers] was a righteous cause indeed.",
-    "vi": "<agent_name> knew that [his/hers] was a righteous cause indeed."
-  },
-  {
-    "key": "event_belief_raid_won_pagan_to_pagan",
-    "type": 0,
-    "en": "The ancient ones honoured <agent_name> with the might to prevail.",
-    "vi": "The ancient ones honoured <agent_name> with the might to prevail."
-  },
-  {
-    "key": "event_belief_flawless_item_christian_to_christian",
-    "type": 0,
-    "en": "<agent_name>'s faith in the guiding hand of God is magnified, as [his/her] efforts yield perfection.",
-    "vi": "<agent_name>'s faith in the guiding hand of God is magnified, as [his/her] efforts yield perfection."
-  },
-  {
-    "key": "event_belief_flawless_item_pagan_to_pagan",
-    "type": 0,
-    "en": "<agent_name> reveals the true beauty of Nature in the act of creation, so deepening [his/her] faith.",
-    "vi": "<agent_name> reveals the true beauty of Nature in the act of creation, so deepening [his/her] faith."
-  },
-  {
-    "key": "event_belief_flimsy_item_christian_to_pagan",
-    "type": 0,
-    "en": "<agent_name> is thoroughly disappointed in God, for rendering [him/her] so clumsy and inept. ",
-    "vi": "<agent_name> is thoroughly disappointed in God, for rendering [him/her] so clumsy and inept. "
-  },
-  {
-    "key": "event_belief_flimsy_item_pagan_to_christian",
-    "type": 0,
-    "en": "Where is the guidance of the Goddess when you need it, <agent_name> wonders, pondering [his/her] botched creation.",
-    "vi": "Where is the guidance of the Goddess when you need it, <agent_name> wonders, pondering [his/her] botched creation."
-  },
-  {
-    "key": "event_belief_nature_thunderstorm_pagan_to_christian",
-    "type": 0,
-    "en": "Have I been praying to the wrong gods? <agent_name> wonders, amidst a mighty downpour from the heavens.",
-    "vi": "Have I been praying to the wrong gods? <agent_name> wonders, amidst a mighty downpour from the heavens."
-  },
-  {
-    "key": "event_belief_nature_thunderstorm_christian_to_pagan",
-    "type": 0,
-    "en": "Have I been praying to the wrong god? <agent_name> wonders, as the heavens open to release torrential rain.",
-    "vi": "Have I been praying to the wrong god? <agent_name> wonders, as the heavens open to release torrential rain."
-  },
-  {
-    "key": "event_belief_nature_hailstorm_pagan_to_christian",
-    "type": 0,
-    "en": "<agent_name> felt that the Gods didn't care about <village_name> to allow such weather - if they even were the true gods.",
-    "vi": "<agent_name> felt that the Gods didn't care about <village_name> to allow such weather - if they even were the true gods."
-  },
-  {
-    "key": "event_belief_nature_hailstorm_christian_to_pagan",
-    "type": 0,
-    "en": "<agent_name> was overcome by certainty that this hailstorm was a sign. [His/Her] prayers to God had not been heard.",
-    "vi": "<agent_name> was overcome by certainty that this hailstorm was a sign. [His/Her] prayers to God had not been heard."
-  },
-  {
-    "key": "event_belief_belief_nature_heatwave_pagan_to_christian",
-    "type": 0,
-    "en": "<agent_name> felt miserable as the heat intensified. [His/Her] offerings to the Gods of the land had been for naught.",
-    "vi": "<agent_name> felt miserable as the heat intensified. [His/Her] offerings to the Gods of the land had been for naught."
-  },
-  {
-    "key": "event_belief_belief_nature_heatwave_christian_to_pagan",
-    "type": 0,
-    "en": "<agent_name> felt overwhelmed by the stifling heat. A just God would not allow this, [he/she] thought.",
-    "vi": "<agent_name> felt overwhelmed by the stifling heat. A just God would not allow this, [he/she] thought."
-  },
-  {
-    "key": "event_belief_belief_nature_coldsnap_pagan_to_christian",
-    "type": 0,
-    "en": "So, the Gods would have us freeze in our beds? <agent_name> was thoroughly sick of uncooperative deities making life miserable.",
-    "vi": "So, the Gods would have us freeze in our beds? <agent_name> was thoroughly sick of uncooperative deities making life miserable."
-  },
-  {
-    "key": "event_belief_belief_nature_coldsnap_christian_to_pagan",
-    "type": 0,
-    "en": "Hours spent on my knees, O Lord, beseeching you to care for your flock in <village_name>. Yet you would see us all chilled to the bone?",
-    "vi": "Hours spent on my knees, O Lord, beseeching you to care for your flock in <village_name>. Yet you would see us all chilled to the bone?"
-  },
-  {
-    "key": "event_belief_belief_nature_blight_pagan_to_christian",
-    "type": 0,
-    "en": "<agent_name> cursed the Gods. And [him/her]self, for worshipping such callous deities.",
-    "vi": "<agent_name> cursed the Gods. And [him/her]self, for worshipping such callous deities."
-  },
-  {
-    "key": "event_belief_belief_nature_blight_christian_to_pagan",
-    "type": 0,
-    "en": "So, The Lord remains unmoved, even as He sends this blight to test us. <agent_name> resolved to pray to more compassionate gods.",
-    "vi": "So, The Lord remains unmoved, even as He sends this blight to test us. <agent_name> resolved to pray to more compassionate gods."
-  },
-  {
-    "key": "difficulty_option_raidPointsMultiplier_title",
-    "type": 0,
-    "en": "Event Strength Multiplier",
-    "vi": "Event Strength Multiplier"
-  },
-  {
-    "key": "difficulty_option_raidPointsMultiplier_info",
-    "type": 0,
-    "en": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events.",
-    "vi": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events."
-  },
-  {
-    "key": "difficulty_option_raidStrengthMultiplier_title",
-    "type": 0,
-    "en": "Event Strength Escalator",
-    "vi": "Event Strength Escalator"
-  },
-  {
-    "key": "difficulty_option_raidStrengthMultiplier_info",
-    "type": 0,
-    "en": "Event strength changes over time. Select how you would like event strength to escalate:",
-    "vi": "Event strength changes over time. Select how you would like event strength to escalate:"
-  },
-  {
-    "key": "difficulty_option_merchantGeneralEvent_title",
-    "type": 0,
-    "en": "Merchant visit",
-    "vi": "Merchant visit"
-  },
-  {
-    "key": "difficulty_option_merchantRareEvent_title",
-    "type": 0,
-    "en": "Rare goods merchant visit",
-    "vi": "Rare goods merchant visit"
-  },
-  {
-    "key": "difficulty_option_merchantPrisonerEvent_title",
-    "type": 0,
-    "en": "Prisoner merchant visit",
-    "vi": "Prisoner merchant visit"
-  },
-  {
-    "key": "difficulty_option_animalRaidEvent_title",
-    "type": 0,
-    "en": "Hostile Animals",
-    "vi": "Hostile Animals"
-  },
-  {
-    "key": "difficulty_option_animalRaidEvent_info",
-    "type": 0,
-    "en": "Allow this event to happen in this playthrough",
-    "vi": "Allow this event to happen in this playthrough"
-  },
-  {
-    "key": "difficulty_option_enemyRaidEvent_title",
-    "type": 0,
-    "en": "Enemy Raid Events",
-    "vi": "Enemy Raid Events"
-  },
-  {
-    "key": "difficulty_option_enemyRaidEvent_info",
-    "type": 0,
-    "en": "Allow random raid events to occur during your play session. (Note that in Peaceful mode this does not apply, because raids are excluded from this game mode.)",
-    "vi": "Allow random raid events to occur during your play session. (Note that in Peaceful mode this does not apply, because raids are excluded from this game mode.)"
-  },
-  {
-    "key": "twitch_raid_event",
-    "type": 0,
-    "en": "{FromBroadcasterName} has raided your stream with {ViewersCount} people! Now they will raid your settlement!",
-    "vi": "{FromBroadcasterName} has raided your stream with {ViewersCount} people! Now they will raid your settlement!"
-  },
-  {
-    "key": "twitch_raid_button",
-    "type": 0,
-    "en": "Minimum amount of Twitch raiders to trigger",
-    "vi": "Minimum amount of Twitch raiders to trigger"
-  },
-  {
-    "key": "twitch_raid_title",
-    "type": 0,
-    "en": "Raids",
-    "vi": "Raids"
-  },
-  {
-    "key": "twitch_raid_desc",
-    "type": 0,
-    "en": "Twitch raids also trigger in game raids.",
-    "vi": "Twitch raids also trigger in game raids."
-  },
-  {
-    "key": "warning_message_info_Raid",
-    "type": 0,
-    "en": "Arm your settlers. You are being attacked!",
-    "vi": "Arm your settlers. You are being attacked!"
-  },
-  {
-    "key": "warning_message_short_Raid",
-    "type": 0,
-    "en": "<style=DefaultRed>Incursion!</style>",
-    "vi": "<style=DefaultRed>Incursion!</style>"
-  },
-  {
-    "key": "cannot_change_during_raid",
-    "type": 0,
-    "en": "Fast speed is disabled during attacks",
-    "vi": "Fast speed is disabled during attacks"
-  },
-  {
-    "key": "raiders_no_damage_for_period",
-    "type": 0,
-    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
-    "vi": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving."
-  },
-  {
-    "key": "raiders_defeated",
-    "type": 0,
-    "en": "Taking a heavy blow to their forces, the aggressors flee.",
-    "vi": "Taking a heavy blow to their forces, the aggressors flee."
-  },
-  {
-    "key": "raiders_won",
-    "type": 0,
-    "en": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving.",
-    "vi": "Satisfied with the amount of damage done to your settlement, the aggressors are leaving."
-  },
-  {
-    "key": "raiders_tied",
-    "type": 0,
-    "en": "The battle seems to not be in anyone's favor, the aggressors are leaving.",
-    "vi": "The battle seems to not be in anyone's favor, the aggressors are leaving."
-  },
-  {
-    "key": "warning_message_info_AnimalRaid",
-    "type": 0,
-    "en": "A pack of wild animals has arrived near your settlement. It will leave in a couple of days so it might be better to leave them undisturbed than to risk someone getting hurt.",
-    "vi": "A pack of wild animals has arrived near your settlement. It will leave in a couple of days so it might be better to leave them undisturbed than to risk someone getting hurt."
-  },
-  {
-    "key": "warning_message_short_AnimalRaid",
-    "type": 0,
-    "en": "<style=DefaultRed>Hostile animals</style>",
-    "vi": "<style=DefaultRed>Hostile animals</style>"
-  },
-  {
-    "key": "warning_message_info_RaidCountdown",
-    "type": 0,
-    "en": "Prepare your settlers, <faction_name> are on their way",
-    "vi": "Prepare your settlers, <faction_name> are on their way"
-  },
-  {
-    "key": "warning_message_short_RaidCountdown",
-    "type": 0,
-    "en": "<style=DefaultRed>A search party arrives.</style>",
-    "vi": "<style=DefaultRed>A search party arrives.</style>"
-  },
-  {
-    "key": "event_animal_raid_end",
-    "type": 0,
-    "en": "Hostile animals are leaving the area",
-    "vi": "Hostile animals are leaving the area"
-  },
-  {
-    "key": "event_animal_raid_end_all_animals_dead",
-    "type": 0,
-    "en": "All the aggressive animals have been dealt with",
-    "vi": "All the aggressive animals have been dealt with"
-  },
-  {
-    "key": "warning_message_short_FinalRaidCountdown",
-    "type": 0,
-    "en": "<style=DefaultRed>Attackers approaching.</style>",
-    "vi": "<style=DefaultRed>Attackers approaching.</style>"
-  },
-  {
-    "key": "warning_message_info_FinalRaidCountdown",
-    "type": 0,
-    "en": "Prepare your settlers, <faction_name> are on their way",
-    "vi": "Prepare your settlers, <faction_name> are on their way"
-  },
-  {
-    "key": "event_type_point_of_interest",
-    "type": 0,
-    "en": "Point of interest",
-    "vi": "Point of interest"
-  },
-  {
-    "key": "worker_action_AnimalRaidIdleGoal",
-    "type": 0,
-    "en": "Idle",
-    "vi": "Idle"
-  },
-  {
-    "key": "research_name_merchant_structure_01",
-    "type": 0,
-    "en": "Merchant Structures I",
-    "vi": "Merchant Structures I"
-  },
-  {
-    "key": "research_name_merchant_structure_02",
-    "type": 0,
-    "en": "Merchant Structures II",
-    "vi": "Merchant Structures II"
-  },
-  {
-    "key": "research_name_merchant_structure_03",
-    "type": 0,
-    "en": "Merchant Structures III",
-    "vi": "Merchant Structures III"
-  },
-  {
-    "key": "event_tooltip_started",
-    "type": 0,
-    "en": "Started",
-    "vi": "Started"
-  },
-  {
-    "key": "event_tooltip_lasts",
-    "type": 0,
-    "en": "Has lasted for",
-    "vi": "Has lasted for"
-  },
-  {
-    "key": "event_answer_01",
-    "type": 0,
-    "en": "Accept",
-    "vi": "Accept"
-  },
-  {
-    "key": "event_answer_decline_new_worker",
-    "type": 0,
-    "en": "The settlers slammed the door shut, leaving <name> outside.",
-    "vi": "The settlers slammed the door shut, leaving <name> outside."
-  },
-  {
-    "key": "event_answer_decline_help_runaway",
-    "type": 0,
-    "en": "The settlers slammed the door shut, leaving <name> outside.",
-    "vi": "The settlers slammed the door shut, leaving <name> outside."
-  },
-  {
-    "key": "event_answer_prepare_for_battle",
-    "type": 0,
-    "en": "<village_name> folk took up arms, making ready for battle",
-    "vi": "<village_name> folk took up arms, making ready for battle"
-  },
-  {
-    "key": "event_answer_04",
-    "type": 0,
-    "en": "Ok",
-    "vi": "Ok"
-  },
-  {
-    "key": "event_answer_welcome_new_worker",
-    "type": 0,
-    "en": "The settlers decided to welcome [him/her] into <village_name>.",
-    "vi": "The settlers decided to welcome [him/her] into <village_name>."
-  },
-  {
-    "key": "event_answer_help_runaway",
-    "type": 0,
-    "en": "<village_name>'s inhabitants decided to help [him/her].",
-    "vi": "<village_name>'s inhabitants decided to help [him/her]."
-  },
-  {
-    "key": "event_answer_surrender_worker",
-    "type": 0,
-    "en": "<village_name> surrendered <name> back to those hunting [him/her].",
-    "vi": "<village_name> surrendered <name> back to those hunting [him/her]."
-  },
-  {
-    "key": "event_answer_refuse_give_worker",
-    "type": 0,
-    "en": "<village_name>'s defiant settlers refused to bow to the assailants' demands.",
-    "vi": "<village_name>'s defiant settlers refused to bow to the assailants' demands."
-  },
-  {
-    "key": "event_answer_worker_allready_gone",
-    "type": 0,
-    "en": "Yet <name> was no longer at <village_name>. It was impossible to comply.",
-    "vi": "Yet <name> was no longer at <village_name>. It was impossible to comply."
-  },
-  {
-    "key": "event_blight_01",
-    "type": 0,
-    "en": "The settlers knew that when crop blight appeared, it was a race against time. Every able worker in <village_name> toiled to weed out this scourge before it withered the healthy plants. <village_name>’s very future depended upon it!",
-    "vi": "The settlers knew that when crop blight appeared, it was a race against time. Every able worker in <village_name> toiled to weed out this scourge before it withered the healthy plants. <village_name>’s very future depended upon it!"
-  },
-  {
-    "key": "event_cold_01",
-    "type": 0,
-    "en": "Severe frost turned the ground to iron, ruining planted crops. Trees split, birds froze to death, and icicles hung from the rafters. It was vital for the settlers to dress warmly and heat <village_name> sleeping quarters, to evade the deathly kiss of cold.",
-    "vi": "Severe frost turned the ground to iron, ruining planted crops. Trees split, birds froze to death, and icicles hung from the rafters. It was vital for the settlers to dress warmly and heat <village_name> sleeping quarters, to evade the deathly kiss of cold."
-  },
-  {
-    "key": "event_cold_warning",
-    "type": 0,
-    "en": "The regional temperature is very low",
-    "vi": "The regional temperature is very low"
-  },
-  {
-    "key": "event_hail_01",
-    "type": 0,
-    "en": "An icy volley heralded a fierce hailstorm. The settlers of <village_name> could only shiver uneasily, hastening under cover as the stinging barrage intensified. Once the storm passed, they crept forth, to see which crops and unsheltered resources had survived.",
-    "vi": "An icy volley heralded a fierce hailstorm. The settlers of <village_name> could only shiver uneasily, hastening under cover as the stinging barrage intensified. Once the storm passed, they crept forth, to see which crops and unsheltered resources had survived."
-  },
-  {
-    "key": "event_hail_warning",
-    "type": 0,
-    "en": "Hailstones are destroying plants",
-    "vi": "Hailstones are destroying plants"
-  },
-  {
-    "key": "event_heat_wave_01",
-    "type": 0,
-    "en": "\nAs the sun beat down, sweat poured from the workers' slick backs. They tired quickly in the blistering heat, wilting like the crops, which needed to be tended and harvested quickly before they withered. The workers needed shade; some worked after sundown.",
-    "vi": "\nAs the sun beat down, sweat poured from the workers' slick backs. They tired quickly in the blistering heat, wilting like the crops, which needed to be tended and harvested quickly before they withered. The workers needed shade; some worked after sundown."
-  },
-  {
-    "key": "event_heat_wave_warning",
-    "type": 0,
-    "en": "The temperature is extremely high",
-    "vi": "The temperature is extremely high"
-  },
-  {
-    "key": "event_merchant_01",
-    "type": 0,
-    "en": "The fact that he was hawking saints' relics that looked for all the world like chicken bones was hardly reassuring. Yet the ragged, smirking wanderer had much more to offer, for those mindful to trade.",
-    "vi": "The fact that he was hawking saints' relics that looked for all the world like chicken bones was hardly reassuring. Yet the ragged, smirking wanderer had much more to offer, for those mindful to trade."
-  },
-  {
-    "key": "event_merchant_02",
-    "type": 0,
-    "en": "A scent of spices on the breeze preceded the arrival of a merchant caravan, lifting the spirits of <village_name> inhabitants. Did it bring furs, cloth, or tidings from the wider world? \"I have so much to offer you good people!\" the mercer cried out. \"Come, let's make a deal!\"",
-    "vi": "A scent of spices on the breeze preceded the arrival of a merchant caravan, lifting the spirits of <village_name> inhabitants. Did it bring furs, cloth, or tidings from the wider world? \"I have so much to offer you good people!\" the mercer cried out. \"Come, let's make a deal!\""
-  },
-  {
-    "key": "event_name_merchant_01",
-    "type": 0,
-    "en": "Guileful trader",
-    "vi": "Guileful trader"
-  },
-  {
-    "key": "event_name_merchant_02",
-    "type": 0,
-    "en": "Merchant caravan",
-    "vi": "Merchant caravan"
-  },
-  {
-    "key": "event_visitor_name",
-    "type": 0,
-    "en": "Lone Traveller",
-    "vi": "Lone Traveller"
-  },
-  {
-    "key": "event_weapons_merchant",
-    "type": 0,
-    "en": "The arms dealer leads [his/her] sturdy pony into <village_name>, its cart, heavy-laden with wares. 'Protect yourself! Slay your foes!' [He/She] shouts. 'I have swords and armour aplenty - and affordable bows and shields for the ordinary footsoldier, too.' ",
-    "vi": "The arms dealer leads [his/her] sturdy pony into <village_name>, its cart, heavy-laden with wares. 'Protect yourself! Slay your foes!' [He/She] shouts. 'I have swords and armour aplenty - and affordable bows and shields for the ordinary footsoldier, too.' "
-  },
-  {
-    "key": "event_rare_goods_merchant",
-    "type": 0,
-    "en": "The dealer in luxuries sometimes carries swords from Toledo and Damascus, Milanese armour, unusual mechanical parts, esoteric ingredients, and books bound in buttery parchment. Their exclusive and carefully selected items come at a premium.",
-    "vi": "The dealer in luxuries sometimes carries swords from Toledo and Damascus, Milanese armour, unusual mechanical parts, esoteric ingredients, and books bound in buttery parchment. Their exclusive and carefully selected items come at a premium."
-  },
-  {
-    "key": "event_black_market_merchant",
-    "type": 0,
-    "en": "A shadow trade in bizarre, unsavoury or taboo items is available, if you know where to look. A slow nod or gesture in a dubious tavern or an invitation from a nightworker yields an introduction to a contraband merchant.",
-    "vi": "A shadow trade in bizarre, unsavoury or taboo items is available, if you know where to look. A slow nod or gesture in a dubious tavern or an invitation from a nightworker yields an introduction to a contraband merchant."
-  },
-  {
-    "key": "event_prisoner_merchant",
-    "type": 0,
-    "en": "A trader with a head for business of the riskiest kind - human freedom. This trafficker deals in ransoms, and will take that responsibility off your hands. For the right price.",
-    "vi": "A trader with a head for business of the riskiest kind - human freedom. This trafficker deals in ransoms, and will take that responsibility off your hands. For the right price."
-  },
-  {
-    "key": "event_visitor",
-    "type": 0,
-    "en": "A rangy hawker empties their pack, spreading a selection of oddments on a linen cloth on the ground. 'I buy and sell things that take my fancy on the road,' they say with a crooked smile. 'Take a look, if you like!'",
-    "vi": "A rangy hawker empties their pack, spreading a selection of oddments on a linen cloth on the ground. 'I buy and sell things that take my fancy on the road,' they say with a crooked smile. 'Take a look, if you like!'"
-  },
-  {
-    "key": "event_name_role_visitor",
-    "type": 0,
-    "en": "<role> visit",
-    "vi": "<role> visit"
-  },
-  {
-    "key": "event_role_visitor",
-    "type": 0,
-    "en": "<name> of <faction_name> has graced us with a visit. [He/She] is a <role> in [his/her] own settlement. Hold an <event_name> to make the most of their stay.",
-    "vi": "<name> of <faction_name> has graced us with a visit. [He/She] is a <role> in [his/her] own settlement. Hold an <event_name> to make the most of their stay."
-  },
-  {
-    "key": "event_name_blight_01",
-    "type": 0,
-    "en": "Blighted crops",
-    "vi": "Blighted crops"
-  },
-  {
-    "key": "event_name_cold_01",
-    "type": 0,
-    "en": "Cold snap",
-    "vi": "Cold snap"
-  },
-  {
-    "key": "event_name_hail_01",
-    "type": 0,
-    "en": "Hailstorm",
-    "vi": "Hailstorm"
-  },
-  {
-    "key": "event_name_heat_wave_01",
-    "type": 0,
-    "en": "Heat wave",
-    "vi": "Heat wave"
-  },
-  {
-    "key": "event_name_new_worker_defoult_01",
-    "type": 0,
-    "en": "A hopeful helpmate",
-    "vi": "A hopeful helpmate"
-  },
-  {
-    "key": "event_name_new_worker_sick_01",
-    "type": 0,
-    "en": "This too shall pass",
-    "vi": "This too shall pass"
-  },
-  {
-    "key": "event_name_new_worker_starving_01",
-    "type": 0,
-    "en": "Hunger comes calling",
-    "vi": "Hunger comes calling"
-  },
-  {
-    "key": "event_name_new_worker_wounded_01",
-    "type": 0,
-    "en": "A safe haven",
-    "vi": "A safe haven"
-  },
-  {
-    "key": "event_name_new_worker_wounded_02",
-    "type": 0,
-    "en": "Barking up the wrong tree",
-    "vi": "Barking up the wrong tree"
-  },
-  {
-    "key": "event_name_raid_general",
-    "type": 0,
-    "en": "Attack (<faction_name>)",
-    "vi": "Attack (<faction_name>)"
-  },
-  {
-    "key": "event_name_raid_animal_01",
-    "type": 0,
-    "en": "Ferocious Wildlife",
-    "vi": "Ferocious Wildlife"
-  },
-  {
-    "key": "event_name_raid_avalon_01",
-    "type": 0,
-    "en": "Circle of Avalon Attack",
-    "vi": "Circle of Avalon Attack"
-  },
-  {
-    "key": "event_name_raid_kingdom_of_york_01",
-    "type": 0,
-    "en": "Kingdom Of York Attack",
-    "vi": "Kingdom Of York Attack"
-  },
-  {
-    "key": "event_name_raid_progeny_01",
-    "type": 0,
-    "en": "Progeny Attack",
-    "vi": "Progeny Attack"
-  },
-  {
-    "key": "event_name_raid_resources_01",
-    "type": 0,
-    "en": "Pirate incursion",
-    "vi": "Pirate incursion"
-  },
-  {
-    "key": "event_name_raid_savages_01",
-    "type": 0,
-    "en": "Mindless assassins",
-    "vi": "Mindless assassins"
-  },
-  {
-    "key": "event_name_raid_sons_of_england_01",
-    "type": 0,
-    "en": "Sons Of England Attack",
-    "vi": "Sons Of England Attack"
-  },
-  {
-    "key": "event_name_raid_third_coming_01",
-    "type": 0,
-    "en": "Third Coming Attack",
-    "vi": "Third Coming Attack"
-  },
-  {
-    "key": "event_name_claim_runaway_general",
-    "type": 0,
-    "en": "Violent extortionists (<faction_name>)",
-    "vi": "Violent extortionists (<faction_name>)"
-  },
-  {
-    "key": "event_name_runaway_01",
-    "type": 0,
-    "en": "Jailbird",
-    "vi": "Jailbird"
-  },
-  {
-    "key": "event_name_runaway_01_b",
-    "type": 0,
-    "en": "Violent extortionists (Jailbird)",
-    "vi": "Violent extortionists (Jailbird)"
-  },
-  {
-    "key": "event_name_runaway_name",
-    "type": 0,
-    "en": "Lost property",
-    "vi": "Lost property"
-  },
-  {
-    "key": "event_name_runaway_02_b",
-    "type": 0,
-    "en": "Violent extortionists (Lost property)",
-    "vi": "Violent extortionists (Lost property)"
-  },
-  {
-    "key": "event_name_runaway_03",
-    "type": 0,
-    "en": "Domestic violence",
-    "vi": "Domestic violence"
-  },
-  {
-    "key": "event_name_runaway_03_b",
-    "type": 0,
-    "en": "Violent extortionists (Domestic violence)",
-    "vi": "Violent extortionists (Domestic violence)"
-  },
-  {
-    "key": "event_name_runaway_general",
-    "type": 0,
-    "en": "Salvation (<faction_name>)",
-    "vi": "Salvation (<faction_name>)"
-  },
-  {
-    "key": "event_name_runaway_event_name",
-    "type": 0,
-    "en": "Salvation",
-    "vi": "Salvation"
-  },
-  {
-    "key": "event_name_runaway_04_b",
-    "type": 0,
-    "en": "Violent extortionists (Salvation)",
-    "vi": "Violent extortionists (Salvation)"
-  },
-  {
-    "key": "event_name_runaway_05",
-    "type": 0,
-    "en": "Barbarian snack",
-    "vi": "Barbarian snack"
-  },
-  {
-    "key": "event_name_runaway_05_b",
-    "type": 0,
-    "en": "Violent extortionists (Barbarian snack)",
-    "vi": "Violent extortionists (Barbarian snack)"
-  },
-  {
-    "key": "event_name_supernatural_01",
-    "type": 0,
-    "en": "Ooser looser",
-    "vi": "Ooser looser"
-  },
-  {
-    "key": "event_name_supernatural_02",
-    "type": 0,
-    "en": "Wild hunt",
-    "vi": "Wild hunt"
-  },
-  {
-    "key": "event_name_supernatural_03",
-    "type": 0,
-    "en": "St Anthony's Fire",
-    "vi": "St Anthony's Fire"
-  },
-  {
-    "key": "event_name_thunderstorm_01",
-    "type": 0,
-    "en": "Thor's hammer",
-    "vi": "Thor's hammer"
-  },
-  {
-    "key": "event_new_worker_defoult_01",
-    "type": 0,
-    "en": "<name> approached with [his/her] hand held out and a warm, open smile. <name> was keen to learn about <village_name> and only too willing to lend a hand. All [he/she] asked was a safe place to call home.",
-    "vi": "<name> approached with [his/her] hand held out and a warm, open smile. <name> was keen to learn about <village_name> and only too willing to lend a hand. All [he/she] asked was a safe place to call home."
-  },
-  {
-    "key": "event_new_worker_sick_01",
-    "type": 0,
-    "en": "An ailing traveller shuffled haltingly into <village_name>. Given time to recuperate, [he/she] claimed they could work, but in that moment they looked pretty rough. Would <name> be permitted to join and convalesce?",
-    "vi": "An ailing traveller shuffled haltingly into <village_name>. Given time to recuperate, [he/she] claimed they could work, but in that moment they looked pretty rough. Would <name> be permitted to join and convalesce?"
-  },
-  {
-    "key": "event_new_worker_starving_01",
-    "type": 0,
-    "en": "When <name> arrived, [his/her] bones were prominent and [his/her] hair fell out in clumps. <village_name> people stared at this wretched, starving soul. Desperation was writ on <name>'s face and [he/she] pleaded. Would you take [him/her] in?",
-    "vi": "When <name> arrived, [his/her] bones were prominent and [his/her] hair fell out in clumps. <village_name> people stared at this wretched, starving soul. Desperation was writ on <name>'s face and [he/she] pleaded. Would you take [him/her] in?"
-  },
-  {
-    "key": "event_new_worker_wounded_01",
-    "type": 0,
-    "en": "You sighted a pale, halting figure near the perimeter of <village_name>. As [he/she] approached, it became clear that <name> had been bleeding from a deep gash, and needed to rest. 'It was for honour,' <name> gasped. Would you grant them respite?",
-    "vi": "You sighted a pale, halting figure near the perimeter of <village_name>. As [he/she] approached, it became clear that <name> had been bleeding from a deep gash, and needed to rest. 'It was for honour,' <name> gasped. Would you grant them respite?"
-  },
-  {
-    "key": "event_new_worker_wounded_02",
-    "type": 0,
-    "en": "[He/She] was found, faint and bleeding, by a citizen of <village_name>. From the axe and shattered lumber,  <name> had clearly experienced a woodcutting mishap. Would you let them stay and heal?",
-    "vi": "[He/She] was found, faint and bleeding, by a citizen of <village_name>. From the axe and shattered lumber,  <name> had clearly experienced a woodcutting mishap. Would you let them stay and heal?"
-  },
-  {
-    "key": "event_raid_animal_01",
-    "type": 0,
-    "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
-    "vi": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n"
-  },
-  {
-    "key": "game_event_type_animalRaid",
-    "type": 0,
-    "en": "Destructive Wildlife",
-    "vi": "Destructive Wildlife"
-  },
-  {
-    "key": "event_raid_animal_deer",
-    "type": 0,
-    "en": "A group of faery cattle shifted among the trees bordering <village_name>. Their beauty did not fool the settlers who chased them off, knowing only too well how destructive deer can be.",
-    "vi": "A group of faery cattle shifted among the trees bordering <village_name>. Their beauty did not fool the settlers who chased them off, knowing only too well how destructive deer can be."
-  },
-  {
-    "key": "event_raid_animal_hare",
-    "type": 0,
-    "en": "It is common knowledge that the hare is the witches' familiar, or perhaps even a shapeshifting witch! <village_name> settlers ran them away with great haste.",
-    "vi": "It is common knowledge that the hare is the witches' familiar, or perhaps even a shapeshifting witch! <village_name> settlers ran them away with great haste."
-  },
-  {
-    "key": "event_raid_animal_wolf",
-    "type": 0,
-    "en": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n",
-    "vi": "A relentless stream of wolves poured into <village_name>, teeth bared and eyes aglow. Whether their sudden visitation resulted from hunger or playful destruction was unclear. Brandishing tools and shielding the stock, the settlers had to drive them off.\n"
-  },
-  {
-    "key": "event_raid_animal_fox",
-    "type": 0,
-    "en": "A skulk of foxes approaching <village_name> was cause for alarm. Settlers chased them away before they could prey on livestock, or rummage in the midden heap.",
-    "vi": "A skulk of foxes approaching <village_name> was cause for alarm. Settlers chased them away before they could prey on livestock, or rummage in the midden heap."
-  },
-  {
-    "key": "event_raid_animal_polecat",
-    "type": 0,
-    "en": "The stinking foul marten or polecat and her kits were decidedly unwelcome. <village_name> settlers guarded their fowl, eggs and honey robustly from these vermin.",
-    "vi": "The stinking foul marten or polecat and her kits were decidedly unwelcome. <village_name> settlers guarded their fowl, eggs and honey robustly from these vermin."
-  },
-  {
-    "key": "event_raid_animal_boar",
-    "type": 0,
-    "en": "With razor-sharp tusks and a whiff of the underworld, wild boar gathered on the edge of <village_name>. The hue and cry went up for all who could bear arms to drive them away.",
-    "vi": "With razor-sharp tusks and a whiff of the underworld, wild boar gathered on the edge of <village_name>. The hue and cry went up for all who could bear arms to drive them away."
-  },
-  {
-    "key": "event_raid_animal_rat",
-    "type": 0,
-    "en": "Known to gather around plague, pestilence or a full grain store, the <village_name> rat problem could not be ignored. Where traps and cats failed, settlers resorted to killing them one by one.",
-    "vi": "Known to gather around plague, pestilence or a full grain store, the <village_name> rat problem could not be ignored. Where traps and cats failed, settlers resorted to killing them one by one."
-  },
-  {
-    "key": "event_raid_animal_dog",
-    "type": 0,
-    "en": "The snarling, feral mutts circling <village_name> were certainly not man's best friend. The settlers worked hard to fend them off.",
-    "vi": "The snarling, feral mutts circling <village_name> were certainly not man's best friend. The settlers worked hard to fend them off."
-  },
-  {
-    "key": "event_raid_animal_bear",
-    "type": 0,
-    "en": "Settlers of <village_name> were by turns amazed, then terrified, to spot an angry bear. Had it escaped from captivity? No matter, it had to be neutralised.",
-    "vi": "Settlers of <village_name> were by turns amazed, then terrified, to spot an angry bear. Had it escaped from captivity? No matter, it had to be neutralised."
-  },
-  {
-    "key": "event_rat_infestation",
-    "type": 0,
-    "en": "Rats have burrowed into your cellars! Quickly get rid of these vermin, before they chew through your stockpiled food.",
-    "vi": "Rats have burrowed into your cellars! Quickly get rid of these vermin, before they chew through your stockpiled food."
-  },
-  {
-    "key": "event_name_room_flood_01",
-    "type": 0,
-    "en": "Cellar Flooded",
-    "vi": "Cellar Flooded"
-  },
-  {
-    "key": "event_room_flood_01",
-    "type": 0,
-    "en": "Groundwater has found its way through the earth walls, into your cellars. Prevent this recurring by building cellar walls with different materials.",
-    "vi": "Groundwater has found its way through the earth walls, into your cellars. Prevent this recurring by building cellar walls with different materials."
-  },
-  {
-    "key": "event_raid_general_allready_gone",
-    "type": 0,
-    "en": "The attackers left unsatisfied, their quest for <name> frustrated.",
-    "vi": "The attackers left unsatisfied, their quest for <name> frustrated."
-  },
-  {
-    "key": "event_raid_general_decline_hostile",
-    "type": 0,
-    "en": "You stood your ground, refusing to give in to their demands.",
-    "vi": "You stood your ground, refusing to give in to their demands."
-  },
-  {
-    "key": "event_raid_general_decline_neutral",
-    "type": 0,
-    "en": "You stood your ground, refusing to give in to their demands. The attackers leave, but your relationship with <faction_name> worsens.",
-    "vi": "You stood your ground, refusing to give in to their demands. The attackers leave, but your relationship with <faction_name> worsens."
-  },
-  {
-    "key": "event_raid_resources_01",
-    "type": 0,
-    "en": "They seeped downriver, appearing overnight and carrying a stench of stagnant decay. The ghoulish pillagers of <origin> menaced <village_name> with explicit, violent threats. They would cease their harassment and move on, they said, if you submitted to their demands for <resource>.",
-    "vi": "They seeped downriver, appearing overnight and carrying a stench of stagnant decay. The ghoulish pillagers of <origin> menaced <village_name> with explicit, violent threats. They would cease their harassment and move on, they said, if you submitted to their demands for <resource>."
-  },
-  {
-    "key": "event_raid_resources_01_accept",
-    "type": 0,
-    "en": "The intruders melted away as swiftly as they arrived, taking <resource> with them.",
-    "vi": "The intruders melted away as swiftly as they arrived, taking <resource> with them."
-  },
-  {
-    "key": "event_raid_general",
-    "type": 0,
-    "en": "\n\nThe raiders appeared swiftly, without warning. Immediately, the smell of blood and fear filled the air. Gaunt and savage, the assailants set about their grim task: to pillage <village_name> and murder its inhabitants.",
-    "vi": "\n\nThe raiders appeared swiftly, without warning. Immediately, the smell of blood and fear filled the air. Gaunt and savage, the assailants set about their grim task: to pillage <village_name> and murder its inhabitants."
-  },
-  {
-    "key": "event_raid_church_of_third_coming",
-    "type": 0,
-    "en": "Armour glinted and pennants fluttered, each bearing three white crosses. First they prayed. Then they purged the faithless. The Church was as merciless as it was fanatical.",
-    "vi": "Armour glinted and pennants fluttered, each bearing three white crosses. First they prayed. Then they purged the faithless. The Church was as merciless as it was fanatical."
-  },
-  {
-    "key": "event_raid_ancrene_disciples",
-    "type": 0,
-    "en": "Eyes shining with holy conviction, they surged forward, chanting aloud as they hewed at their screaming victims. The Ancrene Disciples vowed to cast out the Devil, by destroying every last one of his servants on Earth.",
-    "vi": "Eyes shining with holy conviction, they surged forward, chanting aloud as they hewed at their screaming victims. The Ancrene Disciples vowed to cast out the Devil, by destroying every last one of his servants on Earth."
-  },
-  {
-    "key": "event_raid_faithful_sons_of_england",
-    "type": 0,
-    "en": "</b>'For King and Country!' they cried, charging forward with grim determination. The Sons of England would not rest until their beloved land was drenched in blood.",
-    "vi": "</b>'For King and Country!' they cried, charging forward with grim determination. The Sons of England would not rest until their beloved land was drenched in blood."
-  },
-  {
-    "key": "event_raid_band_of_the she_wolf",
-    "type": 0,
-    "en": "With thunderous faces, the barons led the charge. ‘For our one true Queen!’ they bellowed, deftly swinging their weapons, slicing through sinew and bone.",
-    "vi": "With thunderous faces, the barons led the charge. ‘For our one true Queen!’ they bellowed, deftly swinging their weapons, slicing through sinew and bone."
-  },
-  {
-    "key": "event_raid_philosophers_of_the_natural_order",
-    "type": 0,
-    "en": "The academics gathered like a storm of angry crows, their black gowns flapping comically as they huddled, strategizing. Their great minds were entirely focused on wrecking <village_name>. Except for its books, which they coveted, and meant to steal.",
-    "vi": "The academics gathered like a storm of angry crows, their black gowns flapping comically as they huddled, strategizing. Their great minds were entirely focused on wrecking <village_name>. Except for its books, which they coveted, and meant to steal."
-  },
-  {
-    "key": "event_raid_society_of_fellows",
-    "type": 0,
-    "en": "Once they had stopped shouting at each other, the dons took a vote in an orderly and democratic manner, then prepared to strike. ‘You ignorant dimwits have got it coming!’ They shrieked, rampaging into <village_name> with the zeal of rioting dissidents.",
-    "vi": "Once they had stopped shouting at each other, the dons took a vote in an orderly and democratic manner, then prepared to strike. ‘You ignorant dimwits have got it coming!’ They shrieked, rampaging into <village_name> with the zeal of rioting dissidents."
-  },
-  {
-    "key": "event_raid_kingdom_of_york",
-    "type": 0,
-    "en": "The militants descended, baying for Royalist blood. 'Loyalists are culpable of genocide!' they roared. Slaughter seemed inescapable.",
-    "vi": "The militants descended, baying for Royalist blood. 'Loyalists are culpable of genocide!' they roared. Slaughter seemed inescapable."
-  },
-  {
-    "key": "event_raid_heresy_of_the_rose",
-    "type": 0,
-    "en": "When Heretics rise, fear takes human form. Baying, screeching, drumming, chanting...some wear horns; a girl strews rose petals at the mob’s feet. Many bear flaming symbols aloft. ‘We’ve come for your souls!’ one shouts. A roar of hooting laughter rises up among their ranks. A senseless massacre is imminent.",
-    "vi": "When Heretics rise, fear takes human form. Baying, screeching, drumming, chanting...some wear horns; a girl strews rose petals at the mob’s feet. Many bear flaming symbols aloft. ‘We’ve come for your souls!’ one shouts. A roar of hooting laughter rises up among their ranks. A senseless massacre is imminent."
-  },
-  {
-    "key": "event_raid_circle_of_avalon",
-    "type": 0,
-    "en": "They were truly a sight to behold: fair knights in shining armour. But the old Gods have always been thirsty for Christian blood, and Cedric's knights would gladly spill yours.",
-    "vi": "They were truly a sight to behold: fair knights in shining armour. But the old Gods have always been thirsty for Christian blood, and Cedric's knights would gladly spill yours."
-  },
-  {
-    "key": "event_raid_beirdd_cymraeg",
-    "type": 0,
-    "en": "Colourful, theatrical, larger than life: the bards’ presence was hard to ignore. You might be enchanted and entertained, but do not be fooled. If they could not talk you into doing their bidding, they would gladly fight you, and tell a fabulous tale about it afterwards.",
-    "vi": "Colourful, theatrical, larger than life: the bards’ presence was hard to ignore. You might be enchanted and entertained, but do not be fooled. If they could not talk you into doing their bidding, they would gladly fight you, and tell a fabulous tale about it afterwards."
-  },
-  {
-    "key": "event_raid_progeny_of_the_plague",
-    "type": 0,
-    "en": "They wanted slaves! They demanded blood! Indiscriminate raiders intent on pillage and plunder charged into your village.",
-    "vi": "They wanted slaves! They demanded blood! Indiscriminate raiders intent on pillage and plunder charged into your village."
-  },
-  {
-    "key": "event_raid_ravagers",
-    "type": 0,
-    "en": "They weren't just hungry, they were greedy. The Ravagers were already imagining a tasty feast, with human flesh as the main course. They say meat is murder, and this could be yours.",
-    "vi": "They weren't just hungry, they were greedy. The Ravagers were already imagining a tasty feast, with human flesh as the main course. They say meat is murder, and this could be yours."
-  },
-  {
-    "key": "event_raid_forest_bandits",
-    "type": 0,
-    "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose."
-  },
-  {
-    "key": "event_raid_mountain_bandits",
-    "type": 0,
-    "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose."
-  },
-  {
-    "key": "event_raid_river_bandits",
-    "type": 0,
-    "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose."
-  },
-  {
-    "key": "event_raid_looters",
-    "type": 0,
-    "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose."
-  },
-  {
-    "key": "event_raid_scourge",
-    "type": 0,
-    "en": "A smell of sulfur in the air and a prickling on the skin. These were the only warning signs that a Scourge attack was coming. You would see and hear nobody. If you survived, you would witness a scene from hell itself.",
-    "vi": "A smell of sulfur in the air and a prickling on the skin. These were the only warning signs that a Scourge attack was coming. You would see and hear nobody. If you survived, you would witness a scene from hell itself."
-  },
-  {
-    "key": "event_runaway_general",
-    "type": 0,
-    "en": "<name> didn't stop looking over [his/her] shoulder. But it was the bleeding weals around <name>'s ankles that gave [him/her] away as a prisoner on the run. Would you conceal [him/her]? They may have been followed.",
-    "vi": "<name> didn't stop looking over [his/her] shoulder. But it was the bleeding weals around <name>'s ankles that gave [him/her] away as a prisoner on the run. Would you conceal [him/her]? They may have been followed."
-  },
-  {
-    "key": "event_runaway_church_of_third_coming",
-    "type": 0,
-    "en": "Whether it was the Third Coming seeking a poor sinner to make an example of - or some other zealots - was unclear. <name> raved about religion, torture, escape...but the details were confused. Would you give them refuge? Danger might ensue.",
-    "vi": "Whether it was the Third Coming seeking a poor sinner to make an example of - or some other zealots - was unclear. <name> raved about religion, torture, escape...but the details were confused. Would you give them refuge? Danger might ensue."
-  },
-  {
-    "key": "event_runaway_ancrene_disciples",
-    "type": 0,
-    "en": "<name> would be burned alive by the Disciples, [he/she] stated factually, with eyes dimmed, trailing sooty rags. Would you save them from the flames? [He/She] may be pursued.",
-    "vi": "<name> would be burned alive by the Disciples, [he/she] stated factually, with eyes dimmed, trailing sooty rags. Would you save them from the flames? [He/She] may be pursued."
-  },
-  {
-    "key": "event_runaway_faithful_sons_of_england",
-    "type": 0,
-    "en": "<name> said they had walked for many days, hiding in trees, ditches and abandoned barns. Followers of the soi-disant King tracked [him/her] relentlessly, sometimes with baying hounds. ‘I have done no one harm,’ said <name>, asking for <village_name>’s protection. Would you risk it? Edmund’s forces may be close behind.",
-    "vi": "<name> said they had walked for many days, hiding in trees, ditches and abandoned barns. Followers of the soi-disant King tracked [him/her] relentlessly, sometimes with baying hounds. ‘I have done no one harm,’ said <name>, asking for <village_name>’s protection. Would you risk it? Edmund’s forces may be close behind."
-  },
-  {
-    "key": "event_runaway_band_of_the she_wolf",
-    "type": 0,
-    "en": "<name> practically crawled into <village_name>. [He/She] appeared hale and well-fed, and yet appeared stricken by some uncanny malaise. ‘Pins and flesh, pins mark death…’ [he/she] whispered hoarsely. There had been rumours that Queen Isabella employed a necromancer. Would you dare take <name> in?",
-    "vi": "<name> practically crawled into <village_name>. [He/She] appeared hale and well-fed, and yet appeared stricken by some uncanny malaise. ‘Pins and flesh, pins mark death…’ [he/she] whispered hoarsely. There had been rumours that Queen Isabella employed a necromancer. Would you dare take <name> in?"
-  },
-  {
-    "key": "event_runaway_philosophers_of_the_natural_order",
-    "type": 0,
-    "en": "<name> claimed that [he/she] was running from a pack of enraged Philosophers. They had beaten [him/her] for reductive reasoning and epistemological scepticism. ‘I don’t know what they were talking about, but they wouldn’t let up.’ Would you offer [him/her] a place to stay? There may be repercussions.",
-    "vi": "<name> claimed that [he/she] was running from a pack of enraged Philosophers. They had beaten [him/her] for reductive reasoning and epistemological scepticism. ‘I don’t know what they were talking about, but they wouldn’t let up.’ Would you offer [him/her] a place to stay? There may be repercussions."
-  },
-  {
-    "key": "event_runaway_society_of_fellows",
-    "type": 0,
-    "en": "<name> arrived in great haste, professing to have been targeted by a malicious alchemist. <name> fled, with the occultist and their cronies in hot pursuit. Would you protect <name> in <village_name>? The Society of Fellows is known to use strange methods to exact revenge. ",
-    "vi": "<name> arrived in great haste, professing to have been targeted by a malicious alchemist. <name> fled, with the occultist and their cronies in hot pursuit. Would you protect <name> in <village_name>? The Society of Fellows is known to use strange methods to exact revenge. "
-  },
-  {
-    "key": "event_runaway_kingdom_of_york",
-    "type": 0,
-    "en": "Forlorn and desperate, <name> stood accused of treason against the Kingdom of York, by aiding and abetting the monarchy. 'I am innocent,' [he/she] sobbed. Would you grant <name> asylum? Reprisals may follow.",
-    "vi": "Forlorn and desperate, <name> stood accused of treason against the Kingdom of York, by aiding and abetting the monarchy. 'I am innocent,' [he/she] sobbed. Would you grant <name> asylum? Reprisals may follow."
-  },
-  {
-    "key": "event_runaway_heresy_of_the_rose",
-    "type": 0,
-    "en": "<name> could not speak when [he/she] arrived. [He/She] had been tortured, and bore many bruises and scars. Your best guess was that the Heresy of the Rose were behind it, because <name> made the sign of horns. Would you shelter this fugitive? Chaos would be hard on [his/her] heels.",
-    "vi": "<name> could not speak when [he/she] arrived. [He/She] had been tortured, and bore many bruises and scars. Your best guess was that the Heresy of the Rose were behind it, because <name> made the sign of horns. Would you shelter this fugitive? Chaos would be hard on [his/her] heels."
-  },
-  {
-    "key": "event_runaway_circle_of_avalon",
-    "type": 0,
-    "en": "<name> had been borne away by shining knights, [he/she] said, against [his/her] will. <name> slipped away by night, travelling barefoot along rough and broken roads. ‘Take me in, pray do not forsake me,’ [he/she] pleaded. Would you shelter <name>? Questing paladins might follow.",
-    "vi": "<name> had been borne away by shining knights, [he/she] said, against [his/her] will. <name> slipped away by night, travelling barefoot along rough and broken roads. ‘Take me in, pray do not forsake me,’ [he/she] pleaded. Would you shelter <name>? Questing paladins might follow."
-  },
-  {
-    "key": "event_runaway_beirdd_cymraeg",
-    "type": 0,
-    "en": "<name> appeared sheepish. ‘Can I come inside? There are these bards I want to avoid.’ Wearied by wordplay and lute practice, <name> gave the performers a bad review. ‘I just wanted a bit of peace and quiet,’ [he/she] explained. Will you grant <name> entry? It may come at a price.",
-    "vi": "<name> appeared sheepish. ‘Can I come inside? There are these bards I want to avoid.’ Wearied by wordplay and lute practice, <name> gave the performers a bad review. ‘I just wanted a bit of peace and quiet,’ [he/she] explained. Will you grant <name> entry? It may come at a price."
-  },
-  {
-    "key": "event_runaway_progeny_of_the_plague",
-    "type": 0,
-    "en": "Some said tales of the Progeny eating people were poppycock. But they crossed themselves when <name> appeared, having escaped as the brutes were sharpening their knives. If cannibals came looking for their lunch...would you keep <name> off the menu?",
-    "vi": "Some said tales of the Progeny eating people were poppycock. But they crossed themselves when <name> appeared, having escaped as the brutes were sharpening their knives. If cannibals came looking for their lunch...would you keep <name> off the menu?"
-  },
-  {
-    "key": "event_runaway_ravagers",
-    "type": 0,
-    "en": "You’d never seen anyone run as fast as <name> in your life. ‘They want to eat me!’ [He/She] cried out. Wide eyed, <village_name> settlers checked their children and livestock were gathered in. ‘It’s Ravagers,’ they whispered. Would you help <name> escape? The pursuers may be hungry for revenge.",
-    "vi": "You’d never seen anyone run as fast as <name> in your life. ‘They want to eat me!’ [He/She] cried out. Wide eyed, <village_name> settlers checked their children and livestock were gathered in. ‘It’s Ravagers,’ they whispered. Would you help <name> escape? The pursuers may be hungry for revenge."
-  },
-  {
-    "key": "event_runaway_forest_bandits",
-    "type": 0,
-    "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'"
-  },
-  {
-    "key": "event_runaway_mountain_bandits",
-    "type": 0,
-    "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'"
-  },
-  {
-    "key": "event_runaway_river_bandits",
-    "type": 0,
-    "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'"
-  },
-  {
-    "key": "event_runaway_looters",
-    "type": 0,
-    "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'"
-  },
-  {
-    "key": "event_runaway_scourge",
-    "type": 0,
-    "en": "<name> was badly singed. 'Everything is burned, destroyed!' [He/She] would only say 'it must have been THEM. But I didn't see a soul.' The Scourge may be on the move. Will you give <name> a place to stay?",
-    "vi": "<name> was badly singed. 'Everything is burned, destroyed!' [He/She] would only say 'it must have been THEM. But I didn't see a soul.' The Scourge may be on the move. Will you give <name> a place to stay?"
-  },
-  {
-    "key": "event_claim_runaway_general",
-    "type": 0,
-    "en": "The swarthy jailers wanted your settler, <name>, and they wanted them now. They had to pay for their crimes, or your whole village would pay. It was up to you.",
-    "vi": "The swarthy jailers wanted your settler, <name>, and they wanted them now. They had to pay for their crimes, or your whole village would pay. It was up to you."
-  },
-  {
-    "key": "event_claim_runaway_church_of_third_coming",
-    "type": 0,
-    "en": "The zealots demanded that you relinquish <name> immediately, to be burned at the stake - or possibly flayed alive - for their manifold sins. God's will should be done. They were authorised to kill.",
-    "vi": "The zealots demanded that you relinquish <name> immediately, to be burned at the stake - or possibly flayed alive - for their manifold sins. God's will should be done. They were authorised to kill."
-  },
-  {
-    "key": "event_claim_runaway_ancrene_disciples",
-    "type": 0,
-    "en": "The Disciples argued persuasively that <name> was a cunning servant of Satan. Then they threatened to burn <village_name> to the ground, to purify everything thoroughly if you didn't hand [him/her] over.",
-    "vi": "The Disciples argued persuasively that <name> was a cunning servant of Satan. Then they threatened to burn <village_name> to the ground, to purify everything thoroughly if you didn't hand [him/her] over."
-  },
-  {
-    "key": "event_claim_runaway_faithful_sons_of_england",
-    "type": 0,
-    "en": "The standard bearer made a show of reading out the proclamation: '<name> is disloyal to the crown! [He/She] must be rendered unto us for trial and punishment at King Edmund's pleasure.' His companions stood regimented, formidable, their armour glinting. The Faithful had no intention of leaving empty handed.",
-    "vi": "The standard bearer made a show of reading out the proclamation: '<name> is disloyal to the crown! [He/She] must be rendered unto us for trial and punishment at King Edmund's pleasure.' His companions stood regimented, formidable, their armour glinting. The Faithful had no intention of leaving empty handed."
-  },
-  {
-    "key": "event_claim_runaway_band_of_the she_wolf",
-    "type": 0,
-    "en": "A group of barons and a serf dragging a wheeled metal cage arrived. ‘<name> should come with us,’ commanded the tallest of the nobles. ‘[He/She] is a favourite of Queen Isabella. Bring <name> forth at once, they will not be harmed.’ The serf caught your eye, shaking his head.\n",
-    "vi": "A group of barons and a serf dragging a wheeled metal cage arrived. ‘<name> should come with us,’ commanded the tallest of the nobles. ‘[He/She] is a favourite of Queen Isabella. Bring <name> forth at once, they will not be harmed.’ The serf caught your eye, shaking his head.\n"
-  },
-  {
-    "key": "event_claim_runaway_philosophers_of_the_natural_order",
-    "type": 0,
-    "en": "Some wore beards, others wore spectacles. All of them wore scowls. The Philosophers of the Natural Order approached, fragrant with the scent of parchment and sealing wax. 'Hand over <name>,' said the eldest, pointing a long, ink-stained finger. 'We have a score to settle.'",
-    "vi": "Some wore beards, others wore spectacles. All of them wore scowls. The Philosophers of the Natural Order approached, fragrant with the scent of parchment and sealing wax. 'Hand over <name>,' said the eldest, pointing a long, ink-stained finger. 'We have a score to settle.'"
-  },
-  {
-    "key": "event_claim_runaway_society_of_fellows",
-    "type": 0,
-    "en": "The assembled Fellows had the air of robbers at an alefest: rather drunk, and speaking balderdash to obscure their true intentions. Indeed, you realised that their overblown flattery amounted to nought, masking a plot to kidnap <name> while you were distracted. Would you let them get away with it?",
-    "vi": "The assembled Fellows had the air of robbers at an alefest: rather drunk, and speaking balderdash to obscure their true intentions. Indeed, you realised that their overblown flattery amounted to nought, masking a plot to kidnap <name> while you were distracted. Would you let them get away with it?"
-  },
-  {
-    "key": "event_claim_runaway_kingdom_of_york",
-    "type": 0,
-    "en": "Purvey’s bailiff stood, arms crossed, legs splayed wide. A hefty, northern woman, not to be trifled with. ‘Give <name> over,’ she grunted, ‘if ‘ee want no trouble.’ The labourers behind her fidgeted, impatient to engage, then settle in for a night’s drinking.  Is <name> worth fighting for?",
-    "vi": "Purvey’s bailiff stood, arms crossed, legs splayed wide. A hefty, northern woman, not to be trifled with. ‘Give <name> over,’ she grunted, ‘if ‘ee want no trouble.’ The labourers behind her fidgeted, impatient to engage, then settle in for a night’s drinking.  Is <name> worth fighting for?"
-  },
-  {
-    "key": "event_claim_runaway_heresy_of_the_rose",
-    "type": 0,
-    "en": "Alone, the Heretic drew a series of symbols on the ground at <village_name>’s entrance. After some hours, their pained expression suggested considerable exertion. Finally, they killed a hen, spreading the blood. <name>, <name>… they chanted. ‘Give me <name>.’ <village_name>’s settlers were petrified. What ghastly horrors might rise up, if they refused?",
-    "vi": "Alone, the Heretic drew a series of symbols on the ground at <village_name>’s entrance. After some hours, their pained expression suggested considerable exertion. Finally, they killed a hen, spreading the blood. <name>, <name>… they chanted. ‘Give me <name>.’ <village_name>’s settlers were petrified. What ghastly horrors might rise up, if they refused?"
-  },
-  {
-    "key": "event_claim_runaway_circle_of_avalon",
-    "type": 0,
-    "en": "‘I am here for <name>’s head,’ quoth the knight, bowing as deeply as her armour allowed. ‘I have quested for a year and a day, and I now claim my rightful prize.’ A retinue of burnished knights accompanied her, mounted on palfreys and decked with ribbons. Will you yield <name>?",
-    "vi": "‘I am here for <name>’s head,’ quoth the knight, bowing as deeply as her armour allowed. ‘I have quested for a year and a day, and I now claim my rightful prize.’ A retinue of burnished knights accompanied her, mounted on palfreys and decked with ribbons. Will you yield <name>?"
-  },
-  {
-    "key": "event_claim_runaway_beirdd_cymraeg",
-    "type": 0,
-    "en": "The bard began to tell an achingly beautiful saga of broken promises, a fugitive, an oath. Hair flowing, eyes closed, his fingers ran over a small harp, the ethereal music sweetening the enchantment. You would let <name> come away, would you not? Spellbound, you nonetheless had to choose.",
-    "vi": "The bard began to tell an achingly beautiful saga of broken promises, a fugitive, an oath. Hair flowing, eyes closed, his fingers ran over a small harp, the ethereal music sweetening the enchantment. You would let <name> come away, would you not? Spellbound, you nonetheless had to choose."
-  },
-  {
-    "key": "event_claim_runaway_progeny_of_the_plague",
-    "type": 0,
-    "en": "Armed, hulking and pitiless, the circling raiders cried out a terrible ultimatum: Their raid was to be swift and brutal, unless you yielded <name> to them. They knew exactly what they wanted.",
-    "vi": "Armed, hulking and pitiless, the circling raiders cried out a terrible ultimatum: Their raid was to be swift and brutal, unless you yielded <name> to them. They knew exactly what they wanted."
-  },
-  {
-    "key": "event_claim_runaway_ravagers",
-    "type": 0,
-    "en": "They came with butchers knives, wearing bloody aprons. 'Fe, fi, fo, fum, I smell the blood of Englishmen,' shouted the largest, laughing uproariously. Some had set up campfires with spits and large pots, 'Send <name> on out then, we're ready for our dinner.'",
-    "vi": "They came with butchers knives, wearing bloody aprons. 'Fe, fi, fo, fum, I smell the blood of Englishmen,' shouted the largest, laughing uproariously. Some had set up campfires with spits and large pots, 'Send <name> on out then, we're ready for our dinner.'"
-  },
-  {
-    "key": "event_claim_runaway_forest_bandits",
-    "type": 0,
-    "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious."
-  },
-  {
-    "key": "event_claim_runaway_mountain_bandits",
-    "type": 0,
-    "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious."
-  },
-  {
-    "key": "event_claim_runaway_river_bandits",
-    "type": 0,
-    "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious."
-  },
-  {
-    "key": "event_claim_runaway_looters",
-    "type": 0,
-    "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious."
-  },
-  {
-    "key": "event_claim_runaway_scourge",
-    "type": 0,
-    "en": "You cannot discuss settler rendition with the Scourge",
-    "vi": "You cannot discuss settler rendition with the Scourge"
-  },
-  {
-    "key": "event_runaway_trade_successful_general",
-    "type": 0,
-    "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>."
-  },
-  {
-    "key": "event_runaway_trade_successful_church_of_third_coming",
-    "type": 0,
-    "en": "The zealots accepted <village_name>'s terms. 'We have been merciful,' said their leader. 'You may not be so lucky next time.'",
-    "vi": "The zealots accepted <village_name>'s terms. 'We have been merciful,' said their leader. 'You may not be so lucky next time.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_ancrene_disciples",
-    "type": 0,
-    "en": "Finally, the disciples yielded. 'We shall pray for your eternal souls,' one murmured, turning away. '<name> is a sinner.'",
-    "vi": "Finally, the disciples yielded. 'We shall pray for your eternal souls,' one murmured, turning away. '<name> is a sinner.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_faithful_sons_of_england",
-    "type": 0,
-    "en": "The herald found it confusing that <village_name> did not yield to the self-proclaimed King Edmund's decree. After much bluster, they accepted a bribe and left.",
-    "vi": "The herald found it confusing that <village_name> did not yield to the self-proclaimed King Edmund's decree. After much bluster, they accepted a bribe and left."
-  },
-  {
-    "key": "event_runaway_trade_successful_band_of_the she_wolf",
-    "type": 0,
-    "en": "The noble bowed, almost courteously. 'You are not as foolish as you look. Let us hope Her Majesty accepts this. Au revoir.'",
-    "vi": "The noble bowed, almost courteously. 'You are not as foolish as you look. Let us hope Her Majesty accepts this. Au revoir.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_philosophers_of_the_natural_order",
-    "type": 0,
-    "en": " 'You have made your choice,' scoffed the elder philosopher, reaching out to grab [his/her] payment. 'Very well! Enjoy <name>'s company. You deserve each other!'",
-    "vi": " 'You have made your choice,' scoffed the elder philosopher, reaching out to grab [his/her] payment. 'Very well! Enjoy <name>'s company. You deserve each other!'"
-  },
-  {
-    "key": "event_runaway_trade_successful_society_of_fellows",
-    "type": 0,
-    "en": "The Dons' cunning plan to capture <name> collapsed somewhat under the considerable weight of their combined intellects, as they argued over the minutia of how to proceed. Ultimately, the boffins agreed to be paid off, and continue scheming elsewhere.",
-    "vi": "The Dons' cunning plan to capture <name> collapsed somewhat under the considerable weight of their combined intellects, as they argued over the minutia of how to proceed. Ultimately, the boffins agreed to be paid off, and continue scheming elsewhere."
-  },
-  {
-    "key": "event_runaway_trade_successful_kingdom_of_york",
-    "type": 0,
-    "en": "The bailiff spat on the floor, presumably to signal she accepted the deal. 'Suit yerself, <name>'s a wrong'un any road.'",
-    "vi": "The bailiff spat on the floor, presumably to signal she accepted the deal. 'Suit yerself, <name>'s a wrong'un any road.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_heresy_of_the_rose",
-    "type": 0,
-    "en": "The Heretic circled three times, picking up <village_name>'s offering. 'Blood for blood,' they muttered, as they dragged the dead hen with them into the bushes, and disappeared.",
-    "vi": "The Heretic circled three times, picking up <village_name>'s offering. 'Blood for blood,' they muttered, as they dragged the dead hen with them into the bushes, and disappeared."
-  },
-  {
-    "key": "event_runaway_trade_successful_circle_of_avalon",
-    "type": 0,
-    "en": "The knight accepted with dignity and honour. 'It seems I have more to learn before I am worthy of this prize.' She left with her bright-bannered retinue, and <name> kept their head.",
-    "vi": "The knight accepted with dignity and honour. 'It seems I have more to learn before I am worthy of this prize.' She left with her bright-bannered retinue, and <name> kept their head."
-  },
-  {
-    "key": "event_runaway_trade_successful_beirdd_cymraeg",
-    "type": 0,
-    "en": "Notes of the bard's song carried on the wind as he wandered away, over the hills:\\n\\n\n<i>'I called to them in song, but they did not come along,\\n\nI sang of love's sweet grace, where the willow's shadows throng.\\n\nI pleaded with my strings, yet <name> remained austere,\\n\nNow my heart is aching, but my gold is gathered near.</i>",
-    "vi": "Notes of the bard's song carried on the wind as he wandered away, over the hills:\\n\\n\n<i>'I called to them in song, but they did not come along,\\n\nI sang of love's sweet grace, where the willow's shadows throng.\\n\nI pleaded with my strings, yet <name> remained austere,\\n\nNow my heart is aching, but my gold is gathered near.</i>"
-  },
-  {
-    "key": "event_runaway_trade_successful_progeny_of_the_plague",
-    "type": 0,
-    "en": "Despite the band's eagerness to fight, the cooler heads of their generals prevailed. 'Come on,' one said, as they all skulked away, grumbling. 'We can get a lot of ale with this ransom.'",
-    "vi": "Despite the band's eagerness to fight, the cooler heads of their generals prevailed. 'Come on,' one said, as they all skulked away, grumbling. 'We can get a lot of ale with this ransom.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_ravagers",
-    "type": 0,
-    "en": "The chef seemed disappointed, 'Ah well. I'll have to adjust the menu for this week. Pity. But I'm sure there are others we can invite for supper, aside from <name>.'",
-    "vi": "The chef seemed disappointed, 'Ah well. I'll have to adjust the menu for this week. Pity. But I'm sure there are others we can invite for supper, aside from <name>.'"
-  },
-  {
-    "key": "event_runaway_trade_successful_forest_bandits",
-    "type": 0,
-    "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>."
-  },
-  {
-    "key": "event_runaway_trade_successful_mountain_bandits",
-    "type": 0,
-    "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>."
-  },
-  {
-    "key": "event_runaway_trade_successful_river_bandits",
-    "type": 0,
-    "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>."
-  },
-  {
-    "key": "event_runaway_trade_successful_looters",
-    "type": 0,
-    "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>."
-  },
-  {
-    "key": "event_raid_villager_general_accept",
-    "type": 0,
-    "en": "<name> shuffled slowly towards [his/her] captors, head bowed. This was inevitable, or so you told yourself.",
-    "vi": "<name> shuffled slowly towards [his/her] captors, head bowed. This was inevitable, or so you told yourself."
-  },
-  {
-    "key": "event_runaway_03",
-    "type": 0,
-    "en": "<name> had bruises on [his/her] arms. [He/She] shrunk from human touch but gladly accepted food and water. <name> expected to be rejected - somewhere outside your gates there was an abuser looking to punish [him/her]. But could you let [him/her] in?",
-    "vi": "<name> had bruises on [his/her] arms. [He/She] shrunk from human touch but gladly accepted food and water. <name> expected to be rejected - somewhere outside your gates there was an abuser looking to punish [him/her]. But could you let [him/her] in?"
-  },
-  {
-    "key": "event_runaway_03_b",
-    "type": 0,
-    "en": "They wheedled, they begged, and finally they threatened murder if you didn't hand over their spouse. The thug wanted you to quit shielding <name>...so they could 'start over.' <name> was terrified.",
-    "vi": "They wheedled, they begged, and finally they threatened murder if you didn't hand over their spouse. The thug wanted you to quit shielding <name>...so they could 'start over.' <name> was terrified."
-  },
-  {
-    "key": "event_runaway_03_b_accept",
-    "type": 0,
-    "en": "<name> shuffled slowly towards [his/her] abuser, head bowed. You looked away, hoping that discretion was the better part of valour.",
-    "vi": "<name> shuffled slowly towards [his/her] abuser, head bowed. You looked away, hoping that discretion was the better part of valour."
-  },
-  {
-    "key": "event_runaway_05_b_accept",
-    "type": 0,
-    "en": "<name> shuffled slowly towards [his/her] captors, eyes wide with terror. [He/She] would be lucky to see another sunrise.",
-    "vi": "<name> shuffled slowly towards [his/her] captors, eyes wide with terror. [He/She] would be lucky to see another sunrise."
-  },
-  {
-    "key": "event_runaway_villager_cant_leave_01",
-    "type": 0,
-    "en": "The enemy was not amused. They departed raging, accusing you of trickery.",
-    "vi": "The enemy was not amused. They departed raging, accusing you of trickery."
-  },
-  {
-    "key": "event_runaway_villager_cant_leave_02",
-    "type": 0,
-    "en": "The enemy was not amused. They accused you of trickery, and prepared to attack!",
-    "vi": "The enemy was not amused. They accused you of trickery, and prepared to attack!"
-  },
-  {
-    "key": "event_supernatural_01",
-    "type": 0,
-    "en": "Settlers like their folk traditions. So, when a figure with a great wooden head topped with bulls' horns cavorted through <village_name>, it was just a bit of fun. The next morning, <resource> was missing. None of the settlers owned up. Was it Old Nick?",
-    "vi": "Settlers like their folk traditions. So, when a figure with a great wooden head topped with bulls' horns cavorted through <village_name>, it was just a bit of fun. The next morning, <resource> was missing. None of the settlers owned up. Was it Old Nick?"
-  },
-  {
-    "key": "event_supernatural_02",
-    "type": 0,
-    "en": "When they heard howling and baying, the settlers huddled closer. The Welsh said it's Gwyn app Nudd and the hounds of Annwn, but most of <village_name> favoured Woden or Herne. The terror was real: People and animals go missing when the Hunt is abroad.",
-    "vi": "When they heard howling and baying, the settlers huddled closer. The Welsh said it's Gwyn app Nudd and the hounds of Annwn, but most of <village_name> favoured Woden or Herne. The terror was real: People and animals go missing when the Hunt is abroad."
-  },
-  {
-    "key": "event_supernatural_03",
-    "type": 0,
-    "en": "Oxford sages warned of a sickness of itching, vomiting and blackened extremities, which strikes after damp weather at harvest time. The faithful simply blamed Beelzebub. Either way, stricken <village_name> workers became delirious and unproductive.",
-    "vi": "Oxford sages warned of a sickness of itching, vomiting and blackened extremities, which strikes after damp weather at harvest time. The faithful simply blamed Beelzebub. Either way, stricken <village_name> workers became delirious and unproductive."
-  },
-  {
-    "key": "event_thunderstorm_01",
-    "type": 0,
-    "en": "Unexpected thunder roared, crashing through the bruised sky. A violent presence, intruding like a bad omen, held echos of a heathen god. Fork lightening flickered and blazed towards the ground, splitting a mighty oak. ",
-    "vi": "Unexpected thunder roared, crashing through the bruised sky. A violent presence, intruding like a bad omen, held echos of a heathen god. Fork lightening flickered and blazed towards the ground, splitting a mighty oak. "
-  },
-  {
-    "key": "game_event_type_raid",
-    "type": 0,
-    "en": "Raid",
-    "vi": "Raid"
-  },
-  {
-    "key": "raid_won",
-    "type": 0,
-    "en": "This time, <village_name> won the day. Battleweary, its warriors gave thanks.",
-    "vi": "This time, <village_name> won the day. Battleweary, its warriors gave thanks."
-  },
-  {
-    "key": "raid_lost",
-    "type": 0,
-    "en": "Ill-prepared and overpowered, <village_name> conceded defeat in this battle.",
-    "vi": "Ill-prepared and overpowered, <village_name> conceded defeat in this battle."
-  },
-  {
-    "key": "raid_tie",
-    "type": 0,
-    "en": "Neither <village_name> nor its foe gained the upper hand in this clash.",
-    "vi": "Neither <village_name> nor its foe gained the upper hand in this clash."
-  },
-  {
-    "key": "raid_won_name",
-    "type": 0,
-    "en": "Victory!",
-    "vi": "Victory!"
-  },
-  {
-    "key": "raid_lost_name",
-    "type": 0,
-    "en": "Defeat",
-    "vi": "Defeat"
-  },
-  {
-    "key": "raid_tie_name",
-    "type": 0,
-    "en": "Tie",
-    "vi": "Tie"
-  },
-  {
-    "key": "raid_outcome",
-    "type": 0,
-    "en": "The beleaguered settlers came under attack in the <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the raid.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> died during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to the foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most damage from the enemy, thinking only of defending <village_name> in its hour of need.</if_most_damage_taken>\n<if_no_most_damage_taken>Thankfully, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>\n<if_buildings_destroyed>Some of the buildings of <village_name> were destroyed under the bombardment of enemy weapons: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>",
-    "vi": "The beleaguered settlers came under attack in the <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the raid.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> died during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to the foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most damage from the enemy, thinking only of defending <village_name> in its hour of need.</if_most_damage_taken>\n<if_no_most_damage_taken>Thankfully, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>\n<if_buildings_destroyed>Some of the buildings of <village_name> were destroyed under the bombardment of enemy weapons: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>"
-  },
-  {
-    "key": "raid_outcome_resources",
-    "type": 0,
-    "en": "Enemies absconded with <resource_list>",
-    "vi": "Enemies absconded with <resource_list>"
-  },
-  {
-    "key": "dialogOptionEffect_PossibleRaid",
-    "type": 0,
-    "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
-    "vi": "<style=DefaultRed>Expect a possible attack in a couple of days</style>"
-  },
-  {
-    "key": "dialogOptionEffect_RaidImminent",
-    "type": 0,
-    "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
-    "vi": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>"
-  },
-  {
-    "key": "dialogOptionEffect_AnimalRaidImminent",
-    "type": 0,
-    "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
-    "vi": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>"
-  },
-  {
-    "key": "eventOptionEffect_PossibleRaid",
-    "type": 0,
-    "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
-    "vi": "<style=DefaultRed>Expect a possible attack in a couple of days</style>"
-  },
-  {
-    "key": "eventOptionEffect_RaidImminent",
-    "type": 0,
-    "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
-    "vi": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>"
-  },
-  {
-    "key": "eventOptionEffect_AnimalRaidImminent",
-    "type": 0,
-    "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
-    "vi": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>"
-  },
-  {
-    "key": "event_name_shakedown_general",
-    "type": 0,
-    "en": "Extortion by <faction_name>",
-    "vi": "Extortion by <faction_name>"
-  },
-  {
-    "key": "event_shakedown_negotiator_arrival",
-    "type": 0,
-    "en": "A figure from <faction_name> appears just outside <village_name>. [He/She] seeks an audience to strike a deal.",
-    "vi": "A figure from <faction_name> appears just outside <village_name>. [He/She] seeks an audience to strike a deal."
-  },
-  {
-    "key": "event_shakedown_general",
-    "type": 0,
-    "en": " 'Such a lovely place, <village_name>' the stranger drawled. 'For a reasonable fee, we can ensure nothing happens to spoil it.' [His/Her] meaning was clear.",
-    "vi": " 'Such a lovely place, <village_name>' the stranger drawled. 'For a reasonable fee, we can ensure nothing happens to spoil it.' [His/Her] meaning was clear."
-  },
-  {
-    "key": "event_shakedown_church_of_third_coming",
-    "type": 0,
-    "en": " 'God commands us to punish <village_name> for its manifold sins,' the zealot shrieked. 'Pay us penance, and we will offer you His mercy instead.'",
-    "vi": " 'God commands us to punish <village_name> for its manifold sins,' the zealot shrieked. 'Pay us penance, and we will offer you His mercy instead.'"
-  },
-  {
-    "key": "event_shakedown_ancrene_disciples",
-    "type": 0,
-    "en": "The mystic leaned forward. 'St Menwreda appeared in a dream, showing <village_name> purified by fire. What offering will you make for our prayers, to avoid this terrible fate?'",
-    "vi": "The mystic leaned forward. 'St Menwreda appeared in a dream, showing <village_name> purified by fire. What offering will you make for our prayers, to avoid this terrible fate?'"
-  },
-  {
-    "key": "event_shakedown_faithful_sons_of_england",
-    "type": 0,
-    "en": "The messenger came straight to the point. 'Sir Hugh Gaveston has decreed that <village_name> is to benefit from our protection. And that you must pay for it. Settlements that do not comply will be razed to the ground.'",
-    "vi": "The messenger came straight to the point. 'Sir Hugh Gaveston has decreed that <village_name> is to benefit from our protection. And that you must pay for it. Settlements that do not comply will be razed to the ground.'"
-  },
-  {
-    "key": "event_shakedown_band_of_the she_wolf",
-    "type": 0,
-    "en": " '<village_name> lands are under the protetion of my lord, the Baron.' The negotiator gave a Gallic shrug. 'Peasants who pay him rent generally live longer, vous comprenez?'",
-    "vi": " '<village_name> lands are under the protetion of my lord, the Baron.' The negotiator gave a Gallic shrug. 'Peasants who pay him rent generally live longer, vous comprenez?'"
-  },
-  {
-    "key": "event_shakedown_philosophers_of_the_natural_order",
-    "type": 0,
-    "en": "The philosopher was hard to argue with. 'Our continuous study benefits the entire region,' [He/She] said. 'And <village_name> must contribute. We understand Nature's immeasurable forces, and you don't want those turned against you now, do you?'",
-    "vi": "The philosopher was hard to argue with. 'Our continuous study benefits the entire region,' [He/She] said. 'And <village_name> must contribute. We understand Nature's immeasurable forces, and you don't want those turned against you now, do you?'"
-  },
-  {
-    "key": "event_shakedown_society_of_fellows",
-    "type": 0,
-    "en": "The negotiator was wearing a bloody apron. 'We need corpses for our plague medicine experiments. <village_name> settlers have been selected to take part! We're keen to get started, but you can opt out for a reasonable fee.'",
-    "vi": "The negotiator was wearing a bloody apron. 'We need corpses for our plague medicine experiments. <village_name> settlers have been selected to take part! We're keen to get started, but you can opt out for a reasonable fee.'"
-  },
-  {
-    "key": "event_shakedown_kingdom_of_york",
-    "type": 0,
-    "en": " 'It behoves all working peasants to contribute to our cause,' said the negotiator, feet planted firmly on the soil. 'If you refuse, we must assume you harbour Monarchist sympathisers, and punish <village_name> accordingly. So are you paying, or what?' ",
-    "vi": " 'It behoves all working peasants to contribute to our cause,' said the negotiator, feet planted firmly on the soil. 'If you refuse, we must assume you harbour Monarchist sympathisers, and punish <village_name> accordingly. So are you paying, or what?' "
-  },
-  {
-    "key": "event_shakedown_heresy_of_the_rose",
-    "type": 0,
-    "en": " 'Now society is over, I can just tell you to give me your coin. You know what we Heretics are like - we will bring chaos and death to <village_name> if you decide not to pay.'",
-    "vi": " 'Now society is over, I can just tell you to give me your coin. You know what we Heretics are like - we will bring chaos and death to <village_name> if you decide not to pay.'"
-  },
-  {
-    "key": "event_shakedown_circle_of_avalon",
-    "type": 0,
-    "en": "Who would anger the Druids? Not <village_name>, surely? A simple offering can ensure Myrddin's dragons stay sleeping. You really don't want to feel their fiery breath...'",
-    "vi": "Who would anger the Druids? Not <village_name>, surely? A simple offering can ensure Myrddin's dragons stay sleeping. You really don't want to feel their fiery breath...'"
-  },
-  {
-    "key": "event_shakedown_beirdd_cymraeg",
-    "type": 0,
-    "en": "<i>' 'Heed this bard's advice,\\n\nlet generosity prevail,\\n\nFor with coin's exchange,\\nyour fortune shall not fail.\\n\nWith melodies of joy, we'll bid you adieu,\\n\nPay the piper, dear <village_name>,\\n\nand let blessings ensue.'</i>'",
-    "vi": "<i>' 'Heed this bard's advice,\\n\nlet generosity prevail,\\n\nFor with coin's exchange,\\nyour fortune shall not fail.\\n\nWith melodies of joy, we'll bid you adieu,\\n\nPay the piper, dear <village_name>,\\n\nand let blessings ensue.'</i>'"
-  },
-  {
-    "key": "event_shakedown_progeny_of_the_plague",
-    "type": 0,
-    "en": " 'We are hungry. And the settlers of <village_name> look plump.' The cannibal licked [his/her] lips. 'But we are not unreasonable. If you pay enough, we will hunt elsewhere.'",
-    "vi": " 'We are hungry. And the settlers of <village_name> look plump.' The cannibal licked [his/her] lips. 'But we are not unreasonable. If you pay enough, we will hunt elsewhere.'"
-  },
-  {
-    "key": "event_shakedown_ravagers",
-    "type": 0,
-    "en": "The chef drove a hard bargain. 'I have a selection of delicious blood pudding here for sale. I'm always seeking out local ingredients, perhaps some <village_name> citizens? But I can be incentivised to gather meat from further afield, for a price.",
-    "vi": "The chef drove a hard bargain. 'I have a selection of delicious blood pudding here for sale. I'm always seeking out local ingredients, perhaps some <village_name> citizens? But I can be incentivised to gather meat from further afield, for a price."
-  },
-  {
-    "key": "event_shakedown_forest_bandits",
-    "type": 0,
-    "en": "It was hard to tell if [he/she] was animal or human. 'The Wild Hunt rides through <village_name>,' [he/she] growled. 'Pay or be prey, I don't care.'",
-    "vi": "It was hard to tell if [he/she] was animal or human. 'The Wild Hunt rides through <village_name>,' [he/she] growled. 'Pay or be prey, I don't care.'"
-  },
-  {
-    "key": "event_shakedown_mountain_bandits",
-    "type": 0,
-    "en": "The wildling's hide smelled sour and filthy. 'A hoard of mountain clan surrounds <village_name>,' [he/she] said. 'You will not survive our attack. So make it worth our while to walk to the next settlement and destroy them in your stead.'",
-    "vi": "The wildling's hide smelled sour and filthy. 'A hoard of mountain clan surrounds <village_name>,' [he/she] said. 'You will not survive our attack. So make it worth our while to walk to the next settlement and destroy them in your stead.'"
-  },
-  {
-    "key": "event_shakedown_river_bandits",
-    "type": 0,
-    "en": " 'Drowning is a painful way to die.' The pirate mused to [him/her]self. 'It's customary to offer something to the ferryman... and I'm sure the folk of <village_name> all want to keep their heads above water.'",
-    "vi": " 'Drowning is a painful way to die.' The pirate mused to [him/her]self. 'It's customary to offer something to the ferryman... and I'm sure the folk of <village_name> all want to keep their heads above water.'"
-  },
-  {
-    "key": "event_shakedown_looters",
-    "type": 0,
-    "en": " 'You know the score. We loot, you die. Unless you want to bribe us with something. But make it worthwhile, I don't want to waste time chatting.'",
-    "vi": " 'You know the score. We loot, you die. Unless you want to bribe us with something. But make it worthwhile, I don't want to waste time chatting.'"
-  },
-  {
-    "key": "event_shakedown_scourge",
-    "type": 0,
-    "en": "Ragged breath escaped from the foetid darkness beneath its hood. Can the Scourge can be bargained with? Maybe settlers of <village_name> could try to throw it something, and hope it goes away.",
-    "vi": "Ragged breath escaped from the foetid darkness beneath its hood. Can the Scourge can be bargained with? Maybe settlers of <village_name> could try to throw it something, and hope it goes away."
-  },
-  {
-    "key": "event_shakedown_demands_satisfied",
-    "type": 0,
-    "en": "<faction_name> appeared satisfied with what you offered in exchange for protection. As they disappeared into the distance, you had the uncomfortable realisation that they would be back. ",
-    "vi": "<faction_name> appeared satisfied with what you offered in exchange for protection. As they disappeared into the distance, you had the uncomfortable realisation that they would be back. "
-  },
-  {
-    "key": "event_answer_shakedown_decline",
-    "type": 0,
-    "en": "The people of <village_name> said 'no'. ",
-    "vi": "The people of <village_name> said 'no'. "
-  },
-  {
-    "key": "event_answer_shakedown_give",
-    "type": 0,
-    "en": "You decided to make them an offer.",
-    "vi": "You decided to make them an offer."
-  },
-  {
-    "key": "event_answer_shakedown_leave",
-    "type": 0,
-    "en": "Leave negotiation",
-    "vi": "Leave negotiation"
-  },
-  {
-    "key": "event_runaway_err_runaway_negotiator",
-    "type": 0,
-    "en": "<name> refuses to negotiate with the search party that's pursuing [him/her].",
-    "vi": "<name> refuses to negotiate with the search party that's pursuing [him/her]."
-  },
-  {
-    "key": "runaway_faction_wont_trade_tooltip",
-    "type": 0,
-    "en": "This faction only wants <name>, and nothing else will do. ",
-    "vi": "This faction only wants <name>, and nothing else will do. "
-  },
-  {
-    "key": "event_beggar_text",
-    "type": 0,
-    "en": "Can you spare some sustenance for a poor soul in need?",
-    "vi": "Can you spare some sustenance for a poor soul in need?"
-  },
-  {
-    "key": "event_answer_beggar_give",
-    "type": 0,
-    "en": "Give the beggar something",
-    "vi": "Give the beggar something"
-  },
-  {
-    "key": "event_answer_beggar_decline",
-    "type": 0,
-    "en": "Send the beggar away",
-    "vi": "Send the beggar away"
-  },
-  {
-    "key": "event_answer_beggar_leave",
-    "type": 0,
-    "en": "Leave",
-    "vi": "Leave"
-  },
-  {
-    "key": "event_beggar_title",
-    "type": 0,
-    "en": "A beggar in need",
-    "vi": "A beggar in need"
-  },
-  {
-    "key": "event_beggar_arrival_text",
-    "type": 0,
-    "en": "A dusty vagrant shambled into <village_name>, and is pleading for charity.",
-    "vi": "A dusty vagrant shambled into <village_name>, and is pleading for charity."
-  },
-  {
-    "key": "event_stash_discovered",
-    "type": 0,
-    "en": "Hidden Stash",
-    "vi": "Hidden Stash"
-  },
-  {
-    "key": "event_stash_discovered_text",
-    "type": 0,
-    "en": "The location of a potential hidden stash has been marked on your regional map. These locations may harbour wild animals, or even hostile people.",
-    "vi": "The location of a potential hidden stash has been marked on your regional map. These locations may harbour wild animals, or even hostile people."
-  },
-  {
-    "key": "event_quality_points",
-    "type": 0,
-    "en": "Event quality points",
-    "vi": "Event quality points"
-  },
-  {
-    "key": "event_quality_participants_name",
-    "type": 0,
-    "en": "Participants",
-    "vi": "Participants"
-  },
-  {
-    "key": "event_quality_roomImpressiveness_name",
-    "type": 0,
-    "en": "Room Impressiveness",
-    "vi": "Room Impressiveness"
-  },
-  {
-    "key": "event_quality_foodVariety_name",
-    "type": 0,
-    "en": "Food variety",
-    "vi": "Food variety"
-  },
-  {
-    "key": "event_quality_nutrition_name",
-    "type": 0,
-    "en": "Nutrition per person",
-    "vi": "Nutrition per person"
-  },
-  {
-    "key": "event_quality_foodQuality_name",
-    "type": 0,
-    "en": "Food quality",
-    "vi": "Food quality"
-  },
-  {
-    "key": "event_quality_alcohol_name",
-    "type": 0,
-    "en": "Alcohol per person",
-    "vi": "Alcohol per person"
-  },
-  {
-    "key": "event_quality_role_name",
-    "type": 0,
-    "en": "Participant with role (<role_name>)",
-    "vi": "Participant with role (<role_name>)"
-  },
-  {
-    "key": "event_quality_resourceAmount_name",
-    "type": 0,
-    "en": "Communion Bread & Wine",
-    "vi": "Communion Bread & Wine"
-  },
-  {
-    "key": "event_quality_sacrificeQuality_name",
-    "type": 0,
-    "en": "Sacrifice Quality",
-    "vi": "Sacrifice Quality"
-  },
-  {
-    "key": "event_quality_unique_resource_count_name",
-    "type": 0,
-    "en": "Textbook present",
-    "vi": "Textbook present"
-  },
-  {
-    "key": "event_quality_trainEquipAmount_name",
-    "type": 0,
-    "en": "Training Equipment",
-    "vi": "Training Equipment"
-  },
-  {
-    "key": "event_requ_food",
-    "type": 0,
-    "en": "Food",
-    "vi": "Food"
-  },
-  {
-    "key": "event_requ_beverages",
-    "type": 0,
-    "en": "Beverages",
-    "vi": "Beverages"
-  },
-  {
-    "key": "event_quality_lvl_name_neutral",
-    "type": 0,
-    "en": "Ordinary",
-    "vi": "Ordinary"
-  },
-  {
-    "key": "event_quality_lvl_name_terrible",
-    "type": 0,
-    "en": "Appalling",
-    "vi": "Appalling"
+    "vi": "Chiếc khiên <item_name> của <target_name> chống đỡ đòn đánh thật quá đỗi kiên cố, <agent_name> thầm nghĩ đầy thán phục."
   }
 ]

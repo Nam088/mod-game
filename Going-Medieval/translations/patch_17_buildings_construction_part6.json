@@ -1,0 +1,62 @@
+[
+  {
+    "key": "dev_craftable_buildings_enabled_on",
+    "type": 0,
+    "en": "Craftable Buildings Menu: On",
+    "vi": "Menu công trình có thể chế tác: Bật"
+  },
+  {
+    "key": "dev_tooltip_craftable_buildings_enabled",
+    "type": 0,
+    "en": "If on will enable craftable buildings being built from the Construction menu",
+    "vi": "Nếu bật, cho phép xây dựng các công trình có thể chế tác trực tiếp từ menu Xây Dựng"
+  },
+  {
+    "key": "dev_convertAllBuildingsToEnemyOwned",
+    "type": 0,
+    "en": "Convert All Buildings to Enemy Owned",
+    "vi": "Chuyển toàn bộ công trình thuộc sở hữu kẻ thù"
+  },
+  {
+    "key": "dev_tooltip_convertAllBuildingsToEnemyOwned",
+    "type": 0,
+    "en": "Convert all player buildings to enemy buildings.",
+    "vi": "Chuyển toàn bộ công trình của người chơi thành công trình của kẻ thù."
+  },
+  {
+    "key": "dev_destroy_all_buildings",
+    "type": 0,
+    "en": "Destroy All Buildings",
+    "vi": "Phá hủy toàn bộ công trình"
+  },
+  {
+    "key": "dev_tooltip_destroy_all_buildings",
+    "type": 0,
+    "en": "Destroys all buildings on the map",
+    "vi": "Phá hủy toàn bộ tất cả công trình trên bản đồ"
+  },
+  {
+    "key": "dev_enable_manual_construct_commander_input",
+    "type": 0,
+    "en": "Manual Construct Input",
+    "vi": "Lệnh xây dựng thủ công"
+  },
+  {
+    "key": "dev_tooltip_enable_manual_construct_commander_input",
+    "type": 0,
+    "en": "Sets the first commander agent to the debug manual construct one",
+    "vi": "Gán đặc vụ chỉ huy đầu tiên sang chế độ gỡ lỗi xây dựng thủ công"
+  },
+  {
+    "key": "dev_advance_building_phase",
+    "type": 0,
+    "en": "Advance Building Phase",
+    "vi": "Đẩy nhanh giai đoạn xây dựng"
+  },
+  {
+    "key": "dev_tooltip_advance_building_phase",
+    "type": 0,
+    "en": "Click on a building to change its building phase from blueprint to foundation and from foundation to complete",
+    "vi": "Nhấp vào một công trình để chuyển đổi giai đoạn xây dựng từ bản vẽ sang nền móng, và từ nền móng sang hoàn tất"
+  }
+]

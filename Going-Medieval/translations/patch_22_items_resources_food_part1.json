@@ -1,0 +1,902 @@
+[
+  {
+    "key": "resource_name_enemy",
+    "type": 0,
+    "en": "Enemy Corpse",
+    "vi": "Thi Thể Kẻ Địch"
+  },
+  {
+    "key": "resource_name_worker",
+    "type": 0,
+    "en": "Settler Corpse",
+    "vi": "Thi Thể Dân Làng"
+  },
+  {
+    "key": "forbidden_resource",
+    "type": 0,
+    "en": "Forbidden",
+    "vi": "Bị Cấm Thu Gom"
+  },
+  {
+    "key": "forbidden_resource_info",
+    "type": 0,
+    "en": "This resource pile is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this resource by clicking 'allow' or by using the allow order.",
+    "vi": "Đống tài nguyên này đang ở trạng thái <LinkAlmanac=\"Tutorialforbid\">Bị cấm</link>. Dân làng sẽ không tương tác hay khuân vác cho tới khi được bạn cho phép. Nhấp vào nút 'Cho phép' hoặc dùng lệnh cho phép trên thanh công cụ."
+  },
+  {
+    "key": "crop_freeze_temperature",
+    "type": 0,
+    "en": "Plant death temperature",
+    "vi": "Nhiệt độ gây chết cóng"
+  },
+  {
+    "key": "crop_grow_time",
+    "type": 0,
+    "en": "Grow time",
+    "vi": "Thời gian sinh trưởng"
+  },
+  {
+    "key": "crop_grow_life_span",
+    "type": 0,
+    "en": "Life span",
+    "vi": "Vòng đời sinh trưởng"
+  },
+  {
+    "key": "crop_stop_temperature",
+    "type": 0,
+    "en": "Growth stop temperature",
+    "vi": "Nhiệt độ ngừng sinh trưởng"
+  },
+  {
+    "key": "crop_min_sow_temperature",
+    "type": 0,
+    "en": "Minimum sow temperature",
+    "vi": "Nhiệt độ gieo hạt tối thiểu"
+  },
+  {
+    "key": "dig_resource_health",
+    "type": 0,
+    "en": "Hitpoints",
+    "vi": "Độ cứng (Độ bền đào bới)"
+  },
+  {
+    "key": "hud_info_resources",
+    "type": 0,
+    "en": "List of all the resources that are currently in stockpiles.",
+    "vi": "Danh sách toàn bộ các loại tài nguyên và vật phẩm hiện có trong các kho chứa bãi trữ."
+  },
+  {
+    "key": "hud_lb_resources",
+    "type": 0,
+    "en": "Resource",
+    "vi": "Kho Tài Nguyên"
+  },
+  {
+    "key": "production_no_allowed_resources",
+    "type": 0,
+    "en": "No allowed resources",
+    "vi": "Không có tài nguyên nào được phép sử dụng"
+  },
+  {
+    "key": "production_no_resources",
+    "type": 0,
+    "en": "Not enough resources",
+    "vi": "Không có đủ nguyên vật liệu"
+  },
+  {
+    "key": "production_resource_select_desc",
+    "type": 0,
+    "en": "Choose what resources are allowed for this product",
+    "vi": "Lựa chọn các loại nguyên vật liệu được phép sử dụng để chế tạo sản phẩm này"
+  },
+  {
+    "key": "resource_categories",
+    "type": 0,
+    "en": "Resource categories",
+    "vi": "Danh Mục Tài Nguyên"
+  },
+  {
+    "key": "resource_group_FoodStimulants",
+    "type": 0,
+    "en": "Stimulants",
+    "vi": "Chất kích thích"
+  },
+  {
+    "key": "ResourceWealth_title",
+    "type": 0,
+    "en": "Resources Value",
+    "vi": "Giá trị tài nguyên"
+  },
+  {
+    "key": "ResourceWealth_info",
+    "type": 0,
+    "en": "Combined value of all resources through time",
+    "vi": "Tổng giá trị tài sản của toàn bộ tài nguyên theo thời gian"
+  },
+  {
+    "key": "hud_info_resource_groups",
+    "type": 0,
+    "en": "Group resources in Resource Panel.",
+    "vi": "Nhóm tài nguyên trong Bảng Tài nguyên."
+  },
+  {
+    "key": "ctrl_ShowHideResourceGroups",
+    "type": 0,
+    "en": "Resource Groups: Show/Hide",
+    "vi": "Resource Groups: Show/Da thuộc"
+  },
+  {
+    "key": "plant_sow_time",
+    "type": 0,
+    "en": "Sow time",
+    "vi": "Thời gian gieo trồng"
+  },
+  {
+    "key": "plant_grows_on",
+    "type": 0,
+    "en": "Grows on",
+    "vi": "Mọc trên"
+  },
+  {
+    "key": "plant_cultivable",
+    "type": 0,
+    "en": "Cultivable",
+    "vi": "Có thể canh tác"
+  },
+  {
+    "key": "plant_dying",
+    "type": 0,
+    "en": "Plant Dying",
+    "vi": "Cây trồng Dying"
+  },
+  {
+    "key": "extortion_animal_locked",
+    "type": 0,
+    "en": "This animal is not accessible",
+    "vi": "Không thể tiếp cận con vật này"
+  },
+  {
+    "key": "plant_roofed",
+    "type": 0,
+    "en": "Roofed",
+    "vi": "Có mái che"
+  },
+  {
+    "key": "plant_dying_blight",
+    "type": 0,
+    "en": "Blight",
+    "vi": "Dịch bệnh hại cây"
+  },
+  {
+    "key": "animal_type_wild",
+    "type": 0,
+    "en": "Wild",
+    "vi": "Hoang dã"
+  },
+  {
+    "key": "animal_type_domestic",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Vật nuôi"
+  },
+  {
+    "key": "animal_type_DomesticNpc",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Vật nuôi"
+  },
+  {
+    "key": "animal_type_wildAggressive",
+    "type": 0,
+    "en": "Wild Aggresive",
+    "vi": "Hoang dã Aggresive"
+  },
+  {
+    "key": "animal_type_pet",
+    "type": 0,
+    "en": "Pet",
+    "vi": "Thú cưng"
+  },
+  {
+    "key": "animal_storage_capacity",
+    "type": 0,
+    "en": "Storage Amount",
+    "vi": "Lượng chứa"
+  },
+  {
+    "key": "animal_life_phase",
+    "type": 0,
+    "en": "Age",
+    "vi": "Tuổi"
+  },
+  {
+    "key": "animal_info_pet",
+    "type": 0,
+    "en": "Pets roam the settlement freely. They can pass through any door that a settler can. ",
+    "vi": "Thú cưng tự do đi lại trong khu định cư. Chúng có thể đi qua mọi cánh cửa mà dân làng sử dụng được."
+  },
+  {
+    "key": "animal_info_domestic",
+    "type": 0,
+    "en": "Domestic animals will roam around your settlement. Most domesticated animals can't go through doors or gates unless led while roped. ",
+    "vi": "Vật nuôi sẽ đi lại quanh khu định cư. Hầu hết chúng không thể qua cửa hoặc cổng trừ khi được dắt bằng dây."
+  },
+  {
+    "key": "animal_info_domesticnpc",
+    "type": 0,
+    "en": "Domestic animals will roam around your settlement. They can't go through doors or gates unless led while roped. ",
+    "vi": "Vật nuôi sẽ đi lại quanh khu định cư. Chúng không thể qua cửa hoặc cổng trừ khi được dắt bằng dây."
+  },
+  {
+    "key": "animal_info_wild",
+    "type": 0,
+    "en": "Wild animals roam around the map and try to avoid your settlement. They may enter occasionally when hungry.",
+    "vi": "Động vật hoang dã đi lại trên bản đồ và thường tránh khu định cư. Đôi khi chúng có thể vào làng khi đói."
+  },
+  {
+    "key": "animal_info_wildaggressive",
+    "type": 0,
+    "en": "Aggressive wild animals will attack your settlers on sight. They may also attack other animals.",
+    "vi": "Động vật hoang dã hung hãn sẽ tấn công dân làng ngay khi nhìn thấy. Chúng cũng có thể tấn công các loài khác."
+  },
+  {
+    "key": "general_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Động vật"
+  },
+  {
+    "key": "hud_info_animals",
+    "type": 0,
+    "en": "Manage your domesticated and wild animals.",
+    "vi": "Quản lý vật nuôi thuần hóa và thú hoang dã."
+  },
+  {
+    "key": "animals_domestic",
+    "type": 0,
+    "en": "Domestic",
+    "vi": "Vật nuôi"
+  },
+  {
+    "key": "animals_wildlife",
+    "type": 0,
+    "en": "Wildlife",
+    "vi": "Hoang dãlife"
+  },
+  {
+    "key": "animal_haul_info",
+    "type": 0,
+    "en": "Animals that are trained to haul piles around will randomly pick piles for hauling from time to time. ",
+    "vi": "Động vật được huấn luyện vận chuyển sẽ thỉnh thoảng tự chọn các đống đồ cần mang đi."
+  },
+  {
+    "key": "cant_interact_sleeping_animal",
+    "type": 0,
+    "en": "Can't interact with sleeping animal",
+    "vi": "Không thể tương tác với con vật đang ngủ"
+  },
+  {
+    "key": "animal_is_domestic_message",
+    "type": 0,
+    "en": "<settler> has successfully domesticated: <animal> ",
+    "vi": "<settler> đã thuần hóa thành công: <animal>"
+  },
+  {
+    "key": "animal_is_pet_message",
+    "type": 0,
+    "en": "<settler> has successfully trained: <animal>",
+    "vi": "<settler> đã huấn luyện thành công: <animal>"
+  },
+  {
+    "key": "general_male_animal",
+    "type": 0,
+    "en": "m",
+    "vi": "Đực"
+  },
+  {
+    "key": "general_female_animal",
+    "type": 0,
+    "en": "f",
+    "vi": "Cái"
+  },
+  {
+    "key": "animal_pen_panel_title",
+    "type": 0,
+    "en": "Animal Pen",
+    "vi": "Động vật Pen"
+  },
+  {
+    "key": "animal_pen_panel_description",
+    "type": 0,
+    "en": "Choose what animal type to house in this pen.",
+    "vi": "Chọn loại động vật được nuôi trong chuồng này."
+  },
+  {
+    "key": "animal_pen_disabled_outside",
+    "type": 0,
+    "en": "This pen marker must be in an enclosed area to work.",
+    "vi": "Công trình này pen marker must be trong an enclosed area để work."
+  },
+  {
+    "key": "menu_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Động vật"
+  },
+  {
+    "key": "animal_type_with_name",
+    "type": 0,
+    "en": "<name> the <animal>",
+    "vi": "<name> <animal>"
+  },
+  {
+    "key": "animal_pest_control",
+    "type": 0,
+    "en": "Vermin Control",
+    "vi": "Kiểm soát sâu bọ"
+  },
+  {
+    "key": "animal_pest_control_info",
+    "type": 0,
+    "en": "Some animals can be trained to take care of pesky creatures, like rats, that cause damage around the settlement. ",
+    "vi": "Một số động vật có thể được huấn luyện để xử lý các loài gây hại như chuột, vốn phá hoại quanh khu định cư."
+  },
+  {
+    "key": "trader_wont_sell_animal",
+    "type": 0,
+    "en": "This animal cannot be sold",
+    "vi": "Không thể bán con vật này"
+  },
+  {
+    "key": "trade_animal_locked",
+    "type": 0,
+    "en": "This animal is not accessible",
+    "vi": "Không thể tiếp cận con vật này"
+  },
+  {
+    "key": "animal_roped_to",
+    "type": 0,
+    "en": "Roped to",
+    "vi": "Bị buộc vào"
+  },
+  {
+    "key": "plant_sunlight",
+    "type": 0,
+    "en": "Accumulated sunlight",
+    "vi": "Lượng ánh sáng tích lũy"
+  },
+  {
+    "key": "plant_sunlight_info",
+    "type": 0,
+    "en": "The amount of sunlight the plant has accumulated. A low level may lead to stunted growth. If the acumualted sunlight reaches 0, the plant will start losing hitpoints slowly.",
+    "vi": "Lượng ánh sáng mặt trời mà cây đã hấp thụ. Mức thấp có thể khiến cây bị còi cọc. Nếu lượng tích lũy giảm về 0, cây sẽ bắt đầu mất máu từ từ."
+  },
+  {
+    "key": "plant_receiving_light",
+    "type": 0,
+    "en": "Sunlight amount",
+    "vi": "Lượng ánh sáng mặt trời"
+  },
+  {
+    "key": "plant_receieving_light_info",
+    "type": 0,
+    "en": "The amount of sunlight cast on this object. This takes into consideration indirect sunlight as well. Plants in 0% sunlight will grow more slowly.",
+    "vi": "Lượng ánh nắng chiếu lên vật thể này, bao gồm cả ánh sáng gián tiếp. Cây trồng nhận 0% ánh nắng sẽ phát triển chậm hơn."
+  },
+  {
+    "key": "plant_stunted",
+    "type": 0,
+    "en": "Stunted",
+    "vi": "Bị còi cọc"
+  },
+  {
+    "key": "plant_stunted_info",
+    "type": 0,
+    "en": "Stunted plants are smaller and yield fewer resources. Plants become stunted due to lack of sunlight.",
+    "vi": "Cây còi cọc nhỏ hơn và cho ít tài nguyên hơn. Cây trở nên còi cọc do thiếu ánh nắng."
+  },
+  {
+    "key": "plant_stunted_tree_info",
+    "type": 0,
+    "en": "Trees become stunted growing in a crowded area. Having more than 2 walls or other trees adjacent to the growing tree causes stunted growth",
+    "vi": "Cây sẽ bị còi cọc nếu mọc trong khu vực quá chật chội. Có hơn 2 bức tường hoặc cây khác nằm liền kề với cây đang lớn sẽ khiến cây chậm phát triển."
+  },
+  {
+    "key": "plant_dying_low_sunlight",
+    "type": 0,
+    "en": "Insufficient Sunlight",
+    "vi": "Thiếu ánh sáng mặt trời"
+  },
+  {
+    "key": "plant_dying_water_level",
+    "type": 0,
+    "en": "In Water",
+    "vi": "Bị úng nước"
+  },
+  {
+    "key": "plant_dying_not_in_water",
+    "type": 0,
+    "en": "Not In Water",
+    "vi": "Không ở dưới nước"
+  },
+  {
+    "key": "animal_cant_attend_event_prompt",
+    "type": 0,
+    "en": "<animal_name> can't attend the <event_name> and this might have a negative influence to its outcome. Do you wish to cancel the event to avoid this penalty? ",
+    "vi": "<animal_name> không thể tham dự <event_name>, điều này có thể ảnh hưởng xấu đến kết quả. Bạn có muốn hủy sự kiện để tránh bất lợi này không?"
+  },
+  {
+    "key": "take_resources_tooltip",
+    "type": 0,
+    "en": "Take resources",
+    "vi": "Lấy tài nguyên"
+  },
+  {
+    "key": "filter_animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Động vật"
+  },
+  {
+    "key": "resource_pile_name_count_pattern",
+    "type": 0,
+    "en": "{1} {0} Pile",
+    "vi": "Đống {1} {0}"
+  },
+  {
+    "key": "animal_sleep_preference",
+    "type": 0,
+    "en": "Sleep Preference",
+    "vi": "Ưu tiên chỗ ngủ"
+  },
+  {
+    "key": "animal_sleep_preference_info",
+    "type": 0,
+    "en": "Set where this animal is allowed to sleep\nInside - animal will sleep in any room with a roof overhead, but not in any settler quarters or shared quarters.\nOutside - animal will choose a sleeping spot outside. If no outdoor spot is available, it will sleep in a random location (preferring roofed areas).\nIn Quarters - a pet will sleep in its owner's room, either on a sleeping spot or on the floor. If the pet has no owner, then it will sleep in any settler sleeping quarters.",
+    "vi": "Chọn nơi động vật này được phép ngủ.\nBên trong - động vật sẽ ngủ trong phòng có mái che, nhưng không vào phòng riêng hoặc phòng chung của dân làng.\nBên ngoài - động vật sẽ chọn chỗ ngủ ngoài trời. Nếu không có chỗ ngoài trời, nó sẽ ngủ ở vị trí bất kỳ, ưu tiên nơi có mái che.\nTrong khu sinh hoạt - thú cưng sẽ ngủ trong phòng của chủ, trên chỗ ngủ hoặc sàn nhà. Nếu không có chủ, nó sẽ ngủ trong bất kỳ phòng ngủ nào của dân làng."
+  },
+  {
+    "key": "animal_sleep_Inside",
+    "type": 0,
+    "en": "Inside",
+    "vi": "Bên trong"
+  },
+  {
+    "key": "animal_sleep_Outside",
+    "type": 0,
+    "en": "Outside",
+    "vi": "Bên ngoài"
+  },
+  {
+    "key": "animal_sleep_Anywhere",
+    "type": 0,
+    "en": "Anywhere",
+    "vi": "Bất kỳ đâu"
+  },
+  {
+    "key": "animal_sleep_InQuarters",
+    "type": 0,
+    "en": "In Quarters",
+    "vi": "Trong khu sinh hoạt"
+  },
+  {
+    "key": "trade_deal_resources_needed",
+    "type": 0,
+    "en": "Trade deal requires resources <resources> with total value of <wealth>",
+    "vi": "Giao dịch yêu cầu các tài nguyên <resources> với tổng giá trị là <wealth>"
+  },
+  {
+    "key": "gameplay_tips_wild_animals",
+    "type": 0,
+    "en": "Hunting Wild Animals",
+    "vi": "Hunting Hoang dã Động vật"
+  },
+  {
+    "key": "gameplay_tips_wild_animals_info",
+    "type": 0,
+    "en": "- Settlers can hunt and butcher wild animals for meat and leather.\\n- Some animals like wolves and boars have a chance to retaliate when hunted.\\n- To hunt an animal, a settler must be equipped with a ranged weapon.",
+    "vi": "- Dân làng có thể săn bắn và mổ thịt thú hoang để lấy thịt và da.\\n- Một số loài thú hung dữ như sói và lợn rừng có khả năng quay lại tấn công khi bị săn.\\n- Để săn thú, dân làng bắt buộc phải được trang bị vũ khí tầm xa."
+  },
+  {
+    "key": "gameplay_tips_tame_animals",
+    "type": 0,
+    "en": "Taming Wild Animals",
+    "vi": "Taming Hoang dã Động vật"
+  },
+  {
+    "key": "gameplay_tips_tame_animals_info",
+    "type": 0,
+    "en": "- Some wild animals can be tamed.\\n- Beware: some animals may attack a settler who is trying to tame them.\\n- Taming can be a long process and cannot be done continually.",
+    "vi": "- Một số loài thú hoang có thể được thuần hóa.\\n- Cẩn trọng: một số con thú có thể tấn công dân làng đang cố gắng thuần hóa chúng.\\n- Thuần hóa là một quá trình dài và không thể làm liên tục."
+  },
+  {
+    "key": "gameplay_tips_domestic_animals",
+    "type": 0,
+    "en": "Domestic Animals",
+    "vi": "Vật nuôi Động vật"
+  },
+  {
+    "key": "gameplay_tips_domestic_animals_info",
+    "type": 0,
+    "en": "- Domestic animals live alongside settlers.\\n- Some animals may be kept in animal pens. \\n- To create a pen, place a <LinkAlmanac=\"Penmarker\">pen marker</link> in a fenced-off or enclosed area.\\n- Add a <LinkAlmanac=\"Trough\">trough</link> to your pen so that settlers will automatically bring food to the penned animals.\\n- Settlers can use their animal handling skill to gain food from some animals.\\n- Some domestic animals can also be slaughtered for meat.",
+    "vi": "- Động vật thuần hóa sống cùng dân định cư.\\n- Một số loài vật có thể được nuôi trong chuồng gia súc.\\n- Để tạo chuồng, hãy đặt một <LinkAlmanac=\"Penmarker\">mốc đánh dấu chuồng</link> trong khu vực có rào chắn hoặc khép kín.\\n- Thêm một <LinkAlmanac=\"Trough\">máng ăn</link> vào chuồng để dân định cư tự động mang thức ăn đến cho vật nuôi.\\n- Dân định cư có thể dùng kỹ năng chăn nuôi để thu hoạch sản phẩm từ một số loài vật.\\n- Một số động vật thuần hóa cũng có thể mổ thịt để lấy thức ăn."
+  },
+  {
+    "key": "gameplay_tips_pet_animals",
+    "type": 0,
+    "en": "Pets",
+    "vi": "Thú cưngs"
+  },
+  {
+    "key": "gameplay_tips_pet_animals_info",
+    "type": 0,
+    "en": "- Some domestic animals can be trained to become pets.\\n- Pets can be assigned to settlers so that they will follow them around and even help out around the settlement.",
+    "vi": "- Một số động vật thuần hóa có thể được huấn luyện thành thú cưng.\\n- Thú cưng có thể được gán cho dân định cư để đi theo và giúp đỡ công việc quanh khu định cư."
+  },
+  {
+    "key": "bbt_animal_not_available",
+    "type": 0,
+    "en": "Can't select this animal",
+    "vi": "Không thể chọn con vật này"
+  },
+  {
+    "key": "prioritise_cut_all_vegetation_plant",
+    "type": 0,
+    "en": "Prioritise cutting:",
+    "vi": "Ưu tiên cắt cỏ cây:"
+  },
+  {
+    "key": "prioritise_chop_plant",
+    "type": 0,
+    "en": "Prioritise chopping:",
+    "vi": "Ưu tiên đốn hạ cây:"
+  },
+  {
+    "key": "prioritise_harvest_plant",
+    "type": 0,
+    "en": "Prioritise harvesting:",
+    "vi": "Ưu tiên thu hoạch hoa màu:"
+  },
+  {
+    "key": "prioritise_mine_resource",
+    "type": 0,
+    "en": "Prioritise mining/digging:",
+    "vi": "Ưu tiên khai thác / đào đất:"
+  },
+  {
+    "key": "missing_resource_for_production",
+    "type": 0,
+    "en": "Resource unavailable to deliver",
+    "vi": "Thiếu tài nguyên để vận chuyển"
+  },
+  {
+    "key": "prioritise_animal_harvest",
+    "type": 0,
+    "en": "Prioritise Harvesting",
+    "vi": "Ưu tiên thu hoạch nông sản từ thú"
+  },
+  {
+    "key": "prioritise_pet_animal",
+    "type": 0,
+    "en": "Pet an animal",
+    "vi": "Thú cưng an animal"
+  },
+  {
+    "key": "options_resource_indicators",
+    "type": 0,
+    "en": "Show resource indicators",
+    "vi": "Hiện chỉ báo tài nguyên"
+  },
+  {
+    "key": "options_resources_group_vew",
+    "type": 0,
+    "en": "Show resource groups",
+    "vi": "Hiện nhóm tài nguyên"
+  },
+  {
+    "key": "options_animal_names",
+    "type": 0,
+    "en": "Show animal names",
+    "vi": "Hiện tên động vật"
+  },
+  {
+    "key": "options_animal_names_1",
+    "type": 0,
+    "en": "All animals",
+    "vi": "Tất cả động vật"
+  },
+  {
+    "key": "options_animal_names_2",
+    "type": 0,
+    "en": "Domestic only",
+    "vi": "Chỉ vật nuôi"
+  },
+  {
+    "key": "options_animal_names_3",
+    "type": 0,
+    "en": "Pets only",
+    "vi": "Chỉ thú cưng"
+  },
+  {
+    "key": "options_xray_animals",
+    "type": 0,
+    "en": "Show animals through walls",
+    "vi": "Hiện động vật xuyên qua tường"
+  },
+  {
+    "key": "ctrl_TameAnimal",
+    "type": 0,
+    "en": "Order: Tame",
+    "vi": "Mệnh lệnh: Thuần hóa"
+  },
+  {
+    "key": "ctrl_TrainAnimal",
+    "type": 0,
+    "en": "Order: Train",
+    "vi": "Mệnh lệnh: Huấn luyện"
+  },
+  {
+    "key": "ctrl_SlaughterAnimal",
+    "type": 0,
+    "en": "Order: Slaughter",
+    "vi": "Mệnh lệnh: Giết mổ"
+  },
+  {
+    "key": "ctrl_ReleaseAnimal",
+    "type": 0,
+    "en": "Order: Release",
+    "vi": "Mệnh lệnh: Thả tự do"
+  },
+  {
+    "key": "ctrl_Animals",
+    "type": 0,
+    "en": "Animals",
+    "vi": "Động vật"
+  },
+  {
+    "key": "difficulty_option_animalSpawnMultiplier_title",
+    "type": 0,
+    "en": "Animal Spawn Rate Multiplier",
+    "vi": "Động vật Spawn Rate Multiplier"
+  },
+  {
+    "key": "difficulty_option_animalSpawnMultiplier_info",
+    "type": 0,
+    "en": "Determines speed at which new animals spawn on the map.",
+    "vi": "Xác định tốc độ và tần suất xuất hiện động vật mới trên bản đồ thế giới."
+  },
+  {
+    "key": "difficulty_option_plantYieldMultiplier_title",
+    "type": 0,
+    "en": "Plant Yield Multiplier",
+    "vi": "Hệ Số Sản Lượng Nông Sản"
+  },
+  {
+    "key": "difficulty_option_plantYieldMultiplier_info",
+    "type": 0,
+    "en": "Multiplies the base value of plant resources yielded when harvested",
+    "vi": "Hệ số nhân sản lượng tài nguyên cây trồng và hoa màu thu hoạch được."
+  },
+  {
+    "key": "difficulty_option_animalInfestationEvent_title",
+    "type": 0,
+    "en": "Animal Infestation in Cellar",
+    "vi": "Đại Dịch Chuột / Động Vật Phá Hầm Chứa"
+  },
+  {
+    "key": "difficulty_option_animalMiscSmallEvent_title",
+    "type": 0,
+    "en": "Small animal event",
+    "vi": "Sự Kiện Thú Nhỏ Xuất Hiện"
+  },
+  {
+    "key": "difficulty_option_animalWildLargeEvent_title",
+    "type": 0,
+    "en": "Large animal event",
+    "vi": "Sự Kiện Thú Lớn Xuất Hiện"
+  },
+  {
+    "key": "difficulty_option_animalBearSingleEvent_title",
+    "type": 0,
+    "en": "Bear visit",
+    "vi": "Gấu Rừng Viếng Thăm"
+  },
+  {
+    "key": "difficulty_option_animalDomesticSingleEvent_title",
+    "type": 0,
+    "en": "Domestic Animal Event",
+    "vi": "Sự Kiện Gia Súc Thuần Hóa Xuất Hiện"
+  },
+  {
+    "key": "difficulty_option_animalDomesticSingleEvent_info",
+    "type": 0,
+    "en": "Allow domestic animals to appear on your map from time to time",
+    "vi": "Cho phép các đàn gia súc và động vật thuần hóa thỉnh thoảng xuất hiện lang thang trên bản đồ của bạn."
+  },
+  {
+    "key": "TwitchAnimalSpawnBbt",
+    "type": 0,
+    "en": "{Animal} named {Twitch Name} has appeared!",
+    "vi": "Con thú {Animal} mang tên {Twitch Name} vừa xuất hiện!"
+  },
+  {
+    "key": "resource_holder_info_barley_patch",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "Ngũ cốc lúa mạch đa năng dùng nướng bánh mì, nấu cháo hoặc ủ men bia ale giải khát thanh mát. Dùng làm thức ăn vỗ béo gia cầm."
+  },
+  {
+    "key": "resource_holder_info_wild_barley_patch",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "Lúa mạch mọc hoang dã nơi đồng nội, dùng làm nguồn lương thực cứu đói hoặc ủ men rượu bia."
+  },
+  {
+    "key": "resource_holder_info_beet_patch",
+    "type": 0,
+    "en": "An ancient and hardy root to grow in your garden, be that hovel or manor.",
+    "vi": "Loại củ dền cổ xưa và kiên cường dễ trồng trong vườn nhà, từ những túp lều tranh nghèo khó cho tới thái ấp điền trang trù phú."
+  },
+  {
+    "key": "resource_holder_info_cabbage_patch",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. A crop to sow all year round.",
+    "vi": "Loại rau mộc mạc và là lương thực căn bản hằng ngày của người dân. Giống cây trồng có thể gieo hạt và thu hoạch quanh năm."
+  },
+  {
+    "key": "resource_holder_info_carrot_patch",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "Củ cà rốt giòn ngọt với sắc cam rực rỡ, rất ngon miệng khi ăn sống hoặc cất trữ dưới hầm lạnh dùng dần trong mùa đông."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_clay",
+    "type": 0,
+    "en": "Fine-grained, mineral-rich soil that sticks to the shoes. One of the oldest building materials.",
+    "vi": "Loại đất sét mịn giàu khoáng chất kết dính chặt chẽ. Một trong những vật liệu xây dựng và làm gốm cổ xưa nhất của nhân loại."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_empty",
+    "type": 0,
+    "en": "Good soil is like black gold.",
+    "vi": "Đất màu mỡ phì nhiêu quý giá tựa như vàng đen của nhà nông."
+  },
+  {
+    "key": "resource_holder_name_dig_marker_coal",
+    "type": 0,
+    "en": "Coal seam",
+    "vi": "Vỉa Quặng Than Đá"
+  },
+  {
+    "key": "resource_holder_info_dig_marker_coal",
+    "type": 0,
+    "en": "Black mineral remains of plants, buried before time began. Burns fiercely in hearth or forge.",
+    "vi": "Khoáng sản đen kết tinh từ thảm thực vật cổ đại bị vùi lấp từ thuở sơ khai. Cháy bùng rực lửa trong lò sưởi và lò nung kim loại."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_gold",
+    "type": 0,
+    "en": "Buried treasure. Malleable, incorruptable metal for crowns and coin.",
+    "vi": "Kho báu chôn giấu trong lòng đất mẹ. Kim loại quý dẻo dai không bị hoen gỉ dùng để đúc vương miện hoàng gia và tiền vàng trao đổi."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_iron",
+    "type": 0,
+    "en": "Iron-rich ore will yield metal for the forge. ",
+    "vi": "Quặng giàu hàm lượng sắt cung cấp nguồn phôi kim loại dồi dào cho các lò rèn vũ khí và giáp trụ."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_limestone",
+    "type": 0,
+    "en": "Building material, born of a million ancient, dead sea creatures. Use also to make quicklime.",
+    "vi": "Vật liệu xây dựng hình thành từ hàng triệu xác sinh vật biển cổ đại. Dùng để đẽo gọt xây tường thành và nung vôi tôi kiên cố."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_salt",
+    "type": 0,
+    "en": "Precious salt for preserving food is a cornerstone of civilization. ",
+    "vi": "Những mỏ muối khoáng quý giá dùng để ướp bảo quản thịt cá, nền tảng sinh tồn không thể thiếu của mọi nền văn minh."
+  },
+  {
+    "key": "resource_holder_info_dig_marker_silver",
+    "type": 0,
+    "en": "A vein of fine, soft metal to be worked into coins or jewellery.",
+    "vi": "Mạch quặng bạc sáng bóng để đúc tiền xu bạc hoặc chế tác các món đồ trang sức tinh xảo quý phái."
+  },
+  {
+    "key": "resource_holder_info_wild_flax_patch",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "Loài cây hoa xanh biếc tuyệt đẹp và đa dụng, cung cấp hạt để ép dầu ăn và sợi thân dai để dệt nên những tấm vải lanh thoáng mát."
+  },
+  {
+    "key": "resource_holder_info_flax_patch",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "Cây lanh trồng lấy hạt ép dầu và sợi dệt vải may mặc nhẹ nhàng cho mùa hè."
+  },
+  {
+    "key": "resource_holder_info_hay_patch",
+    "type": 0,
+    "en": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. ",
+    "vi": "Cỏ đồng cỏ mọc nhanh như thổi, dập dờn xanh mướt trước gió ngàn. Cắt lấy cỏ khô làm thức ăn cho gia súc hoặc bện làm đệm nằm."
+  },
+  {
+    "key": "resource_holder_info_herbs_patch",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Các loài thảo mộc thu hái từ thiên nhiên hoang dã với muôn vàn công dụng: nêm nếm gia vị món ăn, bào chế thuốc chữa bệnh, ủ men rượu và chiết xuất màu nhuộm."
+  },
+  {
+    "key": "resource_holder_info_shrub_generic",
+    "type": 0,
+    "en": "A Shrub. Can be harvested for wood but yields little to none.",
+    "vi": "Bụi cây bụi ven đường. Có thể chặt lấy cành cây làm củi nhưng cho rất ít gỗ thân."
+  },
+  {
+    "key": "resource_holder_info_shrub_ivy",
+    "type": 0,
+    "en": "Hardy, climbing ivy scrambles up trees, walls and fences. It may weaken them in its tight embrace.",
+    "vi": "Dây thường xuân leo bám kiên cường trên các thân cổ thụ, vách tường đá và hàng rào ranh giới."
+  },
+  {
+    "key": "resource_holder_info_shrub_redcurrant",
+    "type": 0,
+    "en": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness.",
+    "vi": "Bụi cây quả mọng mọc hoang dã khắp nơi, cho những chùm quả màu đỏ ngọc chua thanh giàu vitamin và dưỡng chất."
+  },
+  {
+    "key": "resource_holder_info_tree_birch",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "Cây bạch dương biểu tượng của sự tái sinh, gỗ cháy đượm ngay cả khi còn ẩm và rất lý tưởng để xông khói thịt cá."
+  },
+  {
+    "key": "resource_holder_info_tree_oak",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "Vua của rừng già và là loài cây thiêng liêng đối với các tu sĩ Druid. Rất được ưa chuộng để đẽo xà dầm và dựng khung nhà gỗ kiên cố."
+  },
+  {
+    "key": "resource_holder_info_tree_pine",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "Loài cây lớn nhất xứ Caledonia, thân cao vút, thẳng tắp và dẻo dai, hoàn hảo làm cột buồm và ván sàn. Người Scotland du hành thường trồng cây thông để đánh dấu phần mộ tổ tiên."
+  },
+  {
+    "key": "resource_holder_info_tree_plane",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Cây phong đồng mang lại loại gỗ cứng cáp bền bỉ, hoàn hảo để chế tác các nhạc cụ tinh xảo có thanh âm trong trẻo."
+  },
+  {
+    "key": "resource_holder_name_wild_barley_patch",
+    "type": 0,
+    "en": "Barley (Growing wild)",
+    "vi": "Lúa Mạch (Mọc Hoang Dã)"
+  },
+  {
+    "key": "resource_holder_name_barley_patch",
+    "type": 0,
+    "en": "Barley",
+    "vi": "Lúa Mạch"
+  },
+  {
+    "key": "resource_holder_name_beet_patch",
+    "type": 0,
+    "en": "Beets",
+    "vi": "Bụi Củ Dền"
+  },
+  {
+    "key": "resource_holder_name_cabbage_patch",
+    "type": 0,
+    "en": "Cabbage",
+    "vi": "Bắp Cải"
+  },
+  {
+    "key": "resource_holder_name_carrot_patch",
+    "type": 0,
+    "en": "Carrots",
+    "vi": "Cà Rốt"
+  }
+]

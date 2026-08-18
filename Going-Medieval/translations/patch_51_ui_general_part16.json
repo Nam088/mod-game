@@ -1,0 +1,902 @@
+[
+  {
+    "key": "error_cant_mine_under",
+    "type": 0,
+    "en": "Cannot dig this voxel. It cannot be reached or something is over it.",
+    "vi": "Không thể đào khối này. Không có đường tiếp cận hoặc đang có vật cản bên trên."
+  },
+  {
+    "key": "error_selection_order_cutting",
+    "type": 0,
+    "en": "Must select a bushlike or harvestable plant ",
+    "vi": "Phải chọn một bụi cây hoặc cây trồng có thể thu hoạch"
+  },
+  {
+    "key": "error_selection_order_digging",
+    "type": 0,
+    "en": "Select a piece of terrain",
+    "vi": "Hãy chọn một ô địa hình cần đào bới"
+  },
+  {
+    "key": "error_selection_order_harvesting",
+    "type": 0,
+    "en": "You must select harvestable plant that is ripe",
+    "vi": "Bạn phải chọn cây trồng đã chín để thu hoạch"
+  },
+  {
+    "key": "error_selection_order_mining",
+    "type": 0,
+    "en": "You must select a mineable rock or chunk",
+    "vi": "Bạn phải chọn tảng đá hoặc khối quặng có thể khai thác"
+  },
+  {
+    "key": "general_birthday_today",
+    "type": 0,
+    "en": "<name> has turned <age> today",
+    "vi": "<name> hôm nay đã tròn <age> tuổi"
+  },
+  {
+    "key": "general_birthday_info",
+    "type": 0,
+    "en": "{0} turned",
+    "vi": "{0} tròn tuổi"
+  },
+  {
+    "key": "general_today",
+    "type": 0,
+    "en": "today",
+    "vi": "hôm nay"
+  },
+  {
+    "key": "harvest_failed",
+    "type": 0,
+    "en": "Harvest ruined ",
+    "vi": "Vụ thu hoạch đã bị hư hại"
+  },
+  {
+    "key": "pile_has_decomposed",
+    "type": 0,
+    "en": "has decomposed on the stockpile",
+    "vi": "đã phân hủy mục nát trên bãi chứa"
+  },
+  {
+    "key": "pile_has_rotten",
+    "type": 0,
+    "en": "<resource_name> has rotted on the stockpile and turned into: <rotten_resource>",
+    "vi": "<resource_name> đã thối rữa trên bãi chứa và biến thành: <rotten_resource>"
+  },
+  {
+    "key": "placement_error_beam",
+    "type": 0,
+    "en": "Cannot place beam over a staircase or roof",
+    "vi": "Không thể đặt xà nhà chồng lên cầu thang hoặc mái nhà"
+  },
+  {
+    "key": "placement_error_stairs_blocking",
+    "type": 0,
+    "en": "Invalid position. Stairs are blocked",
+    "vi": "Vị trí không hợp lệ. Lối lên cầu thang đã bị vật cản chặn lại"
+  },
+  {
+    "key": "placement_error_stairs_dead_end",
+    "type": 0,
+    "en": "Invalid position. Stairs lead nowhere",
+    "vi": "Vị trí không hợp lệ. Cầu thang dẫn vào ngõ cụt không có lối ra"
+  },
+  {
+    "key": "enemies_have_appeared",
+    "type": 0,
+    "en": "<number> enemies have appeared",
+    "vi": "<number> kẻ thù đã xuất hiện!"
+  },
+  {
+    "key": "enemies_have_started_attacking",
+    "type": 0,
+    "en": "Enemies have started their attack!",
+    "vi": "Kẻ thù đã bắt đầu tràn vào tấn công!"
+  },
+  {
+    "key": "voxel_not_diggable",
+    "type": 0,
+    "en": "Can't dig any deeper.",
+    "vi": "Can't Đào đất any deeper."
+  },
+  {
+    "key": "has_died",
+    "type": 0,
+    "en": "<name> is dead",
+    "vi": "<name> là dead"
+  },
+  {
+    "key": "has_fainted",
+    "type": 0,
+    "en": "<name> is unconscious",
+    "vi": "<name> là unconscious"
+  },
+  {
+    "key": "settler_is_unconscious",
+    "type": 0,
+    "en": "<name> is unconscious",
+    "vi": "<name> là unconscious"
+  },
+  {
+    "key": "error_place_stability",
+    "type": 0,
+    "en": "Can't place building this far from a stable structure",
+    "vi": "Can't place Công trình this far từ a stable structure"
+  },
+  {
+    "key": "error_place_roof",
+    "type": 0,
+    "en": "A roof needs two or more points to rest upon in order to be placed",
+    "vi": "Mái nhà cần ít nhất hai điểm tựa vững chắc để có thể lắp đặt"
+  },
+  {
+    "key": "error_roof_max",
+    "type": 0,
+    "en": "Maximum roof span is {0}",
+    "vi": "Maximum mái nhà span là {0}"
+  },
+  {
+    "key": "error_beam_intersect",
+    "type": 0,
+    "en": "Can't place beam, intersecting with another beam",
+    "vi": "Không thể đặt xà gồ, đang bị cắt ngang bởi một xà gồ khác"
+  },
+  {
+    "key": "error_beam_min_distance",
+    "type": 0,
+    "en": "Beam cannot reach that far. Maximum distance for beam is {0}",
+    "vi": "Xà nhà không thể reach đó far. Maximum distance cho xà nhà là {0}"
+  },
+  {
+    "key": "error_stairs_blocked",
+    "type": 0,
+    "en": "Can't place staircase, path blocked by: {0}",
+    "vi": "Có thể't place staircase, path blocked bởi: {0}"
+  },
+  {
+    "key": "error_stiars_blocking",
+    "type": 0,
+    "en": "Can't be placed here, blocking the staircase",
+    "vi": "Có thể't được placed here, blocking staircase"
+  },
+  {
+    "key": "error_beam_blocking",
+    "type": 0,
+    "en": "Can't be placed under a beam",
+    "vi": "Có thể't được placed under a xà nhà"
+  },
+  {
+    "key": "error_socketable",
+    "type": 0,
+    "en": "Can't be placed. Can only be placed on a wall element or ground voxel",
+    "vi": "Có thể't được placed. Có thể only được placed trên a tường element hoặc ground voxel"
+  },
+  {
+    "key": "error_socketable_blocking",
+    "type": 0,
+    "en": "Can't be placed, blocked by: {0}",
+    "vi": "Có thể't được placed, blocked bởi: {0}"
+  },
+  {
+    "key": "error_cropfield_placement",
+    "type": 0,
+    "en": "Crop field can only be placed on appropriate ground type",
+    "vi": "Cây trồng field có thể only được placed trên appropriate ground type"
+  },
+  {
+    "key": "game_saved",
+    "type": 0,
+    "en": "Game saved",
+    "vi": "Đã lưu game"
+  },
+  {
+    "key": "report_sent",
+    "type": 0,
+    "en": "Report sent",
+    "vi": "Đã gửi báo cáo"
+  },
+  {
+    "key": "error_build_research_bench",
+    "type": 0,
+    "en": "Construct a <style=Shortcut>Basic Research Table</style> to unlock new research items.",
+    "vi": "Construct a <style=Shortcut>Basic Nghiên cứu Table</style> để unlock new Nghiên cứu items."
+  },
+  {
+    "key": "research_panel_unlocked",
+    "type": 0,
+    "en": "You have unlocked the research panel. ",
+    "vi": "Bạn đã mở khóa bảng nghiên cứu."
+  },
+  {
+    "key": "trap_misfire",
+    "type": 0,
+    "en": "Trap misfire!",
+    "vi": "Bẫy bị kích hoạt hỏng!"
+  },
+  {
+    "key": "selected_worker_is_crazy",
+    "type": 0,
+    "en": "The selected settler has become rebellious and won't take orders",
+    "vi": "Dân làng này đang nổi loạn và không chịu nhận mệnh lệnh"
+  },
+  {
+    "key": "can_not_draft_crazy_worker",
+    "type": 0,
+    "en": "A rebellious settler cannot be drafted.",
+    "vi": "Không thể động viên dân làng đang nổi loạn."
+  },
+  {
+    "key": "can_not_draft_defeated_worker",
+    "type": 0,
+    "en": "You can't draft settlers until victorious enemies leave the map",
+    "vi": "Bạn có thể't Động viên vũ trang settlers until victorious Kẻ thù leave map"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Low armour penetration</style>",
+    "vi": "<style=DefaultRed>Low Áo giáp penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate armour penetration</style>",
+    "vi": "<style=DefaultOrange>Moderate Áo giáp penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_ArmourPenetrationHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High armour penetration</style>",
+    "vi": "<style=DefaultGreen>High Áo giáp penetration</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedLow",
+    "type": 0,
+    "en": "<style=DefaultRed>Low attack speed</style>",
+    "vi": "<style=DefaultRed>Tốc độ tấn công thấp</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate attack speed</style>",
+    "vi": "<style=DefaultOrange>Tốc độ tấn công trung bình</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttckSpeedHigh",
+    "type": 0,
+    "en": "<style=DefaultGreen>High attack speed</style>",
+    "vi": "<style=DefaultGreen>Tốc độ tấn công cao</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceLow",
+    "type": 0,
+    "en": "<style=DefaultGreen>Small chance to miss opponent</style>",
+    "vi": "<style=DefaultGreen>Small chance để trượt opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate chance to miss opponent</style>",
+    "vi": "<style=DefaultOrange>Moderate chance để trượt opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MissChanceHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>High chance to miss opponent</style>",
+    "vi": "<style=DefaultRed>High chance để trượt opponent</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedLow",
+    "type": 0,
+    "en": "<style=DefaultOrange>Small effect on movement speed</style>",
+    "vi": "<style=DefaultOrange>Ảnh hưởng nhỏ đến tốc độ di chuyển</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate effect on movement speed</style>",
+    "vi": "<style=DefaultOrange>Ảnh hưởng vừa đến tốc độ di chuyển</style>"
+  },
+  {
+    "key": "pile_tooltip_info_MovementSpeedHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>Large effect on movement speed</style>",
+    "vi": "<style=DefaultRed>Ảnh hưởng lớn đến tốc độ di chuyển</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AattackSpeedImpactLow",
+    "type": 0,
+    "en": "<style=DefaultOrange>Small effect on attack speed</style>",
+    "vi": "<style=DefaultOrange>Ảnh hưởng nhỏ đến tốc độ tấn công</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttackSpeedImpactMed",
+    "type": 0,
+    "en": "<style=DefaultOrange>Moderate effect on attack speed</style>",
+    "vi": "<style=DefaultOrange>Ảnh hưởng vừa đến tốc độ tấn công</style>"
+  },
+  {
+    "key": "pile_tooltip_info_AttackSpeedImpactHigh",
+    "type": 0,
+    "en": "<style=DefaultRed>Large effect on attack speed</style>",
+    "vi": "<style=DefaultRed>Ảnh hưởng lớn đến tốc độ tấn công</style>"
+  },
+  {
+    "key": "pile_tooltip_info_Shackles",
+    "type": 0,
+    "en": "<style=DefaultOrange>Used for shackling prisoners to turn them into captive labourers</style>",
+    "vi": "<style=DefaultOrange>Dùng để đeo xiềng cho tù nhân, biến họ thành lao động tù binh</style>"
+  },
+  {
+    "key": "pile_tooltip_info_Shackles2",
+    "type": 0,
+    "en": "<style=DefaultOrange>Shackled prisoners move slower and have a smaller chance to run away</style>",
+    "vi": "<style=DefaultOrange>Tù nhân bị xiềng xích sẽ di chuyển chậm hơn và ít có cơ hội bỏ trốn hơn</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusHigherGround",
+    "type": 0,
+    "en": "<style=DefaultGreen>Attack bonus when used from higher ground</style>",
+    "vi": "<style=DefaultGreen>Tăng sát thương tấn công khi đứng ở vị trí trên cao</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusAgainstSun",
+    "type": 0,
+    "en": "<style=DefaultGreen>Protects against harsh sunlight</style>",
+    "vi": "<style=DefaultGreen>Bảo vệ dân làng khỏi ánh nắng mặt trời gay gắt</style>"
+  },
+  {
+    "key": "pile_tooltip_info_BonusOnLadders",
+    "type": 0,
+    "en": "<style=DefaultGreen>Additional Critical Chance while on ladders</style>",
+    "vi": "<style=DefaultGreen>Tăng thêm tỉ lệ chí mạng khi chiến đấu trên thang</style>"
+  },
+  {
+    "key": "sow_tooltip_TreeStuntedInfo",
+    "type": 0,
+    "en": "<style=DefaultOrange>Sow trees in rows rather than clumps to avoid stunted growth due to overcrowding.</style>",
+    "vi": "<style=DefaultOrange>Hãy trồng cây thành từng hàng thay vì cụm sát nhau để tránh bị còi cọc do quá dày.</style>"
+  },
+  {
+    "key": "shrink_zone",
+    "type": 0,
+    "en": "Drag the red rectangle over {zone} to delete part of the zone.\\nCutting the zone in half will not create 2x zones but will randomly choose one half to delete.",
+    "vi": "Kéo khung chữ nhật đỏ qua {zone} để xóa một phần khu vực.\\nCắt đôi khu vực sẽ không tạo thành 2 vùng riêng mà sẽ ngẫu nhiên chọn xóa một nửa."
+  },
+  {
+    "key": "expand_zone",
+    "type": 0,
+    "en": "Place a zone that is connected to {zone} to expand it.",
+    "vi": "Đặt một vùng liền kề với {zone} để mở rộng diện tích."
+  },
+  {
+    "key": "can_not_banish_while_fainted",
+    "type": 0,
+    "en": "Cannot banish settler while unconscious",
+    "vi": "Không thể trục xuất dân làng khi họ đang bất tỉnh"
+  },
+  {
+    "key": "settler_is_rebellious",
+    "type": 0,
+    "en": "The selected settler has become rebellious and won't take orders",
+    "vi": "Dân làng này đang nổi loạn và từ chối nhận mệnh lệnh"
+  },
+  {
+    "key": "error_build_map_table",
+    "type": 0,
+    "en": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region.",
+    "vi": "Hãy xây dựng <style=Shortcut>Bàn bản đồ học</style> để xem bản đồ cả vùng."
+  },
+  {
+    "key": "region_panel_unlocked",
+    "type": 0,
+    "en": "You have unlocked the region map",
+    "vi": "Bạn đã mở khóa bản đồ khu vực"
+  },
+  {
+    "key": "already_reserved_by_other_worker_will_cancel",
+    "type": 0,
+    "en": "Another creature or settler is already trying to interact with this pile. This will cancel their actions.",
+    "vi": "Một sinh vật hoặc dân làng khác đang tương tác với đống này. Thao tác này sẽ hủy bỏ hành động của họ."
+  },
+  {
+    "key": "fishing_failed",
+    "type": 0,
+    "en": "Fishing attempt failed",
+    "vi": "Câu cá thất bại"
+  },
+  {
+    "key": "eligible_for_role_bbt",
+    "type": 0,
+    "en": "<settler_name> is eligible to be a <role_name> ",
+    "vi": "<settler_name> đã đủ điều kiện để đảm nhận chức vụ <role_name>"
+  },
+  {
+    "key": "cannot_extingush_greek_fire",
+    "type": 0,
+    "en": "Greek fire can't be extinguished ",
+    "vi": "Lửa Hy Lạp không thể dập tắt bằng nước thông thường"
+  },
+  {
+    "key": "attack_oil_blob",
+    "type": 0,
+    "en": "Ignite",
+    "vi": "Châm lửa"
+  },
+  {
+    "key": "attack_oil_blob_tooltip",
+    "type": 0,
+    "en": "Use flaming projectiles to ignite",
+    "vi": "Dùng đạn bắn lửa để châm cháy vệt dầu"
+  },
+  {
+    "key": "cant_attack_oil_without_fire_tooltip",
+    "type": 0,
+    "en": "Settler needs to be next to a fire source to use flaming projectiles",
+    "vi": "Dân làng cần đứng cạnh nguồn lửa để sử dụng đạn lửa"
+  },
+  {
+    "key": "dam_built_bbt",
+    "type": 0,
+    "en": "River flow stopped by a dam.",
+    "vi": "Dòng chảy con sông đã bị ngăn lại bởi đập nước."
+  },
+  {
+    "key": "map_marker_expires_in",
+    "type": 0,
+    "en": "Expires in:",
+    "vi": "Hết hạn sau:"
+  },
+  {
+    "key": "loading_intro_text_4",
+    "type": 0,
+    "en": "an excerpt from \"Liber Hermagedonem\",\n by the Venerable Favian, New Exeter, ca. 1385",
+    "vi": "Trích từ \"Liber Hermagedonem\",\n bởi Viện phụ Favian đáng kính, Tân Exeter, khoảng năm 1385"
+  },
+  {
+    "key": "loading_map_chunks",
+    "type": 0,
+    "en": "Generating map sections, {0} left",
+    "vi": "Đang tạo các phân khu bản đồ, còn {0}"
+  },
+  {
+    "key": "loading_placing_objects",
+    "type": 0,
+    "en": "Placing objects",
+    "vi": "Đang bố trí vật thể"
+  },
+  {
+    "key": "loading_terrain",
+    "type": 0,
+    "en": "Loading terrain",
+    "vi": "Đang tải địa hình"
+  },
+  {
+    "key": "save_terrain_missing",
+    "type": 0,
+    "en": "Error loading terrain",
+    "vi": "Lỗi khi tải dữ liệu địa hình"
+  },
+  {
+    "key": "general_continue",
+    "type": 0,
+    "en": "Click to continue",
+    "vi": "Nhấp chuột để tiếp tục"
+  },
+  {
+    "key": "save_failed",
+    "type": 0,
+    "en": "Save failed",
+    "vi": "Lưu trò chơi thất bại"
+  },
+  {
+    "key": "save_group_presets_failed",
+    "type": 0,
+    "en": "Can't save preset",
+    "vi": "Không thể lưu thiết lập mẫu"
+  },
+  {
+    "key": "load_failed",
+    "type": 0,
+    "en": "Can't load this game",
+    "vi": "Không thể tải bản lưu này"
+  },
+  {
+    "key": "load_sequence_start",
+    "type": 0,
+    "en": "Loading Start",
+    "vi": "Bắt đầu tải dữ liệu"
+  },
+  {
+    "key": "loading_ui",
+    "type": 0,
+    "en": "Loading UI",
+    "vi": "Đang tải giao diện"
+  },
+  {
+    "key": "load_sequence_complete",
+    "type": 0,
+    "en": "Loading Complete",
+    "vi": "Tải hoàn tất"
+  },
+  {
+    "key": "load_saving",
+    "type": 0,
+    "en": "Autosaving...",
+    "vi": "Đang tự động lưu..."
+  },
+  {
+    "key": "load_spawning_objects",
+    "type": 0,
+    "en": "Placing objects",
+    "vi": "Đang tạo vật thể trong thế giới"
+  },
+  {
+    "key": "loading_spawning_slopes",
+    "type": 0,
+    "en": "Loading Slopes",
+    "vi": "Đang tải các sườn dốc"
+  },
+  {
+    "key": "save_in_progress",
+    "type": 0,
+    "en": "Saving...",
+    "vi": "Đang lưu trò chơi..."
+  },
+  {
+    "key": "save_failed_directory",
+    "type": 0,
+    "en": "Failed to create save directory. Try naming your village with english characters only. If the issue continues please contact us at support@foxyvoxel.io",
+    "vi": "Không thể tạo thư mục lưu. Hãy thử đặt tên làng chỉ bằng các ký tự không dấu. Nếu lỗi vẫn tiếp diễn, vui lòng liên hệ support@foxyvoxel.io"
+  },
+  {
+    "key": "save_migration_error",
+    "type": 0,
+    "en": "This save was created using an older version of Going Medieval. Due to our reworked save system, this particular save is <style=AltColor>no longer valid</style> with the current update, but this issue can be resolved. To migrate your save and continue playing, please follow these steps:\\n\\n 1. Switch to the <style=AltColor>migration version</style> from Steam/GOG/EGS.\\n 2. Click on the “Migrate” option in the Main Menu.\\n 3. Choose the save file you wish to migrate.\\n 4. Switch back to the <style=AltColor>default version.</style> \\n 5. Enjoy the game! \\n\\nFor a more detailed explanation, please visit this link: \"<link=\"web_migration_link\"><style=LinkWorker>Link</style></link>”. \\nAdditionally, you can find a lovely narrated video with step-by-step instructions here: “<link=\"web_migration_video_link\"><style=LinkWorker>Link</style></link>” ",
+    "vi": "Bản lưu này được tạo từ phiên bản cũ của Going Medieval. Do hệ thống lưu tệp đã được tái cấu trúc, bản lưu này <style=AltColor>không còn tương thích trực tiếp</style> với bản cập nhật hiện tại, nhưng sự cố này có thể xử lý được. Để chuyển đổi bản lưu và trải nghiệm tiếp, vui lòng thực hiện các bước sau:\\n\\n 1. Chuyển sang bản <style=AltColor>Migration version</style> trên Steam/GOG/EGS.\\n 2. Nhấp vào mục “Chuyển đổi (Migrate)” trong Menu chính.\\n 3. Chọn tệp lưu bạn muốn chuyển đổi.\\n 4. Chuyển trở lại <style=AltColor>phiên bản mặc định</style>.\\n 5. Thưởng thức trò chơi!\\n\\nĐể xem hướng dẫn chi tiết, vui lòng mở liên kết: \"<link=\"web_migration_link\"><style=LinkWorker>Liên kết</style></link>”.\\nNgoài ra, bạn có thể xem video hướng dẫn chi tiết tại đây: “<link=\"web_migration_video_link\"><style=LinkWorker>Liên kết</style></link>” "
+  },
+  {
+    "key": "save_migration_message",
+    "type": 0,
+    "en": "The game is migrating your settlement to ensure playability of the latest version <style=AltColor>(0.18 and above)</style>.",
+    "vi": "Trò chơi đang chuyển đổi dữ liệu khu định cư của bạn để đảm bảo tương thích với phiên bản mới nhất <style=AltColor>(0.18 trở lên)</style>."
+  },
+  {
+    "key": "save_migration_message2",
+    "type": 0,
+    "en": "Select the <style=AltColor>“Migrate”</style> option and choose the save you would like to transition to the new save system.",
+    "vi": "Chọn tùy chọn <style=AltColor>“Chuyển đổi (Migrate)”</style> và chọn bản lưu bạn muốn nâng cấp sang hệ thống lưu mới."
+  },
+  {
+    "key": "save_migration_successful",
+    "type": 0,
+    "en": "<style=DefaultGreen>Save Migration Successful</style>",
+    "vi": "<style=DefaultGreen>Chuyển đổi bản lưu thành công</style>"
+  },
+  {
+    "key": "save_migration_failed",
+    "type": 0,
+    "en": "<style=DefaultRed>Save Migration Failed </style>",
+    "vi": "<style=DefaultRed>Chuyển đổi bản lưu thất bại</style>"
+  },
+  {
+    "key": "web_migration_link_text",
+    "type": 0,
+    "en": "Link",
+    "vi": "Liên kết"
+  },
+  {
+    "key": "loading_complete",
+    "type": 0,
+    "en": "Loading Complete",
+    "vi": "Tải hoàn tất"
+  },
+  {
+    "key": "load_failed_mod_broken",
+    "type": 0,
+    "en": "<load_failed>.\\n<style=DefaultRed><building></style> cannot be found in repository. This is most likely due to a mod being inactive or broken.",
+    "vi": "<load_failed>.\\n<style=DefaultRed><building></style> không tìm thấy trong kho lưu trữ. Rất có thể do bản mod bị tắt hoặc bị hỏng."
+  },
+  {
+    "key": "load_failed_mods_in_save",
+    "type": 0,
+    "en": "Mods present in save",
+    "vi": "Các bản mod có trong bản lưu"
+  },
+  {
+    "key": "load_failed_mods_and_more",
+    "type": 0,
+    "en": "and more.",
+    "vi": "và các bản mod khác."
+  },
+  {
+    "key": "load_failed_missing_mod",
+    "type": 0,
+    "en": "This save has been made with one or more mods that aren't currently active. Loading may or may not cause some problems. Game might attempt to replace missing structures with default ones where possible. ",
+    "vi": "Bản lưu này được tạo cùng với một hoặc nhiều bản mod hiện không còn hoạt động. Việc tải vào game có thể phát sinh lỗi. Trò chơi sẽ cố gắng thay thế các công trình bị thiếu bằng công trình mặc định nếu có thể."
+  },
+  {
+    "key": "load_failed_missing_objects",
+    "type": 0,
+    "en": "Missing objects",
+    "vi": "Vật thể bị thiếu"
+  },
+  {
+    "key": "general_initializing",
+    "type": 0,
+    "en": "Initializing",
+    "vi": "Đang khởi tạo"
+  },
+  {
+    "key": "general_creating_world",
+    "type": 0,
+    "en": "Loading",
+    "vi": "Đang tải"
+  },
+  {
+    "key": "ambush_load_title",
+    "type": 0,
+    "en": "Ambush",
+    "vi": "Phục kích"
+  },
+  {
+    "key": "ambush_load_desc",
+    "type": 0,
+    "en": "There was no warning. <faction_name> robbers descended on the caravan, grabbing everything they could.",
+    "vi": "Không hề có lời cảnh báo nào. Bọn cướp thuộc phe <faction_name> bất ngờ ập xuống đoàn buôn, vơ vét mọi thứ trong tầm tay."
+  },
+  {
+    "key": "loot_stash_load_title",
+    "type": 0,
+    "en": "Loot stash",
+    "vi": "Kho Báu & Rương Chiến Lợi Phẩm"
+  },
+  {
+    "key": "loot_stash_load_desc",
+    "type": 0,
+    "en": "What have we here? This cache may contain something useful.",
+    "vi": "Chúng ta có gì ở đây? Hòm đồ cất giấu này chứa rất nhiều tài nguyên hữu ích."
+  },
+  {
+    "key": "bandit_camp_load_title",
+    "type": 0,
+    "en": "Bandit Camp",
+    "vi": "Doanh Trại Thổ Phỉ"
+  },
+  {
+    "key": "bandit_camp_load_desc",
+    "type": 0,
+    "en": "A well-equipped <faction_name> camp is hidden here, camouflaged by a thick screen of vegetation.",
+    "vi": "Một doanh trại được phòng bị cẩn mật của phe <faction_name> đang ẩn náu tại đây, ngụy trang sau bức màn cây cối rậm rạp."
+  },
+  {
+    "key": "stats",
+    "type": 0,
+    "en": "Stats",
+    "vi": "Chỉ số"
+  },
+  {
+    "key": "worker_stats",
+    "type": 0,
+    "en": "Stats",
+    "vi": "Chỉ số dân làng"
+  },
+  {
+    "key": "blood_treshold_01",
+    "type": 0,
+    "en": "Minor blood loss",
+    "vi": "Mất máu nhẹ"
+  },
+  {
+    "key": "blood_treshold_02",
+    "type": 0,
+    "en": "Moderate blood loss",
+    "vi": "Mất máu vừa phải"
+  },
+  {
+    "key": "blood_treshold_03",
+    "type": 0,
+    "en": "Massive blood loss",
+    "vi": "Mất máu ồ ạt nguy kịch"
+  },
+  {
+    "key": "consciousness_treshold_01",
+    "type": 0,
+    "en": "Feeling dizzy",
+    "vi": "Choáng váng hoa mắt"
+  },
+  {
+    "key": "consciousness_treshold_02",
+    "type": 0,
+    "en": "Struggling to move",
+    "vi": "Gắng gượng di chuyển"
+  },
+  {
+    "key": "consciousness_treshold_03",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Bất tỉnh nhân sự"
+  },
+  {
+    "key": "faith_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Tâm linh trọn vẹn"
+  },
+  {
+    "key": "faith_treshold_02",
+    "type": 0,
+    "en": "No need for religious activities",
+    "vi": "Chưa cần hành lễ tôn giáo"
+  },
+  {
+    "key": "faith_treshold_03",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Thiếu hụt đức tin"
+  },
+  {
+    "key": "faith_treshold_04",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Khát khao đức tin cùng cực"
+  },
+  {
+    "key": "entertaiment_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Thỏa mãn giải trí"
+  },
+  {
+    "key": "entertaiment_treshold_02",
+    "type": 0,
+    "en": "No need for entertainment",
+    "vi": "Chưa cần giải trí"
+  },
+  {
+    "key": "entertaiment_treshold_03",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Thiếu thốn niềm vui"
+  },
+  {
+    "key": "entertaiment_treshold_04",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Buồn chán cùng cực"
+  },
+  {
+    "key": "alc_treshold_01",
+    "type": 0,
+    "en": "Satisfied",
+    "vi": "Thỏa mãn rượu bia"
+  },
+  {
+    "key": "alc_treshold_02",
+    "type": 0,
+    "en": "No need for alcohol",
+    "vi": "Chưa cần uống rượu bia"
+  },
+  {
+    "key": "alc_treshold_03",
+    "type": 0,
+    "en": "Slightly lacking",
+    "vi": "Hơi thèm một ngụm rượu"
+  },
+  {
+    "key": "alc_treshold_04",
+    "type": 0,
+    "en": "Lacking",
+    "vi": "Thèm rượu"
+  },
+  {
+    "key": "alc_treshold_05",
+    "type": 0,
+    "en": "Deprived",
+    "vi": "Khát cồn cào vì thiếu rượu"
+  },
+  {
+    "key": "religious_align_treshold_01",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Restitutionist Zealot",
+    "vi": "<sprite=\"restitution_icon\" index=t> Cuồng tín Hội Phục Hưng"
+  },
+  {
+    "key": "religious_align_treshold_02",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Devout Restitutionist",
+    "vi": "<sprite=\"restitution_icon\" index=t> Tín đồ Phục Hưng sùng đạo"
+  },
+  {
+    "key": "religious_align_treshold_03",
+    "type": 0,
+    "en": "<sprite=\"restitution_icon\" index=t> Practicing Restitutionist",
+    "vi": "<sprite=\"restitution_icon\" index=t> Tín đồ Phục Hưng thuần thành"
+  },
+  {
+    "key": "religious_align_treshold_04",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Practicing Oak Brethren",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Tín đồ Cây Sồi thuần thành"
+  },
+  {
+    "key": "religious_align_treshold_05",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Devout Oak Brethren",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Tín đồ Cây Sồi sùng đạo"
+  },
+  {
+    "key": "religious_align_treshold_06",
+    "type": 0,
+    "en": "<sprite=\"oak_brethren_icon\" index=t> Oak Brethren Zealot",
+    "vi": "<sprite=\"oak_brethren_icon\" index=t> Cuồng tín Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "religious_align_treshold_01_info",
+    "type": 0,
+    "en": "This settler requires considerable religious activity to stay happy. They don't drink alcohol (Need for alcohol never changes). They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "Dân làng này đòi hỏi tham gia hoạt động tôn giáo thường xuyên để giữ tâm trạng tốt. Họ không uống rượu (nhu cầu rượu không bao giờ đổi). Họ cần một bàn thờ hoặc nhà nguyện của Giáo hội Phục Hưng để thực hiện các nghi thức tín ngưỡng."
+  },
+  {
+    "key": "religious_align_treshold_02_info",
+    "type": 0,
+    "en": "This settler needs religious activities every few days. They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "Dân làng này cần tham gia hoạt động tôn giáo vài ngày một lần. Họ cần bàn thờ hoặc nhà nguyện của Giáo hội Phục Hưng để hành lễ."
+  },
+  {
+    "key": "religious_align_treshold_03_info",
+    "type": 0,
+    "en": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require a Church of Restitution shrine or chapel for their religious observances.",
+    "vi": "Dân làng này chỉ cần cầu nguyện chớp nhoáng thỉnh thoảng để thỏa mãn nhu cầu đức tin. Họ cần bàn thờ hoặc nhà nguyện của Giáo hội Phục Hưng."
+  },
+  {
+    "key": "religious_align_treshold_04_info",
+    "type": 0,
+    "en": "This settler needs just an occasional, quick prayer to satisfy their religious needs. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "Dân làng này chỉ cần cầu nguyện chớp nhoáng thỉnh thoảng để thỏa mãn nhu cầu đức tin. Họ cần bàn thờ hoặc đền thờ của Huynh Đệ Cây Sồi."
+  },
+  {
+    "key": "religious_align_treshold_05_info",
+    "type": 0,
+    "en": "This settler needs religious activities every few days. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "Dân làng này cần tham gia hoạt động tôn giáo vài ngày một lần. Họ cần bàn thờ hoặc đền thờ của Huynh Đệ Cây Sồi để hành lễ."
+  },
+  {
+    "key": "religious_align_treshold_06_info",
+    "type": 0,
+    "en": "This settler requires considerable religious activity to stay happy. They require an Oak Brethren shrine or temple for their religious observances.",
+    "vi": "Dân làng này đòi hỏi tham gia nhiều hoạt động tôn giáo để giữ tâm trạng tốt. Họ cần bàn thờ hoặc đền thờ của Huynh Đệ Cây Sồi để thực hiện các nghi thức tín ngưỡng."
+  },
+  {
+    "key": "stomach_treshold_01",
+    "type": 0,
+    "en": "Mild stomach ache",
+    "vi": "Đau bụng nhẹ"
+  },
+  {
+    "key": "stomach_treshold_02",
+    "type": 0,
+    "en": "Serious stomach ache",
+    "vi": "Đau dạ dày nghiêm trọng"
+  },
+  {
+    "key": "stomach_treshold_03",
+    "type": 0,
+    "en": "Vomiting",
+    "vi": "Nôn mửa"
+  },
+  {
+    "key": "religious_align_scale_info",
+    "type": 0,
+    "en": "Religious alignment goes from left to right:",
+    "vi": "Xu hướng tín ngưỡng tăng dần từ trái sang phải:"
+  },
+  {
+    "key": "pain_treshold_01",
+    "type": 0,
+    "en": "Annoying pain spike (Damage to consciousness)",
+    "vi": "Cơn đau nhói buốt (Ảnh hưởng đến ý thức)"
+  }
+]

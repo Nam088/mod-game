@@ -1,0 +1,902 @@
+[
+  {
+    "key": "ctrl_IngameMenu",
+    "type": 0,
+    "en": "In Game Menu ",
+    "vi": "Menu Tạm Dừng Trong Game"
+  },
+  {
+    "key": "ctrl_Jobs",
+    "type": 0,
+    "en": "Jobs",
+    "vi": "Bảng Phân Công Công Việc"
+  },
+  {
+    "key": "ctrl_LayerDown",
+    "type": 0,
+    "en": "Show/Hide Terrain Layer Down",
+    "vi": "Hiện / Ẩn Tầng Địa Hình Bên Dưới"
+  },
+  {
+    "key": "ctrl_LayerUp",
+    "type": 0,
+    "en": "Show/Hide Terrain Layer Up",
+    "vi": "Hiện / Ẩn Tầng Địa Hình Bên Trên"
+  },
+  {
+    "key": "ctrl_MapRotateRight",
+    "type": 0,
+    "en": "Rotate View Left",
+    "vi": "Xoay Góc Nhìn Sang Trái"
+  },
+  {
+    "key": "ctrl_MapRotateLeft",
+    "type": 0,
+    "en": "Rotate View Right",
+    "vi": "Xoay Góc Nhìn Sang Phải"
+  },
+  {
+    "key": "ctrl_MouseOrbit",
+    "type": 0,
+    "en": "Orbit Camera ",
+    "vi": "Xoay Quanh Trọng Tâm Camera"
+  },
+  {
+    "key": "ctrl_MoveDown",
+    "type": 0,
+    "en": "Move Down",
+    "vi": "Di Chuyển Xuống"
+  },
+  {
+    "key": "ctrl_MoveLeft",
+    "type": 0,
+    "en": "Move Left",
+    "vi": "Di Chuyển Sang Trái"
+  },
+  {
+    "key": "ctrl_MoveRight",
+    "type": 0,
+    "en": "Move Right",
+    "vi": "Di Chuyển Sang Phải"
+  },
+  {
+    "key": "ctrl_MoveUp",
+    "type": 0,
+    "en": "Move Up",
+    "vi": "Di Chuyển Lên"
+  },
+  {
+    "key": "ctrl_Orders",
+    "type": 0,
+    "en": "Orders",
+    "vi": "Bảng Mệnh Lệnh"
+  },
+  {
+    "key": "ctrl_Production",
+    "type": 0,
+    "en": "Production",
+    "vi": "Bảng Sản Xuất"
+  },
+  {
+    "key": "ctrl_Research",
+    "type": 0,
+    "en": "Research",
+    "vi": "Cây Nghiên Cứu Học Thuật"
+  },
+  {
+    "key": "ctrl_RotateLeft",
+    "type": 0,
+    "en": "Rotate Construction Left",
+    "vi": "Xoay Hướng Công Trình Sang Trái"
+  },
+  {
+    "key": "ctrl_RotateRight",
+    "type": 0,
+    "en": "Rotate Construction Right",
+    "vi": "Xoay Hướng Công Trình Sang Phải"
+  },
+  {
+    "key": "ctrl_RtsFastMove",
+    "type": 0,
+    "en": "Fast Camera Movement",
+    "vi": "Di Chuyển Camera Tốc Độ Cao"
+  },
+  {
+    "key": "ctrl_Schedule",
+    "type": 0,
+    "en": "Schedule",
+    "vi": "Lịch Trình Sinh Hoạt"
+  },
+  {
+    "key": "ctrl_ShowHideRoofs",
+    "type": 0,
+    "en": "Roofs: Show/Hide",
+    "vi": "Bật/Tắt Hiển Thị Mái Nhà"
+  },
+  {
+    "key": "ctrl_Stockpile",
+    "type": 0,
+    "en": "Stockpile",
+    "vi": "Quy Hoạch Bãi Chứa"
+  },
+  {
+    "key": "ctrl_TiltDown",
+    "type": 0,
+    "en": "View Tilt Down",
+    "vi": "Nghiêng Góc Nhìn Xuống"
+  },
+  {
+    "key": "ctrl_TiltUp",
+    "type": 0,
+    "en": "View Tilt Up",
+    "vi": "Nghiêng Góc Nhìn Lên"
+  },
+  {
+    "key": "ctrl_ToggleForbid",
+    "type": 0,
+    "en": "Forbid/Allow",
+    "vi": "Bật/Tắt Cấm Thu Gom"
+  },
+  {
+    "key": "ctrl_Defense",
+    "type": 0,
+    "en": "Warfare",
+    "vi": "Binh Bị Quân Sự"
+  },
+  {
+    "key": "ctrl_Zone",
+    "type": 0,
+    "en": "Zone",
+    "vi": "Khu Vực"
+  },
+  {
+    "key": "ctrl_ZoomIn",
+    "type": 0,
+    "en": "View Zoom In",
+    "vi": "Phóng To Góc Nhìn"
+  },
+  {
+    "key": "ctrl_ZoomOut",
+    "type": 0,
+    "en": "View Zoom Out",
+    "vi": "Thu Nhỏ Góc Nhìn"
+  },
+  {
+    "key": "ctrl_ShrinkZone",
+    "type": 0,
+    "en": "Shrink Zone",
+    "vi": "Thu Hẹp Phạm Vi Khu Vực"
+  },
+  {
+    "key": "ctrl_ExpandZone",
+    "type": 0,
+    "en": "Expand Zone",
+    "vi": "Mở Rộng Phạm Vi Khu Vực"
+  },
+  {
+    "key": "ctrl_Manage",
+    "type": 0,
+    "en": "Manage",
+    "vi": "Quản Lý Trang Phục & Ăn Uống"
+  },
+  {
+    "key": "ctrl_LockCameraToLayer",
+    "type": 0,
+    "en": "Lock Camera to Layer",
+    "vi": "Khóa Camera Cố Định Vào Tầng"
+  },
+  {
+    "key": "ctrl_LockCameraToLayerUp",
+    "type": 0,
+    "en": "Locked Camera Layer Up",
+    "vi": "Dịch Chuyển Tầng Khóa Lên Trên"
+  },
+  {
+    "key": "ctrl_LockCameraToLayerDown",
+    "type": 0,
+    "en": "Locked Camera Layer Down",
+    "vi": "Dịch Chuyển Tầng Khóa Xuống Dưới"
+  },
+  {
+    "key": "keycode_A",
+    "type": 0,
+    "en": "A",
+    "vi": "A"
+  },
+  {
+    "key": "keycode_B",
+    "type": 0,
+    "en": "B",
+    "vi": "B"
+  },
+  {
+    "key": "keycode_C",
+    "type": 0,
+    "en": "C",
+    "vi": "C"
+  },
+  {
+    "key": "keycode_D",
+    "type": 0,
+    "en": "D",
+    "vi": "D"
+  },
+  {
+    "key": "keycode_E",
+    "type": 0,
+    "en": "E",
+    "vi": "E"
+  },
+  {
+    "key": "keycode_F",
+    "type": 0,
+    "en": "F",
+    "vi": "F"
+  },
+  {
+    "key": "keycode_G",
+    "type": 0,
+    "en": "G",
+    "vi": "G"
+  },
+  {
+    "key": "keycode_H",
+    "type": 0,
+    "en": "H",
+    "vi": "H"
+  },
+  {
+    "key": "keycode_I",
+    "type": 0,
+    "en": "I",
+    "vi": "I"
+  },
+  {
+    "key": "keycode_J",
+    "type": 0,
+    "en": "J",
+    "vi": "J"
+  },
+  {
+    "key": "keycode_K",
+    "type": 0,
+    "en": "K",
+    "vi": "K"
+  },
+  {
+    "key": "keycode_L",
+    "type": 0,
+    "en": "L",
+    "vi": "L"
+  },
+  {
+    "key": "keycode_M",
+    "type": 0,
+    "en": "M",
+    "vi": "M"
+  },
+  {
+    "key": "keycode_N",
+    "type": 0,
+    "en": "N",
+    "vi": "N"
+  },
+  {
+    "key": "keycode_O",
+    "type": 0,
+    "en": "O",
+    "vi": "O"
+  },
+  {
+    "key": "keycode_P",
+    "type": 0,
+    "en": "P",
+    "vi": "P"
+  },
+  {
+    "key": "keycode_Q",
+    "type": 0,
+    "en": "Q",
+    "vi": "Q"
+  },
+  {
+    "key": "keycode_R",
+    "type": 0,
+    "en": "R",
+    "vi": "R"
+  },
+  {
+    "key": "keycode_S",
+    "type": 0,
+    "en": "S",
+    "vi": "S"
+  },
+  {
+    "key": "keycode_T",
+    "type": 0,
+    "en": "T",
+    "vi": "T"
+  },
+  {
+    "key": "keycode_U",
+    "type": 0,
+    "en": "U",
+    "vi": "U"
+  },
+  {
+    "key": "keycode_V",
+    "type": 0,
+    "en": "V",
+    "vi": "V"
+  },
+  {
+    "key": "keycode_W",
+    "type": 0,
+    "en": "W",
+    "vi": "W"
+  },
+  {
+    "key": "keycode_X",
+    "type": 0,
+    "en": "X",
+    "vi": "X"
+  },
+  {
+    "key": "keycode_Y",
+    "type": 0,
+    "en": "Y",
+    "vi": "Y"
+  },
+  {
+    "key": "keycode_Z",
+    "type": 0,
+    "en": "Z",
+    "vi": "Z"
+  },
+  {
+    "key": "keycode_Alpha0",
+    "type": 0,
+    "en": "0",
+    "vi": "0"
+  },
+  {
+    "key": "keycode_Alpha1",
+    "type": 0,
+    "en": "1",
+    "vi": "1"
+  },
+  {
+    "key": "keycode_Alpha2",
+    "type": 0,
+    "en": "2",
+    "vi": "2"
+  },
+  {
+    "key": "keycode_Alpha3",
+    "type": 0,
+    "en": "3",
+    "vi": "3"
+  },
+  {
+    "key": "keycode_Alpha4",
+    "type": 0,
+    "en": "4",
+    "vi": "4"
+  },
+  {
+    "key": "keycode_Alpha5",
+    "type": 0,
+    "en": "5",
+    "vi": "5"
+  },
+  {
+    "key": "keycode_Alpha6",
+    "type": 0,
+    "en": "6",
+    "vi": "6"
+  },
+  {
+    "key": "keycode_Alpha7",
+    "type": 0,
+    "en": "7",
+    "vi": "7"
+  },
+  {
+    "key": "keycode_Alpha8",
+    "type": 0,
+    "en": "8",
+    "vi": "8"
+  },
+  {
+    "key": "keycode_Alpha9",
+    "type": 0,
+    "en": "9",
+    "vi": "9"
+  },
+  {
+    "key": "keycode_BackQuote",
+    "type": 0,
+    "en": "`",
+    "vi": "`"
+  },
+  {
+    "key": "keycode_Backslash",
+    "type": 0,
+    "en": "\\",
+    "vi": "\\"
+  },
+  {
+    "key": "keycode_Backspace",
+    "type": 0,
+    "en": "Backspace",
+    "vi": "Backspace"
+  },
+  {
+    "key": "keycode_CapsLock",
+    "type": 0,
+    "en": "Caps Lock",
+    "vi": "Caps Lock"
+  },
+  {
+    "key": "keycode_Clear",
+    "type": 0,
+    "en": "Clear",
+    "vi": "Clear"
+  },
+  {
+    "key": "keycode_Comma",
+    "type": 0,
+    "en": ",",
+    "vi": ","
+  },
+  {
+    "key": "keycode_Delete",
+    "type": 0,
+    "en": "Delete",
+    "vi": "Delete"
+  },
+  {
+    "key": "keycode_End",
+    "type": 0,
+    "en": "End",
+    "vi": "End"
+  },
+  {
+    "key": "keycode_Equals",
+    "type": 0,
+    "en": "Equals",
+    "vi": "Equals"
+  },
+  {
+    "key": "keycode_Escape",
+    "type": 0,
+    "en": "Escape",
+    "vi": "Escape"
+  },
+  {
+    "key": "keycode_F1",
+    "type": 0,
+    "en": "F1",
+    "vi": "F1"
+  },
+  {
+    "key": "keycode_F2",
+    "type": 0,
+    "en": "F2",
+    "vi": "F2"
+  },
+  {
+    "key": "keycode_F3",
+    "type": 0,
+    "en": "F3",
+    "vi": "F3"
+  },
+  {
+    "key": "keycode_F4",
+    "type": 0,
+    "en": "F4",
+    "vi": "F4"
+  },
+  {
+    "key": "keycode_F5",
+    "type": 0,
+    "en": "F5",
+    "vi": "F5"
+  },
+  {
+    "key": "keycode_F6",
+    "type": 0,
+    "en": "F6",
+    "vi": "F6"
+  },
+  {
+    "key": "keycode_F7",
+    "type": 0,
+    "en": "F7",
+    "vi": "F7"
+  },
+  {
+    "key": "keycode_F8",
+    "type": 0,
+    "en": "F8",
+    "vi": "F8"
+  },
+  {
+    "key": "keycode_F9",
+    "type": 0,
+    "en": "F9",
+    "vi": "F9"
+  },
+  {
+    "key": "keycode_F10",
+    "type": 0,
+    "en": "F10",
+    "vi": "F10"
+  },
+  {
+    "key": "keycode_F11",
+    "type": 0,
+    "en": "F11",
+    "vi": "F11"
+  },
+  {
+    "key": "keycode_F12",
+    "type": 0,
+    "en": "F12",
+    "vi": "F12"
+  },
+  {
+    "key": "keycode_F13",
+    "type": 0,
+    "en": "F13",
+    "vi": "F13"
+  },
+  {
+    "key": "keycode_F14",
+    "type": 0,
+    "en": "F14",
+    "vi": "F14"
+  },
+  {
+    "key": "keycode_F15",
+    "type": 0,
+    "en": "F15",
+    "vi": "F15"
+  },
+  {
+    "key": "keycode_Home",
+    "type": 0,
+    "en": "Home",
+    "vi": "Home"
+  },
+  {
+    "key": "keycode_Insert",
+    "type": 0,
+    "en": "Insert",
+    "vi": "Insert"
+  },
+  {
+    "key": "keycode_Keypad0",
+    "type": 0,
+    "en": "Keypad 0",
+    "vi": "Keypad 0"
+  },
+  {
+    "key": "keycode_Keypad1",
+    "type": 0,
+    "en": "Keypad 1",
+    "vi": "Keypad 1"
+  },
+  {
+    "key": "keycode_Keypad2",
+    "type": 0,
+    "en": "Keypad 2",
+    "vi": "Keypad 2"
+  },
+  {
+    "key": "keycode_Keypad3",
+    "type": 0,
+    "en": "Keypad 3",
+    "vi": "Keypad 3"
+  },
+  {
+    "key": "keycode_Keypad4",
+    "type": 0,
+    "en": "Keypad 4",
+    "vi": "Keypad 4"
+  },
+  {
+    "key": "keycode_Keypad5",
+    "type": 0,
+    "en": "Keypad 5",
+    "vi": "Keypad 5"
+  },
+  {
+    "key": "keycode_Keypad6",
+    "type": 0,
+    "en": "Keypad 6",
+    "vi": "Keypad 6"
+  },
+  {
+    "key": "keycode_Keypad7",
+    "type": 0,
+    "en": "Keypad 7",
+    "vi": "Keypad 7"
+  },
+  {
+    "key": "keycode_Keypad8",
+    "type": 0,
+    "en": "Keypad 8",
+    "vi": "Keypad 8"
+  },
+  {
+    "key": "keycode_Keypad9",
+    "type": 0,
+    "en": "Keypad 9",
+    "vi": "Keypad 9"
+  },
+  {
+    "key": "keycode_KeypadDivide",
+    "type": 0,
+    "en": "Keypad /",
+    "vi": "Keypad /"
+  },
+  {
+    "key": "keycode_KeypadEnter",
+    "type": 0,
+    "en": "Keypad Enter",
+    "vi": "Keypad Enter"
+  },
+  {
+    "key": "keycode_KeypadMinus",
+    "type": 0,
+    "en": "Keypad -",
+    "vi": "Keypad -"
+  },
+  {
+    "key": "keycode_KeypadMultiply",
+    "type": 0,
+    "en": "Keypad *",
+    "vi": "Keypad *"
+  },
+  {
+    "key": "keycode_KeypadPeriod",
+    "type": 0,
+    "en": "Keypad .",
+    "vi": "Keypad ."
+  },
+  {
+    "key": "keycode_KeypadPlus",
+    "type": 0,
+    "en": "Keypad +",
+    "vi": "Keypad +"
+  },
+  {
+    "key": "keycode_Minus",
+    "type": 0,
+    "en": "Minus",
+    "vi": "Minus"
+  },
+  {
+    "key": "keycode_Mouse2",
+    "type": 0,
+    "en": "Mouse Button 3",
+    "vi": "Mouse Button 3"
+  },
+  {
+    "key": "keycode_Mouse3",
+    "type": 0,
+    "en": "Mouse Button 4",
+    "vi": "Mouse Button 4"
+  },
+  {
+    "key": "keycode_Mouse4",
+    "type": 0,
+    "en": "Mouse Button 5",
+    "vi": "Mouse Button 5"
+  },
+  {
+    "key": "keycode_Mouse5",
+    "type": 0,
+    "en": "Mouse Button 6",
+    "vi": "Mouse Button 6"
+  },
+  {
+    "key": "keycode_Mouse6",
+    "type": 0,
+    "en": "Mouse Button 7",
+    "vi": "Mouse Button 7"
+  },
+  {
+    "key": "keycode_None",
+    "type": 0,
+    "en": "None",
+    "vi": "None"
+  },
+  {
+    "key": "keycode_Numlock",
+    "type": 0,
+    "en": "Numlock",
+    "vi": "Numlock"
+  },
+  {
+    "key": "keycode_PageDown",
+    "type": 0,
+    "en": "Page Down",
+    "vi": "Page Down"
+  },
+  {
+    "key": "keycode_PageUp",
+    "type": 0,
+    "en": "Page Up",
+    "vi": "Page Up"
+  },
+  {
+    "key": "keycode_Pause",
+    "type": 0,
+    "en": "Pause",
+    "vi": "Pause"
+  },
+  {
+    "key": "keycode_Period",
+    "type": 0,
+    "en": ".",
+    "vi": "."
+  },
+  {
+    "key": "keycode_Quote",
+    "type": 0,
+    "en": "Quote",
+    "vi": "Quote"
+  },
+  {
+    "key": "keycode_Return",
+    "type": 0,
+    "en": "Return",
+    "vi": "Return"
+  },
+  {
+    "key": "keycode_RightAlt",
+    "type": 0,
+    "en": "Right Alt",
+    "vi": "Right Alt"
+  },
+  {
+    "key": "keycode_RightBracket",
+    "type": 0,
+    "en": "]",
+    "vi": "]"
+  },
+  {
+    "key": "keycode_RightControl",
+    "type": 0,
+    "en": "Right Control",
+    "vi": "Right Control"
+  },
+  {
+    "key": "keycode_RightShift",
+    "type": 0,
+    "en": "Right Shift",
+    "vi": "Right Shift"
+  },
+  {
+    "key": "keycode_LeftAlt",
+    "type": 0,
+    "en": "Left Alt",
+    "vi": "Left Alt"
+  },
+  {
+    "key": "keycode_LeftBracket",
+    "type": 0,
+    "en": "[",
+    "vi": "["
+  },
+  {
+    "key": "keycode_LeftControl",
+    "type": 0,
+    "en": "Left Control",
+    "vi": "Left Control"
+  },
+  {
+    "key": "keycode_LeftShift",
+    "type": 0,
+    "en": "Left Shift",
+    "vi": "Left Shift"
+  },
+  {
+    "key": "keycode_ScrollLock",
+    "type": 0,
+    "en": "Scroll Lock",
+    "vi": "Scroll Lock"
+  },
+  {
+    "key": "keycode_Semicolon",
+    "type": 0,
+    "en": ";",
+    "vi": ";"
+  },
+  {
+    "key": "keycode_Slash",
+    "type": 0,
+    "en": "/",
+    "vi": "/"
+  },
+  {
+    "key": "keycode_Space",
+    "type": 0,
+    "en": "Space",
+    "vi": "Space"
+  },
+  {
+    "key": "keycode_Tab",
+    "type": 0,
+    "en": "Tab",
+    "vi": "Tab"
+  },
+  {
+    "key": "keycode_UpArrow",
+    "type": 0,
+    "en": "Up Arrow",
+    "vi": "Up Arrow"
+  },
+  {
+    "key": "keycode_RightArrow",
+    "type": 0,
+    "en": "Right Arrow",
+    "vi": "Right Arrow"
+  },
+  {
+    "key": "keycode_LeftArrow",
+    "type": 0,
+    "en": "Left Arrow",
+    "vi": "Left Arrow"
+  },
+  {
+    "key": "keycode_DownArrow",
+    "type": 0,
+    "en": "Down Arrow",
+    "vi": "Down Arrow"
+  },
+  {
+    "key": "ingame_menu_back",
+    "type": 0,
+    "en": "Back",
+    "vi": "Quay Lại Trò Chơi"
+  },
+  {
+    "key": "ingame_menu_delete",
+    "type": 0,
+    "en": "Delete",
+    "vi": "Xóa File Lưu Game"
+  },
+  {
+    "key": "ingame_menu_keyboard_configuration",
+    "type": 0,
+    "en": "Keyboard Configuration",
+    "vi": "Cấu Hình Phím Điều Khiển"
+  },
+  {
+    "key": "ingame_menu_main",
+    "type": 0,
+    "en": "Quit to Main Menu",
+    "vi": "Thoát Về Menu Chính"
+  },
+  {
+    "key": "ingame_menu_options",
+    "type": 0,
+    "en": "Options",
+    "vi": "Tùy Chỉnh Cài Đặt"
+  },
+  {
+    "key": "ingame_menu_override",
+    "type": 0,
+    "en": "Overwrite",
+    "vi": "Ghi Đè Bản Lưu"
+  },
+  {
+    "key": "ingame_menu_quit",
+    "type": 0,
+    "en": "Quit Game",
+    "vi": "Thoát Trò Chơi"
+  }
+]

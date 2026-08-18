@@ -1,0 +1,902 @@
+[
+  {
+    "key": "resource_name_metal",
+    "type": 0,
+    "en": "Metal",
+    "vi": "Kim Loại"
+  },
+  {
+    "key": "resource_name_dubious_meal",
+    "type": 0,
+    "en": "Dubious Meal",
+    "vi": "Món Ăn Kỳ Lạ Đáng Ngờ"
+  },
+  {
+    "key": "resource_name_burn_body",
+    "type": 0,
+    "en": "Burn Body",
+    "vi": "Hỏa táng thi hài người đã khuất"
+  },
+  {
+    "key": "resource_name_settler_carcass",
+    "type": 0,
+    "en": "Settler Corpse",
+    "vi": "Thi Thể Dân Làng"
+  },
+  {
+    "key": "resource_name_enemy_carcass",
+    "type": 0,
+    "en": "Enemy Corpse",
+    "vi": "Thi Thể Kẻ Địch"
+  },
+  {
+    "key": "resource_name_apple",
+    "type": 0,
+    "en": "Apples",
+    "vi": "Quả Táo Giòn Ngọt"
+  },
+  {
+    "key": "resource_name_apple_cider",
+    "type": 0,
+    "en": "Cider",
+    "vi": "Rượu Táo Lên Men (Cider)"
+  },
+  {
+    "key": "resource_name_apple_pie",
+    "type": 0,
+    "en": "Apple Pie",
+    "vi": "Bánh Táo Nướng Giòn"
+  },
+  {
+    "key": "resource_name_honey_biscuits",
+    "type": 0,
+    "en": "Honey Crispels",
+    "vi": "Bánh Quy Mật Ong Giòn Rụm"
+  },
+  {
+    "key": "resource_name_redcurrant_pie",
+    "type": 0,
+    "en": "Redcurrant Pie",
+    "vi": "Bánh Nướng Quả Lý Chua"
+  },
+  {
+    "key": "resource_name_mead",
+    "type": 0,
+    "en": "Mead",
+    "vi": "Rượu Mật Ong Thơm Nồng (Mead)"
+  },
+  {
+    "key": "resource_name_silver_ingot",
+    "type": 0,
+    "en": "Silver Ingot",
+    "vi": "Thỏi Bạc Đúc"
+  },
+  {
+    "key": "resource_name_ice_block",
+    "type": 0,
+    "en": "Ice Block",
+    "vi": "Khối Băng Lạnh"
+  },
+  {
+    "key": "resource_name_cabbage_seed",
+    "type": 0,
+    "en": "Cabbage Seed",
+    "vi": "Hạt Giống Bắp Cải"
+  },
+  {
+    "key": "resource_name_carrot_seed",
+    "type": 0,
+    "en": "Carrot Seed",
+    "vi": "Hạt Giống Cà Rốt"
+  },
+  {
+    "key": "resource_name_beet_seed",
+    "type": 0,
+    "en": "Beet Seed",
+    "vi": "Hạt Giống Củ Dền"
+  },
+  {
+    "key": "resource_name_herbs_seed",
+    "type": 0,
+    "en": "Herb Seed",
+    "vi": "Hạt Giống Thảo Mộc"
+  },
+  {
+    "key": "resource_name_flax_seed",
+    "type": 0,
+    "en": "Flax Seed",
+    "vi": "Cây lanh Hạt giống"
+  },
+  {
+    "key": "resource_name_birch_sapling",
+    "type": 0,
+    "en": "Birch Sapling",
+    "vi": "Birch Cây giống"
+  },
+  {
+    "key": "resource_name_oak_sapling",
+    "type": 0,
+    "en": "Oak Sapling",
+    "vi": "Oak Cây giống"
+  },
+  {
+    "key": "resource_name_maple_sapling",
+    "type": 0,
+    "en": "Maple Sapling",
+    "vi": "Maple Cây giống"
+  },
+  {
+    "key": "resource_name_pine_sapling",
+    "type": 0,
+    "en": "Pine Sapling",
+    "vi": "Pine Cây giống"
+  },
+  {
+    "key": "resource_name_apple_sapling",
+    "type": 0,
+    "en": "Apple Sapling",
+    "vi": "Apple Cây giống"
+  },
+  {
+    "key": "resource_name_willow_sapling",
+    "type": 0,
+    "en": "Willow Sapling",
+    "vi": "Willow Cây giống"
+  },
+  {
+    "key": "resource_name_tallow",
+    "type": 0,
+    "en": "Tallow",
+    "vi": "Mỡ động vật"
+  },
+  {
+    "key": "resource_name_wax",
+    "type": 0,
+    "en": "Beeswax",
+    "vi": "Tài nguyên Beeswax"
+  },
+  {
+    "key": "resource_name_wolf_carcass",
+    "type": 0,
+    "en": "Wolf Carcass",
+    "vi": "Wolf Xác"
+  },
+  {
+    "key": "resource_name_steel_ingot",
+    "type": 0,
+    "en": "Steel Ingot",
+    "vi": "Tài nguyên Steel Ingot"
+  },
+  {
+    "key": "resource_name_cow_carcass",
+    "type": 0,
+    "en": "Cow Carcass",
+    "vi": "Cow Xác"
+  },
+  {
+    "key": "resource_name_goat_carcass",
+    "type": 0,
+    "en": "Goat Carcass",
+    "vi": "Goat Xác"
+  },
+  {
+    "key": "resource_name_sheep_carcass",
+    "type": 0,
+    "en": "Sheep Carcass",
+    "vi": "Sheep Xác"
+  },
+  {
+    "key": "resource_name_donkey_carcass",
+    "type": 0,
+    "en": "Ass Carcass",
+    "vi": "Ass Xác"
+  },
+  {
+    "key": "resource_name_chicken_carcass",
+    "type": 0,
+    "en": "Chicken Carcass",
+    "vi": "Chicken Xác"
+  },
+  {
+    "key": "resource_name_boar_carcass",
+    "type": 0,
+    "en": "Boar Carcass",
+    "vi": "Boar Xác"
+  },
+  {
+    "key": "resource_name_pheasant_carcass",
+    "type": 0,
+    "en": "Pheasant Carcass",
+    "vi": "Pheasant Xác"
+  },
+  {
+    "key": "resource_name_fox_carcass",
+    "type": 0,
+    "en": "Fox Carcass",
+    "vi": "Fox Xác"
+  },
+  {
+    "key": "resource_name_cat_carcass",
+    "type": 0,
+    "en": "Cat Carcass",
+    "vi": "Cat Xác"
+  },
+  {
+    "key": "resource_name_dog_carcass",
+    "type": 0,
+    "en": "Dog Carcass",
+    "vi": "Dog Xác"
+  },
+  {
+    "key": "resource_name_rat_carcass",
+    "type": 0,
+    "en": "Rat Carcass",
+    "vi": "Rat Xác"
+  },
+  {
+    "key": "resource_name_polecat_carcass",
+    "type": 0,
+    "en": "Polecat Carcass",
+    "vi": "Polecat Xác"
+  },
+  {
+    "key": "resource_name_bear_carcass",
+    "type": 0,
+    "en": "Bear Carcass",
+    "vi": "Bear Xác"
+  },
+  {
+    "key": "resource_name_mallard_carcass",
+    "type": 0,
+    "en": "Mallard Carcass",
+    "vi": "Mallard Xác"
+  },
+  {
+    "key": "resource_name_water_vole_carcass",
+    "type": 0,
+    "en": "Water Vole Carcass",
+    "vi": "Water Vole Xác"
+  },
+  {
+    "key": "resource_name_trophy",
+    "type": 0,
+    "en": "Trophy",
+    "vi": "Tài nguyên Trophy"
+  },
+  {
+    "key": "resource_name_deer_head_trophy",
+    "type": 0,
+    "en": "Deer Head Trophy",
+    "vi": "Tài nguyên Deer Head Trophy"
+  },
+  {
+    "key": "resource_name_enemy_skull_trophy",
+    "type": 0,
+    "en": "Enemy Skull Trophy",
+    "vi": "Tài nguyên Enemy Skull Trophy"
+  },
+  {
+    "key": "resource_name_settler_skull_trophy",
+    "type": 0,
+    "en": "Settler Skull Trophy",
+    "vi": "Tài nguyên Settler Skull Trophy"
+  },
+  {
+    "key": "resource_name_hare_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Hare Trophy",
+    "vi": "Stuffed Thịt thỏ Trophy"
+  },
+  {
+    "key": "resource_name_wolf_head_trophy",
+    "type": 0,
+    "en": "Wolf Head Trophy",
+    "vi": "Thịt sói Head Trophy"
+  },
+  {
+    "key": "resource_name_cow_head_trophy",
+    "type": 0,
+    "en": "Cow Head Trophy",
+    "vi": "Tài nguyên Cow Head Trophy"
+  },
+  {
+    "key": "resource_name_goat_head_trophy",
+    "type": 0,
+    "en": "Goat Head Trophy",
+    "vi": "Tài nguyên Goat Head Trophy"
+  },
+  {
+    "key": "resource_name_sheep_head_trophy",
+    "type": 0,
+    "en": "Sheep Head Trophy",
+    "vi": "Tài nguyên Sheep Head Trophy"
+  },
+  {
+    "key": "resource_name_donkey_head_trophy",
+    "type": 0,
+    "en": "Ass Head Trophy",
+    "vi": "Tài nguyên Ass Head Trophy"
+  },
+  {
+    "key": "resource_name_chicken_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Chicken Trophy",
+    "vi": "Tài nguyên Stuffed Chicken Trophy"
+  },
+  {
+    "key": "resource_name_boar_head_trophy",
+    "type": 0,
+    "en": "Boar Head Trophy",
+    "vi": "Thịt lợn rừng Head Trophy"
+  },
+  {
+    "key": "resource_name_pheasant_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Pheasant Trophy",
+    "vi": "Tài nguyên Stuffed Pheasant Trophy"
+  },
+  {
+    "key": "resource_name_fox_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Fox Trophy",
+    "vi": "Tài nguyên Stuffed Fox Trophy"
+  },
+  {
+    "key": "resource_name_cat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Cat Trophy",
+    "vi": "Tài nguyên Stuffed Cat Trophy"
+  },
+  {
+    "key": "resource_name_dog_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Dog Trophy",
+    "vi": "Tài nguyên Stuffed Dog Trophy"
+  },
+  {
+    "key": "resource_name_rat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Rat Trophy",
+    "vi": "Tài nguyên Stuffed Rat Trophy"
+  },
+  {
+    "key": "resource_name_polecat_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Polecat Trophy",
+    "vi": "Tài nguyên Stuffed Polecat Trophy"
+  },
+  {
+    "key": "resource_name_bear_head_trophy",
+    "type": 0,
+    "en": "Bear Head Trophy",
+    "vi": "Thịt gấu Head Trophy"
+  },
+  {
+    "key": "resource_name_mallard_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Mallard Trophy",
+    "vi": "Tài nguyên Stuffed Mallard Trophy"
+  },
+  {
+    "key": "resource_name_water_vole_stuffed_trophy",
+    "type": 0,
+    "en": "Stuffed Water Vole Trophy",
+    "vi": "Tài nguyên Stuffed Water Vole Trophy"
+  },
+  {
+    "key": "resource_name_milk",
+    "type": 0,
+    "en": "Milk",
+    "vi": "Sữa tươi"
+  },
+  {
+    "key": "resource_name_egg_chicken",
+    "type": 0,
+    "en": "Egg",
+    "vi": "Trứng"
+  },
+  {
+    "key": "resource_name_cheese",
+    "type": 0,
+    "en": "Cheese",
+    "vi": "Phô mai"
+  },
+  {
+    "key": "resource_name_egg_meal",
+    "type": 0,
+    "en": "Stuffed Eggs",
+    "vi": "Stuffed Trứngs"
+  },
+  {
+    "key": "resource_name_milk_meal",
+    "type": 0,
+    "en": "Junket",
+    "vi": "Tài nguyên Junket"
+  },
+  {
+    "key": "resource_name_cheese_meal",
+    "type": 0,
+    "en": "Tart de Bry",
+    "vi": "Tài nguyên Tart de Bry"
+  },
+  {
+    "key": "resource_name_fermenting_mash",
+    "type": 0,
+    "en": "Fermenting Mash",
+    "vi": "Tài nguyên Fermenting Mash"
+  },
+  {
+    "key": "resource_name_fermented_mash",
+    "type": 0,
+    "en": "Dubious Booze",
+    "vi": "Tài nguyên Dubious Booze"
+  },
+  {
+    "key": "resource_name_fermenting_ale",
+    "type": 0,
+    "en": "Fermenting Ale",
+    "vi": "Bia ale đang lên men"
+  },
+  {
+    "key": "resource_name_fermenting_beer",
+    "type": 0,
+    "en": "Fermenting Beer",
+    "vi": "Bia đang lên men"
+  },
+  {
+    "key": "resource_name_fermenting_fruit_juice",
+    "type": 0,
+    "en": "Fermenting Fruit Juice",
+    "vi": "Nước ép trái cây đang lên men"
+  },
+  {
+    "key": "resource_name_fermenting_mead",
+    "type": 0,
+    "en": "Fermenting Mead",
+    "vi": "Rượu mật ong đang lên men"
+  },
+  {
+    "key": "resource_name_curdling_milk",
+    "type": 0,
+    "en": "Curdling Milk",
+    "vi": "Curdling Sữa tươi"
+  },
+  {
+    "key": "resource_name_aged_wine",
+    "type": 0,
+    "en": "Aged Fine Wine",
+    "vi": "Aged Fine Rượu vang"
+  },
+  {
+    "key": "resource_name_animal_feed",
+    "type": 0,
+    "en": "Animal Feed",
+    "vi": "Động vật Feed"
+  },
+  {
+    "key": "resource_name_dye",
+    "type": 0,
+    "en": "Pigment",
+    "vi": "Tài nguyên Pigment"
+  },
+  {
+    "key": "resource_name_gold_coin",
+    "type": 0,
+    "en": "Gold Coin",
+    "vi": "Vàng Coin"
+  },
+  {
+    "key": "resource_name_fish_dish",
+    "type": 0,
+    "en": "Fish Dish",
+    "vi": "Cá Dish"
+  },
+  {
+    "key": "resource_name_eel_meal",
+    "type": 0,
+    "en": "Eel Meal",
+    "vi": "Eel Bữa ăn"
+  },
+  {
+    "key": "resource_name_pike_fish",
+    "type": 0,
+    "en": "Pike ",
+    "vi": "Tài nguyên Pike "
+  },
+  {
+    "key": "resource_name_trout_fish",
+    "type": 0,
+    "en": "Trout",
+    "vi": "Cá hồi"
+  },
+  {
+    "key": "resource_name_eel",
+    "type": 0,
+    "en": "Eel",
+    "vi": "Lươn"
+  },
+  {
+    "key": "resource_name_smoked_fish",
+    "type": 0,
+    "en": "Smoked Fish",
+    "vi": "Hun khói Fish"
+  },
+  {
+    "key": "resource_name_salted_eel",
+    "type": 0,
+    "en": "Salted Eels",
+    "vi": "Muối ăned Eels"
+  },
+  {
+    "key": "resource_name_water_bucket",
+    "type": 0,
+    "en": "Water",
+    "vi": "Tài nguyên Water"
+  },
+  {
+    "key": "resource_name_flamable_oil",
+    "type": 0,
+    "en": "Flammable Oil",
+    "vi": "Tài nguyên Flammable Oil"
+  },
+  {
+    "key": "resource_name_flamable_oil_greek_fire",
+    "type": 0,
+    "en": "Greek Fire",
+    "vi": "Tài nguyên Greek Fire"
+  },
+  {
+    "key": "resource_name_dummy",
+    "type": 0,
+    "en": "Practice Dummy",
+    "vi": "Tài nguyên Practice Dummy"
+  },
+  {
+    "key": "resource_name_practice_target",
+    "type": 0,
+    "en": "Practice Target",
+    "vi": "Tài nguyên Practice Target"
+  },
+  {
+    "key": "resource_name_basic_trebuchet_ammo",
+    "type": 0,
+    "en": "Trebuchet Projectile",
+    "vi": "Tài nguyên Trebuchet Projectile"
+  },
+  {
+    "key": "resource_name_basic_ballista_ammo",
+    "type": 0,
+    "en": "Ballista Bolt",
+    "vi": "Tài nguyên Ballista Bolt"
+  },
+  {
+    "key": "resource_name_basic_onager_ammo",
+    "type": 0,
+    "en": "Onager Projectile",
+    "vi": "Tài nguyên Onager Projectile"
+  },
+  {
+    "key": "resource_name_flamable_trebuchet_ammo",
+    "type": 0,
+    "en": "Incendiary Trebuchet Projectile",
+    "vi": "Tài nguyên Incendiary Trebuchet Projectile"
+  },
+  {
+    "key": "resource_name_flamable_onager_ammo",
+    "type": 0,
+    "en": "Incendiary Onager Projectile",
+    "vi": "Tài nguyên Incendiary Onager Projectile"
+  },
+  {
+    "key": "resource_name_flamable_gf_trebuchet_ammo",
+    "type": 0,
+    "en": "Incendiary Trebuchet Projectile (greek fire)",
+    "vi": "Tài nguyên Incendiary Trebuchet Projectile (greek fire)"
+  },
+  {
+    "key": "resource_name_flamable_gf_onager_ammo",
+    "type": 0,
+    "en": "Incendiary Onager Projectile (greek fire)",
+    "vi": "Tài nguyên Incendiary Onager Projectile (greek fire)"
+  },
+  {
+    "key": "resource_info_basic_trebuchet_ammo",
+    "type": 0,
+    "en": "A hefty stone ball. Suitable for pulverising both masonry and mortal foes.",
+    "vi": "Đạn dược cơ giới công thành dùng để bắn phá thành lũy và tiêu diệt quân địch từ xa."
+  },
+  {
+    "key": "resource_info_basic_ballista_ammo",
+    "type": 0,
+    "en": "A heavy spear. Unleash with great force from the tensioned jaws of a ballista. ",
+    "vi": "Mũi tên lao khổng lồ bọc thép, phóng đi với uy lực xuyên phá khủng khiếp từ cánh nỏ của cỗ máy bắn tên Ballista."
+  },
+  {
+    "key": "resource_info_basic_onager_ammo",
+    "type": 0,
+    "en": "A collection of small stones. Rain vicious hail on your enemy.",
+    "vi": "Một chùm đá cuội cứng cáp, trút cơn mưa đá nghiền nát hàng ngũ quân thù."
+  },
+  {
+    "key": "resource_info_flamable_trebuchet_ammo",
+    "type": 0,
+    "en": "A sealed clay vessel, containing flammable oil. Burn it all down.",
+    "vi": "Bình gốm kín chứa đầy dầu hỏa, phóng đi tạo nên biển lửa thiêu rụi thành lũy quân địch."
+  },
+  {
+    "key": "resource_info_flamable_onager_ammo",
+    "type": 0,
+    "en": "Oil-drenched incendiary missiles. Spark fires, and chaos.",
+    "vi": "Những khối đạn tẩm đẫm dầu cháy, gieo rắc lửa đỏ và sự hoảng loạn tột cùng."
+  },
+  {
+    "key": "resource_info_flamable_gf_onager_ammo",
+    "type": 0,
+    "en": "Oil-drenched incendiary missiles. Spark fires, and chaos.",
+    "vi": "Những khối đạn tẩm đẫm dầu cháy, gieo rắc lửa đỏ và sự hoảng loạn tột cùng."
+  },
+  {
+    "key": "resource_name_wood_mechanical_parts",
+    "type": 0,
+    "en": "Wooden Mechanical Components",
+    "vi": "Linh Kiện Cơ Khí Bằng Gỗ"
+  },
+  {
+    "key": "resource_info_wood_mechanical_parts",
+    "type": 0,
+    "en": "Gears, wheels and ratchets finely-crafted in wood.",
+    "vi": "Hệ thống bánh răng, trục quay và then chốt được đẽo gọt vô cùng tinh xảo từ gỗ tự nhiên."
+  },
+  {
+    "key": "resource_name_clay_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Clay",
+    "vi": "Gạch Gốm Khảm Hoa Văn"
+  },
+  {
+    "key": "resource_name_stone_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Stone",
+    "vi": "Gạch Đá Khảm Hoa Văn"
+  },
+  {
+    "key": "resource_name_marble_tile_decorative",
+    "type": 0,
+    "en": "Decorative tile Marble",
+    "vi": "Gạch Cẩm Thạch Khảm Hoa Văn"
+  },
+  {
+    "key": "resource_info_clay_tile_decorative",
+    "type": 0,
+    "en": "Warm red tiles patterned with fleur-de-lis, mythical beasts and heraldic crests.",
+    "vi": "Những viên gạch đất nung đỏ ấm áp in hoa văn bách hợp, thần thú dũng mãnh và huy hiệu quý tộc."
+  },
+  {
+    "key": "resource_info_stone_tile_decorative",
+    "type": 0,
+    "en": "Finely finished tiles in all shades of stone. Glistening and tough.",
+    "vi": "Những viên gạch đá mài bóng loáng với nhiều sắc thái màu đá tự nhiên, cứng cáp và tráng lệ."
+  },
+  {
+    "key": "resource_info_marble_tile_decorative",
+    "type": 0,
+    "en": "Salvaged from a Roman ruin, this polished tile has creatures from the Great Flood pressed within.",
+    "vi": "Thu nhặt từ tàn tích La Mã cổ đại, viên gạch cẩm thạch bóng loáng này khắc họa các sinh linh từ thời Đại Hồng Thủy."
+  },
+  {
+    "key": "resource_name_restitutionist_relic",
+    "type": 0,
+    "en": "Holy Relic",
+    "vi": "Thánh Tích Tôn Giáo"
+  },
+  {
+    "key": "resource_name_mighty_oak_sapling",
+    "type": 0,
+    "en": "Mighty Oak Sapling",
+    "vi": "Cây Giống Sồi Đại Ngàn"
+  },
+  {
+    "key": "resource_name_grand_book",
+    "type": 0,
+    "en": "Influential Treatise",
+    "vi": "Đại Luận Văn Uyên Bác"
+  },
+  {
+    "key": "resource_info_restitutionist_relic",
+    "type": 0,
+    "en": "A crumbling finger bone is all that remains of the Venerable Saint Mildred, revered for her kindness.. ",
+    "vi": "Đốt xương ngón tay hóa thạch là tất cả những gì còn lưu lại của Thánh Mildred đáng kính, người được muôn dân sùng kính vì lòng bác ái vô bờ."
+  },
+  {
+    "key": "resource_info_mighty_oak_sapling",
+    "type": 0,
+    "en": "A new sapling revealed in a sacred grove. Its burnished bark gleams with promise.",
+    "vi": "Chồi cây non thiêng liêng đâm chồi từ rừng cấm. Lớp vỏ cây óng ả hứa hẹn sẽ vươn mình thành đại thụ che chở ngàn năm."
+  },
+  {
+    "key": "resource_info_grand_book",
+    "type": 0,
+    "en": "A great compendium of the distilled knowledge of <village_name>, gilded, bound in vellum and illuminated in the rarest pigments.",
+    "vi": "Bộ đại bách khoa toàn thư chắt lọc toàn bộ tinh hoa tri thức của <village_name>, mạ vàng lá, đóng bìa da cừu vellum và minh họa bằng những sắc màu trân quý nhất."
+  },
+  {
+    "key": "resource_name_blackberry",
+    "type": 0,
+    "en": "Blackberry",
+    "vi": "Quả Mâm Xôi Đen"
+  },
+  {
+    "key": "resource_name_sloe",
+    "type": 0,
+    "en": "Sloe",
+    "vi": "Quả Mận Gai (Sloe)"
+  },
+  {
+    "key": "resource_name_gooseberry",
+    "type": 0,
+    "en": "Gooseberry",
+    "vi": "Quả Lý Gai (Gooseberry)"
+  },
+  {
+    "key": "resource_info_blackberry",
+    "type": 0,
+    "en": "A hedgerow jewel, delicious eaten raw or cooked into pies and jam.",
+    "vi": "Viên ngọc quý nơi bờ dậu gai, ăn tươi rất ngon ngọt hoặc dùng để nướng bánh và ngâm mứt thơm lừng."
+  },
+  {
+    "key": "resource_info_sloe",
+    "type": 0,
+    "en": "Best picked after the first frost for wines and jellies. An ancient and astringent fruit, beloved of witches.",
+    "vi": "Thu hoạch sau đợt sương giá đầu tiên để ủ rượu và nấu thạch đông. Thức quả cổ xưa vị chát đượm, món khoái khẩu của các phù thủy."
+  },
+  {
+    "key": "resource_info_gooseberry",
+    "type": 0,
+    "en": "Gooseberry tart, fool or compote are the recipes of choice for this juicy currant.",
+    "vi": "Bánh tart quả lý gai, kem tráng miệng hay mứt nấu nhừ là những công thức ẩm thực tuyệt hảo cho loại quả mọng nước này."
+  },
+  {
+    "key": "resource_name_quince",
+    "type": 0,
+    "en": "Quince",
+    "vi": "Quả Mộc Qua (Quince)"
+  },
+  {
+    "key": "resource_name_damson",
+    "type": 0,
+    "en": "Damson",
+    "vi": "Quả Mận Damson"
+  },
+  {
+    "key": "resource_name_mulberrie",
+    "type": 0,
+    "en": "Mulberry",
+    "vi": "Quả Dâu Tằm"
+  },
+  {
+    "key": "resource_name_walnut",
+    "type": 0,
+    "en": "Walnut",
+    "vi": "Hạt Óc Chó"
+  },
+  {
+    "key": "resource_info_quince",
+    "type": 0,
+    "en": "A legendary, tough fruit that welcomes spicing with nutmeg or cloves. Poach, preserve or serve with wild game. ",
+    "vi": "Thức quả cứng cáp nổi danh, rất hợp khi tẩm ướp cùng nhục đậu khấu hoặc đinh hương. Hầm nhừ, ngâm đường hoặc ăn kèm thịt thú rừng."
+  },
+  {
+    "key": "resource_info_damson",
+    "type": 0,
+    "en": "Dried, stewed or preserved, these wild plums offer sustenance through the winter.\n",
+    "vi": "Những quả mận dại này có thể phơi khô, hầm hoặc ngâm bảo quản, giúp chống đói qua mùa đông."
+  },
+  {
+    "key": "resource_info_mulberrie",
+    "type": 0,
+    "en": "The mulberry fruit is a delight in all manner of puddings, syrups and pies.",
+    "vi": "Quả dâu tằm mang lại hương vị mê đắm cho đủ loại bánh pudding, si-rô ngọt ngào và bánh nướng giòn rụm."
+  },
+  {
+    "key": "resource_info_walnut",
+    "type": 0,
+    "en": "Raw, pickled or pressed, these brain-shaped nuts are a must for the winter store cupboard.",
+    "vi": "Ăn sống, muối chua hay ép lấy dầu, loại hạt hình bộ não này là thức dự trữ không thể thiếu cho tủ thức ăn mùa đông."
+  },
+  {
+    "key": "resource_name_quince_sapling",
+    "type": 0,
+    "en": "Quince Sapling",
+    "vi": "Cây Giống Mộc Qua"
+  },
+  {
+    "key": "resource_name_walnut_sapling",
+    "type": 0,
+    "en": "Walnut Sapling",
+    "vi": "Cây Giống Óc Chó"
+  },
+  {
+    "key": "resource_name_damson_sapling",
+    "type": 0,
+    "en": "Damson Sapling",
+    "vi": "Cây Giống Mận Damson"
+  },
+  {
+    "key": "resource_name_mulberrie_sapling",
+    "type": 0,
+    "en": "Mulberry Sapling",
+    "vi": "Cây Giống Dâu Tằm"
+  },
+  {
+    "key": "resource_name_cannonball",
+    "type": 0,
+    "en": "Shot",
+    "vi": "Đạn Đại Bác Pháo Gang"
+  },
+  {
+    "key": "resource_info_cannonball",
+    "type": 0,
+    "en": "Cast from iron into a mould of sand. A large, round rock is equally destructive.",
+    "vi": "Được đúc từ sắt nung chảy trong khuôn cát định hình. Một tảng đá tròn lớn cũng mang lại sức công phá hủy diệt tương tự."
+  },
+  {
+    "key": "resource_name_explosive_trebuchet_ammo",
+    "type": 0,
+    "en": "Explosive Trebuchet Projectile",
+    "vi": "Đạn Nổ Máy Bắn Đá Trebuchet"
+  },
+  {
+    "key": "resource_info_explosive_trebuchet_ammo",
+    "type": 0,
+    "en": "Gunpowder is carefully poured into this spherical clay pot. Light and launch for explosive results.",
+    "vi": "Thuốc súng đen được cẩn thận rót đầy vào bình gốm hình cầu này. Châm ngòi và phóng đi để tạo nên vụ nổ kinh hoàng hủy diệt."
+  },
+  {
+    "key": "resource_name_stewed_fruit",
+    "type": 0,
+    "en": "Compote",
+    "vi": "Mứt Trái Cây Nấu Nhừ (Compote)"
+  },
+  {
+    "key": "resource_name_vegetable_stew",
+    "type": 0,
+    "en": "Stew",
+    "vi": "Món Rau Củ Hầm Nóng"
+  },
+  {
+    "key": "resource_name_cooked_grain",
+    "type": 0,
+    "en": "Gruel",
+    "vi": "Cháo Ngũ Cốc Nóng (Gruel)"
+  },
+  {
+    "key": "resource_name_roasted_fish",
+    "type": 0,
+    "en": "Grilled Fish",
+    "vi": "Cá Nướng Giòn"
+  },
+  {
+    "key": "resource_name_egg_boiled",
+    "type": 0,
+    "en": "Boiled Egg",
+    "vi": "Trứng Luộc Lòng Đào"
+  },
+  {
+    "key": "resource_info_egg_boiled",
+    "type": 0,
+    "en": "Simple but tasty, with a firm white and creamy, golden yolk.",
+    "vi": "Món ăn đơn sơ nhưng thơm bùi, với lòng trắng dai giòn và lòng đỏ vàng ươm béo ngậy."
+  },
+  {
+    "key": "resource_name_sauteed_fruits",
+    "type": 0,
+    "en": "Lavish Fruit Course",
+    "vi": "Món Trái Cây Thượng Hạng"
+  },
+  {
+    "key": "resource_name_lavish_vegetable_stew",
+    "type": 0,
+    "en": "Lavish Vegetable Dish",
+    "vi": "Món Rau Củ Thịnh Soạn"
+  }
+]

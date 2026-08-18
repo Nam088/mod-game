@@ -1,0 +1,902 @@
+[
+  {
+    "key": "pain_treshold_02",
+    "type": 0,
+    "en": "Worrying pain spike (Damage to consciousness)",
+    "vi": "Worrying Cơn đau spike (Damage để Ý thức)"
+  },
+  {
+    "key": "pain_treshold_03",
+    "type": 0,
+    "en": "Serious pain spike (Damage to consciousness)",
+    "vi": "Serious Cơn đau spike (Damage để Ý thức)"
+  },
+  {
+    "key": "pain_treshold_04",
+    "type": 0,
+    "en": "Alarming pain spike (Damage to consciousness)",
+    "vi": "Alarming Cơn đau spike (Damage để Ý thức)"
+  },
+  {
+    "key": "pain_treshold_05",
+    "type": 0,
+    "en": "Excruciating pain spike (Damage to consciousness)",
+    "vi": "Excruciating Cơn đau spike (Damage để Ý thức)"
+  },
+  {
+    "key": "sleep_treshold_00",
+    "type": 0,
+    "en": "Well rested",
+    "vi": "Nghỉ ngơi đầy đủ"
+  },
+  {
+    "key": "sleep_treshold_01",
+    "type": 0,
+    "en": "Well rested",
+    "vi": "Nghỉ ngơi đầy đủ"
+  },
+  {
+    "key": "sleep_treshold_02",
+    "type": 0,
+    "en": "Competent",
+    "vi": "Tỉnh táo"
+  },
+  {
+    "key": "sleep_treshold_03",
+    "type": 0,
+    "en": "Tired",
+    "vi": "Mệt mỏi"
+  },
+  {
+    "key": "sleep_treshold_04",
+    "type": 0,
+    "en": "Exhausted",
+    "vi": "Kiệt sức"
+  },
+  {
+    "key": "sleep_treshold_05",
+    "type": 0,
+    "en": "Fatigued",
+    "vi": "Uể oải rã rời"
+  },
+  {
+    "key": "worker_attributes",
+    "type": 0,
+    "en": "Attributes",
+    "vi": "Thuộc tính dân làng"
+  },
+  {
+    "key": "worker_biography",
+    "type": 0,
+    "en": "Biography",
+    "vi": "Tiểu sử cuộc đời"
+  },
+  {
+    "key": "worker_health",
+    "type": 0,
+    "en": "Health",
+    "vi": "Sức khỏe"
+  },
+  {
+    "key": "worker_inventory",
+    "type": 0,
+    "en": "Inventory",
+    "vi": "Túi đồ"
+  },
+  {
+    "key": "worker_social",
+    "type": 0,
+    "en": "Social",
+    "vi": "Giao tiếp"
+  },
+  {
+    "key": "worker_stance_aggressive_desc",
+    "type": 0,
+    "en": "Settlers in aggressive stance will engage in combat if an enemy is in the line of sight",
+    "vi": "Dân làng ở trạng thái Hung hãn sẽ chủ động lao vào chiến đấu ngay khi nhìn thấy kẻ thù trong tầm mắt."
+  },
+  {
+    "key": "worker_stance_aggressive_title",
+    "type": 0,
+    "en": "Aggressive",
+    "vi": "Hung hãn"
+  },
+  {
+    "key": "worker_stance_flee_desc",
+    "type": 0,
+    "en": "Settler in flee stance will run away from any enemy in the line of sight",
+    "vi": "Dân làng ở trạng thái Bỏ chạy sẽ lập tức tìm nơi an toàn khi phát hiện mối đe dọa."
+  },
+  {
+    "key": "worker_stance_flee_title",
+    "type": 0,
+    "en": "Flee",
+    "vi": "Bỏ chạy"
+  },
+  {
+    "key": "worker_stance_neutral_desc",
+    "type": 0,
+    "en": "Settler in neutral stance will not react to nearby enemies, but will fight back if attacked.",
+    "vi": "Dân làng ở trạng thái Trung lập sẽ phớt lờ kẻ thù trừ khi được chỉ định trực tiếp."
+  },
+  {
+    "key": "worker_stance_neutral_title",
+    "type": 0,
+    "en": "Neutral",
+    "vi": "Trung lập"
+  },
+  {
+    "key": "worker_drafted_stance_hold_ground_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Giữ vị trí"
+  },
+  {
+    "key": "worker_drafted_stance_default_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Mặc định"
+  },
+  {
+    "key": "general_stats",
+    "type": 0,
+    "en": "Attributes",
+    "vi": "Thuộc tính dân làng"
+  },
+  {
+    "key": "mass_carried",
+    "type": 0,
+    "en": "Mass carried",
+    "vi": "Khối lượng mang theo"
+  },
+  {
+    "key": "comfort_treshold_05",
+    "type": 0,
+    "en": "Very Uncomfortable",
+    "vi": "Rất khó chịu"
+  },
+  {
+    "key": "comfort_treshold_04",
+    "type": 0,
+    "en": "Uncomfortable",
+    "vi": "Khó chịu"
+  },
+  {
+    "key": "comfort_treshold_03",
+    "type": 0,
+    "en": "Comfortable",
+    "vi": "Thoải mái"
+  },
+  {
+    "key": "comfort_treshold_02",
+    "type": 0,
+    "en": "Very Comfortable",
+    "vi": "Rất thoải mái"
+  },
+  {
+    "key": "comfort_treshold_not_used",
+    "type": 0,
+    "en": "Extremely Comfortable",
+    "vi": "Cực kỳ thoải mái"
+  },
+  {
+    "key": "beauty_treshold_05",
+    "type": 0,
+    "en": "Abysmal Surroundings",
+    "vi": "Khung cảnh tồi tệ"
+  },
+  {
+    "key": "beauty_treshold_04",
+    "type": 0,
+    "en": "Uninspiring Surroundings",
+    "vi": "Khung cảnh tẻ nhạt"
+  },
+  {
+    "key": "beauty_treshold_03",
+    "type": 0,
+    "en": "Pleasant Surroundings",
+    "vi": "Khung cảnh dễ chịu"
+  },
+  {
+    "key": "beauty_treshold_02",
+    "type": 0,
+    "en": "Beautiful Surroundings",
+    "vi": "Khung cảnh tuyệt đẹp"
+  },
+  {
+    "key": "stat_target",
+    "type": 0,
+    "en": "Target",
+    "vi": "Mục tiêu"
+  },
+  {
+    "key": "worker_overweight_slowdown",
+    "type": 0,
+    "en": "This settler is over-burdened and so will move more slowly.",
+    "vi": "Này dân làng là over-burdened và so sẽ move nhiều hơn slowly."
+  },
+  {
+    "key": "social_treshold_02",
+    "type": 0,
+    "en": "Deprived of company",
+    "vi": "Thiếu người bầu bạn"
+  },
+  {
+    "key": "social_treshold_03",
+    "type": 0,
+    "en": "Lonely",
+    "vi": "Cô đơn quạnh quẽ"
+  },
+  {
+    "key": "birthday_pattern",
+    "type": 0,
+    "en": "<age> (<birthday>. of <season>)",
+    "vi": "<age> (<birthday>. của <season>)"
+  },
+  {
+    "key": "can_not_draft_fist_fight_hour",
+    "type": 0,
+    "en": "A brawling settler cannot be drafted.",
+    "vi": "Không thể động viên một dân làng đang ẩu đả đánh nhau."
+  },
+  {
+    "key": "selected_worker_is_fist_fight_hour",
+    "type": 0,
+    "en": "The selected settler is brawling and won't take orders",
+    "vi": "Dân làng được chọn đang ẩu đả và sẽ không nhận mệnh lệnh"
+  },
+  {
+    "key": "hour_type_fist_fight_name",
+    "type": 0,
+    "en": "Brawl",
+    "vi": "Ẩu đả"
+  },
+  {
+    "key": "worker_action_BanishGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Đang rời đi"
+  },
+  {
+    "key": "worker_action_attackgoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Đang tấn công"
+  },
+  {
+    "key": "worker_action_enemyselfdefensegoal",
+    "type": 0,
+    "en": "Attacking",
+    "vi": "Đang tấn công"
+  },
+  {
+    "key": "worker_action_carrytobedgoal",
+    "type": 0,
+    "en": "Carrying wounded to a bed",
+    "vi": "Carrying wounded đến a giường"
+  },
+  {
+    "key": "worker_action_choptreegoal",
+    "type": 0,
+    "en": "Cutting",
+    "vi": "Đang chặt"
+  },
+  {
+    "key": "worker_action_diggoal",
+    "type": 0,
+    "en": "Mining/Digging",
+    "vi": "Khai khoáng/Digging"
+  },
+  {
+    "key": "worker_action_drafted",
+    "type": 0,
+    "en": "Drafted",
+    "vi": "Huy động"
+  },
+  {
+    "key": "worker_action_equipgoal",
+    "type": 0,
+    "en": "Equipping item",
+    "vi": "Đang trang bị"
+  },
+  {
+    "key": "worker_action_faintgoal",
+    "type": 0,
+    "en": "Unconscious",
+    "vi": "Bất tỉnh"
+  },
+  {
+    "key": "worker_action_fleegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Đang tháo chạy"
+  },
+  {
+    "key": "worker_action_harvestgoal",
+    "type": 0,
+    "en": "Harvesting resources",
+    "vi": "Thu hoạch resources"
+  },
+  {
+    "key": "worker_action_hungergoal",
+    "type": 0,
+    "en": "Hungry",
+    "vi": "Đói"
+  },
+  {
+    "key": "worker_action_huntinggoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Săn bắn"
+  },
+  {
+    "key": "worker_action_idlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Rảnh rỗi"
+  },
+  {
+    "key": "worker_action_leavemapgoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Đang rời đi"
+  },
+  {
+    "key": "worker_action_productioncarpentrygoal",
+    "type": 0,
+    "en": "Crafting wooden item",
+    "vi": "Chế tạo wooden item"
+  },
+  {
+    "key": "worker_action_productioncookinggoal",
+    "type": 0,
+    "en": "Preparing food",
+    "vi": "Đang chuẩn bị thức ăn"
+  },
+  {
+    "key": "worker_action_productioncarcassdisposalgoal",
+    "type": 0,
+    "en": "Preparing Body",
+    "vi": "Đang xử lý thi thể"
+  },
+  {
+    "key": "worker_action_productionchemistrygoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Đang sản xuất"
+  },
+  {
+    "key": "worker_action_productioncraftinggoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Đang sản xuất"
+  },
+  {
+    "key": "worker_action_productionresearchgoal",
+    "type": 0,
+    "en": "Writing",
+    "vi": "Đang viết"
+  },
+  {
+    "key": "worker_action_productionsmithinggoal",
+    "type": 0,
+    "en": "Crafting metal item",
+    "vi": "Chế tạo metal item"
+  },
+  {
+    "key": "worker_action_productiontailoringgoal",
+    "type": 0,
+    "en": "Tailoring",
+    "vi": "May mặc"
+  },
+  {
+    "key": "worker_action_productionworkergoal",
+    "type": 0,
+    "en": "Producing",
+    "vi": "Đang sản xuất"
+  },
+  {
+    "key": "worker_action_restgoal",
+    "type": 0,
+    "en": "Convalescing",
+    "vi": "Đang dưỡng bệnh"
+  },
+  {
+    "key": "worker_action_sleepgoal",
+    "type": 0,
+    "en": "Sleeping",
+    "vi": "Đang ngủ"
+  },
+  {
+    "key": "worker_action_stockpilehaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Vận chuyển để stockpile"
+  },
+  {
+    "key": "worker_action_shelfhaulinggoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Vận chuyển để stockpile"
+  },
+  {
+    "key": "worker_action_tendwoundsgoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Đang chữa trị wounds"
+  },
+  {
+    "key": "worker_action_SelfTendWoundsGoal",
+    "type": 0,
+    "en": "Tending wounds",
+    "vi": "Đang chữa trị wounds"
+  },
+  {
+    "key": "worker_action_walktopositiondraftgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Khả năng di chuyển để location"
+  },
+  {
+    "key": "worker_action_walktopositiongoal",
+    "type": 0,
+    "en": "En route",
+    "vi": "Đang trên đường"
+  },
+  {
+    "key": "worker_action_autoequipgoal",
+    "type": 0,
+    "en": "Auto equipping",
+    "vi": "Tự động equipping"
+  },
+  {
+    "key": "worker_action_faithgoal",
+    "type": 0,
+    "en": "Praying",
+    "vi": "Đang cầu nguyện"
+  },
+  {
+    "key": "worker_action_changedoorlockdtategoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Cửa"
+  },
+  {
+    "key": "worker_action_setuptrapgoal",
+    "type": 0,
+    "en": "Resetting trap",
+    "vi": "Đang đặt lại bẫy"
+  },
+  {
+    "key": "worker_action_drinkgoal",
+    "type": 0,
+    "en": "Drinking",
+    "vi": "Đang uống"
+  },
+  {
+    "key": "worker_action_vomitgoal",
+    "type": 0,
+    "en": "Vomiting",
+    "vi": "Đang nôn mửa"
+  },
+  {
+    "key": "worker_action_entertainmentgoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Đang giải trí"
+  },
+  {
+    "key": "worker_action_ChangeDoorLockStateGoal",
+    "type": 0,
+    "en": "Locking/Unlocking Door",
+    "vi": "Locking/Unlocking Cửa"
+  },
+  {
+    "key": "worker_action_changelockstategoal",
+    "type": 0,
+    "en": "Stewarding",
+    "vi": "Đang quản lý"
+  },
+  {
+    "key": "worker_action_burybodygoal",
+    "type": 0,
+    "en": "Burying remains",
+    "vi": "Đang chôn cất hài cốt"
+  },
+  {
+    "key": "worker_action_OperateTrebuchetGoal",
+    "type": 0,
+    "en": "Operating Siege Weapon",
+    "vi": "Operating Siege Vũ khí"
+  },
+  {
+    "key": "worker_action_TradeGoal",
+    "type": 0,
+    "en": "Bartering",
+    "vi": "Đang trao đổi"
+  },
+  {
+    "key": "worker_action_formcaravangoal",
+    "type": 0,
+    "en": "Forming Caravan",
+    "vi": "Forming Thương đoàn"
+  },
+  {
+    "key": "worker_action_incaravan",
+    "type": 0,
+    "en": "Travelling",
+    "vi": "Đang di chuyển"
+  },
+  {
+    "key": "worker_action_deliverfuelgoal",
+    "type": 0,
+    "en": "Refueling",
+    "vi": "Đang tiếp nhiên liệu"
+  },
+  {
+    "key": "worker_action_releasePrisonerGoal",
+    "type": 0,
+    "en": "Releasing Prisoner",
+    "vi": "Releasing Tù nhân"
+  },
+  {
+    "key": "worker_action_FollowGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Khả năng di chuyển để location"
+  },
+  {
+    "key": "worker_action_FollowMoveOrderGoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Khả năng di chuyển để location"
+  },
+  {
+    "key": "worker_action_npcidlewalkgoal",
+    "type": 0,
+    "en": "Moving to location",
+    "vi": "Khả năng di chuyển để location"
+  },
+  {
+    "key": "worker_action_TraderIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Rảnh rỗi"
+  },
+  {
+    "key": "worker_action_EnemyIdleGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Rảnh rỗi"
+  },
+  {
+    "key": "worker_action_EnemyWithdrawalGoal",
+    "type": 0,
+    "en": "Leaving",
+    "vi": "Đang rời đi"
+  },
+  {
+    "key": "worker_action_fillfoodstoragegoal",
+    "type": 0,
+    "en": "Filling Food Pouch",
+    "vi": "Đang nạp túi thức ăn"
+  },
+  {
+    "key": "worker_action_RopedFollowGoal",
+    "type": 0,
+    "en": "Roped",
+    "vi": "Đang bị buộc dây"
+  },
+  {
+    "key": "worker_action_PestControlGoal",
+    "type": 0,
+    "en": "Hunting",
+    "vi": "Săn bắn"
+  },
+  {
+    "key": "worker_action_productionartgoal",
+    "type": 0,
+    "en": "Creating Art",
+    "vi": "Đang sáng tác"
+  },
+  {
+    "key": "worker_action_FillMedicineStorageGoal",
+    "type": 0,
+    "en": "Filling Medicine Pouch",
+    "vi": "Filling Y thuật Pouch"
+  },
+  {
+    "key": "worker_action_PatientGoal",
+    "type": 0,
+    "en": "Waiting for medical treatment",
+    "vi": "Waiting cho medical treatment"
+  },
+  {
+    "key": "worker_action_FishingGoal",
+    "type": 0,
+    "en": "Fishing",
+    "vi": "Đang câu cá"
+  },
+  {
+    "key": "worker_action_StockpileUrgentHaulingGoal",
+    "type": 0,
+    "en": "Hauling to stockpile",
+    "vi": "Vận chuyển để stockpile"
+  },
+  {
+    "key": "worker_action_BardRoleGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Đang biểu diễn"
+  },
+  {
+    "key": "worker_action_FeastEventGoalBard",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Đang biểu diễn"
+  },
+  {
+    "key": "worker_action_BardVisitorGoal",
+    "type": 0,
+    "en": "Performing ",
+    "vi": "Đang biểu diễn"
+  },
+  {
+    "key": "worker_action_PriestRoleGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Đang chủ trì nghi lễ Hội Phục Hưng"
+  },
+  {
+    "key": "worker_action_SermonEventGoalPriest",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Đang chủ trì nghi lễ Hội Phục Hưng"
+  },
+  {
+    "key": "worker_action_PriestVisitorGoal",
+    "type": 0,
+    "en": "Leading a Restitutionist ceremony",
+    "vi": "Đang chủ trì nghi lễ Hội Phục Hưng"
+  },
+  {
+    "key": "worker_action_ShamanRoleGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+  },
+  {
+    "key": "worker_action_RitualEventGoalShaman",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+  },
+  {
+    "key": "worker_action_ShamanVisitorGoal",
+    "type": 0,
+    "en": "Leading an Oak Brethren ceremony",
+    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+  },
+  {
+    "key": "worker_action_NegotiateGoal",
+    "type": 0,
+    "en": "Negotiating",
+    "vi": "Đang đàm phán"
+  },
+  {
+    "key": "worker_action_FeastEventGoal",
+    "type": 0,
+    "en": "Feasting",
+    "vi": "Đang dự tiệc"
+  },
+  {
+    "key": "worker_action_SermonEventGoal",
+    "type": 0,
+    "en": "Attending Restitutionist Service",
+    "vi": "Đang dự lễ Phục Hưng"
+  },
+  {
+    "key": "worker_action_RitualEventGoal",
+    "type": 0,
+    "en": "Attending Oak Brethren Ritual",
+    "vi": "Attending Huynh Đệ Cây Sồi Ritual"
+  },
+  {
+    "key": "abort_event_participation_confirm",
+    "type": 0,
+    "en": "Leaving the event early may yield negative mood modifiers for this settler. Are you sure you want to proceed?",
+    "vi": "Rời khỏi sự kiện sớm có thể gây giảm tâm trạng cho dân làng này. Bạn có chắc chắn muốn tiếp tục không?"
+  },
+  {
+    "key": "worker_action_HangingEventGoal",
+    "type": 0,
+    "en": "Attending Hanging Event",
+    "vi": "Attending Hanging Sự kiện"
+  },
+  {
+    "key": "worker_action_RopePrisonerToHangingEventGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Đang hộ tống"
+  },
+  {
+    "key": "worker_action_GallowsExecutionGoal",
+    "type": 0,
+    "en": "Going to Gallows",
+    "vi": "Going đến Gallows"
+  },
+  {
+    "key": "worker_action_RopeEnemyGoal",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Đang hộ tống"
+  },
+  {
+    "key": "worker_action_WardenRoleGoal",
+    "type": 0,
+    "en": "Supervising Labourers",
+    "vi": "Đang giám sát lao động"
+  },
+  {
+    "key": "worker_action_ProductionTrainGoal",
+    "type": 0,
+    "en": "Training Skill",
+    "vi": "Đang huấn luyện Skill"
+  },
+  {
+    "key": "worker_action_TakeOutFireGoal",
+    "type": 0,
+    "en": "Quenching Fires",
+    "vi": "Đang dập lửa"
+  },
+  {
+    "key": "worker_action_IdleOnFireGoal",
+    "type": 0,
+    "en": "On Fire",
+    "vi": "Trên Fire"
+  },
+  {
+    "key": "worker_action_BarrelFillGoal",
+    "type": 0,
+    "en": "Filling Barrel",
+    "vi": "Đang đổ đầy thùng"
+  },
+  {
+    "key": "worker_action_OpenShelfGoal",
+    "type": 0,
+    "en": "Emptying Container",
+    "vi": "Đang dọn vật chứa"
+  },
+  {
+    "key": "worker_action_deliverammunitiontotrebuchetgoal",
+    "type": 0,
+    "en": "Loading War Machine",
+    "vi": "Đang nạp máy chiến tranh"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoalLibrarian",
+    "type": 0,
+    "en": "Holding a Study Group",
+    "vi": "Đang tổ chức nhóm học tập"
+  },
+  {
+    "key": "worker_action_MasterClassEventGoal",
+    "type": 0,
+    "en": "Attending a Study Group event",
+    "vi": "Attending a Study Group sự kiện"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalRanged",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Đang huấn luyện event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalMelee",
+    "type": 0,
+    "en": "Attending a Training event",
+    "vi": "Attending a Đang huấn luyện event"
+  },
+  {
+    "key": "worker_action_TrainingEventGoalSergeant",
+    "type": 0,
+    "en": "Holding a Training event",
+    "vi": "Holding a Đang huấn luyện event"
+  },
+  {
+    "key": "worker_action_LibrarianRoleGoal",
+    "type": 0,
+    "en": "Cataloguing manuscripts",
+    "vi": "Đang lập danh mục bản thảo"
+  },
+  {
+    "key": "worker_action_SergeantRoleGoal",
+    "type": 0,
+    "en": "Sharpening weapons",
+    "vi": "Sharpening vũ khí"
+  },
+  {
+    "key": "worker_action_BrokerRoleGoal",
+    "type": 0,
+    "en": "Counting money",
+    "vi": "Đang đếm tiền"
+  },
+  {
+    "key": "worker_action_ForcedFleeGoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Đang tháo chạy"
+  },
+  {
+    "key": "worker_action_BackgammonEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Đang giải trí"
+  },
+  {
+    "key": "worker_action_ShovelboardEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Đang giải trí"
+  },
+  {
+    "key": "worker_action_SkittlesEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Đang giải trí"
+  },
+  {
+    "key": "worker_action_QuoitsEntertainmentGoal",
+    "type": 0,
+    "en": "Enjoying entertainment",
+    "vi": "Đang giải trí"
+  },
+  {
+    "key": "worker_action_visitorpilgrimidlegoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Rảnh rỗi"
+  },
+  {
+    "key": "worker_action_StripCarcassGoal",
+    "type": 0,
+    "en": "Stripping belongings",
+    "vi": "Đang tước đồ"
+  },
+  {
+    "key": "worker_action_EnemyIdlePatrolGoal",
+    "type": 0,
+    "en": "Idle",
+    "vi": "Rảnh rỗi"
+  },
+  {
+    "key": "worker_action_prisonerescapegoal",
+    "type": 0,
+    "en": "Fleeing",
+    "vi": "Đang tháo chạy"
+  },
+  {
+    "key": "worker_action_FollowInsultGoal",
+    "type": 0,
+    "en": "Heckling",
+    "vi": "Chế giễu khiêu khích"
+  },
+  {
+    "key": "worker_action_InitiateSocialFightGoal",
+    "type": 0,
+    "en": "Quarrelsome",
+    "vi": "Đang gây gổ"
+  },
+  {
+    "key": "worker_action_SocialFightGoal",
+    "type": 0,
+    "en": "Brawl",
+    "vi": "Đang ẩu đả"
+  },
+  {
+    "key": "worker_action_SolitaryIdleGoal",
+    "type": 0,
+    "en": "Isolating",
+    "vi": "Đang tách mình"
+  }
+]

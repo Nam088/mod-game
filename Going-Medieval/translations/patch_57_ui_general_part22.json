@@ -1,0 +1,902 @@
+[
+  {
+    "key": "effector_name_ComfortableMedium",
+    "type": 0,
+    "en": "Uncomfortable",
+    "vi": "Không thoải mái"
+  },
+  {
+    "key": "effector_name_ComfortableVery",
+    "type": 0,
+    "en": "Comfortable",
+    "vi": "Thoải mái"
+  },
+  {
+    "key": "effector_name_ComfortableExtremely",
+    "type": 0,
+    "en": "Very Comfortable",
+    "vi": "Rất thoải mái"
+  },
+  {
+    "key": "effector_name_MadeSomethigOutOfHumanLeather",
+    "type": 0,
+    "en": "Made something out of Human Leather",
+    "vi": "Chế tác đồ từ da người"
+  },
+  {
+    "key": "effector_info_MadeSomethigOutOfHumanLeather",
+    "type": 0,
+    "en": "It turns out that human skin is surprisingly supple and easy to work with. I wish I didn't know that.",
+    "vi": "Hóa ra da người lại mềm mại và dễ chế tác đến bất ngờ. Ước gì tôi không biết điều đó."
+  },
+  {
+    "key": "effector_name_AffectionSettledTogether",
+    "type": 0,
+    "en": "Settled Together",
+    "vi": "Cùng định cư"
+  },
+  {
+    "key": "effector_name_AffectionNegative",
+    "type": 0,
+    "en": "Unpleasant Conversation",
+    "vi": "Cuộc trò chuyện khó chịu"
+  },
+  {
+    "key": "effector_name_AffectionNeutral",
+    "type": 0,
+    "en": "Small Talk",
+    "vi": "Chuyện phiếm"
+  },
+  {
+    "key": "effector_name_AffectionPositive",
+    "type": 0,
+    "en": "Pleasant Conversation",
+    "vi": "Cuộc trò chuyện dễ chịu"
+  },
+  {
+    "key": "effector_name_AffectionVeryPositive",
+    "type": 0,
+    "en": "Wonderful Conversation",
+    "vi": "Cuộc trò chuyện tuyệt vời"
+  },
+  {
+    "key": "effector_name_AffectionVeryNegative",
+    "type": 0,
+    "en": "Terrible Conversation",
+    "vi": "Cuộc trò chuyện tồi tệ"
+  },
+  {
+    "key": "effector_name_AffectionPetNeutral",
+    "type": 0,
+    "en": "Decent company",
+    "vi": "Bạn đồng hành ổn"
+  },
+  {
+    "key": "effector_name_AffectionPetVeryPossitive",
+    "type": 0,
+    "en": "Wonderful company",
+    "vi": "Bạn đồng hành tuyệt vời"
+  },
+  {
+    "key": "effector_name_AffectionPetVeryNegative",
+    "type": 0,
+    "en": "Terrible company",
+    "vi": "Bạn đồng hành tồi tệ"
+  },
+  {
+    "key": "effector_name_AffectionWelcome",
+    "type": 0,
+    "en": "Welcomed me to the settlement ",
+    "vi": "Welcomed me để Khu định cư "
+  },
+  {
+    "key": "effector_name_AffectionCarryToBed",
+    "type": 0,
+    "en": "Carried me when I was wounded",
+    "vi": "Carried me when I đã wounded"
+  },
+  {
+    "key": "effector_name_AffectionTendWounds",
+    "type": 0,
+    "en": "Tended my wounds",
+    "vi": "Tended của tôi wounds"
+  },
+  {
+    "key": "effector_name_AffectionBattledTogether",
+    "type": 0,
+    "en": "We battled together ",
+    "vi": "Chúng ta đã cùng chiến đấu"
+  },
+  {
+    "key": "effector_name_BeliefNeutral",
+    "type": 0,
+    "en": "Faith unaffected",
+    "vi": "Đức tin không đổi"
+  },
+  {
+    "key": "effector_name_BeliefSlightPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith increased slightly",
+    "vi": "Huynh Đệ Cây Sồi faith increased slightly"
+  },
+  {
+    "key": "effector_name_BeliefPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith increased",
+    "vi": "Huynh Đệ Cây Sồi faith increased"
+  },
+  {
+    "key": "effector_name_BeliefVeryPositivePagan",
+    "type": 0,
+    "en": "Oak Brethren faith deepened significantly",
+    "vi": "Huynh Đệ Cây Sồi faith deepened significantly"
+  },
+  {
+    "key": "effector_name_BeliefSlightPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion increased slightly",
+    "vi": "Giáo hội Phục Hưng devotion increased slightly"
+  },
+  {
+    "key": "effector_name_BeliefPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion increased",
+    "vi": "Giáo hội Phục Hưng devotion increased"
+  },
+  {
+    "key": "effector_name_BeliefVeryPositiveChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion greatly magnified",
+    "vi": "Giáo hội Phục Hưng devotion greatly magnified"
+  },
+  {
+    "key": "effector_name_BeliefSlightNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith decreased slightly",
+    "vi": "Huynh Đệ Cây Sồi faith decreased slightly"
+  },
+  {
+    "key": "effector_name_BeliefNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith decreased",
+    "vi": "Huynh Đệ Cây Sồi faith decreased"
+  },
+  {
+    "key": "effector_name_BeliefVeryNegativePagan",
+    "type": 0,
+    "en": "Oak Brethren faith diminished significantly",
+    "vi": "Huynh Đệ Cây Sồi faith diminished significantly"
+  },
+  {
+    "key": "effector_name_BeliefSlightNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion decreased slightly",
+    "vi": "Giáo hội Phục Hưng devotion decreased slightly"
+  },
+  {
+    "key": "effector_name_BeliefNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion decreased",
+    "vi": "Giáo hội Phục Hưng devotion decreased"
+  },
+  {
+    "key": "effector_name_BeliefVeryNegativeChristian",
+    "type": 0,
+    "en": "Church of Restitution devotion greatly diminished",
+    "vi": "Giáo hội Phục Hưng devotion greatly diminished"
+  },
+  {
+    "key": "effector_name_BeliefConversionPagan",
+    "type": 0,
+    "en": "Converted to Oak Brethren",
+    "vi": "Converted để Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "effector_name_BeliefConversionChristian",
+    "type": 0,
+    "en": "Converted to Church of Restitution",
+    "vi": "Converted để Giáo hội Phục Hưng"
+  },
+  {
+    "key": "effector_name_SocialNeedLow",
+    "type": 0,
+    "en": "Lonely",
+    "vi": "Cô đơn"
+  },
+  {
+    "key": "effector_name_SocialNeedMed",
+    "type": 0,
+    "en": "Deprived of company",
+    "vi": "Deprived của company"
+  },
+  {
+    "key": "effector_name_BanishedVillagerFriend",
+    "type": 0,
+    "en": "Banished Friend",
+    "vi": "Bạn bị trục xuất"
+  },
+  {
+    "key": "effector_name_BanishedVillagerRival",
+    "type": 0,
+    "en": "Banished Rival",
+    "vi": "Đối thủ bị trục xuất"
+  },
+  {
+    "key": "effector_name_WorkerDiedFriend",
+    "type": 0,
+    "en": "Friend Died",
+    "vi": "Bạn đã chết"
+  },
+  {
+    "key": "effector_name_WorkerDiedRival",
+    "type": 0,
+    "en": "Rival Died",
+    "vi": "Đối thủ đã chết"
+  },
+  {
+    "key": "effector_info_BanishedVillagerFriend",
+    "type": 0,
+    "en": "As if life isn't hard enough already. Now I've lost a friend as well.",
+    "vi": "Cuộc sống vốn dĩ đã quá nghiệt ngã rồi. Giờ tôi lại mất đi một người bạn thân."
+  },
+  {
+    "key": "effector_info_BanishedVillagerRival",
+    "type": 0,
+    "en": "Good Riddance! I hope thay get captured by bandits!",
+    "vi": "Cút đi cho khuất mắt! Mong chúng bị bọn cướp bắt!"
+  },
+  {
+    "key": "effector_info_WorkerDiedFriend",
+    "type": 0,
+    "en": "Oh, how I shall mourn my friend's passing.",
+    "vi": "Oh, how I shall mourn của tôi bạn's passing."
+  },
+  {
+    "key": "effector_info_WorkerDiedRival",
+    "type": 0,
+    "en": "We mustn't speak ill of the dead. But I can't pretend I'll shed many tears, either.",
+    "vi": "We mustn't speak ill của dead. But Tôi có thể't pretend Tôi sẽ shed many tears, either."
+  },
+  {
+    "key": "effector_name_BanishedVillager",
+    "type": 0,
+    "en": "Banished Settler",
+    "vi": "Dân làng bị trục xuất"
+  },
+  {
+    "key": "effector_info_BanishedVillager",
+    "type": 0,
+    "en": "There are too few of us already in this world. Banishing someone feels like a betrayal.",
+    "vi": "Số người sống sót trên thế gian này đã quá ít ỏi. Việc trục xuất ai đó chẳng khác nào một sự phản bội."
+  },
+  {
+    "key": "effector_name_WorkerDied",
+    "type": 0,
+    "en": "Acquaintance died",
+    "vi": "Người quen đã chết"
+  },
+  {
+    "key": "effector_info_WorkerDied",
+    "type": 0,
+    "en": "I can't believe they are no more!",
+    "vi": "Tôi có thể't believe they là Không hơn!"
+  },
+  {
+    "key": "effector_name_DrankVeryNiceWine",
+    "type": 0,
+    "en": "Drank fine wine",
+    "vi": "Đã uống rượu vang hảo hạng"
+  },
+  {
+    "key": "effector_info_DrankVeryNiceWine",
+    "type": 0,
+    "en": "Mmm, this wine is like bottled poetry.",
+    "vi": "Mmm, điều này wine là like bottled poetry."
+  },
+  {
+    "key": "effector_name_WetLow",
+    "type": 0,
+    "en": "Damp",
+    "vi": "Ẩm ướt"
+  },
+  {
+    "key": "effector_name_WetMed",
+    "type": 0,
+    "en": "Wet",
+    "vi": "Ướt"
+  },
+  {
+    "key": "effector_name_WetHigh",
+    "type": 0,
+    "en": "Drenched",
+    "vi": "Sũng nước"
+  },
+  {
+    "key": "effector_name_In_water",
+    "type": 0,
+    "en": "In Water",
+    "vi": "Ở dưới nước"
+  },
+  {
+    "key": "effector_name_drowning",
+    "type": 0,
+    "en": "Drowning",
+    "vi": "Đang chết đuối"
+  },
+  {
+    "key": "effector_name_DrownLoseHP",
+    "type": 0,
+    "en": "Drowning",
+    "vi": "Đang chết đuối"
+  },
+  {
+    "key": "effector_name_RoleAssign",
+    "type": 0,
+    "en": "Assigned role",
+    "vi": "Được giao vai trò"
+  },
+  {
+    "key": "effector_info_RoleAssign",
+    "type": 0,
+    "en": "I am fortunate to be given the <role> role in <village_name>.",
+    "vi": "Tôi thật may mắn và vinh dự khi được trao chức vụ <role> tại <village_name>."
+  },
+  {
+    "key": "effector_name_RoleRetract",
+    "type": 0,
+    "en": "Role revoked",
+    "vi": "Vai trò bị thu hồi"
+  },
+  {
+    "key": "effector_info_RoleRetract",
+    "type": 0,
+    "en": "I'm disappointed that my role as <role> was taken away.",
+    "vi": "Tôi rất thất vọng và chán nản khi chức vụ <role> bị tước bỏ."
+  },
+  {
+    "key": "effector_name_RoleReqLost",
+    "type": 0,
+    "en": "Lacking requirements",
+    "vi": "Thiếu điều kiện"
+  },
+  {
+    "key": "effector_info_RoleReqLost",
+    "type": 0,
+    "en": "I lack certain requirements to carry out my duties fully: <list_of_requirements>",
+    "vi": "Tôi thiếu một số điều kiện cần thiết để thực thi trọn vẹn nhiệm vụ của mình: <list_of_requirements>"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Feast",
+    "vi": "Yến tiệc thảm họa"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Feast",
+    "vi": "Yến tiệc đáng than trách"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Feast",
+    "vi": "Yến tiệc đáng thất vọng"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeDecent",
+    "type": 0,
+    "en": "Decent Feast",
+    "vi": "Yến tiệc tạm được"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Feast",
+    "vi": "Yến tiệc thú vị"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Feast",
+    "vi": "Yến tiệc xuất sắc"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Feast",
+    "vi": "Yến tiệc khó quên"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeTerribleHedonist",
+    "type": 0,
+    "en": "Appalling Feast (Hedonist)",
+    "vi": "Yến tiệc thảm họa (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryBadHedonist",
+    "type": 0,
+    "en": "Lamentable Feast (Hedonist)",
+    "vi": "Yến tiệc đáng than trách (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeBadHedonist",
+    "type": 0,
+    "en": "Disappointing Feast (Hedonist)",
+    "vi": "Yến tiệc đáng thất vọng (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeDecentHedonist",
+    "type": 0,
+    "en": "Decent Feast (Hedonist)",
+    "vi": "Yến tiệc tạm được (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeGoodHedonist",
+    "type": 0,
+    "en": "Enjoyable Feast (Hedonist)",
+    "vi": "Yến tiệc thú vị (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeVeryGoodHedonist",
+    "type": 0,
+    "en": "Excellent Feast (Hedonist)",
+    "vi": "Yến tiệc xuất sắc (Khoái lạc)"
+  },
+  {
+    "key": "effector_name_EventFeastOutcomeUnforgettableHedonist",
+    "type": 0,
+    "en": "Unforgettable Feast (Hedonist)",
+    "vi": "Yến tiệc khó quên (Khoái lạc)"
+  },
+  {
+    "key": "effector_info_EventOutcomeTerrible",
+    "type": 0,
+    "en": "Shamefully chaotic event. I yearned for death, quite literally, to end my suffering faster. Never again.",
+    "vi": "Shamefully chaotic event. I yearned cho death, quite literally, để end của tôi suffering faster. Never again."
+  },
+  {
+    "key": "effector_info_EventOutcomeVeryBad",
+    "type": 0,
+    "en": "I regret going to that - there are several hours of my life that I'd like back. What a letdown.",
+    "vi": "I regret going để đó - there là several hours của của tôi cuộc sống đó I'd like Quay lại. What a letdown."
+  },
+  {
+    "key": "effector_info_EventOutcomeBad",
+    "type": 0,
+    "en": "I can't say I enjoyed that. The whole event was pretty uninspiring, if I'm honest.",
+    "vi": "Tôi không thể nói là mình thích điều đó. Thật lòng mà nói toàn bộ sự việc khá tẻ nhạt."
+  },
+  {
+    "key": "effector_info_EventOutcomeDecent",
+    "type": 0,
+    "en": "That was an acceptable way to pass some time, all things considered.",
+    "vi": "That đã an acceptable way để pass some time, Tất cả things considered."
+  },
+  {
+    "key": "effector_info_EventOutcomeGood",
+    "type": 0,
+    "en": "I think everyone had a pretty good experience. I'm looking forward to the next one already.",
+    "vi": "Tôi thấy mọi người đều đã có một trải nghiệm thật tuyệt vời. Tôi rất mong chờ sự kiện tiếp theo."
+  },
+  {
+    "key": "effector_info_EventOutcomeVeryGood",
+    "type": 0,
+    "en": "What a captivating event! I'll be thinking about it for days to come. I'm so glad I went.",
+    "vi": "What a captivating event! Tôi sẽ be thinking about it cho days để come. Tôi đang so glad I went."
+  },
+  {
+    "key": "effector_info_EventOutcomeUnforgettable",
+    "type": 0,
+    "en": "I've never been to an event like it. You had to be there - I was awestruck that anything could be so beautiful.",
+    "vi": "Tôi đã never been để an event like it. You had để be there - I đã awestruck đó anything could be so beautiful."
+  },
+  {
+    "key": "effector_name_GoalPreferenceVeryNegative",
+    "type": 0,
+    "en": "Resentfully did something ",
+    "vi": "Làm việc gì đó trong oán giận"
+  },
+  {
+    "key": "effector_name_GoalPreferenceNegative",
+    "type": 0,
+    "en": "Unwillingly did something",
+    "vi": "Miễn cưỡng làm việc gì đó"
+  },
+  {
+    "key": "effector_name_GoalPreferencePositive",
+    "type": 0,
+    "en": "Eagerly did something",
+    "vi": "Hăm hở làm việc gì đó"
+  },
+  {
+    "key": "effector_name_GoalPreferenceVeryPositive",
+    "type": 0,
+    "en": "Passionately did something",
+    "vi": "Say mê làm việc gì đó"
+  },
+  {
+    "key": "effector_info_GoalPreference",
+    "type": 0,
+    "en": "(<goal_names>) <style=AltColor>Tip: if your settlers are feeling down, try and give them jobs that they are passionate about. This will boost their mood.</style>",
+    "vi": "(<goal_names>) <style=AltColor>Mẹo: Nếu dân làng cảm thấy chán nản, hãy giao cho họ công việc đam mê để nâng cao tâm trạng.</style>"
+  },
+  {
+    "key": "effector_name_EventFeastNonParticipant",
+    "type": 0,
+    "en": "Did not attend feast",
+    "vi": "Did không attend feast"
+  },
+  {
+    "key": "effector_info_EventFeastNonParticipant",
+    "type": 0,
+    "en": "So, I wasn't important enough to be invited. Who cares? I'll make my own feast, with backgammon and harlots!",
+    "vi": "So, I wasn't important enough để be invited. Who cares? Tôi sẽ make của tôi own feast, với backgammon và harlots!"
+  },
+  {
+    "key": "effector_name_EventSermonNonParticipant",
+    "type": 0,
+    "en": "Did Not Attend Eucharist ",
+    "vi": "Không dự Thánh lễ"
+  },
+  {
+    "key": "effector_info_EventSermonNonParticipant",
+    "type": 0,
+    "en": "Maybe they just forgot to invite me",
+    "vi": "Maybe they just forgot để invite me"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Eucharist ",
+    "vi": "Thánh lễ thảm họa"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Eucharist ",
+    "vi": "Thánh lễ đáng than trách"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Eucharist ",
+    "vi": "Thánh lễ đáng thất vọng"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeDecent",
+    "type": 0,
+    "en": "Decent Eucharist ",
+    "vi": "Thánh lễ tạm được"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Eucharist ",
+    "vi": "Thánh lễ thú vị"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Eucharist ",
+    "vi": "Thánh lễ xuất sắc"
+  },
+  {
+    "key": "effector_name_EventSermonOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Eucharist ",
+    "vi": "Thánh lễ khó quên"
+  },
+  {
+    "key": "effector_info_EventSermonOutcomePagan",
+    "type": 0,
+    "en": "Curious. A lot of chanting in latin. I suppose the bread and wine stand in for an actual sacrifice, then?",
+    "vi": "Curious. A lot của chanting trong latin. I suppose bread và wine stand trong cho an actual sacrifice, then?"
+  },
+  {
+    "key": "effector_name_EventRitualNonParticipant",
+    "type": 0,
+    "en": "Did Not Attend Ritual",
+    "vi": "Không dự nghi lễ"
+  },
+  {
+    "key": "effector_info_EventRitualNonParticipant",
+    "type": 0,
+    "en": "Maybe they just forgot to invite me",
+    "vi": "Maybe they just forgot để invite me"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling Ritual",
+    "vi": "Nghi lễ thảm họa"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable Ritual",
+    "vi": "Nghi lễ đáng than trách"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeBad",
+    "type": 0,
+    "en": "Disappointing Ritual",
+    "vi": "Nghi lễ đáng thất vọng"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeDecent",
+    "type": 0,
+    "en": "Decent Ritual",
+    "vi": "Nghi lễ tạm được"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable Ritual",
+    "vi": "Nghi lễ thú vị"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent Ritual",
+    "vi": "Nghi lễ xuất sắc"
+  },
+  {
+    "key": "effector_name_EventRitualOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable Ritual",
+    "vi": "Nghi lễ khó quên"
+  },
+  {
+    "key": "effector_info_EventRitualOutcomeChris",
+    "type": 0,
+    "en": "I appreciate the veneration of all God's creation, but the animal sacrifices and divination were a bit much.",
+    "vi": "I appreciate veneration của Tất cả God's creation, but animal sacrifices và divination đã a bit much."
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsNegative",
+    "type": 0,
+    "en": "Badly executed",
+    "vi": "Thi hành tồi tệ"
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsPositive",
+    "type": 0,
+    "en": "An excellent hanging",
+    "vi": "Một vụ treo cổ xuất sắc"
+  },
+  {
+    "key": "effector_name_EventExecutionGallowsNeutral",
+    "type": 0,
+    "en": "Watched a hanging",
+    "vi": "Đã chứng kiến vụ treo cổ"
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsNegative",
+    "type": 0,
+    "en": "The execution was a travesty of justice. I repent of my decision to watch it",
+    "vi": "Vụ hành quyết là một sự bất công tàn nhẫn. Tôi vô cùng hối hận vì đã quyết định đứng xem nó."
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsPositive",
+    "type": 0,
+    "en": "Who doesn't love a good hanging? They deserved what was coming to them.",
+    "vi": "Who doesn't love a tốt hanging? Họ deserved what đã coming để them."
+  },
+  {
+    "key": "effector_info_EventExecutionGallowsNeutral",
+    "type": 0,
+    "en": "I suppose justice was served? Rather them than me...",
+    "vi": "I suppose justice đã served? Rather them than me..."
+  },
+  {
+    "key": "effector_name_ExecutedPrisoner",
+    "type": 0,
+    "en": "Prisoner Executed",
+    "vi": "Tù nhân bị hành quyết"
+  },
+  {
+    "key": "effector_info_ExecutedPrisoner",
+    "type": 0,
+    "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
+    "vi": "Mercy upon đó poor prisoner's soul! There, but cho grace của của tôi gaolers, go I..."
+  },
+  {
+    "key": "effector_name_PrisonerSetFree",
+    "type": 0,
+    "en": "Prisoner Freed",
+    "vi": "Tù nhân được thả"
+  },
+  {
+    "key": "effector_info_PrisonerSetFree",
+    "type": 0,
+    "en": "One of our wretched cellmates is released! Might I perchance harbour dreams of my own freedom?",
+    "vi": "One của our wretched cellmates là released! Might I perchance harbour dreams của của tôi own freedom?"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellAwful",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellDull",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellMediocre",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellGood",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellSlightlyImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellSomewhatImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellVeryImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_SleptInPrisonCellExtremelyImpressive",
+    "type": 0,
+    "en": "Slept in an prison cell",
+    "vi": "Slept trong an prison cell"
+  },
+  {
+    "key": "effector_name_RecruitSuccessful",
+    "type": 0,
+    "en": "Recruiting attempt successful",
+    "vi": "Chiêu mộ thành công"
+  },
+  {
+    "key": "effector_name_RecruitFailed",
+    "type": 0,
+    "en": "Recruiting attempt failed",
+    "vi": "Chiêu mộ thất bại"
+  },
+  {
+    "key": "effector_name_DungProximity",
+    "type": 0,
+    "en": "The scent of dung",
+    "vi": "Mùi phân động vật"
+  },
+  {
+    "key": "effector_info_DungProximity",
+    "type": 0,
+    "en": "A foetid whisper of decay rises, assaulting the nostrils",
+    "vi": "A foetid whisper của decay rises, assaulting nostrils"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeTerrible",
+    "type": 0,
+    "en": "Appalling <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> thảm họa"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeVeryBad",
+    "type": 0,
+    "en": "Lamentable <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> đáng than trách"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeBad",
+    "type": 0,
+    "en": "Disappointing <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> đáng thất vọng"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeDecent",
+    "type": 0,
+    "en": "Decent <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> tạm được"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeGood",
+    "type": 0,
+    "en": "Enjoyable <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> thú vị"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeVeryGood",
+    "type": 0,
+    "en": "Excellent <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> xuất sắc"
+  },
+  {
+    "key": "effector_name_EventMasterClassOutcomeUnforgettable",
+    "type": 0,
+    "en": "Unforgettable <skill_name> Study Group",
+    "vi": "Nhóm học <skill_name> khó quên"
+  },
+  {
+    "key": "effector_name_EventOutcomeTerribleTrainingBuff",
+    "type": 0,
+    "en": "Appalling Martial Training",
+    "vi": "Huấn luyện quân sự thảm họa"
+  },
+  {
+    "key": "effector_name_EventOutcomeVeryBadTrainingBuff",
+    "type": 0,
+    "en": "Lamentable Martial Training",
+    "vi": "Huấn luyện quân sự đáng than trách"
+  },
+  {
+    "key": "effector_name_EventOutcomeBadTrainingBuff",
+    "type": 0,
+    "en": "Disappointing Martial Training",
+    "vi": "Huấn luyện quân sự đáng thất vọng"
+  },
+  {
+    "key": "effector_name_EventOutcomeDecentTrainingBuff",
+    "type": 0,
+    "en": "Decent Martial Training",
+    "vi": "Huấn luyện quân sự tạm được"
+  },
+  {
+    "key": "effector_name_EventOutcomeGoodTrainingBuff",
+    "type": 0,
+    "en": "Enjoyable Martial Training",
+    "vi": "Huấn luyện quân sự thú vị"
+  },
+  {
+    "key": "effector_name_EventOutcomeVeryGoodTrainingBuff",
+    "type": 0,
+    "en": "Excellent Martial Training",
+    "vi": "Huấn luyện quân sự xuất sắc"
+  },
+  {
+    "key": "effector_name_EventOutcomeUnforgettableTrainingBuff",
+    "type": 0,
+    "en": "Unforgettable Martial Training",
+    "vi": "Huấn luyện quân sự khó quên"
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeTerrible",
+    "type": 0,
+    "en": "I'm so confused? I know even less about <skill_name> than when I started!",
+    "vi": "Tôi đang so confused? I know even ít hơn about <skill_name> than when I started!"
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeVeryBad",
+    "type": 0,
+    "en": "Well, that's a few hours of my life I can never get back. I've learned nothing.",
+    "vi": "Well, đó's a few hours của của tôi cuộc sống Tôi có thể never get Quay lại. Tôi đã learned nothing."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeBad",
+    "type": 0,
+    "en": "That was dull, and mostly obvious. At best, I've gone over what I already knew.",
+    "vi": "Buổi giảng dạy thật tẻ nhạt và toàn những điều hiển nhiên. Cùng lắm chỉ là nhắc lại những gì tôi đã biết."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeDecent",
+    "type": 0,
+    "en": "That was a solid lesson. I'm looking forward to finding out more.",
+    "vi": "That đã a solid lesson. Tôi đang looking forward để finding out hơn."
+  },
+  {
+    "key": "effector_info_EventMasterClassOutcomeGood",
+    "type": 0,
+    "en": "I feel as though I've learned something new today.",
+    "vi": "Tôi cảm thấy as though Tôi đã learned something new hôm nay."
+  }
+]

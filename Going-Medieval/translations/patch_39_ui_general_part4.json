@@ -1,0 +1,902 @@
+[
+  {
+    "key": "in_pen",
+    "type": 0,
+    "en": "In Pen",
+    "vi": "Trong Chuồng Nuôi"
+  },
+  {
+    "key": "general_retaliate",
+    "type": 0,
+    "en": "Retaliate",
+    "vi": "Tự Vệ Phản Kháng"
+  },
+  {
+    "key": "tame_failed_retaliate_message",
+    "type": 0,
+    "en": "Retaliate",
+    "vi": "Thú Hoang Nổi Giận Phản Công"
+  },
+  {
+    "key": "hunt_retaliate_info",
+    "type": 0,
+    "en": "The chance that the quarry fights back.",
+    "vi": "Tỉ lệ con mồi nổi giận chống trả khi bị thợ săn tấn công."
+  },
+  {
+    "key": "tame_retaliate_info",
+    "type": 0,
+    "en": "The chance that the animal will attack the settler taming it",
+    "vi": "Tỉ lệ con thú tấn công dân làng khi nỗ lực thuần hóa thất bại."
+  },
+  {
+    "key": "tameable_info",
+    "type": 0,
+    "en": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)",
+    "vi": "Tỉ lệ thuần hóa thành công (kỹ năng của dân làng sẽ nhân thêm vào tỉ lệ này)."
+  },
+  {
+    "key": "tameable",
+    "type": 0,
+    "en": "Tameable",
+    "vi": "Có Thể Thuần Hóa"
+  },
+  {
+    "key": "unnamed",
+    "type": 0,
+    "en": "Unnamed",
+    "vi": "Chưa Đặt Tên"
+  },
+  {
+    "key": "tame_successful_message",
+    "type": 0,
+    "en": "Taming attempt successful",
+    "vi": "Thuần hóa động vật thành công"
+  },
+  {
+    "key": "tame_failed_message",
+    "type": 0,
+    "en": "Taming attempt failed",
+    "vi": "Thuần hóa động vật thất bại"
+  },
+  {
+    "key": "training_successful_message",
+    "type": 0,
+    "en": "Training attempt successful",
+    "vi": "Huấn luyện thú cưng thành công"
+  },
+  {
+    "key": "train_failed_message",
+    "type": 0,
+    "en": "Training attempt failed",
+    "vi": "Huấn luyện thú cưng thất bại"
+  },
+  {
+    "key": "general_failed",
+    "type": 0,
+    "en": "Failed",
+    "vi": "Thất Bại"
+  },
+  {
+    "key": "general_successful",
+    "type": 0,
+    "en": "Successful",
+    "vi": "Thành Công"
+  },
+  {
+    "key": "tame_try_left",
+    "type": 0,
+    "en": "Taming attempts remaining today ",
+    "vi": "Lượt thử thuần hóa còn lại hôm nay"
+  },
+  {
+    "key": "tame_try_info",
+    "type": 0,
+    "en": "Last taming attempt",
+    "vi": "Lần thuần hóa gần nhất"
+  },
+  {
+    "key": "train_try_left",
+    "type": 0,
+    "en": "Training attempts remaining today",
+    "vi": "Lượt huấn luyện còn lại hôm nay"
+  },
+  {
+    "key": "train_try_info",
+    "type": 0,
+    "en": "Last training attempt",
+    "vi": "Lần huấn luyện gần nhất"
+  },
+  {
+    "key": "tame_try_maximum",
+    "type": 0,
+    "en": "This animal has already had a taming attempt today",
+    "vi": "Con vật này đã được thử thuần hóa tối đa số lần trong ngày hôm nay."
+  },
+  {
+    "key": "train_try_maximum",
+    "type": 0,
+    "en": "This animal has already had a training attempt today",
+    "vi": "Con vật này đã được thử huấn luyện tối đa số lần trong ngày hôm nay."
+  },
+  {
+    "key": "pile_has_fermented",
+    "type": 0,
+    "en": "<resource_name> has fermented on stockpile and turned into: <fermented_resource>",
+    "vi": "<resource_name> đã lên men tại bãi chứa và biến thành: <fermented_resource>"
+  },
+  {
+    "key": "general_male",
+    "type": 0,
+    "en": "m",
+    "vi": "nam"
+  },
+  {
+    "key": "general_female",
+    "type": 0,
+    "en": "f",
+    "vi": "nữ"
+  },
+  {
+    "key": "is_storable_on_some_stockpile",
+    "type": 0,
+    "en": "Stockpile that can store this resource exists",
+    "vi": "Bãi chứa that can store this resource exists"
+  },
+  {
+    "key": "is_marked_for_hauling",
+    "type": 0,
+    "en": "Marked for hauling",
+    "vi": "Marked cho Vận chuyển"
+  },
+  {
+    "key": "reserved_spaces",
+    "type": 0,
+    "en": "Reserved Spaces",
+    "vi": "Số ô đã giữ chỗ"
+  },
+  {
+    "key": "manage_panel_cant_change",
+    "type": 0,
+    "en": "Default profile cannot be changed. Create a new profile using the plus button and edit the new one.",
+    "vi": "Không thể thay đổi hồ sơ mặc định. Hãy tạo hồ sơ mới bằng nút dấu cộng và chỉnh sửa hồ sơ đó."
+  },
+  {
+    "key": "obsolete_character_preset_message",
+    "type": 0,
+    "en": "Your preset <style=AltColor>\"<preset_name>\"</style> stored in <style=AltColor>\"ManageGroupPresets.json\"</style> is obsolete and can't load.",
+    "vi": "Thiết lập mẫu <style=AltColor>\"<preset_name>\"</style> lưu trong <style=AltColor>\"ManageGroupPresets.json\"</style> đã cũ và không thể tải."
+  },
+  {
+    "key": "general_diet",
+    "type": 0,
+    "en": "Diet",
+    "vi": "Chế độ ăn"
+  },
+  {
+    "key": "general_true",
+    "type": 0,
+    "en": "True",
+    "vi": "Đúng"
+  },
+  {
+    "key": "general_false",
+    "type": 0,
+    "en": "False",
+    "vi": "Sai"
+  },
+  {
+    "key": "is_marked_for_cutting",
+    "type": 0,
+    "en": "Marked for cutting",
+    "vi": "Marked cho cutting"
+  },
+  {
+    "key": "is_marked_for_harvest",
+    "type": 0,
+    "en": "Marked for harvesting",
+    "vi": "Marked cho Thu hoạch"
+  },
+  {
+    "key": "select_all_tooltip",
+    "type": 0,
+    "en": "Mark/Clear All",
+    "vi": "Mark/Xóa sạch Tất cả"
+  },
+  {
+    "key": "game_difficulty_Custom_title",
+    "type": 0,
+    "en": "Custom",
+    "vi": "Tùy chỉnh"
+  },
+  {
+    "key": "game_difficulty_Custom_info",
+    "type": 0,
+    "en": "Customise your game difficulty level. Choose what types of events you would like to exclude during your run. ",
+    "vi": "Customise your game difficulty cấp độ. Choose what types của events you would like để exclude during your run."
+  },
+  {
+    "key": "predators_cant_attack",
+    "type": 0,
+    "en": "Cannot be targeted by predators",
+    "vi": "Không thể được targeted bởi predators"
+  },
+  {
+    "key": "general_in_storage",
+    "type": 0,
+    "en": "In Storage",
+    "vi": "Trong kho"
+  },
+  {
+    "key": "owner_name",
+    "type": 0,
+    "en": "Owner",
+    "vi": "Chủ sở hữu"
+  },
+  {
+    "key": "storage_full",
+    "type": 0,
+    "en": "The storage for this structure is full",
+    "vi": "Kho chứa của công trình này đã đầy"
+  },
+  {
+    "key": "stunted_yeald_info",
+    "type": 0,
+    "en": "Stunted yield amount",
+    "vi": "Sản lượng bị còi cọc"
+  },
+  {
+    "key": "sow_recomended_time",
+    "type": 0,
+    "en": "Recommended sowing period",
+    "vi": "Recommended Gieo trồng period"
+  },
+  {
+    "key": "heatmap_legend",
+    "type": 0,
+    "en": "Heatmap Legend",
+    "vi": "Chú giải bản đồ nhiệt"
+  },
+  {
+    "key": "general_intensity",
+    "type": 0,
+    "en": "Intensity",
+    "vi": "Cường độ"
+  },
+  {
+    "key": "general_intensity_info",
+    "type": 0,
+    "en": "Change the intensity of this heat source. Changing to a higher intensity will increase the temperature output, but will also use more fuel.",
+    "vi": "Đổi intensity của this Nóng source. Changing để a higher intensity will increase Nhiệt độ output, but will also use more fuel."
+  },
+  {
+    "key": "node_snow",
+    "type": 0,
+    "en": "Snow",
+    "vi": "Tuyết rơi"
+  },
+  {
+    "key": "node_wet",
+    "type": 0,
+    "en": "Wet",
+    "vi": "Ướt"
+  },
+  {
+    "key": "node_grass",
+    "type": 0,
+    "en": "Grass",
+    "vi": "Đồng cỏ"
+  },
+  {
+    "key": "node_sunlight",
+    "type": 0,
+    "en": "Sunlight",
+    "vi": "Ánh nắng"
+  },
+  {
+    "key": "effector_name_BeliefNearDeathPagan",
+    "type": 0,
+    "en": "At Death's door",
+    "vi": "Cận kề cái chết"
+  },
+  {
+    "key": "effector_name_BeliefNearDeathChristian",
+    "type": 0,
+    "en": "At Death's door",
+    "vi": "Bên bờ vực cái chết"
+  },
+  {
+    "key": "effector_name_BeliefIntoxicationChristian",
+    "type": 0,
+    "en": "A boozy contemplation",
+    "vi": "Cơn say suy ngẫm tội lỗi"
+  },
+  {
+    "key": "effector_name_BeliefIntoxicationPagan",
+    "type": 0,
+    "en": "A drunkard's dawn",
+    "vi": "Bình minh của kẻ say sưa"
+  },
+  {
+    "key": "effector_name_BeliefFriendDiedChristian",
+    "type": 0,
+    "en": "A loved one has passed away",
+    "vi": "Người thân yêu đã về với Chúa"
+  },
+  {
+    "key": "effector_name_BeliefFriendDiedPagan",
+    "type": 0,
+    "en": "A loved one has passed away",
+    "vi": "Linh hồn hòa vào đất mẹ"
+  },
+  {
+    "key": "effector_name_BeliefFlawlessItemChristian",
+    "type": 0,
+    "en": "God's grace guided this creation",
+    "vi": "God's grace guided điều này creation"
+  },
+  {
+    "key": "effector_name_BeliefFlawlessItemPagan",
+    "type": 0,
+    "en": "The Gods inspired my hands ",
+    "vi": "Chư thần đã dẫn lối đôi tay ta"
+  },
+  {
+    "key": "effector_name_BeliefFlimsyItemChristian",
+    "type": 0,
+    "en": "I failed. Has God forsaken me?",
+    "vi": "Ta đã thất bại. Chẳng lẽ Chúa đã bỏ rơi ta?"
+  },
+  {
+    "key": "effector_name_BeliefFlimsyItemPagan",
+    "type": 0,
+    "en": "The Gods must be laughing at this failure.",
+    "vi": "Chư thần hẳn đang cười nhạo thất bại này."
+  },
+  {
+    "key": "effector_name_BeliefNatureChristian",
+    "type": 0,
+    "en": "Could this be the work of the Almighty?",
+    "vi": "Could điều này be work của Almighty?"
+  },
+  {
+    "key": "effector_name_BeliefNaturePagan",
+    "type": 0,
+    "en": "Is this a sign from the Gods?",
+    "vi": "Phải chăng đây là điềm báo từ chư thần?"
+  },
+  {
+    "key": "not_available",
+    "type": 0,
+    "en": "<style=DefaultRed>This structure cannot be used because it is in an unsuitable enviroment</style> ",
+    "vi": "<style=DefaultRed>Công trình này không thể sử dụng vì môi trường không phù hợp</style> "
+  },
+  {
+    "key": "temperature_out_of_range",
+    "type": 0,
+    "en": "Unsuitable temperature",
+    "vi": "Unsuitable Nhiệt độ"
+  },
+  {
+    "key": "ground",
+    "type": 0,
+    "en": "Ground",
+    "vi": "Mặt đất"
+  },
+  {
+    "key": "decay_speed_under_water",
+    "type": 0,
+    "en": "Water decay rate modifier",
+    "vi": "Nước decay rate modifier"
+  },
+  {
+    "key": "decay_speed_per_temperature",
+    "type": 0,
+    "en": "Temperature decay rate modifier",
+    "vi": "Nhiệt độ decay rate modifier"
+  },
+  {
+    "key": "decay_speed_per_ground",
+    "type": 0,
+    "en": "Ground decay rate modifier",
+    "vi": "Hệ số tốc độ phân hủy theo loại đất"
+  },
+  {
+    "key": "decay_speed_per_weather",
+    "type": 0,
+    "en": "Weather decay rate modifier",
+    "vi": "Thời tiết decay rate modifier"
+  },
+  {
+    "key": "ferment_speed_per_temperature",
+    "type": 0,
+    "en": "Temperature fermentation rate modifier",
+    "vi": "Nhiệt độ fermentation rate modifier"
+  },
+  {
+    "key": "lb_protector",
+    "type": 0,
+    "en": "While nearby, small animals will not be targeted by predators like foxes or polecats. ",
+    "vi": "Khi ở gần, các động vật nhỏ sẽ không bị dã thú như cáo hay chồn tấn công."
+  },
+  {
+    "key": "protecting_from_predators",
+    "type": 0,
+    "en": "Protected from predators by",
+    "vi": "Protected từ predators bởi"
+  },
+  {
+    "key": "stat_disabled",
+    "type": 0,
+    "en": "This stat is disabled. It's value won't change, nor will it give the settler any associated buffs or debuffs",
+    "vi": "Chỉ số này đã bị vô hiệu hóa. Giá trị sẽ không đổi và không mang lại hiệu ứng tăng hay giảm nào cho dân làng."
+  },
+  {
+    "key": "stat_locked",
+    "type": 0,
+    "en": "This stat is locked. Its value won't change. But the associated buffs will be present.",
+    "vi": "Này stat là locked. Của nó giá trị won't change. But associated buffs sẽ được present."
+  },
+  {
+    "key": "water_lvl_01",
+    "type": 0,
+    "en": "Shallow Water",
+    "vi": "Vùng nước nông"
+  },
+  {
+    "key": "water_lvl_02",
+    "type": 0,
+    "en": "Low Water",
+    "vi": "Vùng nước cạn"
+  },
+  {
+    "key": "water_lvl_03",
+    "type": 0,
+    "en": "Deep Water",
+    "vi": "Nước sâu"
+  },
+  {
+    "key": "cropfield_error_underwater",
+    "type": 0,
+    "en": "Cannot sow here, the field is flooded",
+    "vi": "Không thể gieo hạt here, field là flooded"
+  },
+  {
+    "key": "production_stopped_underwater",
+    "type": 0,
+    "en": "Production halted due to flooding",
+    "vi": "Sản xuất halted due để flooding"
+  },
+  {
+    "key": "cropfield_error_not_underwater",
+    "type": 0,
+    "en": "Cannot sow here, this crop needs to grow in shallow water",
+    "vi": "Không thể gieo trồng ở đây, loại cây này cần mọc trong vùng nước nông."
+  },
+  {
+    "key": "Piles_apply_order",
+    "type": 0,
+    "en": "Resource",
+    "vi": "Tài nguyên"
+  },
+  {
+    "key": "Blueprints_apply_order",
+    "type": 0,
+    "en": "Blueprint phase",
+    "vi": "Giai đoạn bản vẽ"
+  },
+  {
+    "key": "Foundations_apply_order",
+    "type": 0,
+    "en": "Building phase",
+    "vi": "Công trình phase"
+  },
+  {
+    "key": "All_apply_order",
+    "type": 0,
+    "en": "Apply to all",
+    "vi": "Áp dụng để all"
+  },
+  {
+    "key": "general_prisoners",
+    "type": 0,
+    "en": "Prisoners",
+    "vi": "Tù nhân"
+  },
+  {
+    "key": "general_prisoner",
+    "type": 0,
+    "en": "Prisoner ",
+    "vi": "Tù nhân"
+  },
+  {
+    "key": "surender_screen_info",
+    "type": 0,
+    "en": "Choose assailants you want to capture as prisoners of war. Wait for a settler with the Goaler job active to escort prisoners to a cell. But hurry, they won't wait forever.",
+    "vi": "Choose assailants you want để capture as prisoners của war. Chờ a Dân làng với Goaler job active để escort prisoners để a cell. But hurry, they won't wait forever."
+  },
+  {
+    "key": "surender_screen_title",
+    "type": 0,
+    "en": "Enemies have surrendered",
+    "vi": "Kẻ thù đã đầu hàng"
+  },
+  {
+    "key": "bbt_prisoner_run",
+    "type": 0,
+    "en": "<name> is making a run for it!",
+    "vi": "<name> là making a run cho nó!"
+  },
+  {
+    "key": "bbt_prisoner_gone",
+    "type": 0,
+    "en": "<name> has reached the edge of the map and escaped.",
+    "vi": "<name> có reached edge của map và escaped."
+  },
+  {
+    "key": "bbt_prisoner_released",
+    "type": 0,
+    "en": "<name> has been released",
+    "vi": "<name> có been released"
+  },
+  {
+    "key": "prioritise_escort",
+    "type": 0,
+    "en": "Prioritise: Escort to cell",
+    "vi": "Ưu tiên: Escort để cell"
+  },
+  {
+    "key": "prioritise_escort_error_no_reachable_jail_cell",
+    "type": 0,
+    "en": "The room designated as a prison cell cannot be reached. ",
+    "vi": "Không thể đi tới căn phòng được chỉ định làm phòng giam."
+  },
+  {
+    "key": "prioritise_escort_error_no_jail_cell",
+    "type": 0,
+    "en": "There is no room designated as a cell. Add a prison marker and stash to any room to turn it in to a prison cell",
+    "vi": "Không có phòng nào được chỉ định làm phòng giam. Hãy đặt mốc phòng giam và đồ tiếp tế vào một phòng để biến nó thành phòng giam."
+  },
+  {
+    "key": "bbt_no_cell_exists",
+    "type": 0,
+    "en": "There is no room designated as a cell.",
+    "vi": "Chưa có căn phòng nào được quy hoạch làm xà lim phòng giam."
+  },
+  {
+    "key": "prioritise_turn",
+    "type": 0,
+    "en": "Prioritise: Recruit",
+    "vi": "Ưu Tiên: Chiêu Mộ Tù Nhân"
+  },
+  {
+    "key": "bbt_prisoners_cant_be_turned",
+    "type": 0,
+    "en": "This prisoner can't be recruited",
+    "vi": "Tù nhân này ngoan cố không thể chiêu mộ"
+  },
+  {
+    "key": "enemy_wont_surrender_01",
+    "type": 0,
+    "en": "[He/She] would rather die than surrender.",
+    "vi": "[He/She] thà chết chứ nhất quyết không chịu đầu hàng."
+  },
+  {
+    "key": "enemy_wont_surrender_02",
+    "type": 0,
+    "en": "This one wriggles free like an eel, and cannot be captured.",
+    "vi": "Tên này trơn tuột như lươn, vùng vẫy thoát thân và không thể bắt sống."
+  },
+  {
+    "key": "enemy_wont_surrender_03",
+    "type": 0,
+    "en": "[He/She] is screaming and thrashing wildly. It's easier to let them go.",
+    "vi": "[He/She] đang gào thét và giãy giụa điên cuồng. Tốt hơn hết là để chúng tự chạy thoát."
+  },
+  {
+    "key": "enemy_wont_surrender_04",
+    "type": 0,
+    "en": "[He/She] looks grievously ill. It's hard to ransom a dead prisoner.",
+    "vi": "[He/She] trông ốm yếu thập tử nhất sinh. Bắt sống một kẻ sắp chết thì không thể đòi tiền chuộc."
+  },
+  {
+    "key": "enemy_wont_surrender_05",
+    "type": 0,
+    "en": "The rest of [his/her] faction seem to shun [him/her]. A worthless hostage.",
+    "vi": "Những kẻ còn lại trong phe của [his/her] dường như xa lánh [him/her]. Một con tin hoàn toàn vô giá trị."
+  },
+  {
+    "key": "enemy_wont_surrender_06",
+    "type": 0,
+    "en": "A real rabble rouser. [He/She] would love to start a riot the cells.",
+    "vi": "Một tên đầu sỏ kích động bạo loạn. [He/She] sẽ chỉ chực chờ khơi mào bạo loạn trong ngục tối."
+  },
+  {
+    "key": "enemy_wont_surrender_07",
+    "type": 0,
+    "en": "[He/She] smells worse than a rotting corpse. Leave them.",
+    "vi": "[He/She] hôi hám bẩn thỉu còn hơn cả xác chết thối rữa. Hãy mặc kệ chúng."
+  },
+  {
+    "key": "bbt_no_one_surrender",
+    "type": 0,
+    "en": "No one surrendered after their defeat",
+    "vi": "Không có bất kỳ tên địch nào chịu đầu hàng sau thất bại"
+  },
+  {
+    "key": "worker_action_escroting",
+    "type": 0,
+    "en": "Escorting",
+    "vi": "Đang Hộ Tống Áp Giải"
+  },
+  {
+    "key": "object_inside_prison_cell",
+    "type": 0,
+    "en": "<object_name> is inside a prison cell. Settlers cannot use it. ",
+    "vi": "<object_name> đang nằm bên trong phòng giam. Dân làng tự do không thể sử dụng."
+  },
+  {
+    "key": "worker_action_RecruitPrisonerGoal",
+    "type": 0,
+    "en": "Recruiting",
+    "vi": "Đang Thuyết Phục Chiêu Mộ Tù Nhân"
+  },
+  {
+    "key": "recruit_successful_message",
+    "type": 0,
+    "en": "Recruiting attempt successful",
+    "vi": "Chiêu mộ tù nhân thành công"
+  },
+  {
+    "key": "recruit_failed_message",
+    "type": 0,
+    "en": "Recruiting attempt failed",
+    "vi": "Chiêu mộ tù nhân thất bại"
+  },
+  {
+    "key": "recruit_try_left",
+    "type": 0,
+    "en": "Recruiting attempts remaining today",
+    "vi": "Số lượt chiêu mộ còn lại trong ngày hôm nay"
+  },
+  {
+    "key": "recruit_try_info",
+    "type": 0,
+    "en": "Last recruiting attempt",
+    "vi": "Lần thử chiêu mộ gần nhất"
+  },
+  {
+    "key": "recruit_try_maximum",
+    "type": 0,
+    "en": "This prisoner has already been subject to a recruitment attempt today",
+    "vi": "Tù nhân này hôm nay đã được chiêu mộ hết số lượt cho phép"
+  },
+  {
+    "key": "recruit_amount",
+    "type": 0,
+    "en": "Recruited",
+    "vi": "Đã Chiêu Mộ Thành Công"
+  },
+  {
+    "key": "recruit_next_attempt",
+    "type": 0,
+    "en": "Next attempt in ",
+    "vi": "Lượt chiêu mộ kế tiếp sau "
+  },
+  {
+    "key": "worker_action_PrisonerSurrenderGoal",
+    "type": 0,
+    "en": "Surrendered ",
+    "vi": "Đã Đầu Hàng"
+  },
+  {
+    "key": "worker_action_StripCaptiveGoal",
+    "type": 0,
+    "en": "Stripping prisoner's belongings",
+    "vi": "Đang Tước Bỏ Đồ Đạc Của Tù Nhân"
+  },
+  {
+    "key": "prioritise_strip",
+    "type": 0,
+    "en": "Prioritise: Strip",
+    "vi": "Ưu Tiên: Lột Đồ Tù Nhân"
+  },
+  {
+    "key": "worker_action_PrisonStashHaulingGoal",
+    "type": 0,
+    "en": "Feeding prisoners",
+    "vi": "Đang Tiếp Tế Thức Ăn Cho Tù Nhân"
+  },
+  {
+    "key": "prioritise_prison_stash_refill",
+    "type": 0,
+    "en": "Prioritise: Feed prisoners",
+    "vi": "Ưu Tiên: Đem Cơm Cho Tù Nhân"
+  },
+  {
+    "key": "bbt_prisoner_has_recruited",
+    "type": 0,
+    "en": "<name> has decided to join your settlement and is no longer a prisoner.",
+    "vi": "<name> đã được cảm hóa thành công, đồng ý gia nhập khu định cư và không còn là tù nhân nữa."
+  },
+  {
+    "key": "general_captive_labourer",
+    "type": 0,
+    "en": "Captive Labourer",
+    "vi": "Lao Động Tù Binh"
+  },
+  {
+    "key": "captive_labourer_desc",
+    "type": 0,
+    "en": "Captive labourers move about freely performing tasks assigned in the overview panel. Keep their spirits up to minimise escape attempts — although their shackles mean they won't get far.",
+    "vi": "Tù nhân lao động tự do đi lại thực hiện các công việc được chỉ định trong bảng phân công. Hãy chăm sóc tốt tinh thần của họ để giảm ý định vượt ngục — dù xiềng xích trên chân sẽ khiến họ khó lòng chạy xa."
+  },
+  {
+    "key": "captive_labourer_work_info",
+    "type": 0,
+    "en": "Captive labourers will only do work if the Settler with the Prison Warden role is present to manage them.",
+    "vi": "Tù nhân lao động chỉ chịu làm việc khi có sự hiện diện giám sát của dân làng đảm nhiệm chức vụ Cai Ngục."
+  },
+  {
+    "key": "captive_labourer_number",
+    "type": 0,
+    "en": "The number of captive labourers your Warden can oversee. Promote your warden to the next level to increase this number.",
+    "vi": "Số lượng lao động tù binh tối đa mà Cai Ngục có thể cai quản. Hãy thăng cấp cho Cai Ngục để gia tăng giới hạn này."
+  },
+  {
+    "key": "worker_action_ShacklePrisonerGoal",
+    "type": 0,
+    "en": "Placing Shackles",
+    "vi": "Đang Đeo Xiềng Xích"
+  },
+  {
+    "key": "prioritise_shackle",
+    "type": 0,
+    "en": "Prioritise: Shackle",
+    "vi": "Ưu Tiên: Đeo Xiềng Xích"
+  },
+  {
+    "key": "no_item_available",
+    "type": 0,
+    "en": "Does not have access to item: <item_name>",
+    "vi": "Không thể tiếp cận vật phẩm: <item_name>"
+  },
+  {
+    "key": "worker_action_off_shackling",
+    "type": 0,
+    "en": "Removing Shackles",
+    "vi": "Đang Tháo Bỏ Xiềng Xích"
+  },
+  {
+    "key": "cant_make_captive_labourer_shackles",
+    "type": 0,
+    "en": "Only prisoners wearing shackles can become captive labourers.",
+    "vi": "Chỉ những tù nhân đang bị đeo xiềng xích mới có thể chuyển thành lao động tù binh."
+  },
+  {
+    "key": "cant_make_recruit_captive_labourer",
+    "type": 0,
+    "en": "Captive labourers can't be recruited. Turn them back to prisoners in order to mark them for recruitment ",
+    "vi": "Lao động tù binh không thể chiêu mộ trực tiếp. Hãy chuyển họ trở lại thành tù nhân ngục tối để có thể chiêu mộ."
+  },
+  {
+    "key": "cant_make_captive_labourer_warden_level",
+    "type": 0,
+    "en": "The number of captive labourers the warden oversees is at maximum.",
+    "vi": "Số lượng lao động tù binh do Cai Ngục giám sát đã đạt mức tối đa cho phép."
+  },
+  {
+    "key": "cant_make_captive_labourer_warden_missing",
+    "type": 0,
+    "en": "No Prison Warden assigned in your settlement. To make use of captive labourers, assign the Prison Warden role to one of your settlers.",
+    "vi": "Chưa có Cai Ngục nào được phân công trong khu định cư. Để sử dụng lao động tù binh, hãy bổ nhiệm vai trò Cai Ngục cho một dân làng."
+  },
+  {
+    "key": "cant_add_prisoner_caravan",
+    "type": 0,
+    "en": "Only prisoners with shackles can be added to caravans ",
+    "vi": "Chỉ có thể thêm các tù nhân đã bị khóa xiềng xích vào thương đoàn"
+  },
+  {
+    "key": "worker_action_prisoneridlegoal",
+    "type": 0,
+    "en": "Shirking duties",
+    "vi": "Đang Lười Biếng Trốn Việc"
+  },
+  {
+    "key": "general_visitor",
+    "type": 0,
+    "en": "Visitor",
+    "vi": "Khách Phương Xa"
+  },
+  {
+    "key": "general_add",
+    "type": 0,
+    "en": "Add",
+    "vi": "Thêm Vào"
+  },
+  {
+    "key": "re_roll_settlers_prompt",
+    "type": 0,
+    "en": "This action will replace all current settlers with new randomized instances. Do you want to proceed? ",
+    "vi": "Hành động này sẽ thay thế toàn bộ dân làng hiện tại bằng các nhân vật ngẫu nhiên mới. Bạn có chắc chắn muốn tiếp tục?"
+  },
+  {
+    "key": "re_roll_settler_prompt",
+    "type": 0,
+    "en": "This action will replace the selected settler with a new randomized instance. Do you want to proceed? ",
+    "vi": "Hành động này sẽ thay thế dân làng đã chọn bằng một nhân vật ngẫu nhiên mới. Bạn có chắc chắn muốn tiếp tục?"
+  },
+  {
+    "key": "worker_stance_DraftedDefault_title",
+    "type": 0,
+    "en": "Default",
+    "vi": "Mặc Định"
+  },
+  {
+    "key": "worker_stance_DraftedHoldGround_title",
+    "type": 0,
+    "en": "Hold Ground",
+    "vi": "Giữ Vững Vị Trí"
+  },
+  {
+    "key": "cannot_trade_priosner_wount_offer",
+    "type": 0,
+    "en": "Not for sale",
+    "vi": "Không Phải Để Bán"
+  },
+  {
+    "key": "node_fire",
+    "type": 0,
+    "en": "Flame",
+    "vi": "Ngọn Lửa"
+  },
+  {
+    "key": "no_ammo_loaded",
+    "type": 0,
+    "en": "Load ammunition to use this siege engine",
+    "vi": "Hãy nạp đạn dược để vận hành chiến cụ công thành này"
+  },
+  {
+    "key": "no_piles_allowed",
+    "type": 0,
+    "en": "There are no allowed piles of ammunition available",
+    "vi": "Không có đống đạn dược nào được phép sử dụng xung quanh."
+  },
+  {
+    "key": "battle_balance",
+    "type": 0,
+    "en": "Battle Balance",
+    "vi": "Cán Cân Chiến Trận"
+  },
+  {
+    "key": "settlers_lost",
+    "type": 0,
+    "en": "Settlers wounded in action",
+    "vi": "Dân Làng Bị Thương Trong Trận"
+  },
+  {
+    "key": "general_job",
+    "type": 0,
+    "en": "Job",
+    "vi": "Công Việc"
+  },
+  {
+    "key": "general_loot_stash",
+    "type": 0,
+    "en": "Loot stash",
+    "vi": "Rương Chiến Lợi Phẩm"
+  },
+  {
+    "key": "loot_stash_value",
+    "type": 0,
+    "en": "Estimated stash value:",
+    "vi": "Giá Trị Ước Tính Của Rương:"
+  },
+  {
+    "key": "loot_stash_weight",
+    "type": 0,
+    "en": "Estimated stash weight:",
+    "vi": "Khối Lượng Ước Tính Của Rương:"
+  }
+]

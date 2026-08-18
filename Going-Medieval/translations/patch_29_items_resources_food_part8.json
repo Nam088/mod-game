@@ -1,0 +1,26 @@
+[
+  {
+    "key": "dev_force_plant_crops_off",
+    "type": 0,
+    "en": "Auto Plant Crops: Off",
+    "vi": "Tự động gieo hạt cây trồng: Tắt"
+  },
+  {
+    "key": "dev_force_plant_crops_on",
+    "type": 0,
+    "en": "Auto Plant Crops: On",
+    "vi": "Tự động gieo hạt cây trồng: Bật"
+  },
+  {
+    "key": "dev_tooltip_force_plant_crops",
+    "type": 0,
+    "en": "When this is turned on placed and expanded crops will be automatically seeded",
+    "vi": "Khi bật, các ô ruộng được đặt hoặc mở rộng sẽ tự động được gieo hạt"
+  },
+  {
+    "key": "dev_event_group_AnimalInfestation",
+    "type": 0,
+    "en": "Animal Infestation",
+    "vi": "Đại dịch thú hoang hoành hành"
+  }
+]

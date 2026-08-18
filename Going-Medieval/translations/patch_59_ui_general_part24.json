@@ -1,0 +1,902 @@
+[
+  {
+    "key": "atb_info_PainTreshold",
+    "type": 0,
+    "en": "Pain Threshold: settler base pain +/- multipliers (example: if a perk sets it to -10%, this settler will be able to handle more pain in combat)",
+    "vi": "Ngưỡng đau: mức đau cơ bản của dân làng +/- hệ số (ví dụ: nếu đặc tính đặt ở -10%, dân làng này sẽ chịu được nhiều đau đớn hơn trong chiến đấu)"
+  },
+  {
+    "key": "atb_info_RangedChance",
+    "type": 0,
+    "en": "The chance to hit a target with a ranged weapon.",
+    "vi": "Cơ hội đánh trúng mục tiêu bằng vũ khí tầm xa."
+  },
+  {
+    "key": "atb_info_RangedDmg",
+    "type": 0,
+    "en": "Ranged weapon proficiency (Higher ranged weapon skill will increase, and penalties such as wounds will decrease this modifier.)",
+    "vi": "Mức thành thạo vũ khí tầm xa (Kỹ năng tầm xa cao hơn sẽ tăng hệ số này, còn các bất lợi như vết thương sẽ giảm nó.)"
+  },
+  {
+    "key": "atb_info_RangedRange",
+    "type": 0,
+    "en": "Ranged attack multiplier. (This is modified by the weather and time of day.)",
+    "vi": "Hệ số tấn công tầm xa (Được điều chỉnh bởi thời tiết và thời điểm trong ngày.)"
+  },
+  {
+    "key": "atb_info_RangedSpeed",
+    "type": 0,
+    "en": "Ranged weapon attack duration: base ranged attack duration +/- multipliers.",
+    "vi": "Ranged vũ khí attack duration: base ranged attack duration +/- multipliers."
+  },
+  {
+    "key": "atb_info_ResearchSpeed",
+    "type": 0,
+    "en": "Settler's research speed.",
+    "vi": "Tốc độ nghiên cứu của dân làng."
+  },
+  {
+    "key": "atb_info_RottingSpeed",
+    "type": 0,
+    "en": "How fast this resource will rot.",
+    "vi": "Tốc độ mục nát của tài nguyên này."
+  },
+  {
+    "key": "atb_info_SleepDepletionSpeed",
+    "type": 0,
+    "en": "Sleep depletion multiplier.",
+    "vi": "Giấc ngủ depletion multiplier."
+  },
+  {
+    "key": "atb_info_SleepNeed",
+    "type": 0,
+    "en": "Sleep depletion rate. (Settlers lose 4% sleep per hour.)",
+    "vi": "Giấc ngủ depletion rate. (Settlers lose 4% Giấc ngủ per Giờ.)"
+  },
+  {
+    "key": "atb_info_SleepRecoverSpeed",
+    "type": 0,
+    "en": "This settler's sleep recovery rate while sleeping or unconscious.",
+    "vi": "Tốc độ hồi phục giấc ngủ của dân làng khi đang ngủ hoặc bất tỉnh."
+  },
+  {
+    "key": "atb_info_SleepThreshold",
+    "type": 0,
+    "en": "Sleep thresholds multiplier. (example: if a perk sets it to -10%, sleep thresholds are offset by 10% and this settler will go to sleep later than other settlers.)",
+    "vi": "Hệ số ngưỡng buồn ngủ (ví dụ: nếu đặc tính đặt ở -10%, ngưỡng buồn ngủ lệch 10% và dân làng này sẽ đi ngủ muộn hơn những người khác.)"
+  },
+  {
+    "key": "atb_info_SmithingSpeed",
+    "type": 0,
+    "en": "This settler's smithing speed.",
+    "vi": "Tốc độ rèn đúc của dân làng."
+  },
+  {
+    "key": "atb_info_SowSpeed",
+    "type": 0,
+    "en": "This settler's crop sowing speed.",
+    "vi": "Tốc độ gieo trồng của dân làng."
+  },
+  {
+    "key": "atb_info_SqueamishAmount",
+    "type": 0,
+    "en": "(should be hidden)",
+    "vi": "(nên được ẩn)"
+  },
+  {
+    "key": "atb_info_TendingFailChance",
+    "type": 0,
+    "en": "Chance that wound tending fails, making wounds worse.",
+    "vi": "Cơ hội chăm sóc vết thương thất bại, khiến vết thương nặng hơn."
+  },
+  {
+    "key": "atb_info_TendingQuality",
+    "type": 0,
+    "en": "Multiplier indicating how well wounds are tended. (This is also affected by the quality of the healing kit and herbs.)",
+    "vi": "Hệ số cho biết vết thương được chăm sóc tốt đến đâu (Cũng chịu ảnh hưởng bởi chất lượng bộ cứu thương và thảo dược.)"
+  },
+  {
+    "key": "atb_info_TendingSpeed",
+    "type": 0,
+    "en": "The speed this settler tends to wounds.",
+    "vi": "Tốc độ dân làng này chăm sóc vết thương."
+  },
+  {
+    "key": "atb_info_UnarmedDamage",
+    "type": 0,
+    "en": "Base damage that this settler inflicts when unarmed.",
+    "vi": "Sát thương cơ bản dân làng này gây ra khi không vũ trang."
+  },
+  {
+    "key": "atb_info_UnarmedPrecision",
+    "type": 0,
+    "en": "The chance to strike a target when unarmed.",
+    "vi": "Cơ hội đánh trúng mục tiêu khi không vũ trang."
+  },
+  {
+    "key": "atb_info_UnarmedSpeed",
+    "type": 0,
+    "en": "The time between punches.",
+    "vi": "Khoảng thời gian giữa các cú đấm."
+  },
+  {
+    "key": "atb_info_WoodWorkingSpeed",
+    "type": 0,
+    "en": "This settler's woodworking speed.",
+    "vi": "Tốc độ gia công gỗ của dân làng."
+  },
+  {
+    "key": "atb_info_WoundRegen",
+    "type": 0,
+    "en": "Settler's regeneration speed when wounded.",
+    "vi": "Tốc độ hồi phục của dân làng khi bị thương."
+  },
+  {
+    "key": "atb_name_AttackCritChance",
+    "type": 0,
+    "en": "Attack Critical Hit Chance",
+    "vi": "Cơ hội chí mạng khi tấn công"
+  },
+  {
+    "key": "atb_name_BloodLoss",
+    "type": 0,
+    "en": "Blood Loss",
+    "vi": "Máu Loss"
+  },
+  {
+    "key": "atb_name_BloodRecovery",
+    "type": 0,
+    "en": "Blood Recovery",
+    "vi": "Máu Recovery"
+  },
+  {
+    "key": "atb_name_ButcheringYield",
+    "type": 0,
+    "en": "Butchering Yield",
+    "vi": "Sản lượng pha thịt"
+  },
+  {
+    "key": "atb_name_Clumsiness",
+    "type": 0,
+    "en": "Clumsiness",
+    "vi": "Độ vụng về"
+  },
+  {
+    "key": "atb_name_ConsciousnessLoss",
+    "type": 0,
+    "en": "Loss of Consciousness ",
+    "vi": "Loss của Ý thức "
+  },
+  {
+    "key": "atb_name_ConsciousnessMax",
+    "type": 0,
+    "en": "Consciousness Max",
+    "vi": "Ý thức Max"
+  },
+  {
+    "key": "atb_name_ConsciousnessStep",
+    "type": 0,
+    "en": "Consciousness Recovery",
+    "vi": "Ý thức Recovery"
+  },
+  {
+    "key": "atb_name_ConsumptionSpeed",
+    "type": 0,
+    "en": "Consumption Duration",
+    "vi": "Thời gian ăn uống"
+  },
+  {
+    "key": "atb_name_CookingSpeed",
+    "type": 0,
+    "en": "Cooking Speed",
+    "vi": "Tốc độ nấu nướng"
+  },
+  {
+    "key": "atb_name_CourteousAmount",
+    "type": 0,
+    "en": "Courteous Amount",
+    "vi": "Mức độ nhã nhặn"
+  },
+  {
+    "key": "atb_name_CraftingMiscSpeed",
+    "type": 0,
+    "en": "Crafting Speed",
+    "vi": "Tốc độ chế tạo"
+  },
+  {
+    "key": "atb_name_CutAmount",
+    "type": 0,
+    "en": "Reaping Amount",
+    "vi": "Sản lượng gặt"
+  },
+  {
+    "key": "atb_name_CutFail",
+    "type": 0,
+    "en": "Chance Reaping Fails",
+    "vi": "Cơ hội thu hoạch thất bại"
+  },
+  {
+    "key": "atb_name_CutSpeed",
+    "type": 0,
+    "en": "Reaping Speed",
+    "vi": "Tốc độ thu hoạch thực vật"
+  },
+  {
+    "key": "atb_name_CuttingStone",
+    "type": 0,
+    "en": "Cutting Stone",
+    "vi": "Xẻ đá"
+  },
+  {
+    "key": "atb_name_DecomposeSpeed",
+    "type": 0,
+    "en": "Decomposition Speed",
+    "vi": "Tốc độ phân hủy"
+  },
+  {
+    "key": "atb_name_EvadeChance",
+    "type": 0,
+    "en": "Evade Chance",
+    "vi": "Tỉ lệ né tránh"
+  },
+  {
+    "key": "atb_name_HarvestAmount",
+    "type": 0,
+    "en": "Harvest Amount",
+    "vi": "Sản lượng thu hoạch"
+  },
+  {
+    "key": "atb_name_HarvestFail",
+    "type": 0,
+    "en": "Chance Harvest Fails",
+    "vi": "Cơ hội thu hoạch mùa vụ thất bại"
+  },
+  {
+    "key": "atb_name_HarvestSpeed",
+    "type": 0,
+    "en": "Harvest Speed",
+    "vi": "Tốc độ thu hoạch mùa vụ"
+  },
+  {
+    "key": "atb_name_HealthLoss",
+    "type": 0,
+    "en": "Hitpoint Loss",
+    "vi": "Tổn thất máu"
+  },
+  {
+    "key": "atb_name_HealthMax",
+    "type": 0,
+    "en": "Hitpoints Max",
+    "vi": "Máu tối đa"
+  },
+  {
+    "key": "atb_name_HealthRecovery",
+    "type": 0,
+    "en": "Hitpoints Recovery",
+    "vi": "Hồi phục máu"
+  },
+  {
+    "key": "atb_name_Hunger",
+    "type": 0,
+    "en": "Appetite",
+    "vi": "Cảm giác thèm ăn"
+  },
+  {
+    "key": "atb_name_HungerThreshold",
+    "type": 0,
+    "en": "Hunger Threshold",
+    "vi": "Mức độ đói Threshold"
+  },
+  {
+    "key": "atb_name_HuntingRetaliateChance",
+    "type": 0,
+    "en": "Chance Quarry Retaliates",
+    "vi": "Cơ hội con mồi phản công"
+  },
+  {
+    "key": "atb_name_HuntingRunChance",
+    "type": 0,
+    "en": "Chance Quarry Flees",
+    "vi": "Cơ hội con mồi bỏ chạy"
+  },
+  {
+    "key": "atb_name_HuntingVisibility",
+    "type": 0,
+    "en": "Hunting Visibility",
+    "vi": "Săn bắn Visibility"
+  },
+  {
+    "key": "atb_name_MakeClayBrick",
+    "type": 0,
+    "en": "Brickmaking Speed",
+    "vi": "Tốc độ làm gạch"
+  },
+  {
+    "key": "atb_name_MakeClothesSpeed",
+    "type": 0,
+    "en": "Sewing Speed",
+    "vi": "Tốc độ may vá"
+  },
+  {
+    "key": "atb_name_MeleeAttackSpeed",
+    "type": 0,
+    "en": "Melee Weapon Attack Duration Multiplier",
+    "vi": "Cận chiến Weapon Attack Duration Multiplier"
+  },
+  {
+    "key": "atb_name_MeleeChance",
+    "type": 0,
+    "en": "Melee Weapon Hit Chance",
+    "vi": "Cơ hội đánh trúng bằng vũ khí cận chiến"
+  },
+  {
+    "key": "atb_name_MeleeDmg",
+    "type": 0,
+    "en": "Melee Weapon Damage Multiplier",
+    "vi": "Hệ số sát thương vũ khí cận chiến"
+  },
+  {
+    "key": "atb_name_MineAmount",
+    "type": 0,
+    "en": "Mining Amount",
+    "vi": "Khai khoáng Amount"
+  },
+  {
+    "key": "atb_name_MineFail",
+    "type": 0,
+    "en": "Chance Mining Fails",
+    "vi": "Cơ hội khai khoáng thất bại"
+  },
+  {
+    "key": "atb_name_MineSpeed",
+    "type": 0,
+    "en": "Mining Speed",
+    "vi": "Tốc độ khai khoáng"
+  },
+  {
+    "key": "atb_name_MotorFunction",
+    "type": 0,
+    "en": "Motor Function",
+    "vi": "Chức năng vận động"
+  },
+  {
+    "key": "atb_name_MovementSpeed",
+    "type": 0,
+    "en": "Movement Speed",
+    "vi": "Tốc độ di chuyển"
+  },
+  {
+    "key": "atb_name_PainMax",
+    "type": 0,
+    "en": "Pain Max",
+    "vi": "Cơn đau Max"
+  },
+  {
+    "key": "atb_name_PainStep",
+    "type": 0,
+    "en": "Speed Pain Recedes",
+    "vi": "Tốc độ giảm đau"
+  },
+  {
+    "key": "atb_name_PainTreshold",
+    "type": 0,
+    "en": "Pain Threshold",
+    "vi": "Cơn đau Threshold"
+  },
+  {
+    "key": "atb_name_RangedChance",
+    "type": 0,
+    "en": "Ranged Weapon Hit Chance",
+    "vi": "Cơ hội đánh trúng bằng vũ khí tầm xa"
+  },
+  {
+    "key": "atb_name_RangedDmg",
+    "type": 0,
+    "en": "Ranged Weapon Damage Multiplier",
+    "vi": "Hệ số sát thương vũ khí tầm xa"
+  },
+  {
+    "key": "atb_name_RangedRange",
+    "type": 0,
+    "en": "Global Range",
+    "vi": "Global Tầm xa"
+  },
+  {
+    "key": "atb_name_RangedSpeed",
+    "type": 0,
+    "en": "Ranged Weapon Attack Duration Multiplier",
+    "vi": "Hệ số thời gian tấn công tầm xa"
+  },
+  {
+    "key": "atb_name_ResearchSpeed",
+    "type": 0,
+    "en": "Research Speed",
+    "vi": "Tốc độ nghiên cứu"
+  },
+  {
+    "key": "atb_name_RottingSpeed",
+    "type": 0,
+    "en": "Rotting Speed",
+    "vi": "Tốc độ mục nát"
+  },
+  {
+    "key": "atb_name_SleepDepletionSpeed",
+    "type": 0,
+    "en": "Sleep Depletion Speed",
+    "vi": "Tốc độ tiêu hao giấc ngủ"
+  },
+  {
+    "key": "atb_name_SleepNeed",
+    "type": 0,
+    "en": "Sleep Requirement",
+    "vi": "Giấc ngủ Requirement"
+  },
+  {
+    "key": "atb_name_SleepRecoverSpeed",
+    "type": 0,
+    "en": "Sleep Recovery Speed",
+    "vi": "Tốc độ hồi phục giấc ngủ"
+  },
+  {
+    "key": "atb_name_SleepThreshold",
+    "type": 0,
+    "en": "Sleep Threshold",
+    "vi": "Giấc ngủ Threshold"
+  },
+  {
+    "key": "atb_name_SmithingSpeed",
+    "type": 0,
+    "en": "Smithing Speed",
+    "vi": "Tốc độ rèn đúc"
+  },
+  {
+    "key": "atb_name_SowSpeed",
+    "type": 0,
+    "en": "Sowing Speed",
+    "vi": "Tốc độ gieo trồng"
+  },
+  {
+    "key": "atb_name_SqueamishAmount",
+    "type": 0,
+    "en": "Squeamish Amount",
+    "vi": "Mức độ nhát gan"
+  },
+  {
+    "key": "atb_name_TendingFailChance",
+    "type": 0,
+    "en": "Chance Tending Wounds Fails",
+    "vi": "Cơ hội chăm sóc vết thương thất bại"
+  },
+  {
+    "key": "atb_name_TendingQuality",
+    "type": 0,
+    "en": "Tending Wounds Effectiveness",
+    "vi": "Hiệu quả chữa thương"
+  },
+  {
+    "key": "atb_name_TendingSpeed",
+    "type": 0,
+    "en": "Tending Wounds Speed",
+    "vi": "Tốc độ chữa trị"
+  },
+  {
+    "key": "atb_name_UnarmedDamage",
+    "type": 0,
+    "en": "Unarmed Damage",
+    "vi": "Sát thương không vũ trang"
+  },
+  {
+    "key": "atb_name_UnarmedPrecision",
+    "type": 0,
+    "en": "Unarmed Hit Chance",
+    "vi": "Cơ hội đánh trúng không vũ trang"
+  },
+  {
+    "key": "atb_name_UnarmedSpeed",
+    "type": 0,
+    "en": "Unarmed Attack Duration",
+    "vi": "Thời gian ra đòn tay không"
+  },
+  {
+    "key": "atb_name_WoodWorkingSpeed",
+    "type": 0,
+    "en": "Woodworking Speed",
+    "vi": "Tốc độ gia công gỗ"
+  },
+  {
+    "key": "atb_name_WoundRegen",
+    "type": 0,
+    "en": "Wound Regeneration",
+    "vi": "Vết thương Regeneration"
+  },
+  {
+    "key": "atb_name_GlobalXPgain",
+    "type": 0,
+    "en": "XP Gain",
+    "vi": "Nhận điểm kinh nghiệm"
+  },
+  {
+    "key": "atb_name_GlobalWorkSpeed",
+    "type": 0,
+    "en": "Global Work Speed",
+    "vi": "Tốc độ công việc tổng thể"
+  },
+  {
+    "key": "atb_info_GlobalXPgain",
+    "type": 0,
+    "en": "The amount of XP this settler gains from each activity.",
+    "vi": "Lượng XP dân làng này nhận được từ mỗi hoạt động."
+  },
+  {
+    "key": "atb_info_GlobalWorkSpeed",
+    "type": 0,
+    "en": "This multiplies the speed of all job-related activities.",
+    "vi": "Hệ số nhân tốc độ của mọi hoạt động liên quan đến công việc."
+  },
+  {
+    "key": "atb_name_RareChance",
+    "type": 0,
+    "en": "Inspiration",
+    "vi": "Cảm hứng sáng tạo"
+  },
+  {
+    "key": "atb_info_RareChance",
+    "type": 0,
+    "en": "Chance of producing higher quality items increased.",
+    "vi": "Cơ hội tạo ra vật phẩm chất lượng cao được tăng."
+  },
+  {
+    "key": "atb_name_CookingAmount",
+    "type": 0,
+    "en": "Cooking Yield",
+    "vi": "Nấu nướng Yield"
+  },
+  {
+    "key": "atb_info_CookingAmount",
+    "type": 0,
+    "en": "The number of resources produced by cooking.",
+    "vi": "Số lượng tài nguyên tạo ra khi nấu nướng."
+  },
+  {
+    "key": "atb_name_TradingValue",
+    "type": 0,
+    "en": "Barter Value",
+    "vi": "Giá trị trao đổi"
+  },
+  {
+    "key": "atb_name_TradingBargain",
+    "type": 0,
+    "en": "Bargain",
+    "vi": "Mặc cả"
+  },
+  {
+    "key": "atb_name_NegotiationChance",
+    "type": 0,
+    "en": "Negotiation",
+    "vi": "Đàm phán"
+  },
+  {
+    "key": "atb_info_TradingValue",
+    "type": 0,
+    "en": "This offsets the proffered value by XX%.",
+    "vi": "Điều này làm thay đổi giá trị trao đổi thêm XX%."
+  },
+  {
+    "key": "atb_info_TradingBargain",
+    "type": 0,
+    "en": "The value this settler can gain from the merchant while not giving the same amount back.",
+    "vi": "Giá trị dân làng này có thể nhận thêm từ thương nhân mà không phải trao lại lượng tương đương."
+  },
+  {
+    "key": "atb_info_NegotiationChance",
+    "type": 0,
+    "en": "The % chance that the negotiation will succeed. For instance: when offering resources instead of a settler during ransom events.",
+    "vi": "Tỷ lệ phần trăm cuộc thương lượng thành công. Ví dụ: khi đề nghị tài nguyên thay cho dân làng trong sự kiện đòi tiền chuộc."
+  },
+  {
+    "key": "atb_name_XpCapMultiplier",
+    "type": 0,
+    "en": "XP Cap Multiplier",
+    "vi": "Hệ số giới hạn kinh nghiệm"
+  },
+  {
+    "key": "atb_info_XpCapMultiplier",
+    "type": 0,
+    "en": "Settler daily XP per skill is capped. This multiplier sets the cap.",
+    "vi": "XP hằng ngày của mỗi kỹ năng dân làng có giới hạn. Hệ số này thiết lập giới hạn đó."
+  },
+  {
+    "key": "atb_name_XpDecayMultiplier",
+    "type": 0,
+    "en": "XP Decay Rate",
+    "vi": "Tỉ lệ suy giảm kinh nghiệm"
+  },
+  {
+    "key": "atb_info_XpDecayMultiplier",
+    "type": 0,
+    "en": "Settler XP decays slowly over time, and the decay rate varies per settler. XP will not decay beneath the last level gained in a given skill.",
+    "vi": "XP của dân làng giảm dần theo thời gian với tốc độ khác nhau ở mỗi người. XP không giảm xuống dưới cấp gần nhất đã đạt của kỹ năng tương ứng."
+  },
+  {
+    "key": "atb_name_TameChanceMultiplier",
+    "type": 0,
+    "en": "Chance to Tame Animal",
+    "vi": "Cơ hội thuần hóa động vật"
+  },
+  {
+    "key": "atb_name_TrainChanceMultiplier",
+    "type": 0,
+    "en": "Chance to Train Animal",
+    "vi": "Cơ hội huấn luyện động vật"
+  },
+  {
+    "key": "atb_info_TameChanceMultiplier",
+    "type": 0,
+    "en": "The chance for this settler to successfully progress in taming a wild animal",
+    "vi": "Cơ hội dân làng này tiến triển thành công khi thuần hóa động vật hoang dã"
+  },
+  {
+    "key": "atb_info_TrainChanceMultiplier",
+    "type": 0,
+    "en": "The chance for this settler to successfully progress in training a domesticated animal",
+    "vi": "Cơ hội dân làng này tiến triển thành công khi huấn luyện động vật đã thuần hóa"
+  },
+  {
+    "key": "atb_name_AgentBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value",
+    "vi": "Giá trị thẩm mỹ"
+  },
+  {
+    "key": "atb_info_AgentBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items.",
+    "vi": "Mức Vẻ đẹp mà sinh vật này mang đến cho thế giới. Con số này được kết hợp với Giá trị Thẩm mỹ của vật phẩm đang trang bị."
+  },
+  {
+    "key": "atb_name_AgentBodyBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value (Whole body)",
+    "vi": "Giá trị thẩm mỹ (Toàn thân)"
+  },
+  {
+    "key": "atb_info_AgentBodyBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items. Some items may override this value by covering it up",
+    "vi": "Mức Vẻ đẹp mà sinh vật này mang đến cho thế giới. Con số này được kết hợp với Giá trị Thẩm mỹ của vật phẩm đang trang bị. Một số vật phẩm có thể che phủ và ghi đè giá trị này."
+  },
+  {
+    "key": "atb_name_AgentFaceBeautyInput",
+    "type": 0,
+    "en": "Aesthetic Value (Face)",
+    "vi": "Giá trị thẩm mỹ (Khuôn mặt)"
+  },
+  {
+    "key": "atb_info_AgentFaceBeautyInput",
+    "type": 0,
+    "en": "The amount of Beauty this being offers to the world. This number is combined with the Aesthetic Value of equipped items.",
+    "vi": "Mức Vẻ đẹp mà sinh vật này mang đến cho thế giới. Con số này được kết hợp với Giá trị Thẩm mỹ của vật phẩm đang trang bị."
+  },
+  {
+    "key": "atb_name_AffectionPositiveMultiplier",
+    "type": 0,
+    "en": "Positive Social Interaction ",
+    "vi": "Tương tác xã hội tích cực"
+  },
+  {
+    "key": "atb_name_AffectionNegativeMultiplier",
+    "type": 0,
+    "en": "Negative Social Interaction",
+    "vi": "Tương tác xã hội tiêu cực"
+  },
+  {
+    "key": "atb_name_SocialCompatibilityPositive",
+    "type": 0,
+    "en": "Positive Social Interaction Chance ",
+    "vi": "Cơ hội tương tác xã hội tích cực "
+  },
+  {
+    "key": "atb_name_SocialCompatibilityNegative",
+    "type": 0,
+    "en": "Negative Social Interaction Chance",
+    "vi": "Cơ hội tương tác xã hội tiêu cực"
+  },
+  {
+    "key": "atb_name_ConversationInteractionHoursCooldown",
+    "type": 0,
+    "en": "Time between social interactions ",
+    "vi": "Thời gian giữa các tương tác xã hội "
+  },
+  {
+    "key": "atb_name_ConversationAvailabilityChance",
+    "type": 0,
+    "en": "Chance to engage in social interactions",
+    "vi": "Cơ hội tham gia tương tác xã hội"
+  },
+  {
+    "key": "atb_info_AffectionPositiveMultiplier",
+    "type": 0,
+    "en": "Multiplies positive social interaction intensity",
+    "vi": "Nhân hệ số tác động giao tiếp xã hội tích cực"
+  },
+  {
+    "key": "atb_info_AffectionNegativeMultiplier",
+    "type": 0,
+    "en": "Multiplies negative social interaction intensity",
+    "vi": "Nhân hệ số tác động giao tiếp xã hội tiêu cực"
+  },
+  {
+    "key": "atb_info_SocialCompatibilityPositive",
+    "type": 0,
+    "en": "Multiplies the chance a positive social interaction will occur",
+    "vi": "Nhân cơ hội xảy ra tương tác xã hội tích cực"
+  },
+  {
+    "key": "atb_info_SocialCompatibilityNegative",
+    "type": 0,
+    "en": "Multiplies the chance a negative social interaction will occur",
+    "vi": "Nhân cơ hội xảy ra tương tác xã hội tiêu cực"
+  },
+  {
+    "key": "atb_info_ConversationInteractionHoursCooldown",
+    "type": 0,
+    "en": "Number of hours between social interactions",
+    "vi": "Số giờ giữa các lần tương tác xã hội."
+  },
+  {
+    "key": "atb_info_ConversationAvailabilityChance",
+    "type": 0,
+    "en": "Chance to engage in social interactions",
+    "vi": "Cơ hội tham gia tương tác xã hội"
+  },
+  {
+    "key": "atb_name_fishing_yeald",
+    "type": 0,
+    "en": "Fishing Yield",
+    "vi": "Sản lượng câu cá"
+  },
+  {
+    "key": "atb_info_fishing_yeald",
+    "type": 0,
+    "en": "The number of fish caught when fishing ",
+    "vi": "Số lượng cá câu được khi đi câu cá"
+  },
+  {
+    "key": "atb_name_fishing_failed",
+    "type": 0,
+    "en": "Chance Fishing Fails",
+    "vi": "Cơ hội câu cá thất bại"
+  },
+  {
+    "key": "atb_info_fishing_failed",
+    "type": 0,
+    "en": "The percentage chance that fishing will fail and resources from that catch will be lost",
+    "vi": "Tỷ lệ phần trăm lần câu cá thất bại và tài nguyên từ mẻ câu bị mất"
+  },
+  {
+    "key": "atb_name_NegotiationMultiplier",
+    "type": 0,
+    "en": "Negotiation Multiplier",
+    "vi": "Hệ số thương lượng"
+  },
+  {
+    "key": "atb_info_NegotiationMultiplier",
+    "type": 0,
+    "en": "This multiplier affects the value demanded by negotiators. The lower the multiplier, the lower the amount your settlement offers other faction in extortion events and runaway negotiations.",
+    "vi": "Hệ số này ảnh hưởng đến giá trị mà người đàm phán yêu cầu. Hệ số càng thấp, khu định cư của bạn càng phải đề nghị ít hơn cho phe phái khác trong sự kiện tống tiền và thương lượng với người bỏ trốn."
+  },
+  {
+    "key": "atb_name_RecruitChance",
+    "type": 0,
+    "en": "Successfully Enroll a Recruit Chance",
+    "vi": "Cơ hội chiêu mộ thành công"
+  },
+  {
+    "key": "atb_name_BeingRecruitedChance",
+    "type": 0,
+    "en": "Successful Accept Recruitment Chance",
+    "vi": "Cơ hội chấp nhận chiêu mộ"
+  },
+  {
+    "key": "atb_info_RecruitChance",
+    "type": 0,
+    "en": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the prisoner targeted for enrolment.",
+    "vi": "Cơ hội nỗ lực chiêu mộ hằng ngày thành công. Chỉ số này còn được nhân với cơ hội được chiêu mộ của tù nhân mục tiêu."
+  },
+  {
+    "key": "atb_info_BeingRecruitedChance",
+    "type": 0,
+    "en": "The chance a daily recruitment attempt is successful or not. This is also multiplied by the Recruitment chance of the settler attempting to enroll a new recruit.",
+    "vi": "Cơ hội nỗ lực chiêu mộ hằng ngày thành công. Chỉ số này còn được nhân với cơ hội chiêu mộ của dân làng đang thuyết phục tân binh."
+  },
+  {
+    "key": "atb_name_recruitPrisonerChance",
+    "type": 0,
+    "en": "Recruit prisoner chance",
+    "vi": "Cơ hội chiêu mộ tù nhân"
+  },
+  {
+    "key": "atb_info_recruitPrisonerChance",
+    "type": 0,
+    "en": "The chance to successfully recruit a prisoner to become a new settler. ",
+    "vi": "Cơ hội chiêu mộ thành công một tù nhân trở thành dân làng mới. "
+  },
+  {
+    "key": "atb_name_AgentFlammability",
+    "type": 0,
+    "en": "Flammability",
+    "vi": "Khả năng bắt lửa"
+  },
+  {
+    "key": "atb_name_AgentFireDamageMultiplier",
+    "type": 0,
+    "en": "Flame damage multiplier",
+    "vi": "Hệ số sát thương lửa"
+  },
+  {
+    "key": "atb_info_AgentFlammability",
+    "type": 0,
+    "en": "How flammable the person, animal or object is. Higher flammability means they more easily chatch fire.",
+    "vi": "Mức độ dễ cháy của người, động vật hoặc vật thể. Chỉ số càng cao, chúng càng dễ bắt lửa."
+  },
+  {
+    "key": "atb_info_AgentFireDamageMultiplier",
+    "type": 0,
+    "en": "Flame damage is multiplied by this number ",
+    "vi": "Sát thương lửa được nhân với con số này "
+  },
+  {
+    "key": "atb_name_RangedTrainSpeed",
+    "type": 0,
+    "en": "Ranged Training Speed",
+    "vi": "Tốc độ huấn luyện tầm xa"
+  },
+  {
+    "key": "atb_name_MeleeTrainSpeed",
+    "type": 0,
+    "en": "Melee Training Speed",
+    "vi": "Tốc độ huấn luyện cận chiến"
+  },
+  {
+    "key": "atb_info_RangedTrainSpeed",
+    "type": 0,
+    "en": "Speed at which settler completes a training session",
+    "vi": "Tốc độ dân làng hoàn thành một buổi huấn luyện"
+  },
+  {
+    "key": "atb_info_MeleeTrainSpeed",
+    "type": 0,
+    "en": "Speed at which settler completes a training session",
+    "vi": "Tốc độ dân làng hoàn thành một buổi huấn luyện"
+  },
+  {
+    "key": "atb_name_SocialFightChance",
+    "type": 0,
+    "en": "Retaliate Chance",
+    "vi": "Cơ hội phản công"
+  },
+  {
+    "key": "atb_name_SimpleToLavishChance",
+    "type": 0,
+    "en": "Upgrade Meal Chance",
+    "vi": "Cơ hội nâng cấp bữa ăn"
+  },
+  {
+    "key": "atb_info_SocialFightChance",
+    "type": 0,
+    "en": "The chance to pick a fight with whoever caused offence  ",
+    "vi": "Cơ hội gây gổ với kẻ đã xúc phạm mình  "
+  },
+  {
+    "key": "atb_info_SimpleToLavishChance",
+    "type": 0,
+    "en": "The chance that a simple meal will be served as a more lavish version. ",
+    "vi": "Cơ hội một bữa ăn đơn giản được phục vụ thành phiên bản thịnh soạn hơn. "
+  },
+  {
+    "key": "tainted",
+    "type": 0,
+    "en": "Tainted",
+    "vi": "Vấy máu xác chết"
+  }
+]

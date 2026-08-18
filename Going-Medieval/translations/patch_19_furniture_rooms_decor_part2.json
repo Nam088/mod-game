@@ -1,0 +1,182 @@
+[
+  {
+    "key": "room_imp_average_beauty_info",
+    "type": 0,
+    "en": "the average Aesthetic Value of every object in the room",
+    "vi": "Giá trị thẩm mỹ trung bình của toàn bộ các vật thể bài trí bên trong phòng"
+  },
+  {
+    "key": "room_type_prison_cell",
+    "type": 0,
+    "en": "Prison Cell",
+    "vi": "Xà Lim Phòng Giam"
+  },
+  {
+    "key": "room_info_prison_cell",
+    "type": 0,
+    "en": "Housing for guests deprived of their liberty. Sturdy locks are essential.",
+    "vi": "Nơi cư trú đặc biệt dành cho những vị khách bị tước đoạt quyền tự do. Những ổ khóa kiên cố và song sắt vững chãi là yếu tố sống còn."
+  },
+  {
+    "key": "room_name_grand_library",
+    "type": 0,
+    "en": "Fellows' Library",
+    "vi": "Đại Thư Viện Viện Sĩ"
+  },
+  {
+    "key": "room_info_grand_library",
+    "type": 0,
+    "en": "A bustling hub of serious academic research, where collegiate fellows gather to read and exchange ideas that will shape the nation.",
+    "vi": "Một trung tâm học thuật sầm uất dành cho công tác nghiên cứu chuyên sâu, nơi các viện sĩ hàn lâm cùng tề tựu để đọc sách và trao đổi những tư tưởng vĩ đại định hình vận mệnh quốc gia."
+  },
+  {
+    "key": "room_type_advanced_chapel_christian",
+    "type": 0,
+    "en": "Reliquary Chapel",
+    "vi": "Nhà Nguyện Thánh Tích"
+  },
+  {
+    "key": "room_info_advanced_chapel_christian",
+    "type": 0,
+    "en": "A sacred space dedicated to displaying holy relics. The chapel is a focal points for pilgrimage, inspiring the faithful through the lives of the saints.",
+    "vi": "Không gian linh thiêng tôn nghiêm chuyên dùng để phụng thờ và trưng bày các thánh tích cổ. Nơi đây là điểm đến tâm linh của các đoàn hành hương, truyền nguồn cảm hứng đức tin bất diệt qua cuộc đời hiển thánh của các vị thánh tông đồ."
+  },
+  {
+    "key": "room_type_advanced_chapel_pagan",
+    "type": 0,
+    "en": "Oak Brethren Sanctuary",
+    "vi": "Thánh Địa Huynh Đệ Cây Sồi"
+  },
+  {
+    "key": "room_info_advanced_chapel_pagan",
+    "type": 0,
+    "en": "A haven of tranquility. Brethren can breathe deep and feel the earth beneath their feet, here in the blessed shade of the Mighty Oak. ",
+    "vi": "Một chốn bình yên thanh tịnh tuyệt đối. Con dân Huynh Đệ có thể hít một hơi thật sâu và cảm nhận mạch nguồn đất mẹ dưới chân mình, dưới bóng râm che chở ban phước của Cây Sồi Đại Ngàn linh thiêng."
+  },
+  {
+    "key": "room_type_training",
+    "type": 0,
+    "en": "Training room",
+    "vi": "Võ Phòng Huấn Luyện"
+  },
+  {
+    "key": "room_info_training",
+    "type": 0,
+    "en": "By placing training equipment in this room, it has become a space settlers can visit to boost their training speed.",
+    "vi": "Bằng việc bài trí các trang thiết bị luyện tập võ nghệ trong phòng này, nơi đây trở thành thao trường lý tưởng để dân làng rèn luyện nâng cao tốc độ chiến đấu."
+  },
+  {
+    "key": "room_type_treasury",
+    "type": 0,
+    "en": "Treasury",
+    "vi": "Kho Bạc Ngân Khố"
+  },
+  {
+    "key": "room_info_treasury",
+    "type": 0,
+    "en": "A place to house sturdy war chests and count money. Brokers often loiter within, gloating over the wealth on display.",
+    "vi": "Nơi cất giữ những cỗ rương chiến tranh kiên cố và kiểm đếm của cải vàng bạc. Các thương lái môi giới thường thích lui tới đây để chiêm ngưỡng sự giàu có phồn vinh được phô diễn."
+  },
+  {
+    "key": "room_effect_prison_cell",
+    "type": 0,
+    "en": "Prison Cell gives no bonuses",
+    "vi": "Phòng giam không cung cấp điểm cộng chỉ số"
+  },
+  {
+    "key": "room_effect_training",
+    "type": 0,
+    "en": "Settlers will receive a slight speed boost when training inside this room",
+    "vi": "Dân làng nhận được điểm cộng tăng nhẹ tốc độ khi rèn luyện võ nghệ bên trong phòng này"
+  },
+  {
+    "key": "room_effect_treasury",
+    "type": 0,
+    "en": "Treasury gives no bonuses",
+    "vi": "Kho bạc ngân khố không cung cấp điểm cộng chỉ số"
+  },
+  {
+    "key": "room_pte_requirement",
+    "type": 0,
+    "en": "Required for Event",
+    "vi": "Yêu Cầu Thiết Yếu Cho Sự Kiện"
+  },
+  {
+    "key": "room_role_requirement",
+    "type": 0,
+    "en": "Requirement for Community Role",
+    "vi": "Yêu Cầu Cho Vai Trò Cộng Đồng"
+  },
+  {
+    "key": "bbt_new_room_unlocked",
+    "type": 0,
+    "en": "A new room type has been unlocked: ",
+    "vi": "Đã mở khóa quy hoạch loại phòng mới: "
+  },
+  {
+    "key": "resource_name_mushroom",
+    "type": 0,
+    "en": "Mushroom",
+    "vi": "Nấm Tươi Rừng"
+  },
+  {
+    "key": "resource_name_roasted_mushrooms",
+    "type": 0,
+    "en": "Grilled Mushrooms",
+    "vi": "Nấm Rừng Nướng"
+  },
+  {
+    "key": "resource_info_roasted_mushrooms",
+    "type": 0,
+    "en": "Sprouting mysteriously from the underworld, governed by evil and fairy folk. Yet curiously delicious. ",
+    "vi": "Loài nấm mọc lên đầy bí ẩn từ cõi âm u ẩm thấp, tương truyền do ma quỷ và tộc tiên cai quản. Nhưng khi nướng chín lại thơm ngon đến lạ kỳ."
+  },
+  {
+    "key": "resource_info_mushroom",
+    "type": 0,
+    "en": "Wild food from fields and woodlands. Identify carefully to avoid toxic fungi. \n",
+    "vi": "Nguồn thực phẩm mọc hoang dã nơi đồng ruộng và rừng rậm. Cần quan sát nhận dạng cẩn thận để tránh hái phải nấm độc chết người."
+  },
+  {
+    "key": "resource_group_StructuresFurniture",
+    "type": 0,
+    "en": "Furniture",
+    "vi": "Đồ Nội Thất & Kiến Trúc"
+  },
+  {
+    "key": "Furniture names",
+    "type": 0,
+    "en": "",
+    "vi": "Tên Đồ Nội Thất"
+  },
+  {
+    "key": "Furniture info",
+    "type": 0,
+    "en": "",
+    "vi": "Mô Tả Đồ Nội Thất"
+  },
+  {
+    "key": "dev_particle_mushroom_death",
+    "type": 0,
+    "en": "Mushrooms Death",
+    "vi": "Hiệu Ứng Nấm Héo Tàn"
+  },
+  {
+    "key": "dev_unlock_all_room_types",
+    "type": 0,
+    "en": "Unlock All Room Types",
+    "vi": "Mở Khóa Toàn Bộ Quy Hoạch Loại Phòng"
+  },
+  {
+    "key": "dev_tooltip_unlock_all_room_types",
+    "type": 0,
+    "en": "Unlocks All Room Types for room detection",
+    "vi": "Mở khóa toàn bộ các loại phòng để phục vụ hệ thống tự động nhận diện quy hoạch"
+  },
+  {
+    "key": "dev_event_room_flood",
+    "type": 0,
+    "en": "Cellar Flooded",
+    "vi": "Hầm Chứa Bị Ngập Nước"
+  }
+]

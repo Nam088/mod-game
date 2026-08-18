@@ -1,0 +1,902 @@
+[
+  {
+    "key": "building_info_clay_brick_brazier",
+    "type": 0,
+    "en": "A brick structure filled with glowing wood or charcoal for warmth.",
+    "vi": "Chậu sưởi xây từ gạch đất nung chứa đầy than hồng đượm giúp xua tan giá rét."
+  },
+  {
+    "key": "building_info_iron_brazier",
+    "type": 0,
+    "en": "A metal basket filled with glowing wood or charcoal for warmth.",
+    "vi": "Chiếc giỏ sưởi bằng sắt rèn chứa than củi đỏ rực mang lại hơi ấm nồng nàn."
+  },
+  {
+    "key": "building_info_stone_brazier",
+    "type": 0,
+    "en": "A stone container filled with glowing wood or charcoal for warmth.",
+    "vi": "Chậu sưởi đẽo từ đá vôi thô chứa than củi rực cháy giúp làm ấm không gian."
+  },
+  {
+    "key": "building_info_stone_brick_brazier",
+    "type": 0,
+    "en": "A stone brick structure filled with glowing wood or charcoal for warmth.",
+    "vi": "Chậu sưởi xây bằng gạch đá vôi cắt khối chứa than củi sưởi ấm căn phòng."
+  },
+  {
+    "key": "building_info_hay_sleeping_spot",
+    "type": 0,
+    "en": "Just one step up from sleeping on dirt. Hay thrown down as a place to rest.",
+    "vi": "Chỉ nhỉnh hơn nằm trực tiếp trên nền đất lạnh một chút. Một lớp cỏ khô rải xuống làm nơi ngả lưng tạm bợ."
+  },
+  {
+    "key": "building_info_hay_wood_bed",
+    "type": 0,
+    "en": "Sacks stuffed with hay on a wooden frame. A basic but fairly comfortable bed.",
+    "vi": "Những bao tải nhồi đầy cỏ khô đặt trên khung gỗ mộc mạc. Một chiếc giường đơn sơ nhưng tương đối êm ái."
+  },
+  {
+    "key": "building_info_quality_bed",
+    "type": 0,
+    "en": "A fine wooden bed with a turned frame and ropes to support the mattress. Luxurious.",
+    "vi": "Chiếc giường gỗ cao cấp tuyệt mỹ với khung tiện tinh xảo và hệ thống dây bện căng đệm đàn hồi. Vô cùng êm ái và sang trọng."
+  },
+  {
+    "key": "building_info_royal_bed",
+    "type": 0,
+    "en": "An elaborately carved and decorated piece. A fitting place for a ruler to rest their head.",
+    "vi": "Kiệt tác giường ngủ hoàng gia được chạm trổ hoa văn tinh xảo lộng lẫy. Chốn ngả lưng đế vương xứng tầm cho bậc quân vương tôn quý."
+  },
+  {
+    "key": "building_info_wicker_bed",
+    "type": 0,
+    "en": "This beats laying in the hay, but is still rudimentary and not the most comfortable of beds.",
+    "vi": "Tiện nghi hơn nhiều so với nằm đệm rơm, nhưng vẫn là kiểu giường thô sơ chưa thực sự êm ái."
+  },
+  {
+    "key": "building_info_quality_table_large",
+    "type": 0,
+    "en": "A large, exquisitely-crafted table, made from fine-grained wood.",
+    "vi": "Chiếc bàn lớn được đẽo gọt vô cùng tinh xảo từ loại gỗ thớ mịn thượng hạng."
+  },
+  {
+    "key": "building_info_quality_table_medium",
+    "type": 0,
+    "en": "A exquisitely-crafted table, made from fine-grained wood.",
+    "vi": "Chiếc bàn trà được chế tác tinh xảo từ gỗ thớ mịn cao cấp."
+  },
+  {
+    "key": "building_info_quality_table_small",
+    "type": 0,
+    "en": "A fine side table, beautifully worked in wood.",
+    "vi": "Chiếc bàn phụ nhỏ nhắn thanh nhã, gia công tỉ mỉ bằng gỗ tốt."
+  },
+  {
+    "key": "building_info_stone_table_large",
+    "type": 0,
+    "en": "A grand table fit for a banquet, fashioned in stone.",
+    "vi": "Chiếc bàn đại tiệc đồ sộ bằng đá, hoàn hảo cho những bữa yến tiệc linh đình của các lãnh chúa."
+  },
+  {
+    "key": "building_info_stone_table_medium",
+    "type": 0,
+    "en": "A table fit for a banquet, fashioned in stone.",
+    "vi": "Chiếc bàn tiệc vững chãi chế tác từ đá vôi tự nhiên."
+  },
+  {
+    "key": "building_info_stone_table_small",
+    "type": 0,
+    "en": "A small side table beautifully finished in stone.",
+    "vi": "Chiếc bàn phụ nhỏ nhắn được đẽo gọt bóng bẩy từ đá tự nhiên."
+  },
+  {
+    "key": "building_info_wood_table_large",
+    "type": 0,
+    "en": "A large, scrubbed wooden table is a gathering space for work or meals.",
+    "vi": "Chiếc bàn gỗ ván lớn cọ rửa sạch sẽ, là trung tâm tụ họp làm việc hoặc cùng nhau quây quần dùng bữa."
+  },
+  {
+    "key": "building_info_wood_table_medium",
+    "type": 0,
+    "en": "A scrubbed wooden table is a gathering space for work or meals.",
+    "vi": "Chiếc bàn gỗ được cọ sạch là nơi tụ họp để làm việc hoặc dùng bữa."
+  },
+  {
+    "key": "building_info_wood_table_small",
+    "type": 0,
+    "en": "A simple wooden table for a small space or small tasks.",
+    "vi": "Bàn gỗ đơn giản dành cho không gian nhỏ hoặc công việc nhẹ."
+  },
+  {
+    "key": "building_info_iron_chair",
+    "type": 0,
+    "en": "A seat wrought from iron. A beautiful and unusual piece, almost throne-like.",
+    "vi": "Ghế rèn từ sắt, đẹp và khác thường, gần giống ngai vàng."
+  },
+  {
+    "key": "building_info_quality_chair",
+    "type": 0,
+    "en": "A finely turned piece, a seat for someone important, perhaps?",
+    "vi": "Chiếc ghế tiện tinh xảo, có lẽ dành cho một người quan trọng?"
+  },
+  {
+    "key": "building_info_stone_chair",
+    "type": 0,
+    "en": "A seat hewn from stone. Imposing, but a little chilly. Bring cushions.",
+    "vi": "Ghế đẽo từ đá. Uy nghi nhưng hơi lạnh, nên mang theo đệm."
+  },
+  {
+    "key": "building_info_stone_stool",
+    "type": 0,
+    "en": "A simple stone seat.",
+    "vi": "Ghế đá đơn giản."
+  },
+  {
+    "key": "building_info_wicker_stool",
+    "type": 0,
+    "en": "A simple woven seat.",
+    "vi": "Ghế đan đơn giản."
+  },
+  {
+    "key": "building_info_wood_chair",
+    "type": 0,
+    "en": "A sturdy wooden chair.",
+    "vi": "Ghế gỗ chắc chắn."
+  },
+  {
+    "key": "building_info_wood_stool",
+    "type": 0,
+    "en": "A simple wooden seat.",
+    "vi": "Ghế gỗ đơn giản."
+  },
+  {
+    "key": "building_info_shrine_christian",
+    "type": 0,
+    "en": "Here, followers aligned with the Church of Restitution gather to pray.",
+    "vi": "Tại đây, tín đồ Hội Phục Hưng tụ họp cầu nguyện."
+  },
+  {
+    "key": "building_info_shrine_pagan",
+    "type": 0,
+    "en": "Here, followers aligned with the Oak Brethren gather to pray.",
+    "vi": "Tại đây, tín đồ Huynh Đệ Cây Sồi tụ họp cầu nguyện."
+  },
+  {
+    "key": "building_info_statue_fate_stone",
+    "type": 0,
+    "en": "Three stone women, spinning. The thread is life.",
+    "vi": "Ba người phụ nữ bằng đá đang kéo sợi. Sợi chỉ chính là sự sống."
+  },
+  {
+    "key": "building_info_statue_knight",
+    "type": 0,
+    "en": "An gallant champion with chiselled features.",
+    "vi": "Một chiến binh hào hiệp với đường nét như được đục khắc."
+  },
+  {
+    "key": "building_info_statue_obelisk",
+    "type": 0,
+    "en": "Mysterious, tall and regular in shape. A geometric marker and talking point in stone.",
+    "vi": "Bí ẩn, cao lớn và có hình dạng cân đối. Một dấu mốc hình học bằng đá khiến người ta bàn luận."
+  },
+  {
+    "key": "building_info_statue_pagan_stone",
+    "type": 0,
+    "en": "The runes are illegible but the symbolism is clear. This carving celebrates heathen gods.",
+    "vi": "Chữ rune không thể đọc nhưng ý nghĩa biểu tượng rất rõ. Tác phẩm chạm khắc này tôn vinh các vị thần ngoại giáo."
+  },
+  {
+    "key": "building_info_statue_woman",
+    "type": 0,
+    "en": "The stony gaze of this beautiful maiden is genuinely arresting.",
+    "vi": "Ánh nhìn bằng đá của thiếu nữ xinh đẹp này thực sự cuốn hút."
+  },
+  {
+    "key": "building_info_wall_bookshelf",
+    "type": 0,
+    "en": "Books are rare and valuable. They deserve an attractive resting place.",
+    "vi": "Sách hiếm và quý giá. Chúng xứng đáng có nơi cất giữ đẹp mắt."
+  },
+  {
+    "key": "building_info_wall_decoration_christian",
+    "type": 0,
+    "en": "A shining, golden plaque, made even brighter by the light of many candles tended by the faithful.",
+    "vi": "Tấm biển vàng sáng bóng càng rực rỡ dưới ánh nến do tín đồ chăm nom."
+  },
+  {
+    "key": "building_info_wall_decoration_pagan",
+    "type": 0,
+    "en": "A dark, rugged piece, hewn from oak. Lovingly carved with ancient runes and symbols indicating the wheel of life.",
+    "vi": "Vật thể tối màu, thô ráp đẽo từ gỗ sồi, được tận tâm chạm rune cổ và biểu tượng bánh xe sự sống."
+  },
+  {
+    "key": "building_info_wall_mirror",
+    "type": 0,
+    "en": "Who is the fairest of them all? Keep track with this fairytale mirror.",
+    "vi": "Ai là người đẹp nhất? Hãy tìm câu trả lời bằng chiếc gương cổ tích này."
+  },
+  {
+    "key": "building_info_wall_pottery_shelf",
+    "type": 0,
+    "en": "Fine tableware is worthy of display when not in use. This shelf does the job nicely.",
+    "vi": "Bộ đồ ăn tinh xảo xứng đáng được trưng bày khi không dùng. Chiếc kệ này làm việc đó rất tốt."
+  },
+  {
+    "key": "building_info_wall_stone_lion_head",
+    "type": 0,
+    "en": "A carved lion makes for a bold statement of power.",
+    "vi": "Sư tử chạm khắc là biểu tượng quyền lực đầy mạnh mẽ."
+  },
+  {
+    "key": "building_info_wall_tapestry",
+    "type": 0,
+    "en": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry.",
+    "vi": "Ngăn gió lùa và tô điểm màu sắc cho tường bằng tấm thảm được tạo nên công phu này."
+  },
+  {
+    "key": "building_info_wall_tool_shelf",
+    "type": 0,
+    "en": "Keep tools handy and organised with this useful wall rack.",
+    "vi": "Giữ dụng cụ trong tầm tay và ngăn nắp bằng giá treo tường hữu ích này."
+  },
+  {
+    "key": "building_info_fence",
+    "type": 0,
+    "en": "A rustic boundary useful for organising crops and livestock. Easily penetrated by marauders.",
+    "vi": "Ranh giới mộc mạc giúp sắp xếp cây trồng và gia súc, nhưng dễ bị kẻ cướp vượt qua."
+  },
+  {
+    "key": "building_info_torch",
+    "type": 0,
+    "en": "A source of light in the darkness.",
+    "vi": "Nguồn sáng trong bóng tối."
+  },
+  {
+    "key": "building_info_torch_wall",
+    "type": 0,
+    "en": "A flame that is wall mounted to give steady light.",
+    "vi": "Ngọn lửa gắn tường cung cấp ánh sáng ổn định."
+  },
+  {
+    "key": "building_info_standing_bookshelf",
+    "type": 0,
+    "en": "A room without books is like a body without a soul. Display your hard-won knowledge with pride.",
+    "vi": "Căn phòng không có sách giống như cơ thể không có linh hồn. Hãy tự hào trưng bày tri thức khó nhọc mới có được."
+  },
+  {
+    "key": "building_info_weapon_rack",
+    "type": 0,
+    "en": "Keep weapons and shields readily available with a sturdy and practical storage rack.",
+    "vi": "Giữ vũ khí và khiên luôn sẵn sàng bằng giá chứa chắc chắn, thiết thực."
+  },
+  {
+    "key": "building_info_armour_rack",
+    "type": 0,
+    "en": "Display your outfits and headgear when not in use. Dressing is easy when your garb is properly organised.",
+    "vi": "Trưng bày trang phục và đồ đội đầu khi không dùng. Mặc đồ sẽ dễ dàng hơn khi mọi thứ được sắp xếp ngăn nắp."
+  },
+  {
+    "key": "building_info_shelf",
+    "type": 0,
+    "en": "Space-saving vertical storage keeps items clean and tidy, and eliminates ground decay. ",
+    "vi": "Nơi chứa theo chiều dọc tiết kiệm không gian, giữ vật phẩm sạch sẽ ngăn nắp và loại bỏ mục nát do nằm trên đất. "
+  },
+  {
+    "key": "building_info_hook",
+    "type": 0,
+    "en": "A metal wall hook, suitable for hanging carcasses awaiting processing. Avoids ground decay.",
+    "vi": "Móc kim loại gắn tường dùng để treo xác động vật chờ xử lý, tránh mục nát do nằm trên đất."
+  },
+  {
+    "key": "building_info_medical_shelf",
+    "type": 0,
+    "en": "A shelf for safely storing herbs, healing poultices, and other medical supplies.",
+    "vi": "Kệ cất giữ an toàn thảo mộc, thuốc đắp và các vật tư y tế khác."
+  },
+  {
+    "key": "building_info_candle",
+    "type": 0,
+    "en": "Illuminate the darkness and add cheer to your dwelling with candlelight. ",
+    "vi": "Thắp sáng bóng tối và làm nơi ở ấm cúng hơn bằng ánh nến. "
+  },
+  {
+    "key": "building_info_map_table",
+    "type": 0,
+    "en": "On this sturdy table is a map of all known places heareabouts. It is useful for orientation, and making plans.",
+    "vi": "Trên chiếc bàn chắc chắn này là bản đồ mọi địa điểm đã biết quanh đây, hữu ích để định hướng và lập kế hoạch."
+  },
+  {
+    "key": "building_info_caravan_post",
+    "type": 0,
+    "en": "Settlers gather at this point in anticipation of a caravan's arrival or departure.",
+    "vi": "Dân làng tụ họp tại đây để chờ đoàn lữ hành đến hoặc khởi hành."
+  },
+  {
+    "key": "building_info_archery_range",
+    "type": 0,
+    "en": "A training area with stationary, circular targets for archery practice.",
+    "vi": "Khu luyện tập có bia tròn cố định để tập bắn cung."
+  },
+  {
+    "key": "building_info_practice_dummy",
+    "type": 0,
+    "en": "A strawman. The perfect stand-in enemy for practicing melee skills.",
+    "vi": "Hình nộm rơm, kẻ địch thay thế hoàn hảo để luyện kỹ năng cận chiến."
+  },
+  {
+    "key": "building_info_banner",
+    "type": 0,
+    "en": "A ragged pennant with a long history. Its frayed edges flutter in the breeze.",
+    "vi": "Lá cờ rách mang lịch sử lâu đời, mép sờn phấp phới trong gió."
+  },
+  {
+    "key": "building_info_shield_rack_single_wall",
+    "type": 0,
+    "en": "A home for heraldry. Let your shields shine, mounted effortlessly on this sturdy rack.",
+    "vi": "Nơi dành cho huy hiệu. Hãy để những chiếc khiên tỏa sáng trên giá chắc chắn này."
+  },
+  {
+    "key": "building_info_trophy_rack_wall",
+    "type": 0,
+    "en": "Stories of the hunt. A fitting display showcasing memorable kills.",
+    "vi": "Những câu chuyện săn bắt. Nơi trưng bày thích hợp cho các chiến tích đáng nhớ."
+  },
+  {
+    "key": "building_info_weapon_rack_single_wall",
+    "type": 0,
+    "en": "A resting place with custom niches for the honourable tools of war.",
+    "vi": "Nơi cất giữ với các hốc riêng dành cho những công cụ chiến tranh danh giá."
+  },
+  {
+    "key": "building_info_weapon_rack_wall",
+    "type": 0,
+    "en": "Blades and bludgeons deserve to be seen. This decorative wall mounting system keeps weapons handy.",
+    "vi": "Lưỡi kiếm và chùy xứng đáng được trưng bày. Giá tường trang trí này giữ vũ khí trong tầm tay."
+  },
+  {
+    "key": "building_info_chest",
+    "type": 0,
+    "en": "Storage for your belongings. A chest offers protection from the elements, but not from changes in temperature. ",
+    "vi": "Nơi cất đồ đạc. Rương bảo vệ khỏi thời tiết nhưng không chống được thay đổi nhiệt độ. "
+  },
+  {
+    "key": "building_info_pen_marker",
+    "type": 0,
+    "en": "Place this marker in an enclosure and click on it to assign which animals to pen here.  ",
+    "vi": "Đặt mốc này trong khu quây rồi nhấp vào để chỉ định động vật được nhốt tại đây.  "
+  },
+  {
+    "key": "building_info_trough",
+    "type": 0,
+    "en": "A manger to hold animal food.",
+    "vi": "Máng dùng để chứa thức ăn cho động vật."
+  },
+  {
+    "key": "building_info_sign",
+    "type": 0,
+    "en": "Inscribe your own message here for others to see.",
+    "vi": "Khắc thông điệp của bạn tại đây để người khác đọc."
+  },
+  {
+    "key": "building_info_mirror_wall",
+    "type": 0,
+    "en": "Who is the fairest of them all? Keep track with this fairytale mirror.",
+    "vi": "Ai là người đẹp nhất? Hãy tìm câu trả lời bằng chiếc gương cổ tích này."
+  },
+  {
+    "key": "building_info_statue_large",
+    "type": 0,
+    "en": "This sizeable sculpture, hewn by hand and displayed for all to enjoy, is built to last. ",
+    "vi": "Tác phẩm điêu khắc lớn được đẽo thủ công và trưng bày cho mọi người thưởng thức, bền vững theo thời gian. "
+  },
+  {
+    "key": "building_info_statue_wall",
+    "type": 0,
+    "en": "A wall-mounted artefact adds interest to a decorative scheme - without taking up valuable floor space.",
+    "vi": "Hiện vật gắn tường tạo điểm nhấn trang trí mà không chiếm diện tích sàn quý giá."
+  },
+  {
+    "key": "building_info_rug_large",
+    "type": 0,
+    "en": "Live like a lord with a textile floor covering, which offers extravagant protection for chilly feet. ",
+    "vi": "Sống như lãnh chúa với tấm phủ sàn bằng vải, bảo vệ xa hoa cho đôi chân lạnh. "
+  },
+  {
+    "key": "building_info_rush_large",
+    "type": 0,
+    "en": "A fresh layer of rushes or hay keeps the floor clean and fresh, and makes the room smell sweeter.",
+    "vi": "Lớp cói hoặc cỏ khô mới giữ sàn sạch sẽ, tươi mới và khiến căn phòng thơm hơn."
+  },
+  {
+    "key": "building_info_human_rug_large",
+    "type": 0,
+    "en": "In life, you shouldn't let people walk all over you. In death, you may not have a choice.",
+    "vi": "Khi sống, đừng để người khác chà đạp lên mình. Khi chết, có lẽ bạn không còn lựa chọn."
+  },
+  {
+    "key": "building_info_animal_rug_large",
+    "type": 0,
+    "en": "Animal pelts fashioned into apparel are a necessity for warmth in the cooler seasons, and something of a style statement.",
+    "vi": "Da thú làm thành trang phục là vật thiết yếu để giữ ấm vào mùa lạnh, đồng thời thể hiện phong cách."
+  },
+  {
+    "key": "building_info_tapestry_vertical_wall",
+    "type": 0,
+    "en": "Keep out draughts and add a touch of colour to your walls with this painstakingly created tapestry.",
+    "vi": "Ngăn gió lùa và tô điểm màu sắc cho tường bằng tấm thảm được tạo nên công phu này."
+  },
+  {
+    "key": "building_info_painting_vertical_wall",
+    "type": 0,
+    "en": "The pleasure of expression through colourful pigments is only surpassed by gazing upon the finished artwork on the wall.",
+    "vi": "Niềm vui thể hiện bản thân bằng sắc màu chỉ thua khoảnh khắc ngắm tác phẩm hoàn thiện trên tường."
+  },
+  {
+    "key": "building_info_medical_bed",
+    "type": 0,
+    "en": "A cot where the infirm and injured may rest, and - if prayers are answered - heal.",
+    "vi": "Chiếc giường để người ốm yếu và bị thương nghỉ ngơi, và nếu lời cầu nguyện được đáp lại, hồi phục."
+  },
+  {
+    "key": "building_info_wardrobe",
+    "type": 0,
+    "en": "A small, wooden chamber for your clothes.",
+    "vi": "Ngăn gỗ nhỏ dành cho quần áo."
+  },
+  {
+    "key": "building_info_wall_instrument_shelf",
+    "type": 0,
+    "en": "A sturdy shelf provides a spot to display musical intruments.",
+    "vi": "Chiếc kệ chắc chắn tạo nơi trưng bày nhạc cụ."
+  },
+  {
+    "key": "building_info_pagan_ritual_circle",
+    "type": 0,
+    "en": "Entrances to the otherworld, sacred rings like these were built on thin places by forgotten ancestors.",
+    "vi": "Là lối vào thế giới bên kia, những vòng thiêng như thế này được tổ tiên bị lãng quên dựng tại nơi ranh giới mong manh."
+  },
+  {
+    "key": "building_info_book_stand",
+    "type": 0,
+    "en": "No ordinary book stand, a lectern holds sacred scriptures and upholds the Word of our Lord.",
+    "vi": "Không phải giá sách thông thường, bục đọc giữ kinh văn thiêng liêng và tôn cao Lời của Chúa."
+  },
+  {
+    "key": "building_info_fire_pit",
+    "type": 0,
+    "en": "Gathering around an open fire is the essence of warmth and cameraderie. Guard children and pets closely.",
+    "vi": "Quây quần quanh lửa là hiện thân của hơi ấm và tình bằng hữu. Hãy trông chừng trẻ em và thú nuôi cẩn thận."
+  },
+  {
+    "key": "building_info_fire_place",
+    "type": 0,
+    "en": "A fire set into the wall is the height of sophistication. The effect is cosy and bright.",
+    "vi": "Ngọn lửa đặt trong tường là đỉnh cao tinh tế, tạo không gian ấm cúng và sáng sủa."
+  },
+  {
+    "key": "building_info_prison_marker",
+    "type": 0,
+    "en": "Label this location carefully, if captives are to be sealed within.",
+    "vi": "Hãy đánh dấu nơi này cẩn thận nếu tù nhân sẽ bị giam kín bên trong."
+  },
+  {
+    "key": "building_info_gallows",
+    "type": 0,
+    "en": "A horizontal wooden beam. The condemned dance on the noose, which hangs, ominously, beneath it.",
+    "vi": "Dầm gỗ nằm ngang. Kẻ bị kết án sẽ đung đưa trên thòng lọng treo đầy ám ảnh bên dưới."
+  },
+  {
+    "key": "building_info_maple_cropfield",
+    "type": 0,
+    "en": "Pass a maple branch over a child to remove all traces of witchcraft. Yields hard timber, perfect for musical instruments.",
+    "vi": "Đưa cành phong qua người trẻ nhỏ để xóa dấu vết phù thủy. Cho gỗ cứng, hoàn hảo để làm nhạc cụ."
+  },
+  {
+    "key": "building_info_oak_cropfield",
+    "type": 0,
+    "en": "The king of the forest and sacred to the druids. Favoured for wood carving and timber-framed buildings.",
+    "vi": "Vua của rừng và linh thiêng với tu sĩ Druid. Được ưa chuộng để chạm gỗ và xây nhà khung gỗ."
+  },
+  {
+    "key": "building_info_pine_cropfield",
+    "type": 0,
+    "en": "The largest Caledonian tree, tall, straight and flexible for masts and planks. Planted to mark the graves of wandering Scots.",
+    "vi": "Loài cây lớn nhất Caledonia, cao, thẳng và dẻo, thích hợp làm cột buồm và ván. Được trồng để đánh dấu mộ người Scots tha hương."
+  },
+  {
+    "key": "building_info_willow_cropfield",
+    "type": 0,
+    "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
+    "vi": "Cây liễu lá bạc sống ven nước và đầm lầy, lớn nhanh và mềm dẻo."
+  },
+  {
+    "key": "building_info_apple_cropfield",
+    "type": 0,
+    "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
+    "vi": "Cho quả thu giòn ngon và gỗ hoàn hảo để tiện hoặc chạm khắc."
+  },
+  {
+    "key": "building_info_barley_cropfield",
+    "type": 0,
+    "en": "A versatile grain for bread, gruel or refreshing ale. Use as feed to fatten poultry.",
+    "vi": "Loại ngũ cốc đa dụng để làm bánh mì, cháo hoặc bia mát. Có thể dùng làm thức ăn vỗ béo gia cầm."
+  },
+  {
+    "key": "building_info_beet_cropfield",
+    "type": 0,
+    "en": "Hardy and easy to grow in your garden, be that hovel or manor.",
+    "vi": "Khỏe mạnh và dễ trồng trong vườn, dù là bên túp lều hay trang viên."
+  },
+  {
+    "key": "building_info_birch_cropfield",
+    "type": 0,
+    "en": "The tree of renewal, birch burns even when wet and is ideal for smoking food. Used for dye and medicine.",
+    "vi": "Cây của sự tái sinh, bạch dương cháy ngay cả khi ướt và rất thích hợp hun khói thực phẩm. Cũng dùng làm thuốc nhuộm và dược liệu."
+  },
+  {
+    "key": "building_info_cabbage_cropfield",
+    "type": 0,
+    "en": "The humblest of wortes and a staple food. A crop to sow all year round.",
+    "vi": "Loại rau khiêm nhường nhất và là thực phẩm chủ yếu. Có thể gieo quanh năm."
+  },
+  {
+    "key": "building_info_carrot_cropfield",
+    "type": 0,
+    "en": "A colourful taproot that is delicious to eat. Can also be stored to enjoy later.",
+    "vi": "Loại củ nhiều màu, ăn rất ngon và có thể cất giữ để dùng sau."
+  },
+  {
+    "key": "building_info_flax_cropfield",
+    "type": 0,
+    "en": "A beautiful and versatile plant with blue flowers, yielding seeds for food and oil, and stems for linen.",
+    "vi": "Loài cây đẹp, đa dụng với hoa xanh, cho hạt làm thức ăn và dầu, thân dùng làm vải lanh."
+  },
+  {
+    "key": "building_info_hay_cropfield",
+    "type": 0,
+    "en": "Grass grows up fast, rippling verdant in the wind. Cut to make hay for animals, or for bedding. ",
+    "vi": "Cỏ lớn nhanh, xanh rì gợn trong gió. Cắt làm cỏ khô cho động vật hoặc lót giường. "
+  },
+  {
+    "key": "building_info_herbs_cropfield",
+    "type": 0,
+    "en": "Plants gathered from nature with many uses, from flavouring food to healing, brewing and dyeing.",
+    "vi": "Cây hái từ tự nhiên có nhiều công dụng, từ tạo vị món ăn đến chữa bệnh, ủ đồ uống và nhuộm."
+  },
+  {
+    "key": "building_info_redcurrant_cropfield",
+    "type": 0,
+    "en": "A plant that grows anywhere, and yields tart, ruby red berries packed with goodness.",
+    "vi": "Loài cây mọc ở mọi nơi, cho quả mọng đỏ ruby chua thanh và giàu dưỡng chất."
+  },
+  {
+    "key": "building_info_default_stockpile",
+    "type": 0,
+    "en": "A designated area where resource piles are stored.",
+    "vi": "Khu vực chỉ định để chứa các đống tài nguyên."
+  },
+  {
+    "key": "building_info_dumping_stockpile",
+    "type": 0,
+    "en": "A designated area where waste is stored.",
+    "vi": "Khu vực chỉ định để chứa chất thải."
+  },
+  {
+    "key": "building_info_stockpile_test",
+    "type": 0,
+    "en": "Designated area where settlers will store resources",
+    "vi": "Khu vực chỉ định để dân làng cất tài nguyên"
+  },
+  {
+    "key": "building_info_warfare_stockpile",
+    "type": 0,
+    "en": "A designated area where weaponry and armour is stored.",
+    "vi": "Khu vực chỉ định để cất vũ khí và giáp."
+  },
+  {
+    "key": "building_info_clay_shingle_roof",
+    "type": 0,
+    "en": "Clay tiles have warmth and rustic appeal, and keep the weather out.",
+    "vi": "Ngói đất sét mang vẻ ấm áp mộc mạc và che chắn thời tiết."
+  },
+  {
+    "key": "building_info_hay_roof",
+    "type": 0,
+    "en": "A roof fashioned from bundles of hay, laid flat and pinned with wooden rods. Rustic and waterproof.",
+    "vi": "Mái làm từ bó cỏ khô đặt phẳng và ghim bằng thanh gỗ. Mộc mạc và chống nước."
+  },
+  {
+    "key": "building_info_limestone_slate_roof",
+    "type": 0,
+    "en": "A roof built from roofing slates blends with the local landscape, and keeps things dry.",
+    "vi": "Mái làm từ phiến đá hòa vào cảnh quan địa phương và giữ mọi thứ khô ráo."
+  },
+  {
+    "key": "building_info_wicker_roof",
+    "type": 0,
+    "en": "A roof fashioned from bundled sticks.",
+    "vi": "Mái làm từ các bó que gỗ."
+  },
+  {
+    "key": "building_info_wood_roof",
+    "type": 0,
+    "en": "A roof made from wooden shingles offers protection from the elements.",
+    "vi": "Mái lợp ván gỗ bảo vệ khỏi thời tiết."
+  },
+  {
+    "key": "building_info_advanced_research_table",
+    "type": 0,
+    "en": "Deploy mathematics and natural philosophy to their fullest extent to uncover the secrets and complexities of new discoveries.",
+    "vi": "Vận dụng tối đa toán học và triết học tự nhiên để khám phá bí mật cùng sự phức tạp của những phát hiện mới."
+  },
+  {
+    "key": "building_info_apothecary_bench",
+    "type": 0,
+    "en": "A work station for transforming natural ingredients into cures.",
+    "vi": "Trạm làm việc để biến nguyên liệu tự nhiên thành phương thuốc."
+  },
+  {
+    "key": "building_info_armourer_table",
+    "type": 0,
+    "en": "A bench where many types of armour take shape.",
+    "vi": "Bàn chế tác nơi nhiều loại giáp thành hình."
+  },
+  {
+    "key": "building_info_basic_research_table",
+    "type": 0,
+    "en": "A place to begin your studies of a new item.",
+    "vi": "Nơi bắt đầu nghiên cứu một vật phẩm mới."
+  },
+  {
+    "key": "building_info_blacksmith_station",
+    "type": 0,
+    "en": "Process iron into usable items. Don't forget to invoke Weyland Smith.",
+    "vi": "Gia công sắt thành vật dụng hữu ích. Đừng quên khấn Weyland Smith."
+  },
+  {
+    "key": "building_info_brewing_station",
+    "type": 0,
+    "en": "Equipped with a copper cauldron for brewing ale.",
+    "vi": "Trang bị vạc đồng để ủ bia."
+  },
+  {
+    "key": "building_info_butchering_table",
+    "type": 0,
+    "en": "A station for hanging and preparing meat from carcasses.",
+    "vi": "Trạm treo và sơ chế thịt từ xác động vật."
+  },
+  {
+    "key": "building_info_camp_fire",
+    "type": 0,
+    "en": "A fire for light, warmth and cooking. Gather round, bring a story.",
+    "vi": "Đống lửa bập bùng mang lại ánh sáng, hơi ấm và nấu nướng thức ăn. Hãy cùng nhau quây quần và sẻ chia những câu chuyện bên ánh lửa."
+  },
+  {
+    "key": "building_info_clay_brick_stove",
+    "type": 0,
+    "en": "A humble brick fireplace is the heart of the home. For warmth and cooking.",
+    "vi": "Chiếc bếp lò gạch mộc mạc là trái tim sưởi ấm toàn bộ tổ ấm, phục vụ đun nấu và xua tan băng giá."
+  },
+  {
+    "key": "building_info_compost_making_station",
+    "type": 0,
+    "en": "Recycle decaying plants and waste here to create rich compost for soil.",
+    "vi": "Thu gom tái chế cây cỏ thối rữa và chất thải hữu cơ tại đây để ủ thành nguồn phân bón màu mỡ cho đồng ruộng."
+  },
+  {
+    "key": "building_info_fermenting_station",
+    "type": 0,
+    "en": "An area for managing all fermentation, from vinegar to alcohol and cheese production.",
+    "vi": "Khu vực chuyên trách giám sát các quá trình lên men vi sinh, từ ủ giấm, lên men phô mai cho tới ủ các thùng rượu hảo hạng."
+  },
+  {
+    "key": "building_info_fletchers_table",
+    "type": 0,
+    "en": "A bench with timber, tools and cord to create bows.",
+    "vi": "Bàn thợ mộc trang bị đầy đủ gỗ tốt, công cụ và dây gân để chế tác các loại cung tên và nỏ bắn."
+  },
+  {
+    "key": "building_info_kiln",
+    "type": 0,
+    "en": "A special oven for creating ceramics, bricks and tiles from clay.",
+    "vi": "Lò nung nhiệt độ cao chuyên dụng để chế tác gốm sứ gia dụng, gạch xây và ngói lợp từ đất sét dẻo."
+  },
+  {
+    "key": "building_info_limestone_block_stove",
+    "type": 0,
+    "en": "An elegant, dressed stone hearth is fit for a noble. The epitome of form and function.",
+    "vi": "Bếp sưởi đá đẽo gọt sang trọng quý phái xứng tầm bậc quyền quý. Hiện thân hoàn hảo giữa vẻ đẹp thẩm mỹ và công năng sưởi ấm."
+  },
+  {
+    "key": "building_info_limestone_stove",
+    "type": 0,
+    "en": "A rough hewn, stone fireplace is both welcoming and functional.",
+    "vi": "Chiếc lò sưởi đẽo từ đá thô sơ mang lại bầu không khí ấm cúng và tiện lợi."
+  },
+  {
+    "key": "building_info_pyre",
+    "type": 0,
+    "en": "Commit a body to the hungry flames to reduce mortal remains to dust and ashes.",
+    "vi": "Phó thác thi hài cho ngọn lửa hỏa thiêu rực cháy để đưa thể xác trần thế trở về với cát bụi."
+  },
+  {
+    "key": "building_info_research_table",
+    "type": 0,
+    "en": "Choose alchemy, divination, or the experience of your settlers to figure out how stuff works.",
+    "vi": "Vận dụng thuật giả kim, chiêm tinh bói toán hoặc kinh nghiệm tích lũy của dân làng để nghiên cứu khám phá các tri thức công nghệ mới."
+  },
+  {
+    "key": "building_info_sewing_station",
+    "type": 0,
+    "en": "This is where needles, thread and shears can be found for sewing and mending.",
+    "vi": "Nơi tập hợp kim chỉ, kéo cắt và khung dệt phục vụ may dệt y phục và tu sửa trang phục rách rưới."
+  },
+  {
+    "key": "building_info_smelting_station",
+    "type": 0,
+    "en": "This is the place to bring metal ore and transform it into ingots.",
+    "vi": "Nơi tập kết các loại quặng kim loại thô để nung chảy và đúc thành các thỏi sắt, vàng, bạc nguyên chất."
+  },
+  {
+    "key": "building_info_smokehouse",
+    "type": 0,
+    "en": "A building to hang meat and cure it with smoke from an open fire.",
+    "vi": "Công trình chuyên dụng để treo các tảng thịt tươi và xông khói gỗ thơm để bảo quản lương thực lâu dài qua mùa đông."
+  },
+  {
+    "key": "building_info_spirit_destilary",
+    "type": 0,
+    "en": "After fermentation, the distillery performs alchemy yielding aqua vitae. A powerful, medicinal alcohol.",
+    "vi": "Sau công đoạn lên men, lò chưng cất này sẽ chiết xuất ra 'aqua vitae' — thứ rượu thuốc nồng độ cao vô cùng công hiệu."
+  },
+  {
+    "key": "building_info_stonemasons_bench",
+    "type": 0,
+    "en": "All the tools necessary to work stone are found here.",
+    "vi": "Nơi tập hợp đầy đủ búa đục, thước đo và công cụ chuyên dụng của người thợ đẽo đá."
+  },
+  {
+    "key": "building_info_woodwork_bench",
+    "type": 0,
+    "en": "All the tools necessary for carpentry are found here.",
+    "vi": "Trang bị đầy đủ mọi cưa đục và đồ nghề mộc thủ công để gia công chế tác các vật dụng bằng gỗ."
+  },
+  {
+    "key": "building_info_ice_station",
+    "type": 0,
+    "en": "A wooden box to hold water as it freezes. Generates ice for the settlement.",
+    "vi": "Hộp gỗ chuyên dụng để chứa nước chờ đóng băng trong mùa đông, tạo nguồn đá tuyết dự trữ giải nhiệt cho khu định cư."
+  },
+  {
+    "key": "building_info_skep",
+    "type": 0,
+    "en": "If the bees work hard, this woven hive will overflow with liquid gold honey, and malleable wax.",
+    "vi": "Nếu đàn ong mật làm việc chăm chỉ, tổ ong đan bằng rơm này sẽ tràn ngập dòng mật ngọt vàng óng và sáp ong quý giá."
+  },
+  {
+    "key": "building_info_easel",
+    "type": 0,
+    "en": "An artist's frame to hold paintings as they are created.",
+    "vi": "Giá vẽ chuyên dụng của người nghệ sĩ dùng để căng khung toan và sáng tác các tác phẩm hội họa bất hủ."
+  },
+  {
+    "key": "building_info_grave",
+    "type": 0,
+    "en": "An ending is marked here. Rest in peace, fellow traveller.",
+    "vi": "Đánh dấu điểm dừng chân cuối cùng của một kiếp người. Hãy yên nghỉ nghìn thu nơi suối vàng, người bạn đồng hành."
+  },
+  {
+    "key": "building_info_limestone_normal_grave",
+    "type": 0,
+    "en": "Dead, but not forgotten. A marker graven in stone is a fine tribute that will endure for generations.",
+    "vi": "Đã khuất nhưng không bao giờ bị lãng quên. Tấm bia đá khắc ghi trang trọng là lời tri ân trường tồn cùng năm tháng qua bao thế hệ."
+  },
+  {
+    "key": "building_info_limestone_sarcophagus",
+    "type": 0,
+    "en": "A stone casket is a fitting memorial for a significant person. It does not need to be buried underground.",
+    "vi": "Chiếc quách đá vôi đồ sộ là lăng mộ an nghỉ xứng đáng cho bậc vĩ nhân, có thể đặt trang trọng trên mặt đất mà không cần chôn sâu."
+  },
+  {
+    "key": "building_info_unmarked_grave",
+    "type": 0,
+    "en": "As final resting places go, a humble hole in the ground is the least we can hope for. Earth to earth, ashes to ashes.",
+    "vi": "Nơi yên nghỉ cuối cùng khiêm nhường chỉ là một nấm mồ đất đơn sơ. Bụi đất lại trở về với cát bụi, tro tàn lại hoàn tro tàn."
+  },
+  {
+    "key": "building_info_wood_normal_grave",
+    "type": 0,
+    "en": "A wooden grave marker may not last for eternity, but serves a memorial for those in mourning.",
+    "vi": "Bia mộ gỗ mộc mạc tuy không trường tồn vĩnh cửu nhưng là nơi tưởng nhớ xót xa của những người thân ở lại chịu tang."
+  },
+  {
+    "key": "building_info_wood_sarcophagus",
+    "type": 0,
+    "en": "A wooden box to keep the deceased respectfully entombed. It does not need to be buried underground.",
+    "vi": "Cỗ quan tài gỗ trang nghiêm gìn giữ thi hài người đã khuất, có thể an táng trực tiếp mà không cần chôn xuống lòng đất."
+  },
+  {
+    "key": "building_info_metal_trap",
+    "type": 0,
+    "en": "This metal floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "Bẫy sàn bằng sắt giấu chông nhọn hoắt, tự động bật chông khi quân thù vô tình dẫm lên. Cẩn thận: dân làng sơ ý cũng có thể đạp trúng bẫy nếu bất cẩn."
+  },
+  {
+    "key": "building_info_stick_trap",
+    "type": 0,
+    "en": "Sharpened stakes are laid ready to skewer unfortunate victims. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "Bẫy cọc gỗ vót nhọn sẵn sàng đâm xuyên những nạn nhân xấu số sa chân vào. Hãy cẩn trọng khi bố trí trên đường đi của dân làng."
+  },
+  {
+    "key": "building_info_wood_trap",
+    "type": 0,
+    "en": "This wooden floor contraption has concealed spikes, triggered by unsuspecting enemies. Watch where you place them: even settlers can accidentally trigger a trap if they aren't careful.",
+    "vi": "Bẫy sàn bằng gỗ ẩn giấu các mũi chông nhọn, kích hoạt khi kẻ thù không đề phòng bước qua."
+  },
+  {
+    "key": "building_info_builder_needed",
+    "type": 0,
+    "en": "Waiting for settler",
+    "vi": "Đang chờ thợ xây tới thi công"
+  },
+  {
+    "key": "dev_autoconstruct_off",
+    "type": 0,
+    "en": "Auto Construction: Off",
+    "vi": "Tự Động Xây Dựng: Tắt"
+  },
+  {
+    "key": "dev_autoconstruct_on",
+    "type": 0,
+    "en": "Auto Construction: On",
+    "vi": "Tự Động Xây Dựng: Bật"
+  },
+  {
+    "key": "dev_tooltip_autoconstruct",
+    "type": 0,
+    "en": "Toggles between instant and normal construction",
+    "vi": "Chuyển đổi giữa chế độ hoàn thành xây dựng tức thì và xây dựng bình thường"
+  },
+  {
+    "key": "dev_particle_destroy_building",
+    "type": 0,
+    "en": "Building Destruction",
+    "vi": "Hiệu Ứng Phá Hủy Công Trình"
+  },
+  {
+    "key": "dev_particle_building_hit",
+    "type": 0,
+    "en": "Building Hit",
+    "vi": "Hiệu Ứng Công Trình Bị Tấn Công"
+  },
+  {
+    "key": "dev_buildings",
+    "type": 0,
+    "en": "Buildings",
+    "vi": "Công Trình Kiến Trúc"
+  },
+  {
+    "key": "dev_spawn_materials_with_building_off",
+    "type": 0,
+    "en": "Spawn Mats with Building: Off",
+    "vi": "Tạo Sẵn Vật Liệu Cùng Bản Thiết Kế: Tắt"
+  },
+  {
+    "key": "dev_spawn_materials_with_building_on",
+    "type": 0,
+    "en": "Spawn Mats with Building: On",
+    "vi": "Tạo Sẵn Vật Liệu Cùng Bản Thiết Kế: Bật"
+  },
+  {
+    "key": "dev_tooltip_spawn_materials_with_building",
+    "type": 0,
+    "en": "If on will spawn required materials upon blueprint placement",
+    "vi": "Nếu bật, hệ thống sẽ tự động tạo đủ số vật liệu xây dựng ngay khi bạn đặt bản thiết kế"
+  },
+  {
+    "key": "dev_craftable_buildings_enabled_off",
+    "type": 0,
+    "en": "Craftable Buildings Menu: Off",
+    "vi": "Menu Công Trình Chế Tác: Tắt"
+  }
+]
