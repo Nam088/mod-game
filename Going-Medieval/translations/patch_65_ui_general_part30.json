@@ -447,7 +447,7 @@
     "key": "dev_event_group_Runaway",
     "type": 0,
     "en": "Runaway Settler",
-    "vi": "Dân làng chạy trốn"
+    "vi": "Dân làng đào tẩu"
   },
   {
     "key": "dev_event_group_Thunderstorm",
@@ -489,7 +489,7 @@
     "key": "dev_event_group_Visitor",
     "type": 0,
     "en": "Lone Traveller",
-    "vi": "Lữ khách đơn độc"
+    "vi": "Khách lữ hành đơn độc"
   },
   {
     "key": "BlankBehaviour",
@@ -513,7 +513,7 @@
     "key": "TraderBodyguardBehaviour",
     "type": 0,
     "en": "Trader Bodyguard",
-    "vi": "Thương nhân Bodyguard"
+    "vi": "Vệ sĩ thương nhân"
   },
   {
     "key": "dev_make_npc_leave",
@@ -603,13 +603,13 @@
     "key": "dev_event_new_worker_hungry",
     "type": 0,
     "en": "Hunger comes calling",
-    "vi": "Cơn đói gõ cửa"
+    "vi": "Cơn đói bủa vây (Người xin gia nhập)"
   },
   {
     "key": "dev_event_new_worker_wounded",
     "type": 0,
     "en": "A safe haven",
-    "vi": "Chốn nương thân an toàn"
+    "vi": "Chốn nương thân (Người bị thương)"
   },
   {
     "key": "dev_event_new_worker_wounded_02",
@@ -621,7 +621,7 @@
     "key": "dev_event_new_worker_sick",
     "type": 0,
     "en": "This too shall pass",
-    "vi": "Bệnh tật rồi sẽ qua"
+    "vi": "Kiếp nạn dịch bệnh (Người ốm)"
   },
   {
     "key": "dev_event_runaway_new",
@@ -699,7 +699,7 @@
     "key": "game_cow_event",
     "type": 0,
     "en": "Cattle",
-    "vi": "Gia súc"
+    "vi": "Đàn bò"
   },
   {
     "key": "game_sheep_event",
@@ -711,7 +711,7 @@
     "key": "game_sheep_domestic_event",
     "type": 0,
     "en": "Domestic Sheep",
-    "vi": "Domestic Cừu"
+    "vi": "Cừu nuôi"
   },
   {
     "key": "game_chicken_event",
@@ -729,7 +729,7 @@
     "key": "game_cow_domestic_event",
     "type": 0,
     "en": "Domestic Cow",
-    "vi": "Domestic Bò"
+    "vi": "Bò nhà"
   },
   {
     "key": "game_fox_event",
@@ -771,13 +771,13 @@
     "key": "dev_event_priest_visitor",
     "type": 0,
     "en": "Chaplain",
-    "vi": "Tuyên úy giáo sĩ"
+    "vi": "Linh mục"
   },
   {
     "key": "dev_event_shaman_visitor",
     "type": 0,
     "en": "Druid",
-    "vi": "Tu sĩ Druid"
+    "vi": "Đạo sĩ"
   },
   {
     "key": "dev_events_seasons_and_weather",
@@ -789,7 +789,7 @@
     "key": "dev_event_group_VisitorRole",
     "type": 0,
     "en": "Friendly Visit",
-    "vi": "Chuyến viếng thăm hữu hảo"
+    "vi": "Khách viếng thăm hữu hảo"
   },
   {
     "key": "dev_spawn_bard_visitor",
@@ -807,7 +807,7 @@
     "key": "dev_toggle_invurnelability_on",
     "type": 0,
     "en": "Make All Settlers Vulnerable",
-    "vi": "Cho phép dân làng nhận sát thương"
+    "vi": "Cho phép toàn bộ dân làng nhận sát thương"
   },
   {
     "key": "dev_toggle_invurnelability_off",

@@ -129,7 +129,7 @@
     "key": "carrying_adjective _2",
     "type": 0,
     "en": "bleeding",
-    "vi": "Chảy máu"
+    "vi": "chảy máu"
   },
   {
     "key": "carrying_adjective _3",
@@ -237,55 +237,55 @@
     "key": "death_human_1",
     "type": 0,
     "en": "<agent_name> departed this life, a strange smile on [his/her] lips.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> departed this life, a strange smile trên [his/her] lips.\""
+    "vi": "<agent_name> đã từ giã cõi đời, với một nụ cười kỳ lạ trên môi [his/her]."
   },
   {
     "key": "death_human_2",
     "type": 0,
     "en": "<agent_name> laid down [his/her] life.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> laid down [his/her] life.\""
+    "vi": "<agent_name> đã hy sinh tính mạng của [his/her]."
   },
   {
     "key": "death_human_3",
     "type": 0,
     "en": "<agent_name> passed from this life.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> passed từ this life.\""
+    "vi": "<agent_name> đã rời khỏi cõi đời này."
   },
   {
     "key": "death_human_4",
     "type": 0,
     "en": "This was the day <agent_name> met [his/her] demise.",
-    "vi": "Đây là ngày định mệnh <agent_name> bước vào cõi vĩnh hằng của [his/her]."
+    "vi": "Đây là ngày định mệnh mà <agent_name> trút hơi thở tàn của [his/her]."
   },
   {
     "key": "death_human_5",
     "type": 0,
     "en": "<agent_name> knew [he/she] would now meet [his/her] maker.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> knew [he/she] would now meet [his/her] maker.\""
+    "vi": "<agent_name> biết rằng giờ đây [he/she] sẽ về diện kiến Đấng Tạo Hóa của [his/her]."
   },
   {
     "key": "death_human_6",
     "type": 0,
     "en": "<agent_name> knew this was the end.",
-    "vi": "<agent_name> biết rằng hồi kết đã điểm."
+    "vi": "<agent_name> biết rằng đây chính là hồi kết."
   },
   {
     "key": "death_human_7",
     "type": 0,
     "en": "Alas, <agent_name> lives no more.",
-    "vi": "Alas, <agent_name> lives Không more."
+    "vi": "Than ôi, <agent_name> không còn trên cõi đời này nữa."
   },
   {
     "key": "death_human_8",
     "type": 0,
     "en": "<agent_name> felt [his/her] vision dim. Death awaited [him/her].",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> felt [his/her] vision dim. Death awaited [him/her].\""
+    "vi": "<agent_name> cảm thấy tầm mắt của [his/her] mờ dần. Tử thần đang chờ đón [him/her]."
   },
   {
     "key": "death_human_9",
     "type": 0,
     "en": "<agent_name> succumbed to the Reaper's scythe",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> succumbed để Reaper's scythe\""
+    "vi": "<agent_name> đã gục ngã trước lưỡi hái của Tử thần"
   },
   {
     "key": "death_human_10",
@@ -309,7 +309,7 @@
     "key": "death_human_13",
     "type": 0,
     "en": "<agent_name> fought. But the Fates had already cut [his/her] mortal thread.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> fought. But Fates had already cut [his/her] mortal thread.\""
+    "vi": "<agent_name> đã ngoan cường chiến đấu. Nhưng các Nữ thần Định Mệnh đã cắt đứt sợi chỉ sinh mệnh của [his/her]."
   },
   {
     "key": "death_human_14",
@@ -321,7 +321,7 @@
     "key": "death_human_15",
     "type": 0,
     "en": "<agent_name> surrendered to death's icy embrace.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"<agent_name> surrendered để death's icy embrace.\""
+    "vi": "<agent_name> phó mặc bản thân trong vòng tay buốt giá của Tử thần."
   },
   {
     "key": "death_human_16",
@@ -345,7 +345,7 @@
     "key": "death_human_19",
     "type": 0,
     "en": "As <agent_name> took a final breath,  the world's mysteries faded into oblivion.",
-    "vi": "Lời trăng trối cuối cùng của dân làng trước khi nhắm mắt xuôi tay: \"As <agent_name> took a final breath,  world's mysteries faded into oblivion.\""
+    "vi": "Khi <agent_name> trút hơi thở cuối cùng, những bí ẩn của trần thế dần tan biến vào cõi hư vô."
   },
   {
     "key": "lastwords_default_1",
@@ -501,7 +501,7 @@
     "key": "healing_default_2",
     "type": 0,
     "en": "cared for",
-    "vi": "cared cho"
+    "vi": "đã chăm nom"
   },
   {
     "key": "healing_default_3",
@@ -525,13 +525,13 @@
     "key": "healing_default_6",
     "type": 0,
     "en": "ministered to",
-    "vi": "ministered đến"
+    "vi": "đã tận tình cứu chữa"
   },
   {
     "key": "healing_default_7",
     "type": 0,
     "en": "assisted with",
-    "vi": "assisted với"
+    "vi": "đã trợ giúp điều trị"
   },
   {
     "key": "healing_default_8",

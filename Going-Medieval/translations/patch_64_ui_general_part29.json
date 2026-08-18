@@ -21,7 +21,7 @@
     "key": "dev_tooltip_force_exception",
     "type": 0,
     "en": "Forces an exception.",
-    "vi": "Buộc phát sinh lỗi ngoại lệ."
+    "vi": "Buộc phát sinh ngoại lệ."
   },
   {
     "key": "dev_tooltip_destroy_pile",
@@ -147,7 +147,7 @@
     "key": "dev_tooltip_set_hunger_100",
     "type": 0,
     "en": "Set's creature's hunger to Full.",
-    "vi": "Đặt mức đói của sinh vật thành No Nê."
+    "vi": "Đặt mức đói của sinh vật thành No nê."
   },
   {
     "key": "dev_tooltip_set_hunger_50",
@@ -159,13 +159,13 @@
     "key": "dev_tooltip_set_hunger_1",
     "type": 0,
     "en": "Set's creature's hunger to Starving.",
-    "vi": "Đặt mức đói của sinh vật thành Đói Lả."
+    "vi": "Đặt mức đói của sinh vật thành Đói lả."
   },
   {
     "key": "dev_tooltip_set_hunger_-100",
     "type": 0,
     "en": "Set's creature's hunger to Ravenous.",
-    "vi": "Đặt mức đói của sinh vật thành Đói Cồn Cào."
+    "vi": "Đặt mức đói của sinh vật thành Cồn cào."
   },
   {
     "key": "dev_tooltip_set_worker_stats",
@@ -207,13 +207,13 @@
     "key": "dev_tooltip_reset_workers",
     "type": 0,
     "en": "Resets the state of all Settlers (DOES NOTHING)",
-    "vi": "Đặt lại trạng thái của tất cả dân làng"
+    "vi": "Đặt lại trạng thái của tất cả dân làng (Không có tác dụng)"
   },
   {
     "key": "dev_tooltip_hunt_workers",
     "type": 0,
     "en": "DOES NOTHING",
-    "vi": "Chế độ săn dân làng"
+    "vi": "Không có tác dụng"
   },
   {
     "key": "dev_tooltip_spawn_enemy",
@@ -285,7 +285,7 @@
     "key": "dev_tooltip_damage_voxel",
     "type": 0,
     "en": "Damage voxels around cursor in a range on mouse click.",
-    "vi": "Gây sát thương lên các khối voxel xung quanh con trỏ chuột."
+    "vi": "Gây sát thương lên các khối voxel xung quanh con trỏ chuột trong phạm vi."
   },
   {
     "key": "dev_tooltip_weather_view",
@@ -333,7 +333,7 @@
     "key": "dev_tooltip_thunder",
     "type": 0,
     "en": "Click to spawn a thunderstrike (from Thunderstorm).",
-    "vi": "Nhấp để tạo một tia sét đánh (từ bão giông)."
+    "vi": "Nhấp để tạo một tia sét đánh (từ dông bão)."
   },
   {
     "key": "dev_tooltip_toggle_regions",
@@ -417,37 +417,37 @@
     "key": "dev_tooltip_mark_for_roping",
     "type": 0,
     "en": "Marks clicked animal for roping.",
-    "vi": "Đánh dấu con thú được nhấp chọn để buộc dây kéo dắt."
+    "vi": "Đánh dấu động vật được nhấp chọn để buộc dây dắt."
   },
   {
     "key": "dev_tooltip_set_domestic",
     "type": 0,
     "en": "Set animal as domestic on mouse click.",
-    "vi": "Đặt con thú thành động vật nuôi tại vị trí nhấp chuột."
+    "vi": "Đặt động vật thành vật nuôi tại vị trí nhấp chuột."
   },
   {
     "key": "dev_tooltip_set_pet",
     "type": 0,
     "en": "Set animal as a pet on mouse click.",
-    "vi": "Đặt con thú thành thú cưng tại vị trí nhấp chuột."
+    "vi": "Đặt động vật thành thú cưng tại vị trí nhấp chuột."
   },
   {
     "key": "dev_tooltip_set_wild",
     "type": 0,
     "en": "Set animal as wild on mouse click.",
-    "vi": "Đặt con thú thành động vật hoang dã tại vị trí nhấp chuột."
+    "vi": "Đặt động vật thành hoang dã tại vị trí nhấp chuột."
   },
   {
     "key": "dev_tooltip_set_wild_aggro",
     "type": 0,
     "en": "Set animal as aggressive and wild on mouse click.",
-    "vi": "Đặt con thú thành động vật hung dữ hoang dã tại vị trí nhấp chuột."
+    "vi": "Đặt động vật thành hoang dã hung dữ tại vị trí nhấp chuột."
   },
   {
     "key": "dev_tooltip_reset_taming_and_training",
     "type": 0,
     "en": "Resets Taming and Training timers for animal on mouse click.",
-    "vi": "Đặt lại bộ đếm thời gian thuần hóa và huấn luyện con thú tại vị trí nhấp chuột."
+    "vi": "Đặt lại bộ đếm thời gian thuần hóa và huấn luyện động vật tại vị trí nhấp chuột."
   },
   {
     "key": "dev_tooltip_toggle_structure_preset_panel",
@@ -507,25 +507,25 @@
     "key": "Set Spring",
     "type": 0,
     "en": "Set Spring",
-    "vi": "Đặt Mùa Xuân"
+    "vi": "Đặt mùa Xuân"
   },
   {
     "key": "Set Summer",
     "type": 0,
     "en": "Set Summer",
-    "vi": "Đặt Mùa Hè"
+    "vi": "Đặt mùa Hè"
   },
   {
     "key": "Set Autumn",
     "type": 0,
     "en": "Set Autumn",
-    "vi": "Đặt Mùa Thu"
+    "vi": "Đặt mùa Thu"
   },
   {
     "key": "Set Winter",
     "type": 0,
     "en": "Set Winter",
-    "vi": "Đặt Mùa Đông"
+    "vi": "Đặt mùa Đông"
   },
   {
     "key": "dev_tooltip_set_season",
@@ -543,25 +543,25 @@
     "key": "Set Noon",
     "type": 0,
     "en": "Set Noon",
-    "vi": "Đặt Buổi trưa"
+    "vi": "Đặt buổi trưa"
   },
   {
     "key": "Set Dawn",
     "type": 0,
     "en": "Set Dusk",
-    "vi": "Đặt bình minh"
+    "vi": "Đặt hoàng hôn"
   },
   {
     "key": "Set Midnight",
     "type": 0,
     "en": "Set Midnight",
-    "vi": "Đặt Nửa đêm"
+    "vi": "Đặt nửa đêm"
   },
   {
     "key": "Set Dusk",
     "type": 0,
     "en": "Set Dawn",
-    "vi": "Đặt hoàng hôn"
+    "vi": "Đặt bình minh"
   },
   {
     "key": "dev_tooltip_set_time_of_day",
@@ -675,7 +675,7 @@
     "key": "dev_tooltip_friendliness_minus",
     "type": 0,
     "en": "Removes 10 Alignment to selected Faction.",
-    "vi": "Trừ 10 điểm thân thiện cho phe phái đã chọn."
+    "vi": "Trừ 10 điểm thân thiện của phe phái đã chọn."
   },
   {
     "key": "dev_tooltip_particle",

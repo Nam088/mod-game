@@ -3,25 +3,25 @@
     "key": "tut_rotate_camera",
     "type": 0,
     "en": "[<sprite=\"ctrl_middle_click\" index=t>] and move mouse to tilt and rotate",
-    "vi": "[<sprite=\"ctrl_middle_click\" index=t>] và di chuyển chuột để xoay và nghiêng góc nhìn camera."
+    "vi": "[<sprite=\"ctrl_middle_click\" index=t>] và di chuột để nghiêng và xoay camera"
   },
   {
     "key": "tut_zoom_camera",
     "type": 0,
     "en": "[<style=Shortcut>Mouse wheel</style>] to zoom in and out",
-    "vi": "[<style=Shortcut>Cuộn chuột</style>] để phóng to hoặc thu nhỏ tầm nhìn."
+    "vi": "[<style=Shortcut>Cuộn chuột</style>] để phóng to và thu nhỏ"
   },
   {
     "key": "tut_time_controls_title",
     "type": 0,
     "en": "Time Controls",
-    "vi": "Điều Khiển Tốc Độ Thời Gian"
+    "vi": "Điều khiển thời gian"
   },
   {
     "key": "tut_time_controls_info",
     "type": 0,
     "en": "Pause, resume, and speed up the game",
-    "vi": "Tạm dừng, tiếp tục và thay đổi tốc độ dòng thời gian."
+    "vi": "Tạm dừng, tiếp tục và tăng tốc trò chơi"
   },
   {
     "key": "tut_normal_speed",
@@ -39,115 +39,115 @@
     "key": "tut_fastest_speed",
     "type": 0,
     "en": "Fastest speed [<style=Shortcut><input:GameSpeedFaster></style>]",
-    "vi": "Tốc độ cực nhanh [<style=Shortcut><input:GameSpeedFaster></style>]"
+    "vi": "Tốc độ nhanh nhất [<style=Shortcut><input:GameSpeedFaster></style>]"
   },
   {
     "key": "tut_pause_game",
     "type": 0,
     "en": "Pause [<style=Shortcut><input:GamePause></style>]",
-    "vi": "Tạm dừng trò chơi [<style=Shortcut><input:GamePause></style>]"
+    "vi": "Tạm dừng [<style=Shortcut><input:GamePause></style>]"
   },
   {
     "key": "tut_stockpile_title",
     "type": 0,
     "en": "Storing Resources",
-    "vi": "Lưu Trữ Tài Nguyên"
+    "vi": "Lưu trữ tài nguyên"
   },
   {
     "key": "tut_stockpile_info",
     "type": 0,
     "en": "Build a Default Stockpile to store resources",
-    "vi": "Quy hoạch một Bãi Chứa Mặc Định để dân làng cất giữ tài nguyên."
+    "vi": "Tạo một Bãi chứa Mặc định để cất giữ tài nguyên"
   },
   {
     "key": "tut_open_build_zone",
     "type": 0,
     "en": "Open the Zone panel",
-    "vi": "Mở bảng danh mục Khu Vực (Zone)"
+    "vi": "Mở bảng Khu vực"
   },
   {
     "key": "tut_select_stockpile",
     "type": 0,
     "en": "Select the Default Stockpile",
-    "vi": "Chọn mục Bãi Chứa Mặc Định"
+    "vi": "Chọn Bãi chứa Mặc định"
   },
   {
     "key": "tut_allow_name",
     "type": 0,
     "en": "Allowing Resources",
-    "vi": "Cho Phép Thu Gom Tài Nguyên"
+    "vi": "Cho phép tài nguyên"
   },
   {
     "key": "tut_allow_info",
     "type": 0,
     "en": "Your Settlers will only move allowed resources",
-    "vi": "Dân làng chỉ thu gom và khuân vác các đống tài nguyên được bạn cho phép."
+    "vi": "Dân làng chỉ vận chuyển các tài nguyên được cho phép"
   },
   {
     "key": "tut_select_allow",
     "type": 0,
     "en": "Select Allow from the Orders menu",
-    "vi": "Chọn lệnh Cho Phép từ menu Mệnh Lệnh"
+    "vi": "Chọn lệnh Cho phép từ menu Mệnh lệnh"
   },
   {
     "key": "tut_drag_allow",
     "type": 0,
     "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag across the resources marked with an <sprite=\"forbid_text_icon\" index=t>",
-    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] rồi kéo qua các đống tài nguyên đang bị cấm <sprite=\"forbid_text_icon\" index=t>"
+    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo qua các tài nguyên có đánh dấu <sprite=\"forbid_text_icon\" index=t>"
   },
   {
     "key": "tut_wait_for_haul",
     "type": 0,
     "en": "Wait for your Settlers to haul items to the Stockpile",
-    "vi": "Chờ dân làng để vận chuyển items để Bãi chứa"
+    "vi": "Chờ dân làng vận chuyển vật phẩm vào bãi chứa"
   },
   {
     "key": "tut_walls_name",
     "type": 0,
     "en": "Build Walls",
-    "vi": "Xây dựng tườngs"
+    "vi": "Xây tường"
   },
   {
     "key": "tut_walls_info",
     "type": 0,
     "en": "Place building blueprints. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>You can place walls individually, or click + drag to place multiple </style>",
-    "vi": "Đặt bản thiết kế công trình.\\n<sprite=\"tutorial_icon\" index=t><style=Desc>Bạn có thể đặt từng bức tường riêng lẻ hoặc nhấp + kéo để đặt hàng loạt.</style>"
+    "vi": "Đặt bản thiết kế công trình. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Bạn có thể đặt từng bức tường riêng lẻ, hoặc nhấp + kéo để đặt nhiều bức tường</style>"
   },
   {
     "key": "tut_open_build_base",
     "type": 0,
     "en": "Open the Base panel",
-    "vi": "Mở Base panel"
+    "vi": "Mở bảng Cơ bản"
   },
   {
     "key": "tut_select_build_wall",
     "type": 0,
     "en": "Select the Wooden Wall",
-    "vi": "Chọn Wooden tường"
+    "vi": "Chọn Tường gỗ"
   },
   {
     "key": "tut_drag_place_walls",
     "type": 0,
     "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place walls on the marked area",
-    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và drag đến place tường trên khu vực được đánh dấu"
+    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo để đặt tường lên khu vực được đánh dấu"
   },
   {
     "key": "tut_door_name",
     "type": 0,
     "en": "Build Door",
-    "vi": "Xây dựng Door"
+    "vi": "Xây cửa"
   },
   {
     "key": "tut_door_info",
     "type": 0,
     "en": "You can replace Wall blueprints with Doors and Windows.",
-    "vi": "Bạn có thể thay bản thiết kế tường bằng cửa ra vào và cửa sổ."
+    "vi": "Bạn có thể thay thế bản thiết kế Tường bằng Cửa đi và Cửa sổ."
   },
   {
     "key": "tut_select_build_door",
     "type": 0,
     "en": "Select the Wooden Door",
-    "vi": "Chọn Wooden Door"
+    "vi": "Chọn Cửa gỗ"
   },
   {
     "key": "tut_place_door",
@@ -159,31 +159,31 @@
     "key": "tut_wait_to_build",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_floor_name",
     "type": 0,
     "en": "Build Floors",
-    "vi": "Xây dựng Floors"
+    "vi": "Xây sàn"
   },
   {
     "key": "tut_floor_info",
     "type": 0,
     "en": "Place floor blueprints",
-    "vi": "Đặt bản vẽ thi công sàn nhà"
+    "vi": "Đặt bản thiết kế sàn nhà"
   },
   {
     "key": "tut_floor_build_base",
     "type": 0,
     "en": "Open the Base panel",
-    "vi": "Mở Base panel"
+    "vi": "Mở bảng Cơ bản"
   },
   {
     "key": "tut_select_build_floor",
     "type": 0,
     "en": "Select the Wooden Floor",
-    "vi": "Chọn Wooden Floor"
+    "vi": "Chọn Sàn gỗ"
   },
   {
     "key": "tut_drag_place_floors",
@@ -195,79 +195,79 @@
     "key": "tut_wait_to_build_floors",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_roof_name",
     "type": 0,
     "en": "Build Roofs",
-    "vi": "Xây dựng Roofs"
+    "vi": "Xây mái nhà"
   },
   {
     "key": "tut_roof_info",
     "type": 0,
     "en": "Roofs need at least two points on which to rest. Place them on Walls to complete building the house.",
-    "vi": "Mái nhà cần ít nhất hai điểm tựa để nâng đỡ. Hãy đặt mái lên các bức tường để hoàn thiện ngôi nhà."
+    "vi": "Mái nhà cần ít nhất hai điểm tựa. Hãy đặt mái lên các bức tường để hoàn thiện ngôi nhà."
   },
   {
     "key": "tut_roof_build_base",
     "type": 0,
     "en": "Open the Base panel",
-    "vi": "Mở Base panel"
+    "vi": "Mở bảng Cơ bản"
   },
   {
     "key": "tut_select_build_roof",
     "type": 0,
     "en": "Select the Thatched Roof",
-    "vi": "Chọn Thatched Roof"
+    "vi": "Chọn Mái tranh"
   },
   {
     "key": "tut_drag_place_roofs",
     "type": 0,
     "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to place roofs on the marked area",
-    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và drag đến place mái nhà trên khu vực được đánh dấu"
+    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo để đặt mái nhà lên khu vực được đánh dấu"
   },
   {
     "key": "tut_wait_to_build_roofs",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_beds_name",
     "type": 0,
     "en": "Build Furniture",
-    "vi": "Xây dựng Furniture"
+    "vi": "Xây nội thất"
   },
   {
     "key": "tut_beds_info",
     "type": 0,
     "en": "Hide Roofs to see inside buildings. Place Hay Sleeping Spots.",
-    "vi": "Ẩn Roofs để see inside buildings. Đặt Hay Sleeping Spots."
+    "vi": "Ẩn mái nhà để quan sát bên trong công trình. Đặt Chỗ ngủ lót cỏ khô."
   },
   {
     "key": "tut_hide_roofs",
     "type": 0,
     "en": "Click highlighted toggle to Hide Roofs.",
-    "vi": "Nhấp highlighted toggle để Ẩn Roofs."
+    "vi": "Nhấp vào nút chuyển đổi được tô sáng để ẩn mái nhà."
   },
   {
     "key": "tut_select_build_bed",
     "type": 0,
     "en": "Select the Hay Sleeping Spot",
-    "vi": "Chọn Hay Sleeping Spot"
+    "vi": "Chọn Chỗ ngủ lót cỏ khô"
   },
   {
     "key": "tut_place_beds",
     "type": 0,
     "en": "Place {0} Sleeping Spots inside marked area",
-    "vi": "Đặt {0} Đang ngủ Spots inside marked area"
+    "vi": "Đặt {0} Chỗ ngủ trong khu vực được đánh dấu"
   },
   {
     "key": "tut_wait_to_build_beds",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_forage_name",
@@ -279,25 +279,25 @@
     "key": "tut_forage_info",
     "type": 0,
     "en": "Collect some food by harvesting nearby Redcurrant Bushes.",
-    "vi": "Thu hoạch thức ăn từ các bụi Redcurrant gần đó."
+    "vi": "Thu thập thức ăn bằng cách thu hoạch các bụi lý chua đỏ gần đó."
   },
   {
     "key": "tut_select_harvest",
     "type": 0,
     "en": "Select Harvest from Orders menu [<style=Shortcut><input:Harvesting></style>]",
-    "vi": "Chọn Harvest từ Orders menu [<style=Shortcut><input:Harvesting></style>]"
+    "vi": "Chọn Thu hoạch từ menu Mệnh lệnh [<style=Shortcut><input:Harvesting></style>]"
   },
   {
     "key": "tut_drag_select_redcurrant",
     "type": 0,
     "en": "Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select {0} Redcurrant Bushes",
-    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo để chọn {0} Bụi lý chua đỏ"
+    "vi": "Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo để chọn {0} bụi lý chua đỏ"
   },
   {
     "key": "tut_stockpile_redcurrant",
     "type": 0,
     "en": "Stockpile at least {0} Redcurrants",
-    "vi": "Bãi chứa at least {0} Redcurrants"
+    "vi": "Thu gom ít nhất {0} quả lý chua đỏ vào bãi chứa"
   },
   {
     "key": "tut_campfire_name",
@@ -309,7 +309,7 @@
     "key": "tut_campfire_info",
     "type": 0,
     "en": "Settlers can produce goods at Production buildings. For example, a Campfire is used for cooking meals.",
-    "vi": "Dân làng có thể sản xuất hàng hóa tại các công trình sản xuất. Ví dụ, Lửa trại dùng để nấu các bữa ăn."
+    "vi": "Dân làng có thể sản xuất hàng hóa tại các công trình sản xuất. Ví dụ: Lửa trại dùng để nấu các bữa ăn."
   },
   {
     "key": "tut_open_build_production",
@@ -327,13 +327,13 @@
     "key": "tut_place_campfire",
     "type": 0,
     "en": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a Campfire blueprint",
-    "vi": "[<sprite=\"ctrl_left_click\" index=t>] trên vị trí được đánh dấu để đặt bản thiết kế Lửa trại"
+    "vi": "[<sprite=\"ctrl_left_click\" index=t>] vào vị trí được đánh dấu để đặt bản thiết kế Lửa trại"
   },
   {
     "key": "tut_wait_to_build_campfire",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_production_name",
@@ -345,31 +345,31 @@
     "key": "tut_production_info",
     "type": 0,
     "en": "Cook meals at the Campfire.",
-    "vi": "Nấu ăn tại Lửa trại."
+    "vi": "Nấu các bữa ăn tại Lửa trại."
   },
   {
     "key": "tut_production_select_campfire",
     "type": 0,
     "en": "Click on the Campfire to select it and open the Products panel",
-    "vi": "Nhấp vào Lửa trại để chọn it và open bảng Sản phẩm"
+    "vi": "Nhấp vào Lửa trại để chọn và mở bảng Sản phẩm"
   },
   {
     "key": "tut_production_select_meal",
     "type": 0,
     "en": "Select Simple Meal",
-    "vi": "Chọn Simple Meal"
+    "vi": "Chọn Bữa ăn đạm bạc"
   },
   {
     "key": "tut_production_set_amount",
     "type": 0,
     "en": "Set amount to {0}",
-    "vi": "Đặt số lượng đến {0}"
+    "vi": "Đặt số lượng thành {0}"
   },
   {
     "key": "tut_wait_to_produce_meals",
     "type": 0,
     "en": "Wait for your Settlers to complete production",
-    "vi": "Chờ dân làng để hoàn tất sản xuất"
+    "vi": "Chờ dân làng hoàn tất sản xuất"
   },
   {
     "key": "tut_research_table_name",
@@ -381,7 +381,7 @@
     "key": "tut_research_table_info",
     "type": 0,
     "en": "Build a Basic Research Table",
-    "vi": "Xây dựng Bàn Nghiên cứu Cơ bản"
+    "vi": "Xây dựng Bàn nghiên cứu cơ bản"
   },
   {
     "key": "tut_open_production_panel",
@@ -393,145 +393,145 @@
     "key": "tut_select_research_table",
     "type": 0,
     "en": "Select the Basic Research Table",
-    "vi": "Chọn Basic bàn Nghiên cứu"
+    "vi": "Chọn Bàn nghiên cứu cơ bản"
   },
   {
     "key": "tut_place_research_table",
     "type": 0,
     "en": "Place the Research Table inside the marked area",
-    "vi": "Đặt bàn nghiên cứu trong khu vực được đánh dấu"
+    "vi": "Đặt Bàn nghiên cứu vào bên trong khu vực được đánh dấu"
   },
   {
     "key": "tut_wait_to_build_table",
     "type": 0,
     "en": "Wait for your Settlers to finish building",
-    "vi": "Chờ dân làng để xây xong"
+    "vi": "Chờ dân làng xây dựng xong"
   },
   {
     "key": "tut_jobs_name",
     "type": 0,
     "en": "Settler Job Priorities",
-    "vi": "Phân công công việc"
+    "vi": "Độ ưu tiên công việc của dân làng"
   },
   {
     "key": "tut_jobs_info",
     "type": 0,
     "en": "Each Settler has their own Job Priority list. This affects the actions they'll take and the order they'll choose to undertake them. 5 is the lowest Priority, 1 is the highest.",
-    "vi": "Sắp xếp thứ tự ưu tiên các công việc để dân làng vận hành khu định cư hiệu quả."
+    "vi": "Mỗi dân làng có danh sách ưu tiên công việc riêng. Danh sách này quyết định hành động họ sẽ làm và thứ tự thực hiện. 5 là mức ưu tiên thấp nhất, 1 là mức cao nhất."
   },
   {
     "key": "tut_open_jobs",
     "type": 0,
     "en": "Click on the highlighted Jobs button",
-    "vi": "Nhấp vào highlighted Jobs button"
+    "vi": "Nhấp vào nút Công việc được tô sáng"
   },
   {
     "key": "tut_set_research_job_priority_1",
     "type": 0,
     "en": "Set the Research priority for {0} to 2 (high)",
-    "vi": "Đặt Nghiên cứu priority cho {0} để 2 (high)"
+    "vi": "Đặt mức ưu tiên Nghiên cứu của {0} thành 2 (cao)"
   },
   {
     "key": "tut_set_research_job_priority_2",
     "type": 0,
     "en": "Set the Research priority for {0} to empty (Settlers won't perform this task)",
-    "vi": "Đặt ưu tiên Nghiên cứu cho {0} thành trống (dân làng sẽ không thực hiện việc này)"
+    "vi": "Đặt mức ưu tiên Nghiên cứu của {0} thành trống (dân làng sẽ không làm công việc này)"
   },
   {
     "key": "tut_produce_books_name",
     "type": 0,
     "en": "Research II: Producing Tomes",
-    "vi": "Nghiên cứu II: Producing Tomes"
+    "vi": "Nghiên cứu II: Biên soạn sách"
   },
   {
     "key": "tut_produce_books_info",
     "type": 0,
     "en": "Settlers can produce Chronicles at the Research Table. Chronicles are used to unlock advanced knowledge and technology.",
-    "vi": "Dân làng có thể sản xuất Biên niên sử tại Bàn Nghiên cứu. Biên niên sử dùng để mở khóa kiến thức và công nghệ nâng cao."
+    "vi": "Dân làng có thể viết Biên niên sử tại Bàn nghiên cứu. Biên niên sử được dùng để mở khóa tri thức và công nghệ nâng cao."
   },
   {
     "key": "tut_select_books",
     "type": 0,
     "en": "Select Chronicle",
-    "vi": "Chọn Chronicle"
+    "vi": "Chọn Biên niên sử"
   },
   {
     "key": "tut_produce_forever",
     "type": 0,
     "en": "Change the production mode to Forever",
-    "vi": "Chuyển chế độ sản xuất sang Vô Tận (Forever)"
+    "vi": "Đổi chế độ sản xuất thành Vô tận"
   },
   {
     "key": "tut_wait_to_produce_books",
     "type": 0,
     "en": "Wait for Settlers to produce {0} Chronicles",
-    "vi": "Chờ dân làng để sản xuất {0} Chronicles"
+    "vi": "Chờ dân làng biên soạn {0} Biên niên sử"
   },
   {
     "key": "tut_research_name",
     "type": 0,
     "en": "Research III: Unlocking Research",
-    "vi": "Nghiên cứu III: Unlocking Nghiên cứu"
+    "vi": "Nghiên cứu III: Mở khóa nghiên cứu"
   },
   {
     "key": "tut_research_info",
     "type": 0,
     "en": "Unlock new blueprints, technology, and products in the Research panel.",
-    "vi": "Mở khóa new blueprints, technology, và products trong Nghiên cứu panel."
+    "vi": "Mở khóa các bản thiết kế, công nghệ và sản phẩm mới trong bảng Nghiên cứu."
   },
   {
     "key": "tut_open_research",
     "type": 0,
     "en": "Click on the highlighted Research button",
-    "vi": "Nhấp vào highlighted Research button"
+    "vi": "Nhấp vào nút Nghiên cứu được tô sáng"
   },
   {
     "key": "tut_select_architecture",
     "type": 0,
     "en": "Select Architecture",
-    "vi": "Chọn Architecture"
+    "vi": "Chọn Kiến trúc"
   },
   {
     "key": "tut_research_unlock",
     "type": 0,
     "en": "Unlock Architecture to obtain the blueprint for Wooden Beams",
-    "vi": "Mở khóa Architecture đến obtain blueprint cho Wooden Xà nhà"
+    "vi": "Mở khóa Kiến trúc để nhận bản thiết kế Xà dầm gỗ"
   },
   {
     "key": "tut_protect_stockpile_name",
     "type": 0,
     "en": "Protecting Resources",
-    "vi": "Protecting tài nguyên"
+    "vi": "Bảo vệ tài nguyên"
   },
   {
     "key": "tut_protect_stockpile_info",
     "type": 0,
     "en": "Resources will deteriorate faster when exposed to the elements.",
-    "vi": "Tài nguyên sẽ hư hỏng nhanh hơn khi phơi ngoài trời."
+    "vi": "Tài nguyên sẽ hao mòn nhanh hơn khi tiếp xúc với mưa nắng ngoài trời."
   },
   {
     "key": "tut_build_floors",
     "type": 0,
     "en": "Build {0} Wooden Floors. Resources left on the ground deteriorate faster",
-    "vi": "Xây {0} Wooden Floors. tài nguyên left trên ground deteriorate faster"
+    "vi": "Xây {0} Sàn gỗ. Tài nguyên để trực tiếp trên đất sẽ phân hủy nhanh hơn"
   },
   {
     "key": "tut_build_walls",
     "type": 0,
     "en": "Build {0} Wooden Walls",
-    "vi": "Xây dựng {0} Wooden tườngs"
+    "vi": "Xây {0} Tường gỗ"
   },
   {
     "key": "tut_build_beams",
     "type": 0,
     "en": "Attach {0} Wooden Beams to the walls to support a Roof",
-    "vi": "Gắn {0} Xà nhà Gỗ vào tường để đỡ Mái nhà"
+    "vi": "Gắn {0} Xà dầm gỗ vào tường để nâng đỡ Mái nhà"
   },
   {
     "key": "tut_build_roofs",
     "type": 0,
     "en": "Build Thatched Roofs to provide cover for your resources",
-    "vi": "Xây dựng Mái tranh để che chở tài nguyên của bạn"
+    "vi": "Xây Mái tranh để che chắn cho tài nguyên của bạn"
   },
   {
     "key": "tut_layers_name",
@@ -543,19 +543,19 @@
     "key": "tut_layers_info",
     "type": 0,
     "en": "Each map has up to 16 vertical layers. Move your view to lower layers to see underground.",
-    "vi": "Mỗi bản đồ có tối đa 16 tầng độ cao thẳng đứng. Chuyển tầm nhìn xuống các tầng thấp hơn để quan sát lòng đất."
+    "vi": "Mỗi bản đồ có tới 16 tầng độ cao thẳng đứng. Di chuyển tầm nhìn xuống các tầng thấp hơn để quan sát lòng đất."
   },
   {
     "key": "tut_change_layer_down",
     "type": 0,
     "en": "Click on the highlighted button or [<style=Shortcut><input:LayerDown></style>] to show Layer {0}",
-    "vi": "Nhấp vào nút được tô sáng hoặc [<style=Shortcut><input:LayerDown></style>] để hiển thị tầng {0}"
+    "vi": "Nhấp vào nút được tô sáng hoặc [<style=Shortcut><input:LayerDown></style>] để hiển thị Tầng {0}"
   },
   {
     "key": "tut_change_layer_up",
     "type": 0,
     "en": "Click on the highlighted button or [<style=Shortcut><input:LayerUp></style>] to show Layer {0} and go back to the surface",
-    "vi": "Nhấp vào nút được tô sáng hoặc [<style=Shortcut><input:LayerUp></style>] để hiển thị tầng {0} và quay lại mặt đất"
+    "vi": "Nhấp vào nút được tô sáng hoặc [<style=Shortcut><input:LayerUp></style>] để hiển thị Tầng {0} và quay lại mặt đất"
   },
   {
     "key": "tut_digging_name",
@@ -567,25 +567,25 @@
     "key": "tut_digging_info",
     "type": 0,
     "en": "Dig terrain to access underground areas or to mine resources.",
-    "vi": "Đào địa hình để tiếp cận các khu vực dưới lòng đất hoặc khai thác tài nguyên."
+    "vi": "Đào địa hình để tiếp cận khu vực dưới lòng đất hoặc khai thác tài nguyên."
   },
   {
     "key": "tut_select_digging",
     "type": 0,
     "en": "Select Mine from the Orders menu",
-    "vi": "Chọn Mine từ Orders menu"
+    "vi": "Chọn Khai mỏ từ menu Mệnh lệnh"
   },
   {
     "key": "tut_place_dig_marker",
     "type": 0,
     "en": "[<sprite=\"ctrl_left_click\" index=t>] on the marked spot to place a dig marker",
-    "vi": "[<sprite=\"ctrl_left_click\" index=t>] trên vị trí được đánh dấu để đặt điểm Đào đất"
+    "vi": "[<sprite=\"ctrl_left_click\" index=t>] vào vị trí được đánh dấu để đặt điểm đào"
   },
   {
     "key": "tut_wait_for_dig",
     "type": 0,
     "en": "Wait for a Settler to dig the hole",
-    "vi": "Chờ Dân làng đào hố"
+    "vi": "Chờ dân làng đào hố"
   },
   {
     "key": "tut_ladders_name",
@@ -597,7 +597,7 @@
     "key": "tut_ladders_info",
     "type": 0,
     "en": "Build ladders to allow Settlers to move between different layers",
-    "vi": "Build ladders để allow dân làng để move between different layers"
+    "vi": "Xây thang leo để dân làng có thể di chuyển giữa các tầng độ cao khác nhau"
   },
   {
     "key": "tut_build_wooden_ladders",
@@ -609,7 +609,7 @@
     "key": "tut_wait_for_haul_stash",
     "type": 0,
     "en": "Wait for Settlers to haul the weapons you discovered to the Stockpile",
-    "vi": "Chờ dân làng vận chuyển số vũ khí bạn vừa tìm thấy về bãi chứa."
+    "vi": "Chờ dân làng vận chuyển số vũ khí vừa phát hiện về bãi chứa"
   },
   {
     "key": "tut_equip_name",
@@ -621,169 +621,169 @@
     "key": "tut_equip_info",
     "type": 0,
     "en": "Equip Settlers with weapons so they can fight and defend themselves",
-    "vi": "Trang bị vũ khí cho dân làng để họ có thể tự vệ và săn bắn thú rừng."
+    "vi": "Trang bị vũ khí cho dân làng để họ có thể chiến đấu và tự vệ"
   },
   {
     "key": "tut_select_settler",
     "type": 0,
     "en": "Click on a Settler directly or on their icon to select them",
-    "vi": "Nhấp trực tiếp vào Dân làng hoặc biểu tượng của họ để chọn"
+    "vi": "Nhấp trực tiếp vào dân làng hoặc biểu tượng của họ để chọn"
   },
   {
     "key": "tut_right_click_order",
     "type": 0,
     "en": "When selected, Settlers can take direct orders. [<sprite=\"ctrl_right_click\" index=t>] on a Weapon and select Equip",
-    "vi": "Khi được chọn, dân làng có thể nhận lệnh trực tiếp. Nhấp [<sprite=\"ctrl_right_click\" index=t>] vào một món Vũ khí rồi chọn Trang bị"
+    "vi": "Khi được chọn, dân làng có thể nhận lệnh trực tiếp. [<sprite=\"ctrl_right_click\" index=t>] vào một món vũ khí rồi chọn Trang bị"
   },
   {
     "key": "tut_equip_all_settlers",
     "type": 0,
     "en": "Equip each Settler with a weapon",
-    "vi": "Trang bị vũ khí cho từng dân làng trong đội hình"
+    "vi": "Trang bị vũ khí cho từng dân làng"
   },
   {
     "key": "tut_defense_name",
     "type": 0,
     "en": "Defensive Buildings",
-    "vi": "Công Trình Phòng Thủ Kiên Cố"
+    "vi": "Công trình phòng thủ"
   },
   {
     "key": "tut_defense_info",
     "type": 0,
     "en": "Build Merlons on the nearby hill to protect Settlers from incoming arrows.",
-    "vi": "Xây dựng các răng thành gỗ trên sườn đồi lân cận để che chắn cung tên bắn tỉa của quân thù."
+    "vi": "Xây tường răng cưa trên sườn đồi gần đó để bảo vệ dân làng khỏi tên bắn tới."
   },
   {
     "key": "tut_build_merlons",
     "type": 0,
     "en": "Build {0} Wooden Merlons. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use [<style=Shortcut><input:RotateLeft></style>] and [<style=Shortcut><input:RotateRight></style>] to rotate blueprints before placing them</style>",
-    "vi": "Xây dựng {0} Răng Thành Bằng Gỗ. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Dùng phím [<style=Shortcut><input:RotateLeft></style>] và [<style=Shortcut><input:RotateRight></style>] để xoay hướng bản thiết kế trước khi đặt vị trí</style>"
+    "vi": "Xây {0} Tường răng cưa gỗ. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Dùng [<style=Shortcut><input:RotateLeft></style>] và [<style=Shortcut><input:RotateRight></style>] để xoay bản thiết kế trước khi đặt</style>"
   },
   {
     "key": "tut_drafting_name",
     "type": 0,
     "en": "Drafting Settlers",
-    "vi": "Huy Động Dân Làng Nhập Ngũ (Draft)"
+    "vi": "Huy động dân làng"
   },
   {
     "key": "tut_drafting_info",
     "type": 0,
     "en": "Draft Settlers to control them directly and position them for combat.",
-    "vi": "Huy động dân làng (Draft) để trực tiếp điều động và bố trí đội hình chiến đấu tác chiến."
+    "vi": "Huy động dân làng để điều khiển họ trực tiếp và bố trí vị trí chiến đấu."
   },
   {
     "key": "tut_drafting_select",
     "type": 0,
     "en": "Select and Draft all Settlers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Hold [<sprite=\"ctrl_left_click\" index=t>] and drag to select multiple Settlers</style>",
-    "vi": "Chọn và Huy động toàn bộ dân làng. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Giữ chuột trái [<sprite=\"ctrl_left_click\" index=t>] và kéo quét để chọn cùng lúc nhiều dân làng</style>"
+    "vi": "Chọn và Huy động toàn bộ dân làng. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Giữ [<sprite=\"ctrl_left_click\" index=t>] và kéo chuột để chọn nhiều dân làng cùng lúc</style>"
   },
   {
     "key": "tut_drafting_move_archers",
     "type": 0,
     "en": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move archers. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Placing ranged units on higher ground boosts their range and precision</style>\n",
-    "vi": "[<sprite=\"ctrl_right_click\" index=t>] vào vùng được đánh dấu để điều cung thủ di chuyển đến. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Bố trí xạ thủ trên địa hình cao sẽ gia tăng tầm bắn xa và độ chính xác</style>\n"
+    "vi": "[<sprite=\"ctrl_right_click\" index=t>] vào khu vực được đánh dấu để di chuyển cung thủ. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Bố trí đơn vị tầm xa trên địa hình cao sẽ tăng tầm bắn và độ chính xác</style>\n"
   },
   {
     "key": "tut_drafting_move_spearman",
     "type": 0,
     "en": "[<sprite=\"ctrl_right_click\" index=t>] in the marked area to move the spearman. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Use melee units to block the enemy's path to your ranged units</style>\n",
-    "vi": "[<sprite=\"ctrl_right_click\" index=t>] vào vùng được đánh dấu để điều động lính giáo. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Dùng các chiến binh cận chiến để chặn đầu địch, bảo vệ an toàn cho xạ thủ tuyến sau</style>\n"
+    "vi": "[<sprite=\"ctrl_right_click\" index=t>] vào khu vực được đánh dấu để di chuyển lính giáo. \\n<sprite=\"tutorial_icon\" index=t><style=Desc>Dùng các đơn vị cận chiến để chắn đường kẻ thù tiếp cận đơn vị tầm xa</style>\n"
   },
   {
     "key": "tut_drafting_hold_ground",
     "type": 0,
     "en": "Select your Drafted Settlers and change their stance to Hold Ground",
-    "vi": "Chọn các dân làng đã Huy Động và chuyển tư thế tác chiến sang Giữ Vững Vị Trí"
+    "vi": "Chọn các dân làng đã huy động và chuyển tư thế của họ sang Giữ vững vị trí"
   },
   {
     "key": "tut_final_name",
     "type": 0,
     "en": "Tutorial Finished",
-    "vi": "Hoàn Thành Khóa Hướng Dẫn"
+    "vi": "Hoàn thành hướng dẫn"
   },
   {
     "key": "tut_final_info",
     "type": 0,
     "en": "Congratulations! You are now ready to start a new game and Go Medieval!",
-    "vi": "Xin chúc mừng! Bạn đã nắm vững các kỹ năng sinh tồn cơ bản và sẵn sàng bước chân vào thế giới Going Medieval!"
+    "vi": "Chúc mừng! Giờ đây bạn đã sẵn sàng bắt đầu trò chơi mới và bước vào thế giới Going Medieval!"
   },
   {
     "key": "general_step",
     "type": 0,
     "en": "Step",
-    "vi": "Bước Thực Hiện"
+    "vi": "Bước"
   },
   {
     "key": "more_info_show",
     "type": 0,
     "en": "Show more info",
-    "vi": "Hiển Thị Thêm Thông Tin"
+    "vi": "Hiển thị thêm thông tin"
   },
   {
     "key": "more_info_hide",
     "type": 0,
     "en": "Hide more info",
-    "vi": "Thu Gọn Thông Tin"
+    "vi": "Ẩn bớt thông tin"
   },
   {
     "key": "more_info_map",
     "type": 0,
     "en": "The <style=DefaultYellow>Valley</style> map type is recommended for new players. Basic resources like clay and wood are plentiful there, and the soil is fertile for growing crops. \\n\\nUse the Region view for a broad picture of where your settlement will be located within the surrounding region. The Map Type will determine the immediate terrain within your settlement.",
-    "vi": "Loại bản đồ <style=DefaultYellow>Thung Lũng (Valley)</style> rất phù hợp cho người chơi mới. Tài nguyên cơ bản như gỗ và đất sét dồi dào, đất đai màu mỡ cho nông nghiệp.\\n\\nDùng góc nhìn Toàn Vùng để có bức tranh tổng thể về vị trí định cư."
+    "vi": "Loại bản đồ <style=DefaultYellow>Thung lũng</style> rất phù hợp cho người chơi mới. Các tài nguyên cơ bản như đất sét và gỗ rất dồi dào, đất đai cũng màu mỡ để trồng trọt. \\n\\nDùng chế độ xem Khu vực để có cái nhìn tổng quan về vị trí khu định cư trong vùng lân cận. Loại Bản đồ sẽ quyết định địa hình trực tiếp bên trong khu định cư của bạn."
   },
   {
     "key": "more_info_settlers",
     "type": 0,
     "en": "These are the diverse individuals you will start your settlement with. Take a moment to explore and perhaps reroll their characteristics. \\n\\n An ideal starting group has a good distribution of skill levels and job preferences, but there are no wrong answers for your first settlement.",
-    "vi": "Đây là những cá nhân đa dạng sẽ cùng bạn gây dựng cơ đồ. Hãy dành thời gian khám phá và có thể gieo lại ngẫu nhiên các đặc điểm của họ.\\n\\nMột nhóm khởi đầu cân bằng về kỹ năng và sở thích sẽ giúp ích rất nhiều."
+    "vi": "Đây là những cá nhân đa dạng sẽ cùng bạn khởi đầu khu định cư. Hãy dành chút thời gian tìm hiểu và có thể chọn ngẫu nhiên lại đặc điểm của họ. \\n\\nMột nhóm khởi đầu lý tưởng nên có sự phân bổ đồng đều về trình độ kỹ năng và sở thích công việc, nhưng không có lựa chọn nào là sai cho khu định cư đầu tiên của bạn."
   },
   {
     "key": "general_log",
     "type": 0,
     "en": "Log",
-    "vi": "Nhật Ký Tương Tác"
+    "vi": "Nhật ký"
   },
   {
     "key": "life_event_type_Conversation",
     "type": 0,
     "en": "Conversation",
-    "vi": "Chuyện Trò Xã Giao"
+    "vi": "Trò chuyện"
   },
   {
     "key": "life_event_type_Misc",
     "type": 0,
     "en": "Misc",
-    "vi": "Sự Kiện Khác"
+    "vi": "Khác"
   },
   {
     "key": "life_event_type_Health",
     "type": 0,
     "en": "Health",
-    "vi": "Sức Khỏe & Thương Tật"
+    "vi": "Sức khỏe"
   },
   {
     "key": "show_full_log",
     "type": 0,
     "en": "Show full log",
-    "vi": "Xem Toàn Bộ Nhật Ký"
+    "vi": "Xem toàn bộ nhật ký"
   },
   {
     "key": "affection_level_0",
     "type": 0,
     "en": "Rival",
-    "vi": "Kình Địch Ghét Bỏ"
+    "vi": "Kình địch"
   },
   {
     "key": "affection_level_1",
     "type": 0,
     "en": "Acquaintance",
-    "vi": "Người Quen Biết"
+    "vi": "Người quen"
   },
   {
     "key": "affection_level_2",
     "type": 0,
     "en": "Friend",
-    "vi": "Bằng Hữu Thân Thiết"
+    "vi": "Bạn bè"
   },
   {
     "key": "bbt_settler_not_available",
@@ -801,102 +801,102 @@
     "key": "most_recent_interactions",
     "type": 0,
     "en": "Most recent interactions",
-    "vi": "Những Tương Tác Gần Đây Nhất"
+    "vi": "Các tương tác gần nhất"
   },
   {
     "key": "Patterns",
     "type": 0,
     "en": "",
-    "vi": "Khuôn Mẫu Tương Tác"
+    "vi": "Khuôn mẫu tương tác"
   },
   {
     "key": "conversation_default_pattern",
     "type": 0,
     "en": "<agent_name> <action> <topic> with <target_name>, <who> <reaction_verb> <reaction>",
-    "vi": "<agent_name> <action> <topic> cùng <target_name>, <who> <reaction_verb> <reaction>"
+    "vi": "<agent_name> <action> <topic> với <target_name>, <who> <reaction_verb> <reaction>"
   },
   {
     "key": "log_who",
     "type": 0,
     "en": "who",
-    "vi": "người đối diện"
+    "vi": "người này"
   },
   {
     "key": "settled_together_pattern",
     "type": 0,
     "en": "<agent_name> arrived to <village_name>",
-    "vi": "<agent_name> đã cùng di cư đến định cư tại <village_name>"
+    "vi": "<agent_name> đã đến định cư tại <village_name>"
   },
   {
     "key": "battled_together_pattern",
     "type": 0,
     "en": "<agent_name> battled with <target_name>",
-    "vi": "<agent_name> đã kề vai sát cánh chiến đấu cùng <target_name>"
+    "vi": "<agent_name> đã cùng chiến đấu với <target_name>"
   },
   {
     "key": "carried_to_bed_pattern",
     "type": 0,
     "en": "<agent_name> carried  unconciouss <target_name> to bed",
-    "vi": "<agent_name> đã cõng <target_name> đang bất tỉnh về giường bệnh"
+    "vi": "<agent_name> đã cõng <target_name> đang bất tỉnh về giường"
   },
   {
     "key": "tended_wounds_pattern",
     "type": 0,
     "en": "<agent_name> tended <target_name>'s wounds",
-    "vi": "<agent_name> đã tận tình băng bó cứu chữa vết thương cho <target_name>"
+    "vi": "<agent_name> đã chăm sóc vết thương cho <target_name>"
   },
   {
     "key": "died_rival_pattern",
     "type": 0,
     "en": "<agent_name> was happy that <target_name> was dead",
-    "vi": "<agent_name> cảm thấy hả hê khi kẻ kình địch <target_name> đã chết"
+    "vi": "<agent_name> cảm thấy vui mừng vì <target_name> đã chết"
   },
   {
     "key": "died_neutral_pattern",
     "type": 0,
     "en": "<agent_name> was sad that <target_name> was dead",
-    "vi": "<agent_name> cảm thấy buồn thương khi nghe tin <target_name> đã qua đời"
+    "vi": "<agent_name> cảm thấy buồn vì <target_name> đã qua đời"
   },
   {
     "key": "died_friend_pattern",
     "type": 0,
     "en": "<agent_name> was devastated that <target_name> was dead",
-    "vi": "<agent_name> suy sụp hoàn toàn trước cái chết của người bạn thân <target_name>"
+    "vi": "<agent_name> vô cùng suy sụp vì <target_name> đã qua đời"
   },
   {
     "key": "banished_rival_pattern",
     "type": 0,
     "en": "<agent_name> was happy that <target_name> was finally banished",
-    "vi": "<agent_name> rất vui mừng khi kẻ kình địch <target_name> cuối cùng đã bị trục xuất"
+    "vi": "<agent_name> cảm thấy vui mừng vì <target_name> cuối cùng đã bị trục xuất"
   },
   {
     "key": "banished_neutral_pattern",
     "type": 0,
     "en": "<agent_name> was sad that <target_name> was banished",
-    "vi": "<agent_name> cảm thấy bùi ngùi khi <target_name> bị trục xuất khỏi làng"
+    "vi": "<agent_name> cảm thấy buồn vì <target_name> đã bị trục xuất"
   },
   {
     "key": "banished_friend_pattern",
     "type": 0,
     "en": "<agent_name> was devastated that <target_name> was banished",
-    "vi": "<agent_name> vô cùng đau buồn khi người bạn tốt <target_name> bị trục xuất"
+    "vi": "<agent_name> vô cùng suy sụp vì <target_name> đã bị trục xuất"
   },
   {
     "key": "status_friend_start",
     "type": 0,
     "en": "<agent_name> now considers <target_name> a friend.",
-    "vi": "<agent_name> giờ đây xem <target_name> là một người bạn tốt."
+    "vi": "<agent_name> giờ đây coi <target_name> là một người bạn."
   },
   {
     "key": "status_friend_stop",
     "type": 0,
     "en": "<agent_name> no longer considers <target_name> a friend.",
-    "vi": "<agent_name> không còn coi <target_name> là bạn bè nữa."
+    "vi": "<agent_name> không còn coi <target_name> là bạn nữa."
   },
   {
     "key": "status_rival_start",
     "type": 0,
     "en": "<agent_name> considers  <target_name> a rival.",
-    "vi": "<agent_name> bắt đầu xem <target_name> là kẻ kình địch không đội trời chung."
+    "vi": "<agent_name> coi <target_name> là kẻ kình địch."
   }
 ]

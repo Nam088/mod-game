@@ -3,19 +3,19 @@
     "key": "roofed",
     "type": 0,
     "en": "Under the roof",
-    "vi": "Dưới mái nhà"
+    "vi": "Dưới mái che"
   },
   {
     "key": "select_crop",
     "type": 0,
     "en": "Select Crop",
-    "vi": "Chọn Crop"
+    "vi": "Chọn cây trồng"
   },
   {
     "key": "select_variant",
     "type": 0,
     "en": "Select variant",
-    "vi": "Chọn variant"
+    "vi": "Chọn biến thể"
   },
   {
     "key": "start_position",
@@ -63,7 +63,7 @@
     "key": "weather_clear",
     "type": 0,
     "en": "Clear",
-    "vi": "Xóa sạch"
+    "vi": "Trời quang"
   },
   {
     "key": "weather_fog",
@@ -87,181 +87,181 @@
     "key": "weather_thunderstorm",
     "type": 0,
     "en": "Thunderstorm",
-    "vi": "Bão giông sấm sét"
+    "vi": "Dông bão"
   },
   {
     "key": "weather_hailstorm",
     "type": 0,
     "en": "Hailstorm",
-    "vi": "Bão mưa đá"
+    "vi": "Mưa đá"
   },
   {
     "key": "weather_heat_wave",
     "type": 0,
     "en": "Heat wave",
-    "vi": "Nóng wave"
+    "vi": "Đợt nắng nóng"
   },
   {
     "key": "weather_cold_snap",
     "type": 0,
     "en": "Cold snap",
-    "vi": "Lạnh snap"
+    "vi": "Đợt rét đậm"
   },
   {
     "key": "add_new_profile_info",
     "type": 0,
     "en": "Add custom profile",
-    "vi": "Thêm custom profile"
+    "vi": "Thêm hồ sơ tùy chỉnh"
   },
   {
     "key": "delete_profile",
     "type": 0,
     "en": "Delete profile",
-    "vi": "Xóa profile"
+    "vi": "Xóa hồ sơ"
   },
   {
     "key": "research_available_error",
     "type": 0,
     "en": "Not enough books available",
-    "vi": "Không enough books available"
+    "vi": "Không đủ sách nghiên cứu"
   },
   {
     "key": "research_allocated_info_negative",
     "type": 0,
     "en": "You are missing some required books, which means that they have been lost. You will need to replace them to unlock new research items.",
-    "vi": "Bạn đang thiếu một số sách cần thiết do chúng đã bị mất. Bạn cần bổ sung sách để mở khóa các mục nghiên cứu mới."
+    "vi": "Bạn đang thiếu một số sách cần thiết do chúng đã bị thất lạc hoặc phá hủy. Bạn cần bổ sung sách để mở khóa các mục nghiên cứu mới."
   },
   {
     "key": "undrafted_stance",
     "type": 0,
     "en": "Undrafted Stance",
-    "vi": "Tư thế Phi vũ trang"
+    "vi": "Trạng thái thường"
   },
   {
     "key": "auto_equip_shield",
     "type": 0,
     "en": "Manage Shield",
-    "vi": "Quản lý Shield"
+    "vi": "Quản lý khiên"
   },
   {
     "key": "auto_equip_shield_info",
     "type": 0,
     "en": "Set autoequip shield for each settler",
-    "vi": "Đặt autoequip shield cho each Dân làng"
+    "vi": "Thiết lập tự động trang bị khiên cho từng dân làng"
   },
   {
     "key": "auto_equip_headware",
     "type": 0,
     "en": "Manage Headgear",
-    "vi": "Quản lý Headgear"
+    "vi": "Quản lý mũ nón"
   },
   {
     "key": "auto_equip_headware_info",
     "type": 0,
     "en": "Set autoequip headgear for each settler",
-    "vi": "Đặt autoequip headgear cho each Dân làng"
+    "vi": "Thiết lập tự động trang bị mũ nón cho từng dân làng"
   },
   {
     "key": "auto_equip_apparel",
     "type": 0,
     "en": "Manage Apparel",
-    "vi": "Quản lý Apparel"
+    "vi": "Quản lý trang phục"
   },
   {
     "key": "auto_equip_apparel_info",
     "type": 0,
     "en": "Set autoequip clothing for each settler",
-    "vi": "Đặt autoequip clothing cho each Dân làng"
+    "vi": "Thiết lập tự động trang bị quần áo cho từng dân làng"
   },
   {
     "key": "restrict_food",
     "type": 0,
     "en": "Manage Food",
-    "vi": "Quản lý Food"
+    "vi": "Quản lý thực phẩm"
   },
   {
     "key": "restrict_food_info",
     "type": 0,
     "en": "Set what type of food each settler is allowed to consume",
-    "vi": "Thiết lập loại thực phẩm mà mỗi dân làng được phép ăn"
+    "vi": "Thiết lập loại thực phẩm mà mỗi dân làng được phép dùng"
   },
   {
     "key": "restrict_stimulants",
     "type": 0,
     "en": "Manage Stimulants",
-    "vi": "Quản lý Stimulants"
+    "vi": "Quản lý chất kích thích"
   },
   {
     "key": "restrict_stimulants_info",
     "type": 0,
     "en": "Set what type of stimulants each settler is allowed to consume",
-    "vi": "Thiết lập loại chất kích thích mà mỗi dân làng được phép sử dụng"
+    "vi": "Thiết lập loại chất kích thích mà mỗi dân làng được phép dùng"
   },
   {
     "key": "profile",
     "type": 0,
     "en": "Profile",
-    "vi": "Hồ sơ cá nhân"
+    "vi": "Hồ sơ"
   },
   {
     "key": "edit_Shields_profiles",
     "type": 0,
     "en": "Edit Shield Profiles",
-    "vi": "Chỉnh sửa Shield Profiles"
+    "vi": "Chỉnh sửa hồ sơ khiên"
   },
   {
     "key": "edit_Headware_profiles",
     "type": 0,
     "en": "Edit Headgear Profiles",
-    "vi": "Chỉnh sửa Headgear Profiles"
+    "vi": "Chỉnh sửa hồ sơ mũ nón"
   },
   {
     "key": "edit_Apparel_profiles",
     "type": 0,
     "en": "Edit Apparel Profiles",
-    "vi": "Chỉnh sửa Apparel Profiles"
+    "vi": "Chỉnh sửa hồ sơ trang phục"
   },
   {
     "key": "edit_Food_profiles",
     "type": 0,
     "en": "Edit Food Profiles",
-    "vi": "Chỉnh sửa Food Profiles"
+    "vi": "Chỉnh sửa hồ sơ thực phẩm"
   },
   {
     "key": "edit_Alcohol_profiles",
     "type": 0,
     "en": "Edit Alcohol Profiles",
-    "vi": "Chỉnh sửa Alcohol Profiles"
+    "vi": "Chỉnh sửa hồ sơ đồ uống có cồn"
   },
   {
     "key": "manageDefaultPreset_apparel_clothing_only",
     "type": 0,
     "en": "Clothing Only",
-    "vi": "Chỉ mặc quần áo"
+    "vi": "Chỉ mặc quần áo thường"
   },
   {
     "key": "manageDefaultPreset_shield_all",
     "type": 0,
     "en": "All Shields",
-    "vi": "Tất cả Shields"
+    "vi": "Tất cả khiên"
   },
   {
     "key": "manageDefaultPreset_sheild_none",
     "type": 0,
     "en": "No Shields",
-    "vi": "Không Shields"
+    "vi": "Không dùng khiên"
   },
   {
     "key": "manageDefaultPreset_headware_all",
     "type": 0,
     "en": "All Headgear",
-    "vi": "Tất cả Headgear"
+    "vi": "Tất cả mũ nón"
   },
   {
     "key": "manageDefaultPreset_headware_none",
     "type": 0,
     "en": "No Headgear",
-    "vi": "Không Headgear"
+    "vi": "Không dùng mũ nón"
   },
   {
     "key": "manageDefaultPreset_headware_helmet",
@@ -273,31 +273,31 @@
     "key": "manageDefaultPreset_headware_cap",
     "type": 0,
     "en": "Cap",
-    "vi": "Mũ đội đầu"
+    "vi": "Mũ vải"
   },
   {
     "key": "manageDefaultPreset_apparel_all",
     "type": 0,
     "en": "All Apparel",
-    "vi": "Tất cả Apparel"
+    "vi": "Tất cả trang phục"
   },
   {
     "key": "manageDefaultPreset_apparel_none",
     "type": 0,
     "en": "No Apparel",
-    "vi": "Không Apparel"
+    "vi": "Không mặc trang phục"
   },
   {
     "key": "manageDefaultPreset_apparel_winter",
     "type": 0,
     "en": "Winter",
-    "vi": "Mùa Đông"
+    "vi": "Mùa đông"
   },
   {
     "key": "manageDefaultPreset_apparel_summer",
     "type": 0,
     "en": "Summer",
-    "vi": "Mùa Hè"
+    "vi": "Mùa hè"
   },
   {
     "key": "manageDefaultPreset_food_all",
@@ -327,43 +327,43 @@
     "key": "manageDefaultPreset_food_cannibal",
     "type": 0,
     "en": "Cannibal",
-    "vi": "Ăn thịt người"
+    "vi": "Thịt người"
   },
   {
     "key": "manageDefaultPreset_stimulants_all",
     "type": 0,
     "en": "All Stimulants",
-    "vi": "Tất cả Stimulants"
+    "vi": "Tất cả chất kích thích"
   },
   {
     "key": "manageDefaultPreset_stimulants_none",
     "type": 0,
     "en": "No Stimulants",
-    "vi": "Không Stimulants"
+    "vi": "Không dùng chất kích thích"
   },
   {
     "key": "auto_equipped",
     "type": 0,
     "en": "Auto-equipped",
-    "vi": "Tự động-equipped"
+    "vi": "Trang bị tự động"
   },
   {
     "key": "manually_equipped",
     "type": 0,
     "en": "Force-equipped",
-    "vi": "Bắt buộc trang bị thủ công"
+    "vi": "Bắt buộc trang bị"
   },
   {
     "key": "object_size",
     "type": 0,
     "en": "Structure Dimensions",
-    "vi": "Kết cấu Dimensions"
+    "vi": "Kích thước kết cấu"
   },
   {
     "key": "has_stability_to_build",
     "type": 0,
     "en": "Is connected to a stable structure",
-    "vi": "Là connected đến a stable kết cấu"
+    "vi": "Được liên kết với một cấu trúc vững chắc"
   },
   {
     "key": "thermal_insulation",
@@ -375,7 +375,7 @@
     "key": "thermal_emission",
     "type": 0,
     "en": "Heat output",
-    "vi": "Nóng output"
+    "vi": "Nhiệt lượng tỏa ra"
   },
   {
     "key": "historical_records_title",
@@ -387,7 +387,7 @@
     "key": "statistics_title",
     "type": 0,
     "en": "Statistics",
-    "vi": "Số liệu thống kê"
+    "vi": "Thống kê"
   },
   {
     "key": "PopulationCount_title",
@@ -405,73 +405,73 @@
     "key": "FoodAmount_title",
     "type": 0,
     "en": "Food Stored",
-    "vi": "Lương thực lưu trữ"
+    "vi": "Lương thực tích trữ"
   },
   {
     "key": "PopulationCount_info",
     "type": 0,
     "en": "Number of settlers through time",
-    "vi": "Tổng số dân định cư hiện đang sinh sống tại ngôi làng."
+    "vi": "Số lượng dân làng qua từng thời kỳ."
   },
   {
     "key": "TotalWealth_info",
     "type": 0,
     "en": "Combined value of resources and buildings through time",
-    "vi": "Tổng giá trị vật chất của công trình, vật phẩm và tài nguyên tích lũy."
+    "vi": "Tổng giá trị tài nguyên và công trình qua từng thời kỳ."
   },
   {
     "key": "FoodAmount_info",
     "type": 0,
     "en": "Combined nutrition stockpile amount through time",
-    "vi": "Số lượng khẩu phần ăn hiện có trong các kho lưu trữ."
+    "vi": "Tổng lượng dinh dưỡng tích trữ trong kho qua từng thời kỳ."
   },
   {
     "key": "play_time",
     "type": 0,
     "en": "Play time",
-    "vi": "Thời gian đã chơi"
+    "vi": "Thời gian chơi"
   },
   {
     "key": "days_from_start",
     "type": 0,
     "en": "Days from start",
-    "vi": "Days từ start"
+    "vi": "Số ngày từ khi bắt đầu"
   },
   {
     "key": "lost_villagers",
     "type": 0,
     "en": "Lost settlers",
-    "vi": "Lost Dân làng"
+    "vi": "Số dân làng đã mất"
   },
   {
     "key": "max_villagers",
     "type": 0,
     "en": "Max settlers",
-    "vi": "Max Dân làng"
+    "vi": "Số dân làng tối đa"
   },
   {
     "key": "enemies_killed",
     "type": 0,
     "en": "Enemies killed",
-    "vi": "Kẻ thù killed"
+    "vi": "Kẻ thù đã tiêu diệt"
   },
   {
     "key": "enemies_total",
     "type": 0,
     "en": "Enemies total",
-    "vi": "Kẻ thù total"
+    "vi": "Tổng số kẻ thù"
   },
   {
     "key": "villagers_died",
     "type": 0,
     "en": "Settlers lost",
-    "vi": "dân làng lost"
+    "vi": "Số dân làng tử nạn"
   },
   {
     "key": "most_damage_delt",
     "type": 0,
     "en": "Greatest damage dealt by",
-    "vi": "Greatest sát thương dealt bởi"
+    "vi": "Gây sát thương nhiều nhất bởi"
   },
   {
     "key": "worker_banish_event_log_type",
@@ -513,7 +513,7 @@
     "key": "max_yield_time",
     "type": 0,
     "en": "Maximum yield in",
-    "vi": "Đạt sản lượng tối đa trong"
+    "vi": "Đạt sản lượng tối đa sau"
   },
   {
     "key": "number_of_harvests",
@@ -597,7 +597,7 @@
     "key": "general_minute_short",
     "type": 0,
     "en": "m",
-    "vi": "m"
+    "vi": "ph"
   },
   {
     "key": "general_hour_short",
@@ -609,13 +609,13 @@
     "key": "general_day_short",
     "type": 0,
     "en": "d",
-    "vi": "d"
+    "vi": "ng"
   },
   {
     "key": "general_year_short",
     "type": 0,
     "en": "y",
-    "vi": "y"
+    "vi": "n"
   },
   {
     "key": "photo_save_location",
@@ -795,7 +795,7 @@
     "key": "report_bug_connection_error",
     "type": 0,
     "en": "Connection error! \nWe're sorry but your lovingly-crafted report could not be sent. \nPlease try again, or use our Discord server to send your feedback or report a bug.  ",
-    "vi": "Lỗi kết nối!\nRất tiếc báo cáo phản hồi của bạn không thể gửi đi lúc này.\nVui lòng thử lại sau, hoặc tham gia máy chủ Discord của chúng tôi để gửi phản hồi và báo cáo lỗi."
+    "vi": "Lỗi kết nối!\nRất tiếc báo cáo tâm huyết của bạn chưa thể gửi đi lúc này.\nVui lòng thử lại sau, hoặc tham gia máy chủ Discord của chúng tôi để gửi phản hồi và báo cáo lỗi."
   },
   {
     "key": "general_unlock",

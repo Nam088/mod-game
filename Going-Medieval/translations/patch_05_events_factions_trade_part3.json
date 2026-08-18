@@ -3,559 +3,559 @@
     "key": "event_raid_general_decline_neutral",
     "type": 0,
     "en": "You stood your ground, refusing to give in to their demands. The attackers leave, but your relationship with <faction_name> worsens.",
-    "vi": "Bạn kiên định giữ vững lập trường, dứt khoát không chịu nhượng bộ trước những yêu sách. Những kẻ tấn công đành hậm hực rút lui, nhưng mối quan hệ ngoại giao với <faction_name> đã trở nên xấu đi nghiêm trọng."
+    "vi": "Bạn kiên quyết giữ vững lập trường, cự tuyệt mọi yêu sách của chúng. Kẻ địch đành rút lui, nhưng mối quan hệ giữa bạn và <faction_name> đã trở nên căng thẳng hơn."
   },
   {
     "key": "event_raid_resources_01",
     "type": 0,
     "en": "They seeped downriver, appearing overnight and carrying a stench of stagnant decay. The ghoulish pillagers of <origin> menaced <village_name> with explicit, violent threats. They would cease their harassment and move on, they said, if you submitted to their demands for <resource>.",
-    "vi": "Chúng xuôi theo dòng sông, bất thần xuất hiện trong đêm tối và mang theo mùi xú uế thối rữa của nước tù hãm. Những tên cướp bóc gớm ghiếc từ <origin> lớn tiếng đe dọa <village_name> bằng những lời đao búa bạo lực trắng trợn. Chúng rêu rao rằng sẽ chấm dứt quấy nhiễu và rời đi ngay lập tức nếu bạn cúi đầu chấp thuận nộp cho chúng số lượng <resource> theo yêu sách."
+    "vi": "Chúng âm thầm xuôi dòng nước, thoắt ẩn thoắt hiện trong đêm cùng mùi hôi tanh thối rữa của bùn lầy nước đọng. Đám cướp bóc gớm ghiếc đến từ <origin> buông lời đe dọa đầy man rợ nhắm vào <village_name>. Chúng rêu rao rằng sẽ buông tha và rời đi nếu bạn chấp thuận giao nộp số <resource> theo yêu sách."
   },
   {
     "key": "event_raid_resources_01_accept",
     "type": 0,
     "en": "The intruders melted away as swiftly as they arrived, taking <resource> with them.",
-    "vi": "Những kẻ xâm nhập lập tức rút lui nhanh chóng như khi chúng ập tới, mang theo toàn bộ số tài nguyên <resource> cướp được."
+    "vi": "Những kẻ xâm nhập rút đi nhanh như lúc ập đến, mang theo toàn bộ số <resource>."
   },
   {
     "key": "event_raid_general",
     "type": 0,
     "en": "\n\nThe raiders appeared swiftly, without warning. Immediately, the smell of blood and fear filled the air. Gaunt and savage, the assailants set about their grim task: to pillage <village_name> and murder its inhabitants.",
-    "vi": "\n\nToán cướp đột kích bất thần xuất hiện mà không một lời báo trước. Ngay lập tức, mùi máu tanh nồng và nỗi khiếp đảm bao trùm khắp không gian. Dáng vẻ gầy guộc và man rợ, những kẻ tấn công bắt đầu lao vào thực hiện nhiệm vụ tàn bạo: cướp phá <village_name> và tàn sát toàn bộ cư dân."
+    "vi": "\n\nToán cướp đột kích bất ngờ ập đến mà không một lời cảnh báo. Thoắt cái, mùi máu tanh và nỗi kinh hoàng đã bao trùm không gian. Gầy guộc và hung tợn, những kẻ tấn công bắt tay ngay vào dã tâm tàn bạo: cướp phá <village_name> và tàn sát toàn bộ cư dân."
   },
   {
     "key": "event_raid_church_of_third_coming",
     "type": 0,
     "en": "Armour glinted and pennants fluttered, each bearing three white crosses. First they prayed. Then they purged the faithless. The Church was as merciless as it was fanatical.",
-    "vi": "Áo giáp sắt lóe sáng và những lá cờ hiệu tung bay trong gió, mỗi lá cờ mang biểu tượng ba cây thập tự trắng. Trước tiên chúng dâng lời cầu nguyện trang nghiêm. Kế đó, chúng lạnh lùng thanh trừng những kẻ ngoại đạo không cùng đức tin. Giáo Hội Giáo Đoàn Tái Lâm vừa cuồng tín tột độ vừa không chút mảy may dung thứ."
+    "vi": "Áo giáp sắt ánh lên tia lạnh lẽo dưới những lá cờ bay phần phật mang biểu tượng ba cây thập tự trắng. Trước tiên, chúng quỳ gối dâng lời cầu nguyện. Kế đó, chúng thẳng tay thanh trừng những kẻ ngoại đạo. Giáo Hội Đệ Tam Giáng Lâm vừa tàn nhẫn đến tột cùng, vừa cuồng tín đến điên dại."
   },
   {
     "key": "event_raid_ancrene_disciples",
     "type": 0,
     "en": "Eyes shining with holy conviction, they surged forward, chanting aloud as they hewed at their screaming victims. The Ancrene Disciples vowed to cast out the Devil, by destroying every last one of his servants on Earth.",
-    "vi": "Đôi mắt rực lên niềm tin tôn giáo cuồng loạn, chúng ồ ạt tràn tới, miệng không ngớt tụng kinh trong khi tay vung gươm chém xối xả vào những nạn nhân đang gào thét thảm thiết. Các Môn Đồ Ancrene đã thề sẽ quét sạch Quỷ dữ bằng cách tận diệt tới kẻ phụng sự cuối cùng của hắn trên mặt đất."
+    "vi": "Ánh mắt rực lên niềm cuồng tín mãnh liệt, chúng ồ ạt tràn lên, miệng không ngừng tụng kinh trong khi tay vung vũ khí chém xối xả vào những nạn nhân đang gào thét thảm thiết. Các Môn Đồ Ancrene đã thề sẽ trục xuất Ác Quỷ bằng cách tận diệt tới kẻ phụng sự cuối cùng của hắn chốn trần gian."
   },
   {
     "key": "event_raid_faithful_sons_of_england",
     "type": 0,
     "en": "</b>'For King and Country!' they cried, charging forward with grim determination. The Sons of England would not rest until their beloved land was drenched in blood.",
-    "vi": "</b>'Vì Đức Vua và Đất Nước!' chúng gào thét vang trời, xông thẳng lên phía trước với sự quyết đoán lạnh lùng. Những Người Con Trung Thành Nước Anh sẽ quyết không dừng bước cho đến khi mảnh đất thân yêu của chúng được nhuộm đỏ trong biển máu."
+    "vi": "</b>'Vì Đức Vua và Tổ Quốc!' chúng gào thét, xông thẳng lên phía trước với quyết tâm sắt đá. Những Người Con Của Nước Anh sẽ không dừng bước cho đến khi mảnh đất thân yêu của chúng được nhuộm trong biển máu."
   },
   {
     "key": "event_raid_band_of_the she_wolf",
     "type": 0,
     "en": "With thunderous faces, the barons led the charge. ‘For our one true Queen!’ they bellowed, deftly swinging their weapons, slicing through sinew and bone.",
-    "vi": "Với gương mặt đằng đằng sát khí tựa sấm sét, các nam tước dẫn đầu đợt xung phong. 'Vì Nữ Hoàng chân chính duy nhất của chúng ta!' chúng gầm thét, vung vũ khí điêu luyện, chém đứt ngọt từng thớ gân và xương cốt."
+    "vi": "Với gương mặt hằm hằm đằng đằng sát khí, các nam tước dẫn đầu đợt xung phong. 'Vì Nữ Hoàng chân chính duy nhất của chúng ta!' chúng gầm lên, vung vũ khí sắc bén chém đứt từng thớ gân và xương thịt."
   },
   {
     "key": "event_raid_philosophers_of_the_natural_order",
     "type": 0,
     "en": "The academics gathered like a storm of angry crows, their black gowns flapping comically as they huddled, strategizing. Their great minds were entirely focused on wrecking <village_name>. Except for its books, which they coveted, and meant to steal.",
-    "vi": "Đám học giả tụ tập lại tựa như một đàn quạ đen giận dữ, những tấm áo choàng đen phấp phới trông vừa kỳ quặc vừa mỉa mai khi chúng túm tụm bàn mưu tính kế. Những bộ óc uyên thâm lỗi lạc ấy dồn toàn bộ tâm trí vào việc tàn phá <village_name> — ngoại trừ những cuốn sách quý mà chúng thèm khát và quyết tâm cướp đoạt."
+    "vi": "Đám học giả tụ lại tựa như đàn quạ đen giận dữ, tà áo chùng đen phấp phới trông thật kỳ quặc khi chúng túm tụm bàn mưu tính kế. Những bộ óc uyên bác dồn hết tâm trí vào việc tàn phá <village_name> — ngoại trừ những cuốn sách mà chúng thèm khát và rắp tâm cướp đoạt."
   },
   {
     "key": "event_raid_society_of_fellows",
     "type": 0,
     "en": "Once they had stopped shouting at each other, the dons took a vote in an orderly and democratic manner, then prepared to strike. ‘You ignorant dimwits have got it coming!’ They shrieked, rampaging into <village_name> with the zeal of rioting dissidents.",
-    "vi": "Sau khi thôi quát tháo và tranh cãi lẫn nhau, các viện sĩ tiến hành bỏ phiếu một cách trật tự và dân chủ rồi sẵn sàng xuất kích. 'Lũ ngu muội các ngươi đáng phải chịu hình phạt này!' Chúng gào thét inh ỏi, tràn vào <village_name> với sự cuồng loạn của những kẻ bạo loạn cuồng giáo."
+    "vi": "Sau khi thôi cãi cọ om sòm, các giáo sư tiến hành biểu quyết một cách trật tự và dân chủ rồi chuẩn bị tấn công. 'Lũ ngu xuẩn các ngươi đến số rồi!' Chúng rú lên, càn quét vào <village_name> với sự cuồng loạn của những kẻ bạo loạn."
   },
   {
     "key": "event_raid_kingdom_of_york",
     "type": 0,
     "en": "The militants descended, baying for Royalist blood. 'Loyalists are culpable of genocide!' they roared. Slaughter seemed inescapable.",
-    "vi": "Đoàn quân hiếu chiến tràn xuống thung lũng, thèm khát máu của phe Bảo Hoàng. 'Lũ tay sai trung thành phải đền mạng vì tội ác diệt chủng!' chúng gầm lên hung hãn. Một cuộc tắm máu dường như không thể nào cứu vãn."
+    "vi": "Đoàn quân hiếu chiến tràn xuống, gầm rống thèm khát máu của phe Bảo Hoàng. 'Lũ bồi thần phải đền tội vì tội ác diệt chủng!' chúng thét lớn. Một cuộc thảm sát đẫm máu dường như không thể nào tránh khỏi."
   },
   {
     "key": "event_raid_heresy_of_the_rose",
     "type": 0,
     "en": "When Heretics rise, fear takes human form. Baying, screeching, drumming, chanting...some wear horns; a girl strews rose petals at the mob’s feet. Many bear flaming symbols aloft. ‘We’ve come for your souls!’ one shouts. A roar of hooting laughter rises up among their ranks. A senseless massacre is imminent.",
-    "vi": "Khi những kẻ Dị Giáo Hoa Hồng nổi dậy, nỗi sợ hãi tột cùng mang hình hài con người. Tiếng gào rú, tiếng thét thất thanh, tiếng trống trận dồn dập cùng những lời tụng niệm ma quái... một số tên đội sừng thú; một trinh nữ rải cánh hoa hồng đỏ thắm dưới chân đám đông hung bạo. Nhiều kẻ giơ cao những biểu tượng rực lửa. 'Chúng ta đến đây để đoạt lấy linh hồn các ngươi!' một tên gào thét. Tiếng cười man dại vang rền khắp hàng ngũ. Một vụ thảm sát tàn khốc sắp sửa bắt đầu."
+    "vi": "Khi lũ Dị Giáo trỗi dậy, nỗi kinh hoàng hiện hữu thành hình hài. Tiếng tru tréo, tiếng thét thất thanh, tiếng trống dồn dập cùng những lời tụng niệm ma quái... vài kẻ mang sừng thú trên đầu; một cô gái rải những cánh hoa hồng dưới chân đám đông cuồng loạn. Nhiều tên giương cao những biểu tượng rực lửa. 'Bọn ta đến để đoạt lấy linh hồn các ngươi!' một tên gào thét. Cả hàng ngũ rộ lên những tràng cười man dại. Một cuộc tàn sát vô nghĩa sắp sửa bắt đầu."
   },
   {
     "key": "event_raid_circle_of_avalon",
     "type": 0,
     "en": "They were truly a sight to behold: fair knights in shining armour. But the old Gods have always been thirsty for Christian blood, and Cedric's knights would gladly spill yours.",
-    "vi": "Chúng thực sự là một cảnh tượng uy phong tráng lệ: những hiệp sĩ khôi ngô trong những bộ giáp sáng lóa ngời ngời. Thế nhưng các Cổ Thần luôn thèm khát máu của những tín đồ Cơ Đốc, và các hiệp sĩ của Cedric sẽ chẳng ngần ngại làm đổ máu của bạn."
+    "vi": "Chúng quả là một cảnh tượng tráng lệ: những hiệp sĩ uy nghi trong bộ giáp sáng ngời. Thế nhưng các Cổ Thần xưa nay luôn khao khát máu của tín đồ Cơ Đốc, và các hiệp sĩ của Cedric sẵn sàng làm đổ máu của bạn."
   },
   {
     "key": "event_raid_beirdd_cymraeg",
     "type": 0,
     "en": "Colourful, theatrical, larger than life: the bards’ presence was hard to ignore. You might be enchanted and entertained, but do not be fooled. If they could not talk you into doing their bidding, they would gladly fight you, and tell a fabulous tale about it afterwards.",
-    "vi": "Rực rỡ, khoa trương và đầy kịch tính: sự xuất hiện của các thi sĩ thật khó làm ngơ. Bạn có thể bị mê hoặc và mua vui, nhưng đừng để bị lừa. Nếu không thể thuyết phục bạn làm theo ý chúng, chúng sẽ vui lòng chiến đấu rồi kể lại một câu chuyện tuyệt vời về trận đánh."
+    "vi": "Sặc sỡ, phô trương và đầy tính kịch nghệ: sự xuất hiện của các thi sĩ khó ai có thể làm ngơ. Bạn có thể bị mê hoặc và cuốn theo tiếng đàn của họ, nhưng chớ vội mất cảnh giác. Nếu không thể dùng lời lẽ để sai khiến bạn, họ sẵn sàng rút vũ khí giao đấu, rồi sau đó dệt nên một khúc trường ca hoa mỹ về trận chiến ấy."
   },
   {
     "key": "event_raid_progeny_of_the_plague",
     "type": 0,
     "en": "They wanted slaves! They demanded blood! Indiscriminate raiders intent on pillage and plunder charged into your village.",
-    "vi": "Chúng muốn nô lệ! Chúng đòi máu! Những kẻ đột kích không phân biệt ai, chỉ chăm chăm cướp bóc và phá phách, đang tràn vào làng."
+    "vi": "Chúng muốn nô lệ! Chúng đòi máu! Đám cướp hung tợn mù quáng chỉ chăm chăm cướp bóc và tàn phá đang ồ ạt xông vào ngôi làng của bạn."
   },
   {
     "key": "event_raid_ravagers",
     "type": 0,
     "en": "They weren't just hungry, they were greedy. The Ravagers were already imagining a tasty feast, with human flesh as the main course. They say meat is murder, and this could be yours.",
-    "vi": "Chúng không chỉ đói mà còn tham lam. Ravagers đã tưởng tượng một bữa tiệc ngon lành với thịt người làm món chính. Người ta nói thịt là kết quả của giết chóc, và lần này có thể là thịt của bạn."
+    "vi": "Chúng không chỉ đói khát, mà còn tham lam tột cùng. Bọn Tàn Phá đã mường tượng ra một bữa tiệc thịnh soạn với thịt người làm món chính. Người ta bảo ăn thịt đồng nghĩa với sát sinh, và lần này rất có thể chính là mạng sống của bạn."
   },
   {
     "key": "event_raid_forest_bandits",
     "type": 0,
     "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "Chúng xuất hiện trong im lặng, đôi mắt trống rỗng, tóc tai rối bù. Bốc mùi ôi thiu và bôi đầy máu, mọi người ở <village_name> đều nhận ra đây là loại cướp bóc nguy hiểm nhất. Không thể nói lý với chúng; chúng chẳng còn gì để mất."
+    "vi": "Chúng lầm lũi xuất hiện trong câm lặng, ánh mắt trũng sâu vô hồn, đầu tóc bù xù rũ rượi. Bốc mùi tanh tưởi và vấy đầy máu tươi, mọi người ở <village_name> đều nhận ra đây là hạng cướp bóc tàn độc nhất trần đời. Không thể dùng lý lẽ với chúng; bởi chúng chẳng còn gì để mất."
   },
   {
     "key": "event_raid_mountain_bandits",
     "type": 0,
     "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "Chúng xuất hiện trong im lặng, đôi mắt trống rỗng, tóc tai rối bù. Bốc mùi ôi thiu và bôi đầy máu, mọi người ở <village_name> đều nhận ra đây là loại cướp bóc nguy hiểm nhất. Không thể nói lý với chúng; chúng chẳng còn gì để mất."
+    "vi": "Chúng lầm lũi xuất hiện trong câm lặng, ánh mắt trũng sâu vô hồn, đầu tóc bù xù rũ rượi. Bốc mùi tanh tưởi và vấy đầy máu tươi, mọi người ở <village_name> đều nhận ra đây là hạng cướp bóc tàn độc nhất trần đời. Không thể dùng lý lẽ với chúng; bởi chúng chẳng còn gì để mất."
   },
   {
     "key": "event_raid_river_bandits",
     "type": 0,
     "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "Chúng xuất hiện trong im lặng, đôi mắt trống rỗng, tóc tai rối bù. Bốc mùi ôi thiu và bôi đầy máu, mọi người ở <village_name> đều nhận ra đây là loại cướp bóc nguy hiểm nhất. Không thể nói lý với chúng; chúng chẳng còn gì để mất."
+    "vi": "Chúng lầm lũi xuất hiện trong câm lặng, ánh mắt trũng sâu vô hồn, đầu tóc bù xù rũ rượi. Bốc mùi tanh tưởi và vấy đầy máu tươi, mọi người ở <village_name> đều nhận ra đây là hạng cướp bóc tàn độc nhất trần đời. Không thể dùng lý lẽ với chúng; bởi chúng chẳng còn gì để mất."
   },
   {
     "key": "event_raid_looters",
     "type": 0,
     "en": "They appeared silently, eyes hollow, hair wild. Smelling rancid and daubed with blood, everyone in <village_name> recognised these pillagers as assailants of the most deadly kind. They were beyond reason, with nothing left to lose.",
-    "vi": "Chúng xuất hiện trong im lặng, đôi mắt trống rỗng, tóc tai rối bù. Bốc mùi ôi thiu và bôi đầy máu, mọi người ở <village_name> đều nhận ra đây là loại cướp bóc nguy hiểm nhất. Không thể nói lý với chúng; chúng chẳng còn gì để mất."
+    "vi": "Chúng lầm lũi xuất hiện trong câm lặng, ánh mắt trũng sâu vô hồn, đầu tóc bù xù rũ rượi. Bốc mùi tanh tưởi và vấy đầy máu tươi, mọi người ở <village_name> đều nhận ra đây là hạng cướp bóc tàn độc nhất trần đời. Không thể dùng lý lẽ với chúng; bởi chúng chẳng còn gì để mất."
   },
   {
     "key": "event_raid_scourge",
     "type": 0,
     "en": "A smell of sulfur in the air and a prickling on the skin. These were the only warning signs that a Scourge attack was coming. You would see and hear nobody. If you survived, you would witness a scene from hell itself.",
-    "vi": "Mùi lưu huỳnh trong không khí và cảm giác gai người là những dấu hiệu duy nhất báo trước cuộc tấn công của Scourge. Bạn sẽ không nhìn hay nghe thấy ai. Nếu sống sót, bạn sẽ chứng kiến một cảnh tượng từ chính địa ngục."
+    "vi": "Mùi lưu huỳnh nồng nặc trong gió và cảm giác râm ran rợn người trên da thịt. Đó là những điềm báo duy nhất cho thấy một đợt tấn công của Tai Ương đang cận kề. Bạn sẽ chẳng thấy hay nghe thấy bóng dáng ai. Nếu sống sót, thứ bạn chứng kiến sẽ là một cảnh tượng hãi hùng tựa chốn địa ngục."
   },
   {
     "key": "event_runaway_general",
     "type": 0,
     "en": "<name> didn't stop looking over [his/her] shoulder. But it was the bleeding weals around <name>'s ankles that gave [him/her] away as a prisoner on the run. Would you conceal [him/her]? They may have been followed.",
-    "vi": "<name> không ngừng ngoái nhìn qua vai [his/her]. Nhưng những vết lằn rỉ máu quanh mắt cá chân <name> đã tố cáo [him/her] là một tù nhân đang chạy trốn. Bạn có che giấu [him/her] không? Có thể họ đã bị truy đuổi."
+    "vi": "<name> không ngừng ngoái nhìn qua vai [his/her] đầy hoảng hốt. Nhưng chính những vết lằn rỉ máu quanh cổ chân của <name> đã tố cáo [him/her] là một tù nhân đang đào tẩu. Liệu bạn có che giấu cho [him/her]? Rất có thể kẻ truy lùng đang bám sát."
   },
   {
     "key": "event_runaway_church_of_third_coming",
     "type": 0,
     "en": "Whether it was the Third Coming seeking a poor sinner to make an example of - or some other zealots - was unclear. <name> raved about religion, torture, escape...but the details were confused. Would you give them refuge? Danger might ensue.",
-    "vi": "Không rõ đó là Third Coming đang tìm một kẻ tội lỗi khốn khổ để làm gương, hay một nhóm cuồng tín khác. <name> lảm nhảm về tôn giáo, tra tấn, trốn thoát... nhưng các chi tiết rất lộn xộn. Bạn có cho người ấy trú ẩn không? Có thể sẽ gặp nguy hiểm."
+    "vi": "Không rõ là Giáo Hội Đệ Tam Giáng Lâm đang lùng bắt một kẻ tội đồ khốn khổ để làm gương răn đe, hay là một nhóm cuồng tín nào khác. <name> lảm nhảm trong hoảng loạn về giáo điều, đòn tra tấn, đào tẩu... nhưng mọi chi tiết đều rối bời. Bạn có cho người này nương náu không? Nguy hiểm có thể ập đến ngay sau đó."
   },
   {
     "key": "event_runaway_ancrene_disciples",
     "type": 0,
     "en": "<name> would be burned alive by the Disciples, [he/she] stated factually, with eyes dimmed, trailing sooty rags. Would you save them from the flames? [He/She] may be pursued.",
-    "vi": "<name> nói tỉnh bơ rằng các Môn đồ sẽ thiêu sống [he/she], đôi mắt mờ đục, thân kéo theo những mảnh giẻ ám khói. Bạn có cứu người ấy khỏi lửa không? [He/She] có thể đang bị truy đuổi."
+    "vi": "<name> kể lại với giọng điệu đờ đẫn rằng các Môn Đồ sẽ thiêu sống [he/she], ánh mắt mờ đục, khoác trên mình những mảnh giẻ rách ám muội than. Bạn có cứu người này khỏi giàn hỏa thiêu không? [He/She] có thể đang bị truy lùng ráo riết."
   },
   {
     "key": "event_runaway_faithful_sons_of_england",
     "type": 0,
     "en": "<name> said they had walked for many days, hiding in trees, ditches and abandoned barns. Followers of the soi-disant King tracked [him/her] relentlessly, sometimes with baying hounds. ‘I have done no one harm,’ said <name>, asking for <village_name>’s protection. Would you risk it? Edmund’s forces may be close behind.",
-    "vi": "<name> nói đã đi bộ nhiều ngày, ẩn trong cây cối, mương rãnh và những nhà kho bỏ hoang. Những kẻ theo vị Vua tự xưng liên tục truy lùng [him/her], đôi khi dẫn theo chó săn đang sủa vang. ‘Tôi chưa hại ai,’ <name> nói khi xin sự bảo vệ của <village_name>. Bạn có dám mạo hiểm không? Quân của Edmund có thể đang ở ngay phía sau."
+    "vi": "<name> kể rằng mình đã lê bước ròng rã nhiều ngày, lẩn trốn trong lùm cây, mương rãnh và những nhà kho hoang phế. Đám bầy tôi của vị Vua tự phong liên tục lùng sục [him/her], đôi khi cùng với bầy chó săn sủa inh ỏi. ‘Tôi chưa từng làm hại ai,’ <name> khẩn khoản cầu xin sự chở che của <village_name>. Bạn có dám liều mình không? Quân lính của Edmund có thể đang bám sát gót."
   },
   {
     "key": "event_runaway_band_of_the she_wolf",
     "type": 0,
     "en": "<name> practically crawled into <village_name>. [He/She] appeared hale and well-fed, and yet appeared stricken by some uncanny malaise. ‘Pins and flesh, pins mark death…’ [he/she] whispered hoarsely. There had been rumours that Queen Isabella employed a necromancer. Would you dare take <name> in?",
-    "vi": "<name> gần như bò vào <village_name>. [He/She] trông khỏe mạnh, ăn uống đầy đủ, vậy mà dường như mắc phải một căn bệnh kỳ lạ. ‘Kim và thịt, kim báo hiệu cái chết…’ [he/she] khàn giọng thì thầm. Có tin đồn Nữ hoàng Isabella thuê một pháp sư gọi hồn. Bạn có dám nhận <name> vào không?"
+    "vi": "<name> gần như bò lết vào <village_name>. [He/She] trông có vẻ lành lặn, no đủ, nhưng lại như bị một chứng tà thuật kỳ quái hành hạ. ‘Kim găm da thịt, kim gọi thần chết…’ [he/she] thều thào trong hơi thở đứt quãng. Từng có lời đồn rằng Hoàng hậu Isabella có nuôi một pháp sư gọi hồn. Bạn có dám cưu mang <name> không?"
   },
   {
     "key": "event_runaway_philosophers_of_the_natural_order",
     "type": 0,
     "en": "<name> claimed that [he/she] was running from a pack of enraged Philosophers. They had beaten [him/her] for reductive reasoning and epistemological scepticism. ‘I don’t know what they were talking about, but they wouldn’t let up.’ Would you offer [him/her] a place to stay? There may be repercussions.",
-    "vi": "<name> nói [he/she] đang chạy trốn một nhóm Triết gia phẫn nộ. Họ đã đánh [him/her] vì lối suy luận giản lược và sự hoài nghi nhận thức luận. ‘Tôi chẳng hiểu họ nói gì, nhưng họ không chịu dừng.’ Bạn có cho [him/her] một chỗ ở không? Có thể sẽ có hậu quả."
+    "vi": "<name> quả quyết rằng [he/she] đang chạy trốn khỏi một nhóm Triết Gia đang thịnh nộ. Họ đã đánh đập [him/her] vì tội suy luận đơn giản hóa và hoài nghi nhận thức luận. ‘Tôi chẳng hiểu họ lải nhải về cái gì, nhưng họ nhất quyết không buông tha.’ Bạn có cho [him/her] một chỗ nương thân? Hậu quả kéo theo có thể không hề nhỏ."
   },
   {
     "key": "event_runaway_society_of_fellows",
     "type": 0,
     "en": "<name> arrived in great haste, professing to have been targeted by a malicious alchemist. <name> fled, with the occultist and their cronies in hot pursuit. Would you protect <name> in <village_name>? The Society of Fellows is known to use strange methods to exact revenge. ",
-    "vi": "<name> vội vã đến, nói rằng mình bị một nhà giả kim độc ác nhắm tới. <name> bỏ chạy, phía sau là kẻ huyền thuật và đồng bọn truy đuổi ráo riết. Bạn có bảo vệ <name> tại <village_name> không? Society của Fellows nổi tiếng dùng những phương pháp kỳ lạ để trả thù. "
+    "vi": "<name> hớt hải chạy đến, khai rằng mình bị một gã giả kim độc ác nhắm làm mục tiêu thí nghiệm. <name> bỏ trốn trong khi kẻ theo tà thuật cùng đồng bọn đang ráo riết đuổi theo. Bạn có bảo vệ <name> tại <village_name> không? Hội Viện Sĩ nổi tiếng với những thủ đoạn kỳ quái để báo thù. "
   },
   {
     "key": "event_runaway_kingdom_of_york",
     "type": 0,
     "en": "Forlorn and desperate, <name> stood accused of treason against the Kingdom of York, by aiding and abetting the monarchy. 'I am innocent,' [he/she] sobbed. Would you grant <name> asylum? Reprisals may follow.",
-    "vi": "Khốn khổ và tuyệt vọng, <name> bị Kingdom của York buộc tội phản quốc vì giúp đỡ và tiếp tay cho vương triều. ‘Tôi vô tội,’ [he/she] nức nở. Bạn có cho <name> tị nạn không? Có thể sẽ có trả đũa."
+    "vi": "Tiêu điều và tuyệt vọng, <name> bị Vương Quốc York khép tội phản quốc vì tiếp tay cho phe Quân Chủ. 'Tôi hoàn toàn vô tội,' [he/she] nức nở. Bạn có chấp nhận cho <name> tị nạn không? Những đòn trả đũa có thể sẽ ập tới."
   },
   {
     "key": "event_runaway_heresy_of_the_rose",
     "type": 0,
     "en": "<name> could not speak when [he/she] arrived. [He/She] had been tortured, and bore many bruises and scars. Your best guess was that the Heresy of the Rose were behind it, because <name> made the sign of horns. Would you shelter this fugitive? Chaos would be hard on [his/her] heels.",
-    "vi": "<name> không thể nói khi [he/she] đến. [He/She] từng bị tra tấn, trên người đầy vết bầm và sẹo. Bạn đoán thủ phạm là Heresy của Rose vì <name> làm dấu sừng. Bạn có che chở cho kẻ chạy trốn này không? Hỗn loạn sẽ bám sát [his/her]."
+    "vi": "<name> không thốt nên lời khi [he/she] vừa tới nơi. [He/She] đã bị tra tấn dã man, khắp mình mẩy chằng chịt vết bầm tím và sẹo thương tích. Bạn đoán chắc chính giáo phái Dị Giáo Hoa Hồng đứng sau chuyện này, bởi <name> làm dấu hiệu đôi sừng quỷ. Liệu bạn có che chở cho kẻ đào tẩu này? Sự hỗn loạn sẽ bám sát ngay gót chân [his/her]."
   },
   {
     "key": "event_runaway_circle_of_avalon",
     "type": 0,
     "en": "<name> had been borne away by shining knights, [he/she] said, against [his/her] will. <name> slipped away by night, travelling barefoot along rough and broken roads. ‘Take me in, pray do not forsake me,’ [he/she] pleaded. Would you shelter <name>? Questing paladins might follow.",
-    "vi": "<name> nói [he/she] bị những hiệp sĩ sáng loáng bắt đi trái ý [his/her]. <name> trốn thoát trong đêm, chân trần đi trên những con đường gồ ghề, nứt vỡ. ‘Hãy nhận tôi vào, xin đừng bỏ rơi tôi,’ [he/she] van nài. Bạn có che chở <name> không? Các hiệp sĩ hành hiệp có thể sẽ theo sau."
+    "vi": "<name> kể rằng [he/she] bị những hiệp sĩ áo giáp sáng lóa bắt đi trái với ý muốn của [his/her]. <name> đã nhân đêm tối trốn thoát, đôi chân trần rướm máu băng qua những nẻo đường gập ghềnh sỏi đá. ‘Xin hãy đón nhận tôi, cầu xin đừng ruồng bỏ tôi,’ [he/she] van lơn khẩn thiết. Bạn có chở che cho <name> không? Những hiệp sĩ hành đạo có thể sẽ lần theo dấu vết."
   },
   {
     "key": "event_runaway_beirdd_cymraeg",
     "type": 0,
     "en": "<name> appeared sheepish. ‘Can I come inside? There are these bards I want to avoid.’ Wearied by wordplay and lute practice, <name> gave the performers a bad review. ‘I just wanted a bit of peace and quiet,’ [he/she] explained. Will you grant <name> entry? It may come at a price.",
-    "vi": "<name> trông ngượng ngùng. ‘Tôi vào trong được không? Có mấy thi sĩ tôi muốn tránh.’ Mệt mỏi vì chơi chữ và luyện đàn luýt, <name> chê bai màn trình diễn của họ. ‘Tôi chỉ muốn một chút yên tĩnh,’ [he/she] giải thích. Bạn có cho <name> vào không? Có thể phải trả giá."
+    "vi": "<name> tỏ vẻ bẽn lẽn ngượng ngùng. ‘Tôi có thể vào trong được không? Có mấy tay thi sĩ mà tôi đang phải trốn tránh.’ Vì quá mệt mỏi với những trò đùa chữ và tiếng so dây đàn luýt suốt ngày đêm, <name> đã lỡ buông lời chê bai họ thậm tệ. ‘Tôi chỉ mong có được chút bình yên thanh tịnh mà thôi,’ [he/she] phân trần. Liệu bạn có mở cửa cho <name> vào? Điều đó có thể sẽ phải trả giá đắt."
   },
   {
     "key": "event_runaway_progeny_of_the_plague",
     "type": 0,
     "en": "Some said tales of the Progeny eating people were poppycock. But they crossed themselves when <name> appeared, having escaped as the brutes were sharpening their knives. If cannibals came looking for their lunch...would you keep <name> off the menu?",
-    "vi": "Có người nói chuyện Progeny ăn thịt người chỉ là chuyện nhảm. Nhưng khi <name> xuất hiện sau khi trốn thoát lúc bọn quái vật đang mài dao, họ đều làm dấu thánh. Nếu lũ ăn thịt người đến tìm bữa trưa... bạn có giữ <name> khỏi thực đơn không?"
+    "vi": "Từng có người cho rằng chuyện bọn Hậu Duệ Đại Dịch ăn thịt người chỉ là lời bịa đặt hoang đường. Thế nhưng ai nấy đều vội làm dấu thánh khi <name> xuất hiện, sau khi thoát thân trong gang tấc đúng lúc lũ man rợ đang mài dao làm thịt. Nếu lũ ăn thịt người mò đến tìm bữa trưa... liệu bạn có bảo vệ <name> để không biến thành món trên thực đơn của chúng?"
   },
   {
     "key": "event_runaway_ravagers",
     "type": 0,
     "en": "You’d never seen anyone run as fast as <name> in your life. ‘They want to eat me!’ [He/She] cried out. Wide eyed, <village_name> settlers checked their children and livestock were gathered in. ‘It’s Ravagers,’ they whispered. Would you help <name> escape? The pursuers may be hungry for revenge.",
-    "vi": "Bạn chưa từng thấy ai chạy nhanh như <name>. ‘Chúng muốn ăn thịt tôi!’ [He/She] hét lên. Dân làng <village_name> mở để mắt kiểm tra xem trẻ con và gia súc đã được đưa vào trong chưa. ‘Là Ravagers,’ họ thì thầm. Bạn có giúp <name> trốn thoát không? Kẻ truy đuổi có thể đang khát khao trả thù."
+    "vi": "Cả đời bạn chưa từng thấy ai chạy thục mạng nhanh như <name>. ‘Chúng muốn ăn thịt tôi!’ [He/She] thét lên thất thanh. Trợn tròn mắt vì kinh hãi, dân định cư <village_name> vội vã lùa con trẻ và gia súc vào nhà. ‘Là Bọn Tàn Phá đấy,’ họ thì thầm run rẩy. Bạn có giúp <name> thoát thân không? Kẻ truy đuổi có thể đang khao khát báo thù."
   },
   {
     "key": "event_runaway_forest_bandits",
     "type": 0,
     "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Thoạt nhìn có vẻ mất trí, <name> thực ra chỉ bị nỗi kinh hoàng nhấn chìm. Một thân xác đáng thương bước loạng choạng, đầy vết lằn do bị trói và bị chủ nhân độc ác đánh đập. <name> van xin: ‘Hãy giấu tôi! Nếu bị bắt, tôi sẽ chết!’"
+    "vi": "Thoạt nhìn trông như kẻ loạn trí, nhưng thực chất <name> chỉ đang bị nỗi kinh hoàng tột độ bủa vây. Một thân xác tiều tụy đáng thương bước đi loạng choạng, chằng chịt lằn roi xiềng xích và những trận đòn roi tàn nhẫn của tên chủ tàn bạo. <name> van xin: 'Hãy giấu tôi đi! Tôi sẽ mất mạng nếu bị bắt lại!'"
   },
   {
     "key": "event_runaway_mountain_bandits",
     "type": 0,
     "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Thoạt nhìn có vẻ mất trí, <name> thực ra chỉ bị nỗi kinh hoàng nhấn chìm. Một thân xác đáng thương bước loạng choạng, đầy vết lằn do bị trói và bị chủ nhân độc ác đánh đập. <name> van xin: ‘Hãy giấu tôi! Nếu bị bắt, tôi sẽ chết!’"
+    "vi": "Thoạt nhìn trông như kẻ loạn trí, nhưng thực chất <name> chỉ đang bị nỗi kinh hoàng tột độ bủa vây. Một thân xác tiều tụy đáng thương bước đi loạng choạng, chằng chịt lằn roi xiềng xích và những trận đòn roi tàn nhẫn của tên chủ tàn bạo. <name> van xin: 'Hãy giấu tôi đi! Tôi sẽ mất mạng nếu bị bắt lại!'"
   },
   {
     "key": "event_runaway_river_bandits",
     "type": 0,
     "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Thoạt nhìn có vẻ mất trí, <name> thực ra chỉ bị nỗi kinh hoàng nhấn chìm. Một thân xác đáng thương bước loạng choạng, đầy vết lằn do bị trói và bị chủ nhân độc ác đánh đập. <name> van xin: ‘Hãy giấu tôi! Nếu bị bắt, tôi sẽ chết!’"
+    "vi": "Thoạt nhìn trông như kẻ loạn trí, nhưng thực chất <name> chỉ đang bị nỗi kinh hoàng tột độ bủa vây. Một thân xác tiều tụy đáng thương bước đi loạng choạng, chằng chịt lằn roi xiềng xích và những trận đòn roi tàn nhẫn của tên chủ tàn bạo. <name> van xin: 'Hãy giấu tôi đi! Tôi sẽ mất mạng nếu bị bắt lại!'"
   },
   {
     "key": "event_runaway_looters",
     "type": 0,
     "en": "Appearing deranged at first, <name> was simply overcome with terror. A pitiful, stumbling corpse with weals from binding and harsh beatings by a cruel master. <name> begged: 'Hide me! I will die if I am caught!'",
-    "vi": "Thoạt nhìn có vẻ mất trí, <name> thực ra chỉ bị nỗi kinh hoàng nhấn chìm. Một thân xác đáng thương bước loạng choạng, đầy vết lằn do bị trói và bị chủ nhân độc ác đánh đập. <name> van xin: ‘Hãy giấu tôi! Nếu bị bắt, tôi sẽ chết!’"
+    "vi": "Thoạt nhìn trông như kẻ loạn trí, nhưng thực chất <name> chỉ đang bị nỗi kinh hoàng tột độ bủa vây. Một thân xác tiều tụy đáng thương bước đi loạng choạng, chằng chịt lằn roi xiềng xích và những trận đòn roi tàn nhẫn của tên chủ tàn bạo. <name> van xin: 'Hãy giấu tôi đi! Tôi sẽ mất mạng nếu bị bắt lại!'"
   },
   {
     "key": "event_runaway_scourge",
     "type": 0,
     "en": "<name> was badly singed. 'Everything is burned, destroyed!' [He/She] would only say 'it must have been THEM. But I didn't see a soul.' The Scourge may be on the move. Will you give <name> a place to stay?",
-    "vi": "<name> bị bỏng xém nặng. ‘Mọi thứ đều cháy rụi, bị phá hủy!’ [He/She] chỉ nói được vậy: ‘Chắc chắn là CHÚNG. Nhưng tôi chẳng thấy ai cả.’ Scourge có thể đang di chuyển. Bạn có cho <name> một chỗ trú không?"
+    "vi": "<name> bị bỏng cháy xém khắp người. 'Mọi thứ đều bị thiêu rụi, tan tành cả rồi!' [He/She] chỉ lắp bắp: 'Chắc chắn là CHÚNG. Nhưng tôi chẳng thấy bóng dáng một ai.' Tai Ương có thể đang tiến tới. Bạn có cho <name> một chỗ trú ngụ không?"
   },
   {
     "key": "event_claim_runaway_general",
     "type": 0,
     "en": "The swarthy jailers wanted your settler, <name>, and they wanted them now. They had to pay for their crimes, or your whole village would pay. It was up to you.",
-    "vi": "Những cai ngục da ngăm muốn có dân làng của bạn, <name>, và muốn ngay lập tức. Người ấy phải trả giá cho tội lỗi, nếu không cả làng sẽ phải trả giá. Quyết định nằm ở bạn."
+    "vi": "Đám cai ngục da ngăm đen đòi giao nộp dân định cư của bạn, <name>, và đòi giao ngay lập tức. Kẻ đào tẩu phải đền tội, bằng không cả ngôi làng của bạn sẽ phải trả giá. Quyết định hoàn toàn nằm ở bạn."
   },
   {
     "key": "event_claim_runaway_church_of_third_coming",
     "type": 0,
     "en": "The zealots demanded that you relinquish <name> immediately, to be burned at the stake - or possibly flayed alive - for their manifold sins. God's will should be done. They were authorised to kill.",
-    "vi": "Những kẻ cuồng tín yêu cầu bạn lập tức giao <name> để thiêu trên cọc - hoặc lột da sống - vì vô số tội lỗi. Ý Chúa phải được thực hiện. Chúng được phép giết người."
+    "vi": "Những kẻ cuồng tín đòi bạn phải giao nộp <name> ngay lập tức để đem thiêu sống trên cọc — hoặc lột da sống — vì vô số tội lỗi tày trời. Ý Chúa phải được thực thi. Chúng được toàn quyền giết chóc."
   },
   {
     "key": "event_claim_runaway_ancrene_disciples",
     "type": 0,
     "en": "The Disciples argued persuasively that <name> was a cunning servant of Satan. Then they threatened to burn <village_name> to the ground, to purify everything thoroughly if you didn't hand [him/her] over.",
-    "vi": "Các Môn đồ lập luận đầy thuyết phục rằng <name> là tay sai xảo quyệt của Satan. Sau đó chúng dọa thiêu rụi <village_name> để thanh tẩy mọi thứ nếu bạn không giao [him/her]."
+    "vi": "Các Môn Đồ dùng mọi lời lẽ thuyết phục rằng <name> là tay sai xảo quyệt của quỷ Satan. Kế đó, chúng đe dọa sẽ thiêu rụi <village_name> thành tro tàn để thanh tẩy triệt để mọi thứ nếu bạn không chịu giao nộp [him/her]."
   },
   {
     "key": "event_claim_runaway_faithful_sons_of_england",
     "type": 0,
     "en": "The standard bearer made a show of reading out the proclamation: '<name> is disloyal to the crown! [He/She] must be rendered unto us for trial and punishment at King Edmund's pleasure.' His companions stood regimented, formidable, their armour glinting. The Faithful had no intention of leaving empty handed.",
-    "vi": "Người cầm cờ long trọng đọc tuyên cáo: ‘<name> bất trung với vương miện! [He/She] phải được giao cho chúng ta xét xử và trừng phạt theo ý Vua Edmund.’ Đồng bọn đứng thành hàng nghiêm ngặt và đáng sợ, áo giáp lóe sáng. Những kẻ Trung Thành không định ra về tay trắng."
+    "vi": "Tên lính mang cờ long trọng xướng to lời tuyên cáo: '<name> là kẻ bất trung với vương triều! [He/She] phải được nộp lại cho chúng ta để xét xử và trừng phạt theo ý chỉ của Vua Edmund.' Đồng bọn của hắn đứng thành hàng ngũ chỉnh tề, uy hiếp với những bộ giáp sáng loáng. Những kẻ Trung Thành không hề có ý định ra về tay trắng."
   },
   {
     "key": "event_claim_runaway_band_of_the she_wolf",
     "type": 0,
     "en": "A group of barons and a serf dragging a wheeled metal cage arrived. ‘<name> should come with us,’ commanded the tallest of the nobles. ‘[He/She] is a favourite of Queen Isabella. Bring <name> forth at once, they will not be harmed.’ The serf caught your eye, shaking his head.\n",
-    "vi": "Một nhóm nam tước cùng một nông nô kéo chiếc lồng sắt có bánh xe đến. ‘<name> phải đi với chúng ta,’ quý tộc cao nhất ra lệnh. ‘[He/She] là người được Nữ hoàng Isabella sủng ái. Đưa <name> ra ngay, người ấy sẽ không bị hại.’ Người nông nô bắt gặp ánh mắt bạn rồi lắc đầu.\n"
+    "vi": "Một nhóm nam tước cùng tên nông nô kéo theo chiếc lồng sắt có bánh xe kéo đến. ‘<name> phải đi theo chúng ta,’ kẻ quý tộc cao lớn nhất cất giọng lệnh truyền. ‘[He/She] là người được Hoàng hậu Isabella sủng ái. Hãy điệu <name> ra đây ngay, họ sẽ không bị làm hại đâu.’ Tên nông nô lén nhìn vào mắt bạn, khẽ lắc đầu quầy quậy.\n"
   },
   {
     "key": "event_claim_runaway_philosophers_of_the_natural_order",
     "type": 0,
     "en": "Some wore beards, others wore spectacles. All of them wore scowls. The Philosophers of the Natural Order approached, fragrant with the scent of parchment and sealing wax. 'Hand over <name>,' said the eldest, pointing a long, ink-stained finger. 'We have a score to settle.'",
-    "vi": "Kẻ để râu, người đeo kính, nhưng tất cả đều cau có. Philosophers của Natural Order tiến đến, mang theo mùi giấy da và sáp niêm phong. ‘Giao <name> ra,’ người lớn tuổi nhất nói, chỉ ngón tay dài dính mực. ‘Chúng ta có món nợ cần thanh toán.’"
+    "vi": "Kẻ để râu dài, người đeo kính. Nhưng ai nấy đều mang vẻ mặt hầm hố cau có. Các Triết Gia Trật Tự Tự Nhiên tiến lại gần, sực nức mùi giấy da và sáp niêm phong. 'Mau giao nộp <name> ra đây,' kẻ lớn tuổi nhất nói, chĩa ngón tay dài dính đầy mực vào bạn. 'Chúng ta có món nợ cần phải thanh toán.'"
   },
   {
     "key": "event_claim_runaway_society_of_fellows",
     "type": 0,
     "en": "The assembled Fellows had the air of robbers at an alefest: rather drunk, and speaking balderdash to obscure their true intentions. Indeed, you realised that their overblown flattery amounted to nought, masking a plot to kidnap <name> while you were distracted. Would you let them get away with it?",
-    "vi": "Những thành viên Society của Fellows tụ tập trông như bọn cướp trong hội bia: khá say và nói toàn chuyện nhảm để che giấu ý định thật. Bạn nhận ra lời tâng bốc khoa trương của chúng chẳng có nghĩa gì, chỉ nhằm che đậy âm mưu bắt cóc <name> khi bạn mất cảnh giác. Bạn sẽ để chúng thoát sao?"
+    "vi": "Các thành viên Hội Viện Sĩ tụ tập với bộ dạng chẳng khác nào phường trộm cướp tại hội rượu: ngà ngà say và ăn nói ba hoa nhảm nhí hòng che đậy dã tâm thực sự. Quả thực, bạn nhận ra những lời tâng bốc hoa mỹ rỗng tuếch của chúng chỉ là bức bình phong nhằm bắt cóc <name> trong lúc bạn lơ là. Liệu bạn có để chúng đạt được ý đồ?"
   },
   {
     "key": "event_claim_runaway_kingdom_of_york",
     "type": 0,
     "en": "Purvey’s bailiff stood, arms crossed, legs splayed wide. A hefty, northern woman, not to be trifled with. ‘Give <name> over,’ she grunted, ‘if ‘ee want no trouble.’ The labourers behind her fidgeted, impatient to engage, then settle in for a night’s drinking.  Is <name> worth fighting for?",
-    "vi": "Viên chấp hành của Purvey đứng khoanh tay, hai chân dang rộng. Người phụ nữ miền Bắc lực lưỡng này không phải kẻ nên dây vào. ‘Giao <name> ra,’ bà ta càu nhàu, ‘nếu không muốn gặp rắc rối.’ Những người lao động phía sau bồn chồn, nóng lòng đánh nhau rồi chè chén suốt đêm. <name> có đáng để chiến đấu không?"
+    "vi": "Nữ chấp sự của Purvey đứng khoanh tay, hai chân dạng rộng. Một mụ đàn bà phương Bắc hộ pháp, vạm vỡ, không phải hạng dễ chọc vào. ‘Giao <name> ra đây,’ mụ gằn giọng, ‘nếu các người không muốn chuốc lấy rắc rối.’ Đám phu phen sau lưng mụ đứng ngồi không yên, nóng lòng muốn đánh nhau rồi đi chè chén thâu đêm.  Liệu <name> có đáng để bạn liều mạng bảo vệ?"
   },
   {
     "key": "event_claim_runaway_heresy_of_the_rose",
     "type": 0,
     "en": "Alone, the Heretic drew a series of symbols on the ground at <village_name>’s entrance. After some hours, their pained expression suggested considerable exertion. Finally, they killed a hen, spreading the blood. <name>, <name>… they chanted. ‘Give me <name>.’ <village_name>’s settlers were petrified. What ghastly horrors might rise up, if they refused?",
-    "vi": "Một mình, kẻ Dị giáo vẽ hàng loạt biểu tượng trên mặt đất trước lối vào <village_name>. Sau nhiều giờ, vẻ mặt đau đớn cho thấy việc đó rất tốn sức. Cuối cùng, kẻ ấy giết một con gà và rải máu. <name>, <name>… kẻ ấy tụng niệm. ‘Giao <name> cho ta.’ Dân làng <village_name> kinh hãi. Nếu từ chối, điều khủng khiếp nào có thể trỗi dậy?"
+    "vi": "Đơn thương độc mã, tên Dị Giáo vẽ một chuỗi biểu tượng ma quái trên mặt đất ngay trước lối vào <village_name>. Sau vài canh giờ, nét mặt đau đớn cho thấy hắn đã hao tổn tâm lực khôn xiết. Cuối cùng, hắn cắt tiết một con gà mái rồi vẩy máu tứ tung. <name>, <name>… hắn lẩm bẩm tụng niệm. ‘Hãy giao <name> cho ta.’ Dân định cư <village_name> sợ đến chết trân. Những nỗi kinh hoàng quái gở nào sẽ trỗi dậy nếu họ dám cự tuyệt?"
   },
   {
     "key": "event_claim_runaway_circle_of_avalon",
     "type": 0,
     "en": "‘I am here for <name>’s head,’ quoth the knight, bowing as deeply as her armour allowed. ‘I have quested for a year and a day, and I now claim my rightful prize.’ A retinue of burnished knights accompanied her, mounted on palfreys and decked with ribbons. Will you yield <name>?",
-    "vi": "‘Ta đến lấy đầu <name>,’ nữ hiệp sĩ nói, cúi chào sâu hết mức bộ giáp cho phép. ‘Ta đã thực hiện nhiệm vụ suốt một năm một ngày, giờ ta đòi phần thưởng chính đáng.’ Một đoàn hiệp sĩ áo giáp sáng bóng cưỡi ngựa, trang trí ruy băng, đi cùng cô. Bạn có giao <name> không?"
+    "vi": "‘Ta đến đây để lấy thủ cấp của <name>,’ nữ hiệp sĩ cất lời, cúi chào sâu hết mức mà bộ giáp nặng nề cho phép. ‘Ta đã ròng rã thực hiện nhiệm vụ suốt một năm một ngày, và nay đến để đòi lấy phần thưởng xứng đáng của mình.’ Đoàn hiệp sĩ tùy tùng trong những bộ giáp sáng lóa cưỡi tuấn mã trang hoàng ruy băng tháp tùng theo sau. Liệu bạn có chịu giao nộp <name>?"
   },
   {
     "key": "event_claim_runaway_beirdd_cymraeg",
     "type": 0,
     "en": "The bard began to tell an achingly beautiful saga of broken promises, a fugitive, an oath. Hair flowing, eyes closed, his fingers ran over a small harp, the ethereal music sweetening the enchantment. You would let <name> come away, would you not? Spellbound, you nonetheless had to choose.",
-    "vi": "Người hát rong bắt đầu kể bản trường ca đẹp đến nhói lòng về lời hứa tan vỡ, một kẻ trốn chạy và lời thề. Tóc bay, mắt nhắm, những ngón tay lướt trên cây đàn hạc nhỏ, âm nhạc siêu phàm khiến phép mê hoặc càng ngọt ngào. Bạn sẽ để <name> đi, phải không? Dù bị mê hoặc, bạn vẫn phải lựa chọn."
+    "vi": "Người hát rong cất lên khúc trường ca bi tráng đẹp đến xé lòng về những lời hẹn ước dở dang, một kẻ đào tẩu và một lời thề nguyền. Mái tóc bồng bềnh tung bay, đôi mắt khép hờ, ngón tay ông lướt nhẹ trên phím đàn hạc nhỏ, âm điệu huyền ảo càng làm say đắm lòng người. Bạn sẽ để <name> đi theo ông ấy chứ? Dẫu bị mê hoặc, bạn vẫn buộc phải đưa ra quyết định."
   },
   {
     "key": "event_claim_runaway_progeny_of_the_plague",
     "type": 0,
     "en": "Armed, hulking and pitiless, the circling raiders cried out a terrible ultimatum: Their raid was to be swift and brutal, unless you yielded <name> to them. They knew exactly what they wanted.",
-    "vi": "Được vũ trang, để lớn và tàn nhẫn, những kẻ đột kích vây quanh hét lên tối hậu thư kinh hoàng: chúng sẽ tấn công nhanh và tàn bạo nếu bạn không giao <name>. Chúng biết chính xác mình muốn gì."
+    "vi": "Vũ trang tận răng, hộ pháp và tàn bạo không chút xót thương, đám cướp vây quanh gầm lên một tối hậu thư đáng sợ: Cuộc đột kích sẽ diễn ra chớp nhoáng và tàn khốc, trừ phi bạn chịu giao nộp <name> cho chúng. Chúng biết chính xác mình đang muốn thứ gì."
   },
   {
     "key": "event_claim_runaway_ravagers",
     "type": 0,
     "en": "They came with butchers knives, wearing bloody aprons. 'Fe, fi, fo, fum, I smell the blood of Englishmen,' shouted the largest, laughing uproariously. Some had set up campfires with spits and large pots, 'Send <name> on out then, we're ready for our dinner.'",
-    "vi": "Chúng mang dao mổ thịt và mặc tạp dề đẫm máu. ‘Phì, pha, phô, phum, ta ngửi thấy máu người Anh,’ tên lớn nhất hét lên rồi cười vang. Một số đã dựng lửa trại với xiên nướng và nồi lớn. ‘Đưa <name> ra đây, bữa tối đã sẵn sàng.’"
+    "vi": "Chúng lăm lăm dao mổ thịt trong tay, khoác những chiếc tạp dề đẫm máu tươi. 'Khè khè, ta ngửi thấy mùi máu của lũ người Anh,' tên to xác nhất hét lớn rồi cười sằng sặc man dại. Vài tên đã kịp nhóm lửa trại dựng xiên nướng và nồi lớn: 'Mau tống <name> ra đây, bọn ta đã sẵn sàng cho bữa tối rồi.'"
   },
   {
     "key": "event_claim_runaway_forest_bandits",
     "type": 0,
     "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "Tên côn đồ nói nhỏ nhưng đầy đe dọa. ‘<name> thuộc về ta! Giao nô lệ của ta ra, nếu không tất cả các ngươi sẽ chịu khổ.’ Chúng hoàn toàn nghiêm túc."
+    "vi": "Tên hung đồ cất giọng, trầm thấp nhưng đầy vẻ đe dọa chết người. '<name> thuộc về ta! Mau giao nộp tên nô lệ của ta ra, bằng không tất cả các ngươi sẽ phải nếm mùi đau đớn.' Hắn tuyệt đối không hề nói chơi."
   },
   {
     "key": "event_claim_runaway_mountain_bandits",
     "type": 0,
     "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "Tên côn đồ nói nhỏ nhưng đầy đe dọa. ‘<name> thuộc về ta! Giao nô lệ của ta ra, nếu không tất cả các ngươi sẽ chịu khổ.’ Chúng hoàn toàn nghiêm túc."
+    "vi": "Tên hung đồ cất giọng, trầm thấp nhưng đầy vẻ đe dọa chết người. '<name> thuộc về ta! Mau giao nộp tên nô lệ của ta ra, bằng không tất cả các ngươi sẽ phải nếm mùi đau đớn.' Hắn tuyệt đối không hề nói chơi."
   },
   {
     "key": "event_claim_runaway_river_bandits",
     "type": 0,
     "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "Tên côn đồ nói nhỏ nhưng đầy đe dọa. ‘<name> thuộc về ta! Giao nô lệ của ta ra, nếu không tất cả các ngươi sẽ chịu khổ.’ Chúng hoàn toàn nghiêm túc."
+    "vi": "Tên hung đồ cất giọng, trầm thấp nhưng đầy vẻ đe dọa chết người. '<name> thuộc về ta! Mau giao nộp tên nô lệ của ta ra, bằng không tất cả các ngươi sẽ phải nếm mùi đau đớn.' Hắn tuyệt đối không hề nói chơi."
   },
   {
     "key": "event_claim_runaway_looters",
     "type": 0,
     "en": "The brute spoke, soft but menacing. '<name> belongs to me! Hand over my slave or you will all suffer.' They were deadly serious.",
-    "vi": "Tên côn đồ nói nhỏ nhưng đầy đe dọa. ‘<name> thuộc về ta! Giao nô lệ của ta ra, nếu không tất cả các ngươi sẽ chịu khổ.’ Chúng hoàn toàn nghiêm túc."
+    "vi": "Tên hung đồ cất giọng, trầm thấp nhưng đầy vẻ đe dọa chết người. '<name> thuộc về ta! Mau giao nộp tên nô lệ của ta ra, bằng không tất cả các ngươi sẽ phải nếm mùi đau đớn.' Hắn tuyệt đối không hề nói chơi."
   },
   {
     "key": "event_claim_runaway_scourge",
     "type": 0,
     "en": "You cannot discuss settler rendition with the Scourge",
-    "vi": "Bạn không thể thương lượng việc giao dân làng với Scourge"
+    "vi": "Không thể thương lượng việc giao nộp dân định cư với Tai Ương"
   },
   {
     "key": "event_runaway_trade_successful_general",
     "type": 0,
     "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "Cần thương lượng một hồi. Cuối cùng, toán truy tìm miễn cưỡng chấp nhận những gì <village_name> đưa ra và từ bỏ nhiệm vụ bắt <name>."
+    "vi": "Phải trải qua vài lần thương lượng cam go. Nhưng sau cùng toán truy lùng đã miễn cưỡng chấp thuận những gì <village_name> đề nghị, từ bỏ ý định bắt giữ <name>."
   },
   {
     "key": "event_runaway_trade_successful_church_of_third_coming",
     "type": 0,
     "en": "The zealots accepted <village_name>'s terms. 'We have been merciful,' said their leader. 'You may not be so lucky next time.'",
-    "vi": "Những kẻ cuồng tín chấp nhận điều kiện của <village_name>. ‘Chúng ta đã khoan dung,’ thủ lĩnh nói. ‘Lần sau có thể các ngươi sẽ không may như vậy.’"
+    "vi": "Những kẻ cuồng tín chấp nhận các điều kiện của <village_name>. ‘Chúng ta đã rủ lòng khoan hồng,’ tên thủ lĩnh tuyên bố. ‘Lần tới các ngươi có thể sẽ chẳng còn may mắn như vậy nữa đâu.’"
   },
   {
     "key": "event_runaway_trade_successful_ancrene_disciples",
     "type": 0,
     "en": "Finally, the disciples yielded. 'We shall pray for your eternal souls,' one murmured, turning away. '<name> is a sinner.'",
-    "vi": "Cuối cùng, các Môn đồ nhượng bộ. ‘Chúng ta sẽ cầu nguyện cho linh hồn vĩnh hằng của các ngươi,’ một kẻ lẩm bẩm rồi quay đi. ‘<name> là kẻ tội lỗi.’"
+    "vi": "Cuối cùng, các môn đồ cũng chịu nhượng bộ. ‘Chúng ta sẽ cầu nguyện cho linh hồn vĩnh hằng của các ngươi,’ một tên lẩm bẩm rồi quay gót bỏ đi. ‘<name> là một kẻ tội đồ.’"
   },
   {
     "key": "event_runaway_trade_successful_faithful_sons_of_england",
     "type": 0,
     "en": "The herald found it confusing that <village_name> did not yield to the self-proclaimed King Edmund's decree. After much bluster, they accepted a bribe and left.",
-    "vi": "Người truyền tin thấy khó hiểu vì <village_name> không tuân theo sắc lệnh của Vua Edmund tự xưng. Sau một hồi khoa trương, chúng nhận hối lộ rồi rời đi."
+    "vi": "Tên sứ giả lấy làm khó hiểu khi <village_name> không chịu quy phục sắc lệnh của Vua Edmund tự phong. Sau một hồi lớn tiếng dọa dẫm, chúng đành nhận của đút lót rồi rút lui."
   },
   {
     "key": "event_runaway_trade_successful_band_of_the she_wolf",
     "type": 0,
     "en": "The noble bowed, almost courteously. 'You are not as foolish as you look. Let us hope Her Majesty accepts this. Au revoir.'",
-    "vi": "Quý tộc cúi chào, gần như lịch sự. ‘Ngươi không ngu như vẻ ngoài. Mong rằng Nữ hoàng chấp nhận điều này. Au revoir.’"
+    "vi": "Vị quý tộc khẽ cúi chào, với vẻ nhã nhặn gần như lịch sự. 'Các ngươi không đến nỗi ngốc nghếch như vẻ bề ngoài. Mong rằng Hoàng Hậu sẽ chấp thuận món này. Au revoir.'"
   },
   {
     "key": "event_runaway_trade_successful_philosophers_of_the_natural_order",
     "type": 0,
     "en": " 'You have made your choice,' scoffed the elder philosopher, reaching out to grab [his/her] payment. 'Very well! Enjoy <name>'s company. You deserve each other!'",
-    "vi": " ‘Ngươi đã lựa chọn,’ triết gia lớn tuổi chế giễu, đưa tay nhận khoản thanh toán của [his/her]. ‘Được thôi! Hãy tận hưởng thời gian bên <name>. Hai người xứng đáng với nhau!’"
+    "vi": " 'Các ngươi đã đưa ra lựa chọn của mình,' vị triết gia lớn tuổi cười khẩy, chìa tay giật lấy phần thù lao của [his/her]. 'Tốt thôi! Cứ tự nhiên tận hưởng những ngày tháng bên cạnh <name>. Các ngươi thật xứng đôi vừa lứa!'"
   },
   {
     "key": "event_runaway_trade_successful_society_of_fellows",
     "type": 0,
     "en": "The Dons' cunning plan to capture <name> collapsed somewhat under the considerable weight of their combined intellects, as they argued over the minutia of how to proceed. Ultimately, the boffins agreed to be paid off, and continue scheming elsewhere.",
-    "vi": "Kế hoạch xảo quyệt bắt <name> của các Dons sụp đổ dưới sức nặng của trí tuệ tập thể, khi chúng tranh cãi từng chi tiết nhỏ về cách tiến hành. Cuối cùng, các học giả đồng ý nhận tiền rồi đi nơi khác tiếp tục mưu tính."
+    "vi": "Mưu đồ thâm sâu bắt giữ <name> của các giáo sư đã tự sụp đổ dưới sức nặng của những bộ óc thông thái khi họ mải mê cãi vã từng chi tiết vụn vặt về cách thực hiện. Sau cùng, đám học giả đồng ý nhận tiền chuộc để êm chuyện rồi dắt nhau đi nơi khác tiếp tục bày mưu tính kế."
   },
   {
     "key": "event_runaway_trade_successful_kingdom_of_york",
     "type": 0,
     "en": "The bailiff spat on the floor, presumably to signal she accepted the deal. 'Suit yerself, <name>'s a wrong'un any road.'",
-    "vi": "Viên chấp hành nhổ xuống sàn, có lẽ để ra hiệu rằng bà ta chấp nhận thỏa thuận. ‘Tùy ngươi, <name> vốn là đồ tồi dù thế nào đi nữa.’"
+    "vi": "Mụ chấp sự nhổ toẹt một bãi nước bọt xuống đất, có lẽ là dấu hiệu đồng ý thỏa thuận. 'Tùy các người, đằng nào thì <name> cũng chỉ là một thứ cặn bã.'"
   },
   {
     "key": "event_runaway_trade_successful_heresy_of_the_rose",
     "type": 0,
     "en": "The Heretic circled three times, picking up <village_name>'s offering. 'Blood for blood,' they muttered, as they dragged the dead hen with them into the bushes, and disappeared.",
-    "vi": "Kẻ Dị giáo đi vòng quanh ba lần rồi nhặt lễ vật của <village_name>. ‘Máu đổi máu,’ họ lẩm bẩm, kéo theo con gà chết vào bụi rậm rồi biến mất."
+    "vi": "Tên Dị Giáo đi lượn ba vòng, cúi xuống nhặt món cống nạp của <village_name>. 'Máu đổi lấy máu,' hắn lẩm bẩm, rồi kéo xác con gà mái lủi vào bụi rậm và biến mất dạng."
   },
   {
     "key": "event_runaway_trade_successful_circle_of_avalon",
     "type": 0,
     "en": "The knight accepted with dignity and honour. 'It seems I have more to learn before I am worthy of this prize.' She left with her bright-bannered retinue, and <name> kept their head.",
-    "vi": "Nữ hiệp sĩ chấp nhận với phẩm giá và danh dự. ‘Có vẻ ta còn nhiều điều phải học trước khi xứng đáng với phần thưởng này.’ Cô rời đi cùng đoàn tùy tùng cờ sáng, còn <name> giữ được đầu mình."
+    "vi": "Nữ hiệp sĩ chấp thuận với phong thái đường hoàng và đầy danh dự. 'Xem ra ta vẫn còn phải tôi luyện thêm trước khi xứng đáng với phần thưởng này.' Nàng cùng đoàn hiệp sĩ mang cờ hoa rực rỡ rời đi, và <name> đã giữ được đầu của mình."
   },
   {
     "key": "event_runaway_trade_successful_beirdd_cymraeg",
     "type": 0,
     "en": "Notes of the bard's song carried on the wind as he wandered away, over the hills:\\n\\n\n<i>'I called to them in song, but they did not come along,\\n\nI sang of love's sweet grace, where the willow's shadows throng.\\n\nI pleaded with my strings, yet <name> remained austere,\\n\nNow my heart is aching, but my gold is gathered near.</i>",
-    "vi": "Giai điệu bài hát của người hát rong theo gió khi ông ta đi qua những ngọn đồi:\\n\\n\n<i>'Ta gọi họ bằng khúc ca, nhưng chẳng ai bước đến,\\n\nTa hát về tình yêu dịu ngọt nơi bóng liễu vây quanh.\\n\nTa khẩn cầu bằng dây đàn, vậy mà <name> vẫn lạnh lùng,\\n\nTim ta đau nhói, nhưng vàng đã nằm gọn trong tay.'</i>"
+    "vi": "Những nốt nhạc trong khúc hát của người hát rong bay theo làn gió khi ông dong duổi qua những sườn đồi:\\n\\n\n<i>'Ta cất tiếng hát gọi mời, nhưng bóng người chẳng thấy tới,\\n\nTa hát về ân tình ngọt ngào nơi rặng liễu rủ bóng.\\n\nTa nắn phím đàn khẩn nài, nhưng <name> vẫn sắt đá dửng dưng,\\n\nGiờ đây lòng ta quặn thắt, dẫu vàng bạc đã đầy tay.</i>"
   },
   {
     "key": "event_runaway_trade_successful_progeny_of_the_plague",
     "type": 0,
     "en": "Despite the band's eagerness to fight, the cooler heads of their generals prevailed. 'Come on,' one said, as they all skulked away, grumbling. 'We can get a lot of ale with this ransom.'",
-    "vi": "Dù cả nhóm háo hức chiến đấu, các tướng lĩnh tỉnh táo hơn đã thắng thế. ‘Đi thôi,’ một kẻ nói khi cả bọn lầm lũi rời đi, vừa đi vừa càu nhàu. ‘Khoản tiền chuộc này mua được rất nhiều bia.’"
+    "vi": "Dù đám thuộc hạ vô cùng háo chiến, sự tỉnh táo của những tên thủ lĩnh đã thắng thế. 'Đi thôi,' một tên lên tiếng, khi cả bọn lầm lũi rút lui vừa đi vừa càu nhàu. 'Khoản tiền chuộc này thừa sức mua được cả đống rượu bia.'"
   },
   {
     "key": "event_runaway_trade_successful_ravagers",
     "type": 0,
     "en": "The chef seemed disappointed, 'Ah well. I'll have to adjust the menu for this week. Pity. But I'm sure there are others we can invite for supper, aside from <name>.'",
-    "vi": "Đầu bếp có vẻ thất vọng. ‘À, thôi vậy. Ta phải đổi thực đơn tuần này. Tiếc thật. Nhưng chắc chắn còn người khác có thể mời ăn tối, ngoài <name>.’"
+    "vi": "Tên đầu bếp tỏ vẻ tiếc nuối: 'À, đành vậy. Ta sẽ phải đổi lại thực đơn cho tuần này. Tiếc thật đấy. Nhưng ta chắc chắn ngoài <name> ra, vẫn còn khối kẻ khác để chúng ta mời tới dự tiệc tối.'"
   },
   {
     "key": "event_runaway_trade_successful_forest_bandits",
     "type": 0,
     "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "Cần thương lượng một hồi. Cuối cùng, toán truy tìm miễn cưỡng chấp nhận những gì <village_name> đưa ra và từ bỏ nhiệm vụ bắt <name>."
+    "vi": "Phải trải qua vài lần thương lượng cam go. Nhưng sau cùng toán truy lùng đã miễn cưỡng chấp thuận những gì <village_name> đề nghị, từ bỏ ý định bắt giữ <name>."
   },
   {
     "key": "event_runaway_trade_successful_mountain_bandits",
     "type": 0,
     "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "Cần thương lượng một hồi. Cuối cùng, toán truy tìm miễn cưỡng chấp nhận những gì <village_name> đưa ra và từ bỏ nhiệm vụ bắt <name>."
+    "vi": "Phải trải qua vài lần thương lượng cam go. Nhưng sau cùng toán truy lùng đã miễn cưỡng chấp thuận những gì <village_name> đề nghị, từ bỏ ý định bắt giữ <name>."
   },
   {
     "key": "event_runaway_trade_successful_river_bandits",
     "type": 0,
     "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "Cần thương lượng một hồi. Cuối cùng, toán truy tìm miễn cưỡng chấp nhận những gì <village_name> đưa ra và từ bỏ nhiệm vụ bắt <name>."
+    "vi": "Phải trải qua vài lần thương lượng cam go. Nhưng sau cùng toán truy lùng đã miễn cưỡng chấp thuận những gì <village_name> đề nghị, từ bỏ ý định bắt giữ <name>."
   },
   {
     "key": "event_runaway_trade_successful_looters",
     "type": 0,
     "en": "It took some negotiation. But reluctantly, the search party accepted what <village_name> offered, relinquishing its mission to seize <name>.",
-    "vi": "Cần thương lượng một hồi. Cuối cùng, toán truy tìm miễn cưỡng chấp nhận những gì <village_name> đưa ra và từ bỏ nhiệm vụ bắt <name>."
+    "vi": "Phải trải qua vài lần thương lượng cam go. Nhưng sau cùng toán truy lùng đã miễn cưỡng chấp thuận những gì <village_name> đề nghị, từ bỏ ý định bắt giữ <name>."
   },
   {
     "key": "event_raid_villager_general_accept",
     "type": 0,
     "en": "<name> shuffled slowly towards [his/her] captors, head bowed. This was inevitable, or so you told yourself.",
-    "vi": "<name> cúi đầu, chậm rãi bước về phía những kẻ bắt [his/her]. Bạn tự nhủ rằng chuyện này là không thể tránh khỏi."
+    "vi": "<name> cúi gằm mặt, lê từng bước nặng nề về phía những kẻ bắt giữ [his/her]. Chuyện này là điều không thể tránh khỏi, hoặc chí ít bạn đã tự nhủ với bản thân như vậy."
   },
   {
     "key": "event_runaway_03",
     "type": 0,
     "en": "<name> had bruises on [his/her] arms. [He/She] shrunk from human touch but gladly accepted food and water. <name> expected to be rejected - somewhere outside your gates there was an abuser looking to punish [him/her]. But could you let [him/her] in?",
-    "vi": "<name> có những vết bầm trên tay [his/her]. [He/She] sợ hãi khi bị người khác chạm vào nhưng vui vẻ nhận thức ăn và nước. <name> nghĩ mình sẽ bị từ chối - đâu đó bên ngoài cổng có kẻ bạo hành đang tìm cách trừng phạt [him/her]. Nhưng bạn có thể cho [him/her] vào không?"
+    "vi": "<name> đầy những vết bầm tím trên cánh tay [his/her]. [He/She] rụt người lại sợ hãi trước những cái chạm nhưng vẫn biết ơn nhận lấy thức ăn và nước uống. <name> cứ ngỡ mình sẽ bị xua đuổi — ở nơi nào đó ngoài cổng làng, có một kẻ bạo hành đang lùng sục để trừng phạt [him/her]. Liệu bạn có mở cửa cho [him/her] vào?"
   },
   {
     "key": "event_runaway_03_b",
     "type": 0,
     "en": "They wheedled, they begged, and finally they threatened murder if you didn't hand over their spouse. The thug wanted you to quit shielding <name>...so they could 'start over.' <name> was terrified.",
-    "vi": "Chúng nài nỉ, van xin rồi cuối cùng dọa giết người nếu bạn không giao người bạn đời. Tên côn đồ muốn bạn thôi che chở <name>... để chúng có thể ‘làm lại từ đầu.’ <name> vô cùng sợ hãi."
+    "vi": "Hắn dỗ dành, nài nỉ, rồi cuối cùng đe dọa sẽ giết sạch nếu bạn không giao nộp vợ/chồng của hắn. Tên côn đồ muốn bạn ngừng bao bọc cho <name>... để chúng có thể 'bắt đầu lại'. <name> vô cùng khiếp đảm."
   },
   {
     "key": "event_runaway_03_b_accept",
     "type": 0,
     "en": "<name> shuffled slowly towards [his/her] abuser, head bowed. You looked away, hoping that discretion was the better part of valour.",
-    "vi": "<name> cúi đầu, chậm rãi bước về phía kẻ bạo hành [his/her]. Bạn ngoảnh đi, hy vọng rằng biết nhẫn nhịn cũng là một dạng dũng khí."
+    "vi": "<name> cúi gằm mặt, chậm rãi bước về phía kẻ bạo hành [his/her]. Bạn ngoảnh mặt đi nơi khác, tự nhủ rằng biết nhẫn nhịn lui bước cũng là một phần của sự can trường."
   },
   {
     "key": "event_runaway_05_b_accept",
     "type": 0,
     "en": "<name> shuffled slowly towards [his/her] captors, eyes wide with terror. [He/She] would be lucky to see another sunrise.",
-    "vi": "<name> mắt mở để vì kinh hoàng, chậm rãi bước về phía những kẻ bắt [his/her]. [He/She] may mắn lắm mới còn thấy được bình minh ngày mai."
+    "vi": "<name> lê bước chậm rãi về phía những kẻ bắt giữ [his/her], đôi mắt mở to đầy kinh hoàng. [He/She] may mắn lắm mới có cơ hội nhìn thấy ánh bình minh ngày mai."
   },
   {
     "key": "event_runaway_villager_cant_leave_01",
     "type": 0,
     "en": "The enemy was not amused. They departed raging, accusing you of trickery.",
-    "vi": "Kẻ địch không hề vui vẻ. Chúng giận dữ bỏ đi, buộc tội bạn lừa gạt."
+    "vi": "Kẻ địch tức tối tột cùng. Chúng hậm hực rút đi trong giận dữ, lớn tiếng cáo buộc bạn dùng mưu mẹo lừa gạt."
   },
   {
     "key": "event_runaway_villager_cant_leave_02",
     "type": 0,
     "en": "The enemy was not amused. They accused you of trickery, and prepared to attack!",
-    "vi": "Kẻ địch không hề vui vẻ. Chúng buộc tội bạn lừa gạt rồi chuẩn bị tấn công!"
+    "vi": "Kẻ địch tức tối tột cùng. Chúng cáo buộc bạn dùng mưu mẹo lừa gạt và chuẩn bị lao vào tấn công!"
   },
   {
     "key": "event_supernatural_01",
     "type": 0,
     "en": "Settlers like their folk traditions. So, when a figure with a great wooden head topped with bulls' horns cavorted through <village_name>, it was just a bit of fun. The next morning, <resource> was missing. None of the settlers owned up. Was it Old Nick?",
-    "vi": "Dân làng thích những truyền thống dân gian. Vì vậy, khi một hình nhân đầu gỗ khổng lồ đội sừng bò nhảy múa qua <village_name>, mọi người chỉ xem đó là trò vui. Sáng hôm sau, <resource> biến mất. Không dân làng nào nhận. Có phải Old Nick không?"
+    "vi": "Dân định cư vốn rất chuộng các phong tục dân gian. Vì thế, khi một bóng hình đội chiếc đầu gỗ khổng lồ gắn sừng bò nhảy múa nhăng nhố qua <village_name>, ai nấy chỉ nghĩ đó là trò đùa vui. Nhưng sáng hôm sau, số <resource> đã không cánh mà bay. Không một dân làng nào dám nhận. Phải chăng đó chính là Quỷ Old Nick?"
   },
   {
     "key": "event_supernatural_02",
     "type": 0,
     "en": "When they heard howling and baying, the settlers huddled closer. The Welsh said it's Gwyn app Nudd and the hounds of Annwn, but most of <village_name> favoured Woden or Herne. The terror was real: People and animals go missing when the Hunt is abroad.",
-    "vi": "Khi nghe tiếng tru và tiếng sủa, dân làng túm tụm lại gần nhau. Người Wales nói đó là Gwyn ap Nudd và đàn chó săn Annwn, nhưng phần lớn người <village_name> tin vào Woden hoặc Herne. Nỗi kinh hoàng là có thật: người và vật đều biến mất khi Cuộc Săn Hoang dã diễn ra."
+    "vi": "Khi nghe thấy tiếng sói tru và chó sủa vang vọng, dân định cư nép lại gần nhau hơn. Người xứ Wales bảo đó là Gwyn ap Nudd cùng bầy chó săn xứ Annwn, nhưng phần lớn cư dân <village_name> lại tin đó là Woden hoặc Herne. Nỗi khiếp sợ là hoàn toàn có thật: Cả người lẫn vật đều mất tích bí ẩn mỗi khi Cuộc Săn Hoang Dã quét qua vùng đất này."
   },
   {
     "key": "event_supernatural_03",
     "type": 0,
     "en": "Oxford sages warned of a sickness of itching, vomiting and blackened extremities, which strikes after damp weather at harvest time. The faithful simply blamed Beelzebub. Either way, stricken <village_name> workers became delirious and unproductive.",
-    "vi": "Các học giả Oxford cảnh báo về căn bệnh gây ngứa, nôn mửa và tứ chi đen sạm, xuất hiện sau thời tiết ẩm vào mùa thu hoạch. Người có đức tin chỉ đổ lỗi cho Beelzebub. Dù thế nào, người lao động <village_name> mắc bệnh đều mê sảng và mất khả năng làm việc."
+    "vi": "Các hiền triết Oxford từng cảnh báo về một chứng bệnh gây ngứa ngáy, nôn mửa và hoại tử thâm đen các đầu ngón tay chân, thường ập đến sau những đợt ẩm ướt vào mùa thu hoạch. Những người mộ đạo chỉ đơn giản đổ lỗi cho Quỷ Vương Beelzebub. Dù sao đi nữa, những người lao động khốn khổ của <village_name> khi mắc bệnh đều rơi vào mê sảng và mất hoàn toàn sức lao động."
   },
   {
     "key": "event_thunderstorm_01",
     "type": 0,
     "en": "Unexpected thunder roared, crashing through the bruised sky. A violent presence, intruding like a bad omen, held echos of a heathen god. Fork lightening flickered and blazed towards the ground, splitting a mighty oak. ",
-    "vi": "Tiếng sấm bất ngờ gầm vang xuyên qua bầu trời bầm tím. Một sự hiện diện hung bạo xâm nhập như điềm dữ, vang vọng sức mạnh của một vị thần ngoại giáo. Tia chớp ngoằn ngoèo lóe sáng rồi giáng xuống, xẻ đôi cây sồi lớn. "
+    "vi": "Tiếng sấm sét bất thình lình gầm vang rền rĩ, xé toạc bầu trời xám xịt. Một sự hiện diện hung bạo ập đến tựa như điềm gở, mang theo âm hưởng giận dữ của một vị thần ngoại giáo. Tia sét chẻ nhánh chớp lóe rồi giáng thẳng xuống đất, chẻ đôi một cây sồi cổ thụ to lớn. "
   },
   {
     "key": "game_event_type_raid",
     "type": 0,
     "en": "Raid",
-    "vi": "Đột kích"
+    "vi": "Đột Kích"
   },
   {
     "key": "raid_won",
     "type": 0,
     "en": "This time, <village_name> won the day. Battleweary, its warriors gave thanks.",
-    "vi": "Lần này, <village_name> đã chiến thắng. Những chiến binh mệt mỏi sau trận chiến dâng lời tạ ơn."
+    "vi": "Lần này, <village_name> đã giành thắng lợi vẻ vang. Mệt nhoài sau trận huyết chiến, những chiến binh đồng thanh dâng lời tạ ơn."
   },
   {
     "key": "raid_lost",
     "type": 0,
     "en": "Ill-prepared and overpowered, <village_name> conceded defeat in this battle.",
-    "vi": "Thiếu chuẩn bị và bị áp đảo, <village_name> nhận thất bại trong trận này."
+    "vi": "Do thiếu chuẩn bị và bị áp đảo hoàn toàn, <village_name> đành phải chấp nhận thất bại trong trận chiến này."
   },
   {
     "key": "raid_tie",
     "type": 0,
     "en": "Neither <village_name> nor its foe gained the upper hand in this clash.",
-    "vi": "Cả <village_name> lẫn kẻ thù đều không chiếm được thế thượng phong trong cuộc đụng độ."
+    "vi": "Cả <village_name> lẫn kẻ thù đều không chiếm được thế thượng phong trong cuộc giáp lá cà này."
   },
   {
     "key": "raid_won_name",
     "type": 0,
     "en": "Victory!",
-    "vi": "Chiến thắng!"
+    "vi": "Khải Hoàn!"
   },
   {
     "key": "raid_lost_name",
     "type": 0,
     "en": "Defeat",
-    "vi": "Thất bại"
+    "vi": "Thất Bại"
   },
   {
     "key": "raid_tie_name",
     "type": 0,
     "en": "Tie",
-    "vi": "Hòa"
+    "vi": "Bất Phân Thắng Bại"
   },
   {
     "key": "raid_outcome",
     "type": 0,
     "en": "The beleaguered settlers came under attack in the <season> of <year>. Their ordeal continued for <raid_duration>.\n<if_all_villagers_survived>Mercifully, all settlers survived the raid.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Not everyone survived this fateful encounter. <village_name> lost <villagers_died_count> of its people.<style=DefaultOrange> <villagers_died></style> died during the attack.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> sworn enemies died during the fight.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> was the bravest of the settlers, dealing the most blows to the foe.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Settlers chose not to engage with the enemy, a stratagem born of stealth, rather than cowardice.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> took the most damage from the enemy, thinking only of defending <village_name> in its hour of need.</if_most_damage_taken>\n<if_no_most_damage_taken>Thankfully, no settler was hurt by enemy weapons.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> blocked the most hits, it should be recorded.</if_most_hits_blocked>\n<if_buildings_destroyed>Some of the buildings of <village_name> were destroyed under the bombardment of enemy weapons: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>",
-    "vi": "Những dân làng khốn khổ bị tấn công vào <season> năm <year>. Cuộc khốn cùng kéo dài <raid_duration>.\n<if_all_villagers_survived>May mắn thay, tất cả dân làng đều sống sót sau cuộc đột kích.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Không phải ai cũng sống sót sau cuộc chạm trán định mệnh. <village_name> mất <villagers_died_count> người.<style=DefaultOrange> <villagers_died></style> đã chết trong cuộc tấn công.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> kẻ thù thề trung thành đã chết trong trận chiến.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> là dân làng dũng cảm nhất, giáng nhiều đòn nhất vào kẻ thù.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Dân làng chọn không giao chiến, một chiến thuật dựa trên sự lén lút chứ không phải hèn nhát.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> chịu nhiều sát thương nhất từ kẻ địch, chỉ nghĩ đến việc bảo vệ <village_name> trong lúc nguy cấp.</if_most_damage_taken>\n<if_no_most_damage_taken>May mắn thay, không dân làng nào bị vũ khí địch làm bị thương.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> đỡ được nhiều đòn nhất, cần ghi nhận điều đó.</if_most_hits_blocked>\n<if_buildings_destroyed>Một số công trình của <village_name> bị phá hủy dưới trận bắn phá của kẻ địch: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>"
+    "vi": "Những dân định cư khốn khổ đã bị tấn công vào <season> năm <year>. Cuộc thử thách cam go kéo dài suốt <raid_duration>.\n<if_all_villagers_survived>Thật may mắn thay, tất cả dân định cư đều sống sót qua cuộc đột kích.</if_all_villagers_survived>\n<if_not_all_villagers_survived>Không phải ai cũng sống sót sau cuộc chạm trán định mệnh này. <village_name> đã mất đi <villagers_died_count> người.<style=DefaultOrange> <villagers_died></style> đã hy sinh trong đợt tấn công.</if_not_all_villagers_survived>\n<if_enemy_died><style=DefaultRed><enemy_dead_count></style> kẻ thù truyền kiếp đã bỏ mạng trong trận chiến.</if_enemy_died>\n<if_most_active_in_fight><style=DefaultOrange><most_active_in_fight></style> là người dũng cảm nhất trong số các dân định cư, giáng nhiều đòn chí mạng nhất vào kẻ thù.</if_most_active_in_fight>\n<if_no_most_active_in_fight>Các dân định cư đã chọn không trực diện giao chiến, một mưu kế ẩn nấp khôn ngoan chứ không phải do hèn nhát.</if_no_most_active_in_fight>\n<if_most_damage_taken><style=DefaultOrange><most_damage_taken></style> là người chịu nhiều thương tích nhất từ kẻ thù, với tâm niệm duy nhất là bảo vệ <village_name> trong thời khắc nguy nan.</if_most_damage_taken>\n<if_no_most_damage_taken>Thật may mắn thay, không một dân định cư nào bị tổn hại bởi vũ khí quân thù.</if_no_most_damage_taken>\n<if_most_hits_blocked><style=DefaultOrange><most_hits_blocked></style> đã đỡ gạt được nhiều đòn tấn công nhất, chiến công này rất đáng được ghi chép vào sử sách.</if_most_hits_blocked>\n<if_buildings_destroyed>Một số công trình của <village_name> đã bị phá hủy dưới hỏa lực của quân thù: <style=AltColor><buildings_destroyed></style></if_buildings_destroyed>"
   },
   {
     "key": "raid_outcome_resources",
@@ -567,181 +567,181 @@
     "key": "dialogOptionEffect_PossibleRaid",
     "type": 0,
     "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
-    "vi": "<style=DefaultRed>Hãy chuẩn bị cho một cuộc tấn công có thể xảy ra trong vài ngày tới</style>"
+    "vi": "<style=DefaultRed>Hãy đề phòng một cuộc tấn công có thể xảy ra trong vài ngày tới</style>"
   },
   {
     "key": "dialogOptionEffect_RaidImminent",
     "type": 0,
     "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
-    "vi": "<style=DefaultRed>Kẻ địch đã đến và sẽ tấn công khu định cư của bạn</style>"
+    "vi": "<style=DefaultRed>Kẻ địch đã kéo đến và chuẩn bị tấn công khu định cư của bạn</style>"
   },
   {
     "key": "dialogOptionEffect_AnimalRaidImminent",
     "type": 0,
     "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
-    "vi": "<style=DefaultRed>Một đàn thú hoang đã xuất hiện gần khu định cư. Chúng sẽ rời đi sau vài ngày. Để chúng yên có thể tốt hơn là mạo hiểm khiến ai đó bị thương.</style>"
+    "vi": "<style=DefaultRed>Một đàn thú hoang đã xuất hiện gần khu định cư. Chúng sẽ rời đi sau vài ngày. Tốt nhất là không nên kinh động đến chúng để tránh nguy cơ có người bị thương.</style>"
   },
   {
     "key": "eventOptionEffect_PossibleRaid",
     "type": 0,
     "en": "<style=DefaultRed>Expect a possible attack in a couple of days</style>",
-    "vi": "<style=DefaultRed>Hãy chuẩn bị cho một cuộc tấn công có thể xảy ra trong vài ngày tới</style>"
+    "vi": "<style=DefaultRed>Hãy đề phòng một cuộc tấn công có thể xảy ra trong vài ngày tới</style>"
   },
   {
     "key": "eventOptionEffect_RaidImminent",
     "type": 0,
     "en": "<style=DefaultRed>Enemies have arrived and will attack your settlement</style>",
-    "vi": "<style=DefaultRed>Kẻ địch đã đến và sẽ tấn công khu định cư của bạn</style>"
+    "vi": "<style=DefaultRed>Kẻ địch đã kéo đến và chuẩn bị tấn công khu định cư của bạn</style>"
   },
   {
     "key": "eventOptionEffect_AnimalRaidImminent",
     "type": 0,
     "en": "<style=DefaultRed>A pack of wild animals has arrived near your settlement. It will leave in a couple of days. It may be better to leave them undisturbed than to risk someone getting hurt.</style>",
-    "vi": "<style=DefaultRed>Một đàn thú hoang đã xuất hiện gần khu định cư. Chúng sẽ rời đi sau vài ngày. Để chúng yên có thể tốt hơn là mạo hiểm khiến ai đó bị thương.</style>"
+    "vi": "<style=DefaultRed>Một đàn thú hoang đã xuất hiện gần khu định cư. Chúng sẽ rời đi sau vài ngày. Tốt nhất là không nên kinh động đến chúng để tránh nguy cơ có người bị thương.</style>"
   },
   {
     "key": "event_name_shakedown_general",
     "type": 0,
     "en": "Extortion by <faction_name>",
-    "vi": "Tống tiền bởi <faction_name>"
+    "vi": "Hành Vi Tống Tiền Của <faction_name>"
   },
   {
     "key": "event_shakedown_negotiator_arrival",
     "type": 0,
     "en": "A figure from <faction_name> appears just outside <village_name>. [He/She] seeks an audience to strike a deal.",
-    "vi": "Một người từ <faction_name> xuất hiện ngay bên ngoài <village_name>. [He/She] muốn gặp để thương lượng."
+    "vi": "Một nhân vật đại diện cho <faction_name> xuất hiện ngay bên ngoài <village_name>. [He/She] muốn diện kiến để tiến hành thương lượng."
   },
   {
     "key": "event_shakedown_general",
     "type": 0,
     "en": " 'Such a lovely place, <village_name>' the stranger drawled. 'For a reasonable fee, we can ensure nothing happens to spoil it.' [His/Her] meaning was clear.",
-    "vi": " ‘Một nơi thật xinh đẹp, <village_name>,’ người lạ kéo dài giọng. ‘Với một khoản phí hợp lý, chúng ta có thể đảm bảo không có chuyện gì phá hỏng nơi này.’ Ý của [His/Her] rất rõ ràng."
+    "vi": " ‘Một nơi chốn thật thanh bình, <village_name>,’ kẻ lạ mặt cất giọng kéo dài đầy ngụ ý. ‘Với một khoản phí hợp lý, chúng ta có thể đảm bảo không có điều gì tồi tệ phá hỏng nơi này.’ Dã tâm của [His/Her] đã quá rõ ràng."
   },
   {
     "key": "event_shakedown_church_of_third_coming",
     "type": 0,
     "en": " 'God commands us to punish <village_name> for its manifold sins,' the zealot shrieked. 'Pay us penance, and we will offer you His mercy instead.'",
-    "vi": " ‘Chúa lệnh cho chúng ta trừng phạt <village_name> vì vô số tội lỗi,’ kẻ cuồng tín rít lên. ‘Hãy trả tiền chuộc tội, đổi lại chúng ta sẽ ban cho các ngươi lòng thương xót của Ngài.’"
+    "vi": " ‘Chúa đã truyền lệnh cho chúng ta trừng phạt <village_name> vì vô số tội lỗi tày trời,’ kẻ cuồng tín rít lên chói tai. ‘Hãy nộp tiền chuộc tội, và chúng ta sẽ ban cho các ngươi lòng từ bi của Ngài.’"
   },
   {
     "key": "event_shakedown_ancrene_disciples",
     "type": 0,
     "en": "The mystic leaned forward. 'St Menwreda appeared in a dream, showing <village_name> purified by fire. What offering will you make for our prayers, to avoid this terrible fate?'",
-    "vi": "Kẻ huyền thuật cúi người về phía trước. ‘Thánh Menwreda hiện ra trong giấc mơ, cho thấy <village_name> được thanh tẩy bằng lửa. Các ngươi sẽ dâng lễ vật gì cho lời cầu nguyện của chúng ta để tránh số phận khủng khiếp này?’"
+    "vi": "Kẻ thần bí rướn người về phía trước. ‘Thánh Menwreda đã hiện về trong giấc mộng, chỉ ra rằng <village_name> sẽ được thanh tẩy bằng lửa. Các ngươi sẽ dâng cúng lễ vật gì để chúng ta cầu nguyện giúp các ngươi tránh khỏi số kiếp khủng khiếp này?’"
   },
   {
     "key": "event_shakedown_faithful_sons_of_england",
     "type": 0,
     "en": "The messenger came straight to the point. 'Sir Hugh Gaveston has decreed that <village_name> is to benefit from our protection. And that you must pay for it. Settlements that do not comply will be razed to the ground.'",
-    "vi": "Người đưa tin đi thẳng vào vấn đề. ‘Ngài Hugh Gaveston đã ra lệnh để <village_name> được hưởng sự bảo vệ của chúng ta. Và các ngươi phải trả tiền cho điều đó. Khu định cư nào không tuân sẽ bị san thành bình địa.’"
+    "vi": "Tên sứ giả đi thẳng ngay vào vấn đề. ‘Ngài Hugh Gaveston đã ban sắc lệnh rằng <village_name> sẽ được hưởng sự bảo hộ của chúng ta. Và các ngươi phải trả phí cho điều đó. Khu định cư nào không tuân lệnh sẽ bị san phẳng thành bình địa.’"
   },
   {
     "key": "event_shakedown_band_of_the she_wolf",
     "type": 0,
     "en": " '<village_name> lands are under the protetion of my lord, the Baron.' The negotiator gave a Gallic shrug. 'Peasants who pay him rent generally live longer, vous comprenez?'",
-    "vi": " ‘Đất đai <village_name> nằm dưới sự bảo hộ của lãnh chúa ta, Nam tước.’ Người thương lượng nhún vai kiểu Gaulois. ‘Nông dân trả tiền thuê cho ông ấy thường sống lâu hơn, vous comprenez?’"
+    "vi": " ‘Đất đai thuộc <village_name> nằm dưới sự bảo hộ của lãnh chúa chúng ta, Nam tước.’ Kẻ đàm phán nhún vai kiểu Pháp. ‘Những nông dân biết điều nộp tiền tô cho ngài thường sẽ sống thọ hơn đấy, vous comprenez?’"
   },
   {
     "key": "event_shakedown_philosophers_of_the_natural_order",
     "type": 0,
     "en": "The philosopher was hard to argue with. 'Our continuous study benefits the entire region,' [He/She] said. 'And <village_name> must contribute. We understand Nature's immeasurable forces, and you don't want those turned against you now, do you?'",
-    "vi": "Thật khó tranh luận với triết gia. ‘Việc nghiên cứu không ngừng của chúng ta mang lợi ích cho cả vùng,’ [He/She] nói. ‘Và <village_name> phải đóng góp. Chúng ta hiểu những sức mạnh vô hạn của Tự nhiên, các ngươi không muốn chúng quay lại chống mình chứ?’"
+    "vi": "Gã triết gia dùng những lý lẽ đanh thép: ‘Những nghiên cứu miệt mài của chúng ta mang lại lợi ích cho cả vùng đất này,’ [He/She] nói. ‘Và <village_name> phải có trách nhiệm đóng góp. Chúng ta thấu hiểu quyền năng vô tận của Tự Nhiên, và các ngươi hẳn không muốn những thế lực ấy quay lại trừng phạt mình chứ?’"
   },
   {
     "key": "event_shakedown_society_of_fellows",
     "type": 0,
     "en": "The negotiator was wearing a bloody apron. 'We need corpses for our plague medicine experiments. <village_name> settlers have been selected to take part! We're keen to get started, but you can opt out for a reasonable fee.'",
-    "vi": "Người thương lượng mặc tạp dề đẫm máu. ‘Chúng ta cần xác chết cho thí nghiệm thuốc dịch bệnh. Dân làng <village_name> đã được chọn tham gia! Chúng ta rất nóng lòng bắt đầu, nhưng các ngươi có thể từ chối với một khoản phí hợp lý.’"
+    "vi": "Tên đàm phán khoác trên mình chiếc tạp dề đẫm máu: ‘Chúng ta cần xác chết để phục vụ cho các nghiên cứu điều chế thuốc dịch hạch. Dân làng của <village_name> đã được chọn để tham gia! Chúng ta rất nóng lòng bắt đầu, nhưng các ngươi có thể xin miễn trừ nếu nộp một khoản phí thỏa đáng.’"
   },
   {
     "key": "event_shakedown_kingdom_of_york",
     "type": 0,
     "en": " 'It behoves all working peasants to contribute to our cause,' said the negotiator, feet planted firmly on the soil. 'If you refuse, we must assume you harbour Monarchist sympathisers, and punish <village_name> accordingly. So are you paying, or what?' ",
-    "vi": " ‘Mọi nông dân đang làm việc đều phải đóng góp cho chính nghĩa của chúng ta,’ người thương lượng nói. ‘Nếu từ chối, chúng ta phải cho rằng các ngươi chứa chấp kẻ ủng hộ Quân chủ và sẽ trừng phạt <village_name> thích đáng. Vậy trả tiền hay không?’ "
+    "vi": "‘Mọi người nông dân lao động đều có bổn phận cống hiến cho đại nghiệp của chúng ta,’ tên sứ giả đứng hiên ngang trên mảnh đất nói. ‘Nếu các ngươi từ chối, chúng ta buộc phải xem các ngươi là những kẻ chứa chấp bè lũ Bảo Hoàng và sẽ trừng phạt <village_name> tương xứng. Vậy các ngươi chịu nộp tiền hay sao?’"
   },
   {
     "key": "event_shakedown_heresy_of_the_rose",
     "type": 0,
     "en": " 'Now society is over, I can just tell you to give me your coin. You know what we Heretics are like - we will bring chaos and death to <village_name> if you decide not to pay.'",
-    "vi": " ‘Giờ xã hội đã tan vỡ, ta có thể thẳng thừng bảo ngươi đưa tiền. Ngươi biết bọn Dị giáo chúng ta rồi đấy - nếu không trả, chúng ta sẽ đem hỗn loạn và cái chết đến <village_name>.’"
+    "vi": "‘Trật tự xã hội cũ đã sụp đổ, giờ đây ta yêu cầu các ngươi phải giao nộp tiền của. Các ngươi thừa biết phe Dị Giáo bọn ta như thế nào rồi đấy — bọn ta sẽ gieo rắc hỗn loạn và chết chóc lên <village_name> nếu các ngươi dám không nộp tiền.’"
   },
   {
     "key": "event_shakedown_circle_of_avalon",
     "type": 0,
     "en": "Who would anger the Druids? Not <village_name>, surely? A simple offering can ensure Myrddin's dragons stay sleeping. You really don't want to feel their fiery breath...'",
-    "vi": "Ai lại muốn chọc giận các Đạo sĩ? Chắc chắn không phải <village_name> chứ? Một lễ vật đơn giản có thể bảo đảm những con rồng của Myrddin tiếp tục ngủ yên. Bạn thật sự không muốn cảm nhận hơi thở rực lửa của chúng đâu...’"
+    "vi": "‘Ai lại dại dột đi chọc giận các Tu sĩ Druid chứ? Chắc chắn không phải là <village_name> rồi, đúng không? Một lễ vật nhỏ dâng lên có thể đảm bảo những con rồng của Myrddin tiếp tục an giấc ngàn thu. Các ngươi hẳn không hề muốn nếm trải hơi thở rực lửa của chúng đâu...’"
   },
   {
     "key": "event_shakedown_beirdd_cymraeg",
     "type": 0,
     "en": "<i>' 'Heed this bard's advice,\\n\nlet generosity prevail,\\n\nFor with coin's exchange,\\nyour fortune shall not fail.\\n\nWith melodies of joy, we'll bid you adieu,\\n\nPay the piper, dear <village_name>,\\n\nand let blessings ensue.'</i>'",
-    "vi": "<i>' 'Hãy lắng nghe lời khuyên của người hát rong,\\n\nđể lòng hào hiệp dẫn lối tương phùng,\\n\nBởi lẽ khi tiền vàng trao tay,\\nđổi lấy vận may mãi vững bền.\\n\nVới khúc hoan ca, chúng tôi xin kính chào từ biệt,\\n\nHãy trả công cho người thổi sáo, hỡi <village_name> thân yêu,\\n\nvà đón nhận phúc lành tuôn chảy dạt dào.'</i>'"
+    "vi": "<i>‘Hãy lắng nghe lời khuyên của người hát rong,\\n\nđể lòng hào hiệp rạng rỡ muôn nơi,\\n\nBởi với bạc vàng trao đổi,\\nvận may của bạn sẽ chẳng bao giờ phai.\\n\nVới những giai điệu hân hoan, chúng tôi xin từ biệt,\\n\nHãy trả công cho nhạc công, hỡi <village_name>,\\n\nvà đón nhận muôn vàn phúc lành.’</i>"
   },
   {
     "key": "event_shakedown_progeny_of_the_plague",
     "type": 0,
     "en": " 'We are hungry. And the settlers of <village_name> look plump.' The cannibal licked [his/her] lips. 'But we are not unreasonable. If you pay enough, we will hunt elsewhere.'",
-    "vi": " 'Chúng ta đang đói cồn cào. Và dân làng của <village_name> trông mới béo tốt đẫy đà làm sao.' Tên ăn thịt người liếm bờ môi của [his/her]. 'Nhưng bọn ta cũng không phải phường vô lý. Nếu các ngươi chi trả đủ tiền chuộc, bọn ta sẽ chuyển sang săn mồi ở nơi khác.'"
+    "vi": "‘Bọn ta đang đói. Và dân làng của <village_name> trông béo tốt đấy.’ Tên ăn thịt người liếm môi của [his/her] đầy thèm thuồng. ‘Nhưng bọn ta không phải là kẻ vô lý. Nếu các ngươi trả đủ tiền, bọn ta sẽ đi săn lùng ở nơi khác.’"
   },
   {
     "key": "event_shakedown_ravagers",
     "type": 0,
     "en": "The chef drove a hard bargain. 'I have a selection of delicious blood pudding here for sale. I'm always seeking out local ingredients, perhaps some <village_name> citizens? But I can be incentivised to gather meat from further afield, for a price.",
-    "vi": "Tên đầu bếp mặc cả vô cùng rắn rỏi. ‘Ta có một mẻ bánh dồi huyết thơm ngon hảo hạng ở đây để bán. Ta luôn tìm kiếm nguồn nguyên liệu tươi ngon tại chỗ, biết đâu là vài người dân <village_name>? Nhưng ta hoàn toàn có thể được khích lệ để đi thu gom thịt ở những vùng xa hơn, miễn là được giá.’"
+    "vi": "Gã đầu bếp đưa ra một cuộc mặc cả gay gắt: ‘Ta có một mẻ dồi máu tươi ngon tuyệt hảo ở đây để bán. Ta luôn tìm kiếm nguyên liệu tươi ngon tại địa phương, hay là vài người dân <village_name> nhé? Nhưng nếu được trả giá cao, ta sẵn lòng đi gom thịt ở những vùng xa hơn.’"
   },
   {
     "key": "event_shakedown_forest_bandits",
     "type": 0,
     "en": "It was hard to tell if [he/she] was animal or human. 'The Wild Hunt rides through <village_name>,' [he/she] growled. 'Pay or be prey, I don't care.'",
-    "vi": "Thật khó để phân biệt xem [he/she] là thú dữ hay con người. 'Đoàn Săn Bắn Hoang Dã đang quét qua <village_name>,' [he/she] gầm ghè trong cổ họng. 'Nộp tiền hoặc trở thành con mồi, ta chẳng màng quan tâm.'"
+    "vi": "Thật khó phân biệt [he/she] là người hay dã thú. ‘Cuộc Săn Hoang Dã đang càn quét qua <village_name>,’ [he/she] gầm gừ. ‘Nộp tiền hoặc trở thành con mồi, ta chẳng thèm bận tâm.’"
   },
   {
     "key": "event_shakedown_mountain_bandits",
     "type": 0,
     "en": "The wildling's hide smelled sour and filthy. 'A hoard of mountain clan surrounds <village_name>,' [he/she] said. 'You will not survive our attack. So make it worth our while to walk to the next settlement and destroy them in your stead.'",
-    "vi": "Bộ da thú của gã người man rợ bốc mùi chua loét và bẩn thỉu. ‘Cả một bộ tộc vùng sơn cước đang bủa vây <village_name>,’ [he/she] nói. ‘Các ngươi sẽ chẳng thể nào sống sót qua đợt tấn công của chúng ta. Vậy nên hãy trả công hậu hĩnh để chúng ta cất bước sang khu định cư tiếp theo và san phẳng nơi đó thay vì động đến các ngươi.’"
+    "vi": "Lớp da thú của tên man tộc bốc mùi chua loét và bẩn thỉu. ‘Một toán quân miền núi đang bao vây <village_name>,’ [he/she] nói. ‘Các ngươi không sống nổi qua đợt tấn công đâu. Hãy nộp đủ đồ quý giá để bọn ta bỏ qua và kéo sang cướp ngôi làng tiếp theo thay vì tiêu diệt các ngươi.’"
   },
   {
     "key": "event_shakedown_river_bandits",
     "type": 0,
     "en": " 'Drowning is a painful way to die.' The pirate mused to [him/her]self. 'It's customary to offer something to the ferryman... and I'm sure the folk of <village_name> all want to keep their heads above water.'",
-    "vi": " 'Chết đuối quả là một cái chết vô cùng đau đớn và quằn quại.' Tên hải tặc tự lẩm bẩm với chính bản thân [him/her]. 'Xưa nay người ta vẫn có tục lệ dâng lễ vật cho người lái đò đưa tang... và ta tin chắc rằng con dân <village_name> đều tha thiết muốn giữ đầu mình nổi trên mặt nước.'"
+    "vi": "‘Chết đuối là một cái chết vô cùng đau đớn.’ Tên hải tặc lẩm bẩm với chính [him/her] mình. ‘Luật tục xưa nay là phải trả tiền cho người lái đò... và ta tin chắc người dân <village_name> đều muốn giữ cho đầu mình nổi trên mặt nước.’"
   },
   {
     "key": "event_shakedown_looters",
     "type": 0,
     "en": " 'You know the score. We loot, you die. Unless you want to bribe us with something. But make it worthwhile, I don't want to waste time chatting.'",
-    "vi": "‘Ngươi biết rõ luật chơi rồi đấy. Chúng ta cướp bóc, các ngươi đền mạng. Trừ phi các ngươi biết điều hối lộ cho chúng ta thứ gì đó ra trò. Nhưng nhớ phải xứng đáng, ta không rảnh rỗi để phí thời gian tán gẫu đâu.’"
+    "vi": "‘Các ngươi biết luật rồi đấy. Bọn ta cướp bóc, còn các ngươi mất mạng. Trừ phi các ngươi muốn đút lót cho bọn ta thứ gì đó. Nhưng phải cho đáng giá vào, ta không rảnh rỗi đứng đây tán gẫu đâu.’"
   },
   {
     "key": "event_shakedown_scourge",
     "type": 0,
     "en": "Ragged breath escaped from the foetid darkness beneath its hood. Can the Scourge can be bargained with? Maybe settlers of <village_name> could try to throw it something, and hope it goes away.",
-    "vi": "Tiếng thở khò khè hổn hển phát ra từ bóng tối hôi thối ẩn sâu dưới lớp mũ trùm. Liệu có thể thương lượng với thực thể Hiểm Họa này không? Có lẽ dân làng <village_name> nên thử ném cho nó một chút của cải, với hy vọng mong manh rằng nó sẽ tự động biến mất."
+    "vi": "Hơi thở đứt quãng phì phò phát ra từ bóng tối xú uế ẩn dưới chiếc mũ trùm. Liệu có thể thương lượng được với Tai Ương hay không? Có lẽ dân định cư <village_name> nên thử ném cho nó thứ gì đó, với hy vọng mong manh rằng nó sẽ tự động bỏ đi."
   },
   {
     "key": "event_shakedown_demands_satisfied",
     "type": 0,
     "en": "<faction_name> appeared satisfied with what you offered in exchange for protection. As they disappeared into the distance, you had the uncomfortable realisation that they would be back. ",
-    "vi": "<faction_name> có vẻ rất hài lòng với những của cải mà bạn đã giao nộp để đổi lấy sự bình yên. Khi bóng dáng chúng khuất dần nơi chân trời, trong lòng bạn dâng lên một dự cảm bất an rằng chắc chắn chúng sẽ còn quay lại tống tiền."
+    "vi": "<faction_name> có vẻ hài lòng với những gì bạn đã cống nộp để đổi lấy sự bình yên. Khi bóng dáng chúng khuất dần phía xa, trong lòng bạn dâng lên nỗi bất an rằng chắc chắn chúng sẽ còn quay lại. "
   },
   {
     "key": "event_answer_shakedown_decline",
     "type": 0,
     "en": "The people of <village_name> said 'no'. ",
-    "vi": "Người dân của <village_name> dứt khoát đáp: 'KHÔNG BAO GIỜ'."
+    "vi": "Người dân của <village_name> dứt khoát đáp 'Không'. "
   },
   {
     "key": "event_answer_shakedown_give",
     "type": 0,
     "en": "You decided to make them an offer.",
-    "vi": "Bạn quyết định đưa ra lời đề nghị trao đổi tài nguyên."
+    "vi": "Bạn quyết định đưa ra một lời đề nghị."
   },
   {
     "key": "event_answer_shakedown_leave",
     "type": 0,
     "en": "Leave negotiation",
-    "vi": "Rút lui khỏi cuộc đàm phán"
+    "vi": "Rời khỏi cuộc đàm phán"
   },
   {
     "key": "event_runaway_err_runaway_negotiator",
@@ -753,13 +753,13 @@
     "key": "runaway_faction_wont_trade_tooltip",
     "type": 0,
     "en": "This faction only wants <name>, and nothing else will do. ",
-    "vi": "Phe phái này chỉ nhắm vào một mục tiêu duy nhất là bắt sống <name>, không có bất kỳ thứ gì khác có thể thương lượng được."
+    "vi": "Phe phái này chỉ nhắm vào một mục tiêu duy nhất là bắt <name>, không có bất kỳ thứ gì khác có thể thương lượng được. "
   },
   {
     "key": "event_beggar_text",
     "type": 0,
     "en": "Can you spare some sustenance for a poor soul in need?",
-    "vi": "Liệu quý vị có thể rủ lòng thương chia sẻ chút miếng ăn cho một linh hồn bần hàn cơ nhỡ hay không?"
+    "vi": "Liệu quý vị có thể rủ lòng thương bố thí chút miếng ăn cho một linh hồn cơ nhỡ bần hàn được chăng?"
   },
   {
     "key": "event_answer_beggar_give",
@@ -789,19 +789,19 @@
     "key": "event_beggar_arrival_text",
     "type": 0,
     "en": "A dusty vagrant shambled into <village_name>, and is pleading for charity.",
-    "vi": "Một kẻ lang thang bụi bặm bước đi xiêu vẹo tiến vào <village_name>, tha thiết van xin lòng bác ái của mọi người."
+    "vi": "Một kẻ lang bạt bụi bặm bước thấp bước cao tiến vào <village_name>, tha thiết cầu xin lòng từ tâm bố thí."
   },
   {
     "key": "event_stash_discovered",
     "type": 0,
     "en": "Hidden Stash",
-    "vi": "Kho Báu Ẩn Giấu"
+    "vi": "Kho Cất Giấu Bí Mật"
   },
   {
     "key": "event_stash_discovered_text",
     "type": 0,
     "en": "The location of a potential hidden stash has been marked on your regional map. These locations may harbour wild animals, or even hostile people.",
-    "vi": "Vị trí của một kho cất giấu bí mật tiềm năng đã được đánh dấu rõ trên bản đồ khu vực của bạn. Những địa điểm hoang vu này có thể là nơi trú ngụ của thú dữ, hoặc thậm chí là hang ổ của những kẻ cướp thù địch."
+    "vi": "Vị trí của một kho cất giấu bí mật tiềm năng đã được đánh dấu trên bản đồ khu vực. Những địa điểm này có thể là nơi trú ngụ của thú dữ hoang dã, hoặc thậm chí là của những kẻ thù địch."
   },
   {
     "key": "event_quality_points",
@@ -813,43 +813,43 @@
     "key": "event_quality_participants_name",
     "type": 0,
     "en": "Participants",
-    "vi": "Số lượng người tham gia"
+    "vi": "Người tham gia"
   },
   {
     "key": "event_quality_roomImpressiveness_name",
     "type": 0,
     "en": "Room Impressiveness",
-    "vi": "Độ tráng lệ của căn phòng"
+    "vi": "Độ sang trọng của phòng"
   },
   {
     "key": "event_quality_foodVariety_name",
     "type": 0,
     "en": "Food variety",
-    "vi": "Độ phong phú của các món ăn"
+    "vi": "Độ phong phú món ăn"
   },
   {
     "key": "event_quality_nutrition_name",
     "type": 0,
     "en": "Nutrition per person",
-    "vi": "Mức dinh dưỡng trung bình mỗi người"
+    "vi": "Mức dinh dưỡng mỗi người"
   },
   {
     "key": "event_quality_foodQuality_name",
     "type": 0,
     "en": "Food quality",
-    "vi": "Phẩm chất của thức ăn"
+    "vi": "Chất lượng thức ăn"
   },
   {
     "key": "event_quality_alcohol_name",
     "type": 0,
     "en": "Alcohol per person",
-    "vi": "Lượng rượu vang/bia mỗi người"
+    "vi": "Lượng rượu bia mỗi người"
   },
   {
     "key": "event_quality_role_name",
     "type": 0,
     "en": "Participant with role (<role_name>)",
-    "vi": "Người tham gia đảm nhiệm vai trò (<role_name>)"
+    "vi": "Người tham gia đảm nhiệm chức vụ (<role_name>)"
   },
   {
     "key": "event_quality_resourceAmount_name",
@@ -867,13 +867,13 @@
     "key": "event_quality_unique_resource_count_name",
     "type": 0,
     "en": "Textbook present",
-    "vi": "Có sẵn sách giáo khoa"
+    "vi": "Có sẵn sách kỹ năng"
   },
   {
     "key": "event_quality_trainEquipAmount_name",
     "type": 0,
     "en": "Training Equipment",
-    "vi": "Trang thiết bị huấn luyện"
+    "vi": "Trang thiết bị luyện tập"
   },
   {
     "key": "event_requ_food",
@@ -897,6 +897,6 @@
     "key": "event_quality_lvl_name_terrible",
     "type": 0,
     "en": "Appalling",
-    "vi": "Tồi Tệ Khủng Khiếp"
+    "vi": "Kinh Hoàng Tồi Tệ"
   }
 ]

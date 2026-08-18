@@ -15,7 +15,7 @@
     "key": "menu_perks",
     "type": 0,
     "en": "Perks",
-    "vi": "Đặc Điểm Tính Cách"
+    "vi": "Đặc Tính"
   },
   {
     "key": "menu_skills",
@@ -69,7 +69,7 @@
     "key": "villager_constraint_ForcedPerks",
     "type": 0,
     "en": "Forced Perks",
-    "vi": "Đặc Điểm Bắt Buộc"
+    "vi": "Đặc Tính Bắt Buộc"
   },
   {
     "key": "general_relevant_skills",
@@ -81,7 +81,7 @@
     "key": "character_perk_conflicts",
     "type": 0,
     "en": "Conflicts with",
-    "vi": "Xung khắc với đặc tính"
+    "vi": "Xung khắc với"
   },
   {
     "key": "character_min_skill",
@@ -93,19 +93,19 @@
     "key": "building_error_no_skilled_botany_worker",
     "type": 0,
     "en": "No settler with the necessary botany skills is available ",
-    "vi": "Không có dân làng nào đủ trình độ kỹ năng nông nghiệp yêu cầu"
+    "vi": "Không có dân làng nào đủ kỹ năng nông nghiệp yêu cầu"
   },
   {
     "key": "general_perk_gained",
     "type": 0,
     "en": "<name> has gained perk",
-    "vi": "<name> đã nhận được đặc tính mới"
+    "vi": "<name> đã nhận được đặc tính"
   },
   {
     "key": "error_no_skilled_animal_worker",
     "type": 0,
     "en": "No settler with the necessary animal handling skills is available",
-    "vi": "Không có dân làng nào có đủ kỹ năng chăn nuôi"
+    "vi": "Không có dân làng nào đủ kỹ năng chăn nuôi yêu cầu"
   },
   {
     "key": "job_name_gaoler",
@@ -129,7 +129,7 @@
     "key": "role_bard_name",
     "type": 0,
     "en": "Bard",
-    "vi": "Thi nhân"
+    "vi": "Người Hát Rong"
   },
   {
     "key": "role_job_preference_info",
@@ -141,7 +141,7 @@
     "key": "role_bard_description",
     "type": 0,
     "en": "Storyteller, poet, and musician, the bard weaves tales of heroism, love, and adventure through their spellbinding performances. They provide entertainment in the great hall during scheduled community role hours, and at feasting events.",
-    "vi": "Thi nhân là người kể chuyện, nhà thơ và nhạc công, dệt nên những câu chuyện về anh hùng, tình yêu và phiêu lưu qua các màn trình diễn mê hoặc. Họ biểu diễn tại đại sảnh trong giờ sinh hoạt cộng đồng và các buổi yến tiệc."
+    "vi": "Là người kể chuyện, nhà thơ và nhạc công, người hát rong dệt nên những thiên anh hùng ca, khúc ca tình yêu và phiêu lưu. Họ mang lại niềm vui giải trí tại đại sảnh trong giờ sinh hoạt cộng đồng và các buổi yến tiệc."
   },
   {
     "key": "role_global_resources",
@@ -153,79 +153,79 @@
     "key": "role_librarian_name",
     "type": 0,
     "en": "Librarian",
-    "vi": "Thủ Thư Thư Viện"
+    "vi": "Thủ Thư"
   },
   {
     "key": "role_librarian_description",
     "type": 0,
     "en": "Meticulous and knowledgeable, the librarian is usually found perusing manuscripts. This settler’s presence in the library enhances the speed of all researchers studying there.",
-    "vi": "Tỉ mỉ và uyên bác, thủ thư thường miệt mài nghiên cứu các bản thảo cổ thư. Sự hiện diện của dân làng này trong thư viện giúp gia tăng đáng kể tốc độ nghiên cứu của tất cả các học giả."
+    "vi": "Tỉ mỉ và uyên bác, thủ thư thường miệt mài nghiên cứu các bản thảo cổ thư. Sự hiện diện của thủ thư trong thư viện giúp gia tăng tốc độ nghiên cứu của tất cả các học giả."
   },
   {
     "key": "role_sergeant_name",
     "type": 0,
     "en": "Sergeant-at-arms",
-    "vi": "Trung Sĩ Vũ Trang"
+    "vi": "Đội Trưởng Lính Gác"
   },
   {
     "key": "role_sergeant_description",
     "type": 0,
     "en": "Upholding chivalry and meting out justice with an armoured fist, the sergeant-at-arms oversees all weaponry. When this settler reports to the training room, all settlers training there gain bonus XP. ",
-    "vi": "Gìn giữ tinh thần hiệp sĩ thượng võ và thực thi công lý bằng nắm đấm bọc thép, trung sĩ vũ trang giám sát toàn bộ khí tài binh bị. Khi người này có mặt tại phòng luyện tập, tất cả dân làng đang rèn luyện tại đó sẽ nhận thêm điểm kinh nghiệm XP."
+    "vi": "Gìn giữ tinh thần hiệp sĩ và rèn giũa kỷ luật, đội trưởng lính gác chịu trách nhiệm quản lý khí tài vũ khí. Khi người này có mặt tại phòng tập luyện, mọi dân làng tham gia rèn luyện sẽ nhận thêm điểm kinh nghiệm XP."
   },
   {
     "key": "role_broker_name",
     "type": 0,
     "en": "Broker",
-    "vi": "Thương Lái Môi Giới"
+    "vi": "Thương Lái"
   },
   {
     "key": "role_broker_description",
     "type": 0,
     "en": "As well as matching buyers with sellers, the broker is a vital source of marketplace information. Settlers make better trades with merchants with a broker present, and they are essential to centres of trade.",
-    "vi": "Không chỉ là cầu nối giữa người mua và người bán, thương lái môi giới còn là nguồn cung cấp thông tin thị trường vô giá. Dân làng sẽ đàm phán được các mức giá hời hơn với thương nhân khi có mặt môi giới, và họ đóng vai trò hạt nhân tại các trung tâm giao thương sầm uất."
+    "vi": "Không chỉ là cầu nối giữa người mua và người bán, thương lái còn là nguồn nắm bắt thông tin thị trường nhạy bén. Dân làng sẽ mặc cả được giá hời hơn với các thương đoàn khi có thương lái, đóng vai trò thiết yếu cho các trung tâm buôn bán."
   },
   {
     "key": "role_priest_name",
     "type": 0,
     "en": "Chaplain",
-    "vi": "Tuyên Úy Giáo Sĩ"
+    "vi": "Linh Mục"
   },
   {
     "key": "role_priest_description",
     "type": 0,
     "en": "The chaplain is a spiritual guide and moral authority, leading prayer at the Restitutionist shrine during scheduled community role hours. Tasked with the care of souls, they administer sacraments, and preach sermons at Holy Day events.",
-    "vi": "Tuyên úy là người dẫn dắt đời sống tâm linh và là hiện thân của chuẩn mực đạo đức, chủ trì các buổi cầu nguyện tại đền thờ Hội Phục Hưng vào khung giờ sinh hoạt cộng đồng. Chăm lo cho phần hồn của con dân, họ cử hành các bí tích thiêng liêng và thuyết giảng đạo lý vào các Ngày Lễ Thánh."
+    "vi": "Linh mục là người dẫn dắt đời sống tâm linh, chủ trì các buổi cầu nguyện tại đền thờ Hội Phục Hưng vào giờ sinh hoạt cộng đồng. Chăm lo cho phần hồn của dân làng, họ cử hành các bí tích và thuyết giảng vào các Ngày Lễ Thánh."
   },
   {
     "key": "role_shaman_name",
     "type": 0,
     "en": "Druid",
-    "vi": "Đạo Sĩ Druid"
+    "vi": "Đạo Sĩ"
   },
   {
     "key": "role_shaman_description",
     "type": 0,
     "en": "Experts in land-based philosophy and the Old Gods, druids spend their community role appointed hours meditating with any settlers who enter the Oak Brethren shrine. They also make sacrifices and lead Ritual events.",
-    "vi": "Bậc thầy về triết lý tự nhiên của đất mẹ và các Cổ Thần thời xa xưa, các đạo sĩ Druid dành khung giờ sinh hoạt cộng đồng để cùng thiền định với những dân làng bước vào đền thờ Huynh Đệ Cây Sồi. Họ cũng chủ trì các nghi thức hiến tế và các đại lễ cổ truyền."
+    "vi": "Bậc thầy về triết lý tự nhiên và tín ngưỡng Cổ Thần, đạo sĩ dành giờ sinh hoạt cộng đồng để cùng thiền định với dân làng tại đền thờ Huynh Đệ Cây Sồi. Họ cũng chủ trì các nghi thức hiến tế và đại lễ tôn giáo."
   },
   {
     "key": "role_own_room",
     "type": 0,
     "en": "Settler has their own private chamber",
-    "vi": "Dân làng sở hữu phòng ngủ riêng tư"
+    "vi": "Dân làng sở hữu phòng ngủ riêng"
   },
   {
     "key": "role_level_up_prompt_info",
     "type": 0,
     "en": "Do you want to assign <role> to <name>?\\nThe settler will gain the following job preferences:\\n<role_jobs>",
-    "vi": "Bạn có muốn phong tước vai trò <role> cho <name> không?\\nDân làng này sẽ tự động nhận các ưu tiên công việc sau:\\n<role_jobs>"
+    "vi": "Bạn có muốn bổ nhiệm vai trò <role> cho <name> không?\\nDân làng sẽ nhận các ưu tiên công việc sau:\\n<role_jobs>"
   },
   {
     "key": "role_retract_prompt_info",
     "type": 0,
     "en": "Stripping this role from the settler might make them unhappy",
-    "vi": "Việc tước bỏ vai trò này khỏi dân làng có thể khiến họ cảm thấy vô cùng bất mãn và buồn bã"
+    "vi": "Việc tước bỏ vai trò này khỏi dân làng có thể khiến họ cảm thấy bất mãn"
   },
   {
     "key": "role_cooldown",
@@ -243,7 +243,7 @@
     "key": "role_retract_first_info",
     "type": 0,
     "en": "Retract assigned role first before giving it to another settler",
-    "vi": "Hãy thu hồi vai trò này trước khi chuyển giao cho một dân làng khác"
+    "vi": "Hãy thu hồi vai trò này trước khi giao cho một dân làng khác"
   },
   {
     "key": "role_assign",
@@ -255,7 +255,7 @@
     "key": "role_retract",
     "type": 0,
     "en": "Retract",
-    "vi": "Thu hồi chức vụ"
+    "vi": "Thu hồi"
   },
   {
     "key": "role_promote",
@@ -279,13 +279,13 @@
     "key": "role_warden_name",
     "type": 0,
     "en": "Prison Warden",
-    "vi": "Cai Ngục Trưởng"
+    "vi": "Cai Ngục"
   },
   {
     "key": "role_warden_description",
     "type": 0,
     "en": "The Warden oversees captive labourers and converses with prisoners to try and recruit them to your settlement .",
-    "vi": "Cai ngục trưởng giám sát nghiêm ngặt các lao dịch phạm nhân và thường xuyên đàm đạo với tù binh nhằm cảm hóa và chiêu mộ họ gia nhập hàng ngũ khu định cư của bạn."
+    "vi": "Cai ngục phụ trách giám sát các phạm nhân lao dịch và trò chuyện với tù binh nhằm cảm hóa, chiêu mộ họ gia nhập khu định cư của bạn."
   },
   {
     "key": "role_level_up_info",
@@ -303,7 +303,7 @@
     "key": "force_perks_chance",
     "type": 0,
     "en": "Force Perks Chance",
-    "vi": "Tỉ Lệ Ép Nhận Đặc Điểm"
+    "vi": "Tỉ Lệ Ép Nhận Đặc Tính"
   },
   {
     "key": "job_not_enabled",
@@ -315,31 +315,31 @@
     "key": "construction_skill_level_low",
     "type": 0,
     "en": "Cannot start construction, skill level not met",
-    "vi": "Không thể bắt đầu xây dựng, chưa đạt cấp kỹ năng yêu cầu"
+    "vi": "Không thể bắt đầu xây dựng: chưa đạt cấp kỹ năng yêu cầu"
   },
   {
     "key": "missing_skill_required_for_production",
     "type": 0,
     "en": "Cannot start production, skill level not met",
-    "vi": "Không thể bắt đầu sản xuất, chưa đạt cấp kỹ năng yêu cầu"
+    "vi": "Không thể bắt đầu sản xuất: chưa đạt cấp kỹ năng yêu cầu"
   },
   {
     "key": "taming_skill_level_low",
     "type": 0,
     "en": "Cannot tame animal, skill level not met",
-    "vi": "Không thể thuần hóa động vật, chưa đạt cấp kỹ năng yêu cầu"
+    "vi": "Không thể thuần hóa động vật: chưa đạt cấp kỹ năng yêu cầu"
   },
   {
     "key": "training_skill_level_low",
     "type": 0,
     "en": "Cannot train animal, skill level not met",
-    "vi": "Không thể huấn luyện động vật, chưa đạt cấp kỹ năng yêu cầu"
+    "vi": "Không thể huấn luyện động vật: chưa đạt cấp kỹ năng yêu cầu"
   },
   {
     "key": "not_enough_skill_level",
     "type": 0,
     "en": "Cannot equip, skill level not met",
-    "vi": "Không thể trang bị, chưa đạt cấp kỹ năng yêu cầu"
+    "vi": "Không thể trang bị: chưa đạt cấp kỹ năng yêu cầu"
   },
   {
     "key": "most_skilled",
@@ -351,25 +351,25 @@
     "key": "no_skilled_worker",
     "type": 0,
     "en": "No settlers skilled in",
-    "vi": "Không có dân làng nào am hiểu về"
+    "vi": "Không có dân làng nào thành thạo về"
   },
   {
     "key": "group_skills",
     "type": 0,
     "en": "Group Skills",
-    "vi": "Kỹ Năng Đội Nhóm"
+    "vi": "Kỹ Năng Nhóm"
   },
   {
     "key": "worker_skills",
     "type": 0,
     "en": "Skills",
-    "vi": "Kỹ Năng Dân Làng"
+    "vi": "Kỹ Năng"
   },
   {
     "key": "name_prod_worker_skill_request",
     "type": 0,
     "en": "No worker with",
-    "vi": "Không có thợ nào sở hữu"
+    "vi": "Không có thợ nào có"
   },
   {
     "key": "production_settlers_allow_skill",

@@ -3,7 +3,7 @@
     "key": "reaction_negative_8",
     "type": 0,
     "en": "anxious to leave",
-    "vi": "nóng lòng muốn rời đi"
+    "vi": "nôn nóng muốn rời đi"
   },
   {
     "key": "reaction_neutral_1",
@@ -99,25 +99,25 @@
     "key": "reaction_positive_6",
     "type": 0,
     "en": "interested",
-    "vi": "hứng thú"
+    "vi": "đầy hứng thú"
   },
   {
     "key": "reaction_verypositive_1",
     "type": 0,
     "en": "enthusiastic ",
-    "vi": "nhiệt huyết"
+    "vi": "tràn đầy nhiệt huyết"
   },
   {
     "key": "reaction_verypositive_2",
     "type": 0,
     "en": "excited",
-    "vi": "phấn khích"
+    "vi": "vô cùng phấn khích"
   },
   {
     "key": "reaction_verypositive_3",
     "type": 0,
     "en": "amused",
-    "vi": "buồn cười"
+    "vi": "rất đỗi buồn cười"
   },
   {
     "key": "reaction_verypositive_4",
@@ -141,7 +141,7 @@
     "key": "hit_action_default_2",
     "type": 0,
     "en": "came at",
-    "vi": "came tại"
+    "vi": "xông thẳng vào"
   },
   {
     "key": "hit_action_default_3",
@@ -165,121 +165,121 @@
     "key": "hit_action_default_6",
     "type": 0,
     "en": "assaulted",
-    "vi": "tấn công assaulted"
+    "vi": "tập kích dữ dội vào"
   },
   {
     "key": "hit_action_default_7",
     "type": 0,
     "en": "beset",
-    "vi": "tấn công beset"
+    "vi": "bủa vây đánh vào"
   },
   {
     "key": "hit_action_default_8",
     "type": 0,
     "en": "lay into",
-    "vi": "tấn công lay into"
+    "vi": "lao vào giáng đòn tới tấp lên"
   },
   {
     "key": "hit_action_default_9",
     "type": 0,
     "en": "set upon",
-    "vi": "tấn công set upon"
+    "vi": "xông vào giáng đòn lên"
   },
   {
     "key": "hit_action_default_10",
     "type": 0,
     "en": "surprised",
-    "vi": "tấn công surprised"
+    "vi": "đánh úp bất ngờ vào"
   },
   {
     "key": "hit_action_default_11",
     "type": 0,
     "en": "ambushed",
-    "vi": "tấn công ambushed"
+    "vi": "mai phục đánh bất ngờ vào"
   },
   {
     "key": "hit_action_default_12",
     "type": 0,
     "en": "hemmed in",
-    "vi": "hemmed trong"
+    "vi": "dồn ép khóa chặt"
   },
   {
     "key": "hit_action_default_13",
     "type": 0,
     "en": "rounded upon",
-    "vi": "tấn công rounded upon"
+    "vi": "quay phắt lại phản công vào"
   },
   {
     "key": "hit_action_default_14",
     "type": 0,
     "en": "flew at",
-    "vi": "flew tại"
+    "vi": "phóng người lao vào"
   },
   {
     "key": "hit_action_default_15",
     "type": 0,
     "en": "blindsided",
-    "vi": "tấn công blindsided"
+    "vi": "đánh lén từ điểm mù vào"
   },
   {
     "key": "hit_action_ranged_1",
     "type": 0,
     "en": "shot at",
-    "vi": "bắn trúng at"
+    "vi": "bắn tên về phía"
   },
   {
     "key": "hit_action_ranged_2",
     "type": 0,
     "en": "targeted",
-    "vi": "tấn công targeted"
+    "vi": "ngắm bắn thẳng vào"
   },
   {
     "key": "hit_action_ranged_3",
     "type": 0,
     "en": "unleashed missiles upon",
-    "vi": "tấn công unleashed missiles upon"
+    "vi": "trút mưa tên bão đạn vào"
   },
   {
     "key": "hit_action_ranged_4",
     "type": 0,
     "en": "fired upon",
-    "vi": "tấn công fired upon"
+    "vi": "bắn xối xả vào"
   },
   {
     "key": "hit_action_ranged_5",
     "type": 0,
     "en": "shot down",
-    "vi": "bắn trúng down"
+    "vi": "bắn hạ gục"
   },
   {
     "key": "hit_action_ranged_6",
     "type": 0,
     "en": "bombarded",
-    "vi": "tấn công bombarded"
+    "vi": "nã tên bắn phá dồn dập vào"
   },
   {
     "key": "hit_action_ranged_7",
     "type": 0,
     "en": "launched at",
-    "vi": "launched tại"
+    "vi": "phóng đòn tầm xa về phía"
   },
   {
     "key": "hit_action_ranged_8",
     "type": 0,
     "en": "opened fire on",
-    "vi": "opened fire trên"
+    "vi": "giương cung nhả tên vào"
   },
   {
     "key": "hit_action_ranged_9",
     "type": 0,
     "en": "aimed towards",
-    "vi": "tấn công aimed towards"
+    "vi": "chĩa cung nhắm thẳng vào"
   },
   {
     "key": "hit_action_ranged_10",
     "type": 0,
     "en": "set [his/her] sights upon",
-    "vi": "tấn công set [his/her] sights upon"
+    "vi": "khóa chặt tầm ngắm vào [his/her]"
   },
   {
     "key": "hit_action_ranged_11",
@@ -309,7 +309,7 @@
     "key": "hit_action_sharp_4",
     "type": 0,
     "en": "hacked",
-    "vi": "chém mạnh vào"
+    "vi": "chém xối xả vào"
   },
   {
     "key": "hit_action_sharp_5",

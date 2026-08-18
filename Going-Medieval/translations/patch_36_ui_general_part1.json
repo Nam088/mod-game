@@ -27,7 +27,7 @@
     "key": "closed_window_info",
     "type": 0,
     "en": "A closed window keeps the warmth in. Best kept closed in the wintertime",
-    "vi": "Đóng cửa sổ giúp giữ ấm và ngăn gió lạnh lùa vào mùa đông."
+    "vi": "Đóng cửa sổ giúp giữ ấm bên trong phòng. Tốt nhất nên đóng cửa sổ vào mùa đông."
   },
   {
     "key": "lock_state_locked",
@@ -57,7 +57,7 @@
     "key": "unlocked_door_info",
     "type": 0,
     "en": "Door passable by: settlers, friendly NPCs, pets and some domesticated animals like dogs and cats.\nDoor blocks: enemies, aggressive NPCs and wild animals.",
-    "vi": "Cửa cho phép đi qua: Dân làng, NPC thân thiện, thú cưng và một số động vật nuôi như chó mèo.\nCửa chặn lại: Kẻ thù, NPC hung dữ và động vật hoang dã."
+    "vi": "Đối tượng có thể qua cửa: dân làng, NPC thân thiện, thú cưng và một số vật nuôi như chó, mèo.\nCửa chặn: kẻ địch, NPC hung dữ và động vật hoang dã."
   },
   {
     "key": "unlocked_barn_door_info",
@@ -87,13 +87,13 @@
     "key": "forbidden_structure_info",
     "type": 0,
     "en": "This structure is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't interact with it unless allowed. Allow this structure by clicking 'allow' or by using the allow order.",
-    "vi": "Công trình này đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không tương tác cho đến khi được cho phép. Bấm 'Cho phép' hoặc dùng lệnh cho phép để mở lại."
+    "vi": "Công trình này đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không tương tác với công trình trừ khi được cho phép. Cho phép sử dụng công trình này bằng cách bấm 'Cho phép' hoặc dùng lệnh cho phép."
   },
   {
     "key": "forbidden_shelf_info",
     "type": 0,
     "en": "Stocking resources here is <LinkAlmanac=\"Tutorialforbid\">forbidden</link>. Settlers won't leave or take resources unless allowed. Allow its use by clicking 'allow' or by using the allow order.",
-    "vi": "Lưu trữ tài nguyên tại đây đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không cất hoặc lấy tài nguyên ra cho đến khi được cho phép. Bấm 'Cho phép' hoặc dùng lệnh cho phép để mở lại."
+    "vi": "Lưu trữ tài nguyên tại đây đang bị <LinkAlmanac=\"Tutorialforbid\">cấm</link>. Dân làng sẽ không cất hoặc lấy tài nguyên ra trừ khi được cho phép. Cho phép sử dụng bằng cách bấm 'Cho phép' hoặc dùng lệnh cho phép."
   },
   {
     "key": "attack_duration",
@@ -105,7 +105,7 @@
     "key": "banish_worker_confirm",
     "type": 0,
     "en": "Banishing this settler will have a negative impact on the rest of your settlers. Are you sure you want to proceed?",
-    "vi": "Trục xuất dân làng này sẽ ảnh hưởng tiêu cực tới tâm lý những người còn lại. Bạn có chắc chắn muốn tiếp tục?"
+    "vi": "Trục xuất dân làng này sẽ ảnh hưởng tiêu cực đến những người còn lại. Bạn có chắc chắn muốn tiếp tục?"
   },
   {
     "key": "base_damage",
@@ -117,13 +117,13 @@
     "key": "base_range",
     "type": 0,
     "en": "Equipped weapon range",
-    "vi": "Tầm bắn vũ khí trang bị"
+    "vi": "Tầm đánh vũ khí trang bị"
   },
   {
     "key": "base_yield_peak",
     "type": 0,
     "en": "Base yield at peak",
-    "vi": "Sản lượng tối đa khi thu hoạch"
+    "vi": "Sản lượng cơ bản khi đạt đỉnh"
   },
   {
     "key": "base_yeald_ripe",
@@ -135,7 +135,7 @@
     "key": "base_yeald_phase",
     "type": 0,
     "en": "Base yield in this phase",
-    "vi": "Sản lượng ở giai đoạn này"
+    "vi": "Sản lượng cơ bản trong giai đoạn này"
   },
   {
     "key": "cover_amount",
@@ -147,13 +147,13 @@
     "key": "ranged_cover_amount",
     "type": 0,
     "en": "Ranged Cover amount",
-    "vi": "Mức độ che chắn tầm xa"
+    "vi": "Mức che chắn tầm xa"
   },
   {
     "key": "melee_cover_amount",
     "type": 0,
     "en": "Melee Cover amount",
-    "vi": "Mức độ che chắn cận chiến"
+    "vi": "Mức che chắn cận chiến"
   },
   {
     "key": "cover_percentage",
@@ -333,7 +333,7 @@
     "key": "general_day",
     "type": 0,
     "en": "day",
-    "vi": "Ngày"
+    "vi": "ngày"
   },
   {
     "key": "general_days",
@@ -345,7 +345,7 @@
     "key": "general_deliver",
     "type": 0,
     "en": "Deliver ammunition",
-    "vi": "Vận chuyển đạn dược"
+    "vi": "Tiếp tế đạn dược"
   },
   {
     "key": "general_description",
@@ -393,7 +393,7 @@
     "key": "general_finish",
     "type": 0,
     "en": "Finish",
-    "vi": "Hoàn thành"
+    "vi": "Hoàn tất"
   },
   {
     "key": "general_headware",
@@ -411,7 +411,7 @@
     "key": "general_item_slot_body",
     "type": 0,
     "en": "Clothing item slot",
-    "vi": "Ô trang bị thân thể"
+    "vi": "Ô trang bị thân"
   },
   {
     "key": "general_item_slot_head",
@@ -471,13 +471,13 @@
     "key": "general_of",
     "type": 0,
     "en": "of",
-    "vi": "của"
+    "vi": "trên"
   },
   {
     "key": "general_ok",
     "type": 0,
     "en": "OK",
-    "vi": "Đồng ý"
+    "vi": "OK"
   },
   {
     "key": "general_operate",
@@ -609,43 +609,43 @@
     "key": "hour_type_any_name",
     "type": 0,
     "en": "Anything",
-    "vi": "Tự do làm gì cũng được"
+    "vi": "Tự do"
   },
   {
     "key": "hour_type_tooltip_convalescing",
     "type": 0,
     "en": "Will prioritise convalescing even if the task is disabled in the jobs panel",
-    "vi": "Sẽ ưu tiên dưỡng thương ngay cả khi công việc bị vô hiệu hóa trong bảng phân công"
+    "vi": "Sẽ ưu tiên dưỡng thương ngay cả khi công việc bị vô hiệu hóa trong bảng công việc"
   },
   {
     "key": "hour_type_tooltip_sleeping",
     "type": 0,
     "en": "Sleeping is disabled at this hour",
-    "vi": "Không được ngủ trong khung giờ này"
+    "vi": "Không được phép ngủ trong khung giờ này"
   },
   {
     "key": "hour_type_tooltip_work",
     "type": 0,
     "en": "Will prioritise jobs as they are set in the jobs panel",
-    "vi": "Sẽ ưu tiên các công việc được thiết lập trong bảng công việc"
+    "vi": "Sẽ ưu tiên các công việc theo thiết lập trong bảng công việc"
   },
   {
     "key": "hour_type_tooltip_role",
     "type": 0,
     "en": "Will perform role duties before everything else",
-    "vi": "Sẽ ưu tiên thực hiện nhiệm vụ theo vai trò trước mọi việc khác"
+    "vi": "Sẽ ưu tiên thực hiện nhiệm vụ chức vụ trước mọi việc khác"
   },
   {
     "key": "hour_type_tooltip_leisure",
     "type": 0,
     "en": "Will prioritise leisure activities even if not deprived of them",
-    "vi": "Sẽ ưu tiên tham gia hoạt động giải trí ngay cả khi không bị thiếu hụt"
+    "vi": "Sẽ ưu tiên các hoạt động giải trí ngay cả khi không bị thiếu hụt"
   },
   {
     "key": "hour_type_tooltip_anything",
     "type": 0,
     "en": "Will prioritise meeting own needs. Once satisfied, will do jobs.",
-    "vi": "Sẽ ưu tiên đáp ứng nhu cầu cá nhân. Khi đã thỏa mãn, sẽ đi làm việc."
+    "vi": "Sẽ ưu tiên đáp ứng các nhu cầu cá nhân. Khi đã thỏa mãn, họ sẽ làm việc."
   },
   {
     "key": "hour_type_tooltip_sleep",
@@ -675,7 +675,7 @@
     "key": "hour_type_psychotic_name",
     "type": 0,
     "en": "Broken",
-    "vi": "Tuyệt vọng"
+    "vi": "Suy sụp tinh thần"
   },
   {
     "key": "hour_type_sleep_name",
@@ -693,7 +693,7 @@
     "key": "hour_type_caravan_name",
     "type": 0,
     "en": "Forming Caravan",
-    "vi": "Chuẩn bị đoàn buôn"
+    "vi": "Chuẩn bị thương đoàn"
   },
   {
     "key": "hour_type_role_job_name",
@@ -705,7 +705,7 @@
     "key": "report_bug_tnx_sending",
     "type": 0,
     "en": "Thank you for your feedback! You can continue playing while the report is being sent.",
-    "vi": "Cảm ơn bạn đã gửi phản hồi! Bạn có thể tiếp tục chơi trong khi báo cáo lỗi đang được gửi đi."
+    "vi": "Cảm ơn bạn đã gửi phản hồi! Bạn có thể tiếp tục chơi trong khi báo cáo đang được gửi đi."
   },
   {
     "key": "in_draft",
@@ -717,7 +717,7 @@
     "key": "inside",
     "type": 0,
     "en": "Inside",
-    "vi": "Bên trong"
+    "vi": "Trong nhà"
   },
   {
     "key": "low_temperature",
@@ -765,13 +765,13 @@
     "key": "outsideRain",
     "type": 0,
     "en": "Outside in the rain",
-    "vi": "Ngoài trời mưa gió"
+    "vi": "Ngoài trời mưa"
   },
   {
     "key": "outsideSnow",
     "type": 0,
     "en": "Outside in the snow",
-    "vi": "Ngoài trời tuyết rơi"
+    "vi": "Ngoài trời tuyết"
   },
   {
     "key": "precision",
@@ -789,13 +789,13 @@
     "key": "priority_down",
     "type": 0,
     "en": "Decrease all",
-    "vi": "Giảm toàn bộ"
+    "vi": "Giảm tất cả"
   },
   {
     "key": "priority_up",
     "type": 0,
     "en": "Increase all",
-    "vi": "Tăng toàn bộ"
+    "vi": "Tăng tất cả"
   },
   {
     "key": "production_amount",
@@ -807,37 +807,37 @@
     "key": "production_forever",
     "type": 0,
     "en": "Forever",
-    "vi": "Vô tận (Forever)"
+    "vi": "Vô tận"
   },
   {
     "key": "production_until",
     "type": 0,
     "en": "Until you have",
-    "vi": "Đến khi đạt đủ"
+    "vi": "Cho đến khi đủ"
   },
   {
     "key": "production_amount_info",
     "type": 0,
     "en": "\"Amount\" production mode will queue production of a given number of finished items.",
-    "vi": "Chế độ sản xuất 'Số lượng' sẽ đưa vào hàng đợi một số lượng vật phẩm hoàn chỉnh cụ thể."
+    "vi": "Chế độ sản xuất \"Số lượng\" sẽ xếp hàng sản xuất một số lượng thành phẩm nhất định."
   },
   {
     "key": "production_forever_info",
     "type": 0,
     "en": "\"Forever\" production mode will continuously queue production while there are sufficient raw material for that product.",
-    "vi": "Chế độ sản xuất 'Vô tận' sẽ tiếp tục tạo ra vật phẩm liên tục mà không dừng lại."
+    "vi": "Chế độ sản xuất \"Vô tận\" sẽ liên tục sản xuất chừng nào còn đủ nguyên liệu thô cho sản phẩm đó."
   },
   {
     "key": "production_until_info",
     "type": 0,
     "en": "\"Until you have\" production mode will continue to create items until the desired number is reached.",
-    "vi": "Chế độ sản xuất 'Đến khi đạt đủ' sẽ tiếp tục tạo vật phẩm cho đến khi đạt số lượng mong muốn trong kho."
+    "vi": "Chế độ sản xuất \"Cho đến khi đủ\" sẽ tiếp tục tạo ra vật phẩm cho đến khi đạt được số lượng mong muốn trong kho."
   },
   {
     "key": "production_until_info_books",
     "type": 0,
     "en": "\"Until you have\" production mode for books will continue until the set number of unallocated books is reached. (Books already allocated to research are no longer available)",
-    "vi": "Chế độ sản xuất \"Cho đến khi có\" đối với sách sẽ tiếp tục cho đến khi đạt đủ số lượng sách chưa sử dụng. (Sách đã dùng cho nghiên cứu không còn tính là có sẵn)"
+    "vi": "Chế độ sản xuất \"Cho đến khi đủ\" đối với sách sẽ tiếp tục cho đến khi đạt đủ số lượng sách chưa phân bổ được thiết lập. (Sách đã dùng cho nghiên cứu sẽ không còn khả dụng)"
   },
   {
     "key": "production_idle",
@@ -849,13 +849,13 @@
     "key": "production_paused",
     "type": 0,
     "en": "Production paused",
-    "vi": "Sản xuất tạm dừng"
+    "vi": "Tạm dừng sản xuất"
   },
   {
     "key": "production_target_reached",
     "type": 0,
     "en": "Production target number reached",
-    "vi": "Đã đạt đủ số lượng mục tiêu"
+    "vi": "Đã đạt đủ số lượng sản xuất mục tiêu"
   },
   {
     "key": "production_speed",
@@ -879,7 +879,7 @@
     "key": "research_allocated_info",
     "type": 0,
     "en": "Amount used up for unlocked researches. ",
-    "vi": "Số lượng sách đã sử dụng cho các nghiên cứu đã mở khóa."
+    "vi": "Số lượng sách đã sử dụng cho các nghiên cứu đã mở khóa. "
   },
   {
     "key": "research_available",
@@ -891,12 +891,12 @@
     "key": "research_available_info",
     "type": 0,
     "en": "The amount available for unlocking new researches. ",
-    "vi": "Số lượng sách khả dụng để mở khóa các nghiên cứu mới."
+    "vi": "Số lượng sách khả dụng để mở khóa các nghiên cứu mới. "
   },
   {
     "key": "research_available_info_negative",
     "type": 0,
     "en": "The available amount is negative, this means that your knowledge books have been lost. You will need to obtain the same amount again before you start unlocking new researches.",
-    "vi": "Số lượng khả dụng bị âm, điều này có nghĩa là sách nghiên cứu của bạn đã bị thất lạc hoặc phá hủy. Bạn cần tạo lại đủ số sách trước khi tiếp tục mở khóa nghiên cứu mới."
+    "vi": "Số lượng khả dụng bị âm, điều này có nghĩa là sách tri thức của bạn đã bị mất. Bạn sẽ cần thu thập lại số lượng tương ứng trước khi có thể bắt đầu mở khóa các nghiên cứu mới."
   }
 ]

@@ -147,7 +147,7 @@
     "key": "name_prod_dismantle_metal",
     "type": 0,
     "en": "Smelting metal item",
-    "vi": "Tháo dỡ đồ kim loại"
+    "vi": "Nấu chảy tái chế kim loại"
   },
   {
     "key": "name_prod_dismantle_cloth",
@@ -231,7 +231,7 @@
     "key": "name_prod_prep_dungbrick",
     "type": 0,
     "en": "Preparing ingredients",
-    "vi": "Sơ chế phân đóng bánh"
+    "vi": "Chuẩn bị nguyên liệu làm gạch phân"
   },
   {
     "key": "name_prod_baking_dungbrick",
@@ -243,13 +243,13 @@
     "key": "name_prod_prep_quicklime",
     "type": 0,
     "en": "Preparing ingredients",
-    "vi": "Sơ chế vôi sống"
+    "vi": "Chuẩn bị nguyên liệu nung vôi"
   },
   {
     "key": "name_prod_prep_saltpeter",
     "type": 0,
     "en": "Preparing ingredients",
-    "vi": "Sơ chế diêm tiêu"
+    "vi": "Chuẩn bị nguyên liệu chiết diêm tiêu"
   },
   {
     "key": "name_prod_creating_quicklime",
@@ -273,7 +273,7 @@
     "key": "name_prod_make_practice_target",
     "type": 0,
     "en": "Making practice target",
-    "vi": "Making practice Mục tiêu"
+    "vi": "Làm bia luyện bắn"
   },
   {
     "key": "name_prod_trainng_marksman",
@@ -297,13 +297,13 @@
     "key": "train_ranged",
     "type": 0,
     "en": "Marksman Training",
-    "vi": "Xạ thủ Training"
+    "vi": "Huấn luyện xạ thủ"
   },
   {
     "key": "train_melee",
     "type": 0,
     "en": "Melee Training",
-    "vi": "Cận chiến Training"
+    "vi": "Huấn luyện cận chiến"
   },
   {
     "key": "name_prod_mint",
@@ -327,13 +327,13 @@
     "key": "skep_production_speed",
     "type": 0,
     "en": "Skep Production Speed",
-    "vi": "Tốc độ làm tổ ong Skep"
+    "vi": "Tốc độ sản xuất của tổ ong"
   },
   {
     "key": "skeps_around_skep",
     "type": 0,
     "en": "Other skeps nearby",
-    "vi": "Khác skeps nearby"
+    "vi": "Các tổ ong khác ở gần"
   },
   {
     "key": "production_assigned_to_different_settler",
@@ -675,7 +675,7 @@
     "key": "whiped_back_name",
     "type": 0,
     "en": "Whipped back",
-    "vi": "Whipped Quay lại"
+    "vi": "Vết roi ở lưng"
   },
   {
     "key": "heavy_concussion_name",
@@ -735,13 +735,13 @@
     "key": "stomach_pain_name",
     "type": 0,
     "en": "Stomach Pain",
-    "vi": "Stomach Cơn đau"
+    "vi": "Đau dạ dày"
   },
   {
     "key": "produce_ites_at",
     "type": 0,
     "en": " Produces items at:",
-    "vi": " Produces items tại:"
+    "vi": " Sản xuất vật phẩm tại:"
   },
   {
     "key": "passion_1_info",
@@ -771,7 +771,7 @@
     "key": "lb_self_tend",
     "type": 0,
     "en": "Self-tend",
-    "vi": "Self-chữa trị"
+    "vi": "Tự chữa trị"
   },
   {
     "key": "lb_self_tend_title",

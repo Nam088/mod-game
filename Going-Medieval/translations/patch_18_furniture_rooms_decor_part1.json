@@ -219,13 +219,13 @@
     "key": "effector_name_SleptInBedroomAwful",
     "type": 0,
     "en": "Slept in own quarters (Awful)",
-    "vi": "Ngủ trong phòng riêng (Tồi tệ)"
+    "vi": "Ngủ trong phòng riêng (Tồi tàn)"
   },
   {
     "key": "effector_name_SleptInBedroomDull",
     "type": 0,
     "en": "Slept in own quarters (Uninspiring)",
-    "vi": "Ngủ trong phòng riêng (Không truyền cảm hứng)"
+    "vi": "Ngủ trong phòng riêng (Đơn điệu)"
   },
   {
     "key": "effector_name_SleptInBedroomMediocre",
@@ -237,13 +237,13 @@
     "key": "effector_name_SleptInBedroomGood",
     "type": 0,
     "en": "Slept in own quarters (Good)",
-    "vi": "Ngủ trong phòng riêng (Tốt)"
+    "vi": "Ngủ trong phòng riêng (Trang nhã)"
   },
   {
     "key": "effector_name_SleptInBedroomSlightlyImpressive",
     "type": 0,
     "en": "Slept in own quarters (Superior)",
-    "vi": "Ngủ trong phòng riêng (Thượng hạng)"
+    "vi": "Ngủ trong phòng riêng (Bề thế)"
   },
   {
     "key": "effector_name_SleptInBedroomSomewhatImpressive",
@@ -261,7 +261,7 @@
     "key": "effector_name_SleptInBedroomExtremelyImpressive",
     "type": 0,
     "en": "Slept in own quarters (Palatial)",
-    "vi": "Ngủ trong phòng riêng (Tráng lệ)"
+    "vi": "Ngủ trong phòng riêng (Nguy nga)"
   },
   {
     "key": "effector_name_SleptInSharedBedroom",
@@ -273,13 +273,13 @@
     "key": "effector_name_SleptInSharedBedroomAwful",
     "type": 0,
     "en": "Slept in shared quarters (Awful)",
-    "vi": "Ngủ trong phòng chung (Tồi tệ)"
+    "vi": "Ngủ trong phòng chung (Tồi tàn)"
   },
   {
     "key": "effector_name_SleptInSharedBedroomDull",
     "type": 0,
     "en": "Slept in shared quarters (Uninspiring)",
-    "vi": "Ngủ trong phòng chung (Không truyền cảm hứng)"
+    "vi": "Ngủ trong phòng chung (Đơn điệu)"
   },
   {
     "key": "effector_name_SleptInSharedBedroomMediocre",
@@ -291,13 +291,13 @@
     "key": "effector_name_SleptInSharedBedroomGood",
     "type": 0,
     "en": "Slept in shared quarters (Good)",
-    "vi": "Ngủ trong phòng chung (Tốt)"
+    "vi": "Ngủ trong phòng chung (Trang nhã)"
   },
   {
     "key": "effector_name_SleptInSharedBedroomSlightlyImpressive",
     "type": 0,
     "en": "Slept in shared quarters (Superior)",
-    "vi": "Ngủ trong phòng chung (Thượng hạng)"
+    "vi": "Ngủ trong phòng chung (Bề thế)"
   },
   {
     "key": "effector_name_SleptInSharedBedroomSomewhatImpressive",
@@ -315,7 +315,7 @@
     "key": "effector_name_SleptInSharedBedroomExtremelyImpressive",
     "type": 0,
     "en": "Slept in shared quarters (Palatial)",
-    "vi": "Ngủ trong phòng chung (Tráng lệ)"
+    "vi": "Ngủ trong phòng chung (Nguy nga)"
   },
   {
     "key": "effector_info_SleptInBedroom",
@@ -327,7 +327,7 @@
     "key": "effector_info_SleptInSharedBedroom",
     "type": 0,
     "en": "There's something comforting about falling asleep surrounded by friends. I feel safe and cosy.",
-    "vi": "Ngủ giữa những người bạn đem lại cảm giác dễ chịu. Tôi thấy an đểàn và ấm cúng."
+    "vi": "Ngủ giữa những người bạn đem lại cảm giác dễ chịu. Tôi thấy an toàn và ấm cúng."
   },
   {
     "key": "bed_effector",
@@ -591,7 +591,7 @@
     "key": "room_type_bedroom_individual",
     "type": 0,
     "en": "<name>`s Chamber",
-    "vi": "Phòng của <name>"
+    "vi": "Phòng riêng của <name>"
   },
   {
     "key": "room_type_bedroom_shared",
@@ -615,7 +615,7 @@
     "key": "room_info_kitchen",
     "type": 0,
     "en": "Knives glint in the glow cast by the hot stove. The kitchen is the heart of any home, where food is lovingly prepared. Meals are produced faster here than anywhere else.",
-    "vi": "Dao sáng lên dưới ánh bếp nóng. Nhà bếp là trái tim của mọi mái nhà, nơi món ăn được chuẩn bị bằng sự tận tâm. Bữa ăn được làm ở đây nhanh hơn bất cứ đâu."
+    "vi": "Những con dao sáng lấp lánh dưới ánh lửa bập bùng từ gian bếp nóng. Nhà bếp chính là trái tim của mọi mái nhà, nơi những món ăn được chuẩn bị bằng cả tấm lòng. Bữa ăn được nấu tại đây nhanh hơn bất kỳ nơi nào khác."
   },
   {
     "key": "room_info_workshop",
@@ -657,7 +657,7 @@
     "key": "room_info_great_hall",
     "type": 0,
     "en": "A place for tales and music through the long nights, for feasting or plotting. Where the settlers gather to take their daily bread. ",
-    "vi": "Nơi vang vọng những khúc ca sử thi hào hùng và những câu chuyện truyền kỳ thâu đêm suốt sáng, nơi diễn ra những bữa đại yến linh đình hay những mưu đồ chính trị kín đáo. Nơi toàn thể dân làng quây quần bên nhau để chia sẻ tấm bánh mì sinh tồn hằng ngày."
+    "vi": "Nơi vang vọng những khúc ca sử thi hào hùng và những câu chuyện truyền kỳ thâu đêm suốt sáng, nơi diễn ra những bữa đại yến linh đình hay những mưu đồ chính trị kín đáo. Nơi toàn thể dân làng quây quần bên nhau để sẻ chia bữa ăn ấm cúng hằng ngày."
   },
   {
     "key": "room_info_default",
@@ -849,7 +849,7 @@
     "key": "room_imp_extremely_impressive",
     "type": 0,
     "en": "Palatial",
-    "vi": "Tuyệt Mỹ Cung Điện"
+    "vi": "Nguy Nga"
   },
   {
     "key": "room_type_medical",
@@ -873,7 +873,7 @@
     "key": "room_imp_free_space",
     "type": 0,
     "en": "Spaciousness",
-    "vi": "Không Gian Trống Trải"
+    "vi": "Độ Thoáng Đãng"
   },
   {
     "key": "room_imp_free_space_info",

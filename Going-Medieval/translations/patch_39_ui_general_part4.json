@@ -129,13 +129,13 @@
     "key": "general_male",
     "type": 0,
     "en": "m",
-    "vi": "nam"
+    "vi": "Nam"
   },
   {
     "key": "general_female",
     "type": 0,
     "en": "f",
-    "vi": "nữ"
+    "vi": "Nữ"
   },
   {
     "key": "is_storable_on_some_stockpile",
@@ -147,7 +147,7 @@
     "key": "is_marked_for_hauling",
     "type": 0,
     "en": "Marked for hauling",
-    "vi": "Marked cho Vận chuyển"
+    "vi": "Đã đánh dấu để vận chuyển"
   },
   {
     "key": "reserved_spaces",
@@ -189,19 +189,19 @@
     "key": "is_marked_for_cutting",
     "type": 0,
     "en": "Marked for cutting",
-    "vi": "Marked cho cutting"
+    "vi": "Đã đánh dấu để chặt hạ"
   },
   {
     "key": "is_marked_for_harvest",
     "type": 0,
     "en": "Marked for harvesting",
-    "vi": "Marked cho Thu hoạch"
+    "vi": "Đã đánh dấu để thu hoạch"
   },
   {
     "key": "select_all_tooltip",
     "type": 0,
     "en": "Mark/Clear All",
-    "vi": "Mark/Xóa sạch Tất cả"
+    "vi": "Chọn / Bỏ chọn tất cả"
   },
   {
     "key": "game_difficulty_Custom_title",
@@ -219,7 +219,7 @@
     "key": "predators_cant_attack",
     "type": 0,
     "en": "Cannot be targeted by predators",
-    "vi": "Không thể được targeted bởi predators"
+    "vi": "Không bị thú săn mồi nhắm làm mục tiêu"
   },
   {
     "key": "general_in_storage",
@@ -249,7 +249,7 @@
     "key": "sow_recomended_time",
     "type": 0,
     "en": "Recommended sowing period",
-    "vi": "Recommended Gieo trồng period"
+    "vi": "Thời vụ gieo trồng khuyến nghị"
   },
   {
     "key": "heatmap_legend",
@@ -333,7 +333,7 @@
     "key": "effector_name_BeliefFlawlessItemChristian",
     "type": 0,
     "en": "God's grace guided this creation",
-    "vi": "God's grace guided điều này creation"
+    "vi": "Ơn Chúa đã dẫn lối tạo tác hoàn mỹ này"
   },
   {
     "key": "effector_name_BeliefFlawlessItemPagan",
@@ -375,7 +375,7 @@
     "key": "temperature_out_of_range",
     "type": 0,
     "en": "Unsuitable temperature",
-    "vi": "Unsuitable Nhiệt độ"
+    "vi": "Nhiệt độ không thích hợp"
   },
   {
     "key": "ground",
@@ -387,13 +387,13 @@
     "key": "decay_speed_under_water",
     "type": 0,
     "en": "Water decay rate modifier",
-    "vi": "Nước decay rate modifier"
+    "vi": "Hệ số tốc độ phân hủy dưới nước"
   },
   {
     "key": "decay_speed_per_temperature",
     "type": 0,
     "en": "Temperature decay rate modifier",
-    "vi": "Nhiệt độ decay rate modifier"
+    "vi": "Hệ số tốc độ phân hủy theo nhiệt độ"
   },
   {
     "key": "decay_speed_per_ground",
@@ -405,13 +405,13 @@
     "key": "decay_speed_per_weather",
     "type": 0,
     "en": "Weather decay rate modifier",
-    "vi": "Thời tiết decay rate modifier"
+    "vi": "Hệ số tốc độ phân hủy theo thời tiết"
   },
   {
     "key": "ferment_speed_per_temperature",
     "type": 0,
     "en": "Temperature fermentation rate modifier",
-    "vi": "Nhiệt độ fermentation rate modifier"
+    "vi": "Hệ số tốc độ lên men theo nhiệt độ"
   },
   {
     "key": "lb_protector",
@@ -423,7 +423,7 @@
     "key": "protecting_from_predators",
     "type": 0,
     "en": "Protected from predators by",
-    "vi": "Protected từ predators bởi"
+    "vi": "Được bảo vệ khỏi thú săn mồi bởi"
   },
   {
     "key": "stat_disabled",
@@ -435,7 +435,7 @@
     "key": "stat_locked",
     "type": 0,
     "en": "This stat is locked. Its value won't change. But the associated buffs will be present.",
-    "vi": "Này stat là locked. Của nó giá trị won't change. But associated buffs sẽ được present."
+    "vi": "Chỉ số này đã bị khóa. Giá trị sẽ không thay đổi, nhưng các hiệu ứng bổ trợ liên quan vẫn sẽ có tác dụng."
   },
   {
     "key": "water_lvl_01",
@@ -459,13 +459,13 @@
     "key": "cropfield_error_underwater",
     "type": 0,
     "en": "Cannot sow here, the field is flooded",
-    "vi": "Không thể gieo hạt here, field là flooded"
+    "vi": "Không thể gieo hạt ở đây, cánh đồng đã bị ngập nước"
   },
   {
     "key": "production_stopped_underwater",
     "type": 0,
     "en": "Production halted due to flooding",
-    "vi": "Sản xuất halted due để flooding"
+    "vi": "Sản xuất bị tạm dừng do ngập nước"
   },
   {
     "key": "cropfield_error_not_underwater",
@@ -489,13 +489,13 @@
     "key": "Foundations_apply_order",
     "type": 0,
     "en": "Building phase",
-    "vi": "Công trình phase"
+    "vi": "Giai đoạn xây dựng"
   },
   {
     "key": "All_apply_order",
     "type": 0,
     "en": "Apply to all",
-    "vi": "Áp dụng để all"
+    "vi": "Áp dụng cho tất cả"
   },
   {
     "key": "general_prisoners",
@@ -525,25 +525,25 @@
     "key": "bbt_prisoner_run",
     "type": 0,
     "en": "<name> is making a run for it!",
-    "vi": "<name> là making a run cho nó!"
+    "vi": "<name> đang tìm cách bỏ trốn!"
   },
   {
     "key": "bbt_prisoner_gone",
     "type": 0,
     "en": "<name> has reached the edge of the map and escaped.",
-    "vi": "<name> có reached edge của map và escaped."
+    "vi": "<name> đã chạy đến rìa bản đồ và trốn thoát thành công."
   },
   {
     "key": "bbt_prisoner_released",
     "type": 0,
     "en": "<name> has been released",
-    "vi": "<name> có been released"
+    "vi": "<name> đã được phóng thích"
   },
   {
     "key": "prioritise_escort",
     "type": 0,
     "en": "Prioritise: Escort to cell",
-    "vi": "Ưu tiên: Escort để cell"
+    "vi": "Ưu tiên: Áp giải vào phòng giam"
   },
   {
     "key": "prioritise_escort_error_no_reachable_jail_cell",
@@ -561,13 +561,13 @@
     "key": "bbt_no_cell_exists",
     "type": 0,
     "en": "There is no room designated as a cell.",
-    "vi": "Chưa có căn phòng nào được quy hoạch làm xà lim phòng giam."
+    "vi": "Chưa có căn phòng nào được chỉ định làm phòng giam."
   },
   {
     "key": "prioritise_turn",
     "type": 0,
     "en": "Prioritise: Recruit",
-    "vi": "Ưu Tiên: Chiêu Mộ Tù Nhân"
+    "vi": "Ưu tiên: Chiêu mộ"
   },
   {
     "key": "bbt_prisoners_cant_be_turned",
@@ -699,7 +699,7 @@
     "key": "prioritise_strip",
     "type": 0,
     "en": "Prioritise: Strip",
-    "vi": "Ưu Tiên: Lột Đồ Tù Nhân"
+    "vi": "Ưu tiên: Lột đồ tù nhân"
   },
   {
     "key": "worker_action_PrisonStashHaulingGoal",
@@ -711,7 +711,7 @@
     "key": "prioritise_prison_stash_refill",
     "type": 0,
     "en": "Prioritise: Feed prisoners",
-    "vi": "Ưu Tiên: Đem Cơm Cho Tù Nhân"
+    "vi": "Ưu tiên: Tiếp tế thức ăn cho tù nhân"
   },
   {
     "key": "bbt_prisoner_has_recruited",
@@ -753,7 +753,7 @@
     "key": "prioritise_shackle",
     "type": 0,
     "en": "Prioritise: Shackle",
-    "vi": "Ưu Tiên: Đeo Xiềng Xích"
+    "vi": "Ưu tiên: Khóa xiềng xích"
   },
   {
     "key": "no_item_available",

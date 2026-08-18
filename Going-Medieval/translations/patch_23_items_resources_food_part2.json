@@ -3,13 +3,13 @@
     "key": "resource_holder_name_dig_marker_rocky",
     "type": 0,
     "en": "Rocky Soil",
-    "vi": "Vùng Đất Sỏi Đá"
+    "vi": "Đất Sỏi Đá"
   },
   {
     "key": "resource_holder_info_dig_marker_rocky",
     "type": 0,
     "en": "Good soil is like black gold. But sometimes, rocky ground is all there is to work with.",
-    "vi": "Đất phù sa màu mỡ quý giá như vàng đen. Nhưng đôi khi, những bãi đất cằn cỗi đầy sỏi đá lại là tất cả những gì bạn có để canh tác sinh tồn."
+    "vi": "Đất màu mỡ quý giá như vàng đen. Nhưng đôi khi, đất sỏi đá là tất cả những gì bạn có để canh tác."
   },
   {
     "key": "resource_holder_name_dig_marker_clay",
@@ -21,7 +21,7 @@
     "key": "resource_holder_name_dig_marker_empty",
     "type": 0,
     "en": "Dirt",
-    "vi": "Đất Nền"
+    "vi": "Đất Trống"
   },
   {
     "key": "resource_holder_name_dig_marker_gold",
@@ -63,7 +63,7 @@
     "key": "resource_holder_name_dig_marker_sand",
     "type": 0,
     "en": "Sand Deposit",
-    "vi": "Bãi Cát Tự Nhiên"
+    "vi": "Bãi Cát"
   },
   {
     "key": "resource_holder_name_dig_marker_silver",
@@ -75,7 +75,7 @@
     "key": "resource_holder_name_wild_flax_patch",
     "type": 0,
     "en": "Flax (Growing wild)",
-    "vi": "Cây Lanh (Mọc Hoang Dã)"
+    "vi": "Cây Lanh (Mọc Hoang)"
   },
   {
     "key": "resource_holder_name_flax_patch",
@@ -87,7 +87,7 @@
     "key": "resource_holder_name_hay_patch",
     "type": 0,
     "en": "Tall Grass",
-    "vi": "Đồng Cỏ Khô"
+    "vi": "Đồng Cỏ Cao"
   },
   {
     "key": "resource_holder_name_herbs_patch",
@@ -105,169 +105,169 @@
     "key": "resource_holder_name_shrub_ivy",
     "type": 0,
     "en": "Ivy Shrub",
-    "vi": "Bụi thường xuân"
+    "vi": "Bụi Thường Xuân"
   },
   {
     "key": "resource_holder_name_shrub_redcurrant",
     "type": 0,
     "en": "Redcurrant Shrub",
-    "vi": "Bụi lý chua đỏ"
+    "vi": "Bụi Lý Chua Đỏ"
   },
   {
     "key": "resource_holder_name_tree_birch",
     "type": 0,
     "en": "Birch Tree",
-    "vi": "Birch Cây thân gỗ"
+    "vi": "Cây Bạch Dương"
   },
   {
     "key": "resource_holder_name_tree_oak",
     "type": 0,
     "en": "Oak Tree",
-    "vi": "Oak Cây thân gỗ"
+    "vi": "Cây Sồi"
   },
   {
     "key": "resource_holder_name_tree_pine",
     "type": 0,
     "en": "Scots Pine",
-    "vi": "Cây thông Scots"
+    "vi": "Cây Thông Scots"
   },
   {
     "key": "resource_holder_name_tree_plane",
     "type": 0,
     "en": "Field Maple",
-    "vi": "Cây phong đồng"
+    "vi": "Cây Phong Dại"
   },
   {
     "key": "resource_holder_name_tree_quince",
     "type": 0,
     "en": "Quince Tree",
-    "vi": "Quince Cây thân gỗ"
+    "vi": "Cây Mộc Qua"
   },
   {
     "key": "resource_holder_name_tree_walnut",
     "type": 0,
     "en": "Walnut Tree",
-    "vi": "Walnut Cây thân gỗ"
+    "vi": "Cây Óc Chó"
   },
   {
     "key": "resource_holder_name_tree_damson",
     "type": 0,
     "en": "Damson Tree",
-    "vi": "Damson Cây thân gỗ"
+    "vi": "Cây Mận Damson"
   },
   {
     "key": "resource_holder_name_tree_mulberrie",
     "type": 0,
     "en": "Mulberry Tree",
-    "vi": "Mulberry Cây thân gỗ"
+    "vi": "Cây Dâu Tằm"
   },
   {
     "key": "resource_holder_info_tree_quince",
     "type": 0,
     "en": "Bears a legendary, tough fruit that welcomes spicing with nutmeg or cloves. ",
-    "vi": "Cho ra loại quả cứng cáp nổi tiếng, rất tuyệt khi ướp cùng nhục đậu khấu hoặc đinh hương."
+    "vi": "Cho ra loại quả cứng cáp nức tiếng, rất hợp khi ướp cùng nhục đậu khấu hoặc đinh hương."
   },
   {
     "key": "resource_holder_info_tree_walnut",
     "type": 0,
     "en": "This ill-omened tree yet bears useful nuts and fine timber. Beware falling asleep in its shade, which is an invitation to malign spirits.",
-    "vi": "Cây óc chó mang lại những quả hạch thơm bùi và gỗ quý sẫm màu tuyệt đẹp."
+    "vi": "Loài cây bị xem là điềm gở này lại cho hạt quả hữu ích và gỗ thượng hạng. Hãy cẩn thận chớ ngủ say dưới bóng râm của nó, vì đó là lời mời gọi tà ma."
   },
   {
     "key": "resource_holder_info_tree_damson",
     "type": 0,
     "en": "Was this damascene plum brought to England by a weary crusader? ",
-    "vi": "Giống mận tím Damson trứ danh được những người lính thập tự chinh mang về từ phương xa."
+    "vi": "Phải chăng giống mận Damson này đã được một chiến binh thập tự chinh mỏi gối mang về nước Anh?"
   },
   {
     "key": "resource_holder_info_tree_mulberrie",
     "type": 0,
     "en": "Stained red since the tragic demise of Pyramus and Thisbe, this tree is often planted in the infirmary garden.",
-    "vi": "Cây dâu tằm với những quả mọng tím đỏ ngọt ngào, thường được trồng trong vườn thuốc bệnh xá."
+    "vi": "Nhuộm sắc đỏ thẫm kể từ cái chết bi thương của Pyramus và Thisbe, loài cây này thường được trồng trong vườn cây thuốc của bệnh xá."
   },
   {
     "key": "resource_holder_name_shrub_blackberry",
     "type": 0,
     "en": "Bramble Bush",
-    "vi": "Bụi cây dâu tằm đen"
+    "vi": "Bụi Dâu Gai"
   },
   {
     "key": "resource_holder_name_shrub_sloe",
     "type": 0,
     "en": "Blackthorn Bush",
-    "vi": "Bụi cây mận gai"
+    "vi": "Bụi Mận Gai"
   },
   {
     "key": "resource_holder_name_shrub_gooseberry",
     "type": 0,
     "en": "Gooseberry Bush",
-    "vi": "Bụi cây phúc bồn tử xanh"
+    "vi": "Bụi Cây Lý Gai"
   },
   {
     "key": "resource_holder_info_shrub_blackberry",
     "type": 0,
     "en": "The Devil himself landed in a bramble when he was cast out of heaven. Prickly, but worth it for the prize of sweet blackberries.",
-    "vi": "Bụi gai rậm rạp đầy gai nhọn nhưng đền đáp bằng những chùm quả dâu đen ngọt ngào."
+    "vi": "Chính Quỷ dữ đã rơi vào bụi gai khi bị trục xuất khỏi thiên đàng. Gai góc cào xước, nhưng hoàn toàn xứng đáng với phần thưởng là những quả dâu đen ngọt ngào."
   },
   {
     "key": "resource_holder_info_shrub_sloe",
     "type": 0,
     "en": "A thicket of wicked thorns, bearing bitter black sloes. The Cailleach strikes the ground with a blackthorn staff to initiate winter.",
-    "vi": "Bụi mận gai sắc nhọn mang những quả mận đen chát dùng để ngâm ủ rượu mùa đông."
+    "vi": "Bụi mận gai tua tủa gai nhọn hiểm ác, trĩu những quả mận đen chát ngắt. Mụ phù thủy mùa đông Cailleach gõ gậy mận gai xuống đất để bắt đầu mùa đông."
   },
   {
     "key": "resource_holder_info_shrub_gooseberry",
     "type": 0,
     "en": "The damp and windy climate of the British Isles seems to favour this tart green fruit, also known as a fea-berry in some parts.",
-    "vi": "Khí hậu ẩm ướt gió mùa của đảo Anh nuôi dưỡng những quả lý gai xanh chua thanh mát lành."
+    "vi": "Khí hậu ẩm ướt đầy gió của quần đảo Anh dường như rất ưu ái loài quả xanh chua thanh này, ở một số nơi còn gọi là quả fea-berry."
   },
   {
     "key": "resource_holder_name_rose_patch",
     "type": 0,
     "en": "Rose Bush",
-    "vi": "Bụi hoa hồng"
+    "vi": "Bụi Hoa Hồng"
   },
   {
     "key": "resource_holder_info_rose_patch",
     "type": 0,
     "en": "The flower of love and a symbol of England. Fivefold petals represent the five wounds of Christ.",
-    "vi": "Đóa hoa biểu tượng của tình yêu và nước Anh, tỏa hương thơm ngát dịu dàng."
+    "vi": "Loài hoa của tình yêu và biểu tượng của nước Anh. Năm cánh hoa tượng trưng cho năm vết thương của Chúa Cứu Thế."
   },
   {
     "key": "resource_holder_name_belladonna_patch",
     "type": 0,
     "en": "Belladona",
-    "vi": "Bụi cây cà độc dược Belladonna"
+    "vi": "Cây Cà Độc Dược Belladonna"
   },
   {
     "key": "resource_holder_name_poppy_patch",
     "type": 0,
     "en": "Poppy Patch",
-    "vi": "Vạt hoa anh túc"
+    "vi": "Vạt Hoa Anh Túc"
   },
   {
     "key": "resource_holder_info_belladonna_patch",
     "type": 0,
     "en": "The veil between easing pain and death is slight with the berries from this potent plant. A witches' poison.",
-    "vi": "Ranh giới giữa vị thuốc giảm đau và cái chết rất mong manh với quả mọng của loài cây độc này."
+    "vi": "Ranh giới giữa xoa dịu cơn đau và cái chết rất mong manh với quả mọng của loài cây độc này. Một thứ độc dược của phù thủy."
   },
   {
     "key": "resource_holder_info_poppy_patch",
     "type": 0,
     "en": "In turmoil's wake, bright poppies grow. Yields seed for baking, and draughts to ease pain.",
-    "vi": "Sau những biến động loạn lạc, những đóa anh túc đỏ rực vươn mình, cho hạt làm bánh và chiết xuất thuốc giảm đau."
+    "vi": "Sau những biến loạn loạn lạc, hoa anh túc rực rỡ vươn mình. Cho hạt để làm bánh nướng, và độc chiết thành thuốc uống xoa dịu cơn đau."
   },
   {
     "key": "resource_holder_name_tree_mighty_oak",
     "type": 0,
     "en": "Mighty Oak",
-    "vi": "Cây Sồi Đại Ngàn Thiêng Liêng"
+    "vi": "Cây Sồi Hùng Vĩ"
   },
   {
     "key": "resource_holder_info_tree_mighty_oak",
     "type": 0,
     "en": "A doorway to the otherworld, this mighty oak bears witness to the great forests that once covered this land. Standing guard with roots in the underlands and branches in the heavens, to approach it is to seek wisdom, shelter, and rebirth.",
-    "vi": "Cánh cổng bước vào thế giới thần linh, cây sồi cổ thụ ngàn năm chứng kiến những cánh rừng đại ngàn thuở sơ khai. Cội rễ đâm sâu vào lòng đất và tán lá vươn tận trời xanh."
+    "vi": "Cánh cổng dẫn lối đến thế giới bên kia, cây sồi hùng vĩ này là chứng nhân của những cánh rừng đại ngàn từng bao phủ vùng đất này. Đứng canh giữ với cội rễ đâm sâu vào lòng đất và cành lá vươn tận trời xanh, đến gần nó là để tìm kiếm sự thông thái, che chở và tái sinh."
   },
   {
     "key": "resource_holder_name_tree_mighty_oak_dead",
@@ -279,109 +279,109 @@
     "key": "resource_holder_info_tree_mighty_oak_dead",
     "type": 0,
     "en": "A grove of mighty, sacred oak trees once flourished here. Now, the last one stands hollowed, overrun with mistletoe. As the Green Knight lost his head, so must this lord of the forest be felled to encourage new life.",
-    "vi": "Từng là trung tâm của khu rừng thiêng, nay thân cây đã rỗng mục và bị tầm gửi bám kín. Cần đốn hạ để nhường chỗ cho sự sống mới sinh sôi."
+    "vi": "Một rặng sồi thiêng hùng vĩ từng tươi tốt nơi đây. Nay cây cuối cùng trơ trọi thân rỗng, bị tầm gửi phủ kín. Tựa như Hiệp sĩ Xanh chịu rơi đầu, chúa tể rừng xanh này cũng phải bị đốn hạ để nhường lối cho sự sống mới sinh sôi."
   },
   {
     "key": "resource_phase_fruitelss",
     "type": 0,
     "en": "Fruitless",
-    "vi": "Không đậu quả"
+    "vi": "Không Đậu Quả"
   },
   {
     "key": "resource_phase_seeding",
     "type": 0,
     "en": "Going to seed",
-    "vi": "Đang kết hạt giống"
+    "vi": "Đang Kết Hạt"
   },
   {
     "key": "resource_phase_growing",
     "type": 0,
     "en": "Growing",
-    "vi": "Đang sinh trưởng"
+    "vi": "Đang Sinh Trưởng"
   },
   {
     "key": "resource_phase_ripening",
     "type": 0,
     "en": "Ripening",
-    "vi": "Đang chín"
+    "vi": "Đang Chín"
   },
   {
     "key": "resource_phase_ripe",
     "type": 0,
     "en": "Ripe",
-    "vi": "Đã chín"
+    "vi": "Đã Chín"
   },
   {
     "key": "resource_phase_young",
     "type": 0,
     "en": "Young",
-    "vi": "Cây non"
+    "vi": "Cây Non"
   },
   {
     "key": "resource_phase_dead",
     "type": 0,
     "en": "Dead",
-    "vi": "Đã chết / Héo tàn"
+    "vi": "Héo Tàn"
   },
   {
     "key": "resource_phase_flowering",
     "type": 0,
     "en": "Flowering",
-    "vi": "Đang nở hoa"
+    "vi": "Đang Nở Hoa"
   },
   {
     "key": "resource_phase_budding",
     "type": 0,
     "en": "Budding",
-    "vi": "Đang đơm chồi"
+    "vi": "Đang Đơm Chồi"
   },
   {
     "key": "resource_phase_mature",
     "type": 0,
     "en": "Mature",
-    "vi": "Trưởng thành"
+    "vi": "Trưởng Thành"
   },
   {
     "key": "resource_phase_sapling",
     "type": 0,
     "en": "Sapling",
-    "vi": "Cây non"
+    "vi": "Cây Non"
   },
   {
     "key": "resource_phase_burned",
     "type": 0,
     "en": "Burnt",
-    "vi": "Đã bị cháy rụi"
+    "vi": "Đã Bị Cháy Rụi"
   },
   {
     "key": "resource_holder_name_dig_marker_wetlandDirt",
     "type": 0,
     "en": "Marshy soil",
-    "vi": "Đất lầy thụt đầm lầy"
+    "vi": "Đất Đầm Lầy"
   },
   {
     "key": "resource_holder_info_dig_marker_wetlandDirt",
     "type": 0,
     "en": "A fertile soil, good for growing crops. It is waterlogged, however. Ground works, such as digging out cellars, will not succeed. ",
-    "vi": "Loại đất màu mỡ rất tốt cho trồng trọt. Tuy nhiên đất bị úng nước nên không thể đào hầm ngầm tại đây."
+    "vi": "Một loại đất màu mỡ, rất tốt cho trồng trọt. Tuy nhiên, đất bị úng nước. Các công việc đào đất, chẳng hạn như đào hầm chứa, sẽ không thể thực hiện."
   },
   {
     "key": "animal_info_deer",
     "type": 0,
     "en": "Game forest creatures, favoured by nobles and even occasionally kept as pets. ",
-    "vi": "Loài thú rừng được giới quý tộc ưa chuộng săn bắn, và đôi khi được nuôi làm thú cưng."
+    "vi": "Loài thú rừng được giới quý tộc ưa chuộng săn bắn, và đôi khi còn được nuôi làm cảnh."
   },
   {
     "key": "animal_info_hare",
     "type": 0,
     "en": "Timid but fast, a wild hare is hard to catch. A worthy beast for the pot, and for its fur.",
-    "vi": "Nhút nhát nhưng nhanh nhẹn, thỏ rừng rất khó bắt. Thịt ngon và bộ lông cũng có giá trị."
+    "vi": "Nhút nhát nhưng nhanh như chớp, thỏ rừng rất khó bắt. Một món tuyệt vời cho nồi hầm, và bộ lông cũng rất có giá trị."
   },
   {
     "key": "animal_info_wolf",
     "type": 0,
     "en": "Despite the best efforts of Edward I to exterminate them, wolves have returned to stalk the woods of England. Beware.",
-    "vi": "Dù Edward I từng cố tiêu diệt chúng, sói đã trở lại rình rập trong rừng nước Anh. Hãy cẩn thận."
+    "vi": "Bất chấp mọi nỗ lực tiêu diệt của vua Edward I, loài sói đã quay trở lại rình rập trong những cánh rừng nước Anh. Hãy cẩn thận."
   },
   {
     "key": "animal_name_deer",
@@ -393,25 +393,25 @@
     "key": "animal_name_hare",
     "type": 0,
     "en": "Hare",
-    "vi": "Thịt thỏ"
+    "vi": "Thỏ Rừng"
   },
   {
     "key": "animal_name_wolf",
     "type": 0,
     "en": "Wolf",
-    "vi": "Thịt sói"
+    "vi": "Chó Sói"
   },
   {
     "key": "animal_name_boar",
     "type": 0,
     "en": "Boar",
-    "vi": "Thịt lợn rừng"
+    "vi": "Lợn Rừng"
   },
   {
     "key": "animal_name_fox",
     "type": 0,
     "en": "Fox",
-    "vi": "cáo"
+    "vi": "Cáo"
   },
   {
     "key": "animal_name_rat",
@@ -423,25 +423,25 @@
     "key": "animal_name_polecat",
     "type": 0,
     "en": "Polecat",
-    "vi": "Chồn hôi"
+    "vi": "Chồn Hôi"
   },
   {
     "key": "animal_name_cow",
     "type": 0,
     "en": "Cattle",
-    "vi": "Gia súc"
+    "vi": "Bò"
   },
   {
     "key": "animal_name_goat",
     "type": 0,
     "en": "Goat",
-    "vi": "dê"
+    "vi": "Dê"
   },
   {
     "key": "animal_name_sheep",
     "type": 0,
     "en": "Sheep",
-    "vi": "cừu"
+    "vi": "Cừu"
   },
   {
     "key": "animal_name_donkey",
@@ -453,19 +453,19 @@
     "key": "animal_name_cat",
     "type": 0,
     "en": "Cat",
-    "vi": "mèo"
+    "vi": "Mèo"
   },
   {
     "key": "animal_name_dog",
     "type": 0,
     "en": "Dog",
-    "vi": "chó"
+    "vi": "Chó"
   },
   {
     "key": "animal_name_pheasant",
     "type": 0,
     "en": "Pheasant",
-    "vi": "Gà lôi"
+    "vi": "Gà Lôi"
   },
   {
     "key": "animal_name_chicken",
@@ -477,19 +477,19 @@
     "key": "animal_name_pig",
     "type": 0,
     "en": "Pig",
-    "vi": "lợn"
+    "vi": "Lợn"
   },
   {
     "key": "animal_name_bear",
     "type": 0,
     "en": "Bear",
-    "vi": "Thịt gấu"
+    "vi": "Gấu"
   },
   {
     "key": "animal_info_bear",
     "type": 0,
     "en": "A mighty predator, once lost to these shores, but now resurgent and deadly. It must have escaped from a bear pit.",
-    "vi": "Kẻ săn mồi hùng mạnh từng biến mất khỏi vùng đất này, nay đã trở lại và đầy nguy hiểm. Hẳn nó đã thoát khỏi một hố nuôi gấu."
+    "vi": "Loài thú săn mồi hùng dũng từng vắng bóng nơi bờ cõi này, nay đã trỗi dậy đầy nguy hiểm. Chắc hẳn nó đã trốn thoát khỏi một đấu trường nhốt gấu."
   },
   {
     "key": "animal_name_badger",
@@ -501,7 +501,7 @@
     "key": "animal_name_hound",
     "type": 0,
     "en": "Wild Hound",
-    "vi": "Hoang dã Hound"
+    "vi": "Chó Săn Hoang"
   },
   {
     "key": "animal_name_london_pigs",
@@ -513,85 +513,85 @@
     "key": "animal_info_boar",
     "type": 0,
     "en": "Grisly, and fearless in the face of death. A boar is a ferocious opponent fit for a knight in training.",
-    "vi": "Lì lợm và không sợ chết, lợn rừng là đối thủ hung dữ, xứng đáng để hiệp sĩ luyện tập."
+    "vi": "Dữ tợn và không biết sợ chết trước lưỡi gươm, lợn rừng là đối thủ hung bạo xứng tầm để rèn luyện hiệp sĩ."
   },
   {
     "key": "animal_info_wild_hound",
     "type": 0,
     "en": "Untended dogs will become a feral pack without a human master. Hungry, wild and vicious.",
-    "vi": "Chó không được chăm sóc sẽ tụ thành bầy hoang khi thiếu chủ. Chúng đói khát, hoang dã và hung dữ."
+    "vi": "Những con chó không ai chăm sóc sẽ họp thành bầy hoang dã khi thiếu bóng chủ nhân. Chúng đói khát, hoang dại và hung tợn."
   },
   {
     "key": "animal_info_fox",
     "type": 0,
     "en": "Old Reynard the Fox is a sly trickster, who will steal your hens and worry your sheep.",
-    "vi": "Cáo Reynard già là kẻ xảo quyệt, chuyên trộm gà mái và quấy phá đàn cừu."
+    "vi": "Lão cáo Reynard là kẻ lừa đảo ranh mãnh, luôn rình mò trộm gà mái và quấy phá đàn cừu của bạn."
   },
   {
     "key": "animal_info_badger",
     "type": 0,
     "en": "These nocturnal creatures usually mind their own business, but eat everything and can be aggressive if confronted.",
-    "vi": "Sinh vật hoạt động về đêm này thường không gây chuyện, nhưng ăn mọi thứ và có thể hung hãn khi bị đối đầu."
+    "vi": "Sinh vật ăn đêm này thường chỉ lo việc của mình, nhưng chúng ăn mọi thứ và có thể trở nên hung dữ nếu bị đối đầu."
   },
   {
     "key": "animal_info_rat",
     "type": 0,
     "en": "The sound of scurrying and scratching, food and stores gnawed and spoiled. You smell a rat.",
-    "vi": "Âm thanh cào cấu sột soạt trong bóng tối, thực phẩm và kho dự trữ bị gặm nhấm tan hoang. Bạn ngửi thấy mùi chuột bọ rình rập."
+    "vi": "Tiếng chân chạy loạn xạ và cào cấu sột soạt, thức ăn và kho tàng bị gặm nhấm tan hoang. Bạn ngửi thấy mùi lũ chuột phá hoại."
   },
   {
     "key": "animal_info_london_pigs",
     "type": 0,
     "en": "As London fell into ruins, feral hogs once belonging to St Anthony's hospital got a taste for human flesh. ",
-    "vi": "Khi thành London sụp đổ trong điêu tàn, đàn lợn hoang từng thuộc bệnh viện St Anthony đã quen mùi và thèm khát thịt người."
+    "vi": "Khi thành London chìm trong hoang tàn, đàn lợn hoang từng thuộc bệnh viện St Anthony đã nếm mùi và trở nên thèm khát thịt người."
   },
   {
     "key": "animal_info_pheasant",
     "type": 0,
     "en": "Best hunted with a trained hound. A pheasant is not an especially bright bird, but it is a tasty one.",
-    "vi": "Săn bắt hiệu quả nhất khi có chó săn thiện chiến dẫn đường. Gà lôi không phải loài chim thông minh nhưng thịt lại vô cùng thơm ngon béo ngậy."
+    "vi": "Săn bắt hiệu quả nhất cùng một chú chó săn thiện nghệ. Gà lôi không phải loài chim thông minh, nhưng thịt lại rất thơm ngon."
   },
   {
     "key": "animal_info_sheep",
     "type": 0,
     "en": "Sheep turn England's grass into cash. Best kept for its valuable wool, it also yields meat, milk and hides.",
-    "vi": "Đàn cừu biến những đồng cỏ xanh ngát của nước Anh thành tiền vàng. Được nuôi dưỡng chủ yếu để lấy len quý giá, cừu cũng cung cấp nguồn thịt, sữa và da thuộc dồi dào."
+    "vi": "Cừu biến đồng cỏ nước Anh thành tiền bạc. Được nuôi tốt nhất để lấy bộ lông cừu quý giá, chúng còn cung cấp thịt, sữa và da thuộc."
   },
   {
     "key": "animal_info_goat",
     "type": 0,
     "en": "Good for milk, meat and hides, a goat will eat almost anything, thriving even on poor land.",
-    "vi": "Cung cấp nguồn sữa bổ dưỡng, thịt tươi và da thuộc; loài dê ăn tạp gần như mọi thứ và sinh trưởng tốt ngay cả trên những vùng đất cằn cỗi nhất."
+    "vi": "Cho nguồn sữa, thịt và da thuộc bổ dưỡng; loài dê có thể ăn gần như mọi thứ và phát triển tươi tốt ngay cả trên những mảnh đất cằn cỗi nhất."
   },
   {
     "key": "animal_info_chicken",
     "type": 0,
     "en": "Our feathered friends kindly provide eggs and meat. They need regular care and guarding from predators.",
-    "vi": "Những người bạn lông vũ cung cấp nguồn trứng và thịt tươi ngon dồi dào. Chúng cần được chăm sóc thường xuyên và bảo vệ trước thú dữ ăn thịt."
+    "vi": "Những người bạn lông vũ này cần mẫn cung cấp trứng và thịt tươi. Chúng cần được chăm sóc đều đặn và bảo vệ khỏi thú dữ ăn thịt."
   },
   {
     "key": "animal_info_cat",
     "type": 0,
     "en": "Useful for killing vermin, but possibly in league with the devil. Used in Cathar rites and familiar to witches.",
-    "vi": "Rất hữu ích trong việc bắt chuột và diệt trừ sâu bọ, nhưng đôi khi bị coi là tay sai của quỷ dữ. Từng được sử dụng trong các nghi thức bí truyền và là linh thú của phù thủy."
+    "vi": "Rất có ích để bắt chuột và diệt trừ sâu bọ, nhưng bị nghi là câu kết với ma quỷ. Từng được dùng trong các nghi lễ phái Cathar và là linh thú thân cận của phù thủy."
   },
   {
     "key": "animal_info_dog",
     "type": 0,
     "en": "Whether guarding your home or at your side while hunting, a well-trained hound is justifiably a status symbol.",
-    "vi": "Dù làm nhiệm vụ canh gác tổ ấm hay sát cánh bên chủ nhân trong các chuyến săn, một chú chó săn thuần thục luôn là biểu tượng địa vị đáng tự hào."
+    "vi": "Dù là canh gác mái nhà hay kề vai sát cánh khi đi săn, một chú chó săn huấn luyện bài bản đích thực là một biểu tượng của địa vị."
   },
   {
     "key": "animal_info_pig",
     "type": 0,
     "en": "A fat hog should be fed on acorns in the forest. Can be executed for murder - mind your children.",
-    "vi": "Những chú lợn béo núc ních nên được vỗ béo bằng quả sồi trong rừng sâu. Chúng có thể trở nên hung dữ — hãy luôn để mắt bảo vệ trẻ nhỏ."
+    "vi": "Lợn béo nên được vỗ béo bằng quả sồi trong rừng. Từng có con bị đem ra xử tử vì tội giết người — hãy coi chừng con trẻ."
   },
   {
     "key": "resource_holder_info_tree_apple",
     "type": 0,
     "en": "Bearing crisp, tempting autumn fruit, and wood perfect for turning or carving.",
-    "vi": "Mang lại những chùm quả táo mùa thu giòn ngọt mọng nước, cùng chất gỗ dẻo dai hoàn hảo để tiện tròn và chạm khắc tinh xảo."
+    "vi": "Cho ra những quả táo mùa thu giòn ngọt mời gọi, cùng loại gỗ hoàn hảo để tiện tròn hoặc chạm khắc tinh xảo."
   },
   {
     "key": "resource_holder_name_tree_apple",
@@ -603,37 +603,37 @@
     "key": "animal_info_polecat",
     "type": 0,
     "en": "Nocturnal predators that eat rabbits, rats and birds, these slender mammals kill with a swift bite to the neck.",
-    "vi": "Loài thú săn mồi đêm chuyên bắt thỏ, chuột và chim nhỏ. Với thân hình thon dài uyển chuyển, chúng kết liễu con mồi bằng nhát cắn chí mạng vào cổ họng."
+    "vi": "Loài thú săn đêm chuyên ăn thịt thỏ, chuột và chim nhỏ; chúng kết liễu con mồi bằng một nhát cắn chớp nhoáng vào cổ."
   },
   {
     "key": "animal_info_cow",
     "type": 0,
     "en": "Hoofy bovines reared for their meat and milk. A peasant's most prized possession.",
-    "vi": "Loài gia súc móng guốc được chăn nuôi để lấy thịt và sữa tươi. Tài sản quý giá nhất trong gia tài của người nông dân."
+    "vi": "Loài bò móng guốc được nuôi để lấy thịt và sữa tươi. Tài sản quý giá nhất của người nông dân."
   },
   {
     "key": "animal_info_donkey",
     "type": 0,
     "en": "Obstinate, ubiquitous, hardworking. A humble beast of burden, used to carry heavy loads. ",
-    "vi": "Bướng bỉnh, bền bỉ và vô cùng chịu thương chịu khó. Loài vật kéo xe khiêm nhường gánh vác mọi chuyến hàng nặng nhọc."
+    "vi": "Bướng bỉnh, phổ biến khắp nơi và chăm chỉ cày cuốc. Một loài vật thồ khiêm nhường, được dùng để chở vác những kiện hàng nặng."
   },
   {
     "key": "resource_holder_info_tree_willow",
     "type": 0,
     "en": "A silver-leaved denizen of waterside and fenland, the willow tree is fast-growing and pliable.",
-    "vi": "Cư dân lá bạc kiều diễm ven bờ sông và vùng đầm lầy, cây liễu lớn nhanh như thổi và có cành nhánh mềm mại uốn lượn."
+    "vi": "Cư dân lá bạc ven bờ sông nước và đầm lầy, cây liễu lớn rất nhanh và cành nhánh dẻo dai uốn lượn."
   },
   {
     "key": "resource_holder_name_tree_willow",
     "type": 0,
     "en": "Willow",
-    "vi": "Cây Liễu Rủ"
+    "vi": "Cây Liễu"
   },
   {
     "key": "resource_holder_info_reed_patch",
     "type": 0,
     "en": "Growing in the shallows or on marshy ground, it blankets our lowlands with rippling gold.",
-    "vi": "Mọc ven các vùng nước nông và đầm lầy trũng, dệt nên tấm thảm vàng óng ả phủ khắp miền quê thanh bình."
+    "vi": "Mọc nơi vùng nước nông hoặc trên vùng đất sình lầy, nó phủ kín miền đất thấp của chúng ta bằng màu vàng nhấp nhô gợn sóng."
   },
   {
     "key": "resource_holder_name_reed_patch",
@@ -651,19 +651,19 @@
     "key": "animal_info_water_vole",
     "type": 0,
     "en": "Bright eyes glimpsed in a tiny burrow at the water's edge. Splash! And he's gone.",
-    "vi": "Đôi mắt tròn xoe lấp lánh hé nhìn từ chiếc hang nhỏ bên mép nước. Bùm một tiếng lặn tăm! Nó đã biến mất dưới làn nước mát."
+    "vi": "Đôi mắt sáng loáng thoáng thấy trong một chiếc hang nhỏ ven mép nước. Tõm một tiếng! Nó đã lặn mất tăm."
   },
   {
     "key": "animal_name_mallard",
     "type": 0,
     "en": "Mallard",
-    "vi": "Vịt Trời Đầu Xanh"
+    "vi": "Vịt Trời Cổ Xanh"
   },
   {
     "key": "animal_info_mallard",
     "type": 0,
     "en": "Dabbling waterfowl. The females are brown, but the males are jewel-bright green and blue.",
-    "vi": "Loài thủy cầm bơi lội kiếm ăn trên mặt hồ. Vịt mái có bộ lông màu nâu mộc mạc, trong khi vịt trống khoác lên mình bộ lông vũ màu xanh ngọc bích rực rỡ."
+    "vi": "Loài thủy cầm bơi lội kiếm ăn. Vịt mái có màu nâu, nhưng vịt trống lại rực rỡ sắc xanh lục và xanh lam như ngọc quý."
   },
   {
     "key": "animal_name_fish_pike",
@@ -675,7 +675,7 @@
     "key": "animal_info_fish_pike",
     "type": 0,
     "en": "You will need a strong line to catch this monster. Serve with a strong Galentyne sauce, spiced with cinnamon.",
-    "vi": "Bạn sẽ cần một sợi dây cước cực kỳ chắc chắn để kéo được con thủy quái này lên bờ. Thưởng thức tuyệt nhất khi nấu cùng sốt Galentyne nêm quế cay nồng."
+    "vi": "Bạn sẽ cần một sợi dây câu thật chắc để bắt con quái vật này. Thưởng thức kèm nước xốt Galentyne đậm đà, nêm thêm quế thơm nồng."
   },
   {
     "key": "animal_name_fish_trout",
@@ -687,7 +687,7 @@
     "key": "animal_info_fish_trout",
     "type": 0,
     "en": "Common enough where the waters are clear and small bugs plentiful. Delicious fried, stuffed with butter and lovage.",
-    "vi": "Xuất hiện phổ biến nơi những dòng suối trong vắt và dồi dào phù du. Rất ngon khi rán giòn, nhồi bơ thơm lừng và lá mùi tây lovage."
+    "vi": "Khá phổ biến ở những nơi nước trong vắt và nhiều côn trùng nhỏ. Rất ngon khi chiên giòn, nhồi bơ và rau cần núi lovage."
   },
   {
     "key": "animal_name_eel",
@@ -699,7 +699,7 @@
     "key": "animal_info_eel",
     "type": 0,
     "en": "A staple for the pot at lent, our wriggly friend is also delicious fried, spiced and cooked in verjuice to create a tempting Saracen broth.",
-    "vi": "Món ăn chính trong các nồi canh hầm mùa Chay. Chú lươn trơn tuột này cũng rất ngon khi chiên giòn, nêm nếm gia vị và nấu cùng nước nho chua theo phong vị Saracen."
+    "vi": "Món ăn chính trong nồi hầm mùa Chay, người bạn trơn tuột này cũng rất ngon khi rán giòn, nêm gia vị và nấu với nước quả chua để tạo nên món nước dùng Saracen hấp dẫn."
   },
   {
     "key": "animal_color_albino",
@@ -711,7 +711,7 @@
     "key": "animal_color_bear_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Nâu Đậm"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_bear_back_spot",
@@ -759,7 +759,7 @@
     "key": "animal_color_cat_default",
     "type": 0,
     "en": "Grey",
-    "vi": "Xám Khói"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_cat_black",
@@ -783,7 +783,7 @@
     "key": "animal_color_cat_eyebrows",
     "type": 0,
     "en": "Black Tortoiseshell",
-    "vi": "Mèo Đen Đồi Mồi"
+    "vi": "Đồi Mồi Đen"
   },
   {
     "key": "animal_color_cat_hoshi",
@@ -801,7 +801,7 @@
     "key": "animal_color_cat_miki",
     "type": 0,
     "en": "Grey Piebald",
-    "vi": "Xám Lang Đốm"
+    "vi": "Xám Lang Trắng"
   },
   {
     "key": "animal_color_cat_orange",
@@ -813,7 +813,7 @@
     "key": "animal_color_cat_orange_white",
     "type": 0,
     "en": "Orange Piebald",
-    "vi": "Mèo Lang Cam Trắng"
+    "vi": "Lang Cam Trắng"
   },
   {
     "key": "animal_color_cat_siamese",
@@ -825,43 +825,43 @@
     "key": "animal_color_cat_tabby",
     "type": 0,
     "en": "Tabby",
-    "vi": "Mèo Mướp"
+    "vi": "Vằn Mướp"
   },
   {
     "key": "animal_color_cat_tiger",
     "type": 0,
     "en": "Orange tabby",
-    "vi": "Mướp Vằn Hổ"
+    "vi": "Mướp Vàng Cam"
   },
   {
     "key": "animal_color_cat_tortie",
     "type": 0,
     "en": "Tortoiseshell",
-    "vi": "Màu Đồi Mồi"
+    "vi": "Đồi Mồi"
   },
   {
     "key": "animal_color_cat_tuxedo",
     "type": 0,
     "en": "Black Piebald",
-    "vi": "Mèo Tuxedo (Lang Đen Trắng)"
+    "vi": "Lang Đen Trắng"
   },
   {
     "key": "animal_color_cat_van",
     "type": 0,
     "en": "Coloured tips",
-    "vi": "Chóp Đuôi Màu"
+    "vi": "Chóp Lông Màu"
   },
   {
     "key": "animal_color_cat_white",
     "type": 0,
     "en": "White",
-    "vi": "Trắng Tuyết"
+    "vi": "Trắng"
   },
   {
     "key": "animal_color_chicken_default",
     "type": 0,
     "en": "White",
-    "vi": "Trắng Tinh"
+    "vi": "Trắng"
   },
   {
     "key": "animal_color_chicken_red",
@@ -879,7 +879,7 @@
     "key": "animal_color_chicken_buff",
     "type": 0,
     "en": "Buff ",
-    "vi": "Vàng Kem"
+    "vi": "Vàng Da Bò"
   },
   {
     "key": "animal_color_chicken_black",
@@ -891,12 +891,12 @@
     "key": "animal_color_chicken_speckled",
     "type": 0,
     "en": "Speckled",
-    "vi": "Lông Đốm Hoa Mơ"
+    "vi": "Hoa Mơ"
   },
   {
     "key": "animal_color_chicken_black_and_white",
     "type": 0,
     "en": "Black tipped",
-    "vi": "Lông Đốm Đen Đầu Cánh"
+    "vi": "Chóp Lông Đen"
   }
 ]

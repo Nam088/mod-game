@@ -15,19 +15,19 @@
     "key": "goal_preference_name_ResearchPreference",
     "type": 0,
     "en": "Intellectual",
-    "vi": "Học thức / Nghiên cứu"
+    "vi": "Nghiên cứu"
   },
   {
     "key": "goal_preference_name_TendingPreference",
     "type": 0,
     "en": "Tend",
-    "vi": "Chăm sóc y tế"
+    "vi": "Chữa trị"
   },
   {
     "key": "goal_preference_name_ArtPreference",
     "type": 0,
     "en": "Art",
-    "vi": "Hội họa"
+    "vi": "Nghệ thuật"
   },
   {
     "key": "goal_preference_name_ViolencePreference",
@@ -57,7 +57,7 @@
     "key": "goal_preference_name_ShamanPreference",
     "type": 0,
     "en": "Druid Duties",
-    "vi": "Tu sĩ Druid Duties"
+    "vi": "Nhiệm vụ Tu sĩ Druid"
   },
   {
     "key": "goal_preference_name_FirefightPreference",
@@ -105,13 +105,13 @@
     "key": "goal_preference_info_ConvalescePreference",
     "type": 0,
     "en": "Convalesce while wounds heal.",
-    "vi": "Convalesce while Vết thương heal."
+    "vi": "Nghỉ ngơi tĩnh dưỡng trong khi chờ vết thương lành lặn."
   },
   {
     "key": "goal_preference_name_TrainingPreference",
     "type": 0,
     "en": "Combat Train",
-    "vi": "Combat Huấn luyện"
+    "vi": "Huấn luyện chiến đấu"
   },
   {
     "key": "goal_preference_info_TrainingPreference",
@@ -123,7 +123,7 @@
     "key": "goal_preference_info_TradingPreference",
     "type": 0,
     "en": "Bartering with Merchants and Negotiating",
-    "vi": "Bartering với Merchants và Negotiating"
+    "vi": "Mặc cả, thương lượng và giao thương với các thương nhân."
   },
   {
     "key": "goal_preference_info_BardPreference",
@@ -141,7 +141,7 @@
     "key": "goal_preference_info_ShamanPreference",
     "type": 0,
     "en": "Leading an Oak Brethren ceremony",
-    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+    "vi": "Chủ trì nghi lễ của Giáo phái Huynh Đệ Cây Sồi."
   },
   {
     "key": "goal_preference_info_PhysicalLabourPreference",
@@ -153,7 +153,7 @@
     "key": "goal_preference_info_MiningPreference",
     "type": 0,
     "en": "Digging and mining marked areas on the map.",
-    "vi": "Digging và Khai khoáng marked areas trên map."
+    "vi": "Đào bới và khai thác tại các khu vực được đánh dấu trên bản đồ."
   },
   {
     "key": "goal_preference_info_CraftingPreference",
@@ -165,7 +165,7 @@
     "key": "goal_preference_info_HuntingPreference",
     "type": 0,
     "en": "Hunting marked animals.",
-    "vi": "Săn bắn marked animals."
+    "vi": "Săn lùng các loài động vật được đánh dấu."
   },
   {
     "key": "goal_preference_info_SmithingPreference",
@@ -183,7 +183,7 @@
     "key": "goal_preference_info_CookingPreference",
     "type": 0,
     "en": "Producing meals and beverages. Preserving food. Butchering.",
-    "vi": "Producing bữa ăn và beverages. Preserving food. Butchering."
+    "vi": "Nấu nướng các bữa ăn và đồ uống. Bảo quản thực phẩm. Mổ thịt gia súc."
   },
   {
     "key": "goal_preference_info_TailoringPreference",
@@ -243,7 +243,7 @@
     "key": "research_info_agriculture_lvl1",
     "type": 0,
     "en": "Unlock crop fields to ensure a steady supply of food for the upcoming winter",
-    "vi": "Mở khóa crop fields để ensure a steady supply của food cho upcoming Mùa Đông"
+    "vi": "Mở khóa các ô trồng trọt nhằm đảm bảo nguồn cung lương thực ổn định cho mùa đông sắp tới."
   },
   {
     "key": "research_name_axes_lvl2",
@@ -621,7 +621,7 @@
     "key": "game_event_type_visitor",
     "type": 0,
     "en": "Friendly Visit",
-    "vi": "Chuyến viếng thăm thân thiện"
+    "vi": "Chuyến Thăm Hữu Hảo"
   },
   {
     "key": "news_name_blight",
@@ -651,25 +651,25 @@
     "key": "game_event_type_new_worker",
     "type": 0,
     "en": "New Settler",
-    "vi": "New Dân làng"
+    "vi": "Dân Làng Mới"
   },
   {
     "key": "game_event_type_enviroment",
     "type": 0,
     "en": "Environmental",
-    "vi": "Môi trường"
+    "vi": "Thiên Tai & Thời Tiết"
   },
   {
     "key": "game_event_type_player_triggered",
     "type": 0,
     "en": "<village_name> Event",
-    "vi": "<village_name> Sự kiện"
+    "vi": "Sự kiện <village_name>"
   },
   {
     "key": "game_event_type_influence",
     "type": 0,
     "en": "Renown",
-    "vi": "Danh tiếng"
+    "vi": "Cột Mốc Danh Tiếng"
   },
   {
     "key": "game_event_name_influence_20",
@@ -687,7 +687,7 @@
     "key": "game_event_name_influence_100",
     "type": 0,
     "en": "Golden age",
-    "vi": "Golden Tuổi"
+    "vi": "Thời hoàng kim"
   },
   {
     "key": "game_event_description_influence_100",
@@ -747,7 +747,7 @@
     "key": "game_event_type_season_start",
     "type": 0,
     "en": "New season",
-    "vi": "New Mùa"
+    "vi": "Chuyển Giao Mùa Mới"
   },
   {
     "key": "game_event_heat_wave_end",
@@ -765,7 +765,7 @@
     "key": "game_event_hailstorm_end",
     "type": 0,
     "en": "Hailstorm has ended",
-    "vi": "Hailstorm có ended"
+    "vi": "Trận mưa đá đã chấm dứt"
   },
   {
     "key": "game_event_thunderstorm_end",
@@ -777,7 +777,7 @@
     "key": "game_event_type_end",
     "type": 0,
     "en": "The story comes to an end",
-    "vi": "Câu chuyện đã đi đến hồi kết"
+    "vi": "Hồi Kết Của Câu Chuyện"
   },
   {
     "key": "game_event_name_all_dead",
@@ -789,7 +789,7 @@
     "key": "game_event_info_all_dead",
     "type": 0,
     "en": "Despite their valiant efforts, all of the settlers of <village_name> have perished. Yet the history of <village_name> lives on, inscribed on vellum: a testament for future generations. As we remember them, let us endeavour to learn from their manifold trials and misadventures.",
-    "vi": "Bất chấp những nỗ lực quả cảm, toàn bộ dân làng của <village_name> đã tử nạn. Dẫu vậy, lịch sử của <village_name> vẫn trường tồn, được khắc ghi trên giấy da da thuộc như một minh chứng cho các thế hệ mai sau. Khi tưởng nhớ về họ, chúng ta hãy cùng rút ra bài học từ muôn vàn gian nan và thảm kịch ấy."
+    "vi": "Bất chấp những nỗ lực quả cảm, toàn bộ dân làng của <village_name> đã tử nạn. Dẫu vậy, lịch sử của <village_name> vẫn trường tồn, được khắc ghi trên giấy da như một minh chứng cho các thế hệ mai sau. Khi tưởng nhớ về họ, chúng ta hãy cùng rút ra bài học từ muôn vàn gian nan và thảm kịch ấy."
   },
   {
     "key": "game_event_name_all_dead_second_map",
@@ -813,13 +813,13 @@
     "key": "game_event_type_ambush",
     "type": 0,
     "en": "Ambush",
-    "vi": "Phục kích"
+    "vi": "Bị Phục Kích"
   },
   {
     "key": "game_event_type_attack",
     "type": 0,
     "en": "Attack",
-    "vi": "Tấn công"
+    "vi": "Quân Địch Tấn Công"
   },
   {
     "key": "dialogOptionEffect_NewWorker",
@@ -855,7 +855,7 @@
     "key": "dialogOptionEffect_error_build_map_table",
     "type": 0,
     "en": "Construct a <style=Shortcut>Cartography Table</style> to view a map of the region.",
-    "vi": "Thi công a <style=Shortcut>Cartography Table</style> đến view a map của bản đồ khu vực."
+    "vi": "Hãy xây dựng một <style=Shortcut>Bàn Bản đồ học</style> để quan sát bản đồ của cả vùng."
   },
   {
     "key": "dialogOptionEffect_AgentsLeaving",

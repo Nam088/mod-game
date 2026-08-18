@@ -3,31 +3,31 @@
     "key": "mountain_bandits_center",
     "type": 0,
     "en": "No center",
-    "vi": "Không center"
+    "vi": "Không có trung tâm"
   },
   {
     "key": "river_bandits_center",
     "type": 0,
     "en": "No center",
-    "vi": "Không center"
+    "vi": "Không có trung tâm"
   },
   {
     "key": "looters_center",
     "type": 0,
     "en": "No center",
-    "vi": "Không center"
+    "vi": "Không có trung tâm"
   },
   {
     "key": "non_partisan_nomads",
     "type": 0,
     "en": "No center",
-    "vi": "Không center"
+    "vi": "Không có trung tâm"
   },
   {
     "key": "mod_id",
     "type": 0,
     "en": "Mod Id",
-    "vi": "ID mod"
+    "vi": "ID bản mod"
   },
   {
     "key": "mod_author",
@@ -39,25 +39,25 @@
     "key": "mod_game_version",
     "type": 0,
     "en": "Game Version",
-    "vi": "Phiên bản game"
+    "vi": "Phiên bản trò chơi"
   },
   {
     "key": "mod_tags",
     "type": 0,
     "en": "Tags",
-    "vi": "Thẻ"
+    "vi": "Thẻ phân loại"
   },
   {
     "key": "get_mods",
     "type": 0,
     "en": "Get Mods",
-    "vi": "Tìm mod"
+    "vi": "Tìm bản mod"
   },
   {
     "key": "get_more",
     "type": 0,
     "en": "Get More",
-    "vi": "Get Nhiều hơn"
+    "vi": "Tải thêm"
   },
   {
     "key": "general_upload",
@@ -75,13 +75,13 @@
     "key": "mod_delete",
     "type": 0,
     "en": "Delete/Unsubscribe",
-    "vi": "Xóa/Unsubscribe"
+    "vi": "Xóa / Hủy đăng ký"
   },
   {
     "key": "mod_delete_info",
     "type": 0,
     "en": "Unsubscribe From this mod and delete if locally from your computer",
-    "vi": "Hủy đăng ký mod này và xóa hoàn toàn khỏi máy tính của bạn"
+    "vi": "Hủy đăng ký bản mod này và xóa hoàn toàn khỏi máy tính của bạn"
   },
   {
     "key": "mod_edit",
@@ -93,19 +93,19 @@
     "key": "mod_edit_info",
     "type": 0,
     "en": "As you are the author of this mod you can edit it",
-    "vi": "Vì bạn là tác giả của mod này, bạn có thể chỉnh sửa nội dung"
+    "vi": "Vì bạn là tác giả của bản mod này, bạn có thể chỉnh sửa nó"
   },
   {
     "key": "mod_open_local_directory",
     "type": 0,
     "en": "Open Folder",
-    "vi": "Mở Folder"
+    "vi": "Mở thư mục"
   },
   {
     "key": "mod_open_local_directory_info",
     "type": 0,
     "en": "Open the local folder where the mod is stored on your computer",
-    "vi": "Mở thư mục cục bộ lưu trữ mod trên máy tính của bạn"
+    "vi": "Mở thư mục cục bộ lưu trữ bản mod trên máy tính của bạn"
   },
   {
     "key": "workshop_update",
@@ -117,7 +117,7 @@
     "key": "workshop_update_info",
     "type": 0,
     "en": "As you are the author of this mod you can change it and upload the updated version",
-    "vi": "Vì bạn là tác giả của mod này, bạn có thể chỉnh sửa và tải phiên bản cập nhật lên."
+    "vi": "Vì bạn là tác giả của bản mod này, bạn có thể chỉnh sửa và tải phiên bản cập nhật lên."
   },
   {
     "key": "workshop_upload",
@@ -153,7 +153,7 @@
     "key": "create_new_mod_loc_template",
     "type": 0,
     "en": "This action will create English version of localization ready for modding on your hard drive. Do you wish to proceed?",
-    "vi": "Thao tác này sẽ tạo một bản sao ngôn ngữ tiếng Anh sẵn sàng để tạo mod trên ổ cứng của bạn. Bạn có muốn tiếp tục không?"
+    "vi": "Thao tác này sẽ tạo một bản mẫu bản địa hóa tiếng Anh trên ổ cứng để sẵn sàng làm mod. Bạn có muốn tiếp tục không?"
   },
   {
     "key": "create_new_mod_template",
@@ -165,13 +165,13 @@
     "key": "delete_remote_mod_prompt",
     "type": 0,
     "en": "Are you sure you want to unsubscribe from this mod. doing so will delete it locally as well ",
-    "vi": "Bạn có chắc chắn muốn hủy đăng ký mod này? Thao tác này cũng sẽ xóa mod khỏi máy tính của bạn."
+    "vi": "Bạn có chắc chắn muốn hủy đăng ký bản mod này? Thao tác này cũng sẽ xóa bản mod khỏi máy tính của bạn."
   },
   {
     "key": "delete_local_mod_prompt",
     "type": 0,
     "en": "Are you sure you want to delete this mod from your computer?",
-    "vi": "Bạn có chắc chắn muốn xóa vĩnh viễn mod này khỏi máy tính?"
+    "vi": "Bạn có chắc chắn muốn xóa bản mod này khỏi máy tính?"
   },
   {
     "key": "mod_version",
@@ -213,7 +213,7 @@
     "key": "and_more",
     "type": 0,
     "en": "And more...",
-    "vi": "Và nhiều hơn..."
+    "vi": "Và nhiều hơn nữa..."
   },
   {
     "key": "dev_activateAllResearch_off",
@@ -393,7 +393,7 @@
     "key": "dev_start_planer",
     "type": 0,
     "en": "Start Planer",
-    "vi": "Bắt đầu bào phẳng"
+    "vi": "Bắt đầu san phẳng địa hình"
   },
   {
     "key": "dev_toggle_positionining_box",
@@ -501,7 +501,7 @@
     "key": "dev_force_exception",
     "type": 0,
     "en": "Force an Exception",
-    "vi": "Buộc phát sinh lỗi"
+    "vi": "Buộc phát sinh lỗi ngoại lệ"
   },
   {
     "key": "dev_kill_all_piles",
@@ -609,7 +609,7 @@
     "key": "dev_unfaint_worker",
     "type": 0,
     "en": "Unfaint Settler",
-    "vi": "Tỉnh táo dân làng"
+    "vi": "Làm dân làng tỉnh lại"
   },
   {
     "key": "dev_kill_all_enemies",
@@ -813,7 +813,7 @@
     "key": "dev_mark_for_roping",
     "type": 0,
     "en": "Mark for Roping",
-    "vi": "Đánh dấu buộc dây kéo"
+    "vi": "Đánh dấu buộc dây dắt"
   },
   {
     "key": "dev_domestic",
@@ -837,13 +837,13 @@
     "key": "dev_wild_aggressive",
     "type": 0,
     "en": "Set Wild Agressive",
-    "vi": "Đặt thành hung dữ hoang dã"
+    "vi": "Đặt thành hoang dã hung dữ"
   },
   {
     "key": "dev_pregnant",
     "type": 0,
     "en": "Set Pregnant Animal",
-    "vi": "Đặt con thú mang thai"
+    "vi": "Đặt động vật mang thai"
   },
   {
     "key": "dev_birth",

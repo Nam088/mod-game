@@ -3,13 +3,13 @@
     "key": "resource_info_flamable_oil",
     "type": 0,
     "en": "Slick liquid that will catch fire in favourable conditions.",
-    "vi": "Chất lỏng trơn nhờn dễ bốc cháy dữ dội khi gặp nguồn lửa thuận lợi."
+    "vi": "Chất lỏng trơn nhờn dễ bén lửa trong điều kiện thích hợp."
   },
   {
     "key": "resource_info_flamable_oil_greek_fire",
     "type": 0,
     "en": "Fierce combustible that cannot be quenched with water. Said to contain quicklime and saltpetre.",
-    "vi": "Chất cháy khủng khiếp không thể dập tắt bằng nước. Tương truyền chứa vôi sống và diêm tiêu bí truyền."
+    "vi": "Chất cháy dữ dội không thể dập tắt bằng nước. Tương truyền chứa vôi sống và diêm tiêu."
   },
   {
     "key": "resource_category_name_CtgAlcoholMat",
@@ -27,7 +27,7 @@
     "key": "resource_category_name_CtgAperal",
     "type": 0,
     "en": "Apparel",
-    "vi": "Y Phục Quần Áo"
+    "vi": "Trang Phục"
   },
   {
     "key": "resource_category_name_CtgBuildMat",
@@ -45,7 +45,7 @@
     "key": "resource_category_name_CtgChemMat",
     "type": 0,
     "en": "Chemical",
-    "vi": "Hóa Chất & Dược Liệu"
+    "vi": "Hóa Chất"
   },
   {
     "key": "resource_category_name_CtgClothMat",
@@ -69,7 +69,7 @@
     "key": "resource_category_name_CtgDesinf",
     "type": 0,
     "en": "Disinfectants",
-    "vi": "Chất Khử Trùng Y Tế"
+    "vi": "Chất Khử Trùng"
   },
   {
     "key": "resource_category_name_CtgEdible",
@@ -81,31 +81,31 @@
     "key": "resource_category_name_CtgFruit",
     "type": 0,
     "en": "Fruits",
-    "vi": "Trái Cây Tươi Mọng"
+    "vi": "Trái Cây"
   },
   {
     "key": "resource_category_name_CtgFuel",
     "type": 0,
     "en": "Fuel",
-    "vi": "Nhiên Liệu Đốt Lò"
+    "vi": "Nhiên Liệu"
   },
   {
     "key": "resource_category_name_CtgHealPack",
     "type": 0,
     "en": "Medicine",
-    "vi": "Dược Phẩm Cứu Thương"
+    "vi": "Dược Phẩm"
   },
   {
     "key": "resource_category_name_CtgItem",
     "type": 0,
     "en": "Item",
-    "vi": "Vật phẩm"
+    "vi": "Vật Phẩm"
   },
   {
     "key": "resource_category_name_CtgMeal",
     "type": 0,
     "en": "Meals",
-    "vi": "Bữa ăn nấu chín"
+    "vi": "Bữa Ăn"
   },
   {
     "key": "resource_category_name_CtgMeat",
@@ -117,115 +117,115 @@
     "key": "resource_category_name_CtgMetal",
     "type": 0,
     "en": "Metal",
-    "vi": "Kim loại"
+    "vi": "Kim Loại"
   },
   {
     "key": "resource_category_name_CtgPresMat",
     "type": 0,
     "en": "Preservatives",
-    "vi": "Chất bảo quản thực phẩm"
+    "vi": "Chất Bảo Quản"
   },
   {
     "key": "resource_category_name_CtgRawMat",
     "type": 0,
     "en": "Raw Material",
-    "vi": "Raw Vật liệu"
+    "vi": "Nguyên Liệu Thô"
   },
   {
     "key": "resource_category_name_CtgRawMeat",
     "type": 0,
     "en": "Raw Meat",
-    "vi": "Sống Thịt"
+    "vi": "Thịt Sống"
   },
   {
     "key": "resource_category_name_CtgResearch",
     "type": 0,
     "en": "Knowledge",
-    "vi": "Tri thức & Sách vở"
+    "vi": "Tri Thức"
   },
   {
     "key": "resource_category_name_CtgVegetable",
     "type": 0,
     "en": "Vegetables",
-    "vi": "Rau củ"
+    "vi": "Rau Củ"
   },
   {
     "key": "resource_category_name_CtgWaste",
     "type": 0,
     "en": "Waste",
-    "vi": "Rác thải"
+    "vi": "Rác Thải"
   },
   {
     "key": "resource_category_name_CtgAlcohol",
     "type": 0,
     "en": "Alcohol",
-    "vi": "Rượu bia"
+    "vi": "Đồ Uống Có Cồn"
   },
   {
     "key": "resource_category_name_CtgLeatherMat",
     "type": 0,
     "en": "Leather",
-    "vi": "Da thuộc"
+    "vi": "Da Thuộc"
   },
   {
     "key": "resource_category_name_CtgTextileMat",
     "type": 0,
     "en": "Textiles",
-    "vi": "Vải dệt may"
+    "vi": "Vải Dệt"
   },
   {
     "key": "resource_category_name_CtgHumanCarcass",
     "type": 0,
     "en": "Human Carcass",
-    "vi": "Xác người"
+    "vi": "Xác Người"
   },
   {
     "key": "resource_category_name_CtgStructure",
     "type": 0,
     "en": "Structure",
-    "vi": "Kết cấu xây dựng"
+    "vi": "Kết Cấu Xây Dựng"
   },
   {
     "key": "resource_category_name_CtgSeeds",
     "type": 0,
     "en": "Seeds",
-    "vi": "Hạt giốngs"
+    "vi": "Hạt Giống"
   },
   {
     "key": "resource_category_name_CtgCandleFuel",
     "type": 0,
     "en": "Candle Material",
-    "vi": "Candle Vật liệu"
+    "vi": "Nguyên Liệu Làm Nến"
   },
   {
     "key": "resource_category_name_CtgDestilMat",
     "type": 0,
     "en": "Distillery ingredients",
-    "vi": "Nguyên liệu chưng cất rượu"
+    "vi": "Nguyên Liệu Chưng Cất"
   },
   {
     "key": "resource_group_Apparel",
     "type": 0,
     "en": "Apparel",
-    "vi": "Trang phục"
+    "vi": "Trang Phục"
   },
   {
     "key": "resource_group_ApparelClothing",
     "type": 0,
     "en": "Clothing",
-    "vi": "Quần áo may mặc"
+    "vi": "Quần Áo"
   },
   {
     "key": "resource_group_ApparelHeadware",
     "type": 0,
     "en": "Hats",
-    "vi": "Mũ nón"
+    "vi": "Mũ Nón"
   },
   {
     "key": "resource_group_Books",
     "type": 0,
     "en": "Books",
-    "vi": "Sách vở"
+    "vi": "Sách Vở"
   },
   {
     "key": "resource_group_Carcass",
@@ -237,169 +237,169 @@
     "key": "resource_group_CarcassAnimal",
     "type": 0,
     "en": "Animal",
-    "vi": "Động vật"
+    "vi": "Động Vật"
   },
   {
     "key": "resource_group_CarcassHuman",
     "type": 0,
     "en": "Human",
-    "vi": "Xác người"
+    "vi": "Xác Người"
   },
   {
     "key": "resource_group_Food",
     "type": 0,
     "en": "Food",
-    "vi": "Lương thực thực phẩm"
+    "vi": "Lương Thực Thực Phẩm"
   },
   {
     "key": "resource_group_FoodMeal",
     "type": 0,
     "en": "Meal",
-    "vi": "Bữa ăn"
+    "vi": "Bữa Ăn"
   },
   {
     "key": "resource_group_FoodRaw",
     "type": 0,
     "en": "Raw",
-    "vi": "Sống"
+    "vi": "Thực Phẩm Sống"
   },
   {
     "key": "resource_group_Material",
     "type": 0,
     "en": "Material",
-    "vi": "Vật liệu thô"
+    "vi": "Vật Liệu Thô"
   },
   {
     "key": "resource_group_Textiles",
     "type": 0,
     "en": "Textiles",
-    "vi": "Vải dệt may"
+    "vi": "Vải Dệt"
   },
   {
     "key": "resource_group_Warfare",
     "type": 0,
     "en": "Warfare",
-    "vi": "Quân sự & Chiến tranh"
+    "vi": "Quân Sự & Vũ Khí"
   },
   {
     "key": "resource_group_WarfareShield",
     "type": 0,
     "en": "Shield",
-    "vi": "Khiên phòng thủ"
+    "vi": "Khiên"
   },
   {
     "key": "resource_group_Waste",
     "type": 0,
     "en": "Waste",
-    "vi": "Phế thải"
+    "vi": "Phế Thải"
   },
   {
     "key": "resource_group_MeleeOnehanded",
     "type": 0,
     "en": "One Handed Melee",
-    "vi": "Vũ khí cận chiến một tay"
+    "vi": "Vũ Khí Cận Chiến Một Tay"
   },
   {
     "key": "resource_group_MeleeTwohanded",
     "type": 0,
     "en": "Two Handed Melee",
-    "vi": "Vũ khí cận chiến hai tay"
+    "vi": "Vũ Khí Cận Chiến Hai Tay"
   },
   {
     "key": "resource_group_Medicine",
     "type": 0,
     "en": "Medicine",
-    "vi": "Y dược"
+    "vi": "Y Dược"
   },
   {
     "key": "resource_group_MaterialUnrefined",
     "type": 0,
     "en": "Raw Material",
-    "vi": "Sống Material"
+    "vi": "Nguyên Liệu Thô"
   },
   {
     "key": "resource_group_MaterialManufactured",
     "type": 0,
     "en": "Manufactured",
-    "vi": "Vật liệu tinh chế"
+    "vi": "Vật Liệu Tinh Chế"
   },
   {
     "key": "resource_group_Structures",
     "type": 0,
     "en": "Structures",
-    "vi": "Công trình kiến trúc"
+    "vi": "Công Trình Kiến Trúc"
   },
   {
     "key": "resource_group_Water",
     "type": 0,
     "en": "Water",
-    "vi": "Nguồn nước"
+    "vi": "Nguồn Nước"
   },
   {
     "key": "resource_group_Base",
     "type": 0,
     "en": "Base",
-    "vi": "Kiến trúc cơ bản"
+    "vi": "Kiến Trúc Cơ Bản"
   },
   {
     "key": "resource_group_StructuresLeisure",
     "type": 0,
     "en": "Leisure",
-    "vi": "Giải trí & Thờ phụng"
+    "vi": "Giải Trí & Thờ Phụng"
   },
   {
     "key": "resource_group_StructuresDecoration",
     "type": 0,
     "en": "Misc",
-    "vi": "Trang trí"
+    "vi": "Trang Trí"
   },
   {
     "key": "resource_group_StructuresDefense",
     "type": 0,
     "en": "Warfare",
-    "vi": "Công trình phòng thủ"
+    "vi": "Công Trình Phòng Thủ"
   },
   {
     "key": "resource_group_StructuresProduction",
     "type": 0,
     "en": "Production",
-    "vi": "Xưởng sản xuất"
+    "vi": "Xưởng Sản Xuất"
   },
   {
     "key": "resource_group_Seeds",
     "type": 0,
     "en": "Seeds",
-    "vi": "Hạt giốngs"
+    "vi": "Hạt Giống"
   },
   {
     "key": "resource_group_Trophy",
     "type": 0,
     "en": "Trophies",
-    "vi": "Chiến lợi phẩm"
+    "vi": "Chiến Lợi Phẩm"
   },
   {
     "key": "resource_group_FoodFermenting",
     "type": 0,
     "en": "Fermenting ingredients",
-    "vi": "Nguyên liệu lên men"
+    "vi": "Nguyên Liệu Lên Men"
   },
   {
     "key": "resource_group_Fodder",
     "type": 0,
     "en": "Fodder",
-    "vi": "Thức ăn gia súc"
+    "vi": "Thức Ăn Gia Súc"
   },
   {
     "key": "resource_group_Decoration",
     "type": 0,
     "en": "Misc",
-    "vi": "Đồ trang trí"
+    "vi": "Đồ Trang Trí"
   },
   {
     "key": "resource_category_name_CtgFodder",
     "type": 0,
     "en": "Fodder",
-    "vi": "Thức ăn gia súc"
+    "vi": "Thức Ăn Gia Súc"
   },
   {
     "key": "resource_category_name_CtgGold",
@@ -411,43 +411,43 @@
     "key": "resource_group_Coin",
     "type": 0,
     "en": "Coins",
-    "vi": "Tiền vàng bạc"
+    "vi": "Tiền Xu"
   },
   {
     "key": "resource_group_Misc",
     "type": 0,
     "en": "Misc",
-    "vi": "Linh tinh"
+    "vi": "Linh Tinh"
   },
   {
     "key": "resource_category_name_CtgOilSource",
     "type": 0,
     "en": "Oil Source",
-    "vi": "Nguồn dầu đốt"
+    "vi": "Nguồn Dầu Đốt"
   },
   {
     "key": "resource_group_Ammo",
     "type": 0,
     "en": "Ammunition",
-    "vi": "Đạn dược"
+    "vi": "Đạn Dược"
   },
   {
     "key": "resource_group_AmmoProjectile",
     "type": 0,
     "en": "Trebuchet Ammunition",
-    "vi": "Đạn máy bắn đá Trebuchet"
+    "vi": "Đạn Máy Bắn Đá Trebuchet"
   },
   {
     "key": "resource_group_AmmoPierce",
     "type": 0,
     "en": "Ballista Ammunition",
-    "vi": "Mũi lao nỏ Ballista"
+    "vi": "Mũi Lao Nỏ Ballista"
   },
   {
     "key": "resource_group_AmmoMultishot",
     "type": 0,
     "en": "Onager Ammunition",
-    "vi": "Đạn đá máy bắn Onager"
+    "vi": "Đạn Đá Máy Bắn Onager"
   },
   {
     "key": "resource_group_Relic",
@@ -495,7 +495,7 @@
     "key": "resource_name_pet",
     "type": 0,
     "en": "Pet",
-    "vi": "Thú Cưng Nuôi Trong Nhà"
+    "vi": "Thú Cưng"
   },
   {
     "key": "resource_name_silver_mirror_wall",
@@ -531,7 +531,7 @@
     "key": "dev_mark_animals_for_attack",
     "type": 0,
     "en": "Mark Animals for Hunting",
-    "vi": "Đánh Dấu Toàn Bộ Động Vật Để Săn Bắn"
+    "vi": "Đánh Dấu Toàn Bộ Động Vật Để Đi Săn"
   },
   {
     "key": "dev_spawn_animal",
@@ -549,7 +549,7 @@
     "key": "dev_spawn_plant",
     "type": 0,
     "en": "Spawn Plant on Point",
-    "vi": "Tạo Thực Vật Tại Vị Trí"
+    "vi": "Tạo Thực Vật Tại Điểm Chỉ Định"
   },
   {
     "key": "dev_spawn_resource_ctg",
@@ -573,7 +573,7 @@
     "key": "dev_plant_next_phase",
     "type": 0,
     "en": "Force Plant Next Phase on Point",
-    "vi": "Thúc Ép Thực Vật Sang Giai Đoạn Sinh Trưởng Tiếp Theo"
+    "vi": "Thúc Đẩy Thực Vật Sang Giai Đoạn Sinh Trưởng Tiếp Theo"
   },
   {
     "key": "dev_animals",
@@ -585,7 +585,7 @@
     "key": "dev_animal_prod_finish",
     "type": 0,
     "en": "Finish Animal Production",
-    "vi": "Hoàn Tất Sản Xuất Sản Vật Động Vật"
+    "vi": "Hoàn Tất Thu Hoạch Sản Vật Động Vật"
   },
   {
     "key": "dev_reset_animal_timers",
@@ -729,7 +729,7 @@
     "key": "dev_tooltip_wild_aggressive_animals",
     "type": 0,
     "en": "Spawns chosen animal as wild aggressive on mouse click.",
-    "vi": "Tạo động vật hoang dã hung dữ tại vị trí nhấp chuột"
+    "vi": "Tạo dã thú hung dữ tại vị trí nhấp chuột"
   },
   {
     "key": "dev_wild_animals",
@@ -801,7 +801,7 @@
     "key": "resource_name_stone_statue_wall",
     "type": 0,
     "en": "Wall Relief (Limestone)",
-    "vi": "Phù Điêu Đá Treo Tường"
+    "vi": "Phù Điêu Đá Vôi Treo Tường"
   },
   {
     "key": "resource_name_wood_statue_wall",
@@ -831,7 +831,7 @@
     "key": "resource_name_painting_vertical_wall",
     "type": 0,
     "en": "Painting",
-    "vi": "Bức Tranh Sơn Dầu Treo Tường"
+    "vi": "Tranh Sơn Dầu Treo Tường"
   },
   {
     "key": "menu_AnimalWild",

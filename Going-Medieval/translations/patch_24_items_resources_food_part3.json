@@ -3,13 +3,13 @@
     "key": "animal_color_chicken_light",
     "type": 0,
     "en": "Silver",
-    "vi": "Ánh Bạc"
+    "vi": "Trắng Bạc"
   },
   {
     "key": "animal_color_chicken_lightly_spotted",
     "type": 0,
     "en": "Light Speckled",
-    "vi": "Đốm Hoa Nhạt"
+    "vi": "Hoa Mơ Nhạt"
   },
   {
     "key": "animal_color_chicken_red_green",
@@ -27,19 +27,19 @@
     "key": "animal_color_chicken_spotted",
     "type": 0,
     "en": "Dark Speckled",
-    "vi": "Đốm Hoa Sẫm"
+    "vi": "Hoa Mơ Đậm"
   },
   {
     "key": "animal_color_chicken_yellow",
     "type": 0,
     "en": "Golden",
-    "vi": "Hoàng Kim"
+    "vi": "Vàng Óng"
   },
   {
     "key": "animal_color_cow_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Nâu Đất"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_cow_beige",
@@ -51,31 +51,31 @@
     "key": "animal_color_cow_black_pattern",
     "type": 0,
     "en": "Charcoal",
-    "vi": "Màu Than Củi"
+    "vi": "Màu Than"
   },
   {
     "key": "animal_color_cow_black_and_white",
     "type": 0,
     "en": "Black and White",
-    "vi": "Đen Trắng (Bò Sữa)"
+    "vi": "Đen Trắng"
   },
   {
     "key": "animal_color_cow_black",
     "type": 0,
     "en": "Black",
-    "vi": "Đen Mun"
+    "vi": "Đen"
   },
   {
     "key": "animal_color_cow_brown_pattern",
     "type": 0,
     "en": "Belted",
-    "vi": "Nâu Khoang Đai"
+    "vi": "Khoang Đai"
   },
   {
     "key": "animal_color_cow_brown_spotted",
     "type": 0,
     "en": "Speckled",
-    "vi": "Nâu Lốm Đốm"
+    "vi": "Lốm Đốm"
   },
   {
     "key": "animal_color_cow_spotted",
@@ -87,13 +87,13 @@
     "key": "animal_color_cow_tortie",
     "type": 0,
     "en": "Striped",
-    "vi": "Vằn Hổ"
+    "vi": "Sọc Vằn"
   },
   {
     "key": "animal_color_deer_default",
     "type": 0,
     "en": "Tan",
-    "vi": "Nâu Vàng Tự Nhiên"
+    "vi": "Nâu Vàng"
   },
   {
     "key": "animal_color_deer_black",
@@ -105,25 +105,25 @@
     "key": "animal_color_deer_dark",
     "type": 0,
     "en": "Brown",
-    "vi": "Màu nâu"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_deer_spotted",
     "type": 0,
     "en": "Dappled",
-    "vi": "Khoang đốm"
+    "vi": "Khoang Đốm"
   },
   {
     "key": "animal_color_deer_white",
     "type": 0,
     "en": "Menil",
-    "vi": "Trắng menil"
+    "vi": "Menil (Đốm Sáng)"
   },
   {
     "key": "animal_color_dog_default",
     "type": 0,
     "en": "Fawn",
-    "vi": "Nâu hươu"
+    "vi": "Nâu Vàng"
   },
   {
     "key": "animal_color_dog_black",
@@ -135,37 +135,37 @@
     "key": "animal_color_dog_black_mostly",
     "type": 0,
     "en": "Black and Tan",
-    "vi": "Đen nâu"
+    "vi": "Đen Điểm Nâu"
   },
   {
     "key": "animal_color_dog_black_and_white",
     "type": 0,
     "en": "Black and White",
-    "vi": "Đen trắng"
+    "vi": "Đen Trắng"
   },
   {
     "key": "animal_color_dog_black_and_yellow",
     "type": 0,
     "en": "Black and Golden",
-    "vi": "Đen vàng"
+    "vi": "Đen Vàng"
   },
   {
     "key": "animal_color_dog_black_yellow_white",
     "type": 0,
     "en": "Mixed",
-    "vi": "Pha màu"
+    "vi": "Tam Thể"
   },
   {
     "key": "animal_color_dog_bullenbeisser",
     "type": 0,
     "en": "Brindled",
-    "vi": "Vằn sọc"
+    "vi": "Vằn Vện"
   },
   {
     "key": "animal_color_dog_collie",
     "type": 0,
     "en": "Mottled",
-    "vi": "Loang"
+    "vi": "Loang Lổ"
   },
   {
     "key": "animal_color_dog_dalmatian",
@@ -177,31 +177,31 @@
     "key": "animal_color_dog_greyhound",
     "type": 0,
     "en": "Grey",
-    "vi": "Màu xám"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_dog_greyhound_stripes",
     "type": 0,
     "en": "Grey stripes",
-    "vi": "Xám stripes"
+    "vi": "Vằn Xám"
   },
   {
     "key": "animal_color_dog_red_white",
     "type": 0,
     "en": "Auburn and White",
-    "vi": "Auburn và Trắng"
+    "vi": "Nâu Đỏ Trắng"
   },
   {
     "key": "animal_color_dog_yellow_white",
     "type": 0,
     "en": "Tan and White",
-    "vi": "Tan và Trắng"
+    "vi": "Nâu Vàng Trắng"
   },
   {
     "key": "animal_color_donkey_default",
     "type": 0,
     "en": "Dun",
-    "vi": "Nâu xám"
+    "vi": "Nâu Xám"
   },
   {
     "key": "animal_color_donkey_black",
@@ -213,31 +213,31 @@
     "key": "animal_color_donkey_chestnut",
     "type": 0,
     "en": "Chestnut",
-    "vi": "Nâu hạt dẻ"
+    "vi": "Nâu Hạt Dẻ"
   },
   {
     "key": "animal_color_donkey_cross",
     "type": 0,
     "en": "Jerusalem Cross",
-    "vi": "Thánh giá Jerusalem"
+    "vi": "Khoang Chữ Thập Jerusalem"
   },
   {
     "key": "animal_color_donkey_diamond",
     "type": 0,
     "en": "Starred brown",
-    "vi": "Nâu đốm sao"
+    "vi": "Nâu Đốm Sao"
   },
   {
     "key": "animal_color_donkey_roan",
     "type": 0,
     "en": "Roan",
-    "vi": "Nâu pha trắng"
+    "vi": "Lang Trắng Nâu"
   },
   {
     "key": "animal_color_donkey_rose",
     "type": 0,
     "en": "Sorrel",
-    "vi": "Nâu đỏ"
+    "vi": "Nâu Đỏ"
   },
   {
     "key": "animal_color_donkey_spotted",
@@ -249,61 +249,61 @@
     "key": "animal_color_fox_default",
     "type": 0,
     "en": "Red",
-    "vi": "Đỏ"
+    "vi": "Hung Đỏ"
   },
   {
     "key": "animal_color_fox_amber",
     "type": 0,
     "en": "Amber",
-    "vi": "Hổ phách"
+    "vi": "Hổ Phách"
   },
   {
     "key": "animal_color_fox_blonde",
     "type": 0,
     "en": "Blonde",
-    "vi": "Vàng nhạt"
+    "vi": "Vàng Nhạt"
   },
   {
     "key": "animal_color_fox_red",
     "type": 0,
     "en": "Auburn",
-    "vi": "Nâu đỏ"
+    "vi": "Nâu Đỏ"
   },
   {
     "key": "animal_color_fox_yellow",
     "type": 0,
     "en": "Rust",
-    "vi": "Màu gỉ"
+    "vi": "Hung Đỏ Gỉ"
   },
   {
     "key": "animal_color_goat_alpine",
     "type": 0,
     "en": "Chamoisee",
-    "vi": "Nâu sơn dương"
+    "vi": "Nâu Sơn Dương"
   },
   {
     "key": "animal_color_goat_black_neck",
     "type": 0,
     "en": "Pied",
-    "vi": "Khoang trắng đen"
+    "vi": "Khoang Trắng Đen"
   },
   {
     "key": "animal_color_goat_black_head",
     "type": 0,
     "en": "Dark Brown",
-    "vi": "Sẫm Nâu"
+    "vi": "Nâu Sẫm"
   },
   {
     "key": "animal_color_goat_grey",
     "type": 0,
     "en": "Grey",
-    "vi": "Màu xám"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_goat_brown",
     "type": 0,
     "en": "Brown",
-    "vi": "Màu nâu"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_goat_brown_black",
@@ -315,7 +315,7 @@
     "key": "animal_color_goat_brown_head",
     "type": 0,
     "en": "Tan",
-    "vi": "Nâu vàng"
+    "vi": "Nâu Vàng"
   },
   {
     "key": "animal_color_goat_default",
@@ -327,7 +327,7 @@
     "key": "animal_color_goat_rove",
     "type": 0,
     "en": "Pied Blond",
-    "vi": "Khoang vàng trắng"
+    "vi": "Khoang Vàng Trắng"
   },
   {
     "key": "animal_color_hare_default",
@@ -339,43 +339,43 @@
     "key": "animal_color_hare_blue",
     "type": 0,
     "en": "Blue",
-    "vi": "Xanh lam"
+    "vi": "Xanh Lam Khói"
   },
   {
     "key": "animal_color_hare_brown",
     "type": 0,
     "en": "Brown",
-    "vi": "Màu nâu"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_hare_lilac",
     "type": 0,
     "en": "Buff",
-    "vi": "Màu vàng da bò"
+    "vi": "Vàng Da Bò"
   },
   {
     "key": "animal_color_hare_opal",
     "type": 0,
     "en": "Grey",
-    "vi": "Màu xám"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_hare_sable",
     "type": 0,
     "en": "Sable",
-    "vi": "Đen nâu"
+    "vi": "Đen Nâu"
   },
   {
     "key": "animal_color_hare_spotted",
     "type": 0,
     "en": "Countershaded",
-    "vi": "Đổi màu"
+    "vi": "Lưng Sẫm Bụng Sáng"
   },
   {
     "key": "animal_color_mallard_duck_female_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Màu nâu"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_mallard_duck_female_dark_wing",
@@ -405,7 +405,7 @@
     "key": "animal_color_mallard_duck_male_sepia",
     "type": 0,
     "en": "Thyme Head",
-    "vi": "Đầu Xanh Xạ Hương"
+    "vi": "Đầu Xanh Cỏ Xạ Hương"
   },
   {
     "key": "animal_color_pheasant_female_default",
@@ -423,13 +423,13 @@
     "key": "animal_color_pheasant_female_grey",
     "type": 0,
     "en": "Mottled Grey",
-    "vi": "Xám Đốm Loang"
+    "vi": "Xám Loang"
   },
   {
     "key": "animal_color_pheasant_female_white",
     "type": 0,
     "en": "Mottled White",
-    "vi": "Trắng Đốm Loang"
+    "vi": "Trắng Loang"
   },
   {
     "key": "animal_color_pheasant_male_default",
@@ -453,19 +453,19 @@
     "key": "animal_color_pheasant_male_white_tail_blue_plume",
     "type": 0,
     "en": "Blue Head",
-    "vi": "Đầu Xanh Lam Biển"
+    "vi": "Đầu Xanh Lam"
   },
   {
     "key": "animal_color_polecat_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Nâu Tự Nhiên"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_polecat_auburn",
     "type": 0,
     "en": "Tawny",
-    "vi": "Nâu Vàng Rực"
+    "vi": "Nâu Vàng"
   },
   {
     "key": "animal_color_polecat_auburn_stripes",
@@ -477,7 +477,7 @@
     "key": "animal_color_polecat_black",
     "type": 0,
     "en": "Black",
-    "vi": "Đen Tuyền"
+    "vi": "Đen"
   },
   {
     "key": "animal_color_polecat_spots",
@@ -489,19 +489,19 @@
     "key": "animal_color_rat_default",
     "type": 0,
     "en": "Grey",
-    "vi": "Xám Chuột"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_rat_brown",
     "type": 0,
     "en": "Brown",
-    "vi": "Nâu Đất"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_rat_black",
     "type": 0,
     "en": "Black",
-    "vi": "Đen Mun"
+    "vi": "Đen"
   },
   {
     "key": "animal_color_rat_grey",
@@ -525,13 +525,13 @@
     "key": "animal_color_sheep_default",
     "type": 0,
     "en": "White",
-    "vi": "Trắng Tuyết"
+    "vi": "Trắng"
   },
   {
     "key": "animal_color_sheep_bersugget",
     "type": 0,
     "en": "Grey",
-    "vi": "Xám Tro"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_sheep_bieslet",
@@ -555,13 +555,13 @@
     "key": "animal_color_sheep_katmoget",
     "type": 0,
     "en": "Black tipped",
-    "vi": "Lông Đầu Đen"
+    "vi": "Chóp Lông Đen"
   },
   {
     "key": "animal_color_sheep_smirslet",
     "type": 0,
     "en": "Dark face white muzzle",
-    "vi": "Mặt Tối Mõm Trắng"
+    "vi": "Mặt Sẫm Mõm Trắng"
   },
   {
     "key": "animal_color_sheep_yuglet",
@@ -573,19 +573,19 @@
     "key": "animal_color_sheep_black",
     "type": 0,
     "en": "Black",
-    "vi": "Đen Tuyền"
+    "vi": "Đen"
   },
   {
     "key": "animal_color_sheep_piebald",
     "type": 0,
     "en": "Piebald ",
-    "vi": "Lang Đốm Trắng Đen"
+    "vi": "Khoang Lang Trắng Đen"
   },
   {
     "key": "animal_color_water_vole_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Nâu Nước"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_water_vole_dark",
@@ -597,7 +597,7 @@
     "key": "animal_color_water_vole_light",
     "type": 0,
     "en": "Beige",
-    "vi": "Màu Be Nhạt"
+    "vi": "Màu Be"
   },
   {
     "key": "animal_color_water_vole_mangy",
@@ -609,13 +609,13 @@
     "key": "animal_color_wolf_default",
     "type": 0,
     "en": "Brown",
-    "vi": "Xám Nâu"
+    "vi": "Nâu"
   },
   {
     "key": "animal_color_wolf_02",
     "type": 0,
     "en": "Grey",
-    "vi": "Xám Bạc"
+    "vi": "Xám"
   },
   {
     "key": "animal_color_wolf_black_snout",
@@ -633,49 +633,49 @@
     "key": "animal_color_wolf_light",
     "type": 0,
     "en": "Beige",
-    "vi": "Trắng Xám Be"
+    "vi": "Màu Be"
   },
   {
     "key": "animal_color_wolf_light_brown",
     "type": 0,
     "en": "Cream",
-    "vi": "Vàng Kem Nhạt"
+    "vi": "Màu Kem"
   },
   {
     "key": "cannot_plant_on_edge",
     "type": 0,
     "en": "Cannot place crop field this close to edge of map",
-    "vi": "Không thể quy hoạch thửa ruộng quá sát mép ranh giới bản đồ"
+    "vi": "Không thể quy hoạch thửa ruộng quá sát mép bản đồ"
   },
   {
     "key": "plant_cut_failed",
     "type": 0,
     "en": "Plant reaping mishandled",
-    "vi": "Thu hoạch hoa màu thất bại do sơ suất"
+    "vi": "Thu hoạch cây trồng thất bại do sơ suất"
   },
   {
     "key": "warning_message_info_group_of_animals_start",
     "type": 0,
     "en": "A group of animals has arrived (<number> <animal>)",
-    "vi": "Một đàn động vật vừa di cư tới khu vực (<number> <animal>)"
+    "vi": "Một đàn động vật vừa kéo đến (<number> <animal>)"
   },
   {
     "key": "warning_message_info_group_of_animals_leave",
     "type": 0,
     "en": "The <animal> group has left ",
-    "vi": "Đàn <animal> đã di cư rời khỏi lãnh địa của bạn"
+    "vi": "Đàn <animal> đã rời đi"
   },
   {
     "key": "warning_message_short_animals_hungry",
     "type": 0,
     "en": "<style=DefaultRed>Animals are hungry</style>",
-    "vi": "<style=DefaultRed>Đàn vật nuôi đang bị đói cồn cào</style>"
+    "vi": "<style=DefaultRed>Vật nuôi đang bị đói</style>"
   },
   {
     "key": "warning_message_info_animals_hungry",
     "type": 0,
     "en": "Your animals are hungry. Feed them, otherwise they might die of starvation. You can check each animal's diet in the almanac. Ensure that they can access piles of appropriate resources.",
-    "vi": "Đàn gia súc và thú nuôi của bạn đang bị đói. Hãy nhanh chóng cho chúng ăn, nếu không chúng sẽ chết vì kiệt sức. Bạn có thể tra cứu khẩu phần ăn của từng loài trong Bách Khoa Thư."
+    "vi": "Vật nuôi của bạn đang bị đói. Hãy cho chúng ăn, nếu không chúng có thể chết vì đói. Bạn có thể tra cứu khẩu phần ăn của từng loài động vật trong Cẩm nang. Đảm bảo rằng chúng có thể tiếp cận các đống tài nguyên thức ăn phù hợp."
   },
   {
     "key": "message_animal_died",
@@ -687,13 +687,13 @@
     "key": "message_animal_birth",
     "type": 0,
     "en": "<name> the <animal> has given birth to",
-    "vi": "Con <animal> tên là <name> vừa hạ sinh thành công"
+    "vi": "Con <animal> tên là <name> vừa sinh ra"
   },
   {
     "key": "food_treshold_00",
     "type": 0,
     "en": "Not Hungry",
-    "vi": "No Nê"
+    "vi": "Không Đói"
   },
   {
     "key": "food_treshold_01",
@@ -717,186 +717,186 @@
     "key": "food_treshold_04",
     "type": 0,
     "en": "Starving",
-    "vi": "Đói Lả Kiệt Quệ"
+    "vi": "Đói Lả Kiệt Sức"
   },
   {
     "key": "worker_action_RelocateResourcePileGoal",
     "type": 0,
     "en": "Relocating piles",
-    "vi": "Đang Di Dời Đống Tài Nguyên"
+    "vi": "Đang di dời đống tài nguyên"
   },
   {
     "key": "worker_action_delivercarpentryresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Vật Liệu Mộc"
+    "vi": "Đang lấy vật liệu nghề mộc"
   },
   {
     "key": "worker_action_delivercarpentryresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Gỗ Chế Tác"
+    "vi": "Đang lấy gỗ làm mộc"
   },
   {
     "key": "worker_action_delivercookingresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Nguyên Liệu Nấu Ăn"
+    "vi": "Đang lấy nguyên liệu nấu ăn"
   },
   {
     "key": "worker_action_delivercookingresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Thực Phẩm Chế Biến"
+    "vi": "Đang lấy thực phẩm nấu nướng"
   },
   {
     "key": "worker_action_delivercraftingresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Vật Liệu Thủ Công"
+    "vi": "Đang lấy vật liệu chế tác"
   },
   {
     "key": "worker_action_delivercraftingresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Nguyên Liệu Chế Tạo"
+    "vi": "Đang lấy nguyên liệu thủ công"
   },
   {
     "key": "worker_action_deliverresearchresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Tài Liệu Nghiên Cứu"
+    "vi": "Đang lấy tài liệu nghiên cứu"
   },
   {
     "key": "worker_action_deliverresearchresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Sách Học Thuật"
+    "vi": "Đang lấy sách nghiên cứu"
   },
   {
     "key": "worker_action_deliversmithingresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Quặng Rèn Kim Loại"
+    "vi": "Đang lấy quặng rèn kim loại"
   },
   {
     "key": "worker_action_deliversmithingresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Thỏi Sắt Đúc"
+    "vi": "Đang lấy thỏi sắt đúc"
   },
   {
     "key": "worker_action_delivertailoringresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Vải May Mặc"
+    "vi": "Đang lấy vải may mặc"
   },
   {
     "key": "worker_action_delivertailoringresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Da Và Sợi Dệt"
+    "vi": "Đang lấy da và sợi dệt"
   },
   {
     "key": "worker_action_delivercarcassdisposalresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Thu Dọn Xác Động Vật"
+    "vi": "Đang thu dọn xác động vật"
   },
   {
     "key": "worker_action_deliverchemistryresourcesgoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Hóa Chất Điều Chế"
+    "vi": "Đang lấy dược liệu điều chế"
   },
   {
     "key": "worker_action_plantcropsgoal",
     "type": 0,
     "en": "Gardening",
-    "vi": "Đang Trồng Trọt Làm Vườn"
+    "vi": "Đang làm vườn trồng trọt"
   },
   {
     "key": "worker_action_productionresourcecategorygoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Tiếp Tế Nguyên Liệu Sản Xuất"
+    "vi": "Đang tiếp tế nguyên liệu sản xuất"
   },
   {
     "key": "worker_action_productionresourcegoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Tài Nguyên Sản Xuất"
+    "vi": "Đang lấy tài nguyên sản xuất"
   },
   {
     "key": "worker_action_delivercarpentryresourcedismantlegoal",
     "type": 0,
     "en": "Getting item to dismantle",
-    "vi": "Đang Lấy Đồ Gỗ Cần Tháo Dỡ"
+    "vi": "Đang lấy đồ gỗ cần tháo dỡ"
   },
   {
     "key": "worker_action_deliversmithingresourcedismantlegoal",
     "type": 0,
     "en": "Getting item to dismantle",
-    "vi": "Đang Lấy Đồ Kim Loại Cần Nung Chảy"
+    "vi": "Đang lấy đồ kim loại cần nấu chảy"
   },
   {
     "key": "worker_action_delivertailoringresourcedismantlegoal",
     "type": 0,
     "en": "Getting item to dismantle",
-    "vi": "Đang Lấy Quần Áo Cần Tái Chế"
+    "vi": "Đang lấy quần áo cần tái chế"
   },
   {
     "key": "worker_action_delivercraftingresourcedismantlegoal",
     "type": 0,
     "en": "Getting item to dismantle",
-    "vi": "Đang Lấy Vật Phẩm Cần Phân Rã"
+    "vi": "Đang lấy vật phẩm cần tháo dỡ"
   },
   {
     "key": "worker_action_productionanimalgoal",
     "type": 0,
     "en": "Producing",
-    "vi": "Đang Sản Xuất Chăn Nuôi"
+    "vi": "Đang chăm sóc thu hoạch vật nuôi"
   },
   {
     "key": "worker_action_deliveranimalresourcesGoal",
     "type": 0,
     "en": "Getting resources",
-    "vi": "Đang Lấy Thức Ăn Cho Thú Nuôi"
+    "vi": "Đang lấy thức ăn cho thú nuôi"
   },
   {
     "key": "worker_action_slaughterAnimalGoal",
     "type": 0,
     "en": "Slaughtering Animal",
-    "vi": "Đang Mổ Thịt Động Vật"
+    "vi": "Đang mổ thịt động vật"
   },
   {
     "key": "worker_action_tameAnimalGoal",
     "type": 0,
     "en": "Taming Animal",
-    "vi": "Đang Thuần Hóa Động Vật"
+    "vi": "Đang thuần hóa động vật"
   },
   {
     "key": "worker_action_trainAnimalGoal",
     "type": 0,
     "en": "Training Animal",
-    "vi": "Đang Huấn Luyện Động Vật"
+    "vi": "Đang huấn luyện động vật"
   },
   {
     "key": "worker_action_ropeAnimalGoal",
     "type": 0,
     "en": "Roping Animal",
-    "vi": "Đang Buộc Dây Dắt Động Vật"
+    "vi": "Đang buộc dây dắt động vật"
   },
   {
     "key": "worker_action_releaseAnimalGoal",
     "type": 0,
     "en": "Releasing Animal",
-    "vi": "Đang Phóng Thích Động Vật"
+    "vi": "Đang phóng thích động vật"
   },
   {
     "key": "worker_action_harvestAnimalGoal",
     "type": 0,
     "en": "Harvesting Animal",
-    "vi": "Đang Thu Hoạch Sản Vật Động Vật"
+    "vi": "Đang thu hoạch sản phẩm vật nuôi"
   }
 ]

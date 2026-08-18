@@ -45,7 +45,7 @@
     "key": "scenario_condition_VillagerPerks",
     "type": 0,
     "en": "Settler Perks",
-    "vi": "Đặc điểm dân làng"
+    "vi": "Đặc tính dân làng"
   },
   {
     "key": "scenario_condition_VillagerClothes",
@@ -123,19 +123,19 @@
     "key": "tutorial_drafting_combat",
     "type": 0,
     "en": "Tutorial: Drafting & Combat",
-    "vi": "Hướng dẫn: Động viên & Chiến đấu"
+    "vi": "Hướng dẫn: Huy động & Chiến đấu"
   },
   {
     "key": "tutorial_drafting_combat_info",
     "type": 0,
     "en": "<style=AlmParagraph>Drafting & Combat\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel. \\n- A drafted settler will go where you tell them to go and will attack who you tell them to attack.\\n- During combat an archer will shoot anybody within their range, while a melee settler will wait until the enemy comes close or attacks them. <style=AlmParagraph>\\nTip\\n</style><style=Desc>- Place archers on higher ground in order for them to get a buff in precision, range, and critical hit chance.</style>",
-    "vi": "<style=AlmParagraph>Huy động nhập ngũ & Tác chiến\\n</style>- Để trực tiếp điều khiển dân làng, hãy huy động họ bằng cách chọn dân làng và nhấp vào lệnh Huy Động (Draft) trong bảng điều khiển.\\n- Dân làng được huy động sẽ di chuyển đến nơi bạn chỉ định và tấn công mục tiêu bạn yêu cầu.\\n- Trong giao chiến, cung thủ sẽ tự động bắn bất kỳ kẻ thù nào trong tầm bắn, trong khi lính cận chiến sẽ chờ đến khi kẻ địch áp sát hoặc tấn công họ.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bố trí cung thủ trên địa hình cao để nhận điểm cộng tăng độ chính xác, tầm bắn xa và tỷ lệ đánh chí mạng.</style>"
+    "vi": "<style=AlmParagraph>Huy động & Chiến đấu\\n</style>- Để trực tiếp điều khiển dân làng, hãy huy động họ bằng cách chọn dân làng và nhấp vào lệnh Huy Động trong bảng điều khiển.\\n- Dân làng được huy động sẽ di chuyển đến nơi bạn chỉ định và tấn công mục tiêu bạn yêu cầu.\\n- Trong giao chiến, cung thủ sẽ tự động bắn bất kỳ kẻ thù nào trong tầm bắn, trong khi lính cận chiến sẽ chờ đến khi kẻ địch áp sát hoặc tấn công họ.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bố trí cung thủ trên địa hình cao để nhận điểm cộng tăng độ chính xác, tầm bắn xa và tỷ lệ đánh chí mạng.</style>"
   },
   {
     "key": "tutorial_equipment",
     "type": 0,
     "en": "Tutorial: Equipment",
-    "vi": "Hướng dẫn: Trang bị vũ khí & Giáp trụ"
+    "vi": "Hướng dẫn: Trang bị"
   },
   {
     "key": "tutorial_equipment_info",
@@ -171,7 +171,7 @@
     "key": "tutorial_layer_control",
     "type": 0,
     "en": "Tutorial: World Layers",
-    "vi": "Hướng dẫn: Các tầng độ cao thế giới"
+    "vi": "Hướng dẫn: Các tầng độ cao"
   },
   {
     "key": "tutorial_layer_control_info",
@@ -195,7 +195,7 @@
     "key": "tutorial_orders",
     "type": 0,
     "en": "Tutorial: Orders",
-    "vi": "Hướng dẫn: Ban bố mệnh lệnh"
+    "vi": "Hướng dẫn: Mệnh lệnh"
   },
   {
     "key": "tutorial_orders_info",
@@ -207,7 +207,7 @@
     "key": "tutorial_production",
     "type": 0,
     "en": "Tutorial: Production",
-    "vi": "Hướng dẫn: Hoạt động sản xuất"
+    "vi": "Hướng dẫn: Sản xuất"
   },
   {
     "key": "tutorial_production_info",
@@ -219,7 +219,7 @@
     "key": "tutorial_research",
     "type": 0,
     "en": "Tutorial: Research",
-    "vi": "Hướng dẫn: Nghiên cứu công nghệ"
+    "vi": "Hướng dẫn: Nghiên cứu"
   },
   {
     "key": "tutorial_research_info",
@@ -231,31 +231,31 @@
     "key": "tutorial_schedule",
     "type": 0,
     "en": "Tutorial: Schedule",
-    "vi": "Hướng dẫn: Thời gian biểu"
+    "vi": "Hướng dẫn: Lịch làm việc"
   },
   {
     "key": "tutorial_schedule_info",
     "type": 0,
     "en": "<style=AlmParagraph>Schedule panel\\n</style>- You can use the <b>SCHEDULE</b> panel to modify the time of day your settler should do each type of activity.",
-    "vi": "<style=AlmParagraph>Bảng thời gian biểu\\n</style>- Bạn có thể sử dụng bảng <b>THỜI GIAN BIỂU</b> để sắp xếp và phân bổ khung giờ sinh hoạt trong ngày cho từng loại hoạt động của dân làng."
+    "vi": "<style=AlmParagraph>Bảng lịch làm việc\\n</style>- Bạn có thể sử dụng bảng <b>LỊCH LÀM VIỆC</b> để sắp xếp và phân bổ khung giờ sinh hoạt trong ngày cho từng loại hoạt động của dân làng."
   },
   {
     "key": "tutorial_select",
     "type": 0,
     "en": "Tutorial: Draft Settlers",
-    "vi": "Hướng dẫn: Động viên dân làng"
+    "vi": "Hướng dẫn: Huy động dân làng"
   },
   {
     "key": "tutorial_select_info",
     "type": 0,
     "en": "<style=AlmParagraph>Draft\\n</style>- To control your settlers directly, draft them by selecting them, and clicking on the draft action in their selection panel.<style=AlmParagraph>\\nTip\\n</style><style=Desc>- You can select multiple settlers and then draft them. \\n- Use the settler panel on the left to quickly select a single settler, or use [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> to select multiple. </style>",
-    "vi": "<style=AlmParagraph>Động viên chiến đấu\\n</style>- Để trực tiếp chỉ huy dân làng chiến đấu, hãy chọn họ và nhấp vào nút Động Viên trong bảng điều khiển.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bạn có thể quét chọn nhiều dân làng cùng lúc rồi bấm lệnh Động Viên để tập hợp đội ngũ.\\n- Sử dụng thanh danh sách dân làng ở cạnh trái màn hình để chọn nhanh một người, hoặc giữ phím [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> để chọn nhiều người cùng lúc.</style>"
+    "vi": "<style=AlmParagraph>Huy động\\n</style>- Để trực tiếp chỉ huy dân làng chiến đấu, hãy chọn họ và nhấp vào nút Huy Động trong bảng điều khiển.<style=AlmParagraph>\\nMẹo\\n</style><style=Desc>- Bạn có thể quét chọn nhiều dân làng cùng lúc rồi bấm lệnh Huy Động để tập hợp đội ngũ.\\n- Sử dụng thanh danh sách dân làng ở cạnh trái màn hình để chọn nhanh một người, hoặc giữ phím [<style=Shortcut>Shift</style>] + <sprite=\"ctrl_left_click\" index=t> để chọn nhiều người cùng lúc.</style>"
   },
   {
     "key": "tutorial_stockpile",
     "type": 0,
     "en": "Tutorial: Stockpile",
-    "vi": "Hướng dẫn: Bãi chứa kho bãi"
+    "vi": "Hướng dẫn: Bãi chứa"
   },
   {
     "key": "tutorial_stockpile_info",
@@ -273,7 +273,7 @@
     "key": "tutorial_welcome_info",
     "type": 0,
     "en": "<style=AlmParagraph>Welcome To Going Medieval\\n</style>- Please bear in mind that the game is under Heavy development. This means that the game will have some bugs and unfinished systems. <b>You can consult the Almanac for help and tutorials.</b>",
-    "vi": "<style=AlmParagraph>Chào Mừng Đến Với Going Medieval\\n</style>- Xin lưu ý rằng trò chơi đang trong giai đoạn phát triển tích cực. Điều này đồng nghĩa với việc trò chơi có thể xuất hiện một số lỗi và tính năng chưa hoàn thiện. <b>Bạn có thể tra cứu Bách Khoa Thư (Almanac) bất cứ lúc nào để xem trợ giúp và các bài hướng dẫn chi tiết.</b>"
+    "vi": "<style=AlmParagraph>Chào Mừng Đến Với Going Medieval\\n</style>- Xin lưu ý rằng trò chơi đang trong giai đoạn phát triển tích cực. Điều này đồng nghĩa với việc trò chơi có thể xuất hiện một số lỗi và tính năng chưa hoàn thiện. <b>Bạn có thể tra cứu Cẩm Nang (Almanac) bất cứ lúc nào để xem trợ giúp và các bài hướng dẫn chi tiết.</b>"
   },
   {
     "key": "tutorial_mood_info",
@@ -297,19 +297,19 @@
     "key": "tutorial_mood",
     "type": 0,
     "en": "Tutorial: Mood",
-    "vi": "Hướng dẫn: Tâm trạng & Cảm xúc"
+    "vi": "Hướng dẫn: Tâm trạng"
   },
   {
     "key": "tutorial_manage",
     "type": 0,
     "en": "Tutorial: Manage",
-    "vi": "Hướng dẫn: Bảng quản lý"
+    "vi": "Hướng dẫn: Quản lý"
   },
   {
     "key": "tutorial_defence",
     "type": 0,
     "en": "Tutorial: Defence",
-    "vi": "Hướng dẫn: Phòng thủ công sự"
+    "vi": "Hướng dẫn: Phòng thủ"
   },
   {
     "key": "tutorial_forbid",
@@ -327,13 +327,13 @@
     "key": "tutorial_region",
     "type": 0,
     "en": "Tutorial: Region",
-    "vi": "Hướng dẫn: Bản đồ khu vực"
+    "vi": "Hướng dẫn: Khu vực"
   },
   {
     "key": "tutorial_trading",
     "type": 0,
     "en": "Tutorial: Bartering",
-    "vi": "Hướng dẫn: Trao đổi buôn bán"
+    "vi": "Hướng dẫn: Trao đổi hàng hóa"
   },
   {
     "key": "tutorial_initiate_trading",
@@ -345,7 +345,7 @@
     "key": "tutorial_friendliness",
     "type": 0,
     "en": "Tutorial: Alignment",
-    "vi": "Hướng dẫn: Mối quan hệ phe phái"
+    "vi": "Hướng dẫn: Quan hệ phe phái"
   },
   {
     "key": "tutorial_trading_info",
@@ -357,13 +357,13 @@
     "key": "tutorial_region_info",
     "type": 0,
     "en": "<style=AlmParagraph>Region\\n</style>- You can see what factions and faction settlements are in your region.\\n- Form a caravan and send your settlers to trade with other settlements by selecting a settlement and clicking the <b>send caravan</b> button.\n",
-    "vi": "<style=AlmParagraph>Khu vực\\n</style>- Bạn có thể quan sát toàn bộ các phe phái và các tiền đồn khu định cư của họ trong toàn vùng.\\n- Tổ chức các đoàn buôn và cử dân làng đến trao đổi thương mại với các khu định cư lân cận bằng cách chọn mục tiêu trên bản đồ và nhấn nút <b>Cử Đoàn Buôn</b>.\n"
+    "vi": "<style=AlmParagraph>Khu vực\\n</style>- Bạn có thể quan sát toàn bộ các phe phái và các khu định cư của họ trong toàn vùng.\\n- Tổ chức thương đoàn và cử dân làng đến trao đổi hàng hóa với các khu định cư lân cận bằng cách chọn một khu định cư trên bản đồ và nhấn nút <b>Cử thương đoàn</b>.\n"
   },
   {
     "key": "tutorial_friendliness_info",
     "type": 0,
     "en": "<style=AlmParagraph>Alignment\\n</style>- Alignment determines whether a faction is friendly, neutral or hostile towards your settlement.\\n- Hostile factions will initiate raids on your settlement, while friendly and neutral factions will send Merchants your way from time to time.\n",
-    "vi": "<style=AlmParagraph>Quan hệ phe phái\\n</style>- Mối quan hệ ngoại giao sẽ quyết định một phe phái là thân thiện, trung lập hay thù địch đối với khu định cư của bạn.\\n- Các phe phái thù địch sẽ thường xuyên phát động các cuộc đột kích vũ trang, trong khi các phe thân thiện và trung lập sẽ định kỳ cử các đoàn thương nhân đến giao thương với bạn.\n"
+    "vi": "<style=AlmParagraph>Quan hệ phe phái\\n</style>- Mối quan hệ ngoại giao sẽ quyết định một phe phái là thân thiện, trung lập hay thù địch đối với khu định cư của bạn.\\n- Các phe phái thù địch sẽ thường xuyên phát động các cuộc đột kích vũ trang, trong khi các phe thân thiện và trung lập sẽ định kỳ cử các thương nhân đến giao thương với bạn.\n"
   },
   {
     "key": "tutorial_initiate_trading_info",
@@ -387,7 +387,7 @@
     "key": "tutorial_farming",
     "type": 0,
     "en": "Tutorial: Farming",
-    "vi": "Hướng dẫn: Canh tác nông nghiệp"
+    "vi": "Hướng dẫn: Trồng trọt"
   },
   {
     "key": "tutorial_farming_info",
@@ -399,7 +399,7 @@
     "key": "tutorial_animals",
     "type": 0,
     "en": "Tutorial: Animals",
-    "vi": "Hướng dẫn: Động vật & Chăn nuôi"
+    "vi": "Hướng dẫn: Động vật"
   },
   {
     "key": "tutorial_animals_info",
@@ -423,7 +423,7 @@
     "key": "tutorial_domestic_animals",
     "type": 0,
     "en": "Tutorial: Domestic Animals",
-    "vi": "Hướng dẫn: Động vật nuôi & Gia súc"
+    "vi": "Hướng dẫn: Gia súc & Vật nuôi"
   },
   {
     "key": "tutorial_domestic_animals_info",
@@ -459,7 +459,7 @@
     "key": "tutorial_stash_found",
     "type": 0,
     "en": "Secret stash found!",
-    "vi": "Đã phát hiện kho báu bí mật!"
+    "vi": "Đã phát hiện kho cất giấu bí mật!"
   },
   {
     "key": "tutorial_wrong_construction_size",
@@ -507,7 +507,7 @@
     "key": "more_info_scenario",
     "type": 0,
     "en": "The scenario <style=DefaultYellow>A New Life</style> is recommended for those new to Going Medieval. You begin with three settlers and a good amount of supplies. You start in Spring, which gives plenty of time to stock up before the harsh Winter arrives.\\n\\n Additional settings and details for each scenario are available, but we recommend sticking with the defaults for your first settlement.",
-    "vi": "Kịch bản <style=DefaultYellow>Khởi Đầu Mới</style> rất phù hợp cho những người lần đầu đến với Going Medieval. Bạn sẽ bắt đầu với 3 dân làng cùng lượng nhu yếu phẩm dồi dào. Khởi đầu vào Mùa Xuân sẽ cho bạn nhiều thời gian quý báu để chuẩn bị và tích lũy lương thực trước khi Mùa Đông giá buốt ập tới.\\n\\nBạn luôn có thể tùy chỉnh sâu các thiết lập của từng kịch bản, nhưng chúng tôi khuyên bạn nên giữ các giá trị mặc định cho khu định cư đầu tiên của mình."
+    "vi": "Kịch bản <style=DefaultYellow>Khởi Đầu Mới</style> rất phù hợp cho những người lần đầu đến với Going Medieval. Bạn sẽ bắt đầu với 3 dân làng cùng lượng nhu yếu phẩm dồi dào. Khởi đầu vào Mùa Xuân sẽ cho bạn nhiều thời gian quý báu để chuẩn bị và tích trữ lương thực trước khi Mùa Đông giá buốt ập tới.\\n\\nBạn luôn có thể tùy chỉnh sâu các thiết lập của từng kịch bản, nhưng chúng tôi khuyên bạn nên giữ các giá trị mặc định cho khu định cư đầu tiên của mình."
   },
   {
     "key": "tutorial_game_paused",
@@ -537,7 +537,7 @@
     "key": "tutorial_loading_screen_description",
     "type": 0,
     "en": "This is a temporary map which has been designed to teach you the basic controls and introduce you to some of the systems Going Medieval has to offer.\\n\\nWhen the tutorial is over, you can start your first 'proper' settlement!",
-    "vi": "Đây là bản đồ thử nghiệm được thiết kế riêng nhằm giúp bạn làm quen với các thao tác điều khiển cơ bản và những cơ chế cốt lõi mà Going Medieval mang lại.\\n\\nKhi hoàn tất phần hướng dẫn, bạn sẽ sẵn sàng tạo dựng khu định cư thực thụ đầu tiên của chính mình!"
+    "vi": "Đây là bản đồ hướng dẫn được thiết kế riêng nhằm giúp bạn làm quen với các thao tác điều khiển cơ bản và những cơ chế cốt lõi mà Going Medieval mang lại.\\n\\nKhi hoàn tất phần hướng dẫn, bạn sẽ sẵn sàng tạo dựng khu định cư thực thụ đầu tiên của chính mình!"
   },
   {
     "key": "scenario_default_1_title",
@@ -549,13 +549,13 @@
     "key": "scenario_default_1_info",
     "type": 0,
     "en": "Each settler has a story about the past they left far behind. But now, this tattered group has a common goal: to build a new home, together.",
-    "vi": "Mỗi dân làng đều mang trong mình một câu chuyện về quá khứ đã bỏ lại phía sau. Giờ đây, nhóm người phiêu bạt này cùng chung một lý tưởng: cùng nhau gây dựng một mái ấm mới."
+    "vi": "Mỗi dân làng đều mang trong mình một câu chuyện về quá khứ đã bỏ lại phía sau. Giờ đây, nhóm người phiêu bạt này cùng chung một mục tiêu: cùng nhau gây dựng một mái ấm mới."
   },
   {
     "key": "scenario_default_1_narrative",
     "type": 0,
     "en": "The plague had ravaged the British Isles, leaving a trail of destruction in its wake. Untold millions went to an early grave. And those left standing were plunged into poverty, brutally scarred by the horrors that they had witnessed. Nothing would ever be the same again.\\n\\n<season_description> of the year <year>, <all_villagers> set off into the wilderness to claim a piece of the land as their own, as was their right, in the eyes of God and under the Law. Here, they may lay down the foundations for some kind of future. Perhaps hope will follow.",
-    "vi": "Cơn đại dịch Cái Chết Đen đã tàn phá tan hoang khắp quần đảo Anh quốc, để lại vết tích hoang tàn và tang tóc trên mọi nẻo đường. Hàng triệu sinh linh đã phải vùi thây nơi nấm mồ lạnh giá. Những người may mắn còn sống sót rơi vào cảnh bần cùng khốn khó, tâm can hằn sâu vết sẹo từ muôn vàn cảnh tượng kinh hoàng mà họ đã tận mắt chứng kiến. Thế giới xưa cũ sẽ vĩnh viễn không bao giờ trở lại.\\n\\nVào <season_description> năm <year>, <all_villagers> đã cùng nhau tiến bước vào miền hoang dã để khai khẩn một mảnh đất cho riêng mình, đúng theo quyền hạn chính đáng của họ trước Thiên Chúa và Luật Pháp. Tại nơi đây, họ sẽ cùng nhau đặt những viên gạch nền móng đầu tiên cho tương lai. Và có lẽ, ngọn lửa hy vọng sẽ lại bừng sáng."
+    "vi": "Cơn đại dịch Cái Chết Đen đã tàn phá tan hoang khắp quần đảo Anh quốc, để lại vết tích đổ nát và tang thương trên mọi nẻo đường. Hàng triệu sinh linh đã phải vùi thây nơi nấm mồ lạnh giá. Những người may mắn còn sống sót rơi vào cảnh bần cùng khốn khó, tâm can hằn sâu vết sẹo từ muôn vàn cảnh tượng kinh hoàng mà họ đã tận mắt chứng kiến. Thế giới xưa cũ sẽ vĩnh viễn không bao giờ trở lại.\\n\\nVào <season_description> năm <year>, <all_villagers> đã cùng nhau tiến bước vào miền hoang dã để khai khẩn một mảnh đất cho riêng mình, đúng theo quyền hạn chính đáng của họ trước Thiên Chúa và Luật Pháp. Tại nơi đây, họ sẽ cùng nhau đặt những viên gạch nền móng đầu tiên cho tương lai. Và có lẽ, ngọn lửa hy vọng sẽ lại bừng sáng."
   },
   {
     "key": "scenario_default_3_title",
@@ -573,7 +573,7 @@
     "key": "scenario_default_3_narrative",
     "type": 0,
     "en": "Through a blizzard, the last hunting party of the year returns. One member is missing, presumed dead. Far from what passes for civilization, <random_villager> is on [his/her] own. [He/She] grits [his/her] teeth and resolves to build a home in the wilderness, to shelter from the biting cold. The only sound is the distant call of wolves.",
-    "vi": "Vượt qua cơn bão tuyết mịt mù, nhóm thợ săn cuối cùng trong năm lục tục trở về. Một thành viên đã mất tích và được cho là đã bỏ mạng. Cách xa khỏi những gì được gọi là văn minh loài người, <random_villager> chỉ còn biết dựa vào chính bản thân [his/her]. [He/She] nghiến chặt hàm răng của [his/her] và quyết tâm dựng xây một mái nhà giữa chốn hoang dã để chống chọi lại cái lạnh thấu xương. Âm thanh duy nhất bầu bạn chỉ là tiếng sói tru ai oán từ nơi xa xăm."
+    "vi": "Vượt qua cơn bão tuyết mịt mù, nhóm thợ săn cuối cùng trong năm lục tục trở về. Một thành viên đã mất tích và được cho là đã bỏ mạng. Cách xa khỏi nền văn minh, <random_villager> chỉ còn biết dựa vào chính [his/her] mình. [He/She] nghiến chặt hàm răng [his/her] và quyết tâm dựng xây một mái nhà giữa chốn hoang dã để chống chọi lại cái lạnh thấu xương. Âm thanh duy nhất bầu bạn chỉ là tiếng sói tru ai oán từ nơi xa xăm."
   },
   {
     "key": "scenario_default_2_title",
@@ -585,13 +585,13 @@
     "key": "scenario_default_2_info",
     "type": 0,
     "en": "There are no enemy attacks. Choose this game mode if you prefer to focus on constructing your settlement and taking care of your settlers.",
-    "vi": "Không có bất kỳ cuộc tấn công nào từ kẻ thù. Hãy chọn chế độ này nếu bạn muốn thư thái tập trung xây dựng kiến trúc khu định cư và chăm sóc chu đáo cho dân làng."
+    "vi": "Không có bất kỳ cuộc tấn công nào từ kẻ thù. Hãy chọn chế độ này nếu bạn muốn thảnh thơi tập trung xây dựng khu định cư và chăm lo cho dân làng."
   },
   {
     "key": "scenario_default_2_narrative",
     "type": 0,
     "en": "<random_villager> surveys the half-starved group, and states the obvious. 'We're not exactly on fighting form, are we?' As they begin to prevaricate, [he/she] continues: 'why don't we just concentrate on building? Make a place we can call home, a refuge against the elements?' Why go looking for a fight, [he/she] thinks, when we could strive to create a cosy, welcoming hearth?",
-    "vi": "<random_villager> đưa mắt nhìn quanh nhóm người đang đói lả, rồi thẳng thắn nói ra điều hiển nhiên: 'Chúng ta đâu còn đủ sức để chém giết, phải không?' Khi thấy mọi người còn đang ngập ngừng do dự, [he/she] nói tiếp: 'Sao chúng ta không dồn toàn tâm toàn ý vào việc xây dựng? Gây dựng một nơi mà ta có thể gọi là nhà, một chốn trú ẩn vững chãi trước bão giông?' Cớ sao phải lao vào những cuộc đâm chém vô nghĩa, [he/she] thầm nghĩ, khi ta hoàn toàn có thể cùng nhau thắp lên một mái ấm gia đình yên bình và nồng hậu?"
+    "vi": "<random_villager> đưa mắt nhìn quanh nhóm người đang đói lả, rồi thẳng thắn cất lời: 'Chúng ta đâu còn đủ sức để chiến đấu, phải không?' Khi thấy mọi người còn đang ngập ngừng do dự, [he/she] nói tiếp: 'Sao chúng ta không dồn toàn tâm toàn ý vào việc xây dựng? Gây dựng một nơi mà ta có thể gọi là nhà, một chốn trú ẩn vững chãi trước bão giông?' Cớ sao phải lao vào đánh nhau, [he/she] thầm nghĩ, khi ta hoàn toàn có thể cùng nhau tạo dựng một mái ấm yên bình và nồng hậu?"
   },
   {
     "key": "scenario_default_4_title",
@@ -621,19 +621,19 @@
     "key": "scenario_difficulty_VeryEasy",
     "type": 0,
     "en": "Easy",
-    "vi": "Dễ Dàng"
+    "vi": "Dễ"
   },
   {
     "key": "scenario_difficulty_standard",
     "type": 0,
     "en": "Beginner (Recommended for new players )",
-    "vi": "Tiêu Chuẩn (Khuyên dùng cho người mới)"
+    "vi": "Nhập Môn (Khuyên dùng cho người mới)"
   },
   {
     "key": "scenario_difficulty_Difficult",
     "type": 0,
     "en": "Experienced",
-    "vi": "Khó Khăn"
+    "vi": "Kỳ Cựu"
   },
   {
     "key": "scenario_edit_name_title",

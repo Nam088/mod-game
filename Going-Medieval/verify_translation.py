@@ -37,8 +37,9 @@ def verify():
         'health_carrying_pattern',
         'options_vsync', 'options_aa_FXAA', 'options_twitch', 'workshop_open',
         'update_entry_92', 'map_size_dev_100', 'map_size_dev_512',
-        'effector_name_2x', 'effector_name_3x', 'effector_name_4x', 'game_name',
-        'lastwords_default_2', 'building_info_foxy_statue',
+        'effector_name_2x', 'effector_name_3x', 'effector_name_4x', 'game_name', 'DefaultFont', 'TitleFont',
+        'damage_per_second_ab', 'general_ok', 'general_symbol_Celsius', 'general_symbol_Fahrenheit', 'general_symbol_Kelvin',
+        'lastwords_default_2', 'building_info_foxy_statue', 'building names',
     }
 
     # English words that are intentionally retained in the Vietnamese build.

@@ -99,7 +99,7 @@
     "key": "rebl_name_idleCold",
     "type": 0,
     "en": "Drawn to the fire",
-    "vi": "Drawn để fire"
+    "vi": "Sưởi ấm bên lửa"
   },
   {
     "key": "rebl_name_natureIdle",
@@ -153,7 +153,7 @@
     "key": "merry_name_GreenThumb",
     "type": 0,
     "en": "Attuned to beasts",
-    "vi": "Attuned để beasts"
+    "vi": "Giao hòa với muông thú"
   },
   {
     "key": "merry_name_Wicche",
@@ -165,7 +165,7 @@
     "key": "merry_name_Dainty",
     "type": 0,
     "en": "Set to excavate",
-    "vi": "Đặt để excavate"
+    "vi": "Hăng hái khai quật"
   },
   {
     "key": "merry_name_Hefty",
@@ -195,19 +195,19 @@
     "key": "relation_towards",
     "type": 0,
     "en": "My affection towards <settler_name> : <affection_amount>",
-    "vi": "My Tình cảm towards <settler_name> : <affection_amount>"
+    "vi": "Tình cảm của tôi dành cho <settler_name>: <affection_amount>"
   },
   {
     "key": "relation_from",
     "type": 0,
     "en": "<settler_name>`s affection towards me: <affection_amount>",
-    "vi": "<settler_name>`s Tình cảm towards me: <affection_amount>"
+    "vi": "Tình cảm của <settler_name> dành cho tôi: <affection_amount>"
   },
   {
     "key": "affection_borders",
     "type": 0,
     "en": "Affection Range",
-    "vi": "Tình cảm Range"
+    "vi": "Phạm vi tình cảm"
   },
   {
     "key": "rally_point_panel_desc",
@@ -237,7 +237,7 @@
     "key": "rally_point_panel_armed_only",
     "type": 0,
     "en": "Armed Settlers only",
-    "vi": "Armed Dân làng only"
+    "vi": "Chỉ dân làng có vũ trang"
   },
   {
     "key": "rally_point_already_in",
@@ -261,7 +261,7 @@
     "key": "lb_use_rally_points_info",
     "type": 0,
     "en": "If unchecked, this settler will not draft when the rally point is activated.",
-    "vi": "Nếu bỏ chọn, dân làng này sẽ không tự động động viên khi điểm tập kết được kích hoạt."
+    "vi": "Nếu bỏ chọn, dân làng này sẽ không tự động tập hợp chiến đấu khi điểm tập kết được kích hoạt."
   },
   {
     "key": "production names",
@@ -327,19 +327,19 @@
     "key": "pseudonym_name_Red",
     "type": 0,
     "en": "The Red",
-    "vi": "Kẻ Red"
+    "vi": "Kẻ Nhuộm Đỏ"
   },
   {
     "key": "pseudonym_name_Butcher",
     "type": 0,
     "en": "The Butcher",
-    "vi": "Kẻ Butcher"
+    "vi": "Gã Đồ Tể"
   },
   {
     "key": "pseudonym_name_Saint",
     "type": 0,
     "en": "The Saint",
-    "vi": "Kẻ Saint"
+    "vi": "Vị Thánh"
   },
   {
     "key": "pseudonym_name_Chou",
@@ -351,7 +351,7 @@
     "key": "pseudonym_name_Bastard",
     "type": 0,
     "en": "The Bastard",
-    "vi": "Kẻ Bastard"
+    "vi": "Đứa Con Hoang"
   },
   {
     "key": "pseudonym_name_Pagan",
@@ -363,61 +363,61 @@
     "key": "pseudonym_name_Cuckold",
     "type": 0,
     "en": "The Cuckold",
-    "vi": "Kẻ Cuckold"
+    "vi": "Kẻ Mọc Sừng"
   },
   {
     "key": "pseudonym_name_Rebel",
     "type": 0,
     "en": "The Rebel",
-    "vi": "Kẻ Rebel"
+    "vi": "Kẻ Nổi Loạn"
   },
   {
     "key": "pseudonym_name_Apostle",
     "type": 0,
     "en": "The Apostle",
-    "vi": "Kẻ Apostle"
+    "vi": "Vị Sứ Đồ"
   },
   {
     "key": "pseudonym_name_Zealot",
     "type": 0,
     "en": "The Zealot",
-    "vi": "Kẻ Zealot"
+    "vi": "Kẻ Cuồng Tín"
   },
   {
     "key": "pseudonym_name_Heretic",
     "type": 0,
     "en": "The Heretic",
-    "vi": "Kẻ Heretic"
+    "vi": "Kẻ Dị Giáo"
   },
   {
     "key": "pseudonym_name_Chaste",
     "type": 0,
     "en": "The Chaste",
-    "vi": "Kẻ Chaste"
+    "vi": "Người Tiết Hạnh"
   },
   {
     "key": "pseudonym_name_Pudding",
     "type": 0,
     "en": "The Pudding",
-    "vi": "Kẻ Pudding"
+    "vi": "Bánh Pudding"
   },
   {
     "key": "pseudonym_name_Forlorn",
     "type": 0,
     "en": "The Forlorn",
-    "vi": "Kẻ Forlorn"
+    "vi": "Kẻ U Sầu"
   },
   {
     "key": "pseudonym_name_Tart",
     "type": 0,
     "en": "The Tart",
-    "vi": "Kẻ Tart"
+    "vi": "Kẻ Chua Ngoa"
   },
   {
     "key": "pseudonym_name_Doctor",
     "type": 0,
     "en": "The Doctor",
-    "vi": "Kẻ Doctor"
+    "vi": "Thầy Thuốc"
   },
   {
     "key": "pseudonym_name_Fool",
@@ -429,13 +429,13 @@
     "key": "pseudonym_name_Spy",
     "type": 0,
     "en": "The Spy",
-    "vi": "Kẻ Spy"
+    "vi": "Kẻ Gián Điệp"
   },
   {
     "key": "pseudonym_name_Deceiver",
     "type": 0,
     "en": "The Deceiver",
-    "vi": "Kẻ Deceiver"
+    "vi": "Kẻ Lừa Bạc"
   },
   {
     "key": "pseudonym_name_Broken",
@@ -447,115 +447,115 @@
     "key": "pseudonym_name_Bard",
     "type": 0,
     "en": "The Minstrel",
-    "vi": "Kẻ Minstrel"
+    "vi": "Người Hát Rong"
   },
   {
     "key": "pseudonym_name_Crow",
     "type": 0,
     "en": "The Crow",
-    "vi": "Kẻ Crow"
+    "vi": "Quạ Đen"
   },
   {
     "key": "pseudonym_name_Bonesetter",
     "type": 0,
     "en": "The Bonesetter",
-    "vi": "Kẻ Bonesetter"
+    "vi": "Thầy Nắn Xương"
   },
   {
     "key": "pseudonym_name_Wakeful",
     "type": 0,
     "en": "The Wakeful",
-    "vi": "Kẻ Wakeful"
+    "vi": "Kẻ Tỉnh Thức"
   },
   {
     "key": "pseudonym_name_Bold",
     "type": 0,
     "en": "The Bold",
-    "vi": "Kẻ Táo Bạo"
+    "vi": "Kẻ Quả Cảm"
   },
   {
     "key": "pseudonym_name_Spear_Maiden",
     "type": 0,
     "en": "The Spear Maiden",
-    "vi": "Kẻ Spear Maiden"
+    "vi": "Nữ Chiến Binh Cầm Thương"
   },
   {
     "key": "pseudonym_name_Confessor",
     "type": 0,
     "en": "The Confessor",
-    "vi": "Kẻ Confessor"
+    "vi": "Người Xưng Tội"
   },
   {
     "key": "pseudonym_name_Philosopher",
     "type": 0,
     "en": "The Philosopher",
-    "vi": "Kẻ Philosopher"
+    "vi": "Nhà Triết Học"
   },
   {
     "key": "pseudonym_name_Lucky",
     "type": 0,
     "en": "The Lucky",
-    "vi": "Kẻ Lucky"
+    "vi": "Kẻ May Mắn"
   },
   {
     "key": "pseudonym_name_Prodigal",
     "type": 0,
     "en": "The Prodigal",
-    "vi": "Kẻ Prodigal"
+    "vi": "Đứa Con Hoang Đàng"
   },
   {
     "key": "pseudonym_name_Paramour",
     "type": 0,
     "en": "The Paramour",
-    "vi": "Kẻ Paramour"
+    "vi": "Kẻ Đa Tình"
   },
   {
     "key": "pseudonym_name_Riddler",
     "type": 0,
     "en": "The Riddler",
-    "vi": "Kẻ Riddler"
+    "vi": "Kẻ Đố Mẹo"
   },
   {
     "key": "pseudonym_name_Kitten",
     "type": 0,
     "en": "The Kitten",
-    "vi": "Kẻ Kitten"
+    "vi": "Mèo Con"
   },
   {
     "key": "pseudonym_name_Lamb",
     "type": 0,
     "en": "The Lamb",
-    "vi": "Kẻ Lamb"
+    "vi": "Cừu Non"
   },
   {
     "key": "pseudonym_name_Bride",
     "type": 0,
     "en": "The [Bridegroom/Bride]",
-    "vi": "Kẻ [Bridegroom/Bride]"
+    "vi": "[Bridegroom/Bride]"
   },
   {
     "key": "pseudonym_name_Thief",
     "type": 0,
     "en": "The Thief",
-    "vi": "Kẻ Thief"
+    "vi": "Tên Trộm"
   },
   {
     "key": "pseudonym_name_Pirate",
     "type": 0,
     "en": "The Pirate",
-    "vi": "Kẻ Pirate"
+    "vi": "Tên Hải Tặc"
   },
   {
     "key": "pseudonym_name_Ghost",
     "type": 0,
     "en": "The Ghost",
-    "vi": "Kẻ Ghost"
+    "vi": "Bóng Ma"
   },
   {
     "key": "pseudonym_name_Hanged",
     "type": 0,
     "en": "The Hanged",
-    "vi": "Kẻ Hanged"
+    "vi": "Kẻ Thoát Giá Treo Cổ"
   },
   {
     "key": "pseudonym_info_Red",
@@ -681,7 +681,7 @@
     "key": "pseudonym_info_Bard",
     "type": 0,
     "en": "<name> had the voice of an angel and the memory of a druid. [His/Her] spellbinding tales and sweet lullabies earned <name> the honorary title of 'minstrel'.",
-    "vi": "<name> had Kẻ voice của an angel và Kẻ memory của a druid. [His/Her] spellbinding tales và sweet lullabies earned <name> Kẻ honorary title của 'minstrel'."
+    "vi": "<name> sở hữu giọng hát của thiên thần và trí nhớ uyên bác của một tu sĩ druid. Những câu chuyện mê hoặc và lời hát ru êm dịu của [His/Her] đã mang lại cho <name> danh hiệu cao quý 'người hát rong'."
   },
   {
     "key": "pseudonym_info_Crow",
@@ -795,7 +795,7 @@
     "key": "pseudonym_pattern",
     "type": 0,
     "en": "<pseudonym> of <origin>",
-    "vi": "<pseudonym> của <origin>"
+    "vi": "<pseudonym> xứ <origin>"
   },
   {
     "key": "bg_recent_name_Apostate",

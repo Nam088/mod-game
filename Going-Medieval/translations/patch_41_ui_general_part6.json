@@ -9,7 +9,7 @@
     "key": "objective_intellectual_end_game_info",
     "type": 0,
     "en": "When everything is ready, assemble the dons to proclaim your charter of commitment to academic excellence. This will confirm <village_name> University as the Leading Academic Institution of your region",
-    "vi": "Khi mọi thứ đã sẵn sàng, tập hợp các học giả để tuyên bố cam kết theo hiến chương về sự xuất sắc học thuật. Việc này sẽ xác nhận Đại học <village_name> là cơ sở học thuật hàng đầu trong khu vực của bạn"
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy tập hợp các học giả để công bố hiến chương cam kết hướng tới đỉnh cao học thuật. Điều này sẽ khẳng định Đại học <village_name> là Cơ sở Học thuật Hàng đầu trong khu vực của bạn"
   },
   {
     "key": "objective_intellectual_end_game_info_alt",
@@ -27,7 +27,7 @@
     "key": "game_event_intellectual_final_info",
     "type": 0,
     "en": "You are about to trigger the last step in becoming the New University. Doing so will call in a group of scholars to proclaim your charter of commitment to academic excellence.",
-    "vi": "Bạn sắp thực hiện bước cuối cùng để trở thành Đại học Mới. Một nhóm học giả sẽ được triệu tập để công bố hiến chương cam kết theo đuổi học thuật xuất sắc."
+    "vi": "Bạn sắp thực hiện bước cuối cùng để trở thành Đại học Mới. Hành động này sẽ triệu tập một đoàn học giả đến công bố hiến chương cam kết hướng tới đỉnh cao học thuật."
   },
   {
     "key": "objective_military_name",
@@ -57,7 +57,7 @@
     "key": "objective_military_defeat_bandit_camps_info",
     "type": 0,
     "en": "Defeat the major bandit strongholds in the region so that none may rise to challenge your authority.",
-    "vi": "Đánh bại các cứ điểm thổ phỉ lớn trong khu vực để không ai có thể trỗi dậy thách thức quyền lực của bạn."
+    "vi": "Tiêu diệt các cứ điểm thổ phỉ lớn trong khu vực để không kẻ nào dám trỗi dậy thách thức quyền lực của bạn."
   },
   {
     "key": "objective_miltary_end_game",
@@ -69,7 +69,7 @@
     "key": "objective_miltary_end_game_info",
     "type": 0,
     "en": "When everything is ready, set forth <village_name>'s brightest banners and gilded knights. Your heralds shall proclaim that you have earned the most honourable of titles: Defender of the Realm.",
-    "vi": "Khi mọi thứ đã sẵn sàng, hãy giương những lá cờ rực rỡ nhất và triệu tập các hiệp sĩ giáp vàng của <village_name>. Các sứ giả sẽ tuyên bố rằng bạn đã giành được danh hiệu cao quý nhất: Người Bảo vệ Vương quốc."
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy giương cao những lá cờ rực rỡ nhất và cử các hiệp sĩ giáp vàng của <village_name> xuất trận. Sứ giả sẽ tuyên bố bạn đã giành được danh hiệu cao quý nhất: Người Bảo vệ Vương quốc."
   },
   {
     "key": "objective_trade_name",
@@ -105,13 +105,13 @@
     "key": "objective_trade_have_broker",
     "type": 0,
     "en": "Broker Level 3",
-    "vi": "Môi giới cấp 3"
+    "vi": "Thương lái cấp 3"
   },
   {
     "key": "objective_trade_have_broker_info",
     "type": 0,
     "en": "You need to have a broker level 3 in your settlement",
-    "vi": "Bạn cần có một Môi giới cấp 3 trong khu định cư"
+    "vi": "Bạn cần có một Thương lái cấp 3 trong khu định cư"
   },
   {
     "key": "objective_trade_make_trade_deal",
@@ -123,13 +123,13 @@
     "key": "objective_trade_make_trade_deal_info",
     "type": 0,
     "en": "Secure at least one Trade Agreement with a friendly faction in your region. A broker will visit your settlement to offer a trade deal now that your mercantile renown is high.",
-    "vi": "Ký ít nhất một Hiệp định Giao thương với phe phái thân thiện trong khu vực. Khi danh tiếng thương mại của bạn đã cao, một Môi giới sẽ ghé khu định cư để đề nghị thỏa thuận."
+    "vi": "Ký kết ít nhất một Hiệp định Giao thương với một phe phái thân thiện trong khu vực. Một thương lái sẽ ghé thăm khu định cư để đề nghị giao dịch khi danh tiếng thương mại của bạn đạt mức cao."
   },
   {
     "key": "objective_trade_build_market_center_marker",
     "type": 0,
     "en": "Market Cross",
-    "vi": "Chợ trung tâm"
+    "vi": "Thập tự Chợ"
   },
   {
     "key": "objective_trade_build_market_center_marker_info",
@@ -147,7 +147,7 @@
     "key": "objective_trade_end_game_info",
     "type": 0,
     "en": "When everything is prepared, celebrate the inaugural Charter Fair, drawing in customers from far and wide. Proclaim your prestige as the region's leading Centre of Trade.",
-    "vi": "Khi mọi thứ đã sẵn sàng, hãy tổ chức Hội chợ Đặc quyền đầu tiên, thu hút khách hàng từ khắp nơi. Tuyên bố uy tín của bạn với tư cách Trung tâm Giao thương hàng đầu khu vực."
+    "vi": "Khi mọi thứ đã sẵn sàng, hãy tổ chức Hội chợ Đặc quyền đầu tiên, thu hút khách hàng từ bốn phương. Khẳng định uy tín của bạn với tư cách Trung tâm Giao thương hàng đầu khu vực."
   },
   {
     "key": "objective_trade_end_game_info_alt",
@@ -165,7 +165,7 @@
     "key": "game_event_trade_final_info",
     "type": 0,
     "en": "You are about to trigger the last step in becoming The Centre of Trade. Doing so will call in a group of merchants and customers, who will arrive to proclaim your charter of trade and open the Inaugural Charter Fair.",
-    "vi": "Bạn sắp kích hoạt bước cuối cùng để trở thành Trung tâm Giao thương. Việc này sẽ triệu tập một nhóm thương nhân và khách hàng đến công bố đặc quyền thương mại và khai mạc Hội chợ Đặc quyền đầu tiên."
+    "vi": "Bạn sắp kích hoạt bước cuối cùng để trở thành Trung tâm Giao thương. Hành động này sẽ thu hút một đoàn thương nhân và khách hàng đến công bố đặc quyền thương mại và khai mạc Hội chợ Đặc quyền đầu tiên."
   },
   {
     "key": "game_event_end_game_name",
@@ -183,7 +183,7 @@
     "key": "game_event_description_end_game",
     "type": 0,
     "en": "Congratulations! You have reached the end of Going Medieval. Although the game is completed, you can continue playing for as long you want.",
-    "vi": "Chúc mừng! Bạn đã hoàn thành Going Medieval. Dù game đã kết thúc, bạn vẫn có thể tiếp tục chơi bao lâu tùy thích."
+    "vi": "Chúc mừng! Bạn đã hoàn thành hành trình Going Medieval. Dù trò chơi đã về đích, bạn vẫn có thể tiếp tục xây dựng và phát triển bao lâu tùy thích."
   },
   {
     "key": "continue_playing",
@@ -219,7 +219,7 @@
     "key": "news_name_pilgrim",
     "type": 0,
     "en": "Pilgrim Arrives",
-    "vi": "Người hành hương đến"
+    "vi": "Người hành hương ghé thăm"
   },
   {
     "key": "general_pilgrim_rest",
@@ -273,7 +273,7 @@
     "key": "news_name_scholar",
     "type": 0,
     "en": "Travelling Scholar arrives",
-    "vi": "Học giả du hành đến"
+    "vi": "Học giả du hành ghé thăm"
   },
   {
     "key": "scholar",
@@ -303,13 +303,13 @@
     "key": "news_name_broker",
     "type": 0,
     "en": "Broker arrives",
-    "vi": "Môi giới thương mại ghé thăm"
+    "vi": "Thương lái ghé thăm"
   },
   {
     "key": "general_broker",
     "type": 0,
     "en": "Broker",
-    "vi": "Người môi giới"
+    "vi": "Thương lái"
   },
   {
     "key": "trade_deal_name",
@@ -339,19 +339,19 @@
     "key": "trade_deal_dialog_info",
     "type": 0,
     "en": "A trade agreement has been signed and sealed. You gave <resources> worth <wealth> to <faction_name> as a token of good faith to help broker the deal.",
-    "vi": "Một Hiệp định Giao thương đã được ký kết. Bạn trao cho <faction_name> số <resources> trị giá <wealth> làm tín vật thiện chí để hỗ trợ việc đàm phán."
+    "vi": "Một Hiệp định Giao thương đã được ký kết và đóng dấu. Bạn đã trao <resources> trị giá <wealth> cho <faction_name> làm tín vật thiện chí để đạt được thỏa thuận."
   },
   {
     "key": "cannot_negotiate_with_non_broker",
     "type": 0,
     "en": "Only your Broker can negotiate a deal",
-    "vi": "Chỉ Môi giới của bạn mới có thể đàm phán thỏa thuận"
+    "vi": "Chỉ Thương lái của bạn mới có thể đàm phán thỏa thuận"
   },
   {
     "key": "cannot_negotiate_broker_level_too_low",
     "type": 0,
     "en": "Only your Broker can negotiate a deal",
-    "vi": "Chỉ Môi giới của bạn mới có thể đàm phán thỏa thuận"
+    "vi": "Chỉ Thương lái của bạn mới có thể đàm phán thỏa thuận"
   },
   {
     "key": "trade_deal_demand_option",
@@ -387,7 +387,7 @@
     "key": "broker",
     "type": 0,
     "en": "Broker",
-    "vi": "Môi giới thương mại"
+    "vi": "Thương lái"
   },
   {
     "key": "assign_role_info",
@@ -489,7 +489,7 @@
     "key": "system_armour_attributes_name",
     "type": 0,
     "en": "Armour & Shield Attributes",
-    "vi": "Áo giáp & Shield Attributes"
+    "vi": "Thuộc tính Giáp & Khiên"
   },
   {
     "key": "system_clothing_attributes_name",
@@ -513,7 +513,7 @@
     "key": "system_decomposition",
     "type": 0,
     "en": "Decomposition & Rot",
-    "vi": "Phân hủy & mục nát"
+    "vi": "Phân hủy & Thối rữa"
   },
   {
     "key": "system_decomposition_info",
@@ -525,7 +525,7 @@
     "key": "system_fermentation",
     "type": 0,
     "en": "Fermentation",
-    "vi": "Quá trình Lên Men"
+    "vi": "Lên men"
   },
   {
     "key": "system_fermentation_info",
@@ -567,7 +567,7 @@
     "key": "photo_mode_instructions",
     "type": 0,
     "en": "- Use the [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys to move your camera around.\\n- Use the Mouse wheel or [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] to zoom.\\n- Hold [<sprite=\"ctrl_middle_click\" index=t>] and move the mouse to rotate and tilt the camera.\\n\\n<style=Desc>TIP: You can customise camera controls in the options menu.</style>\\n",
-    "vi": "- Use [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] keys đến move của bạn camera around.\\n- Use Mouse wheel hoặc [<style=Shortcut><input:ZoomIn></style>]&[<style=Shortcut><input:ZoomOut></style>] đến zoom.\\n- Giữ [<sprite=\"ctrl_middle_click\" index=t>] và move mouse đến rotate và tilt camera.\\n\\n<style=Desc>TIP: Bạn có thể customise camera controls trong tùy chọn menu.</style>\\n"
+    "vi": "- Dùng các phím [<style=Shortcut><input:MoveUp><input:MoveLeft><input:MoveDown><input:MoveRight></style>] để di chuyển camera xung quanh.\\n- Dùng con lăn chuột hoặc [<style=Shortcut><input:ZoomIn></style>] & [<style=Shortcut><input:ZoomOut></style>] để phóng to/thu nhỏ.\\n- Giữ [<sprite=\"ctrl_middle_click\" index=t>] và di chuột để xoay và nghiêng camera.\\n\\n<style=Desc>MẸO: Bạn có thể tùy chỉnh phím điều khiển camera trong menu cài đặt.</style>\\n"
   },
   {
     "key": "gameplay_tips_equipment",
@@ -585,13 +585,13 @@
     "key": "gameplay_tips_game_speed",
     "type": 0,
     "en": "Game Speed",
-    "vi": "Game Tốc độ"
+    "vi": "Tốc độ trò chơi"
   },
   {
     "key": "gameplay_tips_game_speed_info",
     "type": 0,
     "en": "- You can speed up, slow down, or pause time.\\n- Click on the speed keys or use [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] to change the game speed.\\n- Click the pause icon or press [<style=Shortcut><input:GamePause></style>] to pause the game.\\n- You can give orders, place buildings, and draft settlers while the game is paused.\\n\\n<style=Desc>TIP: This is especially useful if things get hectic.</style>\\n",
-    "vi": "- Bạn có thể tăng tốc, làm chậm hoặc tạm dừng thời gian.\\n- Nhấn vào các biểu tượng tốc độ hoặc dùng [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] để đổi tốc độ.\\n- Nhấn tạm dừng hoặc phím [<style=Shortcut><input:GamePause></style>] để dừng trận đấu.\\n- Bạn vẫn có thể ra lệnh, đặt công trình và huy động quân khi đang tạm dừng.\\n\\n<style=Desc>MẸO: Rất hữu ích khi tình huống trở nên dồn dập.</style>\\n"
+    "vi": "- Bạn có thể tăng tốc, làm chậm hoặc tạm dừng thời gian.\\n- Nhấn vào các biểu tượng tốc độ hoặc dùng [<style=Shortcut><input:GameSpeedNormal></style>], [<style=Shortcut><input:GameSpeedFast></style>], [<style=Shortcut><input:GameSpeedFaster></style>] để đổi tốc độ trò chơi.\\n- Nhấn biểu tượng tạm dừng hoặc phím [<style=Shortcut><input:GamePause></style>] để tạm dừng trò chơi.\\n- Bạn vẫn có thể ra lệnh, đặt công trình và huy động quân khi đang tạm dừng.\\n\\n<style=Desc>MẸO: Rất hữu ích khi tình huống trở nên dồn dập.</style>\\n"
   },
   {
     "key": "gameplay_tips_jobs",
@@ -621,7 +621,7 @@
     "key": "gameplay_tips_move",
     "type": 0,
     "en": "Controlling Drafted Settlers",
-    "vi": "Controlling Drafted dân làng"
+    "vi": "Điều khiển Dân làng Đã huy động"
   },
   {
     "key": "gameplay_tips_move_info",
@@ -729,7 +729,7 @@
     "key": "gameplay_tips_forbid",
     "type": 0,
     "en": "Forbid & Allow",
-    "vi": "Cấm & cho phép"
+    "vi": "Cấm & Cho phép"
   },
   {
     "key": "gameplay_tips_forbid_info",
@@ -747,7 +747,7 @@
     "key": "gameplay_tips_trading",
     "type": 0,
     "en": "Bartering",
-    "vi": "Trao đổi"
+    "vi": "Trao đổi hàng hóa"
   },
   {
     "key": "gameplay_tips_initiate_trading",
@@ -801,7 +801,7 @@
     "key": "gameplay_tips_move_structures",
     "type": 0,
     "en": "Relocate Furniture",
-    "vi": "Di chuyển nội thất"
+    "vi": "Di dời nội thất"
   },
   {
     "key": "gameplay_tips_move_structures_info",
@@ -825,7 +825,7 @@
     "key": "gameplay_tips_mesh_variations",
     "type": 0,
     "en": "Structure Visual Variations",
-    "vi": "Biến thể hình ảnh công trình"
+    "vi": "Biến thể ngoại hình công trình"
   },
   {
     "key": "gameplay_tips_mesh_variations_info",
@@ -879,7 +879,7 @@
     "key": "tut_start_info",
     "type": 0,
     "en": "This tutorial will guide you through the basic concepts of Going Medieval. \\n\\nSome advanced features will remain locked during this tutorial.",
-    "vi": "Hướng dẫn này sẽ giới thiệu những khái niệm cơ bản của Going Medieval. \\n\\nMột số tính năng nâng cao sẽ vẫn bị khóa trong hướng dẫn này."
+    "vi": "Bài hướng dẫn này sẽ giúp bạn nắm bắt những khái niệm cơ bản của Going Medieval. \\n\\nMột số tính năng nâng cao sẽ vẫn bị khóa trong bài hướng dẫn này."
   },
   {
     "key": "tut_camera_title",
@@ -891,7 +891,7 @@
     "key": "tut_camera_info",
     "type": 0,
     "en": "Move, tilt, rotate and zoom camera.",
-    "vi": "Di chuyển, nghiêng, xoay và thu phóng camera."
+    "vi": "Di chuyển, nghiêng, xoay và phóng to/thu nhỏ camera."
   },
   {
     "key": "tut_move_camera",

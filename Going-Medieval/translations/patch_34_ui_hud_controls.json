@@ -117,7 +117,7 @@
     "key": "hud_info_order_cleaning",
     "type": 0,
     "en": "PH Description",
-    "vi": "Mô tả dọn dẹp vệ sinh"
+    "vi": "Chỉ định dọn dẹp."
   },
   {
     "key": "hud_info_order_clearall",
@@ -327,7 +327,7 @@
     "key": "hud_lb_order_cutting",
     "type": 0,
     "en": "Cut",
-    "vi": "Chặt cây"
+    "vi": "Cắt tỉa"
   },
   {
     "key": "hud_lb_order_digging",
@@ -501,13 +501,13 @@
     "key": "hud_info_order_fishing",
     "type": 0,
     "en": "Mark schools of fish for settlers to catch",
-    "vi": "Đánh dấu đàn cá để dân làng câu cá"
+    "vi": "Đánh dấu đàn cá để dân làng đánh bắt"
   },
   {
     "key": "hud_lb_order_fishing",
     "type": 0,
     "en": "Fish",
-    "vi": "Câu cá"
+    "vi": "Đánh bắt cá"
   },
   {
     "key": "hud_lb_order_off_shackless",
@@ -555,6 +555,6 @@
     "key": "hud_lb_targeted_by",
     "type": 0,
     "en": "Targeted by",
-    "vi": "Đang bị nhắm đánh bởi"
+    "vi": "Bị nhắm mục tiêu bởi"
   }
 ]

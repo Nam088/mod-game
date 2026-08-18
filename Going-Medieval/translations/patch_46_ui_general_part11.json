@@ -231,7 +231,7 @@
     "key": "game_mode_survival_info",
     "type": 0,
     "en": "Enemy raids happen frequently in this mode, and their difficulty increases over time.",
-    "vi": "Trải nghiệm Going Medieval theo cách tiêu chuẩn. Bạn sẽ phải đối mặt với các đợt tấn công ngày càng hung hãn của thổ phỉ và thời tiết khắc nghiệt."
+    "vi": "Các đợt đột kích của kẻ thù diễn ra liên tục với tần suất cao trong chế độ này, và độ khó sẽ gia tăng dần theo thời gian."
   },
   {
     "key": "game_mode_survival_narrative_1",
@@ -279,7 +279,7 @@
     "key": "map_type_valley_info",
     "type": 0,
     "en": "Plentiful vegetation, fertile soil and clay. Moderate amount of limestone. Lesser amounts of iron and salt.",
-    "vi": "Plentiful vegetation, fertile soil và đất sét. Moderate amount của đá vôi. Lesser amounts của sắt và salt."
+    "vi": "Thảm thực vật phong phú, đất đai màu mỡ và nhiều đất sét. Lượng đá vôi ở mức vừa phải. Ít quặng sắt và muối."
   },
   {
     "key": "map_type_valley_narrative",
@@ -303,7 +303,7 @@
     "key": "map_type_mountain_info",
     "type": 0,
     "en": "Plentiful limestone, gold, iron and silver. Lesser amounts of fertile soil, clay and vegetation.",
-    "vi": "Plentiful đá vôi, vàng, sắt và bạc. Lesser amounts của fertile soil, đất sét và vegetation."
+    "vi": "Trữ lượng đá vôi, vàng, sắt và bạc dồi dào. Lượng đất màu mỡ, đất sét và thảm thực vật tương đối ít."
   },
   {
     "key": "map_type_mountain_narrative",
@@ -327,7 +327,7 @@
     "key": "map_type_hill_info",
     "type": 0,
     "en": "Uneven terrain, suitable for a good defensive position. A fair amount of limestone and clay. A moderate amount of fertile soil and vegetation.",
-    "vi": "Uneven terrain, suitable cho a good defensive position. A fair amount của đá vôi và đất sét. A moderate amount của fertile soil và vegetation."
+    "vi": "Địa hình mấp mô hiểm trở, rất thích hợp để thiết lập cứ điểm phòng thủ vững chắc. Lượng đá vôi và đất sét khá nhiều. Đất màu mỡ và thảm thực vật ở mức trung bình."
   },
   {
     "key": "map_type_hill_narrative",
@@ -393,7 +393,7 @@
     "key": "autumn_description_1",
     "type": 0,
     "en": "During the mild autumn",
-    "vi": "During mild Mùa Thu"
+    "vi": "Trong tiết trời thu dịu mát"
   },
   {
     "key": "autumn_description_2",
@@ -405,13 +405,13 @@
     "key": "autumn_description_3",
     "type": 0,
     "en": "At the end of harvest season",
-    "vi": "At end của harvest Mùa"
+    "vi": "Vào cuối mùa gặt hái"
   },
   {
     "key": "autumn_description_4",
     "type": 0,
     "en": "At the autumn equinox",
-    "vi": "At Mùa Thu equinox"
+    "vi": "Vào tiết Thu phân"
   },
   {
     "key": "winter_description_1",
@@ -423,13 +423,13 @@
     "key": "winter_description_2",
     "type": 0,
     "en": "At Yuletide",
-    "vi": "Vào lễ hội mùa đông (Yuletide)"
+    "vi": "Vào mùa lễ hội Yuletide"
   },
   {
     "key": "winter_description_3",
     "type": 0,
     "en": "At the bitterly-cold end",
-    "vi": "At bitterly-Lạnh end"
+    "vi": "Vào những ngày đông giá rét thấu xương"
   },
   {
     "key": "winter_description_4",

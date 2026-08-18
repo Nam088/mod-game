@@ -3,7 +3,7 @@
     "key": "status_rival_stop",
     "type": 0,
     "en": "<agent_name> has calmed down and no longer sees <target_name> as a rival.",
-    "vi": "<agent_name> đã nguôi giận và không còn xem <target_name> là kẻ thù không đội trời chung nữa."
+    "vi": "<agent_name> đã nguôi giận và không còn xem <target_name> là kình địch nữa."
   },
   {
     "key": "status_change_reason",
@@ -15,7 +15,7 @@
     "key": "status_belief_change",
     "type": 0,
     "en": "<agent_name> has converted to <belief_status>. <previous_belief_status> no longer felt meaningful enough.",
-    "vi": "<agent_name> đã cải đạo sang <belief_status>. Giáo phái <previous_belief_status> trước đây không còn mang lại ý nghĩa tâm linh sâu sắc nữa."
+    "vi": "<agent_name> đã cải đạo sang <belief_status>. Tín ngưỡng <previous_belief_status> trước đây không còn mang lại ý nghĩa tâm linh sâu sắc nữa."
   },
   {
     "key": "bbt_has_become_item",
@@ -33,13 +33,13 @@
     "key": "miss_description_default_2",
     "type": 0,
     "en": "<defender_name> heard <attacker_name> curse as the blow did not connect",
-    "vi": "<defender_name> nghe thấy tiếng <attacker_name> chửi thề cay cú khi nhát chém chém hụt vào không khí."
+    "vi": "<defender_name> nghe thấy tiếng <attacker_name> chửi thề cay cú khi đòn đánh chém hụt vào không khí."
   },
   {
     "key": "miss_description_default_3",
     "type": 0,
     "en": "<defender_name> was thankful that <attacker_name> was wide of the mark",
-    "vi": "<defender_name> thầm tạ ơn trời đất vì nhát kiếm của <attacker_name> đã chém chệch hướng trong gang tấc."
+    "vi": "<defender_name> thầm tạ ơn trời đất vì đòn đánh của <attacker_name> đã chém chệch hướng trong gang tấc."
   },
   {
     "key": "miss_description_default_4",
@@ -57,7 +57,7 @@
     "key": "miss_description_default_6",
     "type": 0,
     "en": "<attacker_name>'s blow glanced off, and <defender_name> was unharmed.",
-    "vi": "Nhát chém của <attacker_name> chỉ sượt qua sườn, và <defender_name> hoàn toàn không hề hấn gì."
+    "vi": "Nhát chém của <attacker_name> chỉ sượt qua ngoài, và <defender_name> hoàn toàn không hề hấn gì."
   },
   {
     "key": "miss_description_default_7",
@@ -69,13 +69,13 @@
     "key": "miss_description_default_8",
     "type": 0,
     "en": "<defender_name> berated <attacker_name>, mocking their terrible aim",
-    "vi": "<defender_name> mắng nhiếc <attacker_name>, chế nhạo tài ngắm bắn dở tệ của đối phương."
+    "vi": "<defender_name> mắng nhiếc <attacker_name>, chế nhạo tài ngắm đòn dở tệ của đối phương."
   },
   {
     "key": "miss_description_default_9",
     "type": 0,
     "en": "<attacker_name> went astray, narrowly missing <defender_name>",
-    "vi": "Mũi tên của <attacker_name> bay chệch hướng, suýt nữa bắn trúng <defender_name>."
+    "vi": "Đòn đánh của <attacker_name> bay chệch hướng, suýt nữa trúng vào <defender_name>."
   },
   {
     "key": "miss_description_default_10",
@@ -87,67 +87,67 @@
     "key": "evade_description_default_1",
     "type": 0,
     "en": "<defender_name> evaded <attacker_name> by leaping aside",
-    "vi": "<defender_name> nhanh chân nhảy lùi sang bên để né đòn của <attacker_name>."
+    "vi": "<defender_name> nhanh chân nhảy né sang bên để tránh đòn của <attacker_name>."
   },
   {
     "key": "evade_description_default_2",
     "type": 0,
     "en": "It was down to <defender_name>'s hasty retreat that <attacker_name> was thwarted",
-    "vi": "Chính nhờ pha lùi bước kịp thời của <defender_name> mà âm mưu tấn công của <attacker_name> đã bị chặn đứng."
+    "vi": "Chính nhờ pha thoái lui kịp thời của <defender_name> mà âm mưu tấn công của <attacker_name> đã bị chặn đứng."
   },
   {
     "key": "evade_description_default_3",
     "type": 0,
     "en": "<defender_name> deftly gave <attacker_name> the slip, and survived",
-    "vi": "<defender_name> khéo léo thoát khỏi <attacker_name> và sống sót."
+    "vi": "<defender_name> khéo léo lách mình thoát khỏi <attacker_name> và sống sót an toàn."
   },
   {
     "key": "evade_description_default_4",
     "type": 0,
     "en": "<defender_name> avoided <attacker_name>'s assault by ducking",
-    "vi": "<defender_name> cúi người né đòn tấn công của <attacker_name>."
+    "vi": "<defender_name> cúi rạp người né tránh đòn công kích của <attacker_name>."
   },
   {
     "key": "evade_description_default_5",
     "type": 0,
     "en": "<defender_name> tripped over, and <attacker_name>'s blow failed to land",
-    "vi": "<defender_name> vấp ngã, khiến đòn của <attacker_name> không trúng đích."
+    "vi": "<defender_name> vấp ngã chúi người khiến đòn đánh của <attacker_name> chém vào không khí."
   },
   {
     "key": "evade_description_default_6",
     "type": 0,
     "en": "<defender_name> was amazed to be unscathed. <attacker_name> couldn't understand it either.",
-    "vi": "<defender_name> kinh ngạc vì mình không bị thương. <attacker_name> cũng chẳng hiểu chuyện gì."
+    "vi": "<defender_name> kinh ngạc vì mình bình an vô sự. <attacker_name> cũng chẳng hiểu chuyện gì vừa xảy ra."
   },
   {
     "key": "evade_description_default_7",
     "type": 0,
     "en": "More by accident than design, <defender_name> sent <attacker_name> flying.",
-    "vi": "Vô tình nhiều hơn cố ý, <defender_name> khiến <attacker_name> bay đi."
+    "vi": "Do ngẫu nhiên hơn là có chủ ý, <defender_name> đã khiến <attacker_name> mất đà ngã nhào."
   },
   {
     "key": "evade_description_default_8",
     "type": 0,
     "en": "<defender_name> dodged aside and was spared",
-    "vi": "<defender_name> né sang bên và thoát nạn."
+    "vi": "<defender_name> lách mình né sang bên và may mắn thoát nạn."
   },
   {
     "key": "evade_description_default_9",
     "type": 0,
     "en": "<defender_name> parried <attacker_name>'s attack with a flourish",
-    "vi": "<defender_name> parried <attacker_name>'s attack với a flourish"
+    "vi": "<defender_name> đỡ gạt đòn tấn công của <attacker_name> một cách điệu nghệ."
   },
   {
     "key": "evade_description_default_10",
     "type": 0,
     "en": "<defender_name> rapidly got out of <attacker_name>'s sightline",
-    "vi": "<defender_name> nhanh chóng ra khỏi tầm mắt của <attacker_name>."
+    "vi": "<defender_name> nhanh chóng di chuyển thoát khỏi tầm mắt của <attacker_name>."
   },
   {
     "key": "last_words_pattern",
     "type": 0,
     "en": "<agent_name>'s last words were: \"<last_words>\"",
-    "vi": "<agent_name>'s cuối cùng words đã: \"<last_words>\""
+    "vi": "Lời trăng trối cuối cùng của <agent_name> là: \"<last_words>\""
   },
   {
     "key": "Pattern Elements",
@@ -165,139 +165,139 @@
     "key": "topic_smalltalk_2",
     "type": 0,
     "en": "dog training",
-    "vi": "huấn luyện chó"
+    "vi": "kỹ năng huấn luyện chó săn"
   },
   {
     "key": "topic_smalltalk_3",
     "type": 0,
     "en": "owning cats",
-    "vi": "owning mèo"
+    "vi": "chuyện nuôi mèo bắt chuột"
   },
   {
     "key": "topic_smalltalk_4",
     "type": 0,
     "en": "cattle",
-    "vi": "bàn về cattle"
+    "vi": "chuyện đàn gia súc"
   },
   {
     "key": "topic_smalltalk_5",
     "type": 0,
     "en": "the cooking rota",
-    "vi": "Nấu nướng rota"
+    "vi": "lịch phân công nấu nướng"
   },
   {
     "key": "topic_smalltalk_6",
     "type": 0,
     "en": "food storage",
-    "vi": "food kho chứa"
+    "vi": "việc bảo quản lương thực"
   },
   {
     "key": "topic_smalltalk_7",
     "type": 0,
     "en": "trees",
-    "vi": "cây cối"
+    "vi": "các loài cây rừng"
   },
   {
     "key": "topic_smalltalk_8",
     "type": 0,
     "en": "wild flowers",
-    "vi": "bàn về wild flowers"
+    "vi": "những đóa hoa dại ngoài đồng"
   },
   {
     "key": "topic_smalltalk_9",
     "type": 0,
     "en": "the habits of birds",
-    "vi": "habits của birds"
+    "vi": "tập tính của các loài chim"
   },
   {
     "key": "topic_smalltalk_10",
     "type": 0,
     "en": "the merits of turnips",
-    "vi": "merits của turnips"
+    "vi": "công dụng của củ cải"
   },
   {
     "key": "topic_smalltalk_11",
     "type": 0,
     "en": "art and artists",
-    "vi": "art và artists"
+    "vi": "hội họa và các nghệ sĩ"
   },
   {
     "key": "topic_smalltalk_12",
     "type": 0,
     "en": "jousting",
-    "vi": "bàn về jousting"
+    "vi": "hội đấu thương trên lưng ngựa"
   },
   {
     "key": "topic_smalltalk_13",
     "type": 0,
     "en": "sword fighting",
-    "vi": "kiếm fighting"
+    "vi": "kỹ thuật đấu kiếm"
   },
   {
     "key": "topic_smalltalk_14",
     "type": 0,
     "en": "archery techniques",
-    "vi": "bàn về archery techniques"
+    "vi": "nghệ thuật bắn cung"
   },
   {
     "key": "topic_smalltalk_15",
     "type": 0,
     "en": "what was for supper",
-    "vi": "what đã cho supper"
+    "vi": "món ăn cho bữa tối"
   },
   {
     "key": "topic_smalltalk_16",
     "type": 0,
     "en": "planting herbs",
-    "vi": "planting thảo dược"
+    "vi": "việc ươm trồng thảo dược"
   },
   {
     "key": "topic_smalltalk_17",
     "type": 0,
     "en": "the strange smell",
-    "vi": "bàn về strange smell"
+    "vi": "mùi hôi kỳ lạ thoang thoảng"
   },
   {
     "key": "topic_smalltalk_18",
     "type": 0,
     "en": "windmills",
-    "vi": "bàn về windmills"
+    "vi": "cấu trúc cối xay gió"
   },
   {
     "key": "topic_smalltalk_19",
     "type": 0,
     "en": "rats in the store again",
-    "vi": "rats trong store again"
+    "vi": "chuột bọ lại mò vào kho"
   },
   {
     "key": "topic_smalltalk_20",
     "type": 0,
     "en": "feast days",
-    "vi": "bàn về feast days"
+    "vi": "những ngày hội hè yến tiệc"
   },
   {
     "key": "topic_smalltalk_21",
     "type": 0,
     "en": "pilgrimages",
-    "vi": "bàn về pilgrimages"
+    "vi": "những chuyến hành hương"
   },
   {
     "key": "topic_smalltalk_22",
     "type": 0,
     "en": "Saint Fiacre’s curse",
-    "vi": "bàn về Saint Fiacre’s curse"
+    "vi": "lời nguyền của Thánh Fiacre"
   },
   {
     "key": "topic_smalltalk_23",
     "type": 0,
     "en": "fleas and ticks",
-    "vi": "fleas và ticks"
+    "vi": "nạn bọ chét và ve rận"
   },
   {
     "key": "topic_smalltalk_24",
     "type": 0,
     "en": "catching rabbits",
-    "vi": "bàn về catching rabbits"
+    "vi": "mẹo đặt bẫy thỏ rừng"
   },
   {
     "key": "topic_smalltalk_25",
@@ -309,13 +309,13 @@
     "key": "topic_smalltalk_26",
     "type": 0,
     "en": "haymaking",
-    "vi": "việc phơi cỏ khô"
+    "vi": "việc cắt và phơi cỏ khô"
   },
   {
     "key": "topic_smalltalk_27",
     "type": 0,
     "en": "good dye plants",
-    "vi": "cây làm phẩm nhuộm tốt"
+    "vi": "cây dùng nhuộm màu vải"
   },
   {
     "key": "topic_smalltalk_28",
@@ -327,19 +327,19 @@
     "key": "topic_smalltalk_29",
     "type": 0,
     "en": "broken fences",
-    "vi": "những hàng rào gỗ bị gãy đổ"
+    "vi": "những hàng rào gỗ bị xiêu vẹo"
   },
   {
     "key": "topic_smalltalk_30",
     "type": 0,
     "en": "lumpy beds",
-    "vi": "những chiếc giường gồ ghề"
+    "vi": "những chiếc giường rơm gồ ghề"
   },
   {
     "key": "topic_smalltalk_31",
     "type": 0,
     "en": "achey joints",
-    "vi": "đau nhức xương khớp mùa lạnh"
+    "vi": "đau nhức khớp mùa lạnh"
   },
   {
     "key": "topic_smalltalk_32",
@@ -363,7 +363,7 @@
     "key": "topic_smalltalk_35",
     "type": 0,
     "en": "Shrovetide football",
-    "vi": "trò chơi bóng đá Shrovetide náo nhiệt"
+    "vi": "trò chơi bóng Shrovetide náo nhiệt"
   },
   {
     "key": "topic_smalltalk_36",
@@ -387,19 +387,19 @@
     "key": "topic_personal_3",
     "type": 0,
     "en": "bravery - or the lack of it - ",
-    "vi": "lòng dũng cảm — hay sự hèn nhát —"
+    "vi": "lòng quả cảm — hay sự hèn nhát —"
   },
   {
     "key": "topic_personal_4",
     "type": 0,
     "en": "who was more intelligent",
-    "vi": "xem ai là người thông minh uyên bác hơn"
+    "vi": "xem ai là người thông minh cơ trí hơn"
   },
   {
     "key": "topic_personal_5",
     "type": 0,
     "en": "friendship",
-    "vi": "tình bạn chân thành"
+    "vi": "tình bạn hữu chân thành"
   },
   {
     "key": "topic_personal_6",
@@ -411,7 +411,7 @@
     "key": "topic_personal_7",
     "type": 0,
     "en": "charitable actions",
-    "vi": "những nghĩa cử từ thiện bố thí"
+    "vi": "những nghĩa cử từ thiện cứu tế"
   },
   {
     "key": "topic_personal_8",
@@ -447,7 +447,7 @@
     "key": "topic_personal_13",
     "type": 0,
     "en": "some hurtful gossip",
-    "vi": "những lời đồn thổi ác ý sau lưng"
+    "vi": "những lời đồn thổi cay độc sau lưng"
   },
   {
     "key": "topic_personal_14",
@@ -663,7 +663,7 @@
     "key": "topic_beliefrestitution_4",
     "type": 0,
     "en": "Thomas Aquinas",
-    "vi": "thánh Thomas Aquinas"
+    "vi": "Thánh Thomas Aquinas"
   },
   {
     "key": "topic_beliefrestitution_5",
@@ -705,7 +705,7 @@
     "key": "topic_beliefrestitution_11",
     "type": 0,
     "en": "the sin of bigamy ",
-    "vi": "tội lỗi của hành vi đa thê song hôn"
+    "vi": "tội lỗi song hôn"
   },
   {
     "key": "topic_belief_1",
@@ -747,7 +747,7 @@
     "key": "topic_belief_7",
     "type": 0,
     "en": "witchcraft and healing",
-    "vi": "thuật phù thủy và thuật chữa lành"
+    "vi": "thuật phù thủy và thuật chữa lành thảo dược"
   },
   {
     "key": "topic_belief_8",
@@ -783,7 +783,7 @@
     "key": "topic_belief_13",
     "type": 0,
     "en": "pagans inventing new rituals",
-    "vi": "việc các tín đồ Pagan tự sáng tạo ra các nghi lễ mới"
+    "vi": "việc các tín đồ ngoại đạo tự sáng tạo ra các nghi lễ mới"
   },
   {
     "key": "reaction_verb_default_1",
@@ -795,25 +795,25 @@
     "key": "reaction_verb_default_2",
     "type": 0,
     "en": "appeared",
-    "vi": "có vẻ"
+    "vi": "có vẻ như"
   },
   {
     "key": "reaction_verb_default_3",
     "type": 0,
     "en": "sounded",
-    "vi": "nghe như"
+    "vi": "nghe giọng như"
   },
   {
     "key": "reaction_verb_default_4",
     "type": 0,
     "en": "looked",
-    "vi": "trông như"
+    "vi": "trông vẻ như"
   },
   {
     "key": "reaction_verb_default_5",
     "type": 0,
     "en": "was unusually",
-    "vi": "bỗng trở nên bất thường"
+    "vi": "bỗng trở nên bất thường và"
   },
   {
     "key": "reaction_verb_default_6",
@@ -837,7 +837,7 @@
     "key": "reaction_verynegative_3",
     "type": 0,
     "en": "disturbed",
-    "vi": "cực kỳ khó chịu"
+    "vi": "cực kỳ hoang mang khó chịu"
   },
   {
     "key": "reaction_verynegative_4",

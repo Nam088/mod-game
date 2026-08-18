@@ -153,145 +153,145 @@
     "key": "beirdd_cymraeg_basic_easy",
     "type": 0,
     "en": "Marauder",
-    "vi": "Kẻ cướp"
+    "vi": "Kẻ Cướp Xứ Wales"
   },
   {
     "key": "beirdd_cymraeg_basic_medium",
     "type": 0,
     "en": "Fierce Marauder",
-    "vi": "Fierce Kẻ cướp"
+    "vi": "Kẻ Cướp Xứ Wales Hung Hãn"
   },
   {
     "key": "beirdd_cymraeg_basic_hard",
     "type": 0,
     "en": "Ruthless Marauder",
-    "vi": "Ruthless Kẻ cướp"
+    "vi": "Kẻ Cướp Xứ Wales Tàn Bạo"
   },
   {
     "key": "beirdd_cymraeg_archer_easy",
     "type": 0,
     "en": "Archer",
-    "vi": "Cung thủ"
+    "vi": "Cung Thủ Xứ Wales"
   },
   {
     "key": "beirdd_cymraeg_archer_medium",
     "type": 0,
     "en": "Adept Archer",
-    "vi": "Xạ thủ thiện chiến"
+    "vi": "Cung Thủ Xứ Wales Thiện Chiến"
   },
   {
     "key": "beirdd_cymraeg_archer_hard",
     "type": 0,
     "en": "Master Archer",
-    "vi": "Master Xạ thủ cung tên"
+    "vi": "Đại Cung Thủ Xứ Wales Bậc Thầy"
   },
   {
     "key": "beirdd_cymraeg_heavy_easy",
     "type": 0,
     "en": "Thug",
-    "vi": "Côn đồ"
+    "vi": "Côn Đồ Xứ Wales"
   },
   {
     "key": "beirdd_cymraeg_heavy_medium",
     "type": 0,
     "en": "Brutal Thug",
-    "vi": "Hung hãn Côn đồ"
+    "vi": "Côn Đồ Xứ Wales Hung Tợn"
   },
   {
     "key": "beirdd_cymraeg_heavy_hard",
     "type": 0,
     "en": "Murderous Thug",
-    "vi": "Khát máu Côn đồ"
+    "vi": "Côn Đồ Xứ Wales Khát Máu"
   },
   {
     "key": "beirdd_cymraeg_basic_very_hard",
     "type": 0,
     "en": "Barbaric Marauder",
-    "vi": "Barbaric Kẻ cướp"
+    "vi": "Kẻ Cướp Xứ Wales Man Rợ"
   },
   {
     "key": "beirdd_cymraeg_archer_very_hard",
     "type": 0,
     "en": "Illustrious Archer",
-    "vi": "Illustrious Xạ thủ cung tên"
+    "vi": "Cung Thủ Xứ Wales Xuất Chúng"
   },
   {
     "key": "beirdd_cymraeg_heavy_very_hard",
     "type": 0,
     "en": "Monstrous Thug",
-    "vi": "Monstrous Côn đồ"
+    "vi": "Côn Đồ Xứ Wales Quỷ Dữ"
   },
   {
     "key": "ravagers_basic_easy",
     "type": 0,
     "en": "Marauder",
-    "vi": "Kẻ cướp"
+    "vi": "Kẻ Cướp Tàn Phá"
   },
   {
     "key": "ravagers_basic_medium",
     "type": 0,
     "en": "Fierce Marauder",
-    "vi": "Fierce Kẻ cướp"
+    "vi": "Kẻ Cướp Tàn Phá Hung Hãn"
   },
   {
     "key": "ravagers_basic_hard",
     "type": 0,
     "en": "Ruthless Marauder",
-    "vi": "Ruthless Kẻ cướp"
+    "vi": "Kẻ Cướp Tàn Phá Tàn Bạo"
   },
   {
     "key": "ravagers_archer_easy",
     "type": 0,
     "en": "Archer",
-    "vi": "Cung thủ"
+    "vi": "Cung Thủ Phe Tàn Phá"
   },
   {
     "key": "ravagers_archer_medium",
     "type": 0,
     "en": "Adept Archer",
-    "vi": "Xạ thủ thiện chiến"
+    "vi": "Cung Thủ Tàn Phá Thiện Chiến"
   },
   {
     "key": "ravagers_archer_hard",
     "type": 0,
     "en": "Master Archer",
-    "vi": "Master Xạ thủ cung tên"
+    "vi": "Đại Cung Thủ Tàn Phá Bậc Thầy"
   },
   {
     "key": "ravagers_heavy_easy",
     "type": 0,
     "en": "Thug",
-    "vi": "Côn đồ"
+    "vi": "Côn Đồ Phe Tàn Phá"
   },
   {
     "key": "ravagers_heavy_medium",
     "type": 0,
     "en": "Brutal Thug",
-    "vi": "Hung hãn Côn đồ"
+    "vi": "Côn Đồ Tàn Phá Hung Tợn"
   },
   {
     "key": "ravagers_heavy_hard",
     "type": 0,
     "en": "Murderous Thug",
-    "vi": "Khát máu Côn đồ"
+    "vi": "Côn Đồ Tàn Phá Khát Máu"
   },
   {
     "key": "ravagers_basic_very_hard",
     "type": 0,
     "en": "Barbaric Marauder",
-    "vi": "Barbaric Kẻ cướp"
+    "vi": "Kẻ Cướp Tàn Phá Man Rợ"
   },
   {
     "key": "ravagers_archer_very_hard",
     "type": 0,
     "en": "Illustrious Archer",
-    "vi": "Illustrious Xạ thủ cung tên"
+    "vi": "Cung Thủ Tàn Phá Xuất Chúng"
   },
   {
     "key": "ravagers_heavy_very_hard",
     "type": 0,
     "en": "Monstrous Thug",
-    "vi": "Monstrous Côn đồ"
+    "vi": "Côn Đồ Tàn Phá Quỷ Dữ"
   },
   {
     "key": "mountain_bandits_basic_easy",
@@ -399,7 +399,7 @@
     "key": "river_bandits_archer_hard",
     "type": 0,
     "en": "Master Archer",
-    "vi": "Đại Cung Thủ Bậc Thầy"
+    "vi": "Đại Cung Thủ Sông Nước"
   },
   {
     "key": "river_bandits_heavy_easy",
@@ -519,7 +519,7 @@
     "key": "autosave_often",
     "type": 0,
     "en": "Every day",
-    "vi": "Mỗi Ngày (Hằng Ngày)"
+    "vi": "Mỗi Ngày"
   },
   {
     "key": "autosave_rarely",
@@ -585,7 +585,7 @@
     "key": "made_by",
     "type": 0,
     "en": "Made by:",
-    "vi": "Tác giả sáng tạo:"
+    "vi": "Tác Giả:"
   },
   {
     "key": "heraldry_background",
@@ -669,13 +669,13 @@
     "key": "difficulty_builder",
     "type": 0,
     "en": "Builder",
-    "vi": "Chế Độ Kiến Thiết / Xây Dựng (Hòa Bình)"
+    "vi": "Kiến Thiết (Hòa Bình)"
   },
   {
     "key": "difficulty_standard",
     "type": 0,
     "en": "Standard",
-    "vi": "Tiêu Chuẩn Chuẩn Mực"
+    "vi": "Tiêu Chuẩn"
   },
   {
     "key": "general_change_keybinding",
@@ -723,7 +723,7 @@
     "key": "map_type_desert",
     "type": 0,
     "en": "Desert",
-    "vi": "Vùng Sa Mạc Cằn Cỗi"
+    "vi": "Sa Mạc Cằn Cỗi"
   },
   {
     "key": "map_type_dev",
@@ -735,19 +735,19 @@
     "key": "map_type_new_home",
     "type": 0,
     "en": "A New Home",
-    "vi": "Vùng Đất Mới (Tái Thiết)"
+    "vi": "Vùng Đất Mới"
   },
   {
     "key": "most_passionate",
     "type": 0,
     "en": "Most passionate about",
-    "vi": "Đam Mê Cháy Bỏng Nhất Về"
+    "vi": "Đam Mê Nhất Về"
   },
   {
     "key": "general_embark",
     "type": 0,
     "en": "Embark",
-    "vi": "Bắt Đầu Khởi Hành Định Cư"
+    "vi": "Khởi Hành Định Cư"
   },
   {
     "key": "general_refresh",

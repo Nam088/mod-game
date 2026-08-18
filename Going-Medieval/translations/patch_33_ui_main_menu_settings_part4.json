@@ -3,42 +3,42 @@
     "key": "menu_language_community",
     "type": 0,
     "en": "Other Translations",
-    "vi": "Bản Dịch Cộng Đồng Khác"
+    "vi": "Bản dịch cộng đồng khác"
   },
   {
     "key": "menu_modbrowser",
     "type": 0,
     "en": "Mods",
-    "vi": "Quản Lý Bản Mod"
+    "vi": "Quản lý bản mod"
   },
   {
     "key": "menu_autoplay",
     "type": 0,
     "en": "Automatic Tests",
-    "vi": "Kiểm Tra Tự Động"
+    "vi": "Kiểm tra tự động"
   },
   {
     "key": "menu_Fermentation",
     "type": 0,
     "en": "Fermantation",
-    "vi": "Quá Trình Lên Men"
+    "vi": "Quá trình lên men"
   },
   {
     "key": "menu_SunLight",
     "type": 0,
     "en": "Accumulated sunlight",
-    "vi": "Lượng Ánh Nắng Tích Lũy"
+    "vi": "Lượng ánh nắng tích lũy"
   },
   {
     "key": "menu_Dryness",
     "type": 0,
     "en": "Dryness",
-    "vi": "Độ Khô Ráo"
+    "vi": "Độ khô ráo"
   },
   {
     "key": "menu_Breath",
     "type": 0,
     "en": "Breath",
-    "vi": "Hơi Thở Sinh Tồn"
+    "vi": "Hơi thở"
   }
 ]

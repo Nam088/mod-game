@@ -3,25 +3,25 @@
     "key": "pain_treshold_02",
     "type": 0,
     "en": "Worrying pain spike (Damage to consciousness)",
-    "vi": "Worrying Cơn đau spike (Damage để Ý thức)"
+    "vi": "Cơn đau nhói đáng lo (Ảnh hưởng đến ý thức)"
   },
   {
     "key": "pain_treshold_03",
     "type": 0,
     "en": "Serious pain spike (Damage to consciousness)",
-    "vi": "Serious Cơn đau spike (Damage để Ý thức)"
+    "vi": "Cơn đau nhói nghiêm trọng (Ảnh hưởng đến ý thức)"
   },
   {
     "key": "pain_treshold_04",
     "type": 0,
     "en": "Alarming pain spike (Damage to consciousness)",
-    "vi": "Alarming Cơn đau spike (Damage để Ý thức)"
+    "vi": "Cơn đau nhói báo động (Ảnh hưởng đến ý thức)"
   },
   {
     "key": "pain_treshold_05",
     "type": 0,
     "en": "Excruciating pain spike (Damage to consciousness)",
-    "vi": "Excruciating Cơn đau spike (Damage để Ý thức)"
+    "vi": "Cơn đau nhói dữ dội (Ảnh hưởng đến ý thức)"
   },
   {
     "key": "sleep_treshold_00",
@@ -237,7 +237,7 @@
     "key": "can_not_draft_fist_fight_hour",
     "type": 0,
     "en": "A brawling settler cannot be drafted.",
-    "vi": "Không thể động viên một dân làng đang ẩu đả đánh nhau."
+    "vi": "Không thể huy động một dân làng đang ẩu đả đánh nhau."
   },
   {
     "key": "selected_worker_is_fist_fight_hour",
@@ -273,25 +273,25 @@
     "key": "worker_action_carrytobedgoal",
     "type": 0,
     "en": "Carrying wounded to a bed",
-    "vi": "Carrying wounded đến a giường"
+    "vi": "Đang khiêng người bị thương về giường"
   },
   {
     "key": "worker_action_choptreegoal",
     "type": 0,
     "en": "Cutting",
-    "vi": "Đang chặt"
+    "vi": "Đang đốn cây"
   },
   {
     "key": "worker_action_diggoal",
     "type": 0,
     "en": "Mining/Digging",
-    "vi": "Khai khoáng/Digging"
+    "vi": "Đang khai mỏ/đào đất"
   },
   {
     "key": "worker_action_drafted",
     "type": 0,
     "en": "Drafted",
-    "vi": "Huy động"
+    "vi": "Đã huy động"
   },
   {
     "key": "worker_action_equipgoal",
@@ -315,19 +315,19 @@
     "key": "worker_action_harvestgoal",
     "type": 0,
     "en": "Harvesting resources",
-    "vi": "Thu hoạch resources"
+    "vi": "Đang thu hoạch tài nguyên"
   },
   {
     "key": "worker_action_hungergoal",
     "type": 0,
     "en": "Hungry",
-    "vi": "Đói"
+    "vi": "Đang đói"
   },
   {
     "key": "worker_action_huntinggoal",
     "type": 0,
     "en": "Hunting",
-    "vi": "Săn bắn"
+    "vi": "Đang săn bắn"
   },
   {
     "key": "worker_action_idlegoal",
@@ -345,7 +345,7 @@
     "key": "worker_action_productioncarpentrygoal",
     "type": 0,
     "en": "Crafting wooden item",
-    "vi": "Chế tạo wooden item"
+    "vi": "Đang chế tác đồ gỗ"
   },
   {
     "key": "worker_action_productioncookinggoal",
@@ -369,25 +369,25 @@
     "key": "worker_action_productioncraftinggoal",
     "type": 0,
     "en": "Producing",
-    "vi": "Đang sản xuất"
+    "vi": "Đang chế tác"
   },
   {
     "key": "worker_action_productionresearchgoal",
     "type": 0,
     "en": "Writing",
-    "vi": "Đang viết"
+    "vi": "Đang nghiên cứu"
   },
   {
     "key": "worker_action_productionsmithinggoal",
     "type": 0,
     "en": "Crafting metal item",
-    "vi": "Chế tạo metal item"
+    "vi": "Đang rèn đồ kim loại"
   },
   {
     "key": "worker_action_productiontailoringgoal",
     "type": 0,
     "en": "Tailoring",
-    "vi": "May mặc"
+    "vi": "Đang may vá"
   },
   {
     "key": "worker_action_productionworkergoal",
@@ -411,31 +411,31 @@
     "key": "worker_action_stockpilehaulinggoal",
     "type": 0,
     "en": "Hauling to stockpile",
-    "vi": "Vận chuyển để stockpile"
+    "vi": "Đang vận chuyển về bãi chứa"
   },
   {
     "key": "worker_action_shelfhaulinggoal",
     "type": 0,
     "en": "Hauling to stockpile",
-    "vi": "Vận chuyển để stockpile"
+    "vi": "Đang vận chuyển về bãi chứa"
   },
   {
     "key": "worker_action_tendwoundsgoal",
     "type": 0,
     "en": "Tending wounds",
-    "vi": "Đang chữa trị wounds"
+    "vi": "Đang chữa trị vết thương"
   },
   {
     "key": "worker_action_SelfTendWoundsGoal",
     "type": 0,
     "en": "Tending wounds",
-    "vi": "Đang chữa trị wounds"
+    "vi": "Đang tự chữa trị vết thương"
   },
   {
     "key": "worker_action_walktopositiondraftgoal",
     "type": 0,
     "en": "Moving to location",
-    "vi": "Khả năng di chuyển để location"
+    "vi": "Đang di chuyển đến vị trí"
   },
   {
     "key": "worker_action_walktopositiongoal",
@@ -447,7 +447,7 @@
     "key": "worker_action_autoequipgoal",
     "type": 0,
     "en": "Auto equipping",
-    "vi": "Tự động equipping"
+    "vi": "Đang tự động trang bị"
   },
   {
     "key": "worker_action_faithgoal",
@@ -459,7 +459,7 @@
     "key": "worker_action_changedoorlockdtategoal",
     "type": 0,
     "en": "Locking/Unlocking Door",
-    "vi": "Locking/Unlocking Cửa"
+    "vi": "Đang khóa/Mở khóa cửa"
   },
   {
     "key": "worker_action_setuptrapgoal",
@@ -489,7 +489,7 @@
     "key": "worker_action_ChangeDoorLockStateGoal",
     "type": 0,
     "en": "Locking/Unlocking Door",
-    "vi": "Locking/Unlocking Cửa"
+    "vi": "Đang khóa/Mở khóa cửa"
   },
   {
     "key": "worker_action_changelockstategoal",
@@ -507,7 +507,7 @@
     "key": "worker_action_OperateTrebuchetGoal",
     "type": 0,
     "en": "Operating Siege Weapon",
-    "vi": "Operating Siege Vũ khí"
+    "vi": "Đang vận hành vũ khí công thành"
   },
   {
     "key": "worker_action_TradeGoal",
@@ -519,7 +519,7 @@
     "key": "worker_action_formcaravangoal",
     "type": 0,
     "en": "Forming Caravan",
-    "vi": "Forming Thương đoàn"
+    "vi": "Đang thành lập đoàn buôn"
   },
   {
     "key": "worker_action_incaravan",
@@ -537,25 +537,25 @@
     "key": "worker_action_releasePrisonerGoal",
     "type": 0,
     "en": "Releasing Prisoner",
-    "vi": "Releasing Tù nhân"
+    "vi": "Đang phóng thích tù nhân"
   },
   {
     "key": "worker_action_FollowGoal",
     "type": 0,
     "en": "Moving to location",
-    "vi": "Khả năng di chuyển để location"
+    "vi": "Đang di chuyển đến vị trí"
   },
   {
     "key": "worker_action_FollowMoveOrderGoal",
     "type": 0,
     "en": "Moving to location",
-    "vi": "Khả năng di chuyển để location"
+    "vi": "Đang di chuyển đến vị trí"
   },
   {
     "key": "worker_action_npcidlewalkgoal",
     "type": 0,
     "en": "Moving to location",
-    "vi": "Khả năng di chuyển để location"
+    "vi": "Đang đi dạo"
   },
   {
     "key": "worker_action_TraderIdleGoal",
@@ -573,7 +573,7 @@
     "key": "worker_action_EnemyWithdrawalGoal",
     "type": 0,
     "en": "Leaving",
-    "vi": "Đang rời đi"
+    "vi": "Đang rút lui"
   },
   {
     "key": "worker_action_fillfoodstoragegoal",
@@ -591,25 +591,25 @@
     "key": "worker_action_PestControlGoal",
     "type": 0,
     "en": "Hunting",
-    "vi": "Săn bắn"
+    "vi": "Đang diệt thú gây hại"
   },
   {
     "key": "worker_action_productionartgoal",
     "type": 0,
     "en": "Creating Art",
-    "vi": "Đang sáng tác"
+    "vi": "Đang sáng tác nghệ thuật"
   },
   {
     "key": "worker_action_FillMedicineStorageGoal",
     "type": 0,
     "en": "Filling Medicine Pouch",
-    "vi": "Filling Y thuật Pouch"
+    "vi": "Đang nạp túi thuốc"
   },
   {
     "key": "worker_action_PatientGoal",
     "type": 0,
     "en": "Waiting for medical treatment",
-    "vi": "Waiting cho medical treatment"
+    "vi": "Đang chờ điều trị y tế"
   },
   {
     "key": "worker_action_FishingGoal",
@@ -621,7 +621,7 @@
     "key": "worker_action_StockpileUrgentHaulingGoal",
     "type": 0,
     "en": "Hauling to stockpile",
-    "vi": "Vận chuyển để stockpile"
+    "vi": "Đang dọn đồ khẩn cấp về bãi chứa"
   },
   {
     "key": "worker_action_BardRoleGoal",
@@ -663,19 +663,19 @@
     "key": "worker_action_ShamanRoleGoal",
     "type": 0,
     "en": "Leading an Oak Brethren ceremony",
-    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+    "vi": "Đang chủ trì nghi lễ Huynh Đệ Cây Sồi"
   },
   {
     "key": "worker_action_RitualEventGoalShaman",
     "type": 0,
     "en": "Leading an Oak Brethren ceremony",
-    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+    "vi": "Đang chủ trì nghi lễ Huynh Đệ Cây Sồi"
   },
   {
     "key": "worker_action_ShamanVisitorGoal",
     "type": 0,
     "en": "Leading an Oak Brethren ceremony",
-    "vi": "Leading an Huynh Đệ Cây Sồi ceremony"
+    "vi": "Đang chủ trì nghi lễ Huynh Đệ Cây Sồi"
   },
   {
     "key": "worker_action_NegotiateGoal",
@@ -699,7 +699,7 @@
     "key": "worker_action_RitualEventGoal",
     "type": 0,
     "en": "Attending Oak Brethren Ritual",
-    "vi": "Attending Huynh Đệ Cây Sồi Ritual"
+    "vi": "Đang tham dự nghi lễ Huynh Đệ Cây Sồi"
   },
   {
     "key": "abort_event_participation_confirm",
@@ -711,25 +711,25 @@
     "key": "worker_action_HangingEventGoal",
     "type": 0,
     "en": "Attending Hanging Event",
-    "vi": "Attending Hanging Sự kiện"
+    "vi": "Đang tham dự lễ treo cổ"
   },
   {
     "key": "worker_action_RopePrisonerToHangingEventGoal",
     "type": 0,
     "en": "Escorting",
-    "vi": "Đang hộ tống"
+    "vi": "Đang áp giải đến giá treo cổ"
   },
   {
     "key": "worker_action_GallowsExecutionGoal",
     "type": 0,
     "en": "Going to Gallows",
-    "vi": "Going đến Gallows"
+    "vi": "Đang đi tới giá treo cổ"
   },
   {
     "key": "worker_action_RopeEnemyGoal",
     "type": 0,
     "en": "Escorting",
-    "vi": "Đang hộ tống"
+    "vi": "Đang áp giải"
   },
   {
     "key": "worker_action_WardenRoleGoal",
@@ -741,7 +741,7 @@
     "key": "worker_action_ProductionTrainGoal",
     "type": 0,
     "en": "Training Skill",
-    "vi": "Đang huấn luyện Skill"
+    "vi": "Đang rèn luyện kỹ năng"
   },
   {
     "key": "worker_action_TakeOutFireGoal",
@@ -753,7 +753,7 @@
     "key": "worker_action_IdleOnFireGoal",
     "type": 0,
     "en": "On Fire",
-    "vi": "Trên Fire"
+    "vi": "Đang bị bốc cháy"
   },
   {
     "key": "worker_action_BarrelFillGoal",
@@ -771,37 +771,37 @@
     "key": "worker_action_deliverammunitiontotrebuchetgoal",
     "type": 0,
     "en": "Loading War Machine",
-    "vi": "Đang nạp máy chiến tranh"
+    "vi": "Đang nạp đạn máy bắn đá"
   },
   {
     "key": "worker_action_MasterClassEventGoalLibrarian",
     "type": 0,
     "en": "Holding a Study Group",
-    "vi": "Đang tổ chức nhóm học tập"
+    "vi": "Đang chủ trì Buổi Giảng Sách"
   },
   {
     "key": "worker_action_MasterClassEventGoal",
     "type": 0,
     "en": "Attending a Study Group event",
-    "vi": "Attending a Study Group sự kiện"
+    "vi": "Đang tham gia Buổi Giảng Sách"
   },
   {
     "key": "worker_action_TrainingEventGoalRanged",
     "type": 0,
     "en": "Attending a Training event",
-    "vi": "Attending a Đang huấn luyện event"
+    "vi": "Đang tham gia huấn luyện bắn cung"
   },
   {
     "key": "worker_action_TrainingEventGoalMelee",
     "type": 0,
     "en": "Attending a Training event",
-    "vi": "Attending a Đang huấn luyện event"
+    "vi": "Đang tham gia huấn luyện cận chiến"
   },
   {
     "key": "worker_action_TrainingEventGoalSergeant",
     "type": 0,
     "en": "Holding a Training event",
-    "vi": "Holding a Đang huấn luyện event"
+    "vi": "Đang tổ chức huấn luyện chiến đấu"
   },
   {
     "key": "worker_action_LibrarianRoleGoal",
@@ -813,7 +813,7 @@
     "key": "worker_action_SergeantRoleGoal",
     "type": 0,
     "en": "Sharpening weapons",
-    "vi": "Sharpening vũ khí"
+    "vi": "Đang mài sắc vũ khí"
   },
   {
     "key": "worker_action_BrokerRoleGoal",
@@ -861,25 +861,25 @@
     "key": "worker_action_StripCarcassGoal",
     "type": 0,
     "en": "Stripping belongings",
-    "vi": "Đang tước đồ"
+    "vi": "Đang lột đồ thi thể"
   },
   {
     "key": "worker_action_EnemyIdlePatrolGoal",
     "type": 0,
     "en": "Idle",
-    "vi": "Rảnh rỗi"
+    "vi": "Đang tuần tra"
   },
   {
     "key": "worker_action_prisonerescapegoal",
     "type": 0,
     "en": "Fleeing",
-    "vi": "Đang tháo chạy"
+    "vi": "Đang vượt ngục"
   },
   {
     "key": "worker_action_FollowInsultGoal",
     "type": 0,
     "en": "Heckling",
-    "vi": "Chế giễu khiêu khích"
+    "vi": "Đang chế giễu khiêu khích"
   },
   {
     "key": "worker_action_InitiateSocialFightGoal",
@@ -897,6 +897,6 @@
     "key": "worker_action_SolitaryIdleGoal",
     "type": 0,
     "en": "Isolating",
-    "vi": "Đang tách mình"
+    "vi": "Đang sống thu mình"
   }
 ]

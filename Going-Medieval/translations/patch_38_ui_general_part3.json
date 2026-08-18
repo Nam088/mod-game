@@ -9,49 +9,49 @@
     "key": "general_category",
     "type": 0,
     "en": "Category",
-    "vi": "Danh Mục Phân Loại"
+    "vi": "Danh mục"
   },
   {
     "key": "report_category_bug",
     "type": 0,
     "en": "Bug report",
-    "vi": "Báo Cáo Lỗi Game (Bug)"
+    "vi": "Báo cáo lỗi (Bug)"
   },
   {
     "key": "report_category_feedback",
     "type": 0,
     "en": "Feedback",
-    "vi": "Góp Ý & Phản Hồi"
+    "vi": "Góp ý & phản hồi"
   },
   {
     "key": "report_category_suggestion",
     "type": 0,
     "en": "Suggestion",
-    "vi": "Đề Xuất Tính Năng Mới"
+    "vi": "Đề xuất tính năng"
   },
   {
     "key": "general_enter_message",
     "type": 0,
     "en": "Enter message",
-    "vi": "Nhập nội dung phản hồi"
+    "vi": "Nhập nội dung"
   },
   {
     "key": "general_enter_subject",
     "type": 0,
     "en": "Enter subject",
-    "vi": "Nhập tiêu đề phản hồi"
+    "vi": "Nhập tiêu đề"
   },
   {
     "key": "general_submit",
     "type": 0,
     "en": "Submit",
-    "vi": "Gửi Phản Hồi"
+    "vi": "Gửi phản hồi"
   },
   {
     "key": "report_english_please",
     "type": 0,
     "en": "We are a small  team and currently have capacity to process only reports written in English. However, every report is valuable as we can look into your save and understand what went wrong. ",
-    "vi": "Chúng tôi là một đội ngũ phát triển độc lập nhỏ và hiện chỉ có thể xử lý các báo cáo bằng tiếng Anh. Tuy nhiên, mọi báo cáo đều vô cùng quý giá để chúng tôi phân tích file lưu và khắc phục sự cố."
+    "vi": "Chúng tôi là một đội ngũ phát triển nhỏ và hiện chỉ có thể xử lý các báo cáo bằng tiếng Anh. Tuy nhiên, mọi báo cáo đều vô cùng quý giá vì chúng tôi có thể kiểm tra file lưu của bạn và tìm hiểu nguyên nhân sự cố."
   },
   {
     "key": "unit_suffix_meter",
@@ -63,7 +63,7 @@
     "key": "general_priority",
     "type": 0,
     "en": "Priority",
-    "vi": "Mức Độ Ưu Tiên"
+    "vi": "Mức độ ưu tiên"
   },
   {
     "key": "report_priority_low",
@@ -75,7 +75,7 @@
     "key": "report_priority_medium",
     "type": 0,
     "en": "Medium",
-    "vi": "Trung Bình"
+    "vi": "Trung bình"
   },
   {
     "key": "report_priority_high",
@@ -93,19 +93,19 @@
     "key": "general_job_type",
     "type": 0,
     "en": "Job Type",
-    "vi": "Loại Công Việc / Nghề Nghiệp"
+    "vi": "Loại công việc"
   },
   {
     "key": "jobs_highest_priority",
     "type": 0,
     "en": " << Highest Priority",
-    "vi": "Ưu Tiên Cao Nhất"
+    "vi": " << Ưu tiên cao nhất"
   },
   {
     "key": "jobs_lowest_priority",
     "type": 0,
     "en": "Lowest Priority >>",
-    "vi": "Lowest Mức ưu tiên >>"
+    "vi": "Ưu tiên thấp nhất >>"
   },
   {
     "key": "jobs_first_done",
@@ -141,31 +141,31 @@
     "key": "general_goto_layer",
     "type": 0,
     "en": "Go to Layer",
-    "vi": "Go đến Layer"
+    "vi": "Đi tới tầng"
   },
   {
     "key": "general_select_next",
     "type": 0,
     "en": "Select next",
-    "vi": "Chọn next"
+    "vi": "Chọn tiếp theo"
   },
   {
     "key": "trade_buy",
     "type": 0,
     "en": "Acquire",
-    "vi": "Mua sắm / Tiếp nhận"
+    "vi": "Mua vào"
   },
   {
     "key": "trade_sell",
     "type": 0,
     "en": "Proffer",
-    "vi": "Bán ra / Đề nghị"
+    "vi": "Bán ra"
   },
   {
     "key": "trade_message_cant_continue",
     "type": 0,
     "en": "This transaction is unacceptable. The merchant demands more goods in return for the goods offered",
-    "vi": "Giao dịch này không được chấp nhận. Thương nhân yêu cầu thêm hàng hóa để đổi lấy số vật phẩm đã đề nghị."
+    "vi": "Giao dịch này không được chấp nhận. Thương nhân yêu cầu thêm hàng hóa để đổi lấy số vật phẩm bạn muốn lấy."
   },
   {
     "key": "trade_balance_title",
@@ -177,7 +177,7 @@
     "key": "trade_balance_desc",
     "type": 0,
     "en": "If the balance is in your settlement's favour (right), then you are asking for more than you are offering. If the balance is in the merchant's favour (left), then you are giving more than you are asking for. Only transactions under the Bargain Threshold are possible. The Bargain Threshold is influenced by the bartering settler's Speechcraft skill.",
-    "vi": "Nếu cán cân nghiêng về phía bạn (bên phải), bạn đang yêu cầu nhiều hơn mức đề nghị. Nếu nghiêng về phía thương nhân (bên trái), bạn đang trao nhiều hơn mức yêu cầu. Chỉ có thể giao dịch khi nằm trong Ngưỡng mặc cả. Ngưỡng này chịu ảnh hưởng bởi kỹ năng Giao tiếp của người đàm phán."
+    "vi": "Nếu cán cân nghiêng về phía khu định cư của bạn (bên phải), bạn đang yêu cầu nhiều hơn mức đưa ra. Nếu cán cân nghiêng về phía thương nhân (bên trái), bạn đang đưa ra nhiều hơn mức yêu cầu. Giao dịch chỉ có thể thực hiện khi nằm trong Ngưỡng mặc cả. Ngưỡng mặc cả chịu ảnh hưởng bởi kỹ năng Giao tiếp của người đàm phán."
   },
   {
     "key": "trade_balance_bargain",
@@ -189,13 +189,13 @@
     "key": "trade_wont_buy",
     "type": 0,
     "en": "This merchant will not trade for this resource",
-    "vi": "Thương nhân này sẽ không trao đổi tài nguyên này"
+    "vi": "Thương nhân này không muốn trao đổi tài nguyên này"
   },
   {
     "key": "trade_number_settlement",
     "type": 0,
     "en": "The number of these resources that you have available to trade",
-    "vi": "Số lượng tài nguyên này mà bạn hiện có sẵn để trao đổi"
+    "vi": "Số lượng tài nguyên này mà bạn có sẵn để trao đổi"
   },
   {
     "key": "wealth_price_sell",
@@ -207,19 +207,19 @@
     "key": "wealth_price_buy",
     "type": 0,
     "en": "Value merchant gains when trading this item",
-    "vi": "Giá trị thương nhân nhận được khi trao đổi món đồ này"
+    "vi": "Giá trị thương nhân nhận được khi trao đổi vật phẩm này"
   },
   {
     "key": "base_trade_value",
     "type": 0,
     "en": "Base value",
-    "vi": "Base giá trị"
+    "vi": "Giá trị cơ bản"
   },
   {
     "key": "settler_trade_bonus",
     "type": 0,
     "en": "Settler trade bonus",
-    "vi": "Dân làng trade bonus"
+    "vi": "Thưởng giao thương từ dân làng"
   },
   {
     "key": "trade_buying",
@@ -237,19 +237,19 @@
     "key": "trade_total_buy",
     "type": 0,
     "en": "The total amount of value you will gain from the merchant",
-    "vi": "Tổng giá trị bạn sẽ nhận được từ thương nhân"
+    "vi": "Tổng giá trị bạn nhận được từ thương nhân"
   },
   {
     "key": "trade_total_sell",
     "type": 0,
     "en": "The total amount of value you will give to the merchant",
-    "vi": "Tổng giá trị bạn sẽ giao cho thương nhân"
+    "vi": "Tổng giá trị bạn giao cho thương nhân"
   },
   {
     "key": "extortion_demanding",
     "type": 0,
     "en": "Demand",
-    "vi": "Yêu sách đòi hỏi"
+    "vi": "Yêu sách"
   },
   {
     "key": "extortion_give",
@@ -267,25 +267,25 @@
     "key": "extortion_negotiator_give",
     "type": 0,
     "en": "The total amount of value you will give to the negotiator",
-    "vi": "Tổng giá trị bạn sẽ giao cho người đàm phán"
+    "vi": "Tổng giá trị bạn sẽ giao nộp cho người đàm phán"
   },
   {
     "key": "extortion_demand_title",
     "type": 0,
     "en": "Demand Amount",
-    "vi": "Số lượng yêu sách"
+    "vi": "Giá trị yêu sách"
   },
   {
     "key": "extortion_demand_desc",
     "type": 0,
     "en": "The amount of value the negotiator demands from you. The amount is influenced by the settler negotiating. ",
-    "vi": "Lượng giá trị mà người đàm phán yêu sách từ bạn. Mức giá chịu ảnh hưởng bởi kỹ năng của dân làng đàm phán. "
+    "vi": "Tổng giá trị mà người đàm phán đòi hỏi từ bạn. Mức giá này chịu ảnh hưởng bởi kỹ năng của dân làng tham gia đàm phán."
   },
   {
     "key": "extortion_wont_take",
     "type": 0,
     "en": "This negotiator will not accept this resource",
-    "vi": "Kẻ tống tiền này sẽ không chấp nhận tài nguyên này"
+    "vi": "Người đàm phán này sẽ không chấp nhận tài nguyên này"
   },
   {
     "key": "extortion_number_settlement",
@@ -297,19 +297,19 @@
     "key": "wealth_price_give",
     "type": 0,
     "en": "Value when giving this item",
-    "vi": "Giá trị khi trao tặng vật phẩm này"
+    "vi": "Giá trị khi giao nộp vật phẩm này"
   },
   {
     "key": "extortion_are_you_sure",
     "type": 0,
     "en": "Are you sure that you want to finalise this negotiation?",
-    "vi": "Là bạn sure đó bạn want đến finalise này negotiation?"
+    "vi": "Bạn có chắc chắn muốn hoàn tất cuộc đàm phán này không?"
   },
   {
     "key": "extortion_sell_list",
     "type": 0,
     "en": "You are giving this:",
-    "vi": "Bạn là giving này:"
+    "vi": "Bạn đang giao nộp những thứ sau:"
   },
   {
     "key": "extortion_message_cant_continue",
@@ -339,7 +339,7 @@
     "key": "distance_from_village",
     "type": 0,
     "en": "Tiles away",
-    "vi": "Khoảng cách ô đất"
+    "vi": "Khoảng cách (ô)"
   },
   {
     "key": "trader_message_mass",
@@ -351,13 +351,13 @@
     "key": "negotiator_message_mass",
     "type": 0,
     "en": "Negotiator can't carry this much weight",
-    "vi": "Negotiator có thể't carry này much weight"
+    "vi": "Người đàm phán không thể mang vác khối lượng nặng đến mức này"
   },
   {
     "key": "friendliness_change",
     "type": 0,
     "en": "<friendliness_impact> alignment towards <faction_name> ",
-    "vi": "<friendliness_impact> mức độ thiện cảm đối với <faction_name>"
+    "vi": "<friendliness_impact> điểm thiện cảm đối với <faction_name>"
   },
   {
     "key": "friendliness_stat_change",
@@ -369,49 +369,49 @@
     "key": "center_of_power",
     "type": 0,
     "en": "Center of power",
-    "vi": "Trung Tâm Quyền Lực"
+    "vi": "Trung tâm quyền lực"
   },
   {
     "key": "trader_visitor",
     "type": 0,
     "en": "Lone Traveller",
-    "vi": "Lữ Khách Đơn Độc"
+    "vi": "Lữ khách đơn độc"
   },
   {
     "key": "character_hair_colour",
     "type": 0,
     "en": "Hair colour",
-    "vi": "Màu Tóc"
+    "vi": "Màu tóc"
   },
   {
     "key": "character_hair_type",
     "type": 0,
     "en": "Hair type",
-    "vi": "Kiểu Tóc"
+    "vi": "Kiểu tóc"
   },
   {
     "key": "character_facial_hair_type",
     "type": 0,
     "en": "Facial hair type",
-    "vi": "Kiểu Râu Ria"
+    "vi": "Kiểu râu"
   },
   {
     "key": "character_head_type",
     "type": 0,
     "en": "Head type",
-    "vi": "Kiểu Khuôn Mặt"
+    "vi": "Kiểu khuôn mặt"
   },
   {
     "key": "character_skin_colour",
     "type": 0,
     "en": "Skin colour",
-    "vi": "Màu Da"
+    "vi": "Màu da"
   },
   {
     "key": "character_gender",
     "type": 0,
     "en": "Body",
-    "vi": "Vóc Dáng Thể Trạng"
+    "vi": "Vóc dáng"
   },
   {
     "key": "character_hair",
@@ -423,313 +423,313 @@
     "key": "character_facial_hair",
     "type": 0,
     "en": "Facial hair",
-    "vi": "Râu Ria"
+    "vi": "Râu"
   },
   {
     "key": "character_advanced_customization",
     "type": 0,
     "en": "Advanced customization",
-    "vi": "Tùy Biến Nhân Vật Nâng Cao"
+    "vi": "Tùy biến nâng cao"
   },
   {
     "key": "character_reroll_group",
     "type": 0,
     "en": "Reroll group",
-    "vi": "Quay Ngẫu Nhiên Cả Nhóm"
+    "vi": "Đổi ngẫu nhiên cả nhóm"
   },
   {
     "key": "character_reroll",
     "type": 0,
     "en": "Reroll character",
-    "vi": "Quay Ngẫu Nhiên Nhân Vật"
+    "vi": "Đổi ngẫu nhiên nhân vật"
   },
   {
     "key": "male_hair_bald",
     "type": 0,
     "en": "None",
-    "vi": "Đầu Trọc (Không Có)"
+    "vi": "Không có"
   },
   {
     "key": "male_hair_fratar",
     "type": 0,
     "en": "Hair #1",
-    "vi": "Kiểu Tóc #1"
+    "vi": "Kiểu tóc #1"
   },
   {
     "key": "male_hair_long",
     "type": 0,
     "en": "Hair #2",
-    "vi": "Kiểu Tóc #2"
+    "vi": "Kiểu tóc #2"
   },
   {
     "key": "male_hair_medium",
     "type": 0,
     "en": "Hair #3",
-    "vi": "Kiểu Tóc #3"
+    "vi": "Kiểu tóc #3"
   },
   {
     "key": "male_hair_stripe",
     "type": 0,
     "en": "Hair #4",
-    "vi": "Kiểu Tóc #4"
+    "vi": "Kiểu tóc #4"
   },
   {
     "key": "male_hair_afro_A",
     "type": 0,
     "en": "Hair #5",
-    "vi": "Kiểu Tóc #5"
+    "vi": "Kiểu tóc #5"
   },
   {
     "key": "male_hair_afro_B",
     "type": 0,
     "en": "Hair #6",
-    "vi": "Kiểu Tóc #6"
+    "vi": "Kiểu tóc #6"
   },
   {
     "key": "male_hair_afro_C",
     "type": 0,
     "en": "Hair #7",
-    "vi": "Kiểu Tóc #7"
+    "vi": "Kiểu tóc #7"
   },
   {
     "key": "male_hair_afro_D",
     "type": 0,
     "en": "Hair #8",
-    "vi": "Kiểu Tóc #8"
+    "vi": "Kiểu tóc #8"
   },
   {
     "key": "hair_long",
     "type": 0,
     "en": "Hair #2",
-    "vi": "Kiểu Tóc #2"
+    "vi": "Kiểu tóc #2"
   },
   {
     "key": "hair_short",
     "type": 0,
     "en": "Hair #3",
-    "vi": "Kiểu Tóc #3"
+    "vi": "Kiểu tóc #3"
   },
   {
     "key": "hair_shoulders",
     "type": 0,
     "en": "Hair #4",
-    "vi": "Kiểu Tóc #4"
+    "vi": "Kiểu tóc #4"
   },
   {
     "key": "hair_tail",
     "type": 0,
     "en": "Hair #5",
-    "vi": "Kiểu Tóc #5"
+    "vi": "Kiểu tóc #5"
   },
   {
     "key": "hair_afro_A",
     "type": 0,
     "en": "Hair #6",
-    "vi": "Kiểu Tóc #6"
+    "vi": "Kiểu tóc #6"
   },
   {
     "key": "hair_afro_B",
     "type": 0,
     "en": "Hair #7",
-    "vi": "Kiểu Tóc #7"
+    "vi": "Kiểu tóc #7"
   },
   {
     "key": "hair_afro_C",
     "type": 0,
     "en": "Hair #8",
-    "vi": "Kiểu Tóc #8"
+    "vi": "Kiểu tóc #8"
   },
   {
     "key": "hair_afro_D",
     "type": 0,
     "en": "Hair #9",
-    "vi": "Kiểu Tóc #9"
+    "vi": "Kiểu tóc #9"
   },
   {
     "key": "male_head_long",
     "type": 0,
     "en": "Head #1",
-    "vi": "Khuôn Mặt #1"
+    "vi": "Khuôn mặt #1"
   },
   {
     "key": "male_head_normal",
     "type": 0,
     "en": "Head #2",
-    "vi": "Khuôn Mặt #2"
+    "vi": "Khuôn mặt #2"
   },
   {
     "key": "male_head_round",
     "type": 0,
     "en": "Head #3",
-    "vi": "Khuôn Mặt #3"
+    "vi": "Khuôn mặt #3"
   },
   {
     "key": "male_head_square",
     "type": 0,
     "en": "Head #4",
-    "vi": "Khuôn Mặt #4"
+    "vi": "Khuôn mặt #4"
   },
   {
     "key": "male_head_wide",
     "type": 0,
     "en": "Head #5",
-    "vi": "Khuôn Mặt #5"
+    "vi": "Khuôn mặt #5"
   },
   {
     "key": "head_long",
     "type": 0,
     "en": "Head #1",
-    "vi": "Khuôn Mặt #1"
+    "vi": "Khuôn mặt #1"
   },
   {
     "key": "head_normal",
     "type": 0,
     "en": "Head #2",
-    "vi": "Khuôn Mặt #2"
+    "vi": "Khuôn mặt #2"
   },
   {
     "key": "head_round",
     "type": 0,
     "en": "Head #3",
-    "vi": "Khuôn Mặt #3"
+    "vi": "Khuôn mặt #3"
   },
   {
     "key": "head_square",
     "type": 0,
     "en": "Head #4",
-    "vi": "Khuôn Mặt #4"
+    "vi": "Khuôn mặt #4"
   },
   {
     "key": "head_wide",
     "type": 0,
     "en": "Head #5",
-    "vi": "Khuôn Mặt #5"
+    "vi": "Khuôn mặt #5"
   },
   {
     "key": "male_beard_clasic",
     "type": 0,
     "en": "Facial hair #7",
-    "vi": "Râu Cổ Điển #7"
+    "vi": "Kiểu râu #7"
   },
   {
     "key": "male_beard_goate",
     "type": 0,
     "en": "Facial hair #8",
-    "vi": "Râu Dê #8"
+    "vi": "Kiểu râu #8"
   },
   {
     "key": "male_beard_long",
     "type": 0,
     "en": "Facial hair #9",
-    "vi": "Râu Dài #9"
+    "vi": "Kiểu râu #9"
   },
   {
     "key": "male_beard_mutton",
     "type": 0,
     "en": "Facial hair #10",
-    "vi": "Râu Quai Nón #10"
+    "vi": "Kiểu râu #10"
   },
   {
     "key": "male_moustache_long",
     "type": 0,
     "en": "Facial hair #1",
-    "vi": "Râu Mép Dài #1"
+    "vi": "Kiểu râu #1"
   },
   {
     "key": "male_moustache_mutton",
     "type": 0,
     "en": "Facial hair #2",
-    "vi": "Râu Mép Quai Nón #2"
+    "vi": "Kiểu râu #2"
   },
   {
     "key": "male_moustache_short",
     "type": 0,
     "en": "Facial hair #3",
-    "vi": "Râu Mép Ngắn #3"
+    "vi": "Kiểu râu #3"
   },
   {
     "key": "male_moustache_thick",
     "type": 0,
     "en": "Facial hair #4",
-    "vi": "Râu Mép Dày #4"
+    "vi": "Kiểu râu #4"
   },
   {
     "key": "male_moustache_thin",
     "type": 0,
     "en": "Facial hair #5",
-    "vi": "Râu Mép Mỏng #5"
+    "vi": "Kiểu râu #5"
   },
   {
     "key": "general_none",
     "type": 0,
     "en": "None",
-    "vi": "Không Có"
+    "vi": "Không có"
   },
   {
     "key": "gender_male",
     "type": 0,
     "en": "Masculine",
-    "vi": "Nam Tính"
+    "vi": "Nam tính"
   },
   {
     "key": "gender_female",
     "type": 0,
     "en": "Feminine",
-    "vi": "Nữ Tính"
+    "vi": "Nữ tính"
   },
   {
     "key": "character_group_points",
     "type": 0,
     "en": "Group creation points",
-    "vi": "Điểm Khởi Tạo Nhóm Dân Làng"
+    "vi": "Điểm tạo nhóm"
   },
   {
     "key": "character_group_points_info",
     "type": 0,
     "en": "Use creation points to customise your group. The number of points it costs to alter a skill, perk, background, passion, etc., varies.",
-    "vi": "Sử dụng điểm tạo nhóm để tùy biến các thành viên ban đầu. Số điểm tiêu tốn để thay đổi kỹ năng, đặc tính, xuất thân, đam mê,... sẽ khác nhau."
+    "vi": "Dùng điểm tạo nhóm để tùy biến các thành viên ban đầu. Số điểm tiêu tốn để thay đổi kỹ năng, đặc tính, xuất thân, đam mê,... sẽ khác nhau."
   },
   {
     "key": "character_point_limit",
     "type": 0,
     "en": "Creation points are maxed out. Reroll settlers, or use Advanced Customization to adjust them.",
-    "vi": "Điểm tạo nhân vật đã đạt giới hạn tối đa. Hãy đổi ngẫu nhiên hoặc dùng Tùy biến nâng cao để cân đối lại."
+    "vi": "Điểm tạo nhân vật đã đạt giới hạn tối đa. Hãy đổi ngẫu nhiên dân làng hoặc dùng Tùy biến nâng cao để điều chỉnh lại."
   },
   {
     "key": "character_points_cost",
     "type": 0,
     "en": "Creation point cost",
-    "vi": "Chi Phí Điểm Tạo Nhân Vật"
+    "vi": "Chi phí điểm tạo nhân vật"
   },
   {
     "key": "general_goods_trader_small",
     "type": 0,
     "en": "Pedlar",
-    "vi": "Người Bán Hàng Rong"
+    "vi": "Người bán hàng rong"
   },
   {
     "key": "general_goods_trader_normal",
     "type": 0,
     "en": "General goods merchant ",
-    "vi": "Thương Nhân Hàng Hóa Phổ Thông"
+    "vi": "Thương nhân tạp hóa"
   },
   {
     "key": "general_goods_trader_large",
     "type": 0,
     "en": "General goods wholesale merchant",
-    "vi": "Đại Thương Gia Bán Buôn Hàng Hóa"
+    "vi": "Thương nhân bán buôn"
   },
   {
     "key": "rare_goods_trader",
     "type": 0,
     "en": "Rare goods merchant",
-    "vi": "Thương Nhân Hàng Hiếm & Trân Bảo"
+    "vi": "Thương nhân hàng hiếm"
   },
   {
     "key": "cancel_caravan_confirm",
     "type": 0,
     "en": "This action will abort caravan formation. Proceed?",
-    "vi": "Hành động này sẽ hủy bỏ việc thành lập thương đoàn. Bạn có chắc chắn muốn tiếp tục?"
+    "vi": "Hành động này sẽ hủy bỏ việc thành lập thương đoàn. Tiếp tục?"
   },
   {
     "key": "eventOptionEffect_alighment",
@@ -741,7 +741,7 @@
     "key": "global_trade_multiplier_name",
     "type": 0,
     "en": "Other value modifers",
-    "vi": "Hệ Số Điều Chỉnh Giá Trị Khác"
+    "vi": "Hệ số điều chỉnh giá trị khác"
   },
   {
     "key": "global_trade_multiplier_info",
@@ -753,25 +753,25 @@
     "key": "generating_workers_message",
     "type": 0,
     "en": "Generating settlers",
-    "vi": "Đang Tạo Dân Làng Mới..."
+    "vi": "Đang tạo dân làng..."
   },
   {
     "key": "requires_conscious_worker_selected",
     "type": 0,
     "en": "Requires conscious settler",
-    "vi": "Yêu Cầu Phải Chọn Dân Làng Đang Tỉnh Táo"
+    "vi": "Yêu cầu dân làng phải tỉnh táo"
   },
   {
     "key": "general_died_old_age",
     "type": 0,
     "en": "<name> has passed away peacefully in [his/her] sleep.",
-    "vi": "<name> đã qua đời thanh thản trong giấc ngủ của [his/her] do tuổi già xế bóng."
+    "vi": "<name> đã qua đời thanh thản trong giấc ngủ của [his/her] do tuổi già."
   },
   {
     "key": "cropfield_error_sowing_period",
     "type": 0,
     "en": "Sowing period is different than the current date",
-    "vi": "Mùa gieo trồng không phù hợp với thời điểm hiện tại."
+    "vi": "Hiện không phải mùa gieo trồng của loại cây này."
   },
   {
     "key": "cropfield_error_no_seeds",
@@ -783,97 +783,97 @@
     "key": "production_stopped_temperature",
     "type": 0,
     "en": "Temperature condition not met",
-    "vi": "Không đáp ứng điều kiện nhiệt độ môi trường cần thiết"
+    "vi": "Điều kiện nhiệt độ môi trường không phù hợp"
   },
   {
     "key": "fuel_type",
     "type": 0,
     "en": "Fuel",
-    "vi": "Loại Nhiên Liệu"
+    "vi": "Nhiên liệu"
   },
   {
     "key": "fuel_strength",
     "type": 0,
     "en": "Fuel strength",
-    "vi": "Hiệu Suất Nhiệt Nhiên Liệu"
+    "vi": "Hiệu suất nhiên liệu"
   },
   {
     "key": "prioritise_refuel",
     "type": 0,
     "en": "Prioritise refueling:",
-    "vi": "Ưu Tiên Tiếp Nhiên Liệu:"
+    "vi": "Ưu tiên nạp nhiên liệu:"
   },
   {
     "key": "cannot_refuel",
     "type": 0,
     "en": "Cannot refuel, not enough resources",
-    "vi": "Không thể tiếp nhiên liệu, không đủ tài nguyên cần thiết."
+    "vi": "Không thể nạp nhiên liệu, không đủ tài nguyên."
   },
   {
     "key": "cropfield_under_roof",
     "type": 0,
     "en": "Roofed: <roofed_percent>",
-    "vi": "Bị Mái Che: <roofed_percent>"
+    "vi": "Có mái che: <roofed_percent>"
   },
   {
     "key": "cropfield_under_roof_info",
     "type": 0,
     "en": "All or parts of this cropfield are roofed. Plants cannot be sown beneath roofs.",
-    "vi": "Toàn bộ hoặc một phần thửa ruộng này có mái che phía trên. Cây trồng không thể phát triển dưới mái che."
+    "vi": "Toàn bộ hoặc một phần thửa ruộng này có mái che phía trên. Không thể gieo trồng cây dưới mái che."
   },
   {
     "key": "general_sow_period",
     "type": 0,
     "en": "Sowing Period",
-    "vi": "Mùa Gieo Trồng"
+    "vi": "Mùa gieo trồng"
   },
   {
     "key": "general_dont_sow",
     "type": 0,
     "en": "Don't Sow",
-    "vi": "Ngừng Gieo Hạt"
+    "vi": "Ngừng gieo hạt"
   },
   {
     "key": "general_harvest_phase",
     "type": 0,
     "en": "Harvest Phase",
-    "vi": "Giai Đoạn Thu Hoạch"
+    "vi": "Giai đoạn thu hoạch"
   },
   {
     "key": "general_cut_phase",
     "type": 0,
     "en": "Cutting Phase",
-    "vi": "Giai Đoạn Phát Dọn Cây"
+    "vi": "Giai đoạn phát dọn"
   },
   {
     "key": "general_lacks",
     "type": 0,
     "en": "Lacks",
-    "vi": "Còn Thiếu"
+    "vi": "Còn thiếu"
   },
   {
     "key": "xp_cap_reached",
     "type": 0,
     "en": "Daily XP cap reached (<daily_xp>). Further XP gained is multiplied by 0.1",
-    "vi": "Đã đạt giới hạn kinh nghiệm (XP) mỗi ngày (<daily_xp>). Kinh nghiệm nhận thêm sẽ bị giảm còn x0.1"
+    "vi": "Đã đạt giới hạn kinh nghiệm (XP) hàng ngày (<daily_xp>). Điểm kinh nghiệm nhận thêm sẽ bị nhân với hệ số 0.1"
   },
   {
     "key": "map_seed",
     "type": 0,
     "en": "Map seed",
-    "vi": "Mã Hạt Giống Bản Đồ (Seed)"
+    "vi": "Mã hạt giống bản đồ (Seed)"
   },
   {
     "key": "general_overview",
     "type": 0,
     "en": "Overview",
-    "vi": "Tổng Quan Toàn Cảnh"
+    "vi": "Tổng quan"
   },
   {
     "key": "assigned_to",
     "type": 0,
     "en": "Assigned to",
-    "vi": "Đã Phân Công Cho"
+    "vi": "Đã giao cho"
   },
   {
     "key": "assigned_to_info",
@@ -885,13 +885,13 @@
     "key": "general_battle",
     "type": 0,
     "en": "Battle",
-    "vi": "Tham Chiến Tác Chiến"
+    "vi": "Chiến đấu"
   },
   {
     "key": "general_battle_info",
     "type": 0,
     "en": "Battle-trained animals will follow the settler they are assigned to when the settler is drafted. ",
-    "vi": "Thú nuôi được huấn luyện chiến đấu sẽ theo sát bảo vệ dân làng được chỉ định mỗi khi họ được lệnh nhập ngũ."
+    "vi": "Thú nuôi được huấn luyện chiến đấu sẽ đi theo bảo vệ dân làng được chỉ định mỗi khi họ được huy động."
   },
   {
     "key": "general_untrainable",

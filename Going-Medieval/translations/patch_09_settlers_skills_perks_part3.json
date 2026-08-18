@@ -15,7 +15,7 @@
     "key": "perk_name_Bloomer",
     "type": 0,
     "en": "Greensoul",
-    "vi": "Hồn Nhiên Đâm Chồi"
+    "vi": "Tâm Hồn Thảo Mộc"
   },
   {
     "key": "perk_name_Stoic",
@@ -27,7 +27,7 @@
     "key": "perk_name_Splinter",
     "type": 0,
     "en": "Splinter",
-    "vi": "Mảnh Hồn (Tâm Thần Bất Ổn)"
+    "vi": "Tâm Trí Phân Mảnh"
   },
   {
     "key": "perk_name_Reeky",
@@ -39,7 +39,7 @@
     "key": "perk_name_Bareknuckled",
     "type": 0,
     "en": "Bareknuckled",
-    "vi": "Quyền Vương Tay Không"
+    "vi": "Quyền Thủ Tay Không"
   },
   {
     "key": "perk_name_Beastmaster",
@@ -57,409 +57,409 @@
     "key": "perk_info_Robust",
     "type": 0,
     "en": "<name> appears unassailable, bouncing back swiftly from injuries that would put others in the grave.",
-    "vi": "<name> sở hữu cơ thể tráng kiện bền bỉ, nhanh chóng vượt qua những vết thương chí mạng mà người khác phải bỏ mạng."
+    "vi": "<name> sở hữu cơ thể tráng kiện kiên cố, nhanh chóng hồi phục sau những vết thương chí mạng có thể tiễn người khác xuống mồ."
   },
   {
     "key": "perk_info_Infirm",
     "type": 0,
     "en": "Fragile health is a burden that <name> has always had to bear. [He/She] is often convalescent.",
-    "vi": "Thể trạng yếu ớt và dễ tổn thương là gánh nặng mà <name> phải mang suốt cả cuộc đời. [He/She] thường xuyên phải nằm viện dưỡng bệnh."
+    "vi": "Thể trạng yếu ớt mỏng manh là gánh nặng mà <name> phải mang suốt cả cuộc đời. [He/She] thường xuyên phải nằm giường dưỡng bệnh."
   },
   {
     "key": "perk_info_Moribund",
     "type": 0,
     "en": "<name> often has an unwholesome smell, emanating from foetid bandages. [He/She] is slow to heal when injured.",
-    "vi": "<name> thường toát ra mùi hôi khó chịu từ những lớp băng bó ẩm mốc. [He/She] hồi phục thương tật vô cùng chậm chạp."
+    "vi": "<name> thường toát ra mùi hôi khó chịu từ những lớp băng bó ẩm mốc. [He/She] hồi phục thương tích vô cùng chậm chạp."
   },
   {
     "key": "perk_info_NightOwl",
     "type": 0,
     "en": "<name> feels most alive working during the hours of darkness. [He/She] can survive happily with very little sleep.",
-    "vi": "<name> cảm thấy tỉnh táo và hăng say nhất khi làm việc giữa màn đêm tăm tối. [He/She] vẫn tràn đầy năng lượng dù ngủ rất ít."
+    "vi": "<name> cảm thấy tràn đầy sinh lực nhất khi làm việc giữa màn đêm tăm tối. [He/She] vẫn vui vẻ khỏe khoắn dù ngủ rất ít."
   },
   {
     "key": "perk_info_FortyWinks",
     "type": 0,
     "en": "<name> only needs to shut [his/her] eyes for the briefest of cat naps to feel fully restored.",
-    "vi": "<name> chỉ cần nhắm nghiền đôi mắt của [his/her] chợp mắt trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn."
+    "vi": "<name> chỉ cần nhắm đôi mắt của [his/her] lại trong chốc lát là toàn bộ thể lực đã được phục hồi hoàn toàn."
   },
   {
     "key": "perk_info_Somnolent",
     "type": 0,
     "en": "<name> loves nothing better than a nice, long snooze. In fact, [he/she] needs more sleep than most just to function.",
-    "vi": "<name> không gì yêu thích hơn một giấc ngủ nướng dài thảnh thơi. Trên thực tế, [he/she] cần ngủ nhiều hơn hẳn người bình thường mới có thể làm việc."
+    "vi": "<name> chẳng yêu thích gì hơn một giấc ngủ nướng đẫy đà thảnh thơi. Trên thực tế, [he/she] cần ngủ nhiều hơn hẳn người bình thường mới có thể làm việc."
   },
   {
     "key": "perk_info_EarlyBird",
     "type": 0,
     "en": "<name> relishes getting to work at daybreak, when the first cock crows. An early bedtime is essential.",
-    "vi": "<name> vô cùng hào hứng bắt tay vào công việc ngay khi vầng dương vừa ló dạng và tiếng gà gáy đầu tiên cất lên. Đi ngủ sớm là thói quen bắt buộc."
+    "vi": "<name> vô cùng hào hứng bắt tay vào công việc ngay khi bình minh vừa ló rạng và tiếng gà gáy đầu tiên cất lên. Đi ngủ sớm là điều bắt buộc."
   },
   {
     "key": "perk_info_Stout",
     "type": 0,
     "en": "<name> jokes that [his/her] ample belly is a great asset, storing energy for lean times. Getting around is slower, though.",
-    "vi": "<name> thường tự hào đùa rằng chiếc bụng mỡ đẫy đà của [his/her] chính là kho dự trữ năng lượng quý báu cho những ngày đói kém. Tuy nhiên, tốc độ di chuyển có phần chậm chạp hơn."
+    "vi": "<name> thường đùa rằng chiếc bụng mỡ đẫy đà của [his/her] chính là kho dự trữ năng lượng quý báu cho những ngày đói kém. Tuy nhiên, tốc độ di chuyển có phần chậm chạp hơn."
   },
   {
     "key": "perk_info_Gluttonous",
     "type": 0,
     "en": "Food, glorious food! <name> simply loves to eat, whenever, and wherever possible.",
-    "vi": "Đồ ăn, đồ ăn tuyệt vời! <name> chỉ đơn giản là thích ăn, bất cứ khi nào và bất cứ nơi đâu có thể."
+    "vi": "Đồ ăn, đồ ăn tuyệt vời! <name> đơn giản là mê ăn uống, bất cứ khi nào và bất cứ nơi đâu có thể."
   },
   {
     "key": "perk_info_IronStomach",
     "type": 0,
     "en": "One of <name>'s favourite tricks is eating horseshoe nails or soap. It's a special talent to be able to eat literally anything.",
-    "vi": "Một trong những trò ưa thích của <name> là ăn đinh móng ngựa hoặc xà phòng. Có thể ăn đúng nghĩa mọi thứ là một tài năng đặc biệt."
+    "vi": "Một trong những trò sở trường của <name> là nhai cả đinh móng ngựa hay xà phòng. Có thể nuốt trôi mọi thứ đúng nghĩa là một biệt tài hiếm có."
   },
   {
     "key": "perk_info_Gourmet",
     "type": 0,
     "en": "Ah, la joie de cuisiner! <name> is everyone's favourite cook, with endless culinary skills that tantalise the tastebuds.",
-    "vi": "Ôi, niềm vui nấu nướng! <name> là đầu bếp được mọi người yêu thích, với kỹ năng ẩm thực vô tận kích thích vị giác."
+    "vi": "Ôi, niềm say mê nấu nướng! <name> là đầu bếp được muôn người ái mộ, với tài nghệ ẩm thực tinh tế kích thích mọi vị giác."
   },
   {
     "key": "perk_info_Austere",
     "type": 0,
     "en": "<name> has mastered discipline and self-denial. [He/She] often fasts, going for days without food with no ill effect.",
-    "vi": "<name> đã làm chủ tính kỷ luật và sự tiết chế. [He/She] thường nhịn ăn nhiều ngày mà không chịu ảnh hưởng xấu."
+    "vi": "<name> đã đạt tới đỉnh cao của sự kỷ luật và tiết chế. [He/She] thường xuyên nhịn ăn nhiều ngày ròng rã mà không hề suy suyển sức khỏe."
   },
   {
     "key": "perk_info_Gobbler",
     "type": 0,
     "en": "The only way to preserve food is to eat it, quickly. At least that's what <name> thinks.",
-    "vi": "Cách duy nhất để bảo quản thức ăn là ăn thật nhanh. Ít nhất <name> nghĩ vậy."
+    "vi": "Cách duy nhất để bảo quản thức ăn là tọng hết vào bụng thật nhanh. Ít nhất thì <name> luôn tâm niệm như vậy."
   },
   {
     "key": "perk_info_Congenial",
     "type": 0,
     "en": "Out of sight, out of mind, that's <name>'s motto. [He/She] doesn't worry about things beyond [his/her] control.",
-    "vi": "Không thấy thì không bận tâm, đó là phương châm của <name>. [He/She] không lo lắng về những điều ngoài tầm kiểm soát của [his/her]."
+    "vi": "Khuất mắt thì khỏi bận lòng, đó chính là châm ngôn sống của <name>. [He/She] chẳng bao giờ phiền lòng vì những điều ngoài tầm kiểm soát của [his/her]."
   },
   {
     "key": "perk_info_Outgoing",
     "type": 0,
     "en": "<name> is a great sport, always setting up bouts, games and sing alongs. [He/She] is a jolly soul.",
-    "vi": "<name> rất vui tính, luôn tổ chức thi đấu, trò chơi và hát hò. [He/She] là một tâm hồn vui vẻ."
+    "vi": "<name> là người rất sôi nổi hào sảng, luôn khuấy động các cuộc so tài, trò chơi và tiết mục hát hò. [He/She] là một tâm hồn tràn ngập niềm vui."
   },
   {
     "key": "perk_info_Churl",
     "type": 0,
     "en": "Mean and surly, barely even civil. <name> is hard to work with and harder still to befriend.",
-    "vi": "Xấu tính và cộc cằn, gần như chẳng biết lịch sự. Rất khó làm việc cùng <name>, kết bạn còn khó hơn."
+    "vi": "Cáu kỉnh và cộc cằn, hiếm khi giữ được phép lịch sự tối thiểu. Rất khó để cùng làm việc với <name>, và để kết bạn thì lại càng khó hơn."
   },
   {
     "key": "perk_info_Contemplative",
     "type": 0,
     "en": "<name> spends most of [his/her] time with [his/her] own thoughts. The rest of us are not invited.",
-    "vi": "<name> dành phần lớn thời gian của [his/her] chìm trong những suy nghĩ riêng của [his/her]. Những người khác không được chào đón."
+    "vi": "<name> dành phần lớn thời gian [his/her] với những suy nghĩ riêng của [his/her]. Những người xung quanh tuyệt nhiên không có cơ hội bước vào thế giới ấy."
   },
   {
     "key": "perk_info_Industrious",
     "type": 0,
     "en": "<name> is certainly a busy bee, buzzing around getting things done from dawn til dusk. [He/She] never seems to rest.",
-    "vi": "<name> quả là một người bận rộn, tất bật hoàn thành công việc từ sáng đến tối. [He/She] dường như chẳng bao giờ nghỉ."
+    "vi": "<name> đích thực là một cánh ong chăm chỉ, tất bật làm lụng không ngơi tay từ bình minh tới hoàng hôn. [He/She] dường như chẳng bao giờ nghỉ ngơi."
   },
   {
     "key": "perk_info_LordofMisrule",
     "type": 0,
     "en": "For some, tricks and buffoonery were a midwinter indulgence, but <name> liked to play jokes all year long.",
-    "vi": "Với vài người, trò đùa và hề nhảm chỉ dành cho giữa đông, nhưng <name> thích bày trò quanh năm."
+    "vi": "Với nhiều người, trò đùa cợt và hề hước chỉ dành cho những ngày giữa đông, nhưng <name> lại thích bày trò trêu chọc quanh năm suốt tháng."
   },
   {
     "key": "perk_info_Hedonist",
     "type": 0,
     "en": "Without a bit of excitement, <name> quickly gets bored, and starts causing trouble. Quite the drama queen.",
-    "vi": "Thiếu một chút náo nhiệt, <name> nhanh chóng chán và bắt đầu gây chuyện. Quả là người thích làm quá mọi thứ."
+    "vi": "Thiếu đi một chút kích thích náo nhiệt, <name> nhanh chóng chán nản và bắt đầu gây chuyện thị phi. Quả là kẻ thích làm quá mọi chuyện."
   },
   {
     "key": "perk_info_Listless",
     "type": 0,
     "en": "<name> tends to mope about complaining, and is a total wet blanket if anything fun is suggested. [He/She] generally isn't invited.",
-    "vi": "<name> thường ủ rũ than phiền và luôn làm cụt hứng mỗi khi ai đó đề nghị chuyện vui. [He/She] thường không được mời."
+    "vi": "<name> thường ủ rũ than phiền và luôn làm cụt hứng mỗi khi có ai đề xuất chuyện vui. [He/She] hầu như chẳng bao giờ được mời mọc."
   },
   {
     "key": "perk_info_Benevolent",
     "type": 0,
     "en": "<name> is a ray of hope in an otherwise bleak existence. [He/She] makes everyone feel better.",
-    "vi": "<name> là tia hy vọng giữa cuộc sống ảm đạm. [He/She] khiến mọi người cảm thấy khá hơn."
+    "vi": "<name> tựa như một tia hy vọng ấm áp giữa cuộc đời ảm đạm. [He/She] luôn mang lại niềm ủi an cho tất cả mọi người."
   },
   {
     "key": "perk_info_Ruthless",
     "type": 0,
     "en": "<name> is extremely candid, and doesn't suffer fools gladly. Those who can't handle the unvarnished truth tend to steer clear.",
-    "vi": "<name> cực kỳ thẳng thắn và không chịu nổi kẻ ngu ngốc. Ai không chấp nhận được sự thật trần trụi thường tránh xa."
+    "vi": "<name> cực kỳ bộc trực và chẳng hề khoan nhượng với những kẻ ngốc nghếch. Những ai không chịu nổi sự thật trần trụi tốt nhất nên tránh xa."
   },
   {
     "key": "perk_info_Brawler",
     "type": 0,
     "en": "Whenever a fist fight breaks out, you can guarantee that <name> started it.",
-    "vi": "Mỗi khi có đánh nhau bằng tay không, chắc chắn <name> là người khơi mào."
+    "vi": "Mỗi khi có một vụ ẩu đả tay không nổ ra, hãy chắc chắn rằng <name> chính là kẻ khơi mào."
   },
   {
     "key": "perk_info_Disfigured",
     "type": 0,
     "en": "After the fire, <name> did not really have a face, but [he/she] had a purpose. Few will look <name> in the eye.",
-    "vi": "Sau vụ cháy, <name> gần như không còn khuôn mặt, nhưng [he/she] vẫn có mục đích sống. Ít người dám nhìn thẳng vào mắt <name>."
+    "vi": "Sau trận hỏa hoạn, <name> không còn giữ được diện mạo nguyên vẹn, nhưng [he/she] vẫn có mục đích sống rõ ràng. Hiếm ai dám nhìn thẳng vào mắt <name>."
   },
   {
     "key": "perk_info_Illfavoured",
     "type": 0,
     "en": "<name> was born with a boss eye, which made it difficult to know where to look when speaking to [him/her].",
-    "vi": "<name> sinh ra với đôi mắt lé, khiến người khác khó biết nên nhìn vào đâu khi nói chuyện với [him/her]."
+    "vi": "<name> sinh ra với tật mắt lác, khiến người đối diện bối rối không biết nên nhìn vào đâu khi nói chuyện cùng [him/her]."
   },
   {
     "key": "perk_info_Winsome",
     "type": 0,
     "en": "Everyone loved <name>: the shy and the bold, knights, children, young and old. [He/She] was beautiful to behold.",
-    "vi": "Ai cũng yêu mến <name>: người nhút nhát lẫn táo bạo, hiệp sĩ, trẻ em, người trẻ lẫn già. [He/She] có vẻ đẹp khiến ai cũng phải ngắm nhìn."
+    "vi": "Ai nấy đều đem lòng yêu mến <name>: từ người nhút nhát đến kẻ bạo dạn, từ hiệp sĩ, trẻ thơ cho đến bực bách niên giai lão. [He/She] sở hữu vẻ khả ái khiến muôn người say đắm."
   },
   {
     "key": "perk_info_Fair",
     "type": 0,
     "en": "Who is the fairest of them all? <name> of course! [His/Her] natural charm makes it very hard for anyone to say 'no'.",
-    "vi": "Ai là người đẹp nhất? Tất nhiên là <name>! Sức quyến rũ tự nhiên của [His/Her] khiến người khác rất khó nói 'không'."
+    "vi": "Ai là người kiều diễm nhất thế gian? Hiển nhiên là <name>! Nét duyên dáng trời ban của [His/Her] khiến bất kỳ ai cũng khó lòng buông lời khước từ."
   },
   {
     "key": "perk_info_Ravishing",
     "type": 0,
     "en": "Of all the flowers in <village_name>, <name> bearest the prize. [He/She] is as bonny and blithe as a summer breeze.",
-    "vi": "Trong mọi đóa hoa ở <village_name>, <name> là người nổi bật nhất. [He/She] xinh đẹp và vui tươi như gió hè."
+    "vi": "Giữa muôn ngàn đóa hoa hương sắc tại <village_name>, <name> là bông hoa rực rỡ nhất. [He/She] kiều diễm và tươi tắn tựa cơn gió mùa hạ mát lành."
   },
   {
     "key": "perk_info_Swigger",
     "type": 0,
     "en": "It's thirsty work! <name> likes to drink on the job, and it makes [him/her] work faster.",
-    "vi": "Công việc này khát nước lắm! <name> thích uống rượu khi làm việc, và nó khiến [him/her] làm nhanh hơn."
+    "vi": "Làm lụng thật khát khô cả cổ! <name> thích nhấp chút men rượu trong lúc làm việc, và điều đó giúp [him/her] thao tác nhanh nhẹn hơn hẳn."
   },
   {
     "key": "perk_info_PunchDrunk",
     "type": 0,
     "en": "If you share alcohol with <name>, expect a black eye, or worse. [He/She] is an angry drunk.",
-    "vi": "Nếu uống rượu cùng <name>, hãy chuẩn bị nhận một mắt bầm hoặc tệ hơn. [He/She] rất hung dữ khi say."
+    "vi": "Nếu chia chén rượu cùng <name>, hãy chuẩn bị tinh thần bị đấm bầm mắt hoặc tệ hơn thế. [He/She] là kẻ vô cùng hung bạo khi say xỉn."
   },
   {
     "key": "perk_info_Lightweight",
     "type": 0,
     "en": "<name> really cannot hold [his/her] drink. Even a tiny tipple will make <name> doze off.",
-    "vi": "<name> thật sự không chịu được tửu lượng của [his/her]. Chỉ một ngụm nhỏ cũng khiến <name> ngủ gật."
+    "vi": "Tửu lượng của <name> thực sự rất kém, hầu như không giữ nổi thức uống của [his/her]. Thậm chí chỉ một hớp nhỏ cũng đủ khiến <name> lăn ra ngủ thiếp đi."
   },
   {
     "key": "perk_info_HeatResistant",
     "type": 0,
     "en": "Even in scorching conditions, <name> can take the heat. [He/She] loves working in the sun.",
-    "vi": "Ngay cả trong cái nóng thiêu đốt, <name> vẫn chịu được nhiệt. [He/She] thích làm việc dưới nắng."
+    "vi": "Ngay cả dưới cái nắng hè thiêu đốt, <name> vẫn kiên cường chịu đựng cái nóng. [He/She] rất thích làm việc dưới ánh mặt trời."
   },
   {
     "key": "perk_info_ColdHardy",
     "type": 0,
     "en": "<name> seems impervious to the cold. [He/She] works on throughout the harshest days of winter.",
-    "vi": "<name> dường như không bị ảnh hưởng bởi giá lạnh. [He/She] vẫn làm việc suốt những ngày đông khắc nghiệt nhất."
+    "vi": "<name> dường như miễn nhiễm trước băng giá. [He/She] vẫn miệt mài làm lụng xuyên suốt những ngày đông khắc nghiệt nhất."
   },
   {
     "key": "perk_info_HotBlooded",
     "type": 0,
     "en": "<name> seems to be permanently overheated, throwing open windows and shunning warm clothes. [He/She] should be kept cool.",
-    "vi": "<name> dường như lúc nào cũng quá nóng, luôn mở tung cửa sổ và tránh quần áo ấm. Cần giữ cho [He/She] được mát."
+    "vi": "<name> dường như lúc nào cũng nóng bức trong người, luôn mở toang cửa sổ và né tránh trang phục ấm. Hãy luôn giữ cho [He/She] được mát mẻ."
   },
   {
     "key": "perk_info_Chilly",
     "type": 0,
     "en": "<name> always complains of draughts and chills, and huddles close to the fire. [He/She] must be kept warm.",
-    "vi": "<name> luôn than phiền về gió lùa và cái lạnh, rồi co ro sát bên lửa. Cần giữ ấm cho [He/She]."
+    "vi": "<name> luôn miệng than phiền về gió lùa và giá rét, rồi co ro bên bếp lửa. Cần phải giữ ấm cẩn thận cho [He/She]."
   },
   {
     "key": "perk_info_Vulnerable",
     "type": 0,
     "en": "<name> suffers constantly from gout or flux, rashes or spasms. [His/Her] constitution is decidedly feeble.",
-    "vi": "<name> liên tục chịu đựng bệnh gút hoặc kiết lỵ, phát ban hay co thắt. Thể trạng của [His/Her] rõ ràng rất yếu."
+    "vi": "<name> liên tục bị hành hạ bởi chứng thống phong, kiết lỵ, phát ban hay co giật. Thể trạng của [His/Her] quả thực vô cùng ốm yếu."
   },
   {
     "key": "perk_info_ElfShot",
     "type": 0,
     "en": "Excruciating back pains that <name> endures were doubtless caused by fairy arrows. What had [he/she] done to deserve such misery?",
-    "vi": "Những cơn đau lưng khủng khiếp mà <name> phải chịu chắc chắn do tên của tiên gây ra. [he/she] đã làm gì để đáng chịu khổ như vậy?"
+    "vi": "Những cơn đau lưng quằn quại mà <name> phải gánh chịu chắc chắn là do mũi tên ma thuật của tiên tộc găm vào. [he/she] đã làm gì nên tội để phải chịu nỗi đày đọa như vậy?"
   },
   {
     "key": "perk_info_GreenThumb",
     "type": 0,
     "en": "<name> has always loved plants...sometimes better than people. [He/She] tends them, and they thrive.",
-    "vi": "<name> luôn yêu cây cối... đôi khi còn hơn con người. [He/She] chăm sóc chúng và chúng sinh trưởng tốt."
+    "vi": "<name> luôn dành tình yêu tha thiết cho cỏ cây hoa lá... đôi khi còn hơn cả con người. Dưới bàn tay chăm sóc của [He/She], chúng sinh trưởng vô cùng tươi tốt."
   },
   {
     "key": "perk_info_Strapping",
     "type": 0,
     "en": "<name> is as strong as an ox. [He/She] is always hale and hearty, and never laid low.",
-    "vi": "<name> khỏe như bò mộng. [He/She] luôn cường tráng và chẳng bao giờ gục ngã."
+    "vi": "<name> khỏe mạnh cường tráng tựa mãnh ngưu. [He/She] lúc nào cũng tráng kiện khỏe khoắn và chẳng bao giờ bị ốm đau quật ngã."
   },
   {
     "key": "perk_info_Wicche",
     "type": 0,
     "en": "<name> is highly attuned to the natural world. [He/She] listens closely to the feral whispers of plants and animals.",
-    "vi": "<name> vô cùng hòa hợp với thế giới tự nhiên. [He/She] chăm chú lắng nghe lời thì thầm hoang dã của cây cỏ và muông thú."
+    "vi": "<name> vô cùng hòa hợp với thế giới tự nhiên. [He/She] chăm chú lắng nghe những lời thì thầm hoang dã của cây cỏ và muông thú."
   },
   {
     "key": "perk_info_Ascetic",
     "type": 0,
     "en": "<name> has mastered discipline and self-denial. [He/She] shuns comfort, preferring the austerity of a cold, bare cell.",
-    "vi": "<name> đã làm chủ tính kỷ luật và sự tiết chế. [He/She] tránh xa tiện nghi, thích sự khắc khổ của một căn phòng lạnh lẽo trống trải."
+    "vi": "<name> đã làm chủ tính kỷ luật và sự khổ hạnh. [He/She] xa lánh mọi tiện nghi xa hoa, chuộng sự thanh bần trong căn phòng lạnh lẽo đơn sơ."
   },
   {
     "key": "perk_info_Dainty",
     "type": 0,
     "en": "<name> needs the finer things in life to thrive. [He/She] struggles to cope with little things like dirt, cold and hardship.",
-    "vi": "<name> cần những thứ tốt đẹp trong đời để phát triển. [He/She] khó chịu đựng những điều nhỏ nhặt như bụi bẩn, giá lạnh và gian khổ."
+    "vi": "<name> cần những điều thanh tao nhã nhặn trong cuộc sống để cảm thấy thoải mái. [He/She] khó lòng chịu đựng những thứ nhỏ nhặt như bùn đất, giá lạnh và gian khổ."
   },
   {
     "key": "perk_info_Precious",
     "type": 0,
     "en": "<name> is thin skinned, delicate and nervy. It is important to keep [him/her] comfortable.",
-    "vi": "<name> nhạy cảm, yếu ớt và dễ căng thẳng. Điều quan trọng là giữ cho [him/her] được thoải mái."
+    "vi": "<name> là người nhạy cảm, mỏng manh và dễ căng thẳng âu lo. Điều tối quan trọng là luôn giữ cho [him/her] được an tâm và thoải mái."
   },
   {
     "key": "perk_info_Whirlwind",
     "type": 0,
     "en": "<name> runs like the wind, fleet as a deer. [He/She] also walks at quite a clip.",
-    "vi": "<name> chạy nhanh như gió, lẹ như hươu. [He/She] đi bộ cũng rất nhanh."
+    "vi": "<name> chạy nhanh như cơn lốc, thoăn thoắt tựa loài hươu rừng. Tốc độ sải bước khi đi bộ của [He/She] cũng cực kỳ nhanh nhẹn."
   },
   {
     "key": "perk_info_FleetFooted",
     "type": 0,
     "en": "It always feels as though <name> is one step ahead. [His/Her] long legs and rapid stride are the reason.",
-    "vi": "Dường như <name> luôn đi trước một bước. Đôi chân dài và sải bước nhanh của [His/Her] chính là lý do."
+    "vi": "Cảm giác như <name> luôn đi trước người khác một bước. Đôi chân dài cùng những bước sải nhanh thoăn thoắt của [His/Her] chính là bí quyết."
   },
   {
     "key": "perk_info_Brawny",
     "type": 0,
     "en": "<name> is powerful and carries out tough jobs effortlessly.",
-    "vi": "<name> rất khỏe và hoàn thành những việc nặng nhọc không chút khó khăn."
+    "vi": "<name> sở hữu sức mạnh cơ bắp dồi dào và gánh vác các công việc nặng nhọc một cách nhẹ nhàng không tốn chút sức lực."
   },
   {
     "key": "perk_info_Sluggardly",
     "type": 0,
     "en": "Always tardy, always tired. <name> is short on punctuality and is slow to get things done.",
-    "vi": "Luôn trễ nải, luôn mệt mỏi. <name> thiếu đúng giờ và làm việc gì cũng chậm."
+    "vi": "Lúc nào cũng trễ tràng, lúc nào cũng uể oải. <name> rất kém trong việc đúng giờ và làm việc gì cũng chậm như rùa bò."
   },
   {
     "key": "perk_info_Laggardly",
     "type": 0,
     "en": "<name> struggles to keep up. [He/She] lags behind the others, and takes longer than most to perform the smallest task.",
-    "vi": "<name> khó theo kịp mọi người. [He/She] tụt lại phía sau và mất nhiều thời gian hơn người khác ngay cả với việc nhỏ nhất."
+    "vi": "<name> luôn chật vật để bắt kịp mọi người. [He/She] thường tụt lại phía sau và tốn nhiều thời gian hơn hẳn người khác ngay cả với những việc vụn vặt nhất."
   },
   {
     "key": "perk_info_Hefty",
     "type": 0,
     "en": "<name> is exceptionally large, practically a giant in fact. [He/She] is not built for speed.",
-    "vi": "<name> để lớn khác thường, gần như một người khổng lồ. [He/She] không sinh ra để chạy nhanh."
+    "vi": "<name> to lớn vạm vỡ khác thường, trên thực tế chẳng khác nào một người khổng lồ. [He/She] không được sinh ra cho những việc cần tốc độ."
   },
   {
     "key": "perk_info_SunSeeker",
     "type": 0,
     "en": "<name> comes alive when the sun is shining. A few golden rays is all it takes to bring out the best in [him/her].",
-    "vi": "<name> tràn đầy sức sống khi mặt trời tỏa sáng. Chỉ vài tia nắng vàng cũng đủ khơi dậy điều tốt nhất ở [him/her]."
+    "vi": "<name> bừng sáng sức sống mỗi khi ánh dương rạng rỡ. Chỉ cần vài tia nắng vàng ấm áp cũng đủ để đánh thức mọi tiềm năng tốt nhất trong [him/her]."
   },
   {
     "key": "perk_info_SnowWhite",
     "type": 0,
     "en": "<name> loves nothing better than the biting air and crisp frost of midwinter. [He/She] thrives in the cold.",
-    "vi": "<name> không gì thích hơn không khí buốt giá và sương lạnh giữa đông. [He/She] phát triển mạnh trong giá rét."
+    "vi": "<name> chẳng yêu thích gì hơn bầu không khí buốt giá và làn sương tuyết tinh khôi giữa mùa đông. [He/She] phát triển vô cùng mạnh mẽ trong giá lạnh."
   },
   {
     "key": "perk_info_Washout",
     "type": 0,
     "en": "If there are rainclouds about, <name> is going to be very unhappy. Getting wet makes [him/her] as miserable as sin.",
-    "vi": "Nếu mây mưa kéo đến, <name> sẽ rất buồn bực. Bị ướt khiến [him/her] khổ sở vô cùng."
+    "vi": "Nếu mây đen kéo đến báo hiệu cơn mưa, <name> sẽ vô cùng buồn bực chán chường. Việc bị ướt sũng khiến [him/her] cảm thấy khổ sở tột cùng."
   },
   {
     "key": "perk_info_Dullard",
     "type": 0,
     "en": "It takes <name> a long time to catch on to things, and [he/she] requires a lot of patience. Even then, <name> may not understand.",
-    "vi": "<name> mất rất lâu mới hiểu được mọi việc, và [he/she] cần được kiên nhẫn chỉ bảo. Dù vậy, <name> vẫn có thể không hiểu."
+    "vi": "<name> tiếp thu mọi việc rất chậm chạp, và [he/she] cần người khác phải kiên nhẫn hết mức. Ngay cả khi được chỉ bảo tường tận, <name> vẫn có thể chẳng hiểu gì."
   },
   {
     "key": "perk_info_Wise",
     "type": 0,
     "en": "<name> often sees things from a new angle, and thinks differently from most. [He/She] is a problem solver.",
-    "vi": "<name> thường nhìn sự việc từ góc độ mới và suy nghĩ khác số đông. [He/She] rất giỏi giải quyết vấn đề."
+    "vi": "<name> luôn biết nhìn nhận sự việc từ góc nhìn mới mẻ và có lối tư duy khác biệt với số đông. [He/She] là bậc thầy giải quyết vấn đề."
   },
   {
     "key": "perk_info_Erudite",
     "type": 0,
     "en": "<name> has a rare intellect, and could even be called gifted. [He/She] learns extremely quickly.",
-    "vi": "<name> có trí tuệ hiếm có, thậm chí có thể gọi là thiên tài. [He/She] học cực kỳ nhanh."
+    "vi": "<name> sở hữu trí tuệ uyên bác hiếm thấy, thậm chí có thể coi là bậc thiên tài bẩm sinh. [He/She] tiếp thu và học hỏi cực kỳ nhanh chóng."
   },
   {
     "key": "perk_info_Bloodlust",
     "type": 0,
     "en": "<name> comes into [his/her] own in a fight, roused by the prospect of violent slaughter.",
-    "vi": "<name> phát huy hết khả năng của [his/her] trong chiến đấu, phấn khích trước viễn cảnh chém giết dữ dội."
+    "vi": "<name> như tìm lại chính mình [his/her] khi lao vào trận chiến, phấn khích tột độ trước viễn cảnh chém giết tàn khốc."
   },
   {
     "key": "perk_info_Callous",
     "type": 0,
     "en": "<name> is unmoved by human mortality. Flesh is a mere commodity, once the soul has fled.",
-    "vi": "<name> không hề lay động trước cái chết của con người. Khi linh hồn đã rời đi, xác thịt chỉ còn là một món hàng."
+    "vi": "<name> hoàn toàn dửng dưng trước lẽ sinh tử của kiếp người. Một khi linh hồn đã lìa khỏi xác, thân xác thịt chỉ đơn thuần là món hàng hoá không hơn."
   },
   {
     "key": "perk_info_Cannibal",
     "type": 0,
     "en": "<name> is a merciless butcher and devourer of men. [He/She] is fortified by human flesh.",
-    "vi": "<name> là kẻ đồ tể không khoan nhượng và ăn thịt người. [He/She] được bồi bổ bằng thịt người."
+    "vi": "<name> là kẻ đồ tể tàn bạo chuyên săn lùng và ăn thịt đồng loại. [He/She] được tiếp thêm sinh lực hùng mạnh nhờ thịt người."
   },
   {
     "key": "perk_info_Gossipmonger",
     "type": 0,
     "en": "<name> makes it [his/her] business to know everyone's business, and to share it widely.",
-    "vi": "<name> xem việc biết chuyện của mọi người là bổn phận của [his/her], rồi đem kể khắp nơi."
+    "vi": "<name> coi việc hóng hớt chuyện thiên hạ là bổn phận của [his/her], rồi đem đi rêu rao tán phát khắp hang cùng ngõ hẻm."
   },
   {
     "key": "perk_info_BoneCollector",
     "type": 0,
     "en": "Where others see death, <name> sees potential. Bones remember, after all.",
-    "vi": "Nơi người khác thấy cái chết, <name> nhìn thấy tiềm năng. Dù sao xương cốt vẫn lưu giữ ký ức."
+    "vi": "Nơi người khác chỉ thấy cái chết, <name> lại nhìn ra tiềm năng vô tận. Bởi suy cho cùng, xương cốt vẫn luôn lưu giữ ký ức."
   },
   {
     "key": "perk_info_Macabre",
     "type": 0,
     "en": "To <name>, rot is hallowed, and every mouldering corpse a tale well told.",
-    "vi": "Đối với <name>, sự mục rữa thối tàn là điều thiêng liêng huyền bí, và mỗi nấm mồ xác thịt rữa nát là một thiên sử thi đáng để nghiền ngẫm."
+    "vi": "Đối với <name>, sự mục rữa thối tàn là điều thiêng liêng huyền bí, và mỗi thi thể đang tan rữa là một thiên sử thi đáng để nghiền ngẫm."
   },
   {
     "key": "perk_info_Pyromancer",
     "type": 0,
     "en": "Smoke clings to <name> as shadow to bone, and embers stir at [his/her] passing.",
-    "vi": "Mùi khói lửa quấn quýt quanh thân thể <name> như hình với bóng, và những tàn tro rực cháy luôn bùng lên mỗi khi [his/her] bước qua."
+    "vi": "Mùi khói lửa quấn quýt quanh thân thể <name> như hình với bóng, và những tàn tro rực cháy luôn bùng lên theo từng bước chân của [his/her]."
   },
   {
     "key": "perk_info_SweetToothed",
     "type": 0,
     "en": "Some jest that <name> would barter gold for a pot of honey, and count the trade fair made.",
-    "vi": "Mọi người thường đùa rằng <name> sẵn sàng đem cả túi tiền vàng để đổi lấy một hũ mật ong rừng, và vẫn đắc ý cho rằng đó là một món hời lớn."
+    "vi": "Người ta thường đùa rằng <name> sẵn sàng đổi cả túi vàng ròng chỉ để lấy một hũ mật ong rừng, và vẫn đắc ý cho rằng đó là một món hời lớn."
   },
   {
     "key": "perk_info_Prophet",
     "type": 0,
     "en": "Often bedridden and of weak constitution, <name>'s foretelling of events quakes even the stoutest of hearts",
-    "vi": "Thường xuyên nằm liệt giường với thể trạng đau yếu, nhưng những lời sấm truyền tiên tri của <name> luôn khiến cả những trái tim can trường nhất cũng phải rùng mình khiếp sợ."
+    "vi": "Dù thường xuyên nằm liệt giường với thể trạng đau yếu, những lời sấm truyền tiên tri của <name> luôn khiến cả những trái tim can trường nhất cũng phải rùng mình run sợ."
   },
   {
     "key": "perk_info_Mudskipper",
     "type": 0,
     "en": "<name> strides merrily through mire and fen, marsh and moor. The wetter, the better.",
-    "vi": "<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, bùn lầy, đồng hoang nước ngập. Càng ướt át trơn trượt bao nhiêu, bước chân lại càng hăng say bấy nhiêu."
+    "vi": "<name> sải bước đầy sảng khoái và thoăn thoắt qua đầm lầy, vũng bùn và đồng hoang ngập nước. Càng lầy lội trơn trượt bao nhiêu, bước chân lại càng hăng say bấy nhiêu."
   },
   {
     "key": "perk_info_Flamekissed",
     "type": 0,
     "en": "<name> cowers before fire like a slave before a cruel master. Flames cling to [him/her] longer than most, carving dark, angry scars.",
-    "vi": "<name> khiếp đảm co rúm trước ngọn lửa tựa như nô lệ trước người chủ hung tàn. Lửa bám lấy [him/her] dai dẳng hơn người khác, để lại những vết bỏng sẹo thâm đen đau đớn."
+    "vi": "<name> khiếp đảm co rúm trước ngọn lửa tựa như nô lệ trước tên chủ bạo tàn. Lửa bám lấy [him/her] dai dẳng hơn người khác, khắc sâu những vết sẹo thâm đen đau đớn."
   },
   {
     "key": "perk_info_Riverborn",
     "type": 0,
     "en": "<name> glides through water like an eel, untroubled by wet or chill. Fish leap to [his/her] nets as if by old magic.",
-    "vi": "<name> lướt đi trong dòng nước mềm mại tựa loài lươn biển, chẳng hề bận tâm trước cái lạnh cắt da hay sóng gió. Tôm cá như bị ma thuật cổ xưa dẫn dụ thi nhau nhảy vào lưới của [his/her]."
+    "vi": "<name> lướt đi trong làn nước uyển chuyển tựa loài lươn biển, chẳng hề bận tâm trước sóng gió hay cái lạnh cắt da. Tôm cá như bị ma thuật cổ xưa dẫn dụ thi nhau nhảy vào lưới của [his/her]."
   },
   {
     "key": "perk_info_Workshy",
@@ -477,7 +477,7 @@
     "key": "perk_info_Bowdrunk",
     "type": 0,
     "en": "A quiver on the hip and a rhythm in the draw - <name> is obsessed with perfecting every shot.",
-    "vi": "Bao tên bên hông và nhịp thở đều đặn khi giương cung — <name> bị mê hoặc tột cùng với việc trau chuốt từng phát bắn đạt độ chuẩn xác tuyệt đối."
+    "vi": "Bao tên bên hông cùng nhịp kéo cung điêu luyện — <name> bị mê hoặc tột cùng với việc trau chuốt từng phát bắn đạt độ chuẩn xác tuyệt đối."
   },
   {
     "key": "perk_info_Siegewise",
@@ -489,31 +489,31 @@
     "key": "perk_info_Wardenborn",
     "type": 0,
     "en": "<name> has a calm authority that settles even the most restless prisoner. [He/She] knows when to speak, when to watch, and when to turn the key.",
-    "vi": "<name> toát ra một uy quyền điềm tĩnh và lạnh lùng khiến ngay cả những tù nhân hung hãn ngỗ ngược nhất cũng phải ngoan ngoãn quy phục. [He/She] biết chính xác lúc nào nên đe nẹt, lúc nào nên quan sát và lúc nào nên tra chìa khóa vào ổ ngục."
+    "vi": "<name> toát ra một uy quyền điềm tĩnh khiến ngay cả những tù nhân hung hãn ngỗ ngược nhất cũng phải ngoan ngoãn quy phục. [He/She] biết chính xác lúc nào nên đe nẹt, lúc nào nên quan sát và lúc nào nên tra chìa khóa vào ổ ngục."
   },
   {
     "key": "perk_info_Pitiless",
     "type": 0,
     "en": "<name> strips prisoners, sneers at their pleas, and never remembers thier names. Mercy is not part of the job.",
-    "vi": "<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc."
+    "vi": "<name> lạnh lùng lột sạch tư trang tù binh, cười nhạo trước những lời van xin thảm thiết và chẳng bao giờ bận tâm nhớ tên họ. Lòng trắc ẩn không có chỗ trong công việc này."
   },
   {
     "key": "perk_info_Wildwyrd",
     "type": 0,
     "en": "<name> can soothe a raging goat or bring a wild dog to heel with a mere murmur. Creatures know to obey.",
-    "vi": "<name> có thể thuần phục một con dê núi đang nổi điên hay khiến một con chó hoang hung dữ phải cúi đầu phủ phục chỉ bằng một tiếng thì thầm êm dịu. Muôn loài muông thú đều tự nhiên lắng nghe và phục tùng."
+    "vi": "<name> có thể xoa dịu một con dê núi đang nổi điên hay khiến một con chó hoang hung tợn phải cúi đầu phục tùng chỉ bằng một tiếng thì thầm êm dịu. Muông thú tự khắc biết nghe lời."
   },
   {
     "key": "perk_info_Herbivore",
     "type": 0,
     "en": "<name> eats only plants, not from piety but preference. Raw cabbages? Delicious.",
-    "vi": "<name> tuyệt đối chỉ ăn hoa màu và thực vật, không hẳn vì giới luật tôn giáo mà đơn thuần là do sở thích cá nhân. Một bắp cải sống giòn tan? Thật là mỹ vị trần gian."
+    "vi": "<name> chỉ ăn hoa màu và thực vật, không phải vì giới luật tôn giáo mà đơn thuần do sở thích cá nhân. Một bắp cải sống giòn ngọt? Thật là mỹ vị trần gian."
   },
   {
     "key": "perk_info_Steadfast",
     "type": 0,
     "en": "Faced with torture, starvation, or hopelessness, <name> refuses to break. [He/She] has faced horror before, and kept walking.",
-    "vi": "Đứng trước mọi hình phạt tra tấn dã man, đói khát cùng cực hay tuyệt vọng đen tối nhất, <name> kiên quyết không bao giờ chịu khuất phục. [He/She] từng bước qua địa ngục trần gian trong quá khứ và vẫn ngẩng cao đầu vững bước tiến lên."
+    "vi": "Đứng trước mọi cực hình tra tấn dã man, đói khát cùng cực hay tuyệt vọng đen tối nhất, <name> kiên quyết không bao giờ chịu khuất phục. [He/She] từng bước qua địa ngục trần gian trong quá khứ và vẫn ngẩng cao đầu vững bước tiến lên."
   },
   {
     "key": "perk_info_Nimbleblade",
@@ -537,13 +537,13 @@
     "key": "perk_info_Splinter",
     "type": 0,
     "en": "<name> sometimes wakes up screaming, convinced [he/she] isn't alone in [his/her] own mind. And maybe [he/she]'s right.",
-    "vi": "<name> thỉnh thoảng choàng tỉnh dậy giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của [his/her]. Và có lẽ [he/she] đã hoàn toàn đúng."
+    "vi": "<name> thỉnh thoảng choàng tỉnh giữa đêm trong tiếng thét kinh hoàng, tin chắc rằng [he/she] không hề đơn độc bên trong tâm trí của [his/her]. Và có lẽ [he/she] đã hoàn toàn đúng."
   },
   {
     "key": "perk_info_Reeky",
     "type": 0,
     "en": "No matter how often <name> bathes, [he/she] has a distinct whiff of rot about [him/her]. Animals avoid <name>. So do people.",
-    "vi": "Bất kể <name> có kỳ cọ tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra một mùi hôi nồng nặc quanh [him/her]. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
+    "vi": "Bất kể <name> có tắm rửa thường xuyên đến đâu, [he/she] vẫn luôn toát ra mùi hôi nồng nặc quanh [him/her]. Cả muôn thú lẫn con người đều tìm cách né tránh đứng gần <name>."
   },
   {
     "key": "perk_info_Bareknuckled",
@@ -615,12 +615,12 @@
     "key": "dev_add_perk",
     "type": 0,
     "en": "Add Perk",
-    "vi": "Thêm đặc điểm"
+    "vi": "Thêm Đặc Tính"
   },
   {
     "key": "dev_tooltip_add_perk",
     "type": 0,
     "en": "Click on a Settler to Add the selected Perk to them",
-    "vi": "Nhấp vào một dân làng để thêm đặc điểm đã chọn cho họ"
+    "vi": "Nhấp vào một dân làng để thêm Đặc tính đã chọn cho họ"
   }
 ]

@@ -105,25 +105,25 @@
     "key": "building_name_shrine_christian_stone",
     "type": 0,
     "en": "Restitutionist Shrine (Limestone)",
-    "vi": "Đền Hội Phục Hưng (đá vôi)"
+    "vi": "Đền Hội Phục Hưng (Đá Vôi)"
   },
   {
     "key": "building_name_shrine_christian_wood",
     "type": 0,
     "en": "Restitutionist Shrine (Wood)",
-    "vi": "Đền Hội Phục Hưng (gỗ)"
+    "vi": "Đền Hội Phục Hưng (Gỗ)"
   },
   {
     "key": "building_name_shrine_pagan_stone",
     "type": 0,
     "en": "Oak Brethren Shrine (Limestone)",
-    "vi": "Đền Huynh Đệ Cây Sồi (đá vôi)"
+    "vi": "Đền Huynh Đệ Cây Sồi (Đá Vôi)"
   },
   {
     "key": "building_name_shrine_pagan_wood",
     "type": 0,
     "en": "Oak Brethren Shrine (Wood)",
-    "vi": "Đền Huynh Đệ Cây Sồi (gỗ)"
+    "vi": "Đền Huynh Đệ Cây Sồi (Gỗ)"
   },
   {
     "key": "building_name_general_christian_shrine",
@@ -141,43 +141,43 @@
     "key": "building_name_statue_fate_stone",
     "type": 0,
     "en": "Statue Fate Stone",
-    "vi": "Tượng Định mệnh bằng đá"
+    "vi": "Tượng Vận Mệnh (Đá)"
   },
   {
     "key": "building_name_statue_fate_wood",
     "type": 0,
     "en": "Statue Fate Wood",
-    "vi": "Tượng Định mệnh bằng gỗ"
+    "vi": "Tượng Vận Mệnh (Gỗ)"
   },
   {
     "key": "building_name_statue_knight",
     "type": 0,
     "en": "Statue Knight",
-    "vi": "Tượng hiệp sĩ"
+    "vi": "Tượng Hiệp Sĩ"
   },
   {
     "key": "building_name_statue_obelisk",
     "type": 0,
     "en": "Statue Obelisk",
-    "vi": "Tượng đài obelisk"
+    "vi": "Đài Tưởng Niệm Obelisk"
   },
   {
     "key": "building_name_statue_pagan_stone",
     "type": 0,
     "en": "Statue Pagan Stone",
-    "vi": "Tượng ngoại giáo bằng đá"
+    "vi": "Tượng Cổ Tín (Đá)"
   },
   {
     "key": "building_name_statue_pagan_wood",
     "type": 0,
     "en": "Statue Pagan Wood",
-    "vi": "Tượng ngoại giáo bằng gỗ"
+    "vi": "Tượng Cổ Tín (Gỗ)"
   },
   {
     "key": "building_name_statue_woman",
     "type": 0,
     "en": "Statue Woman",
-    "vi": "Tượng phụ nữ"
+    "vi": "Tượng Thiếu Nữ"
   },
   {
     "key": "building_name_general_torch",
@@ -189,241 +189,241 @@
     "key": "building_name_gold_torch",
     "type": 0,
     "en": "Torch (Gold)",
-    "vi": "Đuốc (vàng)"
+    "vi": "Đuốc (Vàng)"
   },
   {
     "key": "building_name_gold_torch_wall",
     "type": 0,
     "en": "Wall Torch (Gold)",
-    "vi": "Đuốc tường (vàng)"
+    "vi": "Đuốc Treo Tường (Vàng)"
   },
   {
     "key": "building_name_silver_torch",
     "type": 0,
     "en": "Torch (Silver)",
-    "vi": "Đuốc (bạc)"
+    "vi": "Đuốc (Bạc)"
   },
   {
     "key": "building_name_silver_torch_wall",
     "type": 0,
     "en": "Wall Torch (Silver)",
-    "vi": "Đuốc tường (bạc)"
+    "vi": "Đuốc Treo Tường (Bạc)"
   },
   {
     "key": "building_name_iron_torch",
     "type": 0,
     "en": "Torch (Iron)",
-    "vi": "Đuốc (sắt)"
+    "vi": "Đuốc (Sắt)"
   },
   {
     "key": "building_name_iron_tourch_wall",
     "type": 0,
     "en": "Wall Torch (Iron)",
-    "vi": "Đuốc tường (sắt)"
+    "vi": "Đuốc Treo Tường (Sắt)"
   },
   {
     "key": "building_name_general_wall_torch",
     "type": 0,
     "en": "Wall Torch",
-    "vi": "Đuốc tường"
+    "vi": "Đuốc Treo Tường"
   },
   {
     "key": "building_name_wood_torch",
     "type": 0,
     "en": "Torch (Wood)",
-    "vi": "Đuốc (gỗ)"
+    "vi": "Đuốc (Gỗ)"
   },
   {
     "key": "building_name_wood_torch_wall",
     "type": 0,
     "en": "Wall Torch (Wood)",
-    "vi": "Đuốc tường (gỗ)"
+    "vi": "Đuốc Treo Tường (Gỗ)"
   },
   {
     "key": "building_name_chair",
     "type": 0,
     "en": "Chair",
-    "vi": "Ghế tựa"
+    "vi": "Ghế Tựa"
   },
   {
     "key": "building_name_stool",
     "type": 0,
     "en": "Stool",
-    "vi": "Ghế đẩu"
+    "vi": "Ghế Đẩu"
   },
   {
     "key": "building_name_stone_chair",
     "type": 0,
     "en": "Stone Chair",
-    "vi": "Ghế tựa đá"
+    "vi": "Ghế Tựa Đá"
   },
   {
     "key": "building_name_stone_stool",
     "type": 0,
     "en": "Stone Stool",
-    "vi": "Ghế đẩu đá"
+    "vi": "Ghế Đẩu Đá"
   },
   {
     "key": "building_name_wicker_stool",
     "type": 0,
     "en": "Wicker Stool",
-    "vi": "Ghế đẩu đan lát"
+    "vi": "Ghế Đẩu Liễu Gai"
   },
   {
     "key": "building_name_wood_chair",
     "type": 0,
     "en": "Wooden Chair",
-    "vi": "Ghế tựa gỗ"
+    "vi": "Ghế Tựa Gỗ"
   },
   {
     "key": "building_name_wood_stool",
     "type": 0,
     "en": "Wooden Stool",
-    "vi": "Ghế đẩu gỗ"
+    "vi": "Ghế Đẩu Gỗ"
   },
   {
     "key": "building_name_iron_chair",
     "type": 0,
     "en": "Iron Chair",
-    "vi": "Ghế tựa sắt"
+    "vi": "Ghế Tựa Sắt"
   },
   {
     "key": "building_name_quality_chair",
     "type": 0,
     "en": "Quality Chair",
-    "vi": "Ghế tựa chất lượng"
+    "vi": "Ghế Tựa Cao Cấp"
   },
   {
     "key": "building_name_quality_chair_wool",
     "type": 0,
     "en": "Quality Chair (Wool)",
-    "vi": "Ghế tựa chất lượng (len)"
+    "vi": "Ghế Tựa Cao Cấp (Len)"
   },
   {
     "key": "building_name_quality_chair_linen",
     "type": 0,
     "en": "Quality Chair (Linen)",
-    "vi": "Ghế tựa chất lượng (lanh)"
+    "vi": "Ghế Tựa Cao Cấp (Vải Lanh)"
   },
   {
     "key": "building_name_stone_table_large",
     "type": 0,
     "en": "Stone Table Large",
-    "vi": "Bàn đá lớn"
+    "vi": "Bàn Đá Lớn"
   },
   {
     "key": "building_name_stone_table_medium",
     "type": 0,
     "en": "Stone Table Medium",
-    "vi": "Bàn đá vừa"
+    "vi": "Bàn Đá Vừa"
   },
   {
     "key": "building_name_stone_table_small",
     "type": 0,
     "en": "Stone Table Small",
-    "vi": "Bàn đá nhỏ"
+    "vi": "Bàn Đá Nhỏ"
   },
   {
     "key": "building_name_wood_table_large",
     "type": 0,
     "en": "Wooden Table Large",
-    "vi": "Bàn gỗ lớn"
+    "vi": "Bàn Gỗ Lớn"
   },
   {
     "key": "building_name_wood_table_medium",
     "type": 0,
     "en": "Wooden Table Medium",
-    "vi": "Bàn gỗ vừa"
+    "vi": "Bàn Gỗ Vừa"
   },
   {
     "key": "building_name_wood_table_small",
     "type": 0,
     "en": "Wooden Table Small",
-    "vi": "Bàn gỗ nhỏ"
+    "vi": "Bàn Gỗ Nhỏ"
   },
   {
     "key": "building_name_general_table_large",
     "type": 0,
     "en": "Large Table",
-    "vi": "Bàn lớn"
+    "vi": "Bàn Lớn"
   },
   {
     "key": "building_name_general_table_medium",
     "type": 0,
     "en": "Medium Table ",
-    "vi": "Bàn vừa "
+    "vi": "Bàn Vừa"
   },
   {
     "key": "building_name_general_table_small",
     "type": 0,
     "en": "Small Table ",
-    "vi": "Bàn nhỏ "
+    "vi": "Bàn Nhỏ"
   },
   {
     "key": "building_name_quality_table_large",
     "type": 0,
     "en": "Quality Table Large",
-    "vi": "Bàn chất lượng lớn"
+    "vi": "Bàn Cao Cấp Lớn"
   },
   {
     "key": "building_name_quality_table_medium",
     "type": 0,
     "en": "Quality Table Medium",
-    "vi": "Bàn chất lượng vừa"
+    "vi": "Bàn Cao Cấp Vừa"
   },
   {
     "key": "building_name_quality_table_small",
     "type": 0,
     "en": "Quality Table Small",
-    "vi": "Bàn chất lượng nhỏ"
+    "vi": "Bàn Cao Cấp Nhỏ"
   },
   {
     "key": "building_name_wall_bookshelf",
     "type": 0,
     "en": "Wall Bookshelf",
-    "vi": "Giá sách tường"
+    "vi": "Kệ Sách Treo Tường"
   },
   {
     "key": "building_name_wall_decoration_christian",
     "type": 0,
     "en": "Church of Restitution Wall Decoration",
-    "vi": "Trang trí tường Hội Phục Hưng"
+    "vi": "Trang Trí Tường Hội Phục Hưng"
   },
   {
     "key": "building_name_wall_decoration_pagan",
     "type": 0,
     "en": "Oak Brethren Wall Decoration",
-    "vi": "Vật Trang Trí Tường Huynh Đệ Cây Sồi"
+    "vi": "Trang Trí Tường Huynh Đệ Cây Sồi"
   },
   {
     "key": "building_name_wall_mirror",
     "type": 0,
     "en": "Wall Mirror",
-    "vi": "Gương Soi Treo Tường"
+    "vi": "Gương Treo Tường"
   },
   {
     "key": "building_name_wall_pottery_shelf",
     "type": 0,
     "en": "Wall Pottery Shelf",
-    "vi": "Kệ Gốm Treo Tường"
+    "vi": "Kệ Đồ Gốm Treo Tường"
   },
   {
     "key": "building_name_wall_stone_lion_head",
     "type": 0,
     "en": "Wall Stone Lion Head",
-    "vi": "Tượng Đầu Sư Tử Đá Gắn Tường"
+    "vi": "Đầu Sư Tử Đá Gắn Tường"
   },
   {
     "key": "building_name_wall_tapestry",
     "type": 0,
     "en": "Wall Tapestry",
-    "vi": "Thảm Dệt Nghệ Thuật Treo Tường"
+    "vi": "Thảm Dệt Treo Tường"
   },
   {
     "key": "building_name_wall_tool_shelf",
     "type": 0,
     "en": "Wall Tool Shelf",
-    "vi": "Kệ Dụng Cụ Treo Tường"
+    "vi": "Kệ Công Cụ Treo Tường"
   },
   {
     "key": "building_name_fence",
@@ -459,37 +459,37 @@
     "key": "building_name_royal_bed",
     "type": 0,
     "en": "Royal Bed",
-    "vi": "Giường Ngủ Hoàng Gia"
+    "vi": "Giường Hoàng Gia"
   },
   {
     "key": "building_name_royal_bed_wool",
     "type": 0,
     "en": "Royal Bed (Wool)",
-    "vi": "Giường Ngủ Hoàng Gia (Đệm Len)"
+    "vi": "Giường Hoàng Gia (Đệm Len)"
   },
   {
     "key": "building_name_royal_bed_linen",
     "type": 0,
     "en": "Royal Bed (Linen)",
-    "vi": "Giường Ngủ Hoàng Gia (Đệm Vải Lanh)"
+    "vi": "Giường Hoàng Gia (Đệm Vải Lanh)"
   },
   {
     "key": "building_name_quality_bed",
     "type": 0,
     "en": "Quality Bed",
-    "vi": "Giường Ngủ Cao Cấp"
+    "vi": "Giường Cao Cấp"
   },
   {
     "key": "building_name_quality_bed_wool",
     "type": 0,
     "en": "Quality Bed (Wool)",
-    "vi": "Giường Ngủ Cao Cấp (Đệm Len)"
+    "vi": "Giường Cao Cấp (Đệm Len)"
   },
   {
     "key": "building_name_quality_bed_linen",
     "type": 0,
     "en": "Quality Bed (Linen)",
-    "vi": "Giường Ngủ Cao Cấp (Đệm Vải Lanh)"
+    "vi": "Giường Cao Cấp (Đệm Vải Lanh)"
   },
   {
     "key": "building_name_hay_wood_bed",
@@ -501,13 +501,13 @@
     "key": "building_name_hay_sleeping_spot",
     "type": 0,
     "en": "Hay Sleeping Spot",
-    "vi": "Chỗ Ngủ Lót Rơm Khô"
+    "vi": "Chỗ Ngủ Lót Cỏ Khô"
   },
   {
     "key": "building_name_medical_bed",
     "type": 0,
     "en": "Infirmary Bed",
-    "vi": "Giường Bệnh Xá Cứu Thương"
+    "vi": "Giường Bệnh Xá"
   },
   {
     "key": "building_name_standing_bookshelf",
@@ -525,13 +525,13 @@
     "key": "building_name_armour_rack",
     "type": 0,
     "en": "Armour Rack",
-    "vi": "Giá Mắc Giáp Trụ"
+    "vi": "Giá Treo Giáp Trụ"
   },
   {
     "key": "building_name_shelf",
     "type": 0,
     "en": "Shelf",
-    "vi": "Kệ Chứa Đồ"
+    "vi": "Kệ Để Đồ"
   },
   {
     "key": "building_name_hook",
@@ -549,85 +549,85 @@
     "key": "building_name_candle",
     "type": 0,
     "en": "Candelabra",
-    "vi": "Chân Đèn Nến Nhiều Nhánh"
+    "vi": "Chân Nến Nhiều Nhánh"
   },
   {
     "key": "building_name_candle_wall",
     "type": 0,
     "en": "Candle Sconce",
-    "vi": "Đèn Nến Treo Tường"
+    "vi": "Chân Nến Treo Tường"
   },
   {
     "key": "building_name_gold_candle",
     "type": 0,
     "en": "Candelabra (Gold)",
-    "vi": "Chân Đèn Nến Nhiều Nhánh (Vàng Ròng)"
+    "vi": "Chân Nến Nhiều Nhánh (Vàng)"
   },
   {
     "key": "building_name_gold_candle_wall",
     "type": 0,
     "en": "Candle Sconce (Gold)",
-    "vi": "Đèn Nến Treo Tường (Vàng Ròng)"
+    "vi": "Chân Nến Treo Tường (Vàng)"
   },
   {
     "key": "building_name_silver_candle",
     "type": 0,
     "en": "Candelabra (Silver)",
-    "vi": "Chân Đèn Nến Nhiều Nhánh (Bạc)"
+    "vi": "Chân Nến Nhiều Nhánh (Bạc)"
   },
   {
     "key": "building_name_silver_candle_wall",
     "type": 0,
     "en": "Candle Sconce (Silver)",
-    "vi": "Đèn Nến Treo Tường (Bạc)"
+    "vi": "Chân Nến Treo Tường (Bạc)"
   },
   {
     "key": "building_name_iron_candle",
     "type": 0,
     "en": "Candelabra (Iron)",
-    "vi": "Chân Đèn Nến Nhiều Nhánh (Sắt)"
+    "vi": "Chân Nến Nhiều Nhánh (Sắt)"
   },
   {
     "key": "building_name_iron_candle_wall",
     "type": 0,
     "en": "Candle Sconce (Iron)",
-    "vi": "Đèn Nến Treo Tường (Sắt)"
+    "vi": "Chân Nến Treo Tường (Sắt)"
   },
   {
     "key": "building_name_wood_candle",
     "type": 0,
     "en": "Candelabra (Wood)",
-    "vi": "Chân Đèn Nến Nhiều Nhánh (Gỗ)"
+    "vi": "Chân Nến Nhiều Nhánh (Gỗ)"
   },
   {
     "key": "building_name_wood_candle_wall",
     "type": 0,
     "en": "Candle Sconce (Wood)",
-    "vi": "Đèn Nến Treo Tường (Gỗ)"
+    "vi": "Chân Nến Treo Tường (Gỗ)"
   },
   {
     "key": "building_name_stone_candle",
     "type": 0,
     "en": "Candelabra (Limestone)",
-    "vi": "Chân Đèn Nến Nhiều Nhánh (Đá Vôi)"
+    "vi": "Chân Nến Nhiều Nhánh (Đá Vôi)"
   },
   {
     "key": "building_name_stone_candle_wall",
     "type": 0,
     "en": "Candle Sconce (Limestone)",
-    "vi": "Đèn Nến Treo Tường (Đá Vôi)"
+    "vi": "Chân Nến Treo Tường (Đá Vôi)"
   },
   {
     "key": "building_name_map_table",
     "type": 0,
     "en": "Cartography Table",
-    "vi": "Bàn Bản Đồ Học & Địa Lý"
+    "vi": "Bàn Bản Đồ Học"
   },
   {
     "key": "building_name_caravan_post",
     "type": 0,
     "en": "Caravan Halt",
-    "vi": "Bến Dừng Chân Đoàn Buôn"
+    "vi": "Trạm Dừng Đoàn Buôn"
   },
   {
     "key": "building_name_archery_range",
@@ -639,13 +639,13 @@
     "key": "building_name_practice_dummy",
     "type": 0,
     "en": "Practice Dummy",
-    "vi": "Hình Nộm Luyện Võ Cận Chiến"
+    "vi": "Hình Nộm Luyện Võ"
   },
   {
     "key": "building_name_banner",
     "type": 0,
     "en": "Banner",
-    "vi": "Cờ Hiệu Quân Kỳ"
+    "vi": "Cờ Hiệu"
   },
   {
     "key": "building_name_banner_linen",
@@ -879,7 +879,7 @@
     "key": "building_name_wardrobe",
     "type": 0,
     "en": "Wardrobe",
-    "vi": "Tủ Quần Áo Bằng Gỗ"
+    "vi": "Tủ Quần Áo"
   },
   {
     "key": "building_name_wall_instrument_shelf",

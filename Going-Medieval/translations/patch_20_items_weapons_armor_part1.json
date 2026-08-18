@@ -33,7 +33,7 @@
     "key": "head_armor",
     "type": 0,
     "en": "Head armour",
-    "vi": "Mũ Trụ Đầu"
+    "vi": "Mũ Trụ"
   },
   {
     "key": "ignores_armor",
@@ -51,31 +51,31 @@
     "key": "weapon_and_modifiers",
     "type": 0,
     "en": "Weapon and modifiers",
-    "vi": "Vũ khí và các chỉ số bổ trợ"
+    "vi": "Vũ khí và chỉ số bổ trợ"
   },
   {
     "key": "auto_equip_weapon",
     "type": 0,
     "en": "Manage Weapon",
-    "vi": "Quản Lý Trang Bị Vũ Khí"
+    "vi": "Quản Lý Vũ Khí"
   },
   {
     "key": "auto_equip_weapon_info",
     "type": 0,
     "en": "Set autoequip weapon for each settler",
-    "vi": "Thiết lập quy tắc tự động trang bị vũ khí cho từng dân làng"
+    "vi": "Thiết lập tự động trang bị vũ khí cho từng dân làng"
   },
   {
     "key": "auto_equip_armor",
     "type": 0,
     "en": "Manage Armour",
-    "vi": "Quản Lý Trang Bị Giáp Trụ"
+    "vi": "Quản Lý Giáp Trụ"
   },
   {
     "key": "auto_equip_armor_info",
     "type": 0,
     "en": "Set autoequip armour for each settler",
-    "vi": "Thiết lập quy tắc tự động mặc giáp trụ cho từng dân làng"
+    "vi": "Thiết lập tự động mặc giáp trụ cho từng dân làng"
   },
   {
     "key": "edit_Weapons_profiles",
@@ -93,7 +93,7 @@
     "key": "manageDefaultPreset_weapon_shield_all",
     "type": 0,
     "en": "All Weapons",
-    "vi": "Mọi Loại Vũ Khí"
+    "vi": "Tất Cả Vũ Khí"
   },
   {
     "key": "manageDefaultPreset_weapon_shield_none",
@@ -123,19 +123,19 @@
     "key": "manageDefaultPreset_weapon_shield_melee_onehanded_shield",
     "type": 0,
     "en": "Melee One-handed + Shields",
-    "vi": "Cận chiến một tay + khiên"
+    "vi": "Cận chiến một tay + Khiên"
   },
   {
     "key": "manageDefaultPreset_weapon_all",
     "type": 0,
     "en": "All Weapons",
-    "vi": "Mọi vũ khí"
+    "vi": "Tất cả vũ khí"
   },
   {
     "key": "manageDefaultPreset_weapon_none",
     "type": 0,
     "en": "No Weapons",
-    "vi": "Không vũ khí"
+    "vi": "Không dùng vũ khí"
   },
   {
     "key": "manageDefaultPreset_weapon_melee_onehanded",
@@ -159,13 +159,13 @@
     "key": "manageDefaultPreset_armor_all",
     "type": 0,
     "en": "All Armour",
-    "vi": "Mọi giáp"
+    "vi": "Tất cả giáp"
   },
   {
     "key": "manageDefaultPreset_armor_none",
     "type": 0,
     "en": "No Armour",
-    "vi": "Không giáp"
+    "vi": "Không dùng giáp"
   },
   {
     "key": "preset_name_weapon_melee_twohanded",
@@ -189,7 +189,7 @@
     "key": "equipment_fire_damage_multiplier",
     "type": 0,
     "en": "Fire intensification",
-    "vi": "Tăng cường lửa"
+    "vi": "Tăng cường sát thương lửa"
   },
   {
     "key": "error_siege_weapon_target_too_close",
@@ -201,25 +201,25 @@
     "key": "error_siege_weapon_target_too_far",
     "type": 0,
     "en": "the target is out of range",
-    "vi": "mục tiêu ngoài tầm"
+    "vi": "mục tiêu ngoài tầm bắn"
   },
   {
     "key": "system_weapon_attributes_info",
     "type": 0,
     "en": "<style=AlmParagraph><sprite=\"damage_icon\" index=t>Damage \\n</style>- Damage is calculated from several factors: attackers' attributes; weapon base damage; weapon armour penetration; and the opponents’ armour rating and armour durability.\\n- If the attacker hits an opponent without armour, then the entire damage will be inflicted and the opponents’ HP will be lowered by that amount.\\n- If the attacker hits an opponent who is wearing armour, then the damage is affected by the weapon's armour penetration attribute and the opponents’ armour rating and armour hitpoint percentage.\\n\\n- The formula for dealing damage is:\\n\\n<style=Desc>(weapon base damage * armour penetration) - ((weapon base damage * armour penetration) * (armour hit points percentage at that moment * armour rating))</style>\\n<style=AlmParagraph>\\n<sprite=\"critical_strike\" index=t> Critical Damage\\n</style>- Every attack has a 15% chance to deal critical damage by striking the opponent in the head.\\nAll critical damage is multiplied by 2x.\\n- When critical damage is inflicted, the damage takes into consideration headgear instead of body armour.\\n<style=AlmParagraph>\\n<sprite=\"range_icon\" index=t> Range\\n</style>- The number of grid spaces the weapon can reach. \\n<style=AlmParagraph>\\n<sprite=\"precision_icon\" index=t> Precision\\n</style>- The weapon's chance to hit the target.\\n- This is not the weapon's final chance to hit its target.\\n- The chance to hit is affected by things like: the attackers’ attributes, precision falloff with distance, weather and terrain elevation.\\n<style=AlmParagraph>\\nPrecision falloff with distance\\n</style>- This is the  percentage the chance to hit falls as the target gets further away.\\n<style=AlmParagraph>\\nArmour penetration\\n</style>- This is the percentage of damage that will pass through armour. Piercing weapons like spears, arrows and bolts have a high armour penetration percentage.\\n<style=AlmParagraph>\\nArmour damage\\n</style>- This is the percentage of base damage that will be inflicted to the armour or shield (or headgear if critical strike) Weapons like hammers and maces as well as axes have a high armour damage percentage, so they are ideal for armoured opponents or breaking down their shields\\n<style=AlmParagraph>\\nBuilding damage\\n</style>- The percentage of base damage that will be inflicted on buildings, workbenches and furniture. Blunt weapons and axes have a high building damage percentage. They are ideal for taking down doors.\n",
-    "vi": "<style=AlmParagraph><sprite=\"damage_icon\" index=t>Sát thương \\n</style>- Sát thương được tính từ nhiều yếu tố: thuộc tính người tấn công; sát thương cơ bản của vũ khí; khả năng xuyên giáp của vũ khí; chỉ số giáp và độ bền giáp của đối thủ.\\n- Nếu người tấn công đánh trúng đối thủ không mặc giáp, toàn bộ sát thương sẽ được gây ra và HP đối thủ giảm tương ứng.\\n- Nếu đối thủ mặc giáp, sát thương chịu ảnh hưởng bởi khả năng xuyên giáp của vũ khí, chỉ số giáp và phần trăm HP giáp của đối thủ.\\n\\n- Công thức gây sát thương là:\\n\\n<style=Desc>(sát thương cơ bản của vũ khí * xuyên giáp) - ((sát thương cơ bản của vũ khí * xuyên giáp) * (phần trăm HP giáp tại thời điểm đó * chỉ số giáp))</style>\\n<style=AlmParagraph>\\n<sprite=\"critical_strike\" index=t> Sát thương chí mạng\\n</style>- Mỗi đòn đánh có 15% cơ hội gây chí mạng bằng cách đánh vào đầu đối thủ.\\nMọi sát thương chí mạng được nhân 2 lần.\\n- Khi gây chí mạng, sát thương tính theo mũ trụ thay vì giáp thân.\\n<style=AlmParagraph>\\n<sprite=\"range_icon\" index=t> Tầm đánh\\n</style>- Số ô lưới mà vũ khí có thể vươn tới. \\n<style=AlmParagraph>\\n<sprite=\"precision_icon\" index=t> Độ chính xác\\n</style>- Khả năng đánh trúng mục tiêu của vũ khí.\\n- Đây chưa phải cơ hội trúng cuối cùng của vũ khí.\\n- Cơ hội đánh trúng bị ảnh hưởng bởi thuộc tính người tấn công, độ giảm chính xác theo khoảng cách, thời tiết và độ cao địa hình.\\n<style=AlmParagraph>\\nĐộ giảm chính xác theo khoảng cách\\n</style>- Đây là phần trăm cơ hội đánh trúng giảm khi mục tiêu ở xa hơn.\\n<style=AlmParagraph>\\nXuyên giáp\\n</style>- Phần trăm sát thương xuyên qua giáp. Vũ khí xuyên như giáo, tên và nỏ có phần trăm xuyên giáp cao.\\n<style=AlmParagraph>\\nSát thương giáp\\n</style>- Phần trăm sát thương cơ bản gây lên giáp hoặc khiên (hoặc mũ trụ nếu chí mạng). Vũ khí như búa, chùy và rìu có sát thương giáp cao, phù hợp chống đối thủ mặc giáp hoặc phá khiên.\\n<style=AlmParagraph>\\nSát thương công trình\\n</style>- Phần trăm sát thương cơ bản gây lên công trình, bàn chế tác và nội thất. Vũ khí cùn và rìu có sát thương công trình cao, phù hợp phá cửa.\n"
+    "vi": "<style=AlmParagraph><sprite=\"damage_icon\" index=t>Sát thương \\n</style>- Sát thương được tính từ nhiều yếu tố: thuộc tính người tấn công; sát thương cơ bản của vũ khí; khả năng xuyên giáp của vũ khí; chỉ số giáp và độ bền giáp của đối thủ.\\n- Nếu người tấn công đánh trúng đối thủ không mặc giáp, toàn bộ sát thương sẽ được gây ra và HP của đối thủ sẽ giảm tương ứng.\\n- Nếu người tấn công đánh trúng đối thủ có mặc giáp, sát thương sẽ chịu ảnh hưởng bởi chỉ số xuyên giáp của vũ khí cùng chỉ số giáp và phần trăm độ bền giáp của đối thủ.\\n\\n- Công thức gây sát thương là:\\n\\n<style=Desc>(sát thương cơ bản * xuyên giáp) - ((sát thương cơ bản * xuyên giáp) * (phần trăm độ bền giáp tại thời điểm đó * chỉ số giáp))</style>\\n<style=AlmParagraph>\\n<sprite=\"critical_strike\" index=t> Sát thương chí mạng\\n</style>- Mỗi đòn đánh có 15% cơ hội gây sát thương chí mạng bằng cách đánh vào đầu đối thủ.\\nMọi sát thương chí mạng đều được nhân 2x.\\n- Khi gây sát thương chí mạng, sát thương sẽ tính theo mũ trụ thay vì giáp thân.\\n<style=AlmParagraph>\\n<sprite=\"range_icon\" index=t> Tầm đánh\\n</style>- Số ô lưới mà vũ khí có thể vươn tới. \\n<style=AlmParagraph>\\n<sprite=\"precision_icon\" index=t> Độ chính xác\\n</style>- Cơ hội đánh trúng mục tiêu của vũ khí.\\n- Đây chưa phải là cơ hội đánh trúng mục tiêu cuối cùng của vũ khí.\\n- Cơ hội đánh trúng bị ảnh hưởng bởi: thuộc tính người tấn công, độ giảm chính xác theo khoảng cách, thời tiết và độ cao địa hình.\\n<style=AlmParagraph>\\nĐộ giảm chính xác theo khoảng cách\\n</style>- Đây là tỉ lệ phần trăm cơ hội đánh trúng bị giảm khi mục tiêu ở xa hơn.\\n<style=AlmParagraph>\\nXuyên giáp\\n</style>- Tỉ lệ phần trăm sát thương sẽ xuyên qua lớp giáp. Vũ khí đâm xuyên như giáo, tên và đạn nỏ có tỉ lệ xuyên giáp cao.\\n<style=AlmParagraph>\\nSát thương phá giáp\\n</style>- Tỉ lệ phần trăm sát thương cơ bản sẽ gây lên giáp hoặc khiên (hoặc mũ trụ nếu đánh chí mạng). Các loại vũ khí như búa, chùy gai cũng như rìu có tỉ lệ sát thương phá giáp cao, rất lý tưởng để đối đầu kẻ thù mặc giáp hoặc phá vỡ khiên chắn.\\n<style=AlmParagraph>\\nSát thương công trình\\n</style>- Tỉ lệ phần trăm sát thương cơ bản gây lên công trình, bàn chế tác và đồ nội thất. Vũ khí cùn và rìu có sát thương công trình cao, rất lý tưởng để phá cửa.\n"
   },
   {
     "key": "system_weapon_attributes_name",
     "type": 0,
     "en": "Weapon Attributes",
-    "vi": "Thuộc tính vũ khí"
+    "vi": "Thuộc Tính Vũ Khí"
   },
   {
     "key": "effector_name_AffectionInteractedWithWeaponPositive",
     "type": 0,
     "en": "[He/She] created a magnificent weapon",
-    "vi": "[He/She] đã chế tạo một vũ khí tuyệt mỹ"
+    "vi": "[He/She] đã chế tạo một vũ khí tuyệt hảo"
   },
   {
     "key": "effector_name_AffectionInteractedWithWeaponNegative",
@@ -231,13 +231,13 @@
     "key": "hunting_requires_ranged_weapon",
     "type": 0,
     "en": "This settler cannot hunt without a ranged weapon",
-    "vi": "Dân làng này không thể săn nếu không có vũ khí tầm xa"
+    "vi": "Dân làng này không thể đi săn nếu không có vũ khí tầm xa"
   },
   {
     "key": "warning_message_info_HunterMissingWeapon",
     "type": 0,
     "en": "Settlers are assigned hunting jobs, but have no ranged weapons to hunt with.\\nEquip your hunters with ranged weapons so that they can hunt.",
-    "vi": "Dân làng được giao việc săn bắt nhưng không có vũ khí tầm xa để săn.\\nHãy trang bị vũ khí tầm xa cho thợ săn để họ có thể đi săn."
+    "vi": "Dân làng được giao công việc săn bắn nhưng không có vũ khí tầm xa để săn.\\nHãy trang bị vũ khí tầm xa cho thợ săn để họ có thể đi săn."
   },
   {
     "key": "warning_message_short_HunterMissingWeapon",
@@ -249,67 +249,67 @@
     "key": "pile_tooltip_info_ArmorDamageLow",
     "type": 0,
     "en": "<style=DefaultRed>Low armour and shield damage</style>",
-    "vi": "<style=DefaultRed>Sát thương giáp và khiên thấp</style>"
+    "vi": "<style=DefaultRed>Sát thương phá giáp và khiên thấp</style>"
   },
   {
     "key": "pile_tooltip_info_ArmorDamageMed",
     "type": 0,
     "en": "<style=DefaultOrange>Moderate armour and shield damage</style>",
-    "vi": "<style=DefaultOrange>Sát thương giáp và khiên vừa</style>"
+    "vi": "<style=DefaultOrange>Sát thương phá giáp và khiên trung bình</style>"
   },
   {
     "key": "pile_tooltip_info_ArmorDamageHigh",
     "type": 0,
     "en": "<style=DefaultGreen>High armour and shield damage</style>",
-    "vi": "<style=DefaultGreen>Gây sát thương phá giáp và phá khiên cao</style>"
+    "vi": "<style=DefaultGreen>Sát thương phá giáp và khiên cao</style>"
   },
   {
     "key": "pile_tooltip_info_ArmorDamageVeryHigh",
     "type": 0,
     "en": "<style=DefaultGreen>Very high armour and shield damage</style>",
-    "vi": "<style=DefaultGreen>Gây sát thương phá giáp và phá khiên cực kỳ cao</style>"
+    "vi": "<style=DefaultGreen>Sát thương phá giáp và khiên cực cao</style>"
   },
   {
     "key": "equipment_decomposed",
     "type": 0,
     "en": "<equipment> decomposed or has been destroyed while worn by <settler>!",
-    "vi": "<equipment> đã bị mục nát hoặc vỡ nát hoàn toàn khi <settler> đang trang bị!"
+    "vi": "<equipment> đã bị mục nát hoặc bị phá hủy khi <settler> đang trang bị!"
   },
   {
     "key": "enemy_siege_weapon_bbt",
     "type": 0,
     "en": "Enemies have started placing siege weapons",
-    "vi": "Quân thù đã bắt đầu triển khai lắp ráp các chiến cụ công thành!"
+    "vi": "Kẻ địch đã bắt đầu triển khai vũ khí công thành!"
   },
   {
     "key": "name_prod_armor",
     "type": 0,
     "en": "Crafting armour",
-    "vi": "Đang rèn đúc giáp trụ"
+    "vi": "Rèn giáp"
   },
   {
     "key": "name_prod_make_weapon",
     "type": 0,
     "en": "Crafting weapon",
-    "vi": "Đang rèn đúc vũ khí"
+    "vi": "Rèn vũ khí"
   },
   {
     "key": "research_name_armor_production_lvl1",
     "type": 0,
     "en": "Armourer",
-    "vi": "Nghề Rèn Giáp I"
+    "vi": "Rèn Giáp I"
   },
   {
     "key": "research_name_armor_production_lvl2",
     "type": 0,
     "en": "Armourer II",
-    "vi": "Nghề Rèn Giáp II"
+    "vi": "Rèn Giáp II"
   },
   {
     "key": "research_name_armor_production_lvl3",
     "type": 0,
     "en": "Armourer III",
-    "vi": "Nghề Rèn Giáp III"
+    "vi": "Rèn Giáp III"
   },
   {
     "key": "atb_info_UnarmedArmorDamage",
@@ -321,7 +321,7 @@
     "key": "atb_info_UnarmedIgnoreArmor",
     "type": 0,
     "en": "The percentage damage inflicted by an unarmed settler on an armed target.",
-    "vi": "Tỉ lệ phần trăm sát thương trực diện mà dân làng đánh tay không gây ra cho mục tiêu có vũ trang."
+    "vi": "Tỉ lệ phần trăm sát thương mà dân làng đánh tay không gây ra cho mục tiêu có vũ trang."
   },
   {
     "key": "atb_name_UnarmedArmorDamage",
@@ -333,7 +333,7 @@
     "key": "atb_name_UnarmedIgnoreArmor",
     "type": 0,
     "en": "Unarmed Base Damage",
-    "vi": "Sát Thương Trực Diện Tay Không"
+    "vi": "Sát Thương Cơ Bản Tay Không"
   },
   {
     "key": "equipment_material_iron",
@@ -363,7 +363,7 @@
     "key": "equipment_material_bone",
     "type": 0,
     "en": "Bone",
-    "vi": "Xương Thú"
+    "vi": "Xương"
   },
   {
     "key": "equipment_material_wood",
@@ -375,7 +375,7 @@
     "key": "equipment_material_wicker",
     "type": 0,
     "en": "Wicker",
-    "vi": "Liễu Gai Đan"
+    "vi": "Liễu Gai"
   },
   {
     "key": "equipment_material_linen",
@@ -393,13 +393,13 @@
     "key": "equipment_material_wool",
     "type": 0,
     "en": "Wool",
-    "vi": "Vải Len"
+    "vi": "Len"
   },
   {
     "key": "equipment_material_hay",
     "type": 0,
     "en": "Straw",
-    "vi": "Rơm Rạ"
+    "vi": "Rơm"
   },
   {
     "key": "equipment_material_metal",
@@ -411,7 +411,7 @@
     "key": "equipment_material_cloth",
     "type": 0,
     "en": "Clothing Fabric",
-    "vi": "Vải Dệt"
+    "vi": "Vải May Mặc"
   },
   {
     "key": "equipment_material_leather_deer",
@@ -423,7 +423,7 @@
     "key": "equipment_material_leather_hare",
     "type": 0,
     "en": "Hare pelt",
-    "vi": "Da Thỏ Rừng"
+    "vi": "Da Thỏ"
   },
   {
     "key": "equipment_material_leather_wolf",
@@ -453,13 +453,13 @@
     "key": "equipment_material_leather_water_vole",
     "type": 0,
     "en": "Water vole pelt",
-    "vi": "Da Chuột Đồng Nước"
+    "vi": "Da Chuột Nước"
   },
   {
     "key": "equipment_material_leather_polecat",
     "type": 0,
     "en": "Polecat pelt",
-    "vi": "Da Chồn Hôi"
+    "vi": "Da Chồn"
   },
   {
     "key": "equipment_material_leather_cow",
@@ -525,7 +525,7 @@
     "key": "equipment_name_falchion",
     "type": 0,
     "en": "Falchion",
-    "vi": "Kiếm Cong Falchion"
+    "vi": "Kiếm Chặt Falchion"
   },
   {
     "key": "equipment_name_knightly_sword",
@@ -543,19 +543,19 @@
     "key": "equipment_name_greatsword",
     "type": 0,
     "en": "Greatsword",
-    "vi": "Đại Kiếm Hai Tay"
+    "vi": "Đại Kiếm"
   },
   {
     "key": "equipment_name_staff",
     "type": 0,
     "en": "Staff",
-    "vi": "Trượng Gỗ"
+    "vi": "Gậy Gỗ"
   },
   {
     "key": "equipment_name_cudgel",
     "type": 0,
     "en": "Cudgel",
-    "vi": "Gậy Gộc"
+    "vi": "Dùi Cùi Gỗ"
   },
   {
     "key": "equipment_name_bludgeon",
@@ -579,7 +579,7 @@
     "key": "equipment_name_two_handed_flanged_mace",
     "type": 0,
     "en": "Two Handed Flanged Mace",
-    "vi": "Chùy Khế Hai Tay"
+    "vi": "Chùy Khía Hai Tay"
   },
   {
     "key": "equipment_name_military_pick",
@@ -603,25 +603,25 @@
     "key": "equipment_name_berdiche",
     "type": 0,
     "en": "Berdiche",
-    "vi": "Rìu Dài Berdiche"
+    "vi": "Rìu Cán Dài Berdiche"
   },
   {
     "key": "equipment_name_billhook",
     "type": 0,
     "en": "Billhook",
-    "vi": "Giáo Móc Billhook"
+    "vi": "Giáo Móc Kỵ Binh"
   },
   {
     "key": "equipment_name_warfork",
     "type": 0,
     "en": "Warfork",
-    "vi": "Chĩa Chiến Warfork"
+    "vi": "Chĩa Ba Chiến Đấu"
   },
   {
     "key": "equipment_name_hatchet",
     "type": 0,
     "en": "Hatchet",
-    "vi": "Rìu Tay"
+    "vi": "Rìu Nhỏ Cầm Tay"
   },
   {
     "key": "equipment_name_greataxe",
@@ -633,19 +633,19 @@
     "key": "equipment_name_warhammer",
     "type": 0,
     "en": "Warhammer",
-    "vi": "Búa Chiến Warhammer"
+    "vi": "Búa Chiến"
   },
   {
     "key": "equipment_name_two_handed_warhammer",
     "type": 0,
     "en": "Two Handed Warhammer",
-    "vi": "Đại Búa Chiến Hai Tay"
+    "vi": "Đại Búa Chiến"
   },
   {
     "key": "equipment_name_flail",
     "type": 0,
     "en": "Flail",
-    "vi": "Chùy Xích (Flail)"
+    "vi": "Chùy Xích"
   },
   {
     "key": "equipment_name_reinforced_flail",
@@ -663,25 +663,25 @@
     "key": "equipment_name_short_bow",
     "type": 0,
     "en": "Short Bow",
-    "vi": "Đoản Cung"
+    "vi": "Cung Ngắn"
   },
   {
     "key": "equipment_name_war_bow",
     "type": 0,
     "en": "War Bow",
-    "vi": "Chiến Cung"
+    "vi": "Cung Chiến"
   },
   {
     "key": "equipment_name_curved_bow",
     "type": 0,
     "en": "Curved Bow",
-    "vi": "Cung Uốn Lượn"
+    "vi": "Cung Cong"
   },
   {
     "key": "equipment_name_long_bow",
     "type": 0,
     "en": "Longbow",
-    "vi": "Trường Cung Anh Quốc"
+    "vi": "Cung Dài (Trường Cung)"
   },
   {
     "key": "equipment_name_light_crossbow",
@@ -693,13 +693,13 @@
     "key": "equipment_name_crossbow",
     "type": 0,
     "en": "Crossbow",
-    "vi": "Nỏ Tiêu Chuẩn"
+    "vi": "Nỏ"
   },
   {
     "key": "equipment_name_heavy_crossbow",
     "type": 0,
     "en": "Heavy Crossbow",
-    "vi": "Đại Nỏ Hạng Nặng"
+    "vi": "Đại Nỏ"
   },
   {
     "key": "equipment_name_throwing_axes",
@@ -711,43 +711,43 @@
     "key": "equipment_name_light_javelins",
     "type": 0,
     "en": "Javelins",
-    "vi": "Lao Ném"
+    "vi": "Lao Phóng"
   },
   {
     "key": "equipment_name_sling",
     "type": 0,
     "en": "Sling",
-    "vi": "Ná Dây Bắn Đá"
+    "vi": "Ná Quăng Đá"
   },
   {
     "key": "equipment_name_sling_staff",
     "type": 0,
     "en": "Stave Sling",
-    "vi": "Gậy Phóng Đá (Stave Sling)"
+    "vi": "Gậy Phóng Đá"
   },
   {
     "key": "equipment_name_bolas",
     "type": 0,
     "en": "Bolas",
-    "vi": "Dây Quăng Khóa Chân Bolas"
+    "vi": "Dây Ném Quấn Chân"
   },
   {
     "key": "equipment_name_hand_ram",
     "type": 0,
     "en": "Battering Ram",
-    "vi": "Cột Gỗ Phá Thành Cầm Tay"
+    "vi": "Cột Gỗ Phá Thành"
   },
   {
     "key": "equipment_name_metal_hand_ram",
     "type": 0,
     "en": "Metal Battering Ram",
-    "vi": "Cột Sắt Phá Thành Cầm Tay"
+    "vi": "Cột Sắt Phá Thành"
   },
   {
     "key": "equipment_name_armor",
     "type": 0,
     "en": "Armour",
-    "vi": "Bộ Giáp Trụ"
+    "vi": "Áo Giáp"
   },
   {
     "key": "equipment_name_light_armor",
@@ -759,25 +759,25 @@
     "key": "equipment_name_forest_light_armor",
     "type": 0,
     "en": "Wood Armour",
-    "vi": "Giáp Gỗ Rừng"
+    "vi": "Giáp Gỗ"
   },
   {
     "key": "equipment_name_macabre_armor",
     "type": 0,
     "en": "Bone Armour",
-    "vi": "Giáp Khung Xương"
+    "vi": "Giáp Xương"
   },
   {
     "key": "equipment_name_mail_armor",
     "type": 0,
     "en": "Mail Armour",
-    "vi": "Áo Giáp Xích"
+    "vi": "Giáp Xích"
   },
   {
     "key": "equipment_name_plate_armor",
     "type": 0,
     "en": "Plate Armour",
-    "vi": "Áo Giáp Tấm Thép"
+    "vi": "Giáp Tấm Thép"
   },
   {
     "key": "equipment_name_savage_heavy_armor",
@@ -789,19 +789,19 @@
     "key": "equipment_name_plate_helmet",
     "type": 0,
     "en": "Great Helm",
-    "vi": "Đại Mũ Trụ (Great Helm)"
+    "vi": "Mũ Trụ Toàn Phần"
   },
   {
     "key": "equipment_name_pigface_helmet",
     "type": 0,
     "en": "Pigface Helmet",
-    "vi": "Mũ Trụ Mõm Lợn (Pigface)"
+    "vi": "Mũ Trụ Mõm Lợn (Hounskull)"
   },
   {
     "key": "equipment_name_helmet",
     "type": 0,
     "en": "Helmet",
-    "vi": "Mũ Trụ Chiến Binh"
+    "vi": "Mũ Trụ"
   },
   {
     "key": "equipment_name_light_helmet",
@@ -813,13 +813,13 @@
     "key": "equipment_name_macabre_helmet",
     "type": 0,
     "en": "Bone Helmet",
-    "vi": "Mũ Trụ Xương Đầu Lâu"
+    "vi": "Mũ Xương"
   },
   {
     "key": "equipment_name_mail_helmet",
     "type": 0,
     "en": "Mail Helmet",
-    "vi": "Mũ Trùm Lưới Xích"
+    "vi": "Mũ Lưới Xích"
   },
   {
     "key": "equipment_name_mask",
@@ -831,13 +831,13 @@
     "key": "equipment_name_horned_mask",
     "type": 0,
     "en": "Horned Mask",
-    "vi": "Mặt Nạ Sừng Quỷ"
+    "vi": "Mặt Nạ Có Sừng"
   },
   {
     "key": "equipment_name_horned_helmet",
     "type": 0,
     "en": "Horned Helmet",
-    "vi": "Mũ Trụ Gắn Cặp Sừng"
+    "vi": "Mũ Trụ Có Sừng"
   },
   {
     "key": "equipment_name_gambeson_armor",
@@ -855,13 +855,13 @@
     "key": "equipment_name_kettle_helmet",
     "type": 0,
     "en": "Kettle Helmet",
-    "vi": "Mũ Trụ Vành Rộng (Kettle Hat)"
+    "vi": "Mũ Trụ Vành Nón"
   },
   {
     "key": "equipment_name_viking_helmet",
     "type": 0,
     "en": "Viking Helmet",
-    "vi": "Mũ Trụ Chiến Binh Viking"
+    "vi": "Mũ Trụ Viking"
   },
   {
     "key": "equipment_name_buckler_shield",
@@ -873,30 +873,30 @@
     "key": "equipment_name_kite_shield",
     "type": 0,
     "en": "Kite Shield",
-    "vi": "Khiên Giọt Nước (Kite)"
+    "vi": "Khiên Giọt Nước"
   },
   {
     "key": "equipment_name_tower_shield",
     "type": 0,
     "en": "Tower Shield",
-    "vi": "Đại Khiên Tháp (Tower Shield)"
+    "vi": "Khiên Tháp Lớn"
   },
   {
     "key": "equipment_name_pavise_shield",
     "type": 0,
     "en": "Pavise Shield",
-    "vi": "Đại Khiên Chắn Pavise"
+    "vi": "Khiên Lớn Pavise"
   },
   {
     "key": "equipment_name_shield",
     "type": 0,
     "en": "Shield",
-    "vi": "Khiên Chắn"
+    "vi": "Khiên Gỗ"
   },
   {
     "key": "equipment_name_macabre_shield",
     "type": 0,
     "en": "Bone Shield",
-    "vi": "Khiên Khung Xương"
+    "vi": "Khiên Xương"
   }
 ]

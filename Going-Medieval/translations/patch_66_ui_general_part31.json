@@ -261,13 +261,13 @@
     "key": "dev_grass_chunks_checkerboard",
     "type": 0,
     "en": "Checkerboard Grass",
-    "vi": "Cỏ bàn cờ"
+    "vi": "Cỏ ô bàn cờ"
   },
   {
     "key": "dev_tooltip_grass_chunks_checkerboard",
     "type": 0,
     "en": "Turns grass into a checkerboard pattern. Non-reversible. Dev only.",
-    "vi": "Biến thảm cỏ thành họa tiết bàn cờ. Không thể hoàn tác. Chỉ dành cho gỡ lỗi."
+    "vi": "Biến thảm cỏ thành họa tiết ô bàn cờ. Không thể hoàn tác. Chỉ dành cho nhà phát triển."
   },
   {
     "key": "religious_influence_50",
@@ -351,7 +351,7 @@
     "key": "dev_event_rats_pest",
     "type": 0,
     "en": "Rat Infestation",
-    "vi": "Đại dịch chuột hoành hành"
+    "vi": "Đại dịch chuột"
   },
   {
     "key": "dev_event_all_dead_second_map",
@@ -369,55 +369,55 @@
     "key": "game_event_type_nuisance",
     "type": 0,
     "en": "Nuisance ",
-    "vi": "Phiền toái quấy rối"
+    "vi": "Rắc Rối Nhỏ"
   },
   {
     "key": "game_event_type_grand_objective",
     "type": 0,
     "en": "Grand Objective",
-    "vi": "Mục tiêu lớn"
+    "vi": "Đại Mục Tiêu"
   },
   {
     "key": "dev_event_religious_final",
     "type": 0,
     "en": "Centre Of Pilgrimage",
-    "vi": "Trung tâm hành hương"
+    "vi": "Thánh Địa Hành Hương Lớn"
   },
   {
     "key": "dev_event_pagan_final",
     "type": 0,
     "en": "Pagan Sanctuary",
-    "vi": "Thánh địa ngoại giáo"
+    "vi": "Thánh Tích Rừng Thiêng Ngoại Giáo"
   },
   {
     "key": "dev_event_intellectual_final",
     "type": 0,
     "en": "New University",
-    "vi": "Đại học mới"
+    "vi": "Đại Học Viện Mới"
   },
   {
     "key": "dev_event_trade_final",
     "type": 0,
     "en": "Charter Fair",
-    "vi": "Hội chợ đặc quyền"
+    "vi": "Đại Hội Chợ Thương Mại"
   },
   {
     "key": "dev_event_uncover_relic_location",
     "type": 0,
     "en": "Uncover Relic",
-    "vi": "Phát hiện thánh tích"
+    "vi": "Phát Hiện Thánh Tích Cổ"
   },
   {
     "key": "dev_event_uncover_mighty_oak_location",
     "type": 0,
     "en": "Uncover Mighty Oak",
-    "vi": "Phát hiện Cây Sồi Đại Ngàn"
+    "vi": "Phát Hiện Cây Sồi Đại Ngàn"
   },
   {
     "key": "dev_event_uncover_grand_research_table_location",
     "type": 0,
     "en": "Uncover Grand Research Table",
-    "vi": "Phát hiện Bàn Nghiên Cứu Lớn"
+    "vi": "Phát Hiện Bàn Nghiên Cứu Cổ Đại"
   },
   {
     "key": "dev_event_pilgrims_visit_relic",
@@ -441,7 +441,7 @@
     "key": "dev_event_end_game",
     "type": 0,
     "en": "And so it ends",
-    "vi": "Hồi kết đã điểm"
+    "vi": "Khép Lại Biên Niên Sử"
   },
   {
     "key": "dev_event_group_CellarFlood",
@@ -573,7 +573,7 @@
     "key": "dev_tooltip_fill_workers_food_storage",
     "type": 0,
     "en": "Fills food pouch of all Settlers with 1 packaged meal",
-    "vi": "Lấp đầy túi thức ăn của tất cả dân làng bằng 1 phần cơm gói"
+    "vi": "Lấp đầy túi thức ăn của tất cả dân làng bằng 1 khẩu phần lương khô"
   },
   {
     "key": "dev_tooltip_trigger_rebellious",

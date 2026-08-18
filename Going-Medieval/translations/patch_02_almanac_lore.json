@@ -9,7 +9,7 @@
     "key": "hud_lb_Almanac",
     "type": 0,
     "en": "Almanac",
-    "vi": "Bách Khoa Thư"
+    "vi": "Cẩm Nang"
   },
   {
     "key": "history_title",
@@ -39,7 +39,7 @@
     "key": "ctrl_ShowHideAlmanac",
     "type": 0,
     "en": "Almanac",
-    "vi": "Bách Khoa Thư"
+    "vi": "Cẩm Nang"
   },
   {
     "key": "almanac_group_name_Animals",
@@ -57,7 +57,7 @@
     "key": "almanac_group_name_Armor",
     "type": 0,
     "en": "Armour",
-    "vi": "Áo Giáp & Mũ Trụ"
+    "vi": "Áo Giáp"
   },
   {
     "key": "almanac_group_name_Base",
@@ -69,7 +69,7 @@
     "key": "almanac_group_name_Books",
     "type": 0,
     "en": "Books",
-    "vi": "Sách & Bản Thảo"
+    "vi": "Sách Nghiên Cứu"
   },
   {
     "key": "almanac_group_name_Building",
@@ -87,49 +87,49 @@
     "key": "almanac_group_name_Chemical",
     "type": 0,
     "en": "Chemical",
-    "vi": "Hóa Chất & Dược Liệu"
+    "vi": "Dược Liệu & Hóa Chất"
   },
   {
     "key": "almanac_group_name_Clothing",
     "type": 0,
     "en": "Clothing",
-    "vi": "Quần Áo & Vải Vóc"
+    "vi": "Quần Áo"
   },
   {
     "key": "almanac_group_name_Construction",
     "type": 0,
     "en": "Construction",
-    "vi": "Công Trình Xây Dựng"
+    "vi": "Công Trình"
   },
   {
     "key": "almanac_group_name_Decoration",
     "type": 0,
     "en": "Miscellaneous",
-    "vi": "Đồ Trang Trí & Đa Năng"
+    "vi": "Đồ Trang Trí"
   },
   {
     "key": "almanac_group_name_Food",
     "type": 0,
     "en": "Food",
-    "vi": "Lương Thực & Thực Phẩm"
+    "vi": "Lương Thực"
   },
   {
     "key": "almanac_group_name_Furniture",
     "type": 0,
     "en": "Furniture",
-    "vi": "Đồ Nội Thất"
+    "vi": "Nội Thất"
   },
   {
     "key": "almanac_group_name_Headware",
     "type": 0,
     "en": "Hats",
-    "vi": "Mũ Nón & Khăn Trùm"
+    "vi": "Mũ Nón"
   },
   {
     "key": "almanac_group_name_Index",
     "type": 0,
     "en": "Index",
-    "vi": "Mục Lục Tổng Quan"
+    "vi": "Mục Lục"
   },
   {
     "key": "almanac_group_name_Life",
@@ -141,19 +141,19 @@
     "key": "almanac_group_name_Manufactured",
     "type": 0,
     "en": "Manufactured",
-    "vi": "Thành Phẩm Chế Tác"
+    "vi": "Thành Phẩm"
   },
   {
     "key": "almanac_group_name_Material",
     "type": 0,
     "en": "Materials",
-    "vi": "Nguyên Vật Liệu"
+    "vi": "Nguyên Liệu"
   },
   {
     "key": "almanac_group_name_Meal",
     "type": 0,
     "en": "Meal",
-    "vi": "Bữa Ăn & Khẩu Phần"
+    "vi": "Món Ăn"
   },
   {
     "key": "almanac_group_name_Melee",
@@ -171,13 +171,13 @@
     "key": "almanac_group_name_Plants",
     "type": 0,
     "en": "Plants",
-    "vi": "Cây Trồng & Thảo Mộc"
+    "vi": "Cây Trồng"
   },
   {
     "key": "almanac_group_name_Production",
     "type": 0,
     "en": "Production",
-    "vi": "Sản Xuất & Chế Tác"
+    "vi": "Sản Xuất"
   },
   {
     "key": "almanac_group_name_Ranged",
@@ -201,55 +201,55 @@
     "key": "almanac_group_name_Systems",
     "type": 0,
     "en": "Systems",
-    "vi": "Cơ Chế Hệ Thống"
+    "vi": "Hệ Thống"
   },
   {
     "key": "almanac_group_name_Textiles",
     "type": 0,
     "en": "Textiles",
-    "vi": "Vải Sợi & Dệt May"
+    "vi": "Vải Sợi"
   },
   {
     "key": "almanac_group_name_Defense",
     "type": 0,
     "en": "Warfare",
-    "vi": "Khí Tài Quân Sự"
+    "vi": "Phòng Thủ"
   },
   {
     "key": "almanac_group_name_Waste",
     "type": 0,
     "en": "Waste",
-    "vi": "Phế Thải & Đồ Thừa"
+    "vi": "Phế Thải"
   },
   {
     "key": "almanac_group_name_Zone",
     "type": 0,
     "en": "Zone",
-    "vi": "Khu Vực & Quy Hoạch"
+    "vi": "Khu Vực"
   },
   {
     "key": "almanac_more_details",
     "type": 0,
     "en": "Open almanac for more details",
-    "vi": "Mở Bách Khoa Thư để xem chi tiết"
+    "vi": "Mở Cẩm Nang để xem chi tiết"
   },
   {
     "key": "almanac_group_name_Leisure",
     "type": 0,
     "en": "Leisure",
-    "vi": "Giải Trí & Thư Giãn"
+    "vi": "Giải Trí"
   },
   {
     "key": "almanac_group_name_Stimulants",
     "type": 0,
     "en": "Stimulants",
-    "vi": "Chất Kích Thích & Thảo Dược"
+    "vi": "Chất Kích Thích"
   },
   {
     "key": "almanac_group_name_Medicine",
     "type": 0,
     "en": "Medicine",
-    "vi": "Thuốc Men & Băng Bó"
+    "vi": "Thuốc Men"
   },
   {
     "key": "almanac_group_name_Unrefined",
@@ -261,13 +261,13 @@
     "key": "almanac_group_name_Seeds",
     "type": 0,
     "en": "Seeds",
-    "vi": "Hạt Giống & Mầm Cây"
+    "vi": "Hạt Giống"
   },
   {
     "key": "almanac_group_name_Warfare",
     "type": 0,
     "en": "Warfare",
-    "vi": "Chiến Tranh & Binh Bị"
+    "vi": "Quân Sự"
   },
   {
     "key": "almanac_group_name_Trophy",
@@ -279,7 +279,7 @@
     "key": "almanac_group_name_Fermenting",
     "type": 0,
     "en": "Fermenting ingredients",
-    "vi": "Nguyên Liệu Ủ Lên Men"
+    "vi": "Nguyên Liệu Lên Men"
   },
   {
     "key": "almanac_group_name_Fodder",
@@ -291,7 +291,7 @@
     "key": "almanac_group_name_Gameplaytips",
     "type": 0,
     "en": "Gameplay Tips",
-    "vi": "Mẹo Chơi & Kinh Nghiệm"
+    "vi": "Mẹo Chơi"
   },
   {
     "key": "almanac_group_name_Coin",
@@ -303,31 +303,31 @@
     "key": "almanac_group_name_Ammo",
     "type": 0,
     "en": "Ammunition",
-    "vi": "Đạn Dược & Tên Bắn"
+    "vi": "Đạn Dược"
   },
   {
     "key": "almanac_group_name_Projectile",
     "type": 0,
     "en": "Trebuchet Ammunition",
-    "vi": "Đạn Máy Bắn Đá Trebuchet"
+    "vi": "Đạn Trebuchet"
   },
   {
     "key": "almanac_group_name_Pierce",
     "type": 0,
     "en": "Ballista Ammunition",
-    "vi": "Đạn Máy Bắn Tên Ballista"
+    "vi": "Đạn Ballista"
   },
   {
     "key": "almanac_group_name_Multishot",
     "type": 0,
     "en": "Onager Ammunition",
-    "vi": "Đạn Máy Bắn Đá Onager"
+    "vi": "Đạn Onager"
   },
   {
     "key": "almanac_group_name_Simple",
     "type": 0,
     "en": "Simple Meal",
-    "vi": "Bữa Ăn Đơn Sơ"
+    "vi": "Bữa Ăn Đơn Giản"
   },
   {
     "key": "almanac_group_name_Lavish",
@@ -339,24 +339,24 @@
     "key": "almanac_group_name_Roomtypes",
     "type": 0,
     "en": "Room types",
-    "vi": "Phân Loại Phòng"
+    "vi": "Kiểu Phòng"
   },
   {
     "key": "almanac_group_name_Roletypes",
     "type": 0,
     "en": "Community Roles",
-    "vi": "Vai Trò Cộng Đồng"
+    "vi": "Chức Vụ"
   },
   {
     "key": "almanac_group_name_Eventypes",
     "type": 0,
     "en": "Event types",
-    "vi": "Các Loại Sự Kiện"
+    "vi": "Loại Sự Kiện"
   },
   {
     "key": "almanac_group_name_Skillbooks",
     "type": 0,
     "en": "Textbooks",
-    "vi": "Sách Kỹ Năng & Giáo Khoa"
+    "vi": "Sách Giáo Khoa"
   }
 ]

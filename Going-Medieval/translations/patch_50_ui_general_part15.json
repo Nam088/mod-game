@@ -477,7 +477,7 @@
     "key": "demo_exit_message",
     "type": 0,
     "en": "Thank you for trying out Going Medieval!\nContinue to build your settlement into a mighty colony in the full game.\nFollow us on <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> for development updates.",
-    "vi": "Cảm ơn bạn đã trải nghiệm Going Medieval!\nHãy tiếp tục xây dựng khu định cư của bạn thành một thuộc địa hùng mạnh trong phiên bản đầy đủ.\nTheo dõi chúng tôi trên <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> để nhận các bản cập nhật phát triển mới nhất."
+    "vi": "Cảm ơn bạn đã trải nghiệm Going Medieval!\nHãy tiếp tục phát triển khu định cư của bạn thành một vương quốc hùng mạnh trong phiên bản đầy đủ.\nTheo dõi chúng tôi trên <link=\"web_discord_link\"><style=LinkWorker>Discord</style></link> để nhận các bản cập nhật phát triển mới nhất."
   },
   {
     "key": "not_available_in_demo",

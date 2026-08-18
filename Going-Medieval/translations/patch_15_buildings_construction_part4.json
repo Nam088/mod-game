@@ -3,115 +3,115 @@
     "key": "building_name_large_shrine_christian_wood",
     "type": 0,
     "en": "Large Restitutionist Shrine (Wood)",
-    "vi": "Đền Thờ Lớn Hội Phục Hưng (Gỗ)"
+    "vi": "Đền thờ lớn Hội Phục Hưng (Gỗ)"
   },
   {
     "key": "building_name_large_shrine_pagan_wood",
     "type": 0,
     "en": "Large Oak Brethren Shrine (Wood)",
-    "vi": "Đền Thờ Lớn Huynh Đệ Cây Sồi (Gỗ)"
+    "vi": "Đền thờ lớn Huynh Đệ Cây Sồi (Gỗ)"
   },
   {
     "key": "building_name_large_shrine_christian_stone",
     "type": 0,
     "en": "Large Restitutionist Shrine (Limestone)",
-    "vi": "Đền Thờ Lớn Hội Phục Hưng (Đá Vôi)"
+    "vi": "Đền thờ lớn Hội Phục Hưng (Đá vôi)"
   },
   {
     "key": "building_name_large_shrine_pagan_stone",
     "type": 0,
     "en": "Large Oak Brethren Shrine (Limestone)",
-    "vi": "Đền Thờ Lớn Huynh Đệ Cây Sồi (Đá Vôi)"
+    "vi": "Đền thờ lớn Huynh Đệ Cây Sồi (Đá vôi)"
   },
   {
     "key": "building_name_prison_marker",
     "type": 0,
     "en": "Prison Cell Marker",
-    "vi": "Vạch Quy Hoạch Phòng Giam"
+    "vi": "Mốc phòng giam"
   },
   {
     "key": "building_name_gallows",
     "type": 0,
     "en": "Gallows",
-    "vi": "Giá Treo Cổ Đoạt Mạng"
+    "vi": "Giá treo cổ"
   },
   {
     "key": "building_name_large_shrine_christian",
     "type": 0,
     "en": "Large Restitutionist Shrine",
-    "vi": "Đền Thờ Lớn Hội Phục Hưng"
+    "vi": "Đền thờ lớn Hội Phục Hưng"
   },
   {
     "key": "building_name_large_shrine_pagan",
     "type": 0,
     "en": "Large Oak Brethren Shrine",
-    "vi": "Đền Thờ Lớn Huynh Đệ Cây Sồi"
+    "vi": "Đền thờ lớn Huynh Đệ Cây Sồi"
   },
   {
     "key": "building_name_shield_rack_single_wall",
     "type": 0,
     "en": "Decorative Shield Rack",
-    "vi": "Giá Khiên Treo Tường Trang Trí"
+    "vi": "Giá khiên trang trí treo tường"
   },
   {
     "key": "building_name_trophy_rack_wall",
     "type": 0,
     "en": "Decorative Trophy Rack",
-    "vi": "Giá Chiến Lợi Phẩm Treo Tường"
+    "vi": "Giá chiến tích trang trí treo tường"
   },
   {
     "key": "building_name_weapon_rack_single_wall",
     "type": 0,
     "en": "Decorative Weapon Rack",
-    "vi": "Giá Vũ Khí Treo Tường Trang Trí"
+    "vi": "Giá vũ khí trang trí treo tường"
   },
   {
     "key": "building_name_weapon_rack_wall",
     "type": 0,
     "en": "Wall-mounted Weapon Rack",
-    "vi": "Giá Gác Vũ Khí Gắn Tường"
+    "vi": "Giá vũ khí treo tường"
   },
   {
     "key": "building_name_chest",
     "type": 0,
     "en": "Chest",
-    "vi": "Rương Gỗ Đựng Đồ"
+    "vi": "Rương"
   },
   {
     "key": "building_name_chest_iron",
     "type": 0,
     "en": "Chest (Iron)",
-    "vi": "Rương Sắt"
+    "vi": "Rương (Sắt)"
   },
   {
     "key": "building_name_chest_steel",
     "type": 0,
     "en": "Chest (Steel)",
-    "vi": "Rương Thép Kiên Cố"
+    "vi": "Rương (Thép)"
   },
   {
     "key": "building_name_chest_silver",
     "type": 0,
     "en": "Chest (Silver)",
-    "vi": "Rương Bạc Quý"
+    "vi": "Rương (Bạc)"
   },
   {
     "key": "building_name_chest_gold",
     "type": 0,
     "en": "Chest (Gold)",
-    "vi": "Rương Vàng Ròng"
+    "vi": "Rương (Vàng)"
   },
   {
     "key": "building_name_chest_wood",
     "type": 0,
     "en": "Chest (Wood)",
-    "vi": "Rương (gỗ)"
+    "vi": "Rương (Gỗ)"
   },
   {
     "key": "building_name_chest_wicker",
     "type": 0,
     "en": "Chest (Wicker)",
-    "vi": "Rương (đan lát)"
+    "vi": "Rương (Mây tre đan)"
   },
   {
     "key": "building_name_pen_marker",
@@ -135,7 +135,7 @@
     "key": "building_name_sign_wall",
     "type": 0,
     "en": "Wall Sign",
-    "vi": "Biển hiệu tường"
+    "vi": "Biển hiệu treo tường"
   },
   {
     "key": "building_name_backgammon_table",
@@ -147,7 +147,7 @@
     "key": "building_name_silver_mirror_wall",
     "type": 0,
     "en": "Wall Mirror",
-    "vi": "Gương tường"
+    "vi": "Gương treo tường"
   },
   {
     "key": "building_name_statue_large",
@@ -159,31 +159,31 @@
     "key": "building_name_stone_statue_large",
     "type": 0,
     "en": "Large Statue (Limestone)",
-    "vi": "Tượng lớn (đá vôi)"
+    "vi": "Tượng lớn (Đá vôi)"
   },
   {
     "key": "building_name_wood_statue_large",
     "type": 0,
     "en": "Large Statue (Wood)",
-    "vi": "Tượng lớn (gỗ)"
+    "vi": "Tượng lớn (Gỗ)"
   },
   {
     "key": "building_name_statue_wall",
     "type": 0,
     "en": "Wall Relief",
-    "vi": "Phù điêu tường"
+    "vi": "Phù điêu treo tường"
   },
   {
     "key": "building_name_stone_statue_wall",
     "type": 0,
     "en": "Wall Relief (Limestone)",
-    "vi": "Phù điêu tường (đá vôi)"
+    "vi": "Phù điêu treo tường (Đá vôi)"
   },
   {
     "key": "building_name_wood_statue_wall",
     "type": 0,
     "en": "Wall Relief (Wood)",
-    "vi": "Phù điêu tường (gỗ)"
+    "vi": "Phù điêu treo tường (Gỗ)"
   },
   {
     "key": "building_name_rug_large",
@@ -195,13 +195,13 @@
     "key": "building_name_wool_rug_large",
     "type": 0,
     "en": "Rug (Wool)",
-    "vi": "Thảm (len)"
+    "vi": "Thảm (Len)"
   },
   {
     "key": "building_name_linen_rug_large",
     "type": 0,
     "en": "Rug (Linen)",
-    "vi": "Thảm (lanh)"
+    "vi": "Thảm (Lanh)"
   },
   {
     "key": "building_name_hay_rug_large",
@@ -213,97 +213,97 @@
     "key": "building_name_leather_deer_rug_large",
     "type": 0,
     "en": "Rug (Deer hide)",
-    "vi": "Thảm (da hươu)"
+    "vi": "Thảm (Da hươu)"
   },
   {
     "key": "building_name_leather_hare_rug_large",
     "type": 0,
     "en": "Rug (Hare pelt)",
-    "vi": "Thảm (da thỏ)"
+    "vi": "Thảm (Da thỏ)"
   },
   {
     "key": "building_name_leather_wolf_rug_large",
     "type": 0,
     "en": "Rug (Wolf pelt)",
-    "vi": "Thảm (da sói)"
+    "vi": "Thảm (Da sói)"
   },
   {
     "key": "building_name_leather_boar_rug_large",
     "type": 0,
     "en": "Rug (Boar pelt)",
-    "vi": "Thảm (da lợn rừng)"
+    "vi": "Thảm (Da lợn rừng)"
   },
   {
     "key": "building_name_leather_fox_rug_large",
     "type": 0,
     "en": "Rug (Fox pelt)",
-    "vi": "Thảm (da cáo)"
+    "vi": "Thảm (Da cáo)"
   },
   {
     "key": "building_name_leather_rat_rug_large",
     "type": 0,
     "en": "Rug (Rat pelt)",
-    "vi": "Thảm (da chuột)"
+    "vi": "Thảm (Da chuột)"
   },
   {
     "key": "building_name_leather_water_vole_rug_large",
     "type": 0,
     "en": "Rug (Water vole pelt)",
-    "vi": "Thảm (da chuột đồng nước)"
+    "vi": "Thảm (Da chuột đồng nước)"
   },
   {
     "key": "building_name_leather_polecat_rug_large",
     "type": 0,
     "en": "Rug (Polecat pelt)",
-    "vi": "Thảm (da chồn hôi)"
+    "vi": "Thảm (Da chồn hôi)"
   },
   {
     "key": "building_name_leather_cow_rug_large",
     "type": 0,
     "en": "Rug (Cow hide)",
-    "vi": "Thảm (da bò)"
+    "vi": "Thảm (Da bò)"
   },
   {
     "key": "building_name_leather_goat_rug_large",
     "type": 0,
     "en": "Rug (Goat skin)",
-    "vi": "Thảm (da dê)"
+    "vi": "Thảm (Da dê)"
   },
   {
     "key": "building_name_leather_sheep_rug_large",
     "type": 0,
     "en": "Rug (Sheep skin)",
-    "vi": "Thảm (da cừu)"
+    "vi": "Thảm (Da cừu)"
   },
   {
     "key": "building_name_leather_donkey_rug_large",
     "type": 0,
     "en": "Rug (Ass hide)",
-    "vi": "Thảm (da lừa)"
+    "vi": "Thảm (Da lừa)"
   },
   {
     "key": "building_name_leather_cat_rug_large",
     "type": 0,
     "en": "Rug (Cat skin)",
-    "vi": "Thảm (da mèo)"
+    "vi": "Thảm (Da mèo)"
   },
   {
     "key": "building_name_leather_dog_rug_large",
     "type": 0,
     "en": "Rug (Dog pelt)",
-    "vi": "Thảm (da chó)"
+    "vi": "Thảm (Da chó)"
   },
   {
     "key": "building_name_leather_human_rug_large",
     "type": 0,
     "en": "Rug (Human skin)",
-    "vi": "Thảm (da người)"
+    "vi": "Thảm (Da người)"
   },
   {
     "key": "building_name_leather_bear_rug_large",
     "type": 0,
     "en": "Rug (Bear skin)",
-    "vi": "Thảm (da gấu)"
+    "vi": "Thảm (Da gấu)"
   },
   {
     "key": "building_name_tapestry_vertical_wall",
@@ -315,7 +315,7 @@
     "key": "building_name_painting_vertical_wall",
     "type": 0,
     "en": "Painting",
-    "vi": "Tranh"
+    "vi": "Tranh treo tường"
   },
   {
     "key": "building_name_wooden_well",
@@ -339,19 +339,19 @@
     "key": "building_info_wooden_well",
     "type": 0,
     "en": "A wooden structure for drawing up clean water. ",
-    "vi": "Công trình gỗ dùng để kéo nước sạch lên. "
+    "vi": "Công trình bằng gỗ dùng để kéo nước sạch lên."
   },
   {
     "key": "building_info_barrel_small",
     "type": 0,
     "en": "A small barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water.",
-    "vi": "Thùng nhỏ được buộc khéo léo bằng dây bấc phủ sáp. Khi cháy, dây bấc đứt và giải phóng nước."
+    "vi": "Thùng nhỏ được buộc khéo léo bằng dây bấc phủ sáp. Dây bấc sẽ cháy khi gặp lửa, giải phóng nước để dập lửa."
   },
   {
     "key": "building_info_barrel_large",
     "type": 0,
     "en": "A hefty barrel cunningly bound in waxy wicks. These burn away in a fire, releasing water.",
-    "vi": "Thùng lớn được buộc khéo léo bằng dây bấc phủ sáp. Khi cháy, dây bấc đứt và giải phóng nước."
+    "vi": "Thùng lớn được buộc khéo léo bằng dây bấc phủ sáp. Dây bấc sẽ cháy khi gặp lửa, giải phóng nước để dập lửa."
   },
   {
     "key": "building_name_metal_trap",
@@ -399,7 +399,7 @@
     "key": "building_info_oil_trap",
     "type": 0,
     "en": "Set a brutal fire trap and watch your enemies burn.",
-    "vi": "Đặt bẫy lửa tàn bạo và nhìn kẻ thù bốc cháy."
+    "vi": "Đặt một chiếc bẫy lửa khốc liệt và nhìn kẻ thù bốc cháy."
   },
   {
     "key": "building_info_oil_trap_greek_fire",
@@ -411,7 +411,7 @@
     "key": "building_info_oil_blob",
     "type": 0,
     "en": "Lay a trail of oil splashes to ignite in a fiery chain.",
-    "vi": "Rải một đường dầu để châm thành chuỗi lửa."
+    "vi": "Rải một vệt dầu để tạo thành chuỗi lửa bùng cháy liên hoàn."
   },
   {
     "key": "building_info_oil_blob_greek_fire",
@@ -435,7 +435,7 @@
     "key": "building_name_limestone_sarcophagus",
     "type": 0,
     "en": "Limestone Sarcophagus",
-    "vi": "Quan tài đá vôi"
+    "vi": "Quách đá vôi"
   },
   {
     "key": "building_name_unmarked_grave",
@@ -447,13 +447,13 @@
     "key": "building_name_wood_normal_grave",
     "type": 0,
     "en": "Wooden Grave Marker",
-    "vi": "Mốc mộ gỗ"
+    "vi": "Bia mộ gỗ"
   },
   {
     "key": "building_name_wood_sarcophagus",
     "type": 0,
     "en": "Wooden Sarcophagus",
-    "vi": "Quan tài gỗ"
+    "vi": "Quách gỗ"
   },
   {
     "key": "building_name_barley_cropfield",
@@ -507,19 +507,19 @@
     "key": "building_name_default_stockpile",
     "type": 0,
     "en": "Default Stockpile",
-    "vi": "Kho mặc định"
+    "vi": "Bãi chứa mặc định"
   },
   {
     "key": "building_name_dumping_stockpile",
     "type": 0,
     "en": "Dumping Stockpile",
-    "vi": "Kho đổ bỏ"
+    "vi": "Bãi đổ bỏ"
   },
   {
     "key": "building_name_warfare_stockpile",
     "type": 0,
     "en": "Warfare Stockpile",
-    "vi": "Kho chiến tranh"
+    "vi": "Bãi chứa quân trang"
   },
   {
     "key": "building_name_redcurrant_cropfield",
@@ -531,7 +531,7 @@
     "key": "building_name_maple_cropfield",
     "type": 0,
     "en": "Field Maple",
-    "vi": "Phong đồng"
+    "vi": "Cây phong đồng"
   },
   {
     "key": "building_name_oak_cropfield",
@@ -543,7 +543,7 @@
     "key": "building_name_pine_cropfield",
     "type": 0,
     "en": "Scots Pine",
-    "vi": "Thông Scots"
+    "vi": "Cây thông Scots"
   },
   {
     "key": "building_name_willow_cropfield",
@@ -573,7 +573,7 @@
     "key": "building_info_limestone_block_floor",
     "type": 0,
     "en": "Dressed limestone makes lovely flagstones for a floor that could last for generations.",
-    "vi": "Đá vôi đẽo gọt tạo thành những phiến lát đẹp mắt cho mặt sàn bền qua nhiều thế hệ."
+    "vi": "Đá vôi đẽo gọt tạo thành những phiến lát đẹp mắt cho mặt sàn bền vững qua nhiều thế hệ."
   },
   {
     "key": "building_info_limestone_floor",
@@ -585,13 +585,13 @@
     "key": "building_info_wicker_floor",
     "type": 0,
     "en": "This floor fashioned with sticks can be used as a platform for a second floor. ",
-    "vi": "Sàn làm từ que gỗ này có thể dùng làm bệ cho tầng thứ hai. "
+    "vi": "Sàn làm từ que đan này có thể dùng làm bệ đỡ cho tầng hai."
   },
   {
     "key": "building_info_wood_floor",
     "type": 0,
     "en": "Rough planks laid flat can be sanded to make a level floor.",
-    "vi": "Ván thô đặt phẳng có thể được chà nhẵn để tạo mặt sàn bằng phẳng."
+    "vi": "Ván gỗ thô đặt phẳng có thể được chà nhẵn để tạo mặt sàn bằng phẳng."
   },
   {
     "key": "building_info_metal_grated_platform",
@@ -609,7 +609,7 @@
     "key": "building_info_stone_decorative_floor",
     "type": 0,
     "en": "A mosaic of beautiful stone in many hues is laid precisely on the floor.",
-    "vi": "Đá đẹp nhiều màu được ghép chính xác thành hoa văn trên sàn."
+    "vi": "Đá đẹp nhiều màu được ghép tỉ mỉ thành hoa văn trên sàn."
   },
   {
     "key": "building_info_clay_decorative_floor",
@@ -651,252 +651,252 @@
     "key": "building_info_wood_wall_element",
     "type": 0,
     "en": "A simple but solid wall, built from wooden logs.",
-    "vi": "Bức tường đơn giản nhưng vững chắc, xây từ các khúc gỗ."
+    "vi": "Bức tường đơn giản nhưng vững chắc, xây từ các khúc gỗ tròn."
   },
   {
     "key": "building_info_clay_brick_merlon",
     "type": 0,
     "en": "Sturdy and smart, brick merlons present an imposing battlement facade, second only to solid limestone.",
-    "vi": "Vững chắc và gọn đẹp, chóp tường gạch tạo mặt công sự uy nghi, chỉ kém đá vôi nguyên khối."
+    "vi": "Vững chắc và gọn đẹp, tường răng cưa gạch tạo mặt công sự uy nghi, chỉ sau đá vôi khối."
   },
   {
     "key": "building_info_clay_merlon",
     "type": 0,
     "en": "A finishing touch to battlements shaped from moulded clay. Decorative and useful.",
-    "vi": "Khối chắn đầu bờ tường thành được đúc khuôn tỉ mỉ từ đất sét. Vừa gia tăng tính thẩm mỹ vừa che chắn hiệu quả cho xạ thủ."
+    "vi": "Điểm nhấn hoàn thiện cho bờ thành được đúc từ đất sét. Vừa đẹp mắt vừa hữu dụng."
   },
   {
     "key": "building_info_limestone_merlon",
     "type": 0,
     "en": "Rough-hewn yet impenetrable, protection for your battlement archers.",
-    "vi": "Được đẽo thô từ những tảng đá vôi nhưng vô cùng rắn chắc, tạo lá chắn vững chãi cho cung thủ trấn giữ trên mặt thành."
+    "vi": "Được đẽo thô nhưng kiên cố, mang lại sự che chắn cho các cung thủ trên mặt thành."
   },
   {
     "key": "building_info_wood_merlon",
     "type": 0,
     "en": "Wooden stockades have offered valid protection from ingress down the ages.",
-    "vi": "Hàng rào cọc gỗ từ ngàn xưa đã luôn là lá chắn phòng thủ hữu hiệu ngăn bước chân quân thù đột kích."
+    "vi": "Hàng rào cọc gỗ luôn mang lại sự bảo vệ hữu hiệu trước các đợt đột kích qua bao thời đại."
   },
   {
     "key": "building_info_limestone_block_merlon",
     "type": 0,
     "en": "For the finest crenellations, add dressed limestone merlons. A noble fortification.",
-    "vi": "Để tạo nên những bức tường thành tráng lệ và kiên cố nhất, hãy bổ sung các ụ răng thành đá vôi gọt dũa. Một pháo đài đích thực dành cho bậc quý tộc."
+    "vi": "Để có bờ thành tinh xảo nhất, hãy dựng thêm các tường răng cưa bằng đá vôi đẽo gọt. Một công sự phòng thủ quý phái."
   },
   {
     "key": "building_info_dirt_slope",
     "type": 0,
     "en": "A basic access ramp fashioned from dirt.",
-    "vi": "Con dốc nghiêng cơ bản đắp từ đất nện giúp dân làng lên xuống giữa các tầng cao."
+    "vi": "Con dốc nghiêng cơ bản đắp từ đất để đi lại."
   },
   {
     "key": "building_info_clay_brick_stair",
     "type": 0,
     "en": "Clay blocks make for weighty steps with lasting appeal.",
-    "vi": "Những khối gạch đất sét nung vững chắc tạo nên các bậc thang đầm chân với độ bền trường tồn cùng thời gian."
+    "vi": "Các khối gạch đất sét tạo nên những bậc thang vững chãi với vẻ đẹp trường tồn."
   },
   {
     "key": "building_info_clay_stair",
     "type": 0,
     "en": "A basic escalier moulded from dirt.",
-    "vi": "Bậc thang mộc mạc được đắp nặn từ đất sét thô."
+    "vi": "Bậc thang mộc mạc được đắp nặn từ đất sét."
   },
   {
     "key": "building_info_limestone_block_stair",
     "type": 0,
     "en": "An elevated means of ascension. Solid steps worthy of an experienced mason.",
-    "vi": "Lối thang bước lên tầng cao. Những bậc đá vuông vức vững chãi xứng tầm tay nghề của người thợ đá bậc thầy."
+    "vi": "Lối bước lên tầng cao. Những bậc đá vuông vức vững chãi xứng tầm tay nghề thợ đá kinh nghiệm."
   },
   {
     "key": "building_info_limestone_stair",
     "type": 0,
     "en": "Rough hewn but solid steps.",
-    "vi": "Bậc thang đá vôi thô nhưng chắc chắn."
+    "vi": "Bậc thang đá vôi đẽo thô nhưng chắc chắn."
   },
   {
     "key": "building_info_wood_stair_straight",
     "type": 0,
     "en": "A flight of steps constructed from wooden planks.",
-    "vi": "Nhịp cầu thang thẳng đứng lắp ghép từ các thanh ván gỗ tự nhiên."
+    "vi": "Nhịp cầu thang thẳng lắp ghép từ các tấm ván gỗ."
   },
   {
     "key": "building_info_wooden_stair_square",
     "type": 0,
     "en": "Flights of wooden stairs that turn corners as they ascend in tight spaces.",
-    "vi": "Cầu thang gỗ gấp khúc vuông vức khi lên cao, cực kỳ tiết kiệm diện tích trong không gian chật hẹp."
+    "vi": "Cầu thang gỗ gấp khúc vuông vức khi lên cao, rất phù hợp cho không gian chật hẹp."
   },
   {
     "key": "building_info_clay_brick_window",
     "type": 0,
     "en": "An opening framed in brick. A window on the world.",
-    "vi": "Khung cửa sổ vuông vắn viền gạch nung. Một ô cửa sổ mở ra thế giới muôn màu."
+    "vi": "Khung mở viền bằng gạch. Cửa sổ nhìn ra thế giới bên ngoài."
   },
   {
     "key": "building_info_clay_window",
     "type": 0,
     "en": "A hole punched through an earthen wall is simple, but usable.",
-    "vi": "Một lỗ trổ xuyên qua vách tường đất thô sơ, mộc mạc nhưng tiện dụng."
+    "vi": "Một lỗ trổ xuyên qua vách tường đất tuy thô sơ nhưng tiện dụng."
   },
   {
     "key": "building_info_limestone_block_window",
     "type": 0,
     "en": "Fine dressed stone mullion windows are an architectural highlight in churches and castles.",
-    "vi": "Cửa sổ đá gọt đẽo tinh xảo có đố chia thanh nhã — điểm nhấn kiến trúc sang trọng thường thấy trong các tu viện và lâu đài cổ."
+    "vi": "Cửa sổ chia ô bằng đá đẽo gọt tinh xảo là điểm nhấn kiến trúc trong các nhà thờ và lâu đài."
   },
   {
     "key": "building_info_limestone_window",
     "type": 0,
     "en": "An aperture in stone. To let air in, or arrows out.",
-    "vi": "Khung mở trên tường đá vôi. Vừa để đón luồng gió mát vừa làm lỗ châu mai bắn tên ra ngoài."
+    "vi": "Khe hở trên tường đá. Đón không khí vào hoặc bắn tên ra ngoài."
   },
   {
     "key": "building_info_wood_window",
     "type": 0,
     "en": "A classic, timber-framed window lets the light flood into dark places.",
-    "vi": "Khung cửa sổ gỗ kinh điển giúp mang ánh sáng ban mai chan hòa vào những căn phòng tối tăm."
+    "vi": "Cửa sổ khung gỗ kinh điển mang ánh sáng chan hòa vào những nơi tối tăm."
   },
   {
     "key": "building_info_wood_beam",
     "type": 0,
     "en": "Beams of solid wood have held up the floors and ceilings of England for centuries.",
-    "vi": "Những cây xà dầm bằng gỗ đặc đã chống đỡ sàn và trần nhà trên khắp cõi đất Anh quốc suốt hàng bao thế kỷ."
+    "vi": "Những thanh xà gỗ đặc đã chống đỡ sàn và trần nhà trên khắp nước Anh suốt nhiều thế kỷ."
   },
   {
     "key": "building_info_limestone_block_beam",
     "type": 0,
     "en": "Stone arches require skilled masons. But these will stand the test of time, gracefully bearing heavy loads.",
-    "vi": "Vòm cổng bằng đá đòi hỏi tay nghề điêu luyện của thợ đá bậc thầy. Chúng sẽ trường tồn cùng thời gian, kiêu hãnh gánh đỡ những tải trọng đồ sộ nhất."
+    "vi": "Vòm đá đòi hỏi thợ đá lành nghề. Chúng sẽ đứng vững trước thử thách của thời gian, gánh đỡ tải trọng lớn một cách thanh thoát."
   },
   {
     "key": "building_info_clay_brick_beam",
     "type": 0,
     "en": "Constructed over a timber form, a sturdy brick arch makes an attractive, load-bearing support.",
-    "vi": "Được xây dựng uốn quanh khuôn gỗ, vòm cuốn bằng gạch nung tạo nên một kết cấu chịu lực tuyệt đẹp và kiên cố."
+    "vi": "Được xây dựng trên khuôn gỗ, vòm gạch kiên cố tạo nên kết cấu chịu lực đẹp mắt và vững chắc."
   },
   {
     "key": "building_info_clay_brick_chimney",
     "type": 0,
     "en": "A smoke hood fashioned from brick. Funnels smoke outwith.",
-    "vi": "Chụp khói dẫn nhiệt xây từ gạch nung, giúp gom và dẫn toàn bộ khói bếp thoát ra ngoài trời."
+    "vi": "Chụp khói xây bằng gạch. Dẫn khói thoát ra ngoài trời."
   },
   {
     "key": "building_info_limestone_block_chimney",
     "type": 0,
     "en": "The fine lines of this dressed stone chimney suggest an elegant hearth.",
-    "vi": "Những đường nét vuông vức tinh tế của ống khói đá vôi gọt dũa tôn vinh nét sang trọng của một bếp sưởi quý phái."
+    "vi": "Đường nét thanh nhã của ống khói đá đẽo gọt tôn vinh vẻ đẹp của bếp sưởi sang trọng."
   },
   {
     "key": "building_info_limestone_chimney",
     "type": 0,
     "en": "Rough limestone and mortar suffice to build a sturdy chimney.",
-    "vi": "Đá vôi thô kết hợp cùng vữa hồ là quá đủ để tạo nên một ống khói thoát nhiệt vững chắc."
+    "vi": "Đá vôi thô và vữa là đủ để dựng nên một ống khói vững chắc."
   },
   {
     "key": "building_info_reinforced_door",
     "type": 0,
     "en": "If you prefer to think of your home as a fortress, this double-strength entry is for you.",
-    "vi": "Nếu bạn muốn biến tổ ấm của mình thành một pháo đài kiên cố, cánh cửa gỗ bọc sắt tăng cường độ bền gấp đôi này chính là giải pháp hoàn hảo."
+    "vi": "Nếu bạn muốn biến tổ ấm của mình thành một pháo đài, lối vào gia cố gấp đôi độ bền này chính là lựa chọn cho bạn."
   },
   {
     "key": "building_info_wood_door",
     "type": 0,
     "en": "A timber door offers strength and security, and is easily repaired.",
-    "vi": "Cánh cửa gỗ ván mang lại sự an toàn và riêng tư, đồng thời rất dễ dàng sửa chữa khi bị hư hại."
+    "vi": "Cửa gỗ mang lại sự vững chắc và an toàn, đồng thời rất dễ sửa chữa."
   },
   {
     "key": "building_info_fence_gate",
     "type": 0,
     "en": "An access point between outdoor areas.",
-    "vi": "Lối ra vào tiện lợi thông giữa các khoảnh sân vườn ngoài trời."
+    "vi": "Lối đi lại thông giữa các khu vực ngoài trời."
   },
   {
     "key": "building_info_barn_door",
     "type": 0,
     "en": "Offers some protection from the elements, but cannot be secured against wandering animals or enemies.",
-    "vi": "Giúp che chắn chuồng trại khỏi gió mưa sương gió, nhưng không thể khóa chốt để ngăn thú hoang đi lạc hay kẻ thù đột kích."
+    "vi": "Bảo vệ phần nào khỏi thời tiết, nhưng không thể khóa chốt để ngăn động vật đi lạc hay kẻ thù đột kích."
   },
   {
     "key": "building_info_grated_door",
     "type": 0,
     "en": "A portal with a view. See who - or what - is outside before you open it.",
-    "vi": "Cánh cửa lưới sắt giúp bạn dễ dàng quan sát xem ai — hoặc thứ gì — đang rập rình bên ngoài trước khi quyết định mở then cài."
+    "vi": "Cánh cửa có khe nhìn. Giúp bạn xem ai — hoặc thứ gì — đang ở bên ngoài trước khi mở then."
   },
   {
     "key": "building_info_wicker_door",
     "type": 0,
     "en": "A flimsy barrier woven from supple sticks. It affords some warmth, little defense and is easy to traverse quickly.",
-    "vi": "Tấm chắn mỏng manh đan bện từ những nhánh cành liễu gai mềm. Giữ ấm đôi chút, khả năng phòng thủ kém nhưng rất tiện lợi để đi qua nhanh chóng."
+    "vi": "Cánh cửa mỏng manh đan từ cành que dẻo. Giữ ấm đôi chút, phòng thủ kém nhưng đi qua lại rất nhanh chóng."
   },
   {
     "key": "building_info_siege_weapon_ballista",
     "type": 0,
     "en": "Flings bolts and stones from a fixed position.",
-    "vi": "Cỗ máy bắn tên khổng lồ (Ballista) phóng những mũi tên lao và tảng đá cực mạnh từ vị trí cố định."
+    "vi": "Phóng tiễn lớn và đá tảng từ vị trí cố định."
   },
   {
     "key": "building_info_mounted_cannon",
     "type": 0,
     "en": "Fires cannonballs from a fixed position.",
-    "vi": "Khẩu thần công đại bác uy lực khai hỏa những quả đạn pháo gang từ vị trí cố định."
+    "vi": "Bắn đạn đại bác từ vị trí cố định."
   },
   {
     "key": "building_info_movable_ballista",
     "type": 0,
     "en": "Fires bolts and stones. May be repositioned with some effort.",
-    "vi": "Cỗ máy bắn tên cơ động phóng tên lao và đá tảng. Có thể di chuyển đổi trận địa khi cần thiết."
+    "vi": "Phóng tiễn lớn và đá tảng. Có thể thay đổi vị trí dù hơi tốn sức."
   },
   {
     "key": "building_info_movable_cannon",
     "type": 0,
     "en": "Fires canonballs. May be repositioned with some effort.",
-    "vi": "Khẩu pháo cơ động bắn đạn pháo công phá tầm xa. Có thể kéo chuyển vị trí chiến đấu."
+    "vi": "Bắn đạn đại bác. Có thể thay đổi vị trí dù hơi tốn sức."
   },
   {
     "key": "building_info_movable_organ_gun",
     "type": 0,
     "en": "The ribauldequin is an infernal machine with a row of small barrels. Fires a volley of shot.",
-    "vi": "Súng nhiều nòng Ribauldequin (Đại bác chùm) là cỗ hỏa khí hủy diệt với một dãy nòng súng nhỏ, khai hỏa đồng loạt cả loạt đạn ghém chết chóc quét sạch hàng ngũ quân thù."
+    "vi": "Ribauldequin là cỗ máy bắn phá ghê gớm với một hàng nòng nhỏ. Bắn ra một loạt đạn ghém."
   },
   {
     "key": "building_info_siege_weapon_trebuchet",
     "type": 0,
     "en": "A deadly siege engine with a long, pivoting arm to hurl missiles. ",
-    "vi": "Cỗ máy bắn đá công thành tầm xa uy lực hủy diệt với cánh tay đòn đối trọng khổng lồ, phóng những tảng đá nghiền nát tường thành kiên cố."
+    "vi": "Vũ khí công thành uy lực với cánh tay đòn dài có trục xoay để ném đạn đá."
   },
   {
     "key": "building_info_wood_ladder",
     "type": 0,
     "en": "A bit more precarious then a staircase, but takes up much less space.",
-    "vi": "Nguy hiểm và chông chênh hơn cầu thang một chút, nhưng chiếm cực kỳ ít diện tích mặt sàn."
+    "vi": "Hơi chông chênh hơn cầu thang một chút, nhưng chiếm ít diện tích hơn nhiều."
   },
   {
     "key": "building_info_wood_gate_tall",
     "type": 0,
     "en": "A tall and sturdy gate is a useful barrier to livestock and undesirables.",
-    "vi": "Cánh cổng gỗ cao lớn kiên cố là bức tường thành hữu hiệu ngăn chặn đàn gia súc đi lạc và những vị khách không mời mà đến."
+    "vi": "Cổng cao và chắc chắn là rào chắn hữu ích để ngăn gia súc và những vị khách không mời."
   },
   {
     "key": "building_info_wood_gate",
     "type": 0,
     "en": "A hinged barrier to close an opening. Can be doubled up for a wider entranceway.",
-    "vi": "Cánh cổng gỗ có bản lề dùng để bịt kín lối ra vào. Có thể ghép đôi hai cánh để mở rộng lối đi cho đoàn buôn xe kéo."
+    "vi": "Cổng có bản lề dùng để bịt kín lối ra vào. Có thể ghép đôi để mở rộng lối đi."
   },
   {
     "key": "building_info_wood_portcullis",
     "type": 0,
     "en": "A latticed grille that slides up or down within a gateway using chains. Deploy rapidly when under attack.",
-    "vi": "Cổng sắt/gỗ mắt cáo trượt thẳng đứng bằng hệ thống dây xích và ròng rọc. Có thể thả sập xuống tức thì khi căn cứ bị tấn công đột kích."
+    "vi": "Cổng lưới trượt lên xuống trong lối đi bằng dây xích. Hạ xuống nhanh chóng khi bị tấn công."
   },
   {
     "key": "building_info_backgammon_table",
     "type": 0,
     "en": "Two settlers can enjoy a game of backgammon for entertainment.",
-    "vi": "Hai dân làng có thể cùng nhau ngồi đánh một ván cờ thỏ cáo (Backgammon) để thư giãn đầu óc."
+    "vi": "Hai dân làng có thể chơi một ván cờ thỏ cáo để giải trí."
   },
   {
     "key": "building_info_clay_brazier",
     "type": 0,
     "en": "A clay container filled with glowing wood or charcoal for warmth.",
-    "vi": "Chậu gốm đất nung chứa than hoa đượm hồng giúp sưởi ấm không gian căn phòng trong những đêm đông giá rét."
+    "vi": "Chậu đất nung chứa than củi rực hồng để sưởi ấm."
   }
 ]

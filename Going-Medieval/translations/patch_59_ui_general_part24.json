@@ -27,7 +27,7 @@
     "key": "atb_info_RangedSpeed",
     "type": 0,
     "en": "Ranged weapon attack duration: base ranged attack duration +/- multipliers.",
-    "vi": "Ranged vũ khí attack duration: base ranged attack duration +/- multipliers."
+    "vi": "Thời gian ra đòn tầm xa: thời gian tấn công tầm xa cơ bản +/- hệ số."
   },
   {
     "key": "atb_info_ResearchSpeed",
@@ -45,13 +45,13 @@
     "key": "atb_info_SleepDepletionSpeed",
     "type": 0,
     "en": "Sleep depletion multiplier.",
-    "vi": "Giấc ngủ depletion multiplier."
+    "vi": "Hệ số tốc độ tiêu hao giấc ngủ."
   },
   {
     "key": "atb_info_SleepNeed",
     "type": 0,
     "en": "Sleep depletion rate. (Settlers lose 4% sleep per hour.)",
-    "vi": "Giấc ngủ depletion rate. (Settlers lose 4% Giấc ngủ per Giờ.)"
+    "vi": "Tốc độ tiêu hao giấc ngủ. (Dân làng giảm 4% giấc ngủ mỗi giờ.)"
   },
   {
     "key": "atb_info_SleepRecoverSpeed",
@@ -141,13 +141,13 @@
     "key": "atb_name_BloodLoss",
     "type": 0,
     "en": "Blood Loss",
-    "vi": "Máu Loss"
+    "vi": "Mất máu"
   },
   {
     "key": "atb_name_BloodRecovery",
     "type": 0,
     "en": "Blood Recovery",
-    "vi": "Máu Recovery"
+    "vi": "Hồi phục máu"
   },
   {
     "key": "atb_name_ButcheringYield",
@@ -165,19 +165,19 @@
     "key": "atb_name_ConsciousnessLoss",
     "type": 0,
     "en": "Loss of Consciousness ",
-    "vi": "Loss của Ý thức "
+    "vi": "Mất ý thức"
   },
   {
     "key": "atb_name_ConsciousnessMax",
     "type": 0,
     "en": "Consciousness Max",
-    "vi": "Ý thức Max"
+    "vi": "Ý thức tối đa"
   },
   {
     "key": "atb_name_ConsciousnessStep",
     "type": 0,
     "en": "Consciousness Recovery",
-    "vi": "Ý thức Recovery"
+    "vi": "Hồi phục ý thức"
   },
   {
     "key": "atb_name_ConsumptionSpeed",
@@ -285,7 +285,7 @@
     "key": "atb_name_HungerThreshold",
     "type": 0,
     "en": "Hunger Threshold",
-    "vi": "Mức độ đói Threshold"
+    "vi": "Ngưỡng đói"
   },
   {
     "key": "atb_name_HuntingRetaliateChance",
@@ -303,7 +303,7 @@
     "key": "atb_name_HuntingVisibility",
     "type": 0,
     "en": "Hunting Visibility",
-    "vi": "Săn bắn Visibility"
+    "vi": "Độ bị phát hiện khi săn mồi"
   },
   {
     "key": "atb_name_MakeClayBrick",
@@ -321,7 +321,7 @@
     "key": "atb_name_MeleeAttackSpeed",
     "type": 0,
     "en": "Melee Weapon Attack Duration Multiplier",
-    "vi": "Cận chiến Weapon Attack Duration Multiplier"
+    "vi": "Hệ số thời gian ra đòn cận chiến"
   },
   {
     "key": "atb_name_MeleeChance",
@@ -339,7 +339,7 @@
     "key": "atb_name_MineAmount",
     "type": 0,
     "en": "Mining Amount",
-    "vi": "Khai khoáng Amount"
+    "vi": "Sản lượng khai khoáng"
   },
   {
     "key": "atb_name_MineFail",
@@ -369,7 +369,7 @@
     "key": "atb_name_PainMax",
     "type": 0,
     "en": "Pain Max",
-    "vi": "Cơn đau Max"
+    "vi": "Mức đau tối đa"
   },
   {
     "key": "atb_name_PainStep",
@@ -381,7 +381,7 @@
     "key": "atb_name_PainTreshold",
     "type": 0,
     "en": "Pain Threshold",
-    "vi": "Cơn đau Threshold"
+    "vi": "Ngưỡng chịu đau"
   },
   {
     "key": "atb_name_RangedChance",
@@ -399,7 +399,7 @@
     "key": "atb_name_RangedRange",
     "type": 0,
     "en": "Global Range",
-    "vi": "Global Tầm xa"
+    "vi": "Tầm đánh tầm xa tổng thể"
   },
   {
     "key": "atb_name_RangedSpeed",
@@ -429,7 +429,7 @@
     "key": "atb_name_SleepNeed",
     "type": 0,
     "en": "Sleep Requirement",
-    "vi": "Giấc ngủ Requirement"
+    "vi": "Nhu cầu giấc ngủ"
   },
   {
     "key": "atb_name_SleepRecoverSpeed",
@@ -441,7 +441,7 @@
     "key": "atb_name_SleepThreshold",
     "type": 0,
     "en": "Sleep Threshold",
-    "vi": "Giấc ngủ Threshold"
+    "vi": "Ngưỡng buồn ngủ"
   },
   {
     "key": "atb_name_SmithingSpeed",
@@ -507,7 +507,7 @@
     "key": "atb_name_WoundRegen",
     "type": 0,
     "en": "Wound Regeneration",
-    "vi": "Vết thương Regeneration"
+    "vi": "Tốc độ lành vết thương"
   },
   {
     "key": "atb_name_GlobalXPgain",
@@ -549,7 +549,7 @@
     "key": "atb_name_CookingAmount",
     "type": 0,
     "en": "Cooking Yield",
-    "vi": "Nấu nướng Yield"
+    "vi": "Sản lượng nấu nướng"
   },
   {
     "key": "atb_info_CookingAmount",

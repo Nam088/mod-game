@@ -33,7 +33,7 @@
     "key": "event_belief_near_death_christian_to_pagan",
     "type": 0,
     "en": "In the face of death, <agent_name> found no comfort in the Lord, only darkness and terror. [His/Her] faith crumbled.",
-    "vi": "Đối mặt với ranh giới sinh tử, <agent_name> không tìm thấy bất kỳ sự an ủi nào nơi Thiên Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. [His/Her] đức tin đã hoàn toàn sụp đổ."
+    "vi": "Đối mặt với ranh giới sinh tử, <agent_name> chẳng tìm thấy bất kỳ sự an ủi nào nơi Chúa, chỉ thấy bóng tối mịt mùng và sự kinh hoàng tột độ. Đức tin của [His/Her] đã hoàn toàn sụp đổ."
   },
   {
     "key": "event_belief_near_death_pagan_to_christian",
@@ -45,31 +45,31 @@
     "key": "event_belief_intoxication_christian_to_pagan",
     "type": 0,
     "en": "Deep in [his/her] cups, <agent_name> felt an awful certainty that there was no God to save [him/her].",
-    "vi": "Chìm sâu trong chén rượu của [his/her], <agent_name> bỗng dâng lên một dự cảm chắc chắn đến rợn người rằng chẳng có vị Thiên Chúa nào đoái hoài cứu rỗi [him/her]."
+    "vi": "Chìm sâu trong chén rượu của [his/her], <agent_name> bỗng dâng lên một linh cảm rợn người rằng chẳng có vị Chúa nào đoái hoài cứu rỗi [him/her]."
   },
   {
     "key": "event_belief_intoxication_pagan_to_christian",
     "type": 0,
     "en": "Inebriated, <agent_name> had a sinking realization that the Old Gods had forsaken this land, and all who dwelled upon it, a long time ago.",
-    "vi": "Trong cơn say chếnh choáng, <agent_name> đau đớn nhận ra các Cổ Thần từ lâu đã ruồng bỏ mảnh đất này cùng tất cả những sinh linh cư ngụ trên đó."
+    "vi": "Trong cơn say chếnh choáng, <agent_name> đau đớn nhận ra chư thần cổ xưa từ lâu đã ruồng bỏ mảnh đất này cùng tất cả những sinh linh cư ngụ trên đó."
   },
   {
     "key": "event_belief_friend_died_christian_to_pagan",
     "type": 0,
     "en": "Is there a God? He would not allow <agent_name>'s friend to die so pitifully.",
-    "vi": "Liệu Thiên Chúa có thật sự hiện hữu? Nếu có, Ngài ắt đã không nhẫn tâm để bạn hữu của <agent_name> phải lìa đời một cách thảm thương đến thế."
+    "vi": "Liệu Chúa có thật sự hiện hữu? Nếu có, Ngài ắt đã không nhẫn tâm để bạn hữu của <agent_name> phải lìa đời một cách thảm thương đến thế."
   },
   {
     "key": "event_belief_friend_died_pagan_to_christian",
     "type": 0,
     "en": "<agent_name> abandoned hope in the Old Gods, when they saw fit to let [his/her] friend perish.",
-    "vi": "<agent_name> hoàn toàn từ bỏ niềm tin vào các Cổ Thần, khi chứng kiến các đấng tối cao trơ mắt nhìn bạn hữu của [his/her] bỏ mạng."
+    "vi": "<agent_name> hoàn toàn từ bỏ niềm tin vào chư thần cổ xưa, khi chứng kiến các đấng bề trên trơ mắt nhìn bạn hữu của [his/her] bỏ mạng."
   },
   {
     "key": "event_belief_raid_lost_christian_to_pagan",
     "type": 0,
     "en": "<agent_name> knew that God did not deign [him/her] worthy of triumph in battle",
-    "vi": "<agent_name> cay đắng nhận ra Thiên Chúa không đoái hoài ban cho [him/her] vinh quang chiến thắng nơi trận mạc."
+    "vi": "<agent_name> cay đắng nhận ra Chúa không đoái hoài ban cho [him/her] vinh quang chiến thắng nơi trận mạc."
   },
   {
     "key": "event_belief_raid_lost_pagan_to_christian",
@@ -81,19 +81,19 @@
     "key": "event_belief_raid_won_christian_to_christian",
     "type": 0,
     "en": "<agent_name> knew that [his/hers] was a righteous cause indeed.",
-    "vi": "<agent_name> tin tưởng vững chắc rằng con đường và chính nghĩa của [his/hers] đã được Thiên Chúa chở che và soi sáng."
+    "vi": "<agent_name> tin tưởng vững chắc rằng con đường và chính nghĩa của [his/hers] đã được Chúa chở che và soi sáng."
   },
   {
     "key": "event_belief_raid_won_pagan_to_pagan",
     "type": 0,
     "en": "The ancient ones honoured <agent_name> with the might to prevail.",
-    "vi": "Các Cổ Thần linh thiêng thời xa xưa đã ban phước cho <agent_name> sức mạnh vô song để đè bẹp kẻ thù."
+    "vi": "Chư thần cổ xưa linh thiêng đã ban phước cho <agent_name> sức mạnh vô song để đè bẹp kẻ thù."
   },
   {
     "key": "event_belief_flawless_item_christian_to_christian",
     "type": 0,
     "en": "<agent_name>'s faith in the guiding hand of God is magnified, as [his/her] efforts yield perfection.",
-    "vi": "Đức tin của <agent_name> vào bàn tay dẫn dắt nhiệm màu của Thiên Chúa càng thêm sâu sắc, khi thành quả lao động của [his/her] đạt tới cảnh giới hoàn mỹ."
+    "vi": "Đức tin của <agent_name> vào bàn tay dẫn dắt nhiệm màu của Chúa càng thêm sâu sắc, khi thành quả lao động của [his/her] đạt tới cảnh giới hoàn mỹ."
   },
   {
     "key": "event_belief_flawless_item_pagan_to_pagan",
@@ -105,73 +105,73 @@
     "key": "event_belief_flimsy_item_christian_to_pagan",
     "type": 0,
     "en": "<agent_name> is thoroughly disappointed in God, for rendering [him/her] so clumsy and inept. ",
-    "vi": "<agent_name> vô cùng thất vọng vì Chúa đã khiến [him/her] vụng về và bất tài đến vậy. "
+    "vi": "<agent_name> vô cùng thất vọng về Chúa, vì Ngài đã khiến [him/her] trở nên vụng về và bất tài đến vậy. "
   },
   {
     "key": "event_belief_flimsy_item_pagan_to_christian",
     "type": 0,
     "en": "Where is the guidance of the Goddess when you need it, <agent_name> wonders, pondering [his/her] botched creation.",
-    "vi": "Khi cần thì Nữ thần dẫn lối ở đâu, <agent_name> tự hỏi trong lúc nhìn sản phẩm hỏng của [his/her]."
+    "vi": "Sự dẫn lối chỉ đường của Nữ thần ở đâu khi ta cần nhất? <agent_name> thầm tự hỏi trong khi nhìn món đồ hỏng do chính [his/her] tạo ra."
   },
   {
     "key": "event_belief_nature_thunderstorm_pagan_to_christian",
     "type": 0,
     "en": "Have I been praying to the wrong gods? <agent_name> wonders, amidst a mighty downpour from the heavens.",
-    "vi": "Ta đã cầu nguyện nhầm các vị thần sao? <agent_name> tự hỏi giữa trận mưa xối xả từ trời cao."
+    "vi": "Phải chăng ta đã dâng lời cầu nguyện nhầm chư thần? <agent_name> tự hỏi giữa trận mưa xối xả như trút nước từ trời cao."
   },
   {
     "key": "event_belief_nature_thunderstorm_christian_to_pagan",
     "type": 0,
     "en": "Have I been praying to the wrong god? <agent_name> wonders, as the heavens open to release torrential rain.",
-    "vi": "Ta đã cầu nguyện nhầm vị thần sao? <agent_name> tự hỏi khi trời đổ cơn mưa như trút nước."
+    "vi": "Phải chăng ta đã cầu nguyện nhầm Chúa? <agent_name> tự hỏi khi vòm trời mở toang trút xuống cơn mưa dữ dội."
   },
   {
     "key": "event_belief_nature_hailstorm_pagan_to_christian",
     "type": 0,
     "en": "<agent_name> felt that the Gods didn't care about <village_name> to allow such weather - if they even were the true gods.",
-    "vi": "<agent_name> cảm thấy chư thần chẳng quan tâm đến <village_name> khi để thời tiết này xảy ra - nếu họ thật sự là thần."
+    "vi": "<agent_name> cảm thấy chư thần chẳng hề bận lòng đoái hoài đến <village_name> khi để thời tiết khắc nghiệt này xảy ra — nếu họ thực sự là những vị thần chân chính."
   },
   {
     "key": "event_belief_nature_hailstorm_christian_to_pagan",
     "type": 0,
     "en": "<agent_name> was overcome by certainty that this hailstorm was a sign. [His/Her] prayers to God had not been heard.",
-    "vi": "<agent_name> tin chắc trận mưa đá này là một điềm báo. Những lời cầu nguyện của [His/Her] đã không đến được Chúa."
+    "vi": "<agent_name> tin chắc như đinh đóng cột rằng trận mưa đá này là một điềm báo: Những lời cầu nguyện của [His/Her] dâng lên Chúa đã không được Ngài lắng nghe."
   },
   {
     "key": "event_belief_belief_nature_heatwave_pagan_to_christian",
     "type": 0,
     "en": "<agent_name> felt miserable as the heat intensified. [His/Her] offerings to the Gods of the land had been for naught.",
-    "vi": "<agent_name> khốn khổ khi cái nóng ngày càng gay gắt. Những lễ vật [His/Her] dâng lên chư thần của vùng đất đều vô ích."
+    "vi": "<agent_name> vô cùng khốn khổ khi cái nóng ngày càng thêm gay gắt. Những lễ vật mà [His/Her] thành tâm dâng lên chư thần xứ sở hóa ra đều là công cốc."
   },
   {
     "key": "event_belief_belief_nature_heatwave_christian_to_pagan",
     "type": 0,
     "en": "<agent_name> felt overwhelmed by the stifling heat. A just God would not allow this, [he/she] thought.",
-    "vi": "<agent_name> kiệt quệ trước cái nóng ngột ngạt. Một vị Chúa công bằng sẽ không để điều này xảy ra, [he/she] nghĩ."
+    "vi": "<agent_name> cảm thấy kiệt quệ trước cái nóng hầm hập ngột ngạt. Một vị Chúa công bình sẽ không đời nào để chuyện này xảy ra, [he/she] thầm nghĩ."
   },
   {
     "key": "event_belief_belief_nature_coldsnap_pagan_to_christian",
     "type": 0,
     "en": "So, the Gods would have us freeze in our beds? <agent_name> was thoroughly sick of uncooperative deities making life miserable.",
-    "vi": "Vậy là chư thần muốn chúng ta chết cóng trên giường sao? <agent_name> đã quá chán những vị thần bất hợp tác khiến cuộc sống khốn khổ."
+    "vi": "Hóa ra chư thần muốn chúng ta chết cóng ngay trên giường của mình sao? <agent_name> đã quá ngán ngẩm những vị thần vô tâm khiến cuộc sống trở nên cơ cực lầm than."
   },
   {
     "key": "event_belief_belief_nature_coldsnap_christian_to_pagan",
     "type": 0,
     "en": "Hours spent on my knees, O Lord, beseeching you to care for your flock in <village_name>. Yet you would see us all chilled to the bone?",
-    "vi": "Con đã quỳ hàng giờ, lạy Chúa, cầu xin Ngài chăm nom đàn chiên tại <village_name>. Vậy mà Ngài muốn tất cả chúng con lạnh thấu xương sao?"
+    "vi": "Con đã quỳ gối hàng giờ, lạy Chúa, khẩn thiết van xin Ngài đoái thương che chở đàn chiên tại <village_name>. Vậy mà Ngài lại trơ mắt nhìn tất cả chúng con lạnh buốt thấu xương sao?"
   },
   {
     "key": "event_belief_belief_nature_blight_pagan_to_christian",
     "type": 0,
     "en": "<agent_name> cursed the Gods. And [him/her]self, for worshipping such callous deities.",
-    "vi": "<agent_name> nguyền rủa chư thần, và nguyền rủa [him/her]self vì đã thờ phụng những vị thần vô cảm ấy."
+    "vi": "<agent_name> nguyền rủa chư thần, và nguyền rủa chính bản thân [him/her] vì đã mù quáng tôn thờ những vị thần lạnh lùng vô cảm đến thế."
   },
   {
     "key": "event_belief_belief_nature_blight_christian_to_pagan",
     "type": 0,
     "en": "So, The Lord remains unmoved, even as He sends this blight to test us. <agent_name> resolved to pray to more compassionate gods.",
-    "vi": "Chúa vẫn không lay chuyển, ngay cả khi Ngài giáng dịch bệnh cây trồng để thử thách chúng ta. <agent_name> quyết định cầu nguyện những vị thần giàu lòng trắc ẩn hơn."
+    "vi": "Vậy là Chúa vẫn trơ trơ không chút động lòng, ngay cả khi Ngài giáng bệnh dịch cây trồng để thử thách con người. <agent_name> quyết tâm tìm đến những vị thần giàu lòng trắc ẩn hơn."
   },
   {
     "key": "difficulty_option_raidPointsMultiplier_title",
@@ -183,7 +183,7 @@
     "key": "difficulty_option_raidPointsMultiplier_info",
     "type": 0,
     "en": "Determines the amount of points used when spawning events like Blight and Raids. These points determine the number and strength of those events.",
-    "vi": "Quy định số điểm dùng khi tạo các sự kiện như dịch bệnh cây trồng và đột kích. Số điểm này quyết định số lượng và sức mạnh của sự kiện."
+    "vi": "Quy định số điểm dùng khi tạo các sự kiện như dịch bệnh cây trồng và đột kích. Số điểm này quyết định số lượng và sức mạnh của các sự kiện đó."
   },
   {
     "key": "difficulty_option_raidStrengthMultiplier_title",
@@ -213,13 +213,13 @@
     "key": "difficulty_option_merchantPrisonerEvent_title",
     "type": 0,
     "en": "Prisoner merchant visit",
-    "vi": "Thương nhân tù nhân ghé thăm"
+    "vi": "Thương nhân buôn tù nhân ghé thăm"
   },
   {
     "key": "difficulty_option_animalRaidEvent_title",
     "type": 0,
     "en": "Hostile Animals",
-    "vi": "Động vật thù địch"
+    "vi": "Thú hoang hung tợn"
   },
   {
     "key": "difficulty_option_animalRaidEvent_info",
@@ -231,7 +231,7 @@
     "key": "difficulty_option_enemyRaidEvent_title",
     "type": 0,
     "en": "Enemy Raid Events",
-    "vi": "Sự kiện kẻ địch đột kích"
+    "vi": "Sự kiện kẻ thù đột kích"
   },
   {
     "key": "difficulty_option_enemyRaidEvent_info",
@@ -267,7 +267,7 @@
     "key": "warning_message_info_Raid",
     "type": 0,
     "en": "Arm your settlers. You are being attacked!",
-    "vi": "Trang bị vũ khí cho dân làng. Bạn đang bị tấn công!"
+    "vi": "Hãy trang bị vũ khí cho dân làng. Bạn đang bị tấn công!"
   },
   {
     "key": "warning_message_short_Raid",
@@ -291,7 +291,7 @@
     "key": "raiders_defeated",
     "type": 0,
     "en": "Taking a heavy blow to their forces, the aggressors flee.",
-    "vi": "Bị tổn thất nặng nề, những kẻ tấn công tháo chạy."
+    "vi": "Bị tổn thất nặng nề, những kẻ tấn công hoảng loạn tháo chạy."
   },
   {
     "key": "raiders_won",
@@ -315,7 +315,7 @@
     "key": "warning_message_short_AnimalRaid",
     "type": 0,
     "en": "<style=DefaultRed>Hostile animals</style>",
-    "vi": "<style=DefaultRed>Động vật thù địch</style>"
+    "vi": "<style=DefaultRed>Thú hoang hung dữ</style>"
   },
   {
     "key": "warning_message_info_RaidCountdown",
@@ -333,7 +333,7 @@
     "key": "event_animal_raid_end",
     "type": 0,
     "en": "Hostile animals are leaving the area",
-    "vi": "Động vật thù địch đang rời khỏi khu vực"
+    "vi": "Động vật hung dữ đang rời khỏi khu vực"
   },
   {
     "key": "event_animal_raid_end_all_animals_dead",
@@ -435,13 +435,13 @@
     "key": "event_answer_help_runaway",
     "type": 0,
     "en": "<village_name>'s inhabitants decided to help [him/her].",
-    "vi": "Người dân <village_name> quyết định giúp [him/her]."
+    "vi": "Cư dân <village_name> quyết định giúp đỡ [him/her]."
   },
   {
     "key": "event_answer_surrender_worker",
     "type": 0,
     "en": "<village_name> surrendered <name> back to those hunting [him/her].",
-    "vi": "<village_name> giao trả <name> cho những kẻ đang săn lùng [him/her]."
+    "vi": "<village_name> giao nộp <name> cho những kẻ đang săn lùng [him/her]."
   },
   {
     "key": "event_answer_refuse_give_worker",
@@ -453,19 +453,19 @@
     "key": "event_answer_worker_allready_gone",
     "type": 0,
     "en": "Yet <name> was no longer at <village_name>. It was impossible to comply.",
-    "vi": "Nhưng <name> không còn ở <village_name>. Không thể đáp ứng yêu cầu."
+    "vi": "Thế nhưng <name> không còn ở <village_name>. Không thể đáp ứng yêu cầu."
   },
   {
     "key": "event_blight_01",
     "type": 0,
     "en": "The settlers knew that when crop blight appeared, it was a race against time. Every able worker in <village_name> toiled to weed out this scourge before it withered the healthy plants. <village_name>’s very future depended upon it!",
-    "vi": "Dân làng biết rằng khi dịch bệnh cây trồng xuất hiện, họ phải chạy đua với thời gian. Mọi người còn đủ sức tại <village_name> đều cố nhổ bỏ tai họa này trước khi cây khỏe mạnh héo úa. Tương lai của <village_name> phụ thuộc vào việc đó!"
+    "vi": "Dân làng biết rằng khi dịch bệnh cây trồng xuất hiện, họ phải chạy đua với thời gian. Mọi người còn đủ sức tại <village_name> đều cố nhổ bỏ tai họa này trước khi cây khỏe mạnh héo úa. Tương lai của <village_name> phụ thuộc hoàn toàn vào việc đó!"
   },
   {
     "key": "event_cold_01",
     "type": 0,
     "en": "Severe frost turned the ground to iron, ruining planted crops. Trees split, birds froze to death, and icicles hung from the rafters. It was vital for the settlers to dress warmly and heat <village_name> sleeping quarters, to evade the deathly kiss of cold.",
-    "vi": "Băng giá khắc nghiệt khiến mặt đất cứng như sắt và phá hỏng cây trồng. Cây cối nứt toác, chim chóc chết cóng, băng rủ xuống từ xà nhà. Dân làng phải mặc thật ấm và sưởi các phòng ngủ tại <village_name> để tránh nụ hôn chết chóc của giá lạnh."
+    "vi": "Băng giá khắc nghiệt khiến mặt đất cứng như sắt và phá hỏng cây trồng. Cây cối nứt toác, chim chóc chết cóng, băng nhọn rủ xuống từ xà nhà. Dân làng phải mặc thật ấm và sưởi các phòng ngủ tại <village_name> để tránh nụ hôn chết chóc của giá lạnh."
   },
   {
     "key": "event_cold_warning",
@@ -501,7 +501,7 @@
     "key": "event_merchant_01",
     "type": 0,
     "en": "The fact that he was hawking saints' relics that looked for all the world like chicken bones was hardly reassuring. Yet the ragged, smirking wanderer had much more to offer, for those mindful to trade.",
-    "vi": "Việc hắn rao bán thánh tích trông chẳng khác gì xương gà thật khó khiến người ta yên tâm. Nhưng với người muốn giao dịch, gã lữ khách rách rưới luôn cười nhếch mép ấy còn nhiều thứ khác để chào bán."
+    "vi": "Việc gã rao bán thánh tích trông chẳng khác gì mớ xương gà thật khó khiến người ta yên tâm. Nhưng với người muốn giao dịch, gã lữ khách rách rưới luôn cười nhếch mép ấy còn nhiều thứ khác để chào bán."
   },
   {
     "key": "event_merchant_02",
@@ -615,13 +615,13 @@
     "key": "event_name_new_worker_wounded_01",
     "type": 0,
     "en": "A safe haven",
-    "vi": "Chốn nương thân"
+    "vi": "Chốn nương thân an toàn"
   },
   {
     "key": "event_name_new_worker_wounded_02",
     "type": 0,
     "en": "Barking up the wrong tree",
-    "vi": "Chặt nhầm cây"
+    "vi": "Gõ nhầm cửa"
   },
   {
     "key": "event_name_raid_general",
@@ -639,49 +639,49 @@
     "key": "event_name_raid_avalon_01",
     "type": 0,
     "en": "Circle of Avalon Attack",
-    "vi": "Circle của Avalon tấn công"
+    "vi": "Hội Avalon tấn công"
   },
   {
     "key": "event_name_raid_kingdom_of_york_01",
     "type": 0,
     "en": "Kingdom Of York Attack",
-    "vi": "Kingdom của York tấn công"
+    "vi": "Vương Quốc York tấn công"
   },
   {
     "key": "event_name_raid_progeny_01",
     "type": 0,
     "en": "Progeny Attack",
-    "vi": "Progeny tấn công"
+    "vi": "Hậu Duệ Dịch Hạch tấn công"
   },
   {
     "key": "event_name_raid_resources_01",
     "type": 0,
     "en": "Pirate incursion",
-    "vi": "Hải tặc xâm nhập"
+    "vi": "Hải tặc đột kích"
   },
   {
     "key": "event_name_raid_savages_01",
     "type": 0,
     "en": "Mindless assassins",
-    "vi": "Sát thủ mất trí"
+    "vi": "Sát thủ man dại"
   },
   {
     "key": "event_name_raid_sons_of_england_01",
     "type": 0,
     "en": "Sons Of England Attack",
-    "vi": "Sons của England tấn công"
+    "vi": "Những Người Con Nước Anh tấn công"
   },
   {
     "key": "event_name_raid_third_coming_01",
     "type": 0,
     "en": "Third Coming Attack",
-    "vi": "Third Coming tấn công"
+    "vi": "Giáo Hội Đệ Tam Giáng Lâm tấn công"
   },
   {
     "key": "event_name_claim_runaway_general",
     "type": 0,
     "en": "Violent extortionists (<faction_name>)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (<faction_name>)"
+    "vi": "Kẻ tống tiền hung hãn (<faction_name>)"
   },
   {
     "key": "event_name_runaway_01",
@@ -693,7 +693,7 @@
     "key": "event_name_runaway_01_b",
     "type": 0,
     "en": "Violent extortionists (Jailbird)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (Kẻ vượt ngục)"
+    "vi": "Kẻ tống tiền hung hãn (Kẻ vượt ngục)"
   },
   {
     "key": "event_name_runaway_name",
@@ -705,7 +705,7 @@
     "key": "event_name_runaway_02_b",
     "type": 0,
     "en": "Violent extortionists (Lost property)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (Tài sản thất lạc)"
+    "vi": "Kẻ tống tiền hung hãn (Tài sản thất lạc)"
   },
   {
     "key": "event_name_runaway_03",
@@ -717,7 +717,7 @@
     "key": "event_name_runaway_03_b",
     "type": 0,
     "en": "Violent extortionists (Domestic violence)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (Bạo lực gia đình)"
+    "vi": "Kẻ tống tiền hung hãn (Bạo lực gia đình)"
   },
   {
     "key": "event_name_runaway_general",
@@ -735,25 +735,25 @@
     "key": "event_name_runaway_04_b",
     "type": 0,
     "en": "Violent extortionists (Salvation)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (Cứu rỗi)"
+    "vi": "Kẻ tống tiền hung hãn (Cứu rỗi)"
   },
   {
     "key": "event_name_runaway_05",
     "type": 0,
     "en": "Barbarian snack",
-    "vi": "Bữa ăn của kẻ man rợ"
+    "vi": "Miếng mồi của kẻ man rợ"
   },
   {
     "key": "event_name_runaway_05_b",
     "type": 0,
     "en": "Violent extortionists (Barbarian snack)",
-    "vi": "Những kẻ cưỡng đoạt hung bạo (Bữa ăn của kẻ man rợ)"
+    "vi": "Kẻ tống tiền hung hãn (Miếng mồi của kẻ man rợ)"
   },
   {
     "key": "event_name_supernatural_01",
     "type": 0,
     "en": "Ooser looser",
-    "vi": "Kẻ đeo mặt nạ Ooser"
+    "vi": "Quái thú Ooser"
   },
   {
     "key": "event_name_supernatural_02",
@@ -777,7 +777,7 @@
     "key": "event_new_worker_defoult_01",
     "type": 0,
     "en": "<name> approached with [his/her] hand held out and a warm, open smile. <name> was keen to learn about <village_name> and only too willing to lend a hand. All [he/she] asked was a safe place to call home.",
-    "vi": "<name> tiến đến với bàn tay [his/her] đưa ra và nụ cười ấm áp, cởi mở. <name> rất muốn tìm hiểu về <village_name> và sẵn lòng giúp đỡ. Tất cả những gì [he/she] mong muốn là một nơi an toàn để gọi là nhà."
+    "vi": "<name> tiến đến với bàn tay [his/her] đưa ra và nụ cười ấm áp, cởi mở. <name> rất muốn tìm hiểu về <village_name> và sẵn lòng xắn tay áo giúp đỡ. Tất cả những gì [he/she] mong muốn là một nơi an toàn để gọi là nhà."
   },
   {
     "key": "event_new_worker_sick_01",
@@ -813,7 +813,7 @@
     "key": "game_event_type_animalRaid",
     "type": 0,
     "en": "Destructive Wildlife",
-    "vi": "Thú Hoang Tàn Phá"
+    "vi": "Thú hoang tàn phá"
   },
   {
     "key": "event_raid_animal_deer",

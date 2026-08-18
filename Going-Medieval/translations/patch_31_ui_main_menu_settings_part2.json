@@ -3,7 +3,7 @@
     "key": "ctrl_IngameMenu",
     "type": 0,
     "en": "In Game Menu ",
-    "vi": "Menu Tạm Dừng Trong Game"
+    "vi": "Menu Trong Game"
   },
   {
     "key": "ctrl_Jobs",
@@ -39,7 +39,7 @@
     "key": "ctrl_MouseOrbit",
     "type": 0,
     "en": "Orbit Camera ",
-    "vi": "Xoay Quanh Trọng Tâm Camera"
+    "vi": "Xoay Camera Quanh Tâm"
   },
   {
     "key": "ctrl_MoveDown",
@@ -81,7 +81,7 @@
     "key": "ctrl_Research",
     "type": 0,
     "en": "Research",
-    "vi": "Cây Nghiên Cứu Học Thuật"
+    "vi": "Bảng Nghiên Cứu"
   },
   {
     "key": "ctrl_RotateLeft",
@@ -99,13 +99,13 @@
     "key": "ctrl_RtsFastMove",
     "type": 0,
     "en": "Fast Camera Movement",
-    "vi": "Di Chuyển Camera Tốc Độ Cao"
+    "vi": "Di Chuyển Camera Nhanh"
   },
   {
     "key": "ctrl_Schedule",
     "type": 0,
     "en": "Schedule",
-    "vi": "Lịch Trình Sinh Hoạt"
+    "vi": "Bảng Lịch Trình Sinh Hoạt"
   },
   {
     "key": "ctrl_ShowHideRoofs",
@@ -165,37 +165,37 @@
     "key": "ctrl_ShrinkZone",
     "type": 0,
     "en": "Shrink Zone",
-    "vi": "Thu Hẹp Phạm Vi Khu Vực"
+    "vi": "Thu Hẹp Khu Vực"
   },
   {
     "key": "ctrl_ExpandZone",
     "type": 0,
     "en": "Expand Zone",
-    "vi": "Mở Rộng Phạm Vi Khu Vực"
+    "vi": "Mở Rộng Khu Vực"
   },
   {
     "key": "ctrl_Manage",
     "type": 0,
     "en": "Manage",
-    "vi": "Quản Lý Trang Phục & Ăn Uống"
+    "vi": "Bảng Quản Lý"
   },
   {
     "key": "ctrl_LockCameraToLayer",
     "type": 0,
     "en": "Lock Camera to Layer",
-    "vi": "Khóa Camera Cố Định Vào Tầng"
+    "vi": "Khóa Camera Vào Tầng"
   },
   {
     "key": "ctrl_LockCameraToLayerUp",
     "type": 0,
     "en": "Locked Camera Layer Up",
-    "vi": "Dịch Chuyển Tầng Khóa Lên Trên"
+    "vi": "Dịch Tầng Khóa Lên Trên"
   },
   {
     "key": "ctrl_LockCameraToLayerDown",
     "type": 0,
     "en": "Locked Camera Layer Down",
-    "vi": "Dịch Chuyển Tầng Khóa Xuống Dưới"
+    "vi": "Dịch Tầng Khóa Xuống Dưới"
   },
   {
     "key": "keycode_A",
@@ -861,31 +861,31 @@
     "key": "ingame_menu_back",
     "type": 0,
     "en": "Back",
-    "vi": "Quay Lại Trò Chơi"
+    "vi": "Quay Lại"
   },
   {
     "key": "ingame_menu_delete",
     "type": 0,
     "en": "Delete",
-    "vi": "Xóa File Lưu Game"
+    "vi": "Xóa Bản Lưu"
   },
   {
     "key": "ingame_menu_keyboard_configuration",
     "type": 0,
     "en": "Keyboard Configuration",
-    "vi": "Cấu Hình Phím Điều Khiển"
+    "vi": "Cài Đặt Phím Tắt"
   },
   {
     "key": "ingame_menu_main",
     "type": 0,
     "en": "Quit to Main Menu",
-    "vi": "Thoát Về Menu Chính"
+    "vi": "Thoát Ra Menu Chính"
   },
   {
     "key": "ingame_menu_options",
     "type": 0,
     "en": "Options",
-    "vi": "Tùy Chỉnh Cài Đặt"
+    "vi": "Tùy Chọn Cài Đặt"
   },
   {
     "key": "ingame_menu_override",

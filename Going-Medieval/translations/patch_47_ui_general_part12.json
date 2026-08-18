@@ -99,13 +99,13 @@
     "key": "forest_bandit_heavy_medium",
     "type": 0,
     "en": "Brutal Thug",
-    "vi": "Hung hãn Côn đồ"
+    "vi": "Côn Đồ Thổ Phỉ Hung Tợn"
   },
   {
     "key": "forest_bandit_heavy_hard",
     "type": 0,
     "en": "Murderous Thug",
-    "vi": "Khát máu Côn đồ"
+    "vi": "Côn Đồ Thổ Phỉ Khát Máu"
   },
   {
     "key": "trebuchet3",
@@ -135,13 +135,13 @@
     "key": "general_archer_med",
     "type": 0,
     "en": "Adept Archer",
-    "vi": "Xạ thủ thiện chiến"
+    "vi": "Cung Thủ Thiện Chiến"
   },
   {
     "key": "general_archer_hard",
     "type": 0,
     "en": "Master Archer",
-    "vi": "Master Xạ thủ cung tên"
+    "vi": "Đại Cung Thủ Bậc Thầy"
   },
   {
     "key": "general_basic_easy",
@@ -153,13 +153,13 @@
     "key": "general_basic_med",
     "type": 0,
     "en": "Fierce Marauder",
-    "vi": "Fierce Kẻ cướp"
+    "vi": "Kẻ Cướp Hung Hãn"
   },
   {
     "key": "general_basic_hard",
     "type": 0,
     "en": "Ruthless Marauder",
-    "vi": "Ruthless Kẻ cướp"
+    "vi": "Kẻ Cướp Tàn Bạo"
   },
   {
     "key": "general_heavy_easy",
@@ -171,13 +171,13 @@
     "key": "general_heavy_med",
     "type": 0,
     "en": "Brutal Thug",
-    "vi": "Hung hãn Côn đồ"
+    "vi": "Côn Đồ Hung Tợn"
   },
   {
     "key": "general_heavy_hard",
     "type": 0,
     "en": "Murderous Thug",
-    "vi": "Khát máu Côn đồ"
+    "vi": "Côn Đồ Khát Máu"
   },
   {
     "key": "general_pillager_easy",
@@ -189,13 +189,13 @@
     "key": "general_pillager_lvl2",
     "type": 0,
     "en": "Fierce Bandit",
-    "vi": "Fierce Thổ phỉ"
+    "vi": "Thổ Phỉ Hung Hãn"
   },
   {
     "key": "general_pillager_lvl3",
     "type": 0,
     "en": "Ruthless Bandit",
-    "vi": "Ruthless Thổ phỉ"
+    "vi": "Thổ Phỉ Tàn Bạo"
   },
   {
     "key": "general_pillager_lvl1",
@@ -219,7 +219,7 @@
     "key": "general_bodyguard",
     "type": 0,
     "en": "Merchant's guard",
-    "vi": "Thương nhân's guard"
+    "vi": "Hộ Vệ Thương Nhân"
   },
   {
     "key": "negotiator_1",
@@ -297,55 +297,55 @@
     "key": "general_basic_very_hard",
     "type": 0,
     "en": "Barbaric Marauder",
-    "vi": "Barbaric Kẻ cướp"
+    "vi": "Kẻ Cướp Man Rợ"
   },
   {
     "key": "general_archer_very_hard",
     "type": 0,
     "en": "Illustrious Archer",
-    "vi": "Illustrious Xạ thủ cung tên"
+    "vi": "Cung Thủ Xuất Chúng"
   },
   {
     "key": "general_heavy_very_hard",
     "type": 0,
     "en": "Monstrous Thug",
-    "vi": "Đại côn đồ quái vật"
+    "vi": "Côn Đồ Quỷ Dữ"
   },
   {
     "key": "forest_bandit_basic_very_hard",
     "type": 0,
     "en": "Barbaric Marauder",
-    "vi": "Barbaric Kẻ cướp"
+    "vi": "Kẻ Cướp Rừng Man Rợ"
   },
   {
     "key": "forest_bandit_archer_very_hard",
     "type": 0,
     "en": "Illustrious Archer",
-    "vi": "Illustrious Xạ thủ cung tên"
+    "vi": "Cung Thủ Rừng Xuất Chúng"
   },
   {
     "key": "forest_bandit_heavy_very_hard",
     "type": 0,
     "en": "Monstrous Thug",
-    "vi": "Đại côn đồ rừng xanh quái vật"
+    "vi": "Côn Đồ Thổ Phỉ Quỷ Dữ"
   },
   {
     "key": "progeny_of_the_plague_basic_easy",
     "type": 0,
     "en": "Marauder",
-    "vi": "Kẻ cướp"
+    "vi": "Kẻ Cướp Hậu Duệ Dịch Hạch"
   },
   {
     "key": "progeny_of_the_plague_basic_medium",
     "type": 0,
     "en": "Fierce Marauder",
-    "vi": "Fierce Kẻ cướp"
+    "vi": "Kẻ Cướp Dịch Hạch Hung Hãn"
   },
   {
     "key": "progeny_of_the_plague_basic_hard",
     "type": 0,
     "en": "Ruthless Marauder",
-    "vi": "Ruthless Kẻ cướp"
+    "vi": "Kẻ Cướp Dịch Hạch Tàn Bạo"
   },
   {
     "key": "progeny_of_the_plague_archer_easy",
@@ -363,7 +363,7 @@
     "key": "progeny_of_the_plague_archer_hard",
     "type": 0,
     "en": "Master Archer",
-    "vi": "Đại Cung Thủ Bậc Thầy"
+    "vi": "Đại Cung Thủ Dịch Hạch"
   },
   {
     "key": "progeny_of_the_plague_heavy_easy",

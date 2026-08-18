@@ -105,49 +105,49 @@
     "key": "effector_name_SweatyPositivePerkEffector",
     "type": 0,
     "en": "Sweaty (Heat resistant perk)",
-    "vi": "Đổ mồ hôi (đặc tính Chịu nóng)"
+    "vi": "Đổ Mồ Hôi (Đặc tính Chịu Nóng)"
   },
   {
     "key": "effector_name_HotPositivePerkEffector",
     "type": 0,
     "en": "Hot (Heat resistant perk)",
-    "vi": "Nóng (đặc tính Chịu nóng)"
+    "vi": "Nóng Bức (Đặc tính Chịu Nóng)"
   },
   {
     "key": "effector_name_ChillyPerkEffector",
     "type": 0,
     "en": "Cold Sensitive (Chilly perk)",
-    "vi": "Nhạy cảm với lạnh (đặc tính Lạnh lẽo)"
+    "vi": "Sợ Lạnh (Đặc tính Sợ Lạnh)"
   },
   {
     "key": "effector_name_HotBloodedPerkEffector",
     "type": 0,
     "en": "Overheated (Hot-blooded perk)",
-    "vi": "Quá nóng (đặc tính Nóng máu)"
+    "vi": "Quá Nóng (Đặc tính Nóng Máu)"
   },
   {
     "key": "effector_name_SleptInSharedBedroomPerkEffector",
     "type": 0,
     "en": "Slept in shared quarters (Precious perk)",
-    "vi": "Ngủ trong phòng chung (đặc tính Quý giá)"
+    "vi": "Ngủ Phòng Chung (Đặc tính Yểu Điệu)"
   },
   {
     "key": "effector_name_SunSeekerDayPerkEffector",
     "type": 0,
     "en": "Sunny day (Sun seeker perk)",
-    "vi": "Ngày nắng (đặc tính Kẻ tìm nắng)"
+    "vi": "Ngày Nắng (Đặc tính Kẻ Tìm Nắng)"
   },
   {
     "key": "effector_name_SnowWhiteSnowPerkEffector",
     "type": 0,
     "en": "Snow! (Snow White perk)",
-    "vi": "Tuyết! (đặc tính Bạch tuyết)"
+    "vi": "Tuyết Rơi! (Đặc tính Bạch Tuyết)"
   },
   {
     "key": "effector_name_WashoutRainPerkEffector",
     "type": 0,
     "en": "Rainy day (Washout Perk)",
-    "vi": "Ngày mưa (đặc tính Ghét mưa)"
+    "vi": "Ngày Mưa (Đặc tính Ghét Mưa)"
   },
   {
     "key": "effector_info_NightOwlPerkEffector",
@@ -441,7 +441,7 @@
     "key": "perk_name_Vigorous",
     "type": 0,
     "en": "Vigorous",
-    "vi": "Khỏe Mạnh Cường Tráng"
+    "vi": "Cường Tráng"
   },
   {
     "key": "perk_name_Robust",
@@ -453,13 +453,13 @@
     "key": "perk_name_Infirm",
     "type": 0,
     "en": "Infirm",
-    "vi": "Ốm Yếu Xương Khớp"
+    "vi": "Gầy Gò Ốm Yếu"
   },
   {
     "key": "perk_name_Moribund",
     "type": 0,
     "en": "Moribund",
-    "vi": "Hấp Hối Bệnh Tật"
+    "vi": "Yểu Mệnh Suy Kiệt"
   },
   {
     "key": "perk_name_NightOwl",
@@ -477,7 +477,7 @@
     "key": "perk_name_Somnolent",
     "type": 0,
     "en": "Somnolent",
-    "vi": "Hay Buồn Ngủ"
+    "vi": "Ham Ngủ"
   },
   {
     "key": "perk_name_EarlyBird",
@@ -489,7 +489,7 @@
     "key": "perk_name_Stout",
     "type": 0,
     "en": "Stout",
-    "vi": "Đẫy Đà Vững Chắc"
+    "vi": "Đẫy Đà"
   },
   {
     "key": "perk_name_Gluttonous",
@@ -513,7 +513,7 @@
     "key": "perk_name_Austere",
     "type": 0,
     "en": "Austere",
-    "vi": "Khắc Khổ Khổ Hạnh"
+    "vi": "Khắc Khổ"
   },
   {
     "key": "perk_name_Gobbler",
@@ -525,7 +525,7 @@
     "key": "perk_name_Congenial",
     "type": 0,
     "en": "Congenial",
-    "vi": "Hòa Đồng Dễ Mến"
+    "vi": "Thân Thiện Dễ Mến"
   },
   {
     "key": "perk_name_Outgoing",
@@ -579,25 +579,25 @@
     "key": "perk_name_Ruthless",
     "type": 0,
     "en": "Ruthless",
-    "vi": "Tàn Nhẫn Không Nương Tay"
+    "vi": "Tàn Nhẫn Vô Tình"
   },
   {
     "key": "perk_name_Brawler",
     "type": 0,
     "en": "Brawler",
-    "vi": "Đấu Sĩ Đường Phố"
+    "vi": "Thích Đánh Lộn"
   },
   {
     "key": "perk_name_Disfigured",
     "type": 0,
     "en": "Disfigured",
-    "vi": "Khuôn Mặt Biến Dạng"
+    "vi": "Mặt Mày Biến Dạng"
   },
   {
     "key": "perk_name_Illfavoured",
     "type": 0,
     "en": "Ill-favoured",
-    "vi": "Kém Nhan Sắc"
+    "vi": "Xấu Xí Kém Sắc"
   },
   {
     "key": "perk_name_Winsome",
@@ -627,7 +627,7 @@
     "key": "perk_name_PunchDrunk",
     "type": 0,
     "en": "Punch Drunk",
-    "vi": "Say Đòn Hung Hăng"
+    "vi": "Say Đòn"
   },
   {
     "key": "perk_name_Lightweight",
@@ -639,25 +639,25 @@
     "key": "perk_name_HeatResistant",
     "type": 0,
     "en": "Heat resistant",
-    "vi": "Chịu Nóng Giỏi"
+    "vi": "Chịu Nóng"
   },
   {
     "key": "perk_name_ColdHardy",
     "type": 0,
     "en": "Cold hardy",
-    "vi": "Chịu Lạnh Bền Bỉ"
+    "vi": "Chịu Rét"
   },
   {
     "key": "perk_name_HotBlooded",
     "type": 0,
     "en": "Hot-blooded",
-    "vi": "Huyết Khí Nóng Nảy"
+    "vi": "Nóng Máu"
   },
   {
     "key": "perk_name_Chilly",
     "type": 0,
     "en": "Chilly",
-    "vi": "Sợ Lạnh Cóng"
+    "vi": "Sợ Lạnh"
   },
   {
     "key": "perk_name_Vulnerable",
@@ -669,7 +669,7 @@
     "key": "perk_name_ElfShot",
     "type": 0,
     "en": "Elf Shot",
-    "vi": "Trúng Tên Yêu Tinh (Đau Nhức Bất Thần)"
+    "vi": "Trúng Tên Yêu Tinh"
   },
   {
     "key": "perk_name_GreenThumb",
@@ -687,7 +687,7 @@
     "key": "perk_name_Wicche",
     "type": 0,
     "en": "Wicche",
-    "vi": "Tâm Hồn Phù Thủy"
+    "vi": "Dòng Máu Phù Thủy"
   },
   {
     "key": "perk_name_Ascetic",
@@ -705,13 +705,13 @@
     "key": "perk_name_Precious",
     "type": 0,
     "en": "Precious",
-    "vi": "Yểu Điệu Quý Phái"
+    "vi": "Yểu Điệu"
   },
   {
     "key": "perk_name_Whirlwind",
     "type": 0,
     "en": "Whirlwind",
-    "vi": "Nhanh Tựa Cơn Lốc"
+    "vi": "Nhanh Như Cơn Lốc"
   },
   {
     "key": "perk_name_FleetFooted",
@@ -747,37 +747,37 @@
     "key": "perk_name_SunSeeker",
     "type": 0,
     "en": "Sun Seeker",
-    "vi": "Thích Tắm Nắng"
+    "vi": "Kẻ Tìm Nắng"
   },
   {
     "key": "perk_name_SnowWhite",
     "type": 0,
     "en": "Snow White",
-    "vi": "Bạch Tuyết (Thích Tuyết)"
+    "vi": "Bạch Tuyết"
   },
   {
     "key": "perk_name_Washout",
     "type": 0,
     "en": "Washout",
-    "vi": "Ghét Mưa Gió"
+    "vi": "Ghét Mưa"
   },
   {
     "key": "perk_name_Dullard",
     "type": 0,
     "en": "Dullard",
-    "vi": "Chậm Hiểu Kém Thông Minh"
+    "vi": "Chậm Hiểu"
   },
   {
     "key": "perk_name_Wise",
     "type": 0,
     "en": "Wise",
-    "vi": "Thông Thái Minh Triết"
+    "vi": "Thông Thái"
   },
   {
     "key": "perk_name_Erudite",
     "type": 0,
     "en": "Erudite",
-    "vi": "Uyên Bác Học Rộng"
+    "vi": "Uyên Bác"
   },
   {
     "key": "perk_name_Bloodlust",
@@ -807,13 +807,13 @@
     "key": "perk_name_BoneCollector",
     "type": 0,
     "en": "Bone Collector",
-    "vi": "Kẻ Thích Nhặt Xương"
+    "vi": "Kẻ Nhặt Xương"
   },
   {
     "key": "perk_name_Macabre",
     "type": 0,
     "en": "Macabre",
-    "vi": "Say Mê Sự Ma Quái"
+    "vi": "Thích Điều Ma Quái"
   },
   {
     "key": "perk_name_Pyromancer",
@@ -843,7 +843,7 @@
     "key": "perk_name_Flamekissed",
     "type": 0,
     "en": "Flamekissed",
-    "vi": "Hỏa Hôn (Tôi Luyện Trong Lửa)"
+    "vi": "Hỏa Hôn"
   },
   {
     "key": "perk_name_Riverborn",
@@ -891,7 +891,7 @@
     "key": "perk_name_Wildwyrd",
     "type": 0,
     "en": "Wildwyrd",
-    "vi": "Huyết Thống Hoang Dã"
+    "vi": "Dòng Máu Hoang Dã"
   },
   {
     "key": "perk_name_Herbivore",

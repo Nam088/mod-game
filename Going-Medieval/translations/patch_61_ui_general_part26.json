@@ -291,19 +291,19 @@
     "key": "bg_recent_info_Apostate",
     "type": 0,
     "en": "<name> was drawn to The Circle of Avalon. <name> had secretly despised sheepish, obedient Christians, and was relieved that others felt the same. [He/She] dreamed of Arthur’s imminent return from under the faerie hill, now that the purge was over.",
-    "vi": "<name> bị thu hút bởi Hội Avalon. <name> thầm khinh miệt những tín đồ Kitô giáo nhu nhược và phục tùng, đồng thời nhẹ nhõm khi biết những người khác cũng nghĩ vậy. Khi cuộc thanh trừng kết thúc, [He/She] mơ về ngày Arthur sắp trở về từ dưới ngọn đồi tiên."
+    "vi": "<name> bị thu hút bởi Hội Vòng Tròn Avalon. <name> thầm khinh miệt những tín đồ Kitô giáo nhu nhược, phục tùng và cảm thấy nhẹ nhõm khi biết những người khác cũng nghĩ vậy. Khi cuộc thanh trừng kết thúc, [He/She] mơ về ngày vua Arthur sắp trở về từ dưới ngọn đồi tiên."
   },
   {
     "key": "bg_recent_info_Uprooted",
     "type": 0,
     "en": "<name> despaired. Seeing villagers die was bad, watching the <origin> sheep succumb was catastrophic. <name> did [his/her] best to ease their suffering - slitting their throats at any sign of infection. Without livestock or livelihood, <name> fled.",
-    "vi": "<name> chìm trong tuyệt vọng. Nhìn dân làng chết đã tệ, chứng kiến đàn cừu của <origin> gục ngã còn là thảm họa. <name> cố hết sức của [his/her] để giảm đau đớn cho chúng bằng cách cắt cổ ngay khi thấy dấu hiệu nhiễm bệnh. Không còn gia súc hay kế sinh nhai, <name> bỏ trốn."
+    "vi": "<name> chìm trong tuyệt vọng. Nhìn dân làng chết đã tệ, chứng kiến đàn cừu của <origin> gục ngã còn là thảm họa. <name> đã làm hết sức mình của [his/her] để xoa dịu nỗi đau đớn cho chúng bằng cách cắt cổ ngay khi thấy dấu hiệu nhiễm bệnh. Không còn gia súc hay kế sinh nhai, <name> đành bỏ trốn."
   },
   {
     "key": "bg_recent_info_Caring",
     "type": 0,
     "en": "there was no one to tend to the animals. Hogs ran wild. Cattle starved in the winter fields. It was after <name> came upon a lifeless mare beside her newborn foal that [he/she] decided to shepherd whatever beasts were needful.",
-    "vi": "Không còn ai chăm sóc động vật. Lợn chạy hoang, gia súc chết đói trên đồng mùa đông. Sau khi <name> bắt gặp một con ngựa cái chết bên cạnh ngựa con mới sinh, [he/she] quyết định chăn dắt mọi con vật cần được cứu giúp."
+    "vi": "Không còn ai đoái hoài tới lũ súc vật. Đàn lợn chạy rông hoang dã. Gia súc chết đói trên những cánh đồng mùa đông. Sau khi <name> bắt gặp một con ngựa mẹ chết cứng bên cạnh chú ngựa con mới lọt lòng, [he/she] quyết định đứng ra chăn dắt và che chở cho bất kỳ con thú nào cần được cứu giúp."
   },
   {
     "key": "bg_recent_info_Cunning",
@@ -327,367 +327,367 @@
     "key": "bg_recent_info_Spinning",
     "type": 0,
     "en": "<name> learned all about flax, for clothing, bedding, bread sacks, ropes and oil. [He/She] was soothed by retting and rolling, scutching and spinning. <name> had a steady hand, and eyes the pale, flaxen blue of a cloudless, summer sky.",
-    "vi": "<name> học mọi thứ về cây lanh, dùng làm quần áo, chăn đệm, bao đựng bánh mì, dây thừng và dầu. [He/She] tìm thấy sự bình yên trong việc ngâm, cán, đập và kéo sợi lanh. <name> có đôi tay vững vàng và đôi mắt xanh nhạt như màu lanh dưới bầu trời mùa hè không mây."
+    "vi": "<name> học mọi thứ về cây lanh, dùng làm quần áo, chăn đệm, bao đựng bánh mì, dây thừng và dầu. [He/She] tìm thấy sự bình yên trong việc ngâm, cán, đập và kéo sợi lanh. <name> có đôi tay vững vàng và đôi mắt xanh nhạt như màu hoa lanh dưới bầu trời mùa hè không mây."
   },
   {
     "key": "bg_recent_info_Tireless",
     "type": 0,
     "en": "<name> got the knack of carpentry fashioning coffins for plague victims, later nailing whole families into their homes to die. Next, <name> built trebuchets in the War of Succession. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!",
-    "vi": "<name> học được nghề mộc từ việc đóng quan tài cho các nạn nhân dịch bệnh, sau đó đóng đinh cửa giam cả gia đình trong nhà cho đến chết. Tiếp theo, <name> chế tạo máy bắn đá trong Chiến Tranh Kế Vị. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!"
+    "vi": "<name> thành thạo nghề mộc từ việc đóng quan tài cho các nạn nhân dịch bệnh, sau đó đóng đinh bịt kín cửa giam cả gia đình trong nhà cho đến chết. Tiếp theo, <name> chế tạo máy bắn đá trong Cuộc Chiến Kế Vị. Fac et aliquid operis, ut semper te diabolus inveniat occupatum!"
   },
   {
     "key": "bg_recent_info_Penitent",
     "type": 0,
     "en": "<name> acquired a cap marked with a red cross. It was a memento of months spent marching naked, one behind the other. Each whipped their naked, bleeding bodies with scourges spiked with nails. 'God is merciful, God is just', they wept.",
-    "vi": "<name> có được một chiếc mũ mang dấu thập đỏ. Đó là kỷ vật của nhiều tháng lõa thể nối đuôi nhau hành xác. Mỗi người dùng roi gắn đinh quất lên thân thể trần trụi đẫm máu. 'Chúa nhân từ, Chúa công bằng', họ vừa khóc vừa cầu nguyện."
+    "vi": "<name> có được một chiếc mũ mang dấu chữ thập đỏ. Đó là kỷ vật của nhiều tháng ròng trần truồng nối đuôi nhau hành xác. Mỗi người dùng roi da gắn đinh quất túi bụi lên thân thể trần trụi rỉ máu của mình. 'Thiên Chúa nhân từ, Thiên Chúa công minh', họ vừa than khóc vừa cầu nguyện."
   },
   {
     "key": "bg_recent_info_Shrewd",
     "type": 0,
     "en": "circumstances could have been better, but [he/she] made the most of it. When <name> took to whittling amulets to ward against the Mortal Corruption, in a number of shapes to appeal to christians, jews or pagans, [he/she] got rich, fast.",
-    "vi": "Hoàn cảnh có thể tốt hơn, nhưng [he/she] vẫn tận dụng tối đa những gì có được. Khi <name> bắt đầu đẽo bùa hộ mệnh chống lại Đại Ôn Dịch với đủ hình dạng hợp ý tín đồ Kitô giáo, Do Thái giáo hoặc ngoại giáo, [he/she] nhanh chóng trở nên giàu có."
+    "vi": "Hoàn cảnh lẽ ra có thể tốt hơn, nhưng [he/she] vẫn tận dụng tối đa thời cơ. Khi <name> bắt đầu đẽo gọt các loại bùa hộ mệnh để trừ khử Đại Ôn Dịch với đủ hình dáng chiều lòng tín đồ Kitô giáo, Do Thái giáo lẫn ngoại giáo, [he/she] nhanh chóng trở nên giàu có."
   },
   {
     "key": "bg_recent_info_Faithless",
     "type": 0,
     "en": "the priest beseeched <name> to repair <origin> church, despite the sickly season. [He/She] watched gloomily as the congregation gradually expired, sneezing as they broke bread together, and buried their brethren. God is dead, <name> thought.",
-    "vi": "Vị linh mục khẩn cầu <name> sửa chữa nhà thờ ở <origin> bất chấp mùa dịch bệnh. [He/She] buồn bã nhìn giáo đoàn dần chết đi, hắt hơi khi cùng nhau bẻ bánh rồi chôn cất anh em mình. Chúa đã chết, <name> nghĩ."
+    "vi": "Vị linh mục tha thiết khẩn cầu <name> sửa chữa nhà thờ ở <origin> bất chấp mùa dịch bệnh hoành hành. [He/She] buồn bã nhìn giáo đoàn dần chết mòn, vừa hắt hơi vừa cùng nhau bẻ bánh rồi chôn cất các đồng đạo. Chúa đã chết rồi, <name> thầm nghĩ."
   },
   {
     "key": "bg_recent_info_Yorkist",
     "type": 0,
     "en": "<name> thought it was bleeding obvious that the royals were to blame, cutting England to the bone because of their silly French war. [He/She] had pitched in willingly to help shore up York's defenses. Someone had to make a stand.",
-    "vi": "<name> thấy rõ ràng đến chết tiệt rằng hoàng gia phải chịu trách nhiệm vì đã vắt kiệt nước Anh cho cuộc chiến ngu xuẩn với Pháp. [He/She] tự nguyện góp sức củng cố phòng tuyến York. Phải có người đứng lên chống lại."
+    "vi": "<name> thấy quá rõ ràng rằng hoàng gia phải chịu trách nhiệm khi đã vắt kiệt nước Anh cho cuộc chiến ngu xuẩn với Pháp. [He/She] tự nguyện góp sức củng cố phòng tuyến York. Phải có người đứng lên chống lại."
   },
   {
     "key": "bg_recent_info_Savage",
     "type": 0,
     "en": "<name> had utterly lost [his/her] mind. <name> had seen Beelzebub and there was no redemption. [He/She] could make shelter, and fire, and dream of blood and screams. <name> would not, or could not, say if [he/she] had eaten human flesh.",
-    "vi": "<name> đã hoàn toàn mất lý trí của [his/her]. <name> từng nhìn thấy Beelzebub và chẳng còn đường cứu chuộc. [He/She] biết dựng nơi trú ẩn, nhóm lửa và mơ về máu cùng tiếng thét. <name> không muốn, hoặc không thể, nói liệu [he/she] đã từng ăn thịt người hay chưa."
+    "vi": "<name> đã hoàn toàn mất trí vì [his/her]. <name> từng nhìn thấy quỷ vương Beelzebub và biết chẳng còn đường cứu rỗi. [He/She] biết dựng nơi trú ẩn, nhóm lửa và đêm đêm mơ về máu cùng tiếng thét kinh hoàng. <name> không muốn, hoặc chẳng thể thốt nên lời liệu [he/she] đã từng ăn thịt người hay chưa."
   },
   {
     "key": "bg_recent_info_Cheerful",
     "type": 0,
     "en": "<name> would whistle as [he/she] worked, almost as though the horrors of recent times had passed [him/her] by. <name>'s reason to be cheery was simple enough. [He/She] had caught the pestilence, but had dodged the Grim Reaper. Life was good.",
-    "vi": "<name> thường huýt sáo khi [he/she] làm việc, như thể những kinh hoàng gần đây đã bỏ qua [him/her]. Lý do <name> vui vẻ thật đơn giản. [He/She] từng mắc dịch bệnh nhưng đã thoát khỏi lưỡi hái Tử thần. Cuộc đời vẫn đẹp."
+    "vi": "<name> thường huýt sáo khi [he/she] làm việc, như thể những kinh hoàng thời gian qua chưa từng chạm tới [him/her]. Lý do để <name> lạc quan thật giản đơn: [He/She] từng mắc dịch bệnh nhưng đã lách khỏi lưỡi hái Tử thần. Đời vẫn còn đẹp chán."
   },
   {
     "key": "bg_recent_info_Charitable",
     "type": 0,
     "en": "<name> roved among the mills, begging or stealing flour to bake bread. This [he/she] made into simple bannocks and distributed to the starving village folk, barely clinging to the wreckage of their former lives. It kept <name> busy, and purposeful.",
-    "vi": "<name> từng đi khắp các cối xay, xin hoặc lấy trộm bột mì để nướng bánh. Những thứ này được [he/she] nướng thành những ổ bánh mộc mạc và phân phát cho những người dân làng đói khát đang bấu víu vào chút tàn dư của cuộc sống cũ. Công việc đó khiến <name> luôn bận rộn và có mục đích sống."
+    "vi": "<name> rảo bước khắp các cối xay, xin hoặc trộm bột mì về nướng bánh. Những thứ này được [he/she] làm thành các ổ bánh mộc mạc và phân phát cho những người dân làng đói khát đang bấu víu vào chút tàn dư của cuộc sống cũ. Công việc đó giúp <name> luôn bận rộn và sống có mục đích."
   },
   {
     "key": "bg_recent_info_AvantGarde",
     "type": 0,
     "en": "<name> experimented. Have you tried rat au vin or eels in goat's milk? Neither had <name> until Armageddon. [He/She] was utterly fearless in combining random ingredients to keep everyone fed, leading to unexpected results and frequent indigestion.",
-    "vi": "<name> thích thử nghiệm. Bạn từng nếm chuột nấu rượu vang hay lươn ngâm sữa dê chưa? <name> cũng chưa, cho đến ngày tận thế. [He/She] không hề sợ hãi khi kết hợp nguyên liệu ngẫu nhiên để mọi người có cái ăn, tạo ra những kết quả bất ngờ và những cơn khó tiêu thường xuyên."
+    "vi": "<name> rất thích thử nghiệm. Bạn đã bao giờ nếm món chuột nấu rượu vang hay lươn om sữa dê chưa? <name> cũng chưa từng, cho đến ngày tận thế. [He/She] hoàn toàn không hề ngần ngại phối trộn các nguyên liệu ngẫu nhiên để mọi người có cái bỏ bụng, mang lại những kết quả bất ngờ và những cơn khó tiêu triền miên."
   },
   {
     "key": "bg_recent_info_Toxic",
     "type": 0,
     "en": "<name> fed a band of hungry marauders, a risky job. <name> would occasionaly cut corners to save time. Uncertain if it was a stray toadstool or mouldering rye that caused the hallucinations, <name> still maintained [he/she] did [his/her] best.",
-    "vi": "<name> nấu ăn cho một toán cướp đói khát, một công việc đầy rủi ro. <name> đôi khi làm ẩu để tiết kiệm thời gian. Không chắc ảo giác do cây nấm độc lẫn vào hay lúa mạch đen mốc gây ra, <name> vẫn khẳng định [he/she] đã cố hết sức của [his/her]."
+    "vi": "<name> từng nấu ăn cho một toán cướp đói khát, một công việc đầy rủi ro. <name> thỉnh thoảng làm ẩu bớt xén công đoạn để tiết kiệm thời gian. Dù chẳng rõ là do cây nấm độc lẫn vào hay lúa mạch đen ẩm mốc gây ra ảo giác, <name> vẫn một mực khẳng định [he/she] đã cố hết sức mình của [his/her]."
   },
   {
     "key": "bg_recent_info_Clever",
     "type": 0,
     "en": "<name> believed [him/her]self spared from Mortal Sickness for a higher purpose. So said the Canterbury Friar, who taught [him/her] to read. “Knowledge is freedom”, <name> whispered softly, mounting the Friar’s mule and stealing away into the darkness.",
-    "vi": "<name> tin rằng [him/her] được Đại Ôn Dịch tha mạng vì một mục đích cao cả hơn. Vị tu sĩ Canterbury đã nói vậy và dạy [him/her] đọc chữ. “Tri thức là tự do”, <name> khẽ thì thầm rồi cưỡi con la của vị tu sĩ, lẩn vào bóng tối."
+    "vi": "<name> tin rằng bản thân [him/her] được Đại Ôn Dịch tha mạng vì một sứ mệnh cao cả hơn. Vị tu sĩ Canterbury đã nói vậy khi dạy [him/her] học chữ. “Tri thức là tự do”, <name> khẽ thì thầm rồi trèo lên lưng con la của tu sĩ, lẩn nhanh vào màn đêm tăm tối."
   },
   {
     "key": "bg_recent_info_Inconspicuous",
     "type": 0,
     "en": "<name> was deployed undercover to watch for heresy among royalist factions. On receiving no further instructions from [his/her] Master of Whispers, <name> sought the shadows, using what [he/she] heard to survive.",
-    "vi": "<name> được cử đi hoạt động bí mật để dò xét dị giáo trong các phe bảo hoàng. Khi không nhận thêm chỉ thị từ Bậc thầy Mật ngữ của [his/her], <name> ẩn mình trong bóng tối và dùng những gì [he/she] nghe được để sinh tồn."
+    "vi": "<name> được phái đi nằm vùng để dò xét dị giáo trong các phe bảo hoàng. Khi bặt vô âm tín không còn nhận thêm chỉ thị từ Bậc thầy Mật báo của [his/her], <name> lẩn vào bóng tối và dùng những tin tức nghe ngóng được của [he/she] để sinh tồn."
   },
   {
     "key": "bg_recent_info_Ambitious",
     "type": 0,
     "en": "<name> crept about Oxford, tearing pages glowing with illuminations, swiping vellum and ink. <name> served [his/her] masters in the scriptorium dilligently. <name> had a steady hand. <name> would learn to read and write, and finally become Somebody.",
-    "vi": "<name> lén lút khắp Oxford, xé những trang sách minh họa rực rỡ rồi lấy trộm giấy da và mực. <name> tận tụy phục vụ các chủ nhân [his/her] trong phòng chép sách. <name> có đôi tay vững vàng. <name> sẽ học đọc, học viết và cuối cùng trở thành một Người Có Danh."
+    "vi": "<name> len lỏi khắp Oxford, lén xé những trang sách minh họa rực rỡ rồi trộm giấy da và mực. <name> cần mẫn phục vụ các bậc thầy của [his/her] trong phòng chép sách. <name> có đôi tay vững vàng. <name> sẽ học đọc, học viết và cuối cùng trở thành một nhân vật có tên tuổi."
   },
   {
     "key": "bg_recent_info_Despicable",
     "type": 0,
     "en": "<name> took to the hills on a rampage as order crumbled. Born to privilege, <name> gathered a vile band of ruffians and killed and burned at will. [He/She] was exhilarated by chaos, amused by desecration, and not to be underestimated.",
-    "vi": "<name> tràn lên vùng đồi trong cơn cuồng loạn khi trật tự sụp đổ. Sinh ra trong đặc quyền, <name> tập hợp một toán côn đồ đê tiện, tùy ý giết người và phóng hỏa. [He/She] phấn khích trước hỗn loạn, thích thú với sự báng bổ và tuyệt đối không thể xem thường."
+    "vi": "<name> tràn lên các quả đồi càn quét điên cuồng khi trật tự sụp đổ. Sinh ra trong nhung lụa đặc quyền, <name> lại tụ tập một lũ du côn đê tiện, thỏa sức giết chóc và phóng hỏa. [He/She] phấn khích tột độ trước hỗn loạn, thích thú trước sự báng bổ và tuyệt đối không phải kẻ dễ xem thường."
   },
   {
     "key": "bg_recent_info_Accurate",
     "type": 0,
     "en": "<name> began to perform a sideshow, throwing daggers in an arc over a pretty girl for a few coins. <name> figured out [he/she] had a talent when [he/she] threw a carving knife dead into the eye of a looter. <name> never misses.",
-    "vi": "<name> bắt đầu biểu diễn trò phụ, ném dao găm thành vòng cung qua đầu một cô gái xinh đẹp để kiếm vài đồng. <name> nhận ra [he/she] có tài khi [he/she] phóng con dao thái thịt cắm thẳng vào mắt một tên cướp bóc. <name> không bao giờ ném trượt."
+    "vi": "<name> bắt đầu bằng các màn biểu diễn dạo, ném dao găm lượn vòng qua người một cô gái xinh đẹp để kiếm vài đồng xu lẻ. <name> nhận ra tài năng thiên bẩm của [he/she] khi [he/she] phóng ngập con dao thái thịt cắm phập vào mắt một tên cướp bóc. <name> chưa từng ném trượt bao giờ."
   },
   {
     "key": "bg_recent_info_Confident",
     "type": 0,
     "en": "the noble's marches and forests became pretty much fair game. So <name> now poaches with impunity. [He/She] will catch what you want to order: venison, boar, rabbit, peacock. Naturally, this comes at a price.",
-    "vi": "Biên địa và rừng săn của giới quý tộc gần như đã thành nơi ai cũng có thể kiếm mồi. Vì vậy <name> ngang nhiên săn trộm. [He/She] có thể bắt bất cứ thứ gì bạn đặt: thịt hươu, lợn rừng, thỏ hay chim công. Dĩ nhiên, mọi thứ đều có giá."
+    "vi": "Các lãnh địa biên cương và rừng săn của giới quý tộc giờ đây gần như đã trở thành mồi ngon cho thiên hạ. Vì thế <name> tha hồ săn trộm mà chẳng sợ ai phạt. [He/She] có thể bắt bất cứ thứ gì bạn muốn đặt: thịt hươu, lợn rừng, thỏ hay công. Dĩ nhiên, mọi thứ đều có cái giá của nó."
   },
   {
     "key": "bg_recent_info_Patient",
     "type": 0,
     "en": "<name> developed patience to sit in a furze bush or atop an oak tree, chewing on a blade of grass and listening to the wind. At the perfect moment, [he/she] would take down [his/her] prey with a single arrow. <name> had become an assassin.",
-    "vi": "<name> rèn được sự kiên nhẫn để ngồi trong bụi kim tước hoặc trên ngọn sồi, nhai một cọng cỏ và lắng nghe tiếng gió. Đúng khoảnh khắc hoàn hảo, [he/she] hạ con mồi của [his/her] chỉ bằng một mũi tên. <name> đã trở thành một sát thủ."
+    "vi": "<name> rèn được sự kiên nhẫn để ngồi ẩn mình trong bụi kim tước hoặc vắt vẻo trên ngọn sồi, nhai ngọn cỏ và lắng nghe tiếng gió. Đúng thời khắc chín muồi, [he/she] hạ gục con mồi của [his/her] chỉ bằng một mũi tên duy nhất. <name> đã trở thành một sát thủ."
   },
   {
     "key": "bg_recent_info_Deadly",
     "type": 0,
     "en": "<name> was on a crusade to wipe out pretentious, usurping commoners and reinstate the true and righteous order of England. Blood mattered, and <name> would reclaim [his/her] birthright. The peasantry needed to be brought to their filthy knees.",
-    "vi": "<name> bước vào cuộc thập tự chinh nhằm quét sạch đám thường dân tự phụ tiếm quyền và khôi phục trật tự chân chính của nước Anh. Dòng máu mới là điều quan trọng, và <name> sẽ giành lại quyền thừa kế của [his/her]. Đám nông dân phải bị ép quỳ trên đôi gối nhơ bẩn."
+    "vi": "<name> dấn thân vào một cuộc thập tự chinh nhằm quét sạch đám thứ dân kiêu ngạo tiếm quyền và lập lại trật tự chân chính của nước Anh. Dòng máu quý tộc mới là điều tối thượng, và <name> sẽ đòi lại đặc quyền sinh ra của [his/her]. Lũ nông dân hạ đẳng phải bị ép quỳ gối chịu tội."
   },
   {
     "key": "bg_recent_info_Bloodthirsty",
     "type": 0,
     "en": "<name> recalled the healer lancing boils. Flagstones had run red as he opened veins, cursing the French, and the King. Finally <name> took the powders and purifying herbs from the dying healer's blackened hand. <name> was left holding the bloody razor.",
-    "vi": "<name> nhớ lại cảnh thầy thuốc trích mủ nhọt. Mặt đá lát sàn đã nhuốm đỏ khi ông rạch tĩnh mạch, vừa rủa xả người Pháp lẫn Đức Vua. Cuối cùng <name> lấy bột thuốc và thảo mộc thanh tẩy từ bàn tay đen quắt của người thầy thuốc hấp hối. <name> đứng lặng, tay nắm chặt lưỡi dao cạo đẫm máu."
+    "vi": "<name> nhớ lại cảnh người thầy thuốc chích mủ nhọt. Sàn đá lát nhuộm đỏ khi ông rạch tĩnh mạch, miệng không ngớt rủa xả người Pháp lẫn Đức Vua. Cuối cùng <name> lấy bột thuốc cùng thảo dược thanh tẩy từ bàn tay đen quắt của vị thầy thuốc sắp lìa đời. <name> đứng lặng, tay nắm chặt lưỡi dao cạo đẫm máu."
   },
   {
     "key": "bg_recent_info_Bookish",
     "type": 0,
     "en": "studying the many great works in the libraries of Oxford gave <name> confidence to try [his/her] hand at medicine. <name> was from a worthy family, the last of [his/her] name. Book learning surely surpasses base peasant cures, herbs and charms?",
-    "vi": "Nghiên cứu nhiều tác phẩm vĩ đại trong các thư viện Oxford khiến <name> tự tin dùng đôi tay [his/her] thử sức với y thuật. <name> xuất thân từ một gia đình danh giá, là người cuối cùng mang tên dòng họ [his/her]. Tri thức sách vở hẳn phải vượt xa thuốc dân gian, thảo dược và bùa chú của nông dân chứ?"
+    "vi": "Nghiên cứu các tác phẩm vĩ đại trong thư viện Oxford đem lại cho <name> sự tự tin để thử sức bàn tay của [his/her] với nghề y. <name> xuất thân từ một dòng dõi danh gia vọng tộc, là hậu duệ cuối cùng của dòng họ [his/her]. Tri thức sách vở kinh điển hẳn phải vượt xa những bài thuốc thô lậu, cỏ cây và bùa chú của đám nông dân chứ?"
   },
   {
     "key": "bg_recent_info_Hopeful",
     "type": 0,
     "en": "<name> fished leeches from the pond at <origin>, and carried them about in a milk jar, offering healing. <name> had no experience whatsoever, but had once seen a monk put the beasts on a dying man. It probably did no harm, <name> thought.",
-    "vi": "<name> bắt đỉa từ ao ở <origin>, mang chúng trong một bình sữa và đi chữa bệnh. <name> chẳng có chút kinh nghiệm nào, nhưng từng thấy một tu sĩ đặt những con vật ấy lên người hấp hối. Chắc cũng chẳng gây hại gì, <name> nghĩ."
+    "vi": "<name> bắt đỉa từ ao nước ở <origin>, đựng chúng trong bình sữa rồi đi khắp nơi chữa bệnh. <name> chẳng có chút kinh nghiệm nào, nhưng từng thấy một tu sĩ đặt mấy con vật đó lên người một kẻ hấp hối. Chắc cũng chẳng hại gì đâu, <name> thầm nghĩ."
   },
   {
     "key": "bg_recent_info_Ruthless",
     "type": 0,
     "en": "<name> recalled townsfolk dying in the streets as the nobles fled north to escape the plague. Are we not all mere sinners in the eyes of God? <name> would follow William of York in defending the rights of common folk. To the death if necessary.",
-    "vi": "<name> nhớ lại cảnh dân thị trấn chết trên đường phố trong khi giới quý tộc chạy về phương bắc trốn dịch. Trong mắt Chúa, chẳng phải tất cả chúng ta chỉ là những kẻ tội lỗi sao? <name> sẽ theo William xứ York để bảo vệ quyền lợi của dân thường, cho đến chết nếu cần."
+    "vi": "<name> nhớ lại cảnh dân thị trấn ngã chết la liệt ngoài đường trong khi giới quý tộc tháo chạy về phương bắc tránh dịch. Trong mắt Thiên Chúa, chẳng phải tất cả chúng ta đều là những kẻ tội lỗi sao? <name> quyết theo chân William xứ York để bảo vệ quyền lợi của giới cần lao, dù có phải chết."
   },
   {
     "key": "bg_recent_info_Loyal",
     "type": 0,
     "en": "<name> pledged fealty to King Edmund, who was ordained to rule and bring England back into harmony and balance. <name> would gladly put anyone who disagreed with [him/her] to the sword. Death would be swift and merciful.",
-    "vi": "<name> thề trung thành với Vua Edmund, người được thụ phong để cai trị và đưa nước Anh trở lại hòa hợp, cân bằng. <name> sẵn lòng đưa bất kỳ ai bất đồng với [him/her] ra trước lưỡi kiếm. Cái chết sẽ nhanh chóng và nhân từ."
+    "vi": "<name> thề tận trung với Vua Edmund, đấng được tấn phong để trị vì và mang lại sự an bình, cân bằng cho nước Anh. <name> sẵn lòng vung gươm chém bất kỳ ai dám trái ý [him/her]. Cái chết sẽ đến thật nhanh chóng và nhân từ."
   },
   {
     "key": "bg_recent_info_Chivalrous",
     "type": 0,
     "en": "<name> swooned over the histories of Sir Gawain and Sir Bedivere. To be so gallant, so merciful. <name> thought [he/she] had the right qualities to be a knight. And those qualities were sorely needed, in these savage days.",
-    "vi": "<name> mê mẩn những câu chuyện về Sir Gawain và Sir Bedivere: quả là hào hiệp, quả là nhân từ. <name> tin [he/she] có đủ phẩm chất để trở thành hiệp sĩ. Trong những ngày tháng man rợ này, các phẩm chất ấy lại càng cấp thiết."
+    "vi": "<name> say mê những thiên anh hùng ca về Ngài Gawain và Ngài Bedivere: thật hào hiệp, thật nhân từ làm sao. <name> tin rằng [he/she] có đủ phẩm chất để trở thành một hiệp sĩ chân chính. Và những phẩm chất ấy lại càng cấp thiết hơn bao giờ hết giữa thời buổi loạn lạc man rợ này."
   },
   {
     "key": "bg_recent_info_Weary",
     "type": 0,
     "en": "<name> was tired, truth be told. [His/Her] joints ached and [he/she] couldn't fathom how The End of Days had passed [him/her] by. <name> still oiled [his/her] blades, strangely envious of comrades slain at Saint-Omer. Somehow, <name> soldiered on.",
-    "vi": "Nói thật, <name> đã mệt mỏi. Các khớp của [His/Her] đau nhức và [he/she] không hiểu vì sao Ngày Tận Thế lại bỏ qua [him/her]. <name> vẫn tra dầu cho những lưỡi kiếm [his/her], kỳ lạ thay lại ghen tị với đồng đội đã ngã xuống tại Saint-Omer. Bằng cách nào đó, <name> vẫn tiếp tục tiến bước."
+    "vi": "Nói thực lòng, <name> đã quá mỏi mệt. Khớp xương của [His/Her] đau nhức và [he/she] không tài nào hiểu nổi vì sao Ngày Tận Thế lại bỏ qua [him/her]. <name> vẫn cặm cụi tra dầu cho những lưỡi gươm của [his/her], kỳ lạ thay lại thầm ghen tị với những chiến hữu đã ngã xuống tại Saint-Omer. Bằng cách nào đó, <name> vẫn kiên cường bước tiếp."
   },
   {
     "key": "bg_recent_info_Wicked",
     "type": 0,
     "en": "<name> regretted wishing death on [his/her] father's house. This very fate befell all [his/her] kin, and <name> was filled with remorse. [He/She] took up [his/her] father's hammer, and fired up the forge. Each metallic blow rang out: \"Guilty, guilty.\"",
-    "vi": "<name> từng hối hận vì đã nguyền rủa cái chết giáng xuống ngôi nhà của cha [his/her]. Số phận nghiệt ngã ấy đã ập xuống toàn bộ thân quyến của [his/her], khiến <name> ngập tràn ân hận day dứt. [He/She] cầm lấy chiếc búa của cha [his/her], thắp lại ngọn lửa lò rèn. Mỗi nhát búa giáng xuống đe sắt như vang vọng lời tự thú: \"Tội lỗi, tội lỗi.\""
+    "vi": "<name> vô cùng hối hận vì đã từng nguyền rủa cái chết giáng xuống mái nhà của cha [his/her]. Chính số phận nghiệt ngã ấy đã ập xuống toàn bộ thân quyến của [his/her], khiến <name> ngập tràn nỗi cắn rứt khôn nguôi. [He/She] cầm lấy cây búa của người cha quá cố của [his/her], nhóm lại lò rèn rực lửa. Mỗi nhát búa nện vang lên đanh thép: \"Tội lỗi, tội lỗi.\""
   },
   {
     "key": "bg_recent_info_Thrifty",
     "type": 0,
     "en": "<name> had left the silent streets of <origin> with a cart, and started collecting metal. From churches to manors, <name> stripped them clean and melted it all down. Sir Hugh Gaveston and William of York would surely be needing swords.",
-    "vi": "<name> rời những con phố im lặng của <origin> cùng một chiếc xe kéo và bắt đầu thu gom kim loại. Từ nhà thờ đến trang viên, <name> tháo sạch mọi thứ rồi nung chảy tất cả. Sir Hugh Gaveston và William xứ York chắc chắn sẽ cần kiếm."
+    "vi": "<name> rời những con phố vắng lặng của <origin> cùng một cỗ xe kéo và bắt đầu thu gom kim loại. Từ các nhà thờ cho tới các trang viên, <name> lột sạch kim loại rồi nung chảy tất cả. Ngài Hugh Gaveston và William xứ York chắc chắn sẽ cần đến gươm giáo."
   },
   {
     "key": "bg_recent_info_Tempered",
     "type": 0,
     "en": "<name> had packed [his/her] surviving children on a cart and fled. [He/She] could not remain, as the ghosts of [his/her] family would haunt the house for eternity. <name> found a niche as an ironmonger. Even the unhinged need new locks and bolts.",
-    "vi": "<name> đưa những đứa con còn sống của [his/her] lên xe kéo rồi bỏ trốn. [He/She] không thể ở lại vì hồn ma gia đình [his/her] sẽ ám ngôi nhà mãi mãi. <name> tìm được kế sinh nhai bằng nghề buôn đồ sắt. Ngay cả kẻ mất trí cũng cần ổ khóa và then cửa mới."
+    "vi": "<name> đặt những đứa con còn sống sót của [his/her] lên xe kéo rồi bỏ trốn. [He/She] chẳng thể ở lại khi oan hồn của gia quyến [his/her] sẽ mãi ám ảnh ngôi nhà ấy. <name> tìm được kế sinh nhai bằng nghề buôn bán đồ sắt. Ngay cả những kẻ điên rồ cũng cần ổ khóa và then cài mới."
   },
   {
     "key": "bg_recent_info_Brutal",
     "type": 0,
     "en": "<name> had fallen from grace, ending up in prison. Fate in the form of The Great Mortality - sickened guards and a filched key - offered a window of escape. <name> now had an unhealthy fascination with torture and tools of punishment.",
-    "vi": "<name> sa sút đến mức phải vào tù. Số phận dưới hình hài Đại Tử Vong - lính canh mắc bệnh và một chiếc chìa khóa đánh cắp - đã mở ra cơ hội trốn thoát. <name> giờ đây say mê bệnh hoạn với tra tấn và các công cụ trừng phạt."
+    "vi": "<name> sa cơ lỡ bước và phải chịu cảnh ngục tù. Số phận dưới hình hài của Đại Tử Vong — đám lính canh đổ bệnh cùng chiếc chìa khóa đánh cắp được — đã mở ra cơ hội đào tẩu. Giờ đây <name> mang một niềm say mê quái đản với nhục hình và các dụng cụ tra tấn trừng phạt."
   },
   {
     "key": "bg_recent_info_Winsome",
     "type": 0,
     "en": "[he/she] became the Earl's lover. <name> had comforted him as his wife lay dying, and coerced him with blackmail when the countess unexpectedly recovered. <name> become a puppet master to the hapless Earl, his wife relegated to a distant tower.",
-    "vi": "[he/she] trở thành người tình của Bá tước. <name> an ủi ông ta khi vợ ông hấp hối, rồi cưỡng ép bằng thư tống tiền khi nữ bá tước bất ngờ hồi phục. <name> trở thành kẻ giật dây Bá tước bất hạnh, còn vợ ông bị đày vào một tòa tháp xa xôi."
+    "vi": "[he/she] đã trở thành nhân tình của Bá tước. <name> từng an ủi ông khi phu nhân hấp hối, rồi dùng bí mật tống tiền khi nữ bá tước bất ngờ bình phục. <name> trở thành kẻ giật dây điều khiển vị Bá tước bất hạnh, còn phu nhân của ông bị đày biệt tích nơi tháp canh xa xôi."
   },
   {
     "key": "bg_recent_info_Willful",
     "type": 0,
     "en": "bards told of how <name> commanded the barring of the gates, deaf to the pitiful wails and scrabbling outside. By sheer force of will, <name> kept extinction at bay in <origin>. That day, <name> became a legendary leader.",
-    "vi": "Các thi sĩ kể rằng <name> ra lệnh đóng chặt cổng, làm ngơ trước tiếng than khóc và cào cấu thảm thiết bên ngoài. Chỉ bằng ý chí sắt đá, <name> đẩy lùi diệt vong tại <origin>. Ngày hôm đó, <name> trở thành một thủ lĩnh huyền thoại."
+    "vi": "Các thi sĩ kể rằng <name> đã hạ lệnh then cài đóng chặt cổng thành, bịt tai làm ngơ trước những tiếng khóc than và cào cấu tuyệt vọng bên ngoài. Chỉ bằng ý chí sắt đá phi thường, <name> đã ngăn chặn họa diệt vong tại <origin>. Kể từ ngày hôm đó, <name> đã trở thành một thủ lĩnh huyền thoại."
   },
   {
     "key": "bg_recent_info_Artful",
     "type": 0,
     "en": "<name> chose eternal damnation over living purgatory. [He/She] sold the cow, then [his/her] only daughter. An artful beggar, [he/she] roamed the tattered shires, flattering, cajoling and seducing for a crust of bread. <name> is a survivor.",
-    "vi": "<name> chọn sự nguyền rủa vĩnh hằng thay vì luyện ngục trần gian. [He/She] bán con bò, rồi bán cả cô con gái duy nhất của [his/her]. Là một kẻ ăn xin xảo quyệt, [he/she] lang thang khắp các hạt rách nát, nịnh nọt, dụ dỗ và quyến rũ để đổi lấy một mẩu bánh mì. <name> là kẻ sống sót."
+    "vi": "<name> chấp nhận sự đày đọa vĩnh hằng còn hơn phải sống trong chốn luyện ngục trần gian. [He/She] bán con bò, rồi bán luôn cả đứa con gái độc nhất của [his/her]. Là một kẻ hành khất ma mãnh, [he/she] lang thang khắp các vùng hạt xơ xác, nịnh hót, dỗ ngon dỗ ngọt và quyến rũ bất kỳ ai để đổi lấy mẩu bánh mì. <name> là một kẻ sinh tồn cự phách."
   },
   {
     "key": "bg_recent_info_Crafty",
     "type": 0,
     "en": "<name> was scavenging from a bloated corpse, and came by a fine pair of shears. Trimming cloth from dead limbs was easy. Turning it into wearable garments took more practice. But <name> persisted. Now [he/she] can fashion a suit from almost anything.",
-    "vi": "<name> nhặt nhạnh trên một xác chết trương phình và tìm được một chiếc kéo tốt. Cắt vải khỏi những chi thể đã chết thì dễ. Biến chúng thành quần áo mặc được cần luyện tập nhiều hơn. Nhưng <name> vẫn kiên trì. Giờ [he/she] có thể may một bộ đồ từ gần như bất cứ thứ gì."
+    "vi": "<name> trong lúc lục lọi trên một xác chết trương phình đã nhặt được một chiếc kéo sắc xảo. Cắt vải từ tứ chi người chết thì dễ, nhưng may thành quần áo mặc được thì cần tôi luyện nhiều hơn. Nhưng <name> vẫn kiên trì. Giờ đây [he/she] có thể may một bộ đồ từ hầu như bất cứ thứ gì."
   },
   {
     "key": "bg_recent_info_Swindling",
     "type": 0,
     "en": "<name> raided barns for stray kittens and pups, fashioning brightly-coloured sacks from dead-men's cloaks to stash them in. Off to market! Jiggety jig. <name> would sell the unwary a pre-bagged 'piglet,' at bargain price...and vanish. Caveat emptor!",
-    "vi": "<name> càn quét các nhà kho tìm mèo con và chó con đi lạc, may những chiếc túi sặc sỡ từ áo choàng của người chết để nhốt chúng. Ra chợ thôi! Lắc lư nào. <name> bán cho kẻ cả tin một 'chú heo con' đóng túi sẵn với giá hời... rồi biến mất. Người mua hãy cẩn thận!"
+    "vi": "<name> càn quét các chuồng trại bắt mèo con và chó con đi lạc, may những chiếc bao sặc sỡ từ áo choàng của tử thi để nhét chúng vào. Ra chợ thôi! Lắc lư lắc lư nào. <name> sẽ bán cho những kẻ nhẹ dạ cả tin một 'chú lợn con' đóng bao sẵn với giá hời... rồi biến mất không dấu vết. Người mua tự chịu rủi ro!"
   },
   {
     "key": "bg_recent_info_Thoughtless",
     "type": 0,
     "en": "<name> fancied [him/her]self a dressmaker. And so [he/she] set about using miller's floursacks, sheets and linen rags to clothe the destitute orphans and wastrels of <origin>. A frightful sight they were, shorn of their remaining dignity.",
-    "vi": "<name> tự xem [him/her] là thợ may khéo léo. Vì vậy [he/she] dùng bao bột của người xay, ga trải giường và giẻ lanh để may quần áo cho trẻ mồ côi và kẻ lang thang khốn khổ ở <origin>. Trông chúng thật kinh hãi, bị tước nốt chút phẩm giá cuối cùng."
+    "vi": "<name> tự hão huyền rằng [him/her] là thợ may khéo léo. Và thế là [he/she] bắt tay dùng bao bột mì, ga trải giường và giẻ lanh để may đồ cho lũ trẻ mồ côi cùng những kẻ lang bạt khốn cùng ở <origin>. Trông chúng thật quái gở thảm hại, bị tước đoạt nốt chút thể diện cuối cùng."
   },
   {
     "key": "bg_recent_info_Reckless",
     "type": 0,
     "en": "<name> ventured into the abandoned mines, with a band of comrades and a few candle stubs. It only takes a pickaxe, any fool can do it, <name> supposed. And putting aside the fatal rockfall and the flooding incidents, <name> was right.",
-    "vi": "<name> liều lĩnh tiến vào các mỏ bỏ hoang cùng một nhóm đồng đội và vài mẩu nến. <name> cho rằng chỉ cần một chiếc cuốc chim, kẻ ngốc nào cũng làm được. Và bỏ qua vụ sập đá chết người cùng những lần ngập nước, <name> đã đúng."
+    "vi": "<name> liều mạng mò vào các khu mỏ bỏ hoang cùng một nhóm bạn đồng hành và vài mẩu nến tàn. Chỉ cần một cây cuốc chim, kẻ ngốc nào mà chẳng làm được, <name> nghĩ vậy. Và nếu tạm bỏ qua vụ sập đá chết người cùng những lần ngập lụt kinh hoàng, thì <name> đã đúng."
   },
   {
     "key": "bg_recent_info_Desolate",
     "type": 0,
     "en": "<name> wanted to hit someone, to take out [his/her] rage at the horror and desolation that had violated everything [he/she] loved. But <name> was a pacifist. So [he/she] hacked spoils from the bountiful earth until [his/her] grief was spent instead.",
-    "vi": "<name> muốn đánh ai đó để trút cơn giận [his/her] trước nỗi kinh hoàng và hoang tàn đã xâm phạm mọi thứ [he/she] yêu quý. Nhưng <name> là người theo chủ nghĩa hòa bình. Vì vậy [he/she] đào bới sản vật từ lòng đất trù phú cho đến khi nỗi đau [his/her] vơi đi."
+    "vi": "<name> muốn đấm ai đó để trút cơn thịnh nộ của [his/her] trước cảnh kinh hoàng và hoang tàn đã cướp đi mọi thứ [he/she] hằng yêu quý. Nhưng <name> là người chuộng hòa bình. Vì thế [he/she] chuyển sang ra sức đào bới sản vật từ lòng đất mẹ bao dung cho đến khi vơi cạn nỗi đau thương của [his/her]."
   },
   {
     "key": "bg_recent_info_Solitary",
     "type": 0,
     "en": "<name> had felt more at home in the quiet of the clay pits and lime kilns than in the towns. There were traces of humanity, but not the stench or the despair. <name> carved a secret labyrinth into the rock, invoking memories of Reims Cathedral.",
-    "vi": "<name> cảm thấy thân thuộc hơn giữa sự tĩnh lặng của hố đất sét và lò vôi so với phố thị. Nơi đó có dấu vết con người, nhưng không có mùi hôi hay tuyệt vọng. <name> đục một mê cung bí mật vào đá, gợi nhớ Nhà thờ Reims."
+    "vi": "<name> cảm thấy thoải mái như ở nhà giữa sự tĩnh mịch của những hố đất sét và lò nung vôi hơn là chốn phố thị ồn ào. Nơi đó vẫn còn dấu tích con người, nhưng không có mùi xú uế hay nỗi tuyệt vọng cùng cực. <name> đã khắc một mê cung bí mật vào vách đá, gợi nhớ về Nhà thờ chính tòa Reims."
   },
   {
     "key": "bg_recent_info_Ashen",
     "type": 0,
     "en": "<name> had burned what could not be buried. Ash clung to [his/her] skin and throat until [he/she] forgot the scent of anything but smoke and death. It clings to [him/her] still, often in dreams.",
-    "vi": "<name> thiêu những gì không thể chôn cất. Tro bám vào da và cổ họng [his/her] cho đến khi [he/she] quên mất mọi mùi hương ngoài khói và cái chết. Nó vẫn bám lấy [him/her], thường xuất hiện trong giấc mơ."
+    "vi": "<name> đã thiêu rụi những gì chẳng thể đem chôn cất. Tro tàn bám chặt vào làn da và cổ họng của [his/her] đến mức [he/she] quên đi mọi mùi hương trên đời, ngoại trừ mùi khói và mùi tử khí. Nó vẫn bám riết lấy [him/her], ngay cả trong những giấc chiêm bao."
   },
   {
     "key": "bg_recent_info_Wary",
     "type": 0,
     "en": "trust was a luxury <name> could no longer afford. A smile could conceal a knife, a handhake spread a fever. [He/She] learned to remain vigilant, and to move before danger struck.",
-    "vi": "Niềm tin là thứ xa xỉ mà <name> không còn đủ khả năng có được. Một nụ cười có thể che giấu con dao, một cái bắt tay có thể truyền bệnh sốt. [He/She] học cách luôn cảnh giác và hành động trước khi hiểm nguy ập đến."
+    "vi": "Lòng tin là thứ xa xỉ mà <name> chẳng còn dám mơ tới. Một nụ cười có thể giấu con dao găm, một cái bắt tay có thể lây lan mầm bệnh. [He/She] học cách luôn đề cao cảnh giác và hành động trước khi hiểm nguy giáng xuống."
   },
   {
     "key": "bg_recent_info_Tangled",
     "type": 0,
     "en": "the debts mounted quickly, and <name> tangled [himself/herself] in promises, betrayals, and desperate bargains. The plague wiped the slate clean, as there was nothing left, and nobody alive to pay.",
-    "vi": "Các khoản nợ nhanh chóng chồng chất, và <name> tự trói mình [himself/herself] trong những lời hứa, phản bội và cuộc mặc cả tuyệt vọng. Dịch bệnh xóa sạch mọi thứ, vì chẳng còn gì và cũng chẳng còn ai sống để trả nợ."
+    "vi": "Nợ nần chồng chất như núi, và <name> tự trói mình [himself/herself] trong những lời hứa hão, sự phản bội cùng những cuộc ngã giá tuyệt vọng. Trận dịch bệnh đã xóa sạch tất cả, bởi chẳng còn lại thứ gì và cũng chẳng còn ai sống sót để đòi nợ."
   },
   {
     "key": "bg_recent_info_Whole",
     "type": 0,
     "en": "somehow, <name> endured. Through fever, famine, and fire [he/she] remained whole - yet hollowed inside. Beneath the skin, grief festered, withering into a shape that only barely resembled [his/her] soul before.",
-    "vi": "Bằng cách nào đó, <name> vẫn chịu đựng được. Qua sốt rét, đói kém và lửa cháy, [he/she] vẫn nguyên vẹn - nhưng bên trong trống rỗng. Dưới lớp da, nỗi đau âm ỉ héo mòn thành một hình hài chỉ còn hơi giống linh hồn [his/her] ngày trước."
+    "vi": "Bằng cách nào đó, <name> vẫn sống sót kiên cường. Vượt qua sốt rét, nạn đói và lửa thiêu, thân thể [he/she] vẫn lành lặn — dẫu tâm can bên trong đã hoàn toàn rỗng tuếch. Ẩn sâu dưới lớp da thịt, nỗi bi thương gặm nhấm, biến tướng thành một hình hài chỉ còn phảng phất chút linh hồn của [his/her] năm xưa."
   },
   {
     "key": "bg_recent_info_Disciplined",
     "type": 0,
     "en": "with each blow and every struggle, <name> was hardened. Order became all that mattered. Without it, [he/she] believed, even the strongest crumbled into dust.",
-    "vi": "Qua từng đòn đánh và mọi cuộc vật lộn, <name> trở nên cứng rắn. Trật tự trở thành điều duy nhất quan trọng. [he/she] tin rằng nếu thiếu nó, ngay cả kẻ mạnh nhất cũng tan thành bụi."
+    "vi": "Qua từng đòn roi tra tấn và mỗi cuộc vật lộn cam go, <name> càng trở nên rắn rỏi. Kỷ luật và trật tự trở thành điều duy nhất có ý nghĩa. [he/she] tin rằng nếu thiếu đi trật tự, ngay cả những kẻ hùng mạnh nhất cũng sẽ tan biến thành tro bụi."
   },
   {
     "key": "bg_recent_info_Gnarled",
     "type": 0,
     "en": "time twisted <name> like a winter-throttled oak. With scarred hands and a bowed back, [he/she] held fast to roots deep in the ruined earth of <origin>. Storms passed; [he/she] endured.",
-    "vi": "Thời gian vặn xoắn <name> như cây sồi bị mùa đông bóp nghẹt. Với đôi tay đầy sẹo và tấm lưng còng, [he/she] bám chặt vào những rễ sâu trong vùng đất hoang tàn của <origin>. Bão tố qua đi; [he/she] vẫn chịu đựng."
+    "vi": "Thời gian vặn vẹo <name> như một thân sồi bị mùa đông siết nghẹt. Với đôi bàn tay đầy vết sẹo và tấm lưng còng, [he/she] bám chặt rễ sâu vào mảnh đất hoang tàn ở <origin>. Bão tố đi qua; [he/she] vẫn sừng sững chịu đựng."
   },
   {
     "key": "bg_recent_info_Frosty",
     "type": 0,
     "en": "<name> froze long before winter came. Each death, each burial dulled [his/her] spirit further. No comfort could thaw the frost that settled into [his/her] marrow.",
-    "vi": "<name> đã đóng băng từ lâu trước khi mùa đông đến. Mỗi cái chết, mỗi lần chôn cất lại khiến tinh thần [his/her] thêm tê liệt. Không sự an ủi nào có thể làm tan lớp băng đã ngấm vào tận tủy [his/her]."
+    "vi": "<name> đã hóa băng từ rất lâu trước khi mùa đông kéo tới. Mỗi cái chết, mỗi nấm mồ chôn cất lại càng làm tâm hồn của [his/her] thêm chai sạn. Chẳng sự an ủi nào có thể làm tan chảy lớp băng giá đã ngấm sâu vào tận tủy xương của [his/her]."
   },
   {
     "key": "bg_recent_info_Riven",
     "type": 0,
     "en": "the world tore <name> apart. Some pieces, [he/she] left in the mass graves; some, [he/she] buried deeper. Surely, once this harrowing was over, they had earned God's grace?",
-    "vi": "Thế giới xé <name> thành từng mảnh. Một số mảnh [he/she] bỏ lại trong những hố chôn tập thể; số khác [he/she] chôn sâu hơn nữa. Chắc chắn khi cơn thống khổ này kết thúc, họ đã xứng đáng nhận ân sủng của Chúa?"
+    "vi": "Thế gian xé toạc <name> thành trăm mảnh. Vài mảnh vỡ [he/she] bỏ lại nơi những hố chôn tập thể; vài mảnh khác [he/she] chôn sâu tận đáy lòng. Chắc chắn sau khi cơn đày ải thống khổ này kết thúc, họ đã xứng đáng đón nhận ân sủng của Thiên Chúa?"
   },
   {
     "key": "bg_recent_info_Seaborn",
     "type": 0,
     "en": "the sea could not weep, for it was made of tears. So, <name> raised a sail to ride [his/her] sorrow on salt and tide. Let the land rot. <name> would look to the horizon.",
-    "vi": "Biển không thể khóc vì chính nó được tạo nên từ nước mắt. Vì vậy <name> căng buồm, đưa nỗi buồn [his/her] trôi theo vị mặn và thủy triều. Cứ để đất liền mục nát. <name> sẽ hướng mắt về chân trời."
+    "vi": "Biển cả chẳng thể khóc than, bởi chính nó đã được tạo nên từ nước mắt. Vì thế, <name> giương buồm đưa nỗi sầu muộn của [his/her] lướt theo vị mặn và ngọn triều dâng. Cứ để đất liền mục rữa. <name> sẽ hướng ánh nhìn về tận chân trời."
   },
   {
     "key": "bg_recent_info_Frayed",
     "type": 0,
     "en": "hope unravelled stitch by stitch. <name> carried on anyway, patching the seams of a broken life with whatever scraps [he/she] scavenged among the ruins.",
-    "vi": "Hy vọng bung ra từng mũi chỉ. Dẫu vậy <name> vẫn bước tiếp, vá những đường may của cuộc đời tan vỡ bằng bất cứ mảnh vụn nào [he/she] nhặt được giữa đống hoang tàn."
+    "vi": "Hy vọng đứt đoạn theo từng mũi chỉ. Dẫu vậy <name> vẫn gắng gượng bước tiếp, chắp vá những đường may của cuộc đời đổ vỡ bằng bất cứ mảnh vụn nào mà [he/she] lượm lặt được giữa đống hoang tàn."
   },
   {
     "key": "bg_recent_info_Candlelit",
     "type": 0,
     "en": "<name> often worked until Matins in the scriptorium at <origin> Abbey, illuminating documents by flickering tallow light. [He/She] befriended every pigment, coaxing gold leaf's gleam and verdigris to bloom. Silence was [his/her] companion, precision [his/her] obsession.",
-    "vi": "<name> thường làm việc tới tận nửa đêm trong phòng chép kinh tại Tu viện <origin>, tỉ mẩn minh họa các tài liệu dưới ánh nến mỡ lung linh. [He/She] làm bạn với từng sắc tố màu, khéo léo dát vàng lấp lánh và điểm xuyết ánh xanh rêu. Sự tĩnh lặng là người bạn đồng hành của [his/her], còn sự chuẩn xác là nỗi ám ảnh của [his/her]."
+    "vi": "<name> thường miệt mài làm việc tới tận Kinh Sáng trong phòng chép kinh tại Tu viện <origin>, tỉ mỉ minh họa các văn bản dưới ánh nến mỡ lung linh leo lét. [He/She] làm bạn với từng sắc tố phẩm màu, khéo léo dát vàng lấp lánh và điểm xuyết sắc xanh rêu. Tĩnh lặng là bạn đồng hành của [his/her], còn sự chuẩn xác tột cùng là nỗi ám ảnh của [his/her]."
   },
   {
     "key": "bg_recent_info_Merciful",
     "type": 0,
     "en": "<name> became adept with saw and iron, deftly cutting rot from living flesh. Some said [he/she] rather enjoyed it. [He/She] claimed it was an act of mercy, whispering prayers as limbs fell away.",
-    "vi": "<name> trở nên thành thạo với cưa và sắt, khéo léo cắt bỏ phần thối rữa khỏi thịt sống. Có người nói [he/she] khá thích việc đó. [He/She] khẳng định đây là hành động nhân từ, thì thầm cầu nguyện khi từng chi thể lìa khỏi cơ thể."
+    "vi": "<name> trở nên lão luyện với cưa và sắt nung, thoăn thoắt cắt bỏ phần thịt thối rữa khỏi cơ thể sống. Có kẻ bảo [he/she] thực ra khá khoái chí với việc đó. Nhưng [He/She] một mực khẳng định đây là hành động cứu rỗi nhân từ, miệng khẽ thì thầm lời cầu nguyện mỗi khi từng chi thể lìa rơi."
   },
   {
     "key": "bg_recent_info_Grim",
     "type": 0,
     "en": "<name> took no joy in the work, but neither did [he/she] flinch. Shackles clanked, keys turned, and bones broke where necessary. Words sometimes failed <name> - steel did not.",
-    "vi": "<name> không tìm thấy niềm vui trong công việc, nhưng [he/she] cũng chẳng chùn bước. Xiềng xích va leng keng, chìa khóa xoay và xương gãy khi cần thiết. Lời nói đôi khi phụ lòng <name> - thép thì không."
+    "vi": "<name> chẳng tìm thấy chút niềm vui nào trong công việc, nhưng [he/she] cũng chưa từng nao núng. Xiềng xích va lẻng xẻng, chìa khóa tra vào ổ, và xương gãy vụn khi cần thiết. Lời nói có lúc phản bội <name> — nhưng lưỡi thép thì không bao giờ."
   },
   {
     "key": "bg_recent_info_Singed",
     "type": 0,
     "en": "when sparks flew, <name> had been the first to haul buckets, drag bodies, and wrangle panicked beasts. The cleansing flames may have touched [him/her] here and there, but [he/she] was undeterred.",
-    "vi": "Khi tia lửa tung bay, <name> là người đầu tiên xách xô, kéo thi thể và khống chế những con vật hoảng loạn. Ngọn lửa thanh tẩy có thể đã chạm vào [him/her] đôi chỗ, nhưng [he/she] không hề nao núng."
+    "vi": "Khi tia lửa bùng lên, <name> luôn là người tiên phong xách xô nước, kéo lê các thi thể và ghì chặt những con thú đang hoảng loạn. Ngọn lửa thanh tẩy có thể đã táp cháy xém [him/her] đôi chỗ, nhưng [he/she] chẳng hề chùn bước."
   },
   {
     "key": "bg_recent_info_Unshaped",
     "type": 0,
     "en": "<name> had never liked drills or sparring grounds. So [he/she] was surprised to learn that when fists flew, [he/she] didn’t hesitate. <name> had finally discovered their own strength, yet knew nothing of discipline.",
-    "vi": "<name> chưa bao giờ thích diễn tập hay sân đấu tập. Vì vậy [he/she] ngạc nhiên khi nhận ra lúc nắm đấm tung ra, [he/she] chẳng hề do dự. <name> cuối cùng đã khám phá sức mạnh của bản thân nhưng chưa biết gì về kỷ luật."
+    "vi": "<name> chưa từng thích các buổi thao diễn hay đấu trường tập luyện. Vì thế [he/she] vô cùng ngạc nhiên khi thấy lúc nắm đấm vung ra, [he/she] chẳng hề ngập ngừng do dự. Cuối cùng <name> đã khám phá ra sức mạnh tiềm ẩn của chính mình, dẫu vẫn chưa hề biết gì về phép tắc kỷ luật."
   },
   {
     "key": "bg_recent_info_Gentle",
     "type": 0,
     "en": "<name> flinched at smoke and screaming, but never turned away from the wounded. [He/She] learned to stitch flesh, carving saints for those in [his/her] care. <name> softened the world to make the horrors more bearable.",
-    "vi": "<name> co rúm trước khói và tiếng thét nhưng không bao giờ quay lưng với người bị thương. [He/She] học khâu da thịt và tạc tượng các vị thánh cho những người được [his/her] chăm sóc. <name> làm thế giới dịu lại để nỗi kinh hoàng trở nên dễ chịu đựng hơn."
+    "vi": "<name> co rúm người lại trước khói lửa và tiếng thét gào, nhưng chưa từng quay lưng bỏ mặc người bị thương. [He/She] học cách khâu vết thương da thịt, tạc tượng các vị thánh cho những người dưới sự chăm sóc của [his/her]. <name> xoa dịu thế gian để nỗi kinh hoàng trở nên dễ chịu đựng hơn."
   },
   {
     "key": "bg_recent_info_Nurturing",
     "type": 0,
     "en": "<name> tended creatures and crops with quiet joy, coaxing life from egg and seed alike. Each act of care was a prayer for one of those who had perished before.",
-    "vi": "<name> chăm sóc động vật và cây trồng với niềm vui thầm lặng, nâng niu sự sống từ cả trứng lẫn hạt giống. Mỗi hành động chăm nom là một lời cầu nguyện dành cho người đã khuất."
+    "vi": "<name> chăm nom muôn thú và mùa màng bằng niềm hân hoan thầm lặng, nâng niu mầm sống từ từng quả trứng cho tới hạt mầm. Mỗi cử chỉ ân cần là một lời cầu nguyện gửi tới những linh hồn đã khuất trước đây."
   },
   {
     "key": "bg_recent_info_Studious",
     "type": 0,
     "en": "<name> practiced all arts with quiet focus, whether bladework or brushstroke. [He/She] had heard the pen was mightier than the sword, but opted to use both.",
-    "vi": "<name> luôn trau dồi tri thức với sự tập trung cao độ, từ thuật dùng kiếm đến nghệ thuật hội họa. [He/She] tin rằng ngòi bút và lưỡi gươm đều là vũ khí bảo vệ chân lý."
+    "vi": "<name> miệt mài rèn giũa mọi ngón nghề với sự tập trung cao độ, từ đường kiếm cho đến nét bút lông. [He/She] từng nghe rằng ngòi bút sắc bén hơn gươm giáo, nhưng quyết định tinh thông cả hai."
   },
   {
     "key": "bg_recent_info_Lightfoot",
     "type": 0,
     "en": "<name> turned away from darkness. [He/She] had a ready smile, and would charm stories from the surliest of strangers, always chasing breeze over burden.",
-    "vi": "<name> quay lưng lại với bóng tối. [He/She] luôn sẵn nụ cười và có thể khéo léo gợi chuyện ngay cả từ những người lạ cáu kỉnh nhất, mãi chạy theo làn gió thay vì gánh nặng."
+    "vi": "<name> ngoảnh mặt quay lưng lại với bóng tối tăm. [He/She] luôn nở nụ cười rạng rỡ, khéo léo gợi mở những câu chuyện từ cả những kẻ lạ mặt gắt gỏng nhất, luôn thích đuổi theo ngọn gió thảnh thơi hơn là gánh nặng cuộc đời."
   },
   {
     "key": "bg_recent_info_Keen",
     "type": 0,
     "en": "<name> studied tracks like an alphabet, and knew the signs to follow to avoid disturbing elves. [He/She] had witnessed many strange occurrences, but knew better than to speak of them.",
-    "vi": "<name> đọc dấu vết như đọc bảng chữ cái và biết phải lần theo dấu hiệu nào để tránh quấy rầy yêu tinh. [He/She] từng chứng kiến nhiều chuyện kỳ lạ nhưng đủ khôn ngoan để không nhắc đến chúng."
+    "vi": "<name> đọc dấu vết rành rẽ như bảng chữ cái, và nắm rõ các dấu hiệu cần lần theo để tránh kinh động tới yêu tinh tiên tộc. [He/She] từng chứng kiến vô vàn chuyện kỳ bí quái đản, nhưng đủ khôn ngoan để không bao giờ hở môi nửa lời."
   },
   {
     "key": "background_context_link_01",
     "type": 0,
     "en": "After the Apocalypse,",
-    "vi": "Sau ngày tàn thế,"
+    "vi": "Sau ngày tận thế,"
   },
   {
     "key": "background_context_link_02",
     "type": 0,
     "en": "In the wake of death and terror,",
-    "vi": "Trong wake của death và terror,"
+    "vi": "Sau chuỗi ngày chết chóc và kinh hoàng,"
   },
   {
     "key": "background_context_link_03",

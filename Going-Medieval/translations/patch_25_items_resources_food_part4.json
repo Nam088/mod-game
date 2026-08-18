@@ -3,7 +3,7 @@
     "key": "worker_action_AnimalFleeingIdleGoal",
     "type": 0,
     "en": "Idle",
-    "vi": "Đang Trốn Chạy"
+    "vi": "Đang Chờ"
   },
   {
     "key": "worker_action_AnimalHungerGoal",
@@ -15,19 +15,19 @@
     "key": "worker_action_SetAnimalTargetGoal",
     "type": 0,
     "en": "Hunting",
-    "vi": "Đang Săn Bắt Động Vật"
+    "vi": "Đang Săn Mồi"
   },
   {
     "key": "worker_action_AnimalFeederHaulingGoal",
     "type": 0,
     "en": "Filling trough",
-    "vi": "Đang Đổ Đầy Máng Thức Ăn"
+    "vi": "Đang Đổ Đầy Máng Ăn"
   },
   {
     "key": "worker_action_RitualAnimalEventGoal",
     "type": 0,
     "en": "Attending Oak Brethren Ritual",
-    "vi": "Đang Tham Gia Đại Lễ Tế Thần Cây Sồi"
+    "vi": "Đang Tham Gia Nghi Lễ Huynh Đệ Cây Sồi"
   },
   {
     "key": "worker_action_petAnimalGoal",
@@ -39,7 +39,7 @@
     "key": "resource_name_dismantle_cloth",
     "type": 0,
     "en": "Dismantle items for cloth",
-    "vi": "Tái chế quần áo thu hồi sợi vải"
+    "vi": "Tháo dỡ vật phẩm thu hồi vải"
   },
   {
     "key": "resource_name_dismantle_wood",
@@ -51,67 +51,67 @@
     "key": "resource_name_dismantle_metal",
     "type": 0,
     "en": "Smelt items for metal",
-    "vi": "Nung chảy khí tài thu hồi kim loại"
+    "vi": "Nấu chảy vật phẩm thu hồi kim loại"
   },
   {
     "key": "name_prod_resources",
     "type": 0,
     "en": "Waiting for resources",
-    "vi": "Đang đợi vận chuyển nguyên liệu"
+    "vi": "Đang chờ nguyên liệu"
   },
   {
     "key": "resource_name_train_ranged",
     "type": 0,
     "en": "Marksman Training",
-    "vi": "Luyện Tập Xạ Kích"
+    "vi": "Luyện Tập Bắn Cung"
   },
   {
     "key": "resource_name_train_melee",
     "type": 0,
     "en": "Melee Training",
-    "vi": "Luyện Tập Võ Thuật Cận Chiến"
+    "vi": "Luyện Tập Cận Chiến"
   },
   {
     "key": "plants_around_skep",
     "type": 0,
     "en": "Plants nearby for bees to use ",
-    "vi": "Cây cối và hoa màu lân cận để đàn ong lấy mật"
+    "vi": "Cây cối gần tổ ong để lấy mật "
   },
   {
     "key": "resource_name_repair_cloth",
     "type": 0,
     "en": "Mend cloth item",
-    "vi": "Tu bổ vá trang phục"
+    "vi": "Vá trang phục vải"
   },
   {
     "key": "resource_name_repair_cloth_produced",
     "type": 0,
     "en": "Mended cloth item",
-    "vi": "Trang phục đã được vá lành"
+    "vi": "Trang phục vải đã sửa"
   },
   {
     "key": "resource_name_repair_wood",
     "type": 0,
     "en": "Repair wooden item",
-    "vi": "Tu sửa vật phẩm bằng gỗ"
+    "vi": "Sửa chữa vật phẩm gỗ"
   },
   {
     "key": "resource_name_repair_wood_produced",
     "type": 0,
     "en": "Repaired wooden item",
-    "vi": "Vật phẩm gỗ đã được tu sửa"
+    "vi": "Vật phẩm gỗ đã sửa"
   },
   {
     "key": "resource_name_repair_metal",
     "type": 0,
     "en": "Repair metal item",
-    "vi": "Tài nguyên Repair metal item"
+    "vi": "Sửa chữa vật phẩm kim loại"
   },
   {
     "key": "resource_name_repair_metal_produced",
     "type": 0,
     "en": "Repaired metal item",
-    "vi": "Tài nguyên Repaired metal item"
+    "vi": "Vật phẩm kim loại đã sửa"
   },
   {
     "key": "item_hit_point_tooltip",
@@ -123,13 +123,13 @@
     "key": "item_resource_hit_point_tooltip",
     "type": 0,
     "en": "Hitpoint range of the repair material used",
-    "vi": "Phạm vi độ bền của vật liệu dùng để sửa"
+    "vi": "Phạm vi độ bền của vật liệu sửa chữa sử dụng"
   },
   {
     "key": "item_resource_quality_tooltip",
     "type": 0,
     "en": "Quality range of the item being repaired",
-    "vi": "Phẩm chất range của item being repaired"
+    "vi": "Phạm vi phẩm chất của vật phẩm cần sửa chữa"
   },
   {
     "key": "resource_hit_point_tooltip",
@@ -141,7 +141,7 @@
     "key": "resource_quality_tooltip",
     "type": 0,
     "en": "Quality range of the resource being used",
-    "vi": "Phẩm chất range của resource being used"
+    "vi": "Phạm vi phẩm chất của tài nguyên đang dùng"
   },
   {
     "key": "menu_resource_hit_points",
@@ -153,37 +153,37 @@
     "key": "goal_preference_name_PlantsPreference",
     "type": 0,
     "en": "Botany",
-    "vi": "Nông nghiệp & Thu hái"
+    "vi": "Nông nghiệp"
   },
   {
     "key": "goal_preference_name_AnimalPreference",
     "type": 0,
     "en": "Animal Handling",
-    "vi": "Động vật Handling"
+    "vi": "Chăn nuôi"
   },
   {
     "key": "goal_preference_info_PlantsPreference",
     "type": 0,
     "en": "Used for sowing, growing, harvesting, and gathering plants, herbs and fruits.",
-    "vi": "Dùng để gieo trồng, chăm sóc mùa màng, thu hoạch cây trái và hái lượm thảo mộc hoang dã."
+    "vi": "Dùng để gieo trồng, chăm sóc, thu hoạch mùa màng và hái lượm thảo mộc, cây trái."
   },
   {
     "key": "goal_preference_info_AnimalPreference",
     "type": 0,
     "en": "Taming, training, slaughtering, roping, releasing and harvesting resources from animals.",
-    "vi": "Thuần hóa, huấn luyện, giết mổ, dắt dây, thả về tự nhiên và thu hoạch nông sản từ vật nuôi."
+    "vi": "Thuần hóa, huấn luyện, giết mổ, dắt dây, thả về tự nhiên và thu hoạch tài nguyên từ vật nuôi."
   },
   {
     "key": "general_add_unique_resource",
     "type": 0,
     "en": "Add Textbook",
-    "vi": "Thêm sách giáo khoa"
+    "vi": "Thêm Sách Nghiên Cứu"
   },
   {
     "key": "no_animalparticipant_message",
     "type": 0,
     "en": "There are no domestic animals that can be added to the event. ",
-    "vi": "Không có vật nuôi thuần hóa nào khả dụng để thêm vào sự kiện."
+    "vi": "Không có vật nuôi thuần hóa nào khả dụng để thêm vào sự kiện. "
   },
   {
     "key": "food_effecotor",
@@ -195,19 +195,19 @@
     "key": "effector_name_AffectionAnimalPositive",
     "type": 0,
     "en": "Pleasant company",
-    "vi": "Bạn đồng hành dễ thương"
+    "vi": "Bầu bạn dễ chịu"
   },
   {
     "key": "effector_name_AffectionAnimalNegative",
     "type": 0,
     "en": "Tiresome company",
-    "vi": "Bạn đồng hành phiền đểái"
+    "vi": "Bầu bạn phiền toái"
   },
   {
     "key": "effector_name_AnimalPresence",
     "type": 0,
     "en": "Interacted with a pet",
-    "vi": "Vuốt ve thú cưng"
+    "vi": "Đã vuốt ve thú cưng"
   },
   {
     "key": "effector_info_AnimalPresence",
@@ -225,61 +225,61 @@
     "key": "atb_info_AnimalCritChance",
     "type": 0,
     "en": "The chance to land a critical hit when hunting.",
-    "vi": "Tỷ lệ đánh đòn chí mạng khi đi săn bắn thú rừng."
+    "vi": "Tỉ lệ đánh đòn chí mạng khi đi săn động vật."
   },
   {
     "key": "atb_name_AnimalCritChance",
     "type": 0,
     "en": "Animal Critical Hit Chance",
-    "vi": "Động vật Critical Hit Chance"
+    "vi": "Tỉ Lệ Đòn Chí Mạng Khi Săn Động Vật"
   },
   {
     "key": "atb_name_AnimalHarvestYeald",
     "type": 0,
     "en": "Animal Harvest Yield",
-    "vi": "Động vật Harvest Yield"
+    "vi": "Sản Lượng Thu Hoạch Động Vật"
   },
   {
     "key": "atb_info_AnimalHarvestYeald",
     "type": 0,
     "en": "The number of resources yielded from living animals.",
-    "vi": "Số lượng tài nguyên thu hoạch được từ động vật sống."
+    "vi": "Số lượng tài nguyên thu hoạch được từ vật nuôi sống."
   },
   {
     "key": "atb_name_HarvestAnimalSpeed",
     "type": 0,
     "en": "Animal Harvest Speed",
-    "vi": "Động vật Harvest Speed"
+    "vi": "Tốc Độ Thu Hoạch Động Vật"
   },
   {
     "key": "atb_name_TameAnimalSpeed",
     "type": 0,
     "en": "Animal Taming Speed",
-    "vi": "Động vật Taming Speed"
+    "vi": "Tốc Độ Thuần Hóa Động Vật"
   },
   {
     "key": "atb_name_TrainAnimalSpeed",
     "type": 0,
     "en": "Animal Training Speed",
-    "vi": "Động vật Huấn luyệning Speed"
+    "vi": "Tốc Độ Huấn Luyện Động Vật"
   },
   {
     "key": "atb_info_HarvestAnimalSpeed",
     "type": 0,
     "en": "The speed this settler harvests resources from animals (like milking goats or shearing sheep)",
-    "vi": "Tốc độ thu hoạch tài nguyên từ động vật (như vắt sữa dê hoặc xén lông cừu)."
+    "vi": "Tốc độ dân làng thu hoạch tài nguyên từ vật nuôi (như vắt sữa dê hoặc xén lông cừu)."
   },
   {
     "key": "atb_info_TameAnimalSpeed",
     "type": 0,
     "en": "The speed this settler tames animals",
-    "vi": "Tốc độ thuần hóa thú hoang dã của dân làng này."
+    "vi": "Tốc độ thuần hóa động vật của dân làng này."
   },
   {
     "key": "atb_info_TrainAnimalSpeed",
     "type": 0,
     "en": "The speed this settler trains animals",
-    "vi": "Tốc độ huấn luyện thú nuôi của dân làng này."
+    "vi": "Tốc độ huấn luyện động vật của dân làng này."
   },
   {
     "key": "atb_name_AnimalTameChance",
@@ -297,13 +297,13 @@
     "key": "atb_info_AnimalTameChance",
     "type": 0,
     "en": "The chance that the taming attempt will be sucessful (the settler attempting to tame this animal will also multiply this chance)",
-    "vi": "Tỉ lệ phần trăm thuần hóa thành công con thú (trình độ của dân làng sẽ nhân thêm vào tỉ lệ này)."
+    "vi": "Tỉ lệ phần trăm thuần hóa thành công con vật (chỉ số của dân làng thực hiện cũng sẽ nhân thêm vào tỉ lệ này)."
   },
   {
     "key": "atb_info_AnimalTrainChance",
     "type": 0,
     "en": "The chance that the training attempt will be sucessful (the settler attempting to train this animal will also multiply this chance)",
-    "vi": "Tỉ lệ phần trăm huấn luyện thành công con thú (trình độ của dân làng sẽ nhân thêm vào tỉ lệ này)."
+    "vi": "Tỉ lệ phần trăm huấn luyện thành công con vật (chỉ số của dân làng thực hiện cũng sẽ nhân thêm vào tỉ lệ này)."
   },
   {
     "key": "quality_fine",
@@ -321,7 +321,7 @@
     "key": "quality_flimsy",
     "type": 0,
     "en": "Flimsy",
-    "vi": "Tạm Bợ Kém Phẩm"
+    "vi": "Tạm Bợ"
   },
   {
     "key": "quality_good",
@@ -339,13 +339,13 @@
     "key": "quality_sturdy",
     "type": 0,
     "en": "Sturdy",
-    "vi": "Bền Vững Kiên Cố"
+    "vi": "Bền Chắc"
   },
   {
     "key": "quality_superior",
     "type": 0,
     "en": "Superior",
-    "vi": "Thượng Hạng Vượt Trội"
+    "vi": "Thượng Hạng"
   },
   {
     "key": "resources names",
@@ -357,19 +357,19 @@
     "key": "resource_name_dirt",
     "type": 0,
     "en": "Dirt",
-    "vi": "Đất Nền"
+    "vi": "Đất"
   },
   {
     "key": "resource_name_advanced_research_book",
     "type": 0,
     "en": "Thesis",
-    "vi": "Luận Văn Nghiên Cứu"
+    "vi": "Luận Văn"
   },
   {
     "key": "resource_name_alcohol",
     "type": 0,
     "en": "Alcohol",
-    "vi": "Rượu Nồng"
+    "vi": "Rượu Cồn"
   },
   {
     "key": "resource_name_wine",
@@ -387,7 +387,7 @@
     "key": "resource_name_beer",
     "type": 0,
     "en": "Beer",
-    "vi": "Bia Tươi"
+    "vi": "Bia"
   },
   {
     "key": "resource_name_ale",
@@ -405,13 +405,13 @@
     "key": "resource_name_barley",
     "type": 0,
     "en": "Barley",
-    "vi": "Hạt Lúa Mạch"
+    "vi": "Đại Mạch"
   },
   {
     "key": "resource_name_basic_research_book",
     "type": 0,
     "en": "Chronicle",
-    "vi": "Biên Niên Sử Tri Thức"
+    "vi": "Biên Niên Sử"
   },
   {
     "key": "resource_name_beet",
@@ -423,13 +423,13 @@
     "key": "resource_name_bone_meal",
     "type": 0,
     "en": "Bone Meal",
-    "vi": "Bột Xương Nghiền"
+    "vi": "Bột Xương"
   },
   {
     "key": "resource_name_bones",
     "type": 0,
     "en": "Bones",
-    "vi": "Xương Động Vật"
+    "vi": "Xương"
   },
   {
     "key": "resource_name_cabbage",
@@ -447,13 +447,13 @@
     "key": "resource_name_clay",
     "type": 0,
     "en": "Clay",
-    "vi": "Đất Sét Dẻo"
+    "vi": "Đất Sét"
   },
   {
     "key": "resource_name_clay_brick",
     "type": 0,
     "en": "Clay Brick",
-    "vi": "Gạch Đất Nung"
+    "vi": "Gạch Đất Sét"
   },
   {
     "key": "resource_name_compost",
@@ -465,7 +465,7 @@
     "key": "resource_name_deer_carcass",
     "type": 0,
     "en": "Deer Carcass",
-    "vi": "Xác Hươu Rừng"
+    "vi": "Xác Hươu"
   },
   {
     "key": "resource_name_dung",
@@ -483,31 +483,31 @@
     "key": "resource_name_gold",
     "type": 0,
     "en": "Gold",
-    "vi": "Quặng Vàng Tự Nhiên"
+    "vi": "Quặng Vàng"
   },
   {
     "key": "resource_name_gold_ingot",
     "type": 0,
     "en": "Gold Ingot",
-    "vi": "Thỏi Vàng Ròng"
+    "vi": "Thỏi Vàng"
   },
   {
     "key": "resource_name_gunpowder",
     "type": 0,
     "en": "Gunpowder",
-    "vi": "Thuốc Súng Đen"
+    "vi": "Thuốc Súng"
   },
   {
     "key": "resource_name_hare_carcass",
     "type": 0,
     "en": "Hare Carcass",
-    "vi": "Xác Thỏ Rừng"
+    "vi": "Xác Thỏ"
   },
   {
     "key": "resource_name_hay",
     "type": 0,
     "en": "Hay",
-    "vi": "Cỏ Khô Rơm Rạ"
+    "vi": "Cỏ Khô"
   },
   {
     "key": "resource_name_healing_kit",
@@ -531,13 +531,13 @@
     "key": "resource_name_herbs",
     "type": 0,
     "en": "Herbs",
-    "vi": "Thảo Mộc Dược Liệu"
+    "vi": "Thảo Mộc"
   },
   {
     "key": "resource_name_honey",
     "type": 0,
     "en": "Honey",
-    "vi": "Mật Ong Rừng"
+    "vi": "Mật Ong"
   },
   {
     "key": "resource_name_human_carcass",
@@ -561,7 +561,7 @@
     "key": "resource_name_iron_ingot",
     "type": 0,
     "en": "Iron Ingot",
-    "vi": "Thỏi Sắt Đúc"
+    "vi": "Thỏi Sắt"
   },
   {
     "key": "resource_name_lavish_meal",
@@ -597,115 +597,115 @@
     "key": "resource_name_leather_deer",
     "type": 0,
     "en": "Leather (Deer)",
-    "vi": "Da Hươu Thuộc"
+    "vi": "Da Thuộc (Hươu)"
   },
   {
     "key": "resource_name_leather_hare",
     "type": 0,
     "en": "Leather (Hare)",
-    "vi": "Da Thỏ Thuộc"
+    "vi": "Da Thuộc (Thỏ)"
   },
   {
     "key": "resource_name_leather_wolf",
     "type": 0,
     "en": "Leather (Wolf)",
-    "vi": "Da Sói Thuộc"
+    "vi": "Da Thuộc (Sói)"
   },
   {
     "key": "resource_name_leather_boar",
     "type": 0,
     "en": "Leather (Boar)",
-    "vi": "Da Lợn Rừng Thuộc"
+    "vi": "Da Thuộc (Lợn Rừng)"
   },
   {
     "key": "resource_name_leather_fox",
     "type": 0,
     "en": "Leather (Fox)",
-    "vi": "Da Cáo Thuộc"
+    "vi": "Da Thuộc (Cáo)"
   },
   {
     "key": "resource_name_leather_rat",
     "type": 0,
     "en": "Leather (Rat)",
-    "vi": "Da Chuột Thuộc"
+    "vi": "Da Thuộc (Chuột)"
   },
   {
     "key": "resource_name_leather_water_vole",
     "type": 0,
     "en": "Leather (Water vole pelt)",
-    "vi": "Da Chuột Đồng Nước"
+    "vi": "Da Thuộc (Chuột Nước)"
   },
   {
     "key": "resource_name_leather_polecat",
     "type": 0,
     "en": "Leather (Polecat)",
-    "vi": "Da Chồn Hôi Thuộc"
+    "vi": "Da Thuộc (Chồn Hôi)"
   },
   {
     "key": "resource_name_leather_cow",
     "type": 0,
     "en": "Leather (Cattle)",
-    "vi": "Da Bò Thuộc"
+    "vi": "Da Thuộc (Bò)"
   },
   {
     "key": "resource_name_leather_goat",
     "type": 0,
     "en": "Leather (Goat)",
-    "vi": "Da Dê Thuộc"
+    "vi": "Da Thuộc (Dê)"
   },
   {
     "key": "resource_name_leather_sheep",
     "type": 0,
     "en": "Leather (Sheep)",
-    "vi": "Da Cừu Thuộc"
+    "vi": "Da Thuộc (Cừu)"
   },
   {
     "key": "resource_name_leather_donkey",
     "type": 0,
     "en": "Leather (Ass)",
-    "vi": "Da Lừa Thuộc"
+    "vi": "Da Thuộc (Lừa)"
   },
   {
     "key": "resource_name_leather_cat",
     "type": 0,
     "en": "Leather (Cat)",
-    "vi": "Da Mèo Thuộc"
+    "vi": "Da Thuộc (Mèo)"
   },
   {
     "key": "resource_name_leather_dog",
     "type": 0,
     "en": "Leather (Dog)",
-    "vi": "Da Chó Thuộc"
+    "vi": "Da Thuộc (Chó)"
   },
   {
     "key": "resource_name_leather_human",
     "type": 0,
     "en": "Leather (Human)",
-    "vi": "Da Người Thuộc"
+    "vi": "Da Thuộc (Người)"
   },
   {
     "key": "resource_name_leather_bear",
     "type": 0,
     "en": "Leather (Bear)",
-    "vi": "Da Gấu Thuộc"
+    "vi": "Da Thuộc (Gấu)"
   },
   {
     "key": "resource_name_limestone",
     "type": 0,
     "en": "Limestone",
-    "vi": "Khối Đá Vôi Thô"
+    "vi": "Đá Vôi"
   },
   {
     "key": "resource_name_limestone_block",
     "type": 0,
     "en": "Limestone Brick",
-    "vi": "Gạch Đá Vôi Đẽo Gọt"
+    "vi": "Gạch Đá Vôi"
   },
   {
     "key": "resource_name_linen_cloth",
     "type": 0,
     "en": "Linen Cloth",
-    "vi": "Vải Lanh Dệt"
+    "vi": "Vải Lanh"
   },
   {
     "key": "resource_name_meal",
@@ -723,13 +723,13 @@
     "key": "resource_name_meal_med_batch",
     "type": 0,
     "en": "5 Meal",
-    "vi": "5 Bữa Ăn Đơn Sơ"
+    "vi": "5 Khẩu Phần Ăn Đơn Sơ"
   },
   {
     "key": "resource_name_meal_large_batch",
     "type": 0,
     "en": "10 Meal",
-    "vi": "10 Bữa Ăn Đơn Sơ"
+    "vi": "10 Khẩu Phần Ăn Đơn Sơ"
   },
   {
     "key": "resource_name_meat",
@@ -753,7 +753,7 @@
     "key": "resource_name_packaged_meal",
     "type": 0,
     "en": "Packaged Meal",
-    "vi": "Khẩu Phần Lương Khô Dự Trữ"
+    "vi": "Khẩu Phần Lương Khô"
   },
   {
     "key": "resource_name_packaged_meal_med_batch",
@@ -783,7 +783,7 @@
     "key": "resource_name_quicklime",
     "type": 0,
     "en": "Quicklime",
-    "vi": "Vôi Sống Tôi Vôi"
+    "vi": "Vôi Sống"
   },
   {
     "key": "resource_name_redcurrant",
@@ -795,13 +795,13 @@
     "key": "resource_name_roasted_meat",
     "type": 0,
     "en": "Roasted Meat",
-    "vi": "Thịt Nướng Chín"
+    "vi": "Thịt Nướng"
   },
   {
     "key": "resource_name_roasted_meat_human",
     "type": 0,
     "en": "Roasted Meat (Human)",
-    "vi": "Thịt Người Nướng Chín"
+    "vi": "Thịt Người Nướng"
   },
   {
     "key": "resource_name_salt",
@@ -813,31 +813,31 @@
     "key": "resource_name_saltpeter",
     "type": 0,
     "en": "Saltpetre",
-    "vi": "Diêm Tiêu (Saltpetre)"
+    "vi": "Diêm Tiêu"
   },
   {
     "key": "resource_name_silver",
     "type": 0,
     "en": "Silver",
-    "vi": "Quặng Bạc Tự Nhiên"
+    "vi": "Quặng Bạc"
   },
   {
     "key": "resource_name_smoked_meat",
     "type": 0,
     "en": "Smoked Meat",
-    "vi": "Thịt Xông Khói"
+    "vi": "Thịt Hun Khói"
   },
   {
     "key": "resource_name_smoked_meat_human",
     "type": 0,
     "en": "Smoked Meat (Human)",
-    "vi": "Thịt Người Xông Khói"
+    "vi": "Thịt Người Hun Khói"
   },
   {
     "key": "resource_name_stew",
     "type": 0,
     "en": "Stew",
-    "vi": "Món Canh Hầm Bổ Dưỡng"
+    "vi": "Món Hầm"
   },
   {
     "key": "resource_name_sticks",
@@ -855,7 +855,7 @@
     "key": "resource_name_sulfur",
     "type": 0,
     "en": "Sulfur",
-    "vi": "Khoáng Chất Lưu Huỳnh"
+    "vi": "Lưu Huỳnh"
   },
   {
     "key": "resource_name_meat_rot",
@@ -867,36 +867,36 @@
     "key": "resource_name_vegetable_rot",
     "type": 0,
     "en": "Vegetable Rot",
-    "vi": "Rau Củ Hỏng Nát"
+    "vi": "Rau Củ Thối Hỏng"
   },
   {
     "key": "resource_name_vinegar",
     "type": 0,
     "en": "Vinegar",
-    "vi": "Giấm Chua"
+    "vi": "Giấm"
   },
   {
     "key": "resource_name_wood",
     "type": 0,
     "en": "Wood",
-    "vi": "Gỗ Thân Cây"
+    "vi": "Gỗ"
   },
   {
     "key": "resource_name_mechanical_parts",
     "type": 0,
     "en": "Mechanical Components",
-    "vi": "Linh Kiện Cơ Khí Bánh Răng"
+    "vi": "Linh Kiện Cơ Khí"
   },
   {
     "key": "resource_name_wool_cloth",
     "type": 0,
     "en": "Wool Cloth",
-    "vi": "Vải Len Cừu Dệt"
+    "vi": "Vải Len Cừu"
   },
   {
     "key": "resource_name_cloth",
     "type": 0,
     "en": "Clothing Fabric",
-    "vi": "Vải Dệt May Mặc"
+    "vi": "Vải May Mặc"
   }
 ]

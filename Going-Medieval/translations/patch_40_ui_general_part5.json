@@ -111,7 +111,7 @@
     "key": "loot_place_tooltip",
     "type": 0,
     "en": "Loot",
-    "vi": "Hôi của / Cướp phá"
+    "vi": "Thu gom chiến lợi phẩm"
   },
   {
     "key": "loot_place_empty_tooltip",
@@ -123,13 +123,13 @@
     "key": "general_talk_with",
     "type": 0,
     "en": "Talk to: <npc_name>",
-    "vi": "Talk đến: <npc_name>"
+    "vi": "Trò chuyện với: <npc_name>"
   },
   {
     "key": "cant_take_items_hostiles_on_map",
     "type": 0,
     "en": "This cannot be acquired while hostile enemies are present ",
-    "vi": "Không thể thu thập vật phẩm này khi vẫn còn kẻ thù thù địch xuất hiện."
+    "vi": "Không thể thu gom vật phẩm này khi vẫn còn kẻ địch xung quanh"
   },
   {
     "key": "all_enemies_killed",
@@ -159,7 +159,7 @@
     "key": "general_bandit_camp",
     "type": 0,
     "en": "Bandit Camp",
-    "vi": "Thổ phỉ Camp"
+    "vi": "Doanh trại thổ phỉ"
   },
   {
     "key": "general_ambush",
@@ -171,7 +171,7 @@
     "key": "ambush_chance",
     "type": 0,
     "en": "Ambush Chance",
-    "vi": "Ambush Tỷ lệ"
+    "vi": "Tỉ lệ bị phục kích"
   },
   {
     "key": "ambush_chance_info",
@@ -183,19 +183,19 @@
     "key": "starting_event",
     "type": 0,
     "en": "Starting event",
-    "vi": "Starting Sự kiện"
+    "vi": "Sự kiện khởi đầu"
   },
   {
     "key": "starting_event_schedule",
     "type": 0,
     "en": "Starting event schedule",
-    "vi": "Starting Sự kiện schedule"
+    "vi": "Lịch trình sự kiện khởi đầu"
   },
   {
     "key": "starting_hour",
     "type": 0,
     "en": "Starting hour",
-    "vi": "Starting Giờ"
+    "vi": "Giờ bắt đầu"
   },
   {
     "key": "schedule_default_1_title",
@@ -219,7 +219,7 @@
     "key": "filter_all_items",
     "type": 0,
     "en": "All Resources",
-    "vi": "All tài nguyên"
+    "vi": "Tất cả tài nguyên"
   },
   {
     "key": "filter_prisoners",
@@ -237,31 +237,31 @@
     "key": "workshop_version_max_older",
     "type": 0,
     "en": "Works with beta branches: {max} and older",
-    "vi": "Works với beta branches: {max} và older"
+    "vi": "Tương thích với các nhánh beta: {max} và cũ hơn"
   },
   {
     "key": "workshop_version_min_newer",
     "type": 0,
     "en": "Works with beta branches: {min} and newer",
-    "vi": "Works với beta branches: {min} và newer"
+    "vi": "Tương thích với các nhánh beta: {min} và mới hơn"
   },
   {
     "key": "workshop_version_single",
     "type": 0,
     "en": "Works with beta branch: {min}",
-    "vi": "Works với beta branch: {min}"
+    "vi": "Tương thích với nhánh beta: {min}"
   },
   {
     "key": "workshop_version_range",
     "type": 0,
     "en": "Works with beta branches: {min} to {max}",
-    "vi": "Works với beta branches: {min} để {max}"
+    "vi": "Tương thích với các nhánh beta: từ {min} đến {max}"
   },
   {
     "key": "oak_brethren_decorations",
     "type": 0,
     "en": "Oak Brethren Decorations",
-    "vi": "Huynh Đệ Cây Sồi Decorations"
+    "vi": "Vật trang trí Huynh Đệ Cây Sồi"
   },
   {
     "key": "any_chest",
@@ -273,25 +273,25 @@
     "key": "research_books",
     "type": 0,
     "en": "Research Books",
-    "vi": "Nghiên cứu Books"
+    "vi": "Sách nghiên cứu"
   },
   {
     "key": "villager_constraint_age_range",
     "type": 0,
     "en": "Age range",
-    "vi": "Tuổi Tầm xa"
+    "vi": "Khoảng tuổi"
   },
   {
     "key": "villager_constraint_height_range",
     "type": 0,
     "en": "Height range",
-    "vi": "Chiều cao Tầm xa"
+    "vi": "Khoảng chiều cao"
   },
   {
     "key": "villager_constraint_weight_range",
     "type": 0,
     "en": "Weight range",
-    "vi": "Weight Tầm xa"
+    "vi": "Khoảng cân nặng"
   },
   {
     "key": "general_minute_short_duration",
@@ -327,19 +327,19 @@
     "key": "used_in_production_stations",
     "type": 0,
     "en": "Used in Production stations",
-    "vi": "Used trong Sản xuất stations"
+    "vi": "Sử dụng tại các bàn chế tác"
   },
   {
     "key": "alt_select_tooltip_hint",
     "type": 0,
     "en": "Hold [<style=Shortcut>Alt</style>] and <sprite=\"ctrl_left_click\" index=t> to get more details from the almanac",
-    "vi": "Giữ [<style=Shortcut>Alt</style>] và <sprite=\"ctrl_left_click\" index=t> để get more Chi tiết từ almanac"
+    "vi": "Giữ [<style=Shortcut>Alt</style>] và <sprite=\"ctrl_left_click\" index=t> để xem thêm chi tiết trong cẩm nang"
   },
   {
     "key": "upcooked_success_bbt",
     "type": 0,
     "en": "{0} wanted to make {1} but ended up cooking {2} instead",
-    "vi": "{0} wanted để make {1} but ended up Nấu nướng {2} instead"
+    "vi": "{0} định nấu {1} nhưng lại làm thành {2}"
   },
   {
     "key": "bbt_plan_mode_on",
@@ -369,25 +369,25 @@
     "key": "worker_taken_on_defeat",
     "type": 0,
     "en": "<name> was taken by <faction_name>",
-    "vi": "<name> đã taken bởi <faction_name>"
+    "vi": "<name> đã bị phe <faction_name> bắt đi"
   },
   {
     "key": "qol_update_name_01",
     "type": 0,
     "en": "Summer Update",
-    "vi": "Mùa Hè Update"
+    "vi": "Bản cập nhật Mùa hè"
   },
   {
     "key": "qol_update_name_02",
     "type": 0,
     "en": "Quality of Life Update",
-    "vi": "Phẩm chất của Life Update"
+    "vi": "Bản cập nhật Tiện ích Trải nghiệm"
   },
   {
     "key": "qol_update_name_03",
     "type": 0,
     "en": "Quality of Life",
-    "vi": "Phẩm chất của Life"
+    "vi": "Tiện ích trải nghiệm"
   },
   {
     "key": "general_diplomacy",
@@ -399,43 +399,43 @@
     "key": "global_stat_increased",
     "type": 0,
     "en": "has increased ",
-    "vi": "có increased "
+    "vi": "đã tăng"
   },
   {
     "key": "global_stat_decreased",
     "type": 0,
     "en": "has decreased",
-    "vi": "có decreased"
+    "vi": "đã giảm"
   },
   {
     "key": "global_stat_religious_influence_name",
     "type": 0,
     "en": "Church of Restitution Renown",
-    "vi": "Church của Phục Hưng Renown"
+    "vi": "Danh tiếng Hội Phục Hưng"
   },
   {
     "key": "global_stat_pagan_influence_name",
     "type": 0,
     "en": "Oak Brethren Renown",
-    "vi": "Huynh Đệ Cây Sồi Renown"
+    "vi": "Danh tiếng Huynh Đệ Cây Sồi"
   },
   {
     "key": "global_stat_military_influence_name",
     "type": 0,
     "en": "Military Renown",
-    "vi": "Uy danh quân sự"
+    "vi": "Danh tiếng quân sự"
   },
   {
     "key": "global_stat_trade_influence_name",
     "type": 0,
     "en": "Mercantile Renown",
-    "vi": "Uy danh thương mại"
+    "vi": "Danh tiếng thương mại"
   },
   {
     "key": "global_stat_cultural_influence_name",
     "type": 0,
     "en": "Intellectual Renown",
-    "vi": "Uy danh học thức"
+    "vi": "Danh tiếng học thức"
   },
   {
     "key": "global_stat_infamy_name",
@@ -447,37 +447,37 @@
     "key": "global_stat_religious_influence_tooltip",
     "type": 0,
     "en": "Holding Eucharist events and having a top level Chaplain will help you spread your religious renown throughout the region. \nReaching 100% Church of Restitution Renown will give you the option to construct a Cathedral, cementing your regional eminence.",
-    "vi": "Tổ chức các buổi lễ Tiệc Thánh và có một Tuyên Úy cấp cao sẽ giúp bạn truyền bá danh tiếng tôn giáo khắp vùng.\nĐạt 100% Danh tiếng Giáo Hội Phục Hưng sẽ cho bạn lựa chọn xây dựng Đại Nhà Thờ, củng cố vị thế tối cao trong khu vực."
+    "vi": "Tổ chức các buổi lễ Tiệc Thánh và có một Linh mục cấp cao sẽ giúp bạn truyền bá danh tiếng tôn giáo khắp vùng.\nĐạt 100% Danh tiếng Hội Phục Hưng sẽ cho bạn lựa chọn xây dựng Đại Nhà Thờ, củng cố vị thế tối cao trong khu vực."
   },
   {
     "key": "global_stat_pagan_influence_tooltip",
     "type": 0,
     "en": "Holding Ritual events and having a top level Druid will help you spread your Oak Brethren renown in the region. \nReaching 100% Oak Brethren renown will give you the option to grow a Mighty Oak, symbolising your regional prestige.",
-    "vi": "Tổ chức các Nghi Lễ Cúng Tế và có một Tu Sĩ Druid cấp cao sẽ giúp bạn truyền bá danh tiếng Huynh Đệ Cây Sồi trong vùng.\nĐạt 100% Danh tiếng Huynh Đệ Cây Sồi sẽ cho bạn lựa chọn nuôi dưỡng một Cây Sồi Khổng Lồ, biểu tượng cho uy thế trong khu vực."
+    "vi": "Tổ chức các Nghi Lễ Cúng Tế và có một Đạo sĩ cấp cao sẽ giúp bạn truyền bá danh tiếng Huynh Đệ Cây Sồi trong vùng.\nĐạt 100% Danh tiếng Huynh Đệ Cây Sồi sẽ cho bạn lựa chọn nuôi dưỡng một Cây Sồi Khổng Lồ, biểu tượng cho uy thế trong khu vực."
   },
   {
     "key": "global_stat_military_influence_tooltip",
     "type": 0,
     "en": "Defeating enemies in combat and having a top level Sergeant-in-arms will help you spread your Military renown in the region.\nReaching 100% Military renown will allow you to prove your might by eradicating centers of bandit power in the region, deeming you Protector of the Realm.",
-    "vi": "Đánh bại kẻ thù trong giao tranh và sở hữu một Trung sĩ huấn luyện bậc cao sẽ giúp lan tỏa danh tiếng Quân Sự của bạn khắp khu vực.\nĐạt 100% danh tiếng Quân Sự sẽ cho phép bạn chứng tỏ uy quyền bằng cách tiêu diệt các sào huyệt của thổ phỉ trong vùng, tôn vinh bạn làm Đấng Bảo Hộ Vương Quốc."
+    "vi": "Đánh bại kẻ thù trong giao tranh và sở hữu một Đội trưởng lính gác bậc cao sẽ giúp lan tỏa danh tiếng Quân sự của bạn khắp khu vực.\nĐạt 100% danh tiếng Quân sự sẽ cho phép bạn chứng tỏ uy quyền bằng cách tiêu diệt các sào huyệt của thổ phỉ trong vùng, tôn vinh bạn làm Đấng Bảo Hộ Vương Quốc."
   },
   {
     "key": "global_stat_trade_influence_tooltip",
     "type": 0,
     "en": "Trading with merchants and sending caravans will help you spread your Mercantile renown. \nReaching 100% will give you the option to establish a Charter Fair in your region, confirming your mercantile prowess.",
-    "vi": "Giao thương với các thương nhân và cử đoàn buôn sẽ giúp bạn lan tỏa Danh tiếng Thương nghiệp.\nĐạt 100% sẽ cho bạn lựa chọn tổ chức một Hội Chợ Đặc Quyền trong vùng, khẳng định vị thế thương mại vững mạnh."
+    "vi": "Giao thương với các thương nhân và cử thương đoàn sẽ giúp bạn lan tỏa danh tiếng Thương mại.\nĐạt 100% sẽ cho bạn lựa chọn tổ chức một Hội Chợ Đặc Quyền trong vùng, khẳng định vị thế thương mại vững mạnh."
   },
   {
     "key": "global_stat_cultural_influence_tooltip",
     "type": 0,
     "en": "Holding scholarly events and having a top level Librarian will help spread your Intellectual renown across the region.\nReaching 100% will give you the option to become a University, confirming your status as a major seat of academic excellence.",
-    "vi": "Tổ chức các sự kiện học thuật và có Thủ thư cấp cao sẽ giúp lan tỏa danh tiếng Học thức trong khu vực.\nĐạt 100% sẽ cho phép bạn trở thành Đại học, khẳng định vị thế trung tâm học thuật lớn."
+    "vi": "Tổ chức các sự kiện học thuật và có Thủ thư cấp cao sẽ giúp lan tỏa danh tiếng Học thức trong khu vực.\nĐạt 100% sẽ cho phép bạn thành lập Đại học, khẳng định vị thế trung tâm học thuật lớn."
   },
   {
     "key": "global_stat_infamy_tooltip",
     "type": 0,
     "en": "Killing prisoners and attacking neutral merchants will raise your infamy. Beware. Reaching 100% infamy means no one will trade with you, and someone may step up to rid the region of your malign influence.",
-    "vi": "Giết tù nhân và tấn công thương nhân trung lập sẽ làm tăng tai tiếng của bạn. Hãy cẩn thận. Tai tiếng đạt 100% nghĩa là không ai giao thương với bạn, và có thể sẽ có kẻ đứng lên loại bỏ ảnh hưởng độc hại của bạn khỏi khu vực."
+    "vi": "Giết tù nhân và tấn công thương nhân trung lập sẽ làm tăng tai tiếng của bạn. Hãy cẩn thận: tai tiếng đạt 100% nghĩa là không ai giao thương với bạn, và có thể sẽ có kẻ đứng lên loại bỏ ảnh hưởng độc hại của bạn khỏi khu vực."
   },
   {
     "key": "game_event_region_influence",
@@ -531,13 +531,13 @@
     "key": "global_stat_trade_influence_news100",
     "type": 0,
     "en": "Your Mercantile Renown has increased to levels beyond your wildest dreams, and gold flows through <village_name> like water. You can now rally your guilds to establish a Charter Fair, the hallmark of a great trading centre.",
-    "vi": "Của bạn Mercantile Renown có increased đến levels beyond của bạn wildest dreams, và vàng flows through <village_name> like nước. Bạn có thể now rally của bạn guilds đến establish a Charter Fair, hallmark của a tuyệt vời trading centre."
+    "vi": "Danh tiếng thương mại của bạn đã vươn tới tầm cao vượt ngoài sức tưởng tượng, và của cải vàng bạc chảy vào <village_name> như nước. Giờ đây bạn có thể hiệu triệu các phường hội để mở Hội Chợ Đặc Quyền, dấu ấn của một trung tâm thương mại lừng lẫy."
   },
   {
     "key": "global_stat_cultural_influence_news50",
     "type": 0,
     "en": "Your Intellectual Renown has increased. Your scribes can barely meet the surging demand for manuscripts elucidating the theories espoused by your greatest thinkers.",
-    "vi": "Của bạn Intellectual Renown có increased. Của bạn scribes có thể barely meet surging demand cho manuscripts elucidating theories espoused bởi của bạn greatest thinkers."
+    "vi": "Danh tiếng học thức của bạn đã vang xa. Các học giả chép sách của bạn khó lòng đáp ứng kịp nhu cầu bản thảo luận giải những học thuyết từ các nhà tư tưởng vĩ đại của bạn."
   },
   {
     "key": "global_stat_cultural_influence_news100",
@@ -627,7 +627,7 @@
     "key": "game_event_type_final",
     "type": 0,
     "en": "Last Step",
-    "vi": "Cuối cùng Step"
+    "vi": "Bước cuối cùng"
   },
   {
     "key": "bbt_step_completed",
@@ -663,13 +663,13 @@
     "key": "objective_religious_have_priest",
     "type": 0,
     "en": "Chaplain Level 3",
-    "vi": "Chaplain Cấp độ 3"
+    "vi": "Linh mục cấp 3"
   },
   {
     "key": "objective_religious_have_priest_info",
     "type": 0,
     "en": "You need to have a chaplain level 3 in your settlement",
-    "vi": "Bạn cần có một Linh mục cấp 3 trong khu định cư"
+    "vi": "Bạn cần có một Linh mục đạt cấp bậc 3 trong khu định cư"
   },
   {
     "key": "objective_religious_build_chapel",
@@ -681,7 +681,7 @@
     "key": "objective_religious_build_chapel_info",
     "type": 0,
     "en": "A new type of room has been unlocked. The room overview panel lists what is needed for the Lady Chapel to be finalised",
-    "vi": "Một loại phòng mới đã được mở khóa. Bảng tổng quan phòng liệt kê những gì cần thiết để hoàn thiện Nhà nguyện Đức Mẹ."
+    "vi": "Một loại phòng mới đã được mở khóa. Bảng tổng quan phòng liệt kê những gì cần thiết để hoàn thiện Nhà nguyện Thánh Tích."
   },
   {
     "key": "objective_religious_have_relic",
@@ -771,13 +771,13 @@
     "key": "objective_pagan_have_shaman",
     "type": 0,
     "en": "Druid Level 3",
-    "vi": "Tu Sĩ Druid Đạt Cấp 3"
+    "vi": "Đạo sĩ cấp 3"
   },
   {
     "key": "objective_pagan_have_shaman_info",
     "type": 0,
     "en": "You need to have a Druid level 3 in your settlement",
-    "vi": "Khu định cư của bạn cần có một Tu sĩ Druid đạt cấp bậc 3"
+    "vi": "Bạn cần có một Đạo sĩ đạt cấp bậc 3 trong khu định cư"
   },
   {
     "key": "objective_pagan_build_chapel_with_oak",
@@ -867,13 +867,13 @@
     "key": "objective_intellectual_have_scholar",
     "type": 0,
     "en": "Librarian Level 3",
-    "vi": "Học Giả Thủ Thư Đạt Cấp 3"
+    "vi": "Thủ thư cấp 3"
   },
   {
     "key": "objective_intellectual_have_scholar_info",
     "type": 0,
     "en": "You need to have a librarian level 3 in your settlement",
-    "vi": "Khu định cư của bạn cần có một Học giả Thủ thư đạt cấp bậc 3"
+    "vi": "Bạn cần có một Thủ thư đạt cấp bậc 3 trong khu định cư"
   },
   {
     "key": "objective_intellectual_build_grand_library",

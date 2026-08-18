@@ -105,25 +105,25 @@
     "key": "has_died",
     "type": 0,
     "en": "<name> is dead",
-    "vi": "<name> là dead"
+    "vi": "<name> đã chết"
   },
   {
     "key": "has_fainted",
     "type": 0,
     "en": "<name> is unconscious",
-    "vi": "<name> là unconscious"
+    "vi": "<name> đã bất tỉnh"
   },
   {
     "key": "settler_is_unconscious",
     "type": 0,
     "en": "<name> is unconscious",
-    "vi": "<name> là unconscious"
+    "vi": "<name> đang bất tỉnh"
   },
   {
     "key": "error_place_stability",
     "type": 0,
     "en": "Can't place building this far from a stable structure",
-    "vi": "Không thể đặt công trình quá xa kết cấu đỡ kiên cố."
+    "vi": "Không thể đặt công trình quá xa kết cấu đỡ vững chắc."
   },
   {
     "key": "error_place_roof",
@@ -135,25 +135,25 @@
     "key": "error_roof_max",
     "type": 0,
     "en": "Maximum roof span is {0}",
-    "vi": "Maximum mái nhà span là {0}"
+    "vi": "Nhịp mái tối đa là {0}"
   },
   {
     "key": "error_beam_intersect",
     "type": 0,
     "en": "Can't place beam, intersecting with another beam",
-    "vi": "Không thể đặt xà gồ, đang bị cắt ngang bởi một xà gồ khác"
+    "vi": "Không thể đặt xà nhà, đang bị cắt ngang bởi một xà nhà khác"
   },
   {
     "key": "error_beam_min_distance",
     "type": 0,
     "en": "Beam cannot reach that far. Maximum distance for beam is {0}",
-    "vi": "Xà nhà không thể reach đó far. Maximum distance cho xà nhà là {0}"
+    "vi": "Xà nhà không thể vươn xa đến vậy. Chiều dài tối đa của xà nhà là {0}"
   },
   {
     "key": "error_stairs_blocked",
     "type": 0,
     "en": "Can't place staircase, path blocked by: {0}",
-    "vi": "Có thể't place staircase, path blocked bởi: {0}"
+    "vi": "Không thể đặt cầu thang, đường đi bị chặn bởi: {0}"
   },
   {
     "key": "error_stiars_blocking",
@@ -171,25 +171,25 @@
     "key": "error_socketable",
     "type": 0,
     "en": "Can't be placed. Can only be placed on a wall element or ground voxel",
-    "vi": "Có thể't được placed. Có thể only được placed trên a tường element hoặc ground voxel"
+    "vi": "Không thể đặt tại đây. Chỉ có thể gắn vào mảng tường hoặc khối mặt đất"
   },
   {
     "key": "error_socketable_blocking",
     "type": 0,
     "en": "Can't be placed, blocked by: {0}",
-    "vi": "Có thể't được placed, blocked bởi: {0}"
+    "vi": "Không thể đặt tại đây, bị vướng bởi: {0}"
   },
   {
     "key": "error_cropfield_placement",
     "type": 0,
     "en": "Crop field can only be placed on appropriate ground type",
-    "vi": "Cây trồng field có thể only được placed trên appropriate ground type"
+    "vi": "Khu vực trồng trọt chỉ có thể đặt trên loại đất phù hợp"
   },
   {
     "key": "game_saved",
     "type": 0,
     "en": "Game saved",
-    "vi": "Đã lưu game"
+    "vi": "Đã lưu trò chơi"
   },
   {
     "key": "report_sent",
@@ -201,7 +201,7 @@
     "key": "error_build_research_bench",
     "type": 0,
     "en": "Construct a <style=Shortcut>Basic Research Table</style> to unlock new research items.",
-    "vi": "Construct a <style=Shortcut>Basic Nghiên cứu Table</style> để unlock new Nghiên cứu items."
+    "vi": "Hãy xây dựng một <style=Shortcut>Bàn nghiên cứu cơ bản</style> để mở khóa các mục nghiên cứu mới."
   },
   {
     "key": "research_panel_unlocked",
@@ -225,31 +225,31 @@
     "key": "can_not_draft_crazy_worker",
     "type": 0,
     "en": "A rebellious settler cannot be drafted.",
-    "vi": "Không thể động viên dân làng đang nổi loạn."
+    "vi": "Không thể huy động dân làng đang nổi loạn."
   },
   {
     "key": "can_not_draft_defeated_worker",
     "type": 0,
     "en": "You can't draft settlers until victorious enemies leave the map",
-    "vi": "Bạn có thể't Động viên vũ trang settlers until victorious Kẻ thù leave map"
+    "vi": "Bạn không thể huy động dân làng cho đến khi kẻ chiến thắng rời khỏi bản đồ"
   },
   {
     "key": "pile_tooltip_info_ArmourPenetrationLow",
     "type": 0,
     "en": "<style=DefaultRed>Low armour penetration</style>",
-    "vi": "<style=DefaultRed>Low Áo giáp penetration</style>"
+    "vi": "<style=DefaultRed>Độ xuyên giáp thấp</style>"
   },
   {
     "key": "pile_tooltip_info_ArmourPenetrationMed",
     "type": 0,
     "en": "<style=DefaultOrange>Moderate armour penetration</style>",
-    "vi": "<style=DefaultOrange>Moderate Áo giáp penetration</style>"
+    "vi": "<style=DefaultOrange>Độ xuyên giáp trung bình</style>"
   },
   {
     "key": "pile_tooltip_info_ArmourPenetrationHigh",
     "type": 0,
     "en": "<style=DefaultGreen>High armour penetration</style>",
-    "vi": "<style=DefaultGreen>High Áo giáp penetration</style>"
+    "vi": "<style=DefaultGreen>Độ xuyên giáp cao</style>"
   },
   {
     "key": "pile_tooltip_info_AttckSpeedLow",
@@ -273,19 +273,19 @@
     "key": "pile_tooltip_info_MissChanceLow",
     "type": 0,
     "en": "<style=DefaultGreen>Small chance to miss opponent</style>",
-    "vi": "<style=DefaultGreen>Small chance để trượt opponent</style>"
+    "vi": "<style=DefaultGreen>Tỉ lệ đánh trượt đối thủ thấp</style>"
   },
   {
     "key": "pile_tooltip_info_MissChanceMed",
     "type": 0,
     "en": "<style=DefaultOrange>Moderate chance to miss opponent</style>",
-    "vi": "<style=DefaultOrange>Moderate chance để trượt opponent</style>"
+    "vi": "<style=DefaultOrange>Tỉ lệ đánh trượt đối thủ trung bình</style>"
   },
   {
     "key": "pile_tooltip_info_MissChanceHigh",
     "type": 0,
     "en": "<style=DefaultRed>High chance to miss opponent</style>",
-    "vi": "<style=DefaultRed>High chance để trượt opponent</style>"
+    "vi": "<style=DefaultRed>Tỉ lệ đánh trượt đối thủ cao</style>"
   },
   {
     "key": "pile_tooltip_info_MovementSpeedLow",

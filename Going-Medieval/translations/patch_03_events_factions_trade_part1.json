@@ -45,7 +45,7 @@
     "key": "caravan_status_arrived",
     "type": 0,
     "en": "Arrived",
-    "vi": "Đã tới nơi"
+    "vi": "Đã đến nơi"
   },
   {
     "key": "caravan_status_returning",
@@ -81,37 +81,37 @@
     "key": "caravan_trade_gift_only_title",
     "type": 0,
     "en": "Proffer as a gift?",
-    "vi": "Biếu tặng làm quà?"
+    "vi": "Tặng làm quà biếu?"
   },
   {
     "key": "caravan_gift_message",
     "type": 0,
     "en": "Giving the merchant more value than is received will be considered a gift, and will influence alignment favourably towards <faction_name>.",
-    "vi": "Việc trao cho thương nhân số hàng hóa có giá trị vượt trội so với lượng nhận lại sẽ được xem là quà biếu tặng, giúp gia tăng đáng kể điểm thiện cảm với <faction_name>."
+    "vi": "Tặng thương nhân lượng hàng hóa có giá trị cao hơn phần nhận lại sẽ được tính là quà biếu, giúp tăng thiện cảm với <faction_name>."
   },
   {
     "key": "caravan_gift_giving_more",
     "type": 0,
     "en": "Are you sure you want to continue with this transaction? The value of goods you are offering is larger than the value you are asking for.",
-    "vi": "Bạn có chắc chắn muốn tiếp tục giao dịch này không? Giá trị hàng hóa bạn đề nghị lớn hơn nhiều so với giá trị hàng bạn nhận về."
+    "vi": "Bạn có chắc muốn tiếp tục giao dịch này không? Giá trị hàng hóa bạn đưa ra lớn hơn giá trị hàng bạn yêu cầu nhận lại."
   },
   {
     "key": "caravan_trade_are_you_sure",
     "type": 0,
     "en": "Are you sure that you want to finalise this barter?",
-    "vi": "Bạn có chắc chắn muốn thực hiện giao dịch này không?"
+    "vi": "Bạn có chắc muốn chốt giao dịch trao đổi này không?"
   },
   {
     "key": "caravan_trade_buy_list",
     "type": 0,
     "en": "You will acquire this:",
-    "vi": "Bạn sẽ nhận:"
+    "vi": "Bạn sẽ nhận được:"
   },
   {
     "key": "caravan_trade_sell_list",
     "type": 0,
     "en": "You are proffering this:",
-    "vi": "Bạn đưa ra:"
+    "vi": "Bạn đưa ra trao đổi:"
   },
   {
     "key": "caravan_trade_finalize_title",
@@ -147,7 +147,7 @@
     "key": "caravan_food",
     "type": 0,
     "en": "Food Supplies",
-    "vi": "Lương thực"
+    "vi": "Lương thực mang theo"
   },
   {
     "key": "caravan_travel_to",
@@ -171,19 +171,19 @@
     "key": "caravan_message_able",
     "type": 0,
     "en": "Only able, non-rebellious settlers can form a caravan",
-    "vi": "Chỉ dân làng khỏe mạnh, không nổi loạn mới có thể lập thương đoàn"
+    "vi": "Chỉ những dân làng khỏe mạnh và không nổi loạn mới có thể lập thương đoàn"
   },
   {
     "key": "caravan_message_settler",
     "type": 0,
     "en": "At least one able settler must remain at the settlement",
-    "vi": "Phải còn lại ít nhất một dân làng khỏe mạnh trong khu định cư"
+    "vi": "Phải có ít nhất một dân làng khỏe mạnh ở lại khu định cư"
   },
   {
     "key": "caravan_canceled",
     "type": 0,
     "en": "Caravan cancelled",
-    "vi": "Thương đoàn đã hủy"
+    "vi": "Thương đoàn đã bị hủy"
   },
   {
     "key": "caravan_message_left",
@@ -207,7 +207,7 @@
     "key": "caravan_animal_already_forming",
     "type": 0,
     "en": "This animal is already part of a different caravan",
-    "vi": "Con vật này đã thuộc một thương đoàn khác"
+    "vi": "Con vật này đã thuộc về một thương đoàn khác"
   },
   {
     "key": "caravan_animal_stuck",
@@ -225,7 +225,7 @@
     "key": "caravan_worker_already_forming",
     "type": 0,
     "en": "This settler is already part of a different caravan",
-    "vi": "Dân làng này đã thuộc một thương đoàn khác"
+    "vi": "Dân làng này đã thuộc về một thương đoàn khác"
   },
   {
     "key": "caravan_worker_stuck",
@@ -237,13 +237,13 @@
     "key": "caravan_message_wont_barter",
     "type": 0,
     "en": "<faction_name> will not barter with your caravan.",
-    "vi": "<faction_name> sẽ không trao đổi với thương đoàn của bạn."
+    "vi": "<faction_name> sẽ không trao đổi hàng hóa với thương đoàn của bạn."
   },
   {
     "key": "caravan_message_no_gifts",
     "type": 0,
     "en": "<faction_name> will not accept any more gifts from you",
-    "vi": "<faction_name> sẽ không nhận thêm quà từ bạn"
+    "vi": "<faction_name> sẽ không nhận thêm bất kỳ món quà nào từ bạn"
   },
   {
     "key": "caravan_cannot_send_hostile",
@@ -255,7 +255,7 @@
     "key": "caravan_message_hostile",
     "type": 0,
     "en": "<faction_name> is hostile towards your settlement. You cannot barter with them.",
-    "vi": "<faction_name> thù địch với khu định cư của bạn. Bạn không thể trao đổi với họ."
+    "vi": "<faction_name> thù địch với khu định cư của bạn. Bạn không thể trao đổi hàng hóa với họ."
   },
   {
     "key": "hud_lb_factions",
@@ -315,7 +315,7 @@
     "key": "faction_player_friendliness",
     "type": 0,
     "en": "Alignment",
-    "vi": "Quan hệ"
+    "vi": "Mối quan hệ"
   },
   {
     "key": "general_faction",
@@ -339,61 +339,61 @@
     "key": "hair_braids",
     "type": 0,
     "en": "Hair #1",
-    "vi": "Tóc tết #1"
+    "vi": "Kiểu tóc #1"
   },
   {
     "key": "male_beard_braid",
     "type": 0,
     "en": "Facial hair #6",
-    "vi": "Râu #6"
+    "vi": "Kiểu râu #6"
   },
   {
     "key": "caravan_is_already_forming",
     "type": 0,
     "en": "There is already a caravan forming to go to this destination",
-    "vi": "Đã có thương đoàn đang được lập để đến điểm này"
+    "vi": "Đang có một thương đoàn được chuẩn bị để đi đến địa điểm này"
   },
   {
     "key": "caravan_cannot_send_home_tooltip",
     "type": 0,
     "en": "There is already a caravan on its way to this destination",
-    "vi": "Đã có thương đoàn đang trên đường đến điểm này"
+    "vi": "Đã có thương đoàn đang trên đường đến địa điểm này"
   },
   {
     "key": "caravan_is_already_going",
     "type": 0,
     "en": "There is already a caravan on its way to this destination",
-    "vi": "Đã có thương đoàn đang trên đường đến điểm này"
+    "vi": "Đã có thương đoàn đang trên đường đến địa điểm này"
   },
   {
     "key": "caravan_mesage_returning",
     "type": 0,
     "en": "Your caravan from <settlement_name> has started its journey home",
-    "vi": "Thương đoàn của bạn từ <settlement_name> đã bắt đầu trở về"
+    "vi": "Thương đoàn của bạn từ <settlement_name> đã bắt đầu hành trình trở về"
   },
   {
     "key": "caravan_mass_info",
     "type": 0,
     "en": "The weight this caravan can transport. The caravan cannot move if it is over the weight limit.",
-    "vi": "Khối lượng mà thương đoàn này có thể vận chuyển. Thương đoàn không thể di chuyển nếu vượt quá giới hạn."
+    "vi": "Khối lượng mà thương đoàn này có thể vận chuyển. Thương đoàn không thể di chuyển nếu vượt quá giới hạn tải trọng."
   },
   {
     "key": "caravan_trip_info",
     "type": 0,
     "en": "The duration of the caravan's journey to its destination. The same amount of time is needed on the way back. The trip duration is determined by the number of tiles traversed, the type of tiles and the season. Travel is slower during the winter. ",
-    "vi": "Thời gian thương đoàn đi đến điểm đến, và cũng là thời gian cần cho chuyến về. Thời gian chuyến đi phụ thuộc số ô đã vượt qua, loại địa hình và mùa. Di chuyển chậm hơn vào mùa đông. "
+    "vi": "Thời gian thương đoàn di chuyển đến đích. Chuyến trở về cũng cần một khoảng thời gian tương đương. Thời gian chuyến đi phụ thuộc vào số ô vượt qua, loại địa hình và mùa trong năm. Di chuyển sẽ chậm hơn vào mùa đông. "
   },
   {
     "key": "caravan_value_info",
     "type": 0,
     "en": "The combined value of this caravan's contents",
-    "vi": "Tổng giá trị hàng hóa trong thương đoàn"
+    "vi": "Tổng giá trị tất cả hàng hóa trong thương đoàn"
   },
   {
     "key": "caravan_food_info",
     "type": 0,
     "en": "Food value necessary for caravan members to survive the journey",
-    "vi": "Lượng lương thực cần thiết để thành viên thương đoàn sống sót trong chuyến đi"
+    "vi": "Lượng lương thực cần thiết để các thành viên thương đoàn sinh tồn trong suốt chuyến đi"
   },
   {
     "key": "caravan_food_info_animals",
@@ -405,7 +405,7 @@
     "key": "caravan_message_hostile_gift",
     "type": 0,
     "en": "However, they will accept gifts that will influence their alignment towards your settlement.",
-    "vi": "Tuy nhiên, họ sẽ nhận quà để cải thiện quan hệ với khu định cư của bạn."
+    "vi": "Tuy nhiên, họ vẫn sẽ nhận quà biếu để cải thiện mối quan hệ với khu định cư của bạn."
   },
   {
     "key": "effector_name_BeliefRaidLostChristian",
@@ -417,13 +417,13 @@
     "key": "effector_name_BeliefRaidLostPagan",
     "type": 0,
     "en": "The Gods allowed this defeat",
-    "vi": "Chư thần đã ban cho chúng ta thất bại này"
+    "vi": "Chư thần đã để mặc thất bại này"
   },
   {
     "key": "effector_name_BeliefRaidWonChristian",
     "type": 0,
     "en": "God has delivered us from our enemies",
-    "vi": "Chúa đã cứu chúng ta khỏi kẻ thù"
+    "vi": "Chúa đã cứu chúng ta khỏi tay kẻ thù"
   },
   {
     "key": "effector_name_BeliefRaidWonPagan",
@@ -435,7 +435,7 @@
     "key": "caravan_prisoner_already_forming",
     "type": 0,
     "en": "This prisoner is already part of a different caravan",
-    "vi": "Tù nhân này đã thuộc một thương đoàn khác"
+    "vi": "Tù nhân này đã thuộc về một thương đoàn khác"
   },
   {
     "key": "caravan_prisoner_stuck",
@@ -447,31 +447,31 @@
     "key": "event_cooldown_visitor_participant",
     "type": 0,
     "en": "Adding visitor participants and roles will alleviate the negative effect of the event cooldown",
-    "vi": "Thêm khách và vai trò tham gia sẽ giảm tác động tiêu cực của thời gian hồi sự kiện"
+    "vi": "Thêm khách và phân công vai trò tham gia sẽ làm giảm bớt ảnh hưởng tiêu cực từ thời gian hồi của sự kiện"
   },
   {
     "key": "cannot_trade_prisoner_wrong_faction",
     "type": 0,
     "en": "Merchant won't barter for prisoners of a different faction",
-    "vi": "Thương nhân không đổi lấy tù nhân thuộc phe khác"
+    "vi": "Thương nhân sẽ không đổi lấy tù nhân thuộc phe phái khác"
   },
   {
     "key": "caravan_leave_map",
     "type": 0,
     "en": "Leave location",
-    "vi": "Rời địa điểm"
+    "vi": "Rời khỏi địa điểm"
   },
   {
     "key": "merchant_event_dialogue_default",
     "type": 0,
     "en": "I have wares to trade, if you are interested...",
-    "vi": "Ta có hàng để trao đổi, nếu ngươi quan tâm..."
+    "vi": "Ta có hàng muốn đổi, nếu ngươi có hứng thú..."
   },
   {
     "key": "merchant_event_dialogue_barter",
     "type": 0,
     "en": "Let's see what you've got",
-    "vi": "Để xem ngươi có gì nào"
+    "vi": "Để xem ngươi có món gì nào"
   },
   {
     "key": "merchant_event_dialogue_leave",
@@ -483,13 +483,13 @@
     "key": "merchant_event_dialogue_question_01",
     "type": 0,
     "en": "Any trouble on your travels?",
-    "vi": "Chuyến đi của ngươi có gặp rắc rối gì không?"
+    "vi": "Đi đường có gặp trắc trở gì không?"
   },
   {
     "key": "merchant_event_dialogue_bndit_camp",
     "type": 0,
     "en": "I heard about a bandit camp near <village_name>. I'd steer clear of it. Someone should do something about them.",
-    "vi": "Ta nghe nói có trại thổ phỉ gần <village_name>. Ta khuyên ngươi nên tránh xa. Ai đó phải xử lý bọn chúng."
+    "vi": "Ta nghe phong phanh có một trại thổ phỉ ở gần <village_name>. Tốt nhất là nên tránh xa. Phải có ai đó đứng ra dẹp loạn bọn chúng mới được."
   },
   {
     "key": "event_bandit_camp_discovered",
@@ -501,7 +501,7 @@
     "key": "event_bandit_camp_discovered_text",
     "type": 0,
     "en": "The location of a bandit camp has been marked on your regional map",
-    "vi": "Vị trí trại thổ phỉ đã được đánh dấu trên bản đồ khu vực"
+    "vi": "Vị trí của một trại thổ phỉ đã được đánh dấu trên bản đồ khu vực"
   },
   {
     "key": "caravan_status_beingambushed",
@@ -519,7 +519,7 @@
     "key": "faction_alignment_overrides",
     "type": 0,
     "en": "Faction alignment range overrides",
-    "vi": "Điều chỉnh khoảng quan hệ phe phái"
+    "vi": "Tùy chỉnh khoảng thiện cảm phe phái"
   },
   {
     "key": "objective_trade_build_merchants_stall",
@@ -531,115 +531,115 @@
     "key": "objective_trade_build_merchants_stall_info",
     "type": 0,
     "en": "Erect Merchant Stalls to show off your guilds' finest wares near the Market Cross.",
-    "vi": "Dựng quầy thương nhân để trưng bày những mặt hàng tinh túy nhất của bang hội gần Chợ trung tâm."
+    "vi": "Dựng các quầy thương nhân gần Trụ Chợ để phô bày những sản phẩm tinh túy nhất của phường thợ."
   },
   {
     "key": "event_pilgrim_rest_text",
     "type": 0,
     "en": "I heard <village_name> was a haven for staunch Restitutionists acolytes, like myself. Might a saintly relic help with the mission to rebuild our faith? A fine example has come to light not far from here - praise be! ",
-    "vi": "Ta nghe nói <village_name> là nơi nương náu của những tín đồ Hội Phục Hưng tận tụy như ta. Liệu một thánh tích có thể giúp khôi phục đức tin của chúng ta không? Một thánh tích quý đã được tìm thấy không xa nơi đây - tạ ơn Chúa!"
+    "vi": "Ta nghe nói <village_name> là chốn nương náu an lành cho các tín đồ Phục Hưng ngoan đạo như ta. Liệu một thánh tích thiêng liêng có thể giúp ích cho sứ mệnh phục hưng đức tin của chúng ta chăng? Một thánh tích tuyệt mỹ vừa lộ diện cách đây không xa — tạ ơn Chúa! "
   },
   {
     "key": "event_pilgrim_rest_title",
     "type": 0,
     "en": "Restitutionist Pilgrim",
-    "vi": "Người Hành Hương Phục Hưng"
+    "vi": "Người hành hương Phục Hưng"
   },
   {
     "key": "event_pilgrim_rest_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> a Restitutionist Pilgrim has arrived, bearing news of the possible whereabouts of a forgotten relic of immeasurable sanctity.",
-    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Người Hành Hương thuộc Hội Phục Hưng đã tìm đến, mang theo phong thanh tin tức về nơi chốn có thể đang ẩn giấu một thánh tích cổ linh thiêng bậc nhất."
+    "vi": "Tìm đến <village_name>, một Người hành hương Phục Hưng vừa đặt chân tới, mang theo phong thanh tin tức về nơi ẩn giấu một thánh tích cổ thiêng liêng vô giá."
   },
   {
     "key": "event_pilgrim_oak_text",
     "type": 0,
     "en": "News arrives on the wind that <village_name> seeks to put Oak Brethren folk on the path of sacred abundance once again. I have come to share knowledge of a rare and blessed sapling that may help you with you endeavour of rebuilding our faith.",
-    "vi": "Tin tức theo gió ngàn bay tới rằng <village_name> đang dẫn dắt con dân Huynh Đệ Cây Sồi bước lại trên con đường phồn thịnh thiêng liêng. Ta lặn lội tới đây để chia sẻ tri thức về một cây giống thiêng liêng và hiếm quý, điều có thể trợ giúp đắc lực cho công cuộc phục hưng đức tin của các bạn."
+    "vi": "Gió ngàn đưa tin rằng <village_name> đang dẫn dắt con dân Huynh Đệ Cây Sồi tìm lại con đường phồn thịnh thiêng liêng. Ta đến đây để chia sẻ tri thức về một cây giống thiêng liêng hiếm có, ắt sẽ giúp sức cho nỗ lực phục hưng đức tin của các bạn."
   },
   {
     "key": "event_pilgrim_oak_title",
     "type": 0,
     "en": "Oak Brethren Pilgrim",
-    "vi": "Người Hành Hương Huynh Đệ Cây Sồi"
+    "vi": "Người hành hương Huynh Đệ Cây Sồi"
   },
   {
     "key": "event_pilgrim_oak_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> an Oak Brethren Pilgrim has arrived, bearing news of the possible whereabouts of a sacred tree of immeasurable sanctity.",
-    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Người Hành Hương thuộc Huynh Đệ Cây Sồi đã tìm đến, mang theo tin tức quý báu về vị trí ẩn giấu của một cây đại thụ thiêng liêng vô bờ bến."
+    "vi": "Tìm đến <village_name>, một Người hành hương Huynh Đệ Cây Sồi vừa đặt chân tới, mang theo tin tức quý báu về nơi chốn của một cây thần thiêng liêng vô bờ bến."
   },
   {
     "key": "event_scholar_text",
     "type": 0,
     "en": "The rising eminence of <village_name> has not gone unremarked among erudite circles keen to restore our realm's reputation. In my research, I have uncovered something that may be of interest: records of an ancient Grand Research Table, reputedly within a modest distance of this burgh.",
-    "vi": "Sự hưng thịnh ngày một rạng rỡ của <village_name> đã thu hút sự chú ý sâu sắc từ giới học giả uyên thâm, những người hằng mong mỏi khôi phục lại thanh danh cho toàn vương quốc. Trong quá trình nghiên cứu cổ thư, ta đã phát hiện một manh mối vô giá: sử liệu ghi chép về một Bàn Nghiên Cứu Lớn thời cổ đại, tương truyền tọa lạc cách thị trấn này không xa."
+    "vi": "Danh tiếng ngày một vang xa của <village_name> không lọt khỏi mắt giới học giả uyên thâm đang mải miết tìm cách khôi phục thanh thế cho vương quốc. Trong quá trình nghiên cứu cổ thư, ta đã phát hiện một manh mối vô giá: sử liệu ghi chép về một Bàn Nghiên Cứu Lớn thời cổ đại, tương truyền nằm cách thị trấn này không xa."
   },
   {
     "key": "event_scholar_title",
     "type": 0,
     "en": "Travelling Scholar",
-    "vi": "Học Giả Du Hành"
+    "vi": "Học giả du hành"
   },
   {
     "key": "event_scholar_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> the Travelling Scholar has arrived with news of the potential location of a Grand Research Table",
-    "vi": "Bị thu hút bởi danh tiếng của <village_name>, một Học Giả Du Hành đã tìm tới cùng tin tức chấn động về vị trí của Bàn Nghiên Cứu Lớn thời cổ đại."
+    "vi": "Tìm đến <village_name>, một Học giả du hành vừa ghé thăm cùng tin tức chấn động về vị trí của Bàn Nghiên Cứu Lớn thời cổ đại."
   },
   {
     "key": "event_broker_text",
     "type": 0,
     "en": "The thriving trade of <village_name> has not gone unremarked among us merchants. This is the ideal time to make a trade deal, which will be lucrative for <faction_name>  as well as <village_name>. My <faction_name> camp is nearby, and we will be waiting to hear what you decide. ",
-    "vi": "Hoạt động giao thương sầm uất tại <village_name> đã không lọt khỏi tai mắt của phường thương buôn chúng ta. Đây chính là thời điểm vàng để thiết lập một hiệp ước giao thương mang lại món lợi khổng lồ cho cả <faction_name> lẫn <village_name>. Doanh trại <faction_name> của ta đóng ở ngay gần đây, và chúng ta sẽ kiên nhẫn chờ đợi quyết định sáng suốt từ quý bạn."
+    "vi": "Hoạt động giao thương sầm uất tại <village_name> đã thu hút sự chú ý của phường thương buôn chúng ta. Đây chính là thời cơ vàng để thiết lập một hiệp ước giao thương sinh lời lớn cho cả <faction_name> lẫn <village_name>. Doanh trại <faction_name> của ta đóng ở ngay gần đây, và chúng ta sẽ chờ đợi quyết định sáng suốt từ các bạn. "
   },
   {
     "key": "event_broker_title",
     "type": 0,
     "en": "Broker",
-    "vi": "Thương Lái Môi Giới"
+    "vi": "Thương lái"
   },
   {
     "key": "event_broker_arrival_text",
     "type": 0,
     "en": "Drawn to <village_name> by reports of thriving trade, a broker from <faction_name> has arrived to strike a deal.",
-    "vi": "Nghe danh khu định cư <village_name> buôn bán phồn thịnh, một thương lái môi giới từ <faction_name> đã tìm đến để đề nghị một hiệp ước thương mại đôi bên cùng có lợi."
+    "vi": "Nghe danh giao thương phồn thịnh tại <village_name>, một thương lái của <faction_name> đã tìm đến để đề nghị một hiệp ước thương mại đôi bên cùng có lợi."
   },
   {
     "key": "caravan_mandatory_resources",
     "type": 0,
     "en": "For Trade Agreement: ",
-    "vi": "Yêu cầu cho Hiệp Ước Giao Thương: "
+    "vi": "Yêu cầu cho Hiệp ước Giao thương: "
   },
   {
     "key": "caravan_message_mandatory_resources",
     "type": 0,
     "en": "Not enough value for trade agrement",
-    "vi": "Tổng giá trị cống nạp chưa đủ để ký kết Hiệp Ước Giao Thương"
+    "vi": "Chưa đủ giá trị hàng hóa để ký Hiệp ước Giao thương"
   },
   {
     "key": "have_trade_deal_with_faction",
     "type": 0,
     "en": "Trade Agreement",
-    "vi": "Hiệp Ước Giao Thương"
+    "vi": "Hiệp ước Giao thương"
   },
   {
     "key": "event_pilgrim_rest_arrival_visit_relic_text",
     "type": 0,
     "en": "Drawn to <village_name> the Restitutionist Pilgrim has arrived to marvel at the Reliquary Chapel that has be constructed, and is sure to spread word across the land",
-    "vi": "Bị thu hút bởi <village_name>, Người Hành Hương Phục Hưng đã tìm đến để chiêm bái Nhà Nguyện Thánh Tích vừa được xây dựng, và chắc chắn sẽ loan truyền tin mừng khắp cõi đất."
+    "vi": "Tìm đến <village_name>, Người hành hương Phục Hưng đã ghé chiêm bái Nhà nguyện Thánh tích vừa được xây dựng, và chắc chắn sẽ loan truyền tin mừng khắp muôn phương."
   },
   {
     "key": "event_pilgrim_oak_arrival_visit_oak_text",
     "type": 0,
     "en": "Drawn to <village_name> the Oak Brethren Pilgrim has arrived to marvel at the Mighty Oak, and is sure to spread the word across the land",
-    "vi": "Bị thu hút bởi <village_name>, Người Hành Hương Huynh Đệ Cây Sồi đã tìm đến để chiêm bái Cây Sồi Đại Ngàn linh thiêng, và chắc chắn sẽ loan truyền danh tiếng khu định cư khắp muôn phương."
+    "vi": "Tìm đến <village_name>, Người hành hương Huynh Đệ Cây Sồi đã ghé chiêm bái Cây Sồi Đại Ngàn linh thiêng, và chắc chắn sẽ loan truyền danh tiếng khắp muôn phương."
   },
   {
     "key": "tut_raid_name",
     "type": 0,
     "en": "Combat",
-    "vi": "Giao Tranh Phòng Thủ"
+    "vi": "Giao tranh phòng thủ"
   },
   {
     "key": "tut_raid_info",
@@ -657,19 +657,19 @@
     "key": "event_backgammon_positive",
     "type": 0,
     "en": "<target_name> is quite the strategist. <agent_name> thoroughly enjoyed having #2[him/her] as an opponent.",
-    "vi": "<target_name> quả thực là một tay cờ đại tài. <agent_name> vô cùng thích thú khi được giao đấu cùng #2[him/her]."
+    "vi": "<target_name> quả là một tay cờ mưu lược. <agent_name> vô cùng thích thú khi được so tài cùng #2[him/her]."
   },
   {
     "key": "event_backgammon_negative",
     "type": 0,
     "en": "<agent_name> knew <target_name> couldn't be trusted. It was obvious #2[he/she] tried to move the backgammon counters when no one was watching.",
-    "vi": "<agent_name> biết ngay <target_name> là kẻ gian trá. Rõ ràng #2[he/she] đã lén di chuyển quân cờ khi không ai để ý."
+    "vi": "<agent_name> biết ngay <target_name> là kẻ chẳng đáng tin. Rõ ràng #2[he/she] đã lén di chuyển quân cờ lúc không ai để ý."
   },
   {
     "key": "event_ate_at_table_positive",
     "type": 0,
     "en": "Not only was the food delicious, but <agent_name> also found <target_name> to be wonderful company.",
-    "vi": "Không chỉ bữa ăn thơm ngon tuyệt hảo, mà <agent_name> còn cảm thấy <target_name> là một người bạn cùng bàn vô cùng hòa nhã và thú vị."
+    "vi": "Không chỉ món ăn thơm ngon tuyệt hảo, mà <agent_name> còn cảm thấy <target_name> là một người bạn cùng bàn vô cùng dễ mến."
   },
   {
     "key": "event_ate_at_table_negative",
@@ -681,55 +681,55 @@
     "key": "event_prayed_together_positive",
     "type": 0,
     "en": "<agent_name> enjoyed <target_name>'s soothing presence when they prayed together. It brought #1[him/her] peace.",
-    "vi": "<agent_name> cảm thấy tâm hồn thật nhẹ nhõm và thanh thản trước sự hiện diện trang nghiêm của <target_name> khi cả hai cùng cầu nguyện. Điều đó mang lại bình yên sâu sắc cho #1[him/her]."
+    "vi": "<agent_name> cảm thấy an lòng trước sự hiện diện trang nghiêm của <target_name> khi cả hai cùng cầu nguyện. Điều đó mang lại sự bình yên sâu sắc cho #1[him/her]."
   },
   {
     "key": "event_prayed_together_negative",
     "type": 0,
     "en": "<agent_name> needed a quiet moment of reflection. But <target_name>'s theatrical devotions made it impossible.",
-    "vi": "<agent_name> rất cần một khoảnh khắc tĩnh tâm lắng đọng. Nhưng những điệu bộ cầu nguyện phô trương màu mè của <target_name> đã phá hỏng tất cả."
+    "vi": "<agent_name> rất cần một khoảnh khắc tĩnh tâm lắng đọng, nhưng những điệu bộ cầu nguyện làm màu phô trương của <target_name> đã phá hỏng tất cả."
   },
   {
     "key": "event_slept_in_same_room_positive",
     "type": 0,
     "en": "<agent_name> felt cozy, and was always well-rested when sleeping alongside <target_name>",
-    "vi": "<agent_name> cảm thấy vô cùng ấm cúng và luôn có được giấc ngủ ngon lành khi ngủ cùng phòng với <target_name>."
+    "vi": "<agent_name> cảm thấy vô cùng ấm cúng và luôn ngủ thật ngon giấc khi nằm cùng phòng với <target_name>."
   },
   {
     "key": "event_slept_in_same_room_negative",
     "type": 0,
     "en": "<agent_name> was the worst room mate ever, snoring fit to lift the rafters. <target_name> couldn't get any rest.",
-    "vi": "<agent_name> là người bạn cùng phòng tệ hại nhất trần đời: tiếng ngáy vang như sấm làm rung chuyển cả xà nhà. <target_name> hoàn toàn không tài nào chợp mắt nổi."
+    "vi": "<agent_name> đúng là người bạn cùng phòng tệ hại nhất trần đời, tiếng ngáy vang như sấm làm rung cả xà nhà khiến <target_name> hoàn toàn không tài nào chợp mắt nổi."
   },
   {
     "key": "event_saw_drunk_settler_positive",
     "type": 0,
     "en": "<agent_name> thought <target_name> was an absolute scream when #2[he/she] was tipsy. They had such a laugh together.",
-    "vi": "<agent_name> nhận thấy <target_name> trở nên cực kỳ hóm hỉnh và đáng yêu khi #2[he/she] ngà ngà say. Họ đã cùng nhau cười đùa vô cùng sảng khoái."
+    "vi": "<agent_name> thấy <target_name> trở nên cực kỳ hóm hỉnh và đáng yêu khi #2[he/she] ngà ngà say. Họ đã cùng nhau cười đùa vô cùng sảng khoái."
   },
   {
     "key": "event_saw_drunk_settler_negative",
     "type": 0,
     "en": "<agent_name> couldn't stand <target_name> when #2[he/she] was under the influence. <target_name> would be either argumentitive or dejected.",
-    "vi": "<agent_name> không thể nào chịu nổi bộ dạng của <target_name> khi #2[he/she] say xỉn. <target_name> khi say nếu không hung hăng gây gổ thì cũng rầu rĩ ủ ê."
+    "vi": "<agent_name> không thể nào chịu nổi <target_name> mỗi khi #2[he/she] có hơi men trong người. <target_name> khi say nếu không hung hăng gây gổ thì cũng rầu rĩ ủ ê."
   },
   {
     "key": "event_saw_cannibal_butchering_positive",
     "type": 0,
     "en": "<agent_name> was frankly impressed with how deftly <target_name> could carve up a corpse.",
-    "vi": "<agent_name> thực sự trầm trồ trước sự điêu luyện và thuần thục của <target_name> khi mổ xẻ cái xác người."
+    "vi": "<agent_name> thực sự trầm trồ trước sự khéo léo và thuần thục của <target_name> khi xẻ thịt một cái xác người."
   },
   {
     "key": "event_saw_cannibal_butchering_negative",
     "type": 0,
     "en": "<agent_name> couldn't bear to watch <target_name> filleting a human body.",
-    "vi": "<agent_name> không thể nào chịu đựng nổi khi phải chứng kiến cảnh <target_name> đang lọc từng thớ thịt người."
+    "vi": "<agent_name> không thể nào chịu đựng nổi khi phải chứng kiến cảnh <target_name> đang lóc từng thớ thịt người."
   },
   {
     "key": "event_saw_cannibal_cooking_positive",
     "type": 0,
     "en": "<agent_name> wanted to see what <target_name> would serve up. #2[He/She] always got creative when human meat was on the menu.",
-    "vi": "<agent_name> rất nóng lòng muốn thưởng thức món ăn mà <target_name> sắp dọn lên. #2[He/She] luôn cực kỳ sáng tạo mỗi khi có thịt người trong thực đơn."
+    "vi": "<agent_name> rất tò mò muốn xem <target_name> sẽ dọn món gì lên. #2[He/She] luôn cực kỳ sáng tạo mỗi khi có thịt người trong thực đơn."
   },
   {
     "key": "event_saw_cannibal_cooking_negative",
@@ -741,19 +741,19 @@
     "key": "event_saw_cannibal_eating_positive",
     "type": 0,
     "en": "<agent_name> thought eating a bit of human meat might do <target_name> good. ",
-    "vi": "<agent_name> cho rằng việc thưởng thức một chút thịt người sẽ rất bổ dưỡng cho <target_name>."
+    "vi": "<agent_name> nghĩ rằng ăn một chút thịt người có khi lại tẩm bổ tốt cho <target_name>."
   },
   {
     "key": "event_saw_cannibal_eating_negative",
     "type": 0,
     "en": "<target_name> was tucking in to human meat. <agent_name> thoroughly disapproved.",
-    "vi": "<target_name> đang ngấu nghiến gặm thịt người. <agent_name> vô cùng phẫn nộ và ghê tởm hành vi này."
+    "vi": "<target_name> đang ngấu nghiến gặm thịt người. <agent_name> cảm thấy vô cùng phẫn nộ và ghê tởm hành vi đó."
   },
   {
     "key": "event_saw_failed_construction_positive",
     "type": 0,
     "en": "<agent_name> could see that <target_name> was struggling with construction, and felt sorry for #2[him/her].",
-    "vi": "<agent_name> nhìn thấy <target_name> đang phải chật vật xoay xở với công trình xây dựng, và thầm thấy thương cho #2[him/her]."
+    "vi": "<agent_name> thấy <target_name> đang phải chật vật xoay xở với công trình xây dựng, và thầm thấy thương cho #2[him/her]."
   },
   {
     "key": "event_saw_failed_construction_negative",
@@ -783,13 +783,13 @@
     "key": "event_saw_failed_digging_negative",
     "type": 0,
     "en": "<agent_name> couldn't believe <target_name> had been digging for so long, and had produced so little.",
-    "vi": "<agent_name> không thể tin nổi <target_name> đã hì hục đào xới suốt bấy lâu mà kết quả mang lại lại thảm hại đến mức này."
+    "vi": "<agent_name> không thể tin nổi <target_name> đã hì hục đào xới suốt bấy lâu mà kết quả mang lại lại ít ỏi đến mức này."
   },
   {
     "key": "event_saw_failed_chopping_negative",
     "type": 0,
     "en": "<agent_name> saw a fine tree hacked amateurishly by <target_name> and really felt like giving <target_name> a piece of #1[his/her] mind.",
-    "vi": "<agent_name> chứng kiến một thân gỗ tốt bị <target_name> đốn hạ vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng từ tận đáy lòng #1[his/her]."
+    "vi": "<agent_name> nhìn thấy một thân gỗ tốt bị <target_name> đốn hạ vụng về nham nhở và chỉ muốn mắng cho <target_name> một bài học thích đáng từ tận đáy lòng #1[his/her]."
   },
   {
     "key": "event_saw_failed_chopping_positive",
@@ -807,7 +807,7 @@
     "key": "event_saw_flimsy_production_negative",
     "type": 0,
     "en": "<agent_name> was dismayed that <target_name>  had wasted materials, only to produce an unusable <item_name>.",
-    "vi": "<agent_name> vô cùng thất vọng và xót xa khi <target_name> đã phung phí bao nhiêu nguyên liệu quý chỉ để tạo ra một món <item_name> vô dụng."
+    "vi": "<agent_name> vô cùng tiếc của khi thấy <target_name> đã phung phí bao nguyên liệu quý chỉ để tạo ra một món <item_name> vô dụng."
   },
   {
     "key": "event_saw_flawless_production_negative",
@@ -843,13 +843,13 @@
     "key": "event_consumed_drink_negative",
     "type": 0,
     "en": "<agent_name> wished <target_name> would stop making disgusting beverages, so that #1[he/she] wouldn't be obliged to drink them.",
-    "vi": "<agent_name> thầm ước <target_name> đừng bao giờ pha chế những thứ nước uống kinh dị đó nữa, để #1[he/she] không bị buộc phải nhắm mắt nuốt vào bụng."
+    "vi": "<agent_name> thầm ước <target_name> đừng bao giờ pha chế những thứ đồ uống kinh dị đó nữa, để #1[he/she] không bị buộc phải nhắm mắt nuốt vào bụng."
   },
   {
     "key": "event_interacted_with_chair_positive",
     "type": 0,
     "en": "<agent_name> was absolutely delighted that <target_name> had made this <item_name>",
-    "vi": "<agent_name> vô cùng hài lòng và thích thú khi được ngồi trên chiếc <item_name> êm ái mà <target_name> đã dày công đóng nên."
+    "vi": "<agent_name> vô cùng thích thú và ưng ý với chiếc <item_name> êm ái mà <target_name> đã dày công đóng nên."
   },
   {
     "key": "event_interacted_with_chair_negative",
@@ -885,7 +885,7 @@
     "key": "event_interacted_with_weapon_positive",
     "type": 0,
     "en": "<agent_name> was impresed that <target_name>'s <item_name> hadn't let them down.",
-    "vi": "<agent_name> vô cùng khâm phục khi vũ khí <item_name> của <target_name> luôn sắc bén và chưa từng làm họ thất vọng trong chiến trận."
+    "vi": "<agent_name> vô cùng khâm phục khi vũ khí <item_name> của <target_name> luôn sắc bén và chưa từng khiến họ thất vọng trong chiến trận."
   },
   {
     "key": "event_interacted_with_weapon_negative",

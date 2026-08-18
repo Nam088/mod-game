@@ -165,67 +165,67 @@
     "key": "roadmap_03",
     "type": 0,
     "en": "Settlement Diplomacy",
-    "vi": "Khu định cư Diplomacy"
+    "vi": "Ngoại Giao Khu Định Cư"
   },
   {
     "key": "roadmap_04",
     "type": 0,
     "en": "Settler Social Interactions",
-    "vi": "Dân làng Social Interactions"
+    "vi": "Tương Tác Xã Hội Của Dân Làng"
   },
   {
     "key": "roadmap_05",
     "type": 0,
     "en": "Religious Influence",
-    "vi": "Tôn giáo Influence"
+    "vi": "Ảnh Hưởng Tôn Giáo"
   },
   {
     "key": "roadmap_06",
     "type": 0,
     "en": "Fire & Flammability",
-    "vi": "Lửa & khả năng bắt cháy"
+    "vi": "Hỏa Hoạn & Khả Năng Bắt Cháy"
   },
   {
     "key": "roadmap_07",
     "type": 0,
     "en": "Accumulating Snow",
-    "vi": "Accumulating Tuyết rơi"
+    "vi": "Hiện Tượng Tuyết Tích Tụ"
   },
   {
     "key": "roadmap_08",
     "type": 0,
     "en": "Organic Dirt Paths",
-    "vi": "Đường đất tự nhiên"
+    "vi": "Lối Mòn Đất Tự Nhiên"
   },
   {
     "key": "roadmap_09",
     "type": 0,
     "en": "Mounted Siege Weaponry",
-    "vi": "Mounted Bao vây công thành Weaponry"
+    "vi": "Khí Tài Công Thành Lắp Đặt"
   },
   {
     "key": "roadmap_11",
     "type": 0,
     "en": "Raiding Other Settlements",
-    "vi": "Raiding Khác Settlements"
+    "vi": "Tập Kích Khu Định Cư Khác"
   },
   {
     "key": "roadmap_12",
     "type": 0,
     "en": "Vassal System",
-    "vi": "Hệ thống chư hầu"
+    "vi": "Hệ Thống Chư Hầu"
   },
   {
     "key": "roadmap_13",
     "type": 0,
     "en": "Map Factions",
-    "vi": "Phe phái trên bản đồ"
+    "vi": "Các Phe Phái Trên Bản Đồ"
   },
   {
     "key": "roadmap_14",
     "type": 0,
     "en": "Prisoner System",
-    "vi": "Tù nhân System"
+    "vi": "Hệ Thống Tù Nhân"
   },
   {
     "key": "roadmap_15",
@@ -339,7 +339,7 @@
     "key": "update_05_name",
     "type": 0,
     "en": "Animal Trading",
-    "vi": "Bản Cập Nhật Nước & Thủy Văn"
+    "vi": "Giao Thương Động Vật"
   },
   {
     "key": "update_06_name",

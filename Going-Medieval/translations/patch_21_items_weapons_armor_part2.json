@@ -21,13 +21,13 @@
     "key": "equipment_name_cap",
     "type": 0,
     "en": "Cap",
-    "vi": "Mũ lưỡi trai"
+    "vi": "Mũ vải"
   },
   {
     "key": "equipment_name_shackles",
     "type": 0,
     "en": "Shackles",
-    "vi": "Xiềng"
+    "vi": "Xiềng xích"
   },
   {
     "key": "equipment_name_crown",
@@ -51,25 +51,25 @@
     "key": "equipment_name_headband",
     "type": 0,
     "en": "Headband",
-    "vi": "Băng đô"
+    "vi": "Băng buộc đầu"
   },
   {
     "key": "equipment_name_chaperon",
     "type": 0,
     "en": "Chaperon",
-    "vi": "Mũ chaperon"
+    "vi": "Mũ Chaperon"
   },
   {
     "key": "equipment_name_mouthpiece",
     "type": 0,
     "en": "Kerchief",
-    "vi": "Khăn trùm đầu"
+    "vi": "Khăn che mặt"
   },
   {
     "key": "equipment_name_head_scarf",
     "type": 0,
     "en": "Head Scarf",
-    "vi": "Khăn đầu"
+    "vi": "Khăn trùm đầu"
   },
   {
     "key": "equipment_name_hood",
@@ -81,19 +81,19 @@
     "key": "equipment_name_wolf_headpiece",
     "type": 0,
     "en": "Wolf Headpiece",
-    "vi": "Mũ đầu sói"
+    "vi": "Mũ trùm đầu sói"
   },
   {
     "key": "equipment_name_boar_headpiece",
     "type": 0,
     "en": "Boar Headpiece",
-    "vi": "Mũ đầu lợn rừng"
+    "vi": "Mũ trùm đầu lợn rừng"
   },
   {
     "key": "equipment_name_stag_headpiece",
     "type": 0,
     "en": "Stag Headpiece",
-    "vi": "Mũ đầu hươu"
+    "vi": "Mũ gạc hươu"
   },
   {
     "key": "equipment_name_hare_headpiece",
@@ -111,37 +111,37 @@
     "key": "equipment_info_dagger",
     "type": 0,
     "en": "Always handy when you need to get to the point. Best for close combat - eye gouging and slitting throats.",
-    "vi": "Một lưỡi dao găm nhỏ gọn, dễ giấu trong người và chết chóc trong không gian hẹp. Hoàn hảo để đâm xuyên qua các khe hở trên bộ giáp của kẻ thù."
+    "vi": "Luôn tiện dụng khi bạn cần đi thẳng vào trọng tâm. Thích hợp nhất cho cận chiến áp sát — móc mắt và cắt họng quân thù."
   },
   {
     "key": "equipment_info_short_sword",
     "type": 0,
     "en": "The single-handed weapon of choice for slicing through armoured opponents. Keep it sharp.",
-    "vi": "Lưỡi kiếm ngắn tiện dụng cho các cuộc cận chiến chật hẹp, dễ xoay xở và đâm chém linh hoạt."
+    "vi": "Lựa chọn vũ khí một tay hoàn hảo để chém xuyên qua những đối thủ bọc giáp. Hãy luôn mài nó thật sắc bén."
   },
   {
     "key": "equipment_info_falchion",
     "type": 0,
     "en": "Light and elegant with a single, deadly cutting edge. Ideal for slashing.",
-    "vi": "Thanh đoản đao lưỡi cong bản rộng, dồn toàn bộ trọng lượng vào mũi đao để chém những nhát chém xé thịt gãy xương."
+    "vi": "Nhẹ nhàng và thanh thoát với một lưỡi chém duy nhất đầy chết chóc. Cực kỳ lý tưởng cho những nhát chém xé toạc đối phương."
   },
   {
     "key": "equipment_info_knightly_sword",
     "type": 0,
     "en": "A double-edged weapon, best aimed at the chinks in your opponent's armour.",
-    "vi": "Vũ khí hai lưỡi kinh điển của các hiệp sĩ, sắc bén và cân bằng hoàn hảo để nhắm vào những khe hở hiểm hóc trên giáp trụ đối phương."
+    "vi": "Vũ khí hai lưỡi kinh điển của hiệp sĩ, sắc bén và cân bằng hoàn hảo để nhắm vào các khe hở trên giáp trụ đối phương."
   },
   {
     "key": "equipment_info_longsword",
     "type": 0,
     "en": "A long-handled sword to be gripped and swung with both hands, ideally while charging on horseback in plate armour.",
-    "vi": "Thanh kiếm cán dài dùng bằng cả hai tay, lý tưởng cho các hiệp sĩ mặc giáp tấm khi cưỡi ngựa xung phong hoặc giao đấu trên bộ."
+    "vi": "Thanh kiếm cán dài dùng bằng cả hai tay, lý tưởng cho các hiệp sĩ mặc giáp tấm khi xung phong trên lưng ngựa hoặc giao đấu trên bộ."
   },
   {
     "key": "equipment_info_greatsword",
     "type": 0,
     "en": "A huge claymore like this needs a double hand grip and a mighty warrior to wield it. ",
-    "vi": "Thanh đại kiếm khổng lồ hai tay đòi hỏi người sử dụng phải có sức mạnh phi thường của một dũng tướng để vung lên những nhát chém quét sạch kẻ thù."
+    "vi": "Thanh đại kiếm khổng lồ hai tay đòi hỏi người sử dụng phải có sức mạnh phi thường của một dũng tướng để vung lên quét sạch kẻ thù."
   },
   {
     "key": "equipment_info_staff",
@@ -171,19 +171,19 @@
     "key": "equipment_info_two_handed_flanged_mace",
     "type": 0,
     "en": "The hard ridges on this mighty mace inflict damage on plate armour, and crush the wearer. Win win!",
-    "vi": "Các sống khía thép sắc nhọn trên cỗ chùy khế khổng lồ này có thể nghiền nát giáp tấm và bẻ gãy khung xương người mặc bên trong."
+    "vi": "Các gờ khía cứng cáp trên cây đại chùy khế này xuyên phá giáp tấm và nghiền nát kẻ mặc bên trong. Tiện cả đôi đường!"
   },
   {
     "key": "equipment_info_two_handed_mace",
     "type": 0,
     "en": "This mighty weapon will not pierce armour, but it will stun and pulverize the contents. A symbol of great power.",
-    "vi": "Món vũ khí đồ sộ này không nhắm vào việc đâm xuyên, mà gây chấn thương sọ não và nghiền nát mọi thứ bên trong lớp giáp. Biểu tượng của sức mạnh uy quyền."
+    "vi": "Món vũ khí đồ sộ này không nhắm vào việc đâm xuyên, mà làm choáng váng và nghiền nát mọi thứ bên trong lớp giáp. Biểu tượng của sức mạnh uy quyền."
   },
   {
     "key": "equipment_info_military_pick",
     "type": 0,
     "en": "A narrow point on this long weapon makes it ideal for swinging at enemies to pierce their plate mail.",
-    "vi": "Mũi nhọn hoắt hẹp của cây cuốc chiến này là sát thủ hoàn hảo để bổ thẳng xuống xuyên thủng các lớp giáp tấm dày cộm."
+    "vi": "Mũi nhọn hẹp của món vũ khí dài này khiến nó trở nên lý tưởng để vung bổ vào kẻ thù nhằm đâm thủng giáp tấm."
   },
   {
     "key": "equipment_info_spear",
@@ -201,397 +201,397 @@
     "key": "equipment_info_berdiche",
     "type": 0,
     "en": "A variety of poleaxe with a tall, heavy blade. Let it fall and cut down heretics as it may.",
-    "vi": "Một biến thể rìu cán dài với lưỡi rìu bán nguyệt khổng lồ nặng trịch. Chỉ một nhát bổ xuống là đủ chém đứt đôi bất kỳ kẻ dị giáo nào."
+    "vi": "Một biến thể rìu cán dài với lưỡi rìu bán nguyệt khổng lồ nặng trịch. Cứ vung xuống là đủ chém đứt đôi bất kỳ kẻ dị giáo nào."
   },
   {
     "key": "equipment_info_billhook",
     "type": 0,
     "en": "A sharp hook for coppicing trees. This peasant's tool doubles as a weapon, popular among the Faithful Sons of England.",
-    "vi": "Công cụ tỉa cành cây mũi khoằm của nông dân, kiêm luôn chức năng vũ khí nguy hiểm rất được phe Những Người Con Nước Anh ưa chuộng."
+    "vi": "Công cụ tỉa cành cây mũi khoằm của nông dân, kiêm luôn vũ khí cận chiến lợi hại rất được phe Những Người Con Trung Thành Nước Anh ưa chuộng."
   },
   {
     "key": "equipment_info_warfork",
     "type": 0,
     "en": "Whether you see yourself as a pitchfork-wielding peasant or more of a mighty Neptune type, the warfork has you covered.",
-    "vi": "Dù bạn xem mình là một nông dân nổi dậy cầm chĩa ba hay một vị thần biển quyền năng, cây chĩa chiến này đều đáp ứng hoàn hảo."
+    "vi": "Dù bạn coi mình là một nông dân cầm chĩa ba hay vị thần biển Neptune dũng mãnh, cây chĩa chiến này đều đáp ứng trọn vẹn."
   },
   {
     "key": "equipment_info_hatchet",
     "type": 0,
     "en": "A neat, single handed axe. Chop wood, carry water, and split marauder's heads with it. So versatile.",
-    "vi": "Chiếc rìu tay nhỏ gọn đa năng. Vừa dùng đốn củi, vừa gánh nước, lại có thể bổ đôi sọ của những tên cướp đột kích."
+    "vi": "Chiếc rìu một tay nhỏ gọn. Đốn củi, gánh nước và bổ đôi sọ những kẻ cướp bóc. Thật đa năng."
   },
   {
     "key": "equipment_info_greataxe",
     "type": 0,
     "en": "Designed specifically for hewing limbs from humans, rather than trees. Inflicts deep, devastating wounds.",
-    "vi": "Được thiết kế chuyên biệt để chặt đứt các chi thể của con người chứ không phải đốn cây. Gây ra những vết thương sâu hoắm tàn khốc."
+    "vi": "Được thiết kế chuyên biệt để chặt đứt tứ chi của con người chứ không phải đốn cây. Gây ra những vết thương sâu hoắm tàn khốc."
   },
   {
     "key": "equipment_info_warhammer",
     "type": 0,
     "en": "A blunt instrument for inflicting damage on your enemy's helmeted head. Or take out their horse's legs.",
-    "vi": "Vũ khí cận chiến dùng để bổ vỡ mũ sắt của đối thủ hoặc đập gãy chân chiến mã trong giao tranh."
+    "vi": "Vũ khí cận chiến dùng để giáng những đòn đập tàn phá vào mũ sắt của quân thù, hoặc đập gãy chân chiến mã trong giao tranh."
   },
   {
     "key": "equipment_info_two_handed_warhammer",
     "type": 0,
     "en": "Delivers a forceful and targeted blow to your armoured opponent. Dent his confidence!",
-    "vi": "Tung ra những đòn giáng sấm sét nghiền nát lớp giáp kiên cố của đối thủ, đập tan mọi sự tự tin của kẻ thù!"
+    "vi": "Tung ra những đòn giáng sấm sét đầy uy lực vào đối thủ bọc giáp kiên cố. Đập tan mọi sự tự tin của kẻ thù!"
   },
   {
     "key": "equipment_info_flail",
     "type": 0,
     "en": "Useful for threshing grain, or your foes. Handy for catching the edge of a shield but unsophisticated.",
-    "vi": "Vốn là dụng cụ đập lúa của nhà nông, chùy xích rất lợi hại trong việc vòng qua mép khiên để đánh trúng đầu đối phương."
+    "vi": "Vốn là dụng cụ đập lúa của nhà nông, chùy xích rất lợi hại trong việc vòng qua mép khiên để đánh trúng kẻ thù dù thô sơ."
   },
   {
     "key": "equipment_info_reinforced_flail",
     "type": 0,
     "en": "Only useful at short range, this weapon has been customised for greater intimidation. A thuggish weapon.",
-    "vi": "Chỉ phát huy uy lực ở cự ly gần, món vũ khí bọc sắt này được cải tiến để gia tăng tính đe dọa và khủng bố tinh thần."
+    "vi": "Chỉ phát huy uy lực ở cự ly gần, món vũ khí gia cố này được tùy biến để gia tăng tính đe dọa. Một vũ khí đậm chất côn đồ."
   },
   {
     "key": "equipment_info_two_handed_flail",
     "type": 0,
     "en": "What you sacrifice in speed, you can make up for in sheer brute force. Inaccurate but imposing.",
-    "vi": "Bù đắp cho tốc độ vung chậm chạp là lực sát thương kinh hoàng của quả chùy sắt. Độ chính xác kém nhưng uy lực trấn áp tột độ."
+    "vi": "Bù đắp cho tốc độ vung chậm chạp là sức mạnh cơ bắp tàn bạo của quả chùy sắt. Kém chính xác nhưng uy lực trấn áp tột độ."
   },
   {
     "key": "equipment_info_short_bow",
     "type": 0,
     "en": "A compact bow, perfect for use on horseback. Favoured by the Saracens.",
-    "vi": "Cây cung nhỏ gọn, cực kỳ thích hợp để bắn tên trên lưng ngựa. Món vũ khí yêu thích của các kỵ xạ Saracen."
+    "vi": "Cây cung ngắn gọn nhẹ, bắn tên nhanh và rất tiện lợi khi cưỡi ngựa. Vũ khí ưa chuộng của các kỵ xạ vùng sa mạc."
   },
   {
     "key": "equipment_info_war_bow",
     "type": 0,
     "en": "Bowmen tell of the Welsh and English prevailing in the great archery duel at Crécy. They used bows such as these.",
-    "vi": "Các cung thủ thường ca ngợi chiến tích của người xứ Wales và Anh trong trận đại chiến Crécy. Họ đã dùng chính những cây chiến cung uy lực này."
+    "vi": "Chiến cung uy lực lớn từng giúp quân đội đánh bại đối thủ trong những trận đấu tên lẫy lừng. Bắn ra những phát tên xé gió với lực sát thương khủng khiếp."
   },
   {
     "key": "equipment_info_long_bow",
     "type": 0,
     "en": "A regular wooden bow fashioned from a single piece of yew, with reinforced nocks. A standard weapon for centuries.",
-    "vi": "Trường cung truyền thống làm từ một thanh gỗ thủy tùng nguyên khối với khấc móc gia cố. Vũ khí chuẩn mực huyền thoại suốt nhiều thế kỷ."
+    "vi": "Cây cung dài truyền thống đẽo từ gỗ thủy tùng nguyên khối, gia cố khấc móc dây chắc chắn. Món vũ khí huyền thoại của các cung thủ suốt nhiều thế kỷ."
   },
   {
     "key": "equipment_info_curved_bow",
     "type": 0,
     "en": "All bowyers are inspired by Tristan's legendary bow, Fail Not. This beautifully-balanced weapon comes close.",
-    "vi": "Các nghệ nhân làm cung đều lấy cảm hứng từ cây cung truyền thuyết Fail Not của hiệp sĩ Tristan. Món vũ khí cân bằng hoàn mỹ này đạt tới đẳng cấp đó."
+    "vi": "Cây cung uốn cong có độ đàn hồi và cân bằng tuyệt hảo, lấy cảm hứng từ cây cung bách phát bách trúng trong truyền thuyết."
   },
   {
     "key": "equipment_info_light_crossbow",
     "type": 0,
     "en": "Easier to use and quicker to reload than a regular crossbow. Lacking force, it's best for finishing off a wounded foe.",
-    "vi": "Dễ sử dụng và nạp tên nhanh hơn nỏ thông thường. Dù lực bắn không quá mạnh nhưng rất hoàn hảo để kết liễu kẻ thù đang bị thương."
+    "vi": "Chiếc nỏ nhỏ gọn, dễ giương và nạp tên nhanh hơn nỏ thường. Rất thích hợp để bắn tỉa và kết liễu kẻ thù đang bỏ chạy."
   },
   {
     "key": "equipment_info_crossbow",
     "type": 0,
     "en": "Favoured by Genoese mercenaries, this bow gives flight to a short, heavy bolt that can pierce chain mail.",
-    "vi": "Vũ khí ưa thích của lính đánh thuê thành Genoa, bắn ra những mũi tên nỏ ngắn và nặng có thể xuyên thủng cả áo giáp xích."
+    "vi": "Cây nỏ tiêu chuẩn có lực bắn mạnh, phóng ra những mũi tên nỏ đầm tay có thể bắn thủng cả áo giáp xích của kẻ địch."
   },
   {
     "key": "equipment_info_heavy_crossbow",
     "type": 0,
     "en": "A bow hard to cock requiring a strong archer to wield it. But the force of the arrow is unsurpassed.",
-    "vi": "Cây đại nỏ có lực kéo cực nặng đòi hỏi xạ thủ phải có thể lực dồi dào, nhưng uy lực xuyên phá của mũi nỏ thì không gì sánh kịp."
+    "vi": "Cây đại nỏ hạng nặng với lực kéo cực lớn. Tuy lên dây lâu nhưng uy lực xuyên giáp và tầm bắn xa thì không vũ khí tầm xa nào sánh bằng."
   },
   {
     "key": "equipment_info_throwing_axes",
     "type": 0,
     "en": "A ranged weapon that is easy to wield but hard to master. Best lodged in the backs of your fleeing enemies.",
-    "vi": "Vũ khí tầm xa dễ ném nhưng khó đạt tới cảnh giới tinh thông. Thích hợp nhất để phóng thẳng vào lưng những kẻ thù đang tháo chạy."
+    "vi": "Rìu ném nhỏ gọn, xoay tròn trong không trung và bổ thẳng vào giáp trụ của kẻ địch."
   },
   {
     "key": "equipment_info_light_javelins",
     "type": 0,
     "en": "A thrown spear that glints in the sun as it arcs towards your doomed assailants. A ranged alternative to archery.",
-    "vi": "Ngọn giáo ném lấp lánh dưới ánh mặt trời khi vẽ nên đường cung chết chóc hướng về quân địch. Lựa chọn tầm xa tuyệt vời thay thế cho cung tên."
+    "vi": "Ngọn giáo phóng tầm ngắn nhắm thẳng vào kẻ thù. Lựa chọn tuyệt vời cho những ai thích lối đánh ném lao dũng mãnh."
   },
   {
     "key": "equipment_info_sling",
     "type": 0,
     "en": "Do not underestimate the humble sling. Experts may loose stones faster than arrows, pelting foes with rugged rain.",
-    "vi": "Đừng bao giờ xem thường chiếc ná dây bắn đá đơn sơ. Những tay thiện xạ có thể phóng đá nhanh hơn cả bắn tên, trút cơn mưa đá nghiền nát quân thù."
+    "vi": "Dải ná quăng đá đơn sơ nhưng nếu vào tay người khéo léo sẽ trở thành vũ khí quấy rối tầm xa vô cùng khó chịu."
   },
   {
     "key": "equipment_info_sling_staff",
     "type": 0,
     "en": "Part staff, part sling. Extends the length or your reach to great effect, especially handy for high walls and sieges.",
-    "vi": "Nửa gậy gộc nửa ná dây, giúp kéo dài tầm vung tay đòn để phóng đá bay xa và mạnh hơn, cực kỳ lợi hại khi công thủ thành trì."
+    "vi": "Gậy gắn ná phóng đá giúp tăng đáng kể tầm ném và động lượng của viên đá công kích."
   },
   {
     "key": "equipment_info_bolas",
     "type": 0,
     "en": "A weapon that looks like a toy. Spinning around their axis, these flying orbs will break the target's legs.",
-    "vi": "Món vũ khí thoạt nhìn như đồ chơi nhưng khi quay tròn trên không và phóng đi, những quả cầu bay sẽ quấn chặt và bẻ gãy chân mục tiêu."
+    "vi": "Dây ném có buộc tạ ở hai đầu, chuyên dùng để quấn chặt chân đối thủ khiến chúng ngã nhào và không thể chạy trốn."
   },
   {
     "key": "equipment_info_hand_ram",
     "type": 0,
     "en": "A stout wooden pole shaped for smashing down doors. Powered by human strength and determination.",
-    "vi": "Cột gỗ phá thành đầm chắc dùng để húc tung những cánh cửa kiên cố, vận hành hoàn toàn bằng sức mạnh cơ bắp và quyết tâm của dân làng."
+    "vi": "Thân gỗ lớn được đẽo gọt dùng để húc đổ cửa gỗ và phá tan các lớp cổng phòng thủ của địch."
   },
   {
     "key": "equipment_info_metal_hand_ram",
     "type": 0,
     "en": "An armoured pole, to splinter even the sturdiest of portals. Heavy to wield but worth the effort.",
-    "vi": "Cột phá thành bọc sắt kiên cố có thể phá tan những cánh cổng thành vững chãi nhất. Rất nặng nề nhưng vô cùng xứng đáng."
+    "vi": "Cột phá thành bọc đầu sắt kiên cố, có thể nghiền nát ngay cả những cánh cổng sắt vững chắc nhất."
   },
   {
     "key": "equipment_info_light_armor",
     "type": 0,
     "en": "Inexpensive and easy to repair, this boiled leather armour is lightweight and deflects most cuts.",
-    "vi": "Giá thành rẻ và dễ sửa chữa, bộ giáp da luộc này nhẹ nhàng và làm chệch hướng hầu hết các nhát chém thông thường."
+    "vi": "Giá thành rẻ và dễ sửa chữa, bộ giáp da luộc này rất nhẹ và làm chệch hướng hầu hết các nhát chém."
   },
   {
     "key": "equipment_info_forest_light_armor",
     "type": 0,
     "en": "The forest provides. For those without a forge, particularly Manx cannibals, wooden plate will suffice.",
-    "vi": "Khai thác từ rừng già. Đối với những kẻ không có lò rèn kim loại như tộc người ăn thịt đảo Man, bộ giáp gỗ này là quá đủ."
+    "vi": "Rừng già ban tặng. Đối với những kẻ không có lò rèn, đặc biệt là tộc ăn thịt người đảo Man, bộ giáp phiến gỗ này là quá đủ."
   },
   {
     "key": "equipment_info_mail_armor",
     "type": 0,
     "en": "Flexible and easy to wear, mail offers good protection from sharp blades, helping to avert festering battlefield wounds.",
-    "vi": "Mềm dẻo và thoải mái khi mặc, giáp lưới xích bảo vệ tối ưu trước các vết chém sắc ngọt, giúp ngăn ngừa các vết thương hoại tử chiến trường."
+    "vi": "Mềm dẻo và thoải mái khi mặc, giáp lưới xích bảo vệ tốt trước các lưỡi gươm sắc bén, giúp ngăn ngừa các vết thương hoại tử trên chiến trường."
   },
   {
     "key": "equipment_info_plate_armor",
     "type": 0,
     "en": "Knightly armour costs a small fortune. But invulnerability to swords and protection from blunt trauma comes at a price.",
-    "vi": "Bộ giáp tấm hiệp sĩ có giá trị bằng cả một gia tài, nhưng sự bất khả xâm phạm trước gươm giáo và đòn đập là cái giá hoàn toàn xứng đáng."
+    "vi": "Bộ giáp tấm hiệp sĩ có giá bằng cả một gia tài nhỏ. Nhưng sự bất khả xâm phạm trước gươm giáo và bảo vệ trước đòn đập là cái giá hoàn toàn xứng đáng."
   },
   {
     "key": "equipment_info_savage_heavy_armor",
     "type": 0,
     "en": "Dented and rusty, this is no armour for a shining knight. Bright metal is shunned among those who work in darkness.",
-    "vi": "Móp méo và gỉ sét, đây không phải bộ giáp dành cho hiệp sĩ hào nhoáng. Kim loại sáng bóng bị khinh thường bởi những kẻ ẩn mình trong bóng tối."
+    "vi": "Móp méo và gỉ sét, đây không phải bộ giáp dành cho một hiệp sĩ hào nhoáng. Kim loại sáng bóng luôn bị khinh thường bởi những kẻ hành sự trong bóng tối."
   },
   {
     "key": "equipment_info_plate_helmet",
     "type": 0,
     "en": "Seeing and breathing are restricted. But there is no finer headgear than a plate metal helmet, worthy of a crusader.",
-    "vi": "Tầm nhìn và hơi thở bị hạn chế, nhưng không có chiếc mũ giáp nào bảo vệ đầu tốt hơn đại mũ trụ hiệp sĩ, xứng tầm các chiến binh Thập Tự Chinh."
+    "vi": "Tầm nhìn và hơi thở bị hạn chế. Nhưng không có chiếc mũ giáp nào bảo vệ đầu tốt hơn mũ giáp tấm kim loại, xứng tầm chiến binh Thập Tự Chinh."
   },
   {
     "key": "equipment_info_light_helmet",
     "type": 0,
     "en": "This sturdy headgear offers some basic protection from glancing blows and slashes to the face.",
-    "vi": "Chiếc mũ bảo hộ chắc chắn giúp che chắn phần đầu khỏi các đòn chém lướt và đâm hiểm vào mặt."
+    "vi": "Chiếc mũ bảo hộ chắc chắn này mang lại sự bảo vệ cơ bản khỏi các đòn chém lướt và đâm vào mặt."
   },
   {
     "key": "equipment_info_mail_helmet",
     "type": 0,
     "en": "A mail coif is a wise addition to any set of armour, helping to deflect blades aimed at the back of the head or neck.",
-    "vi": "Mũ trùm lưới xích là phần bổ sung khôn ngoan cho mọi bộ giáp, giúp làm chệch hướng những nhát kiếm nhắm vào gáy và cổ."
+    "vi": "Mũ trùm lưới xích là phần bổ sung khôn ngoan cho mọi bộ giáp, giúp làm chệch hướng những nhát kiếm nhắm vào gáy hoặc cổ."
   },
   {
     "key": "equipment_info_forest_mask",
     "type": 0,
     "en": "A stiff, wooden visage, unmoving in the face of human tragedy. The Green Man laughs at death.",
-    "vi": "Gương mặt gỗ cứng đờ vô cảm trước mọi bi kịch trần thế. Hiện thân của Tinh Linh Xanh ngạo nghễ cười cợt trước tử thần."
+    "vi": "Gương mặt gỗ cứng đờ, vô cảm trước mọi bi kịch trần thế. Thần Mặt Người Xanh ngạo nghễ cười nhạo cái chết."
   },
   {
     "key": "equipment_info_forest_horned_mask",
     "type": 0,
     "en": "A carved helm is imbued with the untamed spirit of the inhuman world, beyond the campfire. Fear the unknown.",
-    "vi": "Mũ mặt nạ chạm khắc mang đậm linh hồn hoang dã của thế giới bí ẩn bên ngoài ánh lửa trại. Hãy kính sợ những điều huyền bí."
+    "vi": "Chiếc mũ chạm khắc mang đậm linh hồn hoang dã của thế giới phi nhân loại bên ngoài ánh lửa trại. Hãy kính sợ những điều bí ẩn."
   },
   {
     "key": "equipment_info_forest_horned_helmet",
     "type": 0,
     "en": "A helm to invoke the terror of the Horned God, Lord of the Forest. Any swept up by Herne's hunt will be harried to the ends of time.",
-    "vi": "Chiếc mũ trụ triệu hồi nỗi khiếp đảm của Vị Thần Có Sừng, Chúa Tể Rừng Già. Bất kỳ ai bị cuốn vào Cuộc Săn của Herne sẽ bị truy đuổi tới tận cùng thời gian."
+    "vi": "Chiếc mũ trụ triệu hồi nỗi khiếp đảm của Vị Thần Có Sừng, Chúa Tể Rừng Già. Bất kỳ ai bị cuốn vào Cuộc Săn Của Herne sẽ bị truy đuổi tới tận cùng thời gian."
   },
   {
     "key": "equipment_info_gambeson_armor",
     "type": 0,
     "en": "A tough, quilted doublet favoured by infantry. The original body armour, it can stop arrows piercing the wearer.",
-    "vi": "Áo giáp vải chần bông dày dặn được bộ binh cực kỳ ưa chuộng. Bộ giáp thân nguyên bản này có thể cản đứng những mũi tên bắn xuyên."
+    "vi": "Áo giáp vải chần bông dày dặn được bộ binh cực kỳ ưa chuộng. Bộ giáp thân nguyên bản này có thể ngăn các mũi tên đâm xuyên vào người mặc."
   },
   {
     "key": "equipment_info_macabre_armor",
     "type": 0,
     "en": "Armour fashioned from bone, evoking the tortoise or the crab. Some of the bone may be human.",
-    "vi": "Bộ giáp kết từ xương thú và xương người, mô phỏng mai rùa và vỏ cua. Toát lên vẻ rùng rợn chết chóc."
+    "vi": "Bộ giáp chế tác từ xương, mô phỏng mai rùa hoặc vỏ cua. Một phần xương có thể là của con người."
   },
   {
     "key": "equipment_info_macabre_helmet",
     "type": 0,
     "en": "An outer skull, if you will. Usually sported by those who savour human flesh.",
-    "vi": "Chiếc sọ người thứ hai bao bọc bên ngoài đầu. Thường được đội bởi những kẻ thèm khát thưởng thức thịt người."
+    "vi": "Một chiếc sọ bọc ngoài, nếu bạn muốn gọi như vậy. Thường được đội bởi những kẻ thích thưởng thức thịt người."
   },
   {
     "key": "equipment_info_heretic_helmet",
     "type": 0,
     "en": "This horned headgear adds a demonic look to any outfit. Favoured by architects of chaos.",
-    "vi": "Chiếc mũ trụ có sừng ma quái mang lại diện mạo quỷ dữ cho người đội. Vũ khí yêu thích của những kẻ gieo rắc hỗn loạn."
+    "vi": "Chiếc mũ có sừng mang lại diện mạo ma quỷ cho bất kỳ trang phục nào. Được ưa chuộng bởi những kẻ kiến tạo hỗn loạn."
   },
   {
     "key": "equipment_info_kettle_helmet",
     "type": 0,
     "en": "A brimmed, metal war hat, familiar to all who have marched on the battlefields of Europe. ",
-    "vi": "Chiếc mũ sắt vành rộng quen thuộc với mọi chiến binh từng hành quân trên khắp các chiến trường Châu Âu."
+    "vi": "Mũ sắt vành nón quen thuộc với tất cả những ai từng hành quân trên khắp các chiến trường Châu Âu."
   },
   {
     "key": "equipment_info_buckler_shield",
     "type": 0,
     "en": "A small, nimble, circular shield, ideal for duels and other hand-to-hand combat. ",
-    "vi": "Chiếc khiên tròn nhỏ gọn linh hoạt, hoàn hảo cho các trận quyết đấu tay đôi một chọi một."
+    "vi": "Chiếc khiên tròn nhỏ gọn, linh hoạt, lý tưởng cho các trận đấu tay đôi và cận chiến áp sát."
   },
   {
     "key": "equipment_info_kite_shield",
     "type": 0,
     "en": "A tall and unwieldy shield that comes into its own when used on horseback, protecting both horse and rider. ",
-    "vi": "Chiếc khiên hình giọt nước dài che chắn hoàn hảo cho cả kỵ sĩ và chiến mã khi xung phong trên lưng ngựa."
+    "vi": "Chiếc khiên hình giọt nước cao lớn phát huy tối đa uy lực khi dùng trên lưng ngựa, bảo vệ cả kỵ sĩ lẫn chiến mã."
   },
   {
     "key": "equipment_info_heater_shield",
     "type": 0,
     "en": "A sturdy shield offers a good level of protection from arrows, blows and cuts. Used with a single-handed weapon.",
-    "vi": "Chiếc khiên hình tam giác kiên cố mang lại khả năng chống đỡ tuyệt vời trước tên bắn và các nhát chém, kết hợp hoàn hảo cùng vũ khí một tay."
+    "vi": "Chiếc khiên hình tam giác kiên cố mang lại khả năng bảo vệ tuyệt vời trước tên bắn, đòn đập và nhát chém. Dùng kết hợp cùng vũ khí một tay."
   },
   {
     "key": "equipment_info_tower_shield",
     "type": 0,
     "en": "This tall, heavy shield wards against projectiles and can be deployed in a shield wall. Use to safeguard archers.",
-    "vi": "Chiếc khiên tháp cao lớn và nặng nề dựng thành bức tường khiên vững chắc, bảo vệ an toàn tuyệt đối cho các cung thủ phía sau."
+    "vi": "Chiếc khiên tháp cao lớn và nặng nề giúp chống lại vũ khí tầm xa và có thể dựng thành bức tường khiên. Dùng để bảo vệ cung thủ."
   },
   {
     "key": "equipment_info_pavise_shield",
     "type": 0,
     "en": "A belief in basketry is the only thing standing betwixt the wielder of this flimsy shield and certain death.",
-    "vi": "Đại khiên chắn dựng đứng giúp cung thủ nấp sau để nạp tên an toàn trước hỏa lực tầm xa của quân thù."
+    "vi": "Niềm tin vào lớp đan lát mây tre là thứ duy nhất ngăn cách giữa người cầm chiếc khiên mỏng manh này với cái chết mười mươi."
   },
   {
     "key": "equipment_info_macabre_shield",
     "type": 0,
     "en": "Adorned with an osseous device, this decorative shield serves as a memento mori for both wearer and assailant.",
-    "vi": "Được trang trí bằng các mảnh xương trắng, chiếc khiên đầy ma mị này đóng vai trò như một lời nhắc nhở về cái chết (memento mori) cho cả người mang lẫn kẻ đối đầu."
+    "vi": "Được trang trí bằng hình hài xương xẩu, chiếc khiên ma mị này đóng vai trò như lời nhắc nhở về cái chết (memento mori) cho cả người mang lẫn kẻ tấn công."
   },
   {
     "key": "equipment_info_winter_clothes",
     "type": 0,
     "en": "Wrapping up in many layers is essential in the notoriously cold, damp depths of the English winter.",
-    "vi": "Mặc nhiều lớp áo ấm là điều vô cùng thiết yếu giữa mùa đông nước Anh ẩm ướt và lạnh giá cắt da cắt thịt."
+    "vi": "Mặc nhiều lớp áo là điều vô cùng thiết yếu giữa mùa đông nước Anh ẩm ướt và lạnh giá khắc nghiệt."
   },
   {
     "key": "equipment_info_summer_clothes",
     "type": 0,
     "en": "Lightweight, breathable clothes are best for the summer months, when workers often overheat or get sunburnt outdoors.",
-    "vi": "Quần áo mỏng nhẹ, thoáng khí là lựa chọn tối ưu cho những tháng mùa hè, khi dân làng dễ bị say nắng hoặc cháy nắng khi làm việc ngoài trời."
+    "vi": "Quần áo mỏng nhẹ, thoáng khí là lựa chọn tốt nhất cho các tháng mùa hè, khi dân làng thường bị quá nhiệt hoặc cháy nắng khi làm việc ngoài trời."
   },
   {
     "key": "equipment_info_cap",
     "type": 0,
     "en": "Keep the head snug and protect hair from woodsmoke and lice with a suitable headcovering.",
-    "vi": "Giữ ấm phần đầu và bảo vệ mái tóc khỏi khói củi và chấy rận bằng một chiếc mũ vải vừa vặn."
+    "vi": "Giữ ấm phần đầu và bảo vệ tóc khỏi khói củi và chấy rận bằng một chiếc mũ vải vừa vặn."
   },
   {
     "key": "equipment_info_wide_hat",
     "type": 0,
     "en": "Ideal for harvesting or any outdoor labour, a wide-brimmed hat keeps off both the sun and the rain.",
-    "vi": "Lý tưởng cho mùa thu hoạch hoặc lao động ngoài trời, chiếc mũ rộng vành giúp che chắn cả ánh nắng gay gắt lẫn những cơn mưa rào."
+    "vi": "Lý tưởng cho mùa thu hoạch hoặc bất kỳ lao động ngoài trời nào, chiếc mũ rộng vành che chắn cả ánh nắng gay gắt lẫn nước mưa."
   },
   {
     "key": "equipment_info_shackles",
     "type": 0,
     "en": "Strong iron manacles are essential to prevent captives from escape and other mischief.",
-    "vi": "Còng sắt chắc chắn là vật dụng thiết yếu để khóa chặt phạm nhân, ngăn ngừa đào tẩu và làm loạn."
+    "vi": "Xiềng xích sắt chắc chắn là vật dụng thiết yếu để ngăn tù nhân trốn thoát hoặc làm loạn."
   },
   {
     "key": "equipment_info_macabre_crown",
     "type": 0,
     "en": "Worn more for display than protection. The effect is fearsome.",
-    "vi": "Được đội nhằm thị uy nhiều hơn là bảo vệ, mang lại vẻ ngoài uy quyền đáng sợ cho người sở hữu."
+    "vi": "Được đội nhằm phô trương uy thế hơn là bảo vệ. Diện mạo mang lại vô cùng đáng sợ."
   },
   {
     "key": "equipment_info_druid_crown",
     "type": 0,
     "en": "A circlet wreathed in oak leaves, evoking wisdom and growth with the waxing power of the midsummer king.",
-    "vi": "Vương miện kết bằng lá sồi thiêng, biểu trưng cho trí tuệ, sự sinh sôi và quyền năng thiên nhiên của vị vua giữa mùa hạ."
+    "vi": "Chiếc vương miện kết bằng lá sồi, gợi lên trí tuệ và sự phát triển cùng quyền năng ngày càng tăng của vị vua giữa mùa hạ."
   },
   {
     "key": "equipment_info_heretic_crown",
     "type": 0,
     "en": "Swapping a crown of thorns for a circle of horns is a heretical act. And so the wearer turns authority upon its head.",
-    "vi": "Đổi vương miện gai lấy một vòng vương miện sừng quỷ là hành vi dị giáo, thách thức mọi vương quyền trần thế."
+    "vi": "Đổi vương miện gai lấy một vòng sừng quỷ là một hành vi dị giáo. Và kẻ đội nó đã lật ngược mọi uy quyền thế tục."
   },
   {
     "key": "equipment_info_sack_hood",
     "type": 0,
     "en": "A rough sack about the head giving the wearer a disturbing, scarecrow-like appearance.",
-    "vi": "Chiếc mũ trùm bằng bao bố thô ráp, mang lại cho người đội diện mạo kỳ dị ma quái như một bù nhìn rơm sống."
+    "vi": "Mũ trùm bao bố thô ráp trùm qua đầu, mang lại cho người đội diện mạo quái dị như một bù nhìn rơm."
   },
   {
     "key": "equipment_info_headband",
     "type": 0,
     "en": "A strip of cloth worn crownwise - perchance keeps straying hair off the face.",
-    "vi": "Một dải băng vải quấn ngang trán giúp giữ tóc tai gọn gàng, không làm che khuất tầm nhìn khi lao động."
+    "vi": "Một dải vải quấn ngang trán như vương miện — có lẽ giúp giữ tóc không xõa vào mặt."
   },
   {
     "key": "equipment_info_mouthpiece",
     "type": 0,
     "en": "A square of fabric worn to cover the face or head. Beloved of bandits.",
-    "vi": "Mảnh vải quấn che nửa mặt hoặc đầu, rất được giới thổ phỉ và đạo tặc ưa chuộng để giấu mặt."
+    "vi": "Một mảnh vải vuông dùng để che mặt hoặc đầu. Rất được giới thổ phỉ ưa chuộng."
   },
   {
     "key": "equipment_info_head_scarf",
     "type": 0,
     "en": "A simple cloth head covering. Easily adaptable for warmth, or disguise.",
-    "vi": "Khăn trùm đầu bằng vải đơn giản, tiện lợi dùng để giữ ấm hoặc cải trang che giấu thân phận."
+    "vi": "Khăn trùm đầu bằng vải đơn giản. Dễ dàng điều chỉnh để giữ ấm hoặc cải trang."
   },
   {
     "key": "equipment_info_hood",
     "type": 0,
     "en": "Used for stealth and concealed identity by fugitives and outlaws, in the tradition of Robin Hood.",
-    "vi": "Chiếc mũ trùm đầu giúp ẩn mình và che giấu danh tính, theo truyền thống của những hiệp sĩ rừng xanh Robin Hood."
+    "vi": "Được dùng để ẩn mình và che giấu danh tính bởi những kẻ đào tẩu và sống ngoài vòng pháp luật, theo truyền thống của Robin Hood."
   },
   {
     "key": "equipment_info_wolf_headpiece",
     "type": 0,
     "en": "Mountain folk tell tales of shifting into wolf form, of hunting in packs. This headgear evokes the howling fear of the unknown.",
-    "vi": "Người miền núi kể về truyền thuyết hóa sói săn mồi theo bầy. Chiếc mũ đầu sói này gợi lên nỗi khiếp sợ hoang dã của bóng đêm rừng thẳm."
+    "vi": "Dân miền núi kể những câu chuyện về thuật hóa thân thành sói và săn mồi theo bầy. Mũ đội đầu này gợi lên nỗi khiếp sợ trước tiếng hú nơi hoang dã."
   },
   {
     "key": "equipment_info_boar_headpiece",
     "type": 0,
     "en": "The warrior cult of the boar is resurgent, mainly in Northumbria. Pagan soldiers yet pray to its god, Vitiris, for courage.",
-    "vi": "Giáo phái chiến binh lợn rừng đang trỗi dậy mạnh mẽ ở vùng Northumbria. Các chiến binh Pagan cầu nguyện thần Vitiris ban cho lòng dũng cảm phi thường."
+    "vi": "Giáo phái chiến binh lợn rừng đang trỗi dậy trở lại, chủ yếu ở Northumbria. Các chiến binh Pagan vẫn cầu nguyện thần Vitiris ban cho lòng dũng cảm."
   },
   {
     "key": "equipment_info_stag_headpiece",
     "type": 0,
     "en": "An antlered nod to our ancient goddess, Elen of the Ways. Or a plea to join Herne's Hunt. Uncanny, and sartorially Pagan.",
-    "vi": "Chiếc mũ gạc hươu tôn vinh nữ thần cổ xưa Elen xứ Wales, mang đậm màu sắc nghi lễ huyền bí của các tín đồ Pagan."
+    "vi": "Chiếc mũ gạc hươu tôn kính nữ thần cổ xưa Elen, hoặc lời thỉnh cầu tham gia Cuộc Săn Của Herne. Kỳ dị và đậm chất Pagan."
   },
   {
     "key": "equipment_info_hare_headpiece",
     "type": 0,
     "en": "Evokes shapeshifing and heralds disaster. The wearer embodies fertility, madness, and death. Beware the hare.",
-    "vi": "Gợi nhớ thuật biến hình và báo trước điềm gở. Người đội hiện thân cho sự sinh sôi, cuồng loạn và tử thần. Hãy dè chừng loài thỏ rừng."
+    "vi": "Gợi nhớ thuật biến hình và báo trước tai ương. Người đội hiện thân cho sự sinh sôi, điên loạn và cái chết. Hãy dè chừng loài thỏ hoang."
   },
   {
     "key": "equipment_info_chaperon",
     "type": 0,
     "en": "The quintessential 14th century headgear - a caped hood with a long liripipe.",
-    "vi": "Mũ trùm Chaperon — biểu tượng thời trang quý tộc thế kỷ 14 với dải đuôi dài liripipe uốn lượn đặc trưng."
+    "vi": "Kiểu mũ trùm đầu tinh hoa của thế kỷ 14 — một chiếc mũ có vạt vai và dải đuôi dài liripipe."
   },
   {
     "key": "equipment_info_reinforced_wooden_shield",
     "type": 0,
     "en": "This reinforced shield gives added protection, but comes with added weight. A trade off that may save your life.",
-    "vi": "Chiếc khiên gỗ gia cố tăng cường khả năng chống đỡ, dù nặng nề hơn nhưng có thể cứu mạng bạn trong gang tấc."
+    "vi": "Chiếc khiên gỗ gia cố này tăng cường khả năng bảo vệ nhưng nặng hơn. Một sự đánh đổi có thể cứu mạng bạn."
   },
   {
     "key": "equipment_info_bone_bow",
     "type": 0,
     "en": "A shortbow fashioned from animal bone, hide and sinew. ",
-    "vi": "Chiếc cung ngắn độc đáo được chế tác từ xương thú, da và gân động vật."
+    "vi": "Cây cung ngắn thô sơ làm từ xương thú kết hợp với gân và da động vật."
   },
   {
     "key": "resource_category_name_CtgArmor",
@@ -645,7 +645,7 @@
     "key": "resource_group_ArmorHead",
     "type": 0,
     "en": "Headgear",
-    "vi": "Mũ trụ"
+    "vi": "Trang bị đầu"
   },
   {
     "key": "bg_old_name_Armorer",
@@ -657,7 +657,7 @@
     "key": "bg_old_info_Armorer",
     "type": 0,
     "en": "<name> began with cuir bouilli, leather boiled in wax and sturdy enough to give a commoner some battlefield protection. Later [he/she] progressed to Brigandine armour, riveting on metal plate to shield the heart. <name> was also serviceable with a bow.",
-    "vi": "<name> bắt đầu với giáp da thuộc luộc trong sáp, đủ chắc để bảo vệ người thường ngoài chiến trường. Sau đó [he/she] chuyển sang giáp brigandine, tán đinh các tấm kim loại để che chắn trái tim. <name> cũng dùng cung khá thành thạo."
+    "vi": "<name> bắt đầu với giáp da luộc trong sáp, đủ chắc để bảo vệ thường dân ngoài chiến trường. Sau đó [he/she] tiến tới giáp brigandine, tán đinh các mảnh kim loại để che chắn tim. <name> cũng sử dụng cung khá thành thạo."
   },
   {
     "key": "equipment_name_heater_shield",
@@ -717,7 +717,7 @@
     "key": "equipment_name_hay_rug_large",
     "type": 0,
     "en": "Rush Matting",
-    "vi": "Chiếu cói"
+    "vi": "Thảm cói"
   },
   {
     "key": "equipment_name_tapestry_vertical_wall",

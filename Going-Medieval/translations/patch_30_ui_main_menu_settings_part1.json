@@ -3,25 +3,25 @@
     "key": "ctrl_ShowhideStability",
     "type": 0,
     "en": "Show stability values",
-    "vi": "Hiển thị chỉ số độ vững chắc kết cấu"
+    "vi": "Hiển thị chỉ số độ vững chắc"
   },
   {
     "key": "menu_action_scroll_wheel_camera_layer",
     "type": 0,
     "en": "While holding [<style=Shortcut>Shift</style>]\\n Use <style=Shortcut>Mouse wheel</style> to change what <style=DefaultBlue>layers</style> the camera is locked to",
-    "vi": "Trong khi giữ [<style=Shortcut>Shift</style>]\\n Dùng <style=Shortcut>Lăn chuột</style> để thay đổi <style=DefaultBlue>tầng độ cao</style> mà camera khóa vào"
+    "vi": "Giữ [<style=Shortcut>Shift</style>]\\n Dùng <style=Shortcut>Cuộn chuột</style> để đổi <style=DefaultBlue>tầng</style> khóa camera"
   },
   {
     "key": "menu_accessories",
     "type": 0,
     "en": "Accessories",
-    "vi": "Trang Sức & Phụ Kiện"
+    "vi": "Phụ kiện"
   },
   {
     "key": "menu_allow_all",
     "type": 0,
     "en": "Allow All",
-    "vi": "Cho Phép Toàn Bộ"
+    "vi": "Cho phép tất cả"
   },
   {
     "key": "menu_allow_all_prod_info",
@@ -39,61 +39,61 @@
     "key": "menu_background",
     "type": 0,
     "en": "Background",
-    "vi": "Lai Lịch & Nghề Nghiệp"
+    "vi": "Lai lịch"
   },
   {
     "key": "menu_Individual",
     "type": 0,
     "en": "Individual",
-    "vi": "Hồ Sơ Cá Nhân"
+    "vi": "Cá nhân"
   },
   {
     "key": "menu_background_01",
     "type": 0,
     "en": "Background #1",
-    "vi": "Lai Lịch #1"
+    "vi": "Lai lịch #1"
   },
   {
     "key": "menu_background_02",
     "type": 0,
     "en": "Background #2",
-    "vi": "Lai Lịch #2"
+    "vi": "Lai lịch #2"
   },
   {
     "key": "menu_backstory",
     "type": 0,
     "en": "Backstory",
-    "vi": "Tiểu Sử Cuộc Đời"
+    "vi": "Tiểu sử"
   },
   {
     "key": "menu_base",
     "type": 0,
     "en": "Base",
-    "vi": "Cơ Sở"
+    "vi": "Cơ bản"
   },
   {
     "key": "menu_leisure",
     "type": 0,
     "en": "Leisure",
-    "vi": "Giải Trí & Thư Giãn"
+    "vi": "Giải trí"
   },
   {
     "key": "menu_cancel_production",
     "type": 0,
     "en": "Cancel production",
-    "vi": "Hủy Lệnh Sản Xuất"
+    "vi": "Hủy sản xuất"
   },
   {
     "key": "menu_clear",
     "type": 0,
     "en": "Clear",
-    "vi": "Xóa Chọn"
+    "vi": "Bỏ chọn"
   },
   {
     "key": "menu_clear_all",
     "type": 0,
     "en": "Clear All",
-    "vi": "Bỏ Chọn Tất Cả"
+    "vi": "Bỏ chọn tất cả"
   },
   {
     "key": "menu_clear_all_prod_info",
@@ -123,7 +123,7 @@
     "key": "menu_cropfield_size",
     "type": 0,
     "en": "Cropfield size",
-    "vi": "Kích thước cánh đồng"
+    "vi": "Kích thước ruộng"
   },
   {
     "key": "menu_decoration",
@@ -273,7 +273,7 @@
     "key": "menu_storage",
     "type": 0,
     "en": "Storage Amount",
-    "vi": "Lượng chứa"
+    "vi": "Sức chứa"
   },
   {
     "key": "menu_value",
@@ -309,7 +309,7 @@
     "key": "menu_food_pouch",
     "type": 0,
     "en": "Pouch",
-    "vi": "Túi đựng"
+    "vi": "Túi đựng thức ăn"
   },
   {
     "key": "menu_add_new",
@@ -369,7 +369,7 @@
     "key": "menu_action_scroll_wheel_layer",
     "type": 0,
     "en": "While holding [<style=Shortcut>Ctrl</style>]\\n Use <style=Shortcut>Mouse wheel</style> to move rapidly through <style=DefaultBlue>layers</style>",
-    "vi": "Giữ [<style=Shortcut>Ctrl</style>]\\n dùng <style=Shortcut>Lăn chuột</style> để di chuyển nhanh qua các <style=DefaultBlue>tầng</style>"
+    "vi": "Giữ [<style=Shortcut>Ctrl</style>]\\n Dùng <style=Shortcut>Cuộn chuột</style> để di chuyển nhanh qua các <style=DefaultBlue>tầng</style>"
   },
   {
     "key": "menu_action_click_layer",
@@ -405,7 +405,7 @@
     "key": "menu_structure_piles",
     "type": 0,
     "en": "Structure kits",
-    "vi": "Kiện cấu kiện xây dựng"
+    "vi": "Bộ cấu kiện xây dựng"
   },
   {
     "key": "menu_aged",
@@ -465,25 +465,25 @@
     "key": "ctrl_TogglePlanMode",
     "type": 0,
     "en": "Toggle Plan Mode",
-    "vi": "Bật/Tắt Chế Độ Quy Hoạch"
+    "vi": "Bật/Tắt chế độ quy hoạch"
   },
   {
     "key": "ctrl_ShowHideForbiddenBlueprints",
     "type": 0,
     "en": "Show/Hide forbidden blueprints",
-    "vi": "Ẩn/Hiện Bản Thiết Kế Bị Cấm"
+    "vi": "Ẩn/Hiện bản thiết kế bị cấm"
   },
   {
     "key": "back_to_main_menu",
     "type": 0,
     "en": "Take me back to the main menu",
-    "vi": "Quay Trở Về Menu Chính"
+    "vi": "Quay về menu chính"
   },
   {
     "key": "menu_action_attack",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> on target to <style=DefaultBlue>Attack</style>",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> vào mục tiêu để <style=DefaultBlue>Tấn Công</style>"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> vào mục tiêu để <style=DefaultBlue>Tấn công</style>"
   },
   {
     "key": "menu_action_dismiss",
@@ -495,7 +495,7 @@
     "key": "menu_action_order_row",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> + drag to issue orders for area",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để ban lệnh theo vùng"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để ra lệnh theo vùng"
   },
   {
     "key": "menu_action_order_hunt_area",
@@ -513,223 +513,223 @@
     "key": "menu_action_order_single",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> to issue an order",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> để ban bố sắc lệnh"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> để ra lệnh"
   },
   {
     "key": "menu_action_place_rotate",
     "type": 0,
     "en": "[<style=Shortcut><input:RotateLeft></style>]  & [<style=Shortcut><input:RotateRight></style>] to rotate",
-    "vi": "[<style=Shortcut><input:RotateLeft></style>] & [<style=Shortcut><input:RotateRight></style>] để xoay hướng"
+    "vi": "[<style=Shortcut><input:RotateLeft></style>]  & [<style=Shortcut><input:RotateRight></style>] để xoay hướng"
   },
   {
     "key": "menu_action_place_row",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row or area",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để xây theo hàng hoặc khu vực"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để đặt theo hàng hoặc vùng"
   },
   {
     "key": "menu_action_place_row_only",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> + drag to place in a row",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để xây thành một hàng"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + kéo chuột để đặt thành hàng"
   },
   {
     "key": "menu_action_place_square",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> + [<style=Shortcut>Left Alt</style>] + drag to place in a square",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> + [<style=Shortcut>Left Alt</style>] + kéo chuột để xây hình vuông"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> + [<style=Shortcut>Left Alt</style>] + kéo chuột để đặt hình vuông"
   },
   {
     "key": "menu_action_place_single",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> to place building",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> để đặt vị trí công trình"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> để đặt công trình"
   },
   {
     "key": "menu_action_place_zone",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> lên <style=DefaultBlue>Tường</style> để gắn"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> lên <style=DefaultBlue> Tường</style> để đặt"
   },
   {
     "key": "menu_action_rightclick_attack",
     "type": 0,
     "en": "<sprite=\"ctrl_right_click\" index=t> on target to order <style=DefaultBlue>Attack</style>",
-    "vi": "<sprite=\"ctrl_right_click\" index=t> vào mục tiêu để ra lệnh <style=DefaultBlue>Tấn Công</style>"
+    "vi": "<sprite=\"ctrl_right_click\" index=t> vào mục tiêu để ra lệnh <style=DefaultBlue>Tấn công</style>"
   },
   {
     "key": "menu_action_rightclick_equip",
     "type": 0,
     "en": "<sprite=\"ctrl_right_click\" index=t> on item to <style=DefaultBlue>Equip</style>",
-    "vi": "<sprite=\"ctrl_right_click\" index=t> vào trang bị để <style=DefaultBlue>Trang Bị</style>"
+    "vi": "<sprite=\"ctrl_right_click\" index=t> vào vật phẩm để <style=DefaultBlue>Trang bị</style>"
   },
   {
     "key": "menu_action_rightclick_move",
     "type": 0,
     "en": "<sprite=\"ctrl_right_click\" index=t> to <style=DefaultBlue>Move</style>",
-    "vi": "<sprite=\"ctrl_right_click\" index=t> để <style=DefaultBlue>Di Chuyển</style>"
+    "vi": "<sprite=\"ctrl_right_click\" index=t> để <style=DefaultBlue>Di chuyển</style>"
   },
   {
     "key": "menu_action_socketable",
     "type": 0,
     "en": "<sprite=\"ctrl_left_click\" index=t> on the <style=DefaultBlue> Wall</style> to place",
-    "vi": "<sprite=\"ctrl_left_click\" index=t> lên <style=DefaultBlue>Tường</style> để gắn"
+    "vi": "<sprite=\"ctrl_left_click\" index=t> lên <style=DefaultBlue> Tường</style> để gắn"
   },
   {
     "key": "options_show_gameplay_tips",
     "type": 0,
     "en": "Show Gameplay tips",
-    "vi": "Hiển thị mẹo chơi hướng dẫn"
+    "vi": "Hiển thị mẹo chơi"
   },
   {
     "key": "options_show_gameplay_tips_info",
     "type": 0,
     "en": "This is recommended for players new to Going Medieval.",
-    "vi": "Khuyến nghị kích hoạt dành cho những người chơi mới bắt đầu làm quen với Going Medieval."
+    "vi": "Khuyến nghị cho người mới làm quen với Going Medieval."
   },
   {
     "key": "menu_produce",
     "type": 0,
     "en": "Produce",
-    "vi": "Sản Xuất Chế Tác"
+    "vi": "Sản xuất"
   },
   {
     "key": "menu_deliver",
     "type": 0,
     "en": "Deliver",
-    "vi": "Vận Chuyển Hàng Hóa"
+    "vi": "Vận chuyển"
   },
   {
     "key": "menu_keybind_cancel_info",
     "type": 0,
     "en": "Dismiss Changes ",
-    "vi": "Hủy Bỏ Thay Đổi"
+    "vi": "Hủy bỏ thay đổi"
   },
   {
     "key": "menu_keybind_ok_info",
     "type": 0,
     "en": "Confirm",
-    "vi": "Xác Nhận Thiết Lập"
+    "vi": "Xác nhận"
   },
   {
     "key": "menu_keybind_reset_info",
     "type": 0,
     "en": "Reset Keyboard Configuration to Default state",
-    "vi": "Khôi phục cấu hình phím bấm về trạng thái mặc định"
+    "vi": "Khôi phục cấu hình bàn phím về mặc định"
   },
   {
     "key": "menu_keybindings",
     "type": 0,
     "en": "Key Bindings",
-    "vi": "Gán Phím Tắt"
+    "vi": "Gán phím tắt"
   },
   {
     "key": "menu_keyboard_configuration",
     "type": 0,
     "en": "Keyboard Configuration",
-    "vi": "Cấu Hình Bàn Phím"
+    "vi": "Cấu hình bàn phím"
   },
   {
     "key": "options_ambient_volume",
     "type": 0,
     "en": "Ambient volume",
-    "vi": "Âm lượng âm thanh môi trường"
+    "vi": "Âm lượng môi trường"
   },
   {
     "key": "options_anisotropic",
     "type": 0,
     "en": "Anisotropic filtering",
-    "vi": "Bộ lọc dị hướng (Anisotropic Filtering)"
+    "vi": "Lọc dị hướng (Anisotropic)"
   },
   {
     "key": "options_autosave",
     "type": 0,
     "en": "Autosave",
-    "vi": "Tự động lưu game (Autosave)"
+    "vi": "Tự động lưu"
   },
   {
     "key": "options_camera_sensitivity",
     "type": 0,
     "en": "Camera sensitivity",
-    "vi": "Độ nhạy chuyển động camera"
+    "vi": "Độ nhạy camera"
   },
   {
     "key": "options_devtools",
     "type": 0,
     "en": "Dev Tools",
-    "vi": "Công Cụ Dành Cho Nhà Phát Triển (Dev Tools)"
+    "vi": "Công cụ nhà phát triển (Dev Tools)"
   },
   {
     "key": "options_devtools_info",
     "type": 0,
     "en": "A list of Developer tools",
-    "vi": "Danh sách công cụ của nhà phát triển"
+    "vi": "Danh sách các công cụ dành cho nhà phát triển"
   },
   {
     "key": "options_effect_volume",
     "type": 0,
     "en": "Effect Volume",
-    "vi": "Âm lượng hiệu ứng âm thanh"
+    "vi": "Âm lượng hiệu ứng"
   },
   {
     "key": "options_fullscreen",
     "type": 0,
     "en": "Fullscreen",
-    "vi": "Chế độ toàn màn hình"
+    "vi": "Toàn màn hình"
   },
   {
     "key": "options_keyboard_config",
     "type": 0,
     "en": "Keyboard Configuration",
-    "vi": "Cấu hình bàn phím điều khiển"
+    "vi": "Cấu hình bàn phím"
   },
   {
     "key": "options_master_volume",
     "type": 0,
     "en": "Master Volume",
-    "vi": "Âm lượng tổng thể"
+    "vi": "Âm lượng tổng"
   },
   {
     "key": "options_music_volume",
     "type": 0,
     "en": "Music Volume",
-    "vi": "Âm lượng nhạc nền không gian"
+    "vi": "Âm lượng nhạc nền"
   },
   {
     "key": "options_resolution",
     "type": 0,
     "en": "Resolution",
-    "vi": "Độ phân giải màn hình"
+    "vi": "Độ phân giải"
   },
   {
     "key": "options_screen_edge_mouse_scroll",
     "type": 0,
     "en": "Screen-edge mouse scroll",
-    "vi": "Cuộn camera bằng mép màn hình"
+    "vi": "Cuộn camera ở mép màn hình"
   },
   {
     "key": "options_texture_quality",
     "type": 0,
     "en": "Texture quality",
-    "vi": "Chất lượng vân bề mặt kết cấu"
+    "vi": "Chất lượng kết cấu"
   },
   {
     "key": "options_ui_scale",
     "type": 0,
     "en": "UI scale",
-    "vi": "Tỉ lệ kích thước giao diện UI"
+    "vi": "Tỉ lệ giao diện (UI)"
   },
   {
     "key": "options_vsync",
     "type": 0,
     "en": "V-Sync",
-    "vi": "Đồng bộ khung hình (V-Sync)"
+    "vi": "Đồng bộ dọc (V-Sync)"
   },
   {
     "key": "options_worker_names",
     "type": 0,
     "en": "Show settler names",
-    "vi": "Hiển thị tên dân làng trên đầu"
+    "vi": "Hiển thị tên dân làng"
   },
   {
     "key": "options_camera_sharpen",
@@ -741,162 +741,162 @@
     "key": "options_hover_intensity",
     "type": 0,
     "en": "Hover Visuals Opacity",
-    "vi": "Độ đậm viền sáng nổi bật khi rê chuột"
+    "vi": "Độ rõ viền nổi bật khi rê chuột"
   },
   {
     "key": "options_grass_toggle",
     "type": 0,
     "en": "Grass",
-    "vi": "Hiệu ứng cỏ 3D đung đưa"
+    "vi": "Cỏ"
   },
   {
     "key": "options_cursor_toggle",
     "type": 0,
     "en": "Custom Cursor",
-    "vi": "Con Trỏ Chuột Tùy Chỉnh"
+    "vi": "Con trỏ chuột tùy chỉnh"
   },
   {
     "key": "ctrl_ShowHideEstheticMap",
     "type": 0,
     "en": "Show aesthetic heatmap",
-    "vi": "Bật/Tắt Bản Đồ Nhiệt Thẩm Mỹ Cảnh Quan"
+    "vi": "Hiện bản đồ thẩm mỹ"
   },
   {
     "key": "ctrl_ShowHideHeatMap",
     "type": 0,
     "en": "Show temperature heatmap",
-    "vi": "Bật/Tắt Bản Đồ Nhiệt Độ Môi Trường"
+    "vi": "Hiện bản đồ nhiệt độ"
   },
   {
     "key": "ctrl_ShowHideZoneGrid",
     "type": 0,
     "en": "Zone Grid: Show/Hide",
-    "vi": "Bật/Tắt Khung Lưới Khu Vực Quy Hoạch"
+    "vi": "Lưới khu vực: Ẩn/Hiện"
   },
   {
     "key": "ctrl_Leisure",
     "type": 0,
     "en": "Leisure",
-    "vi": "Giải Trí"
+    "vi": "Giải trí"
   },
   {
     "key": "ctrl_Allow",
     "type": 0,
     "en": "Order: Allow",
-    "vi": "Lệnh: Cho Phép Thu Gom"
+    "vi": "Lệnh: Cho phép"
   },
   {
     "key": "ctrl_Attack",
     "type": 0,
     "en": "Attack",
-    "vi": "Tấn Công"
+    "vi": "Tấn công"
   },
   {
     "key": "ctrl_Base",
     "type": 0,
     "en": "Base",
-    "vi": "Cơ Sở"
+    "vi": "Cơ bản"
   },
   {
     "key": "ctrl_CameraReset",
     "type": 0,
     "en": "Reset Camera View.",
-    "vi": "Đặt Lại Góc Nhìn Camera Mặc Định"
+    "vi": "Đặt lại góc nhìn camera."
   },
   {
     "key": "ctrl_Cancel",
     "type": 0,
     "en": "Order: Cancel",
-    "vi": "Lệnh: Hủy Bỏ Lệnh Đang Chờ"
+    "vi": "Lệnh: Hủy"
   },
   {
     "key": "ctrl_Chopping",
     "type": 0,
     "en": "Order: Chop",
-    "vi": "Lệnh: Chặt Đốn Gỗ"
+    "vi": "Lệnh: Đốn cây"
   },
   {
     "key": "ctrl_CutAllVegetation",
     "type": 0,
     "en": "Order: Cut Plants",
-    "vi": "Lệnh: Phát Cỏ Dọn Cây"
+    "vi": "Lệnh: Dọn cây cỏ"
   },
   {
     "key": "ctrl_Decoration",
     "type": 0,
     "en": "Misc",
-    "vi": "Trang Trí Khác"
+    "vi": "Khác"
   },
   {
     "key": "ctrl_Digging",
     "type": 0,
     "en": "Order: Mine",
-    "vi": "Lệnh: Đào Đất Khai Mỏ"
+    "vi": "Lệnh: Đào mỏ"
   },
   {
     "key": "ctrl_Draft",
     "type": 0,
     "en": "Draft",
-    "vi": "Huy Động Quân Tự Vệ (Draft)"
+    "vi": "Huy động"
   },
   {
     "key": "ctrl_GamePause",
     "type": 0,
     "en": "Pause Game",
-    "vi": "Tạm Dừng Trò Chơi"
+    "vi": "Tạm dừng game"
   },
   {
     "key": "ctrl_GameSpeedDown",
     "type": 0,
     "en": "Decrease Game Speed",
-    "vi": "Giảm Tốc Độ Trò Chơi"
+    "vi": "Giảm tốc độ game"
   },
   {
     "key": "ctrl_GameSpeedFast",
     "type": 0,
     "en": "Game Speed: Fast",
-    "vi": "Tốc Độ Game: Nhanh (x2)"
+    "vi": "Tốc độ game: Nhanh"
   },
   {
     "key": "ctrl_GameSpeedFaster",
     "type": 0,
     "en": "Game Speed: Very Fast",
-    "vi": "Tốc Độ Game: Rất Nhanh (x3)"
+    "vi": "Tốc độ game: Rất nhanh"
   },
   {
     "key": "ctrl_GameSpeedNormal",
     "type": 0,
     "en": "Game Speed: Normal",
-    "vi": "Tốc Độ Game: Bình Thường (x1)"
+    "vi": "Tốc độ game: Bình thường"
   },
   {
     "key": "ctrl_GameSpeedUp",
     "type": 0,
     "en": "Increase Game Speed",
-    "vi": "Tăng Tốc Độ Trò Chơi"
+    "vi": "Tăng tốc độ game"
   },
   {
     "key": "ctrl_Harvesting",
     "type": 0,
     "en": "Order: Harvest",
-    "vi": "Lệnh: Thu Hoạch Nông Sản"
+    "vi": "Lệnh: Thu hoạch"
   },
   {
     "key": "ctrl_Hunting",
     "type": 0,
     "en": "Order: Hunting",
-    "vi": "Lệnh: Săn Bắn Thú"
+    "vi": "Lệnh: Săn bắn"
   },
   {
     "key": "ctrl_Fishing",
     "type": 0,
     "en": "Order: Fish",
-    "vi": "Lệnh: Đánh Bắt Cá"
+    "vi": "Lệnh: Câu cá"
   },
   {
     "key": "ctrl_UrgentHaul",
     "type": 0,
     "en": "Order: Urgent Haul",
-    "vi": "Lệnh: Khuân Vác Khẩn Cấp"
+    "vi": "Lệnh: Dọn đồ khẩn cấp"
   }
 ]

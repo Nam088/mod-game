@@ -3,7 +3,7 @@
     "key": "event_quality_lvl_name_very_bad",
     "type": 0,
     "en": "Lamentable",
-    "vi": "Tồi Tệ Đáng Tiếc"
+    "vi": "Thảm Hại"
   },
   {
     "key": "event_quality_lvl_name_bad",
@@ -21,7 +21,7 @@
     "key": "event_quality_lvl_name_good",
     "type": 0,
     "en": "Enjoyable",
-    "vi": "Dễ Chịu & Hài Lòng"
+    "vi": "Hài Lòng"
   },
   {
     "key": "event_quality_lvl_name_very_good",
@@ -45,25 +45,25 @@
     "key": "event_quality_points_breakdown",
     "type": 0,
     "en": "Event quality Points Breakdown",
-    "vi": "Bảng chi tiết điểm chất lượng sự kiện"
+    "vi": "Chi tiết điểm chất lượng sự kiện"
   },
   {
     "key": "event_requ_skill_book",
     "type": 0,
     "en": "Required Textbook",
-    "vi": "Sách giáo khoa yêu cầu"
+    "vi": "Sách kỹ năng yêu cầu"
   },
   {
     "key": "event_quality_ranged_name",
     "type": 0,
     "en": "Ranged Weaponry students",
-    "vi": "Học viên xạ kích tầm xa"
+    "vi": "Học viên vũ khí tầm xa"
   },
   {
     "key": "event_quality_melee_name",
     "type": 0,
     "en": "Melee Weapons students",
-    "vi": "Học viên võ nghệ cận chiến"
+    "vi": "Học viên vũ khí cận chiến"
   },
   {
     "key": "event_requ_training",
@@ -81,7 +81,7 @@
     "key": "effector_info_ExecutedPrisonerSameFaction",
     "type": 0,
     "en": "Mercy upon that poor prisoner's soul! There, but for the grace of my gaolers, go I...",
-    "vi": "Cầu xin lòng từ bi đoái thương linh hồn người tù tội nghiệp ấy! Nếu không nhờ sự khoan hồng của cai ngục, người nằm đó ắt hẳn đã là ta..."
+    "vi": "Cầu xin lòng nhân từ xót thương linh hồn người tù khốn khổ ấy! Nếu không nhờ sự khoan hồng của cai ngục, người nằm đó ắt hẳn đã là ta..."
   },
   {
     "key": "effector_name_RaidWonEffector",
@@ -93,7 +93,7 @@
     "key": "effector_info_RaidWonEffector",
     "type": 0,
     "en": "We have defied our enemies — triumph courses through my veins!",
-    "vi": "Chúng ta đã đánh tan tác kẻ thù — men say chiến thắng đang cuồn cuộn tuôn chảy trong từng huyết quản!"
+    "vi": "Chúng ta đã đánh tan tác quân thù — men say chiến thắng đang cuộn trào trong từng huyết quản!"
   },
   {
     "key": "effector_name_RaidLosingEffector",
@@ -105,19 +105,19 @@
     "key": "effector_info_RaidLosingEffector",
     "type": 0,
     "en": "This fight is not going our way. Whatever will become of us!",
-    "vi": "Cục diện trận chiến đang vô cùng bất lợi cho chúng ta. Rồi số phận khu định cư này sẽ trôi dạt về đâu!"
+    "vi": "Trận chiến này đang diễn biến bất lợi cho chúng ta. Rồi số phận chúng ta sẽ đi đâu về đâu!"
   },
   {
     "key": "effector_name_RaidLosingEffectorPos",
     "type": 0,
     "en": "Losing (positive)",
-    "vi": "Thua Trận (Giải Thoát)"
+    "vi": "Thua Trận (Nhẹ Nhõm)"
   },
   {
     "key": "effector_info_RaidLosingEffectorPos",
     "type": 0,
     "en": "I'm ready to give in - I look forward to this being over.",
-    "vi": "Ta đã sẵn sàng buông xuôi đầu hàng — ta chỉ mong mỏi tấn bi kịch này mau chóng khép lại."
+    "vi": "Ta đã sẵn sàng buông xuôi đầu hàng — ta chỉ mong chuyện này mau chóng kết thúc."
   },
   {
     "key": "effector_name_RaidWinningEffector",
@@ -129,7 +129,7 @@
     "key": "effector_info_RaidWinningEffector",
     "type": 0,
     "en": "Fortune is on our side! We may yet win the day.",
-    "vi": "Nữ thần may mắn đang mỉm cười với chúng ta! Chiến thắng vẻ vang ngày hôm nay ắt sẽ thuộc về ta."
+    "vi": "Vận may đang đứng về phía chúng ta! Hôm nay ắt hẳn chúng ta sẽ giành thắng lợi."
   },
   {
     "key": "building_name_merchant_table",
@@ -141,7 +141,7 @@
     "key": "building_info_merchant_table",
     "type": 0,
     "en": "A finely-polished surface, ideal for balancing ledgers and counting coins, or even collecting taxes!",
-    "vi": "Bề mặt gỗ được đánh bóng láng mịn, hoàn hảo để kê sổ cái cân đối thu chi, kiểm đếm tiền xu vàng, hoặc thậm chí dùng để thu thuế!"
+    "vi": "Một mặt bàn gỗ được đánh bóng láng mịn, lý tưởng để cân đối sổ sách, kiểm đếm tiền xu, hay thậm chí là thu thuế!"
   },
   {
     "key": "building_name_merchants_stall",
@@ -153,13 +153,13 @@
     "key": "building_info_merchants_stall",
     "type": 0,
     "en": "A rough awning, marking a spot where items change hands. Peddlers and street merchants may be found here.",
-    "vi": "Một mái hiên che dựng thô sơ, đánh dấu địa điểm giao thương hàng hóa tấp nập. Nơi lui tới quen thuộc của những người bán hàng rong và lái buôn qua đường."
+    "vi": "Một mái che dựng thô sơ, đánh dấu địa điểm trao đổi buôn bán hàng hóa. Những người bán rong và thương nhân đường phố có thể được tìm thấy tại đây."
   },
   {
     "key": "none_faction_name",
     "type": 0,
     "en": "Nonpartisan",
-    "vi": "Phe Trung Lập"
+    "vi": "Trung Lập"
   },
   {
     "key": "faction_type_faithful",
@@ -177,37 +177,37 @@
     "key": "faction_type_knowledge",
     "type": 0,
     "en": "Knowledge",
-    "vi": "Hội Học Giả Tri Thức"
+    "vi": "Tri Thức"
   },
   {
     "key": "faction_type_monarchy",
     "type": 0,
     "en": "Monarchy",
-    "vi": "Vương Triều Quân Chủ"
+    "vi": "Quân Chủ"
   },
   {
     "key": "faction_type_anarchy",
     "type": 0,
     "en": "Anarchy",
-    "vi": "Hội Vô Chính Phủ"
+    "vi": "Vô Chính Phủ"
   },
   {
     "key": "faction_type_cannibal",
     "type": 0,
     "en": "Cannibal",
-    "vi": "Bộ Tộc Ăn Thịt Người"
+    "vi": "Ăn Thịt Người"
   },
   {
     "key": "faction_type_bandits",
     "type": 0,
     "en": "Bandits",
-    "vi": "Băng Đảng Thổ Phỉ"
+    "vi": "Thổ Phỉ"
   },
   {
     "key": "faction_type_chaos",
     "type": 0,
     "en": "Chaos",
-    "vi": "Băng Đảng Hỗn Loạn"
+    "vi": "Hỗn Loạn"
   },
   {
     "key": "dev_spawn_random_raid",
@@ -261,13 +261,13 @@
     "key": "dev_event_group_Merchantgeneral",
     "type": 0,
     "en": "Guileful trader",
-    "vi": "Thương nhân khôn khéo"
+    "vi": "Thương nhân hàng bách hóa"
   },
   {
     "key": "dev_event_group_Merchantrare",
     "type": 0,
     "en": "Merchant caravan",
-    "vi": "Đoàn buôn thương nhân"
+    "vi": "Đoàn buôn hàng quý hiếm"
   },
   {
     "key": "dev_event_raid_new",
@@ -309,7 +309,7 @@
     "key": "dev_event_group_Merchantprisoner",
     "type": 0,
     "en": "Prisoner Merchant",
-    "vi": "Thương nhân buôn tù nhân"
+    "vi": "Thương nhân buôn tù binh"
   },
   {
     "key": "dev_npc_faction_select",
@@ -387,12 +387,12 @@
     "key": "dev_event_group_AnimalRaidWolf",
     "type": 0,
     "en": "Animal Raid (Wolf)",
-    "vi": "Thú hoang đột kích (Sói)"
+    "vi": "Đàn sói đói đột kích"
   },
   {
     "key": "dev_event_group_AnimalRaidRare",
     "type": 0,
     "en": "Animal Raid (Rare)",
-    "vi": "Thú hoang đột kích (Hiếm)"
+    "vi": "Dã thú hiếm đột kích"
   }
 ]

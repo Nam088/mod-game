@@ -3,7 +3,7 @@
     "key": "ingame_menu_resume",
     "type": 0,
     "en": "Resume",
-    "vi": "Tiếp Tục Trò Chơi"
+    "vi": "Tiếp Tục"
   },
   {
     "key": "ingame_menu_save",
@@ -87,7 +87,7 @@
     "key": "menu_load",
     "type": 0,
     "en": "Load",
-    "vi": "Tải Bản Lưu Game"
+    "vi": "Tải Bản Lưu"
   },
   {
     "key": "menu_main_menu",
@@ -99,7 +99,7 @@
     "key": "menu_options",
     "type": 0,
     "en": "Options",
-    "vi": "Tùy Chỉnh Cài Đặt"
+    "vi": "Tùy Chọn Cài Đặt"
   },
   {
     "key": "menu_quit",
@@ -117,13 +117,13 @@
     "key": "menu_map_seed",
     "type": 0,
     "en": "Random Seed",
-    "vi": "Mã hạt giống bản đồ"
+    "vi": "Mã hạt giống ngẫu nhiên"
   },
   {
     "key": "menu_region_map_seed",
     "type": 0,
     "en": "Region Seed",
-    "vi": "Mã vùng bản đồ"
+    "vi": "Mã hạt giống vùng"
   },
   {
     "key": "menu_map_seed_placeholder",
@@ -255,7 +255,7 @@
     "key": "menu_workers",
     "type": 0,
     "en": "Workers",
-    "vi": "Dân làng"
+    "vi": "Dân định cư"
   },
   {
     "key": "menu_color",
@@ -333,7 +333,7 @@
     "key": "options_credits",
     "type": 0,
     "en": "Credits",
-    "vi": "Đội ngũ"
+    "vi": "Đội ngũ phát triển"
   },
   {
     "key": "options_visibleInBackground",
@@ -393,7 +393,7 @@
     "key": "options_enviroment_particles_info",
     "type": 0,
     "en": "Particles like leaves and twigs fly from felled trees, and dust clouds are carried on the wind. Weather effects, like rain and fog, are unaffected.",
-    "vi": "Lá cây và cành con bay rụng khi đốn cây, bụi cát cuộn theo gió. Các hiệu ứng thời tiết như mưa và sương mù không bị ảnh hưởng."
+    "vi": "Lá cây và cành con rơi rụng khi đốn cây, bụi cát cuộn theo gió. Các hiệu ứng thời tiết như mưa và sương mù không bị ảnh hưởng."
   },
   {
     "key": "options_motionBlur",
@@ -405,13 +405,13 @@
     "key": "options_ambientOcclusion",
     "type": 0,
     "en": "Ambient Occlusion",
-    "vi": "Đổ bóng môi trường"
+    "vi": "Đổ bóng môi trường (AO)"
   },
   {
     "key": "options_bloom",
     "type": 0,
     "en": "Bloom",
-    "vi": "Lóa sáng"
+    "vi": "Hiệu ứng lóa sáng"
   },
   {
     "key": "options_vSync_everyBlock",
@@ -447,7 +447,7 @@
     "key": "options_aa_SMAA_medium",
     "type": 0,
     "en": "SMAA medium",
-    "vi": "SMAA vừa"
+    "vi": "SMAA trung bình"
   },
   {
     "key": "options_aa_SMAA_high",
@@ -465,7 +465,7 @@
     "key": "menu_roadmap",
     "type": 0,
     "en": "Roadmap",
-    "vi": "Lộ trình"
+    "vi": "Lộ trình phát triển"
   },
   {
     "key": "menu_patchnotes",
@@ -567,7 +567,7 @@
     "key": "options_legacy_camera",
     "type": 0,
     "en": "Legacy Mode",
-    "vi": "Chế Độ Camera Cổ Điển"
+    "vi": "Chế độ camera cổ điển"
   },
   {
     "key": "options_legacy_camera_info",
@@ -579,19 +579,19 @@
     "key": "options_twitch",
     "type": 0,
     "en": "Twitch",
-    "vi": "Tích Hợp Livestream Twitch"
+    "vi": "Tích hợp Twitch"
   },
   {
     "key": "menu_loading",
     "type": 0,
     "en": "Loading",
-    "vi": "Đang Tải Dữ Liệu..."
+    "vi": "Đang tải..."
   },
   {
     "key": "menu_migrating",
     "type": 0,
     "en": "Migrating",
-    "vi": "Đang Chuyển Đổi Dữ Liệu Lưu..."
+    "vi": "Đang chuyển đổi dữ liệu lưu..."
   },
   {
     "key": "menu_alcohol",
@@ -603,19 +603,19 @@
     "key": "info_menu_alcohol",
     "type": 0,
     "en": "The amount of alcohol a settler requires. If this need is not met, the settler will be unhappy.",
-    "vi": "Lượng rượu bia dân làng cần uống. Nếu không được đáp ứng, dân làng sẽ cảm thấy buồn bực và giảm tâm trạng."
+    "vi": "Lượng rượu bia dân định cư cần uống. Nếu nhu cầu này không được đáp ứng, dân định cư sẽ không vui và giảm tâm trạng."
   },
   {
     "key": "info_menu_faith",
     "type": 0,
     "en": "The amount of religious activity this settler requires. Settlers aligned farther from the center will need religious activities more often. If this need is not met, the settler will be unhappy.",
-    "vi": "Nhu cầu cầu nguyện và tham gia nghi lễ tôn giáo. Những người có đức tin càng sâu đậm sẽ cần cầu nguyện thường xuyên hơn. Nếu không được đáp ứng, họ sẽ cảm thấy bất an."
+    "vi": "Mức độ hoạt động tín ngưỡng mà dân định cư này cần. Những người có xu hướng tín ngưỡng càng sâu đậm sẽ cần hành lễ thường xuyên hơn. Nếu không được đáp ứng, họ sẽ không vui và bất an."
   },
   {
     "key": "menu_faith",
     "type": 0,
     "en": "Religious Activities",
-    "vi": "Nghi Lễ Tôn Giáo"
+    "vi": "Hoạt Động Tín Ngưỡng"
   },
   {
     "key": "menu_entertaiment",
@@ -627,7 +627,7 @@
     "key": "info_menu_entertaiment",
     "type": 0,
     "en": "The amount of entertainment activity a settler requires. If this need is not met, the settler will be unhappy.",
-    "vi": "Nhu cầu vui chơi giải trí của dân làng. Nếu không được đáp ứng, họ sẽ cảm thấy tẻ nhạt và bất mãn."
+    "vi": "Mức độ hoạt động giải trí mà dân định cư cần. Nếu không được đáp ứng, họ sẽ cảm thấy tẻ nhạt và bất mãn."
   },
   {
     "key": "menu_stomach",
@@ -639,7 +639,7 @@
     "key": "info_menu_stomach",
     "type": 0,
     "en": "This indicates how well this settler’s stomach is. Drinking alcohol and eating raw food especially meat can cause stomach upsets. If this number reaches 0 the settler will vomit. Carcasses and rotten piles can make the stomach turn as well.",
-    "vi": "Tình trạng sức khỏe hệ tiêu hóa của dân làng. Uống nhiều rượu và ăn thực phẩm sống (đặc biệt là thịt sống) sẽ gây đau bụng tiêu chảy. Nếu tụt về 0, dân làng sẽ nôn mửa liên tục."
+    "vi": "Tình trạng sức khỏe hệ tiêu hóa của dân định cư. Uống nhiều rượu và ăn thực phẩm sống (đặc biệt là thịt sống) sẽ gây đau bụng khó tiêu. Nếu tụt về 0, dân định cư sẽ nôn mửa liên tục."
   },
   {
     "key": "info_menu_blood",
@@ -663,13 +663,13 @@
     "key": "info_menu_hunger",
     "type": 0,
     "en": "Food: The amount of nutrition that is consumed. If it reaches 0% the settler will enter starvation mode and eventually die.",
-    "vi": "Mức độ no bụng của dân làng. Nếu cạn kiệt (0%), dân làng sẽ rơi vào tình trạng chết đói và dần dần mất mạng."
+    "vi": "Thức ăn: Lượng dinh dưỡng đã hấp thụ. Nếu cạn kiệt (0%), dân định cư sẽ rơi vào tình trạng chết đói và dần dần mất mạng."
   },
   {
     "key": "info_menu_pain",
     "type": 0,
     "en": "The amount of pain the settler is experiencing at that moment. Large amounts of pain will result in loss of consciousness.",
-    "vi": "Mức độ đau đớn thể xác mà đối tượng đang gánh chịu. Đau đớn vượt ngưỡng chịu đựng sẽ làm mất ý thức ngất xỉu."
+    "vi": "Mức độ đau đớn thể xác mà đối tượng đang gánh chịu. Đau đớn vượt ngưỡng chịu đựng sẽ làm mất ý thức và ngất xỉu."
   },
   {
     "key": "info_menu_rot",
@@ -681,13 +681,13 @@
     "key": "info_menu_sleep",
     "type": 0,
     "en": "Sleep: Amount of sleep the settler has had. If it reaches 0% the settler will faint.",
-    "vi": "Mức độ phục hồi qua giấc ngủ. Nếu cạn kiệt (0%), dân làng sẽ gục ngã vì kiệt sức."
+    "vi": "Giấc ngủ: Mức độ phục hồi qua giấc ngủ. Nếu cạn kiệt (0%), dân định cư sẽ gục ngã vì kiệt sức."
   },
   {
     "key": "info_menu_storage",
     "type": 0,
     "en": "Storage amount: The amount of resources stored in this pile.",
-    "vi": "Sức chứa tài nguyên hiện tại trong đống đồ."
+    "vi": "Sức chứa tài nguyên: Lượng tài nguyên đang được lưu trữ trong đống đồ này."
   },
   {
     "key": "menu_health",
@@ -735,19 +735,19 @@
     "key": "menu_ReligiousAlignment",
     "type": 0,
     "en": "Religious Alignment",
-    "vi": "Khuynh Hướng Tôn Giáo"
+    "vi": "Xu Hướng Tín Ngưỡng"
   },
   {
     "key": "menu_Inebriated",
     "type": 0,
     "en": "Inebriated",
-    "vi": "Tình Trạng Say Xỉn"
+    "vi": "Tình Trạng Say Rượu"
   },
   {
     "key": "menu_Canibal",
     "type": 0,
     "en": "Cannibal",
-    "vi": "Thói Quen Ăn Thịt Người"
+    "vi": "Ăn Thịt Người"
   },
   {
     "key": "menu_character_age",
@@ -783,13 +783,13 @@
     "key": "menu_character_religious",
     "type": 0,
     "en": "Religious Alignment",
-    "vi": "Khuynh Hướng Tôn Giáo"
+    "vi": "Xu Hướng Tín Ngưỡng"
   },
   {
     "key": "menu_character_societal",
     "type": 0,
     "en": "Societal Alignment",
-    "vi": "Khuynh Hướng Xã Hội"
+    "vi": "Xu Hướng Xã Hội"
   },
   {
     "key": "menu_character_weight",
@@ -801,7 +801,7 @@
     "key": "menu_Pain",
     "type": 0,
     "en": "Pain",
-    "vi": "Cơn Đau Đớn"
+    "vi": "Mức Độ Đau Đớn"
   },
   {
     "key": "menu_comfort",
@@ -813,7 +813,7 @@
     "key": "info_menu_comfort",
     "type": 0,
     "en": "The settler's comfort level. Better beds, chairs and clothes will result in a higher value. Increased comfort will give positive mood modifiers.",
-    "vi": "Mức độ tiện nghi của dân làng. Giường nệm êm ái, bàn ghế đẹp và y phục cao cấp sẽ gia tăng chỉ số này, mang lại nhiều hiệu ứng tâm trạng tích cực."
+    "vi": "Mức độ tiện nghi của dân định cư. Giường nệm êm ái, bàn ghế đẹp và y phục cao cấp sẽ gia tăng chỉ số này, mang lại nhiều hiệu ứng tâm trạng tích cực."
   },
   {
     "key": "menu_beauty_points",
@@ -843,7 +843,7 @@
     "key": "info_menu_beauty",
     "type": 0,
     "en": "The settler's requirement for beautiful surroundings. When settlers are around aesthetically pleasing items, like art, this will result in a higher value.",
-    "vi": "Nhu cầu chiêm ngưỡng cái đẹp của dân làng. Khi sống giữa không gian bài trí nghệ thuật đẹp đẽ, chỉ số tâm trạng sẽ gia tăng mạnh mẽ."
+    "vi": "Nhu cầu chiêm ngưỡng cái đẹp của dân định cư. Khi sống giữa không gian bài trí nghệ thuật đẹp đẽ, chỉ số tâm trạng sẽ gia tăng mạnh mẽ."
   },
   {
     "key": "menu_Social",
@@ -855,7 +855,7 @@
     "key": "info_menu_social",
     "type": 0,
     "en": "The settler's requirement for social interactions. Having your settler interact with others will fulfill their need for social interactions",
-    "vi": "Nhu cầu giao lưu chuyện trò của dân làng. Để dân làng tương tác và trò chuyện cùng nhau sẽ giúp thỏa mãn nhu cầu này."
+    "vi": "Nhu cầu giao lưu chuyện trò của dân định cư. Để dân định cư tương tác và trò chuyện cùng nhau sẽ giúp thỏa mãn nhu cầu này."
   },
   {
     "key": "menu_malnutrition",
@@ -885,7 +885,7 @@
     "key": "produce_settings_panel_assign_description",
     "type": 0,
     "en": "Limit which settler can work on this product",
-    "vi": "Chỉ định giới hạn dân làng nào được phép gia công sản phẩm này"
+    "vi": "Chỉ định giới hạn dân định cư nào được phép gia công sản phẩm này"
   },
   {
     "key": "menu_item_hit_points",

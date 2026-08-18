@@ -15,7 +15,7 @@
     "key": "dev_convertAllBuildingsToEnemyOwned",
     "type": 0,
     "en": "Convert All Buildings to Enemy Owned",
-    "vi": "Chuyển toàn bộ công trình thuộc sở hữu kẻ thù"
+    "vi": "Chuyển toàn bộ công trình sang quyền sở hữu của kẻ thù"
   },
   {
     "key": "dev_tooltip_convertAllBuildingsToEnemyOwned",
@@ -33,7 +33,7 @@
     "key": "dev_tooltip_destroy_all_buildings",
     "type": 0,
     "en": "Destroys all buildings on the map",
-    "vi": "Phá hủy toàn bộ tất cả công trình trên bản đồ"
+    "vi": "Phá hủy toàn bộ công trình trên bản đồ"
   },
   {
     "key": "dev_enable_manual_construct_commander_input",
