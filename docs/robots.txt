@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nam088.github.io/mod-game/sitemap.xml

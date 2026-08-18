@@ -1,0 +1,360 @@
+[
+  {
+    "id": "going-medieval",
+    "title": "Going Medieval",
+    "genre": "Mô phỏng Xây dựng & Quản lý Thuộc địa",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.0 (Mới nhất)",
+    "keys_count": "8,877 keys",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/going_medieval_preview.png",
+    "screenshot": "assets/images/going_medieval_PreviewTranslation.png",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/Going-Medieval/dist/GoingMedieval-VietnameseMod-v1.0.0.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/Going-Medieval",
+    "tagline": "Xây dựng pháo đài Trung cổ 3D & Sinh tồn sau đại dịch 1346",
+    "description": "Bản dịch Việt hóa trọn vẹn 100% cho Going Medieval. Bản địa hóa toàn diện 8.877 chuỗi từ vựng, hệ thống phân công 7 chức vụ cộng đồng, cây công nghệ nghiên cứu, cơ chế vật lý xây dựng chịu lực, vũ khí thời Trung cổ và các chuỗi sự kiện lễ hội, thời tiết khắc nghiệt.",
+    "highlights": [
+      "Việt hóa 100% (8.877 keys) - 0 lỗi font, hỗ trợ đầy đủ tiếng Việt có dấu.",
+      "Chuẩn hóa 7 chức vụ cộng đồng: Đội Trưởng Lính Gác, Thương Lái, Linh Mục, Đạo Sĩ, Cai Ngục, Thủ Thư, Người Hát Rong.",
+      "Hệ thống vũ khí & giáp trụ thuần Việt: Cung Ngắn, Cung Dài, Chiến Cung, Đại Nỏ, Kiếm Hiệp Sĩ, Búa Chiến, Giáp Tấm Thép...",
+      "Hỗ trợ các sự kiện làng hấp dẫn: Đại Yến Tiệc, Buổi Giảng Sách, Thánh Lễ Giảng Đạo, Nghi Lễ Cây Sồi, Huấn Luyện Quân Sự."
+    ],
+    "install_guide": [
+      "Tải file `GoingMedieval-VietnameseMod-v1.0.0.zip` về máy.",
+      "Giải nén thư mục `VietnameseLocalization` vào đường dẫn: `%USERPROFILE%\\Documents\\Foxy Voxel\\Going Medieval\\Mods`.",
+      "Vào game -> Chọn Cài đặt (Settings) -> Ngôn ngữ (Language) -> Chọn `Tiếng Việt` và thưởng thức!"
+    ],
+    "preview_terms": [
+      {
+        "en": "Sergeant-at-arms",
+        "vi": "Đội Trưởng Lính Gác",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Broker",
+        "vi": "Thương Lái",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Chaplain",
+        "vi": "Linh Mục",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Druid",
+        "vi": "Đạo Sĩ",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Prison Warden",
+        "vi": "Cai Ngục",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Librarian",
+        "vi": "Thủ Thư",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Bard",
+        "vi": "Người Hát Rong",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Heavy Crossbow",
+        "vi": "Đại Nỏ",
+        "cat": "Vũ khí"
+      },
+      {
+        "en": "Longbow",
+        "vi": "Cung Dài (Trường Cung)",
+        "cat": "Vũ khí"
+      },
+      {
+        "en": "Knightly Sword",
+        "vi": "Kiếm Hiệp Sĩ",
+        "cat": "Vũ khí"
+      },
+      {
+        "en": "Study Group",
+        "vi": "Buổi Giảng Sách",
+        "cat": "Sự kiện"
+      },
+      {
+        "en": "Cold Snap",
+        "vi": "Đợt Rét Đậm",
+        "cat": "Thời tiết"
+      }
+    ]
+  },
+  {
+    "id": "against-the-storm",
+    "title": "Against The Storm",
+    "genre": "Sinh tồn Xây dựng Thành phố Roguelite",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.2 (Mới nhất)",
+    "keys_count": "8,190+ keys",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/against_the_storm_preview.png",
+    "screenshot": "assets/images/against_the_storm_preview.jpg",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/Against-The-Storm/dist/Against-The-Storm-Vietnamese-Mod-v1.0.2.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/Against-The-Storm",
+    "tagline": "Khai phá hoang dã & Chinh phục Bão Blight dưới lệnh Nữ Hoàng",
+    "description": "Bản dịch Việt hóa trọn vẹn 100% cho Against the Storm. Tích hợp Plugin C# Dual Font Override tự động thay thế font chữ Arial & Georgia, khắc phục triệt để 100% lỗi font tiếng Việt. Dịch chi tiết từng câu chữ không tóm tắt, chuẩn hóa bộ thuật ngữ game thủ chuẩn quốc tế.",
+    "highlights": [
+      "Tích hợp Plugin C# Dual Font Override khắc phục 100% lỗi font chữ hiển thị.",
+      "Việt hóa toàn bộ 8.190+ chuỗi nội dung, cây nâng cấp Hoàng Thành Tro Tàn, Đá Nền & Sắc Lệnh.",
+      "Chuẩn hóa thuật ngữ: Lò Sưởi (Hearth), Ý Chí (Resolve), Vùng Rừng (Glade), Bão Blight (Blightstorm)...",
+      "Tương thích mượt mà với phiên bản Steam & Epic Games mới nhất."
+    ],
+    "install_guide": [
+      "Tải file `Against-The-Storm-Vietnamese-Mod-v1.0.2.zip` về máy.",
+      "Giải nén và copy toàn bộ các file vào thư mục cài game (nơi chứa file `Against the Storm.exe`).",
+      "Mở game, vào Options -> Gameplay -> Language -> Chọn `Tiếng Việt`."
+    ],
+    "preview_terms": [
+      {
+        "en": "Viceroy",
+        "vi": "Quan Tổng Đốc",
+        "cat": "Chức vụ"
+      },
+      {
+        "en": "Smoldering City",
+        "vi": "Hoàng Thành Tro Tàn",
+        "cat": "Địa danh"
+      },
+      {
+        "en": "Blightstorm",
+        "vi": "Bão Blight",
+        "cat": "Sự kiện"
+      },
+      {
+        "en": "Cornerstone",
+        "vi": "Đá Nền",
+        "cat": "Cơ chế"
+      },
+      {
+        "en": "Resolve",
+        "vi": "Ý Chí",
+        "cat": "Chỉ số"
+      },
+      {
+        "en": "Ancient Hearth",
+        "vi": "Lò Sưởi Cổ Đại",
+        "cat": "Công trình"
+      }
+    ]
+  },
+  {
+    "id": "manor-lords",
+    "title": "Manor Lords",
+    "genre": "Xây dựng Lãnh địa & Chiến thuật Trung cổ (UE5)",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.0 (Mới nhất)",
+    "keys_count": "Toàn diện",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/manor_lords_preview.png",
+    "screenshot": "assets/images/manor_lords_banner.jpg",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/Manor-Lords/dist/Manor-Lords-Vietnamese-Mod-v1.0.0.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/Manor-Lords",
+    "tagline": "Trải nghiệm cuộc sống lãnh chúa thời Trung cổ chân thực trên Unreal Engine 5",
+    "description": "Bản mod Việt hóa đỉnh cao dành cho siêu phẩm Manor Lords. Tùy biến font chữ Unreal Engine 5 sắc nét không vỡ chữ, dịch thuật tỉ mỉ từng chính sách lãnh chúa, quy hoạch nông thôn theo lưới hữu cơ, chuỗi cung ứng hàng hóa và điều khiển đội hình quân đoàn tác chiến.",
+    "highlights": [
+      "Xử lý bộ Font chữ Unreal Engine 5.5 sắc nét, chuẩn Unicode tiếng Việt không lỗi dấu.",
+      "Dịch trọn vẹn hệ thống quy hoạch làng xóm, ruộng đất, chăn nuôi, lò rèn và thu thuế.",
+      "Hệ thống lệnh quân sự & chiến thuật điều binh chân thực thời phong kiến.",
+      "Đóng gói dạng file PAK nạp trực tiếp siêu nhẹ và ổn định."
+    ],
+    "install_guide": [
+      "Tải file `Manor-Lords-Vietnamese-Mod-v1.0.0.zip` về máy.",
+      "Giải nén file `pakchunk99-Vietnamese_P.pak` vào thư mục: `ManorLords/Content/Paks/~mods` (nếu chưa có thư mục `~mods` thì tự tạo mới).",
+      "Khởi động game để tận hưởng giao diện Tiếng Việt hoàn mỹ!"
+    ],
+    "preview_terms": [
+      {
+        "en": "Burgage Plot",
+        "vi": "Khu Đất Định Cư",
+        "cat": "Công trình"
+      },
+      {
+        "en": "Oxen",
+        "vi": "Bò Kéo Gỗ",
+        "cat": "Vận chuyển"
+      },
+      {
+        "en": "Tithe",
+        "vi": "Thuế Thập Phân",
+        "cat": "Chính sách"
+      },
+      {
+        "en": "Retinue",
+        "vi": "Đội Thị Vệ Tinh Nhuệ",
+        "cat": "Quân sự"
+      },
+      {
+        "en": "Militia",
+        "vi": "Dân Binh Địa Phương",
+        "cat": "Quân sự"
+      }
+    ]
+  },
+  {
+    "id": "timberborn",
+    "title": "Timberborn",
+    "genre": "Xây dựng Thành phố Xã hội Hải Ly Hậu Tận Thế",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.1 (Mới nhất)",
+    "keys_count": "Toàn diện",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/timberborn_preview.png",
+    "screenshot": "assets/images/timberborn_preview.jpg",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/Timberborn/dist/Timberborn-Vietnamese-Mod-v1.0.1.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/Timberborn",
+    "tagline": "Xây đập ngăn nước & Dựng thành phố gỗ nhiều tầng cho loài hải ly",
+    "description": "Bản mod Việt hóa chính thức cho Timberborn theo cấu trúc chuẩn VietnameseLanguage. Hỗ trợ trọn vẹn cả hai chủng tộc hải ly Folktails và Iron Teeth, hệ thống công trình gỗ nhiều tầng, quản lý dòng chảy thủy điện, kênh đập và sinh tồn qua các đợt hạn hán khốc liệt.",
+    "highlights": [
+      "Cấu trúc Mod chính thức hỗ trợ sẵn cơ chế Modding qua manifest.json và Localizations.",
+      "Dịch trọn vẹn tên các công trình gỗ, máy móc cơ khí, đập nước, động cơ hơi nước...",
+      "Hỗ trợ đầy đủ các mùa hạn hán (Drought) và nước ô nhiễm độc hại (Badwater).",
+      "Cài đặt 1-click vô cùng dễ dàng và nhanh chóng."
+    ],
+    "install_guide": [
+      "Tải file `Timberborn-Vietnamese-Mod-v1.0.1.zip` về máy.",
+      "Giải nén vào thư mục `Documents\\Timberborn\\Mods`.",
+      "Vào game -> Kích hoạt Mod trong menu Mod -> Chọn ngôn ngữ `Tiếng Việt`."
+    ],
+    "preview_terms": [
+      {
+        "en": "Folktails",
+        "vi": "Chủng Hải Ly Nông Nghiệp",
+        "cat": "Chủng tộc"
+      },
+      {
+        "en": "Iron Teeth",
+        "vi": "Chủng Hải Ly Công Nghiệp",
+        "cat": "Chủng tộc"
+      },
+      {
+        "en": "Drought",
+        "vi": "Mùa Hạn Hán",
+        "cat": "Thời tiết"
+      },
+      {
+        "en": "Badwater",
+        "vi": "Nguồn Nước Độc",
+        "cat": "Môi trường"
+      },
+      {
+        "en": "Water Pump",
+        "vi": "Máy Bơm Nước",
+        "cat": "Công trình"
+      }
+    ]
+  },
+  {
+    "id": "worldbox",
+    "title": "WorldBox - God Simulator",
+    "genre": "Mô phỏng Thần Thánh Thế Giới Cát (Sandbox)",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.1 (Mới nhất)",
+    "keys_count": "Toàn diện",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/worldbox_preview.png",
+    "screenshot": "assets/images/worldbox_screenshot1.png",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/WorldBox/dist/WorldBox-Vietnamese-Mod-v1.0.1.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/WorldBox",
+    "tagline": "Hóa thân thành Đấng Sáng Tạo tối cao & Kiến tạo các nền văn minh",
+    "description": "Bản mod Việt hóa hoàn hảo cho WorldBox - God Simulator. Dịch trọn vẹn 100% quyền năng thần thánh, các chủng tộc Người, Tiên, Lùn, Orc, bảng thuộc tính sinh vật, cây tiến hóa văn minh vương quốc, trang bị thần thoại và các thảm họa hủy diệt thế giới.",
+    "highlights": [
+      "Dịch trọn vẹn các phép màu thần thánh, bảng điều khiển tự nhiên, chiến tranh và hủy diệt.",
+      "Việt hóa chi tiết từng đặc điểm tính cách (Traits), danh hiệu và vũ khí truyền thuyết.",
+      "Hỗ trợ phân tích cây phả hệ, lịch sử đế chế và diễn biến chiến tranh giữa các quốc gia.",
+      "Tương thích cả bản Steam PC và các phiên bản ModLoader."
+    ],
+    "install_guide": [
+      "Tải file `WorldBox-Vietnamese-Mod-v1.0.1.zip` về máy.",
+      "Giải nén và copy thư mục vào thư mục `worldbox_Data/StreamingAssets/locales` hoặc thư mục Mods.",
+      "Vào game -> Settings -> Ngôn ngữ -> Chọn `Tiếng Việt`."
+    ],
+    "preview_terms": [
+      {
+        "en": "Divine Light",
+        "vi": "Ánh Sáng Thần Thánh",
+        "cat": "Phép màu"
+      },
+      {
+        "en": "Immortal",
+        "vi": "Bất Tử",
+        "cat": "Đặc tính"
+      },
+      {
+        "en": "Kingdom Culture",
+        "vi": "Văn Hóa Vương Quốc",
+        "cat": "Văn minh"
+      },
+      {
+        "en": "Dragon",
+        "vi": "Rồng Lửa Cổ Đại",
+        "cat": "Sinh vật"
+      },
+      {
+        "en": "Infinity Coin",
+        "vi": "Đồng Xu Vô Cực",
+        "cat": "Bảo vật"
+      }
+    ]
+  },
+  {
+    "id": "oxygen-not-included",
+    "title": "Oxygen Not Included",
+    "genre": "Mô phỏng Quản lý & Sinh tồn Thuộc Địa Không Gian",
+    "badge": "100% Hoàn Thiện",
+    "version": "v1.0.2 (Mới nhất)",
+    "keys_count": "Toàn diện",
+    "rating": "5.0 ★★★★★",
+    "image": "assets/images/oxygen_not_included_preview.png",
+    "screenshot": "assets/images/oxygen_not_included_preview.jpg",
+    "download_url": "https://github.com/Nam088/mod-game/raw/master/Oxygen-Not-Included/dist/Oxygen-Not-Included-Vietnamese-v1.0.2.zip",
+    "github_folder": "https://github.com/Nam088/mod-game/tree/master/Oxygen-Not-Included",
+    "tagline": "Chỉ huy phi hành đoàn sinh tồn trong lòng tiểu hành tinh khắc nghiệt",
+    "description": "Bản dịch Việt hóa chuẩn hóa sâu rộng cho Oxygen Not Included (Klei Entertainment). Dịch chuẩn từng phương trình nhiệt động lực học, hệ thống khí oxi, đường ống nước, mạch điện tự động hóa, chu trình sinh hóa và công nghệ khám phá vũ trụ tên lửa.",
+    "highlights": [
+      "Dịch trọn vẹn hệ thống đường ống khí/nước, tự động hóa logic và kỹ thuật phòng thí nghiệm.",
+      "Chuẩn hóa thuật ngữ khoa học vật lý và hóa học dễ hiểu cho người chơi mới.",
+      "Tương thích phiên bản game gốc cùng các DLC Spaced Out! & The Frosty Planet Pack.",
+      "Hỗ trợ tải qua Steam Workshop hoặc cài đặt trực tiếp file ZIP."
+    ],
+    "install_guide": [
+      "Tải file `Oxygen-Not-Included-Vietnamese-v1.0.2.zip` về máy.",
+      "Giải nén vào thư mục `Documents\\Klei\\OxygenNotIncluded\\mods\\Local\\Vietnamese`.",
+      "Vào game -> Translations (Bản dịch) -> Chọn `Tiếng Việt`."
+    ],
+    "preview_terms": [
+      {
+        "en": "Oxygen Diffuser",
+        "vi": "Máy Khuếch Tán Oxi",
+        "cat": "Công trình"
+      },
+      {
+        "en": "Carbon Dioxide",
+        "vi": "Khí CO2 (Cacbon Dioxit)",
+        "cat": "Nguyên tố"
+      },
+      {
+        "en": "Electrolyzer",
+        "vi": "Máy Điện Phân Nước",
+        "cat": "Công nghệ"
+      },
+      {
+        "en": "Duplicant",
+        "vi": "Nhân Bản Vô Tính (Dân làng)",
+        "cat": "Nhân vật"
+      },
+      {
+        "en": "Overheating",
+        "vi": "Quá Nhiệt Công Trình",
+        "cat": "Cảnh báo"
+      }
+    ]
+  }
+]
