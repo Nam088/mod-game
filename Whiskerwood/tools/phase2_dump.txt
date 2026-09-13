@@ -1,0 +1,1281 @@
+[000] KEY: building.stonepath
+EN: Stone Path
+---
+[001] KEY: building.stairs
+EN: Long Stairs
+---
+[002] KEY: building.ladder
+EN: Steep Stairs
+---
+[003] KEY: building.slide
+EN: Slide
+---
+[004] KEY: building.conveyor
+EN: Whisker Conveyor
+---
+[005] KEY: building.logisticshud
+EN: Freight Hub
+---
+[006] KEY: building.woodcutter
+EN: Woodcutter
+---
+[007] KEY: building.stonecutter
+EN: Stonecutter Camp
+---
+[008] KEY: building.gatheringcamp
+EN: Forage Hut
+---
+[009] KEY: building.fishingdock
+EN: Fishing Dock
+---
+[010] KEY: building.fishery
+EN: Smokery
+---
+[011] KEY: building.lumbermill
+EN: Sawmill
+---
+[012] KEY: building.granary
+EN: Granary
+---
+[013] KEY: building.brickmaker
+EN: Stone Cutter
+---
+[014] KEY: building.repair
+EN: Maintenance Bay
+---
+[015] KEY: building.stewbrewery
+EN: Soup Kitchen
+---
+[016] KEY: building.finekitchen
+EN: Fine Kitchen
+---
+[017] KEY: building.charcoalfurnace
+EN: Charcoal Furnace
+---
+[018] KEY: building.lab
+EN: Engineering Lab
+---
+[019] KEY: building.townhall
+EN: Town Hall
+---
+[020] KEY: building.factiondock
+EN: Main Dock
+---
+[021] KEY: building.eatery
+EN: Cafe
+---
+[022] KEY: building.smallwell
+EN: Small Well
+---
+[023] KEY: building.trashcollection
+EN: Trash Collector
+---
+[024] KEY: building.restroom
+EN: Restroom
+---
+[025] KEY: building.flowerbed
+EN: Flowerbed
+---
+[026] KEY: building.bonfire
+EN: Bonfire
+---
+[027] KEY: building.statue
+EN: Claws Visage
+---
+[028] KEY: building.bonsai
+EN: Bonsai
+---
+[029] KEY: building.smallplanter
+EN: Small Planter
+---
+[030] KEY: building.woodbench
+EN: Wooden Bench
+---
+[031] KEY: building.signpost
+EN: Signpost
+---
+[032] KEY: building.windmill
+EN: Windmill
+---
+[033] KEY: building.raincatcher
+EN: Moisture Harvester
+---
+[034] KEY: building.warehouse
+EN: Central Warehouse
+---
+[035] KEY: building.smallwarehouse
+EN: Small Warehouse
+---
+[036] KEY: building.sensortower
+EN: Sensor Tower
+---
+[037] KEY: building.battery
+EN: Battery
+---
+[038] KEY: building.farm
+EN: Farm
+---
+[039] KEY: aim.flat
+EN: Flat Belt
+---
+[040] KEY: aim.lift
+EN: Up-Lift Stairs
+---
+[041] KEY: aim.slide
+EN: Down-Drop Slide
+---
+[042] KEY: aim.flat.desc
+EN: Rolling belt which moves resources from Input Hoppers to receiving destinations.
+---
+[043] KEY: aim.lift.desc
+EN: Lifts resources on belts to a higher elevation.
+---
+[044] KEY: aim.slide.desc
+EN: Slides resources on belts down to a lower elevation.
+---
+[045] KEY: aim.inbox
+EN: Input Hopper
+---
+[046] KEY: aim.outbox
+EN: Output Storehouse
+---
+[047] KEY: aim.inbox.desc
+EN: Drop-off location that feeds into conveyor belts.
+
+Configure allowed resources.
+
+Industries can assign their outputs to be delivered here.
+---
+[048] KEY: aim.outbox.desc
+EN: Catching box to temporarily hold received items for later manual transport. Limited capacity.
+---
+[049] KEY: building.miningcamp
+EN: Mining Camp
+---
+[050] KEY: building.heater
+EN: Heating Stove
+---
+[051] KEY: building.chimes
+EN: Wind Chimes
+---
+[052] KEY: building.oresmelter
+EN: Ore Furnace
+---
+[053] KEY: building.toolmaker
+EN: Coppersmith
+---
+[054] KEY: building.waterpump
+EN: Water Pump
+---
+[055] KEY: building.mousewheel
+EN: Whisker Wheel
+---
+[056] KEY: building.elevatorshaft
+EN: Elevator Shaft
+---
+[057] KEY: building.elevatorentrance
+EN: Elevator Entrance
+---
+[058] KEY: building.logabode
+EN: Log Cabin
+---
+[059] KEY: building.wheat
+EN: Wheat
+---
+[060] KEY: building.cheatheater
+EN: Debug Heater
+---
+[061] KEY: building.pipe
+EN: Water Pipe
+---
+[062] KEY: building.steampipe
+EN: Steam Pipe
+---
+[063] KEY: building.coalProcessor
+EN: Sifting Tower
+---
+[064] KEY: building.teahouse
+EN: Teahouse
+---
+[065] KEY: building.firetender
+EN: Fire Tender
+---
+[066] KEY: building.bathhouse
+EN: Bathhouse
+---
+[067] KEY: building.waterfountain
+EN: Water Fountain
+---
+[068] KEY: building.logisticshub
+EN: Logistics Hub
+---
+[069] KEY: building.smallgranary
+EN: Small Granary
+---
+[070] KEY: building.stonewall
+EN: Stone Wall
+---
+[071] KEY: building.steamboiler
+EN: Steam Boiler
+---
+[072] KEY: building.radiator
+EN: Steam Radiator
+---
+[073] KEY: building.researcharchive
+EN: Research Archive
+---
+[074] KEY: building.watertower
+EN: Water Tank
+---
+[075] KEY: building.tinyhouse1
+EN: Plank Abode
+---
+[076] KEY: building.tinyhouse2
+EN: Stone Abode
+---
+[077] KEY: building.tinyhouse3
+EN: Elegant Abode
+---
+[078] KEY: building.smallhouse1
+EN: Plank Blockhouse
+---
+[079] KEY: building.smallhouse2
+EN: Stone Blockhouse
+---
+[080] KEY: building.smallhouse3
+EN: Elegant Blockhouse
+---
+[081] KEY: building.rowhouse1
+EN: Plank Rowhouse
+---
+[082] KEY: building.rowhouse2
+EN: Stone Rowhouse
+---
+[083] KEY: building.rowhouse3
+EN: Elegant Rowhouse
+---
+[084] KEY: building.steamtank
+EN: Steam Tank
+---
+[085] KEY: building.furnituremaker
+EN: Carpenter
+---
+[086] KEY: building.supplier
+EN: Luxuries Supplier
+---
+[087] KEY: building.triage
+EN: Medical Triage
+---
+[088] KEY: building.farmplot
+EN: Crop Field
+---
+[089] KEY: building.ladderTurn
+EN: Steep Stairs Turn
+---
+[090] KEY: building.smallshipyard
+EN: Small Shipyard
+---
+[091] KEY: building.bakery
+EN: Bakery
+---
+[092] KEY: building.tailor
+EN: Tailor
+---
+[093] KEY: building.office
+EN: Civic Office
+---
+[094] KEY: building.weaver
+EN: Weaver
+---
+[095] KEY: building.steamvalve
+EN: Steam Valve
+---
+[096] KEY: building.steamengine
+EN: Steam Engine
+---
+[097] KEY: building.miningladder
+EN: Mining Ladders
+---
+[098] KEY: building.waterstatue
+EN: Decorative Fountain
+---
+[099] KEY: building.stonestairs
+EN: Stone Stairs
+---
+[100] KEY: building.stairs.desc
+EN: Quality wooden staircase. Faster and more comfortable than steep stairs.
+---
+[101] KEY: building.stonestairs.desc
+EN: Sturdy stone staircase.
+---
+[102] KEY: building.fastfloor.desc
+EN: Very even path of cut stone.
+---
+[103] KEY: building.conveyor.desc
+EN: Powered Whisker-Mover that moves Whiskers quickly in one direction.
+---
+[104] KEY: building.slide.desc
+EN: A quick way for Whiskers to go down.
+
+Chaining together maintains momentum.
+---
+[105] KEY: building.shortstairs.desc
+EN: Compact but precarious stairs.
+---
+[106] KEY: building.shortstairs_turnLeft.desc
+EN: Compact but precarious stairs in a leftward spiral.
+---
+[107] KEY: building.shortstairs_turnRight.desc
+EN: Compact but precarious stairs in a rightward spiral.
+---
+[108] KEY: building.elevatorEntrance.desc
+EN: Elevator segment with an entrance landing.
+---
+[109] KEY: building.elevatorShaft.desc
+EN: Elevator segment without entrance landing.
+---
+[110] KEY: building.bridge_medium.desc
+EN: Connects two stable positions without needing supports.
+---
+[111] KEY: building.lumbermill.desc
+EN: Cuts logs into wooden planks.
+---
+[112] KEY: building.brickmaker.desc
+EN: Cuts raw stone into more versatile building materials.
+---
+[113] KEY: building.weaver.desc
+EN: Weaves flax into woven cloaks or fine threads into fabric.
+---
+[114] KEY: building.fishery.desc
+EN: Cooks raw fish into something more healthy.
+---
+[115] KEY: building.stewery.desc
+EN: Prepares soups and stews.
+---
+[116] KEY: building.finekitchen.desc
+EN: Prepares fine meals using rare spices.
+---
+[117] KEY: building.bakery.desc
+EN: Bakes fresh bread and pastry.
+---
+[118] KEY: building.charcoalFurnace.desc
+EN: Processes logs into a generic fuel source.
+---
+[119] KEY: building.coalProcessor.desc
+EN: Processes nonmetal ores into refined materials.
+---
+[120] KEY: building.oresmelter.desc
+EN: Refines metal ores with low melting points into ingots.
+---
+[121] KEY: building.toolmaker.desc
+EN: Crafts useful items out of copper and bronze.
+---
+[122] KEY: building.tailor.desc
+EN: Sews insulated cloaks and other refined textiles.
+---
+[123] KEY: building.furnitureMaker.desc
+EN: Crafts wooden tools and goods.
+---
+[124] KEY: building.researchbuilding.desc
+EN: Generates Research to unlock new technologies for your Whiskers
+---
+[125] KEY: building.archive.desc
+EN: Increases storage capacity of science.
+---
+[126] KEY: building.park.desc
+EN: Large walkable patch of greenery.
+---
+[127] KEY: building.flowerbed.desc
+EN: Small bed of wildflowers.
+---
+[128] KEY: building.smallstatue.desc
+EN: Intimidating visage of a Claw.
+---
+[129] KEY: building.smallplanter.desc
+EN: Wooden planter full of wildflowers.
+---
+[130] KEY: building.woodenbench.desc
+EN: A nice spot to take a rest.
+---
+[131] KEY: building.signpost.desc
+EN: Billboard to communicate and document.
+---
+[132] KEY: building.stonewall.desc
+EN: Decorative stone wall for enclosure or support.
+---
+[133] KEY: building.stonegate.desc
+EN: Passable stone gate.
+---
+[134] KEY: building.chimes.desc
+EN: Turns the wind into music.
+---
+[135] KEY: building.waterstatue.desc
+EN: Impressive fountain. Requires access to water.
+---
+[136] KEY: building.mousewheel.desc
+EN: Generates power from sweat.
+---
+[137] KEY: building.pipe.liquid.desc
+EN: Pipe for transporting water.
+---
+[138] KEY: building.waterpump.desc
+EN: Pumps water from the shore.
+---
+[139] KEY: building.watertower.desc
+EN: Holds a large amount of water.
+---
+[140] KEY: building.pipe.steam.desc
+EN: Pipe for transporting hot steam.
+---
+[141] KEY: building.steamvalve.desc
+EN: Closable valve. Automatically closes if input side is below configured threshold.
+---
+[142] KEY: building.steamboiler.desc
+EN: Boils water into steam.
+---
+[143] KEY: building.steamtank.desc
+EN: Holds a large amount of steam.
+---
+[144] KEY: building.radiator.desc
+EN: Heats area with piped-in steam.
+---
+[145] KEY: building.steamengine.desc
+EN: Provides speed or production bonuses to adjacent buildings with steam power.
+---
+[146] KEY: building.infiniteFluidSource.desc
+EN: Produces infinite water and steam.
+---
+[147] KEY: building.infiniteFluidSink.desc
+EN: Sinks infinite water and steam.
+---
+[148] KEY: building.infiniteResourceSource.desc
+EN: Produces infinite resources.
+---
+[149] KEY: building.infiniteResourceSink.desc
+EN: Sinks infinite resources.
+---
+[150] KEY: building.woodcutter.desc
+EN: Cuts down nearby trees.
+---
+[151] KEY: building.gatherer.desc
+EN: Gathers nearby wild plants.
+---
+[152] KEY: building.fishingdock.desc
+EN: Catches shallow-water fish at the edge of the isle.
+---
+[153] KEY: building.miningcamp.desc
+EN: Mines nearby blocks that are designated to be mined.
+
+Use the Mine Tool to designate mining areas.
+---
+[154] KEY: building.farm.desc
+EN: Grows and harvests crops within range around the farm.
+
+Use the Farm Tool to designate farming areas.
+---
+[155] KEY: building.homeland_factiondock.desc
+EN: Large dock where visiting ships can make landfall.
+---
+[156] KEY: building.tradedock.desc
+EN: Grants access to the open trade network.
+---
+[157] KEY: building.townhall.desc
+EN: A modest center of governance. Provides basic policy controls.
+---
+[158] KEY: building.civicoffice.desc
+EN: Extended offices to support increased paperwork.
+
+Grants +1 Policy slot.
+---
+[159] KEY: building.firetender.desc
+EN: Stockpiles fuel and delivers it to nearby heaters and steam boilers.
+---
+[160] KEY: building.bonfire.desc
+EN: Simple heat source with small radius and low fuel consumption.
+---
+[161] KEY: building.heater.desc
+EN: Large stone furnace that heats a wide area at better fuel efficiency.
+---
+[162] KEY: building.infiniteHeater.desc
+EN: Infinite heat source.
+---
+[163] KEY: building.supplier.desc
+EN: Stockpiles luxury goods and delivers them to Whisker residences.
+---
+[164] KEY: building.waterfountain_piped.desc
+EN: Provides water to exhausted workers.
+
+Requires connection to water pipes.
+---
+[165] KEY: building.triagebeds.desc
+EN: Sick or injured Whiskers will recover here.
+---
+[166] KEY: building.teahouse.desc
+EN: A place to drink fine tea after a day of work.
+
+Requires a worker to keep supplied.
+---
+[167] KEY: building.bathhouse.desc
+EN: A steamy bath provides evening relaxation.
+---
+[168] KEY: building.vending.desc
+EN: Comfortable place to eat and drink in the evening.
+
+Requires a worker to keep supplied during the day.
+---
+[169] KEY: building.loghouse.desc
+EN: Basic one-Whisker cabin for surviving the elements.
+---
+[170] KEY: building.tinyhouse1.desc
+EN: Basic small abode for one.
+---
+[171] KEY: building.house1.desc
+EN: Basic blockhouse for two.
+---
+[172] KEY: building.rowhouse1.desc
+EN: Basic rowhouse for two.
+---
+[173] KEY: building.tinyhouse2.desc
+EN: Fine small abode for one.
+---
+[174] KEY: building.house2.desc
+EN: Fine blockhouse for two.
+---
+[175] KEY: building.rowhouse2.desc
+EN: Fine rowhouse for two.
+---
+[176] KEY: building.tinyhouse3.desc
+EN: Elegant small abode for one.
+---
+[177] KEY: building.house3.desc
+EN: Elegant blockhouse for two.
+---
+[178] KEY: building.rowhouse3.desc
+EN: Extravagant rockhouse for two.
+---
+[179] KEY: building.smallwarehouse.desc
+EN: Small storage warehouse.
+
+Workers can be assigned to cart resources from other warehouses.
+---
+[180] KEY: building.warehouse.desc
+EN: Large warehouse that can store all resource types.
+
+Resources stored here can be traded or exported.
+---
+[181] KEY: building.chimneySegment.desc
+EN: Pulls up pollution at the base and outputs it at top of the chimney stack.
+---
+[182] KEY: building.oilpress
+EN: Oil Press
+---
+[183] KEY: building.shipyard
+EN: Shipyard
+---
+[184] KEY: building.mill
+EN: Mill
+---
+[185] KEY: building.mill.desc
+EN: Wind-powered millstone for producing flour.
+---
+[186] KEY: building.decorativetree
+EN: Decorative Tree
+---
+[187] KEY: building.decorativetree.desc
+EN: Ornamental tree with flowers.
+---
+[188] KEY: building.fancyEatery
+EN: Dining Hall
+---
+[189] KEY: building.fancyEatery.desc
+EN: A luxurious dining hall for the most prosperous of Whiskers.
+---
+[190] KEY: building.jumppad
+EN: Whisker Launcher
+---
+[191] KEY: building.jumppad.desc
+EN: Steam-powered device that can launch Whiskers to higher elevations.
+---
+[192] KEY: building.watervalve
+EN: Water Valve
+---
+[193] KEY: building.watervalve.desc
+EN: Closable valve. Automatically closes if input side is below configured threshold.
+---
+[194] KEY: building.rail
+EN: Track Piece
+---
+[195] KEY: building.rail.desc
+EN: Advanced rapid Whisker transport.
+---
+[196] KEY: building.rail_station
+EN: Station Platform
+---
+[197] KEY: building.rail_station.desc
+EN: Allows Whiskers to enter or exit the rail network.
+---
+[198] KEY: building.rail_steambooster
+EN: Rail Booster
+---
+[199] KEY: building.rail_steambooster.desc
+EN: Pressurized steam accelerates passing trains.
+---
+[200] KEY: logistics.neareststockpile
+EN: Nearest Warehouse
+---
+[201] KEY: logistics.multipleSources
+EN: Multiple Sources
+---
+[202] KEY: logistics.multipleDestinations
+EN: Multiple Destinations
+---
+[203] KEY: logistics.sourcingFrom
+EN: Pick up from
+---
+[204] KEY: logistics.deliveringTo
+EN: Deliver to
+---
+[205] KEY: building.blastfurnace
+EN: Blast Furnace
+---
+[206] KEY: building.blacksmith
+EN: Blacksmith
+---
+[207] KEY: building.netter
+EN: Netter
+---
+[208] KEY: building.sailmanufactory
+EN: Sail Manufactory
+---
+[209] KEY: building.cannonfoundry
+EN: Cannon Foundry
+---
+[210] KEY: building.laboratory
+EN: Laboratory
+---
+[211] KEY: building.apothecary
+EN: Apothecary
+---
+[212] KEY: building.cannery
+EN: Cannery
+---
+[213] KEY: building.teaprocessor
+EN: Tea Roaster
+---
+[214] KEY: building.machinist
+EN: Machinist
+---
+[215] KEY: building.blastfurnace.desc
+EN: Refines metal ores with high melting points into ingots.
+---
+[216] KEY: building.blacksmith.desc
+EN: Crafts useful items made of iron and steel.
+---
+[217] KEY: building.netter.desc
+EN: Assembles ropes into nets for fishing.
+---
+[218] KEY: building.sailmanufactory.desc
+EN: Manufactures sails for shipbuilding.
+---
+[219] KEY: building.cannonfoundry.desc
+EN: Molds cannon barrels and assembles cannons.
+---
+[220] KEY: building.laboratory.desc
+EN: Produces goods for health and hygiene.
+---
+[221] KEY: building.apothecary.desc
+EN: Extracts medicinal substances from mushrooms.
+---
+[222] KEY: building.cannery.desc
+EN: Packs food into cans to preserve it for sea travel.
+---
+[223] KEY: building.teaprocessor.desc
+EN: Processes tea leaves into servable tea.
+---
+[224] KEY: building.machinist.desc
+EN: Produces machinery for industrial independence.
+---
+[225] KEY: building.campfire
+EN: Campfire
+---
+[226] KEY: building.campfire.desc
+EN: Small wood fire to generate heat in a pinch.
+
+Destroyed once logs are consumed.
+---
+[227] KEY: building.smallworkdock
+EN: Work Dock
+---
+[228] KEY: building.smallworkdock.desc
+EN: Small dock that can be assigned a ship and crew to venture out to sea.
+---
+[229] KEY: building.plankpath
+EN: Plank Path
+---
+[230] KEY: building.logpath
+EN: Makeshift Path
+---
+[231] KEY: building.plankpath.desc
+EN: Smooth path of cut planks.
+---
+[232] KEY: building.logpath.desc
+EN: Rough makeshift path made of raw logs.
+---
+[233] KEY: building.mediumWarehouse
+EN: Medium Warehouse
+---
+[234] KEY: building.mediumwarehouse.desc
+EN: Medium storage warehouse.
+
+Workers can be assigned to cart resources from other warehouses.
+---
+[235] KEY: building.spicegrinder
+EN: Spice Grinder
+---
+[236] KEY: building.spicegrinder.desc
+EN: Grinds peppers into fine spices.
+---
+[237] KEY: building.tinywarehouse
+EN: Storage Shed
+---
+[238] KEY: building.smallbrickhouse
+EN: Small brick house
+---
+[239] KEY: building.smallbrickhouse.desc
+EN: Cozy brick house for one.
+---
+[240] KEY: building.tinywarehouse.desc
+EN: Small shed to store a small amount of resources.
+
+Worker can be assigned to cart resources from other warehouses.
+---
+[241] KEY: building.stoneshelter
+EN: Stone Shelter
+---
+[242] KEY: building.stoneshelter.desc
+EN: Slipshod rock shelter that barely qualifies as a house.
+---
+[243] KEY: logistics.assignedDropoffonly
+EN: Assigned drop-off only
+---
+[244] KEY: logistics.assignedDropoffOnly.detail
+EN: Only accept resources from industries if they have assigned this as a drop-off point.
+---
+[245] KEY: logistics.whitelist
+EN: Whitelist allowed resources
+---
+[246] KEY: logistics.inboxHint
+EN: Resources delivered here will drop onto attached conveyor belt
+---
+[247] KEY: building.stonedec_wall
+EN: Stone Wall
+---
+[248] KEY: building.stonedec_pillar_short
+EN: Stone Pillar - Short
+---
+[249] KEY: building.stonedec_pillar_tall
+EN: Stone Pillar - Tall
+---
+[250] KEY: building.stonedec_pedestal
+EN: Stone Pedestal
+---
+[251] KEY: building.stonedec_gate
+EN: Stone Gate
+---
+[252] KEY: building.stonedec_arch
+EN: Stone Archway
+---
+[253] KEY: building.stonedec_platform
+EN: Stone Platform
+---
+[254] KEY: building.stonedec.desc
+EN: Stone construction.
+---
+[255] KEY: building.oilpress.desc
+EN: Uses steam-powered presses to extract oil.
+---
+[256] KEY: building.shipyard.desc
+EN: Large dry dock to produce grander seafaring vessels.
+
+Ships must be assigned to a Work Dock to be crewed.
+---
+[257] KEY: logistics.filterhint.whitelist
+EN: Select allowed resources or categories
+---
+[258] KEY: logistics.filterhint.all
+EN: Accepting all resources
+---
+[259] KEY: logistics.keepEmpty
+EN: Try to keep empty
+---
+[260] KEY: logistics.keepEmpty.desc
+EN: Workers will attempt to move anything in this warehouse to other accepting warehouses.
+---
+[261] KEY: logistics.constructionAccess
+EN: Allow Construction Access
+---
+[262] KEY: logistics.constructionAccess.desc
+EN: Allow resources to be pulled by construction actions.
+---
+[263] KEY: logistics.desired
+EN: Desired
+---
+[264] KEY: problem.housingShortage
+EN: Housing Shortage
+---
+[265] KEY: problem.housingShortage.desc
+EN: There are more Whiskers than there is housing space.
+
+Build more houses so they have somewhere to sleep!
+---
+[266] KEY: problem.longpaths
+EN: Long paths!
+---
+[267] KEY: problem.longpaths.desc
+EN: Some Whiskers are walking extremely long distances! Is their route disrupted?
+---
+[268] KEY: problem.nobuilders
+EN: No Builders Available!
+---
+[269] KEY: problem.nobuilders.desc
+EN: Idle Whiskers are needed to construct structures.
+
+All Whiskers are currently assigned to jobs.
+---
+[270] KEY: problem.pathIssues
+EN: Pathing Problems
+---
+[271] KEY: problem.pathIssues.desc
+EN: One or more Whiskers cannot reach their destination.
+---
+[272] KEY: problem.lowfood
+EN: Low Food
+---
+[273] KEY: problem.lowfood.desc
+EN: Available food in storage is running low.
+---
+[274] KEY: problem.buildingDestroyed
+EN: A structure is in ruins!
+---
+[275] KEY: problem.buildingDestroyed.desc
+EN: Destroyed structures need to be marked for repair.
+---
+[276] KEY: logistics.hint1
+EN: Logistics workers transfer materials between warehouses based on requested resources
+---
+[277] KEY: logistics.hint2
+EN: Build at least one other warehouse to unlock Logistics controls
+---
+[278] KEY: logistics.addSourceWarehouse
+EN: Add Source Warehouse
+---
+[279] KEY: logistics.addSourceWarehouse.desc
+EN: Select warehouses this building is allowed to pull from.
+
+If none assigned, workers will pull from nearest stocked warehouse.
+---
+[280] KEY: logistics.addDestinationWarehosue
+EN: Add Destination Warehouse
+---
+[281] KEY: logistics.addDestinationWarehouse.desc
+EN: Select warehouses or industries this building is allowed to deliver to.
+
+If none assigned, workers will deliver to nearest warehouse.
+---
+[282] KEY: logistics.clearAllLinks
+EN: Clear all assignments
+---
+[283] KEY: logistics.clearAllLinks.desc
+EN: Remove all assigned connections.
+---
+[284] KEY: building.oceanvoid
+EN: Ocean Outlet Pipe
+---
+[285] KEY: building.oceanvoid.desc
+EN: Dumps water back into the ocean.
+---
+[286] KEY: building.terraformCamp
+EN: Stone-Dump
+---
+[287] KEY: building.terraformCamp.desc
+EN: Drops stone to build solid terrain in a column below.
+---
+[288] KEY: problem.unburiedWhiskers
+EN: Unburied Whiskers
+---
+[289] KEY: problem.unburiedWhiskers.desc
+EN: A Whisker requires a proper grave.
+---
+[290] KEY: building.grave
+EN: Grave
+---
+[291] KEY: building.grave.desc
+EN: Grave plot to lay a deceased Whiskers to rest.
+---
+[292] KEY: building.hangingGarden
+EN: Hanging Garden
+---
+[293] KEY: building.hangingGarden.desc
+EN: Overflowing garden with ivy hanging down to the area below.
+---
+[294] KEY: building.flaxspinner
+EN: Flax Spinner
+---
+[295] KEY: building.flaxspinner.desc
+EN: Spins flax into sturdy ropes or fine threads.
+---
+[296] KEY: building.cottongin
+EN: Cotton Gin
+---
+[297] KEY: building.cottongin.desc
+EN: Separates seeds from the cotton fiber, which is spun into threads.
+---
+[298] KEY: building.largewarehouse
+EN: Large Warehouse
+---
+[299] KEY: building.largewarehouse.desc
+EN: Large storage warehouse.
+
+Workers can be assigned to cart resources from other warehouses.
+---
+[300] KEY: building.showers
+EN: Showers
+---
+[301] KEY: building.showers.desc
+EN: Piped showers for a robust cleaning.
+---
+[302] KEY: building.bathingdock
+EN: Bathing dock
+---
+[303] KEY: building.bathingdock.desc
+EN: Somewhere to rinse off.
+---
+[304] KEY: building.house4.desc
+EN: Extravagant blockhouse for two.
+---
+[305] KEY: building.rowhouse4
+EN: Extravagant Rowhouse
+---
+[306] KEY: building.rowhouse4.desc
+EN: Extravagant rockhouse for two.
+---
+[307] KEY: building.smallhouse4
+EN: Extravagant Blockhouse
+---
+[308] KEY: building.tinyhouse4
+EN: Extravagant Abode
+---
+[309] KEY: building.tinyhouse4.desc
+EN: Extravagant small abode for one.
+---
+[310] KEY: logistics.totalLogisticsWorkers
+EN: Total Logistics Workers
+---
+[311] KEY: logistics.totalWarehouses
+EN: Total Warehouses
+---
+[312] KEY: logistics.totalDeficits
+EN: All pending logistics requests:
+---
+[313] KEY: logistics.noDeficits
+EN: No requests
+---
+[314] KEY: logistics.warehouseHint
+EN: Nearby Logistics Hubs will transfer requested resources from other warehouses
+---
+[315] KEY: logistics.workerHint
+EN: Workers transport resources between warehouses based on logistics requests
+---
+[316] KEY: logistics.nologisticsHubs
+EN: No Logistics Hubs built!
+---
+[317] KEY: building.logisticshub.desc
+EN: Allows for efficient movement of resources between Warehouses using carts.
+---
+[318] KEY: logistics.requested
+EN: Requested
+---
+[319] KEY: logistics.inbound
+EN: Inbound
+---
+[320] KEY: problem.noresourcesInRange
+EN: Camp is idle!
+---
+[321] KEY: problem.noresourcesInRange.desc
+EN: Camp cannot find any work within range.
+---
+[322] KEY: logistics.totalcapacity
+EN: Total Capacity
+---
+[323] KEY: building.labNew
+EN: Research Lab
+---
+[324] KEY: building.laboratoryNew
+EN: Chemist
+---
+[325] KEY: building.earthworks
+EN: Earthworks
+---
+[326] KEY: building.earthworks.desc
+EN: Fills in marked areas with earthen terrain.
+---
+[327] KEY: logistics.disableAcceptingDeliveries
+EN: Reject all deliveries
+---
+[328] KEY: logistics.requestsDisabled
+EN: Requests Disabled
+---
+[329] KEY: logistics.enableAll
+EN: Allow All
+---
+[330] KEY: logistics.disableAll
+EN: Reject All
+---
+[331] KEY: logistics.keepWarehouseEmpty
+EN: Empty out warehouse
+---
+[332] KEY: logistics.resourceWhitelistHint
+EN: Allowed resources can be toggled in table.
+---
+[333] KEY: building.school
+EN: School
+---
+[334] KEY: building.school.desc
+EN: An institution where Whiskers can teach others their skills.
+---
+[335] KEY: building.bridge_medium
+EN: Covered Bridge
+---
+[336] KEY: building.coordinationOffice
+EN: Management Office
+---
+[337] KEY: building.coordinationOffice.desc
+EN: Dedicated staff allows better coordination between workers.
+
+---
+[338] KEY: building.giantwarehouse
+EN: Giant Warehouse
+---
+[339] KEY: building.giantwarehouse.desc
+EN: Cavernous warehouse capable of storing nearly limitless resources
+---
+[340] KEY: problem.campstoragefull
+EN: Camp storage full
+---
+[341] KEY: problem.campstoragefull.desc
+EN: Camp cannot find warehouse to deliver output.
+---
+[342] KEY: building.windsock
+EN: Windsock
+---
+[343] KEY: building.windsock.desc
+EN: Pillowed wind catching device useful for seeing the direction of the wind
+---
+[344] KEY: building.anchoredplatform
+EN: Anchored platform
+---
+[345] KEY: building.anchoredplatform.desc
+EN: Wooden cantilever that provides a foundation for construction above it.
+---
+[346] KEY: building.stonedec_arch.desc
+EN: Grand archway providing a foundation for construction above it
+---
+[347] KEY: problem.freezingTriage
+EN: Freezing Triage
+---
+[348] KEY: problem.feezingTriage.desc
+EN: A Triage is too cold for patients to recover!
+---
+[349] KEY: aim.splitter
+EN: Splitter
+---
+[350] KEY: aim.splitter.desc
+EN: Splits items onto 2 paths.
+---
+[351] KEY: aim.sorter
+EN: Filter
+---
+[352] KEY: aim.sorter.desc
+EN: Drops only the configured item types down. Allows for separation of items out of a mixed item belt.
+---
+[353] KEY: aim.clift
+EN: Liftback
+---
+[354] KEY: aim.clift.desc
+EN: Using gears to lift items vertically with a double back directional flip.
+---
+[355] KEY: logistics.splitterFilter
+EN: Select Resources split to lower belt
+---
+[356] KEY: aim.smallStorage
+EN: Dropoff
+---
+[357] KEY: aim.smallStorage.desc
+EN: Very small warehouse that can receive resources from conveyors.
+
+Only accepts resources from conveyor belts
+---
+[358] KEY: logistics.conveyorDropoffOnly
+EN: This warehouse can only receive resources from conveyor belts
+---
+[359] KEY: aim.extractor
+EN: Extractor
+---
+[360] KEY: aim.extractor.desc
+EN: Extracts resources directly from adjacent warehouses onto a belt
+---
+[361] KEY: logistics.logisticsCanTake
+EN: Supply to logistics
+---
+[362] KEY: logistics.logisticsCanTake.hint
+EN: Allow logistics workers to take excess resources from this warehouse
+---
+[363] KEY: aim.oceandump
+EN: Ocean Dump
+---
+[364] KEY: aim.oceandump.desc
+EN: Dumps any belted resources into the ocean.  
+
+Dumped resources may impact marine ecosystems!
+---
+[365] KEY: building.raftDock
+EN: Raft Dock
+---
+[366] KEY: building.raftDock.desc
+EN: Primitive rafts allow travel between islands
+
+Requires two Raft Docks to function
+---
+[367] KEY: building.bush
+EN: Small Bush
+---
+[368] KEY: building.bush.desc
+EN: Varous bushes and ferns
+---
+[369] KEY: logistics.allowOverflow
+EN: Allow Overflow
+---
+[370] KEY: building.smallshipyard.desc
+EN: Small dry dock to produce seafaring vessels.
+
+Ships must be assigned to a Work Dock to be crewed.
+---
+[371] KEY: building.constructionyard
+EN: Construction Yard
+---
+[372] KEY: building.constructionyard.desc
+EN: Foreman coordinates carts and tools to quickly construct nearby buildings
+---
+[373] KEY: problem.idleyard
+EN: Idle Construction Yard
+---
+[374] KEY: problem.idleyard.desc
+EN: Construction yard has no construction sites in range
+---
+[375] KEY: logistics.allowOverflow.desc
+EN: If lower belt backs up, allow filtered items to overflow onto top belt
+---
+[376] KEY: problem.noMineCart
+EN: No vehicle on track
+---
+[377] KEY: building.navalFishingDock
+EN: Deep Sea Fishing Dock
+---
+[378] KEY: building.navalFishingDock.desc
+EN: Manages a seaworthy ship and crew for open-sea fishing expeditions
+---
+[379] KEY: building.navaltradedock
+EN: Trade Ship Dock
+---
+[380] KEY: building.navaltradedock.desc
+EN: Crew a ship for shipping illicit exports to willing parties
+---
+[381] KEY: building.navalwardock
+EN: Naval Dock
+---
+[382] KEY: building.navalwardock.desc
+EN: Crew and outfit a ship for full naval combat and island bombardment
+---
+[383] KEY: building.navalhuntingdock
+EN: Leviathan Hunting Berth
+---
+[384] KEY: building.navalhuntingdock.desc
+EN: Outfit a ship for leviathan hunting, a fearsome but rewarding catch
+---
+[385] KEY: building.navalguanodock
+EN: Guano Collection Dock
+---
+[386] KEY: building.navalguanodock.desc
+EN: Outfit ships to gather valuable guano from distant islands.
+Provides a rich source of fertilizer
+---
+[387] KEY: building.largeshipyard
+EN: Large Shipyard
+---
+[388] KEY: building.largeshipyard.desc
+EN: Larger shipyard which can support production of large sea-faring vessels
+---
+[389] KEY: building.giantshipyard
+EN: Royal Shipyard
+---
+[390] KEY: building.giantshipyard.desc
+EN: Massive dry dock for constructing mighty vessels
+
+Ships must be assigned to a Work Dock to be crewed.
+---
+[391] KEY: problem.noPathToSea
+EN: Dock does not connect to open ocean
+---
+[392] KEY: building.defensivetower
+EN: Small Defensive Tower
+---
+[393] KEY: building.defensivetower.desc
+EN: Sturdy tower that can be requested to fire upon approaching hostile ships.
+---
+[394] KEY: problem.colonyInCombat
+EN: Cannons ring out near our colony
+---
+[395] KEY: problem.colonyInCombat.desc
+EN: Whiskers assigned to defenses will not rest until combat passes
+---
+[396] KEY: building.brickdec_wall
+EN: Red Brick Wall
+---
+[397] KEY: building.brickdec_wall.desc
+EN: Thick brick wall with optional white stone top
+---
+[398] KEY: building.brickdecor
+EN: Elevated brick planter
+---
+[399] KEY: building.brickDecordesc
+EN: Various brickwork planters with tiered designs
+---
+[400] KEY: building.nauticalRaftDock
+EN: Ferry Dock
+---
+[401] KEY: building.nauticalRaftDock.desc
+EN: Assign seaworthy vessels to ferry whiskers quickly between docks
+---
+[402] KEY: building.questRepairDock
+EN: Makeshift Repair Dock
+---
+[403] KEY: building.questRepairDock.desc
+EN: A temporary dock where whiskers can repair the stranded ship
+---
+[404] KEY: logistics.dropoffLogisticsHint
+EN: Logistics carts avoid dropoffs unless set to empty
+---
+[405] KEY: building.storageDock
+EN: Storage Dock
+---
+[406] KEY: building.desc.storageDock
+EN: Simple dock to mothball ships while not in use
+---
+[407] KEY: building.scoutDock
+EN: Exploration Dock
+---
+[408] KEY: building.scoutDock.desc
+EN: Outfit an assigned ship and crew for exploring the sea.  
+
+Other docks can outfit ships for more specific missions
+---

@@ -1,0 +1,310 @@
+# WHISKERWOOD RANDOM SAMPLE AUDIT SET (75 STRINGS)
+
+[01] File: 01_Core_UI_Menus.json | ID: 2146 | Key: settings.mbborbit
+EN: Orbit is Middle & Pan is Right
+VI: Chuột Giữa: Xoay / Chuột Phải: Trượt
+
+[02] File: 01_Core_UI_Menus.json | ID: 234 | Key: toolbar.glossary
+EN: Glossary
+VI: Bách Khoa
+
+[03] File: 01_Core_UI_Menus.json | ID: 101 | Key: pause.save
+EN: Save
+VI: Lưu Game
+
+[04] File: 01_Core_UI_Menus.json | ID: 2583 | Key: action.changeTradePartner
+EN: Choose Trade Partner
+VI: Chọn Đối Tác Giao Thương
+
+[05] File: 01_Core_UI_Menus.json | ID: 888 | Key: aa.quality.performance
+EN: Performance
+VI: Hiệu Năng
+
+[06] File: 01_Core_UI_Menus.json | ID: 735 | Key: tooltip.title.gifts
+EN: Gift from the King
+VI: Quà Tặng Từ Đức Vua
+
+[07] File: 01_Core_UI_Menus.json | ID: 636 | Key: action.assignOutputDestinations
+EN: Set Destinations
+VI: Chọn Nơi Nhận
+
+[08] File: 01_Core_UI_Menus.json | ID: 251 | Key: toolbar.whiskerview
+EN: Colony Office
+VI: Văn Phòng Làng Chuột
+
+[09] File: 01_Core_UI_Menus.json | ID: 2558 | Key: error.overlapsdockingspace
+EN: Overlaps other reserved docking area
+VI: Bị trùng với vùng neo đậu khác
+
+[10] File: 01_Core_UI_Menus.json | ID: 229 | Key: toolbar.navigation
+EN: Paths & Walking
+VI: Đường Đi Bộ
+
+[11] File: 01_Core_UI_Menus.json | ID: 2197 | Key: settings.keybind.zoomIn
+EN: Zoom In
+VI: Phóng To
+
+[12] File: 01_Core_UI_Menus.json | ID: 1723 | Key: settings.action.applyGraphics
+EN: Apply Graphics Changes
+VI: Áp Dụng Đồ Họa Mới
+
+[13] File: 02_Buildings_Logistics.json | ID: 52 | Key: aim.slide.desc
+EN: Slides resources on belts down to a lower elevation.
+VI: Cho tài nguyên trượt dốc xuống tầng thấp hơn.
+
+[14] File: 02_Buildings_Logistics.json | ID: 1908 | Key: building.bathingdock
+EN: Bathing dock
+VI: Cầu Tắm Biển
+
+[15] File: 02_Buildings_Logistics.json | ID: 664 | Key: building.blacksmith.desc
+EN: Crafts useful items made of iron and steel.
+VI: Chế tạo công cụ và vũ khí từ sắt và thép.
+
+[16] File: 02_Buildings_Logistics.json | ID: 22 | Key: building.finekitchen
+EN: Fine Kitchen
+VI: Bếp Thượng Hạng
+
+[17] File: 02_Buildings_Logistics.json | ID: 21 | Key: building.stewbrewery
+EN: Soup Kitchen
+VI: Bếp Nấu Súp
+
+[18] File: 02_Buildings_Logistics.json | ID: 56 | Key: aim.inbox.desc
+EN: Drop-off location that feeds into conveyor belts.
+
+Configure allowed resources.
+
+Industries can assign their outputs to be delivered here.
+VI: Điểm tập kết thả hàng để cấp tài nguyên vào băng chuyền.
+
+Có thể cấu hình loại hàng cho phép.
+
+Các nhà xưởng có thể chọn điểm này để trả hàng ra.
+
+[19] File: 02_Buildings_Logistics.json | ID: 436 | Key: building.lumbermill.desc
+EN: Cuts logs into wooden planks.
+VI: Xẻ gỗ cây thành những tấm ván gỗ bóng bẩy.
+
+[20] File: 02_Buildings_Logistics.json | ID: 444 | Key: building.coalProcessor.desc
+EN: Processes nonmetal ores into refined materials.
+VI: Sàng lọc quặng phi kim thành các loại vật liệu tinh chế.
+
+[21] File: 02_Buildings_Logistics.json | ID: 1319 | Key: logistics.filterhint.all
+EN: Accepting all resources
+VI: Tiếp nhận mọi loại tài nguyên
+
+[22] File: 02_Buildings_Logistics.json | ID: 1953 | Key: building.tinyhouse4
+EN: Extravagant Abode
+VI: Nhà Xa Hoa Đơn
+
+[23] File: 02_Buildings_Logistics.json | ID: 19 | Key: building.brickmaker
+EN: Stone Cutter
+VI: Xưởng Đẽo Đá
+
+[24] File: 02_Buildings_Logistics.json | ID: 1670 | Key: building.terraformCamp.desc
+EN: Drops stone to build solid terrain in a column below.
+VI: Đổ đá hộc xuống dưới để bồi đắp địa hình thành cột đất vững chắc.
+
+[25] File: 03_Resources_Items_Tech.json | ID: 763 | Key: resource.fishskewers
+EN: Fish Skewers
+VI: Cá Xiên Nướng
+
+[26] File: 03_Resources_Items_Tech.json | ID: 2388 | Key: resource.corpse
+EN: Corpse
+VI: Thi Thể Chuột
+
+[27] File: 03_Resources_Items_Tech.json | ID: 1724 | Key: resource.fallow
+EN: Fallow
+VI: Cho Đất Nghỉ
+
+[28] File: 03_Resources_Items_Tech.json | ID: 1057 | Key: resource.desc.bedding
+EN: Quilted blankets for a deep sleep.
+VI: Chăn nệm chần bông cho giấc ngủ say nồng.
+
+[29] File: 03_Resources_Items_Tech.json | ID: 774 | Key: resource.rope
+EN: Ropes
+VI: Dây Thừng
+
+[30] File: 03_Resources_Items_Tech.json | ID: 1072 | Key: resource.desc.fertilizer
+EN: Replenishes or boosts fertility of cropland.
+VI: Phục hồi hoặc tăng cường độ phì nhiêu cho đồng ruộng.
+
+[31] File: 03_Resources_Items_Tech.json | ID: 1927 | Key: resource.firetongs
+EN: Fire Tongs
+VI: Kẹp Gắp Lửa
+
+[32] File: 03_Resources_Items_Tech.json | ID: 806 | Key: resource.medicine
+EN: Medicine
+VI: Dược Phẩm
+
+[33] File: 03_Resources_Items_Tech.json | ID: 81 | Key: policy.desc.increasedCarryCapacity
+EN: Whiskers can carry 2 more resources. 
+VI: Bà con chuột có thể mang vác thêm +2 tài nguyên.
+
+[34] File: 03_Resources_Items_Tech.json | ID: 682 | Key: unlock.finetea.desc
+EN: A secret recipe to combine tea leaves with spices to produce fine tea.
+VI: Bí quyết phối trộn lá trà tươi hảo hạng với gia vị để tạo ra món trà quý tộc.
+
+[35] File: 03_Resources_Items_Tech.json | ID: 1059 | Key: resource.desc.tinore
+EN: Unprocessed tin ore.
+VI: Quặng thiếc thô chưa qua chế biến.
+
+[36] File: 03_Resources_Items_Tech.json | ID: 873 | Key: policy.desc.intimidatingstatues
+EN: Speed boosts from passing statues are increased and last twice as long.
+VI: Hiệu ứng tăng tốc khi đi ngang qua các tượng đài thị uy được gia tăng và kéo dài gấp đôi.
+
+[37] File: 04_Mice_Traits_Thoughts.json | ID: 1402 | Key: trait.loner.desc
+EN: Unhappy if working or sleeping with others.
+VI: Buồn bã nếu phải làm việc hoặc ngủ chung với chuột khác.
+
+[38] File: 04_Mice_Traits_Thoughts.json | ID: 1143 | Key: thought.desc.cold
+EN: Endured uncomfortably cold conditions
+VI: Phải chịu đựng cái rét buốt giá
+
+[39] File: 04_Mice_Traits_Thoughts.json | ID: 1159 | Key: thought.desc.bathed
+EN: Enjoyed time at a bathhouse
+VI: Tận hưởng những phút giây thư thái tại nhà tắm hơi
+
+[40] File: 04_Mice_Traits_Thoughts.json | ID: 2396 | Key: education.sailor.desc
+EN: Trained for basic tasks aboard a ship
+VI: Được huấn luyện các nhiệm vụ cơ bản trên tàu
+
+[41] File: 04_Mice_Traits_Thoughts.json | ID: 2054 | Key: thought.dining.elated
+EN: Dining in Style
+VI: Thưởng Bữa Sang Trọng
+
+[42] File: 04_Mice_Traits_Thoughts.json | ID: 1417 | Key: trait.mascochist
+EN: Masochist
+VI: Thích Khổ Hạnh
+
+[43] File: 04_Mice_Traits_Thoughts.json | ID: 1130 | Key: thought.aesthetic.beauty.tier2
+EN: Beautiful Surroundings
+VI: Khung Cảnh Tươi Đẹp
+
+[44] File: 04_Mice_Traits_Thoughts.json | ID: 1127 | Key: thought.grieving
+EN: Grieving
+VI: Đau Buồn
+
+[45] File: 04_Mice_Traits_Thoughts.json | ID: 1428 | Key: trait.monarchist.desc
+EN: Naturally loyal to the Claws.
+VI: Bản tính trung thành tuyệt đối với Phe Móng Vuốt.
+
+[46] File: 04_Mice_Traits_Thoughts.json | ID: 1128 | Key: thought.bathed
+EN: Steamy Bath
+VI: Tắm Nước Nóng
+
+[47] File: 04_Mice_Traits_Thoughts.json | ID: 1422 | Key: trait.warmCore.desc
+EN: Extra resistant to cold temperatures.
+VI: Chống chịu giá rét tốt hơn bình thường.
+
+[48] File: 04_Mice_Traits_Thoughts.json | ID: 2095 | Key: trait.teacher.desc
+EN: This Whisker can teach others more quickly
+VI: Chú chuột này có thể kèm cặp người khác nhanh hơn
+
+[49] File: 05_Nautical_Exploration_World.json | ID: 954 | Key: worldeffect.desc.weather_fog
+EN: A sleepy fog rolls over the island. No effect
+VI: Màn sương êm đềm bao phủ hòn đảo. Không có tác động gì
+
+[50] File: 05_Nautical_Exploration_World.json | ID: 2374 | Key: nautical.task.bombardtower
+EN: Bombarding
+VI: Đang pháo kích
+
+[51] File: 05_Nautical_Exploration_World.json | ID: 647 | Key: nautical.decision.war.title
+EN: Declare War?
+VI: Tuyên Chiến?
+
+[52] File: 05_Nautical_Exploration_World.json | ID: 292 | Key: colonyname.3
+EN: Burrowville
+VI: Hang Trú Burrowville
+
+[53] File: 05_Nautical_Exploration_World.json | ID: 1841 | Key: nautical.decision.found.whisker
+EN: We've discovered a new island with Whiskers living here! They'll give us fair prices for our goods.
+VI: Chúng ta đã phát hiện một hòn đảo mới có bà con chuột sinh sống! Họ sẵn sàng mua bán hàng hóa với mức giá rất phải chăng.
+
+[54] File: 05_Nautical_Exploration_World.json | ID: 2333 | Key: nautical.rel.cordial
+EN: Cordial
+VI: Hòa Hoãn
+
+[55] File: 05_Nautical_Exploration_World.json | ID: 333 | Key: colonyname.44
+EN: Rockwall
+VI: Trấn Vách Đá
+
+[56] File: 05_Nautical_Exploration_World.json | ID: 971 | Key: worldeffect.flavortext.weather_lightrain
+EN: A sleepy drizzle
+VI: Cơn mưa phùn êm ả ru lòng người
+
+[57] File: 05_Nautical_Exploration_World.json | ID: 310 | Key: colonyname.21
+EN: Lushisle
+VI: Đảo Xanh Lushisle
+
+[58] File: 05_Nautical_Exploration_World.json | ID: 2341 | Key: nautical.trade.shipLacksGold
+EN: Ship has no Goldbars to offer
+VI: Tàu không có Vàng Thỏi để trao đổi
+
+[59] File: 05_Nautical_Exploration_World.json | ID: 710 | Key: nautical.task.mailing
+EN: Mailing
+VI: Đang chuyển thư
+
+[60] File: 05_Nautical_Exploration_World.json | ID: 2587 | Key: nautical.found.title.empty
+EN: An empty island found!
+VI: Phát Hiện Đảo Hoang!
+
+[61] File: 06_Quests_Events_Story.json | ID: 1986 | Key: info.nutrientsNew
+EN: Nutrient content in the soil. Slowly recovers when depleted. Can be replenished and boosted by fertilizer, which can also increase the recovery limit.
+VI: Hàm lượng dinh dưỡng trong đất canh tác. Sẽ hồi phục từ từ khi cạn kiệt. Có thể bổ sung và tăng tốc độ hồi phục bằng phân bón, đồng thời giúp nâng cao giới hạn phục hồi tối đa.
+
+[62] File: 06_Quests_Events_Story.json | ID: 2610 | Key: tag.dragBuildable
+EN: Drag Build
+VI: Xây Dựng Bằng Cách Kéo
+
+[63] File: 06_Quests_Events_Story.json | ID: 2571 | Key: ship_tier2_B.title
+EN: Medium Cargo Ship
+VI: Tàu Chở Hàng Hạng Trung
+
+[64] File: 06_Quests_Events_Story.json | ID: 1442 | Key: approval.tutorial.2
+EN: Spend it to recruit Whiskers, issue Overtime, enact Policies, and more!
+VI: Dùng điểm này để thu nhận thêm chuột, yêu cầu Làm Thêm Giờ, ban hành Chính Sách và nhiều quyền lợi khác!
+
+[65] File: 06_Quests_Events_Story.json | ID: 1860 | Key: overlayHint.assignShip
+EN: Assign Ship to a Work Dock
+VI: Chỉ định tàu vào Bến Cảng Làm Việc
+
+[66] File: 06_Quests_Events_Story.json | ID: 999 | Key: reward.materialStone
+EN: Spare Scrap
+VI: Đá Phế Liệu
+
+[67] File: 06_Quests_Events_Story.json | ID: 2286 | Key: msg.nothingToPaste
+EN: Nothing to paste
+VI: Không có gì để dán
+
+[68] File: 06_Quests_Events_Story.json | ID: 358 | Key: tag.slowTravelSpeed
+EN: Slow Travel Speed
+VI: Tốc Độ Di Chuyển Chậm
+
+[69] File: 06_Quests_Events_Story.json | ID: 207 | Key: approval.posThought
+EN: Positive Thoughts
+VI: Cảm Xúc Tích Cực
+
+[70] File: 06_Quests_Events_Story.json | ID: 2177 | Key: tag.unlockProductionLimits
+EN: Unlocks Production Limits
+VI: Mở Khóa Hạn Mức Sản Xuất
+
+[71] File: 06_Quests_Events_Story.json | ID: 1187 | Key: mod.explorersPassive
+EN: Explorers Guild
+VI: Hội Thám Hiểm
+
+[72] File: 06_Quests_Events_Story.json | ID: 2440 | Key: pirateship.17
+EN: The Ravenous
+VI: Tàu Háu Đói
+
+[73] File: 06_Quests_Events_Story.json | ID: 1260 | Key: questgoal.nodes.berries
+EN: Berries gathered
+VI: Quả mọng đã hái
+
+[74] File: 06_Quests_Events_Story.json | ID: 2743 | Key: naval.defaultAction.guano
+EN: Gather at nearest stocked Guano Rock
+VI: Thu gom tại Bãi Đá Phân Chim gần nhất còn tài nguyên
+
+[75] File: 06_Quests_Events_Story.json | ID: 368 | Key: tag.intimidating
+EN: Intimidates passing Whiskers
+VI: Uy hiếp chuột đi ngang qua
+

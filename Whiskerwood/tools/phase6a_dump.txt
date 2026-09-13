@@ -1,0 +1,1037 @@
+[000] ID:60 | KEY: tier.2
+EN: Research Tier 2
+
+[001] ID:61 | KEY: tier.3
+EN: Research Tier 3
+
+[002] ID:62 | KEY: tier.4
+EN: Research Tier 4
+
+[003] ID:63 | KEY: tier.description
+EN: Advanced equipment allows researching more complex technology.
+
+[004] ID:64 | KEY: techCategory.housing
+EN: Housing & Services
+
+[005] ID:65 | KEY: techCategory.transport
+EN: Mobility
+
+[006] ID:66 | KEY: techCategory.Production
+EN: Production
+
+[007] ID:67 | KEY: techCategory.Services
+EN: Services
+
+[008] ID:68 | KEY: techCategory.Logistics
+EN: Logistics
+
+[009] ID:69 | KEY: techCategory.Beauty
+EN: Beauty
+
+[010] ID:70 | KEY: techCategory.Utilities
+EN: Utilities & Logistics
+
+[011] ID:79 | KEY: industrydetail.neareststockpile
+EN: Nearest Stockpile
+
+[012] ID:107 | KEY: choice.save
+EN: Save
+
+[013] ID:108 | KEY: choice.cancel
+EN: Cancel
+
+[014] ID:111 | KEY: housingslot.unassigned
+EN: Free Bed
+
+[015] ID:112 | KEY: villager.name
+EN: Whisker
+
+[016] ID:113 | KEY: mapgen.mediumsize
+EN: Medium Island
+
+[017] ID:114 | KEY: mapgen.largesize
+EN: Massive Island
+
+[018] ID:117 | KEY: policyview.title
+EN: Policy Controls
+
+[019] ID:146 | KEY: agentdetails.nojob
+EN: No Assignment
+
+[020] ID:147 | KEY: agentdetails.nohome
+EN: Any free bed
+
+[021] ID:149 | KEY: subcat.basic
+EN: Raw Material
+
+[022] ID:150 | KEY: subcat.refined
+EN: Refined Material
+
+[023] ID:151 | KEY: subcat.raw
+EN: Raw Material
+
+[024] ID:152 | KEY: subcat.ore
+EN: Ores
+
+[025] ID:153 | KEY: subcat.rare
+EN: Rare
+
+[026] ID:154 | KEY: subcat.preparedFood
+EN: Prepared Food
+
+[027] ID:155 | KEY: subcat.additive
+EN: Additives
+
+[028] ID:156 | KEY: subcat.science
+EN: Science
+
+[029] ID:157 | KEY: subcat.tools
+EN: Supplies
+
+[030] ID:158 | KEY: subcat.tea
+EN: Tea
+
+[031] ID:159 | KEY: subcat.rawFood
+EN: Raw Food
+
+[032] ID:187 | KEY: controller.xbox
+EN: Xbox
+
+[033] ID:188 | KEY: controller.playstation
+EN: PlayStation
+
+[034] ID:189 | KEY: quality.low
+EN: Low
+
+[035] ID:190 | KEY: quality.standard
+EN: Medium
+
+[036] ID:191 | KEY: quality.better
+EN: High
+
+[037] ID:192 | KEY: quality.supreme
+EN: Supreme
+
+[038] ID:193 | KEY: toggle.enabled
+EN: Enabled
+
+[039] ID:194 | KEY: toggle.disabled
+EN: Disabled
+
+[040] ID:200 | KEY: tutorialStep.placeDock
+EN: Build your Main Dock along the shoreline.
+
+[041] ID:201 | KEY: tutorialStep.acceptArrivals
+EN: Receive your Whiskers at the dock once their ship arrives.
+
+[042] ID:202 | KEY: tutorialStep.buildWarehouse
+EN: Build your WAREHOUSE somewhere near the dock. Your Whiskers will construct it.
+
+[043] ID:203 | KEY: tutorialStep.acceptSupplies
+EN: Unload the SUPPLY shipment at the dock once it arrives.
+
+[044] ID:205 | KEY: debt.populationTax
+EN: Population Tax
+
+[045] ID:206 | KEY: debt.supplyShipment
+EN: Supply Shipments
+
+[046] ID:207 | KEY: approval.posThought
+EN: Positive Thoughts
+
+[047] ID:208 | KEY: approval.negThought
+EN: Negative Thoughts
+
+[048] ID:209 | KEY: approval.other
+EN: Other Actions
+
+[049] ID:210 | KEY: debt.initialSupplyShipment
+EN: Starting Supplies
+
+[050] ID:211 | KEY: debt.newPopulationTax
+EN: Increased Population Tax
+
+[051] ID:212 | KEY: debt.travelcost_colonists
+EN: Whisker Ship travel costs
+
+[052] ID:213 | KEY: debt.travelcost_supplies
+EN: Supply Ship travel costs
+
+[053] ID:214 | KEY: fee.supplyshipminimumFee
+EN: Travel Fees (Unload more supplies)
+
+[054] ID:219 | KEY: debt.missedPayments
+EN: Previous Missed Payments
+
+[055] ID:225 | KEY: approval.policy.positive
+EN: Policy Boons
+
+[056] ID:226 | KEY: approval.policy.negative
+EN: Policy Costs
+
+[057] ID:255 | KEY: titlebar.clawsView
+EN: Tax Report
+
+[058] ID:257 | KEY: death.starvation
+EN: Starvation
+
+[059] ID:258 | KEY: death.illness
+EN: Illness
+
+[060] ID:259 | KEY: death.injury
+EN: Injury
+
+[061] ID:282 | KEY: phase.workhours
+EN: Work Hours
+
+[062] ID:283 | KEY: phase.nighthours
+EN: Evening
+
+[063] ID:285 | KEY: loading.loading
+EN: LOADING
+
+[064] ID:286 | KEY: loading.mastersync
+EN: Reading Mastersync
+
+[065] ID:287 | KEY: loading.initsim
+EN: Initializing Sim
+
+[066] ID:288 | KEY: loading.loadingsave
+EN: Loading Save
+
+[067] ID:289 | KEY: loading.almostdone
+EN: Almost Done!
+
+[068] ID:355 | KEY: tag.hardlabor
+EN: Hard Labor
+
+[069] ID:356 | KEY: tag.haswaterAdapter
+EN: Water Pipe Connection
+
+[070] ID:357 | KEY: tag.hasSteamAdapter
+EN: Steam Pipe Connection
+
+[071] ID:358 | KEY: tag.slowTravelSpeed
+EN: Slow Travel Speed
+
+[072] ID:359 | KEY: tag.mediumTravelSpeed
+EN: Medium Travel Speed
+
+[073] ID:360 | KEY: tag.fastTravelSpeed
+EN: Fast Travel Speed
+
+[074] ID:361 | KEY: tag.stackable
+EN: Can Stack
+
+[075] ID:362 | KEY: tag.heatsource
+EN: Heat Source
+
+[076] ID:363 | KEY: tag.approvalsource
+EN: Approval Source
+
+[077] ID:364 | KEY: tag.requiresFiretender
+EN: Requires Fire Tender
+
+[078] ID:365 | KEY: tag.extremeTravelSpeed
+EN: Extreme Travel Speed
+
+[079] ID:366 | KEY: tag.nightservice
+EN: Night Service
+
+[080] ID:367 | KEY: tag.decorative
+EN: Enjoyed by passing Whiskers
+
+[081] ID:368 | KEY: tag.intimidating
+EN: Intimidates passing Whiskers
+
+[082] ID:421 | KEY: approval.reward
+EN: Quest Reward
+
+[083] ID:422 | KEY: tag.requiresSea
+EN: Requires Open Ocean
+
+[084] ID:423 | KEY: desc.pathsidedecor
+EN: Pathside decor.
+
+[085] ID:507 | KEY: tag.automation
+EN: Resource Conveyors
+
+[086] ID:509 | KEY: tag.guildtrait.extracarry
+EN: +1 carry capacity
+
+[087] ID:510 | KEY: tag.guildtrait.extraeat
+EN: +1 food per meal
+
+[088] ID:511 | KEY: tag.guildtrait.reducedwear
+EN: Slower machinery wear in industries
+
+[089] ID:512 | KEY: tag.guildtrait.dislikeraw
+EN: Greatly dislikes raw food
+
+[090] ID:513 | KEY: tag.guildtrait.insulated
+EN: Natural resistance to cold
+
+[091] ID:514 | KEY: tag.guildtrait.hiker
+EN: Not slowed by terrain
+
+[092] ID:515 | KEY: tag.guildtrait.common
+EN: +50% in guild industries
+
+[093] ID:516 | KEY: tag.researchStorage
+EN: Increase research capacity
+
+[094] ID:517 | KEY: counter.researcharchives
+EN: Research Archives
+
+[095] ID:518 | KEY: counter.researchLabs
+EN: Research Labs
+
+[096] ID:519 | KEY: counter.totalResearch
+EN: Historic Research
+
+[097] ID:523 | KEY: research.missingPrerequsite
+EN: Missing Prerequisite
+
+[098] ID:524 | KEY: techCategory.foodProduction
+EN: Food
+
+[099] ID:548 | KEY: tag.customizable
+EN: Customizable
+
+[100] ID:549 | KEY: subcat.trade
+EN: Export Goods
+
+[101] ID:556 | KEY: farmtool.newfield
+EN: New Field
+
+[102] ID:557 | KEY: farmtool.extendField
+EN: Extend Field
+
+[103] ID:558 | KEY: farmtool.shrinkfield
+EN: Shrink Field
+
+[104] ID:559 | KEY: farmtool.configure
+EN: Configure
+
+[105] ID:572 | KEY: debt.productiontax
+EN: Industrial Production Tax
+
+[106] ID:573 | KEY: choice.acceptQuest
+EN: Accept Quest
+
+[107] ID:574 | KEY: choice.refuse
+EN: Refuse
+
+[108] ID:575 | KEY: choice.promisehousing
+EN: Promise to build housing
+
+[109] ID:576 | KEY: choice.close
+EN: Close
+
+[110] ID:600 | KEY: debt.credit
+EN: Mission Credit
+
+[111] ID:601 | KEY: choice.promiseresearch
+EN: Support Research Efforts
+
+[112] ID:602 | KEY: choice.turnInQuest
+EN: Turn in Quest
+
+[113] ID:624 | KEY: vehicle.coastingWagon
+EN: Coasting Cart
+
+[114] ID:626 | KEY: tier.1
+EN: Research Tier 1
+
+[115] ID:685 | KEY: techCategory.Science
+EN: Science
+
+[116] ID:686 | KEY: techCategory.naval
+EN: Naval
+
+[117] ID:689 | KEY: tag.temporary
+EN: Limited lifespan
+
+[118] ID:692 | KEY: counter.offices
+EN: Offices Built
+
+[119] ID:696 | KEY: debt.policycredit
+EN: Policy Credit
+
+[120] ID:697 | KEY: debt.extraWhiskers
+EN: Extra Whiskers Dispatched
+
+[121] ID:725 | KEY: tag.storage_large
+EN: High capacity storage
+
+[122] ID:726 | KEY: tag.storage_small
+EN: Low capacity storage
+
+[123] ID:727 | KEY: day.today
+EN: Today
+
+[124] ID:728 | KEY: day.tomorrow
+EN: Tomorrow
+
+[125] ID:729 | KEY: day.daysAway
+EN: days away
+
+[126] ID:730 | KEY: day.day
+EN: Day
+
+[127] ID:734 | KEY: choice.unloadShipment
+EN: Unload Shipment
+
+[128] ID:737 | KEY: story.common.intro1
+EN: Dear Acting Tail,
+
+[129] ID:738 | KEY: story.common.intro2
+EN: Dear Tail,
+
+[130] ID:739 | KEY: story.common.outro1
+EN: Under the King’s Graceful Rule,
+Duke Micalico
+Royal Commissioner
+
+[131] ID:740 | KEY: story.common.outro2
+EN: Fellow Colonist
+
+[132] ID:741 | KEY: story.tut1
+EN: Safe travels to all under the Crown.
+
+Royal scout ships identified your assigned archipelago as a potential colony as part of the Royal Scouting Commission of 1681. 72 such colonies have successfully been established as a result of those brave Claws’ efforts. By the King’s graceful guidance yours could be the 73rd such colony.
+
+Your most important building will be the Main Dock. Without it your colony cannot repay its debts. Therefore I implore you to choose an island and construct your dock. Look for ample Trees and Berry Bushes nearby.
+
+[133] ID:742 | KEY: story.tut2
+EN: Warehouses are vital to preserving the market value of your tax contributions. Each warehouse has a limited capacity. Watch that you do not satiate your warehouse’s capacity on worthless goods. Focus on storing resources that will benefit the Kingdom: Logs, Cotton, and Ores.
+
+Those goods will keep during long voyages and supply work for Whiskers in the royal factories. To reduce carry distances, you should construct the included Central Warehouse schematic near your Main Dock.
+
+[134] ID:743 | KEY: story.tut3
+EN: Congratulations to you and your fellow colonists. Under commission of the King, it is my privilege to offer this Colony Charter.
+
+You embark on a mission worthy of the greatest of Whiskers, and all of your kind shall thank you for your efforts. As you tame these wild lands and earn the payment for your taxes, you are doing more than any Whisker before you. With your sweat, you secure the means by which some industrious Whiskers might enjoy safety. 
+
+Serve your King faithfully and his peace will reign over these islands.
+
+[135] ID:744 | KEY: story.quest.survive
+EN: Our stores are meager. We cannot rely on these rations holding beyond two days. Our colony ship contained ample materials to build those royal-designed dock and warehouse buildings yet mere scraps for our personal needs. 
+
+We must find a source of food to survive and somehow pay off the coming tax ship.
+
+[136] ID:745 | KEY: story.quest.housing
+EN: Other matters demand your attention. Housing is not a luxury. Some Whiskers have already resorted to makeshift camps. I implore you to provide us shelter. We cannot survive as a colony living out in the elements.
+
+Winter’s arrival will see temperatures plunge, and you cannot fight the cold with fires alone. Homes are our only defense.
+
+[137] ID:746 | KEY: debt.gift.unlock
+EN: Schematic
+
+[138] ID:747 | KEY: debt.gift.effect
+EN: Effect
+
+[139] ID:788 | KEY: info.producedIn
+EN: Produced in:
+
+[140] ID:794 | KEY: value.tax.highDemand
+EN: High Demand
+
+[141] ID:823 | KEY: value.tax.noValue
+EN: No Tax Value
+
+[142] ID:838 | KEY: debt.tax
+EN: Tax & Debt
+
+[143] ID:839 | KEY: debt.inventory
+EN: Central Warehouse
+
+[144] ID:840 | KEY: debt.inventorydesc
+EN: Pay taxes by loading resources from warehouses onto the Tax Collector's ship.
+
+[145] ID:841 | KEY: debt.insufficientpayment
+EN: Insufficient Payment
+
+[146] ID:842 | KEY: debt.sendingpartial
+EN: Sending Partial Payment
+
+[147] ID:843 | KEY: debt.sendingfull
+EN: Sending Full Payment
+
+[148] ID:844 | KEY: debt.sendingbonus
+EN: Sending Bonus Payment
+
+[149] ID:845 | KEY: debt.sendship
+EN: Send Shipment
+
+[150] ID:846 | KEY: debt.sendpartial
+EN: Send Partial Shipment
+
+[151] ID:847 | KEY: debt.sendfull
+EN: Send Full Shipment 
+
+[152] ID:848 | KEY: debt.sendbonus
+EN: Send Large Shipment
+
+[153] ID:849 | KEY: debt.morerequired
+EN: More cargo required
+
+[154] ID:863 | KEY: cursor.startDrag
+EN: Begin Drag
+
+[155] ID:864 | KEY: cursor.holdToBulldoze
+EN: Hold to Bulldoze
+
+[156] ID:877 | KEY: title.quest.survive
+EN: Secure Food
+
+[157] ID:878 | KEY: title.quest.housing
+EN: A Town Our Own
+
+[158] ID:879 | KEY: title.quest.resources
+EN: Underground Riches
+
+[159] ID:880 | KEY: story.quest.resources
+EN: Paying taxes to the Crown is your primary responsibility. Most colonies pay their taxes with Ores. Copper pays best, but Coal is more plentiful. Desperate colonies will ship out their construction Logs. You would be wise to choose the path of non-desperation.
+
+Build and fully assign 2 workers to at least 1 Mining Camp.
+
+[160] ID:881 | KEY: title.quest.pop1
+EN: The Line Must Go Up
+
+[161] ID:882 | KEY: story.quest.pop1
+EN: You have been entrusted by your fellow Whiskers to lead their colony. This is the highest honor any Whisker can attain. The teeming masses of mainland Whiskers are pleading to live in colonies such as yours. They wish only to serve the Crown on a wild island such as yours. Do not disappoint them.
+
+Grow your colony to 21 Whiskers so you can start paying some real taxes.
+
+[162] ID:883 | KEY: title.quest.pirateattack
+EN: We don’t Negotiate with Pirates
+
+[163] ID:884 | KEY: story.quest.pirateattack
+EN: There have been reports of pirate ransom demands in your part of the world. Under no circumstances are you to yield or to even consider paying their exaction.
+
+Should your colony survive, report back the Pirate’s shakedown tactics.
+
+[164] ID:885 | KEY: choiceresult.startsquest
+EN: Starts Quest
+
+[165] ID:905 | KEY: day.daysUntil
+EN: days until
+
+[166] ID:911 | KEY: dialog.collapsed
+EN: has Collapsed
+
+[167] ID:912 | KEY: dialog.lose
+EN: The Claws soon arrive to an empty port.
+
+An inspection party is sent out, but no signs of life are found.
+
+A pity...
+
+[168] ID:913 | KEY: stat.daysSurvived
+EN: Days survived
+
+[169] ID:914 | KEY: stat.taxesPaid
+EN: Total taxes extracted
+
+[170] ID:924 | KEY: unlockPanel.newBlueprint
+EN: New Schematic Granted
+
+[171] ID:925 | KEY: unlockPanel.newRecipe
+EN: New Recipe
+
+[172] ID:934 | KEY: story.quest.mousetraps
+EN: Cockroaches! They’ve infested our Central Warehouse! They might even be lurking in the other warehouses. The dirty things are eating almost 2 Food per minute!
+
+A group of us have figured out how to rejig the Sawmill to produce Traps. Switch production recipes to produce it at any Sawmill. A stockpile of 13 Traps should be enough to eliminate the threat.
+
+[173] ID:937 | KEY: story.quest.mousetraps.failure
+EN: Unfortunately we could not procure enough traps in time. The infestation has now spread to our production facilities as well!
+
+
+We will do our best to clean this up over the next few days...
+
+[174] ID:938 | KEY: title.quest.pestcontrol
+EN: Pest Control
+
+[175] ID:939 | KEY: quest.resolved
+EN: Event has resolved.
+
+[176] ID:940 | KEY: quest.failed
+EN: Event was not resolved.
+
+[177] ID:941 | KEY: story.quest.mousetraps.success
+EN: With the supplied traps we were able to get a hold on the pest population! Thank you for your timely assistance.
+
+[178] ID:942 | KEY: demo.fullgame
+EN: Not Available in Demo
+
+[179] ID:943 | KEY: unlockpanel.questTechnology
+EN: Quest Schematic
+
+[180] ID:944 | KEY: mission.lastsUntilResolved
+EN: Lasts until resolved
+
+[181] ID:945 | KEY: mission.objective
+EN: Objective
+
+[182] ID:946 | KEY: mission.reward
+EN: Reward
+
+[183] ID:947 | KEY: mission.ifNotResolvedIn
+EN: If not resolved within
+
+[184] ID:978 | KEY: debt.upcoming
+EN: Upcoming Taxes
+
+[185] ID:987 | KEY: debt.basetax
+EN: Administrative Tax
+
+[186] ID:989 | KEY: statCategory.extracted
+EN: Extracted
+
+[187] ID:990 | KEY: statCategory.produced
+EN: Produced in industry
+
+[188] ID:991 | KEY: statCategory.usedByIndustry
+EN: Used in industry
+
+[189] ID:992 | KEY: statCategory.construction
+EN: Construction
+
+[190] ID:993 | KEY: statCategory.consumption
+EN: Consumed
+
+[191] ID:994 | KEY: statCategory.trade
+EN: Trade and Exports
+
+[192] ID:995 | KEY: statCategory.other
+EN: Special events
+
+[193] ID:996 | KEY: reward.mechanical
+EN: Rusty Machinery
+
+[194] ID:997 | KEY: reward.food
+EN: Stale Rations
+
+[195] ID:998 | KEY: reward.materialWood
+EN: Spare Scrap
+
+[196] ID:999 | KEY: reward.materialStone
+EN: Spare Scrap
+
+[197] ID:1000 | KEY: reward.fuel
+EN: Old Charcoal
+
+[198] ID:1001 | KEY: reward.metals
+EN: Scrap Metals
+
+[199] ID:1002 | KEY: demo.wishlistupsell
+EN: Wishlist Whiskerwood Now
+
+[200] ID:1003 | KEY: demo.wishlistcalltoaction
+EN: Add to your wishlist
+
+[201] ID:1004 | KEY: demo.demologo
+EN: Preview
+
+[202] ID:1007 | KEY: reward.whisker
+EN: Discovered Stowaways
+
+[203] ID:1008 | KEY: welcome.title
+EN: This game is still in development.
+
+[204] ID:1009 | KEY: welcome.eawarning
+EN: Welcome to the Early Access of Whiskerwood! We're thrilled to share the game with you, and excited to hear any and all feedback you might have. Throughout Early Access, we'll be adding content and features, bug fixing, balancing, and generally working to make the game better through all the comments and feedback of the player community. Thank you for your support as we work to make Whiskerwood the best experience possible!
+
+[205] ID:1010 | KEY: welcome.byline
+EN: Daniel,
+Programmer
+
+[206] ID:1011 | KEY: welcome.verb
+EN: Continue
+
+[207] ID:1013 | KEY: reward.farmSupplies
+EN: Farming Equipment
+
+[208] ID:1014 | KEY: reward.medicine
+EN: Old Medical Chest
+
+[209] ID:1015 | KEY: debt.gift.other
+EN: Other
+
+[210] ID:1019 | KEY: value.tax.due
+EN: Due
+
+[211] ID:1020 | KEY: value.tax.storage
+EN: Storage
+
+[212] ID:1021 | KEY: value.tax.shiparriveTime
+EN: Tax Collector in <0> Days
+
+[213] ID:1022 | KEY: value.tax.shiparriveTomorrow
+EN: Tax Collector arrives Tomorrow
+
+[214] ID:1023 | KEY: value.tax.shiparriveToday
+EN: Tax Collector arrives Today!
+
+[215] ID:1025 | KEY: time.endsTonight
+EN: Ends Tonight
+
+[216] ID:1170 | KEY: info.modifier
+EN: Modifier
+
+[217] ID:1171 | KEY: mod.nosleep
+EN: Poor Sleep
+
+[218] ID:1172 | KEY: mod.hunger
+EN: Hungry
+
+[219] ID:1173 | KEY: mod.starvation
+EN: Starving
+
+[220] ID:1174 | KEY: mod.injury.illness
+EN: Sick
+
+[221] ID:1175 | KEY: mod.injury.wound
+EN: Wounded
+
+[222] ID:1176 | KEY: mod.injury.extremeillness
+EN: Extremely Sick
+
+[223] ID:1177 | KEY: mod.chilly
+EN: Chilly
+
+[224] ID:1178 | KEY: mod.cold
+EN: Cold
+
+[225] ID:1179 | KEY: mod.Freezing
+EN: Freezing
+
+[226] ID:1180 | KEY: mod.bathed
+EN: Steamy Bath
+
+[227] ID:1181 | KEY: mod.matchingGuildEmployer
+EN: Guild Specialty
+
+[228] ID:1182 | KEY: mod.rawFoodComplaint
+EN: Ate raw food
+
+[229] ID:1183 | KEY: mod.newarrival
+EN: Fresh Arrival
+
+[230] ID:1184 | KEY: mod.statueIntimidation
+EN: Saw intimidating visage
+
+[231] ID:1185 | KEY: mod.statueIntimidation2
+EN: Saw terrifying visage
+
+[232] ID:1186 | KEY: mod.engineerPassive
+EN: Engineers Guild
+
+[233] ID:1187 | KEY: mod.explorersPassive
+EN: Explorers Guild
+
+[234] ID:1188 | KEY: mod.minersPassive
+EN: Miners Guild
+
+[235] ID:1189 | KEY: mod.trait.swift
+EN: Swift
+
+[236] ID:1190 | KEY: mod.trait.strongshoulders
+EN: Strong Shoulders
+
+[237] ID:1191 | KEY: mod.trait.scientist
+EN: Skilled Scientist
+
+[238] ID:1192 | KEY: mod.lightpollution
+EN: Mild pollution
+
+[239] ID:1193 | KEY: mod.heavypollution
+EN: Nauseating pollution
+
+[240] ID:1194 | KEY: mod.desc.nosleep
+EN: Did not get rest in a proper home last night
+
+[241] ID:1195 | KEY: mod.desc.hunger
+EN: Failed to find food in the last day
+
+[242] ID:1196 | KEY: mod.desc.starvation
+EN: Will die soon without food!
+
+[243] ID:1197 | KEY: mod.desc.injury.illness
+EN: Deathly ill
+
+[244] ID:1198 | KEY: mod.desc.injury.wound
+EN: Physically injured and needs treatment
+
+[245] ID:1199 | KEY: mod.desc.injury.extremeillness
+EN: Can see the light at the end of the tunnel
+
+[246] ID:1200 | KEY: mod.desc.chilly
+EN: Slight chill and cold paws
+
+[247] ID:1201 | KEY: mod.desc.cold
+EN: Strong shiver and numb paws
+
+[248] ID:1202 | KEY: mod.desc.Freezing
+EN: Deathly cold. Find heat immediately!
+
+[249] ID:1203 | KEY: mod.desc.bathed
+EN: Enjoyed time at a bathhouse
+
+[250] ID:1204 | KEY: mod.desc.matchingGuildEmployer
+EN: Whisker is working a job that matches their guild specialty
+
+[251] ID:1205 | KEY: mod.desc.rawFoodComplaint
+EN: Resorting to eating raw ingredients is insulting to the Farmers Guild
+
+[252] ID:1206 | KEY: mod.desc.newarrival
+EN: This Whisker is new to the colony and has some fresh optimism
+
+[253] ID:1207 | KEY: mod.desc.statueIntimidation
+EN: Intimidated by a nearby Claw statue
+
+[254] ID:1208 | KEY: mod.desc.statueIntimidation2
+EN: Extremely Intimidated by a nearby Claw statue
+
+[255] ID:1209 | KEY: mod.desc.engineerPassive
+EN: Engineers guild Whiskers are efficient workers
+
+[256] ID:1210 | KEY: mod.desc.explorersPassive
+EN: Explorers guild Whiskers move quickly on path and terrain alike
+
+[257] ID:1211 | KEY: mod.desc.minersPassive
+EN: Miners guild Whiskers are strong and can carry additional resources
+
+[258] ID:1212 | KEY: mod.desc.trait.swift
+EN: This Whisker is exceptionally fast
+
+[259] ID:1213 | KEY: mod.desc.trait.strongshoulders
+EN: This Whisker is exceptionally strong
+
+[260] ID:1214 | KEY: mod.desc.trait.scientist
+EN: This Whisker is adept at Research
+
+[261] ID:1215 | KEY: mod.desc.lightpollution
+EN: Polluted air
+
+[262] ID:1216 | KEY: mod.desc.heavypollution
+EN: Coughing through heavy pollution
+
+[263] ID:1221 | KEY: approval.capacityHint
+EN: Capacity grows with population size.
+
+[264] ID:1224 | KEY: message.taxshiparrived
+EN: Tax ship has arrived
+
+[265] ID:1225 | KEY: message.firstWhiskersArrived
+EN: Your Whiskers have arrived
+
+[266] ID:1226 | KEY: message.firstSuppliesArrived
+EN: Your supplies have arrived
+
+[267] ID:1227 | KEY: message.whiskerShipArrived
+EN: Whisker ship has arrived
+
+[268] ID:1228 | KEY: message.weaselSupplyShipArived
+EN: Supplier has arrived
+
+[269] ID:1229 | KEY: message.piratesArrived
+EN: Pirates have given their demands!
+
+[270] ID:1230 | KEY: message.daybegins
+EN: Day <0> begins
+
+[271] ID:1231 | KEY: message.shipDepartingSoon
+EN: Docked ship is about to depart!
+
+[272] ID:1232 | KEY: message.decidingRewards
+EN: The Claw delegation will speak to you soon
+
+[273] ID:1233 | KEY: message.policiesUnlocked
+EN: Policies Unlocked
+
+[274] ID:1234 | KEY: message.policySlotGained
+EN: Office Created - Policy Slot Gained
+
+[275] ID:1235 | KEY: message.policySlotLost
+EN: Office Destroyed - Policy Slot Lost
+
+[276] ID:1237 | KEY: message.dayended
+EN: Day <0> has ended
+
+[277] ID:1238 | KEY: message.dayendedGeneric
+EN: Day has ended
+
+[278] ID:1239 | KEY: message.messages
+EN: Messages
+
+[279] ID:1240 | KEY: counter.lasts
+EN: Lasts
+
+[280] ID:1241 | KEY: eventType.message
+EN: Message
+
+[281] ID:1242 | KEY: eventType.decision
+EN: Decision
+
+[282] ID:1243 | KEY: eventType.request
+EN: Quest Start
+
+[283] ID:1244 | KEY: event.dockedShip
+EN: Docked Ship
+
+[284] ID:1245 | KEY: eventType.tutorial
+EN: Advisor
+
+[285] ID:1246 | KEY: eventType.deaths
+EN: Obituaries
+
+[286] ID:1247 | KEY: eventType.questComplete
+EN: Quest Ready
+
+[287] ID:1248 | KEY: eventType.missionexpiration
+EN: Quest Expired
+
+[288] ID:1252 | KEY: questgoal.population
+EN: Population
+
+[289] ID:1253 | KEY: questgoal.buildingCount
+EN: <0> built
+
+[290] ID:1254 | KEY: questgoal.production
+EN: Produce <0>
+
+[291] ID:1255 | KEY: questgoal.deliverResources
+EN: Deliver <0>
+
+[292] ID:1256 | KEY: questgoal.earnInfluence
+EN: Approval Earned
+
+[293] ID:1257 | KEY: questgoal.housingSpace
+EN: Housing Space
+
+[294] ID:1258 | KEY: questgoal.onedayproduction
+EN: Produce <0> today
+
+[295] ID:1259 | KEY: questgoal.nodes.trees
+EN: Trees cut down
+
+[296] ID:1260 | KEY: questgoal.nodes.berries
+EN: Berries gathered
+
+[297] ID:1261 | KEY: questgoal.nodes.fish
+EN: Fish caught
+
+[298] ID:1262 | KEY: questgoal.workers
+EN: <0> workers
+
+[299] ID:1263 | KEY: questgoal.farmed
+EN: <0> from farms
+
+[300] ID:1264 | KEY: quest.generic
+EN: Quest
+
+[301] ID:1265 | KEY: approval.estimate
+EN: Estimated Approval Tonight
+
+[302] ID:1266 | KEY: approval.earned
+EN: Approval Gained
+
+[303] ID:1267 | KEY: approval.low
+EN: Your Whiskers begin to doubt you...
+
+[304] ID:1268 | KEY: approval.max
+EN: Max
+
+[305] ID:1269 | KEY: choice.accept
+EN: Accept
+
+[306] ID:1270 | KEY: choice.accepted
+EN: Accepted
+
+[307] ID:1275 | KEY: fluidcontrol.limit
+EN: Allow flow if Input side is above:
+
+[308] ID:1276 | KEY: launcher.launchCost
+EN: Launch cost:
+
+[309] ID:1277 | KEY: launcher.noDestination
+EN: No Destination Assigned!
+
+[310] ID:1279 | KEY: construction.instant
+EN: Instant Build
+
+[311] ID:1280 | KEY: construction.free
+EN: Free Construction
+
+[312] ID:1290 | KEY: slotdecorative.lamp
+EN: Lantern
+
+[313] ID:1291 | KEY: slotdecorative.torch
+EN: Torch
+
+[314] ID:1292 | KEY: slotdecoractive.ropefence
+EN: Rope Railing
+
+[315] ID:1293 | KEY: slotdecorative.cobblefence
+EN: Cobble Fence
+
+[316] ID:1294 | KEY: slotdecorative.privacyfence
+EN: Privacy Fence
+
+[317] ID:1295 | KEY: slotdecorative.barrels
+EN: Barrels
+
+[318] ID:1296 | KEY: slotdecorative.crates
+EN: Crates
+
+[319] ID:1297 | KEY: slotdecorative.bench
+EN: Bench
+
+[320] ID:1298 | KEY: slotdecorative.planter
+EN: Planter
+
+[321] ID:1299 | KEY: slotdecorative.onewaygate
+EN: One-Way Gate
+
+[322] ID:1300 | KEY: slotdecorative.stonerailing
+EN: Stone Railing
+
+[323] ID:1303 | KEY: debt.availableExports
+EN: Available Exports
+
+[324] ID:1314 | KEY: filter.all
+EN: All
+
+[325] ID:1315 | KEY: filter.nojob
+EN: No Job
+
+[326] ID:1316 | KEY: filter.nohouse
+EN: No House
+
+[327] ID:1317 | KEY: reward.taxcredit
+EN: Tax Credit
+
+[328] ID:1320 | KEY: agent.speed
+EN: Move Speed
+
+[329] ID:1321 | KEY: agent.efficiency
+EN: Work Speed
+
+[330] ID:1322 | KEY: agent.strength
+EN: Carry Capacity
+
+[331] ID:1323 | KEY: steamengine.idle
+EN: Idle
+
+[332] ID:1324 | KEY: steamengine.powered
+EN: Providing Power
+
+[333] ID:1337 | KEY: structuretemperature.freezing
+EN: Dangerously cold
+
+[334] ID:1338 | KEY: structuretemperature.freezing.desc
+EN: Dangerously cold for workers and harsh on industrial machinery.
+

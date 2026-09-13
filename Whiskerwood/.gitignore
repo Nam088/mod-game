@@ -1,0 +1,22 @@
+# Build output
+build/
+scratch/
+scratch_p3.json
+*.pak
+
+# Extracted assets (ignore heavy unused fonts and other languages, keep Loc_En for CI)
+extracted/
+!extracted/Whiskerwood/
+!extracted/Whiskerwood/Content/
+!extracted/Whiskerwood/Content/Data/
+!extracted/Whiskerwood/Content/Data/TextDB/
+!extracted/Whiskerwood/Content/Data/TextDB/Loc_En.uasset
+!extracted/Whiskerwood/Content/Data/TextDB/Loc_En.uexp
+
+# .NET build artifacts
+tools/WhiskerwoodConverter/bin/
+tools/WhiskerwoodConverter/obj/
+
+# Python cache
+__pycache__/
+*.pyc

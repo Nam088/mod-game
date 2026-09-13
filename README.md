@@ -59,6 +59,50 @@ Kho lưu trữ mã nguồn, công cụ và bản dịch Việt hóa cho các t�
   - Bộ công cụ hoàn chỉnh: `verify_translation.py` (thẩm định cú pháp RichText, biến số, độ dài UI), `export_csv_mod.py` (biên dịch CSV) và `deploy_to_game.py` (hot-deploy 1-click vào thư mục cài đặt game).
 
 
+
+
+---
+
+## 🐭 5. Whiskerwood (`mod-game/Whiskerwood`)
+
+### 📌 Giới Thiệu Game:
+**Whiskerwood** là tựa game mô phỏng xây dựng thành phố, sinh tồn và tự động hóa chuỗi cung ứng logistics cơ khí hơi nước trong thế giới ngụ ngôn loài chuột thời kỳ Victoria (Unreal Engine 5). Người chơi vào vai Trưởng Làng, lãnh đạo bầy chuột tha hương khai hoang quần đảo hoang sơ, xây dựng hệ thống băng tải, máng trượt, sưởi ấm mùa đông và chống chọi trước sự cai trị bóc lột của loài Mèo (Phe Móng Vuốt).
+
+### 🛠️ Chi Tiết Mod Việt Hóa:
+- **Tình trạng dịch**: **100% Hoàn thành (2,751 keys - Đạt chuẩn Blind QA Tier S 9.1/10)**.
+- **Tính năng nổi bật**:
+  - Bản dịch thuần Việt 100%, tuân thủ nghiêm ngặt quy chuẩn sinh thái loài chuột (Mouse Ecology Lore): loại bỏ hoàn toàn từ ngữ loài người ("người làm", "người dân" ➔ "cư dân chuột", "chuột thợ", "đồng loại", "bầy chuột").
+  - Chuẩn hóa toàn bộ hệ thống cơ khí & logistics: *Băng Chuyền, Máng Trượt, Phễu Nạp, Bệ Phóng/Bắn Hàng, Tháp Sàng, Nồi Hơi*.
+  - Chuyển ngữ đầy đủ toàn bộ thư từ nhiệm vụ cốt truyện Hồi I & Hồi II, đối phó áp bức thu thuế của Công Tước Mèo Micalico và cuộc khởi nghĩa của Stormie.
+  - Định dạng Standalone PAK Mod (`Whiskerwood-Vietnamese_P.pak`), tích hợp sẵn font tiếng Việt UE5, cài đặt cực nhanh chỉ bằng cách copy vào thư mục `Content\Paks\~mods\`.
+  - Bộ công cụ hoàn chỉnh: `verify_translation.py`, `uasset_patcher.py` và `build_and_deploy_mod.py`.
+
+---
+
+## 👑 6. Manor Lords (`mod-game/Manor-Lords`)
+
+### 📌 Giới Thiệu Game:
+**Manor Lords** là tựa game chiến thuật thời gian thực kết hợp xây dựng thành phố thời Trung Cổ thế kỷ 14 cực kỳ chân thực trên nền tảng Unreal Engine 5.5. Game mô phỏng chi tiết đời sống nông thôn, lưới đường tự do, canh tác luân canh mùa vụ và các trận đại chiến quy mô lớn.
+
+### 🛠️ Chi Tiết Mod Việt Hóa:
+- **Tình trạng dịch**: Dự án bản địa hóa chuyên sâu theo chuẩn cấu trúc DataTable UAsset của Unreal Engine 5.5.
+- **Tính năng nổi bật**:
+  - Trích xuất và patch trực tiếp chuỗi bản dịch vào DataTable nhị phân của game.
+  - Tích hợp bộ công cụ chuyển đổi DataTable, đóng gói `repak.exe` và kiểm định cú pháp.
+
+---
+
+## 🧪 7. Oxygen Not Included (`mod-game/Oxygen-Not-Included`)
+
+### 📌 Giới Thiệu Game:
+**Oxygen Not Included** là tựa game mô phỏng quản lý không gian và thuộc địa sinh tồn trên tiểu hành tinh vũ trụ nổi tiếng của Klei Entertainment. Người chơi phải điều phối các nhân bản (Duplicants) khai khoáng, xây dựng mạng lưới điện, khí oxy, nước, nhiệt động lực học và chuỗi thức ăn để sinh tồn trong lòng tiểu hành tinh.
+
+### 🛠️ Chi Tiết Mod Việt Hóa:
+- **Tình trạng dịch**: Bản mod ngôn ngữ chuẩn hóa theo cơ chế Localization của Klei.
+- **Tính năng nổi bật**:
+  - Bản dịch tiếng Việt chuẩn ngữ pháp và thuật ngữ khoa học vật lý, hóa học, nhiệt động học.
+  - Tích hợp cấu trúc phát hành qua file PO/strings và đóng gói phân phối độc lập.
+
 ---
 
 ## 🚀 Hướng Dẫn Git & Đẩy Lên GitHub:
@@ -66,8 +110,9 @@ Kho lưu trữ mã nguồn, công cụ và bản dịch Việt hóa cho các t�
 Để đẩy toàn bộ bộ mod này lên Repository của bạn trên GitHub, hãy chạy các lệnh sau trong terminal:
 
 ```bash
-cd /d D:\mod-game
+cd /d D:\code\mod-game
 git remote add origin <URL-Repository-GitHub-Cua-Ban>
 git branch -M main
 git push -u origin main
 ```
+

@@ -1,0 +1,4092 @@
+[
+  {
+    "id": 6,
+    "key": "building.stonepath",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Path",
+    "target_vi": "Đường Lát Đá",
+    "context": "building | Row 6",
+    "offset": 166,
+    "length": 11
+  },
+  {
+    "id": 7,
+    "key": "building.stairs",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Long Stairs",
+    "target_vi": "Cầu Thang Dài",
+    "context": "building | Row 7",
+    "offset": 191,
+    "length": 12
+  },
+  {
+    "id": 8,
+    "key": "building.ladder",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steep Stairs",
+    "target_vi": "Thang Dốc",
+    "context": "building | Row 8",
+    "offset": 217,
+    "length": 13
+  },
+  {
+    "id": 9,
+    "key": "building.slide",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Slide",
+    "target_vi": "Máng Trượt Chuột",
+    "context": "building | Row 9",
+    "offset": 244,
+    "length": 6
+  },
+  {
+    "id": 10,
+    "key": "building.conveyor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Whisker Conveyor",
+    "target_vi": "Băng Chuyền Chở Chuột",
+    "context": "building | Row 10",
+    "offset": 264,
+    "length": 17
+  },
+  {
+    "id": 11,
+    "key": "building.logisticshud",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Freight Hub",
+    "target_vi": "Trạm Vận Tải Hàng",
+    "context": "building | Row 11",
+    "offset": 295,
+    "length": 12
+  },
+  {
+    "id": 12,
+    "key": "building.woodcutter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Woodcutter",
+    "target_vi": "Trại Đốn Gỗ",
+    "context": "building | Row 12",
+    "offset": 321,
+    "length": 11
+  },
+  {
+    "id": 13,
+    "key": "building.stonecutter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stonecutter Camp",
+    "target_vi": "Trại Khai Thác Đá",
+    "context": "building | Row 13",
+    "offset": 346,
+    "length": 17
+  },
+  {
+    "id": 14,
+    "key": "building.gatheringcamp",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Forage Hut",
+    "target_vi": "Chòi Hái Lượm",
+    "context": "building | Row 14",
+    "offset": 377,
+    "length": 11
+  },
+  {
+    "id": 15,
+    "key": "building.fishingdock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fishing Dock",
+    "target_vi": "Bến Đánh Cá",
+    "context": "building | Row 15",
+    "offset": 402,
+    "length": 13
+  },
+  {
+    "id": 16,
+    "key": "building.fishery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Smokery",
+    "target_vi": "Nhà Hun Khói",
+    "context": "building | Row 16",
+    "offset": 429,
+    "length": 8
+  },
+  {
+    "id": 17,
+    "key": "building.lumbermill",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sawmill",
+    "target_vi": "Xưởng Xẻ Gỗ",
+    "context": "building | Row 17",
+    "offset": 451,
+    "length": 8
+  },
+  {
+    "id": 18,
+    "key": "building.granary",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Granary",
+    "target_vi": "Kho Thóc",
+    "context": "building | Row 18",
+    "offset": 473,
+    "length": 8
+  },
+  {
+    "id": 19,
+    "key": "building.brickmaker",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Cutter",
+    "target_vi": "Xưởng Đẽo Đá",
+    "context": "building | Row 19",
+    "offset": 495,
+    "length": 13
+  },
+  {
+    "id": 20,
+    "key": "building.repair",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Maintenance Bay",
+    "target_vi": "Trạm Bảo Dưỡng",
+    "context": "building | Row 20",
+    "offset": 522,
+    "length": 16
+  },
+  {
+    "id": 21,
+    "key": "building.stewbrewery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Soup Kitchen",
+    "target_vi": "Bếp Nấu Súp",
+    "context": "building | Row 21",
+    "offset": 552,
+    "length": 13
+  },
+  {
+    "id": 22,
+    "key": "building.finekitchen",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fine Kitchen",
+    "target_vi": "Bếp Thượng Hạng",
+    "context": "building | Row 22",
+    "offset": 579,
+    "length": 13
+  },
+  {
+    "id": 23,
+    "key": "building.charcoalfurnace",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Charcoal Furnace",
+    "target_vi": "Lò Than Củi",
+    "context": "building | Row 23",
+    "offset": 606,
+    "length": 17
+  },
+  {
+    "id": 24,
+    "key": "building.lab",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Engineering Lab",
+    "target_vi": "Phòng Kỹ Nghệ",
+    "context": "building | Row 24",
+    "offset": 637,
+    "length": 16
+  },
+  {
+    "id": 25,
+    "key": "building.townhall",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Town Hall",
+    "target_vi": "Tòa Thị Chính",
+    "context": "building | Row 25",
+    "offset": 667,
+    "length": 10
+  },
+  {
+    "id": 26,
+    "key": "building.factiondock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Main Dock",
+    "target_vi": "Bến Cảng Chính",
+    "context": "building | Row 26",
+    "offset": 691,
+    "length": 10
+  },
+  {
+    "id": 27,
+    "key": "building.eatery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cafe",
+    "target_vi": "Quán Ăn Nhỏ",
+    "context": "building | Row 27",
+    "offset": 715,
+    "length": 5
+  },
+  {
+    "id": 28,
+    "key": "building.smallwell",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Well",
+    "target_vi": "Giếng Nước Nhỏ",
+    "context": "building | Row 28",
+    "offset": 734,
+    "length": 11
+  },
+  {
+    "id": 29,
+    "key": "building.trashcollection",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Trash Collector",
+    "target_vi": "Điểm Thu Gom Rác",
+    "context": "building | Row 29",
+    "offset": 759,
+    "length": 16
+  },
+  {
+    "id": 30,
+    "key": "building.restroom",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Restroom",
+    "target_vi": "Nhà Vệ Sinh",
+    "context": "building | Row 30",
+    "offset": 789,
+    "length": 9
+  },
+  {
+    "id": 31,
+    "key": "building.flowerbed",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Flowerbed",
+    "target_vi": "Bồn Hoa Dại",
+    "context": "building | Row 31",
+    "offset": 812,
+    "length": 10
+  },
+  {
+    "id": 32,
+    "key": "building.bonfire",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bonfire",
+    "target_vi": "Đống Lửa Sưởi",
+    "context": "building | Row 32",
+    "offset": 836,
+    "length": 8
+  },
+  {
+    "id": 33,
+    "key": "building.statue",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Claws Visage",
+    "target_vi": "Tượng Đài Móng Vuốt",
+    "context": "building | Row 33",
+    "offset": 858,
+    "length": 13
+  },
+  {
+    "id": 34,
+    "key": "building.bonsai",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bonsai",
+    "target_vi": "Cây Cảnh Bonsai",
+    "context": "building | Row 34",
+    "offset": 885,
+    "length": 7
+  },
+  {
+    "id": 35,
+    "key": "building.smallplanter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Planter",
+    "target_vi": "Chậu Cây Nhỏ",
+    "context": "building | Row 35",
+    "offset": 906,
+    "length": 14
+  },
+  {
+    "id": 36,
+    "key": "building.woodbench",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wooden Bench",
+    "target_vi": "Ghế Gỗ Dài",
+    "context": "building | Row 36",
+    "offset": 934,
+    "length": 13
+  },
+  {
+    "id": 37,
+    "key": "building.signpost",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Signpost",
+    "target_vi": "Bảng Thông Cáo Làng",
+    "context": "building | Row 37",
+    "offset": 961,
+    "length": 9
+  },
+  {
+    "id": 38,
+    "key": "building.windmill",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Windmill",
+    "target_vi": "Cối Xay Gió",
+    "context": "building | Row 38",
+    "offset": 984,
+    "length": 9
+  },
+  {
+    "id": 39,
+    "key": "building.raincatcher",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Moisture Harvester",
+    "target_vi": "Giàn Hứng Hơi Ẩm",
+    "context": "building | Row 39",
+    "offset": 1007,
+    "length": 19
+  },
+  {
+    "id": 40,
+    "key": "building.warehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Central Warehouse",
+    "target_vi": "Kho Tổng",
+    "context": "building | Row 40",
+    "offset": 1040,
+    "length": 18
+  },
+  {
+    "id": 41,
+    "key": "building.smallwarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Warehouse",
+    "target_vi": "Kho Nhỏ",
+    "context": "building | Row 41",
+    "offset": 1072,
+    "length": 16
+  },
+  {
+    "id": 42,
+    "key": "building.sensortower",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sensor Tower",
+    "target_vi": "Tháp Cảm Biến",
+    "context": "building | Row 42",
+    "offset": 1102,
+    "length": 13
+  },
+  {
+    "id": 43,
+    "key": "building.battery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Battery",
+    "target_vi": "Bình Ắc Quy",
+    "context": "building | Row 43",
+    "offset": 1129,
+    "length": 8
+  },
+  {
+    "id": 44,
+    "key": "building.farm",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Farm",
+    "target_vi": "Nông Trại",
+    "context": "building | Row 44",
+    "offset": 1151,
+    "length": 5
+  },
+  {
+    "id": 47,
+    "key": "aim.flat",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Flat Belt",
+    "target_vi": "Băng Tải Phẳng",
+    "context": "aim | Row 47",
+    "offset": 1229,
+    "length": 10
+  },
+  {
+    "id": 48,
+    "key": "aim.lift",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Up-Lift Stairs",
+    "target_vi": "Băng Tải Leo Tầng",
+    "context": "aim | Row 48",
+    "offset": 1253,
+    "length": 15
+  },
+  {
+    "id": 49,
+    "key": "aim.slide",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Down-Drop Slide",
+    "target_vi": "Máng Trượt Xuống Tầng",
+    "context": "aim | Row 49",
+    "offset": 1282,
+    "length": 16
+  },
+  {
+    "id": 50,
+    "key": "aim.flat.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Rolling belt which moves resources from Input Hoppers to receiving destinations.",
+    "target_vi": "Băng chuyền lăn đưa tài nguyên từ Phễu Nạp đến các điểm tiếp nhận.",
+    "context": "aim | Row 50",
+    "offset": 1312,
+    "length": 81
+  },
+  {
+    "id": 51,
+    "key": "aim.lift.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Lifts resources on belts to a higher elevation.",
+    "target_vi": "Đưa tài nguyên trên băng tải lên tầng vách đá cao hơn.",
+    "context": "aim | Row 51",
+    "offset": 1407,
+    "length": 48
+  },
+  {
+    "id": 52,
+    "key": "aim.slide.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Slides resources on belts down to a lower elevation.",
+    "target_vi": "Cho tài nguyên trượt dốc xuống tầng thấp hơn.",
+    "context": "aim | Row 52",
+    "offset": 1469,
+    "length": 53
+  },
+  {
+    "id": 54,
+    "key": "aim.inbox",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Input Hopper",
+    "target_vi": "Phễu Nạp Hàng",
+    "context": "aim | Row 54",
+    "offset": 1556,
+    "length": 13
+  },
+  {
+    "id": 55,
+    "key": "aim.outbox",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Output Storehouse",
+    "target_vi": "Hộc Đón Hàng Băng Tải",
+    "context": "aim | Row 55",
+    "offset": 1583,
+    "length": 18
+  },
+  {
+    "id": 56,
+    "key": "aim.inbox.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Drop-off location that feeds into conveyor belts.\n\nConfigure allowed resources.\n\nIndustries can assign their outputs to be delivered here.",
+    "target_vi": "Điểm tập kết thả hàng để cấp tài nguyên vào băng chuyền.\n\nCó thể cấu hình loại hàng cho phép.\n\nCác nhà xưởng có thể chọn điểm này để trả hàng ra.",
+    "context": "aim | Row 56",
+    "offset": 1615,
+    "length": 139
+  },
+  {
+    "id": 57,
+    "key": "aim.outbox.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Catching box to temporarily hold received items for later manual transport. Limited capacity.",
+    "target_vi": "Hộc hứng giữ tạm các món hàng chuyển tới để thợ bốc vác thủ công sau. Sức chứa có hạn.",
+    "context": "aim | Row 57",
+    "offset": 1768,
+    "length": 94
+  },
+  {
+    "id": 58,
+    "key": "building.miningcamp",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Mining Camp",
+    "target_vi": "Khu Khai Thác Mỏ",
+    "context": "building | Row 58",
+    "offset": 1876,
+    "length": 12
+  },
+  {
+    "id": 71,
+    "key": "building.heater",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Heating Stove",
+    "target_vi": "Lò Sưởi Đá",
+    "context": "building | Row 71",
+    "offset": 2278,
+    "length": 14
+  },
+  {
+    "id": 73,
+    "key": "building.chimes",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wind Chimes",
+    "target_vi": "Chuông Gió",
+    "context": "building | Row 73",
+    "offset": 2336,
+    "length": 12
+  },
+  {
+    "id": 74,
+    "key": "building.oresmelter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Ore Furnace",
+    "target_vi": "Lò Nấu Quặng",
+    "context": "building | Row 74",
+    "offset": 2362,
+    "length": 12
+  },
+  {
+    "id": 75,
+    "key": "building.toolmaker",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Coppersmith",
+    "target_vi": "Xưởng Rèn Đồng",
+    "context": "building | Row 75",
+    "offset": 2388,
+    "length": 12
+  },
+  {
+    "id": 78,
+    "key": "building.waterpump",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Water Pump",
+    "target_vi": "Máy Bơm Nước",
+    "context": "building | Row 78",
+    "offset": 2480,
+    "length": 11
+  },
+  {
+    "id": 86,
+    "key": "building.mousewheel",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Whisker Wheel",
+    "target_vi": "Bánh Xe Guồng Chuột",
+    "context": "building | Row 86",
+    "offset": 2836,
+    "length": 14
+  },
+  {
+    "id": 95,
+    "key": "building.elevatorshaft",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elevator Shaft",
+    "target_vi": "Trục Thang Máy",
+    "context": "building | Row 95",
+    "offset": 3282,
+    "length": 15
+  },
+  {
+    "id": 96,
+    "key": "building.elevatorentrance",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elevator Entrance",
+    "target_vi": "Cửa Vào Thang Máy",
+    "context": "building | Row 96",
+    "offset": 3311,
+    "length": 18
+  },
+  {
+    "id": 99,
+    "key": "building.logabode",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Log Cabin",
+    "target_vi": "Nhà Gỗ Đơn",
+    "context": "building | Row 99",
+    "offset": 3447,
+    "length": 10
+  },
+  {
+    "id": 109,
+    "key": "building.wheat",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wheat",
+    "target_vi": "Lúa Mì",
+    "context": "building | Row 109",
+    "offset": 3666,
+    "length": 6
+  },
+  {
+    "id": 110,
+    "key": "building.cheatheater",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Debug Heater",
+    "target_vi": "Lò Sưởi Debug",
+    "context": "building | Row 110",
+    "offset": 3686,
+    "length": 13
+  },
+  {
+    "id": 115,
+    "key": "building.pipe",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Water Pipe",
+    "target_vi": "Đường Ống Nước",
+    "context": "building | Row 115",
+    "offset": 3815,
+    "length": 11
+  },
+  {
+    "id": 116,
+    "key": "building.steampipe",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Pipe",
+    "target_vi": "Đường Ống Hơi Nước",
+    "context": "building | Row 116",
+    "offset": 3840,
+    "length": 11
+  },
+  {
+    "id": 118,
+    "key": "building.coalProcessor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sifting Tower",
+    "target_vi": "Tháp Sàng Khoáng Sản",
+    "context": "building | Row 118",
+    "offset": 3895,
+    "length": 14
+  },
+  {
+    "id": 119,
+    "key": "building.teahouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Teahouse",
+    "target_vi": "Quán Trà",
+    "context": "building | Row 119",
+    "offset": 3923,
+    "length": 9
+  },
+  {
+    "id": 120,
+    "key": "building.firetender",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fire Tender",
+    "target_vi": "Trại Chăm Lửa",
+    "context": "building | Row 120",
+    "offset": 3946,
+    "length": 12
+  },
+  {
+    "id": 121,
+    "key": "building.bathhouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bathhouse",
+    "target_vi": "Nhà Tắm Hơi",
+    "context": "building | Row 121",
+    "offset": 3972,
+    "length": 10
+  },
+  {
+    "id": 122,
+    "key": "building.waterfountain",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Water Fountain",
+    "target_vi": "Trụ Nước Uống",
+    "context": "building | Row 122",
+    "offset": 3996,
+    "length": 15
+  },
+  {
+    "id": 123,
+    "key": "building.logisticshub",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Logistics Hub",
+    "target_vi": "Trung Tâm Hậu Cần",
+    "context": "building | Row 123",
+    "offset": 4025,
+    "length": 14
+  },
+  {
+    "id": 124,
+    "key": "building.smallgranary",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Granary",
+    "target_vi": "Kho Thóc Nhỏ",
+    "context": "building | Row 124",
+    "offset": 4053,
+    "length": 14
+  },
+  {
+    "id": 125,
+    "key": "building.stonewall",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Wall",
+    "target_vi": "Tường Đá",
+    "context": "building | Row 125",
+    "offset": 4081,
+    "length": 11
+  },
+  {
+    "id": 126,
+    "key": "building.steamboiler",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Boiler",
+    "target_vi": "Nồi Hơi Nước",
+    "context": "building | Row 126",
+    "offset": 4106,
+    "length": 13
+  },
+  {
+    "id": 127,
+    "key": "building.radiator",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Radiator",
+    "target_vi": "Bộ Tản Nhiệt Hơi Nước",
+    "context": "building | Row 127",
+    "offset": 4133,
+    "length": 15
+  },
+  {
+    "id": 128,
+    "key": "building.researcharchive",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Research Archive",
+    "target_vi": "Kho Lưu Trữ Nghiên Cứu",
+    "context": "building | Row 128",
+    "offset": 4162,
+    "length": 17
+  },
+  {
+    "id": 129,
+    "key": "building.watertower",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Water Tank",
+    "target_vi": "Bồn Chứa Nước",
+    "context": "building | Row 129",
+    "offset": 4193,
+    "length": 11
+  },
+  {
+    "id": 130,
+    "key": "building.tinyhouse1",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Plank Abode",
+    "target_vi": "Nhà Ván Gỗ Đơn",
+    "context": "building | Row 130",
+    "offset": 4218,
+    "length": 12
+  },
+  {
+    "id": 131,
+    "key": "building.tinyhouse2",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Abode",
+    "target_vi": "Nhà Đá Đơn",
+    "context": "building | Row 131",
+    "offset": 4244,
+    "length": 12
+  },
+  {
+    "id": 132,
+    "key": "building.tinyhouse3",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elegant Abode",
+    "target_vi": "Nhà Sang Trọng Đơn",
+    "context": "building | Row 132",
+    "offset": 4270,
+    "length": 14
+  },
+  {
+    "id": 133,
+    "key": "building.smallhouse1",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Plank Blockhouse",
+    "target_vi": "Nhà Ván Gỗ Đôi",
+    "context": "building | Row 133",
+    "offset": 4298,
+    "length": 17
+  },
+  {
+    "id": 134,
+    "key": "building.smallhouse2",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Blockhouse",
+    "target_vi": "Nhà Đá Đôi",
+    "context": "building | Row 134",
+    "offset": 4329,
+    "length": 17
+  },
+  {
+    "id": 135,
+    "key": "building.smallhouse3",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elegant Blockhouse",
+    "target_vi": "Nhà Sang Trọng Đôi",
+    "context": "building | Row 135",
+    "offset": 4360,
+    "length": 19
+  },
+  {
+    "id": 136,
+    "key": "building.rowhouse1",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Plank Rowhouse",
+    "target_vi": "Dãy Nhà Ván Gỗ",
+    "context": "building | Row 136",
+    "offset": 4393,
+    "length": 15
+  },
+  {
+    "id": 137,
+    "key": "building.rowhouse2",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Rowhouse",
+    "target_vi": "Dãy Nhà Đá",
+    "context": "building | Row 137",
+    "offset": 4422,
+    "length": 15
+  },
+  {
+    "id": 138,
+    "key": "building.rowhouse3",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elegant Rowhouse",
+    "target_vi": "Dãy Nhà Sang Trọng",
+    "context": "building | Row 138",
+    "offset": 4451,
+    "length": 17
+  },
+  {
+    "id": 140,
+    "key": "building.steamtank",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Tank",
+    "target_vi": "Bồn Chứa Hơi Nước",
+    "context": "building | Row 140",
+    "offset": 4506,
+    "length": 11
+  },
+  {
+    "id": 142,
+    "key": "building.furnituremaker",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Carpenter",
+    "target_vi": "Xưởng Mộc",
+    "context": "building | Row 142",
+    "offset": 4550,
+    "length": 10
+  },
+  {
+    "id": 143,
+    "key": "building.supplier",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Luxuries Supplier",
+    "target_vi": "Tiệm Cung Ứng Hàng Xa Xỉ",
+    "context": "building | Row 143",
+    "offset": 4574,
+    "length": 18
+  },
+  {
+    "id": 144,
+    "key": "building.triage",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Medical Triage",
+    "target_vi": "Trạm Sơ Cứu",
+    "context": "building | Row 144",
+    "offset": 4606,
+    "length": 15
+  },
+  {
+    "id": 148,
+    "key": "building.farmplot",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crop Field",
+    "target_vi": "Thửa Ruộng",
+    "context": "building | Row 148",
+    "offset": 4720,
+    "length": 11
+  },
+  {
+    "id": 199,
+    "key": "building.ladderTurn",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steep Stairs Turn",
+    "target_vi": "Khúc Quanh Thang Dốc",
+    "context": "building | Row 199",
+    "offset": 6022,
+    "length": 18
+  },
+  {
+    "id": 220,
+    "key": "building.smallshipyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Shipyard",
+    "target_vi": "Xưởng Đóng Tàu Nhỏ",
+    "context": "building | Row 220",
+    "offset": 6977,
+    "length": 15
+  },
+  {
+    "id": 221,
+    "key": "building.bakery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bakery",
+    "target_vi": "Lò Bánh Mì",
+    "context": "building | Row 221",
+    "offset": 7006,
+    "length": 7
+  },
+  {
+    "id": 222,
+    "key": "building.tailor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Tailor",
+    "target_vi": "Tiệm May Mặc",
+    "context": "building | Row 222",
+    "offset": 7027,
+    "length": 7
+  },
+  {
+    "id": 227,
+    "key": "building.office",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Civic Office",
+    "target_vi": "Văn Phòng Hành Chính",
+    "context": "building | Row 227",
+    "offset": 7191,
+    "length": 13
+  },
+  {
+    "id": 228,
+    "key": "building.weaver",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Weaver",
+    "target_vi": "Xưởng Dệt Vải",
+    "context": "building | Row 228",
+    "offset": 7218,
+    "length": 7
+  },
+  {
+    "id": 241,
+    "key": "building.steamvalve",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Valve",
+    "target_vi": "Van Hơi Nước",
+    "context": "building | Row 241",
+    "offset": 7583,
+    "length": 12
+  },
+  {
+    "id": 242,
+    "key": "building.steamengine",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam Engine",
+    "target_vi": "Động Cơ Hơi Nước",
+    "context": "building | Row 242",
+    "offset": 7609,
+    "length": 13
+  },
+  {
+    "id": 243,
+    "key": "building.miningladder",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Mining Ladders",
+    "target_vi": "Thang Mỏ Chuyên Dụng",
+    "context": "building | Row 243",
+    "offset": 7636,
+    "length": 15
+  },
+  {
+    "id": 350,
+    "key": "building.waterstatue",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Decorative Fountain",
+    "target_vi": "Đài Phun Nước Trang Trí",
+    "context": "building | Row 350",
+    "offset": 10307,
+    "length": 20
+  },
+  {
+    "id": 424,
+    "key": "building.stonestairs",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Stairs",
+    "target_vi": "Cầu Thang Đá",
+    "context": "building | Row 424",
+    "offset": 12332,
+    "length": 13
+  },
+  {
+    "id": 425,
+    "key": "building.stairs.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Quality wooden staircase. Faster and more comfortable than steep stairs.",
+    "target_vi": "Cầu thang gỗ chất lượng tốt. Đi lại nhanh và thoải mái hơn thang dốc.",
+    "context": "building | Row 425",
+    "offset": 12359,
+    "length": 73
+  },
+  {
+    "id": 426,
+    "key": "building.stonestairs.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sturdy stone staircase.",
+    "target_vi": "Cầu thang đá kiên cố vững chãi.",
+    "context": "building | Row 426",
+    "offset": 12446,
+    "length": 24
+  },
+  {
+    "id": 427,
+    "key": "building.fastfloor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Very even path of cut stone.",
+    "target_vi": "Lối đi bằng phẳng lát từ đá phiến đẽo gọt.",
+    "context": "building | Row 427",
+    "offset": 12484,
+    "length": 29
+  },
+  {
+    "id": 428,
+    "key": "building.conveyor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Powered Whisker-Mover that moves Whiskers quickly in one direction.",
+    "target_vi": "Băng chuyền cơ khí đưa bà con chuột di chuyển nhanh chóng về một hướng.",
+    "context": "building | Row 428",
+    "offset": 12527,
+    "length": 68
+  },
+  {
+    "id": 429,
+    "key": "building.slide.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A quick way for Whiskers to go down.\n\nChaining together maintains momentum.",
+    "target_vi": "Đường trượt dốc giúp các chú chuột trượt xuống cực nhanh.\n\nNối liền nhiều đoạn trượt sẽ giữ được đà di chuyển.",
+    "context": "building | Row 429",
+    "offset": 12609,
+    "length": 76
+  },
+  {
+    "id": 430,
+    "key": "building.shortstairs.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Compact but precarious stairs.",
+    "target_vi": "Cầu thang hẹp, hơi chênh vênh nhưng đỡ tốn diện tích.",
+    "context": "building | Row 430",
+    "offset": 12699,
+    "length": 31
+  },
+  {
+    "id": 431,
+    "key": "building.shortstairs_turnLeft.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Compact but precarious stairs in a leftward spiral.",
+    "target_vi": "Cầu thang xoắn ốc nhỏ hẹp rẽ về bên trái.",
+    "context": "building | Row 431",
+    "offset": 12744,
+    "length": 52
+  },
+  {
+    "id": 432,
+    "key": "building.shortstairs_turnRight.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Compact but precarious stairs in a rightward spiral.",
+    "target_vi": "Cầu thang xoắn ốc nhỏ hẹp rẽ về bên phải.",
+    "context": "building | Row 432",
+    "offset": 12810,
+    "length": 53
+  },
+  {
+    "id": 433,
+    "key": "building.elevatorEntrance.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elevator segment with an entrance landing.",
+    "target_vi": "Khoang thang máy có bệ đón khách ra vào.",
+    "context": "building | Row 433",
+    "offset": 12877,
+    "length": 43
+  },
+  {
+    "id": 434,
+    "key": "building.elevatorShaft.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elevator segment without entrance landing.",
+    "target_vi": "Khoang trục thang máy chỉ chạy qua, không có bệ đón.",
+    "context": "building | Row 434",
+    "offset": 12934,
+    "length": 43
+  },
+  {
+    "id": 435,
+    "key": "building.bridge_medium.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Connects two stable positions without needing supports.",
+    "target_vi": "Nối liền hai mỏm vách đá vững chắc mà không cần cột chống.",
+    "context": "building | Row 435",
+    "offset": 12991,
+    "length": 56
+  },
+  {
+    "id": 436,
+    "key": "building.lumbermill.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cuts logs into wooden planks.",
+    "target_vi": "Xẻ gỗ khúc thành các tấm ván gỗ.",
+    "context": "building | Row 436",
+    "offset": 13061,
+    "length": 30
+  },
+  {
+    "id": 437,
+    "key": "building.brickmaker.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cuts raw stone into more versatile building materials.",
+    "target_vi": "Đẽo gọt đá tảng thô thành vật liệu xây dựng đa dụng.",
+    "context": "building | Row 437",
+    "offset": 13105,
+    "length": 55
+  },
+  {
+    "id": 438,
+    "key": "building.weaver.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Weaves flax into woven cloaks or fine threads into fabric.",
+    "target_vi": "Dệt sợi lanh thành áo choàng hoặc xe sợi mịn thành vải vóc.",
+    "context": "building | Row 438",
+    "offset": 13174,
+    "length": 59
+  },
+  {
+    "id": 439,
+    "key": "building.fishery.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cooks raw fish into something more healthy.",
+    "target_vi": "Nướng và hun khói cá tươi để bảo quản dùng được lâu.",
+    "context": "building | Row 439",
+    "offset": 13247,
+    "length": 44
+  },
+  {
+    "id": 440,
+    "key": "building.stewery.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Prepares soups and stews.",
+    "target_vi": "Nấu súp và các món hầm ấm bụng cho cả làng.",
+    "context": "building | Row 440",
+    "offset": 13305,
+    "length": 26
+  },
+  {
+    "id": 441,
+    "key": "building.finekitchen.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Prepares fine meals using rare spices.",
+    "target_vi": "Nấu nướng các bữa ăn thịnh soạn bằng gia vị quý hiếm.",
+    "context": "building | Row 441",
+    "offset": 13345,
+    "length": 39
+  },
+  {
+    "id": 442,
+    "key": "building.bakery.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bakes fresh bread and pastry.",
+    "target_vi": "Nướng bánh mì thơm ngon và các loại bánh ngọt.",
+    "context": "building | Row 442",
+    "offset": 13398,
+    "length": 30
+  },
+  {
+    "id": 443,
+    "key": "building.charcoalFurnace.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Processes logs into a generic fuel source.",
+    "target_vi": "Đốt gỗ khúc thành than củi sưởi ấm.",
+    "context": "building | Row 443",
+    "offset": 13442,
+    "length": 43
+  },
+  {
+    "id": 444,
+    "key": "building.coalProcessor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Processes nonmetal ores into refined materials.",
+    "target_vi": "Sàng lọc quặng phi kim thành các loại vật liệu tinh chế.",
+    "context": "building | Row 444",
+    "offset": 13499,
+    "length": 48
+  },
+  {
+    "id": 445,
+    "key": "building.oresmelter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Refines metal ores with low melting points into ingots.",
+    "target_vi": "Luyện các loại quặng kim loại có điểm nóng chảy thấp thành thỏi đúc.",
+    "context": "building | Row 445",
+    "offset": 13561,
+    "length": 56
+  },
+  {
+    "id": 446,
+    "key": "building.toolmaker.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crafts useful items out of copper and bronze.",
+    "target_vi": "Chế tạo công cụ và vật phẩm hữu ích từ đồng đỏ và đồng điếu.",
+    "context": "building | Row 446",
+    "offset": 13631,
+    "length": 46
+  },
+  {
+    "id": 447,
+    "key": "building.tailor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sews insulated cloaks and other refined textiles.",
+    "target_vi": "May áo choàng giữ ấm và các sản phẩm dệt may cao cấp.",
+    "context": "building | Row 447",
+    "offset": 13691,
+    "length": 50
+  },
+  {
+    "id": 448,
+    "key": "building.furnitureMaker.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crafts wooden tools and goods.",
+    "target_vi": "Đẽo gọt bàn ghế, công cụ và vật dụng gia đình bằng gỗ.",
+    "context": "building | Row 448",
+    "offset": 13755,
+    "length": 31
+  },
+  {
+    "id": 449,
+    "key": "building.researchbuilding.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Generates Research to unlock new technologies for your Whiskers",
+    "target_vi": "Nghiên cứu tạo ra điểm tri thức để mở khóa công nghệ mới cho nhà chuột.",
+    "context": "building | Row 449",
+    "offset": 13800,
+    "length": 64
+  },
+  {
+    "id": 450,
+    "key": "building.archive.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Increases storage capacity of science.",
+    "target_vi": "Mở rộng sức chứa điểm tri thức khoa học.",
+    "context": "building | Row 450",
+    "offset": 13878,
+    "length": 39
+  },
+  {
+    "id": 451,
+    "key": "building.park.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large walkable patch of greenery.",
+    "target_vi": "Khu công viên thảm cỏ xanh mướt cho bà con đi dạo mát.",
+    "context": "building | Row 451",
+    "offset": 13931,
+    "length": 34
+  },
+  {
+    "id": 452,
+    "key": "building.flowerbed.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small bed of wildflowers.",
+    "target_vi": "Thảm hoa dại nhỏ điểm tô sắc màu.",
+    "context": "building | Row 452",
+    "offset": 13979,
+    "length": 26
+  },
+  {
+    "id": 453,
+    "key": "building.smallstatue.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Intimidating visage of a Claw.",
+    "target_vi": "Tượng đài thị uy đầy đe dọa của Phe Móng Vuốt.",
+    "context": "building | Row 453",
+    "offset": 14019,
+    "length": 31
+  },
+  {
+    "id": 454,
+    "key": "building.smallplanter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wooden planter full of wildflowers.",
+    "target_vi": "Bồn hoa dại bằng gỗ mộc mạc.",
+    "context": "building | Row 454",
+    "offset": 14064,
+    "length": 36
+  },
+  {
+    "id": 455,
+    "key": "building.woodenbench.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A nice spot to take a rest.",
+    "target_vi": "Nơi lý tưởng để các chú chuột dừng chân ngơi nghỉ.",
+    "context": "building | Row 455",
+    "offset": 14114,
+    "length": 28
+  },
+  {
+    "id": 456,
+    "key": "building.signpost.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Billboard to communicate and document.",
+    "target_vi": "Bảng thông cáo để truyền tin và ghi chép việc làng.",
+    "context": "building | Row 456",
+    "offset": 14156,
+    "length": 39
+  },
+  {
+    "id": 457,
+    "key": "building.stonewall.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Decorative stone wall for enclosure or support.",
+    "target_vi": "Tường đá kiên cố dùng để quây khuôn viên hoặc làm bệ đỡ.",
+    "context": "building | Row 457",
+    "offset": 14209,
+    "length": 48
+  },
+  {
+    "id": 458,
+    "key": "building.stonegate.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Passable stone gate.",
+    "target_vi": "Cổng vòm đá cho chuột đi qua lại.",
+    "context": "building | Row 458",
+    "offset": 14271,
+    "length": 21
+  },
+  {
+    "id": 459,
+    "key": "building.chimes.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Turns the wind into music.",
+    "target_vi": "Biến làn gió biển thành những nốt nhạc du dương.",
+    "context": "building | Row 459",
+    "offset": 14306,
+    "length": 27
+  },
+  {
+    "id": 460,
+    "key": "building.waterstatue.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Impressive fountain. Requires access to water.",
+    "target_vi": "Đài phun nước ấn tượng. Cần được cấp nước để hoạt động.",
+    "context": "building | Row 460",
+    "offset": 14347,
+    "length": 47
+  },
+  {
+    "id": 461,
+    "key": "building.mousewheel.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Generates power from sweat.",
+    "target_vi": "Phát điện bằng những giọt mồ hôi chuột chạy guồng.",
+    "context": "building | Row 461",
+    "offset": 14408,
+    "length": 28
+  },
+  {
+    "id": 462,
+    "key": "building.pipe.liquid.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pipe for transporting water.",
+    "target_vi": "Đường ống dẫn nước sạch.",
+    "context": "building | Row 462",
+    "offset": 14450,
+    "length": 29
+  },
+  {
+    "id": 463,
+    "key": "building.waterpump.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pumps water from the shore.",
+    "target_vi": "Hút nước biển hoặc nước ngọt từ bờ lên đảo.",
+    "context": "building | Row 463",
+    "offset": 14493,
+    "length": 28
+  },
+  {
+    "id": 464,
+    "key": "building.watertower.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Holds a large amount of water.",
+    "target_vi": "Chứa được lượng nước dự trữ khổng lồ.",
+    "context": "building | Row 464",
+    "offset": 14535,
+    "length": 31
+  },
+  {
+    "id": 465,
+    "key": "building.pipe.steam.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pipe for transporting hot steam.",
+    "target_vi": "Đường ống dẫn hơi nước nhiệt độ cao.",
+    "context": "building | Row 465",
+    "offset": 14580,
+    "length": 33
+  },
+  {
+    "id": 466,
+    "key": "building.steamvalve.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Closable valve. Automatically closes if input side is below configured threshold.",
+    "target_vi": "Van khóa hơi nước. Tự động đóng nếu áp suất ngõ vào thấp hơn ngưỡng cài đặt.",
+    "context": "building | Row 466",
+    "offset": 14627,
+    "length": 82
+  },
+  {
+    "id": 467,
+    "key": "building.steamboiler.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Boils water into steam.",
+    "target_vi": "Đun sôi nước thành hơi nước áp suất cao.",
+    "context": "building | Row 467",
+    "offset": 14723,
+    "length": 24
+  },
+  {
+    "id": 468,
+    "key": "building.steamtank.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Holds a large amount of steam.",
+    "target_vi": "Bồn chứa được lượng hơi nước rất lớn.",
+    "context": "building | Row 468",
+    "offset": 14761,
+    "length": 31
+  },
+  {
+    "id": 469,
+    "key": "building.radiator.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Heats area with piped-in steam.",
+    "target_vi": "Sưởi ấm khu vực xung quanh bằng hơi nước dẫn qua đường ống.",
+    "context": "building | Row 469",
+    "offset": 14806,
+    "length": 32
+  },
+  {
+    "id": 470,
+    "key": "building.steamengine.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Provides speed or production bonuses to adjacent buildings with steam power.",
+    "target_vi": "Tăng tốc độ làm việc hoặc sản lượng cho các nhà xưởng liền kề nhờ năng lượng hơi nước.",
+    "context": "building | Row 470",
+    "offset": 14852,
+    "length": 77
+  },
+  {
+    "id": 471,
+    "key": "building.infiniteFluidSource.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Produces infinite water and steam.",
+    "target_vi": "Cung cấp nước và hơi nước vô tận (Debug).",
+    "context": "building | Row 471",
+    "offset": 14943,
+    "length": 35
+  },
+  {
+    "id": 472,
+    "key": "building.infiniteFluidSink.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sinks infinite water and steam.",
+    "target_vi": "Hút cạn nước và hơi nước vô tận (Debug).",
+    "context": "building | Row 472",
+    "offset": 14992,
+    "length": 32
+  },
+  {
+    "id": 473,
+    "key": "building.infiniteResourceSource.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Produces infinite resources.",
+    "target_vi": "Cung cấp tài nguyên vô hạn (Debug).",
+    "context": "building | Row 473",
+    "offset": 15038,
+    "length": 29
+  },
+  {
+    "id": 474,
+    "key": "building.infiniteResourceSink.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sinks infinite resources.",
+    "target_vi": "Tiêu hủy tài nguyên vô hạn (Debug).",
+    "context": "building | Row 474",
+    "offset": 15081,
+    "length": 26
+  },
+  {
+    "id": 475,
+    "key": "building.woodcutter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cuts down nearby trees.",
+    "target_vi": "Chặt hạ cây cối trong khu vực lân cận.",
+    "context": "building | Row 475",
+    "offset": 15121,
+    "length": 24
+  },
+  {
+    "id": 476,
+    "key": "building.gatherer.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Gathers nearby wild plants.",
+    "target_vi": "Thu lượm rau củ, quả dại quanh vùng.",
+    "context": "building | Row 476",
+    "offset": 15159,
+    "length": 28
+  },
+  {
+    "id": 477,
+    "key": "building.fishingdock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Catches shallow-water fish at the edge of the isle.",
+    "target_vi": "Câu cá vùng nước nông ven bờ đảo.",
+    "context": "building | Row 477",
+    "offset": 15201,
+    "length": 52
+  },
+  {
+    "id": 478,
+    "key": "building.miningcamp.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Mines nearby blocks that are designated to be mined.\n\nUse the Mine Tool to designate mining areas.",
+    "target_vi": "Đào bới các khối đất đá được đánh dấu khai khoáng.\n\nDùng Công Cụ Khai Mỏ để khoanh vùng đào.",
+    "context": "building | Row 478",
+    "offset": 15267,
+    "length": 99
+  },
+  {
+    "id": 479,
+    "key": "building.farm.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grows and harvests crops within range around the farm.\n\nUse the Farm Tool to designate farming areas.",
+    "target_vi": "Trồng trọt và gặt hái nông sản trong tầm của nông trại.\n\nDùng Công Cụ Trồng Trọt để quy hoạch luống đất.",
+    "context": "building | Row 479",
+    "offset": 15380,
+    "length": 102
+  },
+  {
+    "id": 480,
+    "key": "building.homeland_factiondock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large dock where visiting ships can make landfall.",
+    "target_vi": "Bến cảng lớn nơi các đoàn tàu từ Mẫu quốc có thể cập bến.",
+    "context": "building | Row 480",
+    "offset": 15496,
+    "length": 51
+  },
+  {
+    "id": 481,
+    "key": "building.tradedock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grants access to the open trade network.",
+    "target_vi": "Mở rộng giao thương với mạng lưới thương thuyền biển khơi.",
+    "context": "building | Row 481",
+    "offset": 15561,
+    "length": 41
+  },
+  {
+    "id": 482,
+    "key": "building.townhall.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A modest center of governance. Provides basic policy controls.",
+    "target_vi": "Trung tâm hành chính mộc mạc của làng chuột. Cho phép ban hành các chính sách cơ bản.",
+    "context": "building | Row 482",
+    "offset": 15616,
+    "length": 63
+  },
+  {
+    "id": 483,
+    "key": "building.civicoffice.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extended offices to support increased paperwork.\n\nGrants +1 Policy slot.",
+    "target_vi": "Văn phòng mở rộng để xử lý lượng giấy tờ ngày càng nhiều.\n\nCho thêm +1 ô Chính Sách.",
+    "context": "building | Row 483",
+    "offset": 15693,
+    "length": 73
+  },
+  {
+    "id": 484,
+    "key": "building.firetender.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stockpiles fuel and delivers it to nearby heaters and steam boilers.",
+    "target_vi": "Dự trữ than củi và chuyên chở đi tiếp tế cho các lò sưởi và nồi hơi quanh vùng.",
+    "context": "building | Row 484",
+    "offset": 15780,
+    "length": 69
+  },
+  {
+    "id": 485,
+    "key": "building.bonfire.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Simple heat source with small radius and low fuel consumption.",
+    "target_vi": "Đống lửa sưởi ấm đơn giản, tầm ảnh hưởng hẹp và tốn ít củi đốt.",
+    "context": "building | Row 485",
+    "offset": 15863,
+    "length": 63
+  },
+  {
+    "id": 486,
+    "key": "building.heater.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large stone furnace that heats a wide area at better fuel efficiency.",
+    "target_vi": "Lò sưởi bằng đá lớn, sưởi ấm diện rộng với hiệu suất nhiên liệu cao hơn.",
+    "context": "building | Row 486",
+    "offset": 15940,
+    "length": 70
+  },
+  {
+    "id": 487,
+    "key": "building.infiniteHeater.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Infinite heat source.",
+    "target_vi": "Nguồn nhiệt vĩnh cửu (Debug).",
+    "context": "building | Row 487",
+    "offset": 16024,
+    "length": 22
+  },
+  {
+    "id": 488,
+    "key": "building.supplier.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stockpiles luxury goods and delivers them to Whisker residences.",
+    "target_vi": "Thu gom hàng hóa xa xỉ và mang phân phát đến tận nhà cho các gia đình chuột.",
+    "context": "building | Row 488",
+    "offset": 16060,
+    "length": 65
+  },
+  {
+    "id": 489,
+    "key": "building.waterfountain_piped.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Provides water to exhausted workers.\n\nRequires connection to water pipes.",
+    "target_vi": "Cấp nước uống mát lành cho thợ thuyền mệt mỏi.\n\nCần kết nối với đường ống nước.",
+    "context": "building | Row 489",
+    "offset": 16139,
+    "length": 74
+  },
+  {
+    "id": 490,
+    "key": "building.triagebeds.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sick or injured Whiskers will recover here.",
+    "target_vi": "Bà con chuột ốm đau hoặc bị thương sẽ tĩnh dưỡng hồi phục tại đây.",
+    "context": "building | Row 490",
+    "offset": 16227,
+    "length": 44
+  },
+  {
+    "id": 491,
+    "key": "building.teahouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A place to drink fine tea after a day of work.\n\nRequires a worker to keep supplied.",
+    "target_vi": "Nơi thưởng thức trà ngon sau một ngày dài làm lụng.\n\nCần một chú chuột pha chế túc trực phục vụ.",
+    "context": "building | Row 491",
+    "offset": 16285,
+    "length": 84
+  },
+  {
+    "id": 492,
+    "key": "building.bathhouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A steamy bath provides evening relaxation.",
+    "target_vi": "Bồn tắm nước nóng giúp thư giãn sảng khoái vào buổi tối.",
+    "context": "building | Row 492",
+    "offset": 16383,
+    "length": 43
+  },
+  {
+    "id": 493,
+    "key": "building.vending.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Comfortable place to eat and drink in the evening.\n\nRequires a worker to keep supplied during the day.",
+    "target_vi": "Nơi ấm cúng để ăn uống chuyện trò vào buổi tối.\n\nCần một chú chuột chuẩn bị đồ ăn thức uống ban ngày.",
+    "context": "building | Row 493",
+    "offset": 16440,
+    "length": 103
+  },
+  {
+    "id": 494,
+    "key": "building.loghouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Basic one-Whisker cabin for surviving the elements.",
+    "target_vi": "Túp lều gỗ đơn sơ cho một chú chuột trú ngụ qua mùa mưa rét.",
+    "context": "building | Row 494",
+    "offset": 16557,
+    "length": 52
+  },
+  {
+    "id": 495,
+    "key": "building.tinyhouse1.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Basic small abode for one.",
+    "target_vi": "Nhà ván gỗ nhỏ vừa vặn cho một chú chuột.",
+    "context": "building | Row 495",
+    "offset": 16623,
+    "length": 27
+  },
+  {
+    "id": 496,
+    "key": "building.house1.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Basic blockhouse for two.",
+    "target_vi": "Nhà ván gỗ khang trang dành cho hai chú chuột.",
+    "context": "building | Row 496",
+    "offset": 16664,
+    "length": 26
+  },
+  {
+    "id": 497,
+    "key": "building.rowhouse1.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Basic rowhouse for two.",
+    "target_vi": "Dãy nhà ván gỗ liền kề dành cho hai chú chuột.",
+    "context": "building | Row 497",
+    "offset": 16704,
+    "length": 24
+  },
+  {
+    "id": 498,
+    "key": "building.tinyhouse2.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fine small abode for one.",
+    "target_vi": "Nhà đá nhỏ kiên cố cho một chú chuột.",
+    "context": "building | Row 498",
+    "offset": 16742,
+    "length": 26
+  },
+  {
+    "id": 499,
+    "key": "building.house2.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fine blockhouse for two.",
+    "target_vi": "Nhà đá khang trang ấm áp dành cho hai chú chuột.",
+    "context": "building | Row 499",
+    "offset": 16782,
+    "length": 25
+  },
+  {
+    "id": 500,
+    "key": "building.rowhouse2.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fine rowhouse for two.",
+    "target_vi": "Dãy nhà đá liền kề vững chãi cho hai chú chuột.",
+    "context": "building | Row 500",
+    "offset": 16821,
+    "length": 23
+  },
+  {
+    "id": 501,
+    "key": "building.tinyhouse3.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elegant small abode for one.",
+    "target_vi": "Nhà nhỏ sang trọng đầy đủ tiện nghi cho một chú chuột.",
+    "context": "building | Row 501",
+    "offset": 16858,
+    "length": 29
+  },
+  {
+    "id": 502,
+    "key": "building.house3.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elegant blockhouse for two.",
+    "target_vi": "Nhà đôi sang trọng dành cho hai chú chuột.",
+    "context": "building | Row 502",
+    "offset": 16901,
+    "length": 28
+  },
+  {
+    "id": 503,
+    "key": "building.rowhouse3.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant rockhouse for two.",
+    "target_vi": "Dãy nhà sang trọng bề thế cho hai chú chuột.",
+    "context": "building | Row 503",
+    "offset": 16943,
+    "length": 31
+  },
+  {
+    "id": 504,
+    "key": "building.smallwarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small storage warehouse.\n\nWorkers can be assigned to cart resources from other warehouses.",
+    "target_vi": "Kho chứa hàng cỡ nhỏ.\n\nCó thể phân công thợ đẩy xe kéo hàng từ các kho khác về đây.",
+    "context": "building | Row 504",
+    "offset": 16988,
+    "length": 91
+  },
+  {
+    "id": 505,
+    "key": "building.warehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large warehouse that can store all resource types.\n\nResources stored here can be traded or exported.",
+    "target_vi": "Kho tổng quy mô lớn chứa được mọi loại hàng hóa.\n\nTài nguyên lưu trữ tại đây có thể đem giao thương hoặc xuất khẩu nộp cống nạp.",
+    "context": "building | Row 505",
+    "offset": 17093,
+    "length": 101
+  },
+  {
+    "id": 506,
+    "key": "building.chimneySegment.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pulls up pollution at the base and outputs it at top of the chimney stack.",
+    "target_vi": "Hút khói ô nhiễm từ dưới chân và xả ra ở đỉnh ống khói trên cao.",
+    "context": "building | Row 506",
+    "offset": 17208,
+    "length": 75
+  },
+  {
+    "id": 522,
+    "key": "building.oilpress",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Oil Press",
+    "target_vi": "Máy Ép Dầu",
+    "context": "building | Row 522",
+    "offset": 17799,
+    "length": 10
+  },
+  {
+    "id": 545,
+    "key": "building.shipyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Shipyard",
+    "target_vi": "Xưởng Đóng Tàu",
+    "context": "building | Row 545",
+    "offset": 19244,
+    "length": 9
+  },
+  {
+    "id": 546,
+    "key": "building.mill",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Mill",
+    "target_vi": "Cối Xay Bột",
+    "context": "building | Row 546",
+    "offset": 19267,
+    "length": 5
+  },
+  {
+    "id": 547,
+    "key": "building.mill.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wind-powered millstone for producing flour.",
+    "target_vi": "Cối đá chạy bằng sức gió để xay lúa mì thành bột mịn.",
+    "context": "building | Row 547",
+    "offset": 19286,
+    "length": 44
+  },
+  {
+    "id": 550,
+    "key": "building.decorativetree",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Decorative Tree",
+    "target_vi": "Cây Cảnh Trang Trí",
+    "context": "building | Row 550",
+    "offset": 19398,
+    "length": 16
+  },
+  {
+    "id": 551,
+    "key": "building.decorativetree.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Ornamental tree with flowers.",
+    "target_vi": "Cây bóng mát trổ hoa rực rỡ.",
+    "context": "building | Row 551",
+    "offset": 19428,
+    "length": 30
+  },
+  {
+    "id": 562,
+    "key": "building.fancyEatery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dining Hall",
+    "target_vi": "Đại Sảnh Tiệc",
+    "context": "building | Row 562",
+    "offset": 20040,
+    "length": 12
+  },
+  {
+    "id": 563,
+    "key": "building.fancyEatery.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A luxurious dining hall for the most prosperous of Whiskers.",
+    "target_vi": "Phòng ăn sang trọng dành cho những chú chuột giàu có bậc nhất làng.",
+    "context": "building | Row 563",
+    "offset": 20066,
+    "length": 61
+  },
+  {
+    "id": 604,
+    "key": "building.jumppad",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Whisker Launcher",
+    "target_vi": "Bệ Phóng Chuột",
+    "context": "building | Row 604",
+    "offset": 21923,
+    "length": 17
+  },
+  {
+    "id": 605,
+    "key": "building.jumppad.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Steam-powered device that can launch Whiskers to higher elevations.",
+    "target_vi": "Thiết bị dùng hơi nước đẩy các chú chuột vọt lên các tầng vách đá cao.",
+    "context": "building | Row 605",
+    "offset": 21954,
+    "length": 68
+  },
+  {
+    "id": 609,
+    "key": "building.watervalve",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Water Valve",
+    "target_vi": "Van Nước",
+    "context": "building | Row 609",
+    "offset": 22117,
+    "length": 12
+  },
+  {
+    "id": 610,
+    "key": "building.watervalve.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Closable valve. Automatically closes if input side is below configured threshold.",
+    "target_vi": "Van khóa nước tự động. Đóng lại nếu áp suất ngõ vào thấp hơn mức quy định.",
+    "context": "building | Row 610",
+    "offset": 22143,
+    "length": 82
+  },
+  {
+    "id": 613,
+    "key": "building.rail",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Track Piece",
+    "target_vi": "Đoạn Đường Ray",
+    "context": "building | Row 613",
+    "offset": 22406,
+    "length": 12
+  },
+  {
+    "id": 614,
+    "key": "building.rail.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Advanced rapid Whisker transport.",
+    "target_vi": "Tuyến đường sắt tốc độ cao chuyên chở cư dân chuột.",
+    "context": "building | Row 614",
+    "offset": 22432,
+    "length": 34
+  },
+  {
+    "id": 615,
+    "key": "building.rail_station",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Station Platform",
+    "target_vi": "Sân Ga Tàu Hỏa",
+    "context": "building | Row 615",
+    "offset": 22480,
+    "length": 17
+  },
+  {
+    "id": 616,
+    "key": "building.rail_station.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allows Whiskers to enter or exit the rail network.",
+    "target_vi": "Nơi các chú chuột lên hoặc xuống mạng lưới tàu hỏa.",
+    "context": "building | Row 616",
+    "offset": 22511,
+    "length": 51
+  },
+  {
+    "id": 617,
+    "key": "building.rail_steambooster",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Rail Booster",
+    "target_vi": "Trạm Tăng Tốc Hơi Nước",
+    "context": "building | Row 617",
+    "offset": 22576,
+    "length": 13
+  },
+  {
+    "id": 618,
+    "key": "building.rail_steambooster.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pressurized steam accelerates passing trains.",
+    "target_vi": "Phun hơi nước áp suất cao giúp toa tàu phóng nhanh hơn.",
+    "context": "building | Row 618",
+    "offset": 22603,
+    "length": 46
+  },
+  {
+    "id": 637,
+    "key": "logistics.neareststockpile",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Nearest Warehouse",
+    "target_vi": "Kho Gần Nhất",
+    "context": "logistics | Row 637",
+    "offset": 23423,
+    "length": 18
+  },
+  {
+    "id": 638,
+    "key": "logistics.multipleSources",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Multiple Sources",
+    "target_vi": "Nhiều Nguồn Cấp",
+    "context": "logistics | Row 638",
+    "offset": 23455,
+    "length": 17
+  },
+  {
+    "id": 639,
+    "key": "logistics.multipleDestinations",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Multiple Destinations",
+    "target_vi": "Nhiều Nơi Nhận",
+    "context": "logistics | Row 639",
+    "offset": 23486,
+    "length": 22
+  },
+  {
+    "id": 640,
+    "key": "logistics.sourcingFrom",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pick up from",
+    "target_vi": "Lấy hàng từ",
+    "context": "logistics | Row 640",
+    "offset": 23522,
+    "length": 13
+  },
+  {
+    "id": 641,
+    "key": "logistics.deliveringTo",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Deliver to",
+    "target_vi": "Giao hàng đến",
+    "context": "logistics | Row 641",
+    "offset": 23549,
+    "length": 11
+  },
+  {
+    "id": 653,
+    "key": "building.blastfurnace",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Blast Furnace",
+    "target_vi": "Lò Cao Luyện Kim",
+    "context": "building | Row 653",
+    "offset": 24069,
+    "length": 14
+  },
+  {
+    "id": 654,
+    "key": "building.blacksmith",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Blacksmith",
+    "target_vi": "Lò Rèn Sắt Thép",
+    "context": "building | Row 654",
+    "offset": 24097,
+    "length": 11
+  },
+  {
+    "id": 655,
+    "key": "building.netter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Netter",
+    "target_vi": "Xưởng Đan Lưới",
+    "context": "building | Row 655",
+    "offset": 24122,
+    "length": 7
+  },
+  {
+    "id": 656,
+    "key": "building.sailmanufactory",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sail Manufactory",
+    "target_vi": "Xưởng May Buồm",
+    "context": "building | Row 656",
+    "offset": 24143,
+    "length": 17
+  },
+  {
+    "id": 657,
+    "key": "building.cannonfoundry",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cannon Foundry",
+    "target_vi": "Xưởng Đúc Đại Bác",
+    "context": "building | Row 657",
+    "offset": 24174,
+    "length": 15
+  },
+  {
+    "id": 658,
+    "key": "building.laboratory",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Laboratory",
+    "target_vi": "Phòng Hóa Phẩm",
+    "context": "building | Row 658",
+    "offset": 24203,
+    "length": 11
+  },
+  {
+    "id": 659,
+    "key": "building.apothecary",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Apothecary",
+    "target_vi": "Tiệm Thuốc Nấm",
+    "context": "building | Row 659",
+    "offset": 24228,
+    "length": 11
+  },
+  {
+    "id": 660,
+    "key": "building.cannery",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cannery",
+    "target_vi": "Xưởng Đóng Hộp",
+    "context": "building | Row 660",
+    "offset": 24253,
+    "length": 8
+  },
+  {
+    "id": 661,
+    "key": "building.teaprocessor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Tea Roaster",
+    "target_vi": "Xưởng Sao Trà",
+    "context": "building | Row 661",
+    "offset": 24275,
+    "length": 12
+  },
+  {
+    "id": 662,
+    "key": "building.machinist",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Machinist",
+    "target_vi": "Xưởng Cơ Khí Chế Tạo",
+    "context": "building | Row 662",
+    "offset": 24301,
+    "length": 10
+  },
+  {
+    "id": 663,
+    "key": "building.blastfurnace.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Refines metal ores with high melting points into ingots.",
+    "target_vi": "Luyện các loại quặng kim loại có điểm nóng chảy cao thành thỏi đúc.",
+    "context": "building | Row 663",
+    "offset": 24325,
+    "length": 57
+  },
+  {
+    "id": 664,
+    "key": "building.blacksmith.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crafts useful items made of iron and steel.",
+    "target_vi": "Chế tạo công cụ và vũ khí từ sắt và thép.",
+    "context": "building | Row 664",
+    "offset": 24396,
+    "length": 44
+  },
+  {
+    "id": 665,
+    "key": "building.netter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Assembles ropes into nets for fishing.",
+    "target_vi": "Đan bện dây thừng thành lưới đánh cá trên biển.",
+    "context": "building | Row 665",
+    "offset": 24454,
+    "length": 39
+  },
+  {
+    "id": 666,
+    "key": "building.sailmanufactory.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Manufactures sails for shipbuilding.",
+    "target_vi": "May những cánh buồm lớn phục vụ đóng tàu vượt biển.",
+    "context": "building | Row 666",
+    "offset": 24507,
+    "length": 37
+  },
+  {
+    "id": 667,
+    "key": "building.cannonfoundry.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Molds cannon barrels and assembles cannons.",
+    "target_vi": "Đúc nòng đại bác và lắp ráp pháo phòng thủ bờ biển.",
+    "context": "building | Row 667",
+    "offset": 24558,
+    "length": 44
+  },
+  {
+    "id": 668,
+    "key": "building.laboratory.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Produces goods for health and hygiene.",
+    "target_vi": "Sản xuất xà phòng, dược phẩm và đồ dùng vệ sinh sức khỏe.",
+    "context": "building | Row 668",
+    "offset": 24616,
+    "length": 39
+  },
+  {
+    "id": 669,
+    "key": "building.apothecary.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extracts medicinal substances from mushrooms.",
+    "target_vi": "Chiết xuất dược liệu quý từ các loại nấm rừng.",
+    "context": "building | Row 669",
+    "offset": 24669,
+    "length": 46
+  },
+  {
+    "id": 670,
+    "key": "building.cannery.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Packs food into cans to preserve it for sea travel.",
+    "target_vi": "Đóng hộp thực phẩm để bảo quản cho những chuyến hải trình dài ngày.",
+    "context": "building | Row 670",
+    "offset": 24729,
+    "length": 52
+  },
+  {
+    "id": 671,
+    "key": "building.teaprocessor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Processes tea leaves into servable tea.",
+    "target_vi": "Ủ và sao lá trà tươi thành trà khô hảo hạng.",
+    "context": "building | Row 671",
+    "offset": 24795,
+    "length": 40
+  },
+  {
+    "id": 672,
+    "key": "building.machinist.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Produces machinery for industrial independence.",
+    "target_vi": "Sản xuất máy móc phụ tùng hướng tới tự chủ công nghiệp.",
+    "context": "building | Row 672",
+    "offset": 24849,
+    "length": 48
+  },
+  {
+    "id": 687,
+    "key": "building.campfire",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Campfire",
+    "target_vi": "Đống Lửa Trại",
+    "context": "building | Row 687",
+    "offset": 25693,
+    "length": 9
+  },
+  {
+    "id": 688,
+    "key": "building.campfire.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small wood fire to generate heat in a pinch.\n\nDestroyed once logs are consumed.",
+    "target_vi": "Đống lửa sưởi khẩn cấp lúc giá rét.\n\nTự tàn lụi sau khi cháy hết củi.",
+    "context": "building | Row 688",
+    "offset": 25716,
+    "length": 80
+  },
+  {
+    "id": 717,
+    "key": "building.smallworkdock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Work Dock",
+    "target_vi": "Bến Tàu Thợ",
+    "context": "building | Row 717",
+    "offset": 26669,
+    "length": 10
+  },
+  {
+    "id": 718,
+    "key": "building.smallworkdock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small dock that can be assigned a ship and crew to venture out to sea.",
+    "target_vi": "Bến cảng nhỏ để chỉ định tàu và thủy thủ ra khơi làm việc trên biển.",
+    "context": "building | Row 718",
+    "offset": 26693,
+    "length": 71
+  },
+  {
+    "id": 719,
+    "key": "building.plankpath",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Plank Path",
+    "target_vi": "Đường Ván Gỗ",
+    "context": "building | Row 719",
+    "offset": 26778,
+    "length": 11
+  },
+  {
+    "id": 720,
+    "key": "building.logpath",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Makeshift Path",
+    "target_vi": "Đường Gỗ Tạm",
+    "context": "building | Row 720",
+    "offset": 26803,
+    "length": 15
+  },
+  {
+    "id": 721,
+    "key": "building.plankpath.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Smooth path of cut planks.",
+    "target_vi": "Đường đi lát ván gỗ êm chân, đi lại nhanh hơn.",
+    "context": "building | Row 721",
+    "offset": 26832,
+    "length": 27
+  },
+  {
+    "id": 722,
+    "key": "building.logpath.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Rough makeshift path made of raw logs.",
+    "target_vi": "Đường mòn gồ ghề ghép tạm bợ bằng thân gỗ thô.",
+    "context": "building | Row 722",
+    "offset": 26873,
+    "length": 39
+  },
+  {
+    "id": 723,
+    "key": "building.mediumWarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Medium Warehouse",
+    "target_vi": "Kho Vừa",
+    "context": "building | Row 723",
+    "offset": 26926,
+    "length": 17
+  },
+  {
+    "id": 724,
+    "key": "building.mediumwarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Medium storage warehouse.\n\nWorkers can be assigned to cart resources from other warehouses.",
+    "target_vi": "Kho chứa hàng cỡ trung bình.\n\nCó thể cắt cử thợ đi xe kéo gom hàng từ các kho khác về.",
+    "context": "building | Row 724",
+    "offset": 26957,
+    "length": 92
+  },
+  {
+    "id": 874,
+    "key": "building.spicegrinder",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Spice Grinder",
+    "target_vi": "Cối Nghiền Gia Vị",
+    "context": "building | Row 874",
+    "offset": 34704,
+    "length": 14
+  },
+  {
+    "id": 875,
+    "key": "building.spicegrinder.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grinds peppers into fine spices.",
+    "target_vi": "Xay ớt tiêu thành gia vị thơm lừng.",
+    "context": "building | Row 875",
+    "offset": 34732,
+    "length": 33
+  },
+  {
+    "id": 915,
+    "key": "building.tinywarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Storage Shed",
+    "target_vi": "Chòi Chứa Hàng",
+    "context": "building | Row 915",
+    "offset": 37088,
+    "length": 13
+  },
+  {
+    "id": 916,
+    "key": "building.smallbrickhouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small brick house",
+    "target_vi": "Nhà Gạch Nhỏ",
+    "context": "building | Row 916",
+    "offset": 37115,
+    "length": 18
+  },
+  {
+    "id": 917,
+    "key": "building.smallbrickhouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cozy brick house for one.",
+    "target_vi": "Ngôi nhà gạch ấm cúng dành cho một chú chuột.",
+    "context": "building | Row 917",
+    "offset": 37147,
+    "length": 26
+  },
+  {
+    "id": 918,
+    "key": "building.tinywarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small shed to store a small amount of resources.\n\nWorker can be assigned to cart resources from other warehouses.",
+    "target_vi": "Chòi nhỏ để cất giữ một lượng nhỏ tài nguyên tiện tay.\n\nCó thể phân công thợ gom đồ từ các kho khác về.",
+    "context": "building | Row 918",
+    "offset": 37187,
+    "length": 114
+  },
+  {
+    "id": 922,
+    "key": "building.stoneshelter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Shelter",
+    "target_vi": "Chòi Trú Bằng Đá",
+    "context": "building | Row 922",
+    "offset": 37408,
+    "length": 14
+  },
+  {
+    "id": 923,
+    "key": "building.stoneshelter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Slipshod rock shelter that barely qualifies as a house.",
+    "target_vi": "Căn chòi đá dựng tạm bợ, chỉ vừa đủ chui ra chui vào.",
+    "context": "building | Row 923",
+    "offset": 37436,
+    "length": 56
+  },
+  {
+    "id": 1271,
+    "key": "logistics.assignedDropoffonly",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Assigned drop-off only",
+    "target_vi": "Chỉ nhận nơi đã chỉ định",
+    "context": "logistics | Row 1271",
+    "offset": 53304,
+    "length": 23
+  },
+  {
+    "id": 1272,
+    "key": "logistics.assignedDropoffOnly.detail",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Only accept resources from industries if they have assigned this as a drop-off point.",
+    "target_vi": "Chỉ tiếp nhận hàng từ các nhà xưởng đã cài đặt điểm trả hàng về đây.",
+    "context": "logistics | Row 1272",
+    "offset": 53341,
+    "length": 86
+  },
+  {
+    "id": 1273,
+    "key": "logistics.whitelist",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Whitelist allowed resources",
+    "target_vi": "Danh Sách Hàng Cho Phép",
+    "context": "logistics | Row 1273",
+    "offset": 53441,
+    "length": 28
+  },
+  {
+    "id": 1274,
+    "key": "logistics.inboxHint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Resources delivered here will drop onto attached conveyor belt",
+    "target_vi": "Tài nguyên giao đến đây sẽ được thả thẳng lên băng chuyền kết nối",
+    "context": "logistics | Row 1274",
+    "offset": 53483,
+    "length": 63
+  },
+  {
+    "id": 1282,
+    "key": "building.stonedec_wall",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Wall",
+    "target_vi": "Tường Đá Trang Trí",
+    "context": "building | Row 1282",
+    "offset": 53798,
+    "length": 11
+  },
+  {
+    "id": 1283,
+    "key": "building.stonedec_pillar_short",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Pillar - Short",
+    "target_vi": "Cột Đá Thấp",
+    "context": "building | Row 1283",
+    "offset": 53823,
+    "length": 21
+  },
+  {
+    "id": 1284,
+    "key": "building.stonedec_pillar_tall",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Pillar - Tall",
+    "target_vi": "Cột Đá Cao",
+    "context": "building | Row 1284",
+    "offset": 53858,
+    "length": 20
+  },
+  {
+    "id": 1285,
+    "key": "building.stonedec_pedestal",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Pedestal",
+    "target_vi": "Bệ Đá Đặt Tượng",
+    "context": "building | Row 1285",
+    "offset": 53892,
+    "length": 15
+  },
+  {
+    "id": 1286,
+    "key": "building.stonedec_gate",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Gate",
+    "target_vi": "Cổng Đá",
+    "context": "building | Row 1286",
+    "offset": 53921,
+    "length": 11
+  },
+  {
+    "id": 1287,
+    "key": "building.stonedec_arch",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Archway",
+    "target_vi": "Cổng Vòm Đá",
+    "context": "building | Row 1287",
+    "offset": 53946,
+    "length": 14
+  },
+  {
+    "id": 1288,
+    "key": "building.stonedec_platform",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone Platform",
+    "target_vi": "Bệ Đỡ Bằng Đá",
+    "context": "building | Row 1288",
+    "offset": 53974,
+    "length": 15
+  },
+  {
+    "id": 1289,
+    "key": "building.stonedec.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone construction.",
+    "target_vi": "Công trình kiến trúc bằng đá.",
+    "context": "building | Row 1289",
+    "offset": 54003,
+    "length": 20
+  },
+  {
+    "id": 1301,
+    "key": "building.oilpress.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Uses steam-powered presses to extract oil.",
+    "target_vi": "Dùng máy ép hơi nước để chiết xuất dầu mỡ thực vật.",
+    "context": "building | Row 1301",
+    "offset": 54301,
+    "length": 43
+  },
+  {
+    "id": 1302,
+    "key": "building.shipyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large dry dock to produce grander seafaring vessels.\n\nShips must be assigned to a Work Dock to be crewed.",
+    "target_vi": "Ụ đóng tàu lớn trên cạn để đóng những chiến thuyền vượt biển bề thế.\n\nTàu đóng xong phải gán vào Bến Tàu Thợ để tuyển thủy thủ.",
+    "context": "building | Row 1302",
+    "offset": 54358,
+    "length": 106
+  },
+  {
+    "id": 1318,
+    "key": "logistics.filterhint.whitelist",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Select allowed resources or categories",
+    "target_vi": "Chọn tài nguyên hoặc nhóm hàng cho phép nhận",
+    "context": "logistics | Row 1318",
+    "offset": 55004,
+    "length": 39
+  },
+  {
+    "id": 1319,
+    "key": "logistics.filterhint.all",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Accepting all resources",
+    "target_vi": "Tiếp nhận mọi loại tài nguyên",
+    "context": "logistics | Row 1319",
+    "offset": 55057,
+    "length": 24
+  },
+  {
+    "id": 1457,
+    "key": "logistics.keepEmpty",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Try to keep empty",
+    "target_vi": "Luôn cố gắng dọn rỗng",
+    "context": "logistics | Row 1457",
+    "offset": 60185,
+    "length": 18
+  },
+  {
+    "id": 1458,
+    "key": "logistics.keepEmpty.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Workers will attempt to move anything in this warehouse to other accepting warehouses.",
+    "target_vi": "Thợ kho sẽ ưu tiên chuyển mọi món hàng trong kho này sang các kho nhận hàng khác.",
+    "context": "logistics | Row 1458",
+    "offset": 60217,
+    "length": 87
+  },
+  {
+    "id": 1459,
+    "key": "logistics.constructionAccess",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allow Construction Access",
+    "target_vi": "Cho Phép Lấy Hàng Xây Dựng",
+    "context": "logistics | Row 1459",
+    "offset": 60318,
+    "length": 26
+  },
+  {
+    "id": 1460,
+    "key": "logistics.constructionAccess.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allow resources to be pulled by construction actions.",
+    "target_vi": "Cho phép thợ xây rút tài nguyên trong kho này để thi công công trình.",
+    "context": "logistics | Row 1460",
+    "offset": 60358,
+    "length": 54
+  },
+  {
+    "id": 1461,
+    "key": "logistics.desired",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Desired",
+    "target_vi": "Mức Yêu Cầu",
+    "context": "logistics | Row 1461",
+    "offset": 60426,
+    "length": 8
+  },
+  {
+    "id": 1471,
+    "key": "problem.housingShortage",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Housing Shortage",
+    "target_vi": "Thiếu Nhà Ở!",
+    "context": "problem | Row 1471",
+    "offset": 60800,
+    "length": 17
+  },
+  {
+    "id": 1472,
+    "key": "problem.housingShortage.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "There are more Whiskers than there is housing space.\n\nBuild more houses so they have somewhere to sleep!",
+    "target_vi": "Số lượng chuột đông hơn chỗ ngủ hiện có.\n\nHãy dựng thêm nhà cho bà con chuột có chỗ ngả lưng!",
+    "context": "problem | Row 1472",
+    "offset": 60831,
+    "length": 105
+  },
+  {
+    "id": 1473,
+    "key": "problem.longpaths",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Long paths!",
+    "target_vi": "Quãng Đường Đi Bộ Quá Xa!",
+    "context": "problem | Row 1473",
+    "offset": 60950,
+    "length": 12
+  },
+  {
+    "id": 1474,
+    "key": "problem.longpaths.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Some Whiskers are walking extremely long distances! Is their route disrupted?",
+    "target_vi": "Vài chú chuột đang phải đi bộ quá xa! Tuyến đường có bị đứt gãy chỗ nào không?",
+    "context": "problem | Row 1474",
+    "offset": 60976,
+    "length": 78
+  },
+  {
+    "id": 1475,
+    "key": "problem.nobuilders",
+    "category": "02_Buildings_Logistics",
+    "source_en": "No Builders Available!",
+    "target_vi": "Hết Thợ Xây!",
+    "context": "problem | Row 1475",
+    "offset": 61068,
+    "length": 23
+  },
+  {
+    "id": 1476,
+    "key": "problem.nobuilders.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Idle Whiskers are needed to construct structures.\n\nAll Whiskers are currently assigned to jobs.",
+    "target_vi": "Cần những chú chuột rảnh rỗi để thi công công trình.\n\nHiện toàn bộ dân chuột đều đã bận việc.",
+    "context": "problem | Row 1476",
+    "offset": 61105,
+    "length": 96
+  },
+  {
+    "id": 1477,
+    "key": "problem.pathIssues",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pathing Problems",
+    "target_vi": "Đường Đi Bị Gián Đoạn",
+    "context": "problem | Row 1477",
+    "offset": 61215,
+    "length": 17
+  },
+  {
+    "id": 1478,
+    "key": "problem.pathIssues.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "One or more Whiskers cannot reach their destination.",
+    "target_vi": "Một hoặc nhiều chú chuột không thể tìm thấy đường đến nơi cần đến.",
+    "context": "problem | Row 1478",
+    "offset": 61246,
+    "length": 53
+  },
+  {
+    "id": 1479,
+    "key": "problem.lowfood",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Low Food",
+    "target_vi": "Sắp Cạn Lương Thực!",
+    "context": "problem | Row 1479",
+    "offset": 61313,
+    "length": 9
+  },
+  {
+    "id": 1480,
+    "key": "problem.lowfood.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Available food in storage is running low.",
+    "target_vi": "Lượng thức ăn dự trữ trong kho đang cạn dần ở mức báo động.",
+    "context": "problem | Row 1480",
+    "offset": 61336,
+    "length": 42
+  },
+  {
+    "id": 1481,
+    "key": "problem.buildingDestroyed",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A structure is in ruins!",
+    "target_vi": "Công Trình Bị Sập Đổ!",
+    "context": "problem | Row 1481",
+    "offset": 61392,
+    "length": 25
+  },
+  {
+    "id": 1482,
+    "key": "problem.buildingDestroyed.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Destroyed structures need to be marked for repair.",
+    "target_vi": "Công trình bị hỏng cần được đánh dấu để thợ sửa chữa lại.",
+    "context": "problem | Row 1482",
+    "offset": 61431,
+    "length": 51
+  },
+  {
+    "id": 1542,
+    "key": "logistics.hint1",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Logistics workers transfer materials between warehouses based on requested resources",
+    "target_vi": "Thợ hậu cần vận chuyển tài nguyên giữa các kho theo lượng hàng yêu cầu",
+    "context": "logistics | Row 1542",
+    "offset": 63167,
+    "length": 85
+  },
+  {
+    "id": 1543,
+    "key": "logistics.hint2",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Build at least one other warehouse to unlock Logistics controls",
+    "target_vi": "Hãy xây thêm ít nhất một kho nữa để mở khóa bảng điều khiển Hậu Cần",
+    "context": "logistics | Row 1543",
+    "offset": 63266,
+    "length": 64
+  },
+  {
+    "id": 1648,
+    "key": "logistics.addSourceWarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Add Source Warehouse",
+    "target_vi": "Thêm Kho Cấp Hàng",
+    "context": "logistics | Row 1648",
+    "offset": 68476,
+    "length": 21
+  },
+  {
+    "id": 1649,
+    "key": "logistics.addSourceWarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Select warehouses this building is allowed to pull from.\n\nIf none assigned, workers will pull from nearest stocked warehouse.",
+    "target_vi": "Chọn những kho mà công trình này được phép đến lấy hàng.\n\nNếu để trống, thợ sẽ tự đến kho gần nhất có hàng.",
+    "context": "logistics | Row 1649",
+    "offset": 68511,
+    "length": 126
+  },
+  {
+    "id": 1650,
+    "key": "logistics.addDestinationWarehosue",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Add Destination Warehouse",
+    "target_vi": "Thêm Kho Nhận Hàng",
+    "context": "logistics | Row 1650",
+    "offset": 68651,
+    "length": 26
+  },
+  {
+    "id": 1651,
+    "key": "logistics.addDestinationWarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Select warehouses or industries this building is allowed to deliver to.\n\nIf none assigned, workers will deliver to nearest warehouse.",
+    "target_vi": "Chọn kho hoặc xưởng mà công trình này được phép giao hàng đến.\n\nNếu để trống, thợ sẽ tự đem đến kho gần nhất.",
+    "context": "logistics | Row 1651",
+    "offset": 68691,
+    "length": 134
+  },
+  {
+    "id": 1652,
+    "key": "logistics.clearAllLinks",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Clear all assignments",
+    "target_vi": "Xóa Mọi Liên Kết",
+    "context": "logistics | Row 1652",
+    "offset": 68839,
+    "length": 22
+  },
+  {
+    "id": 1653,
+    "key": "logistics.clearAllLinks.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Remove all assigned connections.",
+    "target_vi": "Gỡ bỏ tất cả tuyến kết nối đã chỉ định.",
+    "context": "logistics | Row 1653",
+    "offset": 68875,
+    "length": 33
+  },
+  {
+    "id": 1665,
+    "key": "building.oceanvoid",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Ocean Outlet Pipe",
+    "target_vi": "Ống Xả Nước Ra Biển",
+    "context": "building | Row 1665",
+    "offset": 69481,
+    "length": 18
+  },
+  {
+    "id": 1666,
+    "key": "building.oceanvoid.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dumps water back into the ocean.",
+    "target_vi": "Xả nước thừa từ hệ thống ngược trở lại biển.",
+    "context": "building | Row 1666",
+    "offset": 69513,
+    "length": 33
+  },
+  {
+    "id": 1669,
+    "key": "building.terraformCamp",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Stone-Dump",
+    "target_vi": "Bãi Đổ Đá Lấn Đất",
+    "context": "building | Row 1669",
+    "offset": 69619,
+    "length": 11
+  },
+  {
+    "id": 1670,
+    "key": "building.terraformCamp.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Drops stone to build solid terrain in a column below.",
+    "target_vi": "Đổ đá hộc xuống dưới để bồi đắp địa hình thành trụ đá vững chắc.",
+    "context": "building | Row 1670",
+    "offset": 69644,
+    "length": 54
+  },
+  {
+    "id": 1758,
+    "key": "problem.unburiedWhiskers",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Unburied Whiskers",
+    "target_vi": "Cư Dân Chưa Được An Táng!",
+    "context": "problem | Row 1758",
+    "offset": 73291,
+    "length": 18
+  },
+  {
+    "id": 1759,
+    "key": "problem.unburiedWhiskers.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A Whisker requires a proper grave.",
+    "target_vi": "Bà con chuột cần một phần mộ tươm tất để yên nghỉ.",
+    "context": "problem | Row 1759",
+    "offset": 73323,
+    "length": 35
+  },
+  {
+    "id": 1760,
+    "key": "building.grave",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grave",
+    "target_vi": "Phần Mộ",
+    "context": "building | Row 1760",
+    "offset": 73372,
+    "length": 6
+  },
+  {
+    "id": 1761,
+    "key": "building.grave.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grave plot to lay a deceased Whiskers to rest.",
+    "target_vi": "Nơi an nghỉ ngàn thu cho các chú chuột đã qua đời.",
+    "context": "building | Row 1761",
+    "offset": 73392,
+    "length": 47
+  },
+  {
+    "id": 1766,
+    "key": "building.hangingGarden",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Hanging Garden",
+    "target_vi": "Vườn Treo",
+    "context": "building | Row 1766",
+    "offset": 73639,
+    "length": 15
+  },
+  {
+    "id": 1767,
+    "key": "building.hangingGarden.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Overflowing garden with ivy hanging down to the area below.",
+    "target_vi": "Vườn cây sum suê với những nhành thường xuân rủ bóng xuống tầng dưới.",
+    "context": "building | Row 1767",
+    "offset": 73668,
+    "length": 60
+  },
+  {
+    "id": 1833,
+    "key": "building.flaxspinner",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Flax Spinner",
+    "target_vi": "Xưởng Kéo Sợi Lanh",
+    "context": "building | Row 1833",
+    "offset": 87780,
+    "length": 13
+  },
+  {
+    "id": 1834,
+    "key": "building.flaxspinner.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Spins flax into sturdy ropes or fine threads.",
+    "target_vi": "Se sợi lanh thành dây thừng chắc nịch hoặc sợi mịn dệt vải.",
+    "context": "building | Row 1834",
+    "offset": 87807,
+    "length": 46
+  },
+  {
+    "id": 1835,
+    "key": "building.cottongin",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cotton Gin",
+    "target_vi": "Máy Tách Hạt Bông",
+    "context": "building | Row 1835",
+    "offset": 87867,
+    "length": 11
+  },
+  {
+    "id": 1836,
+    "key": "building.cottongin.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Separates seeds from the cotton fiber, which is spun into threads.",
+    "target_vi": "Tách hạt khỏi xơ bông để chuẩn bị kéo thành sợi.",
+    "context": "building | Row 1836",
+    "offset": 87892,
+    "length": 67
+  },
+  {
+    "id": 1855,
+    "key": "building.largewarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large Warehouse",
+    "target_vi": "Kho Lớn",
+    "context": "building | Row 1855",
+    "offset": 89000,
+    "length": 16
+  },
+  {
+    "id": 1856,
+    "key": "building.largewarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large storage warehouse.\n\nWorkers can be assigned to cart resources from other warehouses.",
+    "target_vi": "Kho chứa hàng quy mô lớn.\n\nCó thể phân công thợ đẩy xe kéo chuyển hàng từ kho khác về.",
+    "context": "building | Row 1856",
+    "offset": 89030,
+    "length": 91
+  },
+  {
+    "id": 1902,
+    "key": "building.showers",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Showers",
+    "target_vi": "Nhà Tắm Vòi Sen",
+    "context": "building | Row 1902",
+    "offset": 91228,
+    "length": 8
+  },
+  {
+    "id": 1903,
+    "key": "building.showers.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Piped showers for a robust cleaning.",
+    "target_vi": "Hệ thống vòi tắm nước ấm dẫn qua đường ống cho chuột tắm gội sạch sẽ.",
+    "context": "building | Row 1903",
+    "offset": 91250,
+    "length": 37
+  },
+  {
+    "id": 1908,
+    "key": "building.bathingdock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Bathing dock",
+    "target_vi": "Cầu Tắm Biển",
+    "context": "building | Row 1908",
+    "offset": 91447,
+    "length": 13
+  },
+  {
+    "id": 1909,
+    "key": "building.bathingdock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Somewhere to rinse off.",
+    "target_vi": "Bến gỗ ven biển cho chuột nhảy xuống tắm mát xua tan mệt mỏi.",
+    "context": "building | Row 1909",
+    "offset": 91474,
+    "length": 24
+  },
+  {
+    "id": 1949,
+    "key": "building.house4.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant blockhouse for two.",
+    "target_vi": "Nhà đôi xa hoa tráng lệ dành cho hai chú chuột.",
+    "context": "building | Row 1949",
+    "offset": 93320,
+    "length": 32
+  },
+  {
+    "id": 1950,
+    "key": "building.rowhouse4",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant Rowhouse",
+    "target_vi": "Dãy Nhà Xa Hoa",
+    "context": "building | Row 1950",
+    "offset": 93366,
+    "length": 21
+  },
+  {
+    "id": 1951,
+    "key": "building.rowhouse4.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant rockhouse for two.",
+    "target_vi": "Dãy nhà liền kề tráng lệ cho hai chú chuột.",
+    "context": "building | Row 1951",
+    "offset": 93401,
+    "length": 31
+  },
+  {
+    "id": 1952,
+    "key": "building.smallhouse4",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant Blockhouse",
+    "target_vi": "Nhà Xa Hoa Đôi",
+    "context": "building | Row 1952",
+    "offset": 93446,
+    "length": 23
+  },
+  {
+    "id": 1953,
+    "key": "building.tinyhouse4",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant Abode",
+    "target_vi": "Nhà Xa Hoa Đơn",
+    "context": "building | Row 1953",
+    "offset": 93483,
+    "length": 18
+  },
+  {
+    "id": 1954,
+    "key": "building.tinyhouse4.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extravagant small abode for one.",
+    "target_vi": "Nhà nhỏ xa hoa lộng lẫy dành cho một chú chuột.",
+    "context": "building | Row 1954",
+    "offset": 93515,
+    "length": 33
+  },
+  {
+    "id": 1969,
+    "key": "logistics.totalLogisticsWorkers",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Total Logistics Workers",
+    "target_vi": "Tổng Thợ Hậu Cần",
+    "context": "logistics | Row 1969",
+    "offset": 94127,
+    "length": 24
+  },
+  {
+    "id": 1970,
+    "key": "logistics.totalWarehouses",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Total Warehouses",
+    "target_vi": "Tổng Số Kho Hàng",
+    "context": "logistics | Row 1970",
+    "offset": 94165,
+    "length": 17
+  },
+  {
+    "id": 1971,
+    "key": "logistics.totalDeficits",
+    "category": "02_Buildings_Logistics",
+    "source_en": "All pending logistics requests:",
+    "target_vi": "Danh sách hàng đang thiếu cần chở đến:",
+    "context": "logistics | Row 1971",
+    "offset": 94196,
+    "length": 32
+  },
+  {
+    "id": 1972,
+    "key": "logistics.noDeficits",
+    "category": "02_Buildings_Logistics",
+    "source_en": "No requests",
+    "target_vi": "Không có yêu cầu nào",
+    "context": "logistics | Row 1972",
+    "offset": 94242,
+    "length": 12
+  },
+  {
+    "id": 1973,
+    "key": "logistics.warehouseHint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Nearby Logistics Hubs will transfer requested resources from other warehouses",
+    "target_vi": "Trung Tâm Hậu Cần lân cận sẽ điều phối xe chuyển hàng theo yêu cầu giữa các kho",
+    "context": "logistics | Row 1973",
+    "offset": 94268,
+    "length": 78
+  },
+  {
+    "id": 1974,
+    "key": "logistics.workerHint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Workers transport resources between warehouses based on logistics requests",
+    "target_vi": "Thợ hậu cần vận chuyển hàng hóa giữa các kho dựa trên danh sách yêu cầu",
+    "context": "logistics | Row 1974",
+    "offset": 94360,
+    "length": 75
+  },
+  {
+    "id": 1975,
+    "key": "logistics.nologisticsHubs",
+    "category": "02_Buildings_Logistics",
+    "source_en": "No Logistics Hubs built!",
+    "target_vi": "Chưa xây Trung Tâm Hậu Cần nào!",
+    "context": "logistics | Row 1975",
+    "offset": 94449,
+    "length": 25
+  },
+  {
+    "id": 1976,
+    "key": "building.logisticshub.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allows for efficient movement of resources between Warehouses using carts.",
+    "target_vi": "Giúp việc vận chuyển hàng hóa giữa các kho bằng xe kéo đạt hiệu suất cao.",
+    "context": "building | Row 1976",
+    "offset": 94488,
+    "length": 75
+  },
+  {
+    "id": 1978,
+    "key": "logistics.requested",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Requested",
+    "target_vi": "Đã Yêu Cầu",
+    "context": "logistics | Row 1978",
+    "offset": 94606,
+    "length": 10
+  },
+  {
+    "id": 1979,
+    "key": "logistics.inbound",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Inbound",
+    "target_vi": "Đang Chuyển Đến",
+    "context": "logistics | Row 1979",
+    "offset": 94630,
+    "length": 8
+  },
+  {
+    "id": 1981,
+    "key": "problem.noresourcesInRange",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Camp is idle!",
+    "target_vi": "Trại Đang Nhàn Rỗi!",
+    "context": "problem | Row 1981",
+    "offset": 94683,
+    "length": 14
+  },
+  {
+    "id": 1982,
+    "key": "problem.noresourcesInRange.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Camp cannot find any work within range.",
+    "target_vi": "Trại không tìm thấy việc gì trong phạm vi hoạt động.",
+    "context": "problem | Row 1982",
+    "offset": 94711,
+    "length": 40
+  },
+  {
+    "id": 1989,
+    "key": "logistics.totalcapacity",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Total Capacity",
+    "target_vi": "Tổng Sức Chứa",
+    "context": "logistics | Row 1989",
+    "offset": 96537,
+    "length": 15
+  },
+  {
+    "id": 1994,
+    "key": "building.labNew",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Research Lab",
+    "target_vi": "Phòng Nghiên Cứu Kỹ Nghệ",
+    "context": "building | Row 1994",
+    "offset": 96683,
+    "length": 13
+  },
+  {
+    "id": 1995,
+    "key": "building.laboratoryNew",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Chemist",
+    "target_vi": "Xưởng Hóa Chất",
+    "context": "building | Row 1995",
+    "offset": 96710,
+    "length": 8
+  },
+  {
+    "id": 2010,
+    "key": "building.earthworks",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Earthworks",
+    "target_vi": "Trạm Đắp Đất",
+    "context": "building | Row 2010",
+    "offset": 97190,
+    "length": 11
+  },
+  {
+    "id": 2011,
+    "key": "building.earthworks.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Fills in marked areas with earthen terrain.",
+    "target_vi": "Bồi đắp đất đá vào các khu vực được đánh dấu.",
+    "context": "building | Row 2011",
+    "offset": 97215,
+    "length": 44
+  },
+  {
+    "id": 2063,
+    "key": "logistics.disableAcceptingDeliveries",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Reject all deliveries",
+    "target_vi": "Từ chối mọi chuyến giao hàng",
+    "context": "logistics | Row 2063",
+    "offset": 99263,
+    "length": 22
+  },
+  {
+    "id": 2064,
+    "key": "logistics.requestsDisabled",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Requests Disabled",
+    "target_vi": "Đã Khóa Yêu Cầu",
+    "context": "logistics | Row 2064",
+    "offset": 99299,
+    "length": 18
+  },
+  {
+    "id": 2065,
+    "key": "logistics.enableAll",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allow All",
+    "target_vi": "Cho Phép Tất Cả",
+    "context": "logistics | Row 2065",
+    "offset": 99331,
+    "length": 10
+  },
+  {
+    "id": 2066,
+    "key": "logistics.disableAll",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Reject All",
+    "target_vi": "Từ Chối Tất Cả",
+    "context": "logistics | Row 2066",
+    "offset": 99355,
+    "length": 11
+  },
+  {
+    "id": 2067,
+    "key": "logistics.keepWarehouseEmpty",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Empty out warehouse",
+    "target_vi": "Rút sạch đồ trong kho",
+    "context": "logistics | Row 2067",
+    "offset": 99380,
+    "length": 20
+  },
+  {
+    "id": 2068,
+    "key": "logistics.resourceWhitelistHint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allowed resources can be toggled in table.",
+    "target_vi": "Có thể tích chọn loại hàng cho phép trong bảng.",
+    "context": "logistics | Row 2068",
+    "offset": 99414,
+    "length": 43
+  },
+  {
+    "id": 2071,
+    "key": "building.school",
+    "category": "02_Buildings_Logistics",
+    "source_en": "School",
+    "target_vi": "Trường Học",
+    "context": "building | Row 2071",
+    "offset": 99635,
+    "length": 7
+  },
+  {
+    "id": 2072,
+    "key": "building.school.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "An institution where Whiskers can teach others their skills.",
+    "target_vi": "Nơi các chú chuột thông thái truyền dạy kỹ năng nghề nghiệp cho thế hệ sau.",
+    "context": "building | Row 2072",
+    "offset": 99656,
+    "length": 61
+  },
+  {
+    "id": 2130,
+    "key": "building.bridge_medium",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Covered Bridge",
+    "target_vi": "Cầu Mái Che",
+    "context": "building | Row 2130",
+    "offset": 102619,
+    "length": 15
+  },
+  {
+    "id": 2175,
+    "key": "building.coordinationOffice",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Management Office",
+    "target_vi": "Văn Phòng Điều Phối",
+    "context": "building | Row 2175",
+    "offset": 104614,
+    "length": 18
+  },
+  {
+    "id": 2176,
+    "key": "building.coordinationOffice.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dedicated staff allows better coordination between workers.\n",
+    "target_vi": "Đội ngũ nhân sự chuyên trách giúp thợ thuyền phối hợp làm việc nhịp nhàng hơn.",
+    "context": "building | Row 2176",
+    "offset": 104646,
+    "length": 61
+  },
+  {
+    "id": 2184,
+    "key": "building.giantwarehouse",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Giant Warehouse",
+    "target_vi": "Kho Khổng Lồ",
+    "context": "building | Row 2184",
+    "offset": 105025,
+    "length": 16
+  },
+  {
+    "id": 2185,
+    "key": "building.giantwarehouse.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cavernous warehouse capable of storing nearly limitless resources",
+    "target_vi": "Kho hàng sâu hun hút với sức chứa tài nguyên gần như vô tận.",
+    "context": "building | Row 2185",
+    "offset": 105055,
+    "length": 66
+  },
+  {
+    "id": 2201,
+    "key": "problem.campstoragefull",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Camp storage full",
+    "target_vi": "Kho Xưởng Đã Đầy!",
+    "context": "problem | Row 2201",
+    "offset": 105515,
+    "length": 18
+  },
+  {
+    "id": 2202,
+    "key": "problem.campstoragefull.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Camp cannot find warehouse to deliver output.",
+    "target_vi": "Xưởng không tìm thấy kho nào còn chỗ để trả thành phẩm.",
+    "context": "problem | Row 2202",
+    "offset": 105547,
+    "length": 46
+  },
+  {
+    "id": 2203,
+    "key": "building.windsock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Windsock",
+    "target_vi": "Cột Báo Gió",
+    "context": "building | Row 2203",
+    "offset": 105607,
+    "length": 9
+  },
+  {
+    "id": 2204,
+    "key": "building.windsock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Pillowed wind catching device useful for seeing the direction of the wind",
+    "target_vi": "Túi vải đón gió giúp nhận biết hướng gió và sức gió ngoài biển.",
+    "context": "building | Row 2204",
+    "offset": 105630,
+    "length": 74
+  },
+  {
+    "id": 2207,
+    "key": "building.anchoredplatform",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Anchored platform",
+    "target_vi": "Bệ Đỡ Neo Vách Đá",
+    "context": "building | Row 2207",
+    "offset": 105975,
+    "length": 18
+  },
+  {
+    "id": 2208,
+    "key": "building.anchoredplatform.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Wooden cantilever that provides a foundation for construction above it.",
+    "target_vi": "Giàn khung dầm gỗ chìa ra làm nền móng để xây cất công trình phía trên.",
+    "context": "building | Row 2208",
+    "offset": 106007,
+    "length": 72
+  },
+  {
+    "id": 2209,
+    "key": "building.stonedec_arch.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Grand archway providing a foundation for construction above it",
+    "target_vi": "Cổng vòm đá bề thế làm nền móng vững chắc cho công trình bên trên.",
+    "context": "building | Row 2209",
+    "offset": 106093,
+    "length": 63
+  },
+  {
+    "id": 2218,
+    "key": "problem.freezingTriage",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Freezing Triage",
+    "target_vi": "Trạm Sơ Cứu Bị Lạnh Cóng!",
+    "context": "problem | Row 2218",
+    "offset": 106808,
+    "length": 16
+  },
+  {
+    "id": 2219,
+    "key": "problem.feezingTriage.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A Triage is too cold for patients to recover!",
+    "target_vi": "Trạm sơ cứu quá lạnh buốt, bệnh nhân không thể hồi phục!",
+    "context": "problem | Row 2219",
+    "offset": 106838,
+    "length": 46
+  },
+  {
+    "id": 2223,
+    "key": "aim.splitter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Splitter",
+    "target_vi": "Bộ Chia Băng Tải",
+    "context": "aim | Row 2223",
+    "offset": 107032,
+    "length": 9
+  },
+  {
+    "id": 2224,
+    "key": "aim.splitter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Splits items onto 2 paths.",
+    "target_vi": "Tách luồng hàng hóa rẽ sang hai nhánh băng chuyền.",
+    "context": "aim | Row 2224",
+    "offset": 107055,
+    "length": 27
+  },
+  {
+    "id": 2225,
+    "key": "aim.sorter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Filter",
+    "target_vi": "Bộ Lọc Hàng",
+    "context": "aim | Row 2225",
+    "offset": 107096,
+    "length": 7
+  },
+  {
+    "id": 2226,
+    "key": "aim.sorter.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Drops only the configured item types down. Allows for separation of items out of a mixed item belt.",
+    "target_vi": "Chỉ thả đúng loại hàng được cài đặt xuống dưới. Dùng để tách riêng từng món hàng ra khỏi băng tải chung.",
+    "context": "aim | Row 2226",
+    "offset": 107117,
+    "length": 100
+  },
+  {
+    "id": 2227,
+    "key": "aim.clift",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Liftback",
+    "target_vi": "Thang Nâng Đảo Chiều",
+    "context": "aim | Row 2227",
+    "offset": 107231,
+    "length": 9
+  },
+  {
+    "id": 2228,
+    "key": "aim.clift.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Using gears to lift items vertically with a double back directional flip.",
+    "target_vi": "Dùng bánh răng nâng hàng lên theo phương thẳng đứng kết hợp đảo chiều chuyển động.",
+    "context": "aim | Row 2228",
+    "offset": 107254,
+    "length": 74
+  },
+  {
+    "id": 2231,
+    "key": "logistics.splitterFilter",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Select Resources split to lower belt",
+    "target_vi": "Chọn tài nguyên tách xuống băng chuyền dưới",
+    "context": "logistics | Row 2231",
+    "offset": 107571,
+    "length": 37
+  },
+  {
+    "id": 2232,
+    "key": "aim.smallStorage",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dropoff",
+    "target_vi": "Hộc Đón Hàng",
+    "context": "aim | Row 2232",
+    "offset": 107622,
+    "length": 8
+  },
+  {
+    "id": 2233,
+    "key": "aim.smallStorage.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Very small warehouse that can receive resources from conveyors.\n\nOnly accepts resources from conveyor belts",
+    "target_vi": "Hộc chứa hàng siêu nhỏ chuyên đón đồ rơi từ băng chuyền.\n\nChỉ tiếp nhận hàng chuyển từ băng chuyền.",
+    "context": "aim | Row 2233",
+    "offset": 107644,
+    "length": 108
+  },
+  {
+    "id": 2234,
+    "key": "logistics.conveyorDropoffOnly",
+    "category": "02_Buildings_Logistics",
+    "source_en": "This warehouse can only receive resources from conveyor belts",
+    "target_vi": "Kho này chỉ tiếp nhận tài nguyên rơi từ băng chuyền",
+    "context": "logistics | Row 2234",
+    "offset": 107766,
+    "length": 62
+  },
+  {
+    "id": 2235,
+    "key": "aim.extractor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extractor",
+    "target_vi": "Bộ Rút Hàng Kho",
+    "context": "aim | Row 2235",
+    "offset": 107842,
+    "length": 10
+  },
+  {
+    "id": 2236,
+    "key": "aim.extractor.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Extracts resources directly from adjacent warehouses onto a belt",
+    "target_vi": "Rút thẳng tài nguyên từ kho liền kề đặt lên băng chuyền.",
+    "context": "aim | Row 2236",
+    "offset": 107866,
+    "length": 65
+  },
+  {
+    "id": 2238,
+    "key": "logistics.logisticsCanTake",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Supply to logistics",
+    "target_vi": "Cung cấp cho hậu cần",
+    "context": "logistics | Row 2238",
+    "offset": 107979,
+    "length": 20
+  },
+  {
+    "id": 2239,
+    "key": "logistics.logisticsCanTake.hint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allow logistics workers to take excess resources from this warehouse",
+    "target_vi": "Cho phép thợ hậu cần rút tài nguyên dư thừa từ kho này mang đi nơi khác",
+    "context": "logistics | Row 2239",
+    "offset": 108013,
+    "length": 69
+  },
+  {
+    "id": 2247,
+    "key": "aim.oceandump",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Ocean Dump",
+    "target_vi": "Cửa Xả Hàng Xuống Biển",
+    "context": "aim | Row 2247",
+    "offset": 108347,
+    "length": 11
+  },
+  {
+    "id": 2248,
+    "key": "aim.oceandump.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dumps any belted resources into the ocean.  \n\nDumped resources may impact marine ecosystems!",
+    "target_vi": "Xả thẳng bất kỳ món hàng nào trên băng chuyền xuống lòng biển.\n\nXả hàng ra biển có thể gây ô nhiễm và hủy hoại hệ sinh thái biển!",
+    "context": "aim | Row 2248",
+    "offset": 108372,
+    "length": 93
+  },
+  {
+    "id": 2263,
+    "key": "building.raftDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Raft Dock",
+    "target_vi": "Bến Bè Mảng",
+    "context": "building | Row 2263",
+    "offset": 108914,
+    "length": 10
+  },
+  {
+    "id": 2264,
+    "key": "building.raftDock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Primitive rafts allow travel between islands\n\nRequires two Raft Docks to function",
+    "target_vi": "Bè gỗ thô sơ dùng để đi lại giữa các đảo lân cận.\n\nCần tối thiểu hai bến bè mới hoạt động được.",
+    "context": "building | Row 2264",
+    "offset": 108938,
+    "length": 82
+  },
+  {
+    "id": 2277,
+    "key": "building.bush",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Bush",
+    "target_vi": "Bụi Cây Nhỏ",
+    "context": "building | Row 2277",
+    "offset": 109625,
+    "length": 11
+  },
+  {
+    "id": 2278,
+    "key": "building.bush.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Varous bushes and ferns",
+    "target_vi": "Bụi cây và dương xỉ dại.",
+    "context": "building | Row 2278",
+    "offset": 109650,
+    "length": 24
+  },
+  {
+    "id": 2297,
+    "key": "logistics.allowOverflow",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Allow Overflow",
+    "target_vi": "Cho Phép Tràn Băng",
+    "context": "logistics | Row 2297",
+    "offset": 110297,
+    "length": 15
+  },
+  {
+    "id": 2298,
+    "key": "building.smallshipyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small dry dock to produce seafaring vessels.\n\nShips must be assigned to a Work Dock to be crewed.",
+    "target_vi": "Ụ đóng tàu nhỏ trên cạn để đóng các loại tàu thuyền vượt biển.\n\nTàu đóng xong phải gán vào Bến Tàu Thợ để tuyển thủy thủ.",
+    "context": "building | Row 2298",
+    "offset": 110326,
+    "length": 98
+  },
+  {
+    "id": 2299,
+    "key": "building.constructionyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Construction Yard",
+    "target_vi": "Công Trường Xây Dựng",
+    "context": "building | Row 2299",
+    "offset": 110438,
+    "length": 18
+  },
+  {
+    "id": 2300,
+    "key": "building.constructionyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Foreman coordinates carts and tools to quickly construct nearby buildings",
+    "target_vi": "Đội trưởng công trình điều phối xe kéo và dụng cụ để thi công nhanh các công trình lân cận.",
+    "context": "building | Row 2300",
+    "offset": 110470,
+    "length": 74
+  },
+  {
+    "id": 2304,
+    "key": "problem.idleyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Idle Construction Yard",
+    "target_vi": "Công Trường Đang Nhàn Rỗi",
+    "context": "problem | Row 2304",
+    "offset": 110760,
+    "length": 23
+  },
+  {
+    "id": 2305,
+    "key": "problem.idleyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Construction yard has no construction sites in range",
+    "target_vi": "Công trường không có dự án xây dựng nào trong phạm vi hoạt động.",
+    "context": "problem | Row 2305",
+    "offset": 110797,
+    "length": 53
+  },
+  {
+    "id": 2306,
+    "key": "logistics.allowOverflow.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "If lower belt backs up, allow filtered items to overflow onto top belt",
+    "target_vi": "Nếu băng tải dưới bị tắc nghẽn, cho phép hàng hóa tràn tiếp sang băng chuyền trên.",
+    "context": "logistics | Row 2306",
+    "offset": 110864,
+    "length": 71
+  },
+  {
+    "id": 2307,
+    "key": "problem.noMineCart",
+    "category": "02_Buildings_Logistics",
+    "source_en": "No vehicle on track",
+    "target_vi": "Không Có Xe Trên Đường Ray",
+    "context": "problem | Row 2307",
+    "offset": 110949,
+    "length": 20
+  },
+  {
+    "id": 2348,
+    "key": "building.navalFishingDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Deep Sea Fishing Dock",
+    "target_vi": "Bến Tàu Đánh Cá Xa Bờ",
+    "context": "building | Row 2348",
+    "offset": 112056,
+    "length": 22
+  },
+  {
+    "id": 2349,
+    "key": "building.navalFishingDock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Manages a seaworthy ship and crew for open-sea fishing expeditions",
+    "target_vi": "Chỉ định tàu và thủy thủ đoàn thực hiện các chuyến hải trình đánh bắt cá ngoài biển sâu.",
+    "context": "building | Row 2349",
+    "offset": 112092,
+    "length": 67
+  },
+  {
+    "id": 2508,
+    "key": "building.navaltradedock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Trade Ship Dock",
+    "target_vi": "Bến Thương Thuyền Ngầm",
+    "context": "building | Row 2508",
+    "offset": 116881,
+    "length": 16
+  },
+  {
+    "id": 2509,
+    "key": "building.navaltradedock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crew a ship for shipping illicit exports to willing parties",
+    "target_vi": "Tổ chức tàu buôn lậu lén lút xuất khẩu hàng hóa cho các đối tác sẵn lòng mua.",
+    "context": "building | Row 2509",
+    "offset": 116911,
+    "length": 60
+  },
+  {
+    "id": 2510,
+    "key": "building.navalwardock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Naval Dock",
+    "target_vi": "Bến Chiến Hạm Hải Quân",
+    "context": "building | Row 2510",
+    "offset": 116985,
+    "length": 11
+  },
+  {
+    "id": 2511,
+    "key": "building.navalwardock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Crew and outfit a ship for full naval combat and island bombardment",
+    "target_vi": "Trang bị đại bác và tuyển mộ thủy thủ cho chiến hạm để hải chiến và oanh tạc đảo đối phương.",
+    "context": "building | Row 2511",
+    "offset": 117010,
+    "length": 68
+  },
+  {
+    "id": 2512,
+    "key": "building.navalhuntingdock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Leviathan Hunting Berth",
+    "target_vi": "Bến Tàu Săn Thủy Quái",
+    "context": "building | Row 2512",
+    "offset": 117092,
+    "length": 24
+  },
+  {
+    "id": 2513,
+    "key": "building.navalhuntingdock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Outfit a ship for leviathan hunting, a fearsome but rewarding catch",
+    "target_vi": "Trang bị cho tàu ra khơi săn Leviathan – chuyến đi đầy nguy hiểm nhưng chiến lợi phẩm cực kỳ giá trị.",
+    "context": "building | Row 2513",
+    "offset": 117130,
+    "length": 68
+  },
+  {
+    "id": 2514,
+    "key": "building.navalguanodock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Guano Collection Dock",
+    "target_vi": "Bến Thu Gom Phân Chim Biển",
+    "context": "building | Row 2514",
+    "offset": 117212,
+    "length": 22
+  },
+  {
+    "id": 2515,
+    "key": "building.navalguanodock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Outfit ships to gather valuable guano from distant islands.\nProvides a rich source of fertilizer",
+    "target_vi": "Trang bị cho tàu đến các hải đảo xa xôi thu gom phân chim biển giàu dinh dưỡng làm phân bón.",
+    "context": "building | Row 2515",
+    "offset": 117248,
+    "length": 97
+  },
+  {
+    "id": 2524,
+    "key": "building.largeshipyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Large Shipyard",
+    "target_vi": "Xưởng Đóng Tàu Lớn",
+    "context": "building | Row 2524",
+    "offset": 117762,
+    "length": 15
+  },
+  {
+    "id": 2525,
+    "key": "building.largeshipyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Larger shipyard which can support production of large sea-faring vessels",
+    "target_vi": "Xưởng đóng tàu quy mô lớn có thể đóng các loại chiến hạm vượt biển hạng nặng.",
+    "context": "building | Row 2525",
+    "offset": 117791,
+    "length": 73
+  },
+  {
+    "id": 2526,
+    "key": "building.giantshipyard",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Royal Shipyard",
+    "target_vi": "Xưởng Đóng Tàu Hoàng Gia",
+    "context": "building | Row 2526",
+    "offset": 117878,
+    "length": 15
+  },
+  {
+    "id": 2527,
+    "key": "building.giantshipyard.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Massive dry dock for constructing mighty vessels\n\nShips must be assigned to a Work Dock to be crewed.",
+    "target_vi": "Ụ tàu khổng lồ chuyên đóng các kỳ hạm đại dương hùng vĩ.\n\nTàu đóng xong phải gán vào Bến Tàu Thợ để điều động thủy thủ.",
+    "context": "building | Row 2527",
+    "offset": 117907,
+    "length": 102
+  },
+  {
+    "id": 2528,
+    "key": "problem.noPathToSea",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Dock does not connect to open ocean",
+    "target_vi": "Bến Cảng Không Thông Ra Biển Lớn",
+    "context": "problem | Row 2528",
+    "offset": 118023,
+    "length": 36
+  },
+  {
+    "id": 2556,
+    "key": "building.defensivetower",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Small Defensive Tower",
+    "target_vi": "Tháp Pháo Phòng Thủ",
+    "context": "building | Row 2556",
+    "offset": 119409,
+    "length": 22
+  },
+  {
+    "id": 2557,
+    "key": "building.defensivetower.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Sturdy tower that can be requested to fire upon approaching hostile ships.",
+    "target_vi": "Tháp canh kiên cố có thể nã đạn đại bác vào tàu địch dám mon men lại gần.",
+    "context": "building | Row 2557",
+    "offset": 119445,
+    "length": 75
+  },
+  {
+    "id": 2598,
+    "key": "problem.colonyInCombat",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Cannons ring out near our colony",
+    "target_vi": "Đại Bác Vang Rền Gần Làng Ta!",
+    "context": "problem | Row 2598",
+    "offset": 121260,
+    "length": 33
+  },
+  {
+    "id": 2599,
+    "key": "problem.colonyInCombat.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Whiskers assigned to defenses will not rest until combat passes",
+    "target_vi": "Bà con chuột được phân công phòng thủ sẽ túc trực chiến đấu cho đến khi dứt tiếng súng.",
+    "context": "problem | Row 2599",
+    "offset": 121307,
+    "length": 64
+  },
+  {
+    "id": 2605,
+    "key": "building.brickdec_wall",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Red Brick Wall",
+    "target_vi": "Tường Gạch Đỏ",
+    "context": "building | Row 2605",
+    "offset": 121526,
+    "length": 15
+  },
+  {
+    "id": 2606,
+    "key": "building.brickdec_wall.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Thick brick wall with optional white stone top",
+    "target_vi": "Tường gạch dày dặn viền đá trắng phía trên.",
+    "context": "building | Row 2606",
+    "offset": 121555,
+    "length": 47
+  },
+  {
+    "id": 2608,
+    "key": "building.brickdecor",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Elevated brick planter",
+    "target_vi": "Bồn Cây Bằng Gạch",
+    "context": "building | Row 2608",
+    "offset": 121652,
+    "length": 23
+  },
+  {
+    "id": 2609,
+    "key": "building.brickDecordesc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Various brickwork planters with tiered designs",
+    "target_vi": "Các loại bồn hoa xây bằng gạch với thiết kế giật cấp nhiều tầng.",
+    "context": "building | Row 2609",
+    "offset": 121689,
+    "length": 47
+  },
+  {
+    "id": 2612,
+    "key": "building.nauticalRaftDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Ferry Dock",
+    "target_vi": "Bến Phà Đảo",
+    "context": "building | Row 2612",
+    "offset": 121804,
+    "length": 11
+  },
+  {
+    "id": 2613,
+    "key": "building.nauticalRaftDock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Assign seaworthy vessels to ferry whiskers quickly between docks",
+    "target_vi": "Chỉ định tàu chở bà con chuột qua lại nhanh chóng giữa các bến cảng trên đảo.",
+    "context": "building | Row 2613",
+    "offset": 121829,
+    "length": 65
+  },
+  {
+    "id": 2676,
+    "key": "building.questRepairDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Makeshift Repair Dock",
+    "target_vi": "Bến Sửa Chữa Dã Chiến",
+    "context": "building | Row 2676",
+    "offset": 134264,
+    "length": 22
+  },
+  {
+    "id": 2677,
+    "key": "building.questRepairDock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "A temporary dock where whiskers can repair the stranded ship",
+    "target_vi": "Bến cảng dã chiến nơi các chú chuột sửa chữa con tàu bị mắc kẹt.",
+    "context": "building | Row 2677",
+    "offset": 134300,
+    "length": 61
+  },
+  {
+    "id": 2708,
+    "key": "logistics.dropoffLogisticsHint",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Logistics carts avoid dropoffs unless set to empty",
+    "target_vi": "Xe kéo hậu cần sẽ tránh các điểm xả hàng trừ khi được cài đặt dọn rỗng",
+    "context": "logistics | Row 2708",
+    "offset": 135428,
+    "length": 51
+  },
+  {
+    "id": 2712,
+    "key": "building.storageDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Storage Dock",
+    "target_vi": "Bến Neo Đậu Dự Bị",
+    "context": "building | Row 2712",
+    "offset": 135682,
+    "length": 13
+  },
+  {
+    "id": 2713,
+    "key": "building.desc.storageDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Simple dock to mothball ships while not in use",
+    "target_vi": "Bến neo đậu đơn giản để bảo quản tàu thuyền khi chưa dùng đến.",
+    "context": "building | Row 2713",
+    "offset": 135709,
+    "length": 47
+  },
+  {
+    "id": 2737,
+    "key": "building.scoutDock",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Exploration Dock",
+    "target_vi": "Bến Tàu Thám Hiểm",
+    "context": "building | Row 2737",
+    "offset": 136607,
+    "length": 17
+  },
+  {
+    "id": 2738,
+    "key": "building.scoutDock.desc",
+    "category": "02_Buildings_Logistics",
+    "source_en": "Outfit an assigned ship and crew for exploring the sea.  \n\nOther docks can outfit ships for more specific missions",
+    "target_vi": "Trang bị tàu và thủy thủ đoàn để giong buồm khám phá hải đồ và các vùng biển bí ẩn.\n\nCác bến cảng khác có thể trang bị tàu cho những nhiệm vụ đặc thù hơn.",
+    "context": "building | Row 2738",
+    "offset": 136638,
+    "length": 115
+  }
+]

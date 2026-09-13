@@ -1,0 +1,3912 @@
+[
+  {
+    "id": 0,
+    "key": "toolbar.paths",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Paths",
+    "target_vi": "Đường Đi",
+    "context": "toolbar | Row 0",
+    "offset": 24,
+    "length": 6
+  },
+  {
+    "id": 1,
+    "key": "toolbar.utilities",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Heat & Utilities",
+    "target_vi": "Sưởi Ấm & Tiện Ích",
+    "context": "toolbar | Row 1",
+    "offset": 44,
+    "length": 17
+  },
+  {
+    "id": 2,
+    "key": "toolbar.housing",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Housing",
+    "target_vi": "Nhà Ở",
+    "context": "toolbar | Row 2",
+    "offset": 75,
+    "length": 8
+  },
+  {
+    "id": 3,
+    "key": "toolbar.services",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Services",
+    "target_vi": "Dịch Vụ",
+    "context": "toolbar | Row 3",
+    "offset": 97,
+    "length": 9
+  },
+  {
+    "id": 4,
+    "key": "toolbar.research",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Research",
+    "target_vi": "Nghiên Cứu",
+    "context": "toolbar | Row 4",
+    "offset": 120,
+    "length": 9
+  },
+  {
+    "id": 5,
+    "key": "toolbar.bulldoze",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Bulldoze",
+    "target_vi": "Phá Dỡ",
+    "context": "toolbar | Row 5",
+    "offset": 143,
+    "length": 9
+  },
+  {
+    "id": 53,
+    "key": "toolbar.aim",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Belts",
+    "target_vi": "Băng Tải",
+    "context": "toolbar | Row 53",
+    "offset": 1536,
+    "length": 6
+  },
+  {
+    "id": 59,
+    "key": "toolbar.minetool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mine Tool",
+    "target_vi": "Khai Mỏ",
+    "context": "toolbar | Row 59",
+    "offset": 1902,
+    "length": 10
+  },
+  {
+    "id": 72,
+    "key": "toolbar.logistics",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Storage & Belts",
+    "target_vi": "Kho Bãi & Băng Tải",
+    "context": "toolbar | Row 72",
+    "offset": 2306,
+    "length": 16
+  },
+  {
+    "id": 76,
+    "key": "toolbar.industry",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Extraction & Industry",
+    "target_vi": "Khai Khoáng & Chế Biến",
+    "context": "toolbar | Row 76",
+    "offset": 2414,
+    "length": 22
+  },
+  {
+    "id": 77,
+    "key": "toolbar.harvesttool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Forage Priority",
+    "target_vi": "Ưu Tiên Hái Lượm",
+    "context": "toolbar | Row 77",
+    "offset": 2450,
+    "length": 16
+  },
+  {
+    "id": 100,
+    "key": "pause.resume",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resume",
+    "target_vi": "Tiếp Tục",
+    "context": "pause | Row 100",
+    "offset": 3471,
+    "length": 7
+  },
+  {
+    "id": 101,
+    "key": "pause.save",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Save",
+    "target_vi": "Lưu Game",
+    "context": "pause | Row 101",
+    "offset": 3492,
+    "length": 5
+  },
+  {
+    "id": 102,
+    "key": "pause.load",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Load",
+    "target_vi": "Tải Game",
+    "context": "pause | Row 102",
+    "offset": 3511,
+    "length": 5
+  },
+  {
+    "id": 103,
+    "key": "pause.quitmainmenu",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Main Menu",
+    "target_vi": "Menu Chính",
+    "context": "pause | Row 103",
+    "offset": 3530,
+    "length": 10
+  },
+  {
+    "id": 104,
+    "key": "pause.quitdesktop",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quit",
+    "target_vi": "Thoát Game",
+    "context": "pause | Row 104",
+    "offset": 3554,
+    "length": 5
+  },
+  {
+    "id": 105,
+    "key": "pause.editmapeditor",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Edit in Map Editor",
+    "target_vi": "Mở Trình Tạo Bản Đồ",
+    "context": "pause | Row 105",
+    "offset": 3573,
+    "length": 19
+  },
+  {
+    "id": 106,
+    "key": "pause.music",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Music",
+    "target_vi": "Âm Nhạc",
+    "context": "pause | Row 106",
+    "offset": 3606,
+    "length": 6
+  },
+  {
+    "id": 139,
+    "key": "toolbar.farmTool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Farm Tool",
+    "target_vi": "Trồng Trọt",
+    "context": "toolbar | Row 139",
+    "offset": 4482,
+    "length": 10
+  },
+  {
+    "id": 141,
+    "key": "toolbar.menu",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Menu",
+    "target_vi": "Menu",
+    "context": "toolbar | Row 141",
+    "offset": 4531,
+    "length": 5
+  },
+  {
+    "id": 145,
+    "key": "toolbar.foodProcessing",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Food Processing",
+    "target_vi": "Chế Biến Thức Ăn",
+    "context": "toolbar | Row 145",
+    "offset": 4635,
+    "length": 16
+  },
+  {
+    "id": 160,
+    "key": "settings.title",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Settings",
+    "target_vi": "Cài Đặt",
+    "context": "settings | Row 160",
+    "offset": 5006,
+    "length": 9
+  },
+  {
+    "id": 161,
+    "key": "settings.resetdefault",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reset to Default",
+    "target_vi": "Đặt Lại Mặc Định",
+    "context": "settings | Row 161",
+    "offset": 5029,
+    "length": 17
+  },
+  {
+    "id": 162,
+    "key": "settings.resetdefaultkeybind",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reset Keybinds",
+    "target_vi": "Đặt Lại Phím Tắt",
+    "context": "settings | Row 162",
+    "offset": 5060,
+    "length": 15
+  },
+  {
+    "id": 163,
+    "key": "settings.graphics",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Graphics",
+    "target_vi": "Đồ Họa",
+    "context": "settings | Row 163",
+    "offset": 5089,
+    "length": 9
+  },
+  {
+    "id": 164,
+    "key": "settings.gameplay",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Gameplay",
+    "target_vi": "Lối Chơi",
+    "context": "settings | Row 164",
+    "offset": 5112,
+    "length": 9
+  },
+  {
+    "id": 165,
+    "key": "settings.audio",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Audio",
+    "target_vi": "Âm Thanh",
+    "context": "settings | Row 165",
+    "offset": 5135,
+    "length": 6
+  },
+  {
+    "id": 166,
+    "key": "settings.language",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Language",
+    "target_vi": "Ngôn Ngữ",
+    "context": "settings | Row 166",
+    "offset": 5155,
+    "length": 9
+  },
+  {
+    "id": 167,
+    "key": "settings.a.master",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Master",
+    "target_vi": "Âm Lượng Tổng",
+    "context": "settings | Row 167",
+    "offset": 5178,
+    "length": 7
+  },
+  {
+    "id": 168,
+    "key": "settings.a.ambient",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ambient",
+    "target_vi": "Môi Trường",
+    "context": "settings | Row 168",
+    "offset": 5199,
+    "length": 8
+  },
+  {
+    "id": 169,
+    "key": "settings.a.music",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Music",
+    "target_vi": "Nhạc Nền",
+    "context": "settings | Row 169",
+    "offset": 5221,
+    "length": 6
+  },
+  {
+    "id": 170,
+    "key": "settings.a.sfx",
+    "category": "01_Core_UI_Menus",
+    "source_en": "SFX",
+    "target_vi": "Hiệu Ứng",
+    "context": "settings | Row 170",
+    "offset": 5241,
+    "length": 4
+  },
+  {
+    "id": 171,
+    "key": "settings.g.vsync",
+    "category": "01_Core_UI_Menus",
+    "source_en": "VSync",
+    "target_vi": "Đồng Bộ Dọc (VSync)",
+    "context": "settings | Row 171",
+    "offset": 5259,
+    "length": 6
+  },
+  {
+    "id": 172,
+    "key": "settings.g.resolution",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resolution",
+    "target_vi": "Độ Phân Giải",
+    "context": "settings | Row 172",
+    "offset": 5279,
+    "length": 11
+  },
+  {
+    "id": 173,
+    "key": "settings.g.dynres",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Dynamic Resolution",
+    "target_vi": "Độ Phân Giải Động",
+    "context": "settings | Row 173",
+    "offset": 5304,
+    "length": 19
+  },
+  {
+    "id": 174,
+    "key": "settings.g.vfxq",
+    "category": "01_Core_UI_Menus",
+    "source_en": "VFX & Weather Quality",
+    "target_vi": "Chất Lượng Hiệu Ứng & Thời Tiết",
+    "context": "settings | Row 174",
+    "offset": 5337,
+    "length": 22
+  },
+  {
+    "id": 175,
+    "key": "settings.g.textureq",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Texture Quality",
+    "target_vi": "Chất Lượng Vân Bề Mặt",
+    "context": "settings | Row 175",
+    "offset": 5373,
+    "length": 16
+  },
+  {
+    "id": 176,
+    "key": "settings.g.shadowq",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Shadow Quality",
+    "target_vi": "Chất Lượng Đổ Bóng",
+    "context": "settings | Row 176",
+    "offset": 5403,
+    "length": 15
+  },
+  {
+    "id": 177,
+    "key": "settings.g.ppq",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Post-Process Quality",
+    "target_vi": "Chất Lượng Hậu Kỳ",
+    "context": "settings | Row 177",
+    "offset": 5432,
+    "length": 21
+  },
+  {
+    "id": 178,
+    "key": "settings.g.effectsq",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Effects Quality",
+    "target_vi": "Chất Lượng Hiệu Ứng",
+    "context": "settings | Row 178",
+    "offset": 5467,
+    "length": 16
+  },
+  {
+    "id": 179,
+    "key": "settings.g.fullscreen",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Screen Mode",
+    "target_vi": "Chế Độ Màn Hình",
+    "context": "settings | Row 179",
+    "offset": 5497,
+    "length": 12
+  },
+  {
+    "id": 180,
+    "key": "settings.g.terrainres",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Terrain Detail",
+    "target_vi": "Chi Tiết Địa Hình",
+    "context": "settings | Row 180",
+    "offset": 5523,
+    "length": 15
+  },
+  {
+    "id": 181,
+    "key": "settings.fullscreen",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Fullscreen",
+    "target_vi": "Toàn Màn Hình",
+    "context": "settings | Row 181",
+    "offset": 5552,
+    "length": 11
+  },
+  {
+    "id": 182,
+    "key": "settings.windowedfullscreen",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Windowed Fullscreen",
+    "target_vi": "Toàn Màn Hình Không Viền",
+    "context": "settings | Row 182",
+    "offset": 5577,
+    "length": 20
+  },
+  {
+    "id": 183,
+    "key": "settings.windowed",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Windowed",
+    "target_vi": "Cửa Sổ",
+    "context": "settings | Row 183",
+    "offset": 5611,
+    "length": 9
+  },
+  {
+    "id": 184,
+    "key": "settings.confirmupgrade",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Industry Upgrade Confirm Dialog",
+    "target_vi": "Hỏi Khi Nâng Cấp Nhà Xưởng",
+    "context": "settings | Row 184",
+    "offset": 5634,
+    "length": 32
+  },
+  {
+    "id": 185,
+    "key": "settings.confirmsell",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Train Salvage Confirm Dialog",
+    "target_vi": "Hỏi Khi Tháo Dỡ Toa Tàu",
+    "context": "settings | Row 185",
+    "offset": 5680,
+    "length": 29
+  },
+  {
+    "id": 186,
+    "key": "settings.controller",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Gamepad Hints",
+    "target_vi": "Gợi Ý Nút Tay Cầm",
+    "context": "settings | Row 186",
+    "offset": 5723,
+    "length": 14
+  },
+  {
+    "id": 195,
+    "key": "settings.g.fpsmax",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Max FPS",
+    "target_vi": "Giới Hạn FPS",
+    "context": "settings | Row 195",
+    "offset": 5921,
+    "length": 8
+  },
+  {
+    "id": 196,
+    "key": "menu.settings",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Settings",
+    "target_vi": "Cài Đặt",
+    "context": "menu | Row 196",
+    "offset": 5943,
+    "length": 9
+  },
+  {
+    "id": 197,
+    "key": "settings.a.ui",
+    "category": "01_Core_UI_Menus",
+    "source_en": "UI",
+    "target_vi": "Âm Giao Diện",
+    "context": "settings | Row 197",
+    "offset": 5966,
+    "length": 3
+  },
+  {
+    "id": 198,
+    "key": "settings.g.discreteRotation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Discrete Camera Rotation",
+    "target_vi": "Xoay Camera Từng Nấc",
+    "context": "settings | Row 198",
+    "offset": 5983,
+    "length": 25
+  },
+  {
+    "id": 229,
+    "key": "toolbar.navigation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Paths & Walking",
+    "target_vi": "Đường Đi Bộ",
+    "context": "toolbar | Row 229",
+    "offset": 7239,
+    "length": 16
+  },
+  {
+    "id": 230,
+    "key": "toolbar.resourceExtractors",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resource Extraction",
+    "target_vi": "Khai Thác Tài Nguyên",
+    "context": "toolbar | Row 230",
+    "offset": 7269,
+    "length": 20
+  },
+  {
+    "id": 231,
+    "key": "toolbar.production",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Factories",
+    "target_vi": "Nhà Xưởng",
+    "context": "toolbar | Row 231",
+    "offset": 7303,
+    "length": 10
+  },
+  {
+    "id": 232,
+    "key": "toolbar.domestic",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Home & Services",
+    "target_vi": "Nhà Ở & Dịch Vụ",
+    "context": "toolbar | Row 232",
+    "offset": 7327,
+    "length": 16
+  },
+  {
+    "id": 233,
+    "key": "toolbar.markingTools",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resource Marking",
+    "target_vi": "Đánh Dấu Tài Nguyên",
+    "context": "toolbar | Row 233",
+    "offset": 7357,
+    "length": 17
+  },
+  {
+    "id": 234,
+    "key": "toolbar.glossary",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Glossary",
+    "target_vi": "Bách Khoa",
+    "context": "toolbar | Row 234",
+    "offset": 7388,
+    "length": 9
+  },
+  {
+    "id": 235,
+    "key": "toolbar.pathdecoratives",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Path Decorations",
+    "target_vi": "Trang Trí Đường Xá",
+    "context": "toolbar | Row 235",
+    "offset": 7411,
+    "length": 17
+  },
+  {
+    "id": 236,
+    "key": "toolbar.priorityTool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Chop Priority",
+    "target_vi": "Ưu Tiên Đốn Gỗ",
+    "context": "toolbar | Row 236",
+    "offset": 7442,
+    "length": 14
+  },
+  {
+    "id": 237,
+    "key": "toolbar.civic",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Government",
+    "target_vi": "Hành Chính",
+    "context": "toolbar | Row 237",
+    "offset": 7470,
+    "length": 11
+  },
+  {
+    "id": 238,
+    "key": "toolbar.decor",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Decorations",
+    "target_vi": "Trang Trí",
+    "context": "toolbar | Row 238",
+    "offset": 7495,
+    "length": 12
+  },
+  {
+    "id": 239,
+    "key": "toolbar.water",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Water Structures",
+    "target_vi": "Công Trình Nước",
+    "context": "toolbar | Row 239",
+    "offset": 7521,
+    "length": 17
+  },
+  {
+    "id": 240,
+    "key": "toolbar.steam",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Steam Structures",
+    "target_vi": "Công Trình Hơi Nước",
+    "context": "toolbar | Row 240",
+    "offset": 7552,
+    "length": 17
+  },
+  {
+    "id": 244,
+    "key": "menu.newcolony",
+    "category": "01_Core_UI_Menus",
+    "source_en": "New Game",
+    "target_vi": "Trò Chơi Mới",
+    "context": "menu | Row 244",
+    "offset": 7665,
+    "length": 9
+  },
+  {
+    "id": 245,
+    "key": "menu.loadcolony",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Load Game",
+    "target_vi": "Tải Game",
+    "context": "menu | Row 245",
+    "offset": 7688,
+    "length": 10
+  },
+  {
+    "id": 246,
+    "key": "menu.leveleditor",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Level Editor",
+    "target_vi": "Trình Tạo Bản Đồ",
+    "context": "menu | Row 246",
+    "offset": 7712,
+    "length": 13
+  },
+  {
+    "id": 247,
+    "key": "menu.credits",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Credits",
+    "target_vi": "Đội Ngũ Phát Triển",
+    "context": "menu | Row 247",
+    "offset": 7739,
+    "length": 8
+  },
+  {
+    "id": 248,
+    "key": "menu.quit",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quit",
+    "target_vi": "Thoát",
+    "context": "menu | Row 248",
+    "offset": 7761,
+    "length": 5
+  },
+  {
+    "id": 249,
+    "key": "menu.back",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Back",
+    "target_vi": "Quay Lại",
+    "context": "menu | Row 249",
+    "offset": 7780,
+    "length": 5
+  },
+  {
+    "id": 250,
+    "key": "toolbar.construction",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Construction",
+    "target_vi": "Xây Dựng",
+    "context": "toolbar | Row 250",
+    "offset": 7799,
+    "length": 13
+  },
+  {
+    "id": 251,
+    "key": "toolbar.whiskerview",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Colony Office",
+    "target_vi": "Văn Phòng Làng Chuột",
+    "context": "toolbar | Row 251",
+    "offset": 7826,
+    "length": 14
+  },
+  {
+    "id": 252,
+    "key": "toolbar.clawsview",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Tax Report",
+    "target_vi": "Sổ Cống Nạp",
+    "context": "toolbar | Row 252",
+    "offset": 7854,
+    "length": 11
+  },
+  {
+    "id": 253,
+    "key": "toolbar.policies",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Policies Board",
+    "target_vi": "Bảng Chính Sách",
+    "context": "toolbar | Row 253",
+    "offset": 7879,
+    "length": 15
+  },
+  {
+    "id": 254,
+    "key": "toolbar.researchBuildings",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Research",
+    "target_vi": "Nghiên Cứu",
+    "context": "toolbar | Row 254",
+    "offset": 7908,
+    "length": 9
+  },
+  {
+    "id": 256,
+    "key": "toolbar.storedResources",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Total Resources",
+    "target_vi": "Tổng Tài Nguyên",
+    "context": "toolbar | Row 256",
+    "offset": 7956,
+    "length": 16
+  },
+  {
+    "id": 260,
+    "key": "menu.map",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Map",
+    "target_vi": "Bản Đồ",
+    "context": "menu | Row 260",
+    "offset": 8054,
+    "length": 4
+  },
+  {
+    "id": 261,
+    "key": "menu.delete",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Delete",
+    "target_vi": "Xóa",
+    "context": "menu | Row 261",
+    "offset": 8072,
+    "length": 7
+  },
+  {
+    "id": 262,
+    "key": "menu.load",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Load",
+    "target_vi": "Tải",
+    "context": "menu | Row 262",
+    "offset": 8093,
+    "length": 5
+  },
+  {
+    "id": 284,
+    "key": "menu.loadfiles",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Load Files",
+    "target_vi": "Danh Sách Bản Lưu",
+    "context": "menu | Row 284",
+    "offset": 8697,
+    "length": 11
+  },
+  {
+    "id": 577,
+    "key": "action.pauseconstruction",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pause Construction",
+    "target_vi": "Tạm Dừng Thi Công",
+    "context": "action | Row 577",
+    "offset": 20975,
+    "length": 19
+  },
+  {
+    "id": 578,
+    "key": "action.resumeConstruction",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resume Construction",
+    "target_vi": "Tiếp Tục Thi Công",
+    "context": "action | Row 578",
+    "offset": 21008,
+    "length": 20
+  },
+  {
+    "id": 579,
+    "key": "action.setHighPriority",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set High Priority",
+    "target_vi": "Đặt Ưu Tiên Cao",
+    "context": "action | Row 579",
+    "offset": 21042,
+    "length": 18
+  },
+  {
+    "id": 580,
+    "key": "action.setLowPriority",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set Low Priority",
+    "target_vi": "Đặt Ưu Tiên Thấp",
+    "context": "action | Row 580",
+    "offset": 21074,
+    "length": 17
+  },
+  {
+    "id": 581,
+    "key": "error.blocked",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Placement blocked.",
+    "target_vi": "Vị trí bị chặn.",
+    "context": "error | Row 581",
+    "offset": 21105,
+    "length": 19
+  },
+  {
+    "id": 582,
+    "key": "error.notOverWater",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires water access.",
+    "target_vi": "Cần tiếp giáp mặt nước.",
+    "context": "error | Row 582",
+    "offset": 21138,
+    "length": 23
+  },
+  {
+    "id": 583,
+    "key": "error.needMoreSpace",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Need more unobstructed waters around dock.",
+    "target_vi": "Cần khoảng nước thông thoáng hơn quanh bến.",
+    "context": "error | Row 583",
+    "offset": 21175,
+    "length": 43
+  },
+  {
+    "id": 584,
+    "key": "error.notSeaLevel",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires sea level.",
+    "target_vi": "Phải xây ở ngang mực nước biển.",
+    "context": "error | Row 584",
+    "offset": 21232,
+    "length": 20
+  },
+  {
+    "id": 585,
+    "key": "error.underwater",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Underwater!",
+    "target_vi": "Đang ngập dưới nước!",
+    "context": "error | Row 585",
+    "offset": 21266,
+    "length": 12
+  },
+  {
+    "id": 586,
+    "key": "error.notShore",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires shoreline.",
+    "target_vi": "Phải đặt ở bờ biển.",
+    "context": "error | Row 586",
+    "offset": 21292,
+    "length": 20
+  },
+  {
+    "id": 587,
+    "key": "error.notgrounded",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires solid ground.",
+    "target_vi": "Cần nền đất bằng phẳng vững chắc.",
+    "context": "error | Row 587",
+    "offset": 21326,
+    "length": 23
+  },
+  {
+    "id": 588,
+    "key": "error.blockedEntrances",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Entryway being blocked!",
+    "target_vi": "Lối vào đang bị chặn!",
+    "context": "error | Row 588",
+    "offset": 21363,
+    "length": 24
+  },
+  {
+    "id": 589,
+    "key": "error.notaffordable",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Not enough resources.",
+    "target_vi": "Không đủ tài nguyên.",
+    "context": "error | Row 589",
+    "offset": 21401,
+    "length": 22
+  },
+  {
+    "id": 590,
+    "key": "error.toodeep",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Too deep to mine!",
+    "target_vi": "Quá sâu, không đào được!",
+    "context": "error | Row 590",
+    "offset": 21437,
+    "length": 18
+  },
+  {
+    "id": 591,
+    "key": "error.alreadyLivesHere",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Already lives here!",
+    "target_vi": "Đã sống ở đây rồi!",
+    "context": "error | Row 591",
+    "offset": 21469,
+    "length": 20
+  },
+  {
+    "id": 592,
+    "key": "error.alreadyWorksHere",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Already works here!",
+    "target_vi": "Đã làm việc ở đây rồi!",
+    "context": "error | Row 592",
+    "offset": 21503,
+    "length": 20
+  },
+  {
+    "id": 593,
+    "key": "notif.newWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "New Whiskers Accepted",
+    "target_vi": "Đón Nhận Thêm Dân Chuột Mới",
+    "context": "notif | Row 593",
+    "offset": 21537,
+    "length": 22
+  },
+  {
+    "id": 594,
+    "key": "notif.assigned",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assigned!",
+    "target_vi": "Đã Phân Công!",
+    "context": "notif | Row 594",
+    "offset": 21573,
+    "length": 10
+  },
+  {
+    "id": 595,
+    "key": "notif.whiskerShipScheduled",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Whisker ship dispatched",
+    "target_vi": "Tàu Nhà Chuột Đã Xuất Bến",
+    "context": "notif | Row 595",
+    "offset": 21597,
+    "length": 24
+  },
+  {
+    "id": 596,
+    "key": "notif.piratesDeparting",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pirates departing",
+    "target_vi": "Hải tặc đang rời đi",
+    "context": "notif | Row 596",
+    "offset": 21635,
+    "length": 18
+  },
+  {
+    "id": 597,
+    "key": "notif.suppliesAccepted",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Supplies accepted",
+    "target_vi": "Đã tiếp nhận hàng tiếp tế",
+    "context": "notif | Row 597",
+    "offset": 21667,
+    "length": 18
+  },
+  {
+    "id": 598,
+    "key": "notif.suppliesRejected",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Supplies rejected!",
+    "target_vi": "Đã từ chối hàng tiếp tế!",
+    "context": "notif | Row 598",
+    "offset": 21699,
+    "length": 19
+  },
+  {
+    "id": 599,
+    "key": "notif.taxesPaid",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Payment accepted; tax ship departing",
+    "target_vi": "Đã nộp đủ thuế; tàu thuế đang rời bến",
+    "context": "notif | Row 599",
+    "offset": 21732,
+    "length": 37
+  },
+  {
+    "id": 603,
+    "key": "notif.whiskerRefuses",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Whisker refuses to cooperate!",
+    "target_vi": "Chú chuột này không chịu hợp tác!",
+    "context": "notif | Row 603",
+    "offset": 21879,
+    "length": 30
+  },
+  {
+    "id": 606,
+    "key": "action.assignJumpPadDestination",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set Destination",
+    "target_vi": "Chọn Điểm Bắn Đến",
+    "context": "action | Row 606",
+    "offset": 22036,
+    "length": 16
+  },
+  {
+    "id": 607,
+    "key": "action.closeValve",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Close Valve",
+    "target_vi": "Đóng Van",
+    "context": "action | Row 607",
+    "offset": 22066,
+    "length": 12
+  },
+  {
+    "id": 608,
+    "key": "action.openValve",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Open Valve",
+    "target_vi": "Mở Van",
+    "context": "action | Row 608",
+    "offset": 22092,
+    "length": 11
+  },
+  {
+    "id": 621,
+    "key": "toolbar.trains",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Railroad",
+    "target_vi": "Đường Ray",
+    "context": "toolbar | Row 621",
+    "offset": 22828,
+    "length": 9
+  },
+  {
+    "id": 622,
+    "key": "error.railRequired",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Place on track.",
+    "target_vi": "Phải đặt trên đường ray.",
+    "context": "error | Row 622",
+    "offset": 22851,
+    "length": 16
+  },
+  {
+    "id": 623,
+    "key": "error.onetrain",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Only one cart per rail!",
+    "target_vi": "Mỗi đoạn ray chỉ được một toa xe!",
+    "context": "error | Row 623",
+    "offset": 22881,
+    "length": 24
+  },
+  {
+    "id": 625,
+    "key": "action.moveCamp",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move",
+    "target_vi": "Di Dời",
+    "context": "action | Row 625",
+    "offset": 22947,
+    "length": 5
+  },
+  {
+    "id": 627,
+    "key": "action.upgrade",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Upgrade",
+    "target_vi": "Nâng Cấp",
+    "context": "action | Row 627",
+    "offset": 22996,
+    "length": 8
+  },
+  {
+    "id": 634,
+    "key": "action.changeRecipe",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Change Recipe",
+    "target_vi": "Đổi Công Thức",
+    "context": "action | Row 634",
+    "offset": 23338,
+    "length": 14
+  },
+  {
+    "id": 635,
+    "key": "action.assignInputSources",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set Sources",
+    "target_vi": "Chọn Nguồn Cấp",
+    "context": "action | Row 635",
+    "offset": 23366,
+    "length": 12
+  },
+  {
+    "id": 636,
+    "key": "action.assignOutputDestinations",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set Destinations",
+    "target_vi": "Chọn Nơi Nhận",
+    "context": "action | Row 636",
+    "offset": 23392,
+    "length": 17
+  },
+  {
+    "id": 642,
+    "key": "toolbar.nautical",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Navy & Ships",
+    "target_vi": "Hàng Hải & Tàu Thuyền",
+    "context": "toolbar | Row 642",
+    "offset": 23574,
+    "length": 13
+  },
+  {
+    "id": 690,
+    "key": "action.enact",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Enact",
+    "target_vi": "Ban Hành",
+    "context": "action | Row 690",
+    "offset": 25841,
+    "length": 6
+  },
+  {
+    "id": 691,
+    "key": "action.abolish",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Abolish",
+    "target_vi": "Bãi Bỏ",
+    "context": "action | Row 691",
+    "offset": 25861,
+    "length": 8
+  },
+  {
+    "id": 695,
+    "key": "action.unlock",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unlock",
+    "target_vi": "Mở Khóa",
+    "context": "action | Row 695",
+    "offset": 26037,
+    "length": 7
+  },
+  {
+    "id": 698,
+    "key": "action.requestWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Request additional Whiskers",
+    "target_vi": "Xin Thêm Dân Chuột",
+    "context": "action | Row 698",
+    "offset": 26126,
+    "length": 28
+  },
+  {
+    "id": 699,
+    "key": "error.alreadySentWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Whiskers inbound",
+    "target_vi": "Đoàn chuột đang trên đường đến",
+    "context": "error | Row 699",
+    "offset": 26168,
+    "length": 17
+  },
+  {
+    "id": 700,
+    "key": "tooltip.desc.requestWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Request an unscheduled batch of Whiskers.",
+    "target_vi": "Yêu cầu chi viện thêm một đợt dân chuột ngoài kế hoạch.",
+    "context": "tooltip | Row 700",
+    "offset": 26199,
+    "length": 42
+  },
+  {
+    "id": 715,
+    "key": "action.assignFreeShip",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign New Ship",
+    "target_vi": "Điều Tàu Mới",
+    "context": "action | Row 715",
+    "offset": 26614,
+    "length": 16
+  },
+  {
+    "id": 716,
+    "key": "action.gotoship",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Go to Ship",
+    "target_vi": "Đến Vị Trí Tàu",
+    "context": "action | Row 716",
+    "offset": 26644,
+    "length": 11
+  },
+  {
+    "id": 733,
+    "key": "toolbar.priorityTool.harvest",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Forage Priority",
+    "target_vi": "Ưu Tiên Hái Lượm",
+    "context": "toolbar | Row 733",
+    "offset": 27261,
+    "length": 16
+  },
+  {
+    "id": 735,
+    "key": "tooltip.title.gifts",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Gift from the King",
+    "target_vi": "Quà Tặng Từ Đức Vua",
+    "context": "tooltip | Row 735",
+    "offset": 27321,
+    "length": 19
+  },
+  {
+    "id": 736,
+    "key": "tooltip.desc.gifts",
+    "category": "01_Core_UI_Menus",
+    "source_en": "The Claws will dispatch some free supplies for your additional payments.",
+    "target_vi": "Phe Móng Vuốt sẽ gửi thêm hàng tiếp tế miễn phí khi bạn nộp dư cống thuế.",
+    "context": "tooltip | Row 736",
+    "offset": 27354,
+    "length": 73
+  },
+  {
+    "id": 850,
+    "key": "action.delivernow",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Deliver Now",
+    "target_vi": "Giao Hàng Ngay",
+    "context": "action | Row 850",
+    "offset": 33929,
+    "length": 12
+  },
+  {
+    "id": 851,
+    "key": "action.deliverPending",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pending",
+    "target_vi": "Đang Chờ Giao",
+    "context": "action | Row 851",
+    "offset": 33955,
+    "length": 8
+  },
+  {
+    "id": 852,
+    "key": "error.mustbeempty",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Must be empty.",
+    "target_vi": "Phải dọn sạch đồ bên trong.",
+    "context": "error | Row 852",
+    "offset": 33977,
+    "length": 15
+  },
+  {
+    "id": 853,
+    "key": "action.deliverNow.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Prioritize delivering current resources to storage",
+    "target_vi": "Ưu tiên chuyển tài nguyên hiện có về kho ngay lập tức",
+    "context": "action | Row 853",
+    "offset": 34006,
+    "length": 51
+  },
+  {
+    "id": 865,
+    "key": "settings.g.holdToBulldoze",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Hold to confirm bulldoze",
+    "target_vi": "Nhấn Giữ Để Phá Dỡ",
+    "context": "settings | Row 865",
+    "offset": 34354,
+    "length": 25
+  },
+  {
+    "id": 866,
+    "key": "action.startnewday",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Start new day",
+    "target_vi": "Bắt Đầu Ngày Mới",
+    "context": "action | Row 866",
+    "offset": 34393,
+    "length": 14
+  },
+  {
+    "id": 867,
+    "key": "notif.toolsReplaced",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Machinery Replaced",
+    "target_vi": "Đã Thay Mới Máy Móc",
+    "context": "notif | Row 867",
+    "offset": 34421,
+    "length": 19
+  },
+  {
+    "id": 868,
+    "key": "notif.emergencyRepairs",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Emergency Repairs",
+    "target_vi": "Sửa Chữa Khẩn Cấp",
+    "context": "notif | Row 868",
+    "offset": 34454,
+    "length": 18
+  },
+  {
+    "id": 869,
+    "key": "notif.productionFailed",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Production Failed!",
+    "target_vi": "Sản Xuất Thất Bại!",
+    "context": "notif | Row 869",
+    "offset": 34486,
+    "length": 19
+  },
+  {
+    "id": 870,
+    "key": "notif.refusedOvertime",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Refused Double-time",
+    "target_vi": "Thợ từ chối tăng ca làm đêm",
+    "context": "notif | Row 870",
+    "offset": 34519,
+    "length": 20
+  },
+  {
+    "id": 871,
+    "key": "notif.sleepinghere",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Hey, we're sleeping here!",
+    "target_vi": "Này, chúng tôi đang ngủ ở đây cơ mà!",
+    "context": "notif | Row 871",
+    "offset": 34553,
+    "length": 26
+  },
+  {
+    "id": 886,
+    "key": "aa.quality.auto",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Auto",
+    "target_vi": "Tự Động",
+    "context": "aa | Row 886",
+    "offset": 36227,
+    "length": 5
+  },
+  {
+    "id": 887,
+    "key": "aa.quality.ultraperformance",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ultra Performance",
+    "target_vi": "Siêu Hiệu Năng",
+    "context": "aa | Row 887",
+    "offset": 36246,
+    "length": 18
+  },
+  {
+    "id": 888,
+    "key": "aa.quality.performance",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Performance",
+    "target_vi": "Hiệu Năng",
+    "context": "aa | Row 888",
+    "offset": 36278,
+    "length": 12
+  },
+  {
+    "id": 889,
+    "key": "aa.quality.balanced",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Balanced",
+    "target_vi": "Cân Bằng",
+    "context": "aa | Row 889",
+    "offset": 36304,
+    "length": 9
+  },
+  {
+    "id": 890,
+    "key": "aa.quality.quality",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quality",
+    "target_vi": "Chất Lượng",
+    "context": "aa | Row 890",
+    "offset": 36327,
+    "length": 8
+  },
+  {
+    "id": 891,
+    "key": "aa.quality.ultraquality",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ultra Quality",
+    "target_vi": "Siêu Chất Lượng",
+    "context": "aa | Row 891",
+    "offset": 36349,
+    "length": 14
+  },
+  {
+    "id": 892,
+    "key": "aa.quality.antialiasing",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Anti-Aliasing",
+    "target_vi": "Khử Răng Cưa",
+    "context": "aa | Row 892",
+    "offset": 36377,
+    "length": 14
+  },
+  {
+    "id": 893,
+    "key": "aa.quality.nativeaa",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Native AA",
+    "target_vi": "Khử Răng Cưa Gốc",
+    "context": "aa | Row 893",
+    "offset": 36405,
+    "length": 10
+  },
+  {
+    "id": 895,
+    "key": "settings.g.sharpness",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Sharpness",
+    "target_vi": "Độ Sắc Nét",
+    "context": "settings | Row 895",
+    "offset": 36449,
+    "length": 10
+  },
+  {
+    "id": 896,
+    "key": "settings.g.aa",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Anti-Aliasing",
+    "target_vi": "Khử Răng Cưa",
+    "context": "settings | Row 896",
+    "offset": 36473,
+    "length": 14
+  },
+  {
+    "id": 897,
+    "key": "settings.g.mode.dlss",
+    "category": "01_Core_UI_Menus",
+    "source_en": "DLSS Mode",
+    "target_vi": "Chế Độ DLSS",
+    "context": "settings | Row 897",
+    "offset": 36501,
+    "length": 10
+  },
+  {
+    "id": 898,
+    "key": "settings.g.mode.fsr",
+    "category": "01_Core_UI_Menus",
+    "source_en": "FSR Mode",
+    "target_vi": "Chế Độ FSR",
+    "context": "settings | Row 898",
+    "offset": 36525,
+    "length": 9
+  },
+  {
+    "id": 899,
+    "key": "settings.g.mode.xess",
+    "category": "01_Core_UI_Menus",
+    "source_en": "XeSS Mode",
+    "target_vi": "Chế Độ XeSS",
+    "context": "settings | Row 899",
+    "offset": 36548,
+    "length": 10
+  },
+  {
+    "id": 900,
+    "key": "aa.noaa",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No AA",
+    "target_vi": "Tắt Khử Răng Cưa",
+    "context": "aa | Row 900",
+    "offset": 36572,
+    "length": 6
+  },
+  {
+    "id": 901,
+    "key": "aa.quality.ultraqualityplus",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ultra Quality+",
+    "target_vi": "Chất Lượng Tối Đa",
+    "context": "aa | Row 901",
+    "offset": 36592,
+    "length": 15
+  },
+  {
+    "id": 906,
+    "key": "menu.nosaves",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No saves present",
+    "target_vi": "Chưa có bản lưu nào",
+    "context": "menu | Row 906",
+    "offset": 36723,
+    "length": 17
+  },
+  {
+    "id": 907,
+    "key": "settings.g.unlimited",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unlimited",
+    "target_vi": "Không Giới Hạn",
+    "context": "settings | Row 907",
+    "offset": 36754,
+    "length": 10
+  },
+  {
+    "id": 908,
+    "key": "settings.g.showfps",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Show FPS",
+    "target_vi": "Hiện FPS",
+    "context": "settings | Row 908",
+    "offset": 36778,
+    "length": 9
+  },
+  {
+    "id": 909,
+    "key": "settings.dpiscale",
+    "category": "01_Core_UI_Menus",
+    "source_en": "UI Scaling",
+    "target_vi": "Tỉ Lệ Giao Diện",
+    "context": "settings | Row 909",
+    "offset": 36801,
+    "length": 11
+  },
+  {
+    "id": 910,
+    "key": "action.acceptDefeat",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Recoup losses and depart",
+    "target_vi": "Vớt Vát Thiệt Hại & Rời Đi",
+    "context": "action | Row 910",
+    "offset": 36826,
+    "length": 25
+  },
+  {
+    "id": 919,
+    "key": "action.unloadSupplies",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unload Supplies",
+    "target_vi": "Bốc Dỡ Hàng Tiếp Tế",
+    "context": "action | Row 919",
+    "offset": 37315,
+    "length": 16
+  },
+  {
+    "id": 920,
+    "key": "action.unloadCrew",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Bring Whiskers ashore",
+    "target_vi": "Đưa Bà Con Chuột Lên Đảo",
+    "context": "action | Row 920",
+    "offset": 37345,
+    "length": 22
+  },
+  {
+    "id": 921,
+    "key": "action.signCharter",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Sign Charter",
+    "target_vi": "Ký Hiệp Ước Thuộc Địa",
+    "context": "action | Row 921",
+    "offset": 37381,
+    "length": 13
+  },
+  {
+    "id": 926,
+    "key": "action.manageWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Manage Whisker Assignments",
+    "target_vi": "Phân Công Dân Chuột",
+    "context": "action | Row 926",
+    "offset": 37567,
+    "length": 27
+  },
+  {
+    "id": 927,
+    "key": "error.blockedterrain",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Position is underground.",
+    "target_vi": "Vị trí nằm sâu dưới lòng đất.",
+    "context": "error | Row 927",
+    "offset": 37608,
+    "length": 25
+  },
+  {
+    "id": 931,
+    "key": "action.turninquest",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Complete Quest",
+    "target_vi": "Hoàn Thành Nhiệm Vụ",
+    "context": "action | Row 931",
+    "offset": 37730,
+    "length": 15
+  },
+  {
+    "id": 936,
+    "key": "menu.compilingshaders",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Precaching Shaders",
+    "target_vi": "Đang Tải Trước Shader",
+    "context": "menu | Row 936",
+    "offset": 38555,
+    "length": 19
+  },
+  {
+    "id": 988,
+    "key": "toolbar.questlog",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quest Log",
+    "target_vi": "Nhật Ký Nhiệm Vụ",
+    "context": "toolbar | Row 988",
+    "offset": 41402,
+    "length": 10
+  },
+  {
+    "id": 1005,
+    "key": "menu.discord",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Discord",
+    "target_vi": "Discord",
+    "context": "menu | Row 1005",
+    "offset": 41887,
+    "length": 8
+  },
+  {
+    "id": 1006,
+    "key": "menu.support",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Support",
+    "target_vi": "Hỗ Trợ",
+    "context": "menu | Row 1006",
+    "offset": 41909,
+    "length": 8
+  },
+  {
+    "id": 1016,
+    "key": "menu.autosave",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Autosave",
+    "target_vi": "Tự Động Lưu",
+    "context": "menu | Row 1016",
+    "offset": 42619,
+    "length": 9
+  },
+  {
+    "id": 1017,
+    "key": "menu.population",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Population",
+    "target_vi": "Dân Số",
+    "context": "menu | Row 1017",
+    "offset": 42642,
+    "length": 11
+  },
+  {
+    "id": 1018,
+    "key": "menu.playtime",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Play time",
+    "target_vi": "Thời Gian Chơi",
+    "context": "menu | Row 1018",
+    "offset": 42667,
+    "length": 10
+  },
+  {
+    "id": 1217,
+    "key": "tooltip.freebuilders",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Construction Workers",
+    "target_vi": "Thợ Xây Dựng",
+    "context": "tooltip | Row 1217",
+    "offset": 51496,
+    "length": 21
+  },
+  {
+    "id": 1218,
+    "key": "tooltip.freebuilders.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Whiskers without other duties will work on pending construction sites.",
+    "target_vi": "Các chú chuột không vướng bận việc khác sẽ tham gia thi công công trình.",
+    "context": "tooltip | Row 1218",
+    "offset": 51531,
+    "length": 71
+  },
+  {
+    "id": 1219,
+    "key": "tooltip.totalPopulation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Total Whiskers",
+    "target_vi": "Tổng Nhân Khẩu Chuột",
+    "context": "tooltip | Row 1219",
+    "offset": 51616,
+    "length": 15
+  },
+  {
+    "id": 1220,
+    "key": "tooltip.totalFood",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Total edible food",
+    "target_vi": "Tổng Lương Thực Ăn Được",
+    "context": "tooltip | Row 1220",
+    "offset": 51645,
+    "length": 18
+  },
+  {
+    "id": 1236,
+    "key": "action.EndDay",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Press to end day.",
+    "target_vi": "Nhấn để kết thúc ngày.",
+    "context": "action | Row 1236",
+    "offset": 52349,
+    "length": 18
+  },
+  {
+    "id": 1249,
+    "key": "tooltip.locked",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Locked",
+    "target_vi": "Đang Khóa",
+    "context": "tooltip | Row 1249",
+    "offset": 52682,
+    "length": 7
+  },
+  {
+    "id": 1250,
+    "key": "tooltip.requiresTechnology",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires Schematic",
+    "target_vi": "Cần Bản Thiết Kế",
+    "context": "tooltip | Row 1250",
+    "offset": 52703,
+    "length": 19
+  },
+  {
+    "id": 1251,
+    "key": "tooltip.requiresOther",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Requires Schematic",
+    "target_vi": "Cần Bản Thiết Kế",
+    "context": "tooltip | Row 1251",
+    "offset": 52736,
+    "length": 19
+  },
+  {
+    "id": 1278,
+    "key": "error.badlandingpos",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Improper landing position.",
+    "target_vi": "Vị trí cập bến không hợp lệ.",
+    "context": "error | Row 1278",
+    "offset": 53675,
+    "length": 27
+  },
+  {
+    "id": 1281,
+    "key": "toolbar.masonry",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Masonry",
+    "target_vi": "Công Trình Đá",
+    "context": "toolbar | Row 1281",
+    "offset": 53776,
+    "length": 8
+  },
+  {
+    "id": 1304,
+    "key": "action.pauseWork",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pause Work",
+    "target_vi": "Tạm Dừng Công Việc",
+    "context": "action | Row 1304",
+    "offset": 54510,
+    "length": 11
+  },
+  {
+    "id": 1305,
+    "key": "action.replaceWorker",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Replace Worker",
+    "target_vi": "Đổi Thợ Khác",
+    "context": "action | Row 1305",
+    "offset": 54535,
+    "length": 15
+  },
+  {
+    "id": 1306,
+    "key": "action.doubletime",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Overtime",
+    "target_vi": "Tăng Ca Làm Đêm",
+    "context": "action | Row 1306",
+    "offset": 54564,
+    "length": 9
+  },
+  {
+    "id": 1307,
+    "key": "action.doubletime.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Boosts workers until tomorrow.\n\nWorkers will keep working through the night.",
+    "target_vi": "Tăng tốc độ thợ làm việc đến sáng mai.\n\nBà con chuột sẽ cày cuốc thâu đêm suốt sáng.",
+    "context": "action | Row 1307",
+    "offset": 54587,
+    "length": 77
+  },
+  {
+    "id": 1308,
+    "key": "action.refuseSupplies",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Refuse supplies",
+    "target_vi": "Từ Chối Tiếp Tế",
+    "context": "action | Row 1308",
+    "offset": 54678,
+    "length": 16
+  },
+  {
+    "id": 1309,
+    "key": "action.unassignCurrentWhisker",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unassign current Whisker",
+    "target_vi": "Bỏ Phân Công Chuột Này",
+    "context": "action | Row 1309",
+    "offset": 54708,
+    "length": 25
+  },
+  {
+    "id": 1310,
+    "key": "action.requestDifferentWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Request different group",
+    "target_vi": "Yêu Cầu Nhóm Chuột Khác",
+    "context": "action | Row 1310",
+    "offset": 54747,
+    "length": 24
+  },
+  {
+    "id": 1311,
+    "key": "error.noAvailableWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No available Whiskers.",
+    "target_vi": "Không còn chú chuột nào rảnh rỗi.",
+    "context": "error | Row 1311",
+    "offset": 54785,
+    "length": 23
+  },
+  {
+    "id": 1312,
+    "key": "tooltip.trust",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Claws Trust",
+    "target_vi": "Lòng Tin Của Phe Móng Vuốt",
+    "context": "tooltip | Row 1312",
+    "offset": 54822,
+    "length": 12
+  },
+  {
+    "id": 1313,
+    "key": "tooltip.trust.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "How happy the claws are with your current performance.",
+    "target_vi": "Mức độ hài lòng của lũ Mèo đối với cống nạp của bạn.",
+    "context": "tooltip | Row 1313",
+    "offset": 54848,
+    "length": 55
+  },
+  {
+    "id": 1378,
+    "key": "action.assign.home",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign Home",
+    "target_vi": "Chỉ Định Chỗ Ở",
+    "context": "action | Row 1378",
+    "offset": 57132,
+    "length": 12
+  },
+  {
+    "id": 1379,
+    "key": "action.assign.home.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign Whisker to live in a specific home",
+    "target_vi": "Chỉ định một ngôi nhà cụ thể cho chú chuột cư ngụ",
+    "context": "action | Row 1379",
+    "offset": 57158,
+    "length": 42
+  },
+  {
+    "id": 1380,
+    "key": "action.assign.work",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign Work",
+    "target_vi": "Chỉ Định Nơi Làm",
+    "context": "action | Row 1380",
+    "offset": 57214,
+    "length": 12
+  },
+  {
+    "id": 1381,
+    "key": "action.assign.work.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign Whisker to a workplace",
+    "target_vi": "Chỉ định nơi làm việc cho chú chuột",
+    "context": "action | Row 1381",
+    "offset": 57240,
+    "length": 30
+  },
+  {
+    "id": 1382,
+    "key": "action.pickupWhisker",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pick up Whisker",
+    "target_vi": "Nhấc Chú Chuột Lên",
+    "context": "action | Row 1382",
+    "offset": 57284,
+    "length": 16
+  },
+  {
+    "id": 1383,
+    "key": "action.pickupWhisker.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pick up and move Whisker. Disorienting!",
+    "target_vi": "Nhấc và chuyển chú chuột đi nơi khác. Hơi chóng mặt đấy nhé!",
+    "context": "action | Row 1383",
+    "offset": 57314,
+    "length": 40
+  },
+  {
+    "id": 1438,
+    "key": "tooltip.guildspecialty.title",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Guild Specialty",
+    "target_vi": "Chuyên Môn Phường Hội",
+    "context": "tooltip | Row 1438",
+    "offset": 59364,
+    "length": 16
+  },
+  {
+    "id": 1439,
+    "key": "tooltip.guildspecialty.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Workers from this guild gain a work speed bonus.",
+    "target_vi": "Thợ thuộc phường hội này được tăng tốc độ làm việc.",
+    "context": "tooltip | Row 1439",
+    "offset": 59394,
+    "length": 49
+  },
+  {
+    "id": 1454,
+    "key": "action.heater.autopause",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Auto-pause",
+    "target_vi": "Tự Động Tắt Lò",
+    "context": "action | Row 1454",
+    "offset": 60034,
+    "length": 11
+  },
+  {
+    "id": 1455,
+    "key": "action.heater.autopause.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pause automatically when ambient temperature is already warm.",
+    "target_vi": "Tự động tắt lò sưởi khi nhiệt độ xung quanh đã đủ ấm.",
+    "context": "action | Row 1455",
+    "offset": 60059,
+    "length": 62
+  },
+  {
+    "id": 1456,
+    "key": "tooltip.needFiretender",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Build a Fire Tender to deliver fuel",
+    "target_vi": "Xây Trại Chăm Lửa để vận chuyển than củi sưởi ấm",
+    "context": "tooltip | Row 1456",
+    "offset": 60135,
+    "length": 36
+  },
+  {
+    "id": 1469,
+    "key": "action.heater.overdrive",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Overdrive",
+    "target_vi": "Đốt Tối Đa Công Suất",
+    "context": "action | Row 1469",
+    "offset": 60707,
+    "length": 10
+  },
+  {
+    "id": 1470,
+    "key": "action.heater.overdrive.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Doubles fuel consumption for a moderate boost in heat.",
+    "target_vi": "Tiêu hao gấp đôi nhiên liệu để tăng thêm nhiệt lượng.",
+    "context": "action | Row 1470",
+    "offset": 60731,
+    "length": 55
+  },
+  {
+    "id": 1538,
+    "key": "action.enable",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Enable",
+    "target_vi": "Bật",
+    "context": "action | Row 1538",
+    "offset": 63065,
+    "length": 7
+  },
+  {
+    "id": 1539,
+    "key": "action.disable",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Disable",
+    "target_vi": "Tắt",
+    "context": "action | Row 1539",
+    "offset": 63086,
+    "length": 8
+  },
+  {
+    "id": 1540,
+    "key": "action.markForRebuild",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mark for Rebuild",
+    "target_vi": "Đánh Dấu Xây Lại",
+    "context": "action | Row 1540",
+    "offset": 63108,
+    "length": 17
+  },
+  {
+    "id": 1541,
+    "key": "action.quickRebuild",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quick rebuild",
+    "target_vi": "Xây Lại Nhanh",
+    "context": "action | Row 1541",
+    "offset": 63139,
+    "length": 14
+  },
+  {
+    "id": 1588,
+    "key": "hoverNotif.occupied",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Occupied",
+    "target_vi": "Đã Kín Chỗ",
+    "context": "hoverNotif | Row 1588",
+    "offset": 65000,
+    "length": 9
+  },
+  {
+    "id": 1589,
+    "key": "hoverNotif.blockedEdge",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unreachable",
+    "target_vi": "Không Thể Tiếp Cận",
+    "context": "hoverNotif | Row 1589",
+    "offset": 65023,
+    "length": 12
+  },
+  {
+    "id": 1590,
+    "key": "hoverNotif.noValidStorage",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No storage destination",
+    "target_vi": "Không Có Kho Chứa Hàng",
+    "context": "hoverNotif | Row 1590",
+    "offset": 65049,
+    "length": 23
+  },
+  {
+    "id": 1591,
+    "key": "hoverNotif.noValidHarvestable",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No resource in range",
+    "target_vi": "Hết Tài Nguyên Trong Tầm",
+    "context": "hoverNotif | Row 1591",
+    "offset": 65086,
+    "length": 21
+  },
+  {
+    "id": 1592,
+    "key": "hoverNotif.repairNeeded",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Machinery needs replacement!",
+    "target_vi": "Máy móc cần thay thế!",
+    "context": "hoverNotif | Row 1592",
+    "offset": 65121,
+    "length": 29
+  },
+  {
+    "id": 1593,
+    "key": "hoverNotif.noWorkers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No workers assigned",
+    "target_vi": "Chưa Phân Công Thợ",
+    "context": "hoverNotif | Row 1593",
+    "offset": 65164,
+    "length": 20
+  },
+  {
+    "id": 1594,
+    "key": "hoverNotif.constructionMissingResources",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Can't find material",
+    "target_vi": "Thiếu Vật Liệu Xây Dựng",
+    "context": "hoverNotif | Row 1594",
+    "offset": 65198,
+    "length": 20
+  },
+  {
+    "id": 1595,
+    "key": "hoverNotif.nofuel",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No fuel",
+    "target_vi": "Hết Nhiên Liệu",
+    "context": "hoverNotif | Row 1595",
+    "offset": 65232,
+    "length": 8
+  },
+  {
+    "id": 1596,
+    "key": "hoverNotif.disabled",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Disabled",
+    "target_vi": "Đã Tắt",
+    "context": "hoverNotif | Row 1596",
+    "offset": 65254,
+    "length": 9
+  },
+  {
+    "id": 1597,
+    "key": "hoverNotif.noSteam",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No steam",
+    "target_vi": "Không Có Hơi Nước",
+    "context": "hoverNotif | Row 1597",
+    "offset": 65277,
+    "length": 9
+  },
+  {
+    "id": 1598,
+    "key": "hoverNotif.noWater",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No water",
+    "target_vi": "Không Có Nước",
+    "context": "hoverNotif | Row 1598",
+    "offset": 65300,
+    "length": 9
+  },
+  {
+    "id": 1599,
+    "key": "hoverNotif.constructionPaused",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Construction paused",
+    "target_vi": "Tạm Dừng Thi Công",
+    "context": "hoverNotif | Row 1599",
+    "offset": 65323,
+    "length": 20
+  },
+  {
+    "id": 1600,
+    "key": "hoverNotif.highPriority",
+    "category": "01_Core_UI_Menus",
+    "source_en": "High priority",
+    "target_vi": "Ưu Tiên Cao",
+    "context": "hoverNotif | Row 1600",
+    "offset": 65357,
+    "length": 14
+  },
+  {
+    "id": 1601,
+    "key": "hoverNotif.cantReachHome",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Can't reach home",
+    "target_vi": "Không Tìm Thấy Đường Về Nhà",
+    "context": "hoverNotif | Row 1601",
+    "offset": 65385,
+    "length": 17
+  },
+  {
+    "id": 1602,
+    "key": "hoverNotif.cantReachWork",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Can't reach workplace",
+    "target_vi": "Không Tìm Thấy Đường Đi Làm",
+    "context": "hoverNotif | Row 1602",
+    "offset": 65416,
+    "length": 22
+  },
+  {
+    "id": 1603,
+    "key": "hoverNotif.noResourcesEnabled",
+    "category": "01_Core_UI_Menus",
+    "source_en": "All Resources disabled",
+    "target_vi": "Đã tắt nhận mọi tài nguyên",
+    "context": "hoverNotif | Row 1603",
+    "offset": 65452,
+    "length": 23
+  },
+  {
+    "id": 1604,
+    "key": "hoverNotif.overtime",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Double-time active",
+    "target_vi": "Đang Tăng Ca Đêm",
+    "context": "hoverNotif | Row 1604",
+    "offset": 65489,
+    "length": 19
+  },
+  {
+    "id": 1605,
+    "key": "hoverNotif.noConstructionWorkers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No available builders",
+    "target_vi": "Không Có Thợ Xây Rảnh",
+    "context": "hoverNotif | Row 1605",
+    "offset": 65522,
+    "length": 22
+  },
+  {
+    "id": 1606,
+    "key": "hoverNotif.longPath",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Walking extremely far",
+    "target_vi": "Quãng Đường Quá Xa",
+    "context": "hoverNotif | Row 1606",
+    "offset": 65558,
+    "length": 22
+  },
+  {
+    "id": 1607,
+    "key": "hoverNotif.noMinesNearby",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No mineshafts marked nearby",
+    "target_vi": "Không có mỏ nào được đánh dấu gần đây",
+    "context": "hoverNotif | Row 1607",
+    "offset": 65594,
+    "length": 28
+  },
+  {
+    "id": 1608,
+    "key": "hoverNotif.noRecipe",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No Recipe Set",
+    "target_vi": "Chưa Đặt Công Thức",
+    "context": "hoverNotif | Row 1608",
+    "offset": 65636,
+    "length": 14
+  },
+  {
+    "id": 1609,
+    "key": "hoverNotif.SafetyOverride",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Safety overridden",
+    "target_vi": "Đã Vượt Rào An Toàn",
+    "context": "hoverNotif | Row 1609",
+    "offset": 65664,
+    "length": 18
+  },
+  {
+    "id": 1615,
+    "key": "notif.noAvailableWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No Available Whiskers!",
+    "target_vi": "Hết Dân Chuột Rảnh Rỗi!",
+    "context": "notif | Row 1615",
+    "offset": 65820,
+    "length": 23
+  },
+  {
+    "id": 1644,
+    "key": "menu.date",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Date",
+    "target_vi": "Ngày",
+    "context": "menu | Row 1644",
+    "offset": 68337,
+    "length": 5
+  },
+  {
+    "id": 1645,
+    "key": "action.neverShowAgain",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Do not show again",
+    "target_vi": "Không hiện lại nữa",
+    "context": "action | Row 1645",
+    "offset": 68356,
+    "length": 18
+  },
+  {
+    "id": 1646,
+    "key": "action.toggleResource",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggle Resource",
+    "target_vi": "Bật/Tắt Tài Nguyên",
+    "context": "action | Row 1646",
+    "offset": 68388,
+    "length": 16
+  },
+  {
+    "id": 1647,
+    "key": "action.toggleResource.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Workers will only gather checked resources.",
+    "target_vi": "Thợ chỉ thu thập các loại tài nguyên được tích chọn.",
+    "context": "action | Row 1647",
+    "offset": 68418,
+    "length": 44
+  },
+  {
+    "id": 1654,
+    "key": "tooltip.slice.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Hides all terrain and buildings above the cursor height.",
+    "target_vi": "Ẩn mọi địa hình và công trình nằm phía trên độ cao con trỏ.",
+    "context": "tooltip | Row 1654",
+    "offset": 68922,
+    "length": 57
+  },
+  {
+    "id": 1655,
+    "key": "tooltip.moveCamp",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move structure to new location",
+    "target_vi": "Di dời công trình đến vị trí mới",
+    "context": "tooltip | Row 1655",
+    "offset": 68993,
+    "length": 31
+  },
+  {
+    "id": 1667,
+    "key": "action.fillBlock",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Fill Terrain",
+    "target_vi": "Bồi Đất San Nền",
+    "context": "action | Row 1667",
+    "offset": 69560,
+    "length": 13
+  },
+  {
+    "id": 1679,
+    "key": "notif.newSchematic",
+    "category": "01_Core_UI_Menus",
+    "source_en": "New Schematic!",
+    "target_vi": "Bản Thiết Kế Mới!",
+    "context": "notif | Row 1679",
+    "offset": 69881,
+    "length": 15
+  },
+  {
+    "id": 1683,
+    "key": "action.pirates.refuseCooperation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Refuse Cooperation",
+    "target_vi": "Từ Chối Thỏa Hiệp",
+    "context": "action | Row 1683",
+    "offset": 70012,
+    "length": 19
+  },
+  {
+    "id": 1684,
+    "key": "action.pirates.sendPartial",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Send Partial Ransom",
+    "target_vi": "Gửi Một Phần Tiền Chuộc",
+    "context": "action | Row 1684",
+    "offset": 70045,
+    "length": 20
+  },
+  {
+    "id": 1685,
+    "key": "action.pirates.sendFull",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Send Full Ransom",
+    "target_vi": "Gửi Đủ Tiền Chuộc",
+    "context": "action | Row 1685",
+    "offset": 70079,
+    "length": 17
+  },
+  {
+    "id": 1686,
+    "key": "settings.keybinds",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Keybinds",
+    "target_vi": "Phím Điều Khiển",
+    "context": "settings | Row 1686",
+    "offset": 70110,
+    "length": 9
+  },
+  {
+    "id": 1687,
+    "key": "settings.header.camera",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Camera",
+    "target_vi": "Camera",
+    "context": "settings | Row 1687",
+    "offset": 70133,
+    "length": 7
+  },
+  {
+    "id": 1688,
+    "key": "settings.action.resetSettings",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reset to default",
+    "target_vi": "Đặt Lại Mặc Định",
+    "context": "settings | Row 1688",
+    "offset": 70154,
+    "length": 17
+  },
+  {
+    "id": 1689,
+    "key": "settings.action.resetKeybinds",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reset bindings",
+    "target_vi": "Đặt Lại Phím Tắt",
+    "context": "settings | Row 1689",
+    "offset": 70185,
+    "length": 15
+  },
+  {
+    "id": 1690,
+    "key": "settings.header.basic",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Basic",
+    "target_vi": "Cơ Bản",
+    "context": "settings | Row 1690",
+    "offset": 70214,
+    "length": 6
+  },
+  {
+    "id": 1691,
+    "key": "settings.keybind.LeftClick",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Select",
+    "target_vi": "Chọn",
+    "context": "settings | Row 1691",
+    "offset": 70234,
+    "length": 7
+  },
+  {
+    "id": 1692,
+    "key": "settings.keybind.RightClick",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Back or Cancel",
+    "target_vi": "Quay Lại / Hủy",
+    "context": "settings | Row 1692",
+    "offset": 70255,
+    "length": 15
+  },
+  {
+    "id": 1693,
+    "key": "settings.keybind.pausemenu",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pause Menu",
+    "target_vi": "Menu Tạm Dừng",
+    "context": "settings | Row 1693",
+    "offset": 70284,
+    "length": 11
+  },
+  {
+    "id": 1694,
+    "key": "settings.keybind.Up",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Increase Height",
+    "target_vi": "Nâng Độ Cao",
+    "context": "settings | Row 1694",
+    "offset": 70309,
+    "length": 16
+  },
+  {
+    "id": 1695,
+    "key": "settings.keybind.Down",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Decrease Height",
+    "target_vi": "Hạ Độ Cao",
+    "context": "settings | Row 1695",
+    "offset": 70339,
+    "length": 16
+  },
+  {
+    "id": 1696,
+    "key": "settings.keybind.tabLeft",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Tab Left",
+    "target_vi": "Chuyển Tab Trái",
+    "context": "settings | Row 1696",
+    "offset": 70369,
+    "length": 9
+  },
+  {
+    "id": 1697,
+    "key": "settings.keybind.tabRight",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Tab Right",
+    "target_vi": "Chuyển Tab Phải",
+    "context": "settings | Row 1697",
+    "offset": 70392,
+    "length": 10
+  },
+  {
+    "id": 1698,
+    "key": "settings.keybind.pause",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pause / Unpause",
+    "target_vi": "Tạm Dừng / Chạy Tiếp",
+    "context": "settings | Row 1698",
+    "offset": 70416,
+    "length": 16
+  },
+  {
+    "id": 1699,
+    "key": "settings.keybind.speed_1x",
+    "category": "01_Core_UI_Menus",
+    "source_en": "1x Speed",
+    "target_vi": "Tốc Độ 1x",
+    "context": "settings | Row 1699",
+    "offset": 70446,
+    "length": 9
+  },
+  {
+    "id": 1700,
+    "key": "settings.keybind.speed_2x",
+    "category": "01_Core_UI_Menus",
+    "source_en": "2x Speed",
+    "target_vi": "Tốc Độ 2x",
+    "context": "settings | Row 1700",
+    "offset": 70469,
+    "length": 9
+  },
+  {
+    "id": 1701,
+    "key": "settings.keybind.speed_4x",
+    "category": "01_Core_UI_Menus",
+    "source_en": "3x Speed",
+    "target_vi": "Tốc Độ 3x",
+    "context": "settings | Row 1701",
+    "offset": 70492,
+    "length": 9
+  },
+  {
+    "id": 1702,
+    "key": "settings.keybind.PanUp_Keyboard.0",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move Back",
+    "target_vi": "Lùi Lại",
+    "context": "settings | Row 1702",
+    "offset": 70515,
+    "length": 10
+  },
+  {
+    "id": 1703,
+    "key": "settings.keybind.PanUp_Keyboard.1",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move Forward",
+    "target_vi": "Tiến Lên",
+    "context": "settings | Row 1703",
+    "offset": 70539,
+    "length": 13
+  },
+  {
+    "id": 1704,
+    "key": "settings.keybind.PanRight_Keyboard.0",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move Left",
+    "target_vi": "Sang Trái",
+    "context": "settings | Row 1704",
+    "offset": 70566,
+    "length": 10
+  },
+  {
+    "id": 1705,
+    "key": "settings.keybind.PanRight_Keyboard.1",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move Right",
+    "target_vi": "Sang Phải",
+    "context": "settings | Row 1705",
+    "offset": 70590,
+    "length": 11
+  },
+  {
+    "id": 1706,
+    "key": "settings.keybind.Pan",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quick Pan",
+    "target_vi": "Trượt Nhanh",
+    "context": "settings | Row 1706",
+    "offset": 70615,
+    "length": 10
+  },
+  {
+    "id": 1707,
+    "key": "settings.keybind.slice",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggle Slice View",
+    "target_vi": "Bật/Tắt Cắt Tầng",
+    "context": "settings | Row 1707",
+    "offset": 70639,
+    "length": 18
+  },
+  {
+    "id": 1708,
+    "key": "settings.keybind.toggleHeatOverlay",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggle Heat View",
+    "target_vi": "Xem Bản Đồ Nhiệt",
+    "context": "settings | Row 1708",
+    "offset": 70671,
+    "length": 17
+  },
+  {
+    "id": 1709,
+    "key": "settings.header.other",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Other",
+    "target_vi": "Khác",
+    "context": "settings | Row 1709",
+    "offset": 70702,
+    "length": 6
+  },
+  {
+    "id": 1710,
+    "key": "settings.keybind.rotateCursor",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Rotate Cursor",
+    "target_vi": "Xoay Con Trỏ",
+    "context": "settings | Row 1710",
+    "offset": 70722,
+    "length": 14
+  },
+  {
+    "id": 1711,
+    "key": "settings.keybind.clone",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Clone",
+    "target_vi": "Sao Chép Công Trình",
+    "context": "settings | Row 1711",
+    "offset": 70750,
+    "length": 6
+  },
+  {
+    "id": 1712,
+    "key": "settings.keybind.OpenEventQueue",
+    "category": "01_Core_UI_Menus",
+    "source_en": "View Messages",
+    "target_vi": "Xem Bảng Tin Sự Kiện",
+    "context": "settings | Row 1712",
+    "offset": 70770,
+    "length": 14
+  },
+  {
+    "id": 1713,
+    "key": "settings.keybind.moveBuilding",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Move Structure",
+    "target_vi": "Dời Công Trình",
+    "context": "settings | Row 1713",
+    "offset": 70798,
+    "length": 15
+  },
+  {
+    "id": 1714,
+    "key": "settings.keybind.resetZ",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Lock / Unlock Cursor Height",
+    "target_vi": "Khóa / Mở Độ Cao Con Trỏ",
+    "context": "settings | Row 1714",
+    "offset": 70827,
+    "length": 28
+  },
+  {
+    "id": 1715,
+    "key": "settings.keybind.fastHeightChange",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quick Scroll Height",
+    "target_vi": "Cuộn Nhanh Độ Cao",
+    "context": "settings | Row 1715",
+    "offset": 70869,
+    "length": 20
+  },
+  {
+    "id": 1716,
+    "key": "settings.defaultBinding",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Default Binding",
+    "target_vi": "Phím Mặc Định",
+    "context": "settings | Row 1716",
+    "offset": 70903,
+    "length": 16
+  },
+  {
+    "id": 1717,
+    "key": "settings.pressKeyToRebind",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Press key to rebind",
+    "target_vi": "Nhấn phím bất kỳ để gán",
+    "context": "settings | Row 1717",
+    "offset": 70933,
+    "length": 20
+  },
+  {
+    "id": 1718,
+    "key": "settings.invalidKey",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Unsupported Key",
+    "target_vi": "Phím Không Hỗ Trợ",
+    "context": "settings | Row 1718",
+    "offset": 70967,
+    "length": 16
+  },
+  {
+    "id": 1719,
+    "key": "settings.keybind.rotCW",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Turn Camera Clockwise",
+    "target_vi": "Xoay Camera Thuận KĐH",
+    "context": "settings | Row 1719",
+    "offset": 70997,
+    "length": 22
+  },
+  {
+    "id": 1720,
+    "key": "settings.keybind.rotCCW",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Turn Camera Counter-Clockwise",
+    "target_vi": "Xoay Camera Ngược KĐH",
+    "context": "settings | Row 1720",
+    "offset": 71033,
+    "length": 30
+  },
+  {
+    "id": 1721,
+    "key": "settings.keybind.rotCamera",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Turn",
+    "target_vi": "Xoay Camera",
+    "context": "settings | Row 1721",
+    "offset": 71077,
+    "length": 5
+  },
+  {
+    "id": 1722,
+    "key": "menu.confirmDelete",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Are you sure you want to delete save?",
+    "target_vi": "Bạn có chắc chắn muốn xóa bản lưu này?",
+    "context": "menu | Row 1722",
+    "offset": 71096,
+    "length": 38
+  },
+  {
+    "id": 1723,
+    "key": "settings.action.applyGraphics",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Apply Graphics Changes",
+    "target_vi": "Áp Dụng Đồ Họa Mới",
+    "context": "settings | Row 1723",
+    "offset": 71148,
+    "length": 23
+  },
+  {
+    "id": 1726,
+    "key": "settings.g.autosave",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Autosave interval",
+    "target_vi": "Tần Suất Tự Động Lưu",
+    "context": "settings | Row 1726",
+    "offset": 71265,
+    "length": 18
+  },
+  {
+    "id": 1733,
+    "key": "menu.resourcesRequired",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Resources Required",
+    "target_vi": "Tài Nguyên Cần Thiết",
+    "context": "menu | Row 1733",
+    "offset": 71445,
+    "length": 19
+  },
+  {
+    "id": 1734,
+    "key": "menu.inbound",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Inbound",
+    "target_vi": "Đang Vận Chuyển Đến",
+    "context": "menu | Row 1734",
+    "offset": 71478,
+    "length": 8
+  },
+  {
+    "id": 1735,
+    "key": "menu.nomaterials",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Can't find required materials.",
+    "target_vi": "Không tìm thấy nguyên vật liệu cần thiết.",
+    "context": "menu | Row 1735",
+    "offset": 71500,
+    "length": 31
+  },
+  {
+    "id": 1736,
+    "key": "menu.highprinight",
+    "category": "01_Core_UI_Menus",
+    "source_en": "High Priority + night construction",
+    "target_vi": "Ưu Tiên Cao + Làm Đêm",
+    "context": "menu | Row 1736",
+    "offset": 71545,
+    "length": 35
+  },
+  {
+    "id": 1737,
+    "key": "menu.sethightpri",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Set High Priority",
+    "target_vi": "Đặt Ưu Tiên Cao",
+    "context": "menu | Row 1737",
+    "offset": 71594,
+    "length": 18
+  },
+  {
+    "id": 1738,
+    "key": "menu.markrebuild",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mark for Rebuild",
+    "target_vi": "Đánh Dấu Xây Lại",
+    "context": "menu | Row 1738",
+    "offset": 71626,
+    "length": 17
+  },
+  {
+    "id": 1739,
+    "key": "menu.choose",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Choose",
+    "target_vi": "Lựa Chọn",
+    "context": "menu | Row 1739",
+    "offset": 71657,
+    "length": 7
+  },
+  {
+    "id": 1740,
+    "key": "menu.taxpayment",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Tax payment",
+    "target_vi": "Thuế Cống Nạp",
+    "context": "menu | Row 1740",
+    "offset": 71678,
+    "length": 12
+  },
+  {
+    "id": 1741,
+    "key": "menu.letstalk",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Let us discuss your recent efforts...",
+    "target_vi": "Bàn về thành quả thuộc địa gần đây nào...",
+    "context": "menu | Row 1741",
+    "offset": 71704,
+    "length": 38
+  },
+  {
+    "id": 1742,
+    "key": "menu.giftsupplies",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Gift Supplies",
+    "target_vi": "Tiếp Tế Ban Ơn",
+    "context": "menu | Row 1742",
+    "offset": 71756,
+    "length": 14
+  },
+  {
+    "id": 1743,
+    "key": "menu.gain",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Gain",
+    "target_vi": "Nhận Được",
+    "context": "menu | Row 1743",
+    "offset": 71784,
+    "length": 5
+  },
+  {
+    "id": 1744,
+    "key": "menu.saving",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Saving..",
+    "target_vi": "Đang lưu...",
+    "context": "menu | Row 1744",
+    "offset": 71803,
+    "length": 9
+  },
+  {
+    "id": 1747,
+    "key": "action.reroll",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reroll",
+    "target_vi": "Đổi Lại Lựa Chọn",
+    "context": "action | Row 1747",
+    "offset": 71869,
+    "length": 7
+  },
+  {
+    "id": 1752,
+    "key": "settings.a.voice",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Voice",
+    "target_vi": "Giọng Nói",
+    "context": "settings | Row 1752",
+    "offset": 73096,
+    "length": 6
+  },
+  {
+    "id": 1753,
+    "key": "tooltip.lockhousing",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Lock Housing",
+    "target_vi": "Khóa Nơi Ở",
+    "context": "tooltip | Row 1753",
+    "offset": 73116,
+    "length": 13
+  },
+  {
+    "id": 1754,
+    "key": "tooltip.lockhousing.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Prevent Whisker from changing houses on their own.",
+    "target_vi": "Ngăn không cho chú chuột tự ý đổi chỗ ở lung tung.",
+    "context": "tooltip | Row 1754",
+    "offset": 73143,
+    "length": 51
+  },
+  {
+    "id": 1756,
+    "key": "hoverNotif.shipBlocking",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Blocked by ship",
+    "target_vi": "Bị Tàu Thuyền Chặn Lối",
+    "context": "hoverNotif | Row 1756",
+    "offset": 73230,
+    "length": 16
+  },
+  {
+    "id": 1776,
+    "key": "settings.terraindrawdistance",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Terrain Draw Distance",
+    "target_vi": "Tầm Hiển Thị Địa Hình",
+    "context": "settings | Row 1776",
+    "offset": 73959,
+    "length": 22
+  },
+  {
+    "id": 1777,
+    "key": "settings.terraingrassdensity",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Grass Density",
+    "target_vi": "Mật Độ Cỏ",
+    "context": "settings | Row 1777",
+    "offset": 73995,
+    "length": 14
+  },
+  {
+    "id": 1857,
+    "key": "error.noMatchingWhiskers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No matching Whiskers.",
+    "target_vi": "Không có chú chuột nào phù hợp.",
+    "context": "error | Row 1857",
+    "offset": 89135,
+    "length": 22
+  },
+  {
+    "id": 1858,
+    "key": "error.invalidLocation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Invalid location.",
+    "target_vi": "Vị trí không hợp lệ.",
+    "context": "error | Row 1858",
+    "offset": 89171,
+    "length": 18
+  },
+  {
+    "id": 1859,
+    "key": "action.sendToSea",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Send to sea",
+    "target_vi": "Cho Ra Khơi",
+    "context": "action | Row 1859",
+    "offset": 89203,
+    "length": 12
+  },
+  {
+    "id": 1862,
+    "key": "settings.keybind.minetool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mine Tool",
+    "target_vi": "Khai Mỏ",
+    "context": "settings | Row 1862",
+    "offset": 89337,
+    "length": 10
+  },
+  {
+    "id": 1863,
+    "key": "settings.keybind.farmtool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Farm Tool",
+    "target_vi": "Trồng Trọt",
+    "context": "settings | Row 1863",
+    "offset": 89361,
+    "length": 10
+  },
+  {
+    "id": 1864,
+    "key": "menu.quitwarning",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Your progress will be saved to disk.",
+    "target_vi": "Tiến trình chơi sẽ được lưu lại vào ổ đĩa.",
+    "context": "menu | Row 1864",
+    "offset": 89385,
+    "length": 37
+  },
+  {
+    "id": 1865,
+    "key": "menu.quitdesktopheader",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quit to Desktop",
+    "target_vi": "Thoát Ra Desktop",
+    "context": "menu | Row 1865",
+    "offset": 89436,
+    "length": 16
+  },
+  {
+    "id": 1866,
+    "key": "menu.quitmainmenuheader",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Return to Main Menu",
+    "target_vi": "Quay Lại Menu Chính",
+    "context": "menu | Row 1866",
+    "offset": 89466,
+    "length": 20
+  },
+  {
+    "id": 1891,
+    "key": "tooltip.maxlimit",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Max limit",
+    "target_vi": "Giới Hạn Tối Đa",
+    "context": "tooltip | Row 1891",
+    "offset": 90745,
+    "length": 10
+  },
+  {
+    "id": 1892,
+    "key": "tooltip.loseUnsavedChanges",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Lose unsaved changes",
+    "target_vi": "Mất các thay đổi chưa lưu",
+    "context": "tooltip | Row 1892",
+    "offset": 90769,
+    "length": 21
+  },
+  {
+    "id": 1957,
+    "key": "pause.saveAs",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Save As",
+    "target_vi": "Lưu Thành Bản Mới",
+    "context": "pause | Row 1957",
+    "offset": 93644,
+    "length": 8
+  },
+  {
+    "id": 1991,
+    "key": "notif.extraProduction",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Extra Output",
+    "target_vi": "Sản Lượng Tăng Thêm",
+    "context": "notif | Row 1991",
+    "offset": 96597,
+    "length": 13
+  },
+  {
+    "id": 2006,
+    "key": "toolbar.terraformTool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Earthworks Tool",
+    "target_vi": "Công Cụ San Nền",
+    "context": "toolbar | Row 2006",
+    "offset": 97081,
+    "length": 16
+  },
+  {
+    "id": 2007,
+    "key": "settings.temperature",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Temperature Scale",
+    "target_vi": "Thang Đo Nhiệt Độ",
+    "context": "settings | Row 2007",
+    "offset": 97111,
+    "length": 18
+  },
+  {
+    "id": 2008,
+    "key": "settings.celsius",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Celsius",
+    "target_vi": "Độ C (°C)",
+    "context": "settings | Row 2008",
+    "offset": 97143,
+    "length": 8
+  },
+  {
+    "id": 2009,
+    "key": "settings.fahrenheit",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Fahrenheit",
+    "target_vi": "Độ F (°F)",
+    "context": "settings | Row 2009",
+    "offset": 97165,
+    "length": 11
+  },
+  {
+    "id": 2069,
+    "key": "action.selectEducation",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Select Education Target",
+    "target_vi": "Chọn Ngành Đào Tạo",
+    "context": "action | Row 2069",
+    "offset": 99471,
+    "length": 24
+  },
+  {
+    "id": 2070,
+    "key": "action.selectEducation.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Select the skill that students will learn. Requires a teacher who has already attained that level of education.",
+    "target_vi": "Chọn kỹ năng để học viên theo học. Cần có một thợ giảng dạy đã đạt cấp bậc đó.",
+    "context": "action | Row 2070",
+    "offset": 99509,
+    "length": 112
+  },
+  {
+    "id": 2121,
+    "key": "menu.rebellionsentiment",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Rebellion Fervor",
+    "target_vi": "Khí Thế Khởi Nghĩa",
+    "context": "menu | Row 2121",
+    "offset": 101734,
+    "length": 17
+  },
+  {
+    "id": 2122,
+    "key": "menu.rebellionsentiment.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Rebellion Fervor in the colony leads to rumours and murmurs of a future free from the Claws.\n\nUpon hearing such remarks most workers will be inspired and work harder. Monarchists hearing such treason will complain.",
+    "target_vi": "Khí thế khởi nghĩa trong làng dấy lên những lời bàn tán về tương lai thoát khỏi ách Móng Vuốt.\n\nNghe điều này, đa số thợ thuyền sẽ hăng hái làm việc hơn. Những kẻ trung thành với Hoàng gia sẽ phàn nàn về sự phản nghịch.",
+    "context": "menu | Row 2122",
+    "offset": 101765,
+    "length": 215
+  },
+  {
+    "id": 2125,
+    "key": "action.ship.dismiss",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Dismiss Ship",
+    "target_vi": "Cho Tàu Rời Bến",
+    "context": "action | Row 2125",
+    "offset": 102429,
+    "length": 13
+  },
+  {
+    "id": 2126,
+    "key": "action.ship.tradeConfirm",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Accept Trade",
+    "target_vi": "Chấp Thuận Giao Thương",
+    "context": "action | Row 2126",
+    "offset": 102456,
+    "length": 13
+  },
+  {
+    "id": 2140,
+    "key": "settings.enableDockCamera",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Enable Dock Camera",
+    "target_vi": "Bật Camera Bến Cảng",
+    "context": "settings | Row 2140",
+    "offset": 103038,
+    "length": 19
+  },
+  {
+    "id": 2142,
+    "key": "settings.toggleEdgeScrolling",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Screen Edge Scrolling",
+    "target_vi": "Cuộn Chuột Viền Màn Hình",
+    "context": "settings | Row 2142",
+    "offset": 103117,
+    "length": 22
+  },
+  {
+    "id": 2143,
+    "key": "settings.toggleMouseLocking",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Lock Mouse to Window",
+    "target_vi": "Khóa Chuột Trong Cửa Sổ",
+    "context": "settings | Row 2143",
+    "offset": 103153,
+    "length": 21
+  },
+  {
+    "id": 2144,
+    "key": "settings.mousecameracontrols",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mouse Camera Controls",
+    "target_vi": "Thao Tác Camera Bằng Chuột",
+    "context": "settings | Row 2144",
+    "offset": 103188,
+    "length": 22
+  },
+  {
+    "id": 2145,
+    "key": "settings.mbbpan",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Pan is Middle & Orbit is Right",
+    "target_vi": "Chuột Giữa: Trượt / Chuột Phải: Xoay",
+    "context": "settings | Row 2145",
+    "offset": 103224,
+    "length": 31
+  },
+  {
+    "id": 2146,
+    "key": "settings.mbborbit",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Orbit is Middle & Pan is Right",
+    "target_vi": "Chuột Giữa: Xoay / Chuột Phải: Lia",
+    "context": "settings | Row 2146",
+    "offset": 103269,
+    "length": 31
+  },
+  {
+    "id": 2147,
+    "key": "error.savefailed",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Error saving game!",
+    "target_vi": "Lỗi khi lưu game!",
+    "context": "error | Row 2147",
+    "offset": 103314,
+    "length": 19
+  },
+  {
+    "id": 2148,
+    "key": "error.tryagain",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Please try again.",
+    "target_vi": "Vui lòng thử lại.",
+    "context": "error | Row 2148",
+    "offset": 103347,
+    "length": 18
+  },
+  {
+    "id": 2149,
+    "key": "action.addWood",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Add wood",
+    "target_vi": "Thêm Củi Đốt",
+    "context": "action | Row 2149",
+    "offset": 103379,
+    "length": 9
+  },
+  {
+    "id": 2150,
+    "key": "settings.action.resetToDefault",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Reset Graphics to Default",
+    "target_vi": "Khôi Phục Đồ Họa Mặc Định",
+    "context": "settings | Row 2150",
+    "offset": 103402,
+    "length": 26
+  },
+  {
+    "id": 2151,
+    "key": "settings.mods",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Mods",
+    "target_vi": "Bản Mod",
+    "context": "settings | Row 2151",
+    "offset": 103442,
+    "length": 5
+  },
+  {
+    "id": 2152,
+    "key": "hoverNotif.noTaskInRange",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No task in range",
+    "target_vi": "Không có việc gì trong tầm",
+    "context": "hoverNotif | Row 2152",
+    "offset": 103461,
+    "length": 17
+  },
+  {
+    "id": 2155,
+    "key": "settings.keybind.togglePollutionOverlay",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggle Pollution View",
+    "target_vi": "Xem Bản Đồ Ô Nhiễm",
+    "context": "settings | Row 2155",
+    "offset": 103632,
+    "length": 22
+  },
+  {
+    "id": 2156,
+    "key": "settings.keybind.quicksave",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quicksave",
+    "target_vi": "Lưu Nhanh",
+    "context": "settings | Row 2156",
+    "offset": 103668,
+    "length": 10
+  },
+  {
+    "id": 2157,
+    "key": "settings.keybind.BulldozeTool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Bulldoze",
+    "target_vi": "Phá Dỡ",
+    "context": "settings | Row 2157",
+    "offset": 103692,
+    "length": 9
+  },
+  {
+    "id": 2161,
+    "key": "action.disableAllInputs",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Disable all inputs",
+    "target_vi": "Ngừng Nhận Hàng Vào",
+    "context": "action | Row 2161",
+    "offset": 103810,
+    "length": 19
+  },
+  {
+    "id": 2162,
+    "key": "action.disableAllInputs.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Completed building will reject all resources until configured",
+    "target_vi": "Công trình sau khi xây xong sẽ chặn mọi tài nguyên cho đến khi được cấu hình",
+    "context": "action | Row 2162",
+    "offset": 103843,
+    "length": 62
+  },
+  {
+    "id": 2172,
+    "key": "error.needsAdmin",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Assign an educated Whisker to enable production limits",
+    "target_vi": "Chỉ định một chú chuột có học thức để mở khóa giới hạn sản xuất",
+    "context": "error | Row 2172",
+    "offset": 104446,
+    "length": 55
+  },
+  {
+    "id": 2179,
+    "key": "settings.showblips",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Shown Icons",
+    "target_vi": "Biểu Tượng Thông Báo",
+    "context": "settings | Row 2179",
+    "offset": 104792,
+    "length": 12
+  },
+  {
+    "id": 2180,
+    "key": "settings.showblips.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Control which icons appear over buildings and Whiskers to communicate status, problems, or events.",
+    "target_vi": "Tùy chỉnh biểu tượng trạng thái, sự cố hoặc sự kiện hiển thị trên đầu công trình và các chú chuột.",
+    "context": "settings | Row 2180",
+    "offset": 104818,
+    "length": 99
+  },
+  {
+    "id": 2181,
+    "key": "settings.showblips.all",
+    "category": "01_Core_UI_Menus",
+    "source_en": "All",
+    "target_vi": "Tất Cả",
+    "context": "settings | Row 2181",
+    "offset": 104931,
+    "length": 4
+  },
+  {
+    "id": 2182,
+    "key": "settings.showblips.statusonly",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Status & Problems Only",
+    "target_vi": "Chỉ Sự Cố & Trạng Thái",
+    "context": "settings | Row 2182",
+    "offset": 104949,
+    "length": 23
+  },
+  {
+    "id": 2195,
+    "key": "menu.wiki",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Wiki",
+    "target_vi": "Cẩm Nang Wiki",
+    "context": "menu | Row 2195",
+    "offset": 105377,
+    "length": 5
+  },
+  {
+    "id": 2196,
+    "key": "settings.keybind.cycleVariant",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Next Variant",
+    "target_vi": "Biến Thể Tiếp Theo",
+    "context": "settings | Row 2196",
+    "offset": 105396,
+    "length": 13
+  },
+  {
+    "id": 2197,
+    "key": "settings.keybind.zoomIn",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Zoom In",
+    "target_vi": "Phóng To",
+    "context": "settings | Row 2197",
+    "offset": 105423,
+    "length": 8
+  },
+  {
+    "id": 2198,
+    "key": "settings.keybind.zoomOut",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Zoom Out",
+    "target_vi": "Thu Nhỏ",
+    "context": "settings | Row 2198",
+    "offset": 105445,
+    "length": 9
+  },
+  {
+    "id": 2199,
+    "key": "tooltip.variants",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Variants",
+    "target_vi": "Kiểu Biến Thể",
+    "context": "tooltip | Row 2199",
+    "offset": 105468,
+    "length": 9
+  },
+  {
+    "id": 2205,
+    "key": "settings.terraindrawdistance.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "How detailed the terrain will be for a given zoom distance.\nHigher details have higher rendering cost.\nHas a large impact on performance.",
+    "target_vi": "Mức chi tiết địa hình theo khoảng cách thu phóng.\nChi tiết càng cao càng ngốn phần cứng.\nẢnh hưởng lớn đến hiệu năng.",
+    "context": "settings | Row 2205",
+    "offset": 105718,
+    "length": 138
+  },
+  {
+    "id": 2206,
+    "key": "settings.terraingrassdensity.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "How far away grass and other props will stop rendering.\nHas a large impact on performance.",
+    "target_vi": "Khoảng cách ngừng kết xuất cỏ và chi tiết phụ.\nẢnh hưởng lớn đến hiệu năng.",
+    "context": "settings | Row 2206",
+    "offset": 105870,
+    "length": 91
+  },
+  {
+    "id": 2210,
+    "key": "tooltip.heat.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggles heat visualization mode. Areas in blue are dangerously cold. ",
+    "target_vi": "Bật/tắt chế độ xem nhiệt độ. Vùng màu xanh dương là nơi lạnh buốt nguy hiểm.",
+    "context": "tooltip | Row 2210",
+    "offset": 106170,
+    "length": 70
+  },
+  {
+    "id": 2211,
+    "key": "tooltip.pollution.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggles pollution checker. Above 10% Whiskers will start complaining. Higher values will cause debuffs.",
+    "target_vi": "Bật/tắt xem mức ô nhiễm. Trên 10% bà con chuột sẽ bắt đầu phàn nàn. Ô nhiễm cao hơn sẽ làm giảm hiệu suất làm việc.",
+    "context": "tooltip | Row 2211",
+    "offset": 106254,
+    "length": 104
+  },
+  {
+    "id": 2212,
+    "key": "tooltip.bulldoze.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggles bulldoze mode. Click and hold to delete unwanted structures. Items inside warehouses will be lost. Constructions materials will be partially refunded.",
+    "target_vi": "Bật/tắt chế độ phá dỡ. Nhấn giữ để dỡ bỏ công trình. Hàng trong kho sẽ mất, vật liệu xây dựng được hoàn lại một phần.",
+    "context": "tooltip | Row 2212",
+    "offset": 106372,
+    "length": 159
+  },
+  {
+    "id": 2220,
+    "key": "action.disableAllInputs_global",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Global Default Disable",
+    "target_vi": "Mặc Định Toàn Cầu: Ngắt Nhận Hàng",
+    "context": "action | Row 2220",
+    "offset": 106898,
+    "length": 23
+  },
+  {
+    "id": 2221,
+    "key": "action.disableAllInputs_global.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "All new warehouses will disable inputs upon completion",
+    "target_vi": "Mọi kho hàng mới xây xong sẽ tự động ngắt nhận hàng vào",
+    "context": "action | Row 2221",
+    "offset": 106935,
+    "length": 55
+  },
+  {
+    "id": 2222,
+    "key": "toolbar.workoverview",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Work Overview",
+    "target_vi": "Tổng Quan Công Việc",
+    "context": "toolbar | Row 2222",
+    "offset": 107004,
+    "length": 14
+  },
+  {
+    "id": 2244,
+    "key": "settings.keybind.fishView",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Toggle Fish View",
+    "target_vi": "Xem Bãi Cá",
+    "context": "settings | Row 2244",
+    "offset": 108208,
+    "length": 17
+  },
+  {
+    "id": 2245,
+    "key": "tooltip.fish.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Shows Fish Stocks. An overlay displaying the ocean's fish population.",
+    "target_vi": "Hiển thị trữ lượng cá ngoài biển quanh đảo.",
+    "context": "tooltip | Row 2245",
+    "offset": 108239,
+    "length": 70
+  },
+  {
+    "id": 2265,
+    "key": "error.cantFindPathForRoute",
+    "category": "01_Core_UI_Menus",
+    "source_en": "No valid path between docks",
+    "target_vi": "Không tìm thấy đường đi hợp lệ giữa hai bến cảng",
+    "context": "error | Row 2265",
+    "offset": 109034,
+    "length": 28
+  },
+  {
+    "id": 2266,
+    "key": "error.routeAlreadyAssigned",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Route already assigned",
+    "target_vi": "Tuyến đường này đã có tàu phụ trách",
+    "context": "error | Row 2266",
+    "offset": 109076,
+    "length": 23
+  },
+  {
+    "id": 2271,
+    "key": "error.notOceanNavigable",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Not ocean accessible",
+    "target_vi": "Không thể thông ra biển lớn",
+    "context": "error | Row 2271",
+    "offset": 109266,
+    "length": 21
+  },
+  {
+    "id": 2272,
+    "key": "action.forbidWarehouseDining",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Forbid Warehouse Dining",
+    "target_vi": "Cấm Ăn Vụng Trong Kho",
+    "context": "action | Row 2272",
+    "offset": 109301,
+    "length": 24
+  },
+  {
+    "id": 2273,
+    "key": "action.forbidWarehouseDining.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "If enabled, Whiskers will never attempt to eat directly from warehouses.  Make sure there are sufficient places to eat and drink!",
+    "target_vi": "Nếu bật, bà con chuột sẽ không bao giờ ăn vụng trực tiếp trong kho. Hãy đảm bảo xây đủ nơi ăn uống cho cả làng!",
+    "context": "action | Row 2273",
+    "offset": 109339,
+    "length": 130
+  },
+  {
+    "id": 2283,
+    "key": "settings.keybind.terraformTool",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Terraform Tool",
+    "target_vi": "San Nền",
+    "context": "settings | Row 2283",
+    "offset": 109802,
+    "length": 15
+  },
+  {
+    "id": 2288,
+    "key": "settings.keybind.copySettings",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Copy Settings",
+    "target_vi": "Sao Chép Cài Đặt",
+    "context": "settings | Row 2288",
+    "offset": 109955,
+    "length": 14
+  },
+  {
+    "id": 2291,
+    "key": "settings.keybind.pasteSettings",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Paste Settings",
+    "target_vi": "Dán Cài Đặt",
+    "context": "settings | Row 2291",
+    "offset": 110072,
+    "length": 15
+  },
+  {
+    "id": 2379,
+    "key": "action.recallShip",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Recall Ship",
+    "target_vi": "Gọi Tàu Quay Về",
+    "context": "action | Row 2379",
+    "offset": 113152,
+    "length": 12
+  },
+  {
+    "id": 2380,
+    "key": "tooltip.shipStorage",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ship Hold",
+    "target_vi": "Khoang Hàng Của Tàu",
+    "context": "tooltip | Row 2380",
+    "offset": 113178,
+    "length": 10
+  },
+  {
+    "id": 2381,
+    "key": "tooltip.shipStorage.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Cargo currently in ship's hold",
+    "target_vi": "Hàng hóa hiện đang nằm trong khoang tàu",
+    "context": "tooltip | Row 2381",
+    "offset": 113202,
+    "length": 31
+  },
+  {
+    "id": 2382,
+    "key": "tooltip.dockStorage",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Dock Cargo",
+    "target_vi": "Hàng Tại Bến Cảng",
+    "context": "tooltip | Row 2382",
+    "offset": 113247,
+    "length": 11
+  },
+  {
+    "id": 2383,
+    "key": "tooltip.dockStorage.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Cargo at dock awaiting delivery to warehouses",
+    "target_vi": "Hàng hóa tại bến cảng đang chờ chuyển về kho tổng",
+    "context": "tooltip | Row 2383",
+    "offset": 113272,
+    "length": 46
+  },
+  {
+    "id": 2499,
+    "key": "error.shipassign.shipneedsRepair",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Needs repair to reassign",
+    "target_vi": "Cần sửa chữa tàu trước khi phân công lại",
+    "context": "error | Row 2499",
+    "offset": 116621,
+    "length": 25
+  },
+  {
+    "id": 2500,
+    "key": "error.shipassign.shipneedsUnloading",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Ship needs cargo unloaded",
+    "target_vi": "Tàu cần dỡ sạch hàng hóa trước",
+    "context": "error | Row 2500",
+    "offset": 116660,
+    "length": 26
+  },
+  {
+    "id": 2516,
+    "key": "error.cantBulldozeWhileShipAssigned",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Can't remove dock with assigned ship",
+    "target_vi": "Không thể dỡ bến cảng khi vẫn còn tàu neo đậu",
+    "context": "error | Row 2516",
+    "offset": 117359,
+    "length": 37
+  },
+  {
+    "id": 2551,
+    "key": "action.copyToAllTowers",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Shared ammunition orders",
+    "target_vi": "Đồng Bộ Yêu Cầu Đạn Dược",
+    "context": "action | Row 2551",
+    "offset": 119147,
+    "length": 25
+  },
+  {
+    "id": 2552,
+    "key": "action.copyToAllTowers.tooltip",
+    "category": "01_Core_UI_Menus",
+    "source_en": "All towers will request the same ammunition counts",
+    "target_vi": "Tất cả các tháp canh sẽ yêu cầu lượng đạn dược giống nhau",
+    "context": "action | Row 2552",
+    "offset": 119186,
+    "length": 51
+  },
+  {
+    "id": 2558,
+    "key": "error.overlapsdockingspace",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Overlaps other reserved docking area",
+    "target_vi": "Bị trùng với vùng neo đậu khác",
+    "context": "error | Row 2558",
+    "offset": 119534,
+    "length": 37
+  },
+  {
+    "id": 2559,
+    "key": "error.insufficientdockingspace",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Not enough clear space for ships",
+    "target_vi": "Không đủ khoảng trống để tàu cập bến",
+    "context": "error | Row 2559",
+    "offset": 119585,
+    "length": 33
+  },
+  {
+    "id": 2583,
+    "key": "action.changeTradePartner",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Choose Trade Partner",
+    "target_vi": "Chọn Đối Tác Giao Thương",
+    "context": "action | Row 2583",
+    "offset": 120627,
+    "length": 21
+  },
+  {
+    "id": 2588,
+    "key": "action.clearIncompatibleRequests",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Cancel Incompatible requests",
+    "target_vi": "Hủy Yêu Cầu Không Phù Hợp",
+    "context": "action | Row 2588",
+    "offset": 120818,
+    "length": 29
+  },
+  {
+    "id": 2594,
+    "key": "action.quickRepair",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Quick Repairs",
+    "target_vi": "Sửa Chữa Nhanh",
+    "context": "action | Row 2594",
+    "offset": 121002,
+    "length": 14
+  },
+  {
+    "id": 2595,
+    "key": "notif.noShipSchematics",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Stormie's ship has been repaired. This temporary dock can now be deconstructed",
+    "target_vi": "Tàu của Stormie đã sửa xong. Bến cảng tạm này giờ có thể tháo dỡ",
+    "context": "notif | Row 2595",
+    "offset": 121030,
+    "length": 79
+  },
+  {
+    "id": 2596,
+    "key": "notif.noShipSchematics.hint",
+    "category": "01_Core_UI_Menus",
+    "source_en": "The Pirates might provide schematics for a real shipyard with some golden persuasion",
+    "target_vi": "Bọn hải tặc có thể cung cấp bản thiết kế xưởng đóng tàu thật nếu có chút vàng lót tay",
+    "context": "notif | Row 2596",
+    "offset": 121123,
+    "length": 85
+  },
+  {
+    "id": 2619,
+    "key": "notif.schematicObtained",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Schematic obtained",
+    "target_vi": "Đã Nhận Bản Thiết Kế",
+    "context": "notif | Row 2619",
+    "offset": 122077,
+    "length": 19
+  },
+  {
+    "id": 2689,
+    "key": "notif.stolenShip",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Stormie has absconded with your newly constructed ship!",
+    "target_vi": "Stormie đã chuồn mất cùng con tàu mới đóng của bạn rồi!",
+    "context": "notif | Row 2689",
+    "offset": 134678,
+    "length": 56
+  },
+  {
+    "id": 2714,
+    "key": "action.scuttleShip",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Scuttle Ship",
+    "target_vi": "Đánh Đắm Tàu",
+    "context": "action | Row 2714",
+    "offset": 135770,
+    "length": 13
+  },
+  {
+    "id": 2715,
+    "key": "action.scuttleShip.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Permenantly destroys ship",
+    "target_vi": "Phá hủy vĩnh viễn con tàu",
+    "context": "action | Row 2715",
+    "offset": 135797,
+    "length": 26
+  },
+  {
+    "id": 2746,
+    "key": "notif.newResearchUnlocked",
+    "category": "01_Core_UI_Menus",
+    "source_en": "New Schematics are available for research",
+    "target_vi": "Có Bản Thiết Kế Mới Để Nghiên Cứu",
+    "context": "notif | Row 2746",
+    "offset": 137084,
+    "length": 42
+  },
+  {
+    "id": 2747,
+    "key": "notif.newResearchUnlocked.desc",
+    "category": "01_Core_UI_Menus",
+    "source_en": "With the Pirate's schematics in hand, your Whiskers feel a spark of inspiration",
+    "target_vi": "Với bản thiết kế của hải tặc trong tay, bà con nhà chuột tràn đầy cảm hứng sáng tạo",
+    "context": "notif | Row 2747",
+    "offset": 137140,
+    "length": 80
+  },
+  {
+    "id": 2749,
+    "key": "notif.newResearchUnlocked.descGeneric",
+    "category": "01_Core_UI_Menus",
+    "source_en": "Your Whiskers are filled with new inspiration",
+    "target_vi": "Bà con nhà chuột tràn ngập cảm hứng sáng chế mới",
+    "context": "notif | Row 2749",
+    "offset": 137295,
+    "length": 46
+  }
+]

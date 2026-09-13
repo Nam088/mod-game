@@ -1,0 +1,1180 @@
+[000] KEY: toolbar.paths
+EN: Paths
+---
+[001] KEY: toolbar.utilities
+EN: Heat & Utilities
+---
+[002] KEY: toolbar.housing
+EN: Housing
+---
+[003] KEY: toolbar.services
+EN: Services
+---
+[004] KEY: toolbar.research
+EN: Research
+---
+[005] KEY: toolbar.bulldoze
+EN: Bulldoze
+---
+[006] KEY: toolbar.aim
+EN: Belts
+---
+[007] KEY: toolbar.minetool
+EN: Mine Tool
+---
+[008] KEY: toolbar.logistics
+EN: Storage & Belts
+---
+[009] KEY: toolbar.industry
+EN: Extraction & Industry
+---
+[010] KEY: toolbar.harvesttool
+EN: Forage Priority
+---
+[011] KEY: pause.resume
+EN: Resume
+---
+[012] KEY: pause.save
+EN: Save
+---
+[013] KEY: pause.load
+EN: Load
+---
+[014] KEY: pause.quitmainmenu
+EN: Main Menu
+---
+[015] KEY: pause.quitdesktop
+EN: Quit
+---
+[016] KEY: pause.editmapeditor
+EN: Edit in Map Editor
+---
+[017] KEY: pause.music
+EN: Music
+---
+[018] KEY: toolbar.farmTool
+EN: Farm Tool
+---
+[019] KEY: toolbar.menu
+EN: Menu
+---
+[020] KEY: toolbar.foodProcessing
+EN: Food Processing
+---
+[021] KEY: settings.title
+EN: Settings
+---
+[022] KEY: settings.resetdefault
+EN: Reset to Default
+---
+[023] KEY: settings.resetdefaultkeybind
+EN: Reset Keybinds
+---
+[024] KEY: settings.graphics
+EN: Graphics
+---
+[025] KEY: settings.gameplay
+EN: Gameplay
+---
+[026] KEY: settings.audio
+EN: Audio
+---
+[027] KEY: settings.language
+EN: Language
+---
+[028] KEY: settings.a.master
+EN: Master
+---
+[029] KEY: settings.a.ambient
+EN: Ambient
+---
+[030] KEY: settings.a.music
+EN: Music
+---
+[031] KEY: settings.a.sfx
+EN: SFX
+---
+[032] KEY: settings.g.vsync
+EN: VSync
+---
+[033] KEY: settings.g.resolution
+EN: Resolution
+---
+[034] KEY: settings.g.dynres
+EN: Dynamic Resolution
+---
+[035] KEY: settings.g.vfxq
+EN: VFX & Weather Quality
+---
+[036] KEY: settings.g.textureq
+EN: Texture Quality
+---
+[037] KEY: settings.g.shadowq
+EN: Shadow Quality
+---
+[038] KEY: settings.g.ppq
+EN: Post-Process Quality
+---
+[039] KEY: settings.g.effectsq
+EN: Effects Quality
+---
+[040] KEY: settings.g.fullscreen
+EN: Screen Mode
+---
+[041] KEY: settings.g.terrainres
+EN: Terrain Detail
+---
+[042] KEY: settings.fullscreen
+EN: Fullscreen
+---
+[043] KEY: settings.windowedfullscreen
+EN: Windowed Fullscreen
+---
+[044] KEY: settings.windowed
+EN: Windowed
+---
+[045] KEY: settings.confirmupgrade
+EN: Industry Upgrade Confirm Dialog
+---
+[046] KEY: settings.confirmsell
+EN: Train Salvage Confirm Dialog
+---
+[047] KEY: settings.controller
+EN: Gamepad Hints
+---
+[048] KEY: settings.g.fpsmax
+EN: Max FPS
+---
+[049] KEY: menu.settings
+EN: Settings
+---
+[050] KEY: settings.a.ui
+EN: UI
+---
+[051] KEY: settings.g.discreteRotation
+EN: Discrete Camera Rotation
+---
+[052] KEY: toolbar.navigation
+EN: Paths & Walking
+---
+[053] KEY: toolbar.resourceExtractors
+EN: Resource Extraction
+---
+[054] KEY: toolbar.production
+EN: Factories
+---
+[055] KEY: toolbar.domestic
+EN: Home & Services
+---
+[056] KEY: toolbar.markingTools
+EN: Resource Marking
+---
+[057] KEY: toolbar.glossary
+EN: Glossary
+---
+[058] KEY: toolbar.pathdecoratives
+EN: Path Decorations
+---
+[059] KEY: toolbar.priorityTool
+EN: Chop Priority
+---
+[060] KEY: toolbar.civic
+EN: Government
+---
+[061] KEY: toolbar.decor
+EN: Decorations
+---
+[062] KEY: toolbar.water
+EN: Water Structures
+---
+[063] KEY: toolbar.steam
+EN: Steam Structures
+---
+[064] KEY: menu.newcolony
+EN: New Game
+---
+[065] KEY: menu.loadcolony
+EN: Load Game
+---
+[066] KEY: menu.leveleditor
+EN: Level Editor
+---
+[067] KEY: menu.credits
+EN: Credits
+---
+[068] KEY: menu.quit
+EN: Quit
+---
+[069] KEY: menu.back
+EN: Back
+---
+[070] KEY: toolbar.construction
+EN: Construction
+---
+[071] KEY: toolbar.whiskerview
+EN: Colony Office
+---
+[072] KEY: toolbar.clawsview
+EN: Tax Report
+---
+[073] KEY: toolbar.policies
+EN: Policies Board
+---
+[074] KEY: toolbar.researchBuildings
+EN: Research
+---
+[075] KEY: toolbar.storedResources
+EN: Total Resources
+---
+[076] KEY: menu.map
+EN: Map
+---
+[077] KEY: menu.delete
+EN: Delete
+---
+[078] KEY: menu.load
+EN: Load
+---
+[079] KEY: menu.loadfiles
+EN: Load Files
+---
+[080] KEY: action.pauseconstruction
+EN: Pause Construction
+---
+[081] KEY: action.resumeConstruction
+EN: Resume Construction
+---
+[082] KEY: action.setHighPriority
+EN: Set High Priority
+---
+[083] KEY: action.setLowPriority
+EN: Set Low Priority
+---
+[084] KEY: error.blocked
+EN: Placement blocked.
+---
+[085] KEY: error.notOverWater
+EN: Requires water access.
+---
+[086] KEY: error.needMoreSpace
+EN: Need more unobstructed waters around dock.
+---
+[087] KEY: error.notSeaLevel
+EN: Requires sea level.
+---
+[088] KEY: error.underwater
+EN: Underwater!
+---
+[089] KEY: error.notShore
+EN: Requires shoreline.
+---
+[090] KEY: error.notgrounded
+EN: Requires solid ground.
+---
+[091] KEY: error.blockedEntrances
+EN: Entryway being blocked!
+---
+[092] KEY: error.notaffordable
+EN: Not enough resources.
+---
+[093] KEY: error.toodeep
+EN: Too deep to mine!
+---
+[094] KEY: error.alreadyLivesHere
+EN: Already lives here!
+---
+[095] KEY: error.alreadyWorksHere
+EN: Already works here!
+---
+[096] KEY: notif.newWhiskers
+EN: New Whiskers Accepted
+---
+[097] KEY: notif.assigned
+EN: Assigned!
+---
+[098] KEY: notif.whiskerShipScheduled
+EN: Whisker ship dispatched
+---
+[099] KEY: notif.piratesDeparting
+EN: Pirates departing
+---
+[100] KEY: notif.suppliesAccepted
+EN: Supplies accepted
+---
+[101] KEY: notif.suppliesRejected
+EN: Supplies rejected!
+---
+[102] KEY: notif.taxesPaid
+EN: Payment accepted; tax ship departing
+---
+[103] KEY: notif.whiskerRefuses
+EN: Whisker refuses to cooperate!
+---
+[104] KEY: action.assignJumpPadDestination
+EN: Set Destination
+---
+[105] KEY: action.closeValve
+EN: Close Valve
+---
+[106] KEY: action.openValve
+EN: Open Valve
+---
+[107] KEY: toolbar.trains
+EN: Railroad
+---
+[108] KEY: error.railRequired
+EN: Place on track.
+---
+[109] KEY: error.onetrain
+EN: Only one cart per rail!
+---
+[110] KEY: action.moveCamp
+EN: Move
+---
+[111] KEY: action.upgrade
+EN: Upgrade
+---
+[112] KEY: action.changeRecipe
+EN: Change Recipe
+---
+[113] KEY: action.assignInputSources
+EN: Set Sources
+---
+[114] KEY: action.assignOutputDestinations
+EN: Set Destinations
+---
+[115] KEY: toolbar.nautical
+EN: Navy & Ships
+---
+[116] KEY: action.enact
+EN: Enact
+---
+[117] KEY: action.abolish
+EN: Abolish
+---
+[118] KEY: action.unlock
+EN: Unlock
+---
+[119] KEY: action.requestWhiskers
+EN: Request additional Whiskers
+---
+[120] KEY: error.alreadySentWhiskers
+EN: Whiskers inbound
+---
+[121] KEY: tooltip.desc.requestWhiskers
+EN: Request an unscheduled batch of Whiskers.
+---
+[122] KEY: action.assignFreeShip
+EN: Assign New Ship
+---
+[123] KEY: action.gotoship
+EN: Go to Ship
+---
+[124] KEY: toolbar.priorityTool.harvest
+EN: Forage Priority
+---
+[125] KEY: tooltip.title.gifts
+EN: Gift from the King
+---
+[126] KEY: tooltip.desc.gifts
+EN: The Claws will dispatch some free supplies for your additional payments.
+---
+[127] KEY: action.delivernow
+EN: Deliver Now
+---
+[128] KEY: action.deliverPending
+EN: Pending
+---
+[129] KEY: error.mustbeempty
+EN: Must be empty.
+---
+[130] KEY: action.deliverNow.desc
+EN: Prioritize delivering current resources to storage
+---
+[131] KEY: settings.g.holdToBulldoze
+EN: Hold to confirm bulldoze
+---
+[132] KEY: action.startnewday
+EN: Start new day
+---
+[133] KEY: notif.toolsReplaced
+EN: Machinery Replaced
+---
+[134] KEY: notif.emergencyRepairs
+EN: Emergency Repairs
+---
+[135] KEY: notif.productionFailed
+EN: Production Failed!
+---
+[136] KEY: notif.refusedOvertime
+EN: Refused Double-time
+---
+[137] KEY: notif.sleepinghere
+EN: Hey, we're sleeping here!
+---
+[138] KEY: aa.quality.auto
+EN: Auto
+---
+[139] KEY: aa.quality.ultraperformance
+EN: Ultra Performance
+---
+[140] KEY: aa.quality.performance
+EN: Performance
+---
+[141] KEY: aa.quality.balanced
+EN: Balanced
+---
+[142] KEY: aa.quality.quality
+EN: Quality
+---
+[143] KEY: aa.quality.ultraquality
+EN: Ultra Quality
+---
+[144] KEY: aa.quality.antialiasing
+EN: Anti-Aliasing
+---
+[145] KEY: aa.quality.nativeaa
+EN: Native AA
+---
+[146] KEY: settings.g.sharpness
+EN: Sharpness
+---
+[147] KEY: settings.g.aa
+EN: Anti-Aliasing
+---
+[148] KEY: settings.g.mode.dlss
+EN: DLSS Mode
+---
+[149] KEY: settings.g.mode.fsr
+EN: FSR Mode
+---
+[150] KEY: settings.g.mode.xess
+EN: XeSS Mode
+---
+[151] KEY: aa.noaa
+EN: No AA
+---
+[152] KEY: aa.quality.ultraqualityplus
+EN: Ultra Quality+
+---
+[153] KEY: menu.nosaves
+EN: No saves present
+---
+[154] KEY: settings.g.unlimited
+EN: Unlimited
+---
+[155] KEY: settings.g.showfps
+EN: Show FPS
+---
+[156] KEY: settings.dpiscale
+EN: UI Scaling
+---
+[157] KEY: action.acceptDefeat
+EN: Recoup losses and depart
+---
+[158] KEY: action.unloadSupplies
+EN: Unload Supplies
+---
+[159] KEY: action.unloadCrew
+EN: Bring Whiskers ashore
+---
+[160] KEY: action.signCharter
+EN: Sign Charter
+---
+[161] KEY: action.manageWhiskers
+EN: Manage Whisker Assignments
+---
+[162] KEY: error.blockedterrain
+EN: Position is underground.
+---
+[163] KEY: action.turninquest
+EN: Complete Quest
+---
+[164] KEY: menu.compilingshaders
+EN: Precaching Shaders
+---
+[165] KEY: toolbar.questlog
+EN: Quest Log
+---
+[166] KEY: menu.discord
+EN: Discord
+---
+[167] KEY: menu.support
+EN: Support
+---
+[168] KEY: menu.autosave
+EN: Autosave
+---
+[169] KEY: menu.population
+EN: Population
+---
+[170] KEY: menu.playtime
+EN: Play time
+---
+[171] KEY: tooltip.freebuilders
+EN: Construction Workers
+---
+[172] KEY: tooltip.freebuilders.desc
+EN: Whiskers without other duties will work on pending construction sites.
+---
+[173] KEY: tooltip.totalPopulation
+EN: Total Whiskers
+---
+[174] KEY: tooltip.totalFood
+EN: Total edible food
+---
+[175] KEY: action.EndDay
+EN: Press to end day.
+---
+[176] KEY: tooltip.locked
+EN: Locked
+---
+[177] KEY: tooltip.requiresTechnology
+EN: Requires Schematic
+---
+[178] KEY: tooltip.requiresOther
+EN: Requires Schematic
+---
+[179] KEY: error.badlandingpos
+EN: Improper landing position.
+---
+[180] KEY: toolbar.masonry
+EN: Masonry
+---
+[181] KEY: action.pauseWork
+EN: Pause Work
+---
+[182] KEY: action.replaceWorker
+EN: Replace Worker
+---
+[183] KEY: action.doubletime
+EN: Overtime
+---
+[184] KEY: action.doubletime.desc
+EN: Boosts workers until tomorrow.
+
+Workers will keep working through the night.
+---
+[185] KEY: action.refuseSupplies
+EN: Refuse supplies
+---
+[186] KEY: action.unassignCurrentWhisker
+EN: Unassign current Whisker
+---
+[187] KEY: action.requestDifferentWhiskers
+EN: Request different group
+---
+[188] KEY: error.noAvailableWhiskers
+EN: No available Whiskers.
+---
+[189] KEY: tooltip.trust
+EN: Claws Trust
+---
+[190] KEY: tooltip.trust.desc
+EN: How happy the claws are with your current performance.
+---
+[191] KEY: action.assign.home
+EN: Assign Home
+---
+[192] KEY: action.assign.home.desc
+EN: Assign Whisker to live in a specific home
+---
+[193] KEY: action.assign.work
+EN: Assign Work
+---
+[194] KEY: action.assign.work.desc
+EN: Assign Whisker to a workplace
+---
+[195] KEY: action.pickupWhisker
+EN: Pick up Whisker
+---
+[196] KEY: action.pickupWhisker.desc
+EN: Pick up and move Whisker. Disorienting!
+---
+[197] KEY: tooltip.guildspecialty.title
+EN: Guild Specialty
+---
+[198] KEY: tooltip.guildspecialty.desc
+EN: Workers from this guild gain a work speed bonus.
+---
+[199] KEY: action.heater.autopause
+EN: Auto-pause
+---
+[200] KEY: action.heater.autopause.desc
+EN: Pause automatically when ambient temperature is already warm.
+---
+[201] KEY: tooltip.needFiretender
+EN: Build a Fire Tender to deliver fuel
+---
+[202] KEY: action.heater.overdrive
+EN: Overdrive
+---
+[203] KEY: action.heater.overdrive.desc
+EN: Doubles fuel consumption for a moderate boost in heat.
+---
+[204] KEY: action.enable
+EN: Enable
+---
+[205] KEY: action.disable
+EN: Disable
+---
+[206] KEY: action.markForRebuild
+EN: Mark for Rebuild
+---
+[207] KEY: action.quickRebuild
+EN: Quick rebuild
+---
+[208] KEY: hoverNotif.occupied
+EN: Occupied
+---
+[209] KEY: hoverNotif.blockedEdge
+EN: Unreachable
+---
+[210] KEY: hoverNotif.noValidStorage
+EN: No storage destination
+---
+[211] KEY: hoverNotif.noValidHarvestable
+EN: No resource in range
+---
+[212] KEY: hoverNotif.repairNeeded
+EN: Machinery needs replacement!
+---
+[213] KEY: hoverNotif.noWorkers
+EN: No workers assigned
+---
+[214] KEY: hoverNotif.constructionMissingResources
+EN: Can't find material
+---
+[215] KEY: hoverNotif.nofuel
+EN: No fuel
+---
+[216] KEY: hoverNotif.disabled
+EN: Disabled
+---
+[217] KEY: hoverNotif.noSteam
+EN: No steam
+---
+[218] KEY: hoverNotif.noWater
+EN: No water
+---
+[219] KEY: hoverNotif.constructionPaused
+EN: Construction paused
+---
+[220] KEY: hoverNotif.highPriority
+EN: High priority
+---
+[221] KEY: hoverNotif.cantReachHome
+EN: Can't reach home
+---
+[222] KEY: hoverNotif.cantReachWork
+EN: Can't reach workplace
+---
+[223] KEY: hoverNotif.noResourcesEnabled
+EN: All Resources disabled
+---
+[224] KEY: hoverNotif.overtime
+EN: Double-time active
+---
+[225] KEY: hoverNotif.noConstructionWorkers
+EN: No available builders
+---
+[226] KEY: hoverNotif.longPath
+EN: Walking extremely far
+---
+[227] KEY: hoverNotif.noMinesNearby
+EN: No mineshafts marked nearby
+---
+[228] KEY: hoverNotif.noRecipe
+EN: No Recipe Set
+---
+[229] KEY: hoverNotif.SafetyOverride
+EN: Safety overridden
+---
+[230] KEY: notif.noAvailableWhiskers
+EN: No Available Whiskers!
+---
+[231] KEY: menu.date
+EN: Date
+---
+[232] KEY: action.neverShowAgain
+EN: Do not show again
+---
+[233] KEY: action.toggleResource
+EN: Toggle Resource
+---
+[234] KEY: action.toggleResource.desc
+EN: Workers will only gather checked resources.
+---
+[235] KEY: tooltip.slice.desc
+EN: Hides all terrain and buildings above the cursor height.
+---
+[236] KEY: tooltip.moveCamp
+EN: Move structure to new location
+---
+[237] KEY: action.fillBlock
+EN: Fill Terrain
+---
+[238] KEY: notif.newSchematic
+EN: New Schematic!
+---
+[239] KEY: action.pirates.refuseCooperation
+EN: Refuse Cooperation
+---
+[240] KEY: action.pirates.sendPartial
+EN: Send Partial Ransom
+---
+[241] KEY: action.pirates.sendFull
+EN: Send Full Ransom
+---
+[242] KEY: settings.keybinds
+EN: Keybinds
+---
+[243] KEY: settings.header.camera
+EN: Camera
+---
+[244] KEY: settings.action.resetSettings
+EN: Reset to default
+---
+[245] KEY: settings.action.resetKeybinds
+EN: Reset bindings
+---
+[246] KEY: settings.header.basic
+EN: Basic
+---
+[247] KEY: settings.keybind.LeftClick
+EN: Select
+---
+[248] KEY: settings.keybind.RightClick
+EN: Back or Cancel
+---
+[249] KEY: settings.keybind.pausemenu
+EN: Pause Menu
+---
+[250] KEY: settings.keybind.Up
+EN: Increase Height
+---
+[251] KEY: settings.keybind.Down
+EN: Decrease Height
+---
+[252] KEY: settings.keybind.tabLeft
+EN: Tab Left
+---
+[253] KEY: settings.keybind.tabRight
+EN: Tab Right
+---
+[254] KEY: settings.keybind.pause
+EN: Pause / Unpause
+---
+[255] KEY: settings.keybind.speed_1x
+EN: 1x Speed
+---
+[256] KEY: settings.keybind.speed_2x
+EN: 2x Speed
+---
+[257] KEY: settings.keybind.speed_4x
+EN: 3x Speed
+---
+[258] KEY: settings.keybind.PanUp_Keyboard.0
+EN: Move Back
+---
+[259] KEY: settings.keybind.PanUp_Keyboard.1
+EN: Move Forward
+---
+[260] KEY: settings.keybind.PanRight_Keyboard.0
+EN: Move Left
+---
+[261] KEY: settings.keybind.PanRight_Keyboard.1
+EN: Move Right
+---
+[262] KEY: settings.keybind.Pan
+EN: Quick Pan
+---
+[263] KEY: settings.keybind.slice
+EN: Toggle Slice View
+---
+[264] KEY: settings.keybind.toggleHeatOverlay
+EN: Toggle Heat View
+---
+[265] KEY: settings.header.other
+EN: Other
+---
+[266] KEY: settings.keybind.rotateCursor
+EN: Rotate Cursor
+---
+[267] KEY: settings.keybind.clone
+EN: Clone
+---
+[268] KEY: settings.keybind.OpenEventQueue
+EN: View Messages
+---
+[269] KEY: settings.keybind.moveBuilding
+EN: Move Structure
+---
+[270] KEY: settings.keybind.resetZ
+EN: Lock / Unlock Cursor Height
+---
+[271] KEY: settings.keybind.fastHeightChange
+EN: Quick Scroll Height
+---
+[272] KEY: settings.defaultBinding
+EN: Default Binding
+---
+[273] KEY: settings.pressKeyToRebind
+EN: Press key to rebind
+---
+[274] KEY: settings.invalidKey
+EN: Unsupported Key
+---
+[275] KEY: settings.keybind.rotCW
+EN: Turn Camera Clockwise
+---
+[276] KEY: settings.keybind.rotCCW
+EN: Turn Camera Counter-Clockwise
+---
+[277] KEY: settings.keybind.rotCamera
+EN: Turn
+---
+[278] KEY: menu.confirmDelete
+EN: Are you sure you want to delete save?
+---
+[279] KEY: settings.action.applyGraphics
+EN: Apply Graphics Changes
+---
+[280] KEY: settings.g.autosave
+EN: Autosave interval
+---
+[281] KEY: menu.resourcesRequired
+EN: Resources Required
+---
+[282] KEY: menu.inbound
+EN: Inbound
+---
+[283] KEY: menu.nomaterials
+EN: Can't find required materials.
+---
+[284] KEY: menu.highprinight
+EN: High Priority + night construction
+---
+[285] KEY: menu.sethightpri
+EN: Set High Priority
+---
+[286] KEY: menu.markrebuild
+EN: Mark for Rebuild
+---
+[287] KEY: menu.choose
+EN: Choose
+---
+[288] KEY: menu.taxpayment
+EN: Tax payment
+---
+[289] KEY: menu.letstalk
+EN: Let us discuss your recent efforts...
+---
+[290] KEY: menu.giftsupplies
+EN: Gift Supplies
+---
+[291] KEY: menu.gain
+EN: Gain
+---
+[292] KEY: menu.saving
+EN: Saving..
+---
+[293] KEY: action.reroll
+EN: Reroll
+---
+[294] KEY: settings.a.voice
+EN: Voice
+---
+[295] KEY: tooltip.lockhousing
+EN: Lock Housing
+---
+[296] KEY: tooltip.lockhousing.desc
+EN: Prevent Whisker from changing houses on their own.
+---
+[297] KEY: hoverNotif.shipBlocking
+EN: Blocked by ship
+---
+[298] KEY: settings.terraindrawdistance
+EN: Terrain Draw Distance
+---
+[299] KEY: settings.terraingrassdensity
+EN: Grass Density
+---
+[300] KEY: error.noMatchingWhiskers
+EN: No matching Whiskers.
+---
+[301] KEY: error.invalidLocation
+EN: Invalid location.
+---
+[302] KEY: action.sendToSea
+EN: Send to sea
+---
+[303] KEY: settings.keybind.minetool
+EN: Mine Tool
+---
+[304] KEY: settings.keybind.farmtool
+EN: Farm Tool
+---
+[305] KEY: menu.quitwarning
+EN: Your progress will be saved to disk.
+---
+[306] KEY: menu.quitdesktopheader
+EN: Quit to Desktop
+---
+[307] KEY: menu.quitmainmenuheader
+EN: Return to Main Menu
+---
+[308] KEY: tooltip.maxlimit
+EN: Max limit
+---
+[309] KEY: tooltip.loseUnsavedChanges
+EN: Lose unsaved changes
+---
+[310] KEY: pause.saveAs
+EN: Save As
+---
+[311] KEY: notif.extraProduction
+EN: Extra Output
+---
+[312] KEY: toolbar.terraformTool
+EN: Earthworks Tool
+---
+[313] KEY: settings.temperature
+EN: Temperature Scale
+---
+[314] KEY: settings.celsius
+EN: Celsius
+---
+[315] KEY: settings.fahrenheit
+EN: Fahrenheit
+---
+[316] KEY: action.selectEducation
+EN: Select Education Target
+---
+[317] KEY: action.selectEducation.desc
+EN: Select the skill that students will learn. Requires a teacher who has already attained that level of education.
+---
+[318] KEY: menu.rebellionsentiment
+EN: Rebellion Fervor
+---
+[319] KEY: menu.rebellionsentiment.desc
+EN: Rebellion Fervor in the colony leads to rumours and murmurs of a future free from the Claws.
+
+Upon hearing such remarks most workers will be inspired and work harder. Monarchists hearing such treason will complain.
+---
+[320] KEY: action.ship.dismiss
+EN: Dismiss Ship
+---
+[321] KEY: action.ship.tradeConfirm
+EN: Accept Trade
+---
+[322] KEY: settings.enableDockCamera
+EN: Enable Dock Camera
+---
+[323] KEY: settings.toggleEdgeScrolling
+EN: Screen Edge Scrolling
+---
+[324] KEY: settings.toggleMouseLocking
+EN: Lock Mouse to Window
+---
+[325] KEY: settings.mousecameracontrols
+EN: Mouse Camera Controls
+---
+[326] KEY: settings.mbbpan
+EN: Pan is Middle & Orbit is Right
+---
+[327] KEY: settings.mbborbit
+EN: Orbit is Middle & Pan is Right
+---
+[328] KEY: error.savefailed
+EN: Error saving game!
+---
+[329] KEY: error.tryagain
+EN: Please try again.
+---
+[330] KEY: action.addWood
+EN: Add wood
+---
+[331] KEY: settings.action.resetToDefault
+EN: Reset Graphics to Default
+---
+[332] KEY: settings.mods
+EN: Mods
+---
+[333] KEY: hoverNotif.noTaskInRange
+EN: No task in range
+---
+[334] KEY: settings.keybind.togglePollutionOverlay
+EN: Toggle Pollution View
+---
+[335] KEY: settings.keybind.quicksave
+EN: Quicksave
+---
+[336] KEY: settings.keybind.BulldozeTool
+EN: Bulldoze
+---
+[337] KEY: action.disableAllInputs
+EN: Disable all inputs
+---
+[338] KEY: action.disableAllInputs.desc
+EN: Completed building will reject all resources until configured
+---
+[339] KEY: error.needsAdmin
+EN: Assign an educated Whisker to enable production limits
+---
+[340] KEY: settings.showblips
+EN: Shown Icons
+---
+[341] KEY: settings.showblips.desc
+EN: Control which icons appear over buildings and Whiskers to communicate status, problems, or events.
+---
+[342] KEY: settings.showblips.all
+EN: All
+---
+[343] KEY: settings.showblips.statusonly
+EN: Status & Problems Only
+---
+[344] KEY: menu.wiki
+EN: Wiki
+---
+[345] KEY: settings.keybind.cycleVariant
+EN: Next Variant
+---
+[346] KEY: settings.keybind.zoomIn
+EN: Zoom In
+---
+[347] KEY: settings.keybind.zoomOut
+EN: Zoom Out
+---
+[348] KEY: tooltip.variants
+EN: Variants
+---
+[349] KEY: settings.terraindrawdistance.desc
+EN: How detailed the terrain will be for a given zoom distance.
+Higher details have higher rendering cost.
+Has a large impact on performance.
+---
+[350] KEY: settings.terraingrassdensity.desc
+EN: How far away grass and other props will stop rendering.
+Has a large impact on performance.
+---
+[351] KEY: tooltip.heat.desc
+EN: Toggles heat visualization mode. Areas in blue are dangerously cold. 
+---
+[352] KEY: tooltip.pollution.desc
+EN: Toggles pollution checker. Above 10% Whiskers will start complaining. Higher values will cause debuffs.
+---
+[353] KEY: tooltip.bulldoze.desc
+EN: Toggles bulldoze mode. Click and hold to delete unwanted structures. Items inside warehouses will be lost. Constructions materials will be partially refunded.
+---
+[354] KEY: action.disableAllInputs_global
+EN: Global Default Disable
+---
+[355] KEY: action.disableAllInputs_global.desc
+EN: All new warehouses will disable inputs upon completion
+---
+[356] KEY: toolbar.workoverview
+EN: Work Overview
+---
+[357] KEY: settings.keybind.fishView
+EN: Toggle Fish View
+---
+[358] KEY: tooltip.fish.desc
+EN: Shows Fish Stocks. An overlay displaying the ocean's fish population.
+---
+[359] KEY: error.cantFindPathForRoute
+EN: No valid path between docks
+---
+[360] KEY: error.routeAlreadyAssigned
+EN: Route already assigned
+---
+[361] KEY: error.notOceanNavigable
+EN: Not ocean accessible
+---
+[362] KEY: action.forbidWarehouseDining
+EN: Forbid Warehouse Dining
+---
+[363] KEY: action.forbidWarehouseDining.desc
+EN: If enabled, Whiskers will never attempt to eat directly from warehouses.  Make sure there are sufficient places to eat and drink!
+---
+[364] KEY: settings.keybind.terraformTool
+EN: Terraform Tool
+---
+[365] KEY: settings.keybind.copySettings
+EN: Copy Settings
+---
+[366] KEY: settings.keybind.pasteSettings
+EN: Paste Settings
+---
+[367] KEY: action.recallShip
+EN: Recall Ship
+---
+[368] KEY: tooltip.shipStorage
+EN: Ship Hold
+---
+[369] KEY: tooltip.shipStorage.desc
+EN: Cargo currently in ship's hold
+---
+[370] KEY: tooltip.dockStorage
+EN: Dock Cargo
+---
+[371] KEY: tooltip.dockStorage.desc
+EN: Cargo at dock awaiting delivery to warehouses
+---
+[372] KEY: error.shipassign.shipneedsRepair
+EN: Needs repair to reassign
+---
+[373] KEY: error.shipassign.shipneedsUnloading
+EN: Ship needs cargo unloaded
+---
+[374] KEY: error.cantBulldozeWhileShipAssigned
+EN: Can't remove dock with assigned ship
+---
+[375] KEY: action.copyToAllTowers
+EN: Shared ammunition orders
+---
+[376] KEY: action.copyToAllTowers.tooltip
+EN: All towers will request the same ammunition counts
+---
+[377] KEY: error.overlapsdockingspace
+EN: Overlaps other reserved docking area
+---
+[378] KEY: error.insufficientdockingspace
+EN: Not enough clear space for ships
+---
+[379] KEY: action.changeTradePartner
+EN: Choose Trade Partner
+---
+[380] KEY: action.clearIncompatibleRequests
+EN: Cancel Incompatible requests
+---
+[381] KEY: action.quickRepair
+EN: Quick Repairs
+---
+[382] KEY: notif.noShipSchematics
+EN: Stormie's ship has been repaired. This temporary dock can now be deconstructed
+---
+[383] KEY: notif.noShipSchematics.hint
+EN: The Pirates might provide schematics for a real shipyard with some golden persuasion
+---
+[384] KEY: notif.schematicObtained
+EN: Schematic obtained
+---
+[385] KEY: notif.stolenShip
+EN: Stormie has absconded with your newly constructed ship!
+---
+[386] KEY: action.scuttleShip
+EN: Scuttle Ship
+---
+[387] KEY: action.scuttleShip.desc
+EN: Permenantly destroys ship
+---
+[388] KEY: notif.newResearchUnlocked
+EN: New Schematics are available for research
+---
+[389] KEY: notif.newResearchUnlocked.desc
+EN: With the Pirate's schematics in hand, your Whiskers feel a spark of inspiration
+---
+[390] KEY: notif.newResearchUnlocked.descGeneric
+EN: Your Whiskers are filled with new inspiration
+---

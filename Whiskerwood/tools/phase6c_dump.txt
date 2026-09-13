@@ -1,0 +1,1426 @@
+[0] ID: 2167 | Key: fieldPriority.only.desc
+EN: Toggle whether farmers will only tend to prioritized fields. When toggled, farmers will idle when there is nothing to do on priority fields, and will not work on other fields.
+VI: 
+
+[1] ID: 2168 | Key: production.productionLimits
+EN: Production Limits
+VI: 
+
+[2] ID: 2169 | Key: production.productionLimit.desc
+EN: Pause production if storage is greater than configured thresholds
+VI: 
+
+[3] ID: 2170 | Key: hovernotif.productionLimit
+EN: Production limit
+VI: 
+
+[4] ID: 2173 | Key: admin.slot
+EN: Assigned Manager
+VI: 
+
+[5] ID: 2174 | Key: admin.hint
+EN: Build a Management Office to manage production limits
+VI: 
+
+[6] ID: 2177 | Key: tag.unlockProductionLimits
+EN: Unlocks Production Limits
+VI: 
+
+[7] ID: 2178 | Key: tag.unlockPolicies
+EN: Unlocks Policies
+VI: 
+
+[8] ID: 2183 | Key: tag.storage_giant
+EN: Massive storage capacity
+VI: 
+
+[9] ID: 2186 | Key: slotdecorative.palisade
+EN: Palisade
+VI: 
+
+[10] ID: 2187 | Key: slotdecorative.ironfence
+EN: Iron Fence
+VI: 
+
+[11] ID: 2188 | Key: slotdecorative.trellis
+EN: Trellis
+VI: 
+
+[12] ID: 2189 | Key: slotdecorative.bushes
+EN: Bushes
+VI: 
+
+[13] ID: 2190 | Key: slotdecorative.candles
+EN: Candles
+VI: 
+
+[14] ID: 2191 | Key: ui.clawtrust
+EN: Claw's trust
+VI: 
+
+[15] ID: 2192 | Key: ui.losingtrustdesc
+EN: Losing all trust risks retaliation
+VI: 
+
+[16] ID: 2193 | Key: ui.worldbonus
+EN: World Bonus
+VI: 
+
+[17] ID: 2194 | Key: ui.effectlasts
+EN: Effect Lasts
+VI: 
+
+[18] ID: 2200 | Key: slotdecorative.mineshaft
+EN: Mineshaft
+VI: 
+
+[19] ID: 2213 | Key: setting.workRange
+EN: Work Radius
+VI: 
+
+[20] ID: 2214 | Key: setting.workRange.desc
+EN: Workers will only search for work within this range.
+
+Does not apply to collecting or storing resources.
+VI: 
+
+[21] ID: 2215 | Key: triage.freezing
+EN: Freezing! Patient recovery halted.
+VI: 
+
+[22] ID: 2216 | Key: hovernotif.buildingStop_freezing
+EN: Too cold to operate!
+VI: 
+
+[23] ID: 2217 | Key: triage.ejectPatients
+EN: Will eject patients
+VI: 
+
+[24] ID: 2237 | Key: hovernotif.noConnectedStorage
+EN: No adjacent storage
+VI: 
+
+[25] ID: 2240 | Key: fishing.successrate
+EN: Historic Catch Rate
+VI: 
+
+[26] ID: 2241 | Key: fishing.wateraccess
+EN: Catchment Area
+VI: 
+
+[27] ID: 2242 | Key: fishing.population
+EN: Fish Stocks
+VI: 
+
+[28] ID: 2246 | Key: inputBinding.fishView
+EN: Fish View
+VI: 
+
+[29] ID: 2249 | Key: hovernotif.nofish
+EN: Low Fish Population
+VI: 
+
+[30] ID: 2250 | Key: raft.noRouteAssigned
+EN: No route assigned!
+VI: 
+
+[31] ID: 2251 | Key: raft.noRouteAssigned.hint
+EN: Assign a route to another dock
+VI: 
+
+[32] ID: 2252 | Key: raft.routeBlocked
+EN: Route Blocked!
+VI: 
+
+[33] ID: 2253 | Key: raft.route.totalRafts
+EN: Total rafts
+VI: 
+
+[34] ID: 2254 | Key: raft.route.raftsInUse
+EN: In Use
+VI: 
+
+[35] ID: 2255 | Key: raft.route.whiskerCount
+EN: Whiskers at sea
+VI: 
+
+[36] ID: 2256 | Key: raft.route.whiskersWaiting
+EN: Whiskers waiting
+VI: 
+
+[37] ID: 2257 | Key: raft.action.assignRoute
+EN: Assign Route
+VI: 
+
+[38] ID: 2258 | Key: raft.action.clearRoute
+EN: Clear Route
+VI: 
+
+[39] ID: 2259 | Key: raft.action.buildNewRaft
+EN: Build New Raft
+VI: 
+
+[40] ID: 2260 | Key: raft.action.fixRoute
+EN: Repair Route
+VI: 
+
+[41] ID: 2261 | Key: raft.storage
+EN: Raft Storage
+VI: 
+
+[42] ID: 2262 | Key: raft.storage.hint
+EN: Increases available rafts for route
+VI: 
+
+[43] ID: 2267 | Key: overlayHint.assignRaftDestination
+EN: Create Route
+VI: 
+
+[44] ID: 2268 | Key: overlayHint.assignRaftDestination.desc
+EN: Pair with a second dock to create a travel route
+VI: 
+
+[45] ID: 2269 | Key: hovernotif.routeBlocked
+EN: Route Blocked
+VI: 
+
+[46] ID: 2270 | Key: hovernotif.dockBlocked
+EN: Docking area blocked
+VI: 
+
+[47] ID: 2280 | Key: slotdecorative.stoneWall
+EN: Stone Wall
+VI: 
+
+[48] ID: 2284 | Key: msg.settingsCopied
+EN: Settings copied
+VI: 
+
+[49] ID: 2285 | Key: msg.settingsPasted
+EN: Settings pasted
+VI: 
+
+[50] ID: 2286 | Key: msg.nothingToPaste
+EN: Nothing to paste
+VI: 
+
+[51] ID: 2287 | Key: msg.pastedSettingsIncompatible
+EN: Incompatible paste
+VI: 
+
+[52] ID: 2289 | Key: copyTooltip.title
+EN: Copy Settings
+VI: 
+
+[53] ID: 2290 | Key: copytooltip.desc
+EN: Save off this building's settings to clipboard
+VI: 
+
+[54] ID: 2292 | Key: pasteTooltip.title
+EN: Paste Settings
+VI: 
+
+[55] ID: 2293 | Key: pasteTooltip.desc
+EN: Paste saved settings to this building
+VI: 
+
+[56] ID: 2294 | Key: heater.turnOnThreshold
+EN: Turn on at:
+VI: 
+
+[57] ID: 2295 | Key: mod.soaked
+EN: Soaking Rain
+VI: 
+
+[58] ID: 2296 | Key: mod.desc.soaked
+EN: Slowed by heavy rainfall with no cover overhead
+VI: 
+
+[59] ID: 2301 | Key: hint.constructionYard
+EN: Workers efficiently cart supplies and build constructions within radius
+VI: 
+
+[60] ID: 2302 | Key: mod.constructionYardWorker
+EN: Construction Yard Worker
+VI: 
+
+[61] ID: 2303 | Key: mod.constructionYardWorker.desc
+EN: Improved construction due to coordination construction foreman
+VI: 
+
+[62] ID: 2308 | Key: debt.cannonballTax
+EN: Cannonfire reimbursement
+VI: 
+
+[63] ID: 2309 | Key: ui.materialstrength
+EN: Material Strength
+VI: 
+
+[64] ID: 2310 | Key: ui.materialstrength.desc
+EN: Level of destructive power that can be resisted
+VI: 
+
+[65] ID: 2311 | Key: ui.destructivepower
+EN: Destructive Power
+VI: 
+
+[66] ID: 2312 | Key: navy.actionmenu
+EN: Command
+VI: 
+
+[67] ID: 2327 | Key: tier.0
+EN: Research Tier Basic
+VI: 
+
+[68] ID: 2345 | Key: ui.crewPresent
+EN: Crew Present
+VI: 
+
+[69] ID: 2346 | Key: ui.courage
+EN: Courage
+VI: 
+
+[70] ID: 2350 | Key: whiskeractivity.atSea
+EN: At Sea
+VI: 
+
+[71] ID: 2351 | Key: whiskeractivity.idleAtDock
+EN: Idle at Dock
+VI: 
+
+[72] ID: 2384 | Key: dock.departureChecklist
+EN: Departure Checklist
+VI: 
+
+[73] ID: 2385 | Key: dock.noShipAssigned
+EN: No Ship Assigned
+VI: 
+
+[74] ID: 2386 | Key: dock.noShipAssigned.desc
+EN: Build a ship at a Shipyard and assign it here
+VI: 
+
+[75] ID: 2390 | Key: dock.shipPreparing
+EN: Awaiting Supplies
+VI: 
+
+[76] ID: 2391 | Key: dock.shipNeedsRepair
+EN: Needs Repair
+VI: 
+
+[77] ID: 2392 | Key: dock.shipDeparting
+EN: Ship Departing
+VI: 
+
+[78] ID: 2393 | Key: dock.shipDestroyed
+EN: Ship Destroyed!
+VI: 
+
+[79] ID: 2394 | Key: dock.shipDestroyed.desc
+EN: Lifeboat is returning with survivors
+VI: 
+
+[80] ID: 2400 | Key: count.sailors
+EN: Sailors
+VI: 
+
+[81] ID: 2401 | Key: count.officers
+EN: Officers
+VI: 
+
+[82] ID: 2402 | Key: shipname.0
+EN: WSS Brightday
+VI: 
+
+[83] ID: 2403 | Key: shipname.1
+EN: WSS Allhands
+VI: 
+
+[84] ID: 2404 | Key: shipname.2
+EN: WSS Seahelper
+VI: 
+
+[85] ID: 2405 | Key: shipname.3
+EN: WSS Oceanhope
+VI: 
+
+[86] ID: 2406 | Key: shipname.4
+EN: WSS Greenfield
+VI: 
+
+[87] ID: 2407 | Key: shipname.5
+EN: WSS Harvest
+VI: 
+
+[88] ID: 2408 | Key: shipname.6
+EN: WSS Fairchance
+VI: 
+
+[89] ID: 2409 | Key: shipname.7
+EN: WSS Perfection
+VI: 
+
+[90] ID: 2410 | Key: shipname.8
+EN: WSS Festival
+VI: 
+
+[91] ID: 2411 | Key: shipname.9
+EN: WSS Cloudless
+VI: 
+
+[92] ID: 2412 | Key: shipname.10
+EN: WSS Strongwind
+VI: 
+
+[93] ID: 2413 | Key: shipname.11
+EN: WSS Sunshine
+VI: 
+
+[94] ID: 2414 | Key: shipname.12
+EN: WSS Blitheful
+VI: 
+
+[95] ID: 2415 | Key: shipname.13
+EN: WSS Cheerbringer
+VI: 
+
+[96] ID: 2416 | Key: shipname.14
+EN: WSS Fullwarmth
+VI: 
+
+[97] ID: 2417 | Key: shipname.15
+EN: WSS Fieldfare
+VI: 
+
+[98] ID: 2418 | Key: shipname.16
+EN: WSS Thrushsong
+VI: 
+
+[99] ID: 2419 | Key: shipname.17
+EN: WSS Brightsome
+VI: 
+
+[100] ID: 2420 | Key: shipname.18
+EN: WSS Merrythought
+VI: 
+
+[101] ID: 2421 | Key: shipname.19
+EN: WSS Jovial
+VI: 
+
+[102] ID: 2422 | Key: shipname.20
+EN: WSS Mirthful
+VI: 
+
+[103] ID: 2423 | Key: pirateship.0
+EN: The Dreadship
+VI: 
+
+[104] ID: 2424 | Key: pirateship.1
+EN: The Blackship
+VI: 
+
+[105] ID: 2425 | Key: pirateship.2
+EN: The Blacksail
+VI: 
+
+[106] ID: 2426 | Key: pirateship.3
+EN: The Kingkiller
+VI: 
+
+[107] ID: 2427 | Key: pirateship.4
+EN: The Loottaker
+VI: 
+
+[108] ID: 2428 | Key: pirateship.5
+EN: The Unfairship
+VI: 
+
+[109] ID: 2429 | Key: pirateship.6
+EN: The Guiltless
+VI: 
+
+[110] ID: 2430 | Key: pirateship.7
+EN: The Shameless
+VI: 
+
+[111] ID: 2431 | Key: pirateship.8
+EN: The Freemen
+VI: 
+
+[112] ID: 2432 | Key: pirateship.9
+EN: The Unshackled
+VI: 
+
+[113] ID: 2433 | Key: pirateship.10
+EN: The Robbing-Hood
+VI: 
+
+[114] ID: 2434 | Key: pirateship.11
+EN: The Fearworthy
+VI: 
+
+[115] ID: 2435 | Key: pirateship.12
+EN: The Terrifier
+VI: 
+
+[116] ID: 2436 | Key: pirateship.13
+EN: The Terror
+VI: 
+
+[117] ID: 2437 | Key: pirateship.14
+EN: The Tribunal
+VI: 
+
+[118] ID: 2438 | Key: pirateship.15
+EN: The Destitute
+VI: 
+
+[119] ID: 2439 | Key: pirateship.16
+EN: The Brazenship
+VI: 
+
+[120] ID: 2440 | Key: pirateship.17
+EN: The Ravenous
+VI: 
+
+[121] ID: 2441 | Key: pirateship.18
+EN: The Obtainer
+VI: 
+
+[122] ID: 2442 | Key: pirateship.19
+EN: The Avarice
+VI: 
+
+[123] ID: 2443 | Key: pirateship.20
+EN: The Murderous
+VI: 
+
+[124] ID: 2444 | Key: clawship.0
+EN: RN Sharpshot
+VI: 
+
+[125] ID: 2445 | Key: clawship.1
+EN: RN Loyal
+VI: 
+
+[126] ID: 2446 | Key: clawship.2
+EN: RN Noble
+VI: 
+
+[127] ID: 2447 | Key: clawship.3
+EN: RN Victory
+VI: 
+
+[128] ID: 2448 | Key: clawship.4
+EN: RN Defiant
+VI: 
+
+[129] ID: 2449 | Key: clawship.5
+EN: RN Faithful
+VI: 
+
+[130] ID: 2450 | Key: clawship.6
+EN: RN Glorious
+VI: 
+
+[131] ID: 2451 | Key: clawship.7
+EN: RN Courageous
+VI: 
+
+[132] ID: 2452 | Key: clawship.8
+EN: RN Splendid
+VI: 
+
+[133] ID: 2453 | Key: clawship.9
+EN: RN Highclass
+VI: 
+
+[134] ID: 2454 | Key: clawship.10
+EN: RN Gallant
+VI: 
+
+[135] ID: 2455 | Key: clawship.11
+EN: RN Reserve
+VI: 
+
+[136] ID: 2456 | Key: clawship.12
+EN: RN Upholder
+VI: 
+
+[137] ID: 2457 | Key: clawship.13
+EN: RN Authority
+VI: 
+
+[138] ID: 2458 | Key: clawship.14
+EN: RN Sovereign
+VI: 
+
+[139] ID: 2459 | Key: clawship.15
+EN: RN Allegiance
+VI: 
+
+[140] ID: 2460 | Key: clawship.16
+EN: RN Constant
+VI: 
+
+[141] ID: 2461 | Key: clawship.17
+EN: RN Stout
+VI: 
+
+[142] ID: 2462 | Key: clawship.18
+EN: RN Brave
+VI: 
+
+[143] ID: 2463 | Key: clawship.19
+EN: RN Bold
+VI: 
+
+[144] ID: 2464 | Key: clawship.20
+EN: RN Intrepid
+VI: 
+
+[145] ID: 2465 | Key: tradeship.0
+EN: Trade-n-Trade
+VI: 
+
+[146] ID: 2466 | Key: tradeship.1
+EN: Moores Profit
+VI: 
+
+[147] ID: 2467 | Key: tradeship.2
+EN: Cargosale
+VI: 
+
+[148] ID: 2468 | Key: tradeship.3
+EN: Richship
+VI: 
+
+[149] ID: 2469 | Key: tradeship.4
+EN: Trader No. 2
+VI: 
+
+[150] ID: 2470 | Key: tradeship.5
+EN: Bankable
+VI: 
+
+[151] ID: 2471 | Key: tradeship.6
+EN: GoldHaver Co.
+VI: 
+
+[152] ID: 2472 | Key: tradeship.7
+EN: Sir Richlot
+VI: 
+
+[153] ID: 2473 | Key: tradeship.8
+EN: Trustworths
+VI: 
+
+[154] ID: 2474 | Key: tradeship.9
+EN: Tradetrust Co.
+VI: 
+
+[155] ID: 2475 | Key: tradeship.10
+EN: Weasel & Friends
+VI: 
+
+[156] ID: 2476 | Key: tradeship.11
+EN: 77th Trade Co.
+VI: 
+
+[157] ID: 2477 | Key: tradeship.12
+EN: Acme Co.
+VI: 
+
+[158] ID: 2478 | Key: tradeship.13
+EN: Acme Trading
+VI: 
+
+[159] ID: 2479 | Key: tradeship.14
+EN: Acme Trade Co.
+VI: 
+
+[160] ID: 2480 | Key: tradeship.15
+EN: Acme Alco
+VI: 
+
+[161] ID: 2481 | Key: tradeship.16
+EN: Acme First
+VI: 
+
+[162] ID: 2482 | Key: tradeship.17
+EN: Acme & Friends
+VI: 
+
+[163] ID: 2483 | Key: tradeship.18
+EN: Weaselworth
+VI: 
+
+[164] ID: 2484 | Key: tradeship.19
+EN: Pricemaker
+VI: 
+
+[165] ID: 2485 | Key: tradeship.20
+EN: Sir Cheatem
+VI: 
+
+[166] ID: 2486 | Key: lifeboat
+EN: Lifeboat
+VI: 
+
+[167] ID: 2487 | Key: tag.requiresNauticalShip
+EN: Requires seaworthy vessel
+VI: 
+
+[168] ID: 2488 | Key: tag.extraHealth
+EN: Cannon Resistant
+VI: 
+
+[169] ID: 2489 | Key: shipType.smallFishingShip
+EN: Small fishing boat
+VI: 
+
+[170] ID: 2490 | Key: shipType.mediumFishingShip
+EN: Medium fishing Vessel
+VI: 
+
+[171] ID: 2491 | Key: shipType.largeFishingShip
+EN: Large Fishing Vessel
+VI: 
+
+[172] ID: 2492 | Key: shipType.smallCombatShip
+EN: Small scout ship
+VI: 
+
+[173] ID: 2493 | Key: shipType.mediumCombatShip
+EN: Medium combat vessel
+VI: 
+
+[174] ID: 2494 | Key: shipType.largeCombatShip
+EN: Large Warship
+VI: 
+
+[175] ID: 2495 | Key: shipType.smallCargoShip
+EN: Small smuggling ship
+VI: 
+
+[176] ID: 2496 | Key: shipType.mediumCargoShip
+EN: Medium trade ship
+VI: 
+
+[177] ID: 2497 | Key: shipType.largeCargoShip
+EN: Large trade barge
+VI: 
+
+[178] ID: 2498 | Key: shipType.lifeboat
+EN: Lifeboat
+VI: 
+
+[179] ID: 2501 | Key: supportedShipJob.fishing
+EN: Fishing
+VI: 
+
+[180] ID: 2502 | Key: supportedShipJob.hunting
+EN: Leviathan Hunting
+VI: 
+
+[181] ID: 2503 | Key: supportedShipJob.smuggling
+EN: Trading
+VI: 
+
+[182] ID: 2504 | Key: supportedShipJob.scouting
+EN: Scouting
+VI: 
+
+[183] ID: 2505 | Key: supportedShipJob.combat
+EN: Naval Combat
+VI: 
+
+[184] ID: 2506 | Key: supportedShipJob.salvaging
+EN: Salvaging
+VI: 
+
+[185] ID: 2507 | Key: supportedShipJob.islandHarvesting
+EN: Guano Harvesting
+VI: 
+
+[186] ID: 2529 | Key: eventType.problem
+EN: Urgent Issue!
+VI: 
+
+[187] ID: 2530 | Key: event.mainDockBlocked
+EN: Your dock is not reachable by visiting ships!
+VI: 
+
+[188] ID: 2531 | Key: event.mainDockBlocked.description
+EN: No navigable path exists between the dock and the open sea. Consider moving this dock or remove any structures blocking access.
+VI: 
+
+[189] ID: 2532 | Key: event.mainDockBlocked.description2
+EN: The Claws will not take lightly to obstructed ships!
+VI: 
+
+[190] ID: 2533 | Key: dock.noPathToSea
+EN: No path to sea!
+VI: 
+
+[191] ID: 2534 | Key: dock.readytodepart
+EN: Ready to depart!
+VI: 
+
+[192] ID: 2543 | Key: subcat.naval
+EN: Naval
+VI: 
+
+[193] ID: 2544 | Key: rating.damage
+EN: Damage
+VI: 
+
+[194] ID: 2545 | Key: ui.buildingHealth
+EN: Structure Health
+VI: 
+
+[195] ID: 2546 | Key: ui.buildingHealth.desc
+EN: Amount of damage this structure can take before destruction
+VI: 
+
+[196] ID: 2547 | Key: towerState.noAmmo
+EN: No Cannonballs
+VI: 
+
+[197] ID: 2548 | Key: towerState.noAmmo.desc
+EN: Workers will load best cannonball available
+VI: 
+
+[198] ID: 2549 | Key: towerState.atReady
+EN: Ready to Fire
+VI: 
+
+[199] ID: 2550 | Key: towerState.reloading
+EN: Reloading
+VI: 
+
+[200] ID: 2553 | Key: setting.attackPirates
+EN: Attacks Pirates
+VI: 
+
+[201] ID: 2554 | Key: setting.attackPirates.desc
+EN: All defenses will automatically attack pirate ships. Pirates are likely to escalate!
+VI: 
+
+[202] ID: 2562 | Key: research.hiddenSchematic
+EN: Unknown Schematic
+VI: 
+
+[203] ID: 2563 | Key: research.hiddenSchematic.hint
+EN: Technology closely guarded by the Claws
+VI: 
+
+[204] ID: 2564 | Key: ship_tier1_A.title
+EN: Small Fishing Ship
+VI: 
+
+[205] ID: 2565 | Key: ship_tier1_A.desc
+EN: Small seaworthy vessel capable of sailing the open ocean
+VI: 
+
+[206] ID: 2566 | Key: ship_tier1_Quest1.title
+EN: Stormie's Ship
+VI: 
+
+[207] ID: 2567 | Key: ship_tier1_Quest1.desc
+EN: Small seaworthy vessel capable of sailing the open ocean
+VI: 
+
+[208] ID: 2568 | Key: ship_tier1_B.title
+EN: Small Scout Sloop
+VI: 
+
+[209] ID: 2569 | Key: ship_tier1_C.title
+EN: Small Combat Sloop
+VI: 
+
+[210] ID: 2570 | Key: ship_tier2_A.title
+EN: Medium Utility Ship
+VI: 
+
+[211] ID: 2571 | Key: ship_tier2_B.title
+EN: Medium Cargo Ship
+VI: 
+
+[212] ID: 2572 | Key: ship_tier2_C.title
+EN: Medium Combat Ship
+VI: 
+
+[213] ID: 2573 | Key: ship_tier3_A.title
+EN: Large General Ship
+VI: 
+
+[214] ID: 2574 | Key: ship_tier3_B.title
+EN: Large Cargo Ship
+VI: 
+
+[215] ID: 2575 | Key: ship_tier3_C.title
+EN: Large Battle Ship
+VI: 
+
+[216] ID: 2576 | Key: notice.underattack.title
+EN: Ship under attack!
+VI: 
+
+[217] ID: 2577 | Key: notice.underattack.desc
+EN: A ship is under attack!
+VI: 
+
+[218] ID: 2578 | Key: notice.tradeready.title
+EN: Prepared to Trade
+VI: 
+
+[219] ID: 2579 | Key: notice.tradeready.desc
+EN: A ship has arrived at its destination and is waiting to trade
+VI: 
+
+[220] ID: 2580 | Key: notice.starving.title
+EN: Starving!
+VI: 
+
+[221] ID: 2581 | Key: notice.starving.desc
+EN: A ship has run out of food, and its crew is starving!
+VI: 
+
+[222] ID: 2582 | Key: tab.preparation
+EN: Preparation
+VI: 
+
+[223] ID: 2589 | Key: header.fleetNotifications
+EN: Fleet Notifications
+VI: 
+
+[224] ID: 2590 | Key: poi.guano
+EN: Guano Rock
+VI: 
+
+[225] ID: 2591 | Key: poi.fishing
+EN: Fishing Grounds
+VI: 
+
+[226] ID: 2592 | Key: poi.leviathan
+EN: Leviathan Spawn
+VI: 
+
+[227] ID: 2593 | Key: poi.salvage
+EN: Salvage
+VI: 
+
+[228] ID: 2597 | Key: message.colonyUnderAttack
+EN: Cannonfire near colony!
+VI: 
+
+[229] ID: 2600 | Key: highalert.title
+EN: High Alert
+VI: 
+
+[230] ID: 2601 | Key: death.lostAtSea
+EN: Lost at sea
+VI: 
+
+[231] ID: 2602 | Key: cargo.corpses
+EN: Whiskers awaiting burial
+VI: 
+
+[232] ID: 2603 | Key: cargo.food
+EN: Food supply
+VI: 
+
+[233] ID: 2604 | Key: cargo.ammunition
+EN: Ammunition
+VI: 
+
+[234] ID: 2607 | Key: slotdecorative.brickwall
+EN: Decorative Brick Wall
+VI: 
+
+[235] ID: 2610 | Key: tag.dragBuildable
+EN: Drag Build
+VI: 
+
+[236] ID: 2611 | Key: ferry.shipsAssigned
+EN: Ships Assigned
+VI: 
+
+[237] ID: 2614 | Key: industryState.blockedDock
+EN: Ship blocking output
+VI: 
+
+[238] ID: 2618 | Key: pirates.bribeButton
+EN: Bribe Pirates for schematic
+VI: 
+
+[239] ID: 2620 | Key: questgoal.repair
+EN: Repair <0>
+VI: 
+
+[240] ID: 2621 | Key: hotkey.colonyView
+EN: Exit naval map
+VI: 
+
+[241] ID: 2622 | Key: hotkey.nauticalView
+EN: Naval map
+VI: 
+
+[242] ID: 2627 | Key: story.quest.28.title
+EN: Rescue Repair
+VI: 
+
+[243] ID: 2628 | Key: story.quest.28.body
+EN: My vessel has been damaged beyond my ability to repair!
+
+Without assistance, I dare not fathom what would come of me out on the open sea.
+
+You're an honorable sort, aren't you? Then help a fellow out! I implore you by your good nature!
+
+If you rescue me from my predicament, then by my honour, I will repay you one day! You'll see!
+VI: 
+
+[244] ID: 2629 | Key: story.quest.29.title
+EN: Ships, Ships, More Ships!
+VI: 
+
+[245] ID: 2630 | Key: story.quest.29.body
+EN: Begging your pardon. 
+I know it's not my place to say, but you must build more ships!
+
+
+The Claws maintain a vast fleet, and if we ever want to escape their filthy clutches, we must grow to match! 
+
+
+More ships means more freedom. Not so bad a thing, I'd say.
+
+
+Of course, far be it from a lowly sailor like myself to tell a great whisker such as yourself what to build. I'm sure you'll come to the right decision all on your own.
+VI: 
+
+[246] ID: 2631 | Key: story.quest.30.title
+EN: Shipyard Ahoy!
+VI: 
+
+[247] ID: 2632 | Key: story.quest.30.body
+EN: I've got news for you, but you might not want to hear it. 
+
+As I was pondering on our situation, I realized that we might be needing a bit of a "leg up" when it comes to shipbuilding. 
+
+And I says to myself, "who's got better sea legs than pirates"? 
+
+So I went out, told the pirates about our island, and secured an agreement with them! 
+
+Now I know most Whiskers aren't the type to parley with such "sailors of ill repute", but please don't get angry! Hear me out. It's for the good of the colony, after all.
+
+The pirates have agreed to share with us the secret to building shipyards! And all it will cost us is five measly gold bars! 
+
+'Course, I don't want you thinking I'm some kind of freebooter who doesn't know how to pay his fair share! Once you manage to pay off the pirates, I'll chip in a gold bar of my own from my stash.
+VI: 
+
+[248] ID: 2633 | Key: story.quest.31.title
+EN: Under the thumb of Pirates
+VI: 
+
+[249] ID: 2634 | Key: story.quest.31.body
+EN: Thank you kindly for accommodating our request. Your generosity will allow us to expand to new islands. New “Pirate Islands.” Has a good ring to it!
+
+You’ve been so helpful, we'd like to return the favor! If you find another Whisker colony and swear to let us know about it, I’ll make sure other pirates don’t trouble your island for a while. You have my word! 
+
+And who knows? Mayhaps you’ll even find some empty islands we can turn into even more Pirate islands! Feels good to share, doesn't it?
+VI: 
+
+[250] ID: 2635 | Key: story.quest.32.title
+EN: Repayment by Betrayal
+VI: 
+
+[251] ID: 2636 | Key: story.quest.32.body
+EN: Send my thanks to the colony for constructing this fine new ship. That old boat you found me in could never achieve what needs to be done! I’ll take it. Consider it your first donation to the cause!
+
+For too long, our kind has toiled under the oppression of the Claws! Waiting for today, when a Whisker brave enough to start the rebellion decided to make the choice the cowards ignored. As I promised when we met, now I’ve made good on my promise and repaid your kindness.
+
+Remember this day! Tell your children. Tell them you were there when Stormie left port and started the Whisker Rebellion!
+VI: 
+
+[252] ID: 2637 | Key: story.quest.pirateradient.title
+EN: A Pirate Quest
+VI: 
+
+[253] ID: 2638 | Key: story.quest.33.quest
+EN: We are looking to expand our donation base. If you know of any other Whisker colony looking to support our efforts, it would be a grand help.
+VI: 
+
+[254] ID: 2639 | Key: story.quest.33.reward
+EN: If you cooperate we promise to protect your colony from other pirates for 8 days.
+VI: 
+
+[255] ID: 2640 | Key: story.quest.34.quest
+EN: We're always on the lookout for any secret documents. Here is a scrap of paper. If you’ll share one of your schematics with us, it would be mightily appreciated!
+VI: 
+
+[256] ID: 2641 | Key: story.quest.34.reward
+EN: Of course we appreciate such generosity. In return, I will personally vouch for your colony to the other pirates. You’ll be protected for 13 days.
+VI: 
+
+[257] ID: 2642 | Key: story.quest.35.quest
+EN: Between our success against the Claws and the generosity of Whiskers colonies such as yours, we are in need of an island to expand operations onto. Do you know of any empty islands?
+VI: 
+
+[258] ID: 2643 | Key: story.quest.35.reward
+EN: If you follow through on your end, we’ll consider it a favor and protect your colony for 8 days.
+VI: 
+
+[259] ID: 2644 | Key: story.quest.36.quest
+EN: A nasty encounter with uncooperative Claws has left us in a bit of a tricky situation. May we ask for repair materials to compensate for the damage caused by your Claw masters?
+VI: 
+
+[260] ID: 2645 | Key: story.quest.36.reward
+EN: By our good nature, I’ll throw in protection for 5 days. That means no visits from us or our friends.
+VI: 
+
+[261] ID: 2646 | Key: story.quest.37.quest
+EN: We are recruiting! So long as you are not a Claw, there is a place for you in our crew. All skilled, able-bodied, and ship-shape Whiskers are encouraged to apply. In return, you'll get a share of our loot and full room and board!
+VI: 
+
+[262] ID: 2647 | Key: story.quest.37.reward
+EN: What we are offering is 21 days of protection. On our honor, no other pirates will bother you while you are under our protection.
+VI: 
+
+[263] ID: 2648 | Key: story.quest.38.title
+EN: Royal Request for Assistance
+VI: 
+
+[264] ID: 2649 | Key: story.quest.38.body
+EN: Nasty rumors of violent actions by a wayward Whisker should be ignored at all costs. These false whispers risk hurting the productivity of honest Whiskers and raising general rebellion levels.
+
+These rumours are replete with lies of sinkings and theft of tax receipts. You should know that no supply ships have been sunk and no tax has been stolen. Pirate activity has been decimated, and their fleets are at the bottom of the ocean.
+
+In keeping with our efforts to preserve peace and reassure all Whiskers of the safety to their tax contribution, extra ships have been deployed. To maintain pace of repairs, we’ve authorized Nails, Canned Food, and Sails to be accepted as tax payments. In compensation for this generosity, tax rates per Whisker have been increased.
+VI: 
+
+[265] ID: 2650 | Key: story.quest.39.title
+EN: News of Stormie
+VI: 
+
+[266] ID: 2651 | Key: story.quest.39.body
+EN: Encouraging news to all loyal to the King! The rebel fool known as Stormie has been dispatched. His evil folly ends with him.
+
+Now that your colony has been freed from the tyranny of Stormie, your donations are requested to reward the brave Claws who captured him. A couple Gold Bars would be appropriate.
+
+PS: In celebration, the department has seen fit to gift schematics for cannons to your colony. Expect future requests for assistance as we bring these Pirate Wars to a quick end with minimal loss of Claw life.
+VI: 
+
+[267] ID: 2652 | Key: story.quest.clawratient.title
+EN: A King's Quest
+VI: 
+
+[268] ID: 2653 | Key: story.quest.clawratient.reward
+EN: Pending completion of this assignment, your colony will be granted 1 Letter of Recomendation.
+VI: 
+
+[269] ID: 2654 | Key: story.quest.40.quest
+EN: Your colony had better put those cannons to good use. Find and sink us a Pirate ship for us.
+VI: 
+
+[270] ID: 2655 | Key: story.quest.41.quest
+EN: Pirates are hiding on a yet-uncharted island. Consider this your official request to scout the ocean and identify the pirate hide out.
+VI: 
+
+[271] ID: 2656 | Key: story.quest.42.quest
+EN: Reports indicate smugglers are active and undermining our trade policy. Drive up their cost of business and sink one for us.
+VI: 
+
+[272] ID: 2657 | Key: story.quest.43.quest
+EN: Claws cannot be expected to suffer the total brunt of this Pirate War. Consider this your call to stand up and destroy 1 Pirate Island. Eliminate all their defenses and bombard any docks to rubble. Without a dock, the Pirates cannot rebuild their ships.
+VI: 
+
+[273] ID: 2658 | Key: story.quest.44.quest
+EN: Your colony appears rather industrious. It is time you started paying your fair share.
+VI: 
+
+[274] ID: 2659 | Key: story.quest.45.title
+EN: A Promise of Freedom
+VI: 
+
+[275] ID: 2660 | Key: story.quest.45.body
+EN: One troublesome Pirate Island remains. But be wary. These Pirates have grown desperate and doubled their defenses. 
+
+Were you to engage them in a protracted battle, I fear your losses would be great. Fortunately, we are not without recourse.
+
+To assist in your fight, I’ve authorized the transfer of the Ironshot Schematic. These Iron Cannonballs have superior penetrating power against towers but require more complex production. 
+
+Once you clear this final island and bring an end to the Pirate Wars, I’ve been authorized to nominate your colony for a King’s Reward. 
+
+Normally such a reward would grant nobility, but as Whiskers you would instead receive independence.
+
+Now, you must maintain patience. If rewarded, you would be the first Whiskers in history to receive such an honour. Yet it is appropriate. Your sailors have fought hard and your colony has paid in lives. I am honoured to fight alongside you.
+VI: 
+
+[276] ID: 2661 | Key: story.quest.46.title
+EN: THE END OF ACT II
+VI: 
+
+[277] ID: 2662 | Key: story.quest.46.body
+EN: News of your victory has reached my ears! What a glorious achievement!
+
+I will submit your nomination hence forth! Please be patient as the entire evaluation may take several years.
+VI: 
+
+[278] ID: 2663 | Key: story.common.intro5
+EN: Dear Fellow Whiskers,
+VI: 
+
+[279] ID: 2664 | Key: story.common.outro6
+EN: Stormie
+The Sailor
+VI: 
+
+[280] ID: 2665 | Key: story.common.intro6
+EN: Dear Chief,
+VI: 
+
+[281] ID: 2666 | Key: story.common.intro7
+EN: Dear Productive Whisker,
+VI: 
+
+[282] ID: 2667 | Key: story.common.outro7
+EN: Stormie
+The Rebel
+VI: 
+
+[283] ID: 2668 | Key: story.common.outro8
+EN: Under the King’s Graceful Rule,
+Admiral Birman
+Pirate Elimination Corps.
+VI: 
+
+[284] ID: 2669 | Key: whisker.stormie
+EN: Stormie
+VI: 
+
+[285] ID: 2670 | Key: claw.birman
+EN: Admiral Birman
+VI: 
+
+[286] ID: 2671 | Key: claw_letterofrecomendation
+EN: Letter of Recommendation
+VI: 
+
+[287] ID: 2672 | Key: claw_letterofrecomendation_desc
+EN: An official letter of recommendation
+VI: 
+
+[288] ID: 2673 | Key: warn.expiring
+EN: Expires
+VI: 
+
+[289] ID: 2674 | Key: questgoal.schematicGain
+EN: Acquire schematic for <0>
+VI: 
+
+[290] ID: 2675 | Key: tag.questBuilding
+EN: Quest Structure
+VI: 
+
+[291] ID: 2678 | Key: questgoal.pirateIslandDefeat
+EN: Pirate Islands Defeated
+VI: 
+
+[292] ID: 2679 | Key: questgoal.sinkShip
+EN: <0> Ships Sunk
+VI: 
+
+[293] ID: 2680 | Key: questgoal.findIslandsOfType
+EN: Discover <0> Islands
+VI: 
+
+[294] ID: 2681 | Key: faction.pirate
+EN: Pirate
+VI: 
+
+[295] ID: 2682 | Key: faction.whisker
+EN: Whisker
+VI: 
+
+[296] ID: 2683 | Key: faction.claw
+EN: Claw
+VI: 
+
+[297] ID: 2684 | Key: faction.weasel
+EN: Weasel
+VI: 
+
+[298] ID: 2685 | Key: faction.smuggler
+EN: Smuggler
+VI: 
+
+[299] ID: 2686 | Key: faction.none
+EN: Abandoned
+VI: 
+
+[300] ID: 2687 | Key: stormie.escapeBoast
+EN: Thanks for the ship!
+VI: 
+
+[301] ID: 2690 | Key: contract.newAllowedResources
+EN: New accepted resources for payment
+VI: 
+
+[302] ID: 2691 | Key: choice.acknowledgeUpdatedAgreement
+EN: Acknowledge updated agreement
+VI: 
+
+[303] ID: 2692 | Key: trade.tradePartnerNeeded
+EN: Trade Partner Needed
+VI: 
+
+[304] ID: 2693 | Key: trade.tradePartnerNeeded.desc
+EN: Choose a trade partner to begin loading tradeable goods
+VI: 
+
+[305] ID: 2694 | Key: trade.desires
+EN: Desires
+VI: 
+
+[306] ID: 2695 | Key: trade.offers
+EN: Offers
+VI: 
+
+[307] ID: 2696 | Key: trade.loadShipForTrade
+EN: Load resources onto ship
+VI: 
+
+[308] ID: 2697 | Key: trade.noPartnersDiscovered
+EN: No trade partners discovered!
+VI: 
+
+[309] ID: 2698 | Key: trade.noPartnersDiscovered.desc
+EN: Explore the ocean to find willing traders
+VI: 
+
+[310] ID: 2699 | Key: dock.missionPlan
+EN: Mission
+VI: 
+
+[311] ID: 2700 | Key: island.population
+EN: Population
+VI: 
+
+[312] ID: 2701 | Key: pirateSendOff.desc
+EN: The Pirates request a volunteer
+VI: 
+
+[313] ID: 2702 | Key: pirateSendOff.warning
+EN: Whisker will permenantly leave your colony
+VI: 
+
+[314] ID: 2703 | Key: pirateSendoff.noWhisker
+EN: No Whisker selected
+VI: 
+
+[315] ID: 2704 | Key: pirateSendOff.sendOff
+EN: Send Volunteer
+VI: 
+
+[316] ID: 2705 | Key: pirateSendOff.reject
+EN: Deny Request
+VI: 
+
+[317] ID: 2706 | Key: story.quest.clawsradient.title
+EN: A King's Quest
+VI: 
+
+[318] ID: 2707 | Key: pirate.shareSchematics
+EN: Share Schematics
+VI: 
+
+[319] ID: 2709 | Key: story.quest.piratetechnologyShare.desc
+EN: The pirates humbly request a research share from your researchers.  Knowlege wants to be free right?
+VI: 
+
+[320] ID: 2710 | Key: story.quest.pirateTechRequest
+EN: Pirates Request Schematics
+VI: 
+
+[321] ID: 2711 | Key: dock.validPlans
+EN: Valid Destinations
+VI: 
+
+[322] ID: 2716 | Key: playerShip_tier1_A.title
+EN: Scout Caravel
+VI: 
+
+[323] ID: 2717 | Key: playerShip_tier1_A.desc
+EN: A swift but fragile ship with a limited cargo hold
+VI: 
+
+[324] ID: 2718 | Key: playerShip_tier1_B.title
+EN: Work Galleon
+VI: 
+
+[325] ID: 2719 | Key: playerShip_tier1_B.desc
+EN: Well rounded ship with workable space for supplies
+VI: 
+
+[326] ID: 2720 | Key: playerShip_tier1_C.title
+EN: Cargo Schooner
+VI: 
+
+[327] ID: 2721 | Key: playerShip_tier1_C.desc
+EN: An expansive cargo hold fit for trade
+VI: 
+
+[328] ID: 2722 | Key: playerShip_tier2_A.title
+EN: Armed Barque
+VI: 
+
+[329] ID: 2723 | Key: playerShip_tier2_A.desc
+EN: Sturdy sloop equiped with cannons capable of combat
+VI: 
+
+[330] ID: 2724 | Key: playerShip_tier2_B.title
+EN: Merchant Barge
+VI: 
+
+[331] ID: 2725 | Key: playerShip_tier2_B.desc
+EN: A slow ship with massive cargo hold well suited for long distance trade
+VI: 
+
+[332] ID: 2726 | Key: poi.emptyLabel
+EN: Empty
+VI: 
+
+[333] ID: 2739 | Key: naval.foodSupply.hint1
+EN: Each crew consumes 1 food per night
+VI: 
+
+[334] ID: 2740 | Key: naval.foodSupply.hint2
+EN: Ships will turn around upon reaching half food
+VI: 
+
+[335] ID: 2741 | Key: naval.defaultAction.header
+EN: Upon Departure:
+VI: 
+
+[336] ID: 2742 | Key: naval.defaultAction.fish
+EN: Fish at nearest stocked Fishing Grounds
+VI: 
+
+[337] ID: 2743 | Key: naval.defaultAction.guano
+EN: Gather at nearest stocked Guano Rock
+VI: 
+
+[338] ID: 2744 | Key: naval.defaultAction.trade
+EN: Trade with <0>
+VI: 
+
+[339] ID: 2745 | Key: naval.defaultAction.idle
+EN: Leave port and await orders
+VI: 
+
+[340] ID: 2748 | Key: questgoal.pirateBribeTech
+EN: Aquire Schematic for <0> from visiting Pirates
+VI: 
+

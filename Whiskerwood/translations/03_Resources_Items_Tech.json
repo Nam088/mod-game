@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 45,
+    "key": "crop.spices",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Crop - Spices",
+    "target_vi": "Cây Gia Vị",
+    "context": "crop | Row 45",
+    "offset": 1170,
+    "length": 14
+  },
+  {
+    "id": 46,
+    "key": "crop.mushrooms",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Crop - Mushrooms",
+    "target_vi": "Nấm Ăn",
+    "context": "crop | Row 46",
+    "offset": 1198,
+    "length": 17
+  },
+  {
+    "id": 80,
+    "key": "policy.title.increasedCarryCapacity",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Lift with Your Back",
+    "target_vi": "Còng Lưng Khuân Vác",
+    "context": "policy | Row 80",
+    "offset": 2537,
+    "length": 20
+  },
+  {
+    "id": 81,
+    "key": "policy.desc.increasedCarryCapacity",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers can carry 2 more resources. ",
+    "target_vi": "Bà con chuột có thể mang vác thêm +2 tài nguyên.",
+    "context": "policy | Row 81",
+    "offset": 2571,
+    "length": 38
+  },
+  {
+    "id": 82,
+    "key": "policy.title.improvedscience",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Eureka Moments",
+    "target_vi": "Khoảnh Khắc Eureka",
+    "context": "policy | Row 82",
+    "offset": 2623,
+    "length": 15
+  },
+  {
+    "id": 83,
+    "key": "policy.desc.improvedScience",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Research labs occasionally produce an extra free science.",
+    "target_vi": "Phòng nghiên cứu thỉnh thoảng tạo ra thêm +1 điểm tri thức miễn phí.",
+    "context": "policy | Row 83",
+    "offset": 2652,
+    "length": 58
+  },
+  {
+    "id": 84,
+    "key": "policy.desc.betterlogistics",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Warehouse workers gain 4 carry capacity. Conveyor belts run 20% faster.",
+    "target_vi": "Thợ kho tăng thêm +4 sức khuân vác. Băng chuyền vận hành nhanh hơn 20%.",
+    "context": "policy | Row 84",
+    "offset": 2724,
+    "length": 72
+  },
+  {
+    "id": 85,
+    "key": "policy.title.betterlogistics",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Oiled Carts",
+    "target_vi": "Bôi Trơn Xe Kéo",
+    "context": "policy | Row 85",
+    "offset": 2810,
+    "length": 12
+  },
+  {
+    "id": 87,
+    "key": "policy.title.stripmine",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Strip Mining",
+    "target_vi": "Khai Thác Lộ Thiên",
+    "context": "policy | Row 87",
+    "offset": 2864,
+    "length": 13
+  },
+  {
+    "id": 88,
+    "key": "policy.desc.negotiations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Export contracts reward 20% more development but 20% fewer other rewards.",
+    "target_vi": "Hợp đồng xuất khẩu thưởng thêm 20% điểm phát triển nhưng giảm 20% các phần thưởng khác.",
+    "context": "policy | Row 88",
+    "offset": 2891,
+    "length": 74
+  },
+  {
+    "id": 89,
+    "key": "policy.title.lushGardens",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Lush Gardens",
+    "target_vi": "Vườn Tược Tốt Tươi",
+    "context": "policy | Row 89",
+    "offset": 2979,
+    "length": 13
+  },
+  {
+    "id": 90,
+    "key": "policy.desc.lushGardens",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gardeners will use twice as much water, making watered gardens twice as effective.",
+    "target_vi": "Người làm vườn dùng lượng nước gấp đôi, giúp vườn tược sau khi tưới đạt hiệu quả gấp đôi.",
+    "context": "policy | Row 90",
+    "offset": 3006,
+    "length": 83
+  },
+  {
+    "id": 91,
+    "key": "policy.desc.stripmine",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Mining speed doubled.\n\n20% chance to lose mined resources.",
+    "target_vi": "Tốc độ khai mỏ tăng gấp đôi.\n\nNhưng có 20% tỉ lệ làm hỏng mất tài nguyên khai thác.",
+    "context": "policy | Row 91",
+    "offset": 3103,
+    "length": 59
+  },
+  {
+    "id": 92,
+    "key": "policy.title.negotiations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Negotiations",
+    "target_vi": "Đàm Phán Hợp Đồng",
+    "context": "policy | Row 92",
+    "offset": 3176,
+    "length": 13
+  },
+  {
+    "id": 93,
+    "key": "policy.title.coldresist",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Freeze & Thaw",
+    "target_vi": "Tôi Luyện Băng Giá",
+    "context": "policy | Row 93",
+    "offset": 3203,
+    "length": 14
+  },
+  {
+    "id": 94,
+    "key": "policy.desc.coldresist",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers ignore penalties from cold.",
+    "target_vi": "Bà con chuột miễn nhiễm với mọi bất lợi do giá rét gây ra.",
+    "context": "policy | Row 94",
+    "offset": 3231,
+    "length": 37
+  },
+  {
+    "id": 97,
+    "key": "policy.title.rapidConstruction",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rapid Construction",
+    "target_vi": "Thi Công Thần Tốc",
+    "context": "policy | Row 97",
+    "offset": 3343,
+    "length": 19
+  },
+  {
+    "id": 98,
+    "key": "policy.desc.rapidConstruction",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Builders gain greatly increased build and movement speed",
+    "target_vi": "Thợ xây tăng mạnh tốc độ thi công và tốc độ di chuyển.",
+    "context": "policy | Row 98",
+    "offset": 3376,
+    "length": 57
+  },
+  {
+    "id": 215,
+    "key": "policy.title.stretchfood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Sawdust Seasoning",
+    "target_vi": "Gia Vị Mạt Cưa",
+    "context": "policy | Row 215",
+    "offset": 6719,
+    "length": 18
+  },
+  {
+    "id": 216,
+    "key": "policy.desc.stretchfood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "25% chance for food industries to produce double output.",
+    "target_vi": "25% cơ hội các xưởng chế biến thực phẩm tạo ra sản lượng gấp đôi.",
+    "context": "policy | Row 216",
+    "offset": 6751,
+    "length": 57
+  },
+  {
+    "id": 217,
+    "key": "policy.title.foodrationing",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Food Rationing",
+    "target_vi": "Thắt Lưng Buộc Bụng",
+    "context": "policy | Row 217",
+    "offset": 6822,
+    "length": 15
+  },
+  {
+    "id": 218,
+    "key": "policy.desc.foodrationing",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers will restrict themselves to one meal a day.\n(Skips lunch break)",
+    "target_vi": "Bà con chuột tự hạn chế chỉ ăn một bữa mỗi ngày.\n(Bỏ bữa trưa).",
+    "context": "policy | Row 218",
+    "offset": 6851,
+    "length": 73
+  },
+  {
+    "id": 223,
+    "key": "policy.title.extrarations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Extra Rations",
+    "target_vi": "Tăng Khẩu Phần",
+    "context": "policy | Row 223",
+    "offset": 7048,
+    "length": 14
+  },
+  {
+    "id": 224,
+    "key": "policy.desc.extrarations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers can eat one additional food per meal.",
+    "target_vi": "Bà con chuột được phép ăn thêm 1 phần ăn mỗi bữa.",
+    "context": "policy | Row 224",
+    "offset": 7076,
+    "length": 47
+  },
+  {
+    "id": 417,
+    "key": "policy.title.dirtyfuel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Trash Burning",
+    "target_vi": "Đốt Rác Sưởi Ấm",
+    "context": "policy | Row 417",
+    "offset": 12068,
+    "length": 14
+  },
+  {
+    "id": 418,
+    "key": "policy.desc.dirtyfuel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fuel lasts longer in heaters, but produces double pollution.",
+    "target_vi": "Nhiên liệu cháy lâu hơn trong lò sưởi, nhưng xả ra lượng ô nhiễm gấp đôi.",
+    "context": "policy | Row 418",
+    "offset": 12096,
+    "length": 61
+  },
+  {
+    "id": 419,
+    "key": "policy.title.movespeed",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Scurry Step",
+    "target_vi": "Bước Chân Thoăn Thoắt",
+    "context": "policy | Row 419",
+    "offset": 12171,
+    "length": 12
+  },
+  {
+    "id": 420,
+    "key": "policy.desc.movespeed",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "All Whiskers move 20% faster.",
+    "target_vi": "Toàn bộ dân chuột di chuyển nhanh hơn 20%.",
+    "context": "policy | Row 420",
+    "offset": 12197,
+    "length": 30
+  },
+  {
+    "id": 525,
+    "key": "unlock.farming.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Basic Agriculture",
+    "target_vi": "Nông Nghiệp Cơ Bản",
+    "context": "unlock | Row 525",
+    "offset": 17877,
+    "length": 18
+  },
+  {
+    "id": 526,
+    "key": "unlock.farming.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for Farms and the Farmland Tool.\n\nFarmland can be assigned crops, which will grow based on soil conditions.",
+    "target_vi": "Bản vẽ Nông Trại và Công Cụ Trồng Trọt.\n\nCó thể gán giống cây trồng cho các thửa ruộng, cây sẽ phát triển tùy theo độ màu mỡ của đất.",
+    "context": "unlock | Row 526",
+    "offset": 17909,
+    "length": 118
+  },
+  {
+    "id": 527,
+    "key": "unlock.elevator.tile",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Elevators",
+    "target_vi": "Thang Máy",
+    "context": "unlock | Row 527",
+    "offset": 18041,
+    "length": 10
+  },
+  {
+    "id": 528,
+    "key": "unlock.elevator.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fast vertical transport.\n\nShafts and Entrances can be stacked to form Elevators.",
+    "target_vi": "Vận chuyển thẳng đứng tốc độ cao.\n\nCó thể xếp chồng Trục và Cửa Vào để tạo thành Thang Máy.",
+    "context": "unlock | Row 528",
+    "offset": 18065,
+    "length": 81
+  },
+  {
+    "id": 529,
+    "key": "unlock.waterPumping.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Water Pumping",
+    "target_vi": "Máy Bơm Nước",
+    "context": "unlock | Row 529",
+    "offset": 18160,
+    "length": 14
+  },
+  {
+    "id": 530,
+    "key": "unlock.waterPumping.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Sea water pumps can supply associated services and industries with water through pipe networks.",
+    "target_vi": "Máy bơm nước biển có thể cấp nước cho các dịch vụ và ngành chế biến qua mạng lưới đường ống.",
+    "context": "unlock | Row 530",
+    "offset": 18188,
+    "length": 96
+  },
+  {
+    "id": 531,
+    "key": "unlock.steam.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steam Power",
+    "target_vi": "Năng Lượng Hơi Nước",
+    "context": "unlock | Row 531",
+    "offset": 18298,
+    "length": 12
+  },
+  {
+    "id": 532,
+    "key": "unlock.steam.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steam boilers feed steam into specialized pipe networks. The pressurized gas can provide heat and power heavy machinery.\n\nBoilers require a Fire Tender to keep them fueled.",
+    "target_vi": "Nồi hơi dẫn hơi nước vào mạng lưới ống chuyên dụng. Hơi nước nén áp suất cao có thể sưởi ấm và trợ lực cho máy móc hạng nặng.\n\nNồi hơi cần Trại Chăm Lửa để tiếp tế nhiên liệu.",
+    "context": "unlock | Row 532",
+    "offset": 18324,
+    "length": 173
+  },
+  {
+    "id": 533,
+    "key": "unlock.aimBasic.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Conveyor Belts",
+    "target_vi": "Băng Chuyền Cơ Bản",
+    "context": "unlock | Row 533",
+    "offset": 18511,
+    "length": 15
+  },
+  {
+    "id": 534,
+    "key": "unlock.aimBasic.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Move resources along belts from Input Hopper to warehouses.\n\nIndustries can assign Input Hoppers as their output destinations.",
+    "target_vi": "Vận chuyển tài nguyên trên băng chuyền từ Phễu Nạp đến các kho chứa.\n\nCác nhà xưởng có thể chọn Phễu Nạp làm điểm trả hàng.",
+    "context": "unlock | Row 534",
+    "offset": 18540,
+    "length": 127
+  },
+  {
+    "id": 535,
+    "key": "unlock.housingTier1.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Plank Housing",
+    "target_vi": "Nhà Ván Gỗ",
+    "context": "unlock | Row 535",
+    "offset": 18681,
+    "length": 14
+  },
+  {
+    "id": 536,
+    "key": "unlock.housingTier1.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Medium housing quality, available in a variety of footprints.",
+    "target_vi": "Chất lượng nhà ở mức trung bình, có nhiều kích cỡ mặt bằng khác nhau.",
+    "context": "unlock | Row 536",
+    "offset": 18709,
+    "length": 62
+  },
+  {
+    "id": 537,
+    "key": "unlock.housingTier2.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stone Housing",
+    "target_vi": "Nhà Đá",
+    "context": "unlock | Row 537",
+    "offset": 18785,
+    "length": 14
+  },
+  {
+    "id": 538,
+    "key": "unlock.housingTier2.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "High housing quality, available in a variety of footprints.",
+    "target_vi": "Chất lượng nhà ở cao, có nhiều kích cỡ mặt bằng khác nhau.",
+    "context": "unlock | Row 538",
+    "offset": 18813,
+    "length": 60
+  },
+  {
+    "id": 539,
+    "key": "unlock.housingTier3.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Elegant Housing",
+    "target_vi": "Nhà Sang Trọng",
+    "context": "unlock | Row 539",
+    "offset": 18887,
+    "length": 16
+  },
+  {
+    "id": 540,
+    "key": "unlock.housingTier3.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Very high housing quality thanks to plumbing, but requires piped access to water.",
+    "target_vi": "Chất lượng nhà ở rất cao nhờ có hệ thống cấp thoát nước, nhưng cần kết nối với đường ống nước sạch.",
+    "context": "unlock | Row 540",
+    "offset": 18917,
+    "length": 82
+  },
+  {
+    "id": 541,
+    "key": "unlock.recipe.advancedResearch.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "",
+    "target_vi": "Nghiên Cứu Chuyên Sâu",
+    "context": "unlock | Row 541",
+    "offset": 19013,
+    "length": 0
+  },
+  {
+    "id": 542,
+    "key": "unlock.recipe.advancedResearch.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "",
+    "target_vi": "Nghiên cứu nâng cao mở khóa các công nghệ thời kỳ hơi nước phức tạp.",
+    "context": "unlock | Row 542",
+    "offset": 19027,
+    "length": 0
+  },
+  {
+    "id": 543,
+    "key": "unlock.luxuries.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Luxury Deliveries",
+    "target_vi": "Phân Phối Hàng Xa Xỉ",
+    "context": "unlock | Row 543",
+    "offset": 19041,
+    "length": 18
+  },
+  {
+    "id": 544,
+    "key": "unlock.luxuries.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Provides the Luxuries Supplier, which distributes goods like furniture to nearby Whisker houses.\n\nEnables the Carpenter to craft furniture as a luxury good.",
+    "target_vi": "Cho phép xây Tiệm Cung Ứng Hàng Xa Xỉ để phân phát đồ dùng như bàn ghế đến các hộ gia đình chuột.\n\nCho phép Xưởng Mộc đóng bàn ghế làm hàng xa xỉ.",
+    "context": "unlock | Row 544",
+    "offset": 19073,
+    "length": 157
+  },
+  {
+    "id": 552,
+    "key": "policy.title.extrawood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stump Collection",
+    "target_vi": "Đào Bới Gốc Cây",
+    "context": "policy | Row 552",
+    "offset": 19472,
+    "length": 17
+  },
+  {
+    "id": 553,
+    "key": "policy.desc.extrawood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Pulling tree stumps provides a chance to provide extra wood when woodcutting",
+    "target_vi": "Đào bật gốc cây khi đốn gỗ có cơ hội thu thêm gỗ khúc.",
+    "context": "policy | Row 553",
+    "offset": 19503,
+    "length": 77
+  },
+  {
+    "id": 554,
+    "key": "unlock.wheat.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Wheat Cultivation",
+    "target_vi": "Canh Tác Lúa Mì",
+    "context": "unlock | Row 554",
+    "offset": 19594,
+    "length": 18
+  },
+  {
+    "id": 555,
+    "key": "unlock.wheat.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Enables farmers to grow wheat on farmland.\n\nWheat can yield plentiful harvest, but requires processing before consumption and is more sensitive to soil fertility than native crops.",
+    "target_vi": "Cho phép thợ nông gieo trồng lúa mì trên ruộng.\n\nLúa mì cho sản lượng dồi dào nhưng cần xay xát trước khi ăn và nhạy cảm với độ phì nhiêu của đất hơn cây bản địa.",
+    "context": "unlock | Row 555",
+    "offset": 19626,
+    "length": 181
+  },
+  {
+    "id": 560,
+    "key": "unlock.potashProcessing.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Potash Fertilizer",
+    "target_vi": "Phân Bón Kali",
+    "context": "unlock | Row 560",
+    "offset": 19923,
+    "length": 18
+  },
+  {
+    "id": 561,
+    "key": "unlock.potashProcessing.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ability to process potash into usable fertilizer at the Sifting Tower.",
+    "target_vi": "Khả năng tinh chế khoáng kali thành phân bón hữu dụng tại Tháp Sàng Khoáng Sản.",
+    "context": "unlock | Row 561",
+    "offset": 19955,
+    "length": 71
+  },
+  {
+    "id": 564,
+    "key": "unlock.mushroom.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Mushroom Cultivation",
+    "target_vi": "Canh Tác Nấm Ăn",
+    "context": "unlock | Row 564",
+    "offset": 20141,
+    "length": 21
+  },
+  {
+    "id": 565,
+    "key": "unlock.mushroom.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Enables farmers to grow mushrooms on farmland.\n\nMushrooms grow in dark places underground.",
+    "target_vi": "Cho phép thợ nông nuôi trồng nấm trên ruộng.\n\nNấm phát triển tốt ở những nơi ẩm tối dưới lòng đất.",
+    "context": "unlock | Row 565",
+    "offset": 20176,
+    "length": 91
+  },
+  {
+    "id": 566,
+    "key": "unlock.advancedCooking.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Trained Cooking",
+    "target_vi": "Nghệ Thuật Ẩm Thực",
+    "context": "unlock | Row 566",
+    "offset": 20281,
+    "length": 16
+  },
+  {
+    "id": 567,
+    "key": "unlock.advancedCooking.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Professional cooking which enables preparation of higher quality food at the Smokery, Soup Kitchen, and Bakery. An upgrade over amateur cooking.",
+    "target_vi": "Kỹ năng nấu ăn chuyên nghiệp giúp chế biến món ăn chất lượng cao tại Nhà Hun Khói, Bếp Nấu Súp và Lò Bánh Mì. Một bước tiến lớn so với nấu nướng nghiệp dư.",
+    "context": "unlock | Row 567",
+    "offset": 20311,
+    "length": 145
+  },
+  {
+    "id": 568,
+    "key": "unlock.spice.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Spice Cultivation",
+    "target_vi": "Gieo Trồng Gia Vị",
+    "context": "unlock | Row 568",
+    "offset": 20470,
+    "length": 18
+  },
+  {
+    "id": 569,
+    "key": "unlock.spice.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Enables farmers to grow peppers on farmland.\n\nThese exotic crops won't grow without fertilizer, but reward the highest culinary experiences.",
+    "target_vi": "Cho phép gieo trồng ớt cay trên đồng ruộng.\n\nLoài cây ngoại lai này không thể lớn nếu thiếu phân bón, nhưng đem lại những trải nghiệm ẩm thực thượng hạng nhất.",
+    "context": "unlock | Row 569",
+    "offset": 20502,
+    "length": 141
+  },
+  {
+    "id": 570,
+    "key": "unlock.tea.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tea Cultivation",
+    "target_vi": "Canh Tác Cây Trà",
+    "context": "unlock | Row 570",
+    "offset": 20657,
+    "length": 16
+  },
+  {
+    "id": 571,
+    "key": "unlock.tea.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Enables farmers to grow tea on farmland.\n\nHomegrown tea will facilitate independence, but demands fertilizer to grow properly.",
+    "target_vi": "Cho phép nông dân trồng trà trên đồng ruộng.\n\nNguồn trà tự cung tự cấp giúp làng tự chủ, nhưng đòi hỏi bón phân đầy đủ để phát triển.",
+    "context": "unlock | Row 571",
+    "offset": 20687,
+    "length": 127
+  },
+  {
+    "id": 611,
+    "key": "unlock.valves.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fluid Controls",
+    "target_vi": "Điều Tiết Dẫn Dòng",
+    "context": "unlock | Row 611",
+    "offset": 22239,
+    "length": 15
+  },
+  {
+    "id": 612,
+    "key": "unlock.valves.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Valves enable more advanced control of fluid routing.\n\nCan be manually controlled or configured with activation thresholds.",
+    "target_vi": "Các loại van giúp điều khiển mạng lưới dẫn chất lỏng chuyên sâu hơn.\n\nCó thể điều khiển thủ công hoặc cài đặt ngưỡng kích hoạt tự động.",
+    "context": "unlock | Row 612",
+    "offset": 22268,
+    "length": 124
+  },
+  {
+    "id": 619,
+    "key": "unlock.railTech.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Passenger Rail",
+    "target_vi": "Đường Sắt Chở Khách",
+    "context": "unlock | Row 619",
+    "offset": 22663,
+    "length": 15
+  },
+  {
+    "id": 620,
+    "key": "unlock.railTech.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Swift, long-distance Whisker transport.\n\nWhiskers enter or exit carts at station platforms, which launch unpowered carts.",
+    "target_vi": "Hệ thống vận tải tốc độ cao đưa chuột đi xa nhanh chóng.\n\nChuột lên hoặc xuống toa tại các sân ga đón trả khách.",
+    "context": "unlock | Row 620",
+    "offset": 22692,
+    "length": 122
+  },
+  {
+    "id": 628,
+    "key": "unlock.recipe.ironsmelting.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "",
+    "target_vi": "Luyện Sắt Thỏi",
+    "context": "unlock | Row 628",
+    "offset": 23018,
+    "length": 0
+  },
+  {
+    "id": 629,
+    "key": "unlock.recipe.ironsmelting.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "",
+    "target_vi": "Bản vẽ luyện quặng sắt thành các thỏi sắt kiên cố.",
+    "context": "unlock | Row 629",
+    "offset": 23032,
+    "length": 0
+  },
+  {
+    "id": 630,
+    "key": "unlock.recipe.goldsmelter.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gold Smelting",
+    "target_vi": "Luyện Vàng Thỏi",
+    "context": "unlock | Row 630",
+    "offset": 23046,
+    "length": 14
+  },
+  {
+    "id": 631,
+    "key": "unlock.recipe.goldsmelter.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smelting schematic to allow processing gold ore into valuable bullion bars at the Ore Furnace.",
+    "target_vi": "Công thức luyện kim cho phép nấu quặng vàng thành các thỏi vàng quý giá tại Lò Nấu Quặng.",
+    "context": "unlock | Row 631",
+    "offset": 23074,
+    "length": 95
+  },
+  {
+    "id": 632,
+    "key": "unlock.bedding.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for the sewing of bedding at the Tailor.\n\nBedding is distributed to Whisker houses by the Luxuries Supplier.",
+    "target_vi": "Bản vẽ may chăn đệm tại Tiệm May Mặc.\n\nChăn đệm được Tiệm Cung Ứng Hàng Xa Xỉ phân phát đến từng nhà chuột.",
+    "context": "unlock | Row 632",
+    "offset": 23183,
+    "length": 119
+  },
+  {
+    "id": 633,
+    "key": "unlock.bedding.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bedding",
+    "target_vi": "Chăn Đệm Ấm Áp",
+    "context": "unlock | Row 633",
+    "offset": 23316,
+    "length": 8
+  },
+  {
+    "id": 673,
+    "key": "unlock.tablesalt.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Table Salt",
+    "target_vi": "Muối Ăn Tinh Luyện",
+    "context": "unlock | Row 673",
+    "offset": 24911,
+    "length": 11
+  },
+  {
+    "id": 674,
+    "key": "unlock.tablesalt.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ability to process rock salt into table salt at the Sifting Tower.",
+    "target_vi": "Khả năng chế biến muối mỏ thành muối ăn tinh khiết tại Tháp Sàng Khoáng Sản.",
+    "context": "unlock | Row 674",
+    "offset": 24936,
+    "length": 67
+  },
+  {
+    "id": 675,
+    "key": "unlock.recipe.steelsmelting.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steel Smelting",
+    "target_vi": "Luyện Thép Cao Cấp",
+    "context": "unlock | Row 675",
+    "offset": 25017,
+    "length": 15
+  },
+  {
+    "id": 676,
+    "key": "unlock.recipe.steelsmelting.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smelting schematic for producing steel ingots from iron and coal at the Blast Furnace.",
+    "target_vi": "Bản vẽ luyện thỏi thép từ thỏi sắt và than đá tại Lò Cao Luyện Kim.",
+    "context": "unlock | Row 676",
+    "offset": 25046,
+    "length": 87
+  },
+  {
+    "id": 677,
+    "key": "unlock.recipe.bronzesmelter.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Smelting",
+    "target_vi": "Luyện Đồng Thanh",
+    "context": "unlock | Row 677",
+    "offset": 25147,
+    "length": 16
+  },
+  {
+    "id": 678,
+    "key": "unlock.recipe.bronzesmelter.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smelting schematic for producing bronze ingots from copper and tin at the Ore Furnace.",
+    "target_vi": "Bản vẽ đúc thỏi đồng thanh từ đồng đỏ và thiếc tại Lò Nấu Quặng.",
+    "context": "unlock | Row 678",
+    "offset": 25177,
+    "length": 87
+  },
+  {
+    "id": 679,
+    "key": "unlock.steelcannons.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steel Cannons",
+    "target_vi": "Đại Bác Thép",
+    "context": "unlock | Row 679",
+    "offset": 25278,
+    "length": 14
+  },
+  {
+    "id": 680,
+    "key": "unlock.steelcannons.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for the production of steel cannons at the Cannon Foundry.",
+    "target_vi": "Bản vẽ sản xuất pháo thép tại Xưởng Đúc Đại Bác.",
+    "context": "unlock | Row 680",
+    "offset": 25306,
+    "length": 69
+  },
+  {
+    "id": 681,
+    "key": "unlock.finetea.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fine Tea",
+    "target_vi": "Trà Thượng Hạng",
+    "context": "unlock | Row 681",
+    "offset": 25389,
+    "length": 9
+  },
+  {
+    "id": 682,
+    "key": "unlock.finetea.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A secret recipe to combine tea leaves with spices to produce fine tea.",
+    "target_vi": "Bí quyết phối trộn búp trà với gia vị để tạo ra trà thượng hạng.",
+    "context": "unlock | Row 682",
+    "offset": 25412,
+    "length": 71
+  },
+  {
+    "id": 683,
+    "key": "unlock.soap.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Soap",
+    "target_vi": "Xà Phòng Tắm",
+    "context": "unlock | Row 683",
+    "offset": 25497,
+    "length": 5
+  },
+  {
+    "id": 684,
+    "key": "unlock.soap.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for the production of soap at the Laboratory.\n\nSoap is distributed to Whisker houses by the Luxuries Supplier.",
+    "target_vi": "Bản vẽ sản xuất xà phòng tại Phòng Hóa Phẩm.\n\nXà phòng được Tiệm Cung Ứng Hàng Xa Xỉ phân phát đến từng nhà chuột.",
+    "context": "unlock | Row 684",
+    "offset": 25516,
+    "length": 121
+  },
+  {
+    "id": 693,
+    "key": "policy.title.directtax",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Direct Taxation",
+    "target_vi": "Thu Thuế Trực Tiếp",
+    "context": "policy | Row 693",
+    "offset": 25911,
+    "length": 16
+  },
+  {
+    "id": 694,
+    "key": "policy.desc.directtax",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Wander the colony demanding a daily tax from each Whisker to help pay down debts.",
+    "target_vi": "Đi quanh làng đòi thu thuế mỗi ngày từ từng chú chuột để bù vào nợ thuế cống nạp.",
+    "context": "policy | Row 694",
+    "offset": 25941,
+    "length": 82
+  },
+  {
+    "id": 748,
+    "key": "resource.wood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Logs",
+    "target_vi": "Gỗ Khúc",
+    "context": "resource | Row 748",
+    "offset": 31344,
+    "length": 5
+  },
+  {
+    "id": 749,
+    "key": "resource.planks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Planks",
+    "target_vi": "Ván Gỗ",
+    "context": "resource | Row 749",
+    "offset": 31363,
+    "length": 7
+  },
+  {
+    "id": 750,
+    "key": "resource.stone",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stone",
+    "target_vi": "Đá Tảng",
+    "context": "resource | Row 750",
+    "offset": 31384,
+    "length": 6
+  },
+  {
+    "id": 751,
+    "key": "resource.bricks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cut Stone",
+    "target_vi": "Đá Đẽo Gọt",
+    "context": "resource | Row 751",
+    "offset": 31404,
+    "length": 10
+  },
+  {
+    "id": 752,
+    "key": "resource.wheat",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Wheat",
+    "target_vi": "Lúa Mì",
+    "context": "resource | Row 752",
+    "offset": 31428,
+    "length": 6
+  },
+  {
+    "id": 753,
+    "key": "resource.flour",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Flour",
+    "target_vi": "Bột Mì",
+    "context": "resource | Row 753",
+    "offset": 31448,
+    "length": 6
+  },
+  {
+    "id": 754,
+    "key": "resource.spice",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Spices",
+    "target_vi": "Gia Vị",
+    "context": "resource | Row 754",
+    "offset": 31468,
+    "length": 7
+  },
+  {
+    "id": 755,
+    "key": "resource.rawfish",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fish",
+    "target_vi": "Cá Tươi",
+    "context": "resource | Row 755",
+    "offset": 31489,
+    "length": 5
+  },
+  {
+    "id": 756,
+    "key": "resource.mushroom",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Mushrooms",
+    "target_vi": "Nấm Ăn",
+    "context": "resource | Row 756",
+    "offset": 31508,
+    "length": 10
+  },
+  {
+    "id": 757,
+    "key": "resource.berries",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Berries",
+    "target_vi": "Quả Mọng",
+    "context": "resource | Row 757",
+    "offset": 31532,
+    "length": 8
+  },
+  {
+    "id": 758,
+    "key": "resource.bread",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bread",
+    "target_vi": "Bánh Mì",
+    "context": "resource | Row 758",
+    "offset": 31554,
+    "length": 6
+  },
+  {
+    "id": 759,
+    "key": "resource.smokedfish",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smoked Fish",
+    "target_vi": "Cá Hun Khói",
+    "context": "resource | Row 759",
+    "offset": 31574,
+    "length": 12
+  },
+  {
+    "id": 760,
+    "key": "resource.berrysoup",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Berry Soup",
+    "target_vi": "Súp Quả Mọng",
+    "context": "resource | Row 760",
+    "offset": 31600,
+    "length": 11
+  },
+  {
+    "id": 761,
+    "key": "resource.jampastry",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Jam Pastries",
+    "target_vi": "Bánh Nhân Mứt",
+    "context": "resource | Row 761",
+    "offset": 31625,
+    "length": 13
+  },
+  {
+    "id": 762,
+    "key": "resource.stew",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Mushroom Stew",
+    "target_vi": "Súp Nấm Hầm",
+    "context": "resource | Row 762",
+    "offset": 31652,
+    "length": 14
+  },
+  {
+    "id": 763,
+    "key": "resource.fishskewers",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fish Skewers",
+    "target_vi": "Cá Xiên Nướng",
+    "context": "resource | Row 763",
+    "offset": 31680,
+    "length": 13
+  },
+  {
+    "id": 764,
+    "key": "resource.simplemeal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Savory Meals",
+    "target_vi": "Bữa Ăn Đậm Đà",
+    "context": "resource | Row 764",
+    "offset": 31707,
+    "length": 13
+  },
+  {
+    "id": 765,
+    "key": "resource.heartymeal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Hearty Meals",
+    "target_vi": "Bữa Ăn Thịnh Soạn",
+    "context": "resource | Row 765",
+    "offset": 31734,
+    "length": 13
+  },
+  {
+    "id": 766,
+    "key": "resource.platter",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fancy Meals",
+    "target_vi": "Bữa Ăn Sang Trọng",
+    "context": "resource | Row 766",
+    "offset": 31761,
+    "length": 12
+  },
+  {
+    "id": 767,
+    "key": "resource.cannedfood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Canned Food",
+    "target_vi": "Đồ Hộp",
+    "context": "resource | Row 767",
+    "offset": 31787,
+    "length": 12
+  },
+  {
+    "id": 768,
+    "key": "resource.basicRations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Hardtack",
+    "target_vi": "Bánh Lương Khô",
+    "context": "resource | Row 768",
+    "offset": 31813,
+    "length": 9
+  },
+  {
+    "id": 769,
+    "key": "resource.tea",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tea",
+    "target_vi": "Trà Đen",
+    "context": "resource | Row 769",
+    "offset": 31836,
+    "length": 4
+  },
+  {
+    "id": 770,
+    "key": "resource.finetea",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fine Tea",
+    "target_vi": "Trà Thượng Hạng",
+    "context": "resource | Row 770",
+    "offset": 31854,
+    "length": 9
+  },
+  {
+    "id": 771,
+    "key": "resource.tealeaves",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tea Leaves",
+    "target_vi": "Búp Trà Tươi",
+    "context": "resource | Row 771",
+    "offset": 31877,
+    "length": 11
+  },
+  {
+    "id": 772,
+    "key": "resource.flax",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Flax",
+    "target_vi": "Cây Lanh",
+    "context": "resource | Row 772",
+    "offset": 31902,
+    "length": 5
+  },
+  {
+    "id": 773,
+    "key": "resource.cotton",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cotton",
+    "target_vi": "Xơ Bông",
+    "context": "resource | Row 773",
+    "offset": 31921,
+    "length": 7
+  },
+  {
+    "id": 774,
+    "key": "resource.rope",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ropes",
+    "target_vi": "Dây Thừng",
+    "context": "resource | Row 774",
+    "offset": 31942,
+    "length": 6
+  },
+  {
+    "id": 775,
+    "key": "resource.fabric",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fabrics",
+    "target_vi": "Vải Vóc",
+    "context": "resource | Row 775",
+    "offset": 31962,
+    "length": 8
+  },
+  {
+    "id": 776,
+    "key": "resource.fishingnet",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fishing Nets",
+    "target_vi": "Lưới Đánh Cá",
+    "context": "resource | Row 776",
+    "offset": 31984,
+    "length": 13
+  },
+  {
+    "id": 777,
+    "key": "resource.sail",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Sails",
+    "target_vi": "Cánh Buồm",
+    "context": "resource | Row 777",
+    "offset": 32011,
+    "length": 6
+  },
+  {
+    "id": 778,
+    "key": "resource.clothes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tailored Cloaks",
+    "target_vi": "Áo Choàng May Đo",
+    "context": "resource | Row 778",
+    "offset": 32031,
+    "length": 16
+  },
+  {
+    "id": 779,
+    "key": "resource.bedding",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bedding",
+    "target_vi": "Chăn Đệm",
+    "context": "resource | Row 779",
+    "offset": 32061,
+    "length": 8
+  },
+  {
+    "id": 780,
+    "key": "resource.copperore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Copper Ore",
+    "target_vi": "Quặng Đồng",
+    "context": "resource | Row 780",
+    "offset": 32083,
+    "length": 11
+  },
+  {
+    "id": 781,
+    "key": "resource.tinore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tin Ore",
+    "target_vi": "Quặng Thiếc",
+    "context": "resource | Row 781",
+    "offset": 32108,
+    "length": 8
+  },
+  {
+    "id": 782,
+    "key": "resource.ironore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron Ore",
+    "target_vi": "Quặng Sắt",
+    "context": "resource | Row 782",
+    "offset": 32130,
+    "length": 9
+  },
+  {
+    "id": 783,
+    "key": "resource.goldore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gold Ore",
+    "target_vi": "Quặng Vàng",
+    "context": "resource | Row 783",
+    "offset": 32153,
+    "length": 9
+  },
+  {
+    "id": 784,
+    "key": "resource.coal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Coal",
+    "target_vi": "Than Đá",
+    "context": "resource | Row 784",
+    "offset": 32176,
+    "length": 5
+  },
+  {
+    "id": 785,
+    "key": "resource.rocksalt",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rock Salt",
+    "target_vi": "Muối Mỏ",
+    "context": "resource | Row 785",
+    "offset": 32195,
+    "length": 10
+  },
+  {
+    "id": 786,
+    "key": "resource.potash",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Potash",
+    "target_vi": "Khoáng Kali",
+    "context": "resource | Row 786",
+    "offset": 32219,
+    "length": 7
+  },
+  {
+    "id": 787,
+    "key": "resource.cobaltore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cobalt Ore",
+    "target_vi": "Quặng Coban",
+    "context": "resource | Row 787",
+    "offset": 32240,
+    "length": 11
+  },
+  {
+    "id": 789,
+    "key": "resource.copperbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Copper Bars",
+    "target_vi": "Thỏi Đồng Đỏ",
+    "context": "resource | Row 789",
+    "offset": 32292,
+    "length": 12
+  },
+  {
+    "id": 790,
+    "key": "resource.bronze",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Bars",
+    "target_vi": "Thỏi Đồng Thanh",
+    "context": "resource | Row 790",
+    "offset": 32318,
+    "length": 12
+  },
+  {
+    "id": 791,
+    "key": "resource.ironbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron Bars",
+    "target_vi": "Thỏi Sắt",
+    "context": "resource | Row 791",
+    "offset": 32344,
+    "length": 10
+  },
+  {
+    "id": 792,
+    "key": "resource.steel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steel Bars",
+    "target_vi": "Thỏi Thép",
+    "context": "resource | Row 792",
+    "offset": 32368,
+    "length": 11
+  },
+  {
+    "id": 793,
+    "key": "resource.goldbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gold Bullion",
+    "target_vi": "Vàng Thỏi",
+    "context": "resource | Row 793",
+    "offset": 32393,
+    "length": 13
+  },
+  {
+    "id": 795,
+    "key": "resource.ruby",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rubies",
+    "target_vi": "Hồng Ngọc",
+    "context": "resource | Row 795",
+    "offset": 32446,
+    "length": 7
+  },
+  {
+    "id": 796,
+    "key": "resource.sapphire",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Sapphires",
+    "target_vi": "Lam Ngọc",
+    "context": "resource | Row 796",
+    "offset": 32467,
+    "length": 10
+  },
+  {
+    "id": 797,
+    "key": "resource.emerald",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Emeralds",
+    "target_vi": "Ngọc Lục Bảo",
+    "context": "resource | Row 797",
+    "offset": 32491,
+    "length": 9
+  },
+  {
+    "id": 798,
+    "key": "resource.amethyst",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amethyst",
+    "target_vi": "Thạch Anh Tím",
+    "context": "resource | Row 798",
+    "offset": 32514,
+    "length": 9
+  },
+  {
+    "id": 799,
+    "key": "resource.amber",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amber",
+    "target_vi": "Hổ Phách",
+    "context": "resource | Row 799",
+    "offset": 32537,
+    "length": 6
+  },
+  {
+    "id": 800,
+    "key": "resource.obsidian",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Obsidian",
+    "target_vi": "Hắc Diệu Thạch",
+    "context": "resource | Row 800",
+    "offset": 32557,
+    "length": 9
+  },
+  {
+    "id": 801,
+    "key": "resource.fuel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fuel",
+    "target_vi": "Nhiên Liệu",
+    "context": "resource | Row 801",
+    "offset": 32580,
+    "length": 5
+  },
+  {
+    "id": 802,
+    "key": "resource.fertilizer",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fertilizer",
+    "target_vi": "Phân Bón",
+    "context": "resource | Row 802",
+    "offset": 32599,
+    "length": 11
+  },
+  {
+    "id": 803,
+    "key": "resource.tablesalt",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Table Salt",
+    "target_vi": "Muối Ăn",
+    "context": "resource | Row 803",
+    "offset": 32624,
+    "length": 11
+  },
+  {
+    "id": 804,
+    "key": "resource.salinesolution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Saline Solution",
+    "target_vi": "Dung Dịch Nước Muối",
+    "context": "resource | Row 804",
+    "offset": 32649,
+    "length": 16
+  },
+  {
+    "id": 805,
+    "key": "resource.oil",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Oil",
+    "target_vi": "Dầu Bôi Trơn",
+    "context": "resource | Row 805",
+    "offset": 32679,
+    "length": 4
+  },
+  {
+    "id": 806,
+    "key": "resource.medicine",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Medicine",
+    "target_vi": "Dược Phẩm",
+    "context": "resource | Row 806",
+    "offset": 32697,
+    "length": 9
+  },
+  {
+    "id": 807,
+    "key": "resource.soap",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Soap",
+    "target_vi": "Xà Phòng",
+    "context": "resource | Row 807",
+    "offset": 32720,
+    "length": 5
+  },
+  {
+    "id": 808,
+    "key": "resource.candles",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Candles",
+    "target_vi": "Nến Thắp Sáng",
+    "context": "resource | Row 808",
+    "offset": 32739,
+    "length": 8
+  },
+  {
+    "id": 809,
+    "key": "resource.nails",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Nails",
+    "target_vi": "Đinh Đồng",
+    "context": "resource | Row 809",
+    "offset": 32761,
+    "length": 13
+  },
+  {
+    "id": 810,
+    "key": "resource.teaset",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tea Set",
+    "target_vi": "Bộ Ấm Chén",
+    "context": "resource | Row 810",
+    "offset": 32788,
+    "length": 8
+  },
+  {
+    "id": 811,
+    "key": "resource.furniture",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Furniture",
+    "target_vi": "Bàn Ghế Gỗ",
+    "context": "resource | Row 811",
+    "offset": 32810,
+    "length": 10
+  },
+  {
+    "id": 812,
+    "key": "resource.cannonframes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cannon Frames",
+    "target_vi": "Khung Bệ Pháo",
+    "context": "resource | Row 812",
+    "offset": 32834,
+    "length": 14
+  },
+  {
+    "id": 813,
+    "key": "resource.bronzecannons",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Cannons",
+    "target_vi": "Đại Bác Đồng Thanh",
+    "context": "resource | Row 813",
+    "offset": 32862,
+    "length": 15
+  },
+  {
+    "id": 814,
+    "key": "resource.handTool",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Metal Tools",
+    "target_vi": "Công Cụ Kim Loại",
+    "context": "resource | Row 814",
+    "offset": 32891,
+    "length": 12
+  },
+  {
+    "id": 815,
+    "key": "resource.steelplates",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steel Plates",
+    "target_vi": "Tấm Thép Cán",
+    "context": "resource | Row 815",
+    "offset": 32917,
+    "length": 13
+  },
+  {
+    "id": 816,
+    "key": "resource.steelcannons",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Steel Cannons",
+    "target_vi": "Đại Bác Thép",
+    "context": "resource | Row 816",
+    "offset": 32944,
+    "length": 14
+  },
+  {
+    "id": 817,
+    "key": "resource.tools",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Machinery",
+    "target_vi": "Máy Móc Cơ Khí",
+    "context": "resource | Row 817",
+    "offset": 32972,
+    "length": 10
+  },
+  {
+    "id": 818,
+    "key": "resource.trinkets",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Trinkets",
+    "target_vi": "Đồ Mỹ Nghệ",
+    "context": "resource | Row 818",
+    "offset": 32996,
+    "length": 9
+  },
+  {
+    "id": 819,
+    "key": "resource.influence",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Approval",
+    "target_vi": "Lòng Dân",
+    "context": "resource | Row 819",
+    "offset": 33019,
+    "length": 9
+  },
+  {
+    "id": 820,
+    "key": "resource.goldCoin",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gold Coins",
+    "target_vi": "Đồng Tiền Vàng",
+    "context": "resource | Row 820",
+    "offset": 33042,
+    "length": 11
+  },
+  {
+    "id": 821,
+    "key": "resource.research",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Research",
+    "target_vi": "Điểm Tri Thức",
+    "context": "resource | Row 821",
+    "offset": 33067,
+    "length": 9
+  },
+  {
+    "id": 822,
+    "key": "resource.xp",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Contract Xp",
+    "target_vi": "Kinh Nghiệm Hợp Đồng",
+    "context": "resource | Row 822",
+    "offset": 33090,
+    "length": 12
+  },
+  {
+    "id": 824,
+    "key": "resource.smallship",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Small Sloop",
+    "target_vi": "Thuyền Buồm Cỡ Nhỏ",
+    "context": "resource | Row 824",
+    "offset": 33143,
+    "length": 12
+  },
+  {
+    "id": 825,
+    "key": "resource.frigate",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Frigate",
+    "target_vi": "Tàu Hộ Vệ Frigate",
+    "context": "resource | Row 825",
+    "offset": 33169,
+    "length": 8
+  },
+  {
+    "id": 826,
+    "key": "resource.fluid_water",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Piped Water",
+    "target_vi": "Nước Ống Dẫn",
+    "context": "resource | Row 826",
+    "offset": 33191,
+    "length": 12
+  },
+  {
+    "id": 827,
+    "key": "resource.fluid_steam",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Piped Steam",
+    "target_vi": "Hơi Nước Ống Dẫn",
+    "context": "resource | Row 827",
+    "offset": 33217,
+    "length": 12
+  },
+  {
+    "id": 828,
+    "key": "resource.agent",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers",
+    "target_vi": "Dân Chuột",
+    "context": "resource | Row 828",
+    "offset": 33243,
+    "length": 9
+  },
+  {
+    "id": 829,
+    "key": "resource.mineTool.unknown",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unknown",
+    "target_vi": "Chưa Rõ",
+    "context": "resource | Row 829",
+    "offset": 33266,
+    "length": 8
+  },
+  {
+    "id": 830,
+    "key": "resource.mineTool.bedrock",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bedrock",
+    "target_vi": "Đá Nền",
+    "context": "resource | Row 830",
+    "offset": 33288,
+    "length": 8
+  },
+  {
+    "id": 831,
+    "key": "resource.mineTool.ocean",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ocean Floor",
+    "target_vi": "Đáy Biển",
+    "context": "resource | Row 831",
+    "offset": 33310,
+    "length": 12
+  },
+  {
+    "id": 832,
+    "key": "resource.farmTool.nutrients",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Nutrients",
+    "target_vi": "Dinh Dưỡng",
+    "context": "resource | Row 832",
+    "offset": 33336,
+    "length": 10
+  },
+  {
+    "id": 833,
+    "key": "resource.farmTool.rocks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rockiness",
+    "target_vi": "Độ Lẫn Đá",
+    "context": "resource | Row 833",
+    "offset": 33360,
+    "length": 10
+  },
+  {
+    "id": 834,
+    "key": "resource.farmTool.light",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Sunlight",
+    "target_vi": "Ánh Nắng",
+    "context": "resource | Row 834",
+    "offset": 33384,
+    "length": 9
+  },
+  {
+    "id": 835,
+    "key": "resource.farmTool.pollution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Pollution",
+    "target_vi": "Ô Nhiễm",
+    "context": "resource | Row 835",
+    "offset": 33407,
+    "length": 10
+  },
+  {
+    "id": 836,
+    "key": "resource.noitem",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "None",
+    "target_vi": "Không Có",
+    "context": "resource | Row 836",
+    "offset": 33431,
+    "length": 5
+  },
+  {
+    "id": 837,
+    "key": "resource.waste",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Waste",
+    "target_vi": "Phế Thải",
+    "context": "resource | Row 837",
+    "offset": 33450,
+    "length": 6
+  },
+  {
+    "id": 872,
+    "key": "policy.title.intimidatingstatues",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stone Eyes",
+    "target_vi": "Đôi Mắt Đá",
+    "context": "policy | Row 872",
+    "offset": 34593,
+    "length": 11
+  },
+  {
+    "id": 873,
+    "key": "policy.desc.intimidatingstatues",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Speed boosts from passing statues are increased and last twice as long.",
+    "target_vi": "Hiệu ứng tăng tốc khi đi ngang qua các tượng đài thị uy được gia tăng và kéo dài gấp đôi.",
+    "context": "policy | Row 873",
+    "offset": 34618,
+    "length": 72
+  },
+  {
+    "id": 876,
+    "key": "resource.peppers",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Peppers",
+    "target_vi": "Ớt Cay",
+    "context": "resource | Row 876",
+    "offset": 34779,
+    "length": 8
+  },
+  {
+    "id": 894,
+    "key": "resource.trees",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Trees",
+    "target_vi": "Cây Rừng",
+    "context": "resource | Row 894",
+    "offset": 36429,
+    "length": 6
+  },
+  {
+    "id": 904,
+    "key": "resource.desc.wood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Common unrefined logs.",
+    "target_vi": "Gỗ khúc thô sơ chưa qua sơ chế.",
+    "context": "resource | Row 904",
+    "offset": 36661,
+    "length": 23
+  },
+  {
+    "id": 928,
+    "key": "resource.farmTool.soilProps",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Environment",
+    "target_vi": "Môi Trường",
+    "context": "resource | Row 928",
+    "offset": 37647,
+    "length": 12
+  },
+  {
+    "id": 929,
+    "key": "resource.farmTool.cropFertilty",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Crop Fertility",
+    "target_vi": "Độ Phì Nhiêu Cây Trồng",
+    "context": "resource | Row 929",
+    "offset": 37673,
+    "length": 15
+  },
+  {
+    "id": 930,
+    "key": "resource.farmTool.clear",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Clear Overlay",
+    "target_vi": "Tắt Lớp Phủ",
+    "context": "resource | Row 930",
+    "offset": 37702,
+    "length": 14
+  },
+  {
+    "id": 933,
+    "key": "resource.mousetrap",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bugtraps",
+    "target_vi": "Bẫy Sâu Bọ",
+    "context": "resource | Row 933",
+    "offset": 37787,
+    "length": 9
+  },
+  {
+    "id": 1012,
+    "key": "resource.allores",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "All Ores",
+    "target_vi": "Mọi Loại Quặng",
+    "context": "resource | Row 1012",
+    "offset": 42512,
+    "length": 9
+  },
+  {
+    "id": 1026,
+    "key": "resource.desc.planks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Refined wooden planks.",
+    "target_vi": "Ván gỗ đã qua xẻ gọt nhẵn bóng.",
+    "context": "resource | Row 1026",
+    "offset": 42912,
+    "length": 23
+  },
+  {
+    "id": 1027,
+    "key": "resource.desc.stone",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rough uncut stones.",
+    "target_vi": "Đá tảng thô chưa đẽo gọt.",
+    "context": "resource | Row 1027",
+    "offset": 42949,
+    "length": 20
+  },
+  {
+    "id": 1028,
+    "key": "resource.desc.bricks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Precisely cut stone for masonry.",
+    "target_vi": "Khối đá được đẽo gọt chuẩn xác cho việc xây dựng.",
+    "context": "resource | Row 1028",
+    "offset": 42983,
+    "length": 33
+  },
+  {
+    "id": 1029,
+    "key": "resource.desc.wheat",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "High-yield food crop that requires processing.",
+    "target_vi": "Cây lương thực cho sản lượng cao nhưng cần xay xát.",
+    "context": "resource | Row 1029",
+    "offset": 43030,
+    "length": 47
+  },
+  {
+    "id": 1030,
+    "key": "resource.desc.flour",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Efficient source of calories when cooked.",
+    "target_vi": "Nguồn calo dồi dào và hiệu quả khi được nấu chín.",
+    "context": "resource | Row 1030",
+    "offset": 43091,
+    "length": 42
+  },
+  {
+    "id": 1031,
+    "key": "resource.desc.peppers",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Spicy goodness.",
+    "target_vi": "Vị cay nồng thơm ngon.",
+    "context": "resource | Row 1031",
+    "offset": 43147,
+    "length": 16
+  },
+  {
+    "id": 1032,
+    "key": "resource.desc.spice",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ground spices for exquisite meals.",
+    "target_vi": "Gia vị xay nhuyễn dùng cho các bữa ăn thượng hạng.",
+    "context": "resource | Row 1032",
+    "offset": 43177,
+    "length": 35
+  },
+  {
+    "id": 1033,
+    "key": "resource.desc.rawfish",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Freshly caught raw fish.",
+    "target_vi": "Cá tươi mới đánh bắt từ biển.",
+    "context": "resource | Row 1033",
+    "offset": 43226,
+    "length": 25
+  },
+  {
+    "id": 1034,
+    "key": "resource.desc.mushroom",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "An edible fungus.",
+    "target_vi": "Một loài nấm ăn được.",
+    "context": "resource | Row 1034",
+    "offset": 43265,
+    "length": 18
+  },
+  {
+    "id": 1035,
+    "key": "resource.desc.berries",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Simple, but nutritious.",
+    "target_vi": "Đơn sơ nhưng giàu dinh dưỡng.",
+    "context": "resource | Row 1035",
+    "offset": 43297,
+    "length": 24
+  },
+  {
+    "id": 1036,
+    "key": "resource.desc.bread",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Freshly baked bread.",
+    "target_vi": "Ổ bánh mì mới ra lò thơm phức.",
+    "context": "resource | Row 1036",
+    "offset": 43335,
+    "length": 21
+  },
+  {
+    "id": 1037,
+    "key": "resource.desc.smokedfish",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Salted and delicious.",
+    "target_vi": "Ướp muối và hun khói thơm ngon.",
+    "context": "resource | Row 1037",
+    "offset": 43370,
+    "length": 22
+  },
+  {
+    "id": 1038,
+    "key": "resource.desc.berrysoup",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A refined sweet soup.",
+    "target_vi": "Món súp ngọt thanh tao.",
+    "context": "resource | Row 1038",
+    "offset": 43406,
+    "length": 22
+  },
+  {
+    "id": 1039,
+    "key": "resource.desc.jampastry",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fancy bread with filling.",
+    "target_vi": "Bánh mì cao cấp kẹp nhân mứt.",
+    "context": "resource | Row 1039",
+    "offset": 43442,
+    "length": 26
+  },
+  {
+    "id": 1040,
+    "key": "resource.desc.stew",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Deliciously cooked and warm.",
+    "target_vi": "Món hầm nấu chín nóng hổi, ấm bụng.",
+    "context": "resource | Row 1040",
+    "offset": 43482,
+    "length": 29
+  },
+  {
+    "id": 1041,
+    "key": "resource.desc.fishskewers",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Expertly prepared fish.",
+    "target_vi": "Cá xiên nướng được chế biến khéo léo.",
+    "context": "resource | Row 1041",
+    "offset": 43525,
+    "length": 24
+  },
+  {
+    "id": 1042,
+    "key": "resource.desc.simplemeal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A flavorful meal.",
+    "target_vi": "Một bữa ăn đậm đà hương vị.",
+    "context": "resource | Row 1042",
+    "offset": 43563,
+    "length": 18
+  },
+  {
+    "id": 1043,
+    "key": "resource.desc.heartymeal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A filling meal.",
+    "target_vi": "Một bữa ăn thịnh soạn no nê.",
+    "context": "resource | Row 1043",
+    "offset": 43595,
+    "length": 16
+  },
+  {
+    "id": 1044,
+    "key": "resource.desc.platter",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A refreshing meal.",
+    "target_vi": "Một bữa ăn tươi ngon sảng khoái.",
+    "context": "resource | Row 1044",
+    "offset": 43625,
+    "length": 19
+  },
+  {
+    "id": 1045,
+    "key": "resource.desc.cannedfood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rations for voyages on the high seas.",
+    "target_vi": "Lương khô đóng hộp phục vụ những chuyến hải trình dài ngày.",
+    "context": "resource | Row 1045",
+    "offset": 43658,
+    "length": 38
+  },
+  {
+    "id": 1046,
+    "key": "resource.desc.basicRations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Dry salty hardtack. Will keep you full and working.",
+    "target_vi": "Lương khô mặn chát, ăn chắc bụng để làm lụng.",
+    "context": "resource | Row 1046",
+    "offset": 43710,
+    "length": 52
+  },
+  {
+    "id": 1047,
+    "key": "resource.desc.tea",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A basic black tea to be enjoyed at night.",
+    "target_vi": "Trà đen mộc mạc thưởng thức vào buổi tối.",
+    "context": "resource | Row 1047",
+    "offset": 43776,
+    "length": 42
+  },
+  {
+    "id": 1048,
+    "key": "resource.desc.finetea",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "High-grade tea preferred by nobility.",
+    "target_vi": "Trà thượng hạng được giới quý tộc ưa chuộng.",
+    "context": "resource | Row 1048",
+    "offset": 43832,
+    "length": 38
+  },
+  {
+    "id": 1049,
+    "key": "resource.desc.tealeaves",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Raw tea leaves waiting to be processed.",
+    "target_vi": "Búp trà tươi đang chờ được sao chế.",
+    "context": "resource | Row 1049",
+    "offset": 43884,
+    "length": 40
+  },
+  {
+    "id": 1050,
+    "key": "resource.desc.flax",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fiber-rich plant used to make linen.",
+    "target_vi": "Cây giàu chất xơ dùng để xe sợi dệt vải lanh.",
+    "context": "resource | Row 1050",
+    "offset": 43938,
+    "length": 37
+  },
+  {
+    "id": 1051,
+    "key": "resource.desc.cotton",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fiber crop used to make cloth.",
+    "target_vi": "Cây lấy xơ dùng để dệt vải bông mềm mại.",
+    "context": "resource | Row 1051",
+    "offset": 43989,
+    "length": 31
+  },
+  {
+    "id": 1052,
+    "key": "resource.desc.rope",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Industrial strength rope.",
+    "target_vi": "Dây thừng bện chắc nịch dùng trong công nghiệp.",
+    "context": "resource | Row 1052",
+    "offset": 44034,
+    "length": 26
+  },
+  {
+    "id": 1053,
+    "key": "resource.desc.fabric",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Woven textile of considerable durability.",
+    "target_vi": "Tấm vải dệt có độ bền cao.",
+    "context": "resource | Row 1053",
+    "offset": 44074,
+    "length": 42
+  },
+  {
+    "id": 1054,
+    "key": "resource.desc.fishingnet",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Various nets for fishing.",
+    "target_vi": "Các loại lưới bện để giăng bắt cá biển.",
+    "context": "resource | Row 1054",
+    "offset": 44130,
+    "length": 26
+  },
+  {
+    "id": 1055,
+    "key": "resource.desc.sail",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Essential shipbuilding material.",
+    "target_vi": "Vật liệu thiết yếu để đóng tàu vượt biển.",
+    "context": "resource | Row 1055",
+    "offset": 44170,
+    "length": 33
+  },
+  {
+    "id": 1056,
+    "key": "resource.desc.clothes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Comfortable clothing that increases resistance to cold.",
+    "target_vi": "Trang phục ấm áp giúp tăng khả năng chống rét.",
+    "context": "resource | Row 1056",
+    "offset": 44217,
+    "length": 56
+  },
+  {
+    "id": 1057,
+    "key": "resource.desc.bedding",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Quilted blankets for a deep sleep.",
+    "target_vi": "Chăn nệm chần bông cho giấc ngủ say nồng.",
+    "context": "resource | Row 1057",
+    "offset": 44287,
+    "length": 35
+  },
+  {
+    "id": 1058,
+    "key": "resource.desc.copperore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unprocessed copper ore.",
+    "target_vi": "Quặng đồng thô chưa qua chế biến.",
+    "context": "resource | Row 1058",
+    "offset": 44336,
+    "length": 24
+  },
+  {
+    "id": 1059,
+    "key": "resource.desc.tinore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unprocessed tin ore.",
+    "target_vi": "Quặng thiếc thô chưa qua chế biến.",
+    "context": "resource | Row 1059",
+    "offset": 44374,
+    "length": 21
+  },
+  {
+    "id": 1060,
+    "key": "resource.desc.ironore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unprocessed iron ore.",
+    "target_vi": "Quặng sắt thô chưa qua chế biến.",
+    "context": "resource | Row 1060",
+    "offset": 44409,
+    "length": 22
+  },
+  {
+    "id": 1061,
+    "key": "resource.desc.goldore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unprocessed gold ore.",
+    "target_vi": "Quặng vàng thô chưa qua chế biến.",
+    "context": "resource | Row 1061",
+    "offset": 44445,
+    "length": 22
+  },
+  {
+    "id": 1062,
+    "key": "resource.desc.coal",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Coal ore. Can be refined into fuel at a Sifting Tower.",
+    "target_vi": "Than đá. Có thể tinh chế thành nhiên liệu tại Tháp Sàng Khoáng Sản.",
+    "context": "resource | Row 1062",
+    "offset": 44481,
+    "length": 55
+  },
+  {
+    "id": 1063,
+    "key": "resource.desc.rocksalt",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Salty unprocessed mineral.",
+    "target_vi": "Khoáng muối mặn mòi chưa qua tinh chế.",
+    "context": "resource | Row 1063",
+    "offset": 44550,
+    "length": 27
+  },
+  {
+    "id": 1064,
+    "key": "resource.desc.potash",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Mineral that can be processed into fertilizer.",
+    "target_vi": "Khoáng sản có thể chế biến thành phân bón kali.",
+    "context": "resource | Row 1064",
+    "offset": 44591,
+    "length": 47
+  },
+  {
+    "id": 1065,
+    "key": "resource.desc.cobaltore",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unprocessed cobalt ore.",
+    "target_vi": "Quặng coban thô chưa qua chế biến.",
+    "context": "resource | Row 1065",
+    "offset": 44652,
+    "length": 24
+  },
+  {
+    "id": 1066,
+    "key": "resource.desc.copperbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smelted copper bars.",
+    "target_vi": "Thỏi đồng đỏ đã qua nấu chảy đúc khuôn.",
+    "context": "resource | Row 1066",
+    "offset": 44690,
+    "length": 21
+  },
+  {
+    "id": 1067,
+    "key": "resource.desc.bronze",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Advanced alloy of tin and copper.",
+    "target_vi": "Hợp kim cao cấp pha trộn giữa thiếc và đồng đỏ.",
+    "context": "resource | Row 1067",
+    "offset": 44725,
+    "length": 34
+  },
+  {
+    "id": 1068,
+    "key": "resource.desc.ironbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Smelted iron bars.",
+    "target_vi": "Thỏi sắt đã qua luyện kim đúc khuôn.",
+    "context": "resource | Row 1068",
+    "offset": 44773,
+    "length": 19
+  },
+  {
+    "id": 1069,
+    "key": "resource.desc.steel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "The strongest metal.",
+    "target_vi": "Kim loại cứng cáp và bền vững nhất.",
+    "context": "resource | Row 1069",
+    "offset": 44806,
+    "length": 21
+  },
+  {
+    "id": 1070,
+    "key": "resource.desc.goldbar",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Gold smelted into usable bars.",
+    "target_vi": "Vàng ròng được đúc thành những thỏi quý giá.",
+    "context": "resource | Row 1070",
+    "offset": 44841,
+    "length": 31
+  },
+  {
+    "id": 1071,
+    "key": "resource.desc.fuel",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Vital for heating, cooking, and industry.",
+    "target_vi": "Thiết yếu cho sưởi ấm, nấu ăn và công nghiệp.",
+    "context": "resource | Row 1071",
+    "offset": 44886,
+    "length": 42
+  },
+  {
+    "id": 1072,
+    "key": "resource.desc.fertilizer",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Replenishes or boosts fertility of cropland.",
+    "target_vi": "Phục hồi hoặc tăng cường độ phì nhiêu cho đồng ruộng.",
+    "context": "resource | Row 1072",
+    "offset": 44942,
+    "length": 45
+  },
+  {
+    "id": 1073,
+    "key": "resource.desc.tablesalt",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Improves the taste a bit.",
+    "target_vi": "Tăng thêm vị đậm đà cho món ăn.",
+    "context": "resource | Row 1073",
+    "offset": 45001,
+    "length": 26
+  },
+  {
+    "id": 1074,
+    "key": "resource.desc.salinesolution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Can replenish fluids lost to injury and illness.",
+    "target_vi": "Bù đắp lượng dịch cơ thể mất đi do chấn thương hoặc ốm đau.",
+    "context": "resource | Row 1074",
+    "offset": 45041,
+    "length": 49
+  },
+  {
+    "id": 1075,
+    "key": "resource.desc.oil",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Valuable lubricant and additive.",
+    "target_vi": "Chất bôi trơn và phụ gia giá trị cao.",
+    "context": "resource | Row 1075",
+    "offset": 45104,
+    "length": 33
+  },
+  {
+    "id": 1076,
+    "key": "resource.desc.medicine",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fights inflammations and other symptoms.",
+    "target_vi": "Chữa trị viêm nhiễm và đẩy lùi các triệu chứng bệnh tật.",
+    "context": "resource | Row 1076",
+    "offset": 45151,
+    "length": 41
+  },
+  {
+    "id": 1077,
+    "key": "resource.desc.soap",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Blocks of pure hygiene.",
+    "target_vi": "Bánh xà phòng sạch sẽ thơm tho.",
+    "context": "resource | Row 1077",
+    "offset": 45206,
+    "length": 24
+  },
+  {
+    "id": 1078,
+    "key": "resource.desc.candles",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Candles for indoor lighting.",
+    "target_vi": "Nến sáp thắp sáng trong nhà.",
+    "context": "resource | Row 1078",
+    "offset": 45244,
+    "length": 29
+  },
+  {
+    "id": 1079,
+    "key": "resource.desc.nails",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fasteners with corrosion resistance.",
+    "target_vi": "Đinh tán chống gỉ sét kiên cố.",
+    "context": "resource | Row 1079",
+    "offset": 45287,
+    "length": 37
+  },
+  {
+    "id": 1080,
+    "key": "resource.desc.teaset",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "The proper utensils to drink tea.",
+    "target_vi": "Bộ dụng cụ chuẩn mực để thưởng trà.",
+    "context": "resource | Row 1080",
+    "offset": 45338,
+    "length": 34
+  },
+  {
+    "id": 1081,
+    "key": "resource.desc.furniture",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fine furniture for comfortable living.",
+    "target_vi": "Đồ gỗ cao cấp mang lại cuộc sống tiện nghi.",
+    "context": "resource | Row 1081",
+    "offset": 45386,
+    "length": 39
+  },
+  {
+    "id": 1082,
+    "key": "resource.desc.cannonframes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A sturdy base to mount cannon barrels onto.",
+    "target_vi": "Khung bệ vững chắc để gắn nòng đại bác lên.",
+    "context": "resource | Row 1082",
+    "offset": 45439,
+    "length": 44
+  },
+  {
+    "id": 1083,
+    "key": "resource.desc.bronzecannons",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Weak but usable firepower.",
+    "target_vi": "Hỏa lực đồng thanh cơ bản nhưng dùng được.",
+    "context": "resource | Row 1083",
+    "offset": 45497,
+    "length": 27
+  },
+  {
+    "id": 1084,
+    "key": "resource.desc.handTool",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Specialized tools to improve work efficiency.",
+    "target_vi": "Dụng cụ chuyên dụng giúp nâng cao hiệu suất làm việc.",
+    "context": "resource | Row 1084",
+    "offset": 45538,
+    "length": 46
+  },
+  {
+    "id": 1085,
+    "key": "resource.desc.steelplates",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Massive sheets of metal.",
+    "target_vi": "Những tấm kim loại cán dày dặn và kiên cố.",
+    "context": "resource | Row 1085",
+    "offset": 45598,
+    "length": 25
+  },
+  {
+    "id": 1086,
+    "key": "resource.desc.steelcannons",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "The standard of modern warfare.",
+    "target_vi": "Chuẩn mực hỏa lực của chiến tranh hiện đại.",
+    "context": "resource | Row 1086",
+    "offset": 45637,
+    "length": 32
+  },
+  {
+    "id": 1087,
+    "key": "resource.desc.tools",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Valuable machinery vital to keeping industries running smoothly.",
+    "target_vi": "Máy móc phụ tùng quý giá giúp duy trì công xưởng vận hành trơn tru.",
+    "context": "resource | Row 1087",
+    "offset": 45683,
+    "length": 65
+  },
+  {
+    "id": 1088,
+    "key": "resource.desc.trinkets",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Useless curiosities and figures that nonetheless please the Claws.",
+    "target_vi": "Những món đồ mỹ nghệ vụn vặt nhưng lại khiến Quý Tộc Móng Vuốt rất vừa lòng.",
+    "context": "resource | Row 1088",
+    "offset": 45762,
+    "length": 67
+  },
+  {
+    "id": 1089,
+    "key": "resource.desc.influence",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Approval is earned each night from your Whiskers.\n\nUseful for various social actions and policies.",
+    "target_vi": "Lòng Dân nhận được mỗi đêm từ bà con chuột.\n\nDùng cho các chính sách xã hội và hành động cộng đồng.",
+    "context": "resource | Row 1089",
+    "offset": 45843,
+    "length": 99
+  },
+  {
+    "id": 1090,
+    "key": "resource.desc.goldCoin",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Common currency for trade.",
+    "target_vi": "Tiền tệ thông dụng trong giao thương.",
+    "context": "resource | Row 1090",
+    "offset": 45956,
+    "length": 27
+  },
+  {
+    "id": 1091,
+    "key": "resource.desc.research",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Scientific knowledge.",
+    "target_vi": "Tri thức khoa học kỹ thuật.",
+    "context": "resource | Row 1091",
+    "offset": 45997,
+    "length": 22
+  },
+  {
+    "id": 1092,
+    "key": "resource.desc.smallship",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Small seafaring vessel for non-military tasks.",
+    "target_vi": "Tàu thủy cỡ nhỏ phục vụ các mục đích dân sự.",
+    "context": "resource | Row 1092",
+    "offset": 46033,
+    "length": 47
+  },
+  {
+    "id": 1093,
+    "key": "resource.desc.frigate",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Medium-sized ship capable of combat.",
+    "target_vi": "Chiến hạm cỡ trung có năng lực tác chiến hải quân.",
+    "context": "resource | Row 1093",
+    "offset": 46094,
+    "length": 37
+  },
+  {
+    "id": 1094,
+    "key": "resource.desc.fluid_water",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Piped water offering many industrial uses.",
+    "target_vi": "Nước dẫn qua đường ống phục vụ nhiều mục đích công nghiệp.",
+    "context": "resource | Row 1094",
+    "offset": 46145,
+    "length": 43
+  },
+  {
+    "id": 1095,
+    "key": "resource.desc.fluid_steam",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Pressurized steam produced in boilers. An efficient medium to transport power and heat.",
+    "target_vi": "Hơi nước áp suất cao tạo ra từ nồi hơi. Môi chất hiệu quả để truyền nhiệt và cơ năng.",
+    "context": "resource | Row 1095",
+    "offset": 46202,
+    "length": 88
+  },
+  {
+    "id": 1096,
+    "key": "resource.desc.agent",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whisker",
+    "target_vi": "Chú chuột",
+    "context": "resource | Row 1096",
+    "offset": 46304,
+    "length": 8
+  },
+  {
+    "id": 1097,
+    "key": "resource.desc.mineTool.unknown",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Survey this area for more information.",
+    "target_vi": "Thăm dò khu vực này để biết thêm thông tin.",
+    "context": "resource | Row 1097",
+    "offset": 46326,
+    "length": 39
+  },
+  {
+    "id": 1098,
+    "key": "resource.desc.mineTool.bedrock",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "This rock cannot be mined.",
+    "target_vi": "Khối đá nền này không thể đào bới.",
+    "context": "resource | Row 1098",
+    "offset": 46379,
+    "length": 27
+  },
+  {
+    "id": 1099,
+    "key": "resource.desc.mineTool.ocean",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "This rock cannot be mined.",
+    "target_vi": "Tầng đáy biển này không thể khai thác mỏ.",
+    "context": "resource | Row 1099",
+    "offset": 46420,
+    "length": 27
+  },
+  {
+    "id": 1100,
+    "key": "resource.desc.farmTool.nutrients",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amount of nutrients contained in the soil.",
+    "target_vi": "Hàm lượng dinh dưỡng có trong đất.",
+    "context": "resource | Row 1100",
+    "offset": 46461,
+    "length": 43
+  },
+  {
+    "id": 1101,
+    "key": "resource.desc.farmTool.rocks",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amount of rocks contained in the soil.",
+    "target_vi": "Mức độ lẫn sỏi đá trong tầng đất.",
+    "context": "resource | Row 1101",
+    "offset": 46518,
+    "length": 39
+  },
+  {
+    "id": 1102,
+    "key": "resource.desc.farmTool.light",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amount of light that can reach this location.",
+    "target_vi": "Lượng ánh sáng mặt trời chiếu tới vị trí này.",
+    "context": "resource | Row 1102",
+    "offset": 46571,
+    "length": 46
+  },
+  {
+    "id": 1103,
+    "key": "resource.desc.farmTool.pollution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Amount of pollution impacting the soil.",
+    "target_vi": "Mức độ ô nhiễm môi trường tác động lên đất đai.",
+    "context": "resource | Row 1103",
+    "offset": 46631,
+    "length": 40
+  },
+  {
+    "id": 1104,
+    "key": "resource.desc.farmtool.noitem",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Nothing selected.",
+    "target_vi": "Chưa chọn gì.",
+    "context": "resource | Row 1104",
+    "offset": 46685,
+    "length": 18
+  },
+  {
+    "id": 1105,
+    "key": "resource.desc.waste",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Industrial byproducts that require incineration.",
+    "target_vi": "Phế phẩm công nghiệp cần được đem đi thiêu hủy.",
+    "context": "resource | Row 1105",
+    "offset": 46717,
+    "length": 49
+  },
+  {
+    "id": 1106,
+    "key": "resource.desc.trees",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A sustainable source of wood.",
+    "target_vi": "Nguồn cung cấp gỗ tự nhiên có thể tái sinh.",
+    "context": "resource | Row 1106",
+    "offset": 46780,
+    "length": 30
+  },
+  {
+    "id": 1107,
+    "key": "resource.desc.mousetrap",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Deals with pests.",
+    "target_vi": "Bẫy tiêu diệt sâu bọ phá hoại mùa màng.",
+    "context": "resource | Row 1107",
+    "offset": 46824,
+    "length": 18
+  },
+  {
+    "id": 1222,
+    "key": "resource.diplomacySeals",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Royal Wax Seals",
+    "target_vi": "Ấn Triện Sáp Hoàng Gia",
+    "context": "resource | Row 1222",
+    "offset": 51728,
+    "length": 16
+  },
+  {
+    "id": 1223,
+    "key": "resource.desc.diplomacySeals",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tokens of goodwill from the Claws.\n\nCan be used to make special requests.",
+    "target_vi": "Minh chứng thiện chí từ Quý Tộc Móng Vuốt.\n\nCó thể dùng để đệ trình các thỉnh cầu đặc biệt.",
+    "context": "resource | Row 1223",
+    "offset": 51758,
+    "length": 74
+  },
+  {
+    "id": 1369,
+    "key": "policy.costUnit.perIntimidation",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Intimidation",
+    "target_vi": "Mỗi Lần Thị Uy",
+    "context": "policy | Row 1369",
+    "offset": 56862,
+    "length": 17
+  },
+  {
+    "id": 1370,
+    "key": "policy.costUnit.perBonusOutput",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Bonus Output",
+    "target_vi": "Mỗi Sản Lượng Thưởng Thêm",
+    "context": "policy | Row 1370",
+    "offset": 56893,
+    "length": 17
+  },
+  {
+    "id": 1371,
+    "key": "policy.costUnit.perCollection",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Collection",
+    "target_vi": "Mỗi Lần Thu Gom",
+    "context": "policy | Row 1371",
+    "offset": 56924,
+    "length": 15
+  },
+  {
+    "id": 1372,
+    "key": "policy.costUnit.perMinedResource",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Mined Resource",
+    "target_vi": "Mỗi Tài Nguyên Khai Thác",
+    "context": "policy | Row 1372",
+    "offset": 56953,
+    "length": 19
+  },
+  {
+    "id": 1373,
+    "key": "policy.costUnit.perCut",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Cut",
+    "target_vi": "Mỗi Lần Đốn Hạ",
+    "context": "policy | Row 1373",
+    "offset": 56986,
+    "length": 8
+  },
+  {
+    "id": 1374,
+    "key": "policy.costUnit.perSkippedFood",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Reduced Meal",
+    "target_vi": "Mỗi Bữa Ăn Cắt Giảm",
+    "context": "policy | Row 1374",
+    "offset": 57008,
+    "length": 17
+  },
+  {
+    "id": 1375,
+    "key": "policy.costUnit.perConstructionTask",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Construction Task",
+    "target_vi": "Mỗi Dự Án Thi Công",
+    "context": "policy | Row 1375",
+    "offset": 57039,
+    "length": 22
+  },
+  {
+    "id": 1376,
+    "key": "policy.costUnit.perHeavyPickup",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Heavy Pickup",
+    "target_vi": "Mỗi Chuyến Vác Nặng",
+    "context": "policy | Row 1376",
+    "offset": 57075,
+    "length": 17
+  },
+  {
+    "id": 1377,
+    "key": "policy.spentToday",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Spent Today",
+    "target_vi": "Đã Chi Hôm Nay",
+    "context": "policy | Row 1377",
+    "offset": 57106,
+    "length": 12
+  },
+  {
+    "id": 1393,
+    "key": "policy.noUpkeep",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "No upkeep cost",
+    "target_vi": "Không Tốn Chi Phí Duy Trì",
+    "context": "policy | Row 1393",
+    "offset": 57589,
+    "length": 15
+  },
+  {
+    "id": 1444,
+    "key": "resource.pollution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Pollution",
+    "target_vi": "Ô Nhiễm",
+    "context": "resource | Row 1444",
+    "offset": 59733,
+    "length": 10
+  },
+  {
+    "id": 1445,
+    "key": "resource.desc.pollution",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Unhealthy pollutants in the air.",
+    "target_vi": "Chất ô nhiễm độc hại bay lơ lửng trong không khí.",
+    "context": "resource | Row 1445",
+    "offset": 59757,
+    "length": 33
+  },
+  {
+    "id": 1724,
+    "key": "resource.fallow",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fallow",
+    "target_vi": "Cho Đất Nghỉ",
+    "context": "resource | Row 1724",
+    "offset": 71185,
+    "length": 7
+  },
+  {
+    "id": 1725,
+    "key": "resource.desc.fallow",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Not planting anything for nutrient recovery.",
+    "target_vi": "Không gieo trồng gì để đất phục hồi dưỡng chất.",
+    "context": "resource | Row 1725",
+    "offset": 71206,
+    "length": 45
+  },
+  {
+    "id": 1837,
+    "key": "resource.desc.thread",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Thin long threads.",
+    "target_vi": "Những sợi chỉ dài mảnh.",
+    "context": "resource | Row 1837",
+    "offset": 87973,
+    "length": 19
+  },
+  {
+    "id": 1838,
+    "key": "resource.thread",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Threads",
+    "target_vi": "Sợi Chỉ",
+    "context": "resource | Row 1838",
+    "offset": 88006,
+    "length": 8
+  },
+  {
+    "id": 1850,
+    "key": "unlock.stonePathing.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stone Pathing",
+    "target_vi": "Đường Lát Đá",
+    "context": "unlock | Row 1850",
+    "offset": 88693,
+    "length": 14
+  },
+  {
+    "id": 1851,
+    "key": "unlock.stonePathing.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Even pathing for faster movement.\n\nSchematic for Paths and Stairs.",
+    "target_vi": "Lối đi bằng phẳng giúp di chuyển nhanh hơn.\n\nBản vẽ Đường Lát Đá và Cầu Thang Đá.",
+    "context": "unlock | Row 1851",
+    "offset": 88721,
+    "length": 67
+  },
+  {
+    "id": 1852,
+    "key": "unlock.organizedHeating.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Organized Heating",
+    "target_vi": "Mạng Lưới Sưởi Ấm",
+    "context": "unlock | Row 1852",
+    "offset": 88802,
+    "length": 18
+  },
+  {
+    "id": 1853,
+    "key": "unlock.organizedHeating.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "More powerful and permanently installed sources of heat\n\nThey require a Fire Tender to keep them supplied with fuel.",
+    "target_vi": "Các nguồn nhiệt công suất lớn và cố định kiên cố.\n\nCần có Trại Chăm Lửa để duy trì tiếp tế nhiên liệu.",
+    "context": "unlock | Row 1853",
+    "offset": 88834,
+    "length": 117
+  },
+  {
+    "id": 1867,
+    "key": "unlock.seafaring.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ship building",
+    "target_vi": "Kỹ Nghệ Đóng Tàu",
+    "context": "unlock | Row 1867",
+    "offset": 89500,
+    "length": 14
+  },
+  {
+    "id": 1868,
+    "key": "unlock.seafaring.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Produce seaworthy ships and explore the seas.\n\nShips must be assigned to a Work Dock to be crewed.",
+    "target_vi": "Đóng tàu vượt biển kiên cố và giong buồm ra khơi khám phá đại dương.\n\nTàu đóng xong phải gán vào Bến Tàu Thợ để tuyển mộ thủy thủ.",
+    "context": "unlock | Row 1868",
+    "offset": 89528,
+    "length": 99
+  },
+  {
+    "id": 1904,
+    "key": "policy.title.lateconstruction",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Night Construction",
+    "target_vi": "Thi Công Ban Đêm",
+    "context": "policy | Row 1904",
+    "offset": 91301,
+    "length": 19
+  },
+  {
+    "id": 1905,
+    "key": "policy.desc.lateconstruction",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Building construction continues by candlelight.",
+    "target_vi": "Thợ thuyền tiếp tục thi công công trình dưới ánh nến đêm.",
+    "context": "policy | Row 1905",
+    "offset": 91334,
+    "length": 48
+  },
+  {
+    "id": 1914,
+    "key": "resource.simpleclothes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Woven Cloaks",
+    "target_vi": "Áo Choàng Thô",
+    "context": "resource | Row 1914",
+    "offset": 91680,
+    "length": 13
+  },
+  {
+    "id": 1915,
+    "key": "resource.desc.simpleclothes",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stiff and uncomfortable, but offers warmth and a bit of dignity.",
+    "target_vi": "Thô cứng và hơi cộm ráp, nhưng giữ ấm tốt và mang lại chút tươm tất cho người mặc.",
+    "context": "resource | Row 1915",
+    "offset": 91707,
+    "length": 65
+  },
+  {
+    "id": 1919,
+    "key": "unlock.housingTier4.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Extremely high housing quality with central heating, but requires piped access to water and steam.",
+    "target_vi": "Nhà ở xa hoa bậc nhất tích hợp lò sưởi trung tâm, nhưng đòi hỏi kết nối với cả đường ống nước sạch lẫn hơi nước nóng.",
+    "context": "unlock | Row 1919",
+    "offset": 91911,
+    "length": 99
+  },
+  {
+    "id": 1920,
+    "key": "unlock.housingTier4.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Extravagant Housing",
+    "target_vi": "Nhà Xa Hoa",
+    "context": "unlock | Row 1920",
+    "offset": 92024,
+    "length": 20
+  },
+  {
+    "id": 1921,
+    "key": "unlock.textiles.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for the Tailor, which crafts cloaks of higher quality.\n\nEnables the Flax Spinner to produce threads, and the Weaver to process them into fabrics.",
+    "target_vi": "Bản vẽ cho Tiệm May Mặc để may áo choàng cao cấp hơn.\n\nCho phép Xưởng Kéo Sợi Lanh se sợi chỉ, và Xưởng Dệt Vải dệt thành vải vóc.",
+    "context": "unlock | Row 1921",
+    "offset": 92058,
+    "length": 156
+  },
+  {
+    "id": 1922,
+    "key": "unlock.textiles.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Tailoring",
+    "target_vi": "Kỹ Nghệ Dệt May",
+    "context": "unlock | Row 1922",
+    "offset": 92228,
+    "length": 10
+  },
+  {
+    "id": 1923,
+    "key": "resource.advancedRations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Ration Meals",
+    "target_vi": "Khẩu Phần Ăn Đầy Đủ",
+    "context": "resource | Row 1923",
+    "offset": 92252,
+    "length": 13
+  },
+  {
+    "id": 1924,
+    "key": "resource.desc.advancedRations",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A complete meal.",
+    "target_vi": "Một bữa ăn trọn vẹn đầy đủ dinh dưỡng.",
+    "context": "resource | Row 1924",
+    "offset": 92279,
+    "length": 17
+  },
+  {
+    "id": 1925,
+    "key": "resource.vises",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Wooden Vises",
+    "target_vi": "Ê-tô Gỗ",
+    "context": "resource | Row 1925",
+    "offset": 92310,
+    "length": 13
+  },
+  {
+    "id": 1926,
+    "key": "resource.scissors",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Scissors",
+    "target_vi": "Kéo Cắt Vải",
+    "context": "resource | Row 1926",
+    "offset": 92337,
+    "length": 9
+  },
+  {
+    "id": 1927,
+    "key": "resource.firetongs",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Fire Tongs",
+    "target_vi": "Kẹp Gắp Lửa",
+    "context": "resource | Row 1927",
+    "offset": 92360,
+    "length": 11
+  },
+  {
+    "id": 1928,
+    "key": "resource.ironpots",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron Pots",
+    "target_vi": "Nồi Gang",
+    "context": "resource | Row 1928",
+    "offset": 92385,
+    "length": 10
+  },
+  {
+    "id": 1929,
+    "key": "resource.precisionscales",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Precision Scales",
+    "target_vi": "Cân Chính Xác",
+    "context": "resource | Row 1929",
+    "offset": 92409,
+    "length": 17
+  },
+  {
+    "id": 1930,
+    "key": "resource.desc.vises",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A tool to firmly hold objects in place.",
+    "target_vi": "Dụng cụ để kẹp chặt đồ vật cố định khi gia công.",
+    "context": "resource | Row 1930",
+    "offset": 92440,
+    "length": 40
+  },
+  {
+    "id": 1931,
+    "key": "resource.desc.scissors",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A very effective tool for cutting textiles.",
+    "target_vi": "Dụng cụ sắc bén rất hiệu quả để cắt may vải vóc.",
+    "context": "resource | Row 1931",
+    "offset": 92494,
+    "length": 44
+  },
+  {
+    "id": 1932,
+    "key": "resource.desc.firetongs",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A tool for handling controlled fires.",
+    "target_vi": "Dụng cụ để thao tác gắp than củi trong ngọn lửa.",
+    "context": "resource | Row 1932",
+    "offset": 92552,
+    "length": 38
+  },
+  {
+    "id": 1933,
+    "key": "resource.desc.ironpots",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Large and robust container.",
+    "target_vi": "Nồi nấu cỡ lớn, dày dặn và bền bỉ.",
+    "context": "resource | Row 1933",
+    "offset": 92604,
+    "length": 28
+  },
+  {
+    "id": 1934,
+    "key": "resource.desc.precisionscales",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "A reliable tool for exact measurements.",
+    "target_vi": "Dụng cụ đo lường đáng tin cậy để cân đong chuẩn xác.",
+    "context": "resource | Row 1934",
+    "offset": 92646,
+    "length": 40
+  },
+  {
+    "id": 1938,
+    "key": "unlock.precisionscales.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for crafting fire tongs at the Coppersmith.",
+    "target_vi": "Bản vẽ chế tạo kẹp gắp lửa tại Xưởng Rèn Đồng.",
+    "context": "unlock | Row 1938",
+    "offset": 92814,
+    "length": 54
+  },
+  {
+    "id": 1939,
+    "key": "unlock.precisionscales.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for crafting precision scales at the Blacksmith.",
+    "target_vi": "Bản vẽ chế tạo cân chính xác tại Lò Rèn Sắt Thép.",
+    "context": "unlock | Row 1939",
+    "offset": 92882,
+    "length": 59
+  },
+  {
+    "id": 1940,
+    "key": "unlock.steelplates.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for crafting steel plates at the Blacksmith.",
+    "target_vi": "Bản vẽ cán các tấm thép kiên cố tại Lò Rèn Sắt Thép.",
+    "context": "unlock | Row 1940",
+    "offset": 92955,
+    "length": 55
+  },
+  {
+    "id": 1941,
+    "key": "unlock.nails.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Schematic for crafting bronze nails at the Coppersmith.",
+    "target_vi": "Bản vẽ rèn đinh đồng tại Xưởng Rèn Đồng.",
+    "context": "unlock | Row 1941",
+    "offset": 93024,
+    "length": 56
+  },
+  {
+    "id": 1944,
+    "key": "unlock.newCrop",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "New Crop",
+    "target_vi": "Giống Cây Mới",
+    "context": "unlock | Row 1944",
+    "offset": 93167,
+    "length": 9
+  },
+  {
+    "id": 1945,
+    "key": "resource.desc.firstrate",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Powerful warship meant for battle.",
+    "target_vi": "Kỳ hạm đại dương hùng mạnh được chế tạo chuyên dụng cho các trận hải chiến nảy lửa.",
+    "context": "resource | Row 1945",
+    "offset": 93190,
+    "length": 35
+  },
+  {
+    "id": 1946,
+    "key": "resource.firstrate",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "First-Rate Ship",
+    "target_vi": "Kỳ Hạm Hạng Nhất",
+    "context": "resource | Row 1946",
+    "offset": 93239,
+    "length": 16
+  },
+  {
+    "id": 1947,
+    "key": "resource.ironpots2",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Pots",
+    "target_vi": "Nồi Đồng",
+    "context": "resource | Row 1947",
+    "offset": 93269,
+    "length": 12
+  },
+  {
+    "id": 1948,
+    "key": "resource.nails2",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron Nails",
+    "target_vi": "Đinh Sắt",
+    "context": "resource | Row 1948",
+    "offset": 93295,
+    "length": 11
+  },
+  {
+    "id": 1955,
+    "key": "unlock.luxury",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Luxury good for delivery.",
+    "target_vi": "Hàng xa xỉ để phân phát.",
+    "context": "unlock | Row 1955",
+    "offset": 93562,
+    "length": 26
+  },
+  {
+    "id": 1956,
+    "key": "unlock.medicine",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Used for medical treatment.",
+    "target_vi": "Dùng để chữa trị bệnh tật.",
+    "context": "unlock | Row 1956",
+    "offset": 93602,
+    "length": 28
+  },
+  {
+    "id": 2131,
+    "key": "policy.title.trinkets",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Piecework Trinkets",
+    "target_vi": "Gia Công Đồ Mỹ Nghệ",
+    "context": "policy | Row 2131",
+    "offset": 102648,
+    "length": 19
+  },
+  {
+    "id": 2132,
+    "key": "policy.desc.trinkets",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Whiskers use their spare time after work to make sellable trinkets",
+    "target_vi": "Chuột tận dụng thời gian rảnh rỗi sau giờ làm để chế tác đồ mỹ nghệ đem bán.",
+    "context": "policy | Row 2132",
+    "offset": 102681,
+    "length": 67
+  },
+  {
+    "id": 2133,
+    "key": "policy.costUnit.perTrinket",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per Trinket",
+    "target_vi": "Mỗi Món Đồ Mỹ Nghệ",
+    "context": "policy | Row 2133",
+    "offset": 102762,
+    "length": 12
+  },
+  {
+    "id": 2229,
+    "key": "unlock.aimAdvanced",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Advanced Belts",
+    "target_vi": "Băng Chuyền Nâng Cao",
+    "context": "unlock | Row 2229",
+    "offset": 107342,
+    "length": 15
+  },
+  {
+    "id": 2230,
+    "key": "unlock.aimAdvanced.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Additional belt machines to extract, lift, split, and filter items on belts.\n\nItems can be pulled from warehouses then split and filtered to feed industries using local belt warehouses.",
+    "target_vi": "Các cỗ máy bổ trợ để rút hàng, leo tầng, chia luồng và lọc hàng trên băng chuyền.\n\nTài nguyên có thể rút trực tiếp từ kho rồi chia và lọc để cấp thẳng vào xưởng qua các kho đón hàng địa phương.",
+    "context": "unlock | Row 2230",
+    "offset": 107371,
+    "length": 186
+  },
+  {
+    "id": 2243,
+    "key": "resource.farmTool.salinity",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Salinity",
+    "target_vi": "Độ Mặn Của Đất",
+    "context": "resource | Row 2243",
+    "offset": 108185,
+    "length": 9
+  },
+  {
+    "id": 2274,
+    "key": "policy.title.fastshuttles",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Reckless Navigation",
+    "target_vi": "Hải Trình Bạt Mạng",
+    "context": "policy | Row 2274",
+    "offset": 109483,
+    "length": 20
+  },
+  {
+    "id": 2275,
+    "key": "policy.desc.fastshuttles",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Rafts and small passenger ships are ordered to travel faster",
+    "target_vi": "Bè mảng và thuyền chở khách cỡ nhỏ nhận lệnh phải di chuyển nhanh hơn.",
+    "context": "policy | Row 2275",
+    "offset": 109517,
+    "length": 61
+  },
+  {
+    "id": 2276,
+    "key": "policy.costUnit.perShipDeparted",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Per ship departure",
+    "target_vi": "Mỗi Chuyến Tàu Rời Bến",
+    "context": "policy | Row 2276",
+    "offset": 109592,
+    "length": 19
+  },
+  {
+    "id": 2279,
+    "key": "unlock.plannedFlooding",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Controlled Flooding",
+    "target_vi": "Làm Ngập Có Kiểm Soát",
+    "context": "unlock | Row 2279",
+    "offset": 109688,
+    "length": 20
+  },
+  {
+    "id": 2281,
+    "key": "resource.bathed",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bath",
+    "target_vi": "Tắm Nước Nóng",
+    "context": "resource | Row 2281",
+    "offset": 109747,
+    "length": 5
+  },
+  {
+    "id": 2282,
+    "key": "resource.desc.bathed",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Squeaky clean whisker",
+    "target_vi": "Bé chuột sạch sẽ tinh tươm sau khi tắm gội.",
+    "context": "resource | Row 2282",
+    "offset": 109766,
+    "length": 22
+  },
+  {
+    "id": 2388,
+    "key": "resource.corpse",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Corpse",
+    "target_vi": "Thi Thể Chuột",
+    "context": "resource | Row 2388",
+    "offset": 113489,
+    "length": 7
+  },
+  {
+    "id": 2389,
+    "key": "resource.desc.corpse",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "An unidentifiable body",
+    "target_vi": "Một thi thể không rõ danh tính cần được an táng tươm tất.",
+    "context": "resource | Row 2389",
+    "offset": 113510,
+    "length": 23
+  },
+  {
+    "id": 2517,
+    "key": "resource.guano",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Guano",
+    "target_vi": "Phân Chim Biển",
+    "context": "resource | Row 2517",
+    "offset": 117410,
+    "length": 6
+  },
+  {
+    "id": 2518,
+    "key": "resource.guano.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Nutrient rich waste found on bird resident rock outcrop. \nCan be processed into fertilizer",
+    "target_vi": "Phế thải giàu dinh dưỡng tích tụ trên các mỏm đá có chim biển cư ngụ.\nCó thể tinh chế thành phân bón hảo hạng.",
+    "context": "resource | Row 2518",
+    "offset": 117430,
+    "length": 91
+  },
+  {
+    "id": 2522,
+    "key": "unlock.guanocollection.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Guano Collection",
+    "target_vi": "Thu Gom Phân Chim Biển",
+    "context": "unlock | Row 2522",
+    "offset": 117620,
+    "length": 17
+  },
+  {
+    "id": 2523,
+    "key": "unlock.guanocollection.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Outfit ships to gather valuable guano from distant islands.\nProvides a rich source of fertilizer",
+    "target_vi": "Trang bị tàu thuyền vượt biển đi gom phân chim trên các đảo xa.\nNguồn phân bón vô cùng giàu dinh dưỡng.",
+    "context": "unlock | Row 2523",
+    "offset": 117651,
+    "length": 97
+  },
+  {
+    "id": 2535,
+    "key": "resource.stone_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Stone Shot",
+    "target_vi": "Đạn Pháo Đá",
+    "context": "resource | Row 2535",
+    "offset": 118431,
+    "length": 11
+  },
+  {
+    "id": 2536,
+    "key": "resource.desc.stone_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cheap but weak ammunition for cannons. Hits for 3 Damage.",
+    "target_vi": "Đạn pháo rẻ tiền nhưng uy lực yếu. Gây 3 sát thương.",
+    "context": "resource | Row 2536",
+    "offset": 118456,
+    "length": 58
+  },
+  {
+    "id": 2537,
+    "key": "resource.iron_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron Shot",
+    "target_vi": "Đạn Pháo Sắt",
+    "context": "resource | Row 2537",
+    "offset": 118528,
+    "length": 10
+  },
+  {
+    "id": 2538,
+    "key": "resource.desc.iron_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "The standard in effective cannon ammunition. Hits for 8 Damage.",
+    "target_vi": "Loại đạn pháo hiệu quả tiêu chuẩn. Gây 8 sát thương.",
+    "context": "resource | Row 2538",
+    "offset": 118552,
+    "length": 64
+  },
+  {
+    "id": 2539,
+    "key": "resource.bronze_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Bronze Shot",
+    "target_vi": "Đạn Pháo Đồng",
+    "context": "resource | Row 2539",
+    "offset": 118630,
+    "length": 12
+  },
+  {
+    "id": 2540,
+    "key": "resource.desc.bronze_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Simple bronze cannonballs. Hits for 5 Damage.",
+    "target_vi": "Đạn đại bác bằng đồng cơ bản. Gây 5 sát thương.",
+    "context": "resource | Row 2540",
+    "offset": 118656,
+    "length": 46
+  },
+  {
+    "id": 2541,
+    "key": "resource.chainshot_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Chain Shot",
+    "target_vi": "Đạn Xích Đôi",
+    "context": "resource | Row 2541",
+    "offset": 118716,
+    "length": 11
+  },
+  {
+    "id": 2542,
+    "key": "resource.desc.chainshot_cannonball",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Iron shot consisting of two halves chained together, resulting in maximum area damage. Hits for 13 Damage.",
+    "target_vi": "Đạn sắt gồm hai nửa nối với nhau bằng dây xích, gây sát thương diện rộng tối đa lên buồm tàu. Gây 13 sát thương.",
+    "context": "resource | Row 2542",
+    "offset": 118741,
+    "length": 107
+  },
+  {
+    "id": 2560,
+    "key": "unlock.cannonDefenses.title",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Cannon Production",
+    "target_vi": "Chế Tạo Đại Bác",
+    "context": "unlock | Row 2560",
+    "offset": 119632,
+    "length": 18
+  },
+  {
+    "id": 2561,
+    "key": "unlock.cannonDefenses.desc",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "In an escalation against the pirates, your whiskers are bestowed the knowledge of gunpowder artillery",
+    "target_vi": "Trước hiểm họa hải tặc ngày càng gia tăng, thần dân chuột được truyền dạy bí kíp chế tạo đại bác thuốc súng.",
+    "context": "unlock | Row 2561",
+    "offset": 119664,
+    "length": 102
+  },
+  {
+    "id": 2625,
+    "key": "resource.pirate_protection",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Pirate protection seal",
+    "target_vi": "Ấn Ước Bảo Hộ Hải Tặc",
+    "context": "resource | Row 2625",
+    "offset": 122288,
+    "length": 23
+  },
+  {
+    "id": 2626,
+    "key": "resource.desc.pirate_protection",
+    "category": "03_Resources_Items_Tech",
+    "source_en": "Agreement to prevent pirate raids for one day",
+    "target_vi": "Hiệp ước đình chiến ngăn chặn các cuộc cướp phá của hải tặc trong một ngày.",
+    "context": "resource | Row 2626",
+    "offset": 122325,
+    "length": 46
+  }
+]

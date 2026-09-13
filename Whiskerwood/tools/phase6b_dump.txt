@@ -1,0 +1,1448 @@
+[0] ID: 1339 | Key: structuretemperature.Chilly
+EN: Chilly
+VI: 
+
+[1] ID: 1340 | Key: structuretemperature.Chilly.desc
+EN: Uncomfortable cold reduces worker effectiveness.
+VI: 
+
+[2] ID: 1341 | Key: structuretemperature.warm
+EN: Warm
+VI: 
+
+[3] ID: 1342 | Key: structuretemperature.warm.desc
+EN: Pleasant conditions.
+VI: 
+
+[4] ID: 1353 | Key: dockedShip.arriving
+EN: Ship arriving in:
+VI: 
+
+[5] ID: 1354 | Key: dockedShip.noMoreShipsToday
+EN: No more ships arriving today.
+VI: 
+
+[6] ID: 1355 | Key: claws.trustLevel.0
+EN: HOSTILE
+VI: 
+
+[7] ID: 1356 | Key: claws.trustLevel.1
+EN: Suspicious
+VI: 
+
+[8] ID: 1357 | Key: claws.trustLevel.2
+EN: Impatient
+VI: 
+
+[9] ID: 1358 | Key: claws.trustLevel.3
+EN: Satisfied
+VI: 
+
+[10] ID: 1359 | Key: claws.trustLevel.4
+EN: Pleased
+VI: 
+
+[11] ID: 1360 | Key: claws.trustLevel.5
+EN: Trusting
+VI: 
+
+[12] ID: 1361 | Key: claws.trustLevel.6
+EN: Overly Trusting
+VI: 
+
+[13] ID: 1362 | Key: policies.activePolicies
+EN: Active Policies
+VI: 
+
+[14] ID: 1363 | Key: policies.hint.moreOffices
+EN: Build more offices
+VI: 
+
+[15] ID: 1364 | Key: policies.category.weasels
+EN: Weasels
+VI: 
+
+[16] ID: 1365 | Key: policies.category.weasels.desc
+EN: Production & Logistics
+VI: 
+
+[17] ID: 1366 | Key: policies.category.whiskers
+EN: Whiskers
+VI: 
+
+[18] ID: 1367 | Key: policies.category.claws
+EN: Claws
+VI: 
+
+[19] ID: 1368 | Key: policies.category.claws.desc
+EN: Taxation & Intimidation
+VI: 
+
+[20] ID: 1384 | Key: info.modifiers
+EN: Modifiers
+VI: 
+
+[21] ID: 1385 | Key: info.nomodifiers
+EN: No Active Modifiers
+VI: 
+
+[22] ID: 1386 | Key: info.noRelatedModifiers
+EN: No Modifiers
+VI: 
+
+[23] ID: 1387 | Key: whiskerTemperature.hot
+EN: Very Warm
+VI: 
+
+[24] ID: 1388 | Key: whiskerTemperature.warm
+EN: Warm
+VI: 
+
+[25] ID: 1389 | Key: whiskerTemperature.chilly
+EN: Chilly
+VI: 
+
+[26] ID: 1390 | Key: whiskerTemperature.cold
+EN: Cold
+VI: 
+
+[27] ID: 1391 | Key: whiskerTemperature.freezing
+EN: Freezing
+VI: 
+
+[28] ID: 1392 | Key: policies.category.whiskers.desc
+EN: Home & Services
+VI: 
+
+[29] ID: 1394 | Key: stockpile.trackinghint
+EN: Select resources to track on HUD
+VI: 
+
+[30] ID: 1395 | Key: whiskerTemperature
+EN: Body Temperature
+VI: 
+
+[31] ID: 1396 | Key: whiskerTemperature.desc
+EN: Whiskers work best in warm temperatures.
+VI: 
+
+[32] ID: 1433 | Key: info.busy
+EN: Busy
+VI: 
+
+[33] ID: 1440 | Key: approval.tutorial.title
+EN: Using Approval
+VI: 
+
+[34] ID: 1441 | Key: approval.tutorial.1
+EN: Each night, you gain Approval based on your Whiskers' thoughts.
+VI: 
+
+[35] ID: 1442 | Key: approval.tutorial.2
+EN: Spend it to recruit Whiskers, issue Overtime, enact Policies, and more!
+VI: 
+
+[36] ID: 1443 | Key: approval.tutorial.3
+EN: Build a Town Hall to unlock the Policy Board for more advanced uses.
+VI: 
+
+[37] ID: 1446 | Key: rating.housingQuality
+EN: Housing Quality
+VI: 
+
+[38] ID: 1447 | Key: rating.beauty
+EN: Beauty
+VI: 
+
+[39] ID: 1448 | Key: rating.intimidation
+EN: Intimidation
+VI: 
+
+[40] ID: 1449 | Key: housing.luxuries
+EN: Luxuries
+VI: 
+
+[41] ID: 1450 | Key: housing.luxuries.supplierHint
+EN: Delivered by a Luxuries Supplier
+VI: 
+
+[42] ID: 1451 | Key: worker.noWorker
+EN: No Worker
+VI: 
+
+[43] ID: 1452 | Key: worker.assign
+EN: Assign Worker
+VI: 
+
+[44] ID: 1453 | Key: worker.reassign
+EN: Reassign Worker
+VI: 
+
+[45] ID: 1462 | Key: worker.logistics
+EN: Logistics Workers
+VI: 
+
+[46] ID: 1463 | Key: worker.logistics.desc
+EN: Workers will keep this warehouse stocked based on configured thresholds.
+VI: 
+
+[47] ID: 1464 | Key: heaterState.paused
+EN: Paused
+VI: 
+
+[48] ID: 1465 | Key: heaterState.autoPaused
+EN: Paused - Warm Weather
+VI: 
+
+[49] ID: 1466 | Key: heaterState.running
+EN: Providing Heat
+VI: 
+
+[50] ID: 1467 | Key: heater.heatRadius
+EN: Heat Radius
+VI: 
+
+[51] ID: 1468 | Key: heater.fuelRate
+EN: Fuel Duration
+VI: 
+
+[52] ID: 1483 | Key: inputBinding.BeginDrag
+EN: Begin Drag
+VI: 
+
+[53] ID: 1484 | Key: inputBinding.EndDrag
+EN: End Drag
+VI: 
+
+[54] ID: 1485 | Key: inputBinding.CancelDrag
+EN: Cancel Drag
+VI: 
+
+[55] ID: 1486 | Key: inputBinding.Raise
+EN: Raise
+VI: 
+
+[56] ID: 1487 | Key: inputBinding.Lower
+EN: Lower
+VI: 
+
+[57] ID: 1488 | Key: inputBinding.Rotate
+EN: Rotate
+VI: 
+
+[58] ID: 1489 | Key: inputBinding.lockHeight
+EN: Lock Height
+VI: 
+
+[59] ID: 1490 | Key: inputBinding.unlockHeight
+EN: Snap To Ground
+VI: 
+
+[60] ID: 1491 | Key: inputBinding.toggleBulldoze
+EN: Toggle Bulldoze
+VI: 
+
+[61] ID: 1492 | Key: inputBinding.RemovalMode
+EN: Removal Mode
+VI: 
+
+[62] ID: 1493 | Key: inputBinding.UnmarkMode
+EN: Clear Marks
+VI: 
+
+[63] ID: 1494 | Key: inputBinding.RaiseSlice
+EN: Raise Slice
+VI: 
+
+[64] ID: 1495 | Key: inputBinding.lowerSlice
+EN: Lower Slice
+VI: 
+
+[65] ID: 1496 | Key: inputBinding.sliceView
+EN: Slice View
+VI: 
+
+[66] ID: 1497 | Key: inputBinding.exitSlice
+EN: Exit Slice View
+VI: 
+
+[67] ID: 1498 | Key: inputBinding.exitHeatView
+EN: Exit Heat View
+VI: 
+
+[68] ID: 1499 | Key: research.obtained
+EN: Obtained
+VI: 
+
+[69] ID: 1532 | Key: industryState.missingInputs
+EN: Idle - Missing inputs
+VI: 
+
+[70] ID: 1533 | Key: industryState.outputFull
+EN: Idle - Output full
+VI: 
+
+[71] ID: 1534 | Key: industryState.noWorkers
+EN: Idle - No worker present
+VI: 
+
+[72] ID: 1535 | Key: industryState.producing
+EN: Working
+VI: 
+
+[73] ID: 1536 | Key: industryState.paused
+EN: Idle - Paused
+VI: 
+
+[74] ID: 1537 | Key: industryState.noRecipe
+EN: Idle - No recipe set
+VI: 
+
+[75] ID: 1544 | Key: statue.intimidationCounter
+EN: Whiskers Startled
+VI: 
+
+[76] ID: 1545 | Key: steamEngine.connections
+EN: Connections
+VI: 
+
+[77] ID: 1546 | Key: steamEngine.state.idle
+EN: Idle
+VI: 
+
+[78] ID: 1547 | Key: steamEngine.state.running
+EN: Running
+VI: 
+
+[79] ID: 1548 | Key: steamEngine.state.nosteam
+EN: No steam
+VI: 
+
+[80] ID: 1549 | Key: fire.burnTimeRemaining
+EN: Burn time remaining
+VI: 
+
+[81] ID: 1550 | Key: inputBinding.cancel
+EN: Cancel
+VI: 
+
+[82] ID: 1551 | Key: inputBinding.back
+EN: Back
+VI: 
+
+[83] ID: 1552 | Key: overlayHint.selectOutputDestinations
+EN: Assign where to deliver outputs
+VI: 
+
+[84] ID: 1553 | Key: overlayHint.selectInputSources
+EN: Assign where to source inputs
+VI: 
+
+[85] ID: 1554 | Key: overlayHint.selectHome
+EN: Assign Whisker to a home
+VI: 
+
+[86] ID: 1555 | Key: overlayHint.selectWorkplace
+EN: Assign Whisker to a workplace
+VI: 
+
+[87] ID: 1556 | Key: overlayHint.markResource
+EN: Mark resources as high priority
+VI: 
+
+[88] ID: 1557 | Key: overlayHint.markResource.detail
+EN: Camps will prioritize marked resources
+VI: 
+
+[89] ID: 1558 | Key: overlayHint.markMining
+EN: Mark terrain for mining
+VI: 
+
+[90] ID: 1559 | Key: overlayHint.markMining.detail
+EN: Mark again to cancel or remove used scaffolding
+VI: 
+
+[91] ID: 1560 | Key: overlayHint.markFarming
+EN: Mark land for farming
+VI: 
+
+[92] ID: 1561 | Key: vending.workerHint
+EN: Stock requested amounts
+VI: 
+
+[93] ID: 1562 | Key: questlog.activequests
+EN: Active Quests
+VI: 
+
+[94] ID: 1563 | Key: questlog.noquests
+EN: No active quests
+VI: 
+
+[95] ID: 1564 | Key: bathhouse.resourcesPerBath
+EN: Bath cost
+VI: 
+
+[96] ID: 1565 | Key: service.whiskersPresent
+EN: Whiskers present
+VI: 
+
+[97] ID: 1566 | Key: firetender.workerHint
+EN: Workers will stockpile fuel and deliver to nearby fuelable heaters.
+VI: 
+
+[98] ID: 1567 | Key: supplier.workerHint
+EN: Workers will stockpile luxuries and deliver them to nearby houses
+VI: 
+
+[99] ID: 1568 | Key: triage.usageHint
+EN: Whiskers will recover from injuries and sickness here.
+VI: 
+
+[100] ID: 1569 | Key: triage.workerHint
+EN: An assigned worker will use medicine to improve recovery.
+VI: 
+
+[101] ID: 1570 | Key: tab.storage
+EN: Storage
+VI: 
+
+[102] ID: 1571 | Key: tab.logistics
+EN: Logistics
+VI: 
+
+[103] ID: 1572 | Key: tab.production
+EN: Production
+VI: 
+
+[104] ID: 1573 | Key: tab.statistics
+EN: Statistics
+VI: 
+
+[105] ID: 1574 | Key: signStartingContract.ColonyOf
+EN: Colony of
+VI: 
+
+[106] ID: 1575 | Key: signStartingContract.acceptedResources
+EN: Resources accepted as payment
+VI: 
+
+[107] ID: 1576 | Key: signStartingContract.debtsOwed
+EN: Debts Owed
+VI: 
+
+[108] ID: 1577 | Key: maintenance.goodCondition
+EN: Good Condition
+VI: 
+
+[109] ID: 1578 | Key: maintenance.wornCondition
+EN: Worn Condition
+VI: 
+
+[110] ID: 1579 | Key: maintenance.broken
+EN: Mechanical Failure!
+VI: 
+
+[111] ID: 1580 | Key: maintenance.replacementTime
+EN: Replaces at <0>
+VI: 
+
+[112] ID: 1581 | Key: maintenance.overrideSafety
+EN: Override
+VI: 
+
+[113] ID: 1582 | Key: maintenance.overriden
+EN: Safety Overridden
+VI: 
+
+[114] ID: 1583 | Key: maintenance.tooltip
+EN: Machinery wears down over time and must be replaced by workers.
+VI: 
+
+[115] ID: 1584 | Key: maintenance.override.tooltip
+EN: Ignore safety concerns and continue working
+VI: 
+
+[116] ID: 1585 | Key: maintenance.noReplacementFound
+EN: No replacements!
+VI: 
+
+[117] ID: 1586 | Key: industryState.broken
+EN: Idle - Broken Machinery
+VI: 
+
+[118] ID: 1587 | Key: maintenance.title
+EN: Maintenance
+VI: 
+
+[119] ID: 1610 | Key: catalyst.title
+EN: Catalyst
+VI: 
+
+[120] ID: 1611 | Key: catalyst.state.disabled
+EN: Disabled
+VI: 
+
+[121] ID: 1612 | Key: catalyst.state.missing
+EN: Missing
+VI: 
+
+[122] ID: 1613 | Key: catalyst.state.active
+EN: Active
+VI: 
+
+[123] ID: 1614 | Key: research.cantAfford
+EN: Missing Prerequisite
+VI: 
+
+[124] ID: 1616 | Key: catalyst.desc
+EN: Catalysts are consumed slowly over time, increasing the output of recipes when present.
+VI: 
+
+[125] ID: 1617 | Key: obituary.recentDeaths
+EN: <0> recent deaths
+VI: 
+
+[126] ID: 1618 | Key: event.tutorialHint.questFailure.title
+EN: Quest Expired
+VI: 
+
+[127] ID: 1619 | Key: event.tutorialHint.questFailure.msg
+EN: Quest was not completed in time.
+VI: 
+
+[128] ID: 1620 | Key: event.tutorialHint.questComplete.title
+EN: Quest Completable
+VI: 
+
+[129] ID: 1621 | Key: event.tutorialHint.questComplete.msg
+EN: Quest can now be completed.
+VI: 
+
+[130] ID: 1622 | Key: event.tutorialHint.firstChillyDay.title
+EN: Low Temperatures
+VI: 
+
+[131] ID: 1623 | Key: event.tutorialHint.firstChillyDay.msg
+EN: Temperatures are becoming chilly.
+
+The temperatures aren't dangerous yet, but adequate heating will improve the mood and efficiency of your Whiskers.
+VI: 
+
+[132] ID: 1624 | Key: event.tutorialHint.firstFreezingDay.title
+EN: Dangerously Cold
+VI: 
+
+[133] ID: 1625 | Key: event.tutorialHint.firstFreezingDay.msg
+EN: Temperatures are becoming dangerously cold!
+
+Make sure you have adequate heating, especially for housing. Otherwise, you risk illness and death!
+VI: 
+
+[134] ID: 1626 | Key: event.tutorialHint.firstInjury.title
+EN: Injury or Illness
+VI: 
+
+[135] ID: 1627 | Key: event.tutorialHint.firstInjury.msg
+EN: A Whisker is dealing with a severe injury or illness!
+
+Injured Whiskers cannot work and must be treated at a Triage Building.
+
+Treatment is slow, but they may expire if not treated!
+VI: 
+
+[136] ID: 1628 | Key: event.tutorialHint.firstStarvation.title
+EN: Starving Whiskers!
+VI: 
+
+[137] ID: 1629 | Key: event.tutorialHint.firstStarvation.msg
+EN: A Whisker is starving!
+
+They have a high risk of death if they cannot find food in the next few days.
+VI: 
+
+[138] ID: 1630 | Key: event.tutorialHint.highApproval.title
+EN: High Approval
+VI: 
+
+[139] ID: 1631 | Key: event.tutorialHint.highApproval.msg
+EN: You have generated a high amount of Approval from your Whiskers.
+
+Building a Town Hall will allow you to spend excess Approval on powerful Policies.
+VI: 
+
+[140] ID: 1632 | Key: event.tutorialHint.maintenance.title
+EN: Failing Machinery!
+VI: 
+
+[141] ID: 1633 | Key: event.tutorialHint.maintenance.msg
+EN: An industry has worn out its Machinery and cannot find any replacement parts!
+
+You will need to import more Machinery to keep your industries running, or else force your Whiskers to keep working with broken equipment.
+VI: 
+
+[142] ID: 1634 | Key: event.tutorialHint.lowTrust.title
+EN: The Claws Become Impatient
+VI: 
+
+[143] ID: 1635 | Key: event.tutorialHint.lowTrust.msg
+EN: The Claws are losing trust in your solvency. 
+
+If tax payments continue to be missed, the Claws may take drastic action against the colony!
+VI: 
+
+[144] ID: 1636 | Key: event.tutorialHint.aboutToLose.title
+EN: The Claws are Furious!
+VI: 
+
+[145] ID: 1637 | Key: event.tutorialHint.aboutToLose.msg
+EN: Repeated failure to pay your debts is risking the solvency of your colony!
+
+If you do not make your next tax payments, you and your Whiskers will be punished!
+VI: 
+
+[146] ID: 1638 | Key: event.tutorialHint.taxIncreases.title
+EN: Future Taxes
+VI: 
+
+[147] ID: 1639 | Key: event.tutorialHint.taxIncreases.msg
+EN: You have met your first tax payment. Well done.
+
+We shall expect to see increased output from your colony going forward.
+VI: 
+
+[148] ID: 1640 | Key: event.tutorialHint.failedFirstTax.title
+EN: Future Taxes
+VI: 
+
+[149] ID: 1641 | Key: event.tutorialHint.failedFirstTax.msg
+EN: You failed to fully deliver your initial tax payment.
+
+No matter — we will roll over the payments until the next ship (with interest, of course).
+VI: 
+
+[150] ID: 1642 | Key: event.tutorialHint.obituary.title
+EN: Death Report
+VI: 
+
+[151] ID: 1643 | Key: event.tutorialHint.obituary.msg
+EN: Your Whiskers grieve recent passings.
+VI: 
+
+[152] ID: 1656 | Key: info.productionSpeed
+EN: Production Speed
+VI: 
+
+[153] ID: 1657 | Key: info.productionSpeed.detail
+EN: Current production speed multiplier from workers and other modifiers.
+VI: 
+
+[154] ID: 1658 | Key: info.cropCompatibility
+EN: Crop Compatibility
+VI: 
+
+[155] ID: 1659 | Key: info.cropCompatiblility.desc
+EN: Determined by the fertility, sunlight, and natural compatibility of this crop with this field.
+VI: 
+
+[156] ID: 1660 | Key: info.nutrients
+EN: Remaining nutrients in soil. Can be replenished with fertilizer.
+VI: 
+
+[157] ID: 1661 | Key: gathering.supportedResources
+EN: Supported Resources
+VI: 
+
+[158] ID: 1662 | Key: inputBinding.select
+EN: Select
+VI: 
+
+[159] ID: 1663 | Key: inputBinding.zoom
+EN: Zoom
+VI: 
+
+[160] ID: 1664 | Key: industryState.noPumpableWater
+EN: Idle - Pump is dry
+VI: 
+
+[161] ID: 1668 | Key: hovernotif.dumpPositionBlocked
+EN: Drop area blocked
+VI: 
+
+[162] ID: 1671 | Key: unit.seconds
+EN: Seconds
+VI: 
+
+[163] ID: 1672 | Key: unit.seconds.short
+EN: s
+VI: 
+
+[164] ID: 1673 | Key: unit.minutes
+EN: Minutes
+VI: 
+
+[165] ID: 1674 | Key: tag.terraform
+EN: Creates Terrain
+VI: 
+
+[166] ID: 1675 | Key: unit.degrees.celcius
+EN: Celsius
+VI: 
+
+[167] ID: 1676 | Key: unit.degrees.fahrenheit
+EN: Fahrenheit
+VI: 
+
+[168] ID: 1677 | Key: unit.degrees.celcius.short
+EN: C
+VI: 
+
+[169] ID: 1678 | Key: unit.degrees.fahrenheit.short
+EN: F
+VI: 
+
+[170] ID: 1680 | Key: questgoal.refusePirates
+EN: Refuse Pirate demands
+VI: 
+
+[171] ID: 1681 | Key: pirateState.satisfied
+EN: Pirates are satisfied
+VI: 
+
+[172] ID: 1682 | Key: piratestate.demandsUnmet
+EN: Demands not met
+VI: 
+
+[173] ID: 1727 | Key: autosave.1
+EN: 1 Minute
+VI: 
+
+[174] ID: 1728 | Key: autosave.5
+EN: 5 Minutes
+VI: 
+
+[175] ID: 1729 | Key: autosave.10
+EN: 10 Minutes
+VI: 
+
+[176] ID: 1730 | Key: autosave.30
+EN: 30 Minutes
+VI: 
+
+[177] ID: 1731 | Key: autosave.60
+EN: 60 Minutes
+VI: 
+
+[178] ID: 1732 | Key: autosave.none
+EN: No Autosave
+VI: 
+
+[179] ID: 1745 | Key: choice.select
+EN: Select
+VI: 
+
+[180] ID: 1746 | Key: choiceresult.refused
+EN: Refused
+VI: 
+
+[181] ID: 1748 | Key: event.questComplete
+EN: Quest Complete
+VI: 
+
+[182] ID: 1749 | Key: piratestate.willattack
+EN: Pirates will retalliate
+VI: 
+
+[183] ID: 1750 | Key: welcome.warwarning
+EN: War... war never changes.
+
+...Except during our Early Access period. The war mechanic is not-final, and during development we expect to further refine how war works. We will attempt to maintain save-file compatibility, but that might not be possible for all elements of war. If you trigger a war, it might destroy your colony and you might not be prepared for the onslaught. Please ensure you have a strong economy and large navy before conducting war. 
+VI: 
+
+[184] ID: 1751 | Key: welcome.demowarning
+EN: Thank you for playing our preview of Whiskerwood. This is our dream project, and we intend to continue working on it until it is fully complete.
+
+In this demo, you can unlock a selection of the early game schematics, including Railroads and Conveyor Belts. More schematics will be available in the full version of Whiskerwood.
+
+Some gameplay mechanics are a work in progress, and you may experience bugs or spots where we made mistakes. We would like to know if you hit a bug or think of any suggestions. You can either email me at devdaniel@minakatadynamics.co.jp, or you can chat with me and the entire team on Discord.
+
+Thank you for playing our game :)
+VI: 
+
+[185] ID: 1755 | Key: message.day
+EN: Day <0>
+VI: 
+
+[186] ID: 1757 | Key: hovernotif.noship
+EN: No Ship Assigned
+VI: 
+
+[187] ID: 1762 | Key: mod.overtime
+EN: Overtime
+VI: 
+
+[188] ID: 1763 | Key: mod.desc.overtime
+EN: Worker has improved production speed and will work through the night.
+VI: 
+
+[189] ID: 1768 | Key: warning.lownutrients
+EN: Soil nutrients low!
+VI: 
+
+[190] ID: 1769 | Key: farming.chooseSeed
+EN: Choose Seed
+VI: 
+
+[191] ID: 1770 | Key: farming.currentYield
+EN: Current Yield
+VI: 
+
+[192] ID: 1771 | Key: farming.harvestEarly
+EN: Harvest Early
+VI: 
+
+[193] ID: 1772 | Key: farming.harvesting
+EN: Harvesting
+VI: 
+
+[194] ID: 1773 | Key: tab.services
+EN: Services
+VI: 
+
+[195] ID: 1774 | Key: subcat.basicfood
+EN: Basic food
+VI: 
+
+[196] ID: 1775 | Key: vending.visitorBonus
+EN: Visitor Bonus
+VI: 
+
+[197] ID: 1778 | Key: story.common.intro3
+EN: Dear Productive Whisker,
+VI: 
+
+[198] ID: 1779 | Key: story.common.intro4
+EN: To whom it may concern,
+VI: 
+
+[199] ID: 1780 | Key: story.common.outro3
+EN: Captain Dread
+VI: 
+
+[200] ID: 1781 | Key: story.common.outro4
+EN: Under the King’s Graceful Rule,
+Captain Tama
+Supply Ministry
+
+VI: 
+
+[201] ID: 1782 | Key: story.common.outro5
+EN: A Rebellious Colonist
+VI: 
+
+[202] ID: 1783 | Key: story.quest.nonegotiate.title
+EN: We Don’t Negotiate with Pirates
+VI: 
+
+[203] ID: 1784 | Key: story.quest.nonegotiate.body
+EN: There have been reports of pirate ransom demands in your part of the world. Under no circumstances are you to yield or to even consider paying their exaction.
+
+Should your colony survive, report back the Pirate’s shakedown tactics.
+
+VI: 
+
+[204] ID: 1785 | Key: story.quest.humblerequest.title
+EN: A Humble Request
+VI: 
+
+[205] ID: 1786 | Key: story.quest.humblerequest.body
+EN: We are but humble seafarers who, having torn off the shackles of the kingdom, find ourselves in great need. In past times of want, wise and generous Whisker colonies have supplied us with everything they had.
+
+You should follow their example, and do it quickly. There is nothing more detestable and worthy of destruction than a greedy colony. 
+
+VI: 
+
+[206] ID: 1787 | Key: story.quest.cotton.title
+EN: Cotton Farms
+VI: 
+
+[207] ID: 1788 | Key: story.quest.cotton.body
+EN: Droughts in the southern colonies have ruined their Cotton harvests. The kingdom needs additional Cotton supplies. A generous reward has been authorized for any colonies who meet the requested quota.
+
+Plant and harvest 34 Cotton. Cotton seeds are enclosed in this parcel.
+
+VI: 
+
+[208] ID: 1789 | Key: story.quest.nicehouses.title
+EN: Houses Worth Living In
+VI: 
+
+[209] ID: 1790 | Key: story.quest.nicehouses.body
+EN: Please, may we have better housing? This new island was exciting for a bit, but that excitement has worn off. I wake up each day to the smell of damp.
+
+If our lodgings don’t improve, this island is never going to be a home.
+
+VI: 
+
+[210] ID: 1791 | Key: story.quest.winterstocks.title
+EN: Stocks for Winter
+VI: 
+
+[211] ID: 1792 | Key: story.quest.winterstocks.body
+EN: Do you remember the parable of the lazy cat and the busy beavers? How the lazy cat ignored the advice of the beavers and never stocked up food for the winter? How he preferred the comfort of sleeping in the sun over diligent saving…
+
+Winter is coming. We need to be like the busy beavers and build up our food stocks.
+
+VI: 
+
+[212] ID: 1793 | Key: story.quest.campfires.title
+EN: Campfires for Winter
+VI: 
+
+[213] ID: 1794 | Key: story.quest.campfires.body
+EN: We’re out here in the wild. Wind-swept and freezing. Even basic Campfires would be a big help.
+
+Please build 5 Campfires. A few near our homes, and maybe 1 or 2 for the most remote harvesters. Campfires burn dirty, so avoid putting them upwind of crops or in confined areas.
+VI: 
+
+[214] ID: 1795 | Key: story.quest.winterclothing.title
+EN: Clothing for Winter
+VI: 
+
+[215] ID: 1796 | Key: story.quest.winterclothing.body
+EN: Our fur is not enough to hold back the winter winds. Cloaks will help us keep the warmth of Campfires longer and slow the onset of frostbite.
+
+Please trade or make enough Cloaks for at least 13 Whiskers. More would be appreciated. And don’t forget to place Campfires in strategic locations.
+VI: 
+
+[216] ID: 1797 | Key: story.quest.hungerpains.title
+EN: Hunger Pains
+VI: 
+
+[217] ID: 1798 | Key: story.quest.hungerpains.body
+EN: I am so hungry… Please, I need food. I don’t think I can last much longer.
+VI: 
+
+[218] ID: 1799 | Key: story.quest.freezingtemps.title
+EN: Freezing Temps
+VI: 
+
+[219] ID: 1800 | Key: story.quest.freezingtemps.body
+EN: The snow has crept down from the mountains. Now even the shoreline is showing the season. Open containers of water are freezing over. The thought of waking up to the sight of a fellow Whisker frozen in the snow is terrifying. Please build enough houses that 0 Whiskers are left homeless. It was never safe to sleep outdoors, but now it is a death sentence.
+VI: 
+
+[220] ID: 1801 | Key: story.quest.decorations.title
+EN: Decorations to Lift Moods
+VI: 
+
+[221] ID: 1802 | Key: story.quest.decorations.body
+EN: Times might be tough, but that is no excuse for neglecting our own town. Decorating the paths and erecting statues will lighten everyone’s mood. Even the Claws cannot deny us such a luxury.
+
+Please decorate at least 8 path segments. We can ask that much, can’t we?
+VI: 
+
+[222] ID: 1803 | Key: story.quest.extratax.title
+EN: Extra Tax Volunteers Required
+VI: 
+
+[223] ID: 1804 | Key: story.quest.extratax.body
+EN: Our King’s generous expansion of the Earl entitlements has opened an opportunity for Whisker Colonies to show their gratitude to the Kingdom. A special volunteer shortfall compensation festival has been declared. Each colony is free to volunteer an additional tax contribution to the Crown.
+
+Your colony has been allocated a volunteer contribution of 877 gold, payable in your next tax shipment. Please pay promptly.
+VI: 
+
+[224] ID: 1805 | Key: story.quest.pop2.title
+EN: Grow to Prepare for a Bigger Future
+VI: 
+
+[225] ID: 1806 | Key: story.quest.pop2.body
+EN: Your colony has been found to be undersized. Your tax receipts have not kept pace with an expected growth rate for such a rich island as the one you have been entrusted with.
+
+Reach a population of 84 Whiskers to remove this stain on our records. For Whiskers to count in our records, they must not be deceased.
+VI: 
+
+[226] ID: 1807 | Key: story.quest.spring.title
+EN: Spring is the Time for Planting
+VI: 
+
+[227] ID: 1808 | Key: story.quest.spring.body
+EN: The insects are waking up for the spring thaw. Now is our chance to maximize this year’s bounty. It is time to plant crops and expand our farms. Plants will grow quickest in the warmth of summer, so these spring months are ours to till the earth and plant seeds.
+VI: 
+
+[228] ID: 1809 | Key: story.quest.respect.title
+EN: Respect and Statues
+VI: 
+
+[229] ID: 1810 | Key: story.quest.respect.body
+EN: We Claws are a humble race. We rarely make such uncouth demands as may be our right. Yet it has come to the attention of the kingdom that too few colonies are repaying this humility with proper respect.
+
+Your colony has appeared on such a list. This is your last warning. Build 8 Claw Statues worthy of the grace we have shown the Whiskerkind.
+VI: 
+
+[230] ID: 1811 | Key: story.quest.survivewinter.title
+EN: Survive the Winter
+VI: 
+
+[231] ID: 1812 | Key: story.quest.survivewinter.body
+EN: Winters have proven a tough period for some Whisker colonies. If a colony has left themselves unprepared for the challenge, the cold and lack of crop growth leaves them desperate. Sadly, their pleas for rescue arrive at our ministry too late for an official reply.
+
+As such, please accept this preemptive notice: you must survive winter at all costs. There is no rescue boat. There is no alternative choice. Do not waste this colony.
+VI: 
+
+[232] ID: 1813 | Key: story.quest.pathproductivity.title
+EN: Paths for Productivity
+VI: 
+
+[233] ID: 1814 | Key: story.quest.pathproductivity.body
+EN: Be it carrying cargo or commuting to work, every Whisker appreciates a good path. A good proper path. Nothing better. I love it when I start going in a direction, and poof – as if someone knew my destination, a perfect path is there to lead me on.
+
+We could use some more good paths.
+VI: 
+
+[234] ID: 1815 | Key: story.quest.conveyors.title
+EN: Conveyors
+VI: 
+
+[235] ID: 1816 | Key: story.quest.conveyors.body
+EN: It feels like every day this cargo gets heavier and heavier. Just yesterday, I almost threw out my back carrying some rocks. Could we have some Conveyor Belts to lighten the load?
+
+Conveyors unlock item transport without the sweat. We need only bring the item to an Input Hopper and away it goes. The conveyor carries it along, and we can get back to our work.
+VI: 
+
+[236] ID: 1817 | Key: story.quest.needwork.title
+EN: Whiskers in Need of Work
+VI: 
+
+[237] ID: 1818 | Key: story.quest.needwork.body
+EN: Our records indicate you’ve received more Whiskers than your colony has productive jobs.
+
+Remember: idle hands lead to dangerous thinking. Reduce the unemployed to a manageable population.
+VI: 
+
+[238] ID: 1819 | Key: story.quest.shipyard.title
+EN: Shipyard
+VI: 
+
+[239] ID: 1820 | Key: story.quest.shipyard.body
+EN: Be prepared. The news I am authorized to give you is a grand sign of the King’s generosity. Honor it. Treasure it. Remember this day in your colony’s history.
+
+The king has seen fit to grant your colony the schematic for a Shipyard. This is a technology refined over centuries by Claw engineers. Our royal shipyards are capable of crafting First-Rate ships which smooth the waves and extract peace from pirate-infested waters.
+
+Your colony’s Shipyard will not be as grand as those royal yards, but they will be capable of crafting fishing ships to further increase your ability to serve the crown.
+VI: 
+
+[240] ID: 1821 | Key: story.quest.fishingfleet.title
+EN: Fishing Fleet
+VI: 
+
+[241] ID: 1822 | Key: story.quest.fishingfleet.body
+EN: It is time for your colony to return the king’s generosity. Use that new shipyard to start a befitting fishing fleet. At least 1 Fishing Sloop will suffice.
+
+Under no circumstances are you to ever consider abusing these ships to contact other colonies. Smuggling between colonies is punishable by a hundred-cannon sinking.
+VI: 
+
+[242] ID: 1823 | Key: story.quest.findanother.title
+EN: Find Another Colony
+VI: 
+
+[243] ID: 1824 | Key: story.quest.findanother.body
+EN: Long have we suffered under the oppression of the Claws! Now is our chance! With ships of our own, we can find and contact other colonies – or even other nations!
+VI: 
+
+[244] ID: 1825 | Key: story.quest.goldtrade.title
+EN: Earn Gold from Trade
+VI: 
+
+[245] ID: 1826 | Key: story.quest.goldtrade.body
+EN: If we can trade our industrial products for gold, we can lighten the burden of paying our taxes. Other islands will be willing to trade their basic resources for our developed products. Claws call this smuggling – as if we owe them even the sweat of our brow!
+
+Set up a trade route and secure gold to pay our taxes, so we can retain more of our production for our own.
+VI: 
+
+[246] ID: 1827 | Key: story.quest.piraterepair.title
+EN: Pirate Emergency Demand
+VI: 
+
+[247] ID: 1828 | Key: story.quest.piraterepair.body
+EN: Due to circumstances outside our control, a stray cannonball has shattered our ship’s mast.
+
+Since the damages were caused by the carelessness of your Claw masters, we are forced to seek compensation from you. Please provide us with sufficient Planks to repair our ship. You have 3 days, or you will leave us no choice but to bombard your colony.
+VI: 
+
+[248] ID: 1832 | Key: industrystate.noactiveresearch
+EN: No active research
+VI: 
+
+[249] ID: 1839 | Key: demo.previewtooltip
+EN: Not Available in Preview
+VI: 
+
+[250] ID: 1845 | Key: welcome.warconfirm
+EN: Are you sure you wish to start war against the Claws?
+VI: 
+
+[251] ID: 1846 | Key: welcome.warstart
+EN: Start War
+VI: 
+
+[252] ID: 1847 | Key: tag.requiresWater
+EN: Requires Surface Water
+VI: 
+
+[253] ID: 1848 | Key: tag.requiresNavigation
+EN: Requires Navigable Ocean Access
+VI: 
+
+[254] ID: 1849 | Key: farming.cancelHarvestEarly
+EN: Cancel Early Harvest
+VI: 
+
+[255] ID: 1854 | Key: research.missingPrerequisite
+EN: Missing Prerequisite
+VI: 
+
+[256] ID: 1860 | Key: overlayHint.assignShip
+EN: Assign Ship to a Work Dock
+VI: 
+
+[257] ID: 1861 | Key: overlayHint.assignShip.Desc
+EN: Work Docks provide a base of operation for each ship
+VI: 
+
+[258] ID: 1870 | Key: event.tutorialHint.firstWinter
+EN: Winter has arrived
+VI: 
+
+[259] ID: 1871 | Key: event.tutorialHint.firstWinter.desc
+EN: The brutal winters make for treacherous travel. As such, the King will suspend most visits to the colonies. 
+
+We are confident you have prepared adequate supplies and will find you in good condition in the spring.
+VI: 
+
+[260] ID: 1872 | Key: worldEffect.lowMorale
+EN: Low Morale
+VI: 
+
+[261] ID: 1873 | Key: worldEffect.desc.lowMorale
+EN: Lingering negative thoughts
+VI: 
+
+[262] ID: 1874 | Key: questgoal.decorCount
+EN: Decoratives Built
+VI: 
+
+[263] ID: 1875 | Key: questGoal.pathDecorCount
+EN: Path Decoratives Built
+VI: 
+
+[264] ID: 1876 | Key: questGoal.availableFood
+EN: Total food stores
+VI: 
+
+[265] ID: 1877 | Key: questGoal.resourceStockpiled
+EN: stockpiled
+VI: 
+
+[266] ID: 1878 | Key: questgoal.homelessCount
+EN: Whiskers without homes
+VI: 
+
+[267] ID: 1879 | Key: questgoal.unemployedCount
+EN: Whiskers without jobs
+VI: 
+
+[268] ID: 1880 | Key: questgoal.hunger
+EN: Hungry Whiskers
+VI: 
+
+[269] ID: 1881 | Key: questgoal.survivenights
+EN: Nights Survived
+VI: 
+
+[270] ID: 1882 | Key: questgoal.smuggle
+EN: Smuggle Profits
+VI: 
+
+[271] ID: 1883 | Key: questgoal.findislands
+EN: Discover Islands
+VI: 
+
+[272] ID: 1884 | Key: questgoal.fulldebtpayment
+EN: Full debt payment
+VI: 
+
+[273] ID: 1885 | Key: mission.ifNotAccepted
+EN: If Quest Rejected
+VI: 
+
+[274] ID: 1888 | Key: story.quest.extratax.failure
+EN: We have noted a shortfall in the requested voluntary tax payment. Perhaps we should allocate our assistance to more grateful colonies.
+VI: 
+
+[275] ID: 1889 | Key: story.quest.extratax.success
+EN: Your voluntary tax contribution has been recognized.
+VI: 
+
+[276] ID: 1890 | Key: debt.voluntaryGift
+EN: Voluntary Tax Donation
+VI: 
+
+[277] ID: 1895 | Key: mod.unhappymonarchist
+EN: Uncooperative Monarchist
+VI: 
+
+[278] ID: 1896 | Key: mod.desc.unhappymonarchist
+EN: Monarchist assigned an industrial job does not further the goals of the Claws
+VI: 
+
+[279] ID: 1918 | Key: reward.clothes
+EN: Old Rags
+VI: 
+
+[280] ID: 1935 | Key: tag.storage_medium
+EN: Medium capacity storage
+VI: 
+
+[281] ID: 1936 | Key: tag.store_tiny
+EN: Very low capacity storage
+VI: 
+
+[282] ID: 1937 | Key: tag.storage_tiny
+EN: Tiny capacity storage
+VI: 
+
+[283] ID: 1958 | Key: welcome.wrongbranch
+EN: Sorry, this is the wrong Beta Branch.
+
+Please check your email to find the password for the correct Beta Branch. 
+
+The build will next quit.
+
+Thank you for your interest in our game :)
+VI: 
+
+[284] ID: 1959 | Key: welcome.wrongtitle
+EN: Wrong Beta Branch
+VI: 
+
+[285] ID: 1960 | Key: research.alreadyKnown
+EN: Already known
+VI: 
+
+[286] ID: 1961 | Key: choice.selected
+EN: Selected
+VI: 
+
+[287] ID: 1963 | Key: food
+EN: Food
+VI: 
+
+[288] ID: 1964 | Key: drink
+EN: Drink
+VI: 
+
+[289] ID: 1965 | Key: subcat.foodTier1
+EN: Cooked Food
+VI: 
+
+[290] ID: 1966 | Key: subcat.mealFood
+EN: High Cuisine
+VI: 
+
+[291] ID: 1967 | Key: quality.nodetail
+EN: Minimum Detail
+VI: 
+
+[292] ID: 1968 | Key: whiskeractivity.logistics
+EN: Logistics
+VI: 
+
+[293] ID: 1977 | Key: tag.logistics
+EN: Cart Logistics
+VI: 
+
+[294] ID: 1980 | Key: overview.select
+EN: Click to select.
+VI: 
+
+[295] ID: 1983 | Key: welcome.demowarningv2
+EN: Welcome to the Whiskerwood Demo!
+
+Whiskerwood is our dream project, and we're very excited to bring you a sneak peek at the early parts of the game ahead of our release later this year!
+
+The demo will let you play for as long as you desire, establishing core production chains to keep your mice happy, and to pay off the ever-increasing tax levied by your feline overlords. How many days can you keep your colony afloat?
+
+When the game releases later this year, you can expect many more production chains, quests, and considerations, including:
+109 unique buildable structures
+A tech tree with over 50 techs to research
+Over 70 types of goods to mine, harvest, or manufacture
+Ship building to allow for exploration, trade, and more
+Massive maps up to 9 times the size of what's available in the demo
+
+If you have any feedback or suggestions, please let us know so that we can make Whiskerwood the best it can be at launch!
+
+Thank you for playing our game : )
+
+Daniel,
+Programmer
+VI: 
+
+[296] ID: 1984 | Key: hint.alreadyBeingResearched
+EN: Currently being researched.
+VI: 
+
+[297] ID: 1985 | Key: welcome.wingdk
+EN: Thank you for joining us! As the game is in Game Preview, you can expect some platform features to not work correctly, and you may encounter some bugs and crashes as well. Throughout our time in Game Preview, we'll be adding content and features, fixing bugs, balancing, and generally working to make the game better through all the bug reports and feedback from the community. Please feel free to reach out to us on Discord. Thank you for your support!
+VI: 
+
+[298] ID: 1986 | Key: info.nutrientsNew
+EN: Nutrient content in the soil. Slowly recovers when depleted. Can be replenished and boosted by fertilizer, which can also increase the recovery limit.
+VI: 
+
+[299] ID: 1987 | Key: info.rocks
+EN: Rocks in the top soil layer. Can slowly be removed by farmers.
+VI: 
+
+[300] ID: 1988 | Key: field.removeRocks
+EN: Remove Rocks
+VI: 
+
+[301] ID: 1993 | Key: tag.guildtrait.fastfields
+EN: Walks faster on fields
+VI: 
+
+[302] ID: 1996 | Key: choice.acceptAll
+EN: Accept All
+VI: 
+
+[303] ID: 1997 | Key: choice.refuseAll
+EN: Refuse All
+VI: 
+
+[304] ID: 1998 | Key: debt.popTaxAdd
+EN: Added Population Tax
+VI: 
+
+[305] ID: 1999 | Key: cost.acceptance
+EN: Cost Increase Per Accepted Whisker
+VI: 
+
+[306] ID: 2005 | Key: info.underground
+EN: Structure is underground.
+VI: 
+
+[307] ID: 2017 | Key: expectation.expectations
+EN: Expectations
+VI: 
+
+[308] ID: 2018 | Key: expectation.reason.base
+EN: New World Colonist
+VI: 
+
+[309] ID: 2019 | Key: expectation.reason.tech
+EN: Technological Progress
+VI: 
+
+[310] ID: 2034 | Key: overlayHint.terraform
+EN: Mark areas to terraform with stone.
+VI: 
+
+[311] ID: 2035 | Key: overlayHint.terraform.desc
+EN: Earthworkers will drop stone down to lowest marked height.
+VI: 
+
+[312] ID: 2062 | Key: message.smugglerArrived
+EN: A ship has arrived offering trade
+VI: 
+
+[313] ID: 2079 | Key: techtree.expectationincreasedesc
+EN: Hope rises after successful completion and all Whiskers will expect better living standards.
+VI: 
+
+[314] ID: 2082 | Key: rating.bathingQuality
+EN: Bathing Quality
+VI: 
+
+[315] ID: 2083 | Key: rating.diningQuality
+EN: Dining Quality
+VI: 
+
+[316] ID: 2084 | Key: rating.clothingQuality
+EN: Clothing Quality
+VI: 
+
+[317] ID: 2085 | Key: rating.foodQuality
+EN: Food Quality
+VI: 
+
+[318] ID: 2118 | Key: research.overhead
+EN: Coordination Overhead
+VI: 
+
+[319] ID: 2120 | Key: worker.workers
+EN: Workers
+VI: 
+
+[320] ID: 2127 | Key: smuggler.description
+EN: Smuggler offers to buy goods with Gold Bullion
+VI: 
+
+[321] ID: 2128 | Key: smuggler.goldHint
+EN: Valuable export and trade good
+VI: 
+
+[322] ID: 2129 | Key: smuggler.noResourcesLoaded
+EN: No goods loaded
+VI: 
+
+[323] ID: 2136 | Key: mod.inspired
+EN: Inspired
+VI: 
+
+[324] ID: 2137 | Key: mod.desc.inspired
+EN: Intrigued by the rumours of increased independence
+VI: 
+
+[325] ID: 2138 | Key: reward.metalsalt
+EN: Ballast Rocks
+VI: 
+
+[326] ID: 2139 | Key: farming.harvestingEarly
+EN: Harvesting Early
+VI: 
+
+[327] ID: 2141 | Key: warning.noWorkersWithEducation
+EN: No Whiskers with required skill
+VI: 
+
+[328] ID: 2153 | Key: overtime.toggle
+EN: Overtime Continuation
+VI: 
+
+[329] ID: 2154 | Key: overtime.toggle.desc
+EN: Toggle to automatically extend Overtime upon expiry, as long as you have enough Approval.
+VI: 
+
+[330] ID: 2158 | Key: inputBinding.height
+EN: Scroll Height
+VI: 
+
+[331] ID: 2160 | Key: header.constructionConfigHint
+EN: After construction:
+VI: 
+
+[332] ID: 2163 | Key: hovernotif.noinputsconfigured
+EN: No resources allowed
+VI: 
+
+[333] ID: 2164 | Key: fieldPriority.action
+EN: Field Priority
+VI: 
+
+[334] ID: 2165 | Key: fieldPriority.action.desc
+EN: Assign fields which workers of this farm will prioritize.
+VI: 
+
+[335] ID: 2166 | Key: fieldPriority.only
+EN: Only Priority
+VI: 
+

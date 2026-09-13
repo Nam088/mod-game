@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 351,
+    "key": "guild.miners",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Miners Guild",
+    "target_vi": "Hội Thợ Mỏ",
+    "context": "guild | Row 351",
+    "offset": 10341,
+    "length": 13
+  },
+  {
+    "id": 352,
+    "key": "guild.engineers",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Engineers Guild",
+    "target_vi": "Hội Thợ Máy",
+    "context": "guild | Row 352",
+    "offset": 10368,
+    "length": 16
+  },
+  {
+    "id": 353,
+    "key": "guild.farmers",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Farmers Guild",
+    "target_vi": "Hội Nông Dân",
+    "context": "guild | Row 353",
+    "offset": 10398,
+    "length": 14
+  },
+  {
+    "id": 354,
+    "key": "guild.explorers",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Explorers Guild",
+    "target_vi": "Hội Thám Hiểm",
+    "context": "guild | Row 354",
+    "offset": 10426,
+    "length": 16
+  },
+  {
+    "id": 1108,
+    "key": "thought.food_somevariety",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Moderate Food Variety",
+    "target_vi": "Bữa Ăn Đổi Vị",
+    "context": "thought | Row 1108",
+    "offset": 46856,
+    "length": 22
+  },
+  {
+    "id": 1109,
+    "key": "thought.food_highvariety",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "High Food Variety",
+    "target_vi": "Bữa Ăn Phong Phú",
+    "context": "thought | Row 1109",
+    "offset": 46892,
+    "length": 18
+  },
+  {
+    "id": 1110,
+    "key": "thought.rawFoodComplaint",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Ate Raw Food",
+    "target_vi": "Phải Ăn Đồ Sống",
+    "context": "thought | Row 1110",
+    "offset": 46924,
+    "length": 13
+  },
+  {
+    "id": 1111,
+    "key": "thought.hunger",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Hungry",
+    "target_vi": "Bụng Đói Cồn Cào",
+    "context": "thought | Row 1111",
+    "offset": 46951,
+    "length": 7
+  },
+  {
+    "id": 1112,
+    "key": "thought.cold",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Chilled Paws",
+    "target_vi": "Chân Lạnh Buốt",
+    "context": "thought | Row 1112",
+    "offset": 46972,
+    "length": 13
+  },
+  {
+    "id": 1113,
+    "key": "thought.freezing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Frostbitten",
+    "target_vi": "Tê Cóng Cắt Da",
+    "context": "thought | Row 1113",
+    "offset": 46999,
+    "length": 12
+  },
+  {
+    "id": 1114,
+    "key": "thought.newArrival",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Fresh Arrival",
+    "target_vi": "Chuột Mới Đến",
+    "context": "thought | Row 1114",
+    "offset": 47025,
+    "length": 14
+  },
+  {
+    "id": 1115,
+    "key": "thought.sleep_tier0",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Poor-Quality Housing",
+    "target_vi": "Chỗ Ngủ Tồi Tàn",
+    "context": "thought | Row 1115",
+    "offset": 47053,
+    "length": 21
+  },
+  {
+    "id": 1116,
+    "key": "thought.sleep_tier1",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Basic Housing",
+    "target_vi": "Nhà Ở Tạm Ổn",
+    "context": "thought | Row 1116",
+    "offset": 47088,
+    "length": 14
+  },
+  {
+    "id": 1117,
+    "key": "thought.sleep_tier2",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Comfortable Housing",
+    "target_vi": "Nhà Ở Ấm Cúng",
+    "context": "thought | Row 1117",
+    "offset": 47116,
+    "length": 20
+  },
+  {
+    "id": 1118,
+    "key": "thought.sleep_tier3",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Luxurious Housing",
+    "target_vi": "Nhà Ở Xa Hoa",
+    "context": "thought | Row 1118",
+    "offset": 47150,
+    "length": 18
+  },
+  {
+    "id": 1119,
+    "key": "thought.luxury.furniture",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Well-Furnished Home",
+    "target_vi": "Nhà Đủ Bàn Ghế",
+    "context": "thought | Row 1119",
+    "offset": 47182,
+    "length": 20
+  },
+  {
+    "id": 1120,
+    "key": "thought.luxury.bedding",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Soft, Cozy Blankets",
+    "target_vi": "Chăn Ấm Đệm Êm",
+    "context": "thought | Row 1120",
+    "offset": 47216,
+    "length": 20
+  },
+  {
+    "id": 1121,
+    "key": "thought.missedBedtime",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Slept Outside",
+    "target_vi": "Ngủ Ngoài Trời",
+    "context": "thought | Row 1121",
+    "offset": 47250,
+    "length": 14
+  },
+  {
+    "id": 1122,
+    "key": "thought.sleepwithsnorer",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Poor Sleep",
+    "target_vi": "Ngủ Không Ngon Giấc",
+    "context": "thought | Row 1122",
+    "offset": 47278,
+    "length": 11
+  },
+  {
+    "id": 1123,
+    "key": "thought.eatExperience_ateAtWarehouse",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Ate at a warehouse",
+    "target_vi": "Ăn Vội Trong Kho",
+    "context": "thought | Row 1123",
+    "offset": 47303,
+    "length": 19
+  },
+  {
+    "id": 1124,
+    "key": "thought.eatExperience_drankAtWarehouse",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Drank tea at a warehouse",
+    "target_vi": "Uống Trà Trong Kho",
+    "context": "thought | Row 1124",
+    "offset": 47336,
+    "length": 25
+  },
+  {
+    "id": 1125,
+    "key": "thought.eatExperience_ateAtEatery",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Visited a Cafe",
+    "target_vi": "Ghé Quán Ăn",
+    "context": "thought | Row 1125",
+    "offset": 47375,
+    "length": 15
+  },
+  {
+    "id": 1126,
+    "key": "thought.eatExperience_ateAtHall",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Visited a Dining Hall",
+    "target_vi": "Dự Tiệc Đại Sảnh",
+    "context": "thought | Row 1126",
+    "offset": 47404,
+    "length": 22
+  },
+  {
+    "id": 1127,
+    "key": "thought.grieving",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Grieving",
+    "target_vi": "Đau Buồn",
+    "context": "thought | Row 1127",
+    "offset": 47440,
+    "length": 9
+  },
+  {
+    "id": 1128,
+    "key": "thought.bathed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Steamy Bath",
+    "target_vi": "Tắm Nước Nóng",
+    "context": "thought | Row 1128",
+    "offset": 47463,
+    "length": 12
+  },
+  {
+    "id": 1129,
+    "key": "thought.aesthetic.beauty.tier1",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Pleasant Surroundings",
+    "target_vi": "Khung Cảnh Dễ Chịu",
+    "context": "thought | Row 1129",
+    "offset": 47489,
+    "length": 22
+  },
+  {
+    "id": 1130,
+    "key": "thought.aesthetic.beauty.tier2",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Beautiful Surroundings",
+    "target_vi": "Khung Cảnh Tươi Đẹp",
+    "context": "thought | Row 1130",
+    "offset": 47525,
+    "length": 23
+  },
+  {
+    "id": 1131,
+    "key": "thought.aesthetic.beauty.tier3",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Breathtaking Surroundings",
+    "target_vi": "Khung Cảnh Đẹp Say Lòng",
+    "context": "thought | Row 1131",
+    "offset": 47562,
+    "length": 26
+  },
+  {
+    "id": 1132,
+    "key": "thought.statueintimidation",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Intimidating Visage",
+    "target_vi": "Uy Áp Tượng Đá",
+    "context": "thought | Row 1132",
+    "offset": 47602,
+    "length": 20
+  },
+  {
+    "id": 1133,
+    "key": "thought.hardlabor",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Hard Labor",
+    "target_vi": "Lao Động Nặng Nhọc",
+    "context": "thought | Row 1133",
+    "offset": 47636,
+    "length": 11
+  },
+  {
+    "id": 1134,
+    "key": "thought.lightpollution",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Mild Pollution",
+    "target_vi": "Khói Bụi Mờ Mịt",
+    "context": "thought | Row 1134",
+    "offset": 47661,
+    "length": 15
+  },
+  {
+    "id": 1135,
+    "key": "thought.heavypollution",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Nauseating Pollution",
+    "target_vi": "Khói Bụi Ngạt Thở",
+    "context": "thought | Row 1135",
+    "offset": 47690,
+    "length": 21
+  },
+  {
+    "id": 1136,
+    "key": "thought.rudeWhisker",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Rude Encounter",
+    "target_vi": "Va Chạm Khó Chịu",
+    "context": "thought | Row 1136",
+    "offset": 47725,
+    "length": 15
+  },
+  {
+    "id": 1137,
+    "key": "thought.overtime",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Worked Late",
+    "target_vi": "Làm Thêm Giờ",
+    "context": "thought | Row 1137",
+    "offset": 47754,
+    "length": 12
+  },
+  {
+    "id": 1138,
+    "key": "thought.freshclothes",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Clean Clothes",
+    "target_vi": "Quần Áo Sạch Sẽ",
+    "context": "thought | Row 1138",
+    "offset": 47780,
+    "length": 14
+  },
+  {
+    "id": 1139,
+    "key": "thought.desc.food_somevariety",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Ate 2 unique food types today",
+    "target_vi": "Hôm nay được ăn 2 món khác nhau",
+    "context": "thought | Row 1139",
+    "offset": 47808,
+    "length": 30
+  },
+  {
+    "id": 1140,
+    "key": "thought.desc.food_highvariety",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Ate 3 unique food types today",
+    "target_vi": "Hôm nay được ăn 3 món khác nhau",
+    "context": "thought | Row 1140",
+    "offset": 47852,
+    "length": 30
+  },
+  {
+    "id": 1141,
+    "key": "thought.desc.rawFoodComplaint",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Resorting to eating raw ingredients is insulting to the Farmer's Guild!",
+    "target_vi": "Phải gặm đồ sống đúng là nỗi sỉ nhục đối với Hội Nông Dân!",
+    "context": "thought | Row 1141",
+    "offset": 47896,
+    "length": 72
+  },
+  {
+    "id": 1142,
+    "key": "thought.desc.hunger",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Failed to find food today!",
+    "target_vi": "Hôm nay chẳng kiếm được miếng ăn nào vào bụng!",
+    "context": "thought | Row 1142",
+    "offset": 47982,
+    "length": 27
+  },
+  {
+    "id": 1143,
+    "key": "thought.desc.cold",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Endured uncomfortably cold conditions",
+    "target_vi": "Phải chịu đựng cái rét buốt giá",
+    "context": "thought | Row 1143",
+    "offset": 48023,
+    "length": 38
+  },
+  {
+    "id": 1144,
+    "key": "thought.desc.freezing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Suffered dangerously cold conditions",
+    "target_vi": "Chịu đựng cái rét thấu xương đe dọa tính mạng",
+    "context": "thought | Row 1144",
+    "offset": 48075,
+    "length": 37
+  },
+  {
+    "id": 1145,
+    "key": "thought.desc.newArrival",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker is new to the colony and has some fresh optimism",
+    "target_vi": "Bé chuột mới chân ướt chân ráo tới thuộc địa, lòng đầy niềm lạc quan phơi phới",
+    "context": "thought | Row 1145",
+    "offset": 48126,
+    "length": 62
+  },
+  {
+    "id": 1146,
+    "key": "thought.desc.sleep_tier0",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Slept in what could barely be called a house",
+    "target_vi": "Phải ngủ trong một nơi khó mà gọi là một mái nhà",
+    "context": "thought | Row 1146",
+    "offset": 48202,
+    "length": 45
+  },
+  {
+    "id": 1147,
+    "key": "thought.desc.sleep_tier1",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A good night's rest ends the day well",
+    "target_vi": "Một giấc ngủ ngon khép lại ngày dài",
+    "context": "thought | Row 1147",
+    "offset": 48261,
+    "length": 38
+  },
+  {
+    "id": 1148,
+    "key": "thought.desc.sleep_tier2",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A good night's rest ends the day well",
+    "target_vi": "Một giấc ngủ ngon khép lại ngày dài",
+    "context": "thought | Row 1148",
+    "offset": 48313,
+    "length": 38
+  },
+  {
+    "id": 1149,
+    "key": "thought.desc.sleep_tier3",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A good night's rest ends the day well",
+    "target_vi": "Một giấc ngủ ngon khép lại ngày dài",
+    "context": "thought | Row 1149",
+    "offset": 48365,
+    "length": 38
+  },
+  {
+    "id": 1150,
+    "key": "thought.desc.luxury.furniture",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Home was supplied with furniture",
+    "target_vi": "Tổ ấm được trang bị bàn ghế tươm tất",
+    "context": "thought | Row 1150",
+    "offset": 48417,
+    "length": 33
+  },
+  {
+    "id": 1151,
+    "key": "thought.desc.luxury.bedding",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Home was supplied with bedding",
+    "target_vi": "Tổ ấm có sẵn chăn ấm đệm êm",
+    "context": "thought | Row 1151",
+    "offset": 48464,
+    "length": 31
+  },
+  {
+    "id": 1152,
+    "key": "thought.desc.missedBedtime",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Couldn't reach home in time to sleep — or had no home at all",
+    "target_vi": "Không về kịp nhà trước giờ ngủ — hoặc chẳng có nhà để về",
+    "context": "thought | Row 1152",
+    "offset": 48509,
+    "length": 61
+  },
+  {
+    "id": 1153,
+    "key": "thought.desc.sleepwithsnorer",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Slept poorly due to sharing a house with a loud snorer",
+    "target_vi": "Mất ngủ vì chung phòng với chú chuột ngáy như sấm",
+    "context": "thought | Row 1153",
+    "offset": 48645,
+    "length": 55
+  },
+  {
+    "id": 1154,
+    "key": "thought.desc.eatExperience_ateAtWarehouse",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Not a dignified way to eat — not even a chair!",
+    "target_vi": "Ăn uống chẳng chút tươm tất — đến cái ghế ngồi cũng không có!",
+    "context": "thought | Row 1154",
+    "offset": 48714,
+    "length": 47
+  },
+  {
+    "id": 1155,
+    "key": "thought.desc.eatExperience_drankAtWarehouse",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Tea deserves a proper eatery to be enjoyed",
+    "target_vi": "Thưởng trà là phải ở quán xá đàng hoàng mới đúng điệu",
+    "context": "thought | Row 1155",
+    "offset": 48822,
+    "length": 43
+  },
+  {
+    "id": 1156,
+    "key": "thought.desc.eatExperience_ateAtEatery",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A comfortable place to relax, eat, or enjoy some tea",
+    "target_vi": "Chỗ ngồi dễ chịu để nghỉ ngơi, ăn lót dạ hay nhâm nhi tách trà",
+    "context": "thought | Row 1156",
+    "offset": 48879,
+    "length": 53
+  },
+  {
+    "id": 1157,
+    "key": "thought.desc.eatExperience_ateAtHall",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A luxurious venue for a prosperous Whisker",
+    "target_vi": "Nơi xa hoa xứng tầm với một chú chuột thành đạt",
+    "context": "thought | Row 1157",
+    "offset": 48946,
+    "length": 43
+  },
+  {
+    "id": 1158,
+    "key": "thought.desc.grieving",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A friend died recently",
+    "target_vi": "Một người bạn vừa mới qua đời",
+    "context": "thought | Row 1158",
+    "offset": 49003,
+    "length": 23
+  },
+  {
+    "id": 1159,
+    "key": "thought.desc.bathed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Enjoyed time at a bathhouse",
+    "target_vi": "Tận hưởng những phút giây thư thái tại nhà tắm hơi",
+    "context": "thought | Row 1159",
+    "offset": 49040,
+    "length": 28
+  },
+  {
+    "id": 1160,
+    "key": "thought.desc.aesthetic.beauty.tier1",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Passed by a few gardens and decor",
+    "target_vi": "Đi ngang qua vài luống hoa và góc trang trí nhỏ",
+    "context": "thought | Row 1160",
+    "offset": 49082,
+    "length": 34
+  },
+  {
+    "id": 1161,
+    "key": "thought.desc.aesthetic.beauty.tier2",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Passed by many gardens and decor",
+    "target_vi": "Đi ngang qua nhiều bồn hoa và cảnh quan rực rỡ",
+    "context": "thought | Row 1161",
+    "offset": 49130,
+    "length": 33
+  },
+  {
+    "id": 1162,
+    "key": "thought.desc.aesthetic.beauty.tier3",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Passed by endless gardens and decor",
+    "target_vi": "Đi ngang qua vườn hoa và cảnh quan bạt ngàn đẹp như mơ",
+    "context": "thought | Row 1162",
+    "offset": 49177,
+    "length": 36
+  },
+  {
+    "id": 1163,
+    "key": "thought.desc.statueintimidation",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Felt intimidated by a nearby Claws statue",
+    "target_vi": "Cảm thấy khiếp vía trước tượng đá Quý Tộc Mèo gần đó",
+    "context": "thought | Row 1163",
+    "offset": 49227,
+    "length": 42
+  },
+  {
+    "id": 1164,
+    "key": "thought.desc.hardlabor",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Assigned a gruelling job",
+    "target_vi": "Bị giao việc nặng nhọc vắt kiệt sức lực",
+    "context": "thought | Row 1164",
+    "offset": 49283,
+    "length": 25
+  },
+  {
+    "id": 1165,
+    "key": "thought.desc.lightpollution",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Passed through unpleasant levels of pollution",
+    "target_vi": "Đi qua khu vực nồng nặc khói bụi khó chịu",
+    "context": "thought | Row 1165",
+    "offset": 49322,
+    "length": 46
+  },
+  {
+    "id": 1166,
+    "key": "thought.desc.heavypollution",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Had trouble breathing due to heavy pollution",
+    "target_vi": "Khó thở vì khói bụi ô nhiễm quá nặng nề",
+    "context": "thought | Row 1166",
+    "offset": 49382,
+    "length": 45
+  },
+  {
+    "id": 1167,
+    "key": "thought.desc.rudeWhisker",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A passing Whisker grumbled some rather rude things!",
+    "target_vi": "Một chú chuột đi ngang càu nhàu mấy câu cực kỳ thô lỗ!",
+    "context": "thought | Row 1167",
+    "offset": 49441,
+    "length": 52
+  },
+  {
+    "id": 1168,
+    "key": "thought.desc.overtime",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Normal hours, they said...",
+    "target_vi": "Rõ ràng bảo làm đúng giờ hành chính mà...",
+    "context": "thought | Row 1168",
+    "offset": 49507,
+    "length": 27
+  },
+  {
+    "id": 1169,
+    "key": "thought.desc.freshclothes",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Picked out a fresh set of clothes today",
+    "target_vi": "Hôm nay được diện một bộ đồ mới tinh tươm",
+    "context": "thought | Row 1169",
+    "offset": 49548,
+    "length": 40
+  },
+  {
+    "id": 1397,
+    "key": "trait.snorer",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Snores",
+    "target_vi": "Ngáy To",
+    "context": "trait | Row 1397",
+    "offset": 57751,
+    "length": 7
+  },
+  {
+    "id": 1398,
+    "key": "trait.snorer.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Annoys other Whiskers sleeping in the same home.",
+    "target_vi": "Làm phiền các chú chuột khác ngủ chung nhà.",
+    "context": "trait | Row 1398",
+    "offset": 57772,
+    "length": 49
+  },
+  {
+    "id": 1399,
+    "key": "trait.lightEater",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Light Eater",
+    "target_vi": "Ăn Ít",
+    "context": "trait | Row 1399",
+    "offset": 57835,
+    "length": 12
+  },
+  {
+    "id": 1400,
+    "key": "trait.lightEater.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Eats one less food per meal.",
+    "target_vi": "Mỗi bữa ăn ít hơn 1 phần thức ăn.",
+    "context": "trait | Row 1400",
+    "offset": 57861,
+    "length": 29
+  },
+  {
+    "id": 1401,
+    "key": "trait.loner",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Loner",
+    "target_vi": "Thích Đơn Độc",
+    "context": "trait | Row 1401",
+    "offset": 57904,
+    "length": 6
+  },
+  {
+    "id": 1402,
+    "key": "trait.loner.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unhappy if working or sleeping with others.",
+    "target_vi": "Buồn bã nếu phải làm việc hoặc ngủ chung với chuột khác.",
+    "context": "trait | Row 1402",
+    "offset": 57924,
+    "length": 44
+  },
+  {
+    "id": 1403,
+    "key": "trait.strongShoulders",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Strong Shoulders",
+    "target_vi": "Đôi Vai Vạm Vỡ",
+    "context": "trait | Row 1403",
+    "offset": 57982,
+    "length": 17
+  },
+  {
+    "id": 1404,
+    "key": "trait.strongShoulders.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "+2 carry capacity.",
+    "target_vi": "+2 sức khuân vác.",
+    "context": "trait | Row 1404",
+    "offset": 58013,
+    "length": 19
+  },
+  {
+    "id": 1405,
+    "key": "trait.heavyEater",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Heavy Eater",
+    "target_vi": "Ăn Khỏe",
+    "context": "trait | Row 1405",
+    "offset": 58046,
+    "length": 12
+  },
+  {
+    "id": 1406,
+    "key": "trait.heavyEater.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Eats one more food per meal.",
+    "target_vi": "Mỗi bữa ăn thêm 1 phần thức ăn.",
+    "context": "trait | Row 1406",
+    "offset": 58072,
+    "length": 29
+  },
+  {
+    "id": 1407,
+    "key": "trait.swift",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Swift",
+    "target_vi": "Thoăn Thoắt",
+    "context": "trait | Row 1407",
+    "offset": 58115,
+    "length": 6
+  },
+  {
+    "id": 1408,
+    "key": "trait.swift.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "+15 move speed.",
+    "target_vi": "+15 tốc độ di chuyển.",
+    "context": "trait | Row 1408",
+    "offset": 58135,
+    "length": 16
+  },
+  {
+    "id": 1409,
+    "key": "trait.optimist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Optimist",
+    "target_vi": "Lạc Quan",
+    "context": "trait | Row 1409",
+    "offset": 58165,
+    "length": 9
+  },
+  {
+    "id": 1410,
+    "key": "trait.optimist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Chance to double the effect of positive thoughts.",
+    "target_vi": "Có cơ hội nhân đôi hiệu ứng của các suy nghĩ tích cực.",
+    "context": "trait | Row 1410",
+    "offset": 58188,
+    "length": 50
+  },
+  {
+    "id": 1411,
+    "key": "trait.pessimist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Pessimist",
+    "target_vi": "Bi Quan",
+    "context": "trait | Row 1411",
+    "offset": 58252,
+    "length": 10
+  },
+  {
+    "id": 1412,
+    "key": "trait.pessimist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Chance to double the effect of negative thoughts.",
+    "target_vi": "Có cơ hội nhân đôi hiệu ứng của các suy nghĩ tiêu cực.",
+    "context": "trait | Row 1412",
+    "offset": 58276,
+    "length": 50
+  },
+  {
+    "id": 1413,
+    "key": "trait.sickly",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Sickly",
+    "target_vi": "Ốm Yếu",
+    "context": "trait | Row 1413",
+    "offset": 58340,
+    "length": 7
+  },
+  {
+    "id": 1414,
+    "key": "trait.sickly.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Less resistant to cold and illness.",
+    "target_vi": "Kém chống chịu trước giá rét và bệnh tật.",
+    "context": "trait | Row 1414",
+    "offset": 58361,
+    "length": 36
+  },
+  {
+    "id": 1415,
+    "key": "trait.scientist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Sneaky",
+    "target_vi": "Say Mê Nghiên Cứu",
+    "context": "trait | Row 1415",
+    "offset": 58411,
+    "length": 7
+  },
+  {
+    "id": 1416,
+    "key": "trait.scientist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Work Speed boost when doing research.",
+    "target_vi": "Tăng mạnh tốc độ làm việc khi nghiên cứu công nghệ.",
+    "context": "trait | Row 1416",
+    "offset": 58432,
+    "length": 38
+  },
+  {
+    "id": 1417,
+    "key": "trait.mascochist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Masochist",
+    "target_vi": "Thích Khổ Hạnh",
+    "context": "trait | Row 1417",
+    "offset": 58484,
+    "length": 10
+  },
+  {
+    "id": 1418,
+    "key": "trait.mascochist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Is happy to perform hard labor.",
+    "target_vi": "Vui vẻ khi phải lao động nặng nhọc.",
+    "context": "trait | Row 1418",
+    "offset": 58508,
+    "length": 32
+  },
+  {
+    "id": 1419,
+    "key": "trait.healthy",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Healthy",
+    "target_vi": "Khỏe Khoắn",
+    "context": "trait | Row 1419",
+    "offset": 58554,
+    "length": 8
+  },
+  {
+    "id": 1420,
+    "key": "trait.healthy.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Highly resistant to illness or injury.",
+    "target_vi": "Chống chịu rất tốt trước bệnh tật hoặc chấn thương.",
+    "context": "trait | Row 1420",
+    "offset": 58576,
+    "length": 39
+  },
+  {
+    "id": 1421,
+    "key": "trait.warmCore",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Warm Core",
+    "target_vi": "Thân Nhiệt Cao",
+    "context": "trait | Row 1421",
+    "offset": 58629,
+    "length": 10
+  },
+  {
+    "id": 1422,
+    "key": "trait.warmCore.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Extra resistant to cold temperatures.",
+    "target_vi": "Chống chịu giá rét tốt hơn bình thường.",
+    "context": "trait | Row 1422",
+    "offset": 58653,
+    "length": 38
+  },
+  {
+    "id": 1423,
+    "key": "trait.unsafe",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unsafe worker",
+    "target_vi": "Thợ Bất Cẩn",
+    "context": "trait | Row 1423",
+    "offset": 58705,
+    "length": 14
+  },
+  {
+    "id": 1424,
+    "key": "trait.unsafe.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Wears out industrial machinery faster.",
+    "target_vi": "Làm máy móc công nghiệp hao mòn nhanh hơn.",
+    "context": "trait | Row 1424",
+    "offset": 58733,
+    "length": 39
+  },
+  {
+    "id": 1425,
+    "key": "trait.rude",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Rude",
+    "target_vi": "Cộc Cằn",
+    "context": "trait | Row 1425",
+    "offset": 58786,
+    "length": 5
+  },
+  {
+    "id": 1426,
+    "key": "trait.rude.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Chance to make passing Whiskers unhappy.",
+    "target_vi": "Có cơ hội khiến những chú chuột đi ngang qua mất vui.",
+    "context": "trait | Row 1426",
+    "offset": 58805,
+    "length": 41
+  },
+  {
+    "id": 1427,
+    "key": "trait.monarchist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Monarchist",
+    "target_vi": "Bảo Hoàng",
+    "context": "trait | Row 1427",
+    "offset": 58860,
+    "length": 11
+  },
+  {
+    "id": 1428,
+    "key": "trait.monarchist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Naturally loyal to the Claws.",
+    "target_vi": "Bản tính trung thành tuyệt đối với Phe Móng Vuốt.",
+    "context": "trait | Row 1428",
+    "offset": 58885,
+    "length": 30
+  },
+  {
+    "id": 1429,
+    "key": "trait.nosmell",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Can't Smell",
+    "target_vi": "Mũi Điếc",
+    "context": "trait | Row 1429",
+    "offset": 58929,
+    "length": 12
+  },
+  {
+    "id": 1430,
+    "key": "trait.nosmell.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "No negative thoughts from pollution.",
+    "target_vi": "Không bị ảnh hưởng tiêu cực bởi ô nhiễm khói bụi.",
+    "context": "trait | Row 1430",
+    "offset": 58955,
+    "length": 37
+  },
+  {
+    "id": 1431,
+    "key": "trait.rebellious",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Rebellious",
+    "target_vi": "Nổi Loạn",
+    "context": "trait | Row 1431",
+    "offset": 59006,
+    "length": 11
+  },
+  {
+    "id": 1432,
+    "key": "trait.rebellious.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "More likely to say rebellious things or repeat such rumours",
+    "target_vi": "Dễ buông lời chống đối hoặc lan truyền tin đồn phản nghịch",
+    "context": "trait | Row 1432",
+    "offset": 59031,
+    "length": 60
+  },
+  {
+    "id": 1434,
+    "key": "guild.miners.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Large Field Whiskers skilled at mining & refining.",
+    "target_vi": "Những chú chuột đồng vạm vỡ lành nghề đào mỏ & luyện kim.",
+    "context": "guild | Row 1434",
+    "offset": 59124,
+    "length": 51
+  },
+  {
+    "id": 1435,
+    "key": "guild.engineers.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Highly productive industrialists and craftsmen.",
+    "target_vi": "Những thợ cơ khí và nghệ nhân năng suất vượt trội.",
+    "context": "guild | Row 1435",
+    "offset": 59189,
+    "length": 48
+  },
+  {
+    "id": 1436,
+    "key": "guild.farmers.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Experts at farming and the culinary arts.",
+    "target_vi": "Những chuyên gia trồng trọt và nghệ thuật ẩm thực.",
+    "context": "guild | Row 1436",
+    "offset": 59251,
+    "length": 42
+  },
+  {
+    "id": 1437,
+    "key": "guild.explorers.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Curious Wood Whiskers that love the wilds.",
+    "target_vi": "Những chú chuột rừng tò mò, say mê khám phá hoang dã.",
+    "context": "guild | Row 1437",
+    "offset": 59307,
+    "length": 43
+  },
+  {
+    "id": 1500,
+    "key": "whiskerActivity.idle",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Idle",
+    "target_vi": "Rảnh rỗi",
+    "context": "whiskerActivity | Row 1500",
+    "offset": 61928,
+    "length": 5
+  },
+  {
+    "id": 1501,
+    "key": "whiskerActivity.seekFood",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Seeking food",
+    "target_vi": "Đang tìm đồ ăn",
+    "context": "whiskerActivity | Row 1501",
+    "offset": 61947,
+    "length": 13
+  },
+  {
+    "id": 1502,
+    "key": "whiskerActivity.seekService",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Seeking services",
+    "target_vi": "Đang tìm dịch vụ",
+    "context": "whiskerActivity | Row 1502",
+    "offset": 61974,
+    "length": 17
+  },
+  {
+    "id": 1503,
+    "key": "whiskerActivity.seekEquipment",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Fetching equipment",
+    "target_vi": "Đang lấy dụng cụ",
+    "context": "whiskerActivity | Row 1503",
+    "offset": 62005,
+    "length": 19
+  },
+  {
+    "id": 1504,
+    "key": "whiskerActivity.seekResource",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Fetching resources",
+    "target_vi": "Đang lấy tài nguyên",
+    "context": "whiskerActivity | Row 1504",
+    "offset": 62038,
+    "length": 19
+  },
+  {
+    "id": 1505,
+    "key": "whiskerActivity.deliverOutput",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Delivering outputs",
+    "target_vi": "Đang giao sản phẩm",
+    "context": "whiskerActivity | Row 1505",
+    "offset": 62071,
+    "length": 19
+  },
+  {
+    "id": 1506,
+    "key": "whiskerActivity.extract",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Extracting resources",
+    "target_vi": "Đang khai thác tài nguyên",
+    "context": "whiskerActivity | Row 1506",
+    "offset": 62104,
+    "length": 21
+  },
+  {
+    "id": 1507,
+    "key": "whiskerActivity.goWork",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Headed to work",
+    "target_vi": "Đang đi làm",
+    "context": "whiskerActivity | Row 1507",
+    "offset": 62139,
+    "length": 15
+  },
+  {
+    "id": 1508,
+    "key": "whiskerActivity.deliverLuxuries",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Delivering luxuries",
+    "target_vi": "Đang phân phát hàng xa xỉ",
+    "context": "whiskerActivity | Row 1508",
+    "offset": 62168,
+    "length": 20
+  },
+  {
+    "id": 1509,
+    "key": "whiskerActivity.farmHarvest",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Harvesting crops",
+    "target_vi": "Đang thu hoạch mùa màng",
+    "context": "whiskerActivity | Row 1509",
+    "offset": 62202,
+    "length": 17
+  },
+  {
+    "id": 1510,
+    "key": "whiskerActivity.farmTill",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Tilling farmland",
+    "target_vi": "Đang xới đất đồng ruộng",
+    "context": "whiskerActivity | Row 1510",
+    "offset": 62233,
+    "length": 17
+  },
+  {
+    "id": 1511,
+    "key": "whiskerActivity.farmSow",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Sowing seeds",
+    "target_vi": "Đang gieo hạt",
+    "context": "whiskerActivity | Row 1511",
+    "offset": 62264,
+    "length": 13
+  },
+  {
+    "id": 1512,
+    "key": "whiskerActivity.farmFertilize",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Fertilizing farmland",
+    "target_vi": "Đang bón phân ruộng",
+    "context": "whiskerActivity | Row 1512",
+    "offset": 62291,
+    "length": 21
+  },
+  {
+    "id": 1513,
+    "key": "whiskerActivity.farmTillRocks",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Tilling rocky soil",
+    "target_vi": "Đang cày xới đất sỏi",
+    "context": "whiskerActivity | Row 1513",
+    "offset": 62326,
+    "length": 19
+  },
+  {
+    "id": 1514,
+    "key": "whiskerActivity.farm.idle",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Idle at farm",
+    "target_vi": "Nghỉ tay ở nông trại",
+    "context": "whiskerActivity | Row 1514",
+    "offset": 62359,
+    "length": 13
+  },
+  {
+    "id": 1515,
+    "key": "whiskerActivity.constructionSupply",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Supplying construction",
+    "target_vi": "Đang chuyển vật liệu thi công",
+    "context": "whiskerActivity | Row 1515",
+    "offset": 62386,
+    "length": 23
+  },
+  {
+    "id": 1516,
+    "key": "whiskerActivity.constructingBuilding",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Construction",
+    "target_vi": "Đang thi công",
+    "context": "whiskerActivity | Row 1516",
+    "offset": 62423,
+    "length": 13
+  },
+  {
+    "id": 1517,
+    "key": "whiskerActivity.seekHeat",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Seeking heat",
+    "target_vi": "Đang tìm chỗ sưởi ấm",
+    "context": "whiskerActivity | Row 1517",
+    "offset": 62450,
+    "length": 13
+  },
+  {
+    "id": 1518,
+    "key": "whiskerActivity.eating",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Eating",
+    "target_vi": "Đang dùng bữa",
+    "context": "whiskerActivity | Row 1518",
+    "offset": 62477,
+    "length": 7
+  },
+  {
+    "id": 1519,
+    "key": "whiskerActivity.work.idle",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Nothing to do",
+    "target_vi": "Chưa có việc gì làm",
+    "context": "whiskerActivity | Row 1519",
+    "offset": 62498,
+    "length": 14
+  },
+  {
+    "id": 1520,
+    "key": "whiskerActivity.home",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Sleeping at home",
+    "target_vi": "Đang ngủ ở nhà",
+    "context": "whiskerActivity | Row 1520",
+    "offset": 62526,
+    "length": 17
+  },
+  {
+    "id": 1521,
+    "key": "whiskerActivity.jobticket.nojobs",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Idle - No requests",
+    "target_vi": "Rảnh rỗi - Không có yêu cầu",
+    "context": "whiskerActivity | Row 1521",
+    "offset": 62557,
+    "length": 19
+  },
+  {
+    "id": 1522,
+    "key": "whiskerActivity.jobticket.fulfilling",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Responding to request",
+    "target_vi": "Đang đáp ứng yêu cầu",
+    "context": "whiskerActivity | Row 1522",
+    "offset": 62590,
+    "length": 22
+  },
+  {
+    "id": 1523,
+    "key": "whiskerActivity.service.bathing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Bathing",
+    "target_vi": "Đang tắm gội",
+    "context": "whiskerActivity | Row 1523",
+    "offset": 62626,
+    "length": 8
+  },
+  {
+    "id": 1524,
+    "key": "whiskerActivity.service.healing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Healing",
+    "target_vi": "Đang điều trị y tế",
+    "context": "whiskerActivity | Row 1524",
+    "offset": 62648,
+    "length": 8
+  },
+  {
+    "id": 1525,
+    "key": "whiskerActivity.service.drinking",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Drinking",
+    "target_vi": "Đang uống nước",
+    "context": "whiskerActivity | Row 1525",
+    "offset": 62670,
+    "length": 9
+  },
+  {
+    "id": 1526,
+    "key": "whiskerActivity.logistics.idle",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Nothing to transport",
+    "target_vi": "Không có hàng để chở",
+    "context": "whiskerActivity | Row 1526",
+    "offset": 62693,
+    "length": 21
+  },
+  {
+    "id": 1527,
+    "key": "whiskerActivity.genericWork",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Working",
+    "target_vi": "Đang làm việc",
+    "context": "whiskerActivity | Row 1527",
+    "offset": 62728,
+    "length": 8
+  },
+  {
+    "id": 1528,
+    "key": "whiskerActivity.genericRelaxing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Relaxing",
+    "target_vi": "Đang nghỉ ngơi",
+    "context": "whiskerActivity | Row 1528",
+    "offset": 62750,
+    "length": 9
+  },
+  {
+    "id": 1529,
+    "key": "whiskerActivity.workplace.idle",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Idle at workplace",
+    "target_vi": "Rảnh tay tại xưởng",
+    "context": "whiskerActivity | Row 1529",
+    "offset": 62773,
+    "length": 18
+  },
+  {
+    "id": 1530,
+    "key": "whiskerActivity.replacingMachinery",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Replacing machinery",
+    "target_vi": "Đang thay thế máy móc",
+    "context": "whiskerActivity | Row 1530",
+    "offset": 62805,
+    "length": 20
+  },
+  {
+    "id": 1531,
+    "key": "whiskerActivity.replacingCatalyst",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Gathering Catalyst",
+    "target_vi": "Đang thu gom chất xúc tác",
+    "context": "whiskerActivity | Row 1531",
+    "offset": 62839,
+    "length": 19
+  },
+  {
+    "id": 1764,
+    "key": "thought.unburiedFriend",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unburied Friend",
+    "target_vi": "Bạn Bè Chưa An Táng",
+    "context": "thought | Row 1764",
+    "offset": 73560,
+    "length": 16
+  },
+  {
+    "id": 1765,
+    "key": "thought.desc.unburiedFriend",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "The lack of burial is troubling...",
+    "target_vi": "Thi thể người bạn nằm đó chưa được chôn cất thật xót xa...",
+    "context": "thought | Row 1765",
+    "offset": 73590,
+    "length": 35
+  },
+  {
+    "id": 1893,
+    "key": "thought.discontentMonarchist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Discontent Monarchist",
+    "target_vi": "Chuột Bảo Hoàng Bất Mãn",
+    "context": "thought | Row 1893",
+    "offset": 90804,
+    "length": 22
+  },
+  {
+    "id": 1894,
+    "key": "thought.desc.discontentMonarchist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Loyal Monarchists greatly dislike working industries",
+    "target_vi": "Tín đồ trung thành của Hoàng Gia cực kỳ ghét phải làm việc công nghiệp lam lũ",
+    "context": "thought | Row 1894",
+    "offset": 90840,
+    "length": 53
+  },
+  {
+    "id": 1897,
+    "key": "guild.favoritefood",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Preferred Food",
+    "target_vi": "Món Khoái Khẩu",
+    "context": "guild | Row 1897",
+    "offset": 91038,
+    "length": 15
+  },
+  {
+    "id": 1898,
+    "key": "thought.favFood",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Preferred Food",
+    "target_vi": "Món Khoái Khẩu",
+    "context": "thought | Row 1898",
+    "offset": 91067,
+    "length": 15
+  },
+  {
+    "id": 1899,
+    "key": "thought.desc.favFood",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Whisker ate one of their guild's preferred foods",
+    "target_vi": "Chú chuột được ăn món khoái khẩu theo khẩu vị bang hội của mình",
+    "context": "thought | Row 1899",
+    "offset": 91096,
+    "length": 49
+  },
+  {
+    "id": 1900,
+    "key": "thought.showered",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Cold Shower",
+    "target_vi": "Tắm Nước Lạnh",
+    "context": "thought | Row 1900",
+    "offset": 91159,
+    "length": 12
+  },
+  {
+    "id": 1901,
+    "key": "thought.desc.showered",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Took a cleansing cold shower",
+    "target_vi": "Tắm một gáo nước lạnh buốt cho sạch bụi đất",
+    "context": "thought | Row 1901",
+    "offset": 91185,
+    "length": 29
+  },
+  {
+    "id": 1906,
+    "key": "thought.dirty",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Dirty Fur",
+    "target_vi": "Bộ Lông Lấm Lem",
+    "context": "thought | Row 1906",
+    "offset": 91396,
+    "length": 10
+  },
+  {
+    "id": 1907,
+    "key": "thought.desc.dirty",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Needs a bath",
+    "target_vi": "Cần được tắm rửa cho sạch sẽ",
+    "context": "thought | Row 1907",
+    "offset": 91420,
+    "length": 13
+  },
+  {
+    "id": 1910,
+    "key": "thought.bathedOcean",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Bathed in the ocean",
+    "target_vi": "Tắm Biển",
+    "context": "thought | Row 1910",
+    "offset": 91512,
+    "length": 20
+  },
+  {
+    "id": 1911,
+    "key": "thought.desc.bathedOcean",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Smells a bit like seaweed",
+    "target_vi": "Người thoang thoảng mùi rong biển",
+    "context": "thought | Row 1911",
+    "offset": 91546,
+    "length": 26
+  },
+  {
+    "id": 1912,
+    "key": "thought.nodecor",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Drab surroundings",
+    "target_vi": "Cảnh Sắc Ảm Đạm",
+    "context": "thought | Row 1912",
+    "offset": 91586,
+    "length": 18
+  },
+  {
+    "id": 1913,
+    "key": "thought.desc.nodecor",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Whisker hasn't seen a hint of beauty in a while",
+    "target_vi": "Lâu lắm rồi chẳng thấy chút cảnh sắc tươi đẹp nào",
+    "context": "thought | Row 1913",
+    "offset": 91618,
+    "length": 48
+  },
+  {
+    "id": 1916,
+    "key": "thought.noclothing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Threadbare clothing",
+    "target_vi": "Quần Áo Rách Rưới",
+    "context": "thought | Row 1916",
+    "offset": 91786,
+    "length": 20
+  },
+  {
+    "id": 1917,
+    "key": "thought.desc.noclothing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Whisker hasn't been able to find a new set of clothes",
+    "target_vi": "Chẳng tìm đâu ra một bộ đồ lành lặn để thay",
+    "context": "thought | Row 1917",
+    "offset": 91820,
+    "length": 54
+  },
+  {
+    "id": 1942,
+    "key": "thought.desc.earlysleep",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Got home before the night ended",
+    "target_vi": "Về được đến nhà trước khi đêm tàn",
+    "context": "thought | Row 1942",
+    "offset": 93094,
+    "length": 32
+  },
+  {
+    "id": 1943,
+    "key": "thought.earlysleep",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Early to bed",
+    "target_vi": "Đi Ngủ Sớm",
+    "context": "thought | Row 1943",
+    "offset": 93140,
+    "length": 13
+  },
+  {
+    "id": 1962,
+    "key": "whiskerActivity.doctor.patients",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Tending to patients",
+    "target_vi": "Đang chăm sóc bệnh nhân",
+    "context": "whiskerActivity | Row 1962",
+    "offset": 93948,
+    "length": 20
+  },
+  {
+    "id": 1990,
+    "key": "whiskerActivity.seekClothing",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Seeking Clothing",
+    "target_vi": "Đang tìm quần áo",
+    "context": "whiskerActivity | Row 1990",
+    "offset": 96566,
+    "length": 17
+  },
+  {
+    "id": 1992,
+    "key": "thought.homeless",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "No Home",
+    "target_vi": "Không Mái Nhà Che Thân",
+    "context": "thought | Row 1992",
+    "offset": 96624,
+    "length": 8
+  },
+  {
+    "id": 2002,
+    "key": "thought.personalSpace",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Personal Space",
+    "target_vi": "Mất Không Gian Riêng",
+    "context": "thought | Row 2002",
+    "offset": 96909,
+    "length": 15
+  },
+  {
+    "id": 2003,
+    "key": "thought.desc.personalSpace",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A loner had to share a home with others",
+    "target_vi": "Chú chuột thích một mình phải ở chung nhà với kẻ khác",
+    "context": "thought | Row 2003",
+    "offset": 96938,
+    "length": 40
+  },
+  {
+    "id": 2004,
+    "key": "trait.loner.desc.alt",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unhappy sharing a home with others",
+    "target_vi": "Khó chịu khi phải chia sẻ chỗ ngủ với chuột khác",
+    "context": "trait | Row 2004",
+    "offset": 96992,
+    "length": 35
+  },
+  {
+    "id": 2020,
+    "key": "education.required",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Required",
+    "target_vi": "Yêu Cầu Bắt Buộc",
+    "context": "education | Row 2020",
+    "offset": 97494,
+    "length": 9
+  },
+  {
+    "id": 2021,
+    "key": "education.schooled",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Schooled",
+    "target_vi": "Đã Qua Trường Lớp",
+    "context": "education | Row 2021",
+    "offset": 97517,
+    "length": 9
+  },
+  {
+    "id": 2022,
+    "key": "education.schooled.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Received schooling in the colony",
+    "target_vi": "Đã được học hành bài bản tại thuộc địa",
+    "context": "education | Row 2022",
+    "offset": 97540,
+    "length": 33
+  },
+  {
+    "id": 2023,
+    "key": "education.target",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Education Target",
+    "target_vi": "Mục Tiêu Đào Tạo",
+    "context": "education | Row 2023",
+    "offset": 97587,
+    "length": 17
+  },
+  {
+    "id": 2024,
+    "key": "education.skilled",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Apprentice",
+    "target_vi": "Thợ Học Việc",
+    "context": "education | Row 2024",
+    "offset": 97618,
+    "length": 11
+  },
+  {
+    "id": 2025,
+    "key": "education.skilled.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "A partially trained craftsman who knows the basics",
+    "target_vi": "Thợ đã được đào tạo cơ bản, nắm vững kỹ thuật nhập môn",
+    "context": "education | Row 2025",
+    "offset": 97643,
+    "length": 51
+  },
+  {
+    "id": 2026,
+    "key": "education.educated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Educated",
+    "target_vi": "Có Học Thức",
+    "context": "education | Row 2026",
+    "offset": 97708,
+    "length": 9
+  },
+  {
+    "id": 2027,
+    "key": "education.educated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Learned in literature and mathematics",
+    "target_vi": "Thông thạo chữ nghĩa và tính toán sổ sách",
+    "context": "education | Row 2027",
+    "offset": 97731,
+    "length": 38
+  },
+  {
+    "id": 2028,
+    "key": "education.craftsmaster",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Craftsmaster",
+    "target_vi": "Bậc Thầy Thủ Công",
+    "context": "education | Row 2028",
+    "offset": 97783,
+    "length": 13
+  },
+  {
+    "id": 2029,
+    "key": "education.craftsmaster.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Fully trained and an expert in skilled labor",
+    "target_vi": "Được đào tạo toàn diện và là chuyên gia lành nghề",
+    "context": "education | Row 2029",
+    "offset": 97810,
+    "length": 45
+  },
+  {
+    "id": 2030,
+    "key": "education.craftsman",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Craftsmanship",
+    "target_vi": "Nghề Thủ Công",
+    "context": "education | Row 2030",
+    "offset": 97869,
+    "length": 14
+  },
+  {
+    "id": 2031,
+    "key": "education.scholar",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Scholarly",
+    "target_vi": "Ngành Học Thuật",
+    "context": "education | Row 2031",
+    "offset": 97897,
+    "length": 10
+  },
+  {
+    "id": 2032,
+    "key": "education.teaching",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Teaching",
+    "target_vi": "Đang Giảng Dạy",
+    "context": "education | Row 2032",
+    "offset": 97921,
+    "length": 9
+  },
+  {
+    "id": 2033,
+    "key": "education.learning",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Learning",
+    "target_vi": "Đang Học Tập",
+    "context": "education | Row 2033",
+    "offset": 97944,
+    "length": 9
+  },
+  {
+    "id": 2036,
+    "key": "thought.housing.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Rough and Stuffy",
+    "target_vi": "Ngột Ngạt Chật Chội",
+    "context": "thought | Row 2036",
+    "offset": 98090,
+    "length": 17
+  },
+  {
+    "id": 2037,
+    "key": "thought.housing.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Disappointed with low housing quality",
+    "target_vi": "Thất vọng vì chất lượng nhà ở quá tồi tàn",
+    "context": "thought | Row 2037",
+    "offset": 98121,
+    "length": 38
+  },
+  {
+    "id": 2038,
+    "key": "thought.housing.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Happy Tenant",
+    "target_vi": "Mái Ấm Như Ý",
+    "context": "thought | Row 2038",
+    "offset": 98173,
+    "length": 13
+  },
+  {
+    "id": 2039,
+    "key": "thought.housing.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Excited that housing quality exceeds expectations",
+    "target_vi": "Phấn khởi vì nhà ở tiện nghi vượt ngoài mong đợi",
+    "context": "thought | Row 2039",
+    "offset": 98200,
+    "length": 50
+  },
+  {
+    "id": 2040,
+    "key": "thought.food.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Bland Food",
+    "target_vi": "Đồ Ăn Nhạt Nhẽo",
+    "context": "thought | Row 2040",
+    "offset": 98264,
+    "length": 11
+  },
+  {
+    "id": 2041,
+    "key": "thought.food.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Expected more sophisticated cooking",
+    "target_vi": "Cứ ngỡ sẽ được thưởng thức món ăn cầu kỳ hơn",
+    "context": "thought | Row 2041",
+    "offset": 98289,
+    "length": 36
+  },
+  {
+    "id": 2042,
+    "key": "thought.food.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Culinary Delight",
+    "target_vi": "Món Ngon Tuyệt Hảo",
+    "context": "thought | Row 2042",
+    "offset": 98339,
+    "length": 17
+  },
+  {
+    "id": 2043,
+    "key": "thought.food.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Rejoicing about unexpectedly high food quality",
+    "target_vi": "Hân hoan vì món ăn ngon vượt ngoài mong đợi",
+    "context": "thought | Row 2043",
+    "offset": 98370,
+    "length": 47
+  },
+  {
+    "id": 2044,
+    "key": "thought.clothing.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Subpar Clothing",
+    "target_vi": "Quần Áo Tồi Tàn",
+    "context": "thought | Row 2044",
+    "offset": 98431,
+    "length": 16
+  },
+  {
+    "id": 2045,
+    "key": "thought.clothing.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unhappy about the clothing quality",
+    "target_vi": "Bất mãn vì chất lượng quần áo quá tệ",
+    "context": "thought | Row 2045",
+    "offset": 98461,
+    "length": 35
+  },
+  {
+    "id": 2046,
+    "key": "thought.clothing.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Stylish Fashion",
+    "target_vi": "Áo Quần Bảnh Bao",
+    "context": "thought | Row 2046",
+    "offset": 98510,
+    "length": 16
+  },
+  {
+    "id": 2047,
+    "key": "thought.clothing.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Elated about clothes beyond expectations",
+    "target_vi": "Phấn khích vì trang phục đẹp đẽ ngoài mong đợi",
+    "context": "thought | Row 2047",
+    "offset": 98540,
+    "length": 41
+  },
+  {
+    "id": 2048,
+    "key": "thought.bathing.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Unsatisfactory Bath",
+    "target_vi": "Tắm Rửa Chẳng Ra Sao",
+    "context": "thought | Row 2048",
+    "offset": 98595,
+    "length": 20
+  },
+  {
+    "id": 2049,
+    "key": "thought.bathing.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Wished for a more comfortable bathing experience",
+    "target_vi": "Ước gì được tắm gội thoải mái hơn một chút",
+    "context": "thought | Row 2049",
+    "offset": 98629,
+    "length": 49
+  },
+  {
+    "id": 2050,
+    "key": "thought.bathing.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Clean and Relaxed",
+    "target_vi": "Sạch Sẽ Sảng Khoái",
+    "context": "thought | Row 2050",
+    "offset": 98692,
+    "length": 18
+  },
+  {
+    "id": 2051,
+    "key": "thought.bathing.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Didn't expect such good hygiene facilities",
+    "target_vi": "Không ngờ khu tắm gội lại tiện nghi đến thế",
+    "context": "thought | Row 2051",
+    "offset": 98724,
+    "length": 43
+  },
+  {
+    "id": 2052,
+    "key": "thought.dining.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Uncomfortable Dinner",
+    "target_vi": "Bữa Ăn Gò Bó",
+    "context": "thought | Row 2052",
+    "offset": 98781,
+    "length": 21
+  },
+  {
+    "id": 2053,
+    "key": "thought.dining.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Dining facilities did not meet expectations",
+    "target_vi": "Chỗ ăn uống không đáp ứng được mong đợi",
+    "context": "thought | Row 2053",
+    "offset": 98816,
+    "length": 44
+  },
+  {
+    "id": 2054,
+    "key": "thought.dining.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Dining in Style",
+    "target_vi": "Thưởng Bữa Sang Trọng",
+    "context": "thought | Row 2054",
+    "offset": 98874,
+    "length": 16
+  },
+  {
+    "id": 2055,
+    "key": "thought.dining.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Felt very good about the dining experience",
+    "target_vi": "Cảm thấy vô cùng hài lòng về trải nghiệm dùng bữa",
+    "context": "thought | Row 2055",
+    "offset": 98904,
+    "length": 43
+  },
+  {
+    "id": 2056,
+    "key": "thought.supplies.disappointed",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Missing Daily Supplies",
+    "target_vi": "Thiếu Hụt Đồ Dùng",
+    "context": "thought | Row 2056",
+    "offset": 98961,
+    "length": 23
+  },
+  {
+    "id": 2057,
+    "key": "thought.supplies.disappointed.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Not satisfied with the received luxury goods",
+    "target_vi": "Thất vọng vì hàng xa xỉ nhận được chẳng thấm tháp vào đâu",
+    "context": "thought | Row 2057",
+    "offset": 98998,
+    "length": 45
+  },
+  {
+    "id": 2058,
+    "key": "thought.supplies.elated",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Lavish Luxury",
+    "target_vi": "Cuộc Sống Sung Túc",
+    "context": "thought | Row 2058",
+    "offset": 99057,
+    "length": 14
+  },
+  {
+    "id": 2059,
+    "key": "thought.supplies.elated.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Enjoyed an excess of delivered luxury goods",
+    "target_vi": "Hưởng thụ hàng xa xỉ dồi dào đầy sung sướng",
+    "context": "thought | Row 2059",
+    "offset": 99085,
+    "length": 44
+  },
+  {
+    "id": 2073,
+    "key": "education.noteacher",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "No Teacher",
+    "target_vi": "Chưa Có Giáo Viên",
+    "context": "education | Row 2073",
+    "offset": 99731,
+    "length": 11
+  },
+  {
+    "id": 2074,
+    "key": "education.assignteacher",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Assign Teacher",
+    "target_vi": "Phân Công Giáo Viên",
+    "context": "education | Row 2074",
+    "offset": 99756,
+    "length": 15
+  },
+  {
+    "id": 2075,
+    "key": "education.reassignteacher",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Reassign Teacher",
+    "target_vi": "Đổi Giáo Viên",
+    "context": "education | Row 2075",
+    "offset": 99785,
+    "length": 17
+  },
+  {
+    "id": 2076,
+    "key": "education.nostudent",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "No Student",
+    "target_vi": "Chưa Có Học Viên",
+    "context": "education | Row 2076",
+    "offset": 99816,
+    "length": 11
+  },
+  {
+    "id": 2077,
+    "key": "education.assignstudent",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Assign Student",
+    "target_vi": "Chỉ Định Học Viên",
+    "context": "education | Row 2077",
+    "offset": 99841,
+    "length": 15
+  },
+  {
+    "id": 2078,
+    "key": "education.reassignstudent",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Reassign Student",
+    "target_vi": "Đổi Học Viên",
+    "context": "education | Row 2078",
+    "offset": 99870,
+    "length": 17
+  },
+  {
+    "id": 2086,
+    "key": "trait.diligent",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Diligent",
+    "target_vi": "Cần Mẫn",
+    "context": "trait | Row 2086",
+    "offset": 100177,
+    "length": 9
+  },
+  {
+    "id": 2087,
+    "key": "trait.diligent.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker works very hard",
+    "target_vi": "Chú chuột này làm việc vô cùng chăm chỉ",
+    "context": "trait | Row 2087",
+    "offset": 100200,
+    "length": 29
+  },
+  {
+    "id": 2088,
+    "key": "trait.perfectionist",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Perfectionist",
+    "target_vi": "Cầu Toàn",
+    "context": "trait | Row 2088",
+    "offset": 100243,
+    "length": 14
+  },
+  {
+    "id": 2089,
+    "key": "trait.perfectionist.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker cares deeply about perfect execution",
+    "target_vi": "Chú chuột này đặc biệt chú trọng sự chuẩn xác tuyệt đối",
+    "context": "trait | Row 2089",
+    "offset": 100271,
+    "length": 50
+  },
+  {
+    "id": 2090,
+    "key": "trait.weak",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Weak",
+    "target_vi": "Yếu Ớt",
+    "context": "trait | Row 2090",
+    "offset": 100335,
+    "length": 5
+  },
+  {
+    "id": 2091,
+    "key": "trait.weak.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker cannot lift very much",
+    "target_vi": "Chú chuột này không khuân vác được nhiều",
+    "context": "trait | Row 2091",
+    "offset": 100354,
+    "length": 35
+  },
+  {
+    "id": 2092,
+    "key": "trait.slow",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Slow",
+    "target_vi": "Chậm Chạp",
+    "context": "trait | Row 2092",
+    "offset": 100403,
+    "length": 5
+  },
+  {
+    "id": 2093,
+    "key": "trait.slow.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker doesn't walk very fast",
+    "target_vi": "Chú chuột này bước đi không được nhanh nhẹn",
+    "context": "trait | Row 2093",
+    "offset": 100422,
+    "length": 36
+  },
+  {
+    "id": 2094,
+    "key": "trait.teacher",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Gifted Teacher",
+    "target_vi": "Có Khiếu Sư Phạm",
+    "context": "trait | Row 2094",
+    "offset": 100472,
+    "length": 15
+  },
+  {
+    "id": 2095,
+    "key": "trait.teacher.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker can teach others more quickly",
+    "target_vi": "Chú chuột này có thể kèm cặp đồng loại nhanh hơn",
+    "context": "trait | Row 2095",
+    "offset": 100501,
+    "length": 43
+  },
+  {
+    "id": 2096,
+    "key": "trait.mypace",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "My Pace",
+    "target_vi": "Ung Dung",
+    "context": "trait | Row 2096",
+    "offset": 100558,
+    "length": 8
+  },
+  {
+    "id": 2097,
+    "key": "trait.mypace.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "This Whisker works at their own pace",
+    "target_vi": "Chú chuột này cứ túc tắc làm theo nhịp độ riêng",
+    "context": "trait | Row 2097",
+    "offset": 100580,
+    "length": 37
+  },
+  {
+    "id": 2098,
+    "key": "trait.compassionate",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Compassionate ",
+    "target_vi": "Giàu Tình Cảm",
+    "context": "trait | Row 2098",
+    "offset": 100631,
+    "length": 15
+  },
+  {
+    "id": 2099,
+    "key": "trait.compassionate.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Does not expect as much for themselves but grows incredibly sad at the death of others",
+    "target_vi": "Không đòi hỏi nhiều cho bản thân, nhưng vô cùng xót xa khi có ai qua đời",
+    "context": "trait | Row 2099",
+    "offset": 100660,
+    "length": 87
+  },
+  {
+    "id": 2100,
+    "key": "trait.thoughtful",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Thoughtful",
+    "target_vi": "Hay Trăn Trở",
+    "context": "trait | Row 2100",
+    "offset": 100761,
+    "length": 11
+  },
+  {
+    "id": 2101,
+    "key": "trait.thoughtful.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Their brain is constantly thinking. More likely to have positive and negative thoughts",
+    "target_vi": "Đầu óc luôn suy nghĩ không ngừng. Dễ nảy sinh cả cảm xúc tích cực lẫn tiêu cực",
+    "context": "trait | Row 2101",
+    "offset": 100786,
+    "length": 87
+  },
+  {
+    "id": 2102,
+    "key": "trait.considerate",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Considerate",
+    "target_vi": "Bao Dung",
+    "context": "trait | Row 2102",
+    "offset": 100887,
+    "length": 12
+  },
+  {
+    "id": 2103,
+    "key": "trait.considerate.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Does not get offended at Rude comments",
+    "target_vi": "Không để bụng những lời lẽ cộc cằn thô lỗ",
+    "context": "trait | Row 2103",
+    "offset": 100913,
+    "length": 39
+  },
+  {
+    "id": 2104,
+    "key": "trait.inquisitive",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Inquisitive",
+    "target_vi": "Ham Học Hỏi",
+    "context": "trait | Row 2104",
+    "offset": 100966,
+    "length": 12
+  },
+  {
+    "id": 2105,
+    "key": "trait.inquisitive.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Always asking questions. Learns faster at school",
+    "target_vi": "Luôn tò mò đặt câu hỏi. Tiếp thu bài học nhanh hơn khi đến trường",
+    "context": "trait | Row 2105",
+    "offset": 100992,
+    "length": 49
+  },
+  {
+    "id": 2106,
+    "key": "trait.weakknees",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Weak Knees",
+    "target_vi": "Chân Yếu Tay Mềm",
+    "context": "trait | Row 2106",
+    "offset": 101055,
+    "length": 11
+  },
+  {
+    "id": 2107,
+    "key": "trait.weakknees.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Strongly dislikes heavy labor and is more likely to get hurt",
+    "target_vi": "Rất sợ lao động nặng và dễ bị chấn thương",
+    "context": "trait | Row 2107",
+    "offset": 101080,
+    "length": 61
+  },
+  {
+    "id": 2108,
+    "key": "trait.nosey",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Nosey",
+    "target_vi": "Tọc Mạch",
+    "context": "trait | Row 2108",
+    "offset": 101155,
+    "length": 6
+  },
+  {
+    "id": 2109,
+    "key": "trait.nosey.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Cares deeply about others yet sometimes asks rude questions",
+    "target_vi": "Quan tâm đến đồng loại nhưng thỉnh thoảng buột miệng hỏi những câu kém duyên",
+    "context": "trait | Row 2109",
+    "offset": 101175,
+    "length": 60
+  },
+  {
+    "id": 2110,
+    "key": "trait.greedy",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Greedy",
+    "target_vi": "Đòi Hỏi Cao",
+    "context": "trait | Row 2110",
+    "offset": 101249,
+    "length": 7
+  },
+  {
+    "id": 2111,
+    "key": "trait.greedy.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Expects more from life",
+    "target_vi": "Luôn mong đợi nhiều hơn từ cuộc sống",
+    "context": "trait | Row 2111",
+    "offset": 101270,
+    "length": 23
+  },
+  {
+    "id": 2112,
+    "key": "trait.patient",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Patient",
+    "target_vi": "Điềm Đạm",
+    "context": "trait | Row 2112",
+    "offset": 101307,
+    "length": 8
+  },
+  {
+    "id": 2113,
+    "key": "trait.patient.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Does not see what all the rushing is about, enjoys smelling the roses and appreciating life",
+    "target_vi": "Chẳng hiểu sao ai nấy cứ phải vội vã, thích thong dong ngắm hoa và tận hưởng cuộc sống",
+    "context": "trait | Row 2113",
+    "offset": 101329,
+    "length": 92
+  },
+  {
+    "id": 2114,
+    "key": "trait.content",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Content",
+    "target_vi": "Biết Đủ",
+    "context": "trait | Row 2114",
+    "offset": 101435,
+    "length": 8
+  },
+  {
+    "id": 2115,
+    "key": "trait.content.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Has learned to be more content with their current circumstances",
+    "target_vi": "Biết hài lòng với hoàn cảnh sống hiện tại",
+    "context": "trait | Row 2115",
+    "offset": 101457,
+    "length": 64
+  },
+  {
+    "id": 2116,
+    "key": "thought.compassionateGrieving",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Heavily Grieving",
+    "target_vi": "Tang Tóc Đau Thương",
+    "context": "thought | Row 2116",
+    "offset": 101535,
+    "length": 17
+  },
+  {
+    "id": 2117,
+    "key": "thought.desc.compassionateGrieving",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Deeply saddened by the recent death of a friend",
+    "target_vi": "Đau xót khôn nguôi trước sự ra đi gần đây của người bạn",
+    "context": "thought | Row 2117",
+    "offset": 101566,
+    "length": 48
+  },
+  {
+    "id": 2119,
+    "key": "education.insufficient",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Does not have the required skills",
+    "target_vi": "Chưa đạt kỹ năng yêu cầu",
+    "context": "education | Row 2119",
+    "offset": 101664,
+    "length": 34
+  },
+  {
+    "id": 2134,
+    "key": "thought.rebellious",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Affront to the King",
+    "target_vi": "Xúc Phạm Đức Vua",
+    "context": "thought | Row 2134",
+    "offset": 102788,
+    "length": 20
+  },
+  {
+    "id": 2135,
+    "key": "thought.rebellious.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Enraged about disloyal comments regarding the monarchy",
+    "target_vi": "Nổi trận lôi đình vì những lời lẽ bất trung phỉ báng hoàng triều",
+    "context": "thought | Row 2135",
+    "offset": 102822,
+    "length": 55
+  },
+  {
+    "id": 2159,
+    "key": "whiskerActivity.terraforming",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Filling in terrain",
+    "target_vi": "Đang san lấp mặt bằng",
+    "context": "whiskerActivity | Row 2159",
+    "offset": 103743,
+    "length": 19
+  },
+  {
+    "id": 2171,
+    "key": "whiskerActivity.adminwork",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Management Work",
+    "target_vi": "Đang xử lý việc hành chính",
+    "context": "whiskerActivity | Row 2171",
+    "offset": 104416,
+    "length": 16
+  },
+  {
+    "id": 2395,
+    "key": "education.sailor",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Sailor",
+    "target_vi": "Thủy Thủ",
+    "context": "education | Row 2395",
+    "offset": 113716,
+    "length": 7
+  },
+  {
+    "id": 2396,
+    "key": "education.sailor.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Trained for basic tasks aboard a ship",
+    "target_vi": "Được huấn luyện các nhiệm vụ cơ bản trên tàu",
+    "context": "education | Row 2396",
+    "offset": 113737,
+    "length": 38
+  },
+  {
+    "id": 2397,
+    "key": "education.officer",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Officer",
+    "target_vi": "Sĩ Quan Hàng Hải",
+    "context": "education | Row 2397",
+    "offset": 113789,
+    "length": 8
+  },
+  {
+    "id": 2398,
+    "key": "education.officer.desc",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Learned in advanced seafaring and navigation",
+    "target_vi": "Tinh thông hàng hải và kỹ nghệ định vị nâng cao",
+    "context": "education | Row 2398",
+    "offset": 113811,
+    "length": 45
+  },
+  {
+    "id": 2399,
+    "key": "education.seafaring",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Seafaring",
+    "target_vi": "Nghề Hàng Hải",
+    "context": "education | Row 2399",
+    "offset": 113870,
+    "length": 10
+  },
+  {
+    "id": 2555,
+    "key": "whiskerActivity.work.standingguard",
+    "category": "04_Mice_Traits_Thoughts",
+    "source_en": "Standing Guard",
+    "target_vi": "Đang đứng gác",
+    "context": "whiskerActivity | Row 2555",
+    "offset": 119380,
+    "length": 15
+  }
+]

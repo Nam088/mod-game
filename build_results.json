@@ -1,10 +1,10 @@
 [
   {
-    "game_key": "Going-Medieval",
-    "name": "Going Medieval",
-    "version": "1.0.2",
-    "zip_name": "Going-Medieval-Vietnamese-Mod-v1.0.2.zip",
-    "zip_path": "/home/runner/work/mod-game/mod-game/Going-Medieval/dist/Going-Medieval-Vietnamese-Mod-v1.0.2.zip",
-    "tag": "gm-v1.0.2"
+    "game_key": "Whiskerwood",
+    "name": "Whiskerwood",
+    "version": "0.1.0",
+    "zip_name": "Whiskerwood-Vietnamese-Mod-v0.1.0.zip",
+    "zip_path": "D:\\code\\mod-game\\Whiskerwood/dist\\Whiskerwood-Vietnamese-Mod-v0.1.0.zip",
+    "tag": "ww-v0.1.0"
   }
 ]

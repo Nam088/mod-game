@@ -113,6 +113,24 @@ GAMES_CONFIG = {
         "dist_dir": "Going-Medieval/dist",
         "mod_package_dir": "Going-Medieval",
         "zip_prefix": "Going-Medieval-Vietnamese-Mod",
+    },
+    "Whiskerwood": {
+        "name": "Whiskerwood",
+        "slug": "whiskerwood",
+        "tag_prefix": "ww",
+        "dir": "Whiskerwood",
+        "version_files": [
+            {
+                "type": "json",
+                "path": "Whiskerwood/version.json",
+                "key": "version",
+                "create_if_missing": True,
+                "default_version": "0.1.0"
+            }
+        ],
+        "dist_dir": "Whiskerwood/dist",
+        "mod_package_dir": "Whiskerwood/dist",
+        "zip_prefix": "Whiskerwood-Vietnamese-Mod",
     }
 }
 
@@ -265,6 +283,68 @@ def build_game_mod(game_key, auto_bump=False, bump_type="patch"):
             if os.path.exists(csv_file):
                 zipf.write(csv_file, "VietnameseLocalization/Data/Localization/Vietnamese.csv")
 
+        zip_size_mb = os.path.getsize(zip_path) / (1024 * 1024)
+        print(f"[✓] Đã tạo thành công: {zip_name} ({zip_size_mb:.2f} MB)")
+        return {
+            "game_key": game_key,
+            "name": cfg["name"],
+            "version": target_ver,
+            "zip_name": zip_name,
+            "zip_path": zip_path,
+            "tag": cfg["tag_prefix"] + "-v" + target_ver
+        }
+
+    if game_key == "Whiskerwood":
+        ww_dir = os.path.join(BASE_DIR, "Whiskerwood")
+        dist_dir = os.path.join(BASE_DIR, cfg["dist_dir"])
+        os.makedirs(dist_dir, exist_ok=True)
+        pak_path = os.path.join(ww_dir, "Whiskerwood-Vietnamese_P.pak")
+
+        # Build pak trực tiếp qua build_and_deploy_mod.py (CI mode: skip local deploy)
+        build_script = os.path.join(ww_dir, "build_and_deploy_mod.py")
+        if os.path.exists(build_script):
+            try:
+                env = os.environ.copy()
+                env["CI"] = "true"
+                subprocess.run([sys.executable, build_script], cwd=ww_dir, check=True, env=env)
+                print("[✓] Đã build pak cho Whiskerwood")
+            except Exception as e:
+                print(f"[!] Cảnh báo build PAK: {e}")
+
+        zip_name = cfg["zip_prefix"] + "-v" + target_ver + ".zip"
+        zip_path = os.path.join(dist_dir, zip_name)
+        if os.path.exists(zip_path): os.remove(zip_path)
+
+        readme_content = f"""WHISKERWOOD - BẢN DỊCH TIẾNG VIỆT (VIETNAMESE MOD)
+Tác giả: Nam088
+Phiên bản: v{target_ver} (Unreal Engine 5)
+Tương thích: Bản quyền Steam, Epic Games, GOG
+
+ĐIỂM NỔI BẬT VỀ FONT CHỮ (BE VIETNAM PRO):
+- Tích hợp 100% họ font BE VIETNAM PRO cao cấp:
+  * Kiểu chữ Geometric Sans-Serif chuẩn quốc tế được thiết kế chuyên biệt cho Tiếng Việt.
+  * Tỉ lệ hình học 1:1 với font Poppins gốc của game, độ thoáng dấu thanh điệu tuyệt đối.
+  * Hiển thị cực kỳ thanh thoát, êm mắt, hiện đại và không bị lỗi ô vuông trên mọi độ phân giải.
+
+HƯỚNG DẪN CÀI ĐẶT:
+1. Sao chép tệp 'Whiskerwood-Vietnamese_P.pak' vào thư mục:
+   [Thư Mục Cài Game]\\Whiskerwood\\Content\\Paks\\~mods\\
+   (Nếu chưa có thư mục '~mods', hãy tạo một thư mục mới có tên là '~mods').
+
+2. Khởi động game Whiskerwood. Toàn bộ giao diện, công trình, chuỗi cung ứng,
+   tâm lý bầy chuột và cốt truyện sẽ tự động hiển thị Tiếng Việt 100%!
+
+Chúc bạn có những giờ phút xây dựng thuộc địa làng chuột thật vui vẻ!
+"""
+
+        print(f"[*] Đóng gói Whiskerwood Mod ZIP vào {zip_path}...")
+        with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
+            if os.path.exists(pak_path):
+                zipf.write(pak_path, "Whiskerwood-Vietnamese_P.pak")
+                print(f"    [+] Whiskerwood-Vietnamese_P.pak ({os.path.getsize(pak_path)//1024} KB)")
+            zipf.writestr("HUONG_DAN_CAI_DAT.txt", readme_content)
+
+        shutil.copy2(zip_path, os.path.join(ww_dir, zip_name))
         zip_size_mb = os.path.getsize(zip_path) / (1024 * 1024)
         print(f"[✓] Đã tạo thành công: {zip_name} ({zip_size_mb:.2f} MB)")
         return {

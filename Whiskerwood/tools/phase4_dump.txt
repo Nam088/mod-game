@@ -1,0 +1,750 @@
+[000] ID:351 | KEY: guild.miners
+EN: Miners Guild
+
+[001] ID:352 | KEY: guild.engineers
+EN: Engineers Guild
+
+[002] ID:353 | KEY: guild.farmers
+EN: Farmers Guild
+
+[003] ID:354 | KEY: guild.explorers
+EN: Explorers Guild
+
+[004] ID:1108 | KEY: thought.food_somevariety
+EN: Moderate Food Variety
+
+[005] ID:1109 | KEY: thought.food_highvariety
+EN: High Food Variety
+
+[006] ID:1110 | KEY: thought.rawFoodComplaint
+EN: Ate Raw Food
+
+[007] ID:1111 | KEY: thought.hunger
+EN: Hungry
+
+[008] ID:1112 | KEY: thought.cold
+EN: Chilled Paws
+
+[009] ID:1113 | KEY: thought.freezing
+EN: Frostbitten
+
+[010] ID:1114 | KEY: thought.newArrival
+EN: Fresh Arrival
+
+[011] ID:1115 | KEY: thought.sleep_tier0
+EN: Poor-Quality Housing
+
+[012] ID:1116 | KEY: thought.sleep_tier1
+EN: Basic Housing
+
+[013] ID:1117 | KEY: thought.sleep_tier2
+EN: Comfortable Housing
+
+[014] ID:1118 | KEY: thought.sleep_tier3
+EN: Luxurious Housing
+
+[015] ID:1119 | KEY: thought.luxury.furniture
+EN: Well-Furnished Home
+
+[016] ID:1120 | KEY: thought.luxury.bedding
+EN: Soft, Cozy Blankets
+
+[017] ID:1121 | KEY: thought.missedBedtime
+EN: Slept Outside
+
+[018] ID:1122 | KEY: thought.sleepwithsnorer
+EN: Poor Sleep
+
+[019] ID:1123 | KEY: thought.eatExperience_ateAtWarehouse
+EN: Ate at a warehouse
+
+[020] ID:1124 | KEY: thought.eatExperience_drankAtWarehouse
+EN: Drank tea at a warehouse
+
+[021] ID:1125 | KEY: thought.eatExperience_ateAtEatery
+EN: Visited a Cafe
+
+[022] ID:1126 | KEY: thought.eatExperience_ateAtHall
+EN: Visited a Dining Hall
+
+[023] ID:1127 | KEY: thought.grieving
+EN: Grieving
+
+[024] ID:1128 | KEY: thought.bathed
+EN: Steamy Bath
+
+[025] ID:1129 | KEY: thought.aesthetic.beauty.tier1
+EN: Pleasant Surroundings
+
+[026] ID:1130 | KEY: thought.aesthetic.beauty.tier2
+EN: Beautiful Surroundings
+
+[027] ID:1131 | KEY: thought.aesthetic.beauty.tier3
+EN: Breathtaking Surroundings
+
+[028] ID:1132 | KEY: thought.statueintimidation
+EN: Intimidating Visage
+
+[029] ID:1133 | KEY: thought.hardlabor
+EN: Hard Labor
+
+[030] ID:1134 | KEY: thought.lightpollution
+EN: Mild Pollution
+
+[031] ID:1135 | KEY: thought.heavypollution
+EN: Nauseating Pollution
+
+[032] ID:1136 | KEY: thought.rudeWhisker
+EN: Rude Encounter
+
+[033] ID:1137 | KEY: thought.overtime
+EN: Worked Late
+
+[034] ID:1138 | KEY: thought.freshclothes
+EN: Clean Clothes
+
+[035] ID:1139 | KEY: thought.desc.food_somevariety
+EN: Ate 2 unique food types today
+
+[036] ID:1140 | KEY: thought.desc.food_highvariety
+EN: Ate 3 unique food types today
+
+[037] ID:1141 | KEY: thought.desc.rawFoodComplaint
+EN: Resorting to eating raw ingredients is insulting to the Farmer's Guild!
+
+[038] ID:1142 | KEY: thought.desc.hunger
+EN: Failed to find food today!
+
+[039] ID:1143 | KEY: thought.desc.cold
+EN: Endured uncomfortably cold conditions
+
+[040] ID:1144 | KEY: thought.desc.freezing
+EN: Suffered dangerously cold conditions
+
+[041] ID:1145 | KEY: thought.desc.newArrival
+EN: This Whisker is new to the colony and has some fresh optimism
+
+[042] ID:1146 | KEY: thought.desc.sleep_tier0
+EN: Slept in what could barely be called a house
+
+[043] ID:1147 | KEY: thought.desc.sleep_tier1
+EN: A good night's rest ends the day well
+
+[044] ID:1148 | KEY: thought.desc.sleep_tier2
+EN: A good night's rest ends the day well
+
+[045] ID:1149 | KEY: thought.desc.sleep_tier3
+EN: A good night's rest ends the day well
+
+[046] ID:1150 | KEY: thought.desc.luxury.furniture
+EN: Home was supplied with furniture
+
+[047] ID:1151 | KEY: thought.desc.luxury.bedding
+EN: Home was supplied with bedding
+
+[048] ID:1152 | KEY: thought.desc.missedBedtime
+EN: Couldn't reach home in time to sleep — or had no home at all
+
+[049] ID:1153 | KEY: thought.desc.sleepwithsnorer
+EN: Slept poorly due to sharing a house with a loud snorer
+
+[050] ID:1154 | KEY: thought.desc.eatExperience_ateAtWarehouse
+EN: Not a dignified way to eat — not even a chair!
+
+[051] ID:1155 | KEY: thought.desc.eatExperience_drankAtWarehouse
+EN: Tea deserves a proper eatery to be enjoyed
+
+[052] ID:1156 | KEY: thought.desc.eatExperience_ateAtEatery
+EN: A comfortable place to relax, eat, or enjoy some tea
+
+[053] ID:1157 | KEY: thought.desc.eatExperience_ateAtHall
+EN: A luxurious venue for a prosperous Whisker
+
+[054] ID:1158 | KEY: thought.desc.grieving
+EN: A friend died recently
+
+[055] ID:1159 | KEY: thought.desc.bathed
+EN: Enjoyed time at a bathhouse
+
+[056] ID:1160 | KEY: thought.desc.aesthetic.beauty.tier1
+EN: Passed by a few gardens and decor
+
+[057] ID:1161 | KEY: thought.desc.aesthetic.beauty.tier2
+EN: Passed by many gardens and decor
+
+[058] ID:1162 | KEY: thought.desc.aesthetic.beauty.tier3
+EN: Passed by endless gardens and decor
+
+[059] ID:1163 | KEY: thought.desc.statueintimidation
+EN: Felt intimidated by a nearby Claws statue
+
+[060] ID:1164 | KEY: thought.desc.hardlabor
+EN: Assigned a gruelling job
+
+[061] ID:1165 | KEY: thought.desc.lightpollution
+EN: Passed through unpleasant levels of pollution
+
+[062] ID:1166 | KEY: thought.desc.heavypollution
+EN: Had trouble breathing due to heavy pollution
+
+[063] ID:1167 | KEY: thought.desc.rudeWhisker
+EN: A passing Whisker grumbled some rather rude things!
+
+[064] ID:1168 | KEY: thought.desc.overtime
+EN: Normal hours, they said...
+
+[065] ID:1169 | KEY: thought.desc.freshclothes
+EN: Picked out a fresh set of clothes today
+
+[066] ID:1397 | KEY: trait.snorer
+EN: Snores
+
+[067] ID:1398 | KEY: trait.snorer.desc
+EN: Annoys other Whiskers sleeping in the same home.
+
+[068] ID:1399 | KEY: trait.lightEater
+EN: Light Eater
+
+[069] ID:1400 | KEY: trait.lightEater.desc
+EN: Eats one less food per meal.
+
+[070] ID:1401 | KEY: trait.loner
+EN: Loner
+
+[071] ID:1402 | KEY: trait.loner.desc
+EN: Unhappy if working or sleeping with others.
+
+[072] ID:1403 | KEY: trait.strongShoulders
+EN: Strong Shoulders
+
+[073] ID:1404 | KEY: trait.strongShoulders.desc
+EN: +2 carry capacity.
+
+[074] ID:1405 | KEY: trait.heavyEater
+EN: Heavy Eater
+
+[075] ID:1406 | KEY: trait.heavyEater.desc
+EN: Eats one more food per meal.
+
+[076] ID:1407 | KEY: trait.swift
+EN: Swift
+
+[077] ID:1408 | KEY: trait.swift.desc
+EN: +15 move speed.
+
+[078] ID:1409 | KEY: trait.optimist
+EN: Optimist
+
+[079] ID:1410 | KEY: trait.optimist.desc
+EN: Chance to double the effect of positive thoughts.
+
+[080] ID:1411 | KEY: trait.pessimist
+EN: Pessimist
+
+[081] ID:1412 | KEY: trait.pessimist.desc
+EN: Chance to double the effect of negative thoughts.
+
+[082] ID:1413 | KEY: trait.sickly
+EN: Sickly
+
+[083] ID:1414 | KEY: trait.sickly.desc
+EN: Less resistant to cold and illness.
+
+[084] ID:1415 | KEY: trait.scientist
+EN: Sneaky
+
+[085] ID:1416 | KEY: trait.scientist.desc
+EN: Work Speed boost when doing research.
+
+[086] ID:1417 | KEY: trait.mascochist
+EN: Masochist
+
+[087] ID:1418 | KEY: trait.mascochist.desc
+EN: Is happy to perform hard labor.
+
+[088] ID:1419 | KEY: trait.healthy
+EN: Healthy
+
+[089] ID:1420 | KEY: trait.healthy.desc
+EN: Highly resistant to illness or injury.
+
+[090] ID:1421 | KEY: trait.warmCore
+EN: Warm Core
+
+[091] ID:1422 | KEY: trait.warmCore.desc
+EN: Extra resistant to cold temperatures.
+
+[092] ID:1423 | KEY: trait.unsafe
+EN: Unsafe worker
+
+[093] ID:1424 | KEY: trait.unsafe.desc
+EN: Wears out industrial machinery faster.
+
+[094] ID:1425 | KEY: trait.rude
+EN: Rude
+
+[095] ID:1426 | KEY: trait.rude.desc
+EN: Chance to make passing Whiskers unhappy.
+
+[096] ID:1427 | KEY: trait.monarchist
+EN: Monarchist
+
+[097] ID:1428 | KEY: trait.monarchist.desc
+EN: Naturally loyal to the Claws.
+
+[098] ID:1429 | KEY: trait.nosmell
+EN: Can't Smell
+
+[099] ID:1430 | KEY: trait.nosmell.desc
+EN: No negative thoughts from pollution.
+
+[100] ID:1431 | KEY: trait.rebellious
+EN: Rebellious
+
+[101] ID:1432 | KEY: trait.rebellious.desc
+EN: More likely to say rebellious things or repeat such rumours
+
+[102] ID:1434 | KEY: guild.miners.desc
+EN: Large Field Whiskers skilled at mining & refining.
+
+[103] ID:1435 | KEY: guild.engineers.desc
+EN: Highly productive industrialists and craftsmen.
+
+[104] ID:1436 | KEY: guild.farmers.desc
+EN: Experts at farming and the culinary arts.
+
+[105] ID:1437 | KEY: guild.explorers.desc
+EN: Curious Wood Whiskers that love the wilds.
+
+[106] ID:1500 | KEY: whiskerActivity.idle
+EN: Idle
+
+[107] ID:1501 | KEY: whiskerActivity.seekFood
+EN: Seeking food
+
+[108] ID:1502 | KEY: whiskerActivity.seekService
+EN: Seeking services
+
+[109] ID:1503 | KEY: whiskerActivity.seekEquipment
+EN: Fetching equipment
+
+[110] ID:1504 | KEY: whiskerActivity.seekResource
+EN: Fetching resources
+
+[111] ID:1505 | KEY: whiskerActivity.deliverOutput
+EN: Delivering outputs
+
+[112] ID:1506 | KEY: whiskerActivity.extract
+EN: Extracting resources
+
+[113] ID:1507 | KEY: whiskerActivity.goWork
+EN: Headed to work
+
+[114] ID:1508 | KEY: whiskerActivity.deliverLuxuries
+EN: Delivering luxuries
+
+[115] ID:1509 | KEY: whiskerActivity.farmHarvest
+EN: Harvesting crops
+
+[116] ID:1510 | KEY: whiskerActivity.farmTill
+EN: Tilling farmland
+
+[117] ID:1511 | KEY: whiskerActivity.farmSow
+EN: Sowing seeds
+
+[118] ID:1512 | KEY: whiskerActivity.farmFertilize
+EN: Fertilizing farmland
+
+[119] ID:1513 | KEY: whiskerActivity.farmTillRocks
+EN: Tilling rocky soil
+
+[120] ID:1514 | KEY: whiskerActivity.farm.idle
+EN: Idle at farm
+
+[121] ID:1515 | KEY: whiskerActivity.constructionSupply
+EN: Supplying construction
+
+[122] ID:1516 | KEY: whiskerActivity.constructingBuilding
+EN: Construction
+
+[123] ID:1517 | KEY: whiskerActivity.seekHeat
+EN: Seeking heat
+
+[124] ID:1518 | KEY: whiskerActivity.eating
+EN: Eating
+
+[125] ID:1519 | KEY: whiskerActivity.work.idle
+EN: Nothing to do
+
+[126] ID:1520 | KEY: whiskerActivity.home
+EN: Sleeping at home
+
+[127] ID:1521 | KEY: whiskerActivity.jobticket.nojobs
+EN: Idle - No requests
+
+[128] ID:1522 | KEY: whiskerActivity.jobticket.fulfilling
+EN: Responding to request
+
+[129] ID:1523 | KEY: whiskerActivity.service.bathing
+EN: Bathing
+
+[130] ID:1524 | KEY: whiskerActivity.service.healing
+EN: Healing
+
+[131] ID:1525 | KEY: whiskerActivity.service.drinking
+EN: Drinking
+
+[132] ID:1526 | KEY: whiskerActivity.logistics.idle
+EN: Nothing to transport
+
+[133] ID:1527 | KEY: whiskerActivity.genericWork
+EN: Working
+
+[134] ID:1528 | KEY: whiskerActivity.genericRelaxing
+EN: Relaxing
+
+[135] ID:1529 | KEY: whiskerActivity.workplace.idle
+EN: Idle at workplace
+
+[136] ID:1530 | KEY: whiskerActivity.replacingMachinery
+EN: Replacing machinery
+
+[137] ID:1531 | KEY: whiskerActivity.replacingCatalyst
+EN: Gathering Catalyst
+
+[138] ID:1764 | KEY: thought.unburiedFriend
+EN: Unburied Friend
+
+[139] ID:1765 | KEY: thought.desc.unburiedFriend
+EN: The lack of burial is troubling...
+
+[140] ID:1893 | KEY: thought.discontentMonarchist
+EN: Discontent Monarchist
+
+[141] ID:1894 | KEY: thought.desc.discontentMonarchist
+EN: Loyal Monarchists greatly dislike working industries
+
+[142] ID:1897 | KEY: guild.favoritefood
+EN: Preferred Food
+
+[143] ID:1898 | KEY: thought.favFood
+EN: Preferred Food
+
+[144] ID:1899 | KEY: thought.desc.favFood
+EN: Whisker ate one of their guild's preferred foods
+
+[145] ID:1900 | KEY: thought.showered
+EN: Cold Shower
+
+[146] ID:1901 | KEY: thought.desc.showered
+EN: Took a cleansing cold shower
+
+[147] ID:1906 | KEY: thought.dirty
+EN: Dirty Fur
+
+[148] ID:1907 | KEY: thought.desc.dirty
+EN: Needs a bath
+
+[149] ID:1910 | KEY: thought.bathedOcean
+EN: Bathed in the ocean
+
+[150] ID:1911 | KEY: thought.desc.bathedOcean
+EN: Smells a bit like seaweed
+
+[151] ID:1912 | KEY: thought.nodecor
+EN: Drab surroundings
+
+[152] ID:1913 | KEY: thought.desc.nodecor
+EN: Whisker hasn't seen a hint of beauty in a while
+
+[153] ID:1916 | KEY: thought.noclothing
+EN: Threadbare clothing
+
+[154] ID:1917 | KEY: thought.desc.noclothing
+EN: Whisker hasn't been able to find a new set of clothes
+
+[155] ID:1942 | KEY: thought.desc.earlysleep
+EN: Got home before the night ended
+
+[156] ID:1943 | KEY: thought.earlysleep
+EN: Early to bed
+
+[157] ID:1962 | KEY: whiskerActivity.doctor.patients
+EN: Tending to patients
+
+[158] ID:1990 | KEY: whiskerActivity.seekClothing
+EN: Seeking Clothing
+
+[159] ID:1992 | KEY: thought.homeless
+EN: No Home
+
+[160] ID:2002 | KEY: thought.personalSpace
+EN: Personal Space
+
+[161] ID:2003 | KEY: thought.desc.personalSpace
+EN: A loner had to share a home with others
+
+[162] ID:2004 | KEY: trait.loner.desc.alt
+EN: Unhappy sharing a home with others
+
+[163] ID:2020 | KEY: education.required
+EN: Required
+
+[164] ID:2021 | KEY: education.schooled
+EN: Schooled
+
+[165] ID:2022 | KEY: education.schooled.desc
+EN: Received schooling in the colony
+
+[166] ID:2023 | KEY: education.target
+EN: Education Target
+
+[167] ID:2024 | KEY: education.skilled
+EN: Apprentice
+
+[168] ID:2025 | KEY: education.skilled.desc
+EN: A partially trained craftsman who knows the basics
+
+[169] ID:2026 | KEY: education.educated
+EN: Educated
+
+[170] ID:2027 | KEY: education.educated.desc
+EN: Learned in literature and mathematics
+
+[171] ID:2028 | KEY: education.craftsmaster
+EN: Craftsmaster
+
+[172] ID:2029 | KEY: education.craftsmaster.desc
+EN: Fully trained and an expert in skilled labor
+
+[173] ID:2030 | KEY: education.craftsman
+EN: Craftsmanship
+
+[174] ID:2031 | KEY: education.scholar
+EN: Scholarly
+
+[175] ID:2032 | KEY: education.teaching
+EN: Teaching
+
+[176] ID:2033 | KEY: education.learning
+EN: Learning
+
+[177] ID:2036 | KEY: thought.housing.disappointed
+EN: Rough and Stuffy
+
+[178] ID:2037 | KEY: thought.housing.disappointed.desc
+EN: Disappointed with low housing quality
+
+[179] ID:2038 | KEY: thought.housing.elated
+EN: Happy Tenant
+
+[180] ID:2039 | KEY: thought.housing.elated.desc
+EN: Excited that housing quality exceeds expectations
+
+[181] ID:2040 | KEY: thought.food.disappointed
+EN: Bland Food
+
+[182] ID:2041 | KEY: thought.food.disappointed.desc
+EN: Expected more sophisticated cooking
+
+[183] ID:2042 | KEY: thought.food.elated
+EN: Culinary Delight
+
+[184] ID:2043 | KEY: thought.food.elated.desc
+EN: Rejoicing about unexpectedly high food quality
+
+[185] ID:2044 | KEY: thought.clothing.disappointed
+EN: Subpar Clothing
+
+[186] ID:2045 | KEY: thought.clothing.disappointed.desc
+EN: Unhappy about the clothing quality
+
+[187] ID:2046 | KEY: thought.clothing.elated
+EN: Stylish Fashion
+
+[188] ID:2047 | KEY: thought.clothing.elated.desc
+EN: Elated about clothes beyond expectations
+
+[189] ID:2048 | KEY: thought.bathing.disappointed
+EN: Unsatisfactory Bath
+
+[190] ID:2049 | KEY: thought.bathing.disappointed.desc
+EN: Wished for a more comfortable bathing experience
+
+[191] ID:2050 | KEY: thought.bathing.elated
+EN: Clean and Relaxed
+
+[192] ID:2051 | KEY: thought.bathing.elated.desc
+EN: Didn't expect such good hygiene facilities
+
+[193] ID:2052 | KEY: thought.dining.disappointed
+EN: Uncomfortable Dinner
+
+[194] ID:2053 | KEY: thought.dining.disappointed.desc
+EN: Dining facilities did not meet expectations
+
+[195] ID:2054 | KEY: thought.dining.elated
+EN: Dining in Style
+
+[196] ID:2055 | KEY: thought.dining.elated.desc
+EN: Felt very good about the dining experience
+
+[197] ID:2056 | KEY: thought.supplies.disappointed
+EN: Missing Daily Supplies
+
+[198] ID:2057 | KEY: thought.supplies.disappointed.desc
+EN: Not satisfied with the received luxury goods
+
+[199] ID:2058 | KEY: thought.supplies.elated
+EN: Lavish Luxury
+
+[200] ID:2059 | KEY: thought.supplies.elated.desc
+EN: Enjoyed an excess of delivered luxury goods
+
+[201] ID:2073 | KEY: education.noteacher
+EN: No Teacher
+
+[202] ID:2074 | KEY: education.assignteacher
+EN: Assign Teacher
+
+[203] ID:2075 | KEY: education.reassignteacher
+EN: Reassign Teacher
+
+[204] ID:2076 | KEY: education.nostudent
+EN: No Student
+
+[205] ID:2077 | KEY: education.assignstudent
+EN: Assign Student
+
+[206] ID:2078 | KEY: education.reassignstudent
+EN: Reassign Student
+
+[207] ID:2086 | KEY: trait.diligent
+EN: Diligent
+
+[208] ID:2087 | KEY: trait.diligent.desc
+EN: This Whisker works very hard
+
+[209] ID:2088 | KEY: trait.perfectionist
+EN: Perfectionist
+
+[210] ID:2089 | KEY: trait.perfectionist.desc
+EN: This Whisker cares deeply about perfect execution
+
+[211] ID:2090 | KEY: trait.weak
+EN: Weak
+
+[212] ID:2091 | KEY: trait.weak.desc
+EN: This Whisker cannot lift very much
+
+[213] ID:2092 | KEY: trait.slow
+EN: Slow
+
+[214] ID:2093 | KEY: trait.slow.desc
+EN: This Whisker doesn't walk very fast
+
+[215] ID:2094 | KEY: trait.teacher
+EN: Gifted Teacher
+
+[216] ID:2095 | KEY: trait.teacher.desc
+EN: This Whisker can teach others more quickly
+
+[217] ID:2096 | KEY: trait.mypace
+EN: My Pace
+
+[218] ID:2097 | KEY: trait.mypace.desc
+EN: This Whisker works at their own pace
+
+[219] ID:2098 | KEY: trait.compassionate
+EN: Compassionate 
+
+[220] ID:2099 | KEY: trait.compassionate.desc
+EN: Does not expect as much for themselves but grows incredibly sad at the death of others
+
+[221] ID:2100 | KEY: trait.thoughtful
+EN: Thoughtful
+
+[222] ID:2101 | KEY: trait.thoughtful.desc
+EN: Their brain is constantly thinking. More likely to have positive and negative thoughts
+
+[223] ID:2102 | KEY: trait.considerate
+EN: Considerate
+
+[224] ID:2103 | KEY: trait.considerate.desc
+EN: Does not get offended at Rude comments
+
+[225] ID:2104 | KEY: trait.inquisitive
+EN: Inquisitive
+
+[226] ID:2105 | KEY: trait.inquisitive.desc
+EN: Always asking questions. Learns faster at school
+
+[227] ID:2106 | KEY: trait.weakknees
+EN: Weak Knees
+
+[228] ID:2107 | KEY: trait.weakknees.desc
+EN: Strongly dislikes heavy labor and is more likely to get hurt
+
+[229] ID:2108 | KEY: trait.nosey
+EN: Nosey
+
+[230] ID:2109 | KEY: trait.nosey.desc
+EN: Cares deeply about others yet sometimes asks rude questions
+
+[231] ID:2110 | KEY: trait.greedy
+EN: Greedy
+
+[232] ID:2111 | KEY: trait.greedy.desc
+EN: Expects more from life
+
+[233] ID:2112 | KEY: trait.patient
+EN: Patient
+
+[234] ID:2113 | KEY: trait.patient.desc
+EN: Does not see what all the rushing is about, enjoys smelling the roses and appreciating life
+
+[235] ID:2114 | KEY: trait.content
+EN: Content
+
+[236] ID:2115 | KEY: trait.content.desc
+EN: Has learned to be more content with their current circumstances
+
+[237] ID:2116 | KEY: thought.compassionateGrieving
+EN: Heavily Grieving
+
+[238] ID:2117 | KEY: thought.desc.compassionateGrieving
+EN: Deeply saddened by the recent death of a friend
+
+[239] ID:2119 | KEY: education.insufficient
+EN: Does not have the required skills
+
+[240] ID:2134 | KEY: thought.rebellious
+EN: Affront to the King
+
+[241] ID:2135 | KEY: thought.rebellious.desc
+EN: Enraged about disloyal comments regarding the monarchy
+
+[242] ID:2159 | KEY: whiskerActivity.terraforming
+EN: Filling in terrain
+
+[243] ID:2171 | KEY: whiskerActivity.adminwork
+EN: Management Work
+
+[244] ID:2395 | KEY: education.sailor
+EN: Sailor
+
+[245] ID:2396 | KEY: education.sailor.desc
+EN: Trained for basic tasks aboard a ship
+
+[246] ID:2397 | KEY: education.officer
+EN: Officer
+
+[247] ID:2398 | KEY: education.officer.desc
+EN: Learned in advanced seafaring and navigation
+
+[248] ID:2399 | KEY: education.seafaring
+EN: Seafaring
+
+[249] ID:2555 | KEY: whiskerActivity.work.standingguard
+EN: Standing Guard
+

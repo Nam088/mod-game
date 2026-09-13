@@ -11,6 +11,7 @@ on:
       - "WorldBox/**"
       - "Manor-Lords/**"
       - "Going-Medieval/**"
+      - "Whiskerwood/**"
       - "!**/dist/**"
       - "!**/*.md"
   workflow_dispatch:
@@ -29,6 +30,7 @@ on:
           - WorldBox
           - Manor-Lords
           - Going-Medieval
+          - Whiskerwood
       bump_version:
         description: "Tự động tăng Version (Patch)?"
         required: true

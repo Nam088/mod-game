@@ -1,0 +1,1022 @@
+[000] ID:204 | KEY: embark.param.winters
+EN: Winters
+
+[001] ID:263 | KEY: worldeffect.pleasantWeather
+EN: Pleasant Weather
+
+[002] ID:264 | KEY: worldeffect.foulbreeze
+EN: Odorous Breeze
+
+[003] ID:265 | KEY: worldeffect.moltingtrees
+EN: Molting Trees
+
+[004] ID:266 | KEY: worldeffect.weather_clear
+EN: Clear Skies
+
+[005] ID:267 | KEY: worldeffect.weather_lightrain
+EN: Light Showers
+
+[006] ID:268 | KEY: worldeffect.weather_heavyrain
+EN: Heavy Rain
+
+[007] ID:269 | KEY: worldeffect.weather_fog
+EN: Light Fog
+
+[008] ID:270 | KEY: worldeffect.weather_lightsnow
+EN: Light Flurries
+
+[009] ID:271 | KEY: worldeffect.weather_heavysnow
+EN: Snowstorm
+
+[010] ID:272 | KEY: worldeffect.warmSeasonEffect
+EN: Warm Season
+
+[011] ID:273 | KEY: worldeffect.coldSeasonEffect
+EN: Cold Season
+
+[012] ID:274 | KEY: worldeffect.unsafeWaters
+EN: Unprotected Waters
+
+[013] ID:275 | KEY: worldeffect.badfoodproduction
+EN: Total Infestation
+
+[014] ID:276 | KEY: worldeffect.easymining
+EN: Mining Advice
+
+[015] ID:277 | KEY: worldeffect.goodwill
+EN: Goodwill
+
+[016] ID:278 | KEY: worldeffect.intimidated
+EN: Intimidating Reminders
+
+[017] ID:279 | KEY: worldeffect.lowSpirits
+EN: Low Spirits
+
+[018] ID:280 | KEY: worldeffect.qualityMachinery
+EN: Machinery Lubricant
+
+[019] ID:281 | KEY: worldeffect.richFuel
+EN: Fuel Additives
+
+[020] ID:290 | KEY: colonyname.1
+EN: Whiskerville
+
+[021] ID:291 | KEY: colonyname.2
+EN: Gnawington
+
+[022] ID:292 | KEY: colonyname.3
+EN: Burrowville
+
+[023] ID:293 | KEY: colonyname.4
+EN: Squeakton
+
+[024] ID:294 | KEY: colonyname.5
+EN: Skitterton
+
+[025] ID:295 | KEY: colonyname.6
+EN: Fuzzborough
+
+[026] ID:296 | KEY: colonyname.7
+EN: Airhaven
+
+[027] ID:297 | KEY: colonyname.8
+EN: Clawston
+
+[028] ID:298 | KEY: colonyname.9
+EN: Sniffwick
+
+[029] ID:299 | KEY: colonyname.10
+EN: Earham
+
+[030] ID:300 | KEY: colonyname.11
+EN: Scurryford
+
+[031] ID:301 | KEY: colonyname.12
+EN: Ogdenville
+
+[032] ID:302 | KEY: colonyname.13
+EN: North Haverbrook
+
+[033] ID:303 | KEY: colonyname.14
+EN: Brockway
+
+[034] ID:304 | KEY: colonyname.15
+EN: Newcork
+
+[035] ID:305 | KEY: colonyname.16
+EN: Overfield
+
+[036] ID:306 | KEY: colonyname.17
+EN: Newfield
+
+[037] ID:307 | KEY: colonyname.18
+EN: Paddyfield
+
+[038] ID:308 | KEY: colonyname.19
+EN: Sparsebrush
+
+[039] ID:309 | KEY: colonyname.20
+EN: Tanbrush
+
+[040] ID:310 | KEY: colonyname.21
+EN: Lushisle
+
+[041] ID:311 | KEY: colonyname.22
+EN: Tangrain
+
+[042] ID:312 | KEY: colonyname.23
+EN: Grainfield
+
+[043] ID:313 | KEY: colonyname.24
+EN: Wheatwillow
+
+[044] ID:314 | KEY: colonyname.25
+EN: Woodport
+
+[045] ID:315 | KEY: colonyname.26
+EN: Sharpcoast
+
+[046] ID:316 | KEY: colonyname.27
+EN: Tanburrow
+
+[047] ID:317 | KEY: colonyname.28
+EN: Deepburrow
+
+[048] ID:318 | KEY: colonyname.29
+EN: Warmburrow
+
+[049] ID:319 | KEY: colonyname.30
+EN: Burrowstore
+
+[050] ID:320 | KEY: colonyname.31
+EN: Burrowhill
+
+[051] ID:321 | KEY: colonyname.32
+EN: Grainhill
+
+[052] ID:322 | KEY: colonyname.33
+EN: Grainisle
+
+[053] ID:323 | KEY: colonyname.34
+EN: Wheatisle
+
+[054] ID:324 | KEY: colonyname.35
+EN: Flaxisle
+
+[055] ID:325 | KEY: colonyname.36
+EN: Bastion
+
+[056] ID:326 | KEY: colonyname.37
+EN: Newfort
+
+[057] ID:327 | KEY: colonyname.38
+EN: Stonewall
+
+[058] ID:328 | KEY: colonyname.39
+EN: Brickfort
+
+[059] ID:329 | KEY: colonyname.40
+EN: Redbrick
+
+[060] ID:330 | KEY: colonyname.41
+EN: Cangrain
+
+[061] ID:331 | KEY: colonyname.42
+EN: Freetown
+
+[062] ID:332 | KEY: colonyname.43
+EN: Warmtown
+
+[063] ID:333 | KEY: colonyname.44
+EN: Rockwall
+
+[064] ID:334 | KEY: colonyname.45
+EN: Seatown
+
+[065] ID:335 | KEY: colonyname.46
+EN: Saltcoast
+
+[066] ID:336 | KEY: colonyname.47
+EN: Newstart
+
+[067] ID:337 | KEY: colonyname.48
+EN: Cliffburrow
+
+[068] ID:338 | KEY: colonyname.49
+EN: Rockcliff
+
+[069] ID:339 | KEY: colonyname.50
+EN: Greycliff
+
+[070] ID:340 | KEY: colonyname.51
+EN: Newhome
+
+[071] ID:341 | KEY: colonyname.52
+EN: Surepromise
+
+[072] ID:342 | KEY: colonyname.53
+EN: Trustfort
+
+[073] ID:343 | KEY: colonyname.54
+EN: Stonewrap
+
+[074] ID:344 | KEY: colonyname.55
+EN: Stonepoint
+
+[075] ID:345 | KEY: colonyname.56
+EN: Endstone
+
+[076] ID:346 | KEY: colonyname.57
+EN: Hilltrust
+
+[077] ID:347 | KEY: colonyname.58
+EN: Trustpoint
+
+[078] ID:348 | KEY: colonyname.59
+EN: Seacroft
+
+[079] ID:349 | KEY: colonyname.0
+EN: Rodentia
+
+[080] ID:369 | KEY: embark.scenariosTitle
+EN: Scenarios
+
+[081] ID:370 | KEY: embark.scenario1
+EN: Monarch Loyalists
+
+[082] ID:371 | KEY: embark.scenario2
+EN: Pirate Seas
+
+[083] ID:372 | KEY: embark.scenario3
+EN: Far Frontier
+
+[084] ID:373 | KEY: embark.presetTitle
+EN: Difficulty Presets
+
+[085] ID:374 | KEY: embark.preset1
+EN: Cozy
+
+[086] ID:375 | KEY: embark.preset2
+EN: Normal
+
+[087] ID:376 | KEY: embark.preset3
+EN: Hard
+
+[088] ID:377 | KEY: embark.param.title
+EN: Setup
+
+[089] ID:378 | KEY: embark.param.mapSize
+EN: Map Size
+
+[090] ID:379 | KEY: embark.param.mainIslandSize
+EN: Main Island Size
+
+[091] ID:380 | KEY: embark.param.extraIslands
+EN: Extra Islands
+
+[092] ID:381 | KEY: embark.param.barrenIslands
+EN: Barren Islands
+
+[093] ID:382 | KEY: embark.param.newArrivals
+EN: Whisker Arrivals
+
+[094] ID:383 | KEY: embark.param.clawGreed
+EN: Claw’s Greed
+
+[095] ID:384 | KEY: embark.param.piratePopulation
+EN: Pirate Population
+
+[096] ID:385 | KEY: embark.param.pirateRaids
+EN: Pirate Raids
+
+[097] ID:386 | KEY: embark.choice.tiny
+EN: Tiny
+
+[098] ID:387 | KEY: embark.choice.normal
+EN: Normal
+
+[099] ID:388 | KEY: embark.choice.giant
+EN: Giant
+
+[100] ID:389 | KEY: embark.choice.small
+EN: Small
+
+[101] ID:390 | KEY: embark.choice.large
+EN: Large
+
+[102] ID:391 | KEY: embark.choice.oversize
+EN: Oversize
+
+[103] ID:392 | KEY: embark.choice.rare
+EN: Rare
+
+[104] ID:393 | KEY: embark.choice.common
+EN: Common
+
+[105] ID:394 | KEY: embark.choice.lots
+EN: Lots
+
+[106] ID:395 | KEY: embark.choice.none
+EN: None
+
+[107] ID:396 | KEY: embark.choice.few
+EN: Few
+
+[108] ID:397 | KEY: embark.choice.occasional
+EN: Occasional
+
+[109] ID:398 | KEY: embark.choice.often
+EN: Often
+
+[110] ID:399 | KEY: embark.choice.kind
+EN: Kind
+
+[111] ID:400 | KEY: embark.choice.fair
+EN: Fair
+
+[112] ID:401 | KEY: embark.choice.survivable
+EN: Survivable
+
+[113] ID:402 | KEY: embark.choice.oppressive
+EN: Oppressive
+
+[114] ID:403 | KEY: embark.choice.many
+EN: Many
+
+[115] ID:404 | KEY: embark.choice.highseas
+EN: High Seas Only
+
+[116] ID:405 | KEY: embark.preset4
+EN: Dire
+
+[117] ID:406 | KEY: embark.param.cropfertility
+EN: Crop Fertility
+
+[118] ID:407 | KEY: embark.param.pollutionpenalties
+EN: Pollution Penalties
+
+[119] ID:408 | KEY: embark.choice.boosted
+EN: Boosted
+
+[120] ID:409 | KEY: embark.choice.natural
+EN: Natural
+
+[121] ID:410 | KEY: embark.choice.reduced
+EN: Reduced
+
+[122] ID:411 | KEY: embark.choice.dangerous
+EN: Dangerous
+
+[123] ID:412 | KEY: embark.action.title
+EN: Embark
+
+[124] ID:413 | KEY: embark.state.title
+EN: Colony
+
+[125] ID:414 | KEY: embark.state.resources
+EN: Starting Resources
+
+[126] ID:415 | KEY: embark.param.colonyName
+EN: Colony Name
+
+[127] ID:416 | KEY: embark.state.crew
+EN: Crew
+
+[128] ID:508 | KEY: embark.scenario
+EN: Scenario
+
+[129] ID:520 | KEY: nautical.cargo
+EN: Cargo
+
+[130] ID:521 | KEY: nautical.highseas
+EN: High Seas
+
+[131] ID:643 | KEY: nautical.decision.inspect.title
+EN: Allow Inspectors to Board?
+
+[132] ID:644 | KEY: nautical.decision.inspect.desc
+EN: Under the authority of the king, you must allow us to board your ship. There have been reports of smuggling in this area.
+
+[133] ID:645 | KEY: nautical.decision.extortion.title
+EN: Pay Ransom?
+
+[134] ID:646 | KEY: nautical.decision.extortion.desc
+EN: Loot, or life? We'll take either, but you might prefer the former.
+
+[135] ID:647 | KEY: nautical.decision.war.title
+EN: Declare War?
+
+[136] ID:648 | KEY: nautical.decision.war.desc
+EN: Attacking their ship will trigger a declaration of war.
+
+[137] ID:649 | KEY: nautical.decision.allow
+EN: Allow
+
+[138] ID:650 | KEY: nautical.decision.pay
+EN: Pay
+
+[139] ID:651 | KEY: nautical.decision.declarewar
+EN: Attack Anyway
+
+[140] ID:652 | KEY: nautical.decision.refuse
+EN: Refuse
+
+[141] ID:701 | KEY: nautical.auto
+EN: AUTO
+
+[142] ID:702 | KEY: nautical.decision.wait.title
+EN: Waiting for Orders
+
+[143] ID:703 | KEY: nautical.decision.wait.desc
+EN: We need new orders! Where to next?
+
+[144] ID:704 | KEY: nautical.manual
+EN: MANUAL
+
+[145] ID:705 | KEY: nautical.task.fishing
+EN: Fishing
+
+[146] ID:706 | KEY: nautical.task.smuggling
+EN: Smuggling
+
+[147] ID:707 | KEY: nautical.task.repairing
+EN: Repairing
+
+[148] ID:708 | KEY: nautical.task.returning
+EN: Returning
+
+[149] ID:709 | KEY: nautical.task.scouting
+EN: Sailing
+
+[150] ID:710 | KEY: nautical.task.mailing
+EN: Mailing
+
+[151] ID:711 | KEY: nautical.task.attacking
+EN: Maneuvering
+
+[152] ID:712 | KEY: nautical.task.countering
+EN: Countering
+
+[153] ID:713 | KEY: nautical.task.fleeing
+EN: Starving!
+
+[154] ID:714 | KEY: nautical.task.salvaging
+EN: Salvaging
+
+[155] ID:731 | KEY: season.Summer
+EN: Summer
+
+[156] ID:732 | KEY: season.Winter
+EN: Winter
+
+[157] ID:854 | KEY: nautical.enemy.claws
+EN: Claws
+
+[158] ID:855 | KEY: nautical.enemy.pirates
+EN: Pirates
+
+[159] ID:856 | KEY: nautical.war.revolution
+EN: Revolution Against the Claws
+
+[160] ID:857 | KEY: nautical.war.piratewave
+EN: Pirate Conflict
+
+[161] ID:858 | KEY: nautical.war.wave
+EN: Wave
+
+[162] ID:859 | KEY: nautical.war.noshipsseen
+EN: No Ships Spotted
+
+[163] ID:860 | KEY: nautical.war.shipsingle
+EN: Ship
+
+[164] ID:861 | KEY: nautical.war.shipplural
+EN: Ships
+
+[165] ID:862 | KEY: nautical.war.incoming
+EN: Incoming
+
+[166] ID:902 | KEY: season.Spring
+EN: Spring
+
+[167] ID:903 | KEY: season.Fall
+EN: Fall
+
+[168] ID:932 | KEY: worldeffect.quest.granarymice
+EN: Granary Pests
+
+[169] ID:935 | KEY: embark.choice.mild
+EN: Mild
+
+[170] ID:948 | KEY: worldeffect.desc.pleasantWeather
+EN: Whiskers occasionally gain positive thoughts when in sunlight
+
+[171] ID:949 | KEY: worldeffect.desc.foulbreeze
+EN: Small chance of sickness near shore
+
+[172] ID:950 | KEY: worldeffect.desc.moltingtrees
+EN: Trees are felled twice as fast
+
+[173] ID:951 | KEY: worldeffect.desc.weather_clear
+EN: Increased crop growth speed
+
+[174] ID:952 | KEY: worldeffect.desc.weather_lightrain
+EN: Exposed water tanks gain water
+
+[175] ID:953 | KEY: worldeffect.desc.weather_heavyrain
+EN: • Slower move speed if soaked
+• Exposed water tanks gain water
+
+[176] ID:954 | KEY: worldeffect.desc.weather_fog
+EN: A sleepy fog rolls over the island. No effect
+
+[177] ID:955 | KEY: worldeffect.desc.weather_lightsnow
+EN: A slight mood dampener
+
+[178] ID:956 | KEY: worldeffect.desc.weather_heavysnow
+EN: Heavy speed penalty on unheated ground
+
+[179] ID:957 | KEY: worldeffect.desc.warmSeasonEffect
+EN: • Crops grow normally
+• Safe temperatures 
+• Ocean has safe passage
+
+[180] ID:958 | KEY: worldeffect.desc.coldSeasonEffect
+EN: • Crops begin rotting
+• Dangerously cold temperatures
+• Ocean passage is unsafe
+
+[181] ID:959 | KEY: worldeffect.desc.badfoodproduction
+EN: 20% chance that food industries produce nothing
+
+[182] ID:960 | KEY: worldeffect.desc.easymining
+EN: Mining is 30% faster
+
+[183] ID:961 | KEY: worldeffect.desc.goodwill
+EN: Policies have a 30% chance to cost no Approval when triggered
+
+[184] ID:962 | KEY: worldeffect.desc.intimidated
+EN: Claw Statues have double the effect on passing Whiskers
+
+[185] ID:963 | KEY: worldeffect.desc.lowSpirits
+EN: Positive thoughts have a 20% chance not to generate Approval
+
+[186] ID:964 | KEY: worldeffect.desc.qualityMachinery
+EN: Industry machinery wears down 50% slower
+
+[187] ID:965 | KEY: worldeffect.desc.richFuel
+EN: Fuel industries have 20% chance to double output
+
+[188] ID:966 | KEY: worldeffect.desc.quest.granarymice
+EN: You are losing 2 stored food per minute
+
+[189] ID:967 | KEY: worldeffect.flavortext.pleasantWeather
+EN: A few days of good weather lifts the spirits
+
+[190] ID:968 | KEY: worldeffect.flavortext.foulbreeze
+EN: A foul smell from the ocean
+
+[191] ID:969 | KEY: worldeffect.flavortext.moltingtrees
+EN: Trees soften their bark
+
+[192] ID:970 | KEY: worldeffect.flavortext.weather_clear
+EN: The sun shines upon you
+
+[193] ID:971 | KEY: worldeffect.flavortext.weather_lightrain
+EN: A sleepy drizzle
+
+[194] ID:972 | KEY: worldeffect.flavortext.weather_heavyrain
+EN: An oppressive downpour
+
+[195] ID:973 | KEY: worldeffect.flavortext.weather_fog
+EN: A dense fog
+
+[196] ID:974 | KEY: worldeffect.flavortext.weather_lightsnow
+EN: A quiet flurry
+
+[197] ID:975 | KEY: worldeffect.flavortext.weather_heavysnow
+EN: Heavy snow accumulation
+
+[198] ID:976 | KEY: worldeffect.flavortext.warmSeasonEffect
+EN: Season of growth, trade, and fair temperatures
+
+[199] ID:977 | KEY: worldeffect.flavortext.coldSeasonEffect
+EN: Season of survival
+
+[200] ID:979 | KEY: worldeffect.flavortext.badfoodproduction
+EN: Pests infest our kitchens!
+
+[201] ID:980 | KEY: worldeffect.flavortext.easymining
+EN: The rock gives more easily
+
+[202] ID:981 | KEY: worldeffect.flavortext.goodwill
+EN: Whiskers are in good spirits
+
+[203] ID:982 | KEY: worldeffect.flavortext.intimidated
+EN: You can feel their eyes on your back
+
+[204] ID:983 | KEY: worldeffect.flavortext.lowSpirits
+EN: A sour mood afflicts the population
+
+[205] ID:984 | KEY: worldeffect.flavortext.qualityMachinery
+EN: A fine example of engineering
+
+[206] ID:985 | KEY: worldeffect.flavortext.richFuel
+EN: Coal and wood burn brightly
+
+[207] ID:986 | KEY: worldeffect.flavortext.quest.granarymice
+EN: Hey, that's mine!
+
+[208] ID:1024 | KEY: season.Next
+EN: Next Season
+
+[209] ID:1325 | KEY: dockedship.whiskers.flavor
+EN: Your Whiskers are eager to set paws on land.
+
+[210] ID:1326 | KEY: dockedship.pirates.header
+EN: The Pirates demand Supplies!
+
+[211] ID:1327 | KEY: dockedship.pirates.hint
+EN: Load the ship with resources to appease the pirates.
+
+[212] ID:1328 | KEY: dockedship.pirates.retaliationwarning
+EN: Pirates will retaliate!
+
+[213] ID:1329 | KEY: dockedship.pirates.satisfied
+EN: Pirates are satisfied.
+
+[214] ID:1330 | KEY: dockedship.pirates.threat
+EN: Threat of <0> cannonballs
+
+[215] ID:1331 | KEY: dockedship.startingSupplies.header
+EN: Your starting supplies have arrived.
+
+[216] ID:1332 | KEY: dockedship.supplier.header
+EN: Choose a supply crate
+
+[217] ID:1333 | KEY: dockedship.supplier.debtwarning
+EN: New debts
+
+[218] ID:1334 | KEY: dockedship.supplier.debtwarning.tooltip
+EN: You will owe this much additional debt on the next tax collection.
+
+[219] ID:1335 | KEY: dockedship.action.unloadShipment
+EN: Unload Shipment
+
+[220] ID:1336 | KEY: dockedship.action.rejectShipment
+EN: Reject Shipment
+
+[221] ID:1343 | KEY: dockedship.whiskers.flavorquote
+EN: Let us hope this place is better...
+
+[222] ID:1344 | KEY: dockedship.whiskers.shipname
+EN: Whisker Ship
+
+[223] ID:1345 | KEY: dockedship.pirates.flavorquote
+EN: It will be a shame if we can't come to an agreement...
+
+[224] ID:1346 | KEY: dockedship.pirates.shipname
+EN: Pirate Blockade
+
+[225] ID:1347 | KEY: dockedship.supplier.flavorquote
+EN: The magnanimous Claws offer you supplies.
+
+[226] ID:1348 | KEY: dockedship.supplier.shipname
+EN: Supply Ship
+
+[227] ID:1349 | KEY: dockedship.departingTimer
+EN: Departs in:
+
+[228] ID:1350 | KEY: dockedship.tax.flavorquote
+EN: Let us see what you have for us today...
+
+[229] ID:1351 | KEY: dockedship.tax.shipname
+EN: Tax Collector
+
+[230] ID:1352 | KEY: dockedship.none
+EN: No ship currently docked.
+
+[231] ID:1829 | KEY: embark.scenario1.desc
+EN: The Claws will send mostly loyal Monarchist Whiskers. Monarchist Whiskers require less approval to accept and are more happy despite harsh conditions but refuse to smuggle or fight. They believe factories are an affront to the King's generosity.
+
+[232] ID:1830 | KEY: embark.scenario2.desc
+EN: This part of the ocean is teeming with Pirates. Their ransom demands are greedier but smuggled cargo fetches higher prices. Tax ships are less frequent.
+
+[233] ID:1831 | KEY: embark.scenario3.desc
+EN: Fewer Monarchist Whiskers are sent this far into the frontier. Tax ships arrive on a normal pace but fewer islands are interested in smuggled cargo.
+
+[234] ID:1840 | KEY: nautical.decision.found.title
+EN: New Island Found!
+
+[235] ID:1841 | KEY: nautical.decision.found.whisker
+EN: We've discovered a new island with Whiskers living here! They'll give us fair prices for our goods.
+
+[236] ID:1842 | KEY: nautical.decision.found.pirate
+EN: A Pirate Island. Stay clear else our ships will come under attack. Until we build enough cannons and ships we best avoid this island. 
+
+[237] ID:1843 | KEY: nautical.decision.found.claw
+EN: Claws control this island.
+
+[238] ID:1844 | KEY: nautical.decision.found.empty
+EN: Sadly no one lives on this island. At least there are no pirates.
+
+[239] ID:1869 | KEY: dockedship.supplier.winterfee
+EN: Increased winter surcharge!
+
+[240] ID:1886 | KEY: worldeffect.quest.taxIncrease
+EN: Voluntary Tax Hike
+
+[241] ID:1887 | KEY: worldeffect.desc.quest.taxIncrease
+EN: Increased amount of tax due for the next tax ship
+
+[242] ID:2000 | KEY: nautical.task.idling
+EN: Stopped
+
+[243] ID:2001 | KEY: nautical.cancel
+EN: Cancel
+
+[244] ID:2012 | KEY: embark.param.whiskerFickleness
+EN: Whiskers' Fickleness
+
+[245] ID:2013 | KEY: embark.param.researchCost
+EN: Research Cost
+
+[246] ID:2014 | KEY: embark.choice.low
+EN: Low
+
+[247] ID:2015 | KEY: embark.choice.high
+EN: High
+
+[248] ID:2016 | KEY: embark.choice.veryhigh
+EN: Very High
+
+[249] ID:2060 | KEY: dockedship.smugglertrader.shipname
+EN: Smuggler
+
+[250] ID:2061 | KEY: dockedship.smugglertrader.flavorquote
+EN: Perhaps we can help each other out
+
+[251] ID:2080 | KEY: embark.param.resources
+EN: Ores and Fertility
+
+[252] ID:2081 | KEY: embark.choice.poor
+EN: Poor
+
+[253] ID:2123 | KEY: embark.scenario3.descV2
+EN: Fewer Monarchist Whiskers are sent this far into the frontier. Tax ships arrive on a normal pace but distance means smugglers demand more for gold bars.
+
+[254] ID:2124 | KEY: embark.scenario1.descV2
+EN: The Claws will send mostly loyal Monarchist Whiskers. Monarchist Whiskers require less Approval to accept and are more happy despite harsh conditions but are offended at rebellious remarks. They believe factories are an affront to the King's generosity.
+
+[255] ID:2313 | KEY: nautical.task.trade
+EN: Trade
+
+[256] ID:2314 | KEY: nautical.task.repair
+EN: Repair
+
+[257] ID:2315 | KEY: nautical.task.gonefishing
+EN: Sailing to Fishing Grounds
+
+[258] ID:2316 | KEY: nautical.foundisland.action
+EN: Acknowledge
+
+[259] ID:2317 | KEY: nautical.flag.discovery
+EN: DISCOVERY
+
+[260] ID:2318 | KEY: nautical.flag.danger
+EN: DANGER
+
+[261] ID:2319 | KEY: nautical.flag.question
+EN: QUESTION
+
+[262] ID:2320 | KEY: nautical.flag.request
+EN: REQUEST
+
+[263] ID:2321 | KEY: nautical.diplo.starttrade
+EN: Offer Trade
+
+[264] ID:2322 | KEY: nautical.diplo.requestrepair
+EN: Request Repair
+
+[265] ID:2323 | KEY: nautical.diplo.declarewar
+EN: Declare War
+
+[266] ID:2324 | KEY: nautical.diplo.demandransom
+EN: Demand Ransom
+
+[267] ID:2325 | KEY: nautical.diplo.sellschematics
+EN: Sell Schematics
+
+[268] ID:2326 | KEY: nautical.diplo.title
+EN: DIPLOMACY
+
+[269] ID:2328 | KEY: nautical.status
+EN: Status
+
+[270] ID:2329 | KEY: nautical.relationship
+EN: Relationship
+
+[271] ID:2330 | KEY: nautical.rel.hostile
+EN: Hostile
+
+[272] ID:2331 | KEY: nautical.rel.despised
+EN: Despised
+
+[273] ID:2332 | KEY: nautical.rel.troubled
+EN: Troubled
+
+[274] ID:2333 | KEY: nautical.rel.cordial
+EN: Cordial
+
+[275] ID:2334 | KEY: nautical.rel.friendly
+EN: Friendly
+
+[276] ID:2335 | KEY: nautical.rel.beloved
+EN: Beloved
+
+[277] ID:2336 | KEY: nautical.rel.allied
+EN: Allied
+
+[278] ID:2337 | KEY: nautical.trade.title
+EN: TRADE
+
+[279] ID:2338 | KEY: nautical.trade.all
+EN: All
+
+[280] ID:2339 | KEY: nautical.trade.buy
+EN: Buy
+
+[281] ID:2340 | KEY: nautical.trade.sell
+EN: Sell
+
+[282] ID:2341 | KEY: nautical.trade.shipLacksGold
+EN: Ship has no Goldbars to offer
+
+[283] ID:2342 | KEY: nautical.trade.shipFull
+EN: Ship is full
+
+[284] ID:2343 | KEY: nautical.trade.delaytrade
+EN: Delay Trading
+
+[285] ID:2344 | KEY: nautical.trade.finalize
+EN: Finish & Return to Home Dock
+
+[286] ID:2347 | KEY: nautical.task.docked
+EN: Docked
+
+[287] ID:2352 | KEY: nautical.action.attack
+EN: Attack Pirates
+
+[288] ID:2353 | KEY: nautical.action.fish
+EN: Catch Fish
+
+[289] ID:2354 | KEY: nautical.action.flee
+EN: Force to Dock
+
+[290] ID:2355 | KEY: nautical.action.mail
+EN: Deliver Mail
+
+[291] ID:2356 | KEY: nautical.action.repair
+EN: Repair Damage
+
+[292] ID:2357 | KEY: nautical.action.return
+EN: Return to Home Dock
+
+[293] ID:2358 | KEY: nautical.action.salvage
+EN: Salvage
+
+[294] ID:2359 | KEY: nautical.action.scout
+EN: Sail to Here
+
+[295] ID:2360 | KEY: nautical.action.smuggle
+EN: Smuggle
+
+[296] ID:2361 | KEY: nautical.action.trade
+EN: Trade
+
+[297] ID:2362 | KEY: nautical.action.starttrade
+EN: View Trade Offers
+
+[298] ID:2363 | KEY: nautical.action.rescue
+EN: Rescue Survivors
+
+[299] ID:2364 | KEY: nautical.action.hunting
+EN: Leviathan Hunting
+
+[300] ID:2365 | KEY: nautical.action.dock
+EN: Dock
+
+[301] ID:2366 | KEY: nautical.action.idle
+EN: Stop & Wait
+
+[302] ID:2367 | KEY: nautical.action.harvestguano
+EN: Harvest Guano
+
+[303] ID:2368 | KEY: nautical.action.escortship
+EN: Escort Ship
+
+[304] ID:2369 | KEY: nautical.action.bombardtower
+EN: Bombard Tower
+
+[305] ID:2370 | KEY: nautical.task.docking
+EN: Docked
+
+[306] ID:2371 | KEY: nautical.task.trading
+EN: Trading
+
+[307] ID:2372 | KEY: nautical.task.harvestguano
+EN: Harvesting Guano
+
+[308] ID:2373 | KEY: nautical.task.escortship
+EN: Escorting
+
+[309] ID:2374 | KEY: nautical.task.bombardtower
+EN: Bombarding
+
+[310] ID:2375 | KEY: nautical.flee.desc
+EN: Crew has turned to home because supplies are insufficient for a continued voyage. They will not listen to any commands.
+
+[311] ID:2376 | KEY: nautical.docked.desc
+EN: Ship is docked and cannot be commanded until it sets sail.
+
+[312] ID:2377 | KEY: nautical.task.Ferry
+EN: Ferry Whiskers
+
+[313] ID:2378 | KEY: nautical.localferry.desc
+EN: Ship is assigned to a local ferry route and cannot be commanded directly.
+
+[314] ID:2387 | KEY: nautical.supportedTasks
+EN: Supported Actions
+
+[315] ID:2519 | KEY: nautical.keyhint.selectShips
+EN: Select Ships
+
+[316] ID:2520 | KEY: nautical.keyhint.unselectShips
+EN: Clear Selection
+
+[317] ID:2521 | KEY: nautical.keyhint.issueOrder
+EN: Issue Command
+
+[318] ID:2584 | KEY: nautical.found.title.whisker
+EN: Whisker Colony Discovered!
+
+[319] ID:2585 | KEY: nautical.found.title.claw
+EN: Claw Island Discovered!
+
+[320] ID:2586 | KEY: nautical.found.title.pirate
+EN: Pirate Island Discovered!
+
+[321] ID:2587 | KEY: nautical.found.title.empty
+EN: An empty island found!
+
+[322] ID:2615 | KEY: ship.viewOnMap
+EN: View on map
+
+[323] ID:2616 | KEY: ship.assign
+EN: Assign to a dock
+
+[324] ID:2617 | KEY: ship.reassign
+EN: Reassign to new dock
+
+[325] ID:2623 | KEY: worldeffect.pirateProtection
+EN: Pirate protection
+
+[326] ID:2624 | KEY: worldeffect.desc.pirateProtection
+EN: Pirates will not send raids while you have protection
+
+[327] ID:2688 | KEY: ship.stormie
+EN: Stormie's stolen ship
+
+[328] ID:2727 | KEY: nautical.task.taxcollection
+EN: Collecting Taxes
+
+[329] ID:2728 | KEY: nautical.task.supplyrun
+EN: Running Supply
+
+[330] ID:2729 | KEY: nautical.task.smuggle
+EN: Smuggling
+
+[331] ID:2730 | KEY: nautical.task.labortransport
+EN: Transporting Whiskers
+
+[332] ID:2731 | KEY: nautical.task.extortion
+EN: Extorting
+
+[333] ID:2732 | KEY: nautical.action.taxcollection
+EN: Tax Collection
+
+[334] ID:2733 | KEY: nautical.action.supplyrun
+EN: Supply Run
+
+[335] ID:2734 | KEY: nautical.action.labortransport
+EN: Transport Whiskers
+
+[336] ID:2735 | KEY: nautical.action.extortion
+EN: Extort
+
+[337] ID:2736 | KEY: nautical.task.salvage
+EN: Salvaging
+
+[338] ID:2750 | KEY: ferrydock.hint
+EN: Ships assigned to Ferry Docks cannot be manually controlled
+

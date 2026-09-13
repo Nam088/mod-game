@@ -1,0 +1,3392 @@
+[
+  {
+    "id": 204,
+    "key": "embark.param.winters",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Winters",
+    "target_vi": "Mùa Đông",
+    "context": "embark | Row 204",
+    "offset": 6346,
+    "length": 8
+  },
+  {
+    "id": 263,
+    "key": "worldeffect.pleasantWeather",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pleasant Weather",
+    "target_vi": "Khí Trời Dễ Chịu",
+    "context": "worldeffect | Row 263",
+    "offset": 8112,
+    "length": 17
+  },
+  {
+    "id": 264,
+    "key": "worldeffect.foulbreeze",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Odorous Breeze",
+    "target_vi": "Gió Biển Tanh Nồng",
+    "context": "worldeffect | Row 264",
+    "offset": 8143,
+    "length": 15
+  },
+  {
+    "id": 265,
+    "key": "worldeffect.moltingtrees",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Molting Trees",
+    "target_vi": "Mùa Cây Thay Vỏ",
+    "context": "worldeffect | Row 265",
+    "offset": 8172,
+    "length": 14
+  },
+  {
+    "id": 266,
+    "key": "worldeffect.weather_clear",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Clear Skies",
+    "target_vi": "Trời Quang Mây Tạnh",
+    "context": "worldeffect | Row 266",
+    "offset": 8200,
+    "length": 12
+  },
+  {
+    "id": 267,
+    "key": "worldeffect.weather_lightrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Light Showers",
+    "target_vi": "Mưa Rào Nhẹ",
+    "context": "worldeffect | Row 267",
+    "offset": 8226,
+    "length": 14
+  },
+  {
+    "id": 268,
+    "key": "worldeffect.weather_heavyrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Heavy Rain",
+    "target_vi": "Mưa Tầm Tã",
+    "context": "worldeffect | Row 268",
+    "offset": 8254,
+    "length": 11
+  },
+  {
+    "id": 269,
+    "key": "worldeffect.weather_fog",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Light Fog",
+    "target_vi": "Sương Mù Nhẹ",
+    "context": "worldeffect | Row 269",
+    "offset": 8279,
+    "length": 10
+  },
+  {
+    "id": 270,
+    "key": "worldeffect.weather_lightsnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Light Flurries",
+    "target_vi": "Tuyết Rơi Lất Phất",
+    "context": "worldeffect | Row 270",
+    "offset": 8303,
+    "length": 15
+  },
+  {
+    "id": 271,
+    "key": "worldeffect.weather_heavysnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Snowstorm",
+    "target_vi": "Bão Tuyết",
+    "context": "worldeffect | Row 271",
+    "offset": 8332,
+    "length": 10
+  },
+  {
+    "id": 272,
+    "key": "worldeffect.warmSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Warm Season",
+    "target_vi": "Mùa Ấm Áp",
+    "context": "worldeffect | Row 272",
+    "offset": 8356,
+    "length": 12
+  },
+  {
+    "id": 273,
+    "key": "worldeffect.coldSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cold Season",
+    "target_vi": "Mùa Băng Giá",
+    "context": "worldeffect | Row 273",
+    "offset": 8382,
+    "length": 12
+  },
+  {
+    "id": 274,
+    "key": "worldeffect.unsafeWaters",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Unprotected Waters",
+    "target_vi": "Vùng Biển Mất An Ninh",
+    "context": "worldeffect | Row 274",
+    "offset": 8408,
+    "length": 19
+  },
+  {
+    "id": 275,
+    "key": "worldeffect.badfoodproduction",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Total Infestation",
+    "target_vi": "Đại Dịch Sâu Bọ",
+    "context": "worldeffect | Row 275",
+    "offset": 8441,
+    "length": 18
+  },
+  {
+    "id": 276,
+    "key": "worldeffect.easymining",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Mining Advice",
+    "target_vi": "Bí Quyết Đào Mỏ",
+    "context": "worldeffect | Row 276",
+    "offset": 8473,
+    "length": 14
+  },
+  {
+    "id": 277,
+    "key": "worldeffect.goodwill",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Goodwill",
+    "target_vi": "Thiện Chí",
+    "context": "worldeffect | Row 277",
+    "offset": 8501,
+    "length": 9
+  },
+  {
+    "id": 278,
+    "key": "worldeffect.intimidated",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Intimidating Reminders",
+    "target_vi": "Thị Uy Nghiêm Ngặt",
+    "context": "worldeffect | Row 278",
+    "offset": 8524,
+    "length": 23
+  },
+  {
+    "id": 279,
+    "key": "worldeffect.lowSpirits",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Low Spirits",
+    "target_vi": "Tinh Thần Sa Sút",
+    "context": "worldeffect | Row 279",
+    "offset": 8561,
+    "length": 12
+  },
+  {
+    "id": 280,
+    "key": "worldeffect.qualityMachinery",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Machinery Lubricant",
+    "target_vi": "Dầu Bôi Trơn Cơ Khí",
+    "context": "worldeffect | Row 280",
+    "offset": 8587,
+    "length": 20
+  },
+  {
+    "id": 281,
+    "key": "worldeffect.richFuel",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fuel Additives",
+    "target_vi": "Phụ Gia Nhiên Liệu",
+    "context": "worldeffect | Row 281",
+    "offset": 8621,
+    "length": 15
+  },
+  {
+    "id": 290,
+    "key": "colonyname.1",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whiskerville",
+    "target_vi": "Làng Whiskerville",
+    "context": "colonyname | Row 290",
+    "offset": 8862,
+    "length": 13
+  },
+  {
+    "id": 291,
+    "key": "colonyname.2",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Gnawington",
+    "target_vi": "Trấn Gnawington",
+    "context": "colonyname | Row 291",
+    "offset": 8889,
+    "length": 11
+  },
+  {
+    "id": 292,
+    "key": "colonyname.3",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Burrowville",
+    "target_vi": "Hang Trú Burrowville",
+    "context": "colonyname | Row 292",
+    "offset": 8914,
+    "length": 12
+  },
+  {
+    "id": 293,
+    "key": "colonyname.4",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Squeakton",
+    "target_vi": "Trấn Squeakton",
+    "context": "colonyname | Row 293",
+    "offset": 8940,
+    "length": 10
+  },
+  {
+    "id": 294,
+    "key": "colonyname.5",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Skitterton",
+    "target_vi": "Trấn Skitterton",
+    "context": "colonyname | Row 294",
+    "offset": 8964,
+    "length": 11
+  },
+  {
+    "id": 295,
+    "key": "colonyname.6",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fuzzborough",
+    "target_vi": "Thị Trấn Fuzzborough",
+    "context": "colonyname | Row 295",
+    "offset": 8989,
+    "length": 12
+  },
+  {
+    "id": 296,
+    "key": "colonyname.7",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Airhaven",
+    "target_vi": "Cảng Gió Airhaven",
+    "context": "colonyname | Row 296",
+    "offset": 9015,
+    "length": 9
+  },
+  {
+    "id": 297,
+    "key": "colonyname.8",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Clawston",
+    "target_vi": "Trấn Clawston",
+    "context": "colonyname | Row 297",
+    "offset": 9038,
+    "length": 9
+  },
+  {
+    "id": 298,
+    "key": "colonyname.9",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sniffwick",
+    "target_vi": "Ấp Sniffwick",
+    "context": "colonyname | Row 298",
+    "offset": 9061,
+    "length": 10
+  },
+  {
+    "id": 299,
+    "key": "colonyname.10",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Earham",
+    "target_vi": "Thôn Earham",
+    "context": "colonyname | Row 299",
+    "offset": 9085,
+    "length": 7
+  },
+  {
+    "id": 300,
+    "key": "colonyname.11",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Scurryford",
+    "target_vi": "Bến Nước Scurryford",
+    "context": "colonyname | Row 300",
+    "offset": 9106,
+    "length": 11
+  },
+  {
+    "id": 301,
+    "key": "colonyname.12",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ogdenville",
+    "target_vi": "Trấn Ogdenville",
+    "context": "colonyname | Row 301",
+    "offset": 9131,
+    "length": 11
+  },
+  {
+    "id": 302,
+    "key": "colonyname.13",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "North Haverbrook",
+    "target_vi": "Vùng North Haverbrook",
+    "context": "colonyname | Row 302",
+    "offset": 9156,
+    "length": 17
+  },
+  {
+    "id": 303,
+    "key": "colonyname.14",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Brockway",
+    "target_vi": "Trấn Brockway",
+    "context": "colonyname | Row 303",
+    "offset": 9187,
+    "length": 9
+  },
+  {
+    "id": 304,
+    "key": "colonyname.15",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Newcork",
+    "target_vi": "Đảo Nút Bần Newcork",
+    "context": "colonyname | Row 304",
+    "offset": 9210,
+    "length": 8
+  },
+  {
+    "id": 305,
+    "key": "colonyname.16",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Overfield",
+    "target_vi": "Đồng Rộng Overfield",
+    "context": "colonyname | Row 305",
+    "offset": 9232,
+    "length": 10
+  },
+  {
+    "id": 306,
+    "key": "colonyname.17",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Newfield",
+    "target_vi": "Cánh Đồng Mới",
+    "context": "colonyname | Row 306",
+    "offset": 9256,
+    "length": 9
+  },
+  {
+    "id": 307,
+    "key": "colonyname.18",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Paddyfield",
+    "target_vi": "Thửa Ruộng Paddyfield",
+    "context": "colonyname | Row 307",
+    "offset": 9279,
+    "length": 11
+  },
+  {
+    "id": 308,
+    "key": "colonyname.19",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sparsebrush",
+    "target_vi": "Bụi Thưa Sparsebrush",
+    "context": "colonyname | Row 308",
+    "offset": 9304,
+    "length": 12
+  },
+  {
+    "id": 309,
+    "key": "colonyname.20",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tanbrush",
+    "target_vi": "Bụi Vàng Tanbrush",
+    "context": "colonyname | Row 309",
+    "offset": 9330,
+    "length": 9
+  },
+  {
+    "id": 310,
+    "key": "colonyname.21",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Lushisle",
+    "target_vi": "Đảo Xanh Lushisle",
+    "context": "colonyname | Row 310",
+    "offset": 9353,
+    "length": 9
+  },
+  {
+    "id": 311,
+    "key": "colonyname.22",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tangrain",
+    "target_vi": "Đồng Lúa Vàng Tangrain",
+    "context": "colonyname | Row 311",
+    "offset": 9376,
+    "length": 9
+  },
+  {
+    "id": 312,
+    "key": "colonyname.23",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Grainfield",
+    "target_vi": "Cánh Đồng Ngũ Cốc",
+    "context": "colonyname | Row 312",
+    "offset": 9399,
+    "length": 11
+  },
+  {
+    "id": 313,
+    "key": "colonyname.24",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Wheatwillow",
+    "target_vi": "Rặng Liễu Lúa Mì",
+    "context": "colonyname | Row 313",
+    "offset": 9424,
+    "length": 12
+  },
+  {
+    "id": 314,
+    "key": "colonyname.25",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Woodport",
+    "target_vi": "Cảng Gỗ Woodport",
+    "context": "colonyname | Row 314",
+    "offset": 9450,
+    "length": 9
+  },
+  {
+    "id": 315,
+    "key": "colonyname.26",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sharpcoast",
+    "target_vi": "Bờ Đá Nhọn",
+    "context": "colonyname | Row 315",
+    "offset": 9473,
+    "length": 11
+  },
+  {
+    "id": 316,
+    "key": "colonyname.27",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tanburrow",
+    "target_vi": "Hang Đất Vàng",
+    "context": "colonyname | Row 316",
+    "offset": 9498,
+    "length": 10
+  },
+  {
+    "id": 317,
+    "key": "colonyname.28",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Deepburrow",
+    "target_vi": "Hang Chuột Sâu",
+    "context": "colonyname | Row 317",
+    "offset": 9522,
+    "length": 11
+  },
+  {
+    "id": 318,
+    "key": "colonyname.29",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Warmburrow",
+    "target_vi": "Hang Chuột Ấm",
+    "context": "colonyname | Row 318",
+    "offset": 9547,
+    "length": 11
+  },
+  {
+    "id": 319,
+    "key": "colonyname.30",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Burrowstore",
+    "target_vi": "Kho Hang Chuột",
+    "context": "colonyname | Row 319",
+    "offset": 9572,
+    "length": 12
+  },
+  {
+    "id": 320,
+    "key": "colonyname.31",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Burrowhill",
+    "target_vi": "Đồi Hang Chuột",
+    "context": "colonyname | Row 320",
+    "offset": 9598,
+    "length": 11
+  },
+  {
+    "id": 321,
+    "key": "colonyname.32",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Grainhill",
+    "target_vi": "Đồi Ngũ Cốc",
+    "context": "colonyname | Row 321",
+    "offset": 9623,
+    "length": 10
+  },
+  {
+    "id": 322,
+    "key": "colonyname.33",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Grainisle",
+    "target_vi": "Đảo Ngũ Cốc",
+    "context": "colonyname | Row 322",
+    "offset": 9647,
+    "length": 10
+  },
+  {
+    "id": 323,
+    "key": "colonyname.34",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Wheatisle",
+    "target_vi": "Đảo Lúa Mì",
+    "context": "colonyname | Row 323",
+    "offset": 9671,
+    "length": 10
+  },
+  {
+    "id": 324,
+    "key": "colonyname.35",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Flaxisle",
+    "target_vi": "Đảo Cây Lanh",
+    "context": "colonyname | Row 324",
+    "offset": 9695,
+    "length": 9
+  },
+  {
+    "id": 325,
+    "key": "colonyname.36",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Bastion",
+    "target_vi": "Pháo Lũy Bastion",
+    "context": "colonyname | Row 325",
+    "offset": 9718,
+    "length": 8
+  },
+  {
+    "id": 326,
+    "key": "colonyname.37",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Newfort",
+    "target_vi": "Pháo Đài Mới",
+    "context": "colonyname | Row 326",
+    "offset": 9740,
+    "length": 8
+  },
+  {
+    "id": 327,
+    "key": "colonyname.38",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stonewall",
+    "target_vi": "Trấn Lũy Đá",
+    "context": "colonyname | Row 327",
+    "offset": 9762,
+    "length": 10
+  },
+  {
+    "id": 328,
+    "key": "colonyname.39",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Brickfort",
+    "target_vi": "Thành Gạch Brickfort",
+    "context": "colonyname | Row 328",
+    "offset": 9786,
+    "length": 10
+  },
+  {
+    "id": 329,
+    "key": "colonyname.40",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Redbrick",
+    "target_vi": "Thành Gạch Đỏ",
+    "context": "colonyname | Row 329",
+    "offset": 9810,
+    "length": 9
+  },
+  {
+    "id": 330,
+    "key": "colonyname.41",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cangrain",
+    "target_vi": "Vựa Thóc Cangrain",
+    "context": "colonyname | Row 330",
+    "offset": 9833,
+    "length": 9
+  },
+  {
+    "id": 331,
+    "key": "colonyname.42",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Freetown",
+    "target_vi": "Thị Trấn Tự Do",
+    "context": "colonyname | Row 331",
+    "offset": 9856,
+    "length": 9
+  },
+  {
+    "id": 332,
+    "key": "colonyname.43",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Warmtown",
+    "target_vi": "Thị Trấn Nắng Ấm",
+    "context": "colonyname | Row 332",
+    "offset": 9879,
+    "length": 9
+  },
+  {
+    "id": 333,
+    "key": "colonyname.44",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Rockwall",
+    "target_vi": "Trấn Vách Đá",
+    "context": "colonyname | Row 333",
+    "offset": 9902,
+    "length": 9
+  },
+  {
+    "id": 334,
+    "key": "colonyname.45",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Seatown",
+    "target_vi": "Thị Trấn Ven Biển",
+    "context": "colonyname | Row 334",
+    "offset": 9925,
+    "length": 8
+  },
+  {
+    "id": 335,
+    "key": "colonyname.46",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Saltcoast",
+    "target_vi": "Bờ Biển Muối Mỏ",
+    "context": "colonyname | Row 335",
+    "offset": 9947,
+    "length": 10
+  },
+  {
+    "id": 336,
+    "key": "colonyname.47",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Newstart",
+    "target_vi": "Khởi Đầu Mới",
+    "context": "colonyname | Row 336",
+    "offset": 9971,
+    "length": 9
+  },
+  {
+    "id": 337,
+    "key": "colonyname.48",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cliffburrow",
+    "target_vi": "Hang Vách Đá",
+    "context": "colonyname | Row 337",
+    "offset": 9994,
+    "length": 12
+  },
+  {
+    "id": 338,
+    "key": "colonyname.49",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Rockcliff",
+    "target_vi": "Mỏm Đá Dốc",
+    "context": "colonyname | Row 338",
+    "offset": 10020,
+    "length": 10
+  },
+  {
+    "id": 339,
+    "key": "colonyname.50",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Greycliff",
+    "target_vi": "Vách Đá Xám",
+    "context": "colonyname | Row 339",
+    "offset": 10044,
+    "length": 10
+  },
+  {
+    "id": 340,
+    "key": "colonyname.51",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Newhome",
+    "target_vi": "Mái Ấm Mới",
+    "context": "colonyname | Row 340",
+    "offset": 10068,
+    "length": 8
+  },
+  {
+    "id": 341,
+    "key": "colonyname.52",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Surepromise",
+    "target_vi": "Bến Lời Hứa",
+    "context": "colonyname | Row 341",
+    "offset": 10090,
+    "length": 12
+  },
+  {
+    "id": 342,
+    "key": "colonyname.53",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trustfort",
+    "target_vi": "Thành Trì Kiên Định",
+    "context": "colonyname | Row 342",
+    "offset": 10116,
+    "length": 10
+  },
+  {
+    "id": 343,
+    "key": "colonyname.54",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stonewrap",
+    "target_vi": "Vòng Đá Stonewrap",
+    "context": "colonyname | Row 343",
+    "offset": 10140,
+    "length": 10
+  },
+  {
+    "id": 344,
+    "key": "colonyname.55",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stonepoint",
+    "target_vi": "Mũi Đá Stonepoint",
+    "context": "colonyname | Row 344",
+    "offset": 10164,
+    "length": 11
+  },
+  {
+    "id": 345,
+    "key": "colonyname.56",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Endstone",
+    "target_vi": "Mỏm Đá Tận Cùng",
+    "context": "colonyname | Row 345",
+    "offset": 10189,
+    "length": 9
+  },
+  {
+    "id": 346,
+    "key": "colonyname.57",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Hilltrust",
+    "target_vi": "Đồi Niềm Tin",
+    "context": "colonyname | Row 346",
+    "offset": 10212,
+    "length": 10
+  },
+  {
+    "id": 347,
+    "key": "colonyname.58",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trustpoint",
+    "target_vi": "Mũi Đất Vọng Ước",
+    "context": "colonyname | Row 347",
+    "offset": 10236,
+    "length": 11
+  },
+  {
+    "id": 348,
+    "key": "colonyname.59",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Seacroft",
+    "target_vi": "Nông Trang Ven Biển",
+    "context": "colonyname | Row 348",
+    "offset": 10261,
+    "length": 9
+  },
+  {
+    "id": 349,
+    "key": "colonyname.0",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Rodentia",
+    "target_vi": "Xứ Chuột Rodentia",
+    "context": "colonyname | Row 349",
+    "offset": 10284,
+    "length": 9
+  },
+  {
+    "id": 369,
+    "key": "embark.scenariosTitle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Scenarios",
+    "target_vi": "Kịch Bản",
+    "context": "embark | Row 369",
+    "offset": 10914,
+    "length": 10
+  },
+  {
+    "id": 370,
+    "key": "embark.scenario1",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Monarch Loyalists",
+    "target_vi": "Tín Đồ Bảo Hoàng",
+    "context": "embark | Row 370",
+    "offset": 10938,
+    "length": 18
+  },
+  {
+    "id": 371,
+    "key": "embark.scenario2",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Seas",
+    "target_vi": "Vùng Biển Hải Tặc",
+    "context": "embark | Row 371",
+    "offset": 10970,
+    "length": 12
+  },
+  {
+    "id": 372,
+    "key": "embark.scenario3",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Far Frontier",
+    "target_vi": "Biên Viễn Xa Xôi",
+    "context": "embark | Row 372",
+    "offset": 10996,
+    "length": 13
+  },
+  {
+    "id": 373,
+    "key": "embark.presetTitle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Difficulty Presets",
+    "target_vi": "Mức Độ Khó",
+    "context": "embark | Row 373",
+    "offset": 11023,
+    "length": 19
+  },
+  {
+    "id": 374,
+    "key": "embark.preset1",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cozy",
+    "target_vi": "Thư Thái",
+    "context": "embark | Row 374",
+    "offset": 11056,
+    "length": 5
+  },
+  {
+    "id": 375,
+    "key": "embark.preset2",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Normal",
+    "target_vi": "Tiêu Chuẩn",
+    "context": "embark | Row 375",
+    "offset": 11075,
+    "length": 7
+  },
+  {
+    "id": 376,
+    "key": "embark.preset3",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Hard",
+    "target_vi": "Thử Thách",
+    "context": "embark | Row 376",
+    "offset": 11096,
+    "length": 5
+  },
+  {
+    "id": 377,
+    "key": "embark.param.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Setup",
+    "target_vi": "Thiết Lập Bản Đồ",
+    "context": "embark | Row 377",
+    "offset": 11115,
+    "length": 6
+  },
+  {
+    "id": 378,
+    "key": "embark.param.mapSize",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Map Size",
+    "target_vi": "Kích Thước Bản Đồ",
+    "context": "embark | Row 378",
+    "offset": 11135,
+    "length": 9
+  },
+  {
+    "id": 379,
+    "key": "embark.param.mainIslandSize",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Main Island Size",
+    "target_vi": "Kích Thước Đảo Chính",
+    "context": "embark | Row 379",
+    "offset": 11158,
+    "length": 17
+  },
+  {
+    "id": 380,
+    "key": "embark.param.extraIslands",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Extra Islands",
+    "target_vi": "Số Đảo Phụ",
+    "context": "embark | Row 380",
+    "offset": 11189,
+    "length": 14
+  },
+  {
+    "id": 381,
+    "key": "embark.param.barrenIslands",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Barren Islands",
+    "target_vi": "Đảo Cằn Cỗi",
+    "context": "embark | Row 381",
+    "offset": 11217,
+    "length": 15
+  },
+  {
+    "id": 382,
+    "key": "embark.param.newArrivals",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whisker Arrivals",
+    "target_vi": "Chuột Tới Định Cư",
+    "context": "embark | Row 382",
+    "offset": 11246,
+    "length": 17
+  },
+  {
+    "id": 383,
+    "key": "embark.param.clawGreed",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Claw’s Greed",
+    "target_vi": "Lòng Tham Loài Mèo",
+    "context": "embark | Row 383",
+    "offset": 11277,
+    "length": 13
+  },
+  {
+    "id": 384,
+    "key": "embark.param.piratePopulation",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Population",
+    "target_vi": "Mật Độ Hải Tặc",
+    "context": "embark | Row 384",
+    "offset": 11317,
+    "length": 18
+  },
+  {
+    "id": 385,
+    "key": "embark.param.pirateRaids",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Raids",
+    "target_vi": "Tần Suất Đột Kích",
+    "context": "embark | Row 385",
+    "offset": 11349,
+    "length": 13
+  },
+  {
+    "id": 386,
+    "key": "embark.choice.tiny",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tiny",
+    "target_vi": "Tí Hon",
+    "context": "embark | Row 386",
+    "offset": 11376,
+    "length": 5
+  },
+  {
+    "id": 387,
+    "key": "embark.choice.normal",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Normal",
+    "target_vi": "Bình Thường",
+    "context": "embark | Row 387",
+    "offset": 11395,
+    "length": 7
+  },
+  {
+    "id": 388,
+    "key": "embark.choice.giant",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Giant",
+    "target_vi": "Khổng Lồ",
+    "context": "embark | Row 388",
+    "offset": 11416,
+    "length": 6
+  },
+  {
+    "id": 389,
+    "key": "embark.choice.small",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Small",
+    "target_vi": "Nhỏ",
+    "context": "embark | Row 389",
+    "offset": 11436,
+    "length": 6
+  },
+  {
+    "id": 390,
+    "key": "embark.choice.large",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Large",
+    "target_vi": "Lớn",
+    "context": "embark | Row 390",
+    "offset": 11456,
+    "length": 6
+  },
+  {
+    "id": 391,
+    "key": "embark.choice.oversize",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Oversize",
+    "target_vi": "Siêu Lớn",
+    "context": "embark | Row 391",
+    "offset": 11476,
+    "length": 9
+  },
+  {
+    "id": 392,
+    "key": "embark.choice.rare",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Rare",
+    "target_vi": "Hiếm",
+    "context": "embark | Row 392",
+    "offset": 11499,
+    "length": 5
+  },
+  {
+    "id": 393,
+    "key": "embark.choice.common",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Common",
+    "target_vi": "Phổ Biến",
+    "context": "embark | Row 393",
+    "offset": 11518,
+    "length": 7
+  },
+  {
+    "id": 394,
+    "key": "embark.choice.lots",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Lots",
+    "target_vi": "Nhiều",
+    "context": "embark | Row 394",
+    "offset": 11539,
+    "length": 5
+  },
+  {
+    "id": 395,
+    "key": "embark.choice.none",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "None",
+    "target_vi": "Không Có",
+    "context": "embark | Row 395",
+    "offset": 11558,
+    "length": 5
+  },
+  {
+    "id": 396,
+    "key": "embark.choice.few",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Few",
+    "target_vi": "Ít",
+    "context": "embark | Row 396",
+    "offset": 11577,
+    "length": 4
+  },
+  {
+    "id": 397,
+    "key": "embark.choice.occasional",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Occasional",
+    "target_vi": "Thỉnh Thoảng",
+    "context": "embark | Row 397",
+    "offset": 11595,
+    "length": 11
+  },
+  {
+    "id": 398,
+    "key": "embark.choice.often",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Often",
+    "target_vi": "Thường Xuyên",
+    "context": "embark | Row 398",
+    "offset": 11620,
+    "length": 6
+  },
+  {
+    "id": 399,
+    "key": "embark.choice.kind",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Kind",
+    "target_vi": "Nhân Từ",
+    "context": "embark | Row 399",
+    "offset": 11640,
+    "length": 5
+  },
+  {
+    "id": 400,
+    "key": "embark.choice.fair",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fair",
+    "target_vi": "Công Bằng",
+    "context": "embark | Row 400",
+    "offset": 11659,
+    "length": 5
+  },
+  {
+    "id": 401,
+    "key": "embark.choice.survivable",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Survivable",
+    "target_vi": "Chống Chọi Được",
+    "context": "embark | Row 401",
+    "offset": 11678,
+    "length": 11
+  },
+  {
+    "id": 402,
+    "key": "embark.choice.oppressive",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Oppressive",
+    "target_vi": "Bóc Lột Khắc Nghiệt",
+    "context": "embark | Row 402",
+    "offset": 11703,
+    "length": 11
+  },
+  {
+    "id": 403,
+    "key": "embark.choice.many",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Many",
+    "target_vi": "Rất Nhiều",
+    "context": "embark | Row 403",
+    "offset": 11728,
+    "length": 5
+  },
+  {
+    "id": 404,
+    "key": "embark.choice.highseas",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "High Seas Only",
+    "target_vi": "Chỉ Biển Sâu",
+    "context": "embark | Row 404",
+    "offset": 11747,
+    "length": 15
+  },
+  {
+    "id": 405,
+    "key": "embark.preset4",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Dire",
+    "target_vi": "Khốc Liệt",
+    "context": "embark | Row 405",
+    "offset": 11776,
+    "length": 5
+  },
+  {
+    "id": 406,
+    "key": "embark.param.cropfertility",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Crop Fertility",
+    "target_vi": "Độ Phì Nhiêu Đất Trồng",
+    "context": "embark | Row 406",
+    "offset": 11795,
+    "length": 15
+  },
+  {
+    "id": 407,
+    "key": "embark.param.pollutionpenalties",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pollution Penalties",
+    "target_vi": "Hình Phạt Ô Nhiễm",
+    "context": "embark | Row 407",
+    "offset": 11824,
+    "length": 20
+  },
+  {
+    "id": 408,
+    "key": "embark.choice.boosted",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Boosted",
+    "target_vi": "Dồi Dào",
+    "context": "embark | Row 408",
+    "offset": 11858,
+    "length": 8
+  },
+  {
+    "id": 409,
+    "key": "embark.choice.natural",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Natural",
+    "target_vi": "Tự Nhiên",
+    "context": "embark | Row 409",
+    "offset": 11880,
+    "length": 8
+  },
+  {
+    "id": 410,
+    "key": "embark.choice.reduced",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Reduced",
+    "target_vi": "Hạn Chế",
+    "context": "embark | Row 410",
+    "offset": 11902,
+    "length": 8
+  },
+  {
+    "id": 411,
+    "key": "embark.choice.dangerous",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Dangerous",
+    "target_vi": "Nguy Cấp",
+    "context": "embark | Row 411",
+    "offset": 11924,
+    "length": 10
+  },
+  {
+    "id": 412,
+    "key": "embark.action.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Embark",
+    "target_vi": "Khởi Hành Ra Khơi",
+    "context": "embark | Row 412",
+    "offset": 11948,
+    "length": 7
+  },
+  {
+    "id": 413,
+    "key": "embark.state.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Colony",
+    "target_vi": "Thuộc Địa",
+    "context": "embark | Row 413",
+    "offset": 11969,
+    "length": 7
+  },
+  {
+    "id": 414,
+    "key": "embark.state.resources",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Starting Resources",
+    "target_vi": "Tài Nguyên Ban Đầu",
+    "context": "embark | Row 414",
+    "offset": 11990,
+    "length": 19
+  },
+  {
+    "id": 415,
+    "key": "embark.param.colonyName",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Colony Name",
+    "target_vi": "Tên Thuộc Địa",
+    "context": "embark | Row 415",
+    "offset": 12023,
+    "length": 12
+  },
+  {
+    "id": 416,
+    "key": "embark.state.crew",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Crew",
+    "target_vi": "Thủy Thủ Đoàn",
+    "context": "embark | Row 416",
+    "offset": 12049,
+    "length": 5
+  },
+  {
+    "id": 508,
+    "key": "embark.scenario",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Scenario",
+    "target_vi": "Kịch Bản",
+    "context": "embark | Row 508",
+    "offset": 17330,
+    "length": 9
+  },
+  {
+    "id": 520,
+    "key": "nautical.cargo",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cargo",
+    "target_vi": "Hàng Hóa",
+    "context": "nautical | Row 520",
+    "offset": 17755,
+    "length": 6
+  },
+  {
+    "id": 521,
+    "key": "nautical.highseas",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "High Seas",
+    "target_vi": "Biển Khơi",
+    "context": "nautical | Row 521",
+    "offset": 17775,
+    "length": 10
+  },
+  {
+    "id": 643,
+    "key": "nautical.decision.inspect.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Allow Inspectors to Board?",
+    "target_vi": "Cho Quan Kiểm Tra Lên Tàu?",
+    "context": "nautical | Row 643",
+    "offset": 23601,
+    "length": 27
+  },
+  {
+    "id": 644,
+    "key": "nautical.decision.inspect.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Under the authority of the king, you must allow us to board your ship. There have been reports of smuggling in this area.",
+    "target_vi": "Chiếu theo lệnh của Đức Vua, các ngươi phải cho phép chúng ta khám tàu. Đang có tin báo về hoạt động buôn lậu ở vùng biển này.",
+    "context": "nautical | Row 644",
+    "offset": 23642,
+    "length": 122
+  },
+  {
+    "id": 645,
+    "key": "nautical.decision.extortion.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pay Ransom?",
+    "target_vi": "Nộp Tiền Chuộc?",
+    "context": "nautical | Row 645",
+    "offset": 23778,
+    "length": 12
+  },
+  {
+    "id": 646,
+    "key": "nautical.decision.extortion.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Loot, or life? We'll take either, but you might prefer the former.",
+    "target_vi": "Tiền hay mạng? Lấy cái nào bọn ta cũng thích, nhưng tốt hơn là ngươi nên chọn nộp tiền.",
+    "context": "nautical | Row 646",
+    "offset": 23804,
+    "length": 67
+  },
+  {
+    "id": 647,
+    "key": "nautical.decision.war.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Declare War?",
+    "target_vi": "Tuyên Chiến?",
+    "context": "nautical | Row 647",
+    "offset": 23885,
+    "length": 13
+  },
+  {
+    "id": 648,
+    "key": "nautical.decision.war.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Attacking their ship will trigger a declaration of war.",
+    "target_vi": "Tấn công tàu của chúng sẽ châm ngòi cho một cuộc chiến toàn diện.",
+    "context": "nautical | Row 648",
+    "offset": 23912,
+    "length": 56
+  },
+  {
+    "id": 649,
+    "key": "nautical.decision.allow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Allow",
+    "target_vi": "Cho Khám Tàu",
+    "context": "nautical | Row 649",
+    "offset": 23982,
+    "length": 6
+  },
+  {
+    "id": 650,
+    "key": "nautical.decision.pay",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pay",
+    "target_vi": "Nộp Tiền Chuộc",
+    "context": "nautical | Row 650",
+    "offset": 24002,
+    "length": 4
+  },
+  {
+    "id": 651,
+    "key": "nautical.decision.declarewar",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Attack Anyway",
+    "target_vi": "Cứ Tấn Công",
+    "context": "nautical | Row 651",
+    "offset": 24020,
+    "length": 14
+  },
+  {
+    "id": 652,
+    "key": "nautical.decision.refuse",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Refuse",
+    "target_vi": "Từ Chối",
+    "context": "nautical | Row 652",
+    "offset": 24048,
+    "length": 7
+  },
+  {
+    "id": 701,
+    "key": "nautical.auto",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "AUTO",
+    "target_vi": "TỰ ĐỘNG",
+    "context": "nautical | Row 701",
+    "offset": 26255,
+    "length": 5
+  },
+  {
+    "id": 702,
+    "key": "nautical.decision.wait.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Waiting for Orders",
+    "target_vi": "Đang Chờ Mệnh Lệnh",
+    "context": "nautical | Row 702",
+    "offset": 26274,
+    "length": 19
+  },
+  {
+    "id": 703,
+    "key": "nautical.decision.wait.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "We need new orders! Where to next?",
+    "target_vi": "Chúng tôi cần lệnh mới! Điểm đến tiếp theo ở đâu?",
+    "context": "nautical | Row 703",
+    "offset": 26307,
+    "length": 35
+  },
+  {
+    "id": 704,
+    "key": "nautical.manual",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "MANUAL",
+    "target_vi": "THỦ CÔNG",
+    "context": "nautical | Row 704",
+    "offset": 26356,
+    "length": 7
+  },
+  {
+    "id": 705,
+    "key": "nautical.task.fishing",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fishing",
+    "target_vi": "Đang đánh bắt cá",
+    "context": "nautical | Row 705",
+    "offset": 26377,
+    "length": 8
+  },
+  {
+    "id": 706,
+    "key": "nautical.task.smuggling",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Smuggling",
+    "target_vi": "Đang buôn lậu",
+    "context": "nautical | Row 706",
+    "offset": 26399,
+    "length": 10
+  },
+  {
+    "id": 707,
+    "key": "nautical.task.repairing",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Repairing",
+    "target_vi": "Đang sửa chữa",
+    "context": "nautical | Row 707",
+    "offset": 26423,
+    "length": 10
+  },
+  {
+    "id": 708,
+    "key": "nautical.task.returning",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Returning",
+    "target_vi": "Đang quay về bến",
+    "context": "nautical | Row 708",
+    "offset": 26447,
+    "length": 10
+  },
+  {
+    "id": 709,
+    "key": "nautical.task.scouting",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sailing",
+    "target_vi": "Đang giương buồm",
+    "context": "nautical | Row 709",
+    "offset": 26471,
+    "length": 8
+  },
+  {
+    "id": 710,
+    "key": "nautical.task.mailing",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Mailing",
+    "target_vi": "Đang chuyển thư",
+    "context": "nautical | Row 710",
+    "offset": 26493,
+    "length": 8
+  },
+  {
+    "id": 711,
+    "key": "nautical.task.attacking",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Maneuvering",
+    "target_vi": "Đang cơ động tác chiến",
+    "context": "nautical | Row 711",
+    "offset": 26515,
+    "length": 12
+  },
+  {
+    "id": 712,
+    "key": "nautical.task.countering",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Countering",
+    "target_vi": "Đang phản công",
+    "context": "nautical | Row 712",
+    "offset": 26541,
+    "length": 11
+  },
+  {
+    "id": 713,
+    "key": "nautical.task.fleeing",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Starving!",
+    "target_vi": "Đang đói lả!",
+    "context": "nautical | Row 713",
+    "offset": 26566,
+    "length": 10
+  },
+  {
+    "id": 714,
+    "key": "nautical.task.salvaging",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Salvaging",
+    "target_vi": "Đang trục vớt",
+    "context": "nautical | Row 714",
+    "offset": 26590,
+    "length": 10
+  },
+  {
+    "id": 731,
+    "key": "season.Summer",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Summer",
+    "target_vi": "Mùa Hạ",
+    "context": "season | Row 731",
+    "offset": 27219,
+    "length": 7
+  },
+  {
+    "id": 732,
+    "key": "season.Winter",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Winter",
+    "target_vi": "Mùa Đông",
+    "context": "season | Row 732",
+    "offset": 27240,
+    "length": 7
+  },
+  {
+    "id": 854,
+    "key": "nautical.enemy.claws",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Claws",
+    "target_vi": "Phe Móng Vuốt",
+    "context": "nautical | Row 854",
+    "offset": 34071,
+    "length": 6
+  },
+  {
+    "id": 855,
+    "key": "nautical.enemy.pirates",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirates",
+    "target_vi": "Hải Tặc",
+    "context": "nautical | Row 855",
+    "offset": 34091,
+    "length": 8
+  },
+  {
+    "id": 856,
+    "key": "nautical.war.revolution",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Revolution Against the Claws",
+    "target_vi": "Khởi Nghĩa Chống Phe Móng Vuốt",
+    "context": "nautical | Row 856",
+    "offset": 34113,
+    "length": 29
+  },
+  {
+    "id": 857,
+    "key": "nautical.war.piratewave",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Conflict",
+    "target_vi": "Xung Đột Với Hải Tặc",
+    "context": "nautical | Row 857",
+    "offset": 34156,
+    "length": 16
+  },
+  {
+    "id": 858,
+    "key": "nautical.war.wave",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Wave",
+    "target_vi": "Đợt Tấn Công",
+    "context": "nautical | Row 858",
+    "offset": 34186,
+    "length": 5
+  },
+  {
+    "id": 859,
+    "key": "nautical.war.noshipsseen",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "No Ships Spotted",
+    "target_vi": "Chưa Thấy Tàu Địch",
+    "context": "nautical | Row 859",
+    "offset": 34205,
+    "length": 17
+  },
+  {
+    "id": 860,
+    "key": "nautical.war.shipsingle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ship",
+    "target_vi": "Tàu",
+    "context": "nautical | Row 860",
+    "offset": 34236,
+    "length": 5
+  },
+  {
+    "id": 861,
+    "key": "nautical.war.shipplural",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ships",
+    "target_vi": "Tàu",
+    "context": "nautical | Row 861",
+    "offset": 34255,
+    "length": 6
+  },
+  {
+    "id": 862,
+    "key": "nautical.war.incoming",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Incoming",
+    "target_vi": "Đang Tiếp Cận",
+    "context": "nautical | Row 862",
+    "offset": 34275,
+    "length": 9
+  },
+  {
+    "id": 902,
+    "key": "season.Spring",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Spring",
+    "target_vi": "Mùa Xuân",
+    "context": "season | Row 902",
+    "offset": 36621,
+    "length": 7
+  },
+  {
+    "id": 903,
+    "key": "season.Fall",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fall",
+    "target_vi": "Mùa Thu",
+    "context": "season | Row 903",
+    "offset": 36642,
+    "length": 5
+  },
+  {
+    "id": 932,
+    "key": "worldeffect.quest.granarymice",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Granary Pests",
+    "target_vi": "Sâu Mọt Kho Lương",
+    "context": "worldeffect | Row 932",
+    "offset": 37759,
+    "length": 14
+  },
+  {
+    "id": 935,
+    "key": "embark.choice.mild",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Mild",
+    "target_vi": "Ôn Hòa",
+    "context": "embark | Row 935",
+    "offset": 38536,
+    "length": 5
+  },
+  {
+    "id": 948,
+    "key": "worldeffect.desc.pleasantWeather",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whiskers occasionally gain positive thoughts when in sunlight",
+    "target_vi": "Bà con chuột thỉnh thoảng nảy sinh cảm xúc tích cực khi ở dưới ánh nắng",
+    "context": "worldeffect | Row 948",
+    "offset": 39202,
+    "length": 62
+  },
+  {
+    "id": 949,
+    "key": "worldeffect.desc.foulbreeze",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Small chance of sickness near shore",
+    "target_vi": "Tỉ lệ nhỏ mắc bệnh khi ở gần bờ biển",
+    "context": "worldeffect | Row 949",
+    "offset": 39278,
+    "length": 36
+  },
+  {
+    "id": 950,
+    "key": "worldeffect.desc.moltingtrees",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trees are felled twice as fast",
+    "target_vi": "Tốc độ đốn hạ cây tăng gấp đôi",
+    "context": "worldeffect | Row 950",
+    "offset": 39328,
+    "length": 31
+  },
+  {
+    "id": 951,
+    "key": "worldeffect.desc.weather_clear",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Increased crop growth speed",
+    "target_vi": "Tăng tốc độ phát triển của cây trồng",
+    "context": "worldeffect | Row 951",
+    "offset": 39373,
+    "length": 28
+  },
+  {
+    "id": 952,
+    "key": "worldeffect.desc.weather_lightrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Exposed water tanks gain water",
+    "target_vi": "Bể chứa nước lộ thiên tự tích thêm nước",
+    "context": "worldeffect | Row 952",
+    "offset": 39415,
+    "length": 31
+  },
+  {
+    "id": 953,
+    "key": "worldeffect.desc.weather_heavyrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "• Slower move speed if soaked\n• Exposed water tanks gain water",
+    "target_vi": "• Giảm tốc độ di chuyển nếu bị ướt sũng\n• Bể chứa nước lộ thiên tự tích thêm nước",
+    "context": "worldeffect | Row 953",
+    "offset": 39460,
+    "length": 63
+  },
+  {
+    "id": 954,
+    "key": "worldeffect.desc.weather_fog",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A sleepy fog rolls over the island. No effect",
+    "target_vi": "Màn sương êm đềm bao phủ hòn đảo. Không có tác động gì",
+    "context": "worldeffect | Row 954",
+    "offset": 39600,
+    "length": 46
+  },
+  {
+    "id": 955,
+    "key": "worldeffect.desc.weather_lightsnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A slight mood dampener",
+    "target_vi": "Khiến tâm trạng bà con hơi chùng xuống một chút",
+    "context": "worldeffect | Row 955",
+    "offset": 39660,
+    "length": 23
+  },
+  {
+    "id": 956,
+    "key": "worldeffect.desc.weather_heavysnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Heavy speed penalty on unheated ground",
+    "target_vi": "Giảm mạnh tốc độ di chuyển trên mặt đất không có sưởi ấm",
+    "context": "worldeffect | Row 956",
+    "offset": 39697,
+    "length": 39
+  },
+  {
+    "id": 957,
+    "key": "worldeffect.desc.warmSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "• Crops grow normally\n• Safe temperatures \n• Ocean has safe passage",
+    "target_vi": "• Cây trồng phát triển bình thường\n• Nhiệt độ an toàn\n• Biển êm đềm, thuận lợi ra khơi",
+    "context": "worldeffect | Row 957",
+    "offset": 39750,
+    "length": 68
+  },
+  {
+    "id": 958,
+    "key": "worldeffect.desc.coldSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "• Crops begin rotting\n• Dangerously cold temperatures\n• Ocean passage is unsafe",
+    "target_vi": "• Cây trồng bắt đầu thối rữa\n• Giá rét nguy hiểm tới tính mạng\n• Vùng biển dữ dội, nguy hiểm khi ra khơi",
+    "context": "worldeffect | Row 958",
+    "offset": 39900,
+    "length": 80
+  },
+  {
+    "id": 959,
+    "key": "worldeffect.desc.badfoodproduction",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "20% chance that food industries produce nothing",
+    "target_vi": "20% nguy cơ các xưởng chế biến thực phẩm không tạo ra sản lượng",
+    "context": "worldeffect | Row 959",
+    "offset": 40074,
+    "length": 48
+  },
+  {
+    "id": 960,
+    "key": "worldeffect.desc.easymining",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Mining is 30% faster",
+    "target_vi": "Tốc độ khai thác mỏ nhanh hơn 30%",
+    "context": "worldeffect | Row 960",
+    "offset": 40136,
+    "length": 21
+  },
+  {
+    "id": 961,
+    "key": "worldeffect.desc.goodwill",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Policies have a 30% chance to cost no Approval when triggered",
+    "target_vi": "Các chính sách có 30% tỉ lệ không tiêu tốn Lòng Dân khi kích hoạt",
+    "context": "worldeffect | Row 961",
+    "offset": 40171,
+    "length": 62
+  },
+  {
+    "id": 962,
+    "key": "worldeffect.desc.intimidated",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Claw Statues have double the effect on passing Whiskers",
+    "target_vi": "Tượng Quý Tộc Mèo nhân đôi hiệu ứng lên các chú chuột đi ngang qua",
+    "context": "worldeffect | Row 962",
+    "offset": 40247,
+    "length": 56
+  },
+  {
+    "id": 963,
+    "key": "worldeffect.desc.lowSpirits",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Positive thoughts have a 20% chance not to generate Approval",
+    "target_vi": "Cảm xúc tích cực có 20% nguy cơ không tạo ra Lòng Dân",
+    "context": "worldeffect | Row 963",
+    "offset": 40317,
+    "length": 61
+  },
+  {
+    "id": 964,
+    "key": "worldeffect.desc.qualityMachinery",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Industry machinery wears down 50% slower",
+    "target_vi": "Máy móc công nghiệp hao mòn chậm hơn 50%",
+    "context": "worldeffect | Row 964",
+    "offset": 40392,
+    "length": 41
+  },
+  {
+    "id": 965,
+    "key": "worldeffect.desc.richFuel",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fuel industries have 20% chance to double output",
+    "target_vi": "Các xưởng sản xuất nhiên liệu có 20% cơ hội nhân đôi sản lượng",
+    "context": "worldeffect | Row 965",
+    "offset": 40447,
+    "length": 49
+  },
+  {
+    "id": 966,
+    "key": "worldeffect.desc.quest.granarymice",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "You are losing 2 stored food per minute",
+    "target_vi": "Đang thất thoát 2 phần thức ăn mỗi phút từ kho trữ",
+    "context": "worldeffect | Row 966",
+    "offset": 40510,
+    "length": 40
+  },
+  {
+    "id": 967,
+    "key": "worldeffect.flavortext.pleasantWeather",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A few days of good weather lifts the spirits",
+    "target_vi": "Vài ngày nắng đẹp giúp tinh thần bà con phấn chấn hẳn lên",
+    "context": "worldeffect | Row 967",
+    "offset": 40564,
+    "length": 45
+  },
+  {
+    "id": 968,
+    "key": "worldeffect.flavortext.foulbreeze",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A foul smell from the ocean",
+    "target_vi": "Luồng gió tanh tưởi bốc lên từ đại dương",
+    "context": "worldeffect | Row 968",
+    "offset": 40623,
+    "length": 28
+  },
+  {
+    "id": 969,
+    "key": "worldeffect.flavortext.moltingtrees",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trees soften their bark",
+    "target_vi": "Cây cối mềm lớp vỏ ngoài",
+    "context": "worldeffect | Row 969",
+    "offset": 40665,
+    "length": 24
+  },
+  {
+    "id": 970,
+    "key": "worldeffect.flavortext.weather_clear",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The sun shines upon you",
+    "target_vi": "Ánh mặt trời ấm áp chiếu rọi muôn nơi",
+    "context": "worldeffect | Row 970",
+    "offset": 40703,
+    "length": 24
+  },
+  {
+    "id": 971,
+    "key": "worldeffect.flavortext.weather_lightrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A sleepy drizzle",
+    "target_vi": "Cơn mưa phùn êm ả ru êm giấc ngủ",
+    "context": "worldeffect | Row 971",
+    "offset": 40741,
+    "length": 17
+  },
+  {
+    "id": 972,
+    "key": "worldeffect.flavortext.weather_heavyrain",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "An oppressive downpour",
+    "target_vi": "Trận mưa rào như trút nước mịt mù",
+    "context": "worldeffect | Row 972",
+    "offset": 40772,
+    "length": 23
+  },
+  {
+    "id": 973,
+    "key": "worldeffect.flavortext.weather_fog",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A dense fog",
+    "target_vi": "Màn sương mù dày đặc",
+    "context": "worldeffect | Row 973",
+    "offset": 40809,
+    "length": 12
+  },
+  {
+    "id": 974,
+    "key": "worldeffect.flavortext.weather_lightsnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A quiet flurry",
+    "target_vi": "Những bông tuyết rơi lất phất lặng lẽ",
+    "context": "worldeffect | Row 974",
+    "offset": 40835,
+    "length": 15
+  },
+  {
+    "id": 975,
+    "key": "worldeffect.flavortext.weather_heavysnow",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Heavy snow accumulation",
+    "target_vi": "Tuyết đóng dày ngập ngụa khắp lối đi",
+    "context": "worldeffect | Row 975",
+    "offset": 40864,
+    "length": 24
+  },
+  {
+    "id": 976,
+    "key": "worldeffect.flavortext.warmSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Season of growth, trade, and fair temperatures",
+    "target_vi": "Mùa của sinh sôi nảy nở, giao thương tấp nập và khí trời ấm áp",
+    "context": "worldeffect | Row 976",
+    "offset": 40902,
+    "length": 47
+  },
+  {
+    "id": 977,
+    "key": "worldeffect.flavortext.coldSeasonEffect",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Season of survival",
+    "target_vi": "Mùa sinh tồn khốc liệt",
+    "context": "worldeffect | Row 977",
+    "offset": 40963,
+    "length": 19
+  },
+  {
+    "id": 979,
+    "key": "worldeffect.flavortext.badfoodproduction",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pests infest our kitchens!",
+    "target_vi": "Sâu bọ tràn vào quấy phá các gian bếp!",
+    "context": "worldeffect | Row 979",
+    "offset": 41025,
+    "length": 27
+  },
+  {
+    "id": 980,
+    "key": "worldeffect.flavortext.easymining",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The rock gives more easily",
+    "target_vi": "Đất đá trở nên mềm và dễ đục đẽo hơn",
+    "context": "worldeffect | Row 980",
+    "offset": 41066,
+    "length": 27
+  },
+  {
+    "id": 981,
+    "key": "worldeffect.flavortext.goodwill",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whiskers are in good spirits",
+    "target_vi": "Bà con chuột đang trong tâm trạng vô cùng phấn chấn",
+    "context": "worldeffect | Row 981",
+    "offset": 41107,
+    "length": 29
+  },
+  {
+    "id": 982,
+    "key": "worldeffect.flavortext.intimidated",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "You can feel their eyes on your back",
+    "target_vi": "Cảm giác như luôn có đôi mắt sắc lạnh dõi theo sau gáy",
+    "context": "worldeffect | Row 982",
+    "offset": 41150,
+    "length": 37
+  },
+  {
+    "id": 983,
+    "key": "worldeffect.flavortext.lowSpirits",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A sour mood afflicts the population",
+    "target_vi": "Bầu không khí ảm đạm bao trùm toàn thể làng chuột",
+    "context": "worldeffect | Row 983",
+    "offset": 41201,
+    "length": 36
+  },
+  {
+    "id": 984,
+    "key": "worldeffect.flavortext.qualityMachinery",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A fine example of engineering",
+    "target_vi": "Một ví dụ kiểu mẫu về kỹ nghệ cơ khí chính xác",
+    "context": "worldeffect | Row 984",
+    "offset": 41251,
+    "length": 30
+  },
+  {
+    "id": 985,
+    "key": "worldeffect.flavortext.richFuel",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Coal and wood burn brightly",
+    "target_vi": "Than đá và gỗ cháy rực rỡ sáng bừng",
+    "context": "worldeffect | Row 985",
+    "offset": 41295,
+    "length": 28
+  },
+  {
+    "id": 986,
+    "key": "worldeffect.flavortext.quest.granarymice",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Hey, that's mine!",
+    "target_vi": "Này, cái đó là của tôi mà!",
+    "context": "worldeffect | Row 986",
+    "offset": 41337,
+    "length": 18
+  },
+  {
+    "id": 1024,
+    "key": "season.Next",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Next Season",
+    "target_vi": "Mùa Tiếp Theo",
+    "context": "season | Row 1024",
+    "offset": 42859,
+    "length": 12
+  },
+  {
+    "id": 1325,
+    "key": "dockedship.whiskers.flavor",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Your Whiskers are eager to set paws on land.",
+    "target_vi": "Bà con nhà chuột đang háo hức muốn đặt chân lên đảo.",
+    "context": "dockedship | Row 1325",
+    "offset": 55223,
+    "length": 45
+  },
+  {
+    "id": 1326,
+    "key": "dockedship.pirates.header",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The Pirates demand Supplies!",
+    "target_vi": "Hải Tặc Đòi Tiếp Tế!",
+    "context": "dockedship | Row 1326",
+    "offset": 55282,
+    "length": 29
+  },
+  {
+    "id": 1327,
+    "key": "dockedship.pirates.hint",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Load the ship with resources to appease the pirates.",
+    "target_vi": "Chất tài nguyên lên tàu để xoa dịu lũ hải tặc.",
+    "context": "dockedship | Row 1327",
+    "offset": 55325,
+    "length": 53
+  },
+  {
+    "id": 1328,
+    "key": "dockedship.pirates.retaliationwarning",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirates will retaliate!",
+    "target_vi": "Hải tặc sẽ trả đũa khốc liệt!",
+    "context": "dockedship | Row 1328",
+    "offset": 55392,
+    "length": 24
+  },
+  {
+    "id": 1329,
+    "key": "dockedship.pirates.satisfied",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirates are satisfied.",
+    "target_vi": "Hải tặc đã thỏa mãn.",
+    "context": "dockedship | Row 1329",
+    "offset": 55430,
+    "length": 23
+  },
+  {
+    "id": 1330,
+    "key": "dockedship.pirates.threat",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Threat of <0> cannonballs",
+    "target_vi": "Đe dọa nã <0> quả đạn pháo",
+    "context": "dockedship | Row 1330",
+    "offset": 55467,
+    "length": 26
+  },
+  {
+    "id": 1331,
+    "key": "dockedship.startingSupplies.header",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Your starting supplies have arrived.",
+    "target_vi": "Hàng tiếp tế ban đầu đã cập bến.",
+    "context": "dockedship | Row 1331",
+    "offset": 55507,
+    "length": 37
+  },
+  {
+    "id": 1332,
+    "key": "dockedship.supplier.header",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Choose a supply crate",
+    "target_vi": "Chọn một kiện hàng tiếp tế",
+    "context": "dockedship | Row 1332",
+    "offset": 55558,
+    "length": 22
+  },
+  {
+    "id": 1333,
+    "key": "dockedship.supplier.debtwarning",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "New debts",
+    "target_vi": "Nợ mới phát sinh",
+    "context": "dockedship | Row 1333",
+    "offset": 55594,
+    "length": 10
+  },
+  {
+    "id": 1334,
+    "key": "dockedship.supplier.debtwarning.tooltip",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "You will owe this much additional debt on the next tax collection.",
+    "target_vi": "Bạn sẽ nợ thêm chừng này thuế trong đợt thu thuế tiếp theo.",
+    "context": "dockedship | Row 1334",
+    "offset": 55618,
+    "length": 67
+  },
+  {
+    "id": 1335,
+    "key": "dockedship.action.unloadShipment",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Unload Shipment",
+    "target_vi": "Dỡ Hàng Xuống Bến",
+    "context": "dockedship | Row 1335",
+    "offset": 55699,
+    "length": 16
+  },
+  {
+    "id": 1336,
+    "key": "dockedship.action.rejectShipment",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Reject Shipment",
+    "target_vi": "Từ Chối Kiện Hàng",
+    "context": "dockedship | Row 1336",
+    "offset": 55729,
+    "length": 16
+  },
+  {
+    "id": 1343,
+    "key": "dockedship.whiskers.flavorquote",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Let us hope this place is better...",
+    "target_vi": "Cầu mong nơi này sẽ tốt đẹp hơn...",
+    "context": "dockedship | Row 1343",
+    "offset": 56006,
+    "length": 36
+  },
+  {
+    "id": 1344,
+    "key": "dockedship.whiskers.shipname",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whisker Ship",
+    "target_vi": "Tàu Chở Dân Chuột",
+    "context": "dockedship | Row 1344",
+    "offset": 56056,
+    "length": 13
+  },
+  {
+    "id": 1345,
+    "key": "dockedship.pirates.flavorquote",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "It will be a shame if we can't come to an agreement...",
+    "target_vi": "Thật đáng tiếc nếu đôi bên không tìm được tiếng nói chung...",
+    "context": "dockedship | Row 1345",
+    "offset": 56083,
+    "length": 55
+  },
+  {
+    "id": 1346,
+    "key": "dockedship.pirates.shipname",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Blockade",
+    "target_vi": "Tàu Hải Tặc Phong Tỏa",
+    "context": "dockedship | Row 1346",
+    "offset": 56152,
+    "length": 16
+  },
+  {
+    "id": 1347,
+    "key": "dockedship.supplier.flavorquote",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The magnanimous Claws offer you supplies.",
+    "target_vi": "Quý Tộc Móng Vuốt rộng lượng ban phát cho ngươi hàng tiếp tế.",
+    "context": "dockedship | Row 1347",
+    "offset": 56182,
+    "length": 42
+  },
+  {
+    "id": 1348,
+    "key": "dockedship.supplier.shipname",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Supply Ship",
+    "target_vi": "Tàu Tiếp Tế",
+    "context": "dockedship | Row 1348",
+    "offset": 56238,
+    "length": 12
+  },
+  {
+    "id": 1349,
+    "key": "dockedship.departingTimer",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Departs in:",
+    "target_vi": "Rời bến sau:",
+    "context": "dockedship | Row 1349",
+    "offset": 56264,
+    "length": 12
+  },
+  {
+    "id": 1350,
+    "key": "dockedship.tax.flavorquote",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Let us see what you have for us today...",
+    "target_vi": "Để xem hôm nay các ngươi chuẩn bị được những gì cho chúng ta...",
+    "context": "dockedship | Row 1350",
+    "offset": 56290,
+    "length": 41
+  },
+  {
+    "id": 1351,
+    "key": "dockedship.tax.shipname",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tax Collector",
+    "target_vi": "Tàu Thu Thuế Cống Nạp",
+    "context": "dockedship | Row 1351",
+    "offset": 56345,
+    "length": 14
+  },
+  {
+    "id": 1352,
+    "key": "dockedship.none",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "No ship currently docked.",
+    "target_vi": "Hiện không có tàu nào cập bến.",
+    "context": "dockedship | Row 1352",
+    "offset": 56373,
+    "length": 26
+  },
+  {
+    "id": 1829,
+    "key": "embark.scenario1.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The Claws will send mostly loyal Monarchist Whiskers. Monarchist Whiskers require less approval to accept and are more happy despite harsh conditions but refuse to smuggle or fight. They believe factories are an affront to the King's generosity.",
+    "target_vi": "Phe Móng Vuốt sẽ cử chủ yếu là những chú chuột trung thành với Hoàng Gia. Chuột bảo hoàng đòi hỏi ít Lòng Dân hơn để chấp thuận và vui vẻ hơn trước điều kiện khắc nghiệt, nhưng từ chối buôn lậu hoặc chiến đấu. Chúng tin rằng công xưởng là một sự xúc phạm đối với ân sủng của Đức Vua.",
+    "context": "embark | Row 1829",
+    "offset": 87157,
+    "length": 246
+  },
+  {
+    "id": 1830,
+    "key": "embark.scenario2.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "This part of the ocean is teeming with Pirates. Their ransom demands are greedier but smuggled cargo fetches higher prices. Tax ships are less frequent.",
+    "target_vi": "Vùng biển này lúc nhúc hải tặc. Chúng đòi tiền chuộc tham lam hơn nhưng hàng buôn lậu lại bán được giá cao hơn nhiều. Tàu thu thuế xuất hiện ít thường xuyên hơn.",
+    "context": "embark | Row 1830",
+    "offset": 87417,
+    "length": 153
+  },
+  {
+    "id": 1831,
+    "key": "embark.scenario3.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fewer Monarchist Whiskers are sent this far into the frontier. Tax ships arrive on a normal pace but fewer islands are interested in smuggled cargo.",
+    "target_vi": "Rất ít chuột bảo hoàng bị lưu đày tới vùng biên viễn xa xôi này. Tàu thu thuế cập bến theo chu kỳ bình thường, nhưng có ít hải đảo hứng thú với hàng hóa buôn lậu hơn.",
+    "context": "embark | Row 1831",
+    "offset": 87584,
+    "length": 149
+  },
+  {
+    "id": 1840,
+    "key": "nautical.decision.found.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "New Island Found!",
+    "target_vi": "Phát Hiện Đảo Mới!",
+    "context": "nautical | Row 1840",
+    "offset": 88067,
+    "length": 18
+  },
+  {
+    "id": 1841,
+    "key": "nautical.decision.found.whisker",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "We've discovered a new island with Whiskers living here! They'll give us fair prices for our goods.",
+    "target_vi": "Chúng ta đã phát hiện một hòn đảo mới có bà con chuột sinh sống! Họ sẵn sàng mua bán hàng hóa với mức giá rất phải chăng.",
+    "context": "nautical | Row 1841",
+    "offset": 88099,
+    "length": 100
+  },
+  {
+    "id": 1842,
+    "key": "nautical.decision.found.pirate",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "A Pirate Island. Stay clear else our ships will come under attack. Until we build enough cannons and ships we best avoid this island. ",
+    "target_vi": "Một hòn đảo của lũ hải tặc. Hãy tránh xa kẻo tàu thuyền của chúng ta bị tấn công. Chừng nào chưa đúc đủ đại bác và đóng thêm tàu chiến, tốt nhất nên né hòn đảo này.",
+    "context": "nautical | Row 1842",
+    "offset": 88213,
+    "length": 135
+  },
+  {
+    "id": 1843,
+    "key": "nautical.decision.found.claw",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Claws control this island.",
+    "target_vi": "Phe Móng Vuốt kiểm soát hòn đảo này.",
+    "context": "nautical | Row 1843",
+    "offset": 88362,
+    "length": 27
+  },
+  {
+    "id": 1844,
+    "key": "nautical.decision.found.empty",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sadly no one lives on this island. At least there are no pirates.",
+    "target_vi": "Đáng tiếc là không có ai sống trên hòn đảo này. Nhưng ít ra ở đây cũng chẳng có bóng dáng tên hải tặc nào.",
+    "context": "nautical | Row 1844",
+    "offset": 88403,
+    "length": 66
+  },
+  {
+    "id": 1869,
+    "key": "dockedship.supplier.winterfee",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Increased winter surcharge!",
+    "target_vi": "Phụ phí mùa đông tăng cao!",
+    "context": "dockedship | Row 1869",
+    "offset": 89641,
+    "length": 28
+  },
+  {
+    "id": 1886,
+    "key": "worldeffect.quest.taxIncrease",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Voluntary Tax Hike",
+    "target_vi": "Tăng Thuế Tự Nguyện",
+    "context": "worldeffect | Row 1886",
+    "offset": 90395,
+    "length": 19
+  },
+  {
+    "id": 1887,
+    "key": "worldeffect.desc.quest.taxIncrease",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Increased amount of tax due for the next tax ship",
+    "target_vi": "Tăng số lượng thuế cống nạp phải nộp trong chuyến tàu thu thuế tiếp theo",
+    "context": "worldeffect | Row 1887",
+    "offset": 90428,
+    "length": 50
+  },
+  {
+    "id": 2000,
+    "key": "nautical.task.idling",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stopped",
+    "target_vi": "Đang dừng tàu",
+    "context": "nautical | Row 2000",
+    "offset": 96866,
+    "length": 8
+  },
+  {
+    "id": 2001,
+    "key": "nautical.cancel",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cancel",
+    "target_vi": "Hủy Lệnh",
+    "context": "nautical | Row 2001",
+    "offset": 96888,
+    "length": 7
+  },
+  {
+    "id": 2012,
+    "key": "embark.param.whiskerFickleness",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whiskers' Fickleness",
+    "target_vi": "Tính Khí Thất Thường",
+    "context": "embark | Row 2012",
+    "offset": 97273,
+    "length": 21
+  },
+  {
+    "id": 2013,
+    "key": "embark.param.researchCost",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Research Cost",
+    "target_vi": "Chi Phí Nghiên Cứu",
+    "context": "embark | Row 2013",
+    "offset": 97308,
+    "length": 14
+  },
+  {
+    "id": 2014,
+    "key": "embark.choice.low",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Low",
+    "target_vi": "Thấp",
+    "context": "embark | Row 2014",
+    "offset": 97336,
+    "length": 4
+  },
+  {
+    "id": 2015,
+    "key": "embark.choice.high",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "High",
+    "target_vi": "Cao",
+    "context": "embark | Row 2015",
+    "offset": 97354,
+    "length": 5
+  },
+  {
+    "id": 2016,
+    "key": "embark.choice.veryhigh",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Very High",
+    "target_vi": "Rất Cao",
+    "context": "embark | Row 2016",
+    "offset": 97373,
+    "length": 10
+  },
+  {
+    "id": 2060,
+    "key": "dockedship.smugglertrader.shipname",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Smuggler",
+    "target_vi": "Thuyền Buôn Lậu",
+    "context": "dockedship | Row 2060",
+    "offset": 99143,
+    "length": 9
+  },
+  {
+    "id": 2061,
+    "key": "dockedship.smugglertrader.flavorquote",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Perhaps we can help each other out",
+    "target_vi": "Có lẽ chúng ta có thể giúp đỡ lẫn nhau đấy...",
+    "context": "dockedship | Row 2061",
+    "offset": 99166,
+    "length": 35
+  },
+  {
+    "id": 2080,
+    "key": "embark.param.resources",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ores and Fertility",
+    "target_vi": "Khoáng Sản & Độ Màu Mỡ",
+    "context": "embark | Row 2080",
+    "offset": 100008,
+    "length": 19
+  },
+  {
+    "id": 2081,
+    "key": "embark.choice.poor",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Poor",
+    "target_vi": "Nghèo Nàn",
+    "context": "embark | Row 2081",
+    "offset": 100041,
+    "length": 5
+  },
+  {
+    "id": 2123,
+    "key": "embark.scenario3.descV2",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Fewer Monarchist Whiskers are sent this far into the frontier. Tax ships arrive on a normal pace but distance means smugglers demand more for gold bars.",
+    "target_vi": "Rất ít chuột bảo hoàng bị lưu đày tới vùng biên viễn xa xôi này. Tàu thu thuế cập bến theo chu kỳ bình thường, nhưng khoảng cách xa xôi khiến giới buôn lậu đòi giá cao hơn cho mỗi thỏi vàng.",
+    "context": "embark | Row 2123",
+    "offset": 101994,
+    "length": 153
+  },
+  {
+    "id": 2124,
+    "key": "embark.scenario1.descV2",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "The Claws will send mostly loyal Monarchist Whiskers. Monarchist Whiskers require less Approval to accept and are more happy despite harsh conditions but are offended at rebellious remarks. They believe factories are an affront to the King's generosity.",
+    "target_vi": "Phe Móng Vuốt sẽ cử chủ yếu là những chú chuột trung thành với Hoàng Gia. Chuột bảo hoàng đòi hỏi ít Lòng Dân hơn để chấp thuận và vui vẻ hơn trước điều kiện khắc nghiệt, nhưng rất dễ nổi giận trước những lời lẽ phản nghịch. Chúng tin rằng công xưởng là một sự xúc phạm đối với ân sủng của Đức Vua.",
+    "context": "embark | Row 2124",
+    "offset": 102161,
+    "length": 254
+  },
+  {
+    "id": 2313,
+    "key": "nautical.task.trade",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trade",
+    "target_vi": "Đang giao thương",
+    "context": "nautical | Row 2313",
+    "offset": 111170,
+    "length": 6
+  },
+  {
+    "id": 2314,
+    "key": "nautical.task.repair",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Repair",
+    "target_vi": "Đang sửa chữa",
+    "context": "nautical | Row 2314",
+    "offset": 111190,
+    "length": 7
+  },
+  {
+    "id": 2315,
+    "key": "nautical.task.gonefishing",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sailing to Fishing Grounds",
+    "target_vi": "Đang ra ngư trường",
+    "context": "nautical | Row 2315",
+    "offset": 111211,
+    "length": 27
+  },
+  {
+    "id": 2316,
+    "key": "nautical.foundisland.action",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Acknowledge",
+    "target_vi": "Đã Rõ",
+    "context": "nautical | Row 2316",
+    "offset": 111252,
+    "length": 12
+  },
+  {
+    "id": 2317,
+    "key": "nautical.flag.discovery",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "DISCOVERY",
+    "target_vi": "KHÁM PHÁ",
+    "context": "nautical | Row 2317",
+    "offset": 111278,
+    "length": 10
+  },
+  {
+    "id": 2318,
+    "key": "nautical.flag.danger",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "DANGER",
+    "target_vi": "NGUY HIỂM",
+    "context": "nautical | Row 2318",
+    "offset": 111302,
+    "length": 7
+  },
+  {
+    "id": 2319,
+    "key": "nautical.flag.question",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "QUESTION",
+    "target_vi": "NGHI VẤN",
+    "context": "nautical | Row 2319",
+    "offset": 111323,
+    "length": 9
+  },
+  {
+    "id": 2320,
+    "key": "nautical.flag.request",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "REQUEST",
+    "target_vi": "YÊU CẦU",
+    "context": "nautical | Row 2320",
+    "offset": 111346,
+    "length": 8
+  },
+  {
+    "id": 2321,
+    "key": "nautical.diplo.starttrade",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Offer Trade",
+    "target_vi": "Đề Xuất Giao Thương",
+    "context": "nautical | Row 2321",
+    "offset": 111368,
+    "length": 12
+  },
+  {
+    "id": 2322,
+    "key": "nautical.diplo.requestrepair",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Request Repair",
+    "target_vi": "Yêu Cầu Sửa Tàu",
+    "context": "nautical | Row 2322",
+    "offset": 111394,
+    "length": 15
+  },
+  {
+    "id": 2323,
+    "key": "nautical.diplo.declarewar",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Declare War",
+    "target_vi": "Tuyên Chiến",
+    "context": "nautical | Row 2323",
+    "offset": 111423,
+    "length": 12
+  },
+  {
+    "id": 2324,
+    "key": "nautical.diplo.demandransom",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Demand Ransom",
+    "target_vi": "Đòi Tiền Chuộc",
+    "context": "nautical | Row 2324",
+    "offset": 111449,
+    "length": 14
+  },
+  {
+    "id": 2325,
+    "key": "nautical.diplo.sellschematics",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sell Schematics",
+    "target_vi": "Bán Bản Vẽ Kỹ Thuật",
+    "context": "nautical | Row 2325",
+    "offset": 111477,
+    "length": 16
+  },
+  {
+    "id": 2326,
+    "key": "nautical.diplo.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "DIPLOMACY",
+    "target_vi": "NGOẠI GIAO",
+    "context": "nautical | Row 2326",
+    "offset": 111507,
+    "length": 10
+  },
+  {
+    "id": 2328,
+    "key": "nautical.status",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Status",
+    "target_vi": "Tình Trạng",
+    "context": "nautical | Row 2328",
+    "offset": 111565,
+    "length": 7
+  },
+  {
+    "id": 2329,
+    "key": "nautical.relationship",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Relationship",
+    "target_vi": "Mối Quan Hệ",
+    "context": "nautical | Row 2329",
+    "offset": 111586,
+    "length": 13
+  },
+  {
+    "id": 2330,
+    "key": "nautical.rel.hostile",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Hostile",
+    "target_vi": "Thù Địch",
+    "context": "nautical | Row 2330",
+    "offset": 111613,
+    "length": 8
+  },
+  {
+    "id": 2331,
+    "key": "nautical.rel.despised",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Despised",
+    "target_vi": "Khinh Miệt",
+    "context": "nautical | Row 2331",
+    "offset": 111635,
+    "length": 9
+  },
+  {
+    "id": 2332,
+    "key": "nautical.rel.troubled",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Troubled",
+    "target_vi": "Căng Thẳng",
+    "context": "nautical | Row 2332",
+    "offset": 111658,
+    "length": 9
+  },
+  {
+    "id": 2333,
+    "key": "nautical.rel.cordial",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Cordial",
+    "target_vi": "Hòa Nhã",
+    "context": "nautical | Row 2333",
+    "offset": 111681,
+    "length": 8
+  },
+  {
+    "id": 2334,
+    "key": "nautical.rel.friendly",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Friendly",
+    "target_vi": "Thân Thiện",
+    "context": "nautical | Row 2334",
+    "offset": 111703,
+    "length": 9
+  },
+  {
+    "id": 2335,
+    "key": "nautical.rel.beloved",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Beloved",
+    "target_vi": "Yêu Quý",
+    "context": "nautical | Row 2335",
+    "offset": 111726,
+    "length": 8
+  },
+  {
+    "id": 2336,
+    "key": "nautical.rel.allied",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Allied",
+    "target_vi": "Đồng Minh",
+    "context": "nautical | Row 2336",
+    "offset": 111748,
+    "length": 7
+  },
+  {
+    "id": 2337,
+    "key": "nautical.trade.title",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "TRADE",
+    "target_vi": "GIAO THƯƠNG",
+    "context": "nautical | Row 2337",
+    "offset": 111769,
+    "length": 6
+  },
+  {
+    "id": 2338,
+    "key": "nautical.trade.all",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "All",
+    "target_vi": "Tất Cả",
+    "context": "nautical | Row 2338",
+    "offset": 111789,
+    "length": 4
+  },
+  {
+    "id": 2339,
+    "key": "nautical.trade.buy",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Buy",
+    "target_vi": "Mua",
+    "context": "nautical | Row 2339",
+    "offset": 111807,
+    "length": 4
+  },
+  {
+    "id": 2340,
+    "key": "nautical.trade.sell",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sell",
+    "target_vi": "Bán",
+    "context": "nautical | Row 2340",
+    "offset": 111825,
+    "length": 5
+  },
+  {
+    "id": 2341,
+    "key": "nautical.trade.shipLacksGold",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ship has no Goldbars to offer",
+    "target_vi": "Tàu không có Vàng Thỏi để trao đổi",
+    "context": "nautical | Row 2341",
+    "offset": 111844,
+    "length": 30
+  },
+  {
+    "id": 2342,
+    "key": "nautical.trade.shipFull",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ship is full",
+    "target_vi": "Khoang tàu đã đầy",
+    "context": "nautical | Row 2342",
+    "offset": 111888,
+    "length": 13
+  },
+  {
+    "id": 2343,
+    "key": "nautical.trade.delaytrade",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Delay Trading",
+    "target_vi": "Tạm Hoãn Giao Thương",
+    "context": "nautical | Row 2343",
+    "offset": 111915,
+    "length": 14
+  },
+  {
+    "id": 2344,
+    "key": "nautical.trade.finalize",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Finish & Return to Home Dock",
+    "target_vi": "Hoàn Tất & Về Cảng Nhà",
+    "context": "nautical | Row 2344",
+    "offset": 111943,
+    "length": 29
+  },
+  {
+    "id": 2347,
+    "key": "nautical.task.docked",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Docked",
+    "target_vi": "Đã cập bến",
+    "context": "nautical | Row 2347",
+    "offset": 112035,
+    "length": 7
+  },
+  {
+    "id": 2352,
+    "key": "nautical.action.attack",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Attack Pirates",
+    "target_vi": "Tấn Công Hải Tặc",
+    "context": "nautical | Row 2352",
+    "offset": 112221,
+    "length": 15
+  },
+  {
+    "id": 2353,
+    "key": "nautical.action.fish",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Catch Fish",
+    "target_vi": "Đánh Bắt Cá",
+    "context": "nautical | Row 2353",
+    "offset": 112250,
+    "length": 11
+  },
+  {
+    "id": 2354,
+    "key": "nautical.action.flee",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Force to Dock",
+    "target_vi": "Ép Cập Bến",
+    "context": "nautical | Row 2354",
+    "offset": 112275,
+    "length": 14
+  },
+  {
+    "id": 2355,
+    "key": "nautical.action.mail",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Deliver Mail",
+    "target_vi": "Chuyển Thư Từ",
+    "context": "nautical | Row 2355",
+    "offset": 112303,
+    "length": 13
+  },
+  {
+    "id": 2356,
+    "key": "nautical.action.repair",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Repair Damage",
+    "target_vi": "Sửa Chữa Hư Hại",
+    "context": "nautical | Row 2356",
+    "offset": 112330,
+    "length": 14
+  },
+  {
+    "id": 2357,
+    "key": "nautical.action.return",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Return to Home Dock",
+    "target_vi": "Quay Về Cảng Nhà",
+    "context": "nautical | Row 2357",
+    "offset": 112358,
+    "length": 20
+  },
+  {
+    "id": 2358,
+    "key": "nautical.action.salvage",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Salvage",
+    "target_vi": "Trục Vớt",
+    "context": "nautical | Row 2358",
+    "offset": 112392,
+    "length": 8
+  },
+  {
+    "id": 2359,
+    "key": "nautical.action.scout",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Sail to Here",
+    "target_vi": "Giương Buồm Tới Đây",
+    "context": "nautical | Row 2359",
+    "offset": 112414,
+    "length": 13
+  },
+  {
+    "id": 2360,
+    "key": "nautical.action.smuggle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Smuggle",
+    "target_vi": "Buôn Lậu Hàng Hóa",
+    "context": "nautical | Row 2360",
+    "offset": 112441,
+    "length": 8
+  },
+  {
+    "id": 2361,
+    "key": "nautical.action.trade",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trade",
+    "target_vi": "Giao Thương",
+    "context": "nautical | Row 2361",
+    "offset": 112463,
+    "length": 6
+  },
+  {
+    "id": 2362,
+    "key": "nautical.action.starttrade",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "View Trade Offers",
+    "target_vi": "Xem Chào Hàng Giao Thương",
+    "context": "nautical | Row 2362",
+    "offset": 112483,
+    "length": 18
+  },
+  {
+    "id": 2363,
+    "key": "nautical.action.rescue",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Rescue Survivors",
+    "target_vi": "Cứu Người Sống Sót",
+    "context": "nautical | Row 2363",
+    "offset": 112515,
+    "length": 17
+  },
+  {
+    "id": 2364,
+    "key": "nautical.action.hunting",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Leviathan Hunting",
+    "target_vi": "Săn Quái Thú Biển",
+    "context": "nautical | Row 2364",
+    "offset": 112546,
+    "length": 18
+  },
+  {
+    "id": 2365,
+    "key": "nautical.action.dock",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Dock",
+    "target_vi": "Cập Bến",
+    "context": "nautical | Row 2365",
+    "offset": 112578,
+    "length": 5
+  },
+  {
+    "id": 2366,
+    "key": "nautical.action.idle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stop & Wait",
+    "target_vi": "Dừng Lại & Chờ Lệnh",
+    "context": "nautical | Row 2366",
+    "offset": 112597,
+    "length": 12
+  },
+  {
+    "id": 2367,
+    "key": "nautical.action.harvestguano",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Harvest Guano",
+    "target_vi": "Thu Gom Phân Chim Biển",
+    "context": "nautical | Row 2367",
+    "offset": 112623,
+    "length": 14
+  },
+  {
+    "id": 2368,
+    "key": "nautical.action.escortship",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Escort Ship",
+    "target_vi": "Hộ Tống Tàu",
+    "context": "nautical | Row 2368",
+    "offset": 112651,
+    "length": 12
+  },
+  {
+    "id": 2369,
+    "key": "nautical.action.bombardtower",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Bombard Tower",
+    "target_vi": "Pháo Kích Tháp Canh",
+    "context": "nautical | Row 2369",
+    "offset": 112677,
+    "length": 14
+  },
+  {
+    "id": 2370,
+    "key": "nautical.task.docking",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Docked",
+    "target_vi": "Đang cập bến",
+    "context": "nautical | Row 2370",
+    "offset": 112705,
+    "length": 7
+  },
+  {
+    "id": 2371,
+    "key": "nautical.task.trading",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Trading",
+    "target_vi": "Đang giao thương",
+    "context": "nautical | Row 2371",
+    "offset": 112726,
+    "length": 8
+  },
+  {
+    "id": 2372,
+    "key": "nautical.task.harvestguano",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Harvesting Guano",
+    "target_vi": "Đang gom phân chim",
+    "context": "nautical | Row 2372",
+    "offset": 112748,
+    "length": 17
+  },
+  {
+    "id": 2373,
+    "key": "nautical.task.escortship",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Escorting",
+    "target_vi": "Đang hộ tống",
+    "context": "nautical | Row 2373",
+    "offset": 112779,
+    "length": 10
+  },
+  {
+    "id": 2374,
+    "key": "nautical.task.bombardtower",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Bombarding",
+    "target_vi": "Đang pháo kích",
+    "context": "nautical | Row 2374",
+    "offset": 112803,
+    "length": 11
+  },
+  {
+    "id": 2375,
+    "key": "nautical.flee.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Crew has turned to home because supplies are insufficient for a continued voyage. They will not listen to any commands.",
+    "target_vi": "Thủy thủ đoàn đã tự quay mũi tàu về nhà vì nhu yếu phẩm không đủ cho chuyến hải trình tiếp theo. Họ sẽ không nghe theo bất kỳ mệnh lệnh nào nữa.",
+    "context": "nautical | Row 2375",
+    "offset": 112828,
+    "length": 120
+  },
+  {
+    "id": 2376,
+    "key": "nautical.docked.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ship is docked and cannot be commanded until it sets sail.",
+    "target_vi": "Tàu đang neo đậu tại bến và không thể nhận lệnh cho tới khi giương buồm ra khơi.",
+    "context": "nautical | Row 2376",
+    "offset": 112962,
+    "length": 59
+  },
+  {
+    "id": 2377,
+    "key": "nautical.task.Ferry",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ferry Whiskers",
+    "target_vi": "Đang đưa đón dân chuột",
+    "context": "nautical | Row 2377",
+    "offset": 113035,
+    "length": 15
+  },
+  {
+    "id": 2378,
+    "key": "nautical.localferry.desc",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ship is assigned to a local ferry route and cannot be commanded directly.",
+    "target_vi": "Tàu được phân công chạy tuyến phà nội bộ và không thể điều khiển trực tiếp.",
+    "context": "nautical | Row 2378",
+    "offset": 113064,
+    "length": 74
+  },
+  {
+    "id": 2387,
+    "key": "nautical.supportedTasks",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Supported Actions",
+    "target_vi": "Các Hành Động Khả Dụng",
+    "context": "nautical | Row 2387",
+    "offset": 113457,
+    "length": 18
+  },
+  {
+    "id": 2519,
+    "key": "nautical.keyhint.selectShips",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Select Ships",
+    "target_vi": "Chọn Tàu",
+    "context": "nautical | Row 2519",
+    "offset": 117535,
+    "length": 13
+  },
+  {
+    "id": 2520,
+    "key": "nautical.keyhint.unselectShips",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Clear Selection",
+    "target_vi": "Bỏ Chọn Tàu",
+    "context": "nautical | Row 2520",
+    "offset": 117562,
+    "length": 16
+  },
+  {
+    "id": 2521,
+    "key": "nautical.keyhint.issueOrder",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Issue Command",
+    "target_vi": "Ra Mệnh Lệnh",
+    "context": "nautical | Row 2521",
+    "offset": 117592,
+    "length": 14
+  },
+  {
+    "id": 2584,
+    "key": "nautical.found.title.whisker",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Whisker Colony Discovered!",
+    "target_vi": "Phát Hiện Thuộc Địa Chuột!",
+    "context": "nautical | Row 2584",
+    "offset": 120662,
+    "length": 27
+  },
+  {
+    "id": 2585,
+    "key": "nautical.found.title.claw",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Claw Island Discovered!",
+    "target_vi": "Phát Hiện Đảo Phe Móng Vuốt!",
+    "context": "nautical | Row 2585",
+    "offset": 120703,
+    "length": 24
+  },
+  {
+    "id": 2586,
+    "key": "nautical.found.title.pirate",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate Island Discovered!",
+    "target_vi": "Phát Hiện Đảo Hải Tặc!",
+    "context": "nautical | Row 2586",
+    "offset": 120741,
+    "length": 26
+  },
+  {
+    "id": 2587,
+    "key": "nautical.found.title.empty",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "An empty island found!",
+    "target_vi": "Phát Hiện Đảo Hoang!",
+    "context": "nautical | Row 2587",
+    "offset": 120781,
+    "length": 23
+  },
+  {
+    "id": 2615,
+    "key": "ship.viewOnMap",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "View on map",
+    "target_vi": "Xem trên bản đồ",
+    "context": "ship | Row 2615",
+    "offset": 121943,
+    "length": 12
+  },
+  {
+    "id": 2616,
+    "key": "ship.assign",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Assign to a dock",
+    "target_vi": "Gán vào bến cảng",
+    "context": "ship | Row 2616",
+    "offset": 121969,
+    "length": 17
+  },
+  {
+    "id": 2617,
+    "key": "ship.reassign",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Reassign to new dock",
+    "target_vi": "Đổi sang bến cảng mới",
+    "context": "ship | Row 2617",
+    "offset": 122000,
+    "length": 21
+  },
+  {
+    "id": 2623,
+    "key": "worldeffect.pirateProtection",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirate protection",
+    "target_vi": "Bảo Hộ Khỏi Hải Tặc",
+    "context": "worldeffect | Row 2623",
+    "offset": 122188,
+    "length": 18
+  },
+  {
+    "id": 2624,
+    "key": "worldeffect.desc.pirateProtection",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Pirates will not send raids while you have protection",
+    "target_vi": "Hải tặc sẽ không phái thuyền đột kích chừng nào bạn còn được bảo hộ",
+    "context": "worldeffect | Row 2624",
+    "offset": 122220,
+    "length": 54
+  },
+  {
+    "id": 2688,
+    "key": "ship.stormie",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Stormie's stolen ship",
+    "target_vi": "Tàu bị Stormie đánh cắp",
+    "context": "ship | Row 2688",
+    "offset": 134642,
+    "length": 22
+  },
+  {
+    "id": 2727,
+    "key": "nautical.task.taxcollection",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Collecting Taxes",
+    "target_vi": "Đang thu thuế",
+    "context": "nautical | Row 2727",
+    "offset": 136331,
+    "length": 17
+  },
+  {
+    "id": 2728,
+    "key": "nautical.task.supplyrun",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Running Supply",
+    "target_vi": "Đang tiếp tế",
+    "context": "nautical | Row 2728",
+    "offset": 136362,
+    "length": 15
+  },
+  {
+    "id": 2729,
+    "key": "nautical.task.smuggle",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Smuggling",
+    "target_vi": "Đang buôn lậu",
+    "context": "nautical | Row 2729",
+    "offset": 136391,
+    "length": 10
+  },
+  {
+    "id": 2730,
+    "key": "nautical.task.labortransport",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Transporting Whiskers",
+    "target_vi": "Đang chở nhân lực",
+    "context": "nautical | Row 2730",
+    "offset": 136415,
+    "length": 22
+  },
+  {
+    "id": 2731,
+    "key": "nautical.task.extortion",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Extorting",
+    "target_vi": "Đang tống tiền",
+    "context": "nautical | Row 2731",
+    "offset": 136451,
+    "length": 10
+  },
+  {
+    "id": 2732,
+    "key": "nautical.action.taxcollection",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Tax Collection",
+    "target_vi": "Thu Thuế Cống Nạp",
+    "context": "nautical | Row 2732",
+    "offset": 136475,
+    "length": 15
+  },
+  {
+    "id": 2733,
+    "key": "nautical.action.supplyrun",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Supply Run",
+    "target_vi": "Chuyến Tiếp Tế",
+    "context": "nautical | Row 2733",
+    "offset": 136504,
+    "length": 11
+  },
+  {
+    "id": 2734,
+    "key": "nautical.action.labortransport",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Transport Whiskers",
+    "target_vi": "Chở Nhân Lực Chuột",
+    "context": "nautical | Row 2734",
+    "offset": 136529,
+    "length": 19
+  },
+  {
+    "id": 2735,
+    "key": "nautical.action.extortion",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Extort",
+    "target_vi": "Tống Tiền",
+    "context": "nautical | Row 2735",
+    "offset": 136562,
+    "length": 7
+  },
+  {
+    "id": 2736,
+    "key": "nautical.task.salvage",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Salvaging",
+    "target_vi": "Đang trục vớt",
+    "context": "nautical | Row 2736",
+    "offset": 136583,
+    "length": 10
+  },
+  {
+    "id": 2750,
+    "key": "ferrydock.hint",
+    "category": "05_Nautical_Exploration_World",
+    "source_en": "Ships assigned to Ferry Docks cannot be manually controlled",
+    "target_vi": "Tàu được gán vào Bến Phà Đảo không thể điều khiển thủ công",
+    "context": "ferrydock | Row 2750",
+    "offset": 137355,
+    "length": 60
+  }
+]
