@@ -23,7 +23,7 @@
   {
     "key": "crazy_goose_descr",
     "en": "The origin of the goose is vague. A lot of members used to be broke farmers. Practically anyone can join this company as long as they do not fear death.",
-    "vi": "Nguồn gốc cái tên Ngỗng Điên khá mơ hồ. Đa phần thành viên là những nông dân khánh kiệt. Hầu như ai cũng có thể gia nhập bang hội này, miễn là không sợ chết.",
+    "vi": "Nguồn gốc cái tên Ngỗng Điên khá mơ hồ. Đa phần thành viên là những nông dân khánh kiệt. Hầu như ai cũng có thể gia nhập đoàn quân này, miễn là không sợ chết.",
     "offset": 5067,
     "length": 153
   },
@@ -86,7 +86,7 @@
   {
     "key": "vultures",
     "en": "The Ravenous Vultures",
-    "vi": "Bầy Kền kền Há đói",
+    "vi": "Bầy Kền kền Háu đói",
     "offset": 26750,
     "length": 22
   },
@@ -100,14 +100,14 @@
   {
     "key": "battle_brothers",
     "en": "Battle Brothers",
-    "vi": "Huynh đệ Đồng cam",
+    "vi": "Huynh đệ Sinh tử",
     "offset": 31042,
     "length": 16
   },
   {
     "key": "battle_brothers_descr",
     "en": "Story tells they all lost a bet with their former liege in a brothel, leading them to abandoning their former lives and joining him as fighters. They decided to stick to this life.",
-    "vi": "Tương truyền tất cả họ đều thua cược với lãnh chúa cũ trong một tửu điếm, dẫn đến việc phải từ bỏ cuộc sống cũ để theo chân ông ta làm lính chiến. Họ quyết định gắn bó luôn với nghiệp binh đao.",
+    "vi": "Tương truyền tất cả họ đều thua cược với lãnh chúa cũ trong một nhà thổ, dẫn đến việc phải từ bỏ cuộc sống cũ để theo chân ông ta làm lính chiến. Họ quyết định gắn bó luôn với nghiệp binh đao.",
     "offset": 31567,
     "length": 181
   },

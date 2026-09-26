@@ -1,111 +1,111 @@
 [
   {
-    "key": "weather_and_seasons_2",
+    "key": "monthID_short_2",
     "en": "Jan",
     "vi": "Thg 1",
     "offset": 24,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_3",
+    "key": "monthID_short_3",
     "en": "Feb",
     "vi": "Thg 2",
     "offset": 216,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_4",
+    "key": "monthID_short_4",
     "en": "Mar",
     "vi": "Thg 3",
     "offset": 416,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_5",
+    "key": "monthID_short_5",
     "en": "Apr",
     "vi": "Thg 4",
     "offset": 621,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_6",
+    "key": "monthID_short_6",
     "en": "May",
     "vi": "Thg 5",
     "offset": 820,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_7",
+    "key": "monthID_short_7",
     "en": "Jun",
     "vi": "Thg 6",
     "offset": 1016,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_8",
+    "key": "monthID_short_8",
     "en": "Jul",
     "vi": "Thg 7",
     "offset": 1215,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_9",
+    "key": "monthID_short_9",
     "en": "Aug",
     "vi": "Thg 8",
     "offset": 1412,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_10",
+    "key": "monthID_short_10",
     "en": "Sep",
     "vi": "Thg 9",
     "offset": 1615,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_11",
+    "key": "monthID_short_11",
     "en": "Oct",
     "vi": "Thg 10",
     "offset": 1823,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_12",
+    "key": "monthID_short_12",
     "en": "Nov",
     "vi": "Thg 11",
     "offset": 2031,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_13",
+    "key": "monthID_short_13",
     "en": "Dec",
     "vi": "Thg 12",
     "offset": 2235,
     "length": 4
   },
   {
-    "key": "weather_and_seasons_1",
+    "key": "seasonID_1",
     "en": "Winter",
     "vi": "Mùa đông",
     "offset": 2444,
     "length": 7
   },
   {
-    "key": "weather_and_seasons_2",
+    "key": "seasonID_2",
     "en": "Spring",
     "vi": "Mùa xuân",
     "offset": 2664,
     "length": 7
   },
   {
-    "key": "weather_and_seasons_3",
+    "key": "seasonID_3",
     "en": "Summer",
     "vi": "Mùa hạ",
     "offset": 2922,
     "length": 7
   },
   {
-    "key": "weather_and_seasons_4",
+    "key": "seasonID_4",
     "en": "Autumn",
     "vi": "Mùa thu",
     "offset": 3147,
@@ -120,37 +120,37 @@
   },
   {
     "key": "tooltip_spring",
-    "en": "<h>Spring</>  <i>(Mar-May)</> Frequent raining.",
-    "vi": "<h>Mùa xuân</>  <i>(Thg 3 - Thg 5)</> Mưa rào thường xuyên.",
+    "en": "<h>Spring</>  <i>(Mar-May)</> Frequent raining. Pasture Livestock produce offspring.",
+    "vi": "<h>Mùa xuân</>  <i>(Thg 3 - Thg 5)</> Mưa rào thường xuyên. Gia súc chăn thả sinh sản.",
     "offset": 5760,
-    "length": 48
+    "length": 85
   },
   {
     "key": "tooltip_summer",
-    "en": "<h>Summer</>  <i>(Jun-Aug)</> Crops grow. Possible droughts.",
-    "vi": "<h>Mùa hạ</>  <i>(Thg 6 - Thg 8)</> Nông sản phát triển. Có thể xảy ra hạn hán.",
-    "offset": 7303,
-    "length": 61
+    "en": "<h>Summer</>  <i>(Jun-Aug)</> Crops grow. Shearing occurs. Possible droughts.",
+    "vi": "<h>Mùa hạ</>  <i>(Thg 6 - Thg 8)</> Nông sản phát triển. Diễn ra việc xén lông cừu. Có thể xảy ra hạn hán.",
+    "offset": 8278,
+    "length": 78
   },
   {
     "key": "tooltip_autumn",
     "en": "<h>Autumn</>  <i>(Sep-Nov)</>  Harvesting, plowing and sowing crops.",
     "vi": "<h>Mùa thu</>  <i>(Thg 9 - Thg 11)</> Thu hoạch mùa màng, cày bừa và gieo hạt giống mới.",
-    "offset": 9764,
+    "offset": 11340,
     "length": 69
   },
   {
     "key": "tooltip_winter",
-    "en": "<h>Winter</>  <i>(Dec-Feb)</> Sheep shearing forbidden. Wild Berry bushes become dormant.",
-    "vi": "<h>Mùa đông</>  <i>(Thg 12 - Thg 2)</> Cấm xén lông cừu. Bụi quả mọng hoang bước vào thời kỳ ngủ đông.",
-    "offset": 12189,
-    "length": 90
+    "en": "<h>Winter</>  <i>(Dec-Feb)</> Foraging sources become dormant. Livestock farms stop gathering. Ponds freeze over.",
+    "vi": "<h>Mùa đông</>  <i>(Thg 12 - Thg 2)</> Các nguồn hái lượm bước vào thời kỳ ngủ đông. Các trại chăn nuôi ngừng thu thập. Ao hồ đóng băng.",
+    "offset": 13765,
+    "length": 114
   },
   {
     "key": "year",
     "en": "Year",
     "vi": "Năm",
-    "offset": 15305,
+    "offset": 17534,
     "length": 5
   }
 ]

@@ -2,14 +2,14 @@
   {
     "key": "popup_hunger",
     "en": "Hunger!",
-    "vi": "Bị đói!",
+    "vi": "Đói khát!",
     "offset": 24,
     "length": 8
   },
   {
     "key": "popup_cold",
     "en": "Cold!",
-    "vi": "Bị rét!",
+    "vi": "Giá rét!",
     "offset": 392,
     "length": 6
   },
@@ -72,7 +72,7 @@
   {
     "key": "battle_victorious",
     "en": "Victory!",
-    "vi": "Chiến thắng rực rỡ!",
+    "vi": "Đại thắng!",
     "offset": 7839,
     "length": 9
   },
@@ -128,7 +128,7 @@
   {
     "key": "victory_growth_descr",
     "en": "Where others see trouble, you see potential. These lands shall become rich and prosperous under your skillful management. {br}{br}Reach the <h>LARGE TOWN</> settlement level to achieve victory.",
-    "vi": "Nơi người khác thấy gian khó, bạn lại nhìn ra tiềm năng. Mảnh đất này sẽ trở nên giàu có và phồn vinh dưới sự lãnh đạo tài ba của bạn.{br}{br}Hãy nâng cấp khu định cư đạt cấp độ <h>THỊ TRẤN LỚN (LARGE TOWN)</> để giành thắng lợi chung cuộc.",
+    "vi": "Nơi người khác thấy gian khó, bạn lại nhìn ra tiềm năng. Mảnh đất này sẽ trở nên giàu có và phồn vinh dưới sự lãnh đạo tài ba của bạn.{br}{br}Hãy nâng cấp khu định cư đạt cấp độ <h>THỊ TRẤN LỚN</> để giành thắng lợi chung cuộc.",
     "offset": 12670,
     "length": 194
   },
@@ -166,13 +166,6 @@
     "vi": "Ta sẽ thống nhất toàn bộ các vùng đất này dưới sự trị vì của ta.",
     "offset": 33451,
     "length": 38
-  },
-  {
-    "key": "events_common_11776",
-    "en": "Eu unirei estas terras sob meu comando",
-    "vi": "Ta sẽ thống nhất toàn bộ các vùng đất này dưới sự trị vì của ta.",
-    "offset": 33965,
-    "length": 39
   },
   {
     "key": "prosperity_awaits",

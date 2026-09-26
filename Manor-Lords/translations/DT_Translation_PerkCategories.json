@@ -117,5 +117,12 @@
     "vi": "Lễ hội đô thị",
     "offset": 25058,
     "length": 18
+  },
+  {
+    "key": "perk_urban_festivities_descr",
+    "en": "Festivals once held in fields now fill our streets —proof that we’ve grown, together.",
+    "vi": "Những lễ hội từng tổ chức ngoài đồng ruộng nay tràn ngập khắp các phố phường—minh chứng cho sự phát triển lớn mạnh cùng nhau của chúng ta.",
+    "offset": 25586,
+    "length": 86
   }
 ]

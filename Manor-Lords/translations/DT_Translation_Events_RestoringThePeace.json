@@ -7,6 +7,13 @@
     "length": 20
   },
   {
+    "key": "restoring_the_peace_descr",
+    "en": "By the grace of His Royal Highness, the prince of this realm, you have been chosen to govern a land of great peril and promise. {br}{br}It has suffered long from the scourge of banditry, but there is another threat that looms over this land: an illegitimate baron who claims these territories as his own. {br}{br}Will you prove yourself worthy of this honor, or will you perish by the traitor’s steel? ",
+    "vi": "Nhờ ân điển của Hoàng thân xứ sở này, bạn được sắc phong tước vị Lãnh chúa và ban cho một dải đất để xây dựng thái ấp của riêng mình.{br}{br}Tuy nhiên, một Nam tước phản trắc từ nước láng giềng đã tự tiện tuyên bố chủ quyền trên toàn bộ các vùng đất còn lại.{br}{br}Hãy xây dựng quân đội, đánh đuổi hắn và lập lại hòa bình cho toàn cõi lãnh địa.",
+    "offset": 568,
+    "length": 403
+  },
+  {
     "key": "I_will_restore_peace",
     "en": "I vow to restore peace and prosperity to this land.",
     "vi": "Ta xin thề sẽ đem lại hòa bình và thịnh vượng cho mảnh đất này.",

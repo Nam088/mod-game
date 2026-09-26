@@ -2,7 +2,8 @@ import os
 import json
 import re
 
-trans_dir = r"D:\mod-game\Manor-Lords\translations"
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+trans_dir = os.path.join(CURRENT_DIR, "..", "translations")
 files = sorted([f for f in os.listdir(trans_dir) if f.endswith(".json")])
 
 print(f"Total translation files: {len(files)}")

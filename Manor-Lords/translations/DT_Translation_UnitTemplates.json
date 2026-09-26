@@ -23,14 +23,14 @@
   {
     "key": "militiaPole",
     "en": "Polearm Militia",
-    "vi": "Dân quân Vũ khí cán dài",
+    "vi": "Dân quân kích thủ",
     "offset": 1490,
     "length": 16
   },
   {
     "key": "crossbowMilitia",
     "en": "Crossbow Militia",
-    "vi": "Dân quân cầm nỏ",
+    "vi": "Dân quân nỏ thủ",
     "offset": 2070,
     "length": 17
   },
@@ -58,28 +58,28 @@
   {
     "key": "mercenary_archers",
     "en": "Light Mercenary Archers",
-    "vi": "Lính cầm cung đánh thuê",
+    "vi": "Cung thủ đánh thuê hạng nhẹ",
     "offset": 3469,
     "length": 24
   },
   {
     "key": "mercenary_spearmen",
     "en": "Light Mercenary Spearmen",
-    "vi": "Lính cầm giáo đánh thuê",
+    "vi": "Lính giáo đánh thuê hạng nhẹ",
     "offset": 4274,
     "length": 25
   },
   {
     "key": "mercenary_infantry",
     "en": "Light Mercenary Infantry",
-    "vi": "Lính cầm kiếm đánh thuê",
+    "vi": "Bộ binh đánh thuê hạng nhẹ",
     "offset": 5083,
     "length": 25
   },
   {
     "key": "mercenary_heavy_archers",
     "en": "Heavy Mercenary Archers",
-    "vi": "Lính cung giáp nặng đánh thuê",
+    "vi": "Cung thủ đánh thuê hạng nặng",
     "offset": 5893,
     "length": 24
   },
@@ -93,7 +93,7 @@
   {
     "key": "mercenary_crossbowmen",
     "en": "Light Mercenary Crossbowmen",
-    "vi": "Lính cầm nỏ đánh thuê",
+    "vi": "Xạ thủ nỏ đánh thuê hạng nhẹ",
     "offset": 7261,
     "length": 28
   }

@@ -14,13 +14,6 @@
     "length": 31
   },
   {
-    "key": "affinities_10496",
-    "en": "Inativo (sem trabalhadores designados)",
-    "vi": "Chưa kích hoạt (Chưa phân công thợ)",
-    "offset": 766,
-    "length": 39
-  },
-  {
     "key": "connected_affinities",
     "en": "Connected Affinities",
     "vi": "Đặc tính liên kết",
@@ -49,122 +42,171 @@
     "length": 8
   },
   {
+    "key": "wilding_descr",
+    "en": "<i>The meadow’s wild bloom fattens the hive.</>{br}{br}Chance to accumulate <h>yield</> is equal to the <img id=\"env_meadow\"/><h>Meadow Environment</>, while also supporting one <h>Apiary</> per 2%.",
+    "vi": "<i>Hoa đồng dại nở rộ nuôi đàn ong no béo.</>{br}{br}Tỷ lệ tích lũy <h>sản vật</> bằng với chỉ số <img id=\"env_meadow\"/> <h>Môi trường Đồng cỏ</>, đồng thời cứ mỗi 2% chỉ số này sẽ duy trì thêm được 1 <h>Trại nuôi ong</>.",
+    "offset": 14056,
+    "length": 199
+  },
+  {
     "key": "apiation",
     "en": "Apiation",
     "vi": "Nuôi ong lấy mật",
-    "offset": 19983,
+    "offset": 21560,
     "length": 9
+  },
+  {
+    "key": "apiation_descr",
+    "en": "<i>Tended hives magnify the meadow’s gift.</>{br}{br}Increases <h>Pollination</> strength by 2% per each active Apiary, up to 10%.",
+    "vi": "<i>Bầy ong được chăm sóc chu đáo sẽ khuếch đại món quà của đồng cỏ.</> {br}{br}Tăng hiệu quả <h>Thụ phấn hoa</> thêm 2% cho mỗi Trại nuôi ong đang hoạt động, tối đa lên tới 10%.",
+    "offset": 21910,
+    "length": 131
   },
   {
     "key": "pannage",
     "en": "Pannage",
     "vi": "Thả lợn ăn quả rừng",
-    "offset": 25233,
+    "offset": 26810,
     "length": 8
   },
   {
     "key": "pannage_descr",
-    "en": "<i>The swine grow fat on mast and acorn.</>{br}{br}<img id=\"ItemID_321\"/><h>Pigs</> time to yield decreases by an amount equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
-    "vi": "<i>Đàn lợn béo mầm nhờ quả sồi và hạt dẻ rừng.</> {br}{br}Thời gian xuất chuồng của <img id=\"ItemID_321\"/> <h>Lợn</> giảm một lượng tương đương chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
-    "offset": 25654,
-    "length": 186
+    "en": "<i>The swine grow fat on mast and acorn.</>{br}{br}<img id=\"ItemID_321\"/><h>Pigs</> yield speed increases by a rate proportional to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
+    "vi": "<i>Đàn lợn béo tốt nhờ hạt dẻ rừng và quả sồi rụng.</>{br}{br}Tốc độ cho thịt của <img id=\"ItemID_321\"/> <h>Lợn</> tăng tỷ lệ thuận với chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
+    "offset": 27231,
+    "length": 188
   },
   {
     "key": "teeming",
     "en": "Teeming",
     "vi": "Sinh sôi nảy nở",
-    "offset": 32313,
+    "offset": 33884,
     "length": 8
   },
   {
     "key": "teeming_descr",
     "en": "<i>A thriving ecosystem hums beneath the trees.</>{br}{br}Adds a chance for <img id=\"Animals\"/><h>Wild Animals</> to produce two offspring instead of one, and for <img id=\"Berries\"/><h>Berries</> and <img id=\"MushroomDeposit\"/><h>Mushrooms</> to grow one resource more per clump, equal to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
     "vi": "<i>Hệ sinh thái trù phú sinh sôi rộn rã dưới những tán cây.</> {br}{br}Tăng tỷ lệ <img id=\"Animals\"/> <h>Thú hoang</> sinh đôi thay vì sinh một con non, đồng thời <img id=\"Berries\"/> <h>Quả mọng</> và <img id=\"MushroomDeposit\"/> <h>Nấm</> mọc thêm một đơn vị mỗi bụi, tương đương chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
-    "offset": 32633,
+    "offset": 34204,
     "length": 345
   },
   {
     "key": "barkGathering",
     "en": "Bark Gathering",
     "vi": "Thu hoạch vỏ cây sồi",
-    "offset": 44642,
+    "offset": 46213,
     "length": 15
+  },
+  {
+    "key": "barkGathering_descr",
+    "en": "<i>From the trees’ rough skin, the tanner finds his due.</>{br}{br}<h>Tannery</> yield increased proportional to the <img id=\"env_woodland\"/><h>Woodland Environment</>.",
+    "vi": "<i>Từ lớp vỏ cây xù xì, thợ thuộc da tìm thấy nguồn sống của mình.</> {br}{br}Sản lượng của <h>Xưởng thuộc da</> tăng theo tỷ lệ tương ứng với chỉ số <img id=\"env_woodland\"/> <h>Môi trường Rừng rậm</>.",
+    "offset": 46656,
+    "length": 169
   },
   {
     "key": "localHandymen",
     "en": "Local Handymen",
     "vi": "Thợ thủ công địa phương",
-    "offset": 51182,
+    "offset": 52753,
     "length": 15
   },
   {
+    "key": "localHandymen_descr",
+    "en": "<i>Neighbors’ craft lightens the burden of upkeep.</>{br}{br}Increases the durability of <img id=\"maintenance\"/><h>Maintenance</> for Urban buildings equal to the <img id=\"env_urban\"/><h>Urban Environment</>.",
+    "vi": "<i>Tay nghề của láng giềng san sẻ bớt gánh nặng bảo trì.</> {br}{br}Giảm bớt tổng lượng <img id=\"maintenance\"/> <h>Tài nguyên bảo trì</> cần thiết theo tỷ lệ tương ứng với chỉ số <img id=\"env_urban\"/> <h>Môi trường Đô thị</>.",
+    "offset": 53324,
+    "length": 209
+  },
+  {
+    "key": "herbage",
+    "en": "Herbage",
+    "vi": "Thảm cỏ tươi",
+    "offset": 60484,
+    "length": 8
+  },
+  {
+    "key": "herbage_descr",
+    "en": "<i>Where grasses grow rich, the pasture answers in kind.</>{br}{br}Chance of increased yield from <img id=\"WoodenFence\"/><h>Pasture Animals</> based on the <img id=\"env_meadow\"/><h>Meadow Environment</> value.",
+    "vi": "<i>Nơi cỏ biếc tốt tươi, đồng cỏ chăn thả cũng đáp đền màu mỡ.</>{br}{br}Tỷ lệ tăng thêm sản lượng từ <img id=\"WoodenFence\"/> <h>Gia súc chăn thả</> dựa trên chỉ số <img id=\"env_meadow\"/> <h>Môi trường Đồng cỏ</>.",
+    "offset": 60872,
+    "length": 210
+  },
+  {
     "key": "---ENVIRONMENTS----",
+    "en": "",
+    "vi": "",
+    "offset": 68127,
+    "length": 0
+  },
+  {
+    "key": "meadow",
     "en": "Meadow",
     "vi": "Đồng cỏ",
-    "offset": 58999,
+    "offset": 68213,
     "length": 7
   },
   {
     "key": "meadow_descr",
     "en": "Gently rolling grasslands dotted with wildflowers vital for grazing, haymaking and healthy bee populations.",
     "vi": "Những triền cỏ thoai thoải điểm xuyết hoa dại, rất quan trọng cho việc chăn thả gia súc, phơi cỏ khô và nuôi dưỡng các đàn ong khỏe mạnh.",
-    "offset": 59249,
+    "offset": 68463,
     "length": 108
   },
   {
     "key": "woodland",
     "en": "Woodland",
     "vi": "Rừng rậm",
-    "offset": 63202,
+    "offset": 72394,
     "length": 9
   },
   {
     "key": "woodland_descr",
     "en": "Dense and shadowed, the forest teems with animal life and resources.",
     "vi": "Rừng rậm rạp và râm mát, tràn đầy các loài thú hoang dã và tài nguyên dồi dào.",
-    "offset": 63445,
+    "offset": 72637,
     "length": 69
   },
   {
     "key": "farmland",
     "en": "Farmland",
     "vi": "Đất nông nghiệp",
-    "offset": 65438,
+    "offset": 74626,
     "length": 9
   },
   {
     "key": "farmland_descr",
     "en": "Divided strips of soil, toiled to provide food, drink and clothing.",
     "vi": "Những luống cày chia ô, được dày công canh tác để cung cấp lương thực, đồ uống và sợi may mặc.",
-    "offset": 65804,
+    "offset": 74992,
     "length": 68
   },
   {
     "key": "rural",
     "en": "Rural",
     "vi": "Nông thôn",
-    "offset": 68185,
+    "offset": 77367,
     "length": 6
   },
   {
     "key": "rural_descr",
     "en": "Life here is shaped by the rhythm of harvests, lordly dues, and the slow churn of age-old customs.",
     "vi": "Cuộc sống nơi đây xoay quanh nhịp điệu của các vụ mùa thu hoạch, nghĩa vụ thuế khóa của lãnh chúa và những phong tục tập quán lâu đời.",
-    "offset": 68506,
+    "offset": 77688,
     "length": 99
   },
   {
     "key": "urban",
     "en": "Urban",
     "vi": "Thành thị",
-    "offset": 71522,
+    "offset": 80698,
     "length": 6
   },
   {
     "key": "urban_descr",
     "en": "Bustling city streets echo with the clang of the forges and the chatter of traders.",
     "vi": "Đường phố thị trấn nhộn nhịp rộn vang tiếng búa đe của lò rèn và tiếng râm ran ngã giá của các thương nhân.",
-    "offset": 71814,
+    "offset": 80990,
     "length": 84
   }
 ]

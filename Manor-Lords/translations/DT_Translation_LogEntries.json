@@ -7,7 +7,7 @@
     "length": 41
   },
   {
-    "key": "no_free_oxen",
+    "key": "animal_migration",
     "en": "Wild Animals have migrated.",
     "vi": "Thú hoang đã di cư sang nơi khác.",
     "offset": 1468,
@@ -112,13 +112,6 @@
     "length": 37
   },
   {
-    "key": "logentries_8448",
-    "en": "Het land wordt getroffen door droogte!",
-    "vi": "Vùng đất đang phải hứng chịu nạn hạn hán!",
-    "offset": 16664,
-    "length": 39
-  },
-  {
     "key": "drought_crops_died",
     "en": "Crop yields were damaged by drought!",
     "vi": "Sản lượng cây trồng bị thiệt hại nặng nề do hạn hán!",
@@ -128,7 +121,7 @@
   {
     "key": "pantry_full",
     "en": "Pantry is full",
-    "vi": "Tủ đựng thức ăn đã đầy",
+    "vi": "Kho lương thực đã đầy",
     "offset": 18078,
     "length": 15
   },
@@ -303,7 +296,7 @@
   {
     "key": "mercenary_company_paid",
     "en": "Mercenary Company paid",
-    "vi": "Đã trả lương cho Bang hội Đánh thuê",
+    "vi": "Đã trả lương cho Đoàn lính đánh thuê",
     "offset": 43381,
     "length": 23
   },
@@ -324,7 +317,7 @@
   {
     "key": "mercenaries_available",
     "en": "New Mercenary Companies available",
-    "vi": "Có thêm Bang hội Đánh thuê mới",
+    "vi": "Có thêm Đoàn lính đánh thuê mới",
     "offset": 45949,
     "length": 34
   },
@@ -393,100 +386,107 @@
   },
   {
     "key": "cant_find_space_for_weapon_storage",
-    "en": "Can't find a Storehouse for excess weapon storage",
-    "vi": "Không tìm thấy Kho vật tư để cất vũ khí dư thừa",
+    "en": "Can't find a Storehouse for excess weapon storage.",
+    "vi": "Không tìm thấy Kho vật tư để cất vũ khí dư thừa.",
     "offset": 55911,
-    "length": 50
+    "length": 51
   },
   {
     "key": "mule_required_for_barter",
-    "en": "A mule is required for high value barter",
-    "vi": "Cần có La để thực hiện các chuyến đổi hàng giá trị cao",
-    "offset": 57619,
-    "length": 41
-  },
-  {
-    "key": "log_retinue_arrived",
-    "en": "A new retinue has formed!",
-    "vi": "Đội cận vệ mới đã tập hợp!",
-    "offset": 45187,
-    "length": 26
+    "en": "A mule is required for high value barter.",
+    "vi": "Cần có La để thực hiện các chuyến đổi hàng giá trị cao.",
+    "offset": 57630,
+    "length": 42
   },
   {
     "key": "new_retinue_assembled",
     "en": "New Retinue assembled!",
     "vi": "Đội cận vệ mới đã tập hợp!",
-    "offset": 59239,
+    "offset": 59276,
     "length": 23
   },
   {
     "key": "family_left_town",
-    "en": "A Family has left the town",
-    "vi": "Một hộ gia đình đã rời bỏ thị trấn",
-    "offset": 60019,
-    "length": 27
+    "en": "A Family has left the town.",
+    "vi": "Một hộ gia đình đã rời bỏ thị trấn.",
+    "offset": 60056,
+    "length": 28
   },
   {
     "key": "family_turned_to_banditry",
     "en": "A Family has turned to Banditry!",
     "vi": "Một hộ gia đình đã tha hóa đi làm giặc cướp!",
-    "offset": 60958,
+    "offset": 61016,
     "length": 33
   },
   {
     "key": "not_enough_money_for_royal_taxes",
     "en": "Not enough Treasury for the Annual Royal Tax!",
     "vi": "Không đủ Ngân khố để nộp Thuế Hoàng gia hàng năm!",
-    "offset": 62086,
+    "offset": 62144,
     "length": 46
   },
   {
     "key": "royal_tax_paid",
     "en": "Annual Royal Taxes paid",
     "vi": "Đã nộp Thuế Hoàng gia hàng năm",
-    "offset": 64017,
+    "offset": 64075,
     "length": 24
   },
   {
     "key": "no_appropriate_storage_for_barter",
-    "en": "No valid storage for barter in this Region",
-    "vi": "Không có kho chứa phù hợp cho việc trao đổi hàng ở Vùng này",
-    "offset": 64998,
-    "length": 43
+    "en": "No valid storage for barter in this Region.",
+    "vi": "Không có kho chứa phù hợp cho việc trao đổi hàng ở Vùng này.",
+    "offset": 65056,
+    "length": 44
   },
   {
     "key": "royal_tax_unpaid",
     "en": "In debt to the King!",
-    "vi": "Đang nợ nần Nhà vua!",
-    "offset": 66705,
+    "vi": "Đang nợ thuế Hoàng gia!",
+    "offset": 66821,
     "length": 21
   },
   {
     "key": "crushed",
     "en": "A worker has been crushed in a collapsing building!",
     "vi": "Một thợ làm việc bị đè chết do công trình sập đổ!",
-    "offset": 67530,
+    "offset": 67646,
     "length": 52
   },
   {
     "key": "sheep_death",
     "en": "A sheep grazing at high elevation was found dead of the cold.",
     "vi": "Một con cừu gặm cỏ trên đồi cao bị chết cóng vì rét buốt.",
-    "offset": 69111,
+    "offset": 69227,
     "length": 62
   },
   {
     "key": "crafting_botched_missing_maintenance",
     "en": "Botched",
     "vi": "Chế tác hỏng",
-    "offset": 71264,
+    "offset": 71380,
     "length": 8
   },
   {
     "key": "crafting_botched_missing_maintenance_descr",
     "en": "Crafting botched due to missing maintenance.",
     "vi": "Chế tác bị hỏng do công trình thiếu bảo trì.",
-    "offset": 71592,
+    "offset": 71708,
     "length": 45
+  },
+  {
+    "key": "animal_death_hunger",
+    "en": "Animal starved to death.",
+    "vi": "Gia súc đã chết vì đói.",
+    "offset": 73341,
+    "length": 25
+  },
+  {
+    "key": "animal_death_hunger_descr",
+    "en": "",
+    "vi": "",
+    "offset": 74082,
+    "length": 0
   }
 ]

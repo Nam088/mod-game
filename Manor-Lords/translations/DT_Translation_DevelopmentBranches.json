@@ -65,7 +65,7 @@
   {
     "key": "forest_management_descr",
     "en": "Doubles capacity of all <img id=\"ItemID_171\"/> <h>WILD BERRIES</>.",
-    "vi": "Tăng gấp đôi sản lượng trữ lượng của tất cả các <img id=\"ItemID_171\"/> <h>BỤI QUẢ MỌNG</>.",
+    "vi": "Tăng gấp đôi trữ lượng của tất cả các <img id=\"ItemID_171\"/> <h>BỤI QUẢ MỌNG</>.",
     "offset": 10193,
     "length": 67
   },
@@ -170,7 +170,7 @@
   {
     "key": "trapping",
     "en": "Trapping",
-    "vi": "Đặt bẫy thú rừng",
+    "vi": "Đặt bẫy thú",
     "offset": 33085,
     "length": 9
   },
@@ -238,7 +238,7 @@
     "length": 66
   },
   {
-    "key": "trapping",
+    "key": "advanced_armormaking",
     "en": "Advanced Armormaking",
     "vi": "Rèn giáp nâng cao",
     "offset": 49178,
@@ -343,7 +343,7 @@
     "length": 12
   },
   {
-    "key": "developmentbranches_201",
+    "key": "devID_201",
     "en": "Locked in early access. Work in progress.",
     "vi": "Khóa trong giai đoạn Early Access. Tính năng đang phát triển.",
     "offset": 84216,

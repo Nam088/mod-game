@@ -2,14 +2,14 @@
   {
     "key": "Smallholdings",
     "en": "New Upgrade: Smallholding",
-    "vi": "Nâng cấp mới: Nông trang gia đình",
+    "vi": "Nâng cấp mới: Nông trại gia đình",
     "offset": 24,
     "length": 26
   },
   {
     "key": "Smallholdings_desc",
     "en": "Enables converting <img id=\"house\"/><h>Burgage Plots (Lv1)</> with <img id=\"extension\"/><h>Backyard Extensions</> into <h>Smallholdings</>. Like Artisans, Smallholding Families treat their backyards as a permanent job, increasing their <h>Yield</>.",
-    "vi": "Cho phép chuyển đổi <img id=\"house\"/> <h>Nhà dân (Cấp 1)</> có <img id=\"extension\"/> <h>Xưởng/vườn sân sau</> thành <h>Hộ làm nông chuyên trách</>. Giống như Thợ thủ công, các hộ này sẽ làm việc toàn thời gian tại vườn sân sau để tăng mạnh <h>Sản lượng</>.",
+    "vi": "Cho phép chuyển đổi <img id=\"house\"/> <h>Nhà dân (Cấp 1)</> có <img id=\"extension\"/> <h>Mở rộng sân sau</> thành <h>Khu chăn nuôi nhỏ</>. Giống như Thợ thủ công, các hộ này sẽ làm việc toàn thời gian tại sân sau để tăng mạnh <h>Sản lượng</>.",
     "offset": 918,
     "length": 249
   },
@@ -238,20 +238,6 @@
     "length": 95
   },
   {
-    "key": "MilitiaApprovalBonus",
-    "en": "Equipped Militia increases Approval",
-    "vi": "Dân quân đủ trang bị giúp tăng Lòng dân",
-    "offset": 90708,
-    "length": 35
-  },
-  {
-    "key": "MilitiaApprovalBonus_desc",
-    "en": "Receive a small amount of <img id=\"Approval\"/><h>Approval</> for every full and equipped Footmen or Spear Militia company.",
-    "vi": "Nhận thêm một lượng nhỏ <img id=\"Approval\"/> <h>Lòng dân</> cho mỗi Đại đội Dân quân cầm kiếm hoặc Dân quân cầm giáo đủ quân số và trang bị sẵn sàng.",
-    "offset": 91544,
-    "length": 124
-  },
-  {
     "key": "LocalHandymenAffinityBonus",
     "en": "Affinity: Local Handymen Bonus",
     "vi": "Tăng hiệu quả Thợ đa năng địa phương",
@@ -329,25 +315,11 @@
     "length": 28
   },
   {
-    "key": "perkeffects_29696",
-    "en": "Menor custo no planificador de castelo",
-    "vi": "Giảm chi phí Quy hoạch Lâu đài",
-    "offset": 109755,
-    "length": 39
-  },
-  {
     "key": "CastleCostReduction_desc",
     "en": "<h>Castle Planner</> construction cost: -30%.",
     "vi": "Chi phí xây dựng <h>Quy hoạch Lâu đài</>: -30%.",
     "offset": 110429,
     "length": 46
-  },
-  {
-    "key": "perkeffects_11776",
-    "en": "Bouwkosten <h>kasteelplanner</>: -30%.",
-    "vi": "Chi phí xây dựng <h>Quy hoạch Lâu đài</>: -30%.",
-    "offset": 111989,
-    "length": 39
   },
   {
     "key": "HuntingAndFishingProductivityPenalty",
@@ -561,6 +533,13 @@
   },
   {
     "key": "---DEPREC---",
+    "en": "",
+    "vi": "Tăng sản lượng nông sản",
+    "offset": 176763,
+    "length": 0
+  },
+  {
+    "key": "FertilityBonus",
     "en": "Bonus Crop Yields",
     "vi": "Tăng sản lượng nông sản",
     "offset": 176849,
@@ -812,7 +791,7 @@
     "length": 54
   },
   {
-    "key": "perkeffects_11776",
+    "key": "DecreasedLoggerSpeed",
     "en": "<r>Decreased logger speed</>",
     "vi": "<r>Giảm tốc độ xẻ gỗ</>",
     "offset": 242896,
@@ -1073,7 +1052,7 @@
   {
     "key": "ProficiencyApprovalBuff_Desc",
     "en": "Gain a flat amount of Proficiency in all buildings, that decays as you get further away from 50% approval",
-    "vi": "Nhận lượng lớn Độ thành thạo cho tất cả công trình, mức thưởng sẽ giảm dần nếu điểm Lòng dân chênh lệch xa mốc 50%",
+    "vi": "Nhận một lượng cố định Độ thành thạo cho tất cả công trình, mức thưởng này sẽ giảm dần khi tỷ lệ Lòng dân càng lệch xa mốc 50%",
     "offset": 316832,
     "length": 106
   },
@@ -1178,14 +1157,14 @@
   {
     "key": "UpgradeBurgagePlotsToTier1Industries",
     "en": "Upgrade Burgage Plots To Tier-1 Industries",
-    "vi": "Nâng cấp Nhà dân thành Cơ sở tiểu thủ nghiệp Cấp 1",
+    "vi": "Nâng cấp Nhà dân thành Cơ sở sản xuất Cấp 1",
     "offset": 350826,
     "length": 43
   },
   {
     "key": "UpgradeBurgagePlotsToTier1Industries_desc",
     "en": "Burgage plots can be upgraded into dedicated tier-1 industries (vegetable patches, chicken coops, etc)",
-    "vi": "Nhà dân có thể nâng cấp thành các cơ sở chuyên trách cấp 1 (vườn rau, chuồng gà, v.v.)",
+    "vi": "Nhà dân có thể nâng cấp thành các cơ sở sản xuất cấp 1 (vườn rau, chuồng gà, v.v.)",
     "offset": 352482,
     "length": 103
   },

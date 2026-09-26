@@ -70,42 +70,42 @@
     "length": 355
   },
   {
-    "key": "events_introduction_2",
+    "key": "settlement_level_changed_2",
     "en": "Settlement Level Reached: Small Village",
     "vi": "Đạt Cấp độ Định cư: Làng Nhỏ",
     "offset": 74327,
     "length": 40
   },
   {
-    "key": "events_introduction_3",
+    "key": "settlement_level_changed_3",
     "en": "Settlement Level Reached: Medium Village",
     "vi": "Đạt Cấp độ Định cư: Làng Vừa",
     "offset": 75522,
     "length": 41
   },
   {
-    "key": "events_introduction_4",
+    "key": "settlement_level_changed_4",
     "en": "Settlement Level Reached: Large Village",
     "vi": "Đạt Cấp độ Định cư: Làng Lớn",
     "offset": 76728,
     "length": 40
   },
   {
-    "key": "events_introduction_5",
+    "key": "settlement_level_changed_5",
     "en": "Settlement Level Reached: Small Town",
     "vi": "Đạt Cấp độ Định cư: Thị trấn Nhỏ",
     "offset": 77947,
     "length": 37
   },
   {
-    "key": "events_introduction_6",
+    "key": "settlement_level_changed_6",
     "en": "Settlement Level Reached: Medium Town",
     "vi": "Đạt Cấp độ Định cư: Thị trấn Vừa",
     "offset": 79205,
     "length": 38
   },
   {
-    "key": "events_introduction_7",
+    "key": "settlement_level_changed_7",
     "en": "Settlement Level Reached: Large Town",
     "vi": "Đạt Cấp độ Định cư: Thị trấn Lớn",
     "offset": 80417,

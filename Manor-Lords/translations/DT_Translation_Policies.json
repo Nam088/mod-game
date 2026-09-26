@@ -1,6 +1,6 @@
 [
   {
-    "key": "policies_3",
+    "key": "policyID_3",
     "en": "Hunting grounds",
     "vi": "Khu vực săn bắn đặc quyền",
     "offset": 24,
@@ -9,12 +9,12 @@
   {
     "key": "policyID_2_descr",
     "en": "<h>WILD ANIMALS</> on <h>RICH DEPOSITS</> breed twice as fast, at the cost of 50% reduced yields from <h>CROPS</>.",
-    "vi": "<h>THÚ HOANG</> tại <h>MỎ TRỮ LƯỢNG LỚN</> sinh sản nhanh gấp đôi, nhưng làm giảm 50% sản lượng từ <h>NÔNG SẢN</>.",
+    "vi": "<h>THÚ HOANG</> tại <h>BÃI THÚ DỒI DÀO</> sinh sản nhanh gấp đôi, nhưng làm giảm 50% sản lượng từ <h>NÔNG SẢN</>.",
     "offset": 449,
     "length": 115
   },
   {
-    "key": "policies_12",
+    "key": "policyID_12",
     "en": "Small land tax",
     "vi": "Thuế đất nhỏ",
     "offset": 4955,
@@ -28,7 +28,7 @@
     "length": 142
   },
   {
-    "key": "policies_13",
+    "key": "policyID_13",
     "en": "Strict fasting",
     "vi": "Ăn chay nghiêm ngặt",
     "offset": 10338,
@@ -42,7 +42,7 @@
     "length": 88
   },
   {
-    "key": "policies_15",
+    "key": "policyID_15",
     "en": "Tithe",
     "vi": "Thuế Thập phân (Thuế 1/10)",
     "offset": 14229,
@@ -63,14 +63,7 @@
     "length": 23
   },
   {
-    "key": "policies_29184",
-    "en": "Bloqueado durante el acceso anticipado",
-    "vi": "Khóa trong giai đoạn Early Access",
-    "offset": 19537,
-    "length": 39
-  },
-  {
-    "key": "policies_16",
+    "key": "policyID_16",
     "en": "Coinage",
     "vi": "Đúc tiền riêng",
     "offset": 20269,
@@ -84,14 +77,7 @@
     "length": 33
   },
   {
-    "key": "policies_11780",
-    "en": "+10 % skatter, -10 % regional velstand",
-    "vi": "+10% Tiền thuế thu được, -10% Tài sản vùng",
-    "offset": 21795,
-    "length": 39
-  },
-  {
-    "key": "policies_17",
+    "key": "policyID_17",
     "en": "Guild Brotherhoods",
     "vi": "Hội Ái hữu Phường hội",
     "offset": 21934,
@@ -105,7 +91,7 @@
     "length": 78
   },
   {
-    "key": "policies_18",
+    "key": "policyID_18",
     "en": "Public Weapons Ban",
     "vi": "Cấm vũ khí nơi công cộng",
     "offset": 25058,
@@ -119,7 +105,7 @@
     "length": 52
   },
   {
-    "key": "policies_19",
+    "key": "policyID_19",
     "en": "Purchase Privilage",
     "vi": "Đặc quyền mua nguyên liệu",
     "offset": 27633,

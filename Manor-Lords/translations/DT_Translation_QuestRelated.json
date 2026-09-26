@@ -49,13 +49,6 @@
     "length": 35
   },
   {
-    "key": "questrelated_30976",
-    "en": "Bereik nederzettingsniveau: grote stad",
-    "vi": "Đạt cấp độ định cư: Thị trấn Lớn",
-    "offset": 4753,
-    "length": 39
-  },
-  {
     "key": "objective_conquer_all",
     "en": "Hold claim to all of the regions",
     "vi": "Nắm giữ chủ quyền toàn bộ các Vùng đất",
@@ -89,13 +82,6 @@
     "vi": "Cấp độ định cư đã tăng lên",
     "offset": 7683,
     "length": 27
-  },
-  {
-    "key": "questrelated_29696",
-    "en": "Ha aumentado el nivel del asentamiento",
-    "vi": "Cấp độ định cư đã tăng lên",
-    "offset": 7848,
-    "length": 39
   },
   {
     "key": "new_development_point",

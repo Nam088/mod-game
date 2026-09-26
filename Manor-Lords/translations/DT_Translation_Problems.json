@@ -1,8 +1,8 @@
 [
   {
-    "key": "problems_1",
+    "key": "problemID_1",
     "en": "Hunger",
-    "vi": "Đói bụng",
+    "vi": "Đói khát",
     "offset": 24,
     "length": 7
   },
@@ -14,9 +14,9 @@
     "length": 70
   },
   {
-    "key": "problems_2",
+    "key": "problemID_2",
     "en": "Cold",
-    "vi": "Bị lạnh",
+    "vi": "Giá rét",
     "offset": 2728,
     "length": 5
   },
@@ -28,7 +28,7 @@
     "length": 133
   },
   {
-    "key": "problems_6",
+    "key": "problemID_6",
     "en": "Crop not selected",
     "vi": "Chưa chọn loại cây trồng",
     "offset": 7745,
@@ -42,9 +42,9 @@
     "length": 73
   },
   {
-    "key": "problems_10",
+    "key": "problemID_10",
     "en": "Death",
-    "vi": "Có người chết",
+    "vi": "Thi thể chưa an táng",
     "offset": 10781,
     "length": 6
   },
@@ -56,374 +56,423 @@
     "length": 127
   },
   {
-    "key": "problems_14",
-    "en": "Not enough pasture space",
-    "vi": "Thiếu chỗ đồng cỏ chăn thả",
+    "key": "problemID_14",
+    "en": "Not enough Pasture Space",
+    "vi": "Thiếu chỗ trên Đồng cỏ chăn thả",
     "offset": 15544,
     "length": 25
   },
   {
-    "key": "problems_25856",
-    "en": "No hay suficiente espacio en pasturas.",
-    "vi": "Thiếu chỗ đồng cỏ chăn thả",
-    "offset": 15717,
-    "length": 39
-  },
-  {
     "key": "problemID_13_descr",
-    "en": "Build more pastures or the livestock might run away.",
-    "vi": "Hãy rào thêm đồng cỏ, nếu không gia súc có thể chạy mất.",
-    "offset": 16426,
-    "length": 53
+    "en": "Build more <h>pastures</> or the livestock might run away.",
+    "vi": "Hãy rào thêm <h>đồng cỏ chăn thả</>, nếu không gia súc có thể bỏ chạy mất.",
+    "offset": 16424,
+    "length": 59
   },
   {
-    "key": "problems_19",
+    "key": "problemID_19",
     "en": "Homelessness",
     "vi": "Vô gia cư",
-    "offset": 18155,
+    "offset": 18387,
     "length": 13
   },
   {
     "key": "problemID_18_descr",
     "en": "These people wait for more <img id=\"house\"/><h>Burgage Plots</>. {br}{br}Homeless Families cause a loss of <img id=\"Approval\"/><h>Approval</>, may potentially <r>freeze</> during Winter and may not be raised as part of Militia units.",
     "vi": "Những người này đang chờ xây thêm <img id=\"house\"/> <h>Nhà dân</>. {br}{br}Hộ dân vô gia cư sẽ làm tụt <img id=\"Approval\"/> <h>Lòng dân</>, có nguy cơ <r>chết cóng</> vào mùa đông và không thể tòng quân vào Dân quân.",
-    "offset": 18567,
+    "offset": 18799,
     "length": 234
   },
   {
-    "key": "problems_21",
+    "key": "problemID_21",
     "en": "Burgage Plot Upgrade Available",
     "vi": "Nhà dân đã đủ điều kiện nâng cấp",
-    "offset": 26661,
+    "offset": 26893,
     "length": 31
   },
   {
     "key": "problemID_20_descr",
     "en": "By upgrading a <img id=\"house\"/><h>Burgage Plot</>, you increase the potential for more <h>Artisan Professions</>, <img id=\"ItemID_0\"/><h>Regional Wealth</>, <img id=\"LivingSpace\"/><h>Living Space</> and gain opportunities to increase <img id=\"Approval\"/><h>Approval</> by fulfilling more demanding <img id=\"Requirements\"/><h>Residential Requirements</>.",
     "vi": "Nâng cấp <img id=\"house\"/> <h>Nhà dân</> giúp mở khóa các <h>Xưởng thủ công</>, tăng <img id=\"ItemID_0\"/> <h>Tài sản vùng</>, tăng <img id=\"LivingSpace\"/> <h>Chỗ ở</> và có cơ hội nâng cao <img id=\"Approval\"/> <h>Lòng dân</> khi đáp ứng các <img id=\"Requirements\"/> <h>Nhu cầu của Dân làng</> cao hơn.",
-    "offset": 27766,
+    "offset": 27998,
     "length": 355
   },
   {
-    "key": "problems_23",
+    "key": "problemID_23",
     "en": "Not enough supplies",
     "vi": "Không đủ đồ dự trữ",
-    "offset": 39728,
+    "offset": 39960,
     "length": 20
   },
   {
     "key": "problemID_22_descr",
     "en": "This settlement either needs more <img id=\"Food\"/><h>Food</>, or more <img id=\"Fuel\"/><h>Fuel</>. Check the <img id=\"Supplies\"/><h>Supplies</> tooltip for more details.",
     "vi": "Khu định cư này đang thiếu <img id=\"Food\"/> <h>Lương thực</> hoặc thiếu <img id=\"Fuel\"/> <h>Chất đốt</>. Xem bảng chú giải <img id=\"Supplies\"/> <h>Đồ tiếp tế</> để biết thêm chi tiết.",
-    "offset": 40408,
+    "offset": 40640,
     "length": 169
   },
   {
-    "key": "problems_25",
+    "key": "problemID_25",
     "en": "No drinking water access",
     "vi": "Không có nguồn nước uống",
-    "offset": 46409,
+    "offset": 46641,
     "length": 25
   },
   {
     "key": "problemID_24_descr",
     "en": "People request a <h>Well</>. If not provided, it will cause a loss of <img id=\"Approval\"/><h>Approval</>.",
     "vi": "Dân làng đang cần một chiếc <h>Giếng nước</>. Nếu không đáp ứng, điểm <img id=\"Approval\"/> <h>Lòng dân</> sẽ bị tụt giảm.",
-    "offset": 47253,
+    "offset": 47485,
     "length": 106
   },
   {
-    "key": "problems_26",
+    "key": "problemID_26",
     "en": "No farmhouse",
-    "vi": "Chưa có Nông trang",
-    "offset": 51143,
+    "vi": "Chưa có Nông trại",
+    "offset": 51375,
     "length": 13
   },
   {
     "key": "problemID_25_descr",
     "en": "You need a <h>Farmhouse</> to employ workers on <h>Fields</>.",
-    "vi": "Bạn cần xây một <h>Nông trang</> để điều phối nông dân ra làm việc trên <h>Cánh đồng</>.",
-    "offset": 51641,
+    "vi": "Bạn cần xây một <h>Nông trại</> để điều phối nông dân ra làm việc trên <h>Cánh đồng</>.",
+    "offset": 51873,
     "length": 62
   },
   {
-    "key": "problems_27",
+    "key": "problemID_27",
     "en": "No fields to work",
     "vi": "Không có đồng ruộng để canh tác",
-    "offset": 54091,
+    "offset": 54323,
     "length": 18
   },
   {
     "key": "problemID_26_descr",
     "en": "Plot more <h>Fields</> so that the <h>Farmhouse</> workers can begin working the land.",
-    "vi": "Hãy quy hoạch thêm <h>Cánh đồng</> để nông dân tại <h>Nông trang</> có đất gieo trồng.",
-    "offset": 54682,
+    "vi": "Hãy quy hoạch thêm <h>Cánh đồng</> để nông dân tại <h>Nông trại</> có đất gieo trồng.",
+    "offset": 54914,
     "length": 87
   },
   {
-    "key": "problems_28",
+    "key": "problemID_28",
     "en": "Backyard Extension Available",
-    "vi": "Có thể xây thêm Xưởng/vườn sân sau",
-    "offset": 57793,
+    "vi": "Có thể mở rộng sân sau",
+    "offset": 58025,
     "length": 29
   },
   {
     "key": "problemID_27_descr",
     "en": "A <img id=\"extension\"/><h>Backyard Extension</> allows <img id=\"worker\"/><h>Families</> to produce additional resources, or specialize and become <h>Artisans</> with dedicated, highly skilled professions.",
-    "vi": "<img id=\"extension\"/> <h>Xưởng/vườn sân sau</> cho phép <img id=\"worker\"/> <h>Hộ dân</> sản xuất thêm tài nguyên hoặc chuyên môn hóa trở thành <h>Thợ thủ công</> lành nghề.",
-    "offset": 58769,
+    "vi": "<img id=\"extension\"/> <h>Mở rộng sân sau</> cho phép <img id=\"worker\"/> <h>Hộ dân</> sản xuất thêm tài nguyên hoặc chuyên môn hóa trở thành <h>Thợ thủ công</> lành nghề.",
+    "offset": 59001,
     "length": 205
   },
   {
-    "key": "problems_29",
+    "key": "problemID_29",
     "en": "Work area is empty",
     "vi": "Vùng làm việc đã hết tài nguyên",
-    "offset": 65336,
+    "offset": 65568,
     "length": 19
   },
   {
     "key": "problemID_28_descr",
     "en": "Workers can't find anything to gather within their work area, at least for now.",
     "vi": "Thợ không còn gì để thu thập trong phạm vi làm việc chỉ định.",
-    "offset": 66037,
+    "offset": 66269,
     "length": 80
   },
   {
-    "key": "problems_31",
+    "key": "problemID_31",
     "en": "Disconnected from the major trade routes",
     "vi": "Chưa nối đường ra Tuyến giao thương chính",
-    "offset": 68747,
+    "offset": 68979,
     "length": 41
   },
   {
     "key": "problemID_30_descr",
     "en": "Connect the building to the King's Road. Otherwise, it won't attract any <h>Travelling Merchants</>.",
-    "vi": "Hãy nối đường đi từ công trình này ra Trục đường chính (King's Road), nếu không các <h>Thương nhân</> sẽ không thể ghé qua.",
-    "offset": 69981,
+    "vi": "Hãy nối đường đi từ công trình này ra Đường Hoàng gia, nếu không các <h>Thương nhân</> sẽ không thể ghé qua.",
+    "offset": 70213,
     "length": 101
   },
   {
-    "key": "problems_32",
+    "key": "problemID_32",
     "en": "Generic Storage full",
     "vi": "Kho vật tư đã đầy",
-    "offset": 73090,
+    "offset": 73322,
     "length": 21
   },
   {
     "key": "problemID_31_descr",
     "en": "Excess goods need to be moved to a <img id=\"GenericStorage\"/><h>Storehouse</>. Otherwise, workers may stop production, and the overflowing storage is vulnerable to <r>weather damage</>.",
     "vi": "Hàng hóa dư thừa cần chuyển vào <img id=\"GenericStorage\"/> <h>Kho vật tư</>. Nếu không, thợ sẽ ngừng sản xuất và hàng để ngoài trời dễ bị <r>hư hại do thời tiết</>.",
-    "offset": 73836,
+    "offset": 74068,
     "length": 186
   },
   {
-    "key": "problems_33",
+    "key": "problemID_33",
     "en": "Pantry is full",
     "vi": "Kho lương thực đã đầy",
-    "offset": 80449,
+    "offset": 80681,
     "length": 15
   },
   {
     "key": "problemID_32_descr",
     "en": "Excess food needs to be moved to a <img id=\"Pantry\"/><h>Granary</>. Otherwise, workers may stop production, and the overflowing storage is vulnerable to <r>weather damage</>.",
     "vi": "Thức ăn dư thừa cần chuyển vào <img id=\"Pantry\"/> <h>Kho lương thực</>. Nếu không, thợ sẽ ngừng sản xuất và thức ăn để ngoài trời dễ bị <r>hư hỏng, ôi thiu</>.",
-    "offset": 81058,
+    "offset": 81290,
     "length": 175
   },
   {
-    "key": "problems_34",
+    "key": "problemID_34",
     "en": "Exposed goods (Generic Storage)",
     "vi": "Vật tư để ngoài trời (Nguy cơ hỏng)",
-    "offset": 87429,
+    "offset": 87661,
     "length": 32
   },
   {
     "key": "problemID_33_descr",
     "en": "Goods stored here are vulnerable to <r>weather damage</> and need to be moved to a <img id=\"GenericStorage\"/><h>Storehouse</>.",
     "vi": "Hàng hóa để ở đây dễ bị <r>hư hại do thời tiết</> và cần được chuyển gấp vào <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
-    "offset": 88504,
+    "offset": 88736,
     "length": 127
   },
   {
-    "key": "problems_35",
+    "key": "problemID_35",
     "en": "Exposed goods (Pantry)",
     "vi": "Lương thực để ngoài trời (Nguy cơ hỏng)",
-    "offset": 92869,
+    "offset": 93101,
     "length": 23
   },
   {
     "key": "problemID_34_descr",
     "en": "Goods stored here are vulnerable to <r>weather damage</> and may <r>spoil</> more easily. They need to be moved to a <img id=\"Pantry\"/><h>Granary</>.",
     "vi": "Lương thực để ở đây dễ bị <r>hư hại do thời tiết</> và rất nhanh <r>ôi thiu</>. Cần chuyển gấp vào <img id=\"Pantry\"/> <h>Kho lương thực</>.",
-    "offset": 93822,
+    "offset": 94054,
     "length": 150
   },
   {
-    "key": "problems_38",
-    "en": "Not enough Stable Space",
-    "vi": "Thiếu chỗ chuồng trại cho gia súc",
-    "offset": 99135,
-    "length": 24
+    "key": "problemID_36",
+    "en": "Missing Ox Guide",
+    "vi": "Thiếu người dắt bò kéo",
+    "offset": 99367,
+    "length": 17
   },
   {
-    "key": "problems_25856",
-    "en": "No hay suficiente espacio en establos.",
+    "key": "problemID_35_descr",
+    "en": "An <img id=\"Ox\"/><h>Ox</> has a task but has no guide.{br}{br}<img id=\"builders\"/><h>Unassigned Families</> will attempt to guide Oxen, or <img id=\"Families\"/><h>Families</> can become dedicated <h>Ox Guides</> when assigned to a <h>Hitching Post</> or <h>Stable</>.",
+    "vi": "Một con <img id=\"Ox\"/> <h>Bò kéo</> có nhiệm vụ vận chuyển nhưng không có người dẫn dắt.{br}{br}Các <img id=\"builders\"/> <h>Hộ dân chưa phân công</> sẽ cố gắng đi dắt bò, hoặc các <img id=\"Families\"/> <h>Hộ dân</> có thể trở thành <h>Người dắt bò</> chuyên trách khi được cắt cử vào <h>Cọc buộc ngựa</> hoặc <h>Chuồng trại</>.",
+    "offset": 100004,
+    "length": 267
+  },
+  {
+    "key": "problemID_38",
+    "en": "Not enough Stable Space",
     "vi": "Thiếu chỗ chuồng trại cho gia súc",
-    "offset": 99307,
-    "length": 39
+    "offset": 109874,
+    "length": 24
   },
   {
     "key": "problemID_37_descr",
     "en": "Build more <h>Hitching Posts</>, or upgrade one to a <h>Stable</>. Otherwise, some livestock may run away.",
     "vi": "Hãy xây thêm <h>Cọc buộc gia súc</> hoặc nâng cấp thành <h>Chuồng gia súc</>, nếu không một số gia súc có thể đi lạc mất.",
-    "offset": 99949,
+    "offset": 110688,
     "length": 107
   },
   {
-    "key": "problems_256",
+    "key": "problemID_39",
     "en": "Approval critically low",
     "vi": "Lòng dân giảm xuống mức báo động!",
-    "offset": 103399,
+    "offset": 114138,
     "length": 24
   },
   {
     "key": "problemID_38_descr",
     "en": "Families may start <r>leaving the settlement</>.",
     "vi": "Các hộ dân có thể sẽ bắt đầu <r>bỏ đi khỏi khu định cư</>.",
-    "offset": 104322,
+    "offset": 115061,
     "length": 49
   },
   {
-    "key": "problems_40",
+    "key": "problemID_40",
     "en": "Requirements not met",
     "vi": "Chưa đáp ứng đủ nhu cầu",
-    "offset": 105934,
+    "offset": 116673,
     "length": 21
   },
   {
     "key": "problemID_39_descr",
     "en": "This <img id=\"house\"/><h>Burgage Plots</> is causing a loss of <img id=\"Approval\"/><h>Approval</>. Check it's <h>Residential Requirements</> for details.",
     "vi": "<img id=\"house\"/> <h>Nhà dân</> này đang làm sụt giảm <img id=\"Approval\"/> <h>Lòng dân</>. Hãy kiểm tra mục <h>Nhu cầu của Dân làng</> để biết chi tiết.",
-    "offset": 106635,
+    "offset": 117374,
     "length": 154
   },
   {
-    "key": "problems_41",
+    "key": "problemID_41",
     "en": "Unassigned Families are needed for construction work.",
     "vi": "Cần có Hộ dân nhàn rỗi để làm công việc xây dựng.",
-    "offset": 111827,
+    "offset": 122566,
     "length": 54
   },
   {
     "key": "problemID_40_descr",
     "en": "Unassign at least one <img id=\"worker\"/><h>Family</> from their workplace so that they can take over the construction.",
     "vi": "Hãy rút bớt ít nhất một <img id=\"worker\"/> <h>Hộ dân</> khỏi chỗ làm việc để họ rảnh tay đi thi công công trình.",
-    "offset": 113565,
+    "offset": 124304,
     "length": 119
   },
   {
-    "key": "problems_42",
+    "key": "problemID_42",
     "en": "No free Oxen",
     "vi": "Không có Bò kéo rảnh rỗi",
-    "offset": 117358,
+    "offset": 128097,
     "length": 13
   },
   {
     "key": "problemID_41_descr",
-    "en": "Unassigned Oxen are needed for construction work",
-    "vi": "Cần có Bò kéo chưa phân công để kéo gỗ thi công công trình",
-    "offset": 117944,
-    "length": 49
+    "en": "Available <img id=\"Ox\"/><h>Oxen</> are needed for construction work. <img id=\"Ox\"/><h>Oxen</> assigned to the <h>Construction Yard</> or <h>Unassigned</> from any Workplace will help out in construction.",
+    "vi": "Cần có sẵn <img id=\"Ox\"/> <h>Bò kéo</> để kéo gỗ thi công công trình. <img id=\"Ox\"/> <h>Bò kéo</> được phân công vào <h>Công trường xây dựng</> hoặc <h>Chưa phân công</> ở bất kỳ nơi làm việc nào đều sẽ tham gia phụ giúp xây dựng.",
+    "offset": 128683,
+    "length": 204
   },
   {
-    "key": "problems_43",
+    "key": "problemID_43",
     "en": "Bad logistics",
     "vi": "Năng lực vận chuyển kém",
-    "offset": 119588,
+    "offset": 135605,
     "length": 14
   },
   {
     "key": "problemID_42_descr",
     "en": "Try assigning more <img id=\"worker\"><h>Families</> to <img id=\"GenericStorage\"/><h>Storehouse</> or <img id=\"Pantry\"/><h>Granary</>  to improve your <h>Marketplace</> logistics.",
-    "vi": "Hãy phân công thêm <img id=\"worker\"><h>Hộ dân</> vào <img id=\"GenericStorage\"/> <h>Kho vật tư</> hoặc <img id=\"Pantry\"/> <h>Kho lương thực</> để cải thiện việc cung ứng hàng hóa ra <h>Khu chợ</>.",
-    "offset": 120138,
+    "vi": "Hãy phân công thêm <img id=\"worker\"/> <h>Hộ dân</> vào <img id=\"GenericStorage\"/> <h>Kho vật tư</> hoặc <img id=\"Pantry\"/> <h>Kho lương thực</> để cải thiện việc cung ứng hàng hóa ra <h>Khu chợ</>.",
+    "offset": 136155,
     "length": 178
   },
   {
-    "key": "problems_48",
+    "key": "problemID_48",
     "en": "Bodies need burial",
     "vi": "Thi thể cần được an táng",
-    "offset": 126075,
+    "offset": 142092,
     "length": 19
   },
   {
     "key": "problemID_47_descr",
     "en": "Villagers require to be buried on <h>Hallowed Ground</> of the <h>Church</>, while raiders may be dumped into the <h>Corpse Pit</>. Make sure you have a <img id=\"worker\"><h>Family</> assigned to either to handle the dead.",
-    "vi": "Dân làng cần được chôn cất nơi <h>Đất thánh</> tại <h>Nhà thờ</>, còn xác giặc cướp có thể vứt xuống <h>Hố chôn xác</>. Hãy đảm bảo bạn đã phân công <img id=\"worker\"><h>Hộ dân</> làm công việc mai táng.",
-    "offset": 126900,
+    "vi": "Dân làng cần được chôn cất nơi <h>Đất thánh</> tại <h>Nhà thờ</>, còn xác giặc cướp có thể vứt xuống <h>Hố chôn xác</>. Hãy đảm bảo bạn đã phân công <img id=\"worker\"/> <h>Hộ dân</> làm công việc mai táng.",
+    "offset": 142917,
     "length": 222
   },
   {
-    "key": "problems_49",
+    "key": "problemID_49",
     "en": "Access limit reached",
     "vi": "Đạt giới hạn người ra vào cùng lúc",
-    "offset": 133872,
+    "offset": 149889,
     "length": 21
   },
   {
     "key": "problemID_48_descr",
     "en": "A lot of people are trying to access this building at the same time. Transport might be slower than usual.",
     "vi": "Có quá nhiều người đang cố gắng ra vào công trình này cùng một lúc. Tốc độ vận chuyển có thể chậm hơn bình thường.",
-    "offset": 134668,
+    "offset": 150685,
     "length": 107
   },
   {
-    "key": "problems_50",
+    "key": "ProblemID_50",
     "en": "Not enough Construction Materials",
     "vi": "Không đủ vật liệu xây dựng",
-    "offset": 138178,
+    "offset": 154195,
     "length": 34
   },
   {
     "key": "ProblemID_49_descr",
     "en": "The resources intended for use in this building's construction have been reallocated to a recently activated production building. You'll need to produce more resources to complete this construction.",
     "vi": "Tài nguyên dự kiến dùng để xây công trình này đã bị điều chuyển sang một công trình sản xuất vừa mới kích hoạt. Bạn cần sản xuất thêm tài nguyên để hoàn thành việc thi công.",
-    "offset": 139171,
+    "offset": 155188,
     "length": 199
   },
   {
-    "key": "problems_51",
+    "key": "problemID_51",
     "en": "Building requires Maintenance",
     "vi": "Công trình cần được bảo trì",
-    "offset": 145109,
+    "offset": 161126,
     "length": 30
   },
   {
     "key": "problemID_50_descr",
     "en": "This building requires maintenance and may not produce as efficiently or potentially collapse.",
     "vi": "Công trình này cần được sửa chữa bảo dưỡng, nếu không năng suất sẽ giảm hoặc có nguy cơ sập đổ.",
-    "offset": 146052,
+    "offset": 162069,
     "length": 95
   },
   {
-    "key": "problems_52",
+    "key": "problemID_52",
     "en": "Missing skilled workers!",
     "vi": "Thiếu thợ xây lành nghề!",
-    "offset": 149265,
+    "offset": 165282,
     "length": 25
-  },
-  {
-    "key": "problems_8448",
-    "en": "Falta de trabalhadores especializados!",
-    "vi": "Thiếu thợ xây lành nghề!",
-    "offset": 149580,
-    "length": 39
   },
   {
     "key": "problemID_51_descr",
     "en": "To complete construction of this Advanced Structure, at least one Family must be Assigned to a Construction Yard. ",
     "vi": "Để hoàn thành công trình cấp cao này, phải có ít nhất một Hộ dân được phân công vào Công trường.",
-    "offset": 150211,
+    "offset": 166228,
     "length": 115
+  },
+  {
+    "key": "problemID_53",
+    "en": "Pasture Animals are starving!",
+    "vi": "Gia súc chăn thả đang chết đói!",
+    "offset": 169983,
+    "length": 30
+  },
+  {
+    "key": "problemID_52_descr",
+    "en": "Animals on a <img id=\"WoodenFence\"/><h>Pasture</> are <r>starving</> and require <img id=\"itemID_351\"/><h>Animal Feed</>.{br}{br}The <h>Livestock Farm</> can produce <img id=\"itemID_351\"/><h>Animal Feed</> from <img id=\"itemID_349\"/><h>Oats</>. Alternatively, you can <h>slaughter</> your animals at the <h>Butcher</>.",
+    "vi": "Gia súc trên <img id=\"WoodenFence\"/> <h>Đồng cỏ chăn thả</> đang <r>chết đói</> và cần được tiếp tế <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</>.{br}{br}<h>Trại chăn nuôi gia súc</> có thể sản xuất <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</> từ <img id=\"itemID_349\"/> <h>Yến mạch</>. Ngoài ra, bạn cũng có thể mang gia súc đi <h>xẻ thịt</> tại <h>Xưởng xẻ thịt</>.",
+    "offset": 170998,
+    "length": 319
+  },
+  {
+    "key": "problemID_54",
+    "en": "No Active Recipe",
+    "vi": "Chưa chọn món chế tác",
+    "offset": 181411,
+    "length": 17
+  },
+  {
+    "key": "problemID_53_descr",
+    "en": "This <h>Artisan</> has no <h>Active Recipe</> set. Select one from the 'General' Tab to begin production.",
+    "vi": "<h>Thợ thủ công</> này chưa chọn <h>Món chế tác</>. Hãy chọn một món trong thẻ 'Tổng quan' để bắt đầu sản xuất.",
+    "offset": 181974,
+    "length": 106
+  },
+  {
+    "key": "problemID_55",
+    "en": "Construction outside Work Area",
+    "vi": "Công trình nằm ngoài khu vực làm việc",
+    "offset": 185867,
+    "length": 31
+  },
+  {
+    "key": "problemID_54_descr",
+    "en": "This Construction Site is unreachable by construction workers due to a Limited Work Area. ",
+    "vi": "Thợ xây không thể tiếp cận Công trường này do thiết lập Phạm vi làm việc giới hạn.",
+    "offset": 186906,
+    "length": 91
+  },
+  {
+    "key": "problemID_56",
+    "en": "Target Stock Exceeded",
+    "vi": "Vượt quá lượng dự trữ mục tiêu",
+    "offset": 189940,
+    "length": 22
+  },
+  {
+    "key": "problemID_55_descr",
+    "en": "No storage space available for undesired goods. Increase the <h>Target Stock</> or build an additional <img id=\"GenericStorage\"/><h>Storehouse</>.",
+    "vi": "Không còn chỗ chứa cho các mặt hàng không mong muốn. Hãy tăng <h>Lượng dự trữ mục tiêu</> hoặc xây thêm <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
+    "offset": 190681,
+    "length": 147
   }
 ]

@@ -187,5 +187,12 @@
     "vi": "Nguồn nước",
     "offset": 9013,
     "length": 13
+  },
+  {
+    "key": "EItemSubcategory::AnimalFeed",
+    "en": "Fodder",
+    "vi": "Thức ăn chăn nuôi",
+    "offset": 9490,
+    "length": 7
   }
 ]

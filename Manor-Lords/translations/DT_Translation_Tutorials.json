@@ -98,21 +98,21 @@
     "length": 12
   },
   {
-    "key": "confirm_button",
+    "key": "old_constr_work_DEPREC",
+    "en": "",
+    "vi": "",
+    "offset": 6197,
+    "length": 0
+  },
+  {
+    "key": "skip_future_tutorials",
     "en": "Skip all future Tutorials",
     "vi": "Bỏ qua toàn bộ hướng dẫn sau này",
     "offset": 6283,
     "length": 26
   },
   {
-    "key": "tutorials_11776",
-    "en": "Passer tous les didacticiels suivants.",
-    "vi": "Bỏ qua toàn bộ hướng dẫn sau này",
-    "offset": 6569,
-    "length": 39
-  },
-  {
-    "key": "tutorial_tradingPost_descr",
+    "key": "confirm_button",
     "en": "Got it",
     "vi": "Đã hiểu",
     "offset": 7247,
@@ -133,7 +133,7 @@
     "length": 15
   },
   {
-    "key": "tutorials_1",
+    "key": "house_position_1",
     "en": "House Location",
     "vi": "Vị trí nhà ở",
     "offset": 8691,
@@ -177,12 +177,12 @@
   {
     "key": "tutorial_beginnings_tss_spoilage",
     "en": "<img id=\"Food\"/><h>Food</> will <r>spoil</> rapidly if not stored in a <img id=\"Pantry\"/><h>Granary</>. Similarly, exposed goods may take <r>weather damage</> if not stored in a <img id=\"GenericStorage\"/> <h>Storehouse</>.",
-    "vi": "<img id=\"Food\"/> <h>Lương thực</> sẽ bị <r>thối rữa</> nhanh chóng nếu không được cất giữ trong <img id=\"Pantry\"/> <h>Kho lương thực</>. Tương tự, hàng hóa lộ thiên có thể bị <r>hư hại do thời tiết</> nếu không lưu trữ trong <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
+    "vi": "<img id=\"Food\"/> <h>Lương thực</> sẽ bị <r>ôi thiu hư hỏng</> nhanh chóng nếu không được cất giữ trong <img id=\"Pantry\"/> <h>Kho lương thực</>. Tương tự, hàng hóa lộ thiên có thể bị <r>hư hại do thời tiết</> nếu không lưu trữ trong <img id=\"GenericStorage\"/> <h>Kho vật tư</>.",
     "offset": 23060,
     "length": 223
   },
   {
-    "key": "tutorials_11776",
+    "key": "tutorial_buildings",
     "en": "Placing Buildings",
     "vi": "Đặt công trình xây dựng",
     "offset": 31323,
@@ -219,7 +219,7 @@
   {
     "key": "tutorial_fieldPlacing_descr",
     "en": "Some Buildings have <img id=\"Area\"/><h>Flexible Borders.</>{br}Place four <h>Plot Points</> to designate an area.{br}{br}1. The cursor will snap to Roads and Buildings helping create an organic shape.{br}2. Increasing the area allows for a <img id=\"Extension\"/><h>Backyard Extension</>. {br}3. The first two <h>Plot Points</> indicate the facing direction of the Building.",
-    "vi": "Một số công trình có <img id=\"Area\"/> <h>Ranh giới linh hoạt.</> {br}Đặt 4 <h>Điểm mốc</> để khoanh vùng diện tích.{br}{br}1. Con trỏ sẽ tự hít vào Đường sá và Công trình giúp tạo hình tự nhiên.{br}2. Tăng diện tích đất sẽ tạo thêm không gian cho <img id=\"Extension\"/> <h>Tiện ích sân sau</>.{br}3. Hai <h>Điểm mốc</> đầu tiên sẽ xác định hướng mặt tiền của Công trình.",
+    "vi": "Một số công trình có <img id=\"Area\"/> <h>Ranh giới linh hoạt.</> {br}Đặt 4 <h>Điểm mốc</> để khoanh vùng diện tích.{br}{br}1. Con trỏ sẽ tự hít vào Đường sá và Công trình giúp tạo hình tự nhiên.{br}2. Tăng diện tích đất sẽ tạo thêm không gian cho <img id=\"Extension\"/> <h>Mở rộng sân sau</>.{br}3. Hai <h>Điểm mốc</> đầu tiên sẽ xác định hướng mặt tiền của Công trình.",
     "offset": 51745,
     "length": 373
   },
@@ -465,357 +465,434 @@
     "key": "tutorial_earlyFood",
     "en": "Low on Food?",
     "vi": "Thiếu thốn Lương thực?",
-    "offset": 211583,
+    "offset": 211593,
     "length": 13
   },
   {
     "key": "tutorial_earlyFood_descr",
     "en": "Try building a <h>Hunting Camp</> near <img id=\"Animals\"/><h>Wild Animals</>, a <h>Fishing Hut</> near a <img id=\"FishDeposit\"/><h>Shoal of Fish</> or a <h>Forager Hut</> near <img id=\"Berries\"/><h>Wild Berries</> or <img id=\"MushroomDeposit\"/><h>Mushrooms</>. {br}{br}Ensure you have a <img id=\"Worker\"/><h>Family</> assigned to a <img id=\"Pantry\"/><h>Granary</> to transport, store and distribute the Food.",
     "vi": "Hãy thử dựng một <h>Trại săn bắn</> gần bầy <img id=\"Animals\"/> <h>Thú hoang</>, một <h>Chòi câu cá</> gần <img id=\"FishDeposit\"/> <h>Đàn cá</> hoặc một <h>Chòi hái lượm</> gần bụi <img id=\"Berries\"/> <h>Quả mọng</> hoặc bãi <img id=\"MushroomDeposit\"/> <h>Nấm rừng</>.{br}{br}Hãy đảm bảo đã phân công một <img id=\"Worker\"/> <h>Gia đình</> vào <img id=\"Pantry\"/> <h>Kho lương thực</> để vận chuyển, lưu trữ và phân phối đồ ăn.",
-    "offset": 212139,
+    "offset": 212149,
     "length": 409
   },
   {
     "key": "tutorial_disease",
     "en": "Disease",
     "vi": "Bệnh tật & Ốm đau",
-    "offset": 226804,
+    "offset": 226814,
     "length": 8
   },
   {
     "key": "tutorial_disease_descr",
     "en": "People suffering from disease may stop working. Access to <img id=\"ItemID_18\"/><h>Herbs</> may help speed up their recovery, while a varied diet increases disease resistance.",
     "vi": "Người dân bị đau ốm sẽ ngừng làm việc. Được dùng <img id=\"ItemID_18\"/> <h>Thảo dược</> sẽ giúp hồi phục nhanh hơn, trong khi chế độ ăn uống đa dạng sẽ tăng sức đề kháng chống lại bệnh tật.",
-    "offset": 227080,
+    "offset": 227090,
     "length": 175
   },
   {
     "key": "tutorial_fuel",
     "en": "Fuel Reserves",
     "vi": "Dự trữ Chất đốt",
-    "offset": 233518,
+    "offset": 233528,
     "length": 14
   },
   {
     "key": "tutorial_fuel_descr",
     "en": "Lack of fuel doesn't have immediate consequences until the Winter hits, then it might cause people to freeze. It's wise to store reserves for the winter.",
     "vi": "Thiếu chất đốt sẽ chưa gây hậu quả ngay cho đến khi Mùa đông tràn về, lúc đó người dân có thể bị chết cóng. Bạn nên tích trữ sẵn củi sưởi cho mùa đông.",
-    "offset": 234073,
+    "offset": 234083,
     "length": 154
   },
   {
     "key": "tutorial_development",
     "en": "Specializing Regions",
     "vi": "Chuyên môn hóa Vùng đất",
-    "offset": 239230,
+    "offset": 239240,
     "length": 21
   },
   {
     "key": "tutorial_development_descr",
     "en": "Here you can view detailed information about this <h>Region</>.",
     "vi": "Tại đây bạn có thể xem thông tin chi tiết về <h>Vùng đất</> này.",
-    "offset": 239888,
+    "offset": 239898,
     "length": 64
   },
   {
     "key": "tutorial_development_tss_perks",
     "en": "With each <h>Settlement Level</> reached, you will be granted a <h>Development Point</> to spend on a permanent upgrade to your <h>Region</>.",
     "vi": "Mỗi khi đạt thêm một <h>Cấp độ Định cư</>, bạn sẽ được cấp một <h>Điểm Phát triển</> để mở khóa nâng cấp vĩnh viễn cho <h>Vùng đất</>.",
-    "offset": 241783,
+    "offset": 241793,
     "length": 142
   },
   {
     "key": "tutorial_development_tss_environment",
     "en": "The <h>Environment</> tab gives you a breakdown of this Region's environmental strengths and how <h>Affinities</> affect your buildings.",
     "vi": "Tab <h>Môi trường</> cung cấp chi tiết thế mạnh sinh thái của Vùng và cách các <h>Đặc tính</> tác động lên công trình của bạn.",
-    "offset": 246410,
+    "offset": 246420,
     "length": 137
   },
   {
     "key": "tutorial_development_tss_records",
     "en": "The <h>Records</> tab details your <h>Trade History</> as well as the <h>Production</> and <h>Consumption</> of all goods in your Region.",
     "vi": "Tab <h>Hồ sơ</> ghi lại chi tiết <h>Lịch sử Giao thương</> cũng như mức <h>Sản xuất</> và <h>Tiêu thụ</> của toàn bộ hàng hóa trong Vùng.",
-    "offset": 251005,
+    "offset": 251015,
     "length": 138
   },
   {
     "key": "tutorial_regionView",
     "en": "Region View",
     "vi": "Góc nhìn Tổng quan Vùng",
-    "offset": 255221,
+    "offset": 255231,
     "length": 12
+  },
+  {
+    "key": "tutorial_regionView_descr",
+    "en": "This view shows who controls each Region and each Region’s <img id=\"Animals\"/><h>Resource Deposits</>. To expand, you must press claims to other Regions by spending <img id=\"Influence\"/><h>Influence</>.",
+    "vi": "Góc nhìn này hiển thị ai đang cai quản từng Vùng lãnh địa và các <img id=\"Animals\"/> <h>Mỏ tài nguyên</> của mỗi Vùng. Để mở rộng bờ cõi, bạn phải tuyên bố chủ quyền đối với các Vùng khác bằng cách sử dụng <img id=\"Influence\"/> <h>Uy danh</>.",
+    "offset": 255683,
+    "length": 203
   },
   {
     "key": "DEPRECATED_tutorial_region_strengths",
     "en": "Region Strengths",
     "vi": "Thế mạnh của Vùng",
-    "offset": 263375,
+    "offset": 263385,
     "length": 17
   },
   {
     "key": "DEPRECATED_tutorial_region_strengths_descr",
     "en": "Be sure to check all the <h>RESOURCE DEPOSITS</> as well as investigate the <h>SOIL FERTILITY</> before deciding on the direction of your town. If your Region has weak <h>FERTILITY</>, consider setting up <h>TRADE</> early.",
     "vi": "Hãy kiểm tra kỹ mọi <h>MỎ TÀI NGUYÊN</> cũng như <h>ĐỘ MÀU MỠ CỦA ĐẤT</> trước khi quyết định hướng phát triển của thị trấn. Nếu Vùng có <h>ĐỘ MÀU MỠ</> kém, hãy tính đến việc thiết lập <h>GIAO THƯƠNG</> từ sớm.",
-    "offset": 264064,
+    "offset": 264074,
     "length": 224
   },
   {
     "key": "tutorial_region_cycle",
     "en": "Multi-Region Management",
     "vi": "Quản lý nhiều Vùng đất",
-    "offset": 271987,
+    "offset": 271997,
     "length": 24
   },
   {
     "key": "tutorial_region_cycle_descr",
     "en": "You can quickly cycle between your commanded Regions by pressing \"T\".",
     "vi": "Bạn có thể chuyển đổi nhanh giữa các Vùng đất dưới quyền bằng cách nhấn phím \"T\".",
-    "offset": 272772,
+    "offset": 272782,
     "length": 70
   },
   {
     "key": "tutorial_production_balance",
     "en": "Advanced Production",
     "vi": "Sản xuất Nâng cao",
-    "offset": 275209,
+    "offset": 275219,
     "length": 20
   },
   {
     "key": "tutorial_production_balance_descr",
     "en": "Gain greater control over your Production by selecting the <h>Advanced</> tab of a Production Building or Artisan's Workshop.",
     "vi": "Kiểm soát quy trình Sản xuất chặt chẽ hơn bằng cách chọn tab <h>Nâng cao</> trong Công trình Sản xuất hoặc Xưởng Thủ công.",
-    "offset": 275821,
+    "offset": 275831,
     "length": 126
   },
   {
     "key": "tutorial_production_balance_tss_reserve",
     "en": "<h>Reserve</>: Workers will not work until you have <h>more</> of the resource in surplus in the Region.",
     "vi": "<h>Dự trữ tối thiểu</>: Thợ sẽ không làm việc cho đến khi Vùng có <h>nhiều hơn</> lượng thặng dư tài nguyên này.",
-    "offset": 279828,
+    "offset": 279838,
     "length": 105
   },
   {
     "key": "tutorial_production_balance_tss_production_limit",
     "en": "<h>Production Limit</>: Workers will only work if you have <h>less</> of that resource in surplus in the Region.",
     "vi": "<h>Hạn mức sản xuất</>: Thợ chỉ làm việc nếu lượng thặng dư của tài nguyên này trong Vùng còn <h>ít hơn</> mức quy định.",
-    "offset": 283605,
+    "offset": 283615,
     "length": 113
   },
   {
     "key": "tutorial_production_balance_tss_production_focus",
     "en": "<h>Artisan Workshops</> often have a <h>Production Focus</> that allows you to change the input and output of their Workshop to suit your economy.",
     "vi": "<h>Xưởng Thủ công</> thường có <h>Trọng tâm sản xuất</> cho phép thay đổi nguyên liệu đầu vào và sản phẩm đầu ra sao cho phù hợp với nền kinh tế của bạn.",
-    "offset": 287602,
+    "offset": 287612,
     "length": 147
   },
   {
     "key": "DEPRECATED_tutorial_production_focus",
     "en": "Production Focus",
     "vi": "Trọng tâm Sản xuất",
-    "offset": 292719,
+    "offset": 292729,
     "length": 17
   },
   {
     "key": "DEPRECATED_tutorial_production_focus_descr",
     "en": "<h>Artisan Workshops</> can sometimes produce multiple types of goods. To select what good is being produced, check the <h>Advanced</> tab in the <h>Building Panel</>.",
     "vi": "<h>Xưởng Thủ công</> đôi khi có thể chế tác nhiều loại hàng hóa khác nhau. Để chọn mặt hàng sản xuất, hãy mở tab <h>Nâng cao</> trong <h>Bảng Công trình</>.",
-    "offset": 293279,
+    "offset": 293289,
     "length": 168
   },
   {
     "key": "tutorial_tradingPost",
     "en": "Trading Post",
     "vi": "Trạm Giao thương",
-    "offset": 298525,
+    "offset": 298535,
     "length": 13
   },
   {
     "key": "tutorial_tradingPost_descr",
     "en": "The <h>Trading Post</> allows for the import and export of most Goods in exchange for <img id=\"itemID_0\"/><h>Regional Wealth</>.",
     "vi": "<h>Trạm Giao thương</> cho phép xuất nhập khẩu hầu hết các loại Hàng hóa để đổi lấy <img id=\"itemID_0\"/> <h>Tài sản vùng</>.",
-    "offset": 298936,
+    "offset": 298946,
     "length": 129
   },
   {
     "key": "tutorial_tradingPost_tss_trade_rule",
     "en": "Use the <h>Trade Rule</> drop-down menu to set a Good to <h>Export</> or <h>Import</>.",
     "vi": "Sử dụng menu thả xuống <h>Quy tắc giao thương</> để cài đặt mặt hàng ở chế độ <h>Xuất khẩu</> hoặc <h>Nhập khẩu</>.",
-    "offset": 302895,
+    "offset": 302905,
     "length": 87
   },
   {
     "key": "tutorial_tradingPost_tss_trade_work",
     "en": "Assigned <h>Families</> will stock the <h>Trading Post</>, and walk to the nearest <img id=\"Tradepoint\"/><h>Tradepoint</> to exchange goods based on its <h>Desired Surplus</>.",
     "vi": "Các <h>Gia đình</> được phân công sẽ gom hàng vào <h>Trạm Giao thương</> và đi bộ đến <img id=\"Tradepoint\"/> <h>Điểm giao thương</> gần nhất để trao đổi dựa trên mức <h>Thặng dư mong muốn</>.",
-    "offset": 306256,
+    "offset": 306266,
     "length": 176
   },
   {
     "key": "tutorial_tradingPost_tss_trade_merchant",
     "en": "<h>Travelling Merchants</> will periodically arrive to exchange Goods. By <h>Establishing a Trade Route</> they will arrive more frequently, and allow you to exchange <h>Major Trades</>.",
     "vi": "<h>Thương nhân</> sẽ định kỳ ghé qua để mua bán. Bằng cách <h>Mở Tuyến Giao thương</>, họ sẽ ghé thường xuyên hơn và cho phép bạn thực hiện các <h>Giao dịch lớn</>.",
-    "offset": 312930,
+    "offset": 312940,
     "length": 187
   },
   {
     "key": "tutorial_tradingPost_tss_trade_foreign",
     "en": "By toggling <h>Allow Foreign Trade</> to <h>off</>, <img id=\"Worker\"/><h>Workers</> will instead exchange Goods between your occupied <h>Regions</>.",
     "vi": "Bằng cách gạt <h>Cho phép Giao thương Ngoại bang</> sang <h>tắt</>, <img id=\"Worker\"/> <h>Người lao động</> sẽ chuyển sang luân chuyển hàng hóa giữa các <h>Vùng đất</> nội bộ của bạn.",
-    "offset": 319168,
+    "offset": 319178,
     "length": 149
   },
   {
     "key": "tutorial_farming",
     "en": "Farming",
     "vi": "Nông nghiệp & Trồng trọt",
-    "offset": 324526,
+    "offset": 324536,
     "length": 8
   },
   {
     "key": "tutorial_farming_descr",
     "en": "In order to begin Farming, you'll need both a <h>Field</> and a <h>Farmhouse</>.{br}{br}<img id=\"Worker\"/><h>Families</> assigned to the <h>Farmhouse</> work the <h>Fields</> in accordance with the <h>Field's</> set <h>Priority</> level.{br}{br}When crops are growing, they absorb nutrients from the soil, lowering its <h>Fertility</> and thus diminishing yields over time. To combat this, consider utilising <img id=\"cropRotation\"/><h>Crop Rotation</> or leaving the <h>Field</> fallow for a year to help it recover.",
-    "vi": "Để bắt đầu làm nông, bạn cần cả <h>Ruộng lúa</> và <h>Nông trang</>.{br}{br}<img id=\"Worker\"/> <h>Gia đình</> được phân công vào <h>Nông trang</> sẽ canh tác trên các <h>Ruộng lúa</> theo mức độ <h>Ưu tiên</> đã đặt của <h>Ruộng</>.{br}{br}Khi cây trồng phát triển, chúng hút chất dinh dưỡng từ đất, làm giảm <h>Độ màu mỡ</> và giảm dần sản lượng qua các năm. Để khắc phục, hãy áp dụng <img id=\"cropRotation\"/> <h>Luân canh cây trồng</> hoặc cho <h>Ruộng</> nghỉ hoang một năm để phục hồi.",
-    "offset": 324862,
+    "vi": "Để bắt đầu làm nông, bạn cần cả <h>Cánh đồng</> và <h>Nông trại</>.{br}{br}<img id=\"Worker\"/> <h>Hộ dân</> được phân công vào <h>Nông trại</> sẽ canh tác trên các <h>Cánh đồng</> theo mức độ <h>Ưu tiên</> đã đặt của <h>Thửa ruộng</>.{br}{br}Khi hoa màu phát triển, chúng hút chất dinh dưỡng từ đất, làm giảm <h>Độ phì nhiêu</> và giảm dần sản lượng qua các năm. Để khắc phục, hãy áp dụng <img id=\"cropRotation\"/> <h>Luân canh cây trồng</> hoặc cho <h>Ruộng</> nghỉ hoang một năm để phục hồi.",
+    "offset": 324872,
     "length": 518
   },
   {
     "key": "tutorial_fieldsize",
     "en": "Field Plots",
     "vi": "Thửa ruộng",
-    "offset": 342862,
+    "offset": 342872,
     "length": 12
   },
   {
     "key": "tutorial_fieldsize_descr",
     "en": "Fields in Manor Lords need to be quite large to be effective, (about 1 morgen) but also take long to plow by hand. {br}{br}Remember to check the ground <h>Fertility</> as not all <h>Crop Types</> behave the same.",
-    "vi": "Ruộng lúa trong Manor Lords cần diện tích đủ lớn để đạt hiệu quả cao (khoảng 1 morgen), nhưng ruộng lớn cũng tốn nhiều thời gian cày bằng tay.{br}{br}Đừng quên kiểm tra <h>Độ màu mỡ</> của đất vì mỗi <h>Loại cây trồng</> lại phù hợp với loại đất khác nhau.",
-    "offset": 343334,
+    "vi": "Cánh đồng trong Manor Lords cần diện tích đủ lớn để đạt hiệu quả cao (khoảng 1 morgen), nhưng ruộng lớn cũng tốn nhiều thời gian cày bằng tay.{br}{br}Đừng quên kiểm tra <h>Độ phì nhiêu</> của đất vì mỗi <h>Loại cây trồng</> lại phù hợp với loại đất khác nhau.",
+    "offset": 343344,
     "length": 213
   },
   {
     "key": "tutorial_farm_cycles",
     "en": "Farming Cycles",
     "vi": "Chu kỳ Canh tác",
-    "offset": 351746,
+    "offset": 351756,
     "length": 15
   },
   {
     "key": "tutorial_farm_cycles_descr",
     "en": "Provided the <h>Field</> is not set to <h>Fallow</>, workers will plow it and sow the crop as soon as possible. The <h>Yield</> will increase as it grows and it will be harvested during the <img id=\"Autumn\"/><h>Harvest Season</>.",
-    "vi": "Miễn là <h>Ruộng</> không bị để <h>Nghỉ hoang</>, nông dân sẽ cày xới và gieo hạt sớm nhất có thể. <h>Sản lượng</> sẽ tăng dần khi lúa lớn và sẽ được gặt trong <img id=\"Autumn\"/> <h>Mùa thu hoạch</>.",
-    "offset": 352244,
+    "vi": "Miễn là <h>Cánh đồng</> không bị để <h>Nghỉ hoang</>, nông dân sẽ cày xới và gieo hạt sớm nhất có thể. <h>Sản lượng</> sẽ tăng dần theo sự phát triển của cây trồng và sẽ được thu hoạch trong <img id=\"Autumn\"/> <h>Mùa thu hoạch</>.",
+    "offset": 352254,
     "length": 230
   },
   {
     "key": "tutorial_castle_planner",
     "en": "Castle Planner",
     "vi": "Quy hoạch Lâu đài & Dinh thự",
-    "offset": 359866,
+    "offset": 359876,
     "length": 15
   },
   {
     "key": "tutorial_castle_planner_descr",
     "en": "Here you can edit the layout of your Castle and plan the construction of new wings and towers.{br}{br}When you press commit, the old layout will disappear and the new one will be constructed. The cost is fixed.",
     "vi": "Tại đây bạn có thể chỉnh sửa bố cục Lâu đài và thiết kế thêm các gian phòng, tháp canh mới.{br}{br}Khi bạn nhấn xác nhận, cấu trúc cũ sẽ biến mất và cấu trúc mới sẽ được xây dựng. Chi phí được tính cố định.",
-    "offset": 360378,
+    "offset": 360388,
     "length": 211
   },
   {
     "key": "tutorial_taxation",
     "en": "Taxation",
     "vi": "Chính sách Thuế",
-    "offset": 366922,
+    "offset": 366932,
     "length": 9
   },
   {
     "key": "tutorial_taxation_descr",
     "en": "Activate the \"Taxes\" tab after selecting your Manor to set levels of taxation. Taxes can boost your <img id=\"Treasury\"/><h>Treasury</> and <img id=\"Influence\"/><h>Influence</> at the cost of making your population poorer.",
     "vi": "Mở tab \"Thuế\" sau khi chọn Dinh thự để thiết lập các mức thuế. Thuế giúp gia tăng <img id=\"Treasury\"/> <h>Ngân khố</> và <img id=\"Influence\"/> <h>Uy danh</> của bạn nhưng sẽ khiến thần dân nghèo đi.",
-    "offset": 367284,
+    "offset": 367294,
     "length": 222
+  },
+  {
+    "key": "tutorial_militia",
+    "en": "Military – Militia",
+    "vi": "Quân sự – Dân quân",
+    "offset": 374809,
+    "length": 19
   },
   {
     "key": "tutorial_militia_descr",
     "en": "The male villagers will be evenly distributed between all militia units. {br}{br}They will then try to find the <h>Required Armaments</> - the weapon and shield depends on the unit type, while the maximum quality of body armor and helmet depends on the villager's <h>Residential Level</>. {br}{br}After bringing all the necessary equipment home, the unit recruits are marked as ready to rally. {br}{br}Only then you will be able to <h>Rally Your Unit</>!",
     "vi": "Đàn ông trong làng sẽ được phân bổ đều vào tất cả các đơn vị dân quân.{br}{br}Họ sẽ tự tìm <h>Trang bị bắt buộc</> — vũ khí và khiên tùy theo loại đơn vị, trong khi phẩm chất tối đa của áo giáp và mũ sắt phụ thuộc vào <h>Cấp độ Nhà ở</> của người đó.{br}{br}Sau khi mang đủ đồ về nhà, tân binh sẽ ở trạng thái sẵn sàng triệu tập.{br}{br}Chỉ khi đó bạn mới có thể <h>Huy động Đơn vị xuất quân</>!",
-    "offset": 375446,
+    "offset": 375456,
     "length": 455
+  },
+  {
+    "key": "tutorial_squads",
+    "en": "Military – Squads",
+    "vi": "Quân sự – Đội hình",
+    "offset": 389926,
+    "length": 18
   },
   {
     "key": "tutorial_squads_descr",
     "en": "<h>The combat strength of your units depends on many factors:</>{br}{br}<h>Stances</>. Check the army tab below to set them, all have pros and cons. {br}{br} <img id=\"Morale\"/><h>Morale</> is the willingness to fight. If it reaches critical points, some stances become unavailable, and eventually the unit will flee from battle.{br}{br}<img id=\"Fatigue\"/><h>Fatigue</>. Soldiers become tired when running and fighting, when exhausted, they can no longer run or fight well. {br}{br}<h>Effectiveness</> is the attack and defense multiplier. The unit might have a hard time fighting uphill, or archers struggle while shooting in the rain. Hold <h>TAB</> to inspect the details.",
-    "vi": "<h>Sức mạnh chiến đấu của đơn vị phụ thuộc vào nhiều yếu tố:</> {br}{br}<h>Thế trận</>. Kiểm tra tab quân đội bên dưới để điều chỉnh, mỗi thế trận đều có ưu nhược điểm riêng.{br}{br}<img id=\"Morale\"/> <h>Tinh thần</> là ý chí chiến đấu. Nếu tinh thần xuống mức báo động, một số thế trận sẽ bị vô hiệu và đơn vị có thể vỡ trận tháo chạy.{br}{br}<img id=\"Fatigue\"/> <h>Thể lực</>. Lính sẽ thấm mệt khi chạy và đánh nhau, khi kiệt sức họ không thể chạy hay giao tranh hiệu quả.{br}{br}<h>Hiệu quả</> là hệ số nhân công thủ. Đơn vị sẽ gặp bất lợi lớn khi đánh lên dốc, hoặc cung thủ bị giảm tầm bắn và độ chính xác khi trời mưa. Giữ phím <h>TAB</> để xem chi tiết.",
-    "offset": 390560,
+    "vi": "<h>Sức mạnh chiến đấu của đơn vị phụ thuộc vào nhiều yếu tố:</> {br}{br}<h>Thế trận</>. Kiểm tra tab quân đội bên dưới để điều chỉnh, mỗi thế trận đều có ưu nhược điểm riêng.{br}{br}<img id=\"Morale\"/> <h>Tinh thần</> là ý chí chiến đấu. Nếu tinh thần xuống mức báo động, một số thế trận sẽ bị vô hiệu và đơn vị có thể vỡ trận tháo chạy.{br}{br}<img id=\"Fatigue\"/> <h>Sự mệt mỏi</>. Lính sẽ thấm mệt khi chạy và đánh nhau, khi kiệt sức họ không thể chạy hay giao tranh hiệu quả.{br}{br}<h>Hiệu quả</> là hệ số nhân công thủ. Đơn vị sẽ gặp bất lợi lớn khi đánh lên dốc, hoặc cung thủ bị giảm tầm bắn và độ chính xác khi trời mưa. Giữ phím <h>TAB</> để xem chi tiết.",
+    "offset": 390570,
     "length": 675
+  },
+  {
+    "key": "tutorial_armyMovement",
+    "en": "Military – Unit Movement",
+    "vi": "Quân sự – Di chuyển quân",
+    "offset": 414911,
+    "length": 25
   },
   {
     "key": "tutorial_armyMovement_descr",
     "en": "<img id=\"LMB\"/> Select units with the <h>Left Mouse Button</>. Hold and drag <img id=\"LMB\"/> to select multiple units. {br}{br}<img id=\"RMB\"/> Command selected units with the <h>Right Mouse Button</>. {br}{br}Hold and drag <img id=\"RMB\"/> to form a line. Hold <h>ALT</> while dragging to keep the formation when multiple units are commanded. Hold <h>CTRL</> and <img id=\"RMB\"/> to draw waypoints for a single squad.",
     "vi": "<img id=\"LMB\"/> Chọn đơn vị bằng <h>Chuột trái</>. Nhấn giữ và kéo <img id=\"LMB\"/> để chọn nhiều đơn vị.{br}{br}<img id=\"RMB\"/> Ra lệnh cho đơn vị được chọn bằng <h>Chuột phải</>.{br}{br}Nhấn giữ và kéo <img id=\"RMB\"/> để dàn hàng ngang. Giữ <h>ALT</> trong khi kéo để giữ nguyên đội hình khi điều khiển nhiều đơn vị. Giữ <h>CTRL</> và <img id=\"RMB\"/> để vẽ lộ trình di chuyển cho một đạo quân.",
-    "offset": 415846,
+    "offset": 415868,
     "length": 416
+  },
+  {
+    "key": "tutorial_friendlyFire",
+    "en": "Military – Friendly Fire",
+    "vi": "Quân sự – Bắn nhầm quân ta",
+    "offset": 432147,
+    "length": 25
   },
   {
     "key": "tutorial_friendlyFire_descr",
     "en": "Ranged units might stop shooting if there is a risk that they might hit their friends. This risk lowers if the shooter is very close to the enemy and has unobstructed line of sight.",
     "vi": "Các đơn vị bắn xa có thể dừng bắn nếu có nguy cơ bắn trúng quân mình. Rủi ro này sẽ giảm đi nếu xạ thủ ở cự ly rất gần địch và có tầm nhìn thông thoáng không bị che khuất.",
-    "offset": 432977,
+    "offset": 432999,
     "length": 182
+  },
+  {
+    "key": "tutorial_fatigue",
+    "en": "Military – Running",
+    "vi": "Quân sự – Chạy bộ & Thể lực",
+    "offset": 438948,
+    "length": 19
   },
   {
     "key": "tutorial_fatigue_descr",
     "en": "Your men will get tired and might be unable to fight effectively. Consider marching instead for long travels. Use the <img id=\"Sprint\"/> <h>Run to positions</> button to cycle between marching and running.",
     "vi": "Quân của bạn sẽ mệt mỏi và không thể chiến đấu hiệu quả. Hãy cân nhắc cho quân hành quân bộ khi đi xa. Sử dụng nút <img id=\"Sprint\"/> <h>Chạy nhanh vào vị trí</> để chuyển đổi qua lại giữa đi bộ và chạy nhanh.",
-    "offset": 439567,
+    "offset": 439589,
     "length": 206
   },
   {
     "key": "tutorial_logistics_worker",
     "en": "Worker Logistics",
     "vi": "Hậu cần & Vận chuyển",
-    "offset": 446829,
+    "offset": 446851,
     "length": 17
   },
   {
     "key": "tutorial_logistics_worker_descr",
     "en": "Like all Workers, <img id=\"GenericStorage\"/> <h>Storehouse</> and <img id=\"Pantry\"/><h>Granary</> workers collect goods for their own Workplace. Unlike other Workers, they may use Handcarts to transport goods in bulk.{br}{br}If connected to a <h>Marketplace</>, they will also distribute goods to their <img id=\"Stall\"/><h>Market Stalls</>.",
     "vi": "Như mọi thợ khác, thợ ở <img id=\"GenericStorage\"/> <h>Kho vật tư</> và <img id=\"Pantry\"/> <h>Kho lương thực</> sẽ đi thu gom hàng về kho của mình. Khác với người khác, họ có thể dùng Xe kéo tay để chở hàng số lượng lớn.{br}{br}Nếu được kết nối với <h>Khu chợ</>, họ cũng sẽ tự mang hàng ra bày bán tại các <img id=\"Stall\"/> <h>Sạp hàng</>.",
-    "offset": 447428,
+    "offset": 447450,
     "length": 341
   },
   {
     "key": "tutorial_yard",
     "en": "Advanced Construction",
     "vi": "Xây dựng Nâng cao",
-    "offset": 460098,
+    "offset": 460120,
     "length": 22
   },
   {
     "key": "tutorial_yard_descr",
     "en": "A <h>Construction Yard</> is necessary to complete construction of <h>Advanced Structures</>, while also greatly improving logistics.",
     "vi": "Một <h>Công trường</> là bắt buộc để hoàn thành thi công các <h>Công trình Cao cấp</>, đồng thời nâng cao đáng kể năng lực hậu cần.",
-    "offset": 460723,
+    "offset": 460745,
     "length": 134
   },
   {
     "key": "tutorial_yard_tss_logistics",
     "en": "Workers both retrieve and distribute <img id=\"ConstructionCategory\"/><h>Construction Material</>.",
     "vi": "Nhân công vừa thu gom vừa phân phối <img id=\"ConstructionCategory\"/> <h>Vật liệu Xây dựng</>.",
-    "offset": 464952,
+    "offset": 464976,
     "length": 98
   },
   {
     "key": "tutorial_yard_tss_oxen",
-    "en": "Assigned <h>Oxen</> will use wagons, greatly increasing carrying capacity of <img id=\"ItemID_16\"/><h>Timber</>.",
-    "vi": "<h>Bò kéo</> được chỉ định sẽ dùng xe chở hàng lớn, tăng mạnh sức chở <img id=\"ItemID_16\"/> <h>Gỗ khúc</>.",
-    "offset": 468082,
-    "length": 112
+    "en": "Assigned <h>Oxen</> will use an Ox Cart, greatly increasing carrying capacity of <img id=\"ItemID_16\"/><h>Timber</>.",
+    "vi": "<h>Bò kéo</> được phân công sẽ sử dụng Xe bò kéo, tăng mạnh khối lượng vận chuyển <img id=\"ItemID_16\"/> <h>Gỗ khúc</> trong mỗi chuyến đi.",
+    "offset": 468106,
+    "length": 116
   },
   {
     "key": "tutorial_yard_tss_construction",
     "en": "Workers complete construction faster on all building sites.",
     "vi": "Nhân công hoàn thành việc xây dựng nhanh hơn trên mọi công trường.",
-    "offset": 472294,
+    "offset": 472472,
     "length": 60
+  },
+  {
+    "key": "tutorial_pasture",
+    "en": "Pasture Animals",
+    "vi": "Gia súc chăn thả",
+    "offset": 474627,
+    "length": 16
+  },
+  {
+    "key": "tutorial_pasture_descr",
+    "en": "<h>Pastures</> provide space for <img id=\"WoodenFence\"/><h>Pasture Animals</> to graze and breed. They can be imported via the <h>Livestock Trading Post</>.",
+    "vi": "<h>Đồng cỏ chăn thả</> cung cấp không gian cho <img id=\"WoodenFence\"/> <h>Gia súc chăn thả</> gặm cỏ và sinh sản. Có thể nhập mua chúng qua <h>Trạm buôn gia súc</>.",
+    "offset": 475154,
+    "length": 157
+  },
+  {
+    "key": "tutorial_pasture_tss_seasonal",
+    "en": "Yields are seasonal, gathered by <h>Livestock Farm</> workers and can be boosted by <h>Affinities</>.",
+    "vi": "Sản lượng thu theo mùa vụ, do thợ của <h>Trại chăn nuôi gia súc</> thu gom và có thể tăng thêm nhờ các <h>Đặc tính liên kết</>.",
+    "offset": 480823,
+    "length": 102
+  },
+  {
+    "key": "tutorial_pasture_tss_winter",
+    "en": "In <h>Winter</> they require <img id=\"itemID_351\"/><h>Animal Feed</> each month or will die from starvation.",
+    "vi": "Vào <h>Mùa đông</>, đàn gia súc cần được cấp <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</> mỗi tháng, nếu không chúng sẽ chết vì đói.",
+    "offset": 484948,
+    "length": 109
+  },
+  {
+    "key": "tutorial_pasture_tss_feeding",
+    "en": "<h>Animal Feed</> can be imported via the <h>Trading Post</> or crafted from <img id=\"itemID_349\"/><h>Oats</> by <h>Livestock Farm</> workers.",
+    "vi": "Có thể nhập khẩu <h>Thức ăn chăn nuôi</> qua <h>Trạm giao thương</> hoặc do thợ <h>Trại chăn nuôi gia súc</> tự chế biến từ <img id=\"itemID_349\"/> <h>Yến mạch</>.",
+    "offset": 488581,
+    "length": 143
   }
 ]

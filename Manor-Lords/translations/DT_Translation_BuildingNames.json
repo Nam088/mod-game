@@ -1,604 +1,618 @@
 [
   {
-    "key": "buildingnames_4",
+    "key": "buildingID_4",
     "en": "Burgage Plot (Level 1)",
     "vi": "Nhà dân (Cấp 1)",
     "offset": 24,
     "length": 23
   },
   {
-    "key": "buildingnames_5",
+    "key": "buildingID_5",
     "en": "Logging Camp",
     "vi": "Trại đốn gỗ",
     "offset": 754,
     "length": 13
   },
   {
-    "key": "buildingnames_6",
+    "key": "buildingID_6",
     "en": "Field",
     "vi": "Cánh đồng",
     "offset": 1237,
     "length": 6
   },
   {
-    "key": "buildingnames_7",
+    "key": "buildingID_7",
     "en": "Trading Post",
     "vi": "Trạm giao thương",
     "offset": 1480,
     "length": 13
   },
   {
-    "key": "buildingnames_8",
+    "key": "buildingID_8",
     "en": "Mining Pit",
     "vi": "Mỏ khai khoáng",
     "offset": 1891,
     "length": 11
   },
   {
-    "key": "buildingnames_9",
+    "key": "buildingID_9",
     "en": "Burgage Plot (Level 2)",
     "vi": "Nhà dân (Cấp 2)",
     "offset": 2261,
     "length": 23
   },
   {
-    "key": "buildingnames_11",
+    "key": "buildingID_11",
     "en": "Pasture",
     "vi": "Đồng cỏ chăn thả",
     "offset": 2991,
     "length": 8
   },
   {
-    "key": "buildingnames_14",
+    "key": "buildingID_14",
     "en": "Marketplace",
     "vi": "Khu chợ",
     "offset": 3271,
     "length": 12
   },
   {
-    "key": "buildingnames_15",
+    "key": "buildingID_15",
     "en": "Hunting Camp",
     "vi": "Trại săn bắn",
     "offset": 3547,
     "length": 13
   },
   {
-    "key": "buildingnames_19",
+    "key": "buildingID_19",
     "en": "Sawpit",
     "vi": "Xưởng xẻ ván gỗ",
     "offset": 4019,
     "length": 7
   },
   {
-    "key": "buildingnames_21",
+    "key": "buildingID_21",
     "en": "Windmill",
     "vi": "Cối xay gió",
     "offset": 4382,
     "length": 9
   },
   {
-    "key": "buildingnames_22",
+    "key": "buildingID_22",
     "en": "Well",
     "vi": "Giếng nước",
     "offset": 4755,
     "length": 5
   },
   {
-    "key": "buildingnames_26",
+    "key": "buildingID_26",
     "en": "Smithy",
-    "vi": "Lò rèn",
+    "vi": "Xưởng rèn công cụ",
     "offset": 4994,
     "length": 7
   },
   {
-    "key": "buildingnames_27",
+    "key": "buildingID_27",
     "en": "Communal Oven",
-    "vi": "Lò Bánh Mì",
+    "vi": "Lò nướng cộng đồng",
     "offset": 5341,
     "length": 14
   },
   {
-    "key": "buildingnames_29",
+    "key": "buildingID_29",
     "en": "Tannery",
     "vi": "Xưởng thuộc da",
     "offset": 5794,
     "length": 8
   },
   {
-    "key": "buildingnames_31",
+    "key": "buildingID_31",
     "en": "Hitching Post",
     "vi": "Cọc buộc gia súc",
     "offset": 6118,
     "length": 14
   },
   {
-    "key": "buildingnames_32",
-    "en": "Sheep Farm",
-    "vi": "Trại nuôi cừu",
+    "key": "buildingID_32",
+    "en": "Livestock Farm",
+    "vi": "Trại chăn nuôi gia súc",
     "offset": 6572,
-    "length": 11
+    "length": 15
   },
   {
-    "key": "buildingnames_33",
+    "key": "buildingID_33",
     "en": "Charcoal Kiln",
     "vi": "Lò than củi",
-    "offset": 6953,
+    "offset": 7061,
     "length": 14
   },
   {
-    "key": "buildingnames_34",
+    "key": "buildingID_34",
     "en": "Weaver's Workshop",
     "vi": "Xưởng dệt",
-    "offset": 7406,
+    "offset": 7514,
     "length": 18
   },
   {
-    "key": "buildingnames_35",
+    "key": "buildingID_35",
     "en": "Wooden Church",
     "vi": "Nhà thờ gỗ",
-    "offset": 7863,
+    "offset": 7971,
     "length": 14
   },
   {
-    "key": "buildingnames_36",
+    "key": "buildingID_36",
     "en": "Quarry",
     "vi": "Mỏ đá",
-    "offset": 8323,
+    "offset": 8431,
     "length": 7
   },
   {
-    "key": "buildingnames_37",
+    "key": "buildingID_37",
     "en": "Forager Hut",
     "vi": "Lán hái lượm",
-    "offset": 8644,
+    "offset": 8752,
     "length": 12
   },
   {
-    "key": "buildingnames_38",
+    "key": "buildingID_38",
     "en": "Small Tavern",
     "vi": "Quán bia nhỏ",
-    "offset": 9171,
+    "offset": 9279,
     "length": 13
   },
   {
-    "key": "buildingnames_40",
+    "key": "BuildingID_40",
     "en": "Fishing Pond",
     "vi": "Ao cá",
-    "offset": 9597,
+    "offset": 9705,
     "length": 13
   },
   {
-    "key": "buildingnames_43",
+    "key": "BuildingID_43",
     "en": "Stone Gatherer Camp",
     "vi": "Trại nhặt đá",
-    "offset": 9954,
+    "offset": 10062,
     "length": 20
   },
   {
-    "key": "buildingnames_44",
+    "key": "buildingID_44",
     "en": "Bloomery",
     "vi": "Lò luyện sắt",
-    "offset": 10546,
+    "offset": 10654,
     "length": 9
   },
   {
-    "key": "buildingnames_51",
+    "key": "buildingID_51",
     "en": "Walls and Gates",
     "vi": "Tường và Cổng",
-    "offset": 10861,
+    "offset": 10969,
     "length": 16
   },
   {
-    "key": "buildingnames_52",
+    "key": "buildingID_52",
     "en": "Apiary",
     "vi": "Trại ong",
-    "offset": 11330,
+    "offset": 11438,
     "length": 7
   },
   {
-    "key": "buildingnames_53",
+    "key": "buildingID_53",
     "en": "Deep Mine",
     "vi": "Mỏ sâu",
-    "offset": 11633,
+    "offset": 11741,
     "length": 10
   },
   {
-    "key": "buildingnames_58",
+    "key": "buildingID_58",
     "en": "Garrison Tower",
     "vi": "Tháp đồn trú",
-    "offset": 12037,
+    "offset": 12145,
     "length": 15
   },
   {
-    "key": "buildingnames_59",
+    "key": "buildingID_59",
     "en": "Tax Office",
     "vi": "Phòng thu thuế",
-    "offset": 12513,
+    "offset": 12621,
     "length": 11
   },
   {
-    "key": "buildingnames_61",
+    "key": "buildingID_60",
+    "en": "Fisherman’s Hut",
+    "vi": "Lán đánh cá",
+    "offset": 13056,
+    "length": 16
+  },
+  {
+    "key": "buildingID_61",
     "en": "Burgage Plot (Level 3)",
     "vi": "Nhà dân (Cấp 3)",
-    "offset": 13448,
+    "offset": 13556,
     "length": 23
   },
   {
-    "key": "buildingnames_62",
+    "key": "buildingID_62",
     "en": "Malthouse",
     "vi": "Nhà ủ mạch nha",
-    "offset": 14178,
+    "offset": 14286,
     "length": 10
   },
   {
-    "key": "buildingnames_69",
+    "key": "buildingID_69",
     "en": "Large Granary",
     "vi": "Kho lương thực lớn",
-    "offset": 14516,
+    "offset": 14624,
     "length": 14
   },
   {
-    "key": "buildingnames_70",
+    "key": "buildingID_70",
     "en": "Farmhouse",
-    "vi": "Nông trang",
-    "offset": 15013,
+    "vi": "Nông trại",
+    "offset": 15121,
     "length": 10
   },
   {
-    "key": "buildingnames_73",
+    "key": "buildingID_73",
     "en": "Storehouse",
     "vi": "Kho vật tư",
-    "offset": 15341,
+    "offset": 15449,
     "length": 11
   },
   {
-    "key": "buildingnames_76",
+    "key": "buildingID_76",
     "en": "Rubble",
     "vi": "Đống đổ nát",
-    "offset": 15624,
+    "offset": 15732,
     "length": 7
   },
   {
-    "key": "buildingnames_78",
+    "key": "buildingID_78",
     "en": "Small Stone Church",
     "vi": "Nhà thờ đá nhỏ",
-    "offset": 15891,
+    "offset": 15999,
     "length": 19
   },
   {
-    "key": "buildingnames_80",
+    "key": "buildingID_80",
     "en": "Livestock Trading Post",
     "vi": "Chợ gia súc",
-    "offset": 16452,
+    "offset": 16560,
     "length": 23
   },
   {
-    "key": "buildingnames_81",
+    "key": "buildingID_81",
     "en": "Granary",
     "vi": "Kho lương thực",
-    "offset": 17189,
+    "offset": 17297,
     "length": 8
   },
   {
-    "key": "buildingnames_85",
+    "key": "buildingID_85",
     "en": "Shrine",
-    "vi": "Miếu thờ",
-    "offset": 17501,
+    "vi": "Đền thánh",
+    "offset": 17609,
     "length": 7
   },
   {
-    "key": "buildingnames_87",
+    "key": "buildingID_87",
     "en": "Forester's Hut",
     "vi": "Lán trồng rừng",
-    "offset": 17776,
+    "offset": 17884,
     "length": 15
   },
   {
-    "key": "buildingnames_88",
+    "key": "buildingID_88",
     "en": "Homeless People's Tents",
     "vi": "Lều người vô gia cư",
-    "offset": 18286,
+    "offset": 18394,
     "length": 24
   },
   {
-    "key": "buildingnames_89",
+    "key": "buildingID_89",
     "en": "Supplies",
     "vi": "Nhu yếu phẩm",
-    "offset": 18882,
+    "offset": 18990,
     "length": 9
   },
   {
-    "key": "buildingnames_90",
+    "key": "buildingID_90",
     "en": "Woodcutter's Lodge",
     "vi": "Trại đốn củi",
-    "offset": 19210,
+    "offset": 19318,
     "length": 19
   },
   {
-    "key": "buildingnames_92",
+    "key": "buildingID_92",
     "en": "Food Stall",
     "vi": "Sạp đồ ăn",
-    "offset": 19733,
+    "offset": 19841,
     "length": 11
   },
   {
-    "key": "buildingnames_93",
+    "key": "buildingID_93",
     "en": "Firewood Stall",
     "vi": "Sạp củi sưởi",
-    "offset": 20195,
+    "offset": 20303,
     "length": 15
   },
   {
-    "key": "buildingnames_94",
+    "key": "buildingID_94",
     "en": "Common Goods Stall",
     "vi": "Sạp đồ dùng",
-    "offset": 20729,
+    "offset": 20837,
     "length": 19
   },
   {
-    "key": "buildingnames_96",
+    "key": "buildingID_96",
     "en": "Gatehouse",
     "vi": "Cổng thành",
-    "offset": 21410,
+    "offset": 21518,
     "length": 10
   },
   {
-    "key": "buildingnames_98",
+    "key": "buildingID_98",
     "en": "Small Stable",
     "vi": "Chuồng ngựa nhỏ",
-    "offset": 21735,
+    "offset": 21843,
     "length": 13
   },
   {
-    "key": "buildingnames_99",
+    "key": "buildingID_99",
     "en": "Manor",
     "vi": "Dinh thự Lãnh chúa",
-    "offset": 22173,
+    "offset": 22281,
     "length": 6
   },
   {
-    "key": "buildingnames_100",
+    "key": "buildingID_100",
     "en": "Large Storehouse",
     "vi": "Kho vật tư lớn",
-    "offset": 22483,
+    "offset": 22591,
     "length": 17
   },
   {
-    "key": "buildingnames_101",
+    "key": "buildingID_101",
     "en": "Bandit Camp",
     "vi": "Trại cướp",
-    "offset": 22968,
+    "offset": 23076,
     "length": 12
   },
   {
-    "key": "buildingnames_103",
+    "key": "buildingID_103",
     "en": "Firewood Cart",
     "vi": "Xe củi sưởi",
-    "offset": 23461,
+    "offset": 23569,
     "length": 14
   },
   {
-    "key": "buildingnames_104",
+    "key": "buildingID_104",
     "en": "Food Cart",
     "vi": "Xe đồ ăn",
-    "offset": 23994,
+    "offset": 24102,
     "length": 10
   },
   {
-    "key": "buildingnames_105",
+    "key": "buildingID_105",
     "en": "Destroyed Windmill",
     "vi": "Cối xay gió đổ nát",
-    "offset": 24460,
+    "offset": 24568,
     "length": 19
   },
   {
-    "key": "buildingnames_107",
+    "key": "buildingID_107",
     "en": "Granary Remains",
     "vi": "Tàn tích kho lương",
-    "offset": 25086,
+    "offset": 25194,
     "length": 16
   },
   {
-    "key": "buildingnames_108",
+    "key": "buildingID_108",
     "en": "Settlers Camp",
     "vi": "Trại định cư",
-    "offset": 25663,
+    "offset": 25771,
     "length": 14
   },
   {
-    "key": "buildingnames_109",
+    "key": "buildingID_109",
     "en": "Clay Furnace",
     "vi": "Lò nung đất sét",
-    "offset": 26165,
+    "offset": 26273,
     "length": 13
   },
   {
-    "key": "buildingnames_111",
+    "key": "buildingID_111",
     "en": "Erase Shrubbery",
     "vi": "Dọn bụi rậm",
-    "offset": 26537,
+    "offset": 26645,
     "length": 16
   },
   {
-    "key": "buildingnames_112",
+    "key": "buildingID_112",
     "en": "Worker Camp",
     "vi": "Trại công nhân",
-    "offset": 27056,
+    "offset": 27164,
     "length": 12
   },
   {
-    "key": "buildingnames_113",
+    "key": "buildingID_113",
     "en": "Pack Station",
     "vi": "Trạm thồ hàng",
-    "offset": 27552,
+    "offset": 27660,
     "length": 13
   },
   {
-    "key": "buildingnames_114",
+    "key": "buildingID_114",
     "en": "Corpse Pit",
     "vi": "Hố chôn xác",
-    "offset": 28054,
+    "offset": 28162,
     "length": 11
   },
   {
-    "key": "buildingnames_115",
+    "key": "buildingID_115",
     "en": "Stone Well",
     "vi": "Giếng đá",
-    "offset": 28464,
+    "offset": 28572,
     "length": 11
   },
   {
-    "key": "buildingnames_117",
+    "key": "buildingID_117",
     "en": "Large Tavern",
     "vi": "Quán bia lớn",
-    "offset": 28876,
+    "offset": 28984,
     "length": 13
   },
   {
-    "key": "buildingnames_118",
+    "key": "buildingID_118",
     "en": "Stonemason's Station",
     "vi": "Xưởng đẽo đá",
-    "offset": 29305,
+    "offset": 29413,
     "length": 21
   },
   {
-    "key": "buildingnames_119",
+    "key": "buildingID_119",
     "en": "Lime Kiln",
     "vi": "Lò nung vôi",
-    "offset": 29874,
+    "offset": 29982,
     "length": 10
   },
   {
-    "key": "buildingnames_120",
+    "key": "buildingID_120",
     "en": "Construction Yard",
-    "vi": "Công trường",
-    "offset": 30271,
+    "vi": "Công trường xây dựng",
+    "offset": 30379,
     "length": 18
   },
   {
-    "key": "buildingnames_473",
+    "key": "buildingID_121",
+    "en": "Large Stone Church",
+    "vi": "Nhà thờ đá lớn",
+    "offset": 30866,
+    "length": 19
+  },
+  {
+    "key": "buildingID_473",
     "en": "Outer Tower",
     "vi": "Tháp phòng thủ ngoài",
-    "offset": 30756,
+    "offset": 31467,
     "length": 12
   },
   {
-    "key": "buildingnames_474",
+    "key": "buildingID_474",
     "en": "Dyer's Workshop",
     "vi": "Xưởng nhuộm",
-    "offset": 31145,
+    "offset": 31856,
     "length": 16
   },
   {
-    "key": "buildingnames_484",
+    "key": "buildingID_484",
     "en": "Siege Camp",
     "vi": "Trại công thành",
-    "offset": 31690,
+    "offset": 32401,
     "length": 11
   },
   {
-    "key": "buildingnames_485",
+    "key": "buildingID_485",
     "en": "Burgage Plot (Level 4)",
     "vi": "Nhà dân (Cấp 4)",
-    "offset": 32172,
+    "offset": 32883,
     "length": 23
   },
   {
-    "key": "BuildingID",
-    "en": "Borgerlod (niveau 4)",
-    "vi": "Nhà dân (Cấp 4)",
-    "offset": 32599,
-    "length": 21
-  },
-  {
-    "key": "buildingnames_2",
+    "key": "extension_2",
     "en": "Chicken Coop",
     "vi": "Chuồng gà",
-    "offset": 32702,
+    "offset": 33619,
     "length": 13
   },
   {
-    "key": "buildingnames_3",
+    "key": "extension_3",
     "en": "Goat Shed",
     "vi": "Chuồng dê",
-    "offset": 33034,
+    "offset": 33951,
     "length": 10
   },
   {
-    "key": "buildingnames_4",
+    "key": "extension_4",
     "en": "Blacksmith",
     "vi": "Lò rèn",
-    "offset": 33424,
+    "offset": 34341,
     "length": 11
   },
   {
-    "key": "buildingnames_5",
+    "key": "extension_5",
     "en": "Bakery",
     "vi": "Lò bánh mì",
-    "offset": 33702,
+    "offset": 34619,
     "length": 7
   },
   {
-    "key": "buildingnames_6",
+    "key": "extension_6",
     "en": "Brewery",
     "vi": "Xưởng ủ bia",
-    "offset": 34020,
+    "offset": 34937,
     "length": 8
   },
   {
-    "key": "buildingnames_7",
+    "key": "extension_7",
     "en": "Tailor's Shop",
-    "vi": "Tiệm may",
-    "offset": 34326,
+    "vi": "Xưởng thợ may",
+    "offset": 35243,
     "length": 14
   },
   {
-    "key": "buildingnames_8",
+    "key": "extension_8",
     "en": "Cobbler's Shop",
     "vi": "Tiệm đóng giày",
-    "offset": 34776,
+    "offset": 35693,
     "length": 15
   },
   {
-    "key": "buildingnames_9",
+    "key": "extension_9",
     "en": "Vegetable Garden",
     "vi": "Vườn rau",
-    "offset": 35219,
+    "offset": 36136,
     "length": 17
   },
   {
-    "key": "buildingnames_10",
+    "key": "extension_10",
     "en": "Joiner's Shop",
-    "vi": "Xưởng đồ gỗ",
-    "offset": 35623,
+    "vi": "Xưởng thợ mộc",
+    "offset": 36540,
     "length": 14
   },
   {
-    "key": "buildingnames_11",
+    "key": "extension_11",
     "en": "Armorer's Shop",
     "vi": "Xưởng rèn giáp",
-    "offset": 36049,
+    "offset": 36966,
     "length": 15
   },
   {
-    "key": "buildingnames_12",
+    "key": "extension_12",
     "en": "Bowyer's Shop",
     "vi": "Xưởng làm cung",
-    "offset": 36541,
+    "offset": 37458,
     "length": 14
   },
   {
-    "key": "buildingnames_14",
+    "key": "extension_14",
     "en": "Butcher's Shop",
-    "vi": "Tiệm thịt",
-    "offset": 37021,
+    "vi": "Xưởng xẻ thịt",
+    "offset": 37938,
     "length": 15
   },
   {
-    "key": "buildingnames_15",
+    "key": "extension_15",
     "en": "Smallholding",
-    "vi": "Trang trại nhỏ",
-    "offset": 37411,
+    "vi": "Khu chăn nuôi nhỏ",
+    "offset": 38328,
+    "length": 13
+  },
+  {
+    "key": "extension_16",
+    "en": "Cheesemonger",
+    "vi": "Xưởng làm phô mai",
+    "offset": 38770,
     "length": 13
   }
 ]

@@ -110,5 +110,19 @@
     "vi": "Hai hồ nước song song ngự trị giữa một vùng đất thoáng đãng với những triền đồi trập trùng",
     "offset": 18531,
     "length": 61
+  },
+  {
+    "key": "Wide_Valley",
+    "en": "Wide Valley",
+    "vi": "Thung lũng rộng mở",
+    "offset": 20643,
+    "length": 12
+  },
+  {
+    "key": "Wide_Valley_descr",
+    "en": "Two rivers meet in the middle of this wide open valley.",
+    "vi": "Hai dòng sông uốn lượn gặp nhau ở giữa lòng thung lũng mở rộng mênh mông này.",
+    "offset": 21043,
+    "length": 56
   }
 ]

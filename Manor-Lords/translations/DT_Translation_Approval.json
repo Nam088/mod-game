@@ -9,7 +9,7 @@
   {
     "key": "effects_none",
     "en": "No Effects",
-    "vi": "Không có hiệu lực",
+    "vi": "Không có tác động",
     "offset": 225,
     "length": 11
   },
@@ -49,14 +49,14 @@
     "length": 27
   },
   {
-    "key": "approval_11776",
-    "en": "Zorgt voor een daling in populariteit.",
-    "vi": "Làm giảm điểm Lòng dân.",
-    "offset": 3505,
-    "length": 39
+    "key": "-------------",
+    "en": "",
+    "vi": "",
+    "offset": 3620,
+    "length": 0
   },
   {
-    "key": "-------------",
+    "key": "EApprovalFactorType::hunger",
     "en": "Hunger",
     "vi": "Đói khát",
     "offset": 3706,
@@ -72,7 +72,7 @@
   {
     "key": "EApprovalFactorType::death",
     "en": "Death",
-    "vi": "Người chết",
+    "vi": "Tử vong",
     "offset": 4158,
     "length": 6
   },
@@ -149,7 +149,7 @@
   {
     "key": "EApprovalFactorType::drinking",
     "en": "Drinking",
-    "vi": "Uống rượu giải sầu",
+    "vi": "Uống bia giải trí",
     "offset": 12642,
     "length": 9
   },
@@ -189,7 +189,7 @@
     "length": 9
   },
   {
-    "key": "approval_29184",
+    "key": "EApprovalFactorType::missingEntertainment",
     "en": "Lack of Entertainment",
     "vi": "Thiếu nơi giải trí (Quán bia)",
     "offset": 15600,
@@ -205,7 +205,7 @@
   {
     "key": "EApprovalFactorType::taxation",
     "en": "Taxation",
-    "vi": "Thuế vụ",
+    "vi": "Thuế khóa",
     "offset": 16830,
     "length": 9
   },
@@ -252,7 +252,14 @@
     "length": 17
   },
   {
-    "key": "-------------",
+    "key": "----------------",
+    "en": "",
+    "vi": "",
+    "offset": 21141,
+    "length": 0
+  },
+  {
+    "key": "approvalImpression_Reviled",
     "en": "Reviled",
     "vi": "Bị căm ghét tột cùng",
     "offset": 21227,
@@ -268,7 +275,7 @@
   {
     "key": "approvalImpression_Disliked",
     "en": "Disliked",
-    "vi": "Bị mất lòng dân",
+    "vi": "Không được lòng dân",
     "offset": 21896,
     "length": 9
   },
@@ -301,7 +308,14 @@
     "length": 8
   },
   {
-    "key": "-------------",
+    "key": "-----------------",
+    "en": "",
+    "vi": "",
+    "offset": 23503,
+    "length": 0
+  },
+  {
+    "key": "approvalEffect_CannotFormMilitia",
     "en": "Cannot Form Militia",
     "vi": "Không thể thành lập Dân quân",
     "offset": 23589,
@@ -310,7 +324,7 @@
   {
     "key": "approvalEffect_Families",
     "en": "Monthly Migration",
-    "vi": "Dân cư chuyển đến hàng tháng",
+    "vi": "Dân nhập cư hàng tháng",
     "offset": 24339,
     "length": 18
   },

@@ -4,6 +4,7 @@ dist/
 
 # Game assets extracted (không commit vì quá nặng) - ngoại trừ DataTables cần cho CI
 extracted/
+extracted_fresh/
 !extracted/ManorLords/Content/Translation/
 !extracted/ManorLords/Content/Translation/HoodedHorse/
 !extracted/ManorLords/Content/Translation/HoodedHorse/**

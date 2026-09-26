@@ -7,808 +7,871 @@
     "length": 8
   },
   {
-    "key": "items_2",
+    "key": "itemID_2",
     "en": "Wheat Grain",
     "vi": "Hạt lúa mì",
-    "offset": 236,
+    "offset": 237,
     "length": 12
   },
   {
-    "key": "items_3",
+    "key": "itemID_3",
     "en": "Carcass",
     "vi": "Xác thú",
-    "offset": 643,
+    "offset": 642,
     "length": 8
   },
   {
-    "key": "items_4",
+    "key": "itemID_4",
     "en": "Hides",
     "vi": "Da thô",
-    "offset": 922,
+    "offset": 921,
     "length": 6
   },
   {
-    "key": "items_5",
+    "key": "itemID_5",
     "en": "Leather",
     "vi": "Da thuộc",
-    "offset": 1176,
+    "offset": 1175,
     "length": 8
   },
   {
-    "key": "items_6",
+    "key": "itemID_6",
     "en": "Wheat Flour",
     "vi": "Bột lúa mì",
-    "offset": 1417,
+    "offset": 1416,
     "length": 12
   },
   {
-    "key": "items_7",
+    "key": "itemID_7",
     "en": "Tools",
     "vi": "Công cụ",
-    "offset": 1837,
+    "offset": 1836,
     "length": 6
   },
   {
-    "key": "items_8",
+    "key": "itemID_8",
     "en": "Wooden Parts",
     "vi": "Linh kiện gỗ",
-    "offset": 2151,
+    "offset": 2150,
     "length": 13
   },
   {
-    "key": "items_9",
-    "en": "Clothes (Woolen)",
+    "key": "itemID_9",
+    "en": "Woolen Clothes",
     "vi": "Quần áo len",
-    "offset": 2636,
-    "length": 17
+    "offset": 2635,
+    "length": 15
   },
   {
-    "key": "items_10",
+    "key": "itemID_10",
     "en": "Pelts",
     "vi": "Da lông thú",
-    "offset": 3174,
+    "offset": 3108,
     "length": 6
   },
   {
-    "key": "items_11",
+    "key": "itemID_11",
     "en": "Shoes",
     "vi": "Giày da",
-    "offset": 3410,
+    "offset": 3344,
     "length": 6
   },
   {
-    "key": "items_12",
+    "key": "itemID_12",
     "en": "Flax",
     "vi": "Cây lanh",
-    "offset": 3646,
+    "offset": 3580,
     "length": 5
   },
   {
-    "key": "items_13",
+    "key": "itemID_13",
     "en": "Linen",
     "vi": "Vải lanh",
-    "offset": 3841,
+    "offset": 3775,
     "length": 6
   },
   {
-    "key": "items_14",
+    "key": "itemID_14",
     "en": "Charcoal",
     "vi": "Than củi",
-    "offset": 4159,
+    "offset": 4093,
     "length": 9
   },
   {
-    "key": "items_15",
+    "key": "itemID_15",
     "en": "Iron ore",
     "vi": "Quặng sắt",
-    "offset": 4514,
+    "offset": 4448,
     "length": 9
   },
   {
-    "key": "items_16",
+    "key": "itemID_16",
     "en": "Rubble Stone",
     "vi": "Đá vụn",
-    "offset": 4901,
+    "offset": 4835,
     "length": 13
   },
   {
-    "key": "items_17",
+    "key": "itemID_17",
     "en": "Timber",
     "vi": "Gỗ cây",
-    "offset": 5261,
+    "offset": 5195,
     "length": 7
   },
   {
-    "key": "items_18",
+    "key": "itemID_18",
     "en": "Planks",
     "vi": "Ván gỗ",
-    "offset": 5532,
+    "offset": 5466,
     "length": 7
   },
   {
-    "key": "items_19",
+    "key": "itemID_19",
     "en": "Herbs",
     "vi": "Thảo mộc",
-    "offset": 5767,
+    "offset": 5701,
     "length": 6
   },
   {
-    "key": "items_24",
+    "key": "itemID_24",
     "en": "Wool",
     "vi": "Len thô",
-    "offset": 6025,
+    "offset": 5959,
     "length": 5
   },
   {
-    "key": "items_29",
+    "key": "itemID_29",
     "en": "Ale",
     "vi": "Bia mạch nha",
-    "offset": 6247,
+    "offset": 6181,
     "length": 4
   },
   {
-    "key": "items_28",
+    "key": "itemID_28",
     "en": "Rough Stone",
     "vi": "Đá thô",
-    "offset": 6463,
+    "offset": 6397,
     "length": 12
   },
   {
-    "key": "items_30",
+    "key": "itemID_30",
     "en": "Malt",
     "vi": "Mạch nha",
-    "offset": 6902,
+    "offset": 6836,
     "length": 5
   },
   {
-    "key": "items_31",
+    "key": "itemID_31",
     "en": "Carp",
     "vi": "Cá chép",
-    "offset": 7118,
+    "offset": 7052,
     "length": 5
   },
   {
-    "key": "items_33",
+    "key": "itemID_33",
     "en": "Eel",
     "vi": "Cá chình",
-    "offset": 7330,
+    "offset": 7264,
     "length": 4
   },
   {
-    "key": "items_34",
+    "key": "itemID_34",
     "en": "Rye Flour",
     "vi": "Bột lúa mạch đen",
-    "offset": 7576,
+    "offset": 7510,
     "length": 10
   },
   {
-    "key": "items_35",
-    "en": "Clothes (Linen)",
+    "key": "itemID_35",
+    "en": "Linen Clothes",
     "vi": "Quần áo vải lanh",
-    "offset": 7960,
-    "length": 16
+    "offset": 7894,
+    "length": 14
   },
   {
-    "key": "items_36",
+    "key": "itemID_36",
     "en": "Iron Slab",
     "vi": "Thỏi sắt",
-    "offset": 8513,
+    "offset": 8402,
     "length": 10
   },
   {
-    "key": "items_43",
+    "key": "itemID_43",
     "en": "Chickens",
     "vi": "Gà",
-    "offset": 8893,
+    "offset": 8782,
     "length": 9
   },
   {
-    "key": "items_45",
+    "key": "itemID_45",
     "en": "Hare Carcass",
     "vi": "Xác thỏ",
-    "offset": 9132,
+    "offset": 9021,
     "length": 13
   },
   {
-    "key": "items_46",
+    "key": "itemID_46",
     "en": "Pears",
     "vi": "Lê",
-    "offset": 9579,
+    "offset": 9468,
     "length": 6
   },
   {
-    "key": "items_47",
+    "key": "itemID_47",
     "en": "Quinces",
     "vi": "Mộc qua",
-    "offset": 9826,
+    "offset": 9715,
     "length": 8
   },
   {
-    "key": "items_73",
+    "key": "itemID_73",
     "en": "Sheep",
     "vi": "Cừu",
-    "offset": 10084,
+    "offset": 9973,
     "length": 6
   },
   {
-    "key": "items_99",
+    "key": "itemID_99",
     "en": "Horses",
     "vi": "Ngựa",
-    "offset": 10298,
+    "offset": 10187,
     "length": 7
   },
   {
-    "key": "items_134",
+    "key": "itemID_134",
     "en": "Spears",
     "vi": "Giáo",
-    "offset": 10524,
+    "offset": 10413,
     "length": 7
   },
   {
-    "key": "items_142",
+    "key": "itemID_142",
     "en": "Honey",
     "vi": "Mật ong",
-    "offset": 10776,
+    "offset": 10665,
     "length": 6
   },
   {
-    "key": "items_143",
+    "key": "itemID_143",
     "en": "Wax",
     "vi": "Sáp ong",
-    "offset": 10984,
+    "offset": 10873,
     "length": 4
   },
   {
-    "key": "items_144",
+    "key": "ItemId_144",
     "en": "Honeycomb",
     "vi": "Tổ ong",
-    "offset": 11183,
+    "offset": 11072,
     "length": 10
   },
   {
-    "key": "items_146",
+    "key": "itemID_146",
     "en": "Salt",
     "vi": "Muối",
-    "offset": 11495,
+    "offset": 11384,
     "length": 5
   },
   {
-    "key": "items_147",
+    "key": "itemID_147",
     "en": "Clay",
     "vi": "Đất sét",
-    "offset": 11687,
+    "offset": 11576,
     "length": 5
   },
   {
-    "key": "items_148",
+    "key": "itemID_148",
     "en": "Meat",
     "vi": "Thịt tươi",
-    "offset": 11899,
+    "offset": 11788,
     "length": 5
   },
   {
-    "key": "items_149",
+    "key": "itemID_149",
     "en": "Yarn",
     "vi": "Sợi len",
-    "offset": 12115,
+    "offset": 12004,
     "length": 5
   },
   {
-    "key": "items_150",
+    "key": "itemID_150",
     "en": "Clothes",
     "vi": "Quần áo",
-    "offset": 12355,
+    "offset": 12244,
     "length": 8
   },
   {
-    "key": "items_154",
+    "key": "itemID_154",
     "en": "Candles",
     "vi": "Nến",
-    "offset": 12616,
+    "offset": 12505,
     "length": 8
   },
   {
-    "key": "items_164",
+    "key": "itemID_164",
     "en": "Gambesons",
     "vi": "Áo giáp vải",
-    "offset": 12863,
+    "offset": 12752,
     "length": 10
   },
   {
-    "key": "items_165",
+    "key": "itemID_165",
     "en": "Mail Armor",
     "vi": "Giáp xích",
-    "offset": 13213,
+    "offset": 13102,
     "length": 11
   },
   {
-    "key": "items_166",
+    "key": "itemID_166",
     "en": "Barley",
     "vi": "Đại mạch",
-    "offset": 13621,
+    "offset": 13510,
     "length": 7
   },
   {
-    "key": "items_171",
+    "key": "itemID_171",
     "en": "Rye Bread",
     "vi": "Bánh mì lúa mạch đen",
-    "offset": 13859,
+    "offset": 13748,
     "length": 10
   },
   {
-    "key": "items_172",
+    "key": "itemID_172",
     "en": "Berries",
     "vi": "Quả mọng",
-    "offset": 14272,
+    "offset": 14161,
     "length": 8
   },
   {
-    "key": "items_173",
+    "key": "itemID_173",
     "en": "Wheat Bread",
     "vi": "Bánh mì lúa mì",
-    "offset": 14503,
+    "offset": 14392,
     "length": 12
   },
   {
-    "key": "items_177",
+    "key": "itemID_177",
     "en": "Spices",
     "vi": "Gia vị",
-    "offset": 14909,
+    "offset": 14798,
     "length": 7
   },
   {
-    "key": "items_178",
+    "key": "itemID_178",
     "en": "Sidearms",
     "vi": "Kiếm ngắn",
-    "offset": 15198,
+    "offset": 15087,
     "length": 9
   },
   {
-    "key": "items_179",
+    "key": "itemID_179",
     "en": "Polearms",
     "vi": "Vũ khí cán dài",
-    "offset": 15575,
+    "offset": 15464,
     "length": 9
   },
   {
-    "key": "items_206",
+    "key": "ItemID_206",
     "en": "Warbows",
     "vi": "Cung chiến",
-    "offset": 15949,
+    "offset": 15838,
     "length": 8
   },
   {
-    "key": "items_207",
+    "key": "ItemID_207",
     "en": "Crossbows",
     "vi": "Nỏ",
-    "offset": 16311,
+    "offset": 16200,
     "length": 10
   },
   {
-    "key": "items_217",
+    "key": "itemID_217",
     "en": "Firewood",
     "vi": "Củi sưởi",
-    "offset": 16621,
+    "offset": 16510,
     "length": 9
   },
   {
-    "key": "items_218",
+    "key": "itemID_218",
     "en": "Wheat Sheaves",
     "vi": "Bó lúa mì",
-    "offset": 16940,
+    "offset": 16829,
     "length": 14
   },
   {
-    "key": "items_221",
+    "key": "itemID_221",
     "en": "Eggs",
     "vi": "Trứng",
-    "offset": 17364,
+    "offset": 17253,
     "length": 5
   },
   {
-    "key": "items_222",
+    "key": "itemID_222",
     "en": "Milk",
     "vi": "Sữa",
-    "offset": 17579,
+    "offset": 17468,
     "length": 5
   },
   {
-    "key": "items_223",
+    "key": "itemID_223",
     "en": "Goats",
     "vi": "Dê",
-    "offset": 17808,
+    "offset": 17697,
     "length": 6
   },
   {
-    "key": "items_229",
+    "key": "itemID_229",
     "en": "Water",
     "vi": "Nước",
-    "offset": 18034,
+    "offset": 17923,
     "length": 6
   },
   {
-    "key": "items_231",
+    "key": "itemID_231",
     "en": "Vegetables",
     "vi": "Rau củ",
-    "offset": 18233,
+    "offset": 18122,
     "length": 11
   },
   {
-    "key": "items_233",
+    "key": "itemID_233",
     "en": "Lambs",
-    "vi": "Cừu con",
-    "offset": 18526,
+    "vi": "Cừu non",
+    "offset": 18415,
     "length": 6
   },
   {
-    "key": "items_234",
+    "key": "itemID_234",
     "en": "A Dead Body",
     "vi": "Thi thể",
-    "offset": 18794,
+    "offset": 18683,
     "length": 12
   },
   {
-    "key": "items_235",
+    "key": "itemID_235",
     "en": "Oxen",
     "vi": "Bò kéo",
-    "offset": 19098,
+    "offset": 18987,
     "length": 5
   },
   {
-    "key": "items_258",
+    "key": "itemID_258",
     "en": "Log Piece",
     "vi": "Khúc gỗ",
-    "offset": 19316,
+    "offset": 19205,
     "length": 10
   },
   {
-    "key": "items_262",
+    "key": "itemID_262",
     "en": "Slag",
     "vi": "Xỉ quặng",
-    "offset": 19647,
+    "offset": 19536,
     "length": 5
   },
   {
-    "key": "items_270",
+    "key": "itemID_270",
     "en": "Rooftiles",
     "vi": "Ngói lợp",
-    "offset": 19894,
+    "offset": 19783,
     "length": 10
   },
   {
-    "key": "items_271",
+    "key": "itemID_271",
     "en": "Small Shields",
     "vi": "Khiên nhỏ",
-    "offset": 20200,
+    "offset": 20089,
     "length": 14
   },
   {
-    "key": "items_272",
+    "key": "itemID_272",
     "en": "Large Shields",
     "vi": "Khiên lớn",
-    "offset": 20614,
+    "offset": 20503,
     "length": 14
   },
   {
-    "key": "items_274",
+    "key": "itemID_274",
     "en": "Helmets",
     "vi": "Mũ sắt",
-    "offset": 21030,
+    "offset": 20919,
     "length": 8
   },
   {
-    "key": "items_280",
+    "key": "itemID_280",
     "en": "Mushrooms",
     "vi": "Nấm",
-    "offset": 21290,
+    "offset": 21179,
     "length": 10
   },
   {
-    "key": "items_284",
+    "key": "itemID_284",
     "en": "Dressed Stone",
     "vi": "Đá đẽo",
-    "offset": 21530,
+    "offset": 21419,
     "length": 14
   },
   {
-    "key": "items_288",
+    "key": "itemID_288",
     "en": "Greyhounds",
     "vi": "Chó săn",
-    "offset": 21956,
+    "offset": 21845,
     "length": 11
   },
   {
-    "key": "items_294",
+    "key": "itemID_294",
     "en": "Plate Armor",
     "vi": "Giáp tấm",
-    "offset": 22290,
+    "offset": 22179,
     "length": 12
   },
   {
-    "key": "items_297",
+    "key": "itemID_297",
     "en": "Apples",
     "vi": "Táo",
-    "offset": 22721,
+    "offset": 22610,
     "length": 7
   },
   {
-    "key": "items_299",
+    "key": "itemID_299",
     "en": "Rye Sheaves",
     "vi": "Bó lúa mạch đen",
-    "offset": 22977,
+    "offset": 22866,
     "length": 12
   },
   {
-    "key": "items_300",
+    "key": "itemID_300",
     "en": "Rye Grain",
     "vi": "Hạt lúa mạch đen",
-    "offset": 23363,
+    "offset": 23252,
     "length": 10
   },
   {
-    "key": "items_301",
+    "key": "itemID_301",
     "en": "Dung",
     "vi": "Phân chuồng",
-    "offset": 23754,
+    "offset": 23641,
     "length": 5
   },
   {
-    "key": "items_302",
+    "key": "itemID_302",
     "en": "Fertilizer",
     "vi": "Phân bón",
-    "offset": 24014,
+    "offset": 23901,
     "length": 11
   },
   {
-    "key": "items_303",
+    "key": "itemID_303",
     "en": "Dyes",
     "vi": "Thuốc nhuộm",
-    "offset": 24322,
+    "offset": 24209,
     "length": 5
   },
   {
-    "key": "items_307",
+    "key": "itemID_307",
     "en": "Mules",
     "vi": "La",
-    "offset": 24582,
+    "offset": 24469,
     "length": 6
   },
   {
     "key": "transitionary",
     "en": "Transitionary Resource",
     "vi": "Tài nguyên trung gian",
-    "offset": 24821,
+    "offset": 24708,
     "length": 23
   },
   {
-    "key": "items_318",
+    "key": "ItemID_318",
     "en": "Iron Parts",
     "vi": "Linh kiện sắt",
-    "offset": 25401,
+    "offset": 25288,
     "length": 11
   },
   {
-    "key": "items_319",
+    "key": "ItemID_319",
     "en": "Wild Animals per Herd",
     "vi": "Số lượng thú trong bầy",
-    "offset": 25865,
+    "offset": 25752,
     "length": 22
   },
   {
-    "key": "items_320",
+    "key": "ItemID_320",
     "en": "Fish per Pond",
     "vi": "Số lượng cá trong ao",
-    "offset": 26614,
+    "offset": 26501,
     "length": 14
   },
   {
-    "key": "items_321",
+    "key": "ItemID_321",
     "en": "Sausages",
     "vi": "Xúc xích",
-    "offset": 27170,
+    "offset": 27057,
     "length": 9
   },
   {
-    "key": "items_323",
+    "key": "ItemID_323",
     "en": "Siege ladders",
     "vi": "Thang công thành",
-    "offset": 27481,
+    "offset": 27368,
     "length": 14
   },
   {
-    "key": "items_324",
+    "key": "itemID_324",
     "en": "Smoked Fish",
     "vi": "Cá hun khói",
-    "offset": 28002,
+    "offset": 27889,
     "length": 12
   },
   {
-    "key": "items_325",
+    "key": "itemID_325",
     "en": "Zwieback",
     "vi": "Bánh mì sấy",
-    "offset": 28449,
+    "offset": 28336,
     "length": 9
   },
   {
-    "key": "items_326",
+    "key": "itemID_326",
     "en": "Mead",
     "vi": "Rượu mật ong",
-    "offset": 28778,
+    "offset": 28665,
     "length": 5
   },
   {
-    "key": "items_327",
+    "key": "itemID_327",
     "en": "Lebkuchen",
     "vi": "Bánh gừng",
-    "offset": 29070,
+    "offset": 28957,
     "length": 10
   },
   {
-    "key": "items_328",
+    "key": "itemID_328",
     "en": "Cider",
     "vi": "Rượu táo",
-    "offset": 29400,
+    "offset": 29287,
     "length": 6
   },
   {
-    "key": "items_330",
+    "key": "itemID_330",
     "en": "Mortar",
     "vi": "Vữa xây",
-    "offset": 29654,
+    "offset": 29541,
     "length": 7
   },
   {
-    "key": "items_331",
+    "key": "itemID_331",
     "en": "Small Game",
     "vi": "Thịt thú nhỏ",
-    "offset": 29955,
+    "offset": 29842,
     "length": 11
   },
   {
-    "key": "items_333",
+    "key": "itemID_333",
     "en": "Mutton",
     "vi": "Thịt cừu",
-    "offset": 30367,
+    "offset": 30254,
     "length": 7
   },
   {
-    "key": "items_334",
+    "key": "itemID_334",
     "en": "Chevon",
     "vi": "Thịt dê",
-    "offset": 30694,
+    "offset": 30581,
     "length": 7
   },
   {
-    "key": "items_335",
+    "key": "itemID_335",
     "en": "Pork",
     "vi": "Thịt lợn",
-    "offset": 31041,
+    "offset": 30928,
     "length": 5
   },
   {
-    "key": "items_336",
+    "key": "itemID_336",
     "en": "Beef",
     "vi": "Thịt bò",
-    "offset": 31370,
+    "offset": 31257,
     "length": 5
   },
   {
-    "key": "items_337",
+    "key": "itemID_337",
     "en": "Chicken",
     "vi": "Thịt gà",
-    "offset": 31711,
+    "offset": 31598,
     "length": 8
   },
   {
-    "key": "items_338",
+    "key": "itemID_338",
     "en": "Carrots",
     "vi": "Cà rốt",
-    "offset": 32000,
+    "offset": 31887,
     "length": 8
   },
   {
-    "key": "items_339",
+    "key": "itemID_339",
     "en": "Cabbages",
     "vi": "Bắp cải",
-    "offset": 32282,
+    "offset": 32169,
     "length": 9
   },
   {
-    "key": "items_340",
+    "key": "itemID_340",
     "en": "Beetroots",
     "vi": "Củ dền",
-    "offset": 32553,
+    "offset": 32440,
     "length": 10
   },
   {
-    "key": "items_341",
+    "key": "itemID_341",
     "en": "Church Access (Wood or Better)",
-    "vi": "Đến Nhà thờ (Gỗ trở lên)",
-    "offset": 32844,
+    "vi": "Tiếp cận Nhà thờ (Gỗ trở lên)",
+    "offset": 32731,
     "length": 31
   },
   {
-    "key": "items_342",
+    "key": "itemID_342",
     "en": "Church Access (Stone or Better)",
-    "vi": "Đến Nhà thờ (Đá trở lên)",
-    "offset": 33965,
+    "vi": "Tiếp cận Nhà thờ (Đá trở lên)",
+    "offset": 33852,
     "length": 32
+  },
+  {
+    "key": "itemID_343",
+    "en": "Church Access (Large Stone or Better)",
+    "vi": "Tiếp cận Nhà thờ (Nhà thờ đá lớn trở lên)",
+    "offset": 34954,
+    "length": 38
+  },
+  {
+    "key": "itemID_348",
+    "en": "Cows",
+    "vi": "Bò",
+    "offset": 36297,
+    "length": 5
+  },
+  {
+    "key": "itemID_349",
+    "en": "Cheese",
+    "vi": "Phô mai",
+    "offset": 36533,
+    "length": 7
+  },
+  {
+    "key": "itemID_350",
+    "en": "Oats",
+    "vi": "Yến mạch",
+    "offset": 36746,
+    "length": 5
+  },
+  {
+    "key": "itemID_351",
+    "en": "Oat Sheaves",
+    "vi": "Bó yến mạch",
+    "offset": 36973,
+    "length": 12
+  },
+  {
+    "key": "itemID_352",
+    "en": "Animal Feed",
+    "vi": "Thức ăn chăn nuôi",
+    "offset": 37363,
+    "length": 12
+  },
+  {
+    "key": "itemID_353",
+    "en": "Calves",
+    "vi": "Bê con",
+    "offset": 37732,
+    "length": 7
+  },
+  {
+    "key": "itemID_356",
+    "en": "Beef Sausages",
+    "vi": "Xúc xích thịt bò",
+    "offset": 37996,
+    "length": 14
+  },
+  {
+    "key": "itemID_357",
+    "en": "Pork Sausages",
+    "vi": "Xúc xích thịt lợn",
+    "offset": 38531,
+    "length": 14
   },
   {
     "key": "Construction",
     "en": "Construction",
     "vi": "Xây dựng",
-    "offset": 35067,
+    "offset": 39051,
     "length": 13
   },
   {
     "key": "Food",
     "en": "Food",
     "vi": "Lương thực",
-    "offset": 35406,
+    "offset": 39390,
     "length": 5
   },
   {
     "key": "Material",
     "en": "Material",
     "vi": "Vật liệu",
-    "offset": 35636,
+    "offset": 39620,
     "length": 9
   },
   {
     "key": "Commodity",
     "en": "Commodity",
     "vi": "Hàng hóa",
-    "offset": 35927,
+    "offset": 39911,
     "length": 10
   },
   {
     "key": "Livestock",
     "en": "Livestock",
     "vi": "Gia súc",
-    "offset": 36306,
+    "offset": 40290,
     "length": 10
   },
   {
     "key": "Military",
     "en": "Military",
     "vi": "Vũ khí & Giáp",
-    "offset": 36582,
+    "offset": 40566,
     "length": 9
   },
   {
     "key": "Crop",
     "en": "Crop",
     "vi": "Nông sản",
-    "offset": 36867,
+    "offset": 40851,
     "length": 5
   },
   {
     "key": "Special",
     "en": "Special",
     "vi": "Đặc biệt",
-    "offset": 37149,
+    "offset": 41133,
     "length": 8
   },
   {
     "key": "Fuel",
     "en": "Fuel",
     "vi": "Chất đốt",
-    "offset": 37443,
+    "offset": 41427,
     "length": 5
   },
   {
     "key": "Siege",
     "en": "Siege",
     "vi": "Công thành",
-    "offset": 37749,
+    "offset": 41733,
     "length": 6
   },
   {
     "key": "Recipe",
     "en": "Recipe",
     "vi": "Công thức",
-    "offset": 38039,
+    "offset": 42023,
     "length": 7
   }
 ]

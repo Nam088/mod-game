@@ -21,13 +21,6 @@
     "length": 25
   },
   {
-    "key": "maintenance_25856",
-    "en": "Affiniteit: plaatselijke klusjesmannen",
-    "vi": "Đặc tính: Thợ thủ công địa phương",
-    "offset": 2506,
-    "length": 39
-  },
-  {
     "key": "EMaintenanceRateModifier::Perk_ImprovedMineMaintenance",
     "en": "Perk: Nuremberg Prospectors",
     "vi": "Đặc quyền: Dân đãi khoáng xứ Nuremberg",
@@ -117,5 +110,26 @@
     "vi": "Không có",
     "offset": 12138,
     "length": 5
+  },
+  {
+    "key": "QuarterConstructionDebuff",
+    "en": "-25% Construction Speed",
+    "vi": "-25% Tốc độ xây dựng",
+    "offset": 12340,
+    "length": 24
+  },
+  {
+    "key": "HalfConstructionDebuff",
+    "en": "-50% Construction Speed",
+    "vi": "-50% Tốc độ xây dựng",
+    "offset": 13224,
+    "length": 24
+  },
+  {
+    "key": "QuarterConstructionBuff",
+    "en": "+25% Construction Speed",
+    "vi": "+25% Tốc độ xây dựng",
+    "offset": 14108,
+    "length": 24
   }
 ]

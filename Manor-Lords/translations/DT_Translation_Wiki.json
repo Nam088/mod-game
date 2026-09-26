@@ -23,7 +23,7 @@
   {
     "key": "family_descr",
     "en": "<img id=\"worker\"/>Families are the backbone of your Settlement. They live mainly in <img id=\"house\"/>Burgage Plots and work as a single unit, though members may take on different tasks. For example, at a Trading Post, one member handles trades while others manage the stock.{br}{br}Each Family consumes 1 <img id=\"food\"/>Food per month. Depending on the level of their Burgage Plot, they may also consume Clothing, and if sick, they will consume <img id=\"ItemID_18\"/>Herbs.{br}{br}With a <img id=\"extension\"/>Backyard Extension, <img id=\"worker\"/>Family Members split their time between their <h>workplace</> and the backyard.{br}{br}Only Male members (husbands and sons) serve in the Militia.{br}{br}Families may also turn to Banditry if <img id=\"PublicOrder\"/>Public Order is low.",
-    "vi": "<img id=\"worker\"/> Các hộ gia đình là rường cột trong khu định cư của bạn. Họ sống chủ yếu trong các <img id=\"house\"/> Nhà dân và làm việc như một đơn vị thống nhất, dù các thành viên có thể đảm nhiệm những công việc khác nhau. Ví dụ, tại Trạm giao thương, một người phụ trách mua bán trong khi người khác quản lý kho bãi.{br}{br}Mỗi gia đình tiêu thụ 1 <img id=\"food\"/> Lương thực mỗi tháng. Tùy theo cấp độ Nhà dân, họ cũng có thể tiêu thụ Quần áo, và nếu đau ốm, họ sẽ dùng <img id=\"ItemID_18\"/> Thảo dược.{br}{br}Khi có <img id=\"extension\"/> Tiện ích sân sau, các <img id=\"worker\"/> Thành viên gia đình sẽ phân chia thời gian giữa <h>nơi làm việc</> và khu sân sau.{br}{br}Chỉ có nam giới (chồng và con trai) mới tham gia Dân quân.{br}{br}Các gia đình cũng có thể tha hóa đi làm Thảo khấu nếu <img id=\"PublicOrder\"/> Trật tự công cộng xuống thấp.",
+    "vi": "<img id=\"worker\"/> Các hộ gia đình là trụ cột trong khu định cư của bạn. Họ sống chủ yếu trong các <img id=\"house\"/> Nhà dân và làm việc như một đơn vị thống nhất, dù các thành viên có thể đảm nhiệm những công việc khác nhau. Ví dụ, tại Trạm giao thương, một người phụ trách mua bán trong khi người khác quản lý kho bãi.{br}{br}Mỗi gia đình tiêu thụ 1 <img id=\"food\"/> Lương thực mỗi tháng. Tùy theo cấp độ Nhà dân, họ cũng có thể tiêu thụ Quần áo, và nếu đau ốm, họ sẽ dùng <img id=\"ItemID_18\"/> Thảo dược.{br}{br}Khi có <img id=\"extension\"/> Tiện ích sân sau, các <img id=\"worker\"/> Thành viên gia đình sẽ phân chia thời gian giữa <h>nơi làm việc</> và khu sân sau.{br}{br}Chỉ có nam giới (chồng và con trai) mới tham gia Dân quân.{br}{br}Các gia đình cũng có thể tha hóa đi làm Thảo khấu nếu <img id=\"PublicOrder\"/> Trật tự trị an xuống thấp.",
     "offset": 14370,
     "length": 783
   },
@@ -65,7 +65,7 @@
   {
     "key": "storage_buildings_descr",
     "en": "These buildings are used primarily to store and distribute <h>SURPLUS</> resources : <h>STOREHOUSE</>, <h>LARGE STOREHOUSE</>, <h>SMALL GRANARY</>, <h>LARGE GRANARY</>. Storehouses use <h>GENERIC STORAGE</>, while granaries have <h>PANTRY</> space for <h>FOOD</>.",
-    "vi": "Các công trình này được dùng chủ yếu để lưu trữ và phân phối tài nguyên <h>THẶNG DƯ</>: <h>KHO VẬT TƯ</>, <h>KHO VẬT TƯ LỚN</>, <h>KHO LƯƠNG THỰC NHỎ</>, <h>KHO LƯƠNG THỰC LỚN</>. Kho vật tư dùng <h>KHO CHỨA VẬT TƯ</>, trong khi kho lương thực có không gian <h>TỦ CHỨA</> dành cho <h>LƯƠNG THỰC</>.",
+    "vi": "Các công trình này được dùng chủ yếu để lưu trữ và phân phối tài nguyên <h>THẶNG DƯ</>: <h>KHO VẬT TƯ</>, <h>KHO VẬT TƯ LỚN</>, <h>KHO LƯƠNG THỰC NHỎ</>, <h>KHO LƯƠNG THỰC LỚN</>. Kho vật tư dùng <h>KHO CHỨA VẬT TƯ</>, trong khi kho lương thực có không gian <h>KHO LƯƠNG THỰC</> dành cho <h>LƯƠNG THỰC</>.",
     "offset": 80189,
     "length": 264
   },
@@ -107,7 +107,7 @@
   {
     "key": "reserved_resources_descr",
     "en": "<h>Stock</> which is dedicated for Crafting or Construction and therefore no longer accounts as <h>Surplus</>.",
-    "vi": "Lượng <h>Tồn kho</> đã được chỉ định chỉ định cho việc Chế tác hoặc Xây dựng và do đó không còn được tính là <h>Thặng dư</>.",
+    "vi": "Lượng <h>Tồn kho</> đã được giữ trước cho việc Chế tác hoặc Xây dựng và do đó không còn được tính là <h>Thặng dư</>.",
     "offset": 100139,
     "length": 111
   },
@@ -177,21 +177,21 @@
   {
     "key": "artisans_descr",
     "en": "Artisans are a type of <img id=\"worker\"/>Family who are permanently assigned to work at their home. {br}{br}A <img id=\"worker\"/>Family becomes an Artisan when a <img id=\"extension\"/>Workshop is built in the <h>Extension Slot</> of a Burgage Plot. {br}{br}Artisans can not be assigned to any other <h>workplace</> other than their own home, even if production in their home is paused.",
-    "vi": "Thợ thủ công là một dạng <img id=\"worker\"/> Gia đình được chỉ định làm việc vĩnh viễn tại nhà của họ.{br}{br}Một <img id=\"worker\"/> Gia đình trở thành Thợ thủ công khi một <img id=\"extension\"/> Xưởng thủ công được xây dựng trong <h>Ô Tiện ích</> của Nhà dân.{br}{br}Thợ thủ công không thể được phân công sang bất kỳ <h>nơi làm việc</> nào khác ngoài chính ngôi nhà của họ, ngay cả khi xưởng tại nhà tạm dừng sản xuất.",
+    "vi": "Thợ thủ công là một dạng <img id=\"worker\"/> Gia đình được chỉ định làm việc vĩnh viễn tại nhà của họ.{br}{br}Một <img id=\"worker\"/> Gia đình trở thành Thợ thủ công khi một <img id=\"extension\"/> Xưởng thủ công được xây dựng trong <h>Ô Mở rộng</> của Nhà dân.{br}{br}Thợ thủ công không thể được phân công sang bất kỳ <h>nơi làm việc</> nào khác ngoài chính ngôi nhà của họ, ngay cả khi xưởng tại nhà tạm dừng sản xuất.",
     "offset": 152136,
     "length": 384
   },
   {
     "key": "extension_slot",
     "en": "Extension Slot",
-    "vi": "Ô Tiện ích sân sau",
+    "vi": "Ô Mở rộng sân sau",
     "offset": 165054,
     "length": 15
   },
   {
     "key": "extension_slot_descr",
     "en": "Space in the backyard of any large <img id=\"house\"/>Burgage Plot which can be used to build a <img id=\"extension\"/>Backyard Extension or <img id=\"extension\"/>Workshop.",
-    "vi": "Không gian sân sau của các <img id=\"house\"/> Nhà dân có diện tích đủ lớn, dùng để xây <img id=\"extension\"/> Tiện ích sân sau hoặc <img id=\"extension\"/> Xưởng thủ công.",
+    "vi": "Không gian sân sau của các <img id=\"house\"/> Nhà dân có diện tích đủ lớn, dùng để làm <img id=\"extension\"/> Mở rộng sân sau hoặc <img id=\"extension\"/> Xưởng thủ công.",
     "offset": 165588,
     "length": 168
   },
@@ -294,37 +294,51 @@
     "length": 10
   },
   {
+    "key": "workplace_descr",
+    "en": "A Workplace is any building where a <img id=\"worker\"/>Family spends its working hours. Once assigned, <img id=\"worker\"/>Family Members take on roles such as Hunter or Firewood Cutter to reflect their role within the Settlement. They perform tasks like transporting resources, maintaining equipment, crafting, and sometimes resting at home.{br}{br}You can track workers in the People tab of a Workplace or home. From there, <img id=\"worker\"/>Families can be reassigned to different Workplaces to improve efficiency by reducing travel time. If a Workplace’s production is paused, its <img id=\"worker\"/>Family becomes unassigned.{br}{br}Workshops operate differently. A <img id=\"worker\"/>Family living in a <img id=\"house\"/>Burgage Plot with a Workshop automatically become <h>Artisans</> and work there permanently. Even if the Workshop is disabled, Artisans do not take other jobs.",
+    "vi": "Nơi làm việc là bất kỳ công trình nào mà <img id=\"worker\"/> Hộ dân dành thời gian làm việc tại đó. Sau khi được phân công, các thành viên trong <img id=\"worker\"/> Hộ dân sẽ đảm nhận các vai trò như Thợ săn hoặc Thợ đốn củi để tương ứng với nhiệm vụ trong Khu định cư. Họ thực hiện các công việc như vận chuyển tài nguyên, bảo trì công cụ, chế tác, và đôi khi nghỉ ngơi tại nhà.{br}{br}Bạn có thể theo dõi người lao động trong tab Nhân khẩu của Nơi làm việc hoặc Nhà ở. Tại đây, các <img id=\"worker\"/> Hộ dân có thể được điều chuyển sang Nơi làm việc khác để tăng hiệu suất nhờ giảm quãng đường đi lại. Nếu một Nơi làm việc tạm dừng sản xuất, <img id=\"worker\"/> Hộ dân tại đó sẽ trở về trạng thái Chưa phân công.{br}{br}Các Xưởng thủ công hoạt động theo cách khác. Một <img id=\"worker\"/> Hộ dân sinh sống trong <img id=\"house\"/> Nhà dân có Xưởng nghề sẽ tự động trở thành <h>Thợ thủ công</> và làm việc cố định tại đó. Ngay cả khi Xưởng nghề bị tạm dừng, Thợ thủ công cũng sẽ không nhận làm các công việc khác.",
+    "offset": 215793,
+    "length": 881
+  },
+  {
     "key": "spoilage",
     "en": "Food Spoilage",
-    "vi": "Hao hụt thực phẩm",
+    "vi": "Ôi thiu lương thực",
     "offset": 249189,
     "length": 14
   },
   {
+    "key": "spoilage_descr",
+    "en": "<img id=\"Food\"/>Food is a perishable resource, and is prone to <r>spoiling</> each month. Different types of <img id=\"Food\"/>Foods spoil at different rates, and can be affected by external factors such as a Drought. To reduce the rate of <img id=\"spoilage\"/>Food Spoilage, ensure that it’s not exposed to the elements. <img id=\"worker\"/>Families assigned to a <h>Granary</> will work to move and store Food, reducing its <img id=\"spoilage\"/>Spoilage Rate. <img id=\"spoilage\"/>Food Spoilage can never be completely prevented, only reduced and mitigated.",
+    "vi": "<img id=\"Food\"/> Lương thực là tài nguyên dễ hư hỏng và có nguy cơ bị <r>ôi thiu</> mỗi tháng. Các loại <img id=\"Food\"/> Lương thực khác nhau sẽ hư hỏng với tốc độ khác nhau, và có thể bị ảnh hưởng bởi các yếu tố bên ngoài như Hạn hán. Để giảm tốc độ <img id=\"spoilage\"/> Ôi thiu lương thực, hãy đảm bảo lương thực không bị phơi mưa phơi nắng. Các <img id=\"worker\"/> Hộ dân được phân công vào <h>Kho lương thực</> sẽ chuyển và cất giữ lương thực, giúp giảm bớt <img id=\"spoilage\"/> Tốc độ ôi thiu. <img id=\"spoilage\"/> Ôi thiu lương thực không bao giờ có thể ngăn ngừa triệt để, mà chỉ có thể làm chậm và hạn chế bớt.",
+    "offset": 249717,
+    "length": 553
+  },
+  {
     "key": "backyard_extension",
     "en": "Backyard Extension",
-    "vi": "Tiện ích sân sau",
+    "vi": "Mở rộng sân sau",
     "offset": 269519,
     "length": 19
   },
   {
     "key": "backyard_extension_descr",
     "en": "A <img id=\"extension\"/>Backyard Extension allows the <img id=\"worker\"/>Family living in the <img id=\"house\"/>Burgage Plot to produce additional resources. The <img id=\"worker\"/>Family living here will take additional time away from their Assigned Work when tending to their extension.{br}{br}<img id=\"vegetables\"/>Vegetable Gardens and <img id=\"fruits\"/>Orchards have increased Yield proportional to their <img id=\"extension\"/>Backyard Extension size, but will require more <img id=\"ItemID_0\"/>Regional Wealth to purchase, and more <img id=\"worker\"/>Families living at the residence to be able to work the plot sufficiently.{br}{br}Artisan Workshops such as a Baker or Blacksmith require the <img id=\"house\"/>Burgage Plot to be at least Lvl 2.",
-    "vi": "<img id=\"extension\"/> Tiện ích sân sau cho phép <img id=\"worker\"/> Gia đình sống trong <img id=\"house\"/> Nhà dân sản xuất thêm tài nguyên phụ. <img id=\"worker\"/> Gia đình sống tại đây sẽ phải dành thêm thời gian chăm sóc sân sau ngoài công việc chính được phân công.{br}{br}<img id=\"vegetables\"/> Vườn rau và <img id=\"fruits\"/> Vườn cây ăn quả sẽ tăng sản lượng tỷ lệ thuận với diện tích <img id=\"extension\"/> Sân sau, nhưng sẽ tốn nhiều <img id=\"ItemID_0\"/> Tài sản vùng hơn để đầu tư ban đầu, đồng thời cần nhiều <img id=\"worker\"/> Gia đình cùng sinh sống để canh tác hiệu quả.{br}{br}Các Xưởng thủ công như Lò bánh mì hay Lò rèn yêu cầu <img id=\"house\"/> Nhà dân phải đạt tối thiểu Cấp 2.",
+    "vi": "<img id=\"extension\"/> Mở rộng sân sau cho phép <img id=\"worker\"/> Gia đình sống trong <img id=\"house\"/> Nhà dân sản xuất thêm tài nguyên phụ. <img id=\"worker\"/> Gia đình sống tại đây sẽ phải dành thêm thời gian chăm sóc sân sau ngoài công việc chính được phân công.{br}{br}<img id=\"vegetables\"/> Vườn rau và <img id=\"fruits\"/> Vườn cây ăn quả sẽ tăng sản lượng tỷ lệ thuận với diện tích <img id=\"extension\"/> Mở rộng sân sau, nhưng sẽ tốn nhiều <img id=\"ItemID_0\"/> Tài sản vùng hơn để đầu tư ban đầu, đồng thời cần nhiều <img id=\"worker\"/> Gia đình cùng sinh sống để canh tác hiệu quả.{br}{br}Các Xưởng thủ công như Lò bánh mì hay Lò rèn yêu cầu <img id=\"house\"/> Nhà dân phải đạt tối thiểu Cấp 2.",
     "offset": 270123,
     "length": 744
   },
   {
     "key": "emigration",
     "en": "Emigration",
-    "vi": "Rời bỏ quê hương",
+    "vi": "Ly hương",
     "offset": 294349,
     "length": 11
   },
   {
     "key": "emigration_descr",
     "en": "Emigration is when your <h>FAMILIES$FAMILY</> start to leave the settlement permanently, usually due to low <h>PUBLIC ORDER</> or low <h>APPROVAL</>.",
-    "vi": "Rời bỏ quê hương là khi các <h>GIA ĐÌNH$GIA ĐÌNH</> bắt đầu bỏ đi vĩnh viễn khỏi khu định cư, thường do <h>TRẬT TỰ CÔNG CỘNG</> hoặc <h>LÒNG DÂN</> xuống quá thấp.",
+    "vi": "Ly hương là khi các <h>GIA ĐÌNH$GIA ĐÌNH</> bắt đầu bỏ đi vĩnh viễn khỏi khu định cư, thường do <h>TRẬT TỰ TRỊ AN</> hoặc <h>LÒNG DÂN</> xuống quá thấp.",
     "offset": 294681,
     "length": 150
   },
@@ -338,21 +352,21 @@
   {
     "key": "banditry_descr",
     "en": "When <h>PUBLIC ORDER</> falls, residents can be seen <h>EMIGRATING$EMIGRATION</> and joining nearby <h>BANDIT CAMPS$BANDIT CAMP</>.",
-    "vi": "Khi <h>TRẬT TỰ CÔNG CỘNG</> suy giảm, dân làng có thể sẽ <h>BỎ ĐI$RỜI BỎ QUÊ HƯƠNG</> và gia nhập các <h>TRẠI CƯỚP$TRẠI CƯỚP</> lân cận.",
+    "vi": "Khi <h>TRẬT TỰ TRỊ AN</> suy giảm, dân làng có thể sẽ <h>BỎ ĐI$LY HƯƠNG</> và gia nhập các <h>TRẠI CƯỚP$TRẠI CƯỚP</> lân cận.",
     "offset": 300217,
     "length": 132
   },
   {
     "key": "public_order",
     "en": "Public Order",
-    "vi": "Trật tự công cộng",
+    "vi": "Trật tự trị an",
     "offset": 304888,
     "length": 13
   },
   {
     "key": "public_order_descr",
     "en": "<img id=\"PublicOrder\"/>Public Order is a measure of the stability of your population in the Region. It may fall due to increased <img id=\"home\"/>Homelessness, Unemployment, lack of Administration and low <img id=\"Approval\"/>Approval. When it falls, it increases the chances of Residents turning to Banditry.",
-    "vi": "<img id=\"PublicOrder\"/> Trật tự công cộng là thước đo sự ổn định của người dân trong Vùng. Chỉ số này có thể sụt giảm do tình trạng <img id=\"home\"/> Vô gia cư, Thất nghiệp, thiếu năng lực Quản lý hành chính và <img id=\"Approval\"/> Lòng dân thấp. Khi trật tự giảm, nguy cơ dân làng biến thành Giặc cướp sẽ tăng cao.",
+    "vi": "<img id=\"PublicOrder\"/> Trật tự trị an là thước đo sự ổn định của người dân trong Vùng. Chỉ số này có thể sụt giảm do tình trạng <img id=\"home\"/> Vô gia cư, Thất nghiệp, thiếu năng lực Quản lý hành chính và <img id=\"Approval\"/> Lòng dân thấp. Khi trật tự giảm, nguy cơ dân làng biến thành Giặc cướp sẽ tăng cao.",
     "offset": 305394,
     "length": 308
   },
@@ -420,7 +434,14 @@
     "length": 12
   },
   {
-    "key": "maintenanceUpkeep",
+    "key": "maintenanceUpkeep_descr",
+    "en": "Some workplaces require upkeep resources, such as <img id=\"ItemID_6\"/>Tools, to function efficiently. These aren’t consumed in crafting but wear down over time, needing regular replacement.{br}{br}Without upkeep, workplaces may suffer failures—ranging from wasted inputs (botches) to total collapse in large structures like Mines or Churches.{br}{br}The <img id=\"maintenance\"/>Maintenance slider adjusts how quickly upkeep resources wear out, and also directly affects worker Labor Time.{br}{br}A building's <img id=\"maintenance\"/>Maintenance is active if the building is not paused and a <img id=\"worker\"/>Family is assigned to it.",
+    "vi": "Một số nơi làm việc đòi hỏi tài nguyên duy tu, chẳng hạn như <img id=\"ItemID_6\"/> Công cụ, để hoạt động hiệu quả. Chúng không bị tiêu hao trong chế tác mà hao mòn dần theo thời gian và cần được thay mới định kỳ.{br}{br}Nếu thiếu bảo trì, nơi làm việc có thể gặp sự cố—từ việc lãng phí nguyên liệu cho đến sập đổ hoàn toàn ở các công trình lớn như Hầm mỏ hoặc Nhà thờ.{br}{br}Thanh trượt <img id=\"maintenance\"/> Bảo trì điều chỉnh tốc độ hao mòn của tài nguyên duy tu, đồng thời ảnh hưởng trực tiếp đến Thời gian lao động của công nhân.{br}{br}Công tác <img id=\"maintenance\"/> Bảo trì của công trình chỉ hoạt động khi công trình không bị tạm dừng và có một <img id=\"worker\"/> Hộ dân được phân công vào đó.",
+    "offset": 387370,
+    "length": 633
+  },
+  {
+    "key": "approval",
     "en": "Approval",
     "vi": "Lòng dân",
     "offset": 411886,
@@ -439,6 +460,13 @@
     "vi": "Môi trường",
     "offset": 426884,
     "length": 12
+  },
+  {
+    "key": "environment_descr",
+    "en": "A Region’s Environment is divided into distinct Landscapes that respond dynamically to how you build. As one Landscape expands, others contract, and the Affinities tied to them will strengthen or weaken accordingly.{br}{br}<img id=\"env_meadow\"/>Meadow – stretches of open grassland.{br}{br}<img id=\"env_woodland\"/>Woodland – dense and living forest.{br}{br}<img id=\"env_farmland\"/>Farmland – fields, both fallow and under cultivation.{br}{br}<img id=\"env_rural\"/>Rural – settled countryside, which includes most buildings, Wooden Church, Manor (Wood) and Burgage Plots Lvl 1 and Lvl 2.{br}{br}<img id=\"env_urban\"/>Urban – thriving centers of trade and craft, includes the Stone Church, Manor (Stone) and Burgage Plots Lvl 3 and beyond.{br}{br}",
+    "vi": "Môi trường của một Vùng được chia thành các Cảnh quan riêng biệt biến đổi linh hoạt theo cách bạn xây dựng. Khi một Cảnh quan mở rộng, các cảnh quan khác sẽ thu hẹp lại, và các Đặc tính gắn liền với chúng cũng sẽ mạnh lên hoặc yếu đi tương ứng.{br}{br}<img id=\"env_meadow\"/> Đồng cỏ – những dải đồng cỏ mở rộng mênh mông.{br}{br}<img id=\"env_woodland\"/> Rừng rậm – những cánh rừng rậm rạp và trù phú.{br}{br}<img id=\"env_farmland\"/> Đất nông nghiệp – các cánh đồng, cả ruộng bỏ hoang lẫn ruộng đang canh tác.{br}{br}<img id=\"env_rural\"/> Nông thôn – vùng thôn dã định cư, bao gồm hầu hết công trình, Nhà thờ gỗ, Dinh thự (Gỗ) và Nhà dân Cấp 1, Cấp 2.{br}{br}<img id=\"env_urban\"/> Đô thị – các trung tâm giao thương và thủ công sầm uất, bao gồm Nhà thờ đá, Dinh thự (Đá) và Nhà dân Cấp 3 trở lên.{br}{br}",
+    "offset": 427216,
+    "length": 744
   },
   {
     "key": "regional_wealth",
@@ -490,6 +518,13 @@
     "length": 14
   },
   {
+    "key": "deposit_shoal_of_fish_descr",
+    "en": "Resources: <img id=\"itemID_30\"/>Carp (Pond, River, Lake), <img id=\"itemID_32\"/>Eel (<img id=\"richDeposit\"/>Rich River, <img id=\"richDeposit\"/>Rich Lake){br}Acquired by: <h>Fisherman’s Hut</>{br}{br}Fish repopulate in <img id=\"Spring\"/>Spring, increasing by approximately 40% of their current population at the end of each month. Shoals located in ponds are vulnerable to drought; when one occurs, the pond shrinks dramatically, and so does the deposit capacity until conditions improve.{br}{br}Shoals during <img id=\"Winter\"/>Winter may become inaccessible due to Freezing.",
+    "vi": "Tài nguyên: <img id=\"itemID_30\"/> Cá chép (Ao, Sông, Hồ), <img id=\"itemID_32\"/> Lươn (Sông có <img id=\"richDeposit\"/> Trữ lượng lớn, Hồ có <img id=\"richDeposit\"/> Trữ lượng lớn){br}Khai thác bởi: <h>Lán đánh cá</>{br}{br}Cá sinh sản hồi phục vào <img id=\"Spring\"/> Mùa xuân, tăng khoảng 40% số lượng hiện có vào cuối mỗi tháng. Các luồng cá trong ao rất dễ bị ảnh hưởng bởi hạn hán; khi hạn hán xảy ra, ao sẽ co cạn nghiêm trọng và trữ lượng cá cũng giảm theo cho tới khi thời tiết thuận lợi trở lại.{br}{br}Vào <img id=\"Winter\"/> Mùa đông, các luồng cá có thể không thể đánh bắt do mặt nước đóng băng.",
+    "offset": 490638,
+    "length": 574
+  },
+  {
     "key": "deposit_wild_animals",
     "en": "Wild Animals",
     "vi": "Thú hoang",
@@ -511,11 +546,25 @@
     "length": 13
   },
   {
+    "key": "deposit_wild_berries_descr",
+    "en": "Resources: <img id=\"itemID_171\"/>Berries{br}Acquired by: <h>Forager’s Hut</>{br}{br}Wild Berries replenish in <img id=\"Spring\"/>Spring and <img id=\"Summer\"/>Summer, approximately every 10 days, and typically take 3 months to reach full capacity. Beginning in <img id=\"Autumn\"/>Autumn, they rapidly shrink and remain barren throughout <img id=\"Winter\"/>Winter until <img id=\"Spring\"/>Spring.",
+    "vi": "Tài nguyên: <img id=\"itemID_171\"/> Quả mọng{br}Khai thác bởi: <h>Lán hái lượm</>{br}{br}Quả mọng hoang hồi phục vào <img id=\"Spring\"/> Mùa xuân và <img id=\"Summer\"/> Mùa hạ, khoảng 10 ngày một đợt, và thường mất 3 tháng để đạt trữ lượng tối đa. Bắt đầu từ <img id=\"Autumn\"/> Mùa thu, bụi cây suy giảm nhanh chóng và trơ trụi suốt <img id=\"Winter\"/> Mùa đông cho đến tận <img id=\"Spring\"/> Mùa xuân.",
+    "offset": 536293,
+    "length": 391
+  },
+  {
     "key": "deposit_mushrooms",
     "en": "Mushrooms",
     "vi": "Nấm rừng",
     "offset": 550189,
     "length": 10
+  },
+  {
+    "key": "deposit_mushrooms_descr",
+    "en": "Resources: <img id=\"itemID_279\"/>Mushrooms{br}Acquired by: <h>Forager’s Hut</>{br}{br}Mushrooms replenish in <img id=\"Spring\"/>Spring and <img id=\"Summer\"/>Summer, approximately every 10 days, and typically take 3 months to reach full capacity. Beginning in <img id=\"Autumn\"/>Autumn, they rapidly shrink and remain barren throughout <img id=\"Winter\"/>Winter until <img id=\"Spring\"/>Spring.",
+    "vi": "Tài nguyên: <img id=\"itemID_279\"/> Nấm{br}Khai thác bởi: <h>Lán hái lượm</>{br}{br}Nấm hồi phục vào <img id=\"Spring\"/> Mùa xuân và <img id=\"Summer\"/> Mùa hạ, khoảng 10 ngày một đợt, và thường mất 3 tháng để đạt trữ lượng tối đa. Bắt đầu từ <img id=\"Autumn\"/> Mùa thu, vạt nấm lụi tàn nhanh chóng và trơ trụi suốt <img id=\"Winter\"/> Mùa đông cho đến tận <img id=\"Spring\"/> Mùa xuân.",
+    "offset": 550429,
+    "length": 390
   },
   {
     "key": "deposit_stone",
@@ -568,9 +617,37 @@
   },
   {
     "key": "deposit_salt_descr",
-    "en": "Resources: <img id=\"itemID_145\"/>Salt{br}Acquired by: <h>Mining Pit</>{br}{br}The <h>Mining Pit</> provides access to a Salt Deposit. If the deposit is <img id=\"richDeposit\"/>Rich, it can be upgraded to a <h>Deep Mine</>, allowing <img id=\"itemID_145\"/>Salt to be extracted indefinitely. Additional Mining Pits can be placed on the same deposit, however this increases the chance of collapse. <img id=\"itemID_145\"/>Salt is primarily used as a trade commodity and by the <h>Butcher</> as a food preservative.",
-    "vi": "Tài nguyên: <img id=\"itemID_145\"/> Muối{br}Khai thác bởi: <h>Hầm mỏ</> {br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ muối. Nếu là mỏ <img id=\"richDeposit\"/> Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_145\"/> Muối vô hạn. Có thể đặt nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_145\"/> Muối chủ yếu dùng làm hàng hóa giao thương và được <h>Thợ mổ thịt</> dùng để ướp bảo quản thực phẩm.",
+    "en": "Resources: <img id=\"itemID_145\"/>Salt{br}Acquired by: <h>Mining Pit</>{br}{br}The <h>Mining Pit</> provides access to a Salt Deposit. If the deposit is <img id=\"richDeposit\"/>Rich, it can be upgraded to a <h>Deep Mine</>, allowing <img id=\"itemID_145\"/>Salt to be extracted indefinitely. Additional Mining Pits can be placed on the same deposit, however this increases the chance of collapse. <img id=\"itemID_145\"/>Salt is primarily used as a trade commodity or by the <h>Butcher</> and <h>Cheesemonger</> as a food preservative.",
+    "vi": "Tài nguyên: <img id=\"itemID_145\"/> Muối{br}Khai thác bởi: <h>Hầm mỏ</>{br}{br}<h>Hầm mỏ</> cho phép khai thác Mỏ muối. Nếu là mỏ có <img id=\"richDeposit\"/> Trữ lượng lớn, có thể nâng cấp lên <h>Mỏ sâu</>, cho phép khai thác <img id=\"itemID_145\"/> Muối vô hạn. Có thể đặt thêm nhiều Hầm mỏ trên cùng một mỏ khoáng, tuy nhiên điều này sẽ làm tăng nguy cơ sập mỏ. <img id=\"itemID_145\"/> Muối chủ yếu dùng làm hàng hóa giao thương hoặc được <h>Thợ mổ thịt</> và <h>Thợ làm phô mai</> dùng để ướp bảo quản thực phẩm.",
     "offset": 625140,
-    "length": 508
+    "length": 530
+  },
+  {
+    "key": "pasture_animals",
+    "en": "Pasture Animals",
+    "vi": "Gia súc chăn thả",
+    "offset": 643470,
+    "length": 16
+  },
+  {
+    "key": "pasture_animals_descr",
+    "en": "Pasture Animals must be provided with <img id=\"itemID_351\"/> <h>Animal Feed</> each <img id=\"Winter\"/><h>Winter</> month or else they will starve to death.{br}{br}<img id=\"itemID_351\"/> <h>Animal Feed</> requirements:{br}- <img id=\"Sheep\"/><h>Sheep</>, <img id=\"Lamb\"/><h>Lambs</>, <img id=\"itemID_352\"/><h>Calves</>: 1{br}- <img id=\"Cow\"/><h>Cows</>: 2{br}{br}<h>Livestock Farm</> workers will produce 2 <img id=\"itemID_351\"/> <h>Animal Feed</> from 1 <img id=\"itemID_349\"/><h>Oats</>. They also collect produce from the Animals:{br}- <img id=\"Sheep\"/><h>Sheep</> are sheared once per year during <img id=\"Summer\"/><h>Summer</>, producing 2 <img id=\"itemID_23\"/><h>Wool</> each. {br}- <img id=\"Cow\"/><h>Cows</> are milked once per month during <img id=\"Spring\"/><h>Spring</>, <img id=\"Summer\"/><h>Summer</> and <img id=\"Autumn\"/><h>Autumn</>, producing 1 <img id=\"itemID_221\"/><h>Milk</> each.{br}<h>Environment</> Affinities may contribute to increased yields.{br}{br}Pasture Animals give birth in <img id=\"Spring\"/><h>Spring</>, provided they became pregnant in prior months (<img id=\"Cow\"/><h>Cows</> in <img id=\"Summer\"/><h>Summer</>, <img id=\"Sheep\"/><h>Sheep</> in <img id=\"Autumn\"/><h>Autumn</>) and there is available <img id=\"WoodenFence\"/> <h>Pasture Space</> in the <h>Region</>.",
+    "vi": "Gia súc chăn thả bắt buộc phải được cung cấp <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</> vào mỗi tháng trong <img id=\"Winter\"/> <h>Mùa đông</>, nếu không chúng sẽ chết đói.{br}{br}Định mức nhu cầu <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</>:{br}- <img id=\"Sheep\"/> <h>Cừu</>, <img id=\"Lamb\"/> <h>Cừu non</>, <img id=\"itemID_352\"/> <h>Bê con</>: 1{br}- <img id=\"Cow\"/> <h>Bò</>: 2{br}{br}Thợ <h>Trại chăn nuôi gia súc</> sẽ sản xuất được 2 phần <img id=\"itemID_351\"/> <h>Thức ăn chăn nuôi</> từ 1 phần <img id=\"itemID_349\"/> <h>Yến mạch</>. Họ cũng sẽ thu gom sản vật từ đàn gia súc:{br}- <img id=\"Sheep\"/> <h>Cừu</> được xén lông mỗi năm một lần vào <img id=\"Summer\"/> <h>Mùa hạ</>, cho 2 phần <img id=\"itemID_23\"/> <h>Len</> mỗi con. {br}- <img id=\"Cow\"/> <h>Bò</> được vắt sữa mỗi tháng một lần trong suốt <img id=\"Spring\"/> <h>Mùa xuân</>, <img id=\"Summer\"/> <h>Mùa hạ</> và <img id=\"Autumn\"/> <h>Mùa thu</>, cho 1 phần <img id=\"itemID_221\"/> <h>Sữa tươi</> mỗi con.{br}Các Đặc tính <h>Môi trường</> có thể giúp gia tăng thêm sản lượng.{br}{br}Gia súc chăn thả sẽ sinh sản vào <img id=\"Spring\"/> <h>Mùa xuân</>, với điều kiện chúng đã mang thai từ các tháng trước (<img id=\"Cow\"/> <h>Bò</> thụ thai vào <img id=\"Summer\"/> <h>Mùa hạ</>, <img id=\"Sheep\"/> <h>Cừu</> thụ thai vào <img id=\"Autumn\"/> <h>Mùa thu</>) và trong <h>Vùng</> còn sẵn <img id=\"WoodenFence\"/> <h>Chỗ trên đồng cỏ</>.",
+    "offset": 643997,
+    "length": 1292
+  },
+  {
+    "key": "ox_cart",
+    "en": "Ox Cart",
+    "vi": "Xe bò kéo",
+    "offset": 689047,
+    "length": 8
+  },
+  {
+    "key": "ox_cart_descr",
+    "en": "When an <img id=\"Ox\"/><h>Ox</> is <img id=\"LivestockWorker\"/><h>Assigned</> to the <h>Construction Yard</>, it will use an <h>Ox Cart</> to deliver up to 3 <img id=\"ItemID_16\"/><h>Timber</> to construction sites per trip.{br}{br}The <h>Ox Cart</> also works to meet the <h>Target Stock</> of the <h>Construction Yard</> by retrieving <img id=\"ItemID_16\"/><h>Timber</> from either a <h>Logging Camp</>, another <h>Construction Yard</> or a <h>Supplies</> dump. {br}{br}The <h>Ox Cart</> will not venture into a forest to collect loose <img id=\"ItemID_16\"/><h>Timber</> or deliver to production buildings like the <h>Sawpit</>.",
+    "vi": "Khi một con <img id=\"Ox\"/> <h>Bò kéo</> được <img id=\"LivestockWorker\"/> <h>Phân công</> vào <h>Công trường xây dựng</>, nó sẽ sử dụng <h>Xe bò kéo</> để vận chuyển tối đa 3 cây <img id=\"ItemID_16\"/> <h>Gỗ khúc</> tới các công trường thi công trong mỗi chuyến đi.{br}{br}<h>Xe bò kéo</> cũng hoạt động để đáp ứng <h>Lượng dự trữ mục tiêu</> của <h>Công trường xây dựng</> bằng cách vận chuyển <img id=\"ItemID_16\"/> <h>Gỗ khúc</> từ <h>Trại đốn gỗ</>, một <h>Công trường xây dựng</> khác hoặc bãi tập kết <h>Vật tư</>. {br}{br}<h>Xe bò kéo</> sẽ không đi sâu vào trong rừng để kéo những cây <img id=\"ItemID_16\"/> <h>Gỗ khúc</> nằm rải rác hoặc vận chuyển gỗ đến các xưởng chế biến như <h>Hố xẻ gỗ</>.",
+    "offset": 689466,
+    "length": 626
   }
 ]

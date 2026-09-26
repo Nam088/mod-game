@@ -70,6 +70,13 @@
     "length": 7
   },
   {
+    "key": "duel_setup",
+    "en": "Your family and your Rival's share a long, bitter history—and it seems the next chapter will be written in blood.",
+    "vi": "Gia tộc bạn và Kình địch có mối thù truyền kiếp lâu đời—và dường như chương tiếp theo sẽ được viết bằng máu.",
+    "offset": 28897,
+    "length": 114
+  },
+  {
     "key": "duel_goal",
     "en": "Conquer your Rival.",
     "vi": "Đánh bại Lãnh chúa đối địch.",

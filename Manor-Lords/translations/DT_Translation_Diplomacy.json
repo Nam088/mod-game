@@ -28,7 +28,7 @@
     "length": 173
   },
   {
-    "key": "diplomacy_2",
+    "key": "welcome_hildebolt_open_positive_followup_peaceful_2",
     "en": "I believe that we can work together for the common good, and that we can achieve great things.",
     "vi": "Ta tin rằng chúng ta có thể chung tay vì lợi ích chung và cùng nhau làm nên những đại nghiệp lớn lao.",
     "offset": 10062,
@@ -42,14 +42,14 @@
     "length": 94
   },
   {
-    "key": "diplomacy_2",
+    "key": "welcome_hildebolt_open_positive_followup_flatter_2",
     "en": "You have risen to power and glory, despite the obstacles and enemies that stood in your way.",
     "vi": "Ngài đã vươn lên đỉnh cao quyền lực và vinh quang, bất chấp muôn trùng gian nan cùng vô số kẻ thù cản lối.",
     "offset": 16194,
     "length": 93
   },
   {
-    "key": "diplomacy_3",
+    "key": "welcome_hildebolt_open_positive_followup_flatter_3",
     "en": "You have my admiration and curiosity, and I hope to earn yours.",
     "vi": "Ta luôn dành cho ngài sự kính trọng, và hy vọng cũng nhận lại được sự trân quý tương tự từ ngài.",
     "offset": 19018,
@@ -70,21 +70,21 @@
     "length": 70
   },
   {
-    "key": "diplomacy_2",
+    "key": "welcome_hildebolt_open_negative_followup_2",
     "en": "You have shown yourself to be an unworthy occupant of these lands, and a bastard of lowly origin.",
     "vi": "Ngươi đã tự chứng minh mình là một kẻ tiếm quyền đê tiện trên mảnh đất này, một đứa con hoang với dòng máu thấp hèn.",
     "offset": 27069,
     "length": 98
   },
   {
-    "key": "diplomacy_3",
+    "key": "welcome_hildebolt_open_negative_followup_3",
     "en": "I am concerned about you and your actions, for I fear that you will bring more trouble and violence to these regions, which have been ravaged by war and chaos. ",
     "vi": "Ta vô cùng lo ngại trước những hành động bừa bãi của ngươi, bởi ta e rằng ngươi sẽ gieo rắc thêm tai ương và đổ máu xuống những vùng đất vốn đã tan hoang vì loạn lạc.",
     "offset": 29904,
     "length": 161
   },
   {
-    "key": "diplomacy_4",
+    "key": "welcome_hildebolt_open_negative_followup_4",
     "en": "You have my contempt and distrust, and I hope to inspire yours.",
     "vi": "Ta chỉ có sự khinh bỉ và cảnh giác cao độ dành cho ngươi, và mong ngươi cũng hiểu rõ điều đó.",
     "offset": 34748,
@@ -140,14 +140,14 @@
     "length": 72
   },
   {
-    "key": "diplomacy_2",
+    "key": "welcome_response_to_hildebolt_positive_2",
     "en": "I have no doubt that you are the rightful heir of these lands, and that your bloodline is pure and noble.",
     "vi": "Ta không hề mảy may nghi ngờ việc ngài là người thừa kế hợp pháp của những vùng đất này, với dòng dõi cao quý và thuần khiết.",
     "offset": 52885,
     "length": 106
   },
   {
-    "key": "diplomacy_11776",
+    "key": "welcome_response_to_hildebolt_negative",
     "en": "You have no rightful claim to Selbitz and Hofstetten.",
     "vi": "Ngươi không hề có chút tư cách pháp lý nào đối với Selbitz và Hofstetten.",
     "offset": 55898,
@@ -177,7 +177,7 @@
   {
     "key": "antagonism",
     "en": "I hope your fiefdom rots to hell, and soon.",
-    "vi": "Ta mong lãnh địa của ngươi sớm mục rữa xuống địa ngục.",
+    "vi": "Ta mong thái ấp của ngươi sớm mục rữa dưới địa ngục.",
     "offset": 62955,
     "length": 44
   },
@@ -189,14 +189,14 @@
     "length": 66
   },
   {
-    "key": "diplomacy_3",
+    "key": "insult_3",
     "en": "You are a bastard and a fraud, and your bloodline is tainted and cursed.",
     "vi": "Ngươi là một tên con hoang lừa đảo, với dòng máu nhơ nhuốc mang đầy lời nguyền rủa.",
     "offset": 66367,
     "length": 73
   },
   {
-    "key": "diplomacy_4",
+    "key": "insult_4",
     "en": "You are a tyrant and a coward, and you have no vision or honor.",
     "vi": "Ngươi là một tên bạo chúa hèn nhát, không tầm nhìn cũng chẳng có chút danh dự.",
     "offset": 68567,
@@ -304,18 +304,11 @@
     "key": "letter_start_suffix_optional",
     "en": " ",
     "vi": " ",
-    "offset": 863,
-    "length": 3
-  },
-  {
-    "key": "antagonism",
-    "en": " ",
-    "vi": " ",
-    "offset": 93385,
+    "offset": 93371,
     "length": 2
   },
   {
-    "key": "antagonism",
+    "key": "paragraph_free",
     "en": "No influence cost",
     "vi": "Không tốn Uy danh",
     "offset": 93467,

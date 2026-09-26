@@ -107,14 +107,14 @@
   {
     "key": "release_at_will",
     "en": "Shoot at will",
-    "vi": "Tự do bắn",
+    "vi": "Bắn tự do",
     "offset": 26645,
     "length": 14
   },
   {
     "key": "release_at_will_descr",
     "en": "Instead of shooting a volley, soldiers fire aiming directly at the enemy. Increases accuracy up close, but decreases accuracy at half the maximum range or more.",
-    "vi": "Thay vì bắn theo loạt đồng loạt, lính sẽ tự ngắm bắn mục tiêu. Tăng độ chính xác khi bắn gần, nhưng giảm độ chính xác khi bắn ở cự ly xa hơn một nửa tầm bắn tối đa.",
+    "vi": "Thay vì bắn đồng loạt theo loạt, lính sẽ tự ngắm bắn mục tiêu. Tăng độ chính xác khi bắn gần, nhưng giảm độ chính xác khi bắn ở cự ly xa hơn một nửa tầm bắn tối đa.",
     "offset": 27204,
     "length": 161
   },
@@ -268,14 +268,14 @@
   {
     "key": "total_advantage_descr",
     "en": "Effectiveness of the unit may depend on the situation and acts as a multiplier to the soldiers <h>ATTACK</>, <h>BLOCK</> and <h>DEFENSE</>. Effectiveness factors may include: <h>FATIGUE</>, <h>COHESION</>, <h>SURROUNDED</>, <h>SOAKING</>, <h>CLIMBING</>.",
-    "vi": "Hiệu quả chiến đấu của đơn vị thay đổi theo tình huống và nhân với chỉ số <h>TẤN CÔNG</>, <h>ĐỠ ĐÒN</> và <h>PHÒNG THỦ</> của lính. Các yếu tố ảnh hưởng gồm: <h>THỂ LỰC</>, <h>TÍNH LIÊN KẾT ĐỘI HÌNH</>, <h>BỊ BAO VÂY</>, <h>ƯỚT SŨNG</>, <h>LEO DỐC</>.",
+    "vi": "Hiệu quả chiến đấu của đơn vị thay đổi theo tình huống và nhân với chỉ số <h>TẤN CÔNG</>, <h>ĐỠ ĐÒN</> và <h>PHÒNG THỦ</> của lính. Các yếu tố ảnh hưởng gồm: <h>MỨC ĐỘ MỆT MỎI</>, <h>TÍNH LIÊN KẾT ĐỘI HÌNH</>, <h>BỊ BAO VÂY</>, <h>ƯỚT SŨNG</>, <h>LEO DỐC</>.",
     "offset": 55585,
     "length": 255
   },
   {
     "key": "fatigue",
     "en": "Fatigue",
-    "vi": "Thể lực",
+    "vi": "Mức độ mệt mỏi",
     "offset": 64908,
     "length": 8
   },
@@ -569,7 +569,7 @@
   {
     "key": "mercenaries_descr",
     "en": "These soldies can be hired from the <h>Mercenary Pool</> which is global and resets each month. A <h>Mercenary Company</> can come with one or multiple units. If one of the unit is disbanded, the whole company gets disbanded. Companies are paid upfront for each month of service.",
-    "vi": "Có thể thuê những người lính này từ <h>Thị trường Đánh thuê</> chung toàn cục (làm mới mỗi tháng). Một <h>Bang hội Đánh thuê</> có thể bao gồm một hoặc nhiều đơn vị. Nếu một đơn vị bị giải tán thì cả bang hội sẽ rời đi. Tiền thuê phải trả trước theo từng tháng phục vụ.",
+    "vi": "Có thể thuê những người lính này từ <h>Thị trường Đánh thuê</> chung toàn cục (làm mới mỗi tháng). Một <h>Đoàn lính đánh thuê</> có thể bao gồm một hoặc nhiều đơn vị. Nếu một đơn vị bị giải tán thì cả đoàn sẽ rời đi. Tiền thuê phải trả trước theo từng tháng phục vụ.",
     "offset": 108528,
     "length": 280
   },
@@ -602,7 +602,7 @@
     "length": 192
   },
   {
-    "key": "military_11776",
+    "key": "not_equipped_for_melee",
     "en": "Not equipped for melee",
     "vi": "Không có trang bị cận chiến",
     "offset": 138787,

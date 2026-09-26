@@ -14,11 +14,25 @@
     "length": 21
   },
   {
+    "key": "BambergSmallholders_desc",
+    "en": "Driven from Bamberg by the Bishop’s heavy tithe, we learned to keep our hearths warm and our tables full by our own hands. We waste nothing, tend every plot with care, and set down roots where we can live by our own labor, not by the Bishop’s mercy.",
+    "vi": "Bị xua đuổi khỏi Bamberg vì thuế thập phân nặng nề của Đức Giám mục, chúng tôi học cách giữ ấm bếp lửa và làm đầy bàn ăn bằng chính đôi tay mình. Chúng tôi không lãng phí thứ gì, chăm chút từng mảnh đất, và cắm rễ nơi chúng tôi có thể sống bằng sức lao động của chính mình, chứ không dựa vào lòng thương hại của Giám mục.",
+    "offset": 1124,
+    "length": 250
+  },
+  {
     "key": "OfTheVogtland",
     "en": "Of the Vogtland",
     "vi": "Dân cư vùng Vogtland",
     "offset": 10554,
     "length": 16
+  },
+  {
+    "key": "OfTheVogtland_desc",
+    "en": "We were shaped by hard country. We come from the far marches, where winters bite deep and the earth yields little without a fight. There, we mastered the land’s hidden bounty. What we carry to market is no mere trade, but proof that we endure where others falter.",
+    "vi": "Chúng tôi được tôi luyện bởi mảnh đất khắc nghiệt. Chúng tôi đến từ những vùng biên cương xa xôi, nơi mùa đông giá buốt cắt da và đất đai chẳng chịu nhả sản vật nếu không đổ mồ hôi chiến đấu. Tại đó, chúng tôi đã làm chủ những sản vật tiềm ẩn của đất trời. Những gì chúng tôi mang ra chợ không đơn thuần là hàng buôn bán, mà là minh chứng cho thấy chúng tôi vẫn đứng vững nơi kẻ khác gục ngã.",
+    "offset": 11043,
+    "length": 264
   },
   {
     "key": "WoodwrightsOfFranconia",
@@ -28,6 +42,13 @@
     "length": 22
   },
   {
+    "key": "WoodwrightsOfFranconia_desc",
+    "en": "Guilds closed their ranks — a journeyman may wander but never root, a craftsman may labor but not sell without their seal. After being rejected a guild membership, we carry our planes and chisels to freer towns, where timber and toil alone will set our place.",
+    "vi": "Các phường hội đóng chặt cửa—người thợ phiêu bạt có thể đi khắp nơi nhưng không bao giờ được cắm rễ, người thợ thủ công có thể lao động nhưng không được buôn bán nếu thiếu con dấu của họ. Sau khi bị khước từ gia nhập phường hội, chúng tôi mang theo bào và đục đến những thị trấn tự do hơn, nơi chỉ có gỗ khúc và mồ hôi lao động mới định đoạt chỗ đứng của chúng tôi.",
+    "offset": 21746,
+    "length": 260
+  },
+  {
     "key": "RegensburgGuildsmen",
     "en": "Regensburg Guildsmen",
     "vi": "Thợ phường hội xứ Regensburg",
@@ -35,11 +56,25 @@
     "length": 21
   },
   {
+    "key": "RegensburgGuildsmen_desc",
+    "en": "We settled here as we have always traded — with ledgers in hand and profit in mind. The Danube carried wealth to Regensburg, and so it flows in us: our houses rise with little, our purses swell with plenty, and our bargains always hold true.",
+    "vi": "Chúng tôi định cư nơi đây như cái cách chúng tôi luôn giao thương—tay cầm sổ sách và tâm tính toán lợi nhuận. Dòng sông Danube mang lại giàu sang cho Regensburg, và dòng chảy đó cũng tuôn trào trong chúng tôi: nhà cửa mọc lên từ số vốn ít ỏi, túi tiền căng tràn của cải, và những thương vụ của chúng tôi luôn giữ trọn chữ tín.",
+    "offset": 32448,
+    "length": 242
+  },
+  {
     "key": "SmithsOfPassau",
     "en": "Smiths of Passau",
     "vi": "Thợ rèn xứ Passau",
     "offset": 41419,
     "length": 17
+  },
+  {
+    "key": "SmithsOfPassau_desc",
+    "en": "Our fires burn brightest in the heat of battle, but peace leaves few forges fed. A man without work is a blade left to rust — so we set out to strike anew. Here we will keep our hammers ringing, and forge a strength that endures.",
+    "vi": "Ngọn lửa của chúng tôi rực cháy nhất giữa hơi nóng chiến trận, nhưng thời bình khiến lò rèn hiếm khi đỏ lửa. Người thợ không có việc làm chẳng khác nào thanh kiếm để mặc cho gỉ sét—vì thế chúng tôi lên đường quai búa làm lại từ đầu. Tại nơi đây, tiếng búa gõ đe của chúng tôi sẽ lại vang rền, rèn giũa nên một sức mạnh trường tồn.",
+    "offset": 41922,
+    "length": 230
   },
   {
     "key": "StrasburgMasons",
@@ -99,6 +134,13 @@
   },
   {
     "key": "----DEPRECATED---",
+    "en": "",
+    "vi": "Chuyện kể sống mãi",
+    "offset": 89536,
+    "length": 0
+  },
+  {
+    "key": "livingstories",
     "en": "Living Stories",
     "vi": "Chuyện kể sống mãi",
     "offset": 89622,
@@ -112,7 +154,7 @@
     "length": 322
   },
   {
-    "key": "perks_11776",
+    "key": "newfortune",
     "en": "New Fortune",
     "vi": "Vận may mới",
     "offset": 99688,
@@ -511,6 +553,13 @@
     "length": 8
   },
   {
+    "key": "Coinage_desc",
+    "en": "The process is not new, but it is lucrative. Simply withdraw old coins and mint new ones at a lower value. The ruler’s budget benefits from it, but the population does not.",
+    "vi": "Phương pháp này không mới, nhưng lại rất béo bở. Đơn giản là thu hồi tiền xu cũ và đúc tiền mới với hàm lượng giá trị thấp hơn. Ngân khố của lãnh chúa sẽ được hưởng lợi, nhưng bách tính thì không.",
+    "offset": 320317,
+    "length": 173
+  },
+  {
     "key": "GuildBrotherhood",
     "en": "Guild Brotherhood",
     "vi": "Hội Ái hữu Phường hội",
@@ -546,10 +595,24 @@
     "length": 19
   },
   {
+    "key": "PublicWeaponsBan_desc",
+    "en": "Although the right to bear arms is consistent with one’s status as a citizen, it often leads to fatal conflicts or serious injuries. At the same time, an armed citizenry can also be dangerous for a ruler.",
+    "vi": "Dù quyền mang vũ khí vốn gắn liền với thân phận của một công dân tự do, nhưng nó thường dẫn tới những vụ xô xát chết người hoặc thương tích nặng nề. Đồng thời, một đám đông dân chúng mang vũ trang cũng có thể trở thành mối hiểm họa đối với người cai trị.",
+    "offset": 339525,
+    "length": 205
+  },
+  {
     "key": "PurchasePrivilage",
     "en": "Purchase Privilage",
     "vi": "Đặc quyền mua sắm",
     "offset": 346186,
     "length": 19
+  },
+  {
+    "key": "PurchasePrivilage_desc",
+    "en": "It may tear a hole in a ruler’s finances for the time being, but in the end it pays off to promote the village’s economy. After all, a ruler can benefit from a wealthy citizenry.",
+    "vi": "Điều này có thể làm thâm hụt ngân khố lãnh chúa trong ngắn hạn, nhưng về lâu dài, việc thúc đẩy nền kinh tế làng xã sẽ mang lại quả ngọt. Xét cho cùng, dân có giàu thì lãnh chúa mới mạnh.",
+    "offset": 346782,
+    "length": 179
   }
 ]

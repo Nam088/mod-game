@@ -91,49 +91,49 @@
     "length": 12
   },
   {
-    "key": "mainui_2",
+    "key": "mainTab_2",
     "en": "Construction",
-    "vi": "Xây dựng",
+    "vi": "Vật liệu Xây dựng",
     "offset": 21703,
     "length": 13
   },
   {
-    "key": "mainui_3",
+    "key": "mainTab_3",
     "en": "Army",
     "vi": "Quân đội",
     "offset": 22039,
     "length": 5
   },
   {
-    "key": "mainui_4",
+    "key": "mainTab_4",
     "en": "Map",
     "vi": "Bản đồ",
     "offset": 22292,
     "length": 4
   },
   {
-    "key": "mainui_6",
+    "key": "mainTab_6",
     "en": "Settings",
     "vi": "Cài đặt",
     "offset": 22504,
     "length": 9
   },
   {
-    "key": "mainui_8",
+    "key": "mainTab_8",
     "en": "Help",
     "vi": "Trợ giúp",
     "offset": 22866,
     "length": 5
   },
   {
-    "key": "mainui_9",
+    "key": "mainTab_9",
     "en": "Roads",
     "vi": "Đường sá",
     "offset": 23125,
     "length": 6
   },
   {
-    "key": "mainui_10",
+    "key": "mainTab_10",
     "en": "Recruitment",
     "vi": "Chiêu mộ",
     "offset": 23366,
@@ -238,7 +238,7 @@
     "length": 10
   },
   {
-    "key": "mainui_2",
+    "key": "buildingCategory_2",
     "en": "Mining",
     "vi": "Khai khoáng",
     "offset": 36310,
@@ -266,7 +266,7 @@
     "length": 9
   },
   {
-    "key": "mainui_6",
+    "key": "buildingCategory_6",
     "en": "Trade",
     "vi": "Giao thương",
     "offset": 37646,
@@ -365,8 +365,8 @@
   },
   {
     "key": "overlay_emmer",
-    "en": "Emmer Fertility",
-    "vi": "Độ phì nhiêu Lúa mì Emmer",
+    "en": "Wheat Fertility",
+    "vi": "Độ phì nhiêu Lúa mì",
     "offset": 53453,
     "length": 16
   },
@@ -374,3983 +374,4172 @@
     "key": "overlay_flax",
     "en": "Flax Fertility",
     "vi": "Độ phì nhiêu Cây lanh",
-    "offset": 54133,
+    "offset": 54100,
     "length": 15
   },
   {
     "key": "overlay_barley",
     "en": "Barley Fertility",
     "vi": "Độ phì nhiêu Đại mạch",
-    "offset": 54765,
+    "offset": 54732,
     "length": 17
   },
   {
     "key": "overlay_rye",
     "en": "Rye Fertility",
     "vi": "Độ phì nhiêu Lúa mạch đen",
-    "offset": 55408,
+    "offset": 55375,
+    "length": 14
+  },
+  {
+    "key": "overlay_oats",
+    "en": "Oat Fertility",
+    "vi": "Độ phì nhiêu Yến mạch",
+    "offset": 56029,
     "length": 14
   },
   {
     "key": "overlay_smell",
     "en": "Smell (work in progress)",
     "vi": "Mùi hôi (Đang phát triển)",
-    "offset": 56062,
+    "offset": 56658,
     "length": 25
   },
   {
     "key": "overlay_fireHazard",
     "en": "Fire Hazard (work in progress)",
     "vi": "Nguy cơ hỏa hoạn (Đang phát triển)",
-    "offset": 56818,
+    "offset": 57414,
     "length": 31
   },
   {
     "key": "overlay_elevation",
     "en": "Elevation",
     "vi": "Cao độ địa hình",
-    "offset": 57902,
+    "offset": 58498,
     "length": 10
   },
   {
     "key": "no_construction_cost",
     "en": "No Construction Cost",
     "vi": "Miễn phí xây dựng",
-    "offset": 58271,
+    "offset": 58867,
     "length": 21
   },
   {
     "key": "construction_cost",
     "en": "Construction Cost",
     "vi": "Chi phí Xây dựng",
-    "offset": 58932,
+    "offset": 59528,
     "length": 18
   },
   {
     "key": "construction_discount",
     "en": " (-20%)",
     "vi": " (-20%)",
-    "offset": 59481,
+    "offset": 60077,
     "length": 8
   },
   {
     "key": "can_be_relocated",
     "en": "Free relocation",
     "vi": "Di dời miễn phí",
-    "offset": 59768,
+    "offset": 60364,
     "length": 16
   },
   {
     "key": "dev_branches_required",
     "en": "Development Branches required",
     "vi": "Yêu cầu Nhánh phát triển",
-    "offset": 60386,
+    "offset": 60982,
     "length": 30
   },
   {
     "key": "dev_branches_missing",
     "en": "Development Branches missing",
     "vi": "Thiếu Nhánh phát triển",
-    "offset": 61236,
+    "offset": 61832,
     "length": 29
   },
   {
     "key": "minimum_settlement_lv",
     "en": "Required Settlement Level",
     "vi": "Yêu cầu Cấp độ Định cư",
-    "offset": 62013,
+    "offset": 62609,
     "length": 26
   },
   {
     "key": "create_new_squads",
     "en": "Create New Units",
     "vi": "Lập Đơn vị mới",
-    "offset": 62790,
+    "offset": 63386,
     "length": 17
   },
   {
     "key": "snap_to_roads",
     "en": "Snap to Roads",
     "vi": "Bám dính vào đường",
-    "offset": 63414,
+    "offset": 64010,
     "length": 14
   },
   {
     "key": "new_message",
     "en": "A New Message",
     "vi": "Thư mới",
-    "offset": 63970,
+    "offset": 64566,
     "length": 14
   },
   {
     "key": "resourceGroup_crop",
     "en": "Crops",
     "vi": "Cây trồng nông nghiệp",
-    "offset": 64410,
+    "offset": 65006,
     "length": 6
   },
   {
     "key": "resourceGroup_crop_descr",
     "en": "<i>Can be processed into crafting materials.</>",
     "vi": "<i>Có thể chế biến thành nguyên liệu chế tác.</>",
-    "offset": 64720,
+    "offset": 65316,
     "length": 48
   },
   {
     "key": "resourceGroup_construction",
     "en": "Construction",
     "vi": "Vật liệu Xây dựng",
-    "offset": 66339,
+    "offset": 66935,
     "length": 13
   },
   {
     "key": "resourceGroup_construction_descr",
     "en": "<i>Used to construct new buildings and upgrade them.</>",
     "vi": "<i>Dùng để xây dựng công trình mới và nâng cấp.</>",
-    "offset": 66757,
+    "offset": 67353,
     "length": 56
   },
   {
     "key": "resourceGroup_food",
     "en": "Food",
     "vi": "Lương thực & Thực phẩm",
-    "offset": 68688,
+    "offset": 69284,
     "length": 5
   },
   {
     "key": "resourceGroup_food_descr",
     "en": "<i>Fills Hunger and satisfies Residential Requirements when available on the Marketplace.</>",
     "vi": "<i>Lấp đầy cơn đói và thỏa mãn Nhu cầu Nhà ở khi được bày bán tại Chợ.</>",
-    "offset": 68918,
+    "offset": 69514,
     "length": 93
   },
   {
     "key": "resourceGroup_fuel",
     "en": "Fuel",
     "vi": "Chất đốt & Nhiên liệu",
-    "offset": 71663,
+    "offset": 72259,
     "length": 5
   },
   {
     "key": "resourceGroup_fuel_descr",
     "en": "<i>Consumed by Burgage Plots and various workplaces. </>",
     "vi": "<i>Được tiêu thụ bởi Nhà dân và nhiều xưởng chế tác.</>",
-    "offset": 71977,
+    "offset": 72573,
     "length": 57
   },
   {
     "key": "resourceGroup_crafting",
     "en": "Crafting Materials",
     "vi": "Nguyên liệu Chế tác",
-    "offset": 73841,
+    "offset": 74437,
     "length": 19
   },
   {
     "key": "resourceGroup_crafting_descr",
     "en": "<i>Used to produce Commodities.</>",
     "vi": "<i>Dùng để sản xuất các mặt hàng tiêu dùng.</>",
-    "offset": 74420,
+    "offset": 75016,
     "length": 35
   },
   {
     "key": "resourceGroup_commodities",
     "en": "Commodities",
     "vi": "Hàng tiêu dùng",
-    "offset": 75907,
+    "offset": 76503,
     "length": 12
   },
   {
     "key": "resourceGroup_commodities_descr",
     "en": "<i>Requested by the burgage plots, depending on their level and employment. </>",
     "vi": "<i>Được yêu cầu bởi các Nhà dân tùy theo cấp độ và công việc của họ.</>",
-    "offset": 76335,
+    "offset": 76931,
     "length": 80
   },
   {
     "key": "resourceGroup_military",
     "en": "Military",
     "vi": "Trang bị Quân sự",
-    "offset": 78831,
+    "offset": 79427,
     "length": 9
   },
   {
     "key": "resourceGroup_military_descr",
     "en": "<i>For upgrading the militia and your retinue.</>",
     "vi": "<i>Dùng để trang bị cho dân quân và đội cận vệ.</>",
-    "offset": 79118,
+    "offset": 79714,
     "length": 50
   },
   {
     "key": "show_surplus_on",
     "en": "Currently showing: Surplus Goods (default)",
     "vi": "Đang hiển thị: Hàng hóa Thặng dư (Mặc định)",
-    "offset": 80724,
+    "offset": 81320,
     "length": 43
   },
   {
-    "key": "accepted_goods",
+    "key": "show_surplus_on_descr_old",
+    "en": "",
+    "vi": "",
+    "offset": 82765,
+    "length": 0
+  },
+  {
+    "key": "show_surplus_on_descr",
     "en": "Surplus shows your stock minus the reserved number of goods. Goods are considered reserved when they are designated for use in construction, in production or as part of equipment.{br}{br}<i>For example, if you have 5 planks and place a building that requires 5 planks to build, your stock remains 5, but surplus becomes 0 since those resources have been reserved construction.</>",
     "vi": "Thặng dư hiển thị tổng tồn kho trừ đi lượng hàng đã được đặt trước. Hàng hóa được tính là đã đặt trước khi được chỉ định cho công trình đang xây, đang chế tác hoặc làm trang bị.{br}{br}<i>Ví dụ: nếu bạn có 5 ván gỗ và đặt một công trình cần 5 ván gỗ, tổng tồn kho vẫn là 5 nhưng thặng dư sẽ là 0 do số ván gỗ đó đã được chỉ định cho công trình.</>",
-    "offset": 82845,
+    "offset": 83441,
     "length": 380
   },
   {
     "key": "show_surplus_off",
     "en": "Currently showing: Total Goods Stored",
     "vi": "Đang hiển thị: Tổng lượng hàng tồn kho",
-    "offset": 95587,
+    "offset": 96183,
     "length": 38
   },
   {
-    "key": "accepted_goods",
+    "key": "show_surplus_off_descr_old",
+    "en": "",
+    "vi": "",
+    "offset": 97299,
+    "length": 0
+  },
+  {
+    "key": "show_surplus_off_descr",
     "en": "All stored goods present in the region.{br}{br}<i>For example, if you have 5 planks and place a building that requires 5 planks to build, your stock will remain at 5 until each plank is used in construction.</>",
     "vi": "Toàn bộ hàng hóa đang được lưu trữ trong Vùng.{br}{br}<i>Ví dụ: nếu bạn có 5 ván gỗ và đặt một công trình cần 5 ván gỗ, tồn kho vẫn hiển thị 5 cho đến khi từng tấm ván được mang ra thi công.</>",
-    "offset": 97161,
+    "offset": 97757,
     "length": 211
   },
   {
     "key": "allow_idle",
     "en": "Enable as a temporary workplace",
     "vi": "Cho phép làm nơi làm việc tạm thời",
-    "offset": 104166,
+    "offset": 104762,
     "length": 32
   },
   {
     "key": "allow_idle_descr",
     "en": "Allow citizens to use this building as a temporary job when they're idle.",
     "vi": "Cho phép dân làng làm việc tạm thời tại công trình này khi họ đang nhàn rỗi.",
-    "offset": 105203,
+    "offset": 105799,
     "length": 74
   },
   {
     "key": "build_extension_descr",
     "en": "Extensions can provide <h>ADDITIONAL RESOURCE YIELDS</> but require residents to spend more time working at their plot than at their assigned job.",
     "vi": "Tiện ích sân sau mang lại <h>SẢN LƯỢNG TÀI NGUYÊN BỔ SUNG</> nhưng đòi hỏi dân cư phải dành nhiều thời gian chăm sóc sân sau hơn là làm công việc chính.",
-    "offset": 108286,
+    "offset": 108882,
     "length": 147
   },
   {
     "key": "approval_will_fall_if_not_fulfilled",
     "en": "Approval will fall if not fulfilled",
     "vi": "Lòng dân sẽ sụt giảm nếu không đáp ứng",
-    "offset": 113552,
+    "offset": 114148,
     "length": 36
   },
   {
     "key": "not_consuming",
     "en": "No consumption",
     "vi": "Không tiêu thụ",
-    "offset": 115087,
+    "offset": 115683,
     "length": 15
   },
   {
     "key": "name",
     "en": "Name",
     "vi": "Tên",
-    "offset": 115555,
+    "offset": 116151,
     "length": 5
   },
   {
     "key": "dimidiation",
     "en": "Dimidiation",
     "vi": "Ghép đôi huy hiệu",
-    "offset": 115765,
+    "offset": 116361,
     "length": 12
   },
   {
     "key": "dimidiation_descr",
     "en": "An older form of Marshalling (combining two Coats of Arms into one) by cutting them in the middle. {br}{br}Half dog, half horse? Why not!",
     "vi": "Hình thức kết hợp huy hiệu cổ điển bằng cách ghép nửa bên này với nửa bên kia.{br}{br}Nửa chó săn, nửa tuấn mã? Tại sao không!",
-    "offset": 116121,
+    "offset": 116717,
     "length": 138
   },
   {
-    "key": "mainui_1",
+    "key": "settlementLv_1",
     "en": "Settler's Camp",
     "vi": "Trại khai hoang",
-    "offset": 120698,
+    "offset": 121294,
     "length": 15
   },
   {
-    "key": "mainui_2",
+    "key": "settlementLv_2",
     "en": "Small Village",
     "vi": "Làng nhỏ",
-    "offset": 121190,
+    "offset": 121786,
     "length": 14
   },
   {
-    "key": "mainui_3",
+    "key": "settlementLv_3",
     "en": "Medium Village",
     "vi": "Làng trung bình",
-    "offset": 121576,
+    "offset": 122172,
     "length": 15
   },
   {
-    "key": "mainui_4",
+    "key": "settlementLv_4",
     "en": "Large Village",
     "vi": "Làng lớn",
-    "offset": 121986,
+    "offset": 122582,
     "length": 14
   },
   {
-    "key": "mainui_5",
+    "key": "settlementLv_5",
     "en": "Small Town",
     "vi": "Thị trấn nhỏ",
-    "offset": 122387,
+    "offset": 122983,
     "length": 11
   },
   {
-    "key": "mainui_6",
+    "key": "settlementLv_6",
     "en": "Medium Town",
     "vi": "Thị trấn trung bình",
-    "offset": 122797,
+    "offset": 123393,
     "length": 12
   },
   {
-    "key": "mainui_7",
+    "key": "settlementLv_7",
     "en": "Large Town",
     "vi": "Thị trấn lớn",
-    "offset": 123200,
+    "offset": 123796,
     "length": 11
   },
   {
     "key": "visit_mode",
     "en": "Visit Mode",
     "vi": "Dạo phố",
-    "offset": 123611,
+    "offset": 124207,
     "length": 11
   },
   {
     "key": "visit_mode_descr",
     "en": "<r>Very early in development. Expect glitches.</> {br}{br}Click to walk around your town in third-person mode.",
     "vi": "<r>Tính năng đang trong giai đoạn phát triển ban đầu, có thể phát sinh lỗi.</> {br}{br}Nhấn để trực tiếp hóa thân thành Lãnh chúa dạo bước quanh thị trấn ở góc nhìn người thứ ba.",
-    "offset": 124062,
+    "offset": 124658,
     "length": 111
   },
   {
     "key": "work_area_limited",
     "en": "Limited Work Area",
     "vi": "Phạm vi làm việc giới hạn",
-    "offset": 128300,
+    "offset": 128896,
     "length": 18
   },
   {
     "key": "work_area_unlimited",
     "en": "Unlimited Work Area",
     "vi": "Phạm vi làm việc không giới hạn",
-    "offset": 129050,
+    "offset": 129646,
     "length": 20
   },
   {
     "key": "road_connection_true",
     "en": "Connected to the Road Network",
     "vi": "Đã kết nối với Mạng lưới Đường sá",
-    "offset": 129853,
+    "offset": 130449,
     "length": 30
   },
   {
     "key": "road_connection_false",
     "en": "Disconnected from the Road Network",
     "vi": "Chưa kết nối với Mạng lưới Đường sá",
-    "offset": 130717,
+    "offset": 131313,
     "length": 35
   },
   {
     "key": "order",
     "en": "Public Order",
-    "vi": "Trật tự Công cộng",
-    "offset": 131702,
+    "vi": "Trật tự Trị an",
+    "offset": 132298,
     "length": 13
   },
   {
     "key": "order_descr",
     "en": "Governs the chance of crime occuring, as well as residents permanently turning to banditry.",
     "vi": "Quy định tỷ lệ phát sinh tội phạm, cũng như nguy cơ người dân tha hóa đi làm giặc cướp.",
-    "offset": 132208,
+    "offset": 132804,
     "length": 92
   },
   {
     "key": "retinue_defeatedFoes",
     "en": "Defeated Foes",
     "vi": "Kẻ địch đã tiêu diệt",
-    "offset": 135288,
+    "offset": 135884,
     "length": 14
   },
   {
     "key": "retinue_expertise",
     "en": "Expertise",
     "vi": "Chuyên môn",
-    "offset": 135788,
+    "offset": 136384,
     "length": 10
   },
   {
     "key": "retinue_retainers",
     "en": "Retainers",
     "vi": "Cận vệ",
-    "offset": 136147,
+    "offset": 136743,
     "length": 10
   },
   {
     "key": "regional_wealth",
     "en": "Regional Wealth",
     "vi": "Tài sản vùng",
-    "offset": 136461,
+    "offset": 137057,
     "length": 16
   },
   {
     "key": "regional_wealth_descr",
     "en": "Amount of wealth owned by the residents of this <h>Region</>. It is the primary currency used in the <h>Trading Post</>, can be spent on a <img id=\"Extension\"/><h>Backyard Extension</> or converted to <img id=\"Treasury\"/><h>Treasury</> via the <h>Manor</> Taxes Panel.",
     "vi": "Tổng của cải thuộc sở hữu của người dân trong <h>Vùng</> này. Đây là tiền tệ chính dùng tại <h>Trạm giao thương</>, có thể dùng để đầu tư <img id=\"Extension\"/> <h>Tiện ích sân sau</> hoặc chuyển đổi thành <img id=\"Treasury\"/> <h>Ngân khố Lãnh chúa</> qua Bảng thuế <h>Dinh thự</>.",
-    "offset": 137045,
+    "offset": 137641,
     "length": 269
   },
   {
     "key": "supplies_months",
     "en": "months",
     "vi": "tháng",
-    "offset": 146260,
+    "offset": 146856,
     "length": 7
   },
   {
     "key": "current_settlement_level",
     "en": "Current Settlement Level",
     "vi": "Cấp độ Định cư hiện tại",
-    "offset": 146493,
+    "offset": 147089,
     "length": 25
   },
   {
     "key": "next_settlement_level",
     "en": "Next Settlement Level",
     "vi": "Cấp độ Định cư kế tiếp",
-    "offset": 147259,
+    "offset": 147855,
     "length": 22
   },
   {
     "key": "max_settlement_level",
     "en": "Maximum Settlement Level reached",
     "vi": "Đã đạt Cấp độ Định cư tối đa",
-    "offset": 148083,
+    "offset": 148679,
     "length": 33
   },
   {
     "key": "settlementLvRequirement_families_lv1",
     "en": "Families (Level 1 or higher)",
     "vi": "Gia đình (Cấp 1 trở lên)",
-    "offset": 149158,
+    "offset": 149754,
     "length": 29
   },
   {
     "key": "settlementLvRequirement_families_lv2",
     "en": "Families (Level 2 or higher)",
     "vi": "Gia đình (Cấp 2 trở lên)",
-    "offset": 150128,
+    "offset": 150724,
     "length": 29
   },
   {
     "key": "settlementLvRequirement_families_lv3",
     "en": "Families (Level 3 or higher)",
     "vi": "Gia đình (Cấp 3 trở lên)",
-    "offset": 151098,
+    "offset": 151694,
     "length": 29
   },
   {
     "key": "settlementLvRequirement_families_lv4",
     "en": "Families (Level 4 or higher)",
     "vi": "Gia đình (Cấp 4 trở lên)",
-    "offset": 152068,
+    "offset": 152664,
     "length": 29
   },
   {
     "key": "settlementLvRequirement_plots_lv1",
     "en": "Burgage Plots (Level 1 or higher)",
     "vi": "Nhà dân (Cấp 1 trở lên)",
-    "offset": 153038,
+    "offset": 153634,
     "length": 34
   },
   {
     "key": "settlementLvRequirement_plots_lv2",
     "en": "Burgage Plots (Level 2 or higher)",
     "vi": "Nhà dân (Cấp 2 trở lên)",
-    "offset": 154182,
+    "offset": 154778,
     "length": 34
   },
   {
     "key": "settlementLvRequirement_plots_lv3",
     "en": "Burgage Plots (Level 3 or higher)",
     "vi": "Nhà dân (Cấp 3 trở lên)",
-    "offset": 155326,
+    "offset": 155922,
     "length": 34
   },
   {
     "key": "press_to_open_dev_view",
     "en": "Click to open the Development Panel",
     "vi": "Nhấn để mở Bảng Phát triển",
-    "offset": 156470,
+    "offset": 157066,
     "length": 36
   },
   {
     "key": "dev_tree_desc",
     "en": "Each Settlement Level reached unlocks a new Development Category, allowing you to specialize your Settlement and make it more efficient.",
     "vi": "Mỗi Cấp độ Định cư đạt được sẽ mở khóa một Điểm Phát triển mới, cho phép chuyên môn hóa và nâng cao hiệu quả khu định cư.",
-    "offset": 157700,
+    "offset": 158296,
     "length": 137
   },
   {
     "key": "livestock",
     "en": "Livestock",
     "vi": "Gia súc",
-    "offset": 162471,
+    "offset": 163067,
     "length": 10
   },
   {
     "key": "pasture_space",
     "en": "Pasture Space",
     "vi": "Đồng cỏ chăn thả",
-    "offset": 162761,
+    "offset": 163357,
     "length": 14
   },
   {
     "key": "stable_space",
     "en": "Stable Space",
     "vi": "Sức chứa chuồng trại",
-    "offset": 163224,
+    "offset": 163820,
     "length": 13
   },
   {
     "key": "influence",
     "en": "Influence",
     "vi": "Uy danh",
-    "offset": 163686,
+    "offset": 164282,
     "length": 10
   },
   {
     "key": "influence_descr",
     "en": "A measure of your political power. Required for diplomacy and pressing <h>Claims</>. {br}{br}Gained from raising the <h>Settlement Level</>, introducing the <h>Tithe</> Taxation and building influential buildings.",
     "vi": "Thước đo quyền lực chính trị của bạn. Cần thiết cho ngoại giao và đưa ra <h>Yêu sách chủ quyền</>.{br}{br}Gia tăng khi nâng <h>Cấp độ Định cư</>, ban hành <h>Thuế Thập phân</> và xây dựng các công trình tầm cỡ.",
-    "offset": 163984,
+    "offset": 164580,
     "length": 214
   },
   {
     "key": "treasury",
     "en": "Treasury",
     "vi": "Ngân khố Lãnh chúa",
-    "offset": 171127,
+    "offset": 171723,
     "length": 9
   },
   {
     "key": "treasury_descr",
     "en": "Your personal wealth, usually collected from <h>Taxes</> via the <h>Manor</>. Can be used for <h>Diplomacy</>, hiring <h>Retinue</> and <h>Mercenaries</>, as well as <h>Settling</> a new <h>Region</>.",
     "vi": "Tài sản cá nhân của bạn, thu được từ <h>Thuế</> qua <h>Dinh thự</>. Được dùng cho <h>Ngoại giao</>, thuê <h>Cận vệ</> và <h>Lính đánh thuê</>, cũng như <h>Khai hoang</> một <h>Vùng đất</> mới.",
-    "offset": 171410,
+    "offset": 172006,
     "length": 201
   },
   {
     "key": "legacy_view",
     "en": "Legacy View",
     "vi": "Góc nhìn cũ",
-    "offset": 178946,
+    "offset": 179542,
     "length": 12
   },
   {
     "key": "kings_favour",
     "en": "King's Favor",
     "vi": "Ân huệ của Vua",
-    "offset": 179394,
+    "offset": 179990,
     "length": 13
   },
   {
     "key": "kings_favour_descr",
     "en": "Can be used for diplomatic purposes, including pressing and refuting claims.",
     "vi": "Được dùng cho các mục đích ngoại giao, bao gồm đưa ra và bác bỏ các yêu sách chủ quyền.",
-    "offset": 179906,
+    "offset": 180502,
     "length": 77
   },
   {
     "key": "royal_tax",
     "en": "Annual Royal Tax",
     "vi": "Thuế Hoàng gia hàng năm",
-    "offset": 182722,
+    "offset": 183318,
     "length": 17
   },
   {
     "key": "no_royal_tax",
     "en": "No tax to be paid.",
     "vi": "Không phải nộp thuế.",
-    "offset": 183396,
+    "offset": 183992,
     "length": 19
   },
   {
     "key": "royal_tax_descr",
     "en": "This Tax will be collected from <img id=\"Treasury\"/><h>Treasury</>. Enable <h>Taxes</> via the <h>Manor</> to increase <img id=\"Treasury\"/><h>Treasury</>.",
     "vi": "Thuế này sẽ được trích từ <img id=\"Treasury\"/> <h>Ngân khố</>. Hãy ban hành <h>Thuế</> qua <h>Dinh thự</> để gia tăng <img id=\"Treasury\"/> <h>Ngân khố</>.",
-    "offset": 184136,
+    "offset": 184732,
     "length": 155
   },
   {
     "key": "royal_tax_days_left",
     "en": "Days left until collection",
     "vi": "Số ngày còn lại trước đợt thu thuế",
-    "offset": 189989,
+    "offset": 190585,
     "length": 27
   },
   {
     "key": "all_storage",
     "en": "Storage",
     "vi": "Kho chứa",
-    "offset": 190778,
+    "offset": 191374,
     "length": 8
   },
   {
     "key": "nothing_stored",
     "en": "Nothing stored inside.",
     "vi": "Chưa có đồ chứa bên trong.",
-    "offset": 191066,
+    "offset": 191662,
     "length": 23
   },
   {
     "key": "storage_generic",
     "en": "Generic Storage",
     "vi": "Kho vật tư chung",
-    "offset": 191842,
+    "offset": 192438,
     "length": 16
   },
   {
     "key": "storage_pantry",
     "en": "Pantry",
     "vi": "Kho thực phẩm",
-    "offset": 192269,
+    "offset": 192865,
     "length": 7
   },
   {
     "key": "storage_large",
     "en": "Timber Storage",
     "vi": "Bãi chứa gỗ khúc",
-    "offset": 192590,
+    "offset": 193186,
     "length": 15
   },
   {
     "key": "tab_general",
     "en": "General",
     "vi": "Tổng quan",
-    "offset": 192995,
+    "offset": 193591,
     "length": 8
   },
   {
     "key": "tab_people",
     "en": "People",
     "vi": "Cư dân",
-    "offset": 193298,
+    "offset": 193894,
     "length": 7
   },
   {
     "key": "tab_advanced",
     "en": "Advanced",
     "vi": "Nâng cao",
-    "offset": 193539,
+    "offset": 194135,
     "length": 9
   },
   {
     "key": "tab_residential",
     "en": "Residential",
     "vi": "Cư trú",
-    "offset": 193869,
+    "offset": 194465,
     "length": 12
   },
   {
     "key": "tab_trade",
     "en": "Trade",
     "vi": "Giao thương",
-    "offset": 194187,
+    "offset": 194783,
     "length": 6
   },
   {
     "key": "tab_construction",
     "en": "Construction",
     "vi": "Thi công",
-    "offset": 194448,
+    "offset": 195044,
     "length": 13
   },
   {
     "key": "tab_livestock",
     "en": "Livestock",
     "vi": "Gia súc",
-    "offset": 194784,
+    "offset": 195380,
     "length": 10
   },
   {
     "key": "tab_taxes",
     "en": "Taxes",
     "vi": "Thuế khóa",
-    "offset": 195052,
+    "offset": 195648,
     "length": 6
   },
   {
     "key": "taxation_options",
     "en": "Monthly Taxation Options",
     "vi": "Tùy chọn Thuế hàng tháng",
-    "offset": 195306,
+    "offset": 195902,
     "length": 25
   },
   {
     "key": "tax_land",
     "en": "Land Tax",
     "vi": "Thuế đất",
-    "offset": 196172,
+    "offset": 196768,
     "length": 9
   },
   {
     "key": "tax_land_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</>.",
     "vi": "Được trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</>.",
-    "offset": 196557,
+    "offset": 197153,
     "length": 58
   },
   {
     "key": "tax_tithe",
     "en": "Tithe",
     "vi": "Thuế Thập phân",
-    "offset": 198605,
+    "offset": 199201,
     "length": 6
   },
   {
     "key": "tax_tithe_descr",
     "en": "Percentage of surplus <img id=\"Food\"/><h>Food</> that is given to the <h>Church</> in return for <img id=\"Influence\"/><h>Influence</>.",
     "vi": "Tỷ lệ phần trăm thặng dư <img id=\"Food\"/> <h>Lương thực</> dâng cho <h>Giáo hội</> để đổi lấy <img id=\"Influence\"/> <h>Uy danh</>.",
-    "offset": 198915,
+    "offset": 199511,
     "length": 135
   },
   {
     "key": "tax_merc",
     "en": "Mercenary tax",
     "vi": "Thuế Quân phí",
-    "offset": 202962,
+    "offset": 203558,
     "length": 14
   },
   {
     "key": "tax_merc_descr",
     "en": "Amount raised from <img id=\"ItemID_0\"/><h>Regional Wealth</> to cover hiring of <h>Mercenary Companies</> . Won't cause loss of <img id=\"Approval\"/><h>APPROVAL</> as long as mercenaries are actually employed.",
     "vi": "Khoản tiền trích từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> để trang trải chi phí thuê <h>Lính đánh thuê</>. Sẽ không làm giảm <img id=\"Approval\"/> <h>LÒNG DÂN</> miễn là lính đánh thuê thực sự đang được sử dụng.",
-    "offset": 203497,
+    "offset": 204093,
     "length": 209
   },
   {
     "key": "tax_trade",
     "en": "Trade tax",
     "vi": "Thuế buôn bán",
-    "offset": 210960,
+    "offset": 211556,
     "length": 10
   },
   {
     "key": "tax_trade_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> for every transaction with a visiting <h>Travelling Merchant</>.",
     "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> cho mỗi giao dịch với <h>Thương nhân</>.",
-    "offset": 211362,
+    "offset": 211958,
     "length": 122
   },
   {
     "key": "tax_mill",
     "en": "Banalities",
     "vi": "Thuế Xay xát",
-    "offset": 215432,
+    "offset": 216028,
     "length": 11
   },
   {
     "key": "tax_mill_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> every time the mill grounds 100 <img id=\"ItemID_1\"/><h>Grain</> into <img id=\"ItemID_5\"/><h>Flour</>.",
     "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> mỗi khi cối xay nghiền 100 <img id=\"ItemID_1\"/> <h>Hạt ngũ cốc</> thành <img id=\"ItemID_5\"/> <h>Bột mì</>.",
-    "offset": 215894,
+    "offset": 216490,
     "length": 159
   },
   {
     "key": "tax_war",
     "en": "War tax",
     "vi": "Thuế Chiến tranh",
-    "offset": 221835,
+    "offset": 222429,
     "length": 8
   },
   {
     "key": "tax_citizen",
     "en": "Citizen tax",
     "vi": "Thuế Thân",
-    "offset": 222246,
+    "offset": 222840,
     "length": 12
   },
   {
     "key": "tax_citizen_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</>, calculated only per <h>Burgage Plot of Lvl3 and above</>.",
     "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</>, chỉ tính trên mỗi <h>Nhà dân Cấp 3 trở lên</>.",
-    "offset": 222724,
+    "offset": 223318,
     "length": 116
   },
   {
     "key": "tax_war_descr",
     "en": "Collected from <img id=\"ItemID_0\"/><h>Regional Wealth</> if the player is in an official state of <h>War</>.",
     "vi": "Trích thu từ <img id=\"ItemID_0\"/> <h>Tài sản vùng</> nếu người chơi đang trong tình trạng <h>Chiến tranh</> chính thức.",
-    "offset": 226821,
+    "offset": 227415,
     "length": 109
   },
   {
     "key": "tax_predicted_income",
     "en": "Predicted tax income",
     "vi": "Thu nhập thuế dự kiến",
-    "offset": 230401,
+    "offset": 230995,
     "length": 21
   },
   {
     "key": "tax_predicted_approval_loss",
     "en": "Predicted Approval Loss",
     "vi": "Lòng dân dự kiến giảm",
-    "offset": 231152,
+    "offset": 231746,
     "length": 24
   },
   {
     "key": "taxedIn_%",
     "en": "%",
     "vi": "%",
-    "offset": 232052,
+    "offset": 232646,
     "length": 2
   },
   {
     "key": "taxedIn_.s",
     "en": ".s",
     "vi": ".s",
-    "offset": 232176,
+    "offset": 232770,
     "length": 3
   },
   {
     "key": "construction_status",
     "en": "Construction Status",
     "vi": "Tiến độ Xây dựng",
-    "offset": 232331,
+    "offset": 232925,
     "length": 20
   },
   {
     "key": "construction_priority",
     "en": "Construction Priority",
     "vi": "Độ ưu tiên Thi công",
-    "offset": 232870,
+    "offset": 233464,
     "length": 22
   },
   {
     "key": "construction_workforce",
     "en": "Workforce",
     "vi": "Nhân lực",
-    "offset": 233500,
+    "offset": 234094,
     "length": 10
   },
   {
     "key": "construction_goods_transported",
     "en": "Goods transported",
     "vi": "Vật tư đã chuyển đến",
-    "offset": 233893,
+    "offset": 234487,
     "length": 18
   },
   {
     "key": "construction_queue_position",
     "en": "Current position in construction queue",
     "vi": "Vị trí hiện tại trong hàng đợi thi công",
-    "offset": 234425,
+    "offset": 235019,
     "length": 39
   },
   {
     "key": "construction_priority_descr",
     "en": "Buildings with the highest priority number are built first.",
     "vi": "Công trình có độ ưu tiên cao hơn sẽ được xây trước.",
-    "offset": 235539,
+    "offset": 236133,
     "length": 60
   },
   {
     "key": "status_dead",
     "en": "Dead",
     "vi": "Đã chết",
-    "offset": 237500,
+    "offset": 238094,
     "length": 5
   },
   {
     "key": "status_sick",
     "en": "Sick",
     "vi": "Đau ốm",
-    "offset": 237776,
+    "offset": 238370,
     "length": 5
   },
   {
     "key": "status_hungry",
     "en": "Hungry",
     "vi": "Đói bụng",
-    "offset": 237998,
+    "offset": 238592,
     "length": 7
   },
   {
     "key": "status_starving",
     "en": "Starving",
-    "vi": "Chết đói",
-    "offset": 238249,
+    "vi": "Đói lả",
+    "offset": 238843,
     "length": 9
   },
   {
     "key": "status_cold",
     "en": "Cold",
     "vi": "Bị lạnh",
-    "offset": 238607,
+    "offset": 239201,
     "length": 5
   },
   {
     "key": "status_freezing",
     "en": "Freezing",
-    "vi": "Chết cóng",
-    "offset": 238891,
+    "vi": "Lạnh cóng",
+    "offset": 239485,
     "length": 9
   },
   {
     "key": "demolish",
     "en": "Demolish",
     "vi": "Phá dỡ",
-    "offset": 239191,
+    "offset": 239785,
     "length": 9
   },
   {
     "key": "demolish_descr",
     "en": "Demolish this Building. Construction Resources <h>will be refunded.</>",
     "vi": "Phá dỡ công trình này. Tài nguyên xây dựng <h>sẽ được hoàn trả.</>",
-    "offset": 239460,
+    "offset": 240054,
     "length": 71
   },
   {
     "key": "relocate",
     "en": "Relocate",
     "vi": "Di dời",
-    "offset": 241699,
+    "offset": 242293,
     "length": 9
   },
   {
     "key": "relocate_descr",
     "en": "Relocate this Building. It will be rebuilt in the new location <h>using the original Construction Resources.</>",
     "vi": "Di dời công trình này. Công trình sẽ được dựng lại ở vị trí mới <h>bằng tài nguyên ban đầu.</>",
-    "offset": 242026,
+    "offset": 242620,
     "length": 112
   },
   {
     "key": "building_pause",
     "en": "Stop Work",
     "vi": "Dừng việc",
-    "offset": 245818,
+    "offset": 246412,
     "length": 10
   },
   {
     "key": "building_pause_descr",
     "en": "Stops all Construction and Production related tasks. Unassigns Families working here.",
     "vi": "Dừng toàn bộ công việc xây dựng và sản xuất. Tự động hủy phân công các gia đình làm việc tại đây.",
-    "offset": 246266,
+    "offset": 246860,
     "length": 86
   },
   {
     "key": "pin_building_panel",
     "en": "Pin building tab",
     "vi": "Ghim bảng công trình",
-    "offset": 249572,
+    "offset": 250166,
     "length": 17
   },
   {
     "key": "pin_building_panel_descr",
     "en": "Disconnects this panel from the building, allowing you to move it freely.",
     "vi": "Tách bảng này khỏi công trình, cho phép bạn tự do kéo thả vị trí trên màn hình.",
-    "offset": 250331,
+    "offset": 250925,
     "length": 74
   },
   {
     "key": "set_work_area",
     "en": "Limit Work Area",
     "vi": "Giới hạn phạm vi làm việc",
-    "offset": 252632,
+    "offset": 253226,
     "length": 16
   },
   {
     "key": "clear_work_area",
     "en": "Clear Work Area",
     "vi": "Xóa giới hạn phạm vi",
-    "offset": 253364,
+    "offset": 253958,
     "length": 16
   },
   {
     "key": "fuel_ok",
     "en": "Refueled",
     "vi": "Đã đủ chất đốt",
-    "offset": 254109,
+    "offset": 254703,
     "length": 9
   },
   {
     "key": "fuel_needed",
     "en": "Requires Refueling",
     "vi": "Cần tiếp chất đốt",
-    "offset": 254693,
+    "offset": 255287,
     "length": 19
   },
   {
     "key": "fuel_reserves",
     "en": "Fuel Stockpile",
     "vi": "Dự trữ Chất đốt",
-    "offset": 255465,
+    "offset": 256059,
     "length": 15
   },
   {
     "key": "fuel_reserves_descr",
     "en": "Workers will deliver <img id=\"Fuel\"/><h>Fuel</> equal to the Fuel Stockpile, mitigating the need to wait for a delivery when it runs out, increasing efficiency.",
     "vi": "Nhân công sẽ chuyển <img id=\"Fuel\"/> <h>Chất đốt</> tích lũy sẵn vào kho, tránh việc phải đợi vận chuyển khi cạn kiệt, giúp tăng năng suất.",
-    "offset": 255996,
+    "offset": 256590,
     "length": 161
   },
   {
     "key": "crop_type",
     "en": "Crop Type",
     "vi": "Loại cây trồng",
-    "offset": 262005,
+    "offset": 262599,
     "length": 10
   },
   {
-    "key": "mainui_1",
+    "key": "cropID_1",
     "en": "Fallow",
     "vi": "Nghỉ hoang",
-    "offset": 262429,
+    "offset": 263023,
     "length": 7
   },
   {
-    "key": "mainui_2",
+    "key": "cropID_2",
     "en": "Wheat",
     "vi": "Lúa mì",
-    "offset": 262715,
+    "offset": 263309,
     "length": 6
   },
   {
-    "key": "mainui_3",
+    "key": "cropID_3",
     "en": "Flax",
     "vi": "Cây lanh",
-    "offset": 262960,
+    "offset": 263554,
     "length": 5
   },
   {
-    "key": "mainui_4",
+    "key": "cropID_4",
     "en": "Barley",
     "vi": "Đại mạch",
-    "offset": 263155,
+    "offset": 263749,
     "length": 7
   },
   {
-    "key": "mainui_8",
+    "key": "cropID_8",
     "en": "Rye",
     "vi": "Lúa mạch đen",
-    "offset": 263393,
+    "offset": 263987,
     "length": 4
+  },
+  {
+    "key": "cropID_16",
+    "en": "Oats",
+    "vi": "Yến mạch",
+    "offset": 264217,
+    "length": 5
   },
   {
     "key": "crop_second_year",
     "en": "Second Year",
     "vi": "Năm thứ hai",
-    "offset": 263623,
+    "offset": 264438,
     "length": 12
   },
   {
     "key": "crop_third_year",
     "en": "Third Year",
     "vi": "Năm thứ ba",
-    "offset": 264021,
+    "offset": 264836,
     "length": 11
   },
   {
     "key": "force_early_harvest",
     "en": "Force Early Harvest",
     "vi": "Gặt sớm bắt buộc",
-    "offset": 264423,
+    "offset": 265238,
     "length": 20
   },
   {
     "key": "field_priority",
     "en": "Field Priority",
     "vi": "Ưu tiên Ruộng",
-    "offset": 265176,
+    "offset": 265991,
     "length": 15
   },
   {
     "key": "burn_field",
     "en": "Burn Field",
     "vi": "Đốt ruộng",
-    "offset": 265699,
+    "offset": 266514,
     "length": 11
   },
   {
     "key": "estimated_harvest",
     "en": "Estimated Harvest",
     "vi": "Sản lượng ước tính",
-    "offset": 266158,
+    "offset": 266973,
     "length": 18
   },
   {
     "key": "predicted_crop_harvest",
     "en": "Predicted Harvest",
     "vi": "Sản lượng dự kiến",
-    "offset": 266694,
+    "offset": 267509,
     "length": 18
   },
   {
     "key": "workforce_limit",
     "en": "Max Workforce",
     "vi": "Nhân lực tối đa",
-    "offset": 267243,
+    "offset": 268058,
     "length": 14
   },
   {
     "key": "fertility",
     "en": "Fertility",
     "vi": "Độ phì nhiêu",
-    "offset": 267917,
+    "offset": 268732,
     "length": 10
   },
   {
     "key": "seasonal_resource",
     "en": "Seasonal",
     "vi": "Theo mùa",
-    "offset": 268280,
+    "offset": 269095,
     "length": 9
   },
   {
     "key": "construction_reserve",
     "en": "Construction Reserve",
     "vi": "Dự trữ Xây dựng",
-    "offset": 268625,
+    "offset": 269440,
     "length": 21
   },
   {
     "key": "high_immigration_rate",
     "en": "High Population Growth",
     "vi": "Tăng trưởng Dân số cao",
-    "offset": 269216,
+    "offset": 270031,
     "length": 23
   },
   {
     "key": "average_immigration_rate",
     "en": "Low Population Growth",
     "vi": "Tăng trưởng Dân số thấp",
-    "offset": 270025,
+    "offset": 270840,
     "length": 22
   },
   {
     "key": "no_migration",
     "en": "No Population Growth",
     "vi": "Không có dân nhập cư mới",
-    "offset": 270834,
+    "offset": 271649,
     "length": 21
   },
   {
     "key": "emigration",
     "en": "People are leaving ",
     "vi": "Dân làng đang rời bỏ quê hương ",
-    "offset": 271632,
+    "offset": 272447,
     "length": 20
   },
   {
     "key": "reason_low_approval",
     "en": "Low Approval",
     "vi": "Lòng dân thấp",
-    "offset": 272268,
+    "offset": 273083,
     "length": 13
   },
   {
     "key": "reason_no_housing",
     "en": "All Burgage Plots are occupied",
     "vi": "Toàn bộ Nhà dân đã kín chỗ",
-    "offset": 272846,
+    "offset": 273661,
     "length": 31
   },
   {
     "key": "reason_ok_approval",
     "en": "Neutral Approval",
     "vi": "Lòng dân trung lập",
-    "offset": 273826,
+    "offset": 274641,
     "length": 17
   },
   {
     "key": "next_harvest",
     "en": "Next Harvest",
     "vi": "Vụ gặt kế tiếp",
-    "offset": 274448,
+    "offset": 275263,
     "length": 13
   },
   {
     "key": "reassignFamilyButton",
     "en": "Reassign Family to a different Workplace",
-    "vi": "Chuyển Gia đình sang nơi làm việc khác",
-    "offset": 274984,
+    "vi": "Điều chuyển hộ dân sang nơi làm việc khác",
+    "offset": 275799,
     "length": 41
   },
   {
     "key": "reassign_mode",
     "en": "Select a new workplace",
     "vi": "Chọn nơi làm việc mới",
-    "offset": 276136,
+    "offset": 276951,
     "length": 23
   },
   {
     "key": "reassign_mode_descr",
     "en": "Reassigning the Family",
-    "vi": "Đang chuyển công tác Gia đình",
-    "offset": 276986,
+    "vi": "Đang điều chuyển hộ dân",
+    "offset": 277801,
     "length": 23
   },
   {
     "key": "assignment_invalid",
     "en": "Invalid assignment",
     "vi": "Phân công không hợp lệ",
-    "offset": 277658,
+    "offset": 278473,
     "length": 19
   },
   {
     "key": "assignment_invalid_workplace_full",
     "en": "Workplace already full",
     "vi": "Nơi làm việc đã đủ người",
-    "offset": 278301,
+    "offset": 279116,
     "length": 23
   },
   {
     "key": "family_reassigned",
     "en": "Family reassigned successfuly",
-    "vi": "Đã chuyển công tác gia đình thành công",
-    "offset": 279083,
+    "vi": "Đã điều chuyển hộ dân thành công",
+    "offset": 279898,
     "length": 30
   },
   {
     "key": "navigate_to_workplace",
     "en": "Show Workplace",
     "vi": "Xem Nơi làm việc",
-    "offset": 279928,
+    "offset": 280743,
     "length": 15
   },
   {
     "key": "navigate_to_home",
     "en": "Show Home",
     "vi": "Xem Nhà ở",
-    "offset": 280520,
+    "offset": 281335,
     "length": 10
   },
   {
     "key": "building_disabled",
     "en": "Disabled",
     "vi": "Đã vô hiệu hóa",
-    "offset": 280957,
+    "offset": 281772,
     "length": 9
   },
   {
     "key": "road_access_obstructed",
     "en": "Road Access obstructed",
     "vi": "Đường vào bị cản trở",
-    "offset": 281322,
+    "offset": 282137,
     "length": 23
   },
   {
     "key": "limit_reached",
     "en": "Limit Reached",
     "vi": "Đã đạt giới hạn",
-    "offset": 282155,
+    "offset": 282970,
     "length": 14
   },
   {
     "key": "outside_module_range",
     "en": "Too far from other modules",
     "vi": "Quá xa các cấu trúc khác",
-    "offset": 282710,
+    "offset": 283525,
     "length": 27
   },
   {
     "key": "plot_too_small",
     "en": "Plot Too Small",
     "vi": "Thửa đất quá nhỏ",
-    "offset": 283661,
+    "offset": 284476,
     "length": 15
   },
   {
     "key": "animal_capacity",
     "en": "Pasture Space",
     "vi": "Sức chứa đồng cỏ",
-    "offset": 284294,
+    "offset": 285109,
     "length": 14
   },
   {
     "key": "place_roads",
     "en": "Place Roads",
     "vi": "Đặt Đường sá",
-    "offset": 284757,
+    "offset": 285572,
     "length": 12
   },
   {
     "key": "warn_no_deposit_in_range",
     "en": "<img id=\"Warn\"/> <r>No Deposit in range!</>",
     "vi": "<img id=\"Warn\"/> <r>Không có Mỏ tài nguyên trong phạm vi!</>",
-    "offset": 285262,
+    "offset": 286077,
     "length": 44
   },
   {
     "key": "trees_overlapped",
     "en": "Trees uprooted for construction",
     "vi": "Cây cối bị đốn hạ để giải phóng mặt bằng",
-    "offset": 287081,
+    "offset": 287896,
     "length": 32
   },
   {
     "key": "overlaps_habitat",
     "en": "Overlaps animal habitat - will cause migration!",
     "vi": "Xâm phạm sinh cảnh động vật — sẽ khiến thú hoang di cư!",
-    "offset": 288213,
+    "offset": 289028,
     "length": 48
   },
   {
     "key": "buildings_required",
     "en": "Buildings required in the Region",
     "vi": "Các công trình bắt buộc trong Vùng",
-    "offset": 290112,
+    "offset": 290927,
     "length": 33
   },
   {
     "key": "deposit_growing",
     "en": "Growing",
     "vi": "Đang sinh sôi",
-    "offset": 291099,
+    "offset": 291914,
     "length": 8
   },
   {
     "key": "deposit_shrinking",
     "en": "Shrinking",
     "vi": "Đang suy giảm",
-    "offset": 291394,
+    "offset": 292209,
     "length": 10
   },
   {
     "key": "deposit_exhausted",
     "en": "Deposit exhausted",
     "vi": "Mỏ tài nguyên đã cạn kiệt",
-    "offset": 291708,
+    "offset": 292523,
     "length": 18
   },
   {
-    "key": "accepted_goods",
+    "key": "current_surplus",
     "en": "Current Surplus",
     "vi": "Thặng dư hiện tại",
-    "offset": 291812,
+    "offset": 293188,
     "length": 16
   },
   {
     "key": "desired_surplus",
     "en": "Desired Surplus",
     "vi": "Thặng dư mong muốn",
-    "offset": 292392,
+    "offset": 293768,
     "length": 16
   },
   {
     "key": "rich_deposit",
     "en": "<img id=\"RichDeposit\"/> Rich Resource",
     "vi": "<img id=\"RichDeposit\"/> Mỏ tài nguyên trữ lượng lớn",
-    "offset": 293036,
+    "offset": 294412,
     "length": 38
   },
   {
     "key": "bandit_camp",
     "en": "Bandit Camp",
     "vi": "Trại cướp",
-    "offset": 294230,
+    "offset": 295606,
     "length": 12
   },
   {
     "key": "production_focus",
-    "en": "Production Focus",
-    "vi": "Trọng tâm sản xuất",
-    "offset": 294723,
-    "length": 17
+    "en": "Active Recipes",
+    "vi": "Công thức đang kích hoạt",
+    "offset": 296099,
+    "length": 15
   },
   {
     "key": "resources_needed_for_crafting",
     "en": "Resources needed for crafting",
     "vi": "Nguyên liệu cần để chế tác",
-    "offset": 295283,
+    "offset": 296550,
     "length": 30
   },
   {
     "key": "crafting_output",
     "en": "Crafting output",
     "vi": "Sản phẩm đầu ra",
-    "offset": 296320,
+    "offset": 297587,
     "length": 16
   },
   {
     "key": "tradepoint",
     "en": "Tradepoint",
     "vi": "Điểm giao thương",
-    "offset": 296957,
+    "offset": 298224,
     "length": 11
   },
   {
-    "key": "no_room_for_extension",
+    "key": "add_livestock_worker",
     "en": "Assign Livestock Worker",
     "vi": "Chỉ định Thợ chăn dắt gia súc",
-    "offset": 297376,
+    "offset": 298643,
     "length": 24
   },
   {
     "key": "remove_livestock_worker",
     "en": "Unassign Livestock Worker",
     "vi": "Hủy chỉ định Thợ chăn dắt gia súc",
-    "offset": 298117,
+    "offset": 299384,
     "length": 26
   },
   {
     "key": "region_claim_in_progress",
     "en": "Claiming",
     "vi": "Đang yêu sách chủ quyền",
-    "offset": 298947,
+    "offset": 300214,
     "length": 9
   },
   {
     "key": "region_claim_contested",
     "en": "Contested",
     "vi": "Đang tranh chấp",
-    "offset": 299363,
+    "offset": 300630,
     "length": 10
   },
   {
     "key": "region_claimed_by",
     "en": "Being claimed by",
     "vi": "Đang bị đòi chủ quyền bởi",
-    "offset": 299722,
+    "offset": 300989,
     "length": 17
   },
   {
     "key": "region_contested_by",
     "en": "Claim contested by",
     "vi": "Tranh chấp chủ quyền bởi",
-    "offset": 300294,
+    "offset": 301561,
     "length": 19
   },
   {
     "key": "claiming",
     "en": "Claiming",
     "vi": "Đang yêu sách",
-    "offset": 300936,
+    "offset": 302203,
     "length": 9
   },
   {
     "key": "being_claimed",
     "en": "Being claimed",
     "vi": "Đang bị yêu sách",
-    "offset": 301336,
+    "offset": 302603,
     "length": 14
   },
   {
     "key": "contested",
     "en": "Contested",
     "vi": "Đang tranh chấp",
-    "offset": 301861,
+    "offset": 303128,
     "length": 10
   },
   {
     "key": "battle_for",
     "en": "Battle for",
-    "vi": "Huyết chiến vì",
-    "offset": 302220,
+    "vi": "Trận chiến giành",
+    "offset": 303487,
     "length": 11
   },
   {
     "key": "challenge_status",
     "en": "Status",
     "vi": "Tình trạng",
-    "offset": 302557,
+    "offset": 303824,
     "length": 7
   },
   {
     "key": "challenge_losing",
     "en": "Losing",
     "vi": "Đang thế thua",
-    "offset": 302817,
+    "offset": 304084,
     "length": 7
   },
   {
     "key": "challenge_winning",
     "en": "Winning",
     "vi": "Đang thế thắng",
-    "offset": 303171,
+    "offset": 304438,
     "length": 8
   },
   {
     "key": "challenge_in_combat",
     "en": "Battle in progress",
     "vi": "Chiến trận đang diễn ra",
-    "offset": 303511,
+    "offset": 304778,
     "length": 19
   },
   {
     "key": "challenge_halted",
     "en": "Halted",
     "vi": "Tạm dừng",
-    "offset": 303947,
+    "offset": 305214,
     "length": 7
   },
   {
     "key": "tooltip_challenge",
     "en": "Challenge results",
     "vi": "Kết quả Thử thách",
-    "offset": 304251,
+    "offset": 305518,
     "length": 18
   },
   {
     "key": "tooltip_challenge_descr",
     "en": "Both challengers must bring their armies to the <h>BATTLEFIELD</>. When the time runs out and there is no challenger's troops present on the battlefield, the Lord who initiated the challenge wins. ",
     "vi": "Cả hai bên tham chiến phải điều quân đến <h>CHIẾN TRƯỜNG</>. Khi hết thời gian mà đối phương không còn quân hiện diện tại bãi chiến trường, Lãnh chúa phát động thách đấu sẽ thắng lợi.",
-    "offset": 304806,
+    "offset": 306073,
     "length": 198
   },
   {
     "key": "show_battlefield_location",
     "en": "Show the Battlefield Location.",
     "vi": "Hiển thị vị trí Chiến trường.",
-    "offset": 310861,
+    "offset": 312128,
     "length": 31
   },
   {
     "key": "challenge",
     "en": "Challenge",
     "vi": "Thử thách",
-    "offset": 311733,
+    "offset": 313000,
     "length": 10
   },
   {
     "key": "tip_challenge",
     "en": "Bring your army to the Battlefield to win the Challenge. The Battlefield may shift position after the battle is initiated. {br}Skirmishes too far from the Battlefield location don't count towards the Claim.",
     "vi": "Hãy điều quân đến Chiến trường để giành chiến thắng. Vị trí Chiến trường có thể dịch chuyển sau khi giao tranh nổ ra.{br}Những cuộc đụng độ lẻ tẻ ngoài phạm vi chiến trường sẽ không được tính vào điểm tranh chấp.",
-    "offset": 312033,
+    "offset": 313300,
     "length": 207
   },
   {
     "key": "relocate_battlefield",
     "en": "Ask to relocate the Battlefield (Locked in early access)",
     "vi": "Yêu cầu dời Chiến trường (Khóa trong bản Early Access)",
-    "offset": 318479,
+    "offset": 319746,
     "length": 57
   },
   {
-    "key": "mainui_10496",
-    "en": "Bloqueado durante el acceso anticipado",
-    "vi": "Khóa trong bản Early Access",
-    "offset": 320911,
-    "length": 39
+    "key": "use_kings_favor",
+    "en": "Use King’s Favor (Locked in early access)",
+    "vi": "Sử dụng Ân sủng của Đức vua (Chưa mở khóa trong Early Access)",
+    "offset": 321784,
+    "length": 42
   },
   {
     "key": "surrender_challenge",
     "en": "Surrender (Locked in early access)",
     "vi": "Đầu hàng (Khóa trong bản Early Access)",
-    "offset": 322228,
+    "offset": 323495,
     "length": 35
   },
   {
     "key": "treasury_cost",
     "en": "Cost",
     "vi": "Chi phí",
-    "offset": 323505,
+    "offset": 324772,
     "length": 5
   },
   {
     "key": "starting_supplies",
     "en": "Starting Supplies",
     "vi": "Tiếp tế ban đầu",
-    "offset": 323752,
+    "offset": 325019,
     "length": 18
   },
   {
-    "key": "mainui_1",
+    "key": "startingSupplyLevel_1",
     "en": "Modest",
-    "vi": "Ít ỏi",
-    "offset": 324325,
+    "vi": "Kém",
+    "offset": 325592,
     "length": 7
   },
   {
-    "key": "mainui_2",
+    "key": "startingSupplyLevel_2",
     "en": "Average",
     "vi": "Vừa phải",
-    "offset": 324621,
+    "offset": 325888,
     "length": 8
   },
   {
-    "key": "mainui_3",
+    "key": "startingSupplyLevel_3",
     "en": "Plentiful",
     "vi": "Dồi dào",
-    "offset": 324952,
+    "offset": 326219,
     "length": 10
   },
   {
-    "key": "mainui_2",
+    "key": "settlementType_2",
     "en": "Town",
     "vi": "Thị trấn",
-    "offset": 325249,
+    "offset": 326516,
     "length": 5
   },
   {
-    "key": "mainui_3",
+    "key": "settlementType_3",
     "en": "Farming Village",
     "vi": "Làng nông nghiệp",
-    "offset": 325487,
+    "offset": 326754,
     "length": 16
   },
   {
-    "key": "mainui_4",
+    "key": "settlementType_4",
     "en": "Forest Village",
     "vi": "Làng lâm nghiệp",
-    "offset": 325920,
+    "offset": 327187,
     "length": 15
   },
   {
-    "key": "mainui_5",
+    "key": "settlementType_5",
     "en": "Mining Village",
     "vi": "Làng mỏ",
-    "offset": 326314,
+    "offset": 327581,
     "length": 15
   },
   {
-    "key": "mainui_6",
+    "key": "settlementType_6",
     "en": "Outpost",
     "vi": "Tiền đồn",
-    "offset": 326750,
+    "offset": 328017,
     "length": 8
   },
   {
     "key": "barter_value",
     "en": "Barter value",
     "vi": "Tỷ giá trao đổi hàng",
-    "offset": 327120,
+    "offset": 328387,
     "length": 13
   },
   {
     "key": "barter_value_descr",
     "en": "When moving things between Regions, the exchange value of goods needs to match.{br} For instance, if you exchange Iron at, let's say, 14 silver per unit for Firewood at 7 silver per unit, {br}the barter value is 2x (you get 2 Firewood for every Iron)",
     "vi": "Khi vận chuyển đồ giữa các Vùng, giá trị quy đổi hàng hóa cần phải tương đương.{br}Ví dụ: nếu bạn đổi Sắt (giá 14 bạc) lấy Củi sưởi (giá 7 bạc),{br}tỷ giá trao đổi sẽ là 2x (bạn nhận được 2 Củi sưởi cho mỗi 1 Sắt).",
-    "offset": 327655,
+    "offset": 328922,
     "length": 251
   },
   {
     "key": "muleTrain_no_source_selected",
     "en": "Select source building",
     "vi": "Chọn công trình nguồn gửi",
-    "offset": 336169,
+    "offset": 337436,
     "length": 23
   },
   {
     "key": "muleTrain_no_target_selected",
     "en": "Select target building",
     "vi": "Chọn công trình đích nhận",
-    "offset": 336988,
+    "offset": 338255,
     "length": 23
   },
   {
     "key": "rts_tool_choose_building",
     "en": "Choose a building",
     "vi": "Chọn một công trình",
-    "offset": 337770,
+    "offset": 339037,
     "length": 18
   },
   {
     "key": "rts_tool_mule_connection",
     "en": "Create a mule train connection",
     "vi": "Thiết lập tuyến lừa thồ hàng",
-    "offset": 338374,
+    "offset": 339641,
     "length": 31
   },
   {
     "key": "stall_abandoned",
     "en": "Abandoned",
     "vi": "Bỏ hoang",
-    "offset": 339406,
+    "offset": 340673,
     "length": 10
   },
   {
     "key": "wip",
     "en": "Work in Progress",
     "vi": "Đang hoàn thiện",
-    "offset": 339742,
+    "offset": 341009,
     "length": 17
   },
   {
     "key": "tooltip_marketStall",
     "en": "This Family owns a market stall. If you unassign them, {br}the stall may become abandoned.",
     "vi": "Gia đình này đang sở hữu một sạp hàng tại chợ. Nếu hủy phân công họ,{br}sạp hàng có thể sẽ bị bỏ hoang.",
-    "offset": 340247,
+    "offset": 341514,
     "length": 91
   },
   {
     "key": "cant_claim_when_enemies_present",
     "en": "Can't claim when enemy units are present",
     "vi": "Không thể yêu sách khi quân địch đang hiện diện",
-    "offset": 343505,
+    "offset": 344772,
     "length": 41
   },
   {
     "key": "status_hunger",
     "en": "Hungry",
     "vi": "Đói bụng",
-    "offset": 345331,
+    "offset": 346598,
     "length": 7
   },
   {
     "key": "baarter_partner",
     "en": "Destination",
     "vi": "Nơi nhận hàng",
-    "offset": 345582,
+    "offset": 346849,
     "length": 12
   },
   {
     "key": "baarter_send",
     "en": "Send",
     "vi": "Gửi đi",
-    "offset": 345917,
+    "offset": 347184,
     "length": 5
   },
   {
     "key": "baarter_receive",
     "en": "Receive",
     "vi": "Nhận về",
-    "offset": 346184,
+    "offset": 347451,
     "length": 8
   },
   {
     "key": "company_next_payment",
     "en": "Next Payment in",
     "vi": "Đợt thanh toán kế tiếp sau",
-    "offset": 346453,
+    "offset": 347720,
     "length": 16
   },
   {
     "key": "hire_company_confirmation",
     "en": "This company is ready to serve you, as long as you have the coin",
     "vi": "Đội quân này sẵn sàng phục vụ bạn, miễn là bạn có đủ tiền trả",
-    "offset": 347187,
+    "offset": 348454,
     "length": 65
   },
   {
     "key": "company_hired",
     "en": "Mercenary Company hired",
     "vi": "Đã thuê Đội lính đánh thuê",
-    "offset": 349240,
+    "offset": 350507,
     "length": 24
   },
   {
     "key": "company_cost_tooltip",
     "en": "<img id=\"Treasury\"/> <h>TREASURY</> cost, paid upfront for each month of service.",
     "vi": "Chi phí <img id=\"Treasury\"/> <h>NGÂN KHỐ</>, trả trước cho mỗi tháng phục vụ.",
-    "offset": 350110,
+    "offset": 351377,
     "length": 82
   },
   {
     "key": "summary_look_around",
     "en": "Take a final look around",
     "vi": "Quan sát lại toàn cảnh",
-    "offset": 353000,
+    "offset": 354267,
     "length": 25
   },
   {
     "key": "summary_continue_in_sandbox",
     "en": "Continue playing in sandbox mode",
     "vi": "Tiếp tục chơi ở chế độ tự do",
-    "offset": 353813,
+    "offset": 355080,
     "length": 33
-  },
-  {
-    "key": "mainui_24832",
-    "en": "Serbest oyun modunda oynamaya devam et",
-    "vi": "Tiếp tục chơi ở chế độ tự do",
-    "offset": 354418,
-    "length": 39
   },
   {
     "key": "summary_end_game",
     "en": "Finish the game",
     "vi": "Kết thúc trò chơi",
-    "offset": 354874,
+    "offset": 356141,
     "length": 16
   },
   {
     "key": "development_missing",
     "en": "Development branches missing in this Region",
     "vi": "Vùng này chưa mở khóa nhánh phát triển",
-    "offset": 355341,
+    "offset": 356608,
     "length": 44
   },
   {
     "key": "construction_paused",
     "en": "construction paused",
     "vi": "tạm dừng thi công",
-    "offset": 356549,
+    "offset": 357816,
     "length": 20
   },
   {
     "key": "permanent_livestock_assignment",
     "en": "Permanent livestock assignment",
     "vi": "Chỉ định gia súc cố định",
-    "offset": 357152,
+    "offset": 358419,
     "length": 31
   },
   {
     "key": "total_free",
     "en": "Total (Unassigned)",
     "vi": "Tổng (Chưa phân công)",
-    "offset": 358048,
+    "offset": 359315,
     "length": 19
   },
   {
     "key": "free_stall_locations",
     "en": "Free Stall Locations",
     "vi": "Vị trí sạp hàng còn trống",
-    "offset": 358702,
+    "offset": 359969,
     "length": 21
   },
   {
     "key": "transported_construction_goods",
     "en": "Transported goods",
     "vi": "Vật tư đang vận chuyển",
-    "offset": 359401,
+    "offset": 360668,
     "length": 18
   },
   {
     "key": "overlay_type",
     "en": "Overlay",
     "vi": "Lớp phủ",
-    "offset": 359991,
+    "offset": 361258,
     "length": 8
   },
   {
     "key": "factor_none",
     "en": "None",
     "vi": "Không có",
-    "offset": 360319,
+    "offset": 361586,
     "length": 5
   },
   {
-    "key": "cropID",
+    "key": "accepted_goods",
     "en": "Accepted Goods",
-    "vi": "Hàng hóa chấp nhận",
-    "offset": 360525,
+    "vi": "Bảo trì",
+    "offset": 361792,
     "length": 15
   },
   {
-    "key": "mainui_2",
+    "key": "itemCategory_2",
     "en": "Construction",
-    "vi": "Xây dựng",
-    "offset": 361013,
+    "vi": "Vật liệu Xây dựng",
+    "offset": 362280,
     "length": 13
   },
   {
     "key": "stat_attack",
     "en": "Attack",
     "vi": "Tấn công cận chiến",
-    "offset": 361349,
+    "offset": 362616,
     "length": 7
   },
   {
     "key": "stat_attack_descr",
     "en": "Base melee attack power. Modified by <h>EFFECTIVENESS</>, <h>BACKSTABBING</> and <h>ARMOR</>, <h>BLOCK</> of the enemy.",
     "vi": "Sức tấn công cận chiến cơ bản. Được biến đổi bởi <h>HIỆU QUẢ</>, <h>ĐÁNH LÉN SAU LƯNG</> cùng chỉ số <h>GIÁP</>, <h>ĐỠ ĐÒN</> của kẻ địch.",
-    "offset": 361600,
+    "offset": 362867,
     "length": 120
   },
   {
     "key": "stat_armor",
     "en": "Armor",
     "vi": "Giáp trụ",
-    "offset": 366258,
+    "offset": 367525,
     "length": 6
   },
   {
     "key": "stat_armor_descr",
     "en": "Reduces damage caused by <h>ATTACK</> and <h>RANGED ATTACK</>. Increases <h>FATIGUE</> rate.",
     "vi": "Giảm sát thương phải nhận từ <h>CẬN CHIẾN</> và <h>BẮN TỈA TẦM XA</>. Làm tăng tốc độ tiêu hao <h>THỂ LỰC</>.",
-    "offset": 366514,
+    "offset": 367781,
     "length": 93
   },
   {
     "key": "stat_ranged_attack",
     "en": "Ranged attack",
     "vi": "Tấn công tầm xa",
-    "offset": 369922,
+    "offset": 371189,
     "length": 14
   },
   {
     "key": "stat_ranged_attack_descr",
     "en": "Base missile attack power. Modified by distance to  the enemy, <h>EFFECTIVENESS</>, <h>BACKSTABBING</> and <h>ARMOR</>, <h>BLOCK</> of the enemy.",
     "vi": "Sức tấn công tầm xa cơ bản. Được biến đổi theo khoảng cách đến mục tiêu, <h>HIỆU QUẢ</>, <h>BẮN LÉN SAU LƯNG</> cùng chỉ số <h>GIÁP</>, <h>ĐỠ ĐÒN</> của kẻ địch.",
-    "offset": 370429,
+    "offset": 371696,
     "length": 146
   },
   {
     "key": "stat_missile_range",
     "en": "Ranged distance",
     "vi": "Tầm bắn xa",
-    "offset": 375707,
+    "offset": 376974,
     "length": 16
   },
   {
     "key": "stat_missile_range_descr",
     "en": "How far can the soldiers shoot. Chance to miss is very high at maximum range and gets lower the closer the target is, peaking at distance being equal to 25% of the maximum range and closer.",
     "vi": "Khoảng cách tối đa mà binh lính có thể bắn tên. Tỷ lệ bắn trượt rất cao ở tầm bắn tối đa và càng lại gần bắn càng chính xác, đạt độ chính xác cao nhất ở cự ly dưới 25% tầm bắn tối đa.",
-    "offset": 376188,
+    "offset": 377455,
     "length": 190
   },
   {
     "key": "stat_anti_armor",
     "en": "Anti armor",
     "vi": "Xuyên giáp",
-    "offset": 383012,
+    "offset": 384279,
     "length": 11
   },
   {
     "key": "stat_anti_armor_descr",
     "en": "Diminishes enemy's <h>ARMOR</> value.",
     "vi": "Làm giảm chỉ số <h>GIÁP TRỤ</> của kẻ địch.",
-    "offset": 383423,
+    "offset": 384690,
     "length": 38
   },
   {
     "key": "stat_charge",
     "en": "Charge",
     "vi": "Xung kích",
-    "offset": 384664,
+    "offset": 385931,
     "length": 7
   },
   {
     "key": "stat_charge_descr",
     "en": "Bonus to <h>ATTACK</> on charge impact.",
     "vi": "Gia tăng sức <h>TẤN CÔNG</> khi lao vào húc đội hình địch.",
-    "offset": 384932,
+    "offset": 386199,
     "length": 40
   },
   {
     "key": "stat_mobility",
     "en": "Mobility",
     "vi": "Độ cơ động",
-    "offset": 386340,
+    "offset": 387607,
     "length": 9
   },
   {
     "key": "stat_missileBlock",
     "en": "Shield",
     "vi": "Khiên chắn",
-    "offset": 386695,
+    "offset": 387962,
     "length": 7
   },
   {
     "key": "stat_missileBlock_descr",
     "en": "Reduces damage caused by <h>ATTACK</> and <h>RANGED ATTACK</> but only if directly facing the enemy with the shield. Increases <h>FATIGUE</> rate.",
     "vi": "Giảm sát thương từ <h>CẬN CHIẾN</> và <h>TÊN BẮN</> nhưng chỉ áp dụng khi trực diện đối mặt với địch bằng khiên. Làm tăng tiêu hao <h>THỂ LỰC</>.",
-    "offset": 386918,
+    "offset": 388185,
     "length": 147
   },
   {
     "key": "stat_impaling",
     "en": "Impaling",
     "vi": "Chống xung kích",
-    "offset": 391865,
+    "offset": 393132,
     "length": 9
   },
   {
     "key": "stat_impaling_descr",
     "en": "When immobile and facing the enemy, absorbs enemies <h>CHARGE</> and turns it against them.",
     "vi": "Khi đứng yên và hướng mặt về phía trước, cắm giáo hấp thụ đòn <h>XUNG KÍCH</> của địch và phản ngược sát thương lại chúng.",
-    "offset": 392191,
+    "offset": 393458,
     "length": 92
   },
   {
     "key": "policies_signed",
     "en": "Policies signed",
     "vi": "Chính sách đã ban hành",
-    "offset": 395788,
+    "offset": 397055,
     "length": 16
   },
   {
     "key": "current_relations",
     "en": "Current relations",
     "vi": "Quan hệ hiện tại",
-    "offset": 396419,
+    "offset": 397686,
     "length": 18
   },
   {
     "key": "drop_paragraph_here",
     "en": "Drop paragraph here",
     "vi": "Thả đoạn văn vào đây",
-    "offset": 396930,
+    "offset": 398197,
     "length": 20
   },
   {
     "key": "workplace_efficiency",
     "en": "Workplace Efficiency",
     "vi": "Hiệu suất nơi làm việc",
-    "offset": 397688,
+    "offset": 398955,
     "length": 21
   },
   {
     "key": "windmill_efficiency",
     "en": "Windmill Efficiency",
     "vi": "Hiệu suất Cối xay gió",
-    "offset": 398461,
+    "offset": 399728,
     "length": 20
   },
   {
     "key": "efficiency_up",
     "en": "Efficiency Up",
     "vi": "Tăng hiệu suất",
-    "offset": 399225,
+    "offset": 400492,
     "length": 14
   },
   {
     "key": "efficiency_down",
     "en": "Efficiency Down",
     "vi": "Giảm hiệu suất",
-    "offset": 399878,
+    "offset": 401145,
     "length": 16
   },
   {
     "key": "development_branch_missing",
     "en": "Development Branch missing",
     "vi": "Chưa mở khóa nhánh phát triển",
-    "offset": 400518,
+    "offset": 401785,
     "length": 27
   },
   {
     "key": "development_points",
     "en": "Development Points",
     "vi": "Điểm Phát triển",
-    "offset": 401244,
+    "offset": 402511,
     "length": 19
   },
   {
     "key": "hunting_limit",
     "en": "Hunting Limit",
     "vi": "Hạn mức săn bắn",
-    "offset": 401771,
+    "offset": 403038,
     "length": 14
   },
   {
     "key": "recruit_men_at_arms",
     "en": "Recruit Men-at-Arms",
     "vi": "Chiêu mộ Võ sĩ Cận vệ",
-    "offset": 402226,
+    "offset": 403493,
     "length": 20
   },
   {
     "key": "recruit_men_at_arms_descr",
     "en": "Pay from your <img id=\"Treasury\"/> <h>TREASURY</> to hire a retainer who already owns basic military equipment.",
     "vi": "Chi tiền từ <img id=\"Treasury\"/> <h>NGÂN KHỐ</> để tuyển một lính cận vệ đã trang bị sẵn vũ khí & giáp cơ bản.",
-    "offset": 402759,
+    "offset": 404026,
     "length": 112
   },
   {
     "key": "church_bell_sound",
     "en": "Church Bell sound",
     "vi": "Tiếng chuông nhà thờ",
-    "offset": 406674,
+    "offset": 407941,
     "length": 18
   },
   {
     "key": "work_in_progress",
     "en": "Work in Progress",
     "vi": "Đang hoàn thiện",
-    "offset": 407218,
+    "offset": 408485,
     "length": 17
   },
   {
     "key": "militia_recruits",
     "en": "Recruits",
     "vi": "Tân binh",
-    "offset": 407723,
+    "offset": 408990,
     "length": 9
   },
   {
     "key": "tip_field_priority",
     "en": "Fields with the Highest Priority are taken care of first.",
     "vi": "Ruộng có độ ưu tiên cao nhất sẽ được chăm sóc và thu hoạch trước.",
-    "offset": 407989,
+    "offset": 409256,
     "length": 58
   },
   {
     "key": "crop_growth",
     "en": "Crop Growth",
     "vi": "Tiến độ lúa lớn",
-    "offset": 409800,
+    "offset": 411067,
     "length": 12
   },
   {
     "key": "plowing_progress",
     "en": "Plowing Progress",
     "vi": "Tiến độ cày xới",
-    "offset": 410330,
+    "offset": 411597,
     "length": 17
   },
   {
     "key": "sowing_progress",
     "en": "Sowing Progress",
     "vi": "Tiến độ gieo hạt",
-    "offset": 410860,
+    "offset": 412127,
     "length": 16
   },
   {
     "key": "harvest_progress",
     "en": "Harvest Progress",
     "vi": "Tiến độ gặt lúa",
-    "offset": 411399,
+    "offset": 412666,
     "length": 17
   },
   {
     "key": "tip_crop_yield",
     "en": "Estimated Resources produced (days left to harvest)",
     "vi": "Sản lượng ước tính (Số ngày còn lại đến vụ gặt)",
-    "offset": 411925,
+    "offset": 413192,
     "length": 52
   },
   {
     "key": "tip_force_early_harvest",
     "en": "Ignore Harvesting Season and Harvest immediately. Minimum Crop Growth for any kind of Harvest is 15%.",
     "vi": "Bỏ qua Mùa thu hoạch và gặt ngay lập tức. Cây trồng phải đạt tối thiểu 15% tiến độ sinh trưởng mới có thể gặt sớm.",
-    "offset": 413629,
+    "offset": 414896,
     "length": 102
   },
   {
     "key": "challenge_proposeBattlefieldChange",
     "en": "Propose to change the Battlefield (Locked in early access)",
     "vi": "Đề xuất đổi vị trí Chiến trường (Khóa trong bản Early Access)",
-    "offset": 417334,
+    "offset": 418601,
     "length": 59
   },
   {
     "key": "challenge_useKingsFavor",
     "en": "Use King's Favor (Locked in early access)",
-    "vi": "Sử dụng Ân huệ của Vua (Khóa trong bản Early Access)",
-    "offset": 419458,
+    "vi": "Sử dụng Ân sủng của Đức vua (Chưa mở khóa trong Early Access)",
+    "offset": 420725,
     "length": 42
   },
   {
     "key": "challenge_surrender",
     "en": "Surrender (Locked in early access)",
     "vi": "Đầu hàng (Khóa trong bản Early Access)",
-    "offset": 421172,
+    "offset": 422439,
     "length": 35
   },
   {
     "key": "not_enough_wealth",
     "en": "Not enough Regional Wealth",
     "vi": "Không đủ Tài sản vùng",
-    "offset": 422449,
+    "offset": 423716,
     "length": 27
   },
   {
     "key": "barter_partner",
     "en": "Barter Partner",
     "vi": "Đối tác Trao đổi hàng",
-    "offset": 423439,
+    "offset": 424706,
     "length": 15
   },
   {
     "key": "influence_gained",
     "en": "<img id=\"Influence\"/> Influence gained",
     "vi": "<img id=\"Influence\"/> Uy danh nhận được",
-    "offset": 423976,
-    "length": 39
-  },
-  {
-    "key": "mainui_29696",
-    "en": "<img id=\"Influence\"/> Invloed verhoogd",
-    "vi": "<img id=\"Influence\"/> Uy danh nhận được",
-    "offset": 425116,
+    "offset": 425243,
     "length": 39
   },
   {
     "key": "no_companies_available",
     "en": "No more mercenary companies available this month",
     "vi": "Không còn đội lính đánh thuê nào trong tháng này",
-    "offset": 425263,
+    "offset": 426530,
     "length": 49
   },
   {
     "key": "foreign_market_supply_multiplier_very_high",
     "en": "Global Market Supply: Critically undersupplied. Prices are much higher than usual.",
     "vi": "Cung cầu Toàn cầu: Nguồn cung cực kỳ khan hiếm. Giá đắt hơn rất nhiều so với bình thường.",
-    "offset": 426864,
+    "offset": 428131,
     "length": 83
   },
   {
     "key": "foreign_market_supply_multiplier_high",
     "en": "Global Market Supply: Undersupplied. Prices are higher than usual.",
     "vi": "Cung cầu Toàn cầu: Thiếu hụt nguồn cung. Giá cao hơn mức bình thường.",
-    "offset": 429467,
+    "offset": 430734,
     "length": 67
   },
   {
     "key": "foreign_market_supply_multiplier_normal",
     "en": "Global Market Supply: Average.",
     "vi": "Cung cầu Toàn cầu: Ở mức trung bình.",
-    "offset": 431637,
+    "offset": 432904,
     "length": 31
   },
   {
     "key": "foreign_market_supply_multiplier_low",
     "en": "Global Market Supply: Oversupplied. Prices are lower than usual.",
     "vi": "Cung cầu Toàn cầu: Dư thừa nguồn cung. Giá rẻ hơn bình thường.",
-    "offset": 432691,
+    "offset": 433958,
     "length": 65
   },
   {
     "key": "foreign_market_supply_multiplier_very_low",
     "en": "Global Market Supply: Critically oversupplied. {br}Extremely low prices, <r>no foreign exports!</>",
     "vi": "Cung cầu Toàn cầu: Khủng hoảng thừa mứa.{br}Giá chạm đáy, <r>không thể xuất khẩu ra nước ngoài!</>",
-    "offset": 434890,
+    "offset": 436157,
     "length": 99
   },
   {
     "key": "burgage_plot_level_too_low",
     "en": "Plot level too low",
     "vi": "Cấp độ Nhà dân quá thấp",
-    "offset": 438221,
+    "offset": 439488,
     "length": 19
   },
   {
     "key": "not_enough_villagers_in_region",
     "en": "Not enough non-artisan families",
     "vi": "Không đủ số gia đình làm nghề tự do (phi thủ công)",
-    "offset": 439046,
+    "offset": 440313,
     "length": 32
   },
   {
-    "key": "accepted_goods",
+    "key": "controls_remove_road",
+    "en": "",
+    "vi": "",
+    "offset": 441521,
+    "length": 0
+  },
+  {
+    "key": "no_barter",
     "en": "None",
     "vi": "Không có",
-    "offset": 440340,
+    "offset": 441607,
     "length": 5
   },
   {
     "key": "barter_send",
     "en": "Send",
     "vi": "Gửi đi",
-    "offset": 440540,
+    "offset": 441807,
     "length": 5
   },
   {
     "key": "barter_receive",
     "en": "Receive",
     "vi": "Nhận về",
-    "offset": 440817,
+    "offset": 442084,
     "length": 8
   },
   {
-    "key": "accepted_goods",
+    "key": "establish",
+    "en": "",
+    "vi": "",
+    "offset": 442351,
+    "length": 0
+  },
+  {
+    "key": "construction",
+    "en": "",
+    "vi": "",
+    "offset": 442437,
+    "length": 0
+  },
+  {
+    "key": "crops",
+    "en": "",
+    "vi": "",
+    "offset": 442523,
+    "length": 0
+  },
+  {
+    "key": "food",
+    "en": "",
+    "vi": "",
+    "offset": 442609,
+    "length": 0
+  },
+  {
+    "key": "materials",
+    "en": "",
+    "vi": "",
+    "offset": 442695,
+    "length": 0
+  },
+  {
+    "key": "commodities",
+    "en": "",
+    "vi": "",
+    "offset": 442781,
+    "length": 0
+  },
+  {
+    "key": "military",
+    "en": "",
+    "vi": "",
+    "offset": 442867,
+    "length": 0
+  },
+  {
+    "key": "threshing_priority",
     "en": "Threshing Priority",
     "vi": "Ưu tiên đập lúa",
-    "offset": 441686,
+    "offset": 442953,
     "length": 19
   },
   {
     "key": "threshing_priority_0_descr",
     "en": "Assigned <img id=\"Worker\"/><h>Families</> will prioritize all other tasks over threshing.",
     "vi": "<img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên mọi việc khác trước khi đập lúa.",
-    "offset": 442307,
+    "offset": 443574,
     "length": 90
   },
   {
     "key": "threshing_priority_1_descr",
     "en": "A quarter of assigned <img id=\"Worker\"/><h>Families</> will prioritize threshing over plowing or sowing.",
     "vi": "Một phần tư số <img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
-    "offset": 445541,
+    "offset": 446808,
     "length": 105
   },
   {
     "key": "threshing_priority_2_descr",
     "en": "All assigned <img id=\"Worker\"/><h>Families</> will prioritize threshing over plowing or sowing.",
     "vi": "Toàn bộ <img id=\"Worker\"/> <h>Gia đình</> sẽ ưu tiên đập lúa trước khi cày cấy.",
-    "offset": 449336,
+    "offset": 450603,
     "length": 96
   },
   {
-    "key": "accepted_goods",
+    "key": "total_field_workers",
+    "en": "",
+    "vi": "",
+    "offset": 454070,
+    "length": 0
+  },
+  {
+    "key": "upgrading",
+    "en": "",
+    "vi": "",
+    "offset": 454156,
+    "length": 0
+  },
+  {
+    "key": "retinue_name",
+    "en": "",
+    "vi": "",
+    "offset": 454242,
+    "length": 0
+  },
+  {
+    "key": "need_silver",
+    "en": "",
+    "vi": "",
+    "offset": 454328,
+    "length": 0
+  },
+  {
+    "key": "war_surprise",
+    "en": "",
+    "vi": "",
+    "offset": 454414,
+    "length": 0
+  },
+  {
+    "key": "tithe_paid_goods_given_28",
+    "en": "",
+    "vi": "",
+    "offset": 454500,
+    "length": 0
+  },
+  {
+    "key": "extension_slot",
+    "en": "",
+    "vi": "",
+    "offset": 454586,
+    "length": 0
+  },
+  {
+    "key": "extension_animals",
     "en": "Backyard Animals",
     "vi": "Vật nuôi sân sau",
-    "offset": 453405,
+    "offset": 454672,
     "length": 17
   },
   {
     "key": "waterSource_freezing",
     "en": "Freezing",
     "vi": "Đang đóng băng",
-    "offset": 453962,
+    "offset": 455229,
     "length": 9
   },
   {
     "key": "waterSource_frozen",
     "en": "Frozen",
     "vi": "Đã đóng băng",
-    "offset": 454282,
+    "offset": 455549,
     "length": 7
   },
   {
     "key": "waterSource_melting",
     "en": "Melting",
     "vi": "Đang tan băng",
-    "offset": 454595,
+    "offset": 455862,
     "length": 8
   },
   {
     "key": "spoilage_rate",
     "en": "Spoilage",
     "vi": "Ôi thiu & Hao hụt",
-    "offset": 454947,
-    "length": 8
+    "offset": 456167,
+    "length": 9
   },
   {
-    "key": "mainui_25856",
+    "key": "price_not_available",
     "en": "NA",
     "vi": "K/D",
-    "offset": 455229,
+    "offset": 456496,
     "length": 3
   },
   {
     "key": "production_limit",
     "en": "Production Limit",
     "vi": "Hạn mức sản xuất",
-    "offset": 455520,
+    "offset": 456787,
     "length": 17
+  },
+  {
+    "key": "production_limit_descr",
+    "en": "This building will stop production if the Region’s resource surplus meets or exceeds the Production Limit.",
+    "vi": "Công trình này sẽ tạm ngừng sản xuất nếu lượng tài nguyên tồn kho của Vùng vượt quá giới hạn này.",
+    "offset": 457338,
+    "length": 107
   },
   {
     "key": "consumption_limit",
     "en": "Reserve",
     "vi": "Dự trữ tối thiểu",
-    "offset": 459945,
+    "offset": 461212,
     "length": 8
+  },
+  {
+    "key": "consumption_limit_descr",
+    "en": "This building will stop production if the Region’s surplus of this resource is less than or equal to the Reserve.",
+    "vi": "Công trình này sẽ tạm ngừng sản xuất nếu lượng dư thừa tài nguyên đầu vào của Vùng giảm xuống dưới mức dự trữ này.",
+    "offset": 461504,
+    "length": 114
   },
   {
     "key": "target_stock",
     "en": "Target Stock",
     "vi": "Tồn kho mục tiêu",
-    "offset": 463855,
+    "offset": 465122,
     "length": 13
   },
   {
     "key": "target_stock_descr",
-    "en": "Target Stock Description",
-    "vi": "Mô tả tồn kho mục tiêu",
-    "offset": 464262,
-    "length": 25
+    "en": "Workers attempt to meet and not exceed a goods defined target.{br}{br}If toggled off, the good will not be stored.{br}{br}<i>The Target Stock is not a Reserve, the goods stored here are prioritised for use in construction related tasks.</>",
+    "vi": "Thợ sẽ cố gắng đạt tới và không lưu trữ vượt quá lượng hàng mục tiêu đã định.{br}{br}Nếu tắt mục tiêu, mặt hàng đó sẽ không được lưu kho.{br}{br}<i>Lượng dự trữ mục tiêu không phải là lượng tích trữ cách ly, các mặt hàng tại đây sẽ được ưu tiên xuất dùng cho các công trình đang thi công.</>",
+    "offset": 465529,
+    "length": 240
+  },
+  {
+    "key": "active_recipe",
+    "en": "Active Recipes",
+    "vi": "Công thức đang kích hoạt",
+    "offset": 474239,
+    "length": 15
+  },
+  {
+    "key": "active_recipe_descr",
+    "en": "<h>Artisan</> Families will prioritise one recipe until they can no longer craft it due to missing inputs or respecting the Reserve / Production Limit conditions. They will then move on to the next active recipe. {br}{br}Should a higher-priority recipe become craftable again, they will switch back to it.{br}{br}<i>Check the Advanced Tab to set the Reserve / Production Limit conditions for each recipe.</>",
+    "vi": "Các hộ gia đình <h>Thợ thủ công</> sẽ ưu tiên thực hiện một công thức cho đến khi không thể chế tác thêm do thiếu nguyên liệu đầu vào hoặc chạm mức giới hạn Dự trữ / Sản xuất đã đặt. Sau đó họ sẽ chuyển sang công thức đang kích hoạt tiếp theo. {br}{br}Nếu công thức có độ ưu tiên cao hơn đủ điều kiện chế tác trở lại, họ sẽ tự động quay lại chế tác nó.{br}{br}<i>Xem tab Nâng cao để thiết lập các điều kiện Dự trữ / Giới hạn sản xuất cho từng công thức.</>",
+    "offset": 474690,
+    "length": 408
   },
   {
     "key": "allow_stalls",
     "en": "Allow Market Stall Setup",
     "vi": "Cho phép dựng sạp hàng tại chợ",
-    "offset": 465012,
+    "offset": 489312,
     "length": 25
-  },
-  {
-    "key": "mainui_59648",
-    "en": "Permitir montagem de bancas de mercado",
-    "vi": "Cho phép dựng sạp hàng tại chợ",
-    "offset": 465295,
-    "length": 39
   },
   {
     "key": "allow_stalls_descr",
     "en": "Allow <h>Assigned</> <img id=\"Worker\"/><h>Families</> to set up <img id=\"Stall\"/><h>Market Stalls</> to distribute resources from their <h>Workplace</>.",
     "vi": "Cho phép các <img id=\"Worker\"/> <h>Gia đình</> được <h>Phân công</> mở <img id=\"Stall\"/> <h>Sạp hàng</> để phân phối hàng hóa từ <h>Nơi làm việc</> của họ.",
-    "offset": 466009,
+    "offset": 490309,
     "length": 153
   },
   {
     "key": "requirements",
     "en": "Requirements",
     "vi": "Nhu cầu Nhà ở",
-    "offset": 471451,
+    "offset": 495751,
     "length": 13
   },
   {
     "key": "requirements_descr",
     "en": "<h>Requirements</> are broken down into three categories; <h>Food</>, <h>Commodities</> and <h>Amenities</>.{br}{br}<h>Food</> and <h>Commodities</>, are supplied by the <h>Marketplace</>, while <h>Amenities</> are buildings that provide a service.{br}{br}Fulfilling individual <h>Requirements</> provides <h>Approval</> and fulfilling all <h>Requirements</> allows Upgrading the <h>Burgage Plot</> to the next Level.",
     "vi": "<h>Nhu cầu Nhà ở</> chia làm 3 nhóm: <h>Lương thực</>, <h>Hàng tiêu dùng</> và <h>Tiện ích dân sinh</>.{br}{br}<h>Lương thực</> và <h>Hàng tiêu dùng</> được cung ứng qua <h>Khu chợ</>, trong khi <h>Tiện ích</> là các công trình cung cấp dịch vụ.{br}{br}Đáp ứng từng <h>Nhu cầu</> sẽ tăng <h>Lòng dân</>, và đáp ứng toàn bộ <h>Nhu cầu</> sẽ cho phép nâng cấp <h>Nhà dân</> lên Cấp cao hơn.",
-    "offset": 471789,
+    "offset": 496089,
     "length": 418
   },
   {
     "key": "amenities",
     "en": "Amenities",
     "vi": "Tiện ích dân sinh",
-    "offset": 485496,
+    "offset": 509796,
     "length": 10
   },
   {
     "key": "amenities_descr",
     "en": "<h>Amenities</> are Buildings or Services that your Residents need uninterrupted access to. Residents can access any Building in the <h>Region</> by walking, but it helps to connect Buildings and Burgage Plots to the <h>Road Network</>.",
     "vi": "<h>Tiện ích dân sinh</> là các Công trình hoặc Dịch vụ mà người dân cần được tiếp cận liên tục. Người dân có thể đi bộ đến bất kỳ công trình nào trong <h>Vùng</>, nhưng việc kết nối các Công trình và Nhà dân vào <h>Mạng lưới Đường sá</> sẽ giúp việc đi lại thuận tiện hơn.",
-    "offset": 485873,
+    "offset": 510173,
     "length": 237
   },
   {
     "key": "market_supply",
     "en": "Market Availability",
     "vi": "Hàng sẵn có tại Chợ",
-    "offset": 493700,
+    "offset": 518000,
     "length": 20
   },
   {
     "key": "market_supply_descr",
     "en": "Each <img id=\"worker\"/><h>Family</> assigned to a <img id=\"GenericStorage\"/><h>Storehouse</> or <img id=\"Pantry\"/><h>Granary</> will create one <img id=\"Stall\"/><h>Market Stall</> at an available <h>Marketplace</>, increasing it's <h>Supply Capacity</>. {br}{br}These <img id=\"worker\"/><h>Families</> fill their <img id=\"Stall\"/><h>Market Stalls</> with the goods required by nearby <img id=\"house\"/><h>Burgage Plots</>.",
     "vi": "Mỗi <img id=\"worker\"/> <h>Gia đình</> được phân công vào <img id=\"GenericStorage\"/> <h>Kho vật tư</> hoặc <img id=\"Pantry\"/> <h>Kho lương thực</> sẽ mở một <img id=\"Stall\"/> <h>Sạp hàng</> tại một <h>Khu chợ</> khả dụng, giúp gia tăng <h>Năng lực cung ứng</>.{br}{br}Các <img id=\"worker\"/> <h>Gia đình</> này sẽ chuyển hàng hóa cần thiết ra <img id=\"Stall\"/> <h>Sạp hàng</> để cung cấp cho các <img id=\"house\"/> <h>Nhà dân</> lân cận.",
-    "offset": 494359,
+    "offset": 518659,
     "length": 421
   },
   {
     "key": "armaments",
     "en": "Armaments",
     "vi": "Vũ khí & Giáp",
-    "offset": 509224,
+    "offset": 533524,
     "length": 10
   },
   {
     "key": "armaments_descr",
     "en": "Men across the Settlement are assigned to a <h>Unit</> when forming <h>Militia</>. Depending on the <h>Unit Type</> they are assigned to, they will require different combinations of <h>Military Equipment</> in order to be able to <h>Rally</>. {br}{br}This equipment, or <h>Armaments</>, will then be shown as in demand across each <h>Burgage Plot</> the Men of the <h>Unit</> reside at. While some <h>Armaments</> are necessary to <h>Rally</> the unit, optional <h>Armaments</> such as <h>Helmets</> can be provided to enhance the <h>Units</> capabilities.{br}{br}<h>Armaments</> do not affect <h>Approval</> or prevent a <h>Burgage Plot</> from being able to upgrade.",
     "vi": "Đàn ông trong làng sẽ được biên chế vào một <h>Đơn vị</> khi thành lập <h>Dân quân</>. Tùy theo <h>Loại quân</>, họ sẽ cần các bộ <h>Trang bị Quân sự</> tương ứng mới có thể <h>Xuất quân</>.{br}{br}Các trang bị này, hay <h>Vũ khí & Giáp</>, sẽ hiển thị nhu cầu tại từng <h>Nhà dân</> nơi người lính thuộc <h>Đơn vị</> sinh sống. Trong khi một số <h>Vũ khí</> là bắt buộc để <h>Xuất quân</>, các món <h>Trang bị</> tùy chọn như <h>Mũ sắt</> có thể được cấp phát để nâng cao thực lực cho <h>Đơn vị</>.{br}{br}<h>Vũ khí & Giáp</> không ảnh hưởng đến <h>Lòng dân</> hay cản trở việc nâng cấp <h>Nhà dân</>.",
-    "offset": 509549,
+    "offset": 533849,
     "length": 669
   },
   {
     "key": "mourning_period",
     "en": "Mourning Period",
     "vi": "Thời gian Tang chế",
-    "offset": 532596,
+    "offset": 556896,
     "length": 16
   },
   {
     "key": "mourning_period_descr",
     "en": "A Family member who resided here has died recently. {br}While the Family mourns their loss, they will not accept any new members into their household until the Mourning Period is over.",
     "vi": "Một thành viên trong gia đình vừa mới qua đời.{br}Trong thời gian chịu tang, gia đình sẽ không tiếp nhận thêm thành viên mới nào cho đến khi hết tang chế.",
-    "offset": 533027,
+    "offset": 557327,
     "length": 185
   },
   {
     "key": "mourning_days_left",
     "en": "In mourning.  Days remaining",
     "vi": "Đang chịu tang. Số ngày còn lại",
-    "offset": 538420,
+    "offset": 562720,
     "length": 29
   },
   {
     "key": "residential_requirements_not_met",
     "en": "<img id=\"Requirements\"/> Requirements not met",
     "vi": "<img id=\"Requirements\"/> Chưa đáp ứng đủ nhu cầu",
-    "offset": 539202,
+    "offset": 563502,
     "length": 46
   },
   {
     "key": "dev_branch_missing",
     "en": "Development Branch required",
     "vi": "Yêu cầu Nhánh phát triển",
-    "offset": 540694,
+    "offset": 564994,
     "length": 28
   },
   {
     "key": "trader_available_in",
     "en": "Trader available in",
     "vi": "Thương nhân ghé thăm sau",
-    "offset": 541546,
+    "offset": 565846,
     "length": 20
   },
   {
     "key": "settlement_level_required",
     "en": "Settlement Level required",
     "vi": "Yêu cầu Cấp độ Định cư",
-    "offset": 542318,
+    "offset": 566618,
     "length": 26
   },
   {
     "key": "refuelling",
     "en": "Refuelling",
     "vi": "Tiếp nhiên liệu",
-    "offset": 543116,
+    "offset": 567416,
     "length": 11
   },
   {
     "key": "refuelling_descr",
     "en": "This building requires <img id=\"Fuel\"/><h>Fuel</> to be delivered once per month in order to function. Adding a <h>Fuel Stockpile</> mitigates the need to wait for a delivery when it runs out, increasing efficiency.",
     "vi": "Công trình này cần được cung cấp <img id=\"Fuel\"/> <h>Chất đốt</> mỗi tháng một lần để hoạt động. Thêm một <h>Kho dự trữ chất đốt</> sẽ giúp tránh tình trạng gián đoạn chờ vận chuyển khi hết củi, nâng cao hiệu suất.",
-    "offset": 543755,
+    "offset": 568055,
     "length": 216
   },
   {
     "key": "work_area_size",
     "en": "Work Area Size",
     "vi": "Bán kính phạm vi làm việc",
-    "offset": 551159,
+    "offset": 575459,
     "length": 15
   },
   {
     "key": "road_curvature",
     "en": "Road Curvature",
     "vi": "Độ cong của đường",
-    "offset": 551931,
+    "offset": 576231,
     "length": 15
   },
   {
     "key": "taxation_options_descr",
     "en": "<h>Taxation</> provides unique opportunities to earn <h>Treasury</> and <h>Influence</> from your Residents and Economy. {br}{br}<h>Tax Collection</> occurs at the beginning of the month and can have lasting <r>negative effects</>.{br}{br}<i>Click to learn more about Taxation.</>",
     "vi": "<h>Thuế khóa</> mang lại cơ hội tạo ra <h>Ngân khố</> và <h>Uy danh</> từ người dân và nền kinh tế của bạn.{br}{br}<h>Việc thu thuế</> diễn ra vào đầu mỗi tháng và có thể để lại <r>ảnh hưởng tiêu cực kéo dài</>.{br}{br}<i>Nhấn để tìm hiểu thêm về Thuế khóa.</>",
-    "offset": 552413,
+    "offset": 576713,
     "length": 281
   },
   {
     "key": "granary_supply_capacity",
     "en": "Granary Supply Capacity",
     "vi": "Năng lực cung ứng Kho lương thực",
-    "offset": 562051,
+    "offset": 586351,
     "length": 24
   },
   {
     "key": "storehouse_supply_capacity",
     "en": "Storehouse Supply Capacity",
     "vi": "Năng lực cung ứng Kho vật tư",
-    "offset": 562913,
+    "offset": 587213,
     "length": 27
   },
   {
     "key": "market_supplied",
     "en": "Supplied Burgage Plots",
     "vi": "Số Nhà dân được cung ứng",
-    "offset": 563771,
+    "offset": 588071,
     "length": 23
   },
   {
     "key": "market_stored",
     "en": "Total stored (Stalls and Storage Buildings)",
     "vi": "Tổng tồn kho (Tại sạp và kho bãi)",
-    "offset": 564507,
+    "offset": 588807,
     "length": 44
-  },
-  {
-    "key": "mainui_10496",
-    "en": "Total almacenado (puestos y almacenes)",
-    "vi": "Tổng tồn kho (Tại sạp và kho bãi)",
-    "offset": 564789,
-    "length": 39
   },
   {
     "key": "food_variety",
     "en": "Food Types available",
     "vi": "Số loại thực phẩm sẵn có",
-    "offset": 565898,
+    "offset": 590198,
     "length": 21
   },
   {
     "key": "aleSupply",
     "en": "Entertainment Supply",
     "vi": "Nguồn cung Giải trí (Bia mạch nha)",
-    "offset": 566647,
+    "offset": 590947,
     "length": 21
   },
   {
     "key": "waterSupply",
     "en": "Water Supply",
     "vi": "Nguồn cung cấp nước",
-    "offset": 567274,
+    "offset": 591574,
     "length": 13
   },
   {
     "key": "burgage_plots",
     "en": "Burgage Plots",
     "vi": "Nhà dân",
-    "offset": 567749,
+    "offset": 592049,
     "length": 14
   },
   {
     "key": "burgage_plots_descr",
     "en": "Provides <img id=\"LivingSpace\"/><h>Living Space</> for <img id=\"Worker\"/><h>Families</>.{br}Consumes 1 <img id=\"Fuel\"/><h>Fuel</> per month when occupied.",
     "vi": "Cung cấp <img id=\"LivingSpace\"/> <h>Chỗ ở</> cho các <img id=\"Worker\"/> <h>Gia đình</>.{br}Tiêu thụ 1 <img id=\"Fuel\"/> <h>Chất đốt</> mỗi tháng khi có người ở.",
-    "offset": 568153,
+    "offset": 592453,
     "length": 155
   },
   {
     "key": "overstock_amt",
     "en": "Overstock",
     "vi": "Cung ứng vượt định mức",
-    "offset": 573798,
+    "offset": 598098,
     "length": 10
   },
   {
     "key": "overstock_amt_descr",
     "en": "Workers will deliver extra resources as if they were supplying more <img ID=\"house\"/><h>Burgage Plots</> than currently exist. This may help reduce supply fluctuations caused by lengthy logistics travel times in large towns.",
     "vi": "Nhân công sẽ chuyển thêm hàng hóa vượt quá số lượng <img ID=\"house\"/> <h>Nhà dân</> hiện có. Điều này giúp giảm thiểu biến động thiếu hụt hàng hóa do quãng đường vận chuyển xa trong các thị trấn lớn.",
-    "offset": 574209,
+    "offset": 598509,
     "length": 225
   },
   {
     "key": "castle_current_level",
     "en": "Castle Level",
     "vi": "Cấp độ Lâu đài",
-    "offset": 581967,
+    "offset": 606267,
     "length": 13
   },
   {
     "key": "castle_bailey_area",
     "en": "Bailey Area",
     "vi": "Diện tích Sân trong Lâu đài",
-    "offset": 582404,
+    "offset": 606704,
     "length": 12
   },
   {
     "key": "castle_administration_level",
     "en": "Administration Level",
     "vi": "Cấp độ Hành chính",
-    "offset": 582846,
+    "offset": 607146,
     "length": 21
   },
   {
     "key": "castle_retinue_capacity",
     "en": "Retinue Capacity",
     "vi": "Sức chứa Cận vệ",
-    "offset": 583437,
+    "offset": 607737,
     "length": 17
   },
   {
     "key": "castle_worker_family_space",
     "en": "Family Space",
     "vi": "Chỗ ở Gia đình",
-    "offset": 584031,
+    "offset": 608331,
     "length": 13
   },
   {
     "key": "castle_garrison_space",
     "en": "Garrison Space",
     "vi": "Sức chứa Đồn trú",
-    "offset": 584519,
+    "offset": 608819,
     "length": 15
   },
   {
     "key": "castle_level_small",
     "en": "Modest",
     "vi": "Khiêm tốn",
-    "offset": 585104,
+    "offset": 609404,
     "length": 7
   },
   {
     "key": "castle_level_average",
     "en": "Standard",
     "vi": "Tiêu chuẩn",
-    "offset": 585383,
+    "offset": 609683,
     "length": 9
   },
   {
     "key": "castle_level_large",
     "en": "Large",
     "vi": "Quy mô lớn",
-    "offset": 585691,
+    "offset": 609991,
     "length": 6
   },
   {
     "key": "castle_level_grand",
     "en": "Grand",
     "vi": "Hoành tráng",
-    "offset": 585934,
+    "offset": 610234,
     "length": 6
   },
   {
     "key": "castle_level_epic",
     "en": "Epic",
     "vi": "Đồ sộ",
-    "offset": 586229,
+    "offset": 610529,
     "length": 5
   },
   {
     "key": "castle_add_modules",
     "en": "Add Modules",
     "vi": "Thêm Gian kiến trúc",
-    "offset": 586529,
+    "offset": 610829,
     "length": 12
   },
   {
     "key": "castle_planner_header",
     "en": "Castle Planner",
     "vi": "Quy hoạch Lâu đài",
-    "offset": 587093,
+    "offset": 611393,
     "length": 15
   },
   {
     "key": "gamestate_LostAllRegions",
     "en": "You lost control of all your regions",
     "vi": "Bạn đã mất quyền kiểm soát toàn bộ các vùng đất",
-    "offset": 587607,
+    "offset": 611907,
     "length": 37
   },
   {
     "key": "windmill_efficiency_tooltip_title",
     "en": "Windmill Efficiency",
     "vi": "Hiệu suất Cối xay gió",
-    "offset": 588955,
+    "offset": 613255,
     "length": 20
   },
   {
     "key": "windmill_efficiency_tooltip_desc",
     "en": "The current efficiency of this windmill based on location placement.",
     "vi": "Hiệu suất hiện tại của cối xay gió này dựa trên độ thoáng của vị trí đặt.",
-    "offset": 589703,
+    "offset": 614003,
     "length": 69
   },
   {
     "key": "save_rename_desc",
     "en": "Rename this saved game.",
     "vi": "Đổi tên bản lưu game này.",
-    "offset": 591850,
+    "offset": 616150,
     "length": 24
   },
   {
     "key": "livestock_merchant",
     "en": "Livestock Merchant",
     "vi": "Thương nhân gia súc",
-    "offset": 592775,
+    "offset": 617075,
     "length": 19
   },
   {
     "key": "trade_rule",
     "en": "Trade Rule",
     "vi": "Quy tắc giao thương",
-    "offset": 593298,
+    "offset": 617598,
     "length": 11
   },
   {
     "key": "trade_good_type",
     "en": "Good Type",
     "vi": "Loại hàng hóa",
-    "offset": 593804,
+    "offset": 618104,
     "length": 10
   },
   {
     "key": "trade_current_surplus",
     "en": "Current Surplus",
     "vi": "Thặng dư hiện tại",
-    "offset": 594150,
+    "offset": 618450,
     "length": 16
   },
   {
     "key": "trade_desired_surplus",
     "en": "Desired Surplus",
     "vi": "Thặng dư mong muốn",
-    "offset": 594730,
+    "offset": 619030,
     "length": 16
   },
   {
     "key": "trade_desired_surplus_change_trade_rule",
     "en": "Desired Surplus {br}(Locked: Trade Rule is set to \"No Trade\")",
     "vi": "Thặng dư mong muốn {br}(Khóa: Quy tắc giao thương đang đặt là \"Không giao thương\")",
-    "offset": 595372,
+    "offset": 619672,
     "length": 62
   },
   {
     "key": "trade_desired_surplus_no_traderoute",
     "en": "<h>Major Trades</> require a <img id=\"traderoute\"/><h>Trade Route</> to be established to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
     "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
-    "offset": 598047,
+    "offset": 622347,
     "length": 138
   },
   {
     "key": "trade_requires_established_route",
     "en": "<h>Major Trades</> require a <img id=\"traderoute\"/><h>Trade Route</> to be established to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
     "vi": "<h>Giao dịch lớn</> yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> để cho phép <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
-    "offset": 602932,
+    "offset": 627232,
     "length": 138
   },
   {
     "key": "trade_prices",
     "en": "Prices",
     "vi": "Giá cả",
-    "offset": 607817,
+    "offset": 632117,
     "length": 7
   },
   {
     "key": "trade_route",
     "en": "Trade Connection",
     "vi": "Tuyến kết nối",
-    "offset": 608055,
+    "offset": 632355,
     "length": 17
   },
   {
     "key": "trade_connection_required",
     "en": "Route Required",
     "vi": "Yêu cầu mở Tuyến",
-    "offset": 608622,
+    "offset": 632922,
     "length": 15
   },
   {
     "key": "trade_allow_foreign_trade",
     "en": "Allow Foreign Trade",
     "vi": "Cho phép Giao thương Ngoại bang",
-    "offset": 609082,
+    "offset": 633382,
     "length": 20
   },
   {
     "key": "trade_allow_foreign_trade_descr",
     "en": "Allow <img id=\"Merchant\"/><h>Travelling Merchants</> to trade this resource in exchange for <img id=\"itemID_0\"/><h>Regional Wealth</>. {br}{br}<i>When unchecked, Trade will occur between your occupied Regions provided they have set the appropriate Trade Rule, Desired Surplus and have the required Regional Wealth.</>",
     "vi": "Cho phép <img id=\"Merchant\"/> <h>Thương nhân</> mua bán mặt hàng này để đổi lấy <img id=\"itemID_0\"/> <h>Tài sản vùng</>.{br}{br}<i>Khi bỏ chọn, giao thương sẽ chuyển sang luân chuyển nội bộ giữa các Vùng đất dưới quyền của bạn (miễn là đã cài đặt Quy tắc giao thương và Thặng dư mong muốn tương ứng).</>",
-    "offset": 609900,
+    "offset": 634200,
     "length": 318
   },
   {
-    "key": "accepted_goods",
+    "key": "trade_Category_1",
+    "en": "",
+    "vi": "",
+    "offset": 645490,
+    "length": 0
+  },
+  {
+    "key": "trade_Category_2",
     "en": "Construction",
     "vi": "Vật liệu Xây dựng",
-    "offset": 621276,
+    "offset": 645576,
     "length": 13
   },
   {
-    "key": "mainui_3",
+    "key": "trade_Category_3",
     "en": "Food",
     "vi": "Lương thực",
-    "offset": 621645,
+    "offset": 645945,
     "length": 5
   },
   {
-    "key": "mainui_4",
+    "key": "trade_Category_4",
     "en": "Crafting Materials",
     "vi": "Nguyên liệu Chế tác",
-    "offset": 621875,
+    "offset": 646175,
     "length": 19
   },
   {
-    "key": "mainui_5",
+    "key": "trade_Category_5",
     "en": "Commodities",
     "vi": "Hàng tiêu dùng",
-    "offset": 622454,
+    "offset": 646754,
     "length": 12
   },
   {
-    "key": "accepted_goods",
+    "key": "trade_Category_6",
+    "en": "",
+    "vi": "",
+    "offset": 647182,
+    "length": 0
+  },
+  {
+    "key": "trade_Category_7",
     "en": "Military",
     "vi": "Vũ khí & Giáp",
-    "offset": 622968,
+    "offset": 647268,
     "length": 9
   },
   {
-    "key": "mainui_8",
+    "key": "trade_Category_8",
     "en": "Crops",
     "vi": "Cây trồng nông nghiệp",
-    "offset": 623296,
+    "offset": 647596,
     "length": 6
   },
   {
-    "key": "accepted_goods",
+    "key": "trade_Category_9",
+    "en": "",
+    "vi": "",
+    "offset": 647922,
+    "length": 0
+  },
+  {
+    "key": "trade_Category_11",
     "en": "Fuel",
     "vi": "Chất đốt",
-    "offset": 623708,
+    "offset": 648008,
     "length": 5
   },
   {
     "key": "trade_trader_available_in",
     "en": "Trader available in",
     "vi": "Thương nhân ghé thăm sau",
-    "offset": 624014,
+    "offset": 648314,
     "length": 20
   },
   {
     "key": "trade_goods_minor",
     "en": "Minor Trades",
     "vi": "Giao dịch nhỏ",
-    "offset": 624760,
+    "offset": 649060,
     "length": 13
   },
   {
     "key": "trade_goods_major",
     "en": "Major Trades",
     "vi": "Giao dịch lớn",
-    "offset": 625331,
+    "offset": 649631,
     "length": 13
   },
   {
     "key": "trade_goods_minor_descr",
     "en": "Does not require a <img id=\"traderoute\"/><h>Trade Route</> to be established.",
     "vi": "Không yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</>.",
-    "offset": 625929,
+    "offset": 650229,
     "length": 78
   },
   {
     "key": "trade_goods_major_descr",
     "en": "Requires a <img id=\"traderoute\"/><h>Trade Route</> to be established{br}to enable <img id=\"merchant\"/><h>Foreign Trade</>.",
     "vi": "Yêu cầu phải mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</> {br}để kích hoạt <img id=\"merchant\"/> <h>Giao thương Ngoại bang</>.",
-    "offset": 628171,
+    "offset": 652471,
     "length": 123
   },
   {
     "key": "trade_foreign_market_supply_multiplier_very_high",
     "en": "Global Market Supply: Critically Undersupplied {br}Prices are much higher than usual",
     "vi": "Nguồn cung Toàn cầu: Cực kỳ khan hiếm {br}Giá cao hơn nhiều so với bình thường",
-    "offset": 632389,
+    "offset": 656689,
     "length": 85
   },
   {
     "key": "trade_foreign_market_supply_multiplier_high",
     "en": "Global Market Supply: Undersupplied {br}Prices are higher than usual",
     "vi": "Nguồn cung Toàn cầu: Khan hiếm {br}Giá cao hơn bình thường",
-    "offset": 635030,
+    "offset": 659330,
     "length": 69
   },
   {
     "key": "trade_foreign_market_supply_multiplier_normal",
     "en": "Global Market Supply: Average{br}Standard prices apply",
     "vi": "Nguồn cung Toàn cầu: Trung bình{br}Áp dụng mức giá tiêu chuẩn",
-    "offset": 637256,
+    "offset": 661556,
     "length": 55
   },
   {
     "key": "trade_foreign_market_supply_multiplier_low",
     "en": "Global Market Supply: Oversupplied{br}Prices are lower than usual",
     "vi": "Nguồn cung Toàn cầu: Dư thừa{br}Giá rẻ hơn bình thường",
-    "offset": 639142,
+    "offset": 663442,
     "length": 66
   },
   {
     "key": "trade_foreign_market_supply_multiplier_very_low",
     "en": "Global Market Supply: Critically Oversupplied{br}Extremely low prices, <r>no foreign exports!</>",
     "vi": "Nguồn cung Toàn cầu: Khủng hoảng thừa mứa{br}Giá chạm đáy, <r>không thể xuất khẩu!</>",
-    "offset": 641387,
+    "offset": 665687,
     "length": 97
   },
   {
-    "key": "accepted_goods",
+    "key": "trade_travelling_merchants",
+    "en": "",
+    "vi": "",
+    "offset": 668968,
+    "length": 0
+  },
+  {
+    "key": "trade_travelling_merchants_descr",
+    "en": "",
+    "vi": "",
+    "offset": 669054,
+    "length": 0
+  },
+  {
+    "key": "trade_rule_1",
     "en": "No Trade",
     "vi": "Không giao thương",
-    "offset": 644840,
+    "offset": 669140,
     "length": 9
   },
   {
     "key": "trade_rule_0_descr",
     "en": "Trade Rule: Never trade this Good",
     "vi": "Quy tắc: Không bao giờ mua bán mặt hàng này",
-    "offset": 645209,
+    "offset": 669509,
     "length": 34
   },
   {
-    "key": "mainui_2",
+    "key": "trade_rule_2",
     "en": "Import",
     "vi": "Nhập khẩu",
-    "offset": 646522,
+    "offset": 670822,
     "length": 7
   },
   {
     "key": "trade_rule_1_descr",
     "en": "Trade Rule: Buy until the Desired Surplus is reached",
     "vi": "Quy tắc: Mua vào cho đến khi đạt mức Thặng dư mong muốn",
-    "offset": 646804,
+    "offset": 671104,
     "length": 53
   },
   {
-    "key": "mainui_3",
+    "key": "trade_rule_3",
     "en": "Export",
     "vi": "Xuất khẩu",
-    "offset": 648777,
+    "offset": 673077,
     "length": 7
   },
   {
     "key": "trade_rule_2_descr",
     "en": "Trade Rule: Sell until the Desired Surplus is reached",
     "vi": "Quy tắc: Bán ra cho đến khi chạm mức Thặng dư mong muốn",
-    "offset": 649067,
+    "offset": 673367,
     "length": 54
   },
   {
-    "key": "mainui_4",
+    "key": "trade_rule_4",
     "en": "Full Trade",
     "vi": "Xuất & Nhập toàn diện",
-    "offset": 651054,
+    "offset": 675354,
     "length": 11
   },
   {
     "key": "trade_rule_3_descr",
     "en": "Trade Rule: Trade until Desired Surplus is reached",
     "vi": "Quy tắc: Mua bán linh hoạt để duy trì mức Thặng dư mong muốn",
-    "offset": 651532,
+    "offset": 675832,
     "length": 51
   },
   {
     "key": "trade_import_price_local",
     "en": "Import Price (Regional)",
     "vi": "Giá Nhập khẩu (Nội bộ vùng)",
-    "offset": 653694,
+    "offset": 677994,
     "length": 24
   },
   {
     "key": "trade_export_price_local",
     "en": "Export Price (Regional)",
     "vi": "Giá Xuất khẩu (Nội bộ vùng)",
-    "offset": 654476,
+    "offset": 678776,
     "length": 24
   },
   {
     "key": "trade_full_price_local",
     "en": "Import and Export Price (Regional)",
     "vi": "Giá Xuất & Nhập (Nội bộ vùng)",
-    "offset": 655261,
+    "offset": 679561,
     "length": 35
   },
   {
     "key": "trade_import_price",
     "en": "Import Price",
     "vi": "Giá Nhập khẩu",
-    "offset": 656348,
+    "offset": 680648,
     "length": 13
   },
   {
     "key": "trade_export_price",
     "en": "Export Price",
-    "vi": "Giá Xuất khẩu",
-    "offset": 656800,
+    "vi": "Chịu ảnh hưởng bởi:",
+    "offset": 681100,
     "length": 13
   },
   {
     "key": "trade_full_price",
     "en": "Export Price / Import Price",
     "vi": "Giá Xuất khẩu / Giá Nhập khẩu",
-    "offset": 657255,
+    "offset": 681555,
     "length": 28
   },
   {
-    "key": "mainui_1",
+    "key": "trade_price_warning_1",
     "en": "No Price as Trade Rule is set to \"No Trade\"",
     "vi": "Không có giá do đang đặt \"Không giao thương\"",
-    "offset": 658095,
+    "offset": 682395,
     "length": 44
   },
   {
-    "key": "mainui_2",
+    "key": "trade_price_warning_2",
     "en": "No Price sourced, no other Region is exporting this Good",
     "vi": "Chưa có giá do không có Vùng nào khác đang xuất khẩu hàng này",
-    "offset": 660035,
+    "offset": 684335,
     "length": 57
   },
   {
-    "key": "mainui_3",
+    "key": "trade_price_warning_3",
     "en": "No Price sourced, no other Region is importing this Good",
     "vi": "Chưa có giá do không có Vùng nào khác đang nhập khẩu hàng này",
-    "offset": 661950,
+    "offset": 686250,
     "length": 57
   },
   {
-    "key": "accepted_goods",
+    "key": "trade_price_warning_4",
+    "en": "",
+    "vi": "",
+    "offset": 688166,
+    "length": 0
+  },
+  {
+    "key": "trade_price_not_available",
     "en": "--",
     "vi": "--",
-    "offset": 663952,
+    "offset": 688252,
     "length": 3
   },
   {
     "key": "trade_regional_trade_partner_not_available",
     "en": "No Regional Trade Partner available.",
     "vi": "Không có Đối tác Giao thương Nội bộ khả dụng.",
-    "offset": 664097,
+    "offset": 688397,
     "length": 37
-  },
-  {
-    "key": "mainui_27648",
-    "en": "Brak regionalnego partnera handlowego.",
-    "vi": "Không có Đối tác Giao thương Nội bộ khả dụng.",
-    "offset": 664670,
-    "length": 39
   },
   {
     "key": "transaction_offMap",
     "en": "</><img id=\"Tradepoint\"/> <b>Tradepoint</><h>",
     "vi": "</> <img id=\"Tradepoint\"/> <b>Điểm Giao thương</><h>",
-    "offset": 665454,
+    "offset": 689754,
     "length": 46
   },
   {
     "key": "tradeLog_all",
     "en": "All",
     "vi": "Tất cả",
-    "offset": 666898,
+    "offset": 691198,
     "length": 4
   },
   {
     "key": "tradeLog_balance",
     "en": "Balance",
     "vi": "Cán cân",
-    "offset": 667108,
+    "offset": 691408,
     "length": 8
   },
   {
     "key": "tradeLog_import",
     "en": "Imports",
     "vi": "Nhập khẩu",
-    "offset": 667409,
+    "offset": 691709,
     "length": 8
   },
   {
     "key": "tradeLog_export",
     "en": "Exports",
     "vi": "Xuất khẩu",
-    "offset": 667694,
+    "offset": 691994,
     "length": 8
   },
   {
     "key": "tradeLog_timeRange_previousMonth",
     "en": "Previous Month",
     "vi": "Tháng trước",
-    "offset": 667978,
+    "offset": 692278,
     "length": 15
   },
   {
     "key": "tradeLog_timeRange_previousYear",
     "en": "Previous Year",
     "vi": "Năm trước",
-    "offset": 668458,
+    "offset": 692758,
     "length": 14
   },
   {
-    "key": "mainui_29184",
+    "key": "tradeLog_timeRange_currentMonth",
     "en": "Current Month",
     "vi": "Tháng này",
-    "offset": 668901,
+    "offset": 693201,
     "length": 14
   },
   {
     "key": "tradeLog_timeRange_yearUpToDate",
     "en": "Current Year",
     "vi": "Năm nay",
-    "offset": 669355,
+    "offset": 693655,
     "length": 13
   },
   {
     "key": "tradeLog_timeRange_allTime",
     "en": "All Time",
     "vi": "Toàn thời gian",
-    "offset": 669787,
+    "offset": 694087,
     "length": 9
   },
   {
     "key": "tradeLog_timeRange_last_30_days",
     "en": "Last 30 Days",
     "vi": "30 ngày qua",
-    "offset": 670160,
+    "offset": 694460,
     "length": 13
   },
   {
     "key": "tradeLog_timeRange_past_365_days",
     "en": "Last 365 Days",
     "vi": "365 ngày qua",
-    "offset": 670697,
+    "offset": 694997,
     "length": 14
   },
   {
     "key": "trade_route_establish",
     "en": "Establish a Trade Route",
     "vi": "Mở Tuyến Giao thương",
-    "offset": 671266,
+    "offset": 695566,
     "length": 24
   },
   {
     "key": "trade_route_establish_descr",
     "en": "After paying to establish a <img id=\"traderoute\"/><h>Trade Route</>, a dedicated <img id=\"merchant\"/><h>Travelling Merchant</> will regularly visit your <h>Region</> to <h>Trade</> this specific type of good, increasing the frequency of transactions. {br}{br}<img id=\"warn\"/>With each <img id=\"traderoute\"/><h>Trade Route</> established, the cost of additional routes are increased.{br}{br}<i>Goods considered Major Trades require a Trade Route to be established.</>",
     "vi": "Sau khi chi tiền mở <img id=\"traderoute\"/> <h>Tuyến Giao thương</>, một <img id=\"merchant\"/> <h>Thương nhân</> chuyên trách sẽ thường xuyên ghé thăm <h>Vùng</> của bạn để <h>Giao thương</> riêng mặt hàng này, giúp tăng tần suất giao dịch.{br}{br}<img id=\"warn\"/> Với mỗi <img id=\"traderoute\"/> <h>Tuyến Giao thương</> được mở, chi phí mở các tuyến tiếp theo sẽ gia tăng.{br}{br}<i>Các mặt hàng Giao dịch lớn yêu cầu phải mở Tuyến Giao thương mới có thể mua bán.</>",
-    "offset": 672007,
+    "offset": 696307,
     "length": 467
   },
   {
     "key": "trade_follow_merchant",
     "en": "Follow Merchant",
     "vi": "Theo dõi Thương nhân",
-    "offset": 687774,
+    "offset": 712074,
     "length": 16
   },
   {
     "key": "trade_follow_merchant_not_arrived",
     "en": "Follow Merchant {br}(The Merchant is en route and will be visible soon)",
     "vi": "Theo dõi Thương nhân {br}(Thương nhân đang trên đường đến và sẽ sớm xuất hiện)",
-    "offset": 688298,
+    "offset": 712598,
     "length": 72
   },
   {
     "key": "increased_collapse_chance",
     "en": "Increased Collapse Chance",
     "vi": "Tăng nguy cơ sập mỏ",
-    "offset": 690544,
+    "offset": 714844,
     "length": 26
   },
   {
     "key": "maintenance_modifiers",
     "en": "Durability affected by",
     "vi": "Độ bền bị ảnh hưởng bởi",
-    "offset": 691411,
+    "offset": 715711,
     "length": 23
   },
   {
     "key": "maintenance_upkeep_title",
     "en": "Maintenance",
     "vi": "Bảo trì công trình",
-    "offset": 692185,
+    "offset": 716485,
     "length": 12
+  },
+  {
+    "key": "maintenance_upkeep_descr",
+    "en": "Some workplaces require upkeep resources, such as <img id=\"ItemID_6\"/><h>Tools</>, to function efficiently. These aren’t consumed in crafting but wear down over time, needing regular replacement.{br}{br}Without upkeep, workplaces may suffer failures—ranging from wasted inputs (botches) to total collapse in large structures like <h>Mines</> or <h>Churches</>.{br}{br}The <img id=\"maintenance\"/><h>Maintenance</> slider adjusts how quickly upkeep resources wear out, and also directly affects worker <img id=\"productivity\"/><h>Labor Time</>.",
+    "vi": "Một số nơi làm việc đòi hỏi tài nguyên duy tu, chẳng hạn như <img id=\"ItemID_6\"/> <h>Công cụ</>, để hoạt động hiệu quả. Chúng không bị tiêu hao trong chế tác mà hao mòn dần theo thời gian và cần được thay mới định kỳ.{br}{br}Nếu thiếu bảo trì, nơi làm việc có thể gặp sự cố—từ việc lãng phí nguyên liệu cho đến sập đổ hoàn toàn ở các công trình lớn như <h>Hầm mỏ</> hoặc <h>Nhà thờ</>.{br}{br}Thanh trượt <img id=\"maintenance\"/> <h>Bảo trì</> điều chỉnh tốc độ hao mòn của tài nguyên duy tu, đồng thời ảnh hưởng trực tiếp đến <img id=\"productivity\"/> <h>Thời gian lao động</> của thợ.",
+    "offset": 716850,
+    "length": 542
   },
   {
     "key": "maintenance_status_maintained",
     "en": "Building operating normally",
     "vi": "Công trình hoạt động bình thường",
-    "offset": 713934,
+    "offset": 738234,
     "length": 28
   },
   {
     "key": "maintenance_status_unmaintained",
     "en": "Workplace at risk due to no maintenance",
     "vi": "Nơi làm việc có nguy cơ đình trệ do thiếu bảo trì",
-    "offset": 714846,
+    "offset": 739146,
     "length": 40
   },
   {
     "key": "maintenance_status",
     "en": "Maintenance Status",
     "vi": "Tình trạng Bảo trì",
-    "offset": 716411,
+    "offset": 740711,
     "length": 19
   },
   {
     "key": "maintenance_status_pending",
     "en": "Resources for Maintenance requested",
     "vi": "Đang yêu cầu vật tư bảo trì",
-    "offset": 716964,
+    "offset": 741264,
     "length": 36
   },
   {
     "key": "maintenance_state_maintained",
     "en": "Maintained",
     "vi": "Được bảo trì tốt",
-    "offset": 718069,
+    "offset": 742369,
     "length": 11
   },
   {
     "key": "maintenance_state_needsMaintaining",
     "en": "Needs Maintenance",
     "vi": "Cần bảo trì",
-    "offset": 718558,
+    "offset": 742858,
     "length": 18
   },
   {
     "key": "maintenance_state_pendingMaintenance",
     "en": "Maintenance Pending",
     "vi": "Đang chờ bảo trì",
-    "offset": 719176,
+    "offset": 743476,
     "length": 20
   },
   {
     "key": "maintenance_state_maintenancePaused",
     "en": "Paused",
     "vi": "Tạm dừng",
-    "offset": 719821,
+    "offset": 744121,
     "length": 7
   },
   {
     "key": "maintenance_state_daysRemaining",
     "en": "Durability days left",
     "vi": "Số ngày độ bền còn lại",
-    "offset": 720185,
+    "offset": 744485,
     "length": 21
   },
   {
     "key": "maintenance_state_pendingResources",
     "en": "Pending maintenance resources.",
     "vi": "Đang chờ chuyển vật tư bảo trì.",
-    "offset": 720988,
+    "offset": 745288,
     "length": 31
   },
   {
     "key": "maintenance_sliderLocked",
     "en": "Cannot adjust multiplier while production is paused.",
     "vi": "Không thể điều chỉnh hệ số khi sản xuất đang tạm dừng.",
-    "offset": 721914,
+    "offset": 746214,
     "length": 53
   },
   {
     "key": "maintenance_effects",
     "en": "Maintenance effects",
     "vi": "Tác động của bảo trì",
-    "offset": 723935,
+    "offset": 748235,
     "length": 20
   },
   {
     "key": "maintenance_effect",
     "en": "Active Effect:",
     "vi": "Hiệu ứng kích hoạt:",
-    "offset": 724523,
+    "offset": 748823,
     "length": 15
   },
   {
     "key": "maintenance_effect_none",
     "en": "None",
     "vi": "Không có",
-    "offset": 724971,
+    "offset": 749271,
     "length": 5
   },
   {
     "key": "maintenance_effect_botch",
     "en": "Chance to botch crafting",
     "vi": "Tỷ lệ chế tác hỏng",
-    "offset": 725174,
+    "offset": 749474,
     "length": 25
   },
   {
     "key": "maintenance_effect_botch_descr",
     "en": "30% chance that crafting will consume resources without actually producing anything.",
     "vi": "30% nguy cơ tiêu tốn nguyên liệu nhưng không làm ra được sản phẩm nào.",
-    "offset": 726183,
+    "offset": 750483,
     "length": 85
   },
   {
     "key": "productivity_slot",
     "en": "Productivity",
     "vi": "Năng suất lao động",
-    "offset": 728632,
+    "offset": 752932,
     "length": 13
   },
   {
     "key": "productivity_desc",
     "en": "Productivity affects the speed at which Workers craft items or harvest resources.  It can be affected by Approval, Perks, Policies, Affinities, Maintenance and Expertise.",
     "vi": "Năng suất ảnh hưởng đến tốc độ chế tác và thu hoạch tài nguyên của nhân công. Năng suất chịu tác động bởi Lòng dân, Điểm phát triển, Chính sách, Thế mạnh sinh thái, Bảo trì và Tay nghề.",
-    "offset": 729067,
+    "offset": 753367,
     "length": 171
   },
   {
-    "key": "accepted_goods",
+    "key": "productivity_expertiseval",
+    "en": "",
+    "vi": "",
+    "offset": 759690,
+    "length": 0
+  },
+  {
+    "key": "productivity_bonusval",
+    "en": "",
+    "vi": "",
+    "offset": 759776,
+    "length": 0
+  },
+  {
+    "key": "Maintenance",
     "en": "Maintenance",
     "vi": "Bảo trì",
-    "offset": 735562,
+    "offset": 759862,
     "length": 12
   },
   {
     "key": "Expertise",
     "en": "Expertise",
     "vi": "Tay nghề chuyên môn",
-    "offset": 735927,
+    "offset": 760227,
     "length": 10
   },
   {
     "key": "productivity_verylow",
     "en": "Very Low",
     "vi": "Rất thấp",
-    "offset": 736286,
+    "offset": 760586,
     "length": 9
   },
   {
     "key": "productivity_low",
     "en": "Low",
     "vi": "Thấp",
-    "offset": 736663,
+    "offset": 760963,
     "length": 4
   },
   {
     "key": "productivity_normal",
     "en": "Normal",
     "vi": "Bình thường",
-    "offset": 736893,
+    "offset": 761193,
     "length": 7
   },
   {
     "key": "productivity_high",
     "en": "High",
     "vi": "Cao",
-    "offset": 737151,
+    "offset": 761451,
     "length": 5
   },
   {
     "key": "productivity_veryhigh",
     "en": "Very High",
     "vi": "Rất cao",
-    "offset": 737389,
+    "offset": 761689,
     "length": 10
   },
   {
     "key": "productivity_title",
     "en": "Productivity",
     "vi": "Năng suất",
-    "offset": 737775,
+    "offset": 762075,
     "length": 13
   },
   {
     "key": "productivity_currenteffect",
     "en": "Current Effect: +{effect}% Production Speed",
     "vi": "Hiệu ứng hiện tại: +{effect}% Tốc độ sản xuất",
-    "offset": 738210,
+    "offset": 762510,
     "length": 44
   },
   {
     "key": "surface_deposit",
     "en": "Surface Deposit",
     "vi": "Mỏ lộ thiên",
-    "offset": 739745,
+    "offset": 764045,
     "length": 16
   },
   {
     "key": "underground_deposit",
     "en": "<img id=\"UndergroundDeposit\"/> Endless Underground Reserves",
     "vi": "<img id=\"UndergroundDeposit\"/> Trữ lượng ngầm vô hạn",
-    "offset": 740344,
+    "offset": 764644,
     "length": 60
   },
   {
     "key": "no_rich_deposit_underneath",
     "en": "Requires a <img id=\"RichDeposit\"/> Rich Resource",
     "vi": "Yêu cầu mỏ có <img id=\"RichDeposit\"/> Trữ lượng lớn",
-    "offset": 742364,
+    "offset": 766664,
     "length": 49
   },
   {
     "key": "construction_invalid_region",
     "en": "Cannot build in this Region",
     "vi": "Không thể xây dựng trong Vùng này",
-    "offset": 743922,
+    "offset": 768222,
     "length": 28
   },
   {
     "key": "confirmPerkSelection",
     "en": "Unlock Perk",
     "vi": "Mở khóa Nâng cấp",
-    "offset": 745018,
+    "offset": 769318,
     "length": 12
   },
   {
     "key": "developmentPerkUnlocked",
     "en": "Perk Unlocked",
     "vi": "Đã mở khóa Nâng cấp",
-    "offset": 745593,
+    "offset": 769893,
     "length": 14
   },
   {
     "key": "production_Yield",
     "en": "Yield",
     "vi": "Sản lượng",
-    "offset": 746186,
+    "offset": 770486,
     "length": 6
   },
   {
     "key": "yield_Abysmal",
     "en": "Abysmal",
     "vi": "Cực kỳ kém",
-    "offset": 746516,
+    "offset": 770816,
     "length": 8
   },
   {
     "key": "yield_Poor",
     "en": "Modest",
     "vi": "Kém",
-    "offset": 746832,
+    "offset": 771132,
     "length": 7
   },
   {
     "key": "yield_Terrible",
     "en": "Terrible",
     "vi": "Rất tệ",
-    "offset": 747115,
+    "offset": 771415,
     "length": 9
   },
   {
     "key": "yield_Average",
     "en": "Fair",
     "vi": "Trung bình",
-    "offset": 747459,
+    "offset": 771759,
     "length": 5
   },
   {
     "key": "yield_Good",
     "en": "Good",
     "vi": "Tốt",
-    "offset": 747755,
+    "offset": 772055,
     "length": 5
   },
   {
     "key": "yield_Great",
     "en": "Great",
     "vi": "Rất tốt",
-    "offset": 747974,
+    "offset": 772274,
     "length": 6
   },
   {
     "key": "yield_Excellent",
     "en": "Excellent",
     "vi": "Xuất sắc",
-    "offset": 748277,
+    "offset": 772577,
     "length": 10
   },
   {
     "key": "yield_None",
     "en": "None",
     "vi": "Không có",
-    "offset": 748623,
+    "offset": 772923,
     "length": 5
   },
   {
     "key": "goods_Produced",
     "en": "Produced Goods",
     "vi": "Hàng hóa đã sản xuất",
-    "offset": 748835,
+    "offset": 773135,
     "length": 15
   },
   {
     "key": "no_Goods_Produced",
     "en": "No goods have been produced",
     "vi": "Chưa có hàng hóa nào được sản xuất",
-    "offset": 749306,
+    "offset": 773606,
     "length": 28
   },
   {
     "key": "production_SetTimePeriod",
     "en": "Please select a period",
     "vi": "Vui lòng chọn khoảng thời gian",
-    "offset": 750021,
+    "offset": 774321,
     "length": 23
   },
   {
     "key": "production_30Days",
     "en": "30 Days",
     "vi": "30 ngày",
-    "offset": 750703,
+    "offset": 775003,
     "length": 8
   },
   {
     "key": "production_6Months",
     "en": "6 Months",
     "vi": "6 tháng",
-    "offset": 750997,
+    "offset": 775297,
     "length": 9
   },
   {
     "key": "production_1Year",
     "en": "1 Year",
     "vi": "1 năm",
-    "offset": 751329,
+    "offset": 775629,
     "length": 7
   },
   {
     "key": "production_3Years",
     "en": "3 Years",
     "vi": "3 năm",
-    "offset": 751577,
+    "offset": 775877,
     "length": 8
   },
   {
     "key": "production_AllTime",
     "en": "All Time",
     "vi": "Toàn thời gian",
-    "offset": 751842,
+    "offset": 776142,
     "length": 9
   },
   {
     "key": "you",
     "en": "You",
     "vi": "Bạn",
-    "offset": 752213,
+    "offset": 776513,
     "length": 4
   },
   {
     "key": "AI",
     "en": "AI",
     "vi": "AI",
-    "offset": 752393,
+    "offset": 776693,
     "length": 3
   },
   {
     "key": "deprecatedSaveWarning",
     "en": "This save was created with an older version of Manor Lords and is no longer compatible",
     "vi": "Bản lưu này được tạo từ phiên bản cũ của Manor Lords và không còn tương thích",
-    "offset": 752569,
+    "offset": 776869,
     "length": 87
   },
   {
     "key": "PlotSizeModifier",
     "en": "Average Planting Cost",
     "vi": "Chi phí gieo trồng trung bình",
-    "offset": 755506,
+    "offset": 779806,
     "length": 22
   },
   {
     "key": "tariff_warning",
     "en": "<i>Foreign Import price Tariff: +10 </><img id=\"ItemID_0\"/>.",
-    "vi": "<i>Thuế quan Nhập khẩu Ngoại bang: +10</> <img id=\"ItemID_0\"/> .",
-    "offset": 756306,
+    "vi": "<i>Thuế quan Nhập khẩu Ngoại bang: +10</> <img id=\"ItemID_0\"/>.",
+    "offset": 780606,
     "length": 61
   },
   {
     "key": "no_room_for_extension",
     "en": "Plots without <img id=\"Extension\"/> Extension Space: ",
-    "vi": "Số Nhà dân không có diện tích mở <img id=\"Extension\"/> Tiện ích sân sau: ",
-    "offset": 758389,
+    "vi": "Số Nhà dân không có chỗ <img id=\"Extension\"/> Mở rộng sân sau: ",
+    "offset": 782689,
     "length": 54
   },
   {
     "key": "supplied_from",
     "en": "Supplied from",
     "vi": "Được cung ứng từ",
-    "offset": 760215,
+    "offset": 784515,
     "length": 14
   },
   {
     "key": "missing_variety_any_type",
     "en": "Missing Variety",
     "vi": "Thiếu sự đa dạng mặt hàng",
-    "offset": 760689,
+    "offset": 784989,
     "length": 16
   },
   {
     "key": "supplied_requirement_variety",
     "en": "Satisfied Requirement",
     "vi": "Đã thỏa mãn nhu cầu",
-    "offset": 761263,
+    "offset": 785563,
     "length": 22
   },
   {
     "key": "unlocked_by_settlement_level",
     "en": "Settlement Level required",
     "vi": "Yêu cầu Cấp độ Định cư",
-    "offset": 761840,
+    "offset": 786140,
     "length": 26
   },
   {
     "key": "tracker_category_labor",
     "en": "Labor",
     "vi": "Lao động",
-    "offset": 762604,
+    "offset": 786904,
     "length": 6
   },
   {
     "key": "tracker_category_transportation",
     "en": "Transportation",
     "vi": "Vận chuyển",
-    "offset": 762847,
+    "offset": 787147,
     "length": 15
   },
   {
     "key": "tracker_category_extensions",
     "en": "Extensions",
     "vi": "Tiện ích sân sau",
-    "offset": 763158,
+    "offset": 787458,
     "length": 11
   },
   {
     "key": "tracker_category_waiting",
     "en": "Waiting",
     "vi": "Đang chờ",
-    "offset": 763521,
+    "offset": 787821,
     "length": 8
   },
   {
     "key": "tracker_category_militia",
     "en": "Militia",
     "vi": "Dân quân",
-    "offset": 763812,
+    "offset": 788112,
     "length": 8
   },
   {
     "key": "tracker_active_modifiers",
     "en": "Labor Speed",
     "vi": "Tốc độ lao động",
-    "offset": 764086,
+    "offset": 788386,
     "length": 12
   },
   {
     "key": "tracker_goods_produced",
     "en": "Goods Produced",
     "vi": "Hàng hóa đã làm ra",
-    "offset": 764577,
+    "offset": 788877,
     "length": 15
   },
   {
     "key": "tracker_no_goods_produced",
     "en": "Nothing",
-    "vi": "Không có gì",
-    "offset": 765057,
+    "vi": "Không có",
+    "offset": 789357,
     "length": 8
   },
   {
     "key": "tracker_production_time",
     "en": "Productivity",
     "vi": "Năng suất",
-    "offset": 765282,
+    "offset": 789582,
     "length": 13
   },
   {
     "key": "tracker_extension_production_time",
     "en": "Extension Productivity",
     "vi": "Năng suất Sân sau",
-    "offset": 765717,
+    "offset": 790017,
     "length": 23
   },
   {
     "key": "tracker_yield",
     "en": "Yield",
     "vi": "Sản lượng",
-    "offset": 766533,
+    "offset": 790833,
     "length": 6
   },
   {
     "key": "tracker_yield_average",
     "en": "Yield Average",
     "vi": "Sản lượng trung bình",
-    "offset": 766867,
+    "offset": 791167,
     "length": 14
   },
   {
     "key": "tracker_none",
     "en": "No modifiers",
     "vi": "Không có hệ số biến đổi",
-    "offset": 767404,
+    "offset": 791704,
     "length": 13
   },
   {
     "key": "efficiency_active_modifiers",
     "en": "Efficiency",
     "vi": "Hiệu suất",
-    "offset": 767898,
+    "offset": 792198,
     "length": 11
   },
   {
     "key": "efficiency_noModifiers",
     "en": "No modifiers",
     "vi": "Không có biến đổi",
-    "offset": 768271,
+    "offset": 792571,
     "length": 13
   },
   {
     "key": "marketSupply_generalGoods",
     "en": "General Goods",
     "vi": "Hàng hóa tổng hợp",
-    "offset": 768765,
+    "offset": 793065,
     "length": 14
   },
   {
     "key": "tracker_type_perk",
     "en": "Perk",
     "vi": "Nâng cấp",
-    "offset": 769252,
+    "offset": 793552,
     "length": 5
   },
   {
     "key": "tracker_type_policy",
     "en": "Policy",
     "vi": "Chính sách",
-    "offset": 769526,
+    "offset": 793826,
     "length": 7
   },
   {
     "key": "tracker_type_affinity",
     "en": "Affinity",
     "vi": "Đặc tính sinh thái",
-    "offset": 769834,
+    "offset": 794134,
     "length": 9
   },
   {
-    "key": "trade_export_price",
+    "key": "Affected_By",
     "en": "Affected by:",
     "vi": "Chịu ảnh hưởng bởi:",
-    "offset": 770174,
+    "offset": 794474,
     "length": 13
   },
   {
     "key": "CraftingSpeed",
     "en": "Crafting Speed",
     "vi": "Tốc độ chế tác",
-    "offset": 770661,
+    "offset": 794961,
     "length": 15
   },
   {
     "key": "WalkingSpeed",
     "en": "Walking Speed",
     "vi": "Tốc độ di chuyển",
-    "offset": 771299,
+    "offset": 795599,
     "length": 14
   },
   {
     "key": "MiningPenalty",
     "en": "Mining Penalty",
     "vi": "Phạt tốc độ khai khoáng",
-    "offset": 771851,
+    "offset": 796151,
     "length": 15
   },
   {
     "key": "ImprovedStonemasonsStation",
     "en": "Improved Stonemasons Station",
     "vi": "Xưởng đẽo đá cải tiến",
-    "offset": 772524,
+    "offset": 796824,
     "length": 29
   },
   {
     "key": "HuntingAndFishingProductivityPenalty",
     "en": "Hunting And Fishing Productivity Penalty",
     "vi": "Phạt năng suất Săn bắn & Câu cá",
-    "offset": 773418,
+    "offset": 797718,
     "length": 41
   },
   {
     "key": "MiningSpeedIncrease",
     "en": "Mining Speed Increase",
     "vi": "Tăng tốc độ khai khoáng",
-    "offset": 774791,
+    "offset": 799091,
     "length": 22
   },
   {
     "key": "OxHandlerSpeedBuff",
     "en": "Ox Handler Speed Buff",
     "vi": "Tăng tốc người dắt bò kéo",
-    "offset": 775761,
+    "offset": 800061,
     "length": 22
-  },
-  {
-    "key": "mainui_29440",
-    "en": "Aumento de velocidade de guias de bois",
-    "vi": "Tăng tốc người dắt bò kéo",
-    "offset": 776115,
-    "length": 39
   },
   {
     "key": "Failed",
     "en": "Failed",
     "vi": "Thất bại",
-    "offset": 776753,
+    "offset": 801053,
     "length": 7
   },
   {
     "key": "Half",
     "en": "Half",
     "vi": "Một nửa",
-    "offset": 777032,
+    "offset": 801332,
     "length": 5
   },
   {
     "key": "Double",
     "en": "Double",
     "vi": "Gấp đôi",
-    "offset": 777302,
+    "offset": 801602,
     "length": 7
   },
   {
     "key": "family_consumption",
     "en": "Family Consumption",
     "vi": "Mức tiêu thụ của Gia đình",
-    "offset": 777578,
+    "offset": 801878,
     "length": 19
   },
   {
     "key": "must_be_placed_in_a_non_settled_region",
     "en": "Must be placed in a non-settled Region",
     "vi": "Phải đặt tại một Vùng đất chưa có người định cư",
-    "offset": 778134,
+    "offset": 802434,
     "length": 39
   },
   {
     "key": "workplace_operation_status",
     "en": "Maintenance Status",
     "vi": "Tình trạng Bảo trì",
-    "offset": 779412,
+    "offset": 803712,
     "length": 19
   },
   {
     "key": "tracker_type_maintenance",
     "en": "Maintenence",
     "vi": "Bảo trì",
-    "offset": 779965,
+    "offset": 804265,
     "length": 12
   },
   {
     "key": "protect_resource_area",
     "en": "Protect Resource Area",
     "vi": "Bảo vệ Vùng Tài nguyên",
-    "offset": 780330,
+    "offset": 804630,
     "length": 22
   },
   {
     "key": "protect_resource_area_descr",
     "en": "Stops Families from working areas which are vulnerable to Deforestation.",
     "vi": "Ngăn không cho người dân đốn gỗ tại các khu vực nhạy cảm dễ bị tàn phá rừng.",
-    "offset": 781104,
+    "offset": 805404,
     "length": 73
   },
   {
     "key": "unlock",
     "en": "Unlock",
     "vi": "Mở khóa",
-    "offset": 783335,
+    "offset": 807635,
     "length": 7
   },
   {
     "key": "crop_left_to_harvest",
     "en": "Harvest remaining",
-    "vi": "Lượng lúa còn lại chưa gặt",
-    "offset": 783681,
+    "vi": "Sản lượng còn lại chưa gặt",
+    "offset": 807981,
     "length": 18
   },
   {
     "key": "ConsumptionPeriod_Yearly",
     "en": "Yearly",
     "vi": "Hàng năm",
-    "offset": 784229,
+    "offset": 808529,
     "length": 7
   },
   {
     "key": "ConsumptionPeriod_TwiceAYear",
     "en": "Twice a Year",
     "vi": "Hai lần một năm",
-    "offset": 784515,
+    "offset": 808815,
     "length": 13
   },
   {
     "key": "ConsumptionPeriod_Monthly",
     "en": "Monthly",
     "vi": "Hàng tháng",
-    "offset": 784990,
+    "offset": 809290,
     "length": 8
+  },
+  {
+    "key": "ConsumptionPeriod_Seasonal",
+    "en": "Seasonal",
+    "vi": "Theo mùa",
+    "offset": 809600,
+    "length": 9
   },
   {
     "key": "trees_planted",
     "en": "Saplings Purchased",
     "vi": "Cây non đã mua",
-    "offset": 785300,
+    "offset": 809977,
     "length": 19
   },
   {
     "key": "seeds_planted",
     "en": "Seeds Purchased",
     "vi": "Hạt giống đã mua",
-    "offset": 785869,
+    "offset": 810546,
     "length": 16
   },
   {
     "key": "animal_delivered",
     "en": "Animal Delivered",
     "vi": "Gia súc đã giao tới",
-    "offset": 786380,
+    "offset": 811057,
     "length": 17
   },
   {
     "key": "under_construction_details",
     "en": "(+ Under Construction)",
     "vi": "(+ Đang thi công)",
-    "offset": 786886,
+    "offset": 811563,
     "length": 23
   },
   {
     "key": "fire_started",
     "en": "Fire Started",
     "vi": "Cháy bùng phát",
-    "offset": 787494,
+    "offset": 812171,
     "length": 13
   },
   {
     "key": "fire_propagated",
     "en": "Fire Propagated",
     "vi": "Lửa lan rộng",
-    "offset": 788032,
+    "offset": 812709,
     "length": 16
   },
   {
     "key": "fire_started_descr",
     "en": "A fire has started.",
     "vi": "Một đám cháy đã bùng phát.",
-    "offset": 788599,
+    "offset": 813276,
     "length": 20
   },
   {
     "key": "on_fire",
     "en": "On Fire",
     "vi": "Đang bốc cháy",
-    "offset": 789273,
+    "offset": 813950,
     "length": 8
   }
 ]

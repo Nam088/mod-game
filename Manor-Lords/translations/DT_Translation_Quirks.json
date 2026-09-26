@@ -7,7 +7,7 @@
     "length": 55
   },
   {
-    "key": "smith",
+    "key": "afraid_horses",
     "en": "Afraid of horses",
     "vi": "Sợ ngựa",
     "offset": 1848,
@@ -56,6 +56,13 @@
     "length": 66
   },
   {
+    "key": "in_love",
+    "en": "Secretly in love with his lord’s daughter",
+    "vi": "Thầm thương trộm nhớ con gái của lãnh chúa",
+    "offset": 10486,
+    "length": 42
+  },
+  {
     "key": "clean",
     "en": "Obsessed with cleanliness",
     "vi": "Mắc bệnh sạch sẽ thái quá",
@@ -91,7 +98,7 @@
     "length": 14
   },
   {
-    "key": "quirks_11776",
+    "key": "prankster",
     "en": "Enjoys playing jokes on his fellow warriors",
     "vi": "Thích chơi khăm các chiến hữu",
     "offset": 15898,
@@ -112,13 +119,6 @@
     "length": 29
   },
   {
-    "key": "quirks_25600",
-    "en": "Een liefhebber van raadsels en puzzels",
-    "vi": "Mê mẩn những câu đố mẹo và giải mã",
-    "offset": 19143,
-    "length": 39
-  },
-  {
     "key": "polyglot",
     "en": "Can speak several languages fluently",
     "vi": "Nói trôi chảy nhiều thứ tiếng",
@@ -131,13 +131,6 @@
     "vi": "Hóa cuồng loạn mỗi khi lao vào chiến đấu",
     "offset": 20277,
     "length": 34
-  },
-  {
-    "key": "quirks_29440",
-    "en": "Verliest de controle tijdens gevechten",
-    "vi": "Hóa cuồng loạn mỗi khi lao vào chiến đấu",
-    "offset": 21074,
-    "length": 39
   },
   {
     "key": "twin",
@@ -259,13 +252,6 @@
     "length": 32
   },
   {
-    "key": "quirks_25856",
-    "en": "Beweert voorspellende dromen te hebben",
-    "vi": "Tự nhận mình có những giấc mơ tiên tri báo mộng",
-    "offset": 42881,
-    "length": 39
-  },
-  {
     "key": "artist",
     "en": "Studied various arts",
     "vi": "Từng học qua nhiều bộ môn nghệ thuật",
@@ -292,13 +278,6 @@
     "vi": "Từng phản bội lại Lãnh chúa cũ của mình",
     "offset": 46144,
     "length": 25
-  },
-  {
-    "key": "quirks_29184",
-    "en": "Heeft zijn voormalige heerser verraden",
-    "vi": "Từng phản bội lại Lãnh chúa cũ của mình",
-    "offset": 46897,
-    "length": 39
   },
   {
     "key": "veteran",

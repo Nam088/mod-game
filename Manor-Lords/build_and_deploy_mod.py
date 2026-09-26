@@ -19,7 +19,11 @@ DIST_DIR = os.path.join(CURRENT_DIR, "dist")
 TRANS_DIR = os.path.join(CURRENT_DIR, "translations")
 EXTRACTED_DIR = os.path.join(CURRENT_DIR, "extracted")
 
-GAME_PAKS_DIR = r"C:\Users\nam\Downloads\Compressed\Manor-Lords-AnkerGames_2\Manor Lords\ManorLords\Content\Paks"
+CANDIDATE_GAME_PAKS_DIRS = [
+    r"C:\Users\nam\Downloads\Compressed\Manor-Lords-AnkerGames\Manor Lords\ManorLords\Content\Paks",
+    r"C:\Users\nam\Downloads\Compressed\Manor-Lords-AnkerGames_2\Manor Lords\ManorLords\Content\Paks",
+]
+GAME_PAKS_DIR = next((d for d in CANDIDATE_GAME_PAKS_DIRS if os.path.exists(d)), CANDIDATE_GAME_PAKS_DIRS[0])
 MODS_SUBDIR = os.path.join(GAME_PAKS_DIR, "~mods")
 
 def get_repak_exe():
