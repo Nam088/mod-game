@@ -414,7 +414,7 @@
     "key": "thought.desc.newArrival",
     "category": "04_Mice_Traits_Thoughts",
     "source_en": "This Whisker is new to the colony and has some fresh optimism",
-    "target_vi": "Bé chuột mới chân ướt chân ráo tới thuộc địa, lòng đầy niềm lạc quan phơi phới",
+    "target_vi": "Chú chuột mới chân ướt chân ráo tới thuộc địa, lòng đầy niềm lạc quan phơi phới",
     "context": "thought | Row 1145",
     "offset": 48126,
     "length": 62
@@ -544,7 +544,7 @@
     "key": "thought.desc.grieving",
     "category": "04_Mice_Traits_Thoughts",
     "source_en": "A friend died recently",
-    "target_vi": "Một người bạn vừa mới qua đời",
+    "target_vi": "Một bạn chuột vừa mới qua đời",
     "context": "thought | Row 1158",
     "offset": 49003,
     "length": 23
@@ -1394,7 +1394,7 @@
     "key": "thought.desc.unburiedFriend",
     "category": "04_Mice_Traits_Thoughts",
     "source_en": "The lack of burial is troubling...",
-    "target_vi": "Thi thể người bạn nằm đó chưa được chôn cất thật xót xa...",
+    "target_vi": "Thi thể bạn mình nằm đó chưa được chôn cất thật xót xa...",
     "context": "thought | Row 1765",
     "offset": 73590,
     "length": 35
@@ -1504,7 +1504,7 @@
     "key": "thought.desc.bathedOcean",
     "category": "04_Mice_Traits_Thoughts",
     "source_en": "Smells a bit like seaweed",
-    "target_vi": "Người thoang thoảng mùi rong biển",
+    "target_vi": "Toàn thân thoang thoảng mùi rong biển",
     "context": "thought | Row 1911",
     "offset": 91546,
     "length": 26
@@ -2384,7 +2384,7 @@
     "key": "thought.desc.compassionateGrieving",
     "category": "04_Mice_Traits_Thoughts",
     "source_en": "Deeply saddened by the recent death of a friend",
-    "target_vi": "Đau xót khôn nguôi trước sự ra đi gần đây của người bạn",
+    "target_vi": "Đau xót khôn nguôi trước sự ra đi gần đây của bạn mình",
     "context": "thought | Row 2117",
     "offset": 101566,
     "length": 48

@@ -13,7 +13,7 @@
 *Whiskerwood* tái hiện một thế giới ngụ ngôn vừa đáng yêu vừa châm biếm sâu sắc:
 * **The Crown (Đức Vua Mèo / Hoàng Triều):** Đỉnh cao quyền lực ở mẫu quốc xa xôi.
 * **The Claws (Phe Móng Vuốt / Lũ Mèo):** Giai cấp Mèo quý tộc thực dân thống trị, nắm độc quyền vũ lực và liên tục đòi cống nạp.
-* **The Tail (Trưởng Làng Chuột / Kẻ Nắm Đuôi):** Vai trò của người chơi. Trong mắt Mèo, đây là "Cái Đuôi" bù nhìn bị túm lấy để sai việc; nhưng trong mắt bà con làng chuột, bạn là vị **Trưởng Làng** gánh vác việc dựng nhà, nhóm lò sưởi, mở đường băng chuyền và lo toan miếng ăn cho cả làng.
+* **The Tail (Thủ Lĩnh Thuộc Địa / Kẻ Nắm Đuôi):** Vai trò của người chơi. Trong mắt Mèo, đây là "Cái Đuôi" bù nhìn bị túm lấy để sai việc; nhưng trong mắt cư dân thuộc địa, bạn là vị **Thủ Lĩnh** gánh vác việc dựng nhà, nhóm lò sưởi, mở đường băng chuyền và lo toan miếng ăn cho toàn thể thuộc địa.
 * **Whiskers (Nhà Chuột / Dân Nhà Chuột):** Những chú chuột thợ cần mẫn, chăm chỉ, sống tình nghĩa, lam lũ làm việc trên các hòn đảo.
 
 ### 1.2. Tông giọng & Khẩu khí (Tone of Voice)
@@ -29,9 +29,9 @@
 | Thuật ngữ gốc (EN) | Thuật ngữ Việt hóa Thân thiện | Giải thích & Ngữ cảnh sử dụng |
 | :--- | :--- | :--- |
 | **Whiskers / Whiskerkind** | **Nhà Chuột / Dân Nhà Chuột** | Tên gọi chung cả loài; khi gọi từng cá thể: *Bé chuột / Chú chuột*; thống kê: *Nhân khẩu*. |
-| **Fellow Whiskers** | **Bà con nhà chuột ơi! / Anh em nhà chuột** | Lời kêu gọi thân thiết, đoàn kết giữa các chú chuột. |
+| **Fellow Whiskers** | **Đồng bào chuột ơi! / Anh em nhà chuột** | Lời kêu gọi thân thiết, đoàn kết giữa các chú chuột. |
 | **Dear Productive Whisker** | **Gửi chú chuột chăm chỉ,** | Lời khen có phần trịch thượng từ quan Mèo. |
-| **Tail / Acting Tail** | **Trưởng Làng Chuột / Quyền Trưởng Làng** | Thân quen với game thủ sim làng xã; trong thư Mèo: *Quyền Trưởng Làng Đuôi Chuột*. |
+| **Tail / Acting Tail** | **Thủ Lĩnh Thuộc Địa / Quyền Thủ Lĩnh** | Tước hiệu lãnh đạo thuộc địa loài chuột; trong thư Mèo: *Quyền Thủ Lĩnh Đuôi Chuột*. |
 | **The Claws / Claws** | **Phe Móng Vuốt / Quý Tộc Móng Vuốt** | Giai cấp thống trị; khi chuột nói mỉa mai sau lưng: *Lũ Mèo / Quan Mèo*. |
 | **Duke Micalico** | **Công Tước Micalico** | Vị khâm sai Mèo phụ trách đòi thuế thuộc địa. |
 
@@ -49,27 +49,27 @@
 | Thuật ngữ gốc (EN) | Thuật ngữ Việt hóa Thân thiện | Công năng thực tế trong game |
 | :--- | :--- | :--- |
 | **Whisker Conveyor** | **Băng Chuyền Chở Chuột** | Băng chuyền cơ khí hỗ trợ chuột di chuyển nhanh một chiều. |
-| **Conveyor (Flat)** | **Băng Tải Phẳng** | Chở hàng theo mặt phẳng ngang giữa các xưởng. |
-| **Aim Lift (Up-Lift)** | **Băng Tải Leo Tầng** | Vận chuyển kiện hàng leo lên vách đá/tầng cao. |
+| **Conveyor (Flat)** | **Băng Chuyền Phẳng** | Chở hàng theo mặt phẳng ngang giữa các xưởng. |
+| **Aim Lift (Up-Lift)** | **Băng Chuyền Leo Tầng** | Vận chuyển kiện hàng leo lên vách đá/tầng cao. |
 | **Aim Slide (Down-Drop)**| **Máng Trượt Xuống Tầng** | Cho hàng hóa trượt dốc xuống tầng thấp. |
 | **Whisker Slide** | **Máng Trượt Chuột** | Đường trượt dốc cho chuột trượt xuống cực nhanh. |
 | **Input Hopper (Inbox)** | **Phễu Nạp Hàng** | Điểm tập kết thả hàng để đưa vào băng chuyền. |
-| **Output Storehouse (Outbox)** | **Hộc Đón Hàng Băng Tải** | Hộc chứa đón hàng ra cuối băng chuyền cho thợ bốc. |
+| **Output Storehouse (Outbox)** | **Hộc Đón Hàng Băng Chuyền** | Hộc chứa đón hàng ra cuối băng chuyền cho thợ bốc. |
 | **Jump Pad (Cargo / Mice)** | **Bệ Bắn Hàng / Bệ Phóng Chuột** | Bệ lò xo/hơi nước đẩy kiện hàng hoặc chuột lên cao. |
 | **Sorter** | **Bộ Lọc Hàng** | Phân loại hàng hóa theo bộ lọc chỉ định. |
-| **Splitter** | **Bộ Chia Băng Tải** | Phân nhánh luồng hàng trên băng tải đều đặn. |
+| **Splitter** | **Bộ Chia Băng Chuyền** | Phân nhánh luồng hàng trên băng chuyền đều đặn. |
 | **Extractor** | **Bộ Rút Hàng Kho** | Rút thẳng tài nguyên từ kho liền kề đặt lên băng chuyền. |
 | **Ocean Dump** | **Cửa Xả Hàng Xuống Biển** | Xả bỏ tài nguyên dư thừa trên băng chuyền ra biển. |
 | **Small Buffer / Storage** | **Thùng Chứa Đệm / Hộc Đón Hàng** | Chứa đệm trung chuyển chống tắc nghẽn. |
-| **Logistics Hub** | **Trạm Vận Tải Hàng / TT Hậu Cần**| Trụ sở điều phối phu khuân vác trong làng. |
+| **Logistics Hub** | **Trạm Vận Tải Hàng / TT Hậu Cần**| Trụ sở điều phối phu khuân vác trong thuộc địa. |
 | **Central Warehouse** | **Kho Tổng** | Kho lưu trữ trung tâm quy mô lớn. |
 | **Small / Large / Giant Warehouse**| **Kho Nhỏ / Kho Lớn / Kho Khổng Lồ** | Phân cấp kho bãi theo sức chứa lưu trữ. |
 | **Granary / Small Granary** | **Kho Thóc / Kho Thóc Nhỏ** | Kho chuyên dụng trữ lương thực khô ráo, sạch sẽ. |
 
-### 🏠 2.4. Phân Loại Công Trình Làng Chuột (Buildings & Infrastructure)
+### 🏠 2.4. Phân Loại Công Trình Thuộc Địa (Buildings & Infrastructure)
 | Thuật ngữ gốc (EN) | Thuật ngữ Việt hóa Chuẩn Game | Vai trò & Ý nghĩa trong game |
 | :--- | :--- | :--- |
-| **Town Hall** | **Tòa Thị Chính** | Trung tâm đầu não của thuộc địa làng chuột. |
+| **Town Hall** | **Tòa Thị Chính** | Trung tâm đầu não của thuộc địa. |
 | **Main Dock / Faction Dock** | **Bến Cảng Chính** | Cảng biển giao thương, đón tàu Mèo thu thuế cống nạp. |
 | **Fishing Dock / Naval Fishing**| **Bến Đánh Cá / Bến Đánh Cá Xa Bờ**| Đánh bắt cá ven bờ và viễn dương. |
 | **Raft Dock** | **Bến Bè Mảng** | Bến thuyền thô sơ qua lại giữa các đảo nhỏ. |
@@ -82,7 +82,7 @@
 | **Brickmaker** | **Xưởng Đẽo Đá** | Chế tác đá thô thành khối đá xây dựng kiên cố. |
 | **Ore Smelter** | **Lò Nấu Quặng** | Luyện quặng kim loại có điểm nóng chảy thấp thành thỏi. |
 | **Blast Furnace** | **Lò Cao Luyện Kim** | Luyện quặng kim loại có điểm nóng chảy cao thành thỏi. |
-| **Toolmaker / Blacksmith** | **Xưởng Rèn Đồng / Lò Rèn Sắt Thép**| Rèn công cụ lao động và vũ khí cho làng chuột. |
+| **Toolmaker / Blacksmith** | **Xưởng Rèn Đồng / Lò Rèn Sắt Thép**| Rèn công cụ lao động và vũ khí cho thuộc địa. |
 | **Charcoal Furnace** | **Lò Than Củi** | Đốt gỗ thành than củi sưởi ấm mùa đông (nhiên liệu). |
 | **Sifting Tower (Coal Processor)**| **Tháp Sàng Khoáng Sản** | Sàng lọc than và các loại quặng phi kim. |
 | **Smokery / Fishery** | **Nhà Hun Khói** | Hun khói cá, thịt để bảo quản lâu không thiu. |
@@ -91,7 +91,7 @@
 | **Teahouse / Bathhouse** | **Quán Trà / Nhà Tắm Hơi** | Không gian thư giãn, phục hồi tinh thần sau giờ làm. |
 | **Water Fountain (Piped)** | **Trụ Nước Uống** | Vòi nước uống cho thợ thuyền đỡ khát (phân biệt đài phun cảnh quan). |
 | **Decorative Fountain** | **Đài Phun Nước Trang Trí** | Công trình cảnh quan làm đẹp thuộc địa. |
-| **Signpost** | **Bảng Thông Cáo Làng** | Bảng thông cáo truyền tin và ghi chép việc làng. |
+| **Signpost** | **Bảng Thông Cáo** | Bảng thông cáo truyền tin và ghi chép việc thuộc địa. |
 | **Stone Heater / Radiator** | **Lò Sưởi Đá / Bộ Tản Nhiệt Hơi Nước**| Sưởi ấm than củi và sưởi ấm mạng lưới hơi nước. |
 | **Steam Boiler / Steam Engine** | **Nồi Hơi Nước / Động Cơ Hơi Nước** | Tạo hơi nước áp suất cao và trợ lực công nghiệp. |
 | **Elevator Shaft / Entrance**| **Trục Thang Máy / Cửa Vào Thang Máy**| Đưa chuột di chuyển thẳng đứng giữa các vách núi hiểm trở. |
@@ -128,7 +128,7 @@
 | **Bugtraps** | **Bẫy Sâu Bọ** | Bẫy tiêu diệt sâu hại mùa màng (không nhầm với bẫy chuột). |
 | **Chain Shot** | **Đạn Xích Đôi** | Đạn đại bác nối xích phá buồm tàu đối phương. |
 
-### 📜 2.6. Chính Sách Làng Chuột & Cây Công Nghệ (Policies & Tech Tree)
+### 📜 2.6. Chính Sách Thuộc Địa & Cây Công Nghệ (Policies & Tech Tree)
 | Thuật ngữ gốc (EN) | Thuật ngữ Việt hóa Chuẩn Game | Hiệu ứng & Bản chất cơ chế |
 | :--- | :--- | :--- |
 | **Lift with Your Back** | **Dồn Sức Vác Nặng** | Chuột tăng thêm +2 sức mang vác tài nguyên. |
@@ -143,7 +143,7 @@
 | **Trash Burning** | **Đốt Rác Sưởi Ấm** | Nhiên liệu cháy lâu hơn nhưng gấp đôi lượng ô nhiễm. |
 | **Scurry Step** | **Bước Chân Thoăn Thoắt** | Toàn bộ dân chuột di chuyển nhanh hơn 20%. |
 | **Stump Collection** | **Đào Bới Gốc Cây** | Đào bật gốc cây để nhặt thêm gỗ khúc khi đốn rừng. |
-| **Direct Taxation** | **Thu Thuế Trực Tiếp** | Trưởng làng đi thu thuế từng chuột để bù thuế cống nạp. |
+| **Direct Taxation** | **Thu Thuế Trực Tiếp** | Đi khắp thuộc địa thu thuế từng chú chuột để bù thuế cống nạp. |
 | **Piecework Trinkets** | **Gia Công Đồ Lưu Niệm** | Làm thêm giờ thủ công mỹ nghệ kiếm thêm thu nhập. |
 | **Reckless Navigation** | **Chèo Thuyền Bất Mạng** | Lệnh cho thuyền bè chạy hết tốc lực bất kể rủi ro. |
 
@@ -153,13 +153,13 @@
 | **Paths** | **Đường Đi** | Danh mục đường sá |
 | **Paths & Walking** | **Đường Đi Bộ** | Lối đi riêng cho chuột |
 | **Heat & Utilities** | **Sưởi Ấm & Tiện Ích** | Hệ thống giữ ấm & điện hơi nước |
-| **Housing** | **Nhà Ở** | Khu dân cư làng chuột |
+| **Housing** | **Nhà Ở** | Khu dân cư thuộc địa |
 | **Services** | **Dịch Vụ** | Tiện ích công cộng |
 | **Research** | **Nghiên Cứu** | Cây công nghệ |
 | **Bulldoze** | **Phá Dỡ** | Đồng nhất toàn bộ (Toolbar, Keybind, Popup) |
 | **Mine Tool** | **Khai Mỏ** | Đồng nhất Toolbar & Keybinds |
 | **Masonry** | **Công Trình Đá** | Danh mục xây dựng bằng đá |
-| **Storage & Belts** | **Kho Bãi & Băng Tải** | Logistics vận tải |
+| **Storage & Belts** | **Kho Bãi & Băng Chuyền** | Logistics vận tải |
 | **Extraction & Industry** | **Khai Khoáng & Chế Biến** | Khai thác tài nguyên |
 | **Forage Priority** | **Ưu Tiên Hái Lượm** | Thu lượm quả mọng |
 | **Resume / Pause** | **Tiếp Tục / Tạm Dừng** | Thao tác điều khiển game |
@@ -170,7 +170,7 @@
 | **Send to sea** | **Cho Ra Khơi** | Điều động tàu khởi hành ra biển |
 | **Scuttle Ship** | **Đánh Đắm Tàu** | Phá hủy vĩnh viễn tàu |
 | **Recoup losses and depart** | **Vớt Vát Thiệt Hại & Rời Đi** | Rút lui bảo toàn lực lượng |
-| **View Messages (Event Queue)** | **Xem Bảng Tin Sự Kiện** | Bảng theo dõi biến cố làng chuột |
+| **View Messages (Event Queue)** | **Xem Bảng Tin Sự Kiện** | Bảng theo dõi biến cố thuộc địa |
 | **Assign New Ship** | **Điều Tàu Mới** | Giao nhiệm vụ cho tàu rảnh rỗi |
 | **Dock Cargo / Ship Hold** | **Hàng Tại Bến Cảng / Khoang Hàng Của Tàu** | Chuẩn thuật ngữ hàng hải ngắn gọn |
 

@@ -20,3 +20,6 @@ tools/WhiskerwoodConverter/obj/
 # Python cache
 __pycache__/
 *.pyc
+
+# Font backups
+tools/*_orig.ttf

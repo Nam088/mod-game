@@ -314,7 +314,7 @@
     "key": "building.signpost",
     "category": "02_Buildings_Logistics",
     "source_en": "Signpost",
-    "target_vi": "Bảng Thông Cáo Làng",
+    "target_vi": "Bảng Thông Cáo",
     "context": "building | Row 37",
     "offset": 961,
     "length": 9
@@ -394,7 +394,7 @@
     "key": "aim.flat",
     "category": "02_Buildings_Logistics",
     "source_en": "Flat Belt",
-    "target_vi": "Băng Tải Phẳng",
+    "target_vi": "Băng Chuyền Phẳng",
     "context": "aim | Row 47",
     "offset": 1229,
     "length": 10
@@ -404,7 +404,7 @@
     "key": "aim.lift",
     "category": "02_Buildings_Logistics",
     "source_en": "Up-Lift Stairs",
-    "target_vi": "Băng Tải Leo Tầng",
+    "target_vi": "Băng Chuyền Leo Tầng",
     "context": "aim | Row 48",
     "offset": 1253,
     "length": 15
@@ -434,7 +434,7 @@
     "key": "aim.lift.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Lifts resources on belts to a higher elevation.",
-    "target_vi": "Đưa tài nguyên trên băng tải lên tầng vách đá cao hơn.",
+    "target_vi": "Đưa tài nguyên trên băng chuyền lên tầng vách đá cao hơn.",
     "context": "aim | Row 51",
     "offset": 1407,
     "length": 48
@@ -464,7 +464,7 @@
     "key": "aim.outbox",
     "category": "02_Buildings_Logistics",
     "source_en": "Output Storehouse",
-    "target_vi": "Hộc Đón Hàng Băng Tải",
+    "target_vi": "Hộc Đón Hàng Băng Chuyền",
     "context": "aim | Row 55",
     "offset": 1583,
     "length": 18
@@ -1034,7 +1034,7 @@
     "key": "building.conveyor.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Powered Whisker-Mover that moves Whiskers quickly in one direction.",
-    "target_vi": "Băng chuyền cơ khí đưa bà con chuột di chuyển nhanh chóng về một hướng.",
+    "target_vi": "Băng chuyền cơ khí đưa cư dân chuột di chuyển nhanh chóng về một hướng.",
     "context": "building | Row 428",
     "offset": 12527,
     "length": 68
@@ -1154,7 +1154,7 @@
     "key": "building.stewery.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Prepares soups and stews.",
-    "target_vi": "Nấu súp và các món hầm ấm bụng cho cả làng.",
+    "target_vi": "Nấu súp và các món hầm ấm lòng cho cư dân thuộc địa.",
     "context": "building | Row 440",
     "offset": 13305,
     "length": 26
@@ -1264,7 +1264,7 @@
     "key": "building.park.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Large walkable patch of greenery.",
-    "target_vi": "Khu công viên thảm cỏ xanh mướt cho bà con đi dạo mát.",
+    "target_vi": "Khu công viên thảm cỏ xanh mướt cho cư dân chuột đi dạo mát.",
     "context": "building | Row 451",
     "offset": 13931,
     "length": 34
@@ -1314,7 +1314,7 @@
     "key": "building.signpost.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Billboard to communicate and document.",
-    "target_vi": "Bảng thông cáo để truyền tin và ghi chép việc làng.",
+    "target_vi": "Bảng thông cáo để truyền tin và ghi chép việc thuộc địa.",
     "context": "building | Row 456",
     "offset": 14156,
     "length": 39
@@ -1564,7 +1564,7 @@
     "key": "building.tradedock.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Grants access to the open trade network.",
-    "target_vi": "Mở rộng giao thương với mạng lưới thương thuyền biển khơi.",
+    "target_vi": "Mở rộng giao thương với mạng lưới tàu buôn biển khơi.",
     "context": "building | Row 481",
     "offset": 15561,
     "length": 41
@@ -1574,7 +1574,7 @@
     "key": "building.townhall.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "A modest center of governance. Provides basic policy controls.",
-    "target_vi": "Trung tâm hành chính mộc mạc của làng chuột. Cho phép ban hành các chính sách cơ bản.",
+    "target_vi": "Trung tâm hành chính mộc mạc của thuộc địa. Cho phép ban hành các chính sách cơ bản.",
     "context": "building | Row 482",
     "offset": 15616,
     "length": 63
@@ -1654,7 +1654,7 @@
     "key": "building.triagebeds.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Sick or injured Whiskers will recover here.",
-    "target_vi": "Bà con chuột ốm đau hoặc bị thương sẽ tĩnh dưỡng hồi phục tại đây.",
+    "target_vi": "Những chú chuột ốm đau hoặc bị thương sẽ tĩnh dưỡng hồi phục tại đây.",
     "context": "building | Row 490",
     "offset": 16227,
     "length": 44
@@ -1894,7 +1894,7 @@
     "key": "building.fancyEatery.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "A luxurious dining hall for the most prosperous of Whiskers.",
-    "target_vi": "Phòng ăn sang trọng dành cho những chú chuột giàu có bậc nhất làng.",
+    "target_vi": "Phòng ăn sang trọng dành cho những chú chuột giàu có bậc nhất thuộc địa.",
     "context": "building | Row 563",
     "offset": 20066,
     "length": 61
@@ -2654,7 +2654,7 @@
     "key": "problem.housingShortage.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "There are more Whiskers than there is housing space.\n\nBuild more houses so they have somewhere to sleep!",
-    "target_vi": "Số lượng chuột đông hơn chỗ ngủ hiện có.\n\nHãy dựng thêm nhà cho bà con chuột có chỗ ngả lưng!",
+    "target_vi": "Số lượng chuột đông hơn chỗ ngủ hiện có.\n\nHãy dựng thêm nhà cho cư dân chuột có chỗ ngả lưng!",
     "context": "problem | Row 1472",
     "offset": 60831,
     "length": 105
@@ -2894,7 +2894,7 @@
     "key": "problem.unburiedWhiskers.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "A Whisker requires a proper grave.",
-    "target_vi": "Bà con chuột cần một phần mộ tươm tất để yên nghỉ.",
+    "target_vi": "Mỗi chú chuột qua đời cần một phần mộ tươm tất để yên nghỉ.",
     "context": "problem | Row 1759",
     "offset": 73323,
     "length": 35
@@ -3374,7 +3374,7 @@
     "key": "building.coordinationOffice.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Dedicated staff allows better coordination between workers.\n",
-    "target_vi": "Đội ngũ nhân sự chuyên trách giúp thợ thuyền phối hợp làm việc nhịp nhàng hơn.",
+    "target_vi": "Đội ngũ điều phối chuyên trách giúp thợ thuyền phối hợp làm việc nhịp nhàng hơn.\n",
     "context": "building | Row 2176",
     "offset": 104646,
     "length": 61
@@ -3484,7 +3484,7 @@
     "key": "problem.feezingTriage.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "A Triage is too cold for patients to recover!",
-    "target_vi": "Trạm sơ cứu quá lạnh buốt, bệnh nhân không thể hồi phục!",
+    "target_vi": "Trạm sơ cứu quá lạnh buốt, chuột bệnh không thể hồi phục!",
     "context": "problem | Row 2219",
     "offset": 106838,
     "length": 46
@@ -3494,7 +3494,7 @@
     "key": "aim.splitter",
     "category": "02_Buildings_Logistics",
     "source_en": "Splitter",
-    "target_vi": "Bộ Chia Băng Tải",
+    "target_vi": "Bộ Chia Băng Chuyền",
     "context": "aim | Row 2223",
     "offset": 107032,
     "length": 9
@@ -3524,7 +3524,7 @@
     "key": "aim.sorter.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Drops only the configured item types down. Allows for separation of items out of a mixed item belt.",
-    "target_vi": "Chỉ thả đúng loại hàng được cài đặt xuống dưới. Dùng để tách riêng từng món hàng ra khỏi băng tải chung.",
+    "target_vi": "Lọc và tách riêng từng món hàng ra khỏi băng chuyền chung.",
     "context": "aim | Row 2226",
     "offset": 107117,
     "length": 100
@@ -3754,7 +3754,7 @@
     "key": "logistics.allowOverflow.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "If lower belt backs up, allow filtered items to overflow onto top belt",
-    "target_vi": "Nếu băng tải dưới bị tắc nghẽn, cho phép hàng hóa tràn tiếp sang băng chuyền trên.",
+    "target_vi": "Nếu băng chuyền dưới bị tắc nghẽn, cho phép hàng hóa tràn tiếp sang băng chuyền trên.",
     "context": "logistics | Row 2306",
     "offset": 110864,
     "length": 71
@@ -3794,7 +3794,7 @@
     "key": "building.navaltradedock",
     "category": "02_Buildings_Logistics",
     "source_en": "Trade Ship Dock",
-    "target_vi": "Bến Thương Thuyền Ngầm",
+    "target_vi": "Bến Tàu Buôn",
     "context": "building | Row 2508",
     "offset": 116881,
     "length": 16
@@ -3864,7 +3864,7 @@
     "key": "building.navalguanodock.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Outfit ships to gather valuable guano from distant islands.\nProvides a rich source of fertilizer",
-    "target_vi": "Trang bị cho tàu đến các hải đảo xa xôi thu gom phân chim biển giàu dinh dưỡng làm phân bón.",
+    "target_vi": "Trang bị cho tàu đến các hải đảo xa xôi thu gom phân chim biển giàu dinh dưỡng.\nCung cấp nguồn phân bón dồi dào.",
     "context": "building | Row 2515",
     "offset": 117248,
     "length": 97
@@ -3944,7 +3944,7 @@
     "key": "problem.colonyInCombat",
     "category": "02_Buildings_Logistics",
     "source_en": "Cannons ring out near our colony",
-    "target_vi": "Đại Bác Vang Rền Gần Làng Ta!",
+    "target_vi": "Đại Bác Vang Rền Gần Thuộc Địa!",
     "context": "problem | Row 2598",
     "offset": 121260,
     "length": 33
@@ -3954,7 +3954,7 @@
     "key": "problem.colonyInCombat.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Whiskers assigned to defenses will not rest until combat passes",
-    "target_vi": "Bà con chuột được phân công phòng thủ sẽ túc trực chiến đấu cho đến khi dứt tiếng súng.",
+    "target_vi": "Những chú chuột được phân công phòng thủ sẽ túc trực chiến đấu cho đến khi dứt tiếng súng.",
     "context": "problem | Row 2599",
     "offset": 121307,
     "length": 64
@@ -4014,7 +4014,7 @@
     "key": "building.nauticalRaftDock.desc",
     "category": "02_Buildings_Logistics",
     "source_en": "Assign seaworthy vessels to ferry whiskers quickly between docks",
-    "target_vi": "Chỉ định tàu chở bà con chuột qua lại nhanh chóng giữa các bến cảng trên đảo.",
+    "target_vi": "Chỉ định tàu chở cư dân chuột qua lại nhanh chóng giữa các bến cảng trên đảo.",
     "context": "building | Row 2613",
     "offset": 121829,
     "length": 65

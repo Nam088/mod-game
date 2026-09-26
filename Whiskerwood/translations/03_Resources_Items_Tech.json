@@ -34,7 +34,7 @@
     "key": "policy.desc.increasedCarryCapacity",
     "category": "03_Resources_Items_Tech",
     "source_en": "Whiskers can carry 2 more resources. ",
-    "target_vi": "Bà con chuột có thể mang vác thêm +2 tài nguyên.",
+    "target_vi": "Cư dân chuột có thể mang vác thêm +2 tài nguyên.",
     "context": "policy | Row 81",
     "offset": 2571,
     "length": 38
@@ -114,7 +114,7 @@
     "key": "policy.desc.lushGardens",
     "category": "03_Resources_Items_Tech",
     "source_en": "Gardeners will use twice as much water, making watered gardens twice as effective.",
-    "target_vi": "Người làm vườn dùng lượng nước gấp đôi, giúp vườn tược sau khi tưới đạt hiệu quả gấp đôi.",
+    "target_vi": "Thợ làm vườn dùng lượng nước gấp đôi, giúp các khu vườn sau khi tưới đạt hiệu quả gấp đôi.",
     "context": "policy | Row 90",
     "offset": 3006,
     "length": 83
@@ -154,7 +154,7 @@
     "key": "policy.desc.coldresist",
     "category": "03_Resources_Items_Tech",
     "source_en": "Whiskers ignore penalties from cold.",
-    "target_vi": "Bà con chuột miễn nhiễm với mọi bất lợi do giá rét gây ra.",
+    "target_vi": "Cư dân chuột miễn nhiễm với mọi bất lợi do giá rét gây ra.",
     "context": "policy | Row 94",
     "offset": 3231,
     "length": 37
@@ -214,7 +214,7 @@
     "key": "policy.desc.foodrationing",
     "category": "03_Resources_Items_Tech",
     "source_en": "Whiskers will restrict themselves to one meal a day.\n(Skips lunch break)",
-    "target_vi": "Bà con chuột tự hạn chế chỉ ăn một bữa mỗi ngày.\n(Bỏ bữa trưa).",
+    "target_vi": "Cư dân chuột tự hạn chế chỉ ăn một bữa mỗi ngày.\n(Bỏ bữa trưa).",
     "context": "policy | Row 218",
     "offset": 6851,
     "length": 73
@@ -234,7 +234,7 @@
     "key": "policy.desc.extrarations",
     "category": "03_Resources_Items_Tech",
     "source_en": "Whiskers can eat one additional food per meal.",
-    "target_vi": "Bà con chuột được phép ăn thêm 1 phần ăn mỗi bữa.",
+    "target_vi": "Cư dân chuột được phép ăn thêm 1 phần ăn mỗi bữa.",
     "context": "policy | Row 224",
     "offset": 7076,
     "length": 47
@@ -614,7 +614,7 @@
     "key": "unlock.tea.desc",
     "category": "03_Resources_Items_Tech",
     "source_en": "Enables farmers to grow tea on farmland.\n\nHomegrown tea will facilitate independence, but demands fertilizer to grow properly.",
-    "target_vi": "Cho phép nông dân trồng trà trên đồng ruộng.\n\nNguồn trà tự cung tự cấp giúp làng tự chủ, nhưng đòi hỏi bón phân đầy đủ để phát triển.",
+    "target_vi": "Cho phép nông dân trồng trà trên đồng ruộng.\n\nNguồn trà tự cung tự cấp giúp thuộc địa tự chủ, nhưng đòi hỏi bón phân đầy đủ để phát triển.",
     "context": "unlock | Row 571",
     "offset": 20687,
     "length": 127
@@ -854,7 +854,7 @@
     "key": "policy.desc.directtax",
     "category": "03_Resources_Items_Tech",
     "source_en": "Wander the colony demanding a daily tax from each Whisker to help pay down debts.",
-    "target_vi": "Đi quanh làng đòi thu thuế mỗi ngày từ từng chú chuột để bù vào nợ thuế cống nạp.",
+    "target_vi": "Đi khắp thuộc địa thu thuế mỗi ngày từ từng chú chuột để bù vào nợ thuế cống nạp.",
     "context": "policy | Row 694",
     "offset": 25941,
     "length": 82
@@ -2464,7 +2464,7 @@
     "key": "resource.desc.influence",
     "category": "03_Resources_Items_Tech",
     "source_en": "Approval is earned each night from your Whiskers.\n\nUseful for various social actions and policies.",
-    "target_vi": "Lòng Dân nhận được mỗi đêm từ bà con chuột.\n\nDùng cho các chính sách xã hội và hành động cộng đồng.",
+    "target_vi": "Lòng Dân nhận được mỗi đêm từ cư dân chuột.\n\nDùng cho các chính sách xã hội và hành động cộng đồng.",
     "context": "resource | Row 1089",
     "offset": 45843,
     "length": 99
@@ -2924,7 +2924,7 @@
     "key": "resource.desc.simpleclothes",
     "category": "03_Resources_Items_Tech",
     "source_en": "Stiff and uncomfortable, but offers warmth and a bit of dignity.",
-    "target_vi": "Thô cứng và hơi cộm ráp, nhưng giữ ấm tốt và mang lại chút tươm tất cho người mặc.",
+    "target_vi": "Thô cứng và hơi cộm ráp, nhưng giữ ấm tốt và mang lại chút tươm tất cho ai khoác lên.",
     "context": "resource | Row 1915",
     "offset": 91707,
     "length": 65
@@ -3314,7 +3314,7 @@
     "key": "resource.desc.bathed",
     "category": "03_Resources_Items_Tech",
     "source_en": "Squeaky clean whisker",
-    "target_vi": "Bé chuột sạch sẽ tinh tươm sau khi tắm gội.",
+    "target_vi": "Chú chuột sạch sẽ tinh tươm sau khi tắm gội.",
     "context": "resource | Row 2282",
     "offset": 109766,
     "length": 22

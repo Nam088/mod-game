@@ -204,7 +204,7 @@
     "key": "colonyname.1",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Whiskerville",
-    "target_vi": "Làng Whiskerville",
+    "target_vi": "Trấn Whiskerville",
     "context": "colonyname | Row 290",
     "offset": 8862,
     "length": 13
@@ -284,7 +284,7 @@
     "key": "colonyname.9",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Sniffwick",
-    "target_vi": "Ấp Sniffwick",
+    "target_vi": "Trấn Sniffwick",
     "context": "colonyname | Row 298",
     "offset": 9061,
     "length": 10
@@ -294,7 +294,7 @@
     "key": "colonyname.10",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Earham",
-    "target_vi": "Thôn Earham",
+    "target_vi": "Trấn Earham",
     "context": "colonyname | Row 299",
     "offset": 9085,
     "length": 7
@@ -1704,7 +1704,7 @@
     "key": "worldeffect.desc.pleasantWeather",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Whiskers occasionally gain positive thoughts when in sunlight",
-    "target_vi": "Bà con chuột thỉnh thoảng nảy sinh cảm xúc tích cực khi ở dưới ánh nắng",
+    "target_vi": "Cư dân chuột thỉnh thoảng nảy sinh cảm xúc tích cực khi ở dưới ánh nắng",
     "context": "worldeffect | Row 948",
     "offset": 39202,
     "length": 62
@@ -1774,7 +1774,7 @@
     "key": "worldeffect.desc.weather_lightsnow",
     "category": "05_Nautical_Exploration_World",
     "source_en": "A slight mood dampener",
-    "target_vi": "Khiến tâm trạng bà con hơi chùng xuống một chút",
+    "target_vi": "Khiến tâm trạng bầy chuột hơi chùng xuống một chút",
     "context": "worldeffect | Row 955",
     "offset": 39660,
     "length": 23
@@ -1894,7 +1894,7 @@
     "key": "worldeffect.flavortext.pleasantWeather",
     "category": "05_Nautical_Exploration_World",
     "source_en": "A few days of good weather lifts the spirits",
-    "target_vi": "Vài ngày nắng đẹp giúp tinh thần bà con phấn chấn hẳn lên",
+    "target_vi": "Vài ngày nắng đẹp giúp tinh thần bầy chuột phấn chấn hẳn lên",
     "context": "worldeffect | Row 967",
     "offset": 40564,
     "length": 45
@@ -2024,7 +2024,7 @@
     "key": "worldeffect.flavortext.goodwill",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Whiskers are in good spirits",
-    "target_vi": "Bà con chuột đang trong tâm trạng vô cùng phấn chấn",
+    "target_vi": "Cư dân chuột đang trong tâm trạng vô cùng phấn chấn",
     "context": "worldeffect | Row 981",
     "offset": 41107,
     "length": 29
@@ -2044,7 +2044,7 @@
     "key": "worldeffect.flavortext.lowSpirits",
     "category": "05_Nautical_Exploration_World",
     "source_en": "A sour mood afflicts the population",
-    "target_vi": "Bầu không khí ảm đạm bao trùm toàn thể làng chuột",
+    "target_vi": "Bầu không khí ảm đạm bao trùm toàn thể thuộc địa",
     "context": "worldeffect | Row 983",
     "offset": 41201,
     "length": 36
@@ -2094,7 +2094,7 @@
     "key": "dockedship.whiskers.flavor",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Your Whiskers are eager to set paws on land.",
-    "target_vi": "Bà con nhà chuột đang háo hức muốn đặt chân lên đảo.",
+    "target_vi": "Bầy chuột đang háo hức muốn đặt chân lên đất liền.",
     "context": "dockedship | Row 1325",
     "offset": 55223,
     "length": 45
@@ -2354,7 +2354,7 @@
     "key": "nautical.decision.found.whisker",
     "category": "05_Nautical_Exploration_World",
     "source_en": "We've discovered a new island with Whiskers living here! They'll give us fair prices for our goods.",
-    "target_vi": "Chúng ta đã phát hiện một hòn đảo mới có bà con chuột sinh sống! Họ sẵn sàng mua bán hàng hóa với mức giá rất phải chăng.",
+    "target_vi": "Chúng ta đã phát hiện một hòn đảo mới có đồng loại chuột sinh sống! Họ sẵn sàng mua bán hàng hóa với mức giá rất phải chăng.",
     "context": "nautical | Row 1841",
     "offset": 88099,
     "length": 100
@@ -2984,7 +2984,7 @@
     "key": "nautical.action.rescue",
     "category": "05_Nautical_Exploration_World",
     "source_en": "Rescue Survivors",
-    "target_vi": "Cứu Người Sống Sót",
+    "target_vi": "Cứu Chuột Sống Sót",
     "context": "nautical | Row 2363",
     "offset": 112515,
     "length": 17

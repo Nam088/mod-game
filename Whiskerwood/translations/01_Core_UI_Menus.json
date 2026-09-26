@@ -64,7 +64,7 @@
     "key": "toolbar.aim",
     "category": "01_Core_UI_Menus",
     "source_en": "Belts",
-    "target_vi": "Băng Tải",
+    "target_vi": "Băng Chuyền",
     "context": "toolbar | Row 53",
     "offset": 1536,
     "length": 6
@@ -84,7 +84,7 @@
     "key": "toolbar.logistics",
     "category": "01_Core_UI_Menus",
     "source_en": "Storage & Belts",
-    "target_vi": "Kho Bãi & Băng Tải",
+    "target_vi": "Kho Bãi & Băng Chuyền",
     "context": "toolbar | Row 72",
     "offset": 2306,
     "length": 16
@@ -714,7 +714,7 @@
     "key": "toolbar.whiskerview",
     "category": "01_Core_UI_Menus",
     "source_en": "Colony Office",
-    "target_vi": "Văn Phòng Làng Chuột",
+    "target_vi": "Văn Phòng Thuộc Địa",
     "context": "toolbar | Row 251",
     "offset": 7826,
     "length": 14
@@ -1594,7 +1594,7 @@
     "key": "action.unloadCrew",
     "category": "01_Core_UI_Menus",
     "source_en": "Bring Whiskers ashore",
-    "target_vi": "Đưa Bà Con Chuột Lên Đảo",
+    "target_vi": "Đưa Cư Dân Chuột Lên Đảo",
     "context": "action | Row 920",
     "offset": 37345,
     "length": 22
@@ -1734,7 +1734,7 @@
     "key": "tooltip.totalPopulation",
     "category": "01_Core_UI_Menus",
     "source_en": "Total Whiskers",
-    "target_vi": "Tổng Nhân Khẩu Chuột",
+    "target_vi": "Tổng Cư Dân Chuột",
     "context": "tooltip | Row 1219",
     "offset": 51616,
     "length": 15
@@ -1844,7 +1844,7 @@
     "key": "action.doubletime.desc",
     "category": "01_Core_UI_Menus",
     "source_en": "Boosts workers until tomorrow.\n\nWorkers will keep working through the night.",
-    "target_vi": "Tăng tốc độ thợ làm việc đến sáng mai.\n\nBà con chuột sẽ cày cuốc thâu đêm suốt sáng.",
+    "target_vi": "Tăng tốc độ làm việc đến sáng mai.\n\nChuột thợ sẽ làm việc thâu đêm suốt sáng.",
     "context": "action | Row 1307",
     "offset": 54587,
     "length": 77
@@ -3194,7 +3194,7 @@
     "key": "menu.rebellionsentiment.desc",
     "category": "01_Core_UI_Menus",
     "source_en": "Rebellion Fervor in the colony leads to rumours and murmurs of a future free from the Claws.\n\nUpon hearing such remarks most workers will be inspired and work harder. Monarchists hearing such treason will complain.",
-    "target_vi": "Khí thế khởi nghĩa trong làng dấy lên những lời bàn tán về tương lai thoát khỏi ách Móng Vuốt.\n\nNghe điều này, đa số thợ thuyền sẽ hăng hái làm việc hơn. Những kẻ trung thành với Hoàng gia sẽ phàn nàn về sự phản nghịch.",
+    "target_vi": "Khí thế khởi nghĩa trong thuộc địa dấy lên những lời bàn tán về tương lai thoát khỏi ách Móng Vuốt.\n\nNghe điều này, đa số thợ thuyền sẽ hăng hái làm việc hơn. Những kẻ trung thành với Hoàng gia sẽ phàn nàn về sự phản nghịch.",
     "context": "menu | Row 2122",
     "offset": 101765,
     "length": 215
@@ -3524,7 +3524,7 @@
     "key": "tooltip.pollution.desc",
     "category": "01_Core_UI_Menus",
     "source_en": "Toggles pollution checker. Above 10% Whiskers will start complaining. Higher values will cause debuffs.",
-    "target_vi": "Bật/tắt xem mức ô nhiễm. Trên 10% bà con chuột sẽ bắt đầu phàn nàn. Ô nhiễm cao hơn sẽ làm giảm hiệu suất làm việc.",
+    "target_vi": "Bật/tắt xem mức ô nhiễm. Ô nhiễm trên 10% khiến cư dân chuột bắt đầu phàn nàn. Mức ô nhiễm cao hơn sẽ gây bất lợi cho thuộc địa.",
     "context": "tooltip | Row 2211",
     "offset": 106254,
     "length": 104
@@ -3634,7 +3634,7 @@
     "key": "action.forbidWarehouseDining.desc",
     "category": "01_Core_UI_Menus",
     "source_en": "If enabled, Whiskers will never attempt to eat directly from warehouses.  Make sure there are sufficient places to eat and drink!",
-    "target_vi": "Nếu bật, bà con chuột sẽ không bao giờ ăn vụng trực tiếp trong kho. Hãy đảm bảo xây đủ nơi ăn uống cho cả làng!",
+    "target_vi": "Nếu bật, cư dân chuột sẽ không bao giờ ăn vụng trực tiếp trong kho. Hãy đảm bảo xây đủ nơi ăn uống cho thuộc địa!",
     "context": "action | Row 2273",
     "offset": 109339,
     "length": 130
@@ -3894,7 +3894,7 @@
     "key": "notif.newResearchUnlocked.desc",
     "category": "01_Core_UI_Menus",
     "source_en": "With the Pirate's schematics in hand, your Whiskers feel a spark of inspiration",
-    "target_vi": "Với bản thiết kế của hải tặc trong tay, bà con nhà chuột tràn đầy cảm hứng sáng tạo",
+    "target_vi": "Với bản thiết kế của hải tặc trong tay, bầy chuột tràn đầy cảm hứng sáng tạo",
     "context": "notif | Row 2747",
     "offset": 137140,
     "length": 80
@@ -3904,7 +3904,7 @@
     "key": "notif.newResearchUnlocked.descGeneric",
     "category": "01_Core_UI_Menus",
     "source_en": "Your Whiskers are filled with new inspiration",
-    "target_vi": "Bà con nhà chuột tràn ngập cảm hứng sáng chế mới",
+    "target_vi": "Bầy chuột tràn ngập cảm hứng sáng chế mới",
     "context": "notif | Row 2749",
     "offset": 137295,
     "length": 46

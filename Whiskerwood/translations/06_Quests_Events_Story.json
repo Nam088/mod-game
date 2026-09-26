@@ -84,7 +84,7 @@
     "key": "techCategory.Logistics",
     "category": "06_Quests_Events_Story",
     "source_en": "Logistics",
-    "target_vi": "Hậu Cần & Băng Tải",
+    "target_vi": "Hậu Cần & Băng Chuyền",
     "context": "techCategory | Row 68",
     "offset": 2197,
     "length": 10
@@ -414,7 +414,7 @@
     "key": "tutorialStep.acceptArrivals",
     "category": "06_Quests_Events_Story",
     "source_en": "Receive your Whiskers at the dock once their ship arrives.",
-    "target_vi": "Đón bà con chuột tại bến cảng ngay khi tàu cập bến.",
+    "target_vi": "Đón cư dân chuột tại bến cảng ngay khi tàu cập bến.",
     "context": "tutorialStep | Row 201",
     "offset": 6110,
     "length": 59
@@ -1134,7 +1134,7 @@
     "key": "vehicle.coastingWagon",
     "category": "06_Quests_Events_Story",
     "source_en": "Coasting Cart",
-    "target_vi": "Xe Đẩy Trượt Băng Tải",
+    "target_vi": "Xe Đẩy Trượt Băng Chuyền",
     "context": "vehicle | Row 624",
     "offset": 22919,
     "length": 14
@@ -1284,7 +1284,7 @@
     "key": "story.common.intro1",
     "category": "06_Quests_Events_Story",
     "source_en": "Dear Acting Tail,",
-    "target_vi": "Gửi Quyền Trưởng Làng,",
+    "target_vi": "Gửi Quyền Thủ Lĩnh,",
     "context": "story | Row 737",
     "offset": 27441,
     "length": 18
@@ -1294,7 +1294,7 @@
     "key": "story.common.intro2",
     "category": "06_Quests_Events_Story",
     "source_en": "Dear Tail,",
-    "target_vi": "Gửi Trưởng Làng,",
+    "target_vi": "Gửi Thủ Lĩnh,",
     "context": "story | Row 738",
     "offset": 27473,
     "length": 11
@@ -1314,7 +1314,7 @@
     "key": "story.common.outro2",
     "category": "06_Quests_Events_Story",
     "source_en": "Fellow Colonist",
-    "target_vi": "Bà con đồng bào thuộc địa",
+    "target_vi": "Đồng bào thuộc địa",
     "context": "story | Row 740",
     "offset": 27642,
     "length": 16
@@ -1364,7 +1364,7 @@
     "key": "story.quest.housing",
     "category": "06_Quests_Events_Story",
     "source_en": "Other matters demand your attention. Housing is not a luxury. Some Whiskers have already resorted to makeshift camps. I implore you to provide us shelter. We cannot survive as a colony living out in the elements.\n\nWinter’s arrival will see temperatures plunge, and you cannot fight the cold with fires alone. Homes are our only defense.",
-    "target_vi": "Còn nhiều chuyện cấp bách đang chờ Trưởng Làng định đoạt. Nhà ở không phải thứ xa xỉ. Vài chú chuột đã phải dựng lều tạm bợ ngoài trời. Chúng tôi khẩn thiết xin Trưởng Làng hãy lo cho bà con một mái nhà che nắng che mưa. Thuộc địa không thể nào tồn tại nếu phải sống phơi mình trước sương gió bão bùng.\n\nMùa đông ập đến nhiệt độ sẽ giảm xuống thảm hại, và chúng ta không thể chống chọi với giá rét chỉ bằng vài ngọn lửa hồng đâu. Mái nhà ấm cúng là tuyến phòng thủ duy nhất của chúng ta.",
+    "target_vi": "Còn nhiều chuyện cấp bách đang chờ Thủ Lĩnh định đoạt. Nhà ở không phải thứ xa xỉ. Vài chú chuột đã phải dựng lều tạm bợ ngoài trời. Chúng tôi khẩn thiết xin Thủ Lĩnh hãy lo cho bầy chuột một mái nhà che nắng che mưa. Thuộc địa không thể nào tồn tại nếu phải sống phơi mình trước sương gió bão bùng.\n\nMùa đông ập đến nhiệt độ sẽ giảm xuống thảm hại, và chúng ta không thể chống chọi với giá rét chỉ bằng vài ngọn lửa hồng đâu. Mái nhà ấm cúng là tuyến phòng thủ duy nhất của chúng ta.",
     "context": "story | Row 745",
     "offset": 30611,
     "length": 337
@@ -1774,7 +1774,7 @@
     "key": "story.quest.mousetraps.success",
     "category": "06_Quests_Events_Story",
     "source_en": "With the supplied traps we were able to get a hold on the pest population! Thank you for your timely assistance.",
-    "target_vi": "Nhờ số bẫy được cung ứng kịp thời, chúng ta đã kiểm soát được bầy sâu bọ! Cảm ơn Trưởng Làng đã tương trợ kịp thời!",
+    "target_vi": "Nhờ số bẫy được cung ứng kịp thời, chúng ta đã kiểm soát được bầy sâu bọ! Cảm ơn Thủ Lĩnh đã tương trợ kịp thời!",
     "context": "story | Row 941",
     "offset": 38892,
     "length": 113
@@ -2024,7 +2024,7 @@
     "key": "reward.whisker",
     "category": "06_Quests_Events_Story",
     "source_en": "Discovered Stowaways",
-    "target_vi": "Người Đi Lậu Vé Phát Hiện Được",
+    "target_vi": "Chuột Trốn Theo Tàu Phát Hiện Được",
     "context": "reward | Row 1007",
     "offset": 41931,
     "length": 21
@@ -2484,7 +2484,7 @@
     "key": "mod.desc.Freezing",
     "category": "06_Quests_Events_Story",
     "source_en": "Deathly cold. Find heat immediately!",
-    "target_vi": "Lạnh thấu xương chết người. Hãy tìm nơi sưởi ấm ngay lập tức!",
+    "target_vi": "Lạnh thấu xương, nguy hại tính mạng. Hãy tìm nơi sưởi ấm ngay lập tức!",
     "context": "mod | Row 1202",
     "offset": 50616,
     "length": 37
@@ -2504,7 +2504,7 @@
     "key": "mod.desc.matchingGuildEmployer",
     "category": "06_Quests_Events_Story",
     "source_en": "Whisker is working a job that matches their guild specialty",
-    "target_vi": "Bé chuột đang làm công việc đúng với chuyên môn của bang hội",
+    "target_vi": "Chú chuột đang làm công việc đúng với chuyên môn của bang hội",
     "context": "mod | Row 1204",
     "offset": 50709,
     "length": 60
@@ -2524,7 +2524,7 @@
     "key": "mod.desc.newarrival",
     "category": "06_Quests_Events_Story",
     "source_en": "This Whisker is new to the colony and has some fresh optimism",
-    "target_vi": "Bé chuột mới chân ướt chân ráo tới thuộc địa và tràn ngập niềm lạc quan",
+    "target_vi": "Chú chuột mới chân ướt chân ráo tới thuộc địa và tràn ngập niềm lạc quan",
     "context": "mod | Row 1206",
     "offset": 50867,
     "length": 62
@@ -2554,7 +2554,7 @@
     "key": "mod.desc.engineerPassive",
     "category": "06_Quests_Events_Story",
     "source_en": "Engineers guild Whiskers are efficient workers",
-    "target_vi": "Bà con chuột Hội Thợ Máy là những thợ thuyền làm việc vô cùng năng suất",
+    "target_vi": "Chuột thợ thuộc Hội Thợ Máy làm việc vô cùng năng suất",
     "context": "mod | Row 1209",
     "offset": 51053,
     "length": 47
@@ -2564,7 +2564,7 @@
     "key": "mod.desc.explorersPassive",
     "category": "06_Quests_Events_Story",
     "source_en": "Explorers guild Whiskers move quickly on path and terrain alike",
-    "target_vi": "Bà con chuột Hội Thám Hiểm di chuyển nhanh nhẹn trên cả đường sá lẫn địa hình hoang dã",
+    "target_vi": "Chuột thám hiểm thuộc Hội Thám Hiểm di chuyển nhanh nhẹn trên cả đường sá lẫn địa hình hoang dã",
     "context": "mod | Row 1210",
     "offset": 51114,
     "length": 64
@@ -2574,7 +2574,7 @@
     "key": "mod.desc.minersPassive",
     "category": "06_Quests_Events_Story",
     "source_en": "Miners guild Whiskers are strong and can carry additional resources",
-    "target_vi": "Bà con chuột Hội Thợ Mỏ vạm vỡ khỏe mạnh và có thể khuân vác thêm tài nguyên",
+    "target_vi": "Chuột thợ mỏ thuộc Hội Thợ Mỏ vạm vỡ khỏe mạnh và có thể khuân vác thêm tài nguyên",
     "context": "mod | Row 1211",
     "offset": 51192,
     "length": 68
@@ -2984,7 +2984,7 @@
     "key": "questgoal.workers",
     "category": "06_Quests_Events_Story",
     "source_en": "<0> workers",
-    "target_vi": "<0> công nhân",
+    "target_vi": "<0> chuột thợ",
     "context": "questgoal | Row 1262",
     "offset": 53046,
     "length": 12
@@ -3034,7 +3034,7 @@
     "key": "approval.low",
     "category": "06_Quests_Events_Story",
     "source_en": "Your Whiskers begin to doubt you...",
-    "target_vi": "Bà con chuột bắt đầu hoài nghi tài lãnh đạo của bạn...",
+    "target_vi": "Cư dân chuột bắt đầu hoài nghi tài lãnh đạo của bạn...",
     "context": "approval | Row 1267",
     "offset": 53192,
     "length": 36
@@ -3344,7 +3344,7 @@
     "key": "structuretemperature.freezing.desc",
     "category": "06_Quests_Events_Story",
     "source_en": "Dangerously cold for workers and harsh on industrial machinery.",
-    "target_vi": "Giá rét nguy hiểm cho công nhân và gây hao tổn nặng nề cho máy móc công nghiệp.",
+    "target_vi": "Giá rét nguy hiểm cho thợ thuyền và gây hao tổn nặng nề cho máy móc công nghiệp.",
     "context": "structuretemperature | Row 1338",
     "offset": 55790,
     "length": 64
@@ -4704,7 +4704,7 @@
     "key": "event.tutorialHint.firstInjury.msg",
     "category": "06_Quests_Events_Story",
     "source_en": "A Whisker is dealing with a severe injury or illness!\n\nInjured Whiskers cannot work and must be treated at a Triage Building.\n\nTreatment is slow, but they may expire if not treated!",
-    "target_vi": "Một chú chuột đang bị chấn thương nặng hoặc nhiễm bạo bệnh!\n\nChuột bị thương không thể làm việc và phải được điều trị tại Trạm Y Tế.\n\nQuá trình chữa trị khá chậm chạp, nhưng nếu bỏ mặc không điều trị, chú chuột có thể sẽ bỏ mạng!",
+    "target_vi": "Một chú chuột đang bị chấn thương nặng hoặc nhiễm bạo bệnh!\n\nChuột bị thương không thể làm việc và phải được điều trị tại Trạm Sơ Cứu.",
     "context": "event | Row 1627",
     "offset": 66557,
     "length": 182
@@ -5194,7 +5194,7 @@
     "key": "welcome.demowarning",
     "category": "06_Quests_Events_Story",
     "source_en": "Thank you for playing our preview of Whiskerwood. This is our dream project, and we intend to continue working on it until it is fully complete.\n\nIn this demo, you can unlock a selection of the early game schematics, including Railroads and Conveyor Belts. More schematics will be available in the full version of Whiskerwood.\n\nSome gameplay mechanics are a work in progress, and you may experience bugs or spots where we made mistakes. We would like to know if you hit a bug or think of any suggestions. You can either email me at devdaniel@minakatadynamics.co.jp, or you can chat with me and the entire team on Discord.\n\nThank you for playing our game :)",
-    "target_vi": "Cảm ơn bạn đã trải nghiệm bản chơi thử Whiskerwood. Đây là dự án ấp ủ của chúng tôi, và chúng tôi quyết tâm tiếp tục phát triển cho đến khi trò chơi hoàn thiện trọn vẹn.\n\nTrong bản demo này, bạn có thể mở khóa một số bản vẽ thiết kế đầu game, bao gồm Đường Ray và Băng Tải. Nhiều bản vẽ công trình hơn sẽ cập bến trong phiên bản chính thức của Whiskerwood.\n\nMột số cơ chế chơi vẫn đang trong quá trình hoàn thiện, nên bạn có thể sẽ gặp lỗi hoặc những chỗ chưa tối ưu. Chúng tôi rất mong nhận được phản hồi nếu bạn gặp lỗi hay có bất kỳ đề xuất nào. Bạn có thể gửi email cho tôi tại devdaniel@minakatadynamics.co.jp, hoặc trò chuyện trực tiếp cùng tôi và cả đội ngũ phát triển trên Discord.\n\nCảm ơn bạn đã trải nghiệm trò chơi :)",
+    "target_vi": "Cảm ơn bạn đã trải nghiệm bản chơi thử Whiskerwood. Đây là dự án ấp ủ của chúng tôi, và chúng tôi quyết tâm tiếp tục phát triển cho đến khi trò chơi hoàn thiện trọn vẹn.\n\nTrong bản demo này, bạn có thể mở khóa một số bản vẽ thiết kế đầu game, bao gồm Đường Ray và Băng Chuyền. Nhiều bản vẽ công trình hơn sẽ cập bến trong phiên bản chính thức của Whiskerwood.\n\nMột số cơ chế chơi vẫn đang trong quá trình hoàn thiện, nên bạn có thể sẽ gặp lỗi hoặc những chỗ chưa tối ưu. Chúng tôi rất mong nhận được phản hồi nếu bạn gặp lỗi hay có bất kỳ đề xuất nào. Bạn có thể gửi email cho tôi tại devdaniel@minakatadynamics.co.jp, hoặc trò chuyện trực tiếp cùng tôi và cả đội ngũ phát triển trên Discord.\n\nCảm ơn bạn đã trải nghiệm trò chơi :)",
     "context": "welcome | Row 1751",
     "offset": 72425,
     "length": 657
@@ -5444,7 +5444,7 @@
     "key": "story.quest.nicehouses.body",
     "category": "06_Quests_Events_Story",
     "source_en": "Please, may we have better housing? This new island was exciting for a bit, but that excitement has worn off. I wake up each day to the smell of damp.\n\nIf our lodgings don’t improve, this island is never going to be a home.\n",
-    "target_vi": "Xin Trưởng Làng, liệu chúng tôi có thể có chỗ ở tươm tất hơn không? Hòn đảo mới này ban đầu thật hào hứng, nhưng niềm vui ấy đã tan biến rồi. Mỗi sớm mai thức giấc, mùi ẩm mốc lại xộc thẳng vào mũi.\n\nNếu nơi ăn chốn ở không được cải thiện, hòn đảo này sẽ chẳng bao giờ trở thành một mái ấm thực sự.\n",
+    "target_vi": "Xin Thủ Lĩnh, liệu chúng tôi có thể có chỗ ở tươm tất hơn không? Hòn đảo mới này ban đầu thật hào hứng, nhưng niềm vui ấy đã tan biến rồi. Mỗi sớm mai thức giấc, mùi ẩm mốc lại xộc thẳng vào mũi.\n\nNếu nơi ăn chốn ở không được cải thiện, hòn đảo này sẽ chẳng bao giờ trở thành một mái ấm thực sự.\n",
     "context": "story | Row 1790",
     "offset": 75601,
     "length": 225
@@ -5464,7 +5464,7 @@
     "key": "story.quest.winterstocks.body",
     "category": "06_Quests_Events_Story",
     "source_en": "Do you remember the parable of the lazy cat and the busy beavers? How the lazy cat ignored the advice of the beavers and never stocked up food for the winter? How he preferred the comfort of sleeping in the sun over diligent saving…\n\nWinter is coming. We need to be like the busy beavers and build up our food stocks.\n",
-    "target_vi": "Trưởng Làng có còn nhớ câu chuyện ngụ ngôn về con mèo lười biếng và đàn hải ly chăm chỉ không? Về việc con mèo lười phớt lờ lời khuyên của đàn hải ly và chẳng bao giờ thèm tích trữ lương thực cho mùa đông? Nó thích nằm ườn sưởi nắng hơn là cần mẫn chắt chiu dành dụm…\n\nMùa đông đang cận kề rồi. Chúng ta cần phải noi gương đàn hải ly chăm chỉ, mau chóng tích trữ kho lương thôi.\n",
+    "target_vi": "Thủ Lĩnh có còn nhớ câu chuyện ngụ ngôn về con mèo lười biếng và đàn hải ly chăm chỉ không? Về việc con mèo lười phớt lờ lời khuyên của đàn hải ly và chẳng bao giờ thèm tích trữ lương thực cho mùa đông? Nó thích nằm ườn sưởi nắng hơn là cần mẫn chắt chiu dành dụm…\n\nMùa đông đang cận kề rồi. Chúng ta cần phải noi gương đàn hải ly chăm chỉ, mau chóng tích trữ kho lương thôi.\n",
     "context": "story | Row 1792",
     "offset": 76097,
     "length": 319
@@ -5524,7 +5524,7 @@
     "key": "story.quest.hungerpains.body",
     "category": "06_Quests_Events_Story",
     "source_en": "I am so hungry… Please, I need food. I don’t think I can last much longer.",
-    "target_vi": "Tôi đói đến lả đi rồi… Cầu xin Trưởng Làng, tôi cần chút đồ ăn. Tôi không nghĩ mình có thể cầm cự được lâu hơn nữa đâu.",
+    "target_vi": "Tôi đói đến lả đi rồi… Cầu xin Thủ Lĩnh, tôi cần chút đồ ăn. Tôi không nghĩ mình có thể cầm cự được lâu hơn nữa đâu.",
     "context": "story | Row 1798",
     "offset": 78005,
     "length": 75
@@ -5564,7 +5564,7 @@
     "key": "story.quest.decorations.body",
     "category": "06_Quests_Events_Story",
     "source_en": "Times might be tough, but that is no excuse for neglecting our own town. Decorating the paths and erecting statues will lighten everyone’s mood. Even the Claws cannot deny us such a luxury.\n\nPlease decorate at least 8 path segments. We can ask that much, can’t we?",
-    "target_vi": "Dù thời buổi có gian nan, đó cũng chẳng phải lý do để chúng ta bỏ bê thị trấn của mình. Làm đẹp các nẻo đường và dựng tượng sẽ thắp sáng tinh thần của toàn thể bầy chuột. Ngay cả Phe Móng Vuốt cũng chẳng thể tước đoạt một thú vui tao nhã như thế của chúng ta.\n\nXin hãy trang trí ít nhất 8 đoạn lối đi. Chúng tôi thỉnh cầu điều này đâu có quá đáng, phải không Trưởng Làng?",
+    "target_vi": "Dù thời buổi có gian nan, đó cũng chẳng phải lý do để chúng ta bỏ bê thị trấn của mình. Làm đẹp các nẻo đường và dựng tượng sẽ thắp sáng tinh thần của toàn thể bầy chuột. Ngay cả Phe Móng Vuốt cũng chẳng thể tước đoạt một thú vui tao nhã như thế của chúng ta.\n\nXin hãy trang trí ít nhất 8 đoạn lối đi. Chúng tôi thỉnh cầu điều này đâu có quá đáng, phải không Thủ Lĩnh?",
     "context": "story | Row 1802",
     "offset": 78609,
     "length": 265
@@ -5694,7 +5694,7 @@
     "key": "story.quest.conveyors.title",
     "category": "06_Quests_Events_Story",
     "source_en": "Conveyors",
-    "target_vi": "Băng Tải Cơ Khí",
+    "target_vi": "Băng Chuyền Cơ Khí",
     "context": "story | Row 1815",
     "offset": 82499,
     "length": 10
@@ -5704,7 +5704,7 @@
     "key": "story.quest.conveyors.body",
     "category": "06_Quests_Events_Story",
     "source_en": "It feels like every day this cargo gets heavier and heavier. Just yesterday, I almost threw out my back carrying some rocks. Could we have some Conveyor Belts to lighten the load?\n\nConveyors unlock item transport without the sweat. We need only bring the item to an Input Hopper and away it goes. The conveyor carries it along, and we can get back to our work.",
-    "target_vi": "Cảm giác như mỗi ngày trôi qua, đống hàng hóa này lại càng nặng thêm. Mới hôm qua thôi, tôi suýt còng cả lưng khi phải gồng gánh mấy tảng đá. Chúng ta có thể lắp vài Dây Băng Tải để giảm bớt gánh nặng được không?\n\nBăng tải giúp chuyển hàng mà không tốn lấy một giọt mồ hôi. Chúng ta chỉ việc thả hàng vào Phễu Nạp rồi đứng nhìn nó tự chạy. Băng tải sẽ chở hàng đi tít tắp, còn chúng ta có thể thảnh thơi quay lại làm việc của mình.",
+    "target_vi": "Cảm giác như mỗi ngày trôi qua, đống hàng hóa này lại càng nặng thêm. Mới hôm qua thôi, tôi suýt còng cả lưng khi phải gánh đá từ mỏ về. Chúng ta không thể tiếp tục làm việc thế này được!\n\nNghe đồn có thứ gọi là Băng Chuyền Cơ Khí. Băng chuyền giúp chuyển hàng mà không tốn lấy một giọt mồ hôi. Nếu chúng ta dựng được vài đoạn băng chuyền, năng suất lao động sẽ tăng vọt cho mà xem.\n\nHãy nghiên cứu Băng Chuyền và xây dựng vài đoạn thử nghiệm nhé?",
     "context": "story | Row 1816",
     "offset": 82523,
     "length": 361
@@ -6364,7 +6364,7 @@
     "key": "tag.guildtrait.fastfields",
     "category": "06_Quests_Events_Story",
     "source_en": "Walks faster on fields",
-    "target_vi": "Di chuyển nhanh hơn trên ruộng đồng",
+    "target_vi": "Di chuyển nhanh hơn trên đồng ruộng",
     "context": "tag | Row 1993",
     "offset": 96646,
     "length": 23
@@ -6764,7 +6764,7 @@
     "key": "admin.hint",
     "category": "06_Quests_Events_Story",
     "source_en": "Build a Management Office to manage production limits",
-    "target_vi": "Xây dựng Văn Phòng Quản Lý để điều phối các hạn mức sản xuất",
+    "target_vi": "Xây dựng Văn Phòng Điều Phối để điều phối các hạn mức sản xuất...",
     "context": "admin | Row 2174",
     "offset": 104546,
     "length": 54
@@ -8204,7 +8204,7 @@
     "key": "tradeship.4",
     "category": "06_Quests_Events_Story",
     "source_en": "Trader No. 2",
-    "target_vi": "Tàu Thương Nhân Số 2",
+    "target_vi": "Tàu Buôn Số 2",
     "context": "tradeship | Row 2469",
     "offset": 115754,
     "length": 13
@@ -9144,7 +9144,7 @@
     "key": "story.quest.28.body",
     "category": "06_Quests_Events_Story",
     "source_en": "My vessel has been damaged beyond my ability to repair!\n\nWithout assistance, I dare not fathom what would come of me out on the open sea.\n\nYou're an honorable sort, aren't you? Then help a fellow out! I implore you by your good nature!\n\nIf you rescue me from my predicament, then by my honour, I will repay you one day! You'll see!",
-    "target_vi": "Con tàu của tôi đã hư hại vượt quá khả năng sửa chữa rồi!\n\nKhông có ai cứu giúp, tôi thật chẳng dám tưởng tượng chuyện gì sẽ xảy ra giữa đại dương bao la này.\n\nTrưởng Làng là một bậc nghĩa hiệp, phải không? Xin hãy cứu giúp một đồng loại chuột hoạn nạn! Tôi khẩn cầu bằng tấm lòng hảo tâm của Trưởng Làng!\n\nNếu Trưởng Làng cứu tôi thoát khỏi cảnh ngặt nghèo này, tôi xin lấy danh dự thề rằng một ngày nào đó sẽ đền đáp ân tình! Rồi Trưởng Làng sẽ thấy!",
+    "target_vi": "Con tàu của tôi đã hư hại vượt quá khả năng sửa chữa rồi!\n\nKhông có ai cứu giúp, tôi thật chẳng dám tưởng tượng chuyện gì sẽ xảy ra giữa đại dương bao la này.\n\nThủ Lĩnh là một bậc nghĩa hiệp, phải không? Xin hãy cứu giúp một đồng loại chuột hoạn nạn! Tôi khẩn cầu bằng tấm lòng hảo tâm của Thủ Lĩnh!\n\nNếu Thủ Lĩnh cứu tôi thoát khỏi cảnh ngặt nghèo này, tôi xin lấy danh dự thề rằng một ngày nào đó sẽ đền đáp ân tình! Rồi Thủ Lĩnh sẽ thấy!",
     "context": "story | Row 2628",
     "offset": 122413,
     "length": 332
@@ -9164,7 +9164,7 @@
     "key": "story.quest.29.body",
     "category": "06_Quests_Events_Story",
     "source_en": "Begging your pardon. \nI know it's not my place to say, but you must build more ships!\n\n\nThe Claws maintain a vast fleet, and if we ever want to escape their filthy clutches, we must grow to match! \n\n\nMore ships means more freedom. Not so bad a thing, I'd say.\n\n\nOf course, far be it from a lowly sailor like myself to tell a great whisker such as yourself what to build. I'm sure you'll come to the right decision all on your own.",
-    "target_vi": "Xin thứ lỗi cho tôi.\nTôi biết mình không có phận sự lên tiếng, nhưng Trưởng Làng nhất định phải đóng thêm tàu bè!\n\n\nPhe Móng Vuốt nắm giữ một hạm đội khổng lồ, và nếu chúng ta muốn thoát khỏi móng vuốt nhơ bẩn của chúng, chúng ta phải lớn mạnh ngang tầm!\n\n\nCàng nhiều tàu bè đồng nghĩa với càng nhiều tự do. Chẳng phải điều đó quá tuyệt vời sao?\n\n\nDĩ nhiên, một thủy thủ hèn mọn như tôi đâu dám chỉ tay năm ngón bảo một thủ lĩnh vĩ đại như Trưởng Làng phải xây dựng thứ gì. Tôi tin chắc Trưởng Làng sẽ tự đưa ra quyết định đúng đắn nhất.",
+    "target_vi": "Xin thứ lỗi cho tôi.\nTôi biết mình không có phận sự lên tiếng, nhưng Thủ Lĩnh nhất định phải đóng thêm tàu bè!\n\n\nPhe Móng Vuốt nắm giữ một hạm đội khổng lồ, và nếu chúng ta muốn thoát khỏi móng vuốt nhơ bẩn của chúng, chúng ta phải lớn mạnh ngang tầm!\n\n\nCàng nhiều tàu bè đồng nghĩa với càng nhiều tự do. Chẳng phải điều đó quá tuyệt vời sao?\n\n\nDĩ nhiên, một thủy thủ hèn mọn như tôi đâu dám chỉ tay năm ngón bảo một thủ lĩnh vĩ đại như Thủ Lĩnh phải xây dựng thứ gì. Tôi tin chắc Thủ Lĩnh sẽ tự đưa ra quyết định đúng đắn nhất.",
     "context": "story | Row 2630",
     "offset": 122799,
     "length": 431
@@ -9184,7 +9184,7 @@
     "key": "story.quest.30.body",
     "category": "06_Quests_Events_Story",
     "source_en": "I've got news for you, but you might not want to hear it. \n\nAs I was pondering on our situation, I realized that we might be needing a bit of a \"leg up\" when it comes to shipbuilding. \n\nAnd I says to myself, \"who's got better sea legs than pirates\"? \n\nSo I went out, told the pirates about our island, and secured an agreement with them! \n\nNow I know most Whiskers aren't the type to parley with such \"sailors of ill repute\", but please don't get angry! Hear me out. It's for the good of the colony, after all.\n\nThe pirates have agreed to share with us the secret to building shipyards! And all it will cost us is five measly gold bars! \n\n'Course, I don't want you thinking I'm some kind of freebooter who doesn't know how to pay his fair share! Once you manage to pay off the pirates, I'll chip in a gold bar of my own from my stash.",
-    "target_vi": "Tôi có tin này cho Trưởng Làng, nhưng có thể Trưởng Làng sẽ không thích nghe đâu.\n\nKhi ngẫm nghĩ về tình cảnh của chúng ta, tôi nhận ra chúng ta cần một chút \"đòn bẩy\" trong kỹ nghệ đóng tàu.\n\nVà tôi tự nhủ, \"ai thạo sóng gió biển khơi hơn lũ hải tặc chứ\"?\n\nThế là tôi đã mạo hiểm ra khơi, kể cho đám hải tặc nghe về hòn đảo của chúng ta, và dàn xếp được một thỏa thuận với chúng!\n\nTôi biết hầu hết bầy chuột chẳng bao giờ thèm đàm phán với những kẻ \"thủy thủ mang tiếng xấu\" như thế, nhưng xin Trưởng Làng đừng nổi giận! Hãy nghe tôi giãi bày. Rốt cuộc thì tất cả cũng vì tương lai thuộc địa thôi mà.\n\nĐám hải tặc đã đồng ý chia sẻ cho chúng ta bí quyết xây dựng Xưởng Đóng Tàu! Và tất cả những gì chúng đòi hỏi chỉ là năm thỏi vàng còm cõi!\n\nDĩ nhiên, tôi đâu muốn Trưởng Làng nghĩ tôi là loại chuột cơ hội không biết chia sẻ gánh nặng! Khi nào Trưởng Làng gom đủ vàng trả cho hải tặc, tôi sẽ tự trích một thỏi vàng từ hòm giấu của riêng mình để góp cùng.",
+    "target_vi": "Tôi có tin này cho Thủ Lĩnh, nhưng có thể Thủ Lĩnh sẽ không thích nghe đâu.\n\nKhi ngẫm nghĩ về tình cảnh của chúng ta, tôi nhận ra chúng ta cần một chút \"đòn bẩy\" trong kỹ nghệ đóng tàu.\n\nVà tôi tự nhủ, \"ai thạo sóng gió biển khơi hơn lũ hải tặc chứ\"?\n\nThế là tôi đã mạo hiểm ra khơi, kể cho đám hải tặc nghe về hòn đảo của chúng ta, và dàn xếp được một thỏa thuận với chúng!\n\nTôi biết hầu hết bầy chuột chẳng bao giờ thèm đàm phán với những kẻ \"thủy thủ mang tiếng xấu\" như thế, nhưng xin Thủ Lĩnh đừng nổi giận! Hãy nghe tôi giãi bày. Rốt cuộc thì tất cả cũng vì tương lai thuộc địa thôi mà.\n\nĐám hải tặc đã đồng ý chia sẻ cho chúng ta bí quyết xây dựng Xưởng Đóng Tàu! Và tất cả những gì chúng đòi hỏi chỉ là năm thỏi vàng còm cõi!\n\nDĩ nhiên, tôi đâu muốn Thủ Lĩnh nghĩ tôi là loại chuột cơ hội không biết chia sẻ gánh nặng! Khi nào Thủ Lĩnh gom đủ vàng trả cho hải tặc, tôi sẽ tự trích một thỏi vàng từ hòm giấu của riêng mình để góp cùng.",
     "context": "story | Row 2632",
     "offset": 123273,
     "length": 835
@@ -9224,7 +9224,7 @@
     "key": "story.quest.32.body",
     "category": "06_Quests_Events_Story",
     "source_en": "Send my thanks to the colony for constructing this fine new ship. That old boat you found me in could never achieve what needs to be done! I’ll take it. Consider it your first donation to the cause!\n\nFor too long, our kind has toiled under the oppression of the Claws! Waiting for today, when a Whisker brave enough to start the rebellion decided to make the choice the cowards ignored. As I promised when we met, now I’ve made good on my promise and repaid your kindness.\n\nRemember this day! Tell your children. Tell them you were there when Stormie left port and started the Whisker Rebellion!",
-    "target_vi": "Gửi lời cảm ơn chân thành của tôi đến toàn thể thuộc địa vì đã đóng xong con tàu tuyệt mỹ này. Con thuyền cũ rách ngày trước mà Trưởng Làng vớt tôi lên sẽ chẳng bao giờ làm nên đại sự! Tôi xin phép lấy con tàu này. Cứ coi như đây là khoản đóng góp đầu tiên của Trưởng Làng cho đại nghĩa tự do!\n\nQuá lâu rồi, giống loài chuột chúng ta phải oằn mình làm nô lệ dưới sự áp bức của Phe Móng Vuốt! Mòn mỏi chờ đợi ngày này, khi một chú chuột đủ quả cảm để phất cờ khởi nghĩa dám đưa ra lựa chọn mà những kẻ hèn nhát lẩn tránh. Như đã hứa khi chúng ta tương ngộ, giờ tôi đã giữ trọn lời thề và đền đáp ân tình của Trưởng Làng.\n\nHãy ghi nhớ ngày này! Hãy kể lại cho đàn con cháu của bà con. Kể cho chúng nghe bà con đã có mặt ở đây khi Stormie rời cảng và châm ngòi cho Cuộc Khởi Nghĩa Của Loài Chuột!",
+    "target_vi": "Gửi lời cảm ơn chân thành của tôi đến toàn thể thuộc địa vì đã đóng xong con tàu tuyệt mỹ này. Con thuyền cũ rách ngày trước mà Thủ Lĩnh vớt tôi lên sẽ chẳng bao giờ làm nên đại sự! Tôi xin phép lấy con tàu này. Cứ coi như đây là khoản đóng góp đầu tiên của Thủ Lĩnh cho đại nghĩa tự do!\n\nQuá lâu rồi, giống loài chuột chúng ta phải oằn mình làm nô lệ dưới sự áp bức của Phe Móng Vuốt! Mòn mỏi chờ đợi ngày này, khi một chú chuột đủ quả cảm để phất cờ khởi nghĩa dám đưa ra lựa chọn mà những kẻ hèn nhát lẩn tránh. Như đã hứa khi chúng ta tương ngộ, giờ tôi đã giữ trọn lời thề và đền đáp ân tình của Thủ Lĩnh.\n\nHãy ghi nhớ ngày này! Hãy kể lại cho đàn con cháu sau này. Kể cho chúng nghe các bạn đã có mặt ở đây khi Stormie rời cảng và châm ngòi cho Cuộc Khởi Nghĩa Của Loài Chuột!",
     "context": "story | Row 2636",
     "offset": 125209,
     "length": 596
@@ -9514,7 +9514,7 @@
     "key": "story.common.intro6",
     "category": "06_Quests_Events_Story",
     "source_en": "Dear Chief,",
-    "target_vi": "Kính Gửi Trưởng Làng,",
+    "target_vi": "Kính Gửi Thủ Lĩnh,",
     "context": "story | Row 2665",
     "offset": 133774,
     "length": 12
@@ -9804,7 +9804,7 @@
     "key": "trade.noPartnersDiscovered.desc",
     "category": "06_Quests_Events_Story",
     "source_en": "Explore the ocean to find willing traders",
-    "target_vi": "Hãy thám hiểm đại dương để tìm kiếm những thương nhân sẵn lòng giao dịch",
+    "target_vi": "Hãy thám hiểm đại dương để tìm kiếm những tàu buôn sẵn lòng giao dịch",
     "context": "trade | Row 2698",
     "offset": 135072,
     "length": 42
